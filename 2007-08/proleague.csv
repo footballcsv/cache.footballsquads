@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2007-08-03,Mechelen,Anderlecht,0-1,0-0
+2007-08-04,Charleroi,Roeselare,1-1,1-0
+2007-08-04,Club Brugge,Bergen,2-1,1-1
+2007-08-04,Dender,Germinal,1-2,0-0
+2007-08-04,FC Brussels,Westerlo,0-1,0-0
+2007-08-04,Genk,Cercle Brugge,3-1,3-1
+2007-08-04,Lokeren,St Truiden,2-1,1-0
+2007-08-05,Mouscron,Gent,1-4,1-2
+2007-08-05,Waregem,Standard,1-4,1-1
+2007-08-10,Westerlo,Charleroi,1-0,1-0
+2007-08-11,Anderlecht,Lokeren,1-0,0-0
+2007-08-11,Bergen,Mechelen,1-1,0-0
+2007-08-11,Cercle Brugge,Waregem,2-0,1-0
+2007-08-11,Gent,Genk,5-0,1-0
+2007-08-11,Roeselare,Dender,3-1,2-0
+2007-08-11,St Truiden,Mouscron,0-2,0-0
+2007-08-11,Standard,FC Brussels,4-1,2-0
+2007-08-12,Germinal,Club Brugge,0-1,0-0
+2007-08-17,Club Brugge,St Truiden,3-2,1-2
+2007-08-18,Charleroi,Mechelen,1-0,0-0
+2007-08-18,Dender,Anderlecht,2-2,2-2
+2007-08-18,FC Brussels,Gent,0-2,0-0
+2007-08-18,Genk,Roeselare,0-0,0-0
+2007-08-18,Lokeren,Germinal,0-0,0-0
+2007-08-18,Mouscron,Bergen,3-1,2-1
+2007-08-18,Waregem,Westerlo,1-0,1-0
+2007-08-19,Standard,Cercle Brugge,4-1,3-1
+2007-08-25,Anderlecht,FC Brussels,3-0,2-0
+2007-08-25,Bergen,Lokeren,0-1,0-1
+2007-08-25,Cercle Brugge,Dender,3-0,1-0
+2007-08-25,Gent,Waregem,1-1,1-1
+2007-08-25,Germinal,Genk,1-2,0-1
+2007-08-25,Roeselare,Standard,0-4,0-2
+2007-08-25,Westerlo,Mouscron,0-2,0-0
+2007-08-26,St Truiden,Charleroi,1-3,0-1
+2007-08-27,Mechelen,Club Brugge,1-1,0-1
+2007-08-31,Charleroi,Bergen,3-1,1-1
+2007-09-01,Cercle Brugge,Gent,4-1,2-0
+2007-09-01,Dender,St Truiden,1-0,0-0
+2007-09-01,FC Brussels,Roeselare,0-0,0-0
+2007-09-01,Genk,Westerlo,1-0,0-0
+2007-09-01,Lokeren,Mechelen,3-1,2-0
+2007-09-01,Waregem,Germinal,2-1,1-1
+2007-09-02,Mouscron,Anderlecht,1-2,1-1
+2007-09-02,Standard,Club Brugge,2-1,0-0
+2007-09-15,Anderlecht,Waregem,2-2,1-0
+2007-09-15,Bergen,FC Brussels,2-1,0-1
+2007-09-15,Club Brugge,Lokeren,1-1,0-0
+2007-09-15,Germinal,Charleroi,1-0,0-0
+2007-09-15,Mechelen,Mouscron,2-2,0-1
+2007-09-15,Roeselare,Cercle Brugge,0-2,0-0
+2007-09-15,Westerlo,Dender,0-0,0-0
+2007-09-16,Gent,Standard,1-1,0-1
+2007-09-16,St Truiden,Genk,1-2,1-2
+2007-09-22,Cercle Brugge,Germinal,1-1,1-1
+2007-09-22,Dender,Bergen,0-3,0-1
+2007-09-22,FC Brussels,St Truiden,2-0,0-0
+2007-09-22,Gent,Roeselare,1-1,1-1
+2007-09-22,Mouscron,Lokeren,2-0,1-0
+2007-09-22,Waregem,Mechelen,2-0,0-0
+2007-09-23,Charleroi,Club Brugge,1-1,0-0
+2007-09-23,Genk,Anderlecht,1-1,0-0
+2007-09-24,Standard,Westerlo,2-1,1-1
+2007-09-28,Bergen,Genk,1-1,0-1
+2007-09-29,Anderlecht,Charleroi,0-1,0-1
+2007-09-29,Club Brugge,Mouscron,1-0,0-0
+2007-09-29,Lokeren,FC Brussels,0-1,0-0
+2007-09-29,Roeselare,Waregem,3-2,1-1
+2007-09-29,St Truiden,Standard,0-0,0-0
+2007-09-29,Westerlo,Cercle Brugge,1-1,0-1
+2007-09-30,Germinal,Gent,2-2,0-2
+2007-09-30,Mechelen,Dender,2-2,1-2
+2007-10-05,Charleroi,Mouscron,1-3,1-1
+2007-10-06,Cercle Brugge,St Truiden,5-1,2-1
+2007-10-06,Dender,Lokeren,0-1,0-0
+2007-10-06,Genk,Mechelen,2-1,1-0
+2007-10-06,Gent,Westerlo,1-1,1-0
+2007-10-06,Waregem,Bergen,2-1,1-0
+2007-10-07,FC Brussels,Club Brugge,1-3,0-3
+2007-10-07,Roeselare,Anderlecht,2-2,1-0
+2007-10-07,Standard,Germinal,3-1,3-1
+2007-10-20,Club Brugge,Dender,2-0,0-0
+2007-10-20,Germinal,FC Brussels,3-0,1-0
+2007-10-20,Lokeren,Charleroi,1-0,0-0
+2007-10-20,Mechelen,Cercle Brugge,0-4,0-1
+2007-10-20,Mouscron,Genk,1-1,0-1
+2007-10-20,St Truiden,Waregem,2-1,1-1
+2007-10-20,Westerlo,Roeselare,6-0,2-0
+2007-10-21,Anderlecht,Gent,2-1,2-0
+2007-10-21,Bergen,Standard,1-1,0-0
+2007-10-26,Gent,Bergen,2-0,2-0
+2007-10-27,Dender,Mouscron,0-3,0-1
+2007-10-27,FC Brussels,Charleroi,1-2,1-1
+2007-10-27,Roeselare,St Truiden,2-0,1-0
+2007-10-27,Standard,Mechelen,2-2,1-1
+2007-10-27,Waregem,Lokeren,1-1,1-0
+2007-10-27,Westerlo,Germinal,1-2,1-0
+2007-10-28,Cercle Brugge,Anderlecht,0-0,0-0
+2007-10-28,Genk,Club Brugge,1-2,0-1
+2007-11-02,Mouscron,Standard,0-0,0-0
+2007-11-03,Anderlecht,Westerlo,3-1,1-1
+2007-11-03,Bergen,Cercle Brugge,0-2,0-1
+2007-11-03,Charleroi,Dender,1-0,0-0
+2007-11-03,Club Brugge,Waregem,1-0,1-0
+2007-11-03,Germinal,Roeselare,2-0,1-0
+2007-11-03,St Truiden,Gent,2-1,0-0
+2007-11-04,Lokeren,Genk,1-1,0-1
+2007-11-04,Mechelen,FC Brussels,4-0,2-0
+2007-11-09,Cercle Brugge,Club Brugge,1-2,1-1
+2007-11-10,FC Brussels,Dender,4-1,1-0
+2007-11-10,Genk,Charleroi,1-0,1-0
+2007-11-10,Standard,Lokeren,1-0,1-0
+2007-11-10,Waregem,Mouscron,2-1,2-0
+2007-11-10,Westerlo,St Truiden,2-0,0-0
+2007-11-11,Gent,Mechelen,4-1,3-1
+2007-11-11,Germinal,Anderlecht,2-0,1-0
+2007-11-12,Roeselare,Bergen,4-3,2-1
+2007-11-30,Anderlecht,Standard,0-0,0-0
+2007-12-01,Bergen,Westerlo,1-3,0-1
+2007-12-01,Charleroi,Waregem,2-3,1-2
+2007-12-01,Lokeren,Cercle Brugge,1-1,1-0
+2007-12-01,Mechelen,Roeselare,4-3,3-1
+2007-12-01,Mouscron,FC Brussels,1-1,0-0
+2007-12-01,St Truiden,Germinal,0-3,0-0
+2007-12-02,Club Brugge,Gent,0-0,0-0
+2007-12-02,Dender,Genk,2-0,1-0
+2007-12-07,Standard,Charleroi,5-1,3-0
+2007-12-08,Cercle Brugge,Mouscron,3-0,2-0
+2007-12-08,FC Brussels,Genk,0-5,
+2007-12-08,Gent,Lokeren,4-2,1-0
+2007-12-08,Germinal,Bergen,2-0,0-0
+2007-12-08,Waregem,Dender,1-2,1-0
+2007-12-08,Westerlo,Mechelen,1-1,0-1
+2007-12-09,Roeselare,Club Brugge,1-2,1-0
+2007-12-09,St Truiden,Anderlecht,4-3,2-3
+2007-12-14,Genk,Waregem,5-2,1-2
+2007-12-15,Bergen,St Truiden,0-0,0-0
+2007-12-15,Dender,Standard,0-0,0-0
+2007-12-15,FC Brussels,Cercle Brugge,1-4,0-3
+2007-12-15,Lokeren,Westerlo,1-1,1-0
+2007-12-15,Mechelen,Germinal,1-2,1-1
+2007-12-15,Mouscron,Roeselare,1-3,0-2
+2007-12-16,Charleroi,Gent,1-2,0-1
+2007-12-16,Club Brugge,Anderlecht,1-0,0-0
+2007-12-22,Anderlecht,Bergen,3-2,3-1
+2007-12-22,Gent,Dender,2-4,1-2
+2007-12-22,Germinal,Mouscron,3-0,2-0
+2007-12-22,St Truiden,Mechelen,0-1,0-1
+2007-12-22,Waregem,FC Brussels,1-0,0-0
+2007-12-23,Cercle Brugge,Charleroi,3-1,1-0
+2007-12-23,Standard,Genk,3-1,1-0
+2008-01-18,Bergen,Club Brugge,0-1,0-0
+2008-01-19,Anderlecht,Mechelen,1-0,1-0
+2008-01-19,Germinal,Dender,1-0,1-0
+2008-01-19,Roeselare,Charleroi,1-2,1-1
+2008-01-19,St Truiden,Lokeren,1-1,0-1
+2008-01-19,Standard,Waregem,3-1,1-1
+2008-01-19,Westerlo,FC Brussels,7-2,4-2
+2008-01-20,Cercle Brugge,Genk,5-1,1-0
+2008-01-20,Gent,Mouscron,2-0,1-0
+2008-01-22,Roeselare,Lokeren,1-1,1-0
+2008-01-22,Westerlo,Club Brugge,0-0,0-0
+2008-01-25,Waregem,Cercle Brugge,0-3,0-2
+2008-01-26,Charleroi,Westerlo,1-1,0-0
+2008-01-26,Club Brugge,Germinal,3-0,0-0
+2008-01-26,Dender,Roeselare,2-1,1-1
+2008-01-26,Genk,Gent,3-3,1-2
+2008-01-26,Mechelen,Bergen,2-0,1-0
+2008-01-26,Mouscron,St Truiden,0-0,0-0
+2008-01-27,FC Brussels,Standard,0-1,0-1
+2008-01-27,Lokeren,Anderlecht,0-0,0-0
+2008-02-02,Anderlecht,Dender,1-0,1-0
+2008-02-02,Bergen,Mouscron,2-0,0-0
+2008-02-02,Gent,FC Brussels,1-0,1-0
+2008-02-02,Mechelen,Charleroi,1-0,0-0
+2008-02-02,Roeselare,Genk,0-0,0-0
+2008-02-02,Westerlo,Waregem,1-1,1-0
+2008-02-03,Cercle Brugge,Standard,0-0,0-0
+2008-02-03,Germinal,Lokeren,1-1,0-1
+2008-02-03,St Truiden,Club Brugge,1-1,0-0
+2008-02-09,Charleroi,St Truiden,1-1,1-1
+2008-02-09,Club Brugge,Mechelen,2-0,1-0
+2008-02-09,Dender,Cercle Brugge,2-4,1-1
+2008-02-09,FC Brussels,Anderlecht,2-4,1-2
+2008-02-09,Lokeren,Bergen,1-2,0-1
+2008-02-09,Mouscron,Westerlo,1-2,0-2
+2008-02-09,Standard,Roeselare,0-0,0-0
+2008-02-10,Genk,Germinal,1-3,0-0
+2008-02-10,Waregem,Gent,2-1,1-0
+2008-02-15,Gent,Cercle Brugge,3-2,1-0
+2008-02-16,Bergen,Charleroi,0-0,0-0
+2008-02-16,Germinal,Waregem,0-0,0-0
+2008-02-16,Mechelen,Lokeren,1-1,0-0
+2008-02-16,Roeselare,FC Brussels,2-0,1-0
+2008-02-16,St Truiden,Dender,1-2,0-0
+2008-02-16,Westerlo,Genk,2-1,1-1
+2008-02-17,Anderlecht,Mouscron,2-1,2-0
+2008-02-17,Club Brugge,Standard,1-2,0-0
+2008-02-22,Genk,St Truiden,0-1,0-0
+2008-02-23,Cercle Brugge,Roeselare,0-0,0-0
+2008-02-23,Charleroi,Germinal,0-0,0-0
+2008-02-23,Dender,Westerlo,2-0,1-0
+2008-02-23,FC Brussels,Bergen,1-1,0-1
+2008-02-23,Mouscron,Mechelen,0-1,0-1
+2008-02-23,Standard,Gent,0-0,0-0
+2008-02-24,Lokeren,Club Brugge,0-1,0-0
+2008-02-24,Waregem,Anderlecht,1-0,1-0
+2008-02-29,Club Brugge,Charleroi,0-2,0-0
+2008-03-01,Bergen,Dender,2-2,1-2
+2008-03-01,Lokeren,Mouscron,0-0,0-0
+2008-03-01,Mechelen,Waregem,2-1,1-0
+2008-03-01,Roeselare,Gent,0-1,0-0
+2008-03-01,St Truiden,FC Brussels,1-1,1-0
+2008-03-01,Westerlo,Standard,1-3,1-0
+2008-03-02,Anderlecht,Genk,1-0,1-0
+2008-03-02,Germinal,Cercle Brugge,3-0,2-0
+2008-03-07,Standard,St Truiden,2-1,2-1
+2008-03-08,Cercle Brugge,Westerlo,1-0,1-0
+2008-03-08,Dender,Mechelen,0-3,0-1
+2008-03-08,FC Brussels,Lokeren,2-0,2-0
+2008-03-08,Genk,Bergen,1-2,1-1
+2008-03-08,Mouscron,Club Brugge,2-0,1-0
+2008-03-08,Waregem,Roeselare,3-1,2-0
+2008-03-09,Charleroi,Anderlecht,0-2,0-2
+2008-03-09,Gent,Germinal,2-1,1-0
+2008-03-14,Germinal,Standard,1-2,0-2
+2008-03-15,Bergen,Waregem,3-0,1-0
+2008-03-15,Club Brugge,FC Brussels,1-0,0-0
+2008-03-15,Lokeren,Dender,1-0,1-0
+2008-03-15,Mouscron,Charleroi,3-1,1-0
+2008-03-15,St Truiden,Cercle Brugge,0-0,0-0
+2008-03-15,Westerlo,Gent,2-0,1-0
+2008-03-16,Anderlecht,Roeselare,5-0,3-0
+2008-03-16,Mechelen,Genk,2-2,1-1
+2008-03-21,Genk,Mouscron,3-1,1-1
+2008-03-22,Cercle Brugge,Mechelen,2-0,1-0
+2008-03-22,Charleroi,Lokeren,1-0,0-0
+2008-03-22,Dender,Club Brugge,1-0,0-0
+2008-03-22,FC Brussels,Germinal,1-2,1-0
+2008-03-22,Roeselare,Westerlo,0-2,0-0
+2008-03-22,Waregem,St Truiden,3-2,1-0
+2008-03-23,Gent,Anderlecht,2-3,0-2
+2008-03-23,Standard,Bergen,2-0,0-0
+2008-03-29,Bergen,Gent,4-0,2-0
+2008-03-29,Charleroi,FC Brussels,1-0,0-0
+2008-03-29,Germinal,Westerlo,0-2,0-0
+2008-03-29,Lokeren,Waregem,0-0,0-0
+2008-03-29,Mechelen,Standard,0-1,0-0
+2008-03-29,Mouscron,Dender,2-1,1-1
+2008-03-29,St Truiden,Roeselare,0-1,0-0
+2008-03-30,Anderlecht,Cercle Brugge,3-1,1-1
+2008-03-30,Club Brugge,Genk,2-6,1-4
+2008-04-04,Gent,St Truiden,2-3,0-2
+2008-04-05,Cercle Brugge,Bergen,0-0,0-0
+2008-04-05,Dender,Charleroi,2-4,1-1
+2008-04-05,FC Brussels,Mechelen,2-2,1-2
+2008-04-05,Genk,Lokeren,2-3,0-0
+2008-04-05,Roeselare,Germinal,1-0,1-0
+2008-04-05,Waregem,Club Brugge,2-3,0-2
+2008-04-06,Standard,Mouscron,1-0,0-0
+2008-04-06,Westerlo,Anderlecht,0-2,0-2
+2008-04-11,Lokeren,Standard,0-0,0-0
+2008-04-12,Bergen,Roeselare,1-1,1-1
+2008-04-12,Charleroi,Genk,3-1,2-1
+2008-04-12,Dender,FC Brussels,1-1,0-0
+2008-04-12,Mechelen,Gent,1-0,0-0
+2008-04-12,Mouscron,Waregem,0-2,0-1
+2008-04-12,St Truiden,Westerlo,0-2,0-0
+2008-04-13,Anderlecht,Germinal,2-0,0-0
+2008-04-13,Club Brugge,Cercle Brugge,1-0,0-0
+2008-04-18,Cercle Brugge,Lokeren,3-2,1-1
+2008-04-19,FC Brussels,Mouscron,0-2,0-1
+2008-04-19,Genk,Dender,2-0,0-0
+2008-04-19,Germinal,St Truiden,2-1,2-0
+2008-04-19,Roeselare,Mechelen,2-2,2-2
+2008-04-19,Waregem,Charleroi,2-2,0-2
+2008-04-19,Westerlo,Bergen,0-0,0-0
+2008-04-20,Gent,Club Brugge,0-0,0-0
+2008-04-20,Standard,Anderlecht,2-0,0-0
+2008-04-25,Lokeren,Gent,1-1,0-0
+2008-04-26,Anderlecht,St Truiden,4-1,0-1
+2008-04-26,Bergen,Germinal,0-0,0-0
+2008-04-26,Dender,Waregem,2-1,0-1
+2008-04-26,Genk,FC Brussels,2-1,2-1
+2008-04-26,Mechelen,Westerlo,1-0,0-0
+2008-04-26,Mouscron,Cercle Brugge,1-0,1-0
+2008-04-27,Charleroi,Standard,2-1,1-1
+2008-04-27,Club Brugge,Roeselare,1-0,1-0
+2008-05-02,Waregem,Genk,2-2,0-2
+2008-05-03,Anderlecht,Club Brugge,2-0,2-0
+2008-05-03,Cercle Brugge,FC Brussels,0-0,0-0
+2008-05-03,Gent,Charleroi,2-1,1-0
+2008-05-03,Germinal,Mechelen,4-3,2-0
+2008-05-03,Roeselare,Mouscron,2-1,1-1
+2008-05-03,St Truiden,Bergen,1-1,0-1
+2008-05-03,Standard,Dender,3-0,2-0
+2008-05-03,Westerlo,Lokeren,1-2,1-0
+2008-05-09,FC Brussels,Waregem,1-2,0-2
+2008-05-10,Bergen,Anderlecht,1-2,0-1
+2008-05-10,Charleroi,Cercle Brugge,1-3,0-2
+2008-05-10,Club Brugge,Westerlo,4-0,2-0
+2008-05-10,Dender,Gent,0-3,0-2
+2008-05-10,Genk,Standard,0-2,0-1
+2008-05-10,Lokeren,Roeselare,3-0,1-0
+2008-05-10,Mechelen,St Truiden,2-3,0-3
+2008-05-10,Mouscron,Germinal,1-0,0-0

@@ -1,0 +1,241 @@
+Date,Team 1,Team 2,FT,HT
+2013-07-26,Club Brugge,Charleroi,2-0,0-0
+2013-07-27,Bergen,Cercle Brugge,1-1,1-0
+2013-07-27,Genk,Oostende,3-0,1-0
+2013-07-27,Kortrijk,Oud-Heverlee Leuven,1-0,0-0
+2013-07-27,Lierse,Waregem,1-2,1-2
+2013-07-27,Waasland-Beveren,Gent,1-1,0-0
+2013-07-28,Anderlecht,Lokeren,2-3,0-1
+2013-07-28,Mechelen,Standard,0-2,0-0
+2013-08-02,Cercle Brugge,Anderlecht,0-4,0-2
+2013-08-03,Charleroi,Waasland-Beveren,1-1,0-0
+2013-08-03,Lokeren,Bergen,2-1,0-1
+2013-08-03,Oud-Heverlee Leuven,Genk,1-4,0-1
+2013-08-03,Waregem,Kortrijk,1-0,0-0
+2013-08-04,Gent,Mechelen,2-1,0-1
+2013-08-04,Oostende,Club Brugge,1-2,1-1
+2013-08-04,Standard,Lierse,3-0,2-0
+2013-08-09,Kortrijk,Lokeren,3-3,0-0
+2013-08-10,Bergen,Charleroi,1-2,1-0
+2013-08-10,Lierse,Cercle Brugge,1-1,1-0
+2013-08-10,Oostende,Oud-Heverlee Leuven,1-1,0-1
+2013-08-10,Waasland-Beveren,Mechelen,0-0,0-0
+2013-08-11,Anderlecht,Gent,4-1,2-0
+2013-08-11,Club Brugge,Waregem,1-1,1-0
+2013-08-11,Genk,Standard,0-2,0-1
+2013-08-17,Cercle Brugge,Oostende,2-0,2-0
+2013-08-17,Charleroi,Kortrijk,1-2,1-2
+2013-08-17,Gent,Lierse,2-1,0-1
+2013-08-17,Lokeren,Genk,3-1,1-0
+2013-08-17,Mechelen,Club Brugge,1-2,0-1
+2013-08-17,Waregem,Bergen,2-0,1-0
+2013-08-18,Standard,Oud-Heverlee Leuven,1-0,0-0
+2013-08-18,Waasland-Beveren,Anderlecht,0-3,0-0
+2013-08-24,Kortrijk,Mechelen,1-2,0-1
+2013-08-24,Lierse,Waasland-Beveren,1-0,0-0
+2013-08-24,Oud-Heverlee Leuven,Lokeren,2-1,0-0
+2013-08-25,Anderlecht,Charleroi,5-2,2-1
+2013-08-25,Bergen,Standard,0-2,0-1
+2013-08-25,Club Brugge,Gent,1-1,1-1
+2013-08-25,Genk,Cercle Brugge,1-0,1-0
+2013-08-25,Oostende,Waregem,1-1,1-1
+2013-08-31,Cercle Brugge,Oud-Heverlee Leuven,1-1,0-0
+2013-08-31,Gent,Bergen,1-0,1-0
+2013-08-31,Lokeren,Oostende,1-0,0-0
+2013-08-31,Mechelen,Lierse,0-0,0-0
+2013-09-01,Charleroi,Genk,1-1,1-1
+2013-09-01,Standard,Kortrijk,2-0,0-0
+2013-09-01,Waasland-Beveren,Club Brugge,1-2,0-1
+2013-09-01,Waregem,Anderlecht,4-3,1-1
+2013-09-14,Anderlecht,Mechelen,5-0,4-0
+2013-09-14,Bergen,Waasland-Beveren,1-1,1-0
+2013-09-14,Club Brugge,Lierse,4-1,1-0
+2013-09-14,Kortrijk,Gent,3-0,1-0
+2013-09-14,Lokeren,Cercle Brugge,3-0,2-0
+2013-09-14,Oud-Heverlee Leuven,Charleroi,0-0,0-0
+2013-09-15,Genk,Waregem,5-2,1-1
+2013-09-15,Oostende,Standard,2-4,1-3
+2013-09-21,Charleroi,Cercle Brugge,2-0,0-0
+2013-09-21,Gent,Oostende,1-1,0-0
+2013-09-21,Lierse,Kortrijk,2-0,1-0
+2013-09-21,Mechelen,Bergen,4-2,2-1
+2013-09-22,Club Brugge,Anderlecht,4-0,1-0
+2013-09-22,Standard,Lokeren,2-1,2-1
+2013-09-22,Waasland-Beveren,Genk,0-0,0-0
+2013-09-22,Waregem,Oud-Heverlee Leuven,4-2,0-1
+2013-09-28,Bergen,Club Brugge,0-1,0-1
+2013-09-28,Genk,Mechelen,1-0,0-0
+2013-09-28,Kortrijk,Waasland-Beveren,2-1,2-1
+2013-09-28,Lokeren,Waregem,2-4,0-1
+2013-09-28,Oostende,Charleroi,1-0,1-0
+2013-09-28,Oud-Heverlee Leuven,Gent,1-1,0-1
+2013-09-29,Anderlecht,Lierse,2-0,0-0
+2013-09-29,Cercle Brugge,Standard,0-5,0-3
+2013-10-05,Charleroi,Lokeren,2-1,1-0
+2013-10-05,Club Brugge,Oud-Heverlee Leuven,1-0,1-0
+2013-10-05,Lierse,Bergen,2-1,1-0
+2013-10-05,Mechelen,Cercle Brugge,1-2,0-0
+2013-10-05,Waasland-Beveren,Oostende,2-0,1-0
+2013-10-06,Anderlecht,Kortrijk,0-1,0-1
+2013-10-06,Gent,Genk,1-2,1-0
+2013-10-06,Waregem,Standard,1-0,0-0
+2013-10-18,Bergen,Anderlecht,0-2,0-2
+2013-10-19,Cercle Brugge,Waregem,1-1,1-0
+2013-10-19,Genk,Lierse,4-0,3-0
+2013-10-19,Lokeren,Gent,2-2,2-0
+2013-10-19,Oostende,Mechelen,0-3,0-3
+2013-10-19,Oud-Heverlee Leuven,Waasland-Beveren,4-2,1-1
+2013-10-20,Kortrijk,Club Brugge,4-1,1-1
+2013-10-20,Standard,Charleroi,2-2,0-1
+2013-10-25,Gent,Cercle Brugge,1-1,0-1
+2013-10-26,Bergen,Kortrijk,0-1,0-1
+2013-10-26,Lierse,Oostende,0-2,0-0
+2013-10-26,Mechelen,Oud-Heverlee Leuven,4-2,1-1
+2013-10-26,Waasland-Beveren,Lokeren,0-2,0-2
+2013-10-27,Anderlecht,Standard,1-1,1-1
+2013-10-27,Club Brugge,Genk,0-2,0-1
+2013-10-27,Waregem,Charleroi,1-1,1-0
+2013-10-30,Charleroi,Mechelen,2-2,0-0
+2013-10-30,Genk,Kortrijk,1-0,0-0
+2013-10-30,Lokeren,Lierse,1-0,1-0
+2013-10-30,Oostende,Anderlecht,0-3,0-1
+2013-10-30,Oud-Heverlee Leuven,Bergen,2-2,2-2
+2013-10-30,Waregem,Gent,3-2,1-1
+2013-10-31,Cercle Brugge,Club Brugge,2-0,1-0
+2013-10-31,Standard,Waasland-Beveren,2-2,1-1
+2013-11-02,Anderlecht,Oud-Heverlee Leuven,3-1,2-0
+2013-11-02,Bergen,Genk,2-3,0-1
+2013-11-02,Kortrijk,Oostende,2-0,2-0
+2013-11-02,Lierse,Charleroi,2-1,0-0
+2013-11-02,Mechelen,Waregem,2-2,0-0
+2013-11-03,Club Brugge,Lokeren,1-0,1-0
+2013-11-03,Gent,Standard,0-1,0-0
+2013-11-03,Waasland-Beveren,Cercle Brugge,0-1,0-0
+2013-11-08,Lokeren,Mechelen,4-0,2-0
+2013-11-09,Cercle Brugge,Kortrijk,3-1,2-0
+2013-11-09,Charleroi,Gent,0-1,0-0
+2013-11-09,Oostende,Bergen,2-0,2-0
+2013-11-09,Oud-Heverlee Leuven,Lierse,2-0,2-0
+2013-11-10,Genk,Anderlecht,0-1,0-0
+2013-11-10,Standard,Club Brugge,0-0,0-0
+2013-11-10,Waregem,Waasland-Beveren,2-0,0-0
+2013-11-23,Cercle Brugge,Lierse,2-4,0-1
+2013-11-23,Charleroi,Anderlecht,2-1,0-0
+2013-11-23,Gent,Waasland-Beveren,2-0,0-0
+2013-11-23,Oostende,Genk,4-0,3-0
+2013-11-23,Oud-Heverlee Leuven,Kortrijk,1-1,0-0
+2013-11-23,Waregem,Mechelen,3-1,0-1
+2013-11-24,Lokeren,Club Brugge,0-3,0-2
+2013-11-24,Standard,Bergen,1-0,1-0
+2013-11-30,Bergen,Lokeren,1-0,1-0
+2013-11-30,Club Brugge,Oostende,2-0,0-0
+2013-11-30,Mechelen,Gent,0-1,0-0
+2013-11-30,Waasland-Beveren,Charleroi,0-0,0-0
+2013-12-01,Anderlecht,Cercle Brugge,2-1,1-0
+2013-12-01,Genk,Oud-Heverlee Leuven,3-0,0-0
+2013-12-01,Kortrijk,Waregem,1-1,1-0
+2013-12-01,Lierse,Standard,0-5,0-1
+2013-12-07,Anderlecht,Waasland-Beveren,2-0,1-0
+2013-12-07,Bergen,Waregem,1-1,1-1
+2013-12-07,Club Brugge,Mechelen,3-0,2-0
+2013-12-07,Kortrijk,Charleroi,1-1,0-1
+2013-12-07,Lierse,Gent,1-3,0-1
+2013-12-07,Oostende,Cercle Brugge,2-0,0-0
+2013-12-08,Genk,Lokeren,0-2,0-2
+2013-12-08,Oud-Heverlee Leuven,Standard,0-0,0-0
+2013-12-14,Cercle Brugge,Bergen,2-1,2-0
+2013-12-14,Lokeren,Kortrijk,0-0,0-0
+2013-12-14,Mechelen,Waasland-Beveren,0-0,0-0
+2013-12-14,Oud-Heverlee Leuven,Oostende,1-2,1-0
+2013-12-15,Charleroi,Club Brugge,2-2,0-2
+2013-12-15,Gent,Anderlecht,1-2,1-0
+2013-12-15,Standard,Genk,3-1,0-0
+2013-12-15,Waregem,Lierse,3-0,2-0
+2013-12-21,Cercle Brugge,Genk,1-0,1-0
+2013-12-21,Charleroi,Bergen,0-2,0-1
+2013-12-21,Lokeren,Oud-Heverlee Leuven,2-0,1-0
+2013-12-21,Mechelen,Kortrijk,5-2,1-1
+2013-12-21,Waasland-Beveren,Lierse,3-1,1-0
+2013-12-21,Waregem,Oostende,2-2,0-1
+2013-12-22,Gent,Club Brugge,1-3,1-1
+2013-12-22,Standard,Anderlecht,1-1,0-1
+2013-12-26,Anderlecht,Waregem,1-0,0-0
+2013-12-26,Bergen,Gent,1-0,0-0
+2013-12-26,Club Brugge,Waasland-Beveren,1-2,1-1
+2013-12-26,Genk,Charleroi,0-3,0-1
+2013-12-26,Lierse,Mechelen,3-0,0-0
+2013-12-26,Oostende,Lokeren,0-3,0-2
+2013-12-26,Oud-Heverlee Leuven,Cercle Brugge,3-0,2-0
+2013-12-27,Kortrijk,Standard,1-5,0-3
+2014-01-18,Cercle Brugge,Lokeren,0-3,0-1
+2014-01-18,Charleroi,Oud-Heverlee Leuven,2-0,0-0
+2014-01-18,Gent,Kortrijk,0-1,0-0
+2014-01-18,Lierse,Club Brugge,1-1,0-0
+2014-01-18,Standard,Oostende,2-0,1-0
+2014-01-18,Waasland-Beveren,Bergen,4-1,2-1
+2014-01-19,Mechelen,Anderlecht,2-1,1-1
+2014-01-19,Waregem,Genk,1-0,0-0
+2014-01-24,Lokeren,Standard,0-1,0-1
+2014-01-25,Bergen,Mechelen,0-2,0-0
+2014-01-25,Cercle Brugge,Charleroi,3-0,1-0
+2014-01-25,Kortrijk,Lierse,3-4,1-2
+2014-01-25,Oostende,Waasland-Beveren,2-1,1-0
+2014-01-25,Oud-Heverlee Leuven,Waregem,1-0,0-0
+2014-01-26,Anderlecht,Club Brugge,2-0,1-0
+2014-01-26,Genk,Gent,1-2,1-2
+2014-01-31,Lierse,Anderlecht,2-0,1-0
+2014-02-01,Charleroi,Oostende,0-1,0-1
+2014-02-01,Club Brugge,Bergen,2-1,0-0
+2014-02-01,Gent,Oud-Heverlee Leuven,2-0,0-0
+2014-02-01,Mechelen,Genk,0-2,0-1
+2014-02-01,Standard,Cercle Brugge,4-0,1-0
+2014-02-01,Waasland-Beveren,Kortrijk,1-1,1-1
+2014-02-02,Waregem,Lokeren,1-1,0-1
+2014-02-08,Bergen,Lierse,1-5,1-0
+2014-02-08,Cercle Brugge,Waasland-Beveren,0-0,0-0
+2014-02-08,Kortrijk,Anderlecht,2-2,0-0
+2014-02-08,Lokeren,Charleroi,3-1,2-1
+2014-02-08,Oostende,Gent,0-0,0-0
+2014-02-08,Oud-Heverlee Leuven,Mechelen,0-0,0-0
+2014-02-09,Genk,Club Brugge,1-3,1-1
+2014-02-09,Standard,Waregem,2-0,0-0
+2014-02-14,Club Brugge,Kortrijk,3-1,2-0
+2014-02-15,Charleroi,Standard,0-1,0-0
+2014-02-15,Lierse,Genk,0-1,0-0
+2014-02-15,Mechelen,Oostende,1-1,1-0
+2014-02-15,Waasland-Beveren,Oud-Heverlee Leuven,1-0,0-0
+2014-02-15,Waregem,Cercle Brugge,2-1,1-1
+2014-02-16,Anderlecht,Bergen,2-0,1-0
+2014-02-16,Gent,Lokeren,1-1,1-0
+2014-02-21,Lokeren,Anderlecht,2-1,1-0
+2014-02-22,Cercle Brugge,Mechelen,3-2,0-2
+2014-02-22,Charleroi,Waregem,3-2,1-1
+2014-02-22,Kortrijk,Bergen,1-2,0-1
+2014-02-22,Oostende,Lierse,3-2,0-0
+2014-02-23,Genk,Waasland-Beveren,0-2,0-1
+2014-02-23,Oud-Heverlee Leuven,Club Brugge,2-5,0-2
+2014-02-23,Standard,Gent,2-3,1-2
+2014-02-28,Mechelen,Lokeren,1-0,1-0
+2014-03-01,Bergen,Oostende,3-0,2-0
+2014-03-01,Gent,Charleroi,2-1,1-1
+2014-03-01,Kortrijk,Cercle Brugge,4-0,4-0
+2014-03-01,Lierse,Oud-Heverlee Leuven,0-0,0-0
+2014-03-01,Waasland-Beveren,Waregem,2-2,1-2
+2014-03-02,Anderlecht,Genk,2-0,0-0
+2014-03-02,Club Brugge,Standard,1-0,0-0
+2014-03-08,Cercle Brugge,Gent,1-4,0-2
+2014-03-08,Charleroi,Lierse,1-1,0-1
+2014-03-08,Genk,Bergen,3-1,1-0
+2014-03-08,Lokeren,Waasland-Beveren,0-0,0-0
+2014-03-08,Oostende,Kortrijk,0-0,0-0
+2014-03-08,Oud-Heverlee Leuven,Anderlecht,1-0,0-0
+2014-03-08,Standard,Mechelen,2-0,0-0
+2014-03-08,Waregem,Club Brugge,1-1,0-0
+2014-03-16,Anderlecht,Oostende,4-0,2-0
+2014-03-16,Bergen,Oud-Heverlee Leuven,3-2,2-1
+2014-03-16,Club Brugge,Cercle Brugge,2-0,0-0
+2014-03-16,Gent,Waregem,0-1,0-0
+2014-03-16,Kortrijk,Genk,2-2,2-0
+2014-03-16,Lierse,Lokeren,1-2,0-0
+2014-03-16,Mechelen,Charleroi,0-3,0-1
+2014-03-16,Waasland-Beveren,Standard,1-1,1-0

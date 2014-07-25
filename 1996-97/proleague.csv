@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+1996-08-01,Club Brugge,Harelbeke,1-0,1-0
+1996-08-02,Aalst,Anderlecht,0-0,0-0
+1996-08-03,Charleroi,Antwerp,3-0,2-0
+1996-08-03,Germinal,Gent,1-2,0-1
+1996-08-03,Lokeren,Genk,1-0,1-0
+1996-08-03,Lommel,Mouscron,0-2,0-0
+1996-08-03,Mechelen,Cercle Brugge,0-0,0-0
+1996-08-03,Molenbeek,Lierse,0-0,0-0
+1996-08-03,Standard,St Truiden,2-0,1-0
+1996-08-10,Anderlecht,Lommel,6-0,3-0
+1996-08-10,Antwerp,Mechelen,3-2,0-1
+1996-08-10,Cercle Brugge,Aalst,1-2,0-0
+1996-08-10,Genk,Standard,3-1,0-0
+1996-08-10,Gent,Charleroi,3-1,1-0
+1996-08-10,Mouscron,Lokeren,2-1,0-0
+1996-08-10,St Truiden,Molenbeek,0-2,0-0
+1996-08-11,Harelbeke,Germinal,2-3,1-2
+1996-08-11,Lierse,Club Brugge,2-2,0-1
+1996-08-16,Mouscron,Anderlecht,1-1,0-0
+1996-08-17,Charleroi,Harelbeke,0-1,0-0
+1996-08-17,Germinal,Lierse,1-1,0-0
+1996-08-17,Lokeren,Standard,0-1,0-0
+1996-08-17,Lommel,Cercle Brugge,1-1,1-1
+1996-08-17,Mechelen,Gent,1-1,0-1
+1996-08-17,Molenbeek,Genk,2-2,1-1
+1996-08-18,Aalst,Antwerp,1-2,1-1
+1996-08-18,Club Brugge,St Truiden,6-1,4-1
+1996-08-24,Anderlecht,Lokeren,2-2,1-1
+1996-08-24,Antwerp,Lommel,1-4,1-2
+1996-08-24,Cercle Brugge,Mouscron,2-2,2-1
+1996-08-24,Genk,Club Brugge,1-1,0-1
+1996-08-24,Gent,Aalst,3-2,1-1
+1996-08-24,Harelbeke,Mechelen,3-3,2-2
+1996-08-24,Lierse,Charleroi,4-0,1-0
+1996-08-24,St Truiden,Germinal,3-1,1-1
+1996-08-24,Standard,Molenbeek,3-0,1-0
+1996-09-06,Club Brugge,Standard,3-0,2-0
+1996-09-07,Anderlecht,Cercle Brugge,4-0,1-0
+1996-09-07,Charleroi,St Truiden,1-1,1-1
+1996-09-07,Germinal,Genk,0-1,0-1
+1996-09-07,Lokeren,Molenbeek,0-0,0-0
+1996-09-07,Lommel,Gent,2-2,1-2
+1996-09-07,Mechelen,Lierse,2-2,1-1
+1996-09-07,Mouscron,Antwerp,2-2,1-1
+1996-09-08,Aalst,Harelbeke,1-1,0-0
+1996-09-14,Cercle Brugge,Lokeren,2-6,1-4
+1996-09-15,Antwerp,Anderlecht,0-2,0-0
+1996-09-15,Genk,Charleroi,1-4,0-3
+1996-09-15,Gent,Mouscron,2-4,0-3
+1996-09-15,Harelbeke,Lommel,0-2,0-0
+1996-09-15,Lierse,Aalst,0-1,0-1
+1996-09-15,Molenbeek,Club Brugge,1-3,0-2
+1996-09-15,St Truiden,Mechelen,2-3,2-2
+1996-09-15,Standard,Germinal,2-1,0-1
+1996-09-21,Anderlecht,Gent,2-1,2-1
+1996-09-21,Cercle Brugge,Antwerp,0-1,0-1
+1996-09-21,Charleroi,Standard,1-2,0-0
+1996-09-21,Germinal,Molenbeek,0-0,0-0
+1996-09-21,Lokeren,Club Brugge,1-1,1-1
+1996-09-21,Lommel,Lierse,1-1,0-0
+1996-09-21,Mechelen,Genk,0-0,0-0
+1996-09-21,Mouscron,Harelbeke,1-0,1-0
+1996-09-22,Aalst,St Truiden,3-3,2-0
+1996-09-28,Genk,Aalst,1-1,0-0
+1996-09-28,Lierse,Mouscron,1-0,1-0
+1996-09-28,Molenbeek,Charleroi,1-3,0-2
+1996-09-28,St Truiden,Lommel,2-4,0-2
+1996-09-28,Standard,Mechelen,3-1,2-1
+1996-09-29,Club Brugge,Germinal,2-0,1-0
+1996-09-29,Gent,Cercle Brugge,2-1,0-1
+1996-09-29,Harelbeke,Anderlecht,0-0,0-0
+1996-09-30,Antwerp,Lokeren,4-1,2-0
+1996-10-05,Aalst,Standard,1-2,0-2
+1996-10-05,Anderlecht,Lierse,0-0,0-0
+1996-10-05,Antwerp,Gent,3-1,0-0
+1996-10-05,Cercle Brugge,Harelbeke,1-2,1-1
+1996-10-05,Charleroi,Club Brugge,3-0,1-0
+1996-10-05,Lokeren,Germinal,0-1,0-1
+1996-10-05,Lommel,Genk,0-0,0-0
+1996-10-05,Mechelen,Molenbeek,0-2,0-0
+1996-10-05,Mouscron,St Truiden,5-0,0-0
+1996-10-12,Genk,Mouscron,0-0,0-0
+1996-10-12,Gent,Lokeren,1-2,0-0
+1996-10-12,Germinal,Charleroi,1-0,1-0
+1996-10-12,Lierse,Cercle Brugge,4-2,2-1
+1996-10-12,Molenbeek,Aalst,2-0,0-0
+1996-10-12,St Truiden,Anderlecht,4-0,1-0
+1996-10-12,Standard,Lommel,3-1,2-1
+1996-10-13,Club Brugge,Mechelen,2-0,1-0
+1996-10-13,Harelbeke,Antwerp,2-1,0-0
+1996-10-19,Anderlecht,Genk,3-1,0-1
+1996-10-19,Antwerp,Lierse,0-1,0-0
+1996-10-19,Cercle Brugge,St Truiden,1-1,0-0
+1996-10-19,Gent,Harelbeke,1-4,0-2
+1996-10-19,Lokeren,Charleroi,4-2,3-1
+1996-10-19,Lommel,Molenbeek,2-0,0-0
+1996-10-19,Mechelen,Germinal,3-0,1-0
+1996-10-19,Mouscron,Standard,2-1,2-1
+1996-10-20,Aalst,Club Brugge,1-1,0-1
+1996-10-26,Charleroi,Mechelen,1-0,0-0
+1996-10-26,Genk,Cercle Brugge,2-0,1-0
+1996-10-26,Germinal,Aalst,6-1,1-0
+1996-10-26,Lierse,Gent,2-1,1-0
+1996-10-26,Molenbeek,Mouscron,2-0,1-0
+1996-10-26,St Truiden,Antwerp,0-2,0-0
+1996-10-26,Standard,Anderlecht,0-1,0-1
+1996-10-27,Club Brugge,Lommel,3-2,2-1
+1996-10-27,Harelbeke,Lokeren,5-1,3-1
+1996-11-02,Anderlecht,Molenbeek,0-1,0-0
+1996-11-02,Antwerp,Genk,4-0,2-0
+1996-11-02,Gent,St Truiden,1-1,1-1
+1996-11-02,Lokeren,Mechelen,4-0,2-0
+1996-11-02,Lommel,Germinal,3-2,2-1
+1996-11-03,Aalst,Charleroi,2-2,2-1
+1996-11-03,Cercle Brugge,Standard,2-4,1-1
+1996-11-03,Harelbeke,Lierse,3-1,2-0
+1996-11-03,Mouscron,Club Brugge,1-0,0-0
+1996-11-09,Charleroi,Lommel,1-3,1-2
+1996-11-09,Genk,Gent,4-2,1-1
+1996-11-09,Lierse,Lokeren,3-0,1-0
+1996-11-09,Mechelen,Aalst,1-0,0-0
+1996-11-09,Molenbeek,Cercle Brugge,2-0,1-0
+1996-11-09,St Truiden,Harelbeke,1-2,1-1
+1996-11-09,Standard,Antwerp,4-0,0-0
+1996-11-10,Club Brugge,Anderlecht,2-1,1-1
+1996-11-10,Germinal,Mouscron,1-1,1-0
+1996-11-16,Anderlecht,Germinal,4-1,1-0
+1996-11-16,Antwerp,Molenbeek,3-2,1-2
+1996-11-16,Gent,Standard,2-1,1-0
+1996-11-16,Lierse,St Truiden,2-1,2-0
+1996-11-16,Lokeren,Aalst,2-2,1-1
+1996-11-16,Lommel,Mechelen,1-0,1-0
+1996-11-17,Cercle Brugge,Club Brugge,0-2,0-2
+1996-11-17,Harelbeke,Genk,2-1,1-1
+1996-11-17,Mouscron,Charleroi,3-1,2-0
+1996-11-23,Charleroi,Anderlecht,0-0,0-0
+1996-11-23,Genk,Lierse,1-1,1-0
+1996-11-23,Lokeren,St Truiden,1-1,0-1
+1996-11-23,Mechelen,Mouscron,0-2,0-1
+1996-11-23,Molenbeek,Gent,1-2,0-2
+1996-11-23,Standard,Harelbeke,2-0,1-0
+1996-11-24,Aalst,Lommel,1-1,1-1
+1996-11-24,Club Brugge,Antwerp,4-2,3-2
+1996-11-24,Germinal,Cercle Brugge,2-2,0-1
+1996-11-30,Anderlecht,Mechelen,0-0,0-0
+1996-11-30,Antwerp,Germinal,2-0,1-0
+1996-11-30,Gent,Club Brugge,1-3,1-2
+1996-11-30,Lierse,Standard,2-1,1-0
+1996-11-30,Lommel,Lokeren,1-0,1-0
+1996-11-30,St Truiden,Genk,1-1,1-0
+1996-12-01,Cercle Brugge,Charleroi,1-0,0-0
+1996-12-01,Harelbeke,Molenbeek,3-0,0-0
+1996-12-01,Mouscron,Aalst,3-2,0-1
+1996-12-21,Antwerp,Charleroi,3-1,0-0
+1996-12-21,Cercle Brugge,Mechelen,1-2,1-2
+1996-12-21,Genk,Lokeren,0-1,0-1
+1996-12-21,Gent,Germinal,2-0,0-0
+1996-12-21,Harelbeke,Club Brugge,2-0,2-0
+1996-12-21,Lierse,Molenbeek,2-1,2-0
+1996-12-21,Mouscron,Lommel,3-0,2-0
+1996-12-21,St Truiden,Standard,2-0,0-0
+1997-01-18,Aalst,Cercle Brugge,4-2,2-2
+1997-01-18,Charleroi,Gent,1-0,1-0
+1997-01-18,Club Brugge,Lierse,2-4,0-2
+1997-01-18,Germinal,Harelbeke,1-3,1-1
+1997-01-18,Lokeren,Mouscron,0-2,0-1
+1997-01-18,Mechelen,Antwerp,0-0,0-0
+1997-01-18,Molenbeek,St Truiden,2-1,1-1
+1997-01-18,Standard,Genk,0-2,0-1
+1997-01-25,Anderlecht,Mouscron,1-1,1-0
+1997-01-25,Antwerp,Aalst,1-0,0-0
+1997-01-25,Cercle Brugge,Lommel,3-1,0-0
+1997-01-25,Genk,Molenbeek,3-1,1-0
+1997-01-25,Gent,Mechelen,2-2,1-1
+1997-01-25,Harelbeke,Charleroi,0-0,0-0
+1997-01-25,Lierse,Germinal,0-0,0-0
+1997-01-25,St Truiden,Club Brugge,2-1,1-0
+1997-01-25,Standard,Lokeren,3-3,1-1
+1997-02-01,Aalst,Gent,1-0,0-0
+1997-02-01,Charleroi,Lierse,1-1,1-0
+1997-02-01,Club Brugge,Genk,2-1,0-0
+1997-02-01,Germinal,St Truiden,3-1,1-0
+1997-02-01,Lokeren,Anderlecht,0-1,0-0
+1997-02-01,Lommel,Antwerp,1-0,0-0
+1997-02-01,Mechelen,Harelbeke,2-1,1-0
+1997-02-01,Molenbeek,Standard,1-1,0-0
+1997-02-01,Mouscron,Cercle Brugge,1-1,0-1
+1997-02-05,Lommel,Anderlecht,1-1,0-0
+1997-02-08,Antwerp,Mouscron,1-2,0-2
+1997-02-08,Cercle Brugge,Anderlecht,0-3,0-1
+1997-02-08,Genk,Germinal,3-1,0-0
+1997-02-08,Gent,Lommel,2-1,1-0
+1997-02-08,Harelbeke,Aalst,0-0,0-0
+1997-02-08,Lierse,Mechelen,4-2,1-1
+1997-02-08,Molenbeek,Lokeren,0-1,0-0
+1997-02-08,St Truiden,Charleroi,2-0,0-0
+1997-02-08,Standard,Club Brugge,1-3,0-2
+1997-02-15,Aalst,Lierse,1-2,0-2
+1997-02-15,Anderlecht,Antwerp,2-3,1-2
+1997-02-15,Charleroi,Genk,1-0,1-0
+1997-02-15,Club Brugge,Molenbeek,1-0,0-0
+1997-02-15,Germinal,Standard,4-0,3-0
+1997-02-15,Lokeren,Cercle Brugge,1-3,1-2
+1997-02-15,Lommel,Harelbeke,1-0,0-0
+1997-02-15,Mechelen,St Truiden,0-2,0-1
+1997-02-15,Mouscron,Gent,3-0,2-0
+1997-02-22,Antwerp,Cercle Brugge,0-0,0-0
+1997-02-22,Genk,Mechelen,0-1,0-1
+1997-02-22,Lierse,Lommel,3-2,0-0
+1997-02-22,Molenbeek,Germinal,0-1,0-0
+1997-02-22,St Truiden,Aalst,1-0,1-0
+1997-02-22,Standard,Charleroi,4-1,1-1
+1997-02-23,Club Brugge,Lokeren,8-2,2-1
+1997-02-23,Gent,Anderlecht,1-2,1-1
+1997-02-23,Harelbeke,Mouscron,2-2,1-1
+1997-03-01,Aalst,Genk,1-3,0-2
+1997-03-01,Anderlecht,Harelbeke,3-2,1-1
+1997-03-01,Cercle Brugge,Gent,1-0,1-0
+1997-03-01,Charleroi,Molenbeek,1-1,1-0
+1997-03-01,Germinal,Club Brugge,0-0,0-0
+1997-03-01,Lokeren,Antwerp,0-2,0-0
+1997-03-01,Lommel,St Truiden,2-1,1-1
+1997-03-01,Mechelen,Standard,3-0,2-0
+1997-03-01,Mouscron,Lierse,2-2,1-1
+1997-03-08,Genk,Lommel,0-1,0-0
+1997-03-08,Gent,Antwerp,0-0,0-0
+1997-03-08,Germinal,Lokeren,1-0,1-0
+1997-03-08,Molenbeek,Mechelen,3-1,0-0
+1997-03-08,St Truiden,Mouscron,2-0,0-0
+1997-03-08,Standard,Aalst,3-0,2-0
+1997-03-09,Club Brugge,Charleroi,2-1,1-0
+1997-03-09,Harelbeke,Cercle Brugge,3-1,3-1
+1997-03-09,Lierse,Anderlecht,5-1,3-0
+1997-03-15,Aalst,Molenbeek,1-1,1-0
+1997-03-15,Anderlecht,St Truiden,3-1,0-1
+1997-03-15,Antwerp,Harelbeke,0-0,0-0
+1997-03-15,Cercle Brugge,Lierse,0-2,0-1
+1997-03-15,Charleroi,Germinal,4-1,2-0
+1997-03-15,Lokeren,Gent,1-0,1-0
+1997-03-15,Lommel,Standard,1-0,0-0
+1997-03-15,Mechelen,Club Brugge,0-2,0-0
+1997-03-15,Mouscron,Genk,2-0,1-0
+1997-03-22,Charleroi,Lokeren,3-1,1-0
+1997-03-22,Genk,Anderlecht,3-2,0-0
+1997-03-22,Germinal,Mechelen,2-2,1-1
+1997-03-22,Lierse,Antwerp,1-0,0-0
+1997-03-22,Molenbeek,Lommel,0-0,0-0
+1997-03-22,St Truiden,Cercle Brugge,0-0,0-0
+1997-03-22,Standard,Mouscron,4-3,3-1
+1997-03-24,Club Brugge,Aalst,3-0,2-0
+1997-03-24,Harelbeke,Gent,1-1,1-0
+1997-03-28,Anderlecht,Aalst,3-0,1-0
+1997-04-02,Anderlecht,Standard,2-1,2-0
+1997-04-05,Antwerp,St Truiden,1-2,0-1
+1997-04-05,Cercle Brugge,Genk,0-4,0-1
+1997-04-05,Gent,Lierse,4-5,2-3
+1997-04-05,Lokeren,Harelbeke,0-0,0-0
+1997-04-05,Lommel,Club Brugge,2-0,2-0
+1997-04-05,Mechelen,Charleroi,1-1,1-1
+1997-04-05,Mouscron,Molenbeek,2-0,1-0
+1997-04-06,Aalst,Germinal,5-0,3-0
+1997-04-12,Charleroi,Aalst,2-3,2-1
+1997-04-12,Genk,Antwerp,3-0,2-0
+1997-04-12,Germinal,Lommel,4-1,2-0
+1997-04-12,Lierse,Harelbeke,1-0,1-0
+1997-04-12,Mechelen,Lokeren,0-1,0-0
+1997-04-12,Molenbeek,Anderlecht,0-0,0-0
+1997-04-12,St Truiden,Gent,1-2,0-0
+1997-04-12,Standard,Cercle Brugge,1-2,1-1
+1997-04-13,Club Brugge,Mouscron,3-0,2-0
+1997-04-19,Anderlecht,Club Brugge,0-1,0-0
+1997-04-19,Cercle Brugge,Molenbeek,1-1,1-0
+1997-04-19,Gent,Genk,0-1,0-0
+1997-04-19,Lokeren,Lierse,0-1,0-1
+1997-04-19,Lommel,Charleroi,2-1,2-1
+1997-04-19,Mouscron,Germinal,1-4,1-3
+1997-04-20,Aalst,Mechelen,3-1,1-0
+1997-04-20,Antwerp,Standard,3-0,2-0
+1997-04-20,Harelbeke,St Truiden,1-1,1-0
+1997-05-10,Charleroi,Mouscron,2-1,2-0
+1997-05-10,Genk,Harelbeke,4-1,1-1
+1997-05-10,Germinal,Anderlecht,4-1,1-1
+1997-05-10,Mechelen,Lommel,0-1,0-1
+1997-05-10,Molenbeek,Antwerp,1-2,0-1
+1997-05-10,St Truiden,Lierse,4-2,1-0
+1997-05-10,Standard,Gent,2-0,0-0
+1997-05-11,Aalst,Lokeren,2-0,2-0
+1997-05-11,Club Brugge,Cercle Brugge,3-0,1-0
+1997-05-18,Anderlecht,Charleroi,6-0,5-0
+1997-05-18,Antwerp,Club Brugge,2-1,1-0
+1997-05-18,Cercle Brugge,Germinal,2-3,1-1
+1997-05-18,Gent,Molenbeek,2-0,1-0
+1997-05-18,Harelbeke,Standard,2-3,1-1
+1997-05-18,Lierse,Genk,5-2,1-2
+1997-05-18,Lommel,Aalst,2-2,1-1
+1997-05-18,Mouscron,Mechelen,4-0,2-0
+1997-05-18,St Truiden,Lokeren,0-1,0-1
+1997-05-25,Aalst,Mouscron,0-0,0-0
+1997-05-25,Charleroi,Cercle Brugge,1-3,1-1
+1997-05-25,Club Brugge,Gent,1-0,1-0
+1997-05-25,Genk,St Truiden,1-1,1-1
+1997-05-25,Germinal,Antwerp,6-3,4-2
+1997-05-25,Lokeren,Lommel,3-3,1-1
+1997-05-25,Mechelen,Anderlecht,0-2,0-0
+1997-05-25,Molenbeek,Harelbeke,2-2,1-1
+1997-05-25,Standard,Lierse,0-3,0-3

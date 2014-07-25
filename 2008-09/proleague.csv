@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2008-08-16,Cercle Brugge,Anderlecht,0-3,0-1
+2008-08-16,Dender,Standard,1-3,0-1
+2008-08-16,Roeselare,Kortrijk,2-2,1-1
+2008-08-16,Tubize,Mouscron,1-2,0-1
+2008-08-16,Waregem,Lokeren,0-0,0-0
+2008-08-16,Westerlo,Charleroi,1-0,1-0
+2008-08-17,Genk,Germinal,1-1,1-0
+2008-08-17,Gent,Bergen,5-0,3-0
+2008-08-23,Anderlecht,Gent,2-2,2-2
+2008-08-23,Charleroi,Roeselare,1-0,0-0
+2008-08-23,Germinal,Dender,1-1,1-1
+2008-08-23,Kortrijk,Cercle Brugge,2-1,1-0
+2008-08-23,Lokeren,Tubize,4-1,2-0
+2008-08-23,Mouscron,Mechelen,3-1,1-1
+2008-08-23,Standard,Westerlo,3-0,2-0
+2008-08-24,Bergen,Genk,3-1,2-0
+2008-08-29,Tubize,Club Brugge,1-4,0-3
+2008-08-30,Anderlecht,Kortrijk,4-0,2-0
+2008-08-30,Cercle Brugge,Bergen,2-1,1-0
+2008-08-30,Dender,Mouscron,1-2,0-1
+2008-08-30,Genk,Lokeren,1-0,0-0
+2008-08-30,Mechelen,Waregem,0-2,0-0
+2008-08-30,Westerlo,Germinal,1-0,0-0
+2008-08-31,Gent,Charleroi,2-0,1-0
+2008-08-31,Roeselare,Standard,1-1,0-1
+2008-09-13,Bergen,Anderlecht,1-2,1-1
+2008-09-13,Club Brugge,Dender,1-1,0-1
+2008-09-13,Germinal,Roeselare,3-0,0-0
+2008-09-13,Lokeren,Westerlo,1-1,1-0
+2008-09-13,Mechelen,Tubize,0-0,0-0
+2008-09-13,Mouscron,Gent,4-2,3-0
+2008-09-13,Standard,Kortrijk,2-0,1-0
+2008-09-14,Charleroi,Cercle Brugge,3-2,2-2
+2008-09-14,Waregem,Genk,1-3,1-1
+2008-09-19,Anderlecht,Charleroi,2-0,0-0
+2008-09-20,Cercle Brugge,Germinal,1-0,1-0
+2008-09-20,Dender,Waregem,2-0,1-0
+2008-09-20,Gent,Mechelen,1-2,1-1
+2008-09-20,Kortrijk,Bergen,1-0,1-0
+2008-09-20,Roeselare,Lokeren,0-1,0-0
+2008-09-20,Westerlo,Mouscron,0-0,0-0
+2008-09-21,Genk,Club Brugge,0-1,0-0
+2008-09-21,Tubize,Standard,0-1,0-1
+2008-09-24,Mechelen,Club Brugge,1-1,0-1
+2008-09-26,Standard,Anderlecht,2-1,0-0
+2008-09-27,Bergen,Roeselare,2-0,1-0
+2008-09-27,Charleroi,Kortrijk,1-2,0-0
+2008-09-27,Club Brugge,Westerlo,2-0,1-0
+2008-09-27,Lokeren,Cercle Brugge,1-1,1-1
+2008-09-27,Waregem,Tubize,1-0,0-0
+2008-09-28,Germinal,Gent,2-2,1-0
+2008-09-28,Mouscron,Genk,1-2,1-0
+2008-09-29,Mechelen,Dender,4-1,4-0
+2008-10-03,Anderlecht,Mouscron,2-1,1-0
+2008-10-04,Bergen,Charleroi,1-1,0-0
+2008-10-04,Genk,Mechelen,2-1,2-1
+2008-10-04,Gent,Lokeren,1-1,0-1
+2008-10-04,Kortrijk,Germinal,0-0,0-0
+2008-10-04,Tubize,Dender,2-1,1-0
+2008-10-04,Westerlo,Waregem,3-2,1-1
+2008-10-05,Cercle Brugge,Standard,4-1,1-0
+2008-10-05,Roeselare,Club Brugge,0-1,0-0
+2008-10-18,Dender,Genk,2-4,1-1
+2008-10-18,Germinal,Charleroi,1-2,1-2
+2008-10-18,Lokeren,Kortrijk,2-0,1-0
+2008-10-18,Mechelen,Westerlo,1-3,0-1
+2008-10-18,Mouscron,Roeselare,2-0,0-0
+2008-10-18,Standard,Bergen,2-1,1-0
+2008-10-18,Tubize,Gent,0-1,0-0
+2008-10-19,Club Brugge,Cercle Brugge,3-1,1-1
+2008-10-19,Waregem,Anderlecht,4-0,1-0
+2008-10-24,Kortrijk,Mouscron,2-2,1-1
+2008-10-25,Anderlecht,Mechelen,7-1,4-1
+2008-10-25,Bergen,Germinal,0-0,0-0
+2008-10-25,Cercle Brugge,Dender,1-2,1-1
+2008-10-25,Charleroi,Lokeren,1-1,1-1
+2008-10-25,Roeselare,Waregem,0-3,0-1
+2008-10-25,Westerlo,Tubize,4-1,2-0
+2008-10-26,Genk,Standard,0-0,0-0
+2008-10-26,Gent,Club Brugge,3-0,0-0
+2008-10-29,Club Brugge,Waregem,2-0,0-0
+2008-10-31,Standard,Charleroi,1-2,1-1
+2008-11-01,Club Brugge,Kortrijk,4-1,2-1
+2008-11-01,Dender,Westerlo,2-2,0-1
+2008-11-01,Lokeren,Bergen,0-0,0-0
+2008-11-01,Mechelen,Roeselare,1-2,0-0
+2008-11-01,Mouscron,Cercle Brugge,0-1,0-0
+2008-11-01,Tubize,Genk,1-3,0-1
+2008-11-02,Germinal,Anderlecht,1-3,1-0
+2008-11-02,Waregem,Gent,0-2,0-0
+2008-11-07,Cercle Brugge,Waregem,2-0,0-0
+2008-11-08,Anderlecht,Lokeren,2-3,0-2
+2008-11-08,Bergen,Mouscron,0-0,0-0
+2008-11-08,Gent,Dender,1-1,1-0
+2008-11-08,Kortrijk,Mechelen,0-0,0-0
+2008-11-08,Roeselare,Tubize,1-2,1-1
+2008-11-08,Westerlo,Genk,1-0,0-0
+2008-11-09,Charleroi,Club Brugge,2-2,0-0
+2008-11-09,Germinal,Standard,1-3,1-1
+2008-11-14,Westerlo,Gent,3-2,2-1
+2008-11-15,Dender,Kortrijk,1-0,0-0
+2008-11-15,Genk,Roeselare,1-1,0-0
+2008-11-15,Mechelen,Bergen,0-0,0-0
+2008-11-15,Mouscron,Charleroi,2-1,2-0
+2008-11-15,Tubize,Cercle Brugge,3-0,1-0
+2008-11-15,Waregem,Germinal,2-2,0-2
+2008-11-16,Club Brugge,Anderlecht,1-1,1-0
+2008-11-16,Lokeren,Standard,1-1,0-0
+2008-11-22,Anderlecht,Westerlo,2-0,1-0
+2008-11-22,Bergen,Club Brugge,1-2,1-0
+2008-11-22,Cercle Brugge,Mechelen,2-1,1-1
+2008-11-22,Charleroi,Tubize,3-2,0-2
+2008-11-22,Germinal,Lokeren,0-2,0-0
+2008-11-22,Roeselare,Dender,2-2,1-1
+2008-11-22,Standard,Mouscron,3-1,1-0
+2008-11-23,Gent,Genk,2-3,0-1
+2008-11-28,Dender,Anderlecht,0-2,0-1
+2008-11-29,Genk,Cercle Brugge,3-2,2-1
+2008-11-29,Gent,Roeselare,4-0,2-0
+2008-11-29,Mouscron,Lokeren,2-0,1-0
+2008-11-29,Tubize,Kortrijk,3-3,1-1
+2008-11-29,Waregem,Charleroi,4-2,3-1
+2008-11-29,Westerlo,Bergen,2-1,1-0
+2008-11-30,Club Brugge,Germinal,3-0,2-0
+2008-11-30,Mechelen,Standard,0-0,0-0
+2008-12-05,Cercle Brugge,Gent,3-1,0-0
+2008-12-06,Anderlecht,Tubize,5-1,3-0
+2008-12-06,Bergen,Dender,5-2,2-1
+2008-12-06,Charleroi,Mechelen,1-2,1-1
+2008-12-06,Germinal,Mouscron,3-0,1-0
+2008-12-06,Roeselare,Westerlo,1-0,0-0
+2008-12-06,Standard,Waregem,1-2,1-0
+2008-12-07,Kortrijk,Genk,3-1,0-0
+2008-12-07,Lokeren,Club Brugge,2-0,1-0
+2008-12-12,Mechelen,Germinal,2-1,0-0
+2008-12-13,Dender,Lokeren,1-1,1-1
+2008-12-13,Genk,Charleroi,1-0,0-0
+2008-12-13,Gent,Kortrijk,1-1,1-1
+2008-12-13,Tubize,Bergen,2-1,0-0
+2008-12-13,Waregem,Mouscron,2-1,1-1
+2008-12-13,Westerlo,Cercle Brugge,1-2,0-0
+2008-12-14,Club Brugge,Standard,1-4,0-3
+2008-12-14,Roeselare,Anderlecht,0-3,0-0
+2008-12-16,Kortrijk,Waregem,1-0,1-0
+2008-12-19,Anderlecht,Genk,2-0,1-0
+2008-12-20,Bergen,Waregem,2-2,1-1
+2008-12-20,Cercle Brugge,Roeselare,4-3,3-0
+2008-12-20,Charleroi,Dender,2-0,1-0
+2008-12-20,Germinal,Tubize,2-0,1-0
+2008-12-20,Lokeren,Mechelen,2-2,1-0
+2008-12-20,Mouscron,Club Brugge,5-1,3-1
+2008-12-21,Kortrijk,Westerlo,0-0,0-0
+2008-12-21,Standard,Gent,2-1,1-0
+2009-01-16,Anderlecht,Cercle Brugge,1-2,1-1
+2009-01-17,Bergen,Gent,1-2,1-1
+2009-01-17,Club Brugge,Mechelen,3-0,1-0
+2009-01-17,Kortrijk,Roeselare,2-1,2-0
+2009-01-17,Lokeren,Waregem,2-1,1-0
+2009-01-17,Mouscron,Tubize,1-1,0-1
+2009-01-17,Standard,Dender,3-2,2-2
+2009-01-18,Charleroi,Westerlo,1-2,0-1
+2009-01-18,Germinal,Genk,4-1,1-0
+2009-01-24,Cercle Brugge,Kortrijk,0-1,0-1
+2009-01-24,Dender,Germinal,0-1,0-0
+2009-01-24,Genk,Bergen,2-0,1-0
+2009-01-24,Mechelen,Mouscron,2-2,1-2
+2009-01-24,Roeselare,Charleroi,3-1,2-1
+2009-01-24,Tubize,Lokeren,2-1,0-1
+2009-01-25,Waregem,Club Brugge,3-1,1-0
+2009-01-25,Westerlo,Standard,0-1,0-0
+2009-01-31,Bergen,Cercle Brugge,1-1,0-1
+2009-01-31,Club Brugge,Tubize,3-1,1-0
+2009-01-31,Germinal,Westerlo,2-1,0-0
+2009-01-31,Kortrijk,Anderlecht,1-3,1-0
+2009-01-31,Mouscron,Dender,0-2,0-0
+2009-01-31,Standard,Roeselare,3-0,2-0
+2009-01-31,Waregem,Mechelen,1-1,0-0
+2009-02-01,Charleroi,Gent,2-5,1-2
+2009-02-01,Lokeren,Genk,1-2,1-0
+2009-02-06,Kortrijk,Standard,0-2,0-0
+2009-02-07,Anderlecht,Bergen,3-2,1-2
+2009-02-07,Dender,Club Brugge,0-2,0-0
+2009-02-07,Genk,Waregem,1-2,0-2
+2009-02-07,Gent,Mouscron,2-0,1-0
+2009-02-07,Roeselare,Germinal,2-2,2-2
+2009-02-07,Tubize,Mechelen,1-5,1-3
+2009-02-08,Cercle Brugge,Charleroi,2-2,1-1
+2009-02-08,Westerlo,Lokeren,1-0,0-0
+2009-02-14,Bergen,Kortrijk,1-1,0-0
+2009-02-14,Germinal,Cercle Brugge,1-1,0-0
+2009-02-14,Lokeren,Roeselare,2-1,0-1
+2009-02-14,Mechelen,Gent,3-3,1-2
+2009-02-14,Mouscron,Westerlo,0-0,0-0
+2009-02-14,Standard,Tubize,4-0,2-0
+2009-02-14,Waregem,Dender,1-0,0-0
+2009-02-15,Charleroi,Anderlecht,0-1,0-0
+2009-02-15,Club Brugge,Genk,0-2,0-1
+2009-02-18,Gent,Anderlecht,1-2,0-1
+2009-02-20,Genk,Mouscron,1-1,1-1
+2009-02-21,Cercle Brugge,Lokeren,0-0,0-0
+2009-02-21,Dender,Mechelen,1-2,0-2
+2009-02-21,Gent,Germinal,1-3,0-0
+2009-02-21,Kortrijk,Charleroi,1-1,0-1
+2009-02-21,Roeselare,Bergen,3-2,0-0
+2009-02-21,Tubize,Waregem,0-6,0-2
+2009-02-22,Anderlecht,Standard,4-2,1-1
+2009-02-22,Westerlo,Club Brugge,1-1,0-1
+2009-02-27,Mechelen,Genk,2-1,1-0
+2009-02-28,Charleroi,Bergen,3-0,2-0
+2009-02-28,Club Brugge,Roeselare,2-1,1-0
+2009-02-28,Dender,Tubize,4-0,2-0
+2009-02-28,Germinal,Kortrijk,3-0,2-0
+2009-02-28,Mouscron,Anderlecht,1-1,0-0
+2009-02-28,Waregem,Westerlo,1-1,1-1
+2009-03-01,Lokeren,Gent,0-1,0-0
+2009-03-01,Standard,Cercle Brugge,4-0,2-0
+2009-03-06,Bergen,Standard,0-1,0-0
+2009-03-07,Anderlecht,Waregem,2-0,2-0
+2009-03-07,Charleroi,Germinal,0-0,0-0
+2009-03-07,Genk,Dender,4-3,1-0
+2009-03-07,Gent,Tubize,2-0,2-0
+2009-03-07,Kortrijk,Lokeren,2-3,0-0
+2009-03-07,Roeselare,Mouscron,2-0,1-0
+2009-03-08,Cercle Brugge,Club Brugge,1-3,0-2
+2009-03-08,Westerlo,Mechelen,0-1,0-1
+2009-03-13,Mechelen,Anderlecht,2-1,0-0
+2009-03-14,Dender,Cercle Brugge,1-0,0-0
+2009-03-14,Germinal,Bergen,2-0,0-0
+2009-03-14,Lokeren,Charleroi,0-0,0-0
+2009-03-14,Mouscron,Kortrijk,1-0,0-0
+2009-03-14,Tubize,Westerlo,1-2,1-0
+2009-03-14,Waregem,Roeselare,0-0,0-0
+2009-03-15,Club Brugge,Gent,1-4,1-4
+2009-03-15,Standard,Genk,2-0,1-0
+2009-03-20,Kortrijk,Club Brugge,2-3,1-2
+2009-03-21,Anderlecht,Germinal,2-0,0-0
+2009-03-21,Bergen,Lokeren,0-2,0-0
+2009-03-21,Cercle Brugge,Mouscron,0-1,0-1
+2009-03-21,Genk,Tubize,3-0,3-0
+2009-03-21,Roeselare,Mechelen,1-0,0-0
+2009-03-21,Westerlo,Dender,3-1,1-1
+2009-03-22,Charleroi,Standard,1-0,1-0
+2009-03-22,Gent,Waregem,1-0,0-0
+2009-04-04,Club Brugge,Charleroi,2-1,1-0
+2009-04-04,Dender,Gent,1-1,1-1
+2009-04-04,Genk,Westerlo,1-4,1-2
+2009-04-04,Mechelen,Kortrijk,1-1,0-0
+2009-04-04,Mouscron,Bergen,3-2,2-1
+2009-04-04,Tubize,Roeselare,0-1,0-1
+2009-04-04,Waregem,Cercle Brugge,3-1,0-1
+2009-04-05,Lokeren,Anderlecht,0-0,0-0
+2009-04-05,Standard,Germinal,3-1,2-1
+2009-04-10,Roeselare,Genk,1-0,1-0
+2009-04-11,Bergen,Mechelen,0-1,0-1
+2009-04-11,Cercle Brugge,Tubize,4-1,1-0
+2009-04-11,Charleroi,Mouscron,1-0,1-0
+2009-04-11,Germinal,Waregem,1-2,0-1
+2009-04-11,Kortrijk,Dender,1-2,0-0
+2009-04-11,Standard,Lokeren,1-0,1-0
+2009-04-12,Anderlecht,Club Brugge,1-0,1-0
+2009-04-12,Gent,Westerlo,2-0,2-0
+2009-04-17,Genk,Gent,2-2,1-1
+2009-04-18,Club Brugge,Bergen,3-2,1-2
+2009-04-18,Lokeren,Germinal,1-0,0-0
+2009-04-18,Mechelen,Cercle Brugge,0-1,0-0
+2009-04-18,Mouscron,Standard,0-3,0-1
+2009-04-18,Tubize,Charleroi,3-1,1-1
+2009-04-18,Waregem,Kortrijk,5-1,0-0
+2009-04-19,Dender,Roeselare,3-1,1-0
+2009-04-19,Westerlo,Anderlecht,0-1,0-0
+2009-04-24,Germinal,Club Brugge,2-0,1-0
+2009-04-25,Anderlecht,Dender,4-0,3-0
+2009-04-25,Bergen,Westerlo,0-2,0-1
+2009-04-25,Charleroi,Waregem,1-0,0-0
+2009-04-25,Kortrijk,Tubize,2-2,2-1
+2009-04-25,Lokeren,Mouscron,3-0,1-0
+2009-04-25,Standard,Mechelen,4-1,4-0
+2009-04-26,Cercle Brugge,Genk,1-3,1-0
+2009-04-26,Roeselare,Gent,1-3,0-1
+2009-05-01,Club Brugge,Lokeren,2-3,0-2
+2009-05-02,Dender,Bergen,0-0,0-0
+2009-05-02,Gent,Cercle Brugge,2-1,1-1
+2009-05-02,Mechelen,Charleroi,2-1,0-1
+2009-05-02,Mouscron,Germinal,3-1,1-1
+2009-05-02,Waregem,Standard,0-0,0-0
+2009-05-02,Westerlo,Roeselare,1-0,0-0
+2009-05-03,Genk,Kortrijk,0-1,0-0
+2009-05-03,Tubize,Anderlecht,1-1,0-0
+2009-05-08,Germinal,Mechelen,3-1,1-0
+2009-05-09,Anderlecht,Roeselare,3-1,1-0
+2009-05-09,Bergen,Tubize,1-1,0-1
+2009-05-09,Cercle Brugge,Westerlo,2-1,1-1
+2009-05-09,Charleroi,Genk,3-0,0-0
+2009-05-09,Kortrijk,Gent,0-2,0-1
+2009-05-09,Lokeren,Dender,0-2,0-1
+2009-05-09,Mouscron,Waregem,0-2,0-2
+2009-05-09,Standard,Club Brugge,2-0,1-0
+2009-05-15,Mechelen,Lokeren,3-0,0-0
+2009-05-16,Club Brugge,Mouscron,4-1,3-1
+2009-05-16,Dender,Charleroi,1-2,0-1
+2009-05-16,Genk,Anderlecht,0-2,0-1
+2009-05-16,Gent,Standard,0-1,0-1
+2009-05-16,Roeselare,Cercle Brugge,1-2,1-0
+2009-05-16,Tubize,Germinal,1-0,0-0
+2009-05-16,Waregem,Bergen,3-0,1-0
+2009-05-16,Westerlo,Kortrijk,1-3,0-1

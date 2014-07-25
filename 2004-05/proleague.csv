@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2004-08-06,Mouscron,Anderlecht,2-0,1-0
+2004-08-07,Beveren,Club Brugge,1-1,1-1
+2004-08-07,Cercle Brugge,Lokeren,2-2,1-1
+2004-08-07,FC Brussels,Genk,0-1,0-0
+2004-08-07,Gent,Germinal,0-1,0-0
+2004-08-07,Lierse,Standard,1-1,0-1
+2004-08-07,St Truiden,Bergen,0-0,0-0
+2004-08-08,Charleroi,Louvieroise,2-5,1-3
+2004-08-08,Oostende,Westerlo,3-3,0-2
+2004-08-13,Standard,Charleroi,1-2,1-2
+2004-08-14,Anderlecht,St Truiden,2-1,0-0
+2004-08-14,Genk,Mouscron,0-0,0-0
+2004-08-14,Lokeren,FC Brussels,1-0,0-0
+2004-08-14,Louvieroise,Cercle Brugge,2-1,0-1
+2004-08-14,Westerlo,Lierse,2-1,2-0
+2004-08-15,Bergen,Beveren,2-2,2-1
+2004-08-15,Club Brugge,Gent,5-0,2-0
+2004-08-15,Germinal,Oostende,4-0,1-0
+2004-08-21,Beveren,Anderlecht,0-1,0-0
+2004-08-21,Charleroi,Westerlo,0-1,0-1
+2004-08-21,Gent,Bergen,2-1,1-1
+2004-08-21,Lierse,Germinal,2-0,2-0
+2004-08-21,Mouscron,St Truiden,4-0,3-0
+2004-08-21,Oostende,Club Brugge,1-2,0-0
+2004-08-22,Cercle Brugge,Standard,1-3,0-1
+2004-08-22,FC Brussels,Louvieroise,1-1,0-1
+2004-08-22,Genk,Lokeren,2-1,0-0
+2004-08-27,Louvieroise,Genk,2-0,0-0
+2004-08-28,Anderlecht,Gent,2-0,1-0
+2004-08-28,Bergen,Oostende,2-0,1-0
+2004-08-28,Club Brugge,Lierse,1-0,0-0
+2004-08-28,Lokeren,Mouscron,1-1,0-0
+2004-08-28,Standard,FC Brussels,1-3,0-1
+2004-08-28,Westerlo,Cercle Brugge,1-2,1-0
+2004-08-29,Germinal,Charleroi,0-1,0-1
+2004-08-29,St Truiden,Beveren,0-1,0-0
+2004-09-11,Charleroi,Club Brugge,0-1,0-0
+2004-09-11,FC Brussels,Westerlo,0-1,0-0
+2004-09-11,Gent,St Truiden,2-1,1-0
+2004-09-11,Lierse,Bergen,4-1,1-0
+2004-09-11,Oostende,Anderlecht,1-3,0-1
+2004-09-12,Cercle Brugge,Germinal,2-1,0-1
+2004-09-12,Genk,Standard,1-1,0-0
+2004-09-12,Lokeren,Louvieroise,1-0,1-0
+2004-09-12,Mouscron,Beveren,1-0,1-0
+2004-09-17,Louvieroise,Mouscron,3-1,1-1
+2004-09-18,Anderlecht,Lierse,5-1,2-0
+2004-09-18,Bergen,Charleroi,0-1,0-0
+2004-09-18,Germinal,FC Brussels,2-0,0-0
+2004-09-18,St Truiden,Oostende,0-0,0-0
+2004-09-18,Westerlo,Genk,0-0,0-0
+2004-09-19,Beveren,Gent,1-2,1-1
+2004-09-19,Club Brugge,Cercle Brugge,5-0,1-0
+2004-09-19,Standard,Lokeren,1-0,1-0
+2004-09-24,Charleroi,Anderlecht,2-1,0-0
+2004-09-24,FC Brussels,Club Brugge,1-6,1-2
+2004-09-25,Cercle Brugge,Bergen,2-0,1-0
+2004-09-25,Lokeren,Westerlo,3-1,1-1
+2004-09-25,Louvieroise,Standard,0-1,0-1
+2004-09-25,Mouscron,Gent,0-2,0-0
+2004-09-25,Oostende,Beveren,1-1,0-1
+2004-09-26,Genk,Germinal,2-1,1-0
+2004-09-26,Lierse,St Truiden,0-1,0-0
+2004-10-02,Anderlecht,Cercle Brugge,5-2,3-2
+2004-10-02,Bergen,FC Brussels,1-2,1-0
+2004-10-02,Gent,Oostende,2-1,1-1
+2004-10-02,Germinal,Lokeren,1-2,0-0
+2004-10-02,St Truiden,Charleroi,2-2,1-0
+2004-10-03,Beveren,Lierse,2-1,1-0
+2004-10-03,Club Brugge,Genk,1-1,1-1
+2004-10-03,Standard,Mouscron,2-0,1-0
+2004-10-03,Westerlo,Louvieroise,0-2,0-0
+2004-10-15,FC Brussels,Anderlecht,0-1,0-1
+2004-10-16,Genk,Bergen,2-2,1-1
+2004-10-16,Lierse,Gent,3-2,1-0
+2004-10-16,Mouscron,Oostende,1-1,1-1
+2004-10-16,Standard,Westerlo,2-0,2-0
+2004-10-17,Cercle Brugge,St Truiden,5-1,2-0
+2004-10-17,Charleroi,Beveren,2-1,1-1
+2004-10-17,Lokeren,Club Brugge,0-2,0-1
+2004-10-17,Louvieroise,Germinal,1-1,1-0
+2004-10-23,Bergen,Lokeren,0-1,0-1
+2004-10-23,Gent,Charleroi,3-1,2-1
+2004-10-23,St Truiden,FC Brussels,2-0,0-0
+2004-10-23,Westerlo,Mouscron,0-1,0-1
+2004-10-24,Anderlecht,Genk,4-2,0-1
+2004-10-24,Beveren,Cercle Brugge,5-1,2-0
+2004-10-24,Club Brugge,Louvieroise,2-0,1-0
+2004-10-24,Germinal,Standard,1-0,0-0
+2004-10-24,Oostende,Lierse,2-3,2-2
+2004-10-29,Standard,Club Brugge,1-4,1-1
+2004-10-30,Charleroi,Oostende,1-0,1-0
+2004-10-30,FC Brussels,Beveren,1-3,1-2
+2004-10-30,Genk,St Truiden,1-0,1-0
+2004-10-30,Lokeren,Anderlecht,2-2,2-1
+2004-10-30,Louvieroise,Bergen,4-0,2-0
+2004-10-30,Westerlo,Germinal,1-0,0-0
+2004-10-31,Cercle Brugge,Gent,2-1,0-1
+2004-10-31,Mouscron,Lierse,1-3,1-2
+2004-11-05,Club Brugge,Westerlo,2-0,2-0
+2004-11-06,Anderlecht,Louvieroise,2-1,0-1
+2004-11-06,Bergen,Standard,2-3,0-0
+2004-11-06,Germinal,Mouscron,3-1,0-1
+2004-11-06,Lierse,Charleroi,1-1,1-0
+2004-11-06,St Truiden,Lokeren,2-0,1-0
+2004-11-07,Beveren,Genk,0-2,0-1
+2004-11-07,Gent,FC Brussels,3-0,1-0
+2004-11-07,Oostende,Cercle Brugge,0-1,0-0
+2004-11-10,Cercle Brugge,Lierse,2-2,1-1
+2004-11-10,FC Brussels,Oostende,2-2,1-1
+2004-11-10,Genk,Gent,1-1,0-0
+2004-11-10,Germinal,Club Brugge,0-1,0-1
+2004-11-10,Lokeren,Beveren,1-1,0-0
+2004-11-10,Louvieroise,St Truiden,1-0,0-0
+2004-11-10,Mouscron,Charleroi,0-1,0-0
+2004-11-10,Standard,Anderlecht,1-0,0-0
+2004-11-10,Westerlo,Bergen,2-1,2-0
+2004-11-27,Anderlecht,Westerlo,4-0,2-0
+2004-11-27,Beveren,Louvieroise,0-2,0-0
+2004-11-27,Charleroi,Cercle Brugge,5-1,2-1
+2004-11-27,Gent,Lokeren,3-1,2-1
+2004-11-27,Oostende,Genk,1-3,0-1
+2004-11-28,Bergen,Germinal,0-1,0-0
+2004-11-28,Club Brugge,Mouscron,3-0,2-0
+2004-11-28,Lierse,FC Brussels,5-1,3-0
+2004-11-28,St Truiden,Standard,4-1,3-1
+2004-12-03,Louvieroise,Gent,0-1,0-1
+2004-12-03,Mouscron,Cercle Brugge,6-0,3-0
+2004-12-04,Club Brugge,Bergen,3-1,1-0
+2004-12-04,Genk,Lierse,3-0,0-0
+2004-12-04,Germinal,Anderlecht,0-1,0-0
+2004-12-04,Westerlo,St Truiden,2-1,1-1
+2004-12-05,FC Brussels,Charleroi,1-2,1-1
+2004-12-05,Lokeren,Oostende,1-0,0-0
+2004-12-05,Standard,Beveren,3-0,1-0
+2004-12-11,Anderlecht,Club Brugge,2-1,0-1
+2004-12-11,Beveren,Westerlo,4-1,1-0
+2004-12-11,Charleroi,Genk,2-0,2-0
+2004-12-11,Lierse,Lokeren,2-0,2-0
+2004-12-11,Oostende,Louvieroise,2-1,1-1
+2004-12-11,St Truiden,Germinal,1-1,0-0
+2004-12-12,Cercle Brugge,FC Brussels,1-2,0-2
+2004-12-12,Gent,Standard,1-1,1-1
+2004-12-12,Mouscron,Bergen,5-1,0-1
+2004-12-18,FC Brussels,Mouscron,2-1,0-0
+2004-12-18,Genk,Cercle Brugge,2-1,1-0
+2004-12-18,Lokeren,Charleroi,1-1,1-1
+2004-12-18,Louvieroise,Lierse,3-2,1-1
+2004-12-18,Westerlo,Gent,2-1,0-1
+2004-12-19,Beveren,Germinal,1-0,0-0
+2004-12-19,Club Brugge,St Truiden,5-1,3-1
+2004-12-19,Standard,Oostende,5-0,2-0
+2005-01-15,Anderlecht,Mouscron,2-0,1-0
+2005-01-15,Bergen,St Truiden,4-1,0-0
+2005-01-15,Club Brugge,Beveren,3-1,2-1
+2005-01-15,Genk,FC Brussels,3-1,2-0
+2005-01-15,Germinal,Gent,0-0,0-0
+2005-01-15,Lokeren,Cercle Brugge,4-0,0-0
+2005-01-15,Louvieroise,Charleroi,0-0,0-0
+2005-01-15,Standard,Lierse,4-1,1-0
+2005-01-16,Westerlo,Oostende,2-0,2-0
+2005-01-22,Beveren,Bergen,0-4,0-2
+2005-01-22,Charleroi,Standard,0-0,0-0
+2005-01-22,FC Brussels,Lokeren,1-2,1-1
+2005-01-22,Lierse,Westerlo,3-0,1-0
+2005-01-22,Mouscron,Genk,1-2,1-1
+2005-01-22,Oostende,Germinal,0-0,0-0
+2005-01-22,St Truiden,Anderlecht,2-2,1-2
+2005-01-23,Cercle Brugge,Louvieroise,2-2,2-2
+2005-01-23,Gent,Club Brugge,0-1,0-0
+2005-01-29,Anderlecht,Beveren,5-2,3-1
+2005-01-29,Bergen,Gent,1-0,0-0
+2005-01-29,Club Brugge,Oostende,7-3,6-2
+2005-01-29,Germinal,Lierse,2-2,1-0
+2005-01-29,St Truiden,Mouscron,3-2,3-1
+2005-01-29,Standard,Cercle Brugge,4-0,1-0
+2005-01-29,Westerlo,Charleroi,2-1,1-0
+2005-01-30,Lokeren,Genk,1-3,0-0
+2005-01-30,Louvieroise,FC Brussels,1-0,0-0
+2005-02-05,Beveren,St Truiden,3-1,3-1
+2005-02-05,FC Brussels,Standard,0-1,0-0
+2005-02-05,Genk,Louvieroise,1-0,0-0
+2005-02-05,Lierse,Club Brugge,0-2,0-1
+2005-02-05,Mouscron,Lokeren,1-1,1-1
+2005-02-05,Oostende,Bergen,1-0,0-0
+2005-02-06,Cercle Brugge,Westerlo,0-0,0-0
+2005-02-06,Charleroi,Germinal,1-0,0-0
+2005-02-06,Gent,Anderlecht,0-0,0-0
+2005-02-12,Anderlecht,Oostende,0-1,0-1
+2005-02-12,Beveren,Mouscron,2-2,1-1
+2005-02-12,Louvieroise,Lokeren,0-0,0-0
+2005-02-12,Westerlo,FC Brussels,1-0,0-0
+2005-02-13,Bergen,Lierse,4-1,1-1
+2005-02-13,Club Brugge,Charleroi,1-1,0-1
+2005-02-13,Germinal,Cercle Brugge,2-3,2-1
+2005-02-18,Lierse,Anderlecht,1-1,1-0
+2005-02-19,Charleroi,Bergen,1-0,0-0
+2005-02-19,Genk,Westerlo,3-2,1-2
+2005-02-19,Gent,Beveren,1-0,1-0
+2005-02-19,Lokeren,Standard,0-0,0-0
+2005-02-19,Mouscron,Louvieroise,1-1,1-1
+2005-02-19,Oostende,St Truiden,1-0,0-0
+2005-02-20,Cercle Brugge,Club Brugge,1-2,1-0
+2005-02-20,FC Brussels,Germinal,2-1,2-0
+2005-02-25,Bergen,Anderlecht,1-2,1-2
+2005-02-25,Standard,Genk,1-0,0-0
+2005-02-26,St Truiden,Gent,0-2,0-1
+2005-03-08,Anderlecht,Charleroi,3-0,2-0
+2005-03-08,Gent,Mouscron,1-0,0-0
+2005-03-09,Bergen,Cercle Brugge,1-3,0-0
+2005-03-09,Beveren,Oostende,2-2,0-1
+2005-03-09,Club Brugge,FC Brussels,4-1,3-1
+2005-03-09,Germinal,Genk,3-1,2-0
+2005-03-09,St Truiden,Lierse,4-0,3-0
+2005-03-09,Westerlo,Lokeren,1-1,1-1
+2005-03-11,Mouscron,Standard,0-3,0-1
+2005-03-12,Charleroi,St Truiden,0-0,0-0
+2005-03-12,FC Brussels,Bergen,2-1,2-1
+2005-03-12,Lokeren,Germinal,0-1,0-0
+2005-03-12,Louvieroise,Westerlo,1-2,0-1
+2005-03-12,Oostende,Gent,1-2,1-1
+2005-03-13,Cercle Brugge,Anderlecht,1-3,0-2
+2005-03-13,Genk,Club Brugge,2-1,1-0
+2005-03-13,Lierse,Beveren,1-3,1-1
+2005-03-16,Standard,Louvieroise,1-0,0-0
+2005-03-18,Bergen,Genk,1-2,0-0
+2005-03-19,Anderlecht,FC Brussels,3-0,0-0
+2005-03-19,Beveren,Charleroi,1-2,0-0
+2005-03-19,Club Brugge,Lokeren,0-0,0-0
+2005-03-19,Gent,Lierse,1-0,0-0
+2005-03-19,Germinal,Louvieroise,1-1,0-0
+2005-03-19,St Truiden,Cercle Brugge,0-1,0-1
+2005-03-19,Westerlo,Standard,1-3,0-2
+2005-03-20,Oostende,Mouscron,1-0,1-0
+2005-04-02,Cercle Brugge,Beveren,1-1,1-0
+2005-04-02,Charleroi,Gent,3-2,1-0
+2005-04-02,Lierse,Oostende,3-1,1-0
+2005-04-02,Lokeren,Bergen,0-0,0-0
+2005-04-02,Louvieroise,Club Brugge,0-2,0-0
+2005-04-02,Standard,Germinal,3-0,1-0
+2005-04-03,FC Brussels,St Truiden,0-1,0-0
+2005-04-03,Genk,Anderlecht,2-4,1-0
+2005-04-03,Mouscron,Westerlo,3-0,0-0
+2005-04-08,St Truiden,Genk,0-2,0-1
+2005-04-09,Anderlecht,Lokeren,2-0,1-0
+2005-04-09,Bergen,Louvieroise,4-1,3-1
+2005-04-09,Gent,Cercle Brugge,1-2,0-1
+2005-04-09,Germinal,Westerlo,1-0,1-0
+2005-04-09,Lierse,Mouscron,0-1,0-0
+2005-04-09,Oostende,Charleroi,1-2,0-1
+2005-04-10,Beveren,FC Brussels,0-1,0-0
+2005-04-10,Club Brugge,Standard,1-1,1-1
+2005-04-15,Westerlo,Club Brugge,1-3,1-1
+2005-04-16,Charleroi,Lierse,1-0,1-0
+2005-04-16,FC Brussels,Gent,1-1,1-1
+2005-04-16,Genk,Beveren,2-1,1-0
+2005-04-16,Lokeren,St Truiden,4-3,3-1
+2005-04-16,Mouscron,Germinal,0-1,0-1
+2005-04-17,Cercle Brugge,Oostende,2-0,2-0
+2005-04-17,Louvieroise,Anderlecht,1-1,1-1
+2005-04-17,Standard,Bergen,2-0,1-0
+2005-04-22,Anderlecht,Standard,3-2,1-1
+2005-04-23,Bergen,Westerlo,3-2,1-1
+2005-04-23,Beveren,Lokeren,0-2,0-2
+2005-04-23,Club Brugge,Germinal,6-0,4-0
+2005-04-23,Gent,Genk,0-1,0-0
+2005-04-23,Oostende,FC Brussels,1-0,1-0
+2005-04-23,St Truiden,Louvieroise,2-1,0-1
+2005-04-24,Charleroi,Mouscron,2-0,2-0
+2005-04-24,Lierse,Cercle Brugge,2-0,0-0
+2005-04-29,Westerlo,Anderlecht,2-2,2-1
+2005-04-30,FC Brussels,Lierse,3-2,1-2
+2005-04-30,Genk,Oostende,2-2,0-0
+2005-04-30,Germinal,Bergen,2-0,1-0
+2005-04-30,Lokeren,Gent,0-1,0-0
+2005-04-30,Louvieroise,Beveren,3-0,0-0
+2005-04-30,Mouscron,Club Brugge,0-1,0-0
+2005-04-30,Standard,St Truiden,4-1,3-0
+2005-05-01,Cercle Brugge,Charleroi,0-4,0-2
+2005-05-06,Bergen,Club Brugge,0-0,0-0
+2005-05-07,Anderlecht,Germinal,3-0,1-0
+2005-05-07,Beveren,Standard,2-3,1-2
+2005-05-07,Cercle Brugge,Mouscron,1-0,0-0
+2005-05-07,Charleroi,FC Brussels,1-2,1-0
+2005-05-07,Gent,Louvieroise,2-1,1-1
+2005-05-07,Lierse,Genk,1-5,0-2
+2005-05-08,Oostende,Lokeren,0-2,0-1
+2005-05-08,St Truiden,Westerlo,1-0,0-0
+2005-05-15,Bergen,Mouscron,0-2,0-0
+2005-05-15,Club Brugge,Anderlecht,2-2,2-1
+2005-05-15,FC Brussels,Cercle Brugge,2-1,1-0
+2005-05-15,Genk,Charleroi,2-0,0-0
+2005-05-15,Germinal,St Truiden,3-1,2-0
+2005-05-15,Lokeren,Lierse,0-2,0-1
+2005-05-15,Louvieroise,Oostende,2-0,1-0
+2005-05-15,Standard,Gent,3-0,0-0
+2005-05-15,Westerlo,Beveren,1-1,0-0
+2005-05-21,Anderlecht,Bergen,2-1,1-0
+2005-05-21,Cercle Brugge,Genk,1-3,0-0
+2005-05-21,Charleroi,Lokeren,2-1,2-0
+2005-05-21,Gent,Westerlo,1-0,1-0
+2005-05-21,Germinal,Beveren,3-1,2-0
+2005-05-21,Lierse,Louvieroise,7-0,4-0
+2005-05-21,Mouscron,FC Brussels,2-0,2-0
+2005-05-21,Oostende,Standard,1-1,1-1
+2005-05-21,St Truiden,Club Brugge,3-2,2-1

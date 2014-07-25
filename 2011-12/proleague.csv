@@ -1,0 +1,241 @@
+Date,Team 1,Team 2,FT,HT
+2011-07-29,Oud-Heverlee Leuven,Anderlecht,2-1,0-1
+2011-07-30,Bergen,Standard,1-1,1-0
+2011-07-30,Genk,Germinal,3-1,3-0
+2011-07-30,Gent,Cercle Brugge,0-1,0-0
+2011-07-30,Kortrijk,Lierse,1-1,0-1
+2011-07-30,Lokeren,Waregem,0-0,0-0
+2011-07-30,Mechelen,St Truiden,2-1,0-0
+2011-07-31,Club Brugge,Westerlo,5-0,0-0
+2011-08-05,Anderlecht,Mechelen,3-1,1-0
+2011-08-06,Cercle Brugge,Bergen,1-1,0-0
+2011-08-06,Germinal,Gent,2-2,1-2
+2011-08-06,Lierse,Genk,0-0,0-0
+2011-08-06,Waregem,Oud-Heverlee Leuven,2-1,2-0
+2011-08-07,St Truiden,Club Brugge,3-3,0-3
+2011-08-07,Standard,Lokeren,3-1,2-0
+2011-08-07,Westerlo,Kortrijk,0-0,0-0
+2011-08-13,Bergen,St Truiden,4-2,2-0
+2011-08-13,Club Brugge,Oud-Heverlee Leuven,1-0,0-0
+2011-08-13,Genk,Waregem,2-2,0-0
+2011-08-13,Gent,Standard,3-1,2-0
+2011-08-13,Germinal,Westerlo,3-1,2-1
+2011-08-13,Kortrijk,Cercle Brugge,2-0,1-0
+2011-08-14,Lokeren,Anderlecht,0-1,0-1
+2011-08-14,Mechelen,Lierse,2-1,1-0
+2011-08-19,Lierse,Germinal,1-1,0-0
+2011-08-20,Cercle Brugge,Genk,3-2,2-1
+2011-08-20,Oud-Heverlee Leuven,Mechelen,1-2,1-1
+2011-08-20,St Truiden,Lokeren,0-2,0-1
+2011-08-20,Westerlo,Gent,2-3,2-1
+2011-08-21,Anderlecht,Bergen,2-2,0-0
+2011-08-21,Standard,Kortrijk,3-1,1-0
+2011-08-21,Waregem,Club Brugge,1-1,1-0
+2011-08-27,Bergen,Waregem,3-1,0-0
+2011-08-27,Genk,Mechelen,0-0,0-0
+2011-08-27,Gent,Lierse,1-0,1-0
+2011-08-27,Kortrijk,St Truiden,4-0,1-0
+2011-08-27,Lokeren,Oud-Heverlee Leuven,0-1,0-0
+2011-08-27,Westerlo,Cercle Brugge,1-3,0-2
+2011-08-28,Club Brugge,Anderlecht,1-1,0-0
+2011-08-28,Germinal,Standard,1-1,0-0
+2011-09-09,St Truiden,Genk,3-4,1-1
+2011-09-10,Cercle Brugge,Germinal,2-1,2-0
+2011-09-10,Lierse,Lokeren,1-1,0-0
+2011-09-10,Oud-Heverlee Leuven,Bergen,3-1,1-0
+2011-09-10,Standard,Westerlo,1-0,0-0
+2011-09-11,Anderlecht,Kortrijk,2-0,1-0
+2011-09-11,Mechelen,Club Brugge,1-2,0-1
+2011-09-11,Waregem,Gent,1-3,1-0
+2011-09-17,Bergen,Mechelen,5-1,2-1
+2011-09-17,Cercle Brugge,Lierse,0-0,0-0
+2011-09-17,Germinal,Waregem,2-0,1-0
+2011-09-17,Kortrijk,Oud-Heverlee Leuven,2-0,2-0
+2011-09-17,Westerlo,St Truiden,2-0,0-0
+2011-09-18,Genk,Standard,3-0,1-0
+2011-09-18,Gent,Anderlecht,0-1,0-1
+2011-09-18,Lokeren,Club Brugge,1-2,1-1
+2011-09-24,Club Brugge,Bergen,2-1,0-1
+2011-09-24,Lierse,Westerlo,0-0,0-0
+2011-09-24,Mechelen,Lokeren,0-2,0-1
+2011-09-24,Oud-Heverlee Leuven,Genk,1-1,0-1
+2011-09-24,St Truiden,Gent,3-4,2-0
+2011-09-24,Waregem,Kortrijk,1-0,0-0
+2011-09-25,Anderlecht,Germinal,3-2,2-0
+2011-09-25,Standard,Cercle Brugge,0-0,0-0
+2011-10-01,Bergen,Lokeren,3-3,1-2
+2011-10-01,Cercle Brugge,St Truiden,2-2,0-1
+2011-10-01,Gent,Oud-Heverlee Leuven,6-1,1-1
+2011-10-01,Kortrijk,Mechelen,1-0,0-0
+2011-10-01,Westerlo,Waregem,1-1,1-1
+2011-10-02,Genk,Anderlecht,0-1,0-0
+2011-10-02,Germinal,Club Brugge,1-1,0-0
+2011-10-02,Standard,Lierse,2-0,2-0
+2011-10-15,Bergen,Kortrijk,3-1,1-1
+2011-10-15,Lokeren,Genk,3-1,1-1
+2011-10-15,Mechelen,Cercle Brugge,1-2,1-2
+2011-10-15,Oud-Heverlee Leuven,Westerlo,1-1,0-1
+2011-10-15,St Truiden,Germinal,2-4,0-0
+2011-10-15,Waregem,Lierse,1-2,1-1
+2011-10-16,Anderlecht,Standard,5-0,1-0
+2011-10-16,Club Brugge,Gent,2-0,1-0
+2011-10-22,Cercle Brugge,Oud-Heverlee Leuven,2-0,1-0
+2011-10-22,Genk,Bergen,2-0,0-0
+2011-10-22,Gent,Lokeren,3-1,2-0
+2011-10-22,Germinal,Mechelen,2-2,0-1
+2011-10-22,Lierse,St Truiden,0-2,0-1
+2011-10-23,Kortrijk,Club Brugge,2-1,0-0
+2011-10-23,Standard,Waregem,1-0,1-0
+2011-10-23,Westerlo,Anderlecht,1-2,1-0
+2011-10-29,Bergen,Gent,1-1,0-0
+2011-10-29,Club Brugge,Genk,4-5,1-2
+2011-10-29,Lokeren,Kortrijk,1-4,0-3
+2011-10-29,Mechelen,Westerlo,1-0,0-0
+2011-10-29,Oud-Heverlee Leuven,Germinal,3-2,1-0
+2011-10-29,Waregem,Cercle Brugge,1-1,0-1
+2011-10-30,Anderlecht,Lierse,4-0,3-0
+2011-10-30,St Truiden,Standard,1-1,0-0
+2011-11-04,Gent,Mechelen,6-2,1-0
+2011-11-05,Genk,Kortrijk,2-2,0-0
+2011-11-05,Germinal,Bergen,2-0,1-0
+2011-11-05,Lierse,Oud-Heverlee Leuven,3-1,2-0
+2011-11-05,Waregem,St Truiden,0-0,0-0
+2011-11-05,Westerlo,Lokeren,2-4,0-2
+2011-11-06,Cercle Brugge,Anderlecht,1-0,0-0
+2011-11-06,Standard,Club Brugge,2-1,1-0
+2011-11-18,Oud-Heverlee Leuven,Standard,1-3,1-3
+2011-11-19,Bergen,Lierse,2-1,1-0
+2011-11-19,Genk,Westerlo,3-0,0-0
+2011-11-19,Kortrijk,Gent,0-4,0-3
+2011-11-19,Lokeren,Germinal,1-1,0-0
+2011-11-19,Mechelen,Waregem,1-1,0-0
+2011-11-20,Anderlecht,St Truiden,3-1,2-0
+2011-11-20,Club Brugge,Cercle Brugge,1-0,0-0
+2011-11-25,Standard,Mechelen,3-2,1-0
+2011-11-26,Cercle Brugge,Lokeren,1-1,0-0
+2011-11-26,Germinal,Kortrijk,0-1,0-1
+2011-11-26,Lierse,Club Brugge,0-1,0-0
+2011-11-26,St Truiden,Oud-Heverlee Leuven,2-1,1-0
+2011-11-26,Waregem,Anderlecht,2-3,0-0
+2011-11-26,Westerlo,Bergen,2-1,0-1
+2011-11-27,Gent,Genk,2-0,0-0
+2011-12-02,Germinal,Genk,2-0,2-0
+2011-12-03,Cercle Brugge,Kortrijk,1-2,0-1
+2011-12-03,Lierse,Mechelen,2-2,0-1
+2011-12-03,St Truiden,Bergen,2-3,0-2
+2011-12-03,Waregem,Lokeren,1-1,1-0
+2011-12-03,Westerlo,Club Brugge,0-1,0-0
+2011-12-04,Anderlecht,Oud-Heverlee Leuven,0-0,0-0
+2011-12-04,Standard,Gent,0-0,0-0
+2011-12-09,Mechelen,Anderlecht,2-1,1-0
+2011-12-10,Bergen,Cercle Brugge,0-2,0-1
+2011-12-10,Genk,Lierse,4-0,1-0
+2011-12-10,Gent,Germinal,0-1,0-0
+2011-12-10,Kortrijk,Westerlo,1-0,0-0
+2011-12-10,Lokeren,Standard,1-1,0-0
+2011-12-10,Oud-Heverlee Leuven,Waregem,2-2,0-0
+2011-12-11,Club Brugge,St Truiden,1-0,0-0
+2011-12-17,Lierse,Kortrijk,2-0,0-0
+2011-12-17,St Truiden,Mechelen,0-0,0-0
+2011-12-17,Waregem,Bergen,2-3,1-1
+2011-12-17,Westerlo,Germinal,3-1,2-0
+2011-12-18,Anderlecht,Lokeren,3-2,1-0
+2011-12-18,Cercle Brugge,Gent,0-1,0-0
+2011-12-18,Oud-Heverlee Leuven,Club Brugge,3-1,0-0
+2011-12-18,Standard,Genk,0-0,0-0
+2011-12-26,Club Brugge,Waregem,1-0,1-0
+2011-12-26,Genk,Cercle Brugge,4-2,3-2
+2011-12-26,Gent,Westerlo,3-1,0-1
+2011-12-26,Germinal,Lierse,0-0,0-0
+2011-12-26,Kortrijk,Standard,2-0,0-0
+2011-12-26,Lokeren,St Truiden,0-0,0-0
+2011-12-26,Mechelen,Oud-Heverlee Leuven,2-2,1-1
+2011-12-27,Bergen,Anderlecht,1-1,0-1
+2012-01-14,Cercle Brugge,Westerlo,3-1,1-0
+2012-01-14,Lierse,Gent,2-1,1-0
+2012-01-14,Mechelen,Bergen,4-1,1-0
+2012-01-14,Oud-Heverlee Leuven,Lokeren,1-1,0-1
+2012-01-14,St Truiden,Kortrijk,0-0,0-0
+2012-01-14,Standard,Germinal,6-1,3-0
+2012-01-15,Anderlecht,Club Brugge,3-0,2-0
+2012-01-15,Waregem,Genk,1-1,0-0
+2012-01-20,Genk,St Truiden,2-1,0-1
+2012-01-21,Bergen,Oud-Heverlee Leuven,2-2,2-0
+2012-01-21,Club Brugge,Mechelen,0-1,0-1
+2012-01-21,Gent,Waregem,0-0,0-0
+2012-01-21,Germinal,Cercle Brugge,4-0,2-0
+2012-01-21,Kortrijk,Anderlecht,0-1,0-1
+2012-01-21,Lokeren,Lierse,2-0,0-0
+2012-01-22,Westerlo,Standard,0-0,0-0
+2012-01-24,Anderlecht,Gent,3-1,2-1
+2012-01-25,Club Brugge,Lokeren,3-0,1-0
+2012-01-25,Lierse,Cercle Brugge,2-2,1-0
+2012-01-25,Mechelen,Genk,3-2,0-1
+2012-01-25,Oud-Heverlee Leuven,Kortrijk,0-2,0-1
+2012-01-25,St Truiden,Westerlo,0-3,0-1
+2012-01-25,Waregem,Germinal,1-0,0-0
+2012-01-26,Standard,Bergen,2-1,2-0
+2012-01-28,Genk,Oud-Heverlee Leuven,5-0,4-0
+2012-01-28,Gent,St Truiden,6-0,4-0
+2012-01-28,Germinal,Anderlecht,0-0,0-0
+2012-01-28,Kortrijk,Waregem,0-0,0-0
+2012-01-28,Lokeren,Mechelen,3-2,1-1
+2012-01-28,Westerlo,Lierse,0-2,0-2
+2012-01-29,Bergen,Club Brugge,0-2,0-1
+2012-01-29,Cercle Brugge,Standard,0-1,0-0
+2012-02-04,Lierse,Standard,0-2,0-1
+2012-02-04,Lokeren,Bergen,3-1,0-1
+2012-02-04,Mechelen,Kortrijk,0-0,0-0
+2012-02-04,Oud-Heverlee Leuven,Gent,2-3,1-1
+2012-02-04,St Truiden,Cercle Brugge,0-1,0-1
+2012-02-04,Waregem,Westerlo,3-1,2-0
+2012-02-05,Anderlecht,Genk,4-2,2-1
+2012-02-05,Club Brugge,Germinal,5-1,4-1
+2012-02-11,Cercle Brugge,Mechelen,1-0,0-0
+2012-02-11,Genk,Lokeren,0-1,0-1
+2012-02-11,Germinal,St Truiden,3-2,0-1
+2012-02-11,Kortrijk,Bergen,2-2,2-0
+2012-02-11,Lierse,Waregem,2-1,0-0
+2012-02-11,Westerlo,Oud-Heverlee Leuven,1-3,1-1
+2012-02-12,Gent,Club Brugge,1-3,0-1
+2012-02-12,Standard,Anderlecht,1-2,1-0
+2012-02-18,Bergen,Genk,1-2,0-1
+2012-02-18,Lokeren,Gent,1-1,1-1
+2012-02-18,Mechelen,Germinal,2-1,0-1
+2012-02-18,Oud-Heverlee Leuven,Cercle Brugge,2-3,1-1
+2012-02-18,St Truiden,Lierse,1-1,0-0
+2012-02-19,Anderlecht,Westerlo,3-1,0-0
+2012-02-19,Club Brugge,Kortrijk,2-1,2-0
+2012-02-19,Waregem,Standard,4-2,2-1
+2012-02-25,Cercle Brugge,Waregem,1-0,1-0
+2012-02-25,Gent,Bergen,2-0,0-0
+2012-02-25,Germinal,Oud-Heverlee Leuven,2-1,1-0
+2012-02-25,Kortrijk,Lokeren,2-5,1-2
+2012-02-25,Westerlo,Mechelen,1-3,1-2
+2012-02-26,Genk,Club Brugge,3-0,0-0
+2012-02-26,Lierse,Anderlecht,0-0,0-0
+2012-02-26,Standard,St Truiden,0-0,0-0
+2012-03-03,Bergen,Germinal,4-2,3-2
+2012-03-03,Kortrijk,Genk,3-2,2-0
+2012-03-03,Lokeren,Westerlo,4-0,3-0
+2012-03-03,Mechelen,Gent,0-2,0-1
+2012-03-03,Oud-Heverlee Leuven,Lierse,0-0,0-0
+2012-03-03,St Truiden,Waregem,1-0,1-0
+2012-03-04,Anderlecht,Cercle Brugge,4-0,0-0
+2012-03-04,Club Brugge,Standard,1-0,1-0
+2012-03-18,Cercle Brugge,Club Brugge,1-2,1-1
+2012-03-18,Gent,Kortrijk,3-1,1-0
+2012-03-18,Germinal,Lokeren,2-2,1-0
+2012-03-18,Lierse,Bergen,1-1,1-0
+2012-03-18,St Truiden,Anderlecht,2-2,1-1
+2012-03-18,Standard,Oud-Heverlee Leuven,4-0,1-0
+2012-03-18,Waregem,Mechelen,2-0,1-0
+2012-03-18,Westerlo,Genk,3-2,3-1
+2012-03-21,Anderlecht,Waregem,2-1,1-1
+2012-03-21,Bergen,Westerlo,2-1,2-1
+2012-03-21,Club Brugge,Lierse,1-0,0-0
+2012-03-21,Genk,Gent,3-1,0-1
+2012-03-21,Kortrijk,Germinal,2-0,0-0
+2012-03-21,Lokeren,Cercle Brugge,1-0,1-0
+2012-03-21,Mechelen,Standard,1-2,1-0
+2012-03-21,Oud-Heverlee Leuven,St Truiden,3-1,1-0
