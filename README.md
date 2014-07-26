@@ -5,7 +5,7 @@ Football data for Belgium includes:
 - Pro League
 
 
-Example - [`2013-14/proleague.csv`](2013-14/proleague.csv):
+Example - [`2013-14/proleague.csv`](2013-14/1-proleague.csv):
 
 ~~~
 2013-07-26,Club Brugge,Charleroi,2-0,0-0
