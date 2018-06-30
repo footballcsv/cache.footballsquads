@@ -1,0 +1,241 @@
+Date,Team 1,Team 2,FT,HT
+2017-07-28,Antwerp,Anderlecht,0-0,0-0
+2017-07-29,Charleroi,Kortrijk,1-0,1-0
+2017-07-29,Eupen,Waregem,0-5,0-1
+2017-07-29,Genk,Waasland-Beveren,3-3,0-1
+2017-07-29,Lokeren,Club Brugge,0-4,0-3
+2017-07-30,Mechelen,Standard,1-1,1-1
+2017-07-30,Oostende,Mouscron,0-1,0-0
+2017-07-30,St Truiden,Gent,3-2,0-1
+2017-08-04,Standard,Genk,2-1,0-1
+2017-08-05,Kortrijk,Lokeren,1-0,1-0
+2017-08-05,Mouscron,Charleroi,2-5,1-3
+2017-08-05,Waasland-Beveren,Mechelen,2-2,1-1
+2017-08-05,Waregem,St Truiden,2-0,0-0
+2017-08-06,Anderlecht,Oostende,1-0,0-0
+2017-08-06,Club Brugge,Eupen,3-1,1-1
+2017-08-06,Gent,Antwerp,0-1,0-1
+2017-08-11,Waregem,Club Brugge,1-2,0-1
+2017-08-12,Eupen,Kortrijk,1-2,0-1
+2017-08-12,Lokeren,Mouscron,0-2,0-1
+2017-08-12,Mechelen,Gent,1-1,0-1
+2017-08-12,Oostende,Waasland-Beveren,0-3,0-3
+2017-08-13,Antwerp,Genk,3-5,1-4
+2017-08-13,Charleroi,Anderlecht,2-0,0-0
+2017-08-13,St Truiden,Standard,1-0,0-0
+2017-08-18,Standard,Waregem,0-4,0-0
+2017-08-19,Eupen,Oostende,2-1,1-1
+2017-08-19,Genk,Charleroi,0-1,0-0
+2017-08-19,Mechelen,Antwerp,1-2,0-0
+2017-08-19,Waasland-Beveren,Lokeren,2-3,0-3
+2017-08-20,Anderlecht,St Truiden,2-3,1-1
+2017-08-20,Kortrijk,Club Brugge,1-2,0-1
+2017-08-20,Mouscron,Gent,3-2,0-2
+2017-08-25,Kortrijk,Mouscron,1-1,1-0
+2017-08-26,Charleroi,Waregem,3-2,0-1
+2017-08-26,Genk,Mechelen,1-0,1-0
+2017-08-26,Lokeren,Eupen,3-0,0-0
+2017-08-26,St Truiden,Waasland-Beveren,1-0,0-0
+2017-08-27,Club Brugge,Standard,4-0,2-0
+2017-08-27,Gent,Anderlecht,0-0,0-0
+2017-08-27,Oostende,Antwerp,3-4,1-0
+2017-09-08,Anderlecht,Lokeren,3-2,1-2
+2017-09-09,Antwerp,St Truiden,1-1,0-0
+2017-09-09,Mouscron,Club Brugge,2-1,2-1
+2017-09-09,Waasland-Beveren,Eupen,5-1,3-0
+2017-09-09,Waregem,Kortrijk,2-2,1-2
+2017-09-10,Gent,Genk,1-1,1-0
+2017-09-10,Mechelen,Oostende,1-1,0-0
+2017-09-10,Standard,Charleroi,0-0,0-0
+2017-09-15,Club Brugge,Mechelen,2-0,2-0
+2017-09-16,Charleroi,Waasland-Beveren,2-2,0-0
+2017-09-16,Kortrijk,Anderlecht,2-2,0-1
+2017-09-16,Lokeren,Antwerp,1-1,0-1
+2017-09-16,St Truiden,Genk,2-1,0-0
+2017-09-17,Eupen,Standard,1-1,1-1
+2017-09-17,Oostende,Gent,0-2,0-1
+2017-09-17,Waregem,Mouscron,2-1,0-1
+2017-09-22,Antwerp,Kortrijk,3-0,2-0
+2017-09-23,Genk,Oostende,1-1,1-0
+2017-09-23,Mechelen,St Truiden,2-0,1-0
+2017-09-23,Mouscron,Eupen,3-2,1-2
+2017-09-23,Waasland-Beveren,Anderlecht,1-2,1-0
+2017-09-24,Charleroi,Club Brugge,1-2,0-0
+2017-09-24,Gent,Waregem,0-1,0-1
+2017-09-24,Standard,Lokeren,2-1,0-1
+2017-09-29,St Truiden,Charleroi,0-1,0-0
+2017-09-30,Eupen,Genk,3-3,2-0
+2017-09-30,Kortrijk,Oostende,1-2,1-0
+2017-09-30,Mouscron,Mechelen,2-2,2-0
+2017-09-30,Waasland-Beveren,Antwerp,3-0,0-0
+2017-10-01,Anderlecht,Standard,1-0,0-0
+2017-10-01,Club Brugge,Gent,2-1,1-1
+2017-10-01,Waregem,Lokeren,1-3,0-1
+2017-10-13,Mechelen,Anderlecht,3-4,1-4
+2017-10-14,Charleroi,Eupen,2-2,1-1
+2017-10-14,Genk,Mouscron,1-1,0-1
+2017-10-14,Gent,Waasland-Beveren,2-0,0-0
+2017-10-14,Lokeren,St Truiden,1-1,0-0
+2017-10-15,Antwerp,Waregem,3-0,2-0
+2017-10-15,Oostende,Club Brugge,2-3,2-2
+2017-10-15,Standard,Kortrijk,3-1,3-1
+2017-10-20,Mouscron,Standard,1-3,0-1
+2017-10-21,Eupen,Mechelen,4-1,3-1
+2017-10-21,Kortrijk,Gent,1-1,0-0
+2017-10-21,Lokeren,Charleroi,1-1,1-0
+2017-10-21,St Truiden,Oostende,1-0,0-0
+2017-10-22,Anderlecht,Genk,0-1,0-0
+2017-10-22,Club Brugge,Antwerp,1-0,1-0
+2017-10-22,Waregem,Waasland-Beveren,2-5,1-2
+2017-10-24,Gent,Eupen,3-0,3-0
+2017-10-24,Mechelen,Lokeren,0-2,0-1
+2017-10-24,Oostende,Charleroi,3-0,1-0
+2017-10-25,Anderlecht,Waregem,2-0,0-0
+2017-10-25,Genk,Club Brugge,2-0,1-0
+2017-10-25,Waasland-Beveren,Kortrijk,2-1,0-0
+2017-10-26,Antwerp,Standard,0-0,0-0
+2017-10-26,St Truiden,Mouscron,1-0,0-0
+2017-10-27,Charleroi,Gent,2-1,1-0
+2017-10-28,Eupen,Anderlecht,2-3,0-3
+2017-10-28,Kortrijk,Genk,0-0,0-0
+2017-10-28,Lokeren,Oostende,0-3,0-2
+2017-10-28,Waregem,Mechelen,2-1,1-1
+2017-10-29,Club Brugge,St Truiden,4-1,2-1
+2017-10-29,Mouscron,Antwerp,2-2,1-0
+2017-10-29,Standard,Waasland-Beveren,3-1,3-0
+2017-11-03,Gent,Standard,1-0,0-0
+2017-11-04,Genk,Lokeren,0-0,0-0
+2017-11-04,Mechelen,Kortrijk,2-0,0-0
+2017-11-04,St Truiden,Eupen,4-4,1-0
+2017-11-04,Waasland-Beveren,Mouscron,2-0,1-0
+2017-11-05,Anderlecht,Club Brugge,0-0,0-0
+2017-11-05,Antwerp,Charleroi,1-3,1-2
+2017-11-05,Oostende,Waregem,4-2,2-0
+2017-11-17,Charleroi,Mechelen,2-0,1-0
+2017-11-18,Eupen,Antwerp,0-1,0-0
+2017-11-18,Kortrijk,St Truiden,3-2,1-0
+2017-11-18,Mouscron,Anderlecht,1-2,0-1
+2017-11-18,Standard,Oostende,0-0,0-0
+2017-11-19,Club Brugge,Waasland-Beveren,3-0,1-0
+2017-11-19,Lokeren,Gent,0-3,0-1
+2017-11-19,Waregem,Genk,0-1,0-1
+2017-11-24,Gent,Mouscron,3-1,2-1
+2017-11-25,Antwerp,Mechelen,0-0,0-0
+2017-11-25,Oostende,Eupen,1-0,0-0
+2017-11-25,St Truiden,Lokeren,0-0,0-0
+2017-11-25,Waasland-Beveren,Charleroi,0-2,0-0
+2017-11-26,Anderlecht,Kortrijk,4-0,2-0
+2017-11-26,Club Brugge,Waregem,3-2,0-1
+2017-11-26,Genk,Standard,0-2,0-1
+2017-12-01,Charleroi,Oostende,1-1,1-0
+2017-12-02,Kortrijk,Waasland-Beveren,4-1,2-0
+2017-12-02,Lokeren,Anderlecht,1-2,1-1
+2017-12-02,Mechelen,Genk,3-2,3-0
+2017-12-02,Mouscron,St Truiden,1-1,1-1
+2017-12-03,Eupen,Club Brugge,2-2,2-0
+2017-12-03,Standard,Antwerp,1-1,1-0
+2017-12-03,Waregem,Gent,0-1,0-1
+2017-12-08,Waasland-Beveren,Standard,3-1,1-1
+2017-12-09,Antwerp,Mouscron,1-0,0-0
+2017-12-09,Genk,Eupen,1-1,1-1
+2017-12-09,Gent,Kortrijk,2-1,2-1
+2017-12-09,Oostende,Mechelen,0-1,0-1
+2017-12-10,Anderlecht,Charleroi,1-3,0-1
+2017-12-10,Club Brugge,Lokeren,3-1,3-0
+2017-12-10,St Truiden,Waregem,1-1,0-1
+2017-12-15,Mouscron,Oostende,1-0,0-0
+2017-12-16,Eupen,St Truiden,0-0,0-0
+2017-12-16,Kortrijk,Mechelen,2-0,2-0
+2017-12-16,Lokeren,Waasland-Beveren,1-1,0-0
+2017-12-16,Standard,Gent,0-0,0-0
+2017-12-17,Charleroi,Genk,1-1,0-0
+2017-12-17,Club Brugge,Anderlecht,5-0,2-0
+2017-12-17,Waregem,Antwerp,1-2,0-2
+2017-12-20,Mechelen,Club Brugge,0-3,0-2
+2017-12-21,Antwerp,Lokeren,1-2,0-1
+2017-12-21,Gent,Charleroi,1-0,0-0
+2017-12-22,Anderlecht,Eupen,1-0,1-0
+2017-12-22,Waasland-Beveren,Oostende,1-3,0-1
+2017-12-23,Genk,Kortrijk,2-3,0-1
+2017-12-23,Mouscron,Waregem,2-1,1-1
+2017-12-23,Standard,St Truiden,1-1,0-0
+2017-12-26,Anderlecht,Gent,1-0,0-0
+2017-12-26,Club Brugge,Mouscron,4-2,0-1
+2017-12-26,Eupen,Waasland-Beveren,1-0,0-0
+2017-12-26,Lokeren,Mechelen,2-0,0-0
+2017-12-26,Waregem,Charleroi,0-4,0-2
+2017-12-27,Kortrijk,Standard,2-1,0-0
+2017-12-27,St Truiden,Antwerp,0-3,0-2
+2018-01-16,Oostende,Genk,1-2,0-1
+2018-01-19,Charleroi,Mouscron,2-0,1-0
+2018-01-20,Mechelen,Waregem,0-2,0-0
+2018-01-20,Oostende,Kortrijk,2-1,2-1
+2018-01-20,Standard,Eupen,3-2,2-2
+2018-01-20,Waasland-Beveren,St Truiden,3-1,2-1
+2018-01-21,Antwerp,Club Brugge,2-2,2-0
+2018-01-21,Genk,Anderlecht,0-1,0-1
+2018-01-21,Gent,Lokeren,3-0,1-0
+2018-01-23,Mouscron,Kortrijk,0-3,0-0
+2018-01-23,St Truiden,Mechelen,2-0,1-0
+2018-01-23,Waregem,Standard,2-1,1-0
+2018-01-24,Anderlecht,Waasland-Beveren,2-2,1-1
+2018-01-24,Antwerp,Gent,1-1,1-1
+2018-01-24,Eupen,Charleroi,1-0,1-0
+2018-01-24,Lokeren,Genk,1-2,0-0
+2018-01-25,Club Brugge,Oostende,3-2,2-0
+2018-01-26,Mechelen,Mouscron,0-2,0-1
+2018-01-27,Charleroi,Antwerp,1-1,0-1
+2018-01-27,Genk,St Truiden,1-1,0-0
+2018-01-27,Kortrijk,Eupen,0-0,0-0
+2018-01-27,Waasland-Beveren,Waregem,2-2,1-0
+2018-01-28,Gent,Club Brugge,2-0,0-0
+2018-01-28,Oostende,Lokeren,2-3,1-1
+2018-01-28,Standard,Anderlecht,3-3,2-3
+2018-02-02,Antwerp,Waasland-Beveren,1-2,1-1
+2018-02-03,Eupen,Gent,1-1,1-0
+2018-02-03,Lokeren,Standard,0-3,0-1
+2018-02-03,Mouscron,Genk,0-1,0-0
+2018-02-03,St Truiden,Kortrijk,0-2,0-1
+2018-02-04,Anderlecht,Mechelen,2-2,1-2
+2018-02-04,Club Brugge,Charleroi,3-3,1-2
+2018-02-04,Waregem,Oostende,1-1,1-1
+2018-02-09,Genk,Waregem,3-1,1-1
+2018-02-10,Gent,St Truiden,3-0,1-0
+2018-02-10,Kortrijk,Antwerp,4-0,2-0
+2018-02-10,Mechelen,Eupen,1-0,0-0
+2018-02-10,Oostende,Anderlecht,2-0,2-0
+2018-02-11,Charleroi,Lokeren,1-1,0-1
+2018-02-11,Standard,Mouscron,4-3,1-1
+2018-02-11,Waasland-Beveren,Club Brugge,1-1,0-0
+2018-02-16,St Truiden,Anderlecht,1-0,1-0
+2018-02-17,Antwerp,Oostende,0-0,0-0
+2018-02-17,Club Brugge,Genk,2-2,1-1
+2018-02-17,Lokeren,Kortrijk,0-1,0-0
+2018-02-17,Waregem,Eupen,3-2,2-2
+2018-02-18,Charleroi,Standard,1-1,0-0
+2018-02-18,Gent,Mechelen,2-2,0-2
+2018-02-18,Mouscron,Waasland-Beveren,2-2,1-1
+2018-02-23,Genk,Antwerp,4-0,1-0
+2018-02-24,Eupen,Lokeren,3-2,2-1
+2018-02-24,Mechelen,Charleroi,1-1,1-1
+2018-02-24,Oostende,St Truiden,2-0,2-0
+2018-02-24,Waasland-Beveren,Gent,1-2,1-0
+2018-02-25,Anderlecht,Mouscron,5-3,2-0
+2018-02-25,Kortrijk,Waregem,0-1,0-0
+2018-02-25,Standard,Club Brugge,1-1,1-0
+2018-03-03,Antwerp,Eupen,2-0,2-0
+2018-03-03,Charleroi,St Truiden,0-0,0-0
+2018-03-03,Club Brugge,Kortrijk,2-1,0-0
+2018-03-03,Gent,Oostende,2-3,0-1
+2018-03-03,Mouscron,Lokeren,1-2,0-1
+2018-03-03,Standard,Mechelen,3-2,2-2
+2018-03-03,Waasland-Beveren,Genk,0-1,0-0
+2018-03-03,Waregem,Anderlecht,2-3,1-3
+2018-03-11,Anderlecht,Antwerp,2-1,1-1
+2018-03-11,Eupen,Mouscron,4-0,0-0
+2018-03-11,Genk,Gent,1-2,0-1
+2018-03-11,Kortrijk,Charleroi,2-0,2-0
+2018-03-11,Lokeren,Waregem,0-2,0-1
+2018-03-11,Mechelen,Waasland-Beveren,2-0,0-0
+2018-03-11,Oostende,Standard,2-3,2-0
+2018-03-11,St Truiden,Club Brugge,0-1,0-0
