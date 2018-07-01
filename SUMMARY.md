@@ -24,6 +24,7 @@
 - [`2016-17/1-proleague.csv`](2016-17/1-proleague.csv) => 16 teams / 240 matches / start: Fri Jul/29 2016, end: Sun Mar/12 2017
 - [`2017-18/1-proleague.csv`](2017-18/1-proleague.csv) => 16 teams / 240 matches / start: Fri Jul/28 2017, end: Sun Mar/11 2018
 
+<!-- break -->
 
 Season [`1995-96`](1995-96):
 
