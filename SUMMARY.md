@@ -1,5 +1,30 @@
 # Summary
 
+- match datafile /1995-96/1-proleague.csv => 18 teams / 306 matches / start date: 1995-08-04 (Fri)
+- match datafile /1996-97/1-proleague.csv => 18 teams / 306 matches / start date: 1996-08-01 (Thu)
+- match datafile /1997-98/1-proleague.csv => 18 teams / 306 matches / start date: 1997-08-08 (Fri)
+- match datafile /1998-99/1-proleague.csv => 18 teams / 306 matches / start date: 1998-08-21 (Fri)
+- match datafile /1999-00/1-proleague.csv => 18 teams / 306 matches / start date: 1999-08-06 (Fri)
+- match datafile /2000-01/1-proleague.csv => 18 teams / 306 matches / start date: 2000-08-12 (Sat)
+- match datafile /2001-02/1-proleague.csv => 18 teams / 306 matches / start date: 2001-08-11 (Sat)
+- match datafile /2002-03/1-proleague.csv => 17 teams / 272 matches / start date: 2002-08-09 (Fri)
+- match datafile /2003-04/1-proleague.csv => 18 teams / 306 matches / start date: 2003-08-08 (Fri)
+- match datafile /2004-05/1-proleague.csv => 18 teams / 306 matches / start date: 2004-08-06 (Fri)
+- match datafile /2005-06/1-proleague.csv => 18 teams / 306 matches / start date: 2005-08-05 (Fri)
+- match datafile /2006-07/1-proleague.csv => 18 teams / 306 matches / start date: 2006-07-28 (Fri)
+- match datafile /2007-08/1-proleague.csv => 18 teams / 306 matches / start date: 2007-08-03 (Fri)
+- match datafile /2008-09/1-proleague.csv => 18 teams / 306 matches / start date: 2008-08-16 (Sat)
+- match datafile /2009-10/1-proleague.csv => 15 teams / 210 matches / start date: 2009-07-31 (Fri)
+- match datafile /2010-11/1-proleague.csv => 16 teams / 240 matches / start date: 2010-07-30 (Fri)
+- match datafile /2011-12/1-proleague.csv => 16 teams / 240 matches / start date: 2011-07-29 (Fri)
+- match datafile /2012-13/1-proleague.csv => 16 teams / 240 matches / start date: 2012-07-28 (Sat)
+- match datafile /2013-14/1-proleague.csv => 16 teams / 240 matches / start date: 2013-07-26 (Fri)
+- match datafile /2014-15/1-proleague.csv => 16 teams / 240 matches / start date: 2014-07-25 (Fri)
+- match datafile /2015-16/1-proleague.csv => 16 teams / 240 matches / start date: 2015-07-24 (Fri)
+- match datafile /2016-17/1-proleague.csv => 16 teams / 240 matches / start date: 2016-07-29 (Fri)
+- match datafile /2017-18/1-proleague.csv => 16 teams / 240 matches / start date: 2017-07-28 (Fri)
+
+
 season folder /1995-96:
 
 - match datafile /1995-96/1-proleague.csv:
