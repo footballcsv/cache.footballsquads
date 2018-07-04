@@ -19,9 +19,9 @@
 11. KVC Westerlo                  30   5  5  5  25:21    3  4  8  17:42    42:63  -21   33
 12. SV Zulte Waregem              30   4  3  8  19:28    4  4  7  22:26    41:54  -13   31
 13. Royal Excel Moeskroen         30   6  2  7  23:24    1  3 11   9:27    32:51  -19   26
-14. KVRS Waasland - SK Beveren    30   5  3  7  12:18    2  2 11  18:31    30:49  -19   26
+14. Waasland-Beveren              30   5  3  7  12:18    2  2 11  18:31    30:49  -19   26
 15. Cercle Brugge                 30   4  2  9  11:22    2  4  9  10:23    21:45  -24   24
-16. K. Lierse SK                  30   3  6  6  18:26    2  1 12  12:37    30:63  -33   22
+16. K Lierse SK                   30   3  6  6  18:26    2  1 12  12:37    30:63  -33   22
 ```
 
 (Source: [`1-proleague.csv`](1-proleague.csv))

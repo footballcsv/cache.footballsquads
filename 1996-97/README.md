@@ -6,7 +6,7 @@
 ```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. K. Lierse SK                  34  14  2  1  41:16    7  8  2  29:22    70:38  +32   73
+ 1. K Lierse SK                   34  14  2  1  41:16    7  8  2  29:22    70:38  +32   73
  2. Club Brugge                   34  16  0  1  48:14    6  5  6  21:20    69:34  +35   71
  3. Royal Excel Moeskroen         34  12  4  1  38:15    5  6  6  22:23    60:38  +22   61
  4. RSC Anderlecht                34  10  4  3  41:15    6  6  5  18:21    59:36  +23   58

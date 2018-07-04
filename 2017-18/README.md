@@ -17,7 +17,7 @@
  9. SV Zulte Waregem              30   5  2  8  21:29    6  2  7  26:23    47:52   -5   37
 10. Sint-Truidense VV             30   8  3  4  17:15    1  7  7  12:26    29:41  -12   37
 11. KV Oostende                   30   6  0  9  24:25    4  6  5  18:16    42:41   +1   36
-12. KVRS Waasland - SK Beveren    30   6  3  6  28:22    3  5  7  22:29    50:51   -1   35
+12. Waasland-Beveren              30   6  3  6  28:22    3  5  7  22:29    50:51   -1   35
 13. KSC Lokeren OV                30   2  4  9  11:26    6  3  6  22:23    33:49  -16   31
 14. Royal Excel Moeskroen         30   5  4  6  23:29    3  2 10  17:30    40:59  -19   30
 15. KAS Eupen                     30   6  5  4  25:22    0  4 11  15:35    40:57  -17   27
