@@ -257,44 +257,45 @@ Waasland-Beveren
 
 ### Teams by City
 
-- ? (17): 
-  - AFC Tubize  (1) Tubize
-  - FCV Dender EH  (1) Dender
-  - Germinal Beerschot  (1) Germinal
-  - K Heusden-Zolder  (1) Heusden Zolder
-  - K Lierse SK  (1) Lierse
-  - KFC Lommel SK  (1) Lommel
-  - KFC Verbroedering Geel  (1) Geel
-  - KRC Harelbeke  (1) Harelbeke
-  - KSK Beveren  (1) Beveren
-  - KSV Roeselare  (1) Roeselare
-  - KVC Westerlo  (1) Westerlo
-  - Oud-Heverlee Leuven 
-  - RAA Louviéroise  (1) Louvieroise
-  - RAEC Mons  (1) Bergen
-  - RFC Seraing  (1) Seraing
+- **Brussels** (3): 
+  - FC Brussels 
+  - RSC Anderlecht  (1) Anderlecht
   - RWD Molenbeek  (1) Molenbeek
-  - SC Eendracht Aalst  (1) Aalst
+- **Antwerpen** (2): 
+  - Germinal Beerschot  (1) Germinal
+  - Royal Antwerp FC  (1) Antwerp
+- **Beveren** (2): 
+  - KSK Beveren  (1) Beveren
+  - Waasland-Beveren 
 - **Brugge** (2): 
   - Cercle Brugge 
   - Club Brugge 
-- **Brussels** (2): 
-  - FC Brussels 
-  - RSC Anderlecht  (1) Anderlecht
-- **Antwerpen** (1): Royal Antwerp FC  (1) Antwerp
-- **Beveren** (1): Waasland-Beveren 
+- **Aalst** (1): SC Eendracht Aalst  (1) Aalst
+- **Bergen** (1): RAEC Mons  (1) Bergen
 - **Charleroi** (1): Sporting Charleroi  (1) Charleroi
+- **Denderleeuw** (1): FCV Dender EH  (1) Dender
 - **Eupen** (1): KAS Eupen  (1) Eupen
+- **Geel** (1): KFC Verbroedering Geel  (1) Geel
 - **Genk** (1): KRC Genk  (1) Genk
 - **Gent** (1): KAA Gent  (1) Gent
+- **Harelbeke** (1): KRC Harelbeke  (1) Harelbeke
+- **Heusden-Zolder** (1): K Heusden-Zolder  (1) Heusden Zolder
 - **Kortrijk** (1): KV Kortrijk  (1) Kortrijk
+- **La Louvière** (1): RAA Louviéroise  (1) Louvieroise
+- **Leuven** (1): Oud-Heverlee Leuven 
+- **Lier** (1): K Lierse SK  (1) Lierse
 - **Liège** (1): Standard Liège  (1) Standard
 - **Lokeren** (1): KSC Lokeren OV  (1) Lokeren
+- **Lommel** (1): KFC Lommel SK  (1) Lommel
 - **Mechelen** (1): KV Mechelen  (1) Mechelen
 - **Moeskroen** (1): Royal Excel Moeskroen  (2) Mouscron • Mouscron-Peruwelz
 - **Oostende** (1): KV Oostende  (1) Oostende
+- **Roeselare** (1): KSV Roeselare  (1) Roeselare
+- **Seraing** (1): RFC Seraing  (1) Seraing
 - **Sint-Truiden** (1): Sint-Truidense VV  (1) St Truiden
+- **Tubize** (1): AFC Tubize  (1) Tubize
 - **Waregem** (1): SV Zulte Waregem  (1) Waregem
+- **Westerlo** (1): KVC Westerlo  (1) Westerlo
 
 
 
