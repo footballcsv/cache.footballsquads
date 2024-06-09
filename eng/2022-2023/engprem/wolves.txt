@@ -1,0 +1,81 @@
+=  Wolverhampton Wanderers - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Sá, POR, G, 1.92, 84, 17-01-93, Braga, Olympiakos
+3, Rayan Aït-Nouri, ALG, D, 1.79, 70, 06-06-01, Montreuil, Angers
+4, Nathan Collins, IRL, D, 1.96, 89, 30-04-01, Leixlip, Burnley
+5, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Nice
+6, Boubacar Traoré, MLI, M, 1.83, 67, 20-08-01, Bamako, Metz
+7, Pedro Neto, POR, F, 1.72, 62, 09-03-00, Viana do Castelo, Lazio
+8, Rubén Neves, POR, M, 1.80, 80, 13-03-97, Mozelos, FC Porto
+9, Raúl Jiménez, MEX, F, 1.90, 76, 05-05-91, Tepeji, Benfica
+10, Daniel Podence, POR, F, 1.60, 58, 21-10-95, Oeiras, Olympiakos
+11, Hwang Hee-Chan, KOR, F, 1.77, 65, 26-01-96, Chuncheon, RB Leipzig
+12, Matheus Cunha, BRA, F, 1.84, 75, 27-05-99, João Pessoa, Atlético Madrid
+15, Craig Dawson, ENG, D, 1.88, 85, 06-05-90, Rochdale, West Ham U
+18, Saša Kalajdžić, AUT, F, 2.00, 76, 07-07-97, Vienna, Stuttgart
+19, Jonny, ESP, D, 1.75, 70, 03-03-94, Vigo, Atlético Madrid
+20, Chiquinho, POR, F, 1.79, 72, 05-02-00, Cascais, Estoril
+21, Pablo Sarabia, ESP, M, 1.78, 72, 11-05-92, Madrid, Paris St-Germain
+22, Nélson Semedo, POR, D, 1.77, 67, 16-11-93, Lisbon, Barcelona
+23, Max Kilman, ENG, D, 1.86, 80, 23-05-97, Chelsea, Maidenhead U
+24, Toti Gomes, POR, D, 1.87, 83, 16-01-99, Bissau, Estoril
+25, Daniel Bentley, ENG, G, 1.88, 72, 13-07-93, Basildon, Bristol C
+27, Matheus Nunes, POR, M, 1.83, 74, 27-08-98, Rio de Janeiro, Sporting CP
+28, João Moutinho, POR, M, 1.70, 61, 08-09-86, Portimão, Monaco
+29, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Atlético Mineiro
+35, João Gomes, BRA, M, 1.76, 74, 12-02-01, Rio de Janeiro, Flamengo
+37, Adama Traoré, ESP, F, 1.78, 76, 25-01-96, L'Hospitalet de Llobregat, Middlesbrough
+41, Luke Matheson, ENG, D, 1.68, 62, 03-10-02, Manchester, Rochdale
+44, Michael Agboola, ENG, D, 1.91, 75, 12-08-01, Newham, Dagenham & Redbridge
+48, James Storer, IRL, G, -, -, 05-11-01, Buxton, None
+56, Joe Young, ENG, G, 1.79, 75, 22-09-02, Telford, None
+58, Jack Scott, NIR, D, 1.83, 75, 22-09-02, Belfast, Linfield
+59, Joe Hodge, IRL, M, 1.77, 76, 14-09-02, Manchester, Manchester C
+60, Alfie Pond, ENG, D, 1.91, 86, 17-02-04, Exeter, Exeter C
+61, Ollie Tipton, ENG, D, -, -, 22-09-03, Wolverhampton, None
+63, Nathan Fraser, IRL, F, -, -, 01-07-05, Wolverhampton, None
+64, Hugo Bueno, ESP, D, 1.80, 73, 18-09-02, Vigo, Areosa
+65, Lee Harkin, NIR, F, 1.65, 55, 07-05-03, Derry, Derry C
+66, Harvey Griffiths, ENG, M, -, -, 22-09-03, Oldham, Manchester C
+67, Justin Hubner, NED, D, 1.85, 75, 14-09-03, 's-Hertogenbosch, FC Den Bosch
+75, Christian Marques, POR, D, 1.87, 75, 15-01-03, Uster, Grasshoppers
+78, Jack Hodnett, ENG, M, 1.68, 62, 17-01-03, Telford, None
+79, Owen Hesketh, WAL, M, 1.80, 67, 10-10-02, Manchester, Manchester C
+80, Stan Amos, ENG, G, -, -, 04-02-06, Redditch, None
+81, Dexter Lembikisa, JAM, D, 1.80, 68, 04-11-03, Lambeth, None
+82, Ackeme Francis-Burrell, ENG, M, -, -, 08-03-05, West Bromwich, None
+83, Aaron Keto-Diyawa, ENG, D, -, -, 11-09-03, -, Fulham
+84, Leon Chiwome, ENG, F, -, -, 10-01-06, Brighton, AFC Wimbledon
+85, Harry Birtwistle, SIN, D, -, -, 01-12-03, Singapore, None
+86, Ty Barnett, ENG, M, -, -, 19-07-05, Birmingham, None
+87, Tyler Roberts, JAM, F, 1.77, 70, 22-12-03, Walsall, None
+89, Dylan Scicluna, MLT, M, 1.75, 70, 10-06-04, Melbourne, None
+90, Temple Ojinnaka, ITA, M, -, -, 30-03-05, Venice, None
+91, Pálmi Rafn Arinbjörnsson, ISL, G, 1.91, 78, 29-11-03, Reykjanesbær, Njardvík
+92, Kam Kandola, ENG, D, -, -, 03-01-04, Wolverhampton, None
+94, Owen Farmer, ENG, F, -, -, 06-09-04, Solihull, None
+95, Filozofe Mabete, ENG, D, -, -, 11-12-04, -, None
+96, Marvin Kaleta, ENG, D, -, -, 14-09-04, Manchester, None
+97, Mason Rees, ENG, M, -, -, 06-11-05, Solihull, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Conor Coady, ENG, D, 1.85, 75, 25-02-93, Liverpool, Everton (On Loan)
+18, Morgan Gibbs-White, ENG, M, 1.78, 60, 27-01-00, Stafford, Nottingham F
+6, Bruno Jordão, POR, M, 1.80, 73, 12-10-98, Marinha Grande, Santa Clara (On Loan)
+39, Luke Cundle, ENG, M, 1.70, 62, 26-04-02, Warrington, Swansea C (On Loan)
+15, Willy Boly, CIV, D, 1.85, 81, 03-02-91, Melun, Nottingham F
+32, Leander Dendoncker, BEL, M, 1.88, 79, 15-04-95, Passendale, Aston Villa
+17, Gonçalo Guedes, POR, M, 1.79, 68, 29-11-96, Benavente, Benfica (On Loan)
+38, Theo Corbeanu, CAN, F, 1.87, 76, 17-05-02, Burlington, Arminia Bielefeld (On Loan)
+25, Connor Ronan, IRL, M, 1.73, 70, 06-03-98, Rochdale, Colorado Rapids
+13, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Stoke C (On Loan)
+21, Fábio Silva, POR, F, 1.85, 75, 19-07-02, Rio Tinto, PSV Eindhoven (On Loan)
+55, Jackson Smith, ENG, G, 1.87, 76, 14-10-01, Birmingham, Walsall (On Loan)
+77, Chem Campbell, WAL, F, 1.80, 72, 30-12-02, Birmingham, Wycombe W (On Loan)
+88, Joe O'Shaughnessy, IRL, G, 1.99, 77, 05-01-03, Warrington, Macclesfield
+62, Andreas Søndergaard, DEN, G, 1.88, 75, 17-01-01, Nyborg, Swansea C
+14, Yerson Mosquera, COL, D, 1.88, 84, 02-05-01, Apartadó, FC Cincinnati (On Loan)
+71, He Zhenyu, CHN, F, 1.80, 73, 28-06-01, Dalian, Changchun Yatai

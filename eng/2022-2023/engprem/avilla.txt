@@ -1,0 +1,82 @@
+=  Aston Villa - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+2, Matty Cash, POL, D, 1.85, 64, 07-08-97, Slough, Nottingham F
+3, Diego Carlos, BRA, D, 1.84, 79, 15-03-93, Barra Bonita, Sevilla
+4, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, Brentford
+5, Tyrone Mings, ENG, D, 1.91, 77, 13-03-93, Bath, Bournemouth
+6, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, Hibernian
+9, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Lyon
+10, Emi Buendía, ARG, M, 1.70, 65, 25-12-96, Mar del Plata, Norwich C
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Brentford
+12, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Norwich C
+15, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Betis
+16, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Arsenal
+18, Ashley Young, ENG, D, 1.75, 65, 09-07-85, Stevenage, Internazionale
+22, Jhon Durán, COL, F, 1.85, 73, 13-12-03, Medellín, Chicago Fire
+23, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Barcelona
+25, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, Roma
+27, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Everton
+29, Kaine Kesler Hayden, ENG, D, 1.75, 62, 23-10-02, Birmingham, None
+31, Leon Bailey, JAM, F, 1.81, 70, 09-08-97, Kingston, Bayer Leverkusen
+32, Leander Dendoncker, BEL, M, 1.88, 79, 15-04-95, Passendale, Wolverhampton W
+38, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, FC Espoo
+41, Jacob Ramsey, ENG, M, 1.66, 61, 28-05-01, Birmingham, None
+43, Brad Young, ENG, F, -, -, 04-08-02, Birmingham, None
+44, Boubacar Kamara, FRA, D, 1.78, 68, 23-11-99, Marseille, Marseille
+48, Oliwier Zych, POL, G, 1.91, 86, 28-06-04, Gdańsk, Zagłębie Lubin
+49, Hayden Lindley, ENG, M, 1.82, 70, 02-09-02, Huddersfield, Manchester C
+50, Sil Swinkels, NED, D, 1.90, 78, 06-01-04, Sint-Oedenrode, Vitesse
+51, Myles Sohna, ENG, D, 1.80, 67, 01-07-02, Gloucester, None
+53, Aaron O'Reilly, IRL, D, -, -, 29-06-04, -, St Patrick's Ath
+54, Josh Lane, ENG, G, -, -, 11-09-03, Leicester, Leicester C
+55, Arjan Raikhy, ENG, M, -, -, 25-08-03, Wolverhampton, None
+56, Sebastian Revan, ENG, D, -, -, 14-07-03, West Bromwich, None
+57, Taylor-Jay Hart, ENG, M, -, -, 18-12-03, -, None
+58, Tommi O'Reilly, IRL, M, 1.70, 63, 15-12-03, -, None
+59, Josh Feeney, ENG, D, -, -, 06-05-05, Blackpool, Fleetwood T
+60, Ruben Shakpoke, ENG, F, -, -, 23-04-04, Lewisham, Norwich C
+61, Frankie Ealing, ENG, D, 1.76, 66, 14-07-04, Birmingham, None
+63, Kerr Smith, SCO, D, -, -, 12-12-04, -, Dundee U
+64, James Wright, ENG, G, -, -, 02-12-04, -, Manchester C
+66, Travis Patterson, ENG, D, -, -, 06-10-05, -, None
+67, Declan Frith, ENG, D, -, -, 16-05-02, Lewisham, Chelsea
+68, Teddy Rowe, ENG, M, -, -, 17-10-03, -, None
+69, Chisom Afoka, ENG, M, -, -, 23-09-03, -, WBA
+70, Jayden Barber, ENG, D, -, -, 23-06-05, -, None
+71, Omari Kellyman, NIR, F, -, -, 25-09-05, Derby, Derby Co
+72, Kadan Young, ENG, F, -, -, 19-01-06, Worcester, None
+73, Mikell Barnes, ENG, M, -, -, 30-12-04, -, None
+74, Kyrie Pierre, ENG, M, -, -, 17-06-05, Bristol, Bristol R
+75, Rory Wilson, SCO, F, -, -, 05-01-06, Girvan, Rangers
+76, Triston Rowe, ENG, D, -, -, -, -, WBA
+77, Kobei Moore, ENG, F, -, -, 30-11-04, Birmingham, None
+79, Todd Alcock, ENG, M, -, -, 23-11-04, -, None
+80, Charlie Lutz, ENG, F, -, -, 15-10-04, Worcester, None
+81, Nile Timson, ENG, D, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Finn Azaz, IRL, M, 1.85, 70, 07-09-00, Westminster, Plymouth Arg (On Loan)
+32, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, Cardiff C (On Loan)
+39, Keinan Davis, ENG, F, 1.91, 68, 01-06-98, Stevenage, Watford (On Loan)
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Watford (On Loan)
+45, Ben Chrisene, ENG, D, 1.83, 80, 12-01-04, Exeter, Kilmarnock (On Loan)
+21, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, PSV Eindhoven
+46, Caleb Chukwuemeka, ENG, F, 1.90, 70, 25-01-02, Eisenstadt, Crawley T (On Loan)
+47, Tim Iroegbunam, ENG, M, -, -, 30-06-03, West Bromwich, QPR (On Loan)
+35, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Middlesbrough (On Loan)
+62, Tyreik Wright, IRL, M, 1.79, 72, 22-09-01, Cork, Plymouth Arg
+24, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Strasbourg
+9, Danny Ings, ENG, F, 1.78, 73, 16-03-92, Winchester, West Ham U
+42, Filip Marschall, ENG, G, 1.95, 87, 15-12-02, Bedford, Gateshead (On Loan)
+20, Jan Bednarek, POL, D, 1.89, 77, 12-04-96, Słupca, Southampton
+8, Morgan Sanson, FRA, M, 1.82, 70, 18-08-94, Saint-Doulchard, Strasbourg (On Loan)
+17, Ludwig Augustinsson, SWE, D, 1.81, 75, 21-04-94, Stockholm, Sevilla
+19, Marvelous Nakamba, ZIM, M, 1.77, 71, 19-01-94, Hwange, Luton T (On Loan)
+40, Aaron Ramsey, ENG, M, -, -, 21-01-03, Birmingham, Middlesbrough (On Loan)
+52, Lamare Bogarde, NED, D, 1.83, 76, 05-01-04, Rotterdam, Bristol R (On Loan)
+15, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Re-Registered (9)

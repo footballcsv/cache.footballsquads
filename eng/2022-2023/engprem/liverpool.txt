@@ -1,0 +1,85 @@
+=  Liverpool - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alisson Becker, BRA, G, 1.91, 91, 02-10-92, Novo Hamburgo, Roma
+2, Joe Gomez, ENG, D, 1.88, 77, 23-05-97, Catford, Charlton Ath
+3, Fabinho, BRA, M, 1.87, 78, 23-10-93, Campinas, Monaco
+4, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, Southampton
+5, Ibrahima Konaté, FRA, D, 1.93, 84, 25-05-99, Paris, RB Leipzig
+6, Thiago Alcántara, ESP, M, 1.65, 60, 11-04-91, Bari, Bayern Munich
+7, James Milner, ENG, M, 1.75, 70, 04-01-86, Wortley, Manchester C
+8, Naby Keïta, GUI, M, 1.72, 64, 10-02-95, Conakry, RB Leipzig
+9, Roberto Firmino, BRA, F, 1.81, 76, 02-10-91, Maceió, 1899 Hoffenheim
+11, Mohamed Salah, EGY, F, 1.75, 72, 15-06-92, Basyoun, Roma
+13, Adrián, ESP, G, 1.90, 80, 03-01-87, Seville, West Ham U
+14, Jordan Henderson, ENG, M, 1.82, 67, 17-06-90, Sunderland, Sunderland
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Arsenal
+17, Curtis Jones, ENG, M, 1.85, 72, 30-01-01, Liverpool, None
+18, Cody Gakpo, NED, F, 1.79, 64, 07-05-99, Eindhoven, PSV Eindhoven
+19, Harvey Elliott, ENG, M, 1.70, 67, 04-04-03, Chertsey, Fulham
+20, Diogo Jota, POR, F, 1.78, 70, 04-12-96, Massarelos, Wolverhampton W
+21, Kostas Tsimikas, GRE, D, 1.77, 70, 12-05-96, Thessaloniki, Olympiakos
+22, Calvin Ramsay, SCO, D, 1.77, 63, 31-07-03, Aberdeen, Aberdeen
+23, Luis Díaz, COL, F, 1.80, 73, 13-01-97, Barrancas, FC Porto
+26, Andrew Robertson, SCO, D, 1.78, 63, 11-03-94, Glasgow, Hull C
+27, Darwin Núñez, URU, F, 1.87, 78, 24-06-99, Artigas, Benfica
+28, Fabio Carvalho, POR, M, 1.70, 62, 30-08-02, Lisbon, Fulham
+29, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Juventus
+32, Joel Matip, CMR, D, 1.95, 90, 08-08-91, Bochum, Schalke
+42, Bobby Clark, ENG, F, -, -, 07-02-05, Epsom, Newcastle U
+43, Stefan Bajčetić, ESP, M, 1.85, 77, 22-10-04, Vigo, Celta Vigo
+46, Rhys Williams, ENG, D, 1.96, 82, 03-02-01, Preston, None
+47, Nathaniel Phillips, ENG, D, 1.90, 70, 21-03-97, Bolton, Bolton W
+48, Calum Scanlon, ENG, D, -, -, 14-02-05, Birmingham, None
+49, Kaide Gordon, ENG, F, -, -, 05-10-04, Burton upon Trent, Derby Co
+50, Ben Doak, SCO, M, -, -, 11-11-05, -, Celtic
+51, Iwan Roberts, WAL, F, -, -, 27-09-04, Wrexham, None
+52, Isaac Mabaya, ENG, M, -, -, 22-09-04, Preston, None
+53, James McConnell, ENG, M, -, -, 13-09-04, Newcastle upon Tyne, None
+54, Liam Hughes, NIR, G, -, -, 19-08-01, -, Celtic
+57, Carter Pinnington, ENG, D, -, -, 21-02-07, -, None
+58, Francis Gyimah, ENG, D, -, -, 27-07-06, Accra, None
+59, Terence Miles, ENG, D, -, -, 12-09-04, Liverpool, None
+60, Niall Osborne, ENG, D, -, -, 02-02-05, Wigan, None
+61, Matteo Ritaccio, USA, M, -, -, 04-10-01, Westbury, BW Gottschee
+62, Caoimhin Kelleher, IRL, G, 1.88, 81, 23-11-98, Cork, Ringmahon Rangers
+63, Owen Beck, WAL, D, 1.77, 65, 09-08-02, Wrexham, None
+66, Trent Alexander-Arnold, ENG, D, 1.75, 69, 07-10-98, Liverpool, None
+67, Lewis Koumas, ENG, M, -, -, 19-09-05, Chester, None
+68, Jack Bearne, ENG, M, 1.71, 63, 15-09-01, Nottingham, Notts Co
+70, Tommy Pilling, ENG, F, -, -, 14-09-04, St Helens, None
+71, Jay Spearing, ENG, M, 1.68, 70, 25-11-88, Wirral, Tranmere R
+73, Luke Hewitson, ENG, G, -, -, 15-10-04, Newcastle upon Tyne, Sunderland
+74, Oscar Kelly, ENG, G, -, -, 22-11-02, Liverpool, None
+75, Jakub Ojrzyński, POL, G, 1.96, 84, 19-02-03, Warsaw, Legia Warszawa
+76, Dare Olufunwa, ENG, D, -, -, 29-07-01, Southampton, Southampton
+77, James Norris, ENG, D, -, -, 04-04-03, Liverpool, None
+79, Domnic Corness, ENG, M, -, -, 05-05-03, Liverpool, None
+81, Layton Stewart, ENG, F, -, -, 03-09-02, Liverpool, None
+82, Max Woltman, ENG, F, 1.81, 62, 20-08-03, Wirral, None
+83, Thomas Hill, ENG, M, -, -, 13-10-02, Formby, None
+85, James Balagizi, ENG, M, 1.89, 74, 20-09-03, Manchester, None
+86, Harvey Blair, ENG, F, -, -, 14-09-03, Huddersfield, None
+87, Oakley Cannonier, ENG, F, -, -, 06-05-04, Leeds, None
+89, Billy Koumetio, FRA, D, 1.95, 76, 14-11-02, Lyon, Orléans
+90, Lee Jonas, ENG, D, -, -, 06-07-04, Liverpool, None
+91, Luca Stephenson, ENG, M, -, -, 17-09-03, Sunderland, None
+92, Mateusz Musiałowski, POL, M, -, -, 16-10-03, Katowice, UKS SMS Łódź
+93, Fabian Mrozek, POL, G, -, -, 28-09-03, Wrocław, FC Wrocław Academy
+94, Melkamu Frauendorf, GER, M, -, -, 12-01-04, Kembata, 1899 Hoffenheim
+95, Harvey Davies, ENG, G, 1.90, 80, 03-09-03, Liverpool, None
+98, Charlie Hayes-Green, ENG, M, -, -, 30-12-04, Wirral, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Marcelo Pitaluga, BRA, G, 1.91, 75, 20-12-02, Niterói, Macclesfield (On Loan)
+84, Conor Bradley, NIR, D, -, -, 09-07-03, Tyrone, Bolton W (On Loan)
+56, Vítězslav Jaroš, CZE, G, 1.90, 74, 23-07-01, Příbram, Stockport Co (On Loan)
+80, Tyler Morton, ENG, M, -, -, 31-10-02, Wirral, Blackburn R (On Loan)
+65, Leighton Clarkson, ENG, M, -, -, 19-10-01, Blackburn, Aberdeen (On Loan)
+72, Sepp van den Berg, NED, D, 1.90, 78, 20-12-01, Zwolle, Schalke (On Loan)
+64, Jake Cain, ENG, M, -, -, 02-09-01, Wigan, Swindon T
+78, Jarell Quansah, ENG, D, -, -, 29-01-03, Warrington, Bristol R (On Loan)
+88, Luke Chambers, ENG, D, -, -, 24-06-04, Preston, Kilmarnock (On Loan)
+69, Fidel O'Rourke, ENG, F, -, -, 05-02-02, Liverpool, FC Halifax T (On Loan)

@@ -1,0 +1,67 @@
+=  Leeds United - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Illan Meslier, FRA, G, 1.96, 74, 02-03-00, Lorient, Lorient
+2, Luke Ayling, ENG, D, 1.83, 72, 25-08-91, Lambeth, Bristol C
+3, Júnior Firpo, ESP, D, 1.84, 75, 22-08-96, Santo Domingo, Barcelona
+4, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Middlesbrough
+5, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Freiburg
+6, Liam Cooper, SCO, D, 1.80, 73, 03-08-91, Hull, Chesterfield
+7, Brenden Aaronson, USA, M, 1.78, 67, 22-10-00, Medford, Red Bull Salzburg
+8, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Bayern Munich
+9, Patrick Bamford, ENG, F, 1.85, 71, 05-09-93, Newark, Middlesbrough
+10, Crysencio Summerville, NED, M, 1.74, 68, 30-10-01, Rotterdam, Feyenoord
+11, Jack Harrison, ENG, M, 1.75, 71, 20-11-96, Stoke-on-Trent, Manchester C
+12, Tyler Adams, USA, M, 1.75, 68, 14-02-99, Wappingers Falls, RB Leipzig
+13, Kristoffer Klaesson, NOR, G, 1.89, 76, 27-11-00, Oslo, Vålerenga
+15, Stuart Dallas, NIR, D, 1.83, 81, 19-04-91, Cookstown, Brentford
+16, Sonny Perkins, ENG, F, 1.80, 73, 10-02-04, Waltham Forest, West Ham U
+18, Darko Gyabi, ENG, M, 1.96, 82, 18-02-04, Catford, Manchester C
+19, Rodrigo Moreno, ESP, F, 1.82, 77, 06-03-91, Rio de Janeiro, Valencia
+21, Pascal Struijk, NED, D, 1.90, 75, 11-08-99, Deurne, Ajax
+22, Joel Robles, ESP, G, 1.95, 90, 17-06-90, Leganés, Betis
+23, Luis Sinisterra, COL, M, 1.72, 60, 17-06-99, Santader de Quilichao, Feyenoord
+24, Georginio Rutter, FRA, F, 1.82, 77, 20-04-02, Plescop, 1899 Hoffenheim
+25, Rasmus Kristensen, DEN, D, 1.86, 70, 11-07-97, Brande, Red Bull Salzburg
+27, Amari Miller, ENG, M, -, -, 04-11-02, Birmingham, Birmingham C
+28, Weston McKennie, USA, M, 1.78, 75, 28-08-98, Little Elm, Juventus
+29, Wilfried Gnonto, ITA, F, 1.70, 72, 05-11-03, Verbania, Zürich
+32, Sean McGurk, ENG, F, -, -, 15-03-03, Liverpool, Wigan Ath
+34, Diogo Monteiro, POR, D, 1.84, 73, 28-01-05, Geneva, Servette
+39, Max Wöber, AUT, D, 1.89, 82, 04-02-98, Vienna, Red Bull Salzburg
+40, Dani van den Heuvel, NED, G, 1.84, 73, 28-05-03, Delft, Ajax
+42, Sam Greenwood, ENG, M, 1.80, 70, 26-01-02, Sunderland, Arsenal
+49, Mateo Joseph, ESP, F, 1.80, 75, 19-10-03, Santander, Espanyol
+51, Charlie Allen, NIR, F, -, -, 22-11-03, Belfast, None
+52, Kris Moore, ENG, D, -, -, 13-11-03, Leeds, None
+53, Connor Ferguson, ENG, D, -, -, 21-02-04, Keighley, None
+55, Harry Christy, ENG, G, -, -, 19-10-03, Harrogate, None
+56, James Debayo, ENG, D, -, -, 11-07-05, Hillingdon, Watford
+57, Joe Snowdon, ENG, M, -, -, 14-02-04, Oldham, Manchester C
+58, Morten Spencer, NOR, M, -, -, 14-03-04, Darlington, Sunderland
+59, Keenan Carole, FRA, F, -, -, 04-08-04, Nice, None
+60, Harvey Sutcliffe, ENG, D, -, -, 07-09-03, Keighley, None
+61, Cian Coleman, IRL, F, -, -, 23-09-04, Pudsey, None
+62, Jeremiah Mullen, SCO, D, -, -, 17-06-04, Leeds, None
+63, Archie Gray, ENG, M, 1.83, 70, 12-03-06, Durham, None
+66, Luca Thomas, ENG, F, -, -, 16-09-04, Crewe, None
+67, Ben Andreucci, SCO, F, -, -, 05-10-04, Bedford, None
+68, Scott Godden, WAL, D, -, -, 07-02-05, Leeds, None
+70, Darryl Ombang, ENG, G, -, -, 11-07-05, Leeds, Bradford C
+71, Jay Buchan, ENG, M, -, -, 07-03-05, Bradford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Jamie Shackleton, ENG, M, 1.68, 64, 08-10-99, Leeds, Millwall (On Loan)
+26, Lewis Bate, ENG, M, -, -, 29-10-02, Sidcup, Oxford U (On Loan)
+39, Stuart McKinstry, SCO, M, 1.79, 68, 18-09-02, Wishaw, Motherwell (On Loan)
+47, Jack Jenkins, ENG, M, -, -, 23-03-02, Leeds, Salford C (On Loan)
+20, Daniel James, WAL, M, 1.80, 76, 10-11-97, Kingston upon Hull, Fulham (On Loan)
+38, Alfie McCalmont, NIR, M, 1.67, 63, 25-03-00, Thirsk, Carlisle U (On Loan)
+33, Leo Hjelde, NOR, D, 1.88, 76, 26-08-03, Nottingham, Rotherham U (On Loan)
+43, Mateusz Klich, POL, M, 1.80, 67, 13-06-90, Tarnów, DC United
+50, Max Dean, ENG, F, 1.78, 65, 21-02-04, Ormskirk, MK Dons
+37, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, Luton T (On Loan)
+30, Joe Gelhardt, ENG, F, 1.76, 71, 04-05-02, Liverpool, Sunderland (On Loan)
+14, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Roma (On Loan)

@@ -1,0 +1,23 @@
+# English Premier League 2022/2023
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Bournemouth](bourne.txt)
+- [Brentford](brentf.txt)
+- [Brighton & Hove Albion](brighton.txt)
+- [Chelsea](chelsea.txt)
+- [Crystal Palace](cpalace.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Nottingham Forest](nottmf.txt)
+- [Southampton](southam.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)
+- [Wolverhampton Wanderers](wolves.txt)

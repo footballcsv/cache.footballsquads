@@ -1,0 +1,66 @@
+=  Tottenham Hotspur - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Lyon
+4, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, None
+5, Pierre-Emile Højbjerg, DEN, M, 1.85, 84, 05-08-95, Copenhagen, Southampton
+6, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Ajax
+7, Son Heung-Min, KOR, F, 1.83, 77, 08-07-92, Chuncheon, Bayer Leverkusen
+9, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Everton
+10, Harry Kane, ENG, F, 1.88, 86, 28-07-93, Walthamstow, None
+12, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Barcelona
+14, Ivan Perišić, CRO, F, 1.86, 80, 02-02-89, Split, Internazionale
+15, Eric Dier, ENG, D, 1.88, 90, 15-01-94, Cheltenham, Sporting CP
+16, Arnaut Danjuma, NED, F, 1.78, 74, 31-01-97, Oss, Villarreal
+17, Cristian Romero, ARG, D, 1.85, 79, 27-04-98, Córdoba, Atalanta
+19, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, Fulham
+20, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Southampton
+21, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, Juventus
+23, Pedro Porro, ESP, D, 1.76, 71, 13-09-99, Don Benito, Sporting CP
+25, Japhet Tanganga, ENG, D, 1.84, 73, 31-03-99, Hackney, None
+27, Lucas Moura, BRA, M, 1.72, 66, 13-08-92, São Paulo, Paris St-Germain
+29, Pape Matar Sarr, SEN, M, 1.84, 70, 14-09-02, Thiaroye, Metz
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Juventus
+33, Ben Davies, WAL, D, 1.82, 76, 24-04-93, Neath, Swansea C
+34, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Barcelona
+38, Yves Bissouma, MLI, M, 1.81, 78, 30-08-96, Issia, Brighton & HA
+40, Brandon Austin, USA, G, 1.88, 82, 08-01-99, Hemel Hempstead, None
+43, Nile John, ENG, M, -, -, 06-03-03, White City, None
+45, Alfie Devine, ENG, M, -, -, 01-08-04, Warrington, Wigan Ath
+46, Malachi Fagan-Walcott, ENG, D, 1.87, 74, 11-03-02, Edmonton, None
+48, Maksim Paskotši, EST, D, 1.88, 84, 19-01-03, Tallinn, Flora Tallinn
+49, Marqes Muir, ENG, D, -, -, 21-09-02, Lambeth, None
+50, Kallum Cesay, SLE, M, -, -, 04-09-02, Newham, West Ham U
+51, Matthew Craig, SCO, M, -, -, 16-04-03, Barnet, None
+53, Brooklyn Lyons-Foster, ENG, D, 1.81, 70, 01-12-00, Archway, None
+54, Josh Keeley, IRL, G, 1.91, 65, 17-05-03, Dublin, St Patrick's Ath
+55, Romaine Mundle, ENG, M, 1.77, 61, 24-04-03, Edmonton, None
+57, Max Robson, ENG, M, -, -, 17-10-02, Haywards Heath, None
+58, Yago Santiago, ESP, M, -, -, 15-04-03, Vigo, Celta Vigo
+60, Tyrell Ashcroft, ENG, D, -, -, 07-03-02, -, Reading
+61, Aaron Maguire, IRL, G, -, -, 25-07-04, Leytonstone, None
+62, Will Lankshear, ENG, F, -, -, 20-04-05, Hatfield, Sheffield U
+63, Jamie Donley, NIR, F, -, -, 03-01-05, Antrim, None
+64, Luca Gunter, ENG, G, -, -, 23-03-05, Enfield, None
+65, Alfie Dorrington, ENG, D, -, -, 20-04-05, Enfield, None
+67, Roshaun Mathurin, ENG, M, -, -, 23-01-04, Leytonstone, None
+70, Jaden Williams, ENG, F, -, -, 06-09-04, Harrow, None
+71, Maxwell McKnight, ENG, D, -, -, 03-10-04, Colchester, None
+73, Jahziah Linton, ENG, D, -, -, 30-11-04, Camberwell, None
+74, William Andiyapan, WAL, D, -, -, 25-03-05, Watford, Arsenal
+77, George Abbott, ENG, M, -, -, 17-08-05, Islington, None
+85, Archie Chaplin, ENG, D, -, -, 28-10-05, -, None
+87, Damola Ajayi, ENG, M, -, -, 27-12-05, Lambeth, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Villarreal (On Loan)
+28, Tanguy NDombèlé, FRA, M, 1.76, 68, 28-12-96, Longjumeau, Napoli (On Loan)
+3, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Atlético Madrid (On Loan)
+8, Harry Winks, ENG, M, 1.76, 74, 02-02-96, Hemel Hempstead, Sampdoria (On Loan)
+11, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Sevilla (On Loan)
+2, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Atlético Madrid
+24, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, Rennes (On Loan)
+42, Harvey White, ENG, M, 1.71, 60, 19-09-01, Maidstone, Derby Co (On Loan)
+59, Adam Hayton, ENG, G, -, -, 28-04-04, Luton, Barnsley

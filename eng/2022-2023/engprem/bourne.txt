@@ -1,0 +1,54 @@
+=  Bournemouth - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Travers, IRL, G, 1.91, 82, 18-05-99, Maynooth, Shamrock R
+2, Ryan Fredericks, ENG, D, 1.73, 72, 10-10-92, Potters Bar, West Ham U
+3, Jack Stephens, ENG, D, 1.85, 75, 27-01-94, Torpoint, Southampton
+4, Lewis Cook, ENG, M, 1.75, 71, 03-02-97, Leeds, Leeds U
+5, Lloyd Kelly, ENG, D, 1.78, 70, 01-10-98, Bristol, Bristol C
+6, Chris Mepham, WAL, D, 1.91, 75, 05-11-97, Hammersmith, Brentford
+7, David Brooks, WAL, M, 1.66, 62, 08-07-97, Warrington, Sheffield U
+8, Jefferson Lerma, COL, M, 1.79, 70, 25-10-94, El Cerrito, Levante
+9, Dominic Solanke, ENG, F, 1.87, 80, 14-09-97, Reading, Liverpool
+10, Ryan Christie, SCO, M, 1.78, 70, 22-02-95, Inverness, Celtic
+11, Dango Ouattara, BFA, F, 1.77, 71, 11-02-02, Ouagadougou, Lorient
+12, Darren Randolph, IRL, G, 1.88, 98, 12-05-87, Dublin, West Ham U
+13, Neto, BRA, G, 1.90, 84, 19-07-89, Araxá, Barcelona
+14, Joe Rothwell, ENG, M, 1.85, 77, 11-01-95, Manchester, Blackburn R
+15, Adam Smith, ENG, D, 1.80, 78, 29-04-91, Leytonstone, Tottenham H
+16, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, Middlesbrough
+17, Jack Stacey, ENG, D, 1.80, 68, 06-04-96, Bracknell, Luton T
+18, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Roma
+19, Junior Stanislas, ENG, M, 1.83, 76, 26-11-89, Kidbrooke, Burnley
+21, Kieffer Moore, WAL, F, 1.95, 83, 08-08-92, Torquay, Cardiff C
+22, Hamed Junior Traoré, CIV, M, 1.84, 77, 16-02-00, Abidjan, Sassuolo
+24, Antoine Semenyo, GHA, F, 1.78, 63, 07-01-00, Chelsea, Bristol C
+25, Marcos Senesi, ARG, D, 1.85, 75, 10-05-97, Concordia, Feyenoord
+27, Illya Zabarnyi, UKR, D, 1.86, 80, 01-09-02, Kyiv, Dynamo Kyiv
+29, Philip Billing, DEN, M, 1.93, 80, 11-06-96, Copenhagen, Huddersfield T
+32, Jaidon Anthony, ENG, F, 1.83, 68, 01-12-99, Hackney, Arsenal
+33, Jordan Zemura, ZIM, D, 1.73, 75, 14-11-99, Lambeth, Charlton Ath
+36, Jack Wadham, ENG, M, -, -, 25-02-03, Harrogate, None
+40, Will Dennis, ENG, G, 1.88, 79, 10-07-00, Bedford, Watford
+41, Euan Pollock, ENG, F, -, -, 03-10-02, Dorchester, None
+42, Chris Francis, ENG, D, -, -, 15-11-02, -, North Leigh
+43, Ben Greenwood, ENG, D, -, -, 20-02-03, Frimley, None
+45, Cameron Plain, ENG, G, -, -, 28-11-02, Winchester, None
+48, Ferdinand Okoh, NGA, M, -, -, 03-06-04, Redbridge, Tottenham H
+49, Dominic Sadi, ENG, M, -, -, 02-09-03, Enfield, Wingate & Finchley
+50, Michael Dacosta Gonzalez, ESP, F, -, -, 05-03-05, Alicante, None
+51, Daniel Adu-Adjei, ENG, F, -, -, 21-06-05, Hammersmith, Fulham
+53, Maxwell Kinsey-Wellings, ENG, D, -, -, 02-02-05, Guildford, Southampton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Nathan Moriah-Welsh, GUY, M, 1.75, 70, 18-03-02, Chelsea, Newport Co (On Loan)
+38, Christian Saydee, ENG, F, 1.84, 78, 10-05-02, Hillingdon, Shrewsbury T (On Loan)
+44, Brooklyn Genesini, ENG, D, 1.89, 78, 12-12-01, Yeovil, Næstved (On Loan)
+35, Owen Bevan, WAL, D, -, -, 26-10-03, -, Yeovil T (On Loan)
+23, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, Hearts (On Loan)
+11, Emiliano Marcondes, DEN, M, 1.83, 75, 09-03-95, Hvidovre, FC Nordsjælland (On Loan)
+18, Jamal Lowe, JAM, F, 1.83, 79, 27-01-94, Harrow, QPR (On Loan)
+20, Siriki Dembélé, CIV, M, 1.70, 67, 07-09-96, -, Auxerre (On Loan)
+22, Ben Pearson, ENG, M, 1.66, 71, 04-01-95, Oldham, Stoke C (On Loan)

@@ -1,0 +1,90 @@
+=  Chelsea - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kepa Arrizabalaga, ESP, G, 1.89, 84, 03-10-94, Ondarroa, Athletic Bilbao
+4, Benoît Badiashile, FRA, D, 1.92, 75, 06-03-01, Limoges, Monaco
+5, Enzo Fernández, ARG, M, 1.78, 78, 17-01-01, San Martín, Benfica
+6, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Paris St-Germain
+7, Ngolo Kanté, FRA, M, 1.68, 68, 29-03-91, Paris, Leicester C
+8, Mateo Kovačić, CRO, M, 1.81, 75, 06-05-94, Linz, Real Madrid
+9, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Barcelona
+10, Christian Pulisic, USA, F, 1.73, 63, 18-09-98, Easton, Borussia Dortmund
+11, João Félix, POR, F, 1.80, 62, 10-11-99, Viseu, Atlético Madrid
+12, Ruben Loftus-Cheek, ENG, M, 1.91, 88, 23-01-96, Lewisham, None
+13, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, Fulham
+14, Trevoh Chalobah, ENG, M, 1.90, 75, 05-07-99, Freetown, None
+15, Mykhaylo Mudryk, UKR, M, 1.75, 61, 05-01-01, Krasnohrad, Shakhtar Donetsk
+16, Édouard Mendy, SEN, G, 1.97, 86, 01-03-92, Montivilliers, Rennes
+17, Raheem Sterling, ENG, F, 1.70, 69, 08-12-94, Kingston, Manchester C
+18, Armando Broja, ALB, F, 1.86, 74, 10-09-01, Slough, None
+19, Mason Mount, ENG, M, 1.78, 64, 10-01-99, Portsmouth, None
+20, Denis Zakaria, SUI, M, 1.91, 76, 20-11-96, Kinshasa, Juventus
+21, Ben Chilwell, ENG, D, 1.78, 71, 21-12-96, Milton Keynes, Leicester C
+22, Hakim Ziyech, MAR, M, 1.80, 70, 19-03-93, Dronten, Ajax
+23, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, None
+24, Reece James, ENG, D, 1.83, 71, 08-12-99, Redbridge, None
+26, Kalidou Koulibaly, SEN, D, 1.95, 89, 20-06-91, Saint-Dié, Napoli
+27, Datro Fofana, CIV, F, 1.81, 82, 22-12-02, Ouragahio, Molde
+28, César Azpilicueta, ESP, D, 1.78, 78, 28-08-89, Pamplona, Marseille
+29, Kai Havertz, GER, M, 1.87, 75, 11-06-99, Aachen, Bayer Leverkusen
+30, Carney Chukwuemeka, ENG, M, 1.82, 70, 20-10-03, Eisenstadt, Aston Villa
+31, Noni Madueke, ENG, M, 1.82, 70, 10-03-02, Barnet, PSV Eindhoven
+32, Marc Cucurella, ESP, D, 1.75, 69, 22-07-98, Alella, Brighton & HA
+33, Wesley Fofana, FRA, D, 1.85, 76, 17-12-00, Marseille, Leicester C
+36, Gabriel Slonina, USA, G, 1.93, 89, 15-05-04, Addison, Chicago Fire
+39, Harvey Vale, ENG, M, -, -, 11-09-03, Hawyards Heath, Fulham
+40, Teddy Sharman-Lowe, ENG, G, 1.89, 73, 30-03-03, Leicester, Burton Alb
+41, Charlie Webster, ENG, M, -, -, 31-10-04, Kingston upon Thames, None
+43, Josh Brooking, ENG, D, -, -, 01-09-02, Reading, Reading
+45, Zak Sturge, ENG, D, -, -, 15-06-04, Hillingdon, Brighton & HA
+47, Lucas Bergström, FIN, G, 1.99, 82, 05-09-02, Paragas, Turun PS
+48, Mason Burstow, ENG, F, 1.87, 85, 04-08-03, Greenwich, Charlton Ath
+49, Ben Elliott, ENG, M, 1.80, 71, 05-12-02, Kingston upon Thames, None
+50, Eddie Beach, WAL, G, -, -, 09-10-03, Lymington, Southampton
+51, Joe Haigh, ENG, M, -, -, 16-03-03, Tooting, None
+52, Dion Rankine, ENG, M, 1.70, 63, 15-10-02, Barnet, None
+53, Jayden Wareham, ENG, F, -, -, 13-05-03, Ascot, Woking
+55, Dylan Williams, ENG, D, -, -, 03-12-03, -, Derby Co
+56, Omari Hutchinson, JAM, M, 1.74, 66, 29-10-03, Redhill, Arsenal
+57, Derrick Abu, ENG, D, -, -, 18-12-03, Regensburg, None
+58, Alfie Gilchrist, ENG, D, -, -, 28-11-03, Kingston upon Thames, None
+59, Malik Mothersille, ENG, F, -, -, 23-10-03, Croydon, Leyton Orient
+60, Sami Tlemcani, MAR, G, -, -, 21-07-04, Saint-Maurice, Paris FC
+62, Jimi Tauriainen, FIN, F, -, -, 09-03-04, Helsinki, HJK Helsinki
+63, Silko Thomas, ENG, F, -, -, 25-06-04, Lambeth, None
+64, Leo Castledine, ENG, M, -, -, 20-08-05, Kingston upon Thames, AFC Wimbledon
+65, Louis Flower, ENG, F, -, -, 06-10-04, Cambridge, None
+66, Billy Gee, ENG, F, -, -, 30-07-05, Tooting, None
+67, Lewis Hall, ENG, D, 1.79, 71, 08-09-04, Slough, None
+68, Brodi Hughes, ENG, D, -, -, 16-10-04, Winchester, None
+70, Ted Curd, ENG, G, -, -, 14-02-06, Kingston upon Thames, None
+71, Tudor Mendel-Idowu, ENG, F, -, -, 15-01-05, Slough, None
+72, Richard Olise, ENG, D, -, -, 09-09-04, Hillingdon, None
+73, Samuel Rak-Sakyi, ENG, M, -, -, 27-03-05, Lambeth, None
+74, Zain Silcott Duberry, ENG, F, -, -, 09-07-05, Hackney, None
+75, Ronnie Stutter, ENG, F, -, -, 06-01-05, Hackney, None
+77, Michael Golding, ENG, M, -, -, 23-05-06, Kingston upon Thames, None
+78, Travis Akomeah, ENG, D, -, -, 06-01-06, Islington, None
+79, Harrison McMahon, ENG, M, -, -, 29-01-06, South Ockendon, None
+80, Ethan Wady, USA, G, -, -, 25-01-02, San Jose, None
+81, Donnell McNeilly, ENG, F, -, -, 30-10-05, Lewisham, None
+82, Harrison Murray-Campbell, ENG, D, -, -, 04-08-06, Luton, None
+83, Kiano Dyer, ENG, M, -, -, 21-11-06, Birmingham, WBA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Timo Werner, GER, F, 1.80, 75, 06-03-96, Stuttgart, RB Leipzig
+31, Malang Sarr, FRA, D, 1.82, 73, 23-01-99, Nice, Monaco (On Loan)
+33, Emerson Palmieri, ITA, D, 1.76, 63, 03-08-94, Santos, West Ham U
+20, Callum Hudson-Odoi, ENG, M, 1.77, 75, 07-11-00, Wandsworth, Bayer Leverkusen (On Loan)
+3, Marcos Alonso, ESP, D, 1.88, 84, 28-12-90, Madrid, Barcelona
+35, Billy Gilmour, SCO, M, 1.70, 66, 11-06-01, Irvine, Brighton & HA
+44, Ethan Ampadu, WAL, D, 1.82, 78, 14-09-00, Exeter, Spezia (On Loan)
+54, Xavier Simons, ENG, M, 1.85, 73, 20-02-03, Hammersmith, Hull C
+77, Tyler Dibling, ENG, M, -, -, 12-03-06, Exeter, Southampton
+42, Bashir Humphreys, ENG, D, 1.86, 79, 15-03-03, Exeter, Paderborn (On Loan)
+46, Cesare Casadei, ITA, M, 1.86, -, 10-01-03, Ravenna, Reading (On Loan)
+5, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, Arsenal
+61, Jude Soonsup-Bell, ENG, F, -, -, 10-01-04, Chippenham, Tottenham H
+80, Max Merrick, ENG, G, -, -, 10-11-05, High Wycombe, Hanwell T (On Loan)

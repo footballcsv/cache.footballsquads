@@ -1,0 +1,65 @@
+=  Nottingham Forest - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dean Henderson, ENG, G, 1.90, 85, 12-03-97, Whitehaven, Manchester U
+2, Giulian Biancone, FRA, D, 1.87, 83, 31-03-00, Fréjus, Troyes
+3, Steve Cook, ENG, D, 1.85, 82, 19-04-91, Hastings, Bournemouth
+4, Joe Worrall, ENG, D, 1.93, 64, 10-01-97, Nottingham, None
+5, Orel Mangala, BEL, M, 1.80, 78, 18-03-98, Brussels, Stuttgart
+6, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Newcastle U
+7, Neco Williams, WAL, D, 1.83, 76, 13-04-01, Wrexham, Liverpool
+8, Jack Colback, ENG, M, 1.76, 70, 24-10-89, Killingworth, Newcastle U
+9, Taiwo Awoniyi, NGA, F, 1.78, 71, 12-08-97, Ilorin, Union Berlin
+10, Morgan Gibbs-White, ENG, M, 1.78, 60, 27-01-00, Stafford, Wolverhampton W
+11, Jesse Lingard, ENG, M, 1.75, 62, 15-12-92, Warrington, Manchester U
+12, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Paris St-Germain
+13, Wayne Hennessey, WAL, G, 1.97, 89, 24-01-87, Bangor, Burnley
+15, Harry Toffolo, ENG, D, 1.83, 71, 19-08-95, Welwyn Garden City, Huddersfield T
+16, Sam Surridge, ENG, F, 1.91, 77, 28-07-98, Slough, Stoke C
+17, Alex Mighten, ENG, M, 1.81, 71, 11-04-02, Nottingham, None
+18, Cafú, POR, M, 1.83, 84, 26-02-93, Guimarães, Olympiakos
+19, Moussa Niakhaté, SEN, D, 1.75, 75, 08-03-96, Roubaix, Mainz
+20, Brennan Johnson, WAL, M, 1.79, 73, 23-05-01, Nottingham, None
+21, Cheikhou Kouyaté, SEN, M, 1.89, 83, 21-12-89, Dakar, Crystal Palace
+22, Ryan Yates, ENG, M, 1.90, 77, 21-11-97, Nottingham, None
+23, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Atalanta
+24, Serge Aurier, CIV, D, 1.75, 75, 24-12-92, Abidjan, Villarreal
+25, Emmanuel Dennis, NGA, F, 1.74, 67, 15-11-97, Abuja, Watford
+26, Scott McKenna, SCO, D, 1.88, 73, 12-11-96, Dundee, Aberdeen
+27, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Bayern Munich
+28, Danilo, BRA, M, 1.77, 65, 29-04-01, Salvador, Palmeiras
+30, Willy Boly, CIV, D, 1.85, 81, 03-02-91, Melun, Wolverhampton W
+31, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Palmeiras
+32, Renan Lodi, BRA, D, 1.78, 74, 08-04-98, Serrano, Atlético Madrid
+33, Lyle Taylor, MSR, F, 1.88, 81, 29-03-90, Staines, Charlton Ath
+34, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, Al-Sadd
+37, Adnan Kanurić, BIH, G, 1.94, 79, 08-08-00, Linz, Sarajevo
+38, Felipe, BRA, D, 1.85, 77, 16-05-89, Mogi das Cruzes, Atlético Madrid
+39, Chris Wood, NZL, F, 1.91, 91, 07-12-91, Auckland, Newcastle U
+40, Julian Larsson, SWE, F, -, -, 21-04-01, -, AIK
+41, Oliver Hammond, WAL, M, 1.79, 64, 13-11-02, Nottingham, None
+43, George Shelvey, ENG, G, 1.88, 83, 22-04-01, Nottingham, None
+44, Pharrell Johnson, ENG, D, -, -, 19-05-04, -, None
+45, Billy Fewster, ENG, M, -, -, 31-07-03, Scarborough, Leeds U
+46, Zach Abbott, ENG, D, -, -, 13-05-06, -, None
+47, Nicky Hogarth, SCO, G, 1.82, 70, 04-07-01, Falkirk, Rangers
+48, Ben Hammond, WAL, D, -, -, 01-07-04, -, None
+49, Detlef Esapa Osong, ENG, F, -, -, 21-09-04, -, None
+51, Lewis Salmon, ENG, F, -, -, 02-11-01, Stoke-on-Trent, Altrincham
+52, Jamie McDonnell, NIR, M, -, -, 16-02-04, -, Glentoran
+53, Ryan Hammond, ENG, G, -, -, 04-04-04, -, Millwall
+54, James Clarridge, ENG, D, -, -, 08-05-04, Mansfield, None
+55, Alex Gibson-Hammond, ENG, M, -, -, 10-11-02, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Joe Lolley, ENG, M, 1.78, 72, 25-08-92, Redditch, Sydney FC
+28, Loïc Badé, FRA, D, 1.91, 89, 11-04-00, Sèvres, Rennes
+36, Dale Taylor, NIR, F, 1.85, 71, 12-12-03, Belfast, Burton Alb (On Loan)
+39, George Shelvey, ENG, G, 1.88, 83, 22-04-01, Nottingham, Re-Registered (43)
+6, Loïc Mbe Soh, FRA, D, 1.87, 86, 13-06-01, Souza Gare, Guingamp (On Loan)
+50, Aaron Donnelly, NIR, D, -, -, 08-06-03, -, Port Vale (On Loan)
+42, Ateef Konaté, FRA, F, 1.79, 66, 04-04-01, Aubervilliers, Oxford U (On Loan)
+12, Jordan Smith, ENG, G, 1.85, 75, 08-12-94, Nottingham, Huddersfield T (On Loan)
+14, Lewis O'Brien, ENG, M, 1.73, 63, 14-10-98, Colchester, DC United (On Loan)

@@ -1,0 +1,87 @@
+=  Newcastle United - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Dúbravka, SVK, G, 1.90, 83, 15-01-89, Žilina, Sparta Prague
+2, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Atlético Madrid
+3, Paul Dummett, WAL, D, 1.78, 65, 26-09-91, Newcastle upon Tyne, None
+4, Sven Botman, NED, D, 1.95, 83, 12-01-00, Badhoevedorp, Lille
+5, Fabian Schär, SUI, D, 1.88, 84, 20-12-91, Wil, Deportivo La Coruña
+6, Jamaal Lascelles, ENG, D, 1.88, 83, 11-12-93, Derby, Nottingham F
+7, Joelinton, BRA, F, 1.90, 76, 14-08-96, Aliança, 1899 Hoffenheim
+8, Anthony Gordon, ENG, M, 1.73, 62, 24-02-01, Liverpool, Everton
+9, Callum Wilson, ENG, F, 1.80, 66, 27-02-92, Coventry, Bournemouth
+10, Allan Saint-Maximin, FRA, F, 1.73, 67, 12-03-97, Châtenay-Malabry, Nice
+11, Matt Ritchie, SCO, M, 1.73, 70, 10-09-89, Gosport, Bournemouth
+12, Jamal Lewis, NIR, D, 1.78, 70, 25-01-98, Luton, Norwich C
+13, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Aston Villa
+14, Alexander Isak, SWE, F, 1.90, 70, 21-09-99, Solna, Real Sociedad
+17, Emil Krafth, SWE, D, 1.84, 83, 02-08-94, Stockholm, Amiens
+18, Loris Karius, GER, G, 1.89, 75, 22-06-93, Biberach, Liverpool
+19, Javi Manquillo, ESP, D, 1.80, 75, 05-05-94, Madrid, Atlético Madrid
+21, Ryan Fraser, SCO, M, 1.63, 70, 24-02-94, Aberdeen, Bournemouth
+22, Nick Pope, ENG, G, 1.91, 76, 19-04-92, Cambridge, Burnley
+23, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+24, Miguel Almirón, PAR, M, 1.77, 70, 01-02-94, Asunción, Atlanta U
+27, Matty Longstaff, ENG, M, 1.71, 65, 21-03-00, Rotherham, None
+28, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, Arsenal
+29, Mark Gillespie, ENG, G, 1.90, 86, 27-03-92, Newcastle upon Tyne, Motherwell
+30, Harrison Ashby, SCO, D, 1.79, 72, 14-11-01, Milton Keynes, West Ham U
+32, Elliot Anderson, SCO, M, 1.75, 63, 06-11-02, North Shields, None
+33, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Brighton & HA
+36, Sean Longstaff, ENG, M, 1.81, 65, 30-10-97, North Shields, None
+39, Bruno Guimarães, BRA, M, 1.82, 74, 16-11-97, Rio de Janeiro, Lyon
+41, Will Brown, ENG, G, -, -, 10-01-02, Newcastle upon Tyne, None
+42, Niall Brookwell, ENG, M, -, -, 22-03-02, Wigan, Liverpool
+43, Nathan Carlyon, ENG, M, -, -, 14-09-02, Durham, None
+45, Remi Savage, ENG, D, -, -, 26-10-01, Liverpool, Liverpool
+46, Isaac Westendorf, ENG, F, -, -, 18-02-01, Bremen, Barking
+48, Charlie Wiggett, ENG, D, -, -, 02-11-02, Reading, Chelsea
+49, Amadou Diallo, ENG, F, -, -, 15-02-03, -, West Ham U
+50, Matty Bondswell, ENG, D, 1.83, 77, 18-04-02, Nottingham, RB Leipzig
+51, Cameron Ferguson, ENG, F, -, -, 24-03-03, Liverpool, Tranmere R
+52, Joe Oliver, ENG, D, -, -, 13-11-02, South Shields, None
+53, Josh Scott, ENG, D, -, -, 13-09-02, Gateshead, None
+55, Harry Barclay, ENG, D, -, -, 23-12-03, Ashington, None
+56, Kyle Crossley, ENG, F, -, -, 24-07-04, Sunderland, Morecambe
+57, James Huntley, ENG, M, -, -, 02-03-04, -, None
+58, Jamie Miley, ENG, M, -, -, 14-01-04, Gateshead, None
+59, Michael Ndiweni, ENG, F, -, -, 02-12-03, Newcastle upon Tyne, None
+60, Josh Stewart, ENG, D, -, -, 27-01-04, North Shields, None
+61, Max Thompson, ENG, G, -, -, 01-08-04, Newcastle upon Tyne, None
+63, Jordan Hackett, ENG, D, -, -, 20-02-04, Hammersmith, Tottenham H
+64, Alex Murphy, IRL, D, -, -, 25-06-04, Galway, Galway U
+65, Jude Smith, SCO, G, -, -, 29-05-03, Coatbridge, East Fife
+66, Charlie McArthur, SCO, M, -, -, 12-05-05, Irvine, Kilmarnock
+67, Beau Beresford, ENG, D, -, -, 30-09-04, Darlington, None
+68, Steven Bessent, ENG, G, -, -, 12-11-04, Gateshead, None
+69, Lucas Cooper, ENG, M, -, -, 23-12-04, Newcastle upon Tyne, None
+70, Shaun Mavididi, ENG, F, -, -, 13-08-05, Havering, None
+71, Callum McNally, ENG, D, -, -, 11-10-04, Newcastle upon Tyne, None
+72, Nathan Nkunku, ENG, F, -, -, 22-09-04, -, None
+73, Eden Page, ENG, D, -, -, 14-04-05, Sunderland, None
+74, Ben Parkinson, ENG, F, -, -, 10-03-05, Newcastle upon Tyne, None
+75, Ellis Stanton, ENG, M, -, -, 19-02-05, Sunderland, None
+76, Ciaran Thompson, ENG, D, -, -, 17-10-04, North Shields, None
+77, Scott Bailey, ENG, M, -, -, 22-01-06, Durham, None
+78, Dylan Charlton, ENG, D, -, -, 02-07-06, Gateshead, None
+79, Josh Donaldson, ENG, F, -, -, 25-09-05, Gateshead, None
+80, Johnny Emerson, SCO, F, -, -, 30-11-05, Carlisle, None
+81, Lewis Miley, ENG, M, -, -, 01-05-06, Gateshead, None
+82, Carter Milmore, ENG, D, -, -, 19-12-05, Durham, None
+83, Darren Palmer, ENG, M, -, -, 24-09-05, South Shields, None
+84, Harry Powell, ENG, D, -, -, 31-12-05, Newcastle upon Tyne, None
+85, Rory Powell, ENG, D, -, -, 31-12-05, Newcastle upon Tyne, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Elche
+31, Kelland Watts, ENG, D, 1.92, 75, 03-11-99, Alnwick, Peterborough U (On Loan)
+40, Lucas De Bolle, SCO, M, -, -, 22-10-02, Edinburgh, Hamilton Academical (On Loan)
+44, Santiago Muñoz, MEX, F, 1.77, 65, 14-08-02, El Paso, Santos Laguna
+47, Joe White, ENG, M, 1.86, 70, 01-10-02, Carlisle, Exeter C (On Loan)
+20, Chris Wood, NZL, F, 1.91, 91, 07-12-91, Auckland, Nottingham F (On Loan)
+54, Dylan Stephenson, ENG, M, -, -, 10-12-02, Ashington, Hamilton Academical (On Loan)
+8, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Nottingham F
+26, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Hull C (On Loan)
+62, Jay Turner-Cook, ENG, M, -, -, 31-12-03, South Shields, Tranmere R (On Loan)

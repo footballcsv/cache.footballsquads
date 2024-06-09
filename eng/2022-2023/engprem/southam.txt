@@ -1,0 +1,83 @@
+=  Southampton - English Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, Crystal Palace
+2, Kyle Walker-Peters, ENG, D, 1.73, 62, 13-04-97, Edmonton, Tottenham H
+3, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, Arsenal
+4, Lyanco, BRA, D, 1.87, 83, 01-02-97, Vitória, Torino
+6, Duje Ćaleta-Car, CRO, D, 1.88, 81, 17-09-96, Šibenik, Marseille
+7, Joe Aribo, NGA, M, 1.83, 76, 21-07-96, Camberwell, Rangers
+8, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, None
+9, Adam Armstrong, ENG, F, 1.72, 69, 10-02-97, Newcastle upon Tyne, Blackburn R
+10, Che Adams, SCO, F, 1.78, 66, 13-07-96, Leicester, Birmingham C
+11, Mislav Oršić, CRO, M, 1.79, 69, 29-12-92, Zagreb, Dinamo Zagreb
+12, Paul Onuachu, NGA, F, 2.01, 84, 28-05-94, Owerri, KRC Genk
+13, Wilfredo Caballero, ARG, G, 1.86, 80, 28-09-81, Salta Elena, Chelsea
+14, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, Luton T
+15, Romain Perraud, FRA, D, 1.73, 68, 22-09-97, Toulouse, Brest
+17, Stuart Armstrong, SCO, M, 1.83, 75, 30-03-92, Inverness, Celtic
+18, Sékou Mara, FRA, F, 1.84, 67, 30-07-02, Paris, Bordeaux
+19, Moussa Djénépo, MLI, M, 1.77, 65, 15-06-98, Bamako, Standard Liège
+20, Kamaldeen Sulemana, GHA, F, 1.74, 69, 15-02-02, Techiman, Rennes
+21, Tino Livramento, ENG, D, 1.73, 63, 12-11-02, Croydon, Chelsea
+22, Mohammed Salisu, GHA, D, 1.91, 85, 17-04-99, Accra, Valladolid
+23, Samuel Edozie, ENG, F, 1.81, 76, 28-01-03, Lewisham, Manchester C
+24, Mohamed Elyounoussi, NOR, F, 1.78, 70, 04-08-94, Al Hoceima, Basel
+26, Carlos Alcaraz, ARG, M, 1.76, 68, 30-11-02, La Plata, Racing Club
+27, Ibrahima Diallo, FRA, M, 1.79, 68, 08-03-99, Tours, Brest
+28, Juan Larios, ESP, D, 1.70, 68, 12-01-04, Seville, Manchester C
+31, Gavin Bazunu, IRL, G, 1.89, 79, 20-02-02, Dublin, Manchester C
+32, Theo Walcott, ENG, F, 1.76, 68, 16-03-89, Stanmore, Everton
+35, Jan Bednarek, POL, D, 1.89, 77, 12-04-96, Słupca, Lech Poznań
+36, Oliver Lancashire, ENG, D, 1.86, 75, 13-12-88, Basingstoke, Crewe Alex
+37, Armel Bella-Kotchap, GER, D, 1.90, 87, 11-12-01, Paris, Bochum
+45, Romeo Lavia, BEL, M, 1.81, 70, 06-01-04, Brussels, Manchester C
+47, Oliver Wright, ENG, G, -, -, 25-10-02, Bath, None
+49, Will Armitage, ENG, D, -, -, -, -, Cheltenham T
+51, Jack Bycroft, ENG, G, 1.84, 71, 21-09-01, Salisbury, None
+52, Sam Bellis, ENG, F, 1.77, 64, 30-12-02, Manchester, Manchester C
+53, Dominic Ballard, ENG, F, -, -, 01-04-05, -, None
+54, Matthew Hall, ENG, G, 1.95, 76, 24-04-03, Enfield, Chelsea
+55, Jack Turner, ENG, M, -, -, 07-09-02, Portsmouth, None
+56, Zuriel Otseh-Taiwo, ENG, D, -, -, 09-06-03, Enfield, None
+57, Fedel Ross-Lang, ENG, D, -, -, 05-10-03, Leeds, Manchester C
+58, Will Tizzard, ENG, D, -, -, 05-11-02, Bristol, None
+60, Luke Pearce, IRL, F, -, -, 08-06-04, -, Walsall
+61, Lewis Payne, ENG, D, -, -, 30-05-04, -, None
+62, Léon Pambou, FRA, D, -, -, 25-01-04, -, Metz
+64, Sam Bailey, ENG, D, -, -, 02-09-02, -, None
+65, Kami Doyle, ENG, M, -, -, 01-08-05, Bristol, None
+66, Diamond Edwards, ENG, M, -, -, 18-09-03, Reading, Reading
+67, Matt Carson, NIR, D, -, -, 29-04-04, -, Glentoran
+68, Cam Bragg, ENG, M, -, -, -, -, None
+69, Goran Babić, SRB, M, -, -, 10-09-03, Hammersmith, None
+70, Harvey Woods, ENG, F, -, -, -, -, None
+71, Will Merry, ENG, F, -, -, 22-11-05, -, None
+72, Jem Hewlett, ENG, D, -, -, -, -, None
+73, Tyler Dibling, ENG, M, -, -, 12-03-06, Exeter, Chelsea
+74, Sonnie Davis, ENG, D, -, -, -, -, None
+75, Samuel Amo-Ameyaw, ENG, F, -, -, 18-07-06, Hackney, Tottenham H
+76, Nathanael Boot, ENG, D, -, -, -, -, Bournemouth
+77, Brandon Charles, ENG, M, -, -, -, -, QPR
+78, Jak Stewart, ENG, G, -, -, 06-05-04, Manchester, Everton
+79, Josh Lett, ENG, D, -, -, -, -, None
+80, Jayden Meghoma, ENG, D, -, -, 28-06-06, Bath, Tottenham H
+81, Jay Robinson, ENG, F, -, -, 15-03-07, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Will Smallbone, IRL, M, 1.73, 61, 21-02-00, Basingstoke, Stoke C (On Loan)
+48, Kgaogelo Chauke, RSA, M, 1.77, 65, 08-01-03, Pretoria, Exeter C (On Loan)
+23, Nathan Tella, ENG, M, 1.73, 70, 05-07-99, Lambeth, Burnley (On Loan)
+5, Jack Stephens, ENG, D, 1.85, 75, 27-01-94, Torpoint, Bournemouth (On Loan)
+6, Oriol Romeu, ESP, M, 1.83, 83, 24-09-91, Ulldecona, Girona
+30, Mateusz Lis, POL, G, 1.92, 83, 27-02-97, Żary, Troyes (On Loan)
+43, Yan Valery, TUN, D, 1.80, 85, 22-02-99, Champigny-sur-Marne, Angers
+11, Nathan Redmond, ENG, M, 1.73, 69, 06-03-94, Birmingham, Beşiktaş
+38, Dynel Simeu, ENG, D, -, -, 13-03-02, Yaoundé, Morecambe (On Loan)
+63, Jeremi Rodríguez, ECU, D, -, -, 03-09-03, -, Los Angeles FC
+59, Nico Lawrence, ENG, D, -, -, 22-11-03, -, Torquay U (On Loan)
+50, Ryan Finnigan, ENG, M, -, -, 23-09-03, Poole, Crewe Alex (On Loan)
+16, Thierry Small, ENG, D, -, -, 01-08-04, Solihull, St Mirren (On Loan)
+46, Jimmy Morgan, ENG, F, -, -, 21-01-06, -, Chelsea
