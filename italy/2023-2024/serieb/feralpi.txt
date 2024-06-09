@@ -1,0 +1,52 @@
+=  Feralpisalò - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Semuel Pizzignacco, ITA, G, 1.88, 75, 01-09-01, Monfalcone, Vicenza
+2, Gabriele Ferrarini, ITA, D, 1.79, 70, 09-04-00, La Spezia, Fiorentina
+3, Mattia Tonetto, ITA, D, 1.68, 59, 26-03-01, Lecce, Frosinone
+4, Marcus Păcurar, ROU, D, 1.89, 85, 02-05-05, Rome, Mantova
+6, Luca Giudici, ITA, M, 1.79, 67, 10-03-92, Erba, Lecco
+7, Davide Voltan, ITA, M, 1.78, 71, 15-04-95, Padua, Südtirol
+8, Davide Balestero, ITA, M, 1.87, 80, 06-10-95, Genoa, Matelica
+9, Karlo Butić, CRO, F, 1.86, 85, 21-08-98, Zadar, Pordenone
+10, Davide Di Molfetta, ITA, F, 1.76, 70, 23-06-96, Sesto San Giovanni, Mantova
+11, Edgaras Dubickas, LTU, F, 1.82, 75, 09-07-98, Marijampolė, Pisa
+12, Alex Righetti, ITA, G, -, -, 11-03-05, -, None
+14, Mattia Compagnon, ITA, F, 1.71, 63, 06-11-01, Remanzacco, Juventus Next Gen
+16, Luca Fiordilino, ITA, M, 1.77, 68, 25-07-96, Palermo, Venezia
+17, Dimo Krastev, BUL, D, 1.95, 76, 10-02-03, Burgas, Fiorentina
+18, Luca Liverani, ITA, G, 1.83, 80, 02-06-89, Ravenna, Alessandria
+19, Alessando Pilati, ITA, D, 1.93, 87, 26-03-00, Mantova, Sassuolo
+20, Mattia Zennaro, ITA, M, 1.84, 71, 03-08-00, Venice, Genoa
+21, Federico Carraro, ITA, M, 1.78, 70, 23-06-92, Padua, Imolese
+22, Giovanni Faganio, ITA, G, -, -, 02-02-05, -, None
+23, Luca Ceppitelli, ITA, D, 1.86, 83, 11-08-89, Castiglione del Lago, Venezia
+24, Luca Benti, ITA, F, 1.78, -, 24-01-04, -, Lecco
+25, Marco Sau, ITA, F, 1.69, 65, 03-11-87, Sorgono, Benevento
+27, Denis Hergheligiu, ROU, M, 1.88, 78, 09-12-99, Chiari, Atalanta
+28, Giacomo Manzari, ITA, F, 1.78, 72, 21-09-00, Bari, Sassuolo
+29, Mauro Verzeletti, ITA, D, 1.85, 77, 09-09-03, Brescia, None
+39, Christos Kourfalidis, GRE, M, 1.78, 71, 11-11-02, Thessaloniki, Cagliari
+61, Giacomo Volpe, ITA, G, 1.89, 80, 16-01-96, Biella, Arzignano Valchiampo
+66, Federico Bergonzi, ITA, D, 1.74, 71, 12-01-01, Treviglio, Atalanta
+70, Christopher Attys, HAI, M, 1.86, 74, 13-03-01, Saint-Maurice, Trento
+87, Bruno Martella, ITA, D, 1.84, 78, 14-08-92, Atri, Ternana
+91, Andrea La Mantia, ITA, F, 1.90, 81, 06-05-91, Marino, SPAL
+94, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Benevento
+97, Mattia Felici, ITA, F, 1.80, 71, 17-04-01, Rome, Triestina
+99, Alessandro Pietrelli, ITA, M, 1.92, 87, 05-01-03, Bologna, Bologna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Simone Guerra, ITA, F, 1.78, 72, 30-08-89, Piacenza, Juventus Next Gen
+15, Matteo Di Gennaro, ITA, D, 1.92, 85, 02-06-94, Sant'Elpidio a Mare, Carrarese
+4, Mattia Musatti, ITA, M, 1.81, 73, 30-09-03, Brescia, Fiorenzuola (On Loan)
+33, Lorenzo Giorgi, ITA, D, 1.84, -, 12-06-05, Brescia, Villa Valle (On Loan)
+36, Andrea Franzolini, ITA, M, 1.88, 79, 06-09-03, Latina, Legnago Salus (On Loan)
+6, Loris Bacchetti, ITA, D, 1.94, 85, 06-02-93, Guardiagrele, Casertana
+31, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Pisa, Cosenza (On Loan)
+11, Alessio Da Cruz, CPV, F, 1.84, 75, 18-01-97, Almere, Fortuna Sittard
+34, Stefano Minelli, ITA, G, 1.86, 76, 05-03-94, Brescia, Novara
+70, Vittorio Parigini, ITA, M, 1.80, 75, 25-03-96, Moncalieri, Lecco
+77, Briajan Gjyla, ITA, F, 1.77, 70, 26-07-07, Iseo, Sassuolo (On Loan)

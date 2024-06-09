@@ -1,0 +1,38 @@
+=  Lorient - French Ligue 1 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthieu Dreyer, FRA, G, 1.88, 84, 20-03-89, Strasbourg, Amiens
+2, Igor Silva, BRA, D, 1.73, 66, 21-08-96, Rio de Janeiro, Osijek
+3, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, Lausanne-Sport
+6, Laurent Abergel, FRA, D, 1.70, 65, 01-02-93, Marseille, Nancy
+7, Stéphane Diarra, FRA, M, 1.73, 62, 09-12-98, Abidjan, Le Mans
+8, Innocent Bonke, NGA, M, 1.80, 74, 20-01-96, Kaduna, Malmö FF
+9, Ibrahima Koné, MLI, F, 1.90, 83, 16-06-99, Bamako, Sarpsborg 08
+10, Enzo Le Fée, FRA, M, 1.70, 58, 03-02-00, Lorient, None
+11, Quentin Boisgard, FRA, M, 1.74, 75, 17-03-97, Toulouse, Toulouse
+13, Terem Moffi, NGA, F, 1.88, 82, 25-05-99, -, Kortrijk
+14, Jérôme Hergault, FRA, D, 1.85, 80, 05-04-86, Montmorency, Ajaccio
+15, Julien Laporte, FRA, D, 1.85, 82, 04-11-93, Bayonne, Clermont
+16, Teddy Bartouche, FRA, G, 1.85, 78, 05-06-97, Lagny-sur-Marne, JA Drancy
+17, Houboulang Mendes, FRA, D, 1.83, 74, 04-05-98, Evry, Laval
+18, Fabien Lemoine, FRA, M, 1.75, 67, 16-03-87, Fougères, St-Etienne
+19, Léo Petrot, FRA, D, 1.88, 80, 15-04-97, Firminy, Andrézieux
+20, Samuel Loric, FRA, D, 1.64, 54, 05-07-00, Vannes, Vannes
+21, Jérémy Morel, MAD, D, 1.72, 71, 02-04-84, Lorient, Rennes
+23, Thomas Monconduit, FRA, M, 1.78, 75, 10-02-91, Drancy, Amiens
+25, Vincent Le Goff, FRA, D, 1.75, 64, 15-10-89, Quimper, Istres
+28, Armand Laurienté, FRA, F, 1.71, 59, 04-12-98, Gonesse, Rennes
+30, Paul Nardi, FRA, G, 1.87, 77, 18-05-94, Vesoul, Monaco
+31, Redwan Bourlès, FRA, M, 1.86, 74, 02-01-03, Lorient, None
+37, Théo Le Bris, FRA, D, 1.65, 60, 01-10-02, Rennes, None
+40, Thomas Callens, FRA, G, 1.82, 81, 06-09-98, Brest, Caen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Yoane Wissa, FRA, F, 1.76, 73, 03-09-96, Villeneuve-Saint-Georges, Brentford
+29, Pierre-Yves Hamel, FRA, F, 1.85, 67, 03-02-94, Brest, Clermont (On Loan)
+32, Quentin Lecoeuche, FRA, D, 1.72, 65, 04-02-94, Beuvry, Valenciennes
+27, Adrian Grbić, AUT, F, 1.88, 82, 04-08-96, Vienna, Vitesse (On Loan)
+4, Loris Mouyokolo, FRA, D, 1.94, 85, 22-05-01, Drancy, Bourg-en-Bresse (On Loan)
+5, Thomas Fontaine, MAD, D, 1.82, 73, 08-05-91, Saint-Pierre, Nancy

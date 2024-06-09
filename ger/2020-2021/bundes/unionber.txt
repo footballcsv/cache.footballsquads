@@ -1,0 +1,40 @@
+=  1.FC Union Berlin - German Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andreas Luthe, GER, G, 1.94, 90, 10-03-87, Velbert, Augsburg
+4, Nico Schlotterbeck, GER, D, 1.91, 86, 01-12-99, Waiblingen, Freiburg
+5, Marvin Friedrich, GER, D, 1.90, 74, 13-12-95, Kassel, Augsburg
+6, Julian Ryerson, NOR, D, 1.83, 82, 17-11-97, Lyngdal, Viking
+7, Akaki Gogia, GER, M, 1.77, 73, 18-01-92, Rustavi, Dynamo Dresden
+8, Leon Dajaku, GER, M, 1.80, 72, 12-04-01, Waibingen, Bayern Munich
+9, Joel Pohjanpalo, FIN, F, 1.84, 75, 13-09-94, Helsinki, Bayer Leverkusen
+10, Max Kruse, GER, F, 1.80, 77, 19-03-88, Reinbek, Fenerbahçe
+11, Anthony Ujah, NGA, F, 1.83, 82, 20-11-90, Tudun Wada, Mainz
+12, Jakob Busk, DEN, G, 1.89, 78, 12-09-93, Copenhagen, FC København
+14, Taiwo Awoniyi, NGA, F, 1.78, 71, 12-08-97, Ilorin, Liverpool
+15, Marius Bülter, GER, F, 1.88, 85, 29-03-93, Ibbenbüren, Magdeburg
+18, Keita Endo, JPN, M, 1.75, 66, 22-11-97, Yokohama, Yokohama F Marinos
+19, Florian Hübner, GER, D, 1.90, 76, 01-03-91, Wiesbaden, Hannover 96
+20, Loris Karius, GER, G, 1.89, 75, 22-06-93, Biberach, Liverpool
+21, Grischa Prömel, GER, M, 1.82, 75, 09-01-95, Stuttgart, Karlsruhe
+23, Niko Gießelmann, GER, D, 1.81, 73, 26-09-91, Hannover, Fortuna Düsseldorf
+24, Petar Musa, CRO, F, 1.90, 80, 04-03-98, Zagreb, Slavia Prague
+25, Christopher Lenz, GER, D, 1.80, 75, 22-09-94, Berlin, B Mönchengladbach II
+27, Sheraldo Becker, NED, F, 1.80, 72, 09-02-95, Amsterdam, ADO Den Haag
+28, Christopher Trimmel, AUT, D, 1.89, 80, 24-02-87, Oberpullendorf, Rapid Vienna
+30, Robert Andrich, GER, M, 1.85, 78, 22-09-94, Potsdam, Heidenheim
+31, Robin Knoche, GER, D, 1.72, 67, 22-05-92, Braunschweig, Wolfsburg
+32, Marcus Ingvartsen, DEN, F, 1.86, 82, 04-01-96, Farum, KRC Genk
+33, Sebastian Griesbeck, GER, M, 1.89, 84, 03-10-90, Ulm, Heidenheim
+34, Christian Gentner, GER, M, 1.89, 80, 14-08-85, Nürtingen, Stuttgart
+36, Cedric Teuchert, GER, F, 1.80, 80, 14-01-97, Coburg, Schalke
+37, Mathis Bruns, GER, D, 1.92, 80, 31-03-04, Bielefeld, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Joshua Mees, GER, M, 1.80, 70, 15-04-96, Lebach, Holstein Kiel
+26, Lars Dietz, GER, D, 1.90, 79, 07-01-97, Soest, Würzburger Kickers
+37, Berkan Taz, GER, M, 1.79, 72, 19-12-98, Berlin, Verl
+35, Lennart Moser, GER, G, 1.96, 88, 06-12-99, Berlin, Austria Klagenfurt (On Loan)
+16, Tim Maciejewski, GER, F, 1.84, 73, 05-03-01, Berlin, Austria Klagenfurt (On Loan)

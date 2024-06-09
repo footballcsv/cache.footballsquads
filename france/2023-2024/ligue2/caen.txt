@@ -1,0 +1,39 @@
+=  Caen - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Mandréa, ALG, G, 1.86, 78, 25-12-96, Grasse, Angers
+2, Ali Abdi, TUN, D, 1.83, 73, 20-12-93, Sfax, Paris FC
+3, Diabé Bolumbu, FRA, D, -, -, 12-07-04, Antony, None
+4, Valentin Henry, FRA, D, 1.83, 73, 18-09-93, Brest, Sochaux
+5, Syam Ben Youssef, TUR, D, 1.89, 82, 31-03-89, Marseille, Quevilly-Rouen
+6, Quentin Daubin, FRA, M, 1.83, 77, 03-07-95, Saint-Nazaire, Pau
+7, Tidiam Gomis, FRA, F, -, -, 08-08-06, Meulan-en-Yvelines, None
+11, Mickaël Le Bihan, FRA, F, 1.84, 74, 16-05-90, Ploemeur, Dijon
+15, Amine Salama, FRA, F, 1.92, 78, 18-07-00, Paris, Reims
+16, Yannis Clementia, FRA, G, 1.88, 80, 05-07-97, Fort-de-France, Nice
+17, Godson Kyeremeh, FRA, M, 1.75, 60, 14-06-00, Melun, None
+18, Hianga'a M'Bock, FRA, M, 1.86, 82, 28-12-99, Brest, Brest
+19, Alexandre Mendy, FRA, F, 1.84, 86, 20-03-94, Toulon, Bordeaux
+20, Noé Lebreton, FRA, M, -, -, 22-04-04, Le Haye-Pesnel, None
+21, Bilal Brahimi, FRA, M, 1.77, 70, 28-03-00, Villepinte, Dunkerque
+22, Mohamed Hafid, FRA, F, -, -, 01-12-04, Cherbourg-en-Cotentin, None
+23, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Auxerre
+27, Daylam Meddah, FRA, D, 1.87, 80, 06-10-02, Montivilliers, Sochaux
+29, Romain Thomas, FRA, D, 1.93, 84, 12-06-88, Landerneau, Angers
+30, Destiné Jopanguy, FRA, G, 1.92, 76, 30-01-03, Paris, None
+35, Parfait Mandanda, COD, G, 1.82, 78, 10-10-89, Nevers, Royal Excel Mouscron
+61, Brahim Traoré, FRA, D, 1.90, 80, 04-02-04, Rennes, None
+80, Mario Fortunato, FRA, M, -, -, 02-07-02, -, Caen
+92, Alexandre Coeff, FRA, D, 1.84, 67, 20-02-92, Brest, Brescia
+97, Dieudonné Gaucho Debohi, CIV, D, 1.85, 82, 15-01-01, Man, SOL FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Moussa Sylla, FRA, M, 1.81, 70, 25-11-99, Étampes, Pau (On Loan)
+9, Norman Bassette, BEL, F, -, -, 11-11-04, Arlon, Mechelen (On Loan)
+24, Hugo Vandermersch, FRA, D, 1.80, 72, 05-05-99, Blendecques, Elversberg (On Loan)
+8, Yohan Court, FRA, M, 1.72, 70, 14-01-90, Carpentras, 
+91, Emmanuel Ntim, GHA, D, 1.79, 72, 12-03-96, Kumasi, Troyes (On Loan)
+10, Caleb Zady Sery, CIV, F, 1.76, 69, 20-12-99, Agbeille, Vojvodina
+28, Djibril Diani, FRA, M, 1.93, 77, 11-02-98, Créteil, Charlotte FC

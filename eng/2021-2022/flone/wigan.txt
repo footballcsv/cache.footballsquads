@@ -1,0 +1,48 @@
+=  Wigan Athletic - English Football League One 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jamie Jones, ENG, G, 1.88, 91, 18-02-89, Kirkby, Stevenage
+2, Kelland Watts, ENG, D, 1.92, 75, 03-11-99, Alnwick, Newcastle U
+3, Tom Pearce, ENG, D, 1.85, 79, 12-04-98, Ormskirk, Leeds U
+4, Tom Naylor, ENG, M, 1.81, 72, 28-06-91, Sutton-in-Ashfield, Portsmouth
+5, Jack Whatmough, ENG, D, 1.84, 66, 24-06-96, Gosport, Portsmouth
+6, Jordan Cousins, ENG, M, 1.77, 72, 06-03-94, Greenwich, Stoke C
+7, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, Ipswich T
+8, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Sunderland
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Sunderland
+10, Will Keane, IRL, F, 1.87, 78, 11-01-93, Stockport, Ipswich T
+11, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Leyton Orient
+12, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Charlton Ath
+15, Jason Kerr, SCO, D, 1.83, 70, 06-02-97, Edinburgh, St Johnstone
+16, Curtis Tilt, JAM, D, 1.92, 75, 04-08-91, Walsall, Rotherham U
+17, Jamie McGrath, IRL, M, 1.75, 70, 29-09-96, Dublin, St Mirren
+18, Graeme Shinnie, SCO, M, 1.73, 63, 04-08-91, Aberdeen, Derby Co
+19, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, None
+20, Tom Bayliss, ENG, M, 1.83, 78, 06-04-99, Leicester, Preston NE
+21, Joe Bennett, ENG, D, 1.77, 74, 28-03-90, Rochdale, Cardiff C
+23, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, Stoke C
+27, Tendayi Darikwa, ZIM, D, 1.88, 77, 13-12-91, Nottingham, Nottingham F
+28, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Hull C
+30, Thelo Aasgaard, NOR, M, 1.70, 72, 02-05-02, Liverpool, None
+31, James Carragher, ENG, D, 1.92, 87, 11-11-02, Liverpool, Liverpool
+32, Adam Long, ENG, D, 1.83, 76, 11-11-00, Douglas, None
+33, Tom Costello, ENG, F, -, -, 23-02-03, -, None
+34, Luke Robinson, SCO, D, 1.76, 72, 19-11-01, Birkenhead, None
+35, Kieran Lloyd, ENG, D, -, -, 13-10-02, -, Liverpool
+36, Scott Smith, ENG, M, 1.73, 70, 02-07-01, Wigan, None
+37, Harry McGee, ENG, M, -, -, 07-10-02, -, Tranmere R
+38, Harry McHugh, ENG, F, -, -, 14-10-02, Liverpool, None
+39, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Rochdale
+40, Sam Tickle, ENG, G, 1.88, 74, 31-03-02, Warrington, None
+41, Dean Pinnington, ENG, M, 1.75, 70, 17-11-02, Douglas, Wolverhampton W
+42, Baba Adeeko, IRL, M, -, -, 03-04-03, -, None
+43, Chris Sze, ENG, M, -, -, 09-12-03, -, None
+44, Charlie Hughes, ENG, D, 1.85, 80, 16-10-03, Salford, None
+45, Divin Baningime, COD, F, 1.70, 67, 10-12-00, Kinshasa, None
+50, Owen Mooney, ENG, G, -, -, 14-02-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Jordan Jones, NIR, F, 1.74, 61, 24-10-94, Middlesbrough, St Mirren (On Loan)
+26, Glen Rea, IRL, D, 1.84, 73, 03-09-94, Brighton, Luton T

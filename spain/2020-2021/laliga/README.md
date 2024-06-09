@@ -1,0 +1,23 @@
+# Spanish LaLiga 2020/2021
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Cádiz](cadiz.txt)
+- [Celta Vigo](celta.txt)
+- [Eibar](eibar.txt)
+- [Elche](elche.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Huesca](huesca.txt)
+- [Levante](levante.txt)
+- [Osasuna](osasuna.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)

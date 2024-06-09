@@ -1,0 +1,49 @@
+=  Middlesbrough - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, Fulham
+2, Anfernee Dijksteel, NED, D, 1.83, 72, 27-10-96, Amsterdam, Charlton Ath
+3, Marvin Johnson, ENG, D, 1.78, 74, 01-12-90, Birmingham, Oxford U
+4, Grant Hall, ENG, D, 1.76, 71, 01-09-92, Brighton, QPR
+5, Sam Morsy, EGY, M, 1.75, 76, 10-09-91, Wolverhampton, Wigan Ath
+6, Dael Fry, ENG, D, 1.85, 72, 30-08-97, Middlesbrough, None
+7, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, None
+9, Britt Assombalonga, COD, F, 1.77, 76, 06-12-92, Kinshasa, Nottingham F
+10, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, PAOK
+11, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, West Ham U
+12, Marcus Browne, ENG, F, 1.79, 74, 18-12-97, Tower Hamlets, West Ham U
+13, Jordan Archer, SCO, G, 1.86, 80, 12-04-93, Walthamstow, Motherwell
+14, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Everton
+16, Jonathan Howson, ENG, M, 1.80, 77, 21-05-88, Leeds, Norwich C
+17, Paddy McNair, NIR, M, 1.83, 72, 27-04-95, Ballyclare, Sunderland
+18, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Sunderland
+19, Nathaniel Mendez-Laing, ENG, F, 1.78, 75, 15-04-92, Birmingham, Cardiff C
+20, Darnell Fisher, ENG, D, 1.75, 70, 04-04-94, Reading, Preston NE
+21, Neeskens Kebano, COD, M, 1.80, 75, 10-03-92, Montereau, Fulham
+22, George Saville, NIR, M, 1.76, 73, 01-06-93, Camberley, Millwall
+24, Sam Folarin, ENG, M, 1.75, 67, 23-09-00, Lambeth, Tooting & Mitchan U
+27, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Blackpool
+29, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, Fulham
+31, Sol Brynn, ENG, G, 1.84, 74, 30-10-00, Middlesbrough, None
+33, Hayden Coulson, ENG, D, 1.77, 70, 17-06-98, Gateshead, None
+34, Hayden Hackney, ENG, M, 1.78, 70, 26-06-02, Redcar, None
+38, Isaac Fletcher, ENG, M, -, -, 01-06-02, Middlesbrough, None
+40, Williams Kokolo, FRA, D, -, -, 09-06-00, -, Sunderland
+44, Cain Sykes, ENG, M, -, -, 14-08-02, Sunderland, None
+45, Josh Coburn, ENG, F, 1.93, 74, 06-12-02, Bedale, Sunderland
+46, Connor Malley, ENG, M, 1.86, 83, 20-03-00, Newcastle upon Tyne, Sunderland
+47, Jack Robinson, ENG, D, 1.90, 79, 21-06-01, Middlesbrough, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, Fleetwood T
+37, Ben Liddle, ENG, M, 1.70, 75, 21-09-98, Durham, Bristol R
+42, Aynsley Pears, ENG, G, 1.86, 80, 23-04-98, Durham, Blackburn R
+32, Dejan Stojanović, MKD, G, 1.96, 89, 19-07-93, Feldkirch, St Pauli (On Loan)
+39, Rumarn Burrell, ENG, F, 1.80, 72, 16-12-00, Birmingham, Bradford C (On Loan)
+36, Stephen Walker, ENG, F, 1.81, 78, 11-10-00, Middlesbrough, Crewe Alex (On Loan)
+37, Isaiah Jones, ENG, M, 1.81, 68, 26-06-99, Lambeth, Queen of the South (On Loan)
+8, Lewis Wing, ENG, M, 1.75, 70, 23-05-95, Newton Aycliffe, Rotherham U (On Loan)
+15, Nathan Wood, ENG, D, 1.88, 72, 31-05-02, Middlesbrough, Crewe Alex (On Loan)
+19, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Manchester C

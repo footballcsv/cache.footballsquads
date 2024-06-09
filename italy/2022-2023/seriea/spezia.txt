@@ -1,0 +1,57 @@
+=  Spezia - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeroen Zoet, NED, G, 1.89, 83, 06-01-91, Veendam, PSV Eindhoven
+2, Emil Holm, SWE, D, 1.91, 83, 13-05-00, Gothenburg, SønderjyskE
+4, Ethan Ampadu, WAL, D, 1.82, 78, 14-09-00, Exeter, Chelsea
+5, João Moutinho, POR, D, 1.83, 71, 12-01-98, Lisbon, Orlando C
+6, Mehdi Bourabia, MAR, M, 1.83, 73, 07-08-91, Dijon, Sassuolo
+7, Jacopo Sala, ITA, D, 1.81, 75, 05-12-91, Alzano Lombardo, SPAL
+8, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Sampdoria
+10, Daniele Verde, ITA, F, 1.68, 64, 20-06-96, Naples, AEK
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Pistoiese
+13, Arkadiusz Reca, POL, D, 1.87, 76, 17-06-95, Chojnice, Atalanta
+14, Eldor Shomurodov, UZB, F, 1.90, 81, 29-06-95, Jarkurgan, Roma
+16, Julius Beck, DEN, M, 1.78, 61, 27-04-05, Haderslev, SønderjyskE
+18, M'Bala Nzola, FRA, F, 1.85, 82, 18-08-96, Troyes, Trapani
+19, Raimonds Krollis, LVA, F, 1.86, 80, 28-10-01, Riga, Valmeira
+20, Simone Bastoni, ITA, D, 1.81, 74, 05-11-96, La Spezia, None
+21, Salva Ferrer, ESP, D, 1.84, 73, 21-01-98, Martorell, Nàstic
+22, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, Genoa
+24, Viktor Kovalenko, UKR, M, 1.82, 75, 14-02-96, Kherson, Atalanta
+25, Salvatore Esposito, ITA, M, 1.78, 80, 07-10-00, Castellammare di Stabia, SPAL
+26, Leonardo Dido, ITA, G, 1.94, -, 05-01-04, La Spezia, None
+27, Kelvin Amian, FRA, D, 1.80, 78, 08-02-98, Toulouse, Toulouse
+29, Mattia Caldara, ITA, D, 1.90, 80, 05-05-94, Scanzorosciate, Milan
+30, Daniel Maldini, ITA, F, 1.81, 74, 11-10-01, Milan, Milan
+33, Kevin Agudelo, COL, F, 1.78, 70, 14-11-98, Puerto Caicedo, Genoa
+36, Pietro Candelari, ITA, M, 1.78, 73, 21-01-05, Ancona, Fano
+40, Petar Zovko, BIH, G, 1.92, 85, 25-03-02, Mostar, Sampdoria
+43, Dimitris Nikolaou, GRE, D, 1.88, 82, 13-08-98, Chalcis, Empoli
+55, Przemysław Wiśniewski, POL, D, 1.95, 88, 27-07-98, Zabrze, Venezia
+65, Simone Giorgeschi, ITA, D, -, -, 26-08-04, Genoa, Sampdoria
+69, Bartłomiej Drągowski, POL, G, 1.91, 86, 19-08-97, Białystok, Fiorentina
+70, Leonardo Pedicillo, ITA, M, -, -, 20-01-03, Catanzaro, Sampdoria
+71, Francesco Plaia, ITA, G, 1.92, 80, 29-03-06, Brussels, None
+72, Tio Cipot, SVN, F, 1.76, 74, 20-04-03, Murska Sobota, Mura
+77, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, Salernitana
+5, Luca Vignali, ITA, D, 1.83, 75, 11-01-96, La Spezia, Como
+77, Nicolò Bertola, ITA, D, 1.92, 79, 23-03-03, Carrara, Aquila Montevarchi (On Loan)
+17, Suf Podgoreanu, ISR, F, 1.93, 80, 20-01-02, Hadera, Maccabi Haifa (On Loan)
+19, Emil Kornvig, DEN, M, 1.89, 75, 28-04-00, Søborg, Cosenza (On Loan)
+23, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, Cagliari
+89, Leandro Sanca, POR, F, 1.84, 73, 04-01-00, Lisbon, Famalicão (On Loan)
+39, Aurélien Nguiamba, FRA, M, 1.79, 73, 18-01-99, Colmar, Jagiellonia Białystok (On Loan)
+31, Aimar Sher, SWE, M, 1.75, 65, 20-12-02, Erbil, FC Groningen (On Loan)
+99, Ognjen Stijepović, MNE, M, 1.85, 74, 22-10-99, Podgorica, Mura
+14, Jakub Kiwior, POL, D, 1.89, 75, 15-02-00, Tychy, Arsenal
+9, Samuel Mráz, SVK, F, 1.84, 75, 13-05-97, Malacky, Anorthosis Famagusta (On Loan)
+15, Petko Hristov, BUL, D, 1.91, 85, 01-03-99, Sofia, Venezia (On Loan)
+28, Mikael Egill Ellertsson, ISL, M, 1.82, 68, 11-03-02, Reykjavík, Venezia
+22, Janis Antiste, FRA, F, 1.83, 75, 18-08-02, Toulouse, Amiens (On Loan)
+44, David Strelec, SVK, F, 1.85, 73, 04-04-01, Nové Zámky, Reggina (On Loan)

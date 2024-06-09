@@ -1,0 +1,48 @@
+=  Werder Bremen - German Bundesliga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raphael Wolf, GER, G, 1.90, 86, 06-06-88, Munich, Kapfenberg
+2, Santiago García, ARG, D, 1.89, 76, 08-07-88, Rosario, Rangers (Talca)
+3, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, Internazionale
+4, Alejandro Gálvez, ESP, D, 1.90, 84, 06-06-89, Granada, Rayo Vallecano
+5, Assani Lukimya-Mulongoti, COD, D, 1.89, 89, 25-01-86, Uwira, Fortuna Düsseldorf
+6, Cédric Makiadi, COD, M, 1.78, 75, 23-02-84, Kinshasa, Freiburg
+7, Jannik Vestergaard, DEN, D, 1.97, 96, 03-08-92, Copenhagen, 1899 Hoffenheim
+8, Clemens Fritz, GER, D, 1.83, 81, 07-12-80, Erfurt, Bayer Leverkusen
+9, Franco Di Santo, ARG, F, 1.94, 78, 07-04-89, Mendoza, Wigan Ath
+11, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Bayer Leverkusen
+14, Izet Hajrović, BIH, M, 1.77, 71, 04-08-91, Brugg, Galatasaray
+15, Sebastian Prödl, AUT, D, 1.94, 85, 21-06-87, Graz, Sturm Graz
+16, Zlatko Junuzović, AUT, M, 1.72, 69, 26-09-87, Loznica, Austria Vienna
+17, Özkan Yildirim, GER, M, 1.67, 58, 10-04-93, Sulingen, None
+18, Felix Kroos, GER, F, 1.84, 74, 12-03-91, Greifswald, Hansa Rostock
+19, Luca Zander, GER, D, 1.83, 68, 09-08-95, Weyhe, Weyhe
+20, Koen Casteels, BEL, G, 1.96, 83, 25-06-92, Bonheiden, Wolfsburg
+21, Levent Ayçiçek, GER, M, 1.69, 60, 12-02-94, Nienburg, Hannover 96
+22, Fin Bartels, GER, M, 1.75, 65, 07-02-87, Kiel, St Pauli
+23, Theodor Gebre Selassie, CZE, D, 1.82, 70, 24-12-86, Třebíč, Slovan Liberec
+26, Julian von Haacke, GER, M, 1.81, 70, 14-02-94, Bremen, Union 60 Bremen
+27, Davie Selke, GER, F, 1.92, 75, 20-01-95, Schorndorf, 1899 Hoffenheim
+28, Melvyn Lorenzen, GER, F, 1.88, 86, 26-11-94, London, Holstein Kiel
+30, Michael Zetterer, GER, G, 1.87, 79, 12-07-95, Munich, Unterhaching
+31, Torben Rehfeldt, GER, D, 1.93, 80, 07-08-93, Kisdorf, Holstein Kiel
+32, Max Wegner, GER, F, 1.78, 78, 24-03-89, Lübbecke, Wilhelmshaven
+33, Marcel Hilßner, GER, M, 1.83, 79, 30-01-95, Leipzig, Sachsen Leipzig
+34, Tobias Schwede, GER, M, 1.81, 69, 17-03-94, Bremen, None
+35, Maximilian Eggestein, GER, M, 1.81, 75, 08-12-96, Hannover, Havelse
+36, Florian Grillitsch, AUT, F, 1.87, 73, 07-08-95, Neunkirchen, AKA St. Pölten
+37, Janek Sternberg, GER, D, 1.81, 78, 19-10-92, Leezen, Hamburg
+38, Marnon Busch, GER, D, 1.82, 80, 08-12-94, Stade, None
+39, Lukas Fröde, GER, M, 1.92, 85, 23-01-95, Fulda, Carl Zeiss Jena
+40, Raif Husić, GER, G, 1.90, 80, 05-02-96, Zusmarshausen, Bayern Munich
+44, Philipp Bargfrede, GER, M, 1.74, 71, 03-03-89, Zeven, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Martin Kobylański, POL, F, 1.79, 73, 08-03-94, Berlin, Union Berlin (On Loan)
+11, Eljero Elia, NED, F, 1.76, 70, 13-02-87, Voorburg, Southampton (On Loan)
+24, Nils Petersen, GER, F, 1.86, 80, 06-12-88, Wernigerode, Freiburg (On Loan)
+7, Ludovic Obraniak, POL, M, 1.74, 72, 10-11-84, Longueville-lès-Metz, Rizespor (On Loan)
+30, Richard Strebinger, AUT, G, 1.93, 83, 14-02-93, Wiener Neustadt, Jahn Regensburg (On Loan)
+25, Oliver Hüsing, GER, D, 1.93, 88, 17-02-93, Bühren, Hansa Rostock (On Loan)

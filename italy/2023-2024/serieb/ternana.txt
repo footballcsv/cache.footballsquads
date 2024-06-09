@@ -1,0 +1,68 @@
+=  Ternana - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antony Iannarilli, ITA, G, 1.86, 82, 18-12-90, Alatri, Viterbese
+2, Marco Bonugli, ITA, D, -, -, 03-03-05, Macerata, Pescara
+3, Riccardo Zoia, ITA, D, 1.88, 83, 12-11-01, Carate Brianza, Vis Pesaro
+4, Frederik Sørensen, DEN, D, 1.94, 88, 14-04-92, Roskilde, Pescara
+5, Gabriele Boloca, ROU, D, 1.87, 73, 31-03-01, Chieri, Albenga
+6, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Fiorentina
+8, Kees de Boer, NED, M, 1.79, 65, 13-05-00, Volendam, VVV Venlo
+9, Antonio Raimondo, ITA, F, 1.84, 71, 18-03-04, Ravenna, Bologna
+10, Gastón Pereiro, URU, F, 1.88, 79, 11-06-95, Montevideo, Cagliari
+11, Jan Żuberek, POL, F, 1.88, 80, 13-03-04, Białystok, Internazionale
+12, Robert Matei, ROU, G, -, -, 03-09-06, Timișoara, Politehnica Timișoara
+13, Mohamed Cissé, BEL, M, 1.78, 74, 23-10-05, Conakry, Frosinone
+15, Tiago Casasola, ARG, D, 1.88, 84, 11-08-95, Capital Federal, Perugia
+16, Giacomo Faticanti, ITA, M, 1.75, 70, 31-07-04, Rome, Lecce
+17, Andrea Favilli, ITA, F, 1.90, 85, 17-05-97, Pisa, Genoa
+18, Tommaso Vitali, ITA, G, 1.86, 77, 26-08-99, Terni, None
+19, Marco Capuano, ITA, D, 1.86, 79, 14-10-91, Pescara, Frosinone
+20, Edoardo Della Salandra, ITA, F, 1.90, -, 19-05-05, Rome, Lazio
+21, Carmelo Ferrara, ITA, F, -, -, 23-02-04, Messina, None
+22, Denis Franchi, ITA, G, 1.89, 71, 22-10-02, San Vito al Tagliamento, Burnley
+24, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Brescia
+25, Jakub Łabojko, POL, M, 1.79, 78, 03-10-97, Tarnowskie Góry, Brescia
+27, Costantino Favasuli, ITA, M, 1.82, 70, 26-04-04, Africo Nuovo, Fiorentina
+28, Filippo Distefano, ITA, F, 1.78, 73, 28-08-03, Camaiore, Fiorentina
+32, Filippo Sgarbi, ITA, D, 1.91, 78, 29-12-97, Casciago, Cosenza
+44, Lorenzo Lucchesi, ITA, D, 1.90, 80, 09-05-03, Florence, Fiorentina
+49, Giulio Biondini, ITA, M, 1.87, 80, 17-10-06, Assisi, None
+65, Federico Dionisi, ITA, F, 1.80, 68, 16-06-87, Rieti, Ascoli
+66, Niklas Pyyhtiä, FIN, M, 1.88, 84, 25-09-03, Turku, Bologna
+71, Gregorio Luperini, ITA, M, 1.87, 76, 10-02-94, Pisa, Perugia
+72, Lorenzo Amatucci, ITA, M, 1.77, 73, 05-02-04, Subbiano, Fiorentina
+73, Andrei Mărginean, ROU, M, 1.90, 80, 03-07-01, Zlatna, Sassuolo
+76, Filippo Novelli, ITA, G, -, -, 24-07-07, Terni, None
+79, Franco Carboni, ARG, D, 1.83, 75, 04-04-03, Buenos Aires, Internazionale
+94, Ange Caumenan N'Guessan, FRA, D, 1.88, 81, 01-09-03, Paris, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Davide Agazzi, ITA, M, 1.74, 68, 02-06-93, Trescore Balneario, Benevento
+22, Alessandro Morlupo, ITA, G, 1.87, 74, 13-03-05, Terni, Ostiamare (On Loan)
+5, Filippo Damian, ITA, M, 1.80, 70, 21-04-96, Castelfranco Veneto, Casertana
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Ascoli (On Loan)
+99, Alexis Ferrante, ITA, F, 1.75, 74, 27-06-95, Buenos Aires, Benevento (On Loan)
+11, Gabriele Capanni, ITA, F, 1.76, 65, 02-12-00, Città di Castello, Rimini (On Loan)
+24, Ndir Mame Ass, ITA, D, 1.91, 76, 24-01-01, Rufisque, Alessandria (On Loan)
+7, Federico Furlan, ITA, F, 1.81, 71, 25-11-90, Montebelluna, Città di Varese
+8, Mattia Proietti, ITA, M, 1.80, 70, 27-02-92, Turin, Casertana
+20, Fabrizio Paghera, ITA, M, 1.70, 62, 12-12-91, Brescia, Brescia
+6, Txus Alba, ESP, M, 1.73, 61, 31-01-03, Barcelona, Antequera
+74, Mirco Ferrante, ITA, M, 1.84, -, 22-02-03, Rome, Avezzano
+35, Amedeo Mellini, ITA, M, -, -, 25-03-06, Tarquinia, Pescara
+3, Alessandro Celli, ITA, D, 1.82, 76, 28-01-94, Rome, Catania
+91, Niccolò Corrado, ITA, D, 1.79, 70, 19-03-00, Florence, Modena (On Loan)
+10, César Falletti, URU, F, 1.74, 65, 02-12-92, Artigas, Cremonese
+33, Christian Travaglini, ITA, D, 1.84, 78, 07-01-00, Milan, Cagliari
+14, Mattia Manni, ITA, M, 1.79, 70, 20-04-05, Catania, Narnese
+29, Gabriele Onesti, ITA, F, 1.86, 71, 07-06-02, Rieti, Narnese
+2, Damiano Ciucci, ITA, D, -, -, 13-06-05, -, De-Registered
+16, Janzel Principi, ITA, F, -, -, 08-09-06, -, De-Registered
+23, Salim Diakité, FRA, D, 1.86, 74, 03-07-00, Les Mureaux, Palermo
+13, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Ascoli
+30, Ottavio Garau, ITA, F, 1.71, 60, 09-12-02, Caserta, Juve Stabia (On Loan)
+31, Pietro Rovaglia, ITA, F, 1.85, 76, 26-02-01, Verona, Casertana (On Loan)
+77, Gabriel Brazão, BRA, G, 1.92, 75, 05-10-00, Uberlândia, Internazionale

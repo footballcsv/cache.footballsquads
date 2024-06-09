@@ -1,0 +1,42 @@
+=  Vizela - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pedro Silva, POR, G, 1.89, 76, 13-02-97, Lisbon, HB Køge
+2, Hugo Oliveira, POR, D, 1.74, 67, 10-02-02, Santa Maria da Feira, Oliveirense
+3, Bruno Wilson, POR, D, 1.92, 82, 27-12-96, Lisbon, Sporting Braga
+4, Ivanildo, POR, D, 1.93, 83, 26-03-96, Amadora, Sporting CP
+5, Anderson Santos, BRA, D, 1.85, 71, 02-03-95, Lagarto, América Mineiro
+6, Claudemir, BRA, M, 1.85, 72, 27-03-88, Bahia, Sivasspor
+7, Osama Rashid, IRQ, M, 1.78, 63, 17-01-92, Kirkuk, Khor Fakkan
+8, Raphael Guzzo, POR, M, 1.77, 70, 06-01-95, São Paulo, Chaves
+9, Cassiano, BRA, M, 1.84, 75, 16-06-89, Porto Alegre, Boavista
+10, Kiko Bondoso, POR, F, 1.71, 66, 17-11-95, Moimenta da Beira, Lusitano FCV
+14, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, Fluminense
+17, Marcos Paulo, BRA, M, 1.82, 70, 13-07-88, Pedro Leopoldo, Académica
+18, Guo Tianyu, CHN, F, 1.92, 80, 05-03-99, Jinan, Shandong Taishan
+19, Alex Méndez, USA, M, 1.78, 70, 06-09-00, Los Angeles, Ajax
+20, Samu, POR, M, 1.70, 66, 21-04-96, São Paio de Oleiros, Boavista
+22, Kévin Zohi, MLI, F, 1.77, 70, 19-12-96, Lopou, Strasbourg
+24, Kiki, POR, D, 1.81, 76, 10-12-94, Vila Chã, Belenenses
+25, Mohamed Aidara, CIV, D, 1.86, 80, 06-11-96, Abidjan, ASEC Mimosas
+28, Emmanuel Adeyemo, NGA, D, -, -, 21-05-02, Lagos, None
+29, Andrés Sarmiento, COL, M, 1.76, 58, 15-01-98, Luruaco, Atlético Bucaramanga
+31, Manuel Baldé, GNB, G, 1.94, 88, 14-11-02, Albufeira, Desportivo das Aves
+37, Richard Ofori, GHA, D, 1.81, 65, 24-04-93, Accra, Fafe
+39, Koffi Kouao, CIV, D, 1.73, 65, 20-05-98, Abidjan, ASEC Mimosas
+70, Alejandro Alvarado, USA, M, 1.73, 67, 29-07-03, Los Angeles, LA Galaxy
+79, Nuno Moreira, POR, F, 1.75, 65, 16-06-99, Espinho, Sporting CP
+80, Tiago Ventura, POR, F, 1.75, 65, 19-06-02, Gondomar, Sousense
+84, Ivo Gonçalves, POR, G, 1.84, 75, 06-05-84, Silves, Leixões
+87, Charles, BRA, G, 1.85, 81, 04-02-94, Belo Horizonte, Marítimo
+95, Guilherme Schettine, BRA, F, 1.80, 78, 10-10-95, Gama, Sporting Braga
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+98, Didi, POR, F, 1.84, 78, 24-09-98, Aveiro, Sanjoanense (On Loan)
+12, Marcelo Machado, BRA, M, 1.84, 77, 29-03-99, Passos, Oliveira do Hospital (On Loan)
+16, João Pais, POR, F, 1.67, 59, 13-09-98, Coimbra, Oliveira do Hospital (On Loan)
+82, Tomás Silva, POR, M, 1.72, 65, 15-10-99, Viana do Castelo, Varzim (On Loan)
+99, Francis Cann, GHA, F, 1.74, 61, 06-02-98, Tema, Mafra
+13, Evrard Zag, CIV, M, 1.70, 63, 14-05-90, Gagnoa, Leixões

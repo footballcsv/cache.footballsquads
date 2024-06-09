@@ -1,0 +1,47 @@
+=  Fenerbahçe - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Altay Bayındır, TUR, G, 1.98, 89, 14-04-98, Osmangazi, Ankaragücü
+2, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, Flamengo
+3, Samet Akaydin, TUR, D, 1.90, 86, 13-03-94, Trabzon, Adana Demirspor
+4, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, Galatasaray
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Flamengo
+6, Ezgjan Alioski, MKD, D, 1.72, 68, 12-02-92, Prilep, Al-Ahli Saudi
+7, Ferdi Kadıoğlu, NED, D, 1.73, 64, 07-10-99, Arnhem, NEC Nijmegen
+8, Mert Hakan Yandaş, TUR, M, 1.74, 73, 19-08-94, Bursa, Sivasspor
+9, Diego Rossi, URU, F, 1.70, 66, 05-03-98, Montevideo, Los Angeles FC
+10, Arda Güler, TUR, M, 1.75, 70, 25-02-05, Ankara, None
+13, Enner Valencia, ECU, F, 1.74, 74, 04-11-89, San Lorenzo, UANL Tigres
+15, Joshua King, NOR, F, 1.80, 74, 15-01-92, Oslo, Watford
+17, İrfan Can Kahveci, TUR, M, 1.75, 67, 15-07-95, Bayat, İstanbul Başakşehir
+18, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, Santa Clara
+19, Serdar Dursun, GER, F, 1.90, 85, 19-10-91, Hannover, Darmstadt
+20, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Cagliari
+21, Bright Osayi-Samuel, NGA, D, 1.75, 72, 01-02-97, Okija, QPR
+23, Michy Batshuayi, BEL, F, 1.85, 86, 02-10-93, Brussels, Chelsea
+24, Jayden Oosterwolde, NED, D, 1.89, 74, 26-04-01, Zwolle, Parma
+26, Miha Zajc, SVN, M, 1.80, 76, 01-07-94, Šempeter pri Gorici, Empoli
+27, Miguel Crespo, POR, M, 1.83, 78, 11-09-96, Lyon, Estoril
+28, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Marseille
+30, Nazim Sangaré, GER, D, 1.85, 73, 30-05-94, Cologne, Antalyaspor
+41, Attila Szalai, HUN, D, 1.92, 83, 20-01-98, Budapest, Apollon Limassol
+54, Osman Ertuğrul Çetin, TUR, G, 1.88, 85, 21-04-03, İstanbul, None
+70, İrfan Can Eğribayat, TUR, G, 1.93, 75, 30-06-98, Seyhan, Göztepe
+80, İsmail Yüksek, TUR, M, 1.83, 77, 26-01-99, Bursa, Gölcükspor
+99, Emre Mor, TUR, F, 1.68, 60, 24-07-97, Brønshøj, Fatih Karagümrük
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Marcel Tisserand, COD, D, 1.84, 70, 10-01-93, Meaux, Al-Ettifaq
+23, Muhammed Gümüşkaya, TUR, M, 1.77, 66, 01-01-01, İstanbul, KVC Westerlo
+44, Steven Caulker, SLE, D, 1.90, 76, 29-12-91, Feltham, Fatih Karagümrük
+58, Tiago Çukur, TUR, F, 1.96, 80, 30-11-02, Amsterdam, FCV Dender EH (On Loan)
+11, Mërgim Berisha, KVX, F, 1.86, 79, 11-05-98, Berchtesgaden, Augsburg (On Loan)
+14, Dimitris Pelkas, GRE, M, 1.75, 68, 26-10-93, Giannitsa, Hull C (On Loan)
+77, Burak Kapacak, TUR, M, 1.80, 72, 08-12-99, Osmangazi, Fatih Karagümrük (On Loan)
+37, Filip Novák, CZE, D, 1.84, 79, 26-06-90, Přerov, Al-Jazira
+33, Çağtay Kurukalıp, TUR, D, 1.81, 70, 24-02-02, Gaziosmanpaşa, Iğdır (On Loan)
+22, Bruma, POR, F, 1.73, 70, 24-10-94, Bissau, Sporting Braga (On Loan)
+16, İsak Vural, TUR, M, -, -, 28-05-06, Stockholm, Hammarby IF (On Loan)
+29, Mauricio Lemos, URU, D, 1.87, 84, 28-12-95, Rivera, Atlético Mineiro

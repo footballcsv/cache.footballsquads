@@ -1,0 +1,45 @@
+=  Huesca - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Álvaro Fernández, ESP, G, 1.85, 75, 13-04-98, Arnedo, Monaco
+2, Carlos Gutiérrez, ESP, D, 1.92, 83, 04-11-91, Las Palmas, V-Varen Nagasaki
+3, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Almería
+4, Rubén Pulido, ESP, D, 1.84, 73, 02-09-00, Madrid, Fuenlabrada
+5, Miguel Loureiro, ESP, D, 1.80, 75, 21-11-96, Cerceda, Lugo
+6, Javi Mier, ESP, M, 1.76, 65, 04-02-99, Oviedo, Oviedo
+7, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Lugo
+8, Javi Martínez, ESP, M, 1.80, 68, 22-12-99, Ólvega, Osasuna
+9, Hugo Vallejo, ESP, F, 1.81, 77, 15-02-00, Granada, Valladolid
+10, Kento Hashimoto, JPN, M, 1.79, 72, 16-08-93, Tokyo, FC Rostov
+11, Joaquín Muñoz, ESP, F, 1.73, 60, 10-03-99, Málaga, Atlético Madrid B
+12, Juanjo Nieto, ESP, D, 1.75, 73, 03-10-94, Castellón de la Plana, Almería
+13, Juan Pérez, ESP, G, 1.92, 78, 15-07-96, Almudevar, Osasuna
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Jérémy Blasco, FRA, D, 1.85, 79, 12-02-99, Bayonne, Real Sociedad B
+16, Jovanny Bolívar, VEN, F, 1.76, 74, 16-12-01, Acarigua, Albacete
+17, Enzo Lombardo, FRA, M, 1.74, 69, 16-04-97, Décines-Charpieu, Mallorca
+18, Rafa Tresaco, ESP, F, 1.78, 68, 24-08-00, Sabiñánigo, Algeciras
+20, Ignasi Vilarrasa, ESP, D, 1.83, 75, 23-08-99, Granollers, Atlético Baleares
+21, Elady Zorrilla, ESP, M, 1.78, 75, 13-07-90, La Puerta de Segura, Tenerife
+22, Iker Kortajarena, ESP, M, 1.79, 73, 21-06-00, Oiartzun, Real Sociedad B
+23, Óscar Sielva, ESP, M, 1.77, 69, 06-08-91, Barcelona, Eibar
+24, Samuel Obeng, GHA, F, 1.83, 74, 15-05-97, Nsapor, Oviedo
+26, Álex Balboa, EQG, M, 1.81, 76, 06-03-01, Vitoria-Gasteiz, Alavés B
+28, Diego Espinosa, ESP, D, -, -, 02-07-04, -, Huesca B
+31, Fadia Fofana, ESP, D, 1.86, -, 19-02-01, -, Binéfar
+32, Alin Serban, ROU, D, -, -, 13-09-03, -, CDJ Tamarite
+33, Ayman Arguigue, MAR, F, -, -, 13-05-05, Carcaixent, Huesca B
+34, Fernando Guerrero, ESP, M, 1.82, 73, 01-08-01, Madrid, Real Madrid B
+35, Iker Gil, ESP, F, 1.71, 65, 15-03-05, Zaragoza, Real Madrid B
+36, David García, ESP, M, 1.83, 77, 15-09-03, -, Huesca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Murcia
+8, Patrick Soko, CMR, M, 1.76, 72, 31-10-97, Douala, Ibiza
+2, Andrei Rațiu, ROU, D, 1.83, 74, 20-06-98, Aiud, Rayo Vallecano
+10, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Albacete
+29, Diego Aznar, ESP, F, -, -, 09-06-03, Zaragoza, Valencia B (On Loan)
+19, Aboubakary Kanté, GMB, F, 1.84, 80, 11-08-94, Pontoise, 
+27, Manu Rico, ESP, F, -, -, 11-01-03, -, Ceuta (On Loan)

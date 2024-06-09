@@ -1,0 +1,44 @@
+=  Paços de Ferreira - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Nuno Lima, POR, D, 1.84, 76, 16-03-01, Porto, Feirense
+4, Pedro Ganchas, POR, D, 1.90, 84, 31-05-00, Lisbon, Benfica
+5, Vitorino Antunes, POR, D, 1.76, 70, 01-04-87, Freamunde, Sporting CP
+6, Jordan Holsgrove, SCO, M, 1.80, 73, 10-09-99, Edinburgh, Celta Vigo B
+7, Nigel Thomas, CUW, F, 1.77, 77, 01-02-01, Rotterdam, PSV Eindhoven
+9, Uilton, BRA, F, 1.75, 67, 25-07-92, Itapitanga, Grêmio Anápolis
+10, Nicolás Gaitán, ARG, M, 1.73, 66, 23-02-88, San Martín, Peñarol
+11, Fábio, BRA, F, 1.78, 81, 25-05-97, São Paulo, Atlético Mineiro
+15, Juan Delgado, CHI, D, 1.77, 71, 05-03-93, Chillán, Necaxa
+16, Matchoi Djaló, GNB, M, 1.75, 68, 10-04-03, Bissau, None
+17, Adrián Butzke, ESP, F, 1.93, 72, 30-03-99, Monachil, Granada
+18, Tiago Ribeiro, POR, M, 1.85, 68, 14-03-02, Vila Nova de Gaia, Monaco
+20, Luís Bastos, POR, D, 1.75, 72, 10-09-01, Paços de Ferreira, None
+21, Jorge Silva, POR, D, 1.83, 75, 22-03-96, Porto, Leixões
+22, Luíz Carlos, BRA, M, 1.75, 65, 05-07-85, Espírito Santo, Osmanlıspor
+23, Erick Ferigra, ECU, D, 1.80, 74, 07-02-99, Guayaquil, Las Palmas
+24, Zé Oliveira, POR, G, 1.86, 85, 06-04-02, Penafiel, None
+25, Maracás, BRA, D, 1.84, 78, 27-04-94, Itiruçu, Al-Wahda
+26, Rui Pires, POR, M, 1.84, 71, 22-03-98, Mirandela, Troyes
+27, João Vigário, POR, D, 1.81, 75, 20-11-95, Gondomar, Nacional [POR]
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Alanyaspor
+29, Fernando Fonseca, POR, D, 1.82, 75, 14-03-97, Porto, Gil Vicente
+30, Alexandre Guedes, POR, F, 1.85, 75, 11-02-94, Vila Nova de Gaia, Albirex Niigata
+32, Flávio Ramos, BRA, D, 1.86, 78, 12-05-94, Recife, Feirense
+33, Vasco Sousa, POR, D, 1.82, 82, 06-04-04, Penafiel, None
+34, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, Hampstead, Sporting CP
+55, Paulo Bernardo, POR, M, 1.84, 78, 24-01-02, Almada, Benfica
+70, Hernâni Infande, MAR, F, 1.78, 66, 03-04-01, Bissau, Sporting Braga
+98, Igor Vekić, SVN, G, 1.92, 88, 06-05-98, Ljubljana, Bravo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Lucas Silva, BRA, F, 1.76, 66, 31-01-98, Rio de Janeiro, Avaí
+12, Jeimes Menezes, BRA, G, 1.88, 78, 28-04-01, Brasília, Montalegre (On Loan)
+19, N'Dri Koffi, FRA, F, 1.83, 74, 09-03-02, Abidjan, Reims
+11, Kayky, BRA, F, 1.75, 68, 11-06-03, Rio de Janeiro, Manchester C
+14, Bastien Toma, SUI, M, 1.72, 64, 24-06-99, Sion, KRC Genk
+1, Jordi, BRA, G, 1.91, 81, 03-09-93, Volta Redonda, Novorizontino
+8, Abbas Ibrahim, NGA, M, 1.78, 58, 02-01-98, Idah, Zira FK
+13, Arthur Sales, BRA, F, 1.84, 74, 03-07-02, São Gabriel da Palha, Lommel

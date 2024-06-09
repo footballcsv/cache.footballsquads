@@ -1,0 +1,38 @@
+=  PFC Sochi - Russian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Denis Adamov, RUS, G, 1.94, 84, 20-02-98, Ulyanovsk, FC Krasnodar-2
+3, Vanja Drkušić, SVN, D, 1.86, 82, 30-10-99, Novo Mesto, Bravo
+4, Moussa Sissako, MLI, D, 1.89, 72, 10-11-00, Clichy, Standard Liège
+5, Victorien Angban, CIV, M, 1.80, 70, 29-09-96, Abidjan, Metz
+6, Artur Yusupov, RUS, M, 1.79, 71, 01-09-89, Samara, Dynamo Moscow
+8, Kirill Kravtsov, RUS, M, 1.87, 77, 14-06-02, St. Petersburg, Zenit St Petersburg
+9, Georgiy Melkadze, RUS, F, 1.80, 77, 04-04-97, Moscow, Spartak Moscow
+10, Vladislav Sarveli, RUS, F, 1.76, 66, 01-10-97, Bolshoy Kamen, Krylia Sovetov
+11, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Vejle
+12, Nikolay Zabolotniy, RUS, G, 1.84, 81, 16-04-90, St. Petersburg, Rotor Volgograd
+13, Sergey Terekhov, RUS, D, 1.80, 74, 27-06-90, Bryansk, FC Orenburg
+15, Ibrahim Tsallagov, RUS, M, 1.77, 71, 12-12-90, Vladikavkaz, Zenit St Petersburg
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Zenit St Petersburg
+17, Artyom Makarchuk, RUS, D, 1.85, 70, 09-11-95, Svetly, Baltika Kaliningrad
+18, Nikita Burmistrov, RUS, M, 1.81, 75, 06-07-89, Moscow, Rotor Volgograd
+19, Timofey Shipunov, RUS, M, 1.72, 65, 20-07-03, Krasnodar, Volga Tver
+20, Igor Yurganov, RUS, D, 1.86, 72, 10-12-93, Rubtsovsk, Dinamo St Petersburg
+22, Joãozinho, BRA, M, 1.62, 57, 25-12-88, Ubatuba, Dynamo Moscow
+24, Miguel Silveira, BRA, M, 1.74, 66, 26-03-03, Vila Velha, Red Bull Bragantino
+26, Artyom Meshchaninov, RUS, D, 1.89, 84, 19-02-96, Kolpino, Baltika Kaliningrad
+27, Kirill Zaika, RUS, D, 1.68, 62, 07-10-92, Uspenskoye, FC Khimki
+28, Amir Batyrev, CAN, M, 1.73, 66, 11-03-02, Toronto, Volga Tver
+34, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Lokomotiv Moscow
+35, Soslan Dzhanaev, RUS, G, 1.90, 84, 13-03-87, Vladikavkaz, Miedź Legnica
+45, Ivan Miladinović, SRB, D, 1.89, 83, 14-08-94, Ćuprija, Radnički Niš
+54, Artur Kuskov, RUS, D, 1.85, 74, 06-02-04, Petrozavodsk, PFC Sochi-2
+68, Zakhar Federov, RUS, F, 1.82, 69, 24-12-04, -, PFC Sochi-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Yegor Prutsev, RUS, M, 1.79, 65, 23-12-02, Krasnodar, Crvena Zvezda
+11, Maksim Barsov, RUS, F, 1.74, 70, 29-04-93, Tver, Neftekhimik Nizhnekamsk
+14, Daniil Martovoy, RUS, M, 1.70, 65, 24-05-03, Krasnodar, Rodina Moscow (On Loan)
+23, Kirill Ushatov, RUS, M, 1.78, 60, 24-01-00, Moscow, Yenisey Krasnoyarsk (On Loan)

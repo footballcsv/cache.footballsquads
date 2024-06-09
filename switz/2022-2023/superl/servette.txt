@@ -1,0 +1,44 @@
+=  Servette - Swiss Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Steven Deana, SUI, G, 1.88, 72, 04-03-90, Wetzikon, Duisburg
+2, Moussa Diallo, FRA, D, 1.78, 69, 27-01-97, Corbeil-Essonnes, Cholet
+3, Gaël Clichy, FRA, D, 1.76, 65, 26-07-85, Toulouse, İstanbul Başakşehir
+4, Steve Rouiller, SUI, D, 1.83, 74, 10-07-90, Monthey, Lugano
+5, Boris Céspedes, BOL, M, 1.81, 72, 19-06-95, Santa Cruz de la Sierra, None
+7, Patrick Pflücke, GER, F, 1.70, 66, 30-11-96, Dresden, Roda JC
+8, Timothé Cognat, FRA, M, 1.73, 67, 25-01-98, Arnas, Lyon
+9, Miroslav Stevanović, BIH, M, 1.82, 71, 29-07-90, Zvornik, Željezničar
+10, Alexis Antunes, SUI, M, 1.81, 72, 31-07-00, Geneva, None
+11, Boubacar Fofana, FRA, F, 1.82, 70, 07-09-98, Paris, Lyon
+15, Théo Valls, FRA, M, 1.72, 65, 18-12-95, Nîmes, Nîmes
+17, Dereck Kutesa, SUI, M, 1.76, 67, 06-12-97, Geneva, Reims
+19, Yoan Severin, FRA, D, 1.86, 80, 24-01-97, Villeurbanne, Zulte-Waregem
+20, Théo Magnin, SUI, D, 1.71, 65, 09-08-03, Geneva, None
+21, Baba Souare, SUI, D, 1.94, 86, 07-03-99, Geneva, Grasshoppers
+22, Valton Behrami, SUI, D, 1.81, 77, 16-03-04, Geneva, None
+23, Ronny Rodelin, FRA, F, 1.92, 70, 18-11-89, Saint-Denis, Guingamp
+24, Malik Sawadogo, SUI, D, 1.75, 69, 12-07-03, Geneva, None
+25, Sidiki Camara, SUI, M, 1.78, 65, 23-08-02, Geneva, None
+26, Moritz Bauer, AUT, D, 1.81, 73, 25-01-92, Veltheim, FC Ufa
+27, Enzo Crivelli, FRA, F, 1.84, 79, 06-02-95, Rouen, İstanbul Başakşehir
+28, David Douline, FRA, M, 1.82, 80, 28-05-93, Grenoble, Rodez
+29, Chris Bedia, CIV, F, 1.90, 74, 05-03-96, Abidjan, Charleroi
+30, Samba Dida, SEN, M, 1.92, 82, 24-12-03, Louga, ASAC Ndiambour
+32, Jérémy Frick, SUI, G, 1.92, 88, 08-03-93, Geneva, Biel/Bienne
+33, Nicolas Vouilloz, SUI, D, 1.84, 80, 11-05-01, Chêne-Bougeries, None
+34, Anthony Baron, FRA, D, 1.80, 75, 29-12-92, Villepinte, Yverdon Sport
+40, Edin Omeragic, SUI, G, 1.95, 90, 20-03-02, Geneva, None
+43, Kevin Mbabu, SUI, D, 1.84, 80, 19-04-95, Chêne-Bougeries, Fulham
+44, Léo Besson, KVX, G, 1.87, 77, 27-10-02, -, None
+45, Hussayn Touati, ALG, F, 1.76, 76, 03-10-01, Pontoise, Paris St-Germain
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Roggerio Nyakossi, SUI, D, 1.94, 91, 13-01-04, Geneva, Marseille
+17, Kastriot Imeri, SUI, M, 1.73, 73, 27-06-00, Geneva, Young Boys
+14, Dimitri Oberlin, SUI, F, 1.82, 74, 27-09-97, Yaoundé, Thun (On Loan)
+35, Diogo Monteiro, SUI, D, 1.84, 73, 28-01-05, Geneva, Leeds U
+41, Alexandre Patrício, SUI, F, 1.79, 72, 17-02-04, Geneva, Verona (On Loan)
+43, Issa Kaloga, SUI, D, 1.82, 72, 27-02-04, -, De-Registered

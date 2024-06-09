@@ -1,0 +1,71 @@
+=  Leicester City - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Leeds U
+2, Danny Simpson, ENG, D, 1.77, 78, 04-01-87, Salford, QPR
+3, Ben Chilwell, ENG, D, 1.78, 71, 21-12-96, Milton Keynes, None
+4, Çağlar Söyüncü, TUR, D, 1.87, 80, 23-05-96, İzmir, Freiburg
+5, Wes Morgan, JAM, D, 1.85, 93, 21-01-84, Nottingham, Nottingham F
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, WBA
+7, Demarai Gray, ENG, M, 1.79, 66, 28-06-96, Birmingham, Birmingham C
+8, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, Manchester C
+9, Jamie Vardy, ENG, F, 1.78, 76, 11-01-87, Sheffield, Fleetwood T
+10, James Maddison, ENG, M, 1.79, 73, 23-11-96, Coventry, Norwich C
+11, Marc Albrighton, ENG, M, 1.74, 67, 18-11-89, Tamworth, Aston Villa
+12, Danny Ward, WAL, G, 1.91, 88, 22-06-93, Wrexham, Wrexham
+14, Ricardo Pereira, POR, D, 1.75, 70, 06-10-93, Lisbon, FC Porto
+15, Harry Maguire, ENG, D, 1.88, 79, 05-03-93, Sheffield, Hull C
+17, Eldin Jakupović, SUI, G, 1.91, 87, 02-10-84, Sarajevo, Hull C
+18, Daniel Amartey, GHA, M, 1.83, 78, 01-12-94, Accra, FC København
+19, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, None
+20, Shinji Okazaki, JPN, F, 1.74, 70, 16-04-86, Hyogo, Mainz
+21, Youri Tielemans, BEL, M, 1.76, 72, 07-05-97, Sint-Pieters-Leeuw, Monaco
+22, Matthew James, ENG, M, 1.78, 74, 22-07-91, Bacup, Manchester U
+24, Nampalys Mendy, FRA, M, 1.68, 68, 23-06-92, La Seyne-sur-Mer, Nice
+25, Wilfred Ndidi, NGA, M, 1.87, 80, 16-12-96, Lagos, KRC Genk
+28, Christian Fuchs, AUT, D, 1.86, 80, 07-04-86, Pitten, Schalke
+30, Layton Ndukwu, ENG, F, 1.77, 75, 07-09-98, Leicester, None
+31, Rachid Ghezzal, ALG, M, 1.82, 65, 09-05-92, Décines-Charpieu, Monaco
+33, Bartosz Kapustka, POL, M, 1.79, 60, 23-12-96, Tarnów, Cracovia Kraków
+36, Admiral Muskwe, ZIM, F, 1.83, 71, 21-08-98, , None
+38, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, None
+40, Viktor Johansson, SWE, G, 1.86, 72, 14-09-98, , Aston Villa
+41, Max Bramley, ENG, G, , , 11-11-97, Leicester, None
+42, Rhys Davies, WAL, G, , , 27-11-99, Cardiff, Newport Co
+43, Jakub Stolarczyk, POL, G, 1.94, 81, 19-12-00, Chęciny, None
+45, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Chester
+46, Callum Wright, ENG, M, 1.82, 72, 02-05-00, Liverpool, Blackburn R
+47, Josh Eppiah, BEL, F, , , 11-10-98, , None
+48, Lamine Sherif, GNB, M, 1.77, 74, 27-01-99, Conakry, None
+49, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, None
+50, Alex Pașcanu, ROU, D, 1.87, 85, 28-09-98, Bârlad, None
+52, Ryan Loft, ENG, F, 1.90, 73, 14-09-97, Gravesend, Tottenham H
+53, Louis Ramsay, ENG, D, 1.76, 66, 23-09-97, Basildon, Norwich C
+54, Raúl Uche, ESP, F, 1.78, 70, 08-10-97, Madrid, Rayo Vallecano
+55, Tyrese Shade, SKN, M, 1.83, 78, 09-06-00, Birmingham, Solihull Moors
+56, Kairo Edwards-John, ENG, F, , , 23-10-99, , None
+57, George Heaven, ENG, D, , , 30-11-99, Coventry, None
+58, Conor Tee, ENG, M, , , 15-07-00, Northampton, None
+59, Thakgalo Leshabela, RSA, M, 1.75, 72, 18-09-99, Pretoria, None
+60, Calvin Ughelumba, ITA, D, 1.85, 76, 31-12-99, Aosta, None
+61, Ed Elewa-Ikpakwu, ENG, D, , , 08-01-01, , None
+62, Luke Thomas, ENG, D, 1.74, 68, 10-06-01, Leicester, None
+63, Dennis Gyamfi, GHA, D, , , , , None
+64, Lukáš Husek, CZE, D, 2.02, 92, 25-10-00, Jablonec nad Nisou, Jablonec
+65, Sidnei Tavares, POR, M, , , 29-09-01, , None
+66, Will Russ, WAL, F, , , 08-11-02, Denbigh, Chesterfield
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Fenerbahçe (On Loan)
+16, Filip Benković, CRO, D, 1.94, 91, 13-07-97, Zagreb, Celtic (On Loan)
+35, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Ipswich T (On Loan)
+21, Vicente Iborra, ESP, M, 1.90, 76, 16-01-88, Moncada, Villarreal
+27, Fousseni Diabaté, MLI, M, 1.75, 66, 18-10-95, Aubervilliers, Sivasspor (On Loan)
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Nottingham F
+23, Adrien Silva, POR, M, 1.75, 75, 15-03-89, Angoulême, Monaco (On Loan)
+34, Josh Knight, ENG, D, 1.85, 78, 07-09-97, Leicester, Peterborough U (On Loan)
+37, Andy King, WAL, M, 1.83, 74, 29-10-88, Maidenhead, Derby Co (On Loan)
+39, Darnell Johnson, ENG, D, 1.85, 83, 03-09-98, Leicester, Hibernian (On Loan)
+51, Liandro Martis, CUW, M, 1.70, 73, 13-11-95, Juan Domingo, Macclesfield T

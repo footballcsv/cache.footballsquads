@@ -1,0 +1,46 @@
+=  Górnik Zabrze - Polish Ekstraklasa 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Bielica, POL, G, 1.89, 76, 30-04-99, Zabrze, Zaborze Zabrze
+2, Boris Sekulić, SVK, D, 1.87, 82, 21-10-91, Belgrade, Chicago Fire
+3, Richard Jensen, FIN, D, 1.84, 70, 17-03-96, Porvoo, Roda JC
+4, Aleksander Paluszek, POL, D, 1.91, 81, 09-04-01, Wrocław, Śląsk Wrocław
+5, Kryspin Szcześniak, POL, D, 1.81, 74, 08-01-01, Gorzów Wielkopolski, Pogoń Szczecin
+6, Damian Rasak, POL, M, 1.84, 77, 08-02-96, Toruń, Wisła Płock
+7, Daniel Pacheco, ESP, M, 1.68, 65, 05-01-91, Málaga, Aris Limassol
+8, Blaž Vrhovec, SVN, M, 1.80, 70, 20-02-92, Ljubljana, Anorthosis Famagusta
+9, Anthony van den Hurk, CUW, F, 1.79, 75, 09-01-93, Veghel, Rizespor
+10, Lukas Podolski, GER, F, 1.82, 83, 04-06-85, Gliwice, Antalyaspor
+11, Mateusz Cholewiak, POL, M, 1.84, 73, 05-02-90, Krosno, Legia Warszawa
+13, Emil Bergström, SWE, D, 1.87, 79, 19-05-93, Stockholm, FC Utrecht
+14, Jakub Pochcioł, POL, M, 1.85, 71, 26-08-03, Rydułtowy, ROW Rybnik
+15, Norbert Wojtuszek, POL, M, 1.82, 79, 05-10-01, Krakó, Pogoń Siedlce
+16, Paweł Olkowski, POL, D, 1.84, 75, 13-02-90, Ozimek, Gaziantep
+17, Robin Kamber, SUI, M, 1.87, 83, 15-02-96, Basel, Stade Lausanne Ouchy
+20, Szymon Wlodarczyk, POL, F, 1.89, 78, 05-01-03, Wałbrzych, Legia Warszawa
+21, Piotr Krawczyk, POL, F, 1.88, 79, 29-12-94, Siedlce, Legionovia Legionowo
+23, Jean Jules, CMR, M, 1.85, 78, 23-04-98, Yaoundé, Albacete
+24, Krzysztof Kolanko, POL, M, 1.63, -, 03-08-06, -, None
+25, Jonatan Kotzke, GER, D, 1.84, 75, 18-03-90, Pinneberg, Ingolstadt
+26, Rafał Janicki, POL, D, 1.88, 79, 05-07-92, Szczecin, Podbeskidzie Bielsko-Biała
+29, Kacper Capiga, POL, D, 1.84, 74, 20-02-05, -, None
+30, Nikodem Zielonka, POL, M, 1.84, 72, 17-08-04, Katowice, Rozwój Katowice
+31, Paweł Sokół, POL, G, 1.93, 84, 02-03-00, Dębica, Chojniczanka Chojnice
+32, Pavel Pavlyuchenko, BLR, G, 1.94, 88, 01-01-98, Mogilev, BBT Nieciecza
+33, Kanji Okunuki, JPN, F, 1.70, 60, 11-08-99, Tochigi, Omiya Ardija
+41, Daisuke Yokota, JPN, M, 1.69, 66, 15-06-00, Itabashi, Valmiera
+64, Erik Janža, SVN, D, 1.73, 73, 21-06-93, Murska Sobota, Osijek
+71, Amadej Maroša, SVN, F, 1.78, 79, 07-02-94, Murska Sobota, AEL Limassol
+96, Robert Dadok, POL, D, 1.82, 70, 24-12-96, Cieszyn, Stal Mielec
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Bartosz Nowak, POL, M, 1.80, 73, 25-08-93, Radom, Raków Częstochowa
+24, Alex Sobczyk, AUT, F, 1.87, 76, 20-05-97, Vienna, Doxa Katokopias
+6, Krzysztof Kubica, POL, M, 1.90, 75, 25-05-00, Żywiec, Benevento
+8, Alasana Manneh, GAM, M, 1.70, 61, 08-04-98, Banjul, Odense
+22, Dariusz Stalmach, POL, M, 1.82, 75, 08-12-05, Tarnowskie Góry, Milan
+32, Kevin Broll, GER, G, 1.86, 77, 23-08-95, Mannheim, Dynamo Dresden
+28, Jan Ciućka, POL, F, 1.82, 74, 19-06-03, Żywiec, Górnik Polkowice (On Loan)
+77, Jakub Szymański, POL, D, 1.89, 85, 05-07-02, Opoczno, Wisła Płock

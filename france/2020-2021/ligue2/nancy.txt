@@ -1,0 +1,31 @@
+=  Nancy - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Baptiste Valette, FRA, G, 1.85, 80, 01-09-92, Sète, Nîmes
+2, Mathias Fischer, FRA, D, 1.81, 74, 11-07-98, Colmar, None
+3, Abdelhamid El Kaoutari, MAR, D, 1.80, 73, 17-03-90, Montpellier, Wydad Casablanca
+4, Séga Coulibaly, FRA, D, 1.84, 87, 09-06-96, Bamako, Rennes
+5, Giovanni Haag, FRA, D, 1.85, 80, 30-05-00, Metz, None
+6, Grégoire Lefebvre, FRA, M, 1.74, 67, 13-05-94, Mont-Saint-Aignan, Red Star
+7, Mickaël Biron, FRA, F, 1.70, 71, 26-08-97, Ducos, Épinal
+8, Warren Bondo, FRA, M, 1.77, 63, 15-09-03, Evry, None
+9, Ande Dona Ndoh, CMR, F, 1.86, 78, 22-05-86, Meanja, Niort
+10, Amine Bassi, FRA, M, 1.73, 72, 27-11-97, Bezons, Épinal
+11, Dorian Bertrand, FRA, F, 1.76, 64, 21-05-93, Saint-Denis, Angers
+13, Serge N'Guessan, CIV, M, 1.65, 65, 31-07-94, Abidjan, AFAD
+14, Mehdi Merghem, FRA, M, 1.78, 70, 19-07-97, Aubervilliers, Guingamp
+15, Kenny Rocha Santos, CPV, M, 1.74, 67, 03-01-00, São Vicente, St-Etienne
+16, Martin Sourzac, FRA, G, 1.83, 78, 25-03-92, Vendome, Nîmes
+17, Ousmane Cissokho, SEN, F, 1.75, 68, 14-01-87, St Louis, Orléans
+18, Souleymane Karamoko, FRA, D, 1.70, 65, 29-07-92, Paris, Entente SSG
+19, Yanis Barka, FRA, F, 1.83, 74, 18-04-98, Saint-Quentin, None
+20, Aurélien Nguiamba, FRA, M, 1.79, 73, 18-01-99, Colmar, Colmar
+21, Vinni Triboulet, FRA, F, 1.83, 75, 18-06-99, Douala, None
+22, Ernest Seka, GUI, D, 1.85, 84, 22-06-87, Clichy, Strasbourg
+23, Saliou Ciss, SEN, D, 1.73, 69, 15-09-89, Dakar, Angers
+24, Edmond Akichi, CIV, M, 1.78, 75, 24-04-90, Abidjan, Paris FC
+25, Mons Bassouamina, FRA, F, 1.72, 67, 28-05-98, Gonesse, None
+26, Aurélien Scheidler, FRA, F, 1.92, 90, 04-06-98, Saint-Martin-Boulogne, Dijon
+27, Rosario Latouchent, FRA, D, 1.80, 70, 21-03-96, Sarcelles, Laval
+29, Rayan Philippe, FRA, F, 1.82, 76, 23-10-00, Nice, Dijon
+30, Hugo Constant, FRA, G, 1.83, 73, 29-11-99, Nancy, None

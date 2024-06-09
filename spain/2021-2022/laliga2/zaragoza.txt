@@ -1,0 +1,47 @@
+=  Zaragoza - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, San Lorenzo
+2, Carlos Vigaray, ESP, D, 1.82, 70, 07-09-94, Leganés, Alavés
+3, Jair, POR, D, 1.88, 90, 21-08-89, Lisbon, Maccabi Tel Aviv
+4, Radosav Petrović, SRB, M, 1.93, 83, 08-03-89, Ub, Almería
+5, Jaume Grau, ESP, M, 1.82, 65, 05-05-97, Tavernes de la Valldigna, Osasuna
+6, Alejandro Francés, ESP, D, 1.80, 70, 01-08-02, Zaragoza, Zaragoza B
+7, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Betis B
+8, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Arouca
+10, Sabin Merino, ESP, F, 1.87, 76, 04-01-92, Urduliz, Leganés
+11, Valentín Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, Almería
+13, Álvaro Ratón, ESP, G, 1.92, 75, 29-01-93, O Carballiño, Villanovense
+15, Pep Chavarria, ESP, D, 1.74, 72, 10-04-98, Figueres, Olot
+16, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Zaragoza B
+17, Carlos Nieto, ESP, D, 1.79, 74, 05-05-96, Zaragoza, Zaragoza B
+18, Fran Gámez, ESP, D, 1.74, 71, 27-07-91, Puerto de Sagunto, Mallorca
+20, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Cádiz
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Lokomotiv Moscow
+22, Sergio Bermejo, ESP, F, 1.70, 61, 17-08-97, Madrid, Celta Vigo B
+23, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Cádiz
+24, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol
+26, Borja Sainz, ESP, F, 1.78, 75, 01-02-01, Leioa, Alavés B
+27, Francho Serrano, ESP, M, 1.77, 72, 17-10-01, Zaragoza, Zaragoza B
+28, Javi Hernández, ESP, D, -, -, 14-09-00, -, Zaragoza B
+29, Isaiah, ESP, M, 1.83, 75, 09-09-01, Las Palmas, Atlético Madrid B
+31, Iván Azón, ESP, F, 1.81, 78, 24-12-02, Zaragoza, Zaragoza B
+33, Miguel Puche, ESP, F, 1.79, 74, 30-04-01, Tarazona, Zaragoza B
+34, Ángel López, ESP, D, 1.76, 70, 17-02-03, Zaragoza, Zaragoza B
+35, Miguel Ángel Sanz, ESP, G, 1.82, 73, 12-03-03, Zaragoza, Zaragoza B
+37, Luismi Luengo, ESP, D, -, -, 19-03-01, Badajoz, Badajoz B
+38, Alberto Vaquero, ESP, M, -, -, 12-11-03, -, Zaragoza B
+39, Raúl Rubio, ESP, F, -, -, 04-07-99, Zaragoza, Brea
+40, Carlos Calavia, ESP, G, -, -, 17-04-03, -, Zaragoza B
+41, Guillermo Acín, ESP, G, 1.83, 74, 28-02-01, Zaragoza, Zaragoza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Gaizka Larrazabal, ESP, F, 1.80, 81, 17-12-97, Bilbao, Amorebieta (On Loan)
+29, Luis Carbonell, ESP, F, 1.69, 62, 27-04-03, Zaragoza, Real Madrid B (On Loan)
+5, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Real Sociedad B (On Loan)
+8, Adrián González, ESP, M, 1.83, 77, 25-05-88, Madrid, Fuenlabrada
+16, Íñigo Eguaras, ESP, M, 1.81, 76, 07-03-92, Antsoain, Almería
+12, James Igbekeme, NGA, M, 1.70, 66, 04-07-95, Lagos, Columbus Crew (On Loan)
+10, Javi Ros, ESP, M, 1.72, 67, 16-02-90, Pamplona, Amorebieta (On Loan)

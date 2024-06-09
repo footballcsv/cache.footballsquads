@@ -1,0 +1,53 @@
+=  Roma - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Patrício, POR, G, 1.90, 84, 15-02-88, Marrazes, Wolverhampton W
+2, Rick Karsdorp, NED, D, 1.84, 80, 11-02-95, Schoonhoven, Feyenoord
+3, Roger Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Atalanta
+4, Bryan Cristante, ITA, M, 1.86, 80, 03-03-95, San Vito al Tagliamento, Atalanta
+6, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Manchester U
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+8, Nemanja Matić, SRB, M, 1.94, 85, 01-08-88, Šabac, Manchester U
+9, Tammy Abraham, ENG, F, 1.90, 80, 02-10-97, Camberwell, Chelsea
+11, Andrea Belotti, ITA, F, 1.81, 84, 20-12-93, Calcinate, Torino
+14, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Leeds U
+18, Ola Solbakken, NOR, F, 1.86, 82, 07-09-98, Melhus, Bodø/Glimt
+19, Zeki Çelik, TUR, D, 1.80, 78, 17-02-97, Bursa, Lille
+20, Mady Camara, GUI, M, 1.82, 75, 28-02-97, Matam, Olympiakos
+21, Paulo Dybala, ARG, F, 1.77, 75, 15-11-93, Laguna Larga, Juventus
+23, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Pontedera, Atalanta
+24, Marash Kumbulla, ALB, D, 1.91, 78, 08-02-00, Peschiera del Garda, Verona
+25, Georginio Wijnaldum, NED, M, 1.75, 69, 11-11-90, Rotterdam, Paris St-Germain
+37, Leonardo Spinazzola, ITA, D, 1.86, 75, 25-03-93, Foligno, Juventus
+52, Edoardo Bove, ITA, M, 1.74, 61, 16-05-02, Rome, None
+55, Ebrima Darboe, GAM, M, 1.78, 69, 06-06-01, Bakoteh, None
+58, Filippo Missori, ITA, D, 1.82, 77, 24-03-04, Rome, None
+59, Nicola Zalewski, POL, D, 1.73, 62, 23-01-02, Tivoli, None
+60, Dimitrios Keramitsis, ITA, D, 1.93, 78, 01-07-04, Thessaloniki, Empoli
+62, Cristian Volpato, AUS, F, 1.87, 78, 15-11-03, Camperdown, None
+63, Pietro Boer, ITA, G, 1.93, 80, 12-05-02, Mestre, Venezia
+68, Benjamin Tahirovic, SWE, F, 1.83, -, 03-03-03, Spånga, Vasalunds IF
+72, Luigi Cherubini, ITA, F, 1.75, 75, 15-01-04, Tivoli, Lazio
+73, Giacomo Faticanti, ITA, M, 1.75, 70, 31-07-04, Rome, Frosinone
+74, Jan Oliveras, ESP, D, 1.72, 75, 07-07-04, Manresa, Barcelona
+76, Niccolò Pisilli, ITA, M, 1.80, 70, 23-09-04, Rome, None
+77, Jordan Majchrzak, POL, F, 1.86, 72, 08-10-04, Zawiercie, Legia Warszawa
+78, Gabriele Baldi, ITA, G, 1.96, -, 24-08-04, Rome, None
+80, Brian Silva, FRA, D, 1.89, 80, 02-06-03, Saint-Ouen, JA Drancy
+81, Corentin Louakima, FRA, D, 1.76, 62, 28-02-03, Carrières-sous-Poissy, Paris St-Germain
+82, Matteo Falasca, ITA, D, 1.78, 78, 27-04-04, Rome, None
+84, Jacopo Del Bello, ITA, G, -, -, 25-09-04, Castel Ritaldi, Perugia
+85, Riccardo Pagano, ITA, M, 1.75, 69, 28-11-04, Tivoli, None
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Shanghai Shenhua
+99, Mile Svilar, BEL, G, 1.89, 77, 27-08-99, Antwerp, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+64, Felix Afena-Gyan, GHA, F, 1.75, 75, 19-01-03, Sunyani, Cremonese
+13, Riccardo Calafiori, ITA, D, 1.83, 78, 19-05-02, Rome, Basel
+42, Amadou Diawara, GUI, M, 1.83, 75, 17-07-97, Conakry, Anderlecht
+65, Filippo Tripi, ITA, D, 1.80, 69, 06-01-02, Rome, Mura
+14, Eldor Shomurodov, UZB, F, 1.90, 81, 29-06-95, Jarkurgan, Spezia (On Loan)
+17, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Bournemouth (On Loan)
+22, Nicolò Zaniolo, ITA, M, 1.90, 79, 02-07-99, Massa, Galatasaray

@@ -1,0 +1,40 @@
+=  SC Freiburg - German Bundesliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexander Schwolow, GER, G, 1.89, 83, 02-06-92, Wiesbaden, Wehen-Wiesbaden
+3, Philipp Lienhart, AUT, D, 1.85, 78, 11-07-96, Lilienfeld, Real Madrid B
+4, Nico Schlotterbeck, GER, D, 1.91, 86, 01-12-99, Waiblingen, Karlsruhe
+5, Manuel Gulde, GER, D, 1.83, 73, 12-02-91, Mannheim, Karlsruhe
+6, Amir Abrashi, ALB, M, 1.72, 70, 27-03-90, Bischofszell, Grasshoppers
+7, Jonathan Schmid, FRA, M, 1.77, 69, 26-06-90, Strasbourg, Augsburg
+8, Mike Frantz, GER, M, 1.81, 76, 14-10-86, Saarbrücken, Nürnberg
+9, Lucas Höler, GER, F, 1.84, 79, 10-07-94, Achim, Sandhausen
+11, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Hamburg
+16, Yoric Ravet, FRA, M, 1.77, 72, 09-12-89, Echirolles, Young Boys
+17, Lukas Kübler, GER, D, 1.83, 73, 30-08-92, Bonn, Sandhausen
+18, Nils Petersen, GER, F, 1.86, 80, 06-12-88, Wernigerode, Werder Bremen
+19, Janik Haberer, GER, M, 1.87, 71, 02-04-94, Wangen im Allgäu, 1899 Hoffenheim
+21, Brandon Borrello, AUS, M, 1.78, 79, 25-07-95, Adelaide, Kaiserslautern
+22, Roland Sallai, HUN, M, 1.80, 69, 22-05-97, Székesfehérvár, APOEL
+23, Dominique Heintz, GER, D, 1.90, 85, 15-08-93, Neustadt an der Weinstraße, Köln
+24, Gian-Luca Itter, GER, D, 1.85, 72, 05-01-99, Gießen, Wolfsburg
+25, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Kaiserslautern
+26, Mark Flekken, NED, G, 1.95, 86, 13-06-93, Kerkrade, Duisburg
+27, Nicolas Höfler, GER, M, 1.81, 78, 09-03-90, Überlingen, Pfullendorf
+28, Kwon Chang-Hoon, KOR, M, 1.74, 66, 30-06-94, Seoul, Dijon
+30, Christian Günter, GER, D, 1.84, 81, 28-02-93, Villingen, None
+32, Vincenzo Grifo, ITA, M, 1.80, 75, 07-04-93, Pforzheim, 1899 Hoffenheim
+34, Lino Tempelmann, GER, M, 1.74, 75, 02-02-99, Munich, 1860 Munich
+36, Yannik Keitel, GER, M, 1.84, 81, 15-02-00, Breisach, None
+38, Florian Kath, GER, M, 1.85, 78, 21-10-94, Balingen, Balingen
+39, Fabian Rüdlin, GER, M, 1.76, 71, 13-01-97, Müllheim, None
+40, Niclas Thiede, GER, G, 1.87, 75, 14-04-99, Hagen, Bochum
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Patrick Kammerbauer, GER, M, 1.74, 73, 11-02-97, Weißenburg in Bayern, Eintracht Braunschweig (On Loan)
+34, Tim Kleindienst, GER, F, 1.94, 82, 31-08-95, Jüterbog, Heidenheim
+13, Marco Terrazzino, GER, M, 1.81, 67, 15-04-91, Mannheim, Dynamo Dresden (On Loan)
+20, Jérôme Gondorf, GER, M, 1.75, 74, 26-06-88, Karlsruhe, Karlsruhe (On Loan)
+29, Jeong Woo-Yeong, KOR, M, 1.79, 72, 20-09-99, Ulsan, Bayern Munich (On Loan)

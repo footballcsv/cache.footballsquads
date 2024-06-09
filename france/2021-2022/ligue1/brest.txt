@@ -1,0 +1,35 @@
+=  Brest - French Ligue 1 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gautier Larsonneur, FRA, G, 1.81, 69, 23-02-97, Saint-Renan, None
+2, Jean-Kévin Duverne, FRA, D, 1.84, 71, 12-07-97, Paris, Lens
+3, Lilian Brassier, FRA, D, 1.84, 78, 02-11-99, Argenteuil, Rennes
+5, Brendan Chardonnet, FRA, D, 1.81, 74, 22-12-94, Saint-Renan, None
+7, Haris Belkebla, ALG, M, 1.77, 68, 28-01-94, Drancy, Tours
+8, Paul Lasne, FRA, M, 1.83, 72, 16-01-89, Saint-Cloud, Montpellier
+9, Franck Honorat, FRA, F, 1.80, 70, 11-08-96, Toulon, St-Etienne
+10, Lucien Agoumé, FRA, M, 1.85, 75, 09-02-02, Yaoundé, Internazionale
+11, Martín Satriano, URU, F, 1.84, 75, 20-02-01, Montevideo, Internazionale
+14, Irvin Cardona, FRA, F, 1.85, 76, 08-08-97, Nîmes, Monaco
+15, Steve Mounié, BEN, F, 1.90, 80, 29-09-94, Parakou, Huddersfield T
+16, Sébastien Cibois, FRA, G, 1.87, 72, 02-03-98, Argenteuil, Paris St-Germain
+17, Denys Bain, FRA, D, 1.82, 74, 02-07-93, Dijon, Le Havre
+18, Ronaël Pierre-Gabriel, FRA, D, 1.77, 76, 13-08-98, Paris, Mainz
+19, Rafiki Saïd, COM, M, 1.78, 73, 15-03-00, Samba M'Bodoni, None
+20, Jere Uronen, FIN, D, 1.77, 69, 13-07-94, Turku, KRC Genk
+22, Julien Faussurier, FRA, D, 1.73, 70, 14-01-87, Lyon, Sochaux
+23, Christophe Hérelle, FRA, D, 1.88, 79, 22-08-92, Nice, Nice
+24, Youcef Belaïli, ALG, F, 1.78, 75, 14-03-92, Oran, Qatar SC
+25, Romain Del Castillo, FRA, M, 1.72, 56, 29-03-96, Lyon, Rennes
+26, Jérémy Le Douaron, FRA, F, 1.89, 77, 21-04-98, Saint-Brieuc, Saint-Brieuc
+27, Hugo Magnetti, FRA, M, 1.73, 72, 30-05-98, Marseille, Bastia
+28, Hianga'a M'Bock, FRA, M, 1.86, 82, 28-12-99, Brest, None
+30, Gregoire Coudert, FRA, G, 1.88, 77, 03-04-99, Rodez, Amiens
+40, Marco Bizot, NED, G, 1.84, 85, 10-03-91, Zwaag, AZ Alkmaar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Dijon (On Loan)
+29, Youssouph Badji, SEN, F, 1.92, 78, 20-12-01, Thionck Essyl, Club Brugge
+21, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Lyon

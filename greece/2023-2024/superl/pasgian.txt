@@ -1,0 +1,45 @@
+=  PAS Giannina - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, Lamia
+2, Carles Soria, ESP, D, 1.69, 72, 08-10-96, Calaf, Estoril
+3, Marios Tsaousis, GRE, D, 1.75, 74, 11-05-00, Thessaloniki, PAOK
+4, Epaminondas Pantelakis, GRE, D, 1.87, 83, 10-02-95, Chania, Panathinaikos
+5, Zissis Karahalios, GRE, M, 1.75, 72, 10-01-96, Karditsa, Levadiakos
+6, Jan Sobociński, POL, D, 1.86, 84, 20-03-99, Łódź, Charlotte FC
+7, Federico Gino, URU, M, 1.73, 74, 26-02-93, Melo, Platense
+8, Santiago Rosales, ARG, F, 1.80, 73, 22-03-95, Mar del Plata, Mitre (SdE)
+9, Pedro Conde, ESP, F, 1.86, 72, 26-07-88, Villafranca de Córdoba, Shabab Al-Ahli Dubai
+10, Juan Fernando Garro, ARG, F, 1.79, 68, 24-11-92, Mendoza, Huracán
+11, Kevin Rosero, COL, F, 1.78, 74, 03-12-98, -, Volos
+14, Giorgos Pamlidis, GRE, F, 1.79, 70, 13-11-93, Katerini, Apollon Smyrnis
+15, Rodrigo Erramuspe, ARG, D, 1.77, 72, 03-05-90, Mar del Plata, Belgrano (Córdoba)
+17, Jean-Baptiste Léo, FRA, F, 1.92, 80, 03-05-96, Lyon, Riga FC
+21, Panagiotis Tzimas, GRE, M, 1.81, 77, 12-03-01, Preveza, PAOK
+22, Jordi Osei-Tutu, ENG, D, 1.76, 70, 02-10-98, Slough, Bochum
+23, Daan Rienstra, NED, M, 1.75, 65, 06-10-92, Alkmaar, Volos
+24, Konstantinos Panagou, GRE, D, 1.75, 70, 11-06-98, Cholargos, Iraklis
+30, Giannis Kiakos, GRE, D, 1.82, 79, 14-02-98, Bamberg, Ionikos
+32, Leonid Mina, GRE, F, -, -, 28-03-04, -, None
+33, Dimitris Naoumis, GRE, D, -, -, 03-08-04, -, None
+45, Gerasimos Bakadimas, GRE, D, -, -, 06-06-00, -, Panetolikos
+46, Matúš Begala, SVK, M, 1.86, 75, 07-04-01, Stará Ľubovňa, MFK Zemplín Michalovce
+64, Vasilis Soulis, GRE, G, 1.99, 80, 07-12-94, Patras, Panachaiki
+70, Iason Kyrkos, GRE, M, -, -, 21-03-03, -, None
+74, Thomas Vrakas, GRE, G, -, -, 22-07-04, -, None
+77, Mete Kaan Demir, TUR, M, 1.69, 59, 13-05-98, Mainz, Eyüpspor
+80, Angelos Liasos, GRE, M, 1.85, 75, 26-05-00, Florina, None
+91, Claudiu Bălan, ROU, F, 1.84, 72, 22-06-94, Craiova, FC U Craiova
+99, Vasilis Athanasiou, GRE, G, 1.88, 77, 24-07-99, Aigio, Mantova
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Manssour Fofana, CIV, M, 1.75, 70, 10-07-02, Abobo, 
+8, Alexandros Lolis, GRE, M, 1.80, 68, 05-09-02, Igoumenitsa, Giouchtas (On Loan)
+20, Nikolaos Lolis, GRE, M, 1.87, 78, 20-01-05, Ioannina, Olympiakos
+32, Angelos Tsiris, GRE, M, -, -, 18-08-04, -, Giouchtas (On Loan)
+55, Boris Kleiman, ISR, G, 1.83, 78, 26-10-90, Vinnytsia, Chania (On Loan)
+6, Iker Bilbao, ESP, M, 1.81, 77, 20-03-96, Bilbao, Alcorcón
+28, Joseph Efford, USA, F, 1.76, 72, 29-08-96, Dacula, 
+25, Gerónimo Bortagaray, URU, D, 1.84, 75, 05-08-00, Salto, Ionikos

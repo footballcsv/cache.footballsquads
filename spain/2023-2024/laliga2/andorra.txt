@@ -1,0 +1,38 @@
+=  Andorra - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Ratti, ARG, G, 1.87, 81, 18-09-93, Mendoza, Sant Julià
+2, Migue Leal, ESP, D, 1.76, 68, 01-02-97, Villarreal, Villarreal B
+3, José Marsà, ESP, D, 1.83, 68, 04-03-02, Esplugues de Llobregat, Sporting CP
+4, Álex Pastor, ESP, D, 1.86, 79, 01-10-99, Barcelona, Sampdoria
+5, Adrià Vilanova, ESP, D, 1.87, 78, 11-02-97, Barcelona, Mallorca B
+6, Jandro Orellana, ESP, M, 1.78, 63, 07-08-00, Gavà, Barcelona B
+7, Julen Lobete, ESP, F, 1.78, 71, 18-09-00, Lezo, Celta Vigo
+8, Sergi Samper, ESP, M, 1.82, 73, 20-01-95, Barcelona, Vissel Kobe
+9, Jon Karrikaburu, ESP, F, 1.83, 82, 19-09-02, Elizondo, Real Sociedad B
+10, Iván Gil, ESP, M, 1.68, 63, 18-01-00, Viladecans, Espanyol B
+11, Álvaro Martín, ESP, M, 1.74, 64, 15-01-01, Madrid, Real Madrid B
+12, Christos Albanis, GRE, F, 1.84, 80, 05-11-94, Kalabaka, AEK
+13, Oier Olazábal, ESP, G, 1.89, 82, 14-09-89, Irún, Pafos
+14, Sergio Molina, ESP, M, 1.77, 63, 18-02-96, Madrid, Salamanca
+15, Diego González, ESP, D, 1.79, 72, 07-05-99, Villarreal, Costa Brava
+16, Diego Pampín, ESP, D, 1.73, 70, 15-03-00, Oleiros, Celta Vigo B
+17, Álex Calvo, ESP, F, 1.70, 66, 20-02-04, Córdoba, Málaga
+18, Álex Petxarroman, ESP, D, 1.79, 67, 06-02-97, San Sebastián, Athletic Bilbao
+19, Aurélien Scheidler, FRA, F, 1.92, 90, 04-06-98, Saint-Martin-Boulogne, Bari
+20, Martí Vila, ESP, D, 1.66, 62, 24-05-99, Berga, Deportivo La Coruña B
+21, Rubén Bover, ESP, M, 1.70, 66, 24-06-92, Palma de Mallorca, Barnet
+22, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Racing Santander
+23, Diego Alende, ESP, D, 1.80, 76, 24-08-97, Santiago de Compostela, Valladolid B
+24, Pablo Moreno, ESP, F, 1.78, 73, 03-05-02, Granada, Marítimo
+25, Dani Martín, ESP, G, 1.86, 76, 08-07-98, Gijón, Betis
+27, Iker Benito, ESP, F, 1.76, 71, 10-08-02, Miranda de Ebro, Osasuna B
+28, Bomba, ESP, D, 1.82, 78, 23-11-05, Sant Quirze del Vallès, Gimnàstic Manresa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Cartagena (On Loan)
+9, Manuel Nieto, ESP, F, 1.82, 72, 29-03-98, Villa del Río, Elche (On Loan)
+12, Laorent Shabani, SWE, M, 1.75, 67, 19-08-99, Malmö, IFK Norrköping
+22, Anderson Arroyo, COL, D, 1.80, 70, 27-09-99, Quibdó, Liverpool

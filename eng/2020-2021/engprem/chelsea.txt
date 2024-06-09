@@ -1,0 +1,71 @@
+=  Chelsea - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kepa Arrizabalaga, ESP, G, 1.89, 84, 03-10-94, Ondarroa, Athletic Bilbao
+2, Antonio Rüdiger, GER, D, 1.90, 85, 03-03-93, Berlin, Roma
+3, Marcos Alonso, ESP, D, 1.88, 84, 28-12-90, Madrid, Fiorentina
+4, Andreas Christensen, DEN, D, 1.88, 68, 10-04-96, Allerød, Brøndby
+5, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, Napoli
+6, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Paris St-Germain
+7, Ngolo Kanté, FRA, M, 1.68, 68, 29-03-91, Paris, Leicester C
+9, Tammy Abraham, ENG, F, 1.90, 72, 02-10-97, Camberwell, None
+10, Christian Pulisic, USA, F, 1.73, 63, 18-09-98, Easton, Borussia Dortmund
+11, Timo Werner, GER, F, 1.80, 75, 06-03-96, Stuttgart, RB Leipzig
+13, Wilfredo Caballero, ARG, G, 1.86, 80, 28-09-81, Salta Elena, Manchester C
+15, Kurt Zouma, FRA, D, 1.90, 96, 27-10-94, Lyon, St-Etienne
+16, Édouard Mendy, SEN, G, 1.97, 86, 01-03-92, Montivilliers, Rennes
+17, Mateo Kovačić, CRO, M, 1.81, 75, 06-05-94, Linz, Real Madrid
+18, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Arsenal
+19, Mason Mount, ENG, M, 1.78, 64, 10-01-99, Portsmouth, None
+20, Callum Hudson-Odoi, ENG, M, 1.77, 75, 07-11-00, Wandsworth, None
+21, Ben Chilwell, ENG, D, 1.78, 71, 21-12-96, Milton Keynes, Leicester C
+22, Hakim Ziyech, MAR, M, 1.80, 70, 19-03-93, Dronten, Ajax
+23, Billy Gilmour, SCO, M, 1.70, 66, 11-06-01, Irvine, Rangers
+24, Reece James, ENG, D, 1.83, 71, 08-12-99, Redbridge, None
+28, César Azpilicueta, ESP, D, 1.78, 78, 28-08-89, Pamplona, Marseille
+29, Kai Havertz, GER, M, 1.87, 75, 11-06-99, Aachen, Bayer Leverkusen
+33, Emerson Palmieri, ITA, D, 1.76, 63, 03-08-94, Santos, Roma
+39, Petr Čech, CZE, G, 1.96, 90, 20-05-82, Plzeň, Arsenal
+40, Karlo Žiger, CRO, G, 1.86, 82, 11-05-01, Zagreb, Zagreb
+45, George McEachran, ENG, M, 1.74, 65, 30-08-00, Oxford, None
+46, Dynel Simeu, ENG, D, -, -, 13-03-02, Yaoundé, None
+47, Henry Lawrence, ENG, M, -, -, 21-09-01, Southwark, None
+48, Pierre Ekwah, FRA, M, 1.89, 81, 15-01-02, Massy, Nantes
+49, Thierno Ballo, AUT, M, 1.72, 60, 02-01-02, Abidjan, Viktoria Köln
+50, George Nunn, ENG, F, -, -, 23-11-01, Crewe, None
+51, Marcel Lewis, ENG, M, 1.73, 66, 30-09-01, Cambridge, None
+53, Sam McClelland, NIR, D, 1.91, 79, 04-01-02, Coleraine, Coleraine
+54, Lewis Bate, ENG, M, -, -, 29-10-02, Sidcup, None
+55, Tino Anjorin, ENG, M, 1.85, 73, 23-11-01, Poole, None
+56, Levi Colwill, ENG, D, 1.87, 75, 26-02-03, Southampton, None
+57, Tino Livramento, ENG, D, 1.73, 63, 12-11-02, Croydon, None
+58, Myles Peart-Harris, ENG, M, 1.87, 70, 18-09-02, Isleworth, None
+59, Dion Rankine, ENG, M, 1.70, 63, 15-10-02, Barnet, None
+60, Xavier Simons, ENG, M, 1.85, 73, 20-02-03, Hammersmith, Brenford
+61, Josh Brooking, ENG, D, -, -, 01-09-02, Reading, Reading
+62, Bashir Humphreys, ENG, D, 1.86, 79, 15-03-03, Exeter, None
+63, Charlie Wiggett, ENG, D, -, -, 02-11-02, Reading, Swindon T
+64, Bryan Fiabema, NOR, F, 1.79, 73, 16-02-03, Tromsø, Tromsø
+65, Ben Elliott, ENG, M, 1.80, 71, 05-12-02, Kingston upon Thames, None
+66, Joe Haigh, ENG, M, -, -, 16-03-03, Tooting, None
+67, Harvey Vale, ENG, M, -, -, 11-09-03, Hawyards Heath, Fulham
+68, Charlie Webster, ENG, M, -, -, 31-10-04, Kingston upon Thames, None
+70, Ethan Wady, USA, G, -, -, 25-01-02, San Jose, None
+71, Lucas Bergström, FIN, G, 1.99, 82, 05-09-02, Paragas, Turun PS
+72, Prince Adegoke, ENG, G, -, -, 03-11-03, Farnborough, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, Aston Villa (On Loan)
+41, Luke McCormick, ENG, M, 1.75, 74, 21-01-99, Bury St Edmunds, Bristol R (On Loan)
+44, Jon Russell, ENG, M, 1.92, 81, 09-10-00, Hounslow, Accrington Stanley (On Loan)
+12, Ruben Loftus-Cheek, ENG, M, 1.91, 88, 23-01-96, Lewisham, Fulham (On Loan)
+31, Nathan Baxter, ENG, G, 1.91, 76, 08-11-98, Westminster, Accrington Stanley (On Loan)
+52, Ian Maatsen, NED, D, 1.67, 57, 10-03-02, Vlaardingen, Charlton Ath (On Loan)
+73, Kelechi Chibueze, ENG, G, -, -, 14-12-03, Lewisham, Leicester C
+42, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, ADO Den Haag (On Loan)
+38, Charlie Brown, ENG, F, 1.83, 78, 23-09-99, Ipswich, MK Dons
+37, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Kasımpaşa (On Loan)
+14, Fikayo Tomori, ENG, D, 1.84, 75, 19-12-97, Calgary, Milan (On Loan)
+43, Jack Wakely, ENG, D, 1.94, 75, 25-10-00, High Wycombe, Brighton & HA (On Loan)

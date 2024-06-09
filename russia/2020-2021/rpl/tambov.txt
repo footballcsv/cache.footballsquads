@@ -1,0 +1,58 @@
+=  FC Tambov - Russian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Krylia Sovetov
+2, Moris Nusuev, RUS, D, 1.92, 85, 28-06-97, -, Merani Martvili
+3, Aleksandr Denisov, RUS, D, 1.86, 78, 23-02-89, Tula, Arsenal Tula
+4, Cătălin Carp, MDA, M, 1.84, 77, 20-10-93, Chișinău, FC Ufa
+5, Aleksandr Yerkin, RUS, M, 1.87, 87, 01-09-89, St Petersburg, Noah Jūrmala
+7, Azer Aliyev, RUS, M, 1.68, 62, 12-05-94, Krasnoyarsk, FC Ufa
+8, Dmitry German, BLR, M, 1.78, 75, 12-06-88, Biaroza, Noah Jūrmala
+9, Artyom Arkhipov, RUS, F, 1.86, 76, 15-12-96, Tambov, Kuban Krasnodar
+10, Yevheniy Chabanov, RUS, M, 1.75, 69, 08-08-97, Komsomolsk-on-Amur, Kuban Krasnodar
+13, Vitaliy Shakhov, RUS, D, 1.88, 74, 09-01-91, Severny, FC Orenburg
+14, Yuriy Bavin, RUS, M, 1.72, 67, 05-02-94, Slautnoe, FC Ural
+17, Zurab Gigashvili, GEO, D, 1.89, 80, 20-11-01, Tbilisi, FC Armavir
+18, Kirill Klimov, RUS, F, 1.91, 79, 30-01-01, Oryol, Rubin Kazan
+19, Anton Terekhov, RUS, M, 1.86, 77, 30-01-98, Surgut, Dynamo Moscow
+23, Vladislav Karapuzov, RUS, M, 1.80, 67, 06-01-00, Norilsk, Dynamo Moscow
+24, Denis Kaykov, RUS, D, 1.90, 80, 12-08-97, Moscow, Neftekhimik Nizhnekamsk
+26, Farkhod Vosiyev, TJK, D, 1.78, 72, 14-04-90, Dushanbe, Neftekhimik Nizhnekamsk
+30, Rodion Syamuk, BLR, G, 1.87, 75, 11-03-89, Novovolynsk, Torpedo Zhodino
+31, Nikita Drozdov, RUS, M, 1.74, 66, 21-04-92, Moscow, Fakel Voronezh
+35, Vitaliy Sychev, RUS, G, 2.00, 96, 02-03-00, Barnaul, Kazanka Moscow
+37, Roman Minayev, RUS, F, 1.78, 78, 24-12-97, Kursk, Arsenal Tula
+55, Ilya Martynov, RUS, D, 1.85, 78, 25-01-00, Rostov-on-Don, FC Krasnodar-2
+77, Said-Ali Akhmaev, RUS, M, 1.82, 72, 30-05-96, Moscow, Ararat Moscow
+81, Vladimir Kabakhidze, RUS, M, 1.75, 68, 09-09-99, Krasnodar, Universport-Progress Krasnodar
+87, Tigran Avanesyan, RUS, M, 1.75, 67, 13-04-02, Kaliningrad, CSKA-2
+99, David Tosevski, MKD, F, 1.86, 75, 16-07-01, Skopje, FC Rostov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Vladimir Obukhov, RUS, F, 1.84, 77, 08-02-92, Bukhara, FC Rostov
+12, Aleksandr Golovnya, RUS, D, 1.95, 80, 27-10-98, Moscow, Rodina Moscow
+10, Kirill Panchenko, RUS, F, 1.85, 80, 16-10-89, Stavropol, Arsenal Tula
+7, Vitaly Balashov, UKR, M, 1.70, 60, 07-02-91, Odessa, Shakhter Karagandy
+19, Mohammed Rabiu, GHA, M, 1.87, 76, 31-12-89, Accra, 
+2, Aleksei Rybin, RUS, D, 1.78, 67, 26-01-88, Lipetsk, Kuban Krasnodar
+58, Adessoye Oyewole, RUS, D, 1.84, 79, 18-09-82, Moscow, FC Orenburg (On Loan)
+5, Yevgeni Shlyakov, RUS, D, 1.83, 73, 30-08-91, Bryansk, UTA Arad
+31, Sebastien Thill, LUX, M, 1.79, 73, 29-12-93, Luxembourg, Progrès Niederkorn
+9, German Onugkha, RUS, F, 1.90, 85, 06-07-96, Moscow, FC Krasnodar-2
+7, Jasurbek Jaloliddinov, UZB, M, 1.64, 59, 15-05-02, Navoiy, Lokomotiv Moscow
+3, Guram Tetrashvili, RUS, M, 1.78, 75, 02-08-88, Vladikavkaz, 
+27, Aleksey Gritsayenko, RUS, D, 1.86, 80, 25-05-95, Vladivostok, Rubin Kazan
+77, Mikhail Kostyukov, RUS, M, 1.82, 76, 09-08-91, Nizhny Novgorod, Rubin Kazan
+11, Maksim Valadzko, BLR, D, 1.80, 77, 10-11-92, Minsk, BATE
+87, Aleksandre Karapetian, ARM, F, 1.84, 83, 23-12-87, Tbilisi, Ararat-Armenia
+29, Oleksandr Kaplienko, UKR, D, 1.62, 56, 07-03-96, Zaporizhya, Torpedo Moscow
+30, Soslan Takazov, RUS, D, 1.86, 75, 28-02-93, Vladikavkaz, Kuban Krasnodar
+18, Varazdat Haroyan, ARM, D, 1.85, 76, 24-08-92, Yerevan, Astana
+8, Anton Kilin, RUS, M, 1.69, 61, 14-11-90, Izhevsk, Akron Tolyatti
+25, Pavel Karasev, RUS, M, 1.75, 70, 10-07-92, Drezna, BATE
+44, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Akron Tolyatti
+73, Nikita Chagrov, RUS, G, 2.01, 96, 24-04-95, Moscow, 
+90, Dmitriy Merenchukov, RUS, F, 1.76, 70, 03-03-99, Leninsk-Kuznetskiy, 
+92, Valeriu Ciupercă, MDA, M, 1.79, 73, 12-06-92, Tiraspol, Astana

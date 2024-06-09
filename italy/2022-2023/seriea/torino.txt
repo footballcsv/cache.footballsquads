@@ -1,0 +1,51 @@
+=  Torino - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, SPAL
+2, Brian Bayeye, FRA, M, 1.82, 70, 30-06-00, Paris, Catanzaro
+3, Perr Schuurs, NED, D, 1.93, 80, 26-11-99, Nieuwstadt, Ajax
+4, Alessandro Buongiorno, ITA, D, 1.94, 80, 06-06-99, Turin, None
+5, Andrew Gravillon, FRA, D, 1.88, 75, 08-02-98, Pointe-à-Pitre, Reims
+6, David Zima, CZE, D, 1.90, 80, 08-11-00, Olomouc, Slavia Prague
+7, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Parma
+8, Ivan Ilić, SRB, M, 1.85, 78, 17-03-01, Niš, Verona
+9, Antonio Sanabria, PAR, F, 1.81, 73, 04-03-96, San Lorenzo, Betis
+11, Pietro Pellegri, ITA, F, 1.88, 80, 17-03-01, Genoa, Monaco
+13, Ricardo Rodríguez, SUI, D, 1.82, 77, 25-08-92, Zürich, Milan
+14, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Sampdoria
+16, Nikola Vlašić, CRO, M, 1.78, 80, 04-10-97, Split, West Ham U
+17, Wilfried Singo, CIV, D, 1.90, 79, 25-12-00, Grand-Béréby, AS Denguélé
+19, Valentino Lazaro, AUT, M, 1.80, 75, 24-03-96, Graz, Internazionale
+21, Michel Ndary Adopo, FRA, M, 1.87, 84, 19-07-00, Villeneuve-Saint-Georges, Torcy
+23, Demba Seck, SEN, F, 1.90, 81, 10-02-01, Guediawaye, SPAL
+26, Koffi Djidji, FRA, D, 1.84, 71, 30-11-92, Bagnolet, Nantes
+27, Mërgim Vojvoda, KVX, D, 1.87, 78, 01-02-95, Hof, Standard Liège
+28, Samuele Ricci, ITA, M, 1.80, 73, 21-08-01, Pontedera, Empoli
+32, Vanja Milinković-Savić, SRB, G, 2.02, 90, 20-02-97, Ourense, Lechia Gdańsk
+33, Sebas Wade, ENG, D, 1.90, -, 09-04-03, Palma de Mallorca, Villarreal
+34, Ola Aina, NGA, D, 1.84, 82, 08-10-96, Southwark, Chelsea
+49, Nemanja Radonjić, SRB, M, 1.85, 76, 15-02-96, Niš, Marseille
+50, Ali Dembélé, FRA, D, 1.85, 69, 05-01-04, -, Troyes
+59, Aleksey Miranchuk, RUS, M, 1.82, 74, 17-10-95, Slavyansk-na-Kubani, Atalanta
+65, Pietro Passador, ITA, G, 1.93, 75, 26-02-03, Pordenone, Pordenone
+66, Gvidas Gineitis, LTU, M, 1.87, 79, 15-04-04, Mažeikiai, SPAL
+73, Matteo Fiorenza, ITA, G, 1.95, 85, 15-06-03, -, Juventus
+76, Luigi Caccavo, ITA, F, 1.90, -, 03-02-04, Bari, Monza
+77, Karol Linetty, POL, M, 1.76, 73, 02-02-95, Żnin, Sampdoria
+78, Andrei Anton, ROU, D, 1.75, -, 23-08-03, Novara, Pro Vercelli
+81, Aaron Ciammaglichella, ITA, M, 1.80, 70, 26-01-05, Turin, None
+89, Luca Gemello, ITA, G, 1.90, 78, 03-07-00, Savigliano, Fossano
+94, Ange Caumenan N'Guessan, FRA, D, 1.88, 81, 01-09-03, Paris, Lens
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Jacopo Segre, ITA, M, 1.80, 76, 17-02-97, Turin, Palermo
+7, Simone Zaza, ITA, F, 1.86, 78, 25-06-91, Policoro, 
+5, Armando Izzo, ITA, D, 1.83, 81, 02-03-92, Naples, Monza (On Loan)
+24, Simone Verdi, ITA, F, 1.74, 72, 12-07-92, Broni, Verona (On Loan)
+18, Krisztofer Horváth, HUN, M, 1.72, 63, 08-01-02, Hévíz, Kecskemét (On Loan)
+10, Saša Lukić, SRB, M, 1.83, 77, 13-08-96, Šabac, Fulham
+14, Emirhan İlkhan, TUR, M, 1.75, 68, 01-06-04, İstanbul, Sampdoria (On Loan)
+20, Simone Edera, ITA, F, 1.74, 72, 09-01-97, Turin, Pordenone
+36, Matthew Garbett, NZL, F, 1.82, 69, 13-04-02, London, NAC Breda (On Loan)

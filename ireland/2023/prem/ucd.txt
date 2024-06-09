@@ -1,0 +1,44 @@
+=  UCD - League of Ireland Premier Division 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lorcan Healy, IRL, G, 1.95, 82, 23-05-00, Haywards Heath, Maidstone U
+2, Michael Gallagher, IRL, D, -, -, 09-07-00, -, Finn Harps
+3, Evan Osam, IRL, D, 1.78, 65, 17-08-97, Dublin, Shamrock R
+4, Ryan Bowden, IRL, D, 1.88, 80, 19-08-03, Athy, Bray W
+5, Adam Wells, IRL, D, -, -, 26-03-03, -, Shamrock C
+6, Jack Keaney, IRL, M, 1.85, 66, 18-01-99, Sligo, Sligo R
+7, Brendan Barr, IRL, M, -, -, 05-05-01, -, Derry C
+8, Mark Dignam, IRL, M, 1.70, 61, 17-04-99, Dublin, Cabinteely
+9, Mikey Raggett, IRL, F, -, -, 12-04-04, Kilkenny, Shamrock R
+10, Ciaran Behan, IRL, M, -, -, 28-04-01, -, None
+12, Daniel Babb, IRL, D, -, -, 15-01-06, -, None
+13, Jesse Dempsey, IRL, M, -, -, 15-01-05, -, None
+14, Harry O'Connor, IRL, M, -, -, 27-09-05, -, None
+15, Ryan McBrearty, IRL, M, -, -, 30-08-05, -, None
+16, Kian Moore, IRL, G, -, -, 31-03-03, -, Bohemians
+17, Dara Keane, IRL, M, 1.78, 76, 24-12-98, Waterford, Evergreen
+18, Donal Higgins, IRL, F, -, -, 10-09-01, -, Galway U
+19, Sami Clarke, IRL, F, 1.83, -, 31-07-03, Mullingar, Athlone T
+20, Sam Healy, IRL, G, -, -, 29-07-05, -, None
+21, Danu Kinsella-Bishop, IRL, F, -, -, 22-12-01, Dublin, None
+22, Harry Curtis, IRL, D, 1.88, 80, 08-04-04, Wexford, Wexford
+23, Lennon Gill, IRL, F, -, -, 24-08-04, -, None
+24, Harvey O'Brien, IRL, D, 1.92, 83, 31-10-00, Claremorris, None
+25, Danny Norris, IRL, M, -, -, 17-02-03, -, St Patrick's Ath
+26, Luke O'Regan, iRL, D, -, -, 17-02-05, -, None
+27, Divine Izekor, IRL, M, 1.85, 78, 02-02-05, Dublin, Bohemians
+28, Fintan Agnew, IRL, G, -, -, 07-10-05, -, None
+29, Jake Doyle, IRL, F, -, -, 28-04-05, -, None
+31, Kyle Donoghue, IRL, M, -, -, 30-03-06, Kildare, None
+32, Daniel McCarthy, IRL, M, -, -, 27-01-04, -, None
+33, Colin Bolton, IRL, M, -, -, 27-02-05, -, None
+35, Matthew Alonge, IRL, M, -, -, -, -, None
+36, Sean Brennan, IRL, M, 1.80, 73, 05-07-01, Blanchardstown, Drogheda U
+37, Adam Verdon, IRL, M, -, -, 25-01-02, -, Longford T
+38, Éanna Clancy, IRL, D, 1.85, 76, 26-02-04, Glenfarne, Sligo R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Alex Nolan, IRL, F, -, -, 20-03-03, Dublin, St Patrick's Ath
+22, Sam Todd, NIR, D, 1.85, 76, 28-04-98, Carndonagh, Derry C

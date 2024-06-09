@@ -1,0 +1,48 @@
+=  Burton Albion - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Max Crocombe, NZL, G, 1.93, 88, 12-08-93, Auckland, Grimsby T
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+3, Steve Seddon, ENG, D, 1.79, 68, 25-12-97, Reading, Oxford U
+4, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, Charlton Ath
+5, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Leicester C
+6, Ryan Sweeney, IRL, D, 1.93, 87, 15-04-97, Kingston upon Thames, Dundee
+7, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, West Ham U
+8, Rekeem Harper, ENG, M, 1.83, 64, 08-03-00, Birmingham, Ipswich T
+11, Mason Bennett, ENG, F, 1.78, 65, 15-07-96, Shirebrook, Millwall
+12, Jasper Moon, ENG, D, 1.86, 77, 24-11-00, Coventry, Barnsley
+13, Jake Kean, ENG, G, 1.93, 76, 04-02-91, Derby, Notts Co
+15, Kyle Hudlin, ENG, F, 2.10, 85, 15-06-00, Birmingham, Huddersfield T
+16, Kgaogelo Chauke, RSA, M, 1.77, 65, 08-01-03, Pretoria, Southampton
+17, Mark Helm, ENG, M, 1.73, 61, 21-01-01, Warrington, Burnley
+18, Bobby Kamwa, CMR, M, 1.83, 77, 18-03-00, Yaoundé, Leeds U
+20, Ademola Ola-Adebomi, ENG, F, -, -, 03-09-03, Lambeth, Crystal Palace
+21, Mustapha Carayol, GAM, M, 1.77, 75, 10-06-89, Banjul, Gillingham
+22, Jake Caprice, ENG, D, 1.79, 73, 11-11-92, Lambeth, Exeter C
+23, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, Rotherham U
+24, Jonathan Leko, ENG, F, 1.82, 75, 24-04-99, Kinshasa, MK Dons
+25, Ciaran Gilligan, ENG, M, 1.80, 79, 19-01-02, Derby, None
+27, Tom Hewlett, ENG, F, 1.75, 70, 17-10-01, Birmingham, None
+30, Jamal Blackman, ENG, G, 1.96, 82, 27-10-93, Croydon, Exeter C
+32, Antwoine Hackford, ENG, F, -, -, 20-03-04, Sheffield, Sheffield U
+34, Kamil Dudek, POL, G, -, -, -, -, Port Vale
+35, Jakub Niemczyk, POL, F, 1.78, 75, 22-01-04, Zielona Góra, None
+36, Kyan Baker-McKay, ENG, F, -, -, -, -, None
+37, Tom Hamer, ENG, D, 1.87, 80, 16-11-99, Bolton, Oldham Ath
+38, Dylan Scott, ENG, F, -, -, -, -, None
+39, Ronny Wakelin, ENG, M, -, -, -, -, None
+40, William Tamen, ENG, D, -, -, -, -, None
+44, Joe Hugill, ENG, F, -, -, 19-10-03, Durham, Manchester U
+46, Aristote Nsiala, COD, D, 1.93, 83, 25-03-92, Kinshasa, Fleetwood T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Josh Gordon, ENG, F, 1.78, 70, 19-01-95, Stoke-on-Trent, Walsall (On Loan)
+19, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, Sutton U (On Loan)
+24, Kwadwo Baah, GER, F, 1.83, 75, 27-01-03, Horb am Neckar, Watford
+9, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Barrow (On Loan)
+14, Josh Walker, ENG, F, 1.76, 71, 28-12-97, Tower Hamlets, Gillingham (On Loan)
+15, Beryly Lubala, COD, F, 1.79, 76, 08-01-98, -, Wycombe W
+32, Daniel Matthews, ENG, M, -, -, -, -, 
+26, Finn Delap, ENG, D, -, -, 10-06-05, Winchester, Woking (On Loan)

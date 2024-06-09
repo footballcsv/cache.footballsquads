@@ -1,0 +1,50 @@
+=  Swansea City - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, Croydon, Newcastle U
+2, Ryan Bennett, ENG, D, 1.88, 70, 06-03-90, Orsett, Wolverhampton W
+3, Ryan Manning, IRL, D, 1.72, 66, 14-06-96, Galway, QPR
+5, Marc Guehi, ENG, D, 1.82, 82, 13-07-00, Abidjan, Chelsea
+6, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Falkirk
+7, Korey Smith, ENG, M, 1.83, 78, 31-01-91, Hatfield, Bristol C
+8, Matt Grimes, ENG, M, 1.78, 70, 15-07-95, Exeter, Exeter C
+9, Jamal Lowe, JAM, F, 1.83, 79, 27-01-94, Harrow, Wigan Ath
+10, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, West Ham U
+11, Jordan Morris, USA, F, 1.83, 84, 26-10-94, Seattle, Seattle Sounders
+13, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, 1860 Munich
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Aston Villa
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+17, Morgan Whittaker, ENG, F, 1.83, 69, 07-01-01, Derby, Derby Co
+18, Ben Hamer, ENG, G, 1.93, 78, 20-11-87, Taunton, Huddersfield T
+19, Paul Arriola, USA, F, 1.67, 66, 05-02-95, Fontana, DC United
+20, Liam Cullen, WAL, F, 1.78, 63, 23-04-99, Haverfordwest, None
+21, Yan Dhanda, ENG, M, 1.73, 65, 14-12-98, Birmingham, Liverpool
+22, Joel Latibeaudiere, ENG, D, 1.90, 71, 06-01-00, Doncaster, Manchester C
+23, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, None
+24, Jake Bidwell, ENG, D, 1.83, 70, 21-03-93, Southport, QPR
+26, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Tottenham H
+27, Josh Gould, WAL, G, 1.95, 92, 27-03-97, Taunton, Taff's Well
+30, Tivonge Rushesha, WAL, D, 1.61, 53, 24-07-02, -, None
+31, Ollie Cooper, WAL, M, 1.76, 68, 14-12-99, Derby, None
+34, Kieron Freeman, WAL, D, 1.78, 79, 21-03-92, Bestwood, Swindon T
+36, Brandon Cooper, WAL, D, 1.85, 74, 14-01-00, Bridgend, None
+37, Daniel Williams, WAL, M, 1.72, 65, 19-04-01, Swansea, None
+42, Lewis Webb, WAL, G, 1.85, 72, 12-09-01, Newport, Merthyr T
+44, Ben Cabango, WAL, D, 1.91, 75, 30-05-00, Cardiff, None
+49, Jamie Searle, NZL, G, 1.91, 79, 25-11-00, Whakatāne, Aston Villa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, 
+17, Kristoffer Peterson, SWE, F, 1.80, 70, 28-11-94, Gothenburg, Fortuna Düsseldorf
+4, Joe Rodon, WAL, D, 1.90, 76, 22-10-97, Swansea, Tottenham H
+45, Kasey Palmer, JAM, M, 1.80, 68, 09-11-96, Lewisham, Bristol C
+11, Morgan Gibbs-White, ENG, M, 1.78, 60, 27-01-00, Stafford, Wolverhampton W
+34, Jack Evans, WAL, M, 1.78, 69, 25-04-98, Swansea, Newport Co
+14, Viktor Gyökeres, SWE, F, 1.87, 86, 04-06-98, Stockholm, Brighton & HA
+28, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, Portsmouth (On Loan)
+39, Joe Lewis, WAL, D, 1.88, 85, 20-09-99, Neath, Torquay U
+41, Jordan Garrick, ENG, F, 1.83, 78, 15-07-98, -, Swindon T (On Loan)
+16, Joel Asoro, SWE, F, 1.75, 75, 27-04-99, Stockholm, Djurgårdens IF
+38, Cameron Evans, WAL, D, 1.88, 77, 23-02-01, Swansea, Waterford (On Loan)

@@ -1,0 +1,68 @@
+=  Watford - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Stoke C
+2, Jeremy Ngakia, ENG, D, 1.84, 71, 07-09-00, Lewisham, West Ham U
+3, Mario Gaspar, ESP, D, 1.82, 74, 24-11-90, Novelda, Villarreal
+4, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, Leicester C
+6, Imrân Louza, MAR, M, 1.78, 65, 01-05-99, Nantes, Nantes
+7, Keinan Davis, ENG, F, 1.91, 68, 01-06-98, Stevenage, Aston Villa
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+10, João Pedro, BRA, F, 1.82, 70, 26-09-01, Ribeirão Preto, Fluminense
+11, Ismaël Koné, CAN, M, 1.88, 76, 06-06-02, Abidjan, CF Montréal
+12, Ken Sema, SWE, M, 1.77, 69, 30-09-93, Norrköping, Östersunds FK
+13, João Ferreira, POR, D, 1.84, 79, 22-03-01, Póvoa de Varzim, Benfica
+14, Hassane Kamara, CIV, D, 1.68, 67, 19-09-94, Saint-Denis, Udinese
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+18, Yaser Asprilla, COL, M, 1.85, 75, 19-11-03, Bajo Baudó, Envigado
+21, Henrique Araújo, POR, F, 1.82, 75, 19-01-02, Funchal, Benfica
+22, Ryan Porteous, SCO, D, 1.85, 68, 01-03-99, Dalkeith, Hibernian
+23, Ismaïla Sarr, SEN, F, 1.78, 68, 25-02-98, Saint-Louis, Rennes
+24, Tom Dele-Bashiru, NGA, M, 1.79, 68, 17-09-99, Manchester, Manchester C
+25, Leandro Bacuna, CUW, M, 1.87, 77, 21-08-91, Groningen, Cardiff C
+26, Ben Hamer, ENG, G, 1.93, 78, 20-11-87, Taunton, Swansea C
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+28, Samuel Kalu, NGA, F, 1.76, 68, 26-08-97, Aba, Bordeaux
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Aston Villa
+31, Francisco Sierralta, CHI, D, 1.90, 83, 06-05-97, Las Condes, Udinese
+34, Britt Assombalonga, COD, F, 1.77, 76, 06-12-92, Kinshasa, Adana Demirspor
+35, Maduka Okoye, NGA, G, 1.97, 90, 28-08-99, Düsseldorf, Sparta Rotterdam
+37, Matheus Martins, BRA, F, 1.79, 77, 16-07-03, Campo Grande, Udinese
+39, Edo Kayembe, COD, M, 1.83, 77, 03-06-98, Kananga, Eupen
+42, James Morris, ENG, D, -, -, 23-11-01, Portsmouth, Southampton
+44, Wesley Hoedt, NED, D, 1.88, 80, 06-03-94, Alkmaar, Anderlecht
+49, Michael Adu-Poku, ENG, F, -, -, 22-09-05, Hackney, None
+50, Adrian Blake, ENG, F, -, -, 15-07-05, Islington, None
+51, Harry Amass, ENG, D, -, -, 16-05-07, -, None
+52, Max Delyfer, ENG, M, -, -, 08-07-04, Hatfield, Potters Bar T
+53, Jack Grieves, ENG, F, -, -, 05-12-04, Watford, None
+54, Tobi Adeyemo, ENG, F, -, -, 14-03-05, Hackney, None
+55, George Abbott, WAL, D, -, -, 22-01-05, Westminster, None
+56, Charlie Davis, ENG, M, -, -, 16-09-04, Watford, None
+57, Ryan Andrews, ENG, D, -, -, 26-08-04, Watford, None
+58, Damani Hunter, ENG, F, -, -, 23-04-04, Leytonstone, None
+59, Aidan Coyne, AUS, D, 1.81, 70, 12-05-04, Luton, Perth Glory
+60, Alfie Marriott, ENG, G, -, -, 26-03-04, Watford, None
+61, Jonathan Macauley, SWE, G, -, -, 17-03-05, Kalmar, None
+62, Myles Roberts, ENG, G, -, -, 09-12-01, Reading, Reading
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, JJ McKiernan, NIR, M, 1.84, 75, 18-01-02, Southampton, Eastleigh (On Loan)
+30, Pontus Dahlberg, SWE, G, 1.94, 84, 21-01-99, Gothenburg, IFK Göteborg
+17, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Wigan Ath (On Loan)
+22, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, UANL Tigres
+25, Emmanuel Dennis, NGA, F, 1.74, 67, 15-11-97, Abuja, Nottingham F
+13, Adalberto Peñaranda, VEN, F, 1.85, 78, 31-05-97, El Vigia, Boavista
+33, Ignacio Pussetto, ARG, F, 1.80, 74, 21-12-95, Cañada Rosquín, Sampdoria (On Loan)
+37, Dapo Mebude, SCO, F, 1.89, 73, 29-07-01, Lambeth, Oostende
+47, Shaqai Forde, ENG, F, -, -, 05-05-04, Watford, York C (On Loan)
+36, Joseph Hungbo, ENG, M, 1.73, 70, 15-01-00, Lambeth, Huddersfield T (On Loan)
+5, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, Salernitana (On Loan)
+32, Mattie Pollock, ENG, D, 1.90, 80, 28-09-01, Redhill, Aberdeen (On Loan)
+19, Vakoun Issouf Bayo, CIV, F, 1.84, 72, 10-01-97, Daloa, Charleroi (On Loan)
+41, Vincent Angelini, SCO, G, 1.86, 80, 12-09-03, Glasgow, Brentford
+20, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Rotherham U (On Loan)
+9, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, 
+16, Dan Gosling, ENG, M, 1.83, 79, 02-02-90, Brixham, 

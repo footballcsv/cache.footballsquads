@@ -1,0 +1,43 @@
+=  LASK Linz - Austrian Bundesliga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexander Schlager, AUT, G, 1.84, 77, 01-02-96, Salzburg, FC Liefering
+3, Oumar Sako, CIV, D, 1.91, 79, 04-05-96, Abobo, Beroe Stara Zagora
+4, Yannis Letard, FRA, D, 1.88, 86, 18-08-98, Saint-Herblain, St. Gallen
+5, Petar Filipović, CRO, D, 1.88, 81, 14-09-90, Hamburg, Konyaspor
+6, Philipp Wiesinger, AUT, D, 1.82, 74, 23-05-94, Salzburg, FC Liefering
+7, René Renner, AUT, M, 1.82, 69, 29-11-93, Wels, Mattersburg
+8, Peter Michorl, AUT, M, 1.76, 71, 09-05-95, Vienna, Austria Vienna
+10, Marko Raguž, AUT, F, 1.86, 79, 10-06-98, Grieskirchen, None
+13, Strahinja Kerkez, CYP, D, 1.85, 80, 13-12-02, Belgrade, AEL Limassol
+14, Husein Balić, AUT, M, 1.83, 73, 15-02-96, Linz, SKN St. Pölten
+17, Andreas Gruber, AUT, M, 1.74, 70, 29-06-95, Mürzzuschlag, Mattersburg
+18, Branko Jovićić, SRB, M, 1.79, 74, 18-03-93, Čačak, FC Ural
+19, Marvin Potzmann, AUT, D, 1.80, 70, 07-12-93, Vienna, Rapid Vienna
+21, Hong Hyun-Seok, KOR, M, 1.77, 68, 16-06-99, Seoul, Juniors OÖ
+23, Alexander Schmidt, AUT, F, 1.93, 88, 19-01-98, Vienna, FC Liefering
+24, Tobias Lawal, AUT, G, 1.95, 84, 07-06-00, Linz, Wels
+25, James Holland, AUS, M, 1.80, 74, 15-05-89, Sydney, Liaoning Whowin
+26, Filip Twardzik, CZE, M, 1.80, 64, 10-02-93, Třinec, Spartak Trnava
+27, Thomas Goiginger, AUT, M, 1.81, 69, 15-03-93, Linz, BW Linz
+28, Adam Griger, SVK, F, 1.92, 81, 16-03-04, Prešov, MFK Zemplín Michalovce
+29, Florian Flecker, AUT, M, 1.73, 68, 29-10-95, Voitsberg, Hartberg
+30, Sascha Horvath, AUT, M, 1.65, 60, 22-08-96, Vienna, Hartberg
+32, Enrique Wild, SUI, D, 1.74, 66, 27-09-99, Frauenfeld, Juniors OÖ
+33, Felix Luckeneder, AUT, D, 1.90, 73, 21-03-94, Linz, Hartberg
+34, Jan Boller, GER, D, 1.85, 82, 14-03-00, Siegen, Bayer Leverkusen
+35, Stefan Radulović, AUT, M, 1.75, 74, 01-01-02, Vienna, Austria Vienna
+36, Thomas Gebauer, GER, G, 1.91, 88, 30-06-82, Augsburg, Ried
+38, Keito Nakamura, JPN, F, 1.80, 75, 28-07-00, Abiko, Gamba Osaka
+39, Nikolas Polster, AUT, G, 1.88, 80, 07-07-02, -, Rapid Vienna
+44, Dario Maresić, AUT, D, 1.83, 74, 29-09-99, Graz, Reims
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Gernot Trauner, AUT, D, 1.83, 82, 25-03-92, Linz, Feyenoord
+30, Andrés Andrade, PAN, M, 1.87, 78, 16-10-98, Ciudad de Panamá, Arminia Bielefeld (On Loan)
+11, Matías Succar, PER, F, 1.84, 76, 16-02-99, Lima, Teplice (On Loan)
+31, Lukas Grgić, AUT, M, 1.83, 84, 17-08-95, Wels, Hajduk Split
+22, Christoph Monschein, AUT, F, 1.78, 74, 22-10-92, -, Rheindorf Altach (On Loan)
+9, Mamoudou Karamoko, FRA, F, 1.88, 88, 08-06-99, Paris, FC København

@@ -1,0 +1,43 @@
+=  Levante - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Cárdenas, ESP, G, 1.86, 80, 28-03-97, Terrassa, Levante B
+2, Son, ESP, D, 1.79, 70, 30-03-94, Seville, Ponferradina
+4, Róber Pier, ESP, D, 1.82, 74, 16-02-95, Oleiros, Deportivo La Coruña B
+5, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Schalke
+6, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Alcorcón B
+7, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Aston Villa
+8, Pepelu, ESP, M, 1.85, 72, 11-08-98, Denia, Levante B
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Granada
+10, Vicente Iborra, ESP, M, 1.90, 76, 16-01-88, Moncada, Villarreal
+11, Alejandro Cantero, ESP, F, 1.82, 76, 08-06-00, Madrid, Levante B
+13, Joan Femenías, ESP, G, 1.89, 79, 19-08-96, Manacor, Oviedo
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Valencia
+15, Sergio Postigo, ESP, D, 1.84, 78, 04-11-88, Madrid, Spezia
+16, Álex Muñoz, ESP, D, 1.85, 74, 30-07-94, Alicante, Tenerife
+17, Brugui, ESP, M, 1.73, 68, 04-11-96, Bàscara, Nàstic
+18, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Real Madrid B
+19, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Osasuna
+20, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo Vallecano
+21, Charly Musonda, BEL, M, 1.73, 58, 15-10-96, Brussels, Chelsea
+22, Mohamed Bouldini, MAR, F, 1.84, 80, 27-11-95, Casablanca, Fuenlabrada
+23, Marcelo Saracchi, URU, D, 1.72, 69, 23-04-98, Paysandú, RB Leipzig
+24, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Sampdoria
+26, Pablo Campos, ESP, G, 1.88, 78, 28-04-02, Valencia, Levante B
+29, Marc Pubill, ESP, D, 1.90, 78, 20-06-03, Terrassa, Levante B
+31, Carlos Giménez, ESP, D, -, -, 18-02-03, Sedaví, Levante B
+33, José Cambra, ESP, F, -, -, 28-09-03, Ontinyent, Levante B
+34, Carlos Benítez, ESP, M, -, -, 25-11-02, Catarroja, Levante B
+35, Hugo Redón, ESP, M, -, -, 19-04-03, Castelló de la Plana, Levante B
+39, Mario Climent, ESP, D, 1.76, 63, 30-01-02, Elche, Levante B
+41, Andrés García, ESP, F, -, -, 07-02-03, -, Levante B
+43, Carlos Jiménez, ESP, D, -, -, 23-07-06, -, Levante B
+46, Marcos Navarro, ESP, D, -, -, 30-05-04, -, Levante B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Espanyol (On Loan)
+22, Gonzalo Melero, ESP, M, 1.83, 77, 02-01-94, Madrid, Almería
+28, Alejandro Cantero, ESP, F, 1.82, 76, 08-06-00, Madrid, Re-Registered (11)
+3, Enric Franquesa, ESP, D, 1.74, 68, 26-02-97, Sant Cugat del Vallés, Leganés (On Loan)

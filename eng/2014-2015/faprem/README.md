@@ -1,0 +1,23 @@
+# English Premier League 2014/15
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Burnley](burnley.txt)
+- [Chelsea](chelsea.txt)
+- [Crystal Palace](cpalace.txt)
+- [Everton](everton.txt)
+- [Hull City](hullc.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Queens Park Rangers](qpr.txt)
+- [Southampton](southam.txt)
+- [Stoke City](stoke.txt)
+- [Sunderland](sunder.txt)
+- [Swansea City](swansea.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [West Ham United](westham.txt)

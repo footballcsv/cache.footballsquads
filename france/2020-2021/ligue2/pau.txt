@@ -1,0 +1,37 @@
+=  Pau - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexandre Olliero, FRA, G, 1.93, 85, 15-02-96, La Rochelle, Nantes
+2, Mahamadou Dembélé, FRA, D, 1.86, 68, 10-04-99, Brétigny-sur-Orge, Troyes
+3, Scotty Sadzoute, FRA, D, 1.72, 56, 29-04-98, Le Port, Lille
+4, Laglais Kouassi, CIV, M, 1.73, 68, 28-12-89, San Pedro, Neuchâtel Xamax
+5, Abdourahmane Ndiaye, SEN, M, 1.89, 70, 31-12-96, Dakar, Génération Foot Dakar
+6, Quentin Daubin, FRA, M, 1.83, 77, 03-07-95, Saint-Nazaire, Niort
+7, Erwin Koffi, FRA, D, 1.79, 78, 10-01-95, Paris, Olympiakos Nicosia
+8, Victor Lobry, FRA, M, 1.81, 72, 16-06-95, Soissons, Avranches
+9, Romain Armand, FRA, F, 1.81, 75, 27-02-87, Orange, Paris FC
+10, Romain Bayard, FRA, M, 1.67, 63, 12-10-93, Compiègne, Tours
+11, Cheikh Tidiane Sabaly, SEN, M, 1.68, 56, 04-03-99, Kolda, Metz
+12, Mayron George, CRC, F, 1.90, 80, 23-10-93, Puerto Limón, FC Midtjylland
+13, Mor Talla Nguer, SEN, M, 1.76, 61, 09-10-97, Dakar, US Gorée
+14, Souleymane Diarra, MLI, M, 1.73, 68, 30-01-95, Bamako, Gaziantep
+17, Antoine Batisse, FRA, D, 1.86, 87, 13-01-95, Versailles, Niort
+18, Ebenezer Assifuah, GHA, F, 1.76, 70, 03-07-93, Accra, Le Havre
+19, Mamadou Diatta, SEN, M, 1.88, 80, 05-04-01, Camaracounda, Cayor Foot
+20, Louis Bury, FRA, D, 1.84, 77, 10-07-95, Pau, None
+21, Steeve Beusnard, FRA, F, 1.70, 62, 27-06-92, Lattes, Gazélec Ajaccio
+23, Anthony Scaramozzino, FRA, D, 1.85, 75, 30-04-85, Nice, Boulogne
+24, Younn Zahary, COM, D, 1.90, 82, 08-10-98, Nantes, Caen
+25, Paul Méliande, FRA, M, 1.81, 70, 20-12-01, Orthez, None
+26, IItaitinga, BRA, F, 1.81, 84, 04-10-98, Itaitinga, Sion
+28, Thierno Thioub, SEN, F, 1.94, 91, 01-06-98, Tivaouane, Spartak Moscow
+29, Moulaye-Idrissa Ba, FRA, F, 1.85, 86, 11-11-90, Echirolles, Dunkerque
+30, Benjamin Bertrand, FRA, G, 1.83, 76, 24-06-92, Bourges, Francs Borains
+40, Patrick Trindade, FRA, G, 1.89, 77, 06-03-02, -, Guingamp
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Mamadou Kamissoko, FRA, D, 1.88, 82, 15-04-93, Le Blanc-Mesnil, Nea Salamis
+14, Yankuba Jarju, GAM, F, 1.82, 66, 20-08-96, Pirang, Cholet
+27, Damon Bansais, FRA, D, 1.77, 71, 08-01-94, Laval, Quevilly-Rouen

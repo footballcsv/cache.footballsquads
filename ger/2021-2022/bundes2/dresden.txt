@@ -1,0 +1,43 @@
+=  Dynamo Dresden - German 2.Bundesliga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kevin Broll, GER, G, 1.86, 77, 23-08-95, Mannheim, Sonnenhof Großaspach
+2, Guram Giorbelidze, GEO, D, 1.73, 68, 25-02-96, Bolnisi, Wolfsberger AC
+3, Michael Akoto, GER, D, 1.88, 72, 03-10-97, Accra, Mainz II
+4, Tim Knipping, GER, D, 1.89, 82, 24-11-92, Kassel, Jahn Regensburg
+5, Yannick Stark, GER, M, 1.85, 80, 28-10-90, Darmstadt, Darmstadt
+7, Panagiotis Vlachodimos, GRE, F, 1.84, 74, 12-10-91, Stuttgart, Sonnenhof Großaspach
+8, Heinz Mörschel, DOM, M, 1.90, 75, 24-08-97, Santo Domingo, KFC Uerdingen
+10, Patrick Weihrauch, GER, M, 1.82, 73, 03-03-94, Gräfelfing, Arminia Bielefeld
+11, Agyemang Diawusie, GER, F, 1.81, 72, 12-02-98, Berlin, Ingolstadt
+14, Adrian Fein, GER, M, 1.86, 86, 18-03-99, Munich, Bayern Munich
+15, Chris Löwe, GER, D, 1.71, 68, 16-04-89, Plauen, Huddersfield T
+16, Robin Becker, GER, D, 1.82, 72, 18-01-97, Solingen, Eintracht Braunschweig
+17, Morris Schröter, GER, M, 1.83, 75, 20-08-95, Wolfen, Zwickau
+19, Luca Herrmann, GER, M, 1.76, 71, 22-02-99, Freiburg im Breisgau, Freiburg
+21, Michael Sollbauer, AUT, D, 1.86, 80, 15-05-90, Sankt Veit an der Glan, Barnsley
+22, Anton Mitryushkin, RUS, G, 1.86, 79, 08-02-96, Krasnoyarsk, Fortuna Düsseldorf
+23, Antonis Aidonis, GER, D, 1.81, 76, 22-05-01, Neustadt an der Weinstraße, Stuttgart
+24, Patrick Wiegers, GER, G, 1.87, 86, 19-04-90, Deggendorf, Jahn Regensburg
+25, Brandon Borrello, AUS, M, 1.78, 79, 25-07-95, Adelaide, Freiburg
+26, Sebastian Mai, GER, D, 1.95, 93, 10-12-93, Dresden, Hallescher FC
+27, Václav Drchal, CZE, F, 1.87, 84, 25-07-99, České Budějovice, Sparta Prague
+28, Paul Will, GER, M, 1.85, 77, 01-03-99, Biedenkopf, Bayern Munich
+30, Julius Kade, GER, M, 1.67, 48, 20-05-99, Berlin, Union Berlin
+31, Marius Liesegang, GER, G, 1.89, 83, 07-01-00, Magdeburg, Mainz
+33, Christoph Daferner, GER, F, 1.87, 82, 12-01-98, Pöttmes, Freiburg
+34, Justin Löwe, GER, M, 1.68, 65, 30-12-98, Lauchhammer, None
+35, Ransford Königsdörffer, GER, F, 1.82, 78, 13-09-01, Berlin, Hertha Berlin
+37, Oliver Batista Meier, GER, M, 1.80, 67, 16-02-01, Kaiserslautern, Bayern Munich
+39, Kevin Ehlers, GER, D, 1.86, 76, 23-01-01, Munich, Hansa Rostock
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Jonas Kühn, GER, M, 1.80, 74, 20-03-02, Plauen, Sonnenhof Großaspach (On Loan)
+37, Luka Štor, SVN, F, 1.78, 75, 05-07-98, Šempeter pri Gorici, Apollon Limassol (On Loan)
+38, Simon Gollnack, GER, F, 1.84, 80, 29-01-02, Weißwasser, 1899 Hoffenheim II
+14, Philipp Hosiner, AUT, F, 1.79, 75, 15-05-89, Eisenstadt, Kickers Offenbach
+36, Max Kulke, GER, D, 1.77, 72, 10-11-00, Kodersdorf, ZFC Meuselwitz (On Loan)
+9, Pascal Sohm, GER, F, 1.87, 77, 02-11-91, Künzelsau, Waldhof Mannheim
+20, Seo Jong-Min, KOR, M, 1.80, 73, 09-05-02, Seoul, Wacker Innsbruck (On Loan)

@@ -1,0 +1,48 @@
+=  Sion - Swiss Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Timothy Fayulu, SUI, G, 1.92, 78, 24-07-99, Geneva, Olympique de Genève
+3, Mattias Andersson, SWE, D, 1.86, 83, 13-03-98, Malmö, Juventus
+4, Nikita Vlasenko, SUI, D, 1.90, 87, 20-03-01, Donetsk, Juventus U23
+5, Jan Bamert, SUI, D, 1.83, 75, 09-03-98, Zürich, Grasshoppers
+6, Christian Zock, CMR, M, 1.90, 80, 06-05-94, Yaoundé, Schaffhausen
+7, Luca Clemenza, ITA, M, 1.77, 70, 09-07-97, Cittiglio, Juventus
+8, Baltazar, BRA, M, 1.78, 77, 06-05-00, Jaraguá, Vila Nova
+9, Roberts Uldrikis, LVA, F, 1.98, 92, 03-04-98, Rīga, Rīgas Futbola Skola
+11, Gaëtan Karlen, SUI, F, 1.86, 79, 07-06-93, Sion, Neuchâtel Xamax
+13, Arian Kabashi, KVX, D, 1.81, 78, 26-09-96, Sierre, Martigny-Sports
+14, Anto Grgić, SUI, M, 1.88, 78, 28-11-96, Schlieren, Stuttgart
+15, Yamato Wakatsuki, JPN, F, 1.70, 68, 18-01-02, Gunma, Shonan Bellmare
+18, Kevin Fickentscher, SUI, G, 1.81, 78, 06-07-88, Nyon, La Chaux-de-Fonds
+19, Siyar Doldur, SUI, M, 1.71, 69, 29-01-00, Bellinzona, None
+20, Musa Araz, SUI, M, 1.68, 65, 17-01-94, Fribourg, Neuchâtel Xamax
+21, Dennis Iapichino, SUI, D, 1.82, 72, 27-07-90, Frauenfeld, Servette
+23, Matteo Tosetti, SUI, M, 1.77, 64, 15-02-92, Losone, Thun
+25, Théo Berdayes, SUI, F, 1.86, 74, 23-05-02, Aigle, None
+26, Serey Dié, CIV, M, 1.79, 74, 07-11-84, Abidjan, Neuchâtel Xamax
+27, Ivan Martić, CRO, M, 1.83, 70, 02-10-90, Uzwil, Universitatea Craiova
+28, Damien Buchard, SUI, G, 1.86, 74, 28-01-00, Martigny, None
+29, Jared Khasa, FRA, F, 1.87, 84, 04-11-97, Vernon, Fribourg
+30, Ayoub Abdellaoui, ALG, D, 1.83, 73, 16-02-93, Reghaïa, USM Alger
+33, Noah Lovisa, SUI, D, 1.80, 74, 21-06-00, Zürich, None
+34, Birama Ndoye, SEN, M, 1.80, 74, 27-03-94, Dakar, None
+45, Léo Lacroix, SUI, D, 1.97, 92, 27-02-92, Lausanne, St-Etienne
+52, Wesley, BRA, D, 1.77, 66, 13-03-00, Retirolândia, Juventus
+68, Jean Ruiz, FRA, D, 1.88, 80, 06-04-98, Guebviller, Sochaux
+70, José Aguilar, ESP, M, 1.72, 63, 05-02-01, Almería, None
+77, Sandro Theler, SUI, D, 1.75, 75, 15-12-00, Brig, None
+79, Mauro Rodrigues, POR, M, 1.78, 72, 15-04-01, -, None
+97, Dimitri Cavaré, FRA, D, 1.85, 84, 05-02-95, Pointe-à-Pitre, Barnsley
+98, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Verona
+99, Guillaume Hoarau, FRA, F, 1.92, 80, 05-03-84, Saint Louis, Young Boys
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Filip Stojiljković, SUI, F, 1.85, 80, 04-01-00, Zollikon, Aarau (On Loan)
+45, Mickaël Facchinetti, SUI, D, 1.83, 74, 15-02-91, Neuchâtel, Lugano
+17, Gaëtan Karlen, SUI, F, 1.86, 79, 07-06-93, Sion, Re-Registered (11)
+10, Itaitinga, BRA, F, 1.81, 84, 04-10-98, Itaitinga, Pau (On Loan)
+2, Raphael Rossi Branco, BRA, D, 1.90, 84, 25-07-90, Campinas, Radomiak Radom (On Loan)
+31, Patrick, BRA, F, 1.79, 77, 31-10-98, Soracaba, Kriens (On Loan)
+64, Edgar André, SUI, M, 1.84, 73, 28-06-99, Sion, Neuchâtel Xamax (On Loan)

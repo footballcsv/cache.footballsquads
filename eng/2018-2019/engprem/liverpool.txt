@@ -1,0 +1,57 @@
+=  Liverpool - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Fabinho, BRA, M, 1.87, 78, 23-10-93, Campinas, Monaco
+4, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, Southampton
+5, Georginio Wijnaldum, NED, M, 1.75, 69, 11-11-90, Rotterdam, Newcastle U
+6, Dejan Lovren, CRO, D, 1.88, 84, 05-07-89, Karlovac, Southampton
+7, James Milner, ENG, M, 1.75, 70, 04-01-86, Wortley, Manchester C
+8, Naby Keïta, GUI, M, 1.72, 64, 10-02-95, Conakry, RB Leipzig
+9, Roberto Firmino, BRA, F, 1.81, 76, 02-10-91, Maceió, 1899 Hoffenheim
+10, Sadio Mané, SEN, F, 1.75, 69, 10-04-92, Sédhiou, Southampton
+11, Mohamed Salah, EGY, F, 1.75, 72, 15-06-92, Basyoun, Roma
+12, Joe Gomez, ENG, D, 1.88, 77, 23-05-97, Catford, Charlton Ath
+13, Alisson Becker, BRA, G, 1.91, 91, 02-10-92, Novo Hamburgo, Roma
+14, Jordan Henderson, ENG, M, 1.82, 67, 17-06-90, Sunderland, Sunderland
+15, Daniel Sturridge, ENG, F, 1.88, 76, 01-09-89, Birmingham, Chelsea
+18, Alberto Moreno, ESP, D, 1.71, 65, 05-07-92, Seville, Sevilla
+20, Adam Lallana, ENG, M, 1.72, 73, 10-05-88, St Albans, Southampton
+21, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Arsenal
+22, Simon Mignolet, BEL, G, 1.93, 87, 06-03-88, Sint-Truiden, Sunderland
+23, Xherdan Shaqiri, SUI, M, 1.69, 72, 10-10-91, Gnjilane, Stoke C
+24, Rhian Brewster, ENG, F, 1.76, 75, 01-04-00, Redbridge, None
+26, Andrew Robertson, SCO, D, 1.78, 63, 11-03-94, Glasgow, Hull C
+27, Divock Origi, BEL, F, 1.85, 75, 18-04-95, Ostend, Lille
+32, Joel Matip, CMR, D, 1.95, 90, 08-08-91, Bochum, Schalke
+46, Adam Lewis, ENG, D, 1.75, 73, 08-11-99, Liverpool, None
+47, Nathaniel Phillips, ENG, D, 1.90, 70, 21-03-97, Bolton, Bolton W
+48, Curtis Jones, ENG, M, 1.85, 72, 30-01-01, Liverpool, None
+49, George Johnston, SCO, D, 1.81, 72, 01-09-98, Manchester, None
+51, Ki-Jana Hoever, NED, D, 1.80, 67, 18-01-02, Amsterdam, Ajax
+52, Corey Whelan, IRL, D, 1.80, 73, 12-12-97, Chester, None
+56, Connor Randall, ENG, D, 1.80, 76, 21-10-95, Liverpool, None
+57, Isaac Christie-Davies, WAL, M, 1.88, 75, 18-10-97, Brighton, Chelsea
+58, Ben Woodburn, WAL, F, 1.74, 72, 16-11-99, Nottingham, None
+60, Shamal George, ENG, G, 1.91, 75, 06-01-98, Birkenhead, None
+62, Caoimhin Kelleher, IRL, G, 1.88, 81, 23-11-98, Cork, Ringmahon Rangers
+63, Conor Masterson, IRL, D, 1.85, 81, 08-09-98, Dublin, Lucan U
+64, Rafael Camacho, POR, M, 1.75, 68, 22-05-00, Lisbon, Manchester C
+66, Trent Alexander-Arnold, ENG, D, 1.75, 69, 07-10-98, Liverpool, None
+68, Pedro Chirivella, ESP, M, 1.78, 66, 23-05-97, Valencia, Valencia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Ádám Bogdán, HUN, G, 1.94, 90, 27-09-87, Budapest, Hibernian (On Loan)
+59, Harry Wilson, WAL, M, 1.73, 70, 22-03-97, Wrexham, Derby Co (On Loan)
+40, Ryan Kent, ENG, M, 1.72, 65, 11-11-96, Oldham, Rangers (On Loan)
+55, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Doncaster R (On Loan)
+17, Ragnar Klavan, EST, D, 1.87, 85, 30-10-85, Viljandi, Cagliari
+16, Marko Grujić, SRB, M, 1.91, 82, 13-04-96, Belgrade, Hertha Berlin (On Loan)
+1, Loris Karius, GER, G, 1.89, 75, 22-06-93, Biberach, Beşiktaş (On Loan)
+54, Sheyi Ojo, ENG, F, 1.77, 64, 19-06-97, Hemel Hempstead, Reims (On Loan)
+2, Nathaniel Clyne, ENG, D, 1.75, 67, 05-04-91, Stockwell, Bournemouth (On Loan)
+29, Dominic Solanke, ENG, F, 1.87, 80, 14-09-97, Reading, Bournemouth
+73, Kamil Grabara, POL, G, 1.90, 75, 08-01-99, Ruda Śląska, Aarhus (On Loan)
+53, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, Reading (On Loan)
+50, Lazar Marković, SRB, M, 1.75, 65, 02-03-94, Belgrade, Fulham

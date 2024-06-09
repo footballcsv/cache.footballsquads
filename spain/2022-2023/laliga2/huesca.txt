@@ -1,0 +1,41 @@
+=  Huesca - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrés Fernández, ESP, G, 1.85, 82, 17-12-86, Murcia, Villarreal
+2, Andrei Rațiu, ROU, D, 1.83, 74, 20-06-98, Aiud, Villarreal B
+3, Florian Miguel, FRA, D, 1.79, 70, 01-09-96, Bruges, Nîmes
+4, David Tímor, ESP, M, 1.85, 77, 17-10-89, Carcaixent, Getafe
+5, Kento Hashimoto, JPN, M, 1.79, 72, 16-08-93, Tokyo, FC Rostov
+6, Ignasi Vilarrasa, ESP, D, 1.83, 75, 23-08-99, Granollers, Atlético Baleares
+7, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Lugo
+8, Patrick Soko, CMR, M, 1.76, 72, 31-10-97, Douala, Racing Santander
+9, Samuel Obeng, GHA, F, 1.83, 74, 15-05-97, Nsapor, Oviedo
+10, Javi Martínez, ESP, M, 1.80, 68, 22-12-99, Ólvega, Osasuna
+11, Joaquín Muñoz, ESP, F, 1.73, 60, 10-03-99, Málaga, Atlético Madrid B
+12, Juanjo Nieto, ESP, D, 1.75, 73, 03-10-94, Castellón de la Plana, Almería
+13, Juan Pérez, ESP, G, 1.92, 78, 15-07-96, Almudevar, Osasuna
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Jérémy Blasco, FRA, D, 1.85, 79, 12-02-99, Bayonne, Real Sociedad B
+17, Enzo Lombardo, FRA, M, 1.74, 69, 16-04-97, Décines-Charpieu, Mallorca
+18, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Lugo
+19, Aboubakary Kanté, GMB, F, 1.84, 80, 11-08-94, Pontoise, Fuenlabrada
+20, Cris Salvador, ESP, M, 1.84, 77, 20-11-94, Zamora, Sporting Gijón
+21, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Castellón
+22, Juan Carlos, ESP, M, 1.75, 72, 15-03-91, La Coruña, Almería
+23, Óscar Sielva, ESP, M, 1.77, 69, 06-08-91, Barcelona, Eibar
+24, Rubén Pulido, ESP, D, 1.84, 73, 02-09-00, Madrid, Fuenlabrada
+26, Euse Monzó, ESP, D, 1.88, 78, 04-12-00, Valencia, Levante B
+27, Manu Rico, ESP, F, -, -, 11-01-03, -, Huesca B
+28, Hugo Anglada, ESP, D, -, -, 17-03-04, -, Huesca B
+30, Miguel Ángel Sanz, ESP, G, 1.82, 73, 12-03-03, Zaragoza, Zaragoza B
+31, David García, ESO, M, -, -, 15-09-03, -, Extremadura
+32, Pablo Tomeo, ESP, M, 1.86, 73, 23-01-00, Alloza, Andorra
+33, Rafa Tresaco, ESP, F, 1.78, 68, 24-08-00, Sabiñánigo, Algeciras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Kevin Carlos, ESP, F, 1.86, 98, 10-04-01, Ceuta, Betis B (On Loan)
+13, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Ponferradina
+10, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Albacete (On Loan)
+9, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Córdoba (On Loan)

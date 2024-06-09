@@ -1,0 +1,40 @@
+=  Ibiza - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Germán Parreño, ESP, G, 1.89, 78, 16-02-93, Elche, UCAM Murcia
+2, Fran Grima, ESP, D, 1.74, 70, 05-02-87, Barcelona, Mallorca
+3, David Morillas, ESP, D, 1.86, 75, 28-09-86, Águilas, Rayo Majadahonda
+4, David Goldar, ESP, D, 1.80, 77, 15-09-94, Vigo, Nàstic
+5, Rubén González, ESP, D, 1.83, 75, 07-09-94, Bilbao, Atlético Baleares
+6, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Qatar SC
+7, Davo, ESP, F, 1.78, 71, 18-12-94, Gijón, Langreo
+8, Manu Molina, ESP, M, 1.75, 63, 20-11-91, Huelva, Linense
+9, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, Tenerife
+10, Ekain Zenitagoia, ESP, F, 1.79, 72, 29-04-94, Durango, Amorebieta
+11, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, Rayo Vallecano
+12, Juan Ibiza, ESP, D, 1.87, 78, 17-08-95, Ibiza, Almería
+13, Álex Domínguez, ESP, G, 1.87, 80, 30-07-98, Granollers, Las Palmas
+14, Javi Pérez, ESP, M, 1.84, 74, 14-08-95, Cabanillas del Campo, Valladolid B
+15, Javi Lara, ESP, M, 1.79, 71, 04-12-85, Montoro, Córdoba
+16, Raúl Sánchez, ESP, M, 1.88, 77, 08-11-97, Madrid, Rayo Majadahonda
+17, Sergio Castel, ESP, F, 1.88, 85, 22-02-95, Las Rozas, Atlético Madrid B
+18, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Eibar
+19, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Cádiz
+20, Kévin Appin, FRA, M, 1.77, 71, 20-01-98, Marseille, Hércules
+21, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Lugo
+22, Miki Villar, ESP, F, 1.80, 72, 19-09-96, Nigrán, Compostela
+23, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Elche
+24, Gonzalo Escobar, ARG, D, 1.73, 65, 16-03-97, San Vicente, Colón (Santa Fe)
+26, Jorge Chanza, ESP, G, 1.82, 70, 20-03-98, Villarreal, Sant Rafel
+27, Marcos Corral, ESP, F, -, -, 02-04-99, Baza, Sant Rafel
+28, César Valero, ESP, M, -, -, 01-05-01, Barcelona, Sant Rafel
+30, Fidel Castillo, ESP, G, 1.88, 79, 09-02-99, Atarfe, Sant Rafel
+33, Mike Cevallos, ECU, F, 1.78, 79, 22-06-01, Guayaquil, Sant Rafel
+35, Julià Aguilar, ESP, M, -, -, -, -, Sant Rafel
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Ángel Rodado, ESP, F, 1.79, 74, 07-03-97, Palma de Mallorca, Barcelona B (On Loan)
+16, Javi Vázquez, ESP, D, 1.78, 75, 24-09-00, Alcalá de Guadaíra, Racing Santander (On Loan)
+19, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Leeds U

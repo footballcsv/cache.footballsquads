@@ -1,0 +1,41 @@
+=  Livingston - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Barden, WAL, G, 1.95, 82, 02-01-01, Camden, Norwich C
+2, Nicky Devlin, SCO, D, 1.80, 74, 17-10-93, Glasgow, Walsall
+3, Jackson Longridge, SCO, D, 1.83, 79, 12-04-95, Glasgow, Bradford C
+4, Tom Parkes, ENG, D, 1.91, 79, 15-01-92, Mansfield, Exeter C
+5, Jack Fitzwater, ENG, D, 1.88, 70, 23-09-97, Solihull, WBA
+6, Ayo Obileye, ENG, D, 1.91, 84, 02-09-94, Homerton, Queen of the South
+8, Scott Pittman, SCO, M, 1.77, 62, 09-07-92, Livingston, Bo'ness U
+9, Bruce Anderson, SCO, F, 1.73, 66, 23-09-98, Aberdeen, Aberdeen
+10, Craig Sibbald, SCO, M, 1.77, 63, 18-05-95, Falkirk, Falkirk
+11, Cristian Montaño, COL, M, 1.80, 76, 11-12-91, Cali, Port Vale
+12, Sebastian Soto, USA, F, 1.83, 78, 28-07-00, Carlsbad, Norwich C
+14, Odin Bailey, ENG, M, 1.78, 75, 08-12-99, Birmingham, Birmingham C
+15, Morgan Boyes, WAL, D, 1.77, 69, 22-04-01, Chester, Liverpool
+16, Adam Lewis, ENG, D, 1.75, 73, 08-11-99, Liverpool, Liverpool
+17, Alan Forrest, SCO, M, 1.75, 70, 09-09-96, Irvine, Ayr U
+18, Jason Holt, SCO, M, 1.64, 65, 19-02-93, Edinburgh, Rangers
+19, Jon Nouble, ENG, F, 1.93, 78, 19-01-96, Deptford, Aldershot T
+21, Jack McMillan, SCO, D, 1.83, 77, 18-12-97, Livingston, Motherwell
+22, Andrew Shinnie, SCO, M, 1.80, 70, 17-07-89, Aberdeen, Charlton Ath
+23, Caleb Chukwuemeka, ENG, F, 1.90, 70, 25-01-02, Eisenstadt, Aston Villa
+24, Sean Kelly, SCO, D, 1.91, 76, 01-11-93, Glasgow, Falkirk
+29, James Penrice, SCO, D, 1.77, 73, 22-12-98, Livingston, Partick Thistle
+31, Ivan Konovalov, RUS, G, 1.91, 82, 18-08-94, Balashikha, Rubin Kazan
+32, Maksymilian Stryjek, POL, G, 1.88, 81, 18-07-96, Warsaw, Eastleigh
+33, Stéphane Omeonga, BEL, M, 1.77, 72, 27-03-96, Rocourt, Pescara
+36, Gary Maley, SCO, G, 1.97, 84, 03-08-82, Livingston, Broxburn
+40, Marvin Bartley, ENG, M, 1.80, 79, 01-07-89, Reading, Hibernian
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Josh Mullin, SCO, M, 1.80, 66, 23-09-92, Glasgow, Hamilton Academical (On Loan)
+20, Gavin Reilly, SCO, F, 1.81, 73, 10-05-93, Dumfries, Greenock Morton (On Loan)
+12, Ben Williamson, SCO, M, 1.88, 85, 07-08-01, Dunfermline, Rangers
+15, Harry Panayiotou, SKN, F, 1.78, 72, 28-10-94, Leicester, Aldershot T
+23, Jack Hamilton, SCO, F, 1.87, 84, 30-06-00, Coldingham, Arbroath (On Loan)
+37, Jaze Kabia, IRL, F, 1.75, 65, 08-07-00, Cork, Falkirk (On Loan)
+7, Keaghan Jacobs, RSA, M, 1.70, 59, 09-09-89, Johannesburg, Falkirk (On Loan)

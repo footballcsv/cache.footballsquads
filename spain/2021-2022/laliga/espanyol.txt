@@ -1,0 +1,49 @@
+=  Espanyol - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oier Olazábal, ESP, G, 1.89, 82, 14-09-89, Irún, Levante
+2, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Villarreal
+3, Adrià Pedrosa, ESP, D, 1.76, 69, 13-05-98, Barcelona, Espanyol B
+4, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Getafe
+5, Fernando Calero, ESP, D, 1.83, 69, 27-06-95, Boecillo, Valladolid
+6, Manu Morlanes, ESP, M, 1.78, 75, 12-01-99, Zaragoza, Villarreal
+7, Wu Lei, CHN, M, 1.72, 61, 19-11-91, Nanjing, Shanghai SIPG
+8, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Osasuna
+9, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol B
+10, Sergi Darder, ESP, M, 1.80, 71, 22-12-93, Artà, Lyon
+11, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Benfica
+12, Óscar Gil, ESP, D, 1.73, 70, 26-04-98, Elche, Elche B
+13, Diego López, ESP, G, 1.96, 89, 03-11-81, Paradela, Milan
+14, Óscar Melendo, ESP, M, 1.67, 63, 23-08-97, Barcelona, Espanyol B
+15, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Napoli
+16, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Betis
+17, Dídac, ESP, D, 1.85, 74, 09-06-89, Mataró, AEK
+18, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Anderlecht
+19, Tonny Vilhena, NED, M, 1.75, 70, 03-01-95, Maassluis, FC Krasnodar
+20, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Málaga B
+21, Nico Melamed, ESP, M, 1.73, 67, 11-04-01, Castelldefels, Espanyol B
+22, Aleix Vidal, ESP, D, 1.77, 70, 21-08-89, Puigpelat, Sevilla
+23, Adri Embarba, ESP, F, 1.73, 66, 07-05-92, Madrid, Rayo Vallecano
+24, Sergi Gómez, ESP, D, 1.81, 76, 28-07-92, Arenys de Mar, Sevilla
+25, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+26, Max Svensson, ESP, F, 1.82, 78, 08-11-01, Barcelona, Espanyol B
+27, Aleix Gorjón, ESP, D, 1.82, 71, 26-09-02, Sitges, Espanyol B
+29, Jofre Carreras, ESP, F, 1.73, 68, 17-06-01, Girona, Espanyol B
+31, Lluís Recasens, ESP, D, -, -, 19-02-02, Tarragona, Espanyol B
+32, Gori, ESP, M, -, -, 15-05-02, Arenys de Munt, Espanyol B
+33, Álvaro García, ESP, D, 1.84, 78, 01-06-00, Albacete, Atlético Madrid B
+34, Joan García, ESP, G, 1.80, 79, 04-05-01, Sallent de Llobregat, Espanyol B
+37, Roger Martínez, ESP, M, -, -, 05-04-04, Badalona, Espanyol B
+38, Alejandro Pérez, ESP, D, -, -, 07-01-01, El Masnou, Espanyol B
+39, Rubén Sánchez, ESP, D, 1.85, 73, 04-02-01, Barcelona, Espanyol B
+40, Dani Villahermosa, ESP, M, 1.72, 63, 02-01-01, Barcelona, Espanyol B
+41, Luca Koleosho, USA, M, 1.75, 68, 15-09-04, Norwalk, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Zaragoza
+31, Víctor Gómez, ESP, D, 1.66, 69, 01-04-00, Olesa de Montserrat, Málaga (On Loan)
+22, Matías Vargas, ARG, M, 1.68, 66, 08-05-97, Salta, Adana Demirspor (On Loan)
+26, Pol Lozano, ESP, M, 1.76, 68, 06-10-99, Sant Quirze del Vallès, Girona (On Loan)
+19, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Málaga (On Loan)

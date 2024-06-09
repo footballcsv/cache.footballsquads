@@ -1,0 +1,46 @@
+=  Monaco - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Radosław Majecki, POL, G, 1.91, 78, 16-11-99, Starachowice, Legia Warszawa
+2, Fodé Ballo-Touré, FRA, D, 1.77, 61, 03-01-97, Conflans-Sainte-Honorine, Lille
+3, Guillermo Maripán, CHI, D, 1.93, 80, 06-05-94, San Miguel, Alavés
+4, Cesc Fàbregas, ESP, M, 1.80, 77, 04-05-87, Arenys de Mar, Chelsea
+8, Aurélien Tchouaméni, FRA, M, 1.85, 75, 27-01-00, Rouen, Bordeaux
+9, Wissam Ben Yedder, FRA, F, 1.70, 68, 12-08-90, Sarcelles, Sevilla
+10, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Internazionale
+11, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Atlético Madrid
+12, Caio Henrique, BRA, D, 1.77, 70, 31-07-97, Santos, Atlético Madrid
+13, Willem Geubbels, FRA, F, 1.85, 72, 16-08-01, Villeurbanne, Lyon
+17, Aleksandr Golovin, RUS, M, 1.80, 69, 30-05-96, Kaltan, CSKA Moscow
+19, Pietro Pellegri, ITA, F, 1.91, 78, 17-03-01, Genoa, Genoa
+20, Axel Disasi, FRA, D, 1.90, 86, 11-03-98, Gonesse, Reims
+22, Youssouf Fofana, FRA, M, 1.76, 69, 10-01-99, Paris, Strasbourg
+26, Ruben Aguilar, FRA, D, 1.72, 71, 26-04-93, Grenoble, Montpellier
+27, Krépin Diatta, SEN, M, 1.75, 59, 25-02-99, Dakar, Club Brugge
+29, Djibril Sidibé, FRA, D, 1.82, 73, 29-07-92, Troyes, Lille
+30, Vito Mannone, ITA, G, 1.88, 77, 02-03-88, Desio, Reading
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, Bayer Leverkusen
+32, Benoît Badiashile, FRA, D, 1.92, 75, 06-03-01, Limoges, None
+34, Chrislain Matsima, FRA, D, 1.90, 81, 15-05-02, Colombes, None
+35, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, Benfica
+36, Eliot Matazo, BEL, M, 1.83, 70, 15-02-02, Woluwe-Saint-Lambert, Anderlecht
+37, Sofiane Diop, FRA, M, 1.75, 65, 09-06-00, Tours, Rennes
+38, Enzo Millot, FRA, M, 1.75, 64, 17-07-02, Le Chesnay, None
+39, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, Nancy
+40, Benjamin Lecomte, FRA, G, 1.86, 78, 26-04-91, Paris, Montpellier
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Anthony Musaba, NED, F, 1.82, 72, 06-12-00, Beuningen, Cercle Brugge (On Loan)
+35, Jonathan Panzo, ENG, D, 1.85, 72, 25-10-00, Southwark, Dijon
+31, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, İstanbul Başakşehir
+15, Harrison Marcelin, FRA, D, 1.97, 85, 12-02-00, Le Port, Cercle Brugge (On Loan)
+14, Keita Baldé, SEN, F, 1.84, 80, 08-03-95, Arbúcies, Sampdoria (On Loan)
+6, Jean-Eudes Aholou, CIV, M, 1.86, 71, 20-03-94, Abidjan, Strasbourg (On Loan)
+28, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Basel (On Loan)
+18, Arthur Zagré, FRA, D, 1.68, 60, 04-10-01, Neuilly-sur-Seine, Dijon (On Loan)
+41, Giulian Biancone, FRA, D, 1.87, 83, 31-03-00, Fréjus, Cercle Brugge (On Loan)
+5, Jemerson, BRA, D, 1.84, 77, 24-08-92, Jeremoabo, Corinthians
+21, Strahinja Pavlović, SRB, D, 1.94, 84, 24-05-01, Šabac, Cercle Brugge (On Loan)
+7, Henry Onyekuru, NGA, M, 1.75, 70, 05-06-97, Onitsha, Galatasaray (On Loan)

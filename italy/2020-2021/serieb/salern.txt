@@ -1,0 +1,50 @@
+=  Salernitana - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marius Adamonis, LTU, G, 1.91, 80, 13-05-97, Panevėžys, Lazio
+2, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Udinese
+4, Paweł Jaroszyński, POL, D, 1.84, 78, 02-10-94, Lublin, Genoa
+5, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Torino
+6, Sanasi Sy, FRA, D, 1.74, 69, 04-04-99, Paris, Amiens
+7, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Lazio
+8, Andrea Schiavone, ITA, M, 1.76, 74, 23-02-93, Turin, Bari
+9, Gennaro Tutino, ITA, F, 1.77, 76, 20-08-96, Naples, Napoli
+10, Emanuele Cicerelli, ITA, F, 1.77, 71, 12-08-94, San Giovanni Rotondo, Lazio
+11, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Bristol C
+12, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Bari
+13, Ramzi Aya, ITA, D, 1.84, 79, 02-08-90, Rome, Pisa
+14, Francesco Di Tacchio, ITA, M, 1.85, 81, 20-04-90, Trani, Avellino
+15, Tiago Casasola, ARG, D, 1.88, 80, 11-08-95, Capital Federal, Lazio
+16, Reda Boultam, NED, M, 1.85, 77, 03-03-98, Meknes, Triestina
+18, André Anderson, BRA, M, 1.80, 78, 23-09-99, Maracaí, Lazio
+19, Julian Kristoffersen, NOR, F, 1.95, 77, 10-01-97, Horten, Jeonnam Dragons
+20, Tomasz Kupisz, POL, M, 1.80, 71, 02-01-90, Radom, Bari
+21, Giuseppe Barone, USA, M, 1.71, 65, 04-09-98, Brooklyn, Perugia
+22, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, Lazio
+23, Norbert Gyömbér, SVK, D, 1.89, 79, 03-07-92, Revúca, Perugia
+24, Riza Durmisi, DEN, D, 1.68, 67, 08-01-94, Ishøj, Lazio
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Livorno
+27, Patryk Dziczek, POL, M, 1.82, 77, 25-03-98, Gliwice, Lazio
+28, Leonardo Capezzi, ITA, M, 1.78, 70, 28-03-95, Figline Valdarno, Sampdoria
+31, Sofian Kiyine, BEL, M, 1.82, 78, 02-10-97, Verviers, Lazio
+33, Frédéric Veseli, ALB, D, 1.83, 78, 20-11-92, Renens, Empoli
+48, Mirko Antonucci, ITA, M, 1.78, 70, 11-03-99, Rome, Roma
+72, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Sampdoria
+87, Cristiano Lombardi, ITA, F, 1.80, 75, 19-08-95, Viterbo, Lazio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Lamin Jallow, GAM, F, 1.85, 80, 18-12-95, Banjul, Vicenza
+19, Sedrick Kalombo, ITA, D, 1.78, 75, 08-02-95, Fano, Foggia (On Loan)
+4, Marco Migliorini, ITA, D, 1.94, 86, 03-01-92, Peschiera del Garda, Novara
+6, Felipe Curcio, BRA, D, 1.85, 80, 06-08-93, Jundiai, Padova (On Loan)
+95, Iacopo Cernigoi, ITA, F, 1.92, 82, 04-01-95, Mantova, Juve Stabia (On Loan)
+34, Antonio Russo, ITA, G, 1.88, 79, 01-02-00, Acerra, Bisceglie (On Loan)
+29, Gioacchino Galeotafiore, ITA, D, 1.86, 74, 15-02-00, Solofra, Foggia (On Loan)
+97, Joel Baraye, SEN, D, 1.82, 78, 05-01-97, Dakar, Padova
+34, Jacopo De Matteis, ITA, G, 1.85, 68, 28-12-02, Rome, Trastevere (On Loan)
+17, Edoardo Iannoni, ITA, M, 1.85, 78, 11-04-01, Rome, Juve Stabia (On Loan)
+16, Andreas Karo, CYP, D, 1.90, 80, 09-09-96, Nicosia, Lazio
+3, Walter López, URU, D, 1.82, 83, 15-10-85, Montevideo, Triestina
+32, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Pescara

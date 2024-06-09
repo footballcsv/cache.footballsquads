@@ -1,0 +1,41 @@
+=  Brescia - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Lezzerini, ITA, G, 1.95, 86, 24-03-95, Rome, Venezia
+3, Matthieu Huard, FRA, D, 1.75, 75, 09-05-98, Neuilly-sur-Seine, Ajaccio
+4, Fabrizio Paghera, ITA, M, 1.70, 62, 12-12-91, Brescia, Ternana
+5, Tom van de Looi, NED, M, 1.86, 80, 02-07-99, Breda, FC Groningen
+6, Mohamed Fares, ALG, D, 1.83, 75, 15-02-96, Aubervilliers, Lazio
+7, Birkir Bjarnason, ISL, M, 1.82, 80, 27-05-88, Akureyri, Viking
+9, Flavio Bianchi, ITA, F, 1.78, 68, 24-01-00, Asti, Genoa
+11, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, Benevento
+12, Simone Cortese, ITA, G, 1.91, 77, 17-08-05, Brescia, None
+14, Massimiliano Mangraviti, ITA, D, 1.88, 79, 24-01-98, Brescia, None
+15, Andrea Cistana, ITA, D, 1.85, 78, 01-04-97, Brescia, None
+16, Raffaele Cartano, ITA, D, 1.88, 73, 24-09-02, Massa, Carrarese
+18, Alexander Jallow, SWE, D, 1.83, 71, 03-03-98, Avesta, IFK Göteborg
+20, Patrick Nuamah, ITA, M, 1.79, 78, 31-12-05, Brescia, None
+21, Riccardo Fogliata, ITA, M, 1.83, -, 20-05-04, Brescia, None
+22, Lorenzo Andrenacci, ITA, G, 1.86, 81, 02-01-95, Fermo, Genoa
+23, Nicolas Galazzi, ITA, F, 1.82, 64, 18-12-00, Pavia, Venezia
+24, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, SPAL
+25, Dimitri Bisoli, ITA, M, 1.80, 77, 25-03-94, Cagliari, Fidelis Andria
+26, Massimo Bertagnoli, ITA, M, 1.85, 74, 26-02-99, Verona, Chievo Verona
+27, Giacomo Olzer, ITA, M, 1.88, 76, 14-04-01, Rovereto, Milan
+28, Davide Adorni, ITA, D, 1.85, 78, 09-08-92, Parma, Cittadella
+29, Gennaro Borrelli, ITA, F, 1.94, 84, 10-03-00, Campobasso, Frosinone
+30, Michele Avella, ITA, G, 1.86, 80, 01-05-00, Naples, Frosinone
+31, Matteo Ferro, ITA, F, 1.78, -, 27-02-04, Cremona, None
+32, Andrea Papetti, ITA, D, 1.89, 84, 03-07-02, Cernusco sul Naviglio, None
+33, Zylyf Muça, ALB, D, 1.85, -, 07-03-05, Brescia, None
+34, Buddhiman Pandini, ITA, D, 1.87, -, 21-01-05, -, None
+35, Carlo Ghidini, ITA, M, 1.78, -, 09-09-06, -, None
+39, Michele Besaggio, ITA, M, 1.81, 68, 28-04-02, Padua, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Corrado Riviera, ITA, D, 1.84, -, 18-11-04, Brescia, Corticella (On Loan)
+8, Emanuele Ndoj, ALB, M, 1.89, 82, 20-11-96, Catania, Catania
+36, Vincenzo Garofalo, ITA, M, 1.84, 74, 08-08-99, Avellino, Virtus Francavilla
+19, Elia Maccherini Tonini, ITA, D, 1.90, -, 19-10-03, Brescia, Carrarese (On Loan)

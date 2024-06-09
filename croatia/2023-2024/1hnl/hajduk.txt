@@ -1,0 +1,48 @@
+=  Hajduk Split - Croatian 1.HNL 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Dominik Prpić, CRO, D, 1.88, 78, 19-05-04, Zagreb, Lokomotiva Zagreb
+4, Ivan Perišić, CRO, F, 1.86, 80, 02-02-89, Split, Tottenham H
+5, Ismaël Diallo, CIV, D, 1.78, 74, 29-01-97, Abidjan, Ajaccio
+6, Mihael Žaper, CRO, M, 1.87, 81, 11-08-98, Osijek, Osijek
+7, Anthony Kalik, AUS, M, 1.75, 72, 05-11-97, St Leonards, HNK Gorica
+8, Vadis Odjidja-Ofoe, BEL, M, 1.85, 79, 21-02-89, Gent, KAA Gent
+9, Nikola Kalinić, CRO, F, 1.87, 77, 05-01-88, Solin, Verona
+10, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, AEK
+11, Yassine Benrahou, FRA, M, 1.70, 62, 24-01-99, Le Blanc-Mesnil, Nîmes
+13, Ivan Lučić, AUT, G, 1.93, 92, 23-03-95, Vienna, Istra 1961
+17, Dario Melnjak, CRO, D, 1.85, 77, 31-10-92, Varaždin, Rizespor
+18, Fahd Moufi, MAR, D, 1.79, 73, 05-05-96, Mulhouse, Portimonense
+19, Josip Elez, CRO, D, 1.89, 75, 25-04-94, Split, Hannover 96
+20, Niko Sigur, CRO, D, 1.76, 68, 09-09-03, Burnaby, Radomlje
+21, Rokas Pukštas, USA, M, 1.81, 75, 25-08-04, Stillwater, Barça Residency Academy
+22, Leon Dajaku, GER, M, 1.80, 72, 12-04-01, Waibingen, Sunderland
+23, Filip Krovinović, CRO, M, 1.75, 70, 29-08-95, Zagreb, Benfica
+24, Dino Mikanović, CRO, D, 1.74, 72, 05-07-94, Nova Gradiška, Kairat Almaty
+25, Filip Uremović, CRO, D, 1.84, 81, 11-02-97, Požega, Hertha Berlin
+27, Aleksandar Trajkovski, MKD, F, 1.79, 78, 05-09-92, Skopje, Al-Fayha
+28, Roko Brajković, CRO, M, 1.76, 68, 03-07-05, Split, None
+30, László Kleinheisler, HUN, M, 1.86, 84, 08-04-94, Kazincbarcika, Panathinaikos
+31, Zvonimir Šarlija, CRO, D, 1.89, 80, 29-08-96, Koprivnica, Panathinaikos
+32, Šimun Hrgović, CRO, D, 1.77, 70, 20-03-04, Vukovar, Cibalia
+37, Noa Skoko, CRO, M, 1.77, 61, 12-01-06, Wythenshawe, North Geelong Warriors
+40, Borna Buljan, CRO, G, 1.85, 70, 05-04-05, Split, None
+70, Josip Brekalo, CRO, M, 1.75, 72, 23-06-98, Zagreb, Fiorentina
+77, Emir Sahiti, KVX, F, 1.74, 65, 29-11-98, Zemun, Rabotnički
+88, Ivan Ćubelić, CRO, M, 1.84, 79, 02-09-03, Split, None
+91, Lovre Kalinić, CRO, G, 1.98, 90, 03-04-90, Split, Aston Villa
+97, Ferro, POR, D, 1.92, 78, 26-03-97, Oliveira de Azeméis, Benfica
+99, Filip Čuić, BIH, F, 1.90, 79, 22-02-03, Split, Dugopolje
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Marko Capan, CRO, M, 1.80, 78, 24-02-04, Bjelovar, Široki Brijeg (On Loan)
+14, Lukas Grgić, AUT, M, 1.83, 84, 17-08-95, Wels, Rapid Vienna
+29, Jan Mlakar, SVN, F, 1.83, 77, 23-10-98, Domžale, Pisa
+1, Toni Silić, CRO, G, 1.96, 81, 07-05-04, Split, Sheriff Tiraspol (On Loan)
+36, Tino Blaž Lauš, CRO, M, 1.83, 75, 17-03-01, Split, Koper (On Loan)
+4, Ferro, POR, D, 1.92, 78, 26-03-97, Oliveira de Azeméis, Re-Registered (97)
+9, Aleksandar Trajkovski, MKD, F, 1.79, 78, 05-09-92, Skopje, Re-Registered (27)
+26, Ivan Dolček, CRO, F, 1.81, 76, 24-04-00, Koprivnica, DAC Dunajská Streda
+44, Luka Vušković, CRO, D, 1.93, 86, 24-02-07, Split, Radomiak Radom (On Loan)

@@ -1,0 +1,44 @@
+=  Catanzaro - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Fulignati, ITA, G, 1.88, 87, 31-10-94, Empoli, Perugia
+4, Matias Antonini, BRA, M, 1.92, 80, 09-04-98, Porto Alegre, Taranto
+7, Luca D'Andrea, ITA, M, 1.73, 69, 06-09-04, Naples, Sassuolo
+8, Luca Verna, ITA, M, 1.81, 83, 21-06-93, Lanciano, Pisa
+9, Pietro Iemmello, ITA, F, 1.80, 75, 06-03-92, Catanzaro, Frosinone
+10, Jacopo Petriccione, ITA, M, 1.76, 75, 22-02-95, Gorizia, Crotone
+12, Vincenzo Grimaldi, ITA, G, 1.80, 74, -, Belcastro, None
+14, Stefano Scognamillo, ITA, D, 1.83, 78, 04-05-94, St Petersburg, Alessandria
+16, Andrea Sala, ITA, G, 1.87, 76, 16-09-93, Saronno, Catania
+17, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Benevento
+18, Andrea Ghion, ITA, M, 1.74, 68, 23-02-00, Mantova, Sassuolo
+19, Matteo Stoppa, ITA, F, 1.75, 67, 27-09-00, Biella, Sampdoria
+20, Simone Pontisso, ITA, M, 1.84, 82, 20-03-97, San Daniele del Friuli, Pescara
+21, Marco Pompetti, ITA, M, 1.82, 77, 22-05-00, Pescara, Internazionale
+22, Edoardo Borrelli, ITA, G, 1.79, 77, 23-07-04, Rome, Ostia Mare
+23, Nicolò Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Frosinone
+24, Dimitris Sounas, GRE, M, 1.77, 70, 12-08-94, Portaria, Perugia
+27, Jari Vandeputte, BEL, M, 1.74, 70, 14-02-96, Gent, Vicenza
+28, Tommaso Biasci, ITA, F, 1.80, 75, 10-11-94, San Giuliano Terme, Padova
+32, Luka Krajnc, SVN, D, 1.88, 86, 19-09-94, Ptuj, Hannover 96
+33, Andrea Oliveri, ITA, M, 1.81, 76, 14-01-03, Palermo, Atalanta
+34, Paolo Rizzo, ITA, D, -, -, -, -, None
+40, Gabriel Rafele, ITA, F, 1.86, 77, 08-06-05, Catanzaro, None
+41, Alessandro Viotti, ITA, F, 1.83, 72, 30-03-04, Catanzaro, None
+44, Kevin Miranda, ITA, D, 1.88, 78, 10-03-03, Piedimonte Matese, Sassuolo
+70, Giuseppe Ambrosino, ITA, F, 1.87, 69, 10-09-03, Procida, Napoli
+72, Davide Veroli, ITA, M, 1.85, 75, 29-01-03, Ancona, Cagliari
+92, Mario Šitum, CRO, M, 1.77, 75, 04-04-92, Zagreb, Reggina
+99, Alfredo Donnarumma, ITA, F, 1.79, 73, 30-11-90, Torre Annunziata, Ternana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Pasquale Fazio, ITA, D, 1.80, 75, 10-06-89, Messina, Monopoli
+44, Riccardo Gatti, ITA, D, 1.87, 80, 30-03-97, Lecco, AlbinoLeffe
+10, Alessio Curcio, ITA, F, 1.80, 74, 12-03-90, Benevento, Casertana
+25, Francesco Bombagi, ITA, M, 1.78, 70, 08-09-89, Sassari, Mantova
+6, Nana Welbeck, GHA, M, 1.79, 64, 24-11-94, Accra, Catania
+77, Panos Katseris, GRE, M, 1.79, 73, 05-07-01, Athens, Lorient
+5, Dimo Krastev, BUL, D, 1.95, 76, 10-02-03, Burgas, Fiorentina
+30, Cristiano Belpanno, ITA, F, 1.78, 76, 05-11-04, Catanzaro, LFA Reggio Calabria

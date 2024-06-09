@@ -1,0 +1,52 @@
+=  Alcorcón - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo La Coruña
+3, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Lugo
+5, Roberto Olabe, ESP, M, 1.78, 70, 05-05-96, Salamanca, Eibar
+6, Juanma Bravo, ESP, M, 1.88, 74, 10-02-98, Murcia, Murcia
+7, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Fuenlabrada
+8, Ander Gorostidi, ESP, M, 1.85, 74, 23-02-96, San Sebastián, Real Sociedad B
+9, Joel Valencia, ECU, M, 1.64, 61, 16-11-94, Quinindé, Brentford
+10, Hugo Fraile, ESP, M, 1.70, 62, 16-03-87, Huelva, Fuenlabrada
+11, Manu Apeh, ESP, F, 1.80, 70, 25-10-96, Kaduna, Tenerife
+12, Giovanni Zarfino, URU, M, 1.84, 85, 08-10-91, Montevideo, Extremadura
+13, Cristian Rivero, ESP, G, 1.88, 75, 21-03-98, Gandia, Valencia
+14, Nicolás Gorosito, ARG, D, 1.86, 79, 17-08-88, Rafaela, Albacete
+15, Carlos Hernández, ESP, D, 1.85, 80, 15-09-90, Jaén, Oviedo
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Víctor García, VEN, D, 1.75, 70, 11-06-94, Cúa, Vitória Guimarães
+18, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Peñarol
+19, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Oviedo
+20, Iván Calero, ESP, D, 1.74, 64, 21-04-95, Parla, Málaga
+21, Luis Valcarce, ESP, D, 1.75, 70, 03-02-93, Ponferrada, Arka Gdynia
+22, Óscar Arribas, ESP, M, 1.78, 68, 22-10-98, Parla, Alcorcón B
+23, David Forniés, ESP, D, 1.77, 71, 02-06-91, Valencia, Cartagena
+24, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Khor Fakkan
+25, José Ángel Jurado, ESP, M, 1.82, 74, 21-06-92, Seville, Al-Wahda
+26, Antonio Moyano, ESP, M, 1.78, 69, 13-07-00, Montilla, Córdoba B
+28, Emi Hernández, ESP, D, 1.75, 70, 03-08-00, Rosario, Móstoles
+29, Luis Molina, ESP, F, 1.80, 71, 03-01-00, Madrid, Rayo Vallecano B
+30, Rafa Diz, ESP, M, 1.70, 58, 09-10-00, Córdoba, Alcorcón B
+31, Jesús Ruiz, ESP, G, 1.80, 75, 20-01-97, Esplugues de Llobregat, Tarazona
+32, Yuste, ESP, D, 1.85, 80, 04-04-01, Madrid, Deportivo La Coruña B
+33, Jagoba Zárraga, ESP, G, 1.87, 80, 04-11-97, Bilbao, Racing Santander
+34, Abdoulaye Keita, ESP, F, 1.86, 71, 01-09-02, Toledo, Alcorcón B
+35, Óscar Rivas, ESP, D, 1.90, 80, 27-03-00, Albacete, Móstoles
+36, Yago Paredes, ESP, F, 1.86, 77, 01-11-04, Madrid, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Ernesto Gómez, ESP, M, 1.73, 65, 18-07-94, Albolote, Burgos
+24, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, Lecce
+9, Marc Gual, ESP, F, 1.84, 73, 13-03-96, Badalona, Dnipro-1
+33, Juanpe Gil, ESP, G, 1.88, 77, 05-05-01, Madrid, De-Registered
+20, Abdel Al Badaoui, MAR, F, 1.79, 72, 25-05-96, -, Waasland-Beveren (On Loan)
+11, Juan Hernández, ESP, M, 1.77, 71, 06-12-94, Lorca, Ponferradina
+13, José Aurelio Suárez, ESP, G, 1.87, 85, 18-12-95, Gijón, Tokushima Vortis
+1, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Leganés
+4, Fidel Escobar, PAN, D, 1.81, 74, 09-01-95, Ciudad de Panamá, Cultural Leonesa (On Loan)
+5, Juan Aguilera, ESP, M, 1.85, 76, 13-09-85, Madrid, 
+7, Lucho Vega, ARG, M, 1.86, 78, 09-04-99, Buenos Aires, Estoril
+21, Asier Córdoba, ESP, M, 1.84, 70, 31-03-00, Bilbao, SD Logroñés

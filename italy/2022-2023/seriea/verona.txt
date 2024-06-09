@@ -1,0 +1,54 @@
+=  Verona - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lorenzo Montipò, ITA, G, 1.91, 82, 20-02-96, Novara, Benevento
+2, Deyovaisio Zeefuik, NED, D, 1.85, 85, 11-03-98, Amsterdam, Hertha Berlin
+3, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Hibernian
+4, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Genoa
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Crotone
+6, Isak Hien, SWE, D, 1.91, 84, 13-01-99, Stockholm, Djurgårdens IF
+7, Simone Verdi, ITA, F, 1.74, 72, 12-07-92, Broni, Torino
+8, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Genoa
+9, Thomas Henry, FRA, F, 1.91, 86, 20-09-94, Argenteuil, Venezia
+10, Ajdin Hrustić, AUS, M, 1.83, 74, 05-07-96, Melbourne, Eintracht Frankfurt
+11, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Udinese
+17, Federico Ceccherini, ITA, D, 1.87, 72, 11-05-92, Livorno, Fiorentina
+19, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Salernitana
+21, Federico Caia, ITA, F, 1.83, -, 21-04-03, Livorno, Livorno
+22, Alessandro Berardi, ITA, G, 1.85, 72, 16-01-91, Rome, Bari
+23, Giangiacomo Magnani, ITA, D, 1.91, 85, 04-10-95, Correggio, Sassuolo
+24, Filippo Terracciano, ITA, M, 1.81, 68, 08-02-03, Verona, None
+25, Jayden Braaf, NED, F, 1.77, 65, 31-08-02, Amsterdam, Borussia Dortmund
+26, Cyril Ngonge, BEL, F, 1.79, 65, 26-05-00, Uccle, FC Groningen
+27, Paweł Dawidowicz, POL, D, 1.89, 80, 20-05-95, Olsztyn, Benfica
+28, Oliver Abildgaard, DEN, M, 1.75, 66, 10-06-96, Hasseris, Rubin Kazan
+29, Fabio Depaoli, ITA, D, 1.82, 71, 24-04-97, Riva del Garda, Sampdoria
+30, Yayah Kallon, SLE, F, 1.75, 70, 30-06-01, Kono, Genoa
+32, Juan Cabal, COL, D, 1.86, 79, 08-01-01, Cali, Atlético Nacional
+33, Ondrej Duda, SVK, M, 1.83, 64, 15-12-94, Snina, Köln
+34, Simone Perilli, ITA, G, 1.95, 88, 07-01-95, Rome, Brescia
+38, Adolfo Gaich, ARG, F, 1.90, 82, 26-02-99, Córdoba, CSKA Moscow
+42, Diego Coppola, ITA, D, 1.93, 78, 28-12-03, Bussolengo, None
+61, Adrien Tameze, FRA, M, 1.80, 78, 04-11-94, Lille, Nice
+70, Davide Bragantini, ITA, F, 1.82, -, 17-08-03, Negrar, None
+74, Elia Boseggia, ITA, G, 1.86, -, 06-02-04, -, Chievo Verona
+77, Ibrahim Sulemana, GHA, M, 1.80, 78, 22-05-03, Sunyani, Atalanta
+80, Alphadjo Cissè, ITA, F, 1.78, 68, 22-10-06, Treviso, Giorgione
+94, Giacomo Toniolo, ITA, G, 1.92, 83, 01-04-04, Legnano, None
+97, Denis Cazzadori, ITA, F, 1.75, 67, 16-03-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Giovanni Simeone, ARG, F, 1.80, 81, 05-07-95, Buenos Aires, Napoli (On Loan)
+7, Antonín Barák, CZE, M, 1.90, 86, 03-12-94, Příbram, Fiorentina
+13, Mariusz Stępiński, POL, F, 1.83, 62, 12-05-95, Sieradz, Aris Limassol (On Loan)
+45, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Olympiakos (On Loan)
+2, Bruno Amione, ARG, D, 1.87, 78, 03-01-02, Calchaquí, Sampdoria (On Loan)
+72, Alessandro Cortinovis, ITA, F, 1.80, 76, 25-01-01, Bergamo, Atalanta
+28, Mateusz Praszelik, POL, M, 1.84, 74, 26-09-00, Racibórz, Cosenza (On Loan)
+14, Ivan Ilić, SRB, M, 1.85, 78, 17-03-01, Niš, Torino (On Loan)
+16, Mattia Chiesa, ITA, G, 1.90, 76, 16-07-00, Rovereto, Mantova (On Loan)
+18, Martin Hongla, CMR, M, 1.81, 78, 16-03-98, Yaoundé, Valladolid (On Loan)
+20, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Atalanta
+21, Koray Günter, GER, D, 1.84, 76, 16-08-94, Höxter, Sampdoria (On Loan)

@@ -1,0 +1,39 @@
+=  Paris FC - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rémy Riou, FRA, G, 1.91, 81, 06-08-87, Lyon, Lyon
+2, Tuomas Ollila, FIN, D, 1.73, 68, 25-04-00, Helsinki, HJK Helsinki
+4, Vincent Marchetti, FRA, M, 1.81, 69, 04-07-97, Ajaccio, Ajaccio
+5, Moustapha Mbow, SEN, D, 1.92, 74, 08-03-00, Dakar, Reims
+6, Paul Lasne, FRA, M, 1.83, 72, 16-01-89, Saint-Cloud, Brest
+7, Alimami Gory, FRA, F, 1.82, 72, 30-08-96, Le Havre, Cercle Brugge
+9, Lamine Diaby Fadiga, FRA, F, 1.88, 82, 19-01-01, Grasse, Nice
+10, Ilan Kebbal, ALG, M, 1.69, 60, 10-07-98, Marseille, Reims
+11, Andy Pembélé, FRA, M, 1.80, 70, 04-07-00, Gonesse, Lille
+12, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, OFI
+13, Yves Dabila, CIV, D, 1.83, 72, 01-01-97, Kouassi-Datèkro, Lille
+14, Cyril Mandouki, FRA, M, 1.80, 73, 21-08-91, Paris, Créteil
+15, Timothée Kolodziejczak, FRA, D, 1.81, 74, 01-10-91, Avion, Schalke
+16, Obed Nkambadio, FRA, G, 1.85, 78, 07-02-03, Paris, None
+17, Adama Camara, FRA, M, 1.79, 69, 18-10-96, Bondy, Racing Club de France
+18, Lohann Doucet, FRA, M, 1.80, 73, 14-09-02, Nantes, Nantes
+19, Mohamed Touré, AUS, F, 1.79, 78, 26-03-04, Conakry, Reims
+20, Julien López, ALG, M, 1.73, 63, 01-03-92, Marseille, Consolat
+22, Sofiane Alakouch, MAR, D, 1.75, 61, 29-07-98, Nîmes, Metz
+23, Josias Lukembila, SUI, F, 1.81, 80, 09-09-99, Lausanne, Wil
+25, Yoan Koré, FRA, D, 1.87, 75, 16-11-04, Bourg-la-Reine, None
+26, Lamine Gueye, SEN, F, 1.78, 74, 13-03-98, M'Bour, Metz
+27, Jules Gaudin, FRA, M, 1.80, 71, 09-05-00, Saint-Brieuc, Guingamp
+29, Pierre-Yves Hamel, FRA, F, 1.85, 67, 03-02-94, Brest, Lorient
+30, Téva Gardies, FRA, G, 1.97, 81, 01-04-01, -, Sète
+31, Samir Chergui, FRA, D, 1.83, 63, 06-02-99, Brétigny-sur-Orge, Auxerre
+40, Ivan Filipović, CRO, G, 1.97, 92, 13-11-94, Slavonski Brod, Slaven Belupo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Warren Caddy, FRA, F, 1.83, 83, 09-04-97, Cagnes-sur-Mer, Annecy (On Loan)
+15, Check-Oumar Diakité, FRA, M, 1.73, 63, 05-12-02, Montreuil, Adanaspor
+4, Nobel Mendy, SEN, D, 1.87, 78, 16-08-04, Guédiawaye, Betis B (On Loan)
+8, Yohan Demoncy, FRA, M, 1.81, 73, 07-04-96, Gonesse, Annecy
+28, Gabriel Oualengbe, FRA, M, 1.88, 82, 21-05-04, Gentilly, Créteil (On Loan)

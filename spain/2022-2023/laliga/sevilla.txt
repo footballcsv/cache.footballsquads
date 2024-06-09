@@ -1,0 +1,49 @@
+=  Sevilla - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Eibar
+2, Gonzalo Montiel, ARG, D, 1.78, 66, 01-01-97, Virrey del Pino, River Plate
+3, Alex Telles, BRA, D, 1.81, 71, 15-12-92, Caxias do Sul, Manchester U
+4, Karim Rekik, NED, D, 1.83, 76, 02-12-94, Den Haag, Hertha Berlin
+5, Lucas Ocampos, ARG, M, 1.87, 84, 11-07-94, Quilmes, Marseille
+6, Nemanja Gudelj, SRB, M, 1.77, 73, 16-11-91, Belgrade, Guangzhou Evergrande
+7, Suso, ESP, M, 1.76, 69, 19-11-93, Cádiz, Milan
+8, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Eibar
+9, Jesús Manuel Corona, MEX, F, 1.73, 73, 06-01-93, Hermosillo, FC Porto
+10, Ivan Rakitić, CRO, M, 1.84, 78, 10-03-88, Rheinfelden, Barcelona
+12, Rafa Mir, ESP, F, 1.86, 75, 18-06-97, Murcia, Wolverhampton W
+13, Yassine Bounou, MAR, G, 1.92, 78, 05-04-91, Montreal, Girona
+14, Tanguy Nianzou, FRA, D, 1.87, 83, 07-06-02, Paris, Bayern Munich
+15, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Leganés
+16, Jesús Navas, ESP, D, 1.72, 60, 21-11-85, Los Palacios, Manchester C
+17, Erik Lamela, ARG, M, 1.81, 80, 25-03-92, Florida, Tottenham H
+18, Pape Gueye, SEN, M, 1.87, 65, 24-01-99, Montreuil, Marseille
+19, Marcos Acuña, ARG, D, 1.72, 72, 28-10-91, Zapala, Sporting CP
+20, Fernando, BRA, M, 1.83, 76, 25-07-87, Alto Paraíso de Goiás, Galatasaray
+21, Óliver Torres, ESP, M, 1.78, 70, 10-11-94, Navalmoral de la Mata, FC Porto
+22, Loïc Badé, FRA, D, 1.91, 89, 11-04-00, Sèvres, Rennes
+23, Marcão, BRA, D, 1.85, 77, 05-06-96, Londrina, Galatasaray
+24, Alejandro Gómez, ARG, M, 1.67, 68, 15-02-88, Capital Federal, Atalanta
+25, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Tottenham H
+26, Pablo Pérez, ESP, D, 1.74, 65, 18-08-00, Madrid, Sevilla B
+27, Carlos Álvarez, ESP, M, 1.65, 61, 06-08-03, Sanlúcar la Mayor, Sevilla B
+28, Nacho Quintana, ESP, M, 1.78, 67, 23-02-01, Seseña, Atlético Madrid B
+31, Alberto Flores, ESP, G, 1.87, 80, 09-11-03, Fuentes de Andalucía, Sevilla B
+36, Matías Árbol, ESP, G, -, -, 12-09-02, Palomares del Río, Sevilla B
+42, Lulo Dasilva, ESP, M, 1.87, 71, 04-10-02, Seville, Sevilla B
+43, Manu Bueno, ESP, M, 1.78, 71, 27-07-04, Jerez de la Frontera, Sevilla B
+44, Diego Hormigo, ESP, D, 1.82, 75, 16-04-03, Seville, Sevilla B
+45, Xavi Sintes, ESP, M, 1.89, 77, 05-08-01, Mahón, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Munir El Haddadi, MAR, F, 1.72, 62, 01-09-95, San Lorenzo de El Escorial, Getafe
+36, Iván Romero, ESP, F, 1.75, 72, 10-04-01, La Solana, Tenerife (On Loan)
+22, Isco, ESP, M, 1.76, 79, 21-04-92, Benalmádena, 
+5, Kasper Dolberg, DEN, F, 1.87, 82, 06-10-97, Silkeborg, Nice
+30, José Ángel Carmona, ESP, D, 1.83, 80, 29-01-02, El Viso del Alcor, Elche (On Loan)
+34, Pedro Ortiz, ESP, M, 1.84, 76, 19-08-00, Palma de Mallorca, Vizela (On Loan)
+18, Thomas Delaney, DEN, M, 1.82, 71, 03-09-91, Frederiksberg, 1899 Hoffenheim (On Loan)
+29, Kike Salas, ESP, D, 1.86, 80, 23-04-02, Morón de la Frontera, Tenerife (On Loan)
+11, Adnan Januzaj, BEL, M, 1.86, 76, 05-02-95, Brussels, İstanbul Başakşehir (On Loan)

@@ -1,0 +1,47 @@
+=  Rubin Kazan - Russian Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nikita Medvedev, RUS, G, 1.92, 80, 17-12-94, Izhevsk, Lokomotiv Moscow
+2, Egor Teslenko, RUS, D, 1.86, 84, 31-01-01, Krasnodar, KamAZ
+3, Montassar Talbi, TUN, D, 1.90, 74, 26-05-98, Paris, Benevento
+4, Silvije Begić, CRO, D, 1.97, 87, 03-06-93, Imotski, FC Orenburg
+7, Soltmurad Bakayev, RUS, M, 1.78, 70, 05-08-99, Nazran, Spartak Moscow-2
+8, Aleksandr Lomovitskiy, RUS, M, 1.81, 71, 27-01-98, Moscow, Spartak Moscow
+10, German Onugkha, RUS, F, 1.90, 85, 06-07-96, Moscow, Vejle
+13, Kirill Klimov, RUS, F, 1.91, 79, 30-01-01, Oryol, Monaco
+14, Mikhail Kostyukov, RUS, M, 1.82, 76, 09-08-91, Nizhny Novgorod, FC Tambov
+18, Marat Apshatsev, RUS, M, 1.77, 69, 27-05-01, Nalchik, Tom Tomsk
+20, Vladislav Ignatyev, RUS, D, 1.80, 72, 20-01-87, Naberezhnye Chelny, Lokomotiv Moscow
+22, Yuri Dyupin, RUS, G, 1.86, 79, 17-03-88, Barnaul, Anzhi Makhachkala
+23, Aleksandr Zuev, RUS, D, 1.75, 62, 26-06-96, Kostanay, FC Rostov
+24, Ivan Savitskiy, RUS, D, 1.81, 66, 07-03-03, -, FC Leningradets
+28, Oliver Abildgaard, DEN, M, 1.75, 66, 10-06-96, Hasseris, Aalborg
+31, Georgiy Zotov, RUS, D, 1.74, 72, 12-01-90, Novosibirsk, Krylia Sovetov
+38, Leon Musayev, RUS, M, 1.79, 67, 25-01-99, St. Petersburg, Zenit St Petersburg
+44, Vitali Lisakovich, BLR, F, 1.79, 73, 08-02-98, Minsk, Lokomotiv Moscow
+54, Artem Ismagilov, RUS, G, 1.98, 87, 29-06-04, -, Rubin-2
+56, Lenar Fattakhov, RUS, M, 1.72, 61, 12-05-03, -, Rubin-2
+58, Denis Mikhailov, RUS, M, 1.73, 56, 23-07-03, Yandemirovo, Rubin-2
+77, Ilya Samoshnikov, RUS, D, 1.77, 64, 14-11-97, Moscow, Torpedo Moscow
+85, Daniil Kuznetsov, RUS, M, 1.82, 68, 23-04-03, St. Petersburg, Zenit-2
+97, Konstantin Nizhegorodov, RUS, D, 1.87, 77, 21-06-02, Moscow, Hansa Rostock
+98, Konstantin Kuchaev, RUS, M, 1.78, 72, 18-03-98, Ryazan, CSKA Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Denis Makarov, RUS, M, 1.81, 75, 18-02-98, Tolyatti, Dynamo Moscow
+10, Darko Jevtić, SUI, M, 1.77, 62, 08-02-93, Basel, AEK (On Loan)
+27, Aleksey Gritsayenko, RUS, D, 1.86, 80, 25-05-95, Vladivostok, Kuban Krasnodar (On Loan)
+8, Oleg Shatov, RUS, M, 1.73, 64, 29-07-90, Nizhny Tagil, FC Ural
+16, Mitsuki Saito, JPN, M, 1.65, 61, 10-01-99, Kanagawa, Shonan Bellmare
+9, Djordje Despotović, SRB, F, 1.88, 80, 04-03-92, Donja Borina, Arsenal Tula
+19, Ivan Ignatyev, RUS, F, 1.80, 72, 06-01-99, Achinsk, Krylia Sovetov (On Loan)
+66, Nikita Yanovich, RUS, G, 1.86, 69, 28-03-03, Tomsk, Dinamo Stavropol (On Loan)
+84, Stepan Surikov, RUS, M, 1.87, 64, 30-01-02, Izhevsk, Salyut Belgorod (On Loan)
+57, Mishel Pukhaev, RUS, M, 1.77, 66, 01-01-02, Vladikavkaz, Dinamo Stavropol
+99, Sead Hakšabanović, MNE, M, 1.74, 69, 04-05-99, Hyltebruk, Djurgårdens IF (On Loan)
+11, Anders Dreyer, DEN, M, 1.72, 70, 02-05-98, Bramming, FC Midtjylland (On Loan)
+5, Filip Uremović, CRO, D, 1.84, 81, 11-02-97, Požega, Sheffield U (On Loan)
+21, Khvicha Kvaratskhelia, GEO, M, 1.83, 70, 12-02-01, Tbilisi, Dinamo Butami
+6, Hwang In-Beom, KOR, M, 1.77, 70, 20-09-96, Daejeon, FC Seoul (On Loan)

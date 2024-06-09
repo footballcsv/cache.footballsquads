@@ -1,0 +1,21 @@
+# Polish Ekstraklasa 2021/2022
+
+18 teams
+- [Bruk-Bet Termalica Nieciecza](brukbet.txt)
+- [Cracovia Kraków](cracovia.txt)
+- [Górnik Łęczna](gorlec.txt)
+- [Górnik Zabrze](gorzab.txt)
+- [Jagiellonia Białystok](jagbialy.txt)
+- [Lechia Gdańsk](lechgdan.txt)
+- [Lech Poznań](lechpoz.txt)
+- [Legia Warszawa](legia.txt)
+- [Piast Gliwice](piastgli.txt)
+- [Pogoń Szczecin](pogon.txt)
+- [Radomiak Radom](radomiak.txt)
+- [Raków Częstochowa](rakow.txt)
+- [Śląsk Wrocław](slask.txt)
+- [Stal Mielec](stalmielec.txt)
+- [Warta Poznań](wartapoz.txt)
+- [Wisła Kraków](wiskrak.txt)
+- [Wisła Płock](wisplock.txt)
+- [Zagłębie Lubin](zaglubin.txt)

@@ -1,0 +1,40 @@
+=  Hamarkameratene - Norwegian Eliteserien 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lars Jendal, NOR, G, 1.93, 89, 24-04-99, Oslo, None
+2, Vegard Kongsro, NOR, D, 1.83, 73, 07-08-98, Herøya, Bodø/Glimt
+3, Jens Martin Gammelby, DEN, D, 1.93, 81, 05-02-95, Ikast, Brøndby
+4, Halvor Rødølen Opsahl, NOR, D, 1.94, 80, 08-10-02, Lillehammer, Lillehammer
+5, Julian Dunn, CAN, D, 1.88, 82, 11-07-00, Toronto, Toronto FC
+6, John Olav Norheim, NOR, D, 1.91, 84, 05-04-95, Kristiansand, Jerv
+7, Kristian Onsrud, NOR, M, 1.86, 84, 22-07-94, -, Raufoss
+8, Oliver Kjærgaard, DEN, M, 1.84, 75, 11-07-98, Kokkedal, Helsingør
+9, Jonas Enkerud, NOR, F, 1.90, 81, 25-04-90, Åsnes, Elverum
+10, Moses Mawa, NOR, F, 1.82, 72, 04-08-96, Oslo, Kristiansund
+11, Tore André Sørås, NOR, M, 1.89, 75, 18-06-98, -, KFUM Oslo
+12, Marcus Sandberg, SWE, G, 1.91, 79, 07-11-90, Rönnäng, Stabæk
+14, Henrik Udahl, NOR, F, 1.85, 78, 12-01-97, Eidsberg, Vålerenga
+16, Pål Kirkevold, NOR, F, 1.85, 90, 10-11-90, Re, Stabæk
+17, Morten Bjørlo, NOR, M, 1.76, 64, 04-10-95, Jørpeland, Rosenborg
+18, Enok Naustdal, NOR, M, -, -, 11-09-05, -, Florø
+19, William Kurtović, SWE, M, 1.90, 85, 22-06-96, Karlskrona, Sandefjord
+20, Julian Gonstad, NOR, F, 1.80, 64, 29-06-06, -, None
+21, Viðar Ari Jónsson, ISL, M, 1.84, 75, 10-03-94, Reykjavík, FH
+22, Kobe Hernández-Foster, USA, D, 1.73, 70, 26-06-02, Los Angeles, Wolfsburg
+23, Fredrik Sjølstad, NOR, M, 1.87, 78, 29-03-94, Oslo, Molde
+24, Arne Ødegård, NOR, M, 1.81, 72, 04-02-04, Lillehammer, None
+25, Jonas Dobloug Rasen, NOR, M, 1.79, 71, 10-08-04, -, None
+26, Brynjar Ingi Bjarnason, ISL, D, 1.89, 81, 06-12-99, Akureyri, Vålerenga
+27, Amin Nouri, NOR, D, 1.80, 74, 10-01-90, Oslo, Sogndal
+28, Petter Eichler Jensen, NOR, G, -, -, 18-08-03, Gjøvik, None
+29, Lars Brotangen, NOR, D, 1.85, 80, 06-09-91, Moelv, Kjelsås
+31, Leo Haug Utkilen, NOR, M, -, -, 02-04-05, -, None
+32, Kristoffer Voldhagen, NOR, D, -, -, 29-01-04, -, None
+33, Aleksander Melgalvis, NOR, D, 1.78, 73, 10-08-89, Hamar, Lillestrøm
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+96, Nicholas Hagen, GUA, G, 1.93, 82, 02-08-96, Guatemala City, Bnei Sakhnin
+17, Rasmus Wiedesheim-Paul, SWE, F, 1.87, 68, 08-02-99, Halmstad, Rosenborg
+21, Benjamin Thoresen Faraas, NOR, M, -, -, 08-09-05, -, Club Brugge

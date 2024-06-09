@@ -1,0 +1,47 @@
+=  Birmingham City - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Neil Etheridge, PHI, G, 1.91, 89, 07-02-90, Enfield, Cardiff C
+2, Ethan Laird, ENG, D, 1.77, 66, 05-08-01, Basingstoke, Manchester U
+3, Lee Buchanan, ENG, D, 1.75, 67, 07-03-01, Mansfield, Werder Bremen
+4, Marc Roberts, ENG, D, 1.83, 81, 26-07-90, Wakefield, Barnsley
+5, Dion Sanderson, ENG, D, 1.88, 78, 15-12-99, Wolverhampton, Wolverhampton W
+6, Krystian Bielik, POL, M, 1.89, 78, 04-01-98, Konin, Derby Co
+7, Juninho Bacuna, CUW, M, 1.85, 78, 07-08-97, Groningen, Rangers
+8, Tyler Roberts, WAL, F, 1.80, 75, 12-01-98, Gloucester, Leeds U
+9, Scott Hogan, IRL, F, 1.80, 64, 13-04-92, Salford, Aston Villa
+10, Lukas Jutkiewicz, ENG, F, 1.85, 73, 28-03-89, Southampton, Burnley
+11, Koji Miyoshi, JPN, F, 1.67, 64, 26-03-97, Kawasaki, Royal Antwerp
+12, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, Leeds U
+13, Paik Seung-Ho, KOR, M, 1.80, 73, 17-03-97, Seoul, Jeonbuk Hyundai Motors
+14, Keshi Anderson, ENG, F, 1.75, 68, 06-04-95, Luton, Blackpool
+15, Alfie Chang, ENG, M, 1.85, 68, 04-09-02, Worcester, None
+16, Andre Dozzell, ENG, M, 1.78, 64, 02-05-99, Ipswich, QPR
+17, Siriki Dembélé, CIV, M, 1.70, 67, 07-09-96, -, Bournemouth
+18, Josh Williams, ENG, M, 1.82, 73, 24-11-02, Wolverhampton, None
+19, Jordan James, WAL, M, 1.78, 63, 27-04-04, Hereford, None
+20, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+21, John Ruddy, ENG, G, 1.96, 97, 24-10-86, St Ives, Wolverhampton W
+23, Emmanuel Longelo, ENG, D, 1.84, 70, 27-12-00, Barking, West Ham U
+24, Marcel Oakley, ENG, D, 1.80, 75, 30-10-02, Birmingham, None
+28, Jay Stansfield, ENG, F, 1.87, 72, 24-11-02, Exeter, Fulham
+29, Alex Pritchard, ENG, M, 1.71, 62, 03-05-93, Grays, Sunderland
+34, Ivan Šunjić, CRO, M, 1.84, 75, 09-10-96, Zenica, Dinamo Zagreb
+35, George Hall, ENG, M, 1.75, 70, 15-07-04, Redditch, None
+43, Junior Dixon, ENG, F, -, -, 24-10-04, Greenwich, Crystal Palace
+44, Emanuel Aiwu, AUT, D, 1.84, 77, 25-12-00, Innsbruck, Cremonese
+45, Oliver Burke, SCO, F, 1.74, 75, 07-04-97, Melton Mowbray, Werder Bremen
+46, Tommy Fogarty, NIR, D, -, -, 15-03-04, -, None
+47, Josh Home, ENG, M, -, -, 21-06-05, -, Newcastle U
+48, Bradley Mayo, ENG, G, -, -, 15-09-04, Birmingham, None
+49, Romelle Donovan, ENG, M, -, -, 30-11-06, Birmingham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Tate Campbell, ENG, M, 1.80, 72, 27-06-02, Birmingham, Bromley (On Loan)
+16, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, Barnsley
+27, Brandon Khela, ENG, M, 1.80, 75, 19-01-05, Coventry, Ross Co (On Loan)
+38, Zach Jeacock, ENG, G, 1.88, 77, 08-05-01, Birmingham, 
+25, Nico Gordon, ENG, D, 1.83, 72, 28-04-02, Birmingham, North Texas SC
+26, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Toronto FC

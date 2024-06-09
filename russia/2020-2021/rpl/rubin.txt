@@ -1,0 +1,40 @@
+=  Rubin Kazan - Russian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nikita Medvedev, RUS, G, 1.92, 80, 17-12-94, Izhevsk, Lokomotiv Moscow
+2, Carl Starfelt, SWE, D, 1.85, 81, 01-06-95, Stockholm, IFK Göteborg
+3, Mikhail Merkulov, RUS, D, 1.77, 70, 26-01-94, Kamyshin, FC Ural
+4, Silvije Begić, CRO, D, 1.97, 87, 03-06-93, Imotski, FC Orenburg
+5, Filip Uremović, CRO, D, 1.84, 81, 11-02-97, Požega, Olimpija Ljubljana
+6, Hwang In-Beom, KOR, M, 1.77, 70, 20-09-96, Daejeon, Vancouver Whitecaps
+8, Darko Jevtić, SUI, M, 1.77, 62, 08-02-93, Basel, Lech Poznań
+9, Djordje Despotović, SRB, F, 1.88, 80, 04-03-92, Donja Borina, FC Orenburg
+12, Aleksandr Zuev, RUS, D, 1.75, 62, 26-06-96, Kostanay, FC Rostov
+14, Mikhail Kostyukov, RUS, M, 1.82, 76, 09-08-91, Nizhny Novgorod, FC Tambov
+16, Mitsuki Saito, JPN, M, 1.65, 61, 10-01-99, Kanagawa, Shonan Bellmare
+19, Ivan Ignatyev, RUS, F, 1.80, 72, 06-01-99, Achinsk, FC Krasnodar
+20, Oleg Shatov, RUS, M, 1.73, 64, 29-07-90, Nizhny Tagil, Zenit St Petersburg
+21, Khvicha Kvaratskhelia, GEO, M, 1.83, 70, 12-02-01, Tbilisi, FC Rustavi
+22, Yuri Dyupin, RUS, G, 1.86, 79, 17-03-88, Barnaul, Anzhi Makhachkala
+25, Denis Makarov, RUS, M, 1.81, 75, 18-02-98, Tolyatti, Neftekhimik Nizhnekamsk
+27, Aleksey Gritsayenko, RUS, D, 1.86, 80, 25-05-95, Vladivostok, FC Tambov
+28, Oliver Abildgaard, DEN, M, 1.75, 66, 10-06-96, Hasseris, Aalborg
+31, Georgiy Zotov, RUS, D, 1.74, 72, 12-01-90, Novosibirsk, Krylia Sovetov
+38, Leon Musayev, RUS, M, 1.79, 67, 25-01-99, St. Petersburg, Zenit St Petersburg
+57, Mishel Pukhaev, RUS, M, 1.77, 66, 01-01-02, Vladikavkaz, Spartak Vladikavkaz
+66, Nikita Yanovich, RUS, G, 1.86, 69, 28-03-03, Tomsk, Rubin-2
+77, Ilya Samoshnikov, RUS, D, 1.77, 64, 14-11-97, Moscow, Torpedo Moscow
+84, Stepan Surikov, RUS, M, 1.87, 64, 30-01-02, Izhevsk, Rubin-2
+87, Soltmurad Bakayev, RUS, M, 1.78, 70, 05-08-99, Nazran, Spartak Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Vyacheslav Podberezkin, RUS, M, 1.87, 76, 21-06-92, Moscow, FC Ural
+11, Zuriko Davitashvili, GEO, M, 1.75, 69, 15-02-01, Tbilisi, Rotor Volgograd (On Loan)
+18, Pavel Mogilevets, RUS, M, 1.83, 70, 25-01-93, Kingisepp, FC Khimki
+15, Dmitriy Tarasov, RUS, M, 1.88, 73, 18-03-87, Tomsk, 
+10, Igor Konovalov, RUS, M, 1.80, 70, 08-07-96, Belorechensk, Arsenal Tula (On Loan)
+13, Kirill Klimov, RUS, F, 1.91, 79, 30-01-01, Oryol, FC Tambov (On Loan)
+47, Kirill Kosarev, RUS, F, 1.79, 66, 01-08-01, Samara, Tom Tomsk (On Loan)
+23, Ivan Konovalov, RUS, G, 1.91, 82, 18-08-94, Balashikha, FC Ural (On Loan)

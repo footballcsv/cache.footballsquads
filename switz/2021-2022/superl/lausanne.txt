@@ -1,0 +1,43 @@
+=  Lausanne-Sport - Swiss Super League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Castella, SUI, G, 1.85, 76, 30-06-93, Fribourg, Neuchâtel Xamax
+3, Archie Brown, ENG, D, 1.90, 86, 28-05-02, Birmingham, Derby Co
+5, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Oviedo
+6, Elton Monteiro, SUI, D, 1.92, 85, 22-02-94, Sion, Club Brugge
+7, Stjepan Kukuruzović, CRO, M, 1.80, 76, 07-06-89, Thun, St. Gallen
+8, Joël Geissmann, SUI, M, 1.84, 72, 03-03-93, Hägglingen, Thun
+9, Zeki Amdouni, SUI, F, 1.85, 79, 04-12-00, Geneva, Stade Lausanne Ouchy
+11, Brahima Ouattara, CIV, F, 1.70, 65, 23-11-02, Koko, Nice
+12, Mayron George, CRC, F, 1.90, 80, 23-10-93, Puerto Limón, FC Midtjylland
+13, Nassim Zoukit, SUI, M, 1.88, 78, 30-04-01, -, Étoile Carouge
+17, Goduine Koyalipou, CTA, F, 1.83, 76, 15-02-00, Bangui, Niort
+19, Maxen Kapo, FRA, M, 1.92, 75, 19-01-01, Quincy-sous-Sénart, Paris St-Germain
+20, Hicham Mahou, FRA, F, 1.79, 70, 02-07-99, Nice, Nice
+21, Jean N'Guessan, CIV, M, 1.77, 80, 17-04-03, Daloa, Nice
+23, Sofiane Alakouch, MAR, D, 1.75, 61, 29-07-98, Nîmes, Metz
+24, Armel Zohouri, CIV, D, 1.76, 69, 05-04-01, Divo, Nice
+25, Lamine Koné, CIV, D, 1.89, 80, 01-02-89, Paris, Strasbourg
+26, Fouad Chafik, MAR, D, 1.83, 72, 16-10-86, Pierrelatte, Dijon
+28, Toichi Suzuki, JPN, M, 1.65, 61, 30-05-00, Higashiosaka, Shonan Bellmare
+29, Maxime Poundjé, FRA, D, 1.79, 71, 16-08-92, Bordeaux, Bordeaux
+30, Adrien Trebel, FRA, M, 1.70, 60, 03-03-91, Dreux, Anderlecht
+33, Marvin Spielmann, SUI, M, 1.80, 73, 23-02-96, Olten, Young Boys
+38, Trazié Thomas, CIV, M, 1.72, 65, 01-07-99, Divo, Nice
+40, Mory Diaw, FRA, G, 1.95, 95, 22-06-93, Poissy, United Zürich
+51, Anel Husić, SUI, D, 1.86, 80, 01-03-01, Yverdon-les-Bains, None
+71, Karim Sow, SUI, D, 1.98, 80, 22-05-03, Payerne, Young Boys
+80, Alvyn Sanches, POR, M, 1.78, 63, 12-02-03, Créteil, None
+90, Rodrigo Pollero, URU, F, 1.80, 79, 14-09-96, San José da Mayo, Schaffhausen
+91, Melvin Mastil, FRA, G, 1.96, 92, 19-02-00, Thonon-les-Bains, Échallens
+98, Trae Coyle, ENG, F, 1.80, 71, 11-01-01, Camden, Arsenal
+99, Aldin Turkes, BIH, F, 1.93, 84, 22-04-96, Zug, Rapperswil-Jona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, Lorient
+10, Cameron Puertas, SUI, M, 1.78, 77, 18-08-98, Lausanne, Union St-Gilloise
+37, Mickaël Nanizayamo, FRA, D, 1.88, 82, 08-05-98, Tours, Rheindorf Altach (On Loan)
+66, Gabriel Barès, SUI, M, 1.87, 70, 29-08-00, Lausanne, Montpellier
+22, Marc Fred Tsoungui, SUI, D, 1.80, 80, 30-07-02, Yaoundé, Stade Lausanne Ouchy (On Loan)

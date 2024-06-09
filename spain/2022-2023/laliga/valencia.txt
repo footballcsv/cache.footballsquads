@@ -1,0 +1,50 @@
+=  Valencia - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iago Herrerín, ESP, G, 1.87, 92, 25-01-88, Bilbao, Al-Raed
+2, Thierry Correia, POR, D, 1.79, 65, 09-03-99, Amadora, Sporting CP
+3, Toni Lato, ESP, D, 1.71, 64, 21-11-97, La Pobla de Vallbona, Valencia B
+4, Yunus Musah, USA, M, 1.78, 72, 29-11-02, New York, Arsenal
+5, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Arsenal
+6, Hugo Guillamón, ESP, D, 1.76, 62, 31-01-00, L'Eliana, Valencia B
+7, Edinson Cavani, URU, F, 1.84, 71, 14-02-87, Montevideo, Manchester U
+8, Ilaix Moriba, GUI, M, 1.85, 68, 19-01-03, Conakry, RB Leipzig
+9, Justin Kluivert, NED, F, 1.71, 67, 05-05-99, Amsterdam, Roma
+11, Samu Castillejo, ESP, M, 1.82, 67, 18-01-95, Barcelona, Milan
+12, Mouctar Diakhaby, FRA, D, 1.89, 78, 19-12-96, Vendôme, Lyon
+13, Cristian Rivero, ESP, G, 1.88, 75, 21-03-98, Gandia, Valencia B
+14, José Luis Gayà, ESP, D, 1.72, 66, 25-05-95, Pedreguer, Valencia B
+15, Cenk Özkaçar, TUR, D, 1.90, 90, 06-10-00, Konak, Lyon
+16, Samuel Lino, BRA, F, 1.70, 69, 23-12-99, Santo André, Atlético Madrid
+17, Nico González, ESP, M, 1.88, 86, 03-01-02, La Coruña, Barcelona
+18, André Almeida, POR, M, 1.72, 62, 30-05-00, Guimarães, Vitória Guimarães
+19, Hugo Duro, ESP, F, 1.77, 70, 10-11-99, Getafe, Getafe
+20, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Granada
+21, Jesús Vázquez, ESP, D, 1.82, 73, 02-01-03, Mérida, Valencia B
+22, Marcos André, BRA, F, 1.84, 78, 20-10-96, Coroatá, Valladolid
+23, Jaume Domènech, ESP, G, 1.85, 73, 05-11-90, Almenara, Huracán Valencia
+24, Eray Cümart, SUI, D, 1.83, 80, 04-02-98, Basel, Basel
+25, Giorgi Mamardashvili, GEO, G, 1.99, 86, 29-09-00, Tbilisi, Dinamo Tbilisi
+26, Charly Pérez, ESP, G, -, -, 07-06-02, Chiva, Valencia B
+29, Fran Pérez, ESP, F, 1.76, 72, 09-09-02, Valencia, Valencia B
+33, Cristhian Mosquera, COL, D, 1.88, 79, 27-06-04, Alicante, Valencia B
+34, Rubén Iranzo, ESP, D, 1.82, 63, 14-03-03, Picanya, Valencia B
+35, Yellu, ESP, M, 1.92, 75, 25-05-04, Murcia, Valencia B
+36, Javi Guerra, ESP, M, 1.87, 70, 13-05-03, Valencia, Valencia B
+40, Diego López, ESP, F, 1.72, 62, 13-05-02, Turón, Barcelona B
+42, Emilio Bernad, ESP, G, 1.83, 69, 22-09-99, La Vall d'Uixó, Valencia B
+43, Mario Dominguez, ESP, F, 1.75, 70, 10-02-04, Granada, Valencia B
+46, Alberto Marí, ESP, F, 1.83, 75, 11-07-01, Alicante, Vitoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Koba Koindredi, FRA, M, 1.84, 70, 27-10-01, Djibouti, Oviedo (On Loan)
+8, Uroš Račić, SRB, M, 1.93, 81, 17-03-98, Kraljevo, Sporting Gijón (On Loan)
+9, Maximiliano Gómez, URU, F, 1.86, 91, 14-08-96, Paysandú, Trabzonspor
+10, Carlos Soler, ESP, M, 1.80, 76, 02-01-97, Valencia, Paris St-Germain
+21, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Girona
+28, Giorgi Mamardashvili, GEO, G, 1.99, 86, 29-09-00, Tbilisi, Re-Registered (25)
+32, Jesús Vázquez, ESP, D, 1.82, 73, 02-01-03, Mérida, Re-Registered (21)
+41, Tiago Ribeiro, POR, M, 1.85, 68, 14-03-02, Vila Nova de Gaia, Monaco
+1, Jaume Domènech, ESP, G, 1.85, 73, 05-11-90, Almenara, Re-Registered (23)

@@ -1,0 +1,51 @@
+=  Udinese - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, Racing Club
+3, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, Flamengo
+4, Sebastian Prödl, AUT, D, 1.94, 85, 21-06-87, Graz, Watford
+5, Thomas Ouwejan, NED, D, 1.83, 72, 24-06-96, Alkmaar, AZ Alkmaar
+6, Jean-Victor Makengo, FRA, M, 1.77, 75, 12-06-98, Etampes, Nice
+7, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Watford
+8, Mato Jajalo, CRO, M, 1.82, 81, 25-05-88, Jajce, Palermo
+9, Gerard Deulofeu, ESP, F, 1.77, 73, 13-03-94, Riudarenes, Watford
+10, Rodrigo De Paul, ARG, M, 1.80, 70, 24-05-94, Sarandí, Valencia
+11, Walace, BRA, M, 1.88, 75, 04-04-95, Salvador, Hannover 96
+14, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, SPAL
+16, Nahuel Molina, ARG, D, 1.75, 70, 02-12-97, Embalse, Boca Juniors
+17, Bram Nuytinck, NED, D, 1.90, 80, 04-05-90, Malden, Anderlecht
+19, Jens Stryger Larsen, DEN, D, 1.80, 74, 21-02-91, Sakskøbing, Austria Vienna
+21, Jayden Braaf, NED, F, 1.77, 65, 31-08-02, Amsterdam, Manchester C
+22, Tolgay Arslan, GER, M, 1.79, 75, 16-08-90, Paderborn, Fenerbahçe
+23, Ignacio Pussetto, ARG, F, 1.80, 74, 21-12-95, Cañada Rosquín, Watford
+24, Thomas Battistella, ITA, M, 1.83, 80, 29-07-01, Pordenone, None
+29, Petar Mićin, SRB, M, 1.89, 73, 29-09-98, Novi Sad, Čukarički
+30, Ilija Nestorovski, MKD, F, 1.82, 76, 12-03-90, Prilep, Palermo
+31, Manuel Gasparini, ITA, G, 1.92, 74, 19-05-02, San Daniele del Friuli, None
+32, Fernando Llorente, ESP, F, 1.93, 90, 26-02-85, Pamplona, Napoli
+37, Roberto Pereyra, ARG, M, 1.82, 77, 07-01-91, San Miguel de Tucumán, Watford
+45, Fernando Forestieri, ITA, F, 1.72, 67, 16-01-90, Rosario, Sheffield W
+50, Rodrigo Becão, BRA, D, 1.91, 79, 19-01-96, Salvador, Bahia
+64, Martin Palumbo, NOR, M, 1.82, 74, 05-03-02, Bergen, None
+65, Alessandro Rigo, ITA, M, 1.78, -, 25-02-02, Udine, None
+66, Matteo Carnelos, ITA, G, 1.92, -, 22-02-03, Motta di Livenza, Prata Falchi Visinale
+67, Edoardo Piana, ITA, G, 1.97, 77, 29-09-03, Soave, Vicenza
+68, Salah Basha, EGY, F, 1.89, 79, 05-03-03, Verona, None
+87, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Bologna
+90, Marvin Zeegelaar, NED, D, 1.86, 84, 12-08-90, Amsterdam, Watford
+96, Simone Scuffet, ITA, G, 1.93, 77, 31-05-96, Udine, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+93, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, Watford
+77, Ryder Matos, BRA, F, 1.80, 71, 27-02-93, Seabra, Empoli (On Loan)
+21, Marco Ballarini, ITA, M, 1.86, 68, 28-03-01, Gorizia, Piacenza (On Loan)
+27, Samuele Perisan, ITA, G, 1.92, 84, 21-08-97, San Vito al Tagliamento, Pordenone
+91, Łukasz Teodorczyk, POL, F, 1.88, 78, 03-06-91, Żuromin, Charleroi (On Loan)
+33, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Mirandés (On Loan)
+99, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Salernitana (On Loan)
+18, Hidde ter Avest, NED, D, 1.83, 74, 20-05-97, Wierden, FC Utrecht
+88, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Reggina
+15, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Verona (On Loan)
+38, Rolando Mandragora, ITA, M, 1.83, 76, 29-06-97, Naples, Juventus

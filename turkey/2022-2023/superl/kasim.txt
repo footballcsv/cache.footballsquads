@@ -1,0 +1,51 @@
+=  Kasımpaşa - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ertuğrul Taşkıran, TUR, G, 1.91, 83, 05-11-89, Kadıköy, Konyaspor
+2, Fabiano Souza, BRA, D, 1.75, 70, 14-03-00, Presidente Prudente, Sporting Braga
+3, Papy Djilobodji, SEN, D, 1.93, 82, 01-12-88, Kaolack, Gaziantep
+4, Ryan Donk, NED, M, 1.92, 80, 30-03-86, Amsterdam, Galatasaray
+6, Daniel Graovac, BIH, D, 1.86, 76, 08-08-93, Bosanski Novi, CFR Cluj
+7, Mamadou Fall, SEN, M, 1.84, 70, 31-12-91, -, Charleroi
+8, Tunay Torun, TUR, F, 1.79, 75, 21-04-90, Hamburg, Fatih Karagümrük
+9, Bengadli-Fodé Koita, GUI, F, 1.86, 86, 21-10-90, Paris, Trabzonspor
+10, Haris Hajradinović, BIH, M, 1.79, 69, 18-02-94, Prilep, Osijek
+11, Yunus Mallı, TUR, M, 1.79, 74, 24-02-92, Kassel, Trabzonspor
+12, Mortadha Ben Ouanes, TUN, D, 1.82, 78, 02-07-94, Sousse, Étoile du Sahel
+13, Valentin Eysseric, FRA, M, 1.81, 73, 25-03-92, Aix-en-Provence, Fiorentina
+15, Tarkan Serbest, AUT, M, 1.82, 73, 02-05-94, Vienna, Austria Vienna
+16, Mounir Chouiar, FRA, F, 1.77, 75, 23-01-99, Liévin, İstanbul Başakşehir
+17, Ahmet Engin, GER, M, 1.80, 70, 09-08-96, Moers, Duisburg
+18, Sadık Çiftpınar, TUR, D, 1.83, 77, 01-01-93, Seyhan, Yeni Malatyaspor
+19, Stéphane Bahoken, CMR, F, 1.85, 86, 28-05-92, Grasse, Angers
+21, Gökhan Gül, GER, D, 1.80, 75, 17-07-98, Castrop-Rauxel, Gençlerbirliği
+22, Erdem Canpolat, GER, G, 1.94, 85, 13-08-01, Duisburg, Schalke II
+23, Mehmet Feyzi Yıldırım, TUR, M, 1.75, 67, 23-01-96, Çifteler, Eskişehirspor
+24, Mickaël Tirpan, BEL, D, 1.77, 72, 23-10-93, Anderlecht, Fortuna Sittard
+25, Mustafa Eskihellaç, TUR, M, 1.77, 67, 05-05-97, Trabzon, Gaziantep
+26, Mickaël Malsa, FRA, M, 1.78, 69, 12-10-95, Paris, Valladolid
+27, Günay Güvenç, GER, G, 1.85, 80, 25-07-91, Neu-Ulm, Gaziantep
+35, Aytaç Kara, TUR, M, 1.82, 81, 23-03-93, İzmir, Galatasaray
+41, Berat Kalkan, MKD, F, 1.71, 65, 02-03-03, İstanbul, None
+44, Ramazan Özkanlı, TUR, G, 1.90, 82, 25-01-03, İstanbul, None
+58, Yasin Özcan, TUR, D, -, -, 20-04-06, -, None
+67, Mehmet Enes Sarı, TUR, G, -, -, 08-06-00, Zonguldak, None
+81, Turgay Gemicibaşi, TUR, M, 1.80, 70, 23-04-96, Riesa, Austria Klagenfurt
+88, Ali Gholizadeh, IRN, M, 1.76, 72, 10-03-96, Namin, Charleroi
+94, Florent Hadergjonaj, KVX, D, 1.83, 75, 31-07-94, Langnau, Huddersfield T
+99, Ali Demirel, TUR, M, -, -, 02-01-03, -, Bochum
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+93, Recep Yemişci, TUR, D, 1.85, 71, 01-01-99, İzmir, Ankaraspor
+27, Taha Veysel Kemendi, TUR, D, -, -, 10-05-03, -, Malatya Arguvan (On Loan)
+44, Furkan Yaşa, TUR, D, -, -, 21-02-03, İstanbul, Malatya Arguvan (On Loan)
+25, Tomáš Břečka, CZE, D, 1.85, 85, 12-05-94, Kroměříž, Slovácko
+80, Hasan Emre Yeşilyurt, TUR, M, -, -, 18-08-00, Şişli, Kırklarelispor (On Loan)
+20, Erdem Çetinkaya, TUR, F, 1.77, 70, 29-03-01, Ankara, Bodrumspor (On Loan)
+59, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Dijon
+28, Raoul Petretta, ITA, D, 1.75, 70, 24-03-97, Rheinfelden, Toronto FC
+5, Jeffrey Bruma, NED, D, 1.86, 83, 13-11-91, Rotterdam, SC Heerenveen
+14, Oğuzhan Efe Yılmaz, TUR, M, -, -, 17-06-03, Ankara, Kırklarelispor (On Loan)
+30, Selim Dilli, TUR, D, 1.77, 68, 26-05-98, Trabzon, Karaman (On Loan)

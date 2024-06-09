@@ -1,0 +1,55 @@
+=  Rangers - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, Hull C
+2, James Tavernier, ENG, D, 1.76, 70, 31-10-91, Bradford, Wigan Ath
+3, Calvin Bassey, ITA, D, 1.85, 76, 31-12-99, Aosta, Leicester C
+4, John Lundstram, ENG, M, 1.81, 74, 18-02-94, Liverpool, Sheffield U
+5, Filip Helander, SWE, D, 1.92, 84, 22-04-93, Malmö, Bologna
+6, Connor Goldson, ENG, D, 1.91, 85, 18-12-92, York, Brighton & HA
+7, Ianis Hagi, ROU, M, 1.72, 60, 22-10-98, Istanbul, KRC Genk
+8, Ryan Jack, SCO, M, 1.82, 77, 27-02-92, Aberdeen, Aberdeen
+9, Amad Diallo, CIV, F, 1.73, 70, 11-07-02, Abidjan, Manchester U
+10, Steven Davis, NIR, M, 1.73, 70, 01-01-85, Ballymena, Southampton
+11, Cedric Itten, SUI, F, 1.89, 82, 27-12-96, Basel, St. Gallen
+14, Ryan Kent, ENG, F, 1.72, 65, 11-11-96, Oldham, Liverpool
+15, Jack Simpson, ENG, D, 1.78, 83, 08-01-97, Wandsworth, Bournemouth
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Juventus
+17, Joe Aribo, NGA, M, 1.83, 76, 21-07-96, Camberwell, Charlton Ath
+18, Glen Kamara, FIN, M, 1.81, 78, 28-10-95, Tampere, Dundee
+19, James Sands, USA, M, 1.80, 73, 06-07-00, Rye, New York C
+20, Alfredo Morelos, COL, F, 1.77, 79, 21-06-96, Cereté, HJK Helsinki
+22, Mateusz Żukowski, POL, M, 1.85, 82, 23-11-01, Lębork, Lechia Gdańsk
+23, Scott Wright, SCO, F, 1.75, 65, 08-08-97, Aberdeen, Aberdeen
+24, Nnamdi Ofoborh, NGA, M, -, -, 07-11-99, Southwark, Bournemouth
+25, Kemar Roofe, ENG, F, 1.78, 71, 06-01-93, Walsall, Anderlecht
+26, Leon Balogun, NGA, D, 1.90, 81, 28-06-88, Berlin, Wigan Ath
+28, Robby McCrorie, SCO, G, 1.88, 77, 18-03-98, Irvine, None
+30, Fashion Sakala, ZAM, F, 1.78, 72, 14-03-97, Kawele, Oostende
+31, Borna Barišić, CRO, D, 1.86, 79, 10-11-92, Osijek, Osijek
+33, Jon McLaughlin, SCO, G, 1.88, 83, 09-09-87, Edinburgh, Sunderland
+37, Scott Arfield, CAN, M, 1.78, 70, 01-11-88, Dechmont, Burnley
+42, Charlie McCann, IRL, M, 1.78, 65, 24-04-02, Coventry, Manchester U
+43, Leon King, SCO, D, -, -, 14-01-04, -, None
+50, Kane Ritchie-Hosler, ENG, M, -, -, 13-09-02, Manchester, Manchester C
+51, Alex Lowry, SCO, M, -, -, 23-06-03, -, None
+52, Tony Weston, ENG, F, 1.70, 65, 17-09-03, Liverpool, Blackpool
+54, Ross McCausland, NIR, M, -, -, 12-05-03, -, None
+58, Cole McKinnon, SCO, M, -, -, 29-01-03, -, None
+59, Murray Miller, AUS, M, -, -, 29-01-02, Sydney, None
+60, Robbie Fraser, SCO, M, -, -, 02-04-03, -, None
+64, Adam Devine, SCO, D, -, -, 25-03-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Jordan Jones, NIR, F, 1.74, 61, 24-10-94, Middlesbrough, Wigan Ath
+40, Glenn Middleton, SCO, F, 1.76, 68, 01-01-00, Northampton, St Johnstone (On Loan)
+19, Nikola Katić, CRO, D, 1.94, 80, 10-10-96, Ljubuški, Hajduk Split (On Loan)
+16, Nathan Patterson, SCO, D, 1.83, 79, 16-10-01, Glasgow, Everton
+27, Stephen Kelly, SCO, M, 1.76, 68, 13-04-00, Port Glasgow, Salford C (On Loan)
+9, Jermain Defoe, ENG, F, 1.71, 65, 07-10-82, Beckton, Sunderland
+22, Juninho Bacuna, CUW, M, 1.85, 78, 07-08-97, Groningen, Birmingham C
+32, Jake Hastie, SCO, M, 1.81, 75, 18-03-99, Law, Linfield (On Loan)
+21, Brandon Barker, ENG, F, 1.75, 68, 04-10-96, Manchester, Reading
+13, Andy Firth, ENG, G, 1.83, 64, 26-09-96, Ripon, Partick Thistle (On Loan)

@@ -1,0 +1,46 @@
+=  Pari Nizhny Novgorod - Russian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vadim Lukyanov, RUS, G, 1.94, 90, 16-12-02, Krasnodar, Forte Taganrog
+2, Viktor Aleksandrov, RUS, D, 1.90, 82, 14-02-02, Nizhny Novgorod, Rubin Kazan-2
+3, Artem Varganov, RUS, D, 1.93, 83, 06-08-04, Nizhny Novgorod, Kuban-Holding Pavlovskaya
+4, Ilya Zhigulyov, RUS, M, 1.75, 70, 01-02-96, Chernomorski, Zagłębie Lubin
+5, Konstantin Maradishvili, RUS, M, 1.79, 70, 07-02-00, Moscow, Lokomotiv Moscow
+8, Mamadou Maiga, MLI, M, 1.78, 75, 10-02-95, Bamako, Veles Moscow
+9, Zé Turbo, GNB, F, 1.88, 82, 22-10-96, Bissau, Al-Markhiya
+10, Aleksandr Troshechkin, RUS, M, 1.83, 78, 23-04-96, Moscow, Akhmat Grozny
+11, Mateo Stamatov, BUL, D, 1.78, 75, 22-03-99, Pazardzhik, FC Orenburg
+13, Ilya Kukharchuk, RUS, F, 1.84, 77, 02-08-90, Kostroma, Torpedo Moscow
+18, Konstantin Kuchaev, RUS, M, 1.78, 72, 18-03-98, Ryazan, CSKA Moscow
+19, Nikita Yermakov, RUS, D, 1.81, 72, 19-01-03, Syzran, CSKA Moscow
+20, Juan Boselli, URU, M, 1.74, 70, 09-11-99, Montevideo, Gil Vicente
+21, Dmitriy Kalayda, RUS, M, 1.74, 66, 04-02-05, Belorechensk, CSKA Moscow-2
+22, Nikita Kakkoev, RUS, D, 1.84, 75, 22-08-99, St. Petersburg, Zenit-2
+23, Nikoloz Kutateladze, RUS, F, 1.84, 74, 19-03-01, Tbilisi, Rodez
+24, Kirill Gotsuk, RUS, D, 1.94, 83, 10-09-92, Yelets, Krylia Sovetov
+25, Artur Nigmatullin, RUS, G, 1.92, 88, 17-05-91, Vladivostok, Arsenal Tula
+26, Dmitri Tikhiy, RUS, D, 1.86, 78, 29-10-92, Vladivostok, FC Khimki
+27, Dmitriy Zhivoglyadov, RUS, D, 1.78, 65, 29-05-94, Dubna, Lokomotiv Moscow
+70, Maksim Shnaptsev, RUS, D, 1.82, 75, 19-04-04, Moscow, Lokomotiv Moscow-2
+77, Vladislav Karapuzov, RUS, M, 1.80, 67, 06-01-00, Norilsk, Dynamo Moscow
+78, Nikolay Kalinskiy, RUS, M, 1.80, 75, 22-09-93, Moscow, Tom Tomsk
+80, Valeriy Tsarukyan, RUS, M, 1.70, 67, 12-11-01, Novaya Derevnya, Alania Vladikavkaz
+81, Ivan Kukushkin, RUS, G, 1.96, 80, 24-07-02, St. Petersburg, FC Ufa
+87, Kirill Bozhenov, RUS, M, 1.74, 64, 07-12-00, Barnaul, FC Rostov
+88, Kirill Glushchenkov, RUS, D, 1.91, 80, 05-02-00, Stavropol, Torpedo Zhodino
+89, Dmitriy Stotskiy, RUS, D, 1.71, 64, 01-12-89, Kaliningrad, FC Krasnodar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Lucas Masoero, ARG, D, 1.88, 84, 01-02-95, Mendoza, Universitatea Cluj
+14, Yaroslav Mikhailov, RUS, M, 1.82, 75, 28-04-03, Pskov, Zenit St Petersburg
+44, Daniil Kornyushin, RUS, D, 1.87, 82, 08-10-01, Stavropol, SKA-Khabarovsk
+93, Timur Suleymanov, RUS, F, 1.83, 78, 17-03-00, Derbent, Lokomotiv Moscow (On Loan)
+17, Ruslanbek Jiyanov, UZB, F, 1.70, 65, 05-06-01, Tashkent, Navbahor Namangan (On Loan)
+21, Essien Ededem, NGA, M, 1.80, 80, 14-04-98, Ikono, Tobol Kostanay
+6, Ibrokhimkhalil Yuldoshev, UZB, D, 1.70, 69, 14-02-01, Yangiyer, Kairat Almaty (On Loan)
+7, Edgar Sevikyan, RUS, M, 1.75, 70, 08-08-01, Moscow, Ferencváros
+51, Vitali Botnar, RUS, G, 1.87, 86, 19-05-01, Bălți, Torpedo Moscow
+57, Vyacheslav Krotov, RUS, F, 1.81, 71, 14-02-93, Astrakhan, Volgar Astrakhan (On Loan)
+65, Nikolay Tolstopyatov, RUS, D, 1.95, 91, 12-05-02, Yevpatoria, Spartak Moscow-2

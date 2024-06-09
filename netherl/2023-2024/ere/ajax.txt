@@ -1,0 +1,42 @@
+=  Ajax - Dutch Eredivisie 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gerónimo Rulli, ARG, G, 1.89, 84, 20-05-92, La Plata, Villarreal
+2, Devyne Rensch, NED, D, 1.79, 68, 18-01-03, Lelystad, None
+3, Anton Gaaei, DEN, D, 1.83, 73, 19-11-02, Viborg, Viborg
+4, Jorrel Hato, NED, D, -, -, 07-03-06, Rotterdam, None
+6, Jordan Henderson, ENG, M, 1.82, 67, 17-06-90, Sunderland, Al-Ettifaq
+7, Steven Bergwijn, NED, F, 1.78, 74, 08-10-97, Amsterdam, Tottenham H
+8, Kenneth Taylor, NED, M, 1.78, 72, 16-05-02, Alkmaar, None
+9, Brian Brobbey, NED, F, 1.80, 78, 01-02-02, Amsterdam, RB Leipzig
+10, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, Middlesbrough
+11, Carlos Forbs, POR, F, 1.69, 65, 19-03-04, Sintra, Manchester C
+12, Jay Gorter, NED, G, 1.90, 79, 30-05-00, Purmerend, Go Ahead Eagles
+13, Ahmetcan Kaplan, TUR, D, 1.89, 72, 16-01-03, Trabzon, Trabzonspor
+16, Sivert Mannsverk, NOR, M, 1.85, 77, 08-05-02, Øvre Årdal, Molde
+18, Jakov Medić, CRO, D, 1.93, 91, 07-09-98, Zagreb, St Pauli
+19, Julian Rijkhoff, NED, F, 1.83, 72, 25-01-05, Purmerend, Borussia Dortmund II
+21, Branco van den Boomen, NED, M, 1.90, 75, 21-07-95, Eindhoven, Toulouse
+22, Remko Pasveer, NED, G, 1.88, 88, 18-11-83, Enschede, Vitesse
+23, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, Feyenoord
+24, Silvano Vos, NED, M, -, -, 16-03-05, Amsterdam, None
+25, Borna Sosa, CRO, D, 1.84, 77, 21-01-98, Zagreb, Stuttgart
+27, Amourricho van Axel Dongen, NED, F, 1.75, 70, 29-09-04, Almere, None
+28, Kian Fitz-Jim, NED, M, 1.74, 70, 05-07-03, Amsterdam, AZ Alkmaar
+30, Gastón Ávila, ARG, D, 1.82, 80, 30-09-01, Rosario, Royal Antwerp
+33, Benjamin Tahirovic, SWE, F, 1.83, -, 03-03-03, Spånga, Roma
+37, Josip Šutalo, CRO, D, 1.90, 82, 28-02-00, Čapljina, Dinamo Zagreb
+38, Kristian Hlynsson, ISL, M, -, -, 23-01-04, Odense, None
+39, Mika Godts, BEL, F, 1.76, 72, 07-06-05, Leuven, None
+40, Diant Ramaj, KVX, G, 1.86, 80, 19-09-01, Stuttgart, Eintracht Frankfurt
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Mohammed Kudus, GHA, M, 1.77, 70, 02-08-00, Accra, West Ham U
+19, Jorge Sánchez, MEX, D, 1.75, 76, 10-12-97, Torreón, FC Porto (On Loan)
+6, Davy Klaassen, NED, M, 1.85, 76, 21-02-93, Hilversum, Internazionale
+35, Francisco Conceição, POR, F, 1.70, 64, 14-12-02, Coimbra, FC Porto (On Loan)
+5, Owen Wijndal, NED, D, 1.78, 70, 28-11-99, Zaandam, Royal Antwerp (On Loan)
+19, Georges Mikautadze, GEO, F, 1.76, 71, 31-10-00, Lyon, Metz (On Loan)
+17, Anass Salah-Eddine, NED, D, 1.79, 66, 18-01-02, Amsterdam, FC Twente

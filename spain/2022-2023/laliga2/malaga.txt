@@ -1,0 +1,49 @@
+=  Málaga - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manolo Reina, ESP, G, 1.85, 80, 01-04-85, Villaneuva del Trabuco, Mallorca
+2, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Almería
+3, Javi Jiménez, ESP, D, 1.84, 74, 11-01-96, Quesada, Mirandés
+4, Unai Bustinza, ESP, D, 1.75, 74, 02-02-92, Bilbao, Leganés
+5, Juande, ESP, D, 1.85, 78, 07-07-99, Córdoba, Málaga B
+6, Ramón, ESP, M, 1.73, 68, 19-04-01, Órgiva, Málaga B
+7, Lago Junior, CIV, M, 1.82, 74, 31-12-90, Yamoussoukro, Mallorca
+8, Luis Muñoz, ESP, M, 1.80, 72, 23-02-97, Málaga, Málaga B
+9, Fran Sol, ESP, F, 1.80, 77, 13-03-92, Madrid, Dynamo Kyiv
+10, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Mallorca
+11, Álex Gallar, ESP, M, 1.76, 71, 19-03-92, Sabadell, Girona
+12, Pablo Chavarría, ARG, F, 1.82, 74, 02-01-88, Las Perdices, Mallorca
+13, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Getafe
+16, Genaro Rodríguez, ESP, D, 1.84, 76, 23-03-98, Gerena, Mirandés
+17, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Cartagena
+18, Alfred N'Diaye, SEN, M, 1.87, 87, 06-03-90, Paris, Al-Shabab
+19, Jozabed, ESP, M, 1.80, 67, 08-03-91, Mairena del Alcor, Celta Vigo
+20, Esteban Burgos, ARG, D, 1.88, 84, 09-01-92, Salta, Eibar
+21, Fran Villalba, ESP, M, 1.68, 65, 11-05-98, Valencia, Sporting Gijón
+22, Jonás Ramalho, ESP, D, 1.81, 64, 10-06-93, Barakaldo, Osasuna
+23, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Numancia
+24, Rubén Castro, ESP, F, 1.74, 72, 27-06-81, Las Palmas, Cartagena
+26, Álex Calvo, ESP, F, 1.70, 66, 20-02-04, Córdoba, Málaga B
+27, Víctor Olmo, ESP, D, 1.70, 67, 17-06-01, Jerez de la Frontera, Málaga B
+29, Loren Zúñiga, EQG, F, 1.80, 74, 18-01-03, Fuerteventura, Málaga B
+30, Carlos López, ESP, G, 1.83, 64, 13-11-04, Málaga, Málaga B
+31, Andrés Caro, ESP, D, 1.84, 70, 01-02-04, Rincón de la Victoria, Málaga B
+32, Moussa Diarra, MLI, D, 1.88, 72, 20-01-02, Bamako, Málaga B
+34, Rafa Martínez, ESP, G, 1.95, 90, 01-01-04, Córdoba, Málaga B
+35, Diego Murillo, ESP, D, 1.79, 75, 14-03-01, Malagón, Málaga B
+36, Arturo, ESP, G, 1.85, 68, 10-08-02, Vélez-Málaga, Torre del Mar
+37, Bilal Ouacharaf, MAR, F, 1.80, 72, 09-05-02, El Ejido, Málaga B
+38, Pablo Arriaza, ESP, D, 1.77, 71, 20-08-03, Málaga, Málaga B
+39, Cristian Gutiérrez, ESP, F, 1.77, 70, 30-11-00, Marbella, Granada B
+40, Issa Fomba, MLI, F, 1.75, 69, 24-05-01, Bamako, Derby Académie
+41, Rafa Rodríguez, ESP, M, 1.80, 79, 10-07-03, Seville, Málaga B
+44, Jesús Martín, ESP, M, 1.79, 67, 27-08-02, Aguadulce, Tarazona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Pablo Hervías, ESP, M, 1.74, 68, 08-03-93, Logroño, Bolívar
+2, Juanfran Moreno, ESP, D, 1.80, 71, 11-09-88, Madrid, Oviedo
+26, Dani Lorenzo, ESP, M, 1.76, 74, 05-04-03, Marbella, Mérida (On Loan)
+15, Lumor Agbenyenu, GHA, D, 1.75, 70, 15-08-96, Accra, 
+34, Haitam Abaida, MAR, F, 1.72, 70, 01-06-02, Polinyà, De-Registered

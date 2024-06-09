@@ -1,0 +1,49 @@
+=  İstanbulspor - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Jensen, DEN, G, 1.95, 92, 25-03-92, Hillerød, New York Red Bulls
+2, Denis Kovačević, BIH, D, 1.81, 73, 12-12-02, Vienna, Željezničar
+3, Duhan Aksu, TUR, D, 1.82, 75, 11-09-97, Ankara, Fenerbahçe
+4, Mehmet Yeşil, TUR, D, 1.88, 80, 31-05-98, Diyarbakır, Trabzonspor
+5, Eslem Öztürk, TUR, M, 1.77, 72, 01-12-97, Kocaeli, Beşiktaş
+6, Mirza Cihan, TUR, F, 1.76, 70, 26-10-00, Denizli, Gaziantep
+7, Valmir Veliu, KVX, F, 1.74, 70, 04-06-00, Podujevo, Gaziantep
+8, Onur Ergün, TUR, M, 1.85, 76, 15-11-92, Bingöl, Hatayspor
+10, Eduart Rroca, ALB, M, 1.82, 79, 28-09-93, Librazhd, FK Kukësi
+12, Mahamadou Ba, MLI, M, 1.75, 67, 21-09-99, Bamako, Adana Demirspor
+13, Oğuzhan Berber, TUR, D, 1.76, 67, 10-04-92, İzmir, Boluspor
+14, Raymond Owusu, GHA, F, 1.78, 69, 20-04-02, Kumasi, Zorya Luhansk
+16, Kerem Şen, TUR, M, 1.77, 70, 14-06-02, Bursa, Trabzonspor
+18, Vefa Temel, TUR, M, -, -, 03-11-02, Nantes, Bursaspor
+19, Emir Kaan Gültekin, TUR, F, 1.81, 75, 02-10-00, Mersin, Tarsus İdman Yurdu
+20, Simon Deli, CIV, D, 1.92, 84, 27-10-91, Abidjan, Adana Demirspor
+21, Demeaco Duhaney, ENG, D, 1.80, 70, 13-10-98, Manchester, Stoke C
+23, Okan Erdoğan, TUR, D, 1.85, 78, 29-09-98, Bremen, Preußen Münster
+24, Muammer Sarıkaya, TUR, M, 1.79, 75, 09-02-98, İstanbul, None
+26, Mücahit Serbest, TUR, G, -, -, 23-11-04, İstanbul, None
+27, Valon Ethemi, MKD, F, 1.79, 69, 03-10-97, Palatica, FK Kukësi
+34, Florian Loshaj, KVX, M, 1.74, 71, 13-08-96, Skenderaj, Cracovia Kraków
+39, Ahmet Said Kivanç, TUR, G, 1.89, 80, 29-04-98, İstanbul, Adanaspor
+44, Yusuf Özer, TUR, F, -, -, 19-06-02, İstanbul, None
+46, Ertuğrul Ersoy, TUR, D, 1.85, 78, 13-02-97, Gölcük, Gaziantep
+50, Michael Ologo, NGA, D, 1.89, 75, 05-04-03, Ologoama, None
+59, Alp Arda, TUR, G, 1.92, 75, 07-06-95, İstanbul, Osmaniyespor
+61, Sindrit Guri, ALB, F, 1.89, 74, 23-10-93, Shkodër, Shkëndija
+66, Ali Yaşar, BEL, D, 1.80, 77, 08-03-95, Liège, Konyaspor
+70, Jason Eyenga-Lokilo, BEL, F, 1.75, 65, 17-09-98, Brussels, Sparta Rotterdam
+88, Adi Mehremić, BIH, D, 1.89, 83, 26-04-92, Sarajevo, Wisła Kraków
+90, Emeka Eze, NGA, F, 1.85, 68, 26-09-96, Lagos, Eyüpspor
+98, Jetmir Topalli, KVX, F, 1.88, 79, 07-02-98, Kaçanik, Yeni Malatyaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Ferhat Yazgan, TUR, M, 1.75, 77, 20-10-92, Kiel, Çorum (On Loan)
+40, Marin Ljubić, CRO, G, 1.87, 79, 18-10-97, Split, FC Lahti
+20, Patrick Ebert, GER, M, 1.72, 68, 17-03-87, Potsdam, 
+7, Kristal Abazaj, ALB, M, 1.83, 75, 06-07-96, Elbasan, KF Tirana
+9, İbrahim Yılmaz, TUR, F, 1.84, 83, 06-02-94, Fatih, Eyüpspor (On Loan)
+57, Melih Kabasakal, TUR, M, 1.78, 70, 18-02-96, Samsun, Eyüpspor
+8, Dijlan Aydın, TUR, M, 1.83, 78, 16-06-00, Diyarbakır, Karacabey Belediyespor (On Loan)
+11, Aldin Čajić, BIH, M, 1.80, 69, 11-09-92, Konjic, 
+77, Kağan Bağış, TUR, F, 1.78, 70, 10-04-98, Kayseri, Yeni Mersin İdmanyurdu (On Loan)

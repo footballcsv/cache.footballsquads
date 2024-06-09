@@ -1,0 +1,40 @@
+=  Chaves - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paulo Vítor, BRA, G, 1.95, 89, 21-11-88, São Mateus, Rio Ave
+2, Habib Sylla, CIV, D, 1.77, 73, 12-02-99, Agboville, União de Leiria
+3, Nélson Monte, POR, D, 1.87, 71, 30-07-95, Vila do Conde, Dnipro-1
+5, Bruno Langa, MOZ, D, 1.78, 70, 31-10-97, Maputo, Amora
+7, Luther Singh, RSA, F, 1.71, 60, 05-08-97, Soweto, FC København
+8, João Mendes, POR, M, 1.83, 73, 21-10-94, Matosinhos, Tondela
+10, João Teixeira, POR, M, 1.78, 70, 06-02-94, Amora, Benfica
+12, Sandro Cruz, POR, D, 1.82, 76, 12-05-01, Braga, Benfica
+14, Sidy Sarr, SEN, M, 1.96, 88, 05-06-96, M'Bour, Nîmes
+16, Euller, BRA, M, 1.68, 54, 04-01-95, São Paulo, AEL Limassol
+17, Issah Abass, GHA, F, 1.73, 67, 26-09-98, Asokwa, Mainz
+19, Steven Vitória, CAN, D, 1.95, 86, 11-01-87, Toronto, Moreirense
+20, Juninho, BRA, F, 1.79, 73, 21-11-96, Pitangui, Athletico Paranaense
+21, Guima, POR, M, 1.81, 75, 14-11-95, Aveiro, ŁKS Łódź
+23, Héctor Hernández, ESP, F, 1.80, 72, 14-09-95, Las Palmas, Rayo Majadahonda
+24, Edu Borges, POR, D, 1.85, 78, 27-05-02, Chaves, Pedras Salgadas
+26, Carlos Ponck, CPV, D, 1.83, 84, 13-01-95, Mindelo, İstanbul Başakşehir
+28, Jonny Arriba, ESP, F, 1.76, 70, 01-11-01, La Vall d'Uixó, Villarreal B
+30, Gonçalo Pinto, POR, G, 1.94, 78, 30-04-00, Almada, Sporting CP
+31, Rodrigo Moura, BRA, G, 1.98, 92, 25-01-96, Brasília, Trofense
+40, Nwankwo Obiora, NGA, M, 1.83, 77, 12-07-91, Kaduna, Boavista
+44, João Queirós, POR, D, 1.90, 81, 22-04-98, Viana do Castelo, Köln
+47, Guilherme Silva, BRA, D, 1.91, 82, 21-10-00, -, Vianense
+73, Benny, POR, M, 1.78, 73, 27-03-00, Treixedo, Sporting CP
+77, João Correia, POR, D, 1.75, 68, 05-09-96, Setúbal, Vitória Guimarães
+83, João Pedro, POR, M, 1.77, 74, 03-04-93, Guimarães, Tondela
+95, Jô Batista, BRA, F, 1.92, 90, 01-05-95, Teófilo Otoni, Sporting Covilhã
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Nicolas Reis, BRA, F, 1.76, 68, 04-06-99, São Paulo, Pedras Salgadas (On Loan)
+11, Batxi, POR, F, 1.74, 64, 01-05-98, Sintra, FC Krasnodar
+6, Kevin Pina, CPV, M, 1.90, 83, 27-01-97, Praia, FC Krasnodar
+25, Žiga Frelih, SVN, G, 1.97, 90, 06-02-98, Ljubljana, Gil Vicente
+9, Patrick, CPV, F, 1.90, 73, 13-12-93, Nossa Senhora da Graça, Torreense
+70, Hélder Morim, POR, M, 1.75, 67, 14-05-01, Póvoa de Varzim, Trofense (On Loan)

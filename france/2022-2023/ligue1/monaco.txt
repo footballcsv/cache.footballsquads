@@ -1,0 +1,42 @@
+=  Monaco - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Vanderson, BRA, D, 1.80, 74, 21-06-01, Rondonópolis, Grêmio
+3, Guillermo Maripán, CHI, D, 1.93, 80, 06-05-94, San Miguel, Alavés
+4, Mohamed Camara, MLI, M, 1.75, 68, 06-01-00, Bamako, Red Bull Salzburg
+6, Axel Disasi, FRA, D, 1.90, 86, 11-03-98, Gonesse, Reims
+9, Myron Boadu, NED, F, 1.80, 67, 14-01-01, Amsterdam, AZ Alkmaar
+10, Wissam Ben Yedder, FRA, F, 1.70, 68, 12-08-90, Sarcelles, Sevilla
+11, Jean Lucas, BRA, M, 1.81, 78, 22-06-98, Rio de Janeiro, Lyon
+12, Caio Henrique, BRA, D, 1.77, 70, 31-07-97, Santos, Atlético Madrid
+14, Ismail Jakobs, SEN, D, 1.83, 75, 17-08-99, Cologne, Köln
+15, Eliot Matazo, BEL, M, 1.83, 70, 15-02-02, Woluwe-Saint-Lambert, Anderlecht
+16, Alexander Nübel, GER, G, 1.93, 84, 30-09-96, Paderborn, Bayern Munich
+17, Aleksandr Golovin, RUS, M, 1.80, 69, 30-05-96, Kaltan, CSKA Moscow
+18, Takumi Minamino, JPN, F, 1.74, 67, 16-01-95, Osaka, Liverpool
+19, Youssouf Fofana, FRA, M, 1.76, 69, 10-01-99, Paris, Strasbourg
+21, Maghnes Akliouche, FRA, M, 1.75, 63, 25-02-02, Tremblay-en-France, None
+23, Malang Sarr, FRA, D, 1.82, 73, 23-01-99, Nice, Chelsea
+26, Ruben Aguilar, FRA, D, 1.72, 71, 26-04-93, Grenoble, Montpellier
+27, Krépin Diatta, SEN, M, 1.75, 59, 25-02-99, Dakar, Club Brugge
+30, Thomas Didillon, FRA, G, 1.93, 80, 28-11-95, Séclin, Cercle Brugge
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, Bayer Leverkusen
+34, Chrislain Matsima, FRA, D, 1.90, 81, 15-05-02, Colombes, None
+36, Breel Embolo, SUI, F, 1.84, 71, 14-02-97, Yaoundé, B Mönchengladbach
+41, Soungoutou Magassa, FRA, M, 1.88, 70, 08-10-03, Stains, None
+44, Eliesse Ben Seghir, FRA, M, 1.78, 72, 16-02-05, Gassin, None
+50, Yann Liénard, FRA, G, 1.92, 82, 16-03-03, Aubagne, None
+77, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Atlético Madrid
+99, Yllan Okou, FRA, D, 1.80, 65, 23-12-02, Poitiers, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+51, Pelé, GNB, M, 1.82, 75, 29-09-91, Cacém, Famalicão (On Loan)
+54, Harrison Marcelin, FRA, D, 1.97, 85, 12-02-00, Le Port, Cercle Brugge (On Loan)
+55, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, Cagliari
+7, Sofiane Diop, FRA, M, 1.75, 65, 09-06-00, Tours, Nice
+52, Anthony Musaba, NED, F, 1.82, 72, 06-12-00, Beuningen, NEC Nijmegen (On Loan)
+5, Benoît Badiashile, FRA, D, 1.92, 75, 06-03-01, Limoges, Chelsea
+53, Willem Geubbels, FRA, F, 1.85, 72, 16-08-01, Villeurbanne, St. Gallen
+29, Félix Lemaréchal, FRA, M, 1.81, 73, 07-08-03, Tours, Brest (On Loan)

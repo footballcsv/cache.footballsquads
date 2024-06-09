@@ -1,0 +1,49 @@
+=  Yverdon Sport - Swiss Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mohamed Tijani, CIV, D, 1.88, 91, 10-07-97, Abidjan, Viktoria Plzeň
+3, Dimitrije Kamenović, SRB, D, 1.88, 80, 16-07-00, Pirot, Lazio
+4, Dario Del Fabro, ITA, D, 1.89, 75, 24-03-95, Alghero, Cittadella
+5, Boris Céspedes, BOL, M, 1.81, 72, 19-06-95, Santa Cruz de la Sierra, Servette
+6, Willian Le Pogam, FRA, D, 1.83, 75, 03-03-93, Hyères, Stade Lausanne Ouchy
+7, Mauro Rodrigues, GNB, M, 1.78, 72, 15-04-01, Funchal, Sion
+8, Hugo Fargues, FRA, M, 1.77, 76, 16-04-92, Grenoble, Nyon
+9, Marley Aké, FRA, F, 1.77, 68, 05-01-01, Béziers, Juventus
+10, Dominic Corness, ENG, M, 1.74, 62, 05-05-03, Liverpool, Liverpool
+11, Kevin Carlos, ESP, F, 1.86, 98, 10-04-01, Ceuta, Huesca B
+13, Mathias Olesen, LUX, M, 1.88, 75, 21-03-01, Copenhagen, Köln
+14, Johan Kury, SUI, F, 1.76, 72, 07-10-01, La Chaux-de-Fonds, La Chaux-de-Fonds
+15, Luca Jaquenoud, SUI, D, 1.81, 74, 21-05-02, Pompaples, Team Vaud
+17, Ricardo Alves, SUI, M, 1.75, 66, 02-12-01, Geneva, St. Gallen
+18, Néhemie Lusuena, SUI, M, 1.75, 69, 29-04-98, Yverdon-les-Bains, Team Vaud
+19, Yannick Cotter, SUI, F, 1.76, 70, 03-01-02, Sion, Juventus Next Gen
+21, Alan Rodriguez, SUI, M, 1.78, 69, 12-07-02, Marseille, Neuchâtel Xamax
+22, Kevin Martin, SUI, G, 1.80, 81, 13-06-95, Lausanne, Lausanne-Sport
+23, Niklas Gunnarsson, NOR, D, 1.88, 81, 27-04-91, Tønsberg, IFK Norrköping
+25, Christian Marques, POR, D, 1.87, 75, 15-01-03, Uster, Wolverhampton W
+26, Silva, BRA, M, 1.83, 77, 07-09-95, Cabedelo, Sion
+27, Varol Tasar, GER, M, 1.74, 65, 04-10-96, Waldshut-Tiengen, Luzern
+28, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, São Paulo
+32, Anthony Sauthier, SUI, D, 1.84, 70, 05-02-91, Saxon, Servette
+40, Paul Bernardoni, FRA, G, 1.90, 78, 18-04-97, Évry, Konyaspor
+42, Magnus Grødem, NOR, M, 1.92, 78, 14-08-98, Bryne, Molde
+44, Vladan Vidaković, SRB, M, 1.93, 87, 14-03-99, Novi Sad, Maribor
+45, Samuel Oum Gouet, CMR, M, 1.85, 76, 14-12-97, Ayos, Mechelen
+70, Evans Maurin, FRA, F, 1.79, 77, 30-03-01, Charenton-le-Pont, Chiasso
+71, Breston Malula, COD, M, 1.94, 88, 31-10-00, Bern, Chiasso
+81, Aimen Mahious, ALG, F, 1.85, 82, 15-09-97, Taher, USM Alger
+88, Christopher Lungoyi, SUI, F, 1.82, 74, 04-07-00, Kinshasa, Juventus Next Gen
+97, Mihael Klepač, CRO, F, 1.84, 77, 19-09-97, Našice, Mura
+99, Mirco Mazzeo, SUI, G, 1.91, 92, 15-12-99, Morges, Vevey U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jessé Hautier, SUI, F, 1.76, 72, 14-10-03, Yverdon-les-Bains, Neuchâtel Xamax (On Loan)
+23, Miguel Rodrigues, SUI, D, 1.84, 75, 07-12-96, Geneva, Bellinzona (On Loan)
+91, Lirik Vishi, SUI, M, 1.80, 73, 13-06-01, Langenthal, Bellinzona
+68, Brian Beyer, FRA, F, 1.84, 80, 15-10-96, -, Annecy
+9, Serigne Saliou Thioune, ITA, M, 1.79, 68, 07-02-04, -, Paradiso
+1, Sebastian Breza, CAN, G, 1.96, 87, 15-03-98, Ottawa, Bologna
+3, Aris Sörensen, SUI, D, 1.91, 76, 16-05-01, Giubiasco, Bellinzona
+12, Haithem Loucif, ALG, D, 1.75, 68, 08-07-96, Batna, Lausanne-Sport (On Loan)

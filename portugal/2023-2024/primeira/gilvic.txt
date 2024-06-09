@@ -1,0 +1,46 @@
+=  Gil Vicente - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vinícius, BRA, G, 1.88, 82, 19-06-97, Rio de Janeiro, Volta Redonda
+2, Zé Carlos, POR, D, 1.77, 75, 31-07-98, Porto, Sporting Braga
+5, Kiko Vilas Boas, POR, D, 1.77, 62, 08-09-99, -, Sanjoanense
+6, Jesús Castillo, PER, M, 1.85, 80, 11-06-01, Callao, Sporting Cristal
+7, Tidjany Touré, FRA, F, 1.84, 77, 15-07-02, Sarcelles, Feyenoord
+8, Maxime Dominguez, SUI, M, 1.72, 59, 01-02-96, Geneva, Raków Częstochowa
+9, Ali Alipour, IRN, F, 1.77, 70, 11-11-95, Qaem Shahr, Marítimo
+10, Kanya Fujimoto, JPN, M, 1.76, 67, 01-07-99, Yamanashi, Tokyo Verdy
+12, Brian Araújo, POR, G, 1.89, 83, 29-04-00, Paris, None
+13, Gabriel Pereira, POR, D, 1.88, 82, 07-05-00, Volta Redonda, Vilafranquense
+14, Roan Wilson, CRC, M, 1.84, 59, 01-05-02, Puerto Limón, Municipal Grecia
+16, Andre Simões, POR, M, 1.74, 64, 17-08-03, Braga, Famalicão
+17, Peixinho, POR, F, 1.85, 72, 23-05-04, Gondomar, Gondomar
+19, Jucélio, BRA, F, -, -, 02-04-03, -, Ibrachina
+20, Ricardinho, POR, F, 1.75, 62, 27-12-05, Mafra, Mafra
+22, Cláudio Araújo, POR, M, 1.77, 69, 22-02-03, Braga, Famalicão
+23, Leonardo Buta, POR, D, 1.82, 72, 05-06-02, Águeda, Udinese
+24, Mory Gbane, CIV, M, 1.88, 83, 25-12-00, Toumodi, FC Khimki
+25, Pedro Tiba, POR, M, 1.76, 74, 31-08-88, Arcos de Valdevez, Lech Poznań
+26, Rúben Fernandes, POR, D, 1.86, 75, 06-05-86, Portimão, Portimonense
+27, Miguel Monteiro, POR, F, 1.87, 77, 24-07-03, Guimarães, Vizela
+29, Depú, ANG, F, 1.78, 67, 08-01-00, Lobito, Petro Atlético
+35, Lipe, BRA, D, 1.88, 73, 19-02-02, Florianópolis, Avaí
+39, Jonathan Buatu Mananga, ANG, D, 1.87, 87, 27-09-93, Liège, Valenciennes
+42, Andrew, BRA, G, 1.89, 72, 01-07-01, Duque de Caxias, Botafogo
+50, Marcelo Caldas, POR, M, 1.82, 70, 15-06-03, Viana do Castel, Vianense
+53, João Barros, POR, D, 1.86, 74, 24-06-01, Funchal, Valadares Gaia
+58, Thomás Luciano, BRA, D, 1.80, 67, 14-01-02, Porto Alegre, Grêmio
+67, Alex Pinto, POR, D, 1.87, 79, 08-07-98, Guimarães, DAC Dunajská Streda
+70, Félix Correia, POR, F, 1.80, 65, 22-01-01, Lisbon, Juventus
+76, Martim Neto, POR, M, 1.85, 82, 14-01-03, Viana do Castelo, Benfica
+77, Murilo, BRA, F, 1.77, 68, 31-10-94, São José do Norte, Sporting Braga
+88, Kazu, BRA, D, 1.68, 67, 18-03-00, Maringá, Oliveirense
+90, Afonso Moreira, POR, F, 1.76, 69, 19-03-05, Lamego, Sporting CP
+92, Miguel Salgado, UAE, F, 1.88, 83, 17-02-05, Madrid, Paços de Ferreira
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Reda Ergouai, MAR, D, 1.86, 79, 14-06-03, Montpellier, Zaragoza B (On Loan)
+21, Roko Baturina, CRO, F, 1.87, 82, 20-06-00, Split, Racing Santander (On Loan)
+11, Marlon Douglas, BRA, F, 1.76, 64, 15-09-97, Pernambuco, Guarani (On Loan)
+4, Né Lopes, POR, D, 1.85, 78, 29-05-00, Braga, Torreense

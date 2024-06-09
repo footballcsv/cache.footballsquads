@@ -1,0 +1,45 @@
+=  Betis - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Robles, ESP, G, 1.95, 90, 17-06-90, Leganés, Everton
+2, Martín Montoya, ESP, D, 1.75, 73, 14-04-91, Gavà, Brighton & HA
+3, Edgar, ESP, D, 1.93, 85, 01-04-97, Sant Joan Despí, Espanyol B
+4, Paul Akouokou, CIV, M, 1.81, 68, 20-12-97, Abidjan, Ekenäs IF
+5, Marc Bartra, ESP, D, 1.84, 75, 15-01-91, San Jaime dels Domenys, Borussia Dortmund
+6, Víctor Ruíz, ESP, D, 1.85, 78, 25-01-89, Esplugues de Llobregat, Beşiktaş
+7, Juanmi, ESP, F, 1.72, 69, 20-05-93, Coín, Real Sociedad
+8, Nabil Fekir, FRA, M, 1.73, 72, 18-07-93, Lyon, Lyon
+9, Borja Iglesias, ESP, F, 1.87, 79, 17-01-93, Santiago de Compostela, Celta Vigo
+10, Sergio Canales, ESP, M, 1.80, 74, 16-02-91, Santander, Real Sociedad
+11, Cristian Tello, ESP, M, 1.78, 65, 11-08-91, Sabadell, Barcelona
+12, Willian José, BRA, F, 1.89, 93, 23-11-91, Porto Calvo, Real Sociedad
+13, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Granada
+14, William Carvalho, POR, M, 1.87, 79, 07-04-92, Luanda, Sporting CP
+15, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Rayo Vallecano
+16, Germán Pezzella, ARG, D, 1.87, 82, 27-06-91, Bahía Blanca, Fiorentina
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, El Puerto de Santa Maria, Fiorentina
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, PSV Eindhoven
+19, Héctor Bellerín, ESP, D, 1.78, 74, 19-03-95, Barcelona, Arsenal
+20, Diego Lainez, MEX, M, 1.67, 58, 09-06-00, Villahermosa, América
+21, Guido Rodríguez, ARG, M, 1.85, 78, 12-04-94, Sáenz Peña, América
+22, Víctor Camarasa, ESP, M, 1.83, 76, 28-05-94, Meliana, Levante
+23, Youssouf Sabaly, SEN, D, 1.74, 71, 05-03-93, Chesnay, Bordeaux
+24, Aitor Ruibal, ESP, F, 1.76, 74, 22-03-96, Manresa, Betis B
+25, Claudio Bravo, CHI, G, 1.84, 80, 13-04-83, Viluco, Manchester C
+28, Rodri, ESP, M, 1.68, 62, 16-05-00, Talayuela, Betis B
+30, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+32, Fran Delgado, ESP, D, 1.77, 62, 11-07-01, Écija, Betis B
+33, Juan Miranda, ESP, D, 1.85, 78, 19-01-00, Olivares, Barcelona B
+35, Raúl García, ESP, F, 1.92, 70, 03-11-00, Olesa de Montserrat, Betis B
+36, Marc Baró, ESP, D, 1.80, 72, 23-08-99, Palma de Mallorca, Cádiz B
+37, Kike Hermoso, ESP, D, 1.90, 76, 10-08-99, Madrid, Huesca
+38, Antonio Marchena, ESP, M, 1.82, 71, 27-07-02, Brenes, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Espanyol (On Loan)
+12, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Cruzeiro
+19, Yassin Fekir, FRA, M, 1.70, 65, 05-05-97, Lyon, Betis B
+36, José Manuel Calderón, ESP, D, -, -, 07-01-00, Paradas, San Fernando
+27, Roberto González, ESP, F, 1.73, 62, 08-01-01, Mérida, Las Palmas (On Loan)

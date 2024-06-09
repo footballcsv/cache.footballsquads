@@ -1,0 +1,21 @@
+# Portuguese Primeira Liga 2021/2022
+
+18 teams
+- [Arouca](arouca.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Estoril](estoril.txt)
+- [Famalicão](famalicao.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Paços de Ferreira](pacos.txt)
+- [Portimonense](portimon.txt)
+- [FC Porto](porto.txt)
+- [Santa Clara](santa.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [Tondela](tondela.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vizela](vizela.txt)

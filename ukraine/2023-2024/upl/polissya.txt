@@ -1,0 +1,46 @@
+=  Polissya Zhytomyr - Ukrainian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oleh Kudryk, UKR, G, 1.85, 71, 17-10-96, Lviv, FC Mariupol
+3, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Dnipro-1
+5, Mykyta Kravchenko, UKR, D, 1.78, 69, 14-06-97, Zuhres, Dynamo Kyiv
+6, Vyacheslav Tankovskyy, UKR, M, 1.68, 64, 16-08-95, Novomoskovsk, Metalist Kharkiv
+7, Oleksandr Nazarenko, UKR, M, 1.77, 60, 01-02-00, Dnipropetrovsk, Dnipro-1
+9, Luifer Hernández, VEN, F, 1.78, 65, 28-04-01, Puerto Cabello, Academia Puerto Cabello
+10, Ivan Petryak, UKR, M, 1.71, 63, 13-03-94, Smila, Shakhtar Donetsk
+13, Lucas Taylor, BRA, D, 1.77, 70, 10-04-95, Guarulhos, PAOK
+14, Yassin Fortuné, FRA, F, 1.78, 76, 30-01-99, Aubervilliers, Sion
+15, Bohdan Mykhaylychenko, UKR, M, 1.75, 70, 21-03-97, Boryspil, Dinamo Zagreb
+17, Oleksandr Usyk, UKR, F, 1.91, 100, 17-01-87, Simferopol, None
+18, Béni Makouana, CGO, F, 1.77, 66, 28-09-02, Brazzaville, Montpellier
+20, Yevheniy Mykytyuk, UKR, M, 1.80, 65, 21-09-05, -, Dynamo Kyiv-2
+22, Vasyl Hrytsuk, UKR, M, 1.83, 75, 21-11-87, Kryvyi Rih, Oleksandriya
+28, Pylyp Budkivskyy, UKR, F, 1.94, 78, 10-03-92, Kyiv, Desna Chernihv
+29, Artem Smolyakov, UKR, D, 1.81, 74, 29-05-03, -, Inhulets Petrove
+30, Artem Shabanov, UKR, D, 1.84, 74, 07-03-92, Kyiv, MOL Fehérvár
+31, Denys Ndukve, UKR, F, 1.80, 76, 28-02-00, Kharkiv, Zviahel
+33, Artem Pospelov, UKR, G, 1.90, 78, 11-01-98, Berdychiv, FC Kramatorsk
+37, Talles, BRA, M, 1.76, 62, 02-08-02, São Paulo, São Paulo
+44, Serhiy Chobotenko, UKR, D, 1.93, 81, 16-01-97, Zaporizhzhia, Kolos Kovalivka
+55, Borys Krushynskyi, UKR, D, 1.86, 69, 10-05-02, Sadkovychi, FC Lviv
+59, Artem Kozak, UKR, M, 1.80, 71, 28-05-98, Kovel, Chornomorets Odessa
+71, Denys Boyko, UKR, G, 1.91, 84, 29-01-88, Kyiv, Dynamo Kyiv
+77, Bohdan Kushnirenko, UKR, D, 1.92, 85, 02-11-95, Kyiv, Vorskla Poltava
+95, Emil Mustafeyev, AZE, M, 1.74, 72, 24-09-01, -, Oleksandriya
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Nikita Petruk, UKR, M, 1.70, 60, 08-06-03, Zhytomyr, Zviahel (On Loan)
+74, Yan Morhovskyi, UKR, D, 1.69, 69, 20-09-98, Zoryane, Zviahel
+19, Serhiy Kyslenko, UKR, F, 1.88, 76, 30-06-98, Taranivka, Zviahel
+4, Andriy Hitchenko, UKR, D, 1.87, 74, 02-10-84, Kyiv, Retired
+10, Denys Yanakov, UKR, F, 1.75, 66, 01-01-99, Zaporizhzhia, Veres Rivne (On Loan)
+23, Dmytro Shastal, UKR, M, 1.78, 66, 30-12-95, Kyiv, Veres Rivne (On Loan)
+7, Vladyslav Vakula, UKR, F, 1.73, 65, 29-04-99, Berdychiv, FC Mynai
+11, Vladyslav Shapoval, UKR, D, 1.89, 76, 08-05-95, Chernihiv, Chornomorets Odessa
+9, Yevheniy Morozko, UKR, M, 1.76, 68, 15-02-93, Kyiv, Veres Rivne (On Loan)
+99, Arielson, BRA, F, 1.80, 73, 05-09-04, Porto Velho, Cruzeiro
+2, Moses Jarju, GAM, D, 1.84, 78, 05-10-03, -, Zviahel (On Loan)
+8, Vladyslav Ohirya, UKR, M, 1.77, 72, 03-04-90, Hirske, Chornomorets Odessa
+12, Chijioke Aniagboso, NGA, G, 1.93, 82, 15-04-04, -, Zviahel (On Loan)

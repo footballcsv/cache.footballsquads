@@ -1,0 +1,43 @@
+=  Rayo Vallecano - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Zidane, FRA, G, 1.83, 78, 13-05-98, Marseille, Real Madrid B
+2, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Almería
+3, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Galatasaray
+4, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Guizhou Hengfeng
+5, Alejandro Catena, ESP, D, 1.94, 82, 28-10-94, Madrid, Reus
+6, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+7, Isi Palazón, ESP, M, 1.69, 71, 27-12-94, Cieza, Ponferradina
+8, Óscar Trejo, ARG, F, 1.80, 79, 26-04-88, Santiago del Estero, Toulouse
+9, Randy Nteka, FRA, M, 1.89, 75, 06-12-97, Paris, Fuenlabrada
+10, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Eibar
+11, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, Alavés
+12, Unai López, ESP, M, 1.69, 64, 30-10-95, Errenteria, Athletic Bilbao
+13, Stole Dimitrievski, MKD, G, 1.88, 80, 23-12-93, Kumanovo, Nàstic
+16, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Valladolid
+17, Martín Merquelanz, ESP, M, 1.76, 72, 12-06-95, Irún, Real Sociedad
+18, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Cádiz
+19, Kévin Rodrigues, POR, D, 1.70, 70, 05-03-94, Bayonne, Real Sociedad
+20, Iván Balliu, ALB, D, 1.75, 68, 01-01-92, Caldes de Malavella, Almería
+21, Pathé Ciss, SEN, M, 1.83, 71, 16-03-94, Dakar, Fuenlabrada
+23, Óscar Valentín, ESP, M, 1.77, 70, 20-08-94, Ajofrín, Rayo Majadahonda
+24, Esteban Saveljich, ARG, D, 1.87, 76, 02-05-91, Tandil, Levante
+26, Sergio Gimeno, ESP, D, -, -, 25-05-01, -, Valencia B
+27, Iker Recio, ESP, D, 1.85, 80, 17-06-01, Talavera de la Reina, Atlético Madrid B
+28, Álvaro Aguirre, ESP, M, -, -, 03-02-00, -, Rayo B
+30, Adrián Quintela, ESP, G, 1.84, 79, 11-03-01, Madrid, Málaga B
+31, Manu Navarro, ESP, M, -, -, 09-10-00, -, Rayo B
+32, Mario Hernández, ESP, D, 1.78, 69, 25-01-99, Madrid, Rayo B
+33, Fran García, ESP, D, 1.67, 61, 14-08-99, Bolaños de Calatrava, Real Madrid B
+34, Vere, ESP, M, -, -, 14-09-00, -, Torrejón
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Miguel Ángel Morro, ESP, G, 1.95, 82, 11-09-00, Alcalá de Henares, Fuenlabrada (On Loan)
+28, Jorge Moreno, ESP, D, 1.84, 78, 25-07-01, Madrid, Cultural Leonesa (On Loan)
+22, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Al-Ahli [QAT] (On Loan)
+29, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Amorebieta (On Loan)
+11, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Tenerife (On Loan)
+25, Mauricio Arboleda, COL, G, 1.83, 71, 21-04-96, Tumáco, Newell's Old Boys (On Loan)
+14, Yacine Qasmi, MAR, F, 1.83, 80, 03-01-91, Pontoise, Leganés

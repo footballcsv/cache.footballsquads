@@ -1,0 +1,44 @@
+=  Alavés - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Sivera, ESP, G, 1.85, 75, 11-08-96, Jávea, Valencia B
+2, Anderson Arroyo, COL, D, 1.80, 70, 27-09-99, Quibdó, Liverpool
+3, Rubén Duarte, ESP, D, 1.72, 68, 18-10-95, Almería, Espanyol
+4, Aleksandar Sedlar, SRB, D, 1.78, 79, 13-12-91, Novi Sad, Mallorca
+5, Víctor Laguardia, ESP, D, 1.85, 75, 05-11-89, Zaragoza, Zaragoza
+6, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+7, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, Girona
+8, Salva Sevilla, ESP, M, 1.78, 70, 18-03-84, Almería, Mallorca
+9, Miguel De La Fuente, ESP, F, 1.82, 77, 03-09-99, Tudela de Duero, Valladolid B
+10, Jason, ESP, M, 1.78, 65, 06-07-94, La Coruña, Valencia
+11, Luis Rioja, ESP, M, 1.73, 65, 16-10-93, Seville, Almería
+12, Asier Villalibre, ESP, F, 1.83, 82, 30-09-97, Guernica, Athletic Bilbao
+14, Nahuel Tenaglia, ARG, D, 1.82, 71, 21-02-96, Saladillo, Talleres (Córdoba)
+17, Xeber Alkain, ESP, M, 1.74, 69, 26-06-97, Hondarribia, Real Sociedad B
+18, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Real Sociedad
+19, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Almería
+20, Roberto González, ESP, F, 1.73, 62, 08-01-01, Mérida, Betis B
+21, Abde Rebbach, ALG, F, 1.76, 68, 11-08-98, Blida, San Ignacio
+22, Abdelkabir Abqar, MAR, D, 1.88, 80, 10-03-99, Settat, Málaga B
+23, Carlos Benavidez, URU, M, 1.85, 76, 30-03-98, Montevideo, Independiente
+26, Joseda, ESP, D, 1.83, 75, 22-01-01, Esplugues de Llobregat, Levante B
+27, Javi López, ESP, D, 1.83, 75, 25-03-02, Santa Cruz de Tenerife, Alavés B
+28, Álex Balboa, EQG, M, 1.81, 76, 06-03-01, Vitoria-Gasteiz, Alavés B
+29, Joaquín Panichelli, ARG, F, 1.87, 75, 07-10-02, Córdoba, River Plate
+30, Tomás Mendes, ESP, M, -, -, 21-11-04, Almería, Alavés B
+31, Jesús Owono, EQG, G, 1.83, 67, 01-03-01, Bata, San Ignacio
+32, Imanol Baz, ESP, D, -, -, 27-01-01, -, San Ignacio
+33, Adrián Rodríguez, ARG, G, 1.94, 83, 12-12-00, Palma de Mallorca, Real Madrid B
+34, Unai Ropero, ESP, F, 1.87, 72, 20-11-01, Vitoria-Gasteiz, Alavés B
+36, Marc Tenas, ESP, F, 1.83, 78, 30-05-01, Vic, Atlético Madrid B
+37, Antonio Blanco, ESP, M, 1.76, 66, 23-07-00, Montalbán, Real Madrid B
+38, Adrián Pérez, ESP, D, -, -, 04-03-03, -, Alavés B
+40, José de León, DOM, M, -, -, 02-03-04, Madrid, Alavés B
+41, Asier Gago, ESP, G, -, -, 14-06-00, -, San Ignacio
+46, Gaizka García, ESP, G, 1.92, 73, 17-02-05, Vitoria-Gasteiz, Alavés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Abdallahi Mahmoud, MTN, D, 1.87, 75, 04-05-00, Dar-Naim, Istra 1961 (On Loan)
+24, Taichi Hara, JPN, F, 1.87, 73, 05-05-99, Tokyo, Sint-Truiden (On Loan)

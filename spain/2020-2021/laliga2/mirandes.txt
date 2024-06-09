@@ -1,0 +1,42 @@
+=  Mirandés - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Limones, ESP, G, 1.89, 87, 17-10-86, Ciudad Real, Cartagena
+2, Carlos Julio Martínez, DOM, D, 1.71, 67, 04-02-94, Santo Domingo, Marbella
+3, Javi Jiménez, ESP, D, 1.84, 74, 11-01-96, Quesada, Cornellà
+4, Juan Berrocal, ESP, D, 1.84, 72, 05-02-99, Jerez de la Frontera, Sevilla B
+5, Daniel Vivian, ESP, D, 1.83, 83, 05-07-99, Vitoria-Gasteiz, Athletic Bilbao B
+6, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Espanyol
+7, Iván Martín, ESP, M, 1.78, 70, 14-02-99, Bilbao, Villarreal B
+8, Antonio Caballero, ESP, M, 1.76, 60, 06-01-94, Martos, Badajoz
+9, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Udinese
+10, Moha Ezzarfani, MAR, M, 1.76, 72, 15-11-97, Nador, Espanyol B
+11, Erik Jirka, SVK, M, 1.82, 73, 19-09-97, Trnava, Crvena Zvezda
+13, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Alcorcón
+14, Javi Muñoz, ESP, M, 1.77, 71, 28-02-95, Parla, Alavés
+16, Genaro Rodríguez, ESP, M, 1.84, 76, 23-03-98, Gerena, Sevilla B
+17, Ricardo Schutte, POR, F, 1.85, 75, 25-01-98, Ribeira Brava, Rio Ave
+18, Mario Barco, ESP, F, 1.78, 85, 23-12-92, Estella, Cádiz
+19, Simón Moreno, ESP, F, 1.74, 69, 02-07-97, Cartaya, Villarreal B
+20, Víctor Gómez, ESP, D, 1.66, 69, 01-04-00, Olesa de Montserrat, Espanyol B
+21, Bojan Letić, BIH, D, 1.84, 76, 21-12-92, Brčko, Radnički Niš
+22, Nicolas Jackson, SEN, M, 1.86, 78, 20-06-01, Dakar, Villarreal B
+23, Naïs Djouahra, FRA, M, 1.72, 65, 23-11-99, Bourgoin-Jallieu, Real Sociedad B
+24, Pablo Trigueros, ESP, D, 1.88, 78, 04-04-93, Herreruela de Oropesa, Ponferradina
+26, Mario Espinar, ESP, D, -, -, 25-05-99, -, Antoniano
+27, Mario García, ESP, D, -, -, 21-03-99, -, Tropezón
+28, Víctor Meseguer, ESP, M, 1.84, 81, 09-06-99, Murcia, Murcia
+29, Fredi Sualdea, ESP, M, -, -, 30-11-98, Aranda de Duero, Numancia B
+30, Carles Marco, ESP, D, -, -, 05-04-00, -, Alzira
+31, Alberto González, ESP, G, 1.90, 85, 23-07-96, Córdoba, Córdoba B
+32, Rodrigo Esteban, ESP, D, -, -, 07-09-01, Logroño, Athletic Bilbao B
+33, Juan De La Mata, ESP, M, 1.87, 65, 24-04-98, Segovia, Numancia B
+34, David Acedo, ESP, F, -, -, 29-10-98, Esplugues de Llobregat, Sabadell
+36, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Levante B
+38, Marcos Olguín, ESP, D, -, -, 24-03-01, Madrid, Burgos B
+39, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Rayo Vallecano B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Andrés García, ESP, M, 1.81, 75, 11-05-96, Madrid, Numancia

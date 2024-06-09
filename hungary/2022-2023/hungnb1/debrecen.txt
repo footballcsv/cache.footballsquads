@@ -1,0 +1,50 @@
+=  Debrecen - Hungarian Nemzeti Bajnokság I 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Milošević, SRB, G, 1.87, 81, 07-02-91, Belgrade, Astana
+4, Sylvain Deslandes, FRA, D, 1.86, 75, 25-04-97, Kouoptamo, Argeș Pitești
+6, Georgios Neofytidis, GRE, M, 1.83, 71, 28-07-00, Thessaloniki, Zlate Moravcé
+8, Kevin Varga, HUN, M, 1.78, 72, 30-03-96, Karcag, Hatayspor
+10, Balázs Dzsudzsák, HUN, M, 1.79, 72, 23-12-86, Nyírlugos, Al-Ain [UAE]
+11, János Ferenczi, HUN, D, 1.80, 65, 03-04-91, Debrecen, DSI
+12, Benedek Erdélyi, HUN, G, 1.90, 81, 08-09-05, Debrecen, None
+14, Meldin Drešković, MNE, D, 1.91, 75, 26-03-98, Plav, Sutjeska Nikšić
+15, Christian Manrique, ESP, D, 1.80, 75, 02-10-98, Móstoles, Olympiakos Nicosia
+16, Balázs Megyeri, HUN, G, 1.88, 88, 31-03-90, Budapest, AEL Limassol
+17, Donát Bárány, HUN, F, 1.79, 74, 04-09-00, Debrecen, None
+18, Hamzat Ojediran, NGA, M, 1.75, 75, 14-11-03, -, Egnatia
+19, Matar Dieye, SEN, F, 1.91, 82, 10-01-98, Mbédiène, HNK Gorica
+20, Stefan Loncar, MNE, M, 1.90, 77, 19-02-96, Nikšić, Novi Pazar
+21, Oleksandr Romanchuk, UKR, D, 1.93, 77, 16-12-99, Kolomyia, FC Lviv
+22, Bence Sós, HUN, M, 1.89, 86, 10-05-94, Debrecen, Puskás Akadémia
+23, Dorian Babunski, MKD, F, 1.85, 77, 29-08-96, Skopje, Botev Vratsa
+24, Péter Kovács, HUN, G, 1.91, 88, 10-02-00, Debrecen, Pécs
+25, Szabolcs Sipos, HUN, D, 1.80, 74, 05-01-04, Debrecen, None
+27, Ádám Bódi, HUN, M, 1.75, 65, 01-11-90, Nyíregyháza, Videoton
+29, Erik Kusnyír, HUN, D, 1.77, 72, 07-02-00, Nizhniy Koropets, Tarpa
+30, Okan Aydın, TUR, M, 1.71, 68, 08-05-94, Leverkusen, Hartberg
+31, Zsombor Bévárdi, HUN, D, 1.77, 69, 30-01-99, Siófok, MOL Vidi
+33, József Varga, HUN, M, 1.75, 71, 06-06-88, Debrecen, Puskás Akadémia
+37, Tamás Farkas, HUN, M, 1.77, 65, 14-07-03, Debrecen, None
+45, Antonio Mance, CRO, F, 1.88, 77, 07-08-95, Rijeka, Osijek
+88, Márk Szécsi, HUN, F, 1.78, 73, 22-05-94, Eger, Puskás Akadémia
+89, Alexandros Kyziridis, GRE, F, 1.79, 70, 16-09-00, Skydra, Zlaté Moravce
+94, Dušan Lagator, MNE, D, 1.90, 81, 29-03-94, Cetinje, Wisła Płock
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+65, Norbert Kundrák, HUN, F, 1.80, 70, 18-05-99, Miskolc, Szeged (On Loan)
+8, David Babunski, MKD, M, 1.76, 68, 01-03-94, Skopje, Mezőkövesd
+28, Balázs Rácz, HUN, F, 1.87, 74, 14-01-04, Pécs, Szeged (On Loan)
+18, Krisztofer Horváth, HUN, M, 1.72, 63, 08-01-02, Hévíz, Torino
+40, Karim Loukili, MAR, F, 1.75, 73, 28-04-97, Den Haag, Karmiotissa
+42, Alex Hrabina, HUN, G, 1.86, 83, 05-04-95, Nyíregyháza, Nyíregyháza
+92, Saná Gomes, GNB, D, 1.78, 64, 10-10-99, Bissau, Beroe Stara Zagora (On Loan)
+99, Dávid Gróf, HUN, G, 1.91, 90, 17-04-89, Budapest, Levadiakos
+25, Nimród Baranyai, HUN, D, 1.80, 78, 06-08-03, Debrecen, Mezőkövesd (On Loan)
+70, Sámuel Major, HUN, M, 1.74, 73, 09-01-02, Debrecen, Pécs (On Loan)
+77, Péter Baráth, HUN, M, 1.85, 78, 21-02-02, Kisvárda, Ferencváros (On Loan)
+96, Charleston Silva, BRA, D, 1.92, 73, 23-09-96, -, Maktaaral
+1, Raul Balbarau, ROU, G, 1.89, 67, 07-04-01, Galați, Noah (On Loan)
+95, Peter Olawale, NGA, F, 1.85, 83, 26-07-02, -, Noah (On Loan)

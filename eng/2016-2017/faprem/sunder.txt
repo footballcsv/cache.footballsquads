@@ -1,0 +1,61 @@
+=  Sunderland - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vito Mannone, ITA, G, 1.88, 77, 02-03-88, Desio, Arsenal
+2, Billy Jones, ENG, D, 1.81, 77, 24-03-87, Shrewsbury, WBA
+3, Bryan Oviedo, CRC, D, 1.72, 69, 18-02-90, Alajuela, Everton
+4, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Manchester C
+5, Papy Djilobodji, SEN, D, 1.93, 82, 01-12-88, Kaolack, Chelsea
+6, Lee Cattermole, ENG, M, 1.78, 76, 21-03-88, Stockton-on-Tees, Wigan Ath
+7, Sebastian Larsson, SWE, M, 1.78, 70, 06-06-85, Eskilstuna, Birmingham C
+8, Jack Rodwell, ENG, M, 1.88, 80, 11-03-91, Birkdale, Manchester C
+9, Fabio Borini, ITA, F, 1.80, 73, 29-03-91, Bentivoglio, Liverpool
+10, Wahbi Khazri, TUN, M, 1.82, 76, 08-02-91, Ajaccio, Bordeaux
+12, Mika, POR, G, 1.95, 89, 08-03-91, Yverdon-les-Bains, Boavista
+13, Jordan Pickford, ENG, G, 1.85, 77, 07-03-94, Washington, None
+14, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Altrincham
+15, Joleon Lescott, ENG, D, 1.90, 89, 16-08-82, Birmingham, AEK
+16, John O'Shea, IRL, D, 1.91, 75, 30-04-81, Waterford, Manchester U
+17, Didier Ndong, GAB, M, 1.79, 75, 17-06-94, Lambaréné, Lorient
+18, Jermain Defoe, ENG, F, 1.71, 65, 07-10-82, Beckton, Toronto FC
+19, Paddy McNair, NIR, M, 1.83, 72, 27-04-95, Ballyclare, Manchester U
+20, Steven Pienaar, RSA, M, 1.70, 69, 17-03-82, Johannesburg, Everton
+21, Javi Manquillo, ESP, D, 1.80, 75, 05-05-94, Madrid, Atlético Madrid
+22, Donald Love, SCO, D, 1.78, 72, 02-12-94, Rochdale, Manchester U
+23, Lamine Koné, CIV, D, 1.89, 80, 01-02-89, Paris, Lorient
+24, Darron Gibson, IRL, M, 1.83, 90, 25-10-87, Derry, Everton
+25, Ethan Robson, ENG, M, 1.80, 68, 25-10-96, Durham, None
+27, Jan Kirchhoff, GER, M, 1.95, 90, 01-10-90, Frankfurt am Main, Bayern Munich
+28, Victor Anichebe, NGA, F, 1.91, 85, 23-04-88, Lagos, WBA
+29, Joel Asoro, SWE, F, 1.75, 70, 27-04-99, Stockholm, IF Brommapojkarna
+30, Carl Lawson, ENG, F, 1.82, 76, 01-10-94, Sunderland, None
+31, Tom Beadling, AUS, D, 1.85, 80, 16-01-96, Barrow-in-Furness, None
+32, Maksymilian Stryjek, POL, G, 1.88, 81, 18-07-96, Warsaw, Polonia Warszawa
+33, George Brady, ENG, D, 1.93, 85, 29-12-96, Gassin, Chelsea
+35, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Fulham
+36, Sam Brotherton, NZL, D, 1.88, 91, 02-10-96, Auckland, Univ of Wisconsin
+37, Rees Greenwood, ENG, F, 1.73, 68, 02-01-96, Winlaton, None
+38, Dan Casey, IRL, D, 1.85, 75, 29-10-97, Dublin, St Joseph's Boys
+39, George Honeyman, ENG, M, 1.73, 72, 08-09-94, Prudhoe, None
+40, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, None
+41, Denver Hume, ENG, D, 1.77, 72, 11-08-98, Ashington, None
+44, Adnan Januzaj, BEL, M, 1.82, 75, 05-02-95, Brussels, Manchester U
+45, Josh Robson, ENG, D, 1.80, 73, 03-02-98, Bedlington, None
+46, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+49, Dan Wright, ENG, M, , , 04-01-98, South Shields, None
+50, Andrew Nelson, ENG, F, , , 16-09-97, Stockton-on-Tees, None
+51, James Talbot, IRL, G, 1.83, 80, 24-04-97, Dublin, Home Farm
+52, Luke Molyneux, ENG, M, 1.80, 74, 29-03-98, Bishop Auckland, None
+53, Jean Yves Poame, IRL, F, , , 15-08-98, , Corduff
+54, Owen Gamble, ENG, M, , , 02-01-99, Worksop, Doncaster R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Younès Kaboul, FRA, D, 1.90, 87, 04-01-86, St-Julien-en-Genevois, Watford
+17, Jeremain Lens, NED, F, 1.78, 80, 24-11-87, Amsterdam, Fenerbahçe (On Loan)
+3, Patrick van Aanholt, NED, D, 1.75, 67, 29-08-90, 's-Hertogenbosch, Crystal Palace
+47, Oliver Pain, AUS, G, 1.90, 73, 28-10-97, , Motherwell (On Loan)
+54, Dan Pybus, ENG, M, 1.79, 67, 12-12-97, South Shields, Bradford C
+34, Tom Robson, ENG, D, 1.78, 75, 11-09-95, Stanley, Limerick (On Loan)
+43, Michael Ledger, ENG, D, 1.86, 77, 15-08-97, Consett, Viking (On Loan)

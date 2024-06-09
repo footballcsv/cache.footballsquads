@@ -1,0 +1,62 @@
+=  Cosenza - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Marco Carraro, ITA, M, 1.87, 74, 09-01-98, Dolo, Atalanta
+5, Michele Rigione, ITA, D, 1.85, 78, 07-03-91, Naples, Chievo Verona
+6, Reda Boultam, NED, M, 1.86, 78, 03-03-98, Meknes, Salernitana
+7, Luca Pandolfi, ITA, F, 1.86, 75, 14-03-98, Naples, Turris
+9, Gabriele Gori, ITA, F, 1.87, 80, 13-02-99, Florence, Fiorentina
+10, Giuseppe Caso, ITA, F, 1.72, 70, 09-12-98, Torre Annunziata, Genoa
+11, Julian Kristoffersen, NOR, F, 1.95, 93, 10-01-97, Horten, Salernitana
+14, Andrea Tiritiello, ITA, D, 1.88, 79, 28-03-95, Portoferraio, Fidelis Andria
+15, Sauli Väisänen, FIN, D, 1.90, 75, 05-06-94, Helsinki, Chievo Verona
+16, Michael Venturi, ITA, D, 1.93, 85, 23-01-99, Rimini, Carpi
+17, Roberto Pirrello, ITA, D, 1.90, 76, 30-05-96, Alcamo, Empoli
+18, Sanasi Sy, FRA, D, 1.74, 72, 04-04-99, Paris, Salernitana
+19, Luca Palmiero, ITA, M, 1.77, 70, 01-05-96, Mugnano di Napoli, Napoli
+20, Vincenzo Millico, ITA, F, 1.73, 68, 12-08-00, Turin, Torino
+21, Andrea Vallocchia, ITA, M, 1.78, 70, 22-05-97, Rieti, Olbia
+23, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Pisa, Pordenone
+24, Edoardo Sarri, ITA, G, 1.87, 78, 24-06-99, Prato, Juve Stabia
+25, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Ascoli
+26, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Ozieri, Lecce
+27, Luca Bittante, ITA, D, 1.84, 65, 14-08-93, Bassano del Grappa, Empoli
+31, Kristjan Matoševič, SVN, G, 1.92, 88, 05-06-97, Koper, Triestina
+32, Joaquín Larrivey, ARG, F, 1.85, 82, 20-08-84, Gualeguay, Universidad de Chile
+34, Aldo Florenzi, ITA, M, 1.83, 70, 02-04-02, Nuoro, Chievo Verona
+36, Rodney Kongolo, NED, M, 1.87, 78, 09-01-98, Rotterdam, SC Heerenveen
+40, Massimo Zilli, ITA, F, 1.95, 90, 17-07-02, Udine, Lazio
+41, Baldovino Cimino, ITA, D, 1.84, 70, 20-02-04, Sessa Aurunca, Juve Stabia
+42, Idriz Voca, SUI, D, 1.81, 74, 15-05-97, Stans, Ankaragücü
+43, Giovanni Aceto, ITA, D, 1.80, 68, 13-09-02, Castrovillari, None
+45, Angelo Sirimarco, ITA, D, 1.82, -, 08-03-04, Cinquefrondi, None
+46, Angelo Gigliotti, ITA, M, 1.70, 60, 25-09-04, Soveria Mannelli, None
+47, Tommaso Di Fusco, ITA, G, 1.86, 74, 20-01-03, Subiaco, Lazio
+48, Alessandro Arioli, ITA, F, 1.84, 79, 24-05-03, Anzio, Aprilia
+51, Luciano Borrelli, ITA, G, 1.81, -, 08-04-04, Naples, Virtus Entella
+55, Andrea Hristov, BUL, D, 1.91, 78, 01-03-99, Sofia, Slavia Sofia
+77, Emanuele Ndoj, ALB, M, 1.89, 82, 20-11-96, Catania, Brescia
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Reggina
+94, Daniele Liotti, ITA, D, 1.80, 72, 08-06-94, Vibo Valentia, Reggina
+95, Gaëtan Laura, FRA, F, 1.85, 80, 06-08-95, Argentan, Paris FC
+99, Alessandro Di Pardo, ITA, M, 1.82, 75, 18-07-99, Rimini, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Riccardo Moreo, ITA, F, 1.88, 89, 24-02-96, Milan, Pergolettese
+36, Salvatore Dario La Vardera, ITA, D, 1.84, 75, 07-03-02, Palermo, Imolese (On Loan)
+39, Thomas Prestianni, ITA, M, 1.74, 71, 08-01-02, L'Aquila, Castelnuovo Vomano (On Loan)
+37, Raffaele Maresca, ITA, M, 1.73, -, 04-12-02, Vico Equense, Casertana (On Loan)
+38, Octavian Nicolau, ROU, F, -, -, 12-09-02, Huși, Casertana (On Loan)
+35, Paolo Ficara, ITA, D, 1.83, 77, 25-06-02, Reggio di Calabria, Cittanovese
+42, Francesco Azzaro, ITA, F, 1.60, 50, 23-05-02, Corigliano Calabro, Castrovillari
+44, Gianluca Perrotta, ITA, M, 1.65, -, 04-08-03, Cetraro, Morrone
+24, Mattia Del Favero, ITA, G, 1.90, 84, 05-06-98, Florence, Juventus
+22, Umberto Saracco, ITA, G, 1.90, 83, 10-04-94, Moncalieri, Fidelis Andria
+23, Alessandro Minelli, ITA, D, 1.93, 85, 23-07-99, Monza, Juventus U23
+3, Ciro Panico, ITA, D, 1.70, 69, 03-08-99, Naples, Juve Stabia
+79, Gianluigi Sueva, ITA, F, 1.74, 65, 01-01-01, Cosenza, Potenza (On Loan)
+2, Angelo Corsi, ITA, D, 1.78, 72, 18-05-89, Ferentino, Vibonese (On Loan)
+13, Djavan Anderson, NED, D, 1.74, 70, 21-04-95, Amsterdam, Lazio
+89, Steve Eyango, FRA, M, 1.80, 71, 20-02-01, Paris, Genoa

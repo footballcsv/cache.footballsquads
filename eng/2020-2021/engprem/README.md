@@ -1,0 +1,23 @@
+# English Premier League 2020/2021
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Brighton & Hove Albion](brighton.txt)
+- [Burnley](burnley.txt)
+- [Chelsea](chelsea.txt)
+- [Crystal Palace](cpalace.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Sheffield United](sheffu.txt)
+- [Southampton](southam.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [West Ham United](westham.txt)
+- [Wolverhampton Wanderers](wolves.txt)

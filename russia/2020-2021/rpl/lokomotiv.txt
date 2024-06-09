@@ -1,0 +1,43 @@
+=  Lokomotiv Moscow - Russian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guilherme, RUS, G, 1.97, 78, 12-12-85, Cataguases, Atlético Paranaense
+2, Dmitriy Zhivoglyadov, RUS, D, 1.78, 65, 29-05-94, Dubna, FC Ufa
+3, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Bordeaux
+4, Vitaliy Lystsov, RUS, D, 1.92, 82, 11-07-95, Voronezh, Krylia Sovetov
+6, Dmitriy Barinov, RUS, M, 1.79, 72, 11-09-96, Ogudnevo, Lokomotiv-2
+7, Grzegorz Krychowiak, POL, M, 1.86, 83, 29-01-90, Gryfice, Paris St-Germain
+9, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, FC Krasnodar
+11, Anton Miranchuk, RUS, M, 1.83, 72, 17-10-95, Slavyansk-na-Kubani, Lokomotiv-2
+14, Vedran Ćorluka, CRO, D, 1.93, 84, 05-02-86, Derventa, Tottenham H
+17, Rifat Zhemaletdinov, RUS, M, 1.84, 80, 20-09-96, Moscow, Rubin Kazan
+19, Éder, POR, F, 1.88, 81, 22-12-87, Bissau, Lille
+20, Vladislav Ignatyev, RUS, M, 1.80, 72, 20-01-87, Naberezhnye Chelny, Kuban Krasnodar
+25, François Kamano, GUI, F, 1.82, 75, 01-05-96, Conakry, Bordeaux
+27, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Cruzeiro
+28, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Dynamo Moscow
+29, Zé Luís, CPV, F, 1.83, 81, 24-01-91, Nossa Senhora da Conceição, FC Porto
+31, Maciej Rybus, POL, D, 1.72, 75, 19-08-89, Łowicz, Lyon
+37, Stanislav Magkeyev, RUS, M, 1.86, 76, 27-03-99, Vladikavkaz, Lokomotiv-2
+38, Nikolai Titkov, RUS, M, 1.77, 67, 18-08-00, Ryazan, Lokomotiv-2
+45, Aleksandr Silyanov, RUS, D, 1.85, 81, 17-02-01, Moscow, Kazanka Moscow
+60, Andrey Savin, RUS, G, 1.93, 89, 30-08-99, Kirov, Nosta Novotroitsk
+68, Nikita Iosifov, RUS, M, 1.75, 62, 11-04-01, Tambov, Lokomotiv-2
+69, Daniil Kulikov, RUS, M, 1.78, 66, 24-06-98, Reutov, Lokomotiv-2
+76, Maksim Mukhin, RUS, M, 1.81, 67, 04-11-01, Tolyatti, Kazanka Moscow
+77, Anton Kochenkov, RUS, G, 1.97, 87, 02-04-87, Bishkek, Mordovia Saransk
+84, Mikhail Lysov, RUS, D, 1.82, 72, 29-01-98, Vladimir, Lokomotiv-2
+88, Vitali Lisakovich, BLR, F, 1.79, 73, 08-02-98, Minsk, Shakhtyor Soligorsk
+92, Mikhail Ageyev, RUS, F, 1.90, 86, 22-04-00, Volzhskiy, Dynamo Moscow-2
+94, Dmitri Rybchinsky, RUS, M, 1.78, 64, 19-08-98, Moscow, Lokomotiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Nikita Medvedev, RUS, G, 1.92, 80, 17-12-94, Izhevsk, Rubin Kazan
+5, Solomon Kvirkvelia, GEO, D, 1.90, 75, 06-02-92, Samtredia, Rotor Volgograd (On Loan)
+59, Aleksey Miranchuk, RUS, M, 1.82, 74, 17-10-95, Slavyansk-na-Kubani, Atalanta
+18, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Arsenal Tula (On Loan)
+67, Roman Tugarev, RUS, M, 1.70, 63, 22-07-98, Izhevsk, FC Rostov
+41, Slobodan Rajković, SRB, D, 1.91, 87, 03-02-89, Belgrade, 
+23, Jasurbek Jaloliddinov, UZB, M, 1.64, 59, 15-05-02, Navoiy, 

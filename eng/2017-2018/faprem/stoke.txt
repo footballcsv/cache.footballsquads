@@ -1,0 +1,66 @@
+=  Stoke City - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Butland, ENG, G, 1.96, 95, 10-03-93, Bristol, Birmingham C
+2, Moritz Bauer, SUI, D, 1.81, 73, 25-01-92, Veltheim, Rubin Kazan
+3, Erik Pieters, NED, D, 1.83, 83, 07-08-88, Tiel, PSV Eindhoven
+4, Joe Allen, WAL, M, 1.70, 62, 14-03-90, Carmarthen, Liverpool
+5, Kevin Wimmer, AUT, D, 1.87, 92, 15-11-92, Wels, Tottenham H
+6, Kurt Zouma, FRA, D, 1.90, 96, 27-10-94, Lyon, Chelsea
+7, Stephen Ireland, IRL, M, 1.73, 67, 22-08-86, Cork, Aston Villa
+8, Glen Johnson, ENG, D, 1.81, 85, 23-08-84, Greenwich, Liverpool
+9, Saido Berahino, ENG, F, 1.80, 82, 04-08-93, Bujumbura, WBA
+10, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Schalke
+11, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Paris St-Germain
+14, Ibrahim Afellay, NED, M, 1.81, 68, 02-04-86, Utrecht, Barcelona
+15, Bruno Martins Indi, NED, D, 1.85, 74, 08-02-92, Barreiro, FC Porto
+16, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Liverpool
+17, Ryan Shawcross, ENG, D, 1.91, 76, 04-10-87, Chester, Manchester U
+18, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, Hannover 96
+20, Geoff Cameron, USA, D, 1.90, 84, 11-07-85, Attleboro, Houston Dynamo
+21, Kostas Stafylidis, GRE, D, 1.76, 74, 02-12-93, Koufalia, Augsburg
+22, Xherdan Shaqiri, SUI, M, 1.69, 72, 10-10-91, Gnjilane, Internazionale
+24, Darren Fletcher, SCO, M, 1.83, 83, 01-02-84, Edinburgh, WBA
+25, Peter Crouch, ENG, F, 2.01, 75, 30-01-81, Macclesfield, Tottenham H
+27, Badou Ndiaye, SEN, M, 1.79, 74, 27-10-90, Dakar, Galatasaray
+29, Jakob Haugaard, DEN, G, 1.97, 87, 01-05-92, Sundby, FC Midtjylland
+30, Moha, MAR, F, 1.80, 73, 13-01-96, Nador, Barcelona B
+32, Ramadan Sobhi, EGY, M, 1.83, 72, 23-01-97, Cairo, Al-Ahly
+33, Lee Grant, ENG, G, 1.93, 83, 27-01-83, Hemel Hempstead, Derby Co
+34, Oliver Shenton, ENG, M, 1.86, 77, 06-11-97, Stoke-on-Trent, None
+38, Eddy Lecygne, FRA, M, 1.81, 67, 06-08-96, Pabu, Rennes
+39, Dániel Gyollai, HUN, G, 1.93, 91, 07-04-97, Békéscsaba, Honvéd
+40, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+41, Mark Waddington, ENG, M, 1.83, 66, 11-10-96, Wigan, Blackpool
+42, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, None
+43, Lewis Banks, ENG, D, 1.83, 72, 14-04-97, Stoke-on-Trent, None
+44, Dan Jarvis, ENG, M, 1.71, 73, 03-04-98, Huntingdon, None
+45, Ryan Hill, ENG, M, , , 19-03-98, , Beaconsfield SYCOB
+46, Josef Bursik, ENG, G, 1.87, 70, 12-07-00, Lambeth, AFC Wimbledon
+48, Venâncio Da Silva, POR, M, , , 05-09-99, Lisbon, Manchester U
+50, Tre Pemberton, ENG, M, , , 03-01-99, Manchester, Blackburn R
+51, Cameron McJannet, ENG, D, 1.73, 68, 06-09-98, Milton Keynes, Luton T
+52, Jordan Greenidge, ENG, F, , , 05-01-00, Enfield, Reading
+53, Máté Deczki, HUN, G, , , 05-05-00, Debrecen, Debrecen
+54, Rachid Baldé, GNB, M, 1.67, 66, 24-02-00, Bissau, Benfica
+55, Lasse Sørensen, DEN, M, 1.85, 78, 21-10-99, Vejen, Esbjerg
+56, Andrew Cherdieu, FRA, D, , , 06-05-99, , Racing Club de France
+57, Shola Ayoola, NGA, F, , , 19-05-99, Ibadan, Cherry Orchard
+58, Scott Wara, FIJ, D, , , 22-09-99, Lautoka, None
+59, Krisztofer Szerető, HUN, M, 1.77, 66, 10-01-00, Budapest, Honvéd
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Ryan Sweeney, IRL, D, 1.93, 87, 15-04-97, Kingston upon Thames, Bristol R (On Loan)
+37, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Bristol R (On Loan)
+19, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Newcastle U
+26, Philipp Wollscheid, GER, D, 1.94, 84, 06-03-89, Wadern, Metz
+21, Giannelli Imbula, CGO, M, 1.83, 77, 12-09-92, Vilvoorde, Toulouse (On Loan)
+27, Bojan Krkić, ESP, F, 1.70, 65, 28-08-90, Linyola, Alavés (On Loan)
+31, Thibaud Verlinden, BEL, M, 1.73, 65, 09-07-99, Bruges, St Pauli (On Loan)
+36, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, Ross Co (On Loan)
+47, Jack Devlin, ENG, F, , , 19-03-98, Sunderland, South Shields
+49, Jake Dunwoody, ENG, M, , , 28-09-98, Glossop, Curzon Ashton (On Loan)
+12, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, MK Dons (On Loan)
+28, Julien Ngoy, BEL, F, 1.85, 64, 02-11-97, Antwerp, Walsall (On Loan)

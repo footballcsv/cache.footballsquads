@@ -1,0 +1,88 @@
+=  Leicester City - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danny Ward, WAL, G, 1.91, 88, 22-06-93, Wrexham, Wrexham
+2, James Justin, ENG, D, 1.83, 71, 11-07-97, Luton, Luton T
+3, Wout Faes, BEL, D, 1.85, 77, 03-04-98, Mol, Reims
+4, Conor Coady, ENG, D, 1.85, 75, 25-02-93, Liverpool, Wolverhampton W
+5, Callum Doyle, ENG, D, 1.85, 71, 03-10-03, Manchester, Manchester C
+8, Harry Winks, ENG, M, 1.76, 74, 02-02-96, Hemel Hempstead, Tottenham H
+9, Jamie Vardy, ENG, F, 1.78, 76, 11-01-87, Sheffield, Fleetwood T
+10, Stephy Mavididi, ENG, F, 1.82, 71, 31-05-98, Derby, Montpellier
+11, Marc Albrighton, ENG, M, 1.74, 67, 18-11-89, Tamworth, Aston Villa
+14, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, Manchester C
+15, Harry Souttar, AUS, D, 1.98, 80, 22-10-98, Aberdeen, Stoke C
+17, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, None
+18, Abdul Fatawu, GHA, F, 1.77, 73, 08-03-04, Tamale, Sporting CP
+20, Patson Daka, ZAM, F, 1.85, 78, 09-10-98, Chingola, Red Bull Salzburg
+21, Ricardo Pereira, POR, D, 1.75, 70, 06-10-93, Lisbon, FC Porto
+22, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, None
+23, Jannik Vestergaard, DEN, D, 1.97, 96, 03-08-92, Copenhagen, Southampton
+25, Wilfred Ndidi, NGA, M, 1.87, 80, 16-12-96, Lagos, KRC Genk
+26, Dennis Praet, BEL, M, 1.81, 78, 14-05-94, Leuven, Sampdoria
+28, Thomas Cannon, IRL, F, -, -, 28-12-02, Aintree, Everton
+29, Yunus Akgün, TUR, F, 1.73, 65, 07-07-00, İstanbul, Galatasaray
+30, Mads Hermansen, DEN, G, 1.84, 78, 11-07-00, Odense, Brøndby
+35, Kasey McAteer, ENG, M, 1.77, 72, 22-11-01, Northampton, None
+37, Will Alves, ENG, M, -, -, 03-02-05, Leicester, None
+38, Oliver Ewing, WAL, M, -, -, 03-01-03, -, Fulham
+39, Tawanda Maswanhise, ENG, F, -, -, 20-11-02, -, None
+40, Wanya Marçal-Madivádua, POR, M, 1.81, 65, 19-10-02, Leicester, None
+41, Jakub Stolarczyk, POL, G, 1.94, 81, 19-12-00, Chęciny, None
+43, Shane Flynn, IRL, D, -, -, 14-10-01, Dublin, Bray W
+44, Sammy Braybrooke, ENG, M, -, -, 12-03-04, Leicester, None
+45, Ben Nelson, ENG, D, 1.87, 74, 18-03-04, Northampton, None
+46, Silko Thomas, ENG, F, -, -, 25-06-04, Lambeth, Chelsea
+47, Arjan Raikhy, ENG, M, -, -, 25-08-03, Wolverhampton, Aston Villa
+48, Joe Wormleighton, ENG, D, -, -, 30-12-03, Leicester, None
+49, Chris Popov, WAL, F, -, -, 26-10-04, Cardiff, Manchester U
+50, Henry Cartwright, ENG, M, -, -, 11-12-04, Leicester, None
+52, Iestyn Hughes, WAL, D, 1.80, 70, 31-10-02, Merthyr Tydfil, Manchester U
+54, Kian Pennant, ENG, F, -, -, 14-04-04, Leicester, None
+55, Harvey Godsmark-Ford, ENG, D, -, -, 25-09-03, Nuneaton, None
+56, Paul Appiah, ENG, D, 1.88, 86, 13-10-02, Enfield, Aston Villa
+58, Brandon Cover, ENG, M, -, -, 25-09-03, Colchester, None
+59, Deniche Hill, BER, M, -, -, 11-03-04, Hamilton Parish, Brooke House College
+61, Brad Young, ENG, G, 1.91, 85, 05-05-02, Sunderland, Hartlepool U
+64, Tom Wilson-Brown, ENG, D, -, -, 05-10-04, Aylesbury, None
+65, Ben Grist, ENG, D, -, -, 15-10-04, Lincoln, Grimsby T
+66, Yassine Touré, CIV, F, -, -, 10-03-06, Watford, Celtic
+67, Jack Lewis, ENG, M, -, -, 18-11-04, -, Liverpool
+68, Jahmari Lindsay, ENG, D, -, -, 25-09-04, -, Manchester U
+69, Mirsad Ali, ENG, D, -, -, 10-02-06, Leicester, None
+70, Amani Richards, ENG, F, -, -, 16-11-04, Camden, Arsenal
+71, Arlo Doherty, IRL, G, -, -, 16-10-03, Camden, Manchester C
+72, Jayden Joseph, ENG, M, -, -, 29-04-06, -, None
+73, Liam McAlinney, IRL, D, -, -, 19-01-06, -, None
+74, Bobby Amartey, ENG, M, -, -, 14-05-06, -, None
+75, Toby Onanaye, ENG, M, -, -, -, -, None
+76, Logan Briggs, ENG, M, -, -, 07-02-05, -, None
+77, Tristan Thomas, ENG, F, -, -, 26-04-06, -, None
+78, Alfie Fiskin, ENG, M, -, -, 30-10-05, -, None
+79, Cheyenne Loureiro, POR, F, -, -, 12-03-06, Leicester, None
+80, Tommy Neale, ENG, M, -, -, 15-01-06, Leicester, None
+81, Harry French, ENG, G, -, -, 28-09-05, Mansfield, None
+82, Reece Evans, NIR, F, -, -, 25-09-05, -, None
+83, Reiss Khela, ENG, D, -, -, -, -, None
+84, Kevon Gray, ENG, D, -, -, -, -, None
+85, Olabade Aluko, ENG, M, -, -, -, -, None
+87, Kaleb Dyke, ENG, M, -, -, 06-07-07, -, None
+88, Kirsten Otchere, ENG, M, -, -, -, -, None
+89, Lewis McNab, ENG, G, -, -, -, -, None
+90, Jake Donohue, ENG, M, -, -, -, -, None
+91, Stevie Bausor, ENG, G, -, -, 11-05-05, Leicester, None
+92, Josh King, CZE, F, -, -, 30-03-07, -, None
+93, Ryan Donnelly, NIR, M, -, -, 04-09-06, -, Dungannon Swifts
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Lewis Brunt, ENG, D, -, -, 06-11-00, Burton upon Trent, Mansfield T (On Loan)
+27, Timothy Castagne, BEL, D, 1.80, 80, 05-12-95, Aarlen, Fulham
+16, Victor Kristiansen, DEN, D, 1.81, 77, 16-12-02, Copenhagen, Bologna (On Loan)
+24, Boubakary Soumaré, FRA, M, 1.88, 82, 27-02-99, Noisy-le-Sec, Sevilla (On Loan)
+57, Zach Booth, USA, M, -, -, 17-02-04, Eden, FC Volendam (On Loan)
+31, Daniel Iversen, DEN, G, 1.93, 80, 19-07-97, Gørding, Stoke C (On Loan)
+7, Cesare Casadei, ITA, M, 1.86, -, 10-01-03, Ravenna, Chelsea
+12, Alex Smithies, ENG, G, 1.85, 84, 05-03-90, Huddersfield, Retired
+33, Luke Thomas, ENG, D, 1.74, 68, 10-06-01, Leicester, Middlesbrough (On Loan)

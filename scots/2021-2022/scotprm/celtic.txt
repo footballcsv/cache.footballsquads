@@ -1,0 +1,60 @@
+=  Celtic - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vasilios Barkas, GRE, G, 1.96, 85, 30-05-94, Peristeri, AEK
+2, Christopher Jullien, FRA, D, 1.95, 82, 22-03-93, Lagny-sur-Marne, Toulouse
+3, Greg Taylor, SCO, D, 1.74, 62, 05-11-97, Greenock, Kilmarnock
+4, Carl Starfelt, SWE, D, 1.85, 81, 01-06-95, Stockholm, Rubin Kazan
+5, Liam Scales, IRL, D, 1.87, 82, 08-08-98, Dublin, Shamrock R
+6, Nir Bitton, ISR, M, 1.96, 80, 30-10-91, Ashdod, Ashdod
+7, Giorgos Giakoumakis, GRE, F, 1.85, 84, 09-12-94, Rethymno, VVV Venlo
+8, Kyogo Furuhashi, JPN, F, 1.70, 63, 20-01-95, Ikoma, Vissel Kobe
+10, Albian Ajeti, SUI, F, 1.82, 75, 26-02-97, Basel, West Ham U
+11, Liel Abada, ISR, F, 1.68, 62, 03-10-01, Petah Tikva, Maccabi Petah Tikva
+12, Ismaila Soro, CIV, M, 1.73, 76, 07-05-98, Yakassé-Mé, Bnei Yehuda Tel Aviv
+14, David Turnbull, SCO, M, 1.85, 75, 10-07-99, Carluke, Motherwell
+15, Joe Hart, ENG, G, 1.96, 91, 19-04-87, Shrewsbury, Tottenham H
+16, James McCarthy, IRL, M, 1.80, 72, 12-11-90, Glasgow, Crystal Palace
+17, Jota, POR, F, 1.75, 62, 30-03-99, Lisbon, Benfica
+18, Tomas Rogić, AUS, M, 1.89, 85, 16-12-92, Griffith, Central Coast Mariners
+19, Mikey Johnston, SCO, M, 1.76, 65, 19-04-99, Glasgow, None
+20, Cameron Carter-Vickers, USA, D, 1.83, 92, 31-12-97, Southend-on-Sea, Tottenham H
+21, Yosuke Ideguchi, JPN, M, 1.70, 71, 23-08-96, Fukuoka, Gamba Osaka
+23, Boli Bolingoli-Mbombo, BEL, D, 1.80, 71, 01-07-95, Antwerp, Rapid Vienna
+24, Johnny Kenny, IRL, F, -, -, 06-06-03, -, Sligo R
+29, Scott Bain, SCO, G, 1.83, 70, 22-11-91, Edinburgh, Dundee
+33, Matt O'Riley, DEN, M, 1.87, 77, 21-11-00, Hounslow, MK Dons
+38, Daizen Maeda, JPN, F, 1.73, 67, 20-10-97, Osaka, Yokohama F Marinos
+41, Reo Hatate, JPN, F, 1.71, 70, 21-11-97, Suzuka, Kawasaki Frontale
+42, Callum McGregor, SCO, M, 1.78, 67, 14-06-93, Glasgow, None
+43, Ryan Mullen, SCO, G, 1.88, 80, 18-05-01, Glasgow, None
+44, Joey Dawson, ENG, M, -, -, 30-05-03, Scunthorpe, Scunthorpe U
+47, Dane Murray, SCO, D, -, -, 26-06-03, -, None
+49, James Forrest, SCO, M, 1.70, 67, 07-07-91, Prestwick, None
+56, Anthony Ralston, SCO, D, 1.83, 70, 16-11-98, Glasgow, None
+57, Stephen Welsh, SCO, D, 1.82, 78, 19-01-00, Coatbridge, None
+71, Tobi Oluwayemi, ENG, G, -, -, 08-05-03, -, Tottenham H
+73, Owen Moffat, SCO, M, 1.73, 66, 06-01-02, Stirling, None
+77, Karamoko Dembélé, ENG, M, 1.61, 55, 22-02-03, Lambeth, None
+84, Ben Doak, SCO, M, -, -, 11-11-05, -, None
+88, Josip Juranović, CRO, D, 1.73, 69, 16-08-95, Zagreb, Legia Warszawa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jonathan Afolabi, IRL, F, 1.76, 70, 14-01-00, Dublin, Ayr U (On Loan)
+45, Ross Doohan, SCO, G, 1.86, 73, 29-03-98, Clydebank, Tranmere R (On Loan)
+41, Scott Robertson, SCO, M, 1.85, 76, 27-07-01, Glasgow, De-Registered
+17, Ryan Christie, SCO, M, 1.78, 70, 22-02-95, Inverness, Bournemouth
+21, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Swansea C
+22, Odsonne Edouard, FRA, F, 1.83, 74, 16-01-98, Kourou, Crystal Palace
+32, Lee O'Connor, IRL, D, 1.85, 75, 28-07-00, Waterford, Tranmere R
+28, Luca Connell, IRL, M, 1.78, 69, 20-04-01, Liverpool, Queen's Park (On Loan)
+52, Ewan Henderson, SCO, M, 1.83, 76, 27-03-00, Livingston, Hibernian (On Loan)
+30, Liam Shaw, ENG, M, 1.78, 65, 12-03-01, Sheffield, Motherwell (On Loan)
+65, Conor Hazard, NIR, G, 1.98, 77, 05-03-98, Belfast, HJK Helsinki (On Loan)
+68, Brody Paterson, SCO, D, 1.78, 66, 24-04-01, Kirkcaldy, Airdrieonians (On Loan)
+9, Leigh Griffiths, SCO, F, 1.75, 64, 20-08-90, Edinburgh, 
+26, Osaze Urhoghide, ENG, D, 1.87, 78, 04-07-00, London, Oostende (On Loan)
+54, Adam Montgomery, SCO, D, 1.73, 58, 18-07-02, Livingston, Aberdeen (On Loan)
+55, Kerr McInroy, SCO, M, 1.80, 70, 31-08-00, Glasgow, Ayr U (On Loan)

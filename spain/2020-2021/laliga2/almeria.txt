@@ -1,0 +1,42 @@
+=  Almería - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Georgi Makaridze, GEO, G, 1.90, 85, 31-03-90, Tbilisi, Vitória Setúbal
+2, Aitor Buñuel, ESP, D, 1.80, 74, 10-02-98, Tafalla, Racing Santander
+3, Jordi Escobar, ESP, F, -, -, 10-02-02, Sant Cebrià de Villalta, Valencia B
+4, Guilherme Schettine, BRA, F, 1.80, 78, 10-10-95, Gama, Sporting Braga
+5, Manu Morlanes, ESP, M, 1.78, 75, 12-01-99, Zaragoza, Villarreal
+6, César de la Hoz, ESP, M, 1.79, 70, 30-03-92, Orejo, Betis B
+7, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Osasuna
+8, Radosav Petrović, SRB, M, 1.93, 83, 08-03-89, Ub, Sporting CP
+9, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, Partizan Belgrade
+10, Ager Aketxe, ESP, M, 1.75, 67, 30-12-93, Bilbao, Deportivo La Coruña
+11, Brian Rodríguez, URU, M, 1.73, 68, 20-05-00, Tranqueras, Los Angeles FC
+12, Álex Centelles, ESP, D, 1.86, 67, 30-08-99, Valencia, Valencia B
+13, Fernando, ESP, G, 1.85, 79, 10-06-90, Murcia, UCAM Murcia
+14, Lucas Robertone, ARG, M, 1.75, 70, 18-03-97, Concordia, Vélez Sarsfield
+15, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Barcelona B
+16, José Carlos Lazo, ESP, M, 1.77, 69, 16-02-96, Sanlúcar de Barrameda, Getafe
+17, José Corpas, ESP, M, 1.74, 66, 07-07-91, Baños de la Encina, Marbella
+18, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Chaves
+19, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Nottingham F
+20, Iván Balliu, ALB, D, 1.75, 68, 01-01-92, Caldes de Malavella, Metz
+21, Chumi, ESP, D, 1.84, 75, 02-03-99, Laracha, Barcelona B
+22, Samú Costa, POR, M, 1.83, 75, 27-11-00, Aveiro, Sporting Braga
+23, Fran Villalba, ESP, M, 1.68, 65, 11-05-98, Valencia, Birmingham C
+24, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Villarreal
+25, Ivanildo, POR, D, 1.93, 83, 26-03-96, Amadora, Sporting CP
+27, Daniel Albiar, ESP, M, 1.73, 67, 08-01-00, Cartagena, Almería B
+30, Curro Harillo, ESP, G, 1.85, 80, 05-05-97, Ronda, Arandina
+32, Largie Ramazani, BEL, F, 1.67, 55, 27-02-01, Sint-Agatha-Berchem, Manchester U
+34, Juan Manuel Gutiérrez, URU, F, 1.74, 67, 04-02-02, Atlántida, Danubio
+39, Lluís Tarrés, ESP, G, -, -, 16-03-01, Blanes, Girona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Rayo Vallecano (On Loan)
+4, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Zaragoza (On Loan)
+26, Pedro Mendes, POR, F, 1.86, 84, 01-08-99, Guimarães, Sporting CP
+31, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Lugo (On Loan)
+11, Cristian Olivera, URU, F, 1.70, 64, 17-04-02, Montevideo, Peñarol (On Loan)

@@ -1,0 +1,63 @@
+=  Charlton Athletic - English Football League One 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Craig MacGillivray, ENG, G, 1.88, 78, 12-01-93, Harrogate, Portsmouth
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Reading
+3, Ben Purrington, ENG, D, 1.74, 73, 05-05-96, Exeter, Rotherham U
+4, George Dobson, ENG, M, 1.85, 73, 15-11-97, Harold Wood, Sunderland
+5, Akin Famewo, ENG, D, 1.80, 66, 09-11-98, Lewisham, Norwich C
+6, Jason Pearce, ENG, D, 1.80, 76, 06-12-87, Hillingdon, Wigan Ath
+7, Diallang Jaiyesimi, ENG, M, 1.81, 72, 18-03-99, Southwark, Swindon T
+8, Jake Forster-Caskey, ENG, M, 1.78, 64, 25-04-94, Southend, Brighton & HA
+9, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Preston NE
+10, Albie Morgan, ENG, M, 1.81, 68, 02-02-00, Portsmouth, None
+11, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, MK Dons
+12, Nile John, ENG, M, -, -, 06-03-03, White City, Tottenham H
+14, Conor Washington, NIR, F, 1.78, 74, 18-05-92, Chatham, Hearts
+15, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Morecambe
+16, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Sunderland
+17, Elliot Lee, ENG, F, 1.80, 72, 16-12-94, Durham, Luton T
+18, Jonathan Leko, ENG, F, 1.82, 75, 24-04-99, Kinshasa, Birmingham C
+19, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, Chelsea
+21, Scott Fraser, SCO, M, 1.83, 69, 30-03-95, Dundee, Ipswich T
+22, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Birmingham C
+23, Corey Blackett-Taylor, ENG, F, 1.70, 67, 23-09-97, Birmingham, Tranmere R
+24, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace
+26, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Nottingham F
+27, Pape N'Diaye Souaré, SEN, D, 1.78, 68, 06-06-90, Mbao, Troyes
+28, Sean Clare, ENG, D, 1.90, 79, 18-09-96, Sheffield, Oxford U
+30, Stephen Henderson, IRL, G, 1.88, 87, 02-05-88, Dublin, Crystal Palace
+31, Nathan Harness, ENG, G, 1.85, 68, 19-01-00, Hatfield, West Ham U
+32, Hady Ghandour, ENG, F, 1.89, 78, 27-01-00, Westminster, Tooting & Mitcham U
+34, Wassim Aouachria, ALG, M, -, -, 12-05-00, Roubaix, Marseille
+37, Johl Powell, ENG, M, -, -, -, -, None
+38, Harris O'Connor, SCO, D, -, -, 28-05-02, -, Rangers
+39, Nathan Harvey, ENG, G, -, -, 08-07-02, -, West Ham U
+40, Charlie Barker, ENG, D, 1.80, 74, 12-02-03, Rotherham, None
+41, Ryan Viggars, WAL, F, -, -, 17-04-03, -, Sheffield U
+43, Dylan Gavin, IRL, M, -, -, 16-01-03, -, None
+44, Richard Chin, ENG, M, -, -, 15-10-02, -, None
+45, Euan Williams, NIR, M, -, -, 15-01-03, -, None
+46, Nazir Bakrin, ENG, M, -, -, 23-10-02, -, None
+47, Karoy Anderson, ENG, M, -, -, 01-10-04, -, None
+48, Mason Burstow, ENG, F, 1.87, 85, 04-08-03, Greenwich, Chelsea
+49, Jacob Roddy, ENG, D, -, -, 10-04-03, -, None
+50, Deji Elerewe, ENG, D, 1.91, 85, 14-09-03, Croydon, None
+51, Lucas Ness, ENG, D, 1.90, 79, 07-02-02, Kingston upon Thames, Metropolitan Police
+52, Daniel Kanu, ENG, F, -, -, 14-11-04, -, None
+53, Tyreece Campbell, ENG, M, 1.78, 65, 14-09-03, Southwark, None
+54, Miles Leaburn, ENG, F, 1.96, 80, 28-11-03, Bromley, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, Ross Co (On Loan)
+29, Ronnie Schwartz, DEN, F, 1.83, 74, 29-08-89, Ulsted, Vendsyssel
+45, James Beadle, ENG, G, 1.93, 85, 16-07-04, Bexley, Brighton & HA
+22, Harry Arter, IRL, M, 1.76, 70, 28-12-89, Eltham, Nottingham F
+25, Josh Davison, ENG, F, 1.88, 79, 16-09-00, Enfield, Swindon T (On Loan)
+33, Ben Dempsey, ENG, M, 1.80, 72, 25-11-99, Tooting, Ayr U (On Loan)
+20, Charlie Kirk, ENG, M, 1.70, 70, 24-12-97, Winsford, Blackpool (On Loan)
+42, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, Wealdstone (On Loan)
+36, Charles Clayden, ENG, M, 1.73, 67, 16-11-00, Havering, Wealdstone (On Loan)
+35, James Vennings, ENG, M, 1.73, 62, 20-11-00, Bexley, Bromley (On Loan)

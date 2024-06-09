@@ -1,0 +1,44 @@
+=  Benfica - Portuguese Primeira Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mile Svilar, BEL, G, 1.89, 77, 27-08-99, Antwerp, Anderlecht
+2, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Fluminense
+3, Alex Grimaldo, ESP, D, 1.70, 60, 20-09-95, Valencia, Barcelona B
+4, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Santos
+5, Jan Vertonghen, BEL, D, 1.89, 88, 24-04-87, Sint-Niklaas, Tottenham H
+7, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Grêmio
+8, Gabriel Appelt Pires, BRA, M, 1.87, 82, 18-09-93, Resende, Leganés
+9, Darwin Núñez, URU, F, 1.87, 78, 24-06-99, Artigas, Almería
+10, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Freiburg
+11, Franco Cervi, ARG, M, 1.80, 69, 26-05-94, San Lorenzo, Rosario Central
+14, Haris Seferović, SUI, F, 1.85, 83, 22-02-92, Sursee, Eintracht Frankfurt
+17, Diogo Gonçalves, POR, M, 1.76, 66, 06-02-97, Beja, None
+19, Chiquinho, POR, M, 1.74, 66, 19-07-95, Santo Tirso, Moreirense
+21, Pizzi, POR, M, 1.77, 69, 06-10-89, Bragança, Atlético Madrid
+22, Andreas Samaris, GRE, M, 1.89, 80, 13-06-89, Patras, Olympiakos
+27, Rafa, POR, M, 1.70, 66, 17-05-93, Barreiro, Sporting Braga
+28, Julian Weigl, GER, M, 1.86, 70, 08-09-95, Bad Aibling, Borussia Dortmund
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Manchester C
+33, Jardel, BRA, D, 1.92, 85, 29-03-86, Florianópolis, Desportivo Brasil
+34, André Almeida, POR, D, 1.86, 75, 10-09-90, Lisbon, Belenenses
+38, Pedrinho, BRA, M, 1.72, 65, 13-04-98, Maceió, Corinthians
+49, Adel Taarabt, MAR, M, 1.78, 77, 24-05-89, Fez, QPR
+71, Nuno Tavares, POR, D, 1.83, 75, 26-01-00, Lisbon, None
+77, Helton Leite, BRA, G, 1.96, 92, 02-11-90, Belo Horizonte, Boavista
+78, Tiago Araújo, POR, M, 1.78, 70, 27-03-01, Vila do Conde, None
+82, João Ferreira, POR, D, 1.84, 79, 22-03-01, Póvoa de Varzim, None
+88, Gonçalo Ramos, POR, F, 1.84, 79, 20-06-01, Lisbon, None
+91, Morato, BRA, D, 1.90, 86, 30-06-01, Francisco Morato, São Paulo
+99, Odisseas Vlachodimos, GRE, G, 1.88, 73, 26-04-94, Stuttgart, Panathinaikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+61, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, Monaco (On Loan)
+6, Rúben Dias, POR, D, 1.87, 82, 14-05-97, Amadora, Manchester C
+95, Carlos Vinícius, BRA, F, 1.90, 83, 25-03-95, Rio de Janeiro, Tottenham H (On Loan)
+20, Dyego Sousa, BRA, F, 1.90, 82, 14-09-89, São José de Ribamar, Shenzhen FC
+73, Jota, POR, F, 1.75, 62, 30-03-99, Lisbon, Valladolid (On Loan)
+97, Ferro, POR, D, 1.92, 78, 26-03-97, Oliveira de Azeméis, Valencia (On Loan)
+84, Tomás Tavares, POR, D, 1.87, 77, 07-03-01, Lisbon, Farense (On Loan)
+18, Jean-Clair Todibo, FRA, D, 1.90, 81, 30-12-99, Cayenne, Barcelona

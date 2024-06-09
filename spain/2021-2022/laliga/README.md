@@ -1,0 +1,23 @@
+# Spanish LaLiga 2021/2022
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Cádiz](cadiz.txt)
+- [Celta Vigo](celta.txt)
+- [Elche](elche.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Levante](levante.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)

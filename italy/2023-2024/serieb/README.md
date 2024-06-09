@@ -1,0 +1,23 @@
+# Italian Serie B 2023/2024
+
+20 teams
+- [Ascoli](ascoli.txt)
+- [Bari](bari.txt)
+- [Brescia](brescia.txt)
+- [Catanzaro](catanzaro.txt)
+- [Cittadella](cittadel.txt)
+- [Como](como.txt)
+- [Cosenza](cosenza.txt)
+- [Cremonese](cremonese.txt)
+- [Feralpisalò](feralpi.txt)
+- [Lecco](lecco.txt)
+- [Modena](modena.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Pisa](pisa.txt)
+- [Reggiana](reggiana.txt)
+- [Sampdoria](sampdor.txt)
+- [Spezia](spezia.txt)
+- [Südtirol](sudtirol.txt)
+- [Ternana](ternana.txt)
+- [Venezia](venezia.txt)

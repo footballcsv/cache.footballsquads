@@ -1,0 +1,44 @@
+=  1.FK Príbram - Czech 1.Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Melichar, CZE, G, 1.86, 87, 06-07-00, -, None
+2, Idrissa Diarra, MLI, D, 1.90, 76, 03-02-98, Bamako, Ankara Keciörengücü
+3, Václav Svoboda, CZE, D, 1.81, 77, 16-09-99, -, Viktoria Plzeň
+4, Steve Kingue, CMR, D, 1.85, 77, 23-01-00, Yaoundé, Nkufo Academy Sports
+5, Stefan Vilotić, SRB, D, 1.85, 78, 16-10-99, Belgrade, Tatran Prešov
+6, Tomáš Pilík, CZE, M, 1.85, 77, 20-12-88, Příbram, Jablonec
+7, Filip Zorvan, CZE, M, 1.71, 67, 07-04-96, Opočno, Hradec Králové
+8, František Belej, CZE, F, -, -, 29-02-00, -, None
+9, Stanislav Vávra, CZE, F, 1.80, 78, 20-07-93, Kroměříž, Baník Sokolov
+10, Tomáš Dočekal, CZE, F, 1.95, 89, 24-05-89, Smrzovka, Slavoj Vyšehrad
+11, Denis Laňka, CZE, M, 1.76, 78, 13-05-97, -, Teplice
+12, Jiří Januška, CZE, M, 1.78, 72, 11-10-97, -, None
+13, Mihailo Cmiljanović, SRB, D, 1.80, 81, 15-06-94, Prijepolje, Tatran Prešov
+14, Jakub Šiman, CZE, G, 1.97, 70, 07-01-95, Plzeň, Viktoria Plzeň
+15, Jan Kvída, CZE, D, 1.86, 72, 17-01-91, Příbram, Hradec Králové
+17, Jan Rezek, CZE, M, 1.77, 74, 05-05-82, Most, Teplice
+18, Jiří Mezera, CZE, D, 1.90, 86, 21-07-00, -, None
+19, Milan Lalkovič, SVK, M, 1.74, 64, 09-12-92, Košice, Baník Ostrava
+20, Jaroslav Tregler, CZE, M, 1.81, 78, 01-12-95, Hořovice, None
+21, Pavel Hájek, CZE, F, 1.84, 77, 03-08-01, -, Sparta Prague
+22, Denis Budínský, CZE, M, 1.76, 71, 22-01-02, -, None
+25, Karel Soldát, CZE, M, 1.87, 81, 07-11-93, -, None
+26, Ondřej Kočí, CZE, G, 1.98, 95, 07-04-95, Prague, None
+29, Edrisa Lubega, UGA, F, 1.81, 75, 17-04-98, Kasese, Paide Linnameeskond
+30, Emmanuel Antwi, GHA, D, 1.70, 70, 05-05-96, -, Slavia Prague
+31, Radek Voltr, CZE, M, 1.78, 75, 28-11-91, Hradec Králové, Slovan Liberec
+32, Martin Nový, CZE, D, 1.78, 71, 23-06-93, Prague, Sparta Prague
+33, Olivier Kingue, CMR, D, 1.88, 85, 20-02-96, Yaoundé, Slavia Prague
+40, Václav Smrkovský, CZE, G, 1.86, 86, 26-03-01, -, None
+44, Chris Cortez, USA, F, 1.90, 81, 24-07-88, Mission Viejo, Helsingør
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Watson Hounkpe, BEN, M, 1.78, 71, 31-07-01, -, Mosta
+18, Dušan Pinc, CZE, F, 1.93, 88, 01-08-98, -, Viktoria Plzeň
+11, Adam Petrák, CZE, M, 1.81, 74, 20-08-99, -, De-Registered
+10, Zdeněk Folprecht, CZE, M, 1.79, 64, 07-01-91, Kladno, Ermis Aradippou
+19, Jonáš Vais, CZE, M, 1.84, 72, 24-11-99, -, Viktoria Plzeň
+16, Isaac Boakye, GHA, M, 1.76, 60, 20-03-97, Accra, Canelas 2010
+23, Peter Kleščík, SVK, D, 1.84, 80, 18-09-88, Čadca, Chojniczanka Chojnice

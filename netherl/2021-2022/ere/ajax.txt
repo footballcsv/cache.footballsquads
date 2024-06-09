@@ -1,0 +1,39 @@
+=  Ajax - Dutch Eredivisie 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Everton
+2, Jurrien Timber, NED, D, 1.79, 75, 17-06-01, Utrecht, Feyenoord
+3, Perr Schuurs, NED, D, 1.93, 80, 26-11-99, Nieuwstadt, Fortuna Sittard
+4, Edson Álvarez, MEX, D, 1.85, 73, 24-10-97, Tlalnepantla de Baz, América
+5, Sean Klaiber, NED, D, 1.84, 75, 31-07-94, Nieuwegein, FC Utrecht
+6, Davy Klaassen, NED, M, 1.85, 76, 21-02-93, Hilversum, Werder Bremen
+8, Ryan Gravenberch, NED, M, 1.87, 75, 16-05-02, Amsterdam, None
+9, Danilo, BRA, F, 1.74, 67, 07-04-99, São Paulo, Santos
+10, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, Southampton
+11, Antony, BRA, F, 1.72, 63, 24-02-00, Osasco, São Paulo
+12, Noussair Mazraoui, MAR, D, 1.78, 63, 14-11-97, Leiderdorp, None
+15, Devyne Rensch, NED, D, 1.79, 68, 18-01-03, Lelystad, None
+16, Jay Gorter, NED, G, 1.90, 79, 30-05-00, Purmerend, Go Ahead Eagles
+17, Daley Blind, NED, D, 1.80, 72, 09-03-90, Amsterdam, Manchester U
+18, Brian Brobbey, NED, F, 1.80, 78, 01-02-02, Amsterdam, RB Leipzig
+19, Zakaria Labyad, MAR, M, 1.70, 65, 09-03-93, Utrecht, FC Utrecht
+20, Mohammed Kudus, GHA, F, 1.77, 70, 02-08-00, Accra, FC Nordsjælland
+21, Lisandro Martínez, ARG, D, 1.78, 77, 18-01-98, Gualeguay, Defensa y Justicia
+22, Sébastien Haller, CIV, F, 1.87, 75, 22-06-94, Ris-Orangis, West Ham U
+23, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, Feyenoord
+24, André Onana, CMR, G, 1.90, 82, 02-04-96, Nkol Ngok, Barcelona
+25, Kenneth Taylor, NED, M, 1.78, 72, 16-05-02, Alkmaar, None
+27, Mohammed Ihattaren, NED, M, 1.82, 75, 12-02-02, Utrecht, Juventus
+30, Mohamed Daramy, SLE, M, 1.80, 71, 07-01-02, Hvidovre, FC København
+31, Nicolás Tagliafico, ARG, D, 1.72, 65, 31-08-92, Rafael Calzada, Independiente
+32, Remko Pasveer, NED, G, 1.88, 88, 18-11-83, Enschede, Vitesse
+33, Przemysław Tytoń, POL, G, 1.95, 85, 04-01-87, Zamość, FC Cincinnati
+46, Anass Salah-Eddine, NED, D, 1.79, 66, 18-01-02, Amsterdam, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Jurgen Ekkelenkamp, NED, M, 1.83, 75, 05-04-00, Zeist, Hertha Berlin
+28, Lisandro Magallán, ARG, D, 1.82, 79, 27-09-93, La Plata, Anderlecht (On Loan)
+7, David Neres, BRA, F, 1.77, 74, 03-03-97, São Paulo, Shakhtar Donetsk
+26, Victor Jensen, DEN, M, 1.75, 70, 08-02-00, Copenhagen, Rosenborg (On Loan)

@@ -1,0 +1,52 @@
+=  Real Madrid - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thibaut Courtois, BEL, G, 1.99, 94, 11-05-92, Bree, Chelsea
+2, Daniel Carvajal, ESP, D, 1.73, 74, 11-01-92, Leganés, Bayer Leverkusen
+3, Éder Militão, BRA, D, 1.86, 79, 18-01-98, Sertãozinho, FC Porto
+4, David Alaba, AUT, D, 1.75, 70, 24-06-92, Vienna, Bayern Munich
+5, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Zaragoza
+6, Nacho Fernández, ESP, D, 1.80, 76, 18-01-90, Madrid, Real Madrid B
+7, Eden Hazard, BEL, M, 1.73, 76, 07-01-91, La Louvière, Chelsea
+8, Toni Kroos, GER, M, 1.83, 76, 04-01-90, Greifswald, Bayern Munich
+9, Karim Benzema, FRA, F, 1.85, 81, 19-12-87, Lyon, Lyon
+10, Luka Modrić, CRO, M, 1.72, 66, 09-09-85, Zadar, Tottenham H
+11, Marco Asensio, ESP, M, 1.82, 76, 21-01-96, Palma de Mallorca, Mallorca B
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Fluminense
+13, Andriy Lunin, UKR, G, 1.91, 80, 11-02-99, Krasnohrad, Zorya Luhansk
+14, Casemiro, BRA, M, 1.85, 84, 23-02-92, São José dos Campos, São Paulo
+15, Federico Valverde, URU, M, 1.81, 76, 22-07-98, Montevideo, Peñarol
+16, Luka Jović, SRB, F, 1.81, 79, 23-12-97, Bijeljina, Eintracht Frankfurt
+17, Lucas Vázquez, ESP, F, 1.73, 71, 01-07-91, Curtis, Espanyol
+18, Gareth Bale, WAL, F, 1.85, 82, 16-07-89, Cardiff, Tottenham H
+19, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Betis
+20, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, Flamengo
+21, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, Santos
+22, Isco, ESP, M, 1.76, 79, 21-04-92, Benalmádena, Málaga
+23, Ferland Mendy, FRA, D, 1.78, 73, 08-06-95, Meulan, Lyon
+24, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Lyon
+25, Eduardo Camavinga, FRA, M, 1.82, 68, 10-11-02, Miconje, Rennes
+26, Luis López, ESP, G, 1.90, 76, 08-05-01, Murcia, Real Madrid B
+27, Antonio Blanco, ESP, M, 1.76, 66, 23-07-00, Montalbán, Real Madrid B
+28, Marvin Park, ESP, M, 1.78, 64, 03-07-00, Palma de Mallorca, Real Madrid B
+29, Juanmi Latasa, ESP, F, 1.89, 81, 23-03-01, Madrid, Real Madrid B
+30, Sergio Arribas, ESP, F, 1.72, 61, 30-09-01, Madrid, Real Madrid B
+31, Iván Morante, ESP, M, 1.80, 69, 15-01-01, León, Villarreal B
+33, Álvaro Carrillo, ESP, D, 1.80, 69, 06-04-02, Murcia, Real Madrid B
+34, Mario Gila, ESP, D, 1.83, 74, 29-08-00, Barcelona, Espanyol B
+35, Miguel Gutiérrez, ESP, D, 1.80, 68, 27-07-01, Madrid, Real Madrid B
+36, Pablo Ramón, ESP, D, 1.86, 76, 30-06-01, Calvià, Mallorca B
+37, Óscar Aranda, ESP, F, 1.81, 75, 29-04-02, Granada, Real Madrid B
+38, Carlos Dotor, ESP, M, 1.80, 67, 15-03-01, Madrid, Real Madrid B
+39, David González, ESP, M, 1.78, 70, 22-06-02, Burgos, Numancia
+40, Toni Fuidias, ESP, G, 1.94, 83, 15-04-01, Berga, Real Madrid B
+41, Rafa Marín, ESP, D, 1.91, 76, 19-05-02, Guadajoz, Real Madrid B
+42, Andri Guðjohnsen, ISL, D, 1.88, 78, 29-01-02, Westminster, Espanyol
+43, Sergio Santos, ESP, D, 1.78, 71, 03-01-01, Leganés, Real Madrid B
+44, Peter, DOM, M, 1.78, 67, 25-07-02, Madrid, Real Madrid B
+45, Diego Piñeiro, ESP, G, 1.83, 69, 13-02-04, Madrid, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Álvaro Odriozola, ESP, D, 1.75, 66, 14-12-95, San Sebastián, Fiorentina (On Loan)

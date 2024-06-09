@@ -1,0 +1,47 @@
+=  Rubin Kazan - Russian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Egor Teslenko, RUS, D, 1.86, 84, 31-01-01, Krasnodar, KamAZ
+4, Alyaksandr Martynovich, BLR, D, 1.92, 85, 26-08-87, Minsk, FC Krasnodar
+5, Ruslam Ashurmatov, UZB, D, 1.82, 74, 07-07-96, Kokand, Navbahor Namangan
+6, Ugochukwu Iwu, ARM, M, 1.76, 73, 28-10-99, Jos, Urartu
+7, Lazar Randjelović, SRB, M, 1.78, 68, 05-08-97, Pertate, Olympiakos
+8, Bogdan Jočić, SRB, M, 1.81, 67, 11-01-01, Belgrade, Voždovac
+9, Aleksandr Lomovitskiy, RUS, M, 1.81, 71, 27-01-98, Moscow, Spartak Moscow
+10, Darko Jevtić, SUI, M, 1.77, 62, 08-02-93, Basel, Lech Poznań
+11, Kasra Taheri, IRN, F, 1.85, 82, 06-08-06, Yasuj, Sepahan
+15, Igor Vujačić, MNE, D, 1.89, 87, 08-08-94, Podgorica, Partizan Belgrade
+18, Marat Apshatsev, RUS, M, 1.77, 69, 27-05-01, Nalchik, Tom Tomsk
+19, Oleg Ivanov, RUS, M, 1.91, 82, 04-08-86, Moscow, FC Ufa
+21, Aleksandr Zotov, RUS, M, 1.72, 64, 27-08-90, Askiz, Yenisey Krasnoyarsk
+22, Yuri Dyupin, RUS, G, 1.86, 79, 17-03-88, Barnaul, Anzhi Makhachkala
+23, Ruslan Bezrukov, RUS, M, 1.75, 65, 21-03-02, Rostov-on-Don, Neftekhimik Nizhnekamsk
+24, Nikola Čumić, SRB, F, 1.76, 70, 20-11-98, Užice, Vojvodina
+26, Uroš Drezgić, SRB, D, 1.90, 77, 04-10-02, Šabac, Čukarički
+27, Aleksey Gritsayenko, RUS, D, 1.86, 80, 25-05-95, Vladivostok, FC Tambov
+30, Valentín Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, Zaragoza
+31, Maciej Rybus, POL, D, 1.72, 75, 19-08-89, Łowicz, Spartak Moscow
+33, Umarali Rakhmonaliev, UZB, M, 1.70, 68, 18-08-03, Namangan, Bunyodkor
+44, Mirlind Daku, KVX, F, 1.92, 88, 01-01-98, Gjilan, Osijek
+50, Yegor Shamov, RUS, G, 1.90, 82, 02-06-94, Moscow, Arsenal Tula
+51, Ilya Rozhkov, RUS, D, 1.80, 66, 29-03-05, Zelenodolsk, Rubin-2
+66, Nikita Yanovich, RUS, G, 1.86, 69, 28-03-03, Tomsk, Rubin-2
+70, Dmitri Kabutov, RUS, D, 1.72, 67, 26-03-92, Sokur, FC Ufa
+77, Luka Bijelović, SRB, F, 1.88, 85, 11-04-01, Subotica, Spartak Subotica
+86, Nikita Korets, RUS, G, 1.95, 80, 25-03-05, Kazan, Rubin-2
+99, Dardan Shabanhaxhaj, KVX, M, 1.79, 74, 23-04-01, -, Mura
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Mikhail Kostyukov, RUS, M, 1.82, 76, 09-08-91, Nizhny Novgorod, Dynamo Makhachkala (On Loan)
+7, Soltmurad Bakayev, RUS, M, 1.78, 70, 05-08-99, Nazran, Rodina Moscow (On Loan)
+12, Maksim Shiryaev, RUS, D, 1.97, 80, 13-07-95, Moscow, FC Chelyabinsk
+91, Merabi Uridia, RUS, F, 1.75, 67, 07-04-93, Batumi, Chernomorets Novorossiysk
+11, Daniil Kuznetsov, RUS, M, 1.82, 68, 23-04-03, St. Petersburg, Rodina Moscow (On Loan)
+8, Vitali Lisakovich, BLR, F, 1.79, 73, 08-02-98, Minsk, Baltika Kaliningrad (On Loan)
+99, Artem Ismagilov, RUS, G, 1.98, 87, 29-06-04, -, Amkar Perm (On Loan)
+25, Igor Konovalov, RUS, M, 1.80, 70, 08-07-96, Belorechensk, SKA-Khabarovsk
+38, Leon Musayev, RUS, M, 1.79, 67, 25-01-99, St. Petersburg, Kuban Krasnodar (On Loan)
+80, Egor Sorokin, RUS, D, 1.89, 81, 04-11-95, St. Petersburg, 
+20, Joel Fameyeh, GHA, F, 1.80, 73, 14-05-97, Kumasi, Baltika Kaliningrad (On Loan)

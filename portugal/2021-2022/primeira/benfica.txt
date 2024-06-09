@@ -1,0 +1,43 @@
+=  Benfica - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mile Svilar, BEL, G, 1.89, 77, 27-08-99, Antwerp, Anderlecht
+2, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Fluminense
+3, Alex Grimaldo, ESP, D, 1.70, 60, 20-09-95, Valencia, Barcelona B
+4, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Santos
+5, Jan Vertonghen, BEL, D, 1.89, 88, 24-04-87, Sint-Niklaas, Tottenham H
+7, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Grêmio
+9, Darwin Núñez, URU, F, 1.87, 78, 24-06-99, Artigas, Almería
+11, Soualiho Meïté, FRA, M, 1.87, 91, 17-03-94, Paris, Torino
+14, Haris Seferović, SUI, F, 1.85, 83, 22-02-92, Sursee, Eintracht Frankfurt
+15, Roman Yaremchuk, UKR, F, 1.92, 69, 27-11-95, Lviv, KAA Gent
+17, Diogo Gonçalves, POR, M, 1.76, 66, 06-02-97, Beja, None
+18, Rodrigo Pinho, BRA, F, 1.85, 79, 30-05-91, Henstedt-Ulzburg, Marítimo
+20, João Mário, POR, M, 1.73, 72, 19-01-93, Porto, Internazionale
+22, Valentino Lazaro, AUT, M, 1.80, 75, 24-03-96, Graz, Internazionale
+23, Nemanja Radonjić, SEB, M, 1.85, 76, 15-02-96, Niš, Marseille
+27, Rafa, POR, M, 1.70, 66, 17-05-93, Barreiro, Sporting Braga
+28, Julian Weigl, GER, M, 1.86, 70, 08-09-95, Bad Aibling, Borussia Dortmund
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Manchester C
+31, Gil Dias, POR, D, 1.83, 78, 28-09-96, Gafanha da Nazaré, Monaco
+34, André Almeida, POR, D, 1.86, 75, 10-09-90, Lisbon, Belenenses
+49, Adel Taarabt, MAR, M, 1.78, 77, 24-05-89, Fez, QPR
+55, Paulo Bernardo, POR, M, 1.84, 78, 24-01-02, Almada, None
+72, Tomás Araújo, POR, D, 1.87, 85, 16-05-02, Vila Nova de Famalicão, None
+77, Helton Leite, BRA, G, 1.96, 92, 02-11-90, Belo Horizonte, Boavista
+88, Gonçalo Ramos, POR, F, 1.84, 79, 20-06-01, Lisbon, None
+91, Morato, BRA, D, 1.90, 86, 30-06-01, Francisco Morato, São Paulo
+99, Odisseas Vlachodimos, GRE, G, 1.88, 73, 26-04-94, Stuttgart, Panathinaikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Wolfsburg
+13, Jota, POR, F, 1.75, 62, 30-03-99, Lisbon, Celtic (On Loan)
+61, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, Getafe (On Loan)
+82, João Ferreira, POR, D, 1.84, 79, 22-03-01, Póvoa de Varzim, Vitória Guimarães (On Loan)
+95, Carlos Vinícius, BRA, F, 1.90, 83, 25-03-95, Rio de Janeiro, PSV Eindhoven (On Loan)
+83, Gedson Fernandes, POR, M, 1.81, 69, 09-01-99, São Tomé, Rizespor (On Loan)
+97, Ferro, POR, D, 1.92, 78, 26-03-97, Oliveira de Azeméis, Hajduk Split (On Loan)
+19, Chiquinho, POR, M, 1.74, 66, 19-07-95, Santo Tirso, Giresunspor (On Loan)
+21, Pizzi, POR, M, 1.77, 69, 06-10-89, Bragança, İstanbul Başakşehir (On Loan)

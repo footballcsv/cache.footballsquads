@@ -1,0 +1,67 @@
+=  Aston Villa - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Heaton, ENG, G, 1.88, 85, 15-04-86, Chester, Burnley
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Swansea C
+4, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Chelsea
+6, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, Hibernian
+8, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Nottingham F
+9, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Club Brugge
+10, Jack Grealish, ENG, M, 1.75, 68, 10-09-95, Birmingham, None
+11, Marvelous Nakamba, ZIM, M, 1.77, 71, 19-01-94, Hwange, Club Brugge
+12, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Norwich C
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Barnsley
+15, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, Brentford
+17, Mahmoud Hassan, EGY, M, 1.76, 72, 01-10-94, Kafr el-Sheikh, Kasımpaşa
+18, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Southampton
+19, Borja González, ESP, F, 1.86, 83, 25-08-92, Madrid, Swansea C
+20, Mbwana Samatta, TAN, F, 1.79, 70, 13-12-92, Dar es Salam, KRC Genk
+21, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, Lille
+22, Björn Engels, BEL, D, 1.93, 74, 15-09-94, Kaprijke, Reims
+23, Jota, ESP, M, 1.80, 67, 16-06-91, A Pobra do Caramiñal, Birmingham C
+24, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Caen
+25, Ørjan Nyland, NOR, G, 1.92, 78, 10-09-90, Volda, Ingolstadt
+27, Ahmed Elmohamady, EGY, D, 1.82, 81, 09-09-87, El-Mahalla El-Kubra, Hull C
+29, Pepe Reina, ESP, G, 1.88, 92, 31-08-82, Madrid, Milan
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Wolverhampton W
+31, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Anderlecht
+34, Dominic Revan, ENG, D, 1.92, 81, 19-09-00, West Bromwich, None
+35, Jake Walker, ENG, D, , , 03-11-00, , None
+36, Indiana Vassilev, USA, M, 1.75, 72, 16-02-01, Savannah, IMG Academy
+38, Callum Rowe, ENG, D, , , 02-09-99, Leicester, None
+39, Keinan Davis, ENG, F, 1.91, 68, 01-06-98, Stevenage, Biggleswade T
+40, Tyrone Mings, ENG, D, 1.91, 77, 13-03-93, Bath, Bournemouth
+42, Isaiah Bazeley-Graham, ENG, D, , , 03-02-00, , None
+43, Jack Birch, ENG, M, , , 23-11-00, , None
+44, Mungo Bridge, ENG, D, , , 12-09-00, Hackney, None
+45, Ben Guy, ENG, M, 1.79, 72, 02-11-00, Birmingham, None
+46, Anton Hooper, ENG, F, , , 07-02-01, , None
+47, Colin Odutayo, NED, F, , , 08-03-01, Roermond, KRC Genk
+48, Dimitri Sea, FRA, F, 1.81, 77, 02-05-01, Paris, Boulogne-Billancourt
+49, Michael Tait, ENG, M, , , 29-01-01, Birmingham, None
+50, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, FC Espoo
+51, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, None
+52, Jamie Searle, NZL, G, 1.91, 79, 25-11-00, Whakatāne, Melville U
+53, Filip Marschall, ENG, G, 1.95, 87, 15-12-02, Bedford, None
+54, Lewis Brunt, ENG, M, , , 06-11-00, Burton upon Trent, None
+55, Tyreik Wright, IRL, M, 1.79, 72, 22-09-01, Cork, Lakewood Ath
+56, Jack Clarke, IRL, M, , , 30-01-99, , None
+57, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, None
+58, Aaron Pressley, SCO, F, 1.89, 75, 07-11-01, Edinburgh, None
+59, Kaine Kesler, ENG, D, 1.75, 62, 23-10-02, Birmingham, None
+60, Carney Chukwuemeka, ENG, M, 1.82, 70, 20-10-03, Eisenstadt, Northampton T
+61, Myles Sohna, ENG, D, 1.80, 67, 01-07-02, Gloucester, None
+62, Sebastian Revan, ENG, D, 1.81, 61, 14-07-03, West Bromwich, None
+63, Harrison Sohna, ENG, M, 1.77, 61, 01-07-02, Gloucester, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Callum O'Hare, ENG, M, 1.73, 65, 01-05-98, Solihull, Coventry C (On Loan)
+29, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, Waasland-Beveren
+26, Jonathan Kodjia, CIV, F, 1.89, 80, 22-10-89, Saint-Denis, Al-Gharafa
+28, Lovre Kalinić, CRO, G, 1.98, 90, 03-04-90, Split, Toulouse (On Loan)
+37, Easah Suliman, ENG, D, 1.88, 80, 26-01-98, Birmingham, Vitória Guimarães
+5, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, Stoke C (On Loan)
+41, Jacob Ramsey, ENG, M, 1.66, 61, 28-05-01, Birmingham, Doncaster R (On Loan)

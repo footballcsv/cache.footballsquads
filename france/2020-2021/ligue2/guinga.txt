@@ -1,0 +1,39 @@
+=  Guingamp - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolai Larsen, DEN, G, 1.90, 83, 09-03-91, Herlev, FC Nordsjælland
+2, Baptiste Roux, FRA, M, 1.83, 80, 26-11-99, Bressuire, None
+3, Morgan Poaty, FRA, D, 1.77, 73, 15-07-97, Rodez, Montpellier
+4, Philipe Sampaio, BRA, D, 1.91, 89, 11-11-94, São Paulo, Tondela
+5, Lloyd Palun, GAB, D, 1.84, 73, 28-11-88, Arles, Cercle Brugge
+6, Lebogang Phiri, RSA, M, 1.76, 72, 09-11-94, Johannesburg, Brøndby
+7, El-Hadji Ba, FRA, M, 1.83, 74, 05-03-93, Paris, Lens
+9, Frantzdy Pierrot, HAI, F, 1.93, 93, 07-01-97, Port-au-Prince, Excel Mouscron
+10, Youssouf M'Changama, COM, M, 1.75, 70, 29-08-90, Marseille, Grenoble
+13, Arthur Yannick Gomis, SEN, F, 1.80, 76, 03-02-92, Dakar, Lens
+15, Jérémy Sorbon, FRA, D, 1.83, 79, 05-08-83, Caen, Caen
+16, Enzo Basilio, FRA, G, 1.87, 75, 03-10-94, Dijon, Concarneau
+18, Paul-Georges Ntep, FRA, M, 1.80, 75, 29-07-92, Douala, Wolfsburg
+19, Guessouma Fofana, FRA, M, 1.84, 78, 17-12-92, Le Havre, Amiens
+20, Félix Eboa Eboa, CMR, D, 1.84, 72, 17-04-97, Douala, Paris St-Germain
+21, Logan Ndenbe, BEL, D, 1.73, 72, 09-02-00, La Louvière, Oostende
+22, Bryan Pelé, FRA, M, 1.69, 65, 25-03-92, Ploërmel, Troyes
+23, Ronny Rodelin, FRA, F, 1.92, 70, 18-11-89, Saint-Denis, Caen
+24, Pierrick Valdivia, FRA, M, 1.85, 67, 18-04-88, Bron, Nîmes
+25, Matthias Phaëton, FRA, F, 1.85, 75, 08-01-00, Colombes, Brest
+26, Alaixys Romao, TOG, M, 1.80, 74, 18-01-84, L'Hay-les-Roses, Reims
+27, Sikou Niakaté, MLI, D, 1.86, 75, 10-07-99, Montreuil, Valenciennes
+28, Jérémy Mellot, FRA, D, 1.78, 77, 28-03-94, Clermont-Ferrand, Rodez
+29, Jérémy Livolant, FRA, M, 1.75, 70, 09-01-98, Morlaix, None
+30, Dominique Youfeigane, FRA, G, 1.88, 84, 07-02-00, Saint-Maurice, None
+32, Tristan Muyumba, FRA, M, 1.65, 60, 07-03-97, Paris, Toulon
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Souleymane Anne, MTN, F, 1.90, 75, 05-12-97, Orléans, Tondela
+17, Ervin Taha, FRA, F, 1.75, 70, 14-03-99, Paris, Laval (On Loan)
+8, Pedro Rebocho, POR, D, 1.72, 66, 23-01-95, Évora, Paços de Ferreira (On Loan)
+31, Gaëtan Robail, FRA, F, 1.82, 73, 09-01-94, Saint-Pol-sur-Ternoise, Lens
+11, Louis Carnot, FRA, M, 1.81, 73, 25-02-01, Pabu, Concarneau (On Loan)
+12, Yeni Atito Ngbakoto, FRA, M, 1.72, 71, 23-01-92, Croix, Panathinaikos

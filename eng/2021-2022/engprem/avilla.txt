@@ -1,0 +1,74 @@
+=  Aston Villa - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+2, Matty Cash, POL, D, 1.85, 64, 07-08-97, Slough, Nottingham F
+4, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, Brentford
+5, Tyrone Mings, ENG, D, 1.91, 77, 13-03-93, Bath, Bournemouth
+6, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, Hibernian
+8, Morgan Sanson, FRA, M, 1.82, 70, 18-08-94, Saint-Doulchard, Marseille
+10, Emi Buendía, ARG, M, 1.70, 65, 25-12-96, Mar del Plata, Norwich C
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Brentford
+15, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Lyon
+16, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Arsenal
+18, Ashley Young, ENG, D, 1.75, 65, 09-07-85, Stevenage, Internazionale
+19, Marvelous Nakamba, ZIM, M, 1.77, 71, 19-01-94, Hwange, Club Brugge
+20, Danny Ings, ENG, F, 1.78, 73, 16-03-92, Winchester, Southampton
+23, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Barcelona
+25, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, Roma
+27, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Everton
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Wolverhampton W
+31, Leon Bailey, JAM, F, 1.81, 70, 09-08-97, Kingston, Bayer Leverkusen
+33, Carney Chukwuemeka, ENG, M, 1.82, 70, 20-10-03, Eisenstadt, Northampton T
+36, Lamare Bogarde, NED, D, 1.83, 76, 05-01-04, Rotterdam, Feyenoord
+37, Mungo Bridge, ENG, D, -, -, 12-09-00, Hackney, None
+38, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, FC Espoo
+41, Jacob Ramsey, ENG, M, 1.66, 61, 28-05-01, Birmingham, None
+43, Brad Young, ENG, F, -, -, 04-08-02, Birmingham, None
+44, Filip Marschall, ENG, G, 1.95, 87, 15-12-02, Bedford, None
+45, Ben Chrisene, ENG, D, 1.83, 80, 12-01-04, Exeter, Exeter C
+47, Tim Iroegbunam, ENG, M, -, -, 30-06-03, West Bromwich, WBA
+48, Oliwier Zych, POL, G, 1.91, 86, 28-06-04, Gdańsk, Zagłębie Lubin
+49, Hayden Lindley, ENG, M, 1.82, 70, 02-09-02, Huddersfield, Manchester C
+50, Sil Swinkels, NED, D, 1.90, 78, 06-01-04, Sint-Oedenrode, Vitesse
+51, Paul Appiah, ENG, D, 1.88, 86, 13-10-02, Enfield, Chelsea
+52, DJ Campton-Sturridge, ENG, F, 1.76, 69, 17-10-02, -, None
+53, Aaron O'Reilly, IRL, D, -, -, 29-06-04, -, St Patrick's Ath
+54, Caolan McBride, NIR, M, 1.79, 71, 02-06-03, -, Glentoran
+55, Kahrel Reddin, ENG, M, 1.71, 71, 13-01-04, Birmingham, None
+56, Dewain Sewell, ENG, F, 1.78, 88, 09-11-03, Birmingham, None
+57, Taylor-Jay Hart, ENG, M, -, -, 18-12-03, -, None
+58, Tommi O'Reilly, IRL, M, 1.70, 63, 15-12-03, -, None
+59, Josh Feeney, ENG, D, -, -, 06-05-05, Blackpool, Fleetwood T
+60, Tristan Abldeen-Goodridge, ENG, F, 1.66, 66, 28-11-02, Camden, AFC Wimbledon
+61, Frankie Ealing, ENG, D, 1.76, 66, 14-07-04, Birmingham, None
+62, Ajani Burchall, BER, M, -, -, 05-11-04, Hamilton [BER], Bournemouth
+63, Finley Thorndike, ENG, M, -, -, 05-03-02, Redditch, WBA
+64, James Wright, ENG, G, -, -, 02-12-04, -, Manchester C
+65, Patrick Zito, ENG, D, 1.84, 94, 22-05-03, -, None
+66, Travis Patterson, ENG, D, -, -, 06-10-05, -, None
+67, Todd Alcock, ENG, M, -, -, 23-11-04, -, None
+68, Teddy Rowe, ENG, M, -, -, 17-10-03, -, None
+69, Chisom Afoka, ENG, M, -, -, 23-09-03, -, WBA
+70, Jayden Barber, ENG, D, -, -, 23-06-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Sheffield U (On Loan)
+24, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Strasbourg (On Loan)
+39, Keinan Davis, ENG, F, 1.91, 68, 01-06-98, Stevenage, Nottingham F (On Loan)
+16, Axel Tuanzebe, ENG, D, 1.82, 75, 14-11-97, Bunia, Manchester U
+9, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Internacional (On Loan)
+40, Aaron Ramsey, ENG, M, -, -, 21-01-03, Birmingham, Cheltenham T (On Loan)
+46, Caleb Chukwuemeka, ENG, F, 1.90, 70, 25-01-02, Eisenstadt, Livingston (On Loan)
+21, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, Everton (On Loan)
+32, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, Stoke C (On Loan)
+35, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Preston NE (On Loan)
+42, Arjan Raikhy, ENG, M, -, -, 25-08-03, Wolverhampton, Grimsby T (On Loan)
+3, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Newcastle U (On Loan)
+12, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Luton T (On Loan)
+29, Kaine Kesler Hayden, ENG, D, 1.75, 62, 23-10-02, Birmingham, MK Dons (On Loan)
+34, Tyreik Wright, IRL, M, 1.79, 72, 22-09-01, Cork, Colchester U (On Loan)
+17, Mahmoud Hassan Trézéguet, EGY, M, 1.76, 72, 01-10-94, Kafr el-Sheikh, İstanbul Başakşehir (On Loan)

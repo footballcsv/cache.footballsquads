@@ -1,0 +1,70 @@
+=  Newcastle United - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robert Elliot, IRL, G, 1.90, 98, 30-04-86, Chatham, Charlton Ath
+2, Ciaran Clark, IRL, D, 1.88, 76, 26-09-89, Harrow, Aston Villa
+3, Paul Dummett, WAL, D, 1.78, 65, 26-09-91, Newcastle upon Tyne, None
+6, Jamaal Lascelles, ENG, D, 1.88, 83, 11-12-93, Derby, Nottingham F
+7, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+8, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Swansea C
+9, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Crystal Palace
+10, Mohamed Diamé, SEN, M, 1.84, 80, 14-06-87, Créteil, Hull C
+11, Matt Ritchie, SCO, M, 1.73, 70, 10-09-89, Gosport, Bournemouth
+12, Martin Dúbravka, SVK, G, 1.90, 83, 15-01-89, Žilina, Sparta Prague
+13, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Leicester C
+14, Isaac Hayden, ENG, D, 1.87, 79, 22-03-95, Chelmsford, Arsenal
+15, Kenedy, BRA, M, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+17, Ayoze Pérez, ESP, F, 1.79, 66, 23-07-93, Santa Cruz de Tenerife, Tenerife
+18, Chancel Mbemba, COD, D, 1.82, 80, 08-08-94, Kinshasa, Anderlecht
+19, Javi Manquillo, ESP, D, 1.80, 75, 05-05-94, Madrid, Atlético Madrid
+20, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Eibar
+21, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Stoke C
+22, DeAndre Yedlin, USA, D, 1.73, 68, 09-07-93, Seattle, Tottenham H
+23, Mikel Merino, ESP, M, 1.88, 78, 22-06-96, Pamplona, Borussia Dortmund
+25, Massadio Haïdara, FRA, D, 1.79, 75, 02-12-92, Trappes, Nancy
+26, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Nottingham F
+27, Jesús Gámez, ESP, D, 1.82, 70, 10-04-85, Fuengirola, Atlético Madrid
+30, Christian Atsu, GHA, M, 1.72, 68, 10-01-92, Ada Foah, Chelsea
+36, Yasin Ben El-Mhanni, ENG, M, 1.78, 70, 26-10-95, Chelsea, Lewes
+38, Curtis Good, AUS, D, 1.87, 85, 23-03-93, Melbourne, Melbourne Heart
+46, Jack Hunter, ENG, M, , , 14-10-97, Newcastle upon Tyne, None
+47, Macaulay Gillesphey, ENG, D, 1.80, 70, 24-11-95, Ashington, None
+48, Liam Smith, ENG, M, , , 28-09-95, South Shields, None
+49, Liam Gibson, ENG, D, 1.85, 80, 25-04-97, Stanley, None
+50, Craig Spooner, ENG, D, , , 20-10-98, Ashington, None
+51, Callum Roberts, ENG, F, 1.73, 65, 14-04-97, South Shields, None
+53, Brendan Pearson, ENG, G, 1.92, 77, 01-02-97, Newcastle upon Tyne, None
+54, Dan Ward, ENG, M, 1.78, 68, 30-09-97, South Shields, Seaham Red Star
+55, Luke Charman, ENG, F, , , 09-12-97, Durham, None
+56, Ben Kitchen, ENG, D, , , 23-10-98, Newcastle upon Tyne, None
+58, Michael Newberry, NIR, D, 1.82, 80, 30-12-97, Newcastle upon Tyne, None
+59, Josef Yarney, ENG, D, 1.83, 70, 08-10-97, Liverpool, Everton
+60, Yannick Aziakonou, TOG, D, , , 13-04-99, , None
+61, Owen Bailey, ENG, D, 1.83, 77, 22-01-99, Newcastle upon Tyne, None
+62, Nathan Harker, ENG, G, , , 05-11-98, Northampton, None
+63, Callum Smith, ENG, M, , , 01-10-98, Gateshead, None
+64, Tyrique Bartlett, RSA, F, , , 14-04-99, , Univ of Pretoria
+65, Mohammed Sangare, LBR, M, 1.91, 83, 28-12-98, Monrovia, None
+66, Víctor Fernández, ESP, F, , , 02-05-98, Barcelona, Cornellà
+67, Owen Gallacher, SCO, D, 1.74, 62, 06-04-99, Newcastle upon Tyne, None
+68, Mackenzie Heaney, ENG, M, , , 02-01-99, Newcastle upon Tyne, None
+71, Stefan O’Connor, ENG, D, 1.86, 78, 23-01-97, Croydon, Arsenal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Siem de Jong, NED, M, 1.85, 76, 28-01-89, Aigle, Ajax
+5, Grant Hanley, SCO, D, 1.88, 76, 20-11-91, Dumfries, Norwich C
+33, Achraf Lazaar, MAR, D, 1.84, 76, 22-01-92, Casablanca, Benevento (On Loan)
+52, Kyle Cameron, SCO, D, 1.90, 76, 15-01-97, Hexham, Queen of the South (On Loan)
+35, Dan Barlaser, TUR, M, 1.84, 62, 18-01-97, Gateshead, Crewe Alex (On Loan)
+69, Lewis McNall, ENG, F, , , 24-04-99, Gateshead, Gateshead (On Loan)
+28, Paul Woolston, ENG, G, 1.80, 85, 14-08-98, North Shields, South Shields (On Loan)
+4, Jack Colback, ENG, M, 1.76, 70, 24-10-89, Killingworth, Nottingham F (On Loan)
+16, Rolando Aarons, ENG, M, 1.75, 67, 16-11-95, Kingston, Verona (On Loan)
+24, Henri Saivet, SEN, M, 1.73, 70, 26-10-90, Dakar, Sivasspor (On Loan)
+41, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, Croydon, Aberdeen (On Loan)
+42, Jamie Sterry, ENG, D, 1.80, 70, 21-11-95, Newcastle upon Tyne, Crewe Alex (On Loan)
+45, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Fulham (On Loan)
+57, Oliver Long, ENG, M, , , 18-04-99, Portsmouth, 
+70, Juanito, ESP, M, , , 11-04-99, , Deportivo La Coruña (On Loan)

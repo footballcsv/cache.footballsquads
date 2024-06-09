@@ -1,0 +1,39 @@
+=  Lokomotiv Moscow - Russian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guilherme, RUS, G, 1.97, 78, 12-12-85, Cataguases, Atlético Paranaense
+3, Lucas Fasson, BRA, D, 1.86, 79, 30-05-01, Santo André, Athletico Paranaense
+4, Stanislav Magkeyev, RUS, D, 1.86, 76, 27-03-99, Vladikavkaz, Lokomotiv-2
+5, Gerzino Nyamsi, FRA, D, 1.95, 85, 22-01-97, Saint-Brieuc, Strasbourg
+6, Dmitriy Barinov, RUS, M, 1.79, 72, 11-09-96, Ogudnevo, Lokomotiv-2
+7, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Adana Demirspor
+8, Vladislav Sarveli, RUS, F, 1.76, 66, 01-10-97, Bolshoy Kamen, PFC Sochi
+9, Sergey Pinyaev, RUS, F, 1.67, 63, 02-11-04, Saratov, Krylia Sovetov
+11, Anton Miranchuk, RUS, M, 1.83, 72, 17-10-95, Slavyansk-na-Kubani, Lokomotiv-2
+15, Maksim Glushenkov, RUS, M, 1.79, 69, 28-07-99, Smolensk, Krylia Sovetov
+17, Rifat Zhemaletdinov, RUS, M, 1.84, 80, 20-09-96, Moscow, Rubin Kazan
+21, Mario Mitaj, ALB, D, 1.85, 71, 06-08-03, Athens, AEK
+22, Ilya Lantratov, RUS, G, 1.91, 76, 11-11-95, Prokhorovka, FC Khimki
+23, Mikhail Shchetinin, RUS, M, 1.83, 78, 08-07-05, Kursk, Lokomotiv-2
+24, Maksim Nenakhov, RUS, D, 1.78, 69, 13-12-98, Krasnogarsk, Akhmat Grozny
+27, Vadim Rakov, RUS, F, 1.78, 72, 09-01-05, -, Lokomotiv-2
+45, Aleksandr Silyanov, RUS, D, 1.85, 81, 17-02-01, Moscow, Kazanka Moscow
+53, Daniil Khudyakov, RUS, G, 1.93, 88, 09-01-04, Moscow, Lokomotiv-2
+59, Yegor Pogostnov, RUS, D, 1.98, 91, 01-03-04, Alexandrov, Kazanka Moscow
+71, Nayair Tiknizyan, RUS, D, 1.80, 75, 12-05-99, St. Petersburg, CSKA Moscow
+77, Ilya Samoshnikov, RUS, D, 1.77, 64, 14-11-97, Moscow, Rubin Kazan
+85, Yevgeniy Morozov, RUS, D, 1.87, 70, 14-02-01, Moscow, Lokomotiv-2
+93, Artyom Karpukas, RUS, M, 1.84, 78, 13-06-02, Biysk, Lokomotiv-2
+97, Saïd Hamulic, BIH, F, 1.89, 83, 12-11-00, Leiderdorp, Toulouse
+99, Timur Suleymanov, RUS, F, 1.83, 78, 17-03-00, Derbent, Pari Nizhny Novgorod
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Wilson Isidor, FRA, F, 1.80, 70, 27-08-00, Rennes, Zenit St Petersburg (On Loan)
+5, Konstantin Maradishvili, RUS, M, 1.79, 70, 07-02-00, Moscow, Pari Nizhny Novgorod (On Loan)
+30, Germán Conti, ARG, D, 1.92, 78, 03-06-94, Santa Fe, Racing Club
+81, Kirill Nikishin, RUS, F, 1.79, 73, 05-02-04, Moscow, FC Tyumen
+69, Daniil Kulikov, RUS, M, 1.78, 66, 24-06-98, Reutov, Rodina Moscow
+94, Dmitri Rybchinsky, RUS, M, 1.78, 64, 19-08-98, Moscow, Baltika Kaliningrad (On Loan)
+20, Ivan Kuzmichev, RUS, D, 1.93, 83, 20-10-00, Tolyatti, Torpedo Moscow (On Loan)

@@ -1,0 +1,35 @@
+=  Farense - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luiz Felipe, BRA, G, 1.97, 75, 24-04-97, Rio Grande, Vizela
+2, Fran Delgado, ESP, D, 1.77, 62, 11-07-01, Écija, Betis B
+3, Igor, BRA, D, 1.89, 78, 10-03-89, Campinas, Al-Ittihad Kalba
+4, Artur Jorge, POR, D, 1.86, 78, 14-08-94, Braga, Al Bataeh
+5, Facundo Cáseres, ARG, M, 1.78, 65, 28-05-01, Santa Fe, Vélez Sarsfield
+6, Zach Muscat, MLT, D, 1.84, 78, 22-08-93, St. Andrews, Casa Pia
+7, Elves Baldé, POR, F, 1.69, 60, 02-10-99, Bissau, Sporting CP
+8, Rafael Barbosa, POR, M, 1.73, 69, 29-03-96, Amarante, Tondela
+9, Bruno Duarte, BRA, F, 1.82, 78, 24-03-96, São Paulo, Damac
+10, Jhon Velásquez, COL, M, 1.74, 70, 02-05-95, Bogotá, Santa Fe
+12, Talys, BRA, D, 1.81, 75, 10-02-99, Itabuna, Slaven Belupo
+14, Fabrício Isidoro, BRA, M, 1.72, 64, 28-01-92, Belo Horizonte, Louletano
+19, Rui Costa, BRA, F, 1.79, 73, 20-02-96, Vila Nova de Famalicão, Santa Clara
+20, Cristian Ponde, POR, F, 1.79, 79, 26-01-95, Făurești, Grasshoppers
+22, Miguel Carvalho, POR, G, 1.85, 71, 20-06-96, Faro, Olhanense
+27, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, Mafra
+28, Pastor, BRA, D, 1.76, 76, 20-02-00, Brasília, Ferroviária
+29, Cláudio Falcão, BRA, M, 1.70, 62, 03-07-94, Aquidauana, Desportivo das Aves
+31, Talocha, POR, D, 1.80, 75, 30-08-89, Antas, Gil Vicente
+33, Ricardo Velho, POR, G, 1.88, 82, 20-08-98, Vila Nova de Famalicão, Sporting Braga
+37, Gonçalo Silva, POR, D, 1.86, 76, 04-06-91, Barreiro, Radomiak Radom
+47, Kauan, BRA, G, 1.95, 85, 13-01-02, Barretos, Famalicão
+50, André Seruca, POR, M, 1.91, 78, 29-10-00, Faro, Tondela
+62, Mohamed Belloumi, ALG, F, 1.74, 66, 01-06-02, Mascara, GC Mascara
+77, Marco Matias, POR, F, 1.77, 67, 10-05-89, Barreiro, Nacional [POR]
+80, Vítor Gonçalves, POR, M, 1.74, 70, 29-03-92, São Bartolomeu de Messines, Nacional [POR]
+91, Zé Luís, CPV, F, 1.83, 81, 24-01-91, Nossa Senhora da Conceição, Hatayspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+90, Maxuel, BRA, F, 1.88, 84, 31-01-00, Cataguases, Belenenses (On Loan)

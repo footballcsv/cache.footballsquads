@@ -1,0 +1,36 @@
+=  Pau - French Ligue 2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jérôme Prior, FRA, G, 1.84, 88, 08-08-95, Toulon, PAS Giannina
+2, Diyaeddine Abzi, CAN, D, 1.83, 75, 23-11-98, Fès, York U
+4, Laglais Kouassi, CIV, D, 1.73, 68, 28-12-89, San Pedro, Neuchâtel Xamax
+5, Noé Sow, FRA, D, 1.80, 65, 18-12-98, Quimperlé, Brest
+6, Sessi D'Almeida, BEN, M, 1.78, 71, 20-11-95, Bordeaux, Valenciennes
+7, Erwin Koffi, FRA, D, 1.79, 78, 10-01-95, Paris, Olympiakos Nicosia
+8, Loïck Lespinasse, FRA, F, 1.82, 76, 20-07-00, Bergerac, Real Sociedad B
+9, Mayron George, CRC, F, 1.90, 80, 23-10-93, Puerto Limón, Lausanne-Sport
+10, Jovan Nišić, SRB, M, 1.77, 71, 03-03-98, Belgrade, Voždovac
+11, Mons Bassouamina, FRA, F, 1.72, 67, 28-05-98, Gonesse, Bastia-Borgo
+12, Eddy Sylvestre, FRA, M, 1.72, 63, 29-08-99, Aubagne, Standard Liège
+14, Yanis Begraoui, FRA, F, 1.75, 62, 04-07-01, Étampes, Toulouse
+15, Marius Ros, FRA, D, 1.75, 75, 15-11-01, Montpellier, Montpellier
+16, Massamba Ndiaye, SEN, G, 2.02, 80, 08-10-01, Thiès, CNEPS Excellence
+17, Antoine Batisse, FRA, D, 1.86, 87, 13-01-95, Versailles, Niort
+18, Mohamed Yattara, GUI, F, 1.85, 76, 28-07-93, Conakry, Sichuan Jiuniu
+19, Nguyễn Quang Hải, VIE, M, 1.68, 63, 12-04-97, Đông Anh, Hanoi FC
+20, Henri Saivet, SEN, M, 1.73, 70, 26-10-90, Dakar, Newcastle U
+21, Steeve Beusnard, FRA, M, 1.70, 62, 27-06-92, Lattes, Gazélec Ajaccio
+23, Charles Boli, FRA, M, 1.75, 65, 30-08-98, Dundee, Lens
+25, Jean Ruiz, FRA, D, 1.88, 80, 06-04-98, Guebviller, Sion
+26, Jean Lambert Evan's, FRA, M, 1.76, 71, 17-12-98, Paris, Crotone
+27, Quentin Boisgard, FRA, M, 1.74, 75, 17-03-97, Toulouse, Lorient
+28, Nathan Monzango, FRA, D, 1.84, 71, 24-08-01, Kinshasa, Amiens
+29, Pape Ibnou Ba, SEN, F, 1.74, 77, 05-01-93, Saint Louis, Le Havre
+30, Quentin Galvez-Diarra, FRA, G, 1.87, 80, 08-09-01, Massy, Sochaux
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, David Gomis, FRA, F, 1.73, 68, 21-12-92, Toulon, Sabail
+22, Walid Jarmouni, FRA, F, 1.89, 82, 20-05-00, Montpellier, Paris 13 Atletico (On Loan)
+1, Alexandre Olliero, FRA, G, 1.93, 85, 15-02-96, La Rochelle, Reims

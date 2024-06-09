@@ -1,0 +1,45 @@
+=  Cádiz - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeremias Ledesma, ARG, G, 1.86, 85, 13-02-93, Rosario, Rosario Central
+2, Jens Jønsson, DEN, M, 1.82, 78, 10-01-93, Aarhus, Konyaspor
+3, Fali, ESP, D, 1.86, 72, 12-08-93, Valencia, Nàstic
+4, Rubén Alcaraz, ESP, M, 1.80, 70, 01-05-91, Barcelona, Valladolid
+5, Varazdat Haroyan, ARM, D, 1.85, 76, 24-08-92, Yerevan, Astana
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, Levante
+7, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Villanovense
+8, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+9, Anthony Lozano, HON, F, 1.82, 74, 25-04-93, Yoro, Girona
+10, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Barcelona B
+11, Oussama Idrissi, MAR, F, 1.83, 78, 26-02-96, Bergen op Zoom, Sevilla
+12, Tomás Alarcón, CHI, M, 1.74, 68, 19-01-99, Rancagua, O'Higgins
+13, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+14, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Getafe
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Huesca
+16, Cala, ESP, D, 1.87, 76, 26-11-89, Lebrija, Las Palmas
+17, Florin Andone, ROU, F, 1.80, 78, 11-04-93, Botoșani, Brighton & HA
+18, Álvaro Negredo, ESP, F, 1.85, 82, 20-08-85, Madrid, Al-Nasr [UAE]
+19, Santiago Arzamendia, PAR, D, 1.72, 69, 05-05-98, Wanda, Cerro Porteño
+20, Isaac Carcelén, ESP, D, 1.78, 75, 23-04-93, El Puerto de Santa María, Rayo Majadahonda
+21, Rubén Sobrino, ESP, F, 1.85, 73, 01-06-92, Daimiel, Valencia
+22, Alfonso Espino, URU, D, 1.70, 73, 05-01-92, San Jacinto, Nacional [URU]
+23, Luis Hernández, ESP, D, 1.83, 75, 14-04-89, Madrid, Maccabi Tel Aviv
+24, Fede San Emeterio, ESP, M, 1.74, 68, 16-03-97, Torrelavega, Valladolid
+25, Lucas Pérez, ESP, F, 1.80, 82, 10-09-88, La Coruña, Elche
+26, Juan Flere, ITA, G, 1.82, 73, 12-05-98, Bariloche, Xerez Deportivo
+27, Ivan Chapela, ESP, M, 1.80, 70, 21-05-99, Chiclana de la Frontera, Cádiz B
+30, Álvaro Bastida, ESP, M, 1.70, 60, 12-05-04, Chiclana de la Frontera, Cádiz B
+32, Víctor Chust, ESP, D, 1.82, 74, 05-03-00, Valencia, Real Madrid B
+33, Nando, ESP, G, 1.92, 78, 03-11-03, Jerez de la Frontera, Cádiz B
+34, Víctor Aznar, BRA, G, 1.89, 82, 17-10-02, São Paulo, Verona
+36, Raúl Parra, ESP, D, 1.87, 78, 26-11-99, Zaragoza, Guijuelo
+37, Genar Fornés, ESP, D, 1.80, 73, 17-01-00, Barcelona, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Pedro Benito, ESP, F, 1.82, 70, 27-03-00, Cádiz, San Fernando (On Loan)
+28, Martín Calderón, ESP, M, 1.83, 77, 01-03-99, Jerez de la Frontera, Mirandés (On Loan)
+4, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Juárez
+11, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Ibiza (On Loan)
+29, Milutin Osmajić, MNE, F, 1.86, 82, 25-07-99, Podgorica, Bandırmaspor (On Loan)

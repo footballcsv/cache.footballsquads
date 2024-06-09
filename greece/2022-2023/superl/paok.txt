@@ -1,0 +1,49 @@
+=  PAOK - Greek Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Giannis Kargas, GRE, D, 1.86, 78, 09-12-94, Kilkis, PAS Giannina
+3, Ivan Näsberg, NOR, D, 1.86, 80, 22-04-96, Oslo, Vålerenga
+4, Sverrir Ingi Ingason, ISL, D, 1.88, 83, 05-08-93, Kópavogur, FC Rostov
+5, Giannis Michailidis, GRE, D, 1.85, 82, 18-02-00, Giannitsa, None
+7, Omar El Kaddouri, MAR, M, 1.85, 74, 21-08-90, Brussels, Empoli
+8, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, Corinthians
+9, Nélson Oliveira, POR, F, 1.86, 82, 08-08-91, Barcelos, AEK
+10, Thomas Murg, AUT, M, 1.73, 70, 14-11-94, Voitsberg, Rapid Vienna
+11, Taison, BRA, F, 1.72, 64, 17-01-88, Pelotas, Internacional
+14, Andrija Živković, SRB, M, 1.70, 63, 11-07-96, Niš, Benfica
+16, Tomasz Kędziora, POL, D, 1.83, 73, 11-06-94, Sulechów, Dynamo Kyiv
+18, Živko Živković, SRB, G, 1.93, 89, 14-04-89, Užice, Xanthi
+19, Lefteris Lyratzis, GRE, D, 1.75, 65, 22-02-00, Kavala, None
+20, Vierinha, POR, M, 1.73, 73, 24-01-86, Guimarães, Wolfsburg
+21, Diego Biseswar, NED, M, 1.71, 73, 08-03-88, Amsterdam, Kayserispor
+22, Stefan Schwab, AUT, M, 1.85, 78, 27-09-90, Saalfelden, Rapid Vienna
+23, Joan Sastre, ESP, D, 1.74, 75, 30-04-97, Porreres, Mallorca
+24, Marios Tsaousis, GRE, D, 1.75, 74, 11-05-00, Thessaloniki, Iraklis
+26, Tiago Dantas, POR, M, 1.70, 58, 24-12-00, Lisbon, Benfica
+27, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Parma
+31, André Ricardo, POR, M, 1.78, 72, 23-08-00, Lisbon, Famalicão
+32, Nika Ninua, GEO, M, 1.86, 73, 22-06-99, Tbilisi, Dinamo Tbilisi
+42, Dominik Kotarski, CRO, G, 1.85, 75, 10-02-00, Zabok, HNK Gorica
+46, Vasilios Gordeziani, GRE, F, 1.85, 87, 29-01-02, Thessaloniki, None
+50, Filipe Soares, POR, M, 1.80, 72, 20-05-99, Lisbon, Moreirense
+54, Konstantinos Balomenos, GRE, G, 1.87, 87, 11-03-02, Kilkis, None
+55, Rafa Soares, POR, D, 1.82, 75, 09-05-95, Marco de Canaveses, Vitória Guimarães
+59, Konstantinos Koulierakis, GRE, D, 1.85, 78, 28-11-03, Chania, None
+64, Christos Talichmanidis, GRE, G, 1.86, 77, 16-03-01, Thessaloniki, None
+65, Giannis Konstantelias, GRE, M, 1.76, 65, 10-05-03, Volos, None
+71, Brandon, ESP, F, 1.77, 71, 04-02-95, Santanyí, Málaga
+75, Ermis Selimaj, ALB, D, 1.73, 67, 25-05-04, Athens, None
+76, Panagiotis Panagiotou, GRE, D, 1.84, 76, 16-01-02, Ioannina, None
+77, Khaled Narey, GER, M, 1.80, 78, 23-07-94, Neuwied, Fortuna Düsseldorf
+95, Stefanos Tzimas, GRE, F, 1.84, 77, 06-01-06, Thessaloniki, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Lucas Taylor, BRA, M, 1.77, 70, 10-04-95, Guarulhos, Shakhtar Donetsk (On Loan)
+97, Lazaros Lambrou, GRE, F, 1.83, 80, 19-12-97, Katerini, Excelsior
+51, Charis Tsiggaras, GRE, M, 1.73, 70, 20-08-00, Portaria, Toulouse (On Loan)
+11, Léo Jabá, BRA, F, 1.80, 75, 02-08-98, São Paulo, São Bernardo
+33, Ivo Marović, MNE, G, 1.93, 86, 01-01-04, Podgorica, Panserraikos
+30, Nicolás Quagliata, URU, M, 1.72, 68, 05-06-99, Montevideo, Cuiabá (On Loan)
+70, Georgios Koutsias, GRE, F, 1.80, 74, 08-02-04, Thessaloniki, Chicago Fire

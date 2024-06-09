@@ -1,0 +1,43 @@
+=  Bolton Wanderers - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nathan Baxter, ENG, G, 1.91, 76, 08-11-98, Westminster, Chelsea
+2, Gethin Jones, WAL, D, 1.78, 74, 13-10-95, Perth [AUS], Carlisle U
+3, Jack Iredale, AUS, D, 1.90, 63, 02-05-96, Greenock, Cambridge U
+4, George Thomason, ENG, M, 1.77, 69, 12-01-01, Barrow-in-Furness, Longbridge T
+5, Ricardo Santos, POR, D, 1.96, 77, 18-06-95, Almada, Barnet
+6, George Johnston, SCO, D, 1.81, 72, 01-09-98, Manchester, Feyenoord
+7, Carlos Mendes Gomes, GNB, F, 1.78, 66, 14-11-98, Yeumbeul, Luton T
+8, Josh Sheehan, WAL, M, 1.84, 75, 30-03-95, Pembrey, Newport Co
+9, Jón Daði Böðvarsson, ISL, F, 1.90, 85, 25-05-92, Selfoss, Millwall
+10, Dion Charles, NIR, F, 1.78, 67, 07-10-95, Preston, Accrington Stanley
+11, Dan N'Lundulu, ENG, F, 1.80, 75, 05-02-99, Paris, Southampton
+12, Josh Dacres-Cogley, ENG, D, 1.74, 68, 12-03-96, Coventry, Tranmere R
+13, Joel Coleman, ENG, G, 1.98, 82, 26-09-95, Bolton, Ipswich T
+14, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, Burton Alb
+15, Will Forrester, ENG, D, 1.83, 74, 29-06-01, Stoke-on-Trent, Port Vale
+16, Aaron Morley, ENG, M, 1.74, 67, 27-02-00, Bury, Rochdale
+17, Nathanael Ogbeta, ENG, D, 1.88, 81, 28-04-01, Salford, Swansea C
+18, Eoin Toal, NIR, D, 1.91, 70, 15-02-99, Armagh, Derry C
+19, Paris Maghoma, ENG, M, 1.81, 70, 08-05-01, Enfield, Brentford
+20, Calvin Ramsay, SCO, D, 1.77, 63, 31-07-03, Aberdeen, Liverpool
+21, Caleb Taylor, ENG, D, -, -, 14-01-03, Burnley, WBA
+22, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, Gillingham
+26, Zac Ashworth, WAL, D, 1.81, 75, 06-09-02, King's Lynn, WBA
+27, Randell Williams, ENG, M, 1.73, 76, 30-12-96, Lambeth, Hull C
+28, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Bristol R
+35, Cameron Jerome, ENG, F, 1.85, 85, 14-08-86, Huddersfield, Luton T
+40, Luke Hutchinson, ENG, G, -, -, 01-09-02, Bury, None
+45, Sam Inwood, ENG, D, -, -, -, -, None
+48, Sonny Sharples, ENG, D, -, -, 24-03-05, Salford, None
+49, Ben Andreucci, SCO, F, -, -, 05-10-04, Bedford, Leeds U
+50, Noah Halford, ENG, D, -, -, -, -, None
+55, Conor Lewis, ENG, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Declan John, WAL, D, 1.78, 75, 30-06-95, Merthyr Tydfil, Salford C (On Loan)
+29, Kieran Sadlier, IRL, M, 1.78, 66, 14-09-94, Haywards Heath, Wycombe W
+38, Nelson Khumbeni, ENG, M, -, -, 14-10-02, -, Morecambe (On Loan)
+41, Luke Matheson, ENG, D, 1.68, 62, 03-10-02, Manchester, Bohemians (On Loan)

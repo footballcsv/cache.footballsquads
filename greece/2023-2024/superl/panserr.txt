@@ -1,0 +1,45 @@
+=  Panserraikos - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrián Chovan, SVK, G, 1.92, 90, 08-10-95, Partizánske, Slovan Bratislava
+2, Kostas Pileas, CYP, D, 1.80, 70, 11-12-98, Geroskipou, Aris Limassol
+3, Stavros Petavrakis, GRE, D, 1.77, 69, 09-11-92, Rhodes, Veria
+5, Anastasios Avlonitis, GRE, D, 1.91, 81, 01-01-90, Chalcis, Apollon Limassol
+6, Angelos Oikonomou, GRE, M, 1.73, 63, 23-08-95, Thessaloniki, Veria
+7, Amr Warda, EGY, M, 1.76, 70, 17-09-93, Alexandria, Pharco
+8, Konstantinos Thymianis, GRE, D, 1.86, 74, 28-02-01, Olympiada, Xanthi
+11, Mathías Tomás, URU, F, 1.74, 73, 30-01-01, -, Iraklis
+13, Panagiotis Katsikas, GRE, G, 1.89, 85, 10-03-99, Athens, Lamia
+14, Kosta Aleksić, SRB, F, 1.82, 75, 09-03-98, Novi Sad, Iraklis
+15, Apostolos Diamantis, GRE, D, 1.87, 73, 20-05-00, Serres, FC U Craiova
+17, Alexandros Maskanakis, GRE, M, 1.73, 64, 08-08-04, Serres, None
+18, Zisis Chatzistravos, GRE, M, 1.70, 65, 16-12-99, Serres, PAOK
+19, Jefté, ESP, F, 1.86, 82, 06-07-93, Las Palmas, CFR Cluj
+20, Alexandros Tsompanidis, GRE, G, 1.85, 78, 05-08-04, Komotini, Xanthi
+21, Savvas Mourgos, GRE, M, 1.73, 73, 16-03-98, Amarousio, Veria
+22, Kaiyne Woolery, ENG, M, 1.79, 73, 11-01-95, Hackney, Ionikos
+23, Marios Sofianos, GRE, M, 1.75, 70, 24-11-03, Serres, None
+25, Nikos Gotzamanidis, GRE, D, 1.89, 76, 25-01-01, -, Larissa
+26, Paschalis Staikos, GRE, M, 1.77, 73, 08-02-96, Drama, OFI
+27, Damil Dankerlui, NED, D, 1.75, 71, 24-08-96, Almere, FC Groningen
+28, Dimitris Anakoglou, GRE, M, 1.75, 62, 06-09-91, Serres, Panachaiki
+31, Emil Bergström, SWE, D, 1.87, 79, 19-05-93, Stockholm, Górnik Zabrze
+41, Zacharias Papadimitriou, GRE, M, -, -, 18-02-04, -, Ilioupoli
+64, Panagiotis Deligiannidis, GRE, D, 1.77, 72, 29-08-96, Thessaloniki, OFI
+69, Maximiliano Moreira, URU, D, 1.73, 68, 11-06-94, Maldonado, Austria Klagenfurt
+72, Ismahila Ouédraogo, BFA, M, 1.70, 61, 05-11-99, Ouagadougou, PAOK
+92, Georgios Papavasiliou, GRE, F, 1.87, 78, 06-04-92, Proti, Elpis Skoutari
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Fotis Pantekidis, GRE, D, 1.86, 81, 02-04-97, Ptolemaida, PAOK
+37, Tomáš Hájek, CZE, D, 1.86, 77, 01-12-92, Zlín, 
+4, Aristotelis Karasalidis, GRE, D, 1.86, 83, 03-05-91, Thessaloniki, Kalamata
+75, Apostolos Tsilingiris, GRE, G, 1.90, 80, 06-09-00, Xanthi, Iraklis
+7, Adrián Colombino, URU, M, 1.76, 74, 12-10-93, Montevideo, Progreso
+98, Victor Stînă, MDA, F, 1.68, 63, 20-03-98, Cimișlia, Larissa
+29, Panagiotis Tsagalidis, GRE, D, -, -, 05-03-01, -, Iraklis
+40, Vangelis Papakonstantinou, GRE, D, -, -, 26-10-05, Serres, 
+9, Admir Bajrovic, SWE, F, 1.76, 71, 06-08-95, Alvesta, Levadiakos
+10, Jaloliddin Masharipov, UZB, F, 1.78, 70, 01-09-93, Urgench, Esteghlal

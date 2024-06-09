@@ -1,0 +1,45 @@
+=  Dunkerque - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Lavallée, FRA, G, 1.95, 78, 18-02-03, Armentières, Paris St-Germain
+2, Alioune Ba, FRA, D, 1.88, 78, 07-11-89, Courcouronnes, Manisa
+3, Loïc Bessilé, FRA, D, 1.83, 78, 19-02-99, Toulouse, Charleroi
+4, Nehemiah Fernandez, FRA, D, 1.84, 67, 11-12-04, Stains, Paris St-Germain
+5, Rémy Boissier, FRA, M, 1.81, 73, 22-02-94, Millau, Rodez
+7, Yohan Bilingi, FRA, D, 1.86, 81, 01-02-99, Alfortville, Guingamp
+8, Tidiane Keita, FRA, M, 1.80, 76, 18-09-96, Toulouse, Orléans
+9, Samy Baghdadi, FRA, F, 1.89, 80, 11-07-97, Grasse, Fortuna Sittard
+10, Julien Anziani, FRA, M, 1.76, 68, 23-06-99, Ajaccio, Bastia-Borgo
+11, François-Régis Mughe, CMR, F, 1.73, 70, 16-06-04, Douala, Marseille
+12, Assane N'Doye, SEN, D, 1.75, 70, 11-06-04, Thiaroye, Amitié
+13, Junior Senneville, FRA, D, 1.70, 69, 31-01-91, Dunkerque, Boulogne
+14, Moussa Guel, CIV, F, 1.72, 80, 23-06-99, Cocody, Samsunspor
+15, Achrif Laâziri, MAR, D, 1.77, 67, 08-07-03, Hay Hassani, Lyon
+16, Arnaud Balijon, FRA, G, 1.83, 80, 17-06-83, Reims, Bastia-Borgo
+18, Gaëtan Courtet, FRA, F, 1.80, 72, 22-02-89, Lorient, Guingamp
+19, Benjaloud Youssouf, COM, D, 1.76, 71, 11-02-94, Marseille, Châteauroux
+20, Enzo Bardeli, FRA, M, 1.68, 62, 11-04-01, Coudekerque-Branche, Lille
+21, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Le Mans
+22, Driss Trichard, FRA, D, 1.76, 70, 27-03-95, Aubervilliers, Clermont
+23, Bram Lagae, BEL, D, -, -, 14-01-04, -, KAA Gent
+24, Elhadj Bah, GUI, F, 1.83, 79, 22-08-01, Boké, Samsunspor
+25, Jean-Philippe Gbamin, CIV, M, 1.86, 83, 25-05-95, San-Pédro, Everton
+26, Opa Sanganté, GNB, D, 1.88, 85, 01-02-91, Diannah Malary, Châteauroux
+27, Rayan Ghrieb, FRA, F, 1.82, 82, 21-04-99, Strasbourg, Schiltigheim
+28, Demba Thiam, FRA, D, 1.79, 67, 02-12-89, Strasbourg, Sedan
+29, Ángel Orelien, PAN, M, 1.69, 68, 02-04-01, Ciudad de Panamá, Sporting San Miguelito
+30, Mohamed Koné, CIV, G, 1.86, 78, 07-03-02, Adjamé, Le Havre
+77, Ibrahima Sy, SEN, M, 1.80, 70, 16-12-02, -, KVC Westerlo
+80, Gessime Yassine, MAR, F, 1.76, 72, 22-11-05, Salon-de-Provence, Marignane
+92, Aïman Maurer, FRA, F, 1.73, 70, 25-09-04, Neuilly-sur-Seine, Clermont
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Freddy Mbemba, FRA, M, 1.75, 72, 16-12-02, Kinshasa, Nîmes (On Loan)
+6, Guiry Egny, FRA, M, 1.78, 72, 24-06-02, Montfermeil, Paris 13 Alletico (On Loan)
+18, Ludéric Etonde, FRA, F, 1.90, 87, 30-08-00, Montreuil, Stade Briochin (On Loan)
+89, Billy Koumetio, FRA, D, 1.95, 76, 14-11-02, Lyon, Liverpool
+11, Amadou Ba-Sy, FRA, F, 1.91, 87, 08-06-01, Nice, Vizela
+17, Alain Ipiélé, FRA, F, 1.75, 68, 20-08-97, Paris, Martigues
+23, Hugo Gambor, FRA, D, 1.86, 77, 30-12-02, Blois, KAA Gent

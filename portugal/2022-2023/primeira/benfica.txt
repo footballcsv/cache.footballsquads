@@ -1,0 +1,45 @@
+=  Benfica - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Fluminense
+3, Alex Grimaldo, ESP, D, 1.70, 60, 20-09-95, Valencia, Barcelona B
+4, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Santos
+6, Alexander Bah, DEN, D, 1.83, 76, 09-12-97, Årslev, Slavia Prague
+7, David Neres, BRA, M, 1.77, 74, 03-03-97, São Paulo, Shakhtar Donetsk
+8, Fredrik Aursnes, NOR, M, 1.79, 72, 10-12-95, Hareid, Feyenoord
+15, Gonçalo Guedes, POR, M, 1.79, 68, 29-11-96, Benavente, Wolverhampton W
+19, Casper Tengstedt, DEN, F, -, -, 01-06-00, -, Rosenborg
+20, João Mário, POR, M, 1.73, 72, 19-01-93, Porto, Internazionale
+21, Andreas Schjelderup, NOR, M, 1.76, 73, 01-06-04, Bodø, FC Nordsjælland
+22, Chiquinho, POR, M, 1.74, 66, 19-07-95, Santo Tirso, Moreirense
+23, Mihailo Ristić, SRB, D, 1.83, 73, 31-10-95, Bijeljina, Montpellier
+24, Samuel Soares, POR, G, 1.90, 85, 15-06-02, Amadora, None
+27, Rafa, POR, M, 1.70, 66, 17-05-93, Barreiro, Sporting Braga
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Manchester C
+33, Petar Musa, CRO, F, 1.90, 80, 04-03-98, Zagreb, Boavista
+61, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, None
+66, Antonio Silva, POR, D, 1.87, 79, 30-10-03, Viseu, None
+75, André Gomes, POR, G, 1.82, 78, 20-10-04, Ponte de Lima, None
+87, João Neves, POR, M, 1.74, 66, 27-09-04, Tavira, None
+88, Gonçalo Ramos, POR, F, 1.84, 79, 20-06-01, Lisbon, None
+91, Morato, BRA, D, 1.90, 86, 30-06-01, Francisco Morato, São Paulo
+93, Julian Draxler, GER, M, 1.83, 68, 20-09-93, Gladbeck, Paris St-Germain
+99, Odisseas Vlachodimos, GRE, G, 1.88, 73, 26-04-94, Stuttgart, Panathinaikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Roman Yaremchuk, UKR, F, 1.92, 69, 27-11-95, Lviv, Club Brugge
+11, Soualiho Meïté, FRA, M, 1.87, 91, 17-03-94, Paris, Cremonese (On Loan)
+28, Julian Weigl, GER, M, 1.86, 70, 08-09-95, Bad Aibling, B Mönchengladbach (On Loan)
+5, Jan Vertonghen, BEL, D, 1.89, 88, 24-04-87, Sint-Niklaas, Anderlecht
+18, Rodrigo Pinho, BRA, F, 1.85, 79, 30-05-91, Henstedt-Ulzburg, Coritiba
+17, Diogo Gonçalves, POR, M, 1.76, 66, 06-02-97, Beja, FC København
+77, Helton Leite, BRA, G, 1.96, 92, 02-11-90, Belo Horizonte, Antalyaspor
+39, Henrique Araújo, POR, F, 1.82, 75, 19-01-02, Funchal, Watford (On Loan)
+38, João Victor, BRA, D, 1.87, 80, 17-07-98, Bauru, Nantes (On Loan)
+25, John Brooks, USA, D, 1.93, 78, 28-01-93, Berlin, 1899 Hoffenheim
+31, Gil Dias, POR, D, 1.83, 78, 28-09-96, Gafanha da Nazaré, Stuttgart
+13, Enzo Fernández, ARG, M, 1.78, 78, 17-01-01, San Martín, Chelsea
+34, André Almeida, POR, D, 1.86, 75, 10-09-90, Lisbon, 
+55, Paulo Bernardo, POR, M, 1.84, 78, 24-01-02, Almada, Paços de Ferreira (On Loan)

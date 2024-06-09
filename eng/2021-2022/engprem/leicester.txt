@@ -1,0 +1,90 @@
+=  Leicester City - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Leeds U
+2, James Justin, ENG, D, 1.83, 71, 11-07-97, Luton, Luton T
+3, Wesley Fofana, FRA, D, 1.85, 76, 17-12-00, Marseille, St-Etienne
+4, Çağlar Söyüncü, TUR, D, 1.87, 80, 23-05-96, İzmir, Freiburg
+5, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Southampton
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, WBA
+7, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, None
+8, Youri Tielemans, BEL, M, 1.76, 72, 07-05-97, Sint-Pieters-Leeuw, Monaco
+9, Jamie Vardy, ENG, F, 1.78, 76, 11-01-87, Sheffield, Fleetwood T
+10, James Maddison, ENG, M, 1.79, 73, 23-11-96, Coventry, Norwich C
+11, Marc Albrighton, ENG, M, 1.74, 67, 18-11-89, Tamworth, Aston Villa
+12, Danny Ward, WAL, G, 1.91, 88, 22-06-93, Wrexham, Wrexham
+14, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, Manchester C
+17, Ayoze Pérez, ESP, F, 1.79, 66, 23-07-93, Santa Cruz de Tenerife, Newcastle U
+18, Daniel Amartey, GHA, D, 1.83, 78, 01-12-94, Accra, FC København
+20, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, None
+21, Ricardo Pereira, POR, D, 1.75, 70, 06-10-93, Lisbon, FC Porto
+22, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, None
+23, Jannik Vestergaard, DEN, D, 1.97, 96, 03-08-92, Copenhagen, Southampton
+24, Nampalys Mendy, SEN, M, 1.68, 68, 23-06-92, La Seyne-sur-Mer, Nice
+25, Wilfred Ndidi, NGA, M, 1.87, 80, 16-12-96, Lagos, KRC Genk
+27, Timoty Castagne, BEL, D, 1.80, 80, 05-12-95, Aarlen, Atalanta
+29, Patson Daka, ZAM, F, 1.85, 78, 09-10-98, Chingola, Red Bull Salzburg
+33, Luke Thomas, ENG, D, 1.74, 68, 10-06-01, Leicester, None
+35, Eldin Jakupović, SUI, G, 1.91, 87, 02-10-84, Sarajevo, Hull C
+37, Ademola Lookman, NGA, F, 1.74, 78, 20-10-97, Wandsworth, RB Leipzig
+39, Thakgalo Leshabela, RSA, M, 1.75, 72, 18-09-99, Pretoria, None
+42, Boubakary Soumaré, FRA, M, 1.88, 82, 27-02-99, Noisy-le-Sec, Lille
+43, Shane Flynn, IRL, M, -, -, 14-10-01, Dublin, Bray W
+45, Ben Nelson, SCO, D, -, -, 18-03-04, Northampton, None
+46, Callum Hulme, ENG, M, 1.70, 65, 10-11-00, Manchester, Bury
+48, Thanawat Suengchitthawon, THA, M, 1.70, 55, 08-01-00, Suphan Buri, Nancy
+51, Chituru Odunze, USA, G, 2.01, 79, 14-10-02, Raleigh, Vancouver Whitecaps
+52, Iestyn Hughes, WAL, D, 1.80, 70, 31-10-02, Merthyr Tydfil, Manchester U
+53, Oliver Ewing, WAL, M, -, -, 03-01-03, -, Fulham
+54, Wanya Marçal-Madivádua, POR, M, 1.81, 65, 19-10-02, Leicester, None
+55, Tawanda Maswanhise, ENG, M, -, -, 20-11-02, -, None
+56, Terell Pennant, ENG, F, -, -, 14-09-02, Leicester, None
+57, Will Russ, WAL, F, -, -, 08-11-02, Denbigh, Chesterfield
+58, Bailey Aisthorpe, ENG, D, -, -, 12-09-02, -, Stoke C
+59, Ronny Nelson, ENG, D, -, -, 28-08-03, Lewisham, Gillingham
+60, Ethan Fitzhugh, ENG, M, -, -, 27-11-02, Northampton, None
+61, Brad Young, ENG, G, 1.91, 85, 05-05-02, Sunderland, Hartlepool U
+62, Lewis Brunt, ENG, M, -, -, 06-11-00, Burton upon Trent, Aston Villa
+63, Bayli Spencer-Adams, GUY, D, -, -, 26-06-01, Waltham Forest, Watford
+66, Brandon Cover, ENG, M, -, -, 25-09-03, Colchester, None
+67, Cody Read, ENG, D, -, -, -, -, None
+68, Harvey Godsmark-Ford, ENG, D, -, -, 25-09-03, Nuneaton, None
+69, Jack Butterfill, ENG, F, -, -, 22-03-04, Leicester, None
+70, Jesper Kutshienza, ENG, D, -, -, 25-05-03, Liverpool, None
+71, Arlo Doherty, IRL, G, -, -, 16-10-03, Camden, Manchester C
+72, Joe Wormleighton, ENG, D, -, -, 30-12-03, Leicester, None
+73, Kian Pennant, ENG, F, -, -, 14-04-04, Leicester, None
+74, Sammy Braybrooke, ENG, M, -, -, 12-03-04, Leicester, None
+75, Zach Booth, USA, M, -, -, 17-02-04, Eden, Real Salt Lake
+76, Kartell Dawkins, ENG, M, -, -, 16-04-04, Birmingham, None
+77, Will Alves, ENG, M, -, -, 03-02-05, Leicester, None
+78, Freddie Cook, ENG, D, -, -, -, -, None
+79, Tom Wilson-Brown, ENG, D, -, -, 05-10-04, Aylesbury, None
+80, Chris Popov, WAL, M, -, -, 26-10-04, Cardiff, Manchester U
+81, Kelechi Chibueze, ENG, G, -, -, 14-12-03, Lewisham, Chelsea
+82, Henry Cartwright, ENG, M, -, -, 11-12-04, Leicester, None
+83, Abdullah Javaid, ENG, M, -, -, 19-12-04, -, None
+84, Jack Lewis, ENG, M, -, -, 18-11-04, -, Liverpool
+85, Jahmari Lindsay, ENG, D, -, -, 25-09-04, -, Manchester U
+86, Ben Grist, ENG, D, -, -, 15-10-04, Lincoln, Grimsby T
+87, Amani Richards, ENG, F, -, -, 16-11-04, Camden, Arsenal
+88, Tyler Weeks, ENG, G, -, -, -, -, None
+89, Dillon Addai, ENG, G, -, -, 17-03-05, Hackney, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+47, Tyrese Shade, SKN, M, 1.83, 78, 09-06-00, Birmingham, Walsall (On Loan)
+31, Daniel Iversen, DEN, G, 1.93, 80, 19-07-97, Gørding, Preston NE (On Loan)
+36, Callum Wright, ENG, M, 1.82, 72, 02-05-00, Liverpool, Cheltenham T (On Loan)
+64, Mitchell Clark, WAL, D, 1.73, 68, 13-03-99, Nuneaton, Accrington Stanley
+32, Kamal Sowah, GHA, M, 1.79, 66, 09-01-00, Sabon Zongo, Club Brugge
+26, Dennis Praet, BEL, M, 1.81, 78, 14-05-94, Leuven, Torino (On Loan)
+39, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Burton Alb
+50, Jacob Wakeling, ENG, F, 1.78, 76, 15-09-01, Redditch, Barrow (On Loan)
+34, Filip Benković, CRO, D, 1.94, 91, 13-07-97, Zagreb, Udinese
+40, Josh Eppiah, BEL, F, -, -, 11-10-98, -, Northampton T (On Loan)
+49, Kasey McAteer, ENG, M, 1.77, 72, 22-11-01, Northampton, Forest Green R (On Loan)
+38, Vontae Daley-Campbell, ENG, D, -, -, 04-04-01, Lambeth, Dundee (On Loan)
+41, Jakub Stolarczyk, POL, G, 1.94, 81, 19-12-00, Chęciny, Dunfermline Ath (On Loan)
+44, Ali Reghba, IRL, F, 1.80, 72, 14-01-00, Essen, CR Belouizdad

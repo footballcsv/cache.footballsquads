@@ -1,0 +1,46 @@
+=  Dundee - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Legzdins, ENG, G, 1.83, 78, 28-11-86, Stafford, Burnley
+2, Cammy Kerr, SCO, D, 1.75, 70, 10-09-95, Dundee, None
+3, Jordan Marshall, ENG, D, 1.85, 72, 27-10-96, Newcastle upon Tyne, Queen of the South
+4, Liam Fontaine, ENG, D, 1.80, 74, 07-01-86, Beckenham, Ross Co
+5, Ryan Sweeney, IRL, D, 1.93, 87, 15-04-97, Kingston upon Thames, Mansfield T
+6, Jordan McGhee, SCO, D, 1.89, 77, 24-07-96, East Kilbride, Falkirk
+8, Shaun Byrne, SCO, M, 1.78, 63, 09-06-93, Kirkcaldy, Livingston
+9, Danny Mullen, SCO, F, 1.77, 63, 01-03-95, Coatbridge, St Mirren
+10, Paul McGowan, SCO, F, 1.70, 65, 07-10-87, Bellshill, St Mirren
+11, Declan McDaid, SCO, M, 1.79, 60, 22-11-95, Greenock, Ayr U
+12, Jay Chapman, CAN, M, 1.83, 72, 01-01-94, Brampton, Inter Miami
+14, Lee Ashcroft, SCO, D, 1.80, 70, 29-08-93, Barrhead, Dunfermline Ath
+15, Josh Mulligan, SCO, M, 1.75, 64, 12-11-02, Dundee, None
+16, Christie Elliott, ENG, D, 1.88, 79, 26-05-91, Jarrow, Carlisle U
+17, Luke McCowan, SCO, M, 1.77, 71, 09-12-97, Greenock, Ayr U
+18, Paul McMullan, SCO, F, 1.81, 70, 25-02-96, Stirling, Dundee U
+19, Finlay Robertson, SCO, M, 1.71, 64, 12-11-02, Dundee, None
+20, Zak Rudden, SCO, F, 1.87, 80, 06-02-00, Edinburgh, Partick Thistle
+21, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Doncaster R
+22, Vontae Daley-Campbell, ENG, D, -, -, 04-04-01, Lambeth, Leicester C
+23, Cillian Sheridan, IRL, F, 1.96, 87, 23-02-89, Bailieborough, Wisła Płock
+24, Max Anderson, SCO, M, -, -, 17-05-01, -, None
+26, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Reading
+30, Harrison Sharp, SCO, G, 1.89, 81, 04-04-01, Aberdeen, None
+35, Zeno Ibsen Rossi, ENG, D, 1.94, 78, 28-10-00, Streatham, Bournemouth
+41, Thomas Welsh, SCO, G, -, -, -, -, None
+46, Craig Donald, SCO, D, -, -, 05-02-04, -, None
+48, Callum Lamb, SCO, M, -, -, 14-05-04, Dundee, None
+77, Niall McGinn, NIR, M, 1.83, 83, 20-07-87, Dungannon, Aberdeen
+99, David Mackay, SCO, D, 1.86, 83, 02-05-80, Rutherglen, St Johnstone
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Lyall Cameron, SCO, M, 1.80, 63, 10-10-02, Dundee, Peterhead (On Loan)
+27, Luke Strachan, SCO, M, -, -, 01-05-01, -, Forfar Ath (On Loan)
+28, Sam Fisher, SCO, D, 1.85, 69, 26-07-01, Stirling, Forfar Ath (On Loan)
+42, Ewan Murray, SCO, D, -, -, 25-11-04, -, Lochee U (On Loan)
+44, Jack Wilkie, SCO, D, -, -, 20-12-02, Dundee, East Craigie (On Loan)
+20, Corey Panter, ENG, D, 1.86, 77, 19-10-00, Hatfield, Luton T
+35, Jason Cummings, SCO, F, 1.78, 68, 01-08-95, Edinburgh, Central Coast Mariners
+7, Alex Jakubiak, SCO, F, 1.77, 66, 27-08-96, Westminster, Partick Thistle (On Loan)
+29, Leigh Griffiths, SCO, F, 1.75, 64, 20-08-90, Edinburgh, Celtic

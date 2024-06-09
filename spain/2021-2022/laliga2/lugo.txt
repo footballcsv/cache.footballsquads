@@ -1,0 +1,47 @@
+=  Lugo - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Álex Pérez, ESP, D, 1.89, 80, 11-08-91, Madrid, Logroñés
+3, Diego Alende, ESP, D, 1.80, 76, 24-08-97, Santiago de Compostela, Valladolid B
+4, Juan Antonio Ros, ESP, M, 1.88, 82, 15-03-96, Los Nietos, Villarreal B
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Juanpe, ESP, M, 1.84, 66, 31-01-96, Jerez de la Frontera, Sevilla B
+7, David Mayoral, ESP, M, 1.72, 67, 05-04-97, Ávila, Cádiz
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Manu Barreiro, ESP, F, 1.92, 81, 08-07-86, Santiago de Compostela, Nàstic
+11, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Hapoel Be'er Sheva
+12, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Juárez
+13, Óscar Whalley, ESP, G, 1.86, 79, 29-03-94, Zaragoza, Castellón
+14, Xavi Torres, ESP, M, 1.82, 76, 21-11-86, Jávea, Al-Arabi [KUW]
+15, Roberto Canella, ESP, D, 1.80, 68, 07-02-88, Pola de Laviana, Sporting Gijón
+16, Chris Ramos, ESP, F, 1.93, 80, 16-01-97, Cádiz, Valladolid
+17, Sebas Moyano, ESP, M, 1.73, 66, 23-03-97, Villanueva del Duque, Córdoba
+18, Josep Señé, ESP, M, 1.85, 74, 10-12-91, Barcelona, Mallorca
+19, Orest Lebedenko, UKR, D, 1.72, 60, 23-09-98, Lviv, Karpaty Lviv
+20, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Cartagena
+21, Alberto Rodríguez, ESP, D, 1.93, 84, 31-12-92, Las Palmas, Tamaraceite
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Mallorca
+23, Joselu, ESP, F, 1.77, 70, 03-03-91, Cartaya, Tenerife
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+26, Julen Fernández, ESP, G, 1.86, 80, 23-02-99, Lugo, Polvorín
+27, Dani Vidal, ESP, M, -, -, 16-05-00, Portomarin, Polvorín
+28, Nico Manteiga, ESP, D, -, -, 23-07-99, -, Polvorín
+29, Jaume Cuéllar, BOL, F, 1.73, 59, 23-08-01, Granollers, SPAL
+30, Ricard Sánchez, ESP, D, 1.75, 70, 22-02-00, Sant Jaume dels Domenys, Granada
+31, Luis Castro, ESP, D, -, -, 06-04-02, -, Polvorín
+32, Idrissa Thiam, MTN, F, 1.79, 61, 02-09-00, Nouakchott, ASAC Concorde
+33, Carlos Torrado, ESP, D, -, -, 09-04-99, Vilanova de Arousa, Polvorín
+34, Fran Vieites, ESP, G, 1.96, 88, 07-05-99, Pontecesures, Celta Vigo B
+35, Leandro Antonetti, PUR, F, -, -, 13-01-03, -, Polvorín
+37, Pablo Castrín, ESP, D, -, -, 09-03-00, Riotorto, Polvorín
+38, Alejandro Fidalgo, ESP, D, -, -, 15-05-01, Ourense, Polvorín
+41, David Rojo, ESP, F, -, -, 02-02-00, La Coruña, Polvorín
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Alberto Varo, ESP, G, 1.90, 82, 18-03-93, Tarragona, Linense
+32, Matías Vesprini, ARG, D, -, -, 27-02-00, Quilmes, Compostela (On Loan)
+12, Pedro López, ESP, D, 1.79, 70, 27-01-97, Lugo, 
+20, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Huesca
+10, Hugo Rama, ESP, M, 1.77, 75, 22-11-96, Santiago de Compostela, Oviedo

@@ -1,0 +1,74 @@
+=  West Ham United - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Darren Randolph, IRL, G, 1.88, 98, 12-05-87, Dublin, Birmingham C
+2, Winston Reid, NZL, D, 1.90, 87, 03-07-88, Auckland, FC Midtjylland
+3, Aaron Cresswell, ENG, D, 1.70, 66, 15-12-89, Liverpool, Ipswich T
+4, Håvard Nordtveit, NOR, M, 1.88, 83, 21-06-90, Vats, B Mönchengladbach
+5, Álvaro Arbeloa, ESP, D, 1.84, 79, 17-01-83, Salamanca, Real Madrid
+7, Sofiane Feghouli, ALG, M, 1.77, 75, 26-12-89, Levallois-Perret, Valencia
+8, Cheikhou Kouyaté, SEN, M, 1.89, 83, 21-12-89, Dakar, Anderlecht
+9, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, Liverpool
+10, Manuel Lanzini, ARG, M, 1.67, 59, 15-02-93, Ituzaingó, Al-Jazira
+11, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, Hull C
+13, Adrián, ESP, G, 1.90, 80, 03-01-87, Seville, Betis
+14, Pedro Obiang, ESP, M, 1.85, 73, 27-03-92, Alcalà de Henares, Sampdoria
+15, Diafra Sakho, SEN, F, 1.84, 79, 24-12-89, Guédiawaye, Metz
+16, Mark Noble, ENG, M, 1.80, 70, 08-05-87, West Ham, None
+17, Gökhan Töre, TUR, M, 1.76, 74, 20-01-92, Cologne, Beşiktaş
+19, James Collins, WAL, D, 1.88, 83, 23-08-83, Newport, Aston Villa
+20, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, Swansea C
+21, Angelo Ogbonna, ITA, D, 1.91, 86, 23-05-88, Cassino, Juventus
+22, Sam Byram, ENG, D, 1.80, 72, 16-09-93, Thurrock, Leeds U
+23, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Southampton
+24, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Manchester U
+25, Doneil Henry, CAN, D, 1.88, 82, 20-04-93, Brampton, Apollon Limassol
+26, Arthur Masuaku, FRA, D, 1.79, 70, 07-11-93, Lille, Olympiakos
+28, Jonathan Calleri, ARG, F, 1.79, 75, 23-09-93, Capital Federal, Deportivo Maldonado
+30, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, Wandsworth, Nottingham F
+31, Edimilson Fernandes, SUI, M, 1.90, 70, 15-04-96, Sion, Sion
+34, Raphael Spiegel, SUI, G, 1.97, 89, 19-12-92, Rüttenen, Grasshoppers
+36, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Chelsea
+37, Nathan Holland, ENG, M, 1.78, 70, 19-06-98, Wythenshawe, Everton
+40, Djair Parfitt-Williams, USA, F, 1.68, 64, 01-10-96, Hamilton [BER], San Jose Earthquakes
+41, Declan Rice, IRL, M, 1.85, 80, 14-01-99, Kingston upon Thames, None
+46, Moses Makasi, ENG, M, 1.80, 72, 22-09-95, Lewisham, None
+47, Sam Howes, ENG, G, 1.90, 85, 10-11-97, London, None
+51, Mason Barrett, ENG, D, 1.90, 79, 24-09-99, Redbridge, None
+52, Sam Westley, ENG, D, 1.83, 75, 04-02-94, Luton, Ipswich T
+54, Conor Coventry, IRL, M, 1.75, 65, 20-03-00, Waltham Forest, None
+55, Grady Diangana, ENG, F, 1.80, 73, 19-04-98, Lubumbashi, None
+56, Korrey Henry, ENG, F, 1.78, 70, 28-11-99, Lewisham, None
+57, Jahmal Hector-Ingram, ENG, F, 1.83, 75, 11-11-98, Upton Park, None
+58, Noha Sylvestre, SUI, M, 1.77, 72, 29-12-97, Sion, Concordia Basel
+59, Sam Ford, ENG, F, , , 05-06-98, , Ipswich T
+61, Malyk Hamilton, ENG, M, , , 02-09-99, , None
+62, Ben Johnson, ENG, D, 1.75, 67, 24-01-00, Waltham Forest, None
+63, Vashon Neufville, ENG, D, 1.72, 67, 18-07-99, Islington, None
+67, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, None
+68, Dan Kemp, ENG, M, 1.68, 63, 11-01-99, Sidcup, Chelsea
+69, Anthony Scully, IRL, M, 1.69, 66, 03-12-99, Watford, None
+70, Tunji Akinola, ENG, D, 1.87, 73, 21-11-98, , None
+71, Alfie Lewis, ENG, M, 1.69, 64, 28-09-99, Redbridge, None
+72, Rosaire Longelo, ENG, M, , , 20-10-99, Kinshasa, None
+73, Nathan Trott, ENG, G, 1.84, 70, 21-11-98, , None
+74, Rihards Matrevics, LVA, G, , , 18-03-99, , None
+75, Jake Eggleton, ENG, D, , , 11-10-98, , None
+77, Tyler Forde, ENG, G, , , 20-11-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, Bradford C (On Loan)
+32, Reece Burke, ENG, D, 1.89, 81, 02-09-96, Newham, Wigan Ath (On Loan)
+11, Enner Valencia, ECU, F, 1.74, 74, 04-11-89, San Lorenzo, Everton (On Loan)
+23, Diego Poyet, URU, M, 1.83, 74, 08-05-95, Zaragoza, Godoy Cruz (Mendoza)
+42, Martin Samuelsen, NOR, M, 1.89, 72, 17-04-97, Haugesund, Peterborough U (On Loan)
+76, Jaanai Gordon, ENG, F, 1.78, 65, 07-12-95, Nottingham, Newport Co (On Loan)
+37, Lewis Page, ENG, D, 1.78, 72, 20-05-96, Enfield, Charlton Ath
+66, Alex Pike, ENG, D, , , 08-02-97, Waltham Forest, Cheltenham T (On Loan)
+11, Simone Zaza, ITA, F, 1.86, 83, 25-06-91, Policoro, Juventus
+43, Marcus Browne, ENG, M, 1.79, 74, 18-12-97, Tower Hamlets, Wigan Ath (On Loan)
+29, Toni Martínez, ESP, F, 1.80, 70, 30-06-97, Barrio del Progreso, Oxford U (On Loan)
+27, Dimitri Payet, FRA, M, 1.74, 70, 29-03-87, St-Pierre de la Réunion, Marseille
+35, Reece Oxford, ENG, D, 1.90, 71, 16-12-98, Edmonton, Reading (On Loan)

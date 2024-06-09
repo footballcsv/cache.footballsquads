@@ -1,0 +1,42 @@
+=  Marítimo - Portuguese Primeira Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Amir Abedzadeh, IRN, G, 1.86, 86, 26-04-93, Tehran, Barreirense
+2, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Vasco da Gama
+3, Moisés Mosquera, COL, D, 1.87, 75, 24-05-01, Medellín, Real Santuario
+4, Lucas Áfrico, BRA, D, 1.88, 80, 05-02-95, São Paulo, Londrina
+5, Zainadine Júnior, MOZ, D, 1.78, 75, 24-06-88, Maputo, Tianjin Teda
+6, Jean, BRA, M, 1.83, 84, 26-09-94, Brasília, Corinthians
+7, Rafik Guitane, FRA, M, 1.64, 60, 29-05-99, Evreux, Rennes
+8, Jorge Correa, ARG, M, 1.70, 70, 04-04-93, San Martín, Vélez Sarsfield
+9, Rodrigo Pinho, BRA, F, 1.85, 79, 30-05-91, Henstedt-Ulzburg, Sporting Braga
+10, Stefano Beltrame, ITA, F, 1.83, 70, 08-02-93, Biella, CSKA Sofia
+11, François-Xavier Fumu Tamuzo, FRA, F, 1.80, 73, 03-04-95, Paris, Béziers
+12, Edgar Costa, POR, M, 1.80, 72, 14-04-87, Câmara de Lobos, Nacional [POR]
+13, Diego Moreno, COL, M, 1.80, 75, 27-02-96, Apartadó, Envigado
+14, Faiq Bolkiah, BRU, F, 1.75, 69, 09-05-98, Los Angeles, Leicester C
+16, Jean Cléber, BRA, M, 1.80, 72, 29-04-90, Santo André, CSA
+17, Milson, ANG, F, 1.74, 69, 12-10-99, Luanda, Leixões
+18, Franck-Yves Bambock, FRA, M, 1.81, 78, 07-04-95, Douala, Maccabi Petah Tikva
+20, Kibe, BRA, F, 1.91, 90, 13-03-00, Rio de Janeiro, São José-RS
+22, Caio Secco, BRA, G, 1.92, 76, 22-12-90, Cambé, Feirense
+23, Rúben Macedo, POR, F, 1.71, 63, 09-03-96, Amarante, Desportivo das Aves
+25, Renê Santos, BRA, D, 1.84, 74, 21-04-92, Salvador, Paraná
+27, Tim Söderström, SWE, M, 1.89, 77, 04-01-94, Stockholm, Hammarby IF
+31, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, Cruzeiro
+45, Fábio China, POR, D, 1.79, 66, 07-07-92, Calheta, Estrela da Calheta
+46, Andreas Karo, CYP, D, 1.90, 80, 09-09-96, Nicosia, Lazio
+60, Pedro Pelágio, POR, M, 1.81, 77, 21-04-00, Funchal, None
+66, Léo Andrade, BRA, D, 1.90, 78, 18-04-98, Curitiba, Coritiba
+70, Ali Alipour, IRN, F, 1.77, 70, 11-11-95, Qaem Shahr, Persepolis
+86, Marcelo Hermes, BRA, D, 1.77, 68, 02-01-95, Sarandi, Cruzeiro
+94, Charles, BRA, G, 1.85, 81, 04-02-94, Belo Horizonte, Vasco da Gama
+95, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Nanú, GNB, D, 1.77, 67, 17-05-94, Coimbra, FC Porto
+10, Getterson, BRA, F, 1.80, 79, 16-05-91, Engenheiro Beltrão, Al-Ain [KSA]
+80, Marcelinho, BRA, F, 1.76, 71, 02-07-96, Cascavel, Vizela (On Loan)
+15, Dejan Kerkez, SRB, D, 1.90, 84, 20-01-96, Novi Sad, Mafra (On Loan)

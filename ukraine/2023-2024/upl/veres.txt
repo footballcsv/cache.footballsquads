@@ -1,0 +1,43 @@
+=  Veres Rivne - Ukrainian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vadym Yushchyshyn, UKR, G, 1.90, 79, 23-11-99, Lviv, Karpaty Lviv
+2, Maksim Smiyan, UKR, M, 1.79, 72, 11-04-02, -, Zorya Luhansk
+3, Semen Vovchenko, UKR, D, 1.85, 83, 13-06-99, Zaporizhzhia, Nyva Ternopil
+5, Vasyl Kurko, UKR, D, 1.89, 83, 25-04-95, Chornomorsk, Livyi Bereh
+6, Julio Cesar, BRA, D, 1.92, 87, 06-12-96, Mogi das Cruzes, Borneo Samarinda
+7, Denys Yanakov, UKR, F, 1.75, 66, 01-01-99, Zaporizhzhia, Polissya Zhytomyr
+8, Dmytro Hodya, UKR, M, 1.70, 61, 10-03-05, -, Veres Rivne-2
+9, Mykhaylo Shestakov, UKR, F, 1.75, 74, 12-04-90, Ladyzhyn, Nyva Vinnytsia
+10, Dmytro Klyots, UKR, M, 1.75, 75, 15-04-96, Rivne, Sabah
+11, Vitaliy Dakhnovskyi, UKR, M, 1.76, 72, 10-02-99, Pyatnytsya, Wisła Sandomierz
+15, Roman Kovalyuk, UKR, M, 1.76, 63, 10-08-05, Lutsk, Rukh Lviv-2
+20, Iago Siqueira, BRA, M, 1.82, 75, 14-03-00, Pirassununga, Flamengo-SP
+22, Rostyslav Baran, UKR, M, 1.78, 68, 12-03-05, -, Veres Rivne-2
+23, Oleksandr Kucherenko, UKR, M, 1.84, 80, 01-10-91, Sloviansk, Inhulets Petrove
+24, Dmytro Shukh, UKR, M, 1.76, 69, 08-11-04, -, BRW-VIK
+29, Valeriy Kucherov, UKR, M, 1.75, 69, 11-08-93, Stakhanov, FC Kalush
+30, Dmytro Shastal, UKR, M, 1.78, 66, 30-12-95, Kyiv, Polissya Zhytomyr
+39, Denys Balan, UKR, D, 1.77, 67, 18-08-93, Odessa, Zlaté Moravce
+44, Yevhen Past, UKR, G, 1.87, 72, 16-03-88, Odessa, Chornomorets Odessa
+47, Bohdan Kohut, UKR, G, 1.90, 79, 10-10-87, Lviv, ODEK Orzhiv
+57, Oleksandr Melnyk, UKR, D, 1.95, 80, 10-02-00, Kyiv, FC Mynai
+71, Vasyl Hakman, UKR, D, 1.75, 70, 16-05-00, Korytne, Bukovyna Chernivtsi
+74, Yevhen Banada, UKR, M, 1.82, 75, 29-02-92, Nikopol, LNZ Cherkasy
+77, Vladyslav Sharay, UKR, M, 1.75, 69, 25-05-97, Romny, Alians Lypova Dolyna
+87, Marko Mrvaljević, MNE, F, 1.87, 83, 05-06-01, -, Budućnost Podgorica
+88, Andriy Kukharuk, UKR, M, 1.73, 66, 13-12-95, Ternopil, Inhulets Petrove
+89, Mykola Gayduchyk, UKR, F, 1.88, 78, 30-12-99, Zdolbuniv, ODEK Orzhiv
+91, Denys Svityukha, UKR, M, 1.86, 76, 08-02-02, Maksymilyanivka, Shakhtar Donetsk-2
+95, Yevheniy Shevchenko, UKR, D, 1.79, 71, 02-12-95, Brovary, Epitsentr Dunaivtsi
+99, Yevheniy Morozko, UKR, M, 1.76, 68, 15-02-93, Kyiv, Polissya Zhytomyr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Andriy Bliznichenko, UKR, M, 1.89, 70, 24-07-94, Novohrad-Volynskyi, 
+2, Roman Hahun, UKR, D, 1.70, 67, 16-07-93, Shepetivka, Nyva Buzova
+14, Maksym Marusych, UKR, F, 1.85, 82, 17-07-93, Poltava, SC Poltava
+78, Arseniy Korkodym, UKR, G, 1.95, 86, 03-10-02, Kyiv, Kremin Kremenchuk (On Loan)
+25, Stanislav Sharay, UKR, M, 1.75, 70, 25-05-97, Romny, Viktoriya Sumy (On Loan)
+19, Danyil Khondak, UKR, D, 1.88, 77, 19-04-01, Kharkiv, FC Chernihiv (On Loan)

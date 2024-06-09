@@ -1,0 +1,41 @@
+=  Preston North End - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, Croydon, Newcastle U
+2, Álvaro Fernández, ESP, D, -, -, 23-03-03, El Ferrol, Manchester U
+3, Greg Cunningham, IRL, D, 1.83, 73, 31-01-91, Galway, Cardiff C
+4, Ben Whiteman, ENG, M, 1.85, 68, 17-06-96, Rochdale, Doncaster R
+5, Patrick Bauer, GER, D, 1.92, 84, 28-10-92, Backnang, Charlton Ath
+6, Liam Lindsay, SCO, D, 1.93, 79, 12-10-95, Glasgow, Stoke C
+7, Liam Delap, ENG, F, 1.86, 72, 08-02-03, Winchester, Manchester C
+8, Alan Browne, IRL, M, 1.73, 71, 15-04-95, Cork, Cork C
+9, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, Fleetwood T
+10, Daniel Johnson, JAM, M, 1.74, 67, 08-10-92, Kingston, Aston Villa
+11, Robbie Brady, IRL, M, 1.75, 69, 14-01-92, Dublin, Bournemouth
+13, Ali McCann, NIR, M, 1.76, 64, 04-12-99, Edinburgh, St Johnstone
+14, Jordan Storey, ENG, D, 1.88, 75, 02-09-97, Yeovil, Exeter C
+15, Troy Parrott, IRL, F, 1.75, 72, 04-02-02, Dublin, Tottenham H
+16, Andrew Hughes, WAL, D, 1.83, 75, 05-06-92, Cardiff, Peterborough U
+17, Joshua Onomah, ENG, M, 1.85, 83, 27-04-97, Enfield, Fulham
+18, Ryan Ledson, ENG, M, 1.75, 69, 19-08-97, Liverpool, Oxford U
+19, Emil Riis Jakobsen, DEN, F, 1.90, 83, 24-06-98, Hobro, Randers
+20, Ben Woodburn, WAL, M, 1.74, 72, 16-11-99, Nottingham, Liverpool
+22, Matthew Olosunde, USA, D, 1.86, 72, 07-03-98, Philadelphia, Rotherham U
+23, Bambo Diaby, ESP, D, 1.86, 76, 17-12-97, Mataró, Barnsley
+25, David Cornell, WAL, G, 1.80, 73, 28-03-91, Swansea, Peterborough U
+28, Thomas Cannon, IRL, F, -, -, 28-12-02, Aintree, Everton
+29, Finlay Cross-Adair, ENG, F, -, -, 11-01-05, Preston, None
+30, Dana Amaral, ENG, M, -, -, 03-10-03, -, None
+31, Jacob Slater, ENG, D, -, -, 05-10-04, -, None
+32, Lewis Leigh, ENG, M, -, -, 05-12-03, Preston, None
+34, Lewis Coulton, SCO, D, -, -, 03-03-03, Chorley, None
+35, Noah Mawene, ENG, M, -, -, 01-02-05, Preston, None
+37, Kaedyn Kamara, ENG, M, -, -, 29-11-05, Liverpool, Burnley
+38, James Pradic, WAL, G, -, -, 02-07-05, Bromley, Charlton Ath
+44, Brad Potts, ENG, M, 1.88, 81, 03-07-94, Hexham, Barnsley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Mikey O'Neill, ENG, M, -, -, 08-06-04, Liverpool, Grimsby T (On Loan)
+24, Seán Maguire, IRL, F, 1.75, 75, 01-05-94, Luton, Coventry C

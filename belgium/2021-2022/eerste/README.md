@@ -1,0 +1,21 @@
+# Belgian Eerste Klasse A 2021/2022
+
+18 teams
+- [Anderlecht](ander.txt)
+- [Beerschot](beerschot.txt)
+- [Cercle Brugge](cercbrug.txt)
+- [Charleroi](charleroi.txt)
+- [Club Brugge](clubbrug.txt)
+- [Eupen](eupen.txt)
+- [KRC Genk](genk.txt)
+- [KAA Gent](gent.txt)
+- [Kortrijk](kortrijk.txt)
+- [Mechelen](mechelen.txt)
+- [Oostende](oostende.txt)
+- [Oud-Heverlee Leuven](ohleuven.txt)
+- [Royal Antwerp](antwerp.txt)
+- [RFC Seraing](seraing.txt)
+- [Sint-Truiden](sinttru.txt)
+- [Standard Liège](standard.txt)
+- [Union Saint-Gilloise](unionsg.txt)
+- [Zulte-Waregem](zultewar.txt)

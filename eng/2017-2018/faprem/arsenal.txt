@@ -1,0 +1,72 @@
+=  Arsenal - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Per Mertesacker, GER, D, 1.98, 90, 29-09-84, Hannover, Werder Bremen
+6, Laurent Koscielny, FRA, D, 1.86, 75, 10-09-85, Tulle, Lorient
+7, Henrikh Mkhitaryan, ARM, M, 1.77, 75, 21-01-89, Yerevan, Manchester U
+8, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+9, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Lyon
+10, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, None
+11, Mesut Özil, GER, M, 1.80, 76, 15-10-88, Gelsenkirchen, Real Madrid
+13, David Ospina, COL, G, 1.83, 80, 31-08-88, Medellín, Nice
+14, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Borussia Dortmund
+16, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Bolton W
+17, Alex Iwobi, NGA, M, 1.80, 75, 03-05-96, Lagos, None
+18, Nacho Monreal, ESP, D, 1.79, 72, 26-02-86, Pamplona, Málaga
+19, Santi Cazorla, ESP, M, 1.68, 66, 13-12-84, Lugo de Llanera, Málaga
+20, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Valencia
+21, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Southampton
+23, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, Manchester U
+24, Héctor Bellerín, ESP, D, 1.78, 74, 19-03-95, Barcelona, Barcelona
+27, Konstantinos Mavropanos, GRE, D, 1.92, 80, 11-12-97, Athens, PAS Giannina
+29, Granit Xhaka, SUI, M, 1.85, 82, 27-09-92, Gnjilane, B Mönchengladbach
+30, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, None
+31, Sead Kolašinac, BIH, D, 1.83, 82, 20-06-93, Karlsruhe, Schalke
+33, Petr Čech, CZE, G, 1.96, 90, 20-05-82, Plzeň, Chelsea
+35, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Basel
+39, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, None
+43, Josh Dasilva, ENG, F, 1.80, 75, 23-10-98, Redbridge, None
+44, Vlad Dragomir, ROU, M, 1.78, 67, 24-04-99, Timișoara, ACS Poli Timișoara
+45, Aaron Eyoma, ENG, M, 1.75, 70, 22-09-97, Hackney, None
+46, Yassin Fortune, FRA, F, 1.78, 76, 30-01-99, Aubervilliers, Lens
+47, Charlie Gilmour, SCO, M, 1.71, 69, 11-02-99, Brighton, None
+49, Ryan Huddart, ENG, G, 1.96, 94, 06-03-97, Broadstairs, Charlton Ath
+50, Dejan Iliev, MKD, G, 1.95, 87, 25-02-95, Strumica, Belasica
+51, Chiori Johnson, ENG, D, , , 05-10-97, Lewisham, None
+53, Hugo Keto, FIN, G, 1.91, 70, 09-02-98, Helsinki, HJK Helsinki
+54, Matt Macey, ENG, G, 1.98, 81, 09-09-94, Bristol, Bristol R
+61, Reiss Nelson, ENG, M, 1.75, 70, 10-12-99, Lambeth, None
+62, Eddie Nketiah, ENG, F, 1.75, 72, 30-05-99, Lewisham, None
+63, Jordi Osei-Tutu, ENG, D, 1.76, 70, 02-10-98, Slough, Reading
+67, João Virgínia, POR, G, 1.90, 80, 10-10-99, Faro, Benfica
+69, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, None
+70, Gedion Zelalem, USA, M, 1.85, 77, 26-01-97, Berlin, None
+72, Xavier Amaechi, ENG, M, 1.79, 75, 05-01-01, Bath, None
+80, Trae Coyle, ENG, F, 1.80, 71, 11-01-01, Camden, None
+87, Joseph Olowu, ENG, D, 1.84, 75, 27-11-99, Ibadan, None
+90, Emile Smith Rowe, ENG, M, 1.82, 64, 28-07-00, Croydon, None
+94, Nathan Tormey, ENG, M, , , 25-05-00, Hatfield, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Valencia
+25, Carl Jenkinson, ENG, D, 1.85, 77, 08-02-92, Buckhurst Hill, Birmingham C (On Loan)
+40, Cohen Bramall, ENG, D, 1.75, 70, 02-04-96, Crewe, Birmingham C (On Loan)
+3, Kieran Gibbs, ENG, D, 1.79, 70, 26-09-89, Lambeth, WBA
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Liverpool
+27, Joel Campbell, CRC, F, 1.78, 70, 26-06-92, San José [CRC], Betis (On Loan)
+28, Lucas, ESP, F, 1.80, 82, 10-09-88, La Coruña, Deportivo La Coruña (On Loan)
+56, Donyell Malen, NED, F, 1.76, 68, 09-01-99, Wieringen, PSV Eindhoven
+34, Francis Coquelin, FRA, M, 1.78, 74, 13-05-91, Laval, Valencia
+59, Tafari Moore, ENG, D, 1.73, 66, 05-07-97, Brent, Wycombe W (On Loan)
+14, Theo Walcott, ENG, F, 1.76, 68, 16-03-89, Stanmore, Everton
+7, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Manchester U
+65, Ben Sheaf, ENG, M, 1.85, 64, 05-02-98, Dartford, Stevenage (On Loan)
+58, Marcus McGuane, ENG, M, 1.78, 73, 02-02-99, Greenwich, Barcelona B
+2, Mathieu Debuchy, FRA, D, 1.77, 76, 28-07-85, Fretin, St-Etienne
+12, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Chelsea
+22, Jeff Reine-Adelaide, FRA, M, 1.83, 75, 17-01-98, Champigny-sur-Marne, Angers (On Loan)
+32, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, Sint-Truiden (On Loan)
+37, Krystian Bielik, POL, M, 1.89, 78, 04-01-98, Konin, Walsall (On Loan)
+64, Julio Pleguezuelo, ESP, D, 1.75, 70, 26-01-97, Palma de Mallorca, Nàstic (On Loan)

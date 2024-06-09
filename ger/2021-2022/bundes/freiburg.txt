@@ -1,0 +1,39 @@
+=  SC Freiburg - German Bundesliga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Uphoff, GER, G, 1.90, 78, 08-08-93, Burghausen, Karlsruhe
+2, Hugo Siquet, BEL, D, 1.75, 70, 09-07-02, Marche-en-Famenne, Standard Liège
+3, Philipp Lienhart, AUT, D, 1.85, 78, 11-07-96, Lilienfeld, Real Madrid B
+4, Nico Schlotterbeck, GER, D, 1.91, 86, 01-12-99, Waiblingen, Karlsruhe
+5, Manuel Gulde, GER, D, 1.83, 73, 12-02-91, Mannheim, Karlsruhe
+7, Jonathan Schmid, FRA, M, 1.77, 69, 26-06-90, Strasbourg, Augsburg
+8, Maximilian Eggestein, GER, M, 1.81, 75, 08-12-96, Hannover, Werder Bremen
+9, Lucas Höler, GER, F, 1.84, 79, 10-07-94, Achim, Sandhausen
+11, Ermedin Demirović, BIH, F, 1.84, 74, 25-03-98, Sarajevo, Alavés
+14, Yannik Keitel, GER, M, 1.84, 81, 15-02-00, Breisach, None
+17, Lukas Kübler, GER, D, 1.83, 73, 30-08-92, Bonn, Sandhausen
+18, Nils Petersen, GER, F, 1.86, 80, 06-12-88, Wernigerode, Werder Bremen
+19, Janik Haberer, GER, M, 1.87, 71, 02-04-94, Wangen im Allgäu, 1899 Hoffenheim
+20, Kevin Schade, GER, F, 1.83, 74, 27-11-01, Potsdam, Energie Cottbus
+21, Noah Atubolu, GER, G, 1.90, 78, 25-05-02, Freiburg im Breisgau, None
+22, Roland Sallai, HUN, M, 1.80, 69, 22-05-97, Székesfehérvár, APOEL
+24, Kimberly Ezekwem, GER, D, 1.87, 76, 19-06-01, Munich, Bayern Munich
+25, Kiliann Sildillia, FRA, D, 1.86, 76, 16-05-02, Montigny-lès-Metz, Metz
+26, Mark Flekken, NED, G, 1.95, 86, 13-06-93, Kerkrade, Duisburg
+27, Nicolas Höfler, GER, M, 1.81, 78, 09-03-90, Überlingen, Pfullendorf
+29, Jeong Woo-Yeong, KOR, M, 1.79, 72, 20-09-99, Ulsan, Bayern Munich
+30, Christian Günter, GER, D, 1.84, 81, 28-02-93, Villingen, None
+31, Keven Schlotterbeck, GER, D, 1.89, 84, 28-04-97, Weinstadt, TSG Backnang
+32, Vincenzo Grifo, ITA, M, 1.80, 75, 07-04-93, Pforzheim, 1899 Hoffenheim
+33, Noah Weißhaupt, GER, M, 1.80, 72, 20-09-01, Rostock, None
+36, Yannik Engelhardt, GER, M, 1.84, 74, 07-02-01, Göttingen, Werder Bremen
+45, Nishan Burkart, SUI, F, 1.74, 67, 31-01-00, Aarau, Manchester U
+48, Vincent Vermeij, NED, F, 1.95, 80, 09-08-94, Blaricum, Duisburg
+50, Kenneth Schmidt, GER, D, 1.86, 79, 03-06-02, Freiburg im Breisgau, None
+61, Robert Wagner, GER, M, 1.81, 80, 14-07-03, Lahr, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Baptiste Santamaria, FRA, M, 1.80, 70, 09-03-95, Bourges, Rennes
+23, Dominique Heintz, GER, D, 1.90, 85, 15-08-93, Neustadt an der Weinstraße, Union Berlin

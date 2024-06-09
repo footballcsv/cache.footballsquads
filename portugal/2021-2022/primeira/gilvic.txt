@@ -1,0 +1,38 @@
+=  Gil Vicente - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Žiga Frelih, SVN, G, 1.97, 90, 06-02-98, Ljubljana, Olimpija Ljubljana
+2, Zé Carlos, POR, D, 1.77, 75, 31-07-98, Porto, Sporting Braga
+3, Lucas, BRA, D, 1.86, 77, 23-01-97, Três Lagoas, Sporting Braga
+4, Diogo Silva, BRA, D, 1.86, 77, 11-01-95, São Paulo, Ypiranga
+5, Emmanuel Hackman, GHA, D, 1.87, 71, 14-05-95, Accra, Portimonense
+6, João Afonso, BRA, M, 1.81, 81, 09-02-95, Criciúma, Goiás
+7, Bilel Aouacheria, FRA, M, 1.82, 74, 02-04-94, Saint-Etienne, Farense
+8, Pedrinho, POR, M, 1.70, 68, 20-12-92, Cristelo, Riga FC
+9, Fran Navarro, ESP, F, 1.80, 73, 03-02-98, Pinedo, Valencia B
+10, Kanya Fujimoto, JPN, M, 1.76, 67, 01-07-99, Yamanashi, Tokyo Verdy
+11, Antoine Leautey, FRA, M, 1.72, 68, 14-04-96, Versailles, Niort
+12, Brian Araújo, POR, G, 1.89, 83, 29-04-00, Paris, None
+15, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Cartagena
+17, Boubacar Hanne, POR, F, 1.75, 68, 26-02-99, Paços de Ferreira, Wolverhampton W
+19, Juan Calero, COL, F, 1.79, 68, 05-11-98, Ginebra, Zacatecas
+20, João Caiado, POR, M, 1.78, 70, 20-04-99, Viseu, Famalicão
+21, Vitor Carvalho, BRA, M, 1.83, 74, 27-05-97, Palma, Coritiba
+26, Rúben Fernandes, POR, D, 1.86, 75, 06-05-86, Portimão, Portimonense
+29, Lino, BRA, F, 1.70, 69, 23-12-99, Santo André, São Bernardo
+31, Talocha, POR, D, 1.80, 75, 30-08-89, Antas, Riga FC
+33, Guilherme, BRA, D, 1.92, 87, 12-06-01, -, Bahia
+42, Andrew, BRA, G, 1.89, 72, 01-07-01, Duque de Caxias, Botafogo
+55, Henrique Gomes, POR, D, 1.85, 78, 30-11-95, Barcelos, Sporting Covilhã
+57, Matheus Bueno, BRA, M, 1.80, 72, 30-07-98, Curitiba, Coritiba
+77, Murilo, BRA, F, 1.77, 68, 31-10-94, São José do Norte, Sporting Braga
+93, Elder Santana, BRA, F, 1.86, 80, 07-04-93, Vera Cruz, Sanjoanense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Stanislav Kritsyuk, RUS, G, 1.92, 80, 01-12-90, Tolyatti, Zenit St Petersburg
+27, Marcelo, BRA, F, 1.87, 80, 27-07-97, Santo André, East Bengal (On Loan)
+33, Iago Maidana, BRA, D, 1.95, 87, 06-02-96, Criciúma, Atlético Mineiro
+99, André Liberal, POR, F, 1.81, 80, 02-08-02, Boticas, Tirsense (On Loan)
+25, Jean Irmer, BRA, M, 1.83, 84, 26-09-94, Brasília, Marítimo

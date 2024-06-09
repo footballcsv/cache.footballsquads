@@ -1,0 +1,47 @@
+=  Granada - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luís Maximiano, POR, G, 1.90, 84, 05-01-99, Celeirós, Sporting CP
+2, Santiago Arias, COL, D, 1.70, 67, 13-01-92, Medellín, Atlético Madrid
+3, Sergio Escudero, ESP, D, 1.76, 65, 02-09-89, Valladolid, Sevilla
+4, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Roma
+5, Luis Milla, ESP, M, 1.75, 65, 07-10-94, Madrid, Tenerife
+6, Germán Sánchez, ESP, D, 1.88, 82, 31-10-86, San Fernando, Tenerife
+7, Alberto Soro, ESP, M, 1.73, 63, 09-03-99, Ejea de los Caballeros, Real Madrid
+8, Yan Brice, CMR, M, 1.76, 70, 26-08-97, Yaoundé, Sevilla
+9, Luis Suárez, COL, F, 1.85, 74, 02-12-97, Santa Marta, Watford
+10, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería
+11, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Udinese
+12, Daniel Raba, ESP, M, 1.84, 74, 29-10-95, Santander, Villarreal
+13, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Málaga B
+14, Matías Arezo, URU, F, 1.78, 76, 21-11-02, Montevideo, River Plate [URU]
+15, Carlos Neva, ESP, D, 1.74, 64, 12-06-96, El Puerto de Santa María, Marbella
+16, Víctor Díaz, ESP, D, 1.83, 69, 12-06-88, Huelva, Leganés
+17, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, Rayo Vallecano
+18, Njegoš Petrović, SRB, M, 1.85, 72, 18-07-99, Krupanj, Crvena Zvezda
+19, Ángel Montoro, ESP, M, 1.80, 70, 25-06-88, Valencia, Las Palmas
+20, Carlos Bacca, COL, F, 1.81, 77, 08-09-86, Puerto Colombia, Villarreal
+21, Rubén Rochina, ESP, M, 1.81, 70, 23-03-91, Sagunto, Levante
+22, Domingos Duarte, POR, D, 1.92, 78, 10-03-95, Cascais, Sporting CP
+23, Jorge Molina, ESP, F, 1.88, 72, 22-04-82, Alcoy, Getafe
+24, Myrto Uzuni, ALB, F, 1.78, 72, 31-05-95, Berat, Ferencváros
+26, Isma, ESP, M, 1.80, 67, 14-02-01, Gójar, Granada B
+27, Pepe, ESP, D, 1.85, 63, 02-03-00, Linares, Granada B
+28, Raúl Torrente, ESP, M, 1.93, 79, 01-03-01, Murcia, Granada B
+29, Sergio Barcia, ESP, D, 1.94, 82, 31-12-00, Vigo, Celta Vigo B
+30, Ángel Jiménez, ESP, G, 1.94, 82, 22-06-02, Granada, Granada Juvenil A
+31, Kane Sarr, SEN, G, 1.90, 77, 21-04-00, Dakar, Nàstic
+34, Bryan Zaragoza, ESP, F, 1.64, 61, 09-09-01, Málaga, Granada B
+35, Álex Collado, ESP, M, 1.73, 65, 22-04-99, Sabadell, Barcelona B
+36, Miguel Brau, ESP, D, 1.83, 76, 27-12-01, Cartagena, Granada B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Málaga (On Loan)
+3, Adrián Marín, ESP, D, 1.81, 73, 09-01-97, Torre-Pacheco, Famalicão (On Loan)
+2, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Valencia
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, 
+18, Luis Abram, PER, D, 1.80, 78, 20-02-96, Lima, Cruz Azul (On Loan)
+33, Adrián Butzke, ESP, F, 1.93, 72, 30-03-99, Monachil, Paços de Ferreira (On Loan)
+14, Monchu, ESP, M, 1.73, 68, 13-09-99, Palma de Mallorca, Valladolid (On Loan)

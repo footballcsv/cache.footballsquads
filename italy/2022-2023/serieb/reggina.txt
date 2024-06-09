@@ -1,0 +1,51 @@
+=  Reggina - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nikita Contini, ITA, G, 1.90, 82, 21-05-96, Cherkasy, Napoli
+2, Rosario Girasole, ITA, D, -, -, -, -, None
+3, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, SPAL
+6, Giuseppe Loiacono, ITA, D, 1.82, 77, 06-10-91, Bari, Foggia
+7, Jérémy Ménez, FRA, F, 1.81, 77, 07-05-87, Longjumeau, Paris FC
+8, Lorenzo Crisetig, ITA, M, 1.83, 80, 20-01-93, Cividale del Friuli, Mirandés
+9, Gabriele Gori, ITA, F, 1.87, 80, 13-02-99, Florence, Fiorentina
+10, Joel Chukwuma Obi, NGA, M, 1.77, 72, 22-05-91, Lagos, Salernitana
+11, Emanuele Cicerelli, ITA, F, 1.77, 71, 12-08-94, San Giovanni Rotondo, Lazio
+12, Tommaso Aglietti, ITA, G, 1.84, 78, 29-02-00, Montevarchi, Vigor Carpaneto
+13, Devid Eugene Bouah, ITA, D, 1.80, 74, 13-08-01, Rome, Roma
+14, Giovanni Fabbian, ITA, M, 1.86, 68, 14-01-03, Camposampiero, Internazionale
+15, Antonio Lagonigro, ITA, G, -, -, 18-04-06, -, None
+16, Andrej Galabinov, BUL, F, 1.90, 88, 27-11-88, Sofia, Spezia
+17, Gianluca Di Chiara, ITA, D, 1.85, 79, 26-12-93, Palermo, Perugia
+19, David Strelec, SVK, F, 1.85, 73, 04-04-01, Nové Zámky, Spezia
+20, Hernani, BRA, M, 1.88, 77, 27-03-94, São Gonçalo do Sapucaí, Parma
+21, Federico Ricci, ITA, F, 1.75, 63, 27-05-94, Rome, Sassuolo
+22, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Parma
+23, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Pisa, Pordenone
+24, Emanuele Terranova, ITA, D, 1.85, 86, 14-04-87, Mazara del Vallo, Bari
+25, Alessandro Lombardi, ITA, M, 1.85, 74, 21-01-00, RIvoli, Imolese
+26, Emanuele Zucco, ITA, M, 1.68, -, 10-01-04, -, None
+27, Niccolò Pierozzi, ITA, M, 1.84, 75, 12-09-01, Florence, Fiorentina
+28, Riccardo Gagliolo, SWE, D, 1.80, 75, 28-04-90, Imperia, Salernitana
+29, Mario Paura, ITA, D, 1.85, 76, 04-04-05, -, None
+31, Luigi Canotto, ITA, F, 1.78, 71, 19-05-94, Rossano Calabro, Frosinone
+37, Žan Majer, SVN, M, 1.79, 69, 25-07-92, Maribor, Lecce
+38, Warren Bondo, FRA, M, 1.77, 63, 15-09-03, Evry, Monza
+94, Daniele Liotti, ITA, D, 1.80, 72, 08-06-94, Vibo Valentia, Pisa
+96, Juan Facundo Crisafi, ARG, F, 1.86, -, 17-06-04, Buenos Aires, Lamezia Terme
+99, Rigoberto Rivas, HON, F, 1.78, 70, 31-07-98, Balfate, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Lorenzo Gavioli, ITA, M, 1.82, 72, 07-01-00, Ferrara, Pro Patria (On Loan)
+13, Lorenzo Lollo, ITA, M, 1.80, 75, 08-12-90, Carrara, Triestina
+18, Lorenzo Di Stefano, ITA, F, 1.82, 75, 19-09-02, Catania, Sampdoria
+26, Alessandro Provazza, ITA, F, -, -, 07-05-03, -, Vis Pesaro (On Loan)
+30, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Reggiana (On Loan)
+46, Yassine Ejjaki, ITA, M, 1.72, 67, 15-05-99, Cremona, Mantova (On Loan)
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Catanzaro
+5, Eduard Duțu, ROU, D, 1.92, 82, 18-04-01, Rome, Fiorentina
+1, Federico Ravaglia, ITA, G, 1.96, 88, 11-11-99, Bologna, Bologna
+98, Federico Giraudo, ITA, D, 1.77, 81, 11-08-98, Cuneo, Cittadella (On Loan)
+19, Federico Santander, PAR, F, 1.87, 84, 04-06-91, San Lorenzo, Guaraní [PAR] (On Loan)
+24, Vittorio Agostinelli, ITA, M, 1.83, 64, 21-02-02, Monopoli, Fiorentina

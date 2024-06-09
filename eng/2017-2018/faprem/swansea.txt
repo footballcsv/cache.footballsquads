@@ -1,0 +1,71 @@
+=  Swansea City - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Fabiański, POL, G, 1.90, 83, 18-04-85, Kostrzyn nad Odrą, Arsenal
+2, Wilfried Bony, CIV, F, 1.82, 88, 10-12-88, Bingerville, Manchester C
+4, Ki Sung-Yueng, KOR, M, 1.86, 75, 24-01-89, Gwangju, Celtic
+5, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, Ajax
+6, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Barnsley
+7, Leon Britton, ENG, M, 1.68, 64, 16-09-82, Merton, Sheffield U
+8, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, QPR
+10, Tammy Abraham, ENG, F, 1.90, 72, 02-10-97, Camberwell, Chelsea
+11, Luciano Narsingh, NED, M, 1.78, 69, 13-09-90, Amsterdam, PSV Eindhoven
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, Southampton
+13, Kristoffer Nordfeldt, SWE, G, 1.90, 85, 23-06-89, Stockholm, SC Heerenveen
+14, Tom Carroll, ENG, M, 1.78, 64, 28-05-92, Watford, Tottenham H
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+16, Martin Olsson, SWE, D, 1.78, 81, 17-05-88, Gävle, Norwich C
+17, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Hull C
+18, Jordan Ayew, GHA, F, 1.82, 81, 11-09-91, Marseille, Aston Villa
+19, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, West Ham U
+22, Angel Rangel, ESP, D, 1.86, 85, 28-10-82, Tortosa, Terrassa
+24, Andy King, WAL, M, 1.83, 74, 29-10-88, Maidenhead, Leicester C
+25, Erwin Mulder, NED, G, 1.93, 88, 03-03-89, Zevenaar, SC Heerenveen
+26, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Tottenham H
+27, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Arsenal
+31, Aaron Lewis, WAL, D, 1.83, 85, 26-06-98, Swansea, None
+32, Liam Cullen, WAL, F, 1.78, 63, 23-04-99, Haverfordwest, None
+33, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Napoli
+34, Jack Evans, WAL, M, 1.78, 69, 25-04-98, Swansea, None
+35, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Bayern Munich
+36, Botti Bia-Bi, SCO, F, 1.88, 79, 08-03-96, Camberwell, Falkirk
+37, Keiran Evans, WAL, M, 1.73, 70, 27-03-99, Swansea, None
+38, Adnan Marić, SWE, M, 1.81, 76, 17-02-97, Gothenburg, GAIS
+39, Gregor Zabret, SVN, G, 1.87, 82, 18-08-95, Ljubljana, Domžale
+41, Jordan Garrick, ENG, F, 1.83, 78, 15-07-98, , Ossett Alb
+42, Daniel James, WAL, M, 1.80, 76, 10-11-97, Kingston upon Hull, Hull C
+43, Marco Dulca, ROU, M, , , 11-05-99, Cluj-Napoca, Universitatea Cluj
+45, Mael Davies, WAL, D, , , 10-10-98, Carmarthen, None
+46, Kenji Gorré, NED, F, 1.77, 71, 29-09-94, Paramaribo, Manchester U
+48, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, Watford
+49, Causso Darame, POR, M, , , 18-05-99, , None
+50, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, Coventry C
+52, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, None
+55, Brandon Cooper, WAL, D, 1.85, 74, 14-01-00, Bridgend, None
+57, Keston Davies, WAL, D, 1.88, 83, 02-10-96, Killay, Manchester C
+58, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Leamington
+59, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, 1860 Munich
+60, Lewis Thomas, WAL, G, 1.83, 70, 20-09-97, Manselton, None
+64, Matic Paljk, SVN, D, 1.90, 75, 02-10-97, Koper, Koper
+66, Matthew Blake, WAL, D, 1.80, 75, 14-11-99, Swansea, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Gylfi Sigurðsson, ISL, M, 1.86, 77, 08-09-89, Reykjavik, Everton
+21, Matt Grimes, ENG, M, 1.78, 70, 15-07-95, Exeter, Northampton T (On Loan)
+35, Stephen Kingsley, SCO, D, 1.78, 68, 23-07-94, Stirling, Hull C
+9, Fernando Llorente, ESP, F, 1.93, 88, 26-02-85, Pamplona, Tottenham H
+19, Mark Birighitti, AUS, G, 1.89, 87, 17-04-91, Perth, NAC Breda
+30, Josh Sheehan, WAL, M, 1.84, 75, 30-03-95, Pembrey, Newport Co
+47, Tyler Reid, ENG, D, 1.80, 72, 02-09-97, Luton, Newport Co (On Loan)
+63, Ryan Blair, SCO, M, 1.86, 76, 23-02-96, Glasgow, Falkirk (On Loan)
+56, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Wigan Ath (On Loan)
+53, Adam King, SCO, M, 1.80, 75, 11-10-95, Edinburgh, Mansfield T (On Loan)
+51, Roque Mesa, ESP, M, 1.71, 74, 07-06-89, Telde, Sevilla (On Loan)
+61, Joe Rodon, WAL, D, 1.90, 76, 22-10-97, Swansea, Cheltenham T (On Loan)
+62, Oliver McBurnie, ENG, F, 1.88, 66, 04-06-96, Leeds, Barnsley (On Loan)
+44, Tom Plezier, NED, M, , , 08-02-97, , 
+54, Jack Bainbridge, ENG, D, , , 21-05-98, Southport, 
+65, Anthony Brydges, FRA, D, 1.70, 56, 09-04-97, Aubervilliers, 
+20, Jefferson Montero, ECU, M, 1.73, 70, 01-09-89, Babahoyo, Emelec (On Loan)

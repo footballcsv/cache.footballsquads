@@ -1,0 +1,64 @@
+=  Leeds United - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Illan Meslier, FRA, G, 1.96, 74, 02-03-00, Lorient, Lorient
+2, Luke Ayling, ENG, D, 1.83, 72, 25-08-91, Lambeth, Bristol C
+3, Júnior Firpo, ESP, D, 1.84, 75, 22-08-96, Santo Domingo, Barcelona
+4, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Middlesbrough
+5, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Freiburg
+6, Liam Cooper, SCO, D, 1.80, 73, 03-08-91, Hull, Chesterfield
+9, Patrick Bamford, ENG, F, 1.85, 71, 05-09-93, Newark, Middlesbrough
+10, Raphinha, BRA, M, 1.76, 68, 14-02-96, Porto Alegre, Rennes
+11, Tyler Roberts, WAL, F, 1.80, 75, 12-01-98, Gloucester, WBA
+13, Kristoffer Klaesson, NOR, G, 1.89, 76, 27-11-00, Oslo, Vålerenga
+14, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Real Sociedad
+15, Stuart Dallas, NIR, D, 1.83, 81, 19-04-91, Cookstown, Brentford
+19, Rodrigo Moreno, ESP, F, 1.82, 77, 06-03-91, Rio de Janeiro, Valencia
+20, Daniel James, WAL, M, 1.80, 76, 10-11-97, Kingston upon Hull, Manchester U
+21, Pascal Struijk, NED, D, 1.90, 75, 11-08-99, Deurne, Ajax
+22, Jack Harrison, ENG, M, 1.75, 71, 20-11-96, Stoke-on-Trent, Manchester C
+23, Kalvin Phillips, ENG, M, 1.77, 72, 02-12-95, Leeds, None
+26, Lewis Bate, ENG, M, -, -, 29-10-02, Sidcup, Chelsea
+27, Amari Miller, ENG, M, -, -, 04-11-02, Birmingham, Birmingham C
+30, Joe Gelhardt, ENG, F, 1.76, 71, 04-05-02, Liverpool, Wigan Ath
+32, Sean McGurk, ENG, F, -, -, 15-03-03, Liverpool, Wigan Ath
+33, Leo Hjelde, NOR, D, 1.88, 76, 26-08-03, Nottingham, Celtic
+35, Charlie Cresswell, ENG, D, 1.87, 74, 07-12-02, Preston, None
+38, Crysencio Summerville, NED, F, 1.74, 68, 30-10-01, Rotterdam, Feyenoord
+39, Stuart McKinstry, SCO, M, 1.79, 68, 18-09-02, Wishaw, Motherwell
+40, Dani van den Heuvel, NED, G, 1.84, 73, 28-05-03, Delft, Ajax
+42, Sam Greenwood, ENG, M, 1.80, 70, 26-01-02, Sunderland, Arsenal
+43, Mateusz Klich, POL, M, 1.80, 67, 13-06-90, Tarnów, FC Twente
+45, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, Carlisle U
+46, Jamie Shackleton, ENG, M, 1.68, 64, 08-10-99, Leeds, None
+47, Jack Jenkins, ENG, M, -, -, 23-03-02, Leeds, None
+49, Mateo Joseph, ESP, F, 1.80, 75, 19-10-03, Santander, Espanyol
+50, Max Dean, ENG, F, 1.78, 65, 21-02-04, Ormskirk, None
+51, Charlie Allen, NIR, F, -, -, 22-11-03, Belfast, None
+52, Kris Moore, ENG, D, -, -, 13-11-03, Leeds, None
+53, Connor Ferguson, ENG, D, -, -, 21-02-04, Keighley, None
+54, Nohan Kenneh, ENG, M, 1.90, 79, 10-01-03, Monrovia, None
+55, Harry Christy, ENG, G, -, -, 19-10-03, Harrogate, None
+56, Alfie Hughes, ENG, M, -, -, 06-11-02, Stockton-on-Tees, None
+57, Joe Snowdon, ENG, M, -, -, 14-02-04, Oldham, Manchester C
+58, Morten Spencer, NOR, M, -, -, 14-03-04, Darlington, Sunderland
+59, Keenan Carole, FRA, F, -, -, 04-08-04, Nice, None
+60, Harvey Sutcliffe, ENG, D, -, -, 07-09-03, Keighley, None
+61, Cian Coleman, IRL, F, -, -, 23-09-04, Pudsey, None
+62, Jeremiah Mullen, SCO, D, -, -, 17-06-04, Leeds, None
+63, Archie Gray, ENG, M, 1.83, 70, 12-03-06, Durham, None
+64, Joe Littlewood, ENG, D, -, -, 31-03-03, Leeds, None
+65, Lui Bradbury, ENG, F, -, -, 12-07-04, Halifax, None
+66, Luca Thomas, ENG, F, -, -, 16-09-04, Crewe, None
+67, Ben Andreucci, IRL, F, -, -, 05-10-04, Bedford, None
+68, Scott Godden, WAL, D, -, -, 07-02-05, Leeds, None
+70, Darryl Ombang, ENG, G, -, -, 11-07-05, Leeds, Bradford C
+71, Jay Buchan, ENG, M, -, -, 07-03-05, Bradford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Elia Caprile, ITA, G, 1.91, 74, 25-08-01, Verona, Pro Patria (On Loan)
+7, Ian Poveda, ENG, M, 1.65, 61, 09-02-00, Southwark, Blackburn R (On Loan)
+17, Hélder Costa, ANG, M, 1.78, 73, 12-01-94, Luanda, Valencia (On Loan)
+37, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, Cardiff C (On Loan)

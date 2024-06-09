@@ -1,0 +1,44 @@
+=  Paks - Hungarian Nemzeti Bajnokság I 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, Larissa
+2, Ákos Kinyik, HUN, D, 1.91, 85, 12-05-93, Debrecen, Debrecen
+4, Márton Lorentz, HUN, D, 1.84, 77, 01-02-95, Budapest, Siófok
+5, Olivér Tamás, HUN, D, 1.83, 77, 14-04-01, Solotvyno, MOL Fehérvár
+6, Csaba János Hahn, HUN, F, 1.85, 82, 15-03-95, Paks, DAC Dunajská Streda
+7, Máté Sajbán, HUN, F, 1.86, 81, 19-12-95, Budapest, Mezőkövesd
+8, Balázs Balogh, HUN, M, 1.85, 77, 11-06-90, Budapest, Puskás Akadémia
+9, Lukács Bőle, HUN, F, 1.79, 72, 27-03-90, Marcali, Honvéd
+10, Zsolt Haraszti, HUN, F, 1.86, 83, 04-11-91, Paks, Videoton
+11, Attila Osváth, HUN, D, 1.77, 75, 10-12-95, Veszprém, Puskás Akadémia
+12, Gábor Vas, HUN, M, -, -, 29-08-03, -, None
+13, Dániel Böde, HUN, F, 1.90, 84, 24-10-86, Szekszárd, Ferencváros
+14, Tamás Kádár, HUN, D, 1.88, 74, 14-03-90, Veszprém, Újpest
+16, Zoltán Pesti, HUN, F, -, -, 24-04-05, -, None
+17, Alen Skribek, HUN, F, 1.81, 76, 11-04-01, Budapest, Puskás Akadémia
+18, Gergő Gyurkits, HUN, M, -, -, 05-06-02, -, Vasas
+20, Nikolasz Kovács, HUN, D, 1.84, 76, 27-02-99, Budapest, Honvéd
+21, Kristóf Papp, HUN, M, 1.83, 73, 04-05-93, Kerepestarcsa, Gyirmót
+22, József Windecker, HUN, M, 1.83, 75, 02-12-92, Szeged, Levadiakos
+23, Barnabás Varga, HUN, F, 1.78, 74, 25-01-94, Szombathely, Gyirmót
+24, Bencze Lenzsér, HUN, D, 1.83, 72, 09-06-96, Győr, Győr
+25, Barnabás Simon, HUN, G, 1.92, 86, 13-02-04, Szombathely, Haladás
+26, Patrik Nyári, HUN, M, 1.85, 79, 09-04-01, Szombathely, MOL Fehérvár
+27, Attila Haris, HUN, M, 1.77, 75, 23-01-97, Szolnok, Soroksár
+30, János Szabo, HUN, D, 1.82, 73, 11-07-89, Paks, None
+32, Milán Szekszárdi, HUN, D, -, -, 08-02-01, -, None
+33, József Balázs, HUN, G, 1.85, 80, 02-12-03, Karcag, MTK
+42, Norbert Szélpál, HUN, D, 1.95, 92, 03-03-96, Szeged, Békéscsaba
+55, Zalán Debreceni, HUN, D, 1.88, 76, 06-07-02, Szekszárd, Haladás
+77, Zsolt Gévay, HUN, D, 1.87, 82, 19-11-87, Dunaújváros, Mezőkövesd
+88, Richárd Nagy, HUN, M, 1.82, 76, 08-04-94, Budapest, Kaposvár
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Barna Kesztyűs, HUN, M, 1.84, 76, 04-09-93, Pécs, Pécs (On Loan)
+17, Bence Kocsis, HUN, M, 1.80, 75, 23-04-01, Târgu Mureș, Pécs (On Loan)
+31, Gergő Rácz, HUN, G, 1.87, 82, 20-11-95, Budapest, MTK (On Loan)
+26, Patrik Volter, HUN, M, -, -, 13-08-02, Szolnok, Siófok (On Loan)
+27, Bálint Szabó, HUN, M, 1.79, 72, 18-01-01, Székesfehérvár, Antalyaspor (On Loan)
+3, Zsolt Gévay, HUN, D, 1.87, 82, 19-11-87, Dunaújváros, Re-Registered (77)

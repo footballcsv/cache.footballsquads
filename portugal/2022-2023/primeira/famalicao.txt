@@ -1,0 +1,47 @@
+=  Famalicão - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Zlobin, RUS, G, 1.91, 84, 07-03-97, Tyumen, Benfica
+2, Diogo Queirós, POR, D, 1.85, 79, 05-01-99, Matosinhos, FC Porto
+4, Enea Mihaj, ALB, D, 1.83, 72, 05-07-98, Agrinio, PAOK
+5, Rúben Lima, POR, D, 1.76, 72, 03-10-89, Lisbon, Belenenses
+6, Alexandre Penetra, POR, D, 1.86, 73, 09-09-01, Tondela, Benfica
+7, Ivo Rodrigues, POR, F, 1.79, 73, 30-03-95, Baguim do Monte, Royal Antwerp
+8, André Simões, POR, M, 1.77, 71, 16-12-89, Vila Nova de Gaia, AEK
+9, Leandro Sanca, POR, F, 1.84, 73, 04-01-00, Lisbon, Spezia
+10, Iván Jaime, ESP, M, 1.77, 68, 26-09-00, Málaga, Málaga
+11, Pedro Brazão, POR, M, 1.73, 62, 30-12-02, Lisbon, Nice
+12, Gustavo Assunçao, BRA, M, 1.78, 66, 30-03-00, São Paulo, Atlético Madrid B
+13, Otávio, BRA, D, 1.84, 79, 21-04-02, São Paulo, Flamengo
+14, Junior Kadile, FRA, F, 1.82, 83, 16-12-02, Rennes, Rennes
+15, Riccieli, BRA, D, 1.84, 79, 17-09-98, Resende, Mirassol
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Estoril
+18, David Tavares, POR, M, 1.81, 83, 18-03-99, Lisbon, Benfica
+19, José Luis Rodríguez, PAN, M, 1.78, 70, 19-06-98, Ciudad de Panamá, Alavés B
+20, Gustavo Sá, POR, M, 1.86, 80, 11-11-04, Póvoa de Varzim, None
+23, Alex Dobre, ROU, M, 1.78, 71, 30-08-98, Bucharest, Dijon
+25, Pelé, GNB, M, 1.82, 75, 29-09-91, Cacém, Monaco
+28, Zaydou Youssouf, FRA, M, 1.82, 81, 11-07-99, Bordeaux, St-Etienne
+29, Jhonder Cádiz, VEN, F, 1.91, 83, 29-07-95, Caracas, Benfica
+31, Luiz Júnior, BRA, G, 1.94, 92, 14-01-01, Picos, Mirassol
+32, Martín Aguirregabiria, ESP, D, 1.78, 69, 10-05-96, Vitoria-Gasteiz, Alavés
+51, Zé Henrique, BRA, G, 1.99, 86, 23-10-04, Paraguaçu Paulista, Palmeiras
+70, Denílson, BRA, F, 1.87, 72, 18-07-95, Rio de Janeiro, Hatta Club
+74, Francisco Moura, POR, D, 1.82, 76, 16-04-99, Braga, Sporting Braga
+77, Pablo, BRA, F, 1.84, 76, 02-01-04, Braga, None
+95, Théo Fonseca, POR, F, 1.78, 75, 11-06-00, Ermonit, Felgueiras
+97, Santiago Colombatto, ARG, M, 1.79, 71, 17-01-97, Córdoba, León
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+66, Cláudio Silva, POR, D, 1.88, 83, 29-06-00, Porto, Feirense
+3, Owen Beck, WAL, D, 1.77, 65, 09-08-02, Wrexham, Liverpool
+21, Dylan Batubinsika, FRA, D, 1.84, 84, 15-02-96, Cergy-Pontoise, Maccabi Haifa (On Loan)
+91, Heriberto Tavares, POR, F, 1.81, 74, 19-02-97, Amadora, Ponferradina (On Loan)
+18, Samuel Lobato, POR, M, 1.84, 71, 19-10-01, Maia, B-SAD (On Loan)
+23, Bernardo Silva, POR, M, 1.90, 64, 31-05-01, Lisbon, Real SC (On Loan)
+13, Dalberson, BRA, G, 1.91, 85, 13-01-97, -, CSA
+9, Álex Millán, ESP, F, 1.82, 74, 07-11-99, Zaragoza, Villarreal B
+22, Hernán De La Fuente, ARG, D, 1.75, 75, 07-01-97, Capital Federal, Atlético Tucumán (On Loan)
+47, Kauan, BRA, G, 1.95, 85, 13-01-02, Barretos, Farense (On Loan)

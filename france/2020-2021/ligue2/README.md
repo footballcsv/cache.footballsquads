@@ -1,0 +1,23 @@
+# French Ligue 2 2020/2021
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Auxerre](auxerre.txt)
+- [Caen](caen.txt)
+- [Chambly](chambly.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dunkerque](dunkerque.txt)
+- [Grenoble](grenoble.txt)
+- [Guingamp](guinga.txt)
+- [Le Havre](lehavre.txt)
+- [Nancy](nancy.txt)
+- [Niort](niort.txt)
+- [Paris FC](parisfc.txt)
+- [Pau](pau.txt)
+- [Rodez](rodez.txt)
+- [Sochaux](sochaux.txt)
+- [Toulouse](toulouse.txt)
+- [Troyes](troyes.txt)
+- [Valenciennes](valenc.txt)

@@ -1,0 +1,44 @@
+=  Tenerife - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Soriano, ESP, G, 1.82, 78, 23-08-97, Benacazón, Sevilla B
+2, Aitor Buñuel, ESP, D, 1.80, 74, 10-02-98, Tafalla, Almería
+3, Kike Salas, ESP, D, 1.86, 80, 23-04-02, Morón de la Frontera, Sevilla B
+4, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Alcorcón
+5, Sergio González, ESP, D, 1.84, 77, 14-05-97, Cartagena, Cádiz
+6, Àlex Corredera, ESP, M, 1.81, 72, 19-03-96, Sant Joan de les Abadesses, Badajoz
+7, Elady Zorrilla, ESP, M, 1.78, 75, 13-07-90, La Puerta de Segura, Cartagena
+8, Javi Alonso, ESP, M, 1.83, 75, 01-08-98, Santa Cruz de Tenerife, Tenerife B
+9, Borja Garcés, ESP, F, 1.75, 72, 06-08-99, Melilla, Atlético Madrid B
+10, Samuel Shashoua, ENG, M, 1.76, 66, 13-05-99, Westminster, Tottenham H
+11, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Anderlecht
+13, Javi Díaz, ESP, G, 1.85, 75, 15-05-97, Seville, Sevilla B
+14, Carlos Ruiz, ESP, D, 1.79, 75, 20-07-83, Baza, Ponferradina
+15, Pablo Larrea, ESP, M, 1.75, 67, 04-02-94, Madrid, Ponferradina
+16, Aitor Sanz, ESP, M, 1.81, 71, 13-09-84, Madrid, Oviedo
+17, Waldo Rubio, ESP, M, 1.81, 70, 17-08-95, Badajoz, Valladolid
+18, Enric Gallego, ESP, F, 1.90, 87, 12-09-86, Martorell, Osasuna
+19, Iván Romero, ESP, F, 1.75, 72, 10-04-01, La Solana, Sevilla B
+20, José Ángel Jurado, ESP, M, 1.82, 74, 21-06-92, Seville, Alcorcón
+21, Riza Durmisi, DEN, D, 1.68, 67, 08-01-94, Ishøj, Lazio
+22, Jérémy Mellot, FRA, D, 1.78, 77, 28-03-94, Clermont-Ferrand, Guingamp
+23, Nikola Šipčić, SRB, D, 1.92, 83, 17-05-95, Priboj, Rad
+24, Nacho Martínez, ESP, D, 1.75, 76, 07-03-89, Madrid, Valladolid
+26, David Rodríguez, ESP, D, 1.79, 74, 26-06-00, Santa Cruz de Tenerife, Tenerife B
+27, Alassan, ESP, M, 1.77, 63, 12-09-02, Santa Cruz de Tenerife, Tenerife B
+28, Pablo Hernández, ESP, M, 1.73, 71, 18-12-00, Santa Cruz de Tenerife, Tenerife B
+29, Cacho, ESP, F, -, -, 31-07-02, Santa Cruz de Tenerife, Tenerife B
+30, Victor, ESP, G, 1.87, 83, 24-03-00, Vallesco, Tenerife B
+31, Teto, ESP, M, 1.75, 67, 13-09-01, Santa Cruz de Tenerife, Tenerife B
+32, Ibra Barry, ESP, M, 1.77, 74, 01-08-02, Santa Cruz de Tenerife, Tenerife B
+33, Matías Cedrés, URU, M, -, -, 28-07-01, -, Tenerife B
+34, Dani Selma, ESP, F, -, -, 01-03-01, L'Eliana, Acero
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Míchel, ESP, M, 1.81, 69, 29-07-88, Valencia, Hércules
+27, Ethyan González, ESP, F, 1.85, 77, 06-06-02, Santa Cruz de Tenerife, Atlético Madrid B (On Loan)
+28, Thierno Barry, ESP, M, 1.73, 70, 12-01-00, Santa Cruz de Tenerife, SD Logroñés (On Loan)
+21, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Almería
+12, Andoni López, ESP, D, 1.87, 73, 05-04-96, Barakaldo, Lugo

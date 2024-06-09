@@ -1,0 +1,46 @@
+=  FC Ufa - Russian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksey Chernov, RUS, G, 1.97, 85, 03-06-98, Kozelsk, FC Kaluga
+2, Grigoriy Morozov, RUS, D, 1.83, 74, 06-06-94, Izhevsk, Dynamo Moscow
+3, Pavel Alikin, RUS, D, 1.85, 79, 06-03-84, Perm, SKA-Energia
+4, Aleksey Nikitin, RUS, D, 1.87, 87, 27-01-92, Moscow, Amkar Perm
+5, Bojan Jokič, SVN, D, 1.76, 75, 17-05-86, Kranj, Villarreal
+7, Dmitriy Sisuev, RUS, M, 1.75, 72, 13-01-88, Saransk, Mordovia Saransk
+8, Parfait Bizoza, BDI, M, 1.87, 78, 15-03-99, Skodje, Aalesund
+10, Oston Urunov, UZB, M, 1.90, 84, 19-12-00, Navoiy, Spartak Moscow
+11, Nemanja Miletić, SRB, D, 1.82, 78, 26-07-91, Loznica, Olympiakos Nicosia
+15, Konstantin Pliyev, RUS, D, 1.81, 60, 26-10-96, Vladikavkaz, FC Rostov
+16, Yuriy Shafinskiy, RUS, G, 1.90, 82, 06-05-94, Moscow, Tom Tomsk
+18, Komnen Andrić, SRB, F, 1.89, 84, 01-07-95, Novi Pazar, Dinamo Zagreb
+19, Oleg Ivanov, RUS, M, 1.91, 82, 04-08-86, Moscow, Akhmat Grozny
+21, Magomedemin Rabadanov, RUS, F, 1.68, 65, 05-02-02, Sergokala, FC Ufa-2
+22, Artyom Golubev, RUS, D, 1.81, 70, 21-01-99, Volgograd, FC Krasnodar
+24, Filip Mrzljak, CRO, M, 1.75, 70, 16-04-93, Zagreb, Dinamo București
+27, Oleg Dzantiev, RUS, D, 1.93, 81, 09-03-99, Krasnodar, Olimp-Dolgoprudny
+29, Vladislav Kamilov, RUS, M, 1.76, 72, 29-08-95, Kalmanka, SKA-Khabarovsk
+31, Aleksandr Belenov, RUS, G, 1.97, 94, 13-09-86, Belgorod, Anzhi Makhachkala
+32, Moritz Bauer, AUT, D, 1.81, 73, 25-01-92, Veltheim, Stoke C
+33, Aleksandr Sukhov, RUS, D, 1.74, 71, 03-01-86, Moscow, Shinnik
+55, Jemal Tabidze, GEO, D, 1.86, 80, 18-03-96, Samtredia, KAA Gent
+57, Vyacheslav Krotov, RUS, F, 1.81, 71, 14-02-93, Astrakhan, Spartak Moscow
+75, Timur Zhamaletdinov, RUS, F, 1.81, 73, 21-05-97, Moscow, CSKA Moscow
+82, Nikita Belousov, RUS, M, 1.71, 68, 26-02-02, Tuymazy, FC Ufa-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Andrés Vombergar, SVN, F, 1.87, 80, 20-11-94, Villa Luzuriaga, Olimpija Ljubljana
+27, Ionuţ Nedelcearu, ROU, D, 1.90, 79, 25-04-96, Bucharest, AEK
+23, Danila Yemelyanov, RUS, M, 1.83, 66, 23-01-00, Asha, Volgar Astrakhan (On Loan)
+87, Igor Bezdenezhnykh, RUS, M, 1.75, 65, 08-08-96, Ufa, Chayka Peschanokopskoye (On Loan)
+10, Olivier Thill, LUX, M, 1.76, 76, 17-12-96, Luxembourg, Vorskla Poltava
+17, Nikolay Giorgobiani, RUS, M, 1.70, 60, 16-07-97, Sochi, Alania Vladikavkaz (On Loan)
+19, Gamid Agalarov, RUS, F, 1.80, 73, 16-07-00, Makhachkala, Volgar Astrakhan (On Loan)
+94, Oleh Danchenko, UKR, D, 1.78, 64, 01-08-94, Zaporizhya, Rubin Kazan
+11, Lovro Bizjak, SVN, F, 1.84, 79, 12-11-93, Šmartno ob Paki, Sheriff Tiraspol
+44, Sergey Borodin, RUS, D, 1.88, 82, 30-01-99, Lazarevskoye, FC Krasnodar-2
+8, Cătălin Carp, MDA, M, 1.84, 77, 20-10-93, Chișinău, FC Tambov
+77, Azer Aliyev, RUS, M, 1.68, 62, 12-05-94, Krasnoyarsk, FC Tambov
+9, Kirill Folmer, RUS, M, 1.78, 68, 25-02-00, Engels, FC Rostov
+99, Akhmed Alibekov, UKR, M, 1.82, 72, 29-05-98, Zaporizhya, Dynamo Kyiv

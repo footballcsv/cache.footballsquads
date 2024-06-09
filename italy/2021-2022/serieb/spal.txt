@@ -1,0 +1,56 @@
+=  SPAL - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Pomini, ITA, G, 1.85, 80, 17-03-81, Isola della Scala, Venezia
+2, Mark Pabai, NED, D, 1.89, 78, 30-09-00, Wijk bij Duurstede, PEC Zwolle
+3, Alessandro Tripaldelli, ITA, D, 1.82, 77, 09-02-99, Naples, Cagliari
+5, Salvatore Esposito, ITA, M, 1.78, 80, 07-10-00, Castellammare di Stabia, Internazionale
+6, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Lecce
+7, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Empoli
+8, Marco Mancosu, ITA, M, 1.80, 77, 22-08-88, Cagliari, Lecce
+9, Lorenzo Colombo, ITA, F, 1.83, 74, 08-03-02, Vimercate, Milan
+10, Niccolò Zanellato, ITA, M, 1.78, 74, 24-06-98, Milan, Crotone
+11, Federico Melchiorri, ITA, F, 1.83, 75, 06-01-87, Treia, Perugia
+14, Franco Zuculini, ARG, M, 1.76, 68, 05-09-90, La Rioja, Defensor Sporting
+17, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, Spezia
+18, Mattia Finotto, ITA, F, 1.86, 72, 28-12-92, Pieve di Soligo, Monza
+19, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, Spezia
+20, Mikael Egill Ellertsson, ISL, M, 1.82, 68, 11-03-02, Reykjavík, Spezia
+22, Demba Thiam, SEN, G, 2.02, 95, 09-03-98, Dakar, None
+23, Francesco Vicari, ITA, D, 1.88, 83, 03-08-94, Rome, Novara
+24, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, Novara
+27, Alberto Almici, ITA, D, 1.83, 77, 11-01-93, Lovere, Palermo
+28, Luca Vido, ITA, F, 1.82, 78, 03-02-97, Bassano del Grappa, Atalanta
+29, Patryk Peda, POL, D, 1.90, 76, 16-04-02, Warsaw, Legia Warszawa
+32, Marco Pinato, ITA, M, 1.86, 85, 09-01-95, Monza, Sassuolo
+40, Jacopo Da Riva, ITA, M, 1.84, 78, 27-10-00, Montebelluna, Atalanta
+49, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Clifton, Real Salt Lake
+54, Enrico Alfonso, ITA, G, 1.91, 85, 04-05-88, Padua, Cremonese
+77, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Verona
+79, Moustapha Yabre, ITA, D, 1.76, 61, 13-07-02, Zabré, Liventina
+80, Andrea Magri, ITA, G, 1.84, 68, 05-03-03, Brescia, Internazionale
+87, David Heidenreich, CZE, D, 1.91, 75, 24-06-00, Ústí nad Labem, Atalanta
+91, Raffaele Celia, ITA, D, 1.80, 70, 04-03-99, Catanzaro, Sassuolo
+92, Andrea Rigon, ITA, G, 1.90, -, 05-09-03, Camposampiero, None
+94, Alessandro Orfei, ITA, F, 1.70, -, 05-02-03, Tivoli, Chievo Verona
+95, Steven Nador, GER, D, 1.75, 64, 23-06-02, Krefeld, Chievo Verona
+96, Lorenzo Abati, ITA, G, 1.85, -, 07-04-04, Bologna, None
+97, Ludovico D'Orazio, ITA, F, 1.75, 68, 19-02-00, Sora, Roma
+98, Adam Markhiyev, FIN, M, 1.83, -, 17-03-02, Nazran, Spartaks Jūrmala
+99, Emmanuel Latte Lath, CIV, F, 1.77, 75, 01-01-99, Anoumabo, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Marco Meneghetti, ITA, G, 1.88, 70, 01-06-01, Pordenone, Gubbio (On Loan)
+13, Georgi Tunjov, EST, M, 1.84, 71, 17-04-01, Narva, Carrarese (On Loan)
+7, Simone Missiroli, ITA, M, 1.91, 77, 23-05-86, Reggio Calabria, Cesena
+10, Federico Di Francesco, ITA, F, 1.71, 75, 14-06-94, Pisa, Empoli (On Loan)
+11, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, Perugia (On Loan)
+18, Davide Mazzocco, ITA, M, 1.86, 75, 06-10-95, Feltre, Cittadella
+33, Luca Coccolo, ITA, D, 1.87, 76, 23-02-98, Cirié, Juventus
+98, Kevin Piscopo, ITA, F, 1.81, 75, 06-02-98, Vercelli, Empoli
+25, Riccardo Spaltro, ITA, D, 1.85, 76, 19-02-00, Rome, Renate (On Loan)
+21, Demba Seck, SEN, F, 1.90, 81, 10-02-01, Guediawaye, Torino
+90, Andrea Seculin, ITA, G, 1.90, 83, 14-07-90, Gorizia, Pistoiese
+4, Ayoub Abou, MAR, M, 1.75, 65, 28-06-98, Casablanca, Tsarsko Selo (On Loan)

@@ -1,0 +1,39 @@
+=  Montpellier - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonas Omlin, SUI, G, 1.89, 80, 10-01-94, Sarnen, Basel
+2, Arnaud Souquet, FRA, D, 1.79, 70, 12-02-92, Paris, KAA Gent
+3, Daniel Congré, FRA, D, 1.84, 79, 05-04-85, Toulouse, Toulouse
+4, Hilton, BRA, D, 1.82, 73, 13-09-77, Brasilia, Marseille
+5, Pedro Mendes, POR, D, 1.87, 77, 01-10-90, Neuchâtel, Rennes
+6, Junior Sambia, FRA, M, 1.81, 68, 07-09-96, Lyon, Niort
+7, Mihailo Ristić, SRB, D, 1.83, 73, 31-10-95, Bijeljina, FC Krasnodar
+9, Andy Delort, ALG, F, 1.82, 82, 09-10-91, Sète, Toulouse
+10, Gaëtan Laborde, FRA, F, 1.81, 78, 03-05-94, Mont-de-Marsan, Bordeaux
+11, Téji Savanier, FRA, M, 1.71, 62, 22-12-91, Montpellier, Nîmes
+12, Jordan Ferri, FRA, M, 1.72, 70, 12-03-92, Cavaillon, Lyon
+13, Joris Chotard, FRA, M, 1.79, 70, 24-09-01, Orange, None
+14, Damien Le Tallec, FRA, M, 1.84, 73, 14-10-90, Poissy, Crvena Zvezda
+16, Dimitry Bertaud, FRA, G, 1.80, 85, 06-06-98, Montpellier, None
+17, Thibault Tamas, FRA, D, 1.78, 68, 20-02-01, Colombes, None
+18, Yanis Ammour, FRA, F, 1.82, 70, 21-05-99, Montpellier, None
+19, Stephy Mavididi, ENG, F, 1.82, 71, 31-05-98, Derby, Juventus
+20, Keagan Dolly, RSA, M, 1.70, 70, 22-01-93, Johannesburg, Mamelodi Sundowns
+21, Elye Wahi, FRA, F, 1.84, 74, 02-01-03, Courcouronnes, None
+22, Mathías Suárez, URU, D, 1.80, 80, 24-06-96, Montevideo, Defensor Sporting
+24, Yun Il-Lok, KOR, F, 1.78, 65, 07-03-92, Gwangju, Yokohama F Marinos
+25, Florent Mollet, FRA, M, 1.71, 67, 19-11-91, Fontaine-lès-Dijon, Metz
+26, Samy Benchamma, FRA, M, 1.85, 71, 25-06-00, Castres, None
+27, Clément Vidal, FRA, D, 1.81, 75, 18-06-00, Montpellier, None
+28, Béni Makouana, CGO, F, 1.77, 66, 28-09-02, Brazzaville, Diables Noirs
+30, Matis Carvalho, POR, G, 1.86, 80, 28-04-99, Nantes, Toulouse
+31, Nicolas Cozza, FRA, D, 1.78, 72, 08-01-99, Ganges, None
+32, Petar Škuletić, SRB, F, 1.89, 79, 29-06-90, Nikšić, Gençlerbirliği
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Bastian Badu, FRA, F, 1.88, 86, 02-02-00, Le Mans, Chambly (On Loan)
+29, Amir Adouyev, FRA, M, 1.81, 66, 11-05-99, Grozny, Akhmat Grozny
+23, Thibaut Vargas, FRA, D, 1.75, 68, 22-05-00, Aix-en-Provence, Châteauroux (On Loan)
+8, Ambroise Oyongo, CMR, D, 1.75, 68, 22-06-91, Ndikiniméki, FC Krasnodar (On Loan)

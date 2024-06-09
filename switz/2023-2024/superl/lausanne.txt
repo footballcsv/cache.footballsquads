@@ -1,0 +1,41 @@
+=  Lausanne-Sport - Swiss Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Castella, SUI, G, 1.85, 76, 30-06-93, Fribourg, Neuchâtel Xamax
+2, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Oviedo
+5, Berkay Dabanlı, TUR, D, 1.90, 80, 27-06-90, Berlin, Kocaelispor
+6, Noë Dussenne, BEL, D, 1.91, 85, 07-04-92, Mons, Standard Liège
+7, Stjepan Kukuruzović, CRO, M, 1.80, 76, 07-06-89, Thun, St. Gallen
+8, Jamie Roche, SWE, M, 1.90, 85, 05-04-01, Bälinge, IK Sirius
+9, Kaly Sène, SEN, F, 1.80, 72, 28-05-01, Dakar, Basel
+10, Olivier Custodio, SUI, M, 1.79, 74, 10-02-95, Montreux, Lugano
+11, Fousseni Diabaté, MLI, M, 1.75, 66, 18-10-95, Aubervilliers, Partizan Belgrade
+12, Gábor Szalai, HUN, G, 1.85, 79, 09-06-00, Kecskemét, Kecskemét
+13, Haithem Loucif, ALG, D, 1.75, 68, 08-07-96, Batna, Yverdon Sport
+17, Seydou Traore, CIV, F, 1.85, 72, 05-12-04, Abobo, Racing Club Abidjan
+18, Morgan Poaty, FRA, D, 1.77, 73, 15-07-97, Rodez, RFC Seraing
+19, Rareş Ilie, ROU, M, 1.83, 73, 19-04-03, Bucharest, Nice
+20, Chris Kablan, SUI, D, 1.76, 69, 30-11-94, Luzern, Beveren
+21, Raphael Spiegel, SUI, G, 1.97, 89, 19-12-92, Rüttenen, Winterthur
+22, Samuel Kalu, NGA, F, 1.76, 68, 26-08-97, Aba, Watford
+24, Antoine Bernède, FRA, M, 1.77, 74, 26-05-99, Paris, Red Bull Salzburg
+25, Karlo Letica, CRO, G, 2.01, 90, 11-02-97, Split, Hermannstadt
+29, Donat Rrudhani, KVX, M, 1.88, 78, 02-05-99, Kamenica, Young Boys
+30, Simone Pafundi, ITA, M, 1.66, 60, 14-03-06, Monfalcone, Udinese
+34, Raoul Giger, SUI, D, 1.80, 78, 29-10-97, Aarau, Aarau
+37, Mickaël Nanizayamo, FRA, D, 1.88, 82, 08-05-98, Tours, Tours
+80, Alvyn Sanches, POR, M, 1.78, 63, 12-02-03, Créteil, None
+86, Dircssi Ngonzo, SUI, D, 1.87, 80, 31-07-05, -, None
+96, Brighton Labeau, FRA, F, 1.81, 73, 01-01-96, Aubervilliers, Stade Lausanne Ouchy
+99, Trae Coyle, ENG, F, 1.80, 71, 11-01-01, Camden, Arsenal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Archie Brown, ENG, D, 1.90, 86, 28-05-02, Birmingham, KAA Gent
+17, Aliou Baldé, SEN, F, 1.70, 60, 12-12-02, Ziguinchor, Nice
+33, Marvin Spielmann, SUI, M, 1.80, 73, 23-02-96, Olten, Baden
+28, Toichi Suzuki, JPN, M, 1.65, 61, 30-05-00, Higashiosaka, Kyoto Sanga
+16, Mayka Okuka, SUI, M, 1.85, 72, 13-05-03, Lausanne, Bulle (On Loan)
+77, Dominik Schwizer, SUI, M, 1.81, 74, 25-06-96, Schmerikon, Neuchâtel Xamax (On Loan)
+4, Anel Husić, SUI, D, 1.86, 80, 01-03-01, Yverdon-les-Bains, Young Boys

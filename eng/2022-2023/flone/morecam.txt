@@ -1,0 +1,43 @@
+=  Morecambe - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Connor Ripley, ENG, G, 1.80, 76, 13-02-93, Middlesbrough, Preston NE
+2, Donald Love, SCO, D, 1.78, 72, 02-12-94, Rochdale, Salford C
+3, Max Melbourne, ENG, D, 1.78, 65, 24-10-98, Solihull, Lincoln C
+4, Liam Gibson, ENG, D, 1.85, 80, 25-04-97, Stanley, Newcastle U
+5, Farrend Rawson, ENG, D, 1.85, 73, 11-07-96, Nottingham, Mansfield T
+6, Ryan Delaney, IRL, D, 1.82, 72, 06-09-96, Wexford, Bolton W
+7, Jake Taylor, ENG, M, 1.78, 77, 07-09-98, Manchester, Port Vale
+8, Dan Crowley, ENG, M, 1.75, 68, 03-07-97, Coventry, Willem II
+9, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+10, Ashley Hunter, ENG, F, 1.78, 67, 29-09-95, Derby, Salford C
+11, Michael Mellon, SCO, F, 1.85, 77, 05-12-03, Blackpool, Burnley
+12, Adam Smith, ENG, G, 1.80, 76, 23-01-92, Sunderland, Stevenage
+13, André Mendes, POR, G, -, -, 15-05-03, -, Benfica
+14, Arthur Gnahoua, FRA, F, 1.87, 80, 18-09-92, London, Bolton W
+15, Jensen Weir, ENG, M, 1.86, 74, 31-01-02, Warrington, Brighton & HA
+16, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Burnley
+17, Caleb Watts, AUS, M, -, -, 16-01-01, -, Southampton
+18, Oumar Niasse, SEN, F, 1.82, 75, 18-04-90, Ouakam, Burton Alb
+20, Liam Shaw, ENG, M, 1.78, 65, 12-03-01, Sheffield, Celtic
+21, Ryan Cooney, ENG, D, 1.79, 77, 26-02-00, Manchester, Burnley
+22, Josh Austerfield, ENG, M, 1.79, 57, 02-11-01, Leeds, Huddersfield T
+23, Pape N'Diaye Souaré, SEN, D, 1.78, 68, 06-06-90, Mbao, Charlton Ath
+24, Courtney Duffus, IRL, F, 1.70, 76, 24-10-95, Cheltenham, Bromley
+25, Adam Mayor, ENG, F, 1.78, 70, 10-04-04, Liverpool, None
+26, Cameron Rooney, ENG, M, -, -, -, -, None
+27, Mani Davidson, ENG, M, -, -, -, -, None
+28, Daniel Foden, ENG, D, -, -, -, -, None
+29, Dynel Simeu, ENG, D, -, -, 13-03-02, Yaoundé, Southampton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Wes McDonald, ENG, F, 1.74, 77, 04-05-97, Lambeth, Hartlepool U
+20, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, 
+8, Ousmane Fané, FRA, M, 1.93, 80, 13-12-93, Paris, Penang
+11, Dylan Connolly, IRL, M, 1.76, 69, 02-05-95, Dublin, Bohemians
+22, Anthony O'Connor, IRL, D, 1.88, 80, 25-10-92, Cork, Harrogate T
+23, Kieran Phillips, ENG, F, 1.81, 74, 23-06-00, Pontefract, Huddersfield T
+18, Shane McLoughlin, IRL, M, 1.75, 70, 01-03-97, Castleisland, Salford C
+19, Jonathan Obika, ENG, F, 1.85, 78, 12-09-90, Enfield, Motherwell (On Loan)

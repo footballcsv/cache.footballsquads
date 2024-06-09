@@ -1,0 +1,57 @@
+=  Birmingham City - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrés Prieto, ESP, G, 1.94, 92, 17-10-93, Alicante, Espanyol
+2, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Brentford
+3, Kristian Pedersen, DEN, D, 1.89, 88, 04-08-94, Ringsted, Union Berlin
+4, Marc Roberts, ENG, D, 1.83, 81, 26-07-90, Wakefield, Barnsley
+5, George Friend, ENG, D, 1.88, 83, 19-10-87, Barnstaple, Middlesbrough
+6, Yan Valery, FRA, D, 1.80, 85, 22-02-99, Champigny-sur-Marne, Southampton
+8, Adam Clayton, ENG, M, 1.75, 75, 14-01-89, Manchester, Middlesbrough
+9, Scott Hogan, IRL, F, 1.80, 64, 13-04-92, Salford, Aston Villa
+10, Lukas Jutkiewicz, ENG, F, 1.85, 73, 28-03-89, Southampton, Burnley
+11, Jérémie Bela, ANG, M, 1.73, 69, 08-04-93, Melun, Albacete
+12, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Brentford
+14, Jonathan Leko, ENG, F, 1.82, 75, 24-04-99, Kinshasa, WBA
+15, Jake Clarke-Salter, ENG, D, 1.88, 70, 22-09-97, Carshalton, Chelsea
+16, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, Aberdeen
+17, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Elche
+18, Riley McGree, AUS, M, 1.78, 72, 02-11-98, Gawler, Charlotte FC
+19, Mikel San José, ESP, M, 1.87, 79, 30-05-89, Pamplona, Athletic Bilbao
+20, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+23, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Hull C
+24, Rekeem Harper, ENG, M, 1.83, 64, 08-03-00, Birmingham, WBA
+25, Josh Dacres-Cogley, ENG, D, 1.74, 68, 12-03-96, Coventry, None
+27, Connal Trueman, ENG, G, 1.86, 74, 26-03-96, Birmingham, None
+30, Neil Etheridge, PHI, G, 1.91, 89, 07-02-90, Enfield, Cardiff C
+34, Ivan Šunjić, CRO, M, 1.84, 75, 09-10-96, Zenica, Dinamo Zagreb
+35, Alen Halilović, CRO, M, 1.69, 65, 18-06-96, Dubrovnik, Milan
+38, Zach Jeacock, ENG, G, 1.88, 77, 08-05-01, Birmingham, None
+39, Aaron Clayton, ENG, G, -, -, 22-11-02, Birmingham, None
+40, Adan George, ENG, F, 1.79, 71, 30-07-02, Birmingham, None
+41, Amari Miller, ENG, M, -, -, 04-11-02, Birmingham, None
+42, Steve Seddon, ENG, D, 1.79, 68, 25-12-97, Reading, Reading
+43, Geraldo Bajrami, ALB, D, 1.87, 78, 24-09-99, Birmingham, None
+44, Caolan Boyd-Munce, NIR, M, -, -, 26-01-00, Belfast, Glentoran
+45, Ryan Burke, IRL, D, 1.77, 73, 23-11-00, Dublin, St Patrick's Ath
+46, Joe Redmond, IRL, D, 1.83, 75, 23-01-00, Dublin, St Joseph's Boys
+47, Ryan Stirk, WAL, M, 1.78, 75, 25-09-00, Birmingham, None
+48, Jack Concannon, ENG, M, -, -, 26-01-00, Stourbridge, None
+50, Nico Gordon, ENG, D, 1.83, 72, 28-04-02, Birmingham, None
+51, Kyle Hurst, ENG, M, 1.78, 72, 20-01-02, Milton Keynes, MK Dons
+52, Elias Rouse, ENG, G, -, -, 26-12-02, Birmingham, None
+53, Tate Campbell, ENG, M, 1.80, 72, 27-06-02, Birmingham, None
+54, Keyendrah Simmonds, ENG, F, -, -, 31-05-01, Manchester, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Agustín Medina, ESP, D, 1.76, 71, 08-09-94, Barberà del Vallès, Cornellà (On Loan)
+31, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, Ross Co (On Loan)
+37, Odin Bailey, ENG, M, 1.78, 75, 08-12-99, Birmingham, Forest Green R (On Loan)
+26, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Shrewsbury T
+7, Dan Crowley, ENG, M, 1.75, 68, 03-07-97, Coventry, Hull C (On Loan)
+49, Jayden Reid, ENG, F, 1.85, 73, 22-04-01, Luton, Walsall (On Loan)
+6, Maikel Kieftenbeld, NED, M, 1.79, 75, 26-06-90, Dalfsen, Millwall
+16, Josh McEachran, ENG, M, 1.78, 65, 01-03-93, Oxford, MK Dons
+28, Miguel Fernández, ESP, M, -, -, 12-08-00, Gavà, Guijuelo (On Loan)

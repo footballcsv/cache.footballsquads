@@ -1,0 +1,41 @@
+=  Bayern Munich - German Bundesliga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Neuer, GER, G, 1.92, 90, 27-03-86, Gelsenkirchen, Schalke
+3, Xabi Alonso, ESP, M, 1.83, 75, 25-11-81, Tolosa, Real Madrid
+4, Dante, BRA, D, 1.87, 82, 18-10-83, Salvador, B Mönchengladbach
+5, Mehdi Benatia, MAR, D, 1.90, 88, 17-04-87, Courcouronnes, Roma
+6, Thiago Alcántara, ESP, M, 1.65, 60, 11-04-91, Bari, Barcelona
+7, Franck Ribéry, FRA, M, 1.70, 73, 01-04-83, Boulogne-sur-Mer, Marseille
+8, Javi Martínez, ESP, M, 1.90, 81, 02-09-88, Lizarra, Athletic Bilbao
+9, Robert Lewandowski, POL, F, 1.81, 79, 21-08-88, Warsaw, Borussia Dortmund
+10, Arjen Robben, NED, F, 1.81, 75, 23-01-84, Bedum, Real Madrid
+13, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Genoa
+14, Claudio Pizarro, PER, F, 1.84, 79, 03-10-78, Lima, Werder Bremen
+15, Lucas-Julian Scholl, GER, M, 1.75, 68, 05-07-96, Munich, None
+16, Gianluca Gaudino, GER, M, 1.74, 69, 11-11-96, Hanau, None
+17, Jérôme Boateng, GER, D, 1.92, 90, 03-09-88, Berlin, Manchester C
+18, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Valencia
+19, Mario Götze, GER, M, 1.76, 64, 03-06-92, Memmingen, Borussia Dortmund
+20, Sebastian Rode, GER, M, 1.79, 67, 11-10-90, Frankfurt am Main, Eintracht Frankfurt
+21, Philipp Lahm, GER, D, 1.70, 62, 11-11-83, Munich, None
+22, Tom Starke, GER, G, 1.94, 91, 18-03-81, Dresden, 1899 Hoffenheim
+23, Pepe Reina, ESP, G, 1.88, 92, 31-08-82, Madrid, Liverpool
+24, Sinan Kurt, GER, F, 1.73, 73, 23-07-96, Mönchengladbach, B Mönchengladbach II
+25, Thomas Müller, GER, F, 1.86, 74, 13-09-89, Weilheim in Oberbayern, None
+27, David Alaba, AUT, D, 1.75, 70, 24-06-92, Vienna, Austria Vienna (A)
+28, Holger Badstuber, GER, D, 1.89, 78, 13-03-89, Memmingen, None
+29, Leopold Zingerle, GER, G, 1.85, 82, 10-04-94, Munich, None
+30, Mitchell Weiser, GER, M, 1.76, 70, 21-04-94, Troisdorf, Köln
+31, Bastian Schweinsteiger, GER, M, 1.83, 79, 01-08-84, Kolbermoor, 1860 Rosenheim
+33, Ivan Lučić, AUT, G, 1.93, 92, 23-03-95, Brčko, Ried
+36, Patrick Weihrauch, GER, F, 1.82, 73, 03-03-94, Gräfelfing, B Mönchengladbach
+39, Rico Strieder, GER, M, 1.74, 68, 06-07-92, Dachau, B Mönchengladbach
+40, Lukas Görtler, GER, F, 1.83, 75, 15-06-94, Bamberg, Eintracht Bramberg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Julian Green, USA, M, 1.72, 60, 06-06-95, Tampa, Hamburg (On Loan)
+34, Pierre-Emile Højbjerg, DEN, M, 1.87, 81, 05-08-95, Copenhagen, Augsburg (On Loan)
+11, Xherdan Shaqiri, SUI, M, 1.68, 61, 10-10-91, Gnjilane, Internazionale (On Loan)

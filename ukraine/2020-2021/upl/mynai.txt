@@ -1,0 +1,45 @@
+=  FC Mynai - Ukrainian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrey Popovich, UKR, G, 1.90, 85, 04-03-92, Chop, Gabala
+3, Danylo Karas, UKR, D, 1.86, 79, 02-01-97, Osypenko, Hirnyk-Sport Horishni Plavni
+4, Taras Sakiv, UKR, D, 1.79, 72, 19-11-97, Burshtyn, Rukh Lviv
+5, Petro Lutsiv, UKR, M, 1.77, 66, 24-11-00, Chynadiyovo, Oleksandria-2
+6, Oleksandr Petrusenko, UKR, M, 1.81, 71, 26-03-98, Kyiv, Hirnyk-Sport Horishni Plavni
+7, Anatoliy Nuriyev, UKR, M, 1.82, 78, 20-05-96, Mukachevo, Stal Kamianske
+8, Tercious Malepe, RSA, M, 1.83, 73, 18-02-97, Middelburg, Orlando Pirates
+9, Ugochukwu Oduenyi, NGA, F, 1.92, 86, 03-02-96, Lagos, Ried
+10, Artem Milevskyi, UKR, F, 1.90, 83, 12-01-85, Minsk, Dinamo Brest
+13, Vasyl Lutsiv, UKR, M, 1.79, 70, 24-11-00, Chynadiyovo, Oleksandria-2
+14, Orest Panchyshyn, UKR, M, 1.75, 66, 30-08-00, Novoiavorivsk, Karpaty Lviv
+15, Oleksandr Matkobozhyk, UKR, D, 1.84, 74, 03-01-98, Kovel, Volyn Lutsk
+17, Danylo Knysh, UKR, F, 1.76, 69, 03-03-96, Artsyz, FC Kalush
+18, Mykhaylo Kopolovets, UKR, M, 1.71, 68, 29-01-84, Uzhhorod, Einheit Rudolstadt
+19, Anton Shynder, UKR, F, 1.90, 88, 13-06-87, Sumy, Schwabach
+20, Vasyl Pynyashko, UKR, M, 1.64, 65, 02-02-92, Uzhhorod, Sobrance-Sobranecko
+22, Shemmy Mayembe, ZAM, D, 1.76, 68, 22-11-97, Ndola, ZESCO U
+23, Andriy Tkachuk, UKR, M, 1.81, 71, 18-11-87, Zhytomyr, Chornomorets Odessa
+27, Rustam Akhmedzade, UKR, F, 1.84, 75, 25-12-00, Burtyn, Kolos Kovalivka-2
+29, Denis Kozhanov, UKR, F, 1.72, 69, 13-06-87, Donetsk, Volyn Lutsk
+30, Siaka Bagayoko, MLI, D, 1.72, 66, 04-07-98, Bamako, Djoliba AC
+32, Anton Kanibolotskyy, UKR, G, 1.91, 80, 16-05-88, Kyiv, Karpaty Lviv
+33, Oleksiy Khakhlov, UKR, M, 1.81, 74, 06-02-99, Ostroh, Karpaty Lviv
+44, Mislav Matić, CRO, D, 1.95, 87, 06-01-00, Sinj, Lokomotiva Zagreb
+50, Oleksiy Kovtun, UKR, D, 1.85, 76, 05-02-95, Kyiv, Rukh Brest
+71, Maksym Lopyryonok, UKR, D, 1.86, 78, 13-04-95, Dnipropetrovsk, Dnipro-1
+81, Illya Taran, UKR, G, 1.89, 77, 05-03-00, Barvinkove, FC Vovchansk
+88, Vitaliy Boyko, UKR, M, 1.83, 75, 03-12-97, Voznesenske, Sant Rafel
+96, Oleksandr Snizhko, UKR, M, 1.70, 61, 20-08-96, Zaporizhya, Dnipro-1
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Serhiy Mashtalir, UKR, F, 1.79, 69, 20-08-98, -, FC Uzhhorod (On Loan)
+99, Kyrylo Melichenko, UKR, D, 1.76, 67, 07-06-99, Svitlovodsk, Shakhtar Donetsk-2
+6, Edgar Caparrós, ESP, M, 1.83, 75, 19-03-97, Palafolls, 
+16, Oleksandr Hlahola, UKR, M, 1.86, 76, 19-07-97, Svaliava, Polissya Zhytomyr
+90, Artur Karnoza, UKR, M, 1.61, 59, 20-08-90, Dnipropetrovsk, Kryvbas Kryvyi Rih
+14, Oleh Holodyuk, UKR, M, 1.77, 70, 02-01-88, Sobischytsi, Metalist 1925 Kharkiv
+77, Dmytro Pavlish, UKR, D, 1.86, 72, 30-09-99, Mukachevo, Shakhtar Donetsk-2
+3, Oleh Dopilka, UKR, D, 1.81, 69, 12-03-86, Kyiv, FC Uzhhorod
+21, Oleksiy Shpak, UKR, M, 1.86, 76, 15-08-98, Chop, Epitsentr Dunaivtsi (On Loan)

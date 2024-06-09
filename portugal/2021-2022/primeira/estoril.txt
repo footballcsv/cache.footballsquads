@@ -1,0 +1,44 @@
+=  Estoril - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Carles Soria, ESP, D, 1.69, 72, 08-10-96, Calaf, Espanyol B
+3, Bernardo Vital, POR, D, 1.87, 81, 29-12-00, Cascais, None
+4, Lucas Áfrico, BRA, D, 1.88, 80, 05-02-95, São Paulo, Marítimo
+5, Volnei Feltes, BRA, D, 1.88, 80, 15-04-00, Rio Grande do Sul, Internacional
+6, Chico Geraldes, POR, M, 1.75, 65, 18-04-95, Lisbon, Rio Ave
+7, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Mallorca
+8, Rodrigo Valente, POR, M, 1.73, 64, 15-02-01, Santa Maria da Feira, FC Porto
+9, André Clóvis, BRA, F, 1.86, 81, 21-11-97, São Paulo, Leixões
+10, André Franco, POR, M, 1.77, 69, 12-04-98, Lisbon, Sporting CP
+11, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Santos
+12, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, Flamengo
+14, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, Nice
+15, Raúl Silva, BRA, D, 1.87, 81, 04-11-89, Belém, Sporting Braga
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Sporting Braga
+18, Leonardo Acevedo, COL, F, 1.85, 76, 18-04-96, Medellín, Sporting CP
+19, Afonso Valente, POR, M, 1.73, 68, 10-03-01, Estoril, Belenenses
+20, Bruno Lourenço, POR, M, 1.79, 74, 02-02-98, Lisbon, Desportivo das Aves
+21, João Gamboa, POR, M, 1.87, 73, 31-08-96, Póvoa de Varzim, Marítimo
+22, David Bruno, POR, D, 1.76, 67, 14-02-92, Porto, Astra Giurgiu
+26, Ryotaro Meshino, JPN, M, 1.71, 62, 18-06-98, Osaka, Manchester C
+28, Nahuel Ferraresi, VEN, D, 1.89, 76, 19-11-98, San Cristóbal, Manchester C
+31, Joãozinho, POR, D, 1.85, 69, 02-07-89, Lisbon, APOEL
+32, Loreintz Rosier, FRA, M, 1.90, 82, 14-08-98, Gonesse, Vitória Guimarães
+34, Lucho Vega, ARG, M, 1.86, 78, 09-04-99, Buenos Aires, River Plate
+47, João Oliveira, POR, G, 1.85, 70, 18-09-02, Lisbon, Belensenses
+48, Tiago Manso, POR, D, 1.74, 67, 13-12-99, Lisbon, Sintrense
+58, Romário Baró, POR, M, 1.80, 66, 25-01-00, Bissau, FC Porto
+77, Johan Mina, ECU, M, 1.76, 63, 15-05-02, Guayaquil, Werder Bremen II
+90, Benchimol, CPV, F, 1.77, 69, 29-12-01, Praia, Damaiense
+92, António Xavier, POR, F, 1.81, 73, 06-07-92, Guimarães, Panathinaikos
+93, Ruben Providence, FRA, F, 1.73, 66, 07-07-01, Lagny-sur-Marne, Roma
+97, Patrick, BRA, D, 1.86, 80, 03-06-97, São Leopoldo, Famalicão
+99, Dani Figueira, POR, G, 1.89, 82, 20-07-98, Vizela, Vitória Guimarães
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Elias Achouri, FRA, F, 1.77, 70, 10-02-99, Saint-Denis, Trofense (On Loan)
+8, Lucho Vega, ARG, M, 1.86, 78, 09-04-99, Buenos Aires, Re-Registered (34)
+13, Miguel Crespo, POR, M, 1.83, 78, 11-09-96, Lyon, Fenerbahçe
+7, Chiquinho, POR, F, 1.79, 72, 05-02-00, Cascais, Wolverhampton W

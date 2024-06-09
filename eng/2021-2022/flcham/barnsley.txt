@@ -1,0 +1,66 @@
+=  Barnsley - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Walton, ENG, G, 1.84, 77, 23-04-98, Bury, None
+2, Jordan Williams, ENG, D, 1.79, 75, 22-10-99, Huddersfield, Huddersfield T
+4, Callum Styles, HUN, M, 1.67, 60, 27-03-00, Oldham, Bury
+5, Liam Kitching, ENG, D, 1.91, 80, 01-10-99, Harrogate, Forest Green R
+6, Mads Juel Andersen, DEN, D, 1.94, 81, 27-12-97, Albertslund, Horsens
+7, Callum Brittain, ENG, D, 1.79, 68, 12-03-98, Bedford, MK Dons
+9, Cauley Woodrow, ENG, F, 1.84, 78, 02-12-94, Hemel Hempstead, Fulham
+10, Josh Benson, ENG, M, 1.74, 71, 05-12-99, Thurrock, Burnley
+11, Aaron Leya Iseka, BEL, F, 1.80, 78, 15-11-97, Brussels, Toulouse
+13, Daniel Jinadu, NGA, G, 1.86, 69, 21-06-02, -, West Ham U
+14, Carlton Morris, ENG, F, 1.85, 85, 16-12-95, Cambridge, Norwich C
+15, Jasper Moon, ENG, D, 1.86, 77, 24-11-00, Coventry, None
+17, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Manchester C
+18, Isaac Christie-Davies, WAL, M, 1.88, 75, 18-10-97, Brighton, Liverpool
+21, Romal Palmer, ENG, M, 1.81, 70, 30-09-99, Wigan, Manchester C
+22, Clarke Oduor, KEN, M, 1.79, 72, 25-06-99, Siaya, Leeds U
+23, William Hondermarck, FRA, M, 1.85, 74, 21-11-00, Orléans, Norwich C
+24, Aapo Halme, FIN, D, 1.93, 78, 22-05-98, Helsinki, Leeds U
+26, Rémy Vita, FRA, D, 1.70, 66, 01-04-01, Alençon, Bayern Munich
+27, Amine Bassi, FRA, M, 1.73, 72, 27-11-97, Bezons, Metz
+28, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Watford
+29, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, Leyton Orient
+30, Michał Helik, POL, D, 1.91, 77, 09-09-95, Chorzów, Cracovia Kraków
+32, Jason Sraha, ENG, D, 1.89, 71, 19-11-02, Lambeth, Arsenal
+33, Matty Wolfe, ENG, M, 1.85, 74, 12-06-00, Wakefield, None
+34, David Bremang, ENG, F, 1.80, 70, 21-03-00, Hammersmith, Coventry C
+37, Aiden Marsh, ENG, F, 1.72, 60, 05-05-03, Barnsley, None
+38, Jordan Helliwell, ENG, D, 1.69, 59, 23-09-01, Wakefield, None
+39, Amir Ariely, ISR, D, 1.86, -, 03-03-03, -, Maccabi Netanya
+40, Bradley Collins, ENG, G, 1.84, 69, 18-02-97, Southampton, Chelsea
+42, Connor Hodgson, ENG, M, 1.78, -, 20-12-02, -, None
+43, Charlie Winfield, ENG, D, 1.69, 58, 08-05-02, Barnsley, None
+44, Devante Cole, ENG, F, 1.85, 73, 10-05-95, Alderley Edge, Motherwell
+45, Kareem Hassan-Smith, ENG, D, 1.74, -, 06-03-03, -, Huddersfield T
+46, Cameron Thompson, ENG, F, 1.70, 75, 21-02-00, London, Fulham
+47, Jack Sherlock, ENG, F, -, -, 20-09-02, -, None
+48, Archie Brown, ENG, G, 1.85, -, 25-03-03, -, None
+50, Will Lancaster, ENG, M, 1.83, 69, 03-08-02, Sheffield, None
+51, Kieran Flavell, ENG, G, 1.97, -, 21-09-03, -, None
+52, Angus Chapman, AUS, F, 1.82, -, 07-06-03, -, None
+53, Daniel Benson, ENG, D, -, -, 15-11-03, -, None
+54, Blake Goucher, ENG, M, 1.76, -, 24-09-03, -, None
+55, Ben Hall, ENG, D, 1.77, -, 14-10-03, -, None
+56, Keegan Hartley, ENG, M, 1.66, -, 27-06-04, -, None
+57, Harrison Nejman, ENG, M, 1.78, -, 08-09-03, -, None
+59, Lloyd Smith, ENG, F, -, -, 09-11-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+60, Jack Aitchison, SCO, F, 1.80, 70, 05-03-00, Fauldhouse, Forest Green R (On Loan)
+16, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Bristol R (On Loan)
+19, Patrick Schmidt, AUT, F, 1.79, 73, 22-07-98, Eisenstadt, Esbjerg (On Loan)
+36, Rudi Pache, ENG, D, 1.83, 69, 20-07-02, Slough, Esbjerg
+8, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Oxford U (On Loan)
+25, George Miller, ENG, M, 1.78, 64, 11-08-98, Bolton, Walsall (On Loan)
+35, Steven Simpson, CAN, F, -, -, 05-04-00, -, Esberg
+28, Dominik Frieser, AUT, F, 1.76, 76, 09-09-93, Graz, Cesena
+3, Ben Williams, WAL, D, 1.78, 70, 31-03-99, Preston, Cheltenham T
+31, Tomas Kalinauskas, LTU, F, 1.78, -, 27-04-00, -, AFC Wimbledon (On Loan)
+20, Toby Sibbick, ENG, D, 1.83, 69, 23-05-99, Isleworth, Hearts
+58, Obbi Oularé, BEL, F, 1.96, 96, 08-01-96, Waregem, RWD Molenbeek (On Loan)
+41, Joe Ackroyd, ENG, M, 1.74, 68, 06-09-02, Barnsley, MFK Vyškov (On Loan)

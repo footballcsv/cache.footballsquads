@@ -1,0 +1,53 @@
+=  Hibernian - Scottish Premiership 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.90, 83, 05-03-85, Glasgow, QPR
+2, Lewis Miller, AUS, D, 1.87, 83, 24-08-00, Sydney, Macarthur FC
+3, Marijan Čabraja, CRO, D, 1.82, 74, 25-02-97, Pula, Dinamo Zagreb
+4, Paul Hanlon, SCO, D, 1.80, 64, 20-01-90, Edinburgh, None
+7, Kyle Magennis, SCO, M, 1.83, 72, 26-08-98, Glasgow, St Mirren
+8, Jake Doyle-Hayes, IRL, M, 1.76, 68, 30-12-98, Ballyjamesduff, St Mirren
+10, Jair Tavares, POR, M, 1.78, 60, 13-02-01, Lisbon, Benfica
+11, Joe Newell, ENG, M, 1.80, 71, 15-03-93, Tamworth, Rotherham U
+12, Chris Cadden, SCO, D, 1.83, 67, 19-09-96, Bellshill, Columbus Crew
+13, Matthew Hoppe, USA, F, 1.90, 80, 13-03-01, Yorba Linda, Middlesbrough
+14, James Jeggo, AUS, M, 1.79, 66, 12-02-92, Vienna, Eupen
+15, Kevin Nisbet, SCO, F, 1.80, 77, 08-03-97, Glasgow, Dunfermline Ath
+16, Lewis Stevenson, SCO, D, 1.70, 67, 05-01-88, Kirkcaldy, None
+17, Mikey Devlin, SCO, D, 1.88, 79, 03-10-93, Motherwell, Fleetwood T
+18, Ewan Henderson, SCO, M, 1.83, 76, 27-03-00, Livingston, Celtic
+22, Harry McKirdy, ENG, F, 1.75, 70, 29-03-97, Stoke-on-Trent, Swindon T
+23, Élie Youan, FRA, F, 1.81, 70, 07-04-99, Nantes, St. Gallen
+24, Darren McGregor, SCO, D, 1.83, 87, 07-08-85, Edinburgh, Rangers
+25, William Fish, ENG, D, 1.85, 73, 17-02-03, Manchester, Manchester U
+26, CJ Egan-Riley, ENG, D, 1.83, 70, 02-01-03, Manchester, Burnley
+30, Runar Hauge, NOR, F, 1.76, 65, 01-09-01, Bodø, Bodø/Glimt
+31, Murray Johnson, SCO, G, -, -, 13-11-04, -, None
+32, Josh Campbell, SCO, M, 1.82, 73, 06-05-00, Edinburgh, None
+33, Rocky Bushiri, BEL, D, 1.87, 91, 30-11-99, Duffel, Norwich C
+34, Kyle McClelland, NIR, D, -, -, 10-02-02, Glasgow, Rangers
+36, Allan Delferrière, BEL, D, 1.83, 78, 03-03-02, Liège, Standard Liège
+37, Oscar MacIntyre, SCO, D, -, -, 23-07-04, -, The Spartans
+39, Josh O'Connor, SCO, F, -, -, 16-06-04, -, None
+45, Ethan Laidlaw, SCO, F, -, -, 02-01-05, Edinburgh, None
+46, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Sunderland
+47, Murray Aiken, SCO, M, -, -, 14-11-04, -, None
+77, Martin Boyle, AUS, M, 1.78, 53, 25-04-93, Aberdeen, Al-Faisaly
+99, Mykola Kukharevych, UKR, F, 1.93, 79, 01-07-01, Rivne, Troyes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Daniel Mackay, SCO, M, 1.74, 69, 19-04-01, Glasgow, Inverness CT (On Loan)
+3, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Verona
+9, Christian Doidge, WAL, F, 1.85, 77, 25-08-92, Newport, Kilmarnock (On Loan)
+28, Dylan Tait, SCO, M, 1.76, 60, 01-12-01, Glasgow, Arbroath (On Loan)
+17, Momodou Bojang, GAM, F, 1.82, 65, 19-06-01, Brikama, Rainbow FC
+21, Maciej Dąbrowski, POL, G, 1.95, 81, 09-06-98, Poznań, Queen of the South (On Loan)
+35, Jack Brydon, SCO, D, 1.84, 75, 16-09-03, Edinburgh, Queen of the South
+6, Nohan Kenneh, ENG, M, 1.90, 79, 10-01-03, Monrovia, Ross Co (On Loan)
+20, Elias Hoff Melkersen, NOR, F, 1.73, 65, 31-12-02, Stjørdal, Sparta Rotterdam (On Loan)
+19, Demi Mitchell, ENG, M, 1.75, 75, 11-01-97, Manchester, Exeter C
+5, Ryan Porteous, SCO, D, 1.85, 68, 01-03-99, Dalkeith, Watford
+13, Ryan Schofield, ENG, G, 1.90, 70, 11-12-99, Huddersfield, Huddersfield T
+41, Jacob Blaney, SCO, D, -, -, 08-09-04, -, Stenhousemuir (On Loan)

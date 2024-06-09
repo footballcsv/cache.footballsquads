@@ -1,0 +1,48 @@
+=  Dynamo Kyiv - Ukrainian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heorhiy Bushchan, UKR, G, 1.96, 84, 31-05-94, Odessa, Dynamo Kyiv-2
+2, Kostyantyn Vivcharenko, UKR, D, 1.78, 76, 10-06-02, Odessa, Dynamo Kyiv-2
+3, Anton Bol, UKR, D, 1.87, 76, 08-01-03, Zhytomyr, Dynamo Kyiv-2
+4, Denys Popov, UKR, D, 1.85, 81, 17-02-99, Myhiya, Dynamo Kyiv-2
+5, Serhiy Sydorchuk, UKR, M, 1.88, 76, 02-05-91, Zaporizhya, Metalurh Zaporizhya
+7, Vladyslav Kabayev, UKR, M, 1.76, 55, 01-09-95, Odessa, Zorya Luhansk
+8, Volodymyr Shepelyev, UKR, M, 1.84, 73, 01-06-97, Altestovo, Chornomorets Odessa-2
+9, Kaheem Parris, JAM, M, 1.77, 69, 06-01-00, Kingston, Koper
+10, Mykola Shaparenko, UKR, M, 1.78, 72, 04-10-98, Velyka Novosilka, Illichivets Mariupol
+11, Vladyslav Vanat, UKR, F, 1.82, 69, 04-01-02, Kamianets-Podilskyi, Dynamo Kyiv-2
+14, Oleksandr Yatsyk, UKR, M, 1.82, 70, 03-01-03, Kyiv, Dynamo Kyiv-2
+15, Eric Ramírez, VEN, F, 1.89, 84, 20-11-98, Barinas, DAC Dunajská Streda
+17, Vladyslav Supriaha, UKR, F, 1.82, 75, 15-02-00, Odessa, Dnipro-1
+18, Oleksandr Andriyevskyy, UKR, M, 1.72, 64, 25-06-94, Kyiv, Metalist Kharkiv-2
+19, Denys Harmash, UKR, M, 1.86, 75, 19-04-90, Luhansk, Dynamo Kyiv-2
+20, Oleksandr Karavayev, UKR, M, 1.75, 68, 02-06-92, Kherson, Zorya Luhansk
+22, Justin Lonwijk, NED, M, 1.89, 80, 21-12-99, Tilburg, Viborg
+23, Navin Malysh, UKR, D, 1.85, 73, 27-07-03, -, Dynamo Kyiv-2
+24, Oleksandr Tymchyk, UKR, D, 1.80, 67, 20-01-97, Kryklyvets, Dynamo Kyiv-2
+25, Maksym Dyachuk, UKR, D, 1.87, 83, 21-07-03, Yasinia, Dynamo Kyiv-2
+29, Vitaliy Buyalskyy, UKR, M, 1.70, 61, 06-01-93, Kalinovka, Dynamo Kyiv-2
+30, Samba Diallo, SEN, M, 1.68, 64, 05-01-03, -, AF Darou Salam
+34, Oleksandr Syrota, UKR, D, 1.93, 78, 11-06-00, Kyiv, Dynamo Kyiv-2
+35, Ruslan Neshcheret, UKR, G, 1.90, 81, 22-01-02, Mukachevo, Dynamo Kyiv-2
+37, Anton Tsarenko, UKR, M, 1.62, 58, 17-06-04, Konotop, Dynamo Kyiv-2
+44, Vladyslav Dubinchak, UKR, D, 1.73, 64, 01-07-98, Tomashpil, Dynamo Kyiv-2
+51, Valentyn Morhun, UKR, G, 1.92, 88, 10-08-01, Kyiv, Dynamo Kyiv-2
+70, Bohdan Lyednyev, UKR, M, 1.73, 70, 07-04-98, Skvyra, Dynamo Kyiv-2
+71, Denys Boyko, UKR, G, 1.91, 84, 29-01-88, Kyiv, Beşiktaş
+74, Denys Ihnatenko, UKR, G, 1.91, 85, 11-01-03, Stetskivka, Dynamo Kyiv-2
+77, Benito, CIV, M, 1.79, 80, 07-09-98, Abidjan, FC Tambov
+91, Nazar Voloshyn, UKR, M, 1.75, 67, 17-06-03, Kremenchuk, Dynamo Kyiv-2
+92, Reshat Ramadani, MKD, M, 1.85, 75, 30-06-03, Tetovo, Shkëndija
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Denys Antyukh, UKR, M, 1.83, 78, 30-07-97, Okhtyrka, Zorya Luhansk
+15, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Girona
+28, Vladyslav Kulach, UKR, F, 1.77, 73, 07-05-93, Donetsk, Zira FK
+94, Tomasz Kędziora, POL, D, 1.83, 73, 11-06-94, Sulechów, PAOK (On Loan)
+25, Illya Zabarnyi, UKR, D, 1.86, 80, 01-09-02, Kyiv, Bournemouth
+41, Artem Byesyedin, UKR, F, 1.85, 76, 31-03-96, Kharkiv, Omonia Nicosia (On Loan)
+21, Mykyta Kravchenko, UKR, D, 1.78, 69, 14-06-97, Zuhres, Kolos Kovalivka (On Loan)
+6, Mykyta Burda, UKR, D, 1.87, 80, 24-03-95, Yenakiieve, Zorya Luhansk (On Loan)

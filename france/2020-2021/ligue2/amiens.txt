@@ -1,0 +1,53 @@
+=  Amiens - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Régis Gurtner, FRA, G, 1.83, 80, 08-12-86, Saverne, Le Havre
+2, Prince-Désir Gouano, FRA, D, 1.86, 78, 24-12-93, Paris, Atalanta
+4, Nicholas Opoku, GHA, D, 1.90, 87, 08-11-97, Kumasi, Udinese
+5, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Nantes
+7, Abou Ouattara, BFA, F, 1.76, 66, 26-12-99, Ouagadougou, Lille
+8, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, Nice
+9, Stephen Odey, NGA, F, 1.82, 72, 15-01-98, Lagos, KRC Genk
+10, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, Nice
+11, Adama Diakhaby, FRA, M, 1.84, 65, 05-07-96, Ajaccio, Huddersfield T
+12, Emmanuel Lomotey, GHA, D, 1.90, 78, 19-12-97, Accra, Extremadura
+13, Mickaël Alphonse, FRA, D, 1.82, 75, 12-07-89, Champigny-sur-Marne, Dijon
+16, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, Le Mans
+17, Alexis Blin, FRA, M, 1.84, 78, 16-09-96, Le Mans, Toulouse
+18, Sambou Yatabaré, MLI, M, 1.90, 82, 02-03-89, Beauvais, Royal Antwerp
+21, Nathan Monzango, FRA, D, 1.84, 71, 24-08-01, Kinshasa, None
+22, Iron Gomis, FRA, M, 1.82, 78, 08-11-99, Marseille, None
+23, Amadou Ciss, SEN, M, 1.86, 65, 07-09-99, Guédiawaye, Fortuna Sittard
+24, Cheick Timité, CIV, M, 1.77, 79, 20-11-97, Abidjan, None
+25, Rafael Fonseca, POR, D, 1.80, 70, 31-01-01, Almada, Juventus
+26, Jayson Papeau, FRA, M, 1.79, 83, 30-06-96, Melun, Ste-Geneviève
+27, Mustapha Sangaré, FRA, F, 1.95, 79, 24-12-98, -, Racing Club de France
+28, Gaoussou Traoré, FRA, M, 1.73, 63, 04-12-99, Amiens, None
+30, Gregoire Coudert, FRA, G, 1.88, 77, 03-04-99, Rodez, Tours
+31, Mathis Lachuer, FRA, M, 1.70, 65, 31-08-00, Amiens, None
+32, Darell Tokpa, FRA, F, 1.80, 76, 02-06-01, Colombes, None
+35, Valentin Gendrey, FRA, D, 1.79, 69, 21-06-00, La Garenne-Colombes, None
+36, Florian Bianchini, FRA, F, 1.82, 67, 25-06-01, Reims, None
+37, Youssouf Assogba, BEN, D, 1.73, 70, 21-08-01, Parakou, USS Kraké
+40, Matthieu Rongier, FRA, G, -, -, 10-04-02, Amiens, None
+41, Charbel Gomez, BEN, F, 1.83, 75, 27-01-01, Cotonou, ÉSAÉ Sakété
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Thomas Monconduit, FRA, M, 1.78, 75, 10-02-91, Drancy, Lorient
+9, Sehrou Guirassy, FRA, F, 1.87, 82, 12-03-96, Arles, Rennes
+7, Saman Ghoddos, IRN, M, 1.76, 75, 06-09-93, Malmö, Brentford
+38, Ulrick Eneme Ella, FRA, F, 1.84, 75, 22-05-01, Sens, Brighton & HA
+27, Aurélien Chedjou, CMR, D, 1.84, 84, 20-06-85, Douala, Adana Demirspor
+8, Bongani Zungu, RSA, M, 1.84, 80, 09-10-92, Duduza, Rangers (On Loan)
+21, Rafał Kurzawa, POL, M, 1.82, 73, 29-01-93, Wieruszów, Pogoń Szczecin
+15, Moussa Konaté, SEN, F, 1.83, 78, 03-04-93, M'Bour, Dijon
+29, Driss Khalid, MAR, F, 1.80, 80, 07-02-99, Toulouse, Orléans (On Loan)
+11, Juan Ferney Otero, COL, F, 1.79, 70, 26-05-95, Sipí, Santos Laguna
+3, Adam Lewis, ENG, D, 1.75, 73, 08-11-99, Liverpool, Liverpool
+18, Sanasi Sy, FRA, D, 1.74, 69, 04-04-99, Paris, Salernitana
+19, Chadrac Akolo, COD, M, 1.78, 70, 01-04-95, Kinshasa, Paderborn (On Loan)
+39, Jonathan Bumbu, FRA, M, 1.81, 72, 11-02-99, Mantes-la-Jolie, Boulogne (On Loan)
+14, Jack Lahne, SWE, F, 1.70, 68, 24-10-01, Lusaka, BK Häcken (On Loan)
+20, Stiven Mendoza, COL, F, 1.71, 73, 27-06-92, Palmira, Ceará

@@ -1,0 +1,55 @@
+=  Middlesbrough - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Lumley, ENG, G, 1.90, 73, 15-02-95, Harlow, QPR
+2, Anfernee Dijksteel, NED, D, 1.83, 72, 27-10-96, Amsterdam, Charlton Ath
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Aston Villa
+4, Grant Hall, ENG, D, 1.76, 71, 01-09-92, Brighton, QPR
+6, Dael Fry, ENG, D, 1.85, 72, 30-08-97, Middlesbrough, None
+7, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, None
+10, Martín Payero, ARG, M, 1.87, 81, 11-09-98, Pascanas, Banfield
+11, Andraž Šporar, SVN, F, 1.80, 74, 27-02-94, Ljubljana, Sporting CP
+13, Toyosi Olusanya, ENG, F, 1.76, 68, 01-02-98, Lambeth, Billericay T
+14, Lee Peltier, ENG, D, 1.78, 73, 11-12-86, Liverpool, WBA
+15, Nathan Wood, ENG, D, 1.88, 72, 31-05-02, Middlesbrough, None
+16, Jonathan Howson, ENG, M, 1.80, 77, 21-05-88, Leeds, Norwich C
+17, Paddy McNair, NIR, M, 1.83, 72, 27-04-95, Ballyclare, Sunderland
+18, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Sunderland
+20, Darnell Fisher, ENG, D, 1.75, 70, 04-04-94, Reading, Preston NE
+21, Sammy Ameobi, ENG, F, 1.90, 66, 01-05-92, Newcastle upon Tyne, Nottingham F
+22, Souleymane Bamba, CIV, D, 1.90, 90, 13-01-85, Ivry-sur-Seine, Cardiff C
+23, James Léa Siliki, CMR, M, 1.83, 70, 12-06-96, Sarcelles, Rennes
+24, Connor Malley, ENG, M, 1.86, 83, 20-03-00, Newcastle upon Tyne, Sunderland
+25, Matt Crooks, ENG, M, 1.83, 72, 20-01-94, Huddersfield, Rotherham U
+26, Aaron Connolly, IRL, F, 1.80, 77, 28-01-00, Galway, Brighton & HA
+27, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Blackpool
+28, Luke Daniels, ENG, G, 1.93, 81, 05-01-88, Bolton, Brentford
+31, Sol Brynn, ENG, G, 1.84, 74, 30-10-00, Middlesbrough, None
+34, Jeremy Sivi, ENG, M, -, -, 18-07-02, -, Harlow T
+35, Isaiah Jones, ENG, M, 1.81, 68, 26-06-99, Lambeth, Tooting & Mitcham U
+36, Brad James, ENG, G, 1.86, 80, 05-07-99, Durham, None
+37, Josh Coburn, ENG, F, 1.93, 74, 06-12-02, Bedale, Sunderland
+39, Malik Dijksteel, NED, M, 1.76, 71, 08-07-01, Amsterdam, Telstar
+40, Cain Sykes, ENG, M, -, -, 14-08-02, Sunderland, None
+41, Max Metcalfe, SCO, G, -, -, 28-01-03, -, None
+42, Joe Gibson, ENG, M, -, -, 06-09-01, Bishop Auckland, None
+43, Daniel Dodds, ENG, D, -, -, 17-01-01, -, Newcastle U
+45, Sonny Finch, ENG, F, -, -, 05-08-04, Sunderland, None
+47, Folarin Balogun, ENG, F, 1.78, 66, 03-07-01, New York, Arsenal
+48, Riley McGree, AUS, M, 1.78, 72, 02-11-98, Gawler, Charlotte FC
+50, Caolan Boyd-Munce, NIR, M, -, -, 26-01-00, Belfast, Birmingham C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, PAOK (On Loan)
+33, Jack Robinson, ENG, D, 1.90, 79, 21-06-01, Middlesbrough, Yeovil T (On Loan)
+5, Sam Morsy, EGY, M, 1.75, 76, 10-09-91, Wolverhampton, Ipswich T
+29, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, Nottingham F (On Loan)
+38, Hayden Hackney, ENG, M, 1.78, 70, 26-06-02, Redcar, Scunthorpe U (On Loan)
+32, Dejan Stojanović, MKD, G, 1.96, 89, 19-07-93, Feldkirch, Ingolstadt (On Loan)
+30, Williams Kokolo, FRA, D, -, -, 09-06-00, -, Burton Alb
+8, Onel Hernández, CUB, M, 1.72, 69, 01-02-93, Morón, Norwich C
+44, Calum Kavanagh, IRL, F, -, -, 05-09-03, Cardiff, Harrogate T (On Loan)
+9, Uche Ikpeazu, ENG, F, 1.91, 78, 28-02-95, Harrow, Cardiff C (On Loan)
+12, Marcus Browne, ENG, F, 1.79, 74, 18-12-97, Tower Hamlets, Oxford U

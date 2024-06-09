@@ -1,0 +1,48 @@
+=  Lorient - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vito Mannone, ITA, G, 1.88, 77, 02-03-88, Desio, Monaco
+2, Igor Silva, BRA, D, 1.73, 66, 21-08-96, Rio de Janeiro, Osijek
+3, Montassar Talbi, TUN, D, 1.90, 74, 26-05-98, Paris, Rubin Kazan
+6, Laurent Abergel, FRA, D, 1.70, 65, 01-02-93, Marseille, Nancy
+7, Stéphane Diarra, FRA, M, 1.73, 62, 09-12-98, Abidjan, Le Mans
+8, Innocent Bonke, NGA, M, 1.80, 74, 20-01-96, Kaduna, Malmö FF
+9, Ibrahima Koné, MLI, F, 1.90, 83, 16-06-99, Bamako, Sarpsborg 08
+10, Enzo Le Fée, FRA, M, 1.70, 58, 03-02-00, Lorient, None
+11, Bamba Dieng, SEN, F, 1.78, 72, 23-03-00, Diourbel, Marseille
+12, Darlin Yongwa, CMR, D, 1.77, 70, 22-09-00, Douala, Niort
+14, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Lyon
+15, Julien Laporte, FRA, D, 1.85, 82, 04-11-93, Bayonne, Clermont
+17, Jean-Victor Makengo, FRA, M, 1.77, 75, 12-06-98, Etampes, Udinese
+18, Bamo Meïté, CIV, D, 1.83, 75, 20-06-01, Kani, Laval
+21, Julien Ponceau, FRA, M, 1.70, 60, 28-11-00, Catumbela, None
+22, Yoann Cathline, FRA, F, 1.76, 70, 22-07-02, Champigny-sur-Marne, Guingamp
+23, Julian Pollersbeck, GER, G, 1.95, 85, 16-08-94, Altötting, Lyon
+24, Gédéon Kalulu, FRA, D, 1.79, 74, 29-08-97, Lyon, Ajaccio
+25, Vincent Le Goff, FRA, D, 1.75, 64, 15-10-89, Quimper, Istres
+29, Siriné Doucoure, FRA, F, 1.93, 75, 08-04-02, Paris, Châteauroux
+37, Théo Le Bris, FRA, D, 1.65, 60, 01-10-02, Rennes, None
+38, Yvon Mvogo, SUI, G, 1.86, 84, 06-06-94, Fribourg, RB Leipzig
+44, Ayman Kari, FRA, M, 1.76, 70, 19-11-04, Ivry-sur-Seine, Paris St-Germain
+70, Adil Aouchiche, FRA, M, 1.81, 72, 15-07-02, Le Blanc-Mesnil, St-Etienne
+77, Teddy Bartouche, FRA, G, 1.85, 78, 05-06-97, Lagny-sur-Marne, JA Drancy
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Loris Mouyokolo, FRA, D, 1.94, 85, 22-05-01, Drancy, Rodez (On Loan)
+1, Matthieu Dreyer, FRA, G, 1.88, 84, 20-03-89, Strasbourg, St-Etienne
+19, Léo Petrot, FRA, D, 1.88, 80, 15-04-97, Firminy, St-Etienne
+23, Thomas Monconduit, FRA, M, 1.78, 75, 10-02-91, Drancy, St-Etienne
+29, Pablo Pagis, FRA, F, 1.81, 70, 29-12-02, Montbéliard, Nîmes (On Loan)
+45, Armand Laurienté, FRA, F, 1.71, 59, 04-12-98, Gonesse, Sassuolo
+99, Umut Bozok, TUR, F, 1.78, 75, 19-09-96, Saint-Avold, Trabzonspor
+30, Paul Nardi, FRA, G, 1.87, 77, 18-05-94, Vesoul, KAA Gent
+31, Redwan Bourlès, FRA, M, 1.86, 74, 02-01-03, Lorient, Rennes
+20, Samuel Loric, FRA, D, 1.64, 54, 05-07-00, Vannes, Quevilly-Rouen (On Loan)
+22, Sambou Soumano, SEN, F, 1.82, 70, 03-01-01, Dakar, Rodez (On Loan)
+11, Dango Ouattara, BFA, F, 1.77, 71, 11-02-02, Ouagadougou, Bournemouth
+17, Quentin Boisgard, FRA, M, 1.74, 75, 17-03-97, Toulouse, Pau (On Loan)
+4, Chrislain Matsima, FRA, D, 1.90, 81, 15-05-02, Colombes, Monaco
+13, Terem Moffi, NGA, F, 1.88, 82, 25-05-99, Calabar, Nice (On Loan)
+27, Adrian Grbić, AUT, F, 1.88, 82, 04-08-96, Vienna, Valenciennes (On Loan)

@@ -1,0 +1,75 @@
+=  Arsenal - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mathieu Debuchy, FRA, D, 1.77, 76, 28-07-85, Fretin, Newcastle U
+3, Kieran Gibbs, ENG, D, 1.79, 70, 26-09-89, Lambeth, None
+4, Per Mertesacker, GER, D, 1.98, 90, 29-09-84, Hannover, Werder Bremen
+5, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Villarreal
+6, Laurent Koscielny, FRA, D, 1.86, 75, 10-09-85, Tulle, Lorient
+7, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Barcelona
+8, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+9, Lucas, ESP, F, 1.80, 73, 10-09-88, La Coruña, Deportivo La Coruña
+11, Mesut Özil, GER, M, 1.80, 76, 15-10-88, Gelsenkirchen, Real Madrid
+12, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Montpellier
+13, David Ospina, COL, G, 1.83, 80, 31-08-88, Medellín, Nice
+14, Theo Walcott, ENG, F, 1.76, 68, 16-03-89, Stanmore, Southampton
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Southampton
+16, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Bolton W
+17, Alex Iwobi, NGA, M, 1.80, 75, 03-05-96, Lagos, None
+18, Nacho Monreal, ESP, D, 1.79, 72, 26-02-86, Pamplona, Málaga
+19, Santi Cazorla, ESP, M, 1.68, 66, 13-12-84, Lugo de Llanera, Málaga
+20, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Valencia
+22, Yaya Sanogo, FRA, F, 1.91, 74, 27-01-93, Massy, Auxerre
+23, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, Manchester U
+24, Héctor Bellerín, ESP, D, 1.78, 74, 19-03-95, Barcelona, Barcelona
+25, Carl Jenkinson, ENG, D, 1.85, 77, 08-02-92, Buckhurst Hill, Charlton Ath
+26, Emiliano Martínez, ARG, G, 1.93, 89, 02-09-92, Mar del Plata, Independiente
+29, Granit Xhaka, SUI, M, 1.85, 82, 27-09-92, Gnjilane, B Mönchengladbach
+31, Jeff Reine-Adelaide, FRA, M, 1.83, 75, 17-01-98, Champigny-sur-Marne, Lens
+33, Petr Čech, CZE, G, 1.96, 90, 20-05-82, Plzeň, Chelsea
+34, Francis Coquelin, FRA, M, 1.78, 74, 13-05-91, Laval, Laval
+35, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Basel
+39, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, None
+41, Josh Dasilva, ENG, F, 1.80, 75, 23-10-98, Redbridge, None
+42, Kristopher da Graca, SWE, D, 1.90, 72, 16-01-98, Bergsjön, Hisingsbacka FC
+43, Vlad Dragomir, ROU, M, 1.78, 67, 24-04-99, Timișoara, ACS Poli Timișoara
+45, Yassin Fortune, FRA, F, 1.78, 76, 30-01-99, Aubervilliers, Lens
+46, Charlie Gilmour, SCO, M, 1.71, 69, 11-02-99, Brighton, None
+47, Alex Crean, SCO, G, , , 22-08-99, Bromley, Bromley
+49, Ryan Huddart, ENG, G, 1.96, 94, 06-03-97, Broadstairs, Charlton Ath
+50, Dejan Iliev, MKD, G, 1.95, 87, 25-02-95, Strumica, Belasica
+51, Chiori Johnson, ENG, D, , , 05-10-97, Lewisham, None
+52, Glen Kamara, FIN, M, 1.81, 78, 28-10-95, Tampere, Southend U
+53, Hugo Keto, FIN, G, 1.91, 70, 09-02-98, Helsinki, HJK Helsinki
+54, Matt Macey, ENG, G, 1.98, 81, 09-09-94, Bristol, Bristol R
+55, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, None
+56, Donyell Malen, NED, F, 1.76, 68, 09-01-99, Wieringen, Ajax
+58, Marcus McGuane, ENG, M, 1.78, 73, 02-02-99, Greenwich, None
+60, Savvas Mourgos, GRE, M, 1.73, 73, 16-03-98, Amarousio, None
+62, Jordi Osei-Tutu, ENG, D, 1.76, 70, 02-10-98, Slough, Reading
+65, Ben Sheaf, ENG, M, 1.85, 64, 05-02-98, Dartford, West Ham U
+68, Chris Willock, ENG, F, 1.78, 67, 31-01-98, Waltham Forest, None
+72, Reiss Nelson, ENG, M, 1.75, 70, 10-12-99, Lambeth, None
+73, Eddie Nketiah, ENG, F, 1.75, 72, 30-05-99, Lewisham, None
+76, Kostas Pileas, CYP, D, 1.80, 70, 11-12-98, Geroskipou, None
+82, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, None
+85, Cohen Bramall, ENG, D, 1.75, 70, 02-04-96, Crewe, Hednesford T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+59, Tafari Moore, ENG, D, 1.73, 66, 05-07-97, Brent, FC Utrecht (On Loan)
+28, Joel Campbell, CRC, F, 1.78, 70, 26-06-92, San José [CRC], Sporting CP (On Loan)
+21, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Middlesbrough (On Loan)
+10, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, Bournemouth (On Loan)
+27, Serge Gnabry, GER, M, 1.73, 73, 14-07-95, Stuttgart, Werder Bremen
+32, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, Brighton & HA (On Loan)
+36, Ismaël Bennacer, ALG, M, 1.75, 70, 01-12-97, Arles, Tours (On Loan)
+37, Krystian Bielik, POL, M, 1.89, 78, 04-01-98, Konin, Birmingham C (On Loan)
+38, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Notts Co (On Loan)
+40, Gedion Zelalem, USA, M, 1.85, 77, 26-01-97, Berlin, VVV Venlo (On Loan)
+44, Aaron Eyoma, ENG, M, 1.75, 70, 22-09-97, Hackney, FC Volendam (On Loan)
+48, Kaylen Hinds, ENG, F, 1.85, 68, 28-01-98, Brent, Stevenage (On Loan)
+57, Stephy Mavididi, ENG, F, 1.82, 71, 31-05-98, Derby, Charlton Ath (On Loan)
+64, Tyrell Robinson, ENG, M, 1.73, 68, 16-09-97, Basildon, 
+78, Nathan Tella, ENG, M, 1.73, 70, 05-07-99, Lambeth, Southampton

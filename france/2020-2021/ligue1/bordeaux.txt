@@ -1,0 +1,41 @@
+=  Bordeaux - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benoît Costil, FRA, G, 1.87, 83, 03-07-87, Caen, Rennes
+4, Mexer, MOZ, D, 1.81, 75, 08-09-85, Maputo, Rennes
+5, Otávio, BRA, M, 1.76, 73, 04-05-94, Maceió, Atlético Paranaense
+6, Laurent Koscielny, FRA, D, 1.86, 75, 10-09-85, Tulle, Arsenal
+7, Jimmy Briand, FRA, F, 1.81, 84, 02-05-85, Vitry-sur-Seine, Guingamp
+8, Hatem Ben Arfa, FRA, M, 1.78, 65, 07-03-87, Clamart, Valladolid
+10, Samuel Kalu, NGA, F, 1.76, 68, 26-08-97, Aba, KAA Gent
+12, Nicolas De Préville, FRA, F, 1.82, 77, 08-01-91, Istres, Lille
+14, Vukašin Jovanović, SRB, D, 1.88, 80, 17-05-96, Belgrade, Zenit St Petersburg
+15, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Fulham
+16, Gaëtan Poussin, FRA, G, 1.84, 82, 13-01-99, Le Mans, None
+17, Mehdi Zerkane, FRA, F, 1.86, 75, 15-07-99, Clermont-Ferrand, Monaco
+18, Hwang Ui-Jo, KOR, F, 1.84, 73, 28-08-92, Seongnam, Gamba Osaka
+19, Yacine Adli, FRA, M, 1.86, 73, 29-07-00, Vitry-sur-Seine, Paris St-Germain
+20, Youssouf Sabaly, SEN, D, 1.74, 71, 05-03-93, Chesnay, Paris St-Germain
+21, Loïc Bessilé, FRA, D, 1.83, 78, 19-02-99, Toulouse, Toulouse
+23, Loris Benito, SUI, D, 1.84, 80, 07-01-92, Aarau, Young Boys
+24, Paul Baysse, FRA, D, 1.85, 82, 15-05-88, Talence, Málaga
+25, Enock Kwateng, FRA, D, 1.83, 75, 09-04-97, Mantes-la-Jolie, Nantes
+26, Toma Bašić, CRO, M, 1.89, 80, 25-11-96, Zagreb, Hajduk Splt
+27, Tom Lacoux, FRA, M, 1.75, 65, 25-01-02, Bordeaux, None
+28, Rémi Oudin, FRA, F, 1.85, 79, 18-11-96, Châlons-en-Champagne, Reims
+29, Maxime Poundjé, FRA, D, 1.79, 71, 16-08-92, Bordeaux, None
+30, Darren Lima Semedo, FRA, G, 1.88, 69, 27-04-02, Le Cannet, None
+31, Amadou Traoré, FRA, F, 1.77, 74, 07-03-02, Paris, None
+32, Dilane Bakwa, FRA, F, 1.79, 76, 26-08-02, Créteil, None
+33, Issouf Sissokho, MLI, M, 1.73, 65, 29-01-02, Bamako, Derby Académie
+36, Sékou Mara, FRA, F, 1.84, 67, 30-07-02, Paris, Boulogne-Billancourt
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Alexandre Lauray, FRA, D, 1.78, 68, 18-03-97, Les Sables-d'Olonne, Villefranche (On Loan)
+8, Rubén Pardo, ESP, M, 1.81, 69, 22-10-92, Logroño, Leganés (On Loan)
+15, Alexandre Mendy, FRA, F, 1.84, 86, 20-03-94, Toulon, Caen
+3, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Lokomotiv Moscow
+40, Over Mandanda, FRA, G, 1.79, 77, 26-10-98, Évreux, Laval (On Loan)
+9, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Fulham (On Loan)

@@ -1,0 +1,57 @@
+=  Watford - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.97, 95, 15-02-81, João Pinheiro, Tottenham H
+3, Miguel Angel Britos, URU, D, 1.90, 85, 17-07-85, Maldonado, Napoli
+4, Younès Kaboul, FRA, D, 1.93, 87, 04-01-86, St-Julien-en-Genevois, Sunderland
+5, Sebastian Prödl, AUT, D, 1.96, 97, 21-06-87, Graz, Werder Bremen
+6, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Crystal Palace
+7, Nordin Amrabat, MAR, M, 1.81, 84, 31-03-87, Naarden, Málaga
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+9, Troy Deeney, ENG, F, 1.85, 101, 29-06-88, Birmingham, Walsall
+10, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Granada
+11, Valon Behrami, SUI, M, 1.85, 78, 19-04-85, Mitrovica, Hamburg
+13, Rene Gilmartin, IRL, G, 1.97, 101, 31-05-87, Dublin, St Patrick's Ath
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+16, Abdoulaye Doucouré, FRA, M, 1.84, 76, 01-01-93, Meulan-en-Yvelines, Rennes
+18, Camilo Zuñiga, COL, M, 1.71, 78, 14-12-85, Chigorodó, Napoli
+20, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Fiorentina
+21, Mbaye Niang, FRA, F, 1.84, 74, 19-12-94, Meulan-en-Yvelines, Milan
+22, Daryl Janmaat, NED, D, 1.85, 80, 22-07-89, Leidschendam, Newcastle U
+23, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Wigan Ath
+25, José Holebas, GRE, D, 1.85, 81, 27-06-84, Aschaffenburg, Roma
+26, Brice Dja Djédjé, CIV, D, 1.68, 75, 23-12-90, Aboudé, Marseille
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+29, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Tottenham H
+30, Costel Pantilimon, ROU, G, 2.01, 110, 01-02-87, Bacău, Sunderland
+32, Brandon Mason, ENG, M, 1.75, 70, 30-09-97, Westminster, None
+33, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Anderlecht
+34, Giedrius Arlauskis, LTU, G, 1.92, 85, 01-12-87, Telšiai, Steaua București
+35, Carl Stewart, ENG, M, 1.74, 68, 02-05-97, Hammersmith, None
+37, Roberto Pereyra, ARG, M, 1.82, 77, 07-01-91, San Miguel de Tucumán, Juventus
+38, Charlie Rowan, ENG, D, 1.85, 78, 17-03-98, Islington, None
+40, Rhyle Ovenden, WAL, M, 1.77, 74, 10-08-98, Eastbourne, Chesterfield
+41, Ola Adeyemo, NGA, F, 1.83, 74, 15-01-95, Westminster, Dundee U
+42, Andrew Eleftheriou, ENG, D, 1.78, 75, 08-11-97, Islington, None
+43, Connor Stevens, ENG, D, 1.87, 79, 09-01-98, Barnet, None
+44, Ogo Obi, ENG, F, 1.82, 70, 07-05-98, Camden Town, None
+45, Charlie Bannister, ENG, G, 1.93, 73, 21-11-96, Birmingham, Aston Villa
+46, Nathan Gartside, NIR, G, 1.82, 69, 08-03-98, Bielefeld, Institute
+47, Dion Pereira, ENG, M, 1.80, 77, 25-03-99, Watford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Valencia (On Loan)
+31, Tommie Hoban, IRL, D, 1.91, 84, 24-01-94, Walthamstow, Blackburn R (On Loan)
+20, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Derby Co
+2, Allan-Roméo Nyom, CMR, D, 1.88, 80, 10-05-88, Neuilly-sur-Seine, WBA
+21, Ikechi Anya, SCO, M, 1.68, 71, 03-01-88, Glasgow, Derby Co
+28, Sean Murray, IRL, M, 1.75, 68, 11-10-93, Abbots Langley, Swindon T
+12, Kenedy, BRA, F, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+36, Alex Jakubiak, ENG, F, 1.77, 66, 27-08-96, Westminster, Wycombe W (On Loan)
+14, Juan Carlos Paredes, ECU, D, 1.74, 71, 08-07-87, Esmeraldas, Olympiakos (On Loan)
+17, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, Middlesbrough
+19, Jerome Sinclair, ENG, F, 1.81, 75, 20-09-96, Birmingham, Birmingham C (On Loan)
+24, Odion Ighalo, NGA, F, 1.88, 70, 16-06-89, Lagos, Changchun Yatai
+39, Michael Folivi, ENG, F, 1.80, 79, 25-02-98, Brent, Coventry C (On Loan)

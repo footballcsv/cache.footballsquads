@@ -1,0 +1,51 @@
+=  Villarreal - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Asenjo, ESP, G, 1.89, 87, 28-06-89, Palencia, Atlético Madrid
+2, Mario Gaspar, ESP, D, 1.82, 74, 24-11-90, Novelda, Villarreal B
+3, Raúl Albiol, ESP, D, 1.90, 82, 04-09-85, Vilamarxant, Napoli
+4, Pau Torres, ESP, D, 1.91, 80, 16-01-97, Villarreal, Villarreal B
+5, Daniel Parejo, ESP, M, 1.82, 74, 16-04-89, Madrid, Valencia
+6, Ramiro Funes Mori, ARG, D, 1.86, 74, 03-05-91, Mendoza, Everton
+7, Gerard Moreno, ESP, F, 1.80, 75, 07-04-92, Santa Coloma de Gramenet, Espanyol
+8, Juan Foyth, ARG, D, 1.79, 69, 12-01-98, La Plata, Tottenham H
+9, Carlos Bacca, COL, F, 1.81, 77, 08-09-86, Puerto Colombia, Milan
+10, Vicente Iborra, ESP, M, 1.90, 76, 16-01-88, Moncada, Leicester C
+11, Samuel Chukwueze, NGA, F, 1.72, 70, 22-05-99, Ugba, Diamond Football Academy
+12, Daniel Raba, ESP, M, 1.84, 74, 29-10-95, Santander, Villarreal B
+13, Gerónimo Rulli, ARG, G, 1.89, 84, 20-05-92, La Plata, Real Sociedad
+14, Manu Trigueros, ESP, M, 1.78, 71, 17-10-91, Talavera de la Reina, Villarreal B
+15, Pervis Estupiñán, ECU, D, 1.75, 69, 21-01-98, Esmeraldas, Watford
+17, Paco Alcácer, ESP, F, 1.75, 71, 30-08-93, Torrent, Borussia Dortmund
+18, Alberto Moreno, ESP, D, 1.71, 65, 05-07-92, Seville, Liverpool
+19, Francis Coquelin, FRA, M, 1.78, 74, 13-05-91, Laval, Valencia
+20, Rubén Peña, ESP, D, 1.70, 65, 18-07-91, Ávila, Eibar
+21, Jaume, ESP, D, 1.71, 62, 18-03-88, Valencia, Villarreal B
+23, Moi Gómez, ESP, M, 1.74, 65, 23-06-94, Rojales, Sporting Gijón
+24, Alfonso Pedraza, ESP, M, 1.82, 75, 09-04-96, San Sebastián de los Ballesteros, Villarreal B
+25, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Watford
+26, Diego Collado, ESP, F, 1.80, 69, 09-01-01, Granada, Villarreal B
+27, Lanchi, ESP, D, 1.83, 70, 23-06-01, Puerto Real, Villarreal B
+28, Carlo Adriano, ESP, M, 1.85, 70, 12-02-01, Villarreal, Villarreal B
+30, Yéremi Pino, ESP, F, 1.72, 63, 20-10-02, Las Palmas, Villarreal B
+31, Iker Álvarez, AND, G, 1.90, 78, 25-07-01, Andorra la Vella, Villarreal B
+32, Álex Baena, ESP, M, 1.74, 69, 20-07-01, Roquetas de Mar, Villarreal B
+34, Fernando Niño, ESP, F, 1.90, 73, 24-10-00, Rota, Villarreal B
+35, Filip Jörgensen, SWE, G, 1.90, 82, 16-04-02, Lomma, Villarreal B
+37, Ahn Jun-Hyuk, KOR, F, 1.71, 67, 30-07-99, Namyangju, Villarreal B
+38, Juan Agüero, ARG, M, -, -, 27-05-99, Mendoza, Atlético Madrid B
+39, Dani Tasende, ESP, D, 1.72, 64, 06-07-00, Coristanco, Villarreal B
+40, Álex Millán, ESP, F, 1.82, 74, 07-11-99, Zaragoza, Villarreal B
+41, Edu Adell, ESP, D, -, -, 08-01-99, Almassora, Villarreal B
+42, Vadik Murria, ESP, D, 1.88, 71, 03-09-01, Kemerovo, Villarreal B
+44, Andrei Rațiu, ROU, D, 1.83, 74, 20-06-98, Aiud, Villarreal B
+45, Marc Vidal, ESP, G, 1.85, 74, 14-02-00, Villarreal, Villarreal B
+46, Haissem Hassan, FRA, F, 1.73, 70, 08-02-02, Algiers, Châteauroux
+47, Sergio Lozano, ESP, M, 1.75, 70, 24-03-99, Benimuslem, Villarreal B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Javi Ontiveros, ESP, M, 1.70, 72, 09-09-97, Marbella, Huesca (On Loan)
+16, Takefusa Kubo, JPN, M, 1.70, 63, 04-06-01, Kawasaki, Real Madrid
+22, Sofian Chakla, MAR, D, 1.88, 78, 02-09-93, Kenitra, Getafe (On Loan)

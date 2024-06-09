@@ -1,0 +1,56 @@
+=  Verona - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivor Pandur, CRO, G, 1.85, 77, 25-03-00, Rijeka, Rijeka
+4, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Genoa
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Crotone
+7, Antonín Barák, CZE, M, 1.90, 86, 03-12-94, Příbram, Udinese
+8, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Genoa
+10, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Sampdoria
+11, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Udinese
+14, Ivan Ilić, SRB, M, 1.85, 78, 17-03-01, Niš, Manchester C
+16, Nicolò Casale, ITA, D, 1.91, 84, 14-02-98, Negrar, None
+17, Federico Ceccherini, ITA, D, 1.87, 72, 11-05-92, Livorno, Fiorentina
+18, Matteo Cancellieri, ITA, F, 1.80, 79, 12-02-02, Rome, Roma
+21, Koray Günter, GER, D, 1.84, 76, 16-08-94, Höxter, Genoa
+22, Alessandro Berardi, ITA, G, 1.85, 72, 16-01-91, Rome, Bari
+24, Daniel Bessa, BRA, M, 1.73, 68, 14-01-93, São Paulo, Internazionale
+26, Christian Pierobon, ITA, M, 1.88, 74, 26-03-02, Feltre, Union Feltre
+27, Paweł Dawidowicz, POL, M, 1.89, 80, 20-05-95, Olsztyn, Benfica
+29, Fabio Depaoli, ITA, D, 1.82, 71, 24-04-97, Riva del Garda, Sampdoria
+30, Gianluca Frabotta, ITA, D, 1.87, 70, 24-06-99, Rome, Juventus
+31, Boško Šutalo, CRO, D, 1.88, 72, 01-01-00, Metković, Atalanta
+32, David Flakus Bosilj, SVN, F, 1.85, 69, 01-02-02, Maribor, Aluminij
+39, Davide Redondi, ITA, D, 1.85, -, 02-05-03, -, Internazionale
+42, Diego Coppola, ITA, D, 1.93, 78, 28-12-03, Bussolengo, None
+45, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Bayer Leverkusen
+61, Adrien Tameze, FRA, M, 1.80, 78, 04-11-94, Lille, Nice
+63, Mattia Turra, ITA, M, 1.79, -, 29-08-02, Feltre, None
+70, Davide Bragantini, ITA, F, 1.82, -, 17-08-03, Negrar, None
+71, Mattia Florio, ITA, F, 1.80, 80, 05-09-03, -, None
+74, Elia Boseggia, ITA, G, 1.86, -, 06-02-04, -, Chievo Verona
+78, Martin Hongla, CMR, M, 1.81, 78, 16-03-98, Yaoundé, Royal Antwerp
+80, Kaur Kivila, EST, G, 1.92, -, 22-11-03, Tartu, Tartu JK Welco
+88, Mateusz Praszelik, POL, M, 1.84, 74, 26-09-00, Racibórz, Śląsk Wrocław
+94, Giacomo Toniolo, ITA, G, 1.92, 83, 01-04-04, Legnano, None
+96, Lorenzo Montipò, ITA, G, 1.91, 82, 20-02-96, Novara, Benevento
+97, Filippo Terracciano, ITA, M, 1.81, 68, 08-02-03, Verona, None
+99, Giovanni Simeone, ARG, F, 1.80, 81, 05-07-95, Buenos Aires, Cagliari
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+98, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Slovan Liberec (On Loan)
+19, Adama Sane, SEN, F, 1.78, 68, 11-06-00, -, Latina (On Loan)
+88, Nunzio Brandi, ITA, M, -, -, 10-05-01, Naples, Lucchese (On Loan)
+99, Samuel Di Carmine, ITA, F, 1.87, 78, 29-09-88, Florence, Cremonese
+12, Nicola Borghetto, ITA, G, 1.88, 82, 25-11-99, Jesolo, Monterosi (On Loan)
+3, Bruno Amione, ARG, D, 1.87, 78, 03-01-02, Calchaquí, Reggina (On Loan)
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Cuiabá
+10, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Lazio (On Loan)
+15, Mert Çetin, TUR, D, 1.89, 90, 01-01-97, Çankaya, Roma
+23, Giangiacomo Magnani, ITA, D, 1.91, 85, 04-10-95, Correggio, Sampdoria (On Loan)
+32, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Lecce
+77, Bogdan Jočić, SRB, M, 1.81, 67, 11-01-01, Belgrade, Pro Vercelli (On Loan)
+20, Kevin Rüegg, SUI, M, 1.73, 77, 05-08-98, Uster, Lugano (On Loan)
+9, Nikola Kalinić, CRO, F, 1.87, 77, 05-01-88, Solin, Hajduk Split

@@ -1,0 +1,38 @@
+=  Concarneau - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maxime Pattier, FRA, G, 1.82, 73, 12-06-96, Vitré, Stade Briochin
+2, Alec Georgen, FRA, D, 1.72, 65, 17-09-98, Clamart, Auxerre
+3, Abdelwahed Wahib, MAR, D, 1.77, 68, 27-01-00, Casablanca, Le Havre
+4, Guillaume Jannez, FRA, D, 1.96, 85, 19-02-89, Concarneau, Quimperlé
+5, Mamadou Sylla, FRA, D, 1.81, 72, 28-06-95, Toulouse, Sète
+6, Alexandre Phliponeau, FRA, M, 1.76, 65, 26-01-00, Marseille, Annecy
+7, Isaac Matondo, FRA, M, 1.69, 67, 24-03-99, Kinshasa, Les Herbiers
+8, Tom Lebeau, FRA, M, 1.74, 65, 23-07-98, Niort, Niort
+9, Noha Ndombasi, FRA, F, 1.74, 69, 28-04-01, Bondy, St. Gallen
+10, Fahd El Khoumisti, FRA, F, 1.80, 75, 01-06-93, Mamers, Le Mans
+11, Axel Urie, CTA, F, 1.80, 72, 14-04-99, Nîmes, Créteil
+12, Julien Célestine, FRA, D, 1.91, 83, 24-07-97, Grenoble, Diósgyőr
+14, Pape Ibnou Ba, MTN, F, 1.74, 77, 05-01-93, Saint Louis, Le Havre
+15, Gabriel Barès, SUI, M, 1.87, 70, 29-08-00, Lausanne, Montpellier
+17, Maxime Etuin, FRA, M, 1.74, 65, 15-08-95, Quimper, Le Mans
+18, Yanis Merdji, FRA, F, 1.77, 72, 29-10-93, Roanne, Niort
+19, Kandet Diawara, GUI, F, 1.80, 75, 10-02-00, Lille, Le Havre
+20, Baptiste Mouazan, FRA, M, 1.74, 70, 27-09-01, Rennes, Nancy
+21, Nassim Chadli, MAR, M, 1.81, 70, 28-07-01, Bagnols-sur-Cèze, Le Havre
+22, Clément Rodrigues, FRA, F, -, -, 04-12-00, -, Bassin d'Arcachon
+23, Romain Sans, FRA, D, 1.76, 70, 19-03-99, Foix, Châteauroux
+24, Ambroise Gboho, CIV, F, 1.77, 75, 06-08-94, Man, Laval
+25, Bryan Pelé, FRA, M, 1.69, 65, 25-03-92, Ploërmel, AEL Limassol
+26, Thibault Sinquin, FRA, M, 1.80, 70, 26-05-92, Quimper, None
+27, Remi Maugain, FRA, F, 1.75, 68, 30-03-02, Chartres, Brest
+28, Issouf Paro, BFA, D, 1.84, 79, 16-10-94, Bobo-Dioulasso, Niort
+29, Pierre Jouan, FRA, M, -, -, 02-04-02, Quimper, Brest
+30, Esteban Salles, FRA, G, 1.87, 78, 02-03-94, Oloron-Sainte-Marie, Grenoble
+33, Julien Faussurier, FRA, D, 1.73, 70, 14-01-87, Lyon, Sochaux
+40, Rudy Boulais, FRA, G, 1.88, 71, 19-05-02, Rouen, Quevilly-Rouen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Servan Suignard, FRA, D, -, -, 16-10-03, -, La Châtaigneraie

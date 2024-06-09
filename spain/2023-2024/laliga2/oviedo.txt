@@ -1,0 +1,46 @@
+=  Oviedo - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Quentin Braat, FRA, G, 1.93, 85, 06-07-97, Fontainebleau, Niort
+2, Mario Hernández, ESP, D, 1.78, 69, 25-01-99, Madrid, Rayo Vallecano
+3, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Leganés
+4, David Costas, ESP, D, 1.82, 73, 26-03-95, Vigo, Celta Vigo
+5, Luismi, ESP, M, 1.80, 76, 05-05-92, Jerez de la Frontera, Elche
+6, Jimmy, ESP, M, 1.70, 70, 31-12-96, Oviedo, Oviedo B
+7, Viti, ESP, M, 1.70, 64, 16-09-97, Pola de Laviana, Oviedo B
+8, Santi Cazorla, ESP, M, 1.68, 66, 13-12-84, Lugo de Llanera, Al-Sadd
+9, Borja González, ESP, F, 1.86, 83, 25-08-92, Madrid, Leganés
+10, Víctor Camarasa, ESP, M, 1.83, 76, 28-05-94, Meliana, Betis
+11, Santiago Colombatto, ARG, M, 1.79, 71, 17-01-97, Córdoba, León
+12, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Elche
+13, Santiago Homenchenko, URU, M, 1.84, 79, 30-08-03, Mercedes, Peñarol
+14, Alexandre Alemão, BRA, F, 1.82, 78, 01-04-98, Campo Erê, Internacional
+15, Oier Luengo, ESP, D, 1.83, 82, 11-11-97, Amorebieta, Amorebieta
+16, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Getafe
+17, Sebas Moyano, ESP, M, 1.73, 66, 23-03-97, Villanueva del Duque, Lugo
+18, Paulino, ESP, M, 1.81, 75, 27-06-97, Santander, Pachuca
+19, Álex Millán, ESP, F, 1.82, 74, 07-11-99, Zaragoza, Villarreal B
+20, Masca, POR, F, 1.75, 70, 15-05-00, Cascais, Portimonense
+21, Carlos Pomares, ESP, D, 1.82, 74, 05-12-92, Valencia, Tenerife
+22, Jonathan Dubasin, ESP, F, 1.80, 65, 02-02-00, La Seu d'Urgell, Basel
+23, Abel Bretones, ESP, D, 1.86, 78, 21-08-00, Langreo, Langreo
+24, Lucas Ahijado, ESP, D, 1.78, 75, 30-01-95, Oviedo, Oviedo B
+25, Borja Sánchez, ESP, M, 1.86, 80, 26-02-96, Oviedo, León
+26, Marco Suárez, ESP, G, -, -, 26-02-04, -, Oviedo B
+27, Enol Rodríguez, ESP, F, 1.86, 73, 28-07-01, Candás, Logroñés B
+28, Mario Sesè, ESP, F, 1.78, 72, 30-08-02, Quart de Poblet, Alzira
+29, Charbel Wehbe, DOM, D, 1.83, 73, 08-05-04, -, Oviedo B
+30, Marco Esteban, ESP, D, -, -, 01-03-06, Oviedo, Oviedo B
+31, Leo Román, ESP, G, 1.90, 81, 06-07-00, Ibiza, Mallorca B
+33, Aimar Collante, ESP, D, -, -, 10-02-02, Elorz, Mutilvera
+34, Yayo, ESP, M, -, -, 30-07-04, -, Oviedo B
+35, Jaime Vázquez, ESP, D, -, -, 01-02-06, Oviedo, Oviedo B
+36, Diego Menéndez, ESP, M, -, -, 27-04-05, -, Oviedo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Javi Mier, ESP, M, 1.76, 65, 04-02-99, Oviedo, Huesca
+11, Hugo Rama, ESP, M, 1.77, 75, 22-11-96, Santiago de Compostela, Deportivo La Coruña
+22, Romario Ibarra, ECU, M, 1.74, 77, 24-09-94, Atuntaqui, Pachuca
+32, Álex Cardero, ESP, M, -, -, 25-08-03, Oviedo, Arenteiro (On Loan)

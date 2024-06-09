@@ -1,0 +1,42 @@
+=  Baník Ostrava - Czech 1.Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Martin Chlumecký, CZE, D, 1.88, 85, 11-01-97, Prague, Teplice
+5, Jiří Boula, CZE, M, 1.81, 74, 08-04-99, Prague, MAS Táborsko
+6, Daniel Tetour, CZE, M, 1.81, 71, 17-07-94, Prague, Dukla Prague
+7, Šimon Falta, CZE, M, 1.83, 70, 23-04-93, Ústí nad Orlicí, Viktoria Plzeň
+9, David Buchta, CZE, M, 1.84, 75, 27-06-99, -, None
+10, Matěj Šín, CZE, M, 1.80, 77, 02-06-04, Ostrava, None
+11, Nemanja Kuzmanović, SRB, M, 1.80, 73, 27-05-89, Plav, SFC Opava
+12, Radovan Murin, CZE, G, 1.83, 83, 03-06-99, Spišská Nová Ves, None
+14, Petr Jaroň, CZE, M, 1.78, 66, 30-08-01, -, Dětmarovice
+16, Jan Laštůvka, CZE, G, 1.91, 87, 07-07-82, Havířov, Slavia Prague
+18, Artem Kontsevoy, BLR, F, 1.82, 72, 26-08-99, Mogilev, Rukh Brest
+19, David Lischka, CZE, D, 1.89, 84, 15-08-97, Ludgeřovice, Sparta Prague
+20, Jakub Pokorný, CZE, D, 1.86, 77, 11-09-96, Višňové, Znojmo
+21, Jiří Klíma, CZE, F, 1.90, 77, 05-01-97, Jihlava, Mladá Boleslav
+22, Filip Kaloč, CZE, M, 1.90, 83, 27-02-00, Ostrava, None
+23, Jaroslav Svozil, CZE, D, 1.83, 78, 09-09-93, -, SFC Opava
+24, Jan Juroška, CZE, D, 1.80, 72, 02-03-93, Valašské Meziříčí, Slovácko
+25, Jiří Fleišman, CZE, D, 1.85, 77, 02-10-84, Most, Mladá Boleslav
+29, Laco Takács, CZE, D, 1.93, 84, 15-07-96, Františkovy Lázně, Slavia Prague
+30, Viktor Budinský, SVK, G, 1.86, 83, 09-05-93, Banská Štiavnica, Sparta Prague
+32, Lukáš Budínský, CZE, M, 1.79, 76, 27-03-92, Prague, Mladá Boleslav
+33, Ondřej Kukučka, CZE, D, 1.90, 78, 23-03-04, -, None
+39, Dominik Janošek, CZE, M, 1.83, 76, 13-06-98, Rajhrad, Viktoria Plzeň
+50, Ubong Ekpai, NGA, M, 1.75, 70, 17-10-95, Uyo, Slavia Prague
+77, Gigli Ndefe, NED, D, 1.78, 73, 03-02-94, Weert, MFK Karviná
+99, Ladislav Almási, SVK, F, 1.96, 87, 06-03-99, Bratislava, MFK Ružomberok
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Tomáš Zajíc, CZE, F, 1.82, 77, 12-08-96, Suchov, Zagłębie Lubin (On Loan)
+13, Roman Potočný, CZE, M, 1.85, 80, 25-04-91, Roudnice nad Labem, Viktoria Plzeň (On Loan)
+66, Denis Granečný, CZE, D, 1.80, 72, 07-09-98, Ostrava, Mezőkövesd (On Loan)
+4, Yira Sor, NGA, M, 1.74, 68, 24-07-00, Lagos, Slavia Prague
+17, Muhammed Sanneh, GAM, D, 1.80, 72, 19-02-00, Serrekunda, Pohronie (On Loan)
+8, Jaroslav Harušťák, CZE, D, 1.80, 75, 08-01-02, -, MFK Vyškov (On Loan)
+5, Adam Jánoš, CZE, M, 1.73, 73, 20-07-92, Uherské Hradiště, MFK Karviná (On Loan)
+7, Ondřej Chvěja, CZE, M, 1.85, 80, 17-07-98, Hlučín, MFK Karviná (On Loan)
+91, Dyjan De Azevedo, BRA, M, 1.69, 65, 23-06-91, Dois Córregos, Spartak Trnava

@@ -1,0 +1,46 @@
+=  Mallorca - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manolo Reina, ESP, G, 1.85, 80, 01-04-85, Villaneuva del Trabuco, Nàstic
+2, Joan Sastre, ESP, D, 1.74, 75, 30-04-97, Porreres, Mallorca B
+3, Brian Oliván, ESP, D, 1.77, 70, 01-04-94, Barcelona, Cádiz
+4, Iñigo Ruiz de Galarreta, ESP, M, 1.74, 66, 06-08-93, San Sebastián, Las Palmas
+5, Franco Russo, ARG, D, 1.86, 79, 25-10-94, Salta, Ontinyent
+6, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Real Madrid B
+7, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Cádiz
+8, Salva Sevilla, ESP, M, 1.78, 70, 18-03-84, Almería, Espanyol
+9, Abdón Prats, ESP, F, 1.81, 79, 17-02-92, Artà, Racing Santander
+10, Murilo, BRA, F, 1.77, 68, 31-10-94, São José do Norte, Sporting Braga
+11, Lago Junior, CIV, M, 1.82, 74, 31-12-90, Yamoussoukro, Mirandés
+12, Iddrisu Baba, GHA, M, 1.85, 73, 22-01-96, Accra, Leganés B
+13, Miquel Parera, ESP, G, 1.80, 74, 18-05-96, Manacor, Mallorca B
+14, Dani Rodríguez, ESP, M, 1.77, 71, 06-06-88, Betanzos, Albacete
+15, Fran Gámez, ESP, D, 1.74, 71, 27-07-91, Puerto de Sagunto, Atlético Saguntino
+16, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Monaco
+17, Aleksandar Trajkovski, MKD, F, 1.79, 78, 05-09-92, Skopje, Palermo
+18, Antonio Sánchez, ESP, M, 1.79, 78, 22-04-97, Palma de Mallorca, Mallorca B
+19, Braian Cufré, ARG, D, 1.79, 82, 15-12-96, Mar del Plata, Vélez Sarsfield
+20, Aleksandar Sedlar, SRB, D, 1.78, 79, 13-12-91, Novi Sad, Piast Gliwice
+21, Antonio Raíllo, ESP, D, 1.86, 77, 08-10-91, Córdoba, Espanyol
+22, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Osasuna
+23, Amath Ndiaye, SEN, F, 1.73, 70, 16-07-96, Dakar, Getafe
+24, Martin Valjent, SVK, D, 1.86, 83, 11-12-95, Dubnica nad Váhom, Chievo Verona
+25, Koke, ESP, G, 1.88, 88, 27-09-95, Málaga, Levante
+26, Carlos Quintana, ESP, D, 1.79, 68, 17-05-98, Las Palmas, Las Palmas B
+27, Fran González, ESP, D, -, -, 13-08-98, -, Mallorca B
+28, Iván Bravo, ESP, D, 1.81, 75, 20-01-01, Salt, Mallorca B
+29, Luka Romero, ARG, M, 1.65, 64, 18-11-04, Durango, Mallorca B
+31, Leo Román, ESP, G, 1.90, 81, 06-07-00, Ibiza, Peña Deportiva
+33, Pere Joan, ESP, G, 1.88, 69, 22-03-02, Can Picafort, Mallorca B
+35, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Yannis Salibur, FRA, M, 1.76, 74, 24-01-91, St-Denis, Fatih Karagümrük
+19, Pablo Chavarría, ARG, F, 1.82, 74, 02-01-88, Las Perdices, Málaga
+22, Ante Budimir, CRO, F, 1.90, 75, 22-07-91, Zenica, Osasuna (On Loan)
+23, Stoichkov, ESP, F, 1.78, 71, 05-11-93, San Roque, Sabadell (On Loan)
+27, Rafael Obrador, ESP, D, 1.81, 72, 24-02-04, Campos, Real Madrid B
+7, Álex Alegría, ESP, F, 1.89, 82, 10-10-92, Plasencia, Zaragoza (On Loan)
+32, Ibrahim Diabate, CIV, F, 1.85, 74, 17-11-99, Bouaké, Atlético Madrid B (On Loan)

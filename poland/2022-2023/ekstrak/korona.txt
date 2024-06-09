@@ -1,0 +1,48 @@
+=  Korona Kielce - Polish Ekstraklasa 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Konrad Forenc, POL, G, 1.91, 97, 17-07-92, Oława, Zagłębie Lubin
+2, Dominick Zator, CAN, D, 1.88, 85, 18-09-94, Calgary, York U
+4, Piotr Malarczyk, POL, D, 1.89, 74, 01-08-91, Kielce, Piast Gliwice
+5, Marius Briceag, ROU, D, 1.75, 74, 06-04-92, Pitești, Universitatea Cluj
+6, Jacek Podgórski, POL, M, 1.80, 72, 23-06-96, Człuchów, Chojniczanka Chojnice
+7, Jakub Łukowski, POL, M, 1.72, 67, 25-05-96, Bydgoszcz, Miedź Legnica
+8, Dalibor Takáč, SVK, M, 1.78, 70, 11-10-97, Košice, MFK Ružomberok
+9, Kacper Kostorz, POL, F, 1.80, 75, 21-08-99, Cieszyn, Pogoń Szczecin
+10, Jacek Kiełb, POL, M, 1.83, 70, 10-01-88, Siedlce, BBT Nieciecza
+11, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, Ibiza
+12, Adrian Sandach, POL, G, 1.90, 77, 19-05-04, Warsaw, None
+13, Ronaldo Deaconu, ROU, M, 1.82, 73, 13-05-97, Bucharest, Shaanxi Chang'an Athletic
+14, Dawid Więckowski, POL, D, 1.81, 74, 07-11-01, Skarżysko-Kamienna, None
+17, Dawid Błanik, POL, M, 1.73, 63, 15-04-97, Jastrzębie Zdrój, Sandecja Nowy Sącz
+19, Jakub Konstantyn, POL, M, 1.75, 75, 26-06-02, Kraków, None
+20, Marcin Szpakowski, POL, M, 1.82, 69, 26-09-01, Zielona Góra, Śląsk Wrocław
+22, Adam Deja, POL, M, 1.85, 82, 24-06-93, Olesno, Arka Gdynia
+23, Adrian Danek, POL, D, 1.80, 66, 01-08-94, Nowy Sącz, Sandecja Nowy Sącz
+28, Marcus Godinho, CAN, D, 1.78, 70, 28-06-97, Toronto, Vancouver Whitecaps
+29, Dawid Lisowski, POL, D, 1.77, 67, 27-01-01, Kielce, None
+66, Miłosz Trojak, POL, M, 1.91, 81, 05-05-94, Wałbrzych, Odra Opole
+73, Marcel Zapytowski, POL, G, 1.87, 80, 08-01-01, Płock, CWKS Resovia
+76, Hubert Szulc, POL, F, 1.89, 80, 27-08-04, Leszno, Lech Poznań
+87, Rafał Mamla, POL, G, 1.95, 91, 22-12-03, Skarżysko-Kamienna, None
+90, Kyrylo Petrov, UKR, D, 1.82, 76, 22-06-90, Kyiv, Kolos Kovalivka
+94, Bartosz Kwiecień, POL, D, 1.86, 80, 07-05-94, Starachowice, Resovia Rzeszów
+99, Yevgeniy Shikavka, BLR, F, 1.85, 76, 15-10-92, Minsk, Shakhter Karagandy
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Jakub Górski, POL, M, 1.78, 73, 16-02-02, Sandomierz, Chrobry Głogów (On Loan)
+24, Filipe Oliveira, POR, M, 1.87, 78, 24-01-94, Leiria, Vitória Setúbal
+25, Grzegorz Szymusik, POL, D, 1.82, 78, 04-06-98, Stargard, Chojniczanka Chojnice
+45, Luka Zarandia, GEO, M, 1.79, 74, 17-02-96, Tbilisi, Dinamo Batumi
+95, Mario Zebić, CRO, D, 1.87, 81, 17-12-95, Split, Argeș Pitești
+16, Janusz Nojszewski, POL, M, 1.74, 69, 18-04-03, Mińsk Mazowiecki, Kotwica Kołobrzeg (On Loan)
+11, Łukasz Sierpina, POL, M, 1.74, 68, 27-03-88, Złotoryja, Kotwica Kołobrzeg
+5, Radosław Seweryś, POL, D, 1.89, 81, 10-01-04, Końskie, De-Registered
+9, Adam Frączczak, POL, F, 1.84, 76, 07-08-87, Kołobrzeg, Kotwica Kołobrzeg
+3, Roberto Corral, ESP, D, 1.81, 70, 14-09-97, Valladolid, Metalist Kharkiv
+18, Bartosz Śpiączka, POL, F, 1.84, 70, 19-08-91, Wolsztyn, Wisła Płock (On Loan)
+26, Oskar Sewerzyński, POL, M, 1.86, 76, 12-08-01, Kielce, Chrobry Głogów (On Loan)
+27, Szymon Majewski, POL, M, 1.73, 72, 31-05-03, Kraśnik, Stal Kraśnik (On Loan)
+33, Saša Balić, MNE, D, 1.84, 79, 29-01-90, Kotor, Dinamo Batumi

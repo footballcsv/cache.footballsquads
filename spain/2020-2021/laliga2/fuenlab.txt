@@ -1,0 +1,41 @@
+=  Fuenlabrada - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pol Freixanet, ESP, G, 1.91, 80, 22-08-91, Manresa, Reus
+2, Pol Valentín, ESP, D, 1.80, 73, 21-02-97, Avinyonet de Puigventós, Valencia B
+3, Antonio Cristian, ESP, D, 1.84, 78, 18-10-95, Algeciras, Alavés
+4, Alejandro Sotillos, ESP, D, 1.80, 72, 28-01-98, Madrid, Real Madrid B
+5, Juanma, ESP, D, 1.85, 82, 18-10-82, Las Palmas, Numancia
+6, Ibán Salvador, EQG, F, 1.70, 68, 11-12-95, L'Hospitalet de Llobregat, Celta Vigo B
+7, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Málaga
+8, Cristóbal, ESP, M, 1.80, 76, 21-04-84, Madrid, Anorthosis Famagusta
+9, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Valladolid
+10, Randy Nteka, FRA, M, 1.89, 75, 06-12-97, Paris, Fuenlabrada B
+11, Aboubakary Kanté, GMB, F, 1.84, 80, 11-08-94, Pontoise, Cercle Brugge
+13, Dragan Rosić, SRB, G, 1.89, 74, 15-11-96, Užice, Almería
+14, Pinchi, ESP, F, 1.73, 62, 17-06-96, La Coruña, Extremadura
+15, Rubén Pulido, ESP, D, 1.84, 73, 02-09-00, Madrid, Real Madrid B
+17, Adrián Diéguez, ESP, D, 1.87, 69, 04-02-96, Madrid, Alavés B
+18, Franchu Feuillassier, ARG, M, 1.72, 68, 12-05-98, Mar del Plata, Real Madrid B
+19, Míkel Iribas, ESP, D, 1.84, 78, 13-04-88, San Sebastián, Alcorcón
+20, Aldair Fuentes, PER, M, 1.91, 85, 25-04-98, Pisco, Alianza Lima
+21, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Valladolid
+22, Pathé Ciss, SEN, M, 1.83, 71, 16-03-94, Dakar, União da Madeira
+23, Jano, ESP, M, 1.87, 79, 23-12-86, Madrid, Mattersburg
+24, Javi Espinosa, ESP, M, 1.74, 70, 19-09-92, Talavera de la Reina, FC Twente
+26, Mohamed El Idrissi, MAR, F, -, -, 26-03-02, -, Fuenlabrada B
+27, David Amigo, ESP, F, -, -, 22-10-02, -, Fuenlabrada B
+28, Borja Garcés, ESP, F, 1.75, 72, 06-08-99, Melilla, Atlético Madrid B
+29, Damián Cáceres, ESP, F, 1.81, 76, 31-05-03, -, Fuenlabrada B
+30, Álvaro Ruvira, ESP, G, 1.85, 75, 23-03-00, Pinoso, Fuenlabrada B
+31, Javier Belman, ESP, G, 1.84, 80, 04-10-98, Alicante, Real Madrid B
+33, Luis Peteiro, ESP, D, -, -, 26-05-98, Madrid, Betis San Isidro
+35, Guti, ESP, M, -, -, 29-12-99, Leganés, Fuenlabrada B
+36, Jaime Manso, ESP, F, -, -, 19-06-01, -, Fuenlabrada B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Moi Delgado, ESP, D, 1.73, 60, 18-04-94, Utrera, Valladolid
+27, Tahiru Awudu, GHA, F, 1.74, 65, 10-03-00, Accra, Medeama SC
+26, Rubén Pulido, ESP, D, 1.84, 73, 02-09-00, Madrid, Re-Registered (15)

@@ -1,0 +1,40 @@
+=  Red Bull Salzburg - Austrian Bundesliga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cican Stanković, AUT, G, 1.85, 73, 04-11-92, Bijeljina, Grödig
+2, Benno Schmitz, GER, D, 1.82, 75, 17-11-94, Munich, Bayern Munich
+3, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, São Paulo
+4, Dayot Upamecano, FRA, D, 1.88, 84, 27-10-98, Evreux, Valenciennes
+5, Duje Ćaleta-Car, CRO, D, 1.88, 81, 17-09-96, Šibenik, FC Liefering
+6, Christian Schwegler, SUI, D, 1.74, 72, 06-06-84, Ettiswil, Young Boys
+7, Reinhold Yabo, GER, M, 1.75, 70, 10-02-92, Aldenhoven, Karlsruhe
+8, Naby Keïta, GUI, M, 1.72, 64, 10-02-95, Conakry, Istres
+10, Valentino Lazaro, AUT, M, 1.80, 75, 24-03-96, Graz, Grazer AK
+14, Valon Berisha, NOR, M, 1.85, 75, 07-02-93, Malmö, Viking
+15, Yordi Reyna, PER, F, 1.69, 68, 17-09-93, Chiclayo, Alianza Lima
+16, Omer Damari, ISR, F, 1.81, 76, 24-03-89, Rishon LeZion, RB Leipzig
+17, Andreas Ulmer, AUT, D, 1.75, 70, 30-10-85, Linz, SV Ried
+18, Takumi Minamino, JPN, F, 1.74, 67, 16-01-95, Osaka, Cerezo Osaka
+20, David Atanga, GHA, M, 1.80, 65, 25-12-96, Bolgatanga, Red Bull Ghana
+22, Stefan Lainer, AUT, D, 1.75, 70, 27-08-92, Salzburg, Ried
+23, Hany Mukhtar, GER, M, 1.67, 60, 21-03-95, Berlin, Benfica
+24, Christoph Leitgeb, AUT, M, 1.73, 70, 14-04-85, Graz, Sturm Graz
+26, Jonathan Soriano, ESP, F, 1.80, 75, 24-09-85, El Pont de Vilomara i Rocafort, Barcelona B
+27, Konrad Laimer, AUT, M, 1.79, 68, 27-05-97, Salzburg, None
+28, Asger Sørensen, DEN, D, 1.91, 85, 05-06-96, Silkeborg, FC Midtjylland
+31, Airton, BRA, G, 1.88, 84, 29-05-94, São Marcos, Juventude
+33, Alexander Walke, GER, G, 1.87, 75, 06-06-83, Eberswalde, Hansa Rostock
+37, Dimitri Oberlin, SUI, F, 1.82, 74, 27-09-97, Yaoundé, Zürich
+46, Smail Prevljak, BIH, F, 1.87, 75, 10-05-95, Konjic, RB Leipzig
+48, Hwang Hee-chan, KOR, F, 1.77, 65, 26-01-96, Chuncheon, Pohang Steelers
+55, Yasin Pehlivan, AUT, M, 1.84, 70, 05-01-89, Vienna, Erciyesspor
+95, Bernardo, BRA, M, 1.86, 76, 14-05-95, São Paulo, Ponte Preta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Felipe Pires, BRA, M, 1.78, 68, 18-04-95, São Paulo, 1899 Hoffenheim
+9, Marco Djuricin, AUT, F, 1.81, 72, 12-12-92, Vienna, Brentford (On Loan)
+13, Michael Brandner, AUT, M, 1.75, 69, 13-02-95, Salzburg, Ried (On Loan)
+19, Håvard Nielsen, NOR, F, 1.87, 80, 15-07-93, Oslo, Freiburg
+36, Martin Hinteregger, AUT, D, 1.84, 73, 07-09-92, Feldkirchen, B Mönchengladbach (On Loan)

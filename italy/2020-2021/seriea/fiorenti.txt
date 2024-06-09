@@ -1,0 +1,51 @@
+=  Fiorentina - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pietro Terracciano, ITA, G, 1.93, 78, 08-03-90, San Felice a Cancello, Empoli
+2, Lucas Martínez Quarta, ARG, D, 1.83, 78, 10-05-96, Mar del Plata, River Plate
+3, Cristiano Biraghi, ITA, D, 1.83, 78, 01-09-92, Cernusco sul Naviglio, Pescara
+4, Nikola Milenković, SRB, D, 1.95, 92, 12-10-97, Belgrade, Partizan Belgrade
+5, Giacomo Bonaventura, ITA, M, 1.80, 75, 22-08-89, San Severino Marche, Milan
+6, Borja Valero, ESP, M, 1.76, 75, 12-01-85, Madrid, Internazionale
+7, Franck Ribéry, FRA, M, 1.70, 73, 01-04-83, Boulogne-sur-Mer, Bayern Munich
+9, Dušan Vlahović, SRB, F, 1.90, 75, 28-01-00, Belgrade, Partizan Belgrade
+10, Gaetano Castrovilli, ITA, M, 1.79, 72, 17-02-97, Canosa di Puglia, Bari
+11, Cristian Kouamé, CIV, F, 1.85, 70, 06-12-97, Bingerville, Genoa
+12, Jacopo Ricco, ITA, G, 1.79, -, 09-02-03, Florence, None
+14, Alessandro Bianco, ITA, M, 1.73, 67, 01-10-02, Turin, Torino
+15, Maximiliano Olivera, URU, D, 1.81, 72, 05-03-92, Montevideo, Peñarol
+20, Germán Pezzella, ARG, D, 1.87, 82, 27-06-91, Bahía Blanca, Betis
+21, Antonio Rosati, ITA, G, 1.95, 88, 26-06-83, Tivoli, Torino
+22, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Lazio
+23, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Montevarchi, None
+24, Lorenzo Chiti, ITA, D, 1.75, 68, 13-01-01, Florence, Aglianese
+25, Kévin Malcuit, FRA, D, 1.78, 77, 31-07-91, Chatenay-Malabry, Napoli
+27, Antonio Barreca, ITA, D, 1.83, 70, 18-03-95, Turin, Monaco
+28, Tòfol Montiel, ESP, M, 1.78, 68, 11-04-00, Palma de Mallorca, Mallorca
+29, Dimo Krastev, BUL, M, 1.95, 76, 10-02-03, Burgas, Neftochimic Burgas
+30, Eduard Duțu, ROU, D, 1.92, 82, 18-04-01, Rome, None
+33, Federico Brancolini, ITA, G, 1.92, 78, 14-07-01, Modena, Modena
+34, Sofyan Amrabat, MAR, M, 1.85, 70, 21-08-96, Huizen, Verona
+36, Fabio Ponsi, ITA, D, 1.86, 70, 12-02-01, Pietrasanta, None
+67, Louis Munteanu, ROU, F, 1.88, 77, 16-06-02, Vaslui, Viitorul Constanța
+69, Bartłomiej Drągowski, POL, G, 1.91, 86, 19-08-97, Białystok, Jagiellonia Białystok
+77, José Callejón, ESP, F, 1.79, 73, 11-02-87, Motril, Napoli
+78, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Bologna
+91, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Spartak Moscow
+92, Valentin Eysseric, FRA, M, 1.81, 73, 25-03-92, Aix-en-Provence, Nice
+98, Igor, BRA, D, 1.85, 84, 07-02-98, Bom Sucesso, SPAL
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Monza
+17, Federico Ceccherini, ITA, D, 1.87, 75, 11-05-92, Livorno, Verona (On Loan)
+19, Sebastián Cristóforo, URU, M, 1.75, 68, 23-08-93, Montevideo, Girona
+25, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, Juventus (On Loan)
+67, Simone Ghidotti, ITA, G, 1.85, 73, 19-03-00, Brescia, Pergolettese (On Loan)
+18, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Spezia (On Loan)
+63, Patrick Cutrone, ITA, F, 1.83, 75, 03-01-98, Como, Wolverhampton W
+2, Julián Illanes, ARG, D, 1.86, 80, 10-03-97, Córdoba, Avellino (On Loan)
+21, Pol Lirola, ESP, D, 1.83, 76, 13-08-97, Mollet del Vallès, Marseille (On Loan)
+8, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Cagliari (On Loan)
+32, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Reggina (On Loan)

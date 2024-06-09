@@ -1,0 +1,44 @@
+=  Ferencváros - Hungarian Nemzeti Bajnokság I 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ádám Bogdán, HUN, G, 1.94, 90, 27-09-87, Budapest, Hibernian
+3, Samy Mmaee, MAR, D, 1.85, 82, 08-09-96, Halle, Sint-Truiden
+4, Mats Knoester, NED, D, 1.84, 74, 19-11-98, Alphen aan den Rijn, Heracles Almelo
+5, Muhamed Bešić, BIH, M, 1.80, 80, 10-09-92, Berlin, Everton
+7, Xavier Mercier, FRA, M, 1.71, 64, 25-07-89, Alès, OH Leuven
+8, Ryan Mmaee, MAR, F, 1.83, 78, 01-04-97, Geraardsbergen, AEL Limassol
+10, Tokmac Nguen, NOR, M, 1.74, 60, 20-10-93, Kakuma, Strømsgodset
+11, Owusu Kwabena, GHA, F, 1.82, 73, 18-06-97, Accra, Qarabağ
+13, Anderson Esiti, NGA, M, 1.89, 82, 24-05-94, Warri, PAOK
+14, Amer Gojak, BIH, M, 1.84, 75, 13-02-97, Sarajevo, Dinamo Zagreb
+15, Adnan Kovačević, BIH, D, 1.89, 80, 09-09-93, Kotor Varoš, Korona Kielce
+16, Kristoffer Zachariassen, NOR, M, 1.80, 74, 27-10-94, Sotra, Rosenborg
+17, Eldar Ćivić, BIH, D, 1.75, 70, 28-05-96, Tuzla, Sparta Prague
+18, Dávid Sigér, HUN, M, 1.75, 69, 30-11-90, Debrecen, Balmazújváros
+19, Bálint Vécsei, HUN, M, 1.92, 84, 13-07-93, Kazincbarcika, Lugano
+20, Adama Traoré, MLI, F, 1.77, 70, 05-06-95, Bamako, Sheriff Tiraspol
+21, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Honvéd
+22, Myenty Abena, NED, D, 1.85, 88, 12-12-94, Paramaribo, Slovan Bratislava
+23, Lóránd Pászka, HUN, D, 1.86, 75, 22-03-96, Târgu Secuiesc, Soroksár
+28, Carlos Auzqui, ARG, M, 1.74, 69, 16-09-91, Longchamps, River Plate
+29, Gergő Szécsi, HUN, G, 1.85, 83, 07-02-89, Eger, Balmazújváros
+30, Péter Baráth, HUN, M, 1.85, 78, 21-02-02, Kisvárda, Debrecen
+31, Henry Wingo, USA, D, 1.83, 77, 04-10-95, Seattle, Molde
+50, Marquinhos, BRA, F, 1.70, 71, 20-10-99, Cajari, Atlético Mineiro
+52, Nikolai Baden Frederiksen, DEN, F, 1.84, 70, 18-05-00, Odense, Vitesse
+60, Mehdi Boudjemaa, FRA, M, 1.81, 70, 07-04-98, Cergy, Hatayspor
+88, Ángelo Sagal, CHI, F, 1.79, 77, 18-04-93, Talca, Gaziantep
+90, Dénes Dibusz, HUN, G, 1.86, 81, 19-11-90, Pécs, Pécs
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Oleksandr Zubkov, UKR, M, 1.82, 78, 03-08-96, Makiivka, Shakhtar Donetsk
+44, Stjepan Lončar, BIH, M, 1.87, 78, 10-11-96, Mostar, Kortrijk (On Loan)
+80, Željko Gavrić, SRB, M, 1.81, 74, 05-12-00, Ugljevik, DAC Dunajská Streda (On Loan)
+25, Rasmus Thelander, DEN, D, 1.91, 88, 09-07-91, Copenhagen, Ferencváros
+53, Dominik Csontos, HUN, D, 1.71, 68, 08-11-02, Székesfehérvár, Mezőkövesd
+93, Aïssa Laïdouni, TUN, M, 1.83, 75, 13-12-96, Montfermeil, Union Berlin
+27, Giorgi Kharaishvili, GEO, F, 1.83, 78, 29-07-96, Marneuli, Dinamo Tbilisi (On Loan)
+14, Fortune Bassey, NGA, F, 1.86, 77, 06-10-98, Benin City, Degerfors IF (On Loan)
+70, Franck Boli, CIV, F, 1.80, 78, 07-12-93, Yamoussoukro, Portland Timbers

@@ -1,0 +1,49 @@
+=  Napoli - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Meret, ITA, G, 1.90, 77, 22-03-97, Udine, Udinese
+3, Karim Zedadka, ITA, D, 1.82, 67, 09-06-00, Pertuis, Nice
+4, Diego Demme, GER, M, 1.70, 66, 21-11-91, Herford, RB Leipzig
+5, Tiemoué Bakayoko, FRA, M, 1.85, 77, 17-08-94, Paris, Chelsea
+6, Mário Rui, POR, D, 1.70, 67, 27-05-91, Sines, Roma
+7, Eljif Elmas, MKD, M, 1.84, 74, 24-09-99, Skopje, Fenerbahçe
+8, Fabián, ESP, M, 1.89, 70, 03-04-96, Los Palacios y Villafranca, Betis
+9, Victor Osimhen, NGA, F, 1.85, 77, 29-12-98, Lagos, Lille
+11, Hirving Lozano, MEX, M, 1.77, 70, 30-07-95, Mexico City, PSV Eindhoven
+12, Antonio Pio Daniele, ITA, G, 1.84, 65, 10-07-02, Massa di Somma, None
+14, Dries Mertens, BEL, F, 1.69, 61, 06-05-87, Leuven, PSV Eindhoven
+16, Nikita Contini, ITA, G, 1.90, 82, 21-05-96, Cherkasy, None
+19, Nikola Maksimović, SRB, D, 1.93, 82, 25-11-91, Bajina Bašta, Torino
+20, Piotr Zieliński, POL, M, 1.80, 75, 20-05-94, Ząbkowice Śląskie, Udinese
+21, Matteo Politano, ITA, F, 1.71, 65, 03-08-93, Rome, Internazionale
+22, Giovanni Di Lorenzo, ITA, D, 1.82, 80, 04-08-93, Castelnuovo di Garfagnana, Empoli
+23, Elseid Hysaj, ALB, D, 1.82, 70, 02-02-94, Shkodër, Empoli
+24, Lorenzo Insigne, ITA, F, 1.63, 59, 04-06-91, Naples, None
+25, David Ospina, COL, G, 1.83, 80, 31-08-88, Medellín, Arsenal
+26, Kalidou Koulibaly, SEN, D, 1.95, 89, 20-06-91, Saint-Dié, KRC Genk
+31, Faouzi Ghoulam, ALG, D, 1.88, 80, 01-02-91, Saint-Priest-en-Jarez, St-Etienne
+33, Amir Rrahmani, KVX, D, 1.92, 83, 24-02-94, Prishtina, Verona
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, SPAL
+38, Davide Costanzo, ITA, D, 1.80, 77, 04-07-02, Frattamaggiore, None
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Roma
+46, Hubert Idasiak, POL, G, 1.85, 74, 03-02-02, Sławno, Pogoń Szczecin
+54, Vincenzo Potenza, ITA, D, 1.69, -, 17-04-02, Villaricca, Monteruscello
+56, Giuseppe D'Agostino, ITA, F, 1.76, -, 11-05-03, Massa di Somma, None
+57, Nello D'Onofrio, ITA, D, 1.86, -, 21-05-02, Torre del Greco, None
+58, Antonio Cioffi, ITA, F, 1.80, -, 19-12-02, Maddaloni, None
+59, Raffaele Virgilio, ITA, M, 1.71, -, 17-01-02, Marcianise, Avellino
+61, Valerio Labriola, ITA, M, 1.73, 60, 13-04-01, Naples, None
+62, Benedetto Barba, ITA, D, 1.80, -, 27-01-03, Avellino, None
+68, Stanislav Lobotka, SVK, M, 1.70, 64, 25-11-94, Trenčín, Celta Vigo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Luca Palmiero, ITA, M, 1.77, 67, 01-05-96, Mugnano di Napoli, Chievo Verona (On Loan)
+34, Amin Younes, GER, M, 1.68, 67, 06-08-93, Düsseldorf, Eintracht Frankfurt (On Loan)
+13, Sebastiano Luperto, ITA, D, 1.91, 75, 06-09-96, Lecce, Crotone (On Loan)
+18, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Chievo Verona (On Loan)
+99, Arkadiusz Milik, POL, F, 1.86, 78, 28-02-94, Tychy, Marseille (On Loan)
+18, Fernando Llorente, ESP, F, 1.93, 90, 26-02-85, Pamplona, Udinese
+2, Kévin Malcuit, FRA, D, 1.78, 77, 31-07-91, Chatenay-Malabry, Fiorentina (On Loan)
+51, Giovanni Ceparano, ITA, M, 1.81, -, 13-05-02, Arzano, Afragolese (On Loan)

@@ -1,0 +1,56 @@
+=  Everton - English Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Robles, ESP, G, 1.95, 85, 17-06-90, Leganés, Atlético Madrid
+2, Tony Hibbert, ENG, D, 1.73, 72, 20-02-81, Liverpool, None
+3, Leighton Baines, ENG, D, 1.70, 75, 11-12-84, Liverpool, Wigan Ath
+4, Darron Gibson, IRL, M, 1.80, 83, 25-10-87, Derry, Manchester U
+6, Phil Jagielka, ENG, D, 1.83, 83, 17-08-82, Sale, Sheffield U
+7, Aidan McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Spartak Moscow
+8, Bryan Oviedo, CRC, M, 1.72, 70, 18-02-90, Alajuela, FC København
+9, Arouna Koné, CIV, F, 1.81, 81, 11-11-83, Anyama, Wigan Ath
+10, Romelu Lukaku, BEL, F, 1.90, 94, 13-05-93, Antwerp, Chelsea
+11, Kevin Mirallas, BEL, F, 1.78, 72, 05-10-87, Liège, Olympiakos
+14, Steven Naismith, SCO, F, 1.78, 72, 14-09-86, Irvine, Rangers
+15, Sylvain Distin, FRA, D, 1.93, 85, 16-12-77, Bagnolet, Portsmouth
+16, James McCarthy, IRL, M, 1.80, 72, 12-11-90, Glasgow, Wigan Ath
+17, Muhamed Bešić, BIH, M, 1.77, 75, 10-09-92, Berlin, Ferencváros
+18, Gareth Barry, ENG, M, 1.83, 79, 23-02-81, Hastings, Manchester C
+19, Christian Atsu, GHA, M, 1.72, 68, 10-01-92, Ada Foah, Chelsea
+20, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, None
+21, Leon Osman, ENG, M, 1.73, 62, 17-05-81, Billinge, None
+22, Steven Pienaar, RSA, M, 1.70, 66, 17-03-82, Johannesburg, Tottenham H
+23, Séamus Coleman, IRL, D, 1.93, 67, 11-10-88, Donegal, Sligo R
+24, Tim Howard, USA, G, 1.91, 95, 06-03-79, North Brunswick, Manchester U
+25, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Tottenham H
+26, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Barnsley
+27, Tyias Browning, ENG, D, 1.81, 76, 27-05-94, Liverpool, None
+29, Luke Garbutt, ENG, D, 1.78, 73, 21-05-93, Harrogate, Leeds U
+30, Antolín Alcaraz, PAR, D, 1.84, 80, 30-07-82, Roque Gonzalez, Wigan Ath
+32, Brendan Galloway, ENG, D, 1.88, 87, 17-03-96, Harare, MK Dons
+33, John Lundstram, ENG, M, 1.81, 74, 18-02-94, Liverpool, None
+36, Jindřich Staněk, CZE, G, 1.92, 84, 27-04-96, Strakonice, Sparta Prague
+38, Matthew Pennington, ENG, D, 1.85, 77, 06-10-94, Warrington, None
+40, Sam Byrne, IRL, F, 1.84, 75, 23-07-95, Dublin, Manchester U
+41, Chris Long, ENG, F, 1.69, 77, 25-02-95, Huyton, None
+42, Ryan Ledson, ENG, M, 1.75, 69, 19-08-97, Liverpool, None
+43, Jonjoe Kenny, ENG, D, 1.76, 67, 15-03-97, Kirkdale, None
+45, Russell Griffiths, ENG, G, 1.88, 85, 13-04-96, Gravesend, None
+46, Joe Williams, ENG, M, 1.78, 66, 08-12-95, Liverpool, None
+47, George Green, ENG, M, 1.83, 79, 02-01-96, Dewsbury, Bradford C
+48, Courtney Duffus, ENG, F, 1.70, 76, 24-10-95, Cheltenham, Cheltenham T
+49, Curtis Langton, ENG, D, , , 21-09-95, Liverpool, None
+50, Gethin Jones, WAL, D, 1.78, 74, 13-10-95, Perth [AUS], None
+51, Kieran Dowell, ENG, M, 1.75, 59, 10-10-97, Ormskirk, None
+52, Liam Walsh, ENG, M, 1.78, 66, 15-09-97, Whiston, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Shane Duffy, IRL, D, 1.93, 76, 01-01-92, Derry, Blackburn R
+37, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Bury
+44, Ben McLaughlin, IRL, D, 1.78, 72, 15-04-95, Dundalk, AFC Telford U (On Loan)
+5, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Sampdoria
+31, Matthew Kennedy, SCO, M, 1.75, 65, 01-11-94, Irvine, Cardiff C
+35, Conor McAleny, ENG, F, 1.78, 79, 12-08-92, Liverpool, Cardiff C (On Loan)
+39, Conor Grant, ENG, M, 1.76, 80, 18-04-95, Fazakerley, Motherwell (On Loan)

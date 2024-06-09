@@ -1,0 +1,61 @@
+=  Pordenone - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giacomo Bindi, ITA, G, 1.89, 84, 02-01-87, Torrita di Siena, Padova
+2, Filippo Berra, ITA, D, 1.85, 82, 06-02-95, Udine, Bari
+4, Mirko Stefani, ITA, D, 1.80, 80, 25-01-84, Borgo Valsugana, Messina
+5, Alessandro Vogliacco, ITA, D, 1.85, 90, 14-09-98, Acquaviva delle Fonti, Juventus
+6, Alberto Barison, ITA, D, 1.86, 80, 03-08-94, Dolo, Bassano Virtus
+8, Giacomo Calò, ITA, M, 1.80, 74, 05-02-97, Trieste, Genoa
+10, Claudio Morra, ITA, F, 1.85, 79, 22-01-95, Savigliano, Virtus Entella
+11, Sebastian Musiolik, POL, F, 1.89, 81, 19-05-96, Knurów, Raków Częstochowa
+12, Pietro Passador, ITA, G, 1.93, 75, 26-02-03, Pordenone, Udinese
+13, Patrick Ciurria, ITA, F, 1.78, 67, 09-02-95, Sassuolo, Spezia
+14, Nemanja Ristić, BIH, D, 1.70, -, 11-09-02, -, Bologna
+15, Francesco Bottani, ITA, M, 1.67, 56, 04-10-03, Conegliano, None
+16, Luca Magnino, ITA, M, 1.85, 78, 13-08-97, Pordenone, Feralpisalò
+17, Davide Del Savio, ITA, D, 1.68, -, 05-05-03, Pordenone, None
+18, Aldo Banse, ITA, F, 1.80, 63, 04-12-02, San Vito al Tagliamento, None
+19, Federico Secli, ITA, F, 1.88, 77, 14-05-02, Udine, None
+20, Simone Pasa, ITA, M, 1.84, 85, 21-01-94, Montebelluna, Cittadella
+21, Gianvito Misuraca, ITA, M, 1.80, 78, 02-04-90, Palermo, Bassano Virtus
+22, Samuele Perisan, ITA, G, 1.92, 84, 21-08-97, San Vito al Tagliamento, Udinese
+24, Giovanni Foschiani, ITA, D, 1.95, -, 07-07-03, San Daniele del Friuli, None
+25, Luca Zanon, ITA, D, 1.77, 72, 04-07-96, Camposampiero, Fiorentina
+26, Alessandro Bassoli, ITA, D, 1.85, 81, 19-06-90, Bologna, Chievo Verona
+27, Kevin Biondi, ITA, M, 1.77, 65, 10-02-99, Catania, Catania
+28, Mattia Finotto, ITA, F, 1.86, 72, 28-12-92, Pieve di Soligo, Monza
+29, Manuel Scavone, ITA, M, 1.87, 74, 03-06-87, Bolzano, Bari
+30, Alessandro Mallamo, ITA, F, 1.74, 70, 22-03-99, Vizzolo Pedrabissi, Atalanta
+31, Michele Camporese, ITA, D, 1.86, 75, 19-05-92, Pisa, Foggia
+32, Karlo Butić, CRO, F, 1.87, 78, 21-08-98, Zadar, Torino
+33, Roberto Zammarini, ITA, M, 1.80, 75, 05-07-96, Casalmaggiore, Pisa
+44, Adam Chrzanowski, POL, D, 1.85, 84, 31-03-99, Warsaw, Lechia Gdańsk
+54, Nicola Falasco, ITA, D, 1.82, 68, 05-10-93, Piove di Sacco, Perugia
+60, Tommaso Carli, ITA, F, 1.73, -, 12-12-02, Motta di Livenza, None
+61, Giovanni Cesarin, ITA, M, 1.71, -, 22-11-03, San Vito al Tagliamento, None
+62, Marco Destito, ITA, F, 1.82, 57, 23-08-03, Motta di Livenza, None
+63, Andrea Feruglio, ITA, D, 1.89, -, 24-02-03, Latisana, None
+64, Nicolò Giordano, ITA, G, 1.91, -, 07-06-04, Chivasso, None
+65, Ndricim Lazri, ITA, F, 1.77, 70, 10-01-03, -, None
+66, Marco Masut, ITA, G, 1.87, -, 11-06-03, Pordenone, None
+67, Cristiano Morandini, ITA, M, 1.71, -, 29-01-02, Udine, None
+68, Leonardo Munzone, ITA, D, 1.82, 69, 06-05-03, San Vito al Tagliamento, None
+69, Alessandro Vanzo, ITA, F, 1.84, -, 18-02-03, Treviso, Bologna
+70, Simone Baldassar, ITA, M, 1.63, -, 02-02-04, Vittorio Veneto, None
+71, Gabriele Comand, ITA, D, -, -, 01-01-04, San Vito al Tagliamento, None
+72, Francesco De Marco, ITA, M, -, -, 28-09-04, Pordenone, None
+73, Filippo Iacovoni, ITA, F, -, -, 15-01-04, Trieste, None
+74, Alessandro Movio, ITA, M, 1.78, -, 06-01-04, Palmanova, None
+77, Gaetano Fasolino, ITA, G, 1.88, 80, 21-06-00, Bologna, Fano
+88, Matteo Rossetti, ITA, M, 1.91, 82, 23-07-98, Saluzzo, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Daniel Semenzato, ITA, D, 1.80, 71, 11-01-87, Montebelluna, Bari
+10, Lucas Chiaretti, BRA, F, 1.71, 67, 22-09-87, Belo Horizonte, 
+28, Simone Magnaghi, ITA, F, 1.88, 82, 12-10-93, Lovere, Südtirol (On Loan)
+23, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Cosenza (On Loan)
+9, Davide Diaw, SEN, F, 1.91, 75, 06-01-92, Cividale del Friuli, Monza
+7, Davide Gavazzi, ITA, M, 1.85, 74, 07-05-86, Sondrio, 

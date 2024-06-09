@@ -1,0 +1,73 @@
+=  Ascoli - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Perugia
+2, Raffaele Pucino, ITA, D, 1.82, 74, 03-05-91, Caserta, Salernitana
+3, Tommaso D'Orazio, ITA, D, 1.86, 75, 03-05-90, Guardiagrele, Bari
+4, Gabriele Corbo, ITA, D, 1.85, 76, 11-01-00, Naples, Bologna
+5, Emin Ghazoini, MAR, D, 1.84, 85, 09-01-01, Rome, Frosinone
+7, Michele Cavion, ITA, M, 1.80, 73, 08-12-94, Schio, Cremonese
+8, Adrian Stoian, ROU, F, 1.78, 66, 11-02-91, Craiova, Viitorul Constanța
+9, Federico Dionisi, ITA, F, 1.79, 68, 16-06-87, Rieti, Frosinone
+10, Gianmarco Cangiano, ITA, F, 1.67, 62, 16-11-01, Naples, Bologna
+11, Vittorio Parigini, ITA, F, 1.80, 75, 25-03-96, Moncalieri, Genoa
+12, Luca Bolletta, ITA, G, 1.90, 82, 26-11-04, Jesi, None
+15, Danilo Quaranta, ITA, D, 1.92, 75, 23-03-97, Teramo, None
+16, Mattia D'Agostino, ITA, F, 1.83, -, 12-05-00, Avezzano, L'Aquila
+17, Nicola Mosti, ITA, M, 1.77, 70, 07-02-98, Pietrasanta, Monza
+18, Simone Pinna, ITA, D, 1.72, 68, 17-10-97, Oristano, Cagliari
+21, Abdelhamid Sabiri, GER, F, 1.83, 80, 28-11-96, Goulmima, Paderborn
+22, Biagio Maresca, ITA, G, -, -, 23-03-04, Naples, Juve Stabia
+23, Riccardo Brosco, ITA, D, 1.91, 78, 03-02-91, Rome, Verona
+24, Anastasios Avlonitis, GRE, D, 1.90, 85, 01-01-90, Chalcis, Sturm Graz
+26, Soufiane Bidaoui, MAR, F, 1.76, 63, 20-04-90, Etterbeek, Spezia
+27, Mirko Eramo, ITA, M, 1.84, 75, 12-07-89, Acquaviva delle Fonti, Virtus Entella
+28, Alessio Santese, ITA, D, 1.83, 78, 01-01-01, Rome, Roma
+29, Fabrizio Cacciatore, ITA, D, 1.82, 85, 08-10-86, Turin, Cagliari
+30, Dario Šarić, BIH, M, 1.80, 73, 30-05-97, Cento, Carpi
+32, Fabrizio Caligara, ITA, M, 1.80, 74, 12-04-00, Borgomanero, Cagliari
+33, Vincenzo Venditti, ITA, G, 1.90, 82, 23-06-97, Avezzano, Fermana
+36, Andrea Franzolini, ITA, M, 1.88, 79, 06-09-03, Latina, Carso
+39, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, Atromitos
+41, Brijan Ibrahimi, ALB, F, 1.93, 83, 22-09-01, -, Torino
+42, Gianluca Radano, ITA, G, 1.93, 77, 03-01-02, Avellino, None
+43, Lorenzo Pulsoni, ITA, D, 1.87, 77, 18-07-01, Ascoli Piceno, None
+45, Mouhamadou Sarr, SEN, G, 1.90, 78, 05-01-97, Kaolack, Bologna
+69, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Benevento
+72, Andrea Danzi, ITA, M, 1.75, 72, 25-02-99, San Martino Buon Albergo, Verona
+77, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Juve Stabia
+88, Dean Lico, ALB, F, 1.89, 84, 08-02-00, Korçë, Lazio
+93, Simone Simeri, ITA, F, 1.78, 78, 12-04-93, Naples, Bari
+94, Gabriel Charpentier, FRA, F, 1.88, 78, 17-05-99, Pointe-Noire, Genoa
+99, Riad Bajić, BIH, F, 1.89, 83, 06-05-94, Sarajevo, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Davide Di Francesco, ITA, F, 1.72, -, 19-01-01, Sant'Omero, Teramo (On Loan)
+18, Simone Ganz, ITA, F, 1.75, 67, 21-09-93, Genoa, Mantova (On Loan)
+29, Emanuele Maurizii, ITA, D, 1.70, 64, 02-02-01, Sant'Omero, Matelica (On Loan)
+20, Simone Padoin, ITA, M, 1.79, 73, 18-03-84, Gemona del Friuli, Retired
+21, Giacomo Beretta, ITA, F, 1.83, 74, 14-03-92, Varese, Padova
+26, Moutir Chajia, BEL, F, 1.77, 72, 04-06-98, Heusden-Zolder, Lokomotiva Zagreb
+8, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, Cosenza
+32, Francesco Intinacelli, ITA, F, 1.79, 68, 12-11-01, Chieti, De-Registered
+41, Francesco Semeraro, ITA, D, -, -, 01-05-01, Fasano, Cavese (On Loan)
+94, Lorenzo Rosseti, ITA, F, 1.88, 74, 05-08-94, Arezzo, Como
+34, Miguel De Alcântara, BRA, D, 1.90, 85, 22-02-00, Americana, Água Santa
+13, Christian Scorza, ITA, M, 1.93, 81, 14-07-00, Ascoli Piceno, Piacenza (On Loan)
+22, Khadim Ndiaye, SEN, G, 1.85, 80, 12-04-00, Dakar, Atalanta
+3, Daniele Sarzi Puttini, ITA, D, 1.84, 78, 08-06-96, Correggio, Bari (On Loan)
+14, Christos Donis, GRE, M, 1.83, 76, 09-10-94, Athens, VVV Venlo (On Loan)
+84, Niccolò Tofanari, ITA, D, 1.85, 80, 12-05-98, Florence, Matelica
+25, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Cosenza
+6, Diogo Pinto, POR, M, 1.75, 63, 29-06-99, Tomar, Vilafranquense (On Loan)
+9, Aly Mallé, MLI, F, 1.77, 72, 03-04-98, Bamako, Yeni Malatyaspor
+33, Simone Sini, ITA, D, 1.83, 75, 09-04-92, Sesto San Giovanni, Alessandria
+11, Nikola Ninković, SRB, F, 1.82, 69, 19-12-94, Bogatić, Brescia
+17, Ricardo Matos, POR, M, 1.79, 77, 25-03-00, Vale de Figueira, Casertana (On Loan)
+19, Edoardo Tassi, ITA, F, 1.84, 77, 10-06-98, Ascoli Piceno, Viterbese
+91, Cosimo Chiricò, ITA, F, 1.69, 72, 05-10-91, Mesagne, Padova (On Loan)
+98, Nicholas Pierini, ITA, F, 1.76, 70, 06-08-98, Parma, Sassuolo
+20, Lukas Spendlhofer, AUT, D, 1.87, 82, 02-06-93, Neunkirchen, Bnei Sakhnin (On Loan)
+29, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Verona

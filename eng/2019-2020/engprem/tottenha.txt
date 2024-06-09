@@ -1,0 +1,77 @@
+=  Tottenham Hotspur - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Lyon
+4, Toby Alderweireld, BEL, D, 1.87, 91, 02-03-89, Wilrijk, Atlético Madrid
+5, Jan Vertonghen, BEL, D, 1.89, 88, 24-04-87, Sint-Niklaas, Ajax
+6, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Ajax
+7, Son Heung-Min, KOR, F, 1.83, 77, 08-07-92, Chuncheon, Bayer Leverkusen
+8, Harry Winks, ENG, M, 1.76, 74, 02-02-96, Hemel Hempstead, None
+10, Harry Kane, ENG, F, 1.88, 86, 28-07-93, Walthamstow, None
+11, Erik Lamela, ARG, M, 1.81, 80, 25-03-92, Florida, Roma
+13, Michel Vorm, NED, G, 1.84, 84, 20-10-83, Nieuwegein, Swansea C
+15, Eric Dier, ENG, M, 1.88, 90, 15-01-94, Cheltenham, Sporting CP
+17, Moussa Sissoko, FRA, M, 1.87, 91, 16-08-89, Le Blanc Mesnil, Newcastle U
+18, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Betis
+19, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, Fulham
+20, Dele Alli, ENG, M, 1.88, 80, 11-04-96, Milton Keynes, MK Dons
+21, Juan Foyth, ARG, D, 1.79, 69, 12-01-98, La Plata, Estudiantes (LP)
+22, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Southampton
+23, Steven Bergwijn, NED, F, 1.78, 74, 08-10-97, Amsterdam, PSV Eindhoven
+24, Serge Aurier, CIV, D, 1.75, 75, 24-12-92, Abidjan, Paris St-Germain
+27, Lucas Moura, BRA, M, 1.72, 66, 13-08-92, São Paulo, Paris St-Germain
+28, Tanguy NDombèlé, FRA, M, 1.76, 68, 28-12-96, Longjumeau, Lyon
+29, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, None
+30, Gedson Fernandes, STP, M, 1.81, 69, 09-01-99, São Tomé, Benfica
+33, Ben Davies, WAL, D, 1.82, 76, 24-04-93, Neath, Swansea C
+39, Japhet Tanganga, ENG, D, 1.84, 73, 31-03-99, Hackney, None
+41, Alfie Whiteman, ENG, G, 1.90, 77, 02-10-98, Tottenham, None
+44, Jamie Bowden, ENG, M, 1.75, 64, 09-07-01, Edmonton, None
+48, Jonathan Dinzeyi, ENG, D, 1.83, 83, 13-10-99, Islington, None
+52, Troy Parrott, IRL, F, 1.75, 72, 04-02-02, Dublin, Belvedere
+53, Harvey White, ENG, M, 1.71, 60, 19-09-01, Maidstone, None
+55, Jonathan De Bie, BEL, G, 1.96, 91, 25-05-00, Uccle, Mechelen
+57, Tariq Hinds, ENG, D, 1.81, 70, 15-06-00, Redbridge, None
+58, Brooklyn Lyons-Foster, ENG, D, 1.81, 70, 01-12-00, Archway, None
+60, Dilan Markanday, ENG, F, 1.78, 64, 20-08-01, Barnet, None
+61, Phoenix Patterson, SCO, M, 1.78, 67, 01-09-00, High Wycombe, None
+63, J'Neil Bennett, ENG, F, 1.75, 63, 07-12-01, Islington, QPR
+64, Malachi Fagan-Walcott, ENG, D, 1.87, 74, 11-03-02, Edmonton, None
+66, Rodel Richards, ENG, F, 1.74, 66, 05-09-00, Lewisham, Arsenal
+67, Rayan Clarke, ENG, M, 1.79, 70, 05-04-01, Edmonton, None
+68, Elliot Thorpe, WAL, M, 1.76, 64, 09-11-00, Hinchingbrooke, None
+71, Jubril Okedina, ENG, D, 1.83, 70, 26-10-00, Woolwich, None
+72, Jeremie Mukendi, ENG, F, , , 12-09-00, , None
+73, Josh Oluwayemi, ENG, G, 1.83, 70, 13-03-01, Waltham Forest, None
+74, Maurizio Pochettino, ESP, F, , , 30-03-01, Barcelona, Southampton
+75, Maxwell Statham, ENG, D, , , 06-09-00, Southend, None
+76, Maxi Tainio, FIN, M, , , 24-05-01, Auxerre, HJK Helsinki
+77, Dennis Cirkin, IRL, D, 1.82, 72, 06-04-02, Dublin, None
+78, Kion Etete, ENG, F, 1.85, 70, 28-11-01, Derby, Notts Co
+79, Kacper Kurylowicz, ENG, G, , , 02-09-01, Luton, None
+80, Rafferty Pedder, ENG, M, , , 06-04-02, Maidstone, None
+83, Dermi Lusala, ENG, D, , , 16-01-03, Edmonton, None
+84, Enock Asante, GHA, F, , , 25-11-01, Akuapim-Mampong, None
+85, Kallum Cesay, ENG, M, , , 04-09-02, Newham, West Ham U
+86, Marqes Muir, ENG, D, , , 21-09-02, Lambeth, None
+87, Max Robson, ENG, M, , , 17-10-02, Haywards Heath, None
+88, Thimothee Lo-Tutala, FRA, G, 1.85, 71, 13-02-03, Paris, Brentford
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, George Marsh, ENG, M, 1.78, 68, 05-11-98, Pembury, Leyton Orient (On Loan)
+45, Jack Roles, CYP, M, 1.76, 66, 26-02-99, Enfield, Cambridge U (On Loan)
+14, Georges-Kevin Nkoudou, FRA, M, 1.75, 73, 13-02-95, Versailles, Beşiktaş
+59, Paris Maghoma, ENG, M, 1.81, 70, 08-05-01, Enfield, Brentford
+62, Armando Shashoua, ENG, M, 1.78, 64, 31-10-00, Westminster, Atlético Baleares (On Loan)
+49, Brandon Austin, USA, G, 1.88, 82, 08-01-99, Hemel Hempstead, Viborg (On Loan)
+23, Christian Eriksen, DEN, M, 1.82, 76, 14-02-92, Middelfart, Internazionale
+16, Kyle Walker-Peters, ENG, D, 1.73, 62, 13-04-97, Edmonton, Southampton (On Loan)
+3, Danny Rose, ENG, D, 1.74, 76, 02-07-90, Doncaster, Newcastle U (On Loan)
+43, Timothy Eyoma, ENG, D, 1.83, 76, 29-01-00, Hackney, Lincoln C (On Loan)
+42, Anthony Georgiou, CYP, D, 1.79, 73, 24-02-97, Lewisham, Bolton W (On Loan)
+46, Tashan Oakley-Boothe, ENG, M, 1.78, 70, 14-02-00, Lambeth, Stoke C
+51, Shilow Tracey, ENG, M, 1.79, 76, 29-04-98, Newham, Macclesfield T (On Loan)
+65, Luis Binks, ENG, D, 1.88, 87, 02-09-01, Gillingham, Montreal Impact
+12, Victor Wanyama, KEN, M, 1.84, 87, 25-06-91, Nairobi, Montreal Impact

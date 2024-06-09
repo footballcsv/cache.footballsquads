@@ -1,0 +1,44 @@
+=  Debrecen - Hungarian Nemzeti Bajnokság I 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Csaba Hornyák, HUN, D, 1.75, 65, 22-06-06, -, None
+4, Jorgo Pëllumbi, ALB, D, 1.86, 78, 15-07-00, Korçë, Varaždin
+8, Máté Tuboly, HUN, M, 1.82, 71, 15-09-04, Budapest, Győr
+10, Balázs Dzsudzsák, HUN, M, 1.79, 72, 23-12-86, Nyírlugos, Al-Ain [UAE]
+11, János Ferenczi, HUN, D, 1.80, 65, 03-04-91, Debrecen, DSI
+12, Benedek Erdélyi, HUN, G, 1.90, 81, 08-09-05, Debrecen, None
+13, Soma Szuhodovszki, HUN, M, 1.82, 75, 30-12-99, Budapest, Kecskemét
+14, Meldin Drešković, MNE, D, 1.91, 75, 26-03-98, Plav, Sutjeska Nikšić
+15, Christian Manrique, ESP, D, 1.80, 75, 02-10-98, Móstoles, Olympiakos Nicosia
+16, Balázs Megyeri, HUN, G, 1.88, 88, 31-03-90, Budapest, AEL Limassol
+17, Donát Bárány, HUN, F, 1.79, 74, 04-09-00, Debrecen, None
+18, Hamzat Ojediran, NGA, M, 1.75, 75, 14-11-03, -, Egnatia
+19, Þorleifur Úlfarsson, ISL, F, 1.85, 75, 27-12-00, Kopavogur, Houston Dynamo
+20, Stefan Loncar, MNE, M, 1.90, 77, 19-02-96, Nikšić, Novi Pazar
+21, Oleksandr Romanchuk, UKR, D, 1.93, 77, 16-12-99, Kolomyia, FC Lviv
+22, Botond Vajda, HUN, M, 1.74, 65, 15-03-04, Rožňava, Diósgyőr
+23, Flórián Cibla, HUN, M, 1.76, 70, 23-03-05, -, None
+25, Nimród Baranyai, HUN, D, 1.80, 78, 06-08-03, Debrecen, None
+27, Ádám Bódi, HUN, M, 1.75, 65, 01-11-90, Nyíregyháza, Videoton
+29, Erik Kusnyír, HUN, D, 1.77, 72, 07-02-00, Nizhniy Koropets, Tarpa
+37, Tamás Farkas, HUN, M, 1.77, 65, 14-07-03, Debrecen, None
+45, Tamás Batai, HUN, F, 1.87, 81, 23-01-05, -, None
+67, João Oliveira, SUI, M, 1.77, 69, 06-01-96, Nyon, Leixões
+76, Dominik Kocsis, HUN, F, 1.69, 65, 01-08-02, Nagykanizsa, Honvéd
+77, Márk Szécsi, HUN, F, 1.78, 73, 22-05-94, Eger, Puskás Akadémia
+87, Márk Engedi, HUN, G, 1.88, 89, 07-09-06, Makó, None
+94, Dušan Lagator, MNE, D, 1.90, 81, 29-03-94, Cetinje, Wisła Płock
+99, Brandon Dominguès, FRA, M, 1.72, 63, 06-06-00, Grenoble, Honvéd
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Georgios Neofytidis, GRE, M, 1.83, 71, 28-07-00, Thessaloniki, Iraklis
+23, Dorian Babunski, MKD, F, 1.85, 77, 29-08-96, Skopje, Grasshoppers
+45, Antonio Mance, CRO, F, 1.88, 77, 07-08-95, Rijeka, Zalaegerszeg
+1, Marko Milošević, SRB, G, 1.87, 81, 07-02-91, Belgrade, Borac Banja Luka
+55, Andrija Majdevac, SRB, F, 1.86, 77, 07-08-97, Kruševac, Napredak Kruševac (On Loan)
+2, Alexander Mojžiš, SVK, D, 1.83, 85, 02-01-99, Krupina, MFK Ružomberok
+31, Zsombor Bévárdi, HUN, M, 1.77, 69, 30-01-99, Siófok, Puskás Akadémia
+33, József Varga, HUN, M, 1.75, 71, 06-06-88, Debrecen, 
+89, Alexandros Kyziridis, GRE, F, 1.79, 70, 16-09-00, Skydra, Mura (On Loan)

@@ -1,0 +1,38 @@
+=  Augsburg - German Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafał Gikiewicz, POL, G, 1.90, 82, 26-10-87, Olsztyn, Union Berlin
+2, Robert Gumny, POL, D, 1.77, 61, 04-06-98, Poznań, Lech Poznań
+3, Mads Pedersen, DEN, D, 1.78, 71, 01-09-96, Hørsholm, FC Nordsjælland
+5, Marek Suchý, CZE, D, 1.82, 76, 29-03-88, Prague, Basel
+6, Jeffrey Gouweleeuw, NED, D, 1.87, 73, 10-07-91, Heemskerk, AZ Alkmaar
+7, Florian Niederlechner, GER, F, 1.87, 84, 24-10-90, Ebersberg, Freiburg
+8, Rani Khedira, GER, M, 1.85, 78, 27-01-94, Stuttgart, RB Leipzig
+11, Michael Gregoritsch, AUT, F, 1.90, 74, 18-04-94, Graz, Hamburg
+14, Jan Morávek, CZE, M, 1.79, 71, 01-11-89, Prague, Schalke
+16, Ruben Vargas, SUI, M, 1.74, 64, 05-08-98, Adligenswil, Luzern
+17, Noah-Joel Sarenren-Bazee, GER, M, 1.82, 70, 21-08-96, Celle, Hannover 96
+18, László Bénes, SVK, M, 1.73, 60, 09-09-97, Dunajská Streda, B Mönchengladbach
+19, Felix Uduokhai, GER, D, 1.92, 78, 09-09-97, Annaberg-Buchholz, Wolfsburg
+20, Daniel Caligiuri, GER, M, 1.82, 79, 15-01-88, Villingen-Schwenningen, Schalke
+22, Iago, BRA, D, 1.81, 68, 23-03-97, Monte Azul Paulista, Internacional
+23, Marco Richter, GER, M, 1.76, 74, 24-11-97, Friedberg, None
+24, Fredrik Jensen, FIN, M, 1.83, 80, 09-09-97, Porvoo, FC Twente
+25, Carlos Gruezo, ECU, M, 1.71, 67, 19-04-95, Santo Domingo, FC Dallas
+27, Alfreð Finnbogason, ISL, F, 1.84, 78, 01-02-89, Reykjavík, Real Sociedad
+28, André Hahn, GER, M, 1.85, 75, 13-08-90, Otterndorf, Hamburg
+32, Raphael Framberger, GER, D, 1.79, 73, 06-09-95, Augsburg, None
+33, Tobias Strobl, GER, M, 1.86, 72, 12-05-90, Munich, B Mönchengladbach
+35, Cheon Seong-Hoon, KOR, F, 1.90, 79, 21-09-00, Pyeongchon, Incheon U
+36, Reece Oxford, ENG, M, 1.90, 71, 16-12-98, Edmonton, West Ham U
+39, Benjamin Leneis, GER, G, 1.95, 92, 08-03-99, Munich, None
+40, Tomáš Koubek, CZE, G, 1.97, 99, 26-08-92, Hradec Králové, Rennes
+41, Tim Civeja, GER, M, 1.80, 73, 04-01-02, Dachau, None
+44, Dion Berisha, KVX, F, 1.81, 75, 09-05-03, Lyon, None
+45, Lukas Petkov, GER, M, 1.83, 75, 01-11-00, Friedberg, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Eduard Löwen, GER, M, 1.88, 91, 28-01-97, Idar-Oberstein, Hertha Berlin
+4, Felix Götze, GER, D, 1.88, 78, 11-02-98, Memmingen, Kaiserslautern (On Loan)

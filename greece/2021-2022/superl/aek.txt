@@ -1,0 +1,48 @@
+=  AEK - Greek Super League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Panagiotis Tsintotas, GRE, G, 1.92, 82, 04-07-93, Katerini, Levadiakos
+2, Michalis Bakakis, GRE, D, 1.77, 65, 18-03-91, Agrinio, Panetolikos
+3, Milad Mohammadi, IRN, D, 1.78, 79, 29-09-93, Tehran, KAA Gent
+4, Damian Szymański, POL, M, 1.81, 70, 16-06-95, Kraśnik, Akhmat Grozny
+5, Stratos Svarnas, GRE, D, 1.81, 75, 11-11-97, Athens, Xanthi
+6, Damien Le Tallec, FRA, M, 1.84, 73, 14-10-90, Poissy, Montpellier
+7, Nordin Amrabat, MAR, M, 1.79, 73, 31-03-87, Naarden, Al-Nassr
+8, André Simões, POR, M, 1.77, 71, 16-12-89, Vila Nova de Gaia, Moreirense
+9, Levi García, TRI, F, 1.76, 72, 20-11-97, Santa Flora, Beitar Jerusalem
+10, Karim Ansarifard, IRN, F, 1.86, 75, 03-04-90, Ardabil, Al-Sailiya
+11, Sergio Araujo, ARG, F, 1.80, 72, 28-01-92, Capital Federal, Las Palmas
+12, Lazaros Rota, GRE, D, 1.77, 67, 23-08-97, Katerini, Fortuna Sittard
+14, Alexander Fransson, SWE, M, 1.80, 74, 02-04-94, Norrköping, IFK Norrköping
+15, Žiga Laci, SVN, D, 1.89, 78, 20-07-02, Murska Sobota, Mura
+16, Grzegorz Krychowiak, POL, M, 1.86, 83, 29-01-90, Gryfice, FC Krasnodar
+17, Steven Zuber, SUI, M, 1.77, 68, 17-08-91, Winterthur, Eintracht Frankfurt
+18, Alexandros Parras, GRE, D, 1.80, 67, 12-05-98, -, Panetolikos
+19, Clément Michelin, FRA, D, 1.78, 63, 11-05-97, Montauban, Lens
+20, Petros Mandalos, GRE, M, 1.73, 75, 31-08-91, Komotini, Skoda Xanthi
+21, Ognjen Vranješ, BIH, D, 1.88, 82, 24-10-89, Banja Luka, Anderlecht
+22, Muamer Tanković, SWE, M, 1.79, 74, 22-02-95, Tingstad, Hammarby IF
+23, Cican Stanković, AUT, G, 1.85, 73, 04-11-92, Bijeljina, Red Bull Salzburg
+24, Gerasimos Mitoglou, GRE, D, 1.95, 85, 20-10-99, -, Volos
+25, Kostas Galanopoulos, GRE, M, 1.72, 72, 28-12-97, Athens, None
+26, Ehsan Hajsafi, IRN, M, 1.76, 74, 25-02-90, Kashan, Sepahan
+28, Yevhen Shakhov, UKR, M, 1.75, 62, 30-11-90, Dnipropetrovsk, Lecce
+30, Panagiotis Ginis, GRE, G, 1.90, 81, 23-01-99, Athens, None
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, Alanyaspor
+35, Michalis Kosidis, GRE, F, 1.91, 80, 09-02-02, Thessaloniki, None
+37, Vedad Radonja, BIH, D, 1.82, 72, 06-09-01, Sarajevo, Dinamo Zagreb
+40, Mario Mitaj, ALB, D, 1.85, 71, 06-08-03, Athens, None
+44, Anel Šabanadžović, BIH, M, 1.82, 75, 24-05-99, Jackson, Željezničar
+45, Stefanos Katsikas, GRE, D, 1.81, 78, 28-02-02, -, None
+46, Kostas Roukounakis, GRE, M, 1.83, 77, 17-07-01, Athens, Apollon Smyrnis
+52, Efthymios Christopoulos, GRE, F, 1.81, 74, 20-09-00, Patras, None
+61, Vasilis Chatziemmanouil, GRE, G, 1.88, 81, 09-08-99, Nea Makri, None
+88, Darko Jevtić, SUI, M, 1.77, 62, 08-02-93, Basel, Rubin Kazan
+99, Giorgos Theocharis, GRE, G, 1.88, 92, 10-07-02, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Hélder Lopes, POR, D, 1.79, 66, 04-01-89, Vila Nova de Gaia, Hapoel Be'er Sheva
+14, Christos Albanis, GRE, F, 1.84, 80, 05-11-94, Kalabaka, Apollon Limassol (On Loan)
+33, Oleh Danchenko, UKR, D, 1.78, 64, 01-08-94, Zaporizhya, Zorya Luhansk (On Loan)

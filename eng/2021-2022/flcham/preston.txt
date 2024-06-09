@@ -1,0 +1,51 @@
+=  Preston North End - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Sepp van den Berg, NED, D, 1.90, 78, 20-12-01, Zwolle, Liverpool
+3, Greg Cunningham, IRL, D, 1.83, 73, 31-01-91, Galway, Cardiff C
+4, Ben Whiteman, ENG, M, 1.85, 68, 17-06-96, Rochdale, Doncaster R
+5, Patrick Bauer, GER, D, 1.92, 84, 28-10-92, Backnang, Charlton Ath
+6, Liam Lindsay, SCO, D, 1.93, 79, 12-10-95, Glasgow, Stoke C
+8, Alan Browne, IRL, M, 1.73, 71, 15-04-95, Cork, Cork C
+9, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, Fleetwood T
+11, Daniel Johnson, JAM, M, 1.74, 67, 08-10-92, Kingston, Aston Villa
+12, Daniel Iversen, DEN, G, 1.93, 80, 19-07-97, Gørding, Leicester C
+13, Ali McCann, NIR, M, 1.76, 64, 04-12-99, Edinburgh, St Johnstone
+15, Joe Rafferty, IRL, D, 1.84, 75, 06-10-93, Liverpool, Rochdale
+16, Andrew Hughes, WAL, D, 1.83, 75, 05-06-92, Cardiff, Peterborough U
+17, Lewis Leigh, ENG, M, -, -, 05-12-03, -, None
+18, Ryan Ledson, ENG, M, 1.75, 69, 19-08-97, Liverpool, Oxford U
+19, Emil Riis Jakobsen, DEN, F, 1.90, 83, 24-06-98, Hobro, Randers
+20, Isaiah Brown, ENG, F, 1.82, 70, 07-01-97, Peterborough, Chelsea
+21, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Aston Villa
+22, Matthew Olosunde, USA, D, 1.86, 72, 07-03-98, Philadelphia, Rotherham U
+23, Paul Huntington, ENG, D, 1.91, 80, 17-09-87, Carlisle, Yeovil T
+24, Seán Maguire, IRL, F, 1.75, 75, 01-05-94, Luton, Cork C
+25, Connor Ripley, ENG, G, 1.80, 76, 13-02-93, Middlesbrough, Middlesbrough
+27, Jacob Holland-Wilkinson, ENG, F, -, -, 30-10-02, Bury, None
+28, Mathew Hudson, ENG, G, 1.93, 70, 29-07-98, Southport, None
+29, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, Morecambe
+30, Jack Baxter, ENG, M, 1.78, 72, 27-10-00, Chorley, None
+31, Scott Sinclair, ENG, M, 1.75, 64, 25-03-89, Bath, Celtic
+32, Josh Earl, ENG, D, 1.93, 78, 24-10-98, Southport, None
+33, Ethan Walker, ENG, F, 1.84, 69, 28-07-02, Preston, None
+34, Lewis Coulton, SCO, D, -, -, 03-03-03, Chorley, None
+35, Oliver Lombard, ENG, G, -, -, 06-01-03, Chorley, None
+36, Noah Mawene, ENG, M, -, -, 01-02-05, Preston, None
+37, Josh Seary, IRL, D, -, -, 10-09-04, Liverpool, None
+38, Joe Rodwell-Grant, ENG, F, -, -, 18-10-02, Blackburn, None
+39, Mikey O'Neill, ENG, M, -, -, 08-06-04, Liverpool, None
+41, Bambo Diaby, ESP, D, 1.86, 76, 17-12-97, Mataró, Barnsley
+44, Brad Potts, ENG, M, 1.88, 81, 03-07-94, Hexham, Barnsley
+45, Josh Murphy, ENG, M, 1.73, 67, 24-02-95, Wembley, Cardiff C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Tom Bayliss, ENG, M, 1.83, 78, 06-04-99, Leicester, Wigan Ath (On Loan)
+21, Connor Wickham, ENG, F, 1.89, 90, 31-03-93, Hereford, MK Dons
+14, Jordan Storey, ENG, D, 1.88, 75, 02-09-97, Yeovil, Sheffield W (On Loan)
+26, Adam O'Reilly, IRL, M, 1.68, 60, 11-05-01, Cork, St Patrick's Ath (On Loan)
+40, Jamie Thomas, WAL, F, 1.78, 70, 10-01-97, Blackpool, FC Halifax T (On Loan)
+10, Josh Harrop, ENG, M, 1.75, 70, 15-12-95, Stockport, Fleetwood T (On Loan)
+1, Declan Rudd, ENG, G, 1.91, 75, 16-01-91, Diss, Retired

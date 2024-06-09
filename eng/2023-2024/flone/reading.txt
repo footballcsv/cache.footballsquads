@@ -1,0 +1,65 @@
+=  Reading - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, WBA
+2, Clinton Mola, ENG, M, 1.83, 78, 15-02-01, Camden, Stuttgart
+3, Tom Holmes, ENG, D, 1.84, 82, 12-03-00, Ealing, Luton T
+4, Ben Elliott, CMR, M, 1.80, 71, 05-12-02, Kingston upon Thames, Chelsea
+6, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Birmingham C
+7, Harvey Knibbs, ENG, F, 1.74, 71, 26-04-99, Bristol, Cambridge U
+8, Charlie Savage, WAL, M, 1.82, 74, 02-05-03, Leicester, Manchester U
+9, Dominic Ballard, ENG, F, -, -, 01-04-05, -, Southampton
+10, Sam Smith, ENG, F, 1.81, 73, 08-03-98, Manchester, Cambridge U
+11, Femi Azeez, ENG, M, 1.81, 69, 05-06-01, Westminster, Wealdstone
+12, Paul Mukairu, NGA, M, 1.82, 75, 18-01-00, Abuja, FC København
+14, Zane Monlouis, ENG, D, -, -, 16-10-03, Lewisham, Arsenal
+15, Kelvin Ehibhatiomhan, ENG, F, -, -, 23-04-03, Benin City, None
+17, Andy Yiadom, GHA, D, 1.80, 75, 02-12-91, Camden, Barnsley
+19, Jayden Wareham, ENG, F, -, -, 13-05-03, Ascot, Chelsea
+20, Jeriel Dorsett, ENG, D, -, -, 04-05-02, Enfield, None
+22, Joel Pereira, POR, G, 1.88, 70, 28-06-96, Boudevilliers, RKC Waalwijk
+23, Sam Hutchinson, ENG, D, 1.80, 73, 03-08-89, Slough, Sheffield W
+24, Tyler Bindon, USA, D, -, -, 27-01-05, -, Los Angeles FC
+27, Amadou Mbengue, SEN, M, -, -, 05-01-02, -, Metz
+28, Mamadi Camara, GNB, F, -, -, 31-12-03, -, None
+29, Lewis Wing, ENG, M, 1.75, 70, 23-05-95, Newton Aycliffe, Wycombe W
+30, Kelvin Abrefa, ENG, D, -, -, 09-12-03, -, None
+31, Coniah Boyce-Clarke, JAM, G, -, -, 01-03-03, Reading, None
+33, John Clarke, IRL, D, -, -, -, -, Port Vale
+35, Jack Senga-Ngoyi, BEL, D, -, -, 27-01-04, -, None
+36, Michael Craig, SCO, M, -, -, 16-04-03, Barnet, Tottenham H
+37, Adrian Akande, NGA, F, -, -, 22-10-03, -, Swansea C
+38, Michael Stickland, ENG, D, -, -, 24-08-02, -, None
+39, Jahmari Clarke, JAM, F, 1.91, 86, 17-08-03, Brent, None
+40, Tivonge Rushesha, WAL, D, 1.61, 53, 24-07-02, -, Swansea C
+41, Harvey Collins, ENG, G, -, -, 05-11-02, -, None
+43, Hamid Abdel Salam, ENG, D, -, -, 19-10-03, -, None
+44, Sam Paul, ENG, D, -, -, 13-10-03, -, None
+45, Ben Purcell, WAL, M, -, -, 25-08-04, -, None
+46, Jacob Borgnis, ENG, M, -, -, 05-05-03, -, None
+47, Matt Carson, NIR, D, -, -, 29-04-04, -, Reading
+48, Basil Tuma, MLT, F, -, -, 24-04-05, -, Fulham
+49, Geneiro Maragh, ENG, D, -, -, 03-02-03, -, None
+50, Ajani Giscombe, ENG, M, -, -, 12-05-04, -, None
+51, Matt Rowley, ENG, G, -, -, 30-07-04, -, None
+52, Harvey Maudner, ENG, F, -, -, 22-06-04, -, None
+54, Jeremiah Okine-Peters, ENG, F, -, -, -, -, None
+56, Billie Clark, ENG, F, -, -, 19-07-04, -, Brighton & HA
+57, John Ryan, IRL, D, -, -, 21-01-04, -, Sassuolo
+58, Charlie Wellens, ENG, D, 1.75, 61, 05-12-02, Salford, Manchester U
+59, Ashqar Ahmed, ENG, D, -, -, -, -, None
+60, Harrison Rhone, ENG, G, -, -, 25-03-06, -, None
+61, Tom Norcott, ENG, G, -, -, 03-01-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Carlisle U (On Loan)
+21, Dean Bouzanis, AUS, G, 1.85, 84, 02-10-90, Sydney, Sutton U (On Loan)
+9, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, Amiens
+14, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, 
+18, Nesta Guinness-Walker, ENG, D, 1.75, 70, 30-11-99, Hounslow, Stevenage (On Loan)
+32, Nelson Abbey, ENG, D, -, -, 28-08-03, -, Olympiakos
+5, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, Portsmouth
+42, Caylan Vickers, ENG, F, -, -, 22-12-04, -, Brighton & HA
+55, Taylan Harris, ENG, F, -, -, 30-10-05, -, Luton T

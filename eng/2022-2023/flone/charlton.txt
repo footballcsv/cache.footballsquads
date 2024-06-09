@@ -1,0 +1,61 @@
+=  Charlton Athletic - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jojo Wollacott, GHA, G, 1.90, 80, 08-09-96, Bristol, Swindon T
+2, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, Fulham
+3, Terell Thomas, LCA, D, 1.83, 71, 18-10-95, Redbridge, Reading
+4, George Dobson, ENG, M, 1.85, 73, 15-11-97, Harold Wood, Sunderland
+6, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Fulham
+8, Macauley Bonne, ZIM, F, 1.80, 76, 26-10-95, Ipswich, QPR
+10, Albie Morgan, ENG, M, 1.81, 68, 02-02-00, Portsmouth, None
+15, Gavin Kilkenny, IRL, M, 1.70, 64, 01-02-00, Dublin, Bournemouth
+16, Todd Kane, ENG, D, 1.80, 70, 17-09-93, Huntingdon, Coventry C
+17, Jesuran Rak-Sakyi, ENG, M, 1.78, 65, 05-10-02, Southwark, Crystal Palace
+18, Mandela Egbo, ENG, D, 1.80, 70, 17-08-97, Brent, Swindon T
+19, Jack Payne, ENG, M, 1.65, 60, 25-10-94, Tower Hamlets, Swindon T
+21, Scott Fraser, SCO, M, 1.83, 69, 30-03-95, Dundee, Ipswich T
+22, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Birmingham C
+23, Corey Blackett-Taylor, ENG, F, 1.70, 67, 23-09-97, Birmingham, Tranmere R
+24, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace
+26, Matt Penney, ENG, D, 1.72, 64, 11-02-98, Chesterfield, Ipswich T
+28, Sean Clare, ENG, D, 1.90, 79, 18-09-96, Sheffield, Oxford U
+30, Nathan Harness, ENG, G, 1.85, 68, 19-01-00, Hatfield, West Ham U
+31, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, ECU Joondalup
+32, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, None
+33, Miles Leaburn, ENG, F, 1.96, 80, 28-11-03, Bromley, None
+34, Lucas Ness, ENG, D, 1.90, 79, 07-02-02, Kingston upon Thames, Metropolitan Police
+35, Daniel Kanu, ENG, F, -, -, 14-11-04, -, None
+36, Richard Chin, ENG, M, -, -, 15-10-02, -, None
+37, Euan Williams, NIR, M, -, -, 15-01-03, -, None
+38, Charlie Barker, ENG, D, 1.80, 74, 12-02-03, Rotherham, None
+39, Sam Oguntayo, IRL, D, -, -, 28-08-02, -, None
+40, Nazir Bakrin, ENG, M, -, -, 23-10-02, -, None
+41, Ahmed Kone, ENG, G, -, -, 21-10-04, -, None
+42, Matt Dench, AUS, M, -, -, 08-12-03, -, None
+43, Tyreece Campbell, ENG, M, 1.78, 65, 14-09-03, Southwark, None
+44, Tolu Ladapo, ENG, F, -, -, 21-03-04, -, None
+45, Karoy Anderson, ENG, M, -, -, 01-10-04, -, None
+46, Harris O'Connor, SCO, D, -, -, 28-05-02, -, Rangers
+47, Toby Bower, ENG, D, -, -, 17-04-05, -, None
+48, Zach Mitchell, ENG, D, 1.85, 70, 09-01-05, Bromley, None
+49, Patrick Casey, IRL, F, -, -, 19-12-05, -, None
+50, Henry Rylah, ENG, M, -, -, 18-11-05, -, None
+52, Nathan Asiimwe, UGA, D, -, -, 29-12-04, -, None
+53, Seydil Toure, CZE, D, -, -, 24-02-04, -, None
+54, Harvey Kedwell, ENG, M, -, -, 19-12-04, -, None
+55, Jacob Roddy, ENG, D, -, -, 10-04-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, Stevenage (On Loan)
+8, Jake Forster-Caskey, ENG, M, 1.78, 64, 25-04-94, Southend, Stevenage
+13, Craig MacGillivray, ENG, G, 1.88, 78, 12-01-93, Harrogate, Burton Alb
+12, Conor McGrandles, SCO, M, 1.83, 73, 24-09-95, Falkirk, Cambridge U (On Loan)
+9, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Fleetwood T
+5, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Burton Alb (On Loan)
+6, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Wrexham
+7, Diallang Jaiyesimi, ENG, M, 1.81, 72, 18-03-99, Southwark, AFC Wimbledon (On Loan)
+14, Charlie Kirk, ENG, M, 1.70, 70, 24-12-97, Winsford, Burton Alb (On Loan)
+27, Deji Elerewe, ENG, D, 1.91, 85, 14-09-03, Croydon, Bromley (On Loan)
+29, Charles Clayden, ENG, M, 1.73, 67, 16-11-00, Havering, Wealdstone

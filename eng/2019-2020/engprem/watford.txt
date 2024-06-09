@@ -1,0 +1,53 @@
+=  Watford - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.97, 95, 15-02-81, João Pinheiro, Tottenham H
+2, Daryl Janmaat, NED, D, 1.85, 80, 22-07-89, Leidschendam, Newcastle U
+4, Craig Dawson, ENG, D, 1.88, 85, 06-05-90, Rochdale, WBA
+6, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Crystal Palace
+7, Gerard Deulofeu, ESP, F, 1.77, 73, 13-03-94, Riudarenes, Barcelona
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+9, Troy Deeney, ENG, F, 1.85, 101, 29-06-88, Birmingham, Walsall
+10, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, Arsenal
+11, Adam Masina, ITA, D, 1.91, 87, 02-01-94, Khouribga, Bologna
+13, Adalberto Peñaranda, VEN, F, 1.85, 78, 31-05-97, El Vigia, Udinese
+14, Nathaniel Chalobah, ENG, M, 1.87, 80, 12-12-94, Freetown, Chelsea
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+16, Abdoulaye Doucouré, FRA, M, 1.84, 76, 01-01-93, Meulan-en-Yvelines, Rennes
+17, João Pedro, BRA, F, 1.82, 70, 26-09-01, Ribeirão Preto, Fluminense
+18, Andre Gray, ENG, F, 1.78, 83, 26-06-91, Wolverhampton, Burnley
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, Derby Co
+20, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, West Ham U
+21, Kiko Femenía, ESP, M, 1.74, 61, 02-02-91, Sanet y Negrals, Alavés
+22, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Granada
+23, Ismaïla Sarr, SEN, F, 1.78, 68, 25-02-98, Saint-Louis, Rennes
+24, Tom Dele-Bashiru, NGA, M, 1.79, 68, 17-09-99, Manchester, Manchester C
+25, José Holebas, GRE, D, 1.85, 81, 27-06-84, Aschaffenburg, Roma
+26, Ben Foster, ENG, G, 1.93, 90, 03-04-83, Leamington, WBA
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+29, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Tottenham H
+33, Ignacio Pussetto, ARG, F, 1.80, 74, 21-12-95, Cañada Rosquín, Udinese
+35, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Stoke C
+37, Roberto Pereyra, ARG, M, 1.82, 77, 07-01-91, San Miguel de Tucumán, Juventus
+40, Sam Dalby, ENG, F, 1.91, 78, 17-01-00, Leytonstone, Leeds U
+41, Mason Barrett, ENG, D, 1.90, 79, 24-09-99, Redbridge, West Ham U
+42, Callum Whelan, ENG, M, 1.76, 71, 24-09-98, Barnsley, Manchester U
+44, Joseph Hungbo, ENG, M, 1.73, 70, 15-01-00, Lambeth, Crystal Palace
+45, Jamal Balogun, ENG, D, , , 18-01-00, , Reading
+46, Henry Wise, ENG, M, , , 01-01-00, , Derby Co
+47, Adam Parkes, ENG, G, 1.85, 75, 30-11-99, Weymouth, Southampton
+51, Bayli Spencer-Adams, ENG, D, , , 26-06-01, Waltham Forest, Arsenal
+53, Kaylen Hinds, ENG, F, 1.85, 68, 28-01-98, Brent, Wolfsburg
+58, Jayden Bennetts, ENG, M, , , 26-06-01, Barnet, None
+60, Dante Baptiste, ENG, G, 1.87, 71, 07-02-02, Westminster, Norwich C
+72, Andi Janjeva, KVX, D, , , 11-10-02, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Ken Sema, SWE, M, 1.77, 69, 30-09-93, Norrköping, Udinese (On Loan)
+33, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Udinese
+36, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Granada (On Loan)
+5, Sebastian Prödl, AUT, D, 1.96, 97, 21-06-87, Graz, Udinese
+30, Pontus Dahlberg, SWE, G, 1.94, 84, 21-01-99, Gothenburg, FC Emmen (On Loan)
+17, Adalberto Peñaranda, VEN, F, 1.85, 78, 31-05-97, El Vigia, Re-Registered (13)

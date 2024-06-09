@@ -1,0 +1,45 @@
+=  Panetolikos - Greek Super League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Rodríguez, ARG, G, 1.84, 80, 25-06-89, Capital Federal, Defensa y Justicia
+2, Kostas Apostolakis, GRE, D, 1.78, 74, 28-05-99, Athens, APOEL
+3, Diamantis Chouchoumis, GRE, D, 1.78, 75, 17-07-94, Aliveri, Apollon Smyrnis
+4, Fabien Antunes, FRA, D, 1.83, 78, 19-11-91, Paris, KVC Westerlo
+5, Branko Vrgoč, CRO, D, 1.94, 80, 18-12-89, Osijek, Anorthosis Famagusta
+6, Ivan Varone, ITA, M, 1.84, 74, 11-10-92, Naples, Reggiana
+7, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, ADO Den Haag
+8, Brian Lluy, ARG, D, 1.69, 68, 25-04-89, Pergamino, Platense
+9, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, Panathinaikos
+10, Hélder Barbosa, POR, M, 1.72, 67, 25-05-87, Paredes, Hatayspor
+11, Jorge Díaz, ESP, F, 1.68, 72, 28-06-89, Montevideo, Zaragoza
+13, Derek Cornelius, CAN, D, 1.88, 86, 25-11-97, Ajax, Vancouver Whitecaps
+14, Federico Duarte, POR, M, 1.75, 66, 30-03-99, Lisbon, Vilafranquense
+16, Jacob Une Larsson, SWE, D, 1.80, 74, 08-04-94, Stockholm, Djurgårdens IF
+17, Johan Mårtensson, SWE, M, 1.80, 72, 16-02-89, Skövde, Örebro SK
+18, Christos Belevonis, GRE, M, 1.83, 63, 29-07-02, Heraklion, None
+20, Deybi Flores, HON, M, 1.83, 68, 16-06-96, San Pedro Sula, Olimpia [HON]
+21, Elías Pereyra, ARG, D, 1.72, 68, 15-02-99, La Matanza, San Lorenzo
+22, Nikos Melissas, GRE, G, 1.82, 75, 24-02-93, Thessaloniki, PAOK
+23, Nadrey Dago, CIV, F, 1.76, 69, 07-05-97, Attécoubé, Sheriff Tiraspol
+25, Jonathan Morsay, SWE, M, 1.77, 75, 05-10-97, Sundsvall, Chievo Verona
+26, Michalis Pardalos, GRE, G, -, -, 02-03-01, -, None
+30, Javier Mendoza, ARG, M, 1.71, 68, 02-09-92, Tartagal, Instituto (Córdoba)
+35, Vasilis Skiadas, GRE, D, -, -, 25-06-02, -, None
+37, Angelos Tsigaras, GRE, M, 1.73, 73, 24-07-99, Portaria, None
+45, Gerasimos Bakadimas, GRE, D, -, -, 06-06-00, -, Anagennisi Karditsa
+47, Alexandros Malis, GRE, D, 1.82, 75, 19-03-97, Agrinio, None
+54, Giorgos Liavas, GRE, D, 1.81, 72, 12-02-01, Archontochori, None
+91, Giannis Anestis, GRE, G, 1.97, 89, 09-03-91, Chalkida, IFK Göteborg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Vangelis Kontogiannis, GRE, G, -, -, 09-01-02, -, Panagriniakos (On Loan)
+19, Alexandros Kavvadias, GRE, F, -, -, 10-05-00, -, Egaleo (On Loan)
+23, Spyros Skondras, GRE, F, -, -, 06-04-01, -, Episkopi (On Loan)
+39, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Esteghlal
+41, Stathis Belevonis, GRE, M, 1.72, 64, 06-02-98, -, Kavala (On Loan)
+24, Dimitrios Fytopoulos, GRE, M, -, -, 11-02-00, -, Neuhof
+97, Giorgos Manthatis, GRE, M, 1.82, 75, 11-05-97, Athens, Kallithea
+98, Aristotelis Karasalidis, GRE, D, 1.86, 83, 03-05-91, Thessaloniki, Panserraikos
+99, Edin Cocalić, BIH, D, 1.89, 83, 05-12-87, Višegrad, Željezničar

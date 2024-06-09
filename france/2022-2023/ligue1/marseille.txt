@@ -1,0 +1,42 @@
+=  Marseille - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simon Ngapandouetnbu, CMR, G, 1.80, 76, 12-04-03, Foumban, None
+3, Eric Bailly, CIV, D, 1.87, 77, 12-04-94, Abidjan, Manchester U
+4, Samuel Gigot, FRA, D, 1.87, 83, 12-10-93, Avignon, Spartak Moscow
+5, Leonardo Balerdi, ARG, D, 1.85, 85, 26-01-99, Villa Mercedes, Borussia Dortmund
+6, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, Arsenal
+7, Jonathan Clauss, FRA, D, 1.85, 70, 25-09-92, Osthoffen, Lens
+8, Azzedine Ounahi, MAR, M, 1.82, 72, 19-04-00, Casablanca, Angers
+9, Vitinha, POR, F, 1.78, 74, 15-03-00, Cabeceiras de Basto, Sporting Braga
+10, Dimitri Payet, FRA, M, 1.74, 70, 29-03-87, St-Pierre de la Réunion, West Ham U
+16, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Roma
+17, Cengiz Ünder, TUR, M, 1.73, 66, 14-07-97, Balıkesir, Roma
+18, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, Atalanta
+21, Valentin Rongier, FRA, M, 1.72, 66, 07-12-94, Mâcon, Nantes
+23, Sead Kolašinac, BIH, D, 1.83, 82, 20-06-93, Karlsruhe, Arsenal
+27, Jordan Veretout, FRA, M, 1.77, 67, 01-03-93, Ancenis, Roma
+29, Issa Kaboré, BFA, D, 1.80, 70, 12-05-01, Bobo-Dioulasso, Manchester C
+30, Nuno Tavares, POR, D, 1.83, 75, 26-01-00, Lisbon, Arsenal
+36, Rubén Blanco, ESP, G, 1.88, 70, 25-07-95, Vigo, Celta Vigo
+42, Yakine Said M'Madi, COM, D, 1.83, 78, 11-03-04, Marseille, None
+47, Bartuğ Elmaz, TUR, M, 1.79, 67, 19-02-03, Tekirdağ, Galatasaray
+70, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Internazionale
+77, Amine Harit, MAR, M, 1.79, 66, 18-06-97, Pontoise, Schalke
+99, Chancel Mbemba, COD, D, 1.82, 80, 08-08-94, Kinshasa, FC Porto
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Pol Lirola, ESP, D, 1.83, 76, 13-08-97, Mollet del Vallès, Elche (On Loan)
+20, Konrad de la Fuente, USA, F, 1.70, 63, 16-07-01, Miami, Olympiakos (On Loan)
+9, Arkadiusz Milik, POL, F, 1.86, 78, 28-02-94, Tychy, Juventus (On Loan)
+15, Duje Ćaleta-Car, CRO, D, 1.88, 81, 17-09-96, Šibenik, Southampton
+19, Jordan Amavi, FRA, D, 1.76, 70, 09-03-94, Toulon, Getafe (On Loan)
+13, Cédric Bakambu, COD, F, 1.82, 73, 11-04-91, Vitry-Sur-Seine, Olympiakos
+11, Luis Suárez, COL, F, 1.85, 74, 02-12-97, Santa Marta, Almería (On Loan)
+8, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Flamengo
+18, Isaak Touré, FRA, D, 1.90, 75, 28-03-03, Gonesse, Auxerre (On Loan)
+32, Salim Ben Seghir, FRA, F, 1.74, 57, 24-02-03, Saint-Tropez, Valenciennes (On Loan)
+12, Bamba Dieng, SEN, F, 1.78, 72, 23-03-00, Diourbel, Lorient
+22, Pape Gueye, SEN, M, 1.87, 65, 24-01-99, Montreuil, Sevilla (On Loan)

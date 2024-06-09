@@ -1,0 +1,50 @@
+=  Olympiakos - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexandros Paschalakis, GRE, G, 1.93, 90, 28-07-89, Athens, PAOK
+3, Francisco Ortega, ARG, D, 1.80, 76, 19-03-99, Santa Fe, Vélez Sarsfield
+4, Mady Camara, GUI, M, 1.82, 75, 28-02-97, Matam, Ajaccio
+5, André Horta, POR, M, 1.67, 57, 07-11-96, Almada, Sporting Braga
+6, Chiquinho, POR, M, 1.74, 66, 19-07-95, Santo Tirso, Benfica
+7, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Kaiserslautern
+8, Vicente Iborra, ESP, M, 1.90, 76, 16-01-88, Moncada, Villarreal
+9, Ayoub El Kaabi, MAR, F, 1.82, 79, 26-06-93, Casablanca, Al-Sadd
+10, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Monaco
+11, Youssef El Arabi, MAR, F, 1.83, 70, 03-02-87, Caen, Al-Duhail
+12, Algassime Bah, GUI, F, 1.82, 75, 12-11-02, -, Renaissance FC
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Levante
+15, Sotiris Alexandropoulos, GRE, M, 1.83, 71, 26-11-01, Marousi, Sporting CP
+16, David Carmo, POR, D, 1.96, 82, 19-07-99, Aveiro, FC Porto
+17, Jovane Cabral, CPV, F, 1.76, 68, 14-06-98, Assomada, Sporting CP
+18, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, Granada
+19, Giorgos Masouras, GRE, M, 1.84, 78, 30-11-93, Amfilochia, Panionios
+20, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Nottingham F
+22, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Hertha Berlin
+23, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, Flamengo
+27, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Nottingham F
+29, Fran Navarro, ESP, F, 1.80, 73, 03-02-98, Pinedo, FC Porto
+32, Santiago Hezze, ARG, M, 1.77, 72, 22-10-01, Capital Federal, Huracán
+36, Nelson Abbey, ENG, D, -, -, 28-08-03, -, Reading
+41, Giulian Biancone, FRA, D, 1.87, 83, 31-03-00, Fréjus, Nottingham F
+45, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Verona
+56, Daniel Podence, POR, F, 1.60, 58, 21-10-95, Oeiras, Wolverhampton W
+74, Andreas Ntoi, GRE, D, 1.90, 85, 02-02-03, Athens, None
+77, Ivan Brnić, CRO, M, 1.75, 68, 23-08-01, Split, Maribor
+88, Konstantinos Tzolakis, GRE, G, 1.93, 85, 08-11-02, Chania, Platanias
+99, Thanos Papadoudis, GRE, G, -, -, 06-07-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Andreas Bouhalakis, GRE, M, 1.86, 82, 05-04-93, Heraklion, Hertha Berlin
+24, Ousseynou Ba, SEN, D, 1.92, 84, 11-11-95, Dakar, İstanbul Başakşehir (On Loan)
+6, Hwang In-Beom, KOR, M, 1.77, 70, 20-09-96, Daejeon, Crvena Zvezda
+66, Pape Abou Cissé, SEN, D, 1.97, 83, 14-09-95, Pikine, Adana Demirspor
+10, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Nottingham F
+14, Thanasis Androutsos, GRE, D, 1.82, 75, 06-05-97, Athens, Osnabrück
+98, Ola Solbakken, NOR, F, 1.86, 82, 07-09-98, Melhus, Roma
+16, Nicolás Freire, ARG, D, 1.86, 80, 18-01-94, Santa Lucía, UNAM
+17, Marios Vrousai, ALB, M, 1.83, 78, 02-07-98, Nafpaktos, Rio Ave (On Loan)
+25, Jackson Porozo, ECU, D, 1.92, 84, 04-08-00, San Lorenzo [ECU], Troyes
+21, Pep Biel, ESP, M, 1.67, 64, 05-09-96, Sant Joan, Augsburg (On Loan)
+22, Ramon, BRA, D, 1.79, 70, 13-03-01, São João de Meriti, Cuiabá (On Loan)

@@ -1,0 +1,66 @@
+=  Southampton - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, Crystal Palace
+3, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, VVV Venlo
+4, Jannik Vestergaard, DEN, D, 1.97, 96, 03-08-92, Copenhagen, B Mönchengladbach
+5, Jack Stephens, ENG, D, 1.85, 75, 27-01-94, Torpoint, Plymouth Arg
+7, Shane Long, IRL, F, 1.78, 70, 22-01-87, Kilkenny, WBA
+9, Danny Ings, ENG, F, 1.78, 73, 16-03-92, Winchester, Liverpool
+10, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, QPR
+11, Mohamed Elyounoussi, NOR, F, 1.78, 70, 04-08-94, Al Hoceima, Basel
+14, Oriol Romeu, ESP, M, 1.83, 83, 24-09-91, Ulldecona, Chelsea
+15, Sam Gallagher, ENG, F, 1.93, 75, 15-09-95, Crediton, Plymouth Arg
+16, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, None
+17, Stuart Armstrong, SCO, M, 1.83, 75, 30-03-92, Inverness, Celtic
+18, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Juventus
+21, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Chelsea
+22, Nathan Redmond, ENG, M, 1.73, 69, 06-03-94, Birmingham, Norwich C
+23, Pierre-Emile Højbjerg, DEN, M, 1.85, 84, 05-08-95, Copenhagen, Bayern Munich
+28, Angus Gunn, ENG, G, 1.96, 77, 22-01-96, Bolton, Manchester C
+32, Alfie Jones, ENG, D, 1.91, 70, 07-10-97, Bristol, None
+33, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, None
+35, Jan Bednarek, POL, D, 1.89, 77, 12-04-96, Słupca, Lech Poznań
+39, Josh Sims, ENG, M, 1.74, 67, 28-03-97, Yeovil, Portsmouth
+41, Harry Lewis, ENG, G, 1.91, 77, 20-12-97, Shrewsbury, Shrewsbury T
+43, Yan Valery, FRA, D, 1.80, 85, 22-02-99, Champigny-sur-Marne, Rennes
+44, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Celtic
+47, Will Ferry, IRL, F, 1.75, 70, 07-12-00, Wigan, Bury
+48, Kornelius Hansen, NOR, M, 1.75, 75, 06-05-01, Larvik, Fram Larvik
+49, Thomas O'Connor, IRL, M, 1.80, 70, 21-04-99, Kilkenny, New Ross Celtic
+51, Tyreke Johnson, ENG, M, 1.72, 66, 03-11-98, Swindon, Swindon T
+52, Dan N'Lundulu, ENG, F, 1.80, 75, 05-02-99, Paris, Chelsea
+54, Christoph Klarer, AUT, D, 1.91, 82, 14-06-00, Böheimkirchen, Rapid Vienna
+55, Callum Slattery, ENG, M, 1.75, 70, 08-02-99, Oxford, None
+57, Jake Vokins, ENG, D, 1.80, 70, 17-03-00, Oxford, None
+58, Aaron O'Driscoll, IRL, M, 1.88, 80, 04-04-99, Dublin, Manchester C
+59, Jonathan Afolabi, IRL, F, 1.76, 70, 14-01-00, Dublin, None
+60, Will Smallbone, IRL, M, 1.73, 61, 21-02-00, Basingstoke, None
+61, Michael Obafemi, IRL, F, 1.69, 71, 06-07-00, Dublin, Leyton Orient
+62, Jack Rose, ENG, G, 1.83, 75, 31-01-95, Solihull, WBA
+64, Nathan Tella, ENG, M, 1.73, 70, 05-07-99, Lambeth, Arsenal
+65, Marcus Barnes, ENG, F, 1.85, 72, 01-12-96, Reading, Wolverhampton W
+66, Kayne Ramsay, ENG, D, 1.79, 66, 10-10-00, Hackney, Chelsea
+67, Alex Cull, ENG, G, , , 02-06-00, , None
+68, Harlem Hale, ENG, F, , , 04-02-00, , Chelsea
+69, Enzo Robise, FRA, F, 1.67, 60, 22-05-01, Mantes-la-Ville, Reims
+70, Harry Hamblin, ENG, M, , , 13-10-99, , None
+71, Jamie Bradley-Green, ENG, D, , , 20-10-99, , Chelsea
+73, Alex Jankewitz, SUI, M, 1.79, 70, 25-12-01, Vevey, Servette
+74, Christian Norton, WAL, F, , , 21-05-01, Westminster, None
+75, Allan Tchaptchet, FRA, D, , , 21-12-01, Besançon, Entente SSG
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+63, Harrison Davis, ENG, D, , , 25-10-99, Plymouth, Tiverton T (On Loan)
+19, Harrison Reed, ENG, M, 1.81, 72, 27-01-95, Worthing, Blackburn R (On Loan)
+12, Sam McQueen, ENG, M, 1.81, 70, 06-02-95, Southampton, Middlesbrough (On Loan)
+8, Steven Davis, NIR, M, 1.73, 70, 01-01-85, Ballymena, Rangers (On Loan)
+20, Manolo Gabbiadini, ITA, F, 1.81, 72, 26-11-91, Calcinate, Sampdoria
+50, Ben Rowthorn, ENG, D, , , 21-11-98, , Truro C (On Loan)
+6, Wesley Hoedt, NED, D, 1.88, 77, 06-03-94, Alkmaar, Celta Vigo (On Loan)
+56, Adam Parkes, ENG, G, 1.85, 75, 30-11-99, Weymouth, Watford
+2, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Internazionale (On Loan)
+42, Jake Hesketh, ENG, M, 1.68, 63, 27-03-96, Southampton, MK Dons (On Loan)
+72, Siphesihle Mdlalose, RSA, F, , , 28-01-99, , Salisbury (On Loan)

@@ -1,0 +1,42 @@
+=  Aris - Greek Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Apostolos Martinis, GRE, D, 1.83, 76, 08-01-01, -, Olympiakos
+5, Giorgos Delizisis, GRE, D, 1.91, 82, 01-12-87, Kozani, Apollon Smyrnis
+6, James Jeggo, AUS, M, 1.79, 66, 12-02-92, Vienna, Austria Vienna
+7, Daniel Mancini, ARG, M, 1.72, 72, 11-11-96, Tránsito, Bordeaux
+8, Lerin Duarte, NED, M, 1.68, 65, 11-08-90, Rotterdam, Heracles Almelo
+9, Dimitris Manos, GRE, F, 1.79, 79, 16-09-94, Trikala, Olympiakos
+10, Mateo García, ARG, M, 1.67, 55, 10-09-96, Córdoba, Crvena Zvezda
+14, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Marseille
+16, Bruno Gama, POR, M, 1.75, 73, 15-11-87, Vila Verde, Alcorcón
+17, Xande Silva, POR, F, 1.77, 60, 16-03-97, Lisbon, West Ham U
+18, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Aldosivi (Mar del Plata)
+20, Ergys Kaçe, ALB, M, 1.61, 60, 08-07-93, Korça, PAOK
+21, Daniel Sundgren, SWE, D, 1.78, 70, 22-11-90, Solna, AEK
+22, Cristian Ganea, ROU, D, 1.76, 73, 24-05-92, Bistrița, Athletic Bilbao
+23, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Wisła Kraków
+25, Christos Marmaridis, GRE, D, 1.67, 60, 25-05-02, Thessaloniki, PAOK
+26, Javier Matilla, ESP, M, 1.76, 72, 01-01-88, Ciudad Real, Nàstic
+27, Panagiotis Sengergis, GRE, D, -, -, 23-06-01, -, None
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Nottingham F
+30, Zacharie Boucher, FRA, G, 1.80, 74, 07-03-92, St Pierre, Auxerre
+38, Petros Bakoutsis, GRE, M, 1.80, 72, 29-06-01, Thessaloniki, None
+40, Petros Bagalianis, GRE, D, -, -, 06-02-01, Nea Kallikrateia, None
+44, Nicholas Ioannou, CYP, D, 1.83, 75, 10-11-95, Limassol, Nottingham F
+66, Emanuel Sakic, AUT, D, 1.77, 74, 25-01-91, Vienna, Sturm Graz
+77, Bruno, BRA, F, 1.79, 70, 26-05-94, São Paulo, Olympiakos
+88, Lucas Sasha, BRA, M, 1.77, 77, 01-03-90, São Paulo, Ludogorets Razgrad
+92, Lindsay Rose, FRA, D, 1.84, 79, 08-02-92, Rennes, Lorient
+99, Marios Siabanis, GRE, G, 1.87, 66, 28-09-99, Katerini, Olympiakos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, Al-Khor
+4, Toni Datković, CRO, D, 1.84, 78, 06-11-93, Zagreb, Cartagena (On Loan)
+1, Fabian Ehmann, AUT, G, 1.82, 74, 28-08-98, Graz, Vendsyssel (On Loan)
+11, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Cartagena (On Loan)
+33, Kostas Chatzipirpiridis, GRE, F, 1.67, 65, 01-05-01, Thessaloniki, OF Ierapetra (On Loan)
+34, Ali Adem, MKD, M, 1.75, 68, 01-06-00, Skopje, Shkupi (On Loan)
+31, Panagiotis Tsagalidis, GRE, D, -, -, 05-03-01, -, Olympiakos Volos (On Loan)

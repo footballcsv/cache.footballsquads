@@ -1,0 +1,43 @@
+=  Lugo - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Varo, ESP, G, 1.90, 82, 18-03-93, Tarragona, Nàstic
+2, Xavi Torres, ESP, M, 1.82, 76, 21-11-86, Jávea, Al-Arabi [KUW]
+3, Diego Alende, ESP, D, 1.80, 76, 24-08-97, Santiago de Compostela, Valladolid B
+4, Marcelo, GNB, D, 1.93, 87, 08-10-93, Barcelona, Fulham
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Juanpe, ESP, M, 1.84, 66, 31-01-96, Jerez de la Frontera, Sevilla B
+7, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Girona
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Manu Barreiro, ESP, F, 1.92, 81, 08-07-86, Santiago de Compostela, Nàstic
+10, Hugo Rama, ESP, M, 1.77, 75, 22-11-96, Santiago de Compostela, Cerceda
+11, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Hapoel Be'er Sheva
+12, Pedro López, ESP, D, 1.79, 70, 27-01-97, Lugo, Lugo JDH
+13, Ander Cantero, ESP, G, 1.89, 82, 09-01-95, Pamplona, Villarreal B
+14, Borja Domínguez, ESP, M, 1.87, 81, 30-05-92, Vigo, Alcorcón
+15, Roberto Canella, ESP, D, 1.80, 68, 07-02-88, Pola de Laviana, Sporting Gijón
+16, Chris Ramos, ESP, F, 1.93, 80, 16-01-97, Cádiz, Valladolid
+18, Moctar Side El Hacen, MTN, M, 1.80, 78, 31-12-97, Arafat, Valladolid
+19, José Luis Rodríguez, PAN, M, 1.78, 70, 19-06-98, Ciudad de Panamá, Alavés B
+20, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Deportivo La Coruña
+21, Luis Ruiz, ESP, D, 1.81, 73, 30-06-92, Huelva, Deportivo La Coruña
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Mallorca
+23, Frederico Venâncio, POR, D, 1.86, 77, 04-02-93, Setúbal, Vitória Guimarães
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+27, Bakary N'Diaye, MTN, D, 1.85, 79, 26-11-98, Nouakchott, Difaâ Hassani El Jadidi
+28, Antón Escobar, ESP, F, -, -, 16-06-98, Nigrán, Polvorín
+29, Antón Quindimil, ESP, D, 1.87, 78, 23-11-99, Abegondo, Polvorín
+30, Dani Vidal, ESP, M, -, -, 16-05-00, Portomarin, Polvorín
+32, Manuel Morais, VEN, F, 1.81, 73, 03-02-98, Caracas, Polvorín
+33, Manu, ESP, M, -, -, 28-07-98, La Coruña, Polvorín
+34, Fran Vieites, ESP, G, 1.96, 88, 07-05-99, Pontecesures, Celta Vigo B
+35, Martín López, ESP, D, -, -, 02-02-00, Paradela, Polvorín
+36, Luis Castro, ESP, D, -, -, 06-04-02, -, Polvorín
+37, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Almería B
+38, Christian Martínez, ESP, F, 1.77, 72, 13-10-00, La Coruña, Polvorín
+39, Carlos Torrado, ESP, D, -, -, 09-04-99, Vilanova de Arousa, Polvorín
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Sebas Moyano, ESP, M, 1.73, 66, 23-03-97, Villanueva del Duque, Ebro (On Loan)

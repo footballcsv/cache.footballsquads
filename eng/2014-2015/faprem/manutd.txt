@@ -1,0 +1,54 @@
+=  Manchester United - English Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Gea, ESP, G, 1.92, 82, 07-11-90, Madrid, Atlético Madrid
+2, Rafael, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Fluminense
+3, Luke Shaw, ENG, D, 1.83, 75, 12-07-95, Kingston upon Thames, Southampton
+4, Phil Jones, ENG, D, 1.80, 71, 21-02-92, Preston, Blackburn R
+5, Marcos Rojo, ARG, D, 1.87, 82, 20-03-90, La Plata, Sporting CP
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, None
+7, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Real Madrid
+8, Juan Mata, ESP, F, 1.70, 63, 28-04-88, Burgos, Chelsea
+9, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Monaco
+10, Wayne Rooney, ENG, F, 1.78, 78, 24-10-85, Croxteth, Everton
+11, Adnan Januzaj, BEL, M, 1.80, 75, 05-02-95, Brussels, Anderlecht
+12, Chris Smalling, ENG, D, 1.93, 90, 22-11-89, Greenwich, Fulham
+13, Anders Lindegaard, DEN, G, 1.93, 80, 13-04-84, Odense, Aalesund
+16, Michael Carrick, ENG, M, 1.86, 74, 28-07-81, Wallsend, Tottenham H
+17, Daley Blind, NED, M, 1.82, 68, 09-03-90, Amsterdam, Ajax
+18, Ashley Young, ENG, M, 1.75, 65, 09-07-85, Stevenage, Aston Villa
+20, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Arsenal
+21, Ander Herrera, ESP, M, 1.81, 68, 14-08-89, Bilbao, Athletic Bilbao
+22, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Crewe Alex
+25, Luis Antonio Valencia, ECU, M, 1.81, 78, 04-08-85, Lago Agrio, Wigan Ath
+31, Marouane Fellaini, BEL, M, 1.94, 85, 22-11-87, Etterbeek, Everton
+32, Víctor Valdés, ESP, G, 1.83, 78, 14-01-82, L'Hospitalet de Llobregat, Barcelona
+33, Paddy McNair, NIR, D, 1.83, 71, 27-04-95, Ballyclare, None
+39, Tom Thorpe, ENG, D, 1.88, 89, 13-01-93, Manchester, None
+40, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, None
+41, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, None
+42, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, None
+44, Andreas Pereira, BEL, M, 1.77, 66, 01-01-96, Duffel, PSV Eindhoven
+46, Joe Rothwell, ENG, M, 1.85, 77, 11-01-95, Manchester, None
+49, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Nani, POR, M, 1.75, 66, 17-11-86, Praia, Sporting CP (On Loan)
+26, Shinji Kagawa, JPN, M, 1.72, 63, 17-03-89, Hyogo, Borussia Dortmund
+14, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, Real Madrid (On Loan)
+19, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, Arsenal
+38, Michael Keane, ENG, D, 1.72, 68, 11-01-93, Stockport, Burnley
+34, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, Leicester C
+23, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Aston Villa (On Loan)
+30, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Real Madrid B (On Loan)
+45, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, CFR Cluj
+50, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, Preston NE (On Loan)
+48, Will Keane, ENG, F, 1.78, 78, 11-01-93, Stockport, Sheffield W (On Loan)
+24, Darren Fletcher, SCO, M, 1.83, 83, 01-02-84, Edinburgh, WBA
+29, Wilfried Zaha, ENG, F, 1.80, 66, 10-11-92, Abidjan, Crystal Palace
+35, Jesse Lingard, ENG, M, 1.68, 58, 15-12-92, Warrington, Derby Co (On Loan)
+36, Marnick Vermijl, BEL, D, 1.80, 70, 13-01-92, Peer, Sheffield W
+37, Saidy Janko, SUI, D, 1.78, 70, 22-10-95, Zürich, Bolton W (On Loan)
+28, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, Internacional

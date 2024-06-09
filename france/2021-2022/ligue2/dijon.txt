@@ -1,0 +1,39 @@
+=  Dijon - French Ligue 2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Adama Fofana, CIV, D, 1.70, 63, 11-10-99, Mankono, Varbergs BoIS
+3, Daniel Congré, FRA, D, 1.84, 79, 05-04-85, Toulouse, Montpellier
+5, Senou Coulibaly, MLI, D, 1.93, 79, 04-09-94, Pontoise, Mantes
+6, Mattéo Ahlinvi, FRA, M, 1.83, 68, 02-07-99, Arcachon, Nîmes
+7, Frédéric Sammaritano, FRA, M, 1.62, 61, 23-03-86, Vannes, Auxerre
+8, Mickaël Le Bihan, FRA, F, 1.84, 74, 16-05-90, Ploemeur, Auxerre
+11, Valentin Jacob, FRA, M, 1.71, 67, 15-06-94, Paris, Niort
+12, Lucas Deaux, FRA, M, 1.86, 77, 26-12-88, Reims, Nîmes
+13, Amir Arli, TUR, M, 1.93, 77, 05-01-03, Oyonnax, Jura Sud
+14, Jordan Marié, FRA, M, 1.77, 69, 29-09-91, Épinal, None
+16, Saturnin Allagbé, BEN, G, 1.87, 71, 22-11-93, Assaba, Niort
+18, Wilitty Younoussa, CMR, M, 1.70, 65, 09-09-01, Tcholliré, Tcholliré
+19, Ahmad Ngouyamsa, CMR, D, 1.76, 75, 21-12-00, Yaoundé, None
+20, Christopher Rocchia, FRA, D, 1.72, 64, 01-02-98, Marseille, Marseille
+21, Aurélien Scheidler, FRA, F, 1.92, 90, 04-06-98, Saint-Martin-Boulogne, Orléans
+22, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Brest
+23, Zargo Touré, SEN, D, 1.83, 73, 11-11-89, Pikine, Gençlerbirliği
+24, Erwan Belhadji, FRA, M, 1.83, 69, 22-06-01, Créteil, None
+25, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Cardiff C
+26, Jessy Pi, FRA, M, 1.79, 72, 24-09-93, Manosque, Caen
+27, Cheick Traoré, FRA, D, 1.74, 76, 31-03-95, Paris, Lens
+28, Bryan Soumaré, FRA, M, 1.80, 70, 11-02-99, Saint-Quentin, St-Quentin
+29, Alex Dobre, ROU, M, 1.78, 71, 30-08-98, Bucharest, Bournemouth
+30, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Nîmes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Roger Assalé, CIV, F, 1.67, 65, 13-11-93, Abengourou, Werder Bremen (On Loan)
+23, Rayan Philippe, FRA, F, 1.82, 76, 23-10-00, Nice, Swift Hesperange
+9, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Ipswich T (On Loan)
+22, Théo Barbet, FRA, D, 1.84, 74, 06-03-01, Mâcon, Lokomotiva Zagreb
+17, Yaya Soumaré, FRA, F, 1.73, 55, 23-06-00, Vénissieux, Lyon
+1, Anthony Racioppi, SUI, G, 1.86, 80, 31-12-98, Geneva, Young Boys
+4, Jonathan Panzo, ENG, D, 1.85, 72, 25-10-00, Southwark, Nottingham F
+10, Yassine Benzia, FRA, M, 1.79, 71, 08-09-94, Saint-Aubin Lès-Elbeuf, Hatayspor (On Loan)

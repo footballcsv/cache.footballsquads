@@ -1,0 +1,36 @@
+=  Dynamo České Budějovice - Czech 1.Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dávid Šipoš, SVK, G, 1.89, 73, 14-08-98, Topoľčany, Nitra
+2, Lukáš Havel, CZE, D, 1.86, 75, 06-06-96, České Budějovice, None
+3, Martin Králik, SVK, D, 1.86, 74, 03-04-95, Prievidza, MŠK Žilina
+4, David Broukal, CZE, D, -, -, 16-03-96, -, Vlašim
+5, David Krch, CZE, M, -, -, 30-06-03, -, None
+6, Jonáš Vais, CZE, M, 1.84, 72, 24-11-99, -, Viktoria Plzeň
+7, Quadri Adediran, NGA, F, 1.75, 67, 10-10-00, Lagos, Dukla Prague
+9, Jakub Matoušek, CZE, F, -, -, 10-04-98, -, None
+10, Michal Škoda, CZE, F, 1.91, 79, 01-03-88, Prague, Mladá Boleslav
+11, Patrik Čavoš, CZE, M, 1.80, 75, 07-01-95, Prague, Sparta Prague
+12, Benjamin Čolić, BIH, D, 1.81, 79, 23-07-91, Sarajevo, MFK Karviná
+13, Roman Potočný, CZE, M, 1.85, 80, 25-04-91, Roudnice nad Labem, Baník Ostrava
+14, Daniel Hais, CZE, F, 1.92, 80, 02-06-03, -, None
+15, Ondřej Čoudek, CZE, D, -, -, 25-10-04, -, None
+16, Marcel Čermák, CZE, M, 1.77, 77, 25-11-98, Prague, Viagem Příbram
+17, Tomáš Zajíc, CZE, F, 1.82, 77, 12-08-96, Suchov, Baník Ostrava
+18, Patrik Hellebrand, CZE, M, 1.80, 71, 16-05-99, Opava, Slavia Prague
+19, Nicolas Penner, CZE, M, 1.77, 67, 19-06-01, České Budějovice, Juventus
+20, Branislav Sluka, SVK, D, 1.80, 72, 23-01-99, Žilina, MŠK Žilina
+21, Lukáš Čmelík, SVK, M, 1.82, 74, 13-04-96, Žilina, MFK Karviná
+22, Martin Sladký, CZE, D, 1.78, 65, 01-03-92, Domažlice, Sigma Olomouc
+23, Jakub Hora, CZE, M, 1.76, 65, 23-02-91, Most, Teplice
+25, Lukáš Skovajsa, SVK, D, 1.82, 77, 27-03-94, Trenčín, Dinamo București
+27, Matej Mršić, CRO, M, 1.83, 78, 13-01-94, Rijeka, MAS Táborsko
+30, Martin Janáček, CZE, G, 1.96, 81, 22-09-00, Cehnice, Sparta Prague
+33, Colin Andrew, CZE, G, -, -, 25-02-04, Prague, None
+38, Jakub Grič, SVK, M, 1.80, 75, 05-07-96, Prešov, Spartak Trnava
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Matěj Luksch, CZE, G, 1.91, 83, 19-06-98, České Budějovice, Železiarne Podbrezová (On Loan)
+7, Jakub Švec, SVN, M, 1.77, 73, 23-07-00, Žiar nad Hronom, MFK Skalica (On Loan)

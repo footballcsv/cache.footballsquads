@@ -1,0 +1,23 @@
+# Turkish Süper Lig 2023/2024
+
+20 teams
+- [Adana Demirspor](adanadem.txt)
+- [Alanyaspor](alanya.txt)
+- [Ankaragücü](ankgucu.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Fatih Karagümrük](fatihkara.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantep](gaziantep.txt)
+- [Hatayspor](hatay.txt)
+- [İstanbul Başakşehir](istanbasak.txt)
+- [İstanbulspor](istanspor.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Pendikspor](pendik.txt)
+- [Rizespor](rizespor.txt)
+- [Samsunspor](samsun.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

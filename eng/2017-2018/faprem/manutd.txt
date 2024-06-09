@@ -1,0 +1,42 @@
+=  Manchester United - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Gea, ESP, G, 1.92, 76, 07-11-90, Madrid, Atlético Madrid
+2, Victor Lindelöf, SWE, D, 1.87, 82, 17-07-94, Västerås, Benfica
+3, Eric Bailly, CIV, D, 1.87, 77, 12-04-94, Abidjan, Villarreal
+4, Phil Jones, ENG, D, 1.80, 71, 21-02-92, Preston, Blackburn R
+5, Marcos Rojo, ARG, D, 1.87, 80, 20-03-90, La Plata, Sporting CP
+6, Paul Pogba, FRA, M, 1.91, 84, 15-03-93, Lagny-sur-Marne, Juventus
+7, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Arsenal
+8, Juan Mata, ESP, M, 1.70, 63, 28-04-88, Burgos, Chelsea
+9, Romelu Lukaku, BEL, F, 1.90, 94, 13-05-93, Antwerp, Everton
+11, Anthony Martial, FRA, F, 1.81, 76, 05-12-95, Massy, Monaco
+12, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Fulham
+14, Jesse Lingard, ENG, M, 1.75, 62, 15-12-92, Warrington, None
+16, Michael Carrick, ENG, M, 1.88, 74, 28-07-81, Wallsend, Tottenham H
+17, Daley Blind, NED, M, 1.80, 72, 09-03-90, Amsterdam, Ajax
+18, Ashley Young, ENG, M, 1.75, 65, 09-07-85, Stevenage, Aston Villa
+19, Marcus Rashford, ENG, F, 1.80, 70, 31-10-97, Manchester, None
+20, Sergio Romero, ARG, G, 1.92, 87, 22-02-87, Bernardo de Irigoyen, Sampdoria
+21, Ander Herrera, ESP, M, 1.82, 70, 14-08-89, Bilbao, Athletic Bilbao
+23, Luke Shaw, ENG, D, 1.85, 75, 12-07-95, Kingston upon Thames, Southampton
+25, Luis Antonio Valencia, ECU, M, 1.80, 83, 04-08-85, Lago Agrio, Wigan Ath
+27, Marouane Fellaini, BEL, M, 1.94, 85, 22-11-87, Etterbeek, Everton
+31, Nemanja Matić, SRB, M, 1.94, 85, 01-08-88, Šabac, Chelsea
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Torino
+39, Scott McTominay, ENG, M, 1.78, 65, 08-12-96, Lancaster, None
+40, Joel Pereira, SUI, G, 1.88, 70, 28-06-96, Boudevilliers, Neuchâtel Xamax
+43, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, None
+45, Kieran O'Hara, ENG, G, 1.91, 78, 22-04-96, Manchester, None
+47, Angel Gomes, ENG, M, 1.68, 56, 31-08-00, Enfield, None
+48, Ethan Hamilton, SCO, M, 1.87, 75, 18-10-98, Edinburgh, Hutchison Vale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Andreas Pereira, BEL, M, 1.77, 66, 01-01-96, Duffel, Valencia (On Loan)
+29, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Sheffield U (On Loan)
+35, Demi Mitchell, ENG, D, 1.75, 75, 11-01-97, Manchester, Hearts (On Loan)
+22, Henrikh Mkhitaryan, ARM, M, 1.77, 75, 21-01-89, Yerevan, Arsenal
+38, Axel Tuanzebe, ENG, D, 1.82, 75, 14-11-97, Bunia, Aston Villa (On Loan)
+10, Zlatan Ibrahimović, SWE, F, 1.95, 95, 03-10-81, Malmö, LA Galaxy

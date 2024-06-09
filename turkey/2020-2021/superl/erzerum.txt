@@ -1,0 +1,49 @@
+=  BB Erzurumspor - Turkish Süper Lig 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Göktuğ Bakırbaş, TUR, G, 1.96, 83, 01-06-96, Konak, Göztepe
+2, Bohdan Butko, UKR, D, 1.80, 68, 13-01-91, Donetsk, Shakhtar Donetsk
+4, Gabriel Obertan, FRA, M, 1.86, 79, 26-02-89, Pantin, Levski Sofia
+5, Hasan Hatipoğlu, TUR, D, 1.85, 77, 19-07-89, Alaşehir, Altınordu
+8, Johanna Omolo, KEN, M, 1.85, 75, 13-05-88, Nairobi, Cercle Brugge
+11, Arvydas Novikovas, LTU, M, 1.79, 76, 18-12-90, Vilnius, Legia Warszawa
+13, Petrus Boumal, CMR, M, 1.76, 74, 20-04-93, Yaoundé, FC Ural
+14, Moestafa El Kabir, MAR, F, 1.77, 76, 10-05-88, Targuist, Örgryte IS
+15, Elba Rashani, KVX, M, 1.81, 69, 09-05-93, Hillerstorp, Odd
+16, Buğra Çağıran, TUR, M, 1.78, 76, 01-01-95, Gümüşhane, Yeni Malatyaspor
+17, Emrah Başsan, TUR, M, 1.77, 67, 17-04-92, Kocaeli, Vitória Setúbal
+20, Mitchell Donald, NED, M, 1.83, 80, 10-12-88, Amsterdam, Yeni Malatyaspor
+21, Zakarya Bergdich, MAR, D, 1.78, 69, 07-01-89, Paris, Denizlispor
+22, Léo Schwechlen, FRA, D, 1.82, 78, 05-06-89, Montbéliard, Göztepe
+23, Gökhan Kardeş, TUR, D, 1.88, 74, 15-05-97, Beverlo, Beerschot
+27, Manuel Da Costa, MAR, D, 1.91, 82, 06-05-86, Saint-Max, Trabzonspor
+29, Jakub Szumski, POL, G, 1.94, 78, 06-03-92, Warsaw, Raków Częstochowa
+30, Adolphe Teikeu, CMR, D, 1.89, 80, 23-06-90, Bandjoun, Sochaux
+33, Kayacan Erdoğan, TUR, G, 1.88, 80, 21-03-88, Eskişehir, Giresunspor
+55, Özgür Sert, TUR, M, 1.80, 67, 11-01-01, Erzurum, Yeni Malatyaspor
+57, Batuhan Ünsal, TUR, G, 1.85, 78, 03-06-97, Antalya, Osmaniyespor
+61, Oltan Karakullukçu, TUR, F, 1.88, 86, 07-07-91, Gümüşhane, Afjet Afyonspor
+70, Brahim Darri, NED, F, 1.77, 70, 14-09-94, Amersfoort, Fatih Karagümrük
+77, Mehmet Murat Uçar, TUR, F, 1.72, 65, 01-08-91, Mus, Altınordu
+88, Osman Çelik, TUR, D, 1.82, 71, 27-11-91, Antalya, Antalyaspor
+89, Yaw Ackah, GHA, M, 1.69, 62, 01-06-99, Accra, Kayserispor
+91, Ricardo Gomes, CPV, F, 1.88, 89, 18-12-91, Praia, Sharjah FC
+92, Aatif Chahechouhe, FRA, F, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Fatih Karagümrük
+99, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, Alanyaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+72, Muhammed Gönülaçar, TUR, M, 1.87, 80, 27-09-94, Batman, Kocaelispor
+85, Fabien Farnolle, BEN, G, 1.96, 90, 02-02-85, Bordeaux, 
+6, Kaan Kanak, TUR, D, 1.78, 74, 06-10-90, Sarıkaya, Adana Demirspor
+19, İbrahim Akdağ, TUR, M, 1.79, 70, 21-07-91, Fatih, Ankaragücü
+10, Jugurtha Hamroun, ALG, M, 1.75, 74, 27-01-89, Bouzeguene, Samsunspor
+9, Rashad Muhammed, FRA, F, 1.84, 82, 25-09-93, Saint-Germain-en-Laye, Sarpsborg 08
+53, Mücahit Albayrak, TUR, D, 1.80, 75, 30-07-91, Rize, Gaziantep
+25, Armando Sadiku, ALB, F, 1.86, 77, 27-05-91, Elbasan, Bolívar
+3, Ibrahim Sissoko, CIV, M, 1.77, 71, 29-11-91, Abidjan, Akhisar Belediyespor
+7, Ömer Şışmanoğlu, GER, F, 1.86, 77, 01-08-89, Hamburg, Tuzlaspor
+12, Mahamadou Ba, MLI, M, 1.75, 67, 21-09-99, Bamako, Menemenspor
+28, Arturo Mina, ECU, D, 1.88, 79, 08-10-90, Rio Verde, 
+, Yacouba Coulibaly, BFA, D, 1.70, 62, 02-10-94, Bobo-Dioulasso, Cartagena

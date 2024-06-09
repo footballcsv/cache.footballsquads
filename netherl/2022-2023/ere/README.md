@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2022/2023
+
+18 teams
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [SC Cambuur](cambuur.txt)
+- [FC Emmen](emmen.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [Fortuna Sittard](fortuna.txt)
+- [Go Ahead Eagles](goahead.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [FC Volendam](volendam.txt)

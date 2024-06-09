@@ -1,0 +1,21 @@
+# German Bundesliga 2019/2020
+
+18 teams
+- [Augsburg](augsburg.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hertha Berlin](hertha.txt)
+- [TSG 1899 Hoffenheim](hoffen.txt)
+- [1.FC Köln](koln.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FSV Mainz 05](mainz.txt)
+- [SC Paderborn](paderbo.txt)
+- [FC Schalke 04](schalke.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

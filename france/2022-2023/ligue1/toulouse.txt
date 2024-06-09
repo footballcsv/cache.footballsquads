@@ -1,0 +1,44 @@
+=  Toulouse - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Himeur, FRA, G, 1.87, 72, 17-01-01, Toulouse, None
+2, Rasmus Nicolaisen, DEN, D, 1.90, 81, 16-03-97, Aulum, FC Midtjylland
+3, Mikkel Desler, DEN, D, 1.87, 77, 19-02-95, Assens, Haugesund
+4, Anthony Rouault, FRA, D, 1.86, 76, 29-05-01, Saint-Colomb-de-Lauzun, None
+5, Denis Genreau, AUS, M, 1.70, 65, 21-05-99, Paris, Macarthur FC
+6, Zakaria Aboukhlal, MAR, F, 1.78, 73, 18-02-00, Rotterdam, AZ Alkmaar
+7, Ado Onaiwu, JPN, F, 1.80, 74, 08-11-95, Kamikawa, Yokohama F Marinos
+8, Branco van den Boomen, NED, M, 1.90, 75, 21-07-95, Eindhoven, De Graafschap
+9, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, MK Dons
+10, Brecht Dejaegere, BEL, M, 1.74, 66, 29-05-91, Handzame, KAA Gent
+13, Vincent Sierro, SUI, M, 1.84, 74, 08-10-95, Sierre, Young Boys
+14, Logan Costa, FRA, D, 1.88, 87, 01-04-01, Saint-Denis, Reims
+15, Gabriel Suazo, CHI, D, 1.75, 67, 09-08-97, Santiago, Colo-Colo
+16, Kjetil Haug, NOR, G, 1.90, 80, 12-06-98, Halden, Vålerenga
+17, Stijn Spierings, NED, M, 1.88, 72, 12-03-96, Alkmaar, Levski Sofia
+18, Oliver Zandén, SWE, D, 1.83, 75, 14-08-01, Alingsås, IF Elfsborg
+19, Veljko Birmančević, SRB, M, 1.78, 70, 05-03-98, Šabac, Malmö FF
+21, Rafael Ratão, BRA, F, 1.79, 79, 30-11-95, Ponte Preta, Slovan Bratislava
+23, Moussa Diarra, FRA, D, 1.83, 68, 10-11-00, Stains, JA Drancy
+24, Charis Tsiggaras, GRE, M, 1.73, 70, 20-08-00, Portaria, PAOK
+26, Warren Kamanzi, NOR, D, 1.70, 60, 11-11-00, Trondheim, Tromsø
+27, Thijs Dallinga, NED, F, 1.80, 72, 03-08-00, Groningen, Excelsior
+28, Farès Chaïbi, FRA, M, 1.83, 79, 28-11-02, Lyon, None
+29, Saïd Hamulic, NED, F, 1.89, 83, 12-11-00, Leiderdorp, Stal Mielec
+30, Maxime Dupé, FRA, G, 1.86, 85, 04-03-93, Malestroit, Nantes
+31, Kévin Keben, CMR, D, 1.87, 85, 26-01-04, Bertoua, None
+32, Christian Mawissa, FRA, D, 1.85, 77, 18-04-05, Saint-Jean-de-Verges, None
+50, Guillaume Restes, FRA, G, 1.86, 82, 11-03-05, Toulouse, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Nathan Ngoumou, FRA, M, 1.82, 70, 14-03-00, Toulouse, B Mönchengladbach
+13, Kléri Serber, FRA, M, 1.72, 68, 03-07-98, Rillieux-la-Pape, Botev Vratsa (On Loan)
+15, Tom Rapnouil, FRA, M, 1.88, 67, 09-02-01, Poissy, Botev Vratsa (On Loan)
+25, Steve Mvoué, CMR, M, 1.85, 73, 02-02-02, Yaoundé, RFC Seraing
+11, Yanis Begraoui, FRA, F, 1.75, 62, 04-07-01, Étampes, Pau (On Loan)
+12, Issiaga Sylla, GUI, D, 1.80, 70, 01-01-94, Conakry, Montpellier
+20, Junior Flemmings, JAM, F, 1.78, 72, 16-01-96, Kingston, Niort (On Loan)
+22, Naatan Skyttä, FIN, M, 1.70, 69, 07-05-02, Ylöjärvi, Odense (On Loan)
+40, Isak Pettersson, SWE, G, 1.81, 82, 06-06-97, Halmstad, Stabæk

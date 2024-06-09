@@ -1,0 +1,40 @@
+=  Pari Nizhny Novgorod - Russian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur Anisimov, RUS, G, 1.86, 78, 31-12-92, Naberezhnye Chelny, KamAZ
+2, Viktor Aleksandrov, RUS, D, 1.90, 82, 14-02-02, Nizhny Novgorod, Rubin Kazan-2
+3, Franck Bagnack, CMR, D, 1.82, 74, 07-06-95, Tobagné, Kairat Almaty
+4, Ilya Zhigulyov, RUS, M, 1.75, 70, 01-02-96, Chernomorski, Zagłębie Lubin
+5, Lucas Masoero, ARG, D, 1.88, 84, 01-02-95, Mendoza, Lokomotiv Plovdiv
+6, Ibrokhimkhalil Yuldoshev, UZB, D, 1.70, 69, 14-02-01, Yangiyer, Pakhtakor
+7, Edgar Sevikyan, RUS, M, 1.75, 70, 08-08-01, Moscow, Levante B
+8, Mamadou Maiga, MLI, M, 1.78, 75, 10-02-95, Bamako, Veles Moscow
+9, Vyacheslav Krotov, RUS, F, 1.81, 71, 14-02-93, Astrakhan, FC Ufa
+11, Ilya Berkovsky, RUS, M, 1.80, 75, 15-03-00, Tavricheskoye, Lokomotiv Moscow
+13, Nikita Goylo, RUS, G, 1.88, 87, 10-08-98, St. Petersburg, Zenit-2
+14, Yaroslav Mikhailov, RUS, M, 1.82, 75, 28-04-03, Pskov, Zenit St Petersburg
+18, Artem Sokolov, RUS, M, 1.70, 58, 01-04-03, Yakutsk, Krylia Sovetov
+20, Vladislav Yakovlev, RUS, F, 1.85, 77, 14-02-02, Moscow, CSKA Moscow
+22, Nikita Kakkoev, RUS, D, 1.84, 75, 22-08-99, St. Petersburg, Zenit-2
+24, Kirill Gotsuk, RUS, D, 1.94, 83, 10-09-92, Yelets, Krylia Sovetov
+25, Artur Nigmatullin, RUS, G, 1.92, 88, 17-05-91, Vladivostok, Arsenal Tula
+37, Albert Sharipov, RUS, M, 1.71, 64, 11-04-93, Samara, Rotor Volgograd
+44, Daniil Kornyushin, RUS, D, 1.87, 82, 08-10-01, Stavropol, FC Krasnodar
+78, Nikolay Kalinskiy, RUS, M, 1.80, 75, 22-09-93, Moscow, Tom Tomsk
+88, Denis Glushakov, RUS, M, 1.78, 72, 27-01-87, Millerovo, FC Khimki
+89, Dmitriy Stotskiy, RUS, D, 1.71, 64, 01-12-89, Kaliningrad, FC Krasnodar
+90, Konstantin Shiltsov, RUS, M, 1.86, 75, 07-05-02, Yelets, Spartak Moscow
+93, Timur Suleymanov, RUS, F, 1.83, 78, 17-03-00, Derbent, Lokomotiv Moscow-2
+94, Dmitri Rybchinsky, RUS, M, 1.78, 64, 19-08-98, Moscow, Lokomotiv Moscow
+99, Momo Yansane, GUI, F, 1.83, 79, 29-07-97, Fria, Sheriff Tiraspol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Igor Gorbunov, RUS, M, 1.72, 65, 20-09-94, Nikitino, Rubin Kazan
+4, Ákos Kecskés, HUN, D, 1.90, 85, 04-01-96, Hódmezővásárhely, LASK Linz
+86, Ilya Agapov, RUS, D, 1.74, 73, 21-01-01, Kazan, CSKA Moscow
+18, David Kobesov, RUS, M, 1.82, 75, 06-01-00, Vladikavkaz, FC Khimki (On Loan)
+10, Milson, ANG, F, 1.74, 69, 12-10-99, Luanda, Ankaragücü (On Loan)
+23, Daniil Penchikov, RUS, D, 1.84, 74, 21-03-98, St. Petersburg, Aktobe (On Loan)
+17, Elmir Nabiullin, RUS, D, 1.76, 68, 08-03-95, Kazan, Rubin Kazan

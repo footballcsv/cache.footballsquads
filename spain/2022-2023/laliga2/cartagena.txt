@@ -1,0 +1,47 @@
+=  Cartagena - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc Martínez, ESP, G, 1.85, 74, 04-04-90, Barcelona, Recreativo Huelva
+2, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Espanyol
+3, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Almería
+4, Pedro Alcalá, ESP, D, 1.96, 93, 19-03-89, Mazarrón, Cádiz
+5, Pablo Vázquez, ESP, D, 1.84, 84, 07-10-94, Gandía, Badajoz
+6, Toni Datković, CRO, D, 1.84, 78, 06-11-93, Zagreb, Real Salt Lake
+7, David Ferreiro, ESP, F, 1.70, 63, 01-04-88, Ourense, Huesca
+8, Pablo De Blasis, ARG, M, 1.64, 65, 04-02-88, La Plata, Eibar
+9, Alfredo Ortuño, ESP, F, 1.83, 80, 21-01-91, Tecla, Albacete
+10, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Alcorcón
+11, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Getafe
+12, Lee Sang-Hyeok, KOR, M, 1.77, 71, 19-01-00, -, Pardubice
+13, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Granada
+14, Franchu Feuillassier, ARG, F, 1.72, 68, 12-05-98, Mar del Plata, Eibar
+15, Luca Sangalli, ESP, M, 1.67, 74, 10-02-95, San Sebastián, Real Sociedad B
+16, Iván Calero, ESP, D, 1.74, 64, 21-04-95, Parla, Málaga
+17, Mikel Rico, ESP, M, 1.78, 73, 04-11-84, Basauri, Huesca
+18, Damián Musto, ARG, M, 1.82, 80, 09-06-87, Casilda, Peñarol
+19, Armando Sadiku, ALB, F, 1.86, 77, 27-05-91, Elbasan, Las Palmas
+20, Jairo, ESP, F, 1.65, 67, 22-10-93, Santa Cruz de Tenerife, Girona
+21, Kiko, ESP, D, 1.89, 83, 21-08-88, Málaga, Valladolid
+22, Yan Brice Eteki, CMR, M, 1.76, 70, 26-08-97, Yaoundé, Casa Pia
+23, Pêpê, POR, M, 1.83, 75, 20-05-97, Satão, Olympiakos
+24, Isak Jansson, SWE, M, 1.65, 60, 31-01-02, Kinna, Kalmar FF
+26, Farru, ESP, D, -, -, 25-02-01, Lorca, Almería B
+27, Sergio Díaz, ESP, G, -, -, 14-01-98, Lorca, UCAM Murcia B
+29, Adrián Sanmartín, ESP, F, -, -, 28-07-05, Murcia, Cartagena B
+32, Antonio Sánchez, ESP, D, -, -, 09-06-00, Huércal-Overa, Cartagena B
+33, Carlos Sánchez, ESP, D, -, -, 19-04-01, Palma de Mallorca, Andratx
+34, Pedro García, ESP, D, 1.78, 70, 14-03-00, Cartagena, Hércules
+35, Nacho Pais, ARG, M, 1.75, 63, 30-05-00, Quilmes, Antequera
+36, Djakaría Barro, CIV, F, -, -, 12-01-02, -, Cartagena B
+37, Óscar Medina, ESP, G, -, -, 19-01-04, -, Alavés B
+38, Oscar Ureña, ESP, F, -, -, 31-05-03, Figueres, Girona
+39, Diego de Pedro, ESP, M, -, -, 03-02-03, Almoradí, Cartagena B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Tractor
+11, Óscar Arribas, ESP, M, 1.78, 68, 22-10-98, Parla, Johor Darul Ta'zim
+22, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Málaga
+23, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Anorthosis Famagusta
+28, Neskes, ESP, M, 1.77, 70, 22-11-01, Granada, Unionistas de Salamanca (On Loan)

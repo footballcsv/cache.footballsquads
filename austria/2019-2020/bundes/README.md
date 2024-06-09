@@ -1,0 +1,15 @@
+# Austrian Bundesliga 2019/2020
+
+12 teams
+- [Admira Wacker Mödling](admira.txt)
+- [Austria Vienna](austvien.txt)
+- [TSV Hartberg](hartberg.txt)
+- [LASK Linz](lasklinz.txt)
+- [SV Mattersburg](matters.txt)
+- [Rapid Vienna](rapvien.txt)
+- [Red Bull Salzburg](rbsalz.txt)
+- [SC Rheindorf Altach](altach.txt)
+- [SKN St. Pölten](stpolten.txt)
+- [Sturm Graz](sturmgraz.txt)
+- [Wolfsberger AC](wolfsberg.txt)
+- [WSG Tirol](wsgtirol.txt)

@@ -1,0 +1,54 @@
+=  Hull City - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Lewis Coyle, ENG, D, 1.73, 67, 15-10-95, Kingston upon Hull, Fleetwood T
+3, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Leicester C
+4, Jacob Greaves, ENG, D, 1.85, 70, 12-09-00, Beverley, None
+5, Alfie Jones, ENG, D, 1.91, 70, 07-10-97, Bristol, Southampton
+6, Richard Smallwood, ENG, M, 1.80, 72, 29-12-90, Dormanstown, Blackburn R
+7, Mallik Wilks, ENG, F, 1.80, 71, 15-12-98, Leeds, Barnsley
+8, Greg Docherty, SCO, M, 1.77, 72, 10-09-96, Glasgow, Rangers
+9, Tom Eaves, ENG, F, 1.90, 86, 14-02-92, Liverpool, Gillingham
+10, George Honeyman, ENG, M, 1.73, 72, 08-09-94, Prudhoe, Sunderland
+11, Keane Lewis-Potter, ENG, F, 1.75, 67, 22-02-01, Kingston upon Hull, None
+12, Josh Emmanuel, ENG, D, 1.80, 70, 18-08-97, London, Bolton W
+13, Nathan Baxter, ENG, G, 1.91, 76, 08-11-98, Westminster, Chelsea
+16, Ryan Longman, ENG, M, 1.80, 73, 06-11-00, Redhill, Brighton & HA
+17, Sean McLoughlin, IRL, D, 1.80, 70, 13-11-96, Cork, Cork C
+18, George Moncur, ENG, M, 1.75, 64, 18-08-93, Swindon, Luton T
+19, Randell Williams, ENG, M, 1.73, 76, 30-12-96, Lambeth, Exeter C
+20, Allahyar Sayyadmanesh, IRN, F, 1.82, 74, 29-06-01, Amol, Fenerbahçe
+21, Brandon Fleming, ENG, D, 1.75, 69, 03-12-99, Dewsbury, None
+22, Tyler Smith, ENG, F, 1.78, 67, 04-12-98, Sheffield, Sheffield U
+23, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Derby Co
+24, Di'Shon Bernard, ENG, D, 1.87, 81, 14-10-00, Wandsworth, Manchester U
+25, Festus Arthur, GER, D, 1.87, 83, 27-02-01, Hamburg, Stockport Co
+27, Regan Slater, ENG, M, 1.73, 65, 11-09-99, Sheffield, Sheffield U
+28, Callum Jones, WAL, M, 1.78, 80, 05-04-01, Birkenhead, Bury
+29, Matty Jacob, ENG, D, 1.80, 79, 03-06-01, Barnsley, None
+31, Billy Chadwick, ENG, M, -, -, 19-01-00, Kingston upon Hull, None
+32, Harvey Cartwright, ENG, G, -, -, 09-05-02, Grimsby, None
+33, Harry Wood, ENG, M, -, -, 02-08-02, Leeds, None
+34, Jake Leake, ENG, D, -, -, 20-02-03, Kingston upon Hull, None
+35, McCauley Snelgrove, ENG, M, -, -, 09-09-02, -, None
+36, Will Jarvis, ENG, F, -, -, 17-12-02, York, None
+37, David Robson, WAL, G, 1.84, 81, 22-01-02, Northallerton, None
+38, Tom Nixon, ENG, D, -, -, 25-11-02, Trentham, None
+39, Josh Hinds, ENG, F, -, -, 29-03-03, -, None
+40, Oliver Green, ENG, M, -, -, 24-03-03, York, None
+42, Rio Dyer, WAL, M, -, -, 07-11-03, Swansea, Swansea C
+44, Marcus Forss, FIN, F, 1.86, 73, 18-06-99, Turku, Brentford
+45, Liam Walsh, ENG, M, 1.78, 66, 15-09-97, Whiston, Swansea C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Ahmed Salam, ENG, M, -, -, 30-12-00, Kingston upon Hull, Linfield (On Loan)
+22, Thomas Mayer, AUT, F, 1.73, 79, 23-08-95, Linz, Amstetten
+15, James Scott, SCO, F, 1.88, 87, 30-08-00, Glasgow, Hibernian (On Loan)
+27, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Wigan Ath
+26, Andy Smith, ENG, D, 1.84, 72, 11-09-01, Banbury, Grimsby T (On Loan)
+41, Jevon Mills, ENG, D, -, -, 27-09-03, Nottingham, Falkirk (On Loan)
+20, Matt Smith, WAL, M, 1.76, 71, 22-11-99, Redditch, Manchester C
+14, Andy Cannon, ENG, M, 1.76, 74, 14-03-96, Ashton-under-Lyne, Stockport Co (On Loan)
+1, Matt Ingram, ENG, G, 1.91, 82, 18-12-93, Croydon, Luton T (On Loan)

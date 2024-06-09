@@ -1,0 +1,64 @@
+=  Newcastle United - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Dúbravka, SVK, G, 1.90, 83, 15-01-89, Žilina, Sparta Prague
+2, Ciaran Clark, IRL, D, 1.88, 76, 26-09-89, Harrow, Aston Villa
+3, Paul Dummett, WAL, D, 1.78, 65, 26-09-91, Newcastle upon Tyne, None
+5, Fabian Schär, SUI, D, 1.88, 84, 20-12-91, Wil, Deportivo La Coruña
+6, Jamaal Lascelles, ENG, D, 1.88, 83, 11-12-93, Derby, Nottingham F
+7, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, West Ham U
+8, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Swansea C
+9, Joelinton, BRA, F, 1.90, 76, 14-08-96, Aliança, 1899 Hoffenheim
+10, Allan Saint-Maximin, FRA, F, 1.73, 67, 12-03-97, Châtenay-Malabry, Nice
+11, Matt Ritchie, SCO, M, 1.73, 70, 10-09-89, Gosport, Bournemouth
+12, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Crystal Palace
+13, Yoshinori Mutō, JPN, F, 1.78, 69, 15-07-92, Tokyo, Mainz
+14, Isaac Hayden, ENG, D, 1.87, 79, 22-03-95, Chelmsford, Arsenal
+15, Jetro Willems, NED, D, 1.69, 66, 30-03-94, Rotterdam, Eintracht Frankfurt
+17, Emil Krafth, SWE, D, 1.84, 83, 02-08-94, Stockholm, Amiens
+18, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Swansea C
+19, Javi Manquillo, ESP, D, 1.80, 75, 05-05-94, Madrid, Atlético Madrid
+20, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Eibar
+21, Robert Elliot, IRL, G, 1.90, 98, 30-04-86, Chatham, Charlton Ath
+22, DeAndre Yedlin, USA, D, 1.73, 68, 09-07-93, Seattle, Tottenham H
+23, Valentino Lazaro, AUT, M, 1.80, 75, 24-03-96, Graz, Internazionale
+24, Miguel Almirón, PAR, M, 1.77, 70, 01-02-94, Asunción, Atlanta U
+25, Jamie Sterry, ENG, D, 1.80, 70, 21-11-95, Newcastle upon Tyne, None
+26, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Nottingham F
+28, Danny Rose, ENG, D, 1.74, 76, 02-07-90, Doncaster, Tottenham H
+30, Christian Atsu, GHA, M, 1.72, 68, 10-01-92, Ada Foah, Chelsea
+33, Liam Gibson, ENG, D, 1.85, 80, 25-04-97, Stanley, None
+35, Kyle Scott, USA, M, 1.72, 60, 12-12-97, Bath, Chelsea
+36, Sean Longstaff, ENG, M, 1.81, 65, 30-10-97, North Shields, None
+38, Víctor Fernández, ESP, F, , , 02-05-98, Barcelona, Cornellà
+39, Jake Turner, ENG, G, 1.94, 82, 25-02-99, Wilmslow, Bolton W
+40, Rosaire Longelo, ENG, M, , , 20-10-99, Kinshasa, West Ham U
+42, Nabil Bentaleb, ALG, M, 1.87, 68, 24-11-94, Lille, Schalke
+43, Matty Longstaff, ENG, M, 1.71, 65, 21-03-00, Rotherham, None
+44, Mohammed Sangare, LBR, M, 1.91, 83, 28-12-98, Monrovia, None
+45, Lewis Cass, ENG, D, 1.85, 74, 07-02-00, North Shields, None
+46, Luke Charman, ENG, F, , , 09-12-97, Durham, None
+47, Elias Sørensen, DEN, F, 1.89, 77, 18-09-99, Sjunkeby, HB Køge
+48, Owen Bailey, ENG, D, 1.83, 77, 22-01-99, Newcastle upon Tyne, None
+49, Kelland Watts, ENG, D, 1.92, 75, 03-11-99, Alnwick, None
+50, Tom Allan, ENG, F, 1.73, 78, 23-09-99, Newcastle upon Tyne, None
+51, Yannick Touré, SUI, F, 1.86, 75, 29-09-00, Dakar, Young Boys
+52, Oliver Walters, ENG, D, , , 16-05-00, Newcastle upon Tyne, None
+53, Adam Wilson, ENG, F, , , 10-04-00, Ashington, None
+54, Dan Langley, ENG, G, 2.01, 83, 28-12-00, Newcastle upon Tyne, None
+55, Ludwig Francillette, FRA, D, 1.93, 81, 05-05-99, Basse-Terre, Quetigny
+58, Ryan Barrett, WAL, D, , , 05-06-01, Wrexham, None
+59, Oisin McEntee, IRL, D, 1.92, 78, 05-01-01, New York, None
+60, Jack Young, ENG, M, 1.71, 64, 21-10-00, Newcastle upon Tyne, None
+63, Lucas Gamblin, ENG, D, , , 21-06-02, Sunderland, None
+64, Kain Reed, ENG, F, , , 16-01-02, Gateshead, None
+66, Jude Swailes, ENG, D, , , 01-09-01, Doncaster, None
+67, Elliot Anderson, SCO, M, 1.75, 63, 06-11-02, North Shields, None
+75, Josh Scott, ENG, D, , , 13-09-02, Gateshead, None
+76, Dylan Stephenson, ENG, M, , , 10-12-02, Ashington, None
+77, Joe White, ENG, M, 1.86, 70, 01-10-02, Carlisle, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Ki Sung-Yueng, KOR, M, 1.86, 75, 24-01-89, Gwangju, Mallorca

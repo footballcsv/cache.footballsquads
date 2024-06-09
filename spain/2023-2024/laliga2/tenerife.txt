@@ -1,0 +1,49 @@
+=  Tenerife - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Soriano, ESP, G, 1.82, 78, 23-08-97, Benacazón, Sevilla B
+2, Aitor Buñuel, ESP, D, 1.80, 74, 10-02-98, Tafalla, Almería
+3, Fernando Medrano, ESP, D, 1.72, 68, 26-03-00, Madrid, Celta Vigo B
+4, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Alcorcón
+5, Sergio González, ESP, D, 1.84, 77, 14-05-97, Cartagena, Cádiz
+6, José Amo, ESP, D, 1.81, 72, 09-04-98, Las Pajanosas, Ponferradina
+8, Javi Alonso, ESP, M, 1.83, 75, 01-08-98, Santa Cruz de Tenerife, Tenerife B
+9, Ángel, ESP, F, 1.72, 68, 26-04-87, Santa Cruz de Tenerife, Mallorca
+10, Àlex Corredera, ESP, M, 1.81, 72, 19-03-96, Sant Joan de les Abadesses, Badajoz
+11, Yanis Rahmani, FRA, M, 1.79, 73, 13-05-95, Champigny-sur-Marne, Eibar
+13, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Oviedo
+14, Roberto López, ESP, M, 1.79, 70, 24-04-00, Zaragoza, Real Sociedad B
+15, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Granada
+16, Aitor Sanz, ESP, M, 1.81, 71, 13-09-84, Madrid, Oviedo
+17, Waldo Rubio, ESP, M, 1.81, 70, 17-08-95, Badajoz, Valladolid
+18, Enric Gallego, ESP, F, 1.90, 87, 12-09-86, Martorell, Osasuna
+19, Álvaro Romero, ESP, M, 1.67, 65, 12-05-96, Seville, Algeciras
+20, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Cádiz
+21, Teto, ESP, M, 1.75, 67, 13-09-01, Santa Cruz de Tenerife, Tenerife B
+22, Jérémy Mellot, FRA, D, 1.78, 77, 28-03-94, Clermont-Ferrand, Guingamp
+23, Nikola Šipčić, SRB, D, 1.92, 83, 17-05-95, Priboj, Rad
+24, Nacho Martínez, ESP, D, 1.75, 76, 07-03-89, Madrid, Valladolid
+26, Dylan Perera, ESP, M, 1.75, 64, 11-05-03, Santa Cruz de Tenerife, Tenerife B
+27, Luismi Cruz, ESP, M, 1.66, 62, 23-05-01, El Puerto de Santa María, Sevilla B
+29, Ethyan González, ESP, F, 1.85, 77, 06-06-02, Santa Cruz de Tenerife, Tenerife B
+30, Moha Ramos, ESP, G, 1.88, 88, 13-04-00, Santa Cruz de Tenerife, Las Palmas B
+31, Loïc Williams, ESP, D, 1.88, 74, 07-01-02, Valencia, Atlético Paso
+32, Jesús Belza, ESP, F, -, -, 26-02-04, -, Tenerife B
+33, Marcos Otero, ESP, D, 1.85, 79, 07-04-01, Las Cabezas de San Juan, Sevilla C
+34, Isaac Hernández, ESP, D, 1.76, 73, 15-01-01, Las Palmas, Las Palmas B
+35, Salifo Caropitche, GNB, F, -, -, 19-06-01, Bafatá, Mirandés B
+36, César Álvarez, ESP, D, -, -, 15-04-03, Santa Cruz de Tenerife, Tenerife B
+37, Cacho, ESP, F, -, -, 31-07-02, Santa Cruz de Tenerife, Tenerife B
+38, Dawda Dambelleh, ESP, F, -, -, 01-01-03, Sabadell, Atlético Paso
+40, Sergio Aragoneses Padilla, ESP, G, -, -, 09-10-04, Santa Cruz de Tenerife, Tenerife B
+41, Martín Cascajo, ESP, G, 1.91, 77, 11-07-00, Salamanca, Don Benito
+42, Brian Mahugo, ESP, G, -, -, 03-07-04, -, Tenerife B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Pablo Hernández, ESP, M, 1.73, 71, 18-12-00, Santa Cruz de Tenerife, Melilla (On Loan)
+11, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Eldense (On Loan)
+29, Dani Selma, ESP, F, -, -, 01-03-01, L'Eliana, Alcoyano (On Loan)
+28, Alassan, ESP, M, 1.77, 63, 12-09-02, Santa Cruz de Tenerife, Melilla (On Loan)
+7, Elady Zorrilla, ESP, M, 1.78, 75, 13-07-90, La Puerta de Segura, Huesca (On Loan)

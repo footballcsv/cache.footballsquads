@@ -1,0 +1,70 @@
+=  Newcastle United - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Dúbravka, SVK, G, 1.90, 83, 15-01-89, Žilina, Sparta Prague
+2, Ciaran Clark, IRL, D, 1.88, 76, 26-09-89, Harrow, Aston Villa
+3, Paul Dummett, WAL, D, 1.78, 65, 26-09-91, Newcastle upon Tyne, None
+4, Matty Longstaff, ENG, M, 1.71, 65, 21-03-00, Rotherham, None
+5, Fabian Schär, SUI, D, 1.88, 84, 20-12-91, Wil, Deportivo La Coruña
+6, Jamaal Lascelles, ENG, D, 1.88, 83, 11-12-93, Derby, Nottingham F
+7, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, West Ham U
+8, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Swansea C
+9, Joelinton, BRA, F, 1.90, 76, 14-08-96, Aliança, 1899 Hoffenheim
+10, Allan Saint-Maximin, FRA, F, 1.73, 67, 12-03-97, Châtenay-Malabry, Nice
+11, Matt Ritchie, SCO, M, 1.73, 70, 10-09-89, Gosport, Bournemouth
+12, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Crystal Palace
+13, Callum Wilson, ENG, F, 1.80, 66, 27-02-92, Coventry, Bournemouth
+14, Isaac Hayden, ENG, D, 1.87, 79, 22-03-95, Chelmsford, Arsenal
+15, Jamal Lewis, NIR, D, 1.78, 70, 25-01-98, Luton, Norwich C
+16, Jeff Hendrick, IRL, M, 1.85, 79, 31-01-92, Dublin, Burnley
+17, Emil Krafth, SWE, D, 1.84, 83, 02-08-94, Stockholm, Amiens
+18, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Swansea C
+19, Javi Manquillo, ESP, D, 1.80, 75, 05-05-94, Madrid, Atlético Madrid
+21, Ryan Fraser, SCO, M, 1.63, 70, 24-02-94, Aberdeen, Bournemouth
+23, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+24, Miguel Almirón, PAR, M, 1.77, 70, 01-02-94, Asunción, Atlanta U
+26, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Nottingham F
+28, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, Arsenal
+29, Mark Gillespie, ENG, G, 1.90, 86, 27-03-92, Newcastle upon Tyne, Motherwell
+30, Christian Atsu, GHA, M, 1.72, 68, 10-01-92, Ada Foah, Chelsea
+32, Rodrigo Vilca, PER, M, 1.75, 70, 12-03-99, Lima, Deportivo Municipal
+33, Owen Bailey, ENG, D, 1.83, 77, 22-01-99, Newcastle upon Tyne, None
+36, Sean Longstaff, ENG, M, 1.81, 65, 30-10-97, North Shields, None
+38, Oliver Walters, ENG, D, -, -, 16-05-00, Newcastle upon Tyne, None
+39, Yannick Touré, SUI, F, 1.86, 75, 29-09-00, Dakar, Young Boys
+41, Dan Langley, ENG, G, 2.01, 83, 28-12-00, Newcastle upon Tyne, None
+43, Florent Indalecio, FRA, M, -, -, -, -, Fraser Park
+44, Kyle Scott, USA, M, 1.72, 60, 12-12-97, Bath, Chelsea
+45, Rosaire Longelo, ENG, M, -, -, 20-10-99, Kinshasa, West Ham U
+46, Ludwig Francillette, FRA, D, 1.93, 81, 05-05-99, Basse-Terre, Quetigny
+47, Niall Brookwell, ENG, M, -, -, 22-03-02, Wigan, Liverpool
+48, Bradley Cross, RSA, D, 1.83, 77, 30-01-01, Kempton Park, Schalke
+49, Oisin McEntee, IRL, D, 1.92, 78, 05-01-01, New York, None
+50, Ryan Barrett, WAL, D, -, -, 05-06-01, Wrexham, None
+51, Jack Young, ENG, M, 1.71, 64, 21-10-00, Newcastle upon Tyne, None
+52, Adam Wilson, ENG, F, -, -, 10-04-00, Ashington, None
+53, Will Brown, ENG, G, -, -, 10-01-02, Newcastle upon Tyne, None
+55, Stan Flaherty, ENG, M, -, -, 05-12-01, Hillingdon, Arsenal
+57, Elliot Anderson, SCO, M, 1.75, 63, 06-11-02, North Shields, None
+58, Lucas Gamblin, ENG, D, -, -, 21-06-02, Sunderland, None
+59, George Rounsfell, ENG, M, -, -, 17-11-01, Kingston upon Thames, None
+60, Jude Swailes, ENG, D, -, -, 01-09-01, Doncaster, None
+61, Nathan Carlyon, ENG, M, -, -, 14-09-02, Durham, None
+62, Joe White, ENG, M, 1.86, 70, 01-10-02, Carlisle, None
+63, Reagan Thomson, SCO, M, 1.73, 57, 05-08-03, Glasgow, Queen's Park
+64, Lewis Brannen, ENG, D, 1.83, 72, 03-11-02, North Shields, None
+69, Tom Midgley, ENG, D, -, -, 09-11-02, Preston, None
+70, Joe Oliver, ENG, D, -, -, 13-11-02, South Shields, None
+72, Dylan Stephenson, ENG, M, -, -, 10-12-02, Ashington, None
+77, Piotr Banda, POL, G, -, -, 09-11-03, Ostrowiec Świętokrzyski, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Alavés (On Loan)
+27, Yoshinori Mutō, JPN, F, 1.78, 69, 15-07-92, Tokyo, Eibar (On Loan)
+34, Lewis Cass, ENG, D, 1.85, 74, 07-02-00, North Shields, Hartlepool U (On Loan)
+32, Dan Barlaser, ENG, M, 1.84, 62, 18-01-97, Gateshead, Rotherham U
+40, Elias Sørensen, DEN, F, 1.89, 77, 18-09-99, Sjunkeby, Almere C (On Loan)
+22, DeAndre Yedlin, USA, D, 1.73, 68, 09-07-93, Seattle, Galatasaray
+42, Achraf Lazaar, MAR, D, 1.73, 67, 22-01-92, Casablanca, Watford

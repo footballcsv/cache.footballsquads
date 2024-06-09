@@ -1,0 +1,47 @@
+=  Sivasspor - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Uğur Çiftçi, TUR, D, 1.79, 71, 04-05-92, Sivas, Gençlerbirliği
+4, Aaron Appindangoyé, GAB, D, 1.83, 80, 20-02-92, Franceville, Ümraniyespor
+7, Ahmed Musa, NGA, F, 1.76, 65, 14-10-92, Bukuru, Fatih Karagümrük
+8, Charis Charisis, GRE, M, 1.77, 68, 12-01-95, Ioannina, Atromitos
+9, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Watford
+10, Clinton N'Jie, CMR, F, 1.75, 68, 15-08-93, Douala, Dynamo Moscow
+12, İbrahim Akdağ, TUR, M, 1.79, 70, 21-07-91, Fatih, Pendikspor
+13, Djordje Nikolić, SRB, G, 1.95, 91, 13-04-97, Belgrade, Újpest
+14, Samba Camara, FRA, D, 1.90, 85, 14-11-92, Le Havre, Le Havre
+16, Burak Kapacak, TUR, M, 1.80, 72, 08-12-99, Osmangazi, Fenerbahçe
+17, Emrah Başsan, TUR, M, 1.77, 67, 17-04-92, Kocaeli, Kayserispor
+19, Roman Květ, CZE, M, 1.87, 84, 17-12-97, -, Viktoria Plzeň
+20, Kerem Atakan Kesgin, TUR, M, 1.74, 70, 05-11-00, Turhal, Beşiktaş
+21, Emre Gökay, TUR, M, 1.81, 70, 18-02-06, Kayseri, None
+23, Alaaddin Okumuş, TUR, D, 1.75, 70, 23-08-95, Altındağ, Ümraniyespor
+30, Mijo Caktaš, CRO, M, 1.78, 68, 08-05-92, Split, Osijek
+33, Bartuğ Elmaz, TUR, M, 1.79, 67, 19-02-03, Tekirdağ, Fenerbahçe
+35, Ali Şaşal Vural, TUR, G, 1.87, 80, 10-07-90, Konak, Eskişehirspor
+37, Hakan Arslan, TUR, M, 1.86, 77, 18-07-88, Istanbul, Samsunspor
+44, Achilleas Pouggouras, GRE, D, 1.87, 77, 13-12-95, Thessaloniki, Panathinaikos
+55, Bengadli-Fodé Koita, GUI, F, 1.86, 86, 21-10-90, Paris, Trabzonspor
+58, Ziya Erdal, TUR, D, 1.82, 73, 05-01-88, Zara, Anadolu Üsküdar
+69, Mehmet Albayrak, TUR, D, -, -, 05-01-04, Adana, None
+77, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Al-Ahli Saudi
+88, Caner Osmanpaşa, TUR, D, 1.94, 81, 15-01-88, Trabzon, Akhisar Belediyespor
+90, Azizbek Turgunboev, UZB, M, 1.73, 69, 01-10-94, Pap, Pakhtakor
+91, Hüseyin Arslan, TUR, G, 1.93, 80, 18-10-99, Sakarya, Karacabey Belediyespor
+95, Queensy Menig, NED, F, 1.74, 69, 19-08-95, Amsterdam, Partizan Belgrade
+99, Murat Paluli, TUR, D, 1.75, 70, 09-08-94, Erzurum, Göztepe
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Emre Satılmış, TUR, G, 1.98, 72, 13-10-96, İstanbul, 68 Aksaray Belediyespor
+22, Armin Djerlek, SRB, M, 1.73, 66, 15-07-00, Novi Pazar, AS Trenčín
+72, Yunus Emre Konak, TUR, M, 1.81, 72, 10-01-06, Batman, Brentford
+27, Mert Dursun, TUR, F, 1.82, 75, 30-11-04, Ankara, Etimesgut Belediyespor (On Loan)
+6, Kader Keita, CIV, M, 1.78, 75, 06-11-00, -, CFR Cluj
+24, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Eyüpspor
+11, Gerson Rodrigues, LUX, F, 1.82, 81, 20-06-95, Pragal, Dynamo Kyiv
+5, Abdulkadir Parmak, TUR, M, 1.76, 66, 28-12-94, Trabzon, Hatayspor
+76, Eren Kaya, TUR, M, 1.79, -, 27-03-04, Sivas, Tokat Belediye Plevnespor (On Loan)
+1, Muammer Yıldırım, TUR, G, 1.90, 81, 14-09-90, Eğil, Samsunspor
+15, Erhan Erentürk, TUR, G, 1.90, 85, 30-05-95, İzmir, Manisa (On Loan)

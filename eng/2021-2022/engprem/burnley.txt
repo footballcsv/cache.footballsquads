@@ -1,0 +1,45 @@
+=  Burnley - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nick Pope, ENG, G, 1.91, 76, 19-04-92, Cambridge, Charlton Ath
+2, Matthew Lowton, ENG, D, 1.80, 78, 09-06-89, Chesterfield, Aston Villa
+3, Charlie Taylor, ENG, D, 1.75, 70, 18-09-93, York, Leeds U
+4, Jack Cork, ENG, M, 1.85, 69, 25-06-89, Carshalton, Swansea C
+5, James Tarkowski, ENG, D, 1.85, 81, 19-11-92, Manchester, Brentford
+6, Ben Mee, ENG, D, 1.80, 74, 23-09-89, Sale, Manchester C
+7, Jóhann Guðmundsson, ISL, M, 1.86, 79, 27-10-90, Reykjavík, Charlton Ath
+8, Josh Brownhill, ENG, M, 1.79, 69, 19-12-95, Warrington, Bristol C
+9, Wout Weghorst, NED, F, 1.97, 82, 07-08-92, Borne, Wolfsburg
+10, Ashley Barnes, AUT, F, 1.86, 77, 31-10-89, Bath, Brighton & HA
+11, Dwight McNeil, ENG, M, 1.83, 68, 22-11-99, Rochdale, None
+13, Wayne Hennessey, WAL, G, 1.97, 89, 24-01-87, Bangor, Crystal Palace
+14, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, Swansea C
+16, Dale Stephens, ENG, M, 1.69, 71, 12-06-89, Bolton, Brighton & HA
+17, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Kayserispor
+18, Ashley Westwood, ENG, M, 1.70, 81, 01-04-90, Nantwich, Aston Villa
+19, Jay Rodriguez, ENG, F, 1.85, 80, 29-07-89, Burnley, WBA
+20, Maxwel Cornet, CIV, F, 1.79, 69, 27-09-96, Bregbo, Lyon
+22, Nathan Collins, IRL, D, 1.96, 89, 30-04-01, Leixlip, Stoke C
+23, Erik Pieters, NED, D, 1.83, 83, 07-08-88, Tiel, Stoke C
+25, Will Norris, ENG, G, 1.95, 74, 12-08-93, Royston, Wolverhampton W
+26, Phillip Bardsley, SCO, D, 1.80, 78, 28-06-85, Salford, Stoke C
+27, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Derby Co
+28, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Cork C
+33, Max Thompson, ENG, F, 1.82, 73, 09-02-02, Macclesfield, Everton
+35, Anthony Gomez Mancini, FRA, M, 1.80, 64, 06-04-01, Saint-Priest, Angers
+37, Bobby Thomas, ENG, D, 1.86, 77, 30-01-01, Chester, None
+38, Lewis Richardson, ENG, F, 1.78, 65, 07-02-03, Manchester, None
+39, Owen Dodgson, ENG, D, 1.78, 66, 19-03-03, Lancaster, Manchester U
+40, Lewis Thomas, ENG, G, -, -, 08-02-02, Leicester, Manchester C
+44, Dara Costelloe, IRL, F, 1.75, 64, 11-12-02, Limerick, Galway U
+49, Joe McGlynn, SCO, F, -, -, 27-09-02, Warrington, None
+50, Sam Waller, ENG, G, -, -, 09-09-03, Stockport, None
+55, Mark Helm, ENG, M, 1.73, 61, 21-01-01, Warrington, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Bailey Peacock-Farrell, NIR, G, 1.88, 73, 29-10-96, Darlington, Sheffield W (On Loan)
+31, Richard Nartey, ENG, D, -, -, 06-09-98, Hammersmith, Mansfield T (On Loan)
+45, Anthony Driscoll-Glennon, ENG, D, 1.81, 72, 26-11-99, Bootle, Barrow (On Loan)
+9, Chris Wood, NZL, F, 1.91, 91, 07-12-91, Auckland, Newcastle U

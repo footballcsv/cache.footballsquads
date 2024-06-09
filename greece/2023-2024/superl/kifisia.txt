@@ -1,0 +1,45 @@
+=  Kifisia - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ögmundur Kristinsson, ISL, G, 1.92, 89, 19-06-89, Reykjavík, Olympiakos
+2, Nikos Vafeas, GRE, D, 1.87, 79, 21-02-97, Thessaloniki, Ionikos
+3, Alberto Botía, ESP, D, 1.87, 75, 27-01-89, Alquerias, Al-Wehda
+4, Loïck Landre, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Al-Shamal
+5, Dario Čanadjija, CRO, M, 1.76, 71, 17-04-94, Bjelovar, Zrinjski Mostar
+6, Antonis Papasavvas, GRE, M, 1.85, 72, 20-03-95, Arta, Panthiraikos
+7, Panagiotis Pritsas, GRE, M, -, -, 09-07-99, -, None
+8, Fabien Antunes, FRA, M, 1.83, 78, 19-11-91, Paris, Ionikos
+9, Ognjen Ožegović, BIH, F, 1.80, 70, 09-06-94, Gradiška, Volos
+10, Andrews Tetteh, GRE, F, 1.88, 80, 25-05-01, Athens, Rouf
+11, Sotiris Ninis, GRE, M, 1.73, 69, 03-04-90, Himara, PAS Giannina
+14, Morgan Schneiderlin, FRA, M, 1.81, 75, 08-11-89, Zettwiller, Konyaspor
+16, Jonathan Menéndez, ARG, F, 1.66, 62, 05-03-94, Capital Federal, Aris
+17, Mateus Santos, BRA, F, 1.80, 73, 19-01-99, Manga, Farul Constanța
+18, Alexandros Parras, GRE, D, 1.80, 67, 12-05-98, -, AEK
+19, Viktor Klonaridis, BEL, F, 1.79, 74, 28-07-92, Seraing, Ümraniyespor
+20, Marko Gobeljić, SRB, D, 1.85, 70, 13-09-92, Kraljevo, Crvena Zvezda
+21, Giannis Masouras, GRE, D, 1.81, 75, 24-08-96, Patras, Miedź Legnica
+22, Ilian Iliev, BUL, M, 1.72, 68, 20-08-99, Funchal, Apollon Limassol
+23, Thievy Bifouma, CGO, F, 1.80, 74, 13-05-92, Saint-Denis, OFI
+25, Ivan Milićević, BIH, D, 1.83, 76, 16-07-98, Split, Lokomotiva Zagreb
+27, Facundo Soloa, ARG, M, 1.72, 72, 04-11-96, San Martín, Atlético Rafaela
+28, Vasilios Spinos, GRE, D, 1.88, 76, 20-01-01, Kifisia, Florida Atlantic Univ
+29, Dušan Jovančić, SRB, M, 1.86, 75, 19-10-90, Belgrade, Astana
+31, Luka Capan, CRO, D, 1.84, 76, 06-04-95, Zagreb, Honvéd
+33, Nicolás Andereggen, ARG, F, 1.78, 74, 22-09-99, San Jerónimo Norte, OF Ierapetra
+43, Giannis Nikopolidis, GRE, G, 1.88, 81, 08-12-00, Athens, Lamia
+44, André Teixeira, POR, D, 1.80, 73, 14-08-93, Porto, Hapoel Petah Tikva
+60, Georgios Konstantakopoulos, GRE, M, -, -, 30-12-04, -, Panionios
+73, Theodoros Antonopoulos, GRE, G, 1.80, 75, 06-07-01, Athens, Panionios
+77, Manolis Smpokos, GRE, D, -, -, 19-02-03, -, OFI
+99, Alexandros Anagnostopoulos, GRE, G, 1.85, 90, 18-08-94, Athens, Ionikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Pavlos Pantelidis, GRE, F, -, -, 16-09-02, Athens, Ilioupoli (On Loan)
+66, Emanuel Šakić, AUT, D, 1.77, 74, 25-01-91, Vienna, CSKA Sofia
+4, Barbosa, BRA, D, 1.93, 89, 12-01-99, Pirassununga, Ilioupoli (On Loan)
+5, Nikos Peios, GRE, M, 1.84, 76, 17-06-99, Veria, Chania (On Loan)
+15, Lumor Agbenyenu, GHA, D, 1.75, 70, 15-08-96, Accra, Ried
+42, Ipalibo Jack, NGA, M, 1.87, 75, 06-04-98, -, Chornomorets Odessa

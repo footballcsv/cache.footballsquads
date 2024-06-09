@@ -1,0 +1,55 @@
+=  Middlesbrough - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Zack Steffen, USA, G, 1.90, 86, 02-04-95, Coatesville, Manchester C
+2, Isaiah Jones, ENG, M, 1.81, 68, 26-06-99, Lambeth, Tooting & Mitcham U
+3, Ryan Giles, ENG, M, 1.79, 72, 26-01-00, Telford, Wolverhampton W
+4, Alex Mowatt, ENG, M, 1.77, 71, 13-02-95, Doncaster, WBA
+5, Matthew Clarke, ENG, D, 1.80, 70, 22-09-96, Ipswich, Brighton & HA
+6, Dael Fry, ENG, D, 1.85, 72, 30-08-97, Middlesbrough, None
+7, Dan Barlaser, ENG, M, 1.84, 62, 18-01-97, Gateshead, Rotherham U
+8, Riley McGree, AUS, M, 1.78, 72, 02-11-98, Gawler, Charlotte FC
+9, Rodrigo Muniz, BRA, F, 1.82, 79, 04-05-01, São Domingos do Prata, Fulham
+10, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Aston Villa
+11, Aaron Ramsey, ENG, M, -, -, 21-01-03, Birmingham, Aston Villa
+14, Tommy Smith, ENG, D, 1.86, 75, 14-04-92, Warrington, Stoke C
+15, Anfernee Dijksteel, SUR, D, 1.83, 72, 27-10-96, Amsterdam, Charlton Ath
+16, Jonathan Howson, ENG, M, 1.80, 77, 21-05-88, Leeds, Norwich C
+17, Paddy McNair, NIR, D, 1.83, 72, 27-04-95, Ballyclare, Sunderland
+21, Marcus Forss, FIN, F, 1.86, 73, 18-06-99, Turku, Brentford
+22, Darnell Fisher, ENG, D, 1.75, 70, 04-04-94, Reading, Preston NE
+23, Liam Roberts, ENG, G, 1.83, 82, 24-11-94, Walsall, Northampton T
+25, Matt Crooks, ENG, M, 1.83, 72, 20-01-94, Huddersfield, Rotherham U
+26, Darragh Lenihan, IRL, D, 1.78, 76, 16-03-94, Dublin, Blackburn R
+27, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Blackpool
+28, Luke Daniels, ENG, G, 1.93, 81, 05-01-88, Bolton, Brentford
+29, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, PAOK
+30, Hayden Hackney, SCO, M, 1.78, 70, 26-06-02, Redcar, None
+31, Sonny Finch, ENG, F, -, -, 05-08-04, Sunderland, None
+32, Bryant Bilongo, ENG, D, -, -, 15-09-01, -, Kingstonian
+33, Joe Gibson, ENG, M, -, -, 06-09-01, Bishop Auckland, None
+35, Isaac Fletcher, ENG, M, -, -, 01-06-02, Middlesbrough, None
+38, Jack Hannah, ENG, D, -, -, 25-12-02, Stockton-on-Tees, None
+39, Jeremy Sivi, ENG, M, -, -, 18-07-02, -, Harlow T
+40, Isiah Cornet, FRA, M, -, -, 01-06-02, -, None
+41, Henry Popple, ENG, G, -, -, 08-03-04, Middlesbrough, None
+42, Oliver Swan, ENG, G, -, -, 05-08-03, Sunderland, None
+43, Max Metcalfe, SCO, G, -, -, 28-01-03, -, None
+44, Pharrell Willis, ENG, F, -, -, 23-02-03, Lambeth, None
+45, George Gitau, KEN, D, -, -, 02-09-03, -, Brighton & HA
+46, Jack Stott, ENG, M, -, -, 06-12-03, Middlesbrough, None
+47, Cain Sykes, ENG, M, -, -, 14-08-02, Sunderland, None
+48, Law McCabe, ENG, M, -, -, 12-06-06, Middlesbrough, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, Bournemouth
+19, Josh Coburn, ENG, F, 1.93, 74, 06-12-02, Bedale, Bristol R (On Loan)
+37, Kamil Conteh, SLE, M, -, -, 26-12-02, Lambeth, Gateshead (On Loan)
+24, Massimo Luongo, AUS, M, 1.74, 75, 25-09-92, Sydney, Ipswich T
+34, Daniel Dodds, ENG, D, -, -, 17-01-01, -, Hartlepool U
+13, Matthew Hoppe, USA, F, 1.90, 80, 13-03-01, Yorba Linda, Hibernian (On Loan)
+18, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Millwall
+20, Caolan Boyd-Munce, NIR, M, -, -, 26-01-00, Belfast, St Mirren
+36, Calum Kavanagh, IRL, F, -, -, 05-09-03, Cardiff, Newport Co (On Loan)

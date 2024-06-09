@@ -1,0 +1,57 @@
+=  SPAL - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Alfonso, ITA, G, 1.91, 85, 04-05-88, Padua, Cremonese
+2, Alessandro Fiordaliso, ITA, D, 1.84, 73, 20-03-99, Turin, Cremonese
+3, Alessandro Tripaldelli, ITA, D, 1.82, 77, 09-02-99, Naples, Cagliari
+4, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Fiorentina
+5, Nicolò Contiliano, ITA, M, -, -, 06-08-04, -, None
+6, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Lecce
+9, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, Benevento
+10, Niccolò Zanellato, ITA, M, 1.78, 74, 24-06-98, Milan, Crotone
+11, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, Al-Sailiya
+12, Lorenzo Abati, ITA, G, 1.85, -, 07-04-04, Bologna, None
+13, Marco Varnier, ITA, D, 1.86, 82, 08-06-98, Padua, Atalanta
+14, Franco Zuculini, ARG, M, 1.76, 68, 05-09-90, La Rioja, Defensor Sporting
+15, Filippo Saiani, ITA, D, 1.80, -, 16-02-05, -, None
+16, Luca Valzania, ITA, M, 1.82, 72, 05-03-96, Cesena, Cremonese
+17, Alberto Pomini, ITA, G, 1.85, 80, 17-03-81, Isola della Scala, Venezia
+18, Matteo Arena, ITA, D, 1.87, 85, 14-01-99, Bari, Monopoli
+19, Andrea La Mantia, ITA, F, 1.90, 81, 06-05-91, Marino, Empoli
+20, Matteo Prati, ITA, M, 1.85, 72, 28-12-03, Ravenna, Ravenna
+21, Raffaele Celia, ITA, D, 1.80, 70, 04-03-99, Catanzaro, Sassuolo
+23, Alessandro Murgia, ITA, M, 1.84, 80, 09-08-96, Rome, Lazio
+24, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, Novara
+26, Fabio Parravicini, ITA, M, -, -, 20-01-05, -, Renate
+27, Patryk Peda, POL, D, 1.90, 76, 16-04-02, Warsaw, Legia Warszawa
+28, Filippo Puletto, ITA, M, -, -, 01-05-04, -, Cesena
+29, Alberto Almici, ITA, D, 1.83, 77, 11-01-93, Lovere, Palermo
+31, Gabriel Brazão, BRA, G, 1.92, 75, 05-10-00, Uberlândia, Internazionale
+32, Nicola Rauti, ITA, F, 1.77, 77, 17-04-00, Legnano, Torino
+34, Ayoub Abou, MAR, M, 1.75, 65, 28-06-98, Casablanca, Real Madrid B
+37, Fabio Maistro, ITA, M, 1.80, 70, 05-04-98, Rovigo, Lazio
+40, Georgi Tunjov, EST, M, 1.84, 71, 17-04-01, Narva, Narva Trans
+44, Radja Nainggolan, BEL, M, 1.76, 65, 04-05-88, Antwerp, Royal Antwerp
+47, Daniel Dumbravanu, MDA, D, 1.92, 66, 22-07-01, Bălți, Genoa
+49, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Clifton, Real Salt Lake
+70, Alessandro Boccia, ITA, M, -, -, 30-06-04, -, Fano
+95, Emanuele Rao, ITA, F, -, -, 28-03-06, -, Chievo Verona
+96, Philipp Breit, AUT, D, 2.01, -, 02-06-03, -, Horn
+97, Serigne Deme, SEN, F, -, -, 04-02-05, -, None
+98, Antonio Imputato, ITA, M, 1.78, 72, 02-09-04, -, San Giorgio
+99, Simone Rabbi, ITA, F, 1.80, 74, 30-10-01, Bologna, Bologna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Marco Mancosu, ITA, M, 1.80, 77, 22-08-88, Cagliari, Cagliari
+38, Teun Wilke Braams, MEX, F, 1.91, 71, 14-03-02, Santiago de Querétaro, Cercle Brugge (On Loan)
+7, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Brescia
+36, Riccardo Spaltro, ITA, D, 1.85, 76, 19-02-00, Rome, Crotone
+2, Mark Pabai, NED, D, 1.89, 78, 30-09-00, Wijk bij Duurstede, Tabor Sežana
+87, Steven Nador, GER, D, 1.75, 64, 23-06-02, Krefeld, Aquila Montevarchi (On Loan)
+5, Salvatore Esposito, ITA, M, 1.78, 80, 07-10-00, Castellammare di Stabia, Spezia (On Loan)
+11, Mattia Finotto, ITA, F, 1.86, 72, 28-12-92, Pieve di Soligo, Cosenza
+8, Federico Proia, ITA, M, 1.85, 80, 04-02-96, Rome, Vicenza
+97, Ludovico D'Orazio, ITA, F, 1.75, 68, 19-02-00, Sora, Mantova (On Loan)
+22, Demba Thiam, SEN, G, 2.02, 95, 09-03-98, Dakar, Foggia (On Loan)

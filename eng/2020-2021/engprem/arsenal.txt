@@ -1,0 +1,79 @@
+=  Arsenal - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernd Leno, GER, G, 1.89, 78, 04-03-92, Bietigheim-Bissingen, Bayer Leverkusen
+2, Héctor Bellerín, ESP, D, 1.78, 74, 19-03-95, Barcelona, Barcelona
+3, Kieran Tierney, SCO, D, 1.78, 70, 05-06-97, Douglas, Celtic
+6, Gabriel, BRA, D, 1.90, 78, 19-12-97, São Paulo, Lille
+7, Bukayo Saka, ENG, M, 1.78, 65, 05-09-01, Ealing, None
+8, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Real Madrid
+9, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Lyon
+11, Martin Ødegaard, NOR, M, 1.76, 68, 17-12-98, Drammen, Real Madrid
+12, Willian, BRA, M, 1.75, 77, 09-08-88, Ribeirão Pires, Chelsea
+13, Rúnar Alex Rúnarsson, ISL, G, 1.85, 73, 18-02-95, Reykjavík, Dijon
+14, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Borussia Dortmund
+16, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Bolton W
+17, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Southampton
+18, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Atlético Madrid
+19, Nicolas Pépé, CIV, F, 1.78, 68, 29-05-95, Mantes-la-Jolie, Lille
+21, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Southampton
+22, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Flamengo
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Chelsea
+24, Reiss Nelson, ENG, F, 1.75, 70, 10-12-99, Lambeth, None
+25, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Basel
+30, Eddie Nketiah, ENG, F, 1.75, 72, 30-05-99, Lewisham, None
+32, Emile Smith Rowe, ENG, M, 1.82, 64, 28-07-00, Croydon, None
+33, Mat Ryan, AUS, G, 1.81, 73, 08-04-92, Plumpton, Brighton & HA
+34, Granit Xhaka, SUI, M, 1.85, 82, 27-09-92, Gnjilane, B Mönchengladbach
+35, Gabriel Martinelli, BRA, F, 1.80, 78, 18-06-01, Guarulhos, Ituano
+36, Ryan Alebiosu, ENG, D, -, -, 17-12-01, Islington, None
+38, Folarin Balogun, ENG, F, 1.78, 66, 03-07-01, New York, None
+39, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, None
+41, Ben Cottrell, ENG, M, -, -, 31-10-01, Watford, None
+43, Nikolaj Möller, SWE, F, 1.90, 72, 20-07-02, Helsingborg, Malmö FF
+44, Karl Hein, EST, G, 1.93, 77, 13-04-02, Põlva, Nõmme U
+45, James Hillson, ENG, G, -, -, 14-01-01, Bedford, Reading
+46, Dejan Iliev, MKD, G, 1.95, 87, 25-02-95, Strumica, Belasica
+48, George Lewis, NOR, F, 1.70, 61, 16-06-00, Kigali, Fram Larvik
+49, Joel López, ESP, D, 1.79, 75, 31-03-02, Barcelona, Barcelona
+50, Jordan McEneff, IRL, M, 1.83, 70, 08-01-01, Derry, None
+53, Arthur Okonkwo, ENG, G, 1.95, 85, 09-09-01, Camden, None
+59, Tom Smith, ENG, G, 1.89, 78, 30-01-02, -, None
+61, Tim Akinola, ENG, M, -, -, 08-05-01, -, Huddersfield T
+62, Jonathan Dinzeyi, ENG, D, 1.83, 83, 13-10-99, Islington, Tottenham H
+63, Omar Rekik, TUN, D, 1.86, 80, 20-12-01, Den Haag, Hertha Berlin
+66, Miguel Azeez, ENG, M, -, -, 20-09-02, Camden, None
+68, Cătălin Cîrjan, ROU, M, -, -, 01-12-02, Bucharest, Viitorul Domneşti
+69, Ovie Ejeheri, ENG, G, 1.83, 68, 23-04-03, Greenwich, None
+70, Hubert Graczyk, ENG, G, -, -, 28-02-03, Skwierzyna, None
+71, Alex Kirk, ENG, D, -, -, 27-10-02, -, None
+72, Levi Laing, ENG, M, -, -, 12-04-03, Kingston upon Thames, None
+73, Mazeed Ogungbo, IRL, D, 1.88, 75, 20-10-02, -, None
+74, Salah Oulad M'Hand, NED, M, -, -, 20-08-03, -, Feyenoord
+75, Daniel Oyegoke, ENG, D, 1.78, 65, 03-01-03, Barnet, None
+76, Luke Plange, ENG, F, 1.78, 78, 04-11-02, Kingston upon Thames, None
+78, Kido Taylor-Hart, ENG, F, -, -, 30-09-02, Barnet, None
+80, Mauro Bandeira, POR, M, -, -, 18-11-03, Loures, None
+81, Khayon Edwards, ENG, F, -, -, 12-09-03, Islington, None
+82, Marcelo Flores, MEX, M, 1.68, 60, 01-10-03, Georgetown [CAN], Ipswich T
+89, Zane Monlouis, ENG, D, -, -, 16-10-03, Lewisham, None
+90, Brooke Norton-Cuffy, ENG, D, 1.81, 70, 12-01-04, Hammersmith, None
+95, Joel Ideho, NED, F, -, -, 17-07-03, -, Ajax
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Aston Villa
+51, Mark McGuinness, IRL, D, 1.94, 70, 05-01-01, Slough, Ipswich T (On Loan)
+11, Lucas Torreira, URU, M, 1.68, 64, 11-02-96, Fray Bentos, Atlético Madrid (On Loan)
+29, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, Hertha Berlin (On Loan)
+40, Harry Clarke, ENG, D, 1.78, 71, 02-03-01, Ipswich, Oldham Ath (On Loan)
+54, James Olayinka, ENG, M, 1.76, 69, 05-10-00, Lambeth, Southend U (On Loan)
+31, Sead Kolašinac, BIH, D, 1.83, 82, 20-06-93, Karlsruhe, Schalke (On Loan)
+4, William Saliba, FRA, D, 1.93, 85, 24-03-01, Bondy, Nice (On Loan)
+33, Matt Macey, ENG, G, 1.98, 81, 09-09-94, Bristol, Hibernian
+5, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, Olympiakos
+10, Mesut Özil, GER, M, 1.80, 76, 15-10-88, Gelsenkirchen, Fenerbahçe
+15, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, WBA (On Loan)
+20, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Schalke
+28, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, Newcastle U (On Loan)

@@ -1,0 +1,39 @@
+=  Niort - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mathieu Michel, FRA, G, 1.88, 82, 04-09-91, Nîmes, Auxerre
+3, Darlin Yongwa, CMR, D, 1.77, 70, 22-09-00, Douala, Brasseries du Cameroun
+5, Guy Kilama, CMR, D, 1.80, 73, 30-05-99, Douala, None
+6, Dylan Louiserre, FRA, M, 1.72, 64, 02-02-95, Saint-Aubin, Le Havre
+7, David Djigla, BEN, F, 1.80, 78, 23-08-95, Avakpa, Bordeaux
+8, Olivier Kemen, FRA, M, 1.77, 78, 20-07-96, Metz, Lyon
+9, Ibrahim Sissoko, FRA, F, 1.90, 87, 27-11-95, Créteil, Lorient
+10, Valentin Jacob, FRA, M, 1.71, 67, 15-06-94, Paris, Annecy
+11, Pape Ibnou Ba, SEN, F, 1.74, 77, 05-01-93, Saint Louis, Athlético Marseille
+12, Joseph Mendes, GNB, F, 1.86, 80, 30-03-91, Évreux, Ajaccio
+15, Ibrahima Conté, GUI, D, 1.91, 82, 03-04-96, Conakry, Lorient
+16, Yanis Maronne, FRA, G, 1.83, 75, 20-04-02, Clermont-Ferrand, None
+17, Louis Ameka Autchanga, GAB, M, 1.74, 68, 03-10-96, Libreville, CF Mounana
+18, Goduine Koyalipou, CTA, F, 1.83, 76, 15-02-00, Bangui, None
+19, Brahima Doukansy, FRA, D, 1.88, 67, 21-08-99, Paris, St-Etienne
+20, Antoine Baroan, FRA, F, 1.88, 82, 24-06-00, Niort, None
+21, Lenny Vallier, FRA, D, 1.78, 70, 24-04-99, Stains, Reims
+22, Quentin Bena, FRA, M, 1.85, 79, 11-05-98, Poitiers, None
+23, Tom Lebeau, FRA, M, 1.74, 65, 23-07-98, Niort, None
+24, Yacine Bourhane, FRA, M, 1.84, 78, 30-09-98, Noisy-le-Grand, None
+25, Bilal Boutobba, FRA, F, 1.75, 70, 29-08-98, Marseille, Montpellier
+26, Brahim Konaté, FRA, M, 1.79, 64, 20-03-96, Montfermeil, Auxerre
+27, Bryan Passi, FRA, D, 1.89, 78, 05-08-97, Marseille, Montpellier
+28, Issouf Paro, BFA, D, 1.84, 79, 16-10-94, Bobo-Dioulasso, Santos [RSA]
+29, Joris Moutachy, FRA, D, 1.77, 72, 04-11-97, Orléans, Romorantin
+30, Quentin Braat, FRA, G, 1.93, 85, 06-07-97, Fontainebleau, Nantes
+34, Samuel Renel, FRA, M, 1.78, 72, 03-11-01, Fort-de-France, Marseille
+36, Gabin Delguel, FRA, D, 1.75, 69, 20-01-01, Rochefort, None
+37, Yassine Benhattab, FRA, F, 1.71, 58, 18-11-02, Marseille, None
+38, Bradley M'Bondo, FRA, D, -, -, 30-10-01, Paris, Drancy
+40, Emyl Leclercq, FRA, G, 1.88, 81, 06-12-02, Singapore, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Saturnin Allagbé, BEN, G, 1.87, 71, 22-11-93, Assaba, Dijon

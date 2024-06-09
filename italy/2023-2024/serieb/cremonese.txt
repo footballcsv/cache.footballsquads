@@ -1,0 +1,49 @@
+=  Cremonese - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mouhamadou Sarr, SEN, G, 1.90, 78, 05-01-97, Kaolack, Bologna
+4, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Lecco
+5, Luca Ravanelli, ITA, D, 1.87, 75, 16-01-97, Trento, Sassuolo
+6, Charles Pickel, COD, M, 1.84, 76, 15-05-97, Basel, Famalicão
+7, César Falletti, URU, F, 1.74, 65, 02-12-92, Artigas, Ternana
+8, Michele Collocolo, ITA, M, 1.88, 78, 08-11-99, Taranto, Ascoli
+9, Daniel Ciofani, ITA, F, 1.90, 82, 31-07-85, Avezzano, Frosinone
+10, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Perugia
+11, Felix Afena-Gyan, GHA, F, 1.75, 75, 19-01-03, Sunyani, Roma
+12, Thomas Brahja, ITA, G, 1.87, -, 26-03-05, -, None
+13, Alessandro Tuia, ITA, D, 1.84, 74, 08-06-90, Civita Castellana, Lecce
+15, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona
+17, Leonardo Sernicola, ITA, D, 1.88, 78, 30-07-97, Civita Castellana, Sassuolo
+18, Paolo Ghiglione, ITA, M, 1.91, 80, 02-02-97, Voghera, Genoa
+19, Michele Castagnetti, ITA, M, 1.80, 71, 27-12-89, Montecchio Emilia, SPAL
+20, Franco Vázquez, ARG, M, 1.87, 80, 22-02-89, Tanti, Parma
+21, Gianluca Saro, ITA, G, 1.87, 78, 25-06-00, San Daniele del Friuli, Crotone
+22, Andreas Jungdal, DEN, G, 1.91, 82, 22-02-02, Singapore, Milan
+24, Guido Della Rovere, ITA, M, -, -, 04-06-07, -, None
+26, Valentin Antov, BUL, D, 1.85, 75, 09-11-00, Sofia, Monza
+31, Yuri Rocchetti, ITA, D, 1.72, 58, 15-06-03, Rieti, Triestina
+32, Gonzalo Abrego, ARG, M, 1.84, 75, 07-01-00, Maipú, Godoy Cruz (Mendoza)
+33, Giacomo Quagliata, ITA, D, 1.75, 65, 19-02-00, Palermo, Heracles Almelo
+37, Žan Majer, SVN, M, 1.79, 69, 25-07-92, Maribor, Reggina
+44, Luka Lochoshvili, GEO, D, 1.91, 83, 29-05-98, Tbilisi, Wolfsberger AC
+71, Dennis Johnsen, NOR, F, 1.85, 72, 17-02-98, Skien, Venezia
+74, Frank Tsadjout, ITA, F, 1.90, 90, 28-07-99, Perugia, Milan
+90, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Genoa
+97, Alessandro Livieri, ITA, G, 1.85, 75, 21-01-97, Milan, Pisa
+98, Luca Zanimacchia, ITA, F, 1.78, 72, 19-07-98, Desio, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Federico Agazzi, ITA, G, 1.88, 78, 18-04-04, -, Alcione (On Loan)
+99, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Reggiana (On Loan)
+4, Emanuel Aiwu, AUT, D, 1.84, 77, 25-12-00, Innsbruck, Birmingham C (On Loan)
+62, Tommaso Milanese, ITA, M, 1.72, 61, 31-07-02, Galatina, Ascoli (On Loan)
+28, Maissa Ndiaye, SEN, D, 1.88, 83, 28-01-02, Dakar, Železničar Pančevo (On Loan)
+91, Andrea Bertolacci, ITA, M, 1.79, 72, 11-01-91, Rome, Fatih Karagümrük (On Loan)
+14, Luca Valzania, ITA, M, 1.82, 72, 05-03-96, Cesena, Ascoli (On Loan)
+27, Alessio Brambilla, ITA, M, 1.84, 73, 16-06-01, Vimercate, Gubbio (On Loan)
+7, Nikola Sekulov, ITA, M, 1.81, 71, 18-02-02, Piacenza, Juventus
+23, Christian Acella, ITA, M, 1.60, 58, 07-07-02, Milan, Giana Erminio (On Loan)
+3, Emanuele Valeri, ITA, D, 1.80, 78, 07-12-98, Rome, Frosinone
+77, David Okereke, NGA, F, 1.82, 75, 29-08-97, Lagos, Torino (On Loan)

@@ -1,0 +1,43 @@
+=  Augsburg - German Bundesliga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Manninger, AUT, G, 1.88, 84, 04-06-77, Salzburg, Juventus
+2, Paul Verhaegh, NED, D, 1.78, 68, 01-09-83, Kronenberg, Vitesse
+4, Dominik Reinhardt, GER, D, 1.88, 80, 19-12-84, Nuremburg, Nürnberg
+5, Ragnar Klavan, EST, D, 1.86, 78, 30-10-85, Viljandi, AZ Alkmaar
+7, Halil Altıntop, TUR, M, 1.86, 82, 08-12-82, Gelsenkirchen, Trabzonspor
+8, Markus Feulner, GER, M, 1.81, 77, 12-02-82, Scheßlitz, Nürnberg
+9, Shawn Parker, GER, F, 1.79, 76, 07-03-93, Wiesbaden, Mainz
+10, Daniel Baier, GER, M, 1.75, 73, 18-05-84, Cologne, Wolfsburg
+11, Alexander Esswein, GER, M, 1.81, 76, 25-03-90, Worms, Nürnberg
+12, Baba Rahman, GHA, D, 1.79, 70, 02-07-94, Tamale, Greuther Fürth
+13, Tobias Werner, GER, M, 1.77, 67, 19-07-85, Gera, Carl Zeiss Jena
+14, Jan Morávek, CZE, M, 1.79, 71, 01-11-89, Prague, Schalke
+16, Christoph Janker, GER, D, 1.85, 78, 14-02-85, Cham, Hertha Berlin
+18, Jan-Ingwer Callsen-Bracker, GER, D, 1.87, 81, 23-09-84, Schleswig, B Mönchengladbach
+19, Pierre-Emile Højbjerg, DEN, M, 1.87, 81, 05-08-95, Copenhagen, Bayern Munich
+20, Hong Jeong-Ho, KOR, D, 1.86, 77, 12-08-89, Jeju, Jeju U
+21, Dominik Kohr, GER, M, 1.83, 75, 31-01-94, Trier, Bayer Leverkusen
+22, Ji Dong-Won, KOR, F, 1.87, 78, 28-05-91, Jeju, Borussia Dortmund
+23, Tim Matavž, SVN, F, 1.88, 74, 13-01-89, Šempeter pri Gorici, PSV Eindhoven
+25, Raúl Bobadilla, PAR, F, 1.80, 82, 18-06-87, Formosa, Basel
+26, Bastian Kurz, GER, F, 1.78, 75, 23-09-96, Altötting, None
+29, Marco Schuster, GER, M, 1.79, 73, 10-10-95, Rögling, None
+30, Caiuby, BRA, F, 1.83, 75, 14-07-88, São Paulo, Ingolstadt
+31, Arif Ekin, TUR, M, 1.76, 69, 14-09-95, Augsburg, Bayern Munich
+32, Raphael Framberger, GER, D, 1.79, 73, 06-09-95, Augsburg, None
+33, Sascha Mölders, GER, F, 1.85, 79, 20-03-85, Essen, FSV Frankfurt
+34, Nikola Djurdjić, SRB, F, 1.84, 77, 01-04-86, Pirot, Greuther Fürth
+35, Marwin Hitz, SUI, G, 1.92, 89, 18-09-87, St. Gallen, Wolfsburg
+36, Max Reinthaler, ITA, M, 1.83, 78, 22-03-95, Bolzano, Rydaholms GoIF
+37, Ioannis Gelios, GRE, G, 1.90, 76, 24-04-92, Augsburg, None
+39, Maik Uhde, GER, D, 1.82, 70, 23-05-94, Schwabmünchen, None
+40, Tim Rieder, GER, D, 1.86, 73, 03-09-93, Dachau, Bayern Munich
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Mathias Fetsch, GER, F, 1.89, 81, 30-09-88, Malsch, Dynamo Dresden (On Loan)
+3, Ronny Philp, GER, D, 1.83, 78, 28-01-89, Sibiu, Greuther Fürth (On Loan)
+26, Erik Thommy, GER, M, 1.74, 64, 20-08-94, Ulm, Kaiserslautern (On Loan)
+17, Marcel de Jong, CAN, D, 1.74, 73, 15-10-86, New Market, Sporting Kansas City

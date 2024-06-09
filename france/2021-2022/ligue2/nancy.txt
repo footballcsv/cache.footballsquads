@@ -1,0 +1,31 @@
+=  Nancy - French Ligue 2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Baptiste Valette, FRA, G, 1.85, 80, 01-09-92, Sète, Nîmes
+2, Soares, GNB, D, 1.86, 84, 22-01-01, Bissau, Batuque
+3, Abdelhamid El Kaoutari, MAR, D, 1.80, 73, 17-03-90, Montpellier, Wydad Casablanca
+4, Thomas Basila, FRA, D, 1.87, 77, 30-04-99, Orléans, Oostende
+5, Giovanni Haag, FRA, D, 1.85, 80, 30-05-00, Metz, None
+6, Grégoire Lefebvre, FRA, M, 1.74, 67, 13-05-94, Mont-Saint-Aignan, Red Star
+7, Mickaël Biron, FRA, F, 1.70, 71, 26-08-97, Ducos, Oostende
+8, Warren Bondo, FRA, M, 1.77, 63, 15-09-03, Evry, None
+9, Andrew Jung, FRA, F, 1.90, 84, 08-10-97, Remiremont, Oostende
+10, Mamadou Thiam, SEN, F, 1.82, 82, 20-03-95, Aubervilliers, Oostende
+11, Rosario Latouchent, FRA, D, 1.80, 70, 21-03-96, Sarcelles, Laval
+12, Neil El Aynaoui, FRA, M, 1.85, 77, 02-07-01, Nancy, None
+13, Dorian Bertrand, FRA, F, 1.76, 64, 21-05-93, Saint-Denis, Angers
+14, Antonin Bobichon, FRA, M, 1.70, 70, 14-09-95, Bagnols-sur-Cèze, Angers
+15, Kelvin Patrick, CPV, M, -, -, 08-07-00, São Vicente, Batuque
+16, Nathan Trott, ENG, G, 1.84, 70, 21-11-98, -, West Ham U
+17, Elliot Simões, ANG, F, 1.72, 68, 20-12-99, Amadora, Barnsley
+18, Souleymane Karamoko, FRA, D, 1.70, 65, 29-07-92, Paris, Entente SSG
+19, William Bianda, FRA, D, 1.85, 82, 30-04-00, Suresnes, Roma
+20, Thomas Fontaine, MAD, D, 1.82, 73, 08-05-91, Saint-Pierre, Lorient
+21, Vinni Triboulet, FRA, F, 1.83, 75, 18-06-99, Douala, None
+22, Shaquil Delos, FRA, D, 1.87, 75, 16-06-99, Les Lilas, Chambly
+23, Saliou Ciss, SEN, D, 1.73, 69, 15-09-89, Dakar, Angers
+24, Edmond Akichi, CIV, M, 1.78, 75, 24-04-90, Abidjan, Paris FC
+27, Yeni Atito Ngbakoto, FRA, M, 1.72, 71, 23-01-92, Croix, Panathinaikos
+28, Sieben Dewaele, BEL, M, 1.80, 72, 02-02-99, Kortrijk, Oostende
+29, Lamine Cissé, FRA, F, 1.82, 63, 15-02-03, Créteil, None
+30, Hugo Constant, FRA, G, 1.83, 73, 29-11-99, Nancy, None

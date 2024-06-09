@@ -1,0 +1,64 @@
+=  Charlton Athletic - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, ECU Joondalup
+2, Lloyd Jones, ENG, D, 1.90, 75, 07-10-95, Plymouth, Cambridge U
+3, Terell Thomas, LCA, D, 1.83, 71, 18-10-95, Redbridge, Reading
+4, George Dobson, ENG, M, 1.85, 73, 15-11-97, Harold Wood, Sunderland
+5, Lucas Ness, ENG, D, 1.90, 79, 07-02-02, Kingston upon Thames, Metropolitan Police
+6, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Fulham
+8, Panutche Camará, GNB, M, 1.85, 63, 28-02-97, Canchungo, Ipswich T
+9, Alfie May, ENG, F, 1.76, 72, 02-07-93, Gravesend, Cheltenham T
+11, Miles Leaburn, ENG, F, 1.96, 80, 28-11-03, Bromley, None
+12, Terry Taylor, WAL, M, 1.83, 71, 29-06-01, Aberdeen, Burton Alb
+13, Connor Wickham, ENG, F, 1.89, 90, 31-03-93, Hereford, Cardiff C
+14, Freddie Ladapo, NGA, F, 1.83, 79, 01-02-93, Romford, Ipswich T
+17, Tayo Edun, ENG, D, 1.77, 63, 14-05-98, Islington, Blackburn R
+18, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, MK Dons
+20, Tyreece Campbell, ENG, M, 1.78, 65, 14-09-03, Southwark, None
+21, Harvey Isted, ENG, G, 1.86, 70, 05-03-97, Chichester, Luton T
+22, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Birmingham C
+25, Louie Watson, IRL, M, 1.76, 60, 07-06-01, Croydon, Luton T
+26, Thierry Small, ENG, D, -, -, 01-08-04, Solihull, Southampton
+27, Macaulay Gillesphey, ENG, D, 1.80, 70, 24-11-95, Ashington, Plymouth Arg
+28, Richard Chin, ENG, M, -, -, 15-10-02, -, None
+29, Daniel Kanu, ENG, F, -, -, 14-11-04, -, None
+30, Tyreeq Bakinson, ENG, M, 1.85, 70, 08-01-98, Camden, Sheffield W
+31, Henry Molyneux, IRL, G, -, -, 01-06-05, -, None
+32, Nathan Asiimwe, UGA, D, -, -, 29-12-04, -, None
+33, Karoy Anderson, ENG, M, -, -, 01-10-04, -, None
+34, Jeremy Santos, ENG, M, -, -, 03-01-03, -, None
+35, Nazir Bakrin, ENG, M, -, -, 23-10-02, -, None
+36, Henry Rylah, ENG, M, -, -, 18-11-05, -, None
+37, Jacob Roddy, ENG, D, -, -, 10-04-03, -, None
+39, Josh Laqeretabua, FIJ, M, -, -, 26-09-05, -, None
+40, Conor Coventry, IRL, M, 1.75, 65, 20-03-00, Waltham Forest, West Ham U
+41, Prince Adegoke, ENG, G, -, -, 03-11-03, Farnborough, Chelsea
+42, Micah Mbick, ENG, F, -, -, 08-11-06, Newham, None
+43, Ollie Hobden, ENG, D, -, -, 29-09-04, Eastbourne, None
+44, Toby Bower, ENG, D, -, -, 17-04-05, -, None
+45, Patrick Casey, IRL, F, -, -, 19-12-05, -, None
+46, Lewis Fiorini, SCO, M, -, -, 17-05-02, Manchester, Manchester C
+47, Rarmani Edmonds-Green, ENG, D, 1.81, 73, 14-01-99, Peckham, Huddersfield T
+48, Lewis Ward, ENG, G, 1.95, 81, 05-03-97, -, Swindon T
+49, Kazenga LuaLua, COD, M, 1.80, 76, 10-12-90, Kinshasa, Levadiakos
+66, Kayne Ramsay, ENG, D, 1.79, 66, 10-10-00, Hackney, Harrogate T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Mandela Egbo, ENG, D, 1.80, 70, 17-08-97, Brent, Colchester U
+19, Jack Payne, ENG, M, 1.65, 60, 25-10-94, Tower Hamlets, MK Dons (On Loan)
+7, Diallang Jaiyesimi, ENG, M, 1.81, 72, 18-03-99, Southwark, St Johnstone (On Loan)
+24, Zach Mitchell, ENG, D, 1.85, 70, 09-01-05, Bromley, Colchester U (On Loan)
+14, Charlie Kirk, ENG, M, 1.70, 70, 24-12-97, Winsford, Crewe Alex
+15, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, Wealdstone (On Loan)
+30, Slobodan Tedić, SRB, F, 1.90, 80, 13-04-00, Podgorica, Manchester C
+40, Sam Walker, ENG, G, 1.99, 78, 02-10-91, Gravesend, Bradford C
+27, Chem Campbell, WAL, F, 1.80, 72, 30-12-02, Birmingham, Wolverhampton W
+38, Harvey Kedwell, ENG, M, -, -, 19-12-04, -, Dagenham & Redbridge (On Loan)
+23, Corey Blackett-Taylor, ENG, M, 1.70, 67, 23-09-97, Birmingham, Derby Co (On Loan)
+13, James Abankwah, IRL, D, 1.85, 79, 16-01-04, Dublin, Udinese
+10, Scott Fraser, SCO, M, 1.83, 69, 30-03-95, Dundee, Hearts (On Loan)
+16, Conor McGrandles, SCO, M, 1.83, 73, 24-09-95, Falkirk, Lincoln C (On Loan)
+26, Deji Elerewe, ENG, D, 1.91, 85, 14-09-03, Croydon, Bromley

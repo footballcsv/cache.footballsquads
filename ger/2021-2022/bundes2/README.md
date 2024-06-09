@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2021/2022
+
+18 teams
+- [SV Darmstadt 98](darmstadt.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hansa Rostock](rostock.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [Holstein Kiel](holskiel.txt)
+- [FC Ingolstadt 04](ingols.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [FC Schalke 04](schalke.txt)
+- [Werder Bremen](wbremen.txt)

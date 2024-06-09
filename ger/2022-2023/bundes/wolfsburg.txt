@@ -1,0 +1,43 @@
+=  VfL Wolfsburg - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Koen Casteels, BEL, G, 1.96, 83, 25-06-92, Bonheiden, 1899 Hoffenheim
+2, Kilian Fischer, GER, D, 1.82, 77, 12-10-00, Miltenberg, Nürnberg
+3, Sebastiaan Bornauw, BEL, D, 1.90, 81, 22-03-99, Wemmel, Köln
+4, Maxence Lacroix, FRA, D, 1.90, 88, 06-04-00, Villeneuve-Saint-Georges, Sochaux
+5, Micky van de Ven, NED, D, 1.93, 81, 19-04-01, Wormer, FC Volendam
+6, Paulo Otávio, BRA, D, 1.73, 68, 23-11-94, Ourinhos, Ingolstadt
+7, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Benfica
+8, Nicolas Cozza, FRA, D, 1.78, 72, 08-01-99, Ganges, Montpellier
+10, Lukas Nmecha, GER, F, 1.85, 80, 12-12-98, Hamburg, Manchester C
+12, Pavao Pervan, AUT, G, 1.94, 92, 13-11-87, Livno, LASK Linz
+16, Jakub Kamiński, POL, M, 1.79, 68, 05-06-02, Ruda Śląska, Lech Poznań
+18, Dženan Pejčinović, GER, F, 1.88, 78, 15-02-05, Munich, Augsburg
+20, Ridle Baku, GER, M, 1.76, 72, 08-04-98, Mainz, Mainz
+22, Felix Nmecha, ENG, M, 1.86, 70, 10-10-00, Hamburg, Manchester C
+23, Jonas Wind, DEN, F, 1.90, 82, 07-02-99, Hvidovre, FC København
+27, Maximilian Arnold, GER, M, 1.83, 78, 27-05-94, Riesa, Dynamo Dresden
+29, Josuha Guilavogui, FRA, M, 1.87, 78, 19-09-90, Ollioules, Atlético Madrid
+30, Niklas Klinger, GER, G, 1.86, 80, 13-10-95, Wolfsburg, None
+31, Yannick Gerhardt, GER, M, 1.84, 79, 13-03-94, Würselen, Köln
+32, Mattias Svanberg, SWE, M, 1.85, 77, 05-01-99, Malmö, Bologna
+33, Omar Marmoush, EGY, F, 1.77, 73, 07-02-99, Cairo, Wadi Degla
+35, Philipp Schulze, GER, G, 1.89, 82, 29-01-03, Neustadt am Rübenberge, None
+36, Lukáš Ambros, CZE, M, 1.82, 71, 05-06-04, Dolní Němčí, Slavia Prague
+38, Bartol Franjić, CRO, M, 1.86, 77, 14-01-00, Zagreb, Dinamo Zagreb
+39, Patrick Wimmer, AUT, M, 1.82, 77, 30-05-01, Tulln, Arminia Bielefeld
+40, Kevin Paredes, USA, M, 1.68, 54, 07-05-03, South Riding, DC United
+47, David Odogu, GER, D, -, -, 03-06-06, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Marin Pongračić, CRO, D, 1.89, 85, 11-09-97, Landshut, Lecce (On Loan)
+21, Bartosz Białek, POL, F, 1.91, 84, 11-11-01, Brzeg, Vitesse (On Loan)
+11, Renato Steffen, SUI, M, 1.70, 65, 03-11-91, Aarau, Lugano
+8, Aster Vranckx, BEL, M, 1.83, 78, 04-10-02, Erps-Kwerps, Milan (On Loan)
+45, Lino Kasten, GER, G, 1.88, 90, 17-01-01, Berlin, Altglienicke
+9, Max Kruse, GER, F, 1.80, 77, 19-03-88, Reinbek, 
+15, Jérôme Roussillon, FRA, D, 1.75, 75, 06-01-93, Sarcelles, Union Berlin
+14, Josip Brekalo, CRO, M, 1.75, 72, 23-06-98, Zagreb, Fiorentina
+17, Maximilian Philipp, GER, F, 1.79, 74, 01-03-94, Berlin, Werder Bremen (On Loan)

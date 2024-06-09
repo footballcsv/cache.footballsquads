@@ -1,0 +1,61 @@
+=  Swansea City - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Ryan Bennett, ENG, D, 1.88, 70, 06-03-90, Orsett, Wolverhampton W
+3, Ryan Manning, IRL, D, 1.72, 66, 14-06-96, Galway, QPR
+4, Flynn Downes, ENG, M, 1.72, 70, 20-01-99, Brentwood, Ipswich T
+5, Ben Cabango, WAL, D, 1.91, 75, 30-05-00, Cardiff, None
+6, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Falkirk
+7, Korey Smith, ENG, M, 1.83, 78, 31-01-91, Hatfield, Bristol C
+8, Matt Grimes, ENG, M, 1.78, 70, 15-07-95, Exeter, Exeter C
+9, Michael Obafemi, IRL, F, 1.69, 71, 06-07-00, Dublin, Southampton
+10, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Celtic
+12, Jamie Paterson, ENG, F, 1.75, 67, 20-12-91, Coventry, Bristol C
+13, Hannes Wolf, AUT, M, 1.79, 66, 16-04-99, Graz, B Mönchengladbach
+14, Kyle Joseph, SCO, F, 1.86, 75, 10-09-01, Barnet, Wigan Ath
+15, Nathanael Ogbeta, ENG, D, 1.88, 81, 28-04-01, Salford, Shrewsbury T
+17, Joël Piroe, NED, F, 1.81, 74, 02-08-99, Nijmegen, PSV Eindhoven
+18, Ben Hamer, ENG, G, 1.93, 78, 20-11-87, Taunton, Huddersfield T
+19, Tivonge Rushesha, WAL, D, 1.61, 53, 24-07-02, -, None
+21, Yan Dhanda, ENG, M, 1.73, 65, 14-12-98, Birmingham, Liverpool
+22, Joel Latibeaudiere, ENG, D, 1.90, 71, 06-01-00, Doncaster, Manchester C
+23, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Fulham
+26, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Tottenham H
+30, Finley Burns, ENG, D, 1.85, 71, 17-06-03, Southwark, Manchester C
+33, Andy Fisher, ENG, G, 1.83, 83, 12-02-98, Wigan, MK Dons
+34, Scott Butler, WAL, D, 1.85, 77, 30-12-02, Wrexham, Wrexham
+35, Lincoln McFayden, ENG, D, -, -, 11-02-02, -, Preston NE
+36, Ben Lloyd, WAL, M, 1.75, 70, 14-03-05, Swansea, None
+38, Cameron Evans, WAL, D, 1.88, 77, 23-02-01, Swansea, None
+42, Nicolas Hansen, DEN, G, -, -, 10-07-01, -, Everton
+45, Cameron Congreve, WAL, M, 1.80, 70, 24-01-04, Blaenau Gewnt, None
+46, Josh Gould, WAL, G, 1.95, 92, 27-03-97, Taunton, Taff's Well
+47, Azeem Abdulai, ENG, M, -, -, 09-12-02, -, Leicester C
+48, Joel Cotterill, WAL, M, -, -, 10-10-04, -, None
+49, Jamie Searle, NZL, G, 1.91, 79, 25-11-00, Whakatāne, Aston Villa
+51, Rio Campbell, ENG, F, -, -, 06-10-02, -, Watford
+53, Ben Erickson, WAL, D, -, -, 04-12-00, -, None
+54, Sam Leverett, ENG, M, 1.76, 61, 28-09-02, Northallerton, Leeds U
+58, Josh Thomas, WAL, F, -, -, 24-09-02, -, None
+59, Tarrelle Whittaker, ENG, F, -, -, 23-11-02, -, Tottenham H
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Jordan Garrick, ENG, F, 1.83, 78, 15-07-98, -, Plymouth Arg (On Loan)
+10, Jamal Lowe, JAM, F, 1.83, 79, 27-01-94, Harrow, Bournemouth
+23, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, Burnley
+31, Ollie Cooper, WAL, M, 1.76, 68, 14-12-99, Derby, Newport Co (On Loan)
+11, Morgan Whittaker, ENG, F, 1.83, 69, 07-01-01, Derby, Lincoln C (On Loan)
+27, Ethan Laird, ENG, D, 1.77, 66, 05-08-01, Basingstoke, Manchester U
+1, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, Peterborough U (On Loan)
+57, Michael Murphy, ENG, F, -, -, 12-09-02, -, Llanelli
+20, Liam Cullen, WAL, F, 1.78, 63, 23-04-99, Haverfordwest, Lincoln C (On Loan)
+25, Lewis Webb, WAL, G, 1.85, 72, 12-09-01, Newport, Shelbourne (On Loan)
+24, Jake Bidwell, ENG, D, 1.83, 70, 21-03-93, Southport, Coventry C
+37, Daniel Williams, WAL, M, 1.72, 65, 19-04-01, Swansea, Dundalk (On Loan)
+16, Brandon Cooper, WAL, D, 1.85, 74, 14-01-00, Bridgend, Swindon T (On Loan)
+46, Rhys Williams, ENG, D, 1.96, 82, 03-02-01, Preston, Liverpool
+28, Liam Walsh, ENG, M, 1.78, 66, 15-09-97, Whiston, Hull C (On Loan)
+55, Ben Margetson, WAL, D, 1.85, 71, 01-09-00, Huddersfield, Bromley
+48, Jacob Jones, WAL, D, -, -, 05-09-01, -, De-Registered

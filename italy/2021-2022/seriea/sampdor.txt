@@ -1,0 +1,59 @@
+=  Sampdoria - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emil Audero, ITA, G, 1.92, 83, 18-01-97, Mataram, Juventus
+2, Morten Thorsby, NOR, M, 1.89, 79, 05-05-96, Oslo, SC Heerenveen
+3, Tommaso Augello, ITA, D, 1.80, 70, 30-08-94, Milan, Spezia
+5, Stefano Sensi, ITA, M, 1.68, 62, 05-08-95, Urbino, Internazionale
+6, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Hamburg
+7, Vladyslav Supriaha, UKR, F, 1.82, 75, 15-02-00, Odessa, Dynamo Kyiv
+10, Francesco Caputo, ITA, F, 1.81, 77, 06-08-87, Altamura, Sassuolo
+11, Abdelhamid Sabiri, GER, F, 1.86, 80, 28-11-96, Goulmima, Ascoli
+13, Andrea Conti, ITA, D, 1.84, 76, 02-03-94, Lecco, Milan
+14, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Leeds U
+15, Omar Colley, GAM, D, 1.91, 87, 24-10-92, Lamin, KRC Genk
+16, Kristoffer Askildsen, NOR, M, 1.90, 77, 09-01-01, Oslo, Stabæk
+21, Sebastian Giovinco, ITA, F, 1.64, 59, 26-01-87, Turin, Al-Hilal Saudi
+22, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, Southampton
+23, Manolo Gabbiadini, ITA, F, 1.86, 75, 26-11-91, Calcinate, Southampton
+24, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Legia Warszawa
+25, Alex Ferrari, ITA, D, 1.91, 80, 01-07-94, Modena, Bologna
+26, Giangiacomo Magnani, ITA, D, 1.91, 85, 04-10-95, Correggio, Verona
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Torino
+28, Gerard Yepes, ESP, M, 1.70, 64, 25-08-02, Barcelona, Sant Andreu
+29, Nicola Murru, ITA, D, 1.80, 74, 16-12-94, Cagliari, Cagliari
+30, Nicola Ravaglia, ITA, G, 1.84, 78, 12-12-88, Forlì, Cremonese
+31, Francesco Migliardi, ITA, D, 1.83, 70, 19-03-03, Genoa, None
+32, Ivan Saio, ITA, G, 1.92, 72, 16-03-02, Voghera, None
+33, Wladimiro Falcone, ITA, G, 1.95, 85, 12-04-95, Rome, None
+34, Luigi Aquino, ITA, D, 1.84, -, 01-02-02, Pompei, None
+35, Giovanni Bonfanti, ITA, D, 1.87, 70, 17-01-03, Milan, Atalanta
+36, Federico Zorzi, ITA, G, 1.93, 80, 06-03-04, Genoa, None
+37, Daniele Montevago, ITA, F, 1.84, -, 18-03-03, Palermo, Palermo
+38, Mikkel Damsgaard, DEN, M, 1.80, 71, 03-07-00, Roskilde, FC Nordsjælland
+39, Lorenzo Di Stefano, ITA, F, 1.82, 75, 19-09-02, Catania, Catania
+40, Marco Somma, ITA, D, 1.71, -, 07-02-02, Vico Equense, None
+67, Matteo Esposito, ITA, G, 1.93, 74, 30-11-01, Massa di Somma, Juve Stabia
+70, Simone Trimboli, ITA, M, 1.76, 76, 19-04-02, Lavagna, None
+87, Antonio Candreva, ITA, F, 1.80, 70, 28-02-87, Rome, Internazionale
+88, Tomás Rincón, VEN, M, 1.77, 78, 13-01-88, San Cristóbal, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Antonino La Gumina, ITA, F, 1.82, 72, 06-03-96, Palermo, Como (On Loan)
+26, Mehdi Léris, FRA, M, 1.86, 74, 23-05-98, Mont-de-Marsan, Brescia (On Loan)
+14, Jakub Jankto, CZE, M, 1.84, 73, 19-01-96, Prague, Getafe
+98, Manuel De Luca, ITA, F, 1.90, 67, 17-07-98, Bolzano, Perugia (On Loan)
+21, Lorenzo Tonelli, ITA, D, 1.83, 75, 17-01-90, Florence, Empoli
+42, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Internacional (On Loan)
+17, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Verona (On Loan)
+92, Jeison Murillo, COL, D, 1.82, 78, 27-05-92, Cali, Celta Vigo (On Loan)
+12, Fabio Depaoli, ITA, D, 1.82, 71, 24-04-97, Riva del Garda, Verona (On Loan)
+5, Adrien Silva, POR, M, 1.75, 75, 15-03-89, Angoulême, Al-Wahda
+9, Ernesto Torregrossa, ITA, F, 1.84, 86, 28-06-92, Caltanissetta, Pisa (On Loan)
+4, Julian Chabot, GER, D, 1.95, 85, 12-02-98, Hanau, Köln (On Loan)
+11, Riccardo Ciervo, ITA, F, 1.90, 88, 01-04-02, Latina, Roma
+8, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Empoli (On Loan)
+20, Mohammed Ihattaren, NED, M, 1.82, 75, 12-02-02, Utrecht, Juventus
+19, Radu Drăgușin, ROU, D, 1.91, 82, 03-02-02, Bucharest, Juventus

@@ -1,0 +1,21 @@
+# Portuguese Primeira Liga 2023/2024
+
+18 teams
+- [Arouca](arouca.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Casa Pia](casapia.txt)
+- [Chaves](chaves.txt)
+- [Estoril](estoril.txt)
+- [Estrela da Amadora](estrela.txt)
+- [Famalicão](famalicao.txt)
+- [Farense](farense.txt)
+- [Gil Vicente](gilvic.txt)
+- [Moreirense](moreir.txt)
+- [Portimonense](portimon.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vizela](vizela.txt)

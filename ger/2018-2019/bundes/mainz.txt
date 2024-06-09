@@ -1,0 +1,39 @@
+=  1.FSV Mainz 05 - German Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Adler, GER, G, 1.90, 85, 15-01-85, Leipzig, Hamburg
+2, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Bayer Leverkusen
+3, Aarón, ESP, D, 1.80, 72, 22-04-97, Montmeló, Espanyol
+5, Jean-Paul Boëtius, NED, F, 1.82, 74, 22-03-94, Rotterdam, Feyenoord
+6, Danny Latza, GER, M, 1.79, 75, 07-12-89, Gelsenkirchen, Bochum
+7, Robin Quaison, SWE, F, 1.83, 76, 09-10-93, Stockholm, Palermo
+8, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Bayer Leverkusen
+9, Jean-Philippe Mateta, FRA, F, 1.92, 84, 28-06-97, Clamart, Lyon
+10, Alexandru Maxim, ROU, M, 1.78, 70, 08-07-90, Piatra Neamţ, Stuttgart
+11, Emil Berggreen, DEN, F, 1.94, 85, 10-05-93, Helsingør, Eintracht Braunschweig
+14, Pierre Kunde, CMR, M, 1.80, 86, 26-07-95, Limbé, Atlético Madrid B
+16, Stefan Bell, GER, D, 1.92, 86, 24-08-91, Andernach, None
+18, Daniel Brosinski, GER, D, 1.78, 65, 17-07-88, Karlsruhe, Greuther Fürth
+19, Moussa Niakhaté, FRA, D, 1.75, 75, 08-03-96, Roubaix, Metz
+20, Anthony Ujah, NGA, F, 1.83, 82, 20-11-90, Tudun Wada, Liaoning Whowin
+21, Karim Onisiwo, AUT, F, 1.88, 76, 17-03-92, Vienna, Mattersburg
+22, Florian Müller, GER, G, 1.92, 85, 13-11-97, Saarlouis, Saarbrücken
+23, Phillipp Mwene, AUT, D, 1.70, 66, 29-01-94, Vienna, Kaiserslautern
+24, Gaétan Bussmann, FRA, D, 1.84, 75, 02-02-91, Épinal, Metz
+25, Jean-Philippe Gbamin, CIV, M, 1.86, 83, 25-05-95, San-Pédro, Lens
+26, Niko Bungert, GER, D, 1.88, 68, 24-10-86, Bochum, Kickers Offenbach
+27, Robin Zentner, GER, G, 1.93, 96, 28-10-94, Rüdesheim, None
+28, Issah Abass, GHA, F, 1.73, 67, 26-09-98, Asokwa, Olimpija Ljubljana
+29, Jonathan Burkardt, GER, F, 1.80, 74, 11-07-00, Darmstadt, None
+31, Ahmet Gürleyen, TUR, D, 1.92, 90, 26-04-99, Berlin, TeBe Berlin
+33, Jannik Huth, GER, G, 1.85, 80, 15-04-94, Bingen, Hassia Bingen
+34, Ridle Baku, GER, M, 1.76, 72, 08-04-98, Mainz, None
+35, Leandro Barreiro, LUX, M, 1.70, 65, 03-01-00, Erpeldange, Erpeldange
+37, Finn Dahmen, GER, G, 1.86, 80, 27-03-98, Wiesbaden, None
+38, Gerrit Holtmann, GER, M, 1.83, 73, 25-03-95, Bremen, Eintracht Braunschweig
+42, Alexander Hack, GER, D, 1.93, 82, 08-09-93, Memmingen, Unterhaching
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Pablo De Blasis, ARG, F, 1.64, 65, 04-02-88, La Plata, Eibar

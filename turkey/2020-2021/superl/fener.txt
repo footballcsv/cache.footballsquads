@@ -1,0 +1,49 @@
+=  Fenerbahçe - Turkish Süper Lig 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Altay Bayındır, TUR, G, 1.98, 89, 14-04-98, Osmangazi, Ankaragücü
+3, Mauricio Lemos, URU, D, 1.87, 84, 28-12-95, Rivera, Las Palmas
+4, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, Galatasaray
+5, José Ernesto Sosa, ARG, M, 1.79, 72, 19-06-85, Carcarañá, Trabzonspor
+7, Ozan Tufan, TUR, M, 1.79, 70, 23-03-95, Bursa, Bursaspor
+8, Mert Hakan Yandaş, TUR, M, 1.74, 73, 19-08-94, Bursa, Sivasspor
+9, Papiss Demba Cissé, SEN, F, 1.83, 73, 03-06-85, Dakar, Alanyaspor
+10, Mbwana Samatta, TAN, F, 1.79, 70, 13-12-92, Dar es Salam, Aston Villa
+11, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Roma
+13, Enner Valencia, ECU, F, 1.74, 74, 04-11-89, San Lorenzo, UANL Tigres
+14, Dimitris Pelkas, GRE, M, 1.75, 68, 26-10-93, Giannitsa, PAOK
+15, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, İstanbul, Bursaspor
+16, Ferdi Kadıoğlu, NED, M, 1.73, 64, 07-10-99, Arnhem, NEC Nijmegen
+17, İrfan Can Kahveci, TUR, M, 1.75, 67, 15-07-95, Bayat, İstanbul Başakşehir
+18, Sadık Çiftpınar, TUR, D, 1.83, 77, 01-01-93, Seyhan, Yeni Malatyaspor
+20, Luiz Gustavo, BRA, M, 1.87, 82, 23-07-87, Pindamonhangaba, Marseille
+21, Bright Osayi-Samuel, NGA, M, 1.75, 72, 01-02-97, Okija, QPR
+26, Marcel Tisserand, COD, D, 1.84, 70, 10-01-93, Meaux, Wolfsburg
+27, Mame Baba Thiam, SEN, F, 1.85, 79, 09-10-92, Ngiudile, Kasımpaşa
+29, Sinan Gümüş, GER, F, 1.79, 70, 15-01-94, Pfullendorf, Genoa
+30, Ömer Faruk Beyaz, TUR, M, 1.71, 60, 29-08-03, İstanbul, None
+35, Nazim Sangaré, GER, D, 1.85, 73, 30-05-94, Cologne, Antalyaspor
+37, Filip Novák, CZE, D, 1.84, 79, 26-06-90, Přerov, Trabzonspor
+41, Attila Szalai, HUN, D, 1.92, 83, 20-01-98, Budapest, Apollon Limassol
+48, Oytun Özdoğan, TUR, G, 1.98, 85, 16-06-98, Denizli, None
+67, Mesut Özil, GER, M, 1.80, 76, 15-10-88, Gelsenkirchen, Arsenal
+77, Gökhan Gönül, TUR, D, 1.74, 71, 04-01-85, Bafra, Beşiktaş
+88, Caner Erkin, TUR, D, 1.77, 75, 04-10-88, Edremit, Beşiktaş
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+94, Vedat Muriqi, KVX, F, 1.94, 92, 24-04-94, Prizren, Lazio
+25, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, Dalian Pro
+66, Oğuz Kağan Güçtekin, TUR, M, 1.73, 68, 06-04-99, Mersin, Konyaspor (On Loan)
+99, Barış Sungur, TUR, F, 1.80, 75, 28-02-02, Mannheim, Muğlaspor (On Loan)
+22, Michael Frey, SUI, F, 1.88, 86, 19-07-94, Münsingen, Waasland-Beveren (On Loan)
+19, Allahyar Sayyadmanesh, IRN, F, 1.82, 74, 29-06-01, Amol, Zorya Luhansk (On Loan)
+23, Deniz Türüç, TUR, M, 1.77, 79, 29-01-93, Enschede, İstanbul Başakşehir (On Loan)
+32, Mathias Zanka Jørgensen, DEN, D, 1.91, 79, 23-04-90, Copenhagen, FC København (On Loan)
+44, Murat Sağlam, GER, D, 1.75, 69, 10-04-98, Hameln, Rizespor (On Loan)
+11, Garry Rodrigues, CPV, M, 1.72, 70, 27-11-90, Rotterdam, Al-Ittihad [KSA]
+17, Nabil Dirar, MAR, M, 1.82, 79, 25-02-86, Casablanca, Club Brugge (On Loan)
+6, Tolga Ciğerci, GER, M, 1.85, 75, 23-03-92, Nordenham, İstanbul Başakşehir
+41, İsmail Yüksek, TUR, M, 1.83, 77, 26-01-99, Bursa, Adana Demirspor (On Loan)
+99, Kemal Ademi, SUI, F, 1.97, 90, 23-01-96, Villingen-Schwenningen, Fatih Karagümrük (On Loan)

@@ -1,0 +1,48 @@
+=  Cremonese - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Alessandro Fiordaliso, ITA, D, 1.84, 73, 20-03-99, Turin, Torino
+3, Emanuele Valeri, ITA, D, 1.80, 78, 07-12-98, Rome, Cesena
+5, Tiago Casasola, ARG, D, 1.88, 84, 11-08-95, Capital Federal, Lazio
+6, Luca Ravanelli, ITA, D, 1.87, 75, 16-01-97, Trento, Sassuolo
+7, Jaime Báez, URU, F, 1.78, 74, 24-04-95, Montevideo, Cosenza
+8, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Salernitana
+9, Daniel Ciofani, ITA, F, 1.90, 82, 31-07-85, Avezzano, Frosinone
+10, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Perugia
+11, Luca Strizzolo, ITA, F, 1.88, 83, 29-04-92, Udine, Cittadella
+12, Marco Carnesecchi, ITA, G, 1.91, 83, 01-07-00, Rimini, Atalanta
+13, Andrea Meroni, ITA, D, 1.88, 84, 09-01-97, Monza, Sassuolo
+14, Luca Valzania, ITA, M, 1.82, 72, 05-03-96, Cesena, Atalanta
+15, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona
+16, Paolo Bartolomei, ITA, M, 1.83, 76, 22-08-89, Lucca, Spezia
+17, Leonardo Sernicola, ITA, D, 1.88, 78, 30-07-97, Civita Castellana, Sassuolo
+19, Michele Castagnetti, ITA, M, 1.80, 71, 27-12-89, Montecchio Emilia, SPAL
+20, Dennis Politic, ROU, M, 1.85, 78, 05-03-00, Braşov, Bolton W
+21, Nicolò Fagioli, ITA, M, 1.78, 71, 12-02-01, Piacenza, Juventus
+22, Dorian Ciężkowski, POL, G, 1.91, 80, 22-03-01, Kraków, Taranto
+23, Alessandro Crescenzi, ITA, D, 1.81, 71, 25-09-91, Marino, Verona
+27, Daniel Frey, ITA, D, 1.87, 80, 27-02-02, Milan, Chievo Verona
+29, Samuel Di Carmine, ITA, F, 1.86, 84, 29-09-88, Florence, Verona
+44, Federico Agazzi, ITA, G, 1.88, 78, 18-04-04, -, None
+45, Mouhamadou Sarr, SEN, G, 1.90, 78, 05-01-97, Kaolack, Bologna
+48, Davide Peschieri, ITA, G, 1.85, 78, 18-03-04, Parma, None
+55, Caleb Okoli, NGA, D, 1.91, 91, 13-07-01, Vicenza, Atalanta
+70, Gianluca Gaetano, ITA, F, 1.81, 70, 05-05-00, Cimitile, Napoli
+98, Luca Zanimacchia, ITA, F, 1.78, 72, 19-07-98, Desio, Juventus
+99, Hamza Rafia, TUN, M, 1.78, 75, 02-04-99, Kalaat es Senam, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Giacomo Volpe, ITA, G, 1.89, 80, 16-01-96, Biella, Foggia
+25, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Monopoli
+20, Emanuele Terranova, ITA, D, 1.85, 86, 14-04-87, Mazara del Vallo, Bari (On Loan)
+21, Fabio Ceravolo, ITA, F, 1.80, 73, 05-03-87, Locri, Padova
+32, Christian Dalle Mura, ITA, D, 1.89, 84, 02-02-02, Pietrasanta, Fiorentina
+5, Riccardo Collodel, ITA, M, 1.77, 76, 10-11-98, Borgomanero, Lucchese (On Loan)
+99, Marco Zunno, ITA, F, 1.77, 73, 05-05-01, Roccadaspide, Fiorenzuola (On Loan)
+94, Francesco Deli, ITA, M, 1.82, 77, 17-07-94, Rome, Pordenone (On Loan)
+4, Enrico Alfonso, ITA, G, 1.91, 85, 04-05-88, Padua, SPAL
+8, Filippo Nardi, ITA, M, 1.75, 70, 08-03-98, Treviso, Como (On Loan)
+18, Luca Vido, ITA, F, 1.82, 78, 03-02-97, Bassano del Grappa, Atalanta
+77, Matteo Ghisolfi, ITA, F, 1.83, 79, 25-05-02, Cremona, Fiorenzuola (On Loan)

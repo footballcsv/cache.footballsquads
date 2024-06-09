@@ -1,0 +1,41 @@
+=  Benfica - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anatoliy Trubin, UKR, G, 1.99, 86, 01-08-01, Donetsk, Shakhtar Donetsk
+3, Álvaro Fernández, ESP, D, -, -, 23-03-03, El Ferrol, Manchester U
+4, Antonio Silva, POR, D, 1.87, 79, 30-10-03, Viseu, None
+5, Morato, BRA, D, 1.90, 86, 30-06-01, Francisco Morato, São Paulo
+6, Alexander Bah, DEN, D, 1.83, 76, 09-12-97, Årslev, Slavia Prague
+7, David Neres, BRA, M, 1.77, 74, 03-03-97, São Paulo, Shakhtar Donetsk
+8, Fredrik Aursnes, NOR, M, 1.79, 72, 10-12-95, Hareid, Feyenoord
+9, Arthur Cabral, BRA, F, 1.86, 86, 25-04-98, Campina Grande, Fiorentina
+10, Orkun Kökçü, TUR, M, 1.75, 70, 29-12-00, Haarlem, Feyenoord
+11, Ángel Di Maria, ARG, F, 1.78, 75, 14-02-88, Rosario, Juventus
+14, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Paris St-Germain
+19, Casper Tengstedt, DEN, F, -, -, 01-06-00, -, Rosenborg
+20, João Mário, POR, M, 1.73, 72, 19-01-93, Porto, Internazionale
+24, Samuel Soares, POR, G, 1.90, 85, 15-06-02, Amadora, None
+25, Gianluca Prestianni, ARG, F, 1.65, 63, 31-01-06, Ciudadela, Vélez Sarsfield
+27, Rafa, POR, F, 1.70, 66, 17-05-93, Barreiro, Sporting Braga
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Manchester C
+32, Benjamín Rollheiser, ARG, M, 1.75, 71, 24-03-00, Pueblo San José, Estudiantes (LP)
+36, Marcos Leonardo, BRA, F, 1.78, 71, 02-05-03, Itapetinga, Santos
+44, Tomás Araújo, POR, D, 1.87, 85, 16-05-02, Vila Nova de Famalicão, None
+45, Leo Kokubo, JPN, G, 1.93, 84, 23-01-01, Chiba, Kashiwa Reysol
+47, Tiago Gouveia, POR, F, 1.76, 72, 18-06-01, Cascais, Sporting CP
+61, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, None
+75, André Gomes, POR, G, 1.82, 78, 20-10-04, Ponte de Lima, None
+87, João Neves, POR, M, 1.74, 66, 27-09-04, Tavira, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Soualiho Meïté, FRA, M, 1.87, 91, 17-03-94, Paris, PAOK (On Loan)
+21, Andreas Schjelderup, NOR, F, 1.76, 73, 01-06-04, Bodø, FC Nordsjælland (On Loan)
+23, Mihailo Ristić, SRB, D, 1.83, 73, 31-10-95, Bijeljina, Celta Vigo
+99, Odisseas Vlachodimos, GRE, G, 1.88, 73, 26-04-94, Stuttgart, Nottingham F
+38, João Victor, BRA, D, 1.87, 80, 17-07-98, Bauru, Vasco da Gama
+17, Gonçalo Guedes, POR, M, 1.79, 68, 29-11-96, Benavente, Wolverhampton W
+22, Chiquinho, POR, M, 1.74, 66, 19-07-95, Santo Tirso, Olympiakos
+13, David Jurásek, CZE, D, 1.83, 76, 07-08-00, Dolní Němčí, 1899 Hoffenheim (On Loan)
+33, Petar Musa, CRO, F, 1.90, 80, 04-03-98, Zagreb, FC Dallas

@@ -1,0 +1,53 @@
+=  Norwich City - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Jack Stacey, ENG, D, 1.80, 68, 06-04-96, Bracknell, Bournemouth
+5, Grant Hanley, SCO, D, 1.88, 76, 20-11-91, Dumfries, Newcastle U
+6, Ben Gibson, ENG, D, 1.85, 78, 15-01-93, Nunthorpe, Burnley
+7, Borja Sainz, ESP, F, 1.78, 75, 01-02-01, Leioa, Giresunspor
+8, Liam Gibbs, ENG, M, 1.78, 65, 16-12-02, Bury St Edmunds, Ipswich T
+9, Josh Sargent, USA, F, 1.85, 79, 20-02-00, O'Fallon, Werder Bremen
+10, Ashley Barnes, AUT, F, 1.86, 77, 31-10-89, Bath, Burnley
+12, George Long, ENG, G, 1.93, 93, 05-11-93, Sheffield, Millwall
+14, Sydney van Hooijdonk, NED, F, 1.90, 80, 06-02-00, Breda, Bologna
+15, Sam McCallum, ENG, D, 1.77, 68, 02-09-00, Canterbury, Coventry C
+16, Christian Fassnacht, SUI, M, 1.85, 74, 11-11-93, Zürich, Young Boys
+17, Gabriel Sara, BRA, M, 1.78, 68, 26-06-99, Joinville, São Paulo
+19, Jacob Lungi Sørensen, DEN, M, 1.84, 77, 03-03-98, Esbjerg, Esbjerg
+21, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Sunderland
+23, Kenny McLean, SCO, M, 1.83, 70, 08-01-92, Rutherglen, Aberdeen
+24, Shane Duffy, IRL, D, 1.93, 76, 01-01-92, Derry, Fulham
+25, Onel Hernández, CUB, M, 1.72, 69, 01-02-93, Morón, Eintracht Braunschweig
+26, Marcelino Núñez, CHI, M, 1.73, 68, 01-03-00, Independencia, Universidad Católica
+27, Jonathan Rowe, ENG, F, 1.73, 67, 30-04-03, Westminster, None
+28, Angus Gunn, SCO, G, 1.96, 77, 22-01-96, Bolton, Southampton
+30, Dimitris Giannoulis, GRE, D, 1.75, 70, 17-10-96, Katerini, PAOK
+35, Kellen Fisher, ENG, M, -, -, 05-05-04, Bexley, Bromley
+37, Daniel Barden, WAL, G, 1.95, 82, 02-01-01, Camden, Arsenal
+39, Vicente Reyes, USA, G, 1.94, 84, 19-11-03, Charleston, Atlanta U
+43, Finley Welch, ENG, M, -, -, 03-10-04, -, None
+44, Ken Aboh, ENG, F, 1.75, 69, 09-11-04, Bedford, None
+46, Charlie Wilson, ENG, D, -, -, 19-03-05, Liverpool, Everton
+47, Pedro Lima, BRA, M, 1.85, 79, 27-03-03, Brasília, Palmeiras
+48, Waylon Renecke, RSA, D, -, -, 12-05-06, Peterborough, None
+49, Guilherme Montóia, POR, D, 1.85, 76, 14-09-03, Lisbon, Benfica
+51, Caleb Ansen, ENG, G, 1.95, 100, 18-09-05, -, None
+52, Ellis Craven, ENG, G, -, -, 08-10-04, Salford, Rochdale
+54, Henry Bullen, ENG, G, -, -, 12-12-06, Norwich, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Christos Tzolis, GRE, F, 1.79, 73, 30-01-02, Thessaloniki, Fortuna Düsseldorf (On Loan)
+2, Max Aarons, ENG, D, 1.76, 69, 04-01-00, Hammersmith, Bournemouth
+14, Milot Rashica, KVX, M, 1.78, 70, 28-06-96, Vushtrri, Beşiktaş
+1, Tim Krul, NED, G, 1.88, 74, 03-04-88, Den Haag, Luton T
+4, Andrew Omobamidele, IRL, D, 1.88, 75, 23-06-02, Dublin, Nottingham F
+45, Jonathan Tomkinson, USA, D, 1.90, 70, 11-04-02, Plano, Bradford C (On Loan)
+31, Hwang Ui-Jo, KOR, F, 1.84, 73, 28-08-92, Seongnam, Nottingham F
+42, Tony Springett, IRL, M, 1.74, 72, 22-09-02, Lewisham, Northampton T (On Loan)
+29, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Plymouth Arg
+50, Jaden Warner, ENG, D, -, -, 28-10-02, Hillingdon, Notts Co (On Loan)
+11, Adam Idah, IRL, F, 1.90, 83, 11-02-01, Cork, Celtic (On Loan)
+20, Przemysław Płacheta, POL, M, 1.77, 71, 23-03-98, Łowicz, Swansea C
+38, Jon McCracken, SCO, G, 1.85, 77, 24-05-00, Wishaw, Dundee (On Loan)

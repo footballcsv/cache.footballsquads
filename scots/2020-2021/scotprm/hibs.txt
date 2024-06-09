@@ -1,0 +1,58 @@
+=  Hibernian - Scottish Premiership 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ofir Marciano, ISR, G, 1.93, 87, 07-10-89, Ashdod, Ashdod
+2, David Gray, SCO, D, 1.80, 71, 04-05-88, Edinburgh, Burton Alb
+4, Paul Hanlon, SCO, D, 1.80, 64, 20-01-90, Edinburgh, None
+5, Ryan Porteous, SCO, D, 1.85, 68, 01-03-99, Dalkeith, None
+6, Paul McGinn, SCO, D, 1.75, 66, 22-10-90, Glasgow, St Mirren
+7, Kyle Magennis, SCO, M, 1.83, 72, 26-08-98, Glasgow, St Mirren
+8, Drey Wright, ENG, M, 1.75, 69, 30-04-94, Greenwich, St Johnstone
+9, Christian Doidge, WAL, F, 1.85, 77, 25-08-92, Newport, Forest Green R
+10, Martin Boyle, AUS, M, 1.78, 53, 25-04-93, Aberdeen, Dundee
+11, Joe Newell, ENG, M, 1.80, 71, 15-03-93, Tamworth, Rotherham U
+13, Alex Gogić, CYP, D, 1.85, 83, 13-04-94, Nicosia, Hamilton Academical
+15, Kevin Nisbet, SCO, F, 1.80, 77, 08-03-97, Glasgow, Dunfermline Ath
+16, Lewis Stevenson, SCO, D, 1.70, 67, 05-01-88, Kirkcaldy, None
+18, Jamie Murphy, SCO, F, 1.78, 62, 28-08-89, Glasgow, Rangers
+20, Melker Hallberg, SWE, M, 1.80, 68, 20-10-95, Ljungbyholm, Vejle
+21, Maciej Dąbrowski, POL, G, 1.95, 81, 09-06-98, Poznań, Lech Poznań
+24, Darren McGregor, SCO, D, 1.83, 87, 07-08-85, Edinburgh, Rangers
+25, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Hearts
+26, Sean Mackie, SCO, D, 1.78, 75, 04-11-98, Edinburgh, Raith R
+27, Chris Cadden, SCO, D, 1.83, 67, 19-09-96, Bellshill, Columbus Crew
+30, Craig Samson, SCO, G, 1.88, 80, 01-04-84, Irvine, Sunderland
+33, Matt Macey, ENG, G, 1.98, 81, 09-09-94, Bristol, Arsenal
+36, Jackson Irvine, AUS, M, 1.79, 70, 07-03-93, Melbourne, Hull C
+41, Murray Johnson, SCO, G, -, -, 13-11-04, -, None
+43, Steven Bradley, SCO, M, 1.87, 74, 17-03-02, Glasgow, Queen's Park
+44, Yrik Galantes, PHI, F, -, -, 14-01-01, -, None
+45, Josh Currie, SCO, F, -, -, 07-01-03, -, None
+46, Jacob Blaney, SCO, D, -, -, 08-09-04, -, None
+47, Jack Brydon, SCO, D, 1.84, 75, 16-09-03, Edinburgh, None
+48, Robbie Hamilton, SCO, M, -, -, 15-06-04, -, None
+49, Josh O'Connor, SCO, F, -, -, 16-06-04, -, None
+50, Connor Young, SCO, F, -, -, -, -, None
+52, Murray Aiken, SCO, M, -, -, 14-11-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Florian Kamberi, SUI, F, 1.89, 84, 08-03-95, Zürich, St. Gallen
+18, Adam Jackson, ENG, D, 1.87, 78, 18-05-94, Darlington, Lincoln C
+7, Daryl Horgan, IRL, M, 1.71, 68, 10-08-92, Galway, Wycombe W
+33, Innes Murray, SCO, M, 1.72, 65, 17-02-98, Edinburgh, Alloa Ath (On Loan)
+32, Josh Campbell, SCO, M, 1.82, 73, 06-05-00, Edinburgh, Edinburgh C (On Loan)
+12, Fraser Murray, SCO, M, 1.73, 68, 07-05-99, Glasgow, Dunfermline Ath (On Loan)
+27, Ben Stirling, SCO, D, 1.83, 70, 16-08-98, Edinburgh, Hamilton Academical
+46, Gregor Woods, SCO, M, -, -, 19-06-01, -, The Spartans
+34, Callum Yeats, SCO, D, 1.76, 68, 04-10-01, Edinburgh, Stenhousemuir (On Loan)
+42, Jayden Fairley, SCO, M, -, -, 22-09-03, -, Stenhousemuir (On Loan)
+31, Patrick Martin, SCO, G, -, -, 21-06-99, -, Stenhousemuir (On Loan)
+33, Dillon Barnes, ENG, G, 1.93, 75, 08-04-96, Enfield Town, QPR
+17, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Salford C (On Loan)
+14, Stevie Mallan, SCO, M, 1.80, 78, 25-03-96, Glasgow, Yeni Malatyaspor (On Loan)
+19, Jamie Gullan, SCO, F, 1.83, 75, 02-07-99, Edinburgh, Raith R (On Loan)
+29, Ryan Shanley, SCO, F, 1.86, 73, 16-06-01, Edinburgh, Finn Harps (On Loan)
+22, Stephen McGinn, SCO, M, 1.75, 64, 02-12-88, Glasgow, Greenock Morton (On Loan)
+23, Scott Allan, SCO, M, 1.75, 70, 28-11-91, Glasgow, Inverness CT (On Loan)

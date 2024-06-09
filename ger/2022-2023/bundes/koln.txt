@@ -1,0 +1,47 @@
+=  1.FC Köln - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Timo Horn, GER, G, 1.90, 92, 12-05-93, Cologne, None
+2, Benno Schmitz, GER, D, 1.82, 75, 17-11-94, Munich, RB Leipzig
+3, Kristian Pedersen, DEN, D, 1.89, 88, 04-08-94, Ringsted, Birmingham C
+4, Timo Hübers, GER, D, 1.90, 80, 20-07-96, Hildesheim, Hannover 96
+5, Nikola Soldo, CRO, D, 1.89, 78, 25-01-01, Stuttgart, Lokomotiva Zagreb
+6, Eric Martel, GER, M, 1.86, 72, 29-04-02, Straubing, RB Leizpig
+7, Dejan Ljubičić, AUT, M, 1.86, 73, 08-10-97, Vienna, Rapid Vienna
+8, Denis Huseinbašić, GER, M, 1.84, 80, 03-07-01, Erbach im Odenwald, Kickers Offenbach
+9, Sebastian Andersson, SWE, F, 1.90, 85, 15-07-91, Ängelholm, Union Berlin
+11, Florian Kainz, AUT, M, 1.74, 67, 24-10-92, Graz, Werder Bremen
+13, Mark Uth, GER, F, 1.85, 68, 24-08-91, Cologne, Schalke
+14, Jonas Hector, GER, M, 1.85, 73, 27-05-90, Saarbrücken, Auersmacher
+15, Luca Kilian, GER, D, 1.90, 88, 01-09-99, Witten, Mainz
+17, Kingsley Schindler, GER, M, 1.83, 77, 12-07-93, Hamburg, Holstein Kiel
+19, Dimitris Limnios, GRE, F, 1.78, 75, 27-05-98, Volos, PAOK
+20, Marvin Schwäbe, GER, G, 1.90, 86, 25-04-95, Dieburg, Brøndby
+21, Steffen Tigges, GER, F, 1.93, 90, 31-07-98, Osnabrück, Borussia Dortmund
+23, Sargis Adamyan, ARM, F, 1.84, 77, 23-05-93, Yerevan, 1899 Hoffenheim
+24, Julian Chabot, GER, D, 1.95, 85, 12-02-98, Hanau, Sampdoria
+25, Tim Lemperle, GER, M, 1.87, 78, 05-02-02, Frankfurt am Main, FSV Frankfurt
+27, Davie Selke, GER, F, 1.92, 75, 20-01-95, Schorndorf, Hertha Berlin
+28, Ellyes Skhiri, TUN, M, 1.85, 69, 10-05-95, Lunel, Montpellier
+29, Jan Thielmann, GER, M, 1.78, 66, 26-05-02, Föhren, Eintracht Trier
+33, Florian Dietz, GER, F, 1.90, 86, 03-08-98, Bad Neustadt an der Saale, Unterhaching
+37, Linton Maina, GER, M, 1.71, 55, 23-06-99, Berlin, Hannover 96
+38, Elias Bakatukanda, GER, D, 1.93, 80, 13-04-04, Cologne, None
+42, Damion Downs, USA, F, 1.92, 84, 06-07-04, Werneck, Ingolstadt
+43, Maximilian Schmid, GER, F, 1.84, 72, 05-03-03, Hanau, Mainz
+44, Matthias Köbbing, GER, G, 1.96, 87, 28-05-97, Koblenz, Homburg
+45, Joshua Schwirten, GER, M, 1.82, 78, 07-01-02, Bergisch Gladbach, None
+46, Rijad Smajić, BIH, D, 1.90, 82, 02-05-04, Cologne, None
+47, Mathias Olesen, LUX, M, 1.88, 75, 21-03-01, Copenhagen, Eintracht Trier
+48, Georg Strauch, GER, D, 1.77, 74, 30-03-01, Bonn, None
+49, Justin Diehl, GER, F, 1.74, 55, 27-11-04, Cologne, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Anthony Modeste, FRA, F, 1.86, 73, 14-04-88, Cannes, Borussia Dortmund
+19, Kingsley Ehizibue, NED, D, 1.87, 82, 25-05-95, Munich, Udinese
+5, Bright Arrey-Mbi, GER, D, 1.87, 80, 26-03-03, Kaarst, Bayern Munich
+36, Niklas Hauptmann, GER, M, 1.76, 63, 27-06-96, Cologne, Dynamo Dresden
+40, Jonas Urbig, GER, G, 1.89, 74, 08-08-03, Euskirchen, Jahn Regensburg (On Loan)
+18, Ondrej Duda, SVK, M, 1.83, 64, 15-12-94, Snina, Verona (On Loan)

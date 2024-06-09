@@ -1,0 +1,40 @@
+=  Augsburg - German Bundesliga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafał Gikiewicz, POL, G, 1.90, 82, 26-10-87, Olsztyn, Union Berlin
+2, Robert Gumny, POL, D, 1.77, 61, 04-06-98, Poznań, Lech Poznań
+3, Mads Pedersen, DEN, D, 1.78, 71, 01-09-96, Hørsholm, FC Nordsjælland
+4, Reece Oxford, ENG, M, 1.90, 71, 16-12-98, Edmonton, West Ham U
+5, Tobias Strobl, GER, M, 1.86, 72, 12-05-90, Munich, B Mönchengladbach
+6, Jeffrey Gouweleeuw, NED, D, 1.87, 73, 10-07-91, Heemskerk, AZ Alkmaar
+7, Florian Niederlechner, GER, F, 1.87, 84, 24-10-90, Ebersberg, Freiburg
+8, Carlos Gruezo, ECU, M, 1.71, 67, 19-04-95, Santo Domingo, FC Dallas
+10, Arne Maier, GER, M, 1.83, 79, 08-01-99, Ludwigsfelde, Hertha Berlin
+11, Michael Gregoritsch, AUT, F, 1.90, 74, 18-04-94, Graz, Hamburg
+14, Jan Morávek, CZE, M, 1.79, 71, 01-11-89, Prague, Schalke
+16, Ruben Vargas, SUI, M, 1.74, 64, 05-08-98, Adligenswil, Luzern
+17, Noah-Joel Sarenren-Bazee, GER, M, 1.82, 70, 21-08-96, Celle, Hannover 96
+18, Ricardo Pepi, USA, F, 1.85, 77, 09-01-03, El Paso, FC Dallas
+19, Felix Uduokhai, GER, D, 1.92, 78, 09-09-97, Annaberg-Buchholz, Wolfsburg
+20, Daniel Caligiuri, GER, M, 1.82, 79, 15-01-88, Villingen-Schwenningen, Schalke
+21, Andi Zeqiri, SUI, F, 1.81, 72, 22-06-99, Lausanne, Brighton & HA
+22, Iago, BRA, D, 1.81, 68, 23-03-97, Monte Azul Paulista, Internacional
+24, Fredrik Jensen, FIN, M, 1.83, 80, 09-09-97, Porvoo, FC Twente
+25, Daniel Klein, GER, G, 1.91, 84, 13-03-01, Heidelberg, 1899 Hoffenheim
+26, Frederik Winther, DEN, D, 1.86, 70, 04-01-01, Gentofte, Lyngby
+27, Alfreð Finnbogason, ISL, F, 1.84, 78, 01-02-89, Reykjavík, Real Sociedad
+28, André Hahn, GER, M, 1.85, 75, 13-08-90, Otterndorf, Hamburg
+29, Lasse Günther, GER, F, 1.83, 75, 21-03-03, Munich, Bayern Munich
+30, Niklas Dorsch, GER, M, 1.75, 72, 15-01-98, Lichtenfels, KAA Gent
+32, Raphael Framberger, GER, D, 1.79, 73, 06-09-95, Augsburg, None
+38, Dikeni Salifou, TOG, M, 1.88, 81, 08-06-03, Munich, None
+39, Dominic Schmidt, GER, D, 1.85, 82, 12-03-01, Starnberg, None
+40, Tomáš Koubek, CZE, G, 1.97, 99, 26-08-92, Hradec Králové, Rennes
+41, Tim Civeja, GER, M, 1.80, 73, 04-01-02, Dachau, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Marco Richter, GER, M, 1.76, 74, 24-11-97, Friedberg, Hertha Berlin
+37, Maurice Malone, GER, F, 1.84, 86, 17-08-00, Augsburg, Heidenheim (On Loan)
+9, Sergio Córdova, VEN, F, 1.88, 78, 09-08-97, Calabozo, Real Salt Lake (On Loan)

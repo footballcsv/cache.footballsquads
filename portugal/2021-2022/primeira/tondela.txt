@@ -1,0 +1,39 @@
+=  Tondela - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Neto Borges, BRA, D, 1.83, 85, 13-09-96, Salvador, KRC Genk
+4, Jota, POR, D, 1.86, 76, 17-06-00, Espinho, Feirense
+5, Modibo Sagnan, FRA, D, 1.87, 71, 14-04-99, Saint-Denis, Real Sociedad
+6, Pedro Augusto, BRA, M, 1.81, 74, 03-03-97, Ubá, São Paulo
+7, Salvador Agra, POR, F, 1.66, 60, 11-11-91, Vila do Conde, Legia Warszawa
+8, João Pedro, POR, M, 1.77, 74, 03-04-93, Guimarães, LA Galaxy
+10, Javier Avilés, ESP, M, 1.81, 75, 17-08-97, Madrid, Leganés
+11, Juan Boselli, URU, M, 1.74, 70, 09-11-99, Montevideo, Defensor Sporting
+15, Manu Hernando, ESP, D, 1.83, 71, 19-07-98, Palencia, Real Madrid B
+17, Renat Dadashov, AZE, F, 1.86, 81, 17-05-99, Rüdesheim am Rhein, Wolverhampton W
+18, Matías Lacava, VEN, F, 1.68, 62, 10-10-02, Chacao, Academia Puerto Cabello
+19, Tiago Almeida, POR, D, 1.77, 67, 28-08-01, Anadia, None
+20, Sessi D'Almeida, BEN, M, 1.78, 71, 20-11-95, Bordeaux, Valenciennes
+21, Iker Undabarrena, ESP, M, 1.80, 75, 18-05-95, Gorliz, Sabadell
+23, Bebeto, BRA, D, 1.74, 66, 01-01-90, Lagarto, Marítimo
+24, Naoufel Khacef, ALG, D, 1.79, 73, 27-10-97, Kouba, Hussein Dey
+28, Tiago Dantas, POR, M, 1.70, 58, 24-12-00, Lisbon, Benfica
+29, Daniel dos Anjos, BRA, F, 1.83, 80, 21-01-96, Boa Esperança, Benfica
+33, Marcelo Alves, BRA, D, 1.92, 88, 07-02-98, Rio de Janeiro, Madureira
+34, Ricardo Alves, POR, D, 1.81, 78, 09-05-91, Vila Nova de Cerveira, Leixões
+38, Simone Muratore, ITA, M, 1.86, 74, 30-05-98, Cuneo, Atalanta
+70, Rafael Barbosa, POR, M, 1.73, 69, 29-03-96, Amarante, Sporting CP
+72, Eduardo Quaresma, POR, D, 1.84, 76, 02-03-02, Barreiro, Sporting CP
+80, Telmo Arcanjo, POR, M, 1.80, 75, 21-06-01, Lisbon, Belenenses
+88, Pedro Trigueira, POR, G, 1.92, 91, 04-01-88, Baltar, Moreirense
+98, Philip Tear, SWE, G, 1.87, 74, 26-08-98, Stockholm, Somorrostro
+99, Babacar Niasse, SEN, G, 1.90, 85, 20-12-95, Dakar, Eupen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Tomislav Štrkalj, CRO, F, 1.84, 75, 02-08-96, Zagreb, Hrvatski Dragovoljac (On Loan)
+5, João Jaquité, GNB, M, 1.72, 68, 22-02-96, Bissau, Vilafranquense
+45, Souleymane Anne, MTN, F, 1.90, 75, 05-12-97, Orléans, Excelsior Virton
+10, Jhon Murillo, VEN, M, 1.70, 65, 21-11-95, El Nula, Atlético San Luis
+9, Rúben Fonseca, POR, F, 1.88, 82, 24-02-00, Santa Maria da Feira, Sporting Braga (On Loan)

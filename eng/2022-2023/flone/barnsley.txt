@@ -1,0 +1,62 @@
+=  Barnsley - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Harvey Isted, ENG, G, 1.86, 70, 05-03-97, Chichester, Luton T
+2, Jordan Williams, ENG, D, 1.79, 75, 22-10-99, Huddersfield, Huddersfield T
+3, Jon Russell, JAM, M, 1.92, 81, 09-10-00, Hounslow, Huddersfield T
+5, Liam Kitching, ENG, D, 1.91, 80, 01-10-99, Harrogate, Forest Green R
+6, Mads Juel Andersen, DEN, D, 1.94, 81, 27-12-97, Albertslund, Horsens
+7, Nicky Cadden, SCO, M, 1.78, 70, 19-09-96, Bellshill, Forest Green R
+8, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Liverpool
+9, James Norwood, ENG, F, 1.78, 76, 05-09-90, Eastbourne, Ipswich T
+10, Josh Benson, ENG, M, 1.74, 71, 05-12-99, Thurrock, Burnley
+12, Bobby Thomas, ENG, D, 1.86, 77, 30-01-01, Chester, Burnley
+13, Paul Cooper, ENG, G, -, -, 22-04-03, -, Matlock T
+14, Josh Martin, ENG, M, 1.77, 70, 09-09-01, Luton, Norwich C
+16, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Derby Co
+17, Barry Cotter, IRL, D, 1.75, 68, 04-12-98, Limerick, Shamrock R
+18, Joe Ackroyd, ENG, M, 1.74, 68, 06-09-02, Barnsley, None
+19, Aiden Marsh, ENG, F, 1.72, 60, 05-05-03, Barnsley, None
+20, Jamie Searle, NZL, G, 1.91, 79, 25-11-00, Whakatāne, Swansea C
+21, Conor McCarthy, IRL, D, 1.84, 75, 11-04-98, Cork, St Mirren
+22, Clarke Oduor, KEN, M, 1.79, 72, 25-06-99, Siaya, Leeds U
+23, Oli Shaw, SCO, F, 1.88, 72, 12-03-98, Edinburgh, Kilmarnock
+24, Robbie Cundy, ENG, D, 1.89, 82, 30-05-97, Oxford, Bristol C
+25, Jordan Helliwell, ENG, D, 1.69, 59, 23-09-01, Wakefield, None
+26, Ziyad Larkeche, FRA, D, 1.82, 67, 19-09-02, Paris, Fulham
+27, Adam Hayton, ENG, G, -, -, 28-04-04, Luton, Tottenham H
+28, Will Lancaster, ENG, M, 1.83, 69, 03-08-02, Sheffield, None
+29, Fábio Jaló, POR, M, 1.77, 70, 18-11-05, Lisbon, None
+30, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Burnley
+31, Slobodan Tedić, SRB, F, 1.90, 80, 13-04-00, Podgorica, Manchester C
+32, Jason Sraha, ENG, D, 1.89, 71, 19-11-02, Lambeth, Arsenal
+33, Matty Wolfe, ENG, M, 1.85, 74, 12-06-00, Wakefield, None
+35, Kareem Hassan-Smith, ENG, D, 1.74, -, 06-03-03, -, Huddersfield T
+36, Jack Butterfill, ENG, F, -, -, 22-03-04, Leicester, Leicester C
+37, Daniel Benson, ENG, D, -, -, 15-11-03, -, None
+38, Keegan Hartley, ENG, M, 1.66, -, 27-06-04, -, None
+39, Harrison Nejman, ENG, M, 1.78, -, 08-09-03, -, None
+40, Bradley Collins, ENG, G, 1.84, 69, 18-02-97, Southampton, Chelsea
+41, Rudi Pache, ENG, D, 1.83, 69, 20-07-02, Slough, Glossop NE
+42, Theo Chapman, ENG, M, -, -, 31-03-05, Leeds, None
+43, Charlie Winfield, ENG, D, 1.69, 58, 08-05-02, Barnsley, None
+44, Devante Cole, ENG, F, 1.85, 73, 10-05-95, Alderley Edge, Motherwell
+45, Hayden Pickard, ENG, D, -, -, 23-08-05, Pontefract, None
+46, Josiah Dyer, ENG, F, -, -, 24-09-04, Hammesmith, None
+47, Max Watters, ENG, F, 1.86, 80, 23-03-99, Camden, Cardiff C
+48, Luca Connell, IRL, M, 1.78, 69, 20-04-01, Liverpool, Celtic
+50, Kieran Flavell, ENG, G, 1.97, -, 21-09-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Callum Styles, HUN, M, 1.67, 60, 27-03-00, Oldham, Millwall (On Loan)
+30, Michał Helik, POL, D, 1.91, 77, 09-09-95, Chorzów, Huddersfield T
+3, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, Stoke C
+17, Tomas Kalinauskas, LTU, F, 1.78, -, 27-04-00, -, FC Den Bosch
+15, Jasper Moon, ENG, D, 1.86, 77, 24-11-00, Coventry, Burton Alb (On Loan)
+23, William Hondermarck, FRA, M, 1.85, 74, 21-11-00, Orléans, Northampton T
+1, Jack Walton, ENG, G, 1.84, 77, 23-04-98, Bury, Luton T
+34, Amir Ariely, ISR, D, 1.86, -, 03-03-03, -, Hapoel Be'er Sheva
+27, Jack Aitchison, SCO, F, 1.80, 70, 05-03-00, Fauldhouse, Motherwell
+11, Aaron Leya Iseka, BEL, F, 1.80, 78, 15-11-97, Brussels, Tuzlaspor (On Loan)

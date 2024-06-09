@@ -1,0 +1,69 @@
+=  Leeds United - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Illan Meslier, FRA, G, 1.96, 74, 02-03-00, Lorient, Lorient
+2, Luke Ayling, ENG, D, 1.83, 72, 25-08-91, Lambeth, Bristol C
+4, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Middlesbrough
+5, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Freiburg
+6, Liam Cooper, SCO, D, 1.80, 73, 03-08-91, Hull, Chesterfield
+7, Ian Poveda, ENG, M, 1.65, 61, 09-02-00, Southwark, Manchester C
+9, Patrick Bamford, ENG, F, 1.85, 71, 05-09-93, Newark, Middlesbrough
+10, Ezgjan Alioski, MKD, D, 1.72, 68, 12-02-92, Prilep, Lugano
+11, Tyler Roberts, WAL, F, 1.80, 75, 12-01-98, Gloucester, WBA
+13, Francisco Casilla, ESP, G, 1.90, 86, 02-10-86, Alcover, Real Madrid
+14, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Real Sociedad
+15, Stuart Dallas, NIR, D, 1.83, 81, 19-04-91, Cookstown, Brentford
+17, Hélder Costa, POR, F, 1.78, 73, 12-01-94, Luanda, Wolverhampton W
+18, Raphinha, BRA, F, 1.76, 68, 14-02-96, Porto Alegre, Rennes
+19, Pablo Hernández, ESP, M, 1.73, 64, 11-04-85, Castellón, Al-Arabi [QAT]
+20, Rodrigo Moreno, ESP, F, 1.82, 77, 06-03-91, Rio de Janeiro, Valencia
+21, Pascal Struijk, NED, D, 1.90, 75, 11-08-99, Deurne, Ajax
+22, Jack Harrison, ENG, M, 1.75, 71, 20-11-96, Stoke-on-Trent, Manchester C
+23, Kalvin Phillips, ENG, M, 1.77, 72, 02-12-95, Leeds, None
+24, Leif Davis, ENG, D, 1.66, 55, 12-01-00, Newcastle upon Tyne, Morecambe
+25, Elia Caprile, ITA, G, 1.91, 74, 25-08-01, Verona, Chievo Verona
+28, Gaetano Berardi, SUI, D, 1.79, 70, 21-08-88, Sorengo, Sampdoria
+30, Joe Gelhardt, ENG, F, 1.76, 71, 04-05-02, Liverpool, Wigan Ath
+35, Charlie Cresswell, ENG, D, 1.87, 74, 07-12-02, Preston, None
+37, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, Fulham
+38, Crysencio Summerville, NED, F, 1.74, 68, 30-10-01, Rotterdam, Feyenoord
+39, Stuart McKinstry, SCO, M, 1.79, 68, 18-09-02, Wishaw, Motherwell
+40, Dani van den Heuvel, NED, G, 1.84, 73, 28-05-03, Delft, Ajax
+42, Sam Greenwood, ENG, M, 1.80, 70, 26-01-02, Sunderland, Arsenal
+43, Mateusz Klich, POL, M, 1.80, 67, 13-06-90, Tarnów, FC Twente
+45, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, Carlisle U
+46, Jamie Shackleton, ENG, M, 1.68, 64, 08-10-99, Leeds, None
+47, Jack Jenkins, ENG, M, -, -, 23-03-02, Leeds, None
+49, Oliver Casey, ENG, D, 1.88, 78, 14-10-00, Leeds, None
+50, Cole Gibbon, ENG, M, 1.73, 61, 05-10-01, Goole, None
+51, Bobby Kamwa, CMR, M, 1.83, 77, 18-03-00, Yaoundé, None
+52, Niall Huggins, WAL, D, 1.73, 70, 18-12-00, York, None
+54, Nohan Kenneh, ENG, M, 1.90, 79, 10-01-03, Monrovia, None
+59, Josh Galloway, SCO, M, 1.76, 68, 21-01-02, Glasgow, Carlisle U
+60, Cooper Skerry, AUS, G, 1.92, 85, 26-11-02, Brisbane, None
+61, Harvey Sutcliffe, ENG, D, -, -, 07-09-03, Keighley, None
+63, Sam Leverett, ENG, M, 1.76, 61, 28-09-02, Northallerton, None
+64, Kris Moore, ENG, D, -, -, 13-11-03, Leeds, None
+65, Jeremiah Mullen, SCO, D, -, -, 17-06-04, Leeds, None
+66, Owen Bray, ENG, M, 1.91, 75, 05-12-02, York, None
+67, Aaron Pilkington, ENG, D, -, -, 19-01-03, Leeds, None
+68, Jimiel Chikukwa, ZIM, F, -, -, 08-04-03, -, None
+70, Charlie Allen, NIR, F, -, -, 22-11-03, Belfast, None
+71, Max Dean, ENG, F, 1.78, 65, 21-02-04, Ormskirk, None
+72, Harry Christy, ENG, G, -, -, 19-10-03, Harrogate, None
+73, Keenan Carole, FRA, F, -, -, 04-08-04, Nice, None
+74, Alfie Hughes, ENG, M, -, -, 06-11-02, Stockton-on-Tees, None
+76, Joe Littlewood, ENG, D, -, -, 31-03-03, Leeds, None
+78, Cian Coleman, IRL, F, -, -, 23-09-04, Pudsey, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Alfie McCalmont, NIR, M, 1.67, 63, 25-03-00, Thirsk, Oldham Ath (On Loan)
+44, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Logroñés (On Loan)
+3, Barry Douglas, SCO, D, 1.78, 64, 04-09-89, Glasgow, Blackburn R (On Loan)
+48, Jordan Stevens, ENG, M, 1.78, 70, 25-03-00, Gloucester, Bradford C (On Loan)
+36, Robbie Gotts, ENG, M, 1.77, 71, 09-11-99, Harrogate, Salford C (On Loan)
+75, Connor Teale, ENG, D, 1.85, 74, 08-10-02, Harlow, Fleetwood T
+58, Max MacMillan, RSA, F, 1.82, 66, 03-10-02, York, Fleetwood T
+62, Ethan Kachosa, ZIM, D, -, -, 23-01-03, Leeds, Sunderland

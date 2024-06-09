@@ -1,0 +1,36 @@
+=  TSV Hartberg - Austrian Bundesliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Swete, AUT, G, 1.86, 79, 01-06-90, Vienna, Grödig
+4, Michael Huber, AUT, D, 1.87, 85, 14-01-90, Oberwart, SKN St. Pölten
+6, Andreas Lienhart, AUT, D, 1.84, 77, 28-01-86, Graz, Rheindorf Altach
+7, Siegfried Rasswalder, AUT, D, 1.75, 67, 13-05-87, , Austria Klagenfurt
+8, Christoph Kröpfl, AUT, M, 1.70, 70, 04-05-90, Graz, Ritzing
+9, Rajko Rep, SVN, F, 1.77, 73, 20-06-90, Rogatec, LASK Linz
+10, Stefan Rakowitz, AUT, M, 1.72, 65, 03-04-90, Oberwart, Wacker Innsbruck
+11, Lukas Gabbichler, AUT, M, 1.86, 76, 12-05-98, , Weiz
+14, Christian Klem, AUT, D, 1.72, 61, 21-04-91, Graz, Wacker Innsbruck
+15, Marcel Schantl, AUT, M, 1.76, 70, 17-08-00, , None
+18, David Cancola, AUT, M, 1.83, 73, 23-10-96, , Austria Vienna
+19, Tomáš Ostrák, CZE, F, 1.76, 75, 05-02-00, Frýdek-Místek, Köln
+20, Jodel Dossou, BEN, M, 1.80, 75, 17-03-92, Dassa-Zoumé, Vaduz
+21, Florian Faist, AUT, G, 1.84, 82, 10-04-89, Hartberg, Anger
+22, Amadou Dante, MLI, D, 1.79, 70, 07-10-00, , Sturm Graz
+23, Tobias Kainz, AUT, D, 1.74, 68, 31-10-92, Feldbach, Kapfenberg
+24, Dario Tadić, AUT, F, 1.77, 77, 11-05-90, Odžak, Austria Lustenau
+27, Lukas Ried, AUT, M, 1.78, 67, 10-10-95, , None
+28, Jürgen Heil, AUT, M, 1.76, 70, 04-04-97, , Anger
+29, Peter Tschernegg, AUT, M, 1.81, 76, 23-07-92, Deutschlandsberg, St. Gallen
+31, Thomas Rotter, AUT, D, 1.88, 79, 27-01-92, , None
+32, Felix Luckeneder, AUT, D, 1.90, 73, 21-03-94, Linz, LASK Linz
+35, Raphael Sallinger, AUT, G, 1.97, 84, 08-12-95, Klagenfurt, Wolfsberger AC
+37, Michael Lema, AUT, M, 1.71, 67, 13-09-99, Singida, Sturm Graz
+40, Sandro Gotal, AUT, F, 1.85, 81, 09-09-91, Bregenz, Sūduva
+42, Bakary Nimaga, MLI, M, 1.89, 83, 06-12-94, Bamako, Hatayspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Nino Köpf, AUT, M, 1.84, 78, 27-02-00, , Deutschlandsberger SC
+26, Patrick Obermüller, AUT, D, 1.88, 82, 17-02-99, , Rapid Vienna
+5, Tino-Sven Sušić, BIH, M, 1.85, 77, 13-02-92, Sarajevo, Sarajevo

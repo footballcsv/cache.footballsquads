@@ -1,0 +1,49 @@
+=  Auxerre - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ionuţ Andrei Radu, ROU, G, 1.88, 80, 28-05-97, Bucharest, Internazionale
+4, Jubal, BRA, D, 1.90, 79, 29-08-93, Inhuma, Vitória Setúbal
+5, Théo Pellenard, FRA, D, 1.82, 71, 04-03-94, Lille, Valenciennes
+6, Youssouf M'Changama, COM, M, 1.75, 70, 29-08-90, Marseille, Guingamp
+7, Gauthier Hein, FRA, F, 1.70, 62, 07-08-96, Thionville, Metz
+8, Ousoumane Camara, FRA, M, 1.79, 74, 19-12-98, Cergy, None
+9, Nuno Da Costa, CPV, F, 1.82, 70, 10-02-91, Praia, Nottingham F
+10, Gaëtan Perrin, FRA, F, 1.69, 63, 07-06-96, Lyon, Orléans
+11, Mbaye Niang, SEN, F, 1.84, 78, 19-12-94, Meulan-en-Yvelines, Bordeaux
+12, Birama Touré, MLI, M, 1.83, 75, 06-06-92, Kayes, Standard Liège
+13, Akim Zedadka, ALG, D, 1.73, 72, 30-05-95, Pertuis, Lille
+14, Gideon Mensah, GHA, D, 1.77, 64, 18-07-98, Accra, Red Bull Salzburg
+16, Donovan Léon, GUY, G, 1.86, 88, 03-11-92, Cayenne, Brest
+17, Lassine Sinayoko, MLI, F, 1.84, 75, 08-12-99, Bamako, None
+18, Kays Ruiz-Atil, MAR, M, 1.78, 66, 26-08-02, Lyon, Barcelona B
+19, Matthis Abline, FRA, F, 1.76, 67, 28-03-03, Angers, Rennes
+21, Rémy Dugimont, FRA, F, 1.82, 75, 01-06-86, Saint-Cloud, Clermont
+22, Hamza Sakhi, MAR, M, 1.73, 68, 07-06-96, Rabat, Metz
+24, Kenji-Van Boto, FRA, D, 1.86, 68, 07-03-96, Saint-Denis, None
+27, Julian Jeanvier, GUI, D, 1.83, 78, 31-03-92, Clichy, Brentford
+28, Ousmane Camara, GUI, F, 1.84, 75, 03-11-01, Conakry, None
+29, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Brest
+31, Kylian Silvestre, FRA, M, 1.83, 70, 16-08-02, Gonesse, None
+32, Denys Bain, FRA, D, 1.82, 74, 02-07-93, Dijon, Brest
+34, Natanaël Bouekou, FRA, M, -, -, 10-05-02, Paris, None
+35, Kévin Danois, FRA, M, 1.83, 72, 28-06-04, Basse-Terre, None
+36, Idjessi Metsoko, TOG, F, 1.91, 72, 14-03-02, Stains, None
+37, Vincenzo Cozzella, ITA, G, 1.90, 82, 21-12-01, Bitonto, Casale
+40, Theo De Percin, FRA, G, 1.86, 70, 02-02-01, Tarbes, None
+42, Elisha Owusu, GHA, M, 1.79, 62, 07-11-97, Montreuil, KAA Gent
+77, Siriki Dembélé, CIV, M, 1.70, 67, 07-09-96, -, Bournemouth
+80, Han-Noah Massengo, FRA, M, 1.77, 66, 07-07-01, Villepinte, Bristol C
+95, Isaak Touré, FRA, D, 1.90, 75, 28-03-03, Gonesse, Marseille
+97, Rayan Raveloson, MAD, M, 1.82, 73, 16-01-97, Anosibe Ifanja, LA Galaxy
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Alec Georgen, FRA, D, 1.72, 65, 17-09-98, Clamart, Concarneau (On Loan)
+30, Sonny Laiton, FRA, G, 1.80, 80, 28-01-00, Saint-Louis, Stade Briochin (On Loan)
+19, Gaëtan Charbonnier, FRA, F, 1.88, 80, 27-12-88, Saint-Mandé, St-Etienne
+3, Quentin Bernard, FRA, D, 1.83, 76, 07-07-89, Poitiers, Niort
+26, Paul Joly, FRA, D, 1.82, 75, 07-06-00, Orléans, Dijon (On Loan)
+23, Benoît Costil, FRA, G, 1.87, 83, 03-07-87, Caen, Lille
+2, Brayann Pereira, FRA, D, 1.72, 70, 21-05-03, Saint-Quentin, Bourg-en-Bresse (On Loan)
+20, Alexandre Coeff, FRA, D, 1.84, 67, 20-02-92, Brest, Brescia

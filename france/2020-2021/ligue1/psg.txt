@@ -1,0 +1,41 @@
+=  Paris Saint-Germain - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Real Madrid
+3, Presnel Kimpembe, FRA, D, 1.83, 67, 13-08-95, Beaumont-sur-Oise, None
+4, Thilo Kehrer, GER, D, 1.84, 70, 21-09-96, Tübingen, Schalke
+5, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, Roma
+6, Marco Verratti, ITA, M, 1.65, 60, 05-11-92, Pescara, Pescara
+7, Kylian Mbappé, FRA, F, 1.78, 67, 20-12-98, Paris, Monaco
+8, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Zenit St Petersburg
+9, Mauro Icardi, ARG, F, 1.81, 75, 19-02-93, Rosario, Internazionale
+10, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Barcelona
+11, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Manchester U
+12, Rafinha, BRA, M, 1.74, 71, 12-02-93, São Paulo, Barcelona
+14, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Bayern Munich
+15, Danilo Pereira, POR, M, 1.87, 60, 09-09-91, Bissau, FC Porto
+16, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Sevilla
+18, Moise Kean, ITA, F, 1.83, 67, 28-02-00, Vercelli, Everton
+19, Pablo Sarabia, ESP, M, 1.78, 72, 11-05-92, Madrid, Sevilla
+20, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, Monaco
+21, Ander Herrera, ESP, M, 1.82, 70, 14-08-89, Bilbao, Manchester U
+22, Abdou Diallo, FRA, D, 1.83, 72, 04-05-96, Tours, Borussia Dortmund
+23, Julian Draxler, GER, M, 1.83, 68, 20-09-93, Gladbeck, Wolfsburg
+24, Alessandro Florenzi, ITA, D, 1.73, 66, 11-03-91, Rome, Roma
+25, Mitchel Bakker, NED, D, 1.78, 74, 20-06-00, Purmerend, Ajax
+27, Idrissa Gueye, SEN, M, 1.74, 66, 26-09-89, Dakar, Everton
+30, Alexandre Letellier, FRA, G, 1.91, 81, 11-12-90, Paris, Orléans
+31, Colin Dagba, FRA, D, 1.70, 62, 06-09-98, Béthune, Boulogne
+32, Timothée Pembele, FRA, D, 1.84, 72, 09-09-02, Beaumont-sur-Oise, None
+36, Kays Ruiz, MAR, M, 1.78, 66, 26-08-02, Lyon, Barcelona
+37, Xavi Simons, NED, M, 1.68, 58, 21-04-03, Amsterdam, Barcelona
+38, Maxen Kapo, FRA, M, 1.92, 75, 19-01-01, Quincy-sous-Sénart, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Garissone Innocent, FRA, G, 1.92, 90, 16-04-00, Ivry-sur-Seine, Caen (On Loan)
+29, Arnaud Kalimuendo, FRA, F, 1.75, 63, 20-01-02, Suresnes, Lens (On Loan)
+35, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Las Palmas
+30, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Châteauroux (On Loan)
+33, Bandiougou Fadiga, FRA, M, 1.69, 59, 15-01-01, Paris, Brest (On Loan)

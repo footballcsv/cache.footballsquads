@@ -1,0 +1,49 @@
+=  Lech Poznań - Polish Ekstraklasa 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mickey van der Hart, NED, G, 1.88, 87, 13-06-94, Amstelveen, PEC Zwolle
+2, Joel Pereira, POR, D, 1.78, 68, 28-09-96, Vila Nova de Gaia, Omonia Nicosia
+3, Barry Douglas, SCO, D, 1.78, 64, 04-09-89, Glasgow, Leeds U
+4, Tomasz Kędziora, POL, D, 1.83, 73, 11-06-94, Sulechów, Dynamo Kyiv
+5, Pedro Rebocho, POR, D, 1.72, 66, 23-01-95, Évora, Guingamp
+6, Jesper Karlström, SWE, M, 1.79, 72, 21-06-95, Stockholm, Djurgårdens IF
+7, Jakub Kamiński, POL, M, 1.79, 68, 05-06-02, Ruda Śląska, Szombierki Bytom
+9, Mikael Ishak, SWE, F, 1.84, 76, 31-03-93, Stockholm, Nürnberg
+10, Dani Ramírez, ESP, M, 1.75, 70, 18-06-92, Leganés, ŁKS Łódź
+11, Filip Marchwiński, POL, M, 1.85, 72, 10-01-02, Poznań, None
+16, Antonio Milić, CRO, D, 1.90, 80, 10-03-94, Split, Anderlecht
+17, Filip Wilak, POL, F, 1.80, 66, 06-08-03, Poznań, None
+18, Bartosz Salamon, POL, D, 1.96, 89, 01-05-91, Poznań, SPAL
+19, Norbert Pacławski, POL, F, 1.87, 63, 19-02-04, Rzeszów, None
+20, Maksymilian Pingot, POL, D, 1.88, 78, 01-04-03, Konin, None
+21, Michał Skóraś, POL, M, 1.72, 64, 15-02-00, Jastrzębie Zdrój, None
+22, Radosław Murawski, POL, M, 1.73, 68, 22-04-94, Gliwice, Denizlispor
+23, Kristoffer Velde, NOR, M, 1.79, 65, 09-09-99, Haugesund, Haugesund
+24, João Amaral, POR, M, 1.72, 65, 07-09-91, Vila Nova de Gaia, Benfica
+25, Pedro Tiba, POR, M, 1.76, 74, 31-08-88, Arcos de Valdevez, Sporting Braga
+27, Mateusz Skrzypczak, POL, M, 1.86, 77, 22-08-00, Poznań, None
+30, Nika Kvekveskiri, GEO, M, 1.86, 79, 29-05-92, Zugdidi, Tobol Kostanay
+33, Bartosz Mrozek, POL, G, 1.90, 79, 23-02-00, Katowice, GKS Tychy
+34, Tymoteusz Klupś, POL, M, 1.79, 77, 26-02-00, Poznań, None
+35, Filip Bednarek, POL, G, 1.88, 81, 26-09-92, Kleczew, SC Heerenveen
+37, Ľubomír Šatka, SVK, D, 1.85, 72, 02-12-95, Ilava, DAC Dunajská Streda
+44, Alan Czerwiński, POL, D, 1.81, 74, 02-02-93, Olkusz, Zagłębie Lubin
+50, Adriel Ba Loua, CIV, M, 1.70, 66, 25-07-96, Yopougon, Viktoria Plzeň
+74, Jakub Antczak, POL, M, -, -, 29-04-04, Wrocław, None
+90, Artur Sobiech, POL, F, 1.84, 75, 12-06-90, Ruda Śląska, Fatih Karagümrük
+97, Dawid Kownacki, POL, F, 1.87, 75, 14-03-97, Gorzów Wielkopolski, Fortuna Düsseldorf
+99, Miłosz Mleczko, POL, G, 1.91, 84, 01-03-99, Gorlice, Ruch Chorzów
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Djordje Crnomarković, SRB, D, 1.88, 77, 10-09-93, Belgrade, Olimpija Ljubljana
+8, Jan Sýkora, CZE, M, 1.70, 64, 29-12-93, Plzeň, Viktoria Plzeň (On Loan)
+15, Karlo Muhar, CRO, M, 1.88, 83, 17-01-96, Zagreb, CSKA Sofia (On Loan)
+20, Aron Jóhannsson, USA, F, 1.84, 70, 10-11-90, Mobile, Valur
+88, Roko Baturina, CRO, F, 1.87, 82, 20-06-00, Split, Ferencváros
+38, Jakub Karbownik, POL, M, 1.74, 70, 15-03-01, Bełchatów, GKS Katowice
+4, Thomas Rogne, NOR, D, 1.93, 87, 29-06-90, Bærum, Apollon Smyrnis
+43, Antoni Kozubal, POL, M, 1.76, 68, 18-08-04, Krosno, Górnik Polkowice (On Loan)
+28, Filip Borowski, POL, D, 1.81, 68, 06-10-03, Bydgoszcz, Zagłębie Sosnowiec (On Loan)
+33, Bartosz Mrozek, POL, G, 1.90, 79, 23-02-00, Katowice, Stal Mielec (On Loan)

@@ -1,0 +1,45 @@
+=  Portimonense - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Souza, BRA, G, 1.93, 87, 03-08-04, Vila Velha, Bahia
+4, Thiago Dombroski, BRA, D, 1.82, 72, 20-06-02, Curitiba, Coritiba
+5, Steve Mvoué, CMR, M, 1.85, 73, 02-02-02, Yaoundé, RFC Seraing
+6, Ricardo Sousa, POR, M, 1.79, 73, 09-06-01, Arouca, Vitória de Sernache
+7, Sylvester Jasper, BUL, M, -, -, 13-09-01, Southwark, Fulham
+8, Taichi Fukui, JPN, M, 1.72, 65, 15-07-04, Kanagawa, Bayern Munich
+9, Tamble Monteiro, POR, F, 1.91, 78, 15-11-00, Coimbra, Felgueiras
+10, Hildeberto Pereira, POR, M, 1.75, 70, 02-03-96, Lisbon, Henan
+11, Carlinhos, BRA, M, 1.79, 82, 22-06-94, Camacan, Vasco da Gama
+12, Vinícius Silvestre, BRA, G, 1.95, 90, 28-03-94, Guarulhos, Palmeiras
+13, Dener, BRA, M, 1.85, 78, 13-03-92, São Bernardo do Campo, Al-Tai
+14, Moustapha Seck, SEN, D, 1.80, 72, 23-02-96, Dakar, Leixões
+17, Davis, BRA, M, 1.75, 70, 13-08-02, Porto Alegre, Alverca
+18, Gonçalo Costa, POR, D, 1.79, 73, 18-02-00, Setúbal, Sporting CP
+19, Ronie Carillo, ECU, F, 1.86, 80, 08-09-96, Quito, El Nacional
+20, Paulo Estrela, POR, M, 1.71, 66, 20-02-99, Paços de Ferreira, FC Porto
+22, Filipe Relvas, POR, D, 1.92, 78, 20-09-99, Espinho, Pedras Rubras
+23, Lee Ye-Chan, KOR, D, 1.84, 75, 23-05-05, Seoul, Yeongdeungpo THS
+25, Lucas Ventura, BRA, M, 1.80, 75, 19-05-98, Leopoldina, Cruzeiro
+27, Guga, POR, D, 1.78, 70, 23-10-03, Lisbon, Alverca
+28, Luan Campos, BRA, F, 1.73, 68, 19-03-02, Marília, América Mineiro
+30, Kim Yong-Hak, KOR, F, 1.72, 65, 20-05-03, -, Pohang Steelers
+32, Kosuke Nakamura, JPN, G, 1.84, 72, 27-02-95, Kita, Kashiwa Reysol
+33, Igor Formiga, BRA, D, 1.77, 77, 08-01-99, Rio de Janeiro, Cruzeiro
+35, Shuhei Kawasaki, JPN, F, 1.68, 66, 28-04-01, Kishiwada, Gamba Osaka
+43, Alemão, BRA, D, 1.94, 87, 06-11-02, Franca, Corinthians
+44, Pedrão, BRA, D, 1.94, 80, 03-05-97, São Paulo, Palmeiras
+70, Rodrigo Martins, POR, F, 1.77, 72, 15-09-98, Faro, Estoril
+75, Ângelo Taveira, POR, D, 1.83, 75, 13-05-00, Odiáxere, Farense
+76, Rafael Alcobia, POR, D, 1.87, 77, 22-06-03, Santarém, Tondela
+77, Hélio Varela, CPV, F, 1.76, 69, 03-05-02, Almada, Sintrense
+85, Midana Cassamá, GNB, F, -, -, 18-08-02, -, Trujillo
+88, João Victor, BRA, G, 1.91, 80, 23-10-00, -, Ituano
+99, Zinho, BRA, F, 1.78, 70, 09-05-03, Lajeado, Grêmio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Rildo, BRA, M, 1.78, 73, 21-01-00, Rondonópolis, Santa Clara
+9, Paulinho, POR, F, 1.86, 82, 21-09-99, Braga, Viborg
+8, Maurício, BRA, M, 1.80, 73, 21-10-88, São José dos Campos, 
+71, Dennis Adeniran, ENG, M, 1.80, 74, 02-01-99, Southwark, Hapoel Petah Tikva

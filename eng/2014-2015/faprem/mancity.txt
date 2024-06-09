@@ -1,0 +1,53 @@
+=  Manchester City - English Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Hart, ENG, G, 1.91, 80, 19-04-87, Shrewsbury, Shrewsbury T
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Arsenal
+4, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Hamburg
+5, Pablo Zabaleta, ARG, D, 1.74, 74, 16-01-85, Capital Federal, Espanyol
+6, Fernando, BRA, M, 1.83, 74, 25-07-87, Alto Paraíso de Goiás, FC Porto
+7, James Milner, ENG, M, 1.70, 67, 04-01-86, Wortley, Aston Villa
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Arsenal
+10, Edin Džeko, BIH, F, 1.92, 80, 17-03-86, Doboj, Wolfsburg
+11, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Lazio
+13, Wilfredo Caballero, ARG, G, 1.85, 83, 28-09-81, Salta Elena, Málaga
+14, Wilfried Bony, CIV, F, 1.82, 80, 10-12-88, Bingerville, Swansea C
+15, Jesús Navas, ESP, M, 1.70, 60, 21-11-85, Los Palacios, Sevilla
+16, Sergio Agüero, ARG, F, 1.72, 74, 02-06-88, Capital Federal, Atlético Madrid
+18, Frank Lampard, ENG, M, 1.83, 90, 20-06-78, Romford, Chelsea
+20, Eliaquim Mangala, FRA, D, 1.87, 74, 13-02-91, Colombes, FC Porto
+21, David Silva, ESP, M, 1.70, 67, 08-01-86, Arguineguín, Valencia
+22, Gaël Clichy, FRA, D, 1.81, 72, 26-07-85, Toulouse, Arsenal
+25, Fernandinho, BRA, M, 1.76, 67, 04-05-85, Londrina, Shakhtar Donetsk
+26, Martin Demichelis, ARG, D, 1.84, 78, 20-12-80, Justiniano Posse, Atlético Madrid
+29, Richard Wright, ENG, G, 1.87, 82, 05-11-77, Ipswich, Preston NE
+35, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Fiorentina
+38, Dedryck Boyata, BEL, D, 1.88, 84, 08-09-90, Uccle, None
+42, Yaya Touré, CIV, M, 1.91, 90, 13-05-83, Sokoura Bouaké, Barcelona
+48, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, None
+50, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Espanyol
+55, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Le Havre
+56, Angus Gunn, ENG, G, 1.96, 77, 22-01-96, Bolton, Norwich C
+59, Bersant Celina, NOR, M, 1.62, 60, 09-09-96, Prizren, Strømsgodset
+61, Thierry Ambrose, FRA, F, 1.78, 70, 28-03-97, Sens, Auxerre
+62, Brandon Barker, ENG, M, 1.75, 68, 04-10-96, Manchester, None
+66, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Lorient
+69, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, Deportivo La Coruña
+72, Kean Bryan, ENG, M, 1.82, 72, 01-11-96, Manchester, None
+73, George Glendon, ENG, M, 1.77, 70, 03-05-95, Manchester, None
+74, Kjetil Haug, NOR, G, 1.90, 80, 12-06-98, Halden, Sarpsborg 08
+76, Jordy Hiwula, ENG, F, 1.78, 66, 21-09-94, Manchester, None
+78, José Ángel Pozo, ESP, F, 1.70, 60, 15-03-96, Málaga, Real Madrid
+79, Manu García, ESP, M, 1.70, 65, 02-01-98, Oviedo, Sporting Gijón
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, Fiorentina (On Loan)
+9, Álvaro Negredo, ESP, F, 1.86, 85, 20-08-85, Madrid, Valencia (On Loan)
+75, Sinan Bytyqi, AUT, M, 1.85, 82, 15-01-95, Prizren, SC Cambuur (On Loan)
+33, Matija Nastasić, SRB, D, 1.87, 79, 28-03-93, Belgrade, Schalke (On Loan)
+12, Scott Sinclair, ENG, M, 1.75, 64, 25-03-89, Bath, Aston Villa (On Loan)
+70, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Scunthorpe U (On Loan)
+36, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, Córdoba (On Loan)
+58, Shay Facey, ENG, D, 1.77, 64, 07-01-94, Manchester, New York C (On Loan)

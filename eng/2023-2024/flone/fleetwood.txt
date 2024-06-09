@@ -1,0 +1,60 @@
+=  Fleetwood Town - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Carl Johnston, NIR, D, 1.75, 64, 29-05-02, Belfast, Linfield
+3, Harry Boyes, ENG, D, 1.80, 70, 20-11-01, Barnsley, Sheffield U
+4, Brendan Wiredu, ENG, M, 1.91, 70, 07-11-99, Tower Hamlets, Colchester U
+5, Bosun Lawal, IRL, D, -, -, 30-05-03, -, Celtic
+6, Elijah Campbell, ENG, D, -, -, 02-08-04, Manchester, Everton
+8, Gavin Kilkenny, IRL, M, 1.70, 64, 01-02-00, Dublin, Bournemouth
+9, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Charlton Ath
+10, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Plymouth Arg
+11, Ryan Broom, WAL, M, 1.77, 80, 04-09-96, Newport, Cheltenham T
+12, Imari Samuels, ENG, D, 1.87, 73, 05-02-03, Hammersmith, Brighton & HA
+13, Jay Lynch, ENG, G, 1.88, 85, 31-03-93, Salford, Rochdale
+14, Tom Lonergan, IRL, F, 1.80, 77, 02-01-04, Dublin, St Patrick's Ath
+15, Junior Quitirna, GNB, M, 1.70, 64, 25-04-00, -, Waterford
+16, Ben Heneghan, ENG, D, 1.91, 79, 19-09-93, Manchester, Sheffield W
+17, Xavier Simons, ENG, M, 1.85, 73, 20-02-03, Hammersmith, Hull C
+18, Harrison Holgate, ENG, D, 1.86, 70, 01-07-00, Leeds, None
+19, Ryan Graydon, IRL, M, 1.88, 78, 11-04-99, Dublin, Derry C
+20, Promise Omochere, NGA, M, 1.88, 79, 18-10-00, Dublin, Bohemians
+22, Callum Dolan, ENG, M, -, -, 29-09-00, -, Warrington Rylands
+23, David Harrington, IRL, G, 1.84, 71, 01-07-00, Cork, Cork C
+26, Shaun Rooney, SCO, D, 1.91, 80, 26-07-96, Bellshill, St Johnstone
+30, Stephen McMullan, NIR, G, 1.84, 77, 31-12-04, -, Warrenpoint T
+31, Owain Fôn Williams, WAL, G, 1.93, 77, 17-03-87, Penygroes, Dunfermline Ath
+32, Finley Potter, ENG, D, 1.82, 70, 14-03-04, Sheffield, Sheffield U
+33, Ronan Coughlan, IRL, F, 1.78, 75, 02-10-95, Limerick, Waterford
+34, Tom Donaghy, ENG, G, -, -, 18-04-03, Leeds, Bradford C
+35, Pharrell Brown, ENG, M, -, -, -, -, None
+36, Sam Glenfield, NIR, F, -, -, 10-05-05, -, Portadown
+39, Billy Jones, ENG, M, -, -, -, -, None
+40, George Morrison, SCO, M, -, -, 24-10-05, -, None
+42, Ben Whelan, ENG, D, -, -, 11-10-04, Halifax, None
+43, Harry Wilson, NIR, M, -, -, 16-02-04, -, None
+44, Phoenix Patterson, SCO, M, 1.78, 67, 01-09-00, High Wycombe, Waterford
+45, Patrick Boyes, ENG, G, -, -, 25-09-02, Leeds, Hartlepool U
+46, Theo Williams, ENG, F, 1.76, 66, 09-10-03, Nottingham, Sheffield U
+47, Kyle White, ENG, M, 1.83, 75, 25-03-04, Burnley, None
+49, Harry Wright, ENG, D, -, -, 11-11-04, -, Everton
+52, Tom Hoyle, ENG, D, -, -, 04-09-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Aristote Nsiala, COD, D, 1.93, 83, 25-03-92, Kinshasa, Burton Alb
+50, Finlay Armstrong, ENG, D, 1.88, 72, 05-03-03, Liverpool, Rochdale (On Loan)
+6, Scott Robertson, SCO, M, 1.85, 76, 27-07-01, Glasgow, Notts Co
+3, Adam Montgomery, SCO, D, 1.73, 58, 18-07-02, Livingston, Celtic
+24, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Waterford (On Loan)
+8, Josh Vela, ENG, M, 1.81, 73, 14-12-93, Salford, Carlisle U
+7, Kabongo Tshimanga, ENG, F, 1.80, 78, 22-07-97, Kinshasa, Peterborough U
+14, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Wrexham
+21, Cian Hayes, IRL, F, 1.70, 73, 29-06-03, Preston, Rochdale (On Loan)
+25, Connor Teale, ENG, D, 1.85, 74, 08-10-02, Harlow, Arbroath (On Loan)
+32, Josh Earl, ENG, D, 1.93, 78, 24-10-98, Southport, Barnsley
+51, Maleace Asamoah, ENG, F, 1.82, 76, 15-11-02, Oxford, Waterford (On Loan)
+27, Harvey Macadam, ENG, M, 1.93, 84, 09-01-01, Burnley, Waterford (On Loan)
+37, Sam Fishburn, ENG, F, 1.88, 82, 26-11-03, Gateshead, York C (On Loan)
+38, Will Johnson, ENG, D, -, -, 06-06-05, -, Gateshead (On Loan)

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2023/2024
+
+18 teams
+- [Eintracht Braunschweig](einbraun.txt)
+- [SV Elversberg](elversberg.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hertha.txt)
+- [Holstein Kiel](holskiel.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Magdeburg](magdeburg.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [VfL Osnabrück](osna.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [FC Schalke 04](schalke.txt)
+- [SV Wehen Wiesbaden](wehen.txt)

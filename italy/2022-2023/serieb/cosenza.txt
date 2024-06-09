@@ -1,0 +1,53 @@
+=  Cosenza - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Salernitana
+3, Andrea Rispoli, ITA, D, 1.88, 78, 29-09-88, Cava de' Tirreni, Parma
+4, Marco Brescianini, ITA, M, 1.88, 73, 20-01-00, Calcinate, Milan
+5, Michele Rigione, ITA, D, 1.85, 78, 07-03-91, Naples, Chievo Verona
+6, Giacomo Calò, ITA, M, 1.79, 75, 05-02-97, Trieste, Genoa
+7, Emil Kornvig, DEN, M, 1.89, 75, 28-04-00, Søborg, Spezia
+9, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Platense
+10, Christian D'Urso, ITA, M, 1.78, 70, 26-07-97, Rieti, Perugia
+11, Tommaso D'Orazio, ITA, D, 1.86, 75, 03-05-90, Guardiagrele, Südtirol
+12, Alessandro Lai, ITA, G, 1.86, 70, 23-10-00, Cagliari, Lamezia
+13, Andrea Meroni, ITA, D, 1.88, 84, 09-01-97, Monza, Sassuolo
+14, Nick Salihamidžić, GER, D, 1.79, 60, 08-02-03, Munich, Bayern Munich II
+15, Sauli Väisänen, FIN, D, 1.90, 75, 05-06-94, Helsinki, Chievo Verona
+16, Mattia Finotto, ITA, F, 1.86, 72, 28-12-92, Pieve di Soligo, SPAL
+17, Mateusz Praszelik, POL, M, 1.84, 74, 26-09-00, Racibórz, Verona
+18, Vittorio Agostinelli, ITA, M, 1.83, 64, 21-02-02, Monopoli, Fiorentina
+19, Ivan Delić, CRO, F, 1.86, 83, 29-09-98, Split, Šibenik
+20, Marco Nasti, ITA, F, 1.79, 63, 17-09-03, Pavia, Milan
+23, Michael Venturi, ITA, D, 1.93, 85, 23-01-99, Rimini, Carpi
+27, Pietro Martino, ITA, D, 1.78, 75, 04-08-97, Modena, Foggia
+29, Jahce Novello, AUS, F, 1.82, 75, 18-04-04, Bunbury, Cremonese
+32, Manuel Marras, ITA, F, 1.68, 63, 09-07-93, Genoa, Bari
+33, Salvatore Dario La Vardera, ITA, D, 1.84, 75, 07-03-02, Palermo, Palermo
+34, Aldo Florenzi, ITA, M, 1.83, 70, 02-04-02, Nuoro, Chievo Verona
+35, Fedele Iovino, ITA, G, 1.82, -, 10-07-05, Castellamare di Stabia, Napoli
+38, Baldovino Cimino, ITA, D, 1.84, 70, 20-02-04, Sessa Aurunca, Juve Stabia
+40, Massimo Zilli, ITA, F, 1.95, 90, 17-07-02, Udine, Lazio
+42, Idriz Voca, SUI, M, 1.81, 74, 15-05-97, Stans, Ankaragücü
+48, Alessandro Arioli, ITA, F, 1.84, 79, 24-05-03, Anzio, Aprilia
+67, Thomas Prestianni, ITA, M, 1.74, 71, 08-01-02, L'Aquila, Palermo
+72, Alessandro Cortinovis, ITA, F, 1.80, 76, 25-01-01, Bergamo, Atalanta
+77, Leonardo Marson, ITA, G, 1.85, 70, 05-01-98, Udine, Vibonese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Ozieri, Como (On Loan)
+55, Andrea Hristov, BUL, D, 1.91, 78, 01-03-99, Sofia, Reggiana (On Loan)
+22, Christian Sibilano, ITA, G, 1.86, -, 15-07-05, Bari, Monopoli
+21, Andrea Vallocchia, ITA, M, 1.78, 70, 22-05-97, Rieti, Reggiana
+14, Ciro Panico, ITA, D, 1.70, 69, 03-08-99, Naples, Feralpisalò (On Loan)
+19, Agostino Camigliano, ITA, D, 1.88, 82, 11-07-94, Segrate, Ancona
+32, Karlo Butić, CRO, F, 1.86, 85, 21-08-98, Zadar, Pordenone
+36, Rodney Kongolo, NED, M, 1.87, 78, 09-01-98, Rotterdam, 
+11, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Benevento
+31, Kristjan Matoševič, SVN, G, 1.92, 88, 05-06-97, Koper, Triestina (On Loan)
+9, Joaquín Larrivey, ARG, F, 1.85, 82, 20-08-84, Gualeguay, Südtirol
+18, Davide Merola, ITA, F, 1.76, 72, 27-03-00, Santa Maria Capua Vetere, Empoli
+25, Paolo Gozzi, ITA, D, 1.80, 69, 25-04-01, Turin, Genoa
+28, Alassane Sidibe, CIV, M, 1.77, 71, 09-06-02, Abidjan, Atalanta

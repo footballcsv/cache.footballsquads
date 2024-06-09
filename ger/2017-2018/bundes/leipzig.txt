@@ -1,0 +1,45 @@
+=  RB Leipzig - German Bundesliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabio Coltorti, SUI, G, 1.97, 95, 03-12-80, Kriens, Lausanne-Sport
+3, Bernardo, BRA, D, 1.86, 76, 14-05-95, São Paulo, Red Bull Salzburg
+4, Willi Orban, GER, D, 1.85, 80, 03-11-92, Kaiserslautern, Kaiserslautern
+5, Dayot Upamecano, FRA, D, 1.88, 84, 27-10-98, Evreux, Red Bull Salzburg
+6, Ibrahima Konaté, FRA, D, 1.93, 84, 25-05-99, Paris, Sochaux
+7, Marcel Sabitzer, AUT, M, 1.76, 70, 17-03-94, Graz, Rapid Vienna
+8, Naby Keïta, GUI, M, 1.72, 64, 10-02-95, Conakry, Red Bull Salzburg
+9, Yussuf Poulsen, DEN, F, 1.93, 78, 15-06-94, Copenhagen, Lyngby
+10, Emil Forsberg, SWE, M, 1.79, 78, 23-10-91, Sundsvall, Malmö FF
+11, Timo Werner, GER, F, 1.80, 75, 06-03-96, Stuttgart, Stuttgart
+13, Stefan Ilsanker, AUT, M, 1.86, 74, 18-05-89, Hallein, Red Bull Salzburg
+16, Lukas Klostermann, GER, D, 1.85, 80, 03-06-96, Gevelsberg, Bochum
+17, Bruma, POR, F, 1.73, 70, 24-10-94, Bissau, Galatasaray
+18, Ademola Lookman, ENG, F, 1.74, 78, 20-10-97, Wandsworth, Everton
+20, Benno Schmitz, GER, D, 1.82, 75, 17-11-94, Munich, Red Bull Salzburg
+22, Philipp Köhn, GER, G, 1.91, 84, 02-04-98, Dinslaken, Stuttgart
+23, Marcel Halstenberg, GER, D, 1.86, 82, 27-09-91, Laatzen, St Pauli
+24, Dominik Kaiser, GER, M, 1.71, 67, 16-09-88, Mutlangen, 1899 Hoffenheim
+25, Toni Stahl, GER, G, 1.94, 84, 17-09-99, Cottbus, Energie Cottbus
+26, Niclas Stierlin, GER, M, 1.82, 75, 22-01-00, Mannheim, Kaiserslautern
+27, Konrad Laimer, AUT, M, 1.79, 68, 27-05-97, Salzburg, Red Bull Salzburg
+28, Yvon Mvogo, SUI, G, 1.86, 84, 06-06-94, Fribourg, Young Boys
+29, Jean-Kévin Augustin, FRA, F, 1.77, 69, 16-06-97, Paris, Paris St-Germain
+31, Diego Demme, GER, M, 1.70, 66, 21-11-91, Herford, Paderborn
+32, Péter Gulácsi, HUN, G, 1.90, 83, 06-05-90, Budapest, Red Bull Salzburg
+33, Fabrice Hartmann, GER, M, 1.78, 66, 02-03-01, Dessau, None
+34, Julian Krahl, GER, G, 1.94, 90, 22-01-00, Forst (Lausitz), None
+35, Kilian Senkbeil, GER, D, 1.83, 76, 22-05-99, Leipzig, None
+36, Marc Dauter, GER, M, 1.78, 65, 22-03-99, Berlin, None
+37, Mert Yilmaz, GER, D, 1.72, 67, 08-03-99, Berlin, None
+38, Lukas Schelenz, GER, M, 1.84, , 15-05-99, Eckersdorf, Nürnberg
+39, Dominic Minz, GER, D, 1.85, 73, 07-03-99, Berlin, None
+40, Elias Abouchabaka, GER, M, 1.84, 74, 31-03-00, Berlin, Hertha Berlin
+44, Kevin Kampl, SVN, M, 1.80, 63, 09-10-90, Solingen, Bayer Leverkusen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Oliver Burke, SCO, M, 1.74, 75, 07-04-97, Melton Mowbray, WBA
+33, Marvin Compper, GER, D, 1.85, 80, 14-06-85, Tübingen, Celtic
+38, Federico Palacios, GER, F, 1.70, 67, 09-04-95, Hannover, Nürnberg
+26, Nicolas Kühn, GER, F, 1.74, 69, 01-01-00, Wunstorf, Ajax

@@ -1,0 +1,44 @@
+=  Athletic Bilbao - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Unai Simón, ESP, G, 1.90, 86, 11-06-97, Vitoria-Gasteiz, Athletic Bilbao B
+2, Jon Morcillo, ESP, M, 1.83, 72, 15-09-98, Amorebieta-Etxano, Athletic Bilbao B
+3, Unai Núñez, ESP, D, 1.86, 81, 30-01-97, Portugalete, Athletic Bilbao B
+4, Íñigo Martínez, ESP, D, 1.82, 79, 17-05-91, Ondarroa, Real Sociedad
+5, Yeray, ESP, D, 1.83, 78, 24-01-95, Barakaldo, Athletic Bilbao B
+6, Mikel Vesga, ESP, M, 1.91, 84, 08-04-93, Vitoria-Gasteiz, Alavés B
+7, Ibai Gómez, ESP, F, 1.79, 73, 11-11-89, Bilbao, Alavés
+8, Unai López, ESP, M, 1.69, 64, 30-10-95, Errenteria, Athletic Bilbao B
+9, Iñaki Williams, ESP, F, 1.86, 76, 15-06-94, Bilbao, Athletic Bilbao B
+10, Iker Muniain, ESP, F, 1.69, 64, 19-12-92, Pamplona, Athletic Bilbao B
+12, Alex Berenguer, ESP, M, 1.75, 73, 04-07-95, Pamplona, Torino
+13, Jokin Ezkieta, ESP, G, 1.94, 78, 17-08-96, Pamplona, Barcelona B
+14, Dani García, ESP, M, 1.80, 75, 24-05-90, Zumarraga, Eibar
+15, Íñigo Lekue, ESP, D, 1.80, 73, 04-05-93, Bilbao, Athletic Bilbao B
+16, Oihan Sancet, ESP, M, 1.88, 74, 25-04-00, Iruñea, Athletic Bilbao B
+17, Yuri Berchiche, ESP, D, 1.80, 78, 10-02-90, Zarautz, Paris St-Germain
+18, Óscar de Marcos, ESP, D, 1.82, 78, 14-04-89, Laguardia, Alavés
+19, Oier Zarraga, ESP, M, 1.75, 75, 04-01-99, Getxo, Athletic Bilbao B
+20, Asier Villalibre, ESP, F, 1.83, 82, 30-09-97, Guernica, Basconia
+21, Ander Capa, ESP, D, 1.73, 70, 08-02-92, Portugalete, Eibar
+22, Raúl García, ESP, M, 1.84, 84, 11-07-86, Pamplona, Atlético Madrid
+23, Peru Nolaskoain, ESP, D, 1.85, 76, 25-10-98, Zumaia, Athletic Bilbao B
+24, Mikel Balenziaga, ESP, D, 1.77, 75, 29-02-88, Zumárraga, Valladolid
+25, Iago Herrerín, ESP, G, 1.87, 92, 25-01-88, Bilbao, Athletic Bilbao B
+26, Íñigo Vicente, ESP, F, 1.77, 63, 06-01-98, Derio, Athletic Bilbao B
+27, Unai Vencedor, ESP, M, 1.76, 71, 15-11-00, Bilbao, Athletic Bilbao B
+30, Nico Williams, ESP, F, 1.81, 67, 12-07-02, Pamplona, Athletic Bilbao B
+34, Ander Iru, ESP, G, 1.88, 74, 22-08-98, Igorre, Basconia
+38, Aitor Paredes, ESP, D, 1.86, 76, 29-04-00, Bilbao, Athletic Bilbao B
+39, Beñat Prados, ESP, M, 1.78, 67, 08-02-01, Pamplona, Athletic Bilbao B
+40, Julen Bernaola, ESP, M, 1.87, 80, 29-04-99, Bilbao, Athletic Bilbao B
+41, Ander Lorente, ESP, D, 1.77, 67, 28-01-01, Santurtzi, Basconia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Gaizka Larrazabal, ESP, F, 1.80, 81, 17-12-97, Bilbao, Zaragoza
+32, Jon Morcillo, ESP, M, 1.83, 72, 15-09-98, Amorebieta-Etxano, Re-Registered (2)
+19, Kenan Kodro, BIH, F, 1.90, 77, 19-08-93, San Sebastián, Valladolid (On Loan)
+11, Íñigo Córdoba, ESP, F, 1.80, 74, 13-03-97, Bilbao, Alavés (On Loan)
+28, Oier Zarraga, ESP, M, 1.75, 75, 04-01-99, Getxo, Re-Registered (19)

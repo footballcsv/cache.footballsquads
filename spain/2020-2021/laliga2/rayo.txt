@@ -1,0 +1,42 @@
+=  Rayo Vallecano - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Zidane, FRA, G, 1.83, 78, 13-05-98, Marseille, Real Madrid B
+2, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Atlético Madrid
+3, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Almería
+4, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Guizhou Hengfeng
+5, Alejandro Catena, ESP, D, 1.94, 82, 28-10-94, Madrid, Reus
+6, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+7, Isi Palazón, ESP, M, 1.69, 71, 27-12-94, Cieza, Ponferradina
+8, Óscar Trejo, ARG, F, 1.80, 79, 26-04-88, Santiago del Estero, Toulouse
+9, Leonardo Ulloa, ARG, F, 1.85, 75, 26-07-86, Río Negro, Pachuca
+10, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Eibar
+11, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Córdoba
+13, Stole Dimitrievski, MKD, G, 1.88, 80, 23-12-93, Kumanovo, Nàstic
+14, Yacine Qasmi, MAR, F, 1.83, 80, 03-01-91, Pontoise, Elche
+15, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Granada
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, UANL Tigres
+18, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Cádiz
+19, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, Nottingham F
+20, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo B
+22, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Almería
+23, Óscar Valentín, ESP, M, 1.77, 70, 20-08-94, Ajofrín, Rayo Majadahonda
+24, Esteban Saveljich, ARG, D, 1.87, 76, 02-05-91, Tandil, Levante
+27, Martín Pascual, ESP, D, 1.90, 78, 04-08-99, Madrid, Rayo B
+28, Mario Hernández, ESP, M, -, -, 25-01-99, Madrid, Rayo B
+30, Miguel Ángel Morro, ESP, G, 1.95, 82, 11-09-00, Alcalá de Henares, Rayo B
+31, Marc Echarri, ESP, F, 1.90, 82, 04-03-99, Manzanares el Real, Alcorcón B
+32, Sergio Arratia, ESP, M, -, -, 23-04-00, Madrid, Rayo B
+33, Fran García, ESP, D, 1.67, 61, 14-08-99, Bolaños de Calatrava, Real Madrid B
+36, Dani Moreno, ESP, M, -, -, 01-09-01, Meco, Rayo B
+38, Iker Ortega, ESP, D, -, -, 17-06-01, Talavera de la Reina, Rayo B
+39, Manu Navarro, ESP, M, -, -, 09-10-00, -, Rayo B
+40, Roberto González, ESP, G, -, -, 19-05-99, -, Rayo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, Dinamo București
+26, Sergio Benito, ESP, F, 1.73, 73, 23-03-99, Madrid, Valladolid B
+29, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Mirandés (On Loan)
+19, Alhassane Bangoura, GUI, F, 1.74, 71, 30-03-92, Conakry, Emelec (On Loan)

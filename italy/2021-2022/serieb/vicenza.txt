@@ -1,0 +1,56 @@
+=  Vicenza - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolas Gerardi, ITA, G, 1.83, 78, 07-02-03, Treviso, Internazionale
+4, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Udinese
+5, Anthony Taugourdeau, FRA, M, 1.82, 72, 30-11-88, Marseiile, Venezia
+6, Loris Zonta, ITA, M, 1.80, 74, 22-05-97, Bassano del Grappa, Bassano Virtus
+7, Michele Cavion, ITA, M, 1.83, 78, 08-12-94, Schio, Salernitana
+9, Davide Diaw, SEN, F, 1.85, 81, 06-01-92, Cividale del Friuli, Monza
+10, Stefano Giacomelli, ITA, F, 1.70, 71, 30-04-90, Spoleto, Pescara
+11, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, Juventus
+13, Nicola Pasini, ITA, D, 1.85, 86, 10-04-91, Chiavenna, Bassano Virtus
+14, Emanuele Padella, ITA, D, 1.84, 78, 24-09-88, Rome, Ascoli
+15, Matteo Bruscagin, ITA, D, 1.84, 78, 03-08-89, Milan, Venezia
+16, Janio Bikel, GNB, M, 1.74, 65, 28-06-95, Bissau, Vancouver Whitecaps
+17, Riccardo Brosco, ITA, D, 1.91, 78, 03-02-91, Rome, Ascoli
+20, Charles Boli, FRA, M, 1.75, 65, 30-08-98, Dundee, Lens
+21, Nikita Contini, ITA, G, 1.90, 82, 21-05-96, Cherkasy, Napoli
+22, Matteo Grandi, ITA, G, 1.90, 75, 12-10-92, Faenza, Cesena
+23, Daniel Cappelletti, ITA, D, 1.83, 78, 09-10-91, Cantù, Padova
+24, Jean Freddi Greco, ITA, M, 1.74, 67, 12-02-01, Andohatapenaka, Pordenone
+26, Luca Crecco, ITA, D, 1.83, 77, 06-09-95, Rome, Pescara
+32, Mattia Ongaro, ITA, M, 1.82, 72, 23-02-03, Trento, None
+34, Nicola Dalmonte, ITA, F, 1.69, 73, 13-09-97, Ravenna, Genoa
+35, Christian Maggio, ITA, D, 1.84, 79, 11-02-82, Montecchio Maggiore, Lecce
+39, Tommaso Mancini, ITA, F, 1.90, 78, 23-07-04, Vicenza, None
+69, Riccardo Meggiorini, ITA, F, 1.82, 80, 04-09-85, Isola della Scala, Chievo Verona
+70, Alessio Da Cruz, NED, F, 1.84, 75, 18-01-97, Almere, Parma
+72, Alessandro Favero, ITA, F, 1.76, -, 23-10-03, Bassano del Grappa, None
+73, Thomas Sandon, ITA, D, 1.72, -, 11-07-03, Abano Terme, None
+74, Malik Djibril, ITA, M, 1.81, -, 30-08-03, -, Fiorentina
+75, Tommaso Bresolin, ITA, G, 1.91, -, 26-09-04, -, None
+76, Federico Paoloni, ITA, D, 1.80, -, 30-05-03, Rome, Genoa
+77, Stefano Cester, ITA, M, 1.84, -, 15-03-02, Chioggia, Internazionale
+78, Filippo Alessio, ITA, F, 1.82, 72, 24-12-04, Montebelluna, None
+80, Alberto Lattanzio, ITA, D, 1.82, -, 22-03-04, Castelfranco Veneto, None
+81, Mattia Morello, ITA, G, -, -, 21-10-04, Vicenza, None
+83, Matteo Spiller, ITA, F, 1.91, -, 13-08-03, -, None
+91, Łukasz Teodorczyk, POL, F, 1.85, 76, 03-06-91, Żuromin, Udinese
+94, Jordan Lukaku, BEL, D, 1.77, 86, 25-07-94, Antwerp, Lazio
+98, Alessandro Confente, ITA, G, 1.94, 73, 07-06-98, Soave, Chievo Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Leonardo Zarpellon, ITA, M, 1.84, 70, 22-05-99, Bassano del Grappa, Virtus Verona (On Loan)
+24, Marco Calderoni, ITA, D, 1.83, 75, 18-02-89, Latisana, Cesena
+7, Davide Lanzafame, ITA, F, 1.80, 75, 09-02-87, Turin, Retired
+19, Mario Ierardi, ITA, D, 1.95, 90, 19-02-98, Magenta, Pescara (On Loan)
+18, Alessandro Di Pardo, ITA, M, 1.82, 75, 18-07-99, Rimini, Juventus
+8, Federico Proia, ITA, M, 1.85, 80, 04-02-96, Rome, Brescia (On Loan)
+12, Semuel Pizzignacco, ITA, G, 1.88, 75, 01-09-01, Monfalcone, Renate (On Loan)
+21, Samuele Longo, ITA, F, 1.86, 78, 12-01-92, Valdobbiadene, Modena (On Loan)
+27, Simone Pontisso, ITA, M, 1.84, 82, 20-03-97, San Daniele del Friuli, Pescara
+30, Luca Rigoni, ITA, M, 1.85, 78, 07-12-84, Schio, Retired
+79, Federico Giacobbo, ITA, F, 1.94, -, 01-08-03, Bassano del Grappa, Cartigliano (On Loan)

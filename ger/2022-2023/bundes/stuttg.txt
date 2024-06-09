@@ -1,0 +1,48 @@
+=  VfB Stuttgart - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Florian Müller, GER, G, 1.92, 85, 13-11-97, Saarlouis, Mainz
+2, Waldemar Anton, GER, D, 1.82, 66, 20-07-96, Olmaliq, Hannover 96
+3, Wataru Endo, JPN, M, 1.76, 73, 09-02-93, Yokohama, Sint-Truiden
+4, Josha Vagnoman, GER, D, 1.86, 76, 11-12-00, Hamburg, Hamburg
+5, Konstantinos Mavropanos, GRE, D, 1.92, 80, 11-12-97, Athens, Arsenal
+7, Tanguy Coulibaly, FRA, M, 1.75, 72, 18-02-01, Sèvres, Paris St-Germain
+8, Enzo Millot, FRA, M, 1.75, 64, 17-07-02, Le Chesnay, Monaco
+9, Sehrou Guirassy, FRA, F, 1.87, 82, 12-03-96, Arles, Rennes
+10, Tiago Tomás, POR, F, 1.80, 69, 16-06-02, Cascais, Sporting CP
+11, Juan José Perea, COL, F, 1.81, 78, 23-02-00, Bogota, PAS Giannina
+14, Silas Katompa Mvumpa, COD, F, 1.85, 79, 06-10-98, Kinshasa, Paris FC
+15, Pascal Stenzel, GER, D, 1.84, 74, 20-03-96, Bünde, Freiburg
+16, Atakan Karazor, GER, D, 1.90, 80, 13-10-96, Essen, Holstein Kiel
+17, Genki Haraguchi, JPN, M, 1.77, 63, 09-05-91, Saitama, Union Berlin
+20, Luca Pfeiffer, GER, F, 1.95, 95, 20-08-96, Bad Mergentheim, FC Midtjylland
+21, Hiroki Ito, JPN, D, 1.86, 78, 12-05-99, Shizuoka, Júbilo Iwata
+22, Chris Führich, GER, M, 1.78, 69, 09-01-98, Castrop-Rauxel, Paderborn
+23, Dan-Axel Zagadou, FRA, D, 1.95, 87, 03-06-99, Créteil, Borussia Dortmund
+24, Borna Sosa, CRO, D, 1.84, 77, 21-01-98, Zagreb, Dinamo Zagreb
+25, Lilian Egloff, GER, M, 1.83, 80, 20-08-02, Heilbronn, None
+27, Alou Kuol, AUS, F, 1.77, 75, 05-07-01, Khartoum, Central Coast Mariners
+28, Nikolas Nartey, DEN, M, 1.85, 80, 22-02-00, Bagsværd, Köln
+29, Luca Bazzoli, GER, D, 1.88, 75, 01-11-00, Bad Homburg, FSV Frankfurt
+31, Gil Dias, POR, D, 1.83, 78, 28-09-96, Gafanha da Nazaré, Benfica
+33, Fabian Bredlow, GER, G, 1.91, 84, 02-03-95, Berlin, Nürnberg
+34, Mattis Hoppe, GER, D, 1.77, 67, 23-07-03, Bad Cannstatt, None
+36, Laurin Ulrich, GER, M, 1.80, 76, 31-01-05, Heidenheim, None
+37, Antonis Aidonis, GER, D, 1.81, 76, 22-05-01, Neustadt an der Weinstraße, 1899 Hoffenheim
+39, Thomas Kastanaras, GRE, F, 1.85, 74, 09-01-03, Stuttgart, None
+41, Dennis Seimen, GER, G, 1.92, 89, 01-12-05, Heilbronn, None
+42, Florian Schock, GER, G, 1.99, 99, 22-05-01, Ruit, None
+44, Nicolas Glaus, SUI, G, 1.86, 82, 10-05-02, Binningen, Basel
+48, Leon Reichardt, GER, D, 1.90, 68, 28-06-04, Böblingen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Darko Churlinov, MKD, M, 1.80, 75, 11-07-00, Skopje, Burnley
+29, Philipp Klement, GER, M, 1.74, 69, 09-09-92, Ludwigshafen am Rhein, Kaiserslautern
+9, Saša Kalajdžić, AUT, F, 2.00, 76, 07-07-97, Vienna, Wolverhampton W
+19, Wahid Faghir, DEN, F, 1.85, 80, 29-07-03, Vejle, FC Nordsjælland (On Loan)
+43, Maxime Awoudja, GER, D, 1.88, 86, 02-02-98, Munich, Excelsior
+6, Clinton Mola, ENG, M, 1.83, 78, 15-02-01, Camden, Blackburn R (On Loan)
+31, Mateo Klimowicz, ARG, M, 1.77, 65, 06-07-00, Buenos Aires, Atlético San Luis (On Loan)
+32, Naouirou Ahamada, FRA, M, 1.83, 69, 29-03-02, Marseille, Crystal Palace

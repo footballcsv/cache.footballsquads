@@ -1,0 +1,54 @@
+=  Espanyol - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joan García, ESP, G, 1.80, 79, 04-05-01, Sallent de Llobregat, Espanyol B
+2, Óscar Gil, ESP, D, 1.73, 70, 26-04-98, Elche, Elche B
+3, Sergi Gómez, ESP, D, 1.81, 76, 28-07-92, Arenys de Mar, Sevilla
+4, Víctor Ruíz, ESP, D, 1.85, 78, 25-01-89, Esplugues de Llobregat, Betis
+5, Fernando Calero, ESP, D, 1.83, 69, 27-06-95, Boecillo, Valladolid
+6, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Getafe
+7, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol B
+8, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Málaga B
+9, Keita Baldé, SEN, F, 1.84, 77, 08-03-95, Arbúcies, Spartak Moscow
+10, Pol Lozano, ESP, M, 1.76, 68, 06-10-99, Sant Quirze del Vallès, Espanyol B
+11, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Elche
+13, Fernando Pacheco, ESP, G, 1.87, 81, 18-05-92, Badajoz, Almería
+14, Brian Oliván, ESP, D, 1.77, 70, 01-04-94, Barcelona, Mallorca
+15, José Gragera, ESP, M, 1.86, 78, 14-05-00, Gijón, Sporting Gijón
+16, José Carlos Lazo, ESP, M, 1.77, 69, 16-02-96, Sanlúcar de Barrameda, Almería
+17, Jofre Carreras, ESP, F, 1.73, 68, 17-06-01, Girona, Espanyol B
+18, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Valladolid
+19, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Rayo Vallecano
+20, Edu Expósito, ESP, M, 1.79, 68, 01-08-96, Barcelona, Eibar
+21, Nico Melamed, ESP, M, 1.73, 67, 11-04-01, Castelldefels, Espanyol B
+22, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Barcelona
+23, Omar El Hilali, MAR, D, 1.83, 75, 12-09-03, L'Hospitalet de Llobregat, Espanyol B
+24, Rubén Sánchez, ESP, D, 1.85, 73, 04-02-01, Barcelona, Espanyol B
+26, Joan Puig, ESP, D, -, -, 16-11-02, Girona, Costa Brava
+27, Roger Martínez, ESP, M, 1.77, 67, 05-04-04, Badalona, Espanyol B
+28, Javi Hernández, ESP, M, -, -, 30-01-04, -, Espanyol B
+29, Antoniu Roca, ESP, F, -, -, 05-09-02, -, Espanyol B
+32, Marc Jurado, ESP, D, 1.78, 61, 13-04-04, Sabadell, Manchester U
+33, Ángel Fortuño, ESP, G, 1.83, 77, 05-10-01, Barcelona, Espanyol B
+34, Omar Sadik, MAR, F, -, -, 22-03-04, -, Espanyol B
+35, Alejandro Pérez, ESP, D, -, -, 07-01-01, El Masnou, Espanyol B
+36, José Luis Català, ESP, D, 1.88, 80, 16-08-04, Palma de Mallorca, Espanyol B
+37, Pau Casadesús, ESP, D, 1.82, 80, 30-10-03, Vallirana, Andorra B
+38, Ian Forns, ESP, D, -, -, 05-02-04, Cardedeu, Espanyol B
+39, Gastón Vallés, URU, F, -, -, 10-05-01, -, Vélez
+40, Ángel Gómez, ESP, D, 1.93, 79, 20-01-03, Granada, Villanovense
+41, Llorenç Serred, ESP, G, -, -, 04-09-05, -, Espanyol B
+42, Íker Venteo, ESP, G, 1.93, 84, 24-04-03, Vilanova del Camí, Espanyol B
+43, Kenneth Soler, ESP, F, 1.75, 63, 16-02-01, Calafell, Real Madrid B
+44, Rafel Bauzà, ESP, M, 1.83, 75, 30-01-05, Sant Llorenç des Cardessar, Espanyol B
+45, Sergio Rivarés, ESP, F, -, -, 18-01-05, -, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Eldense
+9, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Samsunspor
+23, César Montes, MEX, D, 1.96, 76, 24-02-97, Hermosillo, Almería
+30, Nabil Touaizi, MAR, F, 1.83, 77, 01-02-01, Santomera, Atlético Madrid B
+31, Omar El Hilali, MAR, D, 1.83, 75, 12-09-03, L'Hospitalet de Llobregat, Re-Registered (23)
+12, Ramon, BRA, D, 1.79, 70, 13-03-01, São João de Meriti, Olympiakos

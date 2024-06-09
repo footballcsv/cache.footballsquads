@@ -1,0 +1,44 @@
+=  Lyon - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Lopes, POR, G, 1.84, 81, 01-10-90, Givors, None
+2, Sinaly Diomandé, CIV, D, 1.84, 74, 09-04-01, Yopougon, Guidars
+3, Djamel Benlamri, ALG, D, 1.90, 80, 25-12-89, Algiers, Al-Shabab
+5, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Manchester C
+6, Marcelo, BRA, D, 1.91, 88, 20-05-87, São Vicente, Beşiktaş
+7, Karl Toko Ekambi, CMR, F, 1.83, 70, 14-09-92, Paris, Villarreal
+8, Houssem Aouar, FRA, M, 1.75, 70, 30-06-98, Lyon, None
+10, Memphis Depay, NED, F, 1.70, 65, 13-02-94, Moordrecht, Manchester U
+11, Tinotenda Kadewere, ZIM, F, 1.83, 72, 05-01-96, Harare, Le Havre
+12, Lucas Paquetá, BRA, M, 1.80, 72, 27-08-97, Rio de Janeiro, Milan
+14, Léo Dubois, FRA, D, 1.78, 65, 14-09-94, Segré, Nantes
+17, Malo Gusto, FRA, D, 1.79, 76, 19-05-03, Décines-Charpieu, None
+18, Rayan Cherki, FRA, M, 1.77, 71, 17-08-03, Lyon, None
+19, Cenk Özkaçar, TUR, D, 1.90, 90, 06-10-00, Konak, Altay
+20, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Leicester C
+22, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Juventus
+23, Thiago Mendes, BRA, M, 1.76, 73, 15-03-92, São Luís, Lille
+25, Maxence Caqueret, FRA, M, 1.74, 63, 15-02-00, Vénissieux, None
+26, Melvin Bard, FRA, D, 1.73, 65, 06-11-00, Écully, None
+27, Maxwel Cornet, CIV, F, 1.79, 69, 27-09-96, Bregbo, Metz
+28, Florent Da Silva, FRA, M, 1.78, 66, 02-04-03, Vaulx-en-Velin, None
+29, Yaya Soumaré, FRA, F, 1.73, 55, 23-06-00, Vénissieux, None
+30, Julian Pollersbeck, GER, G, 1.95, 85, 16-08-94, Altötting, Hamburg
+39, Bruno Guimarães, BRA, M, 1.82, 74, 16-11-97, Rio de Janeiro, Athletico Paranaense
+40, Malcolm Barcola, TOG, G, 1.95, 83, 14-05-99, Lyon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Marçal, BRA, D, 1.78, 72, 19-02-89, São Paulo, Wolverhampton W
+23, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, Fulham
+30, Ciprian Tătăruşanu, ROU, G, 1.98, 90, 09-02-86, Bucharest, Milan
+10, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Aston Villa
+13, Ousseynou Ndiaye, SEN, M, 1.85, 70, 24-11-98, Thiaroye, Bourg-en-Bresse (On Loan)
+16, Anthony Racioppi, SUI, G, 1.86, 80, 31-12-98, Geneva, Dijon
+28, Youssouf Koné, MLI, D, 1.74, 71, 05-07-95, Bamako, Elche (On Loan)
+3, Joachim Andersen, DEN, D, 1.92, 90, 31-05-96, Frederiksberg, Fulham (On Loan)
+17, Jeff Reine-Adélaïde, FRA, M, 1.83, 75, 17-01-98, Champigny-sur-Marne, Nice (On Loan)
+4, Jean Lucas, BRA, M, 1.81, 78, 22-06-98, Rio de Janeiro, Brest (On Loan)
+9, Moussa Dembélé, FRA, F, 1.83, 74, 12-07-96, Pontoise, Atlético Madrid (On Loan)
+15, Camilo, BRA, M, 1.78, 75, 23-02-99, Mogi Mirim, Cuiabá (On Loan)

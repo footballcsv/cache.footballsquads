@@ -1,0 +1,54 @@
+=  Ascoli - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Perugia
+4, Lorenco Šimić, CRO, D, 1.95, 89, 15-07-96, Split, Lecce
+5, Danilo Quaranta, ITA, D, 1.92, 85, 23-03-97, Teramo, None
+6, Eddy Gnahoré, FRA, M, 1.88, 88, 14-11-93, Villeneuve-la-Garenne, Amiens
+7, Christopher Lungoyi, SUI, F, 1.82, 74, 04-07-00, Kinshasa, Juventus U23
+8, Fabrizio Caligara, ITA, M, 1.80, 74, 12-04-00, Borgomanero, Cagliari
+9, Federico Dionisi, ITA, F, 1.80, 68, 16-06-87, Rieti, Frosinone
+10, Amato Ciciretti, ITA, F, 1.72, 75, 31-12-93, Rome, Pordenone
+11, Francesco Forte, ITA, F, 1.90, 75, 01-05-93, Rome, Benevento
+12, Luca Bolletta, ITA, G, 1.90, 82, 26-11-04, Jesi, None
+13, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, Reggina
+14, Davide Marsura, ITA, F, 1.87, 78, 20-02-94, Valdobbiadene, Modena
+15, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Cremonese
+17, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Sassuolo
+18, Michele Collocolo, ITA, M, 1.88, 78, 08-11-99, Taranto, Cesena
+20, Francesco Donati, ITA, D, 1.82, 75, 20-01-01, Livorno, Empoli
+21, Simone Giordano, ITA, D, 1.84, 75, 21-12-01, Genoa, Sampdoria
+22, Matteo Raffaelli, ITA, G, 1.77, 60, 09-01-05, San Benedetto del Tronto, None
+23, Marcello Falzerano, ITA, M, 1.67, 62, 12-04-91, Pagani, Perugia
+24, Edoardo Caravillani, ITA, D, -, -, 10-04-04, -, Frosinone
+25, Alassane Sidibe, CIV, M, 1.77, 71, 09-06-02, Abidjan, Atalanta
+27, Mirko Eramo, ITA, M, 1.84, 75, 12-07-89, Acquaviva delle Fonti, Virtus Entella
+28, Federico Proia, ITA, M, 1.85, 80, 04-02-96, Rome, Vicenza
+29, Filippo Palazzino, ITA, F, 1.81, 73, 30-09-03, Rome, Tor Tre Teste
+32, Samuel Giovane, ITA, M, 1.81, 73, 28-03-03, Lugo, Atalanta
+33, Eric Fernando Botteghin, BRA, D, 1.93, 89, 31-08-87, São Paulo, Feyenoord
+34, Luca Ceccarelli, ITA, M, 1.78, -, 10-10-03, Grottammare, None
+35, Emiliano Rossi, ITA, D, 1.86, 83, 20-07-04, -, Vigor Perconti
+36, Andrea Franzolini, ITA, M, 1.88, 79, 06-09-03, Latina, Carso
+44, Aljaž Tavčar, SVN, D, 1.94, 86, 17-11-00, Ljubljana, Bilje
+54, Nicola Falasco, ITA, D, 1.84, 84, 05-10-93, Piove di Sacco, Pordenone
+55, Giuseppe Bellusci, ITA, D, 1.85, 80, 21-08-89, Trebisacce, Monza
+70, Luca Lo Scalzo, ITA, M, -, -, 02-02-07, -, None
+77, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Juve Stabia
+90, Pedro Mendes, POR, F, 1.86, 84, 01-08-99, Guimarães, Sporting CP
+97, Alessio Re, ITA, F, -, -, 05-05-03, San Benedetto del Tronto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Francesco Luciani, ITA, D, 1.83, -, 11-03-03, Recanati, Fermana (On Loan)
+30, Dario Šarić, BIH, M, 1.80, 73, 30-05-97, Cento, Palermo
+6, Manuele Castorani, ITA, M, 1.83, 78, 07-10-99, Cecina, Siena (On Loan)
+17, Andrea De Paoli, ITA, F, 1.85, 77, 06-08-99, Genoa, Siena (On Loan)
+96, Francesco Intinacelli, ITA, F, 1.79, 68, 12-11-01, Chieti, Casale
+2, Alessandro Salvi, ITA, D, 1.81, 76, 05-06-88, Bergamo, Cittadella
+19, Atanas Iliev, BUL, F, 1.88, 80, 09-10-94, Dobrich, Cherno More Varna
+26, Soufiane Bidaoui, MAR, F, 1.76, 65, 20-04-90, Etterbeek, Frosinone
+46, Noam Baumann, SUI, G, 1.92, 83, 10-04-96, Baar, Wil
+98, Diego Fabbrini, ITA, F, 1.81, 71, 31-07-90, Pisa, Lucchese
+99, Anthony Fontana, USA, M, 1.73, 68, 14-10-99, Newark, PEC Zwolle

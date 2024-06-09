@@ -1,0 +1,41 @@
+=  1.FSV Mainz 05 - German Bundesliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Florian Müller, GER, G, 1.92, 85, 13-11-97, Saarlouis, Saarbrücken
+2, Ronaël Pierre-Gabriel, FRA, D, 1.77, 76, 13-08-98, Paris, Monaco
+3, Aarón, ESP, D, 1.80, 72, 22-04-97, Montmeló, Espanyol
+4, Jerry St. Juste, NED, D, 1.85, 71, 19-10-96, Groningen, Feyenoord
+5, Jean-Paul Boëtius, NED, M, 1.82, 74, 22-03-94, Rotterdam, Feyenoord
+6, Danny Latza, GER, M, 1.79, 75, 07-12-89, Gelsenkirchen, Bochum
+7, Robin Quaison, SWE, F, 1.83, 76, 09-10-93, Stockholm, Palermo
+8, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Bayer Leverkusen
+9, Jean-Philippe Mateta, FRA, F, 1.92, 84, 28-06-97, Clamart, Lyon
+11, Ji Dong-Won, KOR, F, 1.87, 78, 28-05-91, Jeju, Augsburg
+13, Jeffrey Bruma, NED, D, 1.86, 83, 13-11-91, Rotterdam, Wolfsburg
+14, Pierre Kunde, CMR, M, 1.80, 86, 26-07-95, Limbé, Atlético Madrid B
+16, Stefan Bell, GER, D, 1.92, 86, 24-08-91, Andernach, None
+17, Jonathan Meier, GER, D, 1.81, 75, 11-11-99, Munich, Bayern Munich
+18, Daniel Brosinski, GER, D, 1.78, 65, 17-07-88, Karlsruhe, Greuther Fürth
+19, Moussa Niakhaté, FRA, D, 1.75, 75, 08-03-96, Roubaix, Metz
+20, Edimilson Fernandes, SUI, M, 1.90, 70, 15-04-96, Sion, West Ham U
+21, Karim Onisiwo, AUT, F, 1.88, 76, 17-03-92, Vienna, Mattersburg
+22, Taiwo Awoniyi, NGA, F, 1.78, 71, 12-08-97, Ilorin, Liverpool
+23, Phillipp Mwene, AUT, D, 1.70, 66, 29-01-94, Vienna, Kaiserslautern
+27, Robin Zentner, GER, G, 1.93, 96, 28-10-94, Rüdesheim, None
+28, Ádám Szalai, HUN, F, 1.93, 80, 09-12-87, Budapest, 1899 Hoffenheim
+29, Jonathan Burkardt, GER, F, 1.80, 74, 11-07-00, Darmstadt, None
+30, Cyrill Akono, GER, F, 1.90, 75, 29-02-00, Münster, Preußen Münster
+32, Niklas Kölle, GER, D, 1.81, 77, 17-11-99, Wolfsburg, Wolfsburg
+33, Omer Hanin, ISR, G, 1.91, 82, 14-05-98, Rishon LeZion, Hapoel Hadera
+34, Ridle Baku, GER, M, 1.76, 72, 08-04-98, Mainz, None
+35, Leandro Barreiro, LUX, M, 1.70, 65, 03-01-00, Erpeldange, Erpeldange
+37, Finn Dahmen, GER, G, 1.86, 80, 27-03-98, Wiesbaden, None
+38, Erkan Eyibil, GER, M, 1.75, 72, 15-06-01, Kassel, Baunatal
+42, Alexander Hack, GER, D, 1.93, 82, 08-09-93, Memmingen, Unterhaching
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Aaron Seydel, GER, F, 1.99, 91, 07-02-96, Mainz, Jahn Regensburg (On Loan)
+10, Alexandru Maxim, ROU, M, 1.78, 70, 08-07-90, Piatra Neamţ, Gaziantep (On Loan)
+31, Ahmet Gürleyen, TUR, D, 1.92, 90, 26-04-99, Berlin, FC Liefering (On Loan)

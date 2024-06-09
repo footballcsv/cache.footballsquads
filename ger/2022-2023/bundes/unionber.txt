@@ -1,0 +1,45 @@
+=  1.FC Union Berlin - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frederik Rønnow, DEN, G, 1.88, 76, 04-08-92, Horsens, Eintracht Frankfurt
+2, Morten Thorsby, NOR, M, 1.89, 79, 05-05-96, Oslo, Sampdoria
+3, Paul Jaeckel, GER, D, 1.88, 80, 22-07-98, Eisenhüttenstadt, Greuther Fürth
+4, Diogo Leite, POR, D, 1.88, 80, 23-01-99, Porto, FC Porto
+5, Danilho Doekhi, NED, D, 1.90, 80, 30-06-98, Rotterdam, Vitesse
+7, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Mainz
+8, Rani Khedira, GER, M, 1.85, 78, 27-01-94, Stuttgart, Augsburg
+11, Sven Michel, GER, F, 1.78, 75, 15-07-90, Freudenberg, Paderborn
+12, Jakob Busk, DEN, G, 1.89, 78, 12-09-93, Copenhagen, FC København
+13, András Schäfer, HUN, M, 1.77, 73, 13-04-99, Szombathely, DAC Dunajská Streda
+14, Paul Seguin, GER, M, 1.86, 79, 29-03-95, Magdeburg, Greuther Fürth
+16, Tim Maciejewski, GER, F, 1.84, 73, 05-03-01, Berlin, Hertha Berlin
+17, Kevin Behrens, GER, F, 1.84, 83, 03-02-91, Bremen, Sandhausen
+18, Josip Juranović, CRO, D, 1.73, 69, 16-08-95, Zagreb, Celtic
+19, Janik Haberer, GER, M, 1.87, 71, 02-04-94, Wangen im Allgäu, Freiburg
+20, Aïssa Laïdouni, TUN, M, 1.83, 75, 13-12-96, Montfermeil, Ferencváros
+23, Niko Gießelmann, GER, D, 1.81, 73, 26-09-91, Hannover, Fortuna Düsseldorf
+25, Timo Baumgartl, GER, D, 1.89, 85, 04-03-96, Böblingen, PSV Eindhoven
+26, Jérôme Roussillon, FRA, D, 1.75, 75, 06-01-93, Sarcelles, Wolfsburg
+27, Sheraldo Becker, NED, F, 1.80, 72, 09-02-95, Amsterdam, ADO Den Haag
+28, Christopher Trimmel, AUT, D, 1.89, 80, 24-02-87, Oberpullendorf, Rapid Vienna
+30, Kevin Möhwald, GER, M, 1.83, 74, 03-07-93, Erfurt, Werder Bremen
+31, Robin Knoche, GER, D, 1.72, 67, 22-05-92, Braunschweig, Wolfsburg
+32, Miloš Pantović, SRB, F, 1.85, 70, 07-07-96, Munich, Bochum
+34, Malick Sanogo, USA, F, 1.85, 75, 30-06-04, New York, Energie Cottbus
+36, Aljoscha Kemlein, GER, M, 1.85, 78, 02-08-04, Berlin, None
+37, Lennart Grill, GER, G, 1.91, 87, 25-01-99, Idar-Oberstein, Bayer Leverkusen
+39, Yannic Stein, GER, G, 1.87, 80, 17-09-04, Berlin, None
+40, Jamie Leweling, GER, F, 1.84, 86, 26-02-01, Nuremberg, Greuther Fürth
+45, Jordan Siebatcheu, FRA, F, 1.90, 84, 26-04-96, Washington, DC, Young Boys
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Dominique Heintz, GER, D, 1.90, 85, 15-08-93, Neustadt an der Weinstraße, Bochum (On Loan)
+9, Andreas Voglsammer, GER, F, 1.78, 78, 09-01-92, Rosenheim, Millwall
+20, Rick van Drongelen, NED, D, 1.85, 75, 20-12-98, Terneuzen, Hansa Rostock (On Loan)
+26, Tymoteusz Puchacz, POL, D, 1.80, 74, 23-01-99, Sulechów, Panathinaikos (On Loan)
+35, Fabio Schneider, GER, M, 1.83, 78, 31-07-02, Berlin, Greifswalder FC
+6, Julian Ryerson, NOR, D, 1.83, 82, 17-11-97, Lyngdal, Borussia Dortmund
+21, Tim Skarke, GER, M, 1.80, 70, 07-09-96, Nattheim, Schalke (On Loan)
+24, Genki Haraguchi, JPN, M, 1.77, 63, 09-05-91, Saitama, Stuttgart

@@ -1,0 +1,46 @@
+=  Estoril - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Bernardo Vital, POR, D, 1.87, 81, 29-12-00, Cascais, None
+4, Lucas Áfrico, BRA, D, 1.88, 80, 05-02-95, São Paulo, Marítimo
+5, João Gamboa, POR, M, 1.87, 73, 31-08-96, Póvoa de Varzim, OH Leuven
+7, Rodrigo Martins, POR, F, 1.77, 72, 15-09-98, Faro, Mafra
+9, Alejandro Marqués, VEN, F, 1.89, 81, 04-08-00, Caracas, Juventus
+10, Chico Geraldes, POR, M, 1.75, 65, 18-04-95, Lisbon, Rio Ave
+11, Cassiano, BRA, M, 1.84, 75, 16-06-89, Porto Alegre, Al-Faisaly [KSA]
+13, Pedro Silva, POR, G, 1.89, 76, 13-02-97, Lisbon, Vizela
+20, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Olympiakos
+21, Tiago Gouveia, POR, F, 1.76, 72, 18-06-01, Cascais, Benfica
+22, Shaquil Delos, FRA, D, 1.87, 75, 16-06-99, Les Lilas, Nancy
+23, Pedro Álvaro, POR, D, 1.86, 80, 02-03-00, Seia, Benfica
+24, Brandon Aguilera, CRC, M, 1.81, 73, 28-06-03, Naranjo, Nottingham F
+25, Mor Ndiaye, SEN, M, 1.85, 69, 22-11-00, Thiès, FC Porto
+27, Rafik Guitane, FRA, M, 1.64, 60, 29-05-99, Evreux, Reims
+28, Carlos Eduardo, BRA, F, 1.73, 68, 10-10-96, Nerópolis, Palmeiras
+31, Joãozinho, POR, D, 1.85, 69, 02-07-89, Lisbon, APOEL
+32, Loreintz Rosier, FRA, M, 1.90, 82, 14-08-98, Gonesse, Vitória Guimarães
+33, João Marques, POR, M, -, -, 13-02-02, Barreiro, Vitória Setúbal
+34, Mexer, MOZ, D, 1.81, 75, 08-09-85, Maputo, Bordeaux
+47, João Oliveira, POR, G, 1.85, 70, 18-09-02, Lisbon, Belensenses
+50, João Carlos, BRA, F, 1.87, 87, 01-03-95, Coaraci, Sampaio Corrêa
+62, Tiago Santos, POR, D, 1.75, 71, 23-07-02, Lisbon, Sporting CP
+78, Tiago Araújo, POR, M, 1.78, 70, 27-03-01, Vila do Conde, Benfica
+90, Bamidele Yusuf, NGA, F, 1.80, 76, 22-02-01, Lagos, Spartak Trnava
+91, Mabrouk Rouai, FRA, M, 1.85, 78, 01-11-00, Marseille, Nacional [POR]
+94, João Félix, BRA, D, 1.85, 79, 02-01-02, Rio de Janeiro, Internacional
+95, James Léa Siliki, CMR, M, 1.83, 70, 12-06-96, Sarcelles, Rennes
+99, Dani Figueira, POR, G, 1.89, 82, 20-07-98, Vizela, Vitória Guimarães
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Titouan Thomas, FRA, M, 1.83, 78, 12-01-01, Saint-Brieuc, ADO Den Haag (On Loan)
+5, Volnei Feltes, BRA, D, 1.88, 80, 15-04-00, Rio Grande do Sul, Oliveirense (On Loan)
+17, Elias Achouri, FRA, F, 1.77, 70, 10-02-99, Saint-Denis, Viborg
+11, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Sporting CP
+12, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, Arouca
+87, Gonçalo Esteves, POR, D, 1.71, 73, 27-02-04, Arcos de Valdevez, Sporting CP
+8, Serginho, POR, F, 1.83, 69, 29-01-01, Lisbon, Oliveirense (On Loan)
+29, Benchimol, CPV, F, 1.77, 69, 29-12-01, Praia, Benfica B (On Loan)
+79, Erison, BRA, F, 1.80, 72, 13-04-99, Cosmópolius, Botafogo
+14, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, 

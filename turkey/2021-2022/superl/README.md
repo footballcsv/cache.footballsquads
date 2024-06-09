@@ -1,0 +1,23 @@
+# Turkish Süper Lig 2021/2022
+
+20 teams
+- [Adana Demirspor](adanadem.txt)
+- [Alanyaspor](alanya.txt)
+- [Altay](altay.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Fatih Karagümrük](fatihkara.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantep](gaziantep.txt)
+- [Giresunspor](giresun.txt)
+- [Göztepe](goztepe.txt)
+- [Hatayspor](hatay.txt)
+- [İstanbul Başakşehir](istanbul.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Rizespor](rizespor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)
+- [Yeni Malatyaspor](yenimalat.txt)

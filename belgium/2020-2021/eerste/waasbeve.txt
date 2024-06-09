@@ -1,0 +1,48 @@
+=  Waasland-Beveren - Belgian Eerste Klasse A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nordin Jackers, BEL, G, 1.87, 79, 05-09-97, Veldwezelt, KRC Genk
+2, Vladimir Van de Wiel-Novinchanova, BEL, D, 1.82, 66, 12-04-00, -, KAA Gent
+3, Brendan Schoonbaert, BEL, D, 1.90, 78, 09-05-00, -, Club Brugge
+4, Georges Mandjeck, CMR, M, 1.83, 72, 09-12-88, Douala, Sparta Prague
+5, Felix Bastians, GER, D, 1.88, 76, 09-05-88, Bochum, Tianjin Teda
+6, Leonardo Bertone, SUI, M, 1.78, 72, 14-03-94, Wohlen bei Bern, Thun
+7, Andreas Wiegel, GER, D, 1.79, 67, 21-07-91, Paderborn, Duisburg
+8, Djihad Bizimana, RWA, M, 1.80, 77, 12-12-96, Gisenyi, APR
+9, Jordan Faucher, FRA, F, 1.77, 72, 06-11-91, Créteil, Xanthi
+10, Danel Sinani, LUX, F, 1.85, 70, 05-04-97, Belgrade, Norwich C
+11, Joseph Efford, USA, F, 1.76, 72, 29-08-96, Dacula, Ergotelis
+12, Alessandro Albanese, BEL, F, 1.74, 64, 12-01-20, Liège, Eintracht Frankfurt
+14, Denzel Jubitana, BEL, M, 1.73, 69, 06-05-99, -, Mechelen
+15, Dries Wuytens, BEL, D, 1.83, 73, 18-03-91, Eksel, Sektzia Nes Tziona
+16, Sivert Nilsen, NOR, M, 1.85, 75, 02-10-91, Bergen, IF Elfsborg
+17, Aboubakary Koita, BEL, F, 1.75, 69, 20-09-98, Antwerp, KAA Gent
+18, Daan Heymans, BEL, M, 1.86, 73, 15-06-99, Retie, KVC Westerlo
+19, Jeremy Cijntje, CUW, F, 1.83, 77, 08-01-98, Willemstad, Heracles Almelo
+20, Nikola Pejčić, BEL, M, 1.90, 80, 30-10-00, -, None
+21, Bill Lathouwers, BEL, G, 1.91, 83, 18-09-99, Wilrijk, MVV Maastricht
+23, Serge Leuko, CMR, D, 1.74, 75, 04-08-93, Douala, Lugo
+24, Amine Khammas, MAR, D, 1.72, 68, 06-04-99, Reet, KRC Genk
+26, Aleksandar Vukotić, SRB, D, 2.01, 92, 22-07-95, Kraljevo, Krupa
+27, Jenthe Mertens, BEL, D, 1.81, 75, 18-10-99, Genk, Go Ahead Eagles
+33, Louis Verstraete, BEL, M, 1.86, 80, 04-05-99, Gent, Royal Antwerp
+37, Miguel Vieira, POR, D, 1.90, 80, 08-10-90, Amarante, İstanbul Başakşehir
+44, Brent Gabriël, BEL, G, 1.88, 80, 27-01-99, Sint-Niklaasa, Club Brugge
+52, Jur Schryvers, BEL, D, 1.81, 72, 11-03-97, -, Club Brugge
+77, Tom Reyners, BEL, M, 1.70, 63, 20-04-00, -, KRC Genk
+88, Milan De Mey, BEL, M, 1.80, 74, 03-01-01, -, Lokeren
+98, Din Sula, BEL, F, 1.85, 75, 02-03-98, Brussels, OH Leuven
+99, Michael Frey, SUI, F, 1.88, 86, 19-07-94, Münsingen, Fenerbahçe
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Daam Foulon, BEL, D, 1.80, 70, 23-03-99, Mechelen, Benevento
+99, Stefan Milošević, MNE, F, 1.90, 82, 23-06-96, Nikšić, Riga FC (On Loan)
+23, Maximiliano Caufriez, BEL, D, 1.89, 81, 16-02-97, Beveren, Sint-Truiden
+10, Yuki Kobayashi, JPN, M, 1.82, 68, 24-04-92, Tokyo, Al-Khor
+21, Lucas Pirard, BEL, G, 1.91, 85, 10-03-95, Sprimont, Union St-Gilloise (On Loan)
+28, Melvin Sitti, FRA, M, 1.82, 67, 14-02-00, Paris, Norwich C
+19, Alexis Gamboa, CRC, D, 1.89, 78, 20-03-99, San José [CRC], LD Alajuelense
+29, Matthias Verreth, BEL, M, 1.82, 81, 20-02-98, Morkhoven, Kolding (On Loan)
+22, Andrija Vukčević, MNE, D, 1.80, 77, 11-10-96, Podgorica, Rijeka

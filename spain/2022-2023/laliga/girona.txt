@@ -1,0 +1,44 @@
+=  Girona - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.85, 81, 20-01-88, Guadalajara, Lugo
+2, Bernardo Espinosa, COL, D, 1.92, 84, 11-07-89, Cali, Middlesbrough
+3, Miguel Gutiérrez, ESP, D, 1.80, 68, 27-07-01, Madrid, Real Madrid B
+4, Arnau Martínez, ESP, D, 1.82, 75, 25-04-03, Premià de Dalt, Girona B
+5, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Espanyol
+6, Ibrahima Kébé, MLI, M, 1.80, 79, 02-08-00, Bamako, Girona B
+7, Cristhian Stuani, URU, F, 1.86, 72, 12-10-86, Tala, Middlesbrough
+8, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Dynamo Kyiv
+9, Valentín Castellanos, ARG, F, 1.79, 69, 03-10-98, Mendoza, New York C
+11, Valery Fernández, ESP, D, 1.82, 75, 23-11-99, L'Escala, Girona B
+12, Toni Villa, ESP, M, 1.71, 61, 07-01-95, Murcia, Valladolid
+13, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Fulham
+14, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Eibar
+15, Juanpe, ESP, D, 1.90, 80, 30-04-91, Las Palmas, Granada
+16, Javi Hernández, ESP, D, 1.82, 72, 02-05-98, Jerez de la Frontera, Leganés
+17, Rodrigo Riquelme, ESP, F, 1.74, 69, 02-04-00, Madrid, Atlético Madrid
+18, Oriol Romeu, ESP, M, 1.83, 83, 24-09-91, Ulldecona, Southampton
+19, Reinier, BRA, M, 1.85, 72, 19-01-02, Brasília, Real Madrid
+20, Yan Couto, BRA, D, 1.68, 60, 03-06-02, Curitiba, Manchester C
+21, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+22, Santiago Bueno, URU, D, 1.89, 78, 09-11-98, Montevideo, Barcelona B
+23, Iván Martín, ESP, M, 1.78, 70, 14-02-99, Bilbao, Villarreal B
+24, Borja, ESP, M, 1.75, 72, 02-11-90, Torremocha de Jarama, Huesca
+25, Alexander Callens, PER, D, 1.83, 76, 04-05-92, Callao, New York C
+26, Toni Fuidias, ESP, G, 1.94, 83, 15-04-01, Berga, Real Madrid B
+30, Lluc Matas, ESP, G, -, -, 25-04-02, -, Girona B
+31, Eric Monjonell, ESP, D, 1.87, 79, 16-12-01, Barcelona, Mataró
+33, Joel Casals, ESP, M, -, -, 07-06-05, Camprodón, Girona B
+34, Biel Farrés, ESP, D, -, -, 01-05-02, Vic, Damm
+35, Pau Victor, ESP, M, 1.84, 77, 26-11-01, Sant Cugat del Vallès, Girona B
+36, Ricard Artero, ESP, M, -, -, 05-02-03, La Bisbal d'Empordà, Girona B
+37, Dawda Camara, MTN, F, -, -, 04-11-02, -, Girona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Álex Sala, ESP, M, 1.85, 79, 09-04-01, Barcelona, Sabadell (On Loan)
+32, Oscar Ureña, ESP, F, -, -, 31-05-03, Figueres, Cartagena (On Loan)
+8, Ramon Terrats, ESP, M, 1.81, 69, 18-10-00, Barcelona, Villarreal B (On Loan)
+10, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Sivasspor
+25, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Oviedo (On Loan)

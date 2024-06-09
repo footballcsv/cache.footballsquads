@@ -1,0 +1,44 @@
+=  Samsunspor - Turkish Süper Lig 2023/2024
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Okan Koçuk, TUR, G, 1.91, 83, 27-07-95, Bursa, Galatasaray
+4, Rick van Drongelen, NED, D, 1.85, 75, 20-12-98, Terneuzen, Union Berlin
+5, Alim Öztürk, TUR, D, 1.90, 85, 17-11-92, Alkmaar, Ümraniyespor
+6, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, Adanaspor
+7, Moryké Fofana, CIV, M, 1.78, 70, 23-11-91, Grand-Bassam, Yeni Malatyaspor
+8, Soner Aydoğdu, TUR, M, 1.80, 72, 05-01-91, Mamak, Antalyaspor
+9, Marius Mouandilmadji, CHA, F, 1.82, 75, 22-01-98, Doba, RFC Seraing
+10, Olivier Ntcham, CMR, M, 1.80, 80, 09-02-96, Longjumeau, Swansea C
+11, Emre Kılınç, TUR, M, 1.74, 68, 23-08-94, Sakarya, Galatasaray
+13, Flavien Tait, FRA, M, 1.75, 70, 02-02-93, Longjumeau, Rennes
+14, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Espanyol
+16, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Middlesbrough
+17, Kingsley Schindler, GHA, M, 1.83, 77, 12-07-93, Hamburg, Köln
+18, Zeki Yavru, TUR, D, 1.78, 78, 05-09-91, Trabzon, Giresunspor
+20, Muhammet Ali Özbaskıcı, TUR, M, 1.72, 65, 27-09-05, Samsun, None
+21, Carlo Holse, DEN, F, 1.75, 68, 02-06-99, Copenhagen, Rosenborg
+22, Yunus Emre Çift, TUR, D, 1.85, 79, 01-09-03, Samsun, None
+23, Muhammed Gümüşkaya, TUR, M, 1.77, 66, 01-01-01, İstanbul, KVC Westerlo
+25, Muammer Yıldırım, TUR, G, 1.90, 81, 14-09-90, Eğil, Sivasspor
+28, Soner Gönül, TUR, D, 1.77, 66, 11-06-97, Giresun, Ankara Keçiörengücü
+29, Jakub Szumski, POL, G, 1.94, 78, 06-03-92, Warsaw, BB Erzurumspor
+36, Benito Raman, BEL, F, 1.72, 67, 07-11-94, Gent, Anderlecht
+37, Ľubomír Šatka, SVK, D, 1.85, 72, 02-12-95, Ilava, Lech Poznań
+45, Halil Yeral, TUR, G, 1.90, 70, 01-01-00, Akhisar, Akhisar Belediyespor
+48, Taylan Antalyalı, TUR, M, 1.80, 71, 08-01-95, Yatağan, Galatasaray
+53, Berhan Deniz, TUR, F, -, -, 25-11-04, Samsun, None
+64, Taha Tosun, TUR, G, 1.96, 80, 28-04-05, Kartal, Kartalspor
+72, Mustafa Tan, TUR, D, -, -, 27-04-05, Samsun, None
+77, Enes Albak, TUR, D, -, -, 16-05-05, Ordu, None
+88, Osman Çelik, TUR, D, 1.82, 71, 27-11-91, Antalya, BB Erzurumspor
+96, Bedirhan Çetin, TUR, D, 1.87, 79, 29-06-06, Samsun, None
+98, Arbnor Muja, KVX, F, 1.79, 69, 29-11-98, Mitrovica, Royal Antwerp
+99, Ercan Kara, AUT, F, 1.92, 88, 03-01-96, Vienna, Orlando C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Douglas Tanque, BRA, F, 1.88, 94, 27-10-93, Santa Cruz do Rio Pardo, Kocaelispor
+24, Mickaël Tirpan, BEL, D, 1.77, 72, 23-10-93, Anderlecht, Lierse Kempenzonen
+19, Nanú, GNB, D, 1.77, 67, 17-05-94, Coimbra, Estrela da Amadora (On Loan)
+27, Gaëtan Laura, FRA, F, 1.85, 80, 06-08-95, Argentan, Gençlerbirliği (On Loan)

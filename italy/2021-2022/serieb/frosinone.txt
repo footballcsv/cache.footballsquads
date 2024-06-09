@@ -1,0 +1,57 @@
+=  Frosinone - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Ravaglia, ITA, G, 1.96, 88, 11-11-99, Bologna, Bologna
+2, Anthony Oyono, GAB, D, 1.83, 74, 12-04-01, Lille, Boulogne
+3, Lukas Klitten, DEN, D, 1.93, 77, 01-05-00, Aalborg, Aalborg
+4, Sergio Kalaj, ALB, D, 1.93, 78, 28-01-00, Marino, Carrarese
+6, Federico Gatti, ITA, D, 1.85, 78, 24-06-98, Rivoli, Juventus
+7, Marcus Rohdén, SWE, M, 1.82, 76, 11-05-91, Borås, Crotone
+9, Gabriel Charpentier, FRA, F, 1.87, 85, 17-05-99, Pointe-Noire, Genoa
+11, Francesco Zampano, ITA, D, 1.78, 68, 30-09-93, Genoa, Pescara
+15, Hamza Haoudi, ITA, F, 1.76, 65, 09-03-01, Lucca, Livorno
+16, Luca Garritano, ITA, M, 1.72, 67, 11-02-94, Cosenza, Chievo Verona
+17, Emanuele Cicerelli, ITA, F, 1.77, 71, 12-08-94, San Giovanni Rotondo, Lazio
+18, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Reading
+19, Alessio Tribuzzi, ITA, M, 1.82, 76, 19-11-98, Rome, Roma
+21, Daniel Boloca, ITA, M, 1.88, 76, 22-12-98, Chieri, Fossano
+22, Giuseppe Marcianò, ITA, G, 1.90, 76, 27-05-00, Rome, None
+23, Nicolò Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Vicenza
+24, Alessio Zerbin, ITA, M, 1.82, 77, 03-03-99, Novara, Napoli
+25, Przemysław Szymiński, POL, D, 1.85, 76, 24-06-94, Katowice, Palermo
+26, Karlo Lulić, CRO, M, 1.86, 75, 10-05-96, Nova Gradiška, Slaven Belupo
+27, Luigi Canotto, ITA, F, 1.78, 71, 19-05-94, Rossano Calabro, Chievo Verona
+28, Camillo Ciano, ITA, F, 1.76, 73, 22-02-90, Marcianise, Cesena
+29, Matteo Cotali, ITA, D, 1.77, 72, 22-04-97, Brescia, Chievo Verona
+32, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Ascoli
+34, Andrea Tabanelli, ITA, M, 1.92, 78, 02-02-90, Ravenna, Lecce
+36, Lorenzo Palmisani, ITA, G, 1.85, 76, 01-06-04, Alatri, None
+40, Alessandro Vilardi, ITA, G, 1.81, 61, 21-03-03, Rome, Savio
+41, Alessandro Selvini, ITA, F, -, -, 24-03-04, Frosinone, None
+43, Milan Kremenović, SRB, D, 1.91, 81, 08-03-02, Berlin, Grafičar Beograd
+44, Adrian Leon Barišić, BIH, D, 1.93, 79, 19-07-01, Stuttgart, Osijek
+45, Simone Stampete, ITA, F, 1.80, 74, 28-11-02, -, Arezzo
+46, Daniele Favale, ITA, F, 1.68, 62, 21-02-02, Moncalieri, Torino
+47, Alessio Maestrelli, ITA, D, 1.85, -, 01-01-03, Rome, Tor di Quinto
+77, Marko Božić, AUT, M, 1.82, 77, 14-05-98, -, Radomlje
+78, Giacomo Manzari, ITA, F, 1.78, 72, 21-09-00, Bari, Sassuolo
+88, Matteo Ricci, ITA, M, 1.75, 63, 27-05-94, Rome, Spezia
+94, Stefano Minelli, ITA, G, 1.86, 76, 05-03-94, Brescia, Perugia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Luka Krajnc, SVN, D, 1.88, 86, 19-09-94, Ptuj, Hannover 96
+26, Luca Matarese, ITA, F, 1.75, 70, 16-04-98, Scafati, Imolese (On Loan)
+13, Mattia Vitale, ITA, M, 1.80, 69, 01-10-97, Bologna, Pro Vercelli
+35, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Triestina
+22, Victor De Lucia, ITA, G, 1.86, 81, 28-05-96, Santa Maria a Vico, Feralpisalò (On Loan)
+37, Luka Koblar, SVN, D, 1.93, 80, 08-08-99, Maribor, Potenza (On Loan)
+30, Federico Bevilacqua, ITA, D, 1.88, 79, 10-08-01, Ronchi, Carrarese (On Loan)
+10, Pietro Iemmello, ITA, F, 1.80, 75, 06-03-92, Catanzaro, Catanzaro (On Loan)
+5, Mirko Gori, ITA, M, 1.77, 76, 04-02-93, Frosinone, Alessandria (On Loan)
+95, Tiago Casasola, ARG, D, 1.88, 84, 11-08-95, Capital Federal, Lazio
+8, Raffaele Maiello, ITA, M, 1.77, 73, 10-07-91, Acerra, Bari (On Loan)
+12, Paolo Bastianello, ITA, G, 1.91, 81, 14-02-98, Vicenza, Siena
+20, Alexander Satariano, MLT, F, 1.84, 78, 25-10-01, Valletta, Pergolettese (On Loan)
+31, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Siena

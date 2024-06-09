@@ -1,0 +1,70 @@
+=  Stoke City - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Butland, ENG, G, 1.96, 95, 10-03-93, Bristol, Birmingham C
+2, Phillip Bardsley, SCO, D, 1.80, 78, 28-06-85, Salford, Sunderland
+3, Erik Pieters, NED, D, 1.83, 83, 07-08-88, Tiel, PSV Eindhoven
+4, Joe Allen, WAL, M, 1.70, 62, 14-03-90, Carmarthen, Liverpool
+5, Marc Muniesa, ESP, D, 1.79, 72, 27-03-92, Lloret de Mar, Barcelona
+6, Glenn Whelan, IRL, M, 1.80, 79, 13-01-84, Dublin, Sheffield W
+7, Stephen Ireland, IRL, M, 1.73, 67, 22-08-86, Cork, Aston Villa
+8, Glen Johnson, ENG, D, 1.81, 85, 23-08-84, Greenwich, Liverpool
+9, Saido Berahino, ENG, F, 1.80, 82, 04-08-93, Bujumbura, WBA
+10, Marko Arnautović, AUT, F, 1.93, 83, 19-04-89, Vienna, Werder Bremen
+12, Wilfried Bony, CIV, F, 1.82, 88, 10-12-88, Bingerville, Manchester C
+14, Ibrahim Afellay, NED, M, 1.81, 68, 02-04-86, Utrecht, Barcelona
+15, Bruno Martins Indi, NED, D, 1.85, 74, 08-02-92, Barreiro, FC Porto
+16, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Liverpool
+17, Ryan Shawcross, ENG, D, 1.91, 76, 04-10-87, Chester, Manchester U
+18, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, Hannover 96
+19, Jonathan Walters, IRL, F, 1.83, 79, 20-09-83, Birkenhead, Ipswich T
+20, Geoff Cameron, USA, D, 1.90, 84, 11-07-85, Attleboro, Houston Dynamo
+21, Giannelli Imbula, CGO, M, 1.83, 77, 12-09-92, Vilvoorde, FC Porto
+22, Xherdan Shaqiri, SUI, M, 1.69, 72, 10-10-91, Gnjilane, Internazionale
+24, Shay Given, IRL, G, 1.85, 84, 20-04-76, Lifford, Aston Villa
+25, Peter Crouch, ENG, F, 2.01, 75, 30-01-81, Macclesfield, Tottenham H
+32, Ramadan Sobhi, EGY, M, 1.83, 72, 23-01-97, Cairo, Al-Ahly
+33, Lee Grant, ENG, G, 1.93, 83, 27-01-83, Hemel Hempstead, Derby Co
+35, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Austria Vienna
+37, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Blackpool
+38, Eddy Lecygne, FRA, M, 1.81, 67, 06-08-96, Pabu, Rennes
+39, Dániel Gyollai, HUN, G, 1.93, 91, 07-04-97, Békéscsaba, Honvéd
+41, Mark Waddington, ENG, M, 1.83, 66, 11-10-96, Wigan, Blackpool
+45, Julien Ngoy, BEL, F, 1.85, 64, 02-11-97, Antwerp, Club Brugge
+47, Kosovar Sadiki, CAN, D, , , 27-08-98, Moers, Kitchener SC
+51, Lewis Banks, ENG, D, 1.83, 72, 14-04-97, Stoke-on-Trent, None
+52, Liam Edwards, ENG, D, 1.90, 80, 02-10-96, Crewe, None
+54, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, Dundee U
+55, Thibaud Verlinden, BEL, M, 1.73, 65, 09-07-99, Bruges, Standard Liège
+57, Dan Jarvis, ENG, M, 1.71, 73, 03-04-98, Huntingdon, None
+60, Harvey Isted, ENG, G, 1.86, 70, 05-03-97, Chichester, Southampton
+61, Cameron McJannet, ENG, D, 1.73, 68, 06-09-98, Milton Keynes, Luton T
+64, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+70, Tommy Dyche, ENG, G, , , 28-01-99, Tamworth, None
+72, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, None
+75, Shola Ayoola, NGA, F, , , 19-05-99, Ibadan, Cherry Orchard
+76, Luis Silva, POR, D, 1.84, 78, 18-02-99, Oeiras, Benfica
+78, Jordan Greenidge, ENG, F, , , 05-01-00, Enfield, Reading
+79, Scott Wara, FIJ, D, , , 22-09-99, Lautoka, None
+82, Venâncio Da Silva, POR, M, , , 05-09-99, Lisbon, Manchester U
+84, Máté Deczki, HUN, G, , , 05-05-00, Debrecen, Debrecen
+86, Mitch Allen, ENG, G, , , 14-01-00, Stoke-on-Trent, None
+88, Jacob Twyford, ENG, M, , , 02-10-99, Stoke-on-Trent, Port Vale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Marc Wilson, IRL, D, 1.88, 80, 17-08-87, Belfast, Bournemouth
+9, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Deportivo La Coruña (On Loan)
+26, Philipp Wollscheid, GER, D, 1.94, 84, 06-03-89, Wadern, Wolfsburg (On Loan)
+29, Jakob Haugaard, DEN, G, 1.97, 87, 01-05-92, Sundby, Wigan Ath (On Loan)
+50, Hakim Abdallah, FRA, F, , , 09-01-98, Saint-Leu, Avranches (On Loan)
+34, Oliver Shenton, ENG, M, 1.86, 77, 06-11-97, Stoke-on-Trent, Wrexham (On Loan)
+56, Ryan Sweeney, IRL, D, 1.93, 87, 15-04-97, Kingston upon Thames, Bristol R (On Loan)
+63, Johnville Renee-Pringle, ENG, D, , , 24-04-97, Westminster, AFC Wimbledon
+42, Joel Taylor, ENG, D, 1.78, 67, 24-03-96, West Bromwich, Rochdale (On Loan)
+23, Dionatan Teixeira, SVK, D, 1.93, 78, 24-07-92, Londrina, Sheriff Tiraspol
+30, Moha, MAR, F, 1.80, 73, 13-01-96, Nador, Hearts (On Loan)
+27, Bojan Krkić, ESP, F, 1.70, 65, 28-08-90, Linyola, Mainz (On Loan)
+59, Sergio Molina, ESP, M, 1.77, 63, 18-02-96, Madrid, Albacete
+68, George Waring, ENG, F, 1.96, 72, 02-12-94, Chester, Carlisle U (On Loan)

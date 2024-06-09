@@ -1,0 +1,46 @@
+=  Celta Vigo - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Marchesin, ARG, G, 1.88, 83, 16-03-88, González Chávez, FC Porto
+2, Hugo Mallo, ESP, D, 1.81, 78, 22-06-91, Marín, Celta B
+3, Óscar Mingueza, ESP, D, 1.84, 75, 13-05-99, Santa Perpètua de Mogoda, Barcelona
+4, Unai Núñez, ESP, D, 1.86, 81, 30-01-97, Portugalete, Athletic Bilbao
+5, Óscar, ESP, M, 1.74, 68, 28-06-98, Talavera de la Reina, Sevilla
+7, Carles Pérez, ESP, F, 1.73, 75, 16-02-98, Granollers, Roma
+8, Fran Beltrán, ESP, M, 1.70, 64, 03-02-99, Madrid, Rayo Vallecano
+9, Gonçalo Paciência, POR, F, 1.84, 78, 01-08-94, Porto, Eintracht Frankfurt
+10, Iago Aspas, ESP, F, 1.76, 67, 11-08-87, Moaña, Sevilla
+11, Franco Cervi, ARG, M, 1.80, 69, 26-05-94, San Lorenzo, Benfica
+13, Iván Villar, ESP, G, 1.83, 76, 09-07-97, Aldán, Celta B
+14, Renato Tapia, PER, M, 1.85, 80, 28-07-95, Lima, Feyenoord
+15, Joseph Aidoo, GHA, D, 1.80, 80, 29-09-95, Tema, KRC Genk
+17, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Huesca
+18, Jörgen Strand Larsen, NOR, F, 1.93, 79, 06-02-00, Halden, FC Groningen
+19, Williot Swedberg, SWE, M, 1.85, 67, 01-02-04, Stockholm, Hammarby IF
+20, Kevin Vázquez, ESP, D, 1.73, 72, 23-03-93, Nigrán, Celta B
+21, Augusto Solari, ARG, M, 1.80, 80, 03-01-92, Rosario, Racing Club
+22, Haris Seferović, SUI, F, 1.85, 83, 22-02-92, Sursee, Benfica
+23, Luca De La Torre, USA, M, 1.75, 63, 23-05-98, San Diego, Heracles Almelo
+24, Gabri Veiga, ESP, M, 1.84, 68, 27-05-02, Porriño, Celta B
+25, Diego Alves, BRA, G, 1.88, 83, 24-06-85, Rio de Janeiro, Flamengo
+26, Carlos Domínguez, ESP, D, 1.87, 81, 11-02-01, Vigo, Celta B
+27, Raúl García, ESP, G, 1.88, 83, 27-01-00, León, Celta B
+29, Miguel Rodríguez, ESP, F, 1.79, 73, 29-04-03, Redondela, Celta B
+30, Hugo Álvarez, ESP, M, 1.85, 72, 02-07-03, Ourense, Celta B
+31, Coke Carrillo, ESP, G, 1.88, 75, 07-01-02, Poio, Barcelona B
+32, Fran López, ESP, F, -, -, 24-01-02, La Coruña, Celta B
+33, Tincho, ESP, D, -, -, 25-03-03, Ourense, Celta B
+34, Christian Joel Sánchez, CUB, G, 1.93, 88, 09-07-99, Havana, Sporting Gijón
+35, Pablo Durán, ESP, F, -, -, 25-05-01, Tomiño, Compostela
+36, Fernando Medrano, ESP, D, 1.72, 68, 26-03-00, Madrid, Atlético Madrid B
+37, Hugo Sotelo, ESP, M, 1.80, 76, 19-12-03, Vigo, Celta B
+38, Sergio Barcia, ESP, D, 1.94, 82, 31-12-00, Vigo, Granada B
+39, Javi Domínguez, ESP, D, 1.95, 83, 26-03-01, Madrid, Talavera
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Santi Mina, ESP, F, 1.81, 77, 07-12-95, Vigo, Al-Shabab (On Loan)
+16, Miguel Baeza, ESP, M, 1.75, 64, 27-03-00, Córdoba, Rio Ave (On Loan)
+28, Gabri Veiga, ESP, M, 1.84, 68, 27-05-02, Porriño, Re-Registered (24)
+6, Denis Suárez, ESP, M, 1.76, 69, 06-01-94, Salceda de Caselas, Espanyol (On Loan)

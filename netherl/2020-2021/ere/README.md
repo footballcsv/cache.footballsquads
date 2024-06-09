@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2020/2021
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [FC Emmen](emmen.txt)
+- [Feyenoord](feyen.txt)
+- [Fortuna Sittard](fortuna.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [VVV Venlo](vvv.txt)
+- [Willem II](willem.txt)

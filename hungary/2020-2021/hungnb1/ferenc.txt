@@ -1,0 +1,42 @@
+=  Ferencváros - Hungarian Nemzeti Bajnokság I 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ádám Bogdán, HUN, G, 1.94, 90, 27-09-87, Budapest, Hibernian
+3, Samy Mmaee, BEL, D, 1.85, 82, 08-09-96, Halle, Sint-Truiden
+7, Somália, BRA, M, 1.81, 76, 28-09-88, Rio de Janeiro, Al-Shabab
+8, Gergő Lovrencsics, HUN, D, 1.77, 77, 01-09-88, Pécs, Lech Poznań
+10, Tokmac Nguen, NOR, M, 1.74, 60, 20-10-93, Kakuma, Strømsgodset
+11, Oleksandr Zubkov, UKR, M, 1.82, 78, 03-08-96, Makiivka, Shakhtar Donetsk
+14, Ihor Kharatin, UKR, M, 1.88, 80, 02-02-95, Mukacheve, Zorya Luhansk
+15, Adnan Kovačević, BIH, D, 1.89, 80, 09-09-93, Kotor Varoš, Korona Kielce
+17, Eldar Ćivić, BIH, D, 1.75, 70, 28-05-96, Tuzla, Sparta Prague
+18, Dávid Sigér, HUN, M, 1.75, 69, 30-11-90, Debrecen, Balmazújváros
+19, Bálint Vécsei, HUN, M, 1.92, 84, 13-07-93, Kazincbarcika, Lugano
+20, Róbert Mak, SVK, M, 1.78, 71, 08-03-91, Bratislava, Konyaspor
+21, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Honvéd
+22, Roko Baturina, CRO, F, 1.87, 82, 20-06-00, Split, Dinamo Zagreb
+23, Dániel Gera, HUN, F, 1.78, 70, 29-08-95, Budapest, MTK
+24, Máté Katona, HUN, M, 1.76, 69, 22-06-97, Sopron, MTK
+25, Miha Blažič, SVN, D, 1.85, 79, 08-05-93, Koper, Domžale
+26, Marcel Heister, GER, D, 1.82, 74, 29-07-92, Albstadt, Beitar Jerusalem
+27, Giorgi Kharaishvili, GEO, F, 1.83, 78, 29-07-96, Marneuli, IFK Göteborg
+31, Henry Wingo, USA, M, 1.83, 77, 04-10-95, Seattle, Molde
+33, Lasha Dvali, GEO, D, 1.91, 80, 14-05-95, Tbilisi, Pogoń Szczecin
+70, Franck Boli, CIV, F, 1.80, 78, 07-12-93, Yamoussoukro, Stabæk
+77, Myrto Uzuni, ALB, F, 1.78, 72, 31-05-95, Berat, Lokomotiva Zagreb
+88, Isael, BRA, M, 1.71, 71, 13-05-88, São Paulo, Kairat Almaty
+90, Dénes Dibusz, HUN, G, 1.86, 81, 19-11-90, Pécs, Pécs
+92, Michal Škvarka, SVK, M, 1.73, 66, 12-08-92, Martin, MŠK Žilina
+93, Aïssa Laïdouni, FRA, M, 1.83, 75, 13-12-96, Montfermeil, FC Voluntari
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Dávid Gróf, HUN, G, 1.91, 90, 17-04-89, Budapest, Debrecen (On Loan)
+20, Mikalay Signevich, BLR, F, 1.94, 80, 20-02-92, Brest, BATE
+51, András Csonka, HUN, M, 1.78, 73, 01-05-00, Budapest, Budafok (On Loan)
+97, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, MTK
+13, Ammar Ramadan, SYR, M, 1.76, 68, 05-01-01, Idlib, Soroksár (On Loan)
+5, Abraham Frimpong, GHA, D, 1.80, 72, 06-04-93, Accra, Al-Ain [UAE]
+29, Gergő Szécsi, HUN, G, 1.85, 83, 07-02-89, Eger, Soroksár (On Loan)
+53, Dominik Csontos, HUN, D, 1.71, 68, 08-11-02, Székesfehérvár, Soroksár (On Loan)

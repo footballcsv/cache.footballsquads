@@ -1,0 +1,53 @@
+=  Hamburger SV - German Bundesliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Mathenia, GER, G, 1.89, 75, 31-03-92, Mainz, Darmstadt
+2, Dennis Diekmeier, GER, D, 1.88, 78, 20-10-89, Thedinghausen, Nürnberg
+4, Rick van Drongelen, NED, D, 1.85, 75, 20-12-98, Terneuzen, Sparta Rotterdam
+5, Mërgim Mavraj, ALB, D, 1.89, 81, 09-06-86, Hanau, Köln
+6, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Atlético Mineiro
+7, Bobby Wood, USA, F, 1.80, 76, 15-11-92, Honolulu, Union Berlin
+8, Lewis Holtby, GER, M, 1.74, 66, 18-09-90, Erkelenz, Tottenham H
+9, Kyriakos Papadopoulos, GRE, D, 1.83, 78, 23-02-92, Katerini, Bayer Leverkusen
+11, André Hahn, GER, F, 1.85, 75, 13-08-90, Otterndorf, B Mönchengladbach
+12, Walace, BRA, M, 1.78, 75, 04-04-95, Salvador, Grêmio
+13, Julian Pollersbeck, GER, G, 1.95, 85, 16-08-94, Altötting, Kaiserslautern
+14, Aaron Hunt, GER, M, 1.83, 73, 04-09-86, Goslar, Wolfsburg
+15, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Eintracht Frankfurt
+16, Vasilije Janičić, SUI, M, 1.80, 82, 02-11-98, Zürich, Zürich
+17, Filip Kostić, SRB, M, 1.80, 68, 01-11-92, Kragujevac, Stuttgart
+18, Bakery Jatta, GAM, M, 1.84, 79, 06-06-98, Gunjur, None
+19, Sven Schipplock, GER, F, 1.85, 79, 08-11-88, Reutlingen, 1899 Hoffenheim
+20, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Cagliari
+22, Bjarne Thoelke, GER, D, 1.90, 80, 11-04-92, Gifhorn, Karlsruhe
+23, Sejad Salihović, BIH, M, 1.82, 83, 08-10-84, Sepak, St. Gallen
+24, Gotoku Sakai, JPN, D, 1.75, 72, 14-03-91, New York, Stuttgart
+25, Mats Köhlert, GER, M, 1.64, 61, 02-05-98, Hamburg, St Pauli
+26, Törles Knöll, GER, F, 1.84, 81, 13-09-97, Frankfurt am Main, Mainz
+27, Nicolai Müller, GER, M, 1.75, 65, 25-09-87, Lohr am Main, Mainz
+28, Gideon Jung, GER, D, 1.89, 76, 12-09-94, Düsseldorf, RW Oberhausen
+29, Matti Steinmann, GER, M, 1.88, 78, 08-01-95, Hamburg, Mainz II
+30, Andreas Hirzel, SUI, G, 1.90, 89, 25-03-93, Schlieren, Vaduz
+31, Mohamed Gouaida, FRA, M, 1.78, 74, 15-05-93, Strasbourg, Freiburg II
+32, Frank Ronstadt, GER, M, 1.79, 69, 21-07-97, Hamburg, St Pauli
+34, Arianit Ferati, GER, F, 1.68, 71, 07-09-97, Stuttgart, Stuttgart
+35, Christian Stark, GER, F, 1.82, 78, 18-02-98, Bad Hersfeld, None
+36, Tom Mickel, GER, G, 1.86, 78, 19-04-89, Hoyerswerda, Greuther Fürth
+37, Seo Young-Jae, KOR, D, 1.82, 75, 23-05-95, Wonju, Hanyang Univ
+38, Jonas Behounek, GER, D, 1.80, 73, 17-05-98, Kaltenkirchen, None
+39, Marco Drawz, POL, F, 1.77, 71, 31-03-99, Bad Segeberg, None
+40, Jann-Fiete Arp, GER, F, 1.84, 78, 06-01-00, Bad Segeberg, None
+41, Aaron Opoku, GER, M, 1.85, 71, 28-03-99, Hamburg, None
+42, Tobias Knost, GER, D, 1.78, 76, 08-05-00, Berlin, None
+43, Tatsuya Ito, JPN, F, 1.63, 59, 26-06-97, Taitō, Kashiwa Reysol
+44, Patric Pfeiffer, GER, D, 1.96, 91, 20-08-99, Hamburg, None
+45, Moritz-Broni Kwarteng, GER, M, 1.75, 65, 28-04-98, Stuttgart, 1899 Hoffenheim
+46, Stephan Ambrosius, GER, D, 1.82, 80, 18-12-98, Hamburg, St Pauli
+47, Josha Vagnoman, GER, D, 1.86, 76, 11-12-00, Hamburg, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Pierre-Michel Lasogga, GER, F, 1.89, 88, 15-12-91, Gladbeck, Leeds U (On Loan)
+34, Finn Porath, GER, M, 1.81, 75, 23-02-97, Lübeck, Unterhaching (On Loan)
+29, Gillian Jurcher, GER, F, 1.75, 73, 09-04-97, Hamburg, Germania Halberstadt

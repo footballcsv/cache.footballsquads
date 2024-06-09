@@ -1,0 +1,49 @@
+=  Standard Liège - Belgian Eerste Klasse A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Gilles Dewaele, BEL, D, 1.82, 73, 13-02-96, Knokke, Kortrijk
+4, Damjan Pavlović, BEL, D, 1.79, 76, 09-07-01, Eupen, None
+5, Moussa Sissako, MLI, D, 1.89, 72, 10-11-00, Clichy, Paris St-Germain
+6, Noë Dussenne, BEL, D, 1.91, 85, 07-04-92, Mons, Mechelen
+7, Denis Drăguş, ROU, F, 1.80, 74, 06-07-99, Bucharest, Viitorul Constanța
+8, Gojko Cimirot, BIH, M, 1.78, 70, 19-12-92, Trebinje, PAOK
+10, Mehdi Carcela-Gonzalez, MAR, M, 1.76, 67, 01-07-89, Liège, Granada
+13, Joachim Van Damme, BEL, M, 1.93, 82, 23-07-91, Beveren, Mechelen
+14, Niels Nkounkou, FRA, D, 1.84, 70, 01-11-00, Pontoise, Everton
+15, Daouda Peeters, BEL, M, 1.85, 79, 26-01-99, Kamsar, Juventus
+16, Arnaud Bodart, BEL, G, 1.84, 75, 11-03-98, Seraing, None
+18, Renaud Emond, BEL, F, 1.86, 73, 05-12-91, Virton, Nantes
+19, Selim Amallah, MAR, M, 1.80, 70, 15-11-96, Hautrage, Excel Mouscron
+20, Merveille Bokadi, COD, M, 1.86, 79, 21-05-92, Kinshasa, TP Mazembe
+23, Abdoul Tapsoba, BFA, F, 1.77, 70, 23-08-01, Bobo-Dioulasso, ASEC Mimosas
+24, Mathieu Cafaro, FRA, M, 1.75, 60, 25-03-97, Saint-Doulchard, Reims
+26, Nicolas Raskin, BEL, M, 1.79, 73, 23-02-01, Liège, KAA Gent
+28, Samuel Bastien, BEL, M, 1.75, 70, 26-09-96, Meux, Chievo Verona
+30, Laurent Henkinet, BEL, G, 1.89, 80, 14-09-92, Rocourt, OH Leuven
+31, Alexandro Calut, BEL, D, 1.80, 66, 22-04-03, Charleroi, None
+32, Brahim Ghalidi, BEL, M, 1.74, 66, 31-01-05, -, None
+33, Nathan Ngoy, BEL, D, 1.83, 74, 10-06-03, -, Anderlecht
+34, Konstantinos Laifis, CYP, D, 1.85, 77, 19-05-93, Paralimni, Olympiakos
+35, Lucas Noubi, BEL, D, 1.80, 81, 15-01-05, Mouscron, None
+37, Olivier Dumont, BEL, M, 1.82, 65, 06-03-02, Visé, None
+38, Cihan Çanak, BEL, M, 1.75, 65, 24-01-05, Verviers, None
+40, Matthieu Epolo, BEL, G, 1.81, 77, 15-01-05, -, Anderlecht
+41, Camil Mmaee, MAR, F, 1.84, 72, 21-02-04, Geraardsbergen, None
+45, Matteo Godfroid, BEL, G, 1.90, 77, 25-02-04, -, None
+46, Elias Mago, MAR, G, -, -, 23-03-04, -, None
+47, Tom Poitoux, BEL, G, 1.86, 73, 04-06-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Eden Shamir, ISR, M, 1.72, 78, 25-06-95, Kiryat Motzkin, Maccabi Tel Aviv (On Loan)
+2, Hugo Siquet, BEL, D, 1.75, 70, 09-07-02, Marche-en-Famenne, Freiburg
+24, Nicolas Gavory, FRA, D, 1.82, 76, 16-02-95, Beauvais, Fortuna Düsseldorf
+21, Collins Fai, CMR, D, 1.67, 60, 13-08-92, Bamenda, Al-Tai
+3, Ameen Al-Dakhil, IRQ, D, 1.87, 70, 06-03-02, Baghdad, Sint-Truiden
+9, Klauss, BRA, F, 1.90, 84, 01-03-97, Criciúma, 1899 Hoffenheim
+12, Hamza Rafia, TUN, M, 1.78, 75, 02-04-99, Kalaat es Senam, Juventus
+22, Maxime Lestienne, BEL, M, 1.76, 63, 17-06-92, Mouscron, Lion City Sailors
+29, Glody Likonza, COD, M, 1.73, 66, 10-05-98, -, TP Mazembe
+17, Jackson Muleka, COD, F, 1.80, 77, 04-10-99, Lubumbashi, Kasımpaşa (On Loan)
+11, Aron Dønnum, NOR, M, 1.79, 73, 20-04-98, Eidsvoll, Vålerenga (On Loan)

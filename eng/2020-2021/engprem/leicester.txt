@@ -1,0 +1,71 @@
+=  Leicester City - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Leeds U
+2, James Justin, ENG, D, 1.83, 71, 11-07-97, Luton, Luton T
+3, Wesley Fofana, FRA, D, 1.85, 76, 17-12-00, Marseille, St-Etienne
+4, Çağlar Söyüncü, TUR, D, 1.87, 80, 23-05-96, İzmir, Freiburg
+5, Wes Morgan, JAM, D, 1.85, 93, 21-01-84, Nottingham, Nottingham F
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, WBA
+8, Youri Tielemans, BEL, M, 1.76, 72, 07-05-97, Sint-Pieters-Leeuw, Monaco
+9, Jamie Vardy, ENG, F, 1.78, 76, 11-01-87, Sheffield, Fleetwood T
+10, James Maddison, ENG, M, 1.79, 73, 23-11-96, Coventry, Norwich C
+11, Marc Albrighton, ENG, M, 1.74, 67, 18-11-89, Tamworth, Aston Villa
+12, Danny Ward, WAL, G, 1.91, 88, 22-06-93, Wrexham, Wrexham
+14, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, Manchester C
+15, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, None
+17, Ayoze Pérez, ESP, F, 1.79, 66, 23-07-93, Santa Cruz de Tenerife, Newcastle U
+18, Daniel Amartey, GHA, M, 1.83, 78, 01-12-94, Accra, FC København
+19, Cengiz Ünder, TUR, F, 1.73, 66, 14-07-97, Balıkesir, Roma
+20, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, None
+21, Ricardo Pereira, POR, D, 1.75, 70, 06-10-93, Lisbon, FC Porto
+24, Nampalys Mendy, SEN, M, 1.68, 68, 23-06-92, La Seyne-sur-Mer, Nice
+25, Wilfred Ndidi, NGA, M, 1.87, 80, 16-12-96, Lagos, KRC Genk
+26, Dennis Praet, BEL, M, 1.81, 78, 14-05-94, Leuven, Sampdoria
+27, Timoty Castagne, BEL, D, 1.80, 80, 05-12-95, Aarlen, Atalanta
+28, Christian Fuchs, AUT, D, 1.86, 80, 07-04-86, Pitten, Schalke
+30, Layton Ndukwu, ENG, F, 1.77, 75, 07-09-98, Leicester, None
+33, Luke Thomas, ENG, D, 1.74, 68, 10-06-01, Leicester, None
+35, Eldin Jakupović, SUI, G, 1.91, 87, 02-10-84, Sarajevo, Hull C
+37, Ethan Fitzhugh, ENG, M, -, -, 27-11-02, Northampton, None
+38, Thakgalo Leshabela, RSA, M, 1.75, 72, 18-09-99, Pretoria, None
+40, Mitchell Clark, WAL, D, 1.73, 68, 13-03-99, Nuneaton, Aston Villa
+41, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Chester
+44, Ali Reghba, IRL, F, 1.80, 72, 14-01-00, Essen, Bohemians
+46, Vontae Daley-Campbell, ENG, D, -, -, 04-04-01, Lambeth, Arsenal
+47, Darragh O'Connor, IRL, D, 1.89, 86, 05-08-99, Clonroche, Wexford
+48, Callum Hulme, ENG, M, 1.70, 65, 10-11-00, Manchester, Bury
+49, Tyrese Shade, SKN, M, 1.83, 78, 09-06-00, Birmingham, Solihull Moors
+50, Sidnei Tavares, POR, M, -, -, 29-09-01, -, None
+51, Jakub Stolarczyk, POL, G, 1.94, 81, 19-12-00, Chęciny, None
+52, Dempsey Arlott-John, ENG, M, 1.72, 64, 14-11-01, Leicester, None
+53, Shane Flynn, IRL, M, -, -, 14-10-01, Dublin, Bray W
+54, Adam Leathers, ENG, M, -, -, 14-11-01, Nuneaton, None
+55, Kasey McAteer, ENG, M, 1.77, 72, 22-11-01, Northampton, None
+56, Johnson Gyamfi, ENG, F, -, -, 28-12-01, -, None
+57, Terell Pennant, ENG, F, -, -, 14-09-02, Leicester, None
+58, Will Russ, WAL, F, -, -, 08-11-02, Denbigh, Chesterfield
+59, Ben Nelson, SCO, D, -, -, 18-03-04, Northampton, None
+60, Harvey Godsmark-Ford, ENG, D, -, -, 25-09-03, Nuneaton, None
+61, Oliver Bosworth, ENG, G, -, -, 14-06-02, Leicester, None
+62, Chituru Odunze, USA, G, 2.01, 79, 14-10-02, Raleigh, Vancouver Whitecaps
+63, Arlo Doherty, IRL, G, -, -, 16-10-03, Camden, Manchester C
+64, Thanawat Suengchitthawon, FRA, M, 1.70, 55, 08-01-00, Suphan Buri, Nancy
+65, Tawanda Maswanhise, ENG, M, -, -, 20-11-02, -, None
+66, Jacob Wakeling, ENG, F, 1.78, 76, 15-09-01, Redditch, Alvechurch
+67, Johnly Yfeko, ENG, D, -, -, 23-06-03, Newham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, George Hirst, ENG, F, 1.91, 70, 15-02-99, Sheffield, Rotherham U (On Loan)
+43, Josh Eppiah, BEL, F, -, -, 11-10-98, -, OH Leuven (On Loan)
+34, Josh Knight, ENG, D, 1.85, 78, 07-09-97, Leicester, Wycombe W (On Loan)
+32, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, Luton T (On Loan)
+36, Admiral Muskwe, ZIM, F, 1.83, 71, 21-08-98, -, Wycombe W (On Loan)
+22, Matthew James, ENG, M, 1.78, 74, 22-07-91, Bacup, Coventry C (On Loan)
+16, Filip Benković, CRO, D, 1.94, 91, 13-07-97, Zagreb, OH Leuven (On Loan)
+13, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Lyon
+39, Darnell Johnson, ENG, D, 1.85, 83, 03-09-98, Leicester, AFC Wimbledon (On Loan)
+7, Demarai Gray, ENG, M, 1.79, 66, 28-06-96, Birmingham, Bayer Leverkusen
+42, Callum Wright, ENG, M, 1.82, 72, 02-05-00, Liverpool, Cheltenham T (On Loan)

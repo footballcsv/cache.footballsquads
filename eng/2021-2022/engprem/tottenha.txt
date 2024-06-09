@@ -1,0 +1,63 @@
+=  Tottenham Hotspur - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Lyon
+2, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Wolverhampton W
+3, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Real Madrid
+4, Cristian Romero, ARG, D, 1.85, 79, 27-04-98, Córdoba, Atalanta
+5, Pierre-Emile Højbjerg, DEN, M, 1.85, 84, 05-08-95, Copenhagen, Southampton
+6, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Ajax
+7, Son Heung-Min, KOR, F, 1.83, 77, 08-07-92, Chuncheon, Bayer Leverkusen
+8, Harry Winks, ENG, M, 1.76, 74, 02-02-96, Hemel Hempstead, None
+10, Harry Kane, ENG, F, 1.88, 86, 28-07-93, Walthamstow, None
+12, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Barcelona
+14, Joe Rodon, WAL, D, 1.90, 76, 22-10-97, Swansea, Swansea C
+15, Eric Dier, ENG, M, 1.88, 90, 15-01-94, Cheltenham, Sporting CP
+19, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, Fulham
+21, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, Juventus
+22, Pierluigi Gollini, ITA, G, 1.94, 94, 18-03-95, Bologna, Atalanta
+23, Steven Bergwijn, NED, F, 1.78, 74, 08-10-97, Amsterdam, PSV Eindhoven
+25, Japhet Tanganga, ENG, D, 1.84, 73, 31-03-99, Hackney, None
+27, Lucas Moura, BRA, M, 1.72, 66, 13-08-92, São Paulo, Paris St-Germain
+29, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, None
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Juventus
+33, Ben Davies, WAL, D, 1.82, 76, 24-04-93, Neath, Swansea C
+40, Brandon Austin, USA, G, 1.88, 82, 08-01-99, Hemel Hempstead, None
+42, Harvey White, ENG, M, 1.71, 60, 19-09-01, Maidstone, None
+44, Dane Scarlett, ENG, F, 1.80, 76, 24-03-04, Hillingdon, None
+45, Alfie Devine, ENG, M, -, -, 01-08-04, Warrington, Wigan Ath
+46, Malachi Fagan-Walcott, ENG, D, 1.87, 74, 11-03-02, Edmonton, None
+48, Maksim Paskotši, EST, D, 1.88, 84, 19-01-03, Tallinn, Flora Tallinn
+49, Tobi Omole, ENG, D, 1.89, 74, 17-12-99, Lewisham, Arsenal
+50, Kallum Cesay, ENG, M, -, -, 04-09-02, Newham, West Ham U
+51, Matthew Craig, SCO, M, -, -, 16-04-03, Barnet, None
+53, Brooklyn Lyons-Foster, ENG, D, 1.81, 70, 01-12-00, Archway, None
+54, Jamie Bowden, IRL, M, 1.75, 64, 09-07-01, Edmonton, None
+55, Romaine Mundle, ENG, M, 1.77, 61, 24-04-03, Edmonton, None
+56, J'Neil Bennett, ENG, F, 1.75, 63, 07-12-01, Islington, QPR
+57, Marcel Lavinier, ENG, D, 1.80, 70, 16-12-00, Chelsea, Chelsea
+59, Josh Oluwayemi, ENG, G, 1.83, 70, 13-03-01, Waltham Forest, None
+60, Kacper Kurylowicz, ENG, G, -, -, 02-09-01, Luton, None
+62, Marqes Muir, ENG, D, -, -, 21-09-02, Lambeth, None
+65, Thimothee Lo-Tutala, FRA, G, 1.85, 71, 13-02-03, Paris, Brentford
+66, Yago Santiago, ESP, M, -, -, 15-04-03, Vigo, Celta Vigo
+72, Jeremie Mukendi, ENG, F, -, -, 12-09-00, -, None
+73, Adam Hayton, ENG, G, -, -, 28-04-04, Luton, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Moussa Sissoko, FRA, M, 1.87, 91, 16-08-89, Le Blanc Mesnil, Watford
+24, Serge Aurier, CIV, D, 1.75, 75, 24-12-92, Abidjan, Villarreal
+38, Cameron Carter-Vickers, USA, D, 1.83, 92, 31-12-97, Southend-on-Sea, Celtic (On Loan)
+68, Jeremy Kyezu, ENG, D, -, -, 19-08-03, Southgate, Millwall
+61, Rafferty Pedder, ENG, M, -, -, 06-04-02, Maidstone, QPR
+54, Dilan Markanday, ENG, F, 1.78, 64, 20-08-01, Barnet, Blackburn R
+47, Jack Clarke, ENG, F, 1.81, 74, 23-11-00, York, Sunderland (On Loan)
+43, Nile John, ENG, M, -, -, 06-03-03, White City, Charlton Ath (On Loan)
+11, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Valencia (On Loan)
+18, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Villarreal (On Loan)
+20, Dele Alli, ENG, M, 1.88, 80, 11-04-96, Milton Keynes, Everton
+28, Tanguy NDombèlé, FRA, M, 1.76, 68, 28-12-96, Longjumeau, Lyon (On Loan)
+41, Alfie Whiteman, ENG, G, 1.90, 77, 02-10-98, Tottenham, Degerfors IF (On Loan)
+52, Michael Craig, SCO, M, -, -, 16-04-03, Barnet, 

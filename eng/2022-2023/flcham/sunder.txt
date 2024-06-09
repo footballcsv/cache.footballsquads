@@ -1,0 +1,51 @@
+=  Sunderland - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Patterson, ENG, G, 1.89, 77, 10-05-00, North Shields, None
+2, Niall Huggins, WAL, D, 1.73, 70, 18-12-00, York, Leeds U
+3, Dennis Cirkin, ENG, D, 1.82, 72, 06-04-02, Dublin, Tottenham H
+4, Corry Evans, NIR, M, 1.73, 69, 30-07-90, Belfast, Blackburn R
+5, Daniel Ballard, NIR, D, 1.87, 85, 22-09-99, Stevenage, Arsenal
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Stoke C
+8, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, None
+10, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Manchester C
+11, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+12, Alex Bass, ENG, G, 1.87, 70, 01-04-98, Southampton, Portsmouth
+13, Luke O'Nien, ENG, D, 1.74, 74, 21-11-94, Hemel Hempstead, Wycombe W
+14, Ross Stewart, SCO, F, 1.88, 85, 11-07-96, Irvine, Ross Co
+16, Amad Diallo, CIV, M, 1.73, 70, 11-07-02, Abidjan, Manchester U
+17, Abdoullah Ba, FRA, M, 1.79, 68, 31-07-03, Saint-Aubin-lès-Elbeuf, Le Havre
+18, Ellis Taylor, ENG, M, 1.82, 72, 14-04-03, Hartlepool, None
+19, Jewison Bennette, CRC, F, 1.75, 70, 15-06-04, Heredia, CS Herediano
+20, Jack Clarke, ENG, M, 1.81, 74, 23-11-00, York, Tottenham H
+21, Alex Pritchard, ENG, M, 1.71, 62, 03-05-93, Grays, Huddersfield T
+22, Isaac Lihadji, FRA, F, 1.77, 70, 10-04-02, Marseille, Lille
+24, Dan Neil, ENG, M, 1.78, 65, 13-12-01, South Shields, None
+25, Edouard Michut, FRA, M, 1.78, 68, 04-03-03, Aix-les-Bains, Paris St-Germain
+28, Joe Gelhardt, ENG, F, 1.76, 71, 04-05-02, Liverpool, Leeds U
+29, Harrison Sohna, ENG, M, 1.77, 61, 01-07-02, Gloucester, Aston Villa
+30, Jacob Carney, ENG, G, 1.88, 75, 21-04-01, Rotherham, Manchester U
+31, Chris Rigg, ENG, M, 1.75, 68, 18-06-07, Hebburn, None
+32, Trai Hume, NIR, D, 1.80, 75, 18-03-02, Ballymena, Linfield
+33, Michael Spellman, ENG, F, -, -, 21-09-02, Durham, Chester-le-Street U
+34, Caden Kelly, ENG, D, -, -, 20-11-03, Buncrana, None
+35, Harrison Bond, ENG, G, 1.85, 80, 04-12-03, Chester-le-Street, None
+36, Mason Cotcher, ENG, F, -, -, 04-09-06, North Shields, None
+37, Ben Middlemas, ENG, M, -, -, 13-12-04, Ashington, None
+39, Pierre Ekwah, FRA, M, 1.89, 81, 15-01-02, Massy, West Ham U
+41, Zak Johnson, ENG, D, 1.88, 78, 30-07-04, Sunderland, None
+42, Aji Alese, ENG, D, 1.92, 78, 17-01-01, Islington, West Ham U
+44, Adam Richardson, ENG, G, -, -, 07-09-03, -, None
+45, Joe Anderson, ENG, D, 1.86, 81, 06-02-01, Stalybridge, Everton
+49, Tom Watson, ENG, F, -, -, 08-04-06, -, None
+50, Dan Cameron, ENG, G, -, -, 24-10-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Jack Diamond, ENG, M, 1.75, 61, 12-01-00, Gateshead, De-Registered
+15, Carl Winchester, NIR, M, 1.78, 74, 12-04-93, Belfast, Shrewsbury T (On Loan)
+9, Ellis Simms, ENG, F, 1.83, 73, 05-01-01, Oldham, Everton
+27, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Plymouth Arg (On Loan)
+7, Leon Dajaku, GER, M, 1.80, 72, 12-04-01, Waibingen, St. Gallen (On Loan)
+26, Bailey Wright, AUS, D, 1.84, 84, 28-07-92, Melbourne, Rotherham U (On Loan)

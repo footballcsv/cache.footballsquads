@@ -1,0 +1,45 @@
+=  Cartagena - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc Martínez, ESP, G, 1.85, 74, 04-04-90, Barcelona, Recreativo Huelva
+3, Pedro Alcalá, ESP, D, 1.96, 93, 19-03-89, Mazarrón, Cádiz
+4, Julio Buffarini, ARG, D, 1.72, 72, 18-08-88, General Cabrera, Huesca
+5, Pablo Vázquez, ESP, D, 1.84, 84, 07-10-94, Gandía, Badajoz
+6, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Castellón
+7, Rubén Castro, ESP, F, 1.74, 72, 27-06-81, Las Palmas, Las Palmas
+8, Pablo De Blasis, ARG, M, 1.64, 65, 04-02-88, La Plata, Eibar
+9, Alfredo Ortuño, ESP, F, 1.83, 80, 21-01-91, Tecla, Albacete
+10, Álex Gallar, ESP, F, 1.76, 71, 19-03-92, Sabadell, Girona
+12, Richard Boateng, GHA, M, 1.78, 66, 10-07-92, Accra, Alcorcón
+13, Jérôme Prior, FRA, G, 1.84, 88, 08-08-95, Toulon, Valenciennes
+14, Berto Cayarga, ESP, M, 1.70, 63, 17-09-96, Avilés, Racing Santander
+15, Toni Datković, CRO, D, 1.84, 78, 06-11-93, Zagreb, Real Salt Lake
+16, Shinji Okazaki, JPN, F, 1.74, 70, 16-04-86, Hyogo, Huesca
+17, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Anderlecht
+19, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Girona
+20, Gastón Silva, URU, D, 1.83, 74, 05-03-94, Salto, Huesca
+21, Nacho Gil, ESP, M, 1.70, 69, 09-09-95, Valencia, Ponferradina
+22, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Zaragoza
+23, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Oviedo
+24, Alberto De La Bella, ESP, D, 1.81, 78, 02-12-85, Santa Coloma de Gramanet, Las Palmas
+25, Sebastián Cristóforo, URU, M, 1.75, 68, 23-08-93, Montevideo, Girona
+26, Farru, ESP, D, -, -, 25-02-01, Lorca, Almería B
+27, Sergio Díaz, ESP, G, -, -, 14-01-98, Lorca, UCAM Murcia B
+28, Neskes, ESP, M, 1.77, 70, 22-11-01, Granada, Granada B
+30, Juanpe, ESP, D, -, -, 19-04-99, -, UCAM Murcia B
+31, Xavi Pons, ESP, M, -, -, -, -, Madridejos
+34, Josema, ESP, F, -, -, 01-10-99, -, Villarreal C
+35, Edu Martínez, ESP, M, 1.81, 72, 12-04-99, Santander, Levante B
+46, Diego de Pedro, ESP, M, -, -, 03-02-03, Almoradí, Cartagena B
+47, José Nicolás, ESP, D, -, -, 22-09-03, Murcia, Cartagena B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Esteve Peña, ESP, G, 1.83, 79, 26-04-97, Portocolom, Afturelding
+30, Uriel Jové, ESP, D, 1.89, 80, 29-07-99, Alicante, Águilas (On Loan)
+15, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Lamia
+4, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Lugo
+11, Andy Kawaya, BEL, M, 1.75, 70, 23-08-96, Brussels, Albacete
+18, Antoñito, ESP, D, 1.73, 65, 24-12-87, Herrera, Deportivo La Coruña
+2, David Andújar, ESP, D, 1.88, 79, 21-08-91, Torrejón de Ardoz, Tianjin Jinmen Tiger

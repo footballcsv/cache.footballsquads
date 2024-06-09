@@ -1,0 +1,54 @@
+=  Stoke City - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Iversen, DEN, G, 1.93, 80, 19-07-97, Gørding, Leicester C
+2, Lynden Gooch, USA, D, 1.73, 69, 24-12-95, Santa Cruz, Sunderland
+3, Enda Stevens, IRL, D, 1.83, 78, 09-07-90, Dublin, Sheffield U
+4, Ben Pearson, ENG, M, 1.66, 71, 04-01-95, Oldham, Bournemouth
+5, Michael Rose, SCO, D, 1.81, 70, 11-10-95, Aberdeen, Coventry C
+6, Wouter Burger, NED, M, 1.90, 73, 16-02-01, Zuid-Beijerland, Basel
+7, André Vidigal, POR, F, 1.76, 67, 17-08-98, Elvas, Marítimo
+8, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+10, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+12, Daniel Johnson, JAM, M, 1.74, 67, 08-10-92, Kingston, Preston NE
+13, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Gillingham
+14, Niall Ennis, ENG, F, 1.78, 76, 20-05-99, Wolverhampton, Blackburn R
+15, Jordan Thompson, NIR, M, 1.75, 65, 03-01-97, Belfast, Blackpool
+16, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Watford
+17, Ki-Jana Hoever, NED, D, 1.80, 67, 18-01-02, Amsterdam, Wolverhampton W
+18, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Aston Villa
+19, Ryan Mmaee, MAR, F, 1.83, 78, 01-04-97, Geraardsbergen, Ferencváros
+20, Sead Hakšabanović, MNE, F, 1.74, 69, 04-05-99, Hyltebruk, Celtic
+21, Nikola Jojić, SRB, M, -, -, 15-09-03, Čačak, Mladost Lučani
+22, Bae Jun-Ho, KOR, M, 1.80, 70, 21-08-03, Daegu, Daejeon Hana Citizen
+23, Luke McNally, IRL, D, 1.93, 86, 20-09-99, Enfield, Burnley
+24, Junior Tchamadeu, CMR, D, 1.80, 72, 22-12-03, Redbridge, Colchester U
+25, Luke Cundle, ENG, M, 1.70, 62, 26-04-02, Warrington, Wolverhampton W
+26, Ciaran Clark, IRL, D, 1.88, 76, 26-09-89, Harrow, Newcastle U
+27, Mehdi Léris, FRA, M, 1.86, 83, 23-05-98, Mont-de-Marsan, Sampdoria
+28, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Reading
+29, D'Margio Wright-Phillips, ENG, M, 1.70, 62, 24-09-01, Manchester, Manchester C
+30, Sol Sidibe, ENG, M, -, -, 10-02-07, Paris, None
+34, Frank Fielding, ENG, G, 1.85, 75, 04-04-88, Blackburn, Millwall
+35, Nathan Lowe, ENG, F, 1.93, 74, 18-09-05, Harlow, None
+36, Ben Kershaw, ENG, M, -, -, 23-10-03, -, Rochdale
+38, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, Leeds U
+39, Tom Sparrow, WAL, M, 1.77, 74, 06-12-02, Peterborough, None
+40, Blondy Nna Noukeu, CMR, G, 1.84, 70, 17-09-01, -, None
+41, Jaden Dixon, ENG, D, -, -, 07-02-07, -, None
+42, Million Manhoef, NED, F, 1.79, 71, 03-01-02, Beemster, Vitesse
+46, Ben Houston, ENG, G, -, -, 27-10-05, -, Derby Co
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Jacob Brown, SCO, F, 1.78, 62, 10-04-98, Halifax, Luton T
+14, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, Swansea C
+20, Chiquinho, POR, F, 1.79, 72, 05-02-00, Cascais, Wolverhampton W
+31, Matthew Baker, WAL, D, -, -, 06-02-03, -, Newport Co (On Loan)
+32, David Okagbue, IRL, D, -, -, 05-10-03, -, Walsall (On Loan)
+33, Lewis Macari, SCO, D, 1.83, 82, 08-02-02, Stoke-on-Trent, Notts Co
+1, Mark Travers, IRL, G, 1.91, 82, 18-05-99, Maynooth, Bournemouth
+45, Tommy Simkin, ENG, G, -, -, 08-12-04, Walsall, Forest Green R (On Loan)
+11, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Derby Co
+37, Emre Tezgel, ENG, F, 1.82, 72, 19-09-05, Burton upon Trent, MK Dons (On Loan)

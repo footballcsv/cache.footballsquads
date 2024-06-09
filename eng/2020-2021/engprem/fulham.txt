@@ -1,0 +1,64 @@
+=  Fulham - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alphonse Areola, FRA, G, 1.90, 85, 27-02-93, Paris, Paris St-Germain
+2, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, Lyon
+3, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Chelsea
+4, Denis Odoi, BEL, D, 1.78, 67, 27-05-88, Leuven, Lokeren
+5, Joachim Andersen, DEN, D, 1.92, 90, 31-05-96, Frederiksberg, Lyon
+6, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Wolverhampton W
+9, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Newcastle U
+10, Tom Cairney, SCO, M, 1.83, 72, 20-01-91, Nottingham, Blackburn R
+12, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, MFK Košice
+13, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Bolton W
+14, Bobby Reid, JAM, M, 1.70, 61, 02-02-93, Bristol, Cardiff C
+15, Ruben Loftus-Cheek, ENG, M, 1.91, 88, 23-01-96, Lewisham, Chelsea
+16, Tosin Adarabioyo, ENG, D, 1.96, 80, 24-09-97, Manchester, Manchester C
+17, Ivan Cavaleiro, POR, M, 1.75, 73, 18-10-93, Vialonga, Wolverhampton W
+18, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Southampton
+19, Ademola Lookman, ENG, F, 1.74, 78, 20-10-97, Wandsworth, RB Leipzig
+21, Harrison Reed, ENG, M, 1.81, 72, 27-01-95, Worthing, Southampton
+23, Joe Bryan, ENG, D, 1.70, 72, 17-09-93, Bristol, Bristol C
+25, Joshua Onomah, ENG, M, 1.85, 83, 27-04-97, Enfield, Tottenham H
+27, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Bordeaux
+29, André-Frank Zambo Anguissa, CMR, M, 1.84, 74, 16-11-95, Yaoundé, Marseille
+30, Terence Kongolo, NED, D, 1.83, 70, 14-02-94, Rotterdam, Huddersfield T
+31, Fabricio, ESP, G, 1.85, 77, 31-12-87, Las Palmas, Beşiktaş
+33, Antonee Robinson, USA, D, 1.83, 73, 08-08-97, Milton Keynes, Wigan Ath
+34, Ola Aina, NGA, D, 1.84, 82, 08-10-96, Southwark, Torino
+35, Tyrese Francois, AUS, D, 1.67, 56, 16-07-00, Campbell Town, None
+39, Martell Taylor-Crossdale, ENG, F, 1.85, 77, 26-12-99, Edmonton, Chelsea
+40, George Wickens, ENG, G, -, -, 08-11-01, Petersfield, None
+48, Fabio Carvalho, ENG, M, 1.70, 62, 30-08-02, Lisbon, None
+53, Jaydn Mundle-Smith, ENG, D, 1.83, 75, 17-12-99, Lambeth, None
+54, Jayden Harris, ENG, M, 1.88, 79, 04-09-99, Croydon, None
+55, Sonny Hilton, ENG, M, 1.65, 57, 30-01-01, Liverpool, Tranmere R
+56, Ryan De Havilland, ENG, M, 1.78, 64, 15-06-01, Wimbledon, None
+57, Ben Davis, THA, M, 1.72, 59, 24-11-00, Phuket, None
+58, Sylvester Jasper, ENG, M, -, -, 13-09-01, Southwark, None
+59, Luca Ashby-Hammond, ENG, G, 1.84, 75, 25-03-01, Kingston upon Thames, None
+60, Jean-Pierre Tiehi, FRA, F, -, -, 24-01-02, Paris, Le Havre
+61, Jonathon Page, ENG, M, -, -, 06-09-01, Chertsey, None
+62, Luca Murphy, ENG, D, -, -, 25-09-01, Sunderland, Hartlepool U
+63, Connor McAvoy, SCO, D, -, -, 16-02-02, Chertsey, None
+64, Damian Las, USA, G, 1.85, 72, 11-04-02, Des Plaines, Chicago Fire
+65, Terry Ablade, FIN, F, 1.81, 75, 12-10-01, Accra, FC Jazz
+71, Jay Stansfield, ENG, F, 1.87, 72, 24-11-02, Exeter, Exeter C
+72, Adrion Pajaziti, ENG, M, -, -, 16-11-02, Camden, None
+73, Ollie O'Neill, IRL, M, -, -, 08-01-03, Hammersmith, None
+74, Idris Odutayo, ENG, D, 1.85, 78, 26-10-02, Lambeth, None
+75, Ziyad Larkeche, FRA, D, 1.82, 67, 19-09-02, Paris, Paris St-Germain
+80, Mika Biereth, ENG, F, -, -, 08-02-03, Lambeth, None
+91, Jordan Aina, ENG, D, -, -, 10-12-01, -, None
+92, Lesley Duru, ENG, D, -, -, -, -, Whyteleafe
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Nottingham F (On Loan)
+11, Anthony Knockaert, FRA, M, 1.72, 69, 20-11-91, Lille, Nottingham F (On Loan)
+8, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, QPR (On Loan)
+24, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Bordeaux (On Loan)
+7, Neeskens Kebano, COD, M, 1.80, 75, 10-03-92, Montereau, Middlesbrough (On Loan)
+20, Maxime Le Marchand, FRA, D, 1.80, 68, 10-11-89, Saint Malo, Royal Antwerp (On Loan)
+47, Aboubakar Kamara, MTN, F, 1.78, 80, 07-03-95, Gonesse, Dijon (On Loan)

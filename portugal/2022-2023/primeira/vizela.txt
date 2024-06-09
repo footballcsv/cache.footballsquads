@@ -1,0 +1,38 @@
+=  Vizela - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Bruno Wilson, POR, D, 1.92, 82, 27-12-96, Lisbon, Sporting Braga
+4, Ivanildo, POR, D, 1.93, 83, 26-03-96, Amadora, Sporting CP
+5, Anderson Santos, BRA, D, 1.85, 71, 02-03-95, Lagarto, América Mineiro
+6, Claudemir, BRA, M, 1.85, 72, 27-03-88, Bahia, Sivasspor
+8, Raphael Guzzo, POR, M, 1.77, 70, 06-01-95, São Paulo, Chaves
+9, Milutin Osmajić, MNE, F, 1.86, 82, 25-07-99, Podgorica, Cádiz
+10, Kiko Bondoso, POR, F, 1.71, 66, 17-11-95, Moimenta da Beira, Lusitano FCV
+11, Alexander Schmidt, AUT, F, 1.93, 88, 19-01-98, Vienna, LASK Linz
+13, Luiz Felipe, BRA, G, 1.97, 75, 24-04-97, Rio Grande, Belenenses
+14, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, Fluminense
+15, Monsuru Opeyemi, NGA, M, 1.71, 63, 11-08-03, -, Paidha Black Angels
+16, Matheus Pereira, BRA, D, 1.72, 70, 21-12-00, São Paulo, Cruzeiro
+17, Matías Lacava, VEN, F, 1.68, 62, 10-10-02, Chacao, Academia Puerto Cabello
+19, Alex Méndez, USA, M, 1.78, 70, 06-09-00, Los Angeles, Ajax
+20, Samu, POR, M, 1.70, 66, 21-04-96, São Paio de Oleiros, Boavista
+22, Kévin Zohi, MLI, F, 1.77, 70, 19-12-96, Lopou, Strasbourg
+23, Osama Rashid, IRQ, M, 1.78, 63, 17-01-92, Kirkuk, Khor Fakkan
+24, Kiki, POR, D, 1.81, 76, 10-12-94, Vila Chã, Belenenses
+25, Mohamed Aidara, CIV, D, 1.86, 80, 06-11-96, Abidjan, ASEC Mimosas
+31, Manuel Baldé, GNB, G, 1.94, 88, 14-11-02, Albufeira, Desportivo das Aves
+34, Pedro Ortiz, ESP, M, 1.84, 76, 19-08-00, Palma de Mallorca, Sevilla B
+54, Gonçalo Cunha, POR, D, 1.89, 73, 24-05-02, Guimarães, Pedras Salgadas
+70, Alejandro Alvarado, USA, M, 1.73, 67, 29-07-03, Los Angeles, LA Galaxy
+79, Nuno Moreira, POR, F, 1.75, 65, 16-06-99, Espinho, Sporting CP
+82, Tomás Silva, POR, M, 1.72, 65, 15-10-99, Viana do Castelo, Sporting CP
+90, Friday Etim, NGA, F, 1.86, 82, 21-05-02, Lagos, None
+97, Fabijan Buntić, CRO, G, 1.94, 88, 24-02-97, Stuttgart, Ingolstadt
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Diego Rosa, BRA, M, 1.85, 78, 12-10-02, Salvador, Manchester C
+29, Andrés Sarmiento, COL, M, 1.76, 58, 15-01-98, Luruaco, América de Cali
+7, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Albacete
+99, Francis Cann, GHA, F, 1.74, 61, 06-02-98, Tema, Al-Hazem (On Loan)

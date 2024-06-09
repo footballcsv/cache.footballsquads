@@ -1,0 +1,54 @@
+=  Hull City - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matt Ingram, ENG, G, 1.91, 82, 18-12-93, Croydon, QPR
+2, Lewis Coyle, ENG, D, 1.73, 67, 15-10-95, Kingston upon Hull, Fleetwood T
+3, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Leicester C
+4, Jacob Greaves, ENG, D, 1.85, 70, 12-09-00, Beverley, None
+5, Alfie Jones, ENG, D, 1.91, 70, 07-10-97, Bristol, Southampton
+6, Tobias Figueiredo, POR, D, 1.88, 84, 02-02-94, Sátão, Nottingham F
+7, Ozan Tufan, TUR, M, 1.79, 70, 23-03-95, Bursa, Fenerbahçe
+8, Greg Docherty, SCO, M, 1.77, 72, 10-09-96, Glasgow, Rangers
+9, Allahyar Sayyadmanesh, IRN, F, 1.82, 74, 29-06-01, Amol, Fenerbahçe
+10, Malcolm Ebiowei, ENG, F, -, -, 04-09-03, Lambeth, Crystal Palace
+12, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Newcastle U
+13, Nathan Baxter, ENG, G, 1.91, 76, 08-11-98, Westminster, Chelsea
+14, Harry Vaughan, IRL, M, 1.74, 67, 06-04-04, Trafford, Oldham Ath
+15, Ryan Woods, ENG, M, 1.73, 64, 13-12-93, Norton Canes, Birmingham C
+16, Ryan Longman, ENG, M, 1.80, 73, 06-11-00, Redhill, Brighton & HA
+17, Sean McLoughlin, IRL, D, 1.80, 70, 13-11-96, Cork, Cork C
+18, Adama Traoré, MLI, M, 1.78, 72, 28-06-95, Bamako, Hatayspor
+19, Óscar Estupiñán, COL, F, 1.82, 76, 29-12-96, Cali, Vitória Guimarães
+20, Dimitris Pelkas, GRE, M, 1.75, 68, 26-10-93, Giannitsa, Fenerbahçe
+24, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Fulham
+27, Regan Slater, ENG, M, 1.73, 65, 11-09-99, Sheffield, Sheffield U
+28, Callum Jones, WAL, M, 1.78, 80, 05-04-01, Birkenhead, Bury
+29, Matty Jacob, ENG, D, 1.80, 79, 03-06-01, Barnsley, None
+30, Benjamin Tetteh, GHA, F, 1.90, 83, 10-07-97, Accra, Yeni Malatyaspor
+32, Thimothee Lo-Tutala, FRA, G, 1.85, 71, 13-02-03, Paris, Tottenham H
+33, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Fulham
+35, Xavier Simons, ENG, M, 1.85, 73, 20-02-03, Hammersmith, Chelsea
+36, Will Jarvis, ENG, F, -, -, 17-12-02, York, None
+37, David Robson, WAL, G, 1.84, 81, 22-01-02, Northallerton, None
+41, Jevon Mills, ENG, D, -, -, 27-09-03, Nottingham, None
+42, Harry Fisk, ENG, G, -, -, 28-10-02, Cottingham, None
+44, Aaron Connolly, IRL, F, 1.80, 77, 28-01-00, Galway, Brighton & HA
+45, Alfie Taylor, ENG, D, -, -, 22-02-04, Kingston upon Hull, None
+46, Harry Wood, ENG, M, -, -, 02-08-02, Leeds, None
+49, Vaughn Covil, ENG, M, 1.79, 56, 26-07-03, Salisbury, Forest Green R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Andy Smith, ENG, D, 1.84, 72, 11-09-01, Banbury, Grimsby T (On Loan)
+20, Mallik Wilks, ENG, F, 1.80, 71, 15-12-98, Leeds, Sheffield W
+14, Andy Cannon, ENG, M, 1.76, 74, 14-03-96, Ashton-under-Lyne, Wrexham
+23, Randell Williams, ENG, M, 1.73, 76, 30-12-96, Lambeth, Bolton W
+21, Brandon Fleming, ENG, D, 1.75, 69, 03-12-99, Dewsbury, Oxford U (On Loan)
+11, Doğukan Sinik, TUR, M, 1.75, 66, 21-01-99, Antalya, Antalyaspor (On Loan)
+34, Harvey Vale, ENG, M, -, -, 11-09-03, Hawyards Heath, Chelsea
+10, Salah Oulad M'Hand, NED, M, -, -, 20-08-03, -, Arsenal
+43, Harvey Cartwright, ENG, G, -, -, 09-05-02, Grimsby, Wycombe W (On Loan)
+12, Josh Emmanuel, ENG, D, 1.80, 70, 18-08-97, London, Grimsby T
+22, Tyler Smith, ENG, F, 1.78, 67, 04-12-98, Sheffield, Oxford U (On Loan)
+25, James Scott, SCO, F, 1.88, 87, 30-08-00, Glasgow, Exeter C

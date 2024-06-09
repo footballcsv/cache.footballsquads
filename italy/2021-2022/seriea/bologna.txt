@@ -1,0 +1,54 @@
+=  Bologna - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Luis Binks, ENG, D, 1.88, 87, 02-09-01, Gillingham, Montreal Impact
+3, Aaron Hickey, SCO, D, 1.85, 72, 10-06-02, Glasgow, Hearts
+4, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, SPAL
+5, Adama Soumaoro, CIV, D, 1.86, 93, 18-06-92, Fontenay-aux-Roses, Lille
+6, Arthur Theate, BEL, D, 1.91, 76, 25-05-00, Liège, Oostende
+7, Riccardo Orsolini, ITA, F, 1.83, 73, 24-01-97, Ascoli Piceno, Juventus
+8, Nicolás Domínguez, ARG, M, 1.79, 73, 28-06-98, Haedo, Vélez Sarsfield
+9, Marko Arnautović, AUT, F, 1.93, 83, 19-04-89, Vienna, Shanghai Port
+10, Nicola Sansone, ITA, F, 1.73, 63, 10-09-91, Munich, Villarreal
+11, Luis Rojas, CHI, M, 1.80, 82, 06-03-02, Santiago, Crotone
+12, Marco Molla, ITA, G, 1.92, 72, 19-06-02, Sesto Fiorentino, Prato
+14, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Oppido Mamertina, Benevento
+15, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, Internazionale
+16, Kingsley Michael, NGA, M, 1.76, 70, 26-08-99, Owerri, Football Academy Abuja
+17, Gary Medel, CHI, D, 1.71, 76, 03-08-87, Santiago, Beşiktaş
+19, Federico Santander, PAR, F, 1.87, 84, 04-06-91, San Lorenzo, FC København
+20, Michel Aebischer, SUI, M, 1.82, 74, 06-01-97, Fribourg, Young Boys
+21, Roberto Soriano, ITA, M, 1.82, 76, 08-02-91, Darmstadt, Villarreal
+22, Francesco Bardi, ITA, G, 1.88, 80, 18-01-92, Livorno, Frosinone
+23, Nicola Bagnolini, ITA, G, 1.94, 93, 14-03-04, Cesena, Cesena
+24, Botond Bartha, HUN, M, 1.84, 78, 13-02-03, Budapest, Honvéd
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Torino
+30, Jerdy Schouten, NED, M, 1.85, 72, 12-01-97, Hellevoetsluis, Excelsior
+31, Riccardo Stivanello, ITA, D, 1.88, 76, 24-04-04, Dolo, Cittadella
+32, Mattias Svanberg, SWE, M, 1.85, 77, 05-01-99, Malmö, Malmö FF
+33, Niklas Pyyhtiä, FIN, M, 1.88, 84, 25-09-03, Turku, FC Honka
+35, Mitchell Dijks, NED, D, 1.93, 90, 09-02-93, Purmerend, Ajax
+39, Mattia Motolese, ITA, D, 1.88, -, 13-04-04, Taranto, None
+40, Davide Franzini, ITA, G, -, -, 08-02-05, Thiene, None
+44, Mattia Pagliuca, ITA, M, 1.83, 69, 25-04-02, Bologna, None
+55, Emanuel Vignato, BRA, F, 1.75, 67, 24-08-00, Negrar, Chievo Verona
+66, Wisdom Amey, ITA, D, 1.87, 70, 11-08-05, Bassano del Grappa, None
+71, Denso Kasius, NED, D, 1.83, 69, 06-10-02, Delft, FC Utrecht
+76, Antonio Raimondo, ITA, F, 1.84, 71, 18-03-04, Ravenna, Cesena
+77, Ebenezer Annan, GHA, D, 1.78, 69, 21-08-02, -, None
+82, Kacper Urbański, POL, M, 1.78, 58, 07-09-04, Gdańsk, Lechia Gdańsk
+91, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Sassuolo
+99, Musa Barrow, GAM, F, 1.84, 76, 14-11-98, Banjul, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Andri Fannar Baldursson, ISL, M, 1.87, 76, 10-01-02, Kópavogur, FC København (On Loan)
+24, Stefano Denswil, NED, D, 1.85, 76, 07-05-93, Zaandam, Trabzonspor (On Loan)
+45, Mouhamadou Sarr, SEN, G, 1.90, 78, 05-01-97, Kaolack, Cremonese
+14, Takehiro Tomiyasu, JPN, D, 1.85, 70, 05-11-98, Fukuoka, Arsenal
+68, Omar Khailoti, ITA, D, 1.92, 77, 05-09-01, Macerata, Carrarese (On Loan)
+20, Sydney van Hooijdonk, NED, F, 1.90, 80, 06-02-00, Breda, SC Heerenveen (On Loan)
+11, Andreas Skov Olsen, DEN, F, 1.88, 75, 29-12-99, Hillerød, Club Brugge
+74, Gianmarco Cangiano, ITA, F, 1.70, 62, 16-11-01, Naples, Crotone (On Loan)

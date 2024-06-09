@@ -1,0 +1,21 @@
+# German Bundesliga 2017/2018
+
+18 teams
+- [Augsburg](augsburg.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hertha Berlin](hberlin.txt)
+- [1899 Hoffenheim](hoffen.txt)
+- [1.FC Köln](koln.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FSV Mainz 05](mainz.txt)
+- [FC Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

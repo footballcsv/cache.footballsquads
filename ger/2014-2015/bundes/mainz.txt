@@ -1,0 +1,46 @@
+=  FSV Mainz 05 - German Bundesliga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefanos Kapino, GRE, G, 1.96, 85, 18-03-94, Piraeus, Panathinaikos
+2, Gonzalo Jara, CHI, D, 1.78, 77, 29-08-85, Santiago, Nottingham F
+4, Nikolce Noveski, MKD, D, 1.90, 87, 28-04-79, Bitola, Erzgebirge Aue
+5, Benedikt Saller, GER, M, 1.80, 70, 22-09-92, Munich, 1860 Munich
+6, Johannes Geis, GER, M, 1.77, 73, 07-08-93, Schweinfurt, Greuther Fürth
+7, Pierre Bengtsson, SWE, D, 1.76, 72, 12-04-88, Kumla, FC København
+8, Christoph Moritz, GER, M, 1.86, 73, 27-01-90, Birkesdorf, Schalke
+9, Sami Allagui, TUN, F, 1.82, 77, 28-05-86, Düsseldorf, Hertha Berlin
+11, Yunus Malli, GER, M, 1.79, 74, 24-02-92, Kassel, B Mönchengladbach
+13, Koo Ja-Cheol, KOR, M, 1.83, 75, 27-02-89, Chungju, Wolfsburg
+14, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, Austria Vienna
+15, Pablo De Blasis, ARG, M, 1.64, 65, 04-02-88, La Plata, Asteras Tripolis
+16, Stefan Bell, GER, D, 1.92, 86, 24-08-91, Andernach, None
+17, Jairo, ESP, M, 1.70, 65, 11-07-93, Cabezón de la Sal, Sevilla
+18, Daniel Brosinski, GER, D, 1.78, 65, 17-07-88, Karlsruhe, Greuther Fürth
+19, Elkin Soto, COL, M, 1.78, 71, 04-08-80, Manizales, Barcelona [ECU]
+20, Junior Díaz, CRC, D, 1.85, 76, 12-09-83, San José [CRC], Club Brugge
+21, Loris Karius, GER, G, 1.87, 75, 22-06-93, Biberach, Manchester C
+22, Nicolás Castillo, CHI, F, 1.77, 76, 14-02-93, Santiago, Club Brugge
+23, Shinji Okazaki, JPN, F, 1.73, 70, 16-04-86, Hyogo, Stuttgart
+24, Park Joo-Ho, KOR, D, 1.76, 71, 16-01-87, Seoul, Basel
+26, Niko Bungert, GER, D, 1.88, 68, 24-10-86, Bochum, Kickers Offenbach
+27, Christian Clemens, GER, M, 1.80, 70, 04-08-91, Cologne, Schalke
+28, Todor Nedelev, BUL, M, 1.76, 69, 07-02-93, Plovdiv, Botev Plovdiv
+29, Devante Parker, GER, F, 1.75, 66, 16-03-96, Wiesbaden, None
+30, Patrick Pflücke, GER, M, 1.70, 66, 30-11-96, Dresden, Dynamo Dresden
+31, Jonas Hofmann, GER, M, 1.76, 65, 14-07-92, Heidelberg, Borussia Dortmund
+32, Damian Roßbach, GER, D, 1.88, 78, 27-02-93, Frankfurt am Main, None
+34, Tobias Schilk, GER, D, 1.83, 67, 24-03-92, Munich, 1860 Munich
+38, Robin Zentner, GER, G, 1.93, 96, 28-10-94, Rüdesheim, None
+39, Fabian Kalig, GER, D, 1.80, 75, 28-03-93, Wiesbaden, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Dani Schahin, GER, F, 1.87, 82, 09-07-89, Donetsk, Freiburg (On Loan)
+9, Sebastian Polter, GER, F, 1.92, 87, 01-04-91, Wilhelmshave, Union Berlin (On Loan)
+7, Niki Zimling, DEN, M, 1.75, 73, 19-04-85, Tårnby, Ajax (On Loan)
+36, Nikita Rukavytsya, AUS, F, 1.83, 74, 22-06-87, Mykolaiv, Westen Sydney W
+3, Philipp Wollscheid, GER, D, 1.94, 84, 06-03-89, Wadern, Bayer Leverkusen
+22, Julian Koch, GER, D, 1.84, 76, 11-11-90, Schwerte, St Pauli (On Loan)
+10, Filip Djuričić, SRB, M, 1.76, 72, 30-01-92, Obrenovac, Benfica
+35, Petar Slišković, CRO, F, 1.93, 88, 21-02-91, Sarajevo, Aarau

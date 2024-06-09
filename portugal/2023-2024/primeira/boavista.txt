@@ -1,0 +1,38 @@
+=  Boavista - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Bahia
+5, Chidozie Awaziem, NGA, D, 1.89, 82, 01-01-97, Enugu, FC Porto
+6, Ibrahima Camará, GUI, M, 1.90, 78, 25-01-99, Conakry, Moreirense
+7, Salvador Agra, POR, F, 1.66, 60, 11-11-91, Vila do Conde, Tondela
+8, Bruno Lourenço, POR, M, 1.79, 74, 02-02-98, Lisbon, Estoril
+9, Róbert Boženík, SVK, F, 1.88, 81, 18-11-99, Terchová, Feyenoord
+10, Miguel Reisinho, POR, M, 1.85, 78, 09-04-99, Vila Meã, Vitória Guimarães
+11, Luís Santos, POR, F, 1.76, 68, 20-01-00, Entroncamento, None
+12, Luís Pires, BRA, G, 1.88, 78, 17-11-04, -, None
+13, Masaki Watai, JPN, M, 1.68, 64, 18-07-99, Shizuoka, Tokushima Vortis
+16, Joel Silva, POR, M, 1.85, 70, 11-02-03, Vila Nova de Gaia, None
+18, Ilija Vukotić, MNE, M, 1.91, 76, 07-01-99, Podgorica, Benfica
+20, Filipe Ferreira, POR, D, 1.78, 70, 27-09-90, Lisbon, Tondela
+23, Vincent Sasso, FRA, D, 1.90, 82, 16-02-91, Saint-Cloud, Servette
+24, Sebastián Pérez, COL, M, 1.75, 70, 29-03-93, Envigado, Boca Juniors
+26, Rodrigo Abascal, URU, D, 1.86, 77, 14-01-94, Montevideo, Peñarol
+35, Gonçalo Almeida, POR, D, 1.81, 71, 06-05-03, Porto, Vitória Guimarães
+42, Gaïus Makouta, FRA, M, 1.80, 75, 25-07-97, Beaumont, Sporting Braga
+55, Augusto Dabo, POR, D, -, -, 13-03-04, Bissau, None
+59, Martim Tavares, POR, F, 1.83, 75, 10-11-03, Porto, FC Porto
+70, Bruno Onyemaechi, NGA, D, 1.78, 82, 03-04-99, Owerri, Feirense
+76, Tomé Sousa, POR, G, -, -, 16-12-06, Maia, None
+79, Pedro Malheiro, POR, D, 1.79, 66, 21-01-01, Vila Verde, Vilaverdense
+80, Berna, POR, M, 1.69, 62, 15-09-03, Porto, None
+88, Marco Ribeiro, POR, M, -, -, 14-06-05, Porto, None
+90, Tiago Machado, POR, F, 1.85, 82, 02-04-04, Gondomar, None
+99, João Gonçalves, POR, G, 1.88, 82, 05-11-00, Porto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Pedro Gomes, POR, D, 1.85, 80, 04-06-03, Seixal, Barreirense (On Loan)
+21, Tiago Morais, POR, F, 1.71, 66, 03-09-03, Espinho, Lille
+30, Cristiano Fitzgerald, IRL, F, 1.74, 66, 10-11-03, Singapore, Estrela da Amadora
+27, Jeriel De Santis, VEN, F, 1.90, 83, 18-06-02, El Callao, Alianza Lima

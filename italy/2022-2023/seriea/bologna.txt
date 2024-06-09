@@ -1,0 +1,44 @@
+=  Bologna - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Bardi, ITA, G, 1.88, 80, 18-01-92, Livorno, Frosinone
+3, Stefan Posch, AUT, D, 1.88, 76, 14-05-97, Judenburg, 1899 Hoffenheim
+4, Joaquín Sosa, URU, D, 1.89, 82, 10-01-02, Fray Bentos, Nacional [URU]
+5, Adama Soumaoro, CIV, D, 1.86, 93, 18-06-92, Fontenay-aux-Roses, Lille
+6, Nikola Moro, CRO, M, 1.83, 77, 12-03-98, Solin, Dynamo Moscow
+7, Riccardo Orsolini, ITA, F, 1.83, 73, 24-01-97, Ascoli Piceno, Juventus
+8, Nicolás Domínguez, ARG, M, 1.79, 73, 28-06-98, Haedo, Vélez Sarsfield
+9, Marko Arnautović, AUT, F, 1.93, 83, 19-04-89, Vienna, Shanghai Port
+10, Nicola Sansone, ITA, F, 1.73, 63, 10-09-91, Munich, Villarreal
+11, Joshua Zirkzee, NED, F, 1.93, 84, 22-05-01, Schiedam, Bayern Munich
+12, Francesco Raffaelli, ITA, G, -, -, 21-05-05, Bologna, None
+14, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, SPAL
+17, Gary Medel, CHI, D, 1.71, 76, 03-08-87, Santiago, Beşiktaş
+18, Antonio Raimondo, ITA, F, 1.84, 71, 18-03-04, Ravenna, Cesena
+19, Lewis Ferguson, SCO, M, 1.81, 73, 24-08-99, Hamilton, Aberdeen
+20, Michel Aebischer, SUI, M, 1.82, 74, 06-01-97, Fribourg, Young Boys
+21, Roberto Soriano, ITA, M, 1.82, 76, 08-02-91, Darmstadt, Villarreal
+22, Charalampos Lykogiannis, GRE, D, 1.90, 87, 22-10-93, Piraeus, Cagliari
+23, Nicola Bagnolini, ITA, G, 1.94, 93, 14-03-04, Cesena, Cesena
+24, Riccardo Stivanello, ITA, D, 1.88, 76, 24-04-04, Dolo, Cittadella
+25, Niklas Pyyhtiä, FIN, M, 1.88, 84, 25-09-03, Turku, FC Honka
+26, Jhon Lucumí, COL, D, 1.85, 78, 26-06-98, Cali, KRC Genk
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Torino
+30, Jerdy Schouten, NED, M, 1.85, 72, 12-01-97, Hellevoetsluis, Excelsior
+34, Federico Ravaglia, ITA, G, 1.96, 88, 11-11-99, Bologna, None
+39, Mattia Motolese, ITA, D, 1.88, -, 13-04-04, Taranto, None
+50, Andrea Cambiaso, ITA, D, 1.81, 73, 20-02-00, Genoa, Juventus
+66, Wisdom Amey, ITA, D, 1.87, 70, 11-08-05, Bassano del Grappa, None
+77, Georgios Kyriakopoulos, GRE, D, 1.78, 74, 05-02-96, Patras, Sassuolo
+82, Kacper Urbański, POL, M, 1.78, 58, 07-09-04, Gdańsk, Lechia Gdańsk
+99, Musa Barrow, GAM, F, 1.84, 76, 14-11-98, Banjul, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Matteo Angeli, ITA, D, 1.85, 76, 30-12-02, Cuneo, Renate (On Loan)
+35, Mitchell Dijks, NED, D, 1.93, 90, 09-02-93, Purmerend, Vitesse
+92, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, CFR Cluj
+33, Denso Kasius, NED, D, 1.83, 69, 06-10-02, Delft, Rapid Vienna (On Loan)
+55, Emanuel Vignato, BRA, F, 1.75, 67, 24-08-00, Negrar, Empoli (On Loan)

@@ -1,0 +1,37 @@
+=  Bayer Leverkusen - German Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lukáš Hrádecký, FIN, G, 1.87, 67, 24-11-89, Bratislava, Eintracht Frankfurt
+3, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Olympiakos
+4, Jonathan Tah, GER, D, 1.92, 90, 11-02-96, Hamburg, Hamburg
+5, Sven Bender, GER, D, 1.85, 72, 27-04-89, Rosenheim, Borussia Dortmund
+6, Aleksandar Dragović, AUT, D, 1.84, 76, 06-03-91, Vienna, Dynamo Kyiv
+7, Paulinho, BRA, F, 1.74, 75, 15-07-00, Rio de Janeiro, Vasco da Gama
+8, Lars Bender, GER, M, 1.84, 77, 27-04-89, Rosenheim, 1860 Munich
+9, Leon Bailey, JAM, F, 1.81, 70, 09-08-97, Kingston, KRC Genk
+10, Julian Brandt, GER, F, 1.83, 80, 02-05-96, Bremen, Wolfsburg
+11, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Anderlecht
+13, Lucas Alario, ARG, F, 1.80, 60, 08-10-92, Tostado, River Plate
+15, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, Mainz
+16, Tin Jedvaj, CRO, D, 1.88, 78, 28-11-95, Zagreb, Roma
+17, Joel Pohjanpalo, FIN, F, 1.84, 75, 13-09-94, Helsinki, HJK Helsinki
+18, Wendell, BRA, D, 1.76, 66, 20-07-93, Fortaleza, Grêmio
+20, Charles Aránguiz, CHI, M, 1.72, 67, 17-04-89, Santiago, Internacional
+21, Dominik Kohr, GER, M, 1.83, 75, 31-01-94, Trier, Augsburg
+23, Mitchell Weiser, GER, D, 1.76, 70, 21-04-94, Troisdorf, Hertha Berlin
+24, Thorsten Kirschbaum, GER, G, 1.94, 88, 20-04-87, Würzburg, Nürnberg
+28, Ramazan Özcan, AUT, G, 1.86, 84, 28-06-84, Hohenems, Ingolstadt
+29, Kai Havertz, GER, M, 1.87, 75, 11-06-99, Aachen, Alemannia Aachen
+30, Sam Schreck, GER, M, 1.80, 63, 29-01-99, Pinneberg, St Pauli
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, 1899 Hoffenheim
+33, Jan Boller, GER, D, 1.85, 82, 14-03-00, Siegen, None
+36, Adrian Stanilewicz, POL, M, 1.81, 70, 22-02-00, Solingen, None
+37, Herdi Bukusu, GER, F, 1.77, 77, 03-04-00, , Alemannia Aachen
+38, Karim Bellarabi, GER, M, 1.83, 72, 08-04-90, Berlin, Eintracht Braunschweig
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Benjamin Henrichs, GER, D, 1.81, 74, 23-02-97, Bocholt, Monaco
+32, Jakub Bednarczyk, POL, D, 1.84, 68, 02-01-99, Tarnowskie Góry, St Pauli
+40, Tomasz Kucz, POL, G, 1.84, 70, 06-07-99, Warsaw, DAC Dunajská Streda (On Loan)

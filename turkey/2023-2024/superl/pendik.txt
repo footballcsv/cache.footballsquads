@@ -1,0 +1,45 @@
+=  Pendikspor - Turkish Süper Lig 2023/2024
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Erdem Canpolat, GER, G, 1.94, 85, 13-08-01, Duisburg, Kasımpaşa
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Galatasaray
+5, Badou Ndiaye, SEN, M, 1.79, 74, 27-10-90, Dakar, Adana Demirspor
+6, Nuno Sequeira, BRA, D, 1.84, 82, 19-08-90, Porto, Sporting Braga
+7, Leandro Kappel, NED, F, 1.79, 71, 14-11-89, Amsterdam, Altay
+8, Endri Ҫekiҫi, ALB, F, 1.78, 73, 23-11-96, Pogradec, Konyaspor
+11, Halil Akbunar, TUR, M, 1.70, 61, 09-11-93, İzmir, Eyüpspor
+13, Murat Akça, TUR, D, 1.84, 75, 13-07-90, Istanbul, Altay
+14, Joher Khadim Rassoul, SEN, D, 1.87, 82, 31-12-95, Dakar, Eyüpspor
+15, Umut Mert Toy, TUR, D, 1.88, 80, 08-05-04, Pendik, Sivasspor
+17, Umut Nayir, TUR, F, 1.84, 84, 28-06-93, Kocasinan, Fenerbahçe
+18, Fredrik Midtsjø, NOR, M, 1.76, 70, 11-08-93, Stjørdal, Galatasaray
+20, Berkay Sülüngöz, TUR, D, 1.85, 74, 22-03-96, Solothurn, Eyüpspor
+21, Abdoulay Diaby, MLI, F, 1.72, 70, 21-05-91, Nanterre, Al-Ittihad Kalba
+22, Erdem Özgenç, TUR, D, 1.77, 70, 22-08-84, Sakarya, Ankaragücü
+23, Welinton, BRA, D, 1.87, 83, 10-04-89, Rio de Janeiro, Beşiktaş
+25, Efe Sayhan, TUR, M, 1.76, 73, 01-01-05, Kadıköy, Eyüpspor
+27, Mame Baba Thiam, SEN, F, 1.85, 79, 09-10-92, Ngiudile, Kayserispor
+33, Alpaslan Öztürk, TUR, D, 1.84, 83, 16-07-93, Antwerp, Galatasaray
+35, Burak Öğür, TUR, G, 1.89, 78, 18-09-89, İstanbul, Ümraniyespor
+58, Gökcan Kaya, TUR, M, 1.80, 68, 07-08-95, Randers, Eyüpspor
+61, Serkan Asan, TUR, D, 1.70, 67, 28-04-99, Akçaabat, Trabzonspor
+66, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, Alanyaspor
+70, Melih Güney, TUR, F, -, -, 08-05-05, Üsküdar, None
+76, Murat Akşit, TUR, G, -, -, 02-01-02, Pendik, Yeni Malatyaspor
+78, Erdem Çalık, TUR, M, -, -, 05-06-06, Kartal, None
+90, Emeka Eze, NGA, F, 1.85, 68, 26-09-96, Lagos, Eyüpspor
+99, Erencan Yardımcı, TUR, F, 1.84, 76, 04-02-02, İzmit, Eyüpspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Hasan Kılıç, TUR, M, 1.80, 74, 27-07-92, Utrecht, Sakaryaspor
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, Atromitos
+17, Samet Asatekin, TUR, F, 1.75, 78, 07-02-92, Ümraniye, Tuzlaspor (On Loan)
+15, Aias Aosman, SYR, M, 1.75, 74, 01-01-93, Al-Qamishli, Gençlerbirliği
+4, Josip Vuković, CRO, M, 1.86, 84, 02-05-92, Split, Kocaelispor
+34, Rogerio Thuram, BRA, F, 1.83, 79, 01-02-91, Cairu, Eyüpspor
+9, Görkem Bitin, TUR, F, 1.90, 83, 22-06-98, İzmir, Ankara Keciörengücü (On Loan)
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Botafogo
+24, İbrahim Akdağ, TUR, M, 1.79, 70, 21-07-91, Fatih, Sivasspor
+19, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Alanyaspor

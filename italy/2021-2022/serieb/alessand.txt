@@ -1,0 +1,56 @@
+=  Alessandria - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lorenzo Crisanto, ITA, G, 1.80, 75, 20-04-98, Prato, Roma
+2, Luca Cocino, ITA, D, -, -, 19-06-04, -, None
+3, Luca Coccolo, ITA, D, 1.87, 76, 23-02-98, Cirié, Juventus
+4, Riccardo Chiarello, ITA, M, 1.76, 73, 09-10-93, Arzignano, Giana Erminio
+5, Mirko Gori, ITA, M, 1.77, 76, 04-02-93, Frosinone, Frosinone
+6, Abou-Malal Ba, FRA, M, 1.82, 74, 29-07-98, Saint-Dié, Nantes
+7, Luca Parodi, ITA, D, 1.69, 65, 06-04-95, Savona, Ternana
+8, Gabriel Lunetta, ITA, F, 1.86, 80, 10-08-96, Milan, Atalanta
+10, Michele Marconi, ITA, F, 1.83, 76, 13-05-89, Grosseto, Pisa
+11, Federico Mattiello, ITA, D, 1.84, 70, 14-07-95, Barga, Atalanta
+12, Matteo Pisseri, ITA, G, 1.88, 78, 21-11-91, Parma, Pistoiese
+13, Simone Benedetti, ITA, D, 1.90, 80, 03-04-92, Turin, Pisa
+15, Lorenzo Ariaudo, ITA, D, 1.86, 79, 11-06-89, Turin, Frosinone
+16, Diego Fabbrini, ITA, F, 1.81, 71, 31-07-90, Pisa, Ascoli
+17, Mattia Mustacchio, ITA, M, 1.82, 78, 17-05-89, Chiari, Crotone
+18, Simone Corazza, ITA, F, 1.78, 71, 22-03-91, Latisana, Reggina
+19, Giuseppe Prestia, ITA, D, 1.90, 88, 13-11-93, Palermo, Virtus Francavilla
+20, Francesco Orlando, ITA, F, 1.68, 65, 01-10-96, Taranto, Salernitana
+21, Federico Casarini, ITA, M, 1.81, 72, 07-09-89, Carpi, Novara
+22, Michele Cerofolini, ITA, G, 1.88, 80, 04-01-99, Arezzo, Fiorentina
+23, Antonino Barillà, ITA, M, 1.80, 76, 01-04-88, Reggio Calabria, Monza
+24, Luca Ascoli, ITA, M, -, -, -, -, Torino
+25, Edoardo Pierozzi, ITA, D, 1.82, 73, 12-09-01, Florence, Fiorentina
+26, Andrea Palazzi, ITA, M, 1.78, 70, 24-02-96, Milan, Monza
+27, Lorenzo Pellegrini, ITA, M, 1.70, -, 24-08-03, Sarzana, Novara
+29, Simone Palombi, ITA, F, 1.82, 78, 23-04-96, Tivoli, Lazio
+30, Matteo Di Gennaro, ITA, D, 1.92, 85, 02-06-94, Sant'Elpidio a Mare, Livorno
+31, Gabriele Bellodi, ITA, D, 1.87, 75, 02-09-00, Mantova, Milan
+35, Mauro Ghiozzi, ITA, F, 1.73, -, 27-02-02, Voghera, None
+37, Andrea Filipi, ITA, F, 1.84, -, 29-04-03, -, None
+38, Mikel Dyzeni, ALB, G, 1.86, -, 28-04-04, -, None
+44, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Salernitana
+62, Tommaso Milanese, ITA, M, 1.72, 61, 31-07-02, Galatina, Roma
+72, Aristidi Kolaj, ALB, F, 1.81, 75, 09-04-99, Marino, Sassuolo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Alessandro Macchioni, ITA, D, 1.81, 73, 23-11-02, Turin, Pro Vercelli
+27, Christian Mora, ITA, D, 1.84, 69, 31-12-97, Treviglio, Atalanta
+3, Edoardo Blondett, ITA, D, 1.85, 80, 07-01-92, Genoa, Fermana
+9, Umberto Eusepi, ITA, F, 1.82, 78, 08-01-89, Rome, Juve Stabia (On Loan)
+15, Marco Frediani, ITA, F, 1.78, 65, 13-03-94, Rome, Fermana
+28, Francesco Giorno, ITA, M, 1.78, 74, 11-10-93, Busto Arsizio, Triestina (On Loan)
+5, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Piacenza
+33, Alessandro Russo, ITA, G, 1.96, 82, 31-03-01, Reggio Calabria, Sassuolo
+11, Andrea Arrighini, ITA, F, 1.80, 75, 06-06-90, Pisa, Reggiana
+77, Christian Celesia, ITA, D, 1.83, 73, 22-01-02, Turin, Torino
+14, Andrea Beghetto, ITA, M, 1.82, 73, 11-10-94, Perugia, Pisa
+16, Mirko Bruccini, ITA, M, 1.83, 70, 18-01-86, La Spezia, Mantova
+23, Simone Sini, ITA, D, 1.83, 75, 09-04-92, Sesto San Giovanni, Renate (On Loan)
+24, Mattia Speranza, ITA, M, 1.85, -, 10-11-03, Vigevano, Derthona (On Loan)
+36, Matteo Gerace, ITA, M, 1.82, 75, 27-08-01, Vignole Borbera, Fiorenzuola

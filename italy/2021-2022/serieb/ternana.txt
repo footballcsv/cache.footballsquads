@@ -1,0 +1,50 @@
+=  Ternana - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antony Iannarilli, ITA, G, 1.86, 82, 18-12-90, Alatri, Viterbese
+3, Alessandro Celli, ITA, D, 1.82, 76, 28-01-94, Rome, Teramo
+4, Ndir Mame Ass, ITA, D, 1.91, 76, 24-01-01, Rufisque, Perugia
+5, Antonio Palumbo, ITA, M, 1.82, 73, 06-08-96, Naples, Sampdoria
+6, Ivan Kontek, CRO, D, 1.88, 81, 29-01-97, Zagreb, Aluminij
+7, Federico Furlan, ITA, F, 1.81, 71, 25-11-90, Montebelluna, Sampdoria
+8, Mattia Proietti, ITA, M, 1.80, 70, 27-02-92, Turin, Pescara
+9, Simone Mazzocchi, ITA, F, 1.80, 70, 17-08-98, Milan, Atalanta
+11, Christian Capone, ITA, F, 1.83, 74, 28-04-99, Vigevano, Atalanta
+12, Tommaso Vitali, ITA, G, 1.86, 77, 26-08-99, Terni, None
+13, Modibo Diakité, FRA, D, 1.92, 88, 02-03-87, Bourg-la-Reine, Bari
+15, Frederik Sørensen, DEN, D, 1.94, 88, 14-04-92, Roskilde, Pescara
+17, César Falletti, URU, F, 1.74, 65, 02-12-92, Artigas, Bologna
+18, Pietro Rovaglia, ITA, F, 1.85, 76, 26-02-01, Verona, Chievo Verona
+19, Marco Capuano, ITA, D, 1.86, 79, 14-10-91, Pescara, Frosinone
+20, Fabrizio Paghera, ITA, M, 1.70, 62, 12-12-91, Brescia, Avellino
+21, Anthony Partipilo, ITA, M, 1.81, 74, 27-10-94, Bari, Virtus Francavilla
+22, Titas Krapikas, LTU, G, 1.95, 85, 03-01-99, Kaunas, Spezia
+23, Luca Ghiringhelli, ITA, D, 1.80, 75, 23-01-92, Pavia, Cittadella
+24, Diego Peralta, ITA, F, 1.70, 60, 27-09-96, Livorno, Novara
+25, Marino Defendi, ITA, M, 1.76, 73, 19-08-85, Bergamo, Bari
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Salernitana
+28, Aniello Salzano, ITA, M, 1.81, 74, 20-07-91, Naples, Bari
+29, Salim Diakite, FRA, D, 1.86, 74, 03-07-00, Les Mureaux, Teramo
+32, Stefano Pettinari, ITA, F, 1.85, 77, 27-01-92, Rome, Lecce
+33, Angelo Casadei, ITA, G, 1.96, 84, 08-01-88, Castellammare di Stabia, Bisceglie
+34, Davide Agazzi, ITA, M, 1.74, 68, 02-06-93, Trescore Balneario, Vicenza
+37, Gioacchino Niosi, ITA, F, 1.83, 73, 17-12-01, Messina, Messina
+39, Alessandro Morlupo, ITA, G, 1.87, 74, 13-03-05, Terni, None
+42, Matija Boben, SVK, D, 1.91, 83, 26-02-94, Ljubljana, Livorno
+63, Matteo Ortolani, ITA, F, 1.81, 70, 15-08-00, Roma, Dinamo Tirana
+70, Gabriele Capanni, ITA, F, 1.76, 65, 02-12-00, Città di Castello, Milan
+80, Ilias Koutsoupias, GRE, M, 1.82, 78, 10-05-01, Athens, Virtus Entella
+87, Bruno Martella, ITA, D, 1.84, 78, 14-08-92, Atri, Brescia
+88, Leonardo Mazza, ITA, M, 1.70, 60, 27-09-00, Bentivoglio, Bologna
+99, Alfredo Donnarumma, ITA, F, 1.79, 73, 30-11-90, Torre Annunziata, Brescia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Gabriele Onesti, ITA, F, 1.86, 71, 07-06-02, Rieti, Bologna (On Loan)
+26, Lorenzo Laverone, ITA, M, 1.75, 70, 19-04-89, Bagno a Ripoli, Siena
+27, Dario Bergamelli, ITA, D, 1.85, 74, 26-04-87, Alzano Lombardo, Novara
+10, Daniele Vantaggiato, ITA, F, 1.77, 84, 10-10-84, Brindisi, Livorno
+36, Giuseppe Torromino, ITA, F, 1.76, 72, 21-06-88, Crotone, Livorno
+14, Michele Russo, ITA, D, 1.85, 78, 31-08-86, Genoa, Livorno
+35, Gian Marco Nesta, ITA, M, 1.79, 63, 01-03-00, Narni, Lecco

@@ -1,0 +1,43 @@
+=  Aris - Greek Super League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Denis, BRA, G, 1.88, 86, 14-04-87, Jaú, Gil Vicente
+2, Salem M'Bakata, FRA, D, 1.77, 72, 19-04-98, Kinshasa, Sochaux
+3, Lumor Agbenyenu, GHA, D, 1.75, 70, 15-08-96, Accra, Sporting CP
+4, Fabiano, BRA, D, 1.88, 82, 18-11-91, São José do Oeste, Denizlispor
+5, Giorgos Delizisis, GRE, D, 1.91, 82, 01-12-87, Kozani, Apollon Smyrnis
+7, Daniel Mancini, ARG, M, 1.72, 72, 11-11-96, Tránsito, Bordeaux
+8, Lerin Duarte, NED, M, 1.68, 65, 11-08-90, Rotterdam, Heracles Almelo
+9, Dimitris Manos, GRE, F, 1.79, 79, 16-09-94, Trikala, Olympiakos
+10, Mateo García, ARG, M, 1.67, 55, 10-09-96, Córdoba, Crvena Zvezda
+11, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Marseille
+12, Mohanad Ali, IRQ, F, 1.83, 78, 20-06-00, Baghdad, Al-Duhail
+13, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Leganés
+14, Jakub Brabec, CZE, D, 1.86, 80, 06-08-92, Prague, Viktoria Plzeň
+15, Juan Manuel Iturbe, PAR, F, 1.72, 68, 04-06-93, Capital Federal, UNAM
+16, Bruno Gama, POR, M, 1.75, 73, 15-11-87, Vila Verde, Alcorcón
+17, Badou Ndiaye, SEN, M, 1.79, 74, 27-10-90, Dakar, Stoke C
+18, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Aldosivi (Mar del Plata)
+19, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Las Palmas
+20, Izet Hajrović, BIH, M, 1.77, 71, 04-08-91, Brugg, Dinamo Zagreb
+21, Daniel Sundgren, SWE, D, 1.78, 70, 22-11-90, Solna, AEK
+22, Cristian Ganea, ROU, D, 1.76, 73, 24-05-92, Bistrița, Athletic Bilbao
+23, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Wisła Kraków
+25, Christos Marmaridis, GRE, D, 1.67, 60, 25-05-02, Thessaloniki, PAOK
+26, Javier Matilla, ESP, M, 1.76, 72, 01-01-88, Ciudad Real, Nàstic
+27, Panagiotis Sengergis, GRE, D, -, -, 23-06-01, -, None
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Nottingham F
+35, Zisis Saliaris, GRE, M, -, -, 25-04-03, Thessaloniki, None
+44, Kyriakos Aslanidis, GRE, D, 1.84, 76, 11-03-02, Serres, Olympiakos
+47, Aboubakar Kamara, MTN, F, 1.78, 80, 07-03-95, Gonesse, Fulham
+50, Luis Palma, HON, M, 1.78, 71, 17-01-00, Ceiba, Vida
+66, Emanuel Sakic, AUT, D, 1.77, 74, 25-01-91, Vienna, Sturm Graz
+88, Lucas Sasha, BRA, M, 1.77, 77, 01-03-90, São Paulo, Ludogorets Razgrad
+99, Marios Siabanis, GRE, G, 1.87, 66, 28-09-99, Katerini, Olympiakos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Panagiotis Tsagalidis, GRE, D, -, -, 05-03-01, -, Kalamata (On Loan)
+33, Kostas Chatzipirpiridis, GRE, F, 1.67, 65, 01-05-01, Thessaloniki, Iraklis
+6, James Jeggo, AUS, M, 1.79, 66, 12-02-92, Vienna, Eupen

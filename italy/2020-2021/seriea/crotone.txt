@@ -1,0 +1,50 @@
+=  Crotone - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Parma
+3, Giuseppe Cuomo, ITA, D, 1.90, 79, 02-02-98, Vico Equense, None
+5, Vladimir Golemić, SRB, D, 1.92, 83, 28-06-91, Kruševac, Lugano
+6, Lisandro Magallán, ARG, D, 1.82, 79, 27-09-93, La Plata, Ajax
+7, Adam Ounas, ALG, F, 1.70, 65, 11-11-96, Chambray-les-Tours, Napoli
+8, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilia, Cagliari
+10, Ahmad Benali, LBY, M, 1.73, 66, 07-02-92, Manchester, Pescara
+11, Denis Drăguş, ROU, F, 1.80, 74, 06-07-99, Bucharest, Standard Liège
+13, Sebastiano Luperto, ITA, D, 1.91, 75, 06-09-96, Lecce, Napoli
+16, Marco Festa, ITA, G, 1.90, 85, 06-06-92, Montichiari, Mantova
+17, Salvatore Molina, ITA, M, 1.77, 74, 01-01-92, Garbagnate Milanese, Atalanta
+20, Luis Rojas, CHI, M, 1.80, 82, 06-03-02, Santiago, Universidad de Chile
+21, Niccolò Zanellato, ITA, M, 1.78, 74, 24-06-98, Milan, Milan
+22, Gian Marco Crespi, ITA, G, 1.89, 75, 28-06-01, Udine, Gozzano
+23, Antonio Mazzotta, ITA, D, 1.83, 73, 02-08-89, Palermo, Palermo
+24, Giovanni D'Aprile, ITA, D, 1.87, 73, 01-07-05, Belvedere Marittimo, None
+25, Simy Nwankwo, NGA, F, 1.98, 84, 07-05-92, Lagos, Portimonense
+26, Koffi Djidji, FRA, D, 1.84, 71, 30-11-92, Bagnolet, Torino
+30, Junior Messias, BRA, M, 1.79, 70, 13-05-91, Belo Horizonte, Gozzano
+32, Pedro Pereira, POR, D, 1.85, 72, 22-01-98, Lisbon, Benfica
+33, Andrea Rispoli, ITA, D, 1.88, 78, 29-09-88, Cava de' Tirreni, Lecce
+34, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Verona
+37, Andrea Amerise, ITA, D, 1.93, 80, 28-03-02, Trebisacce, None
+38, Sergio Yakubiv, UKR, D, 1.82, 75, 26-01-02, Aprilia, Ostia Mare
+40, Francesco D'Alterio, ITA, G, 1.88, 72, 11-06-02, Pozzuoli, None
+44, Jacopo Petriccione, ITA, M, 1.76, 75, 22-02-95, Gorizia, Lecce
+46, Antonio Ranieri, ITA, M, 1.77, -, 29-04-03, Catanzaro, None
+47, Massimiliano Mignogna, ITA, D, 1.84, 74, 18-02-03, Naples, Monteruscello
+48, Mattia Timmoneri, ITA, M, 1.73, -, 01-02-03, Catania, None
+54, Samuel Di Carmine, ITA, F, 1.87, 78, 29-09-88, Florence, Verona
+69, Arkadiusz Reca, POL, M, 1.87, 76, 17-06-95, Chojnice, Atalanta
+77, Miloš Vulić, SRB, M, 1.83, 74, 19-08-96, Kruševac, Crvena Zvezda
+95, Eduardo Henrique, BRA, M, 1.86, 73, 17-05-95, Limeira, Sporting CP
+97, Emmanuel Rivière, FRA, F, 1.82, 76, 03-03-90, Lamentin, Cosenza
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Augustus Kargbo, SLE, F, 1.72, 68, 24-08-99, Freetown, Reggiana (On Loan)
+2, Nicolás Spolli, ARG, D, 1.93, 88, 20-02-83, Coronel Bogado, 
+13, Guillaume Gigliotti, FRA, D, 1.84, 72, 09-11-89, Istres, Chievo Verona
+26, Jean Lambert Evan's, FRA, M, 1.76, 71, 17-12-98, Paris, Catanzaro (On Loan)
+28, Giuseppe Borello, ITA, F, 1.67, 60, 28-04-99, Catanzaro, Cesena (On Loan)
+7, Mattia Mustacchio, ITA, M, 1.80, 78, 17-05-89, Chiari, Alessandria
+28, Luca Siligardi, ITA, F, 1.80, 72, 26-01-88, Correggio, Parma
+19, Tomislav Gomelt, CRO, M, 1.85, 75, 07-01-95, Sisak, ADO Den Haag
+14, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Empoli (On Loan)

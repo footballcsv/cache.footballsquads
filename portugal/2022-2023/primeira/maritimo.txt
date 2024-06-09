@@ -1,0 +1,51 @@
+=  Marítimo - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Vasco da Gama
+3, Moisés Mosquera, COL, D, 1.87, 75, 24-05-01, Medellín, Real Santuario
+4, Matheus Costa, BRA, D, 1.90, 80, 26-01-95, Minas Gerais, Vizela
+5, Zainadine Júnior, MOZ, D, 1.78, 75, 24-06-88, Maputo, Tianjin Teda
+6, Rafael Brito, POR, M, 1.84, 78, 19-01-02, Almada, Benfica
+7, André Vidigal, POR, F, 1.76, 67, 17-08-98, Elvas, Fortuna Sittard
+8, Val, BRA, M, 1.78, 69, 12-03-97, Tailândia, Coritiba
+9, Pablo Moreno, ESP, F, 1.78, 73, 03-05-02, Granada, Manchester C
+10, Stefano Beltrame, ITA, F, 1.83, 70, 08-02-93, Biella, CSKA Sofia
+11, Jesús Ramírez, VEN, F, 1.84, 76, 04-05-98, Tovar, Morelia
+12, Edgar Costa, POR, M, 1.80, 72, 14-04-87, Câmara de Lobos, Nacional [POR]
+15, Renê Santos, BRA, D, 1.84, 74, 21-04-92, Salvador, Al-Raed
+16, Diogo Mendes, POR, M, 1.82, 76, 24-01-98, Faro, Benfica
+17, Félix Correia, POR, F, 1.80, 65, 22-01-01, Lisbon, Juventus
+21, João Afonso, BRA, M, 1.81, 81, 09-02-95, Criciúma, Gil Vicente
+23, Bruno Xadas, POR, M, 1.79, 69, 02-12-97, Oliveira de Azeméis, Sporting Braga
+25, Gonçalo Cardoso, POR, D, 1.89, 80, 21-10-00, Marco de Canaveses, West Ham U
+27, Paulinho, POR, D, 1.75, 68, 13-07-91, Santa Marinha, Moreirense
+29, Brayan Riascos, COL, F, 1.80, 71, 10-10-94, Buenaventura, Metalist Kharkiv
+30, Georgi Makaridze, GEO, G, 1.90, 85, 31-03-90, Tbilisi, Ponferradina
+31, Marcelo Carné, BRA, G, 1.87, 84, 06-02-90, Rio de Janeiro, CSA
+36, Percy Liza, PER, F, 1.85, 86, 10-04-00, Chimbote, Sporting Cristal
+38, Léo Pereira, BRA, F, 1.72, 73, 29-06-00, Bauru, Atlético Goianiense
+39, Stanley Kanu, NGA, F, 1.81, 66, 17-01-99, Lagos, Vilar de Perdizes
+40, André Cardoso, POR, M, 1.79, 66, 16-01-01, Madeira, None
+44, André Teles, POR, M, 1.80, 74, 06-04-97, Funchal, None
+45, Fábio China, POR, D, 1.79, 66, 07-07-92, Calheta, Estrela da Calheta
+49, Dylan Collard, MRI, D, 2.01, 96, 16-04-00, Sydney, Stal Rzeszów
+57, Geny Catamo, MOZ, F, 1.74, 66, 26-01-01, Maputo, Sporting CP
+59, Matouš Trmal, CZE, G, 1.94, 81, 02-10-98, Znojmo, Vitória Guimarães
+78, Francisco França, POR, M, 1.86, 81, 16-02-02, Funchal, None
+80, Bruno Miguel, POR, G, 1.90, 84, 16-06-01, Vila Nova de Gaia, Vitória Guimarães
+85, Nito Gomes, GNB, M, 1.84, 77, 03-02-02, Bissau, Trujillo
+94, Vitor Costa, BRA, D, 1.82, 75, 01-07-94, Valente, Inter de Lages
+96, Pedro Teixeira, POR, G, 1.90, 76, 20-11-01, Funchal, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Lucho Vega, ARG, M, 1.86, 78, 09-04-99, Buenos Aires, Sporting Covilhã (On Loan)
+98, Vitor Eudes, BRA, G, 1.95, 85, 21-10-98, Belo Horizonte, Fluminense
+24, Clésio Baúque, MOZ, F, 1.74, 67, 11-10-94, Maputo, 
+20, Miguel Sousa, POR, D, 1.76, 67, 19-09-98, Lisbon, Mafra
+95, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Al-Hazem (On Loan)
+17, Antonio Zarzana, ESP, M, 1.80, 67, 21-03-02, Jerez de la Frontera, Sevilla B
+1, Miguel Silva, POR, G, 1.89, 78, 07-04-95, Guimarães, Beitar Jerusalem
+8, Joel Soñora, USA, M, 1.77, 64, 15-09-96, Dallas, Juárez
+66, Léo Andrade, BRA, D, 1.90, 78, 18-04-98, Curitiba, FC Khimki

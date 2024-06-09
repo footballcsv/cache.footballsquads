@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2023/2024
+
+18 teams
+- [Ajax](ajax.txt)
+- [Almere City](almere.txt)
+- [AZ Alkmaar](azalk.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [Fortuna Sittard](fortuna.txt)
+- [Go Ahead Eagles](goahead.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [FC Volendam](volendam.txt)

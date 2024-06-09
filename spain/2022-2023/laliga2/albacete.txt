@@ -1,0 +1,47 @@
+=  Albacete - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernabé, ESP, G, 1.89, 76, 18-02-93, Los Palacios, Nàstic
+2, Mohamed Djetei, CMR, D, 1.82, 65, 18-08-94, Yaoundé, Córdoba
+3, Juan Antonio Ros, ESP, M, 1.88, 82, 15-03-96, Los Nietos, Lugo
+5, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Las Palmas
+6, Flavien Boyomo, FRA, D, 1.80, 76, 07-10-01, Toulouse, Blackburn R
+7, Juanma, ESP, F, 1.67, 62, 20-02-93, San José de la Rinconada, Burgos
+8, Fran Álvarez, ESP, M, 1.78, 70, 21-01-98, Socovos, Valladolid B
+10, Manu Fuster, ESP, F, 1.69, 65, 22-10-97, Valencia, Guijuelo
+11, Jovanny Bolívar, VEN, F, 1.76, 74, 16-12-01, Acarigua, Deportivo La Guaira
+12, Higinio Marín, ESP, F, 1.84, 74, 19-10-93, Calasparra, Ludogorets Razgrad
+13, Diego Altube, ESP, G, 1.88, 87, 22-02-00, Madrid, Real Madrid B
+14, Sergi Maestre, ESP, M, 1.87, 77, 18-11-90, Barcelona, Badajoz
+16, Jonathan Dubasin, ESP, F, 1.80, 65, 02-02-00, La Seu d'Urgell, Girona
+17, Julio Alonso, ESP, D, 1.71, 62, 14-12-98, Terrassa, Betis B
+18, Riki, ESP, M, 1.75, 70, 25-09-97, Oviedo, Oviedo
+19, Lander Olaetxea, ESP, M, 1.79, 75, 12-04-93, Abadiño, Amorebieta
+20, Diegui Johánnesson, ISL, D, 1.78, 71, 03-10-93, Villaviciosa, Oviedo
+21, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Huesca
+22, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Vizela
+23, Álvaro Rodríguez, ESP, D, 1.81, 77, 22-07-94, Leganés, Burgos
+24, Antonio Cristian, ESP, D, 1.84, 78, 18-10-95, Algeciras, Eibar
+26, Juan María, ESP, D, 1.78, 72, 05-02-01, Rota, Sevilla B
+28, Raúl Valdes, ESP, G, -, -, 23-09-03, -, Albacete B
+29, Rodri Alonso, ESP, M, 1.72, 60, 04-01-03, Castelló de la Plana, Villarreal B
+30, Javi Vargas, ESP, F, -, -, 06-03-01, Villanueva del Ariscal, Extremadura
+31, Borja Marchante, ESP, D, -, -, 24-08-01, -, Pedroñeras
+32, Alex Willy, ESP, F, -, -, 10-02-04, Cuenca, Albacete B
+34, Karim Chaban, ALG, F, 1.82, 72, 06-01-00, Marseille, Difaâ Hassani El Jadidi
+35, Luis Roldán, ESP, M, -, -, 17-03-03, -, Albacete B
+36, Alonso Chilleron, ESP, M, -, -, 07-05-04, -, Albacete B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Marc Llinares, ESP, D, 1.79, 67, 26-08-99, Barcelona, Osasuna B (On Loan)
+22, Sergi García, ESP, M, 1.95, 83, 14-04-99, Barcelona, Sabadell (On Loan)
+30, Pau Resta, ESP, D, 1.85, 75, 14-11-00, La Tallada d'Empordà, Sabadell
+11, Rubén Martínez, ESP, M, 1.67, 60, 08-12-89, Mahón, Lamia
+22, Dani González, ESP, F, 1.86, 78, 18-03-02, Albacete, Atlético Madrid B (On Loan)
+27, Emmanuel Attipoe, GHA, D, 1.78, 70, 22-06-00, Accra, Logroñés (On Loan)
+4, Javi Jiménez, ESP, D, 1.82, 74, 11-03-97, Aldaia, Alcorcón
+9, Andy Kawaya, BEL, M, 1.75, 70, 23-08-96, Brussels, Cultural Leonesa
+15, Javi Martínez, ESP, M, 1.80, 68, 22-12-99, Ólvega, Osasuna
+21, Tomás Reymão, POR, M, 1.90, 80, 14-07-98, Lisbon, 

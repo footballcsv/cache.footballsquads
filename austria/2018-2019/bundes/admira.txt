@@ -1,0 +1,38 @@
+=  Admira Wacker Mödling - Austrian Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andreas Leitner, AUT, G, 1.84, 75, 25-03-94, Leoben, Austria Vienna
+2, Fabio Strauss, AUT, D, 1.95, 84, 06-08-94, Salzburg, Grödig
+3, Milos Spasić, SRB, D, 1.80, 76, 29-01-98, , None
+4, Sebastian Bauer, AUT, D, 1.83, 71, 07-11-92, , Ebreichsdorf
+5, Bjarne Thoelke, GER, D, 1.90, 80, 11-04-92, Gifhorn, Hamburg
+6, Christoph Schößwendter, AUT, D, 1.92, 79, 16-07-88, Zell am See, Union Berlin
+7, Dominik Starkl, AUT, F, 1.76, 70, 06-11-93, St. Pölten, Rapid Vienna
+8, Stephan Zwierschitz, AUT, D, 1.83, 75, 17-09-90, Mödling, St. Pölten
+9, Saša Kalajdžić, AUT, F, 2.00, 76, 07-07-97, Vienna, Donaufeld
+10, Daniel Toth, AUT, M, 1.73, 68, 10-06-87, Vienna, SV Ried
+11, Sinan Bakış, TUR, F, 1.86, 78, 22-04-94, Troisdorf, Bursaspor
+12, Lukas Malicsek, AUT, D, 1.80, 71, 06-06-99, Vienna, None
+13, Pyry Soiri, FIN, F, 1.83, 63, 22-09-94, Ekenäs, Shakhtyor Soligorsk
+14, Morten Hjulmand, DEN, M, 1.85, 77, 25-06-99, Kastrup, FC København
+16, Patrick Schmidt, AUT, F, 1.79, 73, 22-07-98, Eisenstadt, None
+17, Jonathan Scherzer, AUT, D, 1.85, 76, 22-07-95, , Augsburg II
+19, Willi Vorsager, AUT, M, 1.89, 78, 29-06-97, Baden, None
+20, Marco Kadlec, AUT, M, 1.83, 70, 28-02-00, , None
+21, Seth Paintsil, GHA, F, 1.67, 66, 20-05-96, Accra, FF Jaro
+22, Marcus Maier, AUT, M, 1.74, 63, 18-12-95, Vienna, None
+23, Pascal Petlach, AUT, D, 1.84, 80, 18-01-99, , None
+24, Marco Hausjell, AUT, M, 1.76, 68, 06-06-99, , None
+25, Dominik Puster, AUT, M, 1.78, 73, 09-03-99, , None
+27, Emanuel Aiwu, AUT, D, 1.84, 77, 25-12-00, Innsbruck, None
+28, Marcel Köstenbauer, AUT, G, 1.86, 70, 26-08-01, , Juniors OÖ
+29, Manuel Kuttin, AUT, G, 1.95, 94, 17-12-93, Spittal an der Drau, Austria Vienna
+31, Kolja Pusch, GER, M, 1.76, 65, 12-02-93, Wuppertal, Heidenheim
+44, Marin Jakoliš, CRO, F, 1.83, 67, 26-12-96, Šibenik, KSV Roeselare
+99, Florian Fischerauer, AUT, M, 1.70, 63, 01-01-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Marco Sahanek, AUT, M, 1.80, 77, 27-01-90, Vienna, Floridsdorfer AC
+33, Martin Kraus, AUT, G, 1.87, 82, 24-10-93, Mödling, Neusiedl am See

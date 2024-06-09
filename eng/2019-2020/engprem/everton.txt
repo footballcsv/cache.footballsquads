@@ -1,0 +1,67 @@
+=  Everton - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jordan Pickford, ENG, G, 1.85, 77, 07-03-94, Washington, Sunderland
+2, Mason Holgate, ENG, D, 1.84, 63, 22-10-96, Doncaster, Barnsley
+3, Leighton Baines, ENG, D, 1.70, 74, 11-12-84, Liverpool, Wigan Ath
+5, Michael Keane, ENG, D, 1.91, 82, 11-01-93, Stockport, Burnley
+7, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Watford
+8, Fabian Delph, ENG, M, 1.74, 60, 21-11-89, Bradford, Manchester C
+9, Dominic Calvert-Lewin, ENG, F, 1.76, 64, 16-03-97, Sheffield, Sheffield U
+10, Gylfi Sigurðsson, ISL, M, 1.86, 77, 08-09-89, Reykjavik, Swansea C
+11, Theo Walcott, ENG, F, 1.76, 68, 16-03-89, Stanmore, Arsenal
+12, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Barcelona
+13, Yerry Mina, COL, D, 1.93, 75, 23-09-94, Guachené, Barcelona
+17, Alex Iwobi, NGA, M, 1.80, 75, 03-05-96, Lagos, Arsenal
+18, Morgan Schneiderlin, FRA, M, 1.81, 75, 08-11-89, Zettwiller, Manchester U
+19, Djibril Sidibé, FRA, D, 1.82, 73, 29-07-92, Troyes, Monaco
+20, Bernard, BRA, M, 1.67, 52, 08-09-92, Belo Horizonte, Shakhtar Donetsk
+21, André Gomes, POR, M, 1.88, 84, 30-07-93, Vila Nova de Gaia, Barcelona
+22, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Fulham
+23, Séamus Coleman, IRL, D, 1.77, 67, 11-10-88, Killybegs, Sligo R
+25, Jean-Philippe Gbamin, CIV, M, 1.86, 83, 25-05-95, San-Pédro, Mainz
+26, Tom Davies, ENG, M, 1.80, 70, 30-06-98, Liverpool, None
+27, Moise Kean, ITA, F, 1.83, 67, 28-02-00, Vercelli, Juventus
+29, Oumar Niasse, SEN, F, 1.82, 75, 18-04-90, Ouakam, Lokomotiv Moscow
+30, Cuco Martina, CUW, D, 1.85, 77, 25-09-89, Rotterdam, Southampton
+31, João Virgínia, POR, G, 1.90, 80, 10-10-99, Faro, Arsenal
+32, Jarrad Branthwaite, ENG, D, 1.87, 67, 27-06-02, Carlisle, Carlisle U
+34, Beni Baningime, ENG, M, 1.78, 66, 09-09-98, Kinshasa, None
+35, Dennis Adeniran, ENG, M, 1.80, 74, 02-01-99, Southwark, Fulham
+38, Ryan Astley, WAL, D, 1.83, 70, 04-10-01, Welshpool, None
+39, Matty Foulds, ENG, D, 1.83, 74, 17-02-98, Bradford, Bury
+42, Anthony Gordon, ENG, M, 1.73, 62, 24-02-01, Liverpool, None
+43, Alex Denny, ENG, M, 1.86, 81, 12-04-00, Chester, None
+44, Nathangelo Markelo, NED, D, 1.71, 75, 07-01-99, Groningen, FC Volendam
+46, Con Ouzounidis, AUS, D, 1.83, 72, 08-10-99, Camperdown, None
+47, Manasse Mampala, ENG, D, , , 18-07-00, Kinshasa, None
+48, Kyle John, ENG, D, 1.76, 68, 13-02-01, Chester, None
+50, Ellis Simms, ENG, F, 1.83, 73, 05-01-01, Oldham, None
+51, Kieran Phillips, ENG, F, 1.81, 74, 23-06-00, Pontefract, Huddersfield T
+52, Nicolas Hansen, USA, G, , , 10-07-01, , Weston FC
+53, Harry Tyrer, ENG, G, , , 06-12-01, Crosby, None
+54, Joe Anderson, ENG, D, 1.86, 81, 06-02-01, Stalybridge, None
+55, Einar Iversen, NOR, M, , , 06-06-01, , Stord
+56, Žan Luk Leban, SVN, G, , , 15-12-02, , Escola Varsovia
+57, Bobby Carroll, ENG, M, , , 12-10-01, Doncaster, None
+58, MacKenzie Hunt, ENG, M, , , 14-11-01, Liverpool, None
+59, Rhys Hughes, WAL, M, 1.80, 72, 21-09-01, Wrexham, None
+60, Jack Barrett, ENG, G, , , 04-06-02, , None
+61, Lewis Dobbin, ENG, F, , , 03-01-03, Stoke-on-Trent, None
+62, Tyler Onyango, ENG, M, , , 04-03-03, Luton, None
+63, Jack McIntyre, ENG, G, , , 18-10-02, Manchester, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Fraser Hornby, SCO, F, 1.95, 85, 13-09-99, Northampton, Kortrijk (On Loan)
+28, Kevin Mirallas, BEL, M, 1.82, 68, 05-10-87, Liège, Royal Antwerp
+31, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Sporting CP (On Loan)
+61, Jack McIntyre, ENG, G, , , 18-10-02, Manchester, Re-Registered (63)
+40, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Fleetwood T (On Loan)
+14, Cenk Tosun, TUR, F, 1.83, 78, 07-06-91, Wetzlar, Crystal Palace (On Loan)
+33, Harry Charsley, IRL, M, 1.78, 64, 01-11-96, Wirral, Mansfield T
+41, Antony Evans, ENG, M, 1.86, 68, 23-09-98, Fazakerley, Paderborn
+36, Morgan Feeney, ENG, D, 1.90, 77, 08-02-99, Bootle, Tranmere R (On Loan)
+37, Lewis Gibson, ENG, D, 1.85, 73, 19-07-00, Durham, Fleetwood T (On Loan)
+49, Jonas Lössl, DEN, G, 1.95, 89, 01-02-89, Kolding, Huddersfield T (On Loan)

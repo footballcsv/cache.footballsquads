@@ -1,0 +1,56 @@
+=  Wigan Athletic - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jamie Jones, ENG, G, 1.88, 91, 18-02-89, Kirkby, Stevenage
+2, Ryan Nyambe, NAM, D, 1.82, 76, 04-12-97, Katima Mulilo, Blackburn R
+3, Tom Pearce, ENG, D, 1.85, 79, 12-04-98, Ormskirk, Leeds U
+4, Tom Naylor, ENG, M, 1.81, 72, 28-06-91, Sutton-in-Ashfield, Portsmouth
+5, Jack Whatmough, ENG, D, 1.84, 66, 24-06-96, Gosport, Portsmouth
+6, Jordan Cousins, ENG, M, 1.77, 72, 06-03-94, Greenwich, Stoke C
+8, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Sunderland
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Sunderland
+10, Will Keane, IRL, F, 1.87, 78, 11-01-93, Stockport, Ipswich T
+11, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, Stoke C
+12, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Charlton Ath
+14, Anthony Scully, IRL, M, 1.69, 66, 03-12-99, Watford, Lincoln C
+15, Jason Kerr, SCO, D, 1.83, 70, 06-02-97, Edinburgh, St Johnstone
+16, Curtis Tilt, JAM, D, 1.92, 75, 04-08-91, Walsall, Rotherham U
+19, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, None
+20, Miguel Azeez, ENG, M, -, -, 20-09-02, Camden, Arsenal
+21, Joe Bennett, ENG, D, 1.77, 74, 28-03-90, Rochdale, Cardiff C
+22, Christ Tiehi, CIV, M, 1.79, 78, 16-06-98, Paris, Slovan Liberec
+23, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Watford
+24, Omar Rekik, TUN, D, 1.86, 80, 20-12-01, Den Haag, Arsenal
+25, Danel Sinani, LUX, F, 1.85, 70, 05-04-97, Belgrade, Norwich C
+27, Tendayi Darikwa, ZIM, D, 1.88, 77, 13-12-91, Nottingham, Nottingham F
+28, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Hull C
+29, Steven Caulker, SLE, D, 1.90, 76, 29-12-91, Feltham, Fatih Karagümrük
+30, Thelo Aasgaard, NOR, M, 1.70, 72, 02-05-02, Liverpool, None
+31, James Carragher, ENG, D, 1.92, 87, 11-11-02, Liverpool, Liverpool
+32, Charlie Hughes, ENG, D, 1.85, 80, 16-10-03, Salford, None
+34, Martin Kelly, ENG, D, 1.91, 77, 27-04-90, Bolton, WBA
+35, Kieran Lloyd, ENG, D, -, -, 13-10-02, -, Liverpool
+36, Scott Smith, ENG, M, 1.73, 70, 02-07-01, Wigan, None
+40, Sam Tickle, ENG, G, 1.88, 74, 31-03-02, Warrington, None
+41, Luke Brennan, ENG, M, 1.78, 64, 19-10-01, Liverpool, Blackburn R
+42, Harry McHugh, ENG, F, -, -, 14-10-02, Liverpool, None
+43, Chris Sze, ENG, M, -, -, 09-12-03, -, None
+44, Baba Adeeko, IRL, M, -, -, 03-04-03, -, None
+45, Youssef Chentouf, ENG, F, -, -, 10-02-04, -, None
+46, Ethan Mitchell, USA, D, -, -, 13-02-03, Liverpool, Plymouth Arg
+47, Joe Rodwell-Grant, ENG, F, -, -, 18-10-02, Blackburn, Preston NE
+48, Abdi Sharif, ENG, M, -, -, 01-01-01, -, Liverpool
+50, Owen Mooney, ENG, G, -, -, 14-02-04, -, None
+51, Tom Watson, ENG, G, -, -, 27-08-04, -, None
+52, Joe Adams, ENG, M, -, -, 03-06-04, Guernsey, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Jamie McGrath, IRL, M, 1.75, 70, 29-09-96, Dublin, Dundee U (On Loan)
+39, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Hearts (On Loan)
+18, Graeme Shinnie, SCO, M, 1.73, 63, 04-08-91, Aberdeen, Aberdeen (On Loan)
+20, Nathan Broadhead, WAL, F, 1.78, 73, 05-04-98, Bangor, Everton
+25, Rarmani Edmonds-Green, ENG, D, 1.81, 73, 14-01-99, Peckham, Huddersfield T
+49, Josh Stones, ENG, F, 1.80, 79, 12-11-03, Bradford, Ross Co (On Loan)
+7, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, Ross Co (On Loan)

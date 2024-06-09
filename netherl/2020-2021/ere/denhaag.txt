@@ -1,0 +1,51 @@
+=  ADO Den Haag - Dutch Eredivisie 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luuk Koopmans, NED, G, 1.90, 79, 05-11-92, Oss, PSV Eindhoven
+2, Milan van Ewijk, NED, D, 1.75, 68, 08-09-00, Amsterdam, Excelsior Maassluis
+3, Peet Bijen, NED, D, 1.80, 70, 28-01-95, Hengelo, FC Twente
+4, Boy Kemper, NED, D, 1.85, 79, 21-06-99, Purmerend, Ajax
+5, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, Chelsea
+8, John Goossens, NED, M, 1.74, 68, 25-07-88, Heemstede, FC Voluntari
+9, Jonas Arweiler, GER, F, 1.88, 79, 10-04-97, Püttlingen, FC Utrecht
+10, Abdenasser El Khayati, NED, M, 1.85, 75, 07-02-89, Rotterdam, Qatar SC
+14, Kees de Boer, NED, M, 1.79, 65, 13-05-00, Volendam, Swansea C
+15, Dario Del Fabro, ITA, D, 1.89, 75, 24-03-95, Alghero, Juventus
+17, Ilay Elmkies, ISR, M, 1.72, 65, 10-03-00, Nahariya, 1899 Hoffenheim
+18, David Philipp, GER, M, 1.80, 75, 10-04-00, Hamburg, Werder Bremen
+19, Shaquille Pinas, NED, D, 1.82, 67, 19-03-98, Rotterdam, FC Dordrecht
+20, Vicente Besuijen, NED, F, 1.70, 63, 10-04-01, Bogotá, Roma
+21, Bilal Ould-Chikh, NED, F, 1.67, 63, 28-07-97, Roosendaal, Denizlispor
+22, Robert Zwinkels, NED, G, 1.88, 75, 04-05-83, Wateringen, Ajax
+23, Pascu, ESP, M, 1.84, 67, 02-04-00, Santa Pola, Valencia B
+24, Bobby Adekanye, NED, F, 1.75, 70, 14-02-99, Ibadan, Lazio
+25, Jamal Amofa, NED, D, 1.88, 82, 25-11-98, Amsterdam, SC Heerenveen
+26, Sem Steijn, NED, M, 1.73, 61, 17-11-01, Den Haag, None
+27, Yahya Boussakou, NED, F, 1.75, 66, 04-03-00, Den Haag, VV Haaglandia
+28, Maarten Rieder, NED, M, 1.72, 71, 29-09-99, Den Haag, None
+29, Michiel Kramer, NED, F, 1.95, 80, 03-12-88, Rotterdam, FC Utrecht
+30, Youness Mokhtar, NED, M, 1.75, 68, 29-08-91, Utrecht, Columbus Crew
+31, Ricardo Kishna, NED, F, 1.83, 77, 04-01-95, Den Haag, Lazio
+33, Amine Essabri, BEL, F, 1.80, 68, 11-09-01, Den Haag, None
+34, Amar Ćatić, BIH, F, 1.79, 78, 21-01-99, Tilburg, PSV Eindhoven
+35, Youri Schoonderwaldt, NED, G, 1.85, 73, 13-03-00, Den Haag, VFC Vlaardingen
+43, Lassana Faye, NED, D, 1.70, 70, 15-06-98, Rotterdam, Sparta Rotterdam
+51, Gianni Zuiverloon, NED, D, 1.78, 70, 30-12-86, Rotterdam, Kerala Blasters
+53, Daryl Janmaat, NED, D, 1.85, 80, 22-07-89, Leidschendam, Watford
+88, Marko Vejinović, NED, M, 1.86, 67, 03-02-90, Amsterdam, Arka Gdynia
+90, Martin Fraisl, AUT, G, 1.87, 80, 10-05-93, Wolfsbach, Sandhausen
+95, Tomislav Gomelt, CRO, M, 1.85, 75, 07-01-95, Sisak, Crotone
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Erik Falkenburg, NED, M, 1.87, 84, 05-05-88, Leiden, Roda JC
+5, Aaron Meijers, NED, D, 1.76, 77, 28-10-87, Delft, Sparta Rotterdam (On Loan)
+17, Danny Bakker, NED, M, 1.78, 70, 16-01-95, Voorburg, Roda JC (On Loan)
+5, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, 
+7, Andrei Rațiu, ROU, D, 1.83, 74, 20-06-98, Aiud, Villarreal B
+6, Dante Rigo, BEL, M, 1.80, 75, 11-12-98, Tremelo, PSV Eindhoven
+17, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, Panetolikos
+24, Evan Rottier, NED, F, 1.76, 68, 11-02-02, Maassluis, TOP Oss (On Loan)
+10, Ilay Elmkies, ISR, M, 1.72, 65, 10-03-00, Nahariya, Re-Registered (17)
+11, Samy Bourard, BEL, M, 1.78, 64, 10-07-96, Liège, MOL Fehérvár

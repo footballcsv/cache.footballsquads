@@ -1,0 +1,52 @@
+=  Granada - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Nacional [POR]
+2, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Watford
+3, Nehuén Pérez, ARG, D, 1.84, 79, 24-06-00, Hurlingham, Atlético Madrid
+4, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Roma
+5, Luis Milla, ESP, M, 1.75, 65, 07-10-94, Madrid, Tenerife
+6, Germán Sánchez, ESP, D, 1.88, 82, 31-10-86, San Fernando, Tenerife
+7, Luis Suárez, COL, F, 1.85, 74, 02-12-97, Santa Marta, Watford
+8, Yan Brice, CMR, M, 1.76, 70, 26-08-97, Yaoundé, Sevilla
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Fenerbahçe
+10, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería
+11, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Udinese
+12, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Watford
+13, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Málaga B
+14, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Leganés
+15, Carlos Neva, ESP, D, 1.74, 64, 12-06-96, El Puerto de Santa María, Marbella
+16, Víctor Díaz, ESP, D, 1.83, 69, 12-06-88, Huelva, Leganés
+17, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, Rayo Vallecano
+18, Adrián Marín, ESP, D, 1.81, 73, 09-01-97, Torre-Pacheco, Alavés
+19, Ángel Montoro, ESP, M, 1.80, 70, 25-06-88, Valencia, Las Palmas
+20, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Real Madrid
+21, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+22, Domingos Duarte, POR, D, 1.92, 78, 10-03-95, Cascais, Sporting CP
+23, Jorge Molina, ESP, F, 1.88, 72, 22-04-82, Alcoy, Getafe
+24, Kenedy, BRA, M, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+26, Alberto Soro, ESP, M, 1.73, 63, 09-03-99, Ejea de los Caballeros, Real Madrid
+27, Antonio Aranda, ESP, M, 1.75, 62, 07-10-00, Huétor Vega, Granada B
+28, Pepe, ESP, D, 1.85, 63, 02-03-00, Linares, Granada B
+29, Isma, ESP, M, 1.80, 67, 14-02-01, Gójar, Granada B
+31, Arnau Fàbrega, ESP, G, 1.88, 68, 28-06-00, Llançà, Granada B
+33, Echu, ESP, F, 1.73, 65, 11-02-98, Almuñécar, Real Madrid B
+34, Raúl Torrente, ESP, M, 1.93, 79, 01-03-01, Murcia, Granada B
+35, João Costa, POR, G, 1.85, 78, 02-02-96, Barcelos, Mirandés
+36, Juan Ignacio Brunet, ARG, M, 1.90, 87, 24-01-98, Maipú, Polvorín
+37, Álvaro Bravo, ESP, M, 1.84, 70, 04-02-98, Pinto, Real Madrid B
+38, Dani Plomer, ESP, F, 1.83, 78, 30-11-98, Palma de Mallorca, Leganés B
+39, Eris Abedini, SUI, M, 1.90, 76, 29-08-98, Sorengo, Lugano
+40, Carlos León, ESP, M, -, -, 05-12-02, -, Granada Juvenil A
+41, Ángel Jiménez, ESP, G, 1.94, 82, 22-06-02, Granada, Granada Juvenil A
+42, Sergio Barcia, ESP, D, 1.94, 82, 31-12-00, Vigo, Celta Vigo B
+43, Rafa Romero, ESP, G, 1.92, 81, 07-08-03, Jerez de la Frontera, Granada B
+44, Kingsley Fobi, GHA, D, 1.80, 73, 20-09-98, Cape Coast, Watford
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Álex Martínez, ESP, D, 1.76, 64, 12-08-90, Seville, Hércules
+7, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Rayo Vallecano (On Loan)
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Cartagena (On Loan)
+18, Neyder Lozano, COL, D, 1.85, 78, 04-03-94, Quibdó, De-Registered

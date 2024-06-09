@@ -1,0 +1,49 @@
+=  Portimonense - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Lucas, BRA, D, 1.87, 81, 11-05-94, Piracicaba, São Paulo
+4, Willyan, BRA, D, 1.93, 86, 27-01-95, Rio de Janeiro, Cova da Piedade
+6, Henrique Jocú, POR, M, 1.71, 71, 09-09-01, Bissau, Benfica
+7, Ewerton, BRA, M, 1.79, 70, 01-12-92, São Paulo, FC Porto
+9, Fabrício, BRA, F, 1.80, 78, 28-03-90, Hortolândia, Urawa Red Diamonds
+10, Shoya Nakajima, JPN, M, 1.64, 58, 23-08-94, Hachioji, FC Porto
+11, Anderson Oliveira, BRA, F, 1.69, 64, 16-07-98, Sinop, Londrina
+12, Payam Niazmand, IRN, G, 1.93, 82, 06-04-95, Tehran, Sepahan
+13, Shuhei Kawasaki, JPN, F, 1.68, 66, 28-04-01, Kishiwada, Gamba Osaka
+17, Ricardo Matos, POR, M, 1.79, 77, 25-03-00, Vale de Figueira, Olhanense
+18, Fahd Moufi, MAR, D, 1.79, 73, 05-05-96, Mulhouse, Tondela
+20, Luqunihas, BRA, M, 1.67, 65, 03-10-00, Primeiro de Maio, Londrina
+21, Pedro Sá, POR, M, 1.75, 70, 01-12-93, Póvoa de Varzim, Varzim
+22, Filipe Relvas, POR, D, 1.92, 78, 20-09-99, Espinho, Pedras Rubras
+23, Achraf Lazaar, MAR, D, 1.73, 67, 22-01-92, Casablanca, Watford
+25, Giannelli Imbula, FRA, M, 1.83, 77, 12-09-92, Vilvoorde, PFC Sochi
+26, Sana Gomes, GNB, M, -, -, 09-07-02, -, Alverca
+29, Julien Dacosta, FRA, D, 1.82, 77, 29-05-96, Marseille, Coventry C
+32, Kosuke Nakamura, JPN, G, 1.84, 72, 27-02-95, Kita, Kashiwa Reysol
+33, Casagrande, BRA, D, 1.86, 76, 12-05-99, Londrina, Londrina
+38, Paulo Estrela, POR, M, 1.71, 66, 20-02-99, Paços de Ferreira, FC Porto
+39, Wilinton Aponza, COL, F, 1.91, 87, 29-03-00, Cali, Berço
+42, Diogo Rodrigues, POR, D, 1.83, 70, 23-08-99, Vendas Novas, None
+44, Pedrão, BRA, D, 1.94, 80, 03-05-97, São Paulo, Palmeiras
+45, João Veras, BRA, F, 1.82, 75, 26-10-00, Gama, Ponte Preta
+49, Francisco Cardoso, POR, F, 1.70, 55, 19-12-98, Gondomar, Leça do Balio
+70, Iván Angulo, COL, F, 1.70, 62, 22-03-99, Tumaco, Palmeiras
+76, Carlinhos, BRA, F, 1.79, 82, 22-06-94, Camacan, Vasco da Gama
+77, Adewale Sapara, NGA, F, 1.75, 69, 27-01-95, Lagos, Leixões
+85, Bruno Reis, POR, M, 1.76, 68, 20-07-99, Portimão, None
+93, Welinton Júnior, BRA, F, 1.75, 64, 08-06-93, São Paulo, Desportivo das Aves
+94, Samuel, BRA, G, 1.88, 80, 29-03-94, Teixeira de Freitas, Coritiba
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Jafar Salmani, IRN, F, 1.76, 70, 12-01-97, Shadegan, Esteghlal
+14, Beto, POR, F, 1.94, 88, 31-01-98, Lisbon, Udinese (On Loan)
+30, Iago, BRA, M, 1.86, 76, 01-03-00, São Bernardo do Campo, Alverca
+77, Aylton Boa Morte, POR, F, 1.82, 75, 23-09-93, Almada, Khor Fakkan
+2, Jeferson, BRA, D, 1.93, 85, 28-05-92, Salvador, Água Santa (On Loan)
+5, Fali Candé, GNB, D, 1.84, 76, 24-01-98, Bissau, Metz
+1, Ricardo Ferreira, POR, G, 1.88, 76, 03-12-89, Braga, DAC Dunajská Streda
+99, Abraham Marcus, NGA, F, 1.78, 74, 02-01-00, Lagos, Remo Stars
+91, Renato Júnior, BRA, F, 1.90, 78, 05-06-02, São Paulo, Água Santa
+8, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, Botafogo (On Loan)

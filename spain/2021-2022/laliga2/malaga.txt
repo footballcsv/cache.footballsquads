@@ -1,0 +1,51 @@
+=  Málaga - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Barrio, ESP, G, 1.90, 78, 10-02-87, Gijón, Numancia
+2, Víctor Gómez, ESP, D, 1.66, 69, 01-04-00, Olesa de Montserrat, Espanyol B
+3, Javi Jiménez, ESP, D, 1.84, 74, 11-01-96, Quesada, Mirandés
+4, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Eibar
+5, Juande, ESP, D, 1.85, 78, 07-07-99, Córdoba, Málaga B
+6, Ramón, ESP, M, 1.73, 68, 19-04-01, Órgiva, Málaga B
+7, Paulino, ESP, M, 1.81, 75, 27-06-97, Santander, Logroñés
+8, Luis Muñoz, ESP, M, 1.80, 72, 23-02-97, Málaga, Málaga B
+9, Brandon, ESP, F, 1.77, 71, 04-02-95, Santanyí, Osasuna
+10, Jairo, ESP, M, 1.70, 65, 11-07-93, Cabezón de la Sal, Hamburg
+11, Hicham Boussefiane, MAR, M, 1.76, 65, 09-01-98, Rabat, Málaga B
+12, Pablo Chavarría, ARG, F, 1.82, 74, 02-01-88, Las Perdices, Mallorca
+13, Dani Martín, ESP, G, 1.86, 76, 08-07-98, Gijón, Betis
+14, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Mallorca
+15, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Granada
+16, Genaro Rodríguez, ESP, D, 1.84, 76, 23-03-98, Gerena, Mirandés
+17, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Almería
+18, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Espanyol
+19, Jozabed, ESP, M, 1.80, 67, 08-03-91, Mairena del Alcor, Celta Vigo
+20, Ismael, ESP, D, 1.74, 62, 07-03-01, Linares, Atlético Madrid B
+21, Adrián López, ESP, F, 1.83, 73, 08-01-88, San Martín de Teverga, Osasuna
+22, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Valladolid
+23, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Numancia
+24, Braian Cufré, ARG, D, 1.79, 82, 15-12-96, Mar del Plata, Mallorca
+26, Ismael Gutiérrez, ESP, M, 1.77, 71, 07-08-00, Los Palacios y Villafranca, Atlético Madrid B
+27, Daniel Strindholm, SWE, G, -, -, 07-10-01, Stockholm, Málaga B
+28, Alejandro Benítez, ESP, D, 1.69, 55, 15-05-00, Mijas, Málaga B
+29, Loren Zúñiga, EQG, F, 1.80, 74, 18-01-03, Fuerteventura, Málaga B
+30, Alberto Quintana, ESP, M, 1.86, 74, 05-10-01, Villanueva del Trabuco, Málaga B
+31, Andrés Caro, ESP, D, 1.84, 70, 01-02-04, Rincón de la Victoria, Málaga B
+32, Julio, ESP, F, 1.78, 70, 02-11-00, Requena, Málaga B
+33, David Larrubia, ESP, M, 1.72, 59, 20-04-02, Málaga, Málaga B
+34, Haitam Abaida, MAR, F, 1.72, 70, 01-06-02, Polinyà, Málaga B
+36, Antonio Santos, ESP, G, -, -, 15-07-02, -, San Félix
+37, Kevin Villodres, ESP, M, 1.73, 69, 26-02-01, Málaga, San Félix
+38, Bilal Ouacharaf, MAR, F, 1.80, 72, 09-05-02, El Ejido, Málaga B
+39, Roberto Fernández, ESP, M, 1.83, 75, 03-07-02, Puente Genil, San Félix
+41, Moussa Diarra, MLI, D, 1.88, 72, 20-01-02, Bamako, Málaga B
+42, Dani Lorenzo, ESP, M, 1.76, 74, 05-04-03, Marbella, Málaga B
+43, Víctor Olmo, ESP, D, 1.70, 67, 17-06-01, Jerez de la Frontera, Málaga B
+44, Álex Rico, ESP, M, 1.72, 63, 25-01-02, Lleida, Málaga B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Gonzalo Crettaz, ARG, G, 1.84, 78, 28-02-00, Buenos Aires, Badajoz (On Loan)
+18, Alexander González, VEN, D, 1.85, 75, 13-09-92, Caracas, 
+21, Iván Calero, ESP, D, 1.74, 64, 21-04-95, Parla, Alcorcón (On Loan)

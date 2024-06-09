@@ -1,0 +1,69 @@
+=  Manchester City - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Kyle Walker, ENG, D, 1.83, 83, 28-05-90, Sheffield, Tottenham H
+3, Rúben Dias, POR, D, 1.87, 82, 14-05-97, Amadora, Benfica
+5, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Everton
+6, Nathan Aké, NED, D, 1.80, 75, 18-02-95, Den Haag, Bournemouth
+7, Raheem Sterling, ENG, F, 1.70, 69, 08-12-94, Kingston, Liverpool
+8, İlkay Gündoğan, GER, M, 1.80, 80, 24-10-90, Gelsenkirchen, Borussia Dortmund
+9, Gabriel Jesus, BRA, F, 1.75, 73, 03-04-97, São Paulo, Palmeiras
+10, Sergio Agüero, ARG, F, 1.73, 70, 02-06-88, Capital Federal, Atlético Madrid
+11, Oleksandr Zinchenko, UKR, D, 1.75, 61, 15-12-96, Illichivsk, FC Ufa
+13, Zack Steffen, USA, G, 1.90, 86, 02-04-95, Coatesville, Columbus Crew
+14, Aymeric Laporte, ESP, D, 1.91, 87, 27-05-94, Agen, Athletic Bilbao
+16, Rodri, ESP, M, 1.90, 78, 22-06-96, Madrid, Atlético Madrid
+17, Kevin De Bruyne, BEL, M, 1.81, 68, 28-06-91, Drongen, Wolfsburg
+20, Bernardo Silva, POR, M, 1.73, 62, 10-08-94, Lisbon, Monaco
+21, Ferrán Torres, ESP, M, 1.84, 77, 29-02-00, Foios, Valencia
+22, Benjamin Mendy, FRA, D, 1.80, 72, 17-07-94, Longjumeau, Monaco
+25, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Shakhtar Donetsk
+26, Riyad Mahrez, ALG, M, 1.79, 62, 21-02-91, Sarcelles, Leicester C
+27, João Cancelo, POR, D, 1.82, 74, 27-05-94, Barreiro, Juventus
+31, Ederson, BRA, G, 1.88, 89, 17-08-93, Osasco, Benfica
+33, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Derby Co
+34, Philippe Sandler, NED, D, 1.88, 76, 10-02-97, Amsterdam, PEC Zwolle
+47, Phil Foden, ENG, M, 1.71, 70, 28-05-00, Stockport, None
+48, Liam Delap, ENG, F, 1.86, 72, 08-02-03, Winchester, Derby Co
+50, Eric García, ESP, D, 1.82, 79, 09-01-01, Barcelona, Barcelona
+52, Oscar Bobb, NOR, M, -, -, 12-07-03, Oslo, Vålerenga
+53, Samuel Edozie, ENG, F, 1.81, 76, 28-01-03, Lewisham, Millwall
+56, CJ Egan-Riley, ENG, D, 1.83, 70, 02-01-03, Manchester, None
+59, Camron Gbadebo, ENG, D, -, -, 01-07-02, Lambeth, Leicester C
+61, Felix Nmecha, ENG, M, 1.86, 70, 10-10-00, Hamburg, None
+69, Tommy Doyle, ENG, M, 1.72, 73, 17-10-01, Manchester, None
+70, Louie Moulden, ENG, G, -, -, 06-01-02, Bolton, None
+77, Sammy Robinson, ENG, D, -, -, 09-01-02, Cheltenham, None
+79, Luke Mbete-Tabu, ENG, D, -, -, 18-09-03, Westminster, None
+80, Cole Palmer, ENG, M, 1.89, 74, 06-05-02, Wythenshawe, None
+81, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Paris St-Germain
+82, Adrián Bernabé, ESP, M, 1.70, 66, 26-05-01, Barcelona, Barcelona
+83, Timi Sobowale, IRL, D, -, -, 27-01-02, Dundalk, Villa FC
+84, Cieran Slicker, SCO, G, 1.90, 75, 15-09-02, Oldham, None
+85, James Trafford, ENG, G, 1.97, 83, 10-10-02, Carlisle, None
+86, Callum Doyle, ENG, D, 1.85, 71, 03-10-03, Manchester, None
+87, James McAtee, ENG, M, 1.80, 72, 18-10-02, Salford, None
+88, Alpha Dionkou, SEN, D, 1.83, 70, 10-10-01, Sindone, Mallorca
+89, Darko Gyabi, ENG, M, 1.96, 82, 18-02-04, Catford, Millwall
+90, Romeo Lavia, BEL, M, 1.81, 70, 06-01-04, Brussels, Anderlecht
+91, Carlos Forbs, POR, F, 1.69, 65, 19-03-04, Sintra, None
+92, Micah Hamilton, ENG, M, -, -, 13-11-03, Manchester, None
+93, Alex Robertson, ENG, M, 1.82, 67, 17-04-03, Dundee, None
+94, Finley Burns, ENG, D, 1.85, 71, 17-06-03, Southwark, Southend U
+95, Kwaku Oduroh, GHA, D, -, -, 16-10-02, Manchester, None
+96, Ben Knight, ENG, M, -, -, 14-06-02, Cambridge, Ipswich T
+97, Josh Wilson-Esbrand, ENG, D, 1.76, 63, 26-12-02, Hackney, West Ham U
+98, Joshua McNamara, ENG, G, -, -, 12-12-03, Watford, Watford
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Benfica
+65, Matt Smith, WAL, M, 1.76, 71, 22-11-99, Redditch, Doncaster R (On Loan)
+72, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, Lincoln C (On Loan)
+58, Thomas Scott, ENG, G, -, -, 28-10-00, Leeds, Port Vale
+62, Nathanael Ogbeta, ENG, D, 1.88, 81, 28-04-01, Salford, Shrewsbury T
+63, Keyendrah Simmonds, ENG, F, -, -, 31-05-01, Manchester, Birmingham C
+73, Jayden Braaf, NED, F, 1.77, 65, 31-08-02, Amsterdam, Udinese (On Loan)
+76, D'Margio Wright-Phillips, ENG, M, 1.70, 62, 24-09-01, Manchester, Stoke C
+78, Taylor Harwood-Bellis, ENG, D, 1.88, 82, 30-01-02, Stockport, Blackburn R (On Loan)

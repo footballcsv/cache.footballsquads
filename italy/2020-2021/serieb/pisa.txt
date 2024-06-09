@@ -1,0 +1,58 @@
+=  Pisa - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simone Perilli, ITA, G, 1.95, 75, 07-01-95, Rome, Pordenone
+2, Samuele Birindelli, ITA, D, 1.75, 70, 19-07-99, Pisa, None
+3, Eros Pisano, ITA, D, 1.85, 83, 31-03-87, Busto Arsizio, Bristol C
+4, Francesco Belli, ITA, D, 1.79, 69, 16-03-94, Florence, Virtus Entella
+7, Nicholas Siega, ITA, M, 1.76, 70, 25-02-91, Novara, Cittadella
+8, Antonio Caracciolo, ITA, D, 1.85, 73, 30-06-90, Tempio Pausania, Cremonese
+9, Simone Palombi, ITA, F, 1.82, 75, 23-04-96, Tivoli, Lazio
+10, Danilo Soddimo, ITA, F, 1.80, 70, 27-09-87, Rome, Cremonese
+11, Giuseppe Mastinu, ITA, F, 1.75, 77, 09-10-91, Sassari, Spezia
+13, Andrea Meroni, ITA, D, 1.88, 84, 09-01-97, Monza, Sassuolo
+14, Marius Marin, ROU, M, 1.82, 69, 30-08-98, Timişoara, Sassuolo
+15, Alessandro Arapi, ALB, M, 1.80, -, 17-06-02, Pontedera, Empoli
+16, Lorenzo Bechini, ITA, D, 1.85, 68, 19-06-01, Pontedera, Sassuolo
+17, Giuseppe Sibilli, ITA, F, 1.80, 75, 07-08-96, Naples, AlbinoLeffe
+18, Enrico Sibilio, ITA, F, 1.73, 63, 25-03-03, Acerra, None
+19, Luca Vido, ITA, F, 1.82, 75, 03-02-97, Bassano del Grappa, Atalanta
+20, Leonardo Macchi, ITA, D, 1.71, -, 19-05-03, Pontedera, None
+21, Alessandro Quaini, ITA, M, 1.82, 78, 17-09-98, Cremona, Genoa
+22, Leonardo Loria, ITA, G, 1.95, 91, 28-03-99, Erice, Juventus
+23, Francesco Lisi, ITA, M, 1.80, 70, 03-09-89, Rome, Juve Stabia
+24, Marco Varnier, ITA, D, 1.86, 82, 08-06-98, Padua, Atalanta
+25, Lorenzo Masetti, ITA, D, 1.87, 74, 15-02-01, Florence, Empoli
+26, Gaetano Masucci, ITA, F, 1.72, 72, 26-10-84, Avellino, Virtus Entella
+27, Robert Gucher, AUT, M, 1.83, 77, 20-02-91, Graz, Vicenza
+28, Tommaso Lepri, ITA, M, 1.78, -, 22-02-03, La Spezia, Spezia
+29, Gianluca Colnago, ITA, G, -, -, 18-06-03, Milan, Renate
+30, Alessandro De Vitis, ITA, M, 1.83, 76, 15-02-92, Piacenza, Sampdoria
+31, Michele Marconi, ITA, F, 1.86, 76, 13-05-89, Follonica, Alessandria
+32, Andrea Beghetto, ITA, M, 1.82, 73, 11-10-94, Perugia, Frosinone
+33, Simone Benedetti, ITA, D, 1.90, 80, 03-04-92, Turin, Virtus Entella
+34, Matteo Panattoni, ITA, F, 1.84, 71, 19-08-02, Pisa, None
+35, Tommaso Fischer, ITA, D, 1.73, 64, 11-05-03, Pontedera, None
+36, Luca Mazzitelli, ITA, M, 1.87, 76, 15-11-95, Rome, Sassuolo
+37, William Mauro, ITA, D, 1.85, -, 20-05-03, Turin, Juventus
+38, Modesto Edu Mengue, ITA, D, 1.69, -, 03-04-03, Pisa, None
+39, Marco Romiti, ITA, D, 1.64, -, 23-11-03, Lucca, None
+40, Matteo Andreano, ITA, M, -, -, 25-01-03, Vercelli, Juventus
+41, Albi Hanxhari, ALB, M, 1.84, -, 22-05-03, -, Genoa
+42, Leonardo Cenni, ITA, F, 1.75, -, 14-03-03, Pisa, Bologna
+43, Filippo Fischer, ITA, M, -, -, 10-04-05, Pontedera, None
+44, Tommaso Del Rosso, ITA, M, 1.76, -, 31-01-02, Lucca, Fiorentina
+45, Bamba Susso, GAM, F, 1.75, -, 09-10-02, -, Romulea
+66, Stefano Gori, ITA, G, 1.86, 75, 09-03-96, Brescia, Juventus
+77, Davide Marsura, ITA, F, 1.87, 78, 20-02-94, Valdobbiadene, Livorno
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Marco Pompetti, ITA, M, 1.76, 70, 22-05-00, Pescara, Internazionale
+11, Mattia Minesso, ITA, M, 1.73, 70, 30-03-90, Cittadella, Perugia (On Loan)
+15, Roberto Zammarini, ITA, M, 1.80, 73, 05-07-96, Casalmaggiore, Pordenone (On Loan)
+20, Nicolas Izzillo, ITA, M, 1.80, 70, 19-04-94, La Maddalena, Casertana (On Loan)
+32, Thomas Alberti, ITA, F, 1.91, 88, 23-06-98, Asiago, Matelica (On Loan)
+37, Elia Giani, ITA, F, 1.86, 75, 20-12-00, Empoli, Pontedera (On Loan)
+12, Matteo Kucich, ITA, G, 1.89, 79, 01-10-98, Trieste, Cavese (On Loan)

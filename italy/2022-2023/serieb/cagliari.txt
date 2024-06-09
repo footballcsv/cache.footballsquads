@@ -1,0 +1,50 @@
+=  Cagliari - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Boris Radunović, SRB, G, 1.94, 84, 26-05-96, Belgrade, Atalanta
+2, Luigi Palomba, ITA, D, 1.86, 75, 17-04-03, Padua, Padova
+3, Edoardo Goldaniga, ITA, D, 1.93, 87, 02-11-93, Milan, Sassuolo
+4, Alberto Dossena, ITA, D, 1.90, 77, 13-10-98, Brescia, Avellino
+5, Marco Mancosu, ITA, M, 1.80, 77, 22-08-88, Cagliari, SPAL
+6, Marko Rog, CRO, M, 1.80, 74, 19-07-95, Varaždin, Napoli
+8, Nahitan Nández, URU, M, 1.72, 70, 28-12-95, Punta del Este, Boca Juniors
+9, Gianluca Lapadula, PER, F, 1.78, 69, 07-02-90, Turin, Benevento
+10, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Oppido Mamertina, Bologna
+12, Eldin Lolić, BIH, G, 1.90, 80, 15-05-04, Lyon, St-Etienne
+14, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, None
+15, Giorgio Altare, ITA, D, 1.90, 84, 09-08-98, Bergamo, Genoa
+18, Simone Aresti, ITA, G, 1.88, 78, 15-03-86, Carbonia, Olbia
+19, Vincenzo Millico, ITA, F, 1.73, 68, 12-08-00, Turin, Torino
+20, Nik Prelec, SVN, F, 1.86, 80, 10-06-01, Maribor, WSG Tirol
+21, Nicolò Cavuoti, ITA, M, 1.80, 70, 04-04-03, Vasto, Vastese
+22, Giuseppe Ciocci, ITA, G, 1.90, 85, 24-01-02, Cagliari, None
+23, Nunzio Lella, ITA, D, 1.88, 73, 28-07-00, Santeramo in Colle, Bari
+24, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, Spezia
+25, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Crvena Zvezda
+26, Davide Veroli, ITA, M, 1.85, 75, 29-01-03, Ancona, Pescara
+27, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, Monaco
+28, Gabriele Zappa, ITA, D, 1.83, 78, 22-12-99, Monza, Pescara
+29, Antoine Makoumbou, CGO, M, 1.87, 75, 18-07-98, Paris, Maribor
+30, Leonardo Pavoletti, ITA, F, 1.88, 85, 26-11-88, Livorno, Napoli
+31, Velizar-Iliya Iliev, BUL, G, 1.94, -, 20-07-05, Sofia, Levski Sofia
+32, Michele Carboni, ITA, M, -, -, 03-08-04, Sassari, Latte Dolce
+33, Adam Obert, SVK, D, 1.86, 76, 23-08-02, Bratislava, Sampdoria
+34, Francesco Zallu, ITA, D, 1.86, -, 29-04-03, Sassari, None
+35, Adam Griger, SVK, F, 1.92, 81, 16-03-04, Prešov, LASK Linz
+37, Paulo Azzi, BRA, M, 1.88, 78, 15-07-94, Bragança Paulista, Modena
+39, Christos Kourfalidis, GRE, M, 1.78, 71, 11-11-02, Thessaloniki, Makedonikis Litis
+77, Zito Luvumbo, ANG, F, 1.71, 65, 09-03-02, Luanda, 1º de Agosto
+80, Isaías Delpupo, ARG, F, 1.76, 68, 31-03-03, Pergamino, None
+99, Alessandro Di Pardo, ITA, M, 1.82, 75, 18-07-99, Rimini, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Matteo Tramoni, FRA, F, 1.75, 72, 20-01-00, Ajaccio, Pisa
+27, Lisandru Tramoni, ITA, F, 1.80, 68, 18-04-03, Ajaccio, Pisa
+26, Salvatore Boccia, ITA, D, 1.82, 74, 06-06-01, Oristano, Turris (On Loan)
+24, Paolo Faragò, ITA, M, 1.87, 80, 12-02-93, Catanzaro, Como
+17, Jacopo Desogus, ITA, F, 1.74, 71, 01-10-02, Cagliari, Pescara (On Loan)
+40, Sebastian Walukiewicz, POL, D, 1.88, 85, 05-04-00, Gorzów Wielkopolski, Empoli (On Loan)
+20, Gastón Pereiro, URU, F, 1.88, 79, 11-06-95, Montevideo, Nacional [URU] (On Loan)
+16, Franco Carboni, ARG, D, 1.83, 75, 04-04-03, Buenos Aires, Internazionale

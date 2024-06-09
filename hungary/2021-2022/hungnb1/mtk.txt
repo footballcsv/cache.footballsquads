@@ -1,0 +1,49 @@
+=  MTK - Hungarian Nemzeti Bajnokság I 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Milan Mijatović, MNE, G, 1.90, 82, 26-07-87, Pljevlja, Levski Sofia
+2, Bendek Varjú, HUN, D, 1.89, 86, 21-05-01, Győr, Sándor Károly Akadémia
+3, Slobodan Rajković, SRB, D, 1.91, 87, 03-02-89, Belgrade, TSC Bačka Topola
+4, Stefan Spirovski, MKD, M, 1.85, 77, 23-08-90, Bitola, FC Mariupol
+5, Zsombor Nagy, HUN, D, 1.86, 75, 21-03-98, Szeged, SZEOL
+6, Ylber Ramadani, ALB, M, 1.85, 75, 12-04-96, Ferizaj, Vejle
+7, James Weir, ENG, M, 1.77, 71, 04-08-95, Preston, Pohronie
+8, Szabolcs Mezei, HUN, M, 1.72, 60, 18-10-00, Békéscsaba, Békéscsaba
+9, Myke, BRA, F, 1.83, 73, 30-10-92, Curitiba, Kisvárda
+10, Gheorghe Grozav, ROU, M, 1.88, 82, 29-09-90, Alba Iulia, Diósgyőr
+11, Bojan Miovski, MKD, F, 1.89, 82, 24-06-99, Štip, Renova
+12, Adrián Csenterics, HUN, G, 1.96, 90, 08-10-04, Budapest, None
+13, Zalán Vancsa, HUN, F, 1.75, 70, 27-10-04, Budapest, Lommel
+14, Mihály Kata, HUN, M, 1.76, 69, 13-04-02, Budapest, None
+15, János Szépe, SVK, D, 1.88, 84, 15-03-96, Galanta, Mezőkövesd
+16, Sebastián Herrera, COL, D, 1.78, 73, 23-01-95, Antioquia, Rabotnicki Skopje
+17, Branislav Sluka, SVK, D, 1.80, 72, 23-01-99, Žilina, MŠK Žilina
+21, Zoltán Stieber, HUN, M, 1.83, 78, 16-10-88, Budapest, Újpest
+22, Andrej Kadlec, SVK, D, 1.75, 68, 02-02-96, Ilava, ŠKF Sereď
+23, Márk Kovácsréti, HUN, F, 1.86, 72, 01-09-00, Budapest, Kisvárda
+24, Dénes Szakály, HUN, M, 1.79, 65, 15-03-88, Nagyatád, Siófok
+25, Bence Somodi, HUN, G, 1.87, 87, 25-11-88, Eger, Kazincbarcika
+27, Martin Palincsár, HUN, M, 1.76, 65, 03-01-99, Esztergom, None
+28, Clinton Osei, GHA, F, -, -, 17-03-02, -, Kowa Naso
+29, Márkó Futács, HUN, F, 1.96, 89, 22-02-90, Budapest, Olimpija Ljubljana
+30, Bence Várkonyi, HUN, D, 1.87, 74, 18-03-02, Budapest, None
+34, Ádám Miknyóczki, HUN, F, 1.79, 68, 17-08-02, Budapest, Újpest
+35, Mátyás Kovács, HUN, F, 1.81, 75, 07-07-03, Budapest, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Máté Kovács, HUN, M, 1.83, 72, 30-05-01, Budapest, Szentlőrinc (On Loan)
+17, Dániel Prosser, HUN, F, 1.75, 71, 15-06-94, Budapest, SønderjyskE (On Loan)
+77, Ákos Baki, HUN, D, 1.83, 79, 24-08-94, Zalaegerszeg, Mezőkövesd
+17, Zsolt Haraszti, HUN, F, 1.86, 83, 04-11-91, Paks, Paks
+22, Marko Perković, CRO, D, 1.89, 79, 30-08-91, Derventa, De-Registered
+4, Tiago Ferreira, POR, D, 1.83, 76, 10-07-93, Porto, 
+3, Nikolai Alho, FIN, D, 1.72, 74, 12-03-93, Helsinki, Volos
+29, Barnabás Nagy, HUN, D, 1.87, 78, 05-09-00, -, Szentlőrinc (On Loan)
+15, Márk Kosznovszky, HUN, M, 1.77, 66, 17-04-02, Budapest, Tiszakécske (On Loan)
+21, Benjamin Balázs, HUN, D, 1.79, 68, 26-04-90, Kaposvár, Tiszakécske
+26, Andrija Drljo, BIH, F, 1.81, 70, 06-09-02, Mostar, Szentlőrinc (On Loan)
+20, Kaka Godwords, GHA, D, -, -, 07-10-02, -, Nyíregyháza (On Loan)
+24, Srđan Dimitrov, SRB, M, 1.75, 73, 28-07-92, Újvidék, Mladost Novi Sad
+18, Bence Kocsis, HUN, M, 1.80, 75, 23-04-01, Târgu Mureș, Paks

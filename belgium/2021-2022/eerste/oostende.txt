@@ -1,0 +1,38 @@
+=  KV Oostende - Belgian Eerste Klasse A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kjell Scherpen, NED, G, 2.02, 85, 23-01-00, Emmen, Brighton & HA
+3, Zech Medley, ENG, D, 1.95, 90, 09-07-00, Greenwich, Arsenal
+4, Kyle Duncan, USA, D, 1.78, 68, 27-12-97, Brooklyn, New York Red Bulls
+5, Osaze Urhoghide, ENG, D, 1.87, 78, 04-07-00, London, Celtic
+6, Maxime D'Arpino, FRA, M, 1.75, 70, 17-06-96, Villeurbanne, Orléans
+7, Théo Ndicka Matam, FRA, D, 1.69, 66, 20-04-00, Avallon, Lyon
+8, Cameron McGeehan, NIR, M, 1.80, 71, 06-04-95, Kingston-upon-Thames, Barnsley
+9, Makhtar Gueye, SEN, F, 1.95, 90, 04-12-97, Dakar, St-Etienne
+10, Kenny Rocha Santos, CPV, M, 1.74, 67, 03-01-00, São Vicente, Nancy
+11, Indy Boonen, BEL, M, 1.73, 74, 04-01-99, Dilsen, Manchester U
+15, Frederik Jäkel, GER, D, 1.93, 84, 07-03-01, Torgau, RB Leipzig
+17, Steven Fortes, CPV, D, 1.92, 85, 17-04-92, Marseille, Lens
+18, Tatsuhiro Sakamoto, JPN, M, 1.70, 63, 22-10-96, Tokyo, Cerezo Osaka
+19, Manuel Osifo, BEL, D, 1.85, 69, 31-07-03, -, None
+20, Thijs Coninckx, BEL, M, -, -, 27-10-03, -, None
+22, Jordy Schelfhout, BEL, G, 1.81, 69, 19-01-01, -, None
+23, Alfons Amade, GER, M, 1.70, 63, 12-11-99, Heidelberg, 1899 Hoffenheim
+24, Evangelos Patoulidis, BEL, M, 1.76, 71, 24-09-01, -, Standard Liège
+26, Vincent Koziello, FRA, M, 1.68, 58, 28-10-95, Grasse, Köln
+27, Brecht Capon, BEL, D, 1.79, 69, 24-04-88, Ostend, Kortrijk
+28, Guillaume Hubert, BEL, G, 1.97, 88, 11-01-94, Charleroi, Club Brugge
+29, Robbie D'Haese, BEL, M, 1.80, 67, 25-02-99, -, None
+33, Anton Tanghe, BEL, D, 1.94, 84, 28-01-99, Roeselare, Club Brugge
+34, Nick Bätzner, GER, M, 1.70, 62, 15-03-00, Ludwigsburg, Stuttgart II
+36, Siebe Wylin, BEL, D, 1.80, 63, 27-05-03, Roeselare, Club Brugge
+68, Thierry Ambrose, FRA, F, 1.78, 70, 28-03-97, Sens, Metz
+77, David Atanga, GHA, M, 1.80, 65, 25-12-96, Bolgatanga, Holstein Kiel
+99, Alessandro Albanese, BEL, F, 1.74, 64, 12-01-20, Liège, Waasland-Beveren
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Arthur Theate, BEL, D, 1.91, 81, 25-05-00, Liège, Bologna (On Loan)
+4, Jack Hendry, SCO, D, 1.88, 76, 07-05-95, Glasgow, Club Brugge
+21, Marko Kvasina, AUT, F, 1.94, 79, 20-12-96, Vienna, Luzern (On Loan)

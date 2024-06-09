@@ -1,0 +1,58 @@
+=  Ajax - Dutch Eredivisie 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Everton
+2, Jurrien Timber, NED, D, 1.79, 75, 17-06-01, Utrecht, Feyenoord
+3, Calvin Bassey, ITA, D, 1.85, 76, 31-12-99, Aosta, Rangers
+4, Edson Álvarez, MEX, D, 1.85, 73, 24-10-97, Tlalnepantla de Baz, América
+5, Owen Wijndal, NED, D, 1.78, 70, 28-11-99, Zaandam, AZ Alkmaar
+6, Davy Klaassen, NED, M, 1.85, 76, 21-02-93, Hilversum, Werder Bremen
+7, Steven Bergwijn, NED, F, 1.78, 74, 08-10-97, Amsterdam, Tottenham H
+8, Kenneth Taylor, NED, M, 1.78, 72, 16-05-02, Alkmaar, None
+9, Brian Brobbey, NED, F, 1.80, 78, 01-02-02, Amsterdam, RB Leipzig
+10, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, Southampton
+12, Gerónimo Rulli, ARG, G, 1.89, 84, 20-05-92, La Plata, Villarreal
+13, Ahmetcan Kaplan, TUR, D, 1.89, 72, 16-01-03, Trabzon, Trabzonspor
+15, Devyne Rensch, NED, D, 1.79, 68, 18-01-03, Lelystad, None
+18, Lorenzo Lucca, ITA, F, 2.01, 80, 10-09-00, Moncalieri, Pisa
+19, Jorge Sánchez, MEX, D, 1.75, 76, 10-12-97, Torreón, América
+20, Mohammed Kudus, GHA, M, 1.77, 70, 02-08-00, Accra, FC Nordsjælland
+21, Florian Grillitsch, AUT, M, 1.87, 73, 07-08-95, Neunkirchen, 1899 Hoffenheim
+22, Remko Pasveer, NED, G, 1.88, 88, 18-11-83, Enschede, Vitesse
+23, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, Feyenoord
+25, Youri Baas, NED, D, 1.82, 71, 17-03-03, Oostvoorne, None
+26, Youri Regeer, NED, M, 1.78, 75, 18-08-03, Haarlem, None
+28, Kian Fitz-Jim, NED, M, 1.74, 70, 05-07-03, Amsterdam, AZ Alkmaar
+35, Francisco Conceição, POR, F, 1.70, 64, 14-12-02, Coimbra, None
+37, Christian Rasmussen, DEN, F, 1.84, 75, 19-01-03, Lyngby, FC Nordsjaelland
+38, Kristian Hlynsson, ISL, M, -, -, 23-01-04, Odense, None
+39, Mika Godts, BEL, F, 1.76, 72, 07-06-05, Leuven, None
+40, Sontje Hansen, NED, F, 1.73, 70, 18-05-02, Hoorn, None
+41, Silvano Vos, NED, M, -, -, 16-03-05, Amsterdam, None
+42, Ar'Jany Martha, NED, F, -, -, 04-09-03, Rotterdam, None
+43, Olivier Aertssen, NED, D, 1.82, 75, 07-08-04, Veldhoven, None
+44, Mateja Milovanović, SRB, D, 1.81, 79, 18-04-04, Vlaardingen, None
+45, Donny Warmerdam, NED, D, 1.74, 64, 02-01-02, Sassenheim, None
+46, Patrickson Delgado, ECU, M, 1.80, 76, 17-10-03, Ibarra, Independiente del Valle
+47, Tristan Gooijer, NED, D, 1.80, 79, 02-09-04, Blaricum, None
+49, Jaydon Banel, NED, F, -, -, 19-10-04, -, None
+51, Charlie Setford, ENG, G, 1.93, 76, 11-05-04, Haarlem, None
+52, Sten Kremers, NED, G, -, -, 14-02-04, -, None
+53, Tom de Graaff, NED, G, 1.88, 74, 10-12-04, Amsterdam, None
+54, Julian Brandes, NED, M, -, -, 11-05-04, -, None
+55, Gabriel Misehouy, NED, F, -, -, 18-07-05, Amsterdam, None
+56, Amourricho van Axel Dongen, NED, F, 1.75, 70, 29-09-04, Almere, None
+57, Jorrel Hato, NED, D, -, -, 07-03-06, Rotterdam, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Perr Schuurs, NED, D, 1.93, 80, 26-11-99, Nieuwstadt, Torino
+12, Sean Klaiber, NED, D, 1.84, 75, 31-07-94, Nieuwegein, FC Utrecht
+32, Naci Ünüvar, NED, F, 1.68, 64, 13-06-03, Zaandam, Trabzonspor (On Loan)
+11, Antony, BRA, F, 1.72, 63, 24-02-00, Osasco, Manchester U
+39, Kik Pierie, USA, D, 1.83, 70, 20-07-00, Boston, Excelsior (On Loan)
+17, Daley Blind, NED, D, 1.80, 72, 09-03-90, Amsterdam, Bayern Munich
+29, Lisandro Magallán, ARG, D, 1.82, 79, 27-09-93, La Plata, Elche
+11, Lucas Ocampos, ARG, M, 1.87, 84, 11-07-94, Quilmes, Sevilla
+16, Jay Gorter, NED, G, 1.90, 79, 30-05-00, Purmerend, Aberdeen (On Loan)

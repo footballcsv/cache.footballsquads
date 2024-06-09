@@ -1,0 +1,49 @@
+=  Milan - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ciprian Tătăruşanu, ROU, G, 1.98, 90, 09-02-86, Bucharest, Lyon
+2, Davide Calabria, ITA, D, 1.76, 70, 06-12-96, Brescia, None
+4, Ismaël Bennacer, ALG, M, 1.75, 70, 01-12-97, Arles, Empoli
+5, Fodé Ballo-Touré, SEN, D, 1.82, 70, 03-01-97, Conflans-Sainte-Honorine, Monaco
+7, Samu Castillejo, ESP, M, 1.82, 67, 18-01-95, Barcelona, Villarreal
+8, Sandro Tonali, ITA, M, 1.81, 80, 08-05-00, Lodi, Brescia
+9, Olivier Giroud, FRA, F, 1.92, 93, 30-09-86, Chambéry, Chelsea
+10, Brahim Díaz, ESP, M, 1.71, 59, 03-08-99, Málaga, Real Madrid
+11, Zlatan Ibrahimović, SWE, F, 1.95, 95, 03-10-81, Malmö, LA Galaxy
+12, Ante Rebić, CRO, F, 1.85, 78, 21-09-93, Split, Eintracht Frankfurt
+13, Alessio Romagnoli, ITA, D, 1.85, 75, 12-01-95, Anzio, Roma
+16, Mike Maignan, FRA, G, 1.91, 89, 03-07-95, Cayenne, Lille
+17, Rafael Leão, POR, F, 1.88, 81, 10-06-99, Almada, Lille
+19, Théo Hernández, FRA, D, 1.84, 82, 06-10-97, Marseille, Real Madrid
+20, Pierre Kalulu, FRA, D, 1.79, 69, 05-07-00, Saint-Priest, Lyon
+22, Marko Lazetić, SRB, F, 1.90, 80, 22-01-04, Belgrade, Crvena Zvezda
+23, Fikayo Tomori, ENG, D, 1.85, 79, 19-12-97, Calgary, Chelsea
+24, Simon Kjær, DEN, D, 1.90, 86, 26-03-89, Horsens, Sevilla
+25, Alessandro Florenzi, ITA, D, 1.73, 66, 11-03-91, Rome, Roma
+27, Daniel Maldini, ITA, F, 1.81, 74, 11-10-01, Milan, None
+30, Junior Messias, BRA, M, 1.74, 66, 13-05-91, Belo Horizonte, Crotone
+33, Rade Krunić, BIH, M, 1.84, 74, 07-10-93, Foča, Empoli
+41, Tiemoué Bakayoko, FRA, M, 1.89, 72, 17-08-94, Paris, Chelsea
+46, Matteo Gabbia, ITA, D, 1.85, 78, 21-10-99, Busto Arsizio, None
+56, Alexis Saelemaekers, BEL, M, 1.80, 72, 27-06-99, Berchem-Sainte-Agathe, Anderlecht
+62, Enrico Di Gesù, ITA, M, 1.79, 65, 26-03-02, Santo Stefano Quisquina, None
+63, Gabriele El Hilali, ITA, F, 1.78, -, 08-06-03, Milan, None
+70, Andrea Capone, ITA, F, 1.80, 74, 18-03-02, Vigevano, None
+79, Franck Kessie, CIV, M, 1.83, 88, 19-12-96, Ouragahio, Atalanta
+80, Giovanni Robotti, ITA, M, 1.81, 72, 30-01-02, Varese, Alessandria
+83, Antonio Mirante, ITA, G, 1.93, 79, 08-07-83, Castellammare di Stabia, Roma
+90, Sebastiano Desplanches, ITA, G, 1.88, 78, 11-03-03, Novara, Internazionale
+91, Luca Stanga, ITA, D, 1.81, 72, 23-01-02, Brescia, None
+92, Lapo Nava, ITA, G, 1.89, 70, 22-01-04, Milan, None
+93, Emil Roback, SWE, F, 1.86, 73, 03-05-03, Norrköping, Hammarby IF
+96, Andreas Jungdal, DEN, G, 1.91, 82, 22-02-02, Singapore, Vejle
+99, Fotis Pseftis, GRE, G, 1.90, 70, 19-01-03, Athens, Asteras Tripolis
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Tommaso Pobega, ITA, M, 1.88, 75, 15-07-99, Trieste, Torino (On Loan)
+14, Andrea Conti, ITA, D, 1.84, 76, 02-03-94, Lecco, Sampdoria
+64, Pietro Pellegri, ITA, F, 1.88, 80, 17-03-01, Genoa, Monaco
+77, Alessandro Plizzari, ITA, G, 1.91, 73, 12-03-00, Crema, Lecce (On Loan)
+88, Milos Kerkez, HUN, D, 1.76, 71, 07-11-03, Vrbas, AZ Alkmaar

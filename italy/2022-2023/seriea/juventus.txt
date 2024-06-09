@@ -1,0 +1,45 @@
+=  Juventus - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wojciech Szczęsny, POL, G, 1.95, 90, 18-04-90, Warsaw, Arsenal
+2, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Milan
+3, Bremer, BRA, D, 1.88, 82, 18-03-97, Itapitanga, Torino
+5, Manuel Locatelli, ITA, M, 1.80, 70, 08-01-98, Lecco, Sassuolo
+6, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, Manchester C
+7, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, Fiorentina
+9, Dušan Vlahović, SRB, F, 1.90, 75, 28-01-00, Belgrade, Fiorentina
+10, Paul Pogba, FRA, M, 1.91, 84, 15-03-93, Lagny-sur-Marne, Manchester U
+11, Juan Cuadrado, COL, M, 1.79, 71, 26-05-88, Necoclí, Chelsea
+12, Alex Sandro, BRA, D, 1.81, 81, 26-01-91, Catanduva, FC Porto
+14, Arkadiusz Milik, POL, F, 1.86, 78, 28-02-94, Tychy, Marseille
+15, Federico Gatti, ITA, D, 1.85, 78, 24-06-98, Rivoli, Frosinone
+17, Filip Kostić, SRB, M, 1.80, 68, 01-11-92, Kragujevac, Eintracht Frankfurt
+18, Moise Kean, ITA, F, 1.83, 67, 28-02-00, Vercelli, Everton
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Milan
+20, Fabio Miretti, ITA, M, 1.79, 65, 03-08-03, Pinerolo, None
+21, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, Santos
+22, Ángel Di Maria, ARG, F, 1.78, 75, 14-02-88, Rosario, Paris St-Germain
+23, Carlo Pinsoglio, ITA, G, 1.94, 85, 16-03-90, Moncalieri, Vicenza
+24, Daniele Rugani, ITA, D, 1.90, 84, 29-07-94, Lucca, Empoli
+25, Adrien Rabiot, FRA, M, 1.88, 71, 03-04-95, Saint-Maurice, Paris St-Germain
+30, Matías Soulé, ARG, F, 1.76, 71, 15-04-03, Mar del Plata, Vélez Sarsfield
+32, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Paris St-Germain
+36, Mattia Perin, ITA, G, 1.88, 85, 10-11-92, Latina, Genoa
+39, Nikola Sekulov, ITA, M, 1.81, 71, 18-02-02, Piacenza, Pro Piacenza
+40, Cosimo Marco Da Graca, ITA, F, 1.85, 79, 01-05-02, Palermo, Palermo
+41, Giovanni Garofani, ITA, G, 1.88, 65, 20-10-02, Rome, Tor Tre Teste
+42, Tommaso Barbieri, ITA, D, 1.81, 72, 26-08-02, Magenta, Novara
+43, Samuel Iling-Junior, ENG, F, 1.82, 71, 04-10-03, Islington, Chelsea
+44, Nicolò Fagioli, ITA, M, 1.78, 66, 12-02-01, Piacenza, Cremonese
+45, Enzo Barrenechea, ARG, M, 1.86, 81, 25-05-01, Villa María, Sion
+51, Alessandro Pio Riccio, ITA, D, 1.87, 79, 06-02-02, Naples, None
+55, Alessandro Sersanti, ITA, M, 1.82, 78, 16-02-02, Grosseto, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Nicolò Rovella, ITA, M, 1.79, 70, 04-12-01, Segrate, Monza (On Loan)
+28, Denis Zakaria, SUI, M, 1.91, 76, 20-11-96, Kinshasa, Chelsea (On Loan)
+29, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Liverpool (On Loan)
+8, Weston McKennie, USA, M, 1.78, 75, 28-08-98, Little Elm, Leeds U (On Loan)
+33, Marley Aké, FRA, F, 1.77, 68, 05-01-01, Béziers, Dijon (On Loan)

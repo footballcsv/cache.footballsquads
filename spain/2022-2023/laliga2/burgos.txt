@@ -1,0 +1,39 @@
+=  Burgos - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Barrio, ESP, G, 1.90, 78, 10-02-87, Gijón, Málaga
+2, Borja González, ESP, D, 1.76, 70, 17-11-95, Pinto, Rayo Majadahonda
+3, Fran García, ESP, D, 1.77, 74, 07-12-92, Villarreal, Albacete
+4, Míchel Zabaco, ESP, D, 1.85, 77, 06-02-89, Burgos, Logroñés
+5, Miguel Ángel Atienza, ESP, M, 1.86, 77, 27-05-99, Madrid, Eibar
+6, Raúl Navarro, ESP, D, 1.74, 65, 07-02-94, Seville, Valladolid B
+7, Juan Artola, ESP, F, 1.76, 73, 07-04-00, Bilbao, Athletic Bilbao B
+8, Pablo Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Mallorca
+9, Mourad Daoudi, MAR, F, 1.90, 85, 27-05-98, Balsapintada, Elche
+10, Álex Bermejo, ESP, F, 1.83, 75, 11-12-98, Barcelona, Tenerife
+11, Gaspar Campos, ESP, M, 1.75, 73, 27-03-00, Gijón, Sporting Gijón
+12, Sergio Castel, ESP, F, 1.88, 85, 22-02-95, Las Rozas, Ibiza
+13, José Antonio Caro, ESP, G, 1.84, 73, 03-05-94, La Palma del Condado, Valladolid
+14, Unai Elgezábal, ESP, D, 1.85, 74, 25-04-93, Barakaldo, Alcorcón
+15, Juan Hernández, ESP, M, 1.77, 71, 06-12-94, Lorca, Ponferradina
+16, Curro Sánchez, ESP, M, 1.78, 68, 03-01-96, La Palma del Condado, Almería
+17, Andy, ESP, M, 1.85, 79, 30-01-90, Almuñécar, Logroñés
+18, Aitor Córdoba, ESP, D, 1.80, 73, 21-05-95, Bilbao, Leioa
+19, Jesús Areso, ESP, D, 1.82, 81, 02-07-99, Cascante, Osasuna
+20, Grego, ESP, D, 1.84, 74, 05-03-93, Murcia, Sabadell
+21, David Goldar, ESP, D, 1.80, 77, 15-09-94, Vigo, Ibiza
+22, Mumo, ESP, M, 1.80, 81, 13-04-95, Girona, Valencia B
+23, José Matos, ESP, D, 1.69, 68, 06-05-95, Utrera, Cádiz
+24, Javi Pérez, ESP, M, 1.84, 74, 14-08-95, Cabanillas del Campo, Ibiza
+26, Loïc Badiashile, FRA, G, 1.86, 80, 05-02-98, Limoges, Internacional de Madrid
+27, Javi López, ESP, F, 1.83, 75, 05-05-01, Barcelona, Cerdanyola del Vallès
+28, Saúl del Cerro, ESP, M, 1.85, 75, 20-05-04, Burgos, Burgos B
+29, Marcos Gil, ESP, M, -, -, 05-01-01, Soria, Numancia B
+33, Marino Illescas, ESP, M, 1.76, 70, 09-01-01, Écija, Alavés B
+35, Javi Moral, ESP, G, -, -, 19-03-05, -, Burgos B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Iván Serrano, ESP, D, -, -, 07-01-01, Avilés, Linares (On Loan)
+21, Saúl, ESP, F, 1.78, 83, 24-05-86, Oviedo, 

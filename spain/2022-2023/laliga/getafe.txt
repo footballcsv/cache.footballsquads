@@ -1,0 +1,36 @@
+=  Getafe - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francisco Casilla, ESP, G, 1.90, 86, 02-10-86, Alcover, Leeds U
+2, Dakonam Djené, TOG, D, 1.87, 72, 31-12-91, Dapaong, Sint-Truiden
+3, Fabrizio Angileri, ARG, D, 1.88, 84, 15-03-94, Junin, River Plate
+4, Gastón Álvarez, URU, D, 1.84, 72, 24-03-00, Melo, Boston River
+5, Luis Milla, ESP, M, 1.75, 65, 07-10-94, Madrid, Granada
+6, Domingos Duarte, POR, D, 1.92, 78, 10-03-95, Cascais, Granada
+7, Jaime Mata, ESP, F, 1.85, 75, 24-10-88, Madrid, Valladolid
+8, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Huesca
+9, Portu, ESP, F, 1.78, 70, 21-05-92, Murcia, Real Sociedad
+10, Enes Ünal, TUR, F, 1.85, 75, 10-05-97, Bursa, Villarreal
+11, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona
+12, Jordan Amavi, FRA, D, 1.76, 70, 09-03-94, Toulon, Marseille
+13, David Soria, ESP, G, 1.92, 85, 04-04-93, Madrid, Sevilla
+14, Juanmi Latasa, ESP, F, 1.89, 81, 23-03-01, Madrid, Real Madrid B
+15, Omar Alderete, PAR, D, 1.87, 77, 26-12-96, Asunción, Hertha Berlin
+16, Ángel Algobia, ESP, M, 1.80, 78, 23-06-99, Velilla de San Antonio, Rayo Vallecano B
+17, Munir El Haddadi, MAR, F, 1.72, 62, 01-09-95, San Lorenzo de El Escorial, Sevilla
+18, Mauro Arambarri, URU, M, 1.75, 74, 30-09-95, Salto, Boston River
+19, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid
+20, Nemanja Maksimović, SRB, M, 1.84, 75, 26-01-95, Banja Koviljača, Valencia
+21, Juan Iglesias, ESP, D, 1.85, 81, 03-07-98, Valladolid, Logroñés
+22, Damián Suárez, URU, D, 1.72, 61, 27-04-88, Montevideo, Elche
+23, Stefan Mitrović, SRB, D, 1.89, 84, 22-05-90, Belgrade, Strasbourg
+24, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Roma
+26, Koffi, GHA, D, 1.74, 70, 20-11-01, Accra, Getafe B
+27, Diego Conde, ESP, G, 1.88, 85, 20-10-98, Madrid, Atlético Madrid B
+28, John Patrick Finn, ESP, M, 1.93, 80, 24-09-03, Madrid, Getafe B
+29, Gorka Rivera, ESP, D, 1.84, 79, 01-08-04, Leganés, Getafe B
+30, Moi Parra, ESP, M, -, -, 24-06-02, Huelva, Extremadura
+31, Álex Revuelta, ESP, D, -, -, 16-04-00, Jerez de la Frontera, Guadalajara [ESP]
+32, Alex Rodríguez, ESP, D, 1.78, 73, 21-03-02, Fuenlabrada, Getafe B
+33, Vicente Bellmunt, ESP, G, -, -, 28-01-00, -, Acero
+36, Pablo Ramírez, ESP, D, -, -, 18-03-03, -, Getafe B

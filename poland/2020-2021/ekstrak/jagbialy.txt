@@ -1,0 +1,51 @@
+=  Jagiellonia Białystok - Polish Ekstraklasa 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pāvels Šteinbors, LVA, G, 1.91, 81, 21-09-85, Riga, Arka Gdynia
+2, Andrej Kadlec, SVK, D, 1.75, 68, 02-02-96, Ilava, Spartak Trnava
+3, Błażej Augustyn, POL, D, 1.91, 89, 26-01-88, Strzelin, Lechia Gdańsk
+4, Myroslav Mazur, UKR, D, 1.94, 75, 11-08-98, Kyiv, Umeå FC
+5, Bojan Nastić, SRB, D, 1.77, 69, 06-07-94, Novi Sad, BATE
+6, Taras Romanczuk, UKR, M, 1.86, 73, 14-11-91, Kovel, Legionovia Legionowo
+7, Konrad Wrzesiński, POL, M, 1.77, 65, 10-09-93, Pułtusk, Kairat Almaty
+8, Przemysław Mystkowski, POL, M, 1.74, 62, 25-04-98, Białystok, None
+10, Maciej Makuszewski, POL, M, 1.76, 70, 29-09-89, Grajewo, Lech Poznań
+11, Jesús Imaz, ESP, M, 1.78, 74, 26-09-90, Lleida, Wisła Kraków
+12, Godfrey Bitok Stephen, NGA, D, 1.85, 76, 22-08-00, Jos, Isloch
+13, Fedor Černych, LTU, M, 1.82, 75, 21-05-91, Moscow, Dynamo Moscow
+14, Tomáš Přikryl, CZE, M, 1.78, 69, 04-07-92, Olomouc, Mladá Boleslav
+15, Kris Twardek, CAN, M, 1.91, 79, 08-03-97, Ottawa, Bohemians
+16, Ariel Borysiuk, POL, M, 1.78, 70, 29-07-91, Biała Podlaska, Sheriff Tiraspol
+17, Ivan Runje, CRO, D, 1.92, 76, 09-10-90, Split, Omonia Nicosia
+21, Jakov Puljić, CRO, F, 1.87, 72, 04-08-93, Vinkovci, Rijeka
+22, Oliwier Wojciechowski, POL, M, -, -, 05-04-05, -, None
+23, Fernán López, ESP, M, 1.69, 59, 10-02-95, Nigrán, Gabala
+25, Bogdan Ţîru, ROU, D, 1.85, 80, 15-03-94, Constanţa, FC Viitorul
+26, Martin Pospíšil, CZE, M, 1.78, 73, 26-06-91, Bělkovice-Lašťany, Jablonec
+27, Bartłomiej Wdowik, POL, D, 1.84, 72, 25-09-00, Olkusz, Odra Opole
+28, Kamil Wojtkowski, POL, M, 1.73, 66, 26-02-98, Sokołów Podlaski, Wisła Kraków
+30, Miłosz Matysik, POL, D, 1.90, 78, 26-04-04, Białystok, None
+31, Bartosz Bida, POL, F, 1.75, 64, 21-02-01, Rzeszów, Stal Rzeszów
+35, Szymon Pankiewicz, POL, D, -, -, 09-02-01, Jasło, Karpaty Krosno
+36, Maciej Bortniczuk, POL, F, 1.80, 73, 06-09-01, Białystok, None
+38, Paweł Olszewski, POL, D, 1.78, 68, 07-06-99, Wrocław, FC Wrocław Academy
+39, Jan Majsterek, POL, D, 1.87, 80, 09-06-00, Garwolin, Escola Varsovia
+41, Jakub Lutostański, POL, F, -, -, 17-09-04, Zambrów, None
+42, Jakub Orpik, POL, M, 1.83, 70, 26-10-03, Białystok, None
+44, Krzysztof Toporkiewicz, POL, F, 1.76, 70, 21-04-02, Limanowa, AKS SMS Łódź
+55, Xavier Dziekoński, POL, G, 1.88, 78, 06-10-03, Grajewo, None
+96, Damian Węglarz, POL, G, 1.87, 75, 21-03-96, Bydgoszcz, Zawisza Bydgoszcz
+99, Bartosz Kwiecień, POL, D, 1.86, 80, 07-05-94, Starachowice, Korona Kielce
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Dawid Szymonowicz, POL, D, 1.84, 67, 07-07-95, Lidzbark Warmiński, Cracovia Kraków (On Loan)
+77, Martin Košťál, SVK, M, 1.79, 62, 23-02-96, Nové Zámky, Senica (On Loan)
+4, Wojciech Blyszko, POL, D, 1.97, 89, 05-10-99, Drawsko Pomorskie, Stal Mielec (On Loan)
+20, Maciej Mas, POL, F, 1.93, 80, 15-05-01, Łódź, GKS Bełchatów (On Loan)
+9, Szymon Sobczak, POL, F, 1.81, 74, 07-12-92, Zakopane, Zagłębie Sosnowiec
+32, Mateusz Wyjadłowski, POL, M, 1.73, 67, 04-01-00, Kraków, Puszcza Niepołomice (On Loan)
+7, Juan Cámara, ESP, M, 1.80, 66, 13-02-94, Jaén, Universitatea Craiova (On Loan)
+15, Zoran Arsenić, CRO, D, 1.87, 75, 02-06-94, Osijek, Raków Częstochowa (On Loan)
+19, Böðvar Böðvarsson, ISL, D, 1.86, 80, 09-04-95, Hafnarfjörður, 

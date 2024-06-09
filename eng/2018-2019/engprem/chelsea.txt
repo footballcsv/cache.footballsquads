@@ -1,0 +1,67 @@
+=  Chelsea - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kepa Arrizabalaga, ESP, G, 1.89, 84, 03-10-94, Ondarroa, Athletic Bilbao
+2, Antonio Rüdiger, GER, D, 1.90, 85, 03-03-93, Berlin, Roma
+3, Marcos Alonso, ESP, D, 1.88, 84, 28-12-90, Madrid, Fiorentina
+5, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, Napoli
+6, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Leicester C
+7, Ngolo Kanté, FRA, M, 1.68, 68, 29-03-91, Paris, Leicester C
+8, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, Everton
+9, Gonzalo Higuaín, ARG, F, 1.86, 89, 10-12-87, Brest, Juventus
+10, Eden Hazard, BEL, M, 1.73, 76, 07-01-91, La Louvière, Lille
+11, Pedro, ESP, M, 1.69, 65, 28-07-87, Santa Cruz de Tenerife, Barcelona
+12, Ruben Loftus-Cheek, ENG, M, 1.91, 88, 23-01-96, Lewisham, None
+13, Wilfredo Caballero, ARG, G, 1.86, 80, 28-09-81, Salta Elena, Manchester C
+17, Mateo Kovačić, CRO, M, 1.81, 75, 06-05-94, Linz, Real Madrid
+18, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Arsenal
+20, Callum Hudson-Odoi, ENG, M, 1.77, 75, 07-11-00, Wandsworth, None
+21, Davide Zappacosta, ITA, D, 1.82, 70, 11-06-92, Sora, Torino
+22, Willian, BRA, M, 1.75, 77, 09-08-88, Ribeirão Pires, Anzhi Makhachkala
+24, Gary Cahill, ENG, D, 1.93, 86, 19-12-85, Sheffield, Bolton W
+27, Andreas Christensen, DEN, D, 1.88, 68, 10-04-96, Allerød, Brøndby
+28, César Azpilicueta, ESP, D, 1.78, 78, 28-08-89, Pamplona, Marseille
+30, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Paris St-Germain
+31, Robert Green, ENG, G, 1.91, 93, 18-01-80, Chertsey, Huddersfield T
+33, Emerson Palmieri, ITA, D, 1.76, 63, 03-08-94, Santos, Roma
+36, Kyle Scott, USA, M, 1.72, 60, 12-12-97, Bath, None
+43, Iké Ugbo, ENG, F, 1.86, 73, 21-09-98, Lewisham, None
+44, Ethan Ampadu, WAL, D, 1.82, 72, 14-09-00, Exeter, Exeter C
+47, Joseph Colley, SWE, D, 1.87, 78, 13-04-99, Kanifing, IF Brommapojkarna
+48, Richard Nartey, ENG, D, , , 06-09-98, Hammersmith, None
+49, Luke McCormick, ENG, M, 1.75, 74, 21-01-99, Bury St Edmunds, None
+50, Charlie Brown, ENG, F, 1.83, 78, 23-09-99, Ipswich, Ipswich T
+51, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, None
+52, Jamie Cumming, ENG, G, 1.88, 74, 04-09-99, Winchester, None
+53, Marc Guehi, ENG, D, 1.82, 82, 13-07-00, Abidjan, None
+54, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, Ajax
+55, George McEachran, ENG, M, 1.74, 65, 30-08-00, Oxford, None
+56, Martell Taylor-Crossdale, ENG, F, 1.85, 77, 26-12-99, Edmonton, None
+57, Tariq Uwakwe, ENG, M, 1.78, 64, 19-11-99, Islington, None
+58, Daishawn Redan, NED, F, 1.76, 76, 02-02-01, Amsterdam, Ajax
+59, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Escola Varsovia
+60, Billy Gilmour, SCO, M, 1.70, 66, 11-06-01, Irvine, Rangers
+61, Tariq Lamptey, ENG, D, 1.75, 69, 30-09-00, Hillingdon, None
+62, Marcel Lavinier, ENG, D, 1.80, 70, 16-12-00, Chelsea, None
+64, Tino Anjorin, ENG, M, 1.85, 73, 23-11-01, Poole, None
+65, Renedi Masampu, ENG, D, , , 17-09-99, Lambeth, Metropolitan Police
+66, Nicolas Tié, CIV, G, 1.86, 85, 13-02-01, Lille, Poitiers
+67, Ian Maatsen, NED, D, 1.67, 57, 10-03-02, Vlaardingen, PSV Eindhoven
+70, Clinton Mola, ENG, M, 1.83, 78, 15-02-01, Camden, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Fikayo Tomori, ENG, D, 1.84, 75, 19-12-97, Calgary, Derby Co (On Loan)
+14, Tiemoué Bakayoko, FRA, M, 1.85, 77, 17-08-94, Paris, Milan (On Loan)
+41, Ola Aina, NGA, D, 1.82, 82, 08-10-96, Southwark, Torino (On Loan)
+19, Tammy Abraham, ENG, F, 1.90, 72, 02-10-97, Camberwell, Aston Villa (On Loan)
+32, Charly Musonda, BEL, M, 1.73, 58, 15-10-96, Brussels, Vitesse (On Loan)
+42, Fankaty Dabo, ENG, D, 1.81, 77, 11-10-95, Southwark, Sparta Rotterdam (On Loan)
+68, Jared Thompson, ENG, G, , , 23-02-99, Swindon, Warrenpoint T (On Loan)
+4, Cesc Fàbregas, ESP, M, 1.80, 77, 04-05-87, Arenys de Mar, Monaco
+46, Josh Grant, ENG, D, 1.83, 78, 11-10-98, Lambeth, Yeovil T (On Loan)
+63, Karlo Žiger, CRO, G, 1.86, 82, 11-05-01, Zagreb, Sutton U (On Loan)
+15, Victor Moses, NGA, M, 1.77, 79, 12-12-90, Lagos, Fenerbahçe (On Loan)
+29, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Atlético Madrid (On Loan)
+34, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, Chievo Verona (On Loan)

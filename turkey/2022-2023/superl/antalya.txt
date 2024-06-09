@@ -1,0 +1,44 @@
+=  Antalyaspor - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alperen Uysal, TUR, G, 1.92, 85, 01-01-94, Balıkesir, İstanbulspor
+2, Sherel Floranus, NED, D, 1.81, 74, 23-08-98, Rotterdam, SC Heerenveen
+3, Cemali Sertel, TUR, D, 1.86, 78, 06-01-00, Samandağ, İstanbul Başakşehir
+4, Amar Gerxhaliu, KVX, D, 1.93, 82, 26-04-02, Vushtrri, None
+5, Emrecan Uzunhan, TUR, D, 1.89, 80, 26-02-01, İstanbul, Beşiktaş
+6, Erdal Rakip, SWE, M, 1.75, 63, 13-02-96, Malmö, Malmö FF
+7, Bünyamin Balcı, TUR, D, 1.80, 73, 31-05-00, Samsun, None
+8, Fernando, BRA, M, 1.75, 80, 03-03-92, Erechim, Beijing Guoan
+9, Haji Wright, USA, F, 1.88, 80, 27-03-98, Los Angeles, SønderjyskE
+11, Güray Vural, TUR, D, 1.75, 75, 11-06-88, Afyon, Gaziantep
+13, Fedor Kudryashov, RUS, D, 1.83, 80, 05-04-87, Moscow, PFC Sochi
+14, Admir Mehmedi, SUI, M, 1.83, 77, 16-03-91, Gostivar, Wolfsburg
+16, Fredy, ANG, M, 1.69, 69, 27-03-90, Luanda, Belenenses
+17, Bertuğ Özgür Yıldırım, TUR, F, 1.86, 78, 12-07-02, İstanbul, Hatayspor
+18, Alassane Ndao, SEN, M, 1.76, 68, 20-12-96, Dakar, Al-Ahli Saudi
+19, Ufuk Akyol, GER, M, 1.80, 75, 27-08-97, Ravensburg, Fatih Karagümrük
+20, Sam Larsson, SWE, F, 1.79, 75, 10-04-93, Gothenburg, Dalian Pro
+21, Ömer Toprak, TUR, D, 1.86, 81, 21-07-89, Ravensburg, Werder Bremen
+22, Shoya Nakajima, JPN, M, 1.64, 58, 23-08-94, Hachioji, FC Porto
+23, Mevlüthan Ekelik, TUR, M, -, -, 16-12-04, Antalya, None
+26, Mark Mampasi, UKR, D, 1.84, 76, 12-03-03, Donetsk, Lokomotiv Moscow
+27, Houssam Ghacha, ALG, M, 1.70, 65, 25-10-95, Ouled Djellal, ES Sétif
+28, Christian Luyindama, COD, D, 1.91, 91, 08-01-94, Kinshasa, Galatasaray
+30, Mustafa Erdilman, TUR, M, -, -, 01-01-04, Burdur, None
+35, Ataberk Dadakdeniz, TUR, G, 1.94, 84, 05-08-99, İzmir, Bursaspor
+70, Doğukan Sinik, TUR, M, 1.75, 66, 21-01-99, Antalya, Hull C
+77, Sinan Gümüş, GER, F, 1.79, 70, 15-01-94, Pfullendorf, Fenerbahçe
+80, Helton Leite, BRA, G, 1.96, 92, 02-11-90, Belo Horizonte, Benfica
+89, Veysel Sarı, TUR, D, 1.85, 78, 25-07-88, Beyoğlu, Kasımpaşa
+99, Bálint Szabó, HUN, M, 1.79, 72, 18-01-01, Székesfehérvár, Paks
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Diogo Sousa, POR, G, 1.95, 85, 16-09-98, Albufeira, Bodrumspor (On Loan)
+25, Ruud Boffin, BEL, G, 1.96, 86, 05-11-87, Sint-Truiden, Retired
+17, Gökdeniz Bayrakdar, TUR, F, 1.81, 73, 23-11-01, Kandıra, Bodrumspor (On Loan)
+34, Erkan Eyibil, GER, M, 1.75, 72, 15-06-01, Kassel, Gençlerbirliği (On Loan)
+5, Soner Aydoğdu, TUR, M, 1.80, 72, 05-01-91, Mamak, Samsunspor
+88, Hakan Özmert, TUR, M, 1.76, 69, 03-08-85, Nantes, Bodrumspor (On Loan)
+10, Luiz Adriano, BRA, F, 1.82, 71, 12-04-87, Porto Alegre, Internacional

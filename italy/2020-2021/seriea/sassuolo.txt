@@ -1,0 +1,51 @@
+=  Sassuolo - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, Barcelona
+4, Francesco Magnanelli, ITA, M, 1.81, 79, 12-11-84, Umbertide, Sangiovannese
+5, Kaan Ayhan, TUR, D, 1.84, 84, 10-11-94, Gelsenkirchen, Fortuna Düsseldorf
+6, Rogério, BRA, D, 1.77, 70, 13-01-98, Nobres, Juventus
+7, Jeremie Boga, FRA, M, 1.72, 68, 03-01-97, Marseille, Chelsea
+8, Maxime López, FRA, M, 1.67, 58, 04-12-97, Marseille, Marseille
+9, Francesco Caputo, ITA, F, 1.81, 74, 06-08-87, Altamura, Empoli
+10, Filip Djuričić, SRB, M, 1.81, 75, 30-01-92, Obrenovac, Sampdoria
+13, Federico Peluso, ITA, D, 1.88, 82, 20-01-84, Rome, Juventus
+14, Pedro Obiang, EQG, M, 1.86, 75, 27-03-92, Alcalà de Henares, West Ham U
+17, Mert Müldür, TUR, D, 1.88, 74, 03-04-99, Vienna, Rapid Vienna
+18, Giacomo Raspadori, ITA, F, 1.72, 69, 18-02-00, Bentivoglio, None
+19, Filippo Romagna, ITA, D, 1.86, 75, 26-05-97, Fano, Cagliari
+21, Vlad Chiricheş, ROU, D, 1.83, 75, 14-11-89, Bacău, Napoli
+22, Jeremy Toljan, GER, D, 1.82, 74, 08-08-94, Stuttgart, Borussia Dortmund
+23, Hamed Junior Traoré, CIV, M, 1.77, 68, 16-02-00, Abidjan, Empoli
+24, Federico Artioli, ITA, M, 1.79, -, 12-06-01, Ferrara, None
+25, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+26, Isaac Karamoko, FRA, F, 1.75, -, 26-05-02, -, Paris St-Germain
+27, Lukáš Haraslín, SVK, M, 1.82, 71, 26-05-96, Bratislava, Lechia Gdańsk
+29, Luigi Samele, ITA, F, 1.86, -, 09-04-02, Foggia, Monopoli
+30, Brian Oddei, ITA, F, 1.75, 66, 18-09-02, Accra, None
+31, Gian Marco Ferrari, ITA, D, 1.89, 82, 15-05-92, Parma, Crotone
+35, Stefano Piccinini, ITA, D, 1.83, 77, 31-12-02, Scandiano, None
+47, Andrea Consigli, ITA, G, 1.89, 82, 27-01-87, Milan, Atalanta
+56, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+63, Stefano Turati, ITA, G, 1.88, 85, 05-09-01, Milan, Renate
+68, Mehdi Bourabia, MAR, M, 1.83, 73, 07-08-91, Dijon, Konyaspor
+70, Alessandro Mercati, ITA, M, 1.71, 63, 12-05-02, Castelnovo ne' Monti, None
+71, Samuele Vitale, ITA, G, 1.83, -, 10-08-02, Bologna, None
+72, Matteo Saccani, ITA, D, 1.80, -, 01-01-01, Pavullo nel Frignano, Castelvetro
+73, Manuel Locatelli, ITA, M, 1.80, 70, 08-01-98, Lecco, Milan
+77, Georgios Kyriakopoulos, GRE, D, 1.78, 74, 05-02-96, Patras, Asteras Tripolis
+92, Grégoire Defrel, FRA, F, 1.80, 79, 17-06-91, Meudon, Roma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Lecce (On Loan)
+36, Luca Mazzitelli, ITA, M, 1.87, 76, 15-11-95, Rome, Pisa (On Loan)
+99, Gianluca Scamacca, ITA, F, 1.95, 85, 01-01-99, Rome, Genoa (On Loan)
+44, Andrea Ghion, ITA, M, 1.77, 70, 23-02-00, Mantova, Carpi (On Loan)
+20, Giacomo Manzari, ITA, F, 1.78, 72, 21-09-00, Bari, Carrarese (On Loan)
+16, Federico Ricci, ITA, F, 1.75, 63, 27-05-94, Rome, Monza (On Loan)
+28, Raul Șteau, ROU, M, 1.73, 66, 22-04-01, Aiud, Monopoli (On Loan)
+11, Jens Odgaard, DEN, F, 1.88, 80, 31-03-99, Hillerød, Pescara (On Loan)
+98, Nicholas Pierini, ITA, F, 1.76, 70, 06-08-98, Parma, Modena (On Loan)
+91, Nicolás Schiappacasse, URU, F, 1.80, 73, 12-01-99, Montevideo, Peñarol (On Loan)

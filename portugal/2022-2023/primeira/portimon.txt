@@ -1,0 +1,60 @@
+=  Portimonense - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Nogueira, BRA, G, 1.91, 86, 20-09-97, Jaciara, Cuiabá
+3, Zié Ouattara, CIV, D, 1.77, 72, 09-01-00, Abidjan, Vitória Guimarães
+4, Lucão, BRA, D, 1.91, 79, 22-07-92, Osasco, Al-Nasr
+5, Wagner Leonardo, BRA, D, 1.83, 63, 23-07-99, Santos, Santos
+6, Henrique Jocú, POR, M, 1.71, 71, 09-09-01, Bissau, Benfica
+7, Carlinhos, BRA, F, 1.79, 82, 22-06-94, Camacan, Vasco da Gama
+8, Maurício, BRA, M, 1.80, 73, 21-10-88, São José dos Campos, Rodina Moscow
+9, Roberto Hinojoza, COL, F, 1.70, 70, 02-07-99, Santa Marta, Unión Magdalena
+11, Anderson Oliveira, BRA, F, 1.69, 64, 16-07-98, Sinop, Londrina
+12, Gabriel Souza, BRA, G, 1.93, 87, 03-08-04, Vila Velha, Bahia
+14, Moustapha Seck, SEN, D, 1.80, 72, 23-02-96, Dakar, Leixões
+15, Yony González, COL, M, 1.82, 75, 11-07-94, Medellín, Benfica
+17, Ricardo Matos, POR, M, 1.79, 77, 25-03-00, Vale de Figueira, Olhanense
+18, Fahd Moufi, MAR, D, 1.79, 73, 05-05-96, Mulhouse, Tondela
+19, Gonçalo Costa, POR, D, 1.79, 73, 18-02-00, Setúbal, Sporting CP
+20, Luqunihas, BRA, M, 1.67, 65, 03-10-00, Primeiro de Maio, Londrina
+21, Pedro Sá, POR, M, 1.75, 70, 01-12-93, Póvoa de Varzim, Varzim
+22, Filipe Relvas, POR, D, 1.92, 78, 20-09-99, Espinho, Pedras Rubras
+23, Park Ji-Su, KOR, D, 1.84, 70, 13-06-94, Mungyeong, Guangzhou
+24, Mohamed Diaby, FRA, M, 1.88, 78, 03-09-96, Grasse, Paços de Ferreira
+25, Lucas Ventura, BRA, M, 1.80, 75, 19-05-98, Leopoldina, Cruzeiro
+27, Klismahn, BRA, M, 1.79, 77, 23-11-99, Santana do Araguaia, Alverca
+29, Carlos Garcés, COL, D, 1.86, 75, 11-10-01, López de Micay, Deportivo Pereira
+30, Kim Yong-Hak, KOR, F, 1.72, 65, 20-05-03, -, Pohang Steelers
+31, Mateus Oliveira, BRA, G, 1.99, 89, 02-05-02, Cajazeiras, Palmeiras
+32, Kosuke Nakamura, JPN, G, 1.84, 72, 27-02-95, Kita, Kashiwa Reysol
+35, Bryan Róchez, HON, F, 1.75, 73, 01-01-95, Tegucigalpa, Nacional [POR]
+38, Paulo Estrela, POR, M, 1.71, 66, 20-02-99, Paços de Ferreira, FC Porto
+42, Francisco Cardoso, POR, F, 1.70, 55, 19-12-98, Gondomar, Leça do Balio
+43, Alemão, BRA, D, 1.94, 87, 06-11-02, Franca, Corinthians
+44, Pedrão, BRA, D, 1.94, 80, 03-05-97, São Paulo, Palmeiras
+53, Sérgio Conceição, POR, D, 1.77, 71, 12-11-96, Porto, RFC Seraing
+70, Rui Gomes, POR, F, 1.75, 72, 04-09-97, Braga, Sporting Covilhã
+85, Bruno Reis, POR, M, 1.76, 68, 20-07-99, Portimão, None
+86, Hélio Varela, POR, F, 1.76, 69, 03-05-02, Almada, Sintrense
+87, Matheus Brito, BRA, M, 1.86, 80, 04-02-01, São Paulo, São Caetano
+88, João Victor, BRA, G, 1.91, 80, 23-10-00, -, Ituano
+89, João Nobrega, POR, M, 1.86, 78, 04-12-01, Camacha, Olhanense
+90, Davis, BRA, M, 1.75, 70, 13-08-02, Porto Alegre, Alverca
+93, Welinton Júnior, BRA, F, 1.75, 64, 08-06-93, São Paulo, Desportivo das Aves
+99, Yago Cariello, BRA, F, 1.85, 80, 27-07-99, Rio de Janeiro, União de Santarém
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Fabrício, BRA, F, 1.80, 78, 28-03-90, Hortolândia, Guangxi Pingguo Haliao
+12, Payam Niazmand, IRN, G, 1.93, 82, 06-04-95, Tehran, Sepahan (On Loan)
+23, Achraf Lazaar, MAR, D, 1.73, 67, 22-01-92, Casablanca, Novara
+39, Wilinton Aponza, COL, F, 1.91, 87, 29-03-00, Cali, Sporting Covilhã (On Loan)
+4, Willyan, BRA, D, 1.93, 86, 27-01-95, Rio de Janeiro, CSKA Moscow
+94, Samuel, BRA, G, 1.88, 80, 29-03-94, Teixeira de Freitas, FC Porto
+8, Ewerton, BRA, M, 1.79, 70, 01-12-92, São Paulo, Vegalta Sendai (On Loan)
+13, Shuhei Kawasaki, JPN, F, 1.68, 66, 28-04-01, Kishiwada, Vissel Kobe (On Loan)
+1, Berke Özer, TUR, G, 1.91, 73, 25-05-00, İzmir, Eyüpspor
+78, Vinícius Szeuczuk, BRA, D, 1.91, 81, 05-08-97, Guarapuava, Azuriz
+77, Adewale Sapara, NGA, F, 1.75, 69, 27-01-95, Lagos, Farense (On Loan)
+28, Pastor, BRA, D, 1.76, 76, 20-02-00, Brasília, Ferroviária

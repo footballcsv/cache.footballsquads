@@ -1,0 +1,60 @@
+=  Rijeka - Croatian 1.HNL 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nediljko Labrović, CRO, G, 1.96, 91, 10-10-99, Split, Šibenik
+3, Bruno Goda, CRO, D, 1.82, 75, 17-04-98, Vinkovci, Slaven Belupo
+4, Niko Janković, CRO, M, 1.88, 78, 25-08-01, Zagreb, Dinamo Zagreb
+5, Niko Galešić, CRO, D, 1.87, 82, 26-03-01, Berlin, Hertha Zehlendorf
+6, Matej Mitrović, CRO, D, 1.87, 71, 04-02-93, Požega, Club Brugge
+8, Adrian Liber, CRO, M, 1.71, 70, 09-01-01, Zabok, None
+9, Jorge Obregón, COL, F, 1.82, 80, 29-03-97, Puerto Tejada, Varaždin
+11, Prince Ampem, GHA, M, 1.69, 66, 13-04-98, Sunyani, Šibenik
+12, Andrija Vukčević, MNE, D, 1.80, 77, 11-10-96, Podgorica, Waasland-Beveren
+13, Martin Zlomislić, BIH, G, 1.90, 85, 16-08-98, Mostar, Široki Brijeg
+14, Niko Gajzler, CRO, F, 1.76, 61, 21-12-04, Rijeka, None
+15, Anton Krešić, CRO, D, 1.98, 90, 29-01-96, Zagreb, Atalanta
+16, Dominik Simčić, CRO, M, 1.77, 68, 07-03-03, Rijeka, None
+18, Lindon Selahi, ALB, M, 1.80, 70, 26-02-99, Namur, FC Twente
+22, Emmanuel Banda, ZAM, M, 1.78, 73, 29-09-97, Chililabombwe, Djurgårdens IF
+23, Mato Stanić, CRO, M, 1.84, 78, 11-01-98, Ludwigshafen am Rhein, Široki Brijeg
+24, Matija Frigan, CRO, F, 1.85, 78, 11-02-03, Rijeka, None
+25, Veldin Hodža, CRO, M, 1.83, 74, 15-10-02, Rijeka, None
+28, Ivan Smolčić, CRO, D, 1.81, 78, 17-08-00, Gospić, None
+29, Andro Babić, CRO, M, 1.81, 74, 08-09-04, Rijeka, None
+30, Bruno Bogojević, CRO, F, 1.86, 72, 29-06-98, Koprivnica, Slaven Belupo
+31, David Nwolokor, NGA, G, 1.85, 83, 10-01-96, Port Harcourt, None
+32, Alen Grgić, CRO, D, 1.87, 77, 10-08-94, Nova Gradiška, Osijek
+33, Djibrilla Ibrahim, NIG, D, 1.94, 85, 02-03-02, Niamey, Orijent
+39, Deni Jurić, AUS, F, 1.88, 75, 03-09-97, Kogarah, Dinamo Zagreb
+40, Pablo Álvarez, ESP, M, 1.85, 76, 23-04-97, Langreo, Cherno More Varna
+44, Antonio Marin, CRO, M, 1.82, 78, 09-01-01, Zagreb, Dinamo Zagreb
+45, Aleksa Todorović, SRB, G, 1.93, 85, 25-01-04, Kruševac, Trayal Kruševac
+55, Duje Dujmović, CRO, D, 1.88, 84, 15-12-03, Split, Solin
+66, Emir Dilaver, AUT, D, 1.83, 78, 07-05-91, Tomislavgrad, Dinamo Zagreb
+77, Danilo Veiga, POR, D, 1.83, 83, 25-09-02, Gondomar, Gil Vicente
+91, Mislav Zadro, CRO, G, -, -, 22-04-03, Zagreb, None
+92, Marco Djuricin, AUT, F, 1.81, 72, 12-12-92, Vienna, Austria Vienna
+99, Naïs Djouahra, FRA, M, 1.72, 65, 23-11-99, Bourgoin-Jallieu, Real Sociedad B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Filip Braut, CRO, D, 1.79, 75, 05-06-02, Rijeka, Orijent (On Loan)
+13, Ivan Lepinjica, CRO, M, 1.90, 84, 09-07-99, Rijeka, Arminia Bielefeld (On Loan)
+19, Haris Vučkić, SVN, M, 1.88, 80, 21-08-92, Ljubljana, Buriram U
+22, Roko Jurišić, CRO, D, 1.73, 68, 28-09-01, Zagreb, Ried
+96, Gabriel Lunetta, ITA, F, 1.86, 80, 10-08-96, Milan, Südtirol (On Loan)
+27, Admir Bristrić, BIH, F, 1.87, 70, 28-04-03, Tuzla, Olimpija Ljubljana
+17, Matej Vuk, CRO, F, 1.83, 75, 10-06-00, Čakovec, Istra 1961
+98, Martin Zlomislić, BIH, G, 1.90, 85, 16-08-98, Mostar, Re-Registered (13)
+47, Damjan Pavlović, BEL, D, 1.79, 76, 09-07-01, Eupen, Degerfors IF (On Loan)
+34, Jacob Aboosah, GHA, M, -, -, 16-03-02, Accra, EurAfrica Academy
+4, Mateo Pavlović, CRO, D, 1.96, 88, 09-06-90, Mostar, St-Etienne (On Loan)
+10, Alen Halilović, CRO, M, 1.69, 65, 18-06-96, Dubrovnik, 
+20, Andrés Solano, COL, D, 1.76, 72, 24-02-98, Santa Marta, 
+80, Bernard Karrica, ALB, M, 1.84, 74, 07-01-01, Gjakova, ND Gorica (On Loan)
+26, Marino Kukoc, CRO, M, 1.82, 80, 11-07-04, Split, Kustošija (On Loan)
+7, Mario Vrančić, BIH, M, 1.86, 75, 23-05-89, Slavonski Brod, Sarajevo (On Loan)
+23, Denis Bušnja, CRO, M, 1.71, 73, 14-04-00, Varaždin, Bravo (On Loan)
+21, Nikita Vlasenko, SUI, D, 1.90, 87, 20-03-01, Donetsk, 
+44, Filip Dujmović, CRO, F, 1.73, 65, 04-08-01, Zagreb, Kustošija

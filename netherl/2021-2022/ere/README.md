@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2021/2022
+
+18 teams
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [SC Cambuur](cambuur.txt)
+- [Feyenoord](feyen.txt)
+- [Fortuna Sittard](fortuna.txt)
+- [Go Ahead Eagles](goahead.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [Willem II](willem.txt)

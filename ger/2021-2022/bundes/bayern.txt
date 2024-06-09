@@ -1,0 +1,43 @@
+=  Bayern Munich - German Bundesliga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Neuer, GER, G, 1.92, 90, 27-03-86, Gelsenkirchen, Schalke
+2, Dayot Upamecano, FRA, D, 1.88, 84, 27-10-98, Evreux, RB Leipzig
+3, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Reading
+4, Niklas Süle, GER, D, 1.94, 91, 03-09-95, Frankfurt am Main, 1899 Hoffenheim
+5, Benjamin Pavard, FRA, D, 1.82, 67, 28-03-96, Maubeuge, Stuttgart
+6, Joshua Kimmich, GER, M, 1.76, 68, 08-02-95, Rottweil, Stuttgart
+7, Serge Gnabry, GER, M, 1.73, 73, 14-07-95, Stuttgart, Werder Bremen
+8, Leon Goretzka, GER, M, 1.89, 76, 06-02-95, Bochum, Schalke
+9, Robert Lewandowski, POL, F, 1.81, 79, 21-08-88, Warsaw, Borussia Dortmund
+10, Leroy Sané, GER, F, 1.83, 75, 11-01-96, Essen, Manchester C
+11, Kingsley Coman, FRA, M, 1.78, 71, 13-06-96, Paris, Juventus
+13, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Paris St-Germain
+14, Paul Wanner, GER, M, 1.85, 75, 23-12-05, Amtzell, FV Ravensburg
+15, Arijon Ibrahimović, GER, M, -, -, 11-12-05, Nuremberg, Nürnberg
+18, Marcel Sabitzer, AUT, M, 1.76, 70, 17-03-94, Graz, RB Leipzig
+19, Alphonso Davies, CAN, D, 1.83, 75, 02-11-00, Buduburam, Vancouver Whitecaps
+20, Bouna Sarr, SEN, D, 1.77, 65, 31-01-92, Lyon, Marseille
+21, Lucas Hernández, FRA, D, 1.84, 76, 14-02-96, Marseille, Atlético Madrid
+22, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Espanyol
+23, Tanguy Nianzou, FRA, D, 1.87, 83, 07-06-02, Paris, Paris St-Germain
+24, Corentin Tolisso, FRA, M, 1.65, 54, 03-08-94, Tarare, Lyon
+25, Thomas Müller, GER, F, 1.86, 74, 13-09-89, Weilheim in Oberbayern, None
+26, Sven Ulreich, GER, G, 1.92, 84, 03-08-88, Schorndorf, Hamburg
+28, Nicolas Feldhahn, GER, D, 1.89, 88, 14-08-86, Munich, Osnabrück
+34, Lucas Copado, GER, F, 1.79, 75, 10-01-04, Munich, None
+36, Christian Früchtl, GER, G, 1.93, 71, 28-01-00, Bischofsmais, None
+37, Taylor Booth, USA, M, 1.74, 66, 31-05-01, Eden, Real Salt Lake
+38, Gabriel Vidović, CRO, M, 1.80, 75, 01-12-03, Augsburg, None
+40, Malik Tillman, GER, F, 1.86, 71, 28-05-02, Nuremburg, None
+42, Jamal Musiala, GER, M, 1.81, 65, 26-02-03, Stuttgart, Chelsea
+44, Josip Stanišić, CRO, D, 1.86, 77, 02-04-00, Munich, None
+46, Timo Kern, GER, M, 1.79, 74, 16-01-90, Hockenheim, Waldhof Mannheim
+49, Jamie Lawrence, GER, D, 2.00, 84, 10-11-02, Munich, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Chris Richards, USA, D, 1.88, 86, 28-03-00, Birmingham, AL, 1899 Hoffenheim (On Loan)
+39, Ron-Thorben Hoffmann, GER, G, 1.92, 84, 04-04-99, Rostock, Sunderland (On Loan)
+17, Michaël Cuisance, FRA, M, 1.81, 74, 16-08-99, Strasbourg, Venezia

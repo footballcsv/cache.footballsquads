@@ -1,0 +1,47 @@
+=  Zaragoza - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, San Lorenzo
+2, Akim Zedadka, ALG, D, 1.73, 72, 30-05-95, Pertuis, Lille
+3, Jair, POR, D, 1.88, 90, 21-08-89, Lisbon, Maccabi Tel Aviv
+5, Jaume Grau, ESP, M, 1.82, 65, 05-05-97, Tavernes de la Valldigna, Osasuna
+6, Alejandro Francés, ESP, D, 1.80, 70, 01-08-02, Zaragoza, Zaragoza B
+7, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Atlético Madrid B
+8, Marc Aguado, ESP, M, 1.78, 67, 22-02-00, Zaragoza, Zaragoza B
+9, Iván Azón, ESP, F, 1.81, 78, 24-12-02, Zaragoza, Zaragoza B
+10, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Elche
+11, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Albacete
+12, Sinan Bakış, TUR, F, 1.86, 78, 22-04-94, Troisdorf, Andorra
+13, Gaëtan Poussin, FRA, G, 1.84, 82, 13-01-99, Le Mans, Bordeaux
+14, Francho Serrano, ESP, M, 1.77, 72, 17-10-01, Zaragoza, Zaragoza B
+15, Santiago Mouriño, URU, D, 1.86, 76, 13-02-02, Montevideo, Atlético Madrid
+17, Carlos Nieto, ESP, D, 1.79, 74, 05-05-96, Zaragoza, Zaragoza B
+18, Fran Gámez, ESP, D, 1.74, 71, 27-07-91, Puerto de Sagunto, Mallorca
+19, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Girona
+20, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Atlético Madrid B
+21, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Alavés
+22, Quentin Lecoeuche, FRA, D, 1.72, 65, 04-02-94, Beuvry, Valenciennes
+23, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella de Menorca, Oviedo
+24, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol
+25, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Elche
+26, Alberto Vaquero, ESP, M, -, -, 12-11-03, -, Zaragoza B
+29, Pau Sans, ESP, F, 1.71, 65, 24-11-04, Zaragoza, Zaragoza B
+30, Pablo Cortés, ESP, F, -, -, 28-05-04, Zaragoza, Zaragoza B
+31, Juan Sebastián, ESP, D, 1.85, 78, 07-02-02, Zaragoza, Zaragoza B
+33, Adrián Liso, ESP, F, 1.78, 72, 02-04-05, Zaragoza, Zaragoza B
+34, Marcos Cuenca, ESP, F, -, -, 07-11-02, Zaragoza, Zaragoza B
+35, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+36, Guillermo Acín, ESP, G, 1.83, 74, 28-02-01, Zaragoza, Zaragoza B
+37, Carlos Calavia, ESP, G, -, -, 17-04-03, -, Zaragoza B
+38, Andrés Borge, ESP, D, 1.81, 72, 23-10-01, Zaragoza, Zaragoza B
+39, Aitor Mañas, ESP, F, 1.81, 69, 05-01-03, Madrid, Real Madrid C
+40, Hugo Barrachina, ESP, D, -, -, 30-08-06, Zaragoza, Zaragoza B
+41, Lucas Terrer, ESP, M, -, -, 07-06-05, -, Zaragoza B
+42, Miguel Operé, ESP, D, -, -, 20-03-01, Alicante, Villarreal C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Re-Registered (20)
+27, Marcos Luna, ESP, D, 1.80, 77, 05-04-03, Zaragoza, Real Unión (On Loan)
+10, Sergio Bermejo, ESP, M, 1.70, 61, 17-08-97, Madrid, Elche (On Loan)

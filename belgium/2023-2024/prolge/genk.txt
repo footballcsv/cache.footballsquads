@@ -1,0 +1,39 @@
+=  KRC Genk - Belgian Pro League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hendrik van Crombrugge, BEL, G, 1.88, 86, 30-04-93, Leuven, Anderlecht
+2, Mark McKenzie, USA, D, 1.83, 84, 25-02-99, The Bronx, Philadelphia Union
+3, Mujaid Sadick, ESP, D, 1.82, 75, 14-03-00, Logroño, Deportivo La Coruña
+4, Aziz Ouattara, CIV, M, 1.88, 78, 04-01-01, Abidjan, Hammarby IF
+7, Alieu Fadera, GAM, F, 1.86, 80, 03-11-01, Fajara, Zulte-Waregem
+8, Bryan Heynen, BEL, M, 1.82, 66, 06-02-97, Neeroeteren, None
+9, Andi Zeqiri, SUI, F, 1.81, 72, 22-06-99, Lausanne, Brighton & HA
+14, Yira Sor, NGA, F, 1.74, 68, 24-07-00, Lagos, Slavia Prague
+17, Patrik Hrošovský, SVK, M, 1.72, 64, 22-04-92, Prievidza, Viktoria Plzeň
+18, Joris Kayembe, COD, D, 1.82, 73, 08-08-94, Brussels, Charleroi
+19, Anouar Ait El Hadj, BEL, M, 1.67, 65, 20-04-02, Molenbeek, Anderlecht
+22, Eduard Sobol, UKR, D, 1.86, 73, 20-04-95, Vilnyansk, Strasbourg
+24, Luca Oyen, BEL, M, 1.72, 64, 14-03-03, Nottingham, None
+25, Matías Galarza, ARG, M, 1.80, 71, 04-03-02, Boulogne, Argentinos Juniors
+26, Maarten Vandevoordt, BEL, G, 1.87, 71, 26-02-02, Sint-Truiden, None
+27, Ken Nkuba, BEL, F, 1.73, 70, 21-01-02, Mons, Charleroi
+30, Vic Chambaere, BEL, G, 1.90, 71, 10-01-03, Roeselare, None
+34, Bilal El Khannouss, MAR, M, 1.80, 70, 10-05-04, Strombeek-Bever, Anderlecht
+41, Mike Penders, BEL, G, 2.00, 95, 31-06-05, Maasmechelen, None
+46, Carlos Cuesta, COL, D, 1.78, 67, 09-03-99, Medellín, Atlético Nacional
+70, Ibrahima Sory Bangoura, GUI, M, -, -, 05-01-04, -, Johnson Académie Sport
+77, Zakaria El Ouahdi, MAR, M, 1.72, 66, 31-12-01, Hoboken, RWD Molenbeek
+90, Christopher Bonsu Baah, GHA, F, -, -, 14-12-04, -, Sarpsborg 08
+99, Tolu Arokodare, NGA, F, 1.97, 95, 23-11-00, Festac Town, Amiens
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Rasmus Carstensen, DEN, D, 1.83, 75, 10-11-00, Virklund, Köln (On Loan)
+10, Nicolás Castro, ARG, M, 1.86, 76, 01-11-00, Rafaela, Elche (On Loan)
+40, Tobe Leysen, BEL, G, 1.87, 80, 09-03-02, Geel, OH Leuven
+11, Mike Trésor Ndayishimiye, NED, M, 1.73, 69, 28-05-99, Lembeek, Burnley (On Loan)
+77, Angelo Preciado, ECU, D, 1.73, 73, 18-02-98, Shushufindi, Sparta Prague
+5, Gerardo Arteaga, MEX, D, 1.73, 61, 07-09-98, Zapopan, Monterrey
+23, Daniel Muñoz, COL, D, 1.83, 75, 26-05-96, Amalfi, Crystal Palace
+28, Joseph Paintsil, GHA, F, 1.74, 62, 01-02-98, Fodama, LA Galaxy

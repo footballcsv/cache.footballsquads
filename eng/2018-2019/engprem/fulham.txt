@@ -1,0 +1,63 @@
+=  Fulham - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, None
+3, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, None
+4, Denis Odoi, BEL, D, 1.78, 67, 27-05-88, Leuven, Lokeren
+5, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Arsenal
+6, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Wolverhampton W
+7, Neeskens Kebano, COD, M, 1.80, 75, 10-03-92, Montereau, KRC Genk
+9, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Newcastle U
+10, Tom Cairney, SCO, M, 1.83, 72, 20-01-91, Nottingham, Blackburn R
+11, Floyd Ayité, TOG, F, 1.74, 68, 15-12-88, Bordeaux, Bastia
+12, Ryan Babel, NED, M, 1.85, 78, 19-12-86, Amsterdam, Beşiktaş
+13, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Bolton W
+14, Andre Schürrle, GER, F, 1.75, 63, 06-11-90, Ludwigshafen, Borussia Dortmund
+16, Håvard Nordtveit, NOR, D, 1.88, 83, 21-06-90, Vats, 1899 Hoffenheim
+19, Luciano Vietto, ARG, F, 1.73, 69, 05-12-93, Balnearia, Atlético Madrid
+20, Maxime Le Marchand, FRA, D, 1.80, 68, 10-11-89, Saint Malo, Nice
+21, Timothy Fosu-Mensah, NED, D, 1.90, 78, 02-01-98, Amsterdam, Manchester U
+22, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Middlesbrough
+23, Joe Bryan, ENG, D, 1.70, 72, 17-09-93, Bristol, Bristol C
+24, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Nice
+25, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Sevilla
+26, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Swansea C
+29, André-Frank Zambo Anguissa, CMR, M, 1.84, 74, 16-11-95, Yaoundé, Marseille
+30, Lazar Marković, SRB, M, 1.75, 65, 02-03-94, Belgrade, Liverpool
+31, Fabricio, ESP, G, 1.85, 77, 31-12-87, Las Palmas, Beşiktaş
+33, Matt O'Riley, ENG, M, 1.87, 77, 21-11-00, Hounslow, None
+34, Jerome Opoku, ENG, D, 1.94, 79, 14-10-98, Lambeth, None
+35, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, None
+36, Luca De La Torre, USA, M, 1.75, 63, 23-05-98, San Diego, None
+38, Tyrese Francois, AUS, D, 1.67, 56, 16-07-00, Campbell Town, None
+39, Toni Stahl, GER, G, 1.94, 84, 17-09-99, Cottbus, RB Leipzig
+40, Cameron Thompson, ENG, F, 1.70, 75, 21-02-00, London, None
+41, Jaydn Mundle-Smith, ENG, D, 1.83, 75, 17-12-99, Lambeth, None
+42, Jayden Harris, ENG, M, 1.88, 79, 04-09-99, Croydon, None
+43, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, None
+44, Ibrahima Cissé, GUI, M, 1.84, 77, 28-02-94, Liège, Standard Liège
+45, José Garrido, ESP, D, 1.92, 88, 08-09-99, Dos Hermanas, Sevilla
+46, Chris Kelly, JAM, M, 1.77, 72, 25-10-99, Kingston, None
+48, Sonny Hilton, ENG, M, 1.65, 57, 30-01-01, Liverpool, Tranmere R
+49, Ben Davis, SIN, M, 1.72, 59, 24-11-00, Phuket, None
+50, Luca Ashby-Hammond, ENG, G, 1.84, 75, 25-03-01, Kingston upon Thames, None
+51, Timmy Abraham, ENG, F, 1.85, 77, 28-12-00, Lambeth, Charlton Ath
+52, Zico Asare, ENG, D, 1.76, 78, 11-04-01, Hammersmith, None
+53, George Wickens, ENG, G, , , 08-11-01, Petersfield, None
+54, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, None
+55, Sylvester Jasper, ENG, M, , , 13-09-01, Southwark, None
+56, Harvey Elliott, ENG, M, 1.70, 67, 04-04-03, Chertsey, None
+59, Jean-Pierre Tiehi, FRA, F, , , 24-01-02, Paris, Le Havre
+60, Fabio Carvalho, ENG, M, 1.70, 62, 30-08-02, Lisbon, None
+61, Taye Ashby-Hammond, ENG, G, 1.90, 87, 21-03-99, Richmond, None
+62, Nicolás Santos, ESP, F, 1.84, 78, 07-02-00, Santander, Atlético Perines
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Lille (On Loan)
+37, Jón Dagur Þorsteinsson, ISL, M, 1.77, 73, 26-11-98, Reyjavík, Vendsyssel (On Loan)
+58, Rob Atkinson, ENG, D, 1.93, 85, 13-07-98, Chesterfield, Braintree T (On Loan)
+8, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, WBA (On Loan)
+47, Aboubakar Kamara, FRA, F, 1.78, 80, 07-03-95, Gonesse, Yeni Malatyaspor (On Loan)
+57, Aron Davies, WAL, D, 1.86, 80, 05-09-97, Cardiff, Maidstone U (On Loan)

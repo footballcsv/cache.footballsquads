@@ -1,0 +1,48 @@
+=  PFC Sochi - Russian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maksim Rudakov, RUS, G, 1.90, 77, 22-01-96, St. Petersburg, FC Rostov
+2, Dmitri Chistyakov, RUS, D, 1.85, 75, 13-01-94, Pikalyovo, Zenit St Petersburg
+3, Vanja Drkušić, SVN, D, 1.86, 82, 30-10-99, Novo Mesto, Bravo
+4, Vyacheslav Litvinov, RUS, D, 1.90, 75, 01-04-01, Anapa, FC Krasnodar
+5, Victorien Angban, CIV, M, 1.80, 70, 29-09-96, Abidjan, Metz
+6, Artur Yusupov, RUS, M, 1.79, 71, 01-09-89, Samara, Dynamo Moscow
+7, Martin Kramarič, SVN, M, 1.78, 72, 14-11-97, Novo Mesto, Bravo
+10, Sergio Córdova, VEN, F, 1.88, 78, 09-08-97, Calabozo, Alanyaspor
+11, Hovhannes Harutyunyan, ARM, M, 1.75, 72, 25-05-99, Yerevan, Pyunik
+12, Nikolay Zabolotniy, RUS, G, 1.84, 81, 16-04-90, St. Petersburg, Rotor Volgograd
+13, Nikita Goylo, RUS, G, 1.88, 87, 10-08-98, St. Petersburg, Zenit St Petersburg
+14, Kirill Kravtsov, RUS, M, 1.87, 77, 14-06-02, St. Petersburg, Zenit St Petersburg
+17, Artyom Makarchuk, RUS, D, 1.85, 70, 09-11-95, Svetly, Baltika Kaliningrad
+18, Nikita Burmistrov, RUS, M, 1.81, 75, 06-07-89, Moscow, Rotor Volgograd
+19, Aleksey Sutormin, RUS, M, 1.87, 78, 10-01-94, St. Petersburg, Zenit St Petersburg
+21, Ignacio Saavedra, CHI, M, 1.72, 63, 12-01-99, Yumbel, Universidad Católica
+23, Saúl Guarirapa, VEN, F, 1.87, 78, 18-10-02, Puerto La Cruz, Caracas
+24, Miguel Silveira, BRA, M, 1.74, 66, 26-03-03, Vila Velha, Red Bull Bragantino
+25, Yahia Attiyat Allah, MAR, D, 1.76, 70, 02-03-95, Safi, Wydad Casablanca
+27, Kirill Zaika, RUS, D, 1.68, 62, 07-10-92, Uspenskoye, FC Khimki
+33, Marcelo Alves, BRA, D, 1.92, 88, 07-02-98, Rio de Janeiro, Madureira
+34, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Lokomotiv Moscow
+35, Aleksandr Degtev, RUS, G, 1.95, 86, 27-04-05, -, Zenit-2
+69, Danil Anosov, RUS, F, 1.76, 68, 26-02-05, Belgorod, Salyut Belgorod
+71, Jurij Medveděv, CZE, D, 1.80, 74, 18-06-96, Badamsha, Slovan Bratislava
+77, Aleksandar Jukić, AUT, M, 1.83, 73, 26-07-00, Vienna, Austria Vienna
+99, Alejandro Cabeza, ECU, F, 1.85, 65, 11-03-97, Esmeraldas, Emelec
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Denis Adamov, RUS, G, 1.94, 84, 20-02-98, Ulyanovsk, Zenit St Petersburg
+13, Sergey Terekhov, RUS, D, 1.80, 74, 27-06-90, Bryansk, FC Khimki
+19, Timofey Shipunov, RUS, M, 1.72, 65, 20-07-03, Krasnodar, SKA-Khabarovsk (On Loan)
+84, Moussa Sissako, MLI, D, 1.89, 72, 10-11-00, Clichy, RWD Molenbeek (On Loan)
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Emelec
+9, Georgiy Melkadze, RUS, F, 1.80, 77, 04-04-97, Moscow, Kolkheti-1913 Poti
+26, Artyom Meshchaninov, RUS, D, 1.89, 84, 19-02-96, Kolpino, Rodina Moscow
+10, Ivan Ignatyev, RUS, F, 1.80, 72, 06-01-99, Achinsk, Železničar Pančevo
+45, Ivan Miladinović, SRB, D, 1.89, 83, 14-08-94, Ćuprija, Tobol Kostanay
+11, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Abha Club
+51, Timofey Kashintsev, RUS, G, 1.92, 79, 01-08-04, -, Tekstilshchik Ivanovo (On Loan)
+20, Igor Yurganov, RUS, D, 1.86, 72, 10-12-93, Rubtsovsk, Fakel Voronezh
+8, Amir Batyrev, CAN, M, 1.73, 66, 11-03-02, Toronto, Sokol Saratov (On Loan)
+15, Solomon Agbalaka, NGA, D, 1.85, 78, 09-11-03, -, Saburtalo (On Loan)

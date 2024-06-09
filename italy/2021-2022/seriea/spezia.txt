@@ -1,0 +1,46 @@
+=  Spezia - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeroen Zoet, NED, G, 1.89, 83, 06-01-91, Veendam, PSV Eindhoven
+6, Mehdi Bourabia, MAR, M, 1.83, 73, 07-08-91, Dijon, Sassuolo
+7, Jacopo Sala, ITA, D, 1.81, 75, 05-12-91, Alzano Lombardo, SPAL
+8, Viktor Kovalenko, UKR, M, 1.82, 75, 14-02-96, Kherson, Atalanta
+9, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Barcelona
+10, Daniele Verde, ITA, F, 1.68, 64, 20-06-96, Naples, AEK
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Pistoiese
+13, Arkadiusz Reca, POL, M, 1.87, 76, 17-06-95, Chojnice, Atalanta
+14, Jakub Kiwior, POL, D, 1.89, 75, 15-02-00, Tychy, MŠK Žilina
+15, Petko Hristov, BUL, D, 1.91, 85, 01-03-99, Sofia, Fiorentina
+17, Suf Podgoreanu, ISR, F, 1.93, 80, 20-01-02, Hadera, Roma
+18, M'Bala Nzola, FRA, F, 1.85, 82, 18-08-96, Troyes, Trapani
+19, Ebrima Colley, GAM, F, 1.80, 70, 01-02-00, Serrekunda, Atalanta
+20, Simone Bastoni, ITA, D, 1.81, 74, 05-11-96, La Spezia, None
+21, Salva Ferrer, ESP, D, 1.84, 73, 21-01-98, Martorell, Nàstic
+22, Janis Antiste, FRA, F, 1.83, 75, 18-08-02, Toulouse, Toulouse
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, None
+27, Kelvin Amian, FRA, D, 1.80, 78, 08-02-98, Toulouse, Toulouse
+28, Martin Erlić, CRO, D, 1.93, 88, 24-01-98, Zadar, Sassuolo
+29, Eddie Salcedo, ITA, F, 1.78, 70, 01-10-01, Genoa, Internazionale
+31, Aimar Sher, SWE, M, 1.75, 65, 20-12-02, Erbil, Hammarby IF
+33, Kevin Agudelo, COL, M, 1.78, 70, 14-11-98, Puerto Caicedo, Genoa
+39, Aurélien Nguiamba, FRA, M, 1.79, 73, 18-01-99, Colmar, Nancy
+40, Petar Zovko, BIH, G, 1.92, 85, 25-03-02, Mostar, Sampdoria
+43, Dimitris Nikolaou, GRE, D, 1.88, 82, 13-08-98, Chalcis, Empoli
+44, David Strelec, SVK, F, 1.85, 73, 04-04-01, Nové Zámky, Slovan Bratislava
+76, Dennis Delorie, ITA, F, -, -, 06-11-04, -, None
+77, Nicolò Bertola, ITA, D, 1.92, 79, 23-03-03, Carrara, None
+80, Niccolò Pietra, ITA, M, 1.89, 85, 28-09-03, Massa, None
+86, Ayoub Afi, ITA, F, 1.75, -, 17-11-03, -, None
+88, Léo Sena, BRA, M, 1.75, 71, 31-12-95, São Paulo, Atlético Mineiro
+94, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Empoli
+97, Filippo Scieuzo, ITA, D, 1.81, -, 15-07-03, Sarzana, None
+99, Diego Zuppel, ITA, F, 1.94, 85, 13-10-02, Castiglione del Lago, Arezzo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Elio Capradossi, ITA, D, 1.85, 78, 11-03-96, Kampala, SPAL (On Loan)
+33, Lorenzo Colombini, ITA, D, -, -, 17-01-01, Milan, Giana Erminio (On Loan)
+23, Alessandro Bordin, ITA, M, 1.76, 72, 01-08-98, Latina, Fidelis Andria
+12, Luca Vignali, ITA, M, 1.86, 75, 11-01-96, La Spezia, Como (On Loan)
+9, Samuel Mráz, SVK, F, 1.84, 75, 13-05-97, Malacky, Slovan Bratislava (On Loan)

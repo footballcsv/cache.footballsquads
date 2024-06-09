@@ -1,0 +1,47 @@
+=  Elche - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Tottenham H
+2, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Málaga
+4, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, Boca Juniors
+5, Gonzalo Verdú, ESP, D, 1.85, 80, 21-10-88, Cartagena, Cartagena
+6, Omenuke Mfulu, COD, M, 1.82, 69, 20-03-94, Poissy, Red Star
+7, Nino, ESP, F, 1.69, 68, 10-06-80, Almería, Osasuna
+8, Víctor Rodríguez, ESP, M, 1.70, 70, 23-07-89, Barcelona, Seattle Sounders
+9, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Torino
+10, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Eibar
+11, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Málaga
+12, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Numancia
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Reus
+14, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza
+15, Luismi, ESP, M, 1.80, 76, 05-05-92, Jerez de la Frontera, Valladolid
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Las Palmas
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+18, Helibelton Palacios, COL, D, 1.77, 75, 11-06-93, Santander de Quilichao, Atlético Nacional
+19, Antonio Barragán, ESP, D, 1.87, 83, 12-06-87, Pontedeume, Betis
+20, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Toronto FC
+21, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Southampton
+22, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Zenit St Petersburg
+23, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Málaga
+24, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Extremadura
+25, Johan Mojica, COL, D, 1.85, 66, 21-08-92, Cali, Girona
+26, John Chetauya, ESP, M, 1.85, 67, 25-09-00, Murcia, Villarreal C
+28, Luis Castillo, ESP, G, -, -, 31-01-00, Catral, Elche B
+30, César, ESP, M, 1.83, 71, 23-04-01, Cartagena, Elche B
+32, Gerard Barri, ESP, D, -, -, 02-01-01, -, Espanyol B
+33, José Salinas, ESP, D, 1.79, 69, 30-09-00, Callosa de Segura, Elche B
+37, Jony Álamo, ESP, M, 1.75, 65, 25-09-01, La Unión, Elche B
+40, Diego Bri, ESP, F, -, -, 12-09-02, Elche, Elche B
+45, Lluis Andreu, ESP, G, 1.89, 77, 27-07-99, Barcelona, Zamora
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Claudio Medina, ESP, F, 1.86, 83, 04-09-93, León, Burgos
+4, Ramón Folch, ESP, M, 1.82, 78, 04-10-89, Cambrils, Tenerife (On Loan)
+26, Mourad Daoudi, MAR, F, 1.90, 85, 27-05-98, Balsapintada, Alcoyano (On Loan)
+35, Nacho Pastor, ESP, D, 1.86, 80, 03-04-03, Elche, Lorca Deportiva (On Loan)
+1, Diego Rodríguez, ARG, G, 1.84, 80, 25-06-89, Capital Federal, Defensa y Justicia
+3, Juan Sánchez Miño, ARG, D, 1.77, 78, 01-01-90, Saavedra, Estudiantes (LP)
+18, Youssouf Koné, MLI, D, 1.74, 71, 05-07-95, Bamako, Lyon
+20, Jeison Lucumí, COL, F, 1.77, 63, 08-04-95, Suárez, 

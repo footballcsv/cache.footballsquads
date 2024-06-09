@@ -1,0 +1,46 @@
+=  Real Sociedad B - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gaizka Ayesa, ESP, G, 1.90, 80, 02-04-01, Ansoáin, Real Sociedad C
+2, Álex Sola, ESP, D, 1.78, 75, 09-06-99, San Sebastián, Real Sociedad C
+3, Jonathan Gómez, USA, D, 1.76, 71, 01-09-03, North Richland Hills, Louisville C
+4, Jon Ander Olasagasti, ESP, M, 1.76, 74, 16-08-00, San Sebastián, Real Sociedad C
+5, Aritz Arambarri, ESP, D, 1.86, 76, 31-01-98, Azkoitia, Real Sociedad C
+6, Urko González de Zárate, ESP, D, 1.86, 71, 20-03-01, Vitoria-Gasteiz, Real Sociedad C
+7, Xeber Alkain, ESP, M, 1.74, 69, 26-06-97, Hondarribia, Real Sociedad C
+8, Aritz Aldasoro, ESP, M, 1.76, 70, 05-06-99, Beasain, Real Sociedad C
+9, Jon Karrikaburu, ESP, F, 1.83, 82, 19-09-02, Elizondo, Real Sociedad C
+10, Roberto López, ESP, M, 1.79, 70, 24-04-00, Zaragoza, Real Sociedad C
+11, Julen Lobete, ESP, F, 1.78, 71, 18-09-00, Lezo, Real Sociedad C
+12, Jon Pacheco, ESP, D, 1.84, 77, 08-01-01, Elizondo, Real Sociedad C
+13, Andoni Zubiaurre, ESP, G, 1.88, 82, 04-12-96, Ordizia, Real Sociedad C
+14, Beñat Turrientes, ESP, M, 1.79, 68, 31-01-02, Beasain, Real Sociedad C
+15, Jérémy Blasco, FRA, D, 1.85, 79, 12-02-99, Bayonne, Real Sociedad C
+16, Cristo, ESP, D, 1.73, 62, 30-04-00, Algeciras, Málaga B
+17, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Atlético Madrid B
+18, Peter Pokorný, SVK, M, 1.83, 69, 08-08-01, Trenčín, Red Bull Salzburg
+19, Javier Martón, ESP, F, 1.83, 72, 06-05-99, Tudela, Real Sociedad C
+20, Ander Martín, ESP, F, 1.77, 72, 16-11-00, San Sebastián, Real Sociedad C
+21, Naïs Djouahra, FRA, M, 1.72, 65, 23-11-99, Bourgoin-Jallieu, St-Etienne
+22, Daniel Garrido, ESP, M, 1.70, 70, 19-01-00, Logroño, Real Sociedad C
+23, Luca Sangalli, ESP, M, 1.67, 74, 10-02-95, San Sebastián, Real Sociedad C
+24, Robert Navarro, ESP, M, 1.78, 65, 12-04-02, Barcelona, Monaco
+25, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Zaragoza
+26, Alberto Dadie, ESP, M, 1.70, 66, 20-07-02, San Sebastián, Real Sociedad C
+27, Alex Carbonell, ESP, D, -, -, 13-03-01, Zuarraga, Real Sociedad C
+29, Iker Kortajarena, ESP, M, 1.79, 73, 21-06-00, Oiartzun, Real Sociedad C
+31, Jon Magunazelaia, ESP, M, 1.72, 70, 13-07-01, Eibar, Real Sociedad C
+32, Unai Marrero, ESP, G, 1.89, 82, 09-10-01, San Sebastián, Real Sociedad C
+33, Yago Cantero, ESP, D, -, -, 26-01-00, Bera, Real Sociedad C
+35, José Ortega, ESP, G, -, -, 09-04-02, -, Real Sociedad C
+36, Pablo Marín, ESP, M, 1.78, 73, 03-07-03, Logroño, Real Sociedad C
+37, Peru Rodríguez, ESP, D, -, -, 05-04-02, -, Real Sociedad C
+39, Jokin Gabilondo, ESP, D, -, -, 09-04-99, Urretxu, Real Sociedad C
+40, Egoitz Arana, ESP, G, -, -, 19-02-02, -, Real Sociedad C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Imanol Ezkurdia, ESP, D, 1.80, 77, 04-01-99, Lezo, Real Unión (On Loan)
+28, Ander Zoilo, ESP, D, -, -, 14-02-00, Beasain, Calahorra (On Loan)
+38, Jorge Aguirre, ESP, F, 1.83, 78, 05-01-00, Lesaka, Mirandés (On Loan)

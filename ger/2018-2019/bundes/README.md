@@ -1,0 +1,21 @@
+# German Bundesliga 2018/2019
+
+18 teams
+- [Augsburg](augsburg.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hertha Berlin](hertha.txt)
+- [TSG 1899 Hoffenheim](hoffen.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FSV Mainz 05](mainz.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [FC Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

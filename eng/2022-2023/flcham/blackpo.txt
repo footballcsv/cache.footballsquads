@@ -1,0 +1,56 @@
+=  Blackpool - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Maxwell, WAL, G, 1.83, 73, 30-07-90, St Asaph, Preston NE
+2, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton
+3, James Husband, ENG, D, 1.79, 65, 03-01-94, Leeds, Norwich C
+4, Jordan Lawrence-Gabriel, SCO, D, 1.78, 69, 25-09-98, London, Nottingham F
+6, Kevin Stewart, JAM, M, 1.81, 73, 07-09-93, Enfield, Hull C
+8, Lewis Fiorini, SCO, M, -, -, 17-05-02, Manchester, Manchester C
+9, Jerry Yates, ENG, F, 1.75, 68, 10-11-96, Doncaster, Rotherham U
+10, Keshi Anderson, ENG, F, 1.75, 68, 06-04-95, Luton, Swindon T
+11, Josh Bowler, ENG, M, 1.75, 70, 05-03-99, Chertsey, Nottingham F
+12, Kenny Dougall, AUS, M, 1.82, 79, 07-05-93, Brisbane, Barnsley
+13, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Wealdstone
+14, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Cardiff C
+16, Sonny Carey, ENG, M, 1.84, 73, 20-01-01, Norwich, King's Lynn T
+18, Jake Beesley, ENG, F, 1.85, 67, 02-12-96, Sheffield, Rochdale
+19, Shayne Lavery, NIR, F, 1.82, 73, 08-12-98, Lurgan, Linfield
+21, Marvin Ekpiteta, ENG, D, 1.93, 85, 26-08-95, Enfield, Leyton Orient
+22, CJ Hamilton, IRL, M, 1.70, 74, 23-03-95, Harrow, Mansfield T
+23, Dominic Thompson, ENG, D, 1.85, 75, 26-07-00, Willesden, Brentford
+24, Andy Lyons, IRL, D, 1.73, 58, 02-08-00, Naas, Shamrock R
+25, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, Manchester C
+26, Ian Poveda, ENG, M, 1.65, 61, 09-02-00, Southwark, Leeds U
+27, Charlie Goode, ENG, D, 1.96, 75, 03-08-95, Watford, Brentford
+28, Charlie Patino, ENG, M, -, -, 17-10-03, Watford, Arsenal
+29, Luke Garbutt, ENG, D, 1.78, 73, 21-05-93, Harrogate, Everton
+30, Beryly Lubala, COD, F, 1.79, 76, 08-01-98, -, Crawley T
+31, Curtis Nelson, ENG, D, 1.83, 74, 21-05-93, Newcastle-under-Lyme, Cardiff C
+32, Daniel Grimshaw, ENG, G, 1.85, 77, 16-01-98, Manchester, Manchester C
+34, Jordan Thorniley, ENG, D, 1.81, 64, 24-11-96, Warrington, Sheffield W
+35, Liam Bridcutt, SCO, M, 1.75, 73, 08-05-89, Reading, Lincoln C
+36, Rob Apter, SCO, M, 1.75, 58, 16-01-03, Liverpool, None
+37, Luke Mariette, WAL, M, -, -, 08-10-03, Denbigh, None
+38, Brad Holmes, ENG, F, -, -, 16-12-02, Blackpool, None
+39, Alex Lankshear, ENG, D, 1.86, 75, 08-09-02, Watford, St Albans C
+41, Jack Moore, ENG, D, -, -, 19-11-03, Keighley, None
+44, Will Squires, ENG, D, -, -, 29-04-04, Blackpool, None
+45, Archie Cunningham, ENG, G, -, -, 16-09-04, -, None
+46, Tom Trybull, GER, M, 1.81, 72, 09-03-93, Berlin, Sandhausen
+47, Matteo Spinelli, ENG, G, -, -, -, -, Blackburn R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, Sheffield W (On Loan)
+20, Oliver Casey, ENG, D, 1.88, 78, 14-10-00, Leeds, Forest Green R (On Loan)
+7, Owen Dale, ENG, F, 1.75, 65, 01-11-98, Warrington, Portsmouth (On Loan)
+26, Richard Keogh, IRL, D, 1.83, 71, 11-08-86, Harlow, Ipswich T
+33, Doug Tharme, ENG, D, 1.83, 78, 03-02-00, Birkenhead, Accrington Stanley (On Loan)
+17, Matty Virtue, ENG, M, 1.75, 66, 02-05-97, Epsom, Lincoln C (On Loan)
+25, Theo Corbeanu, CAN, F, 1.87, 76, 17-05-02, Burlington, Wolverhampton W
+24, Callum Wright, ENG, M, 1.82, 72, 02-05-00, Liverpool, Plymouth Arg
+15, Rhys Williams, ENG, D, 1.96, 82, 03-02-01, Preston, Liverpool
+27, Grant Ward, ENG, M, 1.78, 73, 04-12-94, Lewisham, Bristol R
+42, Tayt Trusty, CYP, M, -, -, 23-11-03, Dartford, Hartlepool U (On Loan)

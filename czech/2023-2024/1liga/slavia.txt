@@ -1,0 +1,43 @@
+=  Slavia Prague - Czech 1.Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ondřej Kolář, CZE, G, 1.93, 81, 17-10-94, Liberec, Slovan Liberec
+2, Sheriff Sinyan, GAM, D, 1.88, 84, 19-07-96, Oslo, Molde
+3, Tomáš Holeš, CZE, D, 1.80, 73, 31-03-93, Polička, Jablonec
+4, David Zima, CZE, D, 1.90, 80, 08-11-00, Olomouc, Torino
+5, Igoh Ogbu, NGA, D, 1.87, 80, 08-02-00, Jos, Lillestrøm
+6, Conrad Wallem, NOR, M, 1.80, 73, 09-06-00, Husøy, Odd
+8, Lukáš Masopust, CZE, M, 1.79, 76, 12-02-93, Božejov, Jablonec
+9, Muhamed Tijani, NGA, F, 1.91, 86, 26-07-00, Kaduna, Baník Ostrava
+10, Christos Zafeiris, NOR, M, 1.72, 66, 23-02-03, Athens, Haugesund
+11, Stanislav Tecl, CZE, F, 1.80, 77, 01-09-90, Jindřichův Hradec, Jablonec
+12, El Hadji Malick Diouf, SEN, D, -, -, 28-12-04, -, Tromsø
+13, Mojmír Chytil, CZE, F, 1.87, 83, 29-04-99, Skalka, Sigma Olomouc
+14, Mick van Buren, NED, F, 1.84, 73, 24-08-92, Ridderkerk, Esbjerg
+15, Václav Jurečka, CZE, F, 1.82, 76, 26-06-94, -, Slovácko
+17, Lukáš Provod, CZE, M, 1.89, 84, 23-10-96, Plzeň, Viktoria Plzeň
+18, Jan Bořil, CZE, D, 1.75, 70, 11-01-91, Nymburk, Mladá Boleslav
+19, Oscar Dorley, LBR, D, 1.74, 71, 19-07-98, Monrovia, Slovan Liberec
+20, David Pech, CZE, M, 1.77, 75, 22-02-02, Brandýs nad Labem, Mladá Boleslav
+21, David Douděra, CZE, M, 1.75, 65, 31-05-98, Brandýs Nad Labem, Mladá Boleslav
+23, Petr Ševčík, CZE, M, 1.72, 65, 04-05-94, Jeseník, Slovan Liberec
+24, Bolu Ogungbayi, NGA, F, 1.77, 64, 16-05-04, -, Ilaji FC
+26, Ivan Schranz, SVK, F, 1.86, 75, 13-09-93, Bratislava, Jablonec
+27, Tomáš Vlček, CZE, D, 1.81, 79, 28-02-01, -, None
+28, Aleš Mandous, CZE, G, 1.90, 85, 21-04-92, Nekmíř, Sigma Olomouc
+29, Michal Tomič, SVK, D, 1.81, 73, 30-03-99, Skalica, Slovácko
+31, Jan Sirotník, CZE, G, 1.90, 79, 16-04-02, -, None
+33, Ondřej Zmrzlý, CZE, D, 1.85, 73, 22-04-99, -, Sigma Olomouc
+35, Matěj Jurásek, CZE, M, 1.81, 73, 30-08-03, Karviná, None
+36, Jindřich Staněk, CZE, G, 1.92, 84, 27-04-96, Strakonice, Viktoria Plzeň
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Jan Stejskal, CZE, G, 1.90, 83, 14-02-97, Pardubice, MFK Vyškov (On Loan)
+24, Petr Hronek, CZE, M, 1.82, 75, 04-07-93, Prague, Teplice (On Loan)
+32, Ondřej Lingr, CZE, M, 1.75, 70, 07-10-98, Havířov, Feyenoord (On Loan)
+22, Andres Dumitrescu, ROU, D, 1.81, 70, 11-03-01, Slatina, Sepsi Sfântu Gheorghe (On Loan)
+4, Aiham Ousou, SWE, D, 1.86, 77, 09-01-00, Mölndal, Cádiz (On Loan)
+25, Jakub Hromada, SVK, M, 1.83, 72, 25-05-96, Košice, Rapid București (On Loan)
+30, Taras Kacharaba, UKR, D, 1.89, 79, 07-01-95, Zhydachiv, DAC Dunajská Streda

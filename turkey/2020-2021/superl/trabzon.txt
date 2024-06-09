@@ -1,0 +1,50 @@
+=  Trabzonspor - Turkish Süper Lig 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Uğurcan Çakır, TUR, G, 1.88, 75, 05-04-96, Antalya, 1461 Trabzon
+2, Berat Özdemir, TUR, M, 1.87, 83, 23-05-98, Kayseri, Gençlerbirliği
+3, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Fluminense
+4, Hüseyin Türkmen, TUR, D, 1.83, 75, 01-01-98, Trabzon, 1461 Trabzon
+5, Majid Hosseini, IRN, D, 1.83, 76, 20-06-96, Karaj, Esteghlal
+7, Yusuf Sari, FRA, F, 1.65, 55, 20-11-98, Martigues, Marseille
+8, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+9, Anthony Nwakaeme, NGA, F, 1.85, 80, 21-03-89, Lagos, Hapoel Be'er Sheva
+10, Abdülkadir Ömür, TUR, M, 1.68, 62, 25-06-99, Trabzon, None
+11, Anastasios Bakasetas, GRE, F, 1.85, 73, 28-06-93, Corinth, Alanyaspor
+13, Vitor Hugo, BRA, D, 1.87, 80, 20-05-91, Guaraci, Palmeiras
+14, Hakan Yeşil, TUR, M, 1.81, 73, 01-01-02, Ergani, None
+15, Anders Trondsen, NOR, M, 1.83, 78, 30-03-95, Lillehammer, Rosenborg
+16, Erce Kardeşler, TUR, G, 1.86, 75, 14-03-94, Çanakkale, Altınordu
+18, Caleb Ekuban, GHA, F, 1.88, 80, 23-03-94, Villafranca, Leeds U
+19, Safa Kınalı, TUR, F, 1.81, 70, 23-04-99, Trabzon, None
+21, Djaniny, CPV, F, 1.90, 78, 21-03-91, Santa Cruz, Al-Ahli Saudi
+23, Kamil Ahmet Çörekçi, TUR, D, 1.73, 73, 01-02-92, London, Eskişehirspor
+24, Flávio, BRA, M, 1.77, 73, 10-02-96, Santos, Bahia
+29, Yunus Mallı, TUR, M, 1.79, 74, 24-02-92, Kassel, Wolfsburg
+32, Edgar Ié, POR, D, 1.76, 70, 01-05-94, Bissau, Lille
+39, Atakan Gündüz, TUR, D, 1.89, 84, 01-01-01, Lüleburgaz, Altınordu
+59, Arda Akbulut, TUR, G, 1.95, 79, 01-01-01, Trabzon, None
+61, Abdulkadir Parmak, TUR, M, 1.76, 66, 28-12-94, Trabzon, 1461 Trabzon
+70, Ahmetcan Kaplan, TUR, D, 1.89, 72, 16-01-03, Trabzon, None
+71, Süleyman Cebeci, TUR, M, 1.77, 68, 05-01-03, Trabzon, None
+75, Faruk Can Genç, TUR, D, 1.80, 76, 16-02-00, Trabzon, None
+79, Benik Afobe, COD, F, 1.83, 78, 12-02-93, Leyton, Stoke C
+98, Kağan Moradaoğlu, TUR, G, 1.93, 82, 10-01-03, Trabzon, None
+99, Serkan Asan, TUR, D, 1.70, 67, 28-04-99, Akçaabat, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Alexander Sørloth, NOR, F, 1.94, 90, 05-12-95, Trondheim, Crystal Palace
+21, Doğan Erdoğan, TUR, M, 1.82, 79, 22-08-96, Samsun, Rizespor
+6, Guilherme, BRA, M, 1.74, 70, 21-05-91, Três Rios, Benevento
+33, Abdurrahim Dursun, TUR, D, 1.76, 70, 01-12-98, Bayburt, Bandırmaspor (On Loan)
+22, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, Fatih Karagümrük (On Loan)
+28, Salih Kavrazlı, TUR, F, 1.78, 68, 16-03-02, Ağrı, Hekimoğlu Trabzon (On Loan)
+38, Ahmet Canbaz, TUR, M, 1.82, 66, 27-04-98, Hannover, Ümraniyespor (On Loan)
+45, Bilal Başacıkoğlu, NED, F, 1.79, 64, 26-03-95, Zaanstad, Gaziantep
+17, Fousseni Diabaté, MLI, M, 1.75, 66, 18-10-95, Aubervilliers, Göztepe (On Loan)
+54, Muhammet Taha Tepe, TUR, G, 1.85, 79, 01-01-01, Sakarya, Turgutluspor (On Loan)
+52, Stiven Plaza, ECU, F, 1.88, 80, 11-03-99, Eloy Alfaro, Valladolid
+77, Kerem Baykuş, TUR, M, 1.82, 70, 05-02-00, Düzköy, İstanbulspor (On Loan)
+47, João Pereira, POR, D, 1.72, 64, 25-02-84, Lisbon, Sporting CP

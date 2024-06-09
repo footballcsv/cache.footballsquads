@@ -1,0 +1,47 @@
+=  Rizespor - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tarık Çetin, TUR, G, 1.93, 86, 08-01-97, Kadıköy, Fenerbahçe
+2, Husniddin Aliqulov, UZB, D, 1.82, 77, 04-04-99, Kitob, Nasaf Qarshi
+3, Halil İbrahim Pehlivan, TUR, D, 1.83, 80, 21-08-93, Ankara, Gaziantep
+4, Attila Mocsi, HUN, D, 1.88, 74, 29-05-00, Sokolce, Zalaegerszeg
+5, Casper Højer Nielsen, DEN, D, 1.83, 77, 20-11-94, Copenhagen, Sparta Prague
+6, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Nottingham F
+7, Benhur Keser, TUR, F, 1.85, 75, 29-10-96, Kayseri, Kocaelispor
+8, Dal Varešanović, BIH, M, 1.77, 60, 23-05-01, Vienna, Sarajevo
+9, Adolfo Gaich, ARG, F, 1.90, 82, 26-02-99, Córdoba, CSKA Moscow
+10, Ibrahim Olawoyin, NGA, F, 1.78, 71, 01-12-97, Lagos, Ankara Keçiörengücü
+11, Gustavo Sauer, BRA, F, 1.81, 74, 30-04-93, Joinville, Botafogo
+14, Okechukwu Azubuike, NGA, M, 1.70, 73, 19-04-97, Katsina, İstanbul Başakşehir
+16, Seyfettin Anıl Yaşar, TUR, D, 1.92, 85, 01-07-02, Bursa, Afyonspor
+17, Janne-Pekka Laine, FIN, M, 1.84, 78, 25-01-01, Tampere, FC Haka
+19, Oumar Diouf, SEN, F, 1.76, 70, 15-05-03, Dakar, AF Darou Salam
+20, Mame Mor Faye, SEN, F, 1.82, 75, 12-07-05, Saint-Louis, AF Darou Salam
+23, Gökhan Akkan, TUR, G, 1.86, 75, 01-01-95, Çekerek, Ankaragücü
+24, Muammer Sarıkaya, TUR, M, 1.79, 75, 09-02-98, İstanbul, İstanbulspor
+27, Eray Korkmaz, TUR, M, -, -, 08-06-03, İzmir, Somaspor
+28, Babajide David, NGA, M, 1.78, 69, 13-01-96, Oyo, Adana Demirspor
+37, Taha Şahin, TUR, D, 1.78, 74, 22-10-00, Üsküda, Manisa
+40, Canberk Yurdakul, TUR, G, 1.87, 83, 30-04-01, Kırşehir, Bursaspor
+53, Emir Han Topçu, TUR, D, 1.88, 80, 11-10-00, Bandırma, None
+54, Mithat Pala, TUR, M, 1.72, 68, 15-08-00, Sakarya, Pazarspor
+66, Güvenç Usta, TUR, M, -, -, 01-04-04, İstanbul, None
+77, Altin Zeqiri, KVX, F, 1.84, 79, 18-07-00, Espoo, FC Lahti
+87, Emre Şimşek, TUR, D, -, -, 01-02-04, Rize, None
+89, Martin Minchev, BUL, M, 1.76, 65, 22-04-01, Varna, Sparta Prague
+92, Ali Kemal Aslankaya, TUR, M, -, -, 03-01-07, Rize, None
+93, Eren Durmuş, TUR, M, -, -, 01-01-05, Rize, None
+98, Muhammet Mert Karaca, TUR, D, -, -, 20-03-06, Rize, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+96, Muhammet Enes Şebelek, TUR, M, 1.78, 73, 07-09-05, Bağcılar, Küçükçekmece Sinop Spor (On Loan)
+13, Eren Emre Aydın, TUR, M, 1.88, 83, 20-08-04, Artvin, İnegölspor (On Loan)
+12, John Mary, CMR, F, 1.85, 87, 09-03-93, Nnobi, Manisa
+35, Alberk Koç, TUR, D, 1.81, 67, 15-02-97, İzmir, Manisa
+18, Sinan Osmanoğlu, TUR, D, 1.97, 86, 09-01-90, Fatih, Manisa
+90, Emirhan Yılmaz, TUR, M, 1.79, 72, 22-04-04, Artvin, Düzcespor (On Loan)
+21, Pinchi, ESP, F, 1.73, 62, 17-06-96, La Coruña, Racing Ferrol (On Loan)
+30, Zafer Görgen, TUR, G, 1.88, 83, 21-06-00, Mugla, Bandırmaspor (On Loan)
+99, Zeki Furkan Kayalı, TUR, G, 1.97, 87, 17-08-03, Rize, Zonguldak Kömürspor

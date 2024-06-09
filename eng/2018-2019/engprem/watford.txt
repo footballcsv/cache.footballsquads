@@ -1,0 +1,37 @@
+=  Watford - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.97, 95, 15-02-81, João Pinheiro, Tottenham H
+2, Daryl Janmaat, NED, D, 1.85, 80, 22-07-89, Leidschendam, Newcastle U
+3, Miguel Angel Britos, URU, D, 1.90, 85, 17-07-85, Maldonado, Napoli
+5, Sebastian Prödl, AUT, D, 1.96, 97, 21-06-87, Graz, Werder Bremen
+6, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Crystal Palace
+7, Gerard Deulofeu, ESP, F, 1.77, 73, 13-03-94, Riudarenes, Barcelona
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+9, Troy Deeney, ENG, F, 1.85, 101, 29-06-88, Birmingham, Walsall
+10, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Granada
+11, Adam Masina, ITA, D, 1.91, 87, 02-01-94, Khouribga, Bologna
+12, Ken Sema, SWE, M, 1.77, 69, 30-09-93, Norrköping, Östersunds FK
+14, Nathaniel Chalobah, ENG, D, 1.87, 80, 12-12-94, Freetown, Chelsea
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+16, Abdoulaye Doucouré, FRA, M, 1.84, 76, 01-01-93, Meulan-en-Yvelines, Rennes
+17, Adalberto Peñaranda, VEN, F, 1.85, 78, 31-05-97, El Vigia, Udinese
+18, Andre Gray, ENG, F, 1.78, 83, 26-06-91, Wolverhampton, Burnley
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, Derby Co
+20, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, West Ham U
+21, Kiko Femenía, ESP, M, 1.74, 61, 02-02-91, Sanet y Negrals, Alavés
+23, Marc Navarro, ESP, D, 1.88, 79, 02-07-95, Barcelona, Espanyol
+25, José Holebas, GRE, D, 1.85, 81, 27-06-84, Aschaffenburg, Roma
+26, Ben Foster, ENG, G, 1.93, 90, 03-04-83, Leamington, WBA
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+29, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Tottenham H
+30, Pontus Dahlberg, SWE, G, 1.94, 84, 21-01-99, Gothenburg, IFK Göteborg
+37, Roberto Pereyra, ARG, M, 1.82, 77, 07-01-91, San Miguel de Tucumán, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Younès Kaboul, FRA, D, 1.93, 87, 04-01-86, St-Julien-en-Genevois, 
+33, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Udinese (On Loan)
+22, Marvin Zeegelaar, NED, D, 1.86, 84, 12-08-90, Amsterdam, Udinese (On Loan)
+24, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Udinese (On Loan)

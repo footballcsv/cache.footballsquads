@@ -1,0 +1,65 @@
+=  Southampton - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Sporting CP
+3, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, VVV Venlo
+5, Jack Stephens, ENG, D, 1.85, 75, 27-01-94, Torpoint, Plymouth Arg
+6, Wesley Hoedt, NED, D, 1.88, 77, 06-03-94, Alkmaar, Lazio
+7, Shane Long, IRL, F, 1.78, 70, 22-01-87, Kilkenny, WBA
+8, Steven Davis, NIR, M, 1.73, 70, 01-01-85, Ballymena, Rangers
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Monaco
+10, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, QPR
+11, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, FC Twente
+13, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, Crystal Palace
+14, Oriol Romeu, ESP, M, 1.83, 83, 24-09-91, Ulldecona, Chelsea
+16, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, None
+18, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Juventus
+19, Sofiane Boufal, MAR, M, 1.70, 60, 17-09-93, Paris, Lille
+20, Manolo Gabbiadini, ITA, F, 1.81, 72, 26-11-91, Calcinate, Napoli
+21, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Chelsea
+22, Nathan Redmond, ENG, M, 1.73, 69, 06-03-94, Birmingham, Norwich C
+23, Pierre-Emile Højbjerg, DEN, M, 1.85, 84, 05-08-95, Copenhagen, Bayern Munich
+26, Jérémy Pied, FRA, M, 1.73, 69, 23-02-89, Grenoble, Nice
+28, Stuart Taylor, ENG, G, 1.98, 85, 28-11-80, Romford, Leeds U
+30, Will Wood, ENG, D, 1.74, 67, 29-11-96, Burgess Hill, None
+32, Alfie Jones, ENG, D, 1.91, 70, 07-10-97, Bristol, None
+34, Jake Flannigan, ENG, M, 1.80, 71, 02-02-96, Southampton, None
+35, Jan Bednarek, POL, D, 1.89, 77, 12-04-96, Słupca, Lech Poznań
+38, Sam McQueen, ENG, M, 1.81, 70, 06-02-95, Southampton, None
+39, Josh Sims, ENG, M, 1.74, 67, 28-03-97, Yeovil, Portsmouth
+42, Jake Hesketh, ENG, M, 1.68, 63, 27-03-96, Southampton, None
+43, Yan Valery, FRA, D, 1.80, 85, 22-02-99, Champigny-sur-Marne, Rennes
+44, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Celtic
+47, Richard Bakary, BEN, D, , , 17-10-97, , Chelsea
+49, Thomas O'Connor, IRL, M, 1.80, 70, 21-04-99, Kilkenny, New Ross Celtic
+50, Ben Rowthorn, ENG, D, , , 21-11-98, , None
+51, Tyreke Johnson, ENG, M, 1.72, 66, 03-11-98, Swindon, Swindon T
+52, Dan N'Lundulu, ENG, F, 1.80, 75, 05-02-99, Paris, Chelsea
+54, Christoph Klarer, AUT, D, 1.91, 82, 14-06-00, Böheimkirchen, Rapid Vienna
+55, Callum Slattery, ENG, M, 1.75, 70, 08-02-99, Oxford, None
+56, Adam Parkes, ENG, G, 1.85, 75, 30-11-99, Weymouth, None
+57, Jake Vokins, ENG, D, 1.80, 70, 17-03-00, Oxford, None
+58, Aaron O'Driscoll, IRL, M, 1.88, 80, 04-04-99, Dublin, Manchester C
+59, Jonathan Afolabi, IRL, F, 1.76, 70, 14-01-00, Dublin, None
+60, Will Smallbone, IRL, M, 1.73, 61, 21-02-00, Basingstoke, None
+61, Michael Obafemi, IRL, F, 1.69, 71, 06-07-00, Dublin, Leyton Orient
+62, Jack Rose, ENG, G, 1.83, 75, 31-01-95, Solihull, WBA
+63, Harrison Davis, ENG, D, , , 25-10-99, Plymouth, None
+64, Nathan Tella, ENG, M, 1.73, 70, 05-07-99, Lambeth, Arsenal
+66, Armani Little, ENG, M, 1.72, 63, 05-04-97, Portsmouth, None
+67, Kingsley Latham, ENG, G, , , 16-09-98, Barnstaple, Yeovil T
+68, Harlem Hale, ENG, F, , , 04-02-00, , Chelsea
+69, Alex Cull, ENG, G, , , 02-06-00, , None
+70, Kornelius Hansen, NOR, M, 1.75, 75, 06-05-01, Larvik, Fram Larvik
+71, Harry Hamblin, ENG, M, , , 13-10-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Sam Gallagher, ENG, F, 1.93, 75, 15-09-95, Crediton, Birmingham C (On Loan)
+4, Jordy Clasie, NED, M, 1.69, 66, 27-06-91, Haarlem, Club Brugge (On Loan)
+17, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, Liverpool
+65, Marcus Barnes, ENG, F, 1.85, 72, 01-12-96, Reading, Yeovil T (On Loan)
+33, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Fulham (On Loan)
+48, Ollie Cook, ENG, D, , , 25-11-97, , Barrow (On Loan)
+25, Florin Gardoș, ROU, D, 1.93, 84, 29-10-88, Satu Mare, Universitatea Craiova (On Loan)

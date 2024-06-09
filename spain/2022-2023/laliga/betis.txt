@@ -1,0 +1,51 @@
+=  Betis - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Claudio Bravo, CHI, G, 1.84, 80, 13-04-83, Viluco, Manchester C
+2, Martín Montoya, ESP, D, 1.75, 73, 14-04-91, Gavà, Brighton & HA
+3, Edgar, ESP, D, 1.93, 85, 01-04-97, Sant Joan Despí, Espanyol B
+4, Paul Akouokou, CIV, M, 1.81, 68, 20-12-97, Abidjan, Ekenäs IF
+5, Guido Rodríguez, ARG, M, 1.85, 78, 12-04-94, Sáenz Peña, América
+6, Víctor Ruíz, ESP, D, 1.85, 78, 25-01-89, Esplugues de Llobregat, Beşiktaş
+7, Juanmi, ESP, F, 1.72, 69, 20-05-93, Coín, Real Sociedad
+8, Nabil Fekir, FRA, M, 1.73, 72, 18-07-93, Lyon, Lyon
+9, Borja Iglesias, ESP, F, 1.87, 79, 17-01-93, Santiago de Compostela, Celta Vigo
+10, Sergio Canales, ESP, M, 1.80, 74, 16-02-91, Santander, Real Sociedad
+11, Luiz Henrique, BRA, F, 1.81, 77, 02-01-01, Petrópolis, Fluminense
+12, Willian José, BRA, F, 1.89, 93, 23-11-91, Porto Calvo, Real Sociedad
+13, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Granada
+14, William Carvalho, POR, M, 1.87, 79, 07-04-92, Luanda, Sporting CP
+16, Germán Pezzella, ARG, D, 1.87, 82, 27-06-91, Bahía Blanca, Fiorentina
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, El Puerto de Santa Maria, Fiorentina
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, PSV Eindhoven
+19, Luiz Felipe, BRA, D, 1.87, 80, 22-03-97, Colina, Lazio
+20, Abner, BRA, D, 1.82, 75, 27-05-00, Presidente Prudente, Ponte Preta
+21, Ayoze Pérez, ESP, F, 1.79, 66, 23-07-93, Santa Cruz de Tenerife, Leicester C
+23, Youssouf Sabaly, SEN, D, 1.74, 71, 05-03-93, Chesnay, Bordeaux
+24, Aitor Ruibal, ESP, F, 1.76, 74, 22-03-96, Manresa, Betis B
+25, Dani Martín, ESP, G, 1.86, 76, 08-07-98, Gijón, Sporting Gijón
+28, Rodri, ESP, M, 1.68, 62, 16-05-00, Talayuela, Betis B
+29, Juan Cruz, ESP, M, 1.77, 72, 25-04-00, Quilmes, Málaga B
+30, Fran Vieites, ESP, G, 1.96, 88, 07-05-99, Pontecesures, Lugo
+31, Germán García, ESP, G, -, -, 01-02-04, Alcalá de Guadaíra, Betis B
+32, Fran Delgado, ESP, D, 1.77, 62, 11-07-01, Écija, Betis B
+33, Juan Miranda, ESP, D, 1.85, 78, 19-01-00, Olivares, Barcelona B
+34, Ricardo Visus, ESP, D, 1.92, 85, 24-04-01, Madrid, Betis B
+35, Félix Garreta, ESP, D, -, -, 21-04-04, Palau-solità i Plegamans, Betis B
+37, Dani Pérez, ESP, M, 1.73, 64, 26-07-05, Seville, Betis B
+38, Antonio Marchena, ESP, M, 1.82, 71, 27-07-02, Brenes, Betis B
+40, Kike, ESP, M, -, -, 16-11-03, Trebujena, Betis B
+41, José Alonso Lara, ESP, M, 1.67, 61, 07-03-00, Seville, Sevilla B
+42, Ángel Ortiz, ESP, M, -, -, 25-07-04, Almendralejo, Betis B
+43, Manu Morillo, ESP, F, -, -, 14-08-03, Sanlúcar la Mayor, Betis B
+44, Marcos Fernández, ESP, F, -, -, 17-05-03, Cambrils, Betis B
+45, Ismael Sierra, ESP, D, -, -, 17-03-03, Huesca, Betis B
+46, Xavi Pleguezuelo, ESP, D, 1.78, 68, 14-01-03, Barcelona, Betis B
+47, Óscar Cantarero, ESP, M, -, -, 24-03-03, Córdoba, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Roberto González, ESP, F, 1.73, 62, 08-01-01, Mérida, Alavés (On Loan)
+15, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Aston Villa
+21, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Las Palmas (On Loan)

@@ -1,0 +1,43 @@
+=  Bayer Leverkusen - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lukáš Hrádecký, FIN, G, 1.87, 67, 24-11-89, Bratislava, Eintracht Frankfurt
+3, Piero Hincapié, ECU, D, 1.83, 66, 09-01-02, Esmeraldas, Talleres (Córdoba)
+4, Jonathan Tah, GER, D, 1.92, 90, 11-02-96, Hamburg, Hamburg
+5, Mitchel Bakker, NED, D, 1.78, 74, 20-06-00, Purmerend, Paris St-Germain
+6, Odilon Kossounou, CIV, D, 1.91, 79, 04-01-01, Abidjan, Club Brugge
+8, Robert Andrich, GER, M, 1.85, 78, 22-09-94, Potsdam, Union Berlin
+9, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Zenit St Petersburg
+10, Kerem Demirbay, GER, M, 1.85, 80, 03-07-93, Gelsenkirchen, 1899 Hoffenheim
+11, Nadiem Amiri, GER, M, 1.78, 69, 27-10-96, Ludwigshafen am Rhein, 1899 Hoffenheim
+12, Edmond Tapsoba, BFA, D, 1.90, 80, 02-02-99, Ouagadougou, Vitória Guimarães
+14, Patrik Schick, CZE, F, 1.86, 73, 24-01-96, Prague, Roma
+17, Callum Hudson-Odoi, ENG, M, 1.77, 75, 07-11-00, Wandsworth, Chelsea
+18, Noah Mbamba, BEL, D, 1.82, 75, 05-01-05, Elsene, Club Brugge
+19, Moussa Diaby, FRA, F, 1.70, 65, 07-07-99, Paris, Paris St-Germain
+21, Amine Adli, FRA, M, 1.74, 60, 10-05-00, Béziers, Toulouse
+22, Daley Sinkgraven, NED, D, 1.79, 66, 04-07-95, Assen, Ajax
+23, Adam Hložek, CZE, F, 1.80, 65, 25-07-02, Ivančice, Sparta Prague
+24, Timothy Fosu-Mensah, NED, D, 1.90, 78, 02-01-98, Amsterdam, Manchester U
+25, Exequiel Palacios, ARG, M, 1.77, 66, 05-10-98, Famaillá, River Plate
+27, Florian Wirtz, GER, M, 1.75, 68, 03-05-03, Pulheim, Köln
+28, Patrick Pentz, AUT, G, 1.82, 78, 02-01-97, Salzburg, Reims
+30, Jeremie Frimpong, NED, D, 1.75, 66, 10-12-00, Amsterdam, Celtic
+31, Madi Monamay, BEL, D, 1.85, 72, 06-04-06, -, KRC Genk
+32, Ayman Azhil, MAR, M, 1.71, 60, 10-04-01, Düsseldorf, None
+35, Joshua Eze, GER, M, 1.86, 75, 20-03-03, Leverkusen, None
+36, Niklas Lomb, GER, G, 1.88, 84, 28-07-93, Cologne, None
+38, Karim Bellarabi, GER, M, 1.83, 72, 08-04-90, Berlin, Eintracht Braunschweig
+40, Andrey Lunev, RUS, G, 1.89, 80, 13-11-91, Moscow, Zenit St Petersburg
+41, Maximilian Neutgens, GER, G, 1.80, 66, 03-03-04, Frechen, None
+43, Leon Köhl, GER, M, 1.86, 73, 17-02-04, Troisdorf, None
+47, Ayman Aourir, GER, M, 1.72, 62, 06-10-04, Cologne, Viktoria Köln
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Joel Pohjanpalo, FIN, F, 1.84, 75, 13-09-94, Helsinki, Venezia
+28, Iker Bravo, ESP, F, 1.82, 75, 13-01-05, Sant Cugat del Vallès, Real Madrid B (On Loan)
+7, Paulinho, BRA, F, 1.74, 75, 15-07-00, Rio de Janeiro, Atlético Mineiro (On Loan)
+29, Zidan Sertdemir, DEN, M, 1.82, 71, 04-02-05, Ishøj, FC Nordsjælland
+20, Charles Aránguiz, CHI, M, 1.72, 67, 17-04-89, Santiago, Internacional

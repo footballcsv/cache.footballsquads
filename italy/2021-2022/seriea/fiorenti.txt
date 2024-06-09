@@ -1,0 +1,53 @@
+=  Fiorentina - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pietro Terracciano, ITA, G, 1.93, 78, 08-03-90, San Felice a Cancello, Empoli
+2, Lucas Martínez Quarta, ARG, D, 1.83, 78, 10-05-96, Mar del Plata, River Plate
+3, Cristiano Biraghi, ITA, D, 1.83, 78, 01-09-92, Cernusco sul Naviglio, Pescara
+4, Nikola Milenković, SRB, D, 1.95, 92, 12-10-97, Belgrade, Partizan Belgrade
+5, Giacomo Bonaventura, ITA, M, 1.80, 75, 22-08-89, San Severino Marche, Milan
+7, José Callejón, ESP, F, 1.79, 73, 11-02-87, Motril, Napoli
+8, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Empoli
+9, Arthur Cabral, BRA, F, 1.86, 86, 25-04-98, Campina Grande, Basel
+10, Gaetano Castrovilli, ITA, M, 1.79, 72, 17-02-97, Canosa di Puglia, Bari
+11, Jonathan Ikoné, FRA, F, 1.80, 70, 02-05-98, Bondy, Lille
+12, Ivan Andonov, BUL, G, 1.85, -, 27-12-03, Sofia, Levski Sofia
+14, Youssef Maleh, ITA, M, 1.77, 70, 22-08-98, Castel San Pietro Terme, Venezia
+17, Aleksa Terzić, SRB, D, 1.84, 70, 17-08-99, Belgrade, Crvena Zvezda
+18, Lucas Torreira, URU, M, 1.68, 64, 11-02-96, Fray Bentos, Arsenal
+19, Krzysztof Piątek, POL, F, 1.83, 76, 01-07-95, Dzierżoniów, Hertha Berlin
+20, Vittorio Agostinelli, ITA, M, 1.83, 64, 21-02-02, Monopoli, Roma
+21, Filippo Frison, ITA, D, 1.91, -, 30-07-02, Bassano del Grappa, None
+22, Nicolás González, ARG, F, 1.80, 72, 06-04-98, Belén de Escobar, Stuttgart
+23, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Montevarchi, None
+25, Antonio Rosati, ITA, G, 1.95, 88, 26-06-83, Tivoli, Torino
+28, Filippo Distefano, ITA, F, 1.78, 73, 28-08-03, Camaiore, None
+29, Álvaro Odriozola, ESP, D, 1.76, 60, 14-12-95, San Sebastián, Real Madrid
+32, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Sassuolo
+33, Riccardo Sottil, ITA, F, 1.80, 70, 03-06-99, Turin, Torino
+34, Sofyan Amrabat, MAR, M, 1.83, 70, 21-08-96, Huizen, Verona
+36, Gabriele Fogli, ITA, G, 1.85, -, 03-03-03, Pontedera, None
+42, Alessandro Bianco, ITA, M, 1.73, 67, 01-10-02, Turin, Torino
+55, Matija Nastasić, SRB, D, 1.88, 83, 28-03-93, Belgrade, Schalke
+67, Louis Munteanu, ROU, F, 1.88, 77, 16-06-02, Vaslui, Viitorul Constanța
+69, Bartłomiej Drągowski, POL, G, 1.91, 86, 19-08-97, Białystok, Jagiellonia Białystok
+91, Aleksandr Kokorin, RUS, F, 1.84, 83, 19-03-91, Moscow, Spartak Moscow
+98, Igor, BRA, D, 1.84, 85, 07-02-98, Bom Sucesso, SPAL
+99, Eljon Toçi, ALB, F, 1.83, 75, 09-01-03, Dibër, Südtirol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Gabriele Ferrarini, ITA, D, 1.77, 68, 09-04-00, La Spezia, Perugia (On Loan)
+20, Germán Pezzella, ARG, D, 1.87, 82, 27-06-91, Bahía Blanca, Betis
+11, Cristian Kouamé, CIV, F, 1.85, 70, 06-12-97, Bingerville, Anderlecht (On Loan)
+21, Pol Lirola, ESP, D, 1.83, 76, 13-08-97, Mollet del Vallès, Marseille
+30, Luca Ranieri, ITA, D, 1.85, 74, 23-04-99, La Spezia, Salernitana (On Loan)
+6, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Pordenone (On Loan)
+19, Filippo Frison, ITA, D, 1.91, -, 30-07-02, Bassano del Grappa, Re-Registered (21)
+24, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Empoli (On Loan)
+9, Dušan Vlahović, SRB, F, 1.90, 75, 28-01-00, Belgrade, Juventus
+19, Tòfol Montiel, ESP, M, 1.78, 68, 11-04-00, Palma de Mallorca, Atlético Balearas (On Loan)
+31, Michele Cerofolini, ITA, G, 1.88, 80, 04-01-99, Arezzo, Alessandria (On Loan)
+15, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Galatasaray (On Loan)
+21, Destiny Egharevba, ITA, F, 1.83, -, 04-02-03, Verona, De-Registered

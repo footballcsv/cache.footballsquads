@@ -1,0 +1,45 @@
+=  Valladolid - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jordi Masip, ESP, G, 1.80, 72, 03-01-89, Sabadell, Barcelona
+2, Luis Pérez, ESP, D, 1.72, 68, 04-02-95, Utrera, Tenerife
+3, Raúl García, ESP, D, 1.75, 72, 30-04-89, La Coruña, Getafe
+4, Kiko, ESP, D, 1.89, 83, 21-08-88, Málaga, Girona
+5, Javi Sánchez, ESP, D, 1.86, 71, 14-03-97, Getafe, Real Madrid B
+6, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Elche
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Levante
+8, Monchu, ESP, M, 1.73, 68, 13-09-99, Palma de Mallorca, Granada
+9, Shon Weissman, ISR, F, 1.74, 69, 14-02-96, Haifa, Wolfsberger AC
+10, Óscar Plano, ESP, M, 1.80, 68, 11-02-91, Móstoles, Alcorcón
+11, Pablo Hervías, ESP, M, 1.74, 68, 08-03-93, Logroño, Eibar
+12, Gonzalo Plata, ECU, F, 1.78, 65, 01-11-00, Guayaquil, Sporting CP
+13, Roberto, ESP, G, 1.92, 93, 10-02-86, Fuenlabrada, West Ham U
+15, Jawad El Yamiq, MAR, D, 1.90, 83, 29-02-92, Khourigba, Genoa
+16, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Córdoba
+17, Roque Mesa, ESP, M, 1.71, 74, 07-06-89, Telde, Sevilla
+18, Saidy Janko, GAM, D, 1.78, 70, 22-10-95, Zürich, FC Porto
+19, Toni Villa, ESP, M, 1.71, 61, 07-01-95, Murcia, Valladolid B
+20, Jon Morcillo, ESP, M, 1.83, 72, 15-09-98, Amorebieta-Etxano, Athletic Bilbao
+21, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Birmingham C
+22, Nacho Martínez, ESP, D, 1.75, 76, 07-03-89, Madrid, Rayo Vallecano
+23, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Udinese
+24, Joaquín, ESP, D, 1.90, 66, 31-05-96, Huercal de Almería, Almería
+25, Anuar, MAR, M, 1.72, 63, 15-01-95, Ceuta, Valladolid B
+27, Hugo Vallejo, ESP, F, 1.81, 77, 15-02-00, Granada, Real Madrid B
+31, Enrique Ríos, ESP, D, 1.87, 80, 21-01-00, Arcos de la Frontera, Sevilla B
+38, Víctor Narro, ESP, F, 1.84, 82, 27-05-99, Palma de Mallorca, Villarreal B
+46, Iván Fresneda, ESP, D, 1.83, 74, 28-09-04, Madrid, Valladolid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Marcos André, BRA, F, 1.84, 78, 20-10-96, Coroatá, Valencia
+23, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Málaga (On Loan)
+12, Fabián Orellana, CHI, M, 1.69, 68, 27-01-86, Santiago, Universidad Católica
+3, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Rayo Vallecano (On Loan)
+6, Bruno, ESP, D, 1.85, 83, 24-05-90, Las Galletas, Leganés
+20, Fede San Emeterio, ESP, M, 1.74, 68, 16-03-97, Torrelavega, Cádiz (On Loan)
+14, Rubén Alcaraz, ESP, M, 1.80, 70, 01-05-91, Barcelona, Cádiz (On Loan)
+6, Diogo Queirós, POR, D, 1.85, 79, 05-01-99, Matosinhos, Famalicão
+8, Kike Pérez, ESP, M, 1.84, 80, 14-02-97, Gálvez, Elche (On Loan)
+21, Lucas Olaza, URU, D, 1.77, 75, 21-07-94, Montevideo, Elche (On Loan)

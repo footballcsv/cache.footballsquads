@@ -1,0 +1,73 @@
+=  Manchester City - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Kyle Walker, ENG, D, 1.83, 83, 28-05-90, Sheffield, Tottenham H
+3, Rúben Dias, POR, D, 1.87, 82, 14-05-97, Amadora, Benfica
+5, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Everton
+6, Nathan Aké, NED, D, 1.80, 75, 18-02-95, Den Haag, Bournemouth
+7, Raheem Sterling, ENG, F, 1.70, 69, 08-12-94, Kingston, Liverpool
+8, İlkay Gündoğan, GER, M, 1.80, 80, 24-10-90, Gelsenkirchen, Borussia Dortmund
+9, Gabriel Jesus, BRA, F, 1.75, 73, 03-04-97, São Paulo, Palmeiras
+10, Jack Grealish, ENG, M, 1.75, 68, 10-09-95, Birmingham, Aston Villa
+11, Oleksandr Zinchenko, UKR, D, 1.75, 61, 15-12-96, Illichivsk, FC Ufa
+13, Zack Steffen, USA, G, 1.90, 86, 02-04-95, Coatesville, Columbus Crew
+14, Aymeric Laporte, ESP, D, 1.91, 87, 27-05-94, Agen, Athletic Bilbao
+16, Rodri, ESP, M, 1.90, 78, 22-06-96, Madrid, Atlético Madrid
+17, Kevin De Bruyne, BEL, M, 1.81, 68, 28-06-91, Drongen, Wolfsburg
+20, Bernardo Silva, POR, M, 1.73, 62, 10-08-94, Lisbon, Monaco
+22, Benjamin Mendy, FRA, D, 1.80, 72, 17-07-94, Longjumeau, Monaco
+25, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Shakhtar Donetsk
+26, Riyad Mahrez, ALG, F, 1.79, 62, 21-02-91, Sarcelles, Leicester C
+27, João Cancelo, POR, D, 1.82, 74, 27-05-94, Barreiro, Juventus
+31, Ederson, BRA, G, 1.88, 89, 17-08-93, Osasco, Benfica
+33, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Derby Co
+37, Kayky, BRA, F, 1.75, 68, 11-06-03, Rio de Janeiro, Fluminense
+47, Phil Foden, ENG, M, 1.71, 70, 28-05-00, Stockport, None
+48, Liam Delap, ENG, F, 1.86, 72, 08-02-03, Winchester, Derby Co
+51, Isaac Smith, ENG, D, -, -, 26-07-05, Liverpool, None
+52, Oscar Bobb, NOR, M, -, -, 12-07-03, Oslo, Vålerenga
+53, Samuel Edozie, ENG, F, 1.81, 76, 28-01-03, Lewisham, Millwall
+56, CJ Egan-Riley, ENG, D, 1.83, 70, 02-01-03, Manchester, None
+58, Adedire Mebude, SCO, F, -, -, 28-05-04, Glasgow, Rangers
+60, Tai Sodje, ENG, F, -, -, 20-09-03, Sheffield, None
+62, Shea Charles, NIR, D, 1.89, 75, 05-11-03, Manchester, None
+63, Mikki van Sas, NED, G, -, -, 29-02-04, Utrecht, FC Utrecht
+64, Rowan McDonald, ENG, M, 1.80, 75, 20-10-01, Oldham, None
+66, Iker Pozo, ESP, M, -, -, 06-08-00, -, Real Madrid
+67, Kane Taylor, ENG, M, -, -, 14-02-05, Birmingham, Aston Villa
+70, Jadel Katongo, ENG, D, -, -, 14-09-04, Manchester, None
+73, Jayden Braaf, NED, F, 1.77, 65, 31-08-02, Amsterdam, PSV Eindhoven
+75, Nico O'Reilly, ENG, M, -, -, 21-03-05, Manchester, None
+76, Mahamadou Susoho, ESP, M, -, -, 20-01-05, Granollers, None
+79, Luke Mbete-Tabu, ENG, D, -, -, 18-09-03, Westminster, None
+80, Cole Palmer, ENG, M, 1.89, 74, 06-05-02, Wythenshawe, None
+82, Rico Lewis, ENG, D, 1.75, 70, 21-11-04, Manchester, None
+83, George Murray-Jones, ENG, G, -, -, 27-10-04, Waltham Forest, Southend U
+84, Cieran Slicker, SCO, G, 1.90, 75, 15-09-02, Oldham, None
+87, James McAtee, ENG, M, 1.80, 72, 18-10-02, Salford, None
+89, Darko Gyabi, ENG, M, 1.96, 82, 18-02-04, Catford, Millwall
+90, Romeo Lavia, BEL, M, 1.81, 70, 06-01-04, Brussels, Anderlecht
+91, Carlos Forbs, POR, F, 1.69, 65, 19-03-04, Sintra, None
+92, Micah Hamilton, ENG, M, -, -, 13-11-03, Manchester, None
+93, Liam Smith, SCO, F, 1.79, 64, 28-10-03, Kilmarnock, Kilmarnock
+95, Kwaku Oduroh, GHA, D, -, -, 16-10-02, Manchester, None
+97, Josh Wilson-Esbrand, ENG, D, 1.76, 63, 26-12-02, Hackney, West Ham U
+98, Joshua McNamara, ENG, G, -, -, 12-12-03, Watford, Watford
+99, Juan Larios, ESP, D, 1.70, 68, 12-01-04, Seville, Barcelona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+96, Ben Knight, ENG, M, -, -, 14-06-02, Cambridge, Crewe Alex (On Loan)
+39, Yan Couto, BRA, D, 1.68, 60, 03-06-02, Curitiba, Sporting Braga (On Loan)
+72, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, Bournemouth (On Loan)
+81, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Barnsley (On Loan)
+21, Ferrán Torres, ESP, F, 1.84, 77, 29-02-00, Foios, Barcelona
+68, Oscar Tarensi, ESP, D, -, -, 10-01-03, Barcelona, Girona B (On Loan)
+69, Tommy Doyle, ENG, M, 1.72, 73, 17-10-01, Manchester, Cardiff C (On Loan)
+94, Finley Burns, ENG, D, 1.85, 71, 17-06-03, Southwark, Swansea C (On Loan)
+34, Philippe Sandler, NED, D, 1.88, 76, 10-02-97, Amsterdam, Feyenoord
+59, Camron Gbadebo, ENG, D, -, -, 01-07-02, Lambeth, Colchester U
+65, Matt Smith, WAL, M, 1.76, 71, 22-11-99, Redditch, MK Dons
+74, Luke Bolton, ENG, M, 1.74, 72, 07-10-99, Manchester, Salford C
+77, Sammy Robinson, ENG, D, -, -, 09-01-02, Cheltenham, Port Vale

@@ -1,0 +1,55 @@
+=  Burton Albion - English Football League One 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matěj Kovář, CZE, G, 1.96, 88, 17-05-00, Uherské Hradiště, Manchester U
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+3, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, Oldham Ath
+4, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, Charlton Ath
+8, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, West Ham U
+9, Gassan Ahadme, MAR, F, 1.84, 70, 17-11-00, Vic, Norwich C
+10, Harry Chapman, ENG, M, 1.77, 70, 05-11-97, Hartlepool, Blackburn R
+11, Jonny Smith, ENG, M, 1.78, 64, 27-07-97, Liverpool, Bristol C
+12, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Leicester C
+15, Christian Saydee, ENG, F, 1.84, 78, 10-05-02, Hillingdon, Bournemouth
+16, Conor Shaughnessy, IRL, D, 1.91, 74, 30-06-96, Galway, Rochdale
+17, Danny Rowe, ENG, M, 1.83, 75, 09-03-92, Wythenshawe, Ipswich T
+18, Frazer Blake-Tracy, ENG, D, 1.83, 64, 10-09-95, Dereham, Peterborough U
+20, Callum Hawkins, ENG, G, 1.87, 77, 12-12-99, Rotherham, None
+21, Oumar Niasse, SEN, F, 1.82, 75, 18-04-90, Ouakam, Huddersfield T
+22, Williams Kokolo, FRA, D, -, -, 09-06-00, -, Middlesbrough
+23, Terry Taylor, WAL, M, 1.83, 71, 29-06-01, Aberdeen, Wolverhampton W
+24, Ben Garratt, ENG, G, 1.85, 66, 25-04-94, Shrewsbury, Crewe Alex
+25, Ciaran Gilligan, ENG, M, 1.80, 79, 19-01-02, Derby, None
+26, Ryan Leak, WAL, D, 1.91, 83, 28-02-98, Burton-on-Trent, Burgos
+27, Tom Hewlett, ENG, F, 1.75, 70, 17-10-01, Birmingham, None
+28, Dan Moore, ENG, G, -, -, -, -, None
+29, Jacob Maddox, ENG, M, 1.78, 72, 03-11-98, Bristol, Vitória Guimarães
+30, Ben Radcliffe, ENG, M, 1.84, 68, 15-09-03, Nottingham, None
+31, Louis Moult, ENG, F, 1.83, 85, 14-05-92, Stoke-on-Trent, Preston NE
+32, Joe Nyahwema, ENG, M, -, -, -, -, None
+33, Charlie Williams, ENG, M, -, -, -, -, None
+34, Luke Redfern, ENG, D, -, -, 19-03-03, Leicester, None
+35, Ben McLean, ENG, D, -, -, -, Nottingham, None
+36, Thierry Latty-Fairweather, ENG, D, 1.91, 80, 05-12-02, Birmingham, None
+37, Tom Hamer, ENG, D, 1.87, 80, 16-11-99, Bolton, Oldham Ath
+38, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, New England Revolution
+40, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, Birmingham C
+42, Jake Kean, ENG, G, 1.93, 76, 04-02-91, Derby, Notts Co
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Josh Parker, ATG, F, 1.80, 76, 01-12-90, Slough, 
+39, Harry Chapman, ENG, M, 1.77, 70, 05-11-97, Hartlepool, Blackburn R
+22, Ellery Balcombe, ENG, G, 1.83, 76, 15-10-99, Watford, Brentford
+5, Michael Bostwick, ENG, D, 1.93, 89, 17-05-88, Eltham, Stevenage (On Loan)
+14, Omari Patrick, ENG, F, 1.85, 80, 24-05-96, Slough, Carlisle U
+9, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Tranmere R
+10, Lucas Akins, ENG, F, 1.80, 73, 25-02-89, Huddersfield, Mansfield T
+6, Kieran Wallace, ENG, D, 1.86, 75, 26-01-95, Nottingham, Mansfield T
+19, Aaron Amadi-Holloway, WAL, F, 1.88, 83, 21-02-93, Cardiff, Barrow (On Loan)
+1, Kieran O'Hara, IRL, G, 1.91, 78, 22-04-96, Manchester, Fleetwood T
+7, Bryn Morris, ENG, M, 1.82, 71, 25-04-96, Hartlepool, Hartlepool U (On Loan)
+15, Thomas O'Connor, IRL, M, 1.80, 70, 21-04-99, Kilkenny, Wrexham
+21, Daniel Jebbison, ENG, F, 1.90, 69, 11-07-03, Oakville, Sheffield U
+6, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, 

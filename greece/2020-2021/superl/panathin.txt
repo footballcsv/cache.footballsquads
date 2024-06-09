@@ -1,0 +1,45 @@
+=  Panathinaikos - Greek Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sokratis Dioudis, GRE, G, 1.82, 75, 03-02-93, Thessaloniki, Aris
+3, Juan Carlos, ESP, D, 1.79, 70, 30-03-90, Boadilla del Monte, Málaga
+4, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Aris
+5, Bart Schenkeveld, NED, D, 1.84, 80, 28-08-91, Den Hoorn, Melbourne C
+6, Younousse Sankharé, FRA, M, 1.84, 76, 10-09-89, Sarcelles, CSKA Sofia
+7, António Xavier, POR, F, 1.81, 73, 06-07-92, Guimarães, Tondela
+8, Yassin Ayoub, NED, M, 1.69, 67, 06-03-94, Amsterdam, Feyenoord
+9, Federico Macheda, ITA, F, 1.84, 73, 22-08-91, Rome, Novara
+10, Carlos López, ESP, F, 1.75, 70, 12-06-90, Alicante, Al-Wahda
+11, Tasos Chatzigiovanis, GRE, M, 1.75, 62, 31-05-97, Mytilene, None
+12, Ilias Chatzitheodoridis, GRE, D, 1.78, 67, 05-11-97, Katerini, Brentford
+14, Facundo Sánchez, ARG, D, 1.75, 73, 07-03-90, Sa Pereyra, Estudiantes (LP)
+15, Vassilis Xenopoulos, GRE, G, 1.85, 80, 20-05-98, Athens, None
+17, Cheikh Niasse, SEN, M, 1.88, 69, 19-01-00, Gossas, Lille
+18, Giannis Bouzoukis, GRE, M, 1.72, 67, 27-03-98, Preveza, None
+19, Lucas Villafañez, ARG, M, 1.68, 62, 04-10-91, Comodoro Rivadavia, Morelia
+20, Dimitris Serpezis, GRE, M, 1.82, 69, 14-03-01, Metamorfosi, None
+21, Dimitrios Kourbelis, GRE, M, 1.82, 73, 02-11-93, Korakovouni, Asteras Tripolis
+22, Aitor Cantalapiedra, ESP, F, 1.77, 67, 10-02-96, Barcelona, FC Twente
+23, Yeni Atito Ngbakoto, FRA, M, 1.72, 71, 23-01-92, Croix, Guingamp
+27, Fotis Ioannidis, GRE, F, 1.86, 77, 10-01-00, Athens, Levadiakos
+37, Andreas Athanasakopoulos, GRE, M, 1.78, 67, 27-11-01, Patras, None
+38, Dmitris Karagannis, GRE, D, 1.84, 79, 27-02-01, Mandra, None
+44, Achilleas Pouggouras, GRE, D, 1.87, 77, 13-12-95, Thessaloniki, PAOK
+55, Sotiris Alexandropoulos, GRE, M, 1.83, 71, 26-11-01, Marousi, None
+57, Uffe Bech, DEN, M, 1.70, 75, 13-01-93, Copenhagen, Hannover 96
+58, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, Sochaux
+61, Christos Chatzigiannakis, GRE, G, 1.86, 75, 09-03-02, Anavyssos, None
+68, Nikos Christogeorgos, GRE, G, 1.90, 74, 18-01-00, Marousi, None
+77, Spyros Tzavidas, GRE, F, 1.82, 72, 21-08-01, Lagonisi, None
+88, Maurício, BRA, M, 1.80, 73, 21-10-88, São José dos Campos, PAOK
+99, Argyris Kampetsis, GRE, F, 1.86, 81, 06-05-99, Athens, Borussia Dortmund II
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Antoñito, ESP, D, 1.73, 65, 24-12-87, Herrera, Cartagena
+47, Vassilis Zagaritis, GRE, D, 1.77, 68, 04-05-01, Thiva, Parma
+24, Fanis Mavromatis, GRE, D, 1.86, 78, 12-05-97, Argos, Atromitos
+17, Dimitrios Emmanouilidis, GRE, F, 1.71, 65, 24-10-00, Leuctra, Fortuna Sittard (On Loan)
+59, Christian Konan, ITA, F, 1.79, 71, 12-07-99, Varese, Logroñés B
+54, Kristo Shehu, GRE, F, 1.89, 68, 01-03-00, Eretria, Apollon Larissa (On Loan)

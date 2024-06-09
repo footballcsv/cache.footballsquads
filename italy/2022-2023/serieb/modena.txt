@@ -1,0 +1,46 @@
+=  Modena - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Narciso, ITA, G, 1.85, 78, 01-10-80, Trani, Sicula Leonzio
+2, Gabriele Ferrarini, ITA, D, 1.79, 70, 09-04-00, La Spezia, Fiorentina
+3, Fabio Ponsi, ITA, D, 1.86, 70, 12-02-01, Pietrasanta, Fiorentina
+4, Antonio Pergreffi, ITA, D, 1.89, 83, 06-05-88, Bergamo, Piacenza
+5, Giorgio Cittadini, ITA, D, 1.84, 72, 18-04-02, Gardone Val Trompia, Atalanta
+6, Luca Magnino, ITA, M, 1.85, 81, 13-08-97, Pordenone, Pordenone
+7, Edoardo Duca, ITA, M, 1.78, 68, 30-05-97, Milan, Pavia
+8, Nicola Mosti, ITA, M, 1.77, 70, 07-02-98, Pietrasanta, Monza
+9, Nicholas Bonfanti, ITA, F, 1.78, 66, 28-03-02, Seriate, Internazionale
+10, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Pordenone
+11, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Bologna
+12, Andrea Seculin, ITA, G, 1.90, 83, 14-07-90, Gorizia, Pistoiese
+15, Tommaso Silvestri, ITA, D, 1.85, 80, 26-10-91, Dolo, Catania
+16, Fabio Gerli, ITA, M, 1.73, 67, 23-12-96, Rome, Siena
+17, Riccardo Vaccari, ITA, M, 1.78, 72, 28-02-02, Modena, None
+19, Romeo Giovannini, ITA, F, 1.74, 67, 28-09-01, Savona, Carpi
+20, Diego Mordini, ITA, F, 1.75, 70, 07-02-03, -, Reggiana
+21, Marco Armellino, ITA, M, 1.76, 70, 21-08-89, Vico Equense, Monza
+22, Tommaso Leonardi, ITA, G, 1.79, -, 02-05-05, Rubiera, None
+23, Thomas Battistella, ITA, M, 1.83, 80, 29-07-01, Pordenone, Udinese
+24, Andrea Poli, ITA, M, 1.81, 77, 29-09-89, Vittorio Veneto, Antalyaspor
+26, Riccardo Gagno, ITA, G, 1.85, 78, 26-07-97, Montebelluna, Ternana
+27, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Pisa
+28, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Vicenza
+32, Luca Strizzolo, ITA, F, 1.88, 83, 29-04-92, Udine, Cremonese
+33, Francesco Renzetti, ITA, D, 1.74, 63, 22-01-88, Monte Carlo, Chievo Verona
+42, Julián Kadijevic, ARG, G, 1.86, 78, 27-01-04, Capital Federal, Comunicaciones
+43, Simone Panada, ITA, M, 1.75, 68, 02-06-02, Brescia, Atalanta
+57, Mauro Coppolaro, ITA, D, 1.89, 70, 10-03-97, Benevento, Virtus Entella
+96, Shady Oukhadda, MAR, D, 1.86, 74, 17-01-99, Abano Terme, Gubbio
+99, Davide Diaw, SEN, F, 1.85, 81, 06-01-92, Cividale del Friuli, Monza
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Matteo Ciofani, ITA, D, 1.83, 76, 26-02-88, Avezzano, Triestina
+18, Mattia Minesso, ITA, F, 1.73, 70, 30-03-90, Cittadella, Triestina
+70, Fabio Abiuso, ITA, F, 1.89, 84, 02-02-03, Sassuolo, Pergolettese (On Loan)
+17, Abdoul Guiebre, BFA, M, 1.78, 80, 17-07-97, Bobo-Dioulasso, Reggiana (On Loan)
+27, Paulo Azzi, BRA, M, 1.88, 78, 15-07-94, Bragança Paulista, Cagliari
+17, Davide Marsura, ITA, F, 1.87, 78, 20-02-94, Valdobbiadene, Ascoli
+20, Mario Gargiulo, ITA, M, 1.87, 81, 26-03-96, Naples, Pisa (On Loan)
+77, Matteo Piacentini, ITA, D, 1.87, 82, 20-04-99, Sassuolo, Triestina (On Loan)

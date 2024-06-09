@@ -1,0 +1,54 @@
+=  Stoke City - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Wolverhampton W
+3, Morgan Fox, WAL, D, 1.85, 78, 21-09-93, Chelmsford, Sheffield W
+5, Axel Tuanzebe, ENG, D, 1.82, 75, 14-11-97, Bunia, Manchester U
+6, Phil Jagielka, ENG, D, 1.83, 83, 17-08-82, Sale, Derby Co
+7, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Swansea C
+8, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+9, Jacob Brown, SCO, F, 1.78, 62, 10-04-98, Halifax, Barnsley
+10, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+11, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Newcastle U
+13, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Gillingham
+14, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, Hull C
+15, Jordan Thompson, NIR, M, 1.75, 65, 03-01-97, Belfast, Blackpool
+16, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Watford
+17, Ki-Jana Hoever, NED, D, 1.80, 67, 18-01-02, Amsterdam, Wolverhampton W
+18, Will Smallbone, IRL, M, 1.73, 61, 21-02-00, Basingstoke, Southampton
+19, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, Leeds U
+20, Dujon Sterling, ENG, D, 1.80, 73, 24-10-99, Islington, Chelsea
+22, Ben Pearson, ENG, M, 1.66, 71, 04-01-95, Oldham, Bournemouth
+23, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Dijon
+25, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Wigan Ath
+28, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Reading
+31, Tommy Simkin, ENG, G, -, -, 08-12-04, Walsall, None
+32, Connor Taylor, ENG, D, 1.83, 86, 25-10-01, Stoke-on-Trent, Stafford Rangers
+33, Lewis Macari, SCO, D, 1.83, 82, 08-02-02, Stoke-on-Trent, None
+34, Frank Fielding, ENG, G, 1.85, 75, 04-04-88, Blackburn, Millwall
+37, Emre Tezgel, ENG, F, 1.82, 72, 19-09-05, Burton upon Trent, None
+40, Blondy Nna Noukeu, CMR, G, 1.84, 70, 17-09-01, -, None
+41, David Okagbue, IRL, D, -, -, 05-10-03, -, St. Kevin's Boys
+42, Lakhraj Singh, ENG, M, -, -, -, -, Sunderland
+43, Luke Badley-Morgan, JAM, D, -, -, 22-10-03, Islington, Chelsea
+45, Nathan Lowe, ENG, F, 1.93, 74, 18-09-05, Harlow, None
+46, Ben Kershaw, ENG, M, -, -, 23-10-03, -, Rochdale
+47, Kahrel Reddin, ENG, M, 1.71, 71, 13-01-04, Birmingham, Aston Villa
+48, Gabriel Adebambo, IRL, M, -, -, 27-02-02, -, Dundalk
+49, Jacob Holland-Wilkinson, ENG, F, -, -, 30-10-02, Bury, Preston NE
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Eddy Jones, WAL, D, -, -, 25-10-01, Chester, Altrincham
+21, Demeaco Duhaney, ENG, D, 1.80, 70, 13-10-98, Manchester, İstanbulspor (On Loan)
+39, Tom Sparrow, WAL, M, 1.77, 74, 06-12-02, Peterborough, Hamilton Academical (On Loan)
+17, Liam Delap, ENG, F, 1.86, 72, 08-02-03, Winchester, Manchester C
+1, Josef Bursik, ENG, G, 1.87, 70, 12-07-00, Lambeth, Club Brugge
+2, Harry Clarke, ENG, D, 1.78, 71, 02-03-01, Ipswich, Arsenal
+24, Tariqe Fosu, GHA, M, 1.70, 67, 05-11-95, Wandsworth, Brentford
+4, Aden Flint, ENG, D, 1.89, 76, 11-07-89, Pinxton, Sheffield W (On Loan)
+44, Matthew Baker, WAL, D, -, -, 06-02-03, -, Newport Co (On Loan)
+5, Harry Souttar, AUS, D, 1.98, 80, 22-10-98, Aberdeen, Leicester C
+22, Gavin Kilkenny, IRL, M, 1.70, 64, 01-02-00, Dublin, Bournemouth
+29, D'Margio Wright-Phillips, ENG, M, 1.70, 62, 24-09-01, Manchester, Northampton T (On Loan)

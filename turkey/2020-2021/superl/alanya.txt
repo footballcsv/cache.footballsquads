@@ -1,0 +1,37 @@
+=  Alanyaspor - Turkish Süper Lig 2020/2021
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Ahmet Gülay, TUR, D, 1.74, 68, 13-01-03, Trabzon, Beşiktaş
+4, Alpay Çelebi, TUR, D, 1.95, 74, 04-04-99, Kocaeli, Beşiktaş
+5, Fatih Aksoy, TUR, D, 1.89, 79, 06-11-97, İstanbul, Beşiktaş
+6, Ceyhun Gülselam, TUR, M, 1.92, 88, 25-12-87, Munich, Osmanlıspor
+7, Efecan Karaca, TUR, M, 1.66, 56, 16-11-89, Fatih, Kartalspor
+8, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Empoli
+9, Adam Bareiro, PAR, F, 1.84, 84, 26-07-96, Asunción, Monterrey
+10, Khouma Babacar, SEN, F, 1.85, 85, 17-03-93, Thiès, Sassuolo
+13, Ahmet Çağrı Güney, TUR, G, 1.86, 80, 23-08-03, Osmangazi, Bursaspor
+14, Hasan Hüseyin Acar, TUR, M, 1.80, 70, 16-12-94, Eskişehir, Kayserispor
+19, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Kasımpaşa
+21, François Moubandje, SUI, D, 1.82, 76, 21-06-90, Geneva, Dinamo Zagreb
+22, Berkan Kutlu, SUI, M, 1.83, 77, 25-01-98, Monthey, Sion
+23, Efkan Bekiroğlu, GER, M, 1.85, 81, 14-09-95, Dachau, 1860 Munich
+24, Juanfran Moreno, ESP, D, 1.80, 71, 11-09-88, Madrid, Deportivo La Coruña
+26, Manolis Siopis, GRE, M, 1.71, 65, 14-05-94, Alexandroupoli, Aris
+27, Umut Güneş, TUR, M, 1.77, 74, 16-03-00, Albstadt, Stuttgart II
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Sporting Braga
+30, Serkan Kırıntılı, TUR, G, 1.85, 78, 15-02-85, Karataş, Konyaspor
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, PAOK
+44, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, Dundee
+75, Tayfur Bingöl, TUR, M, 1.84, 81, 11-01-93, Ankara, Göztepe
+91, Davidson, BRA, F, 1.77, 69, 05-03-91, Rio de Janeiro, Vitória Guimarães
+92, Damian Kądzior, POL, M, 1.73, 69, 16-06-92, Białystok, Eibar
+93, El Mami Tetah, MTN, F, 1.70, 65, 12-11-01, Teyarett, ACS Ksar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Emircan Altıntaş, TUR, M, 1.83, 70, 15-07-95, Trabzon, Adana Demirspor (On Loan)
+25, Onur Bulut, GER, D, 1.81, 70, 16-04-94, Werdohl, Rizespor (On Loan)
+1, Ufuk Ceylan, TUR, G, 1.95, 90, 23-06-86, İzmir, 
+20, Hasan Ayaroğlu, TUR, M, 1.72, 70, 22-03-95, Çankırı, Denizlispor
+11, Anastasios Bakasetas, GRE, F, 1.85, 73, 28-06-93, Corinth, Trabzonspor

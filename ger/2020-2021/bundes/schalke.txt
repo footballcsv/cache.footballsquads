@@ -1,0 +1,54 @@
+=  FC Schalke 04 - German Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ralf Fährmann, GER, G, 1.94, 89, 27-09-88, Karl-Marx-Stadt, Eintracht Frankfurt
+2, Kilian Ludewig, GER, D, 1.75, 66, 05-03-00, Hamburg, Red Bull Salzburg
+3, Hamza Mendyl, MAR, D, 1.79, 70, 21-10-97, Casablanca, Lille
+5, Matija Nastasić, SRB, D, 1.87, 79, 28-03-93, Belgrade, Manchester C
+6, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Real Madrid
+7, Mark Uth, GER, F, 1.85, 68, 24-08-91, Cologne, 1899 Hoffenheim
+8, Suat Serdar, GER, M, 1.83, 71, 11-04-97, Bingen, Mainz
+9, Benito Raman, BEL, F, 1.72, 67, 07-11-94, Gent, Fortuna Düsseldorf
+10, Nabil Bentaleb, ALG, M, 1.87, 68, 24-11-94, Lille, Tottenham H
+13, William, BRA, D, 1.76, 68, 03-04-95, Pelotas, Wolfsburg
+15, Henning Matriciani, GER, D, 1.87, 79, 14-03-00, Lippstadt, Lippstadt
+16, Nassim Boujellab, MAR, M, 1.81, 68, 20-06-99, Hohenlimburg, None
+17, Benjamin Stambouli, FRA, D, 1.80, 75, 13-08-90, Marseille, Paris St-Germain
+18, Gonçalo Paciência, POR, F, 1.84, 78, 01-08-94, Porto, Eintracht Frankfurt
+19, Brooklyn Ezeh, GER, D, 1.88, 87, 23-06-01, Hamburg, Hamburg
+20, Sead Kolašinac, BIH, D, 1.83, 82, 20-06-93, Karlsruhe, Arsenal
+21, Klaas Jan Huntelaar, NED, F, 1.86, 80, 12-08-83, Drempt, Ajax
+22, Steven Skrzybski, GER, F, 1.73, 64, 18-11-92, Berlin, Union Berlin
+23, Frederik Rønnow, DEN, G, 1.88, 76, 04-08-92, Horsens, Eintracht Frankfurt
+24, Bastian Oczipka, GER, D, 1.84, 81, 12-01-89, Bergisch Gladbach, Eintracht Frankfurt
+25, Amine Harit, MAR, M, 1.79, 66, 18-06-97, Pontoise, Nantes
+26, Salif Sané, SEN, D, 1.94, 78, 25-08-90, Lormont, Hannover 96
+27, Luca Schuler, GER, F, 1.90, 79, 22-03-99, Neustadt an der Weinstraße, Köln II
+28, Alessandro Schöpf, AUT, M, 1.71, 61, 07-02-94, Umhausen, Nürnberg
+30, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Arsenal
+31, Timo Becker, GER, D, 1.90, 81, 25-03-97, Herten, RW Essen
+33, Malick Thiaw, GER, D, 1.94, 89, 08-08-01, Düsseldorf, B Mönchengladbach
+34, Michael Langer, AUT, G, 1.94, 92, 06-01-85, Bregenz, IFK Norrköping
+36, Blendi Idrizi, KVX, M, 1.75, 73, 02-05-98, Bonn, Fortuna Köln
+37, Levent Mercan, GER, M, 1.76, 69, 10-12-00, Recklinghausen, RW Essen
+38, Mehmet Can Aydin, GER, M, 1.79, 68, 09-02-02, Würselen, B Mönchengladbach
+40, Can Bozdoğan, GER, M, 1.74, 72, 05-04-01, Cologne, Köln
+41, Florian Flick, GER, M, 1.87, 79, 01-05-00, Mannheim, Waldhof Mannheim
+42, Kerim Çalhanoğlu, GER, M, 1.80, 76, 26-08-02, Mannheim, 1899 Hoffenheim
+43, Matthew Hoppe, USA, F, 1.90, 80, 13-03-01, Yorba Linda, None
+45, Jimmy Kaparos, NED, M, 1.85, 72, 25-12-01, Arnhem, Stuttgart
+47, Mikail Maden, NOR, M, 1.82, 71, 17-01-02, Bergen, Brann
+48, Sören Ahlers, GER, G, 1.94, 84, 09-09-97, Oldenburg, Bocholt
+49, Vasíleios Pavlídis, GRE, D, 1.84, 78, 04-09-02, Thessaloniki, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Guido Burgstaller, AUT, F, 1.87, 76, 29-04-89, Villach, St Pauli
+23, Markus Schubert, GER, G, 1.84, 81, 12-06-98, Freiberg, Eintracht Frankfurt (On Loan)
+13, Sebastian Rudy, GER, M, 1.79, 73, 28-02-90, Villingen- Schwenningen, 1899 Hoffenheim (On Loan)
+11, Vedad Ibišević, BIH, F, 1.88, 80, 06-08-84, Vlasenica, 
+29, Nick Taitague, USA, M, 1.73, 68, 17-02-99, Richmond, 
+14, Rabbi Matondo, WAL, F, 1.75, 66, 09-09-00, Liverpool, Stoke C (On Loan)
+15, Ahmed Kutucu, TUR, F, 1.81, 76, 01-03-00, Gelsenkirchen, Heracles Almelo (On Loan)
+4, Ozan Kabak, TUR, D, 1.86, 75, 25-03-00, Ankara, Liverpool (On Loan)

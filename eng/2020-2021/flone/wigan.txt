@@ -1,0 +1,55 @@
+=  Wigan Athletic - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jamie Jones, ENG, G, 1.88, 91, 18-02-89, Kirkby, Stevenage
+2, Tendayi Darikwa, ZIM, D, 1.88, 77, 13-12-91, Nottingham, Nottingham F
+3, Tom Pearce, ENG, D, 1.85, 79, 12-04-98, Ormskirk, Leeds U
+4, Curtis Tilt, JAM, D, 1.92, 75, 04-08-91, Walsall, Rotherham U
+5, George Johnston, SCO, D, 1.81, 72, 01-09-98, Manchester, Feyenoord
+6, Corey Whelan, IRL, D, 1.80, 73, 12-12-97, Chester, Phoenix Rising
+7, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Nottingham F
+8, Lee Evans, WAL, M, 1.86, 88, 24-07-94, Newport, Sheffield U
+9, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, None
+10, Will Keane, ENG, F, 1.87, 78, 11-01-93, Stockport, Ipswich T
+11, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Leyton Orient
+12, Funso Ojo, BEL, M, 1.77, 71, 28-08-91, Antwerp, Aberdeen
+14, Scott Wootton, ENG, D, 1.88, 78, 12-09-91, Birkenhead, Plymouth Arg
+15, Dan Gardner, ENG, M, 1.85, 80, 05-04-90, Manchester, Oldham Ath
+16, Jamie Proctor, ENG, F, 1.88, 78, 25-03-92, Preston, Rotherham U
+17, Viv Solomon-Otabor, ENG, M, 1.75, 77, 02-01-96, London, CSKA Sofia
+20, Joe Dodoo, ENG, F, 1.83, 70, 01-06-95, Nottingham, Ankara Keçiörengücü
+22, Kyle Joseph, SCO, F, 1.86, 75, 10-09-01, Barnet, None
+23, Chris Merrie, ENG, M, 1.81, 72, 02-11-98, Liverpool, None
+24, Alex Perry, ENG, M, 1.75, 75, 04-03-98, Liverpool, Bolton W
+25, Owen Evans, WAL, G, 1.84, 70, 28-11-96, Newport, Hereford U
+30, Thelo Aasgaard, NOR, M, 1.70, 72, 02-05-02, Liverpool, None
+31, Sam Tickle, ENG, G, 1.88, 74, 31-03-02, Warrington, None
+32, Adam Long, ENG, D, 1.83, 76, 11-11-00, Douglas, None
+34, Luke Robinson, SCO, D, 1.76, 72, 19-11-01, Birkenhead, None
+35, Jack Sanders, ENG, D, -, -, 18-03-99, Bolton, Leek T
+36, Scott Smith, ENG, M, 1.73, 70, 02-07-01, Wigan, None
+38, MacKenzie O'Neill, NIR, F, -, -, 20-01-02, Liverpool, None
+39, Sean McGurk, ENG, F, -, -, 15-03-03, Liverpool, None
+40, Bobby Jones, IRL, G, 1.89, 82, 20-11-01, Darlington, None
+41, Harry McHugh, ENG, M, -, -, 14-10-02, Liverpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Nathan Byrne, ENG, D, 1.80, 84, 05-06-92, St Albans, Derby Co
+5, Sam Morsy, EGY, M, 1.75, 76, 10-09-91, Wolverhampton, Middlesbrough
+2, Josh Clarke, ENG, D, 1.73, 70, 05-07-94, Waltham Forest, 
+4, Danny Fox, SCO, D, 1.83, 79, 29-05-86, Winsford, East Bengal
+18, Gary Roberts, ENG, M, 1.78, 74, 18-03-84, Chester, Bala T
+5, Nathan Cameron, ENG, D, 1.88, 78, 21-11-91, Birmingham, Solihull Moors
+14, Joe Garner, ENG, F, 1.78, 76, 12-04-88, Blackburn, APOEL
+6, Darnell Johnson, ENG, D, 1.85, 83, 03-09-98, Leicester, Leicester C
+12, Matt Palmer, ENG, M, 1.79, 79, 01-08-93, Derby, Swindon T
+7, Kal Naismith, SCO, M, 1.85, 78, 18-02-92, Glasgow, Luton T
+27, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Hibernian
+37, Pat Webber, ENG, D, 1.83, 70, 15-05-99, Worthing, 
+33, Joe Piggott, ENG, F, 1.83, 77, 23-06-99, Nantwich, Altrincham
+26, Charlie Jolley, ENG, F, 1.80, 72, 13-01-01, Liverpool, Tranmere R
+19, Oliver Crankshaw, ENG, F, 1.82, 75, 12-08-98, Preston, Bradford C
+20, Emeka Obi, ENG, D, 1.98, 87, 06-06-01, Lagos, AFC Fylde
+28, Divin Baningime, COD, F, 1.70, 67, 10-12-00, Kinshasa, 

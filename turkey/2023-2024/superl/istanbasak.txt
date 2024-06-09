@@ -1,0 +1,51 @@
+=  İstanbul Başakşehir - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Volkan Babacan, TUR, G, 1.92, 86, 11-08-88, Antalya, Manisaspor
+3, Jerome Opoku, ENG, D, 1.94, 79, 14-10-98, Lambeth, Arouca
+4, Onur Ergün, TUR, M, 1.85, 76, 15-11-92, Bingöl, Hatayspor
+5, Léo Duarte, BRA, D, 1.83, 76, 17-07-96, Mococa, Milan
+6, Lucas Lima, BRA, D, 1.78, 72, 10-10-91, Estação, Al-Ahli Saudi
+7, Serdar Gürler, TUR, M, 1.73, 72, 14-09-91, Haguenau, Konyaspor
+8, Danijel Aleksić, SRB, M, 1.82, 72, 30-04-91, Pula, Al-Ahli Saudi
+9, Krzysztof Piątek, POL, F, 1.83, 76, 01-07-95, Dzierżoniów, Hertha Berlin
+10, Berkay Özcan, TUR, M, 1.78, 80, 15-02-98, Karlsruhe, Hamburg
+11, Davidson, BRA, F, 1.77, 69, 05-03-91, Rio de Janeiro, Wuhan Three Towns
+14, Dimitris Pelkas, GRE, M, 1.75, 68, 26-10-93, Giannitsa, Fenerbahçe
+15, Léo Dubois, FRA, D, 1.78, 65, 14-09-94, Segré, Galatasaray
+16, Muhammet Şengezer, TUR, G, 1.88, 78, 05-01-97, Bursa, Bursaspor
+17, Philippe Paulin Keny, SEN, F, 1.86, 80, 18-05-99, Tivaouane, Bandırmaspor
+18, Patryk Szysz, POL, F, 1.77, 70, 01-04-98, Lublin, Zagłębie Lubin
+19, Mehdi Abeid, ALG, M, 1.78, 77, 06-08-92, Montreuil, Khor Fakkan
+20, Olivier Kemen, CMR, M, 1.77, 78, 20-07-96, Metz, Kayserispor
+21, Mahmut Tekdemir, TUR, M, 1.78, 72, 20-01-88, Çermik, None
+23, Deniz Türüç, TUR, M, 1.77, 79, 29-01-93, Enschede, Fenerbahçe
+24, Eren Karaağaç, TUR, D, -, -, 24-05-04, Lorient, Lorient
+25, João Figueiredo, BRA, F, 1.80, 72, 27-05-96, São Paulo, Gaziantep
+26, Emirhan İlkhan, TUR, M, 1.75, 68, 01-06-04, İstanbul, Torino
+27, Ousseynou Ba, SEN, D, 1.92, 84, 11-11-95, Dakar, Olympiakos
+34, Yagiz Dilek, TUR, D, 1.90, 83, 09-05-05, Küçükçekmece, None
+41, Efe Arda Koyuncu, TUR, D, -, -, 08-08-05, İstanbul, None
+42, Ömer Ali Şahiner, TUR, D, 1.75, 70, 02-01-92, Bursa, Konyaspor
+65, Hamza Güreler, TUR, D, 1.92, 75, 10-04-06, Bayrampaşa, None
+70, Burak Sefa Kavraz, TUR, D, -, -, 05-05-05, Şişli, None
+78, Yusuf Yılmaz, TUR, G, 1.93, 82, 29-04-06, Güngören, None
+80, Berkay Aydoğmuş, TUR, M, -, -, 07-01-04, Çanakkale, Nazilli Belediyespor
+85, Mohamed Fofana, CIV, M, 1.87, 80, 06-05-05, Vieil-Ousrou, None
+89, Souza, BRA, M, 1.76, 77, 11-02-89, Rio de Janeiro, Beijing Guoan
+91, Batuhan Çelik, TUR, F, -, -, 12-01-05, İstanbul, None
+98, Deniz Dilmen, TUR, G, -, -, 05-06-05, İstanbul, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, KVC Westerlo
+77, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, 
+59, Ahmed Touba, BEL, D, 1.84, 75, 13-03-98, Roubaix, Lecce (On Loan)
+97, Sekou Tidiany Bangoura, GUI, M, -, -, 05-04-02, -, Tuzlaspor (On Loan)
+2, Şener Özbayraklı, TUR, D, 1.81, 71, 23-01-90, Borçka, 
+29, Efecan Barlık, TUR, F, 1.93, 80, 13-01-03, Ankara, Kırklarelispor (On Loan)
+90, Eden Kartsev, ISR, M, 1.86, 82, 11-04-00, Afula, Maccabi Tel Aviv (On Loan)
+99, Emmanuel Dennis, NGA, F, 1.74, 67, 15-11-97, Abuja, Nottingham F
+88, Cemali Sertel, TUR, D, 1.86, 78, 06-01-00, Samandağ, Hatayspor (On Loan)
+32, Edgar Ié, GNB, D, 1.76, 70, 01-05-94, Bissau, 

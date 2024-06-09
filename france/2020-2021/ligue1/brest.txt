@@ -1,0 +1,38 @@
+=  Brest - French Ligue 1 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gautier Larsonneur, FRA, G, 1.81, 69, 23-02-97, Saint-Renan, None
+2, Jean-Kévin Duverne, FRA, D, 1.84, 71, 12-07-97, Paris, Lens
+3, Lilian Brassier, FRA, D, 1.84, 78, 02-11-99, Argenteuil, Rennes
+4, Idrissa Dioh, FRA, M, 1.87, 83, 21-10-99, Arpajon, Évreux
+5, Brendan Chardonnet, FRA, D, 1.81, 74, 22-12-94, Saint-Renan, None
+6, Jean Lucas, BRA, M, 1.81, 78, 22-06-98, Rio de Janeiro, Lyon
+7, Haris Belkebla, ALG, M, 1.77, 68, 28-01-94, Drancy, Tours
+8, Paul Lasne, FRA, M, 1.83, 72, 16-01-89, Saint-Cloud, Montpellier
+9, Franck Honorat, FRA, F, 1.80, 70, 11-08-96, Toulon, St-Etienne
+10, Gaëtan Charbonnier, FRA, F, 1.88, 80, 27-12-88, Saint-Mandé, Reims
+12, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Nîmes
+14, Irvin Cardona, FRA, F, 1.85, 76, 08-08-97, Nîmes, Monaco
+15, Steve Mounié, BEN, F, 1.90, 80, 29-09-94, Parakou, Huddersfield T
+16, Sébastien Cibois, FRA, G, 1.87, 72, 02-03-98, Argenteuil, Paris St-Germain
+17, Denys Bain, FRA, D, 1.82, 74, 02-07-93, Dijon, Le Havre
+18, Romain Perraud, FRA, D, 1.73, 68, 22-09-97, Toulouse, Nice
+19, Ferris N'Goma, FRA, M, 1.75, 69, 15-06-93, Limoges, Orléans
+20, Ronaël Pierre-Gabriel, FRA, D, 1.77, 76, 13-08-98, Paris, Mainz
+21, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Monaco
+22, Julien Faussurier, FRA, D, 1.73, 70, 14-01-87, Lyon, Sochaux
+23, Christophe Hérelle, FRA, D, 1.88, 79, 22-08-92, Nice, Nice
+24, Ludovic Baal, FRA, D, 1.76, 72, 24-05-86, Paris, Rennes
+26, Jérémy Le Douaron, FRA, F, 1.89, 77, 21-04-98, Saint-Brieuc, Saint-Brieuc
+27, Hugo Magnetti, FRA, M, 1.73, 72, 30-05-98, Marseille, Bastia
+28, Hianga'a M'Bock, FRA, M, 1.86, 82, 28-12-99, Brest, None
+29, Bandiougou Fadiga, FRA, M, 1.69, 59, 15-01-01, Paris, Paris St-Germain
+40, Mouez Hassen, TUN, G, 1.84, 70, 05-03-95, Fréjus, Cercle Brugge
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Ibrahima Diallo, FRA, M, 1.79, 68, 08-03-99, Tours, Southampton
+29, Heriberto Tavares, POR, F, 1.81, 74, 19-02-97, Amadora, Famalicão (On Loan)
+25, Rafiki Saïd, COM, M, 1.78, 73, 15-03-00, Samba M'Bodoni, Stade Briochin (On Loan)
+11, Cristian Battocchio, ITA, M, 1.70, 71, 10-02-92, Rosario, Tokushima Vortis

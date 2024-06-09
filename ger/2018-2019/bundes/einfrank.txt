@@ -1,0 +1,51 @@
+=  Eintracht Frankfurt - German Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frederik Rønnow, DEN, G, 1.88, 76, 04-08-92, Horsens, Brøndby
+2, Evan Ndicka, FRA, D, 1.90, 80, 20-08-99, Paris, Auxerre
+3, Simon Falette, GUI, D, 1.84, 90, 19-02-92, Le Mans, Metz
+4, Ante Rebić, CRO, F, 1.82, 80, 21-09-93, Split, Fiorentina
+5, Gelson Fernandes, SUI, M, 1.83, 70, 02-09-86, Praia, Rennes
+6, Jonathan de Guzmán, NED, M, 1.75, 70, 13-09-87, Scarborough [CAN], Napoli
+8, Luka Jović, SRB, F, 1.81, 79, 23-12-97, Bijeljina, Benfica
+9, Sébastien Haller, FRA, F, 1.87, 75, 22-06-94, Ris-Orangis, FC Utrecht
+10, Filip Kostić, SRB, M, 1.80, 68, 01-11-92, Kragujevac, Hamburg
+11, Mijat Gačinović, BIH, M, 1.75, 66, 08-02-95, Novi Sad, Vojvodina
+13, Martin Hinteregger, AUT, D, 1.84, 73, 07-09-92, Feldkirchen, Augsburg
+15, Jetro Willems, NED, D, 1.69, 66, 30-03-94, Rotterdam, PSV Eindhoven
+16, Lucas Torró, ESP, M, 1.88, 79, 19-07-94, Concentaina, Real Madrid
+17, Sebastian Rode, GER, M, 1.79, 67, 11-10-90, Frankfurt am Main, Borussia Dortmund
+18, Almamy Touré, MLI, D, 1.82, 72, 28-04-96, Bamako, Monaco
+19, David Abraham, ARG, D, 1.88, 85, 16-07-86, Chabás, 1899 Hoffenheim
+20, Makoto Hasebe, JPN, M, 1.77, 65, 18-01-84, Shizuoka, Nürnberg
+21, Marc Stendera, GER, M, 1.71, 70, 10-12-95, Kassel, None
+22, Timmy Chandler, USA, D, 1.86, 83, 29-03-90, Frankfurt am Main, Nürnberg
+23, Marco Russ, GER, D, 1.90, 75, 04-08-85, Großauheim, Wolfsburg
+24, Danny da Costa, GER, D, 1.75, 70, 13-07-93, Neuss, Bayer Leverkusen
+25, Patrice Kabuya, GER, M, 1.78, 75, 07-01-00, Wiesbaden, None
+30, Şahverdi Çetin, GER, M, 1.74, 70, 28-09-00, Mainz, Darmstadt
+31, Kevin Trapp, GER, G, 1.89, 83, 08-07-90, Merzig, Paris St-Germain
+32, Nelson Mandela Mbouhom, CMR, F, 1.77, 78, 04-05-99, Douala, 1899 Hoffenheim
+33, Taleb Tawatha, ISR, D, 1.76, 81, 21-06-92, Jisr az-Zarqa, Maccabi Haifa
+34, Branimir Hrgota, SWE, F, 1.82, 62, 12-01-93, Jajce, B Mönchengladbach
+35, Tuta, BRA, D, 1.84, 75, 04-07-99, São Paulo, São Paulo
+36, Mischa Häuser, GER, M, 1.82, 66, 23-01-00, Bad Homburg, Kickers Offenbach
+37, Jan Zimmermann, GER, G, 1.90, 85, 19-04-85, Offenbach, 1860 Munich
+38, Patrick Finger, GER, M, 1.66, 61, 01-01-01, Riedstadt, Darmstadt
+39, Gonçalo Paciência, POR, F, 1.84, 78, 01-08-94, Porto, FC Porto
+41, Tobias Stirl, GER, G, 1.85, 80, 17-04-00, Frankfurt am Main, FSV Frankfurt
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Danny Blum, GER, F, 1.84, 76, 07-01-91, Frankenthal, Las Palmas (On Loan)
+40, Daichi Kamada, JPN, M, 1.80, 72, 05-08-96, Ehime, Sint-Truiden (On Loan)
+42, Marijan Ćavar, BIH, M, 1.84, 72, 02-02-98, Prozor-Rama, Osijek (On Loan)
+18, Chico Geraldes, POR, M, 1.75, 65, 18-04-95, Lisbon, Sporting CP
+26, Deji Beyreuther, GER, D, 1.80, 69, 06-09-99, Frankfurt am Main, Chemnitzer FC (On Loan)
+27, Nicolai Müller, GER, M, 1.75, 65, 25-09-87, Lohr am Main, Hannover 96 (On Loan)
+29, Felix Wiedwald, GER, G, 1.90, 82, 15-03-90, Thedinghausen, Duisburg (On Loan)
+13, Carlos Salcedo, MEX, D, 1.88, 77, 29-09-93, Guadalajara, UANL Tigres
+28, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Liverpool
+35, Noel Knothe, GER, D, 1.88, 75, 05-05-99, Bad Soden, Pipinsried (On Loan)
+7, Marco Fabián, MEX, M, 1.70, 65, 21-07-89, Guadalajara, Philadelphia Union

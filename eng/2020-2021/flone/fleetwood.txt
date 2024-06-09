@@ -1,0 +1,55 @@
+=  Fleetwood Town - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Coleman, ENG, G, 1.98, 82, 26-09-95, Bolton, Huddersfield T
+3, Danny Andrew, ENG, D, 1.80, 73, 23-12-90, Boston, Doncaster R
+4, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton
+6, Glenn Whelan, IRL, M, 1.80, 79, 13-01-84, Dublin, Hearts
+7, Wes Burns, WAL, F, 1.73, 68, 28-10-95, Cardiff, Bristol C
+8, Mark Duffy, ENG, M, 1.75, 72, 07-10-85, Liverpool, Sheffield U
+10, Callum Camps, NIR, M, 1.80, 75, 30-11-95, Stockport, Rochdale
+11, Josh Morris, ENG, M, 1.80, 70, 30-09-91, Preston, Scunthorpe U
+14, Charlie Mulgrew, SCO, D, 1.91, 83, 06-03-86, Glasgow, Blackburn R
+16, Jordan Rossiter, ENG, M, 1.72, 68, 24-03-97, Liverpool, Rangers
+18, Kyle Vassell, NIR, F, 1.83, 78, 07-02-93, Milton Keynes, Rotherham U
+19, Barrie McKay, SCO, M, 1.75, 67, 31-12-94, Paisley, Swansea C
+20, Harvey Saunders, ENG, F, 1.81, 72, 20-07-97, Wolverhampton, Darlington
+21, Alex Cairns, ENG, G, 1.83, 72, 04-01-93, Doncaster, Rotherham U
+22, Janoi Donacien, LCA, D, 1.83, 75, 03-11-93, Castries, Ipswich T
+23, Sam Finley, ENG, M, 1.70, 68, 04-08-92, Liverpool, Accrington Stanley
+24, Daniel Batty, ENG, M, 1.78, 75, 10-12-97, Pontefract, Hull C
+25, Nathan Sheron, ENG, D, 1.83, 64, 04-10-97, Whiston, Liverpool
+27, Harrison Biggins, ENG, M, 1.83, 79, 15-03-96, Sheffield, Stocksbridge Park Steels
+29, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, None
+30, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Glentoran
+31, Laurence Smith, ENG, M, 1.81, 72, 19-09-00, Liverpool, Bolton W
+32, Harrison Holgate, ENG, D, 1.86, 70, 01-07-00, Leeds, None
+33, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, None
+34, Chris Conn-Clarke, NIR, M, -, -, 22-11-01, -, Burnley
+37, Dylan Boyle, NIR, M, 1.72, 60, 15-01-02, Belfast, None
+38, Carl Johnston, NIR, M, 1.75, 64, 29-05-02, Belfast, Linfield
+39, Shayden Morris, ENG, F, 1.83, 68, 30-03-02, Newham, Southend U
+41, Cian Hayes, IRL, F, 1.70, 73, 29-06-03, Preston, None
+42, Enoch Takpe, ENG, F, -, -, -, -, None
+43, Akiel Raffie, ENG, M, -, -, -, -, None
+44, Sam Barratt, ENG, D, -, -, -, -, None
+45, Danny Edwards, ENG, M, -, -, -, -, None
+46, Billy Batch, ENG, D, -, -, -, -, None
+47, Johnathon Borwick, ENG, G, -, -, -, -, None
+48, Josh Feeney, SCO, D, -, -, 06-05-05, Blackpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Jack Sowerby, ENG, M, 1.75, 78, 23-03-95, Preston, Northampton T
+9, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, Preston NE
+13, Jayson Leutwiler, CAN, G, 1.92, 80, 25-04-89, Basel, Huddersfield T
+22, Morgan Boyes, WAL, D, 1.77, 69, 22-04-01, Chester, Liverpool
+2, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, Stoke C
+13, Joe Hilton, ENG, G, 1.96, 93, 11-10-99, Canterbury, Blackburn R
+15, Paul Coutts, SCO, M, 1.75, 75, 22-07-88, Aberdeen, Salford C (On Loan)
+26, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, Exeter C
+36, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Grimsby T (On Loan)
+40, Szymon Czajor, POL, G, 1.87, 80, 19-09-01, Poznań, KKS Kalisz
+17, Paddy Madden, IRL, F, 1.83, 76, 04-03-90, Dublin, Stockport Co
+35, Ryan Rydel, ENG, D, 1.81, 75, 09-02-01, Oldham, Stockport Co

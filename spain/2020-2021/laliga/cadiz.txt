@@ -1,0 +1,50 @@
+=  Cádiz - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeremias Ledesma, ARG, G, 1.86, 85, 13-02-93, Rosario, Rosario Central
+2, Jens Jønsson, DEN, M, 1.82, 78, 10-01-93, Aarhus, Konyaspor
+3, Fali, ESP, M, 1.86, 72, 12-08-93, Valencia, Nàstic
+4, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Villarreal B
+5, Jon Ander Garrido, ESP, M, 1.85, 81, 09-10-89, Bilbao, Granada
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, Levante
+7, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Villanovense
+8, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+9, Anthony Lozano, HON, F, 1.82, 74, 25-04-93, Yoro, Girona
+10, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Barcelona B
+11, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Zaragoza
+12, Ivan Šaponjić, SRB, F, 1.92, 84, 02-08-97, Nova Varoš, Atlético Madrid
+13, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+14, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Getafe
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Huesca
+16, Cala, ESP, D, 1.87, 76, 26-11-89, Lebrija, Las Palmas
+17, Augusto Fernández, ARG, M, 1.77, 73, 10-04-86, Pergamino, Beijing Renhe
+18, Álvaro Negredo, ESP, F, 1.85, 82, 20-08-85, Madrid, Al-Nasr [UAE]
+19, Pedro Alcalá, ESP, D, 1.96, 93, 19-03-89, Mazarrón, Girona
+20, Isaac Carcelén, ESP, D, 1.78, 75, 23-04-93, El Puerto de Santa María, Rayo Majadahonda
+21, Rubén Sobrino, ESP, F, 1.85, 73, 01-06-92, Daimiel, Valencia
+22, Alfonso Espino, URU, D, 1.70, 73, 05-01-92, San Jacinto, Nacional [URU]
+24, Filip Malbašić, SRB, F, 1.83, 73, 18-11-92, Belgrade, Tenerife
+25, Jairo, ESP, F, 1.65, 67, 22-10-93, Santa Cruz de Tenerife, Girona
+26, Juan Flere, ITA, G, 1.82, 73, 12-05-98, Bariloche, Xerez Deportivo
+27, Marc Baró, ESP, D, 1.80, 72, 23-08-99, Palma de Mallorca, Leioa
+28, Saturday Erimuya, NGA, D, 1.90, 75, 10-01-98, Benin City, Cádiz B
+29, Kike Carrasco, ESP, D, 1.75, 70, 02-03-98, Almendralejo, Extremadura B
+31, Mamady Diarra, MLI, F, 1.70, 61, 26-06-00, Bamako, Yeelen Olympique
+33, Manuel Nieto, ESP, F, 1.82, 72, 29-03-98, Villa del Río, Betis B
+34, Momo Mbaye, SEN, D, 1.90, 83, 28-06-98, Dakara, Watford
+35, Juan José Garrancho, ESP, G, 1.91, 87, 22-06-97, San Sebastián, Internacional de Madrid
+36, Javi Martín, ESP, D, 1.81, 78, 16-09-98, Azuqueca de Henares, La Nucia
+37, Álex Martín, ESP, D, 1.82, 79, 25-01-98, Las Palmas, Cartagena
+38, Álvaro Bastida, ESP, M, 1.70, 60, 12-05-04, Chiclana de la Frontera, Cádiz B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Alberto Cifuentes, ESP, G, 1.89, 81, 29-05-79, Albacete, Retired
+25, Jeremias Ledesma, ARG, G, 1.86, 85, 13-02-93, Rosario, Re-Registered (1)
+23, Sergio González, ESP, D, 1.84, 77, 14-05-97, Cartagena, Tenerife (On Loan)
+19, Jean-Pierre Rhyner, SUI, D, 1.84, 72, 16-03-96, Zürich, FC Emmen (On Loan)
+32, Bobby Adekanye, NED, F, 1.75, 70, 14-02-99, Ibadan, Lazio
+23, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Logroñés (On Loan)
+12, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Castellón
+21, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Mallorca (On Loan)

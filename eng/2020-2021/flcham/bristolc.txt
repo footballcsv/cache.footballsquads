@@ -1,0 +1,57 @@
+=  Bristol City - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Bentley, ENG, G, 1.88, 72, 13-07-93, Basildon, Brentford
+2, Jack Hunt, ENG, D, 1.75, 71, 06-12-90, Leeds, Sheffield W
+3, Jay Dasilva, ENG, D, 1.70, 64, 22-04-98, Luton, Chelsea
+4, Ádám Nagy, HUN, M, 1.78, 70, 17-06-95, Budapest, Bologna
+5, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Fulham
+6, Nathan Baker, ENG, D, 1.91, 80, 23-04-91, Worcester, Aston Villa
+7, Chris Martin, SCO, F, 1.78, 73, 04-11-88, Beccles, Derby Co
+8, Liam Walsh, ENG, M, 1.78, 66, 15-09-97, Whiston, Everton
+9, Famara Diedhiou, SEN, F, 1.89, 80, 15-12-92, Saint-Louis, Angers
+10, Jamie Paterson, ENG, F, 1.75, 67, 20-12-91, Coventry, Nottingham F
+11, Callum O'Dowda, IRL, M, 1.80, 75, 23-04-95, Oxford, Oxford U
+12, Max O'Leary, ENG, G, 1.85, 78, 10-10-96, Bath, None
+13, Jojo Wollacott, ENG, G, 1.90, 80, 08-09-96, Bristol, None
+14, Andreas Weimann, AUT, F, 1.88, 76, 05-08-91, Vienna, Derby Co
+15, Marley Watkins, WAL, M, 1.78, 65, 17-10-90, Lewisham, Norwich C
+16, Cameron Pring, ENG, D, 1.85, 71, 22-01-98, Bristol, Cheltenham T
+17, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Aston Villa
+18, Antoine Semenyo, ENG, F, 1.78, 63, 07-01-00, Chelsea, None
+19, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Watford
+20, Joe Williams, ENG, M, 1.78, 66, 08-12-95, Liverpool, Wigan Ath
+21, Nahki Wells, BER, F, 1.70, 69, 01-06-90, Hamilton [BER], Burnley
+22, Tomáš Kalas, CZE, D, 1.84, 71, 15-05-93, Olomouc, Chelsea
+23, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, Lens
+24, Zac Smith, ENG, M, -, -, 15-09-00, Stroud, None
+25, Tommy Rowe, ENG, M, 1.80, 81, 01-05-89, Wythenshawe, Doncaster R
+26, Zak Vyner, ENG, D, 1.78, 68, 14-05-97, Bath, None
+27, Opi Edwards, ENG, M, 1.71, 65, 30-04-99, Bristol, None
+28, Sam Pearson, WAL, M, 1.81, 71, 26-10-01, Cardiff, None
+29, Danny Simpson, ENG, D, 1.77, 78, 04-01-87, Salford, Huddersfield T
+30, Tyreeq Bakinson, ENG, M, 1.85, 70, 08-01-98, Camden, Luton T
+31, Hakeeb Adelakun, ENG, F, 1.90, 75, 11-06-96, Hackney, Scunthorpe U
+33, Sam Bell, ENG, F, 1.78, 68, 23-05-02, Bristol, None
+34, Ryley Towler, ENG, M, 1.85, 71, 06-05-02, Bristol, None
+35, Owura Edwards, ENG, M, 1.73, 68, 10-04-01, Bristol, None
+36, Alex Scott, ENG, M, 1.78, 68, 21-08-03, Guernsey, Guernsey
+37, Tommy Conway, SCO, F, 1.78, 68, 06-08-02, Taunton, None
+38, Ayman Benarous, ENG, M, 1.73, 64, 27-07-03, Bristol, None
+39, Josh Owers, ENG, M, 1.86, 69, 16-03-02, Bristol, None
+40, Louis Britton, ENG, F, -, -, 17-03-01, Bristol, None
+41, Harvey Wiles-Richards, ENG, G, 1.81, 72, 27-05-02, Bath, None
+42, Han-Noah Massengo, FRA, M, 1.77, 66, 07-07-01, Villepinte, Monaco
+43, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, Fulham
+44, Marlee Francois, AUS, F, -, -, 29-12-02, Sydney, Fulham
+45, Kasey Palmer, JAM, M, 1.80, 68, 09-11-96, Lewisham, Chelsea
+46, Saikou Janneh, GAM, F, 1.81, 69, 11-01-00, Gunjur, Clevedon T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Sammie Szmodics, ENG, M, 1.68, 64, 24-09-95, Colchester, Peterborough U
+19, Niclas Eliasson, SWE, M, 1.76, 66, 07-12-95, Varberg, Nîmes
+16, Joe Morrell, WAL, M, 1.86, 77, 03-01-97, Ipswich, Luton T
+29, Chris Brunt, NIR, M, 1.87, 85, 14-12-84, Belfast, 
+32, James Morton, ENG, M, 1.78, 77, 22-04-99, Bristol, Gillingham (On Loan)

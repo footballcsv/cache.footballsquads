@@ -1,0 +1,51 @@
+=  Lecce - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Bleve, ITA, G, 1.84, 84, 18-10-95, San Cesario di Lecce, None
+2, Christian Maggio, ITA, D, 1.84, 79, 11-02-82, Montecchio Maggiore, Benevento
+4, Fabio Pisacane, ITA, D, 1.78, 77, 28-01-86, Naples, Cagliari
+5, Fabio Lucioni, ITA, D, 1.85, 80, 25-09-87, Terni, Benevento
+6, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Brescia
+7, Luca Paganini, ITA, F, 1.77, 70, 08-06-93, Rome, Frosinone
+8, Marco Mancosu, ITA, M, 1.77, 75, 22-08-88, Cagliari, Casertana
+9, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Benevento
+10, Güven Yalçın, TUR, F, 1.84, 77, 18-01-99, Düsseldorf, Beşiktaş
+11, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Sassuolo
+12, Antonino Viola, ITA, G, 1.90, -, 14-07-03, Palermo, None
+14, Mariusz Stępiński, POL, F, 1.83, 62, 12-05-95, Sieradz, Verona
+15, Ilario Monterisi, ITA, D, 1.80, 65, 19-12-01, Trani, Bari
+16, Boban Nikolov, MKD, M, 1.80, 75, 28-07-94, Stip, MOL Fehérvár
+17, Kastriot Dërmaku, ALB, D, 1.95, 73, 15-01-92, Scandiano, Parma
+19, Marcin Listkowski, POL, M, 1.79, 66, 29-03-95, Rypin, Pogoń Szczecin
+20, Stefano Pettinari, ITA, F, 1.83, 76, 27-01-92, Rome, Pescara
+21, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Perugia
+22, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Ozieri, Frosinone
+23, John Björkengren, SWE, M, 1.80, 78, 09-12-98, Falkenberg, Falkenbergs FF
+24, Leonard Zuta, SWE, D, 1.80, 70, 09-08-92, Gothenburg, BK Häcken
+25, Antonino Gallo, ITA, D, 1.83, 65, 05-01-00, Palermo, Palermo
+27, Marco Calderoni, ITA, D, 1.83, 75, 18-02-89, Latisana, Novara
+28, Samuele Oltremarini, ITA, F, 1.75, 60, 26-11-02, Gallipoli, Soccer Dream Parabita
+29, Luigi Gianfreda, ITA, D, 1.90, 84, 14-09-00, Minervino di Lecce, None
+30, Alexandru Borbei, ROU, G, 1.88, 84, 27-06-03, Petrila, Politehnica Timișoara
+31, Gianmarco Angelo Mancarella, ITA, M, 1.83, -, 23-01-02, Lecce, None
+33, Massimo Schirone, ITA, M, 1.79, -, 05-07-03, Bari, None
+34, Sergio Maselli, ITA, M, 1.75, 65, 06-04-01, Bari, Bari
+37, Žan Majer, SVN, M, 1.79, 69, 25-07-92, Maribor, FC Rostov
+42, Morten Hjulmand, DEN, M, 1.85, 77, 25-06-99, Kastrup, Admira Wacker Mödling
+53, Liam Henderson, SCO, M, 1.83, 78, 25-04-96, Livingston, Verona
+75, Mattia Felici, ITA, M, 1.79, 73, 17-04-01, Rome, Tor Tre Teste
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Nottingham F
+99, Pablo Rodríguez, ESP, F, 1.78, 66, 04-08-01, Las Palmas, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Davide Riccardi, ITA, D, 1.76, 76, 09-04-96, Monfalcone, Catanzaro (On Loan)
+4, Jacopo Petriccione, ITA, M, 1.86, 75, 22-02-95, Gorizia, Crotone
+3, Brayan Vera, COL, D, 1.80, 74, 15-01-99, San Luis, Cosenza (On Loan)
+12, Joakim Milli, ITA, G, 1.84, 78, 27-04-00, -, Nardò (On Loan)
+13, Luca Rossettini, ITA, D, 1.87, 80, 09-05-85, Padua, Padova
+10, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Crvena Zvezda
+32, Simone Lo Faso, ITA, F, 1.80, 72, 18-02-98, Palermo, Pistoiese
+18, Roberto Pierno, ITA, D, 1.80, 69, 14-02-01, Bari, Catanzaro (On Loan)
+26, Edgaras Dubickas, LTU, F, 1.82, 75, 09-07-98, Marijampolė, Livorno (On Loan)

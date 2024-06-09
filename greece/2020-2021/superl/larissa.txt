@@ -1,0 +1,52 @@
+=  Larissa - Greek Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, Paks
+2, Nikolaos Karanikas, GRE, D, 1.76, 70, 04-03-92, Larissa, PAS Giannina
+3, Charilaos Fourkiotis, GRE, D, 1.85, 78, 04-03-01, -, None
+4, Theocharis Iliadis, GRE, D, 1.85, 77, 05-09-96, Katerini, Diagoras
+5, Alexis Michail, GRE, D, 1.83, 79, 18-08-86, Giannina, PAS Giannina
+6, Tim Sparv, FIN, M, 1.94, 86, 20-02-87, Vaasa, FC Midtjylland
+7, Manuel Stiefler, GER, M, 1.76, 71, 25-07-88, Bayreuth, Karlsruhe
+8, Radomir Milosavljević, SRB, M, 1.83, 73, 30-07-92, Ćuprija, Lugano
+9, Fiorin Durmishaj, ALB, F, 1.81, 70, 14-11-96, Tirana, Olympiakos
+10, Änis Ben-Hatira, TUN, M, 1.81, 78, 18-07-88, Berlin, Karlsruhe
+11, Nikola Jakimovski, MKD, M, 1.87, 77, 26-02-90, Kriva Palanka, Monopoli
+12, Benjamin Moukandjo, CMR, F, 1.79, 76, 12-11-88, Douala, Valenciennes
+13, Mateo Mužek, CRO, D, 1.83, 81, 29-04-95, Graz, Sheriff Tiraspol
+14, Spyros Glynos, GRE, F, 1.68, 65, 02-12-97, Marousi, Panionios
+15, Uroš Ćosić, SRB, D, 1.86, 82, 24-10-92, Belgrade, Shakhtyor Soligorsk
+16, Nikola Žižić, CRO, D, 1.85, 84, 23-01-88, Split, Istra
+17, Dimitris Pinakas, GRE, F, 1.75, 63, 01-09-01, Larissa, None
+18, Apostolos Kotsianoulis, GRE, F, -, -, 29-01-01, -, Olympiakos
+19, Vladimir Bajić, SRB, G, 1.91, 84, 28-11-87, Novi Sad, Levadiakos
+20, Alexandros Chalatsis, GRE, M, 1.89, 82, 16-06-00, -, Dotieas Agia
+21, Giorgos Zacharakis, GRE, F, -, -, 02-01-01, -, Olympiakos
+22, Adrián Jusino, BOL, D, 1.85, 88, 09-07-92, Springfield, MA, Bolívar
+23, Giorgos Maidanos, GRE, D, 1.70, 65, 12-04-98, Chrysoupoli, Kavala
+24, Orestis Grigoropoulos, GRE, D, 1.75, 68, 04-07-00, -, Trikala
+25, Manolis Mpertos, GRE, D, 1.80, 64, 13-05-89, Xanthi, Asteras Tripolis
+27, Maksym Maksymenko, UKR, D, 1.82, 78, 28-05-90, Kramatorsk, Kolos Kovalivka
+28, Athanasios Stoinovic, GRE, M, 1.78, 72, 17-02-03, Komotini, Nürnberg
+29, Mathías Acuña, URU, F, 1.74, 68, 28-11-92, Montevideo, Montevideo Wanderers
+30, Adrián Colombino, URU, M, 1.76, 74, 12-10-93, Montevideo, Montevideo Wanderers
+33, Marko Nunić, SVN, F, 1.88, 81, 16-03-93, Ljubljana, Aluminij
+44, Nikos Gotzamanidis, GRE, D, 1.89, 76, 25-01-01, -, Olympiakos
+66, Dinu Graur, MDA, D, 1.78, 66, 27-12-94, Ghidighici, Astra Giurgiu
+67, Stefanos Souloukos, GRE, G, -, -, 04-01-01, -, None
+70, Giorgos Daktylas, GRE, M, 1.75, 70, 22-09-01, -, Panathinaikos
+88, Alexandros Nikolias, GRE, M, 1.72, 62, 23-07-94, Kymi, Olympiakos
+92, Nikola Trujić, SRB, F, 1.82, 76, 14-04-92, Bor, Debrecen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, Náutico
+22, Adnan Šećerović, BIH, M, 1.80, 74, 01-12-91, Živinice, Riga FC
+66, Ali Ghazal, EGY, M, 1.90, 82, 01-02-92, Maadi, Smouha
+48, Ioannis Kosti, CYP, M, -, -, 17-03-00, Larnaca, Olympiakos
+11, Vangelis Platellas, GRE, F, 1.65, 63, 01-02-88, Xanthi, Ionikos
+10, Gabriel Torje, ROU, M, 1.69, 65, 22-11-89, Timişoara, Bandırmaspor
+7, Steliano Filip, ROU, D, 1.74, 69, 15-05-94, Buzău, Dinamo București
+27, Dimitris Loufakis, GRE, M, 1.74, 65, 01-04-00, Thessaloniki, De-Registered
+99, Hamza Younes, TUN, F, 1.83, 78, 16-04-86, Monastir, Concordia Chiajna

@@ -1,0 +1,47 @@
+=  Oleksandriya - Ukrainian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Viktor Dolhyi, UKR, G, 1.97, 80, 02-01-04, Donetsk, Dnipro-1-2
+3, Demyan Chubatyi, UKR, D, 1.75, 75, 16-03-04, Ovruch, Dynamo Kyiv-2
+4, Anton Kravchenko, UKR, D, 1.89, 79, 23-03-91, Dnipropetrovsk, Kisvárda
+5, Roman Savchenko, UKR, D, 1.90, 80, 17-02-04, Kyinka, Shakhtar Donetsk-2
+6, Kyrylo Kovalets, UKR, M, 1.78, 68, 02-07-93, Kyiv, Chornomorets Odessa
+8, Kyrylo Siheyev, UKR, M, 1.82, 67, 16-05-04, Horlivka, Shakhtar Donetsk-2
+9, Vladyslav Kalitvintsev, UKR, M, 1.78, 65, 04-01-93, Moscow, Desna Chernihiv
+10, Andriy Kulakov, UKR, F, 1.83, 73, 28-04-99, Verkhnobohdanivka, Shakhtar Donetsk
+11, Artem Shulyanskyi, UKR, M, 1.73, 70, 11-04-01, Kyiv, Dynamo Kyiv-2
+14, Artem Kulakovskyi, UKR, M, 1.72, 65, 11-02-02, Komsomolsk, Vorskla Poltava
+16, Bohdan Biloshevskyi, UKR, M, 1.87, 77, 12-01-00, Nizhyn, Dynamo Kyiv-2
+17, Yaroslav Bazayev, UKR, M, 1.75, 75, 22-06-04, Savyntsi, Oleksandriya-2
+18, Serhiy Lohinov, UKR, D, 1.91, 78, 29-08-90, Dnipropetrovsk, Dnipro-1
+20, Daniil Vashchenko, UKR, M, 1.74, 65, 02-10-05, -, Oleksandriya-2
+21, Oleksandr Byelyayev, UKR, M, 1.74, 60, 04-10-99, Dnipropetrovsk, Gençlerbirliği
+22, Danylo Skorko, UKR, D, 1.80, 71, 06-04-02, Chernihiv, Zorya Luhansk
+23, Geovani, BRA, M, 1.78, 74, 15-05-01, Marabá, Barcelona Capela
+24, Oleksandr Martynyuk, UKR, D, 1.85, 73, 25-11-01, Dubno, Volyn Lutsk
+25, Ivan Kalyuzhnyy, UKR, M, 1.89, 82, 21-01-98, Dovzhyk, Dynamo Kyiv-2
+26, Miguel Campos, POR, D, 1.86, 82, 19-08-96, Águeda, Rudeš
+30, Yuriy Kopyna, UKR, M, 1.81, 74, 04-07-96, Pustomyty, Rulh Lviv
+33, Juan Alvina, BRA, M, 1.65, 65, 16-02-03, Rio de Janeiro, Vasco da Gama
+38, Madison Julio, ECU, M, 1.74, 82, 10-10-97, Pimampiro, El Nacional
+44, Heorhiy Yermakov, UKR, G, 1.91, 84, 28-03-02, Kyiv, Shakhtar Donetsk-2
+55, Yevhen Smyrnyy, UKR, M, 1.80, 63, 18-08-98, Kyiv, Dynamo Kyiv
+70, Denys Kostyshyn, UKR, M, 1.79, 73, 31-08-97, Khmelnytskyi, El Paso Locomotive
+71, Denys Shostak, UKR, M, 1.90, 73, 24-01-03, Poltava, Shakhtar Donetsk-2
+77, Mykyta Shevchenko, UKR, G, 1.87, 80, 26-01-93, Horlivka, Zorya Luhansk
+88, Vladyslav Pohorilyi, UKR, F, 1.83, 75, 03-09-03, Vinnytsia, Shakhtar Donetsk-2
+91, Mykola Mykhaylenko, UKR, M, 1.81, 66, 22-05-01, Varva, Dynamo Kyiv-2
+99, Dé, BRA, F, 1.82, 70, 06-02-98, -, IFK Mariehamn
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Artur Avahimyan, UKR, M, 1.72, 63, 16-01-97, Mariupol, Chornomorets Odessa (On Loan)
+2, Oleksandr Melnyk, UKR, D, 1.95, 80, 10-02-00, Kyiv, FC Mynai
+4, Vladyslav Babohlo, UKR, D, 1.88, 81, 14-11-98, Ceadîr-Lunga, Karpaty Lviv
+15, Andriy Andreychuk, UKR, F, 1.83, 80, 17-02-03, Nebyliv, Bukovyna Chernivtsi (On Loan)
+7, Artur Mykytyshyn, UKR, M, 1.76, 66, 14-07-03, Tysmenychany, Kryvbas Kryvyi Rih (On Loan)
+12, José Hernández, ECU, D, 1.71, 70, 18-12-96, Guayaquil, Macará
+27, Ivan Matyushenko, UKR, M, 1.79, 65, 29-04-03, Zhytomyr, FC Mynai
+19, Rodion Plaksa, UKR, M, 1.73, 57, 22-01-02, Vuhledar, FSC Mariupol (On Loan)
+73, Bohdan Kobzar, UKR, F, 1.85, 76, 22-04-02, Rozhyshche, Podillya Khmelnytskyi (On Loan)

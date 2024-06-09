@@ -1,0 +1,48 @@
+=  Ferencváros - Hungarian Nemzeti Bajnokság I 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ádám Varga, HUN, G, 1.91, 78, 12-02-99, Budapest, None
+3, Samy Mmaee, MAR, D, 1.85, 82, 08-09-96, Halle, Sint-Truiden
+5, Muhamed Bešić, BIH, M, 1.80, 80, 10-09-92, Berlin, Everton
+7, Mohamed Ali Ben Romdhane, TUN, M, 1.86, 80, 06-09-99, Tunis, Espérance
+10, Marquinhos, BRA, F, 1.70, 71, 20-10-99, Cajari, Atlético Mineiro
+11, Kenan Kodro, BIH, F, 1.90, 77, 19-08-93, San Sebastián, Fehérvár
+13, Anderson Esiti, NGA, M, 1.89, 82, 24-05-94, Warri, PAOK
+14, Amer Gojak, BIH, M, 1.84, 75, 13-02-97, Sarajevo, Dinamo Zagreb
+15, Mohammed Abu Fani, ISR, M, 1.70, 68, 27-04-98, Kafr Qara, Maccabi Haifa
+16, Kristoffer Zachariassen, NOR, M, 1.80, 74, 27-10-94, Sotra, Rosenborg
+17, Eldar Ćivić, BIH, D, 1.75, 70, 28-05-96, Tuzla, Sparta Prague
+19, Barnabás Varga, HUN, F, 1.78, 74, 25-01-94, Szombathely, Paks
+20, Adama Traoré, MLI, F, 1.77, 70, 05-06-95, Bamako, Sheriff Tiraspol
+21, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Honvéd
+22, Myenty Abena, NED, D, 1.85, 88, 12-12-94, Paramaribo, Slovan Bratislava
+23, Lóránd Pászka, HUN, D, 1.86, 75, 22-03-96, Târgu Secuiesc, Soroksár
+24, Tosin Kehinde, NGA, M, 1.78, 75, 18-06-98, Lagos, Randers
+25, Čebrails Makreckis, LVA, M, 1.81, 74, 10-05-00, Aachen, Pirin Blagoevgrad
+27, Ibrahim Cissé, FRA, D, 1.75, 70, 02-05-96, Paris, Caen
+29, Gergő Szécsi, HUN, G, 1.85, 83, 07-02-89, Eger, Balmazújváros
+31, Henry Wingo, USA, D, 1.83, 77, 04-10-95, Seattle, Molde
+33, Stjepan Lončar, BIH, M, 1.87, 78, 10-11-96, Mostar, Rijeka
+44, Ismaël Aaneba, FRA, D, 1.82, 75, 29-05-99, Mantes-la-Jolie, Sochaux
+54, Dhônata, BRA, D, -, -, 06-04-04, -, Mirassol
+55, Bálint Katona, HUN, M, 1.78, 68, 07-09-02, Budapest, None
+64, Alex Tóth, HUN, M, 1.81, 70, 23-10-05, Budapest, None
+68, Ádám Halmai, HUN, M, 1.77, 72, 17-07-01, Budapest, Soroksár
+72, Aleksandar Pešić, SRB, F, 1.90, 87, 21-05-92, Niš, Crvena Zvezda
+76, Krisztián Lisztes, HUN, M, 1.83, 70, 06-05-05, Budapest, None
+77, Edgar Sevikyan, RUS, M, 1.75, 70, 08-08-01, Moscow, Pari Nizhny Novgorod
+80, Habib Maïga, CIV, M, 1.81, 78, 01-01-96, Gagnoa, Metz
+90, Dénes Dibusz, HUN, G, 1.86, 81, 19-11-90, Pécs, Pécs
+99, Cristian Ramírez, ECU, D, 1.71, 69, 12-08-94, Santo Domingo, FC Krasnodar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Carlos Auzqui, ARG, M, 1.74, 69, 16-09-91, Longchamps, San Lorenzo
+52, Nikolai Baden Frederiksen, DEN, F, 1.84, 70, 18-05-00, Odense, Vitesse
+4, Mats Knoester, NED, D, 1.84, 74, 19-11-98, Alphen aan den Rijn, Aarhus (On Loan)
+30, Péter Baráth, HUN, M, 1.85, 78, 21-02-02, Kisvárda, Raków Częstochowa (On Loan)
+18, Dávid Sigér, HUN, M, 1.75, 69, 30-11-90, Debrecen, Fehérvár
+10, Tokmac Nguen, NOR, M, 1.74, 60, 20-10-93, Kakuma, Djurgårdens IF
+11, Owusu Kwabena, GHA, F, 1.82, 73, 18-06-97, Accra, De-Registered
+50, Marquinhos, BRA, F, 1.70, 71, 20-10-99, Cajari, Re-Registered (10)

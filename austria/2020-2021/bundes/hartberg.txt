@@ -1,0 +1,41 @@
+=  TSV Hartberg - Austrian Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Swete, AUT, G, 1.86, 79, 01-06-90, Vienna, Grödig
+4, Michael Huber, AUT, D, 1.87, 85, 14-01-90, Oberwart, SKN St. Pölten
+5, Manfred Gollner, AUT, D, 1.84, 74, 22-12-90, Judenburg, Wolfsberger AC
+6, Andreas Lienhart, AUT, D, 1.84, 77, 28-01-86, Graz, Rheindorf Altach
+7, Julius Ertlthaler, AUT, M, 1.69, 62, 25-04-97, -, Mattersburg
+8, Samson Tijani, NGA, M, 1.75, 65, 17-05-02, Enugu, Red Bull Salzburg
+9, Rajko Rep, SVN, F, 1.77, 73, 20-06-90, Rogatec, LASK Linz
+10, Stefan Rakowitz, AUT, M, 1.72, 65, 03-04-90, Oberwart, Wacker Innsbruck
+11, Matija Horvat, CRO, M, 1.80, 80, 07-05-99, Čakovec, Kapfenberg
+14, Christian Klem, AUT, D, 1.72, 61, 21-04-91, Graz, Wacker Innsbruck
+17, Abdoul Yoda, BFA, M, -, -, 20-12-00, -, US des Forces Armées
+18, Philipp Sturm, AUT, F, 1.76, 68, 23-02-99, Salzburg, Chemnitzer FC
+20, Marc Andre Schmerböck, AUT, F, 1.80, 76, 01-04-94, Felbach, Wolfsberger AC
+21, Florian Faist, AUT, G, 1.84, 82, 10-04-89, Hartberg, Anger
+22, Florian Flecker, AUT, M, 1.73, 68, 29-10-95, Voitsberg, Würzburger Kickers
+23, Tobias Kainz, AUT, D, 1.74, 68, 31-10-92, Feldbach, Kapfenberg
+24, Dario Tadić, AUT, F, 1.77, 77, 11-05-90, Odžak, Austria Lustenau
+27, Lukas Ried, AUT, M, 1.78, 67, 10-10-95, -, None
+28, Jürgen Heil, AUT, M, 1.76, 70, 04-04-97, -, Anger
+29, Sascha Horvath, AUT, M, 1.65, 60, 22-08-96, Vienna, Dynamo Dresden
+31, Thomas Rotter, AUT, D, 1.88, 79, 27-01-92, -, None
+32, Felix Luckeneder, AUT, D, 1.90, 73, 21-03-94, Linz, LASK Linz
+34, Emmanuel Igbonekwu, NGA, F, 1.74, 70, 16-01-02, Abuja, None
+35, Raphael Sallinger, AUT, G, 1.97, 84, 08-12-95, Klagenfurt, Wolfsberger AC
+37, Michael Lema, AUT, M, 1.71, 67, 13-09-99, Singida, Sturm Graz
+39, Stefan Gölles, AUT, D, 1.88, 82, 04-10-91, -, Wolfsberger AC
+42, Bakary Nimaga, MLI, M, 1.89, 83, 06-12-94, Bamako, Hatayspor
+44, Maximilian Pußwald, AUT, G, -, -, 07-03-02, -, None
+45, Seifedin Chabbi, TUN, F, 1.89, 73, 04-07-93, Bludenz, Gaziantep
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Borna Petrović, CRO, F, 1.81, 77, 16-10-97, Zagreb, Varaždin
+20, Lukas Fadinger, AUT, M, 1.72, 65, 27-09-00, Weiz, Lafnitz (On Loan)
+11, Lukas Gabbichler, AUT, M, 1.86, 76, 12-05-98, -, Grazer AK
+16, Hamidou Maiga, MLI, D, 1.97, 92, 02-01-95, Bamako, 
+22, Alexander Burgstaller, AUT, D, 1.77, 73, 12-07-99, -, Wacker Innsbruck

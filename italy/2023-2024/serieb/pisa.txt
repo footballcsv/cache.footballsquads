@@ -1,0 +1,50 @@
+=  Pisa - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Reggina
+3, Maxime Leverbe, FRA, D, 1.88, 76, 15-02-97, Villepinte, Chievo Verona
+4, Antonio Caracciolo, ITA, D, 1.81, 73, 30-06-90, Tempio Pausania, Cremonese
+5, Simone Canestrelli, ITA, D, 1.92, 85, 11-09-00, Montepulciano, Empoli
+6, Hjörtur Hermannsson, ISL, D, 1.90, 84, 08-02-95, Reykjavík, Brøndby
+7, Lisandru Tramoni, ITA, F, 1.80, 68, 18-04-03, Ajaccio, Cagliari
+8, Marius Marin, ROU, M, 1.80, 69, 30-08-98, Timişoara, Sassuolo
+9, Nicholas Bonfanti, ITA, F, 1.78, 66, 28-03-02, Seriate, Modena
+10, Ernesto Torregrossa, VEN, F, 1.84, 86, 28-06-92, Caltanissetta, Sampdoria
+11, Matteo Tramoni, FRA, F, 1.75, 72, 20-01-00, Ajaccio, Cagliari
+12, Ante Vuković, CRO, G, 1.92, 86, 10-08-04, Omiš, Slaven Belupo
+14, Miha Trdan, SVN, M, 1.86, 79, 12-04-05, Ljubljana, Bravo
+15, Idrissa Touré, GER, M, 1.88, 76, 29-04-98, Berlin, Juventus U23
+16, Mattia Sala, ITA, M, -, -, 25-03-05, -, Milan
+17, Jan Mlakar, SVN, F, 1.83, 77, 23-10-98, Domžale, Hajduk Split
+19, Tomás Esteves, POR, D, 1.80, 72, 03-04-02, Arcos de Valdevez, FC Porto
+20, Pietro Beruatto, ITA, D, 1.85, 80, 21-12-98, Trieste, Juventus
+22, Leonardo Loria, ITA, G, 1.95, 91, 28-03-99, Erice, Juventus
+25, Francesco Coppola, ITA, D, -, -, 11-04-05, Turin, Juventus
+26, Gaetano Masucci, ITA, F, 1.72, 72, 26-10-84, Avellino, Virtus Entella
+27, Mattia Valoti, ITA, M, 1.87, 82, 06-09-93, Vicenza, Monza
+28, Alessandro Arena, ITA, M, 1.71, 58, 03-08-00, Marina di Ragusa, Gubbio
+30, Alessandro De Vitis, ITA, M, 1.84, 79, 15-02-92, Piacenza, Sampdoria
+31, Adrian Raychev, BUL, F, 1.83, -, 19-04-06, -, Levski Sofia
+32, Stefano Moreo, ITA, F, 1.91, 85, 30-06-93, Milan, Brescia
+33, Arturo Calabresi, ITA, D, 1.86, 75, 17-03-96, Rome, Lecce
+34, Matteo Campani, ITA, G, 1.89, 78, 19-08-00, Florence, Sassuolo
+36, Gabriele Piccinini, ITA, F, 1.84, 76, 06-04-01, Scandiano, Lentigione
+42, Tommaso Barbieri, ITA, D, 1.81, 72, 26-08-02, Magenta, Juventus
+44, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Verona
+51, Andrea Barberis, ITA, M, 1.77, 73, 11-12-93, Genoa, Monza
+77, Marco D'Alessandro, ITA, F, 1.73, 71, 17-02-91, Rome, Monza
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Adrián Rus, HUN, D, 1.88, 84, 18-03-96, Satu Mare, Pafos (On Loan)
+23, Emanuele Zuelli, ITA, M, 1.79, 70, 22-11-01, Merano, Carrarese (On Loan)
+18, Giuseppe Mastinu, ITA, M, 1.75, 77, 09-10-91, Sassari, Torres
+21, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Lecco (On Loan)
+29, Assane Seck, SEN, F, 1.75, 69, 01-01-04, Dakar, Fiorenzuola (On Loan)
+60, Nicolas Izzillo, ITA, M, 1.80, 70, 19-04-94, La Maddalena, Virtus Francavilla
+9, Ettore Gliozzi, ITA, F, 1.86, 83, 23-09-95, Siderno, Modena
+27, Edgaras Dubickas, LTU, F, 1.82, 75, 09-07-98, Marijampolė, Feralpisalò (On Loan)
+16, Ádám Nagy, HUN, M, 1.78, 74, 17-06-95, Budapest, Spezia (On Loan)
+24, Roko Jureškin, CRO, D, 1.88, 75, 29-09-00, Split, Spezia (On Loan)
+23, Emanuel Vignato, BRA, F, 1.75, 67, 24-08-00, Negrar, Salernitana (On Loan)

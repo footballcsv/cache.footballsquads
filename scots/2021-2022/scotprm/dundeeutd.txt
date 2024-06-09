@@ -1,0 +1,65 @@
+=  Dundee United - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Siegrist, SUI, G, 1.94, 85, 31-01-92, Basel, Vaduz
+2, Liam Smith, SCO, D, 1.77, 68, 10-04-96, Dalgety Bay, Ayr U
+3, Adrián Spörle, ARG, D, 1.86, 76, 13-07-95, Centenario, Banfield
+4, Charlie Mulgrew, SCO, D, 1.91, 83, 06-03-86, Glasgow, Blackburn R
+6, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Fulham
+7, Ilmari Niskanen, FIN, M, 1.77, 78, 27-10-97, Kiuruvesi, Ingolstadt
+8, Peter Pawlett, SCO, M, 1.78, 68, 03-02-91, Hull, MK Dons
+9, Marc McNulty, SCO, F, 1.78, 69, 14-09-92, Livingston, Reading
+10, Nicky Clark, SCO, F, 1.78, 67, 03-06-91, Bellshill, Dunfermline Ath
+12, Ryan Edwards, ENG, D, 1.80, 82, 07-10-93, Liverpool, Blackpool
+13, Carl-Johan Eriksson, FIN, G, 1.91, 88, 25-04-95, Helsinki, Mjällby AIF
+14, Florent Hoti, KVX, M, 1.82, 75, 11-12-00, Manchester, Rochdale
+15, Tim Akinola, ENG, M, -, -, 08-05-01, -, Arsenal
+17, Archie Meekison, SCO, M, 1.80, 67, 04-05-02, Edinburgh, None
+18, Calum Butcher, ENG, D, 1.82, 82, 26-02-91, Rochford, Mansfield T
+19, Dylan Levitt, WAL, M, 1.80, 70, 17-11-00, Bodelwyddan, Manchester U
+20, Lewis Neilson, SCO, D, 1.71, 62, 15-05-03, Dundee, None
+22, Kieran Freeman, SCO, D, 1.78, 70, 30-03-00, Aberdeen, Southampton
+23, Ian Harkes, USA, M, 1.83, 73, 08-03-95, Derby, DC United
+26, Chris Mochrie, SCO, M, 1.79, 65, 07-04-03, Dundee, None
+29, Ross Graham, SCO, D, 1.94, 82, 20-02-01, Blairgowrie, None
+31, Jack Newman, SCO, G, 1.92, 80, 12-02-02, Hexham, Sunderland
+32, Tony Watt, SCO, F, 1.73, 67, 29-12-93, Coatbridge, Motherwell
+33, Scott McMann, SCO, D, 1.80, 70, 09-07-96, Kirkintilloch, Hamilton Academical
+35, Finn Robson, SCO, M, -, -, 29-07-03, Dundee, None
+38, Layton Bisland, SCO, D, -, -, 02-02-04, Dundee, None
+43, Lennon Walker, SCO, M, -, -, 30-11-03, -, None
+44, Sam Lovie, SCO, D, -, -, 26-03-04, -, None
+45, Finlay Malcolm, SCO, F, -, -, 04-02-04, -, None
+46, Miller Thomson, SCO, F, -, -, 20-07-04, -, None
+47, Jacob Comerford, SCO, D, -, -, 22-02-04, -, None
+48, Dominik Naglik, POL, F, -, -, 14-03-04, -, None
+49, Stuart Heenan, SCO, F, -, -, 26-07-05, -, None
+50, Lewis O'Donnell, SCO, M, -, -, 21-06-05, -, None
+51, Bryan Mwangi, SCO, M, -, -, 12-05-05, -, None
+52, Craig Moore, SCO, M, -, -, 21-09-05, -, None
+53, Rory MacLeod, SCO, F, -, -, 03-02-06, -, None
+58, Mathew Anim Cudjoe, GHA, M, 1.68, 60, 11-11-03, Accra, Young Apostles
+94, Maxime Biamou, FRA, F, 1.85, 82, 13-11-90, Créteil, Coventry C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Ruairidh Adams, SCO, G, -, -, 10-07-04, -, Lothian Thistle Hutchison Vale (On Loan)
+24, Lawrence Shankland, SCO, F, 1.85, 75, 10-08-95, Glasgow, Beerschot
+42, Shaun Brown, SCO, D, -, -, 18-09-03, Falkirk, Cumbernauld Colts (On Loan)
+17, Jamie Robson, SCO, D, 1.73, 68, 19-12-97, Perth, Lincoln C
+40, Flynn Duffy, SCO, D, -, -, 13-08-03, -, Peterhead (On Loan)
+16, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, Morecambe (On Loan)
+28, Kerr Smith, SCO, D, -, -, 12-12-04, -, Aston Villa
+34, Nathan Cooney, SCO, D, 1.83, 72, 21-02-02, Dundee, Brechin C (On Loan)
+5, Mark Connolly, IRL, D, 1.83, 77, 16-12-91, Monaghan, Dundalk (On Loan)
+32, Archie Meekison, SCO, M, 1.80, 67, 04-05-02, Edinburgh, Re-Registered (17)
+6, Mark Reynolds, SCO, D, 1.80, 67, 07-05-87, Motherwell, Cove Rangers
+11, Logan Chalmers, SCO, F, 1.76, 68, 24-03-00, Dundee, Inverness CT (On Loan)
+37, Adam Hutchinson, SCO, D, -, -, 15-02-03, Alva, Dumbarton (On Loan)
+30, Darren Watson, SCO, F, 1.77, 57, 10-08-03, Kirkcaldy, East Fife (On Loan)
+66, Jeando Fuchs, FRA, M, 1.74, 70, 11-10-97, Yaoundé, Peterborough U
+27, Louis Appéré, SCO, F, 1.86, 82, 26-03-99, Perth, Northampton T
+21, Declan Glass, SCO, M, 1.72, 70, 07-06-00, Edinburgh, Kilmarnock (On Loan)
+25, Kai Fotheringham, SCO, F, 1.69, 54, 18-04-03, Larbert, Cove Rangers (On Loan)
+36, Rhys Caves, SCO, M, -, -, 23-11-03, Airdrie, The Spartans (On Loan)

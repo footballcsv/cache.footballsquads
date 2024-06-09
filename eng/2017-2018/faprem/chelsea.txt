@@ -1,0 +1,71 @@
+=  Chelsea - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wilfredo Caballero, ARG, G, 1.86, 80, 28-09-81, Salta Elena, Manchester C
+2, Antonio Rüdiger, GER, D, 1.90, 85, 03-03-93, Berlin, Roma
+3, Marcos Alonso, ESP, D, 1.88, 84, 28-12-90, Madrid, Fiorentina
+4, Cesc Fàbregas, ESP, M, 1.80, 77, 04-05-87, Arenys de Mar, Barcelona
+6, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Leicester C
+7, Ngolo Kanté, FRA, M, 1.68, 68, 29-03-91, Paris, Leicester C
+8, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, Everton
+9, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Real Madrid
+10, Eden Hazard, BEL, M, 1.73, 76, 07-01-91, La Louvière, Lille
+11, Pedro, ESP, F, 1.69, 65, 28-07-87, Santa Cruz de Tenerife, Barcelona
+13, Thibaut Courtois, BEL, G, 1.99, 94, 11-05-92, Bree, KRC Genk
+14, Tiemoué Bakayoko, FRA, M, 1.85, 77, 17-08-94, Paris, Monaco
+15, Victor Moses, NGA, M, 1.77, 79, 12-12-90, Lagos, Wigan Ath
+18, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Arsenal
+21, Davide Zappacosta, ITA, D, 1.82, 70, 11-06-92, Sora, Torino
+22, Willian, BRA, M, 1.75, 77, 09-08-88, Ribeirão Pires, Anzhi Makhachkala
+24, Gary Cahill, ENG, D, 1.93, 86, 19-12-85, Sheffield, Bolton W
+27, Andreas Christensen, DEN, D, 1.88, 68, 10-04-96, Allerød, Brøndby
+28, César Azpilicueta, ESP, D, 1.78, 78, 28-08-89, Pamplona, Marseille
+30, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Paris St-Germain
+33, Emerson Palmieri, BRA, D, 1.76, 63, 03-08-94, Santos, Roma
+36, Kyle Scott, USA, M, 1.72, 60, 12-12-97, Bath, None
+37, Eduardo, POR, G, 1.87, 88, 19-09-82, Mirandela, Dinamo Zagreb
+43, Isaac Christie-Davies, WAL, M, 1.88, 75, 18-10-97, Brighton, None
+44, Ethan Ampadu, WAL, D, 1.82, 72, 14-09-00, Exeter, Exeter C
+46, Ruben Sammut, SCO, M, , , 26-09-97, Maidstone, None
+48, Kylian Hazard, BEL, M, 1.73, 71, 05-08-95, La Louvière, Újpest
+50, Trevoh Chalobah, ENG, M, 1.90, 75, 05-07-99, Freetown, None
+51, Joseph Colley, SWE, D, 1.87, 78, 13-04-99, Kanifing, IF Brommapojkarna
+52, Cole Dasilva, ENG, D, , , 11-05-99, Luton, Luton T
+53, Josh Grant, ENG, D, 1.83, 78, 11-10-98, Lambeth, None
+54, Jacob Maddox, ENG, M, 1.78, 72, 03-11-98, Bristol, Bristol C
+55, Luke McCormick, ENG, M, 1.75, 74, 21-01-99, Bury St Edmunds, None
+56, Richard Nartey, ENG, D, , , 06-09-98, Hammersmith, None
+57, Harvey St Clair, SCO, F, 1.83, 76, 13-10-98, Kingston upon Thames, None
+58, Charlie Brown, ENG, F, 1.83, 78, 23-09-99, Ipswich, Ipswich T
+59, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Escola Varsovia
+60, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, Ajax
+61, Jamie Cumming, ENG, G, 1.88, 74, 04-09-99, Winchester, None
+62, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, None
+63, Marc Guehi, ENG, D, 1.82, 82, 13-07-00, Abidjan, None
+64, Reece James, ENG, D, 1.83, 71, 08-12-99, Redbridge, None
+65, George McEachran, ENG, M, 1.74, 65, 30-08-00, Oxford, None
+66, Dujon Sterling, ENG, D, 1.80, 73, 24-10-99, Islington, None
+67, Martell Taylor-Crossdale, ENG, F, 1.85, 77, 26-12-99, Edmonton, None
+68, Tariq Uwakwe, ENG, M, 1.78, 64, 19-11-99, Islington, None
+70, Callum Hudson-Odoi, ENG, M, 1.77, 75, 07-11-00, Wandsworth, None
+71, Billy Gilmour, SCO, M, 1.70, 66, 11-06-01, Irvine, Rangers
+72, Nicolas Tié, CIV, G, 1.86, 85, 13-02-01, Lille, Poitiers
+73, Daishawn Redan, NED, F, 1.76, 76, 02-02-01, Amsterdam, Ajax
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Middlesbrough (On Loan)
+38, Jeremie Boga, FRA, M, 1.72, 68, 03-01-97, Marseille, Birmingham C (On Loan)
+31, Fikayo Tomori, CAN, D, 1.84, 75, 19-12-97, Calgary, Hull C (On Loan)
+42, Jordan Houghton, ENG, M, 1.82, 77, 09-11-95, Chertsey, Doncaster R (On Loan)
+49, Charlie Wakefield, ENG, M, 1.84, 72, 10-04-98, Worthing, Stevenage (On Loan)
+18, Loïc Rémy, FRA, F, 1.84, 66, 02-01-87, Lyon, Las Palmas
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Atlético Madrid
+35, Jake Clarke-Salter, ENG, D, 1.88, 70, 22-09-97, Carshalton, Sunderland (On Loan)
+16, Kenedy, BRA, M, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Newcastle U (On Loan)
+17, Charly Musonda, BEL, M, 1.73, 58, 15-10-96, Brussels, Celtic (On Loan)
+23, Michy Batshuayi, BEL, F, 1.85, 86, 02-10-93, Brussels, Borussia Dortmund (On Loan)
+45, Miro Muheim, SUI, M, 1.82, 77, 24-03-98, Flüelen, St. Gallen
+47, Ali Suljić, SWE, D, 1.88, 80, 18-09-97, Motala, 
+41, Mitchell Beeney, ENG, G, 1.82, 78, 03-10-95, Leeds, Sligo R (On Loan)

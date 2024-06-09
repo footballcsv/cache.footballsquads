@@ -1,0 +1,47 @@
+=  Fenerbahçe - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Çağlar Söyüncü, TUR, D, 1.87, 80, 23-05-96, İzmir, Atlético Madrid
+4, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, Galatasaray
+5, İsmail Yüksek, TUR, M, 1.83, 77, 26-01-99, Bursa, Gölcükspor
+6, Alexander Djiku, GHA, D, 1.82, 74, 09-08-94, Montpellier, Strasbourg
+7, Ferdi Kadıoğlu, NED, D, 1.73, 64, 07-10-99, Arnhem, NEC Nijmegen
+8, Mert Hakan Yandaş, TUR, M, 1.74, 73, 19-08-94, Bursa, Sivasspor
+9, Edin Džeko, BIH, F, 1.93, 80, 17-03-86, Sarajevo, Internazionale
+10, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, Ajax
+11, Ryan Kent, ENG, F, 1.72, 65, 11-11-96, Oldham, Rangers
+14, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Marseille
+15, Joshua King, NOR, F, 1.80, 74, 15-01-92, Oslo, Watford
+16, Mert Müldür, TUR, D, 1.88, 74, 03-04-99, Vienna, Sassuolo
+17, İrfan Can Kahveci, TUR, M, 1.75, 67, 15-07-95, Bayat, İstanbul Başakşehir
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Union Berlin
+20, Cengiz Ünder, TUR, M, 1.73, 66, 14-07-97, Balıkesir, Marseille
+21, Bright Osayi-Samuel, NGA, D, 1.75, 72, 01-02-97, Okija, QPR
+23, Michy Batshuayi, BEL, F, 1.85, 86, 02-10-93, Brussels, Chelsea
+24, Jayden Oosterwolde, NED, D, 1.89, 74, 26-04-01, Zwolle, Parma
+26, Miha Zajc, SVN, M, 1.80, 76, 01-07-94, Šempeter pri Gorici, Empoli
+33, Rade Krunić, BIH, M, 1.84, 74, 07-10-93, Foča, Milan
+35, Fred, BRA, M, 1.69, 68, 05-03-93, Belo Horizonte, Manchester U
+40, Dominik Livaković, CRO, G, 1.88, 82, 09-01-95, Zadar, Dinamo Zagreb
+50, Rodrigo Becão, BRA, D, 1.91, 79, 19-01-96, Salvador, Udinese
+53, Sebastian Szymanski, POL, M, 1.74, 58, 10-05-99, Biała Podlaska, Dynamo Moscow
+70, İrfan Can Eğribayat, TUR, G, 1.93, 75, 30-06-98, Seyhan, Göztepe
+91, Serdar Dursun, GER, F, 1.90, 85, 19-10-91, Hannover, Fatih Karagümrük
+97, Furkan Akyüz, TUR, G, 1.91, 86, 21-09-05, Bursa, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Panathinaikos
+2, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, Valladolid
+19, Serdar Dursun, GER, F, 1.90, 85, 19-10-91, Hannover, Fatih Karagümrük
+1, Altay Bayındır, TUR, G, 1.98, 89, 14-04-98, Osmangazi, Manchester U
+80, İsmail Yüksek, TUR, M, 1.83, 77, 26-01-99, Bursa, Re-Registered (5)
+30, Nazim Sangaré, GER, D, 1.85, 73, 30-05-94, Cologne, Fatih Karagümrük
+77, Burak Kapacak, TUR, M, 1.80, 72, 08-12-99, Osmangazi, Sivasspor (On Loan)
+3, Samet Akaydin, TUR, D, 1.90, 86, 13-03-94, Trabzon, Panathinaikos (On Loan)
+22, Umut Nayir, TUR, F, 1.84, 84, 28-06-93, Kocasinan, Pendikspor (On Loan)
+28, Bartuğ Elmaz, TUR, M, 1.79, 67, 19-02-03, Tekirdağ, Sivasspor (On Loan)
+27, Miguel Crespo, POR, M, 1.83, 78, 11-09-96, Lyon, Rayo Vallecano (On Loan)
+99, Emre Mor, TUR, F, 1.68, 60, 24-07-97, Brønshøj, Fatih Karagümrük (On Loan)
+18, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, Red Bull Bragantino (On Loan)

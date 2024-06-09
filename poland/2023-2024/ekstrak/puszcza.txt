@@ -1,0 +1,45 @@
+=  Puszcza Niepołomice - Polish Ekstraklasa 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kewin Komar, POL, G, 1.93, 75, 26-07-03, Bełchatów, GKS Bełchatów
+3, Roman Yakuba, UKR, D, 1.91, 83, 23-04-01, Lviv, Valmiera
+4, Tomasz Wojcinowicz, POL, D, 1.86, 80, 12-04-96, Białogard, Hutnik Kraków
+5, Konrad Stępień, POL, D, 1.85, 80, 07-03-93, Tarnobrzeg, Siarka Tarnobrzeg
+6, Lee Jin-Hyun, KOR, M, 1.72, 65, 26-08-97, Pohang, Daejeon Hana Citizen
+7, Thiago, BRA, M, 1.77, 60, 18-03-97, Campo Grande, Cracovia Kraków
+8, Piotr Mroziński, POL, M, 1.81, 74, 24-08-92, Przemyśl, Stal Stalowa Wola
+9, Artur Siemaszko, POL, F, 1.81, 74, 06-01-97, Wałbrzych, Arka Gdynia
+10, Hubert Tomalski, POL, F, 1.71, 70, 19-08-93, Opatów, Raków Częstochowa
+11, Mateusz Cholewiak, POL, M, 1.84, 73, 05-02-90, Krosno, Górnik Zabrze
+13, Krzysztof Wróblewski, POL, G, 1.88, 77, 23-01-02, Kraków, None
+14, Jakub Serafin, POL, M, 1.81, 69, 25-05-96, Olsztyn, Cracovia Kraków
+16, Michał Walski, POL, M, 1.69, 62, 27-02-97, Tarnobrzeg, Sandecja Nowy Sącz
+17, Jakub Bartosz, POL, D, 1.83, 76, 13-08-96, Myślenice, Stal Mielec
+19, Jakub Stec, POL, M, 1.91, -, 15-02-05, -, Sokół Kolbuszowa Dolna
+20, Filip GIl, POL, D, 1.84, -, 08-07-07, -, Cracovia Kraków
+21, Michał Koj, POL, D, 1.88, 81, 28-07-93, Ruda Śląska, Korona Kielce
+22, Artur Craciun, MDA, D, 1.93, 82, 29-06-98, Chișinău, Hapoel Kfar Saba
+23, Jordan Majchrzak, POL, F, 1.86, 72, 08-10-04, Zawiercie, Legia Warszawa
+25, Kamil Zapolnik, POL, F, 1.82, 77, 09-09-92, Białystok, Miedź Legnica
+27, Łukasz Sołowiej, POL, D, 1.89, 84, 11-10-88, Sokółka, GKS Tychy
+28, Igor Pieprzyca, POL, M, 1.80, 65, 08-10-08, Niepołomice, None
+45, Rok Kidrič, SVN, F, 1.94, 86, 27-04-95, Celje, Aluminij
+48, Oliwier Zych, POL, G, 1.91, 86, 28-06-04, Gdańsk, Aston Villa
+67, Ioan-Călin Revenco, MDA, D, 1.77, 70, 26-06-00, Chișinău, Petrocub Hîncești
+70, Wojciech Hajda, POL, M, 1.82, 70, 23-05-00, Radzionków, Górnik Zabrze
+93, Bartłomiej Poczobut, POL, M, 1.80, 77, 11-07-93, Szczecinek, Stal Rzeszów
+96, Maciej Firlej, POL, F, 1.81, 76, 23-09-96, Kowary, Ruch Chorzów
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+80, Jakub Wójcik, POL, M, -, -, 06-02-06, -, Czarni Połaniec (On Loan)
+15, Piotr Gruszecki, POL, D, -, -, 12-10-03, -, Watra Białka Tatrzańska
+91, Emile Thiakane, SEN, M, 1.90, 78, 17-11-91, Pikine, Wisła Płock
+18, Lucjan Klisiewicz, POL, F, 1.93, 74, 20-04-02, Rzeszów, Stal Stalowa Wola (On Loan)
+44, Dominik Frelek, POL, M, 1.83, 69, 11-10-01, Grudziądz, Olimpia Grudziądz (On Loan)
+6, Marcel Pięczek, POL, D, 1.85, 84, 11-12-00, -, Korona Kielce
+44, Kacper Cichon, POL, M, 1.80, 66, 02-10-01, Krosno, Olimpia Grudziądz (On Loan)
+30, Adam Kramarz, POL, F, 1.75, 67, 07-08-02, Mielec, KSZO Ostrowiec (On Loan)
+99, Kacper Piechota, POL, G, -, -, 07-03-05, -, KS Wiązownica (On Loan)
+24, Muris Mešanovič, BIH, F, 1.77, 75, 06-07-90, Sarajevo, Dukla Prague (On Loan)

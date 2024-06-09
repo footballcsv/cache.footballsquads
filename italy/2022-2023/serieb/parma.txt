@@ -1,0 +1,54 @@
+=  Parma - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.92, 92, 28-01-78, Carrara, Juventus
+3, Yordan Osorio, VEN, D, 1.89, 77, 10-05-94, Barinas, FC Porto
+4, Botond Balogh, HUN, D, 1.89, 76, 06-06-02, Sopron, MTK
+7, Adrian Benedyczak, POL, F, 1.91, 81, 24-11-00, Kamień Pomorski, Pogoń Szczecin
+8, Nahuel Estévez, ARG, M, 1.81, 77, 14-11-95, Capital Federal, Crotone
+9, Gabriel Charpentier, FRA, F, 1.87, 85, 17-05-99, Pointe-Noire, Genoa
+10, Franco Vázquez, ARG, M, 1.87, 80, 22-02-89, Tanti, Sevilla
+13, Ange-Yoan Bonny, FRA, F, 1.89, 86, 25-10-03, Aubervilliers, Châteauroux
+14, Cristian Ansaldi, ARG, D, 1.81, 76, 20-09-86, Rosario, Torino
+15, Enrico Delprato, ITA, D, 1.83, 76, 10-11-99, Grassobbio, Atalanta
+16, Adrián Bernabé, ESP, M, 1.70, 66, 26-05-01, Barcelona, Manchester C
+17, Luca Zanimacchia, ITA, F, 1.78, 72, 19-07-98, Desio, Cremonese
+19, Simon Sohm, SUI, M, 1.88, 85, 11-04-01, Zürich, Zürich
+20, Antoine Hainaut, FRA, M, 1.86, 76, 18-02-02, Sainte-Catherine, Boulogne
+22, Leandro Chichizola, ARG, G, 1.85, 80, 27-03-90, San Justo, Perugia
+23, Drissa Camara, CIV, M, 1.79, 69, 18-02-02, Abobo, None
+24, Stanko Jurić, CRO, M, 1.89, 83, 16-08-96, Split, Hajduk Split
+25, Elias Cobbaut, BEL, D, 1.88, 78, 24-11-97, Mechelen, Anderlecht
+26, Woyo Coulibaly, FRA, D, 1.85, 77, 26-05-99, Gonesse, Le Havre
+28, Valentin Mihăilă, ROU, F, 1.77, 61, 02-02-00, Finta, Universitatea Craiova
+29, Antonio Santurro, ITA, G, 1.92, 86, 29-02-92, Parma, Udinese
+30, Lautaro Valenti, ARG, D, 1.88, 80, 14-01-99, Rosario, Lanús
+39, Alessandro Circati, AUS, D, 1.91, 80, 10-10-03, Fidenza, Perth Glory
+40, Edoardo Corvi, ITA, G, 1.83, 70, 23-03-01, Parma, None
+44, Francesco Borriello, ITA, G, 1.88, 69, 25-07-05, Catania, Catania
+45, Roberto Inglese, ITA, F, 1.86, 85, 12-11-91, Lucera, Napoli
+47, Vassilis Zagaritis, GRE, D, 1.77, 68, 04-05-01, Thiva, Panathinaikos
+59, Nathan Buayi-Kiala, FRA, M, 1.77, 73, 29-02-04, Lille, Lille
+66, Davide Cipolletti, ITA, M, 1.82, 72, 30-03-01, Teramo, Pescara
+67, Matteo Cucci, ITA, D, 1.78, 71, 20-02-01, Nardò, Lecce
+71, Alessandro Martella, ITA, D, 1.80, 70, 30-11-00, Pescara, Pescara
+72, Stefano Palmucci, ITA, M, 1.83, 75, 22-05-01, Pescara, Pescara
+84, Dario Sits, LVA, F, 1.87, -, 04-02-04, Riga, FK Metta
+98, Dennis Man, ROU, F, 1.83, 82, 26-08-98, Vladimirescu, FCSB
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+69, Michele Laraspata, ITA, D, 1.83, 71, 02-06-01, Bari, Bitritto Norba
+62, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Empoli (On Loan)
+65, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Lecce (On Loan)
+33, Daniele Iacoponi, ITA, F, 1.75, 68, 25-03-02, Rome, Foggia (On Loan)
+21, Pasquale Schiattarella, ITA, M, 1.78, 70, 30-05-87, Mugnano di Napoli, Benevento
+63, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Torino
+70, Andrea Mallamo, ITA, M, 1.77, 65, 22-10-02, Vizzolo Predabissi, Messina (On Loan)
+64, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, 
+68, Moussa Koné, CIV, M, 1.75, 70, 19-11-00, Abobo, Izola
+11, Gennaro Tutino, ITA, F, 1.77, 76, 20-08-96, Naples, Palermo (On Loan)
+17, Jayden Oosterwolde, NED, D, 1.89, 74, 26-04-01, Zwolle, Fenerbahçe
+5, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Lecce
+36, Bartłomiej Maliszewski, POL, G, 1.95, 83, 12-02-04, -, Lazio

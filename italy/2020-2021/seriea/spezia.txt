@@ -1,0 +1,50 @@
+=  Spezia - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeroen Zoet, NED, G, 1.89, 83, 06-01-91, Veendam, PSV Eindhoven
+3, Juan Ramos, URU, D, 1.80, 72, 01-09-96, Montevideo, Parma
+4, Gennaro Acampora, ITA, M, 1.74, 74, 29-03-94, Naples, Napoli
+5, Riccardo Marchizza, ITA, D, 1.87, 80, 26-03-98, Rome, Sassuolo
+7, Jacopo Sala, ITA, D, 1.81, 75, 05-12-91, Alzano Lombardo, SPAL
+8, Matteo Ricci, ITA, M, 1.76, 68, 27-05-94, Rome, Roma
+9, Andrej Galabinov, BUL, F, 1.92, 88, 27-11-88, Sofia, Genoa
+10, Lucien Agoume, FRA, M, 1.85, 75, 09-02-02, Yaoundé, Internazionale
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Pistoiese
+12, Titas Krapikas, LTU, G, 1.95, 85, 03-01-99, Kaunas, Sampdoria
+13, Elio Capradossi, ITA, D, 1.85, 78, 11-03-96, Kampala, Roma
+14, Federico Mattiello, ITA, D, 1.84, 70, 14-07-95, Barga, Atalanta
+17, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Cagliari
+18, M'Bala Nzola, FRA, F, 1.85, 82, 18-08-96, Troyes, Trapani
+19, Claudio Terzi, ITA, D, 1.80, 69, 19-06-84, Milan, Palermo
+20, Simone Bastoni, ITA, M, 1.81, 74, 05-11-96, La Spezia, None
+21, Salva Ferrer, ESP, D, 1.84, 73, 21-01-98, Martorell, Nàstic
+22, Julian Chabot, GER, D, 1.95, 85, 12-02-98, Hanau, Sampdoria
+23, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Fiorentina
+24, Nahuel Estévez, ARG, M, 1.81, 70, 14-11-95, Capital Federal, Estudiantes (LP)
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, None
+26, Tommaso Pobega, ITA, M, 1.88, 75, 15-07-99, Trieste, Milan
+28, Martin Erlić, CRO, D, 1.93, 88, 24-01-98, Zadar, Sassuolo
+31, Daniele Verde, ITA, F, 1.68, 64, 20-06-96, Naples, AEK
+34, Ardian Ismajli, ALB, D, 1.85, 80, 30-09-96, Majac, Hajduk Split
+35, Ayoub Afi, ITA, F, 1.75, -, 17-11-03, -, None
+39, Cristian Dell'Orco, ITA, D, 1.83, 75, 10-02-94, Sant'Angelo Lodigiano, Sassuolo
+40, Nicolò Bertola, ITA, D, 1.92, 79, 23-03-03, Carrara, None
+41, Niccolò Pietra, ITA, M, 1.89, 85, 28-09-03, Massa, None
+64, Stefano Vannucchi, ITA, G, 1.95, -, 22-03-03, Carrara, None
+69, Luca Vignali, ITA, M, 1.86, 75, 11-01-96, La Spezia, None
+77, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, Cagliari
+80, Kevin Agudelo, COL, M, 1.78, 70, 14-11-98, Puerto Caicedo, Genoa
+88, Léo Sena, BRA, M, 1.75, 71, 31-12-95, São Paulo, Atlético Mineiro
+91, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Atalanta
+94, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Empoli
+99, Denny Pucci, ITA, G, 1.88, -, 14-12-03, La Spezia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Diego Ciccarelli, ITA, F, -, -, 04-11-02, La Spezia, Arzachena (On Loan)
+97, Axel Desjardins, CAN, G, 1.88, 81, 13-01-00, Montreal, Novara (On Loan)
+16, Paolo Bartolomei, ITA, M, 1.83, 76, 22-08-89, Lucca, Cremonese
+6, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, SPAL
+15, Giuseppe Mastinu, ITA, F, 1.75, 77, 09-10-91, Sassari, Pisa
+27, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, Cagliari

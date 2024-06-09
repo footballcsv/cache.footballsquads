@@ -1,0 +1,66 @@
+=  Arsenal - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernd Leno, GER, G, 1.89, 78, 04-03-92, Bietigheim-Bissingen, Bayer Leverkusen
+2, Héctor Bellerín, ESP, D, 1.78, 74, 19-03-95, Barcelona, Barcelona
+3, Kieran Tierney, SCO, D, 1.78, 70, 05-06-97, Douglas, Celtic
+5, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, Borussia Dortmund
+8, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Real Madrid
+9, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Lyon
+10, Mesut Özil, GER, M, 1.80, 76, 15-10-88, Gelsenkirchen, Real Madrid
+11, Lucas Torreira, URU, M, 1.68, 64, 11-02-96, Fray Bentos, Sampdoria
+14, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Borussia Dortmund
+15, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, None
+16, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Bolton W
+17, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Southampton
+19, Nicolas Pépé, CIV, F, 1.78, 68, 29-05-95, Mantes-la-Jolie, Lille
+20, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Valencia
+21, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Southampton
+22, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Flamengo
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Chelsea
+24, Reiss Nelson, ENG, F, 1.75, 70, 10-12-99, Lambeth, None
+26, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Independiente
+28, Joe Willock, ENG, M, 1.79, 71, 20-08-99, Waltham Forest, None
+29, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, Lorient
+30, Eddie Nketiah, ENG, F, 1.75, 72, 30-05-99, Lewisham, None
+31, Sead Kolašinac, BIH, D, 1.83, 82, 20-06-93, Karlsruhe, Schalke
+33, Matt Macey, ENG, G, 1.98, 81, 09-09-94, Bristol, Bristol R
+34, Granit Xhaka, SUI, M, 1.85, 82, 27-09-92, Gnjilane, B Mönchengladbach
+35, Gabriel Martinelli, BRA, F, 1.80, 78, 18-06-01, Guarulhos, Ituano
+37, Daniel Ballard, NIR, D, 1.87, 85, 22-09-99, Stevenage, None
+38, Folarin Balogun, ENG, F, 1.78, 66, 03-07-01, New York, None
+40, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, None
+42, Harry Clarke, ENG, D, 1.78, 71, 02-03-01, Ipswich, None
+43, Trae Coyle, ENG, F, 1.80, 71, 11-01-01, Camden, None
+47, Jordan McEneff, IRL, M, 1.83, 70, 08-01-01, Derry, None
+48, Mark McGuinness, IRL, D, 1.94, 70, 05-01-01, Slough, None
+49, Zech Medley, ENG, D, 1.95, 90, 09-07-00, Greenwich, Chelsea
+53, Joseph Olowu, ENG, D, 1.84, 75, 27-11-99, Ibadan, None
+54, Tobi Omole, ENG, D, 1.89, 74, 17-12-99, Lewisham, None
+57, Matt Smith, ENG, M, 1.76, 71, 05-10-00, Harlow, None
+59, Zak Swanson, ENG, D, 1.89, 77, 28-09-00, Cambridge, None
+61, Nathan Tormey, ENG, M, , , 25-05-00, Hatfield, None
+63, James Hillson, ENG, G, , , 14-01-01, Bedford, Reading
+69, Ben Cottrell, ENG, M, , , 14-01-01, Watford, None
+71, Charlie Patino, ENG, M, , , 17-10-03, Watford, Luton T
+72, Sam Greenwood, ENG, M, 1.80, 70, 26-01-02, Sunderland, Sunderland
+74, Joel López, ESP, D, 1.79, 75, 31-03-02, Barcelona, Barcelona
+76, Arthur Okonkwo, ENG, G, 1.95, 85, 09-09-01, Camden, None
+77, Bukayo Saka, ENG, M, 1.78, 65, 05-09-01, Ealing, None
+79, Miguel Azeez, ENG, M, , , 20-09-02, Camden, None
+80, Nathan Butler-Oyedeji, ENG, F, , , 04-01-03, , None
+85, Mazeed Ogungbo, IRL, D, 1.88, 75, 20-10-02, , None
+86, Daniel Oyegoke, ENG, D, 1.78, 65, 03-01-03, Barnet, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Beşiktaş (On Loan)
+18, Nacho Monreal, ESP, D, 1.79, 72, 26-02-86, Pamplona, Real Sociedad
+7, Henrikh Mkhitaryan, ARM, M, 1.77, 75, 21-01-89, Yerevan, Roma (On Loan)
+32, Emile Smith Rowe, ENG, M, 1.82, 64, 28-07-00, Croydon, Huddersfield T (On Loan)
+45, Tyreece John-Jules, ENG, F, 1.83, 75, 14-02-01, Westminster, Lincoln C (On Loan)
+27, Konstantinos Mavropanos, GRE, D, 1.92, 80, 11-12-97, Athens, Nürnberg (On Loan)
+71, Stan Flaherty, ENG, M, , , 05-12-01, Hillingdon, Newcastle U
+52, James Olayinka, ENG, M, 1.76, 69, 05-10-00, Lambeth, Northampton T (On Loan)
+41, Robbie Burton, WAL, M, 1.76, 69, 26-12-99, Gravesend, Dinamo Zagreb

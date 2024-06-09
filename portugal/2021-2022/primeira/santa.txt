@@ -1,0 +1,40 @@
+=  Santa Clara - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ricardo Fernandes, POR, G, 1.93, 79, 28-10-94, Oliveira do Bairro, Académico Viseu
+3, Mikel Villanueva, VEN, D, 1.90, 78, 14-04-93, San Cristóbal, Málaga
+4, Kennedy Boateng, GHA, D, 1.91, 78, 29-11-96, -, Ried
+5, João Afonso, POR, D, 1.88, 80, 28-05-90, Castelo Branco, Vitória Guimarães
+6, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Atlético Mineiro
+7, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Estoril
+8, Anderson Carvalho, BRA, M, 1.76, 74, 20-05-90, Cubatão, FC Tosno
+10, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, Grêmio
+11, Costinha, POR, M, 1.70, 64, 25-08-92, Coimbra, Chaves
+14, Rúben Oliveira, POR, M, 1.70, 66, 14-12-94, Oliveira de Azeméis, Vitória Guimarães
+16, Paulo Henrique, POR, D, 1.82, 76, 23-10-96, Fenais da Luz, Penafiel
+17, Cristian González, URU, D, 1.84, 80, 23-07-96, Montevideo, Sevilla B
+19, Júlio Romão, BRA, M, 1.93, 88, 29-03-98, Belford Roxo, Santa Cruz
+20, Oscar Barreto, COL, M, 1.64, 68, 28-04-93, Bogotá, Sport Huancayo
+21, Nené, POR, M, 1.87, 80, 10-06-95, Graciosa, Fafe
+22, Pipe Gómez, COL, F, 1.73, 65, 11-10-99, Cartagena, Leones
+23, Crysan, BRA, F, 1.90, 82, 07-07-96, Sud Menucci, Athletico Paranaense
+25, Hidemasa Morita, JPN, M, 1.77, 74, 10-05-95, Takatsuki, Kawasaki Frontale
+27, Kyosuke Tagawa, JPN, F, 1.81, 70, 11-02-99, Kagoshima, FC Tokyo
+30, Mohammad Mohebi, IRN, F, 1.76, 72, 20-12-98, Bushehr, Sepahan
+77, Rui Costa, BRA, F, 1.79, 73, 20-02-96, Vila Nova de Famalicão, Deportivo La Coruña
+90, Patrick, BRA, M, 1.76, 65, 23-11-98, Porto Alegre, Grêmio
+95, Pierre Sagna, SEN, D, 1.83, 76, 21-08-90, Valenciennes, Panetolikos
+97, Rodolfo Cardoso, POR, G, 1.86, 82, 13-10-96, Ribeira Grande, None
+98, Ricardinho, POR, M, 1.78, 73, 06-08-98, Porto, Rio Ave
+99, Marco Pereira, POR, G, 1.83, 83, 12-01-87, Paraíso, Freamunde
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Carlos, BRA, F, 1.72, 66, 15-08-95, Santa Luz, Al-Shabab [KSA]
+15, Andrei Chindriş, ROU, D, 1.91, 83, 12-01-99, Cluj-Napoca, 
+26, Jean Patric, BRA, F, 1.75, 67, 14-05-97, Itaparica, Cerezo Osaka
+9, Mohamed Bouldini, MAR, F, 1.84, 80, 27-11-95, Casablanca, Fuenlabrada (On Loan)
+76, Hamidou Keyta, FRA, F, 1.86, 78, 17-12-94, Montivilliers, Zira FK
+29, Luiz Phellype, BRA, F, 1.88, 86, 27-09-93, São Gonçalo do Sapucaí, Sporting CP
+2, Rafael Ramos, POR, D, 1.70, 70, 09-01-95, Santa Marinha, Corinthians

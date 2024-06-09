@@ -1,0 +1,48 @@
+=  Juventus - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wojciech Szczęsny, POL, G, 1.95, 90, 18-04-90, Warsaw, Arsenal
+2, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Milan
+3, Giorgio Chiellini, ITA, D, 1.87, 86, 14-08-84, Pisa, Fiorentina
+4, Matthijs de Ligt, NED, D, 1.87, 80, 12-08-99, Leiderdorp, Ajax
+5, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Barcelona
+6, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, Manchester C
+7, Dušan Vlahović, SRB, F, 1.90, 75, 28-01-00, Belgrade, Fiorentina
+9, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Atlético Madrid
+10, Paulo Dybala, ARG, F, 1.77, 75, 15-11-93, Laguna Larga, Palermo
+11, Juan Cuadrado, COL, M, 1.79, 71, 26-05-88, Necoclí, Chelsea
+12, Alex Sandro, BRA, D, 1.81, 81, 26-01-91, Catanduva, FC Porto
+14, Weston McKennie, USA, M, 1.78, 75, 28-08-98, Little Elm, Schalke
+17, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Roma
+18, Moise Kean, ITA, F, 1.83, 67, 28-02-00, Vercelli, Everton
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Milan
+20, Federico Bernardeschi, ITA, F, 1.85, 77, 16-02-94, Carrara, Fiorentina
+21, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, Santos
+22, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, Fiorentina
+23, Carlo Pinsoglio, ITA, G, 1.94, 85, 16-03-90, Moncalieri, Vicenza
+24, Daniele Rugani, ITA, D, 1.90, 84, 29-07-94, Lucca, Empoli
+25, Adrien Rabiot, FRA, M, 1.88, 71, 03-04-95, Saint-Maurice, Paris St-Germain
+27, Manuel Locatelli, ITA, M, 1.80, 70, 08-01-98, Lecco, Sassuolo
+28, Denis Zakaria, SUI, M, 1.91, 76, 20-11-96, Kinshasa, B Mönchengladbach
+35, Franco Israel, URU, G, 1.90, 76, 22-04-00, Nueva Helvecia, Nacional [URU]
+36, Mattia Perin, ITA, G, 1.88, 85, 10-11-92, Latina, Genoa
+41, Hans Nicolussi Caviglia, ITA, M, 1.81, 71, 18-06-00, Aosta, None
+42, Zsombor Senkó, HUN, G, 1.95, 77, 01-04-03, Zalaegerszeg, Haladás
+45, Koni De Winter, BEL, D, 1.88, 74, 12-06-02, Antwerp, Zulte Waregem
+46, Matías Soulé, ARG, F, 1.76, 71, 15-04-03, Mar del Plata, Vélez Sarsfield
+47, Fabio Miretti, ITA, M, 1.79, 65, 03-08-03, Pinerolo, None
+53, Marco Raina, ITA, G, 1.90, -, 25-05-02, Cuneo, Pro Dronero
+54, Diego Stramaccioni, ITA, D, 1.90, 80, 02-01-01, Assisi, Vis Pesaro
+55, Emanuele Zuelli, ITA, M, 1.79, 70, 22-11-01, Merano, Chievo Verona
+56, Martin Palumbo, NOR, M, 1.82, 74, 05-03-02, Bergen, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Cristiano Ronaldo, POR, F, 1.87, 84, 05-02-85, Funchal, Manchester U
+34, Nicolò Fagioli, ITA, M, 1.78, 66, 12-02-01, Piacenza, Cremonese (On Loan)
+42, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, Vicenza (On Loan)
+8, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Rangers (On Loan)
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Tottenham H
+37, Radu Drăgușin, ROU, D, 1.91, 75, 03-02-02, Bucharest, Salernitana (On Loan)
+44, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, Tottenham H (On Loan)

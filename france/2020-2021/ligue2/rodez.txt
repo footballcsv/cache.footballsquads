@@ -1,0 +1,36 @@
+=  Rodez - French Ligue 2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Théo Guivarch, FRA, G, 1.95, 87, 17-11-95, Lorient, Guingamp
+2, Julien Célestine, FRA, D, 1.91, 83, 24-07-97, Grenoble, Valmiera
+4, Pierre Bardy, FRA, D, 1.82, 69, 27-08-92, Rodez, None
+5, Yohan Roche, FRA, D, 1.82, 78, 07-07-97, Lyon, Reims
+6, Remy Boissier, FRA, M, 1.81, 73, 22-02-94, Millau, Le Mans
+7, Nassim Ouammou, FRA, M, 1.80, 64, 27-04-93, Saint-Etienne, Boulogne
+8, Pierre Ruffaut, FRA, M, 1.85, 75, 17-06-87, Vichy, Moulins
+9, Malaly Dembélé, FRA, F, 1.84, 73, 17-06-97, Ivry-sur-Seine, Nancy
+10, Aurélien Tertereau, FRA, M, 1.82, 72, 24-07-91, Le Mans, Entente SSG
+11, Ugo Bonnet, FRA, F, 1.80, 70, 17-09-93, Montpellier, None
+12, Florian David, FRA, F, 1.80, 71, 16-11-92, Champigny-sur-Marne, Chambly
+13, Amiran Sanaia, GEO, D, 1.81, 74, 03-09-89, Sukhumi, Les Herbiers
+14, Loïc Poujol, FRA, M, 1.88, 86, 27-02-89, Rodez, Paris FC
+15, Pape Sané, SEN, F, 1.87, 85, 30-12-91, Dakar, Caen
+16, Lionel Mpasi, FRA, G, 1.82, 81, 01-08-94, Meaux, Toulouse
+17, Nathanaël Dieng, FRA, D, 1.80, 73, 13-04-97, Grenoble, Grenoble
+18, Jordan Leborgne, FRA, M, 1.73, 63, 29-09-95, Pointe-à-Pitre, Guingamp
+19, Alexis Peyrelade, FRA, D, 1.78, 75, 16-04-97, Le Mans, None
+20, Alan Kerouedan, FRA, F, 1.73, 66, 12-01-00, Quimper, Rennes
+21, Joris Chougrani, FRA, D, 1.85, 75, 30-03-91, Cassagnes, None
+22, David Douline, FRA, M, 1.82, 80, 28-05-93, Grenoble, Clermont
+23, Johann Obiang, GAB, D, 1.70, 64, 05-07-93, Le Blanc, Le Puy
+24, Alexis Alégué, CMR, M, 1.75, 68, 23-12-96, Yaoundé, Nantes
+25, Julien Ponceau, FRA, M, 1.70, 60, 28-11-00, Catumbela, Lorient
+26, Ayoub Ouhafsa, FRA, F, 1.78, 70, 14-11-97, Millau, Marseille
+28, Valentin Henry, FRA, D, 1.83, 73, 18-09-93, Brest, Brest
+29, Grégory Coelho, FRA, D, 1.85, 76, 02-09-99, Cahors, None
+30, Thomas Secchi, FRA, G, 1.85, 75, 19-06-97, Rodez, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Daouda Gueye, SEN, F, 1.90, 82, 22-12-95, Dakar, Sète (On Loan)

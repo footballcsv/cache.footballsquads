@@ -1,0 +1,42 @@
+=  Oviedo - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joan Femenías, ESP, G, 1.89, 79, 19-08-96, Manacor, Fuenlabrada
+2, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Zaragoza
+3, Alejandro Arribas, ESP, D, 1.82, 75, 01-05-89, Madrid, UNAM
+4, Edgar, ESP, M, 1.93, 85, 01-04-97, Sant Joan Despí, Betis
+6, Carlos Hernández, ESP, D, 1.85, 80, 15-09-90, Jaén, Lugo
+7, Diegui Johánnesson, ISL, D, 1.78, 71, 03-10-93, Villaviciosa, Oviedo B
+8, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Alcorcón
+9, Rodri, ESP, F, 1.74, 64, 06-06-90, Soria, Bristol C
+10, Borja Sánchez, ESP, M, 1.86, 80, 26-02-96, Oviedo, Real Madrid B
+12, Juanjo Nieto, ESP, D, 1.75, 73, 03-10-94, Castellón de la Plana, Hércules
+13, Gabriel Brazão, BRA, G, 1.92, 75, 05-10-00, Uberlândia, Internazionale
+14, Jimmy, ESP, M, 1.70, 70, 31-12-96, Oviedo, Oviedo B
+15, Nahuel Leiva, ESP, M, 1.75, 65, 22-10-96, Rosario, Tenerife
+16, Samuel Obeng, GHA, F, 1.83, 74, 15-05-97, Nsapor, Calahorra
+17, Viti, ESP, M, 1.70, 64, 16-09-97, Pola de Laviana, Oviedo B
+18, Christian, ESP, D, 1.82, 77, 15-10-85, Santander, Las Palmas
+20, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Nàstic
+22, Gustavo Blanco Leschuk, ARG, F, 1.91, 85, 05-11-91, Mendoza, Antalyaspor
+23, Mossa, ESP, D, 1.78, 66, 24-01-89, Valencia, Nàstic
+24, Lucas Ahijado, ESP, D, 1.78, 75, 30-01-95, Oviedo, Oviedo B
+25, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Dinamo București
+28, Javi Mier, ESP, M, 1.76, 65, 04-02-99, Oviedo, Oviedo B
+29, Javi Cueto, ESP, M, 1.70, 65, 11-01-01, Gijón, Oviedo B
+30, Jorge Mier, ESP, D, 1.75, 65, 04-02-99, Oviedo, Oviedo B
+32, Álex Cardero, ESP, M, -, -, 25-08-03, Oviedo, Oviedo B
+33, Dani Sandoval, ESP, F, 1.81, 75, 16-02-98, Gijón, Oviedo B
+34, Berto Hórreo, ESP, G, 1.91, 81, 24-06-00, Gijón, Oviedo B
+40, Guille Bernabéu, ESP, M, 1.80, 75, 13-01-01, Orihuela, Málaga B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Javi Fernández, ESP, D, 1.90, 85, 03-08-97, Cartagena, San Fernando
+22, Edu Cortina, ESP, M, 1.74, 65, 25-09-96, Oviedo, Mérida
+21, Riki, ESP, M, 1.75, 70, 25-09-97, Oviedo, Racing Santander (On Loan)
+27, Ton Ripoll, ESP, F, 1.78, 70, 27-05-98, Santpedor, Murcia
+5, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Cartagena
+11, Rafa Mújica, ESP, F, 1.83, 70, 29-10-98, Las Palmas, Leeds U
+19, Cedric Teguia, ESP, F, 1.80, 75, 01-10-01, Douala, Atlético Madrid B

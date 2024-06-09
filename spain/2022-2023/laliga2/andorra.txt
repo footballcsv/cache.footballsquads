@@ -1,0 +1,39 @@
+=  Andorra - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Ratti, ARG, G, 1.87, 81, 18-09-93, Mendoza, Sant Julià
+2, Adrià Altimira, ESP, D, 1.70, 62, 28-02-01, Cardedeu, Melilla
+3, Mika Màrmol, ESP, D, 1.81, 70, 01-07-01, Terrassa, Barcelona B
+4, Álex Pastor, ESP, D, 1.86, 79, 01-10-99, Barcelona, Sampdoria
+5, Adrià Vilanova, ESP, D, 1.87, 78, 11-02-97, Barcelona, Mallorca B
+6, Marc Aguado, ESP, M, 1.78, 67, 22-02-00, Zaragoza, Zaragoza B
+7, Hector Hevel, NED, M, 1.72, 64, 15-05-96, Voorschoten, AEK Larnaca
+9, Jacobo González, ESP, F, 1.76, 66, 25-03-97, Madrid, Sabadell
+10, Carlos Martínez, ESP, F, 1.85, 79, 27-06-86, Barcelona, Hércules
+12, Sinan Bakış, TUR, F, 1.86, 78, 22-04-94, Troisdorf, Heracles Almelo
+13, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Mirandés
+14, Sergio Molina, ESP, M, 1.77, 63, 18-02-96, Madrid, Salamanca
+15, Dani Morer, ESP, D, 1.69, 65, 05-02-98, Mataró, Famalicão
+16, Jandro Orellana, ESP, M, 1.78, 63, 07-08-00, Gavà, Barcelona B
+17, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Atlético Madrid B
+18, Mustapha Bundu, SLE, F, 1.88, 79, 28-02-97, Freetown, Anderlecht
+19, Christos Albanis, GRE, F, 1.84, 80, 05-11-94, Kalabaka, AEK
+20, Martí Vila, ESP, D, 1.66, 62, 24-05-99, Berga, Deportivo La Coruña B
+21, Rubén Bover, ESP, M, 1.70, 66, 24-06-92, Palma de Mallorca, Barnet
+22, Iván Gil, ESP, M, 1.68, 63, 18-01-00, Viladecans, Espanyol B
+23, Diego Alende, ESP, D, 1.80, 76, 24-08-97, Santiago de Compostela, Valladolid B
+24, Álex Petxarroman, ESP, D, 1.79, 67, 06-02-97, San Sebastián, Athletic Bilbao
+26, Diego Pampín, ESP, D, 1.73, 70, 15-03-00, Oleiros, Celta Vigo B
+28, Bomba, ESP, D, 1.82, 78, 23-11-05, Sant Quirze del Vallès, Gimnàstic Manresa
+30, Marc Vidal, ESP, G, 1.85, 74, 14-02-00, Villarreal, Betis B
+32, Álex Valle, ESP, D, 1.80, 80, 25-04-04, Badalona, Barcelona B
+33, He Xiaoke, CHN, F, 1.76, 70, 24-01-04, Beijing, Shandong Taishan
+34, Nicolas Olmedo, ESP, D, -, -, -, -, Gimnàstic Manresa
+35, Arnau Prat, ESP, M, -, -, -, -, Gimnàstic Manresa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Marc Fernández, ESP, M, 1.79, 70, 29-04-90, Corbera de Llobregat, Nàstic
+27, Pau Casadesús, ESP, D, 1.82, 80, 30-10-03, Vallirana, Espanyol B (On Loan)
+36, Moha Moukhliss, ESP, M, 1.69, 67, 06-02-00, Madrid, Barcelona B (On Loan)

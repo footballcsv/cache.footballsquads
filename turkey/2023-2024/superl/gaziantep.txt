@@ -1,0 +1,47 @@
+=  Gaziantep - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mustafa Burak Bozan, TUR, G, 1.90, 80, 23-08-00, Mardin, None
+3, Papy Djilobodji, SEN, D, 1.93, 82, 01-12-88, Kaolack, Guingamp
+4, Arda Kızıldağ, TUR, D, 1.87, 78, 15-10-98, Yenimahalle, Gençlerbirliği
+5, Furkan Soyalp, TUR, M, 1.84, 80, 12-06-95, Ankara, İstanbul Başakşehir
+6, Bryan Acosta, HON, M, 1.75, 68, 24-11-93, La Ceiba, Portland Timbers
+7, Aliou Badji, SEN, F, 1.89, 75, 10-10-97, Ziguinchor, Bordeaux
+8, Marko Jevtović, SRB, M, 1.92, 83, 24-07-93, Belgrade, Partizan Belgrade
+9, İlker Karakaş, TUR, F, 1.87, 78, 11-01-99, İzmit, Gençlerbirliği
+10, Max Gradel, CIV, F, 1.77, 70, 30-11-87, Abidjan, Sivasspor
+11, Mustafa Eskihellaç, TUR, M, 1.77, 67, 05-05-97, Trabzon, Yeni Malatyaspor
+12, Janio Bikel, GNB, M, 1.74, 65, 28-06-95, Bissau, FC Khimki
+13, Júnior Morais, BRA, M, 1.76, 73, 22-07-86, São Luís, Rapid București
+15, Ertuğrul Ersoy, TUR, D, 1.85, 78, 13-02-97, Gölcük, Le Havre
+18, Deian Sorescu, ROU, M, 1.75, 72, 29-08-97, Timişoara, Raków Częstochowa
+19, Batuhan Ahmet Şen, TUR, G, 1.94, 81, 03-02-99, İstanbul, Galatasaray
+22, Salem M'Bakata, FRA, D, 1.77, 72, 19-04-98, Kinshasa, Aris
+23, Jamiro Monteiro, CPV, M, 1.75, 72, 23-11-93, Rotterdam, San Jose Earthquakes
+26, Mirza Cihan, TUR, F, 1.76, 70, 26-10-00, Denizli, Galatasaray
+27, Ömürcan Artan, TUR, D, -, -, 27-07-99, Yenimahalle, Gençlerbirliği
+33, Florin Niţă, ROU, G, 1.85, 74, 03-07-87, Bucharest, Sparta Prague
+35, Ulaş Zengin, TUR, D, -, -, 25-06-97, Bornova, Altay
+44, Alexandru Maxim, ROU, M, 1.78, 70, 08-07-90, Piatra Neamţ, Mainz
+50, Lazar Marković, SRB, M, 1.75, 65, 02-03-94, Belgrade, Partizan Belgrade
+61, Ogün Özçiçek, TUR, M, 1.72, 65, 24-01-99, Zonguldak, Yeni Malatyaspor
+63, Nicolas Nkoulou, CMR, D, 1.84, 77, 27-03-90, Yaoundé, Aris
+70, Denis Drăguş, ROU, F, 1.80, 74, 06-07-99, Bucharest, Standard Liège
+71, Halil Bağcı, TUR, G, 1.97, 76, 04-04-03, Gaziantep, HJK Helsinki
+90, Onur Başyiğit, TUR, D, -, -, 12-06-04, Denizli, Fenerbahçe
+91, Bahadır Gölgeli, TUR, M, -, -, 01-07-03, Gaziantep, None
+93, Mehmet Kuzucu, TUR, F, -, -, 20-09-03, Gaziantep, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Valmir Veliu, KVX, F, 1.74, 70, 04-06-00, Podujevo, KF Llapi
+23, Abdulkerim Çakar, GER, F, 1.76, 70, 14-04-01, Germersheim, Mechtersheim
+2, Berkan Küpelikılınç, GER, D, 1.72, 69, 14-01-03, Frankfurt am Main, 
+17, Ekrem Kılıçarslan, TUR, G, 1.87, 76, 22-08-97, Çanakkale, Ankara Keçiörengücü
+94, Brayan Riascos, COL, F, 1.80, 71, 10-10-94, Buenaventura, Metalist Kharkiv
+23, Oğulcan Çağlayan, TUR, M, 1.88, 78, 22-03-96, Ankara, Kasımpaşa
+24, Naoufel Khacef, ALG, D, 1.79, 73, 27-10-97, Kouba, CR Belouizdad
+97, Albian Ajeti, SUI, F, 1.82, 75, 26-02-97, Basel, Basel
+30, Onurhan Babuscu, AUT, F, 1.72, 67, 05-09-03, Baden bei Wien, Hartberg (On Loan)
+80, Luka Stankovski, MKD, M, 1.90, 80, 02-09-02, Skopje, Tuzlaspor (On Loan)

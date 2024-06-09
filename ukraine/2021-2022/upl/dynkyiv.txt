@@ -1,0 +1,40 @@
+=  Dynamo Kyiv - Ukrainian Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heorhiy Bushchan, UKR, G, 1.96, 84, 31-05-94, Odessa, Dynamo Kyiv-2
+4, Denys Popov, UKR, D, 1.85, 81, 17-02-99, Myhiya, Dynamo Kyiv-2
+5, Serhiy Sydorchuk, UKR, M, 1.88, 76, 02-05-91, Zaporizhya, Metalurh Zaporizhya
+6, Mykyta Burda, UKR, D, 1.87, 80, 24-03-95, Yenakiieve, Dynamo Kyiv-2
+8, Volodymyr Shepelyev, UKR, M, 1.84, 73, 01-06-97, Altestovo, Chornomorets Odessa-2
+10, Mykola Shaparenko, UKR, M, 1.78, 72, 04-10-98, Velyka Novosilka, Illichivets Mariupol
+15, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Dynamo Kyiv-2
+18, Oleksandr Andriyevskyy, UKR, M, 1.72, 64, 25-06-94, Kyiv, Metalist Kharkiv-2
+19, Denys Harmash, UKR, M, 1.86, 75, 19-04-90, Luhansk, Dynamo Kyiv-2
+20, Oleksandr Karavayev, UKR, M, 1.75, 68, 02-06-92, Kherson, Zorya Luhansk
+24, Oleksandr Tymchyk, UKR, D, 1.80, 67, 20-01-97, Kryklyvets, Dynamo Kyiv-2
+25, Illya Zabarnyi, UKR, D, 1.86, 80, 01-09-02, Kyiv, Dynamo Kyiv-2
+28, Vladyslav Kulach, UKR, F, 1.77, 73, 07-05-93, Donetsk, Vorskla Poltava
+29, Vitaliy Buyalskyy, UKR, M, 1.70, 61, 06-01-93, Kalinovka, Dynamo Kyiv-2
+34, Oleksandr Syrota, UKR, D, 1.93, 78, 11-06-00, Kyiv, Dynamo Kyiv-2
+35, Ruslan Neshcheret, UKR, G, 1.90, 81, 22-01-02, Mukachevo, Dynamo Kyiv-2
+41, Artem Byesyedin, UKR, F, 1.85, 76, 31-03-96, Kharkiv, Dynamo Kyiv-2
+44, Vladyslav Dubinchak, UKR, D, 1.73, 64, 01-07-98, Tomashpil, Dynamo Kyiv-2
+51, Valentyn Morhun, UKR, G, 1.92, 88, 10-08-01, Kyiv, Dynamo Kyiv-2
+71, Denys Boyko, UKR, G, 1.91, 84, 29-01-88, Kyiv, Beşiktaş
+99, Denys Antyukh, UKR, M, 1.83, 78, 30-07-97, Okhtyrka, Kolos Kovalivka
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, PAOK (On Loan)
+16, Vitaliy Mykolenko, UKR, D, 1.80, 71, 29-05-99, Cherkasy, Everton
+17, Bohdan Lyednyev, UKR, M, 1.73, 70, 07-04-98, Skvyra, MOL Fehérvár (On Loan)
+9, Eric Ramírez, VEN, F, 1.89, 84, 20-11-98, Barinas, Sporting Gijón (On Loan)
+89, Vladyslav Supriaha, UKR, F, 1.82, 75, 15-02-00, Odessa, Sampdoria (On Loan)
+13, Artem Shabanov, UKR, D, 1.84, 74, 07-03-92, Kyiv, MOL Fehérvár
+73, Ilya Shkurin, BLR, F, 1.88, 80, 17-08-99, Vitebsk, CSKA Moscow
+7, Benjamin Verbič, SVN, M, 1.79, 70, 27-11-93, Celje, Legia Warszawa (On Loan)
+94, Tomasz Kędziora, POL, D, 1.83, 73, 11-06-94, Sulechów, Lech Poznań (On Loan)
+11, Gerson Rodrigues, LUX, F, 1.82, 81, 20-06-95, Pragal, Eyüpspor (On Loan)
+14, Carlos de Pena, URU, F, 1.77, 74, 11-03-92, Montevideo, Internacional
+22, Vitinho, BRA, F, 1.80, 67, 01-04-99, São José dos Campos, Athletico Paranaense (On Loan)

@@ -1,0 +1,51 @@
+=  Palermo - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giovanni Grotta, ITA, G, 1.96, -, 15-10-04, Palermo, None
+2, Simon Graves Jensen, DEN, D, 1.91, 80, 22-03-99, Holstebro, Randers
+3, Marco Sala, ITA, D, 1.82, 72, 04-06-99, Rho, Sassuolo
+4, Renzo Orihuela, URU, D, 1.83, 74, 04-04-01, Salto, Montevideo City Torque
+5, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Manchester C
+7, Gennaro Tutino, ITA, F, 1.77, 76, 20-08-96, Naples, Parma
+8, Jacopo Segre, ITA, M, 1.80, 76, 17-02-97, Turin, Torino
+9, Matteo Brunori, BRA, F, 1.80, 78, 01-11-94, Macaè, Juventus U23
+10, Francesco Di Mariano, ITA, F, 1.77, 68, 20-04-96, Palermo, Lecce
+11, Edoardo Masciangelo, ITA, D, 1.77, 70, 08-07-96, Rome, Benevento
+12, Samuele Massolo, ITA, G, 1.91, 76, 04-05-96, La Spezia, Fermana
+14, Jérémie Broh, FRA, M, 1.80, 73, 21-03-97, Parma, Sassuolo
+15, Ivan Marconi, ITA, D, 1.83, 79, 25-10-89, Brescia, Monza
+16, Leo Štulac, SVN, M, 1.75, 70, 26-09-94, Koper, Empoli
+18, Ionuţ Nedelcearu, ROU, D, 1.90, 79, 25-04-96, Bucharest, Crotone
+19, Luca Vido, ITA, F, 1.82, 78, 03-02-97, Bassano del Grappa, Atalanta
+21, Samuele Damiani, ITA, M, 1.78, 74, 30-01-98, Poggibonsi, Empoli
+22, Mirko Pigliacelli, ITA, G, 1.84, 78, 30-06-93, Rome, Universitatea Craiova
+25, Alessio Buttaro, ITA, D, 1.68, 62, 10-09-02, Rome, Roma
+26, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Sampdoria
+27, Edoardo Soleri, ITA, F, 1.92, 75, 19-10-97, Rome, Padova
+28, Dario Šarić, BIH, M, 1.80, 73, 30-05-97, Cento, Ascoli
+30, Nicola Valente, ITA, F, 1.70, 72, 06-10-91, Zevio, Carrarese
+31, Giuseppe Aurelio, ITA, D, 1.85, 79, 22-03-00, Bracciano, Pontedera
+37, Aleš Matějů, CZE, D, 1.84, 84, 03-06-96, Příbram, Venezia
+42, Samuele Lo Coco, ITA, F, 1.78, -, 07-03-04, Palermo, None
+47, Salvatore Di Mitri, ITA, F, -, -, 12-08-06, Palermo, None
+48, Davide Bettella, ITA, D, 1.85, 75, 07-04-00, Padua, Monza
+50, Manfredi Nespola, ITA, G, 1.89, 79, 16-02-05, Palermo, None
+77, Salvatore Elia, ITA, F, 1.83, 73, 30-06-99, Prato, Atalanta
+79, Edoardo Lancini, ITA, D, 1.85, 80, 10-04-94, Chiari, Brescia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Gregorio Luperini, ITA, M, 1.87, 76, 10-02-94, Pisa, Perugia
+31, Giacomo Corona, ITA, F, 1.95, 83, 24-02-04, Palermo, Torino (On Loan)
+10, Andrea Silipo, ITA, F, 1.70, 65, 17-04-01, Rome, Juve Stabia (On Loan)
+11, Giuseppe Fella, ITA, F, 1.77, 75, 11-08-93, Salerno, Monopoli (On Loan)
+5, Michele Somma, ITA, D, 1.82, 77, 16-03-95, Salerno, Catania
+39, Matteo Stoppa, ITA, F, 1.75, 67, 27-09-00, Biella, Sampdoria
+4, Andrea Accardi, ITA, D, 1.79, 71, 30-07-95, Palermo, Piacenza
+34, Mladen Devetak, SRB, D, 1.84, 72, 12-03-99, Novi Sad, Viterbese (On Loan)
+54, Manuel Peretti, ITA, D, 1.88, 76, 07-03-00, Verona, Recanatese (On Loan)
+6, Roberto Crivello, ITA, D, 1.80, 76, 14-09-91, Palermo, Padova (On Loan)
+7, Roberto Floriano, ITA, F, 1.71, 67, 14-08-86, Ebingen, Sangiuliano City
+2, Edoardo Pierozzi, ITA, D, 1.82, 73, 12-09-01, Florence, Fiorentina
+23, Masimiliano Doda, ALB, D, 1.80, 74, 17-11-00, Mirdite, Imolese (On Loan)

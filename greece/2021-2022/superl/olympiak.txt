@@ -1,0 +1,49 @@
+=  Olympiakos - Greek Super League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomáš Vaclík, CZE, G, 1.88, 84, 29-03-89, Ostrava, Sevilla
+2, Étienne Kinkoué, FRA, D, 1.95, 85, 14-01-02, Lyon, Internazionale
+4, Mady Camara, GUI, M, 1.82, 75, 28-02-97, Matam, Ajaccio
+5, Andreas Bouhalakis, GRE, M, 1.86, 82, 05-04-93, Heraklion, Nottingham F
+6, Yann M'Vila, FRA, M, 1.82, 80, 29-06-90, Amiens, St-Etienne
+7, Henry Onyekuru, NGA, M, 1.75, 70, 05-06-97, Onitsha, Monaco
+8, Pierre Kunde, CMR, M, 1.80, 86, 26-07-95, Limbé, Mainz
+10, Rony Lopes, POR, M, 1.74, 68, 28-12-95, Belém, Sevilla
+11, Youssef El Arabi, MAR, F, 1.83, 70, 03-02-87, Caen, Al-Duhail
+12, Algassime Bah, GUI, M, 1.82, 75, 12-11-02, -, Renaissance FC
+14, Thanasis Androutsos, GRE, M, 1.82, 75, 06-05-97, Athens, None
+15, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, Arsenal
+17, Marios Vrousai, ALB, M, 1.83, 78, 02-07-98, Nafpaktos, None
+19, Giorgos Masouras, GRE, M, 1.84, 78, 30-11-93, Amfilochia, Panionios
+20, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Nottingham F
+21, Bandiougou Fadiga, FRA, M, 1.69, 59, 15-01-01, Paris, Paris St-Germain
+22, Aguibou Camara, GUI, M, 1.67, 60, 20-05-01, Matam, Lille
+24, Ousseynou Ba, SEN, D, 1.92, 84, 11-11-95, Dakar, Gazélec Ajaccio
+25, Svetozar Marković, SRB, D, 1.84, 76, 23-03-00, Bijeljina, Partizan Belgrade
+27, Kenny Lala, FRA, D, 1.87, 83, 03-10-91, VIllepinte, Strasbourg
+28, Mathieu Valbuena, FRA, M, 1.67, 58, 28-09-84, Bordeaux, Fenerbahçe
+29, Soares, BRA, F, 1.87, 89, 17-01-91, Sousa, Tianjin Teda
+30, Apostolos Apostolopoulos, GRE, D, 1.75, 67, 11-12-02, -, Panserraikos
+31, Ögmundur Kristinsson, ISL, G, 1.92, 89, 19-06-89, Reykjavík, Larissa
+33, Michał Karbownik, POL, D, 1.81, 71, 13-03-01, Radom, Brighton & HA
+34, Avraam Papadopoulos, GRE, D, 1.86, 79, 03-12-84, Sydney, Brisbane Roar
+36, Mamadou Kané, GUI, M, 1.72, 66, 22-01-97, Conakry, Neftchi Baku
+40, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Napoli
+44, Ilias Karargyris, GRE, G, 1.85, 72, 29-06-02, Nafplio, None
+45, Oleg Reabciuk, MDA, D, 1.80, 72, 16-01-98, Ialoveni, Paços de Ferreira
+53, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Kaiserslautern
+61, Alexios Kalogeropoulos, GRE, D, 1.87, 81, 26-07-04, Andravida, Asteras Tripolis
+66, Pape Abou Cissé, SEN, D, 1.97, 83, 14-09-95, Pikine, Ajaccio
+75, Fotis Kitsos, GRE, D, 1.74, 70, 31-03-03, Athens, None
+77, Garry Rodrigues, CPV, M, 1.72, 70, 27-11-90, Rotterdam, Al-Ittihad [KSA]
+86, Abdoulaye Dabo, FRA, M, 1.81, 74, 04-03-01, Nantes, Nantes
+88, Konstantinos Tzolakis, GRE, G, 1.93, 85, 08-11-02, Chania, Platanias
+90, Vasilis Sourlis, GRE, M, 1.82, 74, 16-11-02, Athens, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Mohamed Dräger, TUN, D, 1.80, 74, 25-06-96, Freiburg im Breisgau, Nottingham F
+97, Lazar Randjelović, SRB, M, 1.78, 68, 05-08-97, Pertate, Leganés (On Loan)
+9, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Konyaspor (On Loan)
+3, Rúben Semedo, POR, D, 1.89, 84, 04-04-94, Amadora, FC Porto (On Loan)

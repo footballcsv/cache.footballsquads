@@ -1,0 +1,37 @@
+=  Viking - Norwegian Eliteserien 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Arild Østbø, NOR, G, 1.83, 70, 19-04-91, Stavanger, Rosenborg
+2, Herman Johan Haugen, NOR, D, -, -, 25-04-00, -, None
+3, Viljar Vevatne, NOR, D, 1.83, 79, 07-12-94, Stavanger, Sandnes Ulf
+4, David Brekalo, SVN, D, 1.86, 88, 03-12-98, Ljubljana, Bravo
+5, Djibril Diop, SEN, D, 1.88, 74, 06-01-99, Thiès, Hassania Agadir
+6, Gianni Stensness, NZL, M, 1.87, 82, 07-02-99, -, Central Coast Mariners
+7, Fredrik Torsteinbø, NOR, M, 1.82, 74, 13-03-91, Stavanger, Hammarby IF
+8, Markus Solbakken, NOR, M, 1.82, 70, 25-07-00, Hamar, Stabæk
+9, Kevin Kabran, SWE, F, 1.82, 82, 22-11-93, Stockholm, Start
+10, Zlatko Tripić, NOR, M, 1.82, 76, 02-12-92, Rijeka, Göztepe
+11, Yann-Erik de Lanlay, NOR, F, 1.80, 72, 14-05-92, Stavanger, Rosenborg
+12, Naatan Skyttä, FIN, M, 1.70, 69, 07-05-02, Ylöjärvi, Toulouse
+13, Magnus Rugland Ree, NOR, G, -, -, 26-04-04, -, None
+15, Niklas Sandberg, NOR, M, 1.83, 73, 18-05-95, Sandnes, Haugesund
+16, Kristoffer Løkberg, NOR, M, 1.74, 69, 22-01-92, Trondheim, Brann
+18, Sondre Bjørshol, NOR, D, 1.84, 72, 30-04-94, Stavanger, Åsane
+19, Sondre Auklend, NOR, M, 1.73, 67, 10-06-03, -, None
+20, Shayne Pattynama, NED, D, 1.80, 78, 11-08-98, Lelystad, Telstar
+21, Harald Tangen, NOR, M, 1.77, 70, 02-01-01, Stavanger, None
+22, Daniel Karlsbakk, NOR, F, 1.86, 70, 07-04-03, Kristiansand, Bryne
+23, Rolf Daniel Vikstøl, NOR, D, 1.85, 72, 22-02-89, Kristiansand, Start
+24, Maï Traoré, GUI, F, 1.85, 73, 24-11-99, Conakry, Vasalunds IF
+29, Sander Svendsen, NOR, F, 1.72, 65, 06-08-97, Molde, Odense
+30, Patrik Gunnarsson, ISL, G, 1.90, 84, 15-11-00, Kópavogur, Brentford
+34, Kristoffer Paulsen, NOR, D, 1.93, 73, 31-01-04, Stavanger, None
+35, Edvin Austbø, NOR, F, 1.72, 64, 01-05-05, Stavanger, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Sebastian Sebulonsen, NOR, D, 1.87, 78, 27-01-00, Sola, Brøndby
+14, Veton Berisha, NOR, F, 1.72, 71, 13-04-94, Egersund, Hammarby IF
+27, Samúel Fridjónsson, ISL, M, 1.86, 76, 22-02-96, Reykjanesbær, Atromitos
+26, Simen Kvia-Egeskog, NOR, F, 1.76, 73, 26-05-03, Stavanger, Skeid (On Loan)

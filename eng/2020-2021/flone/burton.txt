@@ -1,0 +1,56 @@
+=  Burton Albion - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kieran O'Hara, IRL, G, 1.91, 78, 22-04-96, Manchester, Manchester U
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+3, Colin Daniel, ENG, D, 1.80, 73, 15-02-88, Nottingham, Peterborough U
+4, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, Hearts
+5, Michael Bostwick, ENG, D, 1.93, 89, 17-05-88, Eltham, Lincoln C
+6, Kieran Wallace, ENG, D, 1.86, 75, 26-01-95, Nottingham, Matlock T
+8, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, West Ham U
+9, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Dundee
+10, Lucas Akins, ENG, F, 1.80, 73, 25-02-89, Huddersfield, Stevenage
+11, Jonny Smith, ENG, M, 1.78, 64, 27-07-97, Liverpool, Bristol C
+12, Ben Fox, ENG, M, 1.80, 76, 01-02-98, Burton upon Trent, None
+13, Josh Parker, ATG, F, 1.80, 76, 01-12-90, Slough, Wycombe W
+14, Luke Varney, ENG, F, 1.80, 70, 28-09-82, Leicester, Cheltenham T
+15, Reece Hutchinson, ENG, D, 1.77, 70, 14-04-00, Birmingham, None
+16, Josh Earl, ENG, D, 1.93, 78, 24-10-98, Southport, Preston NE
+17, Hayden Carter, ENG, D, 1.88, 67, 17-12-99, Stockport, Blackburn R
+18, Ryan Broom, WAL, M, 1.77, 80, 04-09-96, Newport, Peterborough U
+19, Jevan Anderson, SCO, D, 1.86, 78, 03-03-00, Aberdeen, Formartine U
+20, Callum Hawkins, ENG, G, 1.87, 77, 12-12-99, Rotherham, None
+21, John-Joe O'Toole, IRL, M, 1.88, 86, 30-09-88, Harrow, Northampton T
+22, Owen Gallacher, SCO, D, 1.74, 62, 06-04-99, Newcastle upon Tyne, Nottingham F
+24, Ben Garratt, ENG, G, 1.85, 66, 25-04-94, Shrewsbury, Crewe Alex
+25, Ciaran Gilligan, ENG, M, 1.80, 79, 19-01-02, Derby, None
+26, Ben Hart, ENG, D, 1.80, 66, 26-09-00, Burton upon Trent, None
+27, Tom Hewlett, ENG, F, 1.75, 70, 17-10-01, Birmingham, None
+28, Sean Clare, ENG, D, 1.90, 79, 18-09-96, Sheffield, Oxford U
+29, Tom Armitage, ENG, D, -, -, -, -, None
+30, Dillon Barnes, JAM, G, 1.93, 75, 08-04-96, Enfield Town, QPR
+31, Chris Beardsley, ENG, F, 1.83, 77, 28-02-84, Derby, Mansfield T
+32, Nick Fenton, ENG, D, 1.83, 64, 23-11-79, Preston, Alfreton T
+33, Mike Fondop, ENG, F, 1.90, 86, 27-11-93, Yaoundé, Aldershot T
+34, Charlie Williams, ENG, M, -, -, -, -, None
+35, Jakub Niemczyk, POL, F, 1.78, 75, 22-01-04, Zielona Góra, None
+36, Thierry Latty-Fairweather, ENG, D, 1.91, 80, 05-12-02, Birmingham, None
+37, Tom Hamer, ENG, D, 1.87, 80, 16-11-99, Bolton, Oldham Ath
+38, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, New England Revolution
+39, Terry Taylor, WAL, M, 1.83, 71, 29-06-01, Aberdeen, Wolverhampton W
+40, Danny Rowe, ENG, M, 1.83, 75, 09-03-92, Wythenshawe, Ipswich T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Jake Buxton, ENG, D, 1.80, 83, 04-03-85, Sutton-in-Ashfield, 
+17, Jack Roles, CYP, M, 1.76, 66, 26-02-99, Enfield, Tottenham H
+37, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Leicester C
+38, Niall Ennis, ENG, F, 1.78, 76, 20-05-99, Wolverhampton, Wolverhampton W
+28, Teddy Sharman-Lowe, ENG, G, 1.89, 73, 30-03-03, Leicester, Chelsea
+23, Neal Eardley, WAL, D, 1.80, 74, 06-11-88, Llandudno, Barrow (On Loan)
+7, Stephen Quinn, IRL, M, 1.68, 60, 04-04-86, Dublin, Mansfield T (On Loan)
+11, Steven Lawless, SCO, M, 1.70, 60, 12-04-91, Glasgow, Motherwell
+16, Indiana Vassilev, USA, M, 1.75, 72, 16-02-01, Savannah, Aston Villa
+18, Charles Vernam, ENG, F, 1.70, 74, 08-10-96, Lincoln, Bradford C
+33, Ross Atkins, ENG, G, 1.83, 83, 03-11-89, Derby, Retired

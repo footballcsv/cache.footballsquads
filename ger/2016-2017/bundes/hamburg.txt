@@ -1,0 +1,41 @@
+=  Hamburger SV - German Bundesliga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Adler, GER, G, 1.90, 85, 15-01-85, Leipzig, Bayer Leverkusen
+2, Dennis Diekmeier, GER, D, 1.88, 78, 20-10-89, Thedinghausen, Nürnberg
+5, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Arsenal
+6, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Atlético Mineiro
+7, Bobby Wood, USA, F, 1.80, 76, 15-11-92, Honolulu, Union Berlin
+8, Lewis Holtby, GER, M, 1.74, 66, 18-09-90, Erkelenz, Tottenham H
+9, Kyriakos Papadopoulos, GRE, D, 1.83, 78, 23-02-92, Katerini, Bayer Leverkusen
+10, Pierre-Michel Lasogga, GER, F, 1.89, 88, 15-12-91, Gladbeck, Hertha Berlin
+11, Michael Gregoritsch, AUT, M, 1.90, 74, 18-04-94, Graz, Bochum
+12, Walace, BRA, M, 1.78, 75, 04-04-95, Salvador, Grêmio
+13, Mërgim Mavraj, ALB, D, 1.89, 81, 09-06-86, Hanau, Köln
+14, Aaron Hunt, GER, M, 1.83, 73, 04-09-86, Goslar, Wolfsburg
+15, Luca Waldschmift, GER, F, 1.77, 70, 19-05-96, Siegen, Eintracht Frankfurt
+16, Vasilije Janičić, SUI, M, 1.80, 82, 02-11-98, Zürich, Zürich
+17, Filip Kostić, SRB, M, 1.80, 68, 01-11-92, Kragujevac, Stuttgart
+18, Bakery Jatta, GAM, M, 1.84, 79, 06-06-98, Gunjur, None
+19, Dren Feka, GER, M, 1.82, 71, 09-06-97, Bad Oldesloe, None
+20, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Cagliari
+21, Nabil Bahoui, SWE, F, 1.88, 84, 05-02-91, Stockholm, Al-Ahli [KSA]
+22, Matthias Ostrzolek, GER, D, 1.78, 71, 05-06-90, Bochum, Augsburg
+24, Gotoku Sakai, JPN, D, 1.75, 72, 14-03-91, New York, Stuttgart
+25, Mats Köhlert, GER, F, 1.64, 61, 02-05-98, Hamburg, St Pauli
+27, Nicolai Müller, GER, M, 1.75, 65, 25-09-87, Lohr am Main, Mainz
+28, Gideon Jung, GER, D, 1.89, 76, 12-09-94, Düsseldorf, RW Oberhausen
+30, Andreas Hirzel, SUI, G, 1.90, 89, 25-03-93, Schlieren, Vaduz
+31, Christian Mathenia, GER, G, 1.89, 75, 31-03-92, Mainz, Darmstadt
+32, Frank Ronstadt, GER, M, 1.79, 69, 21-07-97, Hamburg, St Pauli
+34, Finn Porath, GER, M, 1.81, 75, 23-02-97, Lübeck, Lübeck
+36, Tom Mickel, GER, G, 1.86, 78, 19-04-89, Hoyerswerda, Greuther Fürth
+37, Seo Young-Jae, KOR, D, 1.82, 75, 23-05-95, Wonju, Hanyang Univ
+39, Ashton Götz, GER, D, 1.77, 74, 16-07-93, Pirmasens, Hamm
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Santos
+4, Emir Spahić, BIH, D, 1.83, 77, 18-08-80, Dubrovnik, 
+23, Alen Halilović, CRO, M, 1.63, 55, 18-06-96, Zagreb, Las Palmas (On Loan)

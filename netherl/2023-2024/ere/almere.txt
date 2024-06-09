@@ -1,0 +1,40 @@
+=  Almere City - Dutch Eredivisie 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nordin Bakker, NED, G, 1.96, 85, 31-10-97, Oostknollendam, Beroe Stara Zagora
+2, Sherel Floranus, NED, D, 1.81, 74, 23-08-98, Rotterdam, Antalyaspor
+3, Joey Jacobs, NED, D, 1.83, 79, 10-04-00, Purmerend, AZ Alkmaar
+4, Damian van Bruggen, NED, D, 1.84, 78, 18-03-96, Utrecht, Olimpija Ljubljana
+5, Loïc Mbe Soh, FRA, D, 1.87, 86, 13-06-01, Souza Gare, Nottingham F
+6, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Amorebieta
+7, Jason van Duiven, NED, F, 1.75, 70, 24-02-05, Almelo, PSV Eindhoven
+8, Danny Post, NED, M, 1.91, 91, 07-04-89, Amsterdam, VVV Venlo
+9, Thomas Robinet, FRA, F, 1.80, 75, 18-08-96, Saint-Priest, Oostende
+11, Yann Kitala, FRA, F, 1.86, 83, 09-04-98, Paris, Le Havre
+14, Pascu, ESP, M, 1.84, 67, 02-04-00, Santa Pola, FC Dordrecht
+15, Peer Koopmeiners, NED, M, 1.86, 79, 04-05-00, Amsterdam, AZ Alkmaar
+16, Adi Nalić, BIH, F, 1.90, 83, 01-12-97, Sölvesborg, Hammarby IF
+17, Kornelius Hansen, NOR, F, 1.75, 75, 06-05-01, Larvik, Stabæk
+18, Samuel Şahin-Radlinger, AUT, G, 1.96, 83, 07-11-92, Ried im Innkreis, Austria Vienna
+19, Yoann Cathline, FRA, F, 1.76, 70, 22-07-02, Champigny-sur-Marne, Lorient
+20, Hamdi Akujobi, NED, D, 1.75, 68, 20-01-00, Rotterdam, SC Heerenveen
+21, Milan Corryn, BEL, M, 1.80, 79, 04-04-99, Aalst, Warta Poznań
+22, Théo Barbet, FRA, D, 1.84, 74, 06-03-01, Mâcon, Lokomotiva Zagreb
+24, Faïz Mattoir, COM, F, 1.64, 62, 12-07-00, Mayotte, Ajaccio
+25, Christopher Mamengi, NED, D, 1.78, 78, 03-04-01, Amersfoort, FC Utrecht
+26, Stijn Keller, SUI, G, 1.95, 85, 10-04-00, Blaricum, None
+27, Rajiv van La Parra, NED, M, 1.81, 72, 04-06-91, Rotterdam, Apollon Smyrnis
+28, Stije Resink, NED, M, 1.79, 74, 28-05-03, Amsterdam, None
+36, Marcelencio Esajas, NED, M, 1.74, 66, 10-06-05, Amsterdam, None
+39, Jochem Ritmeester van de Kamp, NED, M, -, -, 02-11-03, Laren, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Jeredy Hilterman, SUR, F, 1.86, 84, 20-06-98, Haarlem, Willem II (On Loan)
+11, Thomas Robinet, FRA, F, 1.80, 75, 18-08-96, Saint-Priest, Re-Registered (9)
+5, Thomas Poll, NED, D, 1.84, 79, 28-08-01, Amsterdam, SC Cambuur (On Loan)
+7, Anthony Limbombe, BEL, F, 1.75, 72, 15-07-94, Mechelen, Beveren
+23, Manel Royo, ESP, D, 1.83, 77, 28-02-94, Alcanar, NAC Breda
+10, Lance Duijvestijn, NED, M, 1.83, 75, 15-01-99, Wateringen, Excelsior
+29, Bradly van Hoeven, NED, F, 1.74, 61, 17-04-00, Maassluis, FC Emmen (On Loan)

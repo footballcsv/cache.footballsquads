@@ -1,0 +1,51 @@
+=  Lamia - Greek Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thanassis Garavelis, GRE, G, 1.90, 83, 06-08-92, Kozani, Volos
+3, Giorgos Saramantas, GRE, D, 1.76, 69, 29-01-92, Pyrgos, Panionios
+4, Daniel Adejo, NGA, D, 1.83, 80, 07-08-89, Kachia, Kerkyra
+5, Adam Tzanetopoulos, GRE, D, 1.93, 85, 10-02-95, Volos, Apollon Smyrnis
+6, Theofanis Tzandaris, GRE, M, 1.80, 80, 13-06-93, Sochos, Spartak Trnava
+7, Cristopher Núñez, CRC, M, 1.71, 68, 08-12-97, Cartago, Cartaginés
+8, Zoran Tošić, SRB, M, 1.71, 69, 28-04-87, Zrenjanin, Tobol Kostanay
+9, Giorgos Manousos, GRE, F, 1.78, 73, 03-12-87, Mytilene, Atromitos
+10, Tomás De Vincenti, ARG, M, 1.74, 72, 09-02-89, Capital Federal, APOEL
+11, Anastasios Karamanos, GRE, F, 1.81, 70, 21-09-90, Athens, Olympiakos
+12, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, Wolfsberger AC
+14, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Apollon Smyrnis
+15, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Cartagena
+16, Danny Bejarano, BOL, M, 1.82, 74, 03-01-94, Santa Cruz de la Sierra, Oriente Petrolero
+18, Rubén Martínez, ESP, M, 1.67, 60, 08-12-89, Mahón, Albacete
+21, Nikolaos Tropoulos, GRE, G, 1.80, 78, 21-06-04, -, None
+22, Aleksandr Pavlovets, BLR, D, 1.88, 82, 13-08-96, Barysaw, FC Orenburg
+23, Sotiris Tsiloulis, GRE, M, 1.85, 76, 14-02-95, Larissa, Apollon Smyrnis
+25, Theodoros Vassilakakis, GRE, M, 1.85, 68, 20-07-88, Thessaloniki, Chania
+27, Caleb Stanko, USA, M, 1.80, 70, 26-07-93, Holly, Asteras Tripolis
+28, Konstantinos Lampropoulos, GRE, D, 1.90, 75, 21-04-03, -, None
+29, Stefan Ashkovski, MKD, M, 1.79, 63, 24-02-92, Skopje, Sepsi Sfântu Gheorghe
+30, Vasilis Kontonikos, GRE, F, -, -, 11-10-05, -, None
+31, Bojan Šaranov, SRB, G, 1.88, 83, 22-09-87, Belgrade, Fatih Karagümrük
+33, Giorgos Kornezos, GRE, D, 1.91, 85, 23-02-98, Athens, AEK
+45, Nikos Tsoukalos, GRE, F, 1.83, 77, 23-03-92, Lamia, Anagennisi Karditsa
+50, Lazar Romanić, SRB, F, 1.80, 68, 25-03-98, Kragujevac, Crvena Zvezda
+55, Alexei Koșelev, MDA, G, 2.00, 90, 19-11-93, Chișinău, Júbilo Iwata
+71, Giannis Nikopolidis, GRE, G, 1.88, 81, 08-12-00, Athens, New York Red Bulls
+74, Kyriakos Papadopoulos, GRE, D, 1.83, 78, 23-02-92, Katerini, FC U Craiova
+77, Stavros Vasilantonopoulos, GRE, D, 1.78, 62, 28-01-92, Egio, Atromitos
+95, Jeison Medina, COL, F, 1.80, 74, 27-02-95, Itagüí, Deportivo Pasto
+99, Leroy Abanda Mfomo, FRA, D, 1.78, 71, 07-06-00, Le Blanc-Mesnil, RFC Seraing
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Vassilis Troumpoulos, GRE, M, 1.94, 74, 23-12-03, Lamia, AEK
+88, Panagiotis Anagnostopoulos, GRE, M, 1.73, 65, 16-05-03, -, Aris Avato
+19, Gustavo Marmentini, BRA, M, 1.79, 71, 08-03-94, Cascavel, Maccabi Bnei Reineh (On Loan)
+2, Konstantinos Provydakis, GRE, D, 1.75, 70, 21-05-96, Heraklion, Kifisias (On Loan)
+34, Athanasios Margaritis, GRE, M, 1.75, 68, 17-03-97, -, Olympiakos Volou (On Loan)
+26, Oliver Benítez, ARG, D, 1.85, 76, 07-06-91, Puerto Iguazú, All Boys
+8, Petros Giakoumakis, GRE, F, 1.75, 70, 03-07-92, Heraklion, Olympiakos Nicosia (On Loan)
+22, Richmond Boakye, GHA, F, 1.85, 80, 28-01-93, Accra, Al-Akhdar
+20, Paris Babis, GRE, M, 1.72, 68, 17-07-99, Athens, Kallithea
+17, Ivan Goranov, BUL, D, 1.78, 74, 10-06-92, Velingrad, Universitatea Cluj
+13, Savvas Gentsoglou, GRE, M, 1.85, 75, 19-09-00, Alexandroupoli, Makedonikos

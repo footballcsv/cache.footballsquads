@@ -1,0 +1,38 @@
+=  TSV Hartberg - Austrian Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Swete, AUT, G, 1.86, 79, 01-06-90, Vienna, Grödig
+4, Michael Huber, AUT, D, 1.87, 85, 14-01-90, Oberwart, SKN St. Pölten
+5, Florian Sittsam, AUT, M, 1.86, 75, 14-12-94, , Mattersberg
+7, Siegfried Rasswalder, AUT, D, 1.75, 67, 13-05-87, , Austria Klagenfurt
+8, Christoph Kröpfl, AUT, M, 1.70, 70, 04-05-90, Graz, Ritzing
+9, Rajko Rep, SVN, M, 1.77, 73, 20-06-90, Rogatec, LASK Linz
+11, Meris Skenderović, GER, F, 1.82, 73, 28-03-98, Mannheim, 1899 Hoffenheim
+12, Fabian Schubert, AUT, F, 1.94, 79, 29-08-94, Eisenkappel-Vellach, Sturm Graz
+14, Florian Flecker, AUT, M, 1.73, 68, 29-10-95, Voitsberg, Wolfsberger AC
+15, Marcel Schantl, AUT, M, 1.76, 70, 17-08-00, , None
+16, Christian Ilić, CRO, D, 1.78, 73, 22-07-96, Friesach, Weiz
+17, Manuel Pfeifer, AUT, D, 1.85, 79, 10-09-99, Hartberg, Sturm Graz
+18, David Cancola, AUT, M, 1.83, 73, 23-10-96, , Austria Vienna
+19, Michael Blauensteiner, AUT, D, 1.80, 69, 11-02-95, Vienna, Austria Vienna
+20, Sebastian Mann, AUT, M, 1.74, 71, 06-01-97, , Sturm Graz
+21, Florian Faist, AUT, G, 1.84, 82, 10-04-89, Hartberg, Anger
+22, Philipp Siegl, AUT, M, 1.85, 74, 16-12-93, , Lafnitz
+23, Tobias Kainz, AUT, D, 1.74, 68, 31-10-92, Feldbach, Kapfenberg
+24, Dario Tadić, AUT, F, 1.77, 77, 11-05-90, Odžak, Austria Lustenau
+25, Krešimir Kovačević, CRO, F, 1.90, 74, 07-08-94, Treuchtlingen, Bad Tatzmannsdorf
+26, Mohamed Camara, MLI, M, 1.75, 68, 06-01-00, , FC Liefering
+27, Zakaria Sanogo, BFA, F, 1.69, 65, 11-12-96, Bobo-Dioulasso, FC Rahimo
+28, Jürgen Heil, AUT, M, 1.76, 70, 04-04-97, , Anger
+29, Peter Tschernegg, AUT, M, 1.81, 76, 23-07-92, Deutschlandsberg, St. Gallen
+31, Thomas Rotter, AUT, D, 1.88, 79, 27-01-92, , None
+35, Raphael Sallinger, AUT, G, 1.97, 84, 08-12-95, Klagenfurt, Wolfsberger AC
+45, Reuben Acquah, GHA, M, 1.82, 78, 03-11-96, Accra, LASK Linz
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Ivan Ljubić, AUT, M, 1.84, 75, 07-07-96, , Sturm Graz
+26, Youba Diarra, MLI, M, 1.78, 73, 24-03-98, , Red Bull Salzburg
+11, Marcel Holzer, AUT, F, 1.86, 77, 06-10-98, , SKU Amstetten (On Loan)
+18, Daniel Geissler, AUT, M, 1.71, 71, 30-04-94, Feldbach, Grazer AK (On Loan)

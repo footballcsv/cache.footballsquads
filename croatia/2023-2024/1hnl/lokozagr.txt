@@ -1,0 +1,49 @@
+=  Lokomotiva Zagreb - Croatian 1.HNL 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nikola Čavlina, CRO, G, 1.91, 82, 02-06-02, Zagreb, Dinamo Zagreb
+3, Matej Matić, CRO, D, -, -, 05-06-04, Zagreb, None
+4, Marin Leovac, AUT, D, 1.79, 69, 07-08-88, Jajce, Osijek
+5, Jon Mersinaj, ALB, D, 1.83, 75, 08-02-99, Tirana, Shkëndija
+7, Silvio Goričan, CRO, F, 1.76, 74, 27-02-00, Zabok, None
+8, Robert Mudražija, CRO, M, 1.77, 73, 05-05-97, Zagreb, Slaven Belupo
+9, Duje Čop, CRO, F, 1.82, 71, 01-02-90, Split, Dinamo Zagreb
+10, Fabijan Krivak, CRO, M, 1.82, 70, 24-02-05, Zabok, None
+11, Anes Huskić, CRO, M, -, -, 05-03-07, Zagreb, Dinamo Zagreb
+12, Krunoslav Hendija, CRO, G, 1.94, 91, 19-03-89, Zagreb, Rudeš
+13, Blaž Bošković, BIH, M, -, -, 15-12-01, Mostar, Zrinjski Mostar
+14, Mateo Marić, BIH, M, 1.78, 74, 18-03-98, Mostar, Široki Brijeg
+15, Art Smakaj, KVX, M, 1.80, 70, 04-02-03, Zagreb, None
+16, Lirim Kastrati, KVX, F, 1.76, 63, 16-01-99, Ogošte, Fehérvár
+17, Dashmir Elezi, MKD, F, 1.74, 70, 21-11-04, Tetovo, Shkëndija
+18, Antonio Baždarić, SVN, M, -, -, 08-01-06, Ljubljana, None
+19, Marin Šotiček, CRO, M, -, -, 18-09-04, Novo Mesto, None
+20, Branimir Kalaica, CRO, D, 1.95, 89, 01-06-98, Zagreb, Benfica
+21, Viktor Kanižaj, CRO, F, -, -, 02-02-03, Čakovec, Dinamo Zagreb
+22, Karlo Bartolec, CRO, D, 1.76, 78, 20-04-95, Zagreb, Puskás Akadémia
+23, Feta Fetai, MKD, M, 1.72, 60, 11-05-05, Skopje, Rabotnički
+24, Balša Tošković, MNE, M, -, -, 10-04-03, -, Jezero
+25, Bartol Kardum, CRO, F, -, -, 18-07-06, Zagreb, None
+26, Fran Žilinski, CRO, D, 1.70, 70, 04-04-03, Zagreb, Zagreb
+27, Marko Vranjković, CRO, D, 1.85, 71, 05-02-99, Zagreb, Sesvete
+28, Ivan Canjuga, CRO, M, -, -, 30-11-05, Varaždin, Varaždin
+29, Vladan Bubanja, MNE, D, 1.94, 86, 21-02-99, Nikšić, Sutjeska Nikšić
+30, Ivan Kukavica, CRO, D, 1.80, 70, 02-02-04, Split, None
+31, Zvonimir Šubarić, CRO, G, 1.87, 79, 25-05-97, Vinkovci, Hrvatski Dragovoljac
+32, Luka Savatović, CRO, G, -, -, 06-07-04, Zagreb, Jarun
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Luka Stojković, CRO, M, 1.82, 74, 28-10-03, Zagreb, Dinamo Zagreb
+11, Lukas Kačavenda, CRO, M, 1.74, 64, 02-03-03, Zagreb, Dinamo Zagreb (On Loan)
+22, Silvio Goričan, CRO, F, 1.76, 74, 27-02-00, Zabok, Re-Registered (7)
+10, Indrit Tuci, ALB, F, 1.91, 80, 14-09-00, Lezhë, Sparta Prague
+25, Ivan Bulatović, MNE, F, 1.90, 80, 16-02-96, Mojkovac, Lokomotiv Tashkent
+17, Ivan Milićević, BIH, D, 1.83, 76, 16-07-98, Split, Kifisia
+24, Anes Krdžalić, BIH, M, 1.80, 70, 28-08-04, Doboj, Dinamo Zagreb
+18, Eldar Mehmedović, BIH, M, 1.78, 74, 10-04-03, Tuzla, Sarajevo
+30, Harun Karić, BIH, M, -, -, 30-11-02, Tuzla, Željezničar
+2, Moreno Živković, CRO, D, 1.84, 78, 22-05-04, Zagreb, Dinamo Zagreb
+6, Ilija Mašić, BIH, D, 1.93, 78, 08-04-99, Tomislavgrad, Široki Brijeg
+16, Fabijan Krivak, CRO, M, 1.82, 70, 24-02-05, Zabok, Re-Registered (10)

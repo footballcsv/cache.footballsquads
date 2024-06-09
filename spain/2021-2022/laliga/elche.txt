@@ -1,0 +1,46 @@
+=  Elche - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francisco Casilla, ESP, G, 1.90, 86, 02-10-86, Alcover, Leeds U
+2, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Girona
+3, Enzo Roco, CHI, D, 1.88, 82, 16-08-92, Santiago, Fatih Karagümrük
+4, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Málaga
+5, Gonzalo Verdú, ESP, D, 1.85, 80, 21-10-88, Cartagena, Cartagena
+6, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Eibar
+7, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Southampton
+8, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza
+9, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Torino
+10, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Eibar
+11, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Málaga
+12, Lucas Olaza, URU, D, 1.77, 75, 21-07-94, Montevideo, Valladolid
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Reus
+14, Helibelton Palacios, COL, D, 1.77, 75, 11-06-93, Santander de Quilichao, Atlético Nacional
+15, Javier Pastore, ARG, M, 1.87, 78, 20-06-89, Córdoba, Roma
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Las Palmas
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+18, Ezequiel Ponce, ARG, F, 1.76, 72, 29-03-97, Rosario, Spartak Moscow
+19, Antonio Barragán, ESP, D, 1.87, 83, 12-06-87, Pontedeume, Betis
+20, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Toronto FC
+21, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Schalke
+22, Johan Mojica, COL, D, 1.85, 66, 21-08-92, Cali, Girona
+23, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, Boca Juniors
+24, Kike Pérez, ESP, M, 1.84, 80, 14-02-97, Gálvez, Valladolid
+26, John Chetauya, ESP, M, 1.85, 67, 25-09-00, Murcia, Villarreal C
+27, Carles Marco, ESP, D, -, -, 05-04-00, -, Mirandés B
+28, Lluis Andreu, ESP, G, 1.89, 77, 27-07-99, Barcelona, Zamora
+29, Diego Bri, ESP, F, -, -, 12-09-02, Elche, Elche B
+30, Sergio Bono, ESP, D, 1.88, 74, 24-07-00, Alzira, Alzira
+31, Lilian de Palmas, ESP, D, -, -, 02-02-02, -, Elche B
+32, Cheikh Diamanka, ESP, F, -, -, 20-01-01, -, Elche B
+33, Jony Álamo, ESP, M, 1.75, 65, 25-09-01, La Unión, Elche B
+34, José Luis Friaza, ESP, F, -, -, 15-02-02, -, Elche B
+35, Jesús López, ESP, G, -, -, 01-08-02, -, Elche B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, César, ESP, M, 1.83, 71, 23-04-01, Cartagena, Hércules
+18, Darío Benedetto, ARG, F, 1.75, 75, 10-01-86, Berazategui, Marseille
+24, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Valladolid (On Loan)
+12, Lucas Pérez, ESP, F, 1.80, 82, 10-09-88, La Coruña, Cádiz
+25, Axel Werner, ARG, G, 1.92, 85, 28-02-96, Rafaela, Arsenal [ARG] (On Loan)

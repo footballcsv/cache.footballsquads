@@ -1,0 +1,49 @@
+=  Empoli - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samuele Perisan, ITA, G, 1.93, 86, 21-08-97, San Vito al Tagliamento, Pordenone
+3, Liberato Cacace, NZL, D, 1.70, 66, 27-09-00, Wellington, Sint-Truiden
+4, Sebastian Walukiewicz, POL, D, 1.88, 85, 05-04-00, Gorzów Wielkopolski, Cagliari
+5, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Parma
+6, Koni De Winter, BEL, D, 1.88, 74, 12-06-02, Antwerp, Juventus
+8, Liam Henderson, SCO, M, 1.83, 67, 25-04-96, Livingston, Lecce
+9, Martín Satriano, URU, F, 1.84, 75, 20-02-01, Montevideo, Internazionale
+11, Jean-Daniel Akpa Akpro, CIV, M, 1.80, 68, 11-10-92, Toulouse, Lazio
+13, Guglielmo Vicario, ITA, G, 1.88, 83, 07-10-96, Udine, Cagliari
+14, Marko Pjaca, CRO, F, 1.86, 83, 06-05-95, Zagreb, Juventus
+18, Răzvan Marin, ROU, M, 1.78, 75, 23-05-96, Bucharest, Cagliari
+19, Francesco Caputo, ITA, F, 1.81, 77, 06-08-87, Altamura, Sampdoria
+20, Duccio Degli Innocenti, ITA, M, 1.80, 80, 28-04-03, Montevarchi, None
+21, Jacopo Fazzini, ITA, M, 1.78, 62, 16-03-03, Massa, Capezzano Pianore
+22, Samir Ujkani, KVX, G, 1.86, 78, 05-07-88, Resnik, Torino
+23, Mattia Destro, ITA, F, 1.82, 80, 20-03-91, Ascoli Piceno, Genoa
+24, Tyronne Ebuehi, NGA, D, 1.87, 76, 16-12-95, Haarlem, Benfica
+25, Filippo Bandinelli, ITA, M, 1.80, 70, 29-03-95, Florence, Sassuolo
+26, Lorenzo Tonelli, ITA, D, 1.83, 78, 17-01-90, Florence, Sampdoria
+27, Alessandro Renzi, ITA, M, -, -, 27-03-04, Montevarchi, None
+28, Nicolò Cambiaghi, ITA, F, 1.73, 65, 28-12-00, Monza, Atalanta
+30, Petar Stojanović, SVN, D, 1.78, 72, 07-10-95, Ljubljana, Dinamo Zagreb
+31, Gian Marco Fantoni, ITA, G, -, -, 24-01-04, Bagno a Ripoli, None
+32, Nicolas Haas, SUI, M, 1.81, 74, 23-01-96, Sursee, Atalanta
+33, Sebastiano Luperto, ITA, D, 1.91, 75, 06-09-96, Lecce, Napoli
+34, Ardian Ismajli, ALB, D, 1.85, 80, 30-09-96, Majac, Spezia
+35, Tommaso Baldanzi, ITA, M, 1.70, 68, 23-03-03, Poggibonsi, None
+36, Gabriele Guarino, ITA, D, 1.93, 86, 14-04-04, Molfetta, Bari
+37, Jacopo Seghetti, ITA, G, 1.80, -, 17-02-05, San Miniato, None
+38, Gabriele Indragoli, ITA, D, 1.88, 77, 20-02-04, Camaiore, None
+39, Samuele Angori, ITA, D, 1.84, 77, 07-10-03, Cortona, Perugia
+40, Lovro Štubljar, SVN, G, 1.92, 84, 09-08-04, Novo Mesto, Domžale
+55, Emanuel Vignato, BRA, F, 1.75, 67, 24-08-00, Negrar, Bologna
+65, Fabiano Parisi, ITA, D, 1.78, 70, 09-11-00, Solofra, Avellino
+87, Herculano Nabian, POR, F, 1.82, 81, 25-01-04, Bissau, Vitória Guimarães
+91, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Leo Štulac, SVN, M, 1.75, 70, 26-09-94, Koper, Palermo (On Loan)
+7, Sam Lammers, NED, F, 1.91, 77, 30-04-97, Tilburg, Atalanta
+15, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Cittadella (On Loan)
+10, Nedim Bajrami, SUI, M, 1.83, 68, 28-02-99, Zürich, Sassuolo (On Loan)
+17, Emmanuel Ekong, SWE, F, 1.76, 74, 25-06-02, Reggio Emilia, Perugia (On Loan)
+68, Davide Merola, ITA, F, 1.76, 72, 27-03-00, Santa Maria Capua Vetere, Pescara (On Loan)

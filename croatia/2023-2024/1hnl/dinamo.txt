@@ -1,0 +1,57 @@
+=  Dinamo Zagreb - Croatian 1.HNL 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danijel Zagorac, CRO, G, 1.86, 80, 07-02-87, Drniš, Lokomotiva Zagreb
+2, Sadegh Moharrami, IRN, D, 1.74, 71, 01-03-96, Hashtpar, Persepolis
+3, Takuya Ogiwara, JPN, D, 1.75, 69, 23-11-99, Saitama, Urawa Red Diamonds
+4, Boško Šutalo, CRO, D, 1.88, 72, 01-01-00, Metković, Atalanta
+5, Arijan Ademi, MKD, M, 1.85, 79, 29-05-91, Šibenik, Beijing Guoan
+6, Maxime Bernauer, FRA, D, 1.86, 77, 01-07-98, Hennebont, Paris FC
+7, Luka Stojković, CRO, M, 1.82, 74, 28-10-03, Zagreb, Lokomotiva Zagreb
+8, Lukas Kačavenda, CRO, M, 1.74, 64, 02-03-03, Zagreb, Lokomotiva Zagreb
+9, Bruno Petković, CRO, F, 1.93, 90, 16-09-94, Metković, Bologna
+10, Martin Baturina, CRO, M, 1.72, 68, 16-02-03, Split, None
+11, Mahir Emreli, AZE, F, 1.88, 75, 01-07-97, Baku, Legia Warszawa
+14, Marko Rog, CRO, M, 1.80, 74, 19-07-95, Varaždin, Cagliari
+15, Moreno Živković, CRO, D, 1.84, 78, 22-05-04, Zagreb, None
+17, Sandro Kulenović, CRO, F, 1.88, 76, 04-12-99, Zagreb, Legia Warszawa
+18, Ronaël Pierre-Gabriel, FRA, D, 1.77, 76, 13-08-98, Paris, Nantes
+19, Fran Brodić, CRO, F, 1.80, 77, 08-01-97, Zagreb, Varaždin
+20, Arbër Hoxha, KVX, F, 1.85, 77, 06-10-98, Heidelberg, Slaven Belupo
+22, Stefan Ristovski, MKD, D, 1.81, 73, 12-02-92, Skopje, Sporting CP
+23, Tibor Halilović, CRO, M, 1.76, 70, 18-03-95, Zagreb, SC Heerenveen
+25, Petar Sučić, BIH, M, -, -, 25-10-03, Livno, Zrinjski Mostar
+27, Josip Mišić, CRO, M, 1.87, 75, 28-06-94, Vinkovci, Sporting CP
+28, Kévin Theophile-Catherine, FRA, D, 1.80, 77, 28-10-89, Saint Brieuc, St-Etienne
+30, Takuro Kaneko, JPN, M, 1.78, 68, 30-07-97, Saitama, Hokkaido Consadole Sapporo
+31, Marko Bulat, CRO, M, 1.79, 68, 26-09-01, Šibenik, Šibenik
+32, Faris Krkalić, BIH, G, 1.86, 73, 15-06-02, Sarajevo, Sarajevo
+33, Ivan Nevistić, CRO, G, 1.95, 85, 31-07-98, Djakovo, Rijeka
+35, Ivan Cvetko, CRO, D, -, -, 23-11-05, Zagreb, None
+36, Noa Mikić, CRO, D, 1.75, 70, 27-01-07, Varaždin, None
+39, Mauro Perković, CRO, D, 1.85, 73, 22-03-03, Pula, Istra 1961
+55, Dino Perić, CRO, D, 1.95, 78, 12-07-94, Osijek, Lokomotiva Zagreb
+72, Gabriel Vidović, CRO, M, 1.80, 75, 01-12-03, Augsburg, Bayern Munich
+77, Dario Špikić, CRO, F, 1.83, 79, 22-03-99, Zagreb, HNK Gorica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Petar Bočkaj, CRO, F, 1.80, 76, 23-07-96, Zagreb, Pafos (On Loan)
+37, Josip Šutalo, CRO, D, 1.90, 82, 28-02-00, Čapljina, Ajax
+7, Luka Ivanušec, CRO, M, 1.75, 76, 26-11-98, Varaždin, Feyenoord
+40, Dominik Livaković, CRO, G, 1.88, 82, 09-01-95, Zadar, Fenerbahçe
+17, Fran Topić, CRO, F, -, -, 20-03-04, Zagreb, Rudeš (On Loan)
+42, Luka Lukanić, CRO, M, -, -, 03-05-04, Zagreb, Zrinjski Mostar (On Loan)
+66, Bartol Barišić, CRO, F, 1.87, 77, 01-01-03, Zagreb, DAC Dunajská Streda (On Loan)
+3, Joaquín Sosa, URU, D, 1.89, 82, 10-01-02, Fray Bentos, Bologna
+8, Anes Krdžalić, BIH, M, 1.80, 70, 28-08-04, Doboj, Sarajevo
+70, Luka Menalo, BIH, F, 1.81, 73, 22-07-96, Split, Celje (On Loan)
+20, Antonio Marin, CRO, M, 1.82, 78, 09-01-01, Zagreb, Olimpia Ljubljana
+15, Bohdan Mykhaylychenko, UKR, M, 1.75, 70, 21-03-97, Boryspil, Polissya Zhytomyr
+97, Deni Jurić, AUS, F, 1.88, 75, 03-09-97, Kogarah, Koper (On Loan)
+14, Robert Ljubičić, AUT, M, 1.78, 76, 14-07-99, Vienna, AEK
+41, Gabriel Rukavina, CRO, F, 1.80, 75, 16-01-04, Zagreb, HNK Gorica
+13, Stefan Ristovski, MKD, D, 1.81, 73, 12-02-92, Skopje, Re-Registered (22)
+18, Josip Drmić, SUI, F, 1.82, 70, 08-08-92, Lachen, De-Registered
+36, Luka Vrbančić, CRO, M, -, -, 04-07-05, Zagreb, De-Registered

@@ -1,0 +1,38 @@
+=  PAS Giannina - Greek Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Manolis Saliakas, GRE, D, 1.75, 72, 12-09-96, Heraklion, Lamia
+4, Epaminondas Pantelakis, GRE, D, 1.87, 83, 10-02-95, Chania, Panathinaikos
+6, Giannis Kargas, GRE, D, 1.86, 78, 09-12-94, Kilkis, Levski Sofia
+7, Alexandros Kartalis, GRE, D, 1.78, 66, 29-01-95, Nuremberg, Zwickau
+8, Fabricio Brener, ARG, M, 1.70, 69, 26-05-98, Córdoba, Belgrano (Córdoba)
+9, Christos Eleftheriadis, GRE, M, 1.78, 75, 30-09-91, Kavala, Panachaiki
+10, Juan Domínguez, ESP, M, 1.81, 71, 08-01-90, Pontedeume, Sturm Graz
+11, Giorgos Doumtsis, GRE, F, 1.80, 71, 04-03-00, Florina, PAOK
+12, Sandi Križman, CRO, F, 1.78, 76, 17-08-89, Pula, Larissa
+13, Yuri Lodigin, RUS, G, 1.85, 82, 26-05-90, Vladimir, Arsenal Tula
+14, Giorgos Pamlidis, GRE, F, 1.79, 70, 13-11-93, Katerini, Kerkyra
+15, Rodrigo Erramuspe, ARG, D, 1.77, 72, 03-05-90, Mar del Plata, Belgrano (Córdoba)
+17, Vladyslav Naumets, UKR, F, 1.70, 63, 07-03-99, Luhansk, Dynamo Kyiv-2
+19, Alexandros Lolis, GRE, M, 1.80, 68, 05-09-02, Igoumenitsa, None
+20, Nicolae Milinceanu, MDA, F, 1.89, 81, 01-08-92, Chișinău, Vaduz
+21, Fabry Castro, COL, M, 1.82, 74, 21-02-92, Santa Bárbara, Servette
+22, Stefanos Siontis, GRE, D, 1.79, 73, 04-09-87, Ioannina, Kerkyra
+23, Stavros Pilios, GRE, F, -, -, 10-12-00, Ioannina, None
+24, Antonis Oikonomopoulos, GRE, D, 1.79, 68, 09-05-98, Athens, Apollon Smyrnis
+25, Pantelis Panourgias, GRE, D, 1.90, 85, 13-04-98, Athens, PEC Zwolle
+28, Giorgos Xydas, GRE, F, 1.75, 69, 14-04-97, Chios, Olympiakos
+29, Jean-Baptiste Léo, FRA, F, 1.92, 80, 03-05-96, Lyon, Kissamikos
+30, Alexis Triadis, GRE, M, 1.85, 72, 16-05-97, Herdecke, UCLA
+33, Lefteris Choutesiotis, GRE, G, 1.92, 85, 20-07-94, Makrychori, Olympiakos
+43, Marvin Peersman, NED, D, 1.84, 78, 10-02-91, Wilrijk, Hapoel Tel Aviv
+47, Pavlos Grosdanis, GRE, M, -, -, 03-04-02, Florina, None
+80, Angelos Liasos, GRE, M, 1.85, 75, 26-05-00, Florina, None
+99, Vasilis Athanasiou, GRE, G, 1.88, 77, 24-07-99, Aigio, Mantova
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Giorgos Gogos, GRE, D, 1.93, 90, 11-07-01, Ioannina, 
+92, Maksim Natynchik, BLR, F, 1.80, 72, 29-01-02, Pinsk, 
+1, Serafim Giannikoglou, GRE, G, 1.89, 85, 25-03-93, Kavala, Sūduva

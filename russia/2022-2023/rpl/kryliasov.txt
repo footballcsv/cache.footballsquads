@@ -1,0 +1,40 @@
+=  Krylia Sovetov - Russian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Lomayev, RUS, G, 1.90, 83, 21-01-99, Kemerovo, Chertanovo Moscow
+4, Aleksandr Soldatenkov, RUS, D, 1.89, 74, 28-12-96, Moscow, Chertanovo Moscow
+5, Yuri Gorshkov, RUS, D, 1.74, 70, 13-03-99, Kondopoga, Chertanovo Moscow
+6, Sergey Babkin, RUS, M, 1.76, 62, 25-09-02, Volgograd, Lokomotiv Moscow
+7, Dmitri Tsypchenko, RUS, F, 1.84, 77, 29-06-99, Voronezh, Chertanovo Moscow
+8, Maksim Vityugov, RUS, M, 1.79, 71, 01-02-98, Krasnoyarsk, Chertanovo Moscow
+9, Vladimir Pisarsky, RUS, F, 1.88, 68, 27-02-96, Simferopol, FC Orenburg
+10, Denis Yakuba, RUS, M, 1.68, 67, 26-05-96, Sotnikovskoye, Rotor Volgograd
+11, Roman Yezhov, RUS, F, 1.81, 72, 02-09-97, Nizhnekamsk, Chertanovo Moscow
+14, Aleksandr Kovalenko, RUS, M, 1.77, 67, 08-08-03, -, Chertanovo Moscow
+15, Nikolay Rasskazov, RUS, D, 1.80, 73, 04-01-98, Yefremov, Spartak Moscow
+19, Nikita Khlusov, RUS, F, 1.84, 79, 16-01-00, St. Petersburg, FC Leningradets
+20, Amar Rahmanović, BIH, M, 1.92, 82, 13-05-94, Sindelfingen, Konyaspor
+21, Dmytro Ivanisenya, UKR, D, 1.89, 70, 11-01-94, Kryvyi Rih, Zorya Luhansk
+22, Fernando, BRA, D, 1.82, 70, 29-11-98, Rio de Janeiro, Sheriff Tiraspol
+23, Glenn Bijl, NED, D, 1.84, 76, 13-07-95, Stadskanaal, FC Emmen
+24, Roman Evgenyev, RUS, D, 1.92, 82, 23-02-99, Spasskoye, Dynamo Moscow
+28, Benjamín Garré, ARG, F, 1.72, 70, 11-06-00, Capital Federal, Racing Club
+29, Aleksandr Zuev, RUS, M, 1.75, 62, 26-06-96, Kostanay, FC Khimki
+30, Aleksandar Ćirković, SRB, F, 1.80, 78, 21-09-01, Smederevska Palanka, Voždovac
+31, Georgiy Zotov, RUS, D, 1.74, 72, 12-01-90, Novosibirsk, Rubin Kazan
+39, Evgeniy Frolov, RUS, G, 1.94, 82, 05-02-88, Saransk, PFC Sochi
+72, Vladislav Teplyakov, RUS, D, 1.71, 63, 23-07-04, -, Krylia Sovetov-2
+73, Vladislav Shitov, RUS, F, 1.77, 71, 07-05-03, Yaroslavl, Spartak Moscow
+76, Ivan Bober, RUS, M, 1.79, 63, 07-01-06, Samara, Krylia Sovetov-2
+81, Bogdan Ovsyannikov, RUS, G, 1.89, 82, 05-01-99, Nizhny Novgorod, Krylia Sovetov-2
+95, Ilya Gaponov, RUS, D, 1.85, 75, 25-10-97, Orel, Spartak Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Sergey Pinyaev, RUS, F, 1.67, 63, 02-11-04, Saratov, Lokomotiv Moscow
+15, Maksim Glushenkov, RUS, M, 1.79, 69, 28-07-99, Smolensk, Lokomotiv Moscow
+13, Danil Lipovoy, RUS, M, 1.77, 69, 22-09-99, Kirov, Volgar Astrakhan (On Loan)
+44, Mateo Barać, CRO, D, 1.90, 90, 20-07-94, Sinj, Oostende (On Loan)
+17, Vladimir Khubulov, RUS, F, 1.79, 71, 02-03-01, Vladikavkaz, FC Khimki (On Loan)
+18, Artem Sokolov, RUS, M, 1.70, 58, 01-04-03, Yakutsk, Pari Nizhny Novgorod (On Loan)

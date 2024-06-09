@@ -1,0 +1,37 @@
+=  Union Saint-Gilloise - Belgian Eerste Klasse A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Bart Nieuwkoop, NED, D, 1.80, 72, 07-03-96, Tholen, Feyenoord
+4, Jonas Bager, DEN, D, 1.81, 78, 18-07-96, Hadsten, Randers
+6, Casper Nielsen, DEN, M, 1.82, 71, 29-04-94, Esbjerg, Odense
+7, Matthew Sorinola, ENG, D, 1.73, 65, 19-02-01, Lambeth, MK Dons
+8, Jean Thierry Lazare Amani, CIV, M, 1.72, 65, 07-03-98, Diégonéfla, Charleroi
+9, Deniz Undav, GER, F, 1.79, 73, 19-07-96, Achim, Brighton & HA
+11, Álex Millán, ESP, F, 1.82, 74, 07-11-99, Zaragoza, Villarreal B
+13, Dante Vanzeir, BEL, F, 1.75, 68, 16-04-98, Beringen, KRC Genk
+16, Christian Burgess, ENG, D, 1.96, 84, 07-10-91, Barking, Portsmouth
+17, Teddy Teuma, FRA, M, 1.76, 73, 30-09-93, Toulon, Red Star
+18, Kaoru Mitoma, JPN, M, 1.78, 68, 20-05-97, Kawasaki, Brighton & HA
+19, Guillaume François, BEL, D, 1.73, 74, 03-06-90, Libramont, Excelsior Virton
+20, Senne Lynen, BEL, M, 1.85, 76, 19-02-99, Borsbeek, Telstar
+21, Lucas Pirard, BEL, G, 1.91, 85, 10-03-95, Sprimont, Waasland-Beveren
+22, Pedro Lubamba, ANG, F, 1.67, 63, 14-09-02, Luanda, Benfica
+23, Cameron Puertas, SUI, M, 1.78, 77, 18-08-98, Lausanne, Lausanne-Sport
+24, Ilyes Ziani, BEL, M, 1.73, 68, 20-06-03, -, None
+25, Damien Marcq, FRA, M, 1.83, 72, 08-12-88, Boulogne, Zulte-Waregem
+28, Koki Machida, JPN, D, 1.87, 70, 25-08-97, Ibaraki, Kashima Antlers
+33, Tibo Herbots, BEL, G, 1.85, 70, 07-05-01, -, Sint-Truiden
+44, Siebe Van Der Heyden, BEL, D, 1.85, 76, 30-05-98, Denderleeuw, FC Eindhoven
+49, Anthony Moris, BEL, G, 1.84, 75, 29-04-90, Liège, Excelsior Virton
+59, Ismaël Kandouss, MAR, D, 1.92, 88, 12-11-97, Lille, Dunkerque
+64, Kacper Kozłowski, POL, M, 1.77, 67, 16-10-03, Koszalin, Brighton & HA
+94, Loïc Lapoussin, FRA, F, 1.81, 70, 27-03-96, Rosny-sous-Bois, Excelsior Virton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Aron Sigurðarson, ISL, F, 1.77, 70, 08-10-93, Reykjavík, Horsens
+26, Kerian Atheba, BEL, G, 1.87, 86, 31-05-01, Brussels, Diegem Sport (On Loan)
+90, Felipe Avenatti, URU, F, 1.96, 86, 26-04-93, Montevideo, Standard Liège
+11, Lorenzo Paolucci, ITA, M, 1.73, 66, 01-10-96, Pescara, De-Registered
+10, Marcel Lewis, ENG, M, 1.73, 66, 30-09-01, Cambridge, Accrington Stanley (On Loan)

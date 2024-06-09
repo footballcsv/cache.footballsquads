@@ -1,0 +1,42 @@
+=  Lazio - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luís Maximiano, POR, G, 1.90, 84, 05-01-99, Celeirós, Granada
+3, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Juventus
+4, Patric, ESP, D, 1.84, 72, 17-04-93, Mula, Barcelona B
+5, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Internazionale
+6, Marcos Antônio, BRA, M, 1.66, 63, 13-06-00, Poções, Shakhtar Donetsk
+7, Felipe Anderson, BRA, F, 1.75, 70, 15-04-93, Brasília, West Ham U
+9, Pedro, ESP, F, 1.69, 67, 28-07-87, Santa Cruz de Tenerife, Roma
+10, Luis Alberto, ESP, M, 1.83, 74, 28-09-92, San José del Valle, Liverpool
+11, Matteo Cancellieri, ITA, F, 1.80, 79, 12-02-02, Rome, Verona
+13, Alessio Romagnoli, ITA, D, 1.85, 75, 12-01-95, Anzio, Milan
+15, Nicolò Casale, ITA, D, 1.91, 84, 14-02-98, Negrar, Verona
+17, Ciro Immobile, ITA, F, 1.85, 85, 20-02-90, Torre Annunziata, Sevilla
+18, Luka Romero, ARG, M, 1.65, 64, 18-11-04, Durango, Mallorca B
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Verona
+21, Sergej Milinković-Savić, SRB, M, 1.91, 76, 27-02-95, Lleida, KRC Genk
+22, Diego González, PAR, F, 1.77, 67, 07-01-03, Alto Paraná, Celaya
+23, Elseid Hysaj, ALB, D, 1.82, 70, 02-02-94, Shkodër, Napoli
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+29, Manuel Lazzari, ITA, M, 1.74, 67, 29-11-93, Valdagno, SPAL
+31, Marius Adamonis, LTU, G, 1.91, 80, 13-05-97, Panevėžys, Atlantas Klaipėda
+32, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+34, Mario Gila, ESP, D, 1.83, 74, 29-08-00, Barcelona, Real Madrid B
+44, Romano Floriani, ITA, D, 1.88, -, 27-01-03, Rome, None
+50, Marco Bertini, ITA, M, 1.85, 68, 07-08-02, Rome, None
+61, Federico Magro, ITA, G, 1.89, 79, 10-01-05, Rome, Urbetevere
+77, Adam Marušić, SRB, D, 1.85, 85, 17-10-92, Belgrade, Oostende
+88, Toma Bašić, CRO, M, 1.89, 80, 25-11-96, Zagreb, Bordeaux
+94, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Spezia
+96, Mohamed Fares, ALG, D, 1.83, 75, 15-02-96, Aubervilliers, SPAL
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+55, Alessio Furlanetto, ITA, G, 1.91, 79, 07-02-02, Motta di Livenza, Renate (On Loan)
+8, Jean-Daniel Akpa Akpro, CIV, M, 1.80, 68, 11-10-92, Toulouse, Empoli (On Loan)
+33, Francesco Acerbi, ITA, D, 1.92, 89, 10-02-88, Vizzolo Predabissi, Internazionale (On Loan)
+80, Sofian Kiyine, BEL, M, 1.82, 78, 02-10-97, Verviers, OH Leuven
+16, Dimitrije Kamenović, SRB, D, 1.88, 80, 16-07-00, Pirot, Sparta Prague (On Loan)
+27, Raúl Moro, ESP, F, 1.69, 65, 05-12-02, Abrera, Oviedo (On Loan)

@@ -1,0 +1,42 @@
+=  Clermont - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mehdi Zeffane, ALG, D, 1.74, 63, 19-05-92, Sainte-Foy-lès-Lyon, Yeni Malatyaspor
+3, Neto Borges, BRA, D, 1.83, 85, 13-09-96, Salvador, KRC Genk
+4, Mateusz Wieteska, POL, D, 1.87, 77, 11-02-97, Warsaw, Legia Warszawa
+5, Maximiliano Caufriez, BEL, D, 1.89, 81, 16-02-97, Beveren, Spartak Moscow
+7, Yohann Magnin, FRA, M, 1.83, 71, 21-06-97, Clermont-Ferrand, None
+9, Komnen Andrić, SRB, F, 1.89, 84, 01-07-95, Novi Pazar, Dinamo Zagreb
+10, Saïf Khaoui, TUN, M, 1.80, 68, 27-04-95, Paris, Marseille
+11, Jim Allevinah, GAB, F, 1.72, 61, 27-02-95, Agen, Le Puy
+12, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Granada
+13, Souleymane Cissé, FRA, D, -, -, 08-08-02, -, Lens
+15, Cheick Oumar Konaté, MLI, D, 1.73, 65, 02-04-04, Bamako, JMG Academy
+16, Lucas Margueron, FRA, G, 1.94, 85, 12-02-01, Décines, Lyon
+17, Oliver Kamden, FRA, D, -, -, 15-10-02, -, None
+18, Elba Rashani, KVX, M, 1.81, 69, 09-05-93, Hillerstorp, BB Erzurumspor
+21, Florent Ogier, FRA, D, 1.82, 75, 21-03-89, Lyon, Sochaux
+22, Aïman Maurer, FRA, F, 1.73, 70, 25-09-04, Neuilly-sur-Seine, Red Star
+25, Johan Gastien, FRA, M, 1.80, 67, 25-01-88, Niort, Brest
+31, Baïla Diallo, FRA, D, 1.76, 73, 24-06-01, Toulouse, None
+36, Alidu Seidu, GHA, D, 1.73, 68, 04-06-00, Accra, None
+40, Ouparine Djoco, FRA, G, 1.88, 90, 22-04-98, Juvisy-sur-Orge, None
+70, Muhammed Cham, AUT, M, 1.80, 67, 26-09-00, Vienna, Admira Wacker Mödling
+91, Jérémie Bela, ANG, M, 1.73, 69, 08-04-93, Melun, Birmingham C
+95, Grejohn Kyei, FRA, F, 1.87, 84, 12-08-95, Gonesse, Servette
+97, Yanis Massolin, FRA, M, 1.97, 78, 20-09-02, Moulins, Moulins Yzeure
+99, Mory Diaw, FRA, G, 1.95, 95, 22-06-93, Poissy, Lausanne-Sport
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+69, Sofyan Chader, FRA, M, 1.81, 76, 12-05-00, Lyon, Luzern
+88, Yuliwes Bellache, FRA, M, 1.69, 62, 29-09-02, Lyon, Austria Lustenau (On Loan)
+29, Naël Jaby, FRA, M, 1.75, 68, 20-04-01, Clermont-Ferrand, Moulins Yzeure (On Loan)
+28, Yadaly Diaby, FRA, F, 1.85, 70, 09-08-00, Saint-Pierre, Austria Lustenau (On Loan)
+5, Jean-Claude Billong, FRA, D, 1.91, 88, 28-12-93, Mantes-la-Jolie, CFR Cluj
+8, Jason Berthomier, FRA, M, 1.75, 68, 06-01-90, Montluçon, Valenciennes
+24, Fred Gnalega, CIV, M, 1.75, 65, 08-10-01, Ahoutoué, Chamalières (On Loan)
+19, Arial Mendy, SEN, D, 1.80, 75, 07-11-94, Ziguinchor, Grenoble
+23, Brandon Baiye, BEL, M, 1.77, 75, 27-12-00, Liège, Eupen
+20, Jodel Dossou, BEN, F, 1.80, 75, 17-03-92, Dassa-Zoumé, Sochaux

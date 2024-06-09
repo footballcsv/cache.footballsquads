@@ -1,0 +1,38 @@
+=  Paks - Hungarian Nemzeti Bajnokság I 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Péter Szappanos, HUN, G, 1.94, 93, 14-11-90, Jászberény, Honvéd
+2, Ákos Kinyik, HUN, D, 1.91, 85, 12-05-93, Debrecen, Debrecen
+3, Norbert Szélpál, HUN, D, 1.95, 92, 03-03-96, Szeged, Békéscsaba
+7, Alen Skribek, HUN, F, 1.81, 76, 11-04-01, Budapest, Puskás Akadémia
+8, Balázs Balogh, HUN, M, 1.85, 77, 11-06-90, Budapest, Puskás Akadémia
+9, Csaba János Hahn, HUN, F, 1.85, 82, 15-03-95, Paks, DAC Dunajská Streda
+10, Zsolt Haraszti, HUN, F, 1.86, 83, 04-11-91, Paks, Videoton
+11, Attila Osváth, HUN, D, 1.77, 75, 10-12-95, Veszprém, Puskás Akadémia
+12, Gábor Vas, HUN, M, -, -, 29-08-03, -, None
+13, Dániel Böde, HUN, F, 1.90, 84, 24-10-86, Szekszárd, Ferencváros
+14, Erik Silye, HUN, D, 1.81, 77, 12-06-96, Orosháza, Vasas
+15, Norbert Könyves, SRB, F, 1.86, 77, 10-06-89, Bačka Palanka, Diósgyőr
+16, Zoltán Pesti, HUN, F, -, -, 24-04-05, -, None
+17, Bence Kocsis, HUN, M, 1.80, 75, 23-04-01, Târgu Mureș, MTK
+19, Kevin Horváth, HUN, F, -, -, 02-03-05, -, None
+20, Krisztián Kovács, HUN, D, 1.75, 68, 29-05-00, Komarno, Győr
+21, Kristóf Papp, HUN, M, 1.83, 73, 04-05-93, Kerepestarcsa, Gyirmót
+22, József Windecker, HUN, M, 1.83, 75, 02-12-92, Szeged, Levadiakos
+24, Bencze Lenzsér, HUN, D, 1.83, 72, 09-06-96, Győr, Győr
+25, Barnabás Simon, HUN, G, 1.92, 86, 13-02-04, Szombathely, Haladás
+26, Szabolcs Mezei, HUN, M, 1.72, 60, 18-10-00, Békéscsaba, MTK
+27, Bálint Szabó, HUN, M, 1.79, 72, 18-01-01, Székesfehérvár, MOL Fehérvár
+29, Barna Tóth, HUN, F, 1.98, 90, 13-03-95, Budapest, Kecskemét
+30, János Szabo, HUN, D, 1.82, 73, 11-07-89, Paks, None
+55, Zalán Debreceni, HUN, D, 1.88, 76, 06-07-02, Szekszárd, Haladás
+77, Zsolt Gévay, HUN, D, 1.87, 82, 19-11-87, Dunaújváros, Mezőkövesd
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, János Hegedűs, HUN, D, 1.83, 75, 04-10-96, Budapest, Siófok (On Loan)
+28, Dominik Földi, HUN, M, 1.78, 74, 27-06-04, Budapest, Szeged (On Loan)
+23, Péter Beke, HUN, F, 1.81, 73, 14-03-01, Budapest, Nyíregyháza
+5, Attila Temesvári, HUN, D, 1.90, 73, 02-06-00, Budapest, Nyíregyháza
+17, Lukács Bőle, HUN, F, 1.79, 72, 27-03-90, Marcali, Mezőkövesd

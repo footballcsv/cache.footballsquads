@@ -1,0 +1,44 @@
+=  Lens - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wuilker Faríñez, VEN, G, 1.80, 77, 15-02-98, Caracas, Millonarios
+3, Deiver Machado, COL, D, 1.72, 62, 02-09-92, Tadó, Toulouse
+4, Kevin Danso, AUT, D, 1.90, 75, 19-09-98, Voitsberg, Augsburg
+6, Jean Onana, CMR, M, 1.89, 89, 08-01-00, Yaoundé, Bordeaux
+7, Florian Sotoca, FRA, F, 1.87, 79, 25-10-90, Narbonne, Grenoble
+8, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Udinese
+9, Adam Buksa, POL, F, 1.91, 78, 12-07-96, Kraków, New England Revolution
+10, David Costa, POR, M, 1.68, 64, 05-01-01, Lisbon, None
+11, Loïs Openda, BEL, F, 1.74, 70, 16-02-00, Liège, Club Brugge
+13, Łukasz Poręba, POL, M, 1.80, 70, 13-03-00, Legnica, Zagłębie Lubin
+14, Facundo Medina, ARG, D, 1.79, 75, 28-05-99, Villa Fiorito, Talleres (Córdoba)
+15, Steven Fortes, CPV, D, 1.92, 85, 17-04-92, Marseille, Toulouse
+16, Jean-Louis Leca, FRA, G, 1.77, 65, 21-09-85, Bastia, Ajaccio
+18, Alexis Claude-Maurice, FRA, M, 1.74, 62, 06-06-98, Noisy-le-Grand, Nice
+19, Jimmy Cabot, FRA, M, 1.64, 60, 18-04-94, Chambéry, Angers
+20, Angelo Fulgini, FRA, M, 1.87, 75, 20-08-96, Abidjan, Mainz
+21, Massadio Haïdara, MLI, D, 1.79, 75, 02-12-92, Trappes, Newcastle U
+22, Wesley Saïd, FRA, F, 1.71, 65, 19-04-95, Noisy-le-Grand, Toulouse
+23, Ismaël Boura, FRA, D, 1.73, 68, 14-08-00, Bandrele, None
+24, Jonathan Gradit, FRA, D, 1.80, 77, 24-11-92, Talence, Caen
+25, Julien Le Cardinal, FRA, D, 1.82, 73, 03-08-97, Saint-Brieuc, Paris FC
+26, Salis Abdul Samed, GHA, M, 1.80, 61, 26-03-00, Accra, Clermont
+28, Adrien Thomasson, FRA, M, 1.82, 75, 10-12-93, Bourg-Saint-Maurice, Strasbourg
+29, Przemysław Frankowski, POL, D, 1.75, 68, 12-04-95, Gdańsk, Chicago Fire
+30, Brice Samba, FRA, G, 1.86, 79, 25-04-94, Linzolo, Nottingham F
+33, Yacouba Barry, FRA, D, 1.88, 70, 25-11-02, Gonesse, Chantilly
+34, Yaya Fofana, CIV, M, 1.80, 66, 12-06-04, Abidjan, None
+35, Adrien Louveau, FRA, D, 1.89, 86, 01-02-00, Lille, None
+36, Rémy Labeau Lascary, FRA, F, 1.84, 72, 03-03-03, Les Abymes, None
+40, Yannick Pandor, FRA, G, 1.92, 79, 01-05-01, Marseille, Air Bel
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Charles Boli, FRA, M, 1.75, 65, 30-08-98, Dundee, Pau
+33, Ibrahima Baldé, FRA, F, 1.85, 76, 17-01-03, Paris, Annecy (On Loan)
+6, Patrick Berg, NOR, M, 1.75, 70, 24-11-97, Bodø, Bodø/Glimt
+5, Christopher Wooh, FRA, D, 1.91, 90, 18-09-01, Paris, Rennes
+9, Ignatius Ganago, CMR, F, 1.76, 78, 16-02-99, Douala, Nantes
+10, Gaël Kakuta, COD, M, 1.73, 65, 21-06-91, Lille, Amiens
+20, David Costa, POR, M, 1.68, 64, 05-01-01, Lisbon, Re-Registered (10)

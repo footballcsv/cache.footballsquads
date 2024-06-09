@@ -1,0 +1,54 @@
+=  Southampton - English Premier League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kelvin Davis, ENG, G, 1.85, 88, 29-09-76, Bedford, Sunderland
+2, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Sporting CP
+3, Maya Yoshida, JPN, D, 1.86, 78, 24-08-88, Nagasaki, VVV Venlo
+4, Jordy Clasie, NED, M, 1.69, 68, 27-06-91, Haarlem, Feyenoord
+5, Florin Gardos, ROU, D, 1.93, 81, 29-10-88, Satu Mare, Steaua Bucureşti
+6, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Crystal Palace
+7, Shane Long, IRL, F, 1.78, 71, 22-01-87, Kilkenny, WBA
+8, Steven Davis, NIR, M, 1.79, 72, 01-01-85, Ballymena, Rangers
+9, Jay Rodriguez, ENG, F, 1.85, 70, 29-07-89, Burnley, Burnley
+10, Sadio Mané, SEN, M, 1.75, 69, 10-04-92, Sédhiou, Red Bull Salzburg
+11, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, FC Twente
+12, Victor Wanyama, KEN, M, 1.88, 76, 25-06-91, Nairobi, Celtic
+14, Oriol Romeu, ESP, M, 1.82, 79, 24-09-91, Ulldecona, Chelsea
+15, Cuco Martina, CUW, D, 1.85, 70, 25-09-89, Rotterdam, FC Twente
+16, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, None
+17, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, Celtic
+18, Harrison Reed, ENG, M, 1.76, 74, 27-01-95, Worthing, None
+19, Graziano Pellè, ITA, F, 1.93, 89, 15-07-85, San Cesario, Feyenoord
+20, Juanmi, ESP, F, 1.69, 63, 20-05-93, Coín, Málaga
+21, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Chelsea
+22, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Fulham
+25, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Gillingham
+28, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, QPR
+29, Bevis Mugabi, ENG, D, 1.89, 75, 01-05-95, Harrow, None
+30, Will Wood, ENG, D, 1.74, 67, 29-11-96, Burgess Hill, None
+31, Armani Little, ENG, M, 1.72, 63, 05-04-97, Portsmouth, None
+33, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, None
+34, Jake Flannigan, ENG, M, 1.80, 71, 02-02-96, Southampton, None
+35, Josh Debayo, ENG, D, 1.83, 68, 17-10-96, London, Chelsea
+37, Harley Willard, SCO, M, 1.80, 65, 04-09-97, London, Arsenal
+39, Josh Sims, ENG, M, 1.74, 67, 28-03-97, Yeovil, Portsmouth
+40, Sam Gallagher, ENG, F, 1.93, 75, 15-09-95, Crediton, Plymouth Arg
+42, Jake Hesketh, ENG, M, 1.68, 63, 27-03-96, Southampton, None
+43, Will Britt, ENG, G, 1.88, 75, 22-03-95, Portsmouth, None
+44, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Celtic
+45, Ryan Seager, ENG, F, 1.76, 75, 05-02-96, Yeovil, None
+46, Dominic Gape, ENG, M, 1.80, 70, 09-09-94, Southampton, None
+47, Marcus Barnes, ENG, F, 1.85, 72, 01-12-96, Reading, Wolverhampton W
+49, Olufela Olomola, ENG, F, 1.70, 67, 05-09-97, Harrow, Arsenal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Jordan Turnbull, ENG, D, 1.85, 72, 30-10-94, Trowbridge, Swindon T (On Loan)
+26, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, QPR
+27, Lloyd Isgrove, WAL, M, 1.78, 72, 12-01-93, Yeovil, Barnsley (On Loan)
+38, Sam McQueen, ENG, M, 1.76, 70, 06-02-95, Southampton, Southend U (On Loan)
+41, Harvey Isted, ENG, G, 1.86, 70, 05-03-97, Chichester, Stoke C
+23, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Middlesbrough (On Loan)
+24, Jack Stephens, ENG, D, 1.85, 84, 27-01-94, Torpoint, Coventry C (On Loan)
+32, Jason McCarthy, ENG, D, 1.86, 80, 07-11-95, Southampton, Wycombe W (On Loan)

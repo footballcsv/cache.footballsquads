@@ -1,0 +1,61 @@
+=  Middlesbrough - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dimitrios Konstantopoulos, GRE, G, 1.93, 90, 29-11-78, Thessaloniki, AEK
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Cardiff C
+3, George Friend, ENG, D, 1.88, 83, 19-10-87, Barnstaple, Doncaster R
+4, Daniel Ayala, ESP, D, 1.90, 84, 07-11-90, El Saucejo, Norwich C
+5, Bernardo Espinosa, COL, D, 1.92, 84, 11-07-89, Cali, Sporting Gijón
+6, Ben Gibson, ENG, D, 1.85, 78, 15-01-93, Nunthorpe, None
+7, Grant Leadbitter, ENG, M, 1.77, 79, 07-06-86, Chester-le-Street, Ipswich T
+8, Adam Clayton, ENG, M, 1.75, 75, 14-01-89, Manchester, Huddersfield T
+10, Álvaro Negredo, ESP, F, 1.85, 82, 20-08-85, Madrid, Valencia
+11, Viktor Fischer, DEN, F, 1.80, 71, 09-06-94, Aarhus, Ajax
+12, Brad Guzan, USA, G, 1.93, 95, 09-09-84, Home Glen, Aston Villa
+14, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Atalanta
+17, Antonio Barragán, ESP, D, 1.83, 76, 12-06-87, Pontedeume, Valencia
+18, Christian Stuani, URU, F, 1.84, 72, 12-10-86, Tala, Espanyol
+19, Stewart Downing, ENG, M, 1.80, 64, 22-07-84, Middlesbrough, West Ham U
+20, Patrick Bamford, ENG, F, 1.85, 71, 05-09-93, Newark, Chelsea
+21, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Southampton
+22, Dael Fry, ENG, D, 1.85, 72, 30-08-97, Middlesbrough, None
+25, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Arsenal
+26, Víctor Valdés, ESP, G, 1.88, 78, 14-01-82, L'Hospitalet de Llobregat, Manchester U
+27, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, Watford
+29, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Aston Villa
+34, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Wigan Ath
+37, Adama Traoré, ESP, F, 1.78, 76, 25-01-96, L'Hospitalet de Llobregat, Aston Villa
+40, James Husband, ENG, D, 1.79, 65, 03-01-94, Leeds, Doncaster R
+43, Hayden Coulson, ENG, D, 1.77, 70, 17-06-98, Gateshead, None
+44, Matthew Elsdon, ENG, D, , , 24-06-97, Durham, Sunderland
+50, Callum Johnson, ENG, D, 1.80, 71, 23-10-96, Stockton-on-Tees, None
+52, Thomas McAloon, NIR, F, , , 05-09-95, Consett, None
+53, Niall McGoldrick, ENG, D, , , 04-12-97, Hartlepool, None
+54, Jordan McGhee, SCO, D, 1.89, 77, 24-07-96, East Kilbride, Hearts
+56, Lewis Maloney, ENG, M, 1.72, 69, 05-05-95, Middlesbrough, None
+57, Junior Mondal, ENG, F, 1.76, 70, 27-03-97, Normanby, None
+58, João Morelli, BRA, F, 1.80, 75, 11-03-96, São Paulo, Ituano
+60, Aynsley Pears, ENG, G, 1.86, 80, 23-04-98, Durham, None
+61, Alex Pattison, ENG, M, 1.73, 70, 06-09-97, Darlington, None
+62, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, None
+64, Josef Wheatley, ENG, M, , , 30-12-96, Middlesbrough, None
+65, Zak Hemming, ENG, G, , , 07-03-00, Bishop Auckland, None
+66, Ben Liddle, ENG, M, 1.70, 75, 21-09-98, Durham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Alex John-Baptiste, ENG, D, 1.80, 74, 31-01-86, Sutton-in-Ashfield, Preston NE (On Loan)
+20, Adam Reach, ENG, M, 1.85, 73, 03-02-93, Gateshead, Sheffield W
+27, Albert Adomah, GHA, M, 1.85, 74, 13-12-87, Lambeth, Aston Villa
+23, Julien de Sart, BEL, M, 1.86, 69, 23-12-94, Waremme, Derby Co (On Loan)
+13, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Rayo Vallecano (On Loan)
+35, David Nugent, ENG, F, 1.80, 76, 02-05-85, Liverpool, Derby Co
+24, Emilio Nsue, EQG, M, 1.78, 75, 30-09-89, Palma de Mallorca, Birmingham C
+59, Bryn Morris, ENG, D, 1.82, 71, 25-04-96, Hartlepool, Shrewsbury T
+46, Joe Fryer, ENG, G, 1.85, 72, 14-11-95, Chester-le-Street, Hartlepool U (On Loan)
+51, Mark Kitching, ENG, D, 1.88, 74, 04-09-95, Guisborough, Rochdale
+9, Jordan Rhodes, SCO, F, 1.85, 71, 05-02-90, Oldham, Sheffield W (On Loan)
+16, Carlos de Pena, URU, M, 1.77, 74, 11-03-92, Montevideo, Oviedo (On Loan)
+42, Callum Cooke, ENG, F, 1.72, 72, 21-02-97, Peterlee, Crewe Alex (On Loan)
+63, Robbie Tinkler, ENG, D, , , 23-07-96, Trimdon, North Ferriby U (On Loan)

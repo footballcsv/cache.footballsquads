@@ -1,0 +1,44 @@
+=  Sturm Graz - Austrian Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Arthur Okonkwo, ENG, G, 1.95, 85, 09-09-01, Camden, Arsenal
+4, Jon Gorenc Stanković, SVN, M, 1.90, 78, 14-01-96, Ljubljana, Huddersfield T
+5, Gregory Wüthrich, SUI, D, 1.92, 80, 04-12-94, Bern, Perth Glory
+6, Alexandar Borković, AUT, D, 1.84, 74, 11-06-99, Vienna, 1899 Hoffenheim
+8, Alexander Prass, AUT, M, 1.80, 72, 26-05-01, -, FC Liefering
+9, Albian Ajeti, SUI, F, 1.82, 75, 26-02-97, Basel, Celtic
+10, Otar Kiteishvili, GEO, M, 1.73, 65, 26-03-96, Rustavi, Dinamo Tbilisi
+11, Manprit Sarkaria, AUT, F, 1.79, 70, 26-08-96, Vienna, SC Großfeld
+13, Jakob Jantscher, AUT, F, 1.78, 70, 08-01-89, Graz, Rizespor
+14, Paul Komposch, AUT, D, 1.87, 78, 13-05-01, -, None
+15, William Bøving, DEN, M, 1.78, 67, 01-03-03, Copenhagen, FC København
+16, Sandro Schendl, AUT, M, 1.73, 65, 19-03-03, Güssing, None
+17, Bryan Teixeira Jr, FRA, F, 1.74, 73, 01-09-00, Savigny-le-Temple, Austria Lustenau
+19, Tomi Horvat, SVN, M, 1.76, 69, 24-03-99, Murska Sobota, Mura
+20, Emanuel Emegha, NED, F, 1.95, 80, 03-02-03, Den Haag, Royal Antwerp
+21, Samuel Stückler, AUT, M, 1.78, 75, 14-02-01, -, None
+22, Jusuf Gazibegović, BIH, D, 1.74, 65, 11-03-00, Salzburg, FC Liefering
+24, Sandro Ingolitsch, AUT, D, 1.79, 72, 18-04-97, Schwarzach im Pongau, SKN St. Pölten
+25, Stephan Hierländer, AUT, M, 1.80, 70, 03-02-91, Villach, RB Leipzig
+27, Jörg Siebenhandl, AUT, G, 1.83, 83, 18-01-90, Vienna, Würzburger Kickers
+28, David Schnegg, AUT, D, 1.85, 80, 29-09-98, Vienna, Venezia
+29, Mohammed Fuseini, GHA, F, 1.69, -, 16-05-02, -, Right to Dream
+30, Ivan Ljubić, AUT, M, 1.84, 75, 07-07-96, -, Horn
+31, Luka Marić, AUT, G, 1.94, 90, 19-07-02, -, None
+32, Tobias Schützenauer, AUT, G, 1.82, 79, 19-05-97, Graz, None
+35, Niklas Geyrhofer, AUT, D, 1.88, 77, 11-02-00, -, None
+37, Moritz Wels, AUT, M, 1.86, -, 25-09-04, -, None
+42, David Affengruber, AUT, D, 1.91, 79, 19-03-01, Scheibbs, Red Bull Salzburg
+44, Amadou Dante, MLI, D, 1.79, 70, 07-10-00, -, Yeelen Olympique
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Rasmus Højlund, DEN, F, 1.92, 85, 04-02-03, Copenhagen, Atalanta
+23, Luca Kronberger, AUT, F, 1.79, 72, 15-02-02, Schwarzach im Pongau, Ried (On Loan)
+18, Dominik Oroz, CRO, D, 1.92, 75, 29-10-00, Vienna, Vitesse
+17, Vesel Demaku, AUT, M, 1.79, 72, 05-02-00, Altenmarkt an der Triesting, Austria Klagenfurt (On Loan)
+26, Christoph Lang, AUT, M, 1.78, 71, 07-01-02, Deutschlandsberg, Ried (On Loan)
+36, Vincent Trummer, AUT, D, 1.89, 83, 18-05-00, -, Lafnitz
+41, Christopher Giuliani, AUT, G, 1.87, 81, 07-05-99, Graz, Kapfenberg
+34, Simon Nelson, AUT, D, 1.84, 75, 03-02-02, Graz, Rheindorf Altach

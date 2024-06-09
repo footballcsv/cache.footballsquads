@@ -1,0 +1,42 @@
+=  FC Porto - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Marchesin, ARG, G, 1.88, 83, 16-03-88, González Chávez, América
+2, Fábio Cardoso, POR, D, 1.86, 75, 19-04-94, Águeda, Santa Clara
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, Beşiktaş
+5, Iván Marcano, ESP, D, 1.89, 77, 23-06-87, Santander, Roma
+8, Mateus Uribe, COL, M, 1.82, 71, 21-03-91, Medellín, América
+9, Mehdi Taremi, IRN, F, 1.87, 82, 18-07-92, Bushehr, Rio Ave
+10, Francisco Conceição, POR, F, 1.70, 64, 14-12-02, Coimbra, None
+11, Pepê, BRA, F, 1.75, 68, 24-02-97, Foz do Iguaçu, Grêmio
+12, Zaidu Sanusi, NGA, D, 1.82, 69, 13-06-97, Lagos, Santa Clara
+13, Galeno, BRA, F, 1.79, 72, 22-10-97, Barra da Corda, Sporting Braga
+14, Cláudio Ramos, POR, G, 1.83, 83, 16-11-91, Viseu, Tondela
+16, Marko Grujić, SRB, M, 1.91, 82, 13-04-96, Belgrade, Liverpool
+18, Wilson Manafá, BRA, D, 1.74, 69, 23-07-94, Oliveira do Bairro, Portimonense
+19, Chancel Mbemba, COD, D, 1.82, 80, 08-08-94, Kinshasa, Newcastle U
+20, Vitinha, POR, M, 1.72, 64, 13-02-00, Vila das Aves, None
+22, Wendell, BRA, D, 1.76, 66, 20-07-93, Fortaleza, Bayer Leverkusen
+23, João Mário, POR, M, 1.78, 62, 03-01-00, São João da Madeira, Sanjoanense
+25, Otávio, POR, M, 1.71, 65, 09-02-95, João Pessoa, Internacional
+28, Bruno Costa, POR, M, 1.74, 65, 19-04-97, Oliveira de Azeméis, Portimonense
+29, Toni Martínez, ESP, F, 1.80, 70, 30-06-97, Barrio del Progreso, Famalicão
+30, Evanilson, BRA, F, 1.80, 80, 06-10-99, Fortaleza, Tombense
+35, Rúben Semedo, POR, D, 1.89, 84, 04-04-94, Amadora, Olympiakos
+38, Fernando Andrade, BRA, F, 1.82, 76, 08-01-93, São Caetano do Sul, Santa Clara
+46, Stephen Eustáquio, CAN, M, 1.78, 68, 21-12-96, Leamington [CAN], Paços de Ferreira
+50, Fábio Vieira, POR, M, 1.70, 58, 30-05-00, Santa Maria da Feira, None
+71, Francisco Meixedo, POR, G, 1.86, 73, 19-05-01, Porto, None
+99, Diego Costa, POR, G, 1.87, 81, 19-09-99, Rothrist, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Carraça, POR, D, 1.77, 74, 01-03-93, Folgosa da Maia, Belenenses (On Loan)
+4, Diogo Leite, POR, D, 1.88, 80, 23-01-99, Porto, Sporting Braga (On Loan)
+21, Romário Baró, POR, M, 1.80, 66, 25-01-00, Bissau, Estoril (On Loan)
+80, Rodrigo Valente, POR, M, 1.73, 64, 15-02-01, Santa Maria da Feira, Estoril (On Loan)
+31, Nanú, GNB, D, 1.77, 67, 17-05-94, Coimbra, FC Dallas (On Loan)
+27, Sérgio Oliveira, POR, M, 1.79, 71, 02-06-92, Paços de Brandão, Roma (On Loan)
+17, Jesús Manuel Corona, MEX, F, 1.73, 73, 06-01-93, Hermosillo, Sevilla
+7, Luis Díaz, COL, F, 1.80, 73, 13-01-97, Barrancas, Liverpool

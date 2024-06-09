@@ -1,0 +1,39 @@
+=  Arminia Bielefeld - German Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefan Ortega, GER, G, 1.83, 84, 06-11-92, Hofgeismar, 1860 Munich
+2, Amos Pieper, GER, D, 1.92, 86, 17-01-98, Lüdinghausen, Borussia Dortmund
+4, Joakim Nilsson, SWE, D, 1.82, 79, 06-02-94, Härnösand, IF Elfsborg
+5, Jacob Laursen, DEN, D, 1.79, 76, 17-11-94, Arden, Odense
+6, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, Swansea C
+7, Christian Gebauer, AUT, M, 1.87, 75, 20-12-93, Innsbruck, Rheindorf Altach
+8, Ritsu Doan, JPN, M, 1.72, 70, 16-06-98, Amagasaki, PSV Eindhoven
+9, Fabian Klos, GER, F, 1.94, 89, 02-12-87, Gifhorn, Wolfsburg II
+10, Reinhold Yabo, GER, M, 1.75, 70, 10-02-92, Aldenhoven, Red Bull Salzburg
+11, Masaya Okugawa, JPN, M, 1.76, 67, 14-04-96, Koka, Red Bull Salzburg
+14, Jóan Símun Edmundsson, FRO, M, 1.84, 81, 26-07-91, Toftir, Odense
+15, Nathan de Medina, BEL, D, 1.83, 80, 08-10-97, Etterbeek, Excel Mouscron
+16, Fabian Kunze, GER, M, 1.83, 75, 14-06-98, Bielefeld, Rödinghausen
+17, Cebio Soukou, GER, M, 1.84, 82, 02-10-92, Bochum, Hansa Rostock
+18, Sergio Córdova, VEN, F, 1.88, 78, 09-08-97, Calabozo, Augsburg
+19, Manuel Prietl, AUT, M, 1.87, 77, 03-08-91, Deutschlandsberg, Mattersburg
+20, Nils Seufert, GER, M, 1.79, 68, 03-02-97, Mannheim, Kaiserslautern
+21, Andreas Voglsammer, GER, F, 1.78, 78, 09-01-92, Rosenheim, Heidenheim
+23, Anderson Lucoqui, GER, D, 1.80, 72, 06-07-97, Zweibrücken, Fortuna Düsseldorf
+27, Cédric Brunner, SUI, D, 1.81, 74, 17-02-94, Männedorf, Zürich
+28, Michel Vlap, NED, M, 1.90, 69, 02-06-97, Sneek, Anderlecht
+30, Marcel Hartel, GER, M, 1.76, 69, 19-01-96, Cologne, Union Berlin
+31, Arne Maier, GER, M, 1.83, 79, 08-01-99, Ludwigsfelde, Hertha Berlin
+33, Nikolai Rehnen, GER, G, 1.89, 82, 04-02-97, Cologne, None
+34, Oscar Linnér, SWE, G, 1.98, 92, 23-02-97, Danderyd, AIK
+36, Sven Schipplock, GER, F, 1.85, 79, 08-11-88, Reutlingen, Hamburg
+38, Jomaine Consbruch, GER, M, 1.74, 62, 26-01-02, Bielefeld, None
+42, Julian Frommann, GER, M, 1.88, 80, 11-04-03, Bielefeld, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Prince Osei Owusu, GER, F, 1.91, 84, 07-01-97, Wertheim, Paderborn
+3, Brian Behrendt, GER, D, 1.87, 80, 24-10-91, Bremervörde, Eintracht Braunschweig
+22, Noel Niemann, GER, F, 1.71, 61, 14-11-99, Munich, Türkgücü München (On Loan)
+13, Sebastian Müller, GER, F, 1.80, 74, 23-01-01, Schwalmstadt, Osnabrück (On Loan)

@@ -1,0 +1,40 @@
+=  Warta Poznań - Polish Ekstraklasa 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrian Lis, POL, G, 1.92, 78, 28-05-92, Poznań, Polonia Środa Wielkopolska
+2, Jakub Bartkowski, POL, D, 1.82, 74, 07-11-91, Łódź, Lechia Gdańsk
+3, Jakub Kiełb, POL, D, 1.76, 73, 15-07-93, Jarocin, Jarota Jarocin
+4, Dimitris Stavropoulos, GRE, D, 1.91, 82, 01-05-97, Athens, Reggina
+6, Maciej Żurawski, POL, M, 1.84, 77, 22-12-00, Toruń, Pogoń Szczecin
+7, Kajetan Szmyt, POL, M, 1.71, 68, 29-05-02, Poznań, None
+8, Niilo Mäenpää, FIN, M, 1.80, 78, 14-01-98, Hämeenlinna, IFK Mariehamn
+9, Márton Eppel, HUN, F, 1.89, 77, 26-10-91, Budapest, Diósgyőr
+14, Bogdan Ţîru, ROU, D, 1.85, 80, 15-03-94, Constanţa, CFR Cluj
+15, Michał Kopczyński, POL, M, 1.80, 70, 15-06-92, Warsaw, Arka Gdynia
+16, Miguel Luís, POR, M, 1.70, 62, 27-02-99, Coimbra, Raków Częstochowa
+18, Mateusz Lechowicz, POL, D, -, -, 04-03-06, Poznań, None
+20, Mohamed Mezghrani, ALG, D, 1.78, 69, 02-06-94, Oran, Puskás Akadémia
+21, Mateusz Kupczak, POL, M, 1.87, 76, 20-02-92, Żywiec, BBT Nieciecza
+22, Konrad Matuszewski, POL, D, 1.82, 76, 04-10-01, Włoszczowa, None
+23, Jedrzej Hanuszczak, POL, M, -, -, 23-03-08, Poznań, None
+24, Patryk Rychlik, POL, D, -, -, 10-05-05, Szczecin, Pogoń Szczecin
+25, Jakub Paszkowski, POL, M, -, -, 16-09-06, -, Wigry Suwałki
+27, Kacper Przybyłko, POL, D, -, -, 05-02-05, -, Wisła Kraków
+28, Filip Borowski, POL, D, 1.81, 68, 06-10-03, Bydgoszcz, Lech Poznań
+29, Dario Vizinger, CRO, F, 1.81, 72, 06-06-98, Čakovec, Wolfsberger AC
+33, Jędrzej Grobelny, POL, G, 1.85, 70, 28-06-01, Poznań, Pogoń Szczecin
+44, Dawid Szymonowicz, POL, D, 1.84, 67, 07-07-95, Lidzbark Warmiński, Jagiellonia Białystok
+47, Tomáš Přikryl, CZE, M, 1.78, 69, 04-07-92, Olomouc, Jagiellonia Białystok
+77, Stefan Savić, AUT, M, 1.73, 65, 09-01-94, Salzburg, Tuzlaspor
+99, Adam Zreľák, SVK, F, 1.83, 80, 05-05-94, Lipany, Nürnberg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jakub Sangowski, POL, F, 1.89, 77, 11-03-02, Poznań, Olimpia Elbląg (On Loan)
+17, Szymon Sarbinowski, POL, M, -, -, 24-03-04, Poznań, Flota Świnoujście (On Loan)
+31, Oskar Krzyzak, POL, D, 1.86, 83, 24-01-02, Częstochowa, Raków Częstochowa
+20, Jakub Wajman, POL, D, -, -, 13-08-05, Wągrowiec, Sokół Kleczew (On Loan)
+97, Wiktor Kamiński, POL, F, 1.82, 72, 23-02-04, Ostrowiec Świętokrzyski, Sandecja Nowy Sącz (On Loan)
+34, Wiktor Pleśnierowicz, POL, D, 1.84, 75, 29-03-01, Kalisz, Polonia Warszawa (On Loan)
+26, Igor Stańczak, POL, M, -, -, 17-10-06, Gostyń, Warta Gorzów Wielkopolski

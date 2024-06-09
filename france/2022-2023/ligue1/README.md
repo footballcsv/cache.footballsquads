@@ -1,0 +1,23 @@
+# French Ligue 1 2022/2023
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Angers](angers.txt)
+- [Auxerre](auxerre.txt)
+- [Brest](brest.txt)
+- [Clermont](clermont.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Reims](reims.txt)
+- [Rennes](rennes.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)
+- [Troyes](troyes.txt)

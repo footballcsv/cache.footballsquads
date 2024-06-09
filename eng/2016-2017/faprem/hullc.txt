@@ -1,0 +1,51 @@
+=  Hull City - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Moses Odubajo, ENG, D, 1.77, 72, 28-07-93, Greenwich, Brentford
+3, Andrew Robertson, SCO, D, 1.78, 63, 11-03-94, Glasgow, Queen's Park
+5, Harry Maguire, ENG, D, 1.88, 79, 05-03-93, Sheffield, Sheffield U
+6, Curtis Davies, ENG, D, 1.88, 76, 15-03-85, Waltham Forest, Birmingham C
+7, David Meyler, IRL, M, 1.89, 74, 29-05-89, Cork, Sunderland
+8, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Tottenham H
+9, Abel Hernández, URU, F, 1.86, 73, 08-08-90, Canelones, Palermo
+10, Alfred N'Diaye, SEN, M, 1.87, 87, 06-03-90, Paris, Villarreal
+11, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Chesterfield
+13, Andrea Ranocchia, ITA, D, 1.95, 80, 16-02-88, Assisi, Internazionale
+14, Omar Elabdellaoui, NOR, D, 1.79, 72, 05-12-91, Skien, Olympiakos
+15, Shaun Maloney, SCO, M, 1.70, 70, 24-01-83, Mirri, Chicago Fire
+16, Eldin Jakupović, SUI, G, 1.91, 87, 02-10-84, Sarajevo, Aris
+17, Kamil Grosicki, POL, M, 1.80, 78, 08-06-88, Szczecin, Rennes
+18, Dieumerci Mbokani, COD, F, 1.85, 75, 22-11-85, Kinshasa, Dynamo Kyiv
+19, Will Keane, ENG, F, 1.87, 78, 11-01-93, Stockport, Manchester U
+20, Adama Diomandé, NOR, F, 1.80, 75, 14-02-90, Oslo, Stabæk
+21, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Tottenham H
+22, Markus Henriksen, NOR, M, 1.87, 85, 25-07-92, Trondheim, AZ Alkmaar
+23, David Marshall, SCO, G, 1.90, 83, 05-03-85, Glasgow, Cardiff C
+24, Oumar Niasse, SEN, F, 1.82, 75, 18-04-90, Ouakam, Everton
+25, Ryan Mason, ENG, M, 1.75, 71, 13-06-91, Enfield, Tottenham H
+27, Ahmed Elmohamady, EGY, M, 1.82, 81, 09-09-87, El-Mahalla El-Kubra, Sunderland
+28, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, None
+29, Jarrod Bowen, ENG, F, 1.74, 70, 20-12-96, Leominster, Hereford U
+30, Daniel Batty, ENG, D, 1.78, 75, 10-12-97, Pontefract, None
+31, Brian Lenihan, IRL, D, 1.78, 76, 08-06-94, Cork, Cork C
+32, Greg Luer, ENG, F, 1.80, 73, 06-12-94, Brighton, Burgess Hill T
+33, Johan Ter Horst, ENG, F, 1.75, 72, 06-04-95, Ashford, Folkestone Invicta
+34, Ellis Barkworth, ENG, M, 1.74, 74, 15-10-97, Kingston upon Hull, None
+35, Will Mannion, ENG, G, 1.86, 74, 01-04-98, Hillingdon, AFC Wimbledon
+36, Greg Olley, ENG, M, 1.78, 66, 02-02-96, Durham, Newcastle U
+39, Ben Hinchcliffe, ENG, M, 1.78, 74, 25-09-97, Kingston upon Hull, None
+40, Evandro Goebel, BRA, M, 1.78, 62, 23-08-86, Blumenau, FC Porto
+41, Brandon Fleming, ENG, D, 1.75, 69, 03-12-99, Dewsbury, None
+50, Lazar Marković, SRB, M, 1.75, 65, 02-03-94, Belgrade, Liverpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Harvey Rodgers, ENG, M, 1.79, 79, 20-10-96, York, Accrington Stanley (On Loan)
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, Cardiff C (On Loan)
+14, Jake Livermore, ENG, M, 1.80, 76, 14-11-89, Enfield, WBA
+10, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, West Ham U
+4, Alex Bruce, NIR, D, 1.80, 73, 28-09-84, Norwich, Wigan Ath (On Loan)
+17, James Weir, ENG, M, 1.77, 71, 04-08-95, Preston, Wigan Ath (On Loan)
+37, Josh Clackstone, ENG, D, 1.70, 79, 18-09-96, Beverley, Notts Co (On Loan)
+12, Dušan Kuciak, SVK, G, 1.94, 87, 21-05-85, Bratislava, Lechia Gdańsk

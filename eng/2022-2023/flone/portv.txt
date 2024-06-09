@@ -1,0 +1,42 @@
+=  Port Vale - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aidan Stone, ENG, G, 1.86, 75, 20-07-99, Stafford, Mansfield T
+2, Lewis Cass, ENG, D, 1.85, 74, 07-02-00, North Shields, Newcastle U
+3, Dan Jones, ENG, D, 1.83, 79, 14-12-94, Bishop Auckland, Salford C
+5, Aaron Donnelly, NIR, D, -, -, 08-06-03, -, Nottingham F
+6, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, Millwall
+8, Ben Garrity, ENG, M, 1.83, 74, 21-02-97, Liverpool, Blackpool
+9, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Salford C
+10, Tom Conlon, ENG, M, 1.73, 62, 03-02-96, Stoke-on-Trent, Stevenage
+11, Malvind Benning, ENG, D, 1.78, 77, 02-11-93, Sandwell, Mansfield T
+13, Jamie Proctor, ENG, F, 1.88, 78, 25-03-92, Preston, Rotherham U
+14, Funso Ojo, BEL, M, 1.77, 71, 28-08-91, Antwerp, Aberdeen
+15, Will Forrester, ENG, D, 1.83, 74, 29-06-01, Stoke-on-Trent, Stoke C
+17, Rory Holden, NIR, F, 1.69, 68, 23-08-97, Derry, Walsall
+19, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Wigan Ath
+20, Matty Taylor, ENG, F, 1.76, 72, 30-03-90, Oxford, Oxford U
+21, Ademipo Odubeko, IRL, F, -, -, 21-10-02, Dublin, West Ham U
+22, Ellis Harrison, WAL, F, 1.80, 79, 29-01-94, Newport, Fleetwood T
+23, Tom Pett, ENG, M, 1.73, 70, 03-12-91, Potters Bar, Stevenage
+24, Derek Agyakwa, NED, D, -, -, 19-12-01, Amsterdam, Watford
+25, Jack Stevens, ENG, G, 1.88, 77, 02-08-97, Ealing, Oxford U
+26, Daniel Butterworth, ENG, F, 1.81, 69, 14-09-99, Manchester, Blackburn R
+27, Sammy Robinson, ENG, D, -, -, 09-01-02, Cheltenham, Manchester C
+28, Tommy McDermott, ENG, M, -, -, 01-06-05, Manchester, None
+29, James Plant, ENG, M, -, -, -, -, None
+31, Jack Shorrock, ENG, M, -, -, 28-04-07, Stockport, None
+32, Rhys Walters, ENG, M, -, -, -, -, None
+33, Dennis Politic, ROU, M, 1.85, 78, 05-03-00, Braşov, Cremonese
+34, João Silva Pevide, POR, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Chris Hussey, ENG, D, 1.78, 65, 02-01-89, Hammersmith, Stockport Co
+18, Thierry Small, ENG, D, -, -, 01-08-04, Solihull, Southampton
+30, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, Stoke C
+5, Connor Hall, ENG, D, 1.94, 92, 23-05-93, Huntingdon, Colchester U
+4, Brad Walker, ENG, M, 1.86, 80, 25-04-96, Billingham, Tranmere R
+20, Harry Charsley, IRL, M, 1.78, 64, 01-11-96, Wirral, Newport Co

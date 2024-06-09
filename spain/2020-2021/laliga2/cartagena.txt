@@ -1,0 +1,52 @@
+=  Cartagena - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc Martínez, ESP, G, 1.85, 74, 04-04-90, Barcelona, Recreativo Huelva
+2, David Andújar, ESP, D, 1.88, 79, 21-08-91, Torrejón de Ardoz, Rayo Majadahonda
+3, David Forniés, ESP, D, 1.77, 71, 02-06-91, Valencia, Murcia
+4, Yacouba Coulibaly, BFA, D, 1.70, 62, 02-10-94, Bobo-Dioulasso, BB Erzurumspor
+5, Raúl Navas, ESP, D, 1.86, 84, 11-05-88, Seville, Osasuna
+6, Toni Datković, CRO, D, 1.84, 78, 06-11-93, Zagreb, Aris
+7, Rubén Castro, ESP, F, 1.74, 72, 27-06-81, Las Palmas, Las Palmas
+8, Pablo De Blasis, ARG, M, 1.64, 65, 04-02-88, La Plata, Eibar
+9, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Aris
+10, Álex Gallar, ESP, F, 1.76, 71, 19-03-92, Sabadell, Girona
+11, Elady Zorrilla, ESP, M, 1.78, 75, 13-07-90, La Puerta de Segura, Cracovia Kraków
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Granada
+14, Berto Cayarga, ESP, M, 1.70, 63, 17-09-96, Avilés, Racing Santander
+15, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Deportivo La Coruña
+16, José Ángel Jurado, ESP, M, 1.82, 74, 21-06-92, Seville, Bodø/Glimt
+17, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Oviedo
+18, Adalberto Carrasquilla, PAN, M, 1.70, 64, 28-11-98, Ciudad de Panamá, Tauro
+19, Antoñito, ESP, D, 1.73, 65, 24-12-87, Herrera, Panathinaikos
+20, Carlos David, ESP, D, 1.84, 79, 14-06-86, Mérida, Union St-Gilloise
+21, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Fuenlabrada
+22, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Zaragoza
+23, Nacho Gil, ESP, M, 1.70, 69, 09-09-95, Valencia, Ponferradina
+24, Alberto De La Bella, ESP, D, 1.81, 78, 02-12-85, Santa Coloma de Gramanet, Las Palmas
+25, Leandro Chichizola, ARG, G, 1.86, 82, 27-03-90, San Justo, Getafe
+26, Kleandro Lleshi, ALB, M, 1.89, 70, 09-10-99, Tirana, Leganés B
+27, Esteve Peña, ESP, G, 1.83, 79, 26-04-97, Portocolom, Granada B
+28, Sergio Díaz, ESP, G, -, -, 14-01-98, Lorca, UCAM Murcia B
+30, Uriel Jové, ESP, D, 1.89, 80, 29-07-99, Alicante, Estudiantes Murcia
+32, Neskes, ESP, M, 1.77, 70, 22-11-01, Granada, Granada B
+33, Nacho Pais, ARG, M, -, -, 30-05-00, Quilmes, La Solana
+34, Farru, ESP, D, -, -, 25-02-01, Lorca, Almería B
+39, Antonio Sánchez, ESP, D, -, -, 09-06-00, Huércal-Overa, Cartagena B
+41, Edu Martínez, ESP, M, 1.81, 72, 12-04-99, Santander, Levante B
+42, David Santisteban, ESP, F, -, -, 26-01-01, Murcia, Granada B
+45, Teddy Sutherland, ENG, M, -, -, 28-03-00, Bromley, Cartagena B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Sergio Lozano, ESP, M, 1.75, 70, 24-03-99, Benimuslem, Villarreal B
+6, Miguel Ángel Cordero, ESP, M, 1.79, 72, 10-09-87, Lebrija, Atlético Baleares
+8, Verza, ESP, M, 1.82, 75, 29-09-86, Orihuela, Murcia
+5, Sergio Aguza, ESP, M, 1.75, 68, 02-09-92, Sant Boi, Almería
+17, William De Camargo, BRA, F, 1.69, 70, 01-06-99, São José do Rio Preto, Leganés
+25, Jean-Pierre Rhyner, SUI, D, 1.84, 72, 16-03-96, Zürich, Cádiz
+4, Álex Martín, ESP, D, 1.82, 79, 25-01-98, Las Palmas, Cádiz B
+13, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Paris St-Germain
+9, Simón Moreno, ESP, F, 1.74, 69, 02-07-97, Cartaya, Villarreal B
+12, Jack Harper, SCO, F, 1.85, 75, 28-02-96, Málaga, Getafe

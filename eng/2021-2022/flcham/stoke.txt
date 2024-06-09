@@ -1,0 +1,51 @@
+=  Stoke City - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Tommy Smith, ENG, D, 1.86, 75, 14-04-92, Warrington, Huddersfield T
+3, Morgan Fox, WAL, D, 1.85, 78, 21-09-93, Chelmsford, Sheffield W
+4, Joe Allen, WAL, M, 1.70, 62, 14-03-90, Carmarthen, Liverpool
+5, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, Aston Villa
+6, Liam Moore, JAM, D, 1.86, 86, 31-01-93, Leicester, Reading
+7, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Swansea C
+8, Mario Vrančić, BIH, M, 1.86, 75, 23-05-89, Slavonski Brod, Norwich C
+9, Steven Fletcher, SCO, F, 1.85, 76, 26-03-87, Shrewsbury, Sheffield W
+10, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+12, Josef Bursik, ENG, G, 1.87, 70, 12-07-00, Lambeth, AFC Wimbledon
+13, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Gillingham
+14, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, Hull C
+15, Jordan Thompson, NIR, M, 1.75, 65, 03-01-97, Belfast, Blackpool
+16, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Watford
+18, Jacob Brown, SCO, F, 1.78, 62, 10-04-98, Halifax, Barnsley
+19, Phil Jagielka, ENG, D, 1.83, 83, 17-08-82, Sale, Derby Co
+20, Tashan Oakley-Boothe, ENG, M, 1.78, 70, 14-02-00, Lambeth, Tottenham H
+21, Demeaco Duhaney, ENG, D, 1.80, 70, 13-10-98, Manchester, Huddersfield T
+24, Taylor Harwood-Bellis, ENG, D, 1.88, 82, 30-01-02, Stockport, Manchester C
+25, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Wigan Ath
+26, Will Forrester, ENG, D, 1.83, 74, 29-06-01, Stoke-on-Trent, None
+27, Abdallah Sima, SEN, F, 1.88, 74, 17-06-01, Dakar, Brighton & HA
+28, Romaine Sawyers, SKN, M, 1.75, 67, 02-11-91, Birmingham, WBA
+29, Frank Fielding, ENG, G, 1.85, 75, 04-04-88, Blackburn, Millwall
+32, D'Margio Wright-Phillips, ENG, M, 1.70, 62, 24-09-01, Manchester, Manchester C
+33, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Bordeaux
+36, Harry Souttar, AUS, D, 1.98, 80, 22-10-98, Aberdeen, Dundee U
+37, Emre Tezgel, ENG, F, 1.82, 72, 19-09-05, Burton upon Trent, None
+38, Adam Porter, ENG, M, 1.87, 77, 08-04-02, Stoke-on-Trent, None
+39, Tom Sparrow, WAL, M, 1.77, 74, 06-12-02, Peterborough, None
+40, Blondy Nna Noukeu, CMR, G, 1.84, 70, 17-09-01, -, None
+42, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+44, Christian Norton, WAL, F, -, -, 21-05-01, Westminster, Southampton
+45, Tommy Simkin, ENG, G, -, -, 08-12-04, Walsall, None
+47, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, Aston Villa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, Wigan Ath
+19, Leo Østigård, NOR, D, 1.82, 80, 28-11-99, Molde, Brighton & HA
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Sunderland
+1, Adam Davies, WAL, G, 1.85, 75, 17-07-92, Rinteln, Sheffield U
+11, Alfie Doughty, ENG, M, 1.83, 68, 21-12-99, Hatfield, Cardiff C (On Loan)
+22, Sam Surridge, ENG, F, 1.91, 77, 28-07-98, Slough, Nottingham F
+23, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Reading (On Loan)
+35, Eddy Jones, WAL, D, -, -, 25-10-01, Chester, Altrincham (On Loan)
+34, Lewis Macari, SCO, D, 1.83, 82, 08-02-02, Stoke-on-Trent, Dundalk (On Loan)

@@ -1,0 +1,39 @@
+=  AIK - Swedish Allsvenskan 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Sotiris Papagiannopoulos, SWE, D, 1.90, 88, 05-09-90, Stockholm, FC København
+5, Alexander Milošević, SWE, D, 1.91, 82, 30-01-92, Sundbyberg, Vejle
+6, Jetmir Haliti, SWE, D, 1.84, 80, 14-09-96, Växjö, Jönköpings Södra IF
+7, Anton Salétros, SWE, M, 1.83, 69, 12-04-96, Stockholm, Caen
+8, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Dijon
+9, Omar Faraj, SWE, F, 1.75, 65, 09-03-02, Stockholm, Levante B
+10, Jimmy Durmaz, SWE, M, 1.80, 69, 22-03-89, Örebro, Fatih Karagümrük
+11, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, Alavés
+12, Axel Björnström, SWE, D, 1.76, 65, 10-09-95, Danderyd, Arsenal Tula
+14, Abdussalem Magashy, NGA, M, 1.71, 74, 06-04-98, Kano, IFK Värnamo
+15, Kristoffer Nordfeldt, SWE, G, 1.90, 85, 23-06-89, Stockholm, Gençlerbirliği
+16, Benjamin Tiedemann Hansen, DEN, D, 1.90, 73, 07-02-94, Bogense, Molde
+17, Mads Døhr Thychosen, DEN, D, 1.78, 65, 27-06-97, Vejle, FC Midtjylland
+18, Abdihakin Ali, SWE, M, 1.78, 68, 22-01-02, Solna, Vasalunds IF
+19, Dino Beširović, BIH, M, 1.79, 66, 31-01-94, Viseu, Mezőkövesd
+20, Zak Elbouzedi, IRL, F, 1.80, 70, 05-04-98, Dublin, Lincoln C
+22, Aboubakar Keita, CIV, M, 1.88, 70, 05-11-97, Abidjan, Charleroi
+23, Budimir Janošević, SRB, G, 1.90, 86, 21-10-89, Belgrade, IF Brommapojkarna
+24, Lamine Dabo, ESP, M, 1.82, 77, 30-01-04, Kandiounkou, Constància
+25, Erick Otieno, KEN, D, 1.68, 70, 27-09-96, Nyando, Vasalunds IF
+28, Ioannis Pittas, CYP, F, 1.80, 71, 10-07-96, Limassol, Apollon Limassol
+32, Rui Modesto, POR, M, 1.80, 72, 07-10-99, Vendas Novas, FC Honka
+34, Benji Kimpioka, SWE, M, 1.82, 67, 21-02-00, Knivsta, Sunderland
+35, Samuel Brolin, SWE, G, 2.02, 85, 29-09-00, Lidköping, None
+43, Victor Andersson, SWE, M, 1.74, 67, 22-10-04, Danderyd, Djurgårdens IF
+45, Taha Ayari, SWE, M, 1.77, 70, 10-05-05, Solna, None
+47, Alexander Fesshaie, SWE, F, 1.79, 67, 22-02-04, Solna, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Viktor Fischer, DEN, M, 1.80, 71, 09-06-94, Aarhus, Royal Antwerp
+17, Vincent Thill, LUX, M, 1.76, 69, 04-02-00, Luxembourg, Vorskla Poltava
+21, Elias Durmaz, SWE, F, 1.77, 67, 21-04-00, Örebro, GIF Sundsvall (On Loan)
+16, Robin Tihi, SWE, D, 1.85, 85, 16-03-02, Danderyd, Al-Ahli [QAT]
+8, Bilal Hussein, SWE, M, 1.83, 76, 22-04-00, Stockholm, Hertha Berlin

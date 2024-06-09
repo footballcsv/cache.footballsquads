@@ -1,0 +1,37 @@
+=  NEC Nijmegen - Dutch Eredivisie 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattijs Branderhorst, NED, G, 1.92, 87, 31-12-93, Tiel, Willem II
+2, Ilias Bronkhorst, NED, D, 1.85, 79, 10-05-97, Haarlem, Telstar
+3, Rens van Eijden, NED, D, 1.88, 81, 03-03-88, Oss, AZ Alkmaar
+4, Iván Márquez, ESP, D, 1.91, 80, 09-06-94, Marbella, Cracovia Kraków
+5, Rodrigo Guth, BRA, D, 1.91, 79, 10-11-00, Curitiba, Atalanta
+6, Jordy Bruijn, NED, M, 1.71, 67, 23-07-96, Amsterdam, SC Heerenveen
+7, Elayis Tavşan, NED, F, 1.83, 74, 30-04-01, Rotterdam, Sparta Rotterdam
+8, Edgar Barreto, PAR, M, 1.80, 79, 15-07-84, Asunción, Sampdoria
+9, Ali Akman, TUR, F, 1.73, 66, 18-04-02, Bursa, Eintracht Frankfurt
+10, Jonathan Okita, BEL, F, 1.80, 75, 05-10-95, Paris, MVV Maastricht
+11, Magnus Mattsson, DEN, F, 1.74, 62, 25-02-99, Marstal, Silkeborg
+12, Wilfried Bony, CIV, F, 1.82, 88, 10-12-88, Bingerville, Al-Ittihad [KSA]
+14, Mikkel Duelund, DEN, M, 1.80, 70, 29-06-97, Aarhus, Dynamo Kyiv
+15, Javier Vet, NED, M, 1.92, 84, 09-09-93, Amsterdam, De Graafschap
+16, Souffian El Karouani, MAR, D, 1.78, 70, 19-10-00, ’s-Hertogenbosch, USV Elinkwijk
+18, Mathias de Wolf, BEL, M, 1.87, 76, 21-02-02, Leuven, Club Brugge
+19, Pedro Ruiz, ESP, F, 1.94, 82, 30-03-00, Seville, Marseille
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, SC Heerenveen
+22, Joep van der Sluijs, NED, F, 1.80, 68, 01-12-01, Druten, DIO '30 Druten
+24, Calvin Verdonk, NED, D, 1.74, 70, 26-04-97, Dordrecht, Famalicão
+26, Cas Odenthal, NED, D, 1.90, 75, 26-09-00, Leersum, FC Utrecht
+27, Danny Vukovic, AUS, G, 1.87, 96, 27-03-85, Sydney, KRC Genk
+28, Bart van Rooij, NED, D, 1.74, 71, 26-05-01, Escharen, None
+30, Guus Gertsen, NED, D, 1.89, 74, 16-04-03, Bemmel, None
+31, Robin Roefs, NED, G, 1.92, 72, 17-01-03, Heeswijk, None
+32, Ibrahim Cissoko, NED, F, 1.74, 67, 26-03-03, Nijmegen, None
+71, Dirk Proper, NED, M, 1.68, 63, 24-02-02, Elst, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Kevin Bukusu, GER, D, 1.88, 91, 27-02-01, Aachen, Helmond Sport (On Loan)
+23, Thomas Beekman, NED, M, 1.87, 73, 23-01-00, Arnhem, Vitesse
+17, Ole Romeny, NED, F, 1.85, 81, 20-06-00, Nijmegen, Helmond Sport (On Loan)

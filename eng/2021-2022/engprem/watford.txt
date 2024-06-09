@@ -1,0 +1,58 @@
+=  Watford - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Foster, ENG, G, 1.93, 90, 03-04-83, Leamington, WBA
+2, Jeremy Ngakia, ENG, D, 1.84, 71, 07-09-00, Lewisham, West Ham U
+3, Danny Rose, ENG, D, 1.74, 76, 02-07-90, Doncaster, Tottenham H
+4, Oghenekaro Etebo, NGA, M, 1.76, 70, 09-11-95, Lagos, Stoke C
+5, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, Udinese
+6, Imrân Louza, MAR, M, 1.78, 65, 01-05-99, Nantes, Nantes
+7, Joshua King, NOR, F, 1.80, 74, 15-01-92, Oslo, Everton
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+10, João Pedro, BRA, F, 1.82, 70, 26-09-01, Ribeirão Preto, Fluminense
+11, Adam Masina, MAR, D, 1.91, 87, 02-01-94, Khouribga, Bologna
+12, Ken Sema, SWE, M, 1.77, 69, 30-09-93, Norrköping, Östersunds FK
+13, Nicolas Nkoulou, CMR, D, 1.84, 77, 27-03-90, Yaoundé, Torino
+14, Hassane Kamara, CIV, D, 1.68, 67, 19-09-94, Saint-Denis, Nice
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+16, Dan Gosling, ENG, M, 1.83, 79, 02-02-90, Brixham, Bournemouth
+19, Moussa Sissoko, FRA, M, 1.87, 91, 16-08-89, Le Blanc Mesnil, Tottenham H
+21, Kiko Femenía, ESP, M, 1.74, 61, 02-02-91, Sanet y Negrals, Alavés
+22, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, Udinese
+23, Ismaïla Sarr, SEN, F, 1.78, 68, 25-02-98, Saint-Louis, Rennes
+25, Emmanuel Dennis, NGA, F, 1.74, 67, 15-11-97, Abuja, Club Brugge
+26, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Stoke C
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+28, Samuel Kalu, NGA, F, 1.76, 68, 26-08-97, Aba, Bordeaux
+29, Cucho Hernández, COL, F, 1.75, 73, 22-04-99, Pereira, Deportivo Pereira
+31, Francisco Sierralta, CHI, D, 1.90, 83, 06-05-97, Las Condes, Udinese
+33, Juraj Kucka, SVK, M, 1.86, 86, 26-02-87, Bojnice, Parma
+34, Kwadwo Baah, GER, F, 1.83, 75, 27-01-03, Horb am Neckar, Rochdale
+35, Robert Elliot, IRL, G, 1.90, 98, 30-04-86, Chatham, Newcastle U
+39, Edo Kayembe, COD, M, 1.83, 77, 03-06-98, Kananga, Eupen
+41, Vincent Angelini, SCO, G, 1.86, 80, 12-09-03, Glasgow, Celtic
+42, James Morris, ENG, D, -, -, 23-11-01, Portsmouth, Southampton
+45, Kamil Conteh, ENG, M, -, -, 26-12-02, Lambeth, None
+46, Dante Baptiste, ENG, G, 1.87, 71, 07-02-02, Westminster, Norwich C
+47, Shaqai Forde, ENG, F, -, -, 05-05-04, Watford, None
+48, Derek Agyakwa, NED, D, -, -, 19-12-01, Amsterdam, FC Twente
+49, Tiago Çukur, TUR, F, 1.96, 80, 30-11-02, Amsterdam, AZ Alkmaar
+50, Adrian Blake, ENG, F, -, -, 15-07-05, Islington, None
+51, Jack Grieves, ENG, F, -, -, 05-12-04, Watford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Joseph Hungbo, ENG, M, 1.73, 70, 15-01-00, Lambeth, Ross Co (On Loan)
+37, Stipe Perica, CRO, F, 1.92, 76, 07-07-95, Zadar, Maccabi Tel Aviv
+22, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Udinese
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, Crystal Palace
+32, Mattie Pollock, ENG, D, 1.90, 80, 28-09-01, Redhill, Cheltenham T (On Loan)
+9, Troy Deeney, ENG, F, 1.85, 101, 29-06-88, Birmingham, Birmingham C
+14, Nathaniel Chalobah, ENG, M, 1.87, 80, 12-12-94, Freetown, Fulham
+18, Andre Gray, JAM, F, 1.78, 83, 26-06-91, Wolverhampton, QPR (On Loan)
+38, Marc Navarro, ESP, D, 1.88, 79, 02-07-95, Barcelona, 
+37, Jaime Alvarado, COL, M, 1.81, 76, 26-07-99, Santa Marta, Fortaleza [COL]
+20, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Barnsley (On Loan)
+18, Ozan Tufan, TUR, M, 1.79, 70, 23-03-95, Bursa, Fenerbahçe
+17, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, New York Red Bulls (On Loan)

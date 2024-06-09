@@ -1,0 +1,42 @@
+=  Chaves - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Souza, BRA, G, 1.96, 94, 31-01-99, Duque de Caxias, Flamengo
+2, Habib Sylla, CIV, D, 1.77, 73, 12-02-99, Agboville, União de Leiria
+3, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, Santa Clara
+4, Bruno Rodrigues, BRA, D, 1.92, 86, 08-06-01, Barreiro, Sporting Braga
+6, Thibang Phete, RSA, M, 1.87, 77, 04-04-94, Kimberley, Al-Bataeh
+7, Benny, POR, M, 1.78, 73, 27-03-00, Treixedo, Sporting CP
+9, Paulo Victor, BRA, F, 1.80, 70, 21-03-01, Paranaíba, Ituano
+10, Leandro Sanca, POR, F, 1.84, 73, 04-01-00, Lisbon, Spezia
+13, Vasco Fernandes, POR, D, 1.80, 70, 13-11-86, Olhão, Casa Pia
+14, Dário Essugo, POR, M, 1.79, 76, 14-03-05, Lisbon, Sporting CP
+18, Pedro Pinho, POR, M, 1.89, 82, 06-04-00, Vale de Cambra, Sanjoanense
+19, Steven Vitória, CAN, D, 1.95, 86, 11-01-87, Toronto, Moreirense
+20, Rúben Ribeiro, POR, M, 1.75, 67, 01-08-87, Ramalde, Hatayspor
+21, Guima, MOZ, M, 1.81, 75, 14-11-95, Aveiro, ŁKS Łódź
+23, Héctor Hernández, ESP, F, 1.80, 72, 14-09-95, Las Palmas, Rayo Majadahonda
+27, Carraça, POR, D, 1.77, 74, 01-03-93, Folgosa da Maia, FC Porto
+28, Kelechi Nwakali, NGA, M, 1.81, 74, 05-06-98, Owerri, Ponferradina
+30, Gonçalo Pinto, POR, G, 1.94, 78, 30-04-00, Almada, Sporting CP
+31, Rodrigo Moura, BRA, G, 1.98, 92, 25-01-96, Brasília, Trofense
+33, Sandro Cruz, POR, D, 1.82, 76, 12-05-01, Braga, Benfica
+40, Júnior Pius, NGA, D, 1.93, 74, 20-12-95, Eman, FC Botoșani
+70, Hélder Morim, POR, M, 1.75, 67, 14-05-01, Póvoa de Varzim, Leixões
+77, João Correia, CPV, D, 1.75, 68, 05-09-96, Setúbal, Vitória Guimarães
+80, Raphael Guzzo, POR, M, 1.77, 70, 06-01-95, São Paulo, Goiás
+87, Rodrigo Melro, POR, F, 1.77, 67, 14-03-04, Chaves, Famalicão
+99, Jô Batista, BRA, F, 1.92, 90, 01-05-95, Teófilo Otoni, Sporting Covilhã
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Picas, ANG, F, 1.70, 68, 14-02-01, Luanda, Feirense (On Loan)
+72, Guilherme Oliveira, BRA, D, 1.93, 89, 02-12-99, -, Feirense (On Loan)
+96, Ktatau, BRA, M, 1.80, 75, 13-07-01, Divinópolis, Felgueiras (On Loan)
+24, Edu Borges, POR, D, 1.85, 78, 27-05-02, Chaves, Trofense (On Loan)
+22, Rúben Lameiras, POR, M, 1.75, 70, 22-12-94, Lisbon, Casa Pia
+8, João Pedro, POR, M, 1.77, 74, 03-04-93, Guimarães, UTA Arad
+44, João Queirós, POR, D, 1.90, 81, 22-04-98, Viana do Castelo, Mafra
+5, Bruno Langa, MOZ, D, 1.78, 70, 31-10-97, Maputo, Almería (On Loan)
+11, Issah Abass, GHA, F, 1.73, 67, 26-09-98, Asokwa, Sepahan (On Loan)

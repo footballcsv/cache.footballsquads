@@ -1,0 +1,58 @@
+=  Huddersfield Town - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Pipa, ESP, D, 1.75, 68, 26-01-98, Esparraguera, Espanyol
+3, Harry Toffolo, ENG, D, 1.83, 71, 19-08-95, Welwyn Garden City, Lincoln C
+4, Matty Pearson, ENG, D, 1.90, 72, 03-08-93, Keighley, Luton T
+5, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, Fuenlabrada
+6, Jonathan Hogg, ENG, M, 1.70, 67, 06-12-88, Middlesbrough, Watford
+7, Tino Anjorin, ENG, M, 1.85, 73, 23-11-01, Poole, Chelsea
+8, Lewis O'Brien, ENG, M, 1.73, 63, 14-10-98, Colchester, None
+9, Jordan Rhodes, SCO, F, 1.85, 71, 05-02-90, Oldham, Sheffield W
+10, Josh Koroma, ENG, F, 1.78, 66, 08-11-98, Southwark, Leyton Orient
+11, Rolando Aarons, ENG, M, 1.75, 67, 16-11-95, Kingston, Newcastle U
+13, Jacob Chapman, AUS, G, 1.85, 80, 22-10-00, Wahroonga, Marconi Stallions
+14, Josh Ruffels, ENG, D, 1.78, 75, 23-10-93, Oxford, Oxford U
+15, Scott High, SCO, M, 1.77, 65, 15-02-01, Dewsbury, None
+16, Sorba Thomas, WAL, F, 1.85, 74, 22-08-99, Newham, Boreham Wood
+18, Jamal Blackman, ENG, G, 1.96, 82, 27-10-93, Croydon, Los Angeles FC
+19, Duane Holmes, USA, M, 1.72, 65, 06-11-94, Wakefield, Derby Co
+20, Oliver Turton, ENG, D, 1.80, 75, 06-12-92, Manchester, Blackpool
+21, Lee Nicholls, ENG, G, 1.91, 85, 05-10-92, Huyton, MK Dons
+22, Fraizer Campbell, ENG, F, 1.72, 83, 13-09-87, Huddersfield, Hull C
+23, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, Charlton Ath
+24, Danel Sinani, LUX, F, 1.85, 70, 05-04-97, Belgrade, Norwich C
+25, Danny Ward, ENG, F, 1.80, 78, 11-12-91, Leeds, Cardiff C
+26, Levi Colwill, ENG, D, 1.87, 75, 26-02-03, Southampton, Chelsea
+28, Daniel Grant, IRL, F, 1.73, 70, 23-10-00, Dublin, Bohemians
+29, Aaron Rowe, ENG, M, 1.77, 69, 07-09-00, Hackney, Leyton Orient
+31, Ryan Schofield, ENG, G, 1.90, 70, 11-12-99, Huddersfield, None
+32, Tom Lees, ENG, D, 1.85, 78, 28-11-90, Warwick, Sheffield W
+37, Jon Russell, ENG, M, 1.92, 81, 09-10-00, Hounslow, Chelsea
+39, Jaheim Headley, ENG, D, 1.75, 70, 24-09-01, Lambeth, None
+40, Myles Bright, ENG, M, 1.74, -, 18-10-02, Lambeth, Lambeth Tigers
+41, Giosue Bellagambi, ENG, G, 1.89, 77, 08-11-01, Croydon, None
+44, Michael Roxburgh, ENG, G, 1.87, 78, 09-03-03, Stockton-on-Tees, Hartlepool U
+45, Etienne Camara, FRA, M, 1.90, 72, 30-03-03, Noisy-le-Grand, Angers
+46, Max Dearnley, ENG, G, -, -, -, -, Ossett U
+47, Michael Acquah, ENG, G, -, -, 24-03-04, -, Southend Manor Farm
+48, Carel Eiting, NED, M, 1.81, 74, 11-02-98, Amsterdam, KRC Genk
+49, Pat Jones, WAL, M, 1.80, 70, 09-06-03, Stockport, Wrexham
+50, Loick Ayina, FRA, D, 1.83, 75, 20-04-03, Brazzaville, Sarcelles
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Rarmani Edmonds-Green, ENG, D, 1.81, 73, 14-01-99, Peckham, Rotherham U (On Loan)
+7, Juninho Bacuna, CUW, M, 1.85, 78, 07-08-97, Groningen, Rangers
+18, Isaac Mbenza, BEL, M, 1.87, 77, 08-03-96, Saint-Denis, Qatar SC
+7, Ademipo Odubeko, IRL, F, -, -, 21-10-02, Dublin, West Ham U
+33, Josh Austerfield, ENG, M, 1.79, 57, 02-11-01, Leeds, Harrogate T (On Loan)
+38, Brahima Diarra, FRA, M, 1.74, 68, 05-07-03, Paris, Harrogate T (On Loan)
+43, Kian Harratt, ENG, F, 1.79, 64, 21-06-02, Pontefract, Port Vale (On Loan)
+27, Romoney Crichlow-Noble, ENG, D, 1.84, 74, 03-06-99, Luton, Plymouth Arg (On Loan)
+34, Matty Daly, ENG, M, 1.76, 75, 10-03-01, Stockport, Bradford C (On Loan)
+30, Ben Jackson, ENG, M, 1.78, 70, 22-02-01, Stockport, Doncaster R (On Loan)
+12, Reece Brown, ENG, M, 1.75, 78, 03-03-96, Dudley, Peterborough U (On Loan)
+17, Kieran Phillips, ENG, F, 1.81, 74, 23-06-00, Pontefract, Exeter C (On Loan)
+42, Nicholas Bilokapic, AUS, G, 1.96, 82, 08-09-02, Camperdown, Hartlepool U (On Loan)

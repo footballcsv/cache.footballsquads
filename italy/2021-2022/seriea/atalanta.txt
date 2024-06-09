@@ -1,0 +1,46 @@
+=  Atalanta - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, Udinese
+2, Rafael Tolói, ITA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, São Paulo
+3, Joakim Mæhle, DEN, D, 1.84, 80, 20-05-97, Østervrå, KRC Genk
+6, José Luis Palomino, ARG, D, 1.88, 87, 05-01-90, San Miguel de Tucumán, Ludogorets Razgrad
+7, Teun Koopmeiners, NED, M, 1.83, 77, 28-02-98, Amsterdam, AZ Alkmaar
+9, Luis Muriel, COL, F, 1.79, 79, 16-04-91, Santo Tomás, Sevilla
+10, Jérémie Boga, CIV, F, 1.72, 68, 03-01-97, Marseille, Sassuolo
+11, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Luzern
+13, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Parma
+15, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Middlesbrough
+18, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, KRC Genk
+19, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Zürich, Zürich
+20, Valentin Mihăilă, ROU, F, 1.77, 61, 02-02-00, Finta, Parma
+28, Merih Demiral, TUR, D, 1.92, 86, 05-03-98, Kocaeli, Juventus
+31, Francesco Rossi, ITA, G, 1.93, 83, 27-04-91, Merate, None
+32, Matteo Pessina, ITA, M, 1.83, 75, 21-04-97, Monza, Milan
+33, Hans Hateboer, NED, D, 1.87, 74, 09-01-94, Beerta, FC Groningen
+42, Giorgio Scalvini, ITA, D, 1.94, 76, 11-12-03, Chiari, None
+43, Matevž Dajčar, SVN, G, 1.90, 80, 05-02-02, -, Domžale
+44, Andrea Oliveri, ITA, M, 1.81, 76, 14-01-03, Palermo, Palermo
+45, Federico Zuccon, ITA, M, 1.88, 74, 01-04-03, Genoa, Sampdoria
+48, Simone Panada, ITA, M, 1.75, 68, 02-06-02, Brescia, None
+49, Samuel Giovane, ITA, M, 1.81, 73, 28-03-03, Lugo, Cesena
+50, Tommaso De Nipoti, ITA, F, 1.80, 64, 23-07-03, Udine, Udinese
+51, Alassane Sidibe, CIV, M, 1.77, 71, 09-06-02, Abidjan, None
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Poggibonsi
+59, Aleksey Miranchuk, RUS, M, 1.82, 74, 17-10-95, Slavyansk-na-Kubani, Lokomotiv Moscow
+72, Josip Iličić, SVN, F, 1.90, 79, 29-01-88, Kranj, Fiorentina
+77, Davide Zappacosta, ITA, D, 1.85, 70, 11-06-92, Sora, Chelsea
+88, Mario Pašalić, CRO, M, 1.88, 82, 09-02-95, Mainz, Chelsea
+91, Duván Zapata, COL, F, 1.89, 88, 01-04-91, Cali, Sampdoria
+99, Moustapha Cissé, GUI, F, 1.82, 75, 14-09-03, Conakry, Rinascita Refugees
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+60, Jacopo Da Riva, ITA, M, 1.84, 78, 27-10-00, Montebelluna, SPAL (On Loan)
+4, Boško Šutalo, CRO, D, 1.88, 72, 01-01-00, Metković, Verona (On Loan)
+7, Sam Lammers, NED, F, 1.91, 77, 30-04-97, Tilburg, Eintracht Frankfurt (On Loan)
+24, Enrico Delprato, ITA, M, 1.86, 76, 10-11-99, Grassobbio, Parma (On Loan)
+66, Matteo Lovato, ITA, D, 1.88, 78, 14-02-00, Monselice, Cagliari (On Loan)
+99, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Genoa (On Loan)
+8, Robin Gosens, GER, D, 1.83, 76, 05-07-94, Emmerich, Internazionale (On Loan)

@@ -1,0 +1,79 @@
+=  Parma - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.92, 92, 28-01-78, Carrara, Juventus
+3, Daan Dierckx, BEL, D, 1.92, 81, 24-02-03, Leuven, KRC Genk
+4, Botond Balogh, HUN, D, 1.89, 76, 06-06-02, Sopron, MTK
+5, Danilo, BRA, D, 1.85, 75, 10-05-84, São Bernardo do Campo, Bologna
+7, Francesco Cassata, ITA, M, 1.83, 75, 16-07-97, Sarzana, Genoa
+8, Juan Francisco Brunetta, ARG, M, 1.75, 68, 12-05-97, Córdoba, Godoy Cruz (Mendoza)
+9, Gennaro Tutino, ITA, F, 1.77, 76, 20-08-96, Naples, Napoli
+10, Franco Vázquez, ARG, M, 1.87, 80, 22-02-89, Tanti, Sevilla
+11, Stanko Jurić, CRO, M, 1.89, 83, 16-08-96, Split, Hajduk Split
+14, Giovanni Vaglica, ITA, D, 1.88, -, 06-02-03, Palermo, Palermo
+15, Enrico Delprato, ITA, M, 1.83, 76, 10-11-99, Grassobbio, Atalanta
+16, Adrián Bernabé, ESP, M, 1.70, 66, 26-05-01, Barcelona, Manchester C
+17, Adrian Benedyczak, POL, F, 1.91, 81, 24-11-00, Kamień Pomorski, Pogoń Szczecin
+18, Giacomo Marconi, ITA, F, -, -, 01-08-05, Montecchio Emilia, None
+19, Simon Sohm, SUI, M, 1.88, 85, 11-04-01, Zürich, Zürich
+20, Vassilis Zagaritis, GRE, D, 1.77, 68, 04-05-01, Thiva, Panathinaikos
+21, Pasquale Schiattarella, ITA, M, 1.78, 70, 30-05-87, Mugnano di Napoli, Benevento
+22, Martin Turk, SVN, G, 1.87, 72, 21-08-03, Koper, Koper
+23, Drissa Camara, CIV, M, 1.79, 69, 18-02-02, Abobo, None
+24, Yordan Osorio, VEN, D, 1.89, 77, 10-05-94, Barinas, FC Porto
+25, Elias Cobbaut, BEL, D, 1.88, 78, 24-11-97, Mechelen, Anderlecht
+26, Woyo Coulibaly, FRA, D, 1.85, 77, 26-05-99, Gonesse, Le Havre
+27, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Genoa
+29, Aliou Traoré, FRA, M, 1.88, 83, 08-01-01, Sarcelles, Manchester U
+30, Lautaro Valenti, ARG, D, 1.88, 80, 14-01-99, Rosario, Lanús
+34, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Carpi
+37, Ange-Yoan Bonny, FRA, F, 1.89, 86, 25-10-03, Aubervilliers, Châteauroux
+39, Alessandro Circati, AUS, D, 1.91, 80, 10-10-03, Fidenza, Perth Glory
+40, Ahmed Ankrah, GHA, M, 1.82, -, 05-01-02, Drobo, None
+44, Filippo Costa, ITA, D, 1.75, 70, 21-05-95, Noventa Vicentina, Napoli
+45, Roberto Inglese, ITA, F, 1.86, 85, 12-11-91, Lucera, Napoli
+46, Francesco Borriello, ITA, G, 1.88, 69, 25-07-05, Catania, Catania
+48, Andrea Piga, ITA, G, 1.92, -, 07-04-04, Parma, None
+49, Alberto Rossi, ITA, G, 1.92, -, 21-07-03, Genoa, Sampdoria
+50, Jayden Oosterwolde, NED, D, 1.89, 74, 26-04-01, Zwolle, FC Twente
+60, Djoseph Bangala, SWE, M, -, -, 30-01-05, Österhaninge, AIK
+61, Damiano Basili, ITA, M, 1.72, -, 02-02-04, Rome, Chievo Verona
+63, Matteo Cucci, ITA, D, 1.78, 71, 20-02-01, Nardò, Lecce
+66, Bence Fiáth, HUN, M, 1.85, -, 18-01-04, Siófok, Vasas
+72, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Fiorentina
+74, Bartłomiej Maliszewski, POL, G, 1.95, 83, 12-02-04, -, Jagiellonia Białystok
+75, Andrea Mallamo, ITA, M, 1.77, 65, 22-10-02, Vizzolo Predabissi, Atalanta
+76, Enej Marsetič, SVN, F, -, -, 04-12-04, Izola, Koper
+77, Félix Correia, POR, F, 1.80, 65, 22-01-01, Lisbon, Juventus
+79, Matías Mir, ESP, M, 1.82, 74, 26-05-03, Las Palmas, Peñarol
+82, Ledjan Sahitaj, SUI, D, -, -, 12-01-04, Uznach, Grasshoppers
+84, Dario Sits, LVA, F, 1.87, -, 04-02-04, Riga, FK Metta
+85, Mattia Sprocati, ITA, F, 1.78, 70, 28-04-93, Monza, Lazio
+86, Emmanuel Tannor, SWE, F, -, -, 12-01-05, Accra, IFK Göteborg
+90, Andrea Rispoli, ITA, D, 1.88, 78, 29-09-88, Cava de' Tirreni, Crotone
+98, Dennis Man, ROU, F, 1.83, 82, 26-08-98, Vladimirescu, FCSB
+99, Simy Nwankwo, NGA, F, 1.98, 84, 07-05-92, Lagos, Salernitana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+80, Manuel Nocciolini, ITA, F, 1.82, 78, 18-05-89, Piombino, Monopoli
+88, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Cagliari (On Loan)
+64, Kastriot Dërmaku, ALB, D, 1.95, 73, 15-01-92, Scandiano, Lecce
+65, Andrea Dini, ITA, G, 1.84, 79, 20-02-96, Cattolica, Fidelis Andria (On Loan)
+5, Riccardo Gagliolo, SWE, D, 1.82, 75, 28-04-90, Imperia, Salernitana
+16, Gastón Brugman, URU, M, 1.78, 75, 07-09-92, Rosario, Oviedo (On Loan)
+67, Francesco Golfo, ITA, F, 1.65, 62, 05-09-94, Palermo, Vibonese (On Loan)
+69, Eric Lanini, ITA, F, 1.84, 74, 25-02-94, Turin, Reggiana (On Loan)
+81, Giacomo Ricci, ITA, D, 1.84, 74, 02-09-96, Livorno, Bari
+68, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Fatih Karagümrük (On Loan)
+27, Maxime Busi, BEL, D, 1.82, 75, 14-10-99, Liège, Reims (On Loan)
+7, Daniele Iacoponi, ITA, F, 1.75, 68, 25-03-02, Rome, Pordenone (On Loan)
+33, Luigi Sepe, ITA, G, 1.91, 75, 08-05-91, Torre del Greco, Salernitana (On Loan)
+87, Luca Siligardi, ITA, F, 1.79, 73, 26-01-88, Correggio, Feralpisalò
+28, Valentin Mihăilă, ROU, F, 1.77, 61, 02-02-00, Finta, Atalanta (On Loan)
+2, Simone Iacoponi, ITA, D, 1.80, 68, 30-04-87, Pontedera, Teramo
+78, Alessandro Martella, ITA, D, 1.80, 70, 30-11-00, Pescara, Tsarsko Selo (On Loan)
+62, Davide Cipolletti, ITA, M, 1.82, 72, 30-03-01, Teramo, Tsarsko Selo (On Loan)
+73, André Lopes Silva, POR, F, 1.83, -, 18-03-03, Macieira de Alcôba, Farense (On Loan)
+70, Michele Laraspata, ITA, D, 1.83, 71, 02-06-01, Bari, ND Gorica (On Loan)

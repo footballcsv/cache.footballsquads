@@ -1,0 +1,49 @@
+=  Valladolid - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jordi Masip, ESP, G, 1.80, 72, 03-01-89, Sabadell, Barcelona
+2, Luis Pérez, ESP, D, 1.72, 68, 04-02-95, Utrera, Tenerife
+4, Kike Pérez, ESP, M, 1.84, 80, 14-02-97, Gálvez, Lugo
+5, Javi Sánchez, ESP, D, 1.86, 71, 14-03-97, Getafe, Real Madrid B
+6, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Córdoba
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Levante
+8, Monchu, ESP, M, 1.73, 68, 13-09-99, Palma de Mallorca, Granada
+9, Selim Amallah, MAR, M, 1.80, 70, 15-11-96, Hautrage, Standard Liège
+10, Óscar Plano, ESP, M, 1.80, 68, 11-02-91, Móstoles, Alcorcón
+11, Gonzalo Plata, ECU, M, 1.78, 65, 01-11-00, Guayaquil, Sporting CP
+12, Lucas Olaza, URU, D, 1.77, 75, 21-07-94, Montevideo, Boca Juniors
+13, Sergio Asenjo, ESP, G, 1.89, 87, 28-06-89, Palencia, Villarreal
+15, Jawad El Yamiq, MAR, D, 1.90, 83, 29-02-92, Khourigba, Genoa
+17, Roque Mesa, ESP, M, 1.71, 74, 07-06-89, Telde, Sevilla
+18, Sergio Escudero, ESP, D, 1.76, 65, 02-09-89, Valladolid, Granada
+19, Kenedy, BRA, M, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+20, Martin Hongla, CMR, M, 1.81, 78, 16-03-98, Yaoundé, Verona
+21, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Birmingham C
+22, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Juárez
+23, Anuar, MAR, M, 1.72, 63, 15-01-95, Ceuta, Valladolid B
+24, Joaquín, ESP, D, 1.90, 66, 31-05-96, Huercal de Almería, Almería
+25, Cyle Larin, CAN, F, 1.88, 87, 17-04-95, Brampton, Club Brugge
+27, Iván Fresneda, ESP, D, 1.83, 74, 28-09-04, Madrid, Valladolid B
+30, Roberto Arroyo, ESP, F, -, -, 25-08-03, Valladolid, Valladolid B
+31, Álvaro Aceves, ESP, G, -, -, 26-07-03, Valladolid, Valladolid B
+32, David Torres, ESP, D, 1.87, 78, 05-03-03, Valladolid, Valladolid B
+36, Diego Moreno, ESP, D, -, -, 18-01-02, Villa del Río, Córdoba B
+39, Lucas Rosa, BRA, D, 1.76, 68, 03-04-00, Ribeirão Preto, Juventus
+40, Mario Maroto, ESP, M, 1.76, 71, 28-11-03, Valladolid, Valladolid B
+42, Víctor Rofino, ESP, D, 1.85, 78, 28-07-02, Madrid, Real Madrid B
+43, Alberto Quintana, ESP, M, 1.86, 74, 05-10-01, Villanueva del Trabuco, Málaga B
+44, Manu Pozo, ESP, F, 1.68, 62, 12-12-01, Casariche, Sporting Gijón B
+45, Iván Cédric, CMR, F, 1.85, 78, 22-12-01, Madrid, Alcorcón
+46, Tunde Akinsola, NGA, F, -, -, 10-03-03, Lagos, Vasalunds IF
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Racing Santander (On Loan)
+19, Toni Villa, ESP, M, 1.71, 61, 07-01-95, Murcia, Girona
+25, Sergio Asenjo, ESP, G, 1.89, 87, 28-06-89, Palencia, Re-Registered (13)
+20, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Leganés (On Loan)
+3, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, Alanyaspor
+9, Shon Weissman, ISR, F, 1.74, 69, 14-02-96, Haifa, Granada (On Loan)
+16, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Cádiz (On Loan)
+14, Mickaël Malsa, FRA, M, 1.78, 69, 12-10-95, Paris, Kasımpaşa (On Loan)

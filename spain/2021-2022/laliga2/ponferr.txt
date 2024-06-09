@@ -1,0 +1,40 @@
+=  Ponferradina - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Amir Abedzadeh, IRN, G, 1.86, 86, 26-04-93, Tehran, Marítimo
+2, Iván Rodríguez, ESP, D, 1.80, 70, 30-04-96, Alameda, Málaga
+3, José Antonio Ríos, ESP, D, 1.82, 76, 10-05-90, Seville, Anorthosis Famagusta
+4, Alex Pașcanu, ROU, D, 1.87, 85, 28-09-98, Bârlad, CFR Cluj
+5, José Amo, ESP, D, 1.81, 72, 09-04-98, Las Pajanosas, Sevilla B
+6, Paul Anton, ROU, M, 1.85, 80, 10-05-91, Bistriţa, Dinamo București
+7, Dani Ojeda, ESP, M, 1.77, 72, 03-12-94, Las Palmas, Alcorcón
+8, Agustín Medina, ESP, D, 1.76, 71, 08-09-94, Barberà del Vallès, Birmingham C
+9, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella de Menorca, Eibar
+10, Yuri, BRA, F, 1.86, 78, 08-08-82, Maceió, Qingdao Huanghai
+11, Cristian Rodríguez, ESP, M, 1.80, 70, 15-03-96, Jerez de la Frontera, Extremadura
+13, Lucho García, COL, G, 1.83, 75, 20-03-98, Barranquilla, Deportivo La Coruña
+14, Ricard Pujol, ESP, D, 1.85, 73, 04-03-98, Castellví de Rosanes, Espanyol B
+15, Adri Castellano, ESP, D, 1.80, 73, 26-06-94, Córdoba, Numancia
+16, Miguel Baeza, ESP, M, 1.75, 64, 27-03-00, Córdoba, Celta Vigo
+18, Erik Morán, ESP, M, 1.87, 74, 25-05-91, Portugalete, Numancia
+19, Edu Espiau, ESP, F, 1.85, 79, 19-12-94, Las Palmas, Las Palmas
+20, José Naranjo, ESP, F, 1.82, 73, 28-07-94, Rociana del Condado, Tenerife
+21, Juan Hernández, ESP, M, 1.77, 71, 06-12-94, Lorca, Alcorcón
+22, Paris Adot, ESP, D, 1.80, 70, 26-02-90, Pamplona, Alcorcón
+23, Saúl Crespo, ESP, M, 1.86, 79, 23-07-96, Ponferrada, Ponferradina B
+24, Kuki Zalazar, ESP, F, 1.76, 73, 05-05-98, Montevideo, Valladolid B
+27, Copete, ESP, D, 1.90, 73, 10-10-99, Écija, Villarreal B
+28, Kike Saverio, ECU, F, 1.78, 69, 19-06-99, Genoa, Osasuna B
+29, Mauro Molina, ESP, F, -, -, 04-11-01, -, Atlético Astorga
+30, Hugo Fernández, ESP, F, -, -, -, -, Ponferradina B
+32, Alberto Martínez, ESP, M, -, -, 09-06-03, -, Ponferradina B
+35, Sergi Puig, ESP, G, 1.85, 73, 19-11-98, Premià de Mar, Las Palmas B
+38, Antony Kazaryan, ARM, D, -, -, 12-10-00, -, Cannes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Kaxe, ESP, F, 1.83, 80, 21-01-94, Azpeitia, Sabadell (On Loan)
+21, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Nàstic (On Loan)
+11, Moussa Sidibé, MLI, M, 1.70, 75, 21-11-94, Bamako, Johor Darul Ta'zim
+17, Juan Camilo Becerra, COL, F, 1.82, 76, 23-02-98, Valledupar, Espanoyl B

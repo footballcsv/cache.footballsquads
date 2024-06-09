@@ -1,0 +1,63 @@
+=  Manchester City - English Premier League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Hart, ENG, G, 1.91, 80, 19-04-87, Shrewsbury, Shrewsbury T
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Arsenal
+4, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Hamburg
+5, Pablo Zabaleta, ARG, D, 1.74, 74, 16-01-85, Capital Federal, Espanyol
+6, Fernando, BRA, M, 1.83, 74, 25-07-87, Alto Paraíso de Goiás, FC Porto
+7, Raheem Sterling, ENG, M, 1.70, 69, 08-12-94, Kingston, Liverpool
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Arsenal
+10, Sergio Agüero, ARG, F, 1.72, 74, 02-06-88, Capital Federal, Atlético Madrid
+11, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Lazio
+13, Wilfredo Caballero, ARG, G, 1.85, 83, 28-09-81, Salta Elena, Málaga
+14, Wilfried Bony, CIV, F, 1.82, 80, 10-12-88, Bingerville, Swansea C
+15, Jesús Navas, ESP, M, 1.70, 60, 21-11-85, Los Palacios, Sevilla
+17, Kevin De Bruyne, BEL, M, 1.80, 68, 28-06-91, Drongen, Wolfsburg
+18, Fabian Delph, ENG, M, 1.74, 60, 21-11-89, Bradford, Aston Villa
+20, Eliaquim Mangala, FRA, D, 1.87, 74, 13-02-91, Colombes, FC Porto
+21, David Silva, ESP, M, 1.70, 67, 08-01-86, Arguineguín, Valencia
+22, Gaël Clichy, FRA, D, 1.81, 72, 26-07-85, Toulouse, Arsenal
+25, Fernandinho, BRA, M, 1.76, 67, 04-05-85, Londrina, Shakhtar Donetsk
+26, Martin Demichelis, ARG, D, 1.84, 78, 20-12-80, Justiniano Posse, Atlético Madrid
+29, Richard Wright, ENG, G, 1.87, 82, 05-11-77, Ipswich, Preston NE
+30, Nicolás Otamendi, ARG, D, 1.78, 75, 12-02-88, Pacheco, Valencia
+42, Yaya Touré, CIV, M, 1.91, 90, 13-05-83, Sokoura Bouaké, Barcelona
+48, Mathias Bossaerts, BEL, D, 1.84, 76, 10-07-96, Gooreind, Anderlecht
+49, Denzeil Boadu, ENG, F, 1.80, 70, 20-02-97, Islington, Arsenal
+51, David Faupala, FRA, F, 1.83, 72, 11-02-97, Bully les Mines, Lens
+52, Kean Bryan, ENG, M, 1.82, 72, 01-11-96, Manchester, None
+53, Tosin Adarabioyo, ENG, D, 1.96, 82, 24-09-97, Manchester, None
+54, Angus Gunn, ENG, G, 1.96, 77, 22-01-96, Bolton, Norwich C
+56, Ashley Smith-Brown, ENG, D, 1.77, 68, 31-03-96, Manchester, None
+57, Aaron Nemane, FRA, M, 1.70, 62, 26-09-97, Amiens, Amiens
+58, Charlie Oliver, ENG, D, 1.85, 72, 17-11-97, Trafford, None
+59, Bersant Celina, NOR, M, 1.62, 60, 09-09-96, Prizren, Strømsgodset
+60, Kjetil Haug, NOR, G, 1.90, 80, 12-06-98, Halden, Sarpsborg 08
+61, James Horsfield, ENG, M, 1.78, 70, 30-11-95, Hazel Grove, None
+62, Brandon Barker, ENG, M, 1.75, 68, 04-10-96, Manchester, None
+63, Sinan Bytyqi, AUT, M, 1.85, 82, 15-01-95, Prizren, Admira Wacker Mödling
+65, Jorginho, POR, M, 1.69, 68, 21-09-95, Bissau, None
+67, Sam Tattum, WAL, D, , , 03-09-96, Manchester, None
+68, Thierry Ambrose, FRA, F, 1.78, 70, 28-03-97, Sens, Auxerre
+69, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, Deportivo La Coruña
+71, Marcus Wood, ENG, M, , , 12-02-98, Sale, None
+72, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, None
+73, George Glendon, ENG, M, 1.77, 70, 03-05-95, Manchester, None
+74, Ellis Plummer, ENG, D, 1.81, 70, 02-09-94, Audenshaw, None
+75, Aleix García, ESP, M, 1.73, 61, 28-06-97, Ulldecona, Villarreal B
+76, Manu García, ESP, M, 1.70, 65, 02-01-98, Oviedo, Sporting Gijón
+77, Cameron Humphreys, ENG, D, 1.87, 80, 22-08-98, Manchester, None
+78, Billy O'Brien, WAL, G, 1.86, 80, 21-11-95, Bury, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+64, Rony Lopes, POR, M, 1.74, 68, 28-12-95, Belém, Monaco
+28, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Galatasaray (On Loan)
+78, José Ángel Pozo, ESP, F, 1.70, 60, 15-03-96, Málaga, Almería (On Loan)
+45, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Bury (On Loan)
+50, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Girona (On Loan)
+70, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Reading
+27, Patrick Roberts, ENG, F, 1.67, 58, 05-02-97, Kingston-upon-Thames, Celtic (On Loan)
+36, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, AEK (On Loan)

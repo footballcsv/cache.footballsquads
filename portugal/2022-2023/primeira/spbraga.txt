@@ -1,0 +1,42 @@
+=  Sporting Braga - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Magalhães, BRA, G, 1.87, 76, 29-03-92, Belo Horizonte, América Mineiro
+2, Víctor Gómez, ESP, D, 1.66, 69, 01-04-00, Olesa de Montserrat, Espanyol B
+3, Vítor Tormena, BRA, D, 1.92, 84, 04-01-96, Marília, Gil Vicente
+4, Sikou Niakaté, MLI, D, 1.86, 75, 10-07-99, Montreuil, Guingamp
+5, Serdar Saatçı, TUR, D, 1.90, 90, 14-02-03, Bayrampaşa, Beşiktaş
+6, Nuno Sequeira, BRA, D, 1.84, 82, 19-08-90, Porto, Nacional [POR]
+7, Rodrigo Gomes, POR, F, 1.75, 69, 07-07-03, Braga, None
+8, Ali Elmusrati, LBY, M, 1.93, 80, 06-04-96, Misrata, Vitória Guimarães
+9, Abel Ruiz, ESP, F, 1.82, 75, 28-01-00, Almussafes, Barcelona B
+10, André Horta, POR, M, 1.67, 57, 07-11-96, Almada, Los Angeles FC
+11, Roger Fernandes, POR, F, 1.70, 63, 21-11-05, Bissau, None
+12, Tiago Sá, POR, G, 1.85, 78, 11-01-95, Braga, None
+14, Álvaro Djaló, ESP, F, 1.75, 67, 16-08-99, Madrid, None
+15, Paulo Oliveira, POR, D, 1.87, 78, 08-01-92, Vila Nova de Famalicão, Eibar
+17, Joe Mendes, SWE, D, 1.77, 70, 31-12-02, Stockholm, AIK
+19, Uroš Račić, SRB, M, 1.93, 81, 17-03-98, Kraljevo, Valencia
+21, Ricardo Horta, POR, M, 1.73, 61, 15-09-94, Almada, Málaga
+22, Pizzi, POR, M, 1.77, 69, 06-10-89, Bragança, Al-Wahda
+23, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, Lens
+26, Cristian Borja, COL, D, 1.78, 70, 18-02-93, Cali, Sporting CP
+27, Bruma, POR, F, 1.73, 70, 24-10-94, Bissau, Fenerbahçe
+29, Jean-Baptiste Gorby, FRA, M, 1.81, 76, 25-07-02, Mayotte, Nantes
+42, Guilherme, POR, D, 1.86, 80, 08-02-01, Braga, None
+45, Iuri Medeiros, POR, M, 1.74, 58, 10-07-94, Horta, Nürnberg
+76, Dinis Pinto, POR, D, 1.78, 73, 24-08-00, Porto, Lusitânia
+88, André Castro, POR, M, 1.79, 75, 02-04-88, Gondomar, Göztepe
+91, Lukáš Horníček, CZE, G, 1.97, 80, 13-07-02, Vysoké Mýto, Pardubice
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+74, Francisco Moura, POR, D, 1.82, 76, 16-04-99, Braga, Famalicão (On Loan)
+17, Mario González, ESP, F, 1.83, 76, 25-02-96, Burgos, OH Leuven (On Loan)
+25, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, KVC Westerlo (On Loan)
+24, Bruno Rodrigues, BRA, D, 1.92, 86, 08-06-01, Barreiro, Fatih Karagümrük (On Loan)
+18, Diego Lainez, MEX, M, 1.67, 58, 09-06-00, Villahermosa, Betis
+71, Hernâni Infande, MAR, F, 1.78, 66, 03-04-01, Bissau, Paços de Ferreira (On Loan)
+99, Vítor Oliveira, POR, F, 1.78, 74, 15-03-00, Cabeceiras de Basto, Marseille
+70, Fabiano Souza, BRA, D, 1.75, 70, 14-03-00, Presidente Prudente, Kasımpaşa (On Loan)

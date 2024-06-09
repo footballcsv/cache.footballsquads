@@ -1,0 +1,41 @@
+=  Marítimo - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Silva, POR, G, 1.89, 78, 07-04-95, Guimarães, APOEL
+2, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Vasco da Gama
+3, Moisés Mosquera, COL, D, 1.87, 75, 24-05-01, Medellín, Real Santuario
+4, Matheus Costa, BRA, D, 1.90, 80, 26-01-95, Minas Gerais, Vizela
+5, Zainadine Júnior, MOZ, D, 1.78, 75, 24-06-88, Maputo, Tianjin Teda
+7, André Vidigal, POR, F, 1.76, 67, 17-08-98, Elvas, Fortuna Sittard
+8, Rafik Guitane, FRA, M, 1.64, 60, 29-05-99, Evreux, Reims
+9, Ali Alipour, IRN, F, 1.77, 70, 11-11-95, Qaem Shahr, Persepolis
+10, Stefano Beltrame, ITA, F, 1.83, 70, 08-02-93, Biella, CSKA Sofia
+12, Edgar Costa, POR, M, 1.80, 72, 14-04-87, Câmara de Lobos, Nacional [POR]
+15, Iván Rossi, ARG, M, 1.83, 75, 01-11-93, Capital Federal, Sambenedettese
+16, Diogo Mendes, POR, M, 1.82, 76, 24-01-98, Faro, Benfica
+17, Bruno Xadas, POR, M, 1.79, 69, 02-12-97, Oliveira de Azeméis, Sporting Braga
+24, Clésio Baúque, MOZ, F, 1.74, 67, 11-10-94, Maputo, Zira FK
+25, Ricardinho, BRA, F, 1.80, 67, 23-04-01, Guarulhos, Grêmio
+27, Tim Söderström, SWE, D, 1.89, 77, 04-01-94, Stockholm, Hammarby IF
+31, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, Cruzeiro
+34, Johnson Owusu, GHA, F, 1.84, 77, 05-02-98, Accra, Sporting Braga
+36, Miguel Sousa, POR, D, 1.76, 67, 19-09-98, Lisbon, Stumbras
+44, André Teles, POR, M, 1.80, 74, 06-04-97, Funchal, None
+45, Fábio China, POR, D, 1.79, 66, 07-07-92, Calheta, Estrela da Calheta
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Grêmio
+60, Pedro Pelágio, POR, M, 1.81, 77, 21-04-00, Funchal, None
+66, Léo Andrade, BRA, D, 1.90, 78, 18-04-98, Curitiba, Coritiba
+88, Rodrigo Andrade, POR, M, 1.80, 70, 24-11-01, Funchal, None
+93, Henrique, BRA, F, 1.78, 64, 23-08-93, Santa Rita do Sapucaí, CSKA Sofia
+94, Vitor Costa, BRA, D, 1.82, 75, 01-07-94, Valente, Inter de Lages
+95, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Cruzeiro
+96, Pedro Teixeira, POR, G, 1.90, 76, 20-11-01, Funchal, None
+98, Vitor Eudes, BRA, G, 1.95, 85, 21-10-98, Belo Horizonte, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Jorge Sáenz, ESP, D, 1.92, 75, 17-11-96, Santa Cruz de Tenerife, Valencia
+6, Filipe Cardoso, POR, M, 1.90, 78, 02-06-94, Vila Nova de Gaia, Académico Viseu (On Loan)
+23, Rúben Macedo, POR, F, 1.71, 63, 09-03-96, Amarante, Nacional [POR]
+11, Milson, ANG, F, 1.74, 69, 12-10-99, Luanda, FC Nizhny Novgorod

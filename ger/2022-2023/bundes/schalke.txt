@@ -1,0 +1,51 @@
+=  FC Schalke 04 - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ralf Fährmann, GER, G, 1.94, 89, 27-09-88, Karl-Marx-Stadt, Eintracht Frankfurt
+2, Thomas Ouwejan, NED, D, 1.83, 72, 24-06-96, Alkmaar, AZ Alkmaar
+3, Leo Greiml, AUT, D, 1.86, 73, 03-07-01, Horn, Rapid Vienna
+4, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, Sampdoria
+5, Sepp van den Berg, NED, D, 1.90, 78, 20-12-01, Zwolle, Liverpool
+6, Tom Krauß, GER, M, 1.82, 75, 22-06-01, Leipzig, RB Leipzig
+8, Danny Latza, GER, M, 1.79, 75, 07-12-89, Gelsenkirchen, Mainz
+9, Simon Terodde, GER, F, 1.92, 82, 02-03-88, Bocholt, Hamburg
+10, Rodrigo Zalazar, URU, M, 1.78, 72, 12-08-99, Albacete, Eintracht Frankfurt
+11, Marius Bülter, GER, F, 1.88, 85, 29-03-93, Ibbenbüren, Union Berlin
+13, Alexander Schwolow, GER, G, 1.89, 83, 02-06-92, Wiesbaden, Hertha Berlin
+15, Timothée Kolodziejczak, FRA, D, 1.81, 74, 01-10-91, Avion, St-Etienne
+18, Jere Uronen, FIN, D, 1.77, 69, 13-07-94, Turku, Brest
+19, Kenan Karaman, TUR, F, 1.89, 78, 05-03-94, Stuttgart, Beşiktaş
+20, Tim Skarke, GER, M, 1.80, 70, 07-09-96, Nattheim, Union Berlin
+21, Niklas Tauer, GER, M, 1.77, 67, 17-02-01, Mainz, Mainz
+22, Ibrahima Cissé, FRA, D, 1.80, 84, 15-02-01, Liège, KAA Gent
+23, Mehmet Can Aydin, GER, M, 1.79, 68, 09-02-02, Würselen, B Mönchengladbach
+24, Dominick Drexler, GER, M, 1.83, 70, 26-05-90, Bonn, Köln
+25, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, Lorient
+26, Michael Frey, SUI, F, 1.88, 86, 19-07-94, Münsingen, Royal Antwerp
+27, Cédric Brunner, SUI, D, 1.81, 74, 17-02-94, Männedorf, Arminia Bielefeld
+28, Justin Heekeren, GER, G, 1.93, 86, 27-11-00, Veen, RW Oberhausen
+29, Tobias Mohr, GER, M, 1.83, 68, 24-08-95, Aachen, Heidenheim
+30, Alex Král, CZE, M, 1.84, 72, 19-05-98, Košice, Spartak Moscow
+33, Éder Álvarez Balanta, COL, M, 1.81, 84, 28-02-93, Bogotá, Club Brugge
+34, Michael Langer, AUT, G, 1.94, 92, 06-01-85, Bregenz, IFK Norrköping
+35, Marcin Kamiński, POL, D, 1.89, 71, 15-01-92, Konin, Stuttgart
+37, Andreas Ivan, ROU, F, 1.80, 75, 10-01-95, Pitești, RW Ahlen
+38, Soichiro Kozuki, JPN, F, 1.81, 74, 22-12-00, Uji, Düren
+39, Joey Müller, GER, D, 1.80, 70, 30-08-00, Gütersloh, Arminia Bielefeld
+40, Sebastian Polter, GER, F, 1.92, 87, 01-04-91, Wilhelmshaven, Bochum
+41, Henning Matriciani, GER, D, 1.85, 79, 14-03-00, Lippstadt, Lippstadt
+42, Keke Topp, GER, F, 1.92, 81, 25-03-04, Gnarrenburg, Werder Bremen
+44, Sidi Sané, GER, M, 1.87, 72, 21-04-03, Essen, None
+49, Julius Schell, GER, D, 1.88, 83, 10-01-00, Lengerich, Borussia Dortmund
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Marius Lode, NOR, D, 1.85, 77, 11-03-93, Kvernaland, Bodø/Glimt
+33, Malick Thiaw, GER, D, 1.94, 89, 08-08-01, Düsseldorf, Milan
+18, Blendi Idrizi, KVX, M, 1.75, 73, 02-05-98, Bonn, Jahn Regensburg (On Loan)
+14, Lee Dong-Gyeong, KOR, M, 1.75, 68, 20-09-97, Daegu, Ulsan Hyundai
+17, Florian Flick, GER, M, 1.87, 79, 01-05-00, Mannheim, Nürnberg (On Loan)
+42, Kerim Çalhanoğlu, GER, M, 1.80, 76, 26-08-02, Mannheim, Sandhausen (On Loan)
+20, Florent Mollet, FRA, M, 1.71, 67, 19-11-91, Fontaine-lès-Dijon, Nantes
+7, Jordan Larsson, SWE, F, 1.75, 69, 20-06-97, Rotterdam, FC København (On Loan)

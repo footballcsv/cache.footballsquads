@@ -1,0 +1,43 @@
+=  Norwich City - English Premier League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tim Krul, NED, G, 1.88, 74, 03-04-88, Den Haag, Brighton & HA
+2, Max Aarons, ENG, D, 1.76, 69, 04-01-00, Hammersmith, Luton T
+3, Sam Byram, ENG, D, 1.80, 72, 16-09-93, Thurrock, West Ham U
+4, Ben Gibson, ENG, D, 1.85, 78, 15-01-93, Nunthorpe, Burnley
+5, Grant Hanley, SCO, D, 1.88, 76, 20-11-91, Dumfries, Newcastle U
+6, Christoph Zimmermann, GER, D, 1.94, 92, 12-01-93, Düsseldorf, Borussia Dortmund II
+7, Lukas Rupp, GER, M, 1.78, 64, 08-01-91, Heidelberg, 1899 Hoffenheim
+8, Billy Gilmour, SCO, M, 1.70, 66, 11-06-01, Irvine, Chelsea
+10, Kieran Dowell, ENG, M, 1.75, 59, 10-10-97, Ormskirk, Everton
+11, Przemysław Płacheta, POL, M, 1.77, 71, 23-03-98, Łowicz, Śląsk Wrocław
+15, Ozan Kabak, TUR, D, 1.86, 75, 25-03-00, Ankara, Schalke
+16, Mathias Normann, NOR, M, 1.79, 75, 28-05-96, Svolvær, FC Rostov
+17, Milot Rashica, KVX, M, 1.78, 70, 28-06-96, Vushtrri, Werder Bremen
+18, Christos Tzolis, GRE, F, 1.79, 73, 30-01-02, Thessaloniki, PAOK
+19, Jacob Lungi Sørensen, DEN, M, 1.84, 77, 03-03-98, Esbjerg, Esbjerg
+20, Pierre Lees-Melou, FRA, M, 1.85, 67, 25-05-93, Langon, Nice
+21, Brandon Williams, ENG, D, 1.82, 63, 03-09-00, Manchester, Manchester U
+22, Teemu Pukki, FIN, F, 1.76, 66, 29-03-90, Kotka, Brøndby
+23, Kenny McLean, SCO, M, 1.83, 70, 08-01-92, Rutherglen, Aberdeen
+24, Josh Sargent, USA, F, 1.85, 79, 20-02-00, O'Fallon, Werder Bremen
+28, Angus Gunn, ENG, G, 1.96, 77, 22-01-96, Bolton, Southampton
+30, Dimitris Giannoulis, GRE, D, 1.75, 70, 17-10-96, Katerini, PAOK
+33, Michael McGovern, NIR, G, 1.91, 89, 12-07-84, Enniskillen, Hamilton Academical
+35, Adam Idah, IRL, F, 1.90, 83, 11-02-01, Cork, College Corinthians
+40, Jonathan Tomkinson, USA, D, 1.90, 70, 11-04-02, Plano, None
+41, Abu Kamara, ENG, D, -, -, 21-07-03, -, None
+42, Liam Gibbs, ENG, M, 1.78, 65, 16-12-02, Bury St Edmunds, Ipswich T
+44, Andrew Omobamidele, IRL, D, 1.88, 75, 23-06-02, Dublin, None
+45, Tony Springett, IRL, M, 1.74, 72, 22-09-02, Lewisham, None
+46, Jonathan Rowe, ENG, F, 1.73, 67, 30-04-03, Westminster, None
+58, Jon McCracken, SCO, G, 1.85, 77, 24-05-00, Wishaw, Hamilton Academical
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Tom Dickson-Peters, SCO, F, -, -, 16-09-02, Slough, Gillingham (On Loan)
+26, Bali Mumba, ENG, D, 1.76, 62, 08-10-01, South Shields, Peterborough U (On Loan)
+25, Onel Hernández, CUB, M, 1.72, 69, 01-02-93, Morón, Birmingham C (On Loan)
+9, Jordan Hugill, ENG, F, 1.83, 64, 04-06-92, Middlesbrough, Cardiff C (On Loan)
+14, Todd Cantwell, ENG, M, 1.77, 66, 27-02-98, Norwich, Bournemouth (On Loan)

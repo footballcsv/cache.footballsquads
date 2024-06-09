@@ -1,0 +1,34 @@
+=  Lille - French Ligue 1 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivo Grbić, CRO, G, 1.95, 83, 18-01-96, Split, Atlético Madrid
+2, Zeki Çelik, TUR, D, 1.80, 67, 17-02-97, Bursa, İstanbulspor
+3, Tiago Djaló, POR, D, 1.90, 85, 09-04-00, Amadora, Milan
+4, Sven Botman, NED, D, 1.95, 83, 12-01-00, Badhoevedorp, Ajax
+5, Gabriel Gudmundsson, SWE, D, 1.81, 74, 29-04-99, Malmö, FC Groningen
+6, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Dalian Yifang
+7, Jonathan Bamba, FRA, F, 1.73, 67, 26-03-96, Alfortville, St-Etienne
+8, Xeka, POR, M, 1.86, 80, 10-11-94, Rebordosa, Sporting Gijón
+9, Jonathan David, CAN, F, 1.77, 77, 14-01-00, Brooklyn, KAA Gent
+10, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Bayern Munich
+11, Hatem Ben Arfa, FRA, M, 1.78, 65, 07-03-87, Clamart, Bordeaux
+16, Adam Jakubech, SVK, G, 1.90, 80, 02-01-97, Prešov, Spartak Trnava
+17, Burak Yılmaz, TUR, F, 1.88, 81, 15-07-85, Antalya, Beşiktaş
+19, Isaac Lihadji, FRA, F, 1.77, 70, 10-04-02, Marseille, Marseille
+20, Angel Gomes, ENG, M, 1.68, 56, 31-08-00, Enfield, Manchester U
+21, Benjamin André, FRA, M, 1.77, 68, 03-08-90, Nice, Rennes
+22, Timothy Weah, USA, F, 1.85, 66, 22-02-00, New York, Paris St-Germain
+23, Edon Zhegrova, KVX, F, 1.74, 69, 31-03-99, Herford, Basel
+24, Amadou Onana, BEL, M, 1.92, 85, 16-08-01, Dakar, Hamburg
+26, Jérémy Pied, FRA, D, 1.73, 69, 23-02-89, Grenoble, Southampton
+29, Domagoj Bradarić, CRO, D, 1.78, 69, 10-12-99, Split, Hajduk Split
+30, Léo Jardim, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, Rio Ave
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Jonathan Ikoné, FRA, F, 1.80, 70, 02-05-98, Bondy, Fiorentina
+18, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Re-Registered (10)
+11, Yusuf Yazıcı, TUR, M, 1.83, 78, 29-01-97, Trabzon, CSKA Moscow (On Loan)
+28, Reinildo Mandava, MOZ, D, 1.80, 74, 21-01-94, Beira, Atlético Madrid
+27, Cheikh Niasse, SEN, M, 1.88, 69, 19-01-00, Gossas, Young Boys

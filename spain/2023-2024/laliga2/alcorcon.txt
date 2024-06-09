@@ -1,0 +1,45 @@
+=  Alcorcón - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jesús Ruiz, ESP, G, 1.80, 75, 20-01-97, Esplugues de Llobregat, Tarazona
+2, Javier Castro, ESP, D, 1.83, 75, 13-09-00, Madrid, Rayo Vallecano B
+3, David Morillas, ESP, D, 1.86, 75, 28-09-86, Águilas, Ibiza
+4, Óscar Rivas, ESP, D, 1.90, 80, 27-03-00, Albacete, Móstoles
+5, Pedro Mosquera, ESP, M, 1.84, 75, 21-04-88, La Coruña, Huesca
+6, Jean-Sylvain Babin, FRA, D, 1.85, 80, 14-10-86, Corbeil, Sporting Gijón
+8, Jacobo González, ESP, F, 1.76, 66, 25-03-97, Madrid, Andorra
+9, Chiki, ESP, F, 1.71, 71, 05-10-96, Madrid, Cornellà
+10, Juanma Bravo, ESP, M, 1.88, 74, 10-02-98, Murcia, Murcia
+11, Dyego Sousa, BRA, F, 1.90, 82, 14-09-89, São José de Ribamar, Almería
+13, Lucas Anacker, BRA, G, 1.87, 82, 22-09-96, Santa Cruz do Sul, Cornellà
+14, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Asteras Tripolis
+15, Javi Lara, ESP, M, 1.79, 71, 04-12-85, Montoro, Ibiza
+16, Javi Pérez, ESP, M, 1.84, 74, 14-08-95, Cabanillas del Campo, Burgos
+17, Víctor García, ESP, M, 1.75, 70, 16-09-97, Valencia, Valladolid B
+18, Yan Brice Eteki, CMR, M, 1.76, 70, 26-08-97, Yaoundé, Casa Pia
+19, Xavi Quintillà, ESP, D, 1.79, 70, 23-08-96, Lleida, Santa Clara
+20, Iago López, ESP, D, 1.77, 70, 06-04-99, Lugo, Mirandés
+21, Koldo Obieta, ESP, F, 1.87, 74, 08-10-93, Guernica, Miedź Legnica
+22, Juan Artola, ESP, F, 1.76, 73, 07-04-00, Bilbao, Athletic Bilbao B
+23, Chema Rodríguez, ESP, D, 1.89, 80, 03-03-92, Caudete, Eibar
+24, Iker Bilbao, ESP, M, 1.81, 77, 20-03-96, Bilbao, PAS Giannina
+26, Emmanuel Addai, GHA, F, 1.73, 65, 01-08-01, Kumasi, Bobigny
+27, Eric Gómez, ESP, F, 1.74, 65, 24-02-04, Alcorcón, Real Madrid B
+28, Jaime Garrido, ESP, F, -, -, 19-04-03, Madrid, Fuenlabrada B
+29, Èric Callís, ESP, D, 1.70, 72, 14-01-02, La Vall de Bianya, Olot
+30, Íñigo García, ESP, F, -, -, 21-12-04, -, Alcorcón B
+31, Álex Ruiz, ESP, G, 1.84, 79, 19-05-01, Badalona, Barcelona B
+32, Héctor Criado, ESP, D, -, -, 05-08-04, Madrid, Alcorcón B
+33, Marciano Tchami, GNB, F, 1.80, 79, 03-03-04, Bissau, Almería B
+34, Israel García, ESP, M, 1.82, 68, 29-01-04, Leganés, Alcorcón B
+35, Fer Romero, ESP, D, 1.84, 77, 08-06-01, Daimiel, Córdoba B
+36, Iker Vidal, ESP, F, -, -, 22-12-04, Valladolid, Alcorcón B
+38, Bryan Osorio, ESP, D, -, -, 04-01-04, -, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Iker Recio, ESP, D, 1.85, 80, 17-06-01, Talavera de la Reina, Nàstic (On Loan)
+7, Álvaro Bustos, ESP, M, 1.73, 70, 26-06-95, Gijón, Recreativo Huelva
+14, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Kalamata
+33, Edu Llorente, ESP, M, -, -, 28-01-04, Madrid, Alcorcón B

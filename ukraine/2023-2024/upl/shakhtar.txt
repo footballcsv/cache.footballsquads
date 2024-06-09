@@ -1,0 +1,49 @@
+=  Shakhtar Donetsk - Ukrainian Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur Rudko, UKR, G, 1.96, 85, 07-05-92, Kyiv, Metalist Kharkiv
+2, Lassina Traoré, BFA, F, 1.83, 75, 12-01-01, Bobo-Dioulasso, Ajax
+3, Stav Lemkin, ISR, D, 1.90, 80, 02-04-03, Tel Aviv, Hapoel Tel Aviv
+5, Valeriy Bondar, UKR, D, 1.72, 73, 27-02-99, Kharkiv, Shakhtar Donetsk-2
+6, Taras Stepanenko, UKR, M, 1.81, 75, 08-08-89, Velyka Novosilka, Metalurh Zaporizhzhia
+7, Eguinaldo, BRA, F, 1.75, 71, 09-08-04, Monção, Vasco da Gama
+8, Dmytro Kryskiv, UKR, M, 1.80, 67, 06-10-00, Kharkiv, Shakhtar Donetsk-2
+9, Maryan Shved, UKR, M, 1.71, 63, 16-07-97, Mykolaiv, Mechelen
+10, Heorhiy Sudakov, UKR, M, 1.77, 68, 01-09-02, Brianka, Shakhtar Donetsk-2
+11, Oleksandr Zubkov, UKR, M, 1.82, 78, 03-08-96, Makiivka, Ferencváros
+12, Tymur Puzankov, UKR, G, 1.94, 83, 04-03-03, Kremenchuk, Shakhtar Donetsk-2
+13, Giorgi Gocholeishvili, GEO, D, 1.78, 70, 14-02-01, Kutaisi, Saburtalo
+14, Danylo Sikan, UKR, F, 1.85, 74, 16-04-01, Zhytomyr, Karpaty-2
+16, Irakli Azarovi, GEO, D, 1.79, 70, 21-02-02, Batumi, Crvena Zvezda
+19, Dmytro Chygrynskiy, UKR, D, 1.90, 81, 07-11-86, Izyaslav, Ionikos
+21, Artem Bondarenko, UKR, M, 1.82, 73, 21-08-00, Cherkasy, Shakhtar Donetsk-2
+22, Mykola Matviyenko, UKR, D, 1.81, 67, 02-05-96, Saky, Shakhtar Donetsk-2
+23, Pedrinho, BRA, D, 1.77, 60, 11-07-02, Salvador, Athletico Paranaense
+24, Viktor Tsukanov, UKR, M, 1.74, 64, 04-02-06, Kirovohrad, Shakhtar Donetsk-2
+25, Novatus Miroshi, TAN, M, 1.85, 77, 02-09-02, Arusha, Zulte-Waregem
+26, Yukhym Konoplya, UKR, D, 1.79, 70, 26-08-99, Donetsk, Shakhtar Donetsk-2
+29, Yehor Nazaryna, UKR, M, 1.83, 69, 10-07-97, Pryluky, Zorya Luhansk
+30, Marlon Gomes, BRA, M, 1.81, 67, 14-12-03, Rio de Janeiro, Vasco da Gama
+31, Dmytro Riznyk, UKR, G, 1.86, 77, 30-01-99, Poltava, Vorskla Poltava
+37, Kevin, BRA, F, 1.76, 71, 04-01-03, São Paulo, Palmeiras
+39, Newerton, BRA, M, 1.67, 60, 03-06-05, Palmares, São Paulo
+44, Yaroslav Rakytskyy, UKR, D, 1.80, 70, 03-08-89, Pershotravensk, Adana Demirspor
+48, Denys Tvardovskyi, UKR, G, 2.06, 93, 13-06-03, Chernivtsi, Shakhtar Donetsk-2
+55, Luka Latsabidze, GEO, D, 1.93, 72, 18-03-04, Khashuri, Dinamo Tbilisi
+77, Khusrav Toirov, TJK, M, 1.81, 75, 01-08-04, Danghara, Atyrau
+90, Oleksiy Kashchuk, UKR, M, 1.80, 72, 29-06-00, Novohrad-Volynskyi, Shakhtar Donetsk-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Anatoliy Trubin, UKR, G, 1.99, 86, 01-08-01, Donetsk, Benfica
+99, Viktor Korniyenko, UKR, D, 1.75, 70, 14-02-99, Poltava, Vorskla Poltava (On Loan)
+28, Maryan Faryna, UKR, D, 1.80, 78, 28-08-03, Kamiane, Metalist 1925 Kharkiv (On Loan)
+4, Denil Castillo, ECU, M, 1.87, 70, 24-03-04, Eloy Alfaro, Partizan Belgrade (On Loan)
+20, Dmytro Topalov, UKR, M, 1.76, 70, 12-03-98, Blyzhne, Kolos Kovalivka (On Loan)
+27, Oleh Ocheretko, UKR, M, 1.79, 71, 25-03-03, Makiivka, Dnipro-1 (On Loan)
+32, Eduard Kozik, UKR, D, 1.83, 79, 19-04-03, Hrudky, Karpaty Lviv (On Loan)
+17, Bohdan Viunnyk, UKR, F, 1.78, 75, 21-05-02, Kharkiv, Lechia Gdańsk
+15, Anton Hlushchenko, UKR, D, 1.85, 76, 20-04-04, Kharkiv, Vorskla Poltava (On Loan)
+34, Ivan Petryak, UKR, M, 1.71, 63, 13-03-94, Smila, Polissya Zhytomyr (On Loan)
+18, Kevin Kelsy, VEN, F, 1.93, 83, 27-07-04, Valencia [VEN], FC Cincinnati (On Loan)

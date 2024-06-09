@@ -1,0 +1,41 @@
+=  Giresunspor - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Onurcan Piri, TUR, G, 1.90, 85, 28-09-94, Giresun, Bursaspor
+2, Talha Ülvan, TUR, D, 1.79, 70, 20-04-01, Hasselt, Samsunspor
+3, Arda Kılıç, TUR, D, -, -, 21-01-05, İstanbul, None
+5, Faustin Senghor, SEN, D, 1.83, 72, 02-01-94, Ziguinchor, Shkupi
+6, Alper Uludağ, TUR, D, 1.80, 71, 11-12-90, Heusden-Zolder, Adana Demirspor
+7, Borja Sainz, ESP, F, 1.78, 75, 01-02-01, Leioa, Alavés B
+9, Riad Bajić, BIH, F, 1.89, 80, 06-05-94, Sarajevo, Udinese
+10, Serginho, BRA, M, 1.80, 73, 06-04-95, Belo Horizonte, Skënderbeu Korçë
+11, Brandley Kuwas, NED, F, 1.78, 65, 19-09-92, Hoorn, Maccabi Tel Aviv
+14, Robert Mejía, COL, M, 1.73, 69, 06-10-00, Puerto Tejada, Once Caldas
+17, Doğan Can Davas, TUR, M, 1.70, 65, 22-08-97, Edirne, Bandırmaspor
+19, Rahmetullah Berişbek, TUR, M, 1.71, 68, 22-03-99, Elmadağ, Gençlerbirliği
+21, Ramón Arias, URU, D, 1.80, 84, 27-07-92, Montevideo, Peñarol
+22, Murat Cem Akpınar, TUR, M, 1.70, 70, 24-01-99, Trabzon, Trabzonspor
+23, Görkem Sağlam, TUR, M, 1.75, 66, 11-04-98, Gelsenkirchen, Willem II
+25, Alexis Pérez, COL, D, 1.81, 73, 25-03-94, Barranquilla, Lanús
+26, Vukan Savićević, MNE, M, 1.79, 74, 29-01-94, Belgrade, Samsunspor
+30, Jorman Campuzano, COL, M, 1.75, 70, 30-04-96, Tamalameque, Boca Juniors
+35, Ferhat Kaplan, TUR, G, 1.90, 85, 07-01-89, Menemen, Adana Demirspor
+37, Mehmet Doğaç Çifçi, TUR, G, 1.86, 79, 24-02-03, Giresun, None
+50, Kadir Seven, TUR, D, 1.84, 73, 05-05-03, Karabük, Orduspor
+74, Erkan Anapa, TUR, G, 1.87, 70, 27-01-98, Giresun, None
+75, Mert Han Kurt, BEL, F, -, -, 25-10-02, -, Cercle Brugge
+77, Hayrullah Bilazer, TUR, D, 1.70, 66, 20-05-95, Trabzon, Boluspor
+88, Şahin Dik, TUR, M, -, -, 07-02-04, -, None
+99, Faruk Can Genç, TUR, D, 1.80, 76, 16-02-00, Trabzon, Trabzonspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Hamidou Traoré, MLI, M, 1.75, 70, 07-10-96, Bamako, Partizan Belgrade
+15, Anıl Yiğit Çınar, TUR, D, 1.93, 85, 10-07-03, İstanbul, Eynesil Belediyespor (On Loan)
+28, Erol Can Akdağ, TUR, M, 1.74, 68, 18-08-96, Giresun, Tuzlaspor (On Loan)
+67, Furkan Kütük, TUR, M, 1.80, 73, 07-12-02, Kocaeli, Orduspor (On Loan)
+20, Oğulcan Çağlayan, TUR, M, 1.88, 78, 22-03-96, Ankara, Galatasaray
+33, Fatih Yılmaz, TUR, D, -, -, 19-05-02, Giresun, Osmaniyespor (On Loan)
+4, Sergen Piçinciol, TUR, D, 1.82, 79, 11-10-95, Kars, Bandırmaspor
+80, Çekdar Orhan, TUR, M, 1.72, 64, 08-03-98, Hakkâri, Amed SK (On Loan)

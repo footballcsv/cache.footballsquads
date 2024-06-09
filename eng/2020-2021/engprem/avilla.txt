@@ -1,0 +1,75 @@
+=  Aston Villa - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Heaton, ENG, G, 1.88, 85, 15-04-86, Chester, Burnley
+2, Matty Cash, ENG, D, 1.85, 64, 07-08-97, Slough, Nottingham F
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Swansea C
+4, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, Brentford
+5, Tyrone Mings, ENG, D, 1.91, 77, 13-03-93, Bath, Bournemouth
+6, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, Hibernian
+9, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Club Brugge
+10, Jack Grealish, ENG, M, 1.75, 68, 10-09-95, Birmingham, None
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Brentford
+12, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Norwich C
+15, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Lyon
+17, Mahmoud Hassan, EGY, M, 1.76, 72, 01-10-94, Kafr el-Sheikh, Kasımpaşa
+18, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Southampton
+19, Marvelous Nakamba, ZIM, M, 1.77, 71, 19-01-94, Hwange, Club Brugge
+20, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, Chelsea
+21, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, Lille
+22, Björn Engels, BEL, D, 1.93, 74, 15-09-94, Kaprijke, Reims
+25, Morgan Sanson, FRA, M, 1.82, 70, 18-08-94, Saint-Doulchard, Marseille
+26, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+27, Ahmed Elmohamady, EGY, D, 1.82, 81, 09-09-87, El-Mahalla El-Kubra, Hull C
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Wolverhampton W
+37, Mungo Bridge, ENG, D, -, -, 12-09-00, Hackney, None
+39, Keinan Davis, ENG, F, 1.91, 68, 01-06-98, Stevenage, Biggleswade T
+41, Jacob Ramsey, ENG, M, 1.66, 61, 28-05-01, Birmingham, None
+44, Lewis Brunt, ENG, M, -, -, 06-11-00, Burton upon Trent, None
+45, Michael Tait, ENG, M, -, -, 29-01-01, Birmingham, None
+46, Jake Walker, ENG, D, -, -, 03-11-00, -, None
+47, Callum Rowe, ENG, D, -, -, 02-09-99, Leicester, None
+49, Myles Sohna, ENG, D, 1.80, 67, 01-07-02, Gloucester, None
+50, Harrison Sohna, ENG, M, 1.77, 61, 01-07-02, Gloucester, None
+51, Ákos Ónodi, HUN, G, 1.93, 81, 02-09-01, -, Győr
+52, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, None
+53, Charlie Farr, ENG, M, 1.81, 73, 11-09-01, Burton upon Trent, None
+54, DJ Campton-Sturridge, ENG, F, 1.76, 69, 17-10-02, -, None
+55, Brad Burton, ENG, D, -, -, 26-12-01, -, None
+57, Ben Chrisene, ENG, D, 1.83, 80, 12-01-04, Exeter, Exeter C
+58, Chisom Afoka, ENG, M, -, -, 23-09-03, -, WBA
+60, Carney Chukwuemeka, ENG, M, 1.82, 70, 20-10-03, Eisenstadt, Northampton T
+61, Louie Barry, ENG, F, 1.74, 63, 21-06-03, Birmingham, Barcelona
+62, Kaine Kesler, ENG, D, 1.75, 62, 23-10-02, Birmingham, None
+63, Filip Marschall, ENG, G, 1.95, 87, 15-12-02, Bedford, None
+64, Aaron Ramsey, ENG, M, -, -, 21-01-03, Birmingham, None
+65, Sebastian Revan, ENG, D, -, -, 14-07-03, West Bromwich, None
+66, Paul Appiah, ENG, D, 1.88, 86, 13-10-02, Enfield, Chelsea
+67, Arjan Raikhy, ENG, M, -, -, 25-08-03, Wolverhampton, None
+68, Brad Young, ENG, F, -, -, 04-08-02, Birmingham, None
+69, Mamadou Dialla Sylla, ESP, M, -, -, 12-08-02, Granollers, None
+70, Lamare Bogarde, NED, D, 1.83, 76, 05-01-04, Rotterdam, Feyenoord
+71, Hayden Lindley, ENG, M, 1.82, 70, 02-09-02, Huddersfield, Manchester C
+72, Sil Swinkels, NED, D, 1.90, 78, 06-01-04, Sint-Oedenrode, Vitesse
+73, Teddy Rowe, ENG, M, -, -, 17-10-03, -, None
+74, Frankie Ealing, ENG, D, 1.76, 66, 14-07-04, Birmingham, None
+75, Oliwier Zych, POL, G, 1.91, 86, 28-06-04, Gdańsk, Zagłębie Lubin
+76, Taylor-Jay Hart, ENG, M, -, -, 18-12-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Mbwana Samatta, TAN, F, 1.79, 70, 13-12-92, Dar es Salam, Fenerbahçe (On Loan)
+38, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, Ayr U (On Loan)
+56, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Solihull Moors (On Loan)
+23, Jota, ESP, M, 1.80, 67, 16-06-91, A Pobra do Caramiñal, Alavés
+25, Ørjan Nyland, NOR, G, 1.92, 78, 10-09-90, Volda, Norwich C
+43, Ben Guy, ENG, M, 1.79, 72, 02-11-00, Birmingham, Portadown (On Loan)
+28, Lovre Kalinić, CRO, G, 1.98, 90, 03-04-90, Split, Hajduk Split (On Loan)
+48, Tyreik Wright, IRL, M, 1.79, 72, 22-09-01, Cork, Walsall (On Loan)
+42, Dominic Revan, ENG, D, 1.92, 81, 19-09-00, West Bromwich, Weymouth (On Loan)
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Swansea C (On Loan)
+8, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Bristol C
+36, Indiana Vassilev, USA, M, 1.75, 72, 16-02-01, Savannah, Cheltenham T (On Loan)
+24, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Strasbourg (On Loan)

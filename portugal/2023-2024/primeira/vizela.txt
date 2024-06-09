@@ -1,0 +1,40 @@
+=  Vizela - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Ruberto, SUI, G, 1.84, 80, 19-03-93, Lecce, Schaffhausen
+2, Hugo Oliveira, POR, D, 1.74, 67, 10-02-02, Santa Maria da Feira, Oliveirense
+4, Jota, POR, D, 1.86, 76, 17-06-00, Espinho, Tondela
+5, Anderson Santos, BRA, D, 1.85, 71, 02-03-95, Lagarto, América Mineiro
+6, Matheus Pereira, BRA, D, 1.72, 70, 21-12-00, São Paulo, Cruzeiro
+8, Alex Méndez, USA, M, 1.78, 70, 06-09-00, Los Angeles, Ajax
+9, Sava Petrov, SRB, F, 1.87, 80, 18-06-98, Belgrade, Radnički Niš
+10, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Udinese
+11, Amadou Ba-Sy, FRA, F, 1.91, 87, 08-06-01, Nice, Dunkerque
+14, Dylan Saint-Louis, FRA, F, 1.84, 77, 26-04-95, Gonesse, Hatayspor
+17, Matías Lacava, VEN, F, 1.68, 62, 10-10-02, Chacao, Academia Puerto Cabello
+19, Orest Lebedenko, UKR, D, 1.72, 60, 23-09-98, Lviv, Deportivo La Coruña
+20, Samu, POR, M, 1.70, 66, 21-04-96, São Paio de Oleiros, Boavista
+22, Aleksandar Busnić, SRB, M, 1.91, 80, 04-12-97, Belgrade, Vojvodina
+23, Osama Rashid, IRQ, M, 1.78, 63, 17-01-92, Kirkuk, Khor Fakkan
+25, Rodrigo Escoval, POR, D, 1.88, 77, 08-05-97, Lisbon, Volos
+28, Bruno Costa, POR, M, 1.74, 65, 19-04-97, Oliveira de Azeméis, Valenciennes
+29, Alberto Soro, ESP, M, 1.73, 63, 09-03-99, Ejea de los Caballeros, Granada
+34, Pedro Ortiz, ESP, M, 1.84, 76, 19-08-00, Palma de Mallorca, Sevilla B
+73, Nikola Bursać, SRB, G, 1.91, 88, 11-09-01, Toronto, TSC Bačka Topola
+75, Jason Eyenga-Lokilo, BEL, F, 1.75, 65, 17-09-98, Brussels, Hull C
+82, Tomás Silva, POR, D, 1.72, 65, 15-10-99, Viana do Castelo, Sporting CP
+90, Diogo Nascimento, POR, M, 1.66, 61, 02-11-02, Leiria, Benfica
+97, Fabijan Buntić, CRO, G, 1.94, 88, 24-02-97, Stuttgart, Ingolstadt
+99, Samuel Essende, FRA, F, 1.92, 87, 23-01-98, Montfermeil, Caen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Alejandro Alvarado, USA, M, 1.73, 67, 29-07-03, Los Angeles, Vianense (On Loan)
+10, Kiko Bondoso, POR, F, 1.71, 66, 17-11-95, Moimenta da Beira, Maccabi Tel Aviv
+32, Joaquín Novillo, ARG, D, 1.85, 74, 19-02-98, Córdoba, Belgrano (Córdoba)
+9, Iker Unzueta, ESP, F, 1.84, 71, 04-08-98, Abadiño, Amorebieta (On Loan)
+79, Nuno Moreira, POR, F, 1.75, 65, 16-06-99, Espinho, Casa Pia
+12, Rafael Bustamante, COL, M, 1.75, 77, 02-10-99, Ciénaga, Deportivo Cali
+3, Bruno Wilson, POR, D, 1.92, 82, 27-12-96, Lisbon, San Jose Earthquakes
+7, Jardel Silva, GNB, F, 1.84, 78, 20-09-97, Bissau, Radomiak Radom (On Loan)

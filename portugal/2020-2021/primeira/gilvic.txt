@@ -1,0 +1,40 @@
+=  Gil Vicente - Portuguese Primeira Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Denis, BRA, G, 1.88, 86, 14-04-87, Jaú, Figueirense
+2, Joel Pereira, POR, D, 1.78, 68, 28-09-96, Vila Nova de Gaia, Omonia Nicosia
+3, Souleymane Aw, SEN, D, 1.73, 65, 05-04-99, -, Béziers
+4, Diogo Silva, BRA, D, 1.86, 77, 11-01-95, São Paulo, Ypiranga
+5, Rodrigão, BRA, D, 1.95, 72, 11-09-95, Brasília, Atlético Mineiro
+6, João Afonso, BRA, M, 1.81, 81, 09-02-95, Criciúma, Goiás
+7, Lourency, BRA, F, 1.78, 74, 02-01-96, Imperatriz, Chapecoense
+8, Claude Gonçalves, FRA, M, 1.73, 62, 09-04-94, Ajaccio, Troyes
+9, Miullen, BRA, F, 1.84, 72, 19-05-98, Uberlândia, Londrina
+10, Alaa Abbas, IRQ, F, 1.80, 75, 27-07-97, Baghdad, Kuwait SC
+11, Antoine Leautey, FRA, M, 1.72, 68, 14-04-96, Versailles, Niort
+12, Brian Araújo, POR, G, 1.89, 83, 29-04-00, Paris, None
+17, Boubacar Hanne, POR, F, 1.75, 68, 26-02-99, Paços de Ferreira, Wolverhampton W
+19, Pedrinho, POR, M, 1.70, 68, 20-12-92, Cristelo, Riga FC
+20, Kanya Fujimoto, JPN, M, 1.76, 67, 01-07-99, Yamanashi, Tokyo Verdy
+21, Vitor Carvalho, BRA, M, 1.83, 74, 27-05-97, Palma, Coritiba
+22, Yves Baraye, SEN, F, 1.77, 69, 22-06-92, Dakar, Parma
+24, Quentin Beunardeau, FRA, G, 1.85, 72, 27-02-94, Le Mans, Desportivo das Aves
+25, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, Chapecoense
+26, Rúben Fernandes, POR, D, 1.86, 75, 06-05-86, Portimão, Portimonense
+27, Leandro, BRA, M, 1.75, 73, 21-09-96, Rio de Janeiro, Botafogo
+29, Lino, BRA, F, 1.70, 69, 23-12-99, Santo André, São Bernardo
+31, Talocha, POR, D, 1.80, 75, 30-08-89, Antas, Riga FC
+43, Pedro Marques, POR, F, 1.81, 77, 25-04-98, Lisbon, Sporting CP
+44, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, Fluminense
+55, Henrique Gomes, POR, D, 1.85, 78, 30-11-95, Barcelos, Sporting Covilhã
+77, Paulinho, POR, D, 1.75, 68, 13-07-91, Santa Marinha, AEK
+97, Guilherme Mantuan, BRA, M, 1.78, 70, 02-08-97, São Caetano do Sul, Corinthians
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+63, Daniel Fuzato, BRA, G, 1.90, 88, 04-07-97, Santa Bárbara d'Oeste, Roma
+34, Tim Hall, LUX, D, 1.90, 80, 15-04-97, Esch-sur-Alzette, Wisła Kraków
+19, Renan Oliveira, BRA, F, 1.84, 84, 08-05-97, Santo André, FC Lviv
+99, Ahmed Isaiah, NGA, M, 1.76, 68, 10-10-95, Lagos, Varzim (On Loan)
+16, Juan Villa, COL, M, 1.77, 74, 10-10-99, Cali, Berço (On Loan)

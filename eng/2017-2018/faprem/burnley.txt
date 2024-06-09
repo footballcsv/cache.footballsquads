@@ -1,0 +1,39 @@
+=  Burnley - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Heaton, ENG, G, 1.88, 85, 15-04-86, Chester, Bristol C
+2, Matthew Lowton, ENG, D, 1.80, 78, 09-06-89, Chesterfield, Aston Villa
+3, Charlie Taylor, ENG, D, 1.75, 70, 18-09-93, York, Leeds U
+4, Jack Cork, ENG, M, 1.85, 69, 25-06-89, Carshalton, Swansea C
+5, James Tarkowski, ENG, D, 1.85, 81, 19-11-92, Manchester, Brentford
+6, Ben Mee, ENG, D, 1.80, 74, 23-09-89, Sale, Manchester C
+7, Georges-Kevin Nkoudou, FRA, M, 1.75, 73, 13-02-95, Versailles, Tottenham H
+8, Dean Marney, ENG, M, 1.83, 72, 31-01-84, Barking, Hull C
+9, Sam Vokes, WAL, F, 1.86, 90, 21-10-89, Lymington, Wolverhampton W
+10, Ashley Barnes, AUT, F, 1.86, 77, 31-10-89, Bath, Brighton & HA
+11, Chris Wood, NZL, F, 1.91, 91, 07-12-91, Auckland, Leeds U
+12, Robbie Brady, IRL, M, 1.75, 69, 14-01-92, Dublin, Norwich C
+13, Jeff Hendrick, IRL, M, 1.85, 79, 31-01-92, Dublin, Derby Co
+16, Steven Defour, BEL, M, 1.73, 65, 15-04-88, Mechelen, Anderlecht
+17, Jóhann Guðmundsson, ISL, M, 1.86, 79, 27-10-90, Reykjavík, Charlton Ath
+18, Ashley Westwood, ENG, M, 1.70, 81, 01-04-90, Nantwich, Aston Villa
+19, Jonathan Walters, IRL, F, 1.83, 79, 20-09-83, Birkenhead, Stoke C
+21, Nahki Wells, BER, F, 1.70, 69, 01-06-90, Hamilton [BER], Huddersfield T
+22, Anders Lindegaard, DEN, G, 1.93, 80, 13-04-84, Odense, Preston NE
+23, Stephen Ward, IRL, D, 1.84, 82, 20-08-85, Dublin, Wolverhampton W
+25, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Everton
+26, Phillip Bardsley, SCO, D, 1.80, 78, 28-06-85, Salford, Stoke C
+28, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Cork C
+29, Nick Pope, ENG, G, 1.91, 76, 19-04-92, Cambridge, Charlton Ath
+30, Adam Legzdins, ENG, G, 1.83, 78, 28-11-86, Stafford, Birmingham C
+31, Dwight McNeil, ENG, M, 1.83, 68, 22-11-99, Rochdale, None
+37, Scott Arfield, CAN, M, 1.78, 70, 01-11-88, Dechmont, Huddersfield T
+41, Aiden O'Neill, AUS, M, 1.78, 70, 04-07-98, Brisbane, Brisbane Ath
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Chris Long, ENG, F, 1.69, 77, 25-02-95, Huyton, Northampton T (On Loan)
+32, Daniel Agyei, ENG, F, 1.83, 77, 01-06-97, Kingston upon Thames, Blackpool (On Loan)
+34, Tom Anderson, ENG, D, 1.93, 83, 02-09-93, Burnley, Doncaster R (On Loan)
+20, Fredrik Ulvestad, NOR, M, 1.83, 79, 17-06-92, Ålesund, Djurgårdens IF

@@ -1,0 +1,58 @@
+=  Salernitana - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vincenzo Fiorillo, ITA, G, 1.90, 74, 13-01-90, Genoa, Pescara
+2, Mamadou Coulibaly, SEN, M, 1.83, 79, 02-03-99, Thiès, Udinese
+3, Matteo Ruggeri, ITA, D, 1.79, 79, 11-07-02, San Giovanni Bianco, Atalanta
+4, Paweł Jaroszyński, POL, D, 1.84, 78, 02-10-94, Lublin, Genoa
+5, Frédéric Veseli, ALB, D, 1.83, 78, 20-11-92, Renens, Empoli
+6, Stefan Strandberg, NOR, D, 1.89, 77, 25-07-90, Lyngdal, FC Ural
+7, Franck Ribéry, FRA, M, 1.70, 64, 01-04-83, Boulogne-sur-Mer, Fiorentina
+8, Andrea Schiavone, ITA, M, 1.76, 74, 23-02-93, Turin, Bari
+9, Federico Bonazzoli, ITA, F, 1.82, 74, 21-05-97, Manerbio, Sampdoria
+10, Simone Verdi, ITA, F, 1.74, 72, 12-07-92, Broni, Torino
+11, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Bristol C
+12, Antonio Russo, ITA, G, 1.88, 74, 01-02-00, Acerra, Sarnese
+13, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, Corinthians
+14, Francesco Di Tacchio, ITA, M, 1.85, 81, 20-04-90, Trani, Avellino
+15, Emil Bohinen, NOR, M, 1.75, 75, 12-03-99, Derby, CSKA Moscow
+16, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Genoa
+17, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Capital Federal, Roma
+18, Lassana Coulibaly, MLI, M, 1.83, 74, 10-04-96, Bamako, Angers
+19, Luca Ranieri, ITA, D, 1.79, 74, 23-04-99, La Spezia, Fiorentina
+20, Grigoris Kastanos, CYP, M, 1.79, 71, 30-01-98, Nicosia, Juventus
+21, Nadir Zortea, ITA, D, 1.75, 70, 19-06-99, Feltre, Atalanta
+22, Joel Chukwuma Obi, NGA, M, 1.77, 72, 22-05-91, Lagos, Chievo Verona
+23, Norbert Gyömbér, SVK, D, 1.89, 79, 03-07-92, Revúca, Perugia
+24, Wajdi Kechrida, TUN, D, 1.84, 74, 05-11-95, Nice, Étoile du Sahel
+25, Radu Drăgușin, ROU, D, 1.91, 82, 03-02-02, Bucharest, Juventus
+28, Leonardo Capezzi, ITA, M, 1.78, 70, 28-03-95, Figline Valdarno, Sampdoria
+30, Pasquale Mazzocchi, ITA, D, 1.83, 78, 27-07-95, Naples, Venezia
+31, Riccardo Gagliolo, SWE, D, 1.80, 75, 28-04-90, Imperia, Parma
+33, Filippo Delli Carri, ITA, D, 1.90, 80, 03-05-99, Turin, Juventus U23
+34, Lorenzo Cannavale, ITA, F, 1.85, -, 29-01-02, Naples, None
+35, Andrei Moțoc, MDA, D, 1.95, 80, 13-04-02, Chișinău, Carpi
+36, Alessandro Russo, ITA, M, 1.77, -, 06-09-03, Avellino, None
+37, Mario Perrone, ITA, D, -, -, 06-02-03, Caserta, None
+38, Tommaso De Lorenzo, ITA, D, -, -, 12-01-04, Maddaloni, Crotone
+39, Antonio Pio Iervolino, ITA, M, 1.83, 67, 23-05-03, San Gennaro Vesuviano, Imolese
+40, Angelo Guida, ITA, F, 1.84, 67, 24-08-02, Caserta, None
+55, Luigi Sepe, ITA, G, 1.91, 75, 08-05-91, Torre del Greco, Parma
+63, Edoardo Vergani, ITA, F, 1.86, 77, 06-02-01, Segrate, Internazionale
+71, Jacopo De Matteis, ITA, G, 1.85, 68, 28-12-02, Rome, Savio
+72, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Sampdoria
+87, Mikael, BRA, F, 1.84, 80, 28-05-99, Bacabal, Sport Recife
+88, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Fenerbahçe
+99, Lys Mousset, FRA, F, 1.84, 80, 08-02-96, Le Havre, Sheffield U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Carmine Iannone, ITA, F, 1.87, 77, 19-07-01, San Giuseppe Vesuviano, Paganese (On Loan)
+19, Julian Kristoffersen, NOR, F, 1.95, 77, 10-01-97, Horten, Cosenza (On Loan)
+13, Ramzi Aya, ITA, D, 1.84, 79, 02-08-90, Rome, Reggina
+15, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Cremonese
+25, Simy Nwankwo, NGA, F, 1.98, 84, 07-05-92, Lagos, Parma (On Loan)
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Ternana (On Loan)
+32, Sedrick Kalombo, ITA, D, 1.78, 75, 08-02-95, Fano, Tsarsko Selo
+96, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, Tsarsko Selo

@@ -1,0 +1,60 @@
+=  Crotone - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Festa, ITA, G, 1.90, 85, 06-06-92, Montichiari, Mantova
+2, Laurens Serpe, ITA, D, 1.93, 82, 07-02-01, Fivizzano, Genoa
+3, Giuseppe Cuomo, ITA, D, 1.90, 79, 02-02-98, Vico Equense, None
+5, Vladimir Golemić, SRB, D, 1.92, 83, 28-06-91, Kruševac, Lamia
+6, Davide Mondonico, ITA, D, 1.93, 85, 25-05-97, Vimercate, AlbinoLeffe
+7, Miloš Vulić, SRB, M, 1.83, 74, 19-08-96, Kruševac, Crvena Zvezda
+8, Nahuel Estévez, ARG, M, 1.81, 77, 14-11-95, Capital Federal, Estudiantes (LP)
+9, Samuele Mulattieri, ITA, F, 1.83, 77, 07-10-00, La Spezia, Internazionale
+10, Ben Lhassine Kone, CIV, M, 1.72, 70, 14-03-00, Abidjan, Torino
+11, Bobby Adekanye, NED, F, 1.75, 70, 14-02-99, Ibadan, Lazio
+12, Domenico Pasqua, ITA, G, 1.83, -, 22-04-03, Cosenza, None
+14, Luca Calapai, ITA, D, 1.79, 76, 20-05-93, Messina, Catania
+16, David Schnegg, AUT, D, 1.85, 80, 29-09-98, Vienna, Venezia
+17, Manuel Marras, ITA, F, 1.68, 63, 09-07-93, Genoa, Bari
+19, Simone Canestrelli, ITA, M, 1.92, 85, 11-09-00, Montepulciano, Empoli
+21, Manuel Nicoletti, ITA, D, 1.80, 73, 09-12-98, Catanzaro, Foggia
+22, Gianluca Saro, ITA, G, 1.87, 78, 25-06-00, San Daniele del Friuli, Pro Vercelli
+23, Pasquale Giannotti, ITA, M, 1.70, 60, 05-06-99, Cirò Marina, None
+24, Augustus Kargbo, SLE, F, 1.72, 68, 24-08-99, Freetown, Campobasso
+26, Artemijus Tutyškinas, LTU, D, 1.90, 87, 08-08-03, Vilnius, Escola Varsovia
+27, Ionuţ Nedelcearu, ROU, D, 1.90, 79, 25-04-96, Bucharest, AEK
+28, Giuseppe Borello, ITA, F, 1.67, 60, 28-04-99, Catanzaro, None
+29, Marco Sala, ITA, D, 1.82, 72, 04-06-99, Rho, Sassuolo
+32, Vasile Mogos, ROU, D, 1.86, 84, 31-10-92, Vaslui, Chievo Verona
+37, Cosimo Spezzano, ITA, D, 1.93, -, 05-04-04, Corigliano Calabro, None
+38, Alessandro Maesano, ITA, F, 1.83, -, 11-07-03, Imola, None
+40, Alberto Lucano, ITA, G, -, -, 22-09-04, Locri, None
+41, Luca Gozzo, ITA, F, -, -, 01-12-04, -, Sicula Leonzio
+44, Thomas Schirò, ITA, M, 1.83, 80, 25-04-00, Novara, Internazionale
+70, Paolo Tornaghi, ITA, G, 1.92, 78, 21-06-88, Garbagnate, Olbia
+74, Gianmarco Cangiano, ITA, F, 1.70, 62, 16-11-01, Naples, Bologna
+77, Emre Güral, TUR, F, 1.87, 80, 05-04-89, Offenbach, Ankaragücü
+86, Theophilus Awua, NGA, M, 1.76, 69, 24-04-98, Makurdi, Pro Vercelli
+99, Mirko Marić, CRO, F, 1.88, 77, 16-05-95, Split, Monza
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Simy Nwankwo, NGA, F, 1.98, 84, 07-05-92, Lagos, Salernitana
+19, Giovanni Bruzzaniti, ITA, M, 1.77, 71, 09-09-00, Melito di Porto Salvo, Pro Vercelli (On Loan)
+8, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Monza
+14, Zak Ruggiero, ENG, F, 1.74, 70, 09-01-01, Bishop Auckland, Lucchese
+30, Junior Messias, BRA, M, 1.79, 70, 13-05-91, Belo Horizonte, Milan (On Loan)
+33, Andrea Rispoli, ITA, D, 1.88, 78, 29-09-88, Cava de' Tirreni, Parma
+97, Emmanuel Rivière, FRA, F, 1.82, 76, 03-03-90, Lamentin, 
+15, Godfred Donsah, GHA, M, 1.74, 70, 07-06-96, Accra, Yeni Malatyaspor
+17, Salvatore Molina, ITA, M, 1.77, 74, 01-01-92, Garbagnate Milanese, Monza
+44, Jacopo Petriccione, ITA, M, 1.76, 75, 22-02-95, Gorizia, Benevento (On Loan)
+10, Ahmad Benali, LBY, M, 1.73, 66, 07-02-92, Manchester, Pisa (On Loan)
+21, Niccolò Zanellato, ITA, M, 1.78, 74, 24-06-98, Milan, SPAL
+5, Santiago Visentin, ARG, D, 1.87, 80, 05-03-99, Rosario, Cittadella
+13, Nikita Contini, ITA, G, 1.90, 82, 21-05-96, Cherkasy, Napoli
+18, Brian Oddei, ITA, F, 1.75, 66, 18-09-02, Accra, Sassuolo
+20, Luis Rojas, CHI, M, 1.80, 82, 06-03-02, Santiago, Bologna (On Loan)
+73, Giovanni D'Aprile, ITA, D, 1.87, 73, 01-07-05, Belvedere Marittimo, Torino (On Loan)
+11, Musa Juwara, GAM, M, 1.70, 65, 26-12-01, Tujereng, Bologna
+30, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Universidad Católica

@@ -1,0 +1,58 @@
+=  Heart of Midlothian - Scottish Premiership 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Craig Gordon, SCO, G, 1.93, 77, 31-12-82, Edinburgh, Celtic
+2, Michael Smith, NIR, D, 1.80, 71, 04-09-88, Ballyclare, Peterborough U
+3, Stephen Kingsley, SCO, D, 1.78, 68, 23-07-94, Stirling, Hull C
+4, John Souttar, SCO, D, 1.85, 75, 25-09-96, Aberdeen, Dundee U
+5, Peter Haring, AUT, M, 1.87, 85, 02-06-93, Eisenstadt, Ried
+6, Beni Baningime, ENG, M, 1.78, 66, 09-09-98, Kinshasa, Everton
+8, Aaron McEneff, NIR, M, 1.75, 70, 09-07-95, Derry, Shamrock R
+9, Ben Woodburn, WAL, M, 1.74, 72, 16-11-99, Nottingham, Liverpool
+10, Liam Boyce, NIR, F, 1.84, 85, 08-04-91, Belfast, Burton Alb
+11, Gary Mackay-Steven, SCO, M, 1.75, 68, 31-08-90, Thurso, New York C
+12, Nathaniel Atkinson, AUS, D, 1.81, 72, 13-06-99, Launceston, Melbourne C
+13, Ross Stewart, SCO, G, 1.88, 71, 16-04-95, Glasgow, Livingston
+14, Cameron Devlin, AUS, M, 1.70, 68, 07-06-98, Sydney, Newcastle U Jets
+15, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, Bristol C
+16, Andrew Halliday, SCO, M, 1.73, 67, 11-10-91, Glasgow, Rangers
+17, Alex Cochrane, ENG, D, 1.75, 70, 21-04-00, Brighton, Brighton & HA
+18, Barrie McKay, SCO, M, 1.75, 67, 31-12-94, Paisley, Swansea C
+19, Craig Halkett, SCO, D, 1.83, 87, 29-05-95, Glasgow, Livingston
+20, Ellis Simms, ENG, F, 1.83, 73, 05-01-01, Oldham, Everton
+21, Toby Sibbick, ENG, D, 1.83, 69, 23-05-99, Isleworth, Barnsley
+30, Josh Ginnelly, ENG, M, 1.73, 65, 24-03-97, Coventry, Preston NE
+32, Ryan Schiavone, SCO, F, -, -, 07-05-03, -, None
+33, Harris Spratt, SCO, G, -, -, 07-05-03, -, None
+36, Callum Flatman, SCO, M, -, -, 13-01-04, -, None
+37, Bailey Dall, SCO, D, -, -, 19-01-04, -, None
+38, Finlay Pollock, SCO, M, -, -, 27-06-04, -, None
+39, Liam MacFarlane, SCO, G, -, -, 26-09-04, -, None
+41, Jay Charleston-King, SCO, F, -, -, 06-03-03, -, None
+42, Sean Docherty, SCO, D, -, -, 17-09-03, -, None
+43, Harry Gordon, SCO, M, -, -, 02-01-04, -, None
+44, Makenzie Kirk, NIR, F, -, -, 06-02-04, -, None
+45, Michael Aitken, SCO, D, -, -, 11-02-04, -, None
+46, Callum Hambrook, SCO, M, -, -, 27-01-05, -, None
+47, Luke Rathie, SCO, D, -, -, 19-03-05, -, None
+48, Murray Thomas, SCO, F, -, -, 27-01-04, -, None
+49, Macauley Tait, SCO, M, -, -, 27-11-05, -, None
+50, Ethan Drysdale, SCO, F, -, -, 16-10-05, -, None
+54, Callum Sandilands, SCO, M, -, -, 07-09-05, -, Rangers
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Scott McGill, SCO, M, 1.83, 73, 27-01-02, Edinburgh, Airdrieonians (On Loan)
+29, Loïc Damour, FRA, M, 1.81, 77, 08-01-91, Chantilly, Le Mans (On Loan)
+31, Arron Darge, SCO, D, -, -, 26-04-03, -, Gala Fairydean R (On Loan)
+27, Connor Smith, SCO, M, 1.73, 69, 01-02-02, Cowdenbeath, Queen's Park (On Loan)
+20, Jordan Roberts, ENG, M, 1.80, 81, 05-01-94, Watford, Motherwell (On Loan)
+28, Mihai Popescu, ROU, D, 1.88, 79, 07-05-93, Câmpulung, Hamilton Academical (On Loan)
+35, Aidan Denholm, SCO, M, -, -, 09-11-03, -, Berwick Rangers (On Loan)
+25, Cammy Logan, SCO, D, 1.76, 69, 28-01-02, Edinburgh, Edinburgh C (On Loan)
+7, Jamie Walker, SCO, M, 1.80, 76, 25-06-93, Edinburgh, Bradford C (On Loan)
+34, Leon Watson, SCO, D, -, -, 20-05-03, -, East Fife (On Loan)
+23, Harry Stone, SCO, G, 1.91, 70, 20-04-02, Edinburgh, Albion R (On Loan)
+21, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Le Mans
+22, Euan Henderson, SCO, F, 1.75, 65, 29-06-00, Edinburgh, Alloa Ath (On Loan)

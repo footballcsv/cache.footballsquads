@@ -1,0 +1,35 @@
+=  Kisvárda - Hungarian Nemzeti Bajnokság I 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Viktor Hey, UKR, M, 1.68, 67, 02-02-96, Nizhny Koropets, Hoverla Uzhhorod
+4, Anton Kravchenko, UKR, D, 1.89, 79, 23-03-91, Dnipropetrovsk, Olimpik Donetsk
+5, Lazar Ćirković, SRB, D, 1.92, 85, 22-08-92, Niš, Maccabi Netanya
+6, Bence Ötvös, HUN, M, 1.82, 77, 13-03-98, Nyíregyháza, Nyíregyháza
+7, Driton Camaj, MNE, F, 1.82, 73, 07-03-97, Podgorica, Iskra Danilovgrad
+8, Yanis Karabelyov, BUL, M, 1.83, 75, 23-01-96, Sofia, Slavia Sofia
+9, Rafał Makowski, POL, M, 1.91, 78, 05-08-96, Warsaw, Śląsk Wrocław
+10, Claudiu Bumba, ROU, M, 1.75, 67, 05-01-94, Baia Mare, Adanaspor
+12, Artem Odyntsov, UKR, G, 1.95, 80, 09-11-00, Khartsyzk, None
+13, Lazar Zličić, SRB, M, 1.82, 74, 07-01-97, Novi Sad, Voždovac
+17, Jasir Asani, ALB, F, 1.79, 62, 19-05-95, Skopje, Partizani Tirana
+18, Bohdan Melnyk, UKR, D, 1.76, 68, 04-01-97, -, Vorskla Poltava
+19, Herdi Prenga, ALB, D, 1.90, 80, 31-08-94, Zadar, Riga FC
+20, Jaroslav Navrátil, CZE, F, 1.85, 77, 30-12-91, Hustopeče, Go Ahead Eagles
+21, András Gosztonyi, HUN, F, 1.78, 68, 07-11-90, Kaposvár, Śląsk Wrocław
+25, Matheus Leoni, BRA, D, 1.75, 70, 20-09-91, Porto Velho, Arda Kardzhali
+27, Jasmin Mešanović, BIH, F, 1.83, 78, 06-01-92, Tuzla, Sarajevo
+32, Dávid Dombó, HUN, G, 1.84, 79, 26-02-93, Pápa, Mezőkövesd
+33, Tamás Rubus, HUN, D, 1.86, 82, 13-07-89, Békéscsaba, Nyíregyháza
+45, Slobodan Simović, SRB, M, 1.90, 80, 22-05-89, Čačak, BATE
+67, Mihály Nagy, HUN, F, 1.80, 78, 20-06-92, Siklós, Ajka
+70, Levente Szőr, HUN, M, 1.82, 74, 14-01-01, Kisvárda, None
+71, Andrei Peteleu, ROU, D, 1.82, 76, 20-08-92, Bistrița, UTA Arad
+88, Erik Czérna, HUN, M, 1.71, 58, 07-05-03, Kisvárda, None
+99, Mykhaylo Hotra, UKR, G, 1.90, 80, 20-04-00, -, FC Uzhhorod
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Richárd Jelena, HUN, F, 1.88, 88, 08-01-98, Pécs, Miercurea Ciuc
+11, Lucas Marcolini, BRA, M, 1.76, 70, 06-05-89, Cornélio Procópio, Diósgyőr (On Loan)
+22, Márk Németh, HUN, G, 1.85, 79, 20-04-02, -, 

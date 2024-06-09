@@ -1,0 +1,52 @@
+=  Wigan Athletic - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Tickle, ENG, G, 1.88, 74, 31-03-02, Warrington, None
+2, Kelland Watts, ENG, D, 1.92, 75, 03-11-99, Alnwick, Newcastle U
+3, Tom Pearce, ENG, D, 1.85, 79, 12-04-98, Ormskirk, Leeds U
+4, Liam Morrison, SCO, D, 1.83, 75, 07-04-03, Saltcoats, Bayern Munich
+5, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, Fulham
+6, Charlie Hughes, ENG, D, 1.85, 80, 16-10-03, Salford, None
+7, Sean Clare, ENG, D, 1.90, 79, 18-09-96, Sheffield, Charlton Ath
+8, Matt Smith, ENG, M, 1.76, 71, 05-10-00, Harlow, Arsenal
+10, Thelo Aasgaard, NOR, M, 1.70, 72, 02-05-02, Liverpool, None
+11, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Rochdale
+12, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Charlton Ath
+14, Jordan Jones, NIR, F, 1.74, 61, 24-10-94, Middlesbrough, Rangers
+15, Jason Kerr, SCO, D, 1.83, 70, 06-02-97, Edinburgh, St Johnstone
+16, Liam Shaw, ENG, M, 1.78, 65, 12-03-01, Sheffield, Celtic
+17, Martial Godo, ENG, M, 1.69, 61, 14-03-03, Greenwich, Fulham
+18, Jonny Smith, ENG, M, 1.78, 64, 27-07-97, Liverpool, Burton Alb
+20, Callum McManaman, ENG, M, 1.75, 71, 25-04-91, Knowsley, Tranmere R
+21, Scott Smith, ENG, M, 1.73, 70, 02-07-01, Wigan, None
+22, Chris Sze, ENG, M, -, -, 09-12-03, -, None
+23, Charlie Kelman, USA, F, 1.75, 70, 02-11-01, Basildon, QPR
+24, Luke Chambers, ENG, D, -, -, 24-06-04, Preston, Liverpool
+25, Josh Stones, ENG, F, 1.80, 79, 12-11-03, Bradford, Guiseley
+26, Baba Adeeko, IRL, M, -, -, 03-04-03, -, None
+28, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Hull C
+29, Charlie Goode, ENG, D, 1.96, 75, 03-08-95, Watford, Brentford
+32, Abdi Sharif, ENG, M, -, -, 01-01-01, -, Liverpool
+33, Luke Brennan, ENG, M, 1.78, 64, 19-10-01, Liverpool, Blackburn R
+35, Kieran Lloyd, ENG, D, -, -, 13-10-02, -, Liverpool
+36, Youssef Chentouf, ENG, F, -, -, 10-02-04, -, None
+38, Joe Rodwell-Grant, ENG, F, -, -, 18-10-02, Blackburn, Preston NE
+40, Tom Watson, ENG, G, -, -, 27-08-04, -, None
+43, Dylan Dwyer, ENG, M, -, -, 27-11-03, Liverpool, Tranmere R
+44, Jack Reilly, ENG, D, -, -, 09-02-04, -, None
+45, Kai Payne, ENG, M, -, -, 26-11-04, -, Liverpool
+50, Matt Wonnacott, ENG, G, -, -, 31-08-04, -, Torquay U
+51, Matthew Corran, ENG, G, -, -, 04-10-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, James Balagizi, ENG, M, 1.89, 74, 20-09-03, Manchester, Liverpool
+31, James Carragher, ENG, D, 1.92, 87, 11-11-02, Liverpool, Inverness CT (On Loan)
+41, Joe Adams, ENG, M, -, -, 03-06-04, Guernsey, Morecambe (On Loan)
+37, Ethan Mitchell, USA, D, -, -, 13-02-03, Liverpool, Wigan Ath (On Loan)
+34, Luke Robinson, SCO, D, 1.76, 72, 19-11-01, Birkenhead, St Johnstone (On Loan)
+23, Omar Rekik, TUN, D, 1.86, 80, 20-12-01, Den Haag, Arsenal
+19, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, Portsmouth
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Rotherham U (On Loan)
+42, Harry McHugh, ENG, F, -, -, 14-10-02, Liverpool, Ayr U (On Loan)

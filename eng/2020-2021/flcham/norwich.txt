@@ -1,0 +1,73 @@
+=  Norwich City - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tim Krul, NED, G, 1.88, 74, 03-04-88, Den Haag, Brighton & HA
+2, Max Aarons, ENG, D, 1.76, 69, 04-01-00, Hammersmith, Luton T
+3, Sam Byram, ENG, D, 1.80, 72, 16-09-93, Thurrock, West Ham U
+5, Grant Hanley, SCO, D, 1.88, 76, 20-11-91, Dumfries, Newcastle U
+6, Christoph Zimmermann, GER, D, 1.94, 92, 12-01-93, Düsseldorf, Borussia Dortmund II
+7, Lukas Rupp, GER, M, 1.78, 64, 08-01-91, Heidelberg, 1899 Hoffenheim
+8, Mario Vrančić, BIH, M, 1.86, 75, 23-05-89, Slavonski Brod, Darmstadt
+9, Jordan Hugill, ENG, F, 1.83, 64, 04-06-92, Middlesbrough, West Ham U
+10, Kieran Dowell, ENG, M, 1.75, 59, 10-10-97, Ormskirk, Everton
+11, Przemysław Płacheta, POL, M, 1.77, 71, 23-03-98, Łowicz, Śląsk Wrocław
+12, Ørjan Nyland, NOR, G, 1.92, 78, 10-09-90, Volda, Aston Villa
+14, Todd Cantwell, ENG, M, 1.77, 66, 27-02-98, Norwich, None
+16, Xavi Quintillà, ESP, D, 1.79, 70, 23-08-96, Lleida, Villarreal
+17, Emi Buendía, ARG, M, 1.70, 65, 25-12-96, Mar del Plata, Getafe
+18, Marco Stiepermann, GER, M, 1.80, 75, 09-02-91, Dortmund, Bochum
+19, Jacob Lungi Sørensen, DEN, M, 1.84, 77, 03-03-98, Esbjerg, Esbjerg
+20, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, Tottenham H
+22, Teemu Pukki, FIN, F, 1.76, 66, 29-03-90, Kotka, Brøndby
+23, Kenny McLean, SCO, M, 1.83, 70, 08-01-92, Rutherglen, Aberdeen
+24, Josh Martin, ENG, M, 1.77, 70, 09-09-01, Luton, Arsenal
+25, Onel Hernández, CUB, M, 1.72, 69, 01-02-93, Morón, Eintracht Braunschweig
+26, Bali Mumba, ENG, D, 1.76, 62, 08-10-01, South Shields, Sunderland
+27, Alexander Tettey, NOR, M, 1.80, 68, 04-04-86, Accra, Rennes
+28, Melvin Sitti, FRA, M, 1.82, 67, 14-02-00, Paris, Sochaux
+30, Dimitris Giannoulis, GRE, D, 1.75, 70, 17-10-96, Katerini, PAOK
+33, Michael McGovern, NIR, G, 1.91, 89, 12-07-84, Enniskillen, Hamilton Academical
+34, Ben Gibson, ENG, D, 1.85, 78, 15-01-93, Nunthorpe, Burnley
+35, Adam Idah, IRL, F, 1.90, 83, 11-02-01, Cork, College Corinthians
+38, Aston Oxborough, ENG, G, 1.85, 76, 09-05-98, Great Yarmouth, None
+40, Zach Dronfield, ENG, M, 1.71, 65, 01-03-02, Great Yarmouth, None
+41, Josh Giurgi, IRL, F, 1.76, 66, 18-06-02, Dublin, None
+42, Reece McAlear, SCO, M, 1.85, 75, 12-02-02, Glasgow, Motherwell
+44, Andrew Omobamidele, IRL, D, 1.88, 75, 23-06-02, Dublin, None
+45, Jonathan Tomkinson, USA, D, 1.90, 70, 11-04-02, Plano, None
+46, Ethen Vaughan, WAL, D, 1.69, 63, 05-11-01, Halifax, None
+47, Matthew Dennis, ENG, D, -, -, 15-04-02, -, Arsenal
+49, Shae Hutchinson, ENG, F, 1.76, 70, 09-10-00, Islington, None
+50, Daniel Barden, WAL, G, 1.95, 82, 02-01-01, Camden, Arsenal
+51, Rob Nizet, BEL, D, 1.79, 66, 14-04-02, Banjul, Anderlecht
+52, Jon McCracken, SCO, G, 1.85, 77, 24-05-00, Wishaw, Hamilton Academical
+54, Louis Lomas, ENG, D, 1.93, 79, 11-10-00, Luton, None
+57, Tom Dickson-Peters, SCO, F, -, -, 16-09-02, Slough, None
+58, Eddie Jackson, ENG, D, -, -, 10-12-02, Norwich, None
+59, Tony Springett, IRL, M, 1.74, 72, 22-09-02, Lewisham, None
+60, Jaden Warner, ENG, D, -, -, 28-10-02, Hillingdon, None
+61, Jonathan Rowe, ENG, F, 1.73, 67, 30-04-03, Westminster, None
+62, Sam Blair, ENG, G, -, -, 27-12-02, -, None
+63, Saxon Earley, ENG, D, 1.77, 70, 11-10-02, Norwich, None
+64, Nelson Khumbeni, ENG, M, -, -, 14-10-02, -, None
+65, Moritz Leitner, GER, M, 1.74, 65, 08-12-92, Munich, Augsburg
+67, Sean Stewart, NIR, D, -, -, 21-01-03, -, None
+68, Abu Kamara, ENG, D, -, -, 21-07-03, -, None
+69, Lewis Shipley, ENG, D, 1.83, 75, 29-11-03, Cambridge, None
+70, Brad Hills, ENG, D, -, -, 10-03-04, Great Yarmouth, None
+71, Oscar Thorn, ENG, F, -, -, 22-03-04, Southend-on-Sea, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Jamal Lewis, NIR, D, 1.78, 70, 25-01-98, Luton, Newcastle U
+31, Sam McCallum, ENG, D, 1.77, 68, 02-09-00, Canterbury, Coventry C (On Loan)
+21, Danel Sinani, LUX, F, 1.85, 70, 05-04-97, Belgrade, Waasland-Beveren (On Loan)
+43, Akin Famewo, ENG, D, 1.80, 66, 09-11-98, Lewisham, Charlton Ath (On Loan)
+4, Ben Godfrey, ENG, D, 1.83, 74, 15-01-98, York, Everton
+15, Timm Klose, SUI, D, 1.93, 87, 09-05-88, Frankfurt am Main, Basel (On Loan)
+56, Charlie Gilmour, SCO, M, 1.71, 69, 11-02-99, Brighton, St Johnstone
+48, William Hondermarck, FRA, M, 1.85, 74, 21-11-00, Orléans, Harrogate T (On Loan)
+53, Tyrese Omotoye, BEL, F, 1.78, 65, 23-09-02, Hasselt, Swindon T (On Loan)
+55, Saul Milovanović, ENG, M, -, -, 08-09-00, Oldham, 
+66, Josip Drmić, SUI, F, 1.82, 70, 08-08-92, Lachen, Rijeka (On Loan)

@@ -1,0 +1,55 @@
+=  Blackpool - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Richard O'Donnell, ENG, G, 1.88, 85, 12-09-88, Sheffield, Rochdale
+2, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton
+3, James Husband, ENG, D, 1.79, 65, 03-01-94, Leeds, Norwich C
+4, Jordan Lawrence-Gabriel, SCO, D, 1.78, 69, 25-09-98, London, Nottingham F
+5, Matthew Pennington, ENG, D, 1.85, 77, 06-10-94, Warrington, Shrewsbury T
+6, Oliver Norburn, GRN, M, 1.85, 82, 26-10-92, Leicester, Peterborough U
+7, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, Sheffield W
+8, Albie Morgan, ENG, M, 1.81, 68, 02-02-00, Portsmouth, Charlton Ath
+9, Kyle Joseph, SCO, F, 1.86, 75, 10-09-01, Barnet, Swansea C
+10, Sonny Carey, ENG, M, 1.84, 73, 20-01-01, Norwich, King's Lynn T
+11, Karamoko Dembélé, ENG, M, 1.61, 55, 22-02-03, Lambeth, Brest
+13, Mackenzie Chapman, ENG, G, 1.94, 84, 13-09-02, Bury, Bolton W
+15, Hayden Coulson, ENG, D, 1.77, 70, 17-06-98, Gateshead, Middlesbrough
+16, Jordan Rhodes, SCO, F, 1.85, 71, 05-02-90, Oldham, Huddersfield T
+17, Matty Virtue, ENG, M, 1.75, 66, 02-05-97, Epsom, Liverpool
+18, Jake Beesley, ENG, F, 1.85, 67, 02-12-96, Sheffield, Rochdale
+19, Shayne Lavery, NIR, F, 1.82, 73, 08-12-98, Lurgan, Linfield
+20, Oliver Casey, ENG, D, 1.88, 78, 14-10-00, Leeds, Leeds U
+21, Marvin Ekpiteta, ENG, D, 1.93, 85, 26-08-95, Enfield, Leyton Orient
+22, CJ Hamilton, IRL, M, 1.70, 74, 23-03-95, Harrow, Mansfield T
+24, Andy Lyons, IRL, D, 1.73, 58, 02-08-00, Naas, Shamrock R
+27, Kylian Kouassi, ENG, F, -, -, 18-06-03, -, Sutton U
+28, Ryan Finnigan, ENG, M, -, -, 23-09-03, Poole, Southampton
+32, Daniel Grimshaw, ENG, G, 1.85, 77, 16-01-98, Manchester, Manchester C
+35, Zak Emmerson, ENG, F, -, -, 10-08-04, -, Brighton & HA
+36, Josh Miles, ENG, F, -, -, 30-11-06, Liverpool, Southport
+37, Luke Mariette, WAL, M, -, -, 08-10-03, Denbigh, None
+39, Alex Lankshear, ENG, D, 1.86, 75, 08-09-02, Watford, St Albans C
+40, Dannen Francis, ENG, M, -, -, 14-12-04, Leicester, None
+41, Jack Moore, ENG, D, -, -, 19-11-03, Keighley, None
+42, Tayt Trusty, CYP, M, -, -, 23-11-03, Dartford, None
+43, Jake Daniels, ENG, F, -, -, 08-01-05, Blackpool, None
+44, Will Squires, ENG, D, -, -, 29-04-04, Blackpool, None
+45, Kwaku Donkor, ENG, D, -, -, 15-09-04, Newham, None
+46, Jaden Jones, ENG, F, -, -, -, -, None
+47, Josh Nyame, GHA, D, -, -, -, -, None
+48, Donovan Lescott, ENG, M, -, -, -, -, Saford C
+49, Johnson Opawole, ENG, D, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Tom Trybull, GER, M, 1.81, 72, 09-03-93, Berlin, Odense
+15, Jensen Weir, ENG, M, 1.86, 74, 31-01-02, Warrington, Brighton & HA
+25, Rob Apter, SCO, M, 1.75, 58, 16-01-03, Liverpool, Tranmere R (On Loan)
+23, Dominic Thompson, ENG, D, 1.85, 75, 26-07-00, Willesden, Forest Green R (On Loan)
+33, Doug Tharme, ENG, D, 1.83, 78, 03-02-00, Birkenhead, Grimsby T
+12, Kenny Dougall, AUS, M, 1.82, 79, 07-05-93, Brisbane, Buriram U
+38, Brad Holmes, ENG, F, -, -, 16-12-02, Blackpool, Dunfermline Ath (On Loan)
+30, Tashan Oakley-Boothe, ENG, M, 1.78, 70, 14-02-00, Lambeth, Estrela da Amadora
+7, Owen Dale, ENG, M, 1.75, 65, 01-11-98, Warrington, Oxford U
+34, Dan Sassi, ENG, D, -, -, 08-12-03, Uttoxeter, Rochdale (On Loan)

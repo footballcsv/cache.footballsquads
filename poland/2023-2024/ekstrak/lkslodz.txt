@@ -1,0 +1,48 @@
+=  ŁKS Łódź - Polish Ekstraklasa 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksander Bobek, POL, G, 1.92, 81, 07-04-04, Łódź, None
+2, Levent Gülen, SUI, D, 1.80, 68, 24-02-94, Zürich, Miedź Legnica
+3, Artemijus Tutyškinas, LTU, D, 1.90, 87, 08-08-03, Vilnius, Crotone
+4, Rahil Mammadov, AZE, D, 1.91, 75, 24-11-95, Baku, Qarabağ
+5, Marcin Flis, POL, D, 1.85, 75, 10-02-94, Bychowa, Stal Mielec
+6, Thiago Ceijas, ARG, M, 1.81, 74, 08-04-01, Recanati, Beroe Stara Zagora
+8, Kamil Dankowski, POL, D, 1.77, 67, 22-07-96, Duszniki Zdrój, Śląsk Wrocław
+9, Kay Tejan, NED, F, 1.84, 78, 03-02-97, Amsterdam, TOP Oss
+10, Pirulo, ESP, M, 1.77, 70, 17-04-92, Los Barrios, Linense
+11, Engjëll Hoti, KVX, M, 1.87, 80, 26-02-97, Stuttgart, Partizani Tirana
+12, Tomasz Kucharski, POL, G, -, -, 26-05-03, -, None
+14, Michał Mokrzycki, POL, M, 1.80, 75, 29-12-97, Rzeszów, Wisła Płock
+15, Antoni Młynarczyk, POL, F, 1.86, 71, 03-05-05, Łask, None
+16, Dani Ramírez, ESP, M, 1.75, 70, 18-06-92, Leganés, Zulte-Waregem
+18, Riza Durmisi, DEN, D, 1.68, 67, 08-01-94, Ishøj, Lazio
+19, Jędrzej Zając, POL, M, -, -, 15-06-04, -, Radunia Stężyca
+20, Piotr Janczukowicz, POL, M, 1.83, 76, 29-01-00, Słupsk, Olimpia Grudziądz
+21, Stipe Jurić, BIH, F, 1.85, 79, 19-11-98, Tomislavgrad, Široki Brijeg
+22, Jan Łabędzki, POL, M, -, -, 11-02-06, -, None
+23, Maciej Śliwa, POL, M, 1.75, 70, 22-05-01, Starachowice, Miedź Legnica
+24, Adrien Louveau, FRA, D, 1.89, 86, 01-02-00, Lille, Lens
+25, Michał Kołba, POL, G, 1.86, 76, 30-03-92, Łódź, Pogoń Grodzisk Mazowiecki
+26, Bartosz Szeliga, POL, M, 1.84, 74, 10-01-93, Nowy Sącz, GKS Tychy
+27, Jakub Letniowski, POL, M, 1.77, 60, 13-11-00, Gdańsk, Radunia Stężyca
+29, Yadegar Rostami, IRN, M, 1.81, 75, 02-01-04, Marivan, Pogoń Szczecin
+31, Marcel Wszołek, POL, D, 1.80, 71, 11-03-02, Grudziądz, Lechia Gdańsk
+32, Oliwier Sławiński, POL, F, 1.84, 74, 15-04-05, -, Zagłębie Lubin
+37, Piotr Głowacki, POL, D, 1.82, 78, 12-10-91, Olsztyn, Stal Rzeszów
+70, Husein Balić, AUT, F, 1.83, 73, 15-02-96, Linz, LASK Linz
+77, Ricardo Gonçalves, POL, M, 1.74, 62, 10-11-03, Szczecin, Widzew Łódź
+88, Adam Marciniak, POL, D, 1.86, 78, 28-09-88, Łódź, Arka Gdynia
+99, Dawid Arndt, POL, G, 1.87, 80, 22-09-01, Tomaszów Mazowiecki, Mazovia Tomaszów Mazowiecki
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mateusz Kowalczyk, POL, M, 1.81, 73, 16-04-04, Warsaw, Brøndby
+18, Kelechukwu Ibe-Torti, POL, F, 1.74, 70, 26-01-02, Abuja, Resovia Rzeszów (On Loan)
+6, Vladyslav Okhronchuk, UKR, M, 1.90, 77, 14-07-97, Kyiv, Polonia Warszawa (On Loan)
+4, Nacho Monsalve, ESP, D, 1.89, 81, 27-04-94, Madrid, Eldense
+28, Mieszko Lorenc, POL, M, 1.89, 85, 26-08-01, Sieradz, Wisła Płock (On Loan)
+7, Adrian Malachowski, POL, M, 1.83, 76, 10-03-98, Bydgoszcz, Podbeskidzie Bielsko-Biała (On Loan)
+6, Nelson Balongo, COD, F, 1.87, 73, 15-04-99, Tongeren, RFC Seraing
+17, Grzegorz Glapka, POL, M, 1.82, 75, 22-11-02, Chorzów, Olimpia Grudziądz (On Loan)
+29, Anton Fase, NED, F, 1.85, 78, 06-02-00, Haarlem, ŁKS Łódź II

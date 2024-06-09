@@ -1,0 +1,45 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Myroslav Znovenko, UKR, G, 1.93, 82, 26-02-02, Luhansk, Dnipro-1
+2, Oleksandr Myzyuk, UKR, D, 1.89, 80, 31-05-95, Borova, FC Vovchansk
+3, Pathy Malumandsoko, FRA, D, 1.85, 80, 11-05-00, Fontainebleau, Apollon Pontos
+4, Ihor Chaykovskyy, UKR, M, 1.71, 69, 07-10-91, Chernivtsi, Bukovyna Chernivtsi
+5, Oleksandr Nikolyshyn, UKR, D, 1.86, 72, 20-07-04, Drohobych, Hirnyk-Sport Horishni Plavni
+6, Andriy Ralyuchenko, UKR, M, 1.82, 71, 08-06-95, Kharkiv, Hirnyk-Sport Horishni Plavni
+7, Dmytro Korkishko, UKR, F, 1.75, 68, 04-05-90, Cherkasy, Aktobe
+8, Serhiy Panasenko, UKR, M, 1.68, 66, 09-03-92, Dnipropetrovsk, Veres Rivne
+9, Maksym Pryadun, UKR, F, 1.76, 74, 17-02-97, Kirovohrad, Olimpik Donetsk
+10, Vladyslav Naumets, UKR, M, 1.70, 63, 07-03-99, Luhansk, Chornomorets Odessa
+11, Yehor Kartushov, UKR, M, 1.75, 65, 05-01-91, Saky, Desna Chernihiv
+17, Yehor Demchenko, UKR, M, 1.78, 72, 25-07-97, Stepnohirsk, Avanhard Kramatorsk
+21, Maksym Bahachanskyi, UKR, M, 1.82, 67, 05-06-02, Krasnohrad, Olimpik Kharkiv
+22, Yehor Klymenchuk, UKR, D, 1.80, 66, 11-11-97, Zaporizhya, Ararat-Armenia
+23, Bohdan Boychuk, UKR, M, 1.70, 59, 30-05-96, Kherson, Rukh Lviv
+27, Volodymyr Shopin, UKR, D, 1.81, 72, 09-05-91, Kharkiv, Hirnyk-Sport Horishni Plavni
+28, Samuel, BRA, D, 1.77, 74, 06-06-99, Gravataí, São José
+31, Bohdan Porokh, UKR, D, 1.89, 80, 05-08-00, Pavlohrad, MFC Mykolaiv
+33, Roberto Corral, ESP, D, 1.81, 70, 14-09-97, Valladolid, Korona Kielce
+35, Serhiy Shumilov, UKR, G, 1.88, 75, 26-05-06, -, Metalist Kharkiv-2
+36, Anderson Pico, BRA, D, 1.69, 75, 04-11-88, Porto Alegre, Cruzeiro-RS
+44, Kyrylo Vlaha, UKR, D, 1.76, 66, 22-10-06, -, Metalist Kharkiv-2
+47, Yuriy Romanyuk, UKR, D, 1.76, 70, 06-05-97, Rudka-Kozynska, Rukh Lviv
+53, Hennadiy Synchuk, UKR, M, 1.82, 68, 10-07-06, Manchenky, Metalist Kharkiv-2
+59, Danylo Kaydalov, UKR, M, 1.75, 60, 02-02-06, Kharkiv, Metalist Kharkiv-2
+69, Dmytro Shamych, UKR, M, 1.74, 69, 15-05-01, Kyiv, Baník Sokolov
+70, Aleks Chidomere, UKR, M, 1.86, 73, 12-08-02, Kyiv, Obolon Kyiv
+88, Yevheniy Ryazantsev, UKR, F, 1.84, 66, 28-01-02, Kyiv, Dynamo Kyiv-2
+96, Daniil Yermolov, UKR, G, 1.96, 76, 03-12-00, Bashtanka, Kremin Kremenchuk
+99, Orest Kostyk, UKR, G, 1.89, 78, 16-04-99, Zarvanytsia, FC Lviv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Oleksandr Rybka, UKR, G, 1.93, 92, 10-04-87, Kyiv, FC Lviv
+14, Danylo Knysh, UKR, M, 1.76, 69, 03-03-96, Artsyz, Karpaty Lviv (On Loan)
+12, Yevhen Pidlepenets, UKR, M, 1.83, 70, 10-11-98, Tokmak, Dnipro-1 (On Loan)
+29, Vyacheslav Tankovskyy, UKR, M, 1.68, 64, 16-08-95, Novomoskovsk, Dnipro-1 (On Loan)
+20, Yves-Simon Pambou, CGO, M, 1.71, 68, 27-11-95, Montfermeil, 
+24, Vitaliy Fedoriv, UKR, D, 1.80, 75, 21-10-87, Lviv, Dnipro-1 (On Loan)
+26, Oleksandr Kaplienko, UKR, D, 1.72, 56, 07-03-96, Zaporizhya, Dnipro-1 (On Loan)
+91, Mykola Yarosh, UKR, G, 1.88, 82, 20-09-04, -, 

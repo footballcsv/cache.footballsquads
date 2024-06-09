@@ -1,0 +1,45 @@
+=  Internazionale - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Handanovič, SVN, G, 1.93, 89, 14-07-84, Ljubljana, Udinese
+2, Denzel Dumfries, NED, D, 1.83, 80, 18-04-96, Rotterdam, PSV Eindhoven
+5, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, Atalanta
+6, Stefan de Vrij, NED, D, 1.88, 78, 05-02-92, Ouderkerk aan den IJssel, Lazio
+7, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Manchester U
+8, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Fiorentina
+9, Edin Džeko, BIH, F, 1.93, 80, 17-03-86, Sarajevo, Roma
+10, Lautaro Martínez, ARG, F, 1.74, 72, 22-08-97, Bahía Blanca, Racing Club
+11, Aleksandar Kolarov, SRB, D, 1.87, 81, 10-11-85, Belgrade, Roma
+13, Andrea Ranocchia, ITA, D, 1.95, 80, 16-02-88, Assisi, Genoa
+14, Ivan Perišić, CRO, F, 1.86, 80, 02-02-89, Split, Wolfsburg
+18, Robin Gosens, GER, D, 1.83, 76, 05-07-94, Emmerich, Atalanta
+19, Joaquín Correa, ARG, M, 1.88, 77, 13-08-94, Juan Bautista Alberdi, Lazio
+20, Hakan Çalhanoğlu, TUR, M, 1.78, 69, 08-02-94, Mannheim, Milan
+21, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Crotone
+22, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Barcelona
+23, Nicolò Barella, ITA, M, 1.72, 68, 07-02-97, Cagliari, Cagliari
+32, Federico Dimarco, ITA, D, 1.82, 75, 10-11-97, Milan, None
+33, Danilo D'Ambrosio, ITA, D, 1.82, 75, 09-09-88, Naples, Torino
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Parma
+37, Milan Škriniar, SVK, D, 1.87, 80, 11-02-95, Žiar nad Hronom, Sampdoria
+38, Mattia Sangalli, ITA, M, 1.84, -, 27-02-02, Milan, None
+40, William Rovida, ITA, G, 1.95, 75, 14-03-03, Milan, None
+41, Dennis Curatolo, ITA, F, 1.79, -, 03-04-04, Como, None
+42, Cesare Casadei, ITA, M, 1.86, -, 10-01-03, Ravenna, Cesena
+43, Fabio Cortinovis, ITA, D, 1.86, 76, 20-04-02, Seriate, Virtus Bergamo
+46, Mattia Zanotti, ITA, D, 1.77, 72, 11-01-03, Brescia, None
+47, Franco Carboni, ARG, D, 1.83, 75, 04-04-03, Buenos Aires, Catania
+77, Marcelo Brozović, CRO, M, 1.81, 68, 16-11-92, Zagreb, Dinamo Zagreb
+88, Felipe Caicedo, ECU, F, 1.83, 82, 05-09-88, Guayaquil, Genoa
+95, Alessandro Bastoni, ITA, D, 1.90, 75, 13-04-99, Casalmaggiore, Atalanta
+97, Ionuţ Andrei Radu, ROU, G, 1.88, 80, 28-05-97, Bucharest, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Andrea Pinamonti, ITA, F, 1.88, 72, 19-05-99, Cles, Empoli (On Loan)
+16, Eddie Salcedo, ITA, F, 1.78, 74, 01-10-01, Genoa, Spezia (On Loan)
+18, Lucien Agoumé, FRA, M, 1.85, 75, 09-02-02, Yaoundé, Brest (On Loan)
+24, Christian Eriksen, DEN, M, 1.82, 76, 14-02-92, Middelfart, Brentford
+48, Martín Satriano, URU, F, 1.84, 75, 20-02-01, Montevideo, Brest (On Loan)
+12, Stefano Sensi, ITA, M, 1.68, 62, 05-08-95, Urbino, Sampdoria (On Loan)

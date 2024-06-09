@@ -1,0 +1,51 @@
+=  Villarreal - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pepe Reina, ESP, G, 1.88, 92, 31-08-82, Madrid, Lazio
+2, Kiko Femenía, ESP, D, 1.74, 61, 02-02-91, Sanet y Negrals, Watford
+3, Raúl Albiol, ESP, D, 1.90, 82, 04-09-85, Vilamarxant, Napoli
+4, Pau Torres, ESP, D, 1.91, 80, 16-01-97, Villarreal, Villarreal B
+5, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Barcelona B
+6, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Watford
+7, Gerard Moreno, ESP, F, 1.80, 75, 07-04-92, Santa Coloma de Gramenet, Espanyol
+8, Juan Foyth, ARG, D, 1.79, 69, 12-01-98, La Plata, Tottenham H
+10, Daniel Parejo, ESP, M, 1.82, 74, 16-04-89, Madrid, Valencia
+11, Samuel Chukwueze, NGA, F, 1.72, 70, 22-05-99, Ugba, Diamond Football Academy
+12, Johan Mojica, COL, D, 1.85, 66, 21-08-92, Cali, Elche
+14, Manu Trigueros, ESP, M, 1.78, 71, 17-10-91, Talavera de la Reina, Villarreal B
+15, Nicolas Jackson, SEN, M, 1.86, 78, 20-06-01, Dakar, Villarreal B
+16, Álex Baena, ESP, M, 1.74, 69, 20-07-01, Roquetas de Mar, Villarreal B
+17, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Tottenham H
+18, Alberto Moreno, ESP, D, 1.71, 65, 05-07-92, Seville, Liverpool
+19, Francis Coquelin, FRA, M, 1.78, 74, 13-05-91, Laval, Valencia
+21, Yéremi Pino, ESP, F, 1.72, 63, 20-10-02, Las Palmas, Villarreal B
+22, José Luis Morales, ESP, M, 1.80, 70, 23-07-87, Madrid, Levante
+23, Aïssa Mandi, ALG, D, 1.84, 78, 22-10-91, Châlons-en-Champagne, Betis
+24, Alfonso Pedraza, ESP, M, 1.82, 75, 09-04-96, San Sebastián de los Ballesteros, Villarreal B
+26, Alberto Del Moral, ESP, M, 1.85, 70, 20-07-00, Villacañas, Córdoba
+27, Diego Collado, ESP, F, 1.80, 69, 09-01-01, Granada, Villarreal B
+28, Carlo Adriano, ESP, M, 1.85, 70, 12-02-01, Villarreal, Villarreal B
+29, Alex Forés, ESP, F, 1.79, 67, 12-04-01, Valencia, Villarreal B
+30, Sergio Carreira, ESP, D, 1.70, 65, 13-10-00, Vigo, Celta Vigo B
+31, Iker Álvarez, AND, G, 1.90, 78, 25-07-01, Andorra la Vella, Villarreal B
+32, Antonio Pacheco, ESP, M, 1.82, 72, 03-01-02, Callosa de Segura, Villarreal B
+33, Mamadou Fall, SEN, D, 1.88, 74, 21-11-02, Rufisque, Los Angeles FC
+34, Fernando Niño, ESP, F, 1.90, 73, 24-10-00, Rota, Villarreal B
+35, Filip Jörgensen, DEN, G, 1.90, 82, 16-04-02, Lomma, Villarreal B
+37, Carlos Romero, ESP, D, 1.80, 76, 29-10-01, Valencia, Villarreal B
+38, Marcos Sánchez, ESP, D, 1.78, 71, 26-10-03, Villarreal, Villarreal B
+39, Ramon Terrats, ESP, M, 1.81, 69, 18-10-00, Barcelona, Girona
+40, Haissem Hassan, FRA, F, 1.73, 70, 08-02-02, Algiers, Châteauroux
+41, Tiago Geralnik, ARG, M, 1.77, 69, 31-03-03, Rosario, River Plate
+43, Jorge Pascual, ESP, F, 1.87, 75, 09-04-03, Almería, Villarreal C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Pervis Estupiñán, ECU, D, 1.75, 69, 21-01-98, Esmeraldas, Brighton & HA
+17, Boulaye Dia, SEN, F, 1.80, 75, 16-11-96, Oyonnax, Salernitana (On Loan)
+9, Paco Alcácer, ESP, F, 1.75, 71, 30-08-93, Torrent, Sharjah FC
+13, Gerónimo Rulli, ARG, G, 1.89, 84, 20-05-92, La Plata, Ajax
+9, Arnaut Danjuma, NED, F, 1.78, 74, 31-01-97, Oss, Tottenham H (On Loan)
+40, Rodri Alonso, ESP, M, 1.72, 60, 04-01-03, Castelló de la Plana, Albacete (On Loan)
+20, Manu Morlanes, ESP, M, 1.78, 75, 12-01-99, Zaragoza, Mallorca (On Loan)

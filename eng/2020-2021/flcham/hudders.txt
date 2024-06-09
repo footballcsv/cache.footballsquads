@@ -1,0 +1,63 @@
+=  Huddersfield Town - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Pipa, ESP, D, 1.75, 68, 26-01-98, Esparraguera, Espanyol
+3, Harry Toffolo, ENG, D, 1.83, 71, 19-08-95, Welwyn Garden City, Lincoln C
+4, Tommy Elphick, ENG, D, 1.88, 84, 07-09-87, Brighton, Aston Villa
+5, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, Fuenlabrada
+6, Jonathan Hogg, ENG, M, 1.70, 67, 06-12-88, Middlesbrough, Watford
+7, Juninho Bacuna, CUW, M, 1.85, 78, 07-08-97, Groningen, FC Groningen
+8, Lewis O'Brien, ENG, M, 1.73, 63, 14-10-98, Colchester, None
+9, Duane Holmes, USA, M, 1.72, 65, 06-11-94, Wakefield, Derby Co
+10, Alex Pritchard, ENG, F, 1.71, 62, 03-05-93, Grays, Norwich C
+11, Oumar Niasse, SEN, F, 1.82, 75, 18-04-90, Ouakam, Everton
+12, Richard Stearman, ENG, D, 1.88, 67, 19-08-87, Wolverhampton, Sheffield U
+13, Jayson Leutwiler, CAN, G, 1.92, 80, 25-04-89, Basel, Fleetwood T
+14, Carel Eiting, NED, M, 1.81, 74, 11-02-98, Amsterdam, Ajax
+15, Richard Keogh, IRL, D, 1.83, 71, 11-08-86, Harlow, MK Dons
+16, Rolando Aarons, ENG, M, 1.75, 67, 16-11-95, Kingston, Newcastle U
+17, Demeaco Duhaney, ENG, D, 1.80, 70, 13-10-98, Manchester, Manchester C
+18, Isaac Mbenza, BEL, M, 1.87, 77, 08-03-96, Saint-Denis, Montpellier
+19, Josh Koroma, ENG, F, 1.78, 66, 08-11-98, Southwark, Leyton Orient
+20, Sorba Thomas, ENG, F, 1.85, 74, 22-08-99, Newham, Boreham Wood
+21, Daniel Grant, IRL, F, 1.73, 70, 23-10-00, Dublin, Bohemians
+22, Fraizer Campbell, ENG, F, 1.72, 83, 13-09-87, Huddersfield, Hull C
+23, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, Charlton Ath
+24, Kian Harratt, ENG, F, 1.79, 64, 21-06-02, Pontefract, None
+25, Danny Ward, ENG, F, 1.80, 78, 11-12-91, Leeds, Cardiff C
+26, Christopher Schindler, GER, D, 1.88, 77, 29-04-90, Munich, 1860 Munich
+27, Romoney Crichlow-Noble, ENG, D, 1.84, 74, 03-06-99, Luton, Enfield Boro
+28, Jaden Brown, ENG, D, 1.75, 72, 24-01-99, Lewisham, Tottenham H
+29, Aaron Rowe, ENG, M, 1.77, 69, 07-09-00, Hackney, Leyton Orient
+31, Ryan Schofield, ENG, G, 1.90, 70, 11-12-99, Huddersfield, None
+32, Jacob Chapman, AUS, G, 1.85, 80, 22-10-00, Wahroonga, Marconi Stallions
+33, Josh Austerfield, ENG, M, 1.79, 57, 02-11-01, Leeds, None
+34, Matty Daly, ENG, M, 1.76, 75, 10-03-01, Stockport, None
+35, Rarmani Edmonds-Green, ENG, D, 1.81, 73, 14-01-99, Peckham, None
+36, Kieran Phillips, ENG, F, 1.81, 74, 23-06-00, Pontefract, Everton
+38, Jaheim Headley, ENG, D, 1.75, 70, 24-09-01, Lambeth, None
+39, Micah Obiero, ENG, F, 1.77, 66, 22-02-01, Redbridge, None
+40, Brahima Diarra, FRA, M, 1.74, 68, 05-07-03, Paris, Boulogne-Billancourt
+41, Pat Jones, WAL, M, 1.80, 70, 09-06-03, Stockport, Wrexham
+42, Ilounga Pata, NED, D, 1.79, 70, 12-11-00, Philipsburg, Alphense Boys
+43, Giosue Bellagambi, ENG, G, 1.89, 77, 08-11-01, Croydon, None
+44, Joel Pereira, POR, G, 1.88, 70, 28-06-96, Boudevilliers, Manchester U
+45, Nicholas Bilokapic, AUS, G, 1.96, 82, 08-09-02, Camperdown, Sydney U
+46, Loick Ayina, FRA, D, 1.83, 75, 20-04-03, Brazzaville, Sarcelles
+47, Sam Sharrock-Peplow, ENG, D, 1.81, 67, 14-07-02, Leigh, Manchester U
+48, Etienne Camara, FRA, M, 1.90, 72, 30-03-03, Noisy-le-Grand, Angers
+49, Scott High, ENG, M, 1.77, 65, 15-02-01, Dewsbury, None
+50, Myles Bright, ENG, M, 1.74, -, 18-10-02, Lambeth, Lambeth Tigers
+51, Kit Elliott, ENG, F, 1.90, -, 22-03-01, -, Crystal Palace
+55, Yaya Sanogo, FRA, F, 1.91, 74, 27-01-93, Massy, Toulouse
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Steve Mounié, BEN, F, 1.90, 80, 29-09-94, Parakou, Brest
+16, Karlan Grant, ENG, F, 1.83, 70, 19-12-97, Greenwich, WBA
+5, Terence Kongolo, NED, D, 1.83, 70, 14-02-94, Rotterdam, Fulham
+1, Ben Hamer, ENG, G, 1.93, 78, 20-11-87, Taunton, Swansea C
+30, Ben Jackson, ENG, M, 1.78, 70, 22-02-01, Stockport, Bolton W (On Loan)
+11, Adama Diakhaby, FRA, M, 1.84, 65, 05-07-96, Ajaccio, Amiens
+37, Mustapha Olagunju, ENG, D, 1.86, 70, 01-01-02, Plumstead, Port Vale (On Loan)

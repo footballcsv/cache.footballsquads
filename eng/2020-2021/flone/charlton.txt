@@ -1,0 +1,61 @@
+=  Charlton Athletic - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Reading
+3, Ben Purrington, ENG, D, 1.74, 73, 05-05-96, Exeter, Rotherham U
+4, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, AFC Wimbledon
+5, Akin Famewo, ENG, D, 1.80, 66, 09-11-98, Lewisham, Norwich C
+6, Jason Pearce, ENG, D, 1.80, 76, 06-12-87, Hillingdon, Wigan Ath
+7, Diallang Jaiyesimi, ENG, M, 1.81, 72, 18-03-99, Southwark, Swindon T
+8, Jake Forster-Caskey, ENG, M, 1.78, 64, 25-04-94, Southend, Brighton & HA
+9, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Preston NE
+10, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, MK Dons
+11, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, MK Dons
+12, Andrew Shinnie, SCO, M, 1.80, 70, 17-07-89, Aberdeen, Luton T
+13, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Bolton W
+14, Conor Washington, NIR, F, 1.78, 74, 18-05-92, Chatham, Hearts
+15, Darren Pratley, ENG, M, 1.85, 69, 22-04-85, Barking, Bolton W
+16, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Sunderland
+18, Matt Smith, ENG, M, 1.76, 71, 05-10-00, Harlow, Arsenal
+19, Albie Morgan, ENG, M, 1.81, 68, 02-02-00, Portsmouth, None
+22, Ian Maatsen, NED, D, 1.67, 57, 10-03-02, Vlaardingen, Chelsea
+24, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace
+26, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Nottingham F
+27, Liam Millar, CAN, F, 1.76, 72, 27-09-99, Toronto, Liverpool
+29, Ronnie Schwartz, DEN, F, 1.83, 74, 29-08-89, Ulsted, FC Midtjylland
+30, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, ECU Joondalup
+31, Nathan Harness, ENG, G, 1.85, 68, 19-01-00, Hatfield, West Ham U
+34, Wassim Aouachria, ALG, M, -, -, 12-05-00, Roubaix, Marseille
+35, James Vennings, ENG, M, 1.73, 62, 20-11-00, Bexley, None
+36, Jay Mingi, ENG, M, 1.75, 66, 22-10-00, Hackney, West Ham U
+37, Johl Powell, ENG, M, -, -, -, -, None
+38, Junior Quitirna, GNB, M, 1.70, 64, 25-04-00, -, None
+39, Luca Vega, ENG, D, -, -, -, -, Ipswich T
+41, Joseph Osaghae, ENG, G, -, -, 20-02-01, -, None
+42, Charles Clayden, ENG, M, 1.73, 67, 16-11-00, Havering, Leyton Orient
+43, Edward Allsopp, ENG, M, -, -, -, -, None
+44, Hady Ghandour, ENG, F, 1.89, 78, 27-01-00, Westminster, Tooting & Mitcham U
+45, Lucas Ness, ENG, D, 1.90, 79, 07-02-02, Kingston upon Thames, Metropolitan Police
+46, Billy French, ENG, D, -, -, -, -, None
+47, Richard Afrane-Kesey, ENG, F, -, -, -, -, None
+48, Charlie Barker, ENG, D, 1.80, 74, 12-02-03, Rotherham, None
+49, Kasim Aidoo, ENG, D, -, -, -, -, None
+50, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, None
+52, Dylan Gavin, IRL, M, -, -, 16-01-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Macauley Bonne, ZIM, F, 1.80, 76, 26-10-95, Ipswich, QPR
+33, Ben Dempsey, ENG, M, 1.80, 72, 25-11-99, Tooting, Woking (On Loan)
+20, Erhun Öztümer, TUR, M, 1.60, 60, 29-05-91, Greenwich, Bristol R (On Loan)
+1, Dillon Phillips, ENG, G, 1.88, 75, 11-06-95, Hornchurch, Cardiff C
+32, George Lapslie, ENG, M, 1.80, 74, 05-09-97, Waltham Forest, Mansfield T
+23, Dylan Levitt, WAL, M, 1.80, 70, 17-11-00, Bodelwyddan, Manchester U
+25, Josh Davison, ENG, F, 1.88, 79, 16-09-00, Enfield, Forest Green R (On Loan)
+18, Alfie Doughty, ENG, M, 1.83, 68, 21-12-99, Hatfield, Stoke C
+28, Paul Smyth, NIR, F, 1.75, 67, 10-09-97, Belfast, QPR
+17, Omar Bogle, ENG, F, 1.91, 80, 26-07-92, Birmingham, Doncaster R
+7, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, Cardiff C
+21, Marcus Maddison, ENG, M, 1.80, 72, 26-09-93, Durham, Bolton W (On Loan)
+40, Brendan Wiredu, ENG, M, 1.91, 70, 07-11-99, Tower Hamlets, Colchester U

@@ -1,0 +1,33 @@
+=  Lens - French Ligue 1 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wuilker Faríñez, VEN, G, 1.80, 77, 15-02-98, Caracas, Millonarios
+3, Deiver Machado, COL, D, 1.72, 62, 02-09-92, Tadó, Toulouse
+4, Kevin Danso, AUT, D, 1.90, 75, 19-09-98, Voitsberg, Augsburg
+5, Christopher Wooh, FRA, D, 1.91, 90, 18-09-01, Paris, Nancy
+6, Patrick Berg, NOR, M, 1.75, 70, 24-11-97, Bodø, Bodø/Glimt
+7, Florian Sotoca, FRA, F, 1.87, 79, 25-10-90, Narbonne, Grenoble
+8, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Udinese
+9, Ignatius Ganago, CMR, F, 1.76, 78, 16-02-99, Douala, Nice
+10, Gaël Kakuta, COD, M, 1.73, 65, 21-06-91, Lille, Amiens
+11, Jonathan Clauss, FRA, D, 1.85, 70, 25-09-92, Osthoffen, Arminia Bielefeld
+14, Facundo Medina, ARG, D, 1.79, 75, 28-05-99, Villa Fiorito, Talleres (Córdoba)
+15, Arnaud Kalimuendo, FRA, F, 1.75, 63, 20-01-02, Suresnes, Paris St-Germain
+16, Jean-Louis Leca, FRA, G, 1.77, 65, 21-09-85, Bastia, Ajaccio
+18, Yannick Cahuzac, FRA, M, 1.78, 66, 18-01-85, Ajaccio, Toulouse
+20, David Costa, POR, M, 1.68, 64, 05-01-01, Lisbon, None
+21, Massadio Haïdara, MLI, D, 1.79, 75, 02-12-92, Trappes, Newcastle U
+22, Wesley Saïd, FRA, F, 1.71, 65, 19-04-95, Noisy-le-Grand, Toulouse
+24, Jonathan Gradit, FRA, D, 1.80, 77, 24-11-92, Talence, Caen
+25, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, Toulouse
+28, Cheick Doucouré, MLI, M, 1.80, 73, 08-01-00, Bamako, JMG Academy
+29, Przemysław Frankowski, POL, M, 1.75, 68, 12-04-95, Gdańsk, Chicago Fire
+30, Valentino Lesieur, POR, G, 1.95, 81, 18-03-03, Mont-Saint-Aignan, Nantes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Steven Fortes, CPV, D, 1.92, 85, 17-04-92, Marseille, Oostende (On Loan)
+23, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, Famalicão (On Loan)
+19, Ismaël Boura, FRA, D, 1.73, 68, 14-08-00, Bandrele, Le Havre (On Loan)
+27, Charles Boli, FRA, M, 1.75, 65, 30-08-98, Dundee, Vicenza (On Loan)

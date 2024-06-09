@@ -1,0 +1,44 @@
+=  Arouca - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor Braga, BRA, G, 1.93, 90, 17-02-92, Salvador, Sporting Espinho
+3, Brunão Gonçalves, BRA, D, 1.87, 82, 24-02-97, Poconé, Vila Nova
+4, José Manuel Velázquez, VEN, D, 1.82, 70, 08-09-90, Ciudad Bolívar, Deportivo Táchira
+5, David Simão, POR, M, 1.79, 81, 15-05-90, Versailles, AEK
+6, Mateus Quaresma, BRA, D, 1.81, 76, 22-08-96, Bom Retiro do Sul, America-RJ
+7, André Silva, BRA, F, 1.81, 73, 03-06-97, Taboão da Serra, Rio Ave
+8, Arsénio, POR, M, 1.80, 70, 30-08-89, Esposende, Al-Fayha
+10, André Bukia, CGO, F, 1.73, 65, 03-03-95, Kinshasa, Boavista
+12, Emilijus Zubas, LTU, G, 1.92, 90, 10-07-90, Molainiu, Adana Demirspor
+13, João Basso, POR, D, 1.87, 74, 13-01-97, Curitiba, Estoril
+14, Pité, POR, M, 1.88, 80, 22-08-94, Esgueira, Tondela
+15, Oday Dabbagh, PLE, F, 1.80, 75, 03-12-98, Jerusalem, Al-Arabi [KUW]
+17, Yaw Moses, GHA, M, 1.70, 66, 07-01-99, Accra, Charity Stars
+18, Eboue Kouassi, CIV, M, 1.85, 70, 13-12-97, Abidjan, KRC Genk
+19, Or Dasa, ISR, M, 1.71, 57, 20-09-98, Ness Ziona, Hapoel Ra'anana
+20, Pedro Moreira, POR, M, 1.82, 75, 15-03-89, Lousada, Hermannstadt
+21, Leandro Silva, POR, M, 1.73, 71, 04-05-94, Castelo de Paiva, AEL Limassol
+22, Alan Ruiz, ARG, M, 1.83, 74, 19-08-93, La Plata, Arsenal [ARG]
+23, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, Cruzeiro
+27, Antony, BRA, F, 1.83, 73, 08-09-01, -, Joinville
+30, Norbert Haymamba, CMR, G, 2.05, 84, 30-03-99, Douala, ARC Oleiros
+31, Tiago Esgaio, POR, M, 1.75, 68, 01-08-95, Nazaré, Sporting Braga
+44, Nino Galović, CRO, D, 1.84, 79, 06-07-92, Split, Rijeka
+53, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, Moreirense
+60, Marco Soares, CPV, M, 1.80, 75, 16-06-84, Setúbal, Feirense
+72, Thales Oleques, BRA, D, 1.78, 70, 28-04-94, Pelotas, Sporting Braga
+78, Tiago Araújo, POR, M, 1.78, 70, 27-03-01, Vila do Conde, Benfica
+97, Fernando, BRA, G, 1.95, 95, 30-03-97, Orlândia, Bahia
+99, Bruno Marques, BRA, F, 1.93, 76, 22-02-99, Recife, Santos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Mauro Caballero, PAR, F, 1.80, 72, 08-10-94, Asunción, Académica
+32, Baptiste Aloé, FRA, D, 1.84, 77, 29-06-94, La Ciotat, Dinamo București
+2, Luiz Gustavo, BRA, D, 1.75, 67, 02-09-99, Belém, Pevidém (On Loan)
+29, Joel Ferreira, POR, D, 1.80, 72, 10-01-92, Valongo, Chaves
+22, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, Yeni Malatyaspor
+23, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Zaragoza
+9, Omri Altman, ISR, M, 1.81, 76, 23-03-94, Ramat Gan, AEK Larnaca
+11, Adílio Santos, BRA, F, 1.78, 72, 05-07-93, Bahia, Académico Viseu (On Loan)

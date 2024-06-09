@@ -1,0 +1,46 @@
+=  Ibiza - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Germán Parreño, ESP, G, 1.89, 78, 16-02-93, Elche, UCAM Murcia
+2, Fran Grima, ESP, D, 1.74, 70, 05-02-87, Barcelona, Mallorca
+3, Martín Pascual, ESP, D, 1.90, 78, 04-08-99, Madrid, Rayo Vallecano B
+4, Javi Serrano, ESP, M, 1.79, 75, 16-01-03, Madrid, Atlético Madrid B
+5, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Eibar
+6, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, O'Higgins
+7, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Lugo
+9, Nolito, ESP, F, 1.75, 65, 15-10-86, Sanlúcar de Barrameda, Celta Vigo
+10, Ekain Zenitagoia, ESP, F, 1.79, 72, 29-04-94, Durango, Amorebieta
+12, Javi Vázquez, ESP, D, 1.78, 75, 24-09-00, Alcalá de Guadaíra, Sevilla B
+13, Daniel Fuzato, BRA, G, 1.90, 88, 04-07-97, Santa Bárbara d'Oeste, Roma
+14, Iván Morante, ESP, M, 1.80, 69, 15-01-01, León, Real Madrid B
+15, Juan Ibiza, ESP, D, 1.87, 78, 17-08-95, Ibiza, Almería
+16, Kaxe, ESP, F, 1.83, 80, 21-01-94, Azpeitia, Atlético Baleares
+18, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Juárez
+19, Lukáš Juliš, CZE, F, 1.86, 80, 02-12-94, Chrudim, Sparta Prague
+20, Kévin Appin, FRA, M, 1.77, 71, 20-01-98, Marseille, Hércules
+21, Williams Alarcón, CHI, M, 1.76, 69, 29-11-00, Santiago, Unión La Calera
+23, Coke, ESP, D, 1.82, 78, 26-04-87, Madrid, Levante
+24, Gonzalo Escobar, ARG, D, 1.73, 65, 16-03-97, San Vicente, Colón (Santa Fe)
+26, Jorge Chanza, ESP, G, 1.82, 70, 20-03-98, Villarreal, Sant Rafel
+28, Suleiman Camara, ESP, F, 1.80, 74, 07-12-01, Sant Celoni, Girona B
+29, Isma, ESP, M, 1.80, 67, 14-02-01, Gójar, Granada B
+30, Joseda, ESP, D, 1.80, 75, 01-05-02, Murcia, Valencia B
+31, Alejandro Sánchez, ESP, F, -, -, 03-08-04, -, Ibiza B
+32, Andrés Palacios, ESP, M, 1.78, 70, 13-06-05, Ibiza, Ibiza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Ángel Rodado, ESP, F, 1.79, 74, 07-03-97, Palma de Mallorca, Wisła Kraków
+16, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, OFI
+23, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Kelantan
+16, Miguel Azeez, ENG, M, -, -, 20-09-02, Camden, Arsenal
+6, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Al-Khor
+21, Zé Carlos, POR, D, 1.77, 75, 31-07-98, Porto, Sporting Braga
+19, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Getafe
+22, Miki Villar, ESP, F, 1.80, 72, 19-09-96, Nigrán, Wisła Kraków
+4, David Goldar, ESP, D, 1.80, 77, 15-09-94, Vigo, Burgos
+11, Armando Shashoua, ENG, M, 1.78, 64, 31-10-00, Westminster, Córdoba (On Loan)
+17, Sergio Castel, ESP, F, 1.88, 85, 22-02-95, Las Rozas, Burgos
+27, Álvaro García, ESP, D, 1.84, 78, 01-06-00, Albacete, Espanyol B
+8, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Leeds U

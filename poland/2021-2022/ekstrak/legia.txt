@@ -1,0 +1,52 @@
+=  Legia Warszawa - Polish Ekstraklasa 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur Boruc, POL, G, 1.93, 87, 20-02-80, Siedlce, Bournemouth
+3, Mateusz Hołownia, POL, D, 1.84, 70, 06-05-88, Biała Podlaska, TOP 54 Biała Podlaska
+4, Mateusz Wieteska, POL, D, 1.87, 77, 11-02-97, Warsaw, Górnik Zabrze
+5, Yuri Ribeiro, POR, D, 1.75, 68, 24-01-97, Vieira do Minho, Nottingham F
+6, Mattias Johansson, SWE, D, 1.71, 64, 16-02-92, Jönköping, Gençlerbirliği
+7, Lirim Kastrati, KVX, F, 1.76, 63, 16-01-99, Ogošte, Dinamo Zagreb
+9, Tomáš Pekhart, CZE, F, 1.95, 91, 26-05-89, Sušici, Las Palmas
+13, Paweł Wszołek, POL, M, 1.86, 77, 30-04-92, Tczew, Union Berlin
+14, Ihor Kharatin, UKR, M, 1.88, 80, 02-02-95, Mukacheve, Ferencváros
+15, Richard Strebinger, AUT, G, 1.93, 83, 14-02-93, Wiener Neustadt, Rapid Vienna
+16, Jurgen Çelhaka, ALB, M, 1.83, 77, 06-12-00, Tirana, KF Tirana
+17, Maik Nawrocki, POL, D, 1.90, 80, 07-02-01, Bremen, Werder Bremen II
+18, Patryk Sokołowski, POL, M, 1.81, 73, 25-09-94, Warsaw, Piast Gliwice
+19, Wojciech Muzyk, POL, G, 1.95, 83, 07-11-98, Suwałki, Olimpia Grudziądz
+20, Ernest Muçi, ALB, F, 1.80, 75, 19-03-01, Tirana, KF Tirana
+21, Rafael Lopes, POR, F, 1.85, 75, 28-07-91, Esposende, Cracovia Kraków
+22, Kacper Skibicki, POL, M, 1.75, 66, 11-10-01, Chełmno, Olimpia Grudziądz
+23, Joël Abu Hanna, ISR, D, 1.85, 74, 22-01-98, Troisdorf, Zorya Luhansk
+25, Filip Mladenović, SRB, D, 1.80, 72, 15-08-91, Čačak, Lechia Gdańsk
+26, Mateusz Grudziński, POL, D, 1.88, 84, 20-06-00, Mińsk Mazowiecki, None
+27, Josué, POR, M, 1.74, 70, 17-09-90, Ermesinde, Hapoel Be'er Sheva
+28, Szymon Wlodarczyk, POL, F, 1.89, 78, 05-01-03, Wałbrzych, None
+29, Lindsay Rose, MRI, D, 1.84, 79, 08-02-92, Rennes, Aris
+31, Cezary Miszta, POL, G, 1.92, 80, 30-10-01, Łuków, None
+32, Ramil Mustafaev, RUS, D, 1.83, 70, 20-12-03, Makhachkala, Stal Rzeszów
+39, Maciej Rosołek, POL, F, 1.83, 77, 02-09-01, Siedlce, None
+55, Artur Jędrzejczyk, POL, D, 1.89, 78, 04-11-87, Dębica, FC Krasnodar
+62, Karol Noiszewski, POL, M, 1.93, 82, 13-11-99, Mińsk Mazowiecki, Skra Częstochowa
+67, Bartosz Kapustka, POL, M, 1.79, 60, 23-12-96, Tarnów, Leicester C
+77, Benjamin Verbič, SVN, M, 1.79, 70, 27-11-93, Celje, Dynamo Kyiv
+80, Maciej Kikolski, POL, G, 1.92, 75, 25-09-01, Warsaw, Miedź Legnica
+86, Igor Strzalek, POL, M, 1.83, 65, 19-01-04, Siedlce, None
+92, Bartłomiej Ciepiela, POL, M, 1.82, 75, 24-05-01, Tarnów, None
+99, Bartosz Slisz, POL, M, 1.79, 70, 29-03-99, Rybnik, Zagłębie Lubin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Mateusz Kochalski, POL, G, 1.89, 88, 25-07-00, Świdnik, Radomiak Radom (On Loan)
+2, Josip Juranović, CRO, D, 1.73, 69, 16-08-95, Zagreb, Celtic
+7, Jasur Yakhshiboev, UZB, F, 1.78, 76, 24-06-97, Chinaz, Sheriff Tiraspol (On Loan)
+30, Kacper Kostorz, POL, F, 1.80, 75, 21-08-99, Cieszyn, Pogoń Szczecin
+8, André Martins, POR, M, 1.66, 56, 21-01-90, Santa Maria da Feira, Hapoel Be'er Sheva
+60, Rui Gomes, POR, F, 1.75, 72, 04-09-97, Braga, Sporting Covilhã
+11, Mahir Emreli, AZE, F, 1.88, 75, 01-07-97, Baku, Dinamo Zagreb
+61, Tomasz Nawotka, POL, M, 1.78, 65, 14-02-97, Olsztyn, Sandecja Nowy Sącz
+63, Jakub Kisiel, POL, M, 1.84, 74, 05-02-03, Wyszków, Stomil Olsztyn (On Loan)
+82, Luquinhas, BRA, M, 1.67, 57, 28-09-96, Ceilândia, New York Red Bulls
+59, Kacper Tobiasz, POL, G, 1.88, 79, 04-11-02, Płock, Stomil Olsztyn (On Loan)

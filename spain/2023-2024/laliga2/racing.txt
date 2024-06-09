@@ -1,0 +1,43 @@
+=  Racing Santander - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miquel Parera, ESP, G, 1.80, 74, 18-05-96, Manacor, Mallorca
+2, Álvaro Mantilla, ESP, D, 1.84, 71, 09-05-00, Santander, Racing B
+3, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Alavés
+4, Pol Moreno, SWE, D, 1.92, 80, 09-05-94, Badalona, Cornellà
+5, Germán Sánchez, ESP, D, 1.88, 82, 31-10-86, San Fernando, Granada
+6, Íñigo Sainz-Maza, ESP, D, 1.83, 71, 16-06-98, Ampuero, Racing B
+7, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Oviedo
+8, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Verona
+9, Juan Carlos Arana, ESP, F, 1.78, 69, 08-02-00, Las Palmas, Eibar
+10, Íñigo Vicente, ESP, M, 1.77, 63, 06-01-98, Derio, Athletic Bilbao B
+11, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Rayo Vallecano
+12, Roko Baturina, CRO, F, 1.87, 82, 20-06-00, Split, Gil Vicente
+13, Jokin Ezkieta, ESP, G, 1.94, 78, 17-08-96, Pamplona, Athletic Bilbao
+14, Ekain Zenitagoia, ESP, F, 1.79, 72, 29-04-94, Durango, Ibiza
+15, Rubén González, ESP, D, 1.83, 75, 07-09-94, Bilbao, Ibiza
+16, Iván Morante, ESP, M, 1.80, 69, 15-01-01, León, Ibiza
+17, Peque, ESP, F, 1.72, 65, 04-10-02, L'Hospitalet de Llobregat, Barcelona B
+18, Manu Hernando, ESP, D, 1.83, 71, 19-07-98, Palencia, Amorebieta
+19, Clément Grenier, FRA, M, 1.86, 72, 07-01-91, Annonay, Mallorca
+20, Lago Junior, CIV, M, 1.82, 74, 31-12-90, Yamoussoukro, Málaga
+21, Aritz Aldasoro, ESP, M, 1.76, 70, 05-06-99, Beasain, Real Sociedad B
+22, Juan Gutiérrez, ESP, D, 1.85, 75, 28-01-00, Comillas, Racing B
+23, Dani Fernández, ESP, D, 1.76, 63, 30-04-97, Madrid, Badajoz
+26, Álvaro Santamaría, ESP, F, 1.83, 78, 07-11-01, Oviedo, Sporting Gijón B
+29, Jeremy Arévalo, ESP, F, 1.80, 81, 19-03-05, Santander, Racing B
+30, Mario Jorrín, ESP, D, 1.80, 74, 28-06-02, Santander, Racing B
+32, Diego Campo, ESP, M, 1.77, 74, 16-11-01, Torrelavega, Racing B
+33, Marcos Bustillo, ESP, M, 1.84, 78, 12-01-01, Bilbao, Tropezón
+38, Neco Celorio, ESP, M, 1.69, 62, 07-03-04, Torrelavega, Racing B
+40, Mario García, ESP, D, 1.76, 68, 02-10-03, Palencia, Racing B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Marco Camus, ESP, M, 1.83, 73, 16-11-01, Santander, Valencia B
+19, Matheus Aiás, BRA, F, 1.75, 72, 30-12-96, Palmares Paulista, Moreirense
+9, Cedric Omoigui, NGA, F, 1.82, 74, 11-11-94, Benin City, Ibiza (On Loan)
+34, Diego Mirapeix, ESP, D, 1.87, 75, 15-05-00, Santiago de Compostela, Sestao River (On Loan)
+27, Yeray Cabanzón, ESP, M, 1.70, 64, 14-05-03, Isla, Ponferradina (On Loan)
+8, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Andorra

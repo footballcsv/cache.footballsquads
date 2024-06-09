@@ -1,0 +1,46 @@
+=  Levante - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joan Femenías, ESP, G, 1.89, 79, 19-08-96, Manacor, Oviedo
+2, Ander Capa, ESP, D, 1.73, 70, 08-02-92, Portugalete, Athletic Bilbao
+3, Álex Muñoz, ESP, D, 1.85, 74, 30-07-94, Alicante, Tenerife
+4, Adrián de la Fuente, ESP, D, 1.78, 75, 26-02-99, El Escorial, Villarreal B
+5, Álex Valle, ESP, D, 1.80, 80, 25-04-04, Badalona, Barcelona B
+6, Giorgi Kochorashvili, GEO, M, 1.78, 74, 29-06-99, Tbilisi, Saburtalo
+7, Brugui, ESP, M, 1.73, 68, 04-11-96, Bàscara, Nàstic
+9, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Real Madrid B
+10, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Alcorcón B
+11, Alejandro Cantero, ESP, F, 1.82, 76, 08-06-00, Madrid, Levante B
+12, Fabrício Santos, BRA, F, 1.86, 78, 08-10-00, Cachoeira do Sul, Grêmio
+13, Andrés Fernández, ESP, G, 1.85, 82, 17-12-86, Murcia, Huesca
+14, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Alavés
+15, Sergio Postigo, ESP, D, 1.84, 78, 04-11-88, Madrid, Spezia
+16, Álex Blesa, ESP, M, 1.80, 72, 15-01-02, Valencia, Levante B
+17, Óscar Clemente, ESP, M, 1.75, 67, 26-03-99, Santa Cruz de Tenerife, Las Palmas
+18, Iván Romero, ESP, F, 1.75, 72, 10-04-01, La Solana, Sevilla B
+19, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Osasuna
+20, Oriol Rey, ESP, M, 1.77, 60, 25-02-98, Barcelona, Mirandés
+21, Sergio Lozano, ESP, M, 1.75, 70, 24-03-99, Benimuslem, Villarreal B
+22, Mohamed Bouldini, MAR, F, 1.84, 80, 27-11-95, Casablanca, Fuenlabrada
+23, Ángel Algobia, ESP, M, 1.80, 78, 23-06-99, Velilla de San Antonio, Getafe
+27, Edgar Alcañiz, ESP, M, -, -, 18-03-05, Sueca, Levante B
+28, Carlos Jiménez, ESP, D, -, -, 23-07-06, -, Levante B
+29, Marcos Navarro, ESP, D, -, -, 30-05-04, -, Levante B
+30, Andrés García, ESP, F, -, -, 07-02-03, -, Levante B
+31, Xavi Grande, ESP, D, -, -, 28-01-05, Valencia, Levante B
+32, Alejandro Primo, ESP, G, -, -, 10-07-04, -, Levante B
+34, Borja Cortina, ESP, D, -, -, 24-02-06, Valencia, Levante B
+37, Carlos Álvarez, ESP, M, 1.65, 61, 06-08-03, Sanlúcar la Mayor, Sevilla B
+38, Carlos Espí, ESP, F, 1.85, 73, 24-07-05, Tavernes de la Valldigna, Alzira
+41, David Sellés, ESP, D, 1.85, 77, 05-04-03, Valencia, Levante B
+42, Buba Sangaré, ESP, D, -, -, 06-08-07, Elche, Levante B
+43, Jorge Cabello, ESP, D, 1.80, 75, 25-04-04, Telde, Levante B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Rayo Vallecano
+13, Dani Cárdenas, ESP, G, 1.86, 80, 28-03-97, Terrassa, Rayo Vallecano
+26, Carlos Benítez, ESP, M, -, -, 25-11-02, Catarroja, Fuenlabrada (On Loan)
+38, Álex Valle, ESP, D, 1.80, 80, 25-04-04, Badalona, Re-Registered (5)
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Olympiakos

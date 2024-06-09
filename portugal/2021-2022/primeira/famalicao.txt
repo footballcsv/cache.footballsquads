@@ -1,0 +1,47 @@
+=  Famalicão - Portuguese Primeira Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Zlobin, RUS, G, 1.91, 84, 07-03-97, Tyumen, Benfica
+2, Diogo Queirós, POR, D, 1.85, 79, 05-01-99, Matosinhos, FC Porto
+3, Rúben Lima, POR, D, 1.76, 72, 03-10-89, Lisbon, Belenenses
+4, Alex, BRA, D, 1.89, 86, 10-05-99, Ribeirão Preto, Santos
+5, Adrián Marín, ESP, D, 1.81, 73, 09-01-97, Torre-Pacheco, Granada
+6, Charles Pickel, SUI, M, 1.84, 76, 15-05-97, Basel, Grenoble
+7, Ivo Rodrigues, POR, F, 1.79, 73, 30-03-95, Baguim do Monte, Royal Antwerp
+8, Pedro Brazão, POR, M, 1.73, 62, 30-12-02, Lisbon, Nice
+9, Marcos Paulo, BRA, F, 1.85, 76, 01-02-01, Niterói, Atlético Madrid
+10, Iván Jaime, ESP, M, 1.77, 68, 26-09-00, Málaga, Málaga
+11, Bruno Rodrigues, BRA, F, 1.77, 73, 07-03-97, Ceará-Mirim, Tombense
+12, Gustavo Assunçao, BRA, M, 1.78, 66, 30-03-00, São Paulo, Atlético Madrid B
+13, Dalberson, BRA, G, 1.91, 85, 13-01-97, -, Brusque
+14, Junior Kadile, FRA, F, 1.82, 83, 16-12-02, Rennes, Rennes
+15, Riccieli, BRA, D, 1.84, 79, 17-09-98, Resende, Mirassol
+17, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, Lens
+18, Samuel Lobato, POR, M, 1.84, 71, 19-10-01, Maia, Sporting CP
+19, Dylan Batubinsika, FRA, D, 1.84, 84, 15-02-96, Cergy-Pontoise, Royal Antwerp
+20, David Tavares, POR, M, 1.81, 83, 18-03-99, Lisbon, Benfica
+21, Ivan Dolček, CRO, F, 1.81, 76, 24-04-00, Koprivnica, Hajduk Split
+22, Hernán De La Fuente, ARG, D, 1.75, 75, 07-01-97, Capital Federal, Vélez Sarsfield
+23, Bernardo Silva, POR, M, 1.90, 64, 31-05-01, Lisbon, Feyenoord
+25, Pedro Marques, POR, F, 1.81, 77, 25-04-98, Lisbon, Sporting CP
+28, João Teixeira, POR, M, 1.67, 66, 18-01-93, Braga, Feyenoord
+29, Jhonder Cádiz, VEN, F, 1.91, 83, 29-07-95, Caracas, Benfica
+30, André Ricardo, POR, M, 1.78, 72, 23-08-00, Lisbon, Sporting Braga
+31, Luiz Júnior, BRA, G, 1.94, 92, 14-01-01, Picos, Mirassol
+43, Alexandre Penetra, POR, D, 1.86, 73, 09-09-01, Tondela, Benfica
+77, Pablo Felipe, POR, F, 1.84, 76, 02-01-04, Braga, None
+88, Pêpê, POR, M, 1.83, 75, 20-05-97, Satão, Olympiakos
+90, Diogo Figueiras, BRA, D, 1.70, 63, 01-07-91, Povos, Sporting Braga
+91, Heriberto Tavares, POR, F, 1.81, 74, 19-02-97, Amadora, Brest
+99, Amarildo, BRA, F, 1.88, 79, 19-01-99, Paranavaí, Tombense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Manuel Ugarte, URU, M, 1.77, 70, 11-04-01, Montevideo, Sporting CP
+16, Ryan Teague, AUS, M, 1.82, 74, 24-01-02, Sydney, Sporting Covilhã (On Loan)
+97, Patrick, BRA, D, 1.86, 80, 03-06-97, São Leopoldo, Estoril (On Loan)
+2, Dani Morer, ESP, D, 1.69, 65, 05-02-98, Mataró, Andorra (On Loan)
+5, Calvin Verdonk, NED, D, 1.74, 70, 26-04-97, Dordrecht, NEC Nijmegen (On Loan)
+21, João Neto, BRA, M, 1.79, 73, 21-05-03, São Paulo, Benfica B (On Loan)
+80, Lawrence Ofori, GHA, M, 1.81, 75, 28-06-98, Accra, Ashdod (On Loan)

@@ -1,0 +1,51 @@
+=  Getafe - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Real Madrid
+2, Dakonam Djené, TOG, D, 1.87, 72, 31-12-91, Dapaong, Sint-Truiden
+3, Erick Cabaco, URU, D, 1.86, 75, 19-04-95, Montevideo, Levante
+4, Gastón Álvarez, URU, D, 1.84, 72, 24-03-00, Melo, Boston River
+5, Florentino Luis, POR, M, 1.84, 73, 19-08-99, Lisbon, Benfica
+6, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Roma
+7, Jaime Mata, ESP, F, 1.85, 75, 24-10-88, Madrid, Valladolid
+8, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Atlético Madrid
+10, Enes Ünal, TUR, F, 1.85, 75, 10-05-97, Bursa, Villarreal
+11, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona
+12, Sandro Ramírez, ESP, F, 1.72, 60, 09-07-95, Las Palmas, Huesca
+13, David Soria, ESP, G, 1.92, 85, 04-04-93, Madrid, Sevilla
+14, Jonathan Silva, ARG, D, 1.78, 69, 29-06-94, La Plata, Leganés
+15, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Villarreal
+16, Jakub Jankto, CZE, M, 1.84, 73, 19-01-96, Prague, Sampdoria
+17, Mathías Olivera, URU, D, 1.84, 78, 31-10-97, Montevideo, Nacional [URU]
+18, Mauro Arambarri, URU, M, 1.75, 74, 30-09-95, Salto, Boston River
+19, Okay Yokuşlu, TUR, M, 1.88, 79, 09-03-94, İzmir, Celta Vigo
+20, Nemanja Maksimović, SRB, M, 1.84, 75, 26-01-95, Banja Koviljača, Valencia
+21, Juan Iglesias, ESP, D, 1.85, 81, 03-07-98, Valladolid, Logroñés
+22, Damián Suárez, URU, D, 1.72, 61, 27-04-88, Montevideo, Elche
+23, Stefan Mitrović, SRB, D, 1.89, 84, 22-05-90, Belgrade, Strasbourg
+24, Óscar, ESP, M, 1.74, 68, 28-06-98, Talavera de la Reina, Sevilla
+25, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid
+26, Chinchu, ESP, D, -, -, 05-03-02, -, Getafe B
+27, Diego Conde, ESP, G, 1.88, 85, 20-10-98, Madrid, Atlético Madrid B
+28, Kofi Amankwaa, GHA, D, -, -, 20-11-01, Accra, Getafe B
+29, Ángel Algobia, ESP, M, 1.80, 78, 23-06-99, Velilla de San Antonio, Rayo Vallecano B
+30, John Patrick Finn, ESP, M, 1.93, 80, 24-09-03, Madrid, Getafe B
+31, Mamor Niang, ESP, F, 1.90, 77, 04-02-02, Móstoles, Getafe B
+32, Pablo Montero, ESP, M, 1.68, 60, 09-05-02, Madrid, Getafe B
+33, Santi García, ESP, M, 1.84, 80, 29-08-01, Madrid, Getafe B
+34, Diego López, ESP, M, -, -, 21-10-01, -, Torrejón
+36, Totti, ESP, M, 1.80, 66, 14-12-01, Archena, Murcia B
+37, Álvaro López, ESP, D, -, -, 07-06-99, Madrid, Cultural Leonesa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Miguel Rubio, ESP, D, 1.91, 86, 11-03-98, Leganés, Burgos (On Loan)
+5, Ignasi Miquel, ESP, D, 1.88, 82, 28-09-92, Corbera de Llobregat, Huesca (On Loan)
+14, Hugo Duro, ESP, F, 1.77, 70, 10-11-99, Getafe, Valencia (On Loan)
+15, Marc Cucurella, ESP, D, 1.75, 69, 22-07-98, Alella, Brighton & HA
+6, Chema Rodríguez, ESP, D, 1.89, 80, 03-03-92, Caudete, Eibar (On Loan)
+24, David Tímor, ESP, M, 1.85, 77, 17-10-89, Carcaixent, Huesca
+19, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Huesca (On Loan)
+4, Allan-Roméo Nyom, CMR, D, 1.88, 80, 10-05-88, Neuilly-sur-Seine, Leganés
+9, José Juan Macías, MEX, F, 1.77, 73, 22-09-99, Guadalajara, Guadalajara

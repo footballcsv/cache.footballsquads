@@ -1,0 +1,23 @@
+# Italian Serie B 2021/2022
+
+20 teams
+- [Alessandria](alessand.txt)
+- [Ascoli](ascoli.txt)
+- [Benevento](benevento.txt)
+- [Brescia](brescia.txt)
+- [Cittadella](cittadel.txt)
+- [Como](como.txt)
+- [Cosenza](cosenza.txt)
+- [Cremonese](cremonese.txt)
+- [Crotone](crotone.txt)
+- [Frosinone](frosinone.txt)
+- [Lecce](lecce.txt)
+- [Monza](monza.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Pisa](pisa.txt)
+- [Pordenone](pordenone.txt)
+- [Reggina](reggina.txt)
+- [SPAL](spal.txt)
+- [Ternana](ternana.txt)
+- [Vicenza](vicenza.txt)

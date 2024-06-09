@@ -1,0 +1,59 @@
+=  Spezia - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeroen Zoet, NED, G, 1.89, 83, 06-01-91, Veendam, PSV Eindhoven
+2, Przemysław Wiśniewski, POL, D, 1.95, 88, 27-07-98, Zabrze, Venezia
+3, Roko Jureškin, CRO, D, 1.88, 75, 29-09-00, Split, Pisa
+4, João Moutinho, POR, D, 1.83, 71, 12-01-98, Lisbon, Orlando C
+5, Gregorio Tanco, ARG, D, 1.81, 74, 10-10-99, Pilar, Banfield
+7, Salvatore Elia, ITA, F, 1.83, 73, 30-06-99, Prato, Atalanta
+8, Ádám Nagy, HUN, M, 1.78, 74, 17-06-95, Budapest, Pisa
+9, Francesco Pio Esposito, ITA, F, 1.89, 80, 28-06-05, Castellammare di Stabia, Internazionale
+10, Salvatore Esposito, ITA, M, 1.78, 80, 07-10-00, Castellammare di Stabia, SPAL
+11, Tio Cipot, SVN, F, 1.76, 74, 20-04-03, Murska Sobota, Mura
+12, Diego Mascardi, ITA, G, -, -, 26-09-06, Carrara, None
+13, Arkadiusz Reca, POL, D, 1.87, 76, 17-06-95, Chojnice, Atalanta
+14, Luca Vignali, ITA, D, 1.83, 75, 11-01-96, La Spezia, Como
+15, Niccolò Pietra, ITA, M, 1.89, 85, 28-09-03, Massa, Montevarchi
+16, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Modena
+20, Giuseppe Di Serio, ITA, F, 1.82, 78, 20-07-01, Trento, Atalanta
+21, Giovanni Corradini, ITA, M, 1.82, 71, 12-11-02, Orvieto, Fiorentina
+22, Francesco Plaia, ITA, G, 1.92, 80, 29-03-06, Brussels, None
+23, Lukas Mühl, GER, D, 1.88, 77, 27-01-97, Zwiesel, Austria Vienna
+24, Luca Moro, ITA, F, 1.80, 64, 25-01-01, Monselice, Sassuolo
+25, Filippo Bandinelli, ITA, M, 1.80, 70, 29-03-95, Florence, Empoli
+26, Christian Cugnata, ITA, D, 1.86, 78, 13-01-05, Lentini, Casertana
+28, Gian Marco Crespi, ITA, G, 1.89, 75, 28-06-01, Udine, Juventus
+29, Francesco Cassata, ITA, M, 1.83, 75, 16-07-97, Sarzana, Genoa
+33, Iva Gelashvili, GEO, D, 1.91, 78, 08-04-01, Tbilisi, Dinamo Batumi
+36, Pietro Candelari, ITA, M, 1.78, 73, 21-01-05, Ancona, Fano
+37, Aleš Matějů, CZE, D, 1.84, 84, 03-06-96, Příbram, Palermo
+40, Petar Zovko, BIH, G, 1.92, 85, 25-03-02, Mostar, Sampdoria
+43, Dimitris Nikolaou, GRE, D, 1.88, 82, 13-08-98, Chalcis, Empoli
+55, Petko Hristov, BUL, D, 1.91, 85, 01-03-99, Sofia, Fiorentina
+72, Oskar Lachowicz, POL, M, 1.80, 68, 19-04-05, Warsaw, Legia Warszawa
+77, Nicolò Bertola, ITA, D, 1.92, 79, 23-03-03, Carrara, None
+80, Rachid Kouda, ITA, M, 1.88, 78, 25-07-02, Cantù, Picerno
+95, Nicola Mosti, ITA, G, -, -, 03-08-06, Massa, None
+97, Filip Jagiełło, POL, M, 1.80, 70, 08-08-97, Lubin, Genoa
+99, Daniele Verde, ITA, F, 1.68, 64, 20-06-96, Naples, AEK
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+89, Leandro Sanca, POR, F, 1.84, 73, 04-01-00, Lisbon, Chaves
+68, Emil Holm, SWE, D, 1.91, 83, 13-05-00, Gothenburg, Atalanta (On Loan)
+3, Salva Ferrer, ESP, D, 1.84, 73, 21-01-98, Martorell, Anorthosis Famagusta (On Loan)
+6, Mehdi Bourabia, MAR, M, 1.83, 73, 07-08-91, Dijon, Frosinone
+7, Jacopo Sala, ITA, M, 1.81, 75, 05-12-91, Alzano Lombardo, Rimini
+16, Julius Beck, DEN, M, 1.78, 61, 27-04-05, Haderslev, Aarhus (On Loan)
+20, Simone Bastoni, ITA, D, 1.81, 74, 05-11-96, La Spezia, Empoli (On Loan)
+31, Aimar Sher, SWE, M, 1.75, 65, 20-12-02, Erbil, Sarpsborg 08
+39, Aurélien Nguiamba, FRA, M, 1.79, 73, 18-01-99, Colmar, Jagiellonia Białystok
+8, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Djurgårdens IF
+17, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Empoli (On Loan)
+69, Bartłomiej Drągowski, POL, G, 1.91, 86, 19-08-97, Białystok, Panathinaikos (On Loan)
+5, Laurens Serpe, ITA, D, 1.93, 82, 07-02-01, Fivizzano, Turris (On Loan)
+27, Kelvin Amian, FRA, D, 1.80, 78, 08-02-98, Toulouse, Nantes
+48, Mirko Antonucci, ITA, M, 1.78, 72, 11-03-99, Rome, Cosenza (On Loan)
+19, Raimonds Krollis, LVA, F, 1.86, 80, 28-10-01, Riga, MFK Vyškov (On Loan)

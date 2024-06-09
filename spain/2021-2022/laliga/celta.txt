@@ -1,0 +1,41 @@
+=  Celta Vigo - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Universidad Católica
+2, Hugo Mallo, ESP, D, 1.81, 78, 22-06-91, Marín, Celta B
+4, Néstor Araujo, MEX, D, 1.88, 85, 29-08-91, Guadalajara, Santos Laguna
+6, Denis Suárez, ESP, M, 1.76, 69, 06-01-94, Salceda de Caselas, Barcelona
+7, Thiago Galhardo, BRA, F, 1.82, 69, 20-07-89, São João del Rei, Internacional
+8, Fran Beltrán, ESP, M, 1.70, 64, 03-02-99, Madrid, Rayo Vallecano
+9, Nolito, ESP, F, 1.75, 65, 15-10-86, Sanlúcar de Barrameda, Sevilla
+10, Iago Aspas, ESP, F, 1.76, 67, 11-08-87, Moaña, Sevilla
+11, Franco Cervi, ARG, M, 1.80, 69, 26-05-94, San Lorenzo, Benfica
+13, Rubén Blanco, ESP, G, 1.88, 70, 25-07-95, Vigo, Celta B
+14, Renato Tapia, PER, M, 1.85, 80, 28-07-95, Lima, Feyenoord
+15, Joseph Aidoo, GHA, D, 1.80, 80, 29-09-95, Tema, KRC Genk
+17, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Huesca
+18, Orbelín Pineda, MEX, M, 1.68, 60, 24-03-96, Coyuca de Catalán, Cruz Azul
+19, José Fontán, ESP, D, 1.83, 72, 11-02-00, Vilagarcía de Arousa, Celta B
+20, Kevin Vázquez, ESP, D, 1.73, 72, 23-03-93, Nigrán, Celta B
+21, Augusto Solari, ARG, M, 1.80, 80, 03-01-92, Rosario, Racing Club
+22, Santi Mina, ESP, F, 1.81, 77, 07-12-95, Vigo, Valencia
+23, Brais Méndez, ESP, F, 1.87, 78, 07-01-97, Mos, Celta B
+24, Jeison Murillo, COL, D, 1.82, 78, 27-05-92, Cali, Sampdoria
+27, Brais Rodríguez, ESP, G, -, -, 09-04-03, -, Celta B
+28, Carlos Domínguez, ESP, D, 1.87, 81, 11-02-01, Vigo, Celta B
+32, Alfon, ESP, F, 1.72, 60, 04-05-99, Albacete, Getafe B
+33, Hugo Sotelo, ESP, M, 1.80, 76, 19-12-03, Vigo, Celta B
+34, Fernando Medrano, ESP, D, 1.72, 68, 26-03-00, Madrid, Atlético Madrid B
+35, Hugo Álvarez, ESP, M, 1.85, 72, 02-07-03, Ourense, Celta B
+37, Coke Carrillo, ESP, G, 1.88, 75, 07-01-02, Poio, Barcelona B
+38, Javier Castro, ESP, D, 1.83, 75, 13-09-00, Madrid, Alcorcón B
+39, Thomas Carrique, FRA, D, 1.70, 65, 26-02-99, Tarbes, Bordeaux
+41, César Fernández, ESP, G, 1.81, 78, 28-01-04, O Barco de Valdeorras, Celta B
+42, Damián Rodríguez, ESP, M, 1.80, 75, 17-03-03, Ponteareas, Celta B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Emre Mor, TUR, F, 1.68, 60, 24-07-97, Brønshøj, Fatih Karagümrük (On Loan)
+16, Miguel Baeza, ESP, M, 1.75, 64, 27-03-00, Córdoba, Ponferradina (On Loan)
+5, Okay Yokuşlu, TUR, M, 1.88, 79, 09-03-94, İzmir, Getafe (On Loan)

@@ -1,0 +1,51 @@
+=  Watford - English Premier League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.91, 82, 15-02-81, João Pinheiro, Tottenham H
+2, Allan-Roméo Nyom, CMR, D, 1.88, 80, 10-05-88, Neuilly-sur-Seine, Udinese
+3, Miguel Angel Britos, URU, D, 1.88, 82, 17-07-85, Montevideo, Napoli
+4, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Fiorentina
+5, Sebastian Prödl, AUT, D, 1.94, 85, 21-06-87, Graz, Werder Bremen
+6, Joel Ekstrand, SWE, M, 1.88, 77, 04-02-89, Lund, Udinese
+7, José Manuel Jurado, ESP, M, 1.73, 72, 29-06-86, Sanlúcar de Barrameda, Spartak Moscow
+8, Valon Behrami, SUI, M, 1.85, 78, 19-04-85, Kosovska Mitrovica, Hamburg
+9, Troy Deeney, ENG, F, 1.80, 76, 29-06-88, Chelmsley, Walsall
+10, Obbi Oularé, BEL, F, 1.96, 96, 08-01-96, Waregem, Club Brugge
+11, Nordin Amrabat, MAR, M, 1.79, 79, 31-03-87, Naarden, Málaga
+13, Rene Gilmartin, IRL, G, 1.96, 85, 31-05-87, Dublin, St Patrick's Ath
+14, Juan Carlos Paredes, ECU, D, 1.74, 71, 08-07-87, Esmeraldas, Granada
+15, Craig Cathcart, NIR, D, 1.88, 72, 06-02-89, Belfast, Blackpool
+16, Nathan Aké, NED, D, 1.80, 71, 18-02-95, Den Haag, Chelsea
+17, Adlène Guédioura, ALG, M, 1.85, 80, 12-11-85, La Roche-sur-Yon, Crystal Palace
+18, Costel Pantilimon, ROU, G, 1.97, 96, 01-02-87, Bacău, Sunderland
+20, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, AZ Alkmaar
+21, Ikechi Anya, SCO, M, 1.68, 71, 03-01-88, Glasgow, Granada
+22, Almen Abdi, SUI, M, 1.80, 77, 21-10-86, Prizren, Udinese
+23, Ben Watson, ENG, M, 1.78, 69, 09-07-85, Camberwell, Wigan Ath
+24, Odion Ighalo, NGA, F, 1.88, 70, 16-06-89, Lagos, Udinese
+25, José Holebas, GRE, D, 1.84, 79, 27-06-84, Aschaffenburg, Roma
+26, Bernard Mensah, ENG, F, 1.73, 59, 29-12-94, Hounslow, None
+27, Essaïd Belkalem, ALG, D, 1.94, 90, 01-01-89, Mekla, Granada
+29, Etienne Capoue, FRA, M, 1.89, 80, 11-07-88, Niort, Tottenham H
+30, Jorell Johnson, ENG, D, , , 02-01-96, Hemel Hempstead, None
+31, Tommie Hoban, IRL, D, 1.88, 84, 24-01-94, Walthamstow, None
+35, Josh Doherty, NIR, D, 1.79, 70, 15-03-96, Newtownards, None
+36, Alex Jakubiak, ENG, F, 1.77, 66, 27-08-96, Westminster, None
+37, Alfie Young, ENG, D, , , 03-02-97, , None
+38, Mahlondo Martin, ENG, M, , , 15-10-96, , None
+39, Dennon Lewis, ENG, M, 1.78, 69, 09-05-97, Brent, None
+40, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Fernando Forestieri, ITA, F, 1.72, 67, 16-01-90, Rosario, Sheffield W
+18, Daniel Pudil, CZE, M, 1.85, 76, 27-09-85, Prague, Sheffield W (On Loan)
+4, Gabriele Angella, ITA, D, 1.89, 79, 28-04-89, Florence, QPR (On Loan)
+10, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Reading (On Loan)
+19, Miguel Layún, MEX, D, 1.78, 61, 25-06-88, Córdoba, FC Porto (On Loan)
+32, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, Guangzhou Evergrande
+19, Víctor Ibarbo, COL, F, 1.88, 78, 19-05-90, Cali, Cagliari
+28, Connor Smith, IRL, M, 1.81, 73, 18-02-93, Mullingar, AFC Wimbledon
+34, Giedrius Arlauskis, LTU, G, 1.83, 80, 01-12-87, Telšiai, Espanyol (On Loan)
+33, Lloyd Dyer, ENG, M, 1.73, 64, 13-09-82, Birmingham, Burnley

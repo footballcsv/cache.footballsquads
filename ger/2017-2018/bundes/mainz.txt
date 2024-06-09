@@ -1,0 +1,52 @@
+=  1.FSV Mainz 05 - German Bundesliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René Adler, GER, G, 1.90, 85, 15-01-85, Leipzig, Hamburg
+2, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Bayer Leverkusen
+3, Leon Balogun, NGA, D, 1.90, 81, 28-06-88, Berlin, Darmstadt
+4, Abdou Diallo, FRA, D, 1.83, 72, 04-05-96, Tours, Monaco
+5, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Galatasaray
+6, Danny Latza, GER, M, 1.79, 75, 07-12-89, Gelsenkirchen, Bochum
+7, Robin Quaison, SWE, M, 1.83, 76, 09-10-93, Stockholm, Palermo
+8, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Bayer Leverkusen
+9, Yoshinori Muto, JPN, F, 1.78, 69, 15-07-92, Tokyo, FC Tokyo
+10, Alexandru Maxim, ROU, M, 1.78, 70, 08-07-90, Piatra Neamţ, Stuttgart
+11, Emil Berggreen, DEN, F, 1.94, 85, 10-05-93, Helsingør, Eintracht Braunschweig
+13, Marin Šverko, CRO, D, 1.87, 78, 04-02-98, Pforzheim, Karlsruhe
+16, Stefan Bell, GER, D, 1.92, 86, 24-08-91, Andernach, None
+18, Daniel Brosinski, GER, D, 1.78, 65, 17-07-88, Karlsruhe, Greuther Fürth
+19, , , , , , , , Osasuna
+20, Anthony Ujah, NGA, F, 1.83, 82, 20-11-90, Tudun Wada, Liaoning Whowin
+21, Karim Onisiwo, AUT, F, 1.88, 76, 17-03-92, Vienna, Mattersburg
+22, Florian Müller, GER, G, 1.92, 85, 13-11-97, Saarlouis, Saarbrücken
+23, Suat Serdar, GER, M, 1.83, 71, 11-04-97, Bingen, Hassia Bingen
+25, Jean-Philippe Gbamin, FRA, M, 1.86, 83, 25-05-95, San-Pédro, Lens
+26, Niko Bungert, GER, D, 1.88, 68, 24-10-86, Bochum, Kickers Offenbach
+27, Robin Zentner, GER, G, 1.93, 96, 28-10-94, Rüdesheim, None
+29, Karl-Heinz Lappe, GER, F, 1.75, 79, 14-09-87, Munich, Bayern Munich II
+30, Heinz Mörschel, DOM, M, 1.90, 75, 24-08-97, Santo Domingo, None
+31, Charmaine Häusl, GER, D, 1.86, 77, 27-01-96, , None
+32, Pablo De Blasis, ARG, F, 1.64, 65, 04-02-88, La Plata, Asteras Tripolis
+33, Vitus Scheithauer, GER, D, , , 21-04-99, , 1860 Munich
+34, Bote Baku, GER, M, 1.76, 73, 08-04-98, Mainz, None
+35, Jayson Breitenbach, GER, D, 1.83, , 12-05-98, , Kickers Offenbach
+36, Ahmet Gürleyen, TUR, D, 1.92, 90, 26-04-99, Berlin, TeBe Berlin
+37, Finn Dahmen, GER, G, 1.86, 80, 27-03-98, Wiesbaden, None
+38, Gerrit Holtmann, GER, M, 1.83, 73, 25-03-95, Bremen, Eintracht Braunschweig
+39, Benjamin Trümner, GER, M, 1.70, 63, 17-05-95, Schwalmstadt, 1899 Hoffenheim
+40, Patrick Manthe, GER, G, 1.83, , 03-08-93, Mainz, TSV Schott Mainz
+42, Alexander Hack, GER, D, 1.93, 82, 08-09-93, Memmingen, Unterhaching
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Aaron Seydel, GER, F, 1.99, 91, 07-02-96, Mainz, Holstein Kiel (On Loan)
+5, José Rodríguez, ESP, M, 1.80, 68, 16-12-94, Villajoyosa, Maccabi Tel Aviv (On Loan)
+17, Jairo, ESP, M, 1.70, 65, 11-07-93, Cabezón de la Sal, Las Palmas
+20, Fabian Frei, SUI, M, 1.81, 75, 08-01-89, Frauenfeld, Basel
+29, Marcel Costly, GER, D, 1.83, 75, 20-11-95, Achim, Magdeburg
+28, Philipp Klement, GER, M, 1.74, 69, 09-09-92, Ludwigshafen am Rhein, Paderborn
+24, Gaétan Bussmann, FRA, D, 1.84, 75, 02-02-91, Épinal, Freiburg (On Loan)
+14, Viktor Fischer, DEN, M, 1.80, 71, 09-06-94, Aarhus, FC København
+33, Jannik Huth, GER, G, 1.85, 80, 15-04-94, Bingen, Sparta Rotterdam (On Loan)
+19, Kenan Kodro, BIH, F, 1.90, 77, 19-08-93, San Sebastián, Grasshoppers (On Loan)

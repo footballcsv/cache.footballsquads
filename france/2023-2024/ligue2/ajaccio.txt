@@ -1,0 +1,45 @@
+=  Ajaccio - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mathieu Michel, FRA, G, 1.88, 82, 04-09-91, Nîmes, Niort
+3, Stephen Quemper, FRA, D, 1.78, 75, 12-05-93, Morlaix, Guingamp
+4, Mickaël Barreto, FRA, M, 1.74, 63, 18-01-91, Paris, Auxerre
+5, Clément Vidal, FRA, D, 1.81, 75, 18-06-00, Montpellier, Montpellier
+6, Thomas Mangani, FRA, M, 1.82, 79, 29-04-87, Carpentras, Angers
+7, Riad Nouri, FRA, M, 1.78, 73, 07-06-85, Marseille, Ümraniyespor
+9, Yoann Touzghar, TUN, F, 1.79, 75, 28-11-86, Avignon, Troyes
+10, Valentin Jacob, FRA, M, 1.71, 67, 15-06-94, Paris, Dijon
+11, Ben Hamed Touré, CIV, F, 1.85, 76, 21-08-03, Lopou, Lys Sassandra
+14, Cyrille Bayala, BFA, F, 1.81, 68, 24-05-96, Ouagadougou, Lens
+16, François-Joseph Sollacaro, FRA, G, 1.78, 75, 21-03-94, Ajaccio, None
+17, Everson Junior, FRA, M, 1.78, 74, 07-11-03, Nice, Nice
+18, Christopher Ibayi, CGO, F, 1.87, 82, 18-07-95, Porto-Vecchio, Rouen
+19, Al Hassan Touré, AUS, F, 1.85, 82, 30-05-00, Guéckédou, Eyüpspor
+20, Mohamed Youssouf, COM, M, 1.68, 64, 26-03-88, Paris, Levadiakos
+21, Cédric Avinel, FRA, D, 1.87, 84, 11-09-86, Paris, Clermont
+22, Moussa Soumano, FRA, F, -, -, 09-07-05, Saint-Denis, None
+25, Julien Benhaim, FRA, D, 1.80, 75, 25-10-96, Bastia, Stade Briochin
+26, Tim Jabol-Folcarelli, FRA, M, 1.87, 78, 06-12-99, Montrouge, Le Puy
+27, Thibault Campanini, FRA, D, 1.77, 71, 27-07-98, Marseille, Paris FC
+29, Hamza Sakhi, MAR, M, 1.73, 68, 07-06-96, Rabat, Melbourne C
+31, Tony Strata, FRA, D, 1.77, 70, 07-09-04, Marseille, None
+37, Mehdi Puch, ALG, M, -, -, 20-01-04, Paris, Montfermeil
+44, Josué Escartin, FRA, D, 1.93, 80, 21-03-03, Fleury-les-Aubrais, Brest
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Fernand Mayembo, CGO, D, 1.84, 88, 09-01-96, Brazzaville, Hapoel Haifa
+25, Oumar Gonzalez, FRA, D, 1.86, 84, 25-02-98, Douala, Al-Raed
+2, Mickaël Alphonse, FRA, D, 1.82, 75, 12-07-89, Champigny-sur-Marne, Retired
+7, Mounaïm El Idrissy, FRA, F, 1.81, 75, 10-02-99, Martigues, Kortrijk
+10, Yacine Bammou, FRA, F, 1.88, 78, 11-09-91, Paris, Guangxi Pingguo Haliao
+5, Riad Nouri, FRA, M, 1.78, 73, 07-06-85, Marseille, Re-Registered (7)
+15, Clément Vidal, FRA, D, 1.81, 75, 18-06-00, Montpellier, Re-Registered (5)
+18, Moussa Soumano, FRA, F, -, -, 09-07-05, Saint-Denis, Re-Registered (22)
+19, Valentin Jacob, FRA, M, 1.71, 67, 15-06-94, Paris, Re-Registered (10)
+22, Julien Benhaim, FRA, D, 1.80, 75, 25-10-96, Bastia, Re-Registered (25)
+8, Vincent Marchetti, FRA, M, 1.81, 69, 04-07-97, Ajaccio, Paris FC
+38, Ivane Chegra, ALG, M, -, -, 03-03-04, Montreuil, Cholet (On Loan)
+30, Ghjuvanni Quilichini, FRA, G, 1.82, 70, 01-09-02, Ajaccio, Avranches (On Loan)
+2, Maxime Chanot, FRA, D, 1.84, 78, 21-11-89, Nancy, Los Angeles FC

@@ -1,0 +1,40 @@
+=  Nantes - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alban Lafont, FRA, G, 1.93, 80, 23-01-99, Ouagadougou, Fiorentina
+3, Andrei Girotto, BRA, D, 1.85, 77, 17-02-92, Bento Gonçalves, Tombense
+4, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Bordeaux
+5, Pedro Chirivella, ESP, M, 1.78, 66, 23-05-97, Valencia, Liverpool
+7, Evann Guessand, FRA, F, 1.87, 86, 01-07-01, Ajaccio, Nice
+8, Samuel Moutoussamy, FRA, M, 1.76, 71, 12-08-96, Paris, Lyon
+10, Ludovic Blas, FRA, M, 1.80, 64, 31-12-97, Colombes, Guingamp
+11, Marcus Coco, FRA, F, 1.84, 76, 24-06-96, Les Abymes, Guingamp
+14, Ignatius Ganago, CMR, F, 1.76, 78, 16-02-99, Douala, Lens
+16, Rémy Descamps, FRA, G, 1.94, 74, 25-06-96, Marcq-en-Barœul, Charleroi
+17, Moussa Sissoko, FRA, M, 1.87, 91, 16-08-89, Le Blanc Mesnil, Watford
+18, Samuel Yépié Yépié, FRA, M, 1.71, 60, 02-10-02, Gonesse, None
+20, Lohann Doucet, FRA, M, 1.80, 73, 14-09-02, Nantes, None
+21, Jean-Charles Castelleto, CMR, D, 1.85, 74, 26-01-95, Clamart, Brest
+22, Gor Manvelyan, FRA, M, 1.80, 62, 09-04-02, Stepanakert, None
+23, Robin Voisine, FRA, D, 1.88, 77, 07-04-02, Nantes, None
+24, Sébastien Corchia, FRA, D, 1.76, 65, 01-11-90, Noisy-le-Sec, Sevilla
+25, Florent Mollet, FRA, M, 1.71, 67, 19-11-91, Fontaine-lès-Dijon, Schalke
+26, Jaouen Hadjam, FRA, D, 1.84, 81, 26-03-03, Paris, Paris FC
+27, Moses Simon, NGA, M, 1.68, 66, 12-07-95, Jos, Levante
+28, Fabien Centonze, FRA, D, 1.90, 82, 16-01-96, Voiron, Metz
+29, Quentin Merlin, FRA, F, 1.74, 64, 16-05-02, Nantes, None
+30, Denis Petric, SRB, G, 1.86, 80, 24-05-88, Ljubljana, Guingamp
+31, Mostafa Mohamed, EGY, F, 1.85, 78, 28-11-97, Giza, Galatasaray
+38, João Victor, BRA, D, 1.87, 80, 17-07-98, Bauru, Benfica
+63, Junior Diaz, CIV, D, 1.93, 78, 23-07-03, Saint-Herblain, None
+93, Charles Traoré, MLI, D, 1.80, 74, 01-01-92, Aulnay-sous-Bois, Troyes
+99, Andy Delort, ALG, F, 1.82, 82, 09-10-91, Sète, Nice
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, St-Etienne
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Grêmio
+55, Kader Bamba, FRA, F, 1.76, 68, 25-04-94, Sarcelles, St-Etienne (On Loan)
+19, Mohamed Achi, FRA, M, 1.71, 61, 16-01-02, Bondy, Paris 13 Atletico (On Loan)
+61, Joe-Loic Affamah, FRA, F, 1.75, 75, 29-06-02, Lomé, Torreense (On Loan)

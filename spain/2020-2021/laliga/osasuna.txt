@@ -1,0 +1,44 @@
+=  Osasuna - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Herrera, ESP, G, 1.92, 82, 05-06-93, Miranda de Ebro, Huesca
+2, Nacho Vidal, ESP, D, 1.80, 75, 24-01-95, El Campello, Valencia B
+3, Juan Cruz, ESP, D, 1.80, 79, 28-07-92, Madrid, Elche
+4, Unai García, ESP, D, 1.76, 72, 03-09-92, Esquíroz, Osasuna B
+5, David García, ESP, D, 1.85, 72, 14-02-94, Pamplona, Osasuna B
+6, Oier Sanjurjo, ESP, M, 1.78, 66, 25-05-86, Pamplona, Osasuna B
+7, Jony, ESP, M, 1.79, 71, 09-07-91, Cangas del Narcea, Lazio
+8, Darko Brašanac, SRB, M, 1.78, 73, 12-02-92, Čajetina, Betis
+9, Ezequiel Ávila, ARG, F, 1.81, 78, 06-02-94, Rosario, San Lorenzo
+10, Roberto Torres, ESP, M, 1.76, 69, 07-03-89, Pamplona, Osasuna B
+11, Kike Barja, ESP, M, 1.78, 69, 01-04-97, Pamplona, Osasuna B
+12, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Celta Vigo
+13, Rubén, ESP, G, 1.88, 79, 22-06-84, Coristanco, Deportivo La Coruña
+14, Rubén García, ESP, M, 1.71, 72, 14-07-93, Valencia, Levante
+15, Jonás Ramalho, ESP, D, 1.81, 64, 10-06-93, Barakaldo, Girona
+16, Jonathan Calleri, ARG, F, 1.81, 77, 23-09-93, Capital Federal, Deportivo Maldonado
+17, Ante Budimir, CRO, F, 1.90, 75, 22-07-91, Zenica, Mallorca
+19, Enric Gallego, ESP, F, 1.90, 87, 12-09-86, Martorell, Getafe
+20, Adrián López, ESP, F, 1.83, 73, 08-01-88, San Martín de Teverga, FC Porto
+21, Íñigo Pérez, ESP, M, 1.78, 74, 18-01-88, Iruñea, Numancia
+23, Aridane, ESP, D, 1.86, 77, 23-03-89, Fuerteventura, Cádiz
+24, Lucas Torró, ESP, M, 1.88, 79, 19-07-94, Concentaina, Eintracht Frankfurt
+25, Juan Pérez, ESP, G, 1.92, 78, 15-07-96, Almudevar, Osasuna B
+26, Iñaki Álvarez, ESP, G, -, -, 18-06-97, Pamplona, Osasuna B
+27, Jon Moncayola, ESP, M, 1.82, 75, 13-05-98, Garinoain, Osasuna B
+28, Javi Martínez, ESP, M, 1.80, 68, 22-12-99, Ólvega, Osasuna B
+29, Aimar Oroz, ESP, M, 1.77, 68, 27-11-01, Pamplona, Osasuna B
+30, Gorka Zabarte, ESP, D, 1.76, 74, 09-01-99, Madrid, Real Madrid B
+31, Jorge Herrando, ESP, D, 1.90, 83, 28-02-01, Pamplona, Osasuna B
+32, Asier Córdoba, ESP, M, 1.84, 70, 31-03-00, Bilbao, Athletic Bilbao B
+36, Iván Martínez, ESP, G, -, -, 19-02-02, Ágreda, Osasuna B
+37, Kike Saverio, ECU, F, 1.78, 69, 19-06-99, Genoa, Barcelona B
+39, Manu Sánchez, ESP, D, 1.79, 70, 24-08-00, Madrid, Atlético Madrid
+40, Diego Moreno, ESP, D, 1.77, 73, 21-06-01, Cintruénigo, Osasuna B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Almería
+17, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Mallorca (On Loan)
+22, Raúl Navas, ESP, D, 1.86, 84, 11-05-88, Seville, Cartagena

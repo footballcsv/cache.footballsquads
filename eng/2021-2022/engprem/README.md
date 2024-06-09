@@ -1,0 +1,23 @@
+# English Premier League 2021/2022
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Brentford](brentf.txt)
+- [Brighton & Hove Albion](brighton.txt)
+- [Burnley](burnley.txt)
+- [Chelsea](chelsea.txt)
+- [Crystal Palace](cpalace.txt)
+- [Everton](everton.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Norwich City](norwich.txt)
+- [Southampton](southam.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [Watford](watford.txt)
+- [West Ham United](westham.txt)
+- [Wolverhampton Wanderers](wolves.txt)

@@ -1,0 +1,37 @@
+=  Nantes - French Ligue 1 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alban Lafont, FRA, G, 1.93, 80, 23-01-99, Ouagadougou, Fiorentina
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Middlesbrough
+3, Andrei Girotto, BRA, D, 1.85, 77, 17-02-92, Bento Gonçalves, Tombense
+4, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Bordeaux
+5, Pedro Chirivella, ESP, M, 1.78, 66, 23-05-97, Valencia, Liverpool
+6, Roli Pereira de Sa, FRA, M, 1.77, 71, 10-12-96, Mantes-la-Jolie, Paris St-Germain
+7, Kalifa Coulibaly, MLI, F, 1.97, 84, 21-08-91, Bamako, KAA Gent
+8, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, Parma
+10, Ludovic Blas, FRA, M, 1.80, 64, 31-12-97, Colombes, Guingamp
+11, Marcus Coco, FRA, F, 1.84, 76, 24-06-96, Les Abymes, Guingamp
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, Anderlecht
+14, Charles Traoré, MLI, D, 1.80, 74, 01-01-92, Aulnay-sous-Bois, Troyes
+16, Rémy Descamps, FRA, G, 1.94, 74, 25-06-96, Marcq-en-Barœul, Charleroi
+18, Samuel Moutoussamy, FRA, M, 1.76, 71, 12-08-96, Paris, Lyon
+19, Willem Geubbels, FRA, F, 1.85, 72, 16-08-01, Villeurbanne, Monaco
+20, Jean-Kévin Augustin, FRA, F, 1.77, 69, 16-06-97, Paris, RB Leipzig
+21, Jean-Charles Castelleto, CMR, D, 1.85, 74, 26-01-95, Clamart, Brest
+23, Randal Kolo Muani, COD, F, 1.87, 73, 05-12-98, Bondy, None
+24, Sébastien Corchia, FRA, D, 1.76, 65, 01-11-90, Noisy-le-Sec, Sevilla
+26, Osman Bukari, GHA, F, 1.70, 68, 13-12-98, Accra, KAA Gent
+27, Moses Simon, NGA, M, 1.68, 66, 12-07-95, Jos, Levante
+29, Quentin Merlin, FRA, F, 1.74, 64, 16-05-02, Nantes, None
+30, Denis Petric, SRB, G, 1.86, 80, 24-05-88, Ljubljana, Guingamp
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Abdoulaye Touré, FRA, M, 1.87, 77, 03-03-94, Nantes, Genoa
+22, Bridge Ndilu, FRA, F, 1.86, 80, 21-07-00, Le Mans, Quevilly-Rouen (On Loan)
+25, Kader Bamba, FRA, F, 1.76, 68, 25-04-94, Sarcelles, Amiens (On Loan)
+40, Charly Jan, FRA, G, 1.86, 81, 27-05-99, Vannes, Bourg-en-Bresse (On Loan)
+13, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, RFC Seraing
+28, Renaud Emond, BEL, F, 1.86, 73, 05-12-91, Virton, Standard Liège
+17, Anthony Limbombe, BEL, F, 1.75, 72, 15-07-94, Mechelen, 

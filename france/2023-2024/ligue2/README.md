@@ -1,0 +1,23 @@
+# French Ligue 2 2023/2024
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Annecy](annecy.txt)
+- [Angers](angers.txt)
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Concarneau](concarneau.txt)
+- [Dunkerque](dunkerque.txt)
+- [Grenoble](grenoble.txt)
+- [Guingamp](guinga.txt)
+- [Laval](laval.txt)
+- [Paris FC](parisfc.txt)
+- [Pau](pau.txt)
+- [Quevilly-Rouen](quevilly.txt)
+- [Rodez](rodez.txt)
+- [Saint-Étienne](stetienne.txt)
+- [Troyes](troyes.txt)
+- [Valenciennes](valenc.txt)

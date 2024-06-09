@@ -1,0 +1,37 @@
+=  Rodez - French Ligue 2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sébastien Cibois, FRA, G, 1.87, 72, 02-03-98, Argenteuil, Brest
+2, Eric Vandenabeele, FRA, D, 1.84, 77, 16-12-91, Calais, Valenciennes
+3, Raphaël Lipinski, FRA, D, 1.80, 79, 30-07-02, Poissy, Auxerre
+4, Stone Mambo, FRA, D, 1.83, 68, 25-03-99, Kinshasa, Orléans
+5, Kévin Boma, FRA, D, 1.87, 73, 20-11-02, Poitiers, Angers
+6, Ahmad Ngouyamsa, CMR, D, 1.76, 75, 21-12-00, Yaoundé, Dijon
+7, Wilitty Younoussa, CMR, M, 1.70, 65, 09-09-01, Tcholliré, Dijon
+8, Lorenzo Rajot, FRA, M, 1.79, 68, 13-10-97, Saint-Cloud, Clermont
+9, Park Jung-Bin, KOR, F, 1.77, 73, 22-02-94, Busan, FC Seoul
+10, Waniss Taïbi, FRA, M, 1.84, 70, 07-03-02, Limoges, Angers
+11, Dembo Sylla, FRA, D, 1.75, 68, 10-11-02, Laval, Lorient
+12, Killian Corredor, FRA, F, 1.82, 72, 04-12-00, Montpellier, Toulouse
+14, Bradley Danger, FRA, M, 1.83, 73, 29-01-98, Mont-Saint-Aignan, Chambly
+15, Serge-Philippe Raux-Yao, FRA, D, 1.96, 83, 30-05-99, Cergy, Cercle Brugge
+16, Lionel Mpasi, COD, G, 1.82, 81, 01-08-94, Meaux, Toulouse
+17, Andréas Hountondji, FRA, F, 1.75, 64, 11-07-02, Montry, Caen
+18, Antoine Valério, FRA, M, 1.85, 75, 11-12-99, Bordeaux, Nîmes
+19, Lucas Buades, FRA, D, 1.80, 75, 28-12-97, Muret, Nîmes
+21, Joris Chougrani, FRA, D, 1.85, 75, 30-03-91, Cassagnes, None
+22, Taïryk Arconte, FRA, F, 1.81, 76, 12-11-03, Les Abymes, Brest
+24, Giovanni Haag, FRA, M, 1.85, 80, 30-05-00, Metz, Nancy
+25, Clément Depres, FRA, F, 1.88, 80, 25-11-94, Nîmes, Nîmes
+26, Yannis Verdier, FRA, F, 1.89, 77, 29-07-03, Montpellier, Châteauroux
+28, Hakim Abdallah, COM, D, 1.70, 68, 18-08-97, Troyes, Grenoble
+29, Grégory Coelho, FRA, D, 1.85, 76, 02-09-99, Cahors, None
+30, Enzo Crombez, FRA, G, 1.88, -, 23-03-03, -, Amiens
+40a, Ewen Jaouen, FRA, G, 1.97, 82, 29-12-05, Paris, Reims
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Joseph Mendes, GNB, F, 1.86, 80, 30-03-91, Évreux, Dijon
+27, Hatim Far, FRA, F, 1.79, 73, 16-02-02, Rouen, Toulon (On Loan)
+23, Nikoloz Kutateladze, RUS, F, 1.84, 74, 19-03-01, Tbilisi, Pari Nizhny Novgorod

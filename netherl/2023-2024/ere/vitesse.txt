@@ -1,0 +1,43 @@
+=  Vitesse - Dutch Eredivisie 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eloy Room, CUW, G, 1.89, 79, 06-02-89, Nijmegen, Columbus Crew
+2, Carlens Arcus, HAI, D, 1.82, 76, 28-06-96, Port-au-Prince, Auxerre
+5, Mica Pinto, POR, D, 1.76, 70, 04-06-93, Diekirch, Sparta Rotterdam
+6, Dominik Oroz, CRO, D, 1.92, 75, 29-10-00, Vienna, FC Liefering
+7, Amine Boutrah, FRA, F, 1.73, 60, 26-10-00, Porto-Vecchio, Concarneau
+8, Marco van Ginkel, NED, M, 1.80, 67, 01-12-92, Amersfoort, PSV Eindhoven
+9, Joel Voelkerling Persson, SWE, F, 1.81, 65, 15-01-03, Dalköpinge, Lecce
+11, Fodé Fofana, NED, F, 1.87, 75, 26-10-02, Groningen, PSV Eindhoven
+13, Enzo Cornelisse, NED, D, 1.78, 68, 29-06-02, Arnhem, None
+14, Paxten Aaronson, USA, M, 1.75, 64, 26-08-03, Medford, Eintracht Frankfurt
+15, Ramon Hendriks, NED, D, 1.89, 76, 18-07-01, Hendrik-Ido-Ambacht, Feyenoord
+17, Kacper Kozłowski, POL, M, 1.77, 67, 16-10-03, Koszalin, Brighton & HA
+19, Thomas Buitink, NED, F, 1.74, 68, 14-06-00, Nijkerk, None
+20, Melle Meulensteen, NED, D, 1.78, 78, 04-07-99, Nijmegen, RKC Waalwijk
+21, Mathijs Tielemans, NED, M, 1.78, 73, 26-04-02, Veldhoven, PSV Eindhoven
+22, Toni Domgjoni, SUI, M, 1.76, 74, 04-09-98, Koprivnica, Zürich
+23, Daan Huisman, NED, M, 1.78, 63, 26-07-02, Arnhem, None
+24, Davy Pröpper, NED, M, 1.85, 72, 02-09-91, Arnhem, Vitesse
+25, Gyan de Regt, NED, F, -, -, 18-08-03, Papendrecht, Alphense Boys
+26, Miliano Jonathans, NED, M, -, -, 05-04-04, Arnhem, None
+28, Anis Hadj Moussa, ALG, F, -, -, 11-02-02, -, Patro Eisden Maasmechelen
+29, Nicolas Isimat-Mirin, FRA, D, 1.87, 83, 15-11-91, Meudon-la-Forêt, Sporting Kansas City
+30, Adrian Mazilu, ROU, F, 1.86, 72, 13-09-05, Constanța, Brighton & HA
+31, Markus Schubert, GER, G, 1.84, 81, 12-06-98, Freiberg, Schalke
+35, Mexx Meerdink, NED, F, 1.82, 73, 24-07-03, Winterswijk, AZ Alkmaar
+43, Giovanni van Zwam, NED, D, -, -, 02-01-04, Ede, None
+44, Jordi Altena, NED, M, -, -, 04-12-03, -, None
+55, Tom Bramel, NED, G, 1.96, -, 24-07-05, -, None
+56, Mats Egbring, NED, D, -, -, 17-09-06, Deventer, None
+58, Andy Visser, NED, F, 1.93, 84, 22-09-04, Dieren, MASV Arnhem
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Maximilian Wittek, GER, D, 1.70, 66, 21-08-95, Freising, Bochum
+27, Romaric Yapi, FRA, D, 1.78, 70, 13-07-00, Evry, Bastia
+33, Daan Reiziger, NED, G, 1.84, 69, 18-06-01, Groningen, SC Cambuur
+53, Simon van Duivenbooden, NED, F, 1.90, 85, 11-05-02, Uithoorn, Patro Eisden Maasmechelen (On Loan)
+10, Saïd Hamulic, BIH, F, 1.89, 83, 12-11-00, Leiderdorp, Toulouse
+42, Million Manhoef, NED, F, 1.79, 71, 03-01-02, Beemster, Stoke C

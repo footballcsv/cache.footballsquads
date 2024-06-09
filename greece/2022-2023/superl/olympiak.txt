@@ -1,0 +1,58 @@
+=  Olympiakos - Greek Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Ramon, BRA, D, 1.79, 70, 13-03-01, São João de Meriti, Flamengo
+4, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Verona
+6, Yann M'Vila, FRA, M, 1.82, 80, 29-06-90, Amiens, St-Etienne
+7, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Kaiserslautern
+10, James Rodríguez, COL, M, 1.80, 77, 12-07-91, Cúcuta, Al-Rayyan
+11, Youssef El Arabi, MAR, F, 1.83, 70, 03-02-87, Caen, Al-Duhail
+14, Thanasis Androutsos, GRE, D, 1.82, 75, 06-05-97, Athens, None
+15, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, Arsenal
+16, Zymer Bytyqi, NOR, M, 1.76, 70, 14-09-96, Sint-Truiden, Konyaspor
+17, Marios Vrousai, ALB, M, 1.83, 78, 02-07-98, Nafpaktos, None
+19, Giorgos Masouras, GRE, M, 1.84, 78, 30-11-93, Amfilochia, Panionios
+21, Pep Biel, ESP, M, 1.67, 64, 05-09-96, Sant Joan, FC København
+23, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, Flamengo
+24, Ousseynou Ba, SEN, D, 1.92, 84, 11-11-95, Dakar, Gazélec Ajaccio
+27, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Basel
+28, Mathieu Valbuena, FRA, M, 1.67, 58, 28-09-84, Bordeaux, Fenerbahçe
+30, Konrad de la Fuente, USA, F, 1.70, 63, 16-07-01, Miami, Marseille
+31, Ögmundur Kristinsson, ISL, G, 1.92, 89, 19-06-89, Reykjavík, Larissa
+33, Hwang In-Beom, KOR, M, 1.77, 70, 20-09-96, Daejeon, Rubin Kazan
+38, Diadie Samassékou, MLI, M, 1.77, 68, 11-01-96, Bamako, 1899 Hoffenheim
+45, Oleg Reabciuk, MDA, D, 1.80, 72, 16-01-98, Ialoveni, Paços de Ferreira
+47, Sergi Canós, ESP, F, 1.73, 75, 02-02-97, Nules, Brentford
+66, Pape Abou Cissé, SEN, D, 1.97, 83, 14-09-95, Pikine, Ajaccio
+74, Andreas Ntoi, GRE, D, 1.90, 85, 02-02-03, Athens, None
+77, Garry Rodrigues, CPV, M, 1.72, 70, 27-11-90, Rotterdam, Al-Ittihad [KSA]
+85, Diby Keita, MLI, M, 1.81, 66, 08-07-03, Toledo, Real Madrid B
+88, Konstantinos Tzolakis, GRE, G, 1.93, 85, 08-11-02, Chania, Platanias
+91, Alexandros Paschalakis, GRE, G, 1.93, 90, 28-07-89, Athens, PAOK
+94, Cédric Bakambu, COD, F, 1.82, 73, 11-04-91, Vitry-Sur-Seine, Marseille
+99, Thanos Papadoudis, GRE, G, -, -, 06-07-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Estoril (On Loan)
+36, Mamadou Kané, GUI, M, 1.72, 66, 22-01-97, Conakry, Pafos (On Loan)
+21, Bandiougou Fadiga, FRA, M, 1.69, 59, 15-01-01, Paris, Ionikos (On Loan)
+4, Mady Camara, GUI, M, 1.82, 75, 28-02-97, Matam, Roma (On Loan)
+75, Fotis Kitsos, GRE, D, 1.74, 70, 31-03-03, Athens, Omonia Nicosia (On Loan)
+10, Philip Zinckernagel, DEN, F, 1.75, 70, 16-12-94, Copenhagen, Standard Liège (On Loan)
+9, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Alanyaspor (On Loan)
+97, Lazar Randjelović, SRB, M, 1.78, 68, 05-08-97, Pertate, FC Ural (On Loan)
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Sharjah FC
+2, Šime Vrsaljko, CRO, D, 1.81, 76, 10-01-92, Zadar, 
+23, Leonardo Koutris, GRE, D, 1.74, 70, 23-07-95, Rhodes, Pogoń Szczecin
+20, Josh Bowler, ENG, M, 1.75, 70, 05-03-99, Chertsey, Nottingham F
+8, Pierre Kunde, CMR, M, 1.80, 86, 26-07-95, Limbé, Bochum (On Loan)
+47, Aboubakar Kamara, MTN, F, 1.78, 80, 07-03-95, Gonesse, Aris (On Loan)
+16, Doron Leidner, ISR, D, 1.78, 68, 26-04-02, Rishon LeZion, Austria Vienna (On Loan)
+1, Tomáš Vaclík, CZE, G, 1.88, 84, 29-03-89, Ostrava, Huddesfield T
+18, Hwang Ui-Jo, KOR, F, 1.84, 73, 28-08-92, Seongnam, Nottingham F
+22, Aguibou Camara, GUI, M, 1.67, 60, 20-05-01, Matam, Atromitos (On Loan)
+26, Pipa, ESP, D, 1.75, 68, 26-01-98, Esparraguera, Ludogorets Razgrad
+5, Andreas Bouhalakis, GRE, M, 1.86, 82, 05-04-93, Heraklion, Konyaspor (On Loan)
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Fluminense

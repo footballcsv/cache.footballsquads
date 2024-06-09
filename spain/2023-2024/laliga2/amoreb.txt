@@ -1,0 +1,35 @@
+=  Amorebieta - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Unai Marino, ESP, G, 1.85, 81, 10-12-99, Ondarroa, Horta
+2, Jorge Mier, ESP, D, 1.75, 65, 04-02-99, Oviedo, Oviedo
+3, Xabier Etxeita, ESP, D, 1.86, 78, 31-10-87, Amorebieta-Etxano, Eibar
+5, Unai Bustinza, ESP, D, 1.75, 74, 02-02-92, Bilbao, Málaga
+6, Jorge Yriarte, VEN, M, 1.82, 76, 04-03-00, Barquisimeto, Eibar
+7, Josué Dorrio, ESP, M, 1.70, 62, 03-03-94, Bilbao, Linense
+8, Erik Morán, ESP, M, 1.87, 74, 25-05-91, Portugalete, Ponferradina
+9, Eneko Jauregi, ESP, F, 1.84, 81, 13-07-96, Muxika, Sanse
+10, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, Busan IPark
+11, Iker Seguin, ESP, M, 1.83, 73, 12-07-89, Eibar, Real Unión
+13, Jon Mikel Magunagoitia, ESP, G, 1.83, 79, 06-08-00, Amorebieta-Etxano, Zamora
+14, Javier Eraso, ESP, M, 1.80, 71, 22-03-90, Pamplona, Akritas Chlorakas
+15, Álvaro Núñez, ESP, D, 1.74, 60, 07-07-00, Bilbao, Barcelona B
+16, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Eibar
+17, Rayco Rodríguez, ESP, M, 1.78, 64, 24-11-96, Las Palmas, Unionistas de Salamanca
+19, Jürgen Locadia, CUW, F, 1.91, 79, 07-11-93, Emmen, Cangzhou Mighty Lions
+20, Kwasi Sibo, GHA, M, 1.82, 72, 24-06-98, Wa, Betis B
+21, Álex Carbonell, ESP, M, 1.75, 70, 15-09-97, Cerdanyola del Vallès, Barcelona B
+22, Jon Morcillo, ESP, M, 1.83, 72, 15-09-98, Amorebieta-Etxano, Athletic Bilbao
+23, Iker Unzueta, ESP, F, 1.84, 71, 04-08-98, Abadiño, Vizela
+24, Josep Gayá, ESP, D, 1.85, 74, 07-07-00, Palma de Mallorca, Mallorca B
+28, Félix Garreta, ESP, D, -, -, 21-04-04, Palau-solità i Plegamans, Betis B
+29, Ángel Troncho, ESP, M, -, -, 02-10-02, -, Eibar
+30, Pablo Campos, ESP, G, 1.88, 78, 28-04-02, Valencia, Levante B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Cosimo Marco Da Graca, ITA, F, 1.85, 79, 01-05-02, Palermo, Juventus
+27, Luis Quintero, COL, F, 1.78, 68, 12-10-04, Alicante, Villarreal B
+19, Javier Avilés, ESP, M, 1.81, 75, 17-08-97, Madrid, Leganés
+4, Manu Hernando, ESP, D, 1.83, 71, 19-07-98, Palencia, Racing Santander

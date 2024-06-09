@@ -1,0 +1,53 @@
+=  FC Khimki - Russian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Mitryushkin, RUS, G, 1.86, 79, 08-02-96, Krasnoyarsk, Dynamo Dresden
+2, Petar Golubović, SRB, D, 1.84, 80, 13-07-94, Belgrade, Aalesund
+3, Irakli Chezhiya, GEO, D, 1.87, 76, 22-05-92, Gali, Olimp-Dolgoprudny
+4, Brian Idowu, NGA, D, 1.80, 75, 18-05-92, St. Petersburg, Lokomotiv Moscow
+5, Nikola Antić, SRB, D, 1.78, 75, 04-01-94, Belgrade, Shakhtyor Soligorsk
+7, Ilya Sadygov, RUS, F, 1.92, 86, 29-09-00, Khimki, Olimp-Dolgoprudny
+9, Aleksandr Rudenko, RUS, F, 1.72, 71, 15-03-99, Darjevka, Spartak Moscow-2
+10, Aleksandr Dolgov, RUS, F, 1.84, 76, 24-09-98, Voronezh, FC Rostov
+11, Marcos Guilherme, BRA, F, 1.72, 62, 05-08-95, Itararé, São Paulo
+13, Aleksandr Alkhazov, RUS, F, 1.84, 72, 27-05-84, Rostov, Olimp-Dolgoprudny
+15, Vladimir Khubulov, RUS, F, 1.79, 71, 02-03-01, Vladikavkaz, Krylia Sovetov
+16, Janio Bikel, GNB, M, 1.74, 65, 28-06-95, Bissau, Vancouver Whitecaps
+17, Cristian González, URU, D, 1.84, 80, 23-07-96, Montevideo, Santa Clara
+18, David Kobesov, RUS, M, 1.82, 75, 06-01-00, Vladikavkaz, Pari Nizhny Novgorod
+19, Artur Chyorny, RUS, D, 1.87, 79, 11-02-00, Vladikavkaz, Lokomotiv Moscow
+20, Nemanja Glavčić, SRB, M, 1.72, 67, 19-02-97, Kraljevo, Slaven Belupo
+22, Lev Skvortsov, KAZ, D, 1.77, 67, 02-02-00, Astana, Turan
+23, Stefan Melentijević, SRB, D, 1.89, 81, 20-03-04, Herceg Novi, Radnički Novi Beograd
+26, Artyom Yuran, RUS, D, 1.86, 73, 24-06-97, Düsseldorf, Rotor-2 Volgograd
+27, Said-Ali Akhmaev, RUS, M, 1.82, 72, 30-05-96, Moscow, SKA-Khabarovsk
+28, Georgy Karginov, RUS, M, 1.76, 60, 29-01-01, Vladikavkaz, Zenit-2
+33, Vitaliy Gudiyev, RUS, G, 1.81, 65, 22-04-95, Vladikavkaz, Akhmat Grozny
+42, Mory Gbane, CIV, M, 1.88, 83, 25-12-00, Toumodi, Bijelo Brdo
+50, Vitaliy Lystsov, RUS, D, 1.92, 82, 11-07-95, Voronezh, Lokomotiv Moscow
+63, Danil Kazantsev, RUS, M, 1.87, 75, 05-01-01, Syzran, Master-Saturn
+66, Léo Andrade, BRA, D, 1.90, 78, 18-04-98, Curitiba, Marítimo
+77, Reziuan Mirzov, RUS, M, 1.80, 74, 22-06-93, Baksan, Spartak Moscow
+80, Lachezar Kotev, BUL, M, 1.84, 75, 05-01-98, Sofia, Arda Kardzhali
+84, Dzhambulat Dulayev, RUS, F, 1.79, 69, 18-10-98, -, Olimp-Dolgoprudny
+88, Denis Davydov, RUS, F, 1.75, 65, 22-03-95, Moscow, Znamya Truda
+97, Butta Magomedov, RUS, M, 1.75, 70, 25-12-97, Makhachkala, Alania Vladikavkaz
+99, Ayaz Guliev, RUS, M, 1.69, 64, 27-11-96, Moscow, Arsenal Tula
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Lawrence Nicholas, NGA, M, 1.88, 75, 17-05-01, Lagos, Fatih Karagümrük
+11, Aleksandr Lomovitskiy, RUS, M, 1.81, 71, 27-01-98, Moscow, Rubin Kazan
+22, Ilya Lantratov, RUS, G, 1.91, 76, 11-11-95, Prokhorovka, Lokomotiv Moscow
+44, Ilya Kukharchuk, RUS, M, 1.84, 77, 02-08-90, Kostroma, Torpedo Moscow
+25, Oleksandr Filin, UKR, D, 1.79, 71, 25-06-96, Simferopol, Eupen
+23, Zakhar Volkov, BLR, D, 1.93, 80, 12-08-97, Vitebsk, BATE
+87, Kirill Bozhenov, RUS, M, 1.74, 64, 07-12-00, Barnaul, FC Rostov
+15, Egor Danilkin, RUS, D, 1.86, 79, 01-08-95, Vladimir, Volga Ulyanovsk
+8, Denis Glushakov, RUS, M, 1.78, 72, 27-01-87, Millerovo, Pari Nizhny Novgorod
+90, Daniil Kamlashev, RUS, M, 1.80, 72, 11-09-02, Moscow, Strogino Moscow
+5, Aleksey Nikitin, RUS, D, 1.87, 87, 27-01-92, Moscow, Tuzla C
+17, Aleksandr Zuev, RUS, M, 1.75, 62, 26-06-96, Kostanay, Krylia Sovetov
+21, Ilya Kamyshev, RUS, M, 1.86, 73, 13-07-97, Novotroitsk, Rodina Moscow
+6, Dmitri Tikhiy, RUS, D, 1.86, 78, 29-10-92, Vladivostok, 

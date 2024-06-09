@@ -1,0 +1,73 @@
+=  West Ham United - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Fabiański, POL, G, 1.90, 83, 18-04-85, Kostrzyn nad Odrą, Swansea C
+3, Aaron Cresswell, ENG, D, 1.70, 66, 15-12-89, Liverpool, Ipswich T
+4, Fabián Balbuena, PAR, D, 1.88, 82, 23-08-91, Ciudad del Este, Corinthians
+5, Vladimír Coufal, CZE, D, 1.79, 76, 22-08-92, Ludgeřovice, Slavia Prague
+7, Andriy Yarmolenko, UKR, F, 1.87, 76, 23-10-89, Kyiv, Borussia Dortmund
+9, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, Brentford
+10, Manuel Lanzini, ARG, M, 1.67, 59, 15-02-93, Ituzaingó, Al-Jazira
+11, Jesse Lingard, ENG, M, 1.75, 62, 15-12-92, Warrington, Manchester U
+14, Frederik Alves, DEN, D, 1.89, 78, 08-11-99, Hvidovre, Silkeborg
+15, Craig Dawson, ENG, D, 1.88, 85, 06-05-90, Rochdale, Watford
+16, Mark Noble, ENG, M, 1.80, 70, 08-05-87, West Ham, None
+18, Pablo Fornals, ESP, M, 1.78, 67, 22-02-96, Castellón de la Plana, Villarreal
+20, Jarrod Bowen, ENG, F, 1.74, 70, 20-12-96, Leominster, Hull C
+21, Angelo Ogbonna, ITA, D, 1.91, 86, 23-05-88, Cassino, Juventus
+23, Issa Diop, FRA, D, 1.93, 84, 09-01-97, Toulouse, Toulouse
+24, Ryan Fredericks, ENG, D, 1.73, 72, 10-10-92, Potters Bar, Fulham
+25, David Martin, ENG, G, 1.86, 86, 22-01-86, Romford, Millwall
+26, Arthur Masuaku, COD, D, 1.79, 70, 07-11-93, Lille, Olympiakos
+28, Tomáš Souček, CZE, M, 1.90, 84, 27-02-95, Havlíčkův Brod, Slavia Prague
+30, Michail Antonio, ENG, F, 1.80, 82, 28-03-90, Wandsworth, Nottingham F
+31, Ben Johnson, ENG, D, 1.75, 67, 24-01-00, Waltham Forest, None
+34, Nathan Trott, ENG, G, 1.84, 70, 21-11-98, -, None
+35, Darren Randolph, IRL, G, 1.88, 98, 12-05-87, Dublin, Middlesbrough
+36, Mésaque Djú, POR, F, 1.78, 66, 18-03-99, Bissau, Benfica
+37, Nathan Holland, ENG, M, 1.78, 70, 19-06-98, Wythenshawe, Everton
+41, Declan Rice, ENG, M, 1.85, 80, 14-01-99, Kingston upon Thames, None
+43, Will Greenidge, ENG, D, -, -, 15-05-02, Redbridge, None
+44, Bernardo Rosa, BRA, M, 1.77, 74, 20-09-00, Rio de Janeiro, None
+45, Ademipo Odubeko, IRL, F, -, -, 21-10-02, Dublin, Manchester U
+47, Krisztián Hegyi, HUN, G, 1.93, 85, 24-09-02, Budapest, Haladás
+49, Joseph Anang, ENG, G, 1.83, 72, 08-06-00, -, Wa All Stars
+50, Harrison Ashby, SCO, D, 1.79, 72, 14-11-01, Milton Keynes, None
+51, Daniel Chesters, ENG, F, 1.79, 65, 04-04-02, Hitchin, None
+52, Lennon Peake, ENG, M, -, -, 22-07-02, -, None
+53, Joshua Okotcha, ENG, D, 1.89, 78, 29-12-01, Westminster, None
+54, Conor Coventry, IRL, M, 1.75, 65, 20-03-00, Waltham Forest, None
+55, Sean Adarkwa, ENG, F, 1.80, 74, 11-10-00, Hackney, None
+56, Emmanuel Longelo, ENG, D, 1.84, 70, 27-12-00, Barking, None
+57, Jayden Fevrier, ENG, D, -, -, 14-04-03, Waltham Forest, None
+58, Kai Corbett, ESP, F, 1.82, 72, 08-10-02, Barcelona, None
+59, Keenan Appiah-Forson, ENG, M, -, -, 16-10-01, Greenwich, None
+60, Daniel Jinadu, NGA, G, 1.86, 69, 21-06-02, -, Chelsea
+61, Kamarai Simon-Swyer, ENG, M, 1.83, 66, 04-12-02, Redbridge, None
+62, Sam Caiger, ENG, D, -, -, 30-04-02, Hatfield, None
+63, Josh Roach, ENG, G, -, -, 04-03-03, -, None
+64, Freddie Potts, ENG, M, 1.83, 70, 12-09-03, Romford, None
+65, Iyiola Adebayo, ENG, M, -, -, 07-09-02, -, None
+66, Amadou Diallo, ENG, F, -, -, 15-02-03, -, None
+67, Ossama Ashley, ENG, M, 1.80, 82, 23-02-00, Greenwich, AFC Wimbledon
+68, Jacob Knightbridge, ENG, G, -, -, 25-01-04, Romford, None
+69, Archie Woods, ENG, M, -, -, 17-09-03, Brentwood, None
+71, Michael Forbes, NIR, D, -, -, 29-04-04, -, Dungannon Swifts
+75, Jamal Baptiste, ENG, D, -, -, 11-11-03, Redbridge, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, Bournemouth
+32, Xande Silva, POR, F, 1.77, 60, 16-03-97, Lisbon, Aris (On Loan)
+33, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, Anderlecht
+46, Tunji Akinola, ENG, D, 1.87, 73, 21-11-98, -, Leyton Orient (On Loan)
+8, Felipe Anderson, BRA, M, 1.75, 70, 15-04-93, Brasília, FC Porto (On Loan)
+57, Louie Watson, IRL, M, 1.76, 60, 07-06-01, Croydon, Derby Co
+11, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, WBA
+22, Sébastien Haller, CIV, F, 1.87, 75, 22-06-94, Ris-Orangis, Ajax
+29, Gonçalo Cardoso, POR, D, 1.89, 80, 21-10-00, Marco de Canaveses, Basel (On Loan)
+2, Winston Reid, NZL, D, 1.90, 87, 03-07-88, Auckland, Brentford (On Loan)
+40, Oladapo Afolayan, ENG, F, 1.82, 73, 11-09-97, Westminster, Bolton W (On Loan)
+42, Aji Alese, ENG, D, 1.92, 78, 17-01-01, Islington, Cambridge U (On Loan)
+39, Alfie Lewis, ENG, M, 1.69, 64, 28-09-99, Redbridge, St Patrick's Ath (On Loan)

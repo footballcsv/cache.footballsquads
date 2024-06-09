@@ -1,0 +1,41 @@
+=  Villarreal B - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iker Álvarez, AND, G, 1.90, 78, 25-07-01, Andorra la Vella, Villarreal C
+2, Adrià Altimira, ESP, D, 1.70, 62, 28-02-01, Cardedeu, Andorra
+3, Dani Tasende, ESP, D, 1.72, 64, 06-07-00, Coristanco, Villarreal C
+4, Hugo Pérez, ESP, D, 1.89, 81, 16-12-02, Barcelona, Alavés B
+5, Abraham del Moral, ESP, D, 1.84, 76, 05-07-01, Martos, Villarreal C
+6, Alberto Del Moral, ESP, M, 1.85, 70, 20-07-00, Villacañas, Córdoba
+7, Diego Collado, ESP, F, 1.80, 69, 09-01-01, Granada, Villarreal C
+8, Carlo Adriano, ESP, M, 1.85, 70, 12-02-01, Villarreal, Villarreal C
+9, Alex Forés, ESP, F, 1.79, 67, 12-04-01, Valencia, Villarreal C
+10, Javi Ontiveros, ESP, M, 1.70, 72, 09-09-97, Marbella, Málaga
+11, Jorge Pascual, ESP, F, 1.87, 75, 09-04-03, Almería, Villarreal C
+12, Stefan Leković, SRB, D, 1.92, 83, 09-01-04, Belgrade, Crvena Zvezda
+13, Miguel Ángel Morro, ESP, G, 1.95, 82, 11-09-00, Alcalá de Henares, Rayo Vallecano B
+14, Aitor Gelardo, ESP, M, 1.77, 55, 26-06-02, Catral, Villarreal C
+15, Marcos Sánchez, ESP, D, 1.78, 71, 26-10-03, Villarreal, Villarreal C
+16, Lanchi, ESP, D, 1.83, 70, 23-06-01, Puerto Real, Villarreal C
+17, Hugo Novoa, ESP, F, 1.82, 70, 24-01-03, Bertamiráns, RB Leipzig
+18, Carlos Romero, ESP, D, 1.80, 76, 29-10-01, Valencia, Villarreal C
+19, Pablo Íñiguez, ESP, D, 1.83, 72, 20-01-94, Burgos, Levante B
+20, Ilias Akhomach, MAR, F, 1.75, 70, 16-04-04, Els Hostalets de Pierola, Barcelona B
+21, Rodri Alonso, ESP, M, 1.72, 60, 04-01-03, Castelló de la Plana, Villarreal C
+22, Tiago Geralnik, ARG, M, 1.77, 69, 31-03-03, Rosario, River Plate
+23, Victor Moreno, ESP, M, 1.74, 64, 30-09-05, Estepona, Roda
+24, Andrés Ferrari, URU, F, 1.85, 84, 03-01-03, Sauce, Defensor Sporting
+25, Jordi Ortega, ESP, M, 1.82, 75, 23-02-03, Castellón, Villarreal C
+27, Dani Requena, ESP, M, -, -, 12-02-04, Cenes de la Vega, Roda
+28, Fran Tafalla, ESP, D, -, -, 22-04-04, Orihuela, Villarreal C
+29, Antonio Espigares, ESP, D, 1.87, 80, 05-09-04, Granada, Villarreal C
+32, Facundo Viveros, ARG, M, -, -, 14-08-03, -, Villarreal C
+33, Pau Navarro, ESP, D, -, -, 25-04-05, -, Villarreal C
+35, Rubén Gómez, ESP, G, -, -, 24-01-02, Alzira, Villarreal C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Liberman Torres, ECU, D, 1.86, 70, 16-05-02, Shushufindi, Recreativo Huelva (On Loan)
+30, Victor Moreno, ESP, M, 1.74, 64, 30-09-05, Estepona, Re-Registered (23)
+17, Fabio Blanco, ESP, F, 1.79, 71, 18-02-04, Almería, Cultural Leonesa (On Loan)

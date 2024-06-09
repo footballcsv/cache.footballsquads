@@ -1,0 +1,37 @@
+=  Sion - Swiss Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heinz Lindner, AUT, G, 1.87, 80, 17-07-90, Linz, Basel
+2, Joël Schmied, SUI, D, 1.88, 84, 23-09-98, Bern, Vaduz
+3, Reto Ziegler, SUI, D, 1.83, 79, 16-01-86, Nyon, Lugano
+7, Luca Zuffi, SUI, M, 1.80, 70, 27-03-90, Winterthur, Basel
+8, Baltazar, BRA, M, 1.78, 77, 06-05-00, Jaraguá, Vila Nova
+9, Ilyas Chouaref, FRA, F, 1.75, 65, 12-12-00, Châteauroux, Châteauroux
+10, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, Parma
+11, Gaëtan Karlen, SUI, F, 1.86, 79, 07-06-93, Sion, Neuchâtel Xamax
+12, Alexandros Safarikas, GRE, G, 1.94, 88, 26-08-99, Veria, Chiasso
+13, Giovanni Sio, CIV, F, 1.80, 72, 31-03-89, Nantes, Gençlerbirliği
+14, Anto Grgić, SUI, M, 1.88, 78, 28-11-96, Schlieren, Stuttgart
+15, José Aguilar, ESP, M, 1.72, 63, 05-02-01, Almería, None
+18, Kevin Fickentscher, SUI, G, 1.81, 78, 06-07-88, Nyon, La Chaux-de-Fonds
+19, Numa Lavanchy, SUI, D, 1.74, 69, 25-08-93, Vevey, Lugano
+20, Musa Araz, SUI, M, 1.68, 65, 17-01-94, Fribourg, Neuchâtel Xamax
+21, Dennis Iapichino, SUI, D, 1.82, 72, 27-07-90, Frauenfeld, Servette
+22, Denis-Will Poha, FRA, M, 1.73, 72, 28-05-97, Lannion, Vitória Guimarães
+27, Abdel Zagré, BFA, F, 1.87, 79, 09-03-04, Bobo-Dioulasso, ASF Bobo-Dioulasso
+29, Kevin Halabaku, KVX, F, 1.81, 75, 29-11-01, Sion, None
+33, Kevin Bua, SUI, M, 1.80, 76, 11-08-93, Geneva, Leganés
+39, Nathanaël Saintini, FRA, D, 1.88, 85, 30-05-00, Les Abymes, Cholet
+44, Alexandre Nsakala, FRA, D, 1.78, 76, 20-03-00, Massy, Sochaux
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Adana Demirspor
+71, Gilles Richard, SUI, D, 1.86, 80, 23-02-03, Martigny, None
+76, Itaitinga, BRA, F, 1.81, 84, 04-10-98, Itaitinga, Fortaleza
+90, François Moubandje, SUI, D, 1.82, 76, 21-06-90, Geneva, Dinamo Zagreb
+97, Dimitri Cavaré, FRA, D, 1.85, 84, 05-02-95, Pointe-à-Pitre, Barnsley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Ruben Correia, SUI, D, 1.81, 75, 06-01-00, Lausanne, Eldense
+23, Nicky Cleșcenco, MDA, M, 1.77, 67, 23-07-01, Dublin, Petrocub Hîncești (On Loan)
+17, Filip Stojiljković, SUI, F, 1.85, 80, 04-01-00, Zollikon, Darmstadt

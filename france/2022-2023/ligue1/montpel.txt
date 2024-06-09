@@ -1,0 +1,39 @@
+=  Montpellier - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Issiaga Sylla, GUI, D, 1.80, 70, 01-01-94, Conakry, Toulouse
+4, Boubakar Kouyaté, MLI, D, 1.93, 78, 15-04-97, Bamako, Metz
+5, Pedro Mendes, POR, D, 1.87, 77, 01-10-90, Neuchâtel, Rennes
+6, Christopher Jullien, FRA, D, 1.95, 82, 22-03-93, Lagny-sur-Marne, Celtic
+7, Arnaud Nordin, FRA, F, 1.70, 66, 17-06-98, Paris, St-Etienne
+9, Valère Germain, FRA, F, 1.81, 75, 17-04-90, Marseille, Marseille
+10, Stephy Mavididi, ENG, F, 1.82, 71, 31-05-98, Derby, Juventus
+11, Téji Savanier, FRA, M, 1.71, 62, 22-12-91, Montpellier, Nîmes
+12, Jordan Ferri, FRA, M, 1.72, 70, 12-03-92, Cavaillon, Lyon
+13, Joris Chotard, FRA, M, 1.79, 70, 24-09-01, Orange, None
+14, Maxime Estève, FRA, D, 1.93, 87, 26-05-02, Montpellier, None
+15, Mathías Suárez, URU, D, 1.80, 80, 24-06-96, Montevideo, Defensor Sporting
+16, Dimitry Bertaud, FRA, G, 1.80, 85, 06-06-98, Montpellier, None
+17, Théo Sainte-Luce, FRA, D, 1.81, 72, 20-10-98, Chauny, Nîmes
+18, Léo Leroy, FRA, M, 1.85, 78, 14-02-00, Marseille, Châteauroux
+20, Yanis Guermouche, FRA, F, 1.92, 83, 15-04-01, Neuilly-sur-Seine, None
+21, Elye Wahi, FRA, F, 1.84, 74, 02-01-03, Courcouronnes, None
+22, Khalil Fayad, FRA, M, 1.72, 61, 09-06-04, Montpellier, None
+26, Thibault Tamas, FRA, D, 1.78, 68, 20-02-01, Colombes, None
+27, Faitout Maouassa, FRA, D, 1.70, 74, 06-07-98, Villepinte, Club Brugge
+28, Béni Makouana, CGO, F, 1.77, 66, 28-09-02, Brazzaville, Diables Noirs
+29, Enzo Tchato, FRA, D, 1.82, 75, 23-11-02, Montpellier, None
+30, Matis Carvalho, POR, G, 1.86, 80, 28-04-99, Nantes, Toulouse
+40, Benjamin Lecomte, FRA, G, 1.86, 78, 26-04-91, Paris, Monaco
+75, Mamadou Sakho, FRA, D, 1.87, 80, 13-02-90, Paris, Crystal Palace
+77, Falaye Sacko, MLI, D, 1.79, 64, 01-05-95, Bamako, Vitória Guimarães
+90, Bingourou Kamara, FRA, G, 1.93, 84, 21-10-96, Longjumeau, Strasbourg
+99, Wahbi Khazri, TUN, M, 1.82, 76, 08-02-91, Ajaccio, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Arnaud Souquet, FRA, D, 1.79, 70, 12-02-92, Paris, Chicago Fire
+19, Sacha Delaye, FRA, M, 1.71, 65, 23-04-02, Rennes, Le Puy (On Loan)
+1, Jonas Omlin, SUI, G, 1.89, 80, 10-01-94, Sarnen, B Mönchengladbach
+31, Nicolas Cozza, FRA, D, 1.78, 72, 08-01-99, Ganges, Wolfsburg

@@ -1,0 +1,45 @@
+=  Alcorcón - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Huesca
+2, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo La Coruña
+3, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Lugo
+4, Fidel Escobar, PAN, D, 1.81, 74, 09-01-95, Ciudad de Panamá, San Miguelito
+5, Juan Aguilera, ESP, M, 1.85, 76, 13-09-85, Madrid, Huesca
+6, Ander Gorostidi, ESP, M, 1.85, 74, 23-02-96, San Sebastián, Real Sociedad B
+7, Richard Boateng, GHA, M, 1.78, 66, 10-07-92, Accra, Oviedo
+8, Reko, POR, M, 1.80, 66, 25-07-95, Barcelos, Académica
+9, Marc Gual, ESP, F, 1.84, 73, 13-03-96, Badalona, Sevilla B
+10, Hugo Fraile, ESP, M, 1.70, 62, 16-03-87, Huelva, Fuenlabrada
+11, Ernesto Gómez, ESP, M, 1.73, 65, 18-07-94, Albolote, Oviedo B
+13, Samu Casado, ESP, G, 1.86, 77, 16-01-97, Guadix, Málaga B
+14, Juanma Bravo, ESP, M, 1.88, 74, 10-02-98, Murcia, Murcia
+15, Kelechi Nwakali, NGA, M, 1.81, 74, 05-06-98, Owerri, Huesca
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Víctor García, VEN, D, 1.75, 70, 11-06-94, Cúa, Vitória Guimarães
+18, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Peñarol
+19, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Oviedo
+20, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Fuenlabrada
+21, Dani Ojeda, ESP, M, 1.77, 72, 03-12-94, Las Palmas, Leganés
+22, Óscar Arribas, ESP, F, 1.78, 68, 22-10-98, Parla, Alcorcón B
+23, Carlos Embalo, GNB, F, 1.75, 74, 25-11-94, Bissau, Eupen
+27, Barbero, ESP, F, 1.87, 80, 17-08-98, Roquetas de Mar, Osasuna B
+29, Javier Castro, ESP, D, 1.83, 75, 13-09-00, Madrid, Rayo Vallecano B
+30, Samuel Sosa, VEN, M, 1.78, 71, 17-12-99, Valencia, Talleres (Córdoba)
+32, Guito, ESP, D, 1.74, 70, 16-01-98, Madrid, San Fernando
+34, Carlos Mena, ESP, G, 1.88, 79, 07-11-96, Ciudad Real, Alcorcón B
+35, Jesús Ruiz, ESP, G, 1.80, 75, 20-01-97, Esplugues de Llobregat, Tarazona
+36, Edu Viaña, ESP, D, 1.74, 66, 24-02-00, Madrid, Atlético Madrid B
+37, Aitor, ESP, M, 1.77, 68, 11-02-01, Madrid, Alcorcón B
+38, Llario, ESP, F, 1.78, 73, 15-05-98, Beniganim, Alcorcón B
+39, César Gómez, ESP, F, 1.80, 71, 12-04-00, Madrid, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Óscar Arribas, ESP, F, 1.78, 68, 22-10-98, Parla, Re-Registered (22)
+34, Juanma Bravo, ESP, M, 1.88, 74, 10-02-98, Murcia, Re-Registered (14)
+33, Cavafe, ESP, D, 1.85, 77, 25-04-99, Havana, Navalcarnero (On Loan)
+31, Samu Casado, ESP, G, 1.86, 77, 16-01-97, Guadix, Re-Registered (13)
+26, Álvaro Juan, ESP, M, 1.80, 79, 20-10-99, Talavera de la Reina, Cultural Leonesa (On Loan)
+28, Alejandro Escardó, ESP, M, 1.76, 72, 06-06-98, Málaga, Cultural Leonesa (On Loan)

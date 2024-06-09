@@ -1,0 +1,46 @@
+=  Las Palmas - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Álex Domínguez, ESP, G, 1.87, 80, 30-07-98, Granollers, Alavés B
+2, Marvin Park, ESP, D, 1.78, 64, 03-07-00, Palma de Mallorca, Real Madrid B
+3, Sergi Cardona, ESP, D, 1.85, 77, 08-07-99, Lloret de Mar, La Pobla de Mafumet
+4, Alex Suárez, ESP, D, 1.79, 75, 18-03-93, Las Palmas, Las Palmas B
+5, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Zaragoza
+6, Eric Curbelo, ESP, D, 1.73, 69, 14-01-94, Telde, Las Palmas B
+7, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Atlético Madrid
+8, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Las Palmas B
+9, Sandro Ramírez, ESP, F, 1.72, 60, 09-07-95, Las Palmas, Huesca
+10, Alberto Moleiro, ESP, M, 1.69, 67, 30-09-03, Santa Cruz de Tenerife, Las Palmas B
+11, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Betis
+12, Enzo Loiodice, FRA, M, 1.76, 60, 27-11-00, Paris, Dijon
+13, Álvaro Valles, ESP, G, 1.90, 78, 25-05-97, La Rinconada, Betis B
+14, Álvaro Lemos, ESP, D, 1.75, 72, 30-03-93, La Coruña, Celta Vigo
+15, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Cádiz
+16, Florin Andone, ROU, F, 1.80, 78, 11-04-93, Botoșani, Brighton & HA
+17, Óscar Clemente, ESP, M, 1.75, 67, 26-03-99, Santa Cruz de Tenerife, Atlético Madrid B
+18, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Goiás
+19, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Osasuna
+20, Kirian Rodríguez, ESP, M, 1.78, 76, 05-03-96, Candelaria, Las Palmas B
+21, Jonathan Viera, ESP, M, 1.71, 66, 21-10-89, Las Palmas, Beijing Guoan
+22, Omenuke Mfulu, COD, M, 1.82, 69, 20-03-94, Poissy, Elche
+23, Saúl Coco, EQG, D, 1.88, 80, 09-02-99, Lanzarote, Las Palmas B
+24, Pejiño, ESP, M, 1.77, 67, 29-07-96, Barbate, Sevilla B
+25, Wilfrid Kaptoum, CMR, M, 1.74, 71, 07-07-96, Douala, New England Revolution
+26, Ale Palanca, ESP, D, 1.75, 71, 26-01-03, Las Palmas, Las Palmas B
+27, Ale García, ESP, M, 1.81, 73, 19-03-03, Las Palmas, Las Palmas B
+28, Julen Pérez, ESP, M, 1.81, 70, 28-06-00, Gáldar, Las Palmas B
+30, Javi Cendón, ESP, G, 1.91, 90, 02-06-01, Barcelona, Las Palmas B
+31, Joaquín, ESP, M, -, -, 14-10-00, Santa Cruz de Tenerife, Las Palmas B
+32, Saliou Mandiang, ESP, M, 1.83, 69, 13-04-03, Arrecife, Las Palmas B
+33, Álvaro Santana, ESP, D, -, -, 24-02-02, -, Las Palmas B
+34, Moha Ramos, ESP, G, 1.88, 88, 13-04-00, Santa Cruz de Tenerife, Avilés
+36, Ale Gorrín, ESP, G, -, -, 08-08-02, -, Las Palmas B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Álex Díez, ESP, D, 1.73, 64, 17-02-96, Cáceres, Ponferradina
+5, Erick Ferigra, ECU, D, 1.80, 74, 07-02-99, Guayaquil, Paços de Ferreira
+20, Pinchi, ESP, F, 1.73, 62, 17-06-96, La Coruña, Mirandés (On Loan)
+20, Joel del Pino, ESP, F, 1.70, 66, 22-11-97, Las Palmas, Linense (On Loan)
+11, Benito Ramírez, ESP, M, 1.75, 70, 11-07-95, Las Palmas, De-Registered

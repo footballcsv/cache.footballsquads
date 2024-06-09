@@ -1,0 +1,68 @@
+=  Fleetwood Town - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Owain Fôn Williams, WAL, G, 1.93, 77, 17-03-87, Penygroes, Dunfermline Ath
+3, Danny Andrew, ENG, D, 1.80, 73, 23-12-90, Boston, Doncaster R
+4, Brendan Wiredu, ENG, M, 1.91, 70, 07-11-99, Tower Hamlets, Colchester U
+5, Corrie Ndaba, IRL, D, 1.88, 82, 25-12-99, Dublin, Ipswich T
+6, Darnell Johnson, ENG, D, 1.85, 83, 03-09-98, Leicester, Leicester C
+7, Carlos Mendes Gomes, ESP, F, 1.78, 66, 14-11-98, Yeumbeul, Luton T
+8, Josh Vela, ENG, M, 1.81, 73, 14-12-93, Salford, Shrewsbury T
+9, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Charlton Ath
+10, Scott Robertson, SCO, M, 1.85, 76, 27-07-01, Glasgow, Celtic
+13, Jay Lynch, ENG, G, 1.88, 85, 31-03-93, Salford, Rochdale
+14, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Peterborough U
+15, Junior Quitirna, GNB, M, 1.70, 64, 25-04-00, -, Waterford
+16, Lewis Warrington, ENG, M, 1.75, 75, 10-10-02, Birkenhead, Everton
+17, Callum Dolan, ENG, M, -, -, 29-09-00, -, Warrington Rylands
+18, Harrison Holgate, ENG, D, 1.86, 70, 01-07-00, Leeds, None
+20, Promise Omochere, NGA, M, 1.88, 79, 18-10-00, Dublin, Bohemians
+21, Cian Hayes, IRL, F, 1.70, 73, 29-06-03, Preston, None
+22, Aristote Nsiala, COD, D, 1.93, 83, 25-03-92, Kinshasa, Ipswich T
+23, Phoenix Patterson, SCO, M, 1.78, 67, 01-09-00, High Wycombe, Waterford
+24, Daniel Batty, ENG, M, 1.78, 75, 10-12-97, Pontefract, Hull C
+26, Shaun Rooney, SCO, D, 1.91, 80, 26-07-96, Bellshill, St Johnstone
+27, Harvey Macadam, ENG, M, 1.93, 84, 09-01-01, Burnley, Ashton U
+28, Carl Johnston, NIR, D, 1.75, 64, 29-05-02, Belfast, Linfield
+29, Dylan Boyle, NIR, M, 1.72, 60, 15-01-02, Belfast, None
+32, Josh Earl, ENG, D, 1.93, 78, 24-10-98, Southport, Preston NE
+33, Josh Edwards, ENG, D, -, -, -, -, Stockport Co
+34, Harry Wilson, NIR, M, -, -, 16-02-04, -, None
+35, Connor Teale, ENG, D, 1.85, 74, 08-10-02, Harlow, Leeds U
+36, Chiekh Thiam, FRA, D, -, -, 16-11-01, -, Stockport T
+38, Billy Jones, ENG, M, -, -, -, -, None
+39, Max MacMillan, RSA, F, 1.82, 66, 03-10-02, York, Leeds U
+40, Will Russ, WAL, F, -, -, 08-11-02, Denbigh, Leicester C
+41, Luc Rees, ENG, G, -, -, -, -, Forest Green R
+42, Sam Bird, ENG, D, -, -, 12-03-03, -, None
+43, Akiel Raffie, ENG, M, -, -, -, -, None
+44, Ben Thompson, ENG, M, -, -, -, -, None
+45, Danny Edwards, ENG, M, -, -, -, -, None
+46, Jake Wallace, NIR, D, -, -, 01-03-04, -, Glentoran
+47, Kyle White, ENG, M, 1.83, 75, 25-03-04, Burnley, None
+48, Ollie Leggett, ENG, D, -, -, -, -, None
+49, Kyle King, ENG, M, -, -, -, -, None
+50, Stephen McMullan, NIR, G, 1.84, 77, 31-12-04, -, Warrenpoint T
+52, George Morrison, SCO, M, -, -, 24-10-05, -, None
+53, Rio Cragg, ENG, G, -, -, -, -, None
+54, Will Johnson, ENG, D, -, -, 06-06-05, -, None
+55, Sam Glenfield, NIR, F, -, -, 10-05-05, -, Portadown
+56, Pharrell Brown, ENG, M, -, -, -, -, None
+, David Harrington, IRL, G, 1.84, 71, 01-07-00, Cork, Cork C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Shayden Morris, ENG, F, 1.83, 68, 30-03-02, Newham, Aberdeen
+9, Ellis Harrison, WAL, F, 1.80, 79, 29-01-94, Newport, Port Vale
+25, Alex Cairns, ENG, G, 1.83, 72, 04-01-93, Doncaster, Salford C (On Loan)
+1, Jakub Stolarczyk, POL, G, 1.94, 81, 19-12-00, Chęciny, Leicester C
+10, Callum Morton, ENG, F, 1.77, 65, 19-01-00, Torquay, Salford C
+30, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Waterford (On Loan)
+14, Joe Garner, ENG, F, 1.78, 76, 12-04-88, Blackburn, Carlisle U
+5, Mikey Devlin, SCO, D, 1.88, 79, 03-10-93, Motherwell, Hibernian
+9, Admiral Muskwe, ZIM, F, 1.83, 71, 21-08-98, -, Luton T
+11, Paddy Lane, NIR, F, 1.75, 65, 18-02-01, Halifax, Portsmouth
+19, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, Barrow
+31, Tom Donaghy, ENG, G, -, -, 18-04-03, Leeds, Waterford (On Loan)
+37, Drew Baker, ENG, D, -, -, 06-03-03, Chester, Bohemians (On Loan)

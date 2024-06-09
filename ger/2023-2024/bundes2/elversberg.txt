@@ -1,0 +1,36 @@
+=  SV Elversberg - German 2.Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frank Lehmann, GER, G, 1.92, 73, 29-04-89, Balingen, Osnabrück
+3, Florian Le Joncour, FRA, D, 1.93, 82, 03-02-95, Quimper, RWD Molenbeek
+4, Kevin Conrad, GER, D, 1.81, 77, 10-08-90, Künzelsau, Waldhof Mannheim
+5, Frederik Jäkel, GER, D, 1.93, 84, 07-03-01, Torgau, RB Leipzig
+6, Patryk Dragon, GER, M, 1.86, 80, 11-04-96, Olesno, Schalke
+7, Manuel Feil, GER, M, 1.70, 73, 08-10-94, Augsburg, Nürnberg II
+8, Semih Şahin, GER, M, 1.77, 72, 22-12-99, Mannheim, 1899 Hoffenheim II
+9, Dominik Martinović, GER, F, 1.79, 77, 25-03-97, Stuttgart, Waldhof Mannheim
+10, Jannik Rochelt, GER, M, 1.83, 72, 27-09-98, Lindenberg im Allgäu, Ulm
+11, Luca Dürholtz, GER, M, 1.78, 70, 18-08-93, Remscheid, RW Essen
+13, Marcel Correia, POR, D, 1.86, 80, 16-05-89, Kaiserslautern, Paderborn
+14, Robin Fellhauer, GER, D, 1.82, 76, 21-01-98, Mannheim, Freiburg II
+17, Paul Wanner, GER, M, 1.85, 75, 23-12-05, Amtzell, Bayern Munich
+18, Hugo Vandermersch, FRA, D, 1.80, 72, 05-05-99, Blendecques, Caen
+19, Lukas Pinckert, GER, D, 1.85, 79, 22-01-00, Stuttgart, Viktoria Berlin
+20, Nicolas Kristof, AUT, G, 1.85, 74, 20-12-99, Heidelberg, Astoria Walldorf
+21, Paul Stock, GER, F, 1.88, 78, 08-01-97, Landau, Steinbach
+22, Joseph Boyamba, GER, M, 1.72, 66, 29-07-96, Troisdorf, 1860 Munich
+23, Carlo Sickinger, GER, M, 1.83, 73, 29-07-97, Karlsruhe, Sandhausen
+24, Luca Schnellbacher, GER, M, 1.80, 76, 06-05-94, Groß-Umstadt, Preußen Münster
+25, Sebastian Saftig, GER, M, 1.93, 87, 05-02-02, Andernach, Kaiserslautern
+26, Arne Sicker, GER, D, 1.84, 79, 17-04-97, Eckernförde, Sandhausen
+28, Tim Boss, GER, G, 1.86, 81, 28-06-93, Cologne, Magdeburg
+29, Wahid Faghir, DEN, F, 1.85, 80, 29-07-03, Vejle, Stuttgart
+30, Kevin Koffi, CIV, F, 1.81, 75, 25-06-86, Aboisso, Waldhof Mannheim
+31, Thore Jacobsen, GER, M, 1.82, 77, 19-04-97, Henstedt-Ulzburg, Werder Bremen
+33, Maurice Neubauer, GER, D, 1.78, 65, 29-04-96, Recklinghausen, Homburg
+37, Luis Kerner, GER, D, 1.88, 80, 25-09-00, -, Jägersburg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Nico Antonitsch, AUT, D, 1.85, 81, 30-09-91, Vienna, Hapoel Petah Tikva

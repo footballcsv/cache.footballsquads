@@ -1,0 +1,40 @@
+=  Bayer Leverkusen - German Bundesliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernd Leno, GER, G, 1.89, 78, 04-03-92, Bietigheim-Bissingen, Stuttgart
+3, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Olympiakos
+4, Jonathan Tah, GER, D, 1.92, 90, 11-02-96, Hamburg, Hamburg
+5, Sven Bender, GER, D, 1.85, 72, 27-04-89, Rosenheim, Borussia Dortmund
+8, Lars Bender, GER, M, 1.84, 77, 27-04-89, Rosenheim, 1860 Munich
+9, Leon Bailey, JAM, F, 1.81, 70, 09-08-97, Kingston, KRC Genk
+10, Julian Brandt, GER, M, 1.83, 80, 02-05-96, Bremen, Wolfsburg
+11, Stephan Kießling, GER, F, 1.90, 80, 25-01-84, Lichtenfels, Nürnberg
+13, Lucas Alario, ARG, F, 1.80, 60, 08-10-92, Tostado, River Plate
+15, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, Mainz
+16, Tin Jedvaj, CRO, D, 1.88, 78, 28-11-95, Zagreb, Roma
+17, Joel Pohjanpalo, FIN, F, 1.84, 75, 13-09-94, Helsinki, HJK Helsinki
+18, Wendell, BRA, D, 1.76, 66, 20-07-93, Fortaleza, Grêmio
+20, Charles Aránguiz, CHI, M, 1.72, 67, 17-04-89, Santiago, Internacional
+21, Dominik Kohr, GER, M, 1.83, 75, 31-01-94, Trier, Augsburg
+22, Vladlen Yurchenko, UKR, M, 1.79, 64, 22-01-94, Mykolaiv, Shakhtar Donetsk-2
+28, Ramazan Özcan, AUT, G, 1.86, 84, 28-06-84, Hohenems, Ingolstadt
+29, Kai Havertz, GER, M, 1.87, 75, 11-06-99, Aachen, Alemannia Aachen
+30, Sam Schreck, GER, M, 1.80, 63, 29-01-99, Pinneberg, St Pauli
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, 1899 Hoffenheim
+32, Jakub Bednarczyk, POL, M, 1.84, 68, 02-01-99, Tarnowskie Góry, None
+33, Atakan Akkaynak, GER, M, 1.80, 73, 05-01-99, Troisdorf, None
+35, Chinedu Ekene, GER, F, 1.77, 75, 09-07-99, , None
+36, Niklas Lomb, GER, G, 1.88, 84, 28-07-93, Cologne, None
+37, Marlon Frey, GER, M, 1.80, 78, 24-03-96, Düsseldorf, None
+38, Karim Bellarabi, GER, M, 1.83, 72, 08-04-90, Berlin, Eintracht Braunschweig
+39, Benjamin Henrichs, GER, D, 1.81, 74, 23-02-97, Bocholt, None
+40, Tomasz Kucz, POL, G, 1.84, 70, 06-07-99, Warsaw, Polonia Warszawa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Joël Abu Hanna, GER, D, 1.85, 74, 22-01-98, Troisdorf, Kaiserslautern
+6, Aleksandar Dragović, AUT, D, 1.84, 76, 06-03-91, Vienna, Leicester C (On Loan)
+44, Kevin Kampl, SVN, M, 1.80, 63, 09-10-90, Solingen, RB Leipzig
+2, André Ramalho, BRA, D, 1.82, 75, 16-02-92, Ibiúna, Red Bull Salzburg
+14, Admir Mehmedi, SUI, F, 1.83, 77, 16-03-91, Gostivar, Wolfsburg

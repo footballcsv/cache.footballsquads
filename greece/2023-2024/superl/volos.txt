@@ -1,0 +1,43 @@
+=  Volos - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marios Siabanis, GRE, G, 1.87, 66, 28-09-99, Katerini, Aris
+2, Luka Račić, DEN, D, 1.87, 74, 08-05-99, Greve, Slaven Belupo
+3, Nikolai Alho, FIN, D, 1.72, 74, 12-03-93, Helsinki, MTK
+4, Kyriakos Aslanidis, GRE, D, 1.84, 76, 11-03-02, Serres, Aris
+5, Alexios Kalogeropoulos, GRE, D, 1.87, 81, 26-07-04, Andravida, Olympiakos
+6, Tasos Tsokanis, GRE, M, 1.82, 78, 02-05-91, Chalkida, Panetolikos
+7, Miloš Deletić, SRB, F, 1.79, 74, 13-10-93, Belgrade, AEK
+8, Joeri de Kamps, NED, M, 1.83, 74, 10-02-92, Amsterdam, IK Sirius
+9, Călin Popescu, ROU, F, 1.75, 70, 15-11-01, Brașov, Othellos Athienou
+10, Alexis Trouillet, FRA, M, 1.75, 65, 23-12-00, Saint-Priest-en-Jarez, Panathinaikos
+11, Nemanja Glavčić, SRB, M, 1.72, 67, 19-02-97, Kraljevo, FC Khimki
+12, Ivan Kostić, SRB, G, 1.91, 90, 24-10-95, Knjaževac, EN Paralimni
+13, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Cartagena
+14, Jean Barrientos, URU, M, 1.73, 69, 16-09-90, Montevideo, Xanthi
+16, Christos Shelis, CYP, D, 1.82, 75, 02-02-00, Paphos, Levski Sofia
+17, Fotis Kitsos, GRE, D, 1.74, 70, 31-03-03, Athens, Olympiakos
+18, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Asteras Tripolis
+20, Maximiliano Comba, ARG, F, 1.70, 68, 16-01-94, La Cautiva, Gimnasia y Esgrima (LP)
+21, Dimitris Metaxas, GRE, M, -, -, 16-12-03, -, None
+22, Giorgos Migas, GRE, D, 1.85, 78, 07-04-94, Amfilochia, Ionikos
+30, Symeon Papadopoulos, GRE, G, 1.92, 81, 18-04-00, Thessaloniki, Iraklis
+31, Juan Manuel García, ARG, F, 1.83, 72, 14-11-92, Tandil, Huracán
+32, Stathis Tachatos, GRE, D, 1.77, 76, 12-08-01, Thessaloniki, PAOK
+33, Panagiotis Kalampoukas, GRE, G, -, -, 24-06-04, -, None
+45, Panagiotis Moraitis, GRE, F, 1.80, 77, 01-12-97, Agrinio, Apollon Smyrnis
+63, Dániel Kovács, HUN, G, 1.90, 82, 16-01-94, Gyula, Fehérvár
+70, Konstantinos Karagiannis, CYP, D, 1.76, 68, 02-04-00, Nicosia, Akritas Chlorakas
+77, Jasin Assehnoun, FIN, F, 1.76, 73, 26-12-98, Tampere, Vejle
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+89, Thanasis Triantafyllou, GRE, F, 1.85, -, 22-07-03, -, Eolikos (On Loan)
+24, Dominik Kružliak, SVK, D, 1.83, 79, 10-07-96, Liptovský Mikuláš, FC Košice
+53, Theodosis Macheras, GRE, F, 1.79, 74, 09-05-00, Leros, AEK
+9, Samuel Mráz, SVK, F, 1.84, 75, 13-05-97, Malacky, 
+29, Quentin Cornette, FRA, F, 1.72, 75, 17-01-94, La Ciotat, 
+77, Ahmet Engin, GER, M, 1.80, 70, 09-08-96, Moers, Duisburg
+85, Sarantis Tselebakis, GRE, M, 1.78, -, 02-11-05, -, AEK
+24, Mikael Dyrestam, GUI, D, 1.85, 75, 10-12-91, Växjö, Örgryte IS

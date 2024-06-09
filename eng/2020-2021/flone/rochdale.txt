@@ -1,0 +1,40 @@
+=  Rochdale - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gavin Bazunu, IRL, G, 1.89, 79, 20-02-02, Dublin, Manchester C
+2, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, Blackpool
+3, Gabriel Osho, ENG, D, -, -, 14-08-98, Reading, Luton T
+4, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Bury
+5, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, Reading
+6, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Bury
+7, Stephen Dooley, NIR, M, 1.80, 80, 19-10-91, Portstewart, Coleraine
+8, Aaron Morley, ENG, M, 1.74, 67, 27-02-00, Bury, None
+9, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Southend U
+10, Alex Newby, ENG, F, 1.73, 70, 21-11-95, Barrow-in-Furness, Chorley
+11, Jake Beesley, ENG, F, 1.85, 67, 02-12-96, Sheffield, Solihull Moors
+12, Jay Lynch, ENG, G, 1.88, 85, 31-03-93, Salford, AFC Fylde
+13, Jimmy Keohane, IRL, M, 1.80, 72, 22-01-91, Kilkenny, Cork C
+14, Ollie Rathbone, ENG, M, 1.70, 66, 10-10-96, Blackburn, Manchester U
+15, Haydon Roberts, ENG, D, 1.75, 68, 10-05-02, Brighton, Brighton & HA
+16, Matt Done, WAL, M, 1.78, 65, 22-07-88, Oswestry, Sheffield U
+17, Conor Grant, IRL, M, 1.85, 70, 23-07-01, Dublin, Sheffield W
+18, Lewis Bradley, ENG, M, 1.70, 65, 29-05-01, Stockport, None
+19, Conor Shaughnessy, IRL, D, 1.91, 74, 30-06-96, Galway, Leeds U
+20, Jimmy Ryan, IRL, M, 1.80, 66, 06-09-88, Maghull, Blackpool
+21, Matthew Lund, NIR, M, 1.70, 61, 21-11-90, Manchester, Scunthorpe U
+22, Kwadwo Baah, ENG, F, 1.83, 75, 27-01-03, Horb am Neckar, Crystal Palace
+23, Harrison Hopper, ENG, M, 1.75, 67, 24-12-00, Camden, None
+24, Ethan Brierley, ENG, M, -, -, 23-11-03, Rochdale, None
+27, Abraham Odoh, ENG, F, 1.68, 56, 25-06-00, Lambeth, Charlton Ath
+29, Jack Vale, WAL, F, 1.86, 70, 03-03-01, Salford, Blackburn R
+30, Ben Chalton, ENG, G, -, -, -, -, None
+31, Bradley Wade, ENG, G, 1.88, 82, 03-07-00, Gloucester, None
+32, Joe Dunne, ENG, D, 1.83, 73, 25-10-01, Stafford, None
+33, Kacper Miałkowski, POL, D, -, -, -, Braniewo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Yeboah Amankwah, GHA, D, 1.90, 74, 19-10-00, Lewisham, Manchester C
+3, Tolaji Bola, ENG, D, 1.80, 80, 04-01-99, Camden Town, Arsenal
+17, Fabio Tavares, ENG, F, 1.80, 70, 22-01-01, Matosinhos, Coventry C

@@ -1,0 +1,34 @@
+=  NEC Nijmegen - Dutch Eredivisie 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattijs Branderhorst, NED, G, 1.92, 87, 31-12-93, Tiel, Willem II
+2, Ilias Bronkhorst, NED, D, 1.85, 79, 10-05-97, Haarlem, Telstar
+3, Philippe Sandler, NED, D, 1.88, 76, 10-02-97, Amsterdam, Feyenoord
+4, Iván Márquez, ESP, D, 1.91, 80, 09-06-94, Marbella, Cracovia Kraków
+5, Joris Kramer, NED, D, 1.90, 76, 02-08-96, Heiloo, AZ Alkmaar
+6, Jordy Bruijn, NED, M, 1.71, 67, 23-07-96, Amsterdam, SC Heerenveen
+7, Elayis Tavşan, NED, F, 1.83, 74, 30-04-01, Rotterdam, Sparta Rotterdam
+8, Andri Fannar Baldursson, ISL, M, 1.87, 76, 10-01-02, Kópavogur, Bologna
+9, Pedro Marques, POR, F, 1.81, 77, 25-04-98, Lisbon, Sporting CP
+11, Magnus Mattsson, DEN, F, 1.74, 62, 25-02-99, Marstal, Silkeborg
+14, Oussama Tannane, NED, M, 1.78, 80, 23-03-94, Tétouan, Göztepe
+16, Souffian El Karouani, MAR, D, 1.78, 70, 19-10-00, ’s-Hertogenbosch, USV Elinkwijk
+18, Mathias de Wolf, BEL, M, 1.87, 76, 21-02-02, Leuven, Club Brugge
+19, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Espanyol
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, SC Heerenveen
+21, Ibrahim Cissoko, NED, F, 1.74, 67, 26-03-03, Nijmegen, None
+22, Jasper Cillessen, NED, G, 1.85, 83, 22-04-89, Groesbeek, Valencia
+24, Calvin Verdonk, NED, D, 1.74, 70, 26-04-97, Dordrecht, Famalicão
+28, Bart van Rooij, NED, D, 1.74, 71, 26-05-01, Escharen, None
+29, Kas de Wit, NED, M, -, -, 26-07-03, Nijmegen, None
+30, Guus Gertsen, NED, D, 1.89, 74, 16-04-03, Bemmel, None
+31, Robin Roefs, NED, G, 1.92, 72, 17-01-03, Heeswijk, None
+32, Nils Rossen, NED, M, -, -, 01-08-05, Wijchen, None
+34, Terry Lartey Sanniez, NED, D, 1.74, 72, 10-08-96, Amsterdam, Celje
+71, Dirk Proper, NED, M, 1.68, 63, 24-02-02, Elst, None
+77, Anthony Musaba, NED, F, 1.82, 72, 06-12-00, Beuningen, Monaco
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Mikkel Duelund, DEN, M, 1.80, 70, 29-06-97, Aarhus, Dynamo Kyiv

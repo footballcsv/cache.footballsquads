@@ -1,0 +1,49 @@
+=  MOL Fehérvár - Hungarian Nemzeti Bajnokság I 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dániel Kovács, HUN, G, 1.90, 82, 16-01-94, Gyula, Soroksár
+4, Adrián Rus, HUN, D, 1.88, 84, 18-03-96, Satu Mare, Puskás Akadémia
+5, Attila Fiola, HUN, D, 1.82, 74, 17-02-90, Paks, Puskás Akadémia
+7, Ivan Petryak, UKR, M, 1.71, 63, 13-03-94, Smila, Shakhtar Donetsk
+8, Yevhen Makarenko, UKR, M, 1.82, 73, 21-05-91, Kyiv, Anderlecht
+10, Ádám István Kovács, HUN, M, 1.84, 75, 27-03-92, Szombathely, Haladás
+11, Loïc Nego, HUN, D, 1.79, 64, 15-01-91, Paris, Charlton Ath
+13, Artem Shabanov, UKR, D, 1.84, 74, 07-03-92, Kyiv, Dynamo Kyiv
+14, Norbert Szendrei, HUN, M, 1.87, 82, 27-03-00, Budapest, Honvéd
+15, Armin Hodžić, BIH, F, 1.81, 76, 17-11-94, Sarajevo, Dinamo Zagreb
+17, Nemanja Nikolić, HUN, F, 1.80, 79, 31-12-87, Zenta, Chicago Fire
+19, Kenan Kodro, BIH, F, 1.90, 77, 19-08-93, San Sebastián, Athletic Bilbao
+20, Evandro, BRA, F, 1.74, 71, 14-01-97, Messias, CSKA Sofia
+21, Rúben Pinto, POR, M, 1.81, 69, 24-04-92, Odivelas, CSKA Sofia
+22, Stopira, CPV, D, 1.80, 74, 20-05-88, Praia, Feirense
+23, Pál Dárdai, HUN, M, 1.79, 65, 24-04-99, Berlin, Hertha Berlin
+26, Michael Lüftner, CZE, D, 1.90, 85, 14-03-94, Chabařovice, FC København
+30, Lamin Jallow, GAM, F, 1.85, 73, 18-12-95, Banjul, Vicenza
+33, Barnabás Bese, HUN, D, 1.83, 77, 06-05-94, Budapest, OH Leuven
+44, Peter Žulj, AUT, M, 1.85, 80, 09-06-93, Wels, İstanbul Başakşehir
+49, Krisztián Géresi, HUN, M, 1.83, 71, 14-06-94, Székesfehérvár, Puskás Akadémia
+55, Marcel Heister, GER, D, 1.82, 74, 29-07-92, Albstadt, Ferencváros
+57, Martin Dala, HUN, G, 1.90, 83, 26-04-04, Székesfehérvár, None
+65, Szilveszter Hangya, HUN, D, 1.87, 83, 02-01-94, Baja, Vasas
+70, Funsho Bamgboye, NGA, F, 1.72, 68, 09-01-99, Ibadan, Haladás
+74, Adam Kovacsik, HUN, G, 1.92, 83, 04-04-91, Budapest, Reggina
+80, Bohdan Lyednyev, UKR, M, 1.73, 70, 07-04-98, Skvyra, Dynamo Kyiv
+85, Olivér Dinnyés, HUN, D, 1.90, 89, 03-05-00, Budapest, Újpest
+95, Alef, BRA, M, 1.86, 71, 28-01-95, Nova Odessa, Sporting Braga
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+83, Olivér Tamás, HUN, D, 1.83, 77, 14-04-01, Solotvyno, Paks
+27, Levente Szabó, HUN, F, 1.84, 75, 06-06-99, Székesfehérvár, Budafok (On Loan)
+96, Lyes Houri, FRA, M, 1.75, 75, 19-01-96, Lomme, Universitatea Craiova (On Loan)
+8, Samy Bourard, BEL, M, 1.78, 64, 10-07-96, Liège, ADO Den Haag
+68, Ádám Halmai, HUN, M, 1.77, 72, 17-07-01, Budapest, Zalaegerszeg (On Loan)
+99, Dániel Zsóri, HUN, F, 1.83, 76, 14-10-00, Békéscsaba, Zalaegerszeg (On Loan)
+6, Visar Musliu, MKD, D, 1.86, 80, 13-11-94, Gostivar, Ingolstadt
+24, Patrik Nyári, HUN, M, 1.85, 79, 09-04-01, Szombathely, Paks
+42, Emil Rockov, SRB, G, 1.88, 83, 27-01-95, Novi Sad, Vojvodina (On Loan)
+29, Zsolt Kojnok, HUN, D, 1.82, 69, 15-02-01, Mór, Budaörs (On Loan)
+35, Bence Gundel-Takács, HUN, G, 1.93, 75, 06-04-98, Budapest, Jarun (On Loan)
+9, Budu Zivzivadze, GEO, F, 1.89, 81, 10-03-94, Kutaisi, Újpest (On Loan)
+77, Kevin Csoboth, HUN, F, 1.78, 69, 20-06-00, Pécs, Szeged (On Loan)

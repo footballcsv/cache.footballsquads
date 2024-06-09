@@ -1,0 +1,47 @@
+=  Girona - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.85, 81, 20-01-88, Guadalajara, Lugo
+2, Bernardo Espinosa, COL, D, 1.92, 84, 11-07-89, Cali, Middlesbrough
+3, Jairo, ESP, F, 1.65, 67, 22-10-93, Santa Cruz de Tenerife, Extremadura
+4, Víctor Sánchez, ESP, M, 1.74, 72, 08-09-87, Rubí, Western U
+6, Ibrahima Kébé, MLI, M, 1.80, 79, 02-08-00, Bamako, Girona B
+7, Cristhian Stuani, URU, F, 1.86, 72, 12-10-86, Tala, Middlesbrough
+8, Álex Baena, ESP, M, 1.74, 69, 20-07-01, Roquetas de Mar, Villarreal B
+9, Darío Sarmiento, ARG, F, 1.67, 60, 29-03-03, Florencio Varela, Manchester C
+10, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Leeds U
+11, Valery Fernández, ESP, D, 1.82, 75, 23-11-99, L'Escala, Girona B
+12, Iván Martín, ESP, M, 1.78, 70, 14-02-99, Bilbao, Villarreal B
+13, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Tenerife
+14, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Eibar
+15, Juanpe, ESP, D, 1.90, 80, 30-04-91, Las Palmas, Granada
+16, Pablo Moreno, ESP, F, 1.78, 73, 03-05-02, Granada, Manchester C
+17, David Juncà, ESP, D, 1.75, 67, 16-11-93, Riumors, Celta Vigo
+19, Nahuel Bustos, ARG, F, 1.76, 66, 04-07-98, Córdoba, Manchester C
+20, Pol Lozano, ESP, M, 1.76, 68, 06-10-99, Sant Quirze del Vallès, Espanyol B
+21, Ramon Terrats, ESP, M, 1.81, 69, 18-10-00, Barcelona, Sant Andreu
+22, Santiago Bueno, URU, D, 1.89, 78, 09-11-98, Montevideo, Barcelona B
+24, Borja, ESP, M, 1.75, 72, 02-11-90, Torremocha de Jarama, Huesca
+27, Gabri Martínez, ESP, F, 1.85, 75, 22-01-03, Sant Fost de Campsentelles, Girona B
+29, Arnau Ortiz, ESP, F, 1.75, 70, 29-10-01, Figueres, Girona B
+30, Jonatan Morilla, ESP, G, -, -, 06-12-99, Girona, Girona B
+31, Eric Monjonell, ESP, D, 1.87, 79, 16-12-01, Barcelona, Mataró
+32, Oscar Ureña, ESP, F, -, -, 31-05-03, Figueres, Girona B
+33, Loïc Williams, ESP, D, 1.88, 74, 07-01-02, Valencia, Girona B
+34, Álex Sala, ESP, M, 1.85, 79, 09-04-01, Barcelona, Barcelona B
+35, Pau Victor, ESP, M, 1.84, 77, 26-11-01, Sant Cugat del Vallès, Girona B
+36, Ricard Artero, ESP, M, -, -, 05-02-03, La Bisbal d'Empordà, Girona B
+38, Arnau Martínez, ESP, D, 1.82, 75, 25-04-03, Premià de Dalt, Girona B
+40, Álex Castroviejo, ESP, F, -, -, 07-07-01, -, Manchego Ciudad Real
+41, Biel Farrés, ESP, D, -, -, 01-05-02, Vic, Damm
+42, Dawda Camara, MLI, F, -, -, 04-11-02, -, Girona B
+43, Suleiman Camara, ESP, F, 1.80, 74, 07-12-01, Sant Celoni, Girona B
+44, Joel Casals, ESP, M, -, -, 07-06-05, Camprodón, Girona B
+45, Unai Hernández, ESP, M, 1.71, 65, 14-12-04, Badalona, Girona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, Alavés
+6, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Elche
+23, Jordi Calavera, ESP, D, 1.78, 67, 02-01-95, Valls, Sporting Gijón (On Loan)

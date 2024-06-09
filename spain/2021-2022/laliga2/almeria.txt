@@ -1,0 +1,43 @@
+=  Almería - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Georgi Makaridze, GEO, G, 1.90, 85, 31-03-90, Tbilisi, Vitória Setúbal
+2, Aitor Buñuel, ESP, D, 1.80, 74, 10-02-98, Tafalla, Racing Santander
+3, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Almería B
+4, Íñigo Eguaras, ESP, M, 1.81, 76, 07-03-92, Antsoain, Zaragoza
+5, Lucas Robertone, ARG, M, 1.75, 70, 18-03-97, Concordia, Vélez Sarsfield
+6, César de la Hoz, ESP, M, 1.79, 70, 30-03-92, Orejo, Betis B
+7, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Osasuna
+8, Francisco Portillo, ESP, M, 1.69, 60, 13-06-90, Málaga, Getafe
+9, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, Partizan Belgrade
+10, Curro Sánchez, ESP, M, 1.78, 68, 03-01-96, La Palma del Condado, Ponferradina
+11, Dyego Sousa, BRA, F, 1.90, 82, 14-09-89, São José de Ribamar, Shenzhen FC
+12, Juanjo Nieto, ESP, D, 1.75, 73, 03-10-94, Castellón de la Plana, Oviedo
+13, Fernando, ESP, G, 1.85, 79, 10-06-90, Murcia, UCAM Murcia
+14, Javi Robles, ESP, M, 1.87, 73, 03-10-00, Almería, Almería B
+15, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Barcelona B
+16, José Carlos Lazo, ESP, M, 1.77, 69, 16-02-96, Sanlúcar de Barrameda, Getafe
+17, Álex Pozo, ESP, D, 1.74, 62, 22-02-99, Huévar del Aljarafe, Sevilla
+19, Rodrigo Ely, BRA, D, 1.88, 82, 03-11-93, Lajeado, Nottingham F
+20, Álex Centelles, ESP, D, 1.86, 67, 30-08-99, Valencia, Valencia B
+21, Chumi, ESP, D, 1.84, 75, 02-03-99, Laracha, Barcelona B
+22, Srdjan Babić, SRB, D, 1.92, 85, 22-04-96, Banja Luka, Crvena Zvezda
+23, Daniel Carriço, POR, D, 1.80, 75, 04-08-88, Cascais, Wuhan
+24, Nélson Monte, POR, D, 1.87, 71, 30-07-95, Vila do Conde, Dnipro-1
+26, Arnau Puigmal, ESP, M, 1.73, 65, 10-01-01, Barcelona, Manchester U
+28, Raul Caballero, ESP, F, 1.76, 73, 16-01-01, Martos, Almería B
+29, David Cuenca, ESP, D, 1.80, 69, 05-04-02, Madrid, Real Madrid B
+30, Samú Costa, POR, M, 1.83, 75, 27-11-00, Aveiro, Sporting Braga
+31, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Nottingham F
+32, Largie Ramazani, BEL, F, 1.67, 55, 27-02-01, Sint-Agatha-Berchem, Manchester U
+33, Diego Fuoli, ESP, G, 1.88, 79, 20-10-97, Zaragoza, Sabadell
+34, Carlos Rojas, ESP, M, -, -, 18-04-02, Cuenca, Atlético Madrid B
+35, Aitor Puñal, ESP, D, 1.77, 73, 01-04-99, Torrejón de Ardoz, Sanse
+36, Mamadou Sylla, GUI, M, 1.79, 79, 26-01-03, Barcelona, Aston Villa
+37, Carlos Gilbert, ESP, F, -, -, 16-04-99, Barcelona, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Juan Ibiza, ESP, D, 1.87, 78, 17-08-95, Ibiza, Ibiza
+18, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Rayo Vallecano (On Loan)

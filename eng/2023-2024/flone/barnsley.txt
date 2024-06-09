@@ -1,0 +1,60 @@
+=  Barnsley - English Football League One 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Liam Roberts, ENG, G, 1.83, 82, 24-11-94, Walsall, Middlesbrough
+2, Jordan Williams, ENG, D, 1.79, 75, 22-10-99, Huddersfield, Huddersfield T
+3, Jon Russell, JAM, M, 1.92, 81, 09-10-00, Hounslow, Huddersfield T
+5, Donovan Pines, USA, D, 1.96, 91, 07-03-98, Columbia, MD, DC United
+6, Maël de Gevigney, FRA, D, 1.86, 77, 21-09-99, Poissy, Nîmes
+7, Nicky Cadden, SCO, M, 1.78, 70, 19-09-96, Bellshill, Forest Green R
+8, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Liverpool
+9, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, Birmingham C
+10, Josh Benson, ENG, M, 1.74, 71, 05-12-99, Thurrock, Burnley
+11, Conor Grant, IRL, M, 1.85, 70, 23-07-01, Dublin, MK Dons
+12, Fábio Jaló, POR, M, 1.77, 70, 18-11-05, Lisbon, None
+14, Oli Shaw, SCO, F, 1.88, 72, 12-03-98, Edinburgh, Kilmarnock
+17, Barry Cotter, IRL, D, 1.75, 68, 04-12-98, Limerick, Shamrock R
+18, Joe Ackroyd, ENG, M, 1.74, 68, 06-09-02, Barnsley, None
+19, Aiden Marsh, ENG, F, 1.72, 60, 05-05-03, Barnsley, None
+22, Corey O'Keeffe, IRL, D, 1.84, 70, 05-06-98, Birmingham, Forest Green R
+23, Ben Killip, ENG, G, 1.88, 74, 24-11-95, Isleworth, Hartlepool U
+24, Robbie Cundy, ENG, D, 1.89, 82, 30-05-97, Oxford, Bristol C
+26, Jamie McCart, SCO, D, 1.89, 86, 20-06-97, Bellshill, Rotherham U
+27, Adam Hayton, ENG, G, -, -, 28-04-04, Luton, Tottenham H
+28, Jean Claude Makiessi, ENG, M, -, -, 07-09-04, Newham, None
+30, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Burnley
+31, Paul Cooper, ENG, G, -, -, 22-04-03, -, Matlock T
+32, Harrison Nejman, ENG, M, 1.78, 70, 08-09-03, Halifax, None
+33, Matty Wolfe, ENG, M, 1.85, 74, 12-06-00, Wakefield, None
+34, Daniel Benson, ENG, D, -, -, 15-11-03, -, None
+35, Josiah Dyer, ENG, F, -, -, 24-09-04, Hammesmith, None
+36, Max Watters, ENG, F, 1.86, 80, 23-03-99, Camden, Cardiff C
+37, Nathan James, THA, D, 1.89, 83, 28-09-04, Coventry, Burnley
+38, Theo Chapman, ENG, M, -, -, 31-03-05, Leeds, None
+39, Mylan Benjamin, ENG, F, -, -, 21-09-04, Manchester, Manchester U
+40, Aaron Atkinson, ENG, M, -, -, 15-11-04, -, Oldham Ath
+42, Charlie Hickingbottom, ENG, D, -, -, 06-12-04, Derby, None
+43, Josh Earl, ENG, D, 1.93, 78, 24-10-98, Southport, Fleetwood T
+44, Devante Cole, ENG, F, 1.85, 73, 10-05-95, Alderley Edge, Motherwell
+45, John McAtee, ENG, F, 1.80, 75, 23-07-99, Salford, Luton T
+46, Hayden Pickard, ENG, D, -, -, 23-08-05, Pontefract, None
+47, Emmaisa Nzondo, ENG, F, -, -, 21-01-06, Leeds, None
+48, Luca Connell, IRL, M, 1.78, 69, 20-04-01, Liverpool, Celtic
+50, Kieran Flavell, ENG, G, 1.97, -, 21-09-03, -, None
+60, Rogan Ravenhill, ENG, G, -, -, 25-10-05, Barnsley, None
+63, Vimal Yoganathan, SRI, M, -, -, 13-01-06, -, None
+68, Jonathan Bland, ENG, M, -, -, 24-10-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Liam Kitching, ENG, D, 1.91, 80, 01-10-99, Harrogate, Coventry C
+29, Owen Dodgson, ENG, D, 1.78, 66, 19-03-03, Lancaster, Burnley
+15, Kyran Lofthouse, ENG, D, 1.80, 65, 21-10-00, Oxford, MK Dons (On Loan)
+21, Conor McCarthy, IRL, D, 1.84, 75, 11-04-98, Cork, Swindon T (On Loan)
+16, Andrew Dallas, SCO, F, 1.78, 72, 22-07-99, Glasgow, Oldham Ath (On Loan)
+11, Aaron Leya Iseka, BEL, F, 1.80, 78, 15-11-97, Brussels, OFI
+4, Kacper Łopata, POL, D, 1.88, 80, 27-08-01, Kraków, Port Vale (On Loan)
+20, Callum Styles, HUN, M, 1.67, 60, 27-03-00, Oldham, Sunderland (On Loan)
+41, Jack Shepherd, ENG, D, -, -, -, -, Cheltenham T (On Loan)
+43, Charlie Winfield, ENG, D, 1.69, 58, 08-05-02, Barnsley, 

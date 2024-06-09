@@ -1,0 +1,51 @@
+=  Augsburg - German Bundesliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafał Gikiewicz, POL, G, 1.90, 82, 26-10-87, Olsztyn, Union Berlin
+2, Robert Gumny, POL, D, 1.77, 61, 04-06-98, Poznań, Lech Poznań
+3, Mads Pedersen, DEN, D, 1.78, 71, 01-09-96, Hørsholm, FC Nordsjælland
+4, Reece Oxford, ENG, D, 1.90, 71, 16-12-98, Edmonton, West Ham U
+5, Tobias Strobl, GER, M, 1.86, 72, 12-05-90, Munich, B Mönchengladbach
+6, Jeffrey Gouweleeuw, NED, D, 1.87, 73, 10-07-91, Heemskerk, AZ Alkmaar
+7, Dion Beljo, CRO, F, 1.95, 86, 01-03-02, Zagreb, Osijek
+8, Renato Veiga, POR, M, 1.90, 83, 29-07-03, Lisbon, Sporting CP
+9, Ermedin Demirović, BIH, F, 1.84, 74, 25-03-98, Sarajevo, Freiburg
+10, Arne Maier, GER, M, 1.83, 79, 08-01-99, Ludwigsfelde, Hertha Berlin
+11, Mërgim Berisha, KVX, F, 1.86, 79, 11-05-98, Berchtesgaden, Fenerbahçe
+13, Elvis Rexhbecaj, GER, M, 1.82, 73, 01-11-97, Gjonaj, Wolfsburg
+14, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, Bayer Leverkusen
+16, Ruben Vargas, SUI, M, 1.74, 64, 05-08-98, Adligenswil, Luzern
+17, Noah-Joel Sarenren-Bazee, GER, M, 1.82, 70, 21-08-96, Celle, Hannover 96
+19, Felix Uduokhai, GER, D, 1.92, 78, 09-09-97, Annaberg-Buchholz, Wolfsburg
+20, Daniel Caligiuri, GER, M, 1.82, 79, 15-01-88, Villingen-Schwenningen, Schalke
+22, Iago, BRA, D, 1.81, 68, 23-03-97, Monte Azul Paulista, Internacional
+23, Maximilian Bauer, GER, D, 1.89, 82, 09-02-00, Vilshofen, Greuther Fürth
+24, Fredrik Jensen, FIN, M, 1.83, 80, 09-09-97, Porvoo, FC Twente
+25, Daniel Klein, GER, G, 1.91, 84, 13-03-01, Heidelberg, 1899 Hoffenheim
+27, Arne Engels, BEL, M, 1.85, 78, 08-09-03, Opwijk, Club Brugge
+28, André Hahn, GER, M, 1.85, 75, 13-08-90, Otterndorf, Hamburg
+30, Niklas Dorsch, GER, M, 1.75, 72, 15-01-98, Lichtenfels, KAA Gent
+34, Nathanaël Mbuku, FRA, F, 1.70, 65, 16-03-02, Villeneuve-Saint-Georges, Reims
+38, David Čolina, CRO, D, 1.74, 68, 19-07-00, Zagreb, Hajduk Split
+39, Benjamin Leneis, GER, G, 1.95, 92, 08-03-99, Munich, None
+40, Tomáš Koubek, CZE, G, 1.97, 99, 26-08-92, Hradec Králové, Rennes
+41, Daniel Katić, CRO, D, 1.84, 81, 26-04-03, Tešanj, None
+42, Aaron Zehnter, GER, D, 1.80, 69, 31-10-04, Würzburg, Würzburger Kickers
+43, Mert Kömür, GER, M, 1.84, 72, 17-07-05, Dachau, None
+45, Kelvin Yeboah, GHA, F, 1.82, 73, 06-05-00, Accra, Genoa
+47, Josué Mbila, GER, F, 1.78, 69, 21-08-99, Munich, Unterhaching
+48, Irvin Cardona, FRA, F, 1.85, 76, 08-08-97, Nîmes, Brest
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Lasse Günther, GER, F, 1.83, 75, 21-03-03, Munich, Jahn Regensburg (On Loan)
+31, Felix Götze, GER, D, 1.88, 78, 11-02-98, Memmingen, RW Essen (On Loan)
+18, Ricardo Pepi, USA, F, 1.85, 77, 09-01-03, El Paso, FC Groningen (On Loan)
+37, Maurice Malone, GER, F, 1.84, 86, 17-08-00, Augsburg, Wolfsberger AC (On Loan)
+44, Henri Koudossou, GER, M, 1.80, 76, 03-09-99, Munich, Austria Lustenau (On Loan)
+32, Raphael Framberger, GER, D, 1.79, 73, 06-09-95, Augsburg, Sandhausen (On Loan)
+7, Florian Niederlechner, GER, F, 1.87, 84, 24-10-90, Ebersberg, Hertha Berlin
+8, Carlos Gruezo, ECU, M, 1.71, 67, 19-04-95, Santo Domingo, San Jose Earthquakes
+21, Lukas Petkov, GER, F, 1.83, 75, 01-11-00, Friedberg, Greuther Fürth (On Loan)
+26, Frederik Winther, DEN, D, 1.86, 70, 04-01-01, Gentofte, Brøndby (On Loan)

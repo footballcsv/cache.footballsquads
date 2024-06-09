@@ -1,0 +1,71 @@
+=  Tottenham Hotspur - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Lyon
+2, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Burnley
+3, Danny Rose, ENG, D, 1.74, 76, 02-07-90, Doncaster, Leeds U
+4, Toby Alderweireld, BEL, D, 1.87, 91, 02-03-89, Wilrijk, Atlético Madrid
+5, Jan Vertonghen, BEL, D, 1.89, 88, 24-04-87, Sint-Niklaas, Ajax
+6, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Ajax
+7, Son Heung-Min, KOR, F, 1.83, 77, 08-07-92, Chuncheon, Bayer Leverkusen
+10, Harry Kane, ENG, F, 1.88, 86, 28-07-93, Walthamstow, None
+11, Erik Lamela, ARG, M, 1.81, 80, 25-03-92, Florida, Roma
+12, Victor Wanyama, KEN, M, 1.84, 87, 25-06-91, Nairobi, Southampton
+13, Michel Vorm, NED, G, 1.84, 84, 20-10-83, Nieuwegein, Swansea C
+15, Eric Dier, ENG, M, 1.88, 90, 15-01-94, Cheltenham, Sporting CP
+17, Moussa Sissoko, FRA, M, 1.87, 91, 16-08-89, Le Blanc Mesnil, Newcastle U
+18, Fernando Llorente, ESP, F, 1.93, 88, 26-02-85, Pamplona, Swansea C
+19, Mousa Dembélé, BEL, M, 1.85, 88, 17-07-87, Wilrijk, Fulham
+20, Dele Alli, ENG, M, 1.88, 80, 11-04-96, Milton Keynes, MK Dons
+21, Juan Foyth, ARG, D, 1.79, 69, 12-01-98, La Plata, Estudiantes (LP)
+22, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Southampton
+23, Christian Eriksen, DEN, M, 1.82, 76, 14-02-92, Middelfart, Ajax
+24, Serge Aurier, CIV, D, 1.75, 75, 24-12-92, Abidjan, Paris St-Germain
+27, Lucas, BRA, M, 1.72, 66, 13-08-92, São Paulo, Paris St-Germain
+29, Harry Winks, ENG, M, 1.76, 74, 02-02-96, Hemel Hempstead, None
+33, Ben Davies, WAL, D, 1.82, 76, 24-04-93, Neath, Swansea C
+37, Kyle Walker-Peters, ENG, D, 1.73, 62, 13-04-97, Edmonton, None
+41, Alfie Whiteman, ENG, G, 1.90, 77, 02-10-98, Tottenham, None
+42, Anthony Georgiou, ENG, D, 1.79, 73, 24-02-97, Lewisham, None
+45, Jaden Brown, ENG, D, 1.75, 72, 24-01-99, Lewisham, None
+46, Tashan Oakley-Boothe, ENG, M, 1.78, 70, 14-02-00, Lambeth, None
+48, Jonathan Dinzeyi, ENG, D, 1.83, 83, 13-10-99, Islington, None
+49, Brandon Austin, USA, G, 1.88, 82, 08-01-99, Hemel Hempstead, None
+50, Joe Pritchard, ENG, M, 1.74, 66, 10-09-96, Watford, None
+52, Christian Maghoma, ENG, D, 1.85, 70, 08-11-97, Lubumbashi, None
+53, George Marsh, ENG, M, 1.78, 68, 05-11-98, Pembury, None
+54, Kazaiah Sterling, ENG, F, 1.75, 71, 09-11-98, Enfield, None
+55, Shilow Tracey, ENG, M, 1.79, 76, 29-04-98, Newham, Ebbsfleet U
+56, Keanan Bennetts, ENG, M, 1.83, 73, 09-03-99, Hendon, None
+57, Dylan Duncan, ENG, M, 1.78, 73, 25-01-99, Newham, None
+58, Jack Roles, CYP, M, 1.76, 66, 26-02-99, Enfield, None
+59, Samuel Shashoua, ENG, M, 1.76, 66, 13-05-99, Westminster, None
+60, Japhet Tanganga, ENG, D, 1.84, 73, 31-03-99, Hackney, None
+61, Nicholas Tsaroulla, CYP, D, 1.78, 70, 29-03-99, Bristol, None
+62, Charlie Freeman, ENG, G, 1.95, 82, 28-09-99, Goodmayes, None
+63, Jamie Reynolds, ENG, M, 1.83, 64, 22-09-99, Westminster, None
+64, Jonathan De Bie, BEL, G, 1.96, 91, 25-05-00, Uccle, Mechelen
+65, Timothy Eyoma, ENG, D, 1.83, 76, 29-01-00, Hackney, None
+66, Reo Griffiths, ENG, F, 1.80, 76, 27-06-00, Islington, None
+67, Tariq Hinds, ENG, D, 1.81, 70, 15-06-00, Redbridge, None
+68, Matthew Lock, ENG, D, , , 01-04-00, Lambeth, None
+70, Moroyin Omolabi, ENG, D, , , 09-01-00, Walthamstow, None
+71, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, None
+72, Luke O'Reilly, ENG, G, 1.82, 74, 27-05-96, Hackney, Cardiff C
+73, Paris Maghoma, ENG, M, 1.81, 70, 08-05-01, Enfield, None
+74, Brooklyn Lyons-Foster, ENG, D, 1.81, 70, 01-12-00, Archway, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Joshua Onomah, ENG, M, 1.85, 83, 27-04-97, Enfield, Aston Villa (On Loan)
+27, Kevin Wimmer, AUT, D, 1.87, 92, 15-11-92, Wels, Stoke C
+47, Will Miller, ENG, M, 1.68, 64, 08-06-96, Hackney, Burton Alb
+9, Vincent Janssen, NED, F, 1.83, 88, 15-06-94, Heesch, Fenerbahçe (On Loan)
+14, Georges-Kevin Nkoudou, FRA, M, 1.75, 73, 13-02-95, Versailles, Burnley (On Loan)
+44, Marcus Edwards, ENG, M, 1.76, 61, 03-12-98, Camden Town, Norwich C (On Loan)
+38, Cameron Carter-Vickers, USA, D, 1.83, 92, 31-12-97, Southend-on-Sea, Ipswich T (On Loan)
+51, Ryan Loft, ENG, F, 1.90, 73, 14-09-97, Gravesend, Exeter C (On Loan)
+40, Luke Amos, ENG, M, 1.79, 70, 23-02-97, Hatfield, Stevenage (On Loan)
+43, Anton Walkes, ENG, M, 1.87, 72, 08-02-97, Lewisham, Portsmouth (On Loan)
+39, Shayon Harrison, ENG, F, 1.83, 68, 13-07-97, Hornsey, Southend U (On Loan)

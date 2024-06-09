@@ -1,0 +1,69 @@
+=  West Ham United - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Fabiański, POL, G, 1.90, 83, 18-04-85, Kostrzyn nad Odrą, Swansea C
+2, Winston Reid, NZL, D, 1.90, 87, 03-07-88, Auckland, FC Midtjylland
+3, Aaron Cresswell, ENG, D, 1.70, 66, 15-12-89, Liverpool, Ipswich T
+4, Fabián Balbuena, PAR, D, 1.88, 82, 23-08-91, Ciudad del Este, Corinthians
+5, Pablo Zabaleta, ARG, D, 1.76, 74, 16-01-85, Capital Federal, Manchester C
+7, Marko Arnautović, AUT, F, 1.93, 83, 19-04-89, Vienna, Stoke C
+8, Felipe Anderson, BRA, M, 1.75, 70, 15-04-93, Brasília, Lazio
+9, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, Liverpool
+10, Manuel Lanzini, ARG, M, 1.67, 59, 15-02-93, Ituzaingó, Al-Jazira
+11, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, Hull C
+13, Adrián, ESP, G, 1.90, 80, 03-01-87, Seville, Betis
+14, Pedro Obiang, EQG, M, 1.85, 73, 27-03-92, Alcalà de Henares, Sampdoria
+15, Carlos Sánchez, COL, M, 1.82, 82, 06-02-86, Quibdó, Fiorentina
+16, Mark Noble, ENG, M, 1.80, 70, 08-05-87, West Ham, None
+17, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, Bayer Leverkusen
+18, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Antalyaspor
+19, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, Arsenal
+20, Andriy Yarmolenko, UKR, F, 1.87, 76, 23-10-89, Kyiv, Borussia Dortmund
+21, Angelo Ogbonna, ITA, D, 1.91, 86, 23-05-88, Cassino, Juventus
+23, Issa Diop, FRA, D, 1.93, 84, 09-01-97, Toulouse, Toulouse
+24, Ryan Fredericks, ENG, D, 1.73, 72, 10-10-92, Potters Bar, Fulham
+26, Arthur Masuaku, COD, D, 1.79, 70, 07-11-93, Lille, Olympiakos
+27, Lucas, ESP, F, 1.80, 82, 10-09-88, La Coruña, Arsenal
+30, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, Wandsworth, Nottingham F
+32, Xande Silva, POR, F, 1.77, 60, 16-03-97, Lisbon, Vitória Guimarães
+34, Nathan Trott, ENG, G, 1.84, 70, 21-11-98, , None
+37, Nathan Holland, ENG, M, 1.78, 70, 19-06-98, Wythenshawe, Everton
+39, Josh Pask, ENG, D, 1.87, 76, 01-11-97, Waltham Forest, None
+40, Oladapo Afolayan, ENG, F, 1.82, 73, 11-09-97, Westminster, Solihull Moors
+41, Declan Rice, ENG, M, 1.85, 80, 14-01-99, Kingston upon Thames, None
+44, Vashon Neufville, ENG, D, 1.72, 67, 18-07-99, Islington, None
+45, Grady Diangana, ENG, F, 1.80, 73, 19-04-98, Lubumbashi, None
+47, Jahmal Hector-Ingram, ENG, F, 1.83, 75, 11-11-98, Upton Park, None
+48, Dan Kemp, ENG, M, 1.68, 63, 11-01-99, Sidcup, Chelsea
+49, Joseph Anang, ENG, G, 1.83, 72, 08-06-00, , Wa All Stars
+51, Anthony Scully, IRL, M, 1.69, 66, 03-12-99, Watford, None
+52, Tunji Akinola, ENG, D, 1.87, 73, 21-11-98, , None
+53, Ben Johnson, ENG, D, 1.75, 67, 24-01-00, Waltham Forest, None
+54, Conor Coventry, IRL, M, 1.75, 65, 20-03-00, Waltham Forest, None
+55, Alfie Lewis, ENG, M, 1.69, 64, 28-09-99, Redbridge, None
+56, Ajibola Alese, ENG, D, 1.92, 78, 17-01-01, Islington, None
+57, Bernardo Rosa, BRA, M, 1.77, 74, 20-09-00, Rio de Janeiro, None
+58, Jay Mingi, ENG, M, 1.75, 66, 22-10-00, Hackney, None
+59, Mason Barrett, ENG, D, 1.90, 79, 24-09-99, Redbridge, None
+60, Emmanuel Longelo, ENG, D, 1.84, 70, 27-12-00, Barking, None
+61, Jeremy Ngakia, ENG, D, 1.84, 71, 07-09-00, Lewisham, None
+62, Kristijan Belić, SRB, M, 1.77, 68, 25-03-01, Sint-Truiden, OFK Belgrade
+63, Daniel Jinadu, ENG, G, 1.86, 69, 21-06-02, , Chelsea
+64, Sean Adarkwa, ENG, F, 1.80, 74, 11-10-00, Hackney, None
+65, Veron Parkes, ENG, F, 1.84, 68, 28-09-01, Camden, Crystal Palace
+66, Peter Stroud, USA, M, 1.81, 68, 23-04-02, Chester, NJ, New York Red Bulls
+67, Sebastian Nebyla, SVK, M, 1.83, 74, 25-01-02, Gütersloh, Spartak Trnava
+68, Odysseas Spyrides, CYP, F, 1.80, 69, 17-01-01, , None
+69, Joshua Okotcha, ENG, D, 1.89, 78, 29-12-01, Westminster, None
+70, Reece Hannam, ENG, D, 1.86, 74, 19-09-00, Enfield, None
+71, Daniel Chesters, ENG, F, 1.79, 65, 04-04-02, Hitchin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Edimilson Fernandes, SUI, M, 1.90, 70, 15-04-96, Sion, Fiorentina (On Loan)
+33, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, Charlton Ath (On Loan)
+46, Moses Makasi, ENG, M, 1.80, 72, 22-09-95, Lewisham, Stevenage (On Loan)
+29, Toni Martínez, ESP, F, 1.80, 70, 30-06-97, Barrio del Progreso, Lugo (On Loan)
+50, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, Northampton T (On Loan)
+35, Reece Oxford, ENG, D, 1.90, 71, 16-12-98, Edmonton, Augsburg (On Loan)

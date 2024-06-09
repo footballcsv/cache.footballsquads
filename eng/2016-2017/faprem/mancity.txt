@@ -1,0 +1,78 @@
+=  Manchester City - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Claudio Bravo, CHI, G, 1.84, 80, 13-04-83, Viluco, Barcelona
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Arsenal
+4, Vincent Kompany, BEL, D, 1.93, 85, 10-04-86, Ukkel, Hamburg
+5, Pablo Zabaleta, ARG, D, 1.76, 74, 16-01-85, Capital Federal, Espanyol
+6, Fernando, BRA, M, 1.83, 76, 25-07-87, Alto Paraíso de Goiás, FC Porto
+7, Raheem Sterling, ENG, M, 1.70, 69, 08-12-94, Kingston, Liverpool
+8, İlkay Gündoğan, GER, M, 1.80, 80, 24-10-90, Gelsenkirchen, Borussia Dortmund
+9, Nolito, ESP, F, 1.75, 65, 15-10-86, Sanlúcar de Barrameda, Celta Vigo
+10, Sergio Agüero, ARG, F, 1.73, 70, 02-06-88, Capital Federal, Atlético Madrid
+11, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Lazio
+13, Wilfredo Caballero, ARG, G, 1.86, 80, 28-09-81, Salta Elena, Málaga
+15, Jesús Navas, ESP, M, 1.70, 60, 21-11-85, Los Palacios, Sevilla
+17, Kevin De Bruyne, BEL, M, 1.81, 68, 28-06-91, Drongen, Wolfsburg
+18, Fabian Delph, ENG, M, 1.74, 60, 21-11-89, Bradford, Aston Villa
+19, Leroy Sané, GER, M, 1.83, 75, 11-01-96, Essen, Schalke
+21, David Silva, ESP, M, 1.73, 67, 08-01-86, Arguineguín, Valencia
+22, Gaël Clichy, FRA, D, 1.76, 65, 26-07-85, Toulouse, Arsenal
+24, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Everton
+25, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Shakhtar Donetsk
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Valencia
+33, Gabriel Jesus, BRA, F, 1.75, 73, 03-04-97, São Paulo, Palmeiras
+42, Yaya Touré, CIV, M, 1.88, 90, 13-05-83, Sokoura Bouaké, Barcelona
+49, Denzeil Boadu, ENG, F, 1.80, 70, 20-02-97, Islington, Arsenal
+53, Tosin Adarabioyo, ENG, D, 1.96, 80, 24-09-97, Manchester, None
+54, Angus Gunn, ENG, G, 1.96, 77, 22-01-96, Bolton, Norwich C
+55, Brahim Díaz, ESP, M, 1.70, 68, 03-08-99, Málaga, Málaga
+57, Aaron Nemane, FRA, M, 1.70, 62, 26-09-97, Amiens, Amiens
+58, Charlie Oliver, ENG, D, 1.85, 72, 17-11-97, Trafford, None
+60, Kjetil Haug, NOR, G, 1.90, 80, 12-06-98, Halden, Sarpsborg 08
+63, Sinan Bytyqi, AUT, M, 1.85, 82, 15-01-95, Prizren, Admira Wacker Mödling
+65, Lukas Nmecha, GER, F, 1.85, 80, 12-12-98, Hamburg, None
+67, Paolo Fernandes, ESP, M, 1.73, 71, 19-08-98, Zaragoza, Zaragoza
+68, Thierry Ambrose, FRA, F, 1.78, 70, 28-03-97, Sens, Auxerre
+70, Isaac Buckley-Ricketts, ENG, M, 1.78, 68, 14-03-98, Manchester, None
+71, Erik Sarmiento, ESP, D, , , 17-07-98, Manresa, Espanyol
+72, Kelechi Iheanacho, NGA, F, 1.87, 77, 03-10-96, Owerri, None
+74, Ellis Plummer, ENG, D, 1.81, 70, 02-09-94, Audenshaw, None
+75, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Villarreal B
+76, Manu García, ESP, M, 1.70, 65, 02-01-98, Oviedo, Sporting Gijón
+77, Cameron Humphreys, ENG, D, 1.87, 80, 22-08-98, Manchester, None
+78, Rodney Kongolo, NED, M, 1.87, 78, 09-01-98, Rotterdam, Feyenoord
+79, Daniel Grimshaw, ENG, G, 1.85, 77, 16-01-98, Manchester, None
+80, Phil Foden, ENG, M, 1.71, 70, 28-05-00, Stockport, None
+81, Demeaco Duhaney, ENG, D, 1.80, 70, 13-10-98, Manchester, None
+82, Jacob Davenport, ENG, M, 1.77, 69, 28-12-98, Manchester, None
+83, Marcus Wood, ENG, M, , , 12-02-98, Sale, None
+84, Sadou Diallo, ENG, M, 1.80, 72, 10-06-99, , Rotherham U
+85, Will Patching, ENG, M, 1.85, 70, 18-10-98, Manchester, None
+86, Ash Kigbu, ENG, D, 1.81, 75, 05-02-99, Manchester, None
+87, Javairô Dilrosun, NED, M, 1.75, 67, 22-06-98, Amsterdam, Ajax
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+73, George Glendon, ENG, M, 1.77, 70, 03-05-95, Manchester, Fleetwood T
+56, Ashley Smith-Brown, ENG, D, 1.77, 68, 31-03-96, Manchester, NAC Breda (On Loan)
+62, Brandon Barker, ENG, M, 1.75, 68, 04-10-96, Manchester, NAC Breda (On Loan)
+59, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, FC Twente (On Loan)
+35, Oleksandr Zinchenko, UKR, M, 1.75, 61, 15-12-96, Illichivsk, PSV Eindhoven (On Loan)
+1, Joe Hart, ENG, G, 1.96, 91, 19-04-87, Shrewsbury, Torino (On Loan)
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Sevilla (On Loan)
+14, Wilfried Bony, CIV, F, 1.82, 88, 10-12-88, Bingerville, Stoke C (On Loan)
+20, Eliaquim Mangala, FRA, D, 1.87, 74, 13-02-91, Colombes, Valencia (On Loan)
+28, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Sunderland (On Loan)
+46, Shay Facey, ENG, D, 1.77, 64, 07-01-94, Manchester, SC Heerenveen (On Loan)
+52, Kean Bryan, ENG, M, 1.82, 72, 01-11-96, Manchester, Bury (On Loan)
+50, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Girona (On Loan)
+45, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Doncaster R
+61, James Horsfield, ENG, M, 1.78, 70, 30-11-95, Hazel Grove, NAC Breda (On Loan)
+36, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, Verona (On Loan)
+64, Billy O'Brien, WAL, G, 1.86, 80, 21-11-95, Bury, St Mirren (On Loan)
+47, Jack Byrne, IRL, M, 1.76, 73, 24-04-96, Dublin, Wigan Ath
+51, David Faupala, FRA, F, 1.83, 72, 11-02-97, Bully les Mines, Chesterfield (On Loan)
+66, Zackarias Faour, SWE, F, 1.85, 77, 30-01-98, Malmö, FC Nordsjælland (On Loan)
+69, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, Mallorca (On Loan)

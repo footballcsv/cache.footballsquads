@@ -1,0 +1,43 @@
+=  Sampdoria - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emil Audero, ITA, G, 1.92, 83, 18-01-97, Mataram, Juventus
+2, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Santos
+3, Tommaso Augello, ITA, D, 1.80, 70, 30-08-94, Milan, Spezia
+5, Adrien Silva, POR, M, 1.75, 75, 15-03-89, Angoulême, Leicester C
+6, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Hamburg
+8, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Pescara
+9, Ernesto Torregrossa, ITA, F, 1.84, 86, 28-06-92, Caltanissetta, Brescia
+10, Keita Baldé, SEN, F, 1.81, 77, 08-03-95, Arbúcies, Monaco
+11, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Middlesbrough
+14, Jakub Jankto, CZE, M, 1.84, 73, 19-01-96, Prague, Udinese
+15, Omar Colley, GAM, D, 1.91, 87, 24-10-92, Lamin, KRC Genk
+16, Kristoffer Askildsen, NOR, M, 1.90, 77, 09-01-01, Oslo, Stabæk
+18, Morten Thorsby, NOR, M, 1.89, 79, 05-05-96, Oslo, SC Heerenveen
+19, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, Cesena
+20, Antonino La Gumina, ITA, F, 1.82, 72, 06-03-96, Palermo, Empoli
+21, Lorenzo Tonelli, ITA, D, 1.83, 75, 17-01-90, Florence, Napoli
+22, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, Southampton
+23, Manolo Gabbiadini, ITA, F, 1.86, 75, 26-11-91, Calcinate, Southampton
+24, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Legia Warszawa
+25, Alex Ferrari, ITA, D, 1.91, 80, 01-07-94, Modena, Bologna
+26, Mehdi Léris, FRA, M, 1.86, 74, 23-05-98, Mont-de-Marsan, Chievo Verona
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Torino
+30, Nicola Ravaglia, ITA, G, 1.84, 78, 12-12-88, Forlì, Cremonese
+34, Karlo Letica, CRO, G, 2.01, 90, 11-02-97, Split, Club Brugge
+35, Lorenzo Avogadri, ITA, G, 1.90, 80, 21-08-01, Bergamo, Atalanta
+38, Mikkel Damsgaard, DEN, M, 1.80, 71, 03-07-00, Roskilde, FC Nordsjælland
+87, Antonio Candreva, ITA, F, 1.80, 70, 28-02-87, Rome, Internazionale
+99, Nik Prelec, SVN, F, 1.86, 80, 10-06-01, Maribor, Aluminij
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Mohamed Bahlouli, FRA, M, 1.73, 72, 17-02-00, Lyon, Cosenza (On Loan)
+5, Julian Chabot, GER, D, 1.95, 85, 12-02-98, Hanau, Spezia (On Loan)
+72, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Salernitana
+28, Leonardo Capezzi, ITA, M, 1.78, 72, 28-03-95, Figline Valdarno, Salernitana
+4, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Verona (On Loan)
+9, Federico Bonazzoli, ITA, F, 1.82, 79, 21-05-97, Manerbio, Torino (On Loan)
+33, Antonio Palumbo, ITA, M, 1.82, 73, 06-08-96, Naples, Ternana (On Loan)
+12, Fabio Depaoli, ITA, D, 1.82, 71, 24-04-97, Riva del Garda, Benevento (On Loan)

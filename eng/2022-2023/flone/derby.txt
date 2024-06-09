@@ -1,0 +1,43 @@
+=  Derby County - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Wildsmith, ENG, G, 1.89, 77, 28-12-95, Sheffield, Sheffield W
+3, Craig Forsyth, SCO, D, 1.91, 81, 24-02-89, Carnoustie, Watford
+4, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Aston Villa
+5, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, Stoke C
+6, Eiran Cashin, IRL, D, 1.87, 73, 09-11-01, Mansfield, None
+7, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, Preston NE
+8, Max Bird, ENG, M, 1.83, 68, 18-09-00, Burton-upon-Trent, None
+9, James Collins, IRL, F, 1.88, 86, 01-12-90, Coventry, Cardiff C
+10, David McGoldrick, IRL, F, 1.85, 75, 29-11-87, Nottingham, Sheffield U
+11, Nathaniel Mendez-Laing, ENG, F, 1.78, 75, 15-04-92, Birmingham, Sheffield W
+12, Korey Smith, ENG, M, 1.83, 78, 31-01-91, Hatfield, Swansea C
+15, Haydon Roberts, ENG, D, 1.75, 68, 10-05-02, Brighton, Brighton & HA
+17, Louie Sibley, ENG, M, 1.80, 74, 01-09-01, Birmingham, None
+18, Lewis Dobbin, ENG, F, -, -, 03-01-03, Stoke-on-Trent, Everton
+19, Richard Stearman, ENG, D, 1.88, 67, 19-08-87, Wolverhampton, Huddersfield T
+21, Scott Loach, ENG, G, 1.85, 83, 27-05-88, Nottingham, Chesterfield
+22, Tony Springett, IRL, M, 1.74, 72, 22-09-02, Lewisham, Norwich C
+23, Harvey White, ENG, M, 1.71, 60, 19-09-01, Maidstone, Tottenham H
+26, Darren Robinson, NIR, M, 1.80, 66, 29-12-04, Portadown, Dungannon Swifts
+28, Osazee Aghatise, GER, M, 1.80, 63, 12-11-02, -, Stoke C
+29, Bartosz Cybulski, POL, F, -, -, 15-10-02, -, None
+30, Kwaku Oduroh, GHA, D, -, -, 16-10-02, Manchester, Manchester C
+32, Luke McGee, ENG, G, 1.88, 80, 02-09-95, Edgware, Forest Green R
+33, Curtis Davies, ENG, D, 1.88, 76, 15-03-85, Waltham Forest, Hull C
+34, Jake Rooney, ENG, D, 1.91, 78, 22-08-03, Liverpool, Burnley
+35, Max Bardell, ENG, D, -, -, 14-11-02, Huddersfield, Manchester C
+36, Harry Hawkins, ENG, M, -, -, -, -, None
+37, Lennon Wheeldon, ENG, F, -, -, -, -, Notts Co
+38, Jason Knight, IRL, M, 1.73, 63, 13-02-01, Dublin, None
+40, Harrison Foulkes, ENG, G, -, -, 03-04-01, Eastbourne, Hull C
+41, Dajaune Brown, ENG, F, -, -, 16-10-05, Nottingham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Joe Haigh, ENG, M, -, -, 16-03-03, Tooting, Chelsea
+23, William Osula, DEN, F, -, -, 04-08-03, -, Sheffield U
+27, Jack Stretton, SCO, F, 1.83, 74, 06-09-01, Burton upon Trent, Stockport Co
+32, Joseph Anang, ENG, G, 1.83, 72, 08-06-00, -, West Ham U
+16, Liam Thompson, ENG, M, 1.73, 68, 29-04-02, Nottingham, Scunthorpe U (On Loan)

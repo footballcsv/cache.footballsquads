@@ -1,0 +1,48 @@
+=  Hatayspor - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Erce Kardeşler, TUR, G, 1.86, 75, 14-03-94, Çanakkale, Trabzonspor
+2, Kamil Ahmet Çörekçi, TUR, D, 1.73, 73, 01-02-92, London, Trabzonspor
+3, Guy Kilama, CMR, D, 1.80, 73, 30-05-99, Douala, Niort
+4, Massanga Matondo, CGO, M, 1.72, 78, 17-08-99, Pointe-Noire, Partizani Tirana
+5, Görkem Sağlam, TUR, M, 1.75, 66, 11-04-98, Gelsenkirchen, Giresunspor
+6, Abdulkadir Parmak, TUR, M, 1.76, 66, 28-12-94, Trabzon, Sivasspor
+7, Ömer Faruk Beyaz, TUR, M, 1.71, 60, 29-08-03, İstanbul, Stuttgart
+8, Mehdi Boudjemaa, FRA, M, 1.81, 70, 07-04-98, Cergy, Guingamp
+9, Renat Dadashov, AZE, F, 1.86, 81, 17-05-99, Rüdesheim am Rhein, Grasshoppers
+10, Carlos Strandberg, SWE, F, 1.87, 90, 14-04-96, Gothenburg, Al-Sailiya
+11, Halil Dervişoğlu, TUR, F, 1.83, 75, 08-12-99, Rotterdam, Galatasaray
+12, Visar Bekaj, KVX, G, 1.91, 82, 24-05-97, Pristina, KF Tirana
+13, Faouzi Ghoulam, ALG, D, 1.88, 80, 01-02-91, Saint-Priest-en-Jarez, Angers
+14, Rui Pedro, POR, F, 1.82, 75, 20-03-98, Castelo de Paiva, Olimpija Ljubljana
+15, Recep Burak Yılmaz, TUR, D, 1.85, 75, 27-11-95, İstanbul, Samsunspor
+17, Fisayo Dele-Bashiru, ENG, M, 1.76, 70, 06-02-01, Hamburg, Sheffield W
+18, Armin Hodžić, BIH, M, 1.88, 75, 29-02-00, Tuzla, Željezničar
+19, Nikola Maksimović, SRB, D, 1.93, 82, 25-11-91, Bajina Bašta, Genoa
+20, Rayane Aabid, FRA, M, 1.78, 71, 19-01-92, Villeneuve-d’Ascq, Kasımpaşa
+22, Kerim Alıcı, TUR, D, 1.83, 77, 24-06-97, Bornova, Göztepe
+25, Ali Yıldız, TUR, M, -, -, 12-03-07, Hatay, None
+27, Cengiz Demir, TUR, D, 1.86, 78, 18-04-01, Gaziantep, Antalyaspor
+29, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Gil Vicente
+31, Oğuzhan Matur, TUR, D, 1.73, 68, 19-08-99, Berlin, Zonguldak Kömürspor
+34, Demir Sarıcalı, TUR, G, 1.95, 83, 01-01-05, Maltepe, Fenerbahçe
+57, Engin Can Aksoy, TUR, D, -, -, 14-11-03, İstanbul, None
+70, Doğukan Sinik, TUR, M, 1.75, 66, 21-01-99, Antalya, Hull C
+77, Joelson Fernandes, POR, F, 1.72, 65, 28-02-03, Bissau, Sporting CP
+78, Emir Dadük, TUR, G, 1.91, 80, 13-02-08, Hatay, None
+88, Cemali Sertel, TUR, D, 1.86, 78, 06-01-00, Samandağ, İstanbul Başakşehir
+99, Rigoberto Rivas, HON, F, 1.78, 70, 31-07-98, Balfate, Reggina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Yavuz Buğra Boyar, TUR, G, -, -, 10-08-98, Erdemli, Yeni Mersin İdmanyurdu (On Loan)
+53, Burak Öksüz, TUR, D, 1.85, 81, 25-01-96, Rize, Kocaelispor
+99, Bertuğ Özgür Yıldırım, TUR, F, 1.86, 78, 12-07-02, İstanbul, Rennes
+24, Ünal Durmuşhan, TUR, F, -, -, 20-10-03, Berlin, Belediye Derincespor (On Loan)
+6, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Gençlerbirliği
+26, Onur Arı, TUR, F, 1.95, 84, 04-03-01, Eskişehir, Yeni Mersin İdmanyurdu (On Loan)
+86, Burak Bekaroğlu, TUR, D, 1.85, 85, 16-04-97, Sakarya, Iğdır
+11, Didier Lamkel Zé, CMR, M, 1.93, 79, 17-09-96, Bertoua, Metz (On Loan)
+98, Arel Ekinci, TUR, G, 1.88, 80, 11-07-04, Berlin, Kirikkalegücü (On Loan)
+28, İbrahim Demir, TUR, F, -, -, 01-07-05, Uşak, Yeni Mersin İdmanyurdu (On Loan)

@@ -1,0 +1,33 @@
+=  Ajaccio - French Ligue 2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Leroy, FRA, G, 1.83, 68, 07-04-89, Cucq, Dijon
+2, Gédéon Kalulu, FRA, D, 1.79, 74, 29-08-97, Lyon, Lyon
+3, Ismaël Diallo, CIV, D, 1.78, 74, 29-01-97, Abidjan, Bastia
+4, Mickaël Barreto, FRA, M, 1.74, 63, 18-01-91, Paris, Auxerre
+5, Riad Nouri, FRA, M, 1.78, 73, 07-06-85, Marseille, Ümraniyespor
+6, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, Laval
+7, Mounaïm El Idrissy, FRA, F, 1.81, 75, 10-02-99, Martigues, None
+8, Vincent Marchetti, FRA, M, 1.81, 69, 04-07-97, Ajaccio, Nancy
+9, Gaëtan Courtet, FRA, F, 1.80, 72, 22-02-89, Lorient, Lorient
+10, Qazim Laçi, ALB, M, 1.79, 69, 19-01-96, Peshkopi, Olympiakos
+11, Bevic Moussiti-Oko, CGO, F, 1.84, 89, 28-01-95, Brazzaville, Le Mans
+12, Taïryk Arconte, FRA, F, 1.81, 76, 12-11-03, Les Abymes, None
+14, Cyrille Bayala, BFA, F, 1.81, 68, 24-05-96, Ouagadougou, Lens
+15, Clément Vidal, FRA, D, 1.81, 75, 18-06-00, Montpellier, Montpellier
+16, François-Joseph Sollacaro, FRA, G, 1.78, 75, 21-03-94, Ajaccio, None
+17, Jean-Philippe Krasso, FRA, F, 1.87, 80, 17-07-97, Stuttgart, St-Etienne
+18, Kouamé Botué, BFA, M, 1.84, 74, 07-08-02, Abidjan, US des Forces Armées
+19, Alassane N'Diaye, FRA, M, 1.79, 68, 14-06-91, Limoges, Clermont
+20, Mohamed Youssouf, COM, M, 1.68, 64, 26-03-88, Paris, Levadiakos
+21, Cédric Avinel, FRA, D, 1.87, 84, 11-09-86, Paris, Clermont
+22, Yanis Cimignani, FRA, M, 1.76, 68, 22-01-02, Lyon, None
+24, Chaker Alhadhur, COM, D, 1.71, 56, 04-12-91, Nantes, Châteauroux
+25, Oumar Gonzalez, FRA, D, 1.86, 84, 25-02-98, Douala, Chambly
+29, Florian Chabrolle, FRA, F, 1.75, 65, 07-04-98, Montmorency, Marseille
+40, Ghjuvanni Quilichini, FRA, G, 1.82, 70, 01-09-02, Ajaccio, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Matthieu Huard, FRA, D, 1.77, 71, 09-05-98, Neuilly-sur-Seine, Brescia

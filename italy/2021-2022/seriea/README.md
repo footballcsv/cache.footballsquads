@@ -1,0 +1,23 @@
+# Italian Serie A 2021/2022
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Roma](roma.txt)
+- [Salernitana](salern.txt)
+- [Sampdoria](sampdor.txt)
+- [Sassuolo](sassuolo.txt)
+- [Spezia](spezia.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Venezia](venezia.txt)
+- [Verona](verona.txt)

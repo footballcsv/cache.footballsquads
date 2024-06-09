@@ -1,0 +1,45 @@
+=  Anderlecht - Belgian Eerste Klasse A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Lisandro Magallán, ARG, D, 1.82, 79, 27-09-93, La Plata, Ajax
+3, Hannes Delcroix, BEL, D, 1.85, 75, 28-02-99, Grande Hatte, None
+4, Wesley Hoedt, NED, D, 1.88, 80, 06-03-94, Alkmaar, Southampton
+7, Francis Amuzu, BEL, F, 1.70, 65, 23-08-99, Accra, None
+8, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, West Ham U
+9, Benito Raman, BEL, F, 1.72, 67, 07-11-94, Gent, Schalke
+11, Lior Refaelov, ISR, M, 1.76, 66, 27-04-86, Or Akiva, Royal Antwerp
+14, Bohdan Mykhaylychenko, UKR, M, 1.75, 70, 21-03-97, Boryspil, Zorya Luhansk
+16, Bart Verbruggen, NED, G, 1.93, 75, 18-08-02, Breda, NAC Breda
+17, Sergio Gómez, ESP, M, 1.71, 65, 04-09-00, Badalona, Borussia Dortmund
+18, Majeed Ashimeru, GHA, M, 1.82, 72, 10-10-97, Accra, Red Bull Salzburg
+20, Kristoffer Olsson, SWE, M, 1.78, 70, 30-06-95, Vrinnevi, FC Krasnodar
+23, Joshua Zirkzee, NED, F, 1.93, 84, 22-05-01, Schiedam, Bayern Munich
+26, Colin Coosemans, BEL, G, 1.85, 81, 03-08-92, Gent, KAA Gent
+27, Noah Sadiki, BEL, M, 1.83, 74, 17-12-04, Brussels, None
+30, Hendrik van Crombrugge, BEL, G, 1.88, 86, 30-04-93, Leuven, Eupen
+46, Anouar Ait El Hadj, BEL, M, 1.67, 65, 20-04-02, Molenbeek, None
+47, Lucas Lissens, BEL, D, 1.83, 74, 25-07-01, Sint-Martens-Lennik, None
+51, Yari Verschaeren, BEL, M, 1.72, 63, 12-07-01, Antwerp, None
+52, Mario Stroeykens, BEL, M, 1.77, 79, 29-09-04, -, None
+53, Antoine Colassin, BEL, F, 1.88, 73, 26-02-01, Charleroi, Charleroi
+54, Killian Sardella, BEL, D, 1.77, 64, 02-05-02, -, None
+55, Marco Kana, BEL, D, 1.78, 62, 08-08-02, Kinshasa, None
+56, Zeno Debast, BEL, D, 1.91, 76, 24-10-03, Halle, None
+61, Kristian Arnstad, NOR, M, 1.71, 69, 07-09-03, Oslo, Stabæk
+62, Michael Murillo, PAN, D, 1.83, 75, 11-02-96, Ciudad de Panamá, New York Red Bulls
+70, Rik Vercauteren, BEL, G, 1.84, 74, 08-06-01, Beveren, Waasland-Beveren
+99, Cristian Kouamé, CIV, F, 1.85, 70, 06-12-97, Bingerville, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Michel Vlap, NED, M, 1.90, 69, 02-06-97, Sneek, FC Twente (On Loan)
+5, Yevhen Makarenko, UKR, M, 1.82, 73, 21-05-91, Kyiv, MOL Fehérvár
+1, Timon Wellenreuther, GER, G, 1.86, 80, 03-12-95, Karlsruhe, Willem II (On Loan)
+22, Elias Cobbaut, BEL, D, 1.88, 78, 24-11-97, Mechelen, Parma (On Loan)
+19, Mustapha Bundu, SLE, F, 1.88, 79, 28-02-97, Freetown, Aarhus (On Loan)
+38, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Cartagena (On Loan)
+50, Sieben Dewaele, BEL, M, 1.80, 72, 02-02-99, Kortrijk, Oostende
+24, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Baniyas
+6, Taylor Harwood-Bellis, ENG, D, 1.88, 82, 30-01-02, Stockport, Manchester C
+68, Nayel Mehssatou, BEL, M, 1.68, 71, 08-08-02, Brussels, Kortrijk

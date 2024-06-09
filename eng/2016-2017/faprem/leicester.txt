@@ -1,0 +1,79 @@
+=  Leicester City - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Leeds U
+3, Ben Chilwell, ENG, D, 1.78, 71, 21-12-96, Milton Keynes, None
+4, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Manchester U
+5, Wes Morgan, JAM, D, 1.85, 93, 21-01-84, Nottingham, Nottingham F
+6, Robert Huth, GER, D, 1.91, 88, 18-08-84, Berlin, Stoke C
+7, Ahmed Musa, NGA, F, 1.76, 65, 14-10-92, Bukuru, CSKA Moscow
+9, Jamie Vardy, ENG, F, 1.78, 76, 11-01-87, Sheffield, Fleetwood T
+10, Andy King, WAL, M, 1.83, 74, 29-10-88, Maidenhead, None
+11, Marc Albrighton, ENG, M, 1.74, 67, 18-11-89, Tamworth, Aston Villa
+12, Ben Hamer, ENG, G, 1.93, 78, 20-11-87, Taunton, Charlton Ath
+13, Daniel Amartey, GHA, M, 1.83, 78, 01-12-94, Accra, FC København
+14, Bartosz Kapustka, POL, M, 1.79, 60, 23-12-96, Tarnów, Cracovia Kraków
+17, Danny Simpson, ENG, D, 1.77, 78, 04-01-87, Salford, QPR
+18, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Granada
+19, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Sporting CP
+20, Shinji Okazaki, JPN, F, 1.74, 70, 16-04-86, Hyogo, Mainz
+21, Ron-Robert Zieler, GER, G, 1.87, 73, 12-02-89, Cologne, Hannover 96
+22, Demarai Gray, ENG, M, 1.79, 66, 28-06-96, Birmingham, Birmingham C
+23, Leonardo Ulloa, ARG, F, 1.85, 75, 26-07-86, Río Negro, Brighton & HA
+24, Nampalys Mendy, FRA, M, 1.68, 68, 23-06-92, La Seyne-sur-Mer, Nice
+25, Wilfred Ndidi, NGA, D, 1.87, 80, 16-12-96, Lagos, KRC Genk
+26, Riyad Mahrez, ALG, M, 1.79, 62, 21-02-91, Sarcelles, Le Havre
+27, Marcin Wasilewski, POL, D, 1.86, 88, 09-06-80, Kraków, Anderlecht
+28, Christian Fuchs, AUT, D, 1.86, 80, 07-04-86, Pitten, Schalke
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Atalanta
+34, Michael Cain, ENG, M, 1.82, 67, 18-02-94, Luton, Luton T
+35, Cédric Kipré, FRA, D, 1.90, 77, 09-12-96, Paris, None
+36, Elliott Moore, ENG, D, 1.95, 78, 16-03-97, Leicester, None
+38, Matty Miles, ENG, M, 1.78, 67, 27-01-97, Luton, None
+40, Daniel Iversen, DEN, G, 1.93, 80, 19-07-97, Gørding, Esbjerg
+41, Max Bramley, ENG, G, , , 11-11-97, Leicester, None
+42, Adam Harrison, ENG, G, , , 19-02-99, Coventry, None
+43, Cameron Yates, SCO, G, 1.86, 80, 14-02-99, Edinburgh, None
+44, David Domej, AUT, D, 1.88, 83, 08-01-96, Vienna, Hajduk Split
+45, Liandro Martis, CUW, M, 1.70, 73, 13-11-95, Juan Domingo, Willem II
+46, Brandon Fox, ENG, M, 1.77, 64, 04-02-97, Leicester, None
+47, Faiq Bolkiah, BRU, F, 1.75, 69, 09-05-98, Los Angeles, Chelsea
+48, Admiral Muskwe, ENG, F, 1.83, 71, 21-08-98, , None
+49, Josh Knight, ENG, D, 1.85, 78, 07-09-97, Leicester, None
+50, Hamza Choudhury, ENG, M, 1.78, 64, 01-10-97, Loughborough, None
+51, Kairo Mitchell, ENG, F, , , 21-10-97, Enfield Town, None
+52, Layton Ndukwu, ENG, F, 1.77, 75, 07-09-98, Leicester, None
+53, Darnell Johnson, ENG, D, 1.85, 83, 03-09-98, Leicester, None
+54, Raúl Uche, ESP, F, 1.78, 70, 08-10-97, Madrid, Rayo Vallecano
+55, Josh Debayo, NGA, D, 1.83, 68, 17-10-96, Hendon, Southampton
+56, Connor Wood, ENG, D, 1.77, 78, 17-07-96, Harlow, Chesham U
+57, Dylan Watts, IRL, M, 1.78, 68, 11-04-97, Blackrock, UCD
+58, Josh Eppiah, BEL, F, , , 11-10-98, , None
+59, Lamine Sherif, GNB, M, 1.77, 74, 27-01-99, Conakry, None
+60, Ethan Hodby, ENG, F, , , 27-01-99, Leicester, None
+61, Kyle Gruno, USA, D, 1.73, 75, 20-01-99, Saddle River, None
+62, Elliot Webber, ATG, M, , , 01-10-98, Leicester, None
+63, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, None
+64, Alex Pașcanu, ROU, D, 1.87, 85, 28-09-98, Bârlad, None
+65, Cal Templeton, NIR, D, , , 04-12-98, Coventry, None
+66, Kairo John, ENG, F, , , 23-10-99, Leicester, None
+67, Morgan Brown, ENG, M, , , 29-11-99, Leicester, None
+68, Rubyn Gill, ENG, D, , , 17-12-99, Leicester, None
+69, George Heaven, ENG, D, , , 30-11-99, Coventry, None
+70, Sim Singh-Thandi, ENG, D, , , 11-10-99, Leicester, None
+71, József Keaveny, HUN, F, , , 12-10-99, Leicester, None
+72, Tom Fielding, ENG, M, , , 18-09-99, Leicester, None
+73, Kian Williams, ENG, M, , , 01-07-00, Leicester, None
+74, Conor Tee, ENG, M, , , 15-07-00, Northampton, None
+75, Thakgalo Leshabela, RSA, M, 1.75, 72, 18-09-99, Pretoria, None
+76, Calvin Ughelumba, ITA, D, 1.85, 76, 31-12-99, Aosta, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Danny Rowe, ENG, M, , , 30-12-96, Peterborough, QPR
+15, Jeffrey Schlupp, GHA, M, 1.78, 72, 23-12-92, Hamburg, Crystal Palace
+39, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, MK Dons (On Loan)
+2, Luis Hernández, ESP, D, 1.82, 74, 14-04-89, Madrid, Málaga
+8, Matthew James, ENG, M, 1.78, 74, 22-07-91, Bacup, Barnsley (On Loan)
+31, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Barnsley (On Loan)

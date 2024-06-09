@@ -1,0 +1,49 @@
+=  Alavés - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Pacheco, ESP, G, 1.87, 81, 18-05-92, Badajoz, Real Madrid
+2, Nahuel Tenaglia, ARG, D, 1.82, 71, 21-02-96, Saladillo, Talleres (Córdoba)
+3, Rubén Duarte, ESP, D, 1.72, 68, 18-10-95, Almería, Espanyol
+4, Matt Miazga, USA, D, 1.90, 84, 19-07-95, Clifton, Chelsea
+5, Víctor Laguardia, ESP, D, 1.85, 75, 05-11-89, Zaragoza, Zaragoza
+6, Mamadou Loum, SEN, M, 1.88, 70, 30-12-96, Dakar, FC Porto
+7, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Valencia
+8, Tomás Pina, ESP, M, 1.84, 75, 14-10-87, Villarta de San Juan, Club Brugge
+9, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Newcastle U
+10, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, Celta Vigo
+11, Luis Rioja, ESP, M, 1.73, 65, 16-10-93, Seville, Almería
+12, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Deportivo La Coruña
+13, Antonio Sivera, ESP, G, 1.85, 75, 11-08-96, Jávea, Valencia B
+15, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+16, Gonzalo Escalante, ARG, M, 1.82, 72, 27-03-93, Bella Vista, Lazio
+17, Edgar, ESP, M, 1.85, 80, 30-04-90, Arafo, Cruz Azul
+18, Facundo Pellistri, URU, F, 1.74, 65, 20-12-01, Montevideo, Manchester U
+19, Manu García, ESP, M, 1.70, 65, 02-01-98, Oviedo, Sporting Gijón
+20, Pere Pons, ESP, M, 1.77, 70, 20-02-93, Sant Martí Vell, Girona
+21, Martín Aguirregabiria, ESP, D, 1.78, 69, 10-05-96, Vitoria-Gasteiz, Alavés B
+22, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Newcastle U
+23, Ximo, ESP, D, 1.76, 75, 23-01-90, Guadahortuna, Las Palmas
+24, Miguel De La Fuente, ESP, F, 1.82, 77, 03-09-99, Tudela de Duero, Valladolid B
+25, Jason, ESP, M, 1.78, 65, 06-07-94, La Coruña, Valencia
+26, Abdelkabir Abqar, MAR, D, 1.88, 80, 10-03-99, Settat, Málaga B
+27, Javi López, ESP, D, 1.83, 75, 25-03-02, Santa Cruz de Tenerife, Alavés B
+28, Álex Balboa, EQG, M, 1.81, 76, 06-03-01, Vitoria-Gasteiz, Alavés B
+30, Tomás Mendes, ESP, M, -, -, 21-11-04, Almería, Alavés B
+31, Jesús Owono, EQG, G, 1.83, 67, 01-03-01, Bata, San Ignacio
+32, Óscar Medina, ESP, G, -, -, 19-01-04, -, Alavés B
+33, Adrián Rodríguez, ARG, G, 1.94, 83, 12-12-00, Palma de Mallorca, Real Madrid B
+34, Giorgi Gagua, GEO, F, 1.93, 71, 10-10-01, Tbilisi, Merani Tbilisi
+35, Alan Godoy, ESP, F, 1.78, 61, 04-05-03, Las Palmas, Alavés B
+36, Alexandru Țîrlea, ROU, D, 1.78, 65, 28-03-00, Alcalá de Hernares, Real Madrid B
+38, Iván Sanz, ESP, G, -, -, 08-01-03, -, Alavés B
+40, Marc Tenas, ESP, F, 1.83, 78, 30-05-01, Vic, Atlético Madrid B
+41, Unai Ropero, ESP, F, 1.87, 72, 20-11-01, Vitoria-Gasteiz, Alavés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Lucas Pérez, ESP, F, 1.80, 82, 10-09-88, La Coruña, Elche
+29, Taichi Hara, JPN, F, 1.87, 73, 05-05-99, Tokyo, Sint-Truiden (On Loan)
+2, Tachi, ESP, D, 1.85, 72, 10-09-97, Fuenlabrada, Fuenlabrada (On Loan)
+19, Iván Martín, ESP, M, 1.78, 70, 14-02-99, Bilbao, Villarreal B
+7, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, Rayo Vallecano (On Loan)

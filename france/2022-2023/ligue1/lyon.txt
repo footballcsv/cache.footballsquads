@@ -1,0 +1,41 @@
+=  Lyon - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Lopes, POR, G, 1.84, 81, 01-10-90, Givors, None
+2, Sinaly Diomandé, CIV, D, 1.84, 74, 09-04-01, Yopougon, Guidars
+3, Nicolás Tagliafico, ARG, D, 1.72, 65, 31-08-92, Rafael Calzada, Ajax
+4, Castello Lukeba, FRA, D, 1.84, 73, 17-12-02, Lyon, None
+5, Dejan Lovren, CRO, D, 1.88, 84, 05-07-89, Karlovac, Zenit St Petersburg
+6, Maxence Caqueret, FRA, M, 1.74, 63, 15-02-00, Vénissieux, None
+7, Amin Sarr, SWE, F, 1.88, 83, 11-03-01, Malmö, SC Heerenveen
+8, Houssem Aouar, FRA, M, 1.75, 70, 30-06-98, Lyon, None
+9, Moussa Dembélé, FRA, F, 1.83, 74, 12-07-96, Pontoise, Celtic
+10, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Arsenal
+12, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, Vasco da Gama
+15, Achrif Laâziri, MAR, D, 1.77, 67, 08-07-03, Hay Hassani, FUS Rabat
+17, Jérôme Boateng, GER, D, 1.92, 90, 03-09-88, Berlin, Bayern Munich
+18, Rayan Cherki, FRA, M, 1.77, 71, 17-08-03, Lyon, None
+20, Saël Kumbedi, FRA, D, 1.75, 63, 26-03-05, Stains, Le Havre
+23, Thiago Mendes, BRA, M, 1.76, 73, 15-03-92, São Luís, Lille
+24, Johann Lepenant, FRA, M, 1.76, 68, 22-10-02, Granville, Caen
+26, Bradley Barcola, FRA, F, 1.82, 66, 02-09-02, Villeurbanne, None
+27, Malo Gusto, FRA, D, 1.79, 76, 19-05-03, Décines-Charpieu, Chelsea
+32, Mohamed El Arouch, FRA, M, 1.66, 56, 06-04-04, Orange, None
+35, Rémy Riou, FRA, G, 1.91, 81, 06-08-87, Lyon, Caen
+40, Kayne Bonnevie, FRA, G, 1.91, 76, 22-07-01, Écully, None
+47, Jeffinho, BRA, M, 1.76, 74, 30-12-99, Volta Redonda, Botafogo
+88, Corentin Tolisso, FRA, M, 1.65, 54, 03-08-94, Tarare, Bayern Munich
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Lucas Paquetá, BRA, M, 1.80, 72, 27-08-97, Rio de Janeiro, West Ham U
+11, Tinotenda Kadewere, ZIM, F, 1.83, 72, 05-01-96, Harare, Mallorca (On Loan)
+20, Tetê, BRA, M, 1.75, 70, 15-02-00, Alvorada, Re-Registered (11)
+91, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Re-Registered (10)
+7, Karl Toko Ekambi, CMR, F, 1.83, 70, 14-09-92, Paris, Rennes (On Loan)
+11, Tetê, BRA, M, 1.75, 70, 15-02-00, Alvorada, Shakhtar Donetsk
+15, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Lorient (On Loan)
+22, Jeff Reine-Adélaïde, FRA, M, 1.83, 75, 17-01-98, Champigny-sur-Marne, Troyes (On Loan)
+30, Julian Pollersbeck, GER, G, 1.95, 85, 16-08-94, Altötting, Lorient (On Loan)
+21, Damien Da Silva, FRA, D, 1.84, 77, 17-05-88, Talence, Melbourne Victory

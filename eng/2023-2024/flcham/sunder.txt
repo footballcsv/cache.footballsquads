@@ -1,0 +1,53 @@
+=  Sunderland - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Patterson, ENG, G, 1.89, 77, 10-05-00, North Shields, None
+2, Niall Huggins, WAL, D, 1.73, 70, 18-12-00, York, Leeds U
+3, Dennis Cirkin, ENG, D, 1.82, 72, 06-04-02, Dublin, Tottenham H
+4, Corry Evans, NIR, M, 1.73, 69, 30-07-90, Belfast, Blackburn R
+5, Daniel Ballard, NIR, D, 1.87, 85, 22-09-99, Stevenage, Arsenal
+6, Timothée Pembele, FRA, D, 1.84, 72, 09-09-02, Beaumont-sur-Oise, Paris St-Germain
+7, Jobe Bellingham, ENG, M, 1.87, 73, 23-09-05, Stourbridge, Birmingham C
+8, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, None
+9, Luís Hemir, POR, F, 1.92, 73, 11-08-03, Lisbon, Benfica
+10, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Manchester C
+11, Mason Burstow, ENG, F, 1.87, 85, 04-08-03, Greenwich, Chelsea
+13, Luke O'Nien, ENG, D, 1.74, 74, 21-11-94, Hemel Hempstead, Wycombe W
+14, Romaine Mundle, ENG, M, 1.77, 61, 24-04-03, Edmonton, Standard Liège
+15, Nazariy Rusyn, UKR, F, 1.77, 68, 25-10-98, Novoyavorivsk, Zorya Luhansk
+17, Abdoullah Ba, FRA, M, 1.79, 68, 31-07-03, Saint-Aubin-lès-Elbeuf, Le Havre
+18, Ellis Taylor, ENG, M, 1.82, 72, 14-04-03, Hartlepool, None
+20, Jack Clarke, ENG, M, 1.81, 74, 23-11-00, York, Tottenham H
+22, Adil Aouchiche, FRA, M, 1.81, 72, 15-07-02, Le Blanc-Mesnil, Lorient
+23, Jenson Seelt, NED, D, 1.92, 84, 23-05-03, Ede, PSV Eindhoven
+24, Dan Neil, ENG, M, 1.78, 65, 13-12-01, South Shields, None
+27, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Fleetwood T
+28, Callum Styles, HUN, M, 1.67, 60, 27-03-00, Oldham, Barnsley
+30, Nathan Bishop, ENG, G, 1.85, 72, 15-10-99, Hillingdon, Manchester U
+31, Chris Rigg, ENG, M, 1.75, 68, 18-06-07, Hebburn, None
+32, Trai Hume, NIR, D, 1.80, 75, 18-03-02, Ballymena, Linfield
+33, Leo Hjelde, NOR, D, 1.88, 76, 26-08-03, Nottingham, Leeds U
+39, Pierre Ekwah, FRA, M, 1.89, 81, 15-01-02, Massy, West Ham U
+40, Tom Watson, ENG, F, -, -, 08-04-06, -, None
+42, Aji Alese, ENG, D, 1.92, 78, 17-01-01, Islington, West Ham U
+43, Michael Spellman, ENG, F, -, -, 21-09-02, Durham, Chester-le-Street U
+44, Ben Crompton, ENG, D, -, -, 17-12-03, -, None
+45, Matthew Young, ENG, G, -, -, 24-11-06, -, None
+46, Bradley Dack, ENG, M, 1.75, 71, 31-12-93, Greenwich, Blackburn R
+47, Kelechi Chibueze, ENG, G, -, -, 14-12-03, Lewisham, Leicester C
+48, Caden Kelly, ENG, D, -, -, 20-11-03, Buncrana, None
+49, Tom Lavery, ENG, D, -, -, 19-12-05, Durham, None
+50, Harrison Jones, ENG, M, -, -, 25-12-04, Sunderland, None
+51, Oli Bainbridge, ENG, D, -, -, 13-06-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Norwich C
+11, Lynden Gooch, USA, D, 1.73, 69, 24-12-95, Santa Cruz, Stoke C
+14, Ross Stewart, SCO, F, 1.88, 85, 11-07-96, Irvine, Southampton
+19, Jewison Bennette, CRC, F, 1.75, 70, 15-06-04, Heredia, Aris (On Loan)
+12, Eliezer Mayenda, ESP, F, 1.80, 75, 08-05-05, Zaragoza, Hibernian (On Loan)
+21, Alex Pritchard, ENG, M, 1.71, 62, 03-05-93, Grays, Birmingham C
+25, Nectarios Triantis, AUS, D, 1.91, 78, 11-05-03, Sydney, Hibernian (On Loan)
+41, Zak Johnson, ENG, D, 1.88, 78, 30-07-04, Sunderland, Dundalk (On Loan)

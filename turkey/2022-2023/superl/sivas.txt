@@ -1,0 +1,40 @@
+=  Sivasspor - Turkish Süper Lig 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Murat Paluli, TUR, D, 1.75, 70, 09-08-94, Erzurum, Göztepe
+3, Uğur Çiftçi, TUR, D, 1.79, 71, 04-05-92, Sivas, Gençlerbirliği
+4, Aaron Appindangoyé, GAB, D, 1.83, 80, 20-02-92, Franceville, Ümraniyespor
+5, Isaac Cofie, GHA, M, 1.80, 73, 20-09-91, Accra, Sporting Gijón
+6, Dimitris Goutas, GRE, D, 1.89, 78, 04-04-94, Kavala, Atromitos
+7, Max Gradel, CIV, F, 1.77, 70, 30-11-87, Abidjan, Toulouse
+8, Robin Yalçın, GER, M, 1.83, 77, 25-01-94, Deggendorf, Paderborn
+9, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Konyaspor
+10, Clinton N'Jie, CMR, F, 1.75, 68, 15-08-93, Douala, Dynamo Moscow
+13, Alaaddin Okumuş, TUR, D, 1.75, 70, 23-08-95, Altındağ, Ümraniyespor
+14, Samba Camara, FRA, D, 1.90, 85, 14-11-92, Le Havre, Le Havre
+15, Charis Charisis, GRE, M, 1.77, 68, 12-01-95, Ioannina, Atromitos
+16, Baver Kuçkar, TUR, G, 1.85, 79, 15-02-03, Varto, Bursaspor
+17, Erdoğan Yeşilyurt, GER, M, 1.76, 70, 06-11-93, Euskirchen, Altınordu
+18, Emre Satılmış, TUR, G, 1.98, 72, 13-10-96, İstanbul, Sancaktepe
+19, Karol Angielski, POL, F, 1.77, 70, 20-03-96, Kielce, Radomiak Radom
+21, Emre Gökay, TUR, M, 1.81, 70, 18-02-06, Kayseri, None
+23, Fredrik Ulvestad, NOR, M, 1.83, 79, 17-06-92, Ålesund, Qingdao
+24, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Girona
+25, Muammer Yıldırım, TUR, G, 1.90, 81, 14-09-90, Eğil, Kayserispor
+26, Ahmed Musa, NGA, F, 1.76, 65, 14-10-92, Bukuru, Fatih Karagümrük
+27, Armin Djerlek, SRB, M, 1.73, 66, 15-07-00, Novi Pazar, Partizan Belgrade
+28, Kader Keita, CIV, M, 1.78, 75, 06-11-00, -, KVC Westerlo
+30, Jordy Caicedo, ECU, F, 1.85, 82, 18-11-97, Machala, UANL Tigres
+35, Ali Şaşal Vural, TUR, G, 1.87, 80, 10-07-90, Konak, Eskişehirspor
+37, Hakan Arslan, TUR, M, 1.86, 77, 18-07-88, Istanbul, Samsunspor
+58, Ziya Erdal, TUR, D, 1.82, 73, 05-01-88, Zara, Anadolu Üsküdar
+88, Caner Osmanpaşa, TUR, D, 1.94, 81, 15-01-88, Trabzon, Akhisar Belediyespor
+90, Leke James, NGA, F, 1.88, 80, 01-11-92, Kaduna, Al-Qadisiyah
+96, Mehmet Albayrak, TUR, D, -, -, 05-01-04, Adana, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Kerem Atakan Kesgin, TUR, M, 1.74, 70, 05-11-00, Turhal, Beşiktaş
+62, Özkan Yiğiter, TUR, M, 1.91, 80, 07-01-00, Sivas, Gençlerbirliği (On Loan)
+11, Dia Saba, ISR, M, 1.83, 75, 18-11-92, Majd al-Krum, Maccabi Haifa

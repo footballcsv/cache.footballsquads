@@ -1,0 +1,50 @@
+=  Benevento - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gaspare Muraca, ITA, G, 1.82, 74, 15-03-04, Crotone, None
+2, Bright Gyamfi, GHA, D, 1.78, 75, 20-01-96, Accra, Reggiana
+3, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Carpi
+4, Gennaro Acampora, ITA, M, 1.74, 74, 29-03-94, Naples, Spezia
+5, Giacomo Calò, ITA, M, 1.79, 75, 05-02-97, Trieste, Genoa
+7, Salvatore Elia, ITA, F, 1.83, 73, 30-06-99, Prato, Atalanta
+8, Andrés Tello, COL, M, 1.81, 80, 06-09-96, Medellín, Juventus
+9, Gianluca Lapadula, PER, F, 1.78, 69, 07-02-90, Turin, Genoa
+11, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Cagliari
+12, Nicolò Manfredini, ITA, G, 1.90, 80, 20-05-88, Ferrara, Spezia
+14, Alessandro Vogliacco, ITA, D, 1.86, 83, 14-09-98, Acquaviva delle Fonti, Genoa
+15, Kamil Glik, POL, D, 1.90, 80, 03-02-88, Jastrzębie Zdrój, Monaco
+16, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Naples, Genoa
+17, Jacopo Petriccione, ITA, M, 1.76, 75, 22-02-95, Gorizia, Crotone
+18, Daam Foulon, BEL, D, 1.80, 78, 23-03-99, Mechelen, Waasland-Beveren
+19, Roberto Insigne, ITA, F, 1.71, 65, 11-05-94, Naples, Napoli
+21, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, SPAL
+22, Clemente Tartaro, ITA, G, -, -, 26-09-04, Marcianise, None
+23, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Cagliari
+24, Mattia Viviani, ITA, M, 1.77, 74, 04-09-00, Brescia, Chievo Verona
+25, Marco Sau, ITA, F, 1.69, 65, 03-11-87, Sorgono, Sampdoria
+26, Bruno Umile, ITA, F, 1.76, 61, 06-02-03, Naples, Napoli
+27, Riccardo Rossi, ITA, M, 1.75, 72, 05-01-04, Senigallia, Pescara
+28, Alessandro Malva, ITA, F, 1.82, 72, 11-07-04, Altamura, Foggia
+29, Alberto Andrea Paleari, ITA, G, 1.93, 88, 29-08-92, Giussano, Genoa
+31, Antonio Prisco, ITA, M, 1.69, 66, 08-04-04, San Giuseppe Vesuviano, None
+32, Edoardo Masciangelo, ITA, D, 1.77, 70, 08-07-96, Rome, Pescara
+33, Giulio Andrea Vottari, ITA, D, -, -, 17-09-04, Locri, Roccella
+38, Angelo Talia, ITA, M, 1.82, 74, 10-03-03, Naples, None
+43, Manuel Esposito, ITA, G, -, -, 22-02-05, Naples, None
+58, Christian Pastina, ITA, D, 1.85, 74, 15-02-01, Battipaglia, Avellino
+88, Francesco Forte, ITA, F, 1.90, 75, 01-05-93, Rome, Venezia
+93, Federico Barba, ITA, D, 1.85, 77, 01-09-93, Rome, Chievo Verona
+99, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Sassuolo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+66, Luca Sparandeo, ITA, D, 1.80, 73, 18-08-99, Benevento, Lecco
+11, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Avellino
+22, Igor Lucatelli, ITA, G, 1.93, 76, 21-08-03, Colleferro, Pescara (On Loan)
+30, Davide Masella, ITA, M, 1.84, 78, 12-05-02, Pescara, Imolese (On Loan)
+45, Pape Samba Thiam, SEN, F, 1.88, 80, 08-05-02, -, Pescara (On Loan)
+10, Dejan Vokič, SVN, M, 1.90, 80, 12-06-96, Ljubljana, Pordenone (On Loan)
+20, Giuseppe Di Serio, ITA, F, 1.82, 78, 20-07-01, Trento, Pordenone (On Loan)
+6, Abdallah Basit, GHA, M, 1.80, 72, 15-10-99, Accra, Monterosi Tuscia (On Loan)
+79, Siriky Sanogo, CIV, M, 1.80, 72, 21-12-01, Bingerville, Schaffhausen (On Loan)

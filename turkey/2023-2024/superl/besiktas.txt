@@ -1,0 +1,48 @@
+=  Beşiktaş - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ersin Destanoğlu, TUR, G, 1.95, 88, 01-01-01, Gaziosmanpaşa, None
+2, Jonas Svensson, NOR, D, 1.70, 70, 06-03-93, Levanger, Adana Demirspor
+4, Onur Bulut, GER, D, 1.81, 70, 16-04-94, Werdohl, Kayserispor
+5, Tayyip Talha Sanuç, TUR, D, 1.88, 73, 17-12-99, Karabük, Adana Demirspor
+6, Omar Colley, GAM, D, 1.91, 87, 24-10-92, Lamin, Sampdoria
+7, Ante Rebić, CRO, F, 1.85, 78, 21-09-93, Split, Milan
+8, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Alanyaspor
+9, Cenk Tosun, TUR, F, 1.83, 78, 07-06-91, Wetzlar, Everton
+10, Vincent Aboubakar, CMR, F, 1.82, 78, 22-01-92, Garoua, Al-Nassr
+11, Milot Rashica, KVX, M, 1.78, 70, 28-06-96, Vushtrri, Norwich C
+12, Daniel Amartey, GHA, D, 1.83, 78, 01-12-94, Accra, Leicester C
+14, Emrecan Uzunhan, TUR, D, 1.89, 80, 26-02-01, İstanbul, İstanbulspor
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Liverpool
+17, Joe Worrall, ENG, D, 1.93, 64, 10-01-97, Nottingham, Nottingham F
+18, Rachid Ghezzal, ALG, M, 1.82, 65, 09-05-92, Décines-Charpieu, Leicester C
+19, Amir Hadžiahmetović, BIH, M, 1.79, 71, 08-03-97, Nexø, Konyaspor
+20, Necip Uysal, TUR, M, 1.80, 72, 24-01-91, Bakırköy, None
+21, Demir Ege Tıknaz, TUR, M, -, -, 17-08-04, İstanbul, None
+22, Baktiyar Zaynutdinov, KAZ, M, 1.83, 73, 02-04-98, Taraz, CSKA Moscow
+23, Ernest Muçi, ALB, F, 1.80, 75, 19-03-01, Tirana, Legia Warszawa
+26, Arthur Masuaku, COD, D, 1.79, 70, 07-11-93, Lille, West Ham U
+27, Emirhan Delibaş, TUR, F, -, -, 01-01-03, İstanbul, None
+28, Ali Elmusrati, LBY, M, 1.93, 80, 06-04-96, Misrata, Sporting Braga
+34, Mert Günok, TUR, G, 1.88, 76, 01-03-89, Safranbolu, İstanbul Başakşehir
+40, Jackson Muleka, COD, F, 1.80, 77, 04-10-99, Lubumbashi, Standard Liège
+75, Tayfur Bingöl, TUR, D, 1.84, 81, 11-01-93, Ankara, Alanyaspor
+77, Umut Meraş, TUR, D, 1.78, 73, 20-12-95, İstanbul, Le Havre
+83, Gedson Fernandes, POR, M, 1.81, 69, 09-01-99, São Tomé, Benfica
+88, Gökhan Inler, SUI, M, 1.82, 80, 27-06-84, Olten, Adana Demirspor
+90, Semih Kılıçsoy, TUR, F, 1.78, 68, 15-08-05, İstanbul, None
+94, Göktuğ Baytekin, TUR, G, -, -, 20-11-04, İstanbul, None
+97, Utku Yuvakuran, TUR, G, 1.92, 78, 02-11-97, Şişli, Beylerbeyi
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Kerem Kalafat, TUR, D, 1.62, 55, 09-03-01, Şişli, Çorum
+3, Francisco Montero, ESP, D, 1.80, 75, 14-01-99, Seville, Arouca (On Loan)
+41, Oğuzhan Akgün, TUR, M, -, -, 13-07-01, Gebze, Sarıyer (On Loan)
+23, Kartal Yılmaz, TUR, M, 1.77, 67, 04-11-00, İzmit, Kayserispor (On Loan)
+30, Eric Bailly, CIV, D, 1.87, 77, 12-04-94, Abidjan, Villarreal
+71, Jean Onana, CMR, M, 1.89, 89, 08-01-00, Yaoundé, Marseille (On Loan)
+24, Valentin Rosier, FRA, D, 1.75, 70, 19-08-96, Montauban, Nice (On Loan)
+17, Kerem Atakan Kesgin, TUR, M, 1.74, 70, 05-11-00, Turhal, Sivasspor (On Loan)
+99, Emrecan Bulut, TUR, M, 1.85, 80, 26-11-02, Ardahan, Ümraniyespor (On Loan)

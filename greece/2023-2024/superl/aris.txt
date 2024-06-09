@@ -1,0 +1,44 @@
+=  Aris - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Franco Ferrari, ARG, D, 1.67, 67, 09-05-92, Rosario, APOEL
+4, Fabiano, BRA, D, 1.88, 82, 18-11-91, São José do Oeste, Denizlispor
+5, Giorgos Delizisis, GRE, D, 1.91, 82, 01-12-87, Kozani, Niki Volos
+6, Manu García, ESP, M, 1.70, 65, 02-01-98, Oviedo, Sporting Gijón
+7, Lazaros Christodoulopoulos, GRE, M, 1.83, 77, 19-12-86, Thessaloniki, Anorthosis Famagusta
+8, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Leganés
+9, Jewison Bennette, CRC, F, 1.75, 70, 15-06-04, Heredia, Sunderland
+10, Lukas Rupp, GER, M, 1.78, 64, 08-01-91, Heidelberg, Norwich C
+11, Kike Saverio, ECU, F, 1.78, 69, 19-06-99, Genoa, Deportivo La Coruña
+12, Álvaro Zamora, CRC, M, 1.83, 65, 09-03-02, San José [CRC], Deportivo Saprissa
+13, Ronald Matarrita, CRC, D, 1.75, 70, 09-07-94, San Ramón [CRC], Dnipro-1
+14, Jakub Brabec, CZE, D, 1.86, 80, 06-08-92, Prague, Viktoria Plzeň
+16, Vladimír Darida, CZE, M, 1.70, 60, 08-08-90, Plzeň, Hertha Berlin
+17, Karim Ansarifard, IRN, F, 1.86, 75, 03-04-90, Ardabil, Omonia Nicosia
+18, Valentino Fattore, ARG, D, 1.78, 72, 10-08-01, Capital Federal, Sevilla B
+19, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, APOEL
+20, Neven Djurasek, CRO, M, 1.73, 68, 15-08-98, Varaždin, Shakhtar Donetsk
+21, Rubén Pardo, ESP, M, 1.81, 69, 22-10-92, Logroño, Leganés
+22, Moses Odubajo, ENG, D, 1.77, 72, 28-07-93, Greenwich, QPR
+23, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Wisła Kraków
+28, Birger Verstraete, BEL, M, 1.71, 61, 16-04-94, Ostend, Royal Antwerp
+30, Jean Jules, CMR, M, 1.85, 78, 23-04-98, Yaoundé, Górnik Zabrze
+31, Konstantinos Kyriazis, GRE, G, -, -, 04-03-04, -, Olympiakos
+32, David Moberg Karlsson, SWE, M, 1.79, 76, 20-03-94, Mariestad, Urawa Red Diamonds
+33, Martín Montoya, ESP, D, 1.75, 73, 14-04-91, Gavà, Betis
+41, Georgios Agorastos, GRE, F, -, -, 30-11-05, -, None
+44, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Al-Fateh
+77, Michalis Panagidis, GRE, M, -, -, 11-02-04, -, None
+80, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Betis
+92, Lindsay Rose, MRI, D, 1.84, 79, 08-02-92, Rennes, Legia Warszawa
+93, Magomed Suleymanov, RUS, F, 1.71, 69, 16-12-99, Makhachkala, FC Krasnodar
+94, Lefteris Choutesiotis, GRE, G, 1.92, 85, 20-07-94, Makrychori, Ionikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Luis Palma, HON, M, 1.78, 71, 17-01-00, Ceiba, Celtic
+9, Andre Gray, JAM, F, 1.78, 83, 26-06-91, Wolverhampton, Al-Riyadh
+25, Antonis Aidonis, GER, D, 1.81, 76, 22-05-01, Neustadt an der Weinstraße, Borussia Dortmund II
+24, Domagoj Pavičić, CRO, M, 1.79, 76, 09-03-94, Zagreb, Dinamo București (On Loan)
+27, Jonathan Menéndez, ARG, F, 1.66, 62, 05-03-94, Capital Federal, Kifisia

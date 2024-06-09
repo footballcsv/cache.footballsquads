@@ -1,0 +1,40 @@
+=  Gil Vicente - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stanislav Kritsyuk, RUS, G, 1.92, 80, 01-12-90, Tolyatti, Zenit St Petersburg
+2, Zé Carlos, POR, D, 1.77, 75, 31-07-98, Porto, Sporting Braga
+4, Né Lopes, POR, D, 1.85, 78, 29-05-00, Braga, None
+6, Lucas Barros, BRA, D, 1.80, 66, 21-08-99, Rio de Janeiro, Sporting Covilhã
+7, Bilel Aouacheria, FRA, M, 1.82, 74, 02-04-94, Saint-Etienne, Farense
+8, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Cartagena
+9, Fran Navarro, ESP, F, 1.80, 73, 03-02-98, Pinedo, Valencia B
+10, Kanya Fujimoto, JPN, M, 1.76, 67, 01-07-99, Yamanashi, Tokyo Verdy
+11, Marlon Douglas, BRA, F, 1.76, 64, 15-09-97, Pernambuco, Paysandu
+12, Brian Araújo, POR, G, 1.89, 83, 29-04-00, Paris, None
+13, Gabriel Pereira, POR, D, 1.88, 82, 07-05-00, Volta Redonda, Vilafranquense
+14, Roan Wilson, CRC, M, 1.84, 59, 01-05-02, Puerto Limón, Municipal Grecia
+15, Carraça, POR, D, 1.77, 74, 01-03-93, Folgosa da Maia, FC Porto
+16, Andre Simões, POR, M, 1.74, 64, 17-08-03, Braga, Famalicão
+17, Kevin Villodres, ESP, M, 1.73, 69, 26-02-01, Málaga, Málaga B
+19, Adrián Marín, ESP, D, 1.81, 73, 09-01-97, Torre-Pacheco, Granada
+20, Juan Boselli, URU, M, 1.74, 70, 09-11-99, Montevideo, Tondela
+21, Vitor Carvalho, BRA, M, 1.83, 74, 27-05-97, Palma, Coritiba
+25, Pedro Tiba, POR, M, 1.76, 74, 31-08-88, Arcos de Valdevez, Lech Poznań
+26, Rúben Fernandes, POR, D, 1.86, 75, 06-05-86, Portimão, Portimonense
+29, Depú, ANG, F, 1.78, 67, 08-01-00, Lobito, Petro Atlético
+30, Ali Alipour, IRN, F, 1.77, 70, 11-11-95, Qaem Shahr, Marítimo
+42, Andrew, BRA, G, 1.89, 72, 01-07-01, Duque de Caxias, Botafogo
+55, Henrique Gomes, POR, D, 1.85, 78, 30-11-95, Barcelos, Sporting Covilhã
+57, Matheus Bueno, BRA, M, 1.80, 72, 30-07-98, Curitiba, Coritiba
+72, Tomás Araújo, POR, D, 1.87, 85, 16-05-02, Vila Nova de Famalicão, Benfica
+77, Murilo, BRA, F, 1.77, 68, 31-10-94, São José do Norte, Sporting Braga
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Mizuki Arai, JPN, F, 1.70, 62, 14-04-97, Ina, Tokyo Verdy
+11, Boubacar Hanne, POR, F, 1.75, 68, 26-02-99, Paços de Ferreira, Argeș Pitești
+78, Danilo Veiga, POR, D, 1.83, 83, 25-09-02, Gondomar, Rijeka
+3, Lucas, BRA, D, 1.86, 77, 23-01-97, Três Lagoas, Red Bull Bragantino
+5, Emmanuel Hackman, GHA, D, 1.87, 71, 14-05-95, Accra, Mladost Novi Sad
+93, Elder Santana, BRA, F, 1.86, 80, 07-04-93, Vera Cruz, Aktobe

@@ -1,0 +1,57 @@
+=  Burnley - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Charlie Taylor, ENG, D, 1.75, 70, 18-09-93, York, Leeds U
+4, Jack Cork, ENG, M, 1.85, 69, 25-06-89, Carshalton, Swansea C
+5, Taylor Harwood-Bellis, ENG, D, 1.88, 82, 30-01-02, Stockport, Manchester C
+7, Jóhann Guðmundsson, ISL, M, 1.86, 79, 27-10-90, Reykjavík, Charlton Ath
+8, Josh Brownhill, ENG, M, 1.79, 69, 19-12-95, Warrington, Bristol C
+9, Jay Rodriguez, ENG, F, 1.85, 80, 29-07-89, Burnley, WBA
+10, Ashley Barnes, AUT, F, 1.86, 77, 31-10-89, Bath, Brighton & HA
+11, Scott Twine, ENG, F, 1.74, 69, 14-07-99, Swindon, MK Dons
+12, Lyle Foster, RSA, F, 1.85, 75, 03-09-00, Soweto, KVC Westerlo
+14, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, Swansea C
+15, Bailey Peacock-Farrell, NIR, G, 1.88, 73, 29-10-96, Darlington, Leeds U
+17, Manuel Benson, BEL, F, 1.78, 68, 28-03-97, Lokeren, Royal Antwerp
+18, Hjalmar Ekdal, SWE, D, 1.87, 76, 21-10-98, Stockholm, Djurgårdens IF
+19, Anass Zaroury, MAR, F, 1.76, 72, 07-11-00, Mechelen, Charleroi
+20, Denis Franchi, ITA, G, 1.89, 71, 22-10-02, San Vito al Tagliamento, Paris St-Germain
+22, Vitinho, BRA, D, 1.75, 72, 23-07-99, Belo Horizonte, Cercle Brugge
+23, Nathan Tella, ENG, M, 1.73, 70, 05-07-99, Lambeth, Southampton
+24, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, Anderlecht
+26, Samuel Bastien, COD, M, 1.75, 70, 26-09-96, Meux, Standard Liège
+27, Darko Churlinov, MKD, M, 1.80, 75, 11-07-00, Skopje, Stuttgart
+28, Ameen Al-Dakhil, BEL, D, 1.87, 70, 06-03-02, Baghdad, Sint-Truiden
+29, Ian Maatsen, NED, D, 1.67, 57, 10-03-02, Vlaardingen, Chelsea
+30, Halil Dervişoğlu, TUR, F, 1.83, 75, 08-12-99, Rotterdam, Brentford
+32, Marcel Lewis, ENG, M, 1.73, 66, 30-09-01, Cambridge, Union St-Gilloise
+33, Joe McGlynn, SCO, F, -, -, 27-09-02, Warrington, None
+34, Dan Sassi, ENG, D, -, -, 08-12-03, Uttoxeter, Stoke C
+35, Seb Thompson, ENG, F, -, -, 09-10-02, Worcester, Derby Co
+36, Jordan Beyer, GER, D, 1.87, 80, 19-05-00, Kempen, B Mönchengladbach
+38, Lewis Richardson, ENG, F, 1.78, 65, 07-02-03, Manchester, None
+40, Charlie Casper, ENG, G, -, -, 04-04-05, Bury, None
+41, Benn Ward, ENG, D, -, -, 20-01-04, -, Hastings U
+43, Joe Bauress, ENG, M, -, -, -, -, None
+45, Michael Obafemi, IRL, F, 1.69, 71, 06-07-00, Dublin, Swansea C
+48, Ne-Jai Tucker, BER, M, -, -, 20-08-02, -, None
+49, Arijanet Murić, KVX, G, 1.97, 81, 07-11-98, Zürich, Manchester C
+50, Sam Waller, ENG, G, -, -, 09-09-03, Stockport, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Maxwel Cornet, CIV, F, 1.79, 69, 27-09-96, Bregbo, West Ham U
+40, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Morecambe
+32, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Barnsley
+2, Matthew Lowton, ENG, D, 1.80, 78, 09-06-89, Chesterfield, Huddersfield T (On Loan)
+28, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Birmingham C
+25, Will Norris, ENG, G, 1.95, 74, 12-08-93, Royston, Peterborough U (On Loan)
+18, Ashley Westwood, ENG, M, 1.70, 81, 01-04-90, Nantwich, Charlotte FC
+42, Mark Helm, ENG, M, 1.73, 61, 21-01-01, Warrington, Burton Alb
+44, Dara Costelloe, IRL, F, 1.75, 64, 11-12-02, Limerick, Bradford C (On Loan)
+16, Bobby Thomas, ENG, D, 1.86, 77, 30-01-01, Chester, Barnsley (On Loan)
+31, Michael Mellon, SCO, F, 1.85, 77, 05-12-03, Blackpool, Morecambe (On Loan)
+21, Luke McNally, IRL, D, 1.93, 86, 20-09-99, Enfield, Coventry C (On Loan)
+39, Owen Dodgson, ENG, D, 1.78, 66, 19-03-03, Lancaster, Rochdale (On Loan)
+6, CJ Egan-Riley, ENG, D, 1.83, 70, 02-01-03, Manchester, Hibernian (On Loan)

@@ -1,0 +1,46 @@
+=  FC Ural - Russian Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Stefan Strandberg, NOR, D, 1.89, 80, 25-07-90, Lyngdal, Trapani
+5, Andrey Yegorychev, UKR, M, 1.83, 73, 14-02-93, Voronezh, Nosta Novotroitsk
+6, Rafał Augustyniak, POL, M, 1.85, 83, 14-10-93, Zduńska Wola, Miedź Legnica
+8, Roman Emelyanov, RUS, M, 1.89, 85, 08-05-92, Pavlovo, Shakhtar Donetsk
+9, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, FC Tosno
+10, Erik Bicfalvi, ROU, M, 1.87, 89, 05-02-88, Carei, Tom Tomsk
+13, Ihor Kalinin, UKR, D, 1.85, 75, 11-11-95, Kerch, Dynamo Moscow
+15, Denys Kulakov, UKR, D, 1.82, 76, 01-05-86, Donetsk, Metalist Kharkiv
+17, Ylldren Ibrahimaj, NOR, F, 1.78, 70, 24-12-95, Arendal, Viking
+18, Branko Jovićić, SRB, M, 1.79, 74, 18-03-93, Čačak, Crvena Zvezda
+19, Danijel Miškić, CRO, M, 1.82, 75, 11-10-93, Novo Mesto, FC Orenburg
+20, Andrey Panyukov, RUS, F, 1.78, 75, 25-09-94, Moscow, Zenit-2
+21, Vyacheslav Podberezkin, RUS, M, 1.87, 76, 21-06-92, Moscow, Rubin Kazan
+22, Arsen Adamov, RUS, D, 1.81, 69, 20-10-99, Nizhny Tagil, Akhmat Grozny
+25, Ivan Kuzmichev, RUS, D, 1.93, 83, 20-10-00, Tolyatti, Lada Tolyatti
+28, Ivan Konovalov, RUS, G, 1.91, 82, 18-08-94, Balashikha, Rubin Kazan
+30, Aleksey Evseev, RUS, M, 1.87, 77, 30-03-94, St. Petersburg, Rotor Volgograd
+31, Yaroslav Hodzyur, UKR, G, 1.94, 90, 06-03-85, Ivano-Frankivsk, Terek Grozny
+40, Ramazan Gadzhimuradov, RUS, M, 1.78, 72, 09-01-98, Moscow, SKA-Khabarovsk
+44, Vladimir Rykov, RUS, D, 1.91, 83, 13-11-87, Novosibirsk, Dynamo Moscow
+55, Artyom Maksimenko, RUS, F, 1.85, 74, 27-05-98, Tolyatii, Veles Moscow
+58, Othman El Kabir, NED, M, 1.75, 72, 17-07-91, Amsterdam, Djurgårdens IF
+62, Davyd Alekseyev, RUS, G, 1.91, 81, 04-06-03, -, FC Ural-2
+77, Oleg Baklov, RUS, G, 2.01, 92, 20-10-94, Syzran, Syzran-2003
+93, Aleksei Gerasimov, RUS, D, 1.94, 87, 15-04-93, Borisoglebsk, FC Ural-2
+95, Chingiz Magomadov, RUS, D, 1.78, 78, 01-08-98, Kurchaloy, Akhmat Grozny
+99, Yevgeniy Tatarinov, RUS, F, 1.80, 72, 06-02-99, Verkhnyaya Salda, FC Ural-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Artyom Mamin, RUS, D, 1.87, 75, 25-07-97, Yekaterinburg, FC Orenburg (On Loan)
+9, Marco Aratore, SUI, M, 1.71, 61, 04-06-91, Basel, Aarau
+3, Varazdat Haroyan, ARM, D, 1.85, 76, 24-08-92, Yerevan, FC Tambov
+60, Vladislav Poletayev, RUS, G, 1.88, 78, 05-01-00, Yekaterinburg, Irtysh Omsk (On Loan)
+79, Artem Yusupov, RUS, F, 1.90, 73, 29-04-97, Yekaterinburg, Volgar Astrakhan (On Loan)
+35, Nikolay Zolotov, BLR, D, 1.77, 72, 11-11-94, Vitebsk, Kolos Kovalivka
+11, Dmitriy Efremov, RUS, M, 1.80, 70, 01-04-95, Ulyanovsk, Krylia Sovetov
+69, Artyom Shabolin, RUS, M, 1.87, 78, 19-07-00, Barnaul, Yenisey Krasnoyarsk (On Loan)
+14, Yuriy Bavin, RUS, M, 1.72, 67, 05-02-94, Slautnoe, FC Tambov (On Loan)
+1, Ilya Pomazun, RUS, G, 1.89, 84, 16-08-96, Kaliningrad, CSKA Moscow
+22, Aykhan Guseynov, RUS, M, 1.81, 77, 03-09-99, St. Petersburg, Olimp-Dolgoprudny
+7, David Karayev, RUS, F, 1.80, 76, 10-03-95, Vladikavkaz, Caspiy Aktau

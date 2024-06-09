@@ -1,0 +1,67 @@
+=  Parma - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luigi Sepe, ITA, G, 1.85, 79, 08-05-91, Torre del Greco, Napoli
+2, Simone Iacoponi, ITA, D, 1.80, 73, 30-04-87, Pontedera, Virtus Entella
+3, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Udinese
+4, Botond Balogh, HUN, D, 1.85, 76, 06-06-02, Sopron, MTK
+5, Andrea Conti, ITA, D, 1.84, 76, 02-03-94, Lecco, Milan
+7, Riccardo Gagliolo, SWE, D, 1.82, 75, 28-04-90, Imperia, Carpi
+8, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Napoli
+9, Graziano Pellè, ITA, F, 1.93, 89, 15-07-85, San Cesario, Shandong Luneng
+10, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Internazionale
+11, Andreas Cornelius, DEN, F, 1.93, 79, 16-03-93, Copenhagen, Atalanta
+13, Mattia Bani, ITA, D, 1.88, 81, 10-12-93, Borgo San Lorenzo, Genoa
+14, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, SPAL
+15, Gastón Brugman, URU, M, 1.78, 75, 07-09-92, Rosario, Pescara
+16, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Fiorentina
+17, Joshua Zirkzee, NED, F, 1.93, 84, 22-05-01, Schiedam, Bayern Munich
+18, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, Nice
+19, Simon Sohm, SUI, M, 1.88, 85, 11-04-01, Zürich, Zürich
+20, Vassilis Zagaritis, GRE, D, 1.77, 68, 04-05-01, Thiva, Panathinaikos
+21, Gabriele Artistico, ITA, F, 1.88, 68, 14-07-02, Rome, None
+22, Bruno Alves, POR, D, 1.89, 80, 27-11-81, Porto, Rangers
+23, Hernani, BRA, M, 1.88, 77, 27-03-94, São Gonçalo do Sapucaí, Zenit St Petersburg
+24, Yordan Osorio, VEN, D, 1.89, 77, 10-05-94, Barinas, FC Porto
+27, Gervinho, CIV, F, 1.79, 68, 27-05-87, Anyama, Hebei China Fortune
+28, Valentin Mihăilă, ROU, F, 1.77, 61, 02-02-00, Finta, Universitatea Craiova
+29, Daan Dierckx, BEL, D, 1.88, 81, 24-02-03, Leuven, KRC Genk
+30, Lautaro Valenti, ARG, D, 1.88, 80, 14-01-99, Rosario, Lanús
+32, Juan Francisco Brunetta, ARG, M, 1.75, 68, 12-05-97, Córdoba, Godoy Cruz (Mendoza)
+33, Juraj Kucka, SVK, M, 1.86, 86, 26-02-87, Bojnice, Trabzonspor
+34, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Carpi
+35, Chaka Traoré, CIV, F, 1.75, 70, 23-12-04, Attécoubé, None
+38, Reinaldo Radu, ROU, D, 1.78, 63, 07-01-02, Castello de la Plana, Villarreal
+39, Márk Kosznovszky, HUN, M, 1.77, 66, 17-04-02, Budapest, MTK
+40, Martin Turk, SVN, G, 1.87, 72, 21-08-03, Koper, Koper
+41, Hans Nicolussi Caviglia, ITA, M, 1.81, 71, 18-06-00, Aosta, Juventus
+42, Maxime Busi, BEL, D, 1.82, 75, 14-10-99, Liège, Charleroi
+43, André Lopes Silva, POR, F, 1.83, -, 18-03-03, Macieira de Alcôba, Farense
+45, Roberto Inglese, ITA, F, 1.86, 78, 12-11-91, Lucera, Napoli
+77, Filippo Rinaldi, ITA, G, 1.88, 70, 04-12-02, Montecchio Emilia, None
+93, Mattia Sprocati, ITA, F, 1.78, 70, 28-04-93, Monza, Lazio
+98, Dennis Man, ROU, F, 1.83, 82, 26-08-98, Vladimirescu, FCSB
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+62, Abdou Diakhaté, SEN, M, 1.79, 78, 31-12-98, Dakar, ND Gorica
+65, Marco Frediani, ITA, F, 1.78, 65, 13-03-94, Rome, Alessandria
+64, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Cremonese
+97, Alessio Da Cruz, NED, F, 1.84, 75, 18-01-97, Almere, FC Groningen (On Loan)
+21, Kastriot Dërmaku, ALB, D, 1.95, 90, 15-01-92, Scandiano, Lecce (On Loan)
+32, Lorenzo Simonetti, ITA, M, 1.80, 72, 28-08-96, Livorno, Pistoiese (On Loan)
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Internazionale (On Loan)
+46, Fabrizio Alastra, ITA, G, 1.85, 79, 01-10-97, Erice, Pescara (On Loan)
+67, Eric Lanini, ITA, F, 1.84, 74, 25-02-94, Turin, Novara (On Loan)
+60, Yves Baraye, SEN, F, 1.77, 69, 22-06-92, Dakar, Gil Vicente
+20, Marcello Gazzola, ITA, D, 1.83, 78, 03-04-85, Borgotaro, Retired
+5, Matteo Scozzarella, ITA, M, 1.70, 68, 05-06-88, Trieste, Monza
+61, Giuseppe Carriero, ITA, M, 1.77, 73, 04-09-97, Desio, Avellino
+99, Andrea Adorante, ITA, F, 1.84, 78, 05-02-00, Parma, Virtus Francavilla (On Loan)
+26, Luca Siligardi, ITA, F, 1.80, 72, 26-01-88, Correggio, Reggiana (On Loan)
+31, Giacomo Ricci, ITA, D, 1.84, 74, 02-09-96, Livorno, Venezia (On Loan)
+17, Jacopo Dezi, ITA, M, 1.78, 69, 10-02-92, Atri, Venezia
+36, Abdoul Hate Bane, ITA, D, 1.77, 67, 21-03-01, Parma, Gozzano (On Loan)
+44, Redi Kasa, ALB, M, 1.77, 66, 01-09-01, Parma, Fermana (On Loan)
+63, Andrea Dini, ITA, G, 1.84, 79, 20-02-96, Cattolica, Padova (On Loan)

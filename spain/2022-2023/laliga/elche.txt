@@ -1,0 +1,47 @@
+=  Elche - Spanish LaLiga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Axel Werner, ARG, G, 1.92, 85, 28-02-96, Rafaela, Atlético Madrid
+2, Lautaro Blanco, ARG, D, 1.76, 81, 19-02-99, Rosario, Rosario Central
+3, Enzo Roco, CHI, D, 1.88, 82, 16-08-92, Santiago, Fatih Karagümrük
+4, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Málaga
+5, Gonzalo Verdú, ESP, D, 1.85, 80, 21-10-88, Cartagena, Cartagena
+6, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Eibar
+7, Lisandro Magallán, ARG, D, 1.82, 79, 27-09-93, La Plata, Ajax
+8, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza
+9, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Torino
+10, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Eibar
+11, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Málaga
+12, Pape Cheikh, ESP, M, 1.80, 68, 08-08-97, Dakar, Aris
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Reus
+14, Helibelton Palacios, COL, D, 1.77, 75, 11-06-93, Santander de Quilichao, Atlético Nacional
+15, Álex Collado, ESP, M, 1.73, 65, 22-04-99, Sabadell, Barcelona B
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Las Palmas
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+18, Randy Nteka, FRA, M, 1.89, 75, 06-12-97, Paris, Rayo Vallecano
+19, Ezequiel Ponce, ARG, F, 1.76, 72, 29-03-97, Rosario, Spartak Moscow
+20, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Girona
+21, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Schalke
+22, Nicolás Fernández, ARG, D, 1.72, 68, 11-01-00, Capital Federal, San Lorenzo
+23, Carlos Clerc, ESP, D, 1.80, 72, 21-02-92, Barcelona, Levante
+24, Pol Lirola, ESP, D, 1.83, 76, 13-08-97, Mollet del Vallès, Marseille
+26, John Chetauya, ESP, D, 1.85, 67, 25-09-00, Murcia, Villarreal C
+27, Carles Marco, ESP, D, -, -, 05-04-00, -, Mirandés B
+28, Jesús López, ESP, G, -, -, 01-08-02, -, Elche B
+29, Branislav Knežević, SRB, M, 1.83, 71, 21-07-02, Šabac, Mačva Šabac
+30, Rodrigo Mendoza, ESP, M, 1.82, 72, 15-03-05, Murcia, Elche B
+31, Juanpe Navarro, ESP, G, 1.83, 74, 21-08-98, Murcia, Cartagena B
+32, Alejandro Alfaro, ESP, M, -, -, 15-06-02, -, Elche B
+33, Manu Cocca, ARG, M, -, -, 08-11-02, Buenos Aires, Universidad de Guadalajara
+34, Javi Pamies, ESP, D, -, -, 17-03-03, -, Elche B
+36, Luismi Quirant, ESP, G, -, -, 28-10-04, -, Elche B
+40, José Ángel Carmona, ESP, D, 1.83, 80, 29-01-02, El Viso del Alcor, Sevilla B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Johan Mojica, COL, D, 1.85, 66, 21-08-92, Cali, Villarreal
+2, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Al-Duhail
+7, Javier Pastore, ARG, M, 1.87, 78, 20-06-89, Córdoba, Qatar SC
+18, Roger, ESP, F, 1.79, 74, 03-01-91, Torrent, Cádiz (On Loan)
+12, Domingos Quina, POR, M, 1.79, 65, 18-11-99, Bissau, Watford

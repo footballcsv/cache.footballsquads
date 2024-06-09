@@ -1,0 +1,55 @@
+=  SPAL - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Atalanta
+3, Luca Ranieri, ITA, D, 1.85, 74, 23-04-99, La Spezia, Fiorentina
+4, Nenad Tomović, SRB, D, 1.84, 81, 30-08-87, Kragujevac, Chievo Verona
+5, Jacopo Segre, ITA, M, 1.85, 75, 17-02-97, Turin, Torino
+6, Salvatore Esposito, ITA, M, 1.78, 70, 07-10-00, Castellammare di Stabia, Internazionale
+7, Simone Missiroli, ITA, M, 1.91, 77, 23-05-86, Reggio Calabria, Sassuolo
+8, Mattia Valoti, ITA, M, 1.87, 73, 06-09-93, Vicenza, Verona
+9, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, Atalanta
+10, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Bologna
+11, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, Lazio
+12, Cesare Galeotti, ITA, G, 1.83, 70, 02-11-02, Ferrara, None
+13, Georgi Tunjov, EST, M, 1.84, 71, 17-04-01, Narva, Narva Trans
+14, Federico Di Francesco, ITA, F, 1.71, 75, 14-06-94, Pisa, Sassuolo
+15, Federico Zanchetta, ITA, M, 1.71, 64, 23-03-02, Biella, Juventus
+16, Christopher Attys, HAI, M, 1.86, 74, 13-03-01, Saint-Maurice, Internazionale
+17, Leonardo Sernicola, ITA, D, 1.87, 81, 30-07-97, Civita Castellana, Sassuolo
+19, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, Spezia
+20, Caleb Okoli, NGA, D, 1.89, 69, 13-07-01, Vicenza, Atalanta
+22, Demba Thiam, SEN, G, 2.02, 87, 09-03-98, Dakar, None
+23, Francesco Vicari, ITA, D, 1.90, 80, 03-08-94, Rome, Novara
+25, Riccardo Spaltro, ITA, D, 1.84, 75, 19-02-00, Rome, Roma
+26, Andrea Rigon, ITA, G, 1.90, -, 05-09-03, Camposampiero, None
+27, Gabriel Strefezza, BRA, F, 1.68, 63, 18-04-97, São Paulo, Corinthians
+28, Tomasz Wozniak, POL, G, 1.95, 90, 07-01-02, Warsaw, Genoa
+29, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, Genoa
+32, Marco Sala, ITA, D, 1.77, 68, 04-06-99, Rho, Sassuolo
+33, Patryk Peda, POL, D, 1.90, 76, 16-04-02, Warsaw, Legia Warszawa
+41, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, Novara
+77, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Verona
+80, Demba Seck, SEN, F, 1.90, 81, 10-02-01, Guediawaye, None
+81, Malik Owolabi-Belewu, CAN, D, 1.88, 79, 03-07-02, Greenwich, Toronto FC
+90, Luca Moro, ITA, F, 1.80, 64, 25-01-01, Monselice, Padova
+91, Patrik Raitanen, FIN, D, 1.87, 77, 13-06-01, Ulvila, Fortuna Sittard
+93, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Atalanta
+94, Jaume Cuéllar, BOL, F, 1.73, 59, 23-08-01, Granollers, Barcelona
+97, Maurice Gomis, ITA, G, 1.93, 85, 10-11-97, Cuneo, Nocerina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Davide Mazzocco, ITA, M, 1.86, 75, 06-10-95, Feltre, Virtus Entella (On Loan)
+55, Krisztofer Horváth, HUN, M, 1.72, 63, 08-01-02, Hévíz, Torino
+91, Altin Kryeziu, SVN, M, 1.83, 70, 03-01-02, Kranj, Torino
+98, Riccardo Mastrilli, ITA, D, 1.85, 77, 30-05-97, Giulianova, Pontevomano
+5, Bartosz Salamon, POL, D, 1.96, 89, 01-05-91, Poznań, Lech Poznań
+21, Sebastiano Esposito, ITA, F, 1.86, 75, 02-07-02, Castellammare di Stabia, Internazionale
+95, Marko Janković, MNE, F, 1.72, 67, 09-07-95, Cetinje, Beitar Jerusalem
+19, Lucas Castro, ARG, M, 1.82, 76, 09-04-89, La Plata, Fatih Karagümrük
+77, Marco D'Alessandro, ITA, F, 1.73, 66, 17-02-91, Rome, Monza
+24, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Re-Registered (77)
+61, Stefano Minelli, ITA, G, 1.84, 76, 05-03-94, Brescia, Perugia
+99, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Sassuolo

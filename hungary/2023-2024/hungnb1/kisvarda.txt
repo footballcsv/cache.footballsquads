@@ -1,0 +1,38 @@
+=  Kisvárda - Hungarian Nemzeti Bajnokság I 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcell Kovács, HUN, G, 1.85, 71, 09-02-03, Nyíregyháza, Ferencváros
+3, Aleksandar Jovičić, BIH, D, 1.89, 82, 18-07-95, Banja Luka, HNK Gorica
+4, Bernardo Matić, CRO, M, 1.94, 84, 27-07-94, Sinj, Ordabasy
+5, Boban Nikolov, MKD, M, 1.80, 75, 28-07-94, Stip, FCSB
+6, Bence Ötvös, HUN, M, 1.82, 77, 13-03-98, Nyíregyháza, Nyíregyháza
+7, Driton Camaj, MNE, F, 1.82, 73, 07-03-97, Podgorica, Iskra Danilovgrad
+8, Bohdan Melnyk, UKR, D, 1.76, 68, 04-01-97, -, Vorskla Poltava
+9, Rafał Makowski, POL, M, 1.91, 78, 05-08-96, Warsaw, Śląsk Wrocław
+10, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, Vitória
+11, Lucas Marcolini, BRA, M, 1.76, 70, 06-05-89, Cornélio Procópio, Bodva Moldava nad Bodvou
+14, Branimir Cipetić, BIH, D, 1.84, 82, 24-05-95, Split, Lokomotiva Zagreb
+17, Norbert Balogh, HUN, F, 1.96, 78, 21-02-96, Debrecen, DAC Dunajská Streda
+18, Kevin Körmendi, HUN, D, 1.80, 74, 30-06-01, Zalaegerszeg, Puskás Akadémia
+19, Enes Alić, BIH, D, 1.75, 72, 03-09-99, Sarajevo, Domžale
+20, Jaroslav Navrátil, CZE, F, 1.85, 77, 30-12-91, Hustopeče, Go Ahead Eagles
+21, Andrija Filipović, CRO, F, 1.81, 73, 18-04-97, Rijeka, Aktobe
+23, Imre Antal Széles, HUN, D, 1.96, 84, 30-11-95, Győr, Gyirmót
+24, Dominik Kovačić, CRO, D, 1.92, 86, 05-01-94, Zagreb, FC U Craiova
+27, Jasmin Mešanović, BIH, F, 1.83, 78, 06-01-92, Tuzla, Sarajevo
+30, Danijel Petković, MNE, G, 1.94, 82, 25-05-93, Kotor, Angers
+40, Mario Ilievski, MKD, F, 1.81, 73, 24-04-02, Skopje, Septemvri Sofia
+41, Roland Bíró, HUN, M, -, -, 30-05-03, Nyíregyháza, None
+42, Tibor Lippai, HUN, D, 1.85, 78, 24-12-97, Kisvárda, Kazincbarcika
+44, Raúl Stefan, ESP, D, -, -, 11-06-04, Madrid, Getafe
+97, Miloš Spasić, SRB, F, 1.85, 72, 29-07-97, Piot, Radnik Surdulica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Levente Szőr, HUN, M, 1.82, 74, 14-01-01, Kisvárda, Tiszakécske (On Loan)
+99, Mykhaylo Hotra, UKR, G, 1.90, 80, 20-04-00, -, 
+88, Erik Czérna, HUN, M, 1.71, 58, 07-05-03, Kisvárda, Budafok (On Loan)
+26, Yaroslav Helesh, UKR, F, -, -, 20-07-04, -, Szentlőrinc (On Loan)
+10, Kristopher Vida, HUN, M, 1.77, 73, 23-06-95, Budapest, Nyíregyháza (On Loan)
+37, Ádám Czékus, HUN, F, 1.78, 70, 01-02-03, Vrbas, Tiszakécske (On Loan)

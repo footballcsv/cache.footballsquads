@@ -1,0 +1,39 @@
+=  Eibar - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Alcorcón
+2, Esteban Burgos, ARG, D, 1.88, 84, 09-01-92, Salta, Alcorcón
+3, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Las Palmas
+4, Paulo Oliveira, POR, D, 1.87, 78, 08-01-92, Vila Nova de Famalicão, Sporting CP
+6, Sergio Álvarez, ESP, M, 1.80, 65, 23-01-92, Avilés, Sporting Gijón
+7, Quique, ESP, F, 1.75, 67, 16-05-90, Valladolid, Deportivo La Coruña
+8, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Espanyol
+9, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella de Menorca, Numancia
+10, Edu Expósito, ESP, M, 1.79, 68, 01-08-96, Barcelona, Deportivo La Coruña
+11, Rafa Soares, POR, D, 1.82, 75, 09-05-95, Marco de Canaveses, Vitória Guimarães
+12, Yoshinori Mutō, JPN, F, 1.78, 69, 15-07-92, Tokyo, Newcastle U
+13, Yoel, ESP, G, 1.86, 78, 28-08-88, Vigo, Valencia
+14, Takashi Inui, JPN, M, 1.69, 59, 02-06-88, Ōmihachiman, Betis
+15, José Ángel, ESP, D, 1.82, 77, 05-09-89, Gijón, FC Porto
+17, Kike, ESP, F, 1.86, 79, 25-11-89, Motilla del Palancar, Middlesbrough
+18, Recio, ESP, M, 1.82, 79, 11-01-91, Málaga, Leganés
+19, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Dinamo București
+20, Rober, ESP, D, 1.80, 76, 20-09-92, Badajoz, Cádiz
+21, Pedro León, ESP, M, 1.83, 70, 24-11-86, Mula, Getafe
+22, Álex Pozo, ESP, M, 1.74, 62, 22-02-99, Huévar del Aljarafe, Sevilla
+23, Anaitz Arbilla, ESP, D, 1.78, 76, 15-05-87, Pamplona, Espanyol
+24, Kévin Rodrigues, POR, M, 1.70, 70, 05-03-94, Bayonne, Real Sociedad
+25, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Sevilla B
+28, Eñaut Mendia, ESP, F, -, -, 25-06-99, Lezkao, Vitoria
+29, Unai Dufur, ESP, D, 1.87, 75, 21-02-99, Pamplona, Vitoria
+30, Jon Mikel Magunagoitia, ESP, G, 1.83, 79, 06-08-00, Amorebieta-Etxano, Vitoria
+32, Unai Arietaleanizbeaskoa, ESP, F, -, -, 21-01-99, -, Vitoria
+33, Miguel Ángel Atienza, ESP, M, 1.86, 77, 27-05-99, Madrid, Vitoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Álvaro Tejero, ESP, D, 1.72, 65, 20-07-96, Madrid, Zaragoza (On Loan)
+5, José Antonio Martínez, ESP, D, 1.88, 80, 12-02-93, La Palma del Condado, FC Dallas
+16, Roberto Olabe, ESP, M, 1.78, 70, 05-05-96, Salamanca, Tondela (On Loan)
+19, Damian Kądzior, POL, M, 1.73, 69, 16-06-92, Białystok, Alanyaspor (On Loan)

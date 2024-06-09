@@ -1,0 +1,67 @@
+=  Manchester City - English Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Claudio Bravo, CHI, G, 1.84, 80, 13-04-83, Viluco, Barcelona
+2, Kyle Walker, ENG, D, 1.83, 83, 28-05-90, Sheffield, Tottenham H
+3, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, Real Madrid
+4, Vincent Kompany, BEL, D, 1.93, 85, 10-04-86, Ukkel, Hamburg
+5, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Everton
+7, Raheem Sterling, ENG, M, 1.70, 69, 08-12-94, Kingston, Liverpool
+8, İlkay Gündoğan, GER, M, 1.80, 80, 24-10-90, Gelsenkirchen, Borussia Dortmund
+10, Sergio Agüero, ARG, F, 1.73, 70, 02-06-88, Capital Federal, Atlético Madrid
+14, Aymeric Laporte, FRA, D, 1.91, 87, 27-05-94, Agen, Athletic Bilbao
+15, Eliaquim Mangala, FRA, D, 1.87, 74, 13-02-91, Colombes, FC Porto
+17, Kevin De Bruyne, BEL, M, 1.81, 68, 28-06-91, Drongen, Wolfsburg
+18, Fabian Delph, ENG, M, 1.74, 60, 21-11-89, Bradford, Aston Villa
+19, Leroy Sané, GER, M, 1.83, 75, 11-01-96, Essen, Schalke
+20, Bernardo Silva, POR, M, 1.73, 62, 10-08-94, Lisbon, Monaco
+21, David Silva, ESP, M, 1.73, 67, 08-01-86, Arguineguín, Valencia
+22, Benjamin Mendy, FRA, D, 1.80, 72, 17-07-94, Longjumeau, Monaco
+25, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Shakhtar Donetsk
+26, Riyad Mahrez, ALG, M, 1.79, 62, 21-02-91, Sarcelles, Leicester C
+30, Nicolás Otamendi, ARG, D, 1.83, 81, 12-02-88, Pacheco, Valencia
+31, Ederson, BRA, G, 1.88, 89, 17-08-93, Osasco, Benfica
+32, Daniel Grimshaw, ENG, G, 1.85, 77, 16-01-98, Manchester, None
+33, Gabriel Jesus, BRA, F, 1.75, 73, 03-04-97, São Paulo, Palmeiras
+34, Philippe Sandler, NED, D, 1.88, 76, 10-02-97, Amsterdam, PEC Zwolle
+35, Oleksandr Zinchenko, UKR, D, 1.75, 61, 15-12-96, Illichivsk, FC Ufa
+47, Phil Foden, ENG, M, 1.71, 70, 28-05-00, Stockport, None
+49, Arijanet Murić, KVX, G, 1.97, 81, 07-11-98, Zürich, Grasshoppers
+50, Eric García, ESP, D, 1.82, 79, 09-01-01, Barcelona, Barcelona
+51, Nabil Touaizi, MAR, F, 1.83, 77, 01-02-01, Santomera, Valencia
+61, Felix Nmecha, ENG, M, 1.86, 70, 10-10-00, Hamburg, None
+64, Joel Latibeaudiere, ENG, D, 1.90, 71, 06-01-00, Doncaster, None
+66, Iker Pozo, ESP, M, , , 06-08-00, , Real Madrid
+69, Tommy Doyle, ENG, M, 1.72, 73, 17-10-01, Manchester, None
+70, Jayden Braaf, NED, F, 1.77, 65, 31-08-02, Amsterdam, PSV Eindhoven
+71, Jeremie Frimpong, NED, D, 1.75, 66, 10-12-00, Amsterdam, None
+72, Tom Dele-Bashiru, NGA, M, 1.79, 68, 17-09-99, Manchester, None
+73, Benjamín Garré, ARG, F, 1.72, 70, 11-06-00, Capital Federal, Vélez Sarsfield
+77, Cameron Humphreys, ENG, D, 1.87, 80, 22-08-98, Manchester, None
+78, Taylor Harwood-Bellis, ENG, D, 1.88, 82, 30-01-02, Stockport, None
+80, Lorenzo González, SUI, F, 1.69, 65, 10-04-00, Geneva, Servette
+81, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Paris St-Germain
+82, Adrián Bernabé, ESP, M, 1.70, 66, 26-05-01, Barcelona, Barcelona
+83, Ian Poveda, ENG, M, 1.65, 61, 09-02-00, Southwark, Brentford
+85, Colin Rösler, NOR, D, 1.86, 77, 22-04-00, Berlin, None
+87, Thomas Scott, ENG, G, , , 28-10-00, Leeds, None
+88, Alpha Dionkou, ESP, D, 1.83, 70, 10-10-01, Sindone, Mallorca
+89, Taylor Richards, ENG, M, 1.80, 71, 04-12-00, Hammersmith, None
+90, Tyreke Wilson, IRL, D, 1.72, 66, 02-12-99, Dublin, Cherry Orchard
+91, Nathanael Ogbeta, ENG, D, 1.88, 81, 28-04-01, Salford, None
+92, Henri Ogunby, ENG, M, , , 21-01-01, Bolton, None
+93, Keyendrah Simmonds, ENG, F, , , 31-05-01, Manchester, None
+94, Louie Moulden, ENG, G, , , 06-01-02, Bolton, None
+95, Lewis Fiorini, SCO, M, , , 17-05-02, Manchester, None
+96, Ben Knight, ENG, M, , , 14-06-02, Cambridge, Ipswich T
+97, Rowan McDonald, ENG, M, 1.80, 75, 20-10-01, Oldham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Girona (On Loan)
+28, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Lyon
+55, Brahim Díaz, ESP, M, 1.70, 68, 03-08-99, Málaga, Real Madrid
+74, Luke Bolton, ENG, M, 1.74, 72, 07-10-99, Manchester, Wycombe W (On Loan)
+84, Rabbi Matondo, WAL, F, 1.75, 66, 09-09-00, Liverpool, Schalke
+86, Curtis Anderson, ENG, G, 1.83, 82, 27-09-00, Barrow, Charlotte Independence

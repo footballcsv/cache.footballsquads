@@ -1,0 +1,21 @@
+# German Bundesliga 2021/2022
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [Augsburg](augsburg.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [VfL Bochum](bochum.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hertha Berlin](hertha.txt)
+- [TSG 1899 Hoffenheim](hoffen.txt)
+- [1.FC Köln](koln.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FSV Mainz 05](mainz.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

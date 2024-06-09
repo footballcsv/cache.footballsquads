@@ -1,0 +1,69 @@
+=  West Bromwich Albion - English Premier League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, Manchester U
+2, Darnell Furlong, ENG, D, 1.80, 76, 31-10-95, Luton, QPR
+3, Kieran Gibbs, ENG, D, 1.79, 70, 26-09-89, Lambeth, Arsenal
+4, Hal Robson-Kanu, WAL, F, 1.84, 83, 21-05-89, Acton, Reading
+5, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Swansea C
+6, Semi Ajayi, NGA, D, 1.93, 83, 09-11-93, Crayford, Rotherham U
+7, Callum Robinson, IRL, F, 1.78, 75, 02-02-95, Northampton, Sheffield U
+8, Jake Livermore, ENG, M, 1.80, 76, 14-11-89, Enfield, Hull C
+10, Matt Phillips, SCO, M, 1.83, 75, 13-03-91, Aylesbury, QPR
+11, Grady Diangana, ENG, F, 1.80, 73, 19-04-98, Lubumbashi, West Ham U
+12, Matheus Pereira, BRA, F, 1.75, 67, 05-05-96, Belo Horizonte, Sporting CP
+13, Kamil Grosicki, POL, M, 1.80, 78, 08-06-88, Szczecin, Hull C
+14, Conor Townsend, ENG, D, 1.68, 62, 04-03-93, Hessle, Scunthorpe U
+17, Mbaye Diagne, SEN, F, 1.92, 86, 28-10-91, Dakar, Galatasaray
+18, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, Chelsea
+19, Romaine Sawyers, SKN, M, 1.75, 67, 02-11-91, Birmingham, Brentford
+20, Branislav Ivanović, SRB, D, 1.88, 86, 22-02-84, Sremska Mitrovica, Zenit St Petersburg
+21, Kyle Edwards, ENG, M, 1.72, 64, 17-02-98, Dudley, None
+22, Lee Peltier, ENG, D, 1.78, 73, 11-12-86, Liverpool, Cardiff C
+23, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, West Ham U
+25, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Brighton & HA
+27, Dara O'Shea, IRL, D, 1.85, 65, 04-03-99, Dublin, St Kevin's Boys
+29, Karlan Grant, ENG, F, 1.83, 70, 19-12-97, Greenwich, Huddersfield T
+30, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, Arsenal
+31, Andy Lonergan, ENG, G, 1.92, 87, 19-10-83, Preston, Stoke C
+32, Jamie Soule, ENG, F, 1.83, 75, 26-11-00, Cheltenham, None
+33, Saul Shotton, ENG, D, 1.84, 75, 10-11-00, Stoke-on-Trent, Bury
+35, Okay Yokuşlu, TUR, M, 1.88, 79, 09-03-94, İzmir, Celta Vigo
+39, Rico Richards, ENG, M, 1.75, 68, 27-09-03, Birmingham, None
+40, George Harmon, ENG, D, 1.80, 72, 08-12-00, Walsall, None
+42, Ted Cann, ENG, G, 1.88, 76, 27-12-00, Stockport, Liverpool
+43, Zak Delaney, IRL, D, -, -, 10-01-02, -, None
+44, Tyrese Dyce, ENG, D, -, -, 19-04-01, -, None
+45, Taylor Gardner-Hickman, ENG, D, 1.88, 77, 30-12-01, Stourbridge, None
+46, Thomas Sharpe, ENG, M, -, -, 17-12-00, Cheltenham, None
+47, Aksum White, ENG, D, -, -, 21-11-00, Birmingham, None
+48, Harry Williams, ENG, D, -, -, 15-08-02, -, None
+49, Caleb Taylor, ENG, D, -, -, 14-01-03, Burnley, None
+50, Zak Brown, ENG, M, 1.79, 68, 26-09-00, West Bromwich, None
+51, Toby King, ENG, M, -, -, 04-01-02, -, None
+52, Tom Solanke, ENG, M, 1.85, 74, 10-04-01, Birmingham, None
+53, Finley Thorndike, ENG, M, -, -, 05-03-02, Redditch, None
+54, Owen Windsor, ENG, F, 1.78, 70, 17-09-01, Swindon, Cirencester T
+55, Tom Fellows, ENG, F, 1.83, 67, 25-07-03, Solihull, None
+56, Modou Faal, GAM, F, -, -, 11-02-03, -, None
+57, Zac Ashworth, ENG, D, 1.81, 75, 06-09-02, King's Lynn, None
+58, Cheikh Diaby, FRA, F, 1.75, 68, 07-03-00, Créteil, Le Havre
+59, Jamie Emery, ENG, G, -, -, -, -, None
+60, Jovan Malcolm, ENG, F, -, -, 10-12-02, Birmingham, None
+61, Tim Iroegbunam, ENG, M, -, -, 30-06-03, West Bromwich, None
+62, Maksymilian Boruc, POL, G, 1.95, 72, 15-11-02, Warsaw, Stoke C
+63, Aurio Teixeira, ENG, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Kenneth Zohore, DEN, F, 1.94, 95, 31-01-94, Copenhagen, Millwall (On Loan)
+26, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Al-Ittihad [KSA] (On Loan)
+15, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, QPR (On Loan)
+23, Jonathan Bond, ENG, G, 1.93, 84, 19-05-93, Hemel Hempstead, LA Galaxy
+16, Rekeem Harper, ENG, M, 1.83, 64, 08-03-00, Birmingham, Birmingham C (On Loan)
+17, Filip Krovinović, CRO, M, 1.75, 70, 29-08-95, Zagreb, Benfica
+24, Cédric Kipré, CIV, D, 1.90, 77, 09-12-96, Paris, Charleroi (On Loan)
+28, Sam Field, ENG, M, 1.77, 73, 08-05-98, Stourbridge, QPR (On Loan)
+61, Sam French, ENG, G, -, -, 27-02-01, -, De-Registered
+64, Tim Iroegbunam, ENG, M, -, -, 30-06-03, West Bromwich, Re-Registered (61)

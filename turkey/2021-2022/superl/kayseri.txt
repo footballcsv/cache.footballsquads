@@ -1,0 +1,46 @@
+=  Kayserispor - Turkish Süper Lig 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cenk Gönen, TUR, G, 1.90, 84, 21-02-88, İzmir, Denizlispor
+3, Joseph Attamah, GHA, M, 1.80, 80, 22-05-94, Accra, İstanbul Başakşehir
+4, Dimitris Kolovetsios, GRE, D, 1.84, 74, 16-10-91, Larissa, Panathinaikos
+5, Majid Hosseini, IRN, D, 1.83, 76, 20-06-96, Karaj, Trabzonspor
+6, Ali Karimi, IRN, M, 1.86, 81, 11-02-94, Isfahan, Qatar SC
+7, Miguel Cardoso, POR, M, 1.76, 71, 19-06-94, Lisbon, Dynamo Moscow
+9, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Alanyaspor
+10, Olivier Kemen, FRA, M, 1.77, 78, 20-07-96, Metz, Niort
+11, Gökhan Sazdağı, TUR, F, 1.79, 72, 20-09-94, İstanbul, Boluspor
+12, Abdulkadir Taşdan, TUR, G, 1.92, 81, 18-06-03, Kocasinan, None
+14, Emre Demir, TUR, M, 1.75, 68, 15-01-04, Mersin, None
+15, Uğur Demirok, TUR, D, 1.85, 76, 08-07-88, Eyüp, Konyaspor
+17, Emrah Başsan, TUR, M, 1.77, 67, 17-04-92, Kocaeli, BB Erzurumspor
+19, Mario Gavranović, SUI, F, 1.75, 68, 24-11-89, Lugano, Dinamo Zagreb
+20, Carlos Mané, POR, F, 1.72, 66, 11-03-94, Lisbon, Rio Ave
+21, Lionel Carole, FRA, D, 1.82, 79, 12-04-91, Montreuil, Strasbourg
+23, İlhan Parlak, TUR, F, 1.81, 75, 18-01-87, Yahyali, Ankaragücü
+24, İbrahim Akdağ, TUR, M, 1.79, 70, 21-07-91, Fatih, Ankaragücü
+25, Bilal Bayazit, NED, G, 1.85, 76, 08-04-99, Amsterdam, Vitesse
+26, Mame Baba Thiam, SEN, F, 1.85, 79, 09-10-92, Ngiudile, Fenerbahçe
+27, Onur Bulut, GER, D, 1.81, 70, 16-04-94, Werdohl, Alanyaspor
+28, Ramazan Civelek, TUR, M, 1.72, 64, 22-01-96, İstanbul, Fatih Karagümrük
+32, Karahan Yasir Subaşı, TUR, D, 1.80, 73, 01-01-96, Sakarya, Fenerbahçe
+33, Silviu Lung Jr., ROU, G, 1.89, 84, 04-06-89, Craiova, Astra Giurgiu
+43, Bernard Mensah, GHA, M, 1.80, 73, 17-10-94, Accra, Atlético Madrid
+45, Mert Çetin, TUR, D, 1.89, 90, 01-01-97, Çankaya, Roma
+54, Arif Kocaman, TUR, D, 1.84, 75, 14-09-93, Kütahya, Sakaryaspor
+61, Abdulkadir Parmak, TUR, M, 1.76, 66, 28-12-94, Trabzon, Trabzonspor
+66, Jocelyn Janneh, SLE, M, -, -, 06-12-02, Freetown, None
+88, Gustavo Campanharo, BRA, M, 1.78, 66, 04-04-92, Caxias do Sul, Chapecoense
+91, Andrea Bertolacci, ITA, M, 1.79, 72, 11-01-91, Rome, Fatih Karagümrük
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Doğan Alemdar, TUR, G, 1.80, 73, 29-10-02, Kocasinan, Rennes
+18, Zoran Kvržić, BIH, M, 1.80, 72, 07-08-88, Doboj, Slaven Belupo
+42, Kevin Luckassen, NED, F, 1.85, 80, 27-07-93, Eindhoven, Sepsi Sfântu Gheorghe (On Loan)
+89, Yaw Ackah, GHA, M, 1.69, 62, 01-06-99, Accra, Ankara Keçiörengücü (On Loan)
+96, Daniel Avramovski, MKD, M, 1.84, 69, 20-02-95, Skopje, Sarajevo
+80, Anthony Uzodimma, NGA, M, 1.76, 66, 17-04-99, Eziala, Ankara Keçiörengücü (On Loan)
+77, Nurettin Korkmaz, TUR, M, 1.72, 70, 27-06-02, Kayseri, Trofense (On Loan)
+8, Manuel Fernandes, POR, M, 1.76, 75, 05-02-86, Lisbon, Apollon Smyrnis

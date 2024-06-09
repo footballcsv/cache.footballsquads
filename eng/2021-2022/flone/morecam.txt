@@ -1,0 +1,46 @@
+=  Morecambe - English Football League One 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, Rochdale
+3, Greg Leigh, JAM, D, 1.81, 73, 30-09-94, Manchester, Aberdeen
+4, Anthony O'Connor, IRL, D, 1.88, 80, 25-10-92, Cork, Bradford C
+5, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Burnley
+7, Wes McDonald, ENG, F, 1.74, 77, 04-05-97, Lambeth, Walsall
+8, Toumani Diagouraga, FRA, M, 1.88, 72, 09-06-87, Paris, Swindon T
+9, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+10, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+11, Dylan Connolly, IRL, M, 1.76, 69, 02-05-95, Dublin, Northampton T
+12, André Mendes, POR, G, -, -, 15-05-03, -, Benfica
+14, Jonathan Obika, ENG, F, 1.85, 78, 12-09-90, Enfield, St Mirren
+16, Jacob Mensah, GHA, M, -, -, 18-07-00, Lambeth, Weymouth
+17, Jonah Ayunga, KEN, F, 1.88, 80, 24-05-97, Beaminster, Bristol R
+18, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Burnley
+19, Shane McLoughlin, IRL, M, 1.75, 70, 01-03-97, Castleisland, AFC Wimbledon
+21, Ryan Cooney, ENG, D, 1.79, 77, 26-02-00, Manchester, Burnley
+22, Liam Gibson, ENG, D, 1.85, 80, 25-04-97, Stanley, Newcastle U
+23, Freddie Price, ENG, M, 1.78, 69, 27-04-03, Stafford, None
+24, Arthur Gnahoua, FRA, F, 1.87, 80, 18-09-92, London, Bolton W
+25, Alfie McCalmont, NIR, M, 1.67, 63, 25-03-00, Thirsk, Leeds U
+26, Connor Pye, ENG, D, -, -, 06-11-03, Liverpool, None
+27, Ousmane Fané, FRA, M, 1.93, 80, 13-12-93, Paris, UiTM
+29, Adam Mayor, ENG, F, 1.78, 70, 10-04-04, Liverpool, None
+30, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, Dundee U
+31, Rhys Bennett, ENG, D, 1.91, 76, 01-09-91, Radcliffe, Gillingham
+32, Cameron Rooney, ENG, M, -, -, -, -, None
+33, Jamie Nicholson, ENG, F, -, -, -, -, None
+41, Adam Smith, ENG, G, 1.80, 76, 23-01-92, Sunderland, Stevenage
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Kelvin Mellor, ENG, D, 1.88, 75, 25-01-91, Copenhagen, Carlisle U
+5, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Charlton Ath
+11, Josh McPake, SCO, M, 1.83, 70, 31-08-01, Coatbridge, Rangers
+30, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Retired
+31, Scott Wootton, ENG, D, 1.88, 78, 12-09-91, Birkenhead, Wellington Phoenix
+20, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Reading
+27, Shayon Harrison, ENG, F, 1.83, 68, 13-07-97, Hornsey, Hayes & Yeading U
+6, Callum Jones, WAL, M, 1.78, 80, 05-04-01, Birkenhead, Hull C
+15, Ryan Delaney, IRL, D, 1.82, 72, 06-09-96, Wexford, Scunthorpe U (On Loan)
+1, Kyle Letheren, WAL, G, 1.88, 83, 26-12-87, Swansea, 
+28, Courtney Duffus, IRL, F, 1.70, 76, 24-10-95, Cheltenham, Stockport Co (On Loan)

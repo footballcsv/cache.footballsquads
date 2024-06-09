@@ -1,0 +1,44 @@
+=  Atalanta - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, Udinese
+2, Rafael Tolói, ITA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, São Paulo
+3, Joakim Mæhle, DEN, D, 1.84, 80, 20-05-97, Østervrå, KRC Genk
+5, Caleb Okoli, NGA, D, 1.91, 91, 13-07-01, Vicenza, None
+6, José Luis Palomino, ARG, D, 1.88, 87, 05-01-90, San Miguel de Tucumán, Ludogorets Razgrad
+7, Teun Koopmeiners, NED, M, 1.83, 77, 28-02-98, Amsterdam, AZ Alkmaar
+9, Luis Muriel, COL, F, 1.79, 79, 16-04-91, Santo Tomás, Sevilla
+10, Jérémie Boga, CIV, F, 1.72, 68, 03-01-97, Marseille, Sassuolo
+11, Ademola Lookman, NGA, F, 1.74, 78, 20-10-97, Wandsworth, RB Leipzig
+13, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, Salernitana
+15, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Middlesbrough
+17, Rasmus Højlund, DEN, F, 1.92, 85, 04-02-03, Copenhagen, Sturm Graz
+19, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Zürich, Zürich
+22, Matteo Ruggeri, ITA, D, 1.79, 79, 11-07-02, San Giovanni Bianco, None
+23, Lukáš Vorlický, CZE, F, 1.86, 76, 18-01-02, Boskovice, Zbrojovka Brno
+28, Merih Demiral, TUR, D, 1.92, 86, 05-03-98, Kocaeli, Juventus
+31, Francesco Rossi, ITA, G, 1.93, 83, 27-04-91, Merate, None
+33, Hans Hateboer, NED, D, 1.87, 74, 09-01-94, Beerta, FC Groningen
+40, Matteo Colombo, ITA, M, -, -, 09-03-04, Bollate, None
+41, Mannah Chiwisa, ZAM, M, 1.78, 75, 12-12-03, -, Sammaurese
+42, Giorgio Scalvini, ITA, D, 1.94, 76, 11-12-03, Chiari, None
+43, Lorenzo Bernasconi, ITA, D, 1.90, 72, 16-11-03, Crema, Cremonese
+44, Leonardo Mendicino, ITA, M, 1.82, -, 25-06-06, Carate Brianza, None
+45, Endri Muhameti, ALB, M, 1.81, -, 12-07-04, -, None
+46, Marco Palestra, ITA, D, 1.86, 76, 03-03-05, Buccinasco, None
+47, Tommaso Bertini, ITA, G, 1.88, 85, 13-01-04, Lucca, None
+48, Tommaso De Nipoti, ITA, F, 1.80, 64, 23-07-03, Udine, Udinese
+50, Tommaso Del Lungo, ITA, D, 1.86, 78, 21-11-03, Florence, Grassina
+51, Iacopo Regonesi, ITA, D, 1.83, 76, 28-03-04, Bergamo, None
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Poggibonsi
+77, Davide Zappacosta, ITA, D, 1.85, 70, 11-06-92, Sora, Chelsea
+88, Mario Pašalić, CRO, M, 1.88, 82, 09-02-95, Mainz, Chelsea
+91, Duván Zapata, COL, F, 1.89, 88, 01-04-91, Cali, Sampdoria
+93, Brandon Soppy, FRA, D, 1.81, 80, 21-02-02, Argenteuil, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Nottingham F
+18, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, Marseille (On Loan)
+21, Nadir Zortea, ITA, D, 1.75, 70, 19-06-99, Feltre, Sassuolo (On Loan)

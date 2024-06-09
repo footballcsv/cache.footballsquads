@@ -1,0 +1,39 @@
+=  Arouca - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Valido, POR, G, 1.85, 76, 03-03-00, Setúbal, Vitória Setúbal
+2, Morlaye Sylla, GUI, M, 1.70, 64, 23-07-98, Conakry, Horoya AC
+3, Robson Bambu, BRA, D, 1.84, 70, 12-11-97, São Vicente, Nice
+4, Francisco Montero, ESP, D, 1.80, 75, 14-01-99, Seville, Beşiktaş
+5, David Simão, POR, D, 1.79, 81, 15-05-90, Versailles, AEK
+6, Mateus Quaresma, BRA, D, 1.81, 76, 22-08-96, Bom Retiro do Sul, America-RJ
+7, Yusuf Lawal, NGA, F, 1.75, 70, 23-03-98, Lagos, Neftchi Baku
+8, Eboue Kouassi, CIV, M, 1.85, 70, 13-12-97, Abidjan, KRC Genk
+9, Alfonso Trezza, URU, F, 1.66, 59, 22-06-99, Florida, Nacional [URU]
+10, Jason, ESP, M, 1.78, 65, 06-07-94, La Coruña, Alavés
+11, Miguel Puche, ESP, F, 1.79, 74, 30-04-01, Tarazona, Zaragoza
+12, Ignacio De Arruabarrena, URU, G, 1.81, 78, 16-01-97, Montevideo, Montevideo Wanderers
+13, Matías Rocha, URU, D, 1.83, 77, 13-02-01, Paysandú, Defensor Sporting
+14, Oriol Busquets, ESP, M, 1.85, 78, 20-01-99, Sant Feliu de Guíxols, Clermont
+15, Vladislav Morozov, BLR, F, 1.88, 84, 12-10-00, Brest, Dinamo Minsk
+16, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, Estoril
+17, Yaw Moses, GHA, M, 1.70, 66, 07-01-99, Accra, Charity Stars
+18, Benji Michel, USA, F, 1.78, 75, 23-10-97, Orlando, Orlando C
+19, Rafa Mújica, ESP, F, 1.83, 70, 29-10-98, Las Palmas, Las Palmas
+20, Pedro Moreira, POR, M, 1.82, 75, 15-03-89, Lousada, Hermannstadt
+22, Bogdan Milovanov, UKR, D, 1.78, 75, 19-04-98, Luhansk, Sporting Gijón
+23, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Udinese
+25, Yanis Hamache, ALG, D, 1.77, 81, 13-07-99, Marseille, Dnipro-1
+26, Weverton, BRA, D, 1.81, 74, 15-06-99, Maceió, Red Bull Bragantino
+28, Tiago Esgaio, POR, D, 1.75, 68, 01-08-95, Nazaré, Sporting Braga
+43, Vitinho, BRA, M, 1.74, 70, 04-01-00, Guarulhos, Corinthians
+44, Nino Galović, CRO, D, 1.84, 79, 06-07-92, Split, Rijeka
+79, Ricardo Ferreira, POR, F, 1.78, 70, 10-12-05, Arouca, None
+89, Pedro Santos, POR, M, 1.83, 75, 12-10-00, Porto, Sporting Braga
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Jerome Opoku, ENG, D, 1.94, 79, 14-10-98, Lambeth, İstanbul Başakşehir (On Loan)
+64, Rafael Fernandes, POR, D, 1.91, 83, 28-06-02, Setúbal, Lille
+30, André Bukia, CGO, F, 1.73, 65, 03-03-95, Kinshasa, Espérance

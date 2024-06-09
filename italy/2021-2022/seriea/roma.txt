@@ -1,0 +1,50 @@
+=  Roma - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Patrício, POR, G, 1.90, 84, 15-02-88, Marrazes, Wolverhampton W
+2, Rick Karsdorp, NED, D, 1.84, 80, 11-02-95, Schoonhoven, Feyenoord
+3, Roger Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Atalanta
+4, Bryan Cristante, ITA, M, 1.86, 80, 03-03-95, San Vito al Tagliamento, Atalanta
+5, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Palmeiras
+6, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Manchester U
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+9, Tammy Abraham, ENG, F, 1.90, 80, 02-10-97, Camberwell, Chelsea
+11, Carles Pérez, ESP, F, 1.73, 75, 16-02-98, Granollers, Barcelona
+14, Eldor Shomurodov, UZB, F, 1.90, 81, 29-06-95, Jarkurgan, Genoa
+15, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, Arsenal
+17, Jordan Veretout, FRA, M, 1.77, 67, 01-03-93, Ancenis, Fiorentina
+18, Davide Santon, ITA, D, 1.87, 77, 02-01-91, Portomaggiore, Internazionale
+22, Nicolò Zaniolo, ITA, M, 1.90, 79, 02-07-99, Massa, Internazionale
+23, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Pontedera, Atalanta
+24, Marash Kumbulla, ALB, D, 1.91, 78, 08-02-00, Peschiera del Garda, Verona
+27, Sérgio Oliveira, POR, M, 1.79, 71, 02-06-92, Paços de Brandão, FC Porto
+37, Leonardo Spinazzola, ITA, D, 1.86, 75, 25-03-93, Foligno, Juventus
+42, Amadou Diawara, GUI, M, 1.83, 75, 17-07-97, Conakry, Napoli
+52, Edoardo Bove, ITA, M, 1.74, 61, 16-05-02, Rome, None
+55, Ebrima Darboe, GAM, M, 1.78, 69, 06-06-01, Bakoteh, None
+58, Filippo Missori, ITA, D, 1.82, 77, 24-03-04, Rome, None
+59, Nicola Zalewski, POL, F, 1.73, 62, 23-01-02, Tivoli, None
+60, Maissa Ndiaye, SEN, D, 1.88, 83, 28-01-02, Dakar, Afro-Napoli U
+62, Cristian Volpato, AUS, F, 1.87, 78, 15-11-03, Camperdown, None
+63, Pietro Boer, ITA, G, 1.93, 80, 12-05-02, Mestre, Venezia
+64, Felix Afena-Gyan, GHA, F, 1.75, 75, 19-01-03, Sunyani, EurAfrica Academy
+65, Filippo Tripi, ITA, D, 1.80, 69, 06-01-02, Rome, None
+67, Davide Mastrantonio, ITA, G, 1.87, 79, 16-01-04, Rome, None
+68, Joel Voelkerling Persson, SWE, F, 1.81, 65, 15-01-03, Dalköpinge, Trelleborgs FF
+72, Gabriele Baldi, ITA, G, 1.96, -, 24-08-04, Rome, None
+74, Jan Oliveras, ESP, D, 1.72, 75, 07-07-04, Manresa, Barcelona
+75, Dimitrios Keramitsis, ITA, D, 1.93, 78, 01-07-04, Thessaloniki, Empoli
+77, Henrikh Mkhitaryan, ARM, M, 1.77, 75, 21-01-89, Yerevan, Arsenal
+87, Daniel Fuzato, BRA, G, 1.90, 88, 04-07-97, Santa Bárbara d'Oeste, Palmeiras
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Shanghai Shenhua
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Javier Pastore, ARG, M, 1.87, 78, 20-06-89, Córdoba, Elche
+15, Steven Nzonzi, FRA, M, 1.96, 75, 15-12-88, Colombes, Al-Rayyan
+8, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Getafe (On Loan)
+21, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid
+13, Riccardo Calafiori, ITA, D, 1.83, 78, 19-05-02, Rome, Genoa (On Loan)
+19, Bryan Reynolds, USA, D, 1.88, 75, 28-06-01, Fort Worth, Kortijk (On Loan)
+20, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Capital Federal, Salernitana

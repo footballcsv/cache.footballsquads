@@ -1,0 +1,57 @@
+=  Genoa - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 85, 10-11-92, Latina, Juventus
+2, Cristián Zapata, COL, D, 1.86, 82, 30-09-86, Padilla Cauca, Milan
+4, Domenico Criscito, ITA, D, 1.83, 70, 30-12-86, Cercola, Zenit St Petersburg
+5, Edoardo Goldaniga, ITA, D, 1.93, 82, 02-11-93, Milan, Sassuolo
+9, Gianluca Scamacca, ITA, F, 1.95, 85, 01-01-99, Rome, Sassuolo
+11, Valon Behrami, SUI, M, 1.85, 71, 19-04-85, Mitrovica, Sion
+14, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, Avellino
+16, Miha Zajc, SVN, M, 1.80, 76, 01-07-94, Šempeter pri Gorici, Fenerbahçe
+17, Manolo Portanova, ITA, M, 1.83, 77, 02-06-00, Naples, Juventus
+18, Paolo Ghiglione, ITA, M, 1.91, 80, 02-02-97, Voghera, None
+19, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Galatasaray
+20, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, Marseille
+21, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Chievo Verona
+22, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, Lazio
+23, Mattia Destro, ITA, F, 1.82, 80, 20-03-91, Ascoli Piceno, Bologna
+24, Filippo Melegoni, ITA, M, 1.86, 74, 18-02-99, Bergamo, Atalanta
+25, Jérôme Onguéné, FRA, D, 1.86, 76, 22-12-97, Mbalayo, Red Bull Salzburg
+29, Francesco Cassata, ITA, M, 1.83, 75, 16-07-97, Sarzana, Sassuolo
+30, Giuseppe Caso, ITA, F, 1.72, 67, 09-12-98, Torre Annunziata, Arezzo
+32, Alberto Andrea Paleari, ITA, G, 1.93, 88, 29-08-92, Giussano, Cittadella
+37, Marko Pjaca, CRO, F, 1.86, 85, 06-05-95, Zagreb, Juventus
+38, Lukáš Zima, CZE, G, 1.96, 80, 09-01-94, Hradec Králové, Slavia Prague
+47, Milan Badelj, CRO, M, 1.86, 80, 25-02-89, Zagreb, Lazio
+55, Andrea Masiello, ITA, D, 1.84, 82, 05-02-86, Viareggio, Atalanta
+61, Eldor Shomurodov, UZB, F, 1.90, 76, 29-06-95, Jarkurgan, FC Rostov
+65, Nicolò Rovella, ITA, M, 1.79, 70, 04-12-01, Segrate, Juventus
+71, Giuseppe Agostino, ITA, G, 1.89, 78, 21-12-02, Savona, None
+77, Davide Zappacosta, ITA, D, 1.85, 70, 11-06-92, Sora, Chelsea
+88, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Juventus
+89, Steve Eyango, FRA, M, 1.80, 71, 20-02-01, Paris, Bordeaux
+90, Daniel Dumbravanu, MDA, D, 1.92, 66, 22-07-01, Bălți, Zaria Bălți
+91, Yayah Kallon, SLE, F, 1.75, 70, 30-06-01, Kono, Savona
+92, Elmando Gjini, ALB, D, 1.97, 93, 28-08-02, Shkoder, IF Brommapojkarna
+99, Lennart Czyborra, GER, D, 1.81, 72, 03-05-99, Berlin, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Peter Ankersen, DEN, D, 1.80, 73, 22-09-90, Esbjerg, FC København
+25, Claudio Spinelli, ARG, F, 1.80, 82, 21-06-97, Capital Federal, Koper (On Loan)
+33, Marcos Curado, ARG, D, 1.86, 80, 09-05-95, Mar del Plata, Frosinone (On Loan)
+3, Federico Valietti, ITA, D, 1.85, 73, 25-01-99, Bergamo, Carrarese (On Loan)
+15, Filip Jagiełło, POL, M, 1.80, 70, 08-08-97, Lubin, Brescia (On Loan)
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, SC Heerenveen
+26, Claudiu Micovschi, ROU, M, 1.80, 73, 19-05-99, Oradea, Reggina (On Loan)
+17, Petar Brlek, CRO, M, 1.80, 74, 29-01-94, Varaždin, Osijek
+27, Stefano Sturaro, ITA, M, 1.81, 82, 09-03-93, Sanremo, Verona (On Loan)
+45, Joel Asoro, SWE, F, 1.75, 75, 27-04-99, Stockholm, Swansea C
+8, Lukas Lerager, DEN, M, 1.88, 80, 12-07-93, Gladsaxe, FC København (On Loan)
+13, Mattia Bani, ITA, D, 1.88, 81, 10-12-93, Borgo San Lorenzo, Parma (On Loan)
+28, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, SPAL (On Loan)
+44, Paweł Jaroszyński, POL, D, 1.84, 78, 02-10-94, Lublin, Salernitana (On Loan)
+70, Vittorio Parigini, ITA, F, 1.80, 75, 25-03-96, Moncalieri, Ascoli (On Loan)
+79, Darian Males, SUI, F, 1.85, 76, 03-05-01, Lucerne, Internazionale

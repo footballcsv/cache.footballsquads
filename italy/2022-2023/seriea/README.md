@@ -1,0 +1,23 @@
+# Italian Serie A 2022/2023
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cremonese](cremonese.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Monza](monza.txt)
+- [Napoli](napoli.txt)
+- [Roma](roma.txt)
+- [Salernitana](salern.txt)
+- [Sampdoria](sampdor.txt)
+- [Sassuolo](sassuolo.txt)
+- [Spezia](spezia.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)

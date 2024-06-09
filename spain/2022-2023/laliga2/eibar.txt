@@ -1,0 +1,39 @@
+=  Eibar - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ander Cantero, ESP, G, 1.89, 82, 09-01-95, Pamplona, Lugo
+2, Chema Rodríguez, ESP, D, 1.89, 80, 03-03-92, Caudete, Getafe
+3, Frederico Venâncio, POR, D, 1.86, 77, 04-02-93, Setúbal, Vitória Guimarães
+4, Rober, ESP, D, 1.80, 76, 20-09-92, Badajoz, Cádiz
+5, Juan Berrocal, ESP, D, 1.84, 72, 05-02-99, Jerez de la Frontera, Sevilla B
+6, Sergio Álvarez, ESP, M, 1.80, 65, 23-01-92, Avilés, Sporting Gijón
+7, Quique, ESP, F, 1.75, 67, 16-05-90, Valladolid, Deportivo La Coruña
+8, Matheus Pereira, BRA, M, 1.81, 68, 25-02-98, São Paulo, Barcelona B
+9, Gustavo Blanco Leschuk, ARG, F, 1.91, 85, 05-11-91, Mendoza, Antalyaspor
+10, Ager Aketxe, ESP, M, 1.75, 67, 30-12-93, Bilbao, Almería
+11, Yanis Rahmani, FRA, M, 1.79, 73, 13-05-95, Champigny-sur-Marne, Almería
+13, Yoel, ESP, G, 1.86, 78, 28-08-88, Vigo, Valencia
+14, Javi Muñoz, ESP, M, 1.77, 71, 28-02-95, Parla, Alavés
+15, Álvaro Tejero, ESP, D, 1.72, 65, 20-07-96, Madrid, Real Madrid B
+16, José Antonio Ríos, ESP, D, 1.82, 76, 10-05-90, Seville, Ponferradina
+17, José Corpas, ESP, M, 1.74, 66, 07-07-91, Baños de la Encina, Almería
+18, Jon Bautista, ESP, F, 1.80, 72, 03-07-95, Mahón, Real Sociedad
+19, Stoichkov, ESP, M, 1.78, 71, 05-11-93, San Roque, Mallorca
+20, Juan Carlos Arana, ESP, F, 1.78, 69, 08-02-00, Las Palmas, Villarreal B
+21, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Espanyol
+22, Peru Nolaskoain, ESP, D, 1.85, 76, 25-10-98, Zumaia, Athletic Bilbao
+23, Anaitz Arbilla, ESP, D, 1.78, 76, 15-05-87, Pamplona, Espanyol
+24, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Zaragoza
+25, Luca Zidane, FRA, G, 1.83, 78, 13-05-98, Marseille, Rayo Vallecano
+27, Óscar Carrasco, ESP, M, -, -, 28-08-02, -, San Cristóbal
+28, Iker Alday, ESP, D, -, -, 23-06-03, -, Vitoria
+30, Imanol García, ESP, D, 1.84, 75, 08-06-00, Gallarta, Athletic Bilbao B
+31, Ángel Troncho, ESP, M, -, -, 02-10-02, -, Vitoria
+32, Aritz Muguruza, ESP, D, -, -, 08-12-01, -, Vitoria
+33, Hodei Arrillaga, ESP, D, -, -, 21-05-04, Mutriku, Vitoria
+34, Markel Arana, ESP, D, -, -, -, -, Vitoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Antonio Cristian, ESP, D, 1.84, 78, 18-10-95, Algeciras, Albacete

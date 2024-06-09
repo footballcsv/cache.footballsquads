@@ -1,0 +1,40 @@
+=  Holstein Kiel - German 2.Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Timon Weiner, GER, G, 1.91, 83, 18-01-99, Essen, Schalke
+2, Mikkel Kirkeskov, DEN, D, 1.85, 80, 05-09-91, Aarhus, Zagłębia Lubin
+3, Marco Komenda, GER, D, 1.84, 76, 26-11-96, Darmstadt, Meppen
+4, Patrick Erras, GER, D, 1.95, 85, 21-01-95, Amberg, Werder Bremen
+5, Carl Johansson, SWE, D, 1.85, 80, 23-05-94, Lund, IFK Göteborg
+6, Marko Ivezić, SRB, M, 1.91, 83, 02-12-01, Belgrade, Voždovac
+7, Steven Skrzybski, GER, M, 1.73, 64, 18-11-92, Berlin, Schalke
+8, Finn Porath, GER, M, 1.81, 75, 23-02-97, Lübeck, Hamburg
+9, Benedikt Pichler, AUT, F, 1.84, 87, 20-07-97, Salzburg, Austria Vienna
+10, Lewis Holtby, GER, M, 1.74, 66, 18-09-90, Erkelenz, Blackburn R
+11, Alexander Bernhardsson, SWE, F, 1.85, 74, 08-09-98, Partille, IF Elfsborg
+13, Shuto Machino, JPN, F, 1.84, 73, 30-09-99, Mie, Shonan Bellmare
+15, Marvin Schulz, GER, M, 1.86, 79, 15-01-95, Mülheim an der Ruhr, Luzern
+16, Philipp Sander, GER, M, 1.85, 76, 21-02-98, Rostock, Hansa Rostock
+17, Timo Becker, GER, D, 1.90, 81, 25-03-97, Herten, Schalke
+18, Tom Rothe, GER, D, 1.93, 88, 29-10-04, Rendsburg, Borussia Dortmund
+19, Hólmbert Friðjónsson, ISL, F, 1.89, 85, 19-04-93, Kópavogur, Brescia
+20, Jann-Fiete Arp, GER, F, 1.84, 78, 06-01-00, Bad Segeberg, Bayern Munich
+21, Thomas Dähne, GER, G, 1.93, 84, 04-01-94, Oberaudorf, Wisła Płock
+22, Nicolai Remberg, GER, M, 1.88, 86, 19-06-00, Rheine, Preußen Münster
+23, Lasse Rosenboom, GER, D, 1.90, 74, 19-01-02, Aurich, Werder Bremen II
+26, Lucas Wolf, GER, M, 1.73, 65, 28-08-01, Eckernförde, None
+27, Joshua Mees, GER, M, 1.80, 70, 15-04-96, Lebach, Union Berlin
+28, Aurel Wagbe, GER, M, 1.91, 88, 04-02-04, Reinbek, Wolfsburg
+29, Niklas Niehoff, GER, F, 1.86, 79, 20-08-04, Wietmarschen, None
+31, Marcel Engelhardt, GER, G, 1.91, 87, 05-04-93, Greven, Zwickau
+32, Jonas Sterner, GER, M, 1.80, 75, 13-05-02, Husum, Hattstedt
+34, Colin Kleine-Bekel, GER, D, 1.91, 87, 24-01-03, Bielefeld, Borussia Dortmund
+38, Nico Carrera, USA, D, 1.93, 75, 06-05-02, Pachuca, FC Dallas
+39, Noah Oberbeck, GER, G, 1.91, 87, 09-12-02, -, Lübeck
+40, Tyler Doğan, GER, G, 1.87, 79, 18-11-05, Geesthacht, None
+41, Lio Rothenhagen, GER, G, 1.87, 79, 31-08-06, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Ba-Muaka Simakala, GER, F, 1.80, 79, 28-01-97, Eschweiler, Kaiserslautern (On Loan)

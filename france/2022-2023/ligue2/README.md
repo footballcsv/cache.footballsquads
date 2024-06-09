@@ -1,0 +1,23 @@
+# French Ligue 2 2022/2023
+
+20 teams
+- [Amiens](amiens.txt)
+- [Annecy](annecy.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Dijon](dijon.txt)
+- [Grenoble](grenoble.txt)
+- [Guingamp](guinga.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Metz](metz.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Paris FC](parisfc.txt)
+- [Pau](pau.txt)
+- [Quevilly-Rouen](quevilly.txt)
+- [Rodez](rodez.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Valenciennes](valenc.txt)

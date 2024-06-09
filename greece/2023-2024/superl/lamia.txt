@@ -1,0 +1,45 @@
+=  Lamia - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giannis Sourdis, GRE, G, 1.91, 80, 29-09-01, Voula, PAOK
+2, Stavros Vasilantonopoulos, GRE, D, 1.78, 62, 28-01-92, Egio, Atromitos
+3, Giorgos Saramantas, GRE, D, 1.76, 69, 29-01-92, Pyrgos, Panionios
+5, Adam Tzanetopoulos, GRE, D, 1.93, 85, 10-02-95, Volos, Apollon Smyrnis
+6, Theofanis Tzandaris, GRE, M, 1.80, 80, 13-06-93, Sochos, Spartak Trnava
+7, Cristopher Núñez, CRC, M, 1.71, 68, 08-12-97, Cartago, Cartaginés
+10, Carlos López, ESP, F, 1.75, 70, 12-06-90, Alicante, Legia Warszawa
+11, Rubén Martínez, ESP, M, 1.67, 60, 08-12-89, Mahón, Albacete
+12, Kosmas Tsilianidis, GRE, M, 1.80, 73, 09-05-94, Thessaloniki, OFI
+14, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Apollon Smyrnis
+15, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Cartagena
+16, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, Dynamo Kyiv
+17, Vasilis Chatziemmanouil, GRE, G, 1.88, 81, 09-08-99, Nea Makri, AEK
+18, Zoran Tošić, SRB, M, 1.71, 69, 28-04-87, Zrenjanin, Tobol Kostanay
+19, Flosard Malçi, ALB, F, 1.80, 72, 23-12-94, -, Kallithea
+20, Kyriakos Papadopoulos, GRE, D, 1.83, 78, 23-02-92, Katerini, FC U Craiova
+21, Omar Santana, ESP, M, 1.74, 65, 14-02-91, Las Palmas, Kallithea
+23, Sotiris Tsiloulis, GRE, M, 1.85, 76, 14-02-95, Larissa, Apollon Smyrnis
+24, Pedro Amaral, POR, D, 1.78, 70, 25-08-97, Sintra, Al-Khaleej
+26, Toshio Lake, NED, F, 1.75, 68, 26-03-01, Rotterdam, TOP Oss
+27, Caleb Stanko, USA, M, 1.80, 70, 26-07-93, Holly, Asteras Tripolis
+28, Konstantinos Lampropoulos, GRE, D, 1.90, 75, 21-04-03, -, None
+30, Vasilis Kontonikos, GRE, F, -, -, 11-10-05, -, None
+33, Giorgos Kornezos, GRE, D, 1.91, 85, 23-02-98, Athens, AEK
+45, Nikos Tsoukalos, GRE, F, 1.83, 77, 23-03-92, Lamia, Anagennisi Karditsa
+55, Alexei Koșelev, MDA, G, 2.00, 90, 19-11-93, Chișinău, Júbilo Iwata
+77, Alexandros Tereziou, GRE, F, 1.81, 70, 01-03-00, Nafplion, Panathinaikos
+94, Georgios Giannoutsos, GRE, D, 1.83, 76, 16-07-98, Psachna, Peyia 2014
+99, Nikolaos Tropoulos, GRE, G, 1.80, 78, 21-06-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+62, Tomás De Vincenti, ARG, M, 1.74, 72, 09-02-89, Capital Federal, Ionikos
+61, Petros Giakoumakis, GRE, F, 1.75, 70, 03-07-92, Heraklion, Ionikos
+66, Alan Dzagoev, RUS, M, 1.79, 70, 17-06-90, Beslan, Retired
+22, Aleksandr Pavlovets, BLR, D, 1.88, 82, 13-08-96, Barysaw, FC Orenburg
+60, Daniel Adejo, NGA, D, 1.83, 80, 07-08-89, Kachia, LFA Reggio Calabria
+1, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, PAS Giannina
+8, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Nàstic
+9, Samuele Longo, ITA, F, 1.86, 78, 12-01-92, Valdobbiadene, Ponferradina
+29, Mathías Acuña, URU, F, 1.74, 68, 28-11-92, Montevideo, Fénix

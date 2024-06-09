@@ -1,0 +1,40 @@
+=  Betis - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Robles, ESP, G, 1.95, 90, 17-06-90, Leganés, Everton
+2, Martín Montoya, ESP, D, 1.75, 73, 14-04-91, Gavà, Brighton & HA
+3, Víctor Camarasa, ESP, M, 1.83, 76, 28-05-94, Meliana, Levante
+4, Paul Akouokou, CIV, M, 1.81, 68, 20-12-97, Abidjan, Ekenäs IF
+5, Marc Bartra, ESP, D, 1.84, 75, 15-01-91, San Jaime dels Domenys, Borussia Dortmund
+6, Víctor Ruíz, ESP, D, 1.85, 78, 25-01-89, Esplugues de Llobregat, Beşiktaş
+7, Juanmi, ESP, F, 1.72, 69, 20-05-93, Coín, Real Sociedad
+8, Nabil Fekir, FRA, M, 1.73, 72, 18-07-93, Lyon, Lyon
+9, Borja Iglesias, ESP, F, 1.87, 79, 17-01-93, Santiago de Compostela, Celta Vigo
+10, Sergio Canales, ESP, M, 1.80, 74, 16-02-91, Santander, Real Sociedad
+11, Cristian Tello, ESP, M, 1.78, 65, 11-08-91, Sabadell, Barcelona
+12, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Deportivo La Coruña
+13, Dani Martín, ESP, G, 1.86, 76, 08-07-98, Gijón, Sporting Gijón
+14, William Carvalho, POR, M, 1.87, 79, 07-04-92, Luanda, Sporting CP
+15, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Rayo Vallecano
+16, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Marbella
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, El Puerto de Santa Maria, Fiorentina
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, PSV Eindhoven
+19, Yassin Fekir, FRA, F, 1.70, 65, 05-05-97, Lyon, Lyon
+20, Diego Lainez, MEX, M, 1.67, 58, 09-06-00, Villahermosa, América
+21, Guido Rodríguez, ARG, M, 1.85, 78, 12-04-94, Sáenz Peña, América
+22, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Atlético Mineiro
+23, Aïssa Mandi, ALG, D, 1.84, 78, 22-10-91, Châlons-en-Champagne, Reims
+24, Aitor Ruibal, ESP, F, 1.76, 74, 22-03-96, Manresa, Betis B
+25, Claudio Bravo, CHI, G, 1.84, 80, 13-04-83, Viluco, Manchester C
+28, Rodri, ESP, M, 1.68, 62, 16-05-00, Talayuela, Betis B
+30, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+31, Carlos Marín, ESP, G, 1.87, 79, 20-02-97, Almería, Atlético Madrid B
+32, Fran Delgado, ESP, D, 1.77, 62, 11-07-01, Écija, Betis B
+33, Juan Miranda, ESP, D, 1.85, 78, 19-01-00, Olivares, Barcelona B
+37, Geovanni Barba, ESP, D, 1.80, 69, 17-05-01, Puerto de Santa María, Betis B
+38, José Manuel Calderón, ESP, D, -, -, 07-01-00, Paradas, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Torino

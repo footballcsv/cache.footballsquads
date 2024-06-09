@@ -1,0 +1,55 @@
+=  Cagliari - Italian Serie A 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simone Aresti, ITA, G, 1.88, 78, 15-03-86, Carbonia, Olbia
+3, Edoardo Goldaniga, ITA, D, 1.93, 87, 02-11-93, Milan, Sassuolo
+4, Daniele Baselli, ITA, M, 1.82, 75, 12-03-92, Manerbio, Torino
+6, Marko Rog, CRO, M, 1.80, 74, 19-07-95, Varaždin, Napoli
+8, Răzvan Marin, ROU, M, 1.78, 75, 23-05-96, Bucharest, Ajax
+9, Keita Baldé, SEN, F, 1.84, 77, 08-03-95, Arbúcies, Monaco
+10, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Estoril
+12, Raoul Bellanova, ITA, D, 1.88, 78, 16-05-00, Rho, Bordeaux
+14, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, None
+15, Giorgio Altare, ITA, D, 1.90, 84, 09-08-98, Bergamo, Genoa
+16, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, Marseille
+18, Nahitan Nández, URU, M, 1.72, 70, 28-12-95, Punta del Este, Boca Juniors
+19, Luca Gagliano, ITA, F, 1.82, 75, 14-07-00, Alghero, None
+20, Gastón Pereiro, URU, M, 1.88, 79, 11-06-95, Montevideo, PSV Eindhoven
+21, Zito Luvumbo, ANG, M, 1.71, 65, 09-03-02, Luanda, 1º de Agosto
+22, Charalampos Lykogiannis, GRE, D, 1.90, 87, 22-10-93, Piraeus, Sturm Graz
+23, Luca Ceppitelli, ITA, D, 1.86, 83, 11-08-89, Castiglione del Lago, Parma
+25, Gabriele Zappa, ITA, D, 1.83, 78, 22-12-99, Monza, Pescara
+26, Nicolò Cavuoti, ITA, M, 1.80, 70, 04-04-03, Vasto, Vastese
+27, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Parma
+28, Alessio Cragno, ITA, G, 1.84, 78, 28-06-94, Fiesole, Brescia
+29, Dalbert, BRA, D, 1.82, 70, 08-09-93, Rio de Janeiro, Internazionale
+30, Leonardo Pavoletti, ITA, F, 1.88, 85, 26-11-88, Livorno, Napoli
+31, Boris Radunović, SRB, G, 1.94, 84, 26-05-96, Belgrade, Atalanta
+32, Damir Ceter, COL, F, 1.90, 81, 02-11-97, Buenaventura, Deportes Quindío
+33, Adam Obert, SVK, D, 1.86, 76, 23-08-02, Bratislava, Sampdoria
+34, Eugenio Fusco, ITA, G, 1.88, 72, 19-05-03, Fondi, None
+36, Isaías Delpupo, ARG, F, 1.76, 68, 31-03-03, Pergamino, None
+37, Andrea D'Aniello, ITA, G, 1.86, -, 08-05-03, Naples, Teramo
+38, Jacopo Desogus, ITA, F, 1.74, 71, 01-10-02, Cagliari, None
+39, Christos Kourfalidis, GRE, M, 1.78, 71, 11-11-02, Thessaloniki, Makedonikis Litis
+40, Sebastian Walukiewicz, POL, D, 1.88, 85, 05-04-00, Gorzów Wielkopolski, Pogoń Szczecin
+41, Luigi Palomba, ITA, D, 1.86, 75, 17-04-03, Padua, Padova
+42, Iurie Iovu, MDA, D, 1.96, 88, 06-07-02, Chișinău, Zimbru Chișinău
+43, Eldin Lolić, BIH, G, 1.90, 80, 15-05-04, Lyon, St-Etienne
+44, Andrea Carboni, ITA, D, 1.85, 80, 04-02-01, Sorgono, None
+45, Lisandru Tramoni, ITA, F, 1.80, 68, 18-04-03, Ajaccio, Ajaccio
+66, Matteo Lovato, ITA, D, 1.88, 78, 14-02-00, Monselice, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Alberto Cerri, ITA, F, 1.93, 91, 16-04-96, Parma, Como (On Loan)
+19, Roberto Biancu, ITA, M, 1.76, 70, 19-01-00, Sassari, Olbia (On Loan)
+9, Giovanni Simeone, ARG, F, 1.80, 81, 05-07-95, Buenos Aires, Verona (On Loan)
+12, Simone Pinna, ITA, D, 1.72, 68, 17-10-97, Oristano, Olbia
+17, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Benevento
+24, Paolo Faragò, ITA, M, 1.87, 80, 12-02-93, Catanzaro, Lecce (On Loan)
+2, Diego Godín, URU, D, 1.87, 78, 16-02-86, Rosario, Atlético Mineiro
+21, Christian Oliva, URU, M, 1.78, 75, 01-06-96, Ciudad del Plata, Talleres (Córdoba)
+4, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Levante
+35, Riccardo Ladinetti, ITA, M, 1.82, 78, 20-12-00, Cagliari, Olbia (On Loan)

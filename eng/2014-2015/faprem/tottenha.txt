@@ -1,0 +1,53 @@
+=  Tottenham Hotspur - English Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 78, 26-12-86, Nice, Lyon
+2, Kyle Walker, ENG, D, 1.78, 73, 28-05-90, Sheffield, Sheffield U
+3, Danny Rose, ENG, D, 1.73, 75, 02-07-90, Doncaster, Leeds U
+4, Younès Kaboul, FRA, D, 1.90, 87, 04-01-86, St-Julien-en-Genevois, Portsmouth
+5, Jan Vertonghen, BEL, D, 1.89, 79, 24-04-87, Sint-Niklaas, Ajax
+6, Vlad Chiricheş, ROU, D, 1.83, 75, 14-11-89, Bacău, Steaua Bucureşti
+8, Paulinho, BRA, M, 1.80, 71, 25-07-88, São Paulo, Corinthians
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Valencia
+10, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Manchester C
+11, Erik Lamela, ARG, M, 1.83, 73, 25-03-92, Florida, Roma
+12, DeAndre Yedlin, USA, D, 1.73, 68, 09-07-93, Seattle, Seattle Sounders
+13, Michel Vorm, NED, G, 1.83, 84, 20-10-83, Nieuwegein, Swansea C
+15, Eric Dier, ENG, D, 1.88, 63, 15-01-94, Cheltenham, Sporting CP
+17, Andros Townsend, ENG, M, 1.83, 76, 16-07-91, Whipps Cross, None
+18, Harry Kane, ENG, F, 1.83, 65, 28-07-93, Walthamstow, None
+19, Mousa Dembélé, BEL, M, 1.77, 70, 17-07-87, Wilrijk, Fulham
+21, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Ramos Mejía, Sevilla
+22, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, FC Twente
+23, Christian Eriksen, DEN, M, 1.75, 65, 14-02-92, Middelfart, Ajax
+24, Brad Friedel, USA, G, 1.88, 91, 18-05-71, Lakewood, Aston Villa
+25, Benjamin Stambouli, FRA, M, 1.80, 75, 13-08-90, Marseille, Montpellier
+29, Etienne Capoue, FRA, M, 1.89, 80, 11-07-88, Niort, Toulouse
+33, Ben Davies, WAL, D, 1.70, 76, 24-04-93, Neath, Swansea C
+38, Ryan Mason, ENG, M, 1.75, 71, 13-06-91, Enfield, None
+39, Cristian Ceballos, ESP, M, 1.73, 67, 03-12-92, Barcelona, Barcelona
+41, Miloš Veljković, SRB, D, 1.73, 69, 26-09-95, Basel, Basel
+42, Nabil Bentaleb, ALG, M, 1.87, 68, 24-11-94, Lille, Lille
+43, Alexander McQueen, ENG, D, 1.89, 70, 24-03-95, Rush Green, None
+44, Harry Winks, ENG, M, 1.78, 65, 02-02-96, Hemel Hempstead, None
+45, Connor Ogilvie, ENG, D, 1.82, 73, 14-02-96, Harlow, None
+47, Joshua Onomah, ENG, M, 1.80, 64, 27-04-97, Enfield, None
+48, Luke McGee, ENG, G, 1.88, 80, 02-09-95, Edgware, None
+51, Daniel Akindayini, ENG, F, 1.80, 72, 25-10-95, Plaistow, None
+53, William Miller, ENG, M, 1.75, 70, 08-06-96, Hackney, None
+55, Jonathan Miles, ENG, G, 1.81, 71, 29-03-93, Colchester, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Tom Carroll, ENG, M, 1.77, 71, 28-05-92, Watford, Swansea C (On Loan)
+20, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Hull C
+14, Lewis Holtby, GER, M, 1.74, 66, 18-09-90, Erkelenz, Hamburg (On Loan)
+35, Ezekiel Fryers, ENG, D, 1.83, 75, 09-09-92, Manchester, Crystal Palace
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, QPR
+16, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Swansea C
+46, Dominic Ball, NIR, D, 1.84, 75, 02-08-95, Welwyn Garden City, Cambridge U (On Loan)
+7, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Everton (On Loan)
+32, Benoît Assou-Ekotto, CMR, D, 1.80, 69, 24-03-84, Arras, 
+54, Emmanuel Sonupe, ENG, M, 1.80, 70, 21-03-96, Denmark Hill, St Mirren (On Loan)
+52, Rúben Lameiras, POR, M, 1.75, 70, 22-12-94, Lisbon, Åtvidabergs FF (On Loan)

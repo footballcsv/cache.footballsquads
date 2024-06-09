@@ -1,0 +1,46 @@
+=  Tenerife - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jon Ander Serantes, ESP, G, 1.83, 76, 04-01-89, Barakaldo, Avispa Fukuoka
+2, Otar Kakabadze, GEO, D, 1.85, 76, 27-06-95, Tbilisi, Luzern
+3, Álex Muñoz, ESP, D, 1.85, 74, 30-07-94, Alicante, Zaragoza
+4, Bruno Wilson, POR, D, 1.92, 82, 27-12-96, Lisbon, Sporting Braga
+5, Alberto Jiménez, ESP, D, 1.86, 78, 15-11-92, La Oliva, Tenerife B
+6, Valentín Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, Almería
+7, Jacobo González, ESP, F, 1.76, 66, 25-03-97, Madrid, Celta Vigo B
+8, Borja Lasso, ESP, M, 1.78, 72, 01-01-94, Seville, Sevilla
+9, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, Extremadura
+10, Suso, ESP, M, 1.74, 71, 02-03-85, Santa Cruz de Tenerife, Hearts
+11, Álex Bermejo, ESP, F, 1.83, 75, 11-12-98, Barcelona, Espanyol B
+12, Sergio González, ESP, D, 1.84, 77, 14-05-97, Cartagena, Cádiz
+13, Dani Hernández, VEN, G, 1.96, 87, 21-10-85, Caracas, Valladolid
+14, Carlos Ruiz, ESP, D, 1.79, 75, 20-07-83, Baza, Ponferradina
+15, Carlos Pomares, ESP, D, 1.82, 74, 05-12-92, Valencia, Alcorcón
+16, Aitor Sanz, ESP, M, 1.81, 71, 13-09-84, Madrid, Oviedo
+17, Samuel Shashoua, ENG, M, 1.76, 66, 13-05-99, Westminster, Tottenham H
+18, Joselu, ESP, F, 1.77, 70, 03-03-91, Cartaya, Oviedo
+19, Fran Sol, ESP, F, 1.80, 77, 13-03-92, Madrid, Dynamo Kyiv
+20, Manu Apeh, ESP, F, 1.80, 70, 25-10-96, Kaduna, Celta Vigo B
+21, Shaq Moore, USA, D, 1.80, 75, 02-11-96, Powder Springs, Levante B
+22, Giovanni Zarfino, URU, M, 1.84, 85, 08-10-91, Montevideo, Extremadura
+23, Nikola Šipčić, SRB, D, 1.92, 83, 17-05-95, Priboj, Rad
+24, Ramón Folch, ESP, M, 1.82, 78, 04-10-89, Cambrils, Elche
+26, Javi Alonso, ESP, M, 1.83, 75, 01-08-98, Santa Cruz de Tenerife, Tenerife B
+27, Ale Cruz, ESP, M, 1.65, 65, 08-06-99, Santa Cruz de Tenerife, Tenerife B
+29, Jorge, ESP, F, 1.75, 66, 23-04-01, Fuerteventura, Tenerife B
+30, Victor, ESP, G, 1.87, 83, 24-03-00, Vallesco, Tenerife B
+31, Omar Jaiteh, GAM, D, -, -, 01-10-98, -, Tenerife B
+32, Borja Bethencourt, ESP, D, -, -, 17-08-01, -, Tenerife B
+34, David Rodríguez, ESP, D, 1.79, 74, 26-06-00, Santa Cruz de Tenerife, Tenerife B
+35, Dylan, ESP, M, 1.73, 64, 12-05-03, Santa Cruz de Tenerife, Tenerife B
+36, Félix, ESP, M, 1.84, 76, 29-12-00, La Laguna, Tenerife B
+37, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Atlético Madrid B
+38, Jeremy Socorro, ESP, D, 1.75, 70, 01-09-99, Las Palmas, Tenerife B
+40, Alejandro Medina, ESP, G, -, -, 17-03-98, Las Palmas, Tenisca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Nahuel Leiva, ESP, M, 1.75, 65, 22-10-96, Rosario, Oviedo (On Loan)
+28, Elliot, ESP, F, 1.77, 74, 11-06-99, Güímar, Valladolid B (On Loan)
+1, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Girona

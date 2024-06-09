@@ -1,0 +1,45 @@
+=  Warta Poznań - Polish Ekstraklasa 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrian Lis, POL, G, 1.92, 78, 28-05-92, Poznań, Polonia Środa Wielkopolska
+2, Jan Grzesik, POL, D, 1.78, 70, 21-10-94, Olesno, ŁKS Łódź
+3, Jakub Kiełb, POL, D, 1.76, 73, 15-07-93, Jarocin, Jarota Jarocin
+4, Robert Ivanov, FIN, D, 1.97, 85, 19-09-94, Helsinki, FC Honka
+5, Bartosz Kieliba, POL, D, 1.88, 86, 01-08-90, Krotoszyn, Jarota Jarocin
+6, Łukasz Trałka, POL, M, 1.86, 77, 11-05-84, Rzeszów, Lech Poznań
+7, Frank Castañeda, COL, F, 1.72, 70, 17-07-94, Cali, Sheriff Tiraspol
+8, Niilo Mäenpää, FIN, M, 1.80, 78, 14-01-98, Hämeenlinna, IFK Mariehamn
+10, Milan Corryn, BEL, M, 1.80, 79, 04-04-99, Aalst, AS Trenčín
+11, Michał Jakóbowski, POL, M, 1.70, 65, 08-09-92, Radziejów, Bytovia Bytów
+15, Michał Kopczyński, POL, M, 1.80, 70, 15-06-92, Warsaw, Arka Gdynia
+16, Miguel Luís, POR, M, 1.70, 62, 27-02-99, Coimbra, Raków Częstochowa
+18, Daniel Szelągowski, POL, F, 1.76, 70, 02-09-02, Kielce, Raków Częstochowa
+19, Jakub Sangowski, POL, F, 1.89, 77, 11-03-02, Poznań, Zagłębie Sosnowiec
+20, Jordan Courtney-Perkins, AUS, D, 1.89, 78, 06-11-02, Adelaide, Raków Częstochowa
+21, Mateusz Kupczak, POL, M, 1.87, 76, 20-02-92, Żywiec, BBT Nieciecza
+22, Konrad Matuszewski, POL, D, 1.82, 76, 04-10-01, Włoszczowa, None
+23, Mikołaj Rakowski, POL, M, 1.89, 80, 16-03-02, Śrem, Lechia Gdańsk
+24, Kajetan Szmyt, POL, M, 1.71, 68, 29-05-02, Poznań, None
+28, Aleksandr Pavlovets, BLR, D, 1.88, 82, 13-08-96, Barysaw, FC Rostov
+30, Miłosz Szczepański, POL, M, 1.66, 54, 22-03-98, Nowy Sącz, Lechia Gdańsk
+31, Mateusz Sopoćko, POL, M, 1.75, 65, 26-06-99, Gdańsk, Lechia Gdańsk
+33, Jędrzej Grobelny, POL, G, 1.85, 70, 28-06-01, Poznań, Pogoń Szczecin
+34, Wiktor Pleśnierowicz, POL, D, 1.84, 75, 29-03-01, Kalisz, Miedź Legnica
+36, Marcin Szeibe, POL, M, 1.81, 71, 08-07-00, Leszno, Wissa Szczuczyn
+37, Mikołaj Stangel, POL, M, 1.78, 69, 29-08-04, Wągrowiec, None
+44, Dawid Szymonowicz, POL, D, 1.84, 67, 07-07-95, Lidzbark Warmiński, Jagiellonia Białystok
+77, Jayson Papeau, FRA, M, 1.79, 83, 30-06-96, Melun, Amiens
+99, Adam Zreľák, SVK, F, 1.83, 80, 05-05-94, Lipany, Nürnberg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Aleks Ławniczak, POL, D, 1.89, 87, 05-05-99, Poznań, Zagłębia Lubin
+30, Bartłomiej Burman, POL, D, 1.84, 80, 01-05-01, Poznań, Skra Częstochowa (On Loan)
+20, Szymon Czyz, POL, M, 1.84, 70, 08-07-01, Gdynia, Raków Częstochowa
+7, Mario Rodríguez, ESP, M, 1.76, 64, 03-03-97, Barcelona, 
+12, Patryk Prange, POL, G, 1.89, 82, 05-07-02, Poznań, Olimpia Grudziądz (On Loan)
+17, Mateusz Czyżycki, POL, M, 1.74, 69, 08-02-98, Brzesko, GKS Tychy
+14, Nikodem Fiedosewicz, POL, D, 1.74, 70, 30-05-98, Grodzisk Wielkopolski, Pogoń Siedlce (On Loan)
+9, Mateusz Kuzimski, POL, F, 1.79, 70, 26-06-91, Tczew, Arka Gdynia
+29, Filip Małek, POL, D, 1.89, 78, 03-01-02, Poznań, Jarota Jarocin (On Loan)

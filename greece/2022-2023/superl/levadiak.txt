@@ -1,0 +1,48 @@
+=  Levadiakos - Greek Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Antonis Dentakis, GRE, D, 1.79, 72, 13-03-95, Chania, Apollon Smyrnis
+3, Marios Vichos, GRE, D, 1.80, 75, 14-01-00, Itea, Asteras Itea
+4, Stephen Hammond, GHA, M, 1.70, 65, 06-08-96, Accra, Doxa Drama
+5, Vinícus Souza, BRA, D, 1.83, 80, 21-02-90, São Paulo, APOEL
+6, Triantafyllos Tsapras, GRE, D, 1.86, 80, 22-10-01, Livadeia, AEK
+7, Filip Sachpekidis, SWE, M, 1.80, 76, 03-07-97, Kalmar, Kalmar FF
+8, Giorgos Nikas, GRE, M, 1.88, 78, 17-09-99, Thiva, None
+11, Jonas Toró, BRA, F, 1.77, 74, 30-05-99, Belém de São Francisco, Panathinaikos
+12, Alfredo Mejía, HON, M, 1.70, 68, 03-04-90, Yoro, Pontevedra
+15, Giannis Angelopoulos, GRE, G, 1.85, 78, 03-04-98, Messenia, Pafos
+16, António Xavier, POR, F, 1.81, 73, 06-07-92, Guimarães, Panathinaikos
+17, Giannis Gianniotas, GRE, M, 1.75, 72, 29-04-93, Thessaloniki, Apollon Smyrnis
+18, Alexander Jeremejeff, SWE, F, 1.89, 72, 12-10-93, Kungsbacka, Panathinaikos
+19, Georgios Vrakas, GRE, M, 1.80, 70, 28-04-01, Ioannina, PAOK
+20, Thierry Moutinho, POR, M, 1.78, 73, 26-02-91, Geneva, Córdoba
+22, Themistoklis Tzimopoulos, NZL, D, 1.88, 82, 20-11-85, Kozani, Korona Kielce
+24, Panagiotis Liagas, GRE, D, 1.89, 79, 05-11-99, Karpenisi, None
+25, Kazenga LuaLua, COD, M, 1.80, 76, 10-12-90, Kinshasa, Gençlerbirliği
+26, Michal Škvarka, SVK, M, 1.73, 66, 12-08-92, Martin, Wisła Kraków
+27, Kostas Doumtsios, GRE, F, 1.82, 73, 20-09-97, Serres, Karaiskakis
+28, Konstantinos Veris, GRE, F, -, -, 07-06-06, -, None
+29, Patrick Bahanack, CMR, D, 1.85, 78, 03-08-97, Yaoundé, Lamia
+30, Stavros Panagiotou, GRE, D, 1.71, 63, 01-07-93, Arta, Karaiskakis
+31, Panagiotis Symelidis, GRE, F, 1.77, 65, 03-11-92, Vatero, Larissa
+32, Dimitris Konstantinidis, GRE, D, 1.73, 70, 02-06-94, Thessaloniki, Ionikos
+33, Gonzalo Paz, ARG, D, 1.78, 73, 06-06-93, Morón, Barracas Central
+42, Abdoulaye Dabo, FRA, M, 1.81, 74, 04-03-01, Nantes, Olympiakos
+44, Matej Marković, BIH, G, 1.92, 84, 22-07-96, Zagreb, MFK Zemplín Michalovce
+55, Nikos Tsaras, GRE, D, -, -, 13-03-06, -, None
+77, Anthony Belmonte, FRA, M, 1.85, 72, 16-10-95, Istres, Grenoble
+94, Bakary Sako, MLI, M, 1.84, 90, 24-04-88, Ivry-sur-Seine, St-Etienne
+97, Stefan Stojanović, SRB, G, 1.88, 86, 09-02-97, Kruševac, Radnički Pirot
+99, Dávid Gróf, HUN, G, 1.91, 90, 17-04-89, Budapest, Debrecen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Barbosa, BRA, F, 1.94, 81, 17-03-99, Anápolis, FK Kukësi (On Loan)
+18, Christos Voutsas, GRE, M, 1.80, 72, 31-07-01, Thessaloniki, Panathinaikos (On Loan)
+16, Serafim Maniotis, GRE, M, 1.85, 69, 17-05-00, Lamia, Diagoras
+7, Régis, BRA, F, 1.79, 73, 16-01-98, Xanxerê, Náutico
+1, Grzegorz Sandomierski, POL, G, 1.96, 87, 05-09-89, Białystok, 
+23, Theodoros Tsirigotis, GRE, F, 1.83, 75, 23-06-00, Athens, Larissa (On Loan)
+39, Souleymane Doukara, SEN, F, 1.93, 80, 29-09-91, Meudon, Gençlerbirliği
+9, Adrian Petre, ROU, F, 1.88, 72, 11-02-98, Arad, 

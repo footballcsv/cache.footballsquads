@@ -1,0 +1,47 @@
+=  Kayserispor - Turkish Süper Lig 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, İsmail Çipe, TUR, G, 1.97, 85, 05-01-95, Hatay, Galatasaray
+2, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Bologna
+3, Joseph Attamah, GHA, M, 1.80, 80, 22-05-94, Accra, İstanbul Başakşehir
+4, Dimitris Kolovetsios, GRE, D, 1.84, 74, 16-10-91, Larissa, Panathinaikos
+6, Manuel Fernandes, POR, M, 1.76, 75, 05-02-86, Lisbon, FC Krasnodar
+7, Harrison Manzala, FRA, M, 1.77, 71, 06-03-94, Aubervilliers, Angers
+9, Wilfried Kanga, CIV, F, 1.82, 76, 21-02-98, Montreuil-sous-Bois, Angers
+10, Pedro Henrique, BRA, M, 1.79, 72, 16-06-90, Novo Hamburgo, PAOK
+11, Muğdat Çelik, TUR, F, 1.80, 75, 03-01-90, Mersin, Gaziantep
+12, Abdulkadir Taşdan, TUR, G, 1.92, 81, 18-06-03, Kocasinan, None
+13, Miguel Lopes, POR, D, 1.82, 72, 19-12-86, Lisbon, Akhisar Belediyespor
+14, Emre Demir, TUR, M, 1.75, 68, 15-01-04, Mersin, None
+15, Uğur Demirok, TUR, D, 1.85, 76, 08-07-88, Eyüp, Konyaspor
+16, Doğan Alemdar, TUR, G, 1.80, 73, 29-10-02, Kocasinan, None
+17, Nurettin Korkmaz, TUR, M, 1.72, 70, 27-06-02, Kayseri, None
+18, Zoran Kvržić, BIH, M, 1.80, 72, 07-08-88, Doboj, Rijeka
+19, Ömer Uzun, TUR, F, 1.85, 78, 23-02-00, Dortmund, Bochum
+20, Ramazan Civelek, TUR, M, 1.72, 64, 22-01-96, İstanbul, Fatih Karagümrük
+21, Aziz Behich, AUS, D, 1.72, 66, 16-12-90, Moonee Ponds, İstanbul Başakşehir
+22, Cristian Săpunaru, ROU, D, 1.87, 81, 05-04-84, Bucharest, Denizlispor
+23, İlhan Parlak, TUR, F, 1.81, 75, 18-01-87, Yahyali, Ankaragücü
+24, Melih Okutan, TUR, F, 1.77, 70, 01-07-96, Kocaeli, Boluspor
+25, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Burnley
+28, Mehmet Eray Özbek, TUR, M, -, -, 09-01-03, Kocasinan, None
+32, Karahan Yasir Subaşı, TUR, D, 1.80, 73, 01-01-96, Sakarya, Fenerbahçe
+33, Silviu Lung Jr., ROU, G, 1.89, 84, 04-06-89, Craiova, Astra Giurgiu
+42, Kevin Luckassen, NED, F, 1.85, 80, 27-07-93, Eindhoven, Viitorul Constanța
+44, Besard Sabović, SWE, M, 1.86, 77, 05-01-95, Stockholm, Mjällby AIF
+73, Karlo Muhar, CRO, M, 1.88, 83, 17-01-96, Zagreb, Lech Poznań
+77, Denis Alibec, ROU, F, 1.84, 80, 05-01-91, Mangalia, Astra Giurgiu
+88, Gustavo Campanharo, BRA, M, 1.78, 66, 04-04-92, Caxias do Sul, Chapecoense
+96, Daniel Avramovski, MKD, M, 1.84, 69, 20-02-95, Skopje, Vardar Skopje
+99, Anton Maglica, CRO, F, 1.81, 73, 11-11-91, Brčko, Guizhou Hengfeng
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+86, Anthony Uzodimma, NGA, M, 1.76, 66, 17-04-99, Eziala, Giresunspor (On Loan)
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Reggina
+8, Hasan Hüseyin Acar, TUR, M, 1.80, 70, 16-12-94, Eskişehir, Alanyaspor
+30, Adem Doğan, TUR, D, 1.80, 70, 05-10-01, Kayseri, Düzcespor (On Loan)
+26, İlhan Depe, TUR, F, 1.72, 66, 10-09-92, Yıldırım, Altay
+5, Oğuzhan Çapar, TUR, D, 1.75, 68, 08-10-96, Balıkesir, Balıkesirspor (On Loan)
+89, Yaw Ackah, GHA, M, 1.69, 62, 01-06-99, Accra, BB Erzurumspor (On Loan)

@@ -1,0 +1,56 @@
+=  Bari - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Mattia Maita, ITA, M, 1.82, 80, 02-01-93, Messina, Catanzaro
+5, Emmanuele Matino, ITA, D, 1.86, 80, 07-10-98, Naples, Potenza
+6, Valerio Di Cesare, ITA, D, 1.87, 75, 23-05-83, Rome, Parma
+8, Ahmad Benali, LBY, M, 1.73, 66, 07-02-92, Manchester, Brescia
+9, Marco Nasti, ITA, F, 1.79, 63, 17-09-03, Pavia, Milan
+10, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Reggina
+11, Ismail Achik, MAR, F, 1.80, 77, 30-07-00, Casablanca, Audace Cerignola
+12, Luigi Pellegrini, ITA, G, 1.82, -, 23-06-05, Ruvo di Puglia, None
+14, Karlo Lulić, CRO, M, 1.86, 75, 10-05-96, Nova Gradiška, Frosinone
+17, Raffaele Maiello, ITA, M, 1.77, 73, 10-07-91, Acerra, Frosinone
+18, Davide Diaw, SEN, F, 1.85, 81, 06-01-92, Cividale del Friuli, Monza
+19, Abdoul Guiebre, BFA, M, 1.78, 80, 17-07-97, Bobo-Dioulasso, Modena
+20, Giuseppe Sibilli, ITA, F, 1.80, 75, 07-08-96, Naples, Pisa
+21, Žan Žužek, SVN, D, 1.86, 79, 26-01-97, Ljubljana, Koper
+22, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, Grêmio
+23, Francesco Vicari, ITA, D, 1.88, 83, 03-08-94, Rome, SPAL
+24, Malcom Edjouma, FRA, M, 1.91, 88, 08-10-96, Toulouse, FCSB
+25, Raffaele Pucino, ITA, D, 1.82, 74, 03-05-91, Caserta, Ascoli
+26, Ilias Koutsoupias, GRE, M, 1.82, 78, 10-05-01, Athens, Benevento
+28, Hemsley Akpa-Chukwu, ITA, F, 1.90, 83, 14-07-05, Douala, Royal Antwerp
+30, Domenico Dachille, ITA, D, 1.81, -, 28-03-05, Bari, None
+31, Giacomo Ricci, ITA, D, 1.84, 74, 02-09-96, Livorno, Parma
+32, Vincenzo Colangiuli, ITA, M, -, -, -, -, None
+33, Antonio Memeo, ITA, M, 1.84, 76, 19-02-04, -, None
+34, Raffaele Natuzzi, ITA, D, -, -, 15-01-05, -, Levante Azzurro
+35, Edoardo Alloj, ROU, G, -, -, 04-05-06, Turin, Monopoli
+36, Emanuele Zanaboni, ITA, F, 1.87, 80, 05-02-05, Milan, Pro Patria
+38, Marco Pissardo, ITA, G, 1.84, 77, 08-01-98, Verbania, Novara
+44, Gennaro Acampora, ITA, M, 1.74, 74, 29-03-94, Naples, Benevento
+47, George Puşcaş, ROU, F, 1.88, 74, 08-04-96, Marghita, Genoa
+49, Mattia Aramu, ITA, F, 1.80, 67, 14-05-95, Ciriè, Genoa
+77, Gregorio Morachioli, ITA, F, 1.72, 60, 27-02-00, La Spezia, Renate
+91, Yayah Kallon, SLE, F, 1.75, 70, 30-06-01, Kono, Verona
+93, Mehdi Dorval, FRA, D, 1.76, 70, 09-02-01, Paris, Cerignola
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Walid Cheddira, MAR, F, 1.87, 80, 22-01-98, Loreto, Napoli
+3, Marco Perrotta, ITA, D, 1.86, 78, 14-02-94, Campobasso, Padova
+1, Pierluigi Frattali, ITA, G, 1.85, 75, 01-12-85, Rome, Frosinone
+13, Emanuele Polverino, ITA, G, 1.82, 79, 13-02-97, Naples, Vis Pesaro
+14, Andrea D'Errico, ITA, M, 1.71, 66, 24-03-92, Milan, Crotone (On Loan)
+16, Matteo Rossetti, ITA, M, 1.91, 82, 23-07-98, Saluzzo, Vis Pesaro
+44, Aurélien Scheidler, FRA, F, 1.92, 90, 04-06-98, Saint-Martin-Boulogne, Andorra (On Loan)
+33, Daniele Celiento, ITA, D, 1.82, 74, 06-08-94, Naples, Casertana (On Loan)
+74, Matteo Ahmetaj, MNE, F, 1.75, 74, 05-05-02, -, Recanatese (On Loan)
+99, Gianluca Frabotta, ITA, D, 1.87, 70, 24-06-99, Rome, Juventus
+19, Filippo Faggi, ITA, M, 1.83, 81, 05-02-03, -, Virtus Entella (On Loan)
+29, Francesco Lops, ITA, M, 1.63, 58, 04-05-05, Corato, Cavese (On Loan)
+1, Alessandro Farroni, ITA, G, 1.86, 80, 20-09-97, Spoleto, Vis Pesaro
+16, Andrea Astrologo, ITA, M, 1.79, 72, 06-04-02, Rome, Lucchese (On Loan)
+7, Jérémy Ménez, FRA, F, 1.81, 77, 07-05-87, Longjumeau, 

@@ -1,0 +1,63 @@
+=  Burton Albion - English Football League One 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Garratt, ENG, G, 1.85, 66, 25-04-94, Shrewsbury, Crewe Alex
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+3, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, Oldham Ath
+4, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, Charlton Ath
+5, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Leicester C
+6, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Charlton Ath
+7, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, West Ham U
+8, Dale Taylor, NIR, F, 1.85, 71, 12-12-03, Belfast, Nottingham F
+9, Sam Winnall, ENG, F, 1.75, 72, 14-12-91, Wolverhampton, Oxford U
+10, Charlie Kirk, ENG, M, 1.70, 70, 24-12-97, Winsford, Charlton Ath
+11, Jonny Smith, ENG, M, 1.78, 64, 27-07-97, Liverpool, Bristol C
+12, Jasper Moon, ENG, D, 1.86, 77, 24-11-00, Coventry, Barnsley
+13, Jake Kean, ENG, G, 1.93, 76, 04-02-91, Derby, Notts Co
+14, Josh Walker, ENG, F, 1.76, 71, 28-12-97, Tower Hamlets, Dagenham & Redbridge
+15, Chris McCann, IRL, M, 1.85, 75, 21-07-87, Meath, Shamrock R
+16, Conor Shaughnessy, IRL, D, 1.91, 74, 30-06-96, Galway, Rochdale
+17, Mark Helm, ENG, M, 1.73, 61, 21-01-01, Warrington, Burnley
+18, Gassan Ahadme, MAR, F, 1.84, 70, 17-11-00, Vic, Ipswich T
+20, Callum Hawkins, ENG, G, 1.87, 77, 12-12-99, Rotherham, None
+21, Mustapha Carayol, GAM, M, 1.77, 75, 10-06-89, Banjul, Gillingham
+22, Williams Kokolo, FRA, D, -, -, 09-06-00, -, Middlesbrough
+23, Terry Taylor, WAL, M, 1.83, 71, 29-06-01, Aberdeen, Wolverhampton W
+24, Jordan Amissah, GER, G, 1.97, 97, 02-08-01, Herne, Sheffield U
+25, Ciaran Gilligan, ENG, M, 1.80, 79, 19-01-02, Derby, None
+26, Finn Delap, ENG, D, -, -, 10-06-05, Winchester, None
+27, Tom Hewlett, ENG, F, 1.75, 70, 17-10-01, Birmingham, None
+28, Ronny Wakelin, ENG, M, -, -, -, -, None
+29, Dylan Scott, ENG, F, -, -, -, -, None
+30, Ben Radcliffe, ENG, M, 1.84, 68, 15-09-03, Nottingham, None
+31, Louis Moult, ENG, F, 1.83, 85, 14-05-92, Stoke-on-Trent, Preston NE
+32, Joe Nyahwema, ENG, M, -, -, -, -, None
+33, Connor Pace, ENG, M, -, -, -, -, None
+34, Craig MacGillivray, ENG, G, 1.88, 78, 12-01-93, Harrogate, Charlton Ath
+35, Jakub Niemczyk, POL, F, 1.78, 75, 22-01-04, Zielona Góra, None
+36, Thierry Latty-Fairweather, ENG, D, 1.91, 80, 05-12-02, Birmingham, None
+37, Tom Hamer, ENG, D, 1.87, 80, 16-11-99, Bolton, Oldham Ath
+38, Michael Mancienne, SEY, D, 1.80, 74, 08-01-88, Isleworth, New England Revolution
+39, Bobby Kamwa, CMR, M, 1.83, 77, 18-03-00, Yaoundé, Leeds U
+40, William Tamen, ENG, D, -, -, -, -, None
+41, Toby Oakes, ENG, M, -, -, -, -, None
+44, Zac Ashworth, WAL, D, 1.81, 75, 06-09-02, King's Lynn, WBA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Frazer Blake-Tracy, ENG, D, 1.83, 64, 10-09-95, Dereham, Swindon T
+9, Gassan Ahadme, MAR, F, -, -, 17-11-00, -, Ipswich T
+32, Quevin Castro, POR, F, -, -, 16-08-01, -, WBA
+17, Elliot Thorpe, WAL, M, 1.76, 64, 09-11-00, Hinchingbrooke, Luton T
+24, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, Aston Villa
+8, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Salford C
+12, Tyler Onyango, ENG, M, -, -, 04-03-03, Luton, Everton
+14, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, Bolton W
+19, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, Doncaster R (On Loan)
+6, Calum Butcher, ENG, D, 1.82, 82, 26-02-91, Rochford, Motherwell
+10, Davis Keillor-Dunn, ENG, M, 1.80, 68, 02-11-97, Sunderland, Mansfield T
+15, Corrie Ndaba, IRL, D, 1.88, 82, 25-12-99, Dublin, Ipswich T
+28, Dan Moore, ENG, G, -, -, -, -, Leamington
+33, Charlie Williams, ENG, M, -, -, -, -, Stratford T
+45, Joe Dodoo, ENG, F, 1.83, 70, 01-06-95, Nottingham, 

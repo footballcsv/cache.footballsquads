@@ -1,0 +1,40 @@
+=  Gillingham - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Brentford
+2, Ryan Jackson, ENG, D, 1.75, 65, 31-07-90, Streatham, Colchester U
+3, Connor Ogilvie, ENG, D, 1.82, 73, 14-02-96, Harlow, Tottenham H
+4, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Cardiff C
+5, Jack Tucker, ENG, D, 1.92, 85, 13-11-99, Canterbury, None
+6, James Morton, ENG, M, 1.78, 77, 22-04-99, Bristol, Bristol C
+7, Matty Willock, ENG, M, 1.72, 65, 20-08-96, Waltham Forest, Manchester U
+8, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, Fleetwood T
+9, Dominic Samuel, ENG, F, 1.82, 89, 01-04-94, Southwark, Blackburn R
+10, Jordan Graham, ENG, M, 1.82, 68, 05-03-95, Coventry, Wolverhampton W
+11, Oliver Lee, ENG, M, 1.81, 80, 11-07-91, Hornchurch, Hearts
+12, Sacha Bastien, FRA, G, 1.93, 85, 22-01-95, Metz, Stevenage
+14, Robbie McKenzie, ENG, D, 1.84, 74, 25-09-98, Kingston upon Hull, Hull C
+15, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Lincoln C
+16, Alex MacDonald, SCO, M, 1.70, 72, 14-04-90, Warrington, Mansfield T
+17, Tyreke Johnson, ENG, M, 1.72, 66, 03-11-98, Swindon, Southampton
+19, Vadaine Oliver, ENG, F, 1.88, 78, 21-10-91, Sheffield, Northampton T
+20, Callum Slattery, ENG, M, 1.75, 70, 08-02-99, Oxford, Southampton
+21, Thomas O'Connor, IRL, M, 1.80, 70, 21-04-99, Kilkenny, Southampton
+23, Henry Woods, ENG, M, 1.87, 73, 07-09-99, Chichester, None
+24, Toby Bancroft, ENG, F, -, -, -, -, None
+25, Robbie Cundy, ENG, D, 1.89, 82, 30-05-97, Oxford, Bristol C
+26, Christian Maghoma, COD, D, 1.85, 70, 08-11-97, Lubumbashi, Arka Gdynia
+29, Gerald Sithole, ENG, F, -, -, 28-12-02, Ashford, None
+30, Harvey Lintott, ENG, D, 1.88, 79, 05-03-03, Canterbury, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Joe Lumley, ENG, G, 1.90, 73, 15-02-95, Harlow, QPR
+17, Josh Eccles, ENG, D, 1.81, 66, 06-04-00, Coventry, Coventry C
+20, Scott Robertson, SCO, M, 1.85, 76, 27-07-01, Glasgow, Celtic
+35, Declan Drysdale, ENG, D, 1.96, 85, 14-11-99, Birkenhead, Coventry C
+6, Zech Medley, ENG, D, 1.95, 90, 09-07-00, Greenwich, Arsenal
+11, Trae Coyle, ENG, F, 1.80, 71, 11-01-01, Camden, Arsenal
+12, Joe Walsh, ENG, G, 1.85, 68, 01-04-02, Gillingham, QPR
+18, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Southend U

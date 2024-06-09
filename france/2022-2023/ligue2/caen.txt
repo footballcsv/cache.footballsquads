@@ -1,0 +1,41 @@
+=  Caen - French Ligue 2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Mandrea, FRA, G, 1.86, 78, 25-12-96, Grasse, Angers
+2, Ali Abdi, TUN, D, 1.83, 73, 20-12-93, Sfax, Paris FC
+3, Diabé Bolumbu, FRA, D, -, -, 12-07-04, Antony, None
+4, Adolphe Teikeu, CMR, D, 1.89, 80, 23-06-90, Bandjoun, BB Erzurumspor
+5, Vladislav Molchan, RUS, D, 1.89, 72, 21-09-00, St. Petersburg, Yenisey Krasnoyarsk
+6, Quentin Daubin, FRA, M, 1.83, 77, 03-07-95, Saint-Nazaire, Pau
+8, Jessy Deminguet, FRA, M, 1.78, 74, 07-01-98, Caen, None
+9, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, Dijon
+10, Caleb Zady Sery, CIV, F, 1.76, 69, 20-12-99, Agbeille, Ajaccio
+11, Yohan Court, FRA, M, 1.72, 70, 14-01-90, Carpentras, Brest
+12, Mohamed Hafid, FRA, F, -, -, 01-12-04, Cherbourg-en-Cotentin, None
+13, Moussa Sylla, FRA, M, 1.81, 70, 25-11-99, Étampes, FC Utrecht
+14, Anton Salétros, SWE, M, 1.83, 69, 12-04-96, Stockholm, Sarpsborg 08
+15, Franklin Wadja, CMR, M, 1.85, 73, 30-11-94, Douala, Lorient
+16, Yannis Clementia, FRA, G, 1.88, 80, 05-07-97, Fort-de-France, Nice
+17, Godson Kyeremeh, FRA, M, 1.75, 60, 14-06-00, Melun, None
+18, Hianga'a M'Bock, FRA, M, 1.86, 82, 28-12-99, Brest, Brest
+19, Alexandre Mendy, FRA, F, 1.84, 86, 20-03-94, Toulon, Bordeaux
+20, Noé Lebreton, FRA, M, -, -, 22-04-04, Le Haye-Pesnel, None
+21, Bilal Brahimi, FRA, M, 1.77, 70, 28-03-00, Villepinte, Dunkerque
+23, Johann Obiang, GAB, D, 1.70, 64, 05-07-93, Le Blanc, Rodez
+24, Hugo Vandermersch, FRA, D, 1.80, 72, 05-05-99, Blendecques, None
+25, Lamine Sy, FRA, M, 1.71, 61, 10-08-02, Les Mureaux, None
+27, Ibrahim Cissé, FRA, D, 1.75, 70, 02-05-96, Paris, Dunkerque
+28, Djibril Diani, FRA, M, 1.93, 77, 11-02-98, Créteil, Grasshoppers
+29, Romain Thomas, FRA, D, 1.93, 84, 12-06-88, Landerneau, Angers
+30, Destiné Jopanguy, FRA, G, 1.92, 76, 30-01-03, Paris, None
+36, Stephen Ewange, FRA, D, 1.72, 70, 29-10-00, Limbé, None
+77, Norman Bassette, BEL, F, -, -, 11-11-04, Arlon, Eupen
+91, Emmanuel Ntim, GHA, D, 1.79, 72, 12-03-96, Kumasi, Valenciennes
+97, Dieudonné Gaucho Debohi, CIV, M, 1.85, 82, 15-01-01, Man, SOL FC
+99, Samuel Essende, FRA, F, 1.92, 87, 23-01-98, Montfermeil, Pau
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Iyad Mohamed, COM, M, 1.91, 80, 05-03-01, Dunkerque, Le Mans (On Loan)
+22, Brahim Traoré, FRA, D, 1.90, 80, 04-02-04, Rennes, Standard Liège (On Loan)

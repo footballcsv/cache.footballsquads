@@ -1,0 +1,41 @@
+=  Dynamo Moscow - Russian Premier League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+2, Eli Dasa, ISR, D, 1.69, 62, 03-12-92, Netanya, Vitesse
+4, Sergey Parshivlyuk, RUS, D, 1.78, 73, 18-03-89, Moscow, FC Rostov
+5, Milan Majstorović, SRB, D, 1.85, 77, 21-02-05, Novi Sad, Vojvodina
+6, Roberto Fernández, PAR, D, 1.88, 84, 07-06-00, Concepción, Guaraní [PAR]
+7, Dmitriy Skopintsev, RUS, D, 1.77, 67, 02-03-97, Voronezh, FC Krasnodar
+10, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Lokomotiv Moscow
+11, Daniil Lesovoy, RUS, M, 1.75, 68, 12-01-98, Moscow, Arsenal Tula
+13, Nicolas Moumi Ngamaleu, CMR, M, 1.81, 70, 09-07-94, Yaoundé, Young Boys
+15, Saba Sazonov, RUS, D, 1.94, 85, 01-02-02, St. Petersburg, Zenit-2
+16, Ivan Budachev, RUS, G, 1.93, 83, 20-07-01, St. Petersburg, FC Leningradets
+17, Mathias Normann, NOR, M, 1.79, 75, 28-05-96, Svolvær, FC Rostov
+18, Nicolás Marichal, URU, D, 1.85, 75, 17-03-01, Sarandí del Yí, Nacional [URU]
+20, Vyacheslav Grulyov, RUS, F, 1.89, 81, 23-03-99, Kemerovo, Dynamo Moscow-2
+21, Ivan Zazvonkin, RUS, M, 1.73, 69, 10-03-04, Tyumen, Dynamo Moscow-2
+25, Denis Makarov, RUS, M, 1.81, 75, 18-02-98, Tolyatti, Rubin Kazan
+27, Ruslan Shagyakhmetov, RUS, M, 1.89, 77, 19-12-03, Moscow, Dynamo Moscow-2
+31, Igor Leshchuk, RUS, G, 1.87, 84, 20-02-96, Moscow, Dynamo Moscow-2
+34, Luka Gagnidze, GEO, M, 1.75, 68, 28-02-03, Tbilisi, Dinamo Tbilisi
+43, Denis Osokin, RUS, D, 1.87, 81, 14-11-02, Krasnogorsk, Dynamo Moscow-2
+47, Arsen Zakharyan, RUS, M, 1.80, 68, 26-05-03, Samara, Dynamo Moscow-2
+50, Aleksandr Kutitskiy, RUS, D, 1.83, 69, 01-01-02, Moscow, Dynamo Moscow-2
+70, Konstantin Tyukavin, RUS, F, 1.80, 74, 22-06-02, Kotlas, Dynamo Moscow-2
+74, Daniil Fomin, RUS, M, 1.87, 76, 02-03-97, Tikhoretsk, FC Ufa
+76, Ilya Kuptsov, RUS, G, 1.97, 87, 25-01-02, Moscow, Dynamo Moscow-2
+78, Georgi Sulakvelidze, RUS, M, 1.77, 69, 18-04-01, Moscow, Dynamo Moscow-2
+91, Yaroslav Gladyshev, RUS, F, 1.81, 70, 05-05-03, Kirov, Dynamo Moscow-2
+92, Yan Tses, RUS, D, 1.96, 78, 02-10-03, St. Petersburg, Dynamo Moscow-2
+93, Diego Laxalt, URU, D, 1.78, 75, 07-02-93, Montevideo, Milan
+95, Dmitriy Begun, RUS, M, 1.70, 68, 23-04-03, Dalnerechensk, Dynamo Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+53, Sebastian Szymanski, POL, M, 1.74, 58, 10-05-99, Biała Podlaska, Feyenoord (On Loan)
+2, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Flamengo
+8, Nikola Moro, CRO, M, 1.83, 77, 12-03-98, Solin, Bologna
+77, Vladislav Karapuzov, RUS, M, 1.80, 67, 06-01-00, Norilsk, Akhmat Grozny (On Loan)

@@ -1,0 +1,54 @@
+=  Bournemouth - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, Croydon, Newcastle U
+2, Nathaniel Phillips, ENG, D, 1.90, 70, 21-03-97, Bolton, Liverpool
+3, Ethan Laird, ENG, D, 1.77, 66, 05-08-01, Basingstoke, Manchester U
+4, Lewis Cook, ENG, M, 1.75, 71, 03-02-97, Leeds, Leeds U
+5, Lloyd Kelly, ENG, D, 1.78, 70, 01-10-98, Bristol, Bristol C
+6, Chris Mepham, WAL, D, 1.91, 75, 05-11-97, Hammersmith, Brentford
+7, David Brooks, WAL, M, 1.66, 62, 08-07-97, Warrington, Sheffield U
+8, Jefferson Lerma, COL, M, 1.79, 70, 25-10-94, El Cerrito, Levante
+9, Dominic Solanke, ENG, F, 1.87, 80, 14-09-97, Reading, Liverpool
+10, Ryan Christie, SCO, M, 1.78, 70, 22-02-95, Inverness, Celtic
+11, Emiliano Marcondes, DEN, M, 1.83, 75, 09-03-95, Hvidovre, Brentford
+12, Robbie Brady, IRL, M, 1.75, 69, 14-01-92, Dublin, Burnley
+14, Todd Cantwell, ENG, M, 1.77, 66, 27-02-98, Norwich, Norwich C
+15, Adam Smith, ENG, D, 1.80, 78, 29-04-91, Leytonstone, Tottenham H
+17, Jack Stacey, ENG, D, 1.80, 68, 06-04-96, Bracknell, Luton T
+18, Jamal Lowe, JAM, F, 1.83, 79, 27-01-94, Harrow, Swansea C
+19, Junior Stanislas, ENG, M, 1.83, 76, 26-11-89, Kidbrooke, Burnley
+20, Leif Davis, ENG, D, 1.66, 55, 12-01-00, Newcastle upon Tyne, Leeds U
+21, Kieffer Moore, WAL, F, 1.95, 83, 08-08-92, Torquay, Cardiff C
+22, Ben Pearson, ENG, M, 1.66, 71, 04-01-95, Oldham, Preston NE
+23, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, Fleetwood T
+24, Gary Cahill, ENG, D, 1.93, 86, 19-12-85, Sheffield, Crystal Palace
+26, Gavin Kilkenny, IRL, M, 1.70, 64, 01-02-00, Dublin, St Kevin's Boys
+27, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, Manchester C
+29, Philip Billing, DEN, M, 1.93, 80, 11-06-96, Copenhagen, Huddersfield T
+31, Jake Scrimshaw, ENG, F, 1.76, 71, 13-09-00, Ryde, None
+32, Jaidon Anthony, ENG, F, 1.83, 68, 01-12-99, Hackney, Arsenal
+33, Jordan Zemura, ZIM, D, 1.73, 75, 14-11-99, Lambeth, Charlton Ath
+36, Ryan Glover, ENG, M, 1.77, 72, 09-11-00, Yeovil, None
+37, Siriki Dembélé, CIV, M, 1.70, 67, 07-09-96, -, Peterborough U
+39, Nathan Moriah-Welsh, GUY, M, 1.75, 70, 18-03-02, Chelsea, Reading
+40, Will Dennis, ENG, G, 1.88, 79, 10-07-00, Bedford, Watford
+42, Mark Travers, IRL, G, 1.91, 82, 18-05-99, Maynooth, Shamrock R
+45, Cameron Plain, ENG, G, -, -, 28-11-02, Winchester, None
+46, Billy Terrell, ENG, G, -, -, 31-08-03, Southampton, Southampton
+47, Tarik Gidaree, ENG, D, -, -, 10-02-03, Brent, None
+48, Ferdinand Okoh, NGA, M, -, -, 03-06-04, Redbridge, Tottenham H
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Arnaut Danjuma, NED, M, 1.78, 74, 31-01-97, Oss, Villarreal
+28, Kyle Taylor, ENG, M, 1.67, 60, 28-08-99, Richterswil, Exeter C
+41, Connor Kurran-Browne, GUY, F, 1.83, 75, 26-01-02, Hemel Hempstead, King's Lynn T (On Loan)
+3, Steve Cook, ENG, D, 1.85, 82, 19-04-91, Hastings, Nottingham F
+34, Sam Sherring, ENG, D, 1.80, 78, 08-05-00, Dorchester, Cambridge U (On Loan)
+38, Christian Saydee, ENG, F, 1.84, 78, 10-05-02, Hillingdon, Burton Alb (On Loan)
+1, Ørjan Nyland, NOR, G, 1.92, 78, 10-09-90, Volda, Reading
+35, Zeno Ibsen Rossi, ENG, D, 1.94, 78, 28-10-00, Streatham, Dundee (On Loan)
+44, Brennan Camp, SCO, D, 1.85, 73, 12-10-00, Dorchester, Eastleigh (On Loan)
+43, Ben Greenwood, ENG, D, -, -, 20-02-03, Frimley, Weymouth (On Loan)

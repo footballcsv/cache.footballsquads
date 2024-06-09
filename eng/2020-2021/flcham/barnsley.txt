@@ -1,0 +1,57 @@
+=  Barnsley - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Walton, ENG, G, 1.84, 77, 23-04-98, Bury, None
+2, Jordan Williams, ENG, D, 1.79, 75, 22-10-99, Huddersfield, Huddersfield T
+3, Ben Williams, WAL, D, 1.78, 70, 31-03-99, Preston, Blackburn R
+4, Callum Styles, ENG, M, 1.67, 60, 27-03-00, Oldham, Bury
+5, Liam Kitching, ENG, D, 1.91, 80, 01-10-99, Harrogate, Forest Green R
+6, Mads Juel Andersen, DEN, D, 1.94, 81, 27-12-97, Albertslund, Horsens
+7, Callum Brittain, ENG, D, 1.79, 68, 12-03-98, Bedford, MK Dons
+8, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Liverpool
+9, Cauley Woodrow, ENG, F, 1.84, 78, 02-12-94, Hemel Hempstead, Fulham
+10, Daryl Dike, USA, F, 1.88, 100, 03-06-00, Edmond, Orlando C
+11, Conor Chaplin, ENG, F, 1.78, 69, 16-02-97, Worthing, Coventry C
+14, Carlton Morris, ENG, F, 1.85, 85, 16-12-95, Cambridge, Norwich C
+20, Toby Sibbick, ENG, D, 1.83, 69, 23-05-99, Isleworth, AFC Wimbledon
+21, Romal Palmer, ENG, M, 1.81, 70, 30-09-99, Wigan, Manchester C
+22, Clarke Oduor, KEN, M, 1.79, 72, 25-06-99, Siaya, Leeds U
+24, Aapo Halme, FIN, D, 1.93, 78, 22-05-98, Helsinki, Leeds U
+25, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, Middlesbrough
+26, Michael Sollbauer, AUT, D, 1.86, 80, 15-05-90, Sankt Veit an der Glan, Wolfsberger AC
+27, Alex Mowatt, ENG, M, 1.77, 71, 13-02-95, Doncaster, Leeds U
+28, Dominik Frieser, AUT, M, 1.76, 76, 09-09-93, Graz, LASK Linz
+29, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, Leyton Orient
+30, Michał Helik, POL, D, 1.91, 77, 09-09-95, Chorzów, Cracovia Kraków
+31, Henry Kendrick, ENG, G, 1.91, 79, 03-12-00, Barnsley, None
+34, Jasper Moon, ENG, M, 1.86, 77, 24-11-00, Coventry, None
+36, Rudi Pache, ENG, D, 1.83, 69, 20-07-02, Slough, None
+37, Aiden Marsh, ENG, F, 1.72, 60, 05-05-03, Barnsley, None
+38, Jordan Helliwell, ENG, D, 1.69, 59, 23-09-01, Wakefield, None
+40, Bradley Collins, ENG, G, 1.84, 69, 18-02-97, Southampton, Chelsea
+41, Will Lancaster, ENG, M, 1.83, 69, 03-08-02, Sheffield, None
+42, Brad Binns, ENG, M, 1.73, 60, 02-12-01, Pontefract, None
+43, Charlie Winfield, ENG, D, 1.69, 58, 08-05-02, Barnsley, None
+44, Ali Omar, ENG, D, 1.88, 77, 14-09-99, -, QPR
+45, Steven Simpson, CAN, F, -, -, 05-04-00, -, None
+46, Cameron Thompson, ENG, F, 1.70, 75, 21-02-00, London, Fulham
+48, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, Coventry C
+50, Kieren Flavell, ENG, G, 1.97, 75, 21-09-03, Pontefract, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Jacob Brown, ENG, F, 1.78, 62, 10-04-98, Halifax, Stoke C
+14, Kilian Ludewig, GER, D, 1.75, 66, 05-03-00, Hamburg, Red Bull Salzburg
+17, Marcel Ritzmaier, AUT, M, 1.81, 79, 22-04-93, Knittelfeld, Rapid Vienna (On Loan)
+5, Bambo Diaby, ESP, D, 1.86, 76, 17-12-97, Mataró, 
+33, Matty Wolfe, ENG, M, 1.85, 74, 12-06-00, Wakefield, Notts Co (On Loan)
+32, Matthew James, ENG, M, 1.78, 74, 22-07-91, Bacup, Leicester C
+15, Jordan Green, ENG, F, 1.68, 72, 22-02-95, New Cross, 
+23, Elliot Simões, ANG, F, 1.72, 68, 20-12-99, Amadora, Doncaster R (On Loan)
+47, Daniel Bramall, SCO, M, 1.70, 65, 03-09-98, Sheffield, Barrow (On Loan)
+16, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Ipswich T (On Loan)
+10, Mike-Steven Bähre, GER, M, 1.77, 70, 10-08-95, Garbsen, Meppen
+18, Isaac Christie-Davies, WAL, M, 1.88, 75, 18-10-97, Brighton, DAC Dunajská Streda (On Loan)
+39, Keaton Ward, ENG, M, 1.80, 69, 04-05-00, Mansfield, Mansfield T
+19, Patrick Schmidt, AUT, F, 1.79, 73, 22-07-98, Eisenstadt, Ried (On Loan)

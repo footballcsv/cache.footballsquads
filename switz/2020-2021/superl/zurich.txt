@@ -1,0 +1,40 @@
+=  Zürich - Swiss Super League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Živko Kostadinović, SUI, G, 1.96, 86, 10-04-92, Modriča, Wil
+2, Lindrit Kamberi, SUI, D, 1.83, 80, 07-10-99, Zürich, None
+3, Nathan, BRA, D, 1.88, 80, 13-05-95, São Paulo, Palmeiras
+4, Bećir Omeragić, SUI, D, 1.87, 76, 20-01-02, Geneva, Servette
+5, Lasse Sobiech, GER, D, 1.85, 74, 18-01-91, Schwerte, Köln
+6, Fidan Aliti, KVX, D, 1.81, 77, 03-10-93, Preševo, Kalmar FF
+7, Adrian Winter, SUI, F, 1.78, 75, 08-07-86, Thalwil, Orlando C
+8, Vasilije Janičić, SUI, M, 1.80, 82, 02-11-98, Zürich, Hamburg
+9, Assan Ceesay, GAM, F, 1.88, 75, 17-03-94, Banjul, Lugano
+10, Antonio Marchesano, SUI, M, 1.67, 62, 18-01-91, Bellinzona, Biel/Bienne
+14, Toni Domgjoni, SUI, M, 1.76, 74, 04-09-98, Koprivnica, Slaven Belupo
+15, Tosin Aiyegun, NGA, F, 1.79, 77, 26-06-98, Lagos, Ventspils
+16, Novem Baumann, SUI, G, 1.85, 85, 04-12-95, Zürich, None
+18, Blaž Kramer, SVN, F, 1.91, 87, 01-06-96, Celje, Wolfsburg II
+19, Tobias Schättin, SUI, D, 1.84, 81, 05-06-97, Zürich, Winterthur
+20, Ousmane Doumbia, CIV, M, 1.75, 70, 21-05-92, Adjame, Winterthur
+21, Blerim Džemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Shenzhen FC
+22, Wilfried Gnonto, ITA, F, 1.70, 72, 05-11-03, Verbania, Internazionale
+23, Fabian Rohner, SUI, M, 1.78, 68, 17-08-98, Zürich, None
+25, Yanick Brecher, SUI, G, 1.94, 78, 25-05-93, Zürich, None
+26, Selim Khelifi, TUN, M, 1.72, 60, 26-01-94, Lausanne, Eintracht Braunschweig
+27, Marco Schönbächler, SUI, F, 1.71, 64, 11-01-90, Urdorf, None
+32, Nils Reichmuth, SUI, M, 1.75, 68, 22-02-02, Zug, None
+33, Stephan Seiler, SUI, M, 1.74, 71, 16-09-00, Fortaleza, None
+36, Filip Frei, SUI, D, 1.71, 66, 07-01-01, Kilchberg, None
+42, Silvan Wallner, SUI, D, 1.85, 74, 15-01-02, Zürich, None
+70, Benjamin Kololli, KVX, M, 1.80, 76, 15-05-92, Aigle, Lausanne-Sport
+71, Hekuran Kryeziu, KVX, M, 1.79, 68, 12-02-93, Küssnacht, Luzern
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Simon Sohm, SUI, M, 1.88, 85, 11-04-01, Zürich, Parma
+17, Umaru Bangura, SLE, M, 1.75, 73, 07-10-87, Freetown, Neuchâtel Xamax
+43, Henri Koide, SUI, F, 1.81, 82, 06-04-01, Zürich, Wil (On Loan)
+77, Willie Britto, CIV, D, 1.83, 66, 15-12-96, Tapéguhé, Pohronie (On Loan)
+31, Mirlind Kryeziu, SUI, D, 1.93, 96, 26-01-97, Zürich, Kriens (On Loan)

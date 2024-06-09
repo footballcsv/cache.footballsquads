@@ -1,0 +1,23 @@
+# Italian Serie A 2020/2021
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Benevento](benevento.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Crotone](crotone.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Parma](parma.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Sassuolo](sassuolo.txt)
+- [Spezia](spezia.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)

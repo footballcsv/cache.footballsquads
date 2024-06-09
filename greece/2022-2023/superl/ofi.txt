@@ -1,0 +1,45 @@
+=  OFI - Greek Super League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Eric Larsson, SWE, D, 1.75, 72, 15-07-91, Gävle, Malmö FF
+4, Triantafyllos Pasalidis, GRE, D, 1.85, 77, 19-07-96, Eleftherio-Kordelio, Asteras Tripolis
+5, Assane Dioussé, SEN, M, 1.75, 68, 20-09-97, Dakar, St-Etienne
+6, Nikos Marinakis, GRE, D, 1.86, 73, 13-09-93, Heraklion, Panetolikos
+7, Mésaque Djú, POR, F, 1.78, 66, 18-03-99, Bissau, West Ham U
+8, Juan Neira, ARG, M, 1.78, 75, 21-02-89, La Plata, Zacatepec
+9, Sebastian Grønning, DEN, F, 1.88, 85, 03-02-97, Aalborg, Aarhus
+10, Luiz Phellype, BRA, F, 1.88, 86, 27-09-93, São Gonçalo do Sapucaí, Sporting CP
+11, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, Yeni Malatyaspor
+13, Vassilis Sifakis, GRE, G, -, -, 27-10-01, -, None
+14, Praxitelis Vouros, GRE, D, 1.83, 75, 05-05-95, Mytilini, APOEL
+15, Apostolos Diamantis, GRE, D, 1.87, 73, 20-05-00, Serres, PAOK
+18, Kostas Giannoulis, GRE, D, 1.83, 73, 09-12-87, Katerini, Pafos
+19, Kosmas Tsilianidis, GRE, M, 1.80, 73, 09-05-94, Thessaloniki, Asteras Tripolis
+20, Samuel Yohou, CIV, D, 1.90, 86, 06-08-91, Villepinte, Dunkerque
+21, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Birmingham C
+22, Guðmundur Þórarinsson, ISL, D, 1.83, 75, 15-04-92, Selfoss, Aalborg
+23, Luis Perea, ESP, M, 1.92, 85, 25-08-97, Alcalá de Henares, Leganés
+28, Frixos Grivas, GRE, M, 1.78, 74, 23-09-00, Livadia, Panionios
+29, Miguel Mellado, ARG, M, 1.76, 74, 18-03-93, Rio Negro, Chacarita Juniors
+30, Santiago Mosquera, COL, M, 1.68, 70, 07-02-95, Buenaventura, Deportivo Cali
+31, Nikos Christogeorgos, GRE, G, 1.90, 74, 18-01-00, Marousi, Panathinaikos
+32, Dimitris Sotiriou, GRE, G, 1.85, 79, 13-09-87, Athens, Levadiakos
+35, Christos Mandas, GRE, G, 1.89, 75, 17-09-01, Piraeus, Atromitos
+38, Konstantinos Balogiannis, GRE, D, 1.79, 71, 08-02-99, Thessaloniki, PAOK
+45, Giannis Apostolakis, GRE, M, -, -, 24-04-04, Rethymno, None
+46, Giannis Theodosoulakis, GRE, F, -, -, 11-09-04, Retyhmno, Neos Asteras Rethymno
+48, Samer Al-Mohaimeed, KSA, M, -, -, 01-04-01, -, Slavia Prague
+77, Thievy Bifouma, CGO, F, 1.80, 74, 13-05-92, Saint-Denis, Bursaspor
+88, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Budućnost Podgorica
+99, Rayan Fallatah, KSA, F, -, -, 06-10-03, -, KVC Westerlo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mehdi Zerkane, ALG, M, 1.86, 75, 15-07-99, Clermont-Ferrand, Bordeaux
+10, Giannis Bouzoukis, GRE, M, 1.72, 67, 27-03-98, Preveza, Panetolikos
+17, Fiorin Durmishaj, ALB, F, 1.81, 70, 14-11-96, Tirana, Olympiakos Nicosia (On Loan)
+26, Paschalis Staikos, GRE, M, 1.77, 73, 08-02-96, Drama, Panserraikos
+9, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, Anorthosis Famagusta
+1, Sonny Stevens, NED, G, 1.93, 94, 22-06-92, Hoorn, ADO Den Haag (On Loan)
+31, Bruce Kamau, AUS, M, 1.75, 67, 28-03-95, Nairobi, Melbourne Victory (On Loan)

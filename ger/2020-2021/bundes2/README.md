@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2020/2021
+
+18 teams
+- [VfL Bochum](bochum.txt)
+- [SV Darmstadt 98](darmstadt.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [Holstein Kiel](holskiel.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [VfL Osnabrück](osna.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [Würzburger Kickers](wurzburg.txt)

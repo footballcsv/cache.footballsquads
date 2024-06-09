@@ -1,0 +1,59 @@
+=  Derby County - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.90, 83, 05-03-85, Glasgow, Wigan Ath
+2, Andre Wisdom, ENG, D, 1.86, 78, 09-05-93, Leeds, Liverpool
+3, Craig Forsyth, SCO, D, 1.91, 81, 24-02-89, Carnoustie, Watford
+4, Graeme Shinnie, SCO, D, 1.73, 63, 04-08-91, Aberdeen, Aberdeen
+5, Krystian Bielik, POL, D, 1.89, 78, 04-01-98, Konin, Arsenal
+6, George Edmundson, ENG, D, 1.85, 75, 15-08-97, Timperley, Rangers
+7, Kamil Jóźwiak, POL, M, 1.76, 70, 22-04-98, Międzyrzecz, Lech Poznań
+8, Max Bird, ENG, M, 1.83, 68, 18-09-00, Burton-upon-Trent, None
+9, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, Ipswich T
+10, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, Leicester C
+11, Jordon Ibe, ENG, M, 1.76, 81, 08-12-95, Southwark, Bournemouth
+12, Nathan Byrne, ENG, D, 1.80, 84, 05-06-92, St Albans, Wigan Ath
+13, Colin Kazim-Richards, TUR, F, 1.85, 68, 26-08-86, Leyton, Pachuca
+15, Teden Mengi, ENG, D, 1.83, 78, 30-04-02, Manchester, Manchester U
+16, Matthew Clarke, ENG, D, 1.80, 70, 22-09-96, Ipswich, Brighton & HA
+17, Louie Sibley, ENG, M, 1.80, 74, 01-09-01, Birmingham, None
+19, Lee Gregory, ENG, F, 1.88, 80, 26-08-88, Sheffield, Stoke C
+21, Kelle Roos, NED, G, 1.93, 90, 31-05-92, Rijkevoort, Nuneaton T
+22, Eiran Cashin, IRL, D, 1.87, 73, 09-11-01, Mansfield, None
+23, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Manchester C
+26, Lee Buchanan, ENG, D, 1.75, 67, 07-03-01, Mansfield, None
+28, Connor Dixon, ENG, M, 1.77, 69, 20-09-00, Nottingham, None
+29, Festy Ebosele, IRL, D, 1.80, 64, 02-08-02, Wexford, Bray W
+30, Manny Idem, ENG, G, 1.88, 66, 06-12-98, Lambeth, Canvey Island
+31, Joe Bateman, ENG, D, 1.83, 79, 06-12-98, Burton upon Trent, None
+33, Curtis Davies, ENG, D, 1.88, 76, 15-03-85, Waltham Forest, Hull C
+34, Beni Baningime, ENG, M, 1.78, 66, 09-09-98, Kinshasa, Everton
+35, Cameron Cresswell, ENG, F, 1.78, 73, 12-09-99, Stockport, None
+36, Tyree Wilson, ENG, F, -, -, 13-06-02, Nottingham, None
+37, Kornell McDonald, ENG, D, -, -, 01-10-01, Nottingham, None
+38, Jason Knight, IRL, M, 1.73, 63, 13-02-01, Dublin, None
+39, Jack Stretton, SCO, F, 1.83, 74, 06-09-01, Burton upon Trent, None
+40, Louie Watson, IRL, M, 1.76, 60, 07-06-01, Croydon, West Ham U
+41, George Sykes-Kenworthy, ENG, G, -, -, 01-10-99, Huddersfield, Bradford C
+42, Jayden Mitchell-Lawson, ENG, M, 1.68, 60, 17-09-99, Basingstoke, None
+43, Liam Thompson, ENG, M, 1.73, 68, 29-04-02, Nottingham, None
+44, Bradley Foster-Theniger, ENG, G, 1.94, 76, 05-10-01, Stafford, Stoke C
+45, Josh Shonibare, ENG, M, -, -, 29-05-98, Bromley, None
+46, Jordan Brown, ENG, D, 1.81, 70, 21-06-01, Stoke-on-Trent, None
+47, Harrison Solomon, ENG, D, -, -, 01-11-02, Burton upon Trent, None
+48, Ola Ibrahim, ENG, M, -, -, -, -, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Max Lowe, ENG, D, 1.75, 74, 11-05-97, Birmingham, Sheffield U
+37, Jayden Bogle, ENG, D, 1.78, 69, 27-07-00, Reading, Sheffield U
+27, Henrich Ravas, SVK, G, 1.92, 87, 16-08-97, Senica, Hartlepool U (On Loan)
+14, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Sheffield W (On Loan)
+32, Wayne Rooney, ENG, F, 1.76, 83, 24-10-85, Croxteth, Retired
+6, Mike te Wierik, NED, D, 1.91, 73, 08-06-92, Hengevelde, FC Groningen
+25, Duane Holmes, USA, M, 1.72, 65, 06-11-94, Wakefield, Huddersfield T
+22, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Millwall
+18, Morgan Whittaker, ENG, F, 1.83, 69, 07-01-01, Derby, Swansea C
+49, Jahmal Hector-Ingram, ENG, F, 1.83, 75, 11-11-98, Upton Park, Stevenage (On Loan)
+41, Kaide Gordon, ENG, F, -, -, 05-10-04, Burton upon Trent, Liverpool

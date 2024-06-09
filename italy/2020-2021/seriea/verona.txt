@@ -1,0 +1,64 @@
+=  Verona - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Silvestri, ITA, G, 1.91, 80, 02-03-91, Castelnovo ne' Monti, Leeds U
+2, Andrea Gresele, ITA, D, 1.89, 75, 18-08-02, Vicenza, None
+3, Federico Dimarco, ITA, D, 1.75, 75, 10-11-97, Milan, Internazionale
+4, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Genoa
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Crotone
+6, Matteo Lovato, ITA, D, 1.88, 74, 14-02-00, Monselice, Padova
+7, Antonín Barák, CZE, M, 1.91, 85, 03-12-94, Příbram, Udinese
+8, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Genoa
+9, Eddie Salcedo, ITA, F, 1.78, 74, 01-10-01, Genoa, Internazionale
+11, Andrea Favilli, ITA, F, 1.90, 85, 17-05-97, Pisa, Genoa
+12, Nicola Borghetto, ITA, G, 1.88, 82, 25-11-99, Jesolo, Belluno
+13, Destiny Udogie, ITA, D, 1.86, 67, 28-11-02, Verona, None
+14, Ivan Ilić, SRB, M, 1.85, 78, 17-03-01, Niš, Manchester C
+15, Mert Çetin, TUR, D, 1.89, 90, 01-01-97, Çankaya, Roma
+16, Filippo Terracciano, ITA, M, 1.81, 68, 08-02-03, Verona, None
+17, Federico Ceccherini, ITA, D, 1.87, 72, 11-05-92, Livorno, Fiorentina
+18, Matteo Cancellieri, ITA, F, 1.73, 62, 12-02-02, Rome, Roma
+19, Kevin Rüegg, SUI, M, 1.73, 77, 05-08-98, Uster, Zürich
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Bellaria
+21, Koray Günter, GER, D, 1.84, 76, 16-08-94, Höxter, Genoa
+22, Alessandro Berardi, ITA, G, 1.85, 72, 16-01-91, Rome, Bari
+23, Giangiacomo Magnani, ITA, D, 1.91, 85, 04-10-95, Correggio, Sassuolo
+24, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Fiorentina
+25, Ivor Pandur, CRO, G, 1.85, 77, 25-03-00, Rijeka, Rijeka
+26, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Sampdoria
+27, Paweł Dawidowicz, POL, M, 1.89, 80, 20-05-95, Olsztyn, Benfica
+28, Bogdan Jočić, SRB, M, 1.81, 67, 11-01-01, Belgrade, Crvena Zvezda
+29, Nikola Kalinić, CRO, F, 1.87, 77, 05-01-88, Solin, Atlético Madrid
+30, Eugenio Bracelli, ITA, D, 1.88, -, 25-01-02, Grudziądz, Pro Sesto
+31, Christian Pierobon, ITA, M, 1.88, 74, 26-03-02, Feltre, Union Feltre
+33, Stefano Sturaro, ITA, M, 1.81, 82, 09-03-93, Sanremo, Genoa
+36, Bruno Amione, ARG, D, 1.87, 78, 03-01-02, Calchaquí, Belgrano (Córdoba)
+40, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Internazionale
+45, Philip Yeboah, GHA, F, 1.82, 70, 27-09-02, Drobo, None
+49, Matei Cristian Ilie, ROU, D, 1.85, -, 11-12-02, Piatra Neamț, Padova
+61, Adrien Tameze, FRA, M, 1.80, 78, 04-11-94, Lille, Nice
+77, Bernardo Calabrese, ITA, D, 1.87, 75, 25-04-02, Verona, None
+90, Ebrima Colley, GAM, F, 1.79, 75, 01-02-00, Serrekunda, Atalanta
+92, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Udinese
+99, Lorenzo Bertini, ITA, F, 1.92, 79, 17-08-01, Faenza, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Salvatore Bocchetti, ITA, D, 1.86, 81, 30-11-86, Naples, Pescara (On Loan)
+50, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Brescia (On Loan)
+9, Mariusz Stępiński, POL, F, 1.83, 62, 12-05-95, Sieradz, Lecce (On Loan)
+48, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Cittadella
+30, Nicolò Casale, ITA, D, 1.91, 84, 14-02-98, Negrar, Empoli (On Loan)
+18, Lucas Felippe, BRA, M, 1.78, 74, 03-05-00, São Paulo, Mantova (On Loan)
+39, Alberto Almici, ITA, D, 1.83, 77, 11-01-93, Lovere, Palermo
+46, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Triestina
+47, Pierluigi Cappelluzzo, ITA, F, 1.82, 76, 09-06-96, Montepulciano, Viterbese
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Palmeiras (On Loan)
+72, Andrea Danzi, ITA, M, 1.75, 72, 25-02-99, San Martino Buon Albergo, Ascoli (On Loan)
+44, Karim Laribi, ITA, M, 1.75, 67, 20-04-91, Milan, Reggiana (On Loan)
+10, Samuel Di Carmine, ITA, F, 1.87, 78, 29-09-88, Florence, Crotone (On Loan)
+87, Luigi Vitale, ITA, D, 1.80, 71, 05-10-87, Castellammare di Stabia, Frosinone
+89, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Chievo Verona
+99, Adama Sane, SEN, F, 1.78, 68, 11-06-00, -, Mantova (On Loan)
+29, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Sion (On Loan)

@@ -1,0 +1,54 @@
+=  Salernitana - Italian Serie A 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vincenzo Fiorillo, ITA, G, 1.90, 74, 13-01-90, Genoa, Pescara
+2, Dylan Bronn, TUN, D, 1.85, 76, 19-06-95, Cannes, Metz
+3, Domagoj Bradarić, CRO, D, 1.78, 69, 10-12-99, Split, Lille
+5, Flavius Daniliuc, AUT, D, 1.86, 76, 27-04-01, Vienna, Nice
+6, Junior Sambia, FRA, M, 1.81, 68, 07-09-96, Lyon, Montpellier
+8, Emil Bohinen, NOR, M, 1.75, 75, 12-03-99, Derby, CSKA Moscow
+9, Federico Bonazzoli, ITA, F, 1.82, 74, 21-05-97, Manerbio, Sampdoria
+10, Tonny Vilhena, NED, M, 1.75, 70, 03-01-95, Maassluis, Espanyol
+11, Erik Botheim, NOR, F, 1.80, 70, 10-01-00, Oslo, FC Krasnodar
+13, Guillermo Ochoa, MEX, G, 1.83, 73, 13-07-85, Guadalajara, América
+14, Diego Valencia, CHI, F, 1.81, 68, 14-01-00, La Serena, Universidad Católica
+15, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, Watford
+17, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Capital Federal, Roma
+18, Lassana Coulibaly, MLI, M, 1.83, 74, 10-04-96, Bamako, Angers
+19, Julian Kristoffersen, NOR, F, 1.95, 93, 10-01-97, Horten, Jeonnam Dragons
+20, Grigoris Kastanos, CYP, M, 1.79, 71, 30-01-98, Nicosia, Juventus
+22, Domen Črnigoj, SVN, M, 1.88, 84, 18-11-95, Koper, Venezia
+23, Norbert Gyömbér, SVK, D, 1.89, 79, 03-07-92, Revúca, Perugia
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, Spezia
+29, Boulaye Dia, SEN, F, 1.80, 75, 16-11-96, Oyonnax, Villarreal
+30, Pasquale Mazzocchi, ITA, D, 1.83, 78, 27-07-95, Naples, Venezia
+33, Luigi Sepe, ITA, G, 1.91, 75, 08-05-91, Torre del Greco, Parma
+39, Antonio Pio Iervolino, ITA, M, 1.83, 67, 23-05-03, San Gennaro Vesuviano, Imolese
+40, Stephen Annan, GHA, M, -, -, -, -, EurAfrica Academy
+41, Hans Nicolussi Caviglia, ITA, M, 1.81, 71, 18-06-00, Aosta, Juventus
+66, Matteo Lovato, ITA, D, 1.88, 78, 14-02-00, Monselice, Atalanta
+70, Pasquale Allocca, ITA, G, 1.95, 82, 09-05-05, Salerno, None
+72, Andrea Sorrentino, ITA, G, -, -, 21-10-04, Naples, None
+77, Andres Sfait, ROU, M, 1.77, 65, 09-12-04, Cluj-Napoca, Grödig
+87, Antonio Candreva, ITA, F, 1.80, 70, 28-02-87, Rome, Sampdoria
+98, Lorenzo Pirola, ITA, D, 1.85, 72, 20-02-02, Carate Brianza, Internazionale
+99, Krzysztof Piątek, POL, F, 1.83, 76, 01-07-95, Dzierżoniów, Hertha Berlin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Filippo D'Andrea, ITA, F, 1.80, 75, 25-09-98, Rome, Audace Cerignola
+15, Michele Cavion, ITA, M, 1.83, 78, 08-12-94, Schio, Vicenza
+5, Frédéric Veseli, ALB, D, 1.83, 78, 20-11-92, Renens, Benevento
+24, Wajdi Kechrida, TUN, D, 1.84, 74, 05-11-95, Nice, Atromitos
+22, Reda Boultam, NED, M, 1.86, 78, 03-03-98, Meknes, Istra 1961 (On Loan)
+4, Paweł Jaroszyński, POL, D, 1.84, 78, 02-10-94, Lublin, Cracovia Kraków (On Loan)
+13, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Ternana (On Loan)
+63, Edoardo Vergani, ITA, F, 1.86, 77, 06-02-01, Segrate, Pescara
+7, Franck Ribéry, FRA, F, 1.70, 64, 01-04-83, Boulogne-sur-Mer, Retired
+12, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Cosenza
+35, Andrei Moțoc, MDA, D, 1.95, 80, 13-04-02, Chișinău, Siena (On Loan)
+28, Leonardo Capezzi, ITA, M, 1.78, 70, 28-03-95, Figline Valdarno, Perugia
+26, Sanasi Sy, FRA, D, 1.74, 72, 04-04-99, Paris, Nîmes
+71, Jacopo De Matteis, ITA, G, 1.85, 68, 28-12-02, Rome, Fermana (On Loan)
+16, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, 

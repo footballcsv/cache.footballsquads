@@ -1,0 +1,54 @@
+=  Reading - English Football League Championship 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Lumley, ENG, G, 1.90, 73, 15-02-95, Harlow, Middlesbrough
+2, Andy Carroll, ENG, F, 1.93, 79, 06-01-89, Gateshead, WBA
+3, Tom Holmes, ENG, D, 1.84, 82, 12-03-00, Ealing, None
+4, Sam Hutchinson, ENG, D, 1.80, 73, 03-08-89, Slough, Sheffield W
+5, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, None
+6, Scott Dann, ENG, D, 1.95, 78, 14-02-87, Liverpool, Crystal Palace
+7, Shane Long, IRL, F, 1.78, 70, 22-01-87, Kilkenny, Southampton
+8, Jeff Hendrick, IRL, M, 1.85, 79, 31-01-92, Dublin, Newcastle U
+9, Lucas João, ANG, F, 1.92, 81, 04-09-93, Luanda, Sheffield W
+10, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Stoke C
+11, Yakou Méïte, CIV, M, 1.84, 72, 11-02-96, Paris, Paris St-Germain
+12, Baba Rahman, GHA, D, 1.79, 70, 02-07-94, Tamale, Chelsea
+14, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, Liverpool
+15, Femi Azeez, ENG, M, 1.81, 69, 05-06-01, Westminster, Wealdstone
+16, Dejan Tetek, SRB, M, 1.81, 65, 24-09-02, Oxford, None
+17, Andy Yiadom, GHA, D, 1.80, 75, 02-12-91, Camden, Barnsley
+18, Nesta Guinness-Walker, ENG, D, 1.75, 70, 30-11-99, Hounslow, AFC Wimbledon
+19, Tyrese Fornah, ENG, M, 1.81, 78, 11-09-99, Camden, Nottingham F
+20, Cesare Casadei, ITA, M, 1.86, -, 10-01-03, Ravenna, Chelsea
+21, Dean Bouzanis, AUS, G, 1.85, 84, 02-10-90, Sydney, Sutton U
+22, Mamadou Loum, SEN, M, 1.88, 70, 30-12-96, Dakar, FC Porto
+23, Junior Hoilett, CAN, M, 1.73, 70, 05-06-90, Brampton, Cardiff C
+24, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, Huddersfield T
+26, Liam Moore, JAM, D, 1.86, 86, 31-01-93, Leicester, Leicester C
+27, Amadou Mbengue, SEN, M, -, -, 05-01-02, -, Metz
+28, Mamadi Camara, GNB, F, -, -, 31-12-03, -, None
+30, Kelvin Abrefa, ENG, D, -, -, 09-12-03, -, None
+31, Coniah Boyce-Clarke, JAM, G, -, -, 01-03-03, Reading, None
+32, Nelson Abbey, ENG, D, -, -, 28-08-03, -, None
+33, John Clarke, IRL, D, -, -, -, -, Port Vale
+34, Louie Holzman, ENG, D, 1.86, 76, 16-11-03, Windsor, None
+35, Kelvin Ehibhatiomhan, ENG, F, -, -, 23-04-03, Benin City, None
+36, Michael Craig, SCO, M, -, -, 16-04-03, Barnet, Tottenham H
+38, Michael Stickland, ENG, D, -, -, 24-08-02, -, None
+40, Rashawn Scott, ENG, F, -, -, 22-03-04, -, Chelsea
+41, Claudio Osorio, ENG, M, -, -, 26-09-02, -, None
+42, Nahum Melvin-Lambert, LCA, F, 1.86, 69, 21-10-02, Hackney, None
+43, Hamid Abdel Salam, ENG, D, -, -, 19-10-03, -, None
+44, Sam Paul, ENG, D, -, -, 13-10-03, -, None
+45, Ben Purcell, WAL, M, -, -, 25-08-04, -, None
+46, Jack Senga-Ngoyi, BEL, D, -, -, 27-01-04, -, None
+48, Basil Tuma, MLT, F, -, -, 24-04-05, -, Fulham
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Jeriel Dorsett, ENG, D, -, -, 04-05-02, Enfield, Kilmarnock (On Loan)
+47, George Puşcaş, ROU, F, 1.88, 74, 08-04-96, Marghita, Genoa (On Loan)
+25, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Stevenage (On Loan)
+39, Jahmari Clarke, JAM, F, 1.91, 86, 17-08-03, Brent, Forest Green R (On Loan)
+37, Kian Leavy, IRL, M, -, -, 21-03-02, Ardee, Shelbourne (On Loan)

@@ -1,0 +1,53 @@
+=  Chievo Verona - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Seculin, ITA, G, 1.90, 83, 14-07-90, Gorizia, Fiorentina
+5, Michele Rigione, ITA, D, 1.85, 78, 07-03-91, Naples, Cesena
+6, Maxime Leverbe, FRA, D, 1.88, 82, 15-02-97, Villepinte, Sampdoria
+8, Emanuele Zuelli, ITA, M, 1.79, 70, 22-11-01, Merano, None
+9, Michael Fabbro, ITA, F, 1.73, 70, 10-05-96, San Daniele del Friuli, Bassano Virtus
+10, Joel Chukwuma Obi, NGA, M, 1.77, 72, 22-05-91, Lagos, Torino
+11, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Verona
+12, Michele Bragantini, ITA, G, 1.87, 74, 14-05-01, Verona, None
+13, Francesco Renzetti, ITA, D, 1.74, 63, 22-01-88, Monte Carlo, Cremonese
+14, Luca Palmiero, ITA, M, 1.77, 67, 01-05-96, Mugnano di Napoli, Napoli
+15, Sauli Väisänen, FIN, D, 1.90, 75, 05-06-94, Helsinki, SPAL
+16, Luca Garritano, ITA, M, 1.72, 67, 11-02-94, Cosenza, Cesena
+17, Emanuele Giaccherini, ITA, M, 1.67, 60, 05-05-85, Talla, Napoli
+18, Luigi Canotto, ITA, F, 1.76, 70, 19-05-94, Rossano Calabro, Juve Stabia
+20, Sergej Grubac, MNE, F, 1.90, 80, 29-05-00, Belgrade, APOEL
+21, Daniel Pavlev, SVN, D, 1.79, 70, 11-10-00, Šempeter pri Gorici, None
+22, Dino Rendić, CRO, G, 1.88, -, 16-03-02, Rijeka, Venezia
+23, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Lazio
+24, Mattia Viviani, ITA, M, 1.77, 74, 04-09-00, Brescia, Brescia
+26, Massimo Bertagnoli, ITA, M, 1.78, 72, 26-02-99, Verona, None
+27, Matteo Cotali, ITA, D, 1.77, 72, 22-04-97, Brescia, Cagliari
+32, Vasile Mogos, ROU, D, 1.86, 82, 31-10-92, Vaslui, Cremonese
+33, Adrian Šemper, CRO, G, 1.94, 89, 12-01-98, Zagreb, Dinamo Zagreb
+39, Marin Cavar, SUI, D, 1.93, 82, 18-06-99, Horgen, Winterthur
+40, Enyan Elimelech, GHA, D, 1.82, 70, 31-01-01, Giugliano in Campania, Atalanta
+41, Nabil Makni, TUN, F, 1.84, 76, 29-09-01, Cannes, Strasbourg
+43, Filippo Tuzzo, ITA, M, 1.81, 72, 18-02-01, Verona, None
+72, Edoardo Priore, ITA, F, 1.85, -, 11-02-02, Assisi, None
+80, Samuele Vignato, ITA, M, 1.68, 63, 24-02-04, Fumane, None
+89, Guillaume Gigliotti, FRA, D, 1.84, 72, 09-11-89, Istres, Crotone
+93, Francesco Margiotta, ITA, F, 1.78, 77, 15-07-93, Turin, Luzern
+95, Luca Munaretti, ITA, D, 1.84, 75, 23-06-02, Soave, None
+98, Manuel De Luca, ITA, F, 1.90, 67, 17-07-98, Bolzano, Torino
+99, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Napoli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+72, Genny Rondinella, ITA, D, 1.85, 65, 22-05-01, Casoria, Pistoiese (On Loan)
+22, Alessandro Confente, ITA, G, 1.94, 85, 07-06-98, Soave, Catania (On Loan)
+2, Julián Illanes, ARG, D, 1.86, 80, 10-03-97, Córdoba, Fiorentina
+11, Manuel Pucciarelli, ITA, F, 1.74, 67, 17-06-91, Prato, Dibba Al-Fujairah (On Loan)
+19, Giovanni Di Noia, ITA, M, 1.80, 75, 03-07-94, Bari, Perugia (On Loan)
+28, Felice D'Amico, ITA, F, 1.75, 60, 22-08-00, Palermo, Sampdoria
+29, Pietro Rovaglia, ITA, F, 1.85, 76, 26-02-01, Verona, Pistoiese (On Loan)
+4, Strahinja Tanasijević, SRB, D, 1.83, 73, 12-06-97, Mladenovac, Čukarički
+25, Jonathan Morsay, SWE, M, 1.77, 75, 05-10-97, Sundsvall, Dinamo București (On Loan)
+45, Antonio Metlika, ITA, M, 1.77, 62, 24-11-01, Vittorio Veneto, Ambrosiana (On Loan)
+7, Dávid Ivan, SVK, M, 1.75, 68, 26-02-95, Bratislava, Dinamo Brest (On Loan)
+3, Joseph Colley, SWE, D, 1.87, 78, 13-04-99, Kanifing, IK Sirius (On Loan)

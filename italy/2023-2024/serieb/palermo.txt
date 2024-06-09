@@ -1,0 +1,39 @@
+=  Palermo - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastiano Desplanches, ITA, G, 1.88, 78, 11-03-03, Novara, Vicenza
+2, Simon Graves Jensen, DEN, D, 1.91, 80, 22-03-99, Holstebro, Randers
+3, Kristoffer Lund, USA, D, 1.84, 65, 14-05-02, Kerteminde, BK Häcken
+4, Claudio Gomes, FRA, M, 1.80, 73, 23-07-00, Argenteuil, Manchester C
+5, Fabio Lucioni, ITA, D, 1.85, 80, 25-09-87, Terni, Lecce
+6, Leo Štulac, SVN, M, 1.75, 70, 26-09-94, Koper, Empoli
+7, Leonardo Mancuso, ITA, F, 1.82, 80, 26-05-92, Milan, Monza
+8, Jacopo Segre, ITA, M, 1.80, 76, 17-02-97, Turin, Torino
+9, Matteo Brunori, BRA, F, 1.80, 78, 01-11-94, Macaè, Juventus U23
+10, Francesco Di Mariano, ITA, F, 1.77, 68, 20-04-96, Palermo, Lecce
+11, Roberto Insigne, ITA, F, 1.71, 65, 11-05-94, Naples, Frosinone
+12, Manfredi Nespola, ITA, G, 1.89, 79, 16-02-05, Palermo, None
+13, Adnan Kanurić, BIH, G, 1.94, 79, 08-08-00, Linz, Nottingham F
+14, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, Juventus
+15, Ivan Marconi, ITA, D, 1.83, 79, 25-10-89, Brescia, Monza
+17, Federico Di Francesco, ITA, F, 1.72, 71, 14-06-94, Pisa, Lecce
+18, Ionuţ Nedelcearu, ROU, D, 1.90, 79, 25-04-96, Bucharest, Crotone
+20, Aljoša Vasić, ITA, M, 1.88, 75, 21-04-02, Camposampiero, Padova
+22, Mirko Pigliacelli, ITA, G, 1.84, 78, 30-06-93, Rome, Universitatea Craiova
+23, Salim Diakité, FRA, D, 1.86, 74, 03-07-00, Les Mureaux, Ternana
+25, Alessio Buttaro, ITA, D, 1.68, 62, 10-09-02, Rome, Roma
+27, Edoardo Soleri, ITA, F, 1.92, 75, 19-10-97, Rome, Padova
+31, Giuseppe Aurelio, ITA, D, 1.85, 79, 22-03-00, Bracciano, Pontedera
+32, Pietro Ceccaroni, ITA, D, 1.88, 76, 21-12-95, Sarzana, Venezia
+40, Francesco Cutrona, ITA, G, 1.93, -, 30-06-06, Niscemi, Gela
+53, Liam Henderson, SCO, M, 1.83, 67, 25-04-96, Livingston, Empoli
+70, Chaka Traoré, CIV, F, 1.75, 70, 23-12-04, Attécoubé, Milan
+80, Mamadou Coulibaly, SEN, M, 1.83, 79, 02-03-99, Thiès, Salernitana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Dario Šarić, BIH, M, 1.80, 73, 30-05-97, Cento, Antalyspor (On Loan)
+21, Samuele Damiani, ITA, M, 1.78, 74, 30-01-98, Poggibonsi, Juventus Next Gen (On Loan)
+37, Aleš Matějů, CZE, D, 1.84, 84, 03-06-96, Příbram, Spezia
+30, Nicola Valente, ITA, F, 1.70, 72, 06-10-91, Zevio, Padova

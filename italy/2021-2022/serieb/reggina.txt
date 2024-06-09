@@ -1,0 +1,52 @@
+=  Reggina - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Bruno Amione, ARG, D, 1.87, 78, 03-01-02, Calchaquí, Verona
+3, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, SPAL
+4, Dimitris Stavropoulos, GRE, D, 1.91, 82, 01-05-97, Athens, Panionios
+5, Mirco Musumeci, ITA, D, 1.85, -, 05-09-03, -, Cosenza
+6, Giuseppe Loiacono, ITA, D, 1.82, 77, 06-10-91, Bari, Foggia
+7, Jérémy Ménez, FRA, M, 1.81, 77, 07-05-87, Longjumeau, Paris FC
+8, Lorenzo Crisetig, ITA, M, 1.83, 80, 20-01-93, Cividale del Friuli, Mirandés
+10, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Salernitana
+12, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Salernitana
+13, Ottavio Garau, ITA, F, 1.71, 60, 09-12-02, Caserta, Roma
+14, Simone Pagni, ITA, F, 1.91, -, 02-11-04, Gallipoli, Lazio
+15, Nicolò Bianchi, ITA, M, 1.84, 76, 24-02-92, Como, Vicenza
+16, Andrej Galabinov, BUL, F, 1.90, 88, 27-11-88, Sofia, Spezia
+17, Gianluca Di Chiara, ITA, D, 1.85, 79, 26-12-93, Palermo, Perugia
+18, Gabriele Carlucci, ITA, M, -, -, 23-11-02, Rome, Roma
+19, Germán Denis, ARG, F, 1.83, 78, 10-09-81, Lomas de Zamora, Universitario de Deportes
+20, Tomasz Kupisz, POL, M, 1.80, 76, 02-01-90, Radom, Pordenone
+21, Mario Paura, ITA, D, 1.85, 76, 04-04-05, -, None
+22, Tommaso Aglietti, ITA, G, 1.84, 78, 29-02-00, Montevarchi, Vigor Carpaneto
+23, Emanuele Foti, ITA, D, -, -, -, -, None
+24, Marcel Perri, ITA, M, -, -, 07-07-05, -, None
+25, Luigi Sciammarella, ITA, G, 1.85, -, 22-02-06, -, Paolana
+27, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Sassuolo
+29, Ramzi Aya, ITA, D, 1.84, 79, 02-08-90, Rome, Salernitana
+30, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Bari
+31, Khadim Diop, SEN, F, -, -, -, -, Napoli U
+33, Ivan Lakićević, SRB, D, 1.80, 75, 27-07-93, Belgrade, Genoa
+46, Yassine Ejjaki, ITA, M, 1.72, 67, 15-05-99, Cremona, Vis Pesaro
+63, Stefano Turati, ITA, G, 1.88, 85, 05-09-01, Milan, Sassuolo
+72, Alessandro Cortinovis, ITA, F, 1.80, 76, 25-01-01, Bergamo, Atalanta
+77, Damiano Franco, ITA, D, 1.83, 75, 22-02-02, Rome, Lazio
+87, Cristiano Lombardi, ITA, F, 1.80, 75, 19-08-95, Viterbo, Lazio
+90, Michael Folorunsho, ITA, M, 1.80, 75, 07-02-98, Rome, Napoli
+91, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Ankaragücü
+93, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Atalanta
+98, Federico Giraudo, ITA, D, 1.77, 81, 11-08-98, Cuneo, Vis Pesaro
+99, Rigoberto Rivas, HON, M, 1.78, 70, 31-07-98, Balfate, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Cosenza (On Loan)
+94, Daniele Liotti, ITA, D, 1.80, 72, 08-06-94, Vibo Valentia, Cosenza (On Loan)
+5, Lorenzo Gavioli, ITA, M, 1.82, 72, 07-01-00, Ferrara, Renate (On Loan)
+1, Lorenzo Lofaro, ITA, G, 1.77, 70, 31-08-02, Reggio Calabria, Paternò (On Loan)
+11, Federico Ricci, ITA, F, 1.75, 63, 27-05-94, Rome, Ascoli (On Loan)
+13, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, 
+21, Karim Laribi, ITA, M, 1.75, 77, 20-04-91, Milan, Cittadella (On Loan)
+56, Perparim Hetemaj, FIN, M, 1.75, 74, 12-12-86, Skenderaj, HJK Helsinki

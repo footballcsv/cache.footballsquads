@@ -1,0 +1,48 @@
+=  Las Palmas - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Álvaro Valles, ESP, G, 1.90, 78, 25-05-97, La Rinconada, Betis B
+2, Álex Díez, ESP, D, 1.73, 64, 17-02-96, Cáceres, Extremadura
+3, Sergio Ruiz, ESP, M, 1.71, 70, 16-12-94, El Astillero, Charlotte FC
+4, Alex Suárez, ESP, D, 1.79, 75, 18-03-93, Las Palmas, Las Palmas B
+5, Tomás Cardona, ARG, D, 1.88, 80, 10-10-95, Capital Federal, Godoy Cruz (Mendoza)
+6, Eric Curbelo, ESP, D, 1.73, 69, 14-01-94, Telde, Las Palmas B
+7, Ariday Cabrera, ESP, F, 1.72, 68, 26-09-88, Las Palmas, Mallorca
+8, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Nàstic
+9, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Paris St-Germain
+10, Sergio Araujo, ARG, F, 1.80, 72, 28-01-92, Capital Federal, Boca Juniors
+11, Benito Ramírez, ESP, M, 1.75, 70, 11-07-95, Las Palmas, Las Palmas B
+12, Enzo Loiodice, FRA, M, 1.76, 60, 27-11-00, Paris, Dijon
+13, Ismael Athuman, KEN, D, 1.85, 82, 01-02-95, Maspalomas, Fuenlabrada
+14, Álvaro Lemos, ESP, D, 1.75, 72, 30-03-93, La Coruña, Celta Vigo
+15, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Las Palmas B
+16, Pejiño, ESP, M, 1.77, 67, 29-07-96, Barbate, Sevilla B
+17, Óscar Clemente, ESP, M, 1.75, 67, 26-03-99, Santa Cruz de Tenerife, Atlético Madrid B
+18, Javi Castellano, ESP, M, 1.81, 74, 02-11-87, Las Palmas, Mallorca B
+19, Edu Espiau, ESP, F, 1.85, 79, 19-12-94, Las Palmas, Las Palmas B
+20, Kirian Rodríguez, ESP, M, 1.78, 76, 05-03-96, Candelaria, Las Palmas B
+21, Cristian Rivera, ESP, M, 1.90, 80, 09-07-97, Gijón, Eibar
+22, Rafa Mújica, ESP, F, 1.83, 70, 29-10-98, Las Palmas, Leeds U
+23, Dani Castellano, ESP, D, 1.78, 74, 02-11-87, Las Palmas, Mallorca B
+24, Roberto González, ESP, F, 1.73, 62, 08-01-01, Mérida, Betis B
+25, Aythami, ESP, D, 1.84, 79, 02-04-86, Arguineguín, Córdoba
+26, Clau, ESP, F, 1.86, 78, 08-12-00, Arrecife, Las Palmas B
+27, Pol, ESP, M, 1.82, 66, 02-04-01, Girona, Las Palmas B
+28, Alberto Moleiro, ESP, M, 1.69, 67, 30-09-03, Santa Cruz de Tenerife, Las Palmas B
+29, Pau Miguélez, ESP, F, 1.74, 68, 23-01-99, Noja, Peralada
+30, Álex Domínguez, ESP, G, 1.87, 80, 30-07-98, Granollers, Alavés B
+31, Juan Satoca, ESP, M, 1.76, 74, 31-01-99, Elche, Málaga B
+32, Sergi Puig, ESP, G, 1.85, 73, 19-11-98, Premià de Mar, Barcelona B
+33, Jonathan, BRA, D, 1.72, 68, 03-03-98, Japeri, Almería
+34, David Vicente, ESP, D, 1.72, 67, 23-04-99, Zaragoza, Zaragoza B
+35, Saúl Coco, EQG, D, 1.88, 80, 09-02-99, Lanzarote, Las Palmas B
+36, Diego Gutiérrez, ESP, M, -, -, 03-09-00, Adeje, Las Palmas B
+37, Iñaki Elejalde, ESP, F, 1.76, 69, 20-01-99, Madrid, Alavés B
+38, Juan Fernández, ESP, F, 1.78, 72, 11-09-99, Barcelona, Cornellà
+39, Sergi Cardona, ESP, D, 1.85, 77, 08-07-99, Lloret de Mar, La Pobla de Mafumet
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Pietro Iemmello, ITA, F, 1.85, 75, 06-03-92, Catanzaro, Benevento
+22, Cristian Cedrés, ESP, M, 1.72, 59, 24-01-96, Las Palmas, De-Registered

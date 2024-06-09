@@ -1,0 +1,38 @@
+=  Atromitos - Greek Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriele Marchegiani, ITA, G, 1.89, 88, 03-06-96, Rome, Trento
+2, Wajdi Kechrida, TUN, D, 1.84, 74, 05-11-95, Nice, Salernitana
+3, Nikos Athanasiou, GRE, D, 1.77, 62, 16-03-01, Athens, None
+5, Lucas Acevedo, ARG, D, 1.94, 97, 08-11-91, Justiniano Posse, Colón (Santa Fe)
+6, Eder González, ESP, M, 1.70, 67, 07-01-97, Palma de Mallorca, Sepsi Sfântu Gheorghe
+7, Gaëtan Robail, FRA, F, 1.82, 73, 09-01-94, Saint-Pol-sur-Ternoise, Lens
+8, Samúel Fridjónsson, ISL, M, 1.86, 76, 22-02-96, Reykjanesbær, Viking
+9, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, Wolfsberger AC
+10, Aguibou Camara, GUI, M, 1.67, 60, 20-05-01, Matam, Olympiakos
+11, Denzel Jubitana, BEL, M, 1.73, 69, 06-05-99, -, Iraklis
+14, Karol Angielski, POL, F, 1.77, 70, 20-03-96, Kielce, Sivasspor
+16, Panagiotis Tsintotas, GRE, G, 1.92, 82, 04-07-93, Katerini, PAS Giannina
+17, August Erlingmark, SWE, M, 1.89, 80, 22-04-98, Gothenburg, IFK Göteborg
+18, Diego Valencia, CHI, F, 1.81, 68, 14-01-00, La Serena, Salernitana
+19, Kyriakos Kivrakidis, GRE, D, 1.81, 78, 21-07-92, Berlin, Eginiakos
+20, Antonis Trimmatis, GRE, F, 1.76, 75, 29-04-99, Kos, None
+22, Marios Tzavidas, GRE, F, 1.83, 74, 08-10-03, Lagonisi, Panathinaikos
+24, Spyros Ampartzidis, GRE, M, -, -, 24-01-05, -, None
+26, Pierre Kunde, CMR, M, 1.80, 86, 26-07-95, Limbé, Olympiakos
+27, Konstantinos Pomonis, GRE, D, -, -, 05-06-02, -, None
+28, Laurens De Bock, BEL, D, 1.79, 69, 07-11-92, Dendermonde, Zulte-Waregem
+29, Georgios Vrakas, GRE, M, 1.80, 70, 28-04-01, Ioannina, PAOK
+30, Andreas Kuen, AUT, M, 1.75, 74, 24-03-95, Zams, Sturm Graz
+31, Athanasios Karamanis, GRE, M, -, -, 14-10-03, -, None
+33, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, Pendikspor
+42, Christos Dimos, GRE, G, -, -, 03-07-03, -, None
+43, Giannis Saltas, GRE, G, -, -, 05-03-02, -, None
+44, Dimitrios Tsakmakis, GRE, D, 1.87, 74, 28-07-99, Thessaloniki, Panachaiki
+55, Tuur Dierckx, BEL, F, 1.71, 68, 09-05-95, Broechem, KVC Westerlo
+99, Georgios Tzovaras, GRE, F, 1.86, 75, 03-11-99, Volos, Niki Volos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Maksym Imerekov, UKR, D, 1.85, 74, 23-01-91, Makiivka, Metalist 1925 Kharkiv

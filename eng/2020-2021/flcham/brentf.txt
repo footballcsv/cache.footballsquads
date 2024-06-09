@@ -1,0 +1,47 @@
+=  Brentford - English Football League Championship 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Raya, ESP, G, 1.83, 80, 15-09-95, Barcelona, Blackburn R
+3, Rico Henry, ENG, D, 1.70, 66, 08-07-97, Birmingham, Walsall
+4, Charlie Goode, ENG, D, 1.96, 75, 03-08-95, Watford, Northampton T
+5, Ethan Pinnock, JAM, D, 1.92, 79, 29-05-93, Lambeth, Barnsley
+6, Christian Nørgaard, DEN, M, 1.86, 75, 10-03-94, Copenhagen, Fiorentina
+7, Sergi Canós, ESP, F, 1.73, 75, 02-02-97, Nules, Norwich C
+8, Mathias Jensen, DEN, M, 1.80, 68, 01-01-96, Horsens, Celta Vigo
+9, Emiliano Marcondes, DEN, M, 1.83, 75, 09-03-95, Hvidovre, FC Nordsjælland
+14, Josh Dasilva, ENG, F, 1.80, 75, 23-10-98, Redbridge, Arsenal
+15, Marcus Forss, FIN, F, 1.86, 73, 18-06-99, Turku, WBA
+17, Ivan Toney, ENG, F, 1.79, 65, 16-03-96, Northampton, Peterborough U
+18, Pontus Jansson, SWE, D, 1.94, 89, 13-02-91, Arlöv, Leeds U
+19, Bryan Mbeumo, FRA, F, 1.71, 65, 07-08-99, Avallon, Troyes
+20, Saman Ghoddos, IRN, M, 1.76, 75, 06-09-93, Malmö, Amiens
+22, Henrik Dalsgaard, DEN, D, 1.89, 79, 27-07-89, Roum, Zulte-Waregem
+23, Winston Reid, NZL, D, 1.90, 87, 03-07-88, Auckland, West Ham U
+24, Tariqe Fosu, GHA, M, 1.70, 67, 05-11-95, Wandsworth, Oxford U
+26, Shandon Baptiste, GRN, M, 1.80, 67, 08-04-98, -, Oxford U
+27, Vitaly Janelt, GER, M, 1.84, 79, 10-05-98, Hamburg, Bochum
+28, Luke Daniels, ENG, G, 1.93, 81, 05-01-88, Bolton, Scunthorpe U
+29, Mads Bech Sørensen, DEN, D, 1.85, 73, 07-01-99, Horsens, Horsens
+30, Mads Roerslev, DEN, D, 1.85, 74, 24-06-99, Copenhagen, FC København
+31, Jan Žambůrek, CZE, M, 1.82, 70, 13-02-01, -, Slavia Prague
+32, Paris Maghoma, ENG, M, 1.81, 70, 08-05-01, Enfield, Tottenham H
+34, Aaron Pressley, SCO, F, 1.89, 75, 07-11-01, Edinburgh, Aston Villa
+35, Kane O'Connor, SCO, D, -, -, 17-01-01, -, Hibernian
+36, Fin Stevens, WAL, D, 1.79, 73, 10-04-03, Brighton, Worthing
+37, Alex Gilbert, IRL, F, 1.83, 67, 28-12-01, Birmingham, WBA
+38, Max Haygarth, ENG, M, -, -, 21-01-02, Manchester, Manchester U
+39, Lewis Gordon, SCO, D, 1.70, 64, 12-02-01, Brent, Watford
+40, Nathan Shepperd, WAL, G, 1.80, 71, 10-09-00, Pontypridd, Swansea C
+41, Mads Bidstrup, DEN, M, -, -, 25-02-01, Køge, RB Leipzig
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Aston Villa
+16, Joel Valencia, ECU, M, 1.64, 61, 16-11-94, Quinindé, Legia Warszawa (On Loan)
+10, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, West Ham U
+2, Dominic Thompson, ENG, D, 1.85, 75, 26-07-00, Willesden, Swindon T (On Loan)
+13, Patrik Gunnarsson, ISL, G, 1.90, 84, 15-11-00, Kópavogur, Silkeborg (On Loan)
+25, Ellery Balcombe, ENG, G, 1.83, 76, 15-10-99, Watford, Doncaster R (On Loan)
+33, Fredrik Hammar, SWE, M, 1.76, 71, 26-02-01, -, Akropolis IF
+21, Halil Dervişoğlu, TUR, F, 1.83, 75, 08-12-99, Rotterdam, Galatasaray (On Loan)

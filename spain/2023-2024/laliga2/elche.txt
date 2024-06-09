@@ -1,0 +1,46 @@
+=  Elche - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Ponferradina
+2, Mario Gaspar, ESP, D, 1.82, 74, 24-11-90, Novelda, Watford
+3, Sebas Méndez, ECU, M, 1.80, 70, 26-04-97, Mira, São Paulo
+4, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Málaga
+5, John Chetauya, ESP, D, 1.85, 67, 25-09-00, Murcia, Villarreal C
+6, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Eibar
+7, Óscar Plano, ESP, M, 1.80, 68, 11-02-91, Móstoles, Valladolid
+8, Arnau Puigmal, ESP, M, 1.73, 65, 10-01-01, Barcelona, Almería
+9, Sergio Bermejo, ESP, M, 1.70, 61, 17-08-97, Madrid, Zaragoza
+10, Manuel Nieto, ESP, F, 1.82, 72, 29-03-98, Villa del Río, Andorra
+11, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Málaga
+12, José Salinas, ESP, D, 1.79, 69, 30-09-00, Callosa de Segura, Elche B
+13, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Fatih Karagümrük
+14, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Málaga
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+18, Borja Garcés, ESP, F, 1.75, 72, 06-08-99, Melilla, Atlético Madrid B
+19, Mourad Daoudi, MAR, F, 1.90, 85, 27-05-98, Balsapintada, Orihuela
+20, Cris Salvador, ESP, M, 1.84, 77, 20-11-94, Zamora, Huesca
+21, Nicolás Castro, ARG, M, 1.86, 76, 01-11-00, Rafaela, KRC Genk
+22, Nicolás Fernández, ARG, D, 1.72, 68, 11-01-00, Capital Federal, San Lorenzo
+23, Carlos Clerc, ESP, D, 1.80, 72, 21-02-92, Barcelona, Levante
+24, Sergio Carreira, ESP, D, 1.70, 65, 13-10-00, Vigo, Celta Vigo B
+26, Mario Guilabert, ESP, M, -, -, 22-12-05, -, Elche B
+27, Ali Houary, MAR, F, 1.78, 74, 05-08-05, Orihuela, Elche B
+29, Nordin, ESP, F, -, -, 14-02-05, -, Elche B
+30, Rodrigo Mendoza, ESP, M, 1.82, 72, 15-03-05, Murcia, Elche B
+31, Didac Castellá, ESP, F, -, -, 21-01-05, -, Elche B
+32, Adam Boayar, ESP, F, -, -, 13-10-05, -, Elche B
+34, Javi Pamies, ESP, D, -, -, 17-03-03, -, Elche B
+35, David López, ESP, D, 1.95, 85, 03-02-03, Palma de Mallorca, Mallorca B
+37, Rafa Núñez, DOM, F, 1.78, 58, 25-01-02, Bonao, Almería B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Espanyol
+9, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Granada
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Zaragoza (On Loan)
+15, Álex Martín, ESP, D, 1.82, 79, 25-01-98, Las Palmas, Racing Ferrol (On Loan)
+9, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Eibar
+3, Lautaro Blanco, ARG, D, 1.76, 81, 19-02-99, Rosario, Boca Juniors
+8, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza (On Loan)
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Albacete

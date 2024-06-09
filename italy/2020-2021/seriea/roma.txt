@@ -1,0 +1,60 @@
+=  Roma - Italian Serie A 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Rick Karsdorp, NED, D, 1.84, 80, 11-02-95, Schoonhoven, Feyenoord
+3, Roger Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Atalanta
+4, Bryan Cristante, ITA, M, 1.86, 80, 03-03-95, San Vito al Tagliamento, Atalanta
+5, Juan Jesus, BRA, D, 1.85, 83, 10-06-91, Belo Horizonte, Internazionale
+6, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Manchester U
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+9, Edin Džeko, BIH, F, 1.93, 80, 17-03-86, Sarajevo, Manchester C
+11, Pedro, ESP, M, 1.69, 65, 28-07-87, Santa Cruz de Tenerife, Chelsea
+12, Simone Farelli, ITA, G, 1.86, 82, 19-02-83, Rome, Pescara
+13, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Betis
+14, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Elche
+17, Jordan Veretout, FRA, M, 1.77, 67, 01-03-93, Ancenis, Fiorentina
+18, Davide Santon, ITA, D, 1.87, 77, 02-01-91, Portomaggiore, Internazionale
+19, Bryan Reynolds, USA, D, 1.90, 77, 28-06-01, Fort Worth, FC Dallas
+20, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Capital Federal, Tottenham H
+21, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid
+22, Nicolò Zaniolo, ITA, M, 1.90, 79, 02-07-99, Massa, Internazionale
+23, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Pontedera, Atalanta
+24, Marash Kumbulla, ALB, D, 1.91, 78, 08-02-00, Peschiera del Garda, Verona
+27, Javier Pastore, ARG, M, 1.87, 78, 20-06-89, Córdoba, Paris St-Germain
+31, Carles Pérez, ESP, F, 1.72, 65, 16-02-98, Granollers, Barcelona
+33, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Torino
+37, Leonardo Spinazzola, ITA, D, 1.86, 75, 25-03-93, Foligno, Juventus
+42, Amadou Diawara, GUI, M, 1.83, 75, 17-07-97, Conakry, Napoli
+50, Filippo Berti, ITA, G, 1.90, -, 31-01-03, Rome, None
+52, Edoardo Bove, ITA, M, 1.74, 61, 16-05-02, Rome, None
+54, Riccardo Ciervo, ITA, F, 1.90, 88, 01-04-02, Latina, Carso
+55, Ebrima Darboe, GAM, M, 1.78, 69, 06-06-01, Bakoteh, None
+56, Amir Feratovič, SVN, D, 1.89, 82, 08-06-02, Ljubljana, Bravo
+57, Ruben Providence, FRA, F, 1.73, 66, 07-07-01, Lagny-sur-Marne, Paris St-Germain
+58, Lamine Tall, SEN, F, 1.80, -, 05-12-01, Saint-Louis, None
+59, Nicola Zalewski, POL, F, 1.68, 60, 23-01-02, Tivoli, None
+60, Javier Vicario, ESP, D, -, -, 01-01-02, San Leonardo de Yagüe, Numancia B
+61, Riccardo Calafiori, ITA, D, 1.83, 78, 19-05-02, Rome, None
+62, Tommaso Milanese, ITA, M, 1.72, 61, 31-07-02, Galatina, None
+63, Pietro Boer, ITA, G, 1.93, 80, 12-05-02, Mestre, Venezia
+64, Suf Podgoreanu, ISR, F, 1.93, 76, 20-01-02, Hadera, Maccabi Haifa
+65, Filippo Tripi, ITA, D, 1.80, 69, 06-01-02, Rome, None
+66, Alessio Buttaro, ITA, D, 1.68, 62, 10-09-02, Rome, None
+67, Mory Bamba, CIV, F, 1.72, -, 01-06-02, Bondoukou, Vigor Perconti
+68, Antonio Satriano, ITA, F, 1.85, 82, 30-10-03, Locri, Crotone
+70, Matteo Tomassini, ITA, D, 1.77, 71, 07-06-02, Rome, None
+71, Raul Morichelli, ITA, D, 1.91, -, 25-07-02, Marino, None
+77, Henrikh Mkhitaryan, ARM, M, 1.77, 75, 21-01-89, Yerevan, Arsenal
+83, Antonio Mirante, ITA, G, 1.93, 79, 08-07-83, Castellammare di Stabia, Bologna
+87, Daniel Fuzato, BRA, G, 1.90, 88, 04-07-97, Santa Bárbara d'Oeste, Palmeiras
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Shanghai Shenhua
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+51, Devid Eugene Bouah, ITA, D, 1.80, 67, 13-08-01, Rome, Cosenza (On Loan)
+1, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, Everton (On Loan)
+8, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Fenerbahçe
+48, Mirko Antonucci, ITA, M, 1.81, 76, 11-03-99, Rome, Salernitana (On Loan)
+99, Justin Kluivert, NED, F, 1.71, 67, 05-05-99, Amsterdam, RB Leipzig (On Loan)
+53, Luca Chierico, ITA, M, 1.80, 68, 26-09-01, Rome, Genoa

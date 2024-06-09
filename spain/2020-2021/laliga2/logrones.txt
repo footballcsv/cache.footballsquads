@@ -1,0 +1,43 @@
+=  Logroñés - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rubén Miño, ESP, G, 1.90, 87, 18-01-89, Cornellà de Llobregat, Politehnica Iași
+2, Unai Medina, ESP, D, 1.77, 78, 16-02-90, Bilbao, Sporting Gijón
+3, Daniel Pacheco, ESP, M, 1.68, 65, 05-01-91, Málaga, Málaga
+4, Gorka Pérez, ESP, D, 1.86, 79, 19-06-95, Gordexola, Athletic Bilbao B
+5, Pablo Bobadilla, ESP, D, 1.87, 78, 16-11-96, Logroño, Logroñés B
+6, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Cádiz
+7, Leonardo Acevedo, COL, F, 1.85, 76, 18-04-96, Medellín, Sporting CP
+8, Lander Olaetxea, ESP, M, 1.79, 75, 12-04-93, Abadiño, Athletic Bilbao B
+9, Ander Vitoria, ESP, F, 1.79, 76, 22-01-90, Igorre, Barakaldo
+10, Zelu, ESP, M, 1.70, 67, 21-01-96, Jerez de la Frontera, Córdoba
+11, Rubén Martínez, ESP, M, 1.67, 60, 08-12-89, Mahón, Melilla
+12, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Leeds U
+13, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Rayo Vallecano
+14, Jon Errasti, ESP, M, 1.80, 81, 06-06-88, Eibar, Elana Toruń
+15, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Zaragoza
+16, Iñaki, ESP, D, 1.77, 75, 29-04-88, Logroño, Tenerife
+17, Andy, ESP, M, 1.85, 79, 30-01-90, Almuñécar, Ponferradina
+18, Paulino, ESP, M, 1.81, 75, 27-06-97, Santander, Alavés B
+19, Ousama Siddiki, MAR, F, 1.81, 79, 13-04-98, Tétouan, Leeds U
+20, Iago López, ESP, D, 1.77, 70, 06-04-99, Lugo, Girona
+21, Damián Petcoff, ARG, M, 1.74, 69, 24-05-90, Capital Federal, Nàstic
+22, Roni, ESP, F, 1.81, 74, 02-08-93, Oviedo, Langreo
+23, Andoni López, ESP, D, 1.87, 73, 05-04-96, Barakaldo, Athletic Bilbao B
+24, Álex Pérez, ESP, D, 1.89, 80, 11-08-91, Madrid, Arminia Bielefeld
+25, Dani Giménez, ESP, G, 1.82, 77, 30-07-83, Vigo, Deportivo La Coruña
+26, Jaime Sierra, ESP, M, 1.75, 63, 18-03-98, Madrid, Leganés B
+27, Adrián Ruiz, ESP, M, 1.87, 81, 12-04-00, Carcar, Logroñés B
+28, Víctor Martínez, ESP, D, 1.83, 78, 04-11-98, Logroño, Logroñés B
+29, Martín Lapeña, ESP, F, 1.70, 65, 11-03-00, Valencia, Valencia B
+30, Yaroslav Meykher, UKR, G, 1.84, 75, 21-03-00, Ternopil, Logroñés B
+31, José Antonio Viguera, ESP, D, -, -, 01-01-98, Logroño, Numancia B
+32, Sergio García, ESP, D, -, -, 14-04-01, Leganés, Logroñés B
+33, Víctor Pradas, ESP, G, 1.88, 76, 20-04-99, Logroño, Logroñés B
+34, Christian Cores, ESP, G, 1.87, 76, 31-01-03, Logroño, Logroñés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Rajiv van La Parra, NED, M, 1.81, 72, 04-06-91, Rotterdam, Würzburger Kickers
+6, Álvaro Arnedo, ESP, M, 1.78, 64, 09-06-96, Logroño, Portugalete

@@ -1,0 +1,52 @@
+=  Millwall - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, George Long, ENG, G, 1.93, 93, 05-11-93, Sheffield, Hull C
+2, Dan McNamara, IRL, D, 1.80, 69, 27-12-98, Bexley, None
+3, Murray Wallace, SCO, D, 1.81, 71, 10-01-93, Glasgow, Scunthorpe U
+4, Shaun Hutchinson, ENG, D, 1.88, 80, 23-11-90, Newcastle upon Tyne, Fulham
+5, Jake Cooper, ENG, D, 1.93, 85, 03-02-95, Bracknell, Reading
+6, Maikel Kieftenbeld, NED, M, 1.79, 75, 26-06-90, Dalfsen, Birmingham C
+7, Jed Wallace, ENG, M, 1.78, 69, 15-12-93, Reading, Wolverhampton W
+9, Tom Bradshaw, WAL, F, 1.65, 69, 27-07-92, Shrewsbury, Barnsley
+10, Oliver Burke, SCO, M, 1.74, 75, 07-04-97, Melton Mowbray, Sheffield U
+11, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Derby Co
+13, Ryan Sandford, ENG, G, 1.88, 75, 21-02-99, Lambeth, None
+14, Sheyi Ojo, ENG, F, 1.77, 64, 19-06-97, Hemel Hempstead, Liverpool
+15, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, Derby Co
+16, Luke Freeman, ENG, M, 1.83, 64, 22-03-92, Dartford, Sheffield U
+17, George Saville, NIR, M, 1.76, 73, 01-06-93, Camberley, Middlesbrough
+18, Ryan Leonard, ENG, D, 1.85, 84, 24-05-92, Chaddlewood, Sheffield U
+20, Mason Bennett, ENG, F, 1.78, 65, 15-07-96, Shirebrook, Derby Co
+21, Connor Mahoney, ENG, M, 1.75, 67, 12-02-97, Blackburn, Bournemouth
+23, Benik Afobe, COD, F, 1.83, 78, 12-02-93, Leyton, Stoke C
+24, Billy Mitchell, ENG, M, 1.76, 75, 07-04-01, Orpington, None
+26, Daniel Ballard, NIR, D, 1.87, 85, 22-09-99, Stevenage, Arsenal
+27, Junior Tiensia, ENG, D, -, -, 25-12-00, -, None
+28, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Derby Co
+30, Sean O'Brien, IRL, F, -, -, 13-10-01, -, QPR
+31, Joe Wright, ENG, G, 1.85, 82, 10-04-01, Bromley, None
+32, Tyler Burey, ENG, F, 1.87, 78, 09-01-01, Hillingdon, AFC Wimbledon
+33, Bartosz Białkowski, POL, G, 1.94, 83, 06-07-87, Braniewo, Ipswich T
+35, Hayden Muller, ENG, D, 1.93, 73, 07-02-02, Croydon, None
+36, Alfie Allen, ENG, M, -, -, 13-11-02, -, None
+37, Abdul Abdulmalik, ENG, F, -, -, 21-04-03, -, None
+38, Nana Boateng, ENG, F, 1.84, 78, 17-09-02, Lambeth, None
+39, Tyrese Briscoe, ENG, F, -, -, 27-10-02, -, None
+40, Besart Topalloj, KVX, D, 1.85, 78, 16-05-01, Bromley, None
+41, Jordan Gillmore, ENG, G, 1.86, 80, 02-10-02, Canterbury, None
+42, Arthur Penney, ENG, D, -, -, 13-10-02, -, None
+43, Jayden Davis, ENG, M, 1.78, 73, 19-11-01, Croydon, None
+45, Seb Drozd, ENG, M, -, -, 28-04-03, -, Uxbridge
+49, Zak Lovelace, ENG, F, -, -, 23-01-06, Wandsworth, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Mahlon Romeo, ATG, D, 1.78, 73, 19-09-95, Westminster, Portsmouth (On Loan)
+25, Isaac Olaofe, ENG, F, 1.81, 70, 21-11-99, Lewisham, Sutton U (On Loan)
+34, Alex Mitchell, ENG, D, 1.91, 85, 07-10-01, Slough, Leyton Orient (On Loan)
+44, Dan Moss, ENG, D, 1.80, 60, 04-11-00, Worcester, Leyton Orient (On Loan)
+10, Matt Smith, ENG, F, 1.98, 75, 07-06-89, Birmingham, Salford C
+22, Jón Daði Böðvarsson, ISL, F, 1.90, 85, 25-05-92, Selfoss, Bolton W
+8, Ben Thompson, ENG, M, 1.80, 78, 03-10-95, Sidcup, Gillingham

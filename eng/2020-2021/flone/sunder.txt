@@ -1,0 +1,54 @@
+=  Sunderland - English Football League One 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Burge, ENG, G, 1.80, 70, 09-01-93, Hereford, Coventry C
+2, Conor McLaughlin, NIR, D, 1.83, 71, 26-07-91, Belfast, Millwall
+3, Tom Flanagan, NIR, D, 1.88, 72, 21-10-91, Hammersmith, Burton Alb
+4, Jordan Willis, ENG, D, 1.80, 70, 24-08-94, Coventry, Coventry C
+5, Bailey Wright, AUS, D, 1.84, 84, 28-07-92, Melbourne, Bristol C
+6, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Wigan Ath
+7, Chris Maguire, SCO, M, 1.70, 66, 16-01-89, Bellshill, Bury
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Bradford C
+10, Aiden O'Brien, IRL, F, 1.83, 72, 04-10-93, Islington, Millwall
+11, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+12, Benji Kimpioka, SWE, M, 1.82, 67, 21-02-00, Knivsta, IK Sirius
+13, Luke O'Nien, ENG, M, 1.74, 74, 21-11-94, Hemel Hempstead, Wycombe W
+14, Josh Scowen, ENG, M, 1.78, 74, 28-03-93, Enfield, QPR
+16, Dion Sanderson, ENG, D, 1.88, 78, 15-12-99, Wolverhampton, Wolverhampton W
+19, Arbenit Xhemajli, KVX, D, 1.90, 81, 23-04-98, Brugg, Neuchâtel Xamax
+20, Remi Matthews, ENG, G, 1.84, 78, 10-02-94, Gorleston, Bolton W
+21, Jack Diamond, ENG, F, 1.75, 61, 12-01-00, Gateshead, None
+23, Grant Leadbitter, ENG, M, 1.77, 79, 07-06-86, Chester-le-Street, Middlesbrough
+24, Dan Neil, ENG, M, 1.78, 65, 13-12-01, South Shields, None
+25, Callum McFadzean, SCO, D, 1.80, 75, 16-01-94, Sheffield, Plymouth Arg
+26, Carl Winchester, NIR, M, 1.78, 74, 12-04-93, Belfast, Forest Green R
+27, Jordan Jones, NIR, F, 1.74, 61, 24-10-94, Middlesbrough, Rangers
+28, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Everton
+29, Ciéran Dunne, IRL, M, 1.79, 68, 08-02-00, Falkirk, Falkirk
+30, Jake Vokins, ENG, D, 1.80, 70, 17-03-00, Oxford, Southampton
+31, Ross Stewart, SCO, F, 1.88, 85, 11-07-96, Irvine, Ross Co
+33, Denver Hume, ENG, D, 1.77, 72, 11-08-98, Ashington, None
+34, Jake Hackett, ENG, M, 1.70, 60, 10-01-00, Durham, None
+35, Ollie Younger, ENG, D, 1.83, 70, 14-11-99, Skipton, Burnley
+36, Sam Wilding, ENG, M, -, -, 31-01-00, Walsall, WBA
+37, Kenton Richardson, ENG, D, 1.85, 70, 26-06-99, Durham, Hartlepool U
+38, Vinnie Steels, ENG, M, -, -, 09-08-01, Hartlepool, Burnley
+39, Stephen Wearne, ENG, M, 1.81, 76, 16-12-00, Stockton-on-Tees, Middlesbrough
+40, Brandon Taylor, ENG, D, 1.84, 75, 10-05-99, Gateshead, None
+41, Ryan Wombwell, ENG, D, -, -, 23-02-03, Newcastle upon Tyne, None
+42, Josh Hawkes, ENG, M, 1.80, 80, 28-01-99, Stockton-on-Tees, Hartlepool U
+43, Anthony Patterson, ENG, G, 1.89, 77, 10-05-00, North Shields, None
+44, Bobby Beaumont, WAL, D, -, -, 25-03-02, Wrexham, Wrexham
+45, Will Harris, ENG, F, -, -, 01-10-00, South Shields, Burnley
+51, Adam Richardson, ENG, G, -, -, 07-09-03, -, None
+54, Patrick Almond, SCO, D, -, -, 16-04-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Morgan Feeney, ENG, D, 1.90, 77, 08-02-99, Bootle, Carlisle U
+8, George Dobson, ENG, M, 1.85, 73, 15-11-97, Harold Wood, AFC Wimbledon (On Loan)
+17, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, Blackpool (On Loan)
+18, Danny Graham, ENG, F, 1.83, 87, 12-08-85, Gateshead, Retired
+22, Will Grigg, NIR, F, 1.80, 70, 03-07-91, Solihull, MK Dons (On Loan)
+46, Mitchell Curry, ENG, F, -, -, 14-07-99, Newcastle upon Tyne, Fort Lauderdale CF

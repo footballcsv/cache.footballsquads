@@ -1,0 +1,44 @@
+=  Cittadella - Italian Serie B 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filippo Manfrin, ITA, G, 1.86, 75, 13-04-04, Vicenza, None
+2, Romano Perticone, ITA, D, 1.83, 80, 13-08-86, Melzo, Salernitana
+3, Gianfilippo Felicioli, ITA, D, 1.80, 77, 30-09-97, San Severino Marche, Venezia
+5, Dario Del Fabro, ITA, D, 1.89, 75, 24-03-95, Alghero, Juventus
+6, Santiago Visentin, ARG, D, 1.87, 80, 05-03-99, Rosario, Crotone
+7, Carlos Embalo, GNB, F, 1.75, 74, 25-11-94, Bissau, Eupen
+10, Mirko Antonucci, ITA, M, 1.78, 72, 11-03-99, Rome, Roma
+12, Matteo Michielin, ITA, G, 1.88, -, 19-04-05, -, None
+14, Alessandro Salvi, ITA, D, 1.81, 76, 05-06-88, Bergamo, Ascoli
+15, Domenico Frare, ITA, D, 1.87, 80, 10-05-96, Conegliano, Pontedera
+16, Alessio Vita, ITA, M, 1.78, 67, 16-03-93, Rome, Feralpisalò
+17, Daniele Donnarumma, ITA, D, 1.80, 75, 12-04-92, Gragnano, Monopoli
+18, Alessandro Mattioli, ITA, D, 1.81, 80, 13-02-98, Reggio Emilia, Modena
+19, Vincenzo Ciriello, ITA, D, 1.85, 75, 16-08-02, Naples, Casertana
+20, Giuseppe Carriero, ITA, M, 1.77, 73, 04-09-97, Desio, Avellino
+21, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Empoli
+23, Simone Branca, ITA, M, 1.79, 70, 25-03-92, Busto Arsizio, Vejle
+26, Nicola Pavan, ITA, M, 1.86, 80, 15-06-93, Thiene, Renate
+29, Valerio Mastrantonio, ITA, M, 1.80, 75, 22-06-99, Rome, Frosinone
+30, Ignacio Lores Varela, URU, F, 1.82, 73, 26-04-91, Montevideo, Siena
+32, Tommy Maistrello, ITA, F, 1.93, 80, 24-06-93, Correggio, Renate
+36, Elhan Kastrati, ALB, G, 1.89, 82, 02-02-97, Has, Trapani
+70, Giuseppe Ambrosino, ITA, F, 1.87, 69, 10-09-03, Procida, Napoli
+72, Andrea Danzi, ITA, M, 1.75, 75, 25-02-99, San Martino Buon Albergo, Verona
+77, Luca Maniero, ITA, G, 1.88, 80, 12-06-95, Padua, Palermo
+90, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, Lecce
+92, Enrico Baldini, ITA, F, 1.80, 75, 13-11-96, Massa, Fano
+98, Federico Giraudo, ITA, D, 1.77, 81, 11-08-98, Cuneo, Reggina
+99, Andrea Magrassi, ITA, F, 1.93, 85, 06-02-93, Dolo, Virtus Entella
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Serigne Saliou Thioune, ITA, M, 1.79, 68, 07-02-04, -, Yverdon Sport
+24, Simone Icardi, ITA, M, 1.83, 77, 13-09-96, Rome, Feralpisalò (On Loan)
+87, Gianluca Bassano, ITA, D, 1.85, 75, 05-01-99, Empoli, Aquila Montevarchi (On Loan)
+11, Giacomo Beretta, ITA, F, 1.85, 80, 14-03-92, Varese, Foggia
+84, Tommaso Cassandro, ITA, D, 1.85, 75, 09-01-00, Dolo, Lecce
+8, Davide Mazzocco, ITA, M, 1.86, 80, 06-10-95, Feltre, Avellino
+9, Mamadou Tounkara, SEN, F, 1.86, 78, 19-01-96, Blanes, Avellino (On Loan)
+21, Camillo Tavernelli, ITA, F, 1.71, 72, 10-07-99, Città di Castello, Triestina (On Loan)

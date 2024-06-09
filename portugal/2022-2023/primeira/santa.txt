@@ -1,0 +1,50 @@
+=  Santa Clara - Portuguese Primeira Liga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ricardo Fernandes, POR, G, 1.93, 79, 28-10-94, Oliveira do Bairro, Académico Viseu
+2, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, Mazatlán
+3, Xavi Quintillà, ESP, D, 1.79, 70, 23-08-96, Lleida, Villarreal
+4, Kennedy Boateng, GHA, D, 1.91, 78, 29-11-96, -, Ried
+6, Bruno Jordão, POR, M, 1.80, 73, 12-10-98, Marinha Grande, Wolverhampton W
+7, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Estoril
+8, Anderson Carvalho, BRA, M, 1.76, 74, 20-05-90, Cubatão, FC Tosno
+9, Kyosuke Tagawa, JPN, F, 1.81, 70, 11-02-99, Kagoshima, FC Tokyo
+10, Ricardinho, POR, M, 1.78, 73, 06-08-98, Porto, Rio Ave
+11, Costinha, POR, M, 1.70, 64, 25-08-92, Coimbra, Chaves
+12, Gabriel Batista, BRA, G, 1.91, 85, 03-06-98, São Gonçalo, Flamengo
+13, Diogo Calila, POR, D, 1.80, 73, 10-10-98, Seixal, Belenenses
+16, Paulo Henrique, POR, D, 1.82, 76, 23-10-96, Fenais da Luz, Penafiel
+19, Bruno Almeida, POR, F, 1.72, 66, 09-09-96, Porto, Trofense
+20, Adriano, BRA, M, 1.87, 79, 04-11-99, Rio de Janeiro, Cruzeiro
+21, Andrezinho, POR, F, 1.74, 58, 01-12-96, Lisbon, DAC Dunajská Streda
+22, Filip Stevanović, SRB, F, 1.77, 72, 25-09-02, Arilje, Manchester C
+24, Walter González, PAR, F, 1.85, 79, 21-05-95, Doctor Juan León Mallorquín, Olimpia [PAR]
+31, Nanú, GNB, D, 1.77, 67, 17-05-94, Coimbra, FC Porto
+32, MT, BRA, M, 1.85, 82, 01-03-01, Cabo Frio, Vasco da Gama
+37, Rildo, BRA, M, 1.78, 73, 21-01-00, Rondonópolis, Grêmio
+39, Matheus Babi, BRA, F, 1.91, 75, 18-07-97, Macaé, Athletico Paranaense
+40, Kento Misao, JPN, M, 1.80, 71, 16-04-96, Musashino, Kashima Antlers
+43, Paulo Eduardo, BRA, D, 1.87, 79, 14-02-02, Anápolis, Cruzeiro
+44, Ítalo, BRA, D, 1.91, 78, 18-02-02, Salvador, São Bernardo
+49, Gabriel Silva, BRA, F, 1.77, 78, 22-03-02, Ribeirão Preto, Palmeiras
+50, João Afonso, POR, G, 1.87, 67, 30-04-07, -, None
+74, Marcos Díaz, ARG, G, 1.87, 84, 05-02-86, Santa Fe, Huracán
+80, Victor Bobsin, BRA, M, 1.85, 80, 12-01-00, Porto Alegre, Grêmio
+95, Pierre Sagna, SEN, D, 1.83, 76, 21-08-90, Valenciennes, Panetolikos
+99, Marco Pereira, POR, G, 1.83, 83, 12-01-87, Paraíso, Freamunde
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Mohammad Mohebi, IRN, F, 1.76, 72, 20-12-98, Bushehr, Esteghlal (On Loan)
+6, Martim Maia, POR, M, 1.75, 78, 24-05-98, Maia, Trofense (On Loan)
+22, Pipe Gómez, COL, F, 1.73, 65, 11-10-99, Cartagena, Leones
+5, João Afonso, POR, D, 1.88, 80, 28-05-90, Castelo Branco, Torreense (On Loan)
+14, Rúben Oliveira, POR, M, 1.70, 66, 14-12-94, Oliveira de Azeméis, B-SAD (On Loan)
+41, Ricardo Silva, POR, G, 1.89, 80, 09-05-99, Mafamude, Moreirense
+77, Rui Costa, BRA, F, 1.79, 73, 20-02-96, Vila Nova de Famalicão, Farense
+15, Rodrigo Valente, POR, M, 1.73, 64, 15-02-01, Santa Maria da Feira, Penafiel (On Loan)
+89, João Lima, BRA, F, 1.80, 78, 11-05-00, -, B-SAD (On Loan)
+35, Pedro Bicalho, BRA, M, 1.78, 73, 23-04-01, São José dos Campos, Palmeiras
+90, Patrick, BRA, M, 1.76, 65, 23-11-98, Porto Alegre, Brasil de Pelotas (On Loan)
+17, Cristian González, URU, D, 1.84, 80, 23-07-96, Montevideo, FC Khimki

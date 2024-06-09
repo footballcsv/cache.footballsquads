@@ -1,0 +1,42 @@
+=  Venezia - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jesse Joronen, FIN, G, 1.97, 89, 21-03-93, Helsinki, Brescia
+4, Jay Idzes, NED, M, 1.84, 78, 02-06-00, Mierlo, Go Ahead Eagles
+6, Gianluca Busio, USA, M, 1.72, 65, 28-05-02, Greensboro, Sporting Kansas City
+7, Francesco Zampano, ITA, D, 1.78, 68, 30-09-93, Genoa, Frosinone
+8, Tanner Tessmann, USA, M, 1.88, 76, 24-09-01, Hoover, FC Dallas
+9, Christian Gytkjær, DEN, F, 1.85, 77, 06-05-90, Roskilde, Monza
+10, Nicholas Pierini, ITA, F, 1.76, 70, 06-08-98, Parma, Cesena
+12, Bruno Bertinato, BRA, G, 1.94, 79, 31-05-98, Curitiba, Coritiba
+13, Marco Modolo, ITA, D, 1.86, 80, 23-03-89, San Donà di Piave, Parma
+15, Giorgio Altare, ITA, D, 1.90, 84, 09-08-98, Bergamo, Cagliari
+18, Mato Jajalo, CRO, M, 1.82, 81, 25-05-88, Jajce, Udinese
+19, Bjarki Steinn Bjarkason, ISL, M, 1.80, 71, 11-05-00, Reykjavík, ÍA Akranes
+20, Joel Pohjanpalo, FIN, F, 1.84, 75, 13-09-94, Helsinki, Bayer Leverkusen
+21, Denis Cheryshev, RUS, M, 1.79, 74, 26-12-90, Nizhny Novgorod, Valencia
+22, Eryk Slowikowski, USA, G, 1.90, -, 04-04-05, Chicago, FC Wrocław Academy
+23, Matteo Grandi, ITA, G, 1.90, 75, 12-10-92, Faenza, Sangiuliano City
+24, Nunzio Lella, ITA, D, 1.88, 73, 28-07-00, Santeramo in Colle, Cagliari
+25, Ali Dembélé, FRA, D, 1.85, 69, 05-01-04, -, Torino
+27, Antonio Candela, ITA, D, 1.82, 77, 27-04-00, La Spezia, Genoa
+30, Michael Svoboda, AUT, D, 1.95, 90, 15-10-98, Vienna, WSG Tirol
+31, Maximilian Ullmann, AUT, D, 1.79, 65, 17-06-96, Linz, Rapid Vienna
+33, Marin Šverko, CRO, D, 1.87, 78, 04-02-98, Pforzheim, FC Groningen
+38, Magnus Kofoed Andersen, DEN, M, 1.75, 64, 10-05-99, Hundested, FC Nordsjælland
+60, Lorenzo Busato, ITA, D, 1.80, 78, 09-02-04, -, None
+67, Federico Tavernaro, ITA, M, -, -, 05-01-05, -, None
+77, Mikael Egill Ellertsson, ISL, M, 1.82, 68, 11-03-02, Reykjavík, Spezia
+85, Gregor Pürg, EST, G, 1.90, -, 07-12-05, Tallinn, Nõmme U
+90, Alvin Obinna Okoro, NGA, F, 1.85, -, 26-03-05, -, Pordenone
+99, Marco Olivieri, ITA, F, 1.78, 73, 30-06-99, Fermo, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Lecco (On Loan)
+16, Luca Fiordilino, ITA, M, 1.77, 68, 25-07-96, Palermo, Feralpisalò (On Loan)
+5, Ridgeciano Haps, NED, D, 1.75, 76, 12-06-93, Utrecht, Genoa (On Loan)
+65, Amin Boudri, SWE, F, 1.76, 60, 29-09-04, -, GAIS
+17, Dennis Johnsen, NOR, F, 1.85, 72, 17-02-98, Skien, Cremonese
+28, Hilmir Rafn Mikaelsson, ISL, F, 1.89, 82, 02-02-04, -, Kristiansund (On Loan)

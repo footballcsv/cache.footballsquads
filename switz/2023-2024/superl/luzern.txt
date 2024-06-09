@@ -1,0 +1,41 @@
+=  Luzern - Swiss Super League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pascal Loretz, SUI, G, 1.88, 80, 01-06-03, Lucerne, None
+2, Severin Ottiger, SUI, D, 1.83, 80, 20-04-03, Sursee, None
+3, Jesper Löfgren, SWE, D, 1.93, 87, 03-05-97, Kalmar, Djurgårdens IF
+4, Luca Jaquez, SUI, D, 1.87, 80, 02-06-03, Lucerne, None
+5, Denis Simani, ALB, D, 1.88, 90, 13-10-91, St. Gallen, Vaduz
+6, Ardon Jashari, SUI, M, 1.80, 80, 30-07-02, Cham, None
+7, Max Meyer, GER, M, 1.69, 65, 18-09-95, Oberhausen, Fenerbahçe
+9, Adrian Grbić, AUT, F, 1.88, 82, 04-08-96, Vienna, Lorient
+10, Kevin Spadanuda, SUI, M, 1.77, 72, 16-01-97, Bülach, Ajaccio
+11, Teddy Okou, FRA, F, 1.65, 64, 15-05-98, Paris, Stade Lausanne Ouchy
+13, Martin Frýdek, CZE, D, 1.79, 76, 24-03-92, Hradec Králové, Sparta Prague
+14, Luuk Breedijk, SUI, F, 1.85, 73, 20-02-04, Locarno, None
+16, Jakub Kadák, SVK, M, 1.77, 69, 14-12-00, Trenčín, AS Trenčín
+17, Thibault Klidjé, TOG, F, 1.69, 66, 10-07-01, Hahotoé, Bordeaux
+18, Nicky Beloko, SUI, M, 1.82, 65, 16-02-00, Ebolowa, Neuchâtel Xamax
+20, Pius Dorn, GER, D, 1.79, 74, 24-09-96, Freiburg, Thun
+22, Dario Ulrich, SUI, M, 1.72, 69, 12-03-98, Schwyz, Vaduz
+23, Mauricio Willimann, SUI, D, 1.83, 81, 16-01-03, Mexico City, None
+25, Mile Vukelić, SUI, D, 1.88, 82, 25-02-03, Muri, Basel
+26, Iwan Hegglin, SUI, M, 1.84, 78, 26-06-02, Cham, None
+27, Lars Villiger, SUI, F, 1.90, 85, 29-04-03, Muri, None
+29, Levin Winkler, SUI, M, 1.84, 78, 13-08-03, Liestal, Basel
+30, Ismajl Beka, KVX, D, 1.97, 84, 31-10-99, Frauenfeld, Wil
+32, Nicolas Haas, SUI, M, 1.81, 74, 23-01-96, Sursee, Empoli
+33, Leny Meyer, SUI, D, 1.82, 73, 01-07-04, Vevey, None
+41, Noah Rupp, SUI, M, 1.84, 75, 13-08-03, Zug, None
+44, Diego Heller, SUI, G, 1.80, 77, 20-11-04, -, None
+69, Sofyan Chader, FRA, M, 1.81, 76, 12-05-00, Lyon, Clermont
+71, Sascha Meyer, SUI, M, 1.85, 80, 21-04-06, -, None
+90, Vaso Vasić, SRB, G, 1.86, 80, 26-04-90, Leuggern, Excel Mouscron
+99, Kemal Ademi, SUI, F, 1.97, 90, 23-01-96, Villingen-Schwenningen, FC Khimki
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Joaquín Ardaiz, URU, F, 1.83, 81, 11-01-99, Salto, Şanlıurfaspor (On Loan)
+46, Marco Burch, SUI, D, 1.83, 75, 19-10-00, Sarnen, Legia Warszawa
+21, Asumah Abubakar, GHA, F, 1.83, 70, 10-05-97, Kamasu, Grasshoppers

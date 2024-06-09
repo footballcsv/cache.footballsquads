@@ -1,0 +1,44 @@
+=  Levante - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Son, ESP, D, 1.79, 70, 30-03-94, Seville, Ponferradina
+3, Toño, ESP, D, 1.79, 69, 07-11-89, Alcalá de Henares, Recreativo Huelva
+4, Róber Pier, ESP, D, 1.82, 74, 16-02-95, Oleiros, Deportivo La Coruña B
+5, Nemanja Radoja, SRB, M, 1.86, 77, 06-02-93, Novi Sad, Celta Vigo
+6, Óscar Duarte, CRC, D, 1.86, 81, 03-06-89, Catarina, Espanyol
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Betis
+9, Roger, ESP, F, 1.79, 74, 03-01-91, Torrent, Levante B
+10, Enis Bardhi, MKD, M, 1.69, 67, 02-07-95, Skopje, Újpest
+11, José Luis Morales, ESP, M, 1.80, 70, 23-07-87, Madrid, Fuenlabrada
+12, Mickaël Malsa, FRA, M, 1.78, 69, 12-10-95, Paris, Mirandés
+13, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Numancia
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Valencia
+15, Sergio Postigo, ESP, D, 1.84, 78, 04-11-88, Madrid, Spezia
+16, Rubén Rochina, ESP, M, 1.81, 70, 23-03-91, Sagunto, Rubin Kazan
+17, Nikola Vukčević, MNE, M, 1.84, 74, 13-12-91, Podgorica, Sporting Braga
+18, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Real Madrid B
+19, Carlos Clerc, ESP, D, 1.80, 72, 21-02-92, Barcelona, Osasuna
+20, Jorge Miramón, ESP, D, 1.76, 74, 02-06-89, Zaragoza, Huesca
+21, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Real Madrid B
+22, Gonzalo Melero, ESP, M, 1.83, 77, 02-01-94, Madrid, Huesca
+23, Coke, ESP, D, 1.82, 78, 26-04-87, Madrid, Schalke
+24, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Sampdoria
+25, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Metz
+27, Álex Blesa, ESP, M, 1.80, 72, 15-01-02, Valencia, Levante B
+29, Alejandro Cantero, ESP, F, 1.82, 76, 08-06-00, Madrid, Levante B
+30, Ferni, ESP, M, 1.80, 72, 07-04-98, Talavera de la Reina, Atlético Madrid B
+32, Pablo Picón, ESP, G, 1.85, 78, 01-02-00, Valencia, Levante B
+34, Dani Cárdenas, ESP, G, 1.86, 80, 28-03-97, Terrassa, Levante B
+39, Euse Monzó, ESP, D, 1.88, 78, 04-12-00, Valencia, Levante B
+43, Giorgi Kochorashvili, GEO, M, 1.78, 74, 29-06-99, Tbilisi, Saburtalo
+44, Edgar Sevikyan, RUS, M, 1.75, 70, 08-08-01, Moscow, Levante B
+46, Pablo Campos, ESP, G, 1.88, 78, 28-04-02, Valencia, Levante B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Mirandés (On Loan)
+8, Hernâni, POR, F, 1.80, 69, 20-08-91, Lisbon, Al-Wehda (On Loan)
+45, Petr Kudakovskiy, RUS, G, 1.93, 85, 25-01-01, Vladivostok, Mérida (On Loan)
+1, Koke, ESP, G, 1.88, 88, 27-09-95, Málaga, Mallorca (On Loan)
+31, Alfredo Pedraza, ESP, M, 1.78, 75, 20-12-00, Madrid, Ponferradina

@@ -1,0 +1,48 @@
+=  Ankaragücü - Turkish Süper Lig 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Alper Uludağ, TUR, D, 1.80, 71, 11-12-90, Heusden-Zolder, Giresunspor
+4, Atakan Çankaya, TUR, M, 1.80, 72, 25-06-98, Konak, Ankaraspor
+5, Matěj Hanousek, CZE, D, 1.82, 74, 02-06-93, Prague, Sparta Prague
+6, Cem Türkmen, GER, M, 1.75, 72, 29-03-02, Cologne, Clermont
+7, Tasos Chatzigiovanis, GRE, M, 1.75, 62, 31-05-97, Mytilene, Panathinaikos
+8, Pedrinho, POR, M, 1.70, 68, 20-12-92, Cristelo, Gil Vicente
+9, Riad Bajić, BIH, F, 1.89, 80, 06-05-94, Sarajevo, Giresunspor
+10, Efkan Bekiroğlu, GER, M, 1.85, 81, 14-09-95, Dachau, Alanyaspor
+11, Garry Rodrigues, CPV, M, 1.72, 70, 27-11-90, Rotterdam, Olympiakos
+13, Christian Bassogog, CMR, F, 1.78, 58, 18-10-95, Douala, Shanghai Shenhua
+17, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Verona
+18, Nihad Mujakić, BIH, D, 1.89, 78, 15-04-98, Sarajevo, Sarajevo
+19, Alexis Flips, FRA, M, 1.73, 65, 18-01-00, Villeneuve-d'Ascq, Anderlecht
+20, Enes Tepecik, AUT, M, 1.74, 67, 11-03-04, Wiener Neustadt, Rapid Vienna
+21, Sirozhiddin Astanakulov, KGZ, M, -, -, 26-01-06, -, None
+22, Ali Sowe, GAM, F, 1.86, 80, 14-06-94, Banjul, FC Rostov
+23, Ali Kaan Güneren, TUR, M, -, -, 08-04-00, Merzifon, Akhisar Belediyespor
+25, Ertaç Özbir, TUR, G, 1.86, 85, 25-10-89, Seyhan, Adana Demirspor
+26, Uroš Radaković, SRB, D, 1.94, 89, 31-03-94, Novi Sad, Arsenal Tula
+27, Arda Ünyay, TUR, D, 1.84, 75, 18-01-07, Ankara, None
+29, Renaldo Cephas, JAM, F, 1.79, -, 08-12-99, Kingston, Shkupi
+30, Tolga Ciğerci, GER, M, 1.85, 75, 23-03-92, Nordenham, Hertha Berlin
+32, Federico Macheda, ITA, F, 1.84, 73, 22-08-91, Rome, Panathinaikos
+33, Abdurrahim Dursun, TUR, D, 1.76, 70, 01-12-98, Bayburt, Adana Demirspor
+35, Kazımcan Karataş, TUR, D, 1.82, 75, 16-01-03, İzmir, Galatasaray
+45, Mert Çetin, TUR, D, 1.89, 90, 01-01-97, Çankaya, Verona
+70, Stelios Kitsiou, GRE, D, 1.76, 75, 28-09-93, Thessaloniki, Gaziantep
+77, Hayrullah Bilazer, TUR, D, 1.70, 66, 20-05-95, Trabzon, Giresunspor
+80, Olimpiu Moruţan, ROU, M, 1.72, 71, 25-04-99, Cluj-Napoca, Galatasaray
+94, Arda Kumru, TUR, F, -, -, 05-07-05, Altındağ, None
+95, Mert Can, TUR, D, -, -, 07-02-05, Ankara, None
+97, Onur Efe Ekri, TUR, M, -, -, 30-04-04, Ankara, None
+99, Bahadır Han Güngördü, TUR, G, 1.90, 75, 16-01-96, Çorum, Ankara Demirspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+88, Fıratcan Üzüm, TUR, F, 1.78, 72, 04-06-99, Eskişehir, Göztepe
+17, Giorgi Beridze, GEO, M, 1.74, 71, 12-05-97, Mestia, Kocaelispor
+2, Alperen Kuyubaşı, TUR, D, -, -, 26-05-00, Altındağ, Iğdır (On Loan)
+16, Andrej Djokanović, BIH, D, 1.77, 70, 01-03-01, Kasindo, Manisa (On Loan)
+25, Enock Kwateng, FRA, D, 1.83, 75, 09-04-97, Mantes-la-Jolie, 
+96, Yusuf Eren Göktaş, TUR, D, -, -, 23-06-04, Ankara, Nevşehir Belediyespor
+1, Rafał Gikiewicz, POL, G, 1.90, 82, 26-10-87, Olsztyn, Stal Mielec
+41, Doğukan Kaya, TUR, G, 1.91, 81, 16-01-00, Kocaeli, Muş 1984 (On Loan)

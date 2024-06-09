@@ -1,0 +1,23 @@
+# Italian Serie B 2020/2021
+
+20 teams
+- [Ascoli](ascoli.txt)
+- [Brescia](brescia.txt)
+- [Chievo Verona](chievo.txt)
+- [Cittadella](cittadel.txt)
+- [Cosenza](cosenza.txt)
+- [Cremonese](cremonese.txt)
+- [Empoli](empoli.txt)
+- [Frosinone](frosinone.txt)
+- [Lecce](lecce.txt)
+- [Monza](monza.txt)
+- [Pescara](pescara.txt)
+- [Pisa](pisa.txt)
+- [Pordenone](pordenone.txt)
+- [Reggiana](reggiana.txt)
+- [Reggina](reggina.txt)
+- [Salernitana](salern.txt)
+- [SPAL](spal.txt)
+- [Venezia](venezia.txt)
+- [Vicenza](vicenza.txt)
+- [Virtus Entella](virtente.txt)

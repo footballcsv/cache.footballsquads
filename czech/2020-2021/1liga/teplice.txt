@@ -1,0 +1,47 @@
+=  Teplice - Czech 1.Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luděk Němeček, CZE, G, 1.97, 94, 04-01-99, -, None
+2, Ondřej Mazuch, CZE, D, 1.88, 83, 15-03-89, Hodonín, Mladá Boleslav
+3, Ruben Droehnle, FRA, D, 1.83, 70, 11-07-98, Strasbourg, Lille
+4, Šimon Gabriel, CZE, D, 1.87, 84, 28-05-01, Prague, Viktoria Plzeň
+5, Admir Ljevakovič, BIH, M, 1.82, 78, 07-08-84, Tesanj, Čelik Zenica
+7, Patrik Žitný, CZE, M, 1.77, 63, 21-01-99, Ústí nad Labem, None
+10, Pavel Moulis, CZE, M, 1.85, 77, 07-04-91, Teplice, Sigma Olomouc
+11, Jakub Mareš, CZE, F, 1.82, 75, 26-01-87, Teplice, Zagłębia Lubin
+12, Martin Macej, CZE, F, 1.88, 85, 15-04-97, -, Baník Ostrava
+13, Radek Charvát, CZE, G, 1.85, 71, 17-05-04, -, None
+14, Tadeáš Vachoušek, CZE, F, 1.83, 65, 11-01-04, -, None
+16, Alois Hyčka, CZE, D, 1.66, 70, 22-07-90, Cheb, Zbrojovka Brno
+17, Tomáš Vondrášek, CZE, D, 1.75, 72, 26-10-87, Sokolov, None
+18, David Heidenreich, CZE, D, 1.82, 75, 24-06-00, Ústí nad Labem, Atalanta
+19, Robert Jukl, CZE, M, 1.80, 71, 28-10-98, Hradec Králové, Hradec Králové
+20, Daniel Trubač, CZE, M, 1.75, 70, 17-07-97, Opočno, Slavia Prague
+21, Jan Čtvrtečka, CZE, G, 1.90, 83, 14-08-98, -, Sparta Prague
+22, Jan Shejbal, CZE, M, 1.85, 78, 20-04-94, Pardubice, Hradec Králové
+23, Lukáš Mareček, CZE, M, 1.82, 69, 17-04-90, Ivančice, Lokeren
+24, Besir Baftijar, MKD, F, 1.69, 63, 31-08-01, Ústí nad Labem, Sparta Prague
+25, Jan Fortelný, CZE, M, 1.75, 66, 19-01-99, Prague, Sparta Prague
+26, David Černý, CZE, F, 1.85, 81, 10-12-95, -, TJ Krupka
+27, Tomáš Kučera, CZE, M, 1.85, 77, 20-07-91, Havlíčkův Brod, Viktoria Plzeň
+28, Jan Knapík, CZE, D, 1.92, 79, 11-12-00, -, None
+30, Tomáš Grigar, CZE, G, 1.91, 95, 01-02-83, Ostrava, Sparta Prague
+31, Jan Plachý, CZE, G, 1.95, 80, 07-05-98, Teplice, None
+33, Daniel Kováč, CZE, M, 1.80, 79, 03-03-00, -, None
+35, Matěj Radosta, CZE, M, 1.75, 66, 10-05-01, Ústí nad Labem, None
+36, Ladislav Kodad, CZE, D, 1.80, 72, 23-04-98, -, None
+37, Jakub Řezníček, CZE, F, 1.86, 82, 26-05-88, Příbram, Lokeren
+39, Dominik Šup, CZE, F, 1.82, 76, 28-01-97, -, None
+40, Vukadin Vukadinović, SRB, F, 1.91, 84, 14-12-90, Belgrade, MFK Karviná
+41, Pavel Hural, CZE, M, 1.81, 68, 16-04-02, -, None
+42, Matyáš Korselt, CZE, M, 1.70, 60, 07-04-04, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Petr Kodeš, CZE, M, 1.85, 72, 31-01-96, Krupka, Hradec Králové (On Loan)
+45, Igor Paradin, RUS, D, 1.75, 70, 10-09-98, Mostovskoy, FC Krasnodar-2
+12, Evgeniy Nazarov, RUS, D, 1.94, 80, 26-01-87, Neftekumsk, FC Krasnodar-2
+29, Matyáš Kozák, CZE, F, 1.75, 70, 04-05-01, -, Sparta Prague
+21, Jakub Diviš, CZE, G, 1.95, 88, 27-07-86, Turnov, Mladá Boleslav
+15, Jan Hošek, CZE, D, 1.89, 83, 01-04-89, Nýrsko, 

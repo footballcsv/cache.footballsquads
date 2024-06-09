@@ -1,0 +1,48 @@
+=  Watford - English Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.97, 95, 15-02-81, João Pinheiro, Tottenham H
+2, Daryl Janmaat, NED, D, 1.85, 80, 22-07-89, Leidschendam, Newcastle U
+3, Miguel Angel Britos, URU, D, 1.90, 85, 17-07-85, Maldonado, Napoli
+4, Younès Kaboul, FRA, D, 1.93, 87, 04-01-86, St-Julien-en-Genevois, Sunderland
+5, Sebastian Prödl, AUT, D, 1.96, 97, 21-06-87, Graz, Werder Bremen
+6, Adrian Mariappa, JAM, D, 1.80, 78, 03-10-86, Harrow, Crystal Palace
+7, Gerard Deulofeu, ESP, F, 1.77, 73, 13-03-94, Riudarenes, Barcelona
+8, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Everton
+9, Troy Deeney, ENG, F, 1.85, 101, 29-06-88, Birmingham, Walsall
+11, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Fluminense
+12, Didier Ndong, GAB, M, 1.79, 75, 17-06-94, Lambaréné, Sunderland
+13, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Udinese
+14, Nathaniel Chalobah, ENG, D, 1.87, 80, 12-12-94, Freetown, Chelsea
+15, Craig Cathcart, NIR, D, 1.90, 83, 06-02-89, Belfast, Blackpool
+16, Abdoulaye Doucouré, FRA, M, 1.84, 76, 01-01-93, Meulan-en-Yvelines, Rennes
+17, Jerome Sinclair, ENG, F, 1.81, 75, 20-09-96, Birmingham, Liverpool
+18, Andre Gray, ENG, F, 1.78, 83, 26-06-91, Wolverhampton, Burnley
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, Derby Co
+20, Dodi Lukebakio, BEL, M, 1.87, 77, 24-09-97, Asse, Anderlecht
+21, Kiko Femenía, ESP, M, 1.74, 61, 02-02-91, Sanet y Negrals, Alavés
+22, Marvin Zeegelaar, NED, D, 1.86, 84, 12-08-90, Amsterdam, Sporting CP
+25, José Holebas, GRE, D, 1.85, 81, 27-06-84, Aschaffenburg, Roma
+27, Christian Kabasele, BEL, D, 1.88, 86, 24-02-91, Lubumbashi, KRC Genk
+28, André Carrillo, PER, M, 1.83, 75, 14-06-91, Lima, Benfica
+29, Étienne Capoue, FRA, M, 1.90, 87, 11-07-88, Niort, Tottenham H
+30, Orestis Karnezis, GRE, G, 1.89, 79, 11-07-85, Athens, Udinese
+31, Tommie Hoban, IRL, D, 1.91, 84, 24-01-94, Walthamstow, None
+33, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Anderlecht
+35, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Stoke C
+37, Roberto Pereyra, ARG, M, 1.82, 77, 07-01-91, San Miguel de Tucumán, Juventus
+40, Carl Stewart, ENG, M, 1.74, 68, 02-05-97, Hammersmith, None
+48, Joy Mukena, COD, D, 1.88, 70, 03-07-99, Enfield, Tottenham H
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Giedrius Arlauskis, LTU, G, 1.92, 85, 01-12-87, Telšiai, CFR Cluj
+7, Nordin Amrabat, MAR, M, 1.81, 84, 31-03-87, Naarden, Leganés (On Loan)
+32, Brandon Mason, ENG, M, 1.75, 70, 30-09-97, Westminster, Dundee U (On Loan)
+39, Michael Folivi, ENG, F, 1.80, 79, 25-02-98, Brent, Boreham Wood (On Loan)
+26, Brice Dja Djédjé, CIV, D, 1.68, 75, 23-12-90, Aboudé, Lens (On Loan)
+20, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Vélez Sarsfield (On Loan)
+10, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Málaga (On Loan)
+23, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Nottingham F
+30, Costel Pantilimon, ROU, G, 2.01, 110, 01-02-87, Bacău, Nottingham F (On Loan)

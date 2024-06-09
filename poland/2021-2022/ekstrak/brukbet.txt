@@ -1,0 +1,50 @@
+=  Bruk-Bet Termalica Nieciecza - Polish Ekstraklasa 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Budziłek, POL, G, 1.86, 81, 19-03-91, Bełchatów, Pogoń Szczecin
+3, Marcin Grabowski, POL, D, 1.77, 65, 21-05-00, Jastrowie, Wisła Kraków
+6, Nemanja Tekijaski, SRB, D, 1.86, 78, 02-03-97, Pančevo, Spartak Subotica
+7, Roman Gergel, SVK, F, 1.80, 77, 22-02-88, Banovce, Górnik Zabrze
+8, Samuel Štefánik, SVK, M, 1.78, 74, 16-11-91, Bánovce nad Bebravou, Železiarne Podbrezová
+9, Kacper Śpiewak, POL, F, 1.85, 75, 30-05-00, Stalowa Wola, Stal Stalowa Wola
+10, Adam Radwański, POL, M, 1.70, 63, 10-04-98, Płock, Widzew Łódź
+11, Muris Mešanovič, BIH, F, 1.77, 75, 06-07-90, Sarajevo, Mladá Boleslav
+13, Mateusz Grzybek, POL, D, 1.78, 68, 30-03-96, Tychy, GKS Tychy
+14, Dawid Kocyła, POL, M, 1.80, 66, 23-07-02, Bełchatów, Wisła Płock
+16, Paweł Żyra, POL, M, 1.78, 74, 07-04-98, Wałbrzych, Zagłębie Lubin
+17, Matěj Hybš, CZE, D, 1.81, 66, 03-01-93, Prague, Viktoria Plzeň
+18, Piotr Wlazło, POL, M, 1.81, 68, 03-06-89, Radom, Jagiellonia Białystok
+20, Zvonimir Kožulj, BIH, M, 1.80, 74, 15-11-93, Ljubuški, Eyüpspor
+21, Filip Modelski, POL, D, 1.80, 73, 28-09-92, Gdynia, Podbeskidzie Bielsko-Biała
+22, Michal Hubínek, CZE, M, 1.69, 62, 10-11-94, Prague, Mladá Boleslav
+23, Marcin Wasielewski, POL, D, 1.72, 73, 23-08-94, Poznań, Lech Poznań
+25, Veton Tusha, KVX, F, 1.74, 72, 29-12-02, Kaçanik, Denizlispor
+27, Bartosz Kukułowicz, POL, D, 1.81, 72, 11-10-00, Warsaw, Górnik Łęczna
+28, Maciej Ambrosiewicz, POL, M, 1.84, 75, 24-05-98, Gdynia, Zagłębie Sosnowiec
+32, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, Al-Ittihad Kalba
+34, Tomasz Matuszewski, POL, D, 1.86, 75, 26-11-01, Sanok, None
+35, Pavel Pavlyuchenko, BLR, G, 1.94, 88, 01-01-98, Mogilev, Rukh Brest
+41, Artem Polyarus, UKR, M, 1.79, 71, 05-07-92, Oleksandriya, Akhmat Grozny
+66, David Domgjoni, KVX, D, 1.90, 82, 21-05-97, Prizren, Luzern
+77, Artem Putivtsev, UKR, D, 1.86, 79, 29-08-88, Kharkiv, Metalist Kharkiv
+87, Jakub Pek, POL, M, 1.84, 73, 31-10-00, Gdynia, Arka Gdynia
+88, Tomáš Poznar, CZE, F, 1.94, 81, 27-09-88, Zlín, Fastav Zlín
+89, Andriy Dombrovskyy, UKR, M, 1.72, 65, 12-08-95, Kyiv, Desna Chernihiv
+95, Sebastian Bonecki, POL, M, 1.80, 72, 13-02-95, Legnica, Odra Opole
+97, Wiktor Biedrzycki, POL, D, 1.89, 74, 31-07-97, Olsztyn, Wigry Suwałki
+99, Tomasz Loska, POL, G, 1.89, 79, 26-01-96, Knurów, Górnik Zabrze
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Jan Klimek, POL, D, 1.94, 88, 22-10-00, Kraków, Sokół Ostróda (On Loan)
+67, Daniel Pietraszkiewicz, POL, M, 1.78, 71, 12-09-01, Warsaw, Resovia Rzeszów (On Loan)
+66, Martin Zeman, CZE, M, 1.74, 64, 28-03-89, Tábor, 
+80, Marcel Vasil, SVK, M, 1.82, 71, 09-02-01, Prešov, Košice (On Loan)
+70, Dominik Kąkolewski, POL, G, 1.92, 81, 04-06-96, Szczytno, Sokół Ostróda (On Loan)
+30, Krystian Bartoszek, POL, G, 1.89, 78, 28-05-02, Lublin, Podlasie Biała Podlaska (On Loan)
+2, Patryk Czarnowski, POL, F, 1.80, 75, 19-05-98, Żyrardów, Znicz Pruszków (On Loan)
+26, Michał Orzechowski, POL, M, 1.80, 76, 22-05-01, Świdnica, Znicz Pruszków (On Loan)
+14, Adam Hloušek, CZE, D, 1.83, 71, 20-12-88, Turnov, Fastav Zlín
+24, Ernest Terpiłowski, POL, M, 1.76, 70, 14-09-01, Brzeg Dolny, Widzew Łódź
+19, Michal Bezpalec, CZE, M, 1.82, 77, 19-08-96, Strakonice, 

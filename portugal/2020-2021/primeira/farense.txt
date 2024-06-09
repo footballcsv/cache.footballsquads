@@ -1,0 +1,37 @@
+=  Farense - Portuguese Primeira Liga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Marques, ANG, G, 1.93, 88, 15-01-86, Fão, Sporting Covilhã
+4, César Martins, BRA, D, 1.90, 78, 28-12-92, Mairinque, Santa Clara
+5, Amine Oudrhiri, MAR, M, 1.84, 75, 04-11-92, Ermont, Leixões
+6, Filipe Melo, POR, M, 1.89, 82, 03-11-89, Santa Maria de Lamas, Chaves
+7, Hugo Sêco, BRA, F, 1.78, 72, 17-06-88, Lousã, Kisvárda
+9, Nikola Stojiljković, SRB, F, 1.82, 75, 17-08-92, Belgrade, Sporting Braga
+10, Madi Queta, POR, F, 1.80, 66, 21-10-98, Bissau, FC Porto
+11, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, Racing Club
+12, Rafael Defendi, BRA, G, 1.91, 88, 22-12-83, Ribeirão Preto, Famalicão
+13, Bura, GNB, M, 1.78, 63, 22-12-95, Bissau, Oriental
+14, Fabrício Isidoro, BRA, M, 1.72, 64, 28-01-92, Belo Horizonte, Louletano
+17, Miguel Bandarra, POR, D, 1.82, 75, 17-01-96, Vila Real de Santo António, Casa Pia
+20, Djalma, ANG, M, 1.75, 72, 30-05-87, Luanda, Alanyaspor
+23, Ryan Gauld, SCO, M, 1.68, 59, 16-12-95, Aberdeen, Sporting CP
+25, André Pinto, POR, D, 1.92, 85, 05-10-89, Vila Nova de Gaia, Al-Fateh
+26, Bilel Aouacheria, FRA, M, 1.82, 74, 02-04-94, Saint-Etienne, Moreirense
+29, Cláudio Falcão, BRA, M, 1.70, 62, 03-07-94, Aquidauana, Desportivo das Aves
+30, Abner, BRA, D, 1.71, 70, 30-05-96, Londrina, PSTC
+33, Ricardo Velho, POR, G, 1.88, 82, 20-08-98, Vila Nova de Famalicão, Sporting Braga
+41, Cássio Scheid, BRA, D, 1.86, 81, 03-01-94, Arroio do Meio, São Carlos
+47, Jonatan Lucca, BRA, M, 1.86, 76, 02-06-94, Santa Maria, Belenenses
+77, Alvarinho, POR, F, 1.70, 67, 03-09-90, Faro, Jagiellonia Białystok
+78, Alex Pinto, POR, D, 1.87, 79, 08-07-98, Guimarães, Benfica
+84, Tomás Tavares, POR, D, 1.87, 77, 07-03-01, Lisbon, Benfica
+88, Licá, POR, F, 1.80, 71, 08-09-88, Castro Daire, Belenenses
+92, Fábio Nunes, POR, M, 1.76, 75, 24-07-92, Portimão, Kerkyra
+95, Eduardo Mancha, BRA, D, 1.87, 81, 24-11-95, Coaraci, Machine Sazi
+96, Pedro Henrique, BRA, F, 1.88, 82, 08-11-96, Goiás, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Patrick, CPV, F, 1.90, 73, 13-12-93, Nossa Senhora da Graça, Varzim
+24, Ricardo Ferreira, CAN, D, 1.90, 85, 25-11-92, Mississisauga, 

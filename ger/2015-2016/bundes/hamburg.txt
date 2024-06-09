@@ -1,0 +1,45 @@
+=  Hamburger SV - German Bundesliga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jaroslav Drobný, CZE, G, 1.92, 88, 18-10-79, Počátky, Hertha Berlin
+2, Dennis Diekmeier, GER, D, 1.88, 78, 20-10-89, Thedinghausen, Nürnberg
+3, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Corinthians
+4, Emir Spahić, BIH, D, 1.83, 77, 18-08-80, Dubrovnik, Bayer Leverkusen
+5, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Arsenal
+7, Ivo Iličević, CRO, M, 1.74, 65, 14-11-86, Aschaffenburg, Kaiserslautern
+8, Lewis Holtby, GER, M, 1.74, 66, 18-09-90, Erkelenz, Tottenham H
+9, Sven Schipplock, GER, F, 1.85, 79, 08-11-88, Reutlingen, 1899 Hoffenheim
+10, Pierre-Michel Lasogga, GER, F, 1.89, 88, 15-12-91, Gladbeck, Hertha Berlin
+11, Ivica Olić, CRO, F, 1.81, 85, 14-09-79, Davor, Wolfsburg
+12, Ahmet Arslan, GER, M, 1.79, 73, 30-03-94, Memmingen, Lübeck
+14, Aaron Hunt, GER, M, 1.83, 73, 04-09-86, Goslar, Wolfsburg
+15, René Adler, GER, G, 1.90, 85, 15-01-85, Leipzig, Bayer Leverkusen
+16, Artjoms Rudņevs, LVA, F, 1.78, 80, 13-01-88, Daugvapils, Lech Poznań
+18, Josip Drmić, SUI, F, 1.82, 70, 08-08-92, Lachen, B Mönchengladbach
+19, Dren Feka, GER, M, 1.82, 71, 09-06-97, Bad Oldesloe, None
+20, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Cagliari
+21, Nabil Bahoui, SWE, F, 1.88, 84, 05-02-91, Stockholm, Al-Ahli [KSA]
+22, Matthias Ostrzolek, GER, D, 1.78, 71, 05-06-90, Bochum, Augsburg
+23, Michael Gregoritsch, AUT, F, 1.90, 74, 18-04-94, Graz, Bochum
+24, Gotoku Sakai, JPN, D, 1.75, 72, 14-03-91, New York, Stuttgart
+25, Kerim Carolus, GER, D, 1.88, 85, 16-06-94, Hamburg, Victoria Hamburg
+26, Philipp Müller, GER, F, 1.75, 68, 03-03-95, Hamburg, Wolfsburg
+27, Nicolai Müller, GER, M, 1.75, 65, 25-09-87, Lohr am Main, Mainz
+28, Gideon Jung, GER, D, 1.89, 76, 12-09-94, Düsseldorf, RW Oberhausen
+30, Andreas Hirzel, SUI, G, 1.90, 89, 25-03-93, Schlieren, Vaduz
+33, Batuhan Altıntaş, TUR, F, 1.87, 76, 14-03-96, Kocaeli, Bursaspor
+34, Finn Porath, GER, M, 1.81, 75, 23-02-97, Lübeck, Lübeck
+36, Tom Mickel, GER, G, 1.86, 78, 19-04-89, Hoyerswerda, Greuther Fürth
+39, Ashton Götz, GER, D, 1.77, 74, 16-07-93, Pirmasens, Hamm
+40, Gojko Kačar, SRB, M, 1.86, 79, 26-01-87, Novi Sad, Hertha Berlin
+41, Tino Dehmelt, GER, M, 1.83, 80, 29-01-92, , Dynamo Dresden
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Kerem Demirbay, TUR, M, 1.85, 80, 03-07-93, Gelsenkirchen, Fortuna Düsseldorf (On Loan)
+19, Petr Jiráček, CZE, M, 1.80, 75, 02-03-86, Tuchořice, Sparta Prague
+25, Mohamed Gouaida, FRA, M, 1.78, 74, 15-05-93, Strasbourg, Karlsruhe (On Loan)
+31, Ronny Marcos, GER, D, 1.74, 69, 01-10-93, Oldenburg in Holstein, Greuther Fürth
+21, Marcelo Díaz, CHI, M, 1.66, 64, 30-12-86, Santiago, Celta Vigo
+17, Zoltán Stieber, HUN, M, 1.83, 78, 16-10-88, Budapest, Nürnberg (On Loan)

@@ -1,0 +1,51 @@
+=  Atlético Madrid - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivo Grbić, CRO, G, 1.95, 83, 18-01-96, Split, Lokomotiva Zagreb
+2, José Giménez, URU, D, 1.85, 77, 20-01-95, Toledo, Danubio
+4, Geoffrey Kondogbia, CTA, M, 1.88, 80, 15-02-93, Nemours, Valencia
+5, Lucas Torreira, URU, M, 1.68, 64, 11-02-96, Fray Bentos, Arsenal
+6, Koke, ESP, M, 1.77, 73, 08-01-92, Madrid, Atlético Madrid B
+7, João Félix, POR, F, 1.80, 62, 10-11-99, Viseu, Benfica
+8, Saúl Ñiguez, ESP, M, 1.84, 76, 21-11-94, Elche, Atlético Madrid B
+9, Luis Suárez, URU, F, 1.82, 86, 24-01-87, Salto, Barcelona
+10, Ángel Correa, ARG, F, 1.72, 67, 09-03-95, Rosario, San Lorenzo
+11, Thomas Lemar, FRA, M, 1.70, 58, 12-11-95, Baie-Mahault, Monaco
+12, Renan Lodi, BRA, D, 1.78, 74, 08-04-98, Serrano, Athletico Paranaense
+13, Jan Oblak, SVN, G, 1.89, 84, 07-01-93, Škofja Loka, Benfica
+14, Marcos Llorente, ESP, M, 1.84, 73, 30-01-95, Madrid, Real Madrid
+15, Stefan Savić, MNE, D, 1.87, 80, 08-01-91, Mojkovac, Fiorentina
+16, Héctor Herrera, MEX, M, 1.82, 70, 19-04-90, Tijuana, FC Porto
+18, Felipe, BRA, D, 1.85, 77, 16-05-89, Mogi das Cruzes, FC Porto
+19, Moussa Dembélé, FRA, F, 1.83, 74, 12-07-96, Pontoise, Lyon
+20, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Sevilla
+21, Yannick Ferreira Carrasco, BEL, M, 1.81, 73, 04-09-93, Elsene, Dalian Professional
+22, Mario Hermoso, ESP, D, 1.84, 74, 18-06-95, Madrid, Espanyol
+23, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Tottenham H
+24, Šime Vrsaljko, CRO, D, 1.81, 76, 10-01-92, Zadar, Sassuolo
+26, Ismael Gutiérrez, ESP, M, 1.77, 71, 07-08-00, Los Palacios y Villafranca, Betis B
+27, Sergio Camello, ESP, F, 1.77, 69, 10-02-01, Madrid, Atlético Madrid B
+28, Álvaro García, ESP, D, 1.84, 78, 01-06-00, Albacete, Albacete B
+29, Ricard Sánchez, ESP, D, 1.75, 70, 22-02-00, Sant Jaume dels Domenys, Atlético Madrid B
+31, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Atlético Madrid B
+34, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+36, Fernando Medrano, ESP, D, 1.72, 68, 26-03-00, Madrid, Atlético Madrid B
+39, Josep Calavera, ESP, M, 1.79, 71, 02-10-99, Cabra del Camp, Castellón
+41, Óscar Castro, ESP, M, 1.77, 73, 20-06-01, Santa Cruz de Tenerife, Atlético Madrid B
+42, Mario Soriano, ESP, M, 1.63, 60, 22-04-02, Alcalá de Henares, Atlético Madrid B
+43, Diego Lorenzo, ESP, F, -, -, 07-02-02, Madrid, Atlético Madrid B
+44, Marco Moreno, ESP, D, 1.90, 80, 20-02-01, Las Palmas, Atlético Madrid B
+49, Adrián Corral, ESP, D, -, -, 05-01-03, Santander, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Nehuén Pérez, ARG, D, 1.84, 79, 24-06-00, Hurlingham, Granada (On Loan)
+5, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Arsenal
+26, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Getafe (On Loan)
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, 
+3, Manu Sánchez, ESP, D, 1.79, 70, 24-08-00, Madrid, Osasuna (On Loan)
+32, Borja Garcés, ESP, F, 1.75, 72, 06-08-99, Melilla, Fuenlabrada (On Loan)
+17, Ivan Šaponjić, SRB, F, 1.92, 84, 02-08-97, Nova Varoš, Cádiz (On Loan)
+35, Juan Manuel Sanabria, URU, M, 1.72, 70, 29-03-00, Florida, Zaragoza (On Loan)
+30, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Tenerife (On Loan)

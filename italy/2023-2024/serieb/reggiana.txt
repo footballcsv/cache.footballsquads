@@ -1,0 +1,49 @@
+=  Reggiana - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Sposito, ITA, G, 1.93, 88, 06-06-01, Naples, Sangiuliano City
+3, Edoardo Pieragnolo, ITA, D, 1.85, 72, 03-01-03, Padua, Sassuolo
+4, Paolo Rozzio, ITA, D, 1.89, 79, 22-07-92, Turin, Pisa
+7, Muhamed Djamanca, POR, F, 1.78, 65, 17-03-98, Bissau, Gladiator
+8, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilia, Crotone
+9, Luca Vido, ITA, F, 1.82, 78, 03-02-97, Bassano del Grappa, Atalanta
+11, Cedric Gondo, CIV, F, 1.87, 80, 25-11-96, Divo, Cremonese
+12, Giacomo Satalino, ITA, G, 1.88, 75, 20-05-99, Putignaro, Sassuolo
+13, Edoardo Motta, ITA, G, -, -, 13-01-05, -, Juventus
+14, Nuhu Shaibu, NGA, M, 1.85, 79, 01-01-04, Lokoja, Osimostazione
+15, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Empoli
+16, Tobias Reinhart, ARG, M, 1.76, 70, 21-05-00, Lomas de Zamora, Temperley
+17, Lorenzo Libutti, ITA, D, 1.80, 70, 17-09-97, Melfi, Triestina
+18, Orji Okwonkwo, NGA, F, 1.80, 80, 19-01-98, Benin City, Bologna
+19, Filippo Romagna, ITA, D, 1.86, 75, 26-05-97, Fano, Sassuolo
+20, Álex Blanco, ESP, M, 1.78, 70, 16-12-98, Benidorm, Como
+22, Francesco Bardi, ITA, G, 1.88, 80, 18-01-92, Livorno, Bologna
+23, Stefano Pettinari, ITA, F, 1.85, 77, 27-01-92, Rome, Ternana
+25, Przemysław Szymiński, POL, D, 1.85, 76, 24-06-94, Katowice, Frosinone
+26, Gianmaria D'Angelo Pizzolo, ITA, F, -, -, 22-08-06, Montecchio Emilia, None
+27, Alessandro Marcandalli, ITA, D, 1.90, 71, 25-02-02, Bergamo, Genoa
+28, Janis Antiste, FRA, F, 1.83, 75, 18-08-02, Toulouse, Sassuolo
+29, Marko Pajač, CRO, D, 1.85, 70, 11-05-93, Zagreb, Genoa
+30, Antonio Vergara, ITA, M, 1.82, 70, 16-01-03, Frattaminore, Napoli
+31, Mario Sampirisi, ITA, D, 1.88, 75, 31-10-92, Caltagirone, Monza
+33, Domen Črnigoj, SVN, M, 1.88, 84, 18-11-95, Koper, Venezia
+42, Alessandro Bianco, ITA, M, 1.73, 67, 01-10-02, Turin, Fiorentina
+72, Filippo Melegoni, ITA, M, 1.86, 74, 18-02-99, Bergamo, Genoa
+77, Elvis Kabashi, ALB, M, 1.77, 70, 20-02-94, Massa, Como
+78, Bryan Blanco, ITA, M, 1.65, 58, 17-04-05, Reggio Emilia, None
+80, Natan Girma, SUI, M, 1.90, 79, 11-12-01, Lausanne, Sona
+90, Manolo Portanova, ITA, M, 1.83, 77, 02-06-00, Naples, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Davide Guglielmotti, ITA, M, 1.84, 71, 24-03-94, Novara, Lecco
+5, André Duarte, POR, D, 1.95, 87, 12-09-97, Sacavém, Osijek (On Loan)
+6, Andrea Vallocchia, ITA, M, 1.78, 70, 22-05-97, Rieti, Triestina
+16, Alessio Luciani, ITA, D, 1.76, 71, 16-01-90, Rieti, Taranto
+20, Andrea Arrighini, ITA, F, 1.80, 75, 06-06-90, Pisa, AlbinoLeffe
+32, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Casertana
+39, Giacomo Cavallini, ITA, M, 1.80, -, 16-11-04, Bologna, Folgore Caratese (On Loan)
+10, Eric Lanini, ITA, F, 1.84, 74, 25-02-94, Turin, Parma
+24, Filippo Nardi, ITA, M, 1.75, 70, 08-03-98, Treviso, Cremonese
+21, Jacopo Da Riva, ITA, M, 1.84, 78, 27-10-00, Montebelluna, Atalanta

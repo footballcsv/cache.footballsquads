@@ -1,0 +1,58 @@
+=  Pordenone - Italian Serie B 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giacomo Bindi, ITA, G, 1.89, 84, 02-01-87, Torrita di Siena, Padova
+2, Hamza El Kaouakibi, MAR, D, 1.85, 86, 22-05-98, Bentivoglio, Bologna
+3, Alessandro Sabbione, ITA, D, 1.92, 77, 12-12-91, Genoa, Bari
+4, Mirko Stefani, ITA, D, 1.80, 80, 25-01-84, Borgo Valsugana, Messina
+5, Alessandro Lovisa, ITA, M, 1.88, 68, 22-08-01, San Vito al Tagliamento, Fiorentina
+6, Alberto Barison, ITA, D, 1.86, 80, 03-08-94, Dolo, Bassano Virtus
+7, Davis Mensah, GHA, F, 1.86, 79, 02-08-91, Bussolengo, Triestina
+10, Francesco Deli, ITA, M, 1.82, 77, 17-07-94, Rome, Cremonese
+11, Jacopo Pellegrini, ITA, F, 1.82, 80, 12-09-00, Reggio Emilia, Sassuolo
+12, Gaetano Fasolino, ITA, G, 1.86, 80, 21-06-00, Bologna, Fano
+15, Mihael Onisa, ROU, M, 1.81, 70, 15-03-00, Timişoara, Torino
+16, Armando Anastasio, ITA, D, 1.80, 70, 24-07-96, Naples, Monza
+18, Simone Pasa, ITA, M, 1.84, 85, 21-01-94, Montebelluna, Cittadella
+19, Federico Secli, ITA, F, 1.88, 77, 14-05-02, Udine, None
+20, Alvin Obinna Okoro, NGA, F, 1.85, -, 26-03-05, -, None
+21, Kevin Biondi, ITA, M, 1.77, 65, 10-02-99, Catania, Catania
+22, Samuele Perisan, ITA, G, 1.93, 86, 21-08-97, San Vito al Tagliamento, Udinese
+23, Emanuele Torrasi, ITA, M, 1.80, 70, 16-03-99, Milan, Imolese
+24, Federico Valietti, ITA, D, 1.83, 73, 25-01-99, Bergamo, Genoa
+26, Alessandro Bassoli, ITA, D, 1.85, 85, 19-06-90, Bologna, Chievo Verona
+27, Leonardo Candellone, ITA, F, 1.86, 80, 15-09-97, Turin, Napoli
+28, Nicolò Cambiaghi, ITA, F, 1.73, 65, 28-12-00, Monza, Atalanta
+30, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Fiorentina
+32, Karlo Butić, CRO, F, 1.86, 85, 21-08-98, Zadar, Torino
+33, Roberto Zammarini, ITA, M, 1.79, 74, 05-07-96, Casalmaggiore, Pisa
+34, Filippo Salviato, ITA, G, 1.89, -, 01-03-05, -, None
+35, Enrico Maset, ITA, D, 1.75, -, 24-05-04, -, None
+36, Dejan Vokič, SVN, M, 1.90, 80, 12-06-96, Ljubljana, Benevento
+37, Davide Cocetta, ITA, D, 1.69, -, 31-03-04, -, None
+38, Giuseppe Di Serio, ITA, F, 1.82, 78, 20-07-01, Trento, Benevento
+45, Youssouph Cheikh Sylla, SEN, F, 1.97, 82, 20-02-98, Mbacké, Gozzano
+72, Matteo Perri, ITA, D, 1.79, 69, 06-10-98, Rome, Ravenna
+79, Davide Gavazzi, ITA, M, 1.85, 74, 07-05-86, Sondrio, Avellino
+98, Daniele Iacoponi, ITA, F, 1.75, 68, 25-03-02, Rome, Parma
+99, Cristian Andreoni, ITA, D, 1.78, 80, 30-05-92, Vaprio d'Adda, Bari
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Modena
+27, Kevin Biondi, ITA, M, 1.77, 65, 10-02-99, Catania, Re-Registered (21)
+88, Matteo Rossetti, ITA, M, 1.91, 82, 23-07-98, Saluzzo, Bari
+9, Frank Tsadjout, ITA, F, 1.90, 90, 28-07-99, Perugia, Milan
+54, Nicola Falasco, ITA, D, 1.84, 84, 05-10-93, Piove di Sacco, Ascoli
+44, Adam Chrzanowski, POL, D, 1.85, 84, 31-03-99, Warsaw, Wisła Płock (On Loan)
+8, Jacopo Petriccione, ITA, M, 1.76, 73, 22-02-95, Gorizia, Crotone
+16, Luca Magnino, ITA, M, 1.85, 81, 13-08-97, Pordenone, Modena (On Loan)
+10, Amato Ciciretti, ITA, F, 1.72, 75, 31-12-93, Rome, Como (On Loan)
+14, Jean Freddi Greco, ITA, M, 1.74, 67, 12-02-01, Andohatapenaka, Vicenza
+20, Tomasz Kupisz, POL, M, 1.80, 76, 02-01-90, Radom, Reggina (On Loan)
+21, Gianvito Misuraca, ITA, M, 1.82, 80, 02-04-90, Palermo, Bari (On Loan)
+27, Marco Pinato, ITA, M, 1.86, 85, 09-01-95, Monza, Sassuolo
+31, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Pisa, Cosenza (On Loan)
+46, Aldo Banse, ITA, F, 1.76, 70, 04-12-02, San Vito al Tagliamento, Cjarlins Muzane
+90, Michael Folorunsho, ITA, M, 1.80, 75, 07-02-98, Rome, Napoli

@@ -1,0 +1,48 @@
+=  Metz - French Ligue 2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Matthieu Udol, FRA, D, 1.78, 75, 20-03-96, Metz, None
+5, Fali Candé, GNB, D, 1.84, 76, 24-01-98, Bissau, Portimonense
+6, Kévin Ndoram, FRA, M, 1.74, 60, 22-01-96, Saint-Sébastien-sur-Loire, Monaco
+7, Papa Amadou Diallo, SEN, M, 1.82, 67, 25-06-04, Saint-Louis, Génération Foot Dakar
+8, Ismaël Traoré, CIV, D, 1.85, 75, 18-08-86, Paris, Angers
+9, Georges Mikautadze, GEO, F, 1.76, 71, 31-10-00, Lyon, St-Priest
+10, Youssef Maziz, FRA, M, 1.75, 68, 24-06-98, Thionville, None
+11, Xhuliano Skuka, ALB, F, 1.82, 79, 02-08-98, Peshkopi, Partizani Tirana
+14, Cheikh Tidiane Sabaly, SEN, M, 1.68, 56, 04-03-99, Kolda, Génération Foot Dakar
+15, Aboubacar Lô, SEN, D, 1.83, 76, 02-01-00, Dakar, Génération Foot Dakar
+16, Alexandre Oukidja, ALG, G, 1.85, 78, 19-07-88, Nevers, Strasbourg
+18, Lamine Camara, SEN, M, 1.73, 65, 01-01-04, Bignona, Génération Foot Dakar
+19, Habib Maïga, CIV, M, 1.81, 78, 01-01-96, Gagnoa, St-Etienne
+20, Lamine Gueye, SEN, F, 1.78, 74, 13-03-98, M'Bour, Génération Foot Dakar
+22, Sofiane Alakouch, MAR, D, 1.75, 61, 29-07-98, Nîmes, Nîmes
+24, Lenny Joseph, FRA, F, 1.83, 73, 12-10-00, Paris, Le Puy
+25, Arthur Atta, FRA, M, 1.89, 77, 14-01-03, Rennes, None
+26, Malick Mbaye, SEN, F, 1.78, 70, 06-04-04, Dakar, Génération Foot Dakar
+27, Danley Jean Jacques, HAI, M, 1.75, 69, 20-05-00, Petit-Goâve, Don Bosco
+30, Marc-Aurèle Caillard, FRA, G, 1.91, 79, 12-05-94, Melun, Guingamp
+34, Joseph Nduquidi, FRA, M, 1.87, 74, 31-10-04, Metz, None
+35, Maïdine Douane, FRA, M, -, -, 23-08-02, Thionville, None
+36, Ablie Jallow, GAM, M, 1.66, 56, 14-11-98, Bundung, Génération Foot Dakar
+39, Koffi Kouao, CIV, D, 1.73, 65, 20-05-98, Abidjan, Vizela
+40, Ousmane Ba, SEN, G, 1.85, 74, 06-06-02, Rufisque, Génération Foot Dakar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+95, Warren Tchimbembé, FRA, M, 1.80, 74, 21-04-98, Gonesse, Guingamp (On Loan)
+29, Lenny Lacroix, FRA, D, 1.86, 72, 06-02-03, Strasbourg, Benfica
+2, Dylan Bronn, TUN, D, 1.85, 76, 19-06-95, Cannes, Salernitana
+11, Pape Ndiaga Yade, SEN, F, 1.85, 76, 05-01-00, Saint-Louis [SEN], Troyes (On Loan)
+50, David Oberhauser, FRA, G, 1.83, 75, 29-11-89, Bitche, Boulogne
+17, Mathieu Cachbach, BEL, M, 1.81, 72, 23-05-01, Arlon, RFC Seraing
+25, William Mikelbrencis, FRA, D, 1.76, 64, 25-02-04, Forbach, Hamburg
+8, Boubacar Traoré, MLI, M, 1.83, 67, 20-08-01, Bamako, Wolverhampton W (On Loan)
+77, Vagner, CPV, F, 1.68, 69, 10-01-96, Mindelo, RFC Seraing (On Loan)
+86, Ismaël Traoré, CIV, D, 1.85, 75, 18-08-86, Paris, Re-Registered (8)
+18, Fabien Centonze, FRA, D, 1.90, 82, 16-01-96, Voiron, Nantes
+11, Anthony Musaba, NED, F, 1.82, 72, 06-12-00, Beuningen, Monaco
+4, Boubakar Kouyaté, MLI, D, 1.93, 78, 15-04-97, Bamako, Montpellier
+7, Ibrahima Niane, SEN, F, 1.87, 71, 11-03-99, M'Bour, Angers (On Loan)
+21, Amine Bassi, FRA, M, 1.73, 72, 27-11-97, Bezons, Houston Dynamo
+80, Amadou Dia Ndiaye, SEN, F, 1.86, 70, 02-01-00, Bambey, Neuchâtel Xamax

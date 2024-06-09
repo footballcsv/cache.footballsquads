@@ -1,0 +1,52 @@
+=  Reggina - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, Monza
+2, Kingsley Michael, NGA, M, 1.76, 70, 26-08-99, Owerri, Bologna
+3, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, SPAL
+4, Dimitris Stavropoulos, GRE, D, 1.91, 82, 01-05-97, Athens, Panionios
+6, Giuseppe Loiacono, ITA, D, 1.82, 77, 06-10-91, Bari, Foggia
+7, Jérémy Ménez, FRA, M, 1.82, 73, 07-05-87, Longjumeau, Paris FC
+8, Lorenzo Crisetig, ITA, M, 1.84, 88, 20-01-93, Cividale del Friuli, Mirandés
+9, Orji Okwonkwo, NGA, F, 1.78, 72, 19-01-98, Benin City, Bologna
+10, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Salernitana
+11, Elia Petrelli, ITA, F, 1.88, 82, 15-08-01, Cesena, Genoa
+12, Alessandro Plizzari, ITA, G, 1.87, 73, 12-03-00, Crema, Milan
+13, Marco Rossi, ITA, D, 1.88, 78, 30-09-87, Parma, Siena
+14, Angelo Rechichi, ITA, D, 1.86, 75, 20-08-02, Gela, None
+15, Nicolò Bianchi, ITA, M, 1.85, 72, 24-02-92, Como, Vicenza
+16, Aldo Bezzon, ITA, F, 1.77, -, 30-11-01, Montalto Uffugo, None
+17, Gianluca Di Chiara, ITA, D, 1.84, 81, 26-12-93, Palermo, Perugia
+18, Giuseppe Domanico, ITA, F, 1.80, -, 25-05-02, Cosenza, None
+19, Germán Denis, ARG, F, 1.83, 87, 10-09-81, Lomas de Zamora, Universitario de Deportes
+20, Simone Edera, ITA, F, 1.74, 72, 09-01-97, Turin, Torino
+22, Lorenzo Lofaro, ITA, G, 1.77, 70, 31-08-02, Reggio Calabria, None
+23, Claudiu Micovschi, ROU, M, 1.80, 73, 19-05-99, Oradea, Genoa
+24, Enrico Delprato, ITA, M, 1.86, 76, 10-11-99, Grassobbio, Atalanta
+25, Marco Crimi, ITA, M, 1.78, 65, 17-03-90, Messina, Virtus Entella
+26, Luca Chierico, ITA, M, 1.80, 68, 26-09-01, Rome, Genoa
+30, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Bari
+31, Daniele Gasparetto, ITA, D, 1.95, 80, 06-04-88, Montebelluna, Ternana
+32, Christian Dalle Mura, ITA, D, 1.85, 70, 02-02-02, Pietrasanta, Fiorentina
+33, Ivan Lakićević, SRB, D, 1.80, 75, 27-07-93, Belgrade, Genoa
+88, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Udinese
+90, Michael Folorunsho, ITA, M, 1.80, 75, 07-02-98, Rome, Napoli
+91, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Ankaragücü
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Kayserispor
+94, Daniele Liotti, ITA, D, 1.80, 72, 08-06-94, Vibo Valentia, Pisa
+99, Rigoberto Rivas, HON, M, 1.78, 70, 31-07-98, Balfate, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Desiderio Garufo, ITA, D, 1.76, 72, 22-04-87, Grotte, Catanzaro (On Loan)
+5, Davide Bertoncini, ITA, D, 1.88, 80, 09-05-91, Fiorenzuola, Como
+44, Lorenzo Peli, ITA, F, 1.72, 65, 24-01-00, Seriate, Atalanta
+18, Kyle Lafferty, NIR, F, 1.93, 70, 16-09-87, Enniskillen, Kilmarnock
+11, Hachim Mastour, MAR, M, 1.75, 63, 15-06-98, Reggio Emilia, Carpi (On Loan)
+14, Gabriele Rolando, ITA, D, 1.82, 71, 02-04-95, Genoa, Bari (On Loan)
+20, Francesco De Rose, ITA, M, 1.69, 67, 21-06-87, Cosenza, Palermo
+16, Andrea Marcucci, ITA, M, 1.73, 72, 07-02-99, Rome, Virtus Entella (On Loan)
+9, Gabriel Charpentier, FRA, F, 1.88, 78, 17-05-99, Pointe-Noire, Genoa
+77, Alessandro Farroni, ITA, G, 1.86, 80, 20-09-97, Spoleto, Juve Stabia (On Loan)
+21, Nikola Vasić, SWE, F, 1.96, 85, 04-10-91, Gothenburg, Vasalunds IF (On Loan)

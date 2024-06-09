@@ -1,0 +1,73 @@
+=  Manchester United - English Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Gea, ESP, G, 1.92, 76, 07-11-90, Madrid, Atlético Madrid
+2, Victor Lindelöf, SWE, D, 1.87, 82, 17-07-94, Västerås, Benfica
+3, Eric Bailly, CIV, D, 1.87, 77, 12-04-94, Abidjan, Villarreal
+4, Phil Jones, ENG, D, 1.80, 71, 21-02-92, Preston, Blackburn R
+5, Harry Maguire, ENG, D, 1.88, 79, 05-03-93, Sheffield, Leicester C
+6, Paul Pogba, FRA, M, 1.91, 84, 15-03-93, Lagny-sur-Marne, Juventus
+8, Juan Mata, ESP, M, 1.70, 63, 28-04-88, Burgos, Chelsea
+9, Anthony Martial, FRA, F, 1.81, 76, 05-12-95, Massy, Monaco
+10, Marcus Rashford, ENG, F, 1.80, 70, 31-10-97, Manchester, None
+13, Lee Grant, ENG, G, 1.93, 83, 27-01-83, Hemel Hempstead, Stoke C
+14, Jesse Lingard, ENG, M, 1.75, 62, 15-12-92, Warrington, None
+15, Andreas Pereira, BRA, M, 1.77, 66, 01-01-96, Duffel, PSV Eindhoven
+17, Fred, BRA, M, 1.69, 68, 05-03-93, Belo Horizonte, Shakhtar Donetsk
+18, Bruno Fernandes, POR, M, 1.79, 75, 08-09-94, Maia, Sporting CP
+20, Diogo Dalot, POR, D, 1.84, 75, 18-03-99, Braga, FC Porto
+21, Daniel James, WAL, M, 1.80, 76, 10-11-97, Kingston upon Hull, Swansea C
+22, Sergio Romero, ARG, G, 1.92, 87, 22-02-87, Bernardo de Irigoyen, Sampdoria
+23, Luke Shaw, ENG, D, 1.85, 75, 12-07-95, Kingston upon Thames, Southampton
+24, Timothy Fosu-Mensah, NED, D, 1.90, 78, 02-01-98, Amsterdam, Ajax
+25, Odion Ighalo, NGA, F, 1.88, 70, 16-06-89, Lagos, Shanghai Shenhua
+26, Mason Greenwood, ENG, F, 1.81, 65, 01-10-01, Bradford, None
+28, Angel Gomes, ENG, M, 1.68, 56, 31-08-00, Enfield, None
+29, Aaron Wan-Bissaka, ENG, D, 1.83, 72, 26-11-97, Croydon, Crystal Palace
+30, Nathan Bishop, ENG, G, 1.85, 72, 15-10-99, Hillingdon, Southend U
+31, Nemanja Matić, SRB, M, 1.94, 85, 01-08-88, Šabac, Chelsea
+32, Paul Woolston, ENG, G, 1.80, 85, 14-08-98, North Shields, Newcastle U
+33, Luca Ercolani, ITA, D, 1.84, 73, 25-11-99, Ravenna, Forlì
+35, Demi Mitchell, ENG, D, 1.75, 75, 11-01-97, Manchester, None
+37, James Garner, ENG, M, 1.86, 77, 13-03-01, Birkenhead, None
+38, Axel Tuanzebe, ENG, D, 1.82, 75, 14-11-97, Bunia, None
+39, Scott McTominay, SCO, M, 1.78, 65, 08-12-96, Lancaster, None
+41, Ethan Laird, ENG, D, 1.77, 66, 05-08-01, Basingstoke, None
+44, Tahith Chong, NED, F, 1.85, 70, 04-12-99, Willemstad, Feyenoord
+46, Hannibal Mejbri, FRA, M, 1.84, 70, 21-01-03, Ivry-sur-Seine, Monaco
+47, Arnau Puigmal, ESP, M, 1.73, 65, 10-01-01, Barcelona, Espanyol
+49, D'Mani Mellor, ENG, F, 1.86, 81, 20-09-00, Manchester, None
+50, Alex Fojtíček, SVK, G, 1.93, 80, 03-03-00, Prešov, Tatran Prešov
+51, Matěj Kovář, CZE, G, 1.96, 88, 17-05-00, Uherské Hradiště, Slovácko
+52, Max Taylor, ENG, D, 1.80, 73, 10-01-00, Manchester, None
+53, Brandon Williams, ENG, D, 1.82, 63, 03-09-00, Manchester, None
+54, Ethan Galbraith, NIR, M, 1.75, 70, 11-05-01, Belfast, Linfield
+57, Aliou Traoré, FRA, M, 1.88, 83, 08-01-01, Sarcelles, Paris St-Germain
+58, Di'Shon Bernard, ENG, D, 1.87, 81, 14-10-00, Wandsworth, None
+59, Largie Ramazani, BEL, F, 1.67, 55, 27-02-01, Sint-Agatha-Berchem, Charlton Ath
+60, Ondřej Mastný, CZE, G, 1.83, 70, 08-03-02, Třebíč, Vysočina Jihlava
+61, Dion McGhee, ENG, M, 1.78, 63, 14-09-00, Oldham, None
+62, Anthony Elanga, SWE, F, 1.78, 65, 27-04-02, Hyllie, None
+63, Dylan Levitt, WAL, M, 1.80, 70, 17-11-00, Bodelwyddan, None
+65, Dillon Hoogewerf, NED, F, , , 27-02-03, Almere, Ajax
+71, Teden Mengi, ENG, D, 1.83, 78, 30-04-02, Manchester, None
+72, Mark Helm, ENG, M, 1.73, 61, 21-01-01, Warrington, None
+74, Charlie McCann, IRL, M, 1.78, 65, 24-04-02, Coventry, Coventry C
+75, Reece Devine, ENG, D, 1.83, 70, 18-12-01, Stourbridge, Manchester C
+76, Jacob Carney, ENG, G, , , 21-04-01, Rotherham, None
+77, William Fish, ENG, D, 1.85, 73, 17-02-03, Manchester, None
+82, Łukasz Bejger, POL, D, 1.90, 76, 11-01-02, Golub-Dobrzyń, Lech Poznań
+86, Ayodeji Sotona, IRL, F, , , 07-12-02, Waterford, None
+88, Charlie Wellens, ENG, M, 1.75, 61, 05-12-02, Salford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Joel Pereira, POR, G, 1.88, 70, 28-06-96, Boudevilliers, Hearts (On Loan)
+7, Alexis Sánchez, CHI, F, 1.69, 62, 19-12-88, Tocopilla, Internazionale (On Loan)
+12, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Roma (On Loan)
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Parma
+42, Lee O'Connor, IRL, D, 1.85, 75, 28-07-00, Waterford, Celtic
+18, Ashley Young, ENG, M, 1.75, 65, 09-07-85, Stevenage, Internazionale
+55, George Tanner, ENG, D, 1.81, 71, 16-11-99, Blackpool, Salford C (On Loan)
+16, Marcos Rojo, ARG, D, 1.87, 80, 20-03-90, La Plata, Estudiantes (LP) (On Loan)

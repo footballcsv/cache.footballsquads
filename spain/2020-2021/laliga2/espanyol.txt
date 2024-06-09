@@ -1,0 +1,44 @@
+=  Espanyol - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oier Olazábal, ESP, G, 1.89, 82, 14-09-89, Irún, Levante
+2, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Villarreal
+3, Adrià Pedrosa, ESP, D, 1.76, 69, 13-05-98, Barcelona, Espanyol B
+4, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Getafe
+5, Fernando Calero, ESP, D, 1.83, 69, 27-06-95, Boecillo, Valladolid
+6, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol B
+7, Wu Lei, CHN, M, 1.72, 61, 19-11-91, Nanjing, Shanghai SIPG
+8, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Osasuna
+9, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol B
+10, Sergi Darder, ESP, M, 1.80, 71, 22-12-93, Artà, Lyon
+11, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Benfica
+13, Diego López, ESP, G, 1.96, 89, 03-11-81, Paradela, Milan
+14, Óscar Melendo, ESP, M, 1.67, 63, 23-08-97, Barcelona, Espanyol B
+15, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Napoli
+17, Dídac, ESP, D, 1.85, 74, 09-06-89, Mataró, AEK
+18, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Anderlecht
+19, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Celta Vigo
+20, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Málaga B
+22, Matías Vargas, ARG, M, 1.68, 66, 08-05-97, Salta, Vélez Sarsfield
+23, Adri Embarba, ESP, F, 1.73, 66, 07-05-92, Madrid, Rayo Vallecano
+26, Pol Lozano, ESP, M, 1.76, 68, 06-10-99, Sant Quirze del Vallès, Espanyol B
+27, Óscar Gil, ESP, D, 1.73, 70, 26-04-98, Elche, Elche B
+28, Nabil Touaizi, MAR, F, 1.83, 77, 01-02-01, Santomera, Manchester C
+29, Jofre Carreras, ESP, F, 1.73, 68, 17-06-01, Girona, Espanyol B
+30, Ángel Fortuño, ESP, G, 1.83, 77, 05-10-01, Barcelona, Espanyol B
+31, Ricard Pujol, ESP, D, 1.85, 73, 04-03-98, Castellví de Rosanes, Cornellà
+32, Gori, ESP, M, -, -, 15-05-02, Arenys de Munt, Espanyol B
+33, Nico Melamed, ESP, M, 1.73, 67, 11-04-01, Castelldefels, Espanyol B
+34, Joan García, ESP, G, 1.80, 79, 04-05-01, Sallent de Llobregat, Espanyol B
+39, Max Svensson, ESP, F, -, -, 08-11-01, Barcelona, Espanyol B
+40, Omar El Hilali, MAR, D, 1.83, 75, 12-09-03, L'Hospitalet de Llobregat, Espanyol B
+41, Alejandro Pérez, ESP, D, -, -, 07-01-01, El Masnou, Espanyol B
+43, Iker Piedra, ESP, G, -, -, 31-01-02, Terrassa, Espanyol B
+44, Rubén Sánchez, ESP, D, 1.85, 73, 04-02-01, Barcelona, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Bayern Munich
+18, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Mirandés
+24, Víctor Campuzano, ESP, F, 1.74, 72, 31-05-97, Barcelona, Sporting Gijón

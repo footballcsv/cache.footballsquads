@@ -1,0 +1,44 @@
+=  Zaragoza - Spanish LaLiga2 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, San Lorenzo
+2, Gabriel Fuentes, COL, D, 1.80, 70, 09-02-97, Santa Marta, Junior
+3, Jair, POR, D, 1.88, 90, 21-08-89, Lisbon, Maccabi Tel Aviv
+4, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Rayo Vallecano
+5, Jaume Grau, ESP, M, 1.82, 65, 05-05-97, Tavernes de la Valldigna, Osasuna
+6, Alejandro Francés, ESP, D, 1.80, 70, 01-08-02, Zaragoza, Zaragoza B
+7, Miguel Puche, ESP, F, 1.79, 74, 30-04-01, Tarazona, Zaragoza B
+8, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Arouca
+9, Iván Azón, ESP, F, 1.81, 78, 24-12-02, Zaragoza, Zaragoza B
+10, Sergio Bermejo, ESP, M, 1.70, 61, 17-08-97, Madrid, Celta Vigo B
+11, Valentín Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, Almería
+12, Gaizka Larrazabal, ESP, F, 1.80, 81, 17-12-97, Bilbao, Athletic Bilbao
+13, Álvaro Ratón, ESP, G, 1.92, 75, 29-01-93, O Carballiño, Villanovense
+14, Francho Serrano, ESP, M, 1.77, 72, 17-10-01, Zaragoza, Zaragoza B
+15, Jairo Quinteros, BOL, D, 1.80, 75, 07-02-01, Santa Cruz de la Sierra, Inter Miami
+16, Tomás Alarcón, CHI, M, 1.74, 68, 19-01-99, Rancagua, Cádiz
+17, Carlos Nieto, ESP, D, 1.79, 74, 05-05-96, Zaragoza, Zaragoza B
+18, Fran Gámez, ESP, D, 1.74, 71, 27-07-91, Puerto de Sagunto, Mallorca
+19, Makhtar Gueye, SEN, F, 1.95, 90, 04-12-97, Dakar, Oostende
+20, Giuliano Simeone, ARG, F, 1.84, 72, 18-12-02, Rome, Atlético Madrid B
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Lokomotiv Moscow
+22, Carlos Vigaray, ESP, D, 1.82, 70, 07-09-94, Leganés, Alavés
+23, Manu Molina, ESP, M, 1.75, 63, 20-11-91, Huelva, Ibiza
+24, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol
+27, Marcos Luna, ESP, D, 1.80, 77, 05-04-03, Zaragoza, Zaragoza B
+28, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Atlético Madrid B
+30, Miguel Operé, ESP, D, -, -, 20-03-01, Alicante, Villarreal C
+33, Guillem Naranjo, ESP, F, -, -, 01-07-00, El Prat de Llobregat, Prat
+35, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+38, Pau Sans, ESP, F, 1.71, 65, 24-11-04, Zaragoza, Zaragoza B
+40, Javier Abbad, ESP, G, -, -, 14-09-04, -, Zaragoza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Las Palmas
+15, Pep Chavarria, ESP, D, 1.74, 72, 10-04-98, Figueres, Rayo Vallecano
+7, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Valladolid
+33, Miguel Puche, ESP, F, 1.79, 74, 30-04-01, Tarazona, Re-Registered (7)
+16, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Eibar
+4, Radosav Petrović, SRB, M, 1.93, 83, 08-03-89, Ub, Ordabasy

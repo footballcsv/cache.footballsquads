@@ -1,0 +1,40 @@
+=  Go Ahead Eagles - Dutch Eredivisie 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeffrey de Lange, NED, G, 1.88, 78, 01-04-98, Amstelveen, FC Twente
+2, Mats Deijl, NED, D, 1.81, 72, 15-07-97, Vlaardingen, FC Den Bosch
+3, Gerrit Nauber, GER, D, 1.85, 74, 13-04-92, Georgsmarienhütte, Sandhausen
+4, José Fontán, ESP, D, 1.83, 72, 11-02-00, Vilagarcía de Arousa, Celta Vigo
+5, Bas Kuipers, NED, D, 1.80, 72, 17-08-94, Amsterdam, NEC Nijmegen
+6, Jay Idzes, NED, M, 1.84, 78, 02-06-00, Mierlo, FC Eindhoven
+7, Rashaan Fernandes, NED, F, 1.79, 70, 29-08-98, Rotterdam, Telstar
+8, Evert Linthorst, NED, M, 1.82, 73, 03-03-00, Venlo, Al-Ittihad Kalba
+9, Isac Lidberg, SWE, F, 1.85, 82, 08-09-98, Stockholm, Gefle IF
+10, Philippe Rommens, BEL, M, 1.76, 68, 20-08-97, Wommelgem, TOP Oss
+11, Bobby Adekanye, NED, F, 1.75, 70, 14-02-99, Ibadan, Lazio
+14, Aventis Aventisian, GRE, D, 1.70, 66, 17-08-02, Thessaloniki, PAOK
+16, Sven Jansen, NED, G, 1.92, 80, 23-10-04, Deventer, None
+17, Darío Serra, ESP, F, 1.80, 78, 20-01-03, Vera, Valencia B
+18, Willum Þór Willumsson, ISL, M, 1.93, 84, 23-10-98, Reykjavík, BATE
+19, Sylla Sow, NED, F, 1.82, 74, 08-08-96, Nijmegen, Sheffield W
+20, Xander Blomme, BEL, M, 1.74, 68, 21-06-02, Eeklo, Club Brugge
+21, Enric Llansana, NED, M, 1.83, 72, 12-04-01, Tarragona, Ajax
+22, Erwin Mulder, NED, G, 1.93, 88, 03-03-89, Zevenaar, SC Heerenveen
+23, Oliver Edvardsen, NOR, F, 1.75, 65, 19-03-99, Bærum, Stabæk
+24, Jahnoah Markelo, NED, F, 1.71, 68, 04-01-03, Amsterdam, FC Twente
+25, Jamal Amofa, NED, D, 1.88, 82, 25-11-98, Amsterdam, ADO Den Haag
+26, Fredrik Oppegård, NOR, D, 1.75, 68, 07-08-02, Oslo, PSV Eindhoven
+27, Finn Stokkers, NED, F, 1.77, 71, 18-04-96, Barendrecht, RKC Waalwijk
+28, Pim Saathof, NED, D, 1.86, 77, 28-12-03, Nijverdal, None
+29, Robbin Weijenberg, NED, M, -, -, 08-11-04, -, None
+30, Jorn Smits, NED, M, -, -, 06-01-03, -, Vitesse
+31, Milan Berenschot, NED, F, -, -, 10-11-04, -, None
+33, Federico Mattiello, ITA, D, 1.84, 70, 14-07-95, Barga, Atalanta
+40, Luca Plogmann, GER, G, 1.88, 80, 10-03-00, Bremen, Werder Bremen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Tesfaldet Tekie, SWE, M, 1.75, 59, 04-06-97, Gothenburg, Hammarby IF
+17, Martijn Berden, NED, F, 1.76, 68, 29-07-97, Den Haag, VVV Venlo (On Loan)
+26, Justin Bakker, NED, D, 1.89, 74, 03-03-98, Amsterdam, Kuopion PS

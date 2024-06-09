@@ -1,0 +1,51 @@
+=  Levante - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Numancia
+2, Son, ESP, D, 1.79, 70, 30-03-94, Seville, Ponferradina
+3, Enric Franquesa, ESP, D, 1.74, 68, 26-02-97, Sant Cugat del Vallés, Villarreal B
+4, Róber Pier, ESP, D, 1.82, 74, 16-02-95, Oleiros, Deportivo La Coruña B
+5, Nemanja Radoja, SRB, M, 1.86, 77, 06-02-93, Novi Sad, Celta Vigo
+6, Óscar Duarte, CRC, D, 1.86, 81, 03-06-89, Catarina, Espanyol
+7, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Cagliari
+8, Pepelu, ESP, M, 1.85, 72, 11-08-98, Denia, Levante B
+9, Roger, ESP, F, 1.79, 74, 03-01-91, Torrent, Levante B
+10, Enis Bardhi, MKD, M, 1.69, 67, 02-07-95, Skopje, Újpest
+11, José Luis Morales, ESP, M, 1.80, 70, 23-07-87, Madrid, Fuenlabrada
+12, Mickaël Malsa, FRA, M, 1.78, 69, 12-10-95, Paris, Mirandés
+13, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Schalke
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Valencia
+15, Sergio Postigo, ESP, D, 1.84, 78, 04-11-88, Madrid, Spezia
+16, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Granada
+17, Nikola Vukčević, MNE, M, 1.84, 74, 13-12-91, Podgorica, Sporting Braga
+18, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Real Madrid B
+19, Carlos Clerc, ESP, D, 1.80, 72, 21-02-92, Barcelona, Osasuna
+20, Jorge Miramón, ESP, D, 1.76, 74, 02-06-89, Zaragoza, Huesca
+21, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Real Madrid B
+22, Gonzalo Melero, ESP, M, 1.83, 77, 02-01-94, Madrid, Huesca
+23, Coke, ESP, D, 1.82, 78, 26-04-87, Madrid, Schalke
+24, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Sampdoria
+25, Marcelo Saracchi, URU, D, 1.72, 69, 23-04-98, Paysandú, RB Leipzig
+26, Pablo Picón, ESP, G, 1.85, 78, 01-02-00, Valencia, Levante B
+27, Joseda, ESP, D, 1.83, 75, 22-01-01, Esplugues de Llobregat, Levante B
+29, Alejandro Cantero, ESP, F, 1.82, 76, 08-06-00, Madrid, Levante B
+34, Dani Cárdenas, ESP, G, 1.86, 80, 28-03-97, Terrassa, Levante B
+36, Antonio Leal, ESP, D, 1.86, 78, 28-01-99, Villamartín, Villarreal B
+37, Pablo Campos, ESP, G, 1.88, 78, 28-04-02, Valencia, Levante B
+39, Carlos Benítez, ESP, M, -, -, 25-11-02, Catarroja, Levante B
+40, Omar Faraj, SWE, F, 1.75, 65, 09-03-02, Stockholm, IF Brommapojkarna
+42, Marc Pubill, ESP, D, 1.90, 78, 20-06-03, Terrassa, Levante B
+44, Carlos Giménez, ESP, D, -, -, 18-02-03, Sedaví, Levante B
+45, Alejandro Primo, ESP, G, -, -, 10-07-04, -, Levante B
+46, Giorgi Kochorashvili, GEO, M, 1.78, 74, 29-06-99, Tbilisi, Saburtalo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Koke, ESP, G, 1.88, 88, 27-09-95, Málaga, San Diego Loyal
+13, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Re-Registered (1)
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Valladolid
+8, Hernâni, POR, F, 1.80, 69, 20-08-91, Lisbon, Las Palmas
+25, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Huesca (On Loan)
+7, Álex Blesa, ESP, M, 1.80, 72, 15-01-02, Valencia, Castellón (On Loan)
+28, José Manuel, ESP, D, -, -, 25-02-99, Archena, Intercity

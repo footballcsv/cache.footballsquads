@@ -1,0 +1,40 @@
+=  Sparta Prague - Czech 1.Liga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Florin Niţă, ROU, G, 1.85, 74, 03-07-87, Bucharest, FCSB
+3, Ondřej Čelůstka, CZE, D, 1.85, 79, 18-06-89, Zlín, Antalyaspor
+4, Adam Gabriel, CZE, D, 1.90, 84, 28-05-01, -, None
+6, Filip Souček, CZE, M, 1.82, 73, 16-09-00, Štěpánkovice, SFC Opava
+7, Tomáš Čvančara, CZE, F, 1.90, 86, 13-08-00, Neratovice, Jablonec
+8, David Pavelka, CZE, M, 1.74, 57, 18-05-91, Prague, Kasımpaşa
+9, Ladislav Krejčí, CZE, M, 1.78, 70, 05-07-92, Prague, Bologna
+10, Bořek Dočkal, CZE, M, 1.82, 71, 30-09-88, Městec Králové, Henan Jianye
+11, Martin Minchev, BUL, M, 1.76, 65, 22-04-01, Varna, Cherno More Varna
+16, Michal Sáček, CZE, M, 1.75, 63, 19-09-96, Hustopeče, None
+17, Casper Højer Nielsen, DEN, D, 1.83, 77, 20-11-94, Copenhagen, Aarhus
+18, Matěj Pulkrab, CZE, F, 1.85, 82, 23-05-97, Prague, None
+20, Adam Hložek, CZE, F, 1.80, 65, 25-07-02, Ivančice, None
+21, Jakub Pešek, CZE, M, 1.76, 65, 24-06-93, Chrudim, Slovan Liberec
+22, Lukáš Haraslín, SVK, M, 1.82, 71, 26-05-96, Bratislava, Sassuolo
+24, Matěj Polidar, CZE, D, 1.79, 76, 20-12-99, -, Příbram
+27, Filip Panák, CZE, D, 1.88, 76, 01-07-95, -, MFK Karviná
+28, Tomáš Wiesner, CZE, D, 1.76, 65, 17-07-97, Prague, None
+29, Milan Heča, CZE, G, 1.92, 82, 21-03-91, Krumvíř, Slovácko
+33, Dávid Hancko, SVK, D, 1.88, 78, 13-12-97, Prievidza, Fiorentina
+36, Adam Karabec, CZE, M, 1.81, 74, 02-07-03, Samotišky, Bohemians 1905
+37, Ladislav Krejčí, CZE, M, 1.87, 78, 20-04-99, Brno, Zbrojovka Brno
+39, Lukáš Juliš, CZE, F, 1.86, 80, 02-12-94, Chrudim, None
+40, František Kotek, CZE, G, 1.80, 65, 03-02-99, Prague, None
+41, Martin Vitík, CZE, D, 1.92, 73, 21-01-03, -, None
+48, Martin Suchomel, CZE, D, 1.83, 75, 11-09-02, -, None
+56, Matěj Ryneš, CZE, M, 1.86, 82, 30-05-01, -, České Budějovice
+77, Dominik Holec, SVK, G, 1.91, 87, 28-07-94, České Budějovice, MŠK Žilina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Jan Fortelný, CZE, M, 1.75, 66, 19-01-99, Prague, Teplice (On Loan)
+14, Václav Drchal, CZE, F, 1.87, 84, 25-07-99, České Budějovice, Dynamo Dresden (On Loan)
+7, David Moberg Karlsson, SWE, M, 1.79, 76, 20-03-94, Mariestad, Urawa Red Diamonds
+32, Andreas Vindheim, NOR, D, 1.84, 79, 04-08-95, Bergen, Schalke (On Loan)
+19, Lukáš Štetina, SVK, D, 1.85, 85, 28-07-91, Nitra, Slovan Liberec (On Loan)

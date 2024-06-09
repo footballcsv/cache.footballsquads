@@ -1,0 +1,62 @@
+=  SC Freiburg - German Bundesliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexander Schwolow, GER, G, 1.89, 83, 02-06-92, Wiesbaden, Wehen-Wiesbaden
+2, Aleksandar Ignjovski, SRB, D, 1.75, 69, 27-01-91, Belgrade, Eintracht Frankfurt
+3, Philipp Lienhart, AUT, D, 1.85, 78, 11-07-96, Lilienfeld, Real Madrid B
+4, Çağlar Söyüncü, TUR, D, 1.87, 80, 23-05-96, İzmir, Altınordu
+5, Manuel Gulde, GER, D, 1.83, 73, 12-02-91, Mannheim, Karlsruhe
+6, Amir Abrashi, ALB, M, 1.72, 70, 27-03-90, Bischofszell, Grasshoppers
+7, Florian Niederlechner, GER, F, 1.87, 84, 24-10-90, Ebersberg, Mainz
+8, Mike Frantz, GER, M, 1.81, 76, 14-10-86, Saarbrücken, Nürnberg
+9, Lucas Höler, GER, F, 1.84, 79, 10-07-94, Achim, Sandhausen
+13, Marco Terrazzino, GER, F, 1.81, 67, 15-04-91, Mannheim, 1899 Hoffenheim
+14, Patrick Kammerbauer, GER, D, 1.74, 73, 11-02-97, Weißenburg in Bayern, Nürnberg
+15, Pascal Stenzel, GER, D, 1.84, 74, 20-03-96, Bünde, Borussia Dortmund
+16, Yoric Ravet, FRA, F, 1.77, 72, 09-12-89, Echirolles, Young Boys
+17, Lukas Kübler, GER, D, 1.83, 73, 30-08-92, Bonn, Sandhausen
+18, Nils Petersen, GER, F, 1.86, 80, 06-12-88, Wernigerode, Werder Bremen
+19, Janik Haberer, GER, M, 1.87, 71, 02-04-94, Wangen im Allgäu, 1899 Hoffenheim
+20, Marc-Oliver Kempf, GER, D, 1.86, 88, 28-01-95, Lich, Eintracht Frankfurt
+21, Patric Klandt, GER, G, 1.85, 78, 29-09-83, Frankfurt am Main, FSV Frankfurt
+22, Vincent Sierro, SUI, M, 1.84, 74, 08-10-95, Sierre, Sion
+23, Julian Schuster, GER, M, 1.90, 77, 15-04-85, Bietigheim-Bissingen, Stuttgart
+24, Georg Niedermeier, GER, D, 1.88, 74, 26-02-86, Munich, Stuttgart
+25, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Kaiserslautern
+26, Gaétan Bussmann, FRA, D, 1.84, 75, 02-02-91, Épinal, Mainz
+27, Nicolas Höfler, GER, M, 1.81, 78, 09-03-90, Überlingen, Pfullendorf
+28, Jonas Meffert, GER, M, 1.86, 77, 04-09-94, Cologne, Bayer Leverkusen
+29, Matej Jukić, CRO, M, 1.84, 75, 07-04-97, Split, Split
+30, Christian Günter, GER, D, 1.84, 81, 28-02-93, Villingen, None
+31, Karim Guédé, SVK, F, 1.84, 77, 07-01-85, Hamburg, Slovan Bratislava
+32, Bartosz Kapustka, POL, M, 1.79, 60, 23-12-96, Tarnów, Leicester C
+33, Caleb Stanko, USA, M, 1.80, 70, 26-07-93, Holly, Vardar SC
+34, Tim Kleindienst, GER, F, 1.94, 82, 31-08-95, Jüterbog, Energie Cottbus
+35, Felix Roth, AUT, M, 1.79, 72, 13-11-87, Offenburg, SCR Altach
+36, Tim Probst, GER, F, 1.78, , 31-01-98, , None
+37, Constantin Frommann, GER, G, 1.85, 78, 27-05-98, Sasbach, None
+38, Florian Kath, GER, M, 1.85, 78, 21-10-94, Balingen, Balingen
+40, Mohamed Dräger, TUN, M, 1.80, 74, 25-06-96, Freiburg im Breisgau, None
+41, Nico Hug, GER, D, 1.70, 68, 26-10-98, , None
+43, Kamran Yahyaijan, GER, F, 1.78, , 14-11-98, Donaueschingen, Villingen
+44, Rafał Gikiewicz, POL, G, 1.90, 82, 26-10-87, Olsztyn, Eintracht Braunschweig
+45, Manolo Rodas, GER, M, 1.69, , 04-07-96, Offenburg-Elgersweier, Offenburger FV
+46, Lucas Torres, GER, M, 1.75, , 10-02-98, , None
+48, Luca Herrmann, GER, M, 1.76, 71, 22-02-99, Freiburg im Breisgau, None
+49, Jonas Huchler, GER, G, 1.85, , 01-04-98, Tettnang, Ravesnburg
+50, Niklas Hoffmann, GER, D, 1.85, 75, 09-04-97, Landau, Karslruhe
+51, Marcel Schmitt, GER, M, 1.86, , 18-01-98, , None
+52, Chima Okoroji, ENG, D, 1.77, 72, 19-04-97, Munich, Augsburg II
+53, Keven Schlotterbeck, GER, D, 1.89, 84, 28-04-97, Weinstadt, TSG Backnang
+54, Marvin Geng, GER, G, 1.84, , 08-09-97, , Elzach-Yach
+55, Angelo Rinaldi, GER, D, 1.83, , 14-01-98, , Winterthur
+56, Nico Rodewald, GER, F, 1.87, 83, 16-03-98, Aalen, Aalen
+57, Rico Wehrle, GER, F, 1.83, , 04-09-93, , Bahlinger SC
+58, Fabian Rüdlin, GER, M, 1.76, 71, 13-01-97, Müllheim, None
+59, Kolja Herrmann, GER, D, 1.79, , 17-04-97, , SE Freiburg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Ryan Kent, ENG, M, 1.72, 65, 11-11-96, Oldham, Liverpool
+11, Onur Bulut, GER, M, 1.81, 70, 16-04-94, Werdohl, Eintracht Braunschweig

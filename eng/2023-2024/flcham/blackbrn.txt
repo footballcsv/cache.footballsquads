@@ -1,0 +1,55 @@
+=  Blackburn Rovers - English Football League Championship 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aynsley Pears, ENG, G, 1.86, 80, 23-04-98, Durham, Middlesbrough
+2, Callum Brittain, ENG, D, 1.79, 68, 12-03-98, Bedford, Barnsley
+3, Harry Pickering, ENG, D, 1.85, 78, 29-12-98, Chester, Crewe Alex
+4, Connor O'Riordan, IRL, D, 1.93, 82, 19-10-03, Crewe, Crewe Alex
+5, Dominic Hyam, SCO, D, 1.88, 70, 20-12-95, Leuchars, Coventry C
+6, Sondre Tronstad, NOR, M, 1.73, 70, 26-08-95, Kristiansand, Vitesse
+7, Arnór Sigurðsson, ISL, M, 1.77, 71, 15-05-99, Akranes, CSKA Moscow
+8, Sammie Szmodics, ENG, M, 1.68, 64, 24-09-95, Colchester, Peterborough U
+9, Sam Gallagher, ENG, F, 1.93, 75, 15-09-95, Crediton, Southampton
+10, Tyrhys Dolan, ENG, M, 1.70, 55, 28-12-01, Manchester, Preston NE
+11, Joseph Rankin-Costello, ENG, M, 1.78, 70, 26-07-99, Stockport, None
+12, Leopold Wahlstedt, SWE, G, 1.82, 80, 04-07-99, Stockholm, Odd
+14, Billy Koumetio, FRA, D, 1.95, 76, 14-11-02, Lyon, Liverpool
+15, Patrick Gamble, ENG, D, 1.90, 82, 05-10-03, Liverpool, None
+16, Scott Wharton, ENG, D, 1.82, 75, 03-10-97, Blackburn, None
+17, Hayden Carter, ENG, D, 1.88, 67, 17-12-99, Stockport, None
+18, Dilan Markanday, ENG, F, 1.78, 64, 20-08-01, Barnet, Tottenham H
+19, Ryan Hedges, WAL, M, 1.85, 65, 07-09-95, Swansea, Aberdeen
+20, Harry Leonard, ENG, F, 1.80, 60, 12-09-03, Rochdale, None
+21, John Buckley, ENG, M, 1.73, 63, 13-10-99, Manchester, None
+22, Zak Gilsenan, IRL, M, 1.77, 62, 08-05-03, Joondalup, None
+23, John Fleck, SCO, M, 1.75, 72, 24-08-91, Glasgow, Sheffield U
+24, Andy Moran, IRL, M, 1.77, 73, 15-10-03, Dublin, Brighton & HA
+25, Jake Batty, ENG, D, 1.76, 70, 05-04-05, Liverpool, None
+26, Sam Barnes, ENG, D, 1.91, 70, 10-03-01, Blackburn, None
+30, Jake Garrett, ENG, D, 1.88, 75, 10-03-03, Liverpool, None
+31, Tom Atcheson, NIR, D, -, -, 22-09-06, -, None
+32, Igor Tyjon, ENG, F, -, -, 20-03-08, -, Rochdale
+33, Semir Telalović, GER, F, 1.87, 78, 23-12-99, Ehingen, B Mönchengladbach
+34, Joe Hilton, ENG, G, 1.96, 93, 11-10-99, Canterbury, Everton
+35, Jordan Eastham, ENG, G, 1.81, 67, 08-09-01, Preston, None
+36, James Edmondson, ENG, M, -, -, 01-11-05, -, None
+38, Nicholas Michalski, ENG, G, -, -, 14-03-07, -, None
+39, Kristi Montgomery, SCO, M, -, -, 31-05-04, -, None
+40, Rhys Doherty, ENG, M, -, -, 30-12-05, -, None
+41, Leo Duru, ENG, D, -, -, 12-01-05, Manchester, None
+42, Rory Finneran, IRL, M, -, -, 29-02-08, -, None
+43, Felix Goddard, ENG, G, 1.90, 80, 09-03-04, Frankfurt am Main, Manchester C
+44, Yasin Ayari, SWE, M, 1.72, 69, 06-10-03, Solna, Brighton & HA
+45, Ben Chrisene, ENG, D, 1.83, 80, 12-01-04, Exeter, Aston Villa
+55, Kyle McFadzean, ENG, D, 1.85, 84, 20-02-87, Sheffield, Coventry C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Lewis Travis, ENG, D, 1.83, 83, 16-10-97, Whiston, Ipswich T (On Loan)
+4, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, Bournemouth
+29, Jack Vale, WAL, F, 1.86, 70, 03-03-01, Salford, Motherwell (On Loan)
+14, Niall Ennis, ENG, F, 1.78, 76, 20-05-99, Wolverhampton, Stoke C
+23, Adam Wharton, ENG, M, 1.82, 76, 06-02-04, Blackburn, Crystal Palace
+37, Tom Bloxham, IRL, F, -, -, 30-04-05, Welwyn Garden City, Harrogate T (On Loan)
+28, Charlie Weston, ENG, M, -, -, 13-07-04, Oldham, Kidderminster H (On Loan)

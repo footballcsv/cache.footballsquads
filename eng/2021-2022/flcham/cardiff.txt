@@ -1,0 +1,52 @@
+=  Cardiff City - English Football League Championship 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dillon Phillips, ENG, G, 1.88, 75, 11-06-95, Hornchurch, Charlton Ath
+2, Mark McGuinness, IRL, D, 1.94, 70, 05-01-01, Slough, Arsenal
+3, Joel Bagan, IRL, D, 1.93, 76, 03-09-01, Basingstoke, None
+4, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Reading
+5, Aden Flint, ENG, D, 1.89, 76, 11-07-89, Pinxton, Bristol C
+6, Will Vaulks, WAL, D, 1.80, 75, 13-09-93, Wirral, Rotherham U
+7, Leandro Bacuna, CUW, M, 1.87, 77, 21-08-91, Groningen, Reading
+8, Joe Ralls, ENG, M, 1.83, 70, 13-10-93, Aldershot, None
+9, Jordan Hugill, ENG, F, 1.83, 64, 04-06-92, Middlesbrough, Norwich C
+10, Uche Ikpeazu, ENG, F, 1.91, 78, 28-02-95, Harrow, Middlesbrough
+14, Isaac Vassell, ENG, F, 1.71, 71, 09-09-93, Newquay, Birmingham C
+15, Ryan Wintle, ENG, M, 1.65, 64, 13-06-97, Newcastle-under-Lyme, Crewe Alex
+16, Curtis Nelson, ENG, D, 1.83, 74, 21-05-93, Newcastle-under-Lyme, Oxford U
+17, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, Leeds U
+18, Alfie Doughty, ENG, M, 1.83, 68, 21-12-99, Hatfield, Stoke C
+19, James Collins, IRL, F, 1.88, 86, 01-12-90, Coventry, Luton T
+21, Marlon Pack, ENG, M, 1.88, 74, 25-03-91, Portsmouth, Bristol C
+22, Tommy Doyle, ENG, M, 1.72, 73, 17-10-01, Manchester, Manchester C
+23, Max Watters, ENG, F, 1.86, 80, 23-03-99, Camden, Crawley T
+25, Alex Smithies, ENG, G, 1.85, 84, 05-03-90, Huddersfield, QPR
+27, Rubin Colwill, WAL, M, 1.83, 75, 27-04-02, Neath, None
+29, Mark Harris, WAL, F, 1.82, 75, 29-12-98, Swansea, None
+31, George Ratcliffe, WAL, G, 1.89, 74, 12-09-00, Newport, None
+32, Eli King, WAL, M, -, -, 23-12-02, -, None
+33, Keenan Patten, WAL, M, -, -, 07-04-01, Cardiff, None
+34, Jai Semenyo, ENG, D, -, -, 13-07-03, Greenwich, Mangotsfield U
+37, Sam Bowen, WAL, M, 1.78, 76, 14-01-01, Newport, None
+38, Perry Ng, ENG, D, 1.80, 77, 27-04-96, Liverpool, Crewe Alex
+39, Isaak Davies, WAL, F, -, -, 25-09-01, -, None
+40, Thomas Davies, WAL, D, -, -, -, -, None
+41, Tavio Kouakou D'Almeida, CIV, D, 1.79, 74, 11-12-00, -, Auxerre
+42, Oliver Denham, WAL, D, 1.82, 66, 04-05-02, Blackpool, Manchester U
+43, Rohan Luthra, ENG, G, 1.92, 79, 06-05-02, Hounslow, Crystal Palace
+44, Matthew Turner, WAL, G, 1.94, 81, 27-03-02, Pembrey, Leeds U
+45, Jack Leahy, ENG, F, -, -, 17-09-02, -, Brighton & HA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Gavin Whyte, NIR, F, 1.78, 67, 31-01-96, Belfast, Oxford U (On Loan)
+24, Marley Watkins, WAL, M, 1.78, 65, 17-10-90, Lewisham, Aberdeen
+11, Josh Murphy, ENG, M, 1.73, 67, 24-02-95, Wembley, Preston NE (On Loan)
+17, Lee Tomlin, ENG, F, 1.80, 74, 12-01-89, Leicester, Walsall
+26, Ryan Giles, ENG, M, 1.79, 72, 26-01-00, Telford, Wolverhampton W
+35, Chanka Zimba, ENG, F, -, -, 29-12-01, -, Northampton T (On Loan)
+10, Kieffer Moore, WAL, F, 1.95, 83, 08-08-92, Torquay, Bournemouth
+28, Tom Sang, ENG, M, 1.88, 79, 29-06-99, Liverpool, St Johnstone (On Loan)
+30, Ciaron Brown, NIR, D, 1.85, 76, 14-01-98, Hillingdon, Oxford U (On Loan)
+36, Kieron Evans, WAL, M, 1.78, 68, 19-12-01, Caerphilly, Linfield (On Loan)

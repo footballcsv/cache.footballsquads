@@ -1,0 +1,46 @@
+=  Nice - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Leicester C
+4, Dante, BRA, D, 1.87, 82, 18-10-83, Salvador, Wolfsburg
+8, Pablo Rosario, NED, M, 1.79, 73, 07-01-97, Amsterdam, PSV Eindhoven
+9, Terem Moffi, NGA, F, 1.88, 82, 25-05-99, Calabar, Lorient
+10, Sofiane Diop, FRA, M, 1.75, 65, 09-06-00, Tours, Monaco
+11, Ross Barkley, ENG, M, 1.89, 76, 05-12-93, Liverpool, Chelsea
+14, Billal Brahimi, FRA, F, 1.83, 75, 14-03-00, Paris, Angers
+15, Joe Bryan, ENG, D, 1.70, 72, 17-09-93, Bristol, Fulham
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Juventus
+19, Khéphren Thuram, FRA, M, 1.92, 80, 26-03-01, Reggio Emilia, Monaco
+20, Youcef Atal, ALG, D, 1.76, 64, 17-05-96, Boghni, Kortrijk
+21, Alexis Beka Beka, FRA, M, 1.75, 67, 04-10-00, Paris, Lokomotiv Moscow
+23, Jordan Lotomba, SUI, D, 1.77, 67, 29-09-98, Yverdon-les-Bains, Young Boys
+24, Gaëtan Laborde, FRA, F, 1.81, 78, 03-05-94, Mont-de-Marsan, Rennes
+25, Jean-Clair Todibo, FRA, D, 1.90, 81, 30-12-99, Cayenne, Barcelona
+26, Melvin Bard, FRA, D, 1.73, 65, 06-11-00, Écully, Lyon
+28, Hicham Boudaoui, ALG, M, 1.76, 56, 23-09-99, Béchar, Paradou AC
+29, Nicolas Pépé, CIV, F, 1.78, 68, 29-05-95, Mantes-la-Jolie, Arsenal
+33, Antoine Mendy, FRA, D, 1.87, 75, 27-05-04, Marseille, None
+35, Badredine Bouanani, FRA, M, 1.72, 60, 08-12-04, Lille, Lille
+37, Reda Belahyane, FRA, M, 1.69, 53, 01-06-04, Paris, None
+39, Daouda Traoré, FRA, M, 1.88, 76, 22-07-06, Ivry-sur-Seine, None
+40, Ayoub Amraoui, MAR, D, 1.84, 69, 14-05-04, La Seyne-sur-Mer, None
+42, Mattia Viti, ITA, D, 1.90, 74, 24-01-02, Borgo San Lorenzo, Empoli
+55, Youssouf Ndayishimiye, BDI, D, 1.83, 76, 27-10-98, Buyenzi, İstanbul Başakşehir
+77, Teddy Boulhendi, FRA, G, 1.85, 82, 09-04-01, Martigues, None
+90, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Paris St-Germain
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Flavius Daniliuc, AUT, D, 1.86, 76, 27-04-01, Vienna, Salernitana
+22, Calvin Stengs, NED, F, 1.82, 74, 18-12-98, Nieuw-Vennep, Royal Antwerp (On Loan)
+10, Alexis Claude-Maurice, FRA, M, 1.74, 62, 06-06-98, Noisy-le-Grand, Lens (On Loan)
+11, Amine Gouiri, FRA, F, 1.80, 72, 16-02-00, Bourgoin-Jallieu, Rennes
+27, Alexis Trouillet, FRA, M, 1.75, 65, 23-12-00, Saint-Priest-en-Jarez, Panathinaikos
+5, Mads Bech Sørensen, DEN, D, 1.85, 73, 07-01-99, Horsens, Brentford
+9, Kasper Dolberg, DEN, F, 1.87, 82, 06-10-97, Silkeborg, 1899 Hoffenheim (On Loan)
+99, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Wolverhampton W
+97, Lucas Da Cunha, FRA, M, 1.74, 66, 09-06-01, Roanne, Como
+6, Morgan Schneiderlin, FRA, M, 1.81, 75, 08-11-89, Zettwiller, Western Sydney W (On Loan)
+7, Andy Delort, ALG, F, 1.82, 82, 09-10-91, Sète, Nantes (On Loan)
+18, Rareş Ilie, ROU, M, 1.83, 73, 19-04-03, Bucharest, Maccabi Tel Aviv (On Loan)

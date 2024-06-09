@@ -1,0 +1,43 @@
+=  Alanyaspor - Turkish Süper Lig 2022/2023
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Ahmet Gülay, TUR, D, 1.74, 68, 13-01-03, Trabzon, Beşiktaş
+4, Furkan Bayır, TUR, D, 1.87, 80, 09-02-00, İzmir, Menemenspor
+5, Ümit Akdağ, TUR, D, -, -, 06-10-03, Bucharest, None
+6, Umut Güneş, TUR, M, 1.77, 74, 16-03-00, Albstadt, Stuttgart II
+7, Efecan Karaca, TUR, M, 1.66, 56, 16-11-89, Fatih, Kartalspor
+8, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, Feyenoord
+9, Erencan Yardımcı, TUR, F, 1.84, 76, 04-02-02, İzmit, Eyüpspor
+10, Zinedine Ferhat, ALG, M, 1.80, 70, 01-03-93, Bordj Menaïel, Nîmes
+11, Efkan Bekiroğlu, GER, M, 1.85, 81, 14-09-95, Dachau, 1860 Munich
+13, Rúnar Alex Rúnarsson, ISL, G, 1.85, 73, 18-02-95, Reykjavík, Arsenal
+17, Wilson Eduardo, ANG, F, 1.76, 72, 08-07-90, Pedras Rubras, Al-Ain [UAE]
+19, Ivan Cavaleiro, POR, M, 1.75, 73, 18-10-93, Vialonga, Fulham
+20, Fatih Aksoy, TUR, D, 1.89, 79, 06-11-97, İstanbul, Beşiktaş
+21, Candeias, POR, M, 1.77, 77, 25-02-88, Fornos de Algodres, Gençlerbirliği
+23, Joher Khadim Rassoul, SEN, D, 1.87, 82, 31-12-95, Dakar, Eyüpspor
+24, Efthimios Koulouris, GRE, F, 1.84, 81, 06-03-96, Skydra, LASK Linz
+27, Pedro Pereira, POR, D, 1.85, 72, 22-01-98, Lisbon, Monza
+29, Jure Balkovec, SVN, D, 1.85, 74, 09-09-94, Novo Mesto, Fatih Karagümrük
+32, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, Valladolid
+37, Mert-Yusuf Torlak, GER, M, 1.73, 67, 18-07-02, Nuremberg, Greuther Fürth
+39, Çağan Kayra Erciyas, TUR, D, -, -, 04-02-03, Hatay, None
+42, Yunus Bahadır, TUR, D, 1.80, 70, 07-08-02, Liège, PSV Eindhoven
+70, Oğuz Aydın, TUR, M, 1.83, 69, 27-10-00, Den Haag, Bucaspor 1928
+88, Yusuf Özdemir, TUR, M, -, -, 10-01-01, Bahçelievler, None
+93, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Olympiakos
+96, Yavuz Aygün, TUR, G, 1.83, 86, 27-06-96, Trabzon, Isparta 32 Spor
+97, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, Amiens
+98, Idrissa Doumbia, CIV, M, 1.84, 75, 14-04-98, Yamoussoukro, Sporting CP
+99, Yusuf Karagöz, TUR, G, 1.95, 79, 05-10-99, Hatay, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Miha Mevlja, SVN, D, 1.90, 83, 12-06-90, Ljubljana, Spartak Moscow
+75, Tayfur Bingöl, TUR, D, 1.84, 81, 11-01-93, Ankara, Beşiktaş (On Loan)
+18, Oussama Targhalline, MAR, M, 1.86, 70, 20-05-02, Sidi Belyout, Marseille
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Paços de Ferreira
+34, İsmail Zehir, TUR, M, -, -, 29-06-03, İstanbul, Batman Petrolspor (On Loan)
+14, Famara Diédhiou, SEN, F, 1.89, 80, 15-12-92, Saint-Louis, Granada (On Loan)
+22, Cem Çelik, TUR, M, -, -, 27-03-02, İstanbul, Bayrampaşa (On Loan)

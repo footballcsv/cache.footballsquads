@@ -1,0 +1,40 @@
+=  Eldense - Spanish LaLiga2 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guille Vallejo, ESP, G, 1.82, 70, 22-04-95, Burgos, Algeciras
+2, Toni Abad, ESP, D, 1.74, 65, 03-11-96, Valencia, Alcoyano
+3, Álex Martínez, ESP, D, 1.76, 64, 12-08-90, Seville, Hércules
+4, Dario Dumić, BIH, D, 1.88, 85, 30-01-92, Sarajevo, Sandhausen
+5, Iñigo Piña, ESP, D, 1.88, 82, 30-10-94, Murchante, Murcia
+6, Carlos Hernández, ESP, D, 1.85, 80, 15-09-90, Jaén, Alcorcón
+7, Florin Andone, ROU, F, 1.80, 78, 11-04-93, Botoșani, Las Palmas
+8, Sergio Ortuño, ESP, M, 1.78, 72, 02-03-99, Elda, Valladolid B
+9, Mario Soberón, ESP, F, 1.78, 74, 18-05-97, Unquera, SD Logroñés
+10, Cris Montes, ESP, F, 1.63, 56, 10-08-97, Santa Cruz de Tenerife, Unionistas de Salamanca
+11, Juanto Ortuño, ESP, F, 1.77, 70, 11-02-92, Yecla, Castellón
+12, Derick Poloni, BRA, D, 1.73, 71, 01-09-93, São Paulo, Casa Pia
+13, Ian Mackay, ESP, G, 1.81, 80, 14-07-86, La Coruña, Deportivo La Coruña
+14, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Espanyol
+15, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Tenerife
+16, Youness Lachhab, MAR, M, 1.92, 86, 23-04-99, El Palmar, Granada B
+17, Jesús Clemente, ESP, M, 1.85, 77, 08-09-00, Badajoz, Badajoz
+18, Pedro Capó, ESP, D, 1.88, 80, 11-12-90, Mahón, Sabadell
+19, Joel Jorquera, ESP, F, 1.71, 65, 19-08-00, Castelldefels, Cádiz B
+20, Ivan Chapela, ESP, M, 1.80, 70, 21-05-99, Chiclana de la Frontera, Cádiz B
+21, Álex Bernal, ESP, M, 1.75, 64, 03-03-91, Seville, Córdoba
+22, Marc-Olivier Doué, FRA, D, 1.85, 73, 11-10-00, Bordeaux, Excelsior Virton
+23, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Huesca
+24, David Tímor, ESP, M, 1.85, 77, 17-10-89, Carcaixent, Huesca
+25, Nacho Monsalve, ESP, D, 1.89, 81, 27-04-94, Madrid, ŁKS Łódź
+26, Antonio Pina, ESP, G, -, -, 29-05-03, -, Eldense B
+29, Gabri Jimeno, ESP, F, 1.78, 75, 29-12-03, Elda, UCAM Murcia B
+30, Luismi Quirant, ESP, G, -, -, 28-10-04, -, Eldense B
+31, Álvaro Aceves, ESP, G, -, -, 26-07-03, Valladolid, Valladolid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Eddie Salcedo, ITA, F, 1.78, 70, 01-10-01, Genoa, Internazionale
+15, Miguel Marí, ESP, M, 1.85, 78, 30-06-97, Alicante, Hércules (On Loan)
+13, Andoni Zubiaurre, ESP, G, 1.88, 82, 04-12-96, Ordizia, Mirandés (On Loan)
+29, Arnau Ortiz, ESP, F, 1.75, 70, 29-10-01, Figueres, Girona B

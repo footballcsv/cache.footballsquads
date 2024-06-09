@@ -1,0 +1,46 @@
+=  Cosenza - Italian Serie B 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kristjan Matoševič, SVN, G, 1.92, 88, 05-06-97, Koper, Triestina
+2, Angelo Corsi, ITA, D, 1.80, 80, 18-05-89, Ferentino, Aprilia
+3, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Ascoli
+4, Andrea Tiritiello, ITA, D, 1.88, 79, 28-03-95, Portoferraio, Fidelis Andria
+5, Riccardo Idda, ITA, D, 1.85, 78, 26-12-88, Alghero, Virtus Francavilla
+6, Mohamed Bahlouli, FRA, M, 1.73, 72, 17-02-00, Lyon, Sampdoria
+9, Jerry Mbakogu, NGA, F, 1.84, 82, 01-10-92, Lagos, Osijek
+10, Mirko Carretta, ITA, F, 1.78, 75, 23-11-90, Gallipoli, Cremonese
+11, Ihsan Sacko, FRA, F, 1.83, 70, 19-07-97, Alfortville, Nice
+12, Pavel Patitucci, ITA, G, 1.87, 82, 20-05-03, Trebisacce, None
+13, Devid Eugene Bouah, ITA, D, 1.80, 74, 13-08-01, Rome, Roma
+14, Raffaele Schiavi, ITA, D, 1.83, 73, 15-03-86, Cava dei Tirreni, Salernitana
+16, Daniele Sciaudone, ITA, M, 1.83, 78, 10-08-88, Bergamo, Novara
+17, Abou-Malal Ba, FRA, M, 1.82, 74, 29-07-98, Saint-Dié, Nantes
+18, Matteo Legittimo, ITA, D, 1.82, 76, 17-06-89, Casarano, Lecce
+19, Brayan Vera, COL, D, 1.80, 74, 15-01-99, San Luis, Lecce
+21, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Pordenone
+22, Umberto Saracco, ITA, G, 1.86, 77, 10-04-94, Moncalieri, Torino
+23, Ettore Gliozzi, ITA, F, 1.86, 83, 23-09-95, Siderno, Monza
+25, Ben Lhassine Kone, CIV, M, 1.72, 70, 14-03-00, Abidjan, Torino
+26, Luca Crecco, ITA, D, 1.83, 77, 06-09-95, Rome, Pescara
+27, Luca Bittante, ITA, D, 1.84, 65, 14-08-93, Bassano del Grappa, Empoli
+28, Gianmarco Ingrosso, ITA, D, 1.86, 82, 28-01-89, Gagliano del Capo, Pisa
+29, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Frosinone
+30, Wladimiro Falcone, ITA, G, 1.95, 85, 12-04-95, Rome, Sampdoria
+34, Aldo Florenzi, ITA, M, 1.83, 70, 02-04-02, Nuoro, Chievo Verona
+35, Paolo Ficara, ITA, D, 1.83, 77, 25-06-02, Reggio di Calabria, SPAL
+36, Mario Gaudio, ITA, M, 1.78, 60, 08-04-02, Cosenza, None
+42, Giorgos Antzoulas, GRE, D, 1.83, 74, 04-02-00, Tripoli, Asteras Tripolis
+79, Gianluigi Sueva, ITA, F, 1.74, 65, 01-01-01, Cosenza, None
+88, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, Ascoli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Gianluca Litteri, ITA, F, 1.86, 80, 06-06-88, Catania, Triestina
+21, Mirko Bruccini, ITA, M, 1.83, 70, 18-01-86, La Spezia, Alessandria
+33, Salvatore Dario La Vardera, ITA, D, 1.84, 75, 07-03-02, Palermo, Acireale (On Loan)
+20, Gennaro Borrelli, ITA, F, 1.94, 84, 10-03-00, Campobasso, Pescara
+7, Jaime Báez, URU, F, 1.80, 74, 24-04-95, Montevideo, Cremonese
+32, Raffaele Maresca, ITA, M, 1.73, -, 04-12-02, Vico Equense, Bologna (On Loan)
+99, Riccardo Moreo, ITA, F, 1.88, 89, 24-02-96, Milan, Novara (On Loan)
+9, Adrian Petre, ROU, F, 1.88, 72, 11-02-98, Arad, FCSB

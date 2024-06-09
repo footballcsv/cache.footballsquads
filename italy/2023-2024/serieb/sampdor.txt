@@ -1,0 +1,63 @@
+=  Sampdoria - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filip Stanković, SRB, G, 1.86, 72, 25-02-02, Rome, Internazionale
+2, Cristiano Piccini, ITA, D, 1.89, 86, 26-09-92, Florence, Magdeburg
+3, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, Cagliari
+4, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Leeds U
+5, Kristoffer Askildsen, NOR, M, 1.90, 77, 09-01-01, Oslo, Stabæk
+7, Sebastiano Esposito, ITA, F, 1.86, 75, 02-07-02, Castellammare di Stabia, Internazionale
+8, Matteo Ricci, ITA, M, 1.75, 63, 27-05-94, Rome, Frosinone
+9, Manuel De Luca, ITA, F, 1.90, 75, 17-07-98, Bolzano, Chievo Verona
+10, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Pescara
+11, Estanis Pedrola, ESP, F, 1.85, 78, 24-08-03, Cambrils, Barcelona B
+12, Elia Tantalocchi, ITA, G, 1.90, 78, 30-06-04, Civitanova Marche, Fermana
+13, Andrea Conti, ITA, D, 1.84, 76, 02-03-94, Lecco, Milan
+14, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Olympiakos
+15, Arttu Lötjönen, FIN, D, 1.84, -, 28-01-04, Pori, FC Jazz
+16, Fabio Borini, ITA, F, 1.80, 73, 29-03-91, Bentivoglio, Fatih Karagümrük
+19, Agustín Álvarez, URU, F, 1.80, 71, 19-05-01, San Bautista, Sassuolo
+21, Simone Giordano, ITA, D, 1.84, 75, 21-12-01, Genoa, None
+22, Nicola Ravaglia, ITA, G, 1.84, 78, 12-12-88, Forlì, Cremonese
+23, Fabio Depaoli, ITA, D, 1.82, 71, 24-04-97, Riva del Garda, Chievo Verona
+25, Alex Ferrari, ITA, D, 1.91, 80, 01-07-94, Modena, Bologna
+28, Gerard Yepes, ESP, M, 1.70, 64, 25-08-02, Barcelona, Sant Andreu
+29, Nicola Murru, ITA, D, 1.80, 74, 16-12-94, Cagliari, Cagliari
+32, Stefano Girelli, ITA, M, 1.85, 78, 09-01-01, Brescia, Cremonese
+33, Facundo González, URU, D, 1.93, 80, 06-07-03, Montevideo, Juventus
+34, Ardijan Chilafi, MKD, M, 1.89, 72, 03-06-04, Skopje, Sondrio
+35, Hugo Buyla, EQG, D, 1.91, 80, 08-03-05, Zaragoza, Atalanta
+36, Ilario Porzi, ITA, M, 1.72, -, 23-08-05, Foligno, Cannara
+37, Matteo Langella, ITA, D, 1.77, -, 07-02-05, Torre Annunziata, Virtus Entella
+38, Lorenzo Costantino, ITA, D, -, -, 28-01-06, Genoa, None
+39, Francesco Conti, ITA, M, 1.86, -, 23-10-04, Genoa, None
+40, Petar Stojanović, SVN, D, 1.78, 72, 07-10-95, Ljubljana, Empoli
+41, Fabiano D'Amore, ITA, D, -, -, 12-06-06, Catania, Catania
+42, Andrea Dacourt, FRA, M, 1.70, 52, 30-07-05, Paris, Nice
+43, Samuel Ntanda, BEL, F, 1.84, 74, 30-06-05, Brussels, Sint-Truiden
+44, Simone Leonardi, ITA, F, 1.82, 74, 18-07-05, Catania, None
+45, Gabriele Alesi, ITA, F, 1.75, 59, 28-01-04, Alcamo, Milan
+46, Giovanni Leoni, ITA, D, 1.93, 76, 21-12-06, Rome, Padova
+47, Simone Pozzato, ITA, M, -, -, 18-10-04, Vicenza, None
+48, Nicolò Uberti, ITA, M, 1.74, 65, 25-07-04, Brescia, None
+55, Ebrima Darboe, GAM, M, 1.78, 69, 06-06-01, Bakoteh, Roma
+80, Leonardo Benedetti, ITA, M, 1.80, 73, 06-06-00, La Spezia, Spezia
+87, Daniele Ghilardi, ITA, D, 1.89, 77, 06-01-03, Lucca, Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Ivan Saio, ITA, G, 1.92, 72, 16-03-02, Voghera, Brindisi (On Loan)
+14, Matteo Stoppa, ITA, F, 1.75, 67, 27-09-00, Biella, Catanzaro (On Loan)
+24, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Empoli (On Loan)
+37, Mehdi Léris, FRA, M, 1.86, 83, 23-05-98, Mont-de-Marsan, Stoke C
+18, Lorenzo Di Stefano, ITA, F, 1.82, 75, 19-09-02, Catania, Lecco
+97, Flavio Paoletti, ITA, M, 1.82, -, 16-01-03, San Benedetto del Tronto, Fatih Karagümrük
+2, Luigi Aquino, ITA, D, 1.84, -, 01-02-02, Pompei, LFA Reggio Calabria
+19, Daniele Montevago, ITA, F, 1.84, -, 18-03-03, Palermo, Virtus Entella (On Loan)
+30, Mattia Vitale, ITA, M, -, -, 17-10-04, Castellammare di Stabia, Monopoli (On Loan)
+17, Lorenzo Malagrida, ITA, M, 1.74, 64, 24-10-03, Pietra Ligure, Rimini (On Loan)
+77, Marco Delle Monache, ITA, F, 1.70, 62, 03-02-05, Cappelle sul Tavo, Vicenza (On Loan)
+92, Noha Lemina, FRA, M, 1.72, 78, 17-06-05, Libreville, Paris St-Germain
+6, Simone Panada, ITA, M, 1.75, 68, 02-06-02, Brescia, Atalanta
+20, Antonino La Gumina, ITA, F, 1.84, 78, 06-03-96, Palermo, Mirandés (On Loan)

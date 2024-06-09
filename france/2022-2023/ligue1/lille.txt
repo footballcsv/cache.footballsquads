@@ -1,0 +1,36 @@
+=  Lille - French Ligue 1 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Tiago Djaló, POR, D, 1.90, 85, 09-04-00, Amadora, Milan
+4, Alexsandro, BRA, D, 1.89, 82, 09-08-99, Rio de Janeiro, Chaves
+5, Gabriel Gudmundsson, SWE, D, 1.81, 74, 29-04-99, Malmö, FC Groningen
+6, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Dalian Yifang
+7, Jonathan Bamba, FRA, F, 1.73, 67, 26-03-96, Alfortville, St-Etienne
+8, Jonas Martin, FRA, M, 1.82, 70, 09-04-90, Besançon, Rennes
+9, Jonathan David, CAN, F, 1.77, 77, 14-01-00, Brooklyn, KAA Gent
+10, Rémy Cabella, FRA, M, 1.71, 62, 08-03-90, Ajaccio, Montpellier
+11, Adam Ounas, ALG, F, 1.72, 65, 11-11-96, Chambray-les-Tours, Napoli
+15, Leny Yoro, FRA, D, 1.90, 73, 13-11-05, Saint-Maurice, None
+16, Adam Jakubech, SVK, G, 1.90, 80, 02-01-97, Prešov, Spartak Trnava
+18, Bafodé Diakité, FRA, D, 1.82, 74, 06-01-01, Toulouse, Toulouse
+20, Angel Gomes, ENG, M, 1.68, 56, 31-08-00, Enfield, Manchester U
+21, Benjamin André, FRA, M, 1.77, 68, 03-08-90, Nice, Rennes
+22, Timothy Weah, USA, F, 1.85, 66, 22-02-00, New York, Paris St-Germain
+23, Edon Zhegrova, KVX, F, 1.74, 69, 31-03-99, Herford, Basel
+25, Benoît Costil, FRA, G, 1.87, 83, 03-07-87, Caen, Auxerre
+26, Alan Virginius, FRA, F, 1.79, 57, 03-01-03, Soisy-sous-Montmorency, Sochaux
+27, Mohamed Bayo, GUI, F, 1.88, 76, 04-06-98, Clermont-Ferrand, Clermont
+28, André Gomes, POR, M, 1.88, 84, 30-07-93, Vila Nova de Gaia, Everton
+30, Lucas Chevalier, FRA, G, 1.92, 78, 06-11-01, Calais, None
+31, Ismaily, BRA, D, 1.77, 78, 11-01-90, Ivinhema, Shakhtar Donetsk
+35, Carlos Baleba, CMR, M, 1.79, 75, 03-01-04, Douala, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Amadou Onana, BEL, M, 1.92, 85, 16-08-01, Dakar, Everton
+11, Yusuf Yazıcı, TUR, M, 1.83, 78, 29-01-97, Trabzon, Trabzonspor (On Loan)
+17, Rémy Cabella, FRA, M, 1.71, 62, 08-03-90, Ajaccio, Re-Registered (10)
+13, Akim Zedadka, ALG, D, 1.73, 72, 30-05-95, Pertuis, Auxerre (On Loan)
+1, Léo Jardim, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, Vasco da Gama
+19, Isaac Lihadji, FRA, F, 1.77, 70, 10-04-02, Marseille, Sunderland

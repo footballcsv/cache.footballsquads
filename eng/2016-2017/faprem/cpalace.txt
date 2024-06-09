@@ -1,0 +1,55 @@
+=  Crystal Palace - English Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Julián Speroni, ARG, G, 1.86, 87, 18-05-79, Buenos Aires, Dundee
+2, Joel Ward, ENG, D, 1.88, 83, 29-10-89, Emsworth, Portsmouth
+3, Patrick van Aanholt, NED, D, 1.75, 67, 29-08-90, 's-Hertogenbosch, Sunderland
+4, Mathieu Flamini, FRA, M, 1.78, 67, 07-03-84, Marseille, Arsenal
+5, James Tomkins, ENG, D, 1.92, 74, 29-03-89, Basildon, West Ham U
+6, Scott Dann, ENG, D, 1.95, 78, 14-02-87, Liverpool, Blackburn R
+7, Yohan Cabaye, FRA, M, 1.74, 71, 14-01-86, Tourcoing, Paris St-Germain
+8, Loïc Rémy, FRA, F, 1.84, 66, 02-01-87, Lyon, Chelsea
+9, Fraizer Campbell, ENG, F, 1.72, 83, 13-09-87, Huddersfield, Cardiff C
+10, Andros Townsend, ENG, M, 1.81, 77, 16-07-91, Whipps Cross, Newcastle U
+11, Wilfried Zaha, CIV, M, 1.80, 66, 10-11-92, Abidjan, Manchester U
+12, Mamadou Sakho, FRA, D, 1.87, 80, 13-02-90, Paris, Liverpool
+13, Wayne Hennessey, WAL, G, 1.97, 89, 24-01-87, Bangor, Wolverhampton W
+14, Lee Chung-Yong, KOR, M, 1.80, 69, 02-07-88, Seoul, Bolton W
+15, Jonathan Benteke, BEL, F, 1.86, 77, 28-04-95, Liège, Zulte-Waregem
+16, Joe Ledley, WAL, M, 1.83, 73, 23-01-87, Cardiff, Celtic
+17, Christian Benteke, BEL, F, 1.90, 83, 03-12-90, Kinshasa, Liverpool
+18, James McArthur, SCO, M, 1.78, 64, 07-10-87, Glasgow, Wigan Ath
+19, Ezekiel Fryers, ENG, D, 1.83, 75, 09-09-92, Manchester, Tottenham H
+21, Connor Wickham, ENG, F, 1.89, 90, 31-03-93, Hereford, Sunderland
+23, Pape N'Diaye Souaré, SEN, D, 1.78, 68, 06-06-90, Mbao, Lille
+25, Sullay Kaikai, ENG, F, 1.82, 73, 26-08-95, Southwark, None
+26, Bakary Sako, MLI, M, 1.84, 90, 24-04-88, Ivry-sur-Seine, Wolverhampton W
+27, Damien Delaney, IRL, D, 1.91, 89, 29-07-81, Cork, Ipswich T
+28, Luka Milivojević, SRB, M, 1.83, 75, 07-04-91, Kragujevac, Olympiakos
+30, Steve Mandanda, FRA, G, 1.85, 82, 28-03-85, Kinshasa, Marseille
+31, Jeffrey Schlupp, GHA, M, 1.78, 72, 23-12-92, Hamburg, Leicester C
+34, Martin Kelly, ENG, D, 1.91, 77, 27-04-90, Bolton, Liverpool
+35, Luke Dreher, ENG, M, 1.83, 76, 27-11-98, Epsom, None
+40, Kleton Perntreou, GRE, G, 1.88, 74, 08-01-95, Tirana, Hibernian
+42, Jason Puncheon, ENG, M, 1.73, 71, 26-06-86, Croydon, Southampton
+44, Ben Wynter, ENG, D, 1.85, 76, 11-12-97, Denmark Hill, None
+45, Michael Phillips, ENG, M, 1.74, 76, 22-09-97, Lewisham, None
+46, Aaron Wan-Bissaka, ENG, M, 1.83, 72, 26-11-97, Croydon, None
+47, Andre Coker, ENG, F, 1.84, 81, 15-11-97, Lewisham, None
+49, Nya Kirby, ENG, M, 1.73, 66, 31-01-00, Islington, Tottenham H
+50, Matt Funnell, ENG, G, , , 22-10-99, Maidstone, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Everton
+15, Mile Jedinak, AUS, M, 1.89, 88, 03-08-84, Sydney, Aston Villa
+17, Andros Townsend, ENG, M, 1.83, 76, 16-07-91, Whipps Cross, Re-Registered (10)
+20, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, Ipswich T (On Loan)
+33, Luke Croll, ENG, D, 1.85, 76, 10-01-95, Lambeth, Exeter C (On Loan)
+38, Hiram Boateng, ENG, M, 1.87, 80, 08-01-96, Wandsworth, Northampton T (On Loan)
+36, Freddie Ladapo, NGA, F, 1.83, 79, 01-02-93, Romford, Shrewsbury T (On Loan)
+24, Keshi Anderson, ENG, F, 1.75, 68, 06-04-95, Luton, Northampton T (On Loan)
+22, Jordon Mutch, ENG, M, 1.75, 65, 02-12-91, Birmingham, Reading (On Loan)
+43, Noor Husin, AFG, M, 1.77, 65, 03-03-97, Mazar-i-Sharif, Accrington Stanley (On Loan)
+32, Kwesi Appiah, GHA, F, 1.81, 80, 12-08-90, Peterborough, Viking (On Loan)

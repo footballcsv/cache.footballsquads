@@ -1,0 +1,53 @@
+=  Lecco - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Riccardo Melgrati, ITA, G, 1.88, 80, 17-06-94, Monza, Pontedera
+2, Vedran Celjak, CRO, D, 1.87, 77, 13-08-91, Zabok, Avellino
+4, Zinedin Smajlović, SWE, D, 1.91, 90, 20-12-03, Stockholm, Lecce
+5, Duccio Degli Innocenti, ITA, M, 1.80, 80, 28-04-03, Montevarchi, Empoli
+6, Alessandro Bianconi, ITA, D, 1.93, 83, 20-01-99, Bentivoglio, Ancona
+7, Gabriel Lunetta, ITA, F, 1.86, 80, 10-08-96, Milan, Südtirol
+8, Alessandro Sersanti, ITA, M, 1.82, 78, 16-02-02, Grosseto, Juventus
+10, Eddie Salcedo, ITA, F, 1.78, 70, 01-10-01, Genoa, Internazionale
+11, Henri Salomaa, FIN, F, 1.84, 71, 14-02-03, -, Lecce
+12, Luca Bonadeo, ITA, G, 1.91, -, 21-04-03, Lecco, None
+13, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, Cagliari
+14, Vittorio Parigini, ITA, M, 1.80, 75, 25-03-96, Moncalieri, Feralpisalò
+17, Alessandro Caporale, IRA, D, 1.90, 84, 28-10-95, Lecce, Virtus Francavilla
+21, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Empoli
+22, Umberto Saracco, ITA, G, 1.90, 83, 10-04-94, Moncalieri, Audace Cerignola
+23, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Monza
+26, Marco Frigerio, ITA, M, 1.71, 60, 16-07-01, Carate Brianza, Foggia
+27, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Pisa
+28, Corentin Louakima, FRA, D, 1.76, 62, 28-02-03, Carrières-sous-Poissy, Roma
+29, Marcin Listkowski, POL, F, 1.78, 68, 29-03-95, Rypin, Lecce
+32, Franco Lepore, ITA, D, 1.78, 71, 16-08-85, Lecce, Pergolettese
+33, Angelo Agostino, ITA, G, -, -, 16-05-06, -, None
+44, Davide Guglielmotti, ITA, M, 1.84, 71, 24-03-94, Novara, Reggiana
+45, Roberto Inglese, ITA, F, 1.86, 85, 12-11-91, Lucera, Parma
+68, Mario Ierardi, ITA, D, 1.95, 90, 19-02-98, Magenta, Vicenza
+81, Giacomo Beretta, ITA, F, 1.85, 80, 14-03-92, Varese, Foggia
+83, Mats Lemmens, BEL, D, 1.86, 79, 10-03-02, Genk, Lecce
+90, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Venezia
+96, Giorgio Galli, ITA, M, 1.82, 77, 11-02-96, Como, Monza
+97, Filippo Cecchini, ITA, G, -, -, 01-01-06, Milan, Internazionale
+99, Nicolò Buso, ITA, F, 1.77, 69, 01-02-00, Treviso, Sestri Levante
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Luca Scapuzzi, ITA, F, 1.82, 75, 15-04-91, Milan, Folgore Caratese
+11, Mattia Tordini, ITA, F, 1.71, 72, 22-06-02, Novara, Padova (On Loan)
+23, Eyob Zambataro, ETH, M, 1.77, 65, 18-08-98, Addis Ababa, Torres
+68, Brayan Boci, ITA, D, 1.83, 74, 24-07-03, San Giovanni Valdarno, Genoa
+77, Doudou Mangni, ITA, F, 1.80, 79, 20-03-93, Rome, Alessandria (On Loan)
+20, Francesco Donati, ITA, D, 1.82, 75, 20-01-01, Livorno, Empoli
+18, Lorenzo Pinzauti, ITA, F, 1.81, 77, 09-09-94, Fiesole, Renate (On Loan)
+80, Vittorio Agostinelli, ITA, M, 1.83, 64, 21-02-02, Monopoli, Fiorentina
+16, Joshua Tenkorang, ITA, M, 1.84, 68, 26-05-00, Novara, Cremonese
+7, Luca Giudici, ITA, M, 1.79, 67, 10-03-92, Erba, Feralpisalò
+9, Umberto Eusepi, ITA, F, 1.82, 78, 08-01-89, Rome, Monterosi Tuscia
+13, Matteo Battistini, ITA, D, 1.87, 80, 18-02-94, Como, Crotone (On Loan)
+25, Domingo Dalmasso, ARG, G, 1.98, 85, 27-04-00, Río Cuarto, Monopoli (On Loan)
+34, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Cremonese (On Loan)
+73, Lorenzo Di Stefano, ITA, F, 1.82, 75, 19-09-02, Catania, Modena

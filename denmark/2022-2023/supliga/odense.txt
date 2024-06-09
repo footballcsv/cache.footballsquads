@@ -1,0 +1,44 @@
+=  Odense - Danish Superliga 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Hansen, DEN, G, 1.88, 80, 15-06-90, Glostrup, Hannover 96
+2, Nicholas Mickelson, NOR, D, 1.85, 80, 24-07-99, Hamar, Strømsgodset
+3, Omar Jebali, TUN, D, -, -, 19-02-00, -, ES Zarzis
+4, Bjørn Paulsen, DEN, D, 1.90, 81, 02-07-91, Augustenborg, Hammarby IF
+5, Alasana Manneh, GAM, M, 1.70, 61, 08-04-98, Banjul, Górnik Zabrze
+6, Jeppe Tverskov, DEN, D, 1.85, 84, 12-03-93, Copenhagen, Randers
+7, Naatan Skyttä, FIN, M, 1.70, 69, 07-05-02, Ylöjärvi, Toulouse
+8, Jakob Breum, DEN, F, 1.78, 68, 17-11-03, Odense, Næsby
+9, Bashkim Kadrii, DEN, F, 1.76, 71, 09-07-91, Copenhagen, Al-Fateh
+10, Franco Tongya, ITA, M, 1.80, 70, 13-03-02, Turin, Marseille
+11, Emmanuel Sabbi, USA, M, 1.75, 70, 24-12-97, Vicenza, Hobro
+13, Hans Christian Bernat, DEN, G, 1.92, 88, 13-11-00, -, FC Nordsjælland
+14, Gustav Grubbe, DEN, D, 1.81, 74, 27-01-03, Odense, RB Leipzig
+16, Jørgen Skjelvik, NOR, D, 1.80, 80, 05-07-91, Hosle, LA Galaxy
+17, Kenneth Zohore, DEN, F, 1.94, 95, 31-01-94, Copenhagen, WBA
+18, Musa Juwara, GAM, M, 1.70, 65, 26-12-01, Tujereng, Bologna
+19, Aron Elís Þrándarson, ISL, M, 1.83, 73, 10-11-94, Reykjavík, Aalesund
+21, Charly Horneman, DEN, F, -, -, 21-03-04, -, Næsby
+22, Mihajlo Ivančević, SRB, D, 1.87, 80, 07-04-99, Bačka Topola, Spartak Subotica
+23, Aske Adelgaard, DEN, D, -, -, 10-11-03, -, Randers
+24, Alen Mustafić, BIH, M, 1.85, 78, 05-07-99, Tuzla, Slovan Bratislava
+26, Agon Muçolli, ALB, M, 1.72, 65, 26-09-98, Fredericia, Kristiansund
+27, Magnus Nielsen, DEN, G, -, -, 04-08-04, -, None
+28, Tobias Slotsager, DEN, D, -, -, 01-01-06, Morud, None
+29, Mads Frøkjær-Jensen, DEN, M, 1.86, 79, 29-07-99, Copenhagen, None
+30, Yankuba Minteh, GAM, F, 1.80, 65, 22-07-04, Serrekunda, Steve Biko FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Mandé Sayouba, CIV, G, 1.93, 82, 15-06-93, Abidjan, Helsingør (On Loan)
+5, Kasper Larsen, DEN, D, 1.90, 80, 25-01-93, Odense, MOL Fehérvár
+24, Robin Østrøm, DEN, D, 1.88, 80, 09-08-02, Copenhagen, Silkeborg
+10, Sander Svendsen, NOR, F, 1.72, 65, 06-08-97, Molde, Viking
+17, Luca Kjerrumgaard, DEN, F, -, -, 09-02-03, Odense, Nykøbing (On Loan)
+18, Kanté Kefing, GUI, F, -, -, 13-04-04, -, Hafia
+24, Armin Gigović, SWE, M, 1.87, 81, 06-04-02, Lund, FC Rostov
+7, Issam Jebali, TUN, F, 1.86, 84, 25-12-91, Majaz al Bab, Gamba Osaka
+20, Ayo Simon Okosun, DEN, M, 1.97, 85, 21-07-93, Copenhagen, Vendsyssel
+25, Joel King, AUS, D, 1.79, 78, 30-10-00, Wollongong, Sydney FC (On Loan)
+15, Max Fenger, DEN, F, 1.82, 66, 07-08-01, Roskilde, Mjällby AIF (On Loan)

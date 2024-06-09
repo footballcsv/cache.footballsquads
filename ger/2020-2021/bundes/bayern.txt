@@ -1,0 +1,52 @@
+=  Bayern Munich - German Bundesliga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Neuer, GER, G, 1.92, 90, 27-03-86, Gelsenkirchen, Schalke
+4, Niklas Süle, GER, D, 1.94, 91, 03-09-95, Frankfurt am Main, 1899 Hoffenheim
+5, Benjamin Pavard, FRA, D, 1.82, 67, 28-03-96, Maubeuge, Stuttgart
+6, Joshua Kimmich, GER, M, 1.76, 68, 08-02-95, Rottweil, Stuttgart
+7, Serge Gnabry, GER, M, 1.73, 73, 14-07-95, Stuttgart, Werder Bremen
+8, Javi Martínez, ESP, M, 1.90, 81, 02-09-88, Lizarra, Athletic Bilbao
+9, Robert Lewandowski, POL, F, 1.81, 79, 21-08-88, Warsaw, Borussia Dortmund
+10, Leroy Sané, GER, F, 1.83, 75, 11-01-96, Essen, Manchester C
+13, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Paris St-Germain
+15, Jann-Fiete Arp, GER, F, 1.84, 78, 06-01-00, Bad Segeberg, Hamburg
+17, Jérôme Boateng, GER, D, 1.92, 90, 03-09-88, Berlin, Manchester C
+18, Leon Goretzka, GER, M, 1.89, 76, 06-02-95, Bochum, Schalke
+19, Alphonso Davies, CAN, D, 1.83, 75, 02-11-00, Buduburam, Vancouver Whitecaps
+20, Bouna Sarr, FRA, D, 1.77, 65, 31-01-92, Lyon, Marseille
+21, Lucas Hernández, FRA, D, 1.84, 76, 14-02-96, Marseille, Atlético Madrid
+22, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Espanyol
+23, Tanguy Nianzou, FRA, D, 1.87, 83, 07-06-02, Paris, Paris St-Germain
+24, Corentin Tolisso, FRA, M, 1.65, 54, 03-08-94, Tarare, Lyon
+25, Thomas Müller, GER, F, 1.86, 74, 13-09-89, Weilheim in Oberbayern, None
+26, Rémy Vita, FRA, D, 1.70, 66, 01-04-01, Alençon, Troyes
+27, David Alaba, AUT, D, 1.75, 70, 24-06-92, Vienna, Austria Vienna (A)
+28, Tiago Dantas, POR, M, 1.70, 58, 24-12-00, Lisbon, Benfica
+29, Kingsley Coman, FRA, M, 1.78, 71, 13-06-96, Paris, Juventus
+30, Dimitri Oberlin, SUI, F, 1.82, 74, 27-09-97, Yaoundé, Basel
+32, Christopher Scott, GER, M, 1.74, 71, 07-06-02, Cologne, Bayer Leverkusen
+34, Lukas Schneller, GER, G, 1.88, 80, 26-10-01, Munich, None
+35, Alexander Nübel, GER, G, 1.93, 84, 30-09-96, Paderborn, Schalke
+36, Angelo Stiller, GER, M, 1.83, 73, 04-04-01, Munich, None
+37, Kilian Senkbeil, GER, D, 1.83, 76, 22-05-99, Leipzig, RB Leipzig
+38, Daniels Ontužāns, LVA, M, 1.73, 70, 07-03-00, Vangaži, Augsburg
+39, Ron Thorben Hoffmann, GER, G, 1.92, 84, 04-04-99, Rostock, RB Leipzig
+40, Malik Tillman, GER, F, 1.86, 71, 28-05-02, Nuremburg, None
+42, Jamal Musiala, GER, M, 1.81, 65, 26-02-03, Stuttgart, Chelsea
+43, Bright Arrey-Mbi, GER, D, 1.87, 80, 26-03-03, Kaarst, Chelsea
+44, Josip Stanišić, GER, D, 1.86, 77, 02-04-00, Munich, None
+47, Armindo Sieb, GER, F, 1.75, 70, 17-02-03, Halle (Saale), 1899 Hoffenheim
+48, Alexander Lungwitz, GER, D, 1.75, 71, 04-08-00, Munich, Greuther Fürth
+49, Maximilian Zaiser, GER, M, 1.76, 68, 08-03-99, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Sven Ulreich, GER, G, 1.92, 84, 03-08-88, Schorndorf, Hamburg
+11, Mickaël Cuisance, FRA, M, 1.81, 74, 16-08-99, Strasbourg, Marseille (On Loan)
+30, Adrian Fein, GER, M, 1.86, 86, 18-03-99, Munich, PSV Eindhoven (On Loan)
+45, Leon Dajaku, GER, M, 1.80, 72, 12-04-01, Waibingen, Union Berlin (On Loan)
+14, Joshua Zirkzee, NED, F, 1.93, 84, 22-05-01, Schiedam, Parma (On Loan)
+41, Chris Richards, USA, D, 1.88, 86, 28-03-00, Birmingham, AL, 1899 Hoffenheim (On Loan)
+11, Douglas Costa, BRA, F, 1.72, 70, 14-09-90, Sapucaia do Sul, Juventus

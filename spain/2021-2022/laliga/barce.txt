@@ -1,0 +1,57 @@
+=  Barcelona - Spanish LaLiga 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.87, 85, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, Sergiño Dest, USA, D, 1.70, 62, 03-11-00, Almere, Ajax
+3, Gerard Piqué, ESP, D, 1.94, 85, 02-02-87, Barcelona, Manchester U
+4, Ronald Araújo, URU, D, 1.91, 91, 07-03-99, Rivera, Boston River
+5, Sergio Busquets, ESP, M, 1.89, 76, 16-07-88, Sabadell, Barcelona B
+6, Riqui Puig, ESP, M, 1.69, 56, 13-08-99, Matadepera, Barcelona B
+7, Ousmane Dembélé, FRA, F, 1.78, 67, 15-05-97, Vernon, Borussia Dortmund
+8, Dani Alves, BRA, D, 1.72, 68, 06-05-83, Juazeiro, São Paulo
+9, Memphis Depay, NED, F, 1.70, 65, 13-02-94, Moordrecht, Lyon
+10, Ansu Fati, ESP, F, 1.78, 55, 31-10-02, Bissau, Barcelona B
+11, Adama Traoré, ESP, F, 1.78, 76, 25-01-96, L'Hospitalet de Llobregat, Wolverhampton W
+12, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Leganés
+13, Neto, BRA, G, 1.90, 84, 19-07-89, Araxá, Valencia
+14, Nico González, ESP, M, 1.88, 86, 03-01-02, La Coruña, Barcelona B
+15, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Sevilla
+16, Pedri, ESP, M, 1.77, 68, 25-11-02, Tegueste, Las Palmas B
+17, Luuk de Jong, NED, F, 1.88, 80, 27-08-90, Aigle, Sevilla
+18, Jordi Alba, ESP, D, 1.70, 68, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Ferrán Torres, ESP, F, 1.84, 77, 29-02-00, Foios, Manchester C
+20, Sergi Roberto, ESP, D, 1.78, 68, 07-02-92, Reus, Barcelona B
+21, Frenkie de Jong, NED, M, 1.79, 69, 12-05-97, Arkel, Ajax
+22, Óscar Mingueza, ESP, D, 1.84, 75, 13-05-99, Santa Perpètua de Mogoda, Barcelona B
+23, Samuel Umtiti, FRA, D, 1.82, 75, 14-11-93, Yaoundé, Lyon
+24, Eric García, ESP, D, 1.82, 79, 09-01-01, Barcelona, Manchester C
+25, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Arsenal
+27, Lazar Carević, MNE, G, 1.95, 85, 16-03-99, Cetinje, OFK Grbalj
+29, Ferran Jutglà, ESP, M, 1.75, 77, 01-02-99, Sant Julià de Vilatorta, Espanyol B
+30, Gavi, ESP, M, 1.73, 68, 05-08-04, Los Palacios y Villafranca, Barcelona B
+31, Alejandro Balde, ESP, D, 1.75, 69, 18-10-03, Barcelona, Barcelona B
+33, Abde Ezzalzouli, MAR, F, 1.77, 73, 17-12-01, Beni Mellal, Hércules
+34, Álvaro Sanz, ESP, D, 1.71, 67, 14-02-01, Caspe, Barcelona B
+35, Arnau Comas, ESP, D, 1.90, 78, 11-04-00, Cassà de la Selva, Barcelona B
+36, Arnau Tenas, ESP, G, 1.85, 75, 30-05-01, Vic, Barcelona B
+37, Ilias Akhomach, ESP, F, 1.75, 70, 16-04-04, Els Hostalets de Pierola, Barcelona B
+38, Guillem Jaime, ESP, D, 1.77, 70, 06-01-99, Torreforta, Castellón
+39, Estanis Pedrola, ESP, F, 1.85, 78, 24-08-03, Cambrils, Reus
+40, Lucas de Vega, BRA, M, 1.78, 73, 16-01-00, Fortaleza, Barcelona B
+41, Mika Màrmol, ESP, D, 1.81, 70, 01-07-01, Terrassa, Barcelona B
+42, Ander Astralaga, ESP, G, 1.90, 80, 03-03-04, Berango, Barcelona B
+43, Jandro Orellana, ESP, M, 1.78, 63, 07-08-00, Gavà, Barcelona B
+44, Antonio Aranda, ESP, M, 1.75, 62, 07-10-00, Huétor Vega, Granada B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Antoine Griezmann, FRA, F, 1.75, 71, 21-03-91, Mâcon, Atlético Madrid (On Loan)
+17, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Spezia (On Loan)
+22, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Tottenham H
+8, Miralem Pjanić, BIH, M, 1.78, 72, 02-04-90, Tuzla, Beşiktaş (On Loan)
+19, Sergio Agüero, ARG, F, 1.73, 70, 02-06-88, Capital Federal, Retired
+14, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Aston Villa (On Loan)
+11, Yusuf Demir, AUT, F, 1.78, 67, 02-06-03, Vienna, Rapid Vienna
+28, Nico González, ESP, M, 1.88, 86, 03-01-02, La Coruña, Re-Registered (14)
+26, Iñaki Peña, ESP, G, 1.84, 78, 02-03-99, Alicante, Galatasaray (On Loan)

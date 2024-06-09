@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2022/2023
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [SV Darmstadt 98](darmstadt.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hansa Rostock](rostock.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [Holstein Kiel](holskiel.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Magdeburg](magdeburg.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)

@@ -1,0 +1,40 @@
+=  Sabadell - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ian Mackay, ESP, G, 1.81, 80, 14-07-86, La Coruña, Murcia
+2, Stoichkov, ESP, F, 1.78, 71, 05-11-93, San Roque, Mallorca
+3, Josu Ozkoidi, ESP, D, 1.69, 61, 23-04-90, San Sebastián, Real Unión
+4, Aleix Coch, ESP, D, 1.85, 80, 23-06-91, Tarragona, Badalona
+5, Jaime Sánchez, ESP, D, 1.83, 75, 11-03-95, Chiclana de la Frontera, Valladolid B
+6, Ángel Martínez, ESP, M, 1.76, 76, 31-01-86, Girona, Chesterfield
+7, Heber Pena, ESP, F, 1.76, 68, 16-01-90, Ferrol, Badajoz
+8, Adri Cuevas, ESP, M, 1.82, 70, 10-01-90, Jerez de la Frontera, Ebro
+9, Juan Hernández, ESP, F, 1.77, 71, 06-12-94, Lorca, Celta Vigo
+10, Edgar Hernández, ESP, F, 1.87, 81, 02-02-87, Gavà, Reus
+11, Néstor Querol, ESP, F, 1.84, 78, 21-09-87, Castelló de la Plana, Badalona
+12, Óscar Rubio, ESP, D, 1.72, 70, 14-05-84, Lleida, Lleida
+13, Diego Fuoli, ESP, G, 1.88, 79, 20-10-97, Zaragoza, Villarreal B
+14, Antonio Romero, ESP, M, 1.72, 64, 12-10-95, Seville, Mirandés
+15, Juan Ibiza, ESP, D, 1.87, 78, 17-08-95, Ibiza, Almería
+16, Xavi Boniquet, ESP, M, 1.73, 68, 29-05-90, Terrassa, Badalona
+17, Víctor García, ESP, M, 1.75, 70, 16-09-97, Valencia, Valladolid B
+18, Pedro Capó, ESP, D, 1.88, 80, 11-12-90, Mahón, Leioa
+19, Gorka Guruzeta, ESP, F, 1.88, 73, 12-09-96, San Sebastián, Athletic Bilbao B
+20, Grego, ESP, D, 1.84, 74, 05-03-93, Murcia, UCAM Murcia
+21, Aarón Rey, ESP, M, 1.73, 69, 19-05-98, Ferrol, Celta Vigo B
+22, Pierre Cornud, FRA, D, 1.77, 67, 12-12-96, Avignon, Mallorca
+23, Iker Undabarrena, ESP, M, 1.80, 75, 18-05-95, Gorliz, Tenerife
+24, Álvaro Vázquez, ESP, F, 1.82, 78, 27-04-91, Barcelona, Sporting Gijón
+26, David Astals, ESP, D, -, -, 13-12-01, Sabadell, Sabadell B
+27, Gabriel Gausachs, ESP, M, -, -, -, -, Sabadell B
+28, Chadi Riad, MAR, D, 1.86, 78, 17-06-03, Palma de Mallorca, Sabadell B
+29, Albert Luque, ESP, M, -, -, -, -, Sabadell B
+31, Froilán Leal, ESP, G, 1.82, 73, 12-02-01, Terrassa, Sabadell B
+32, Pere Pons, ESP, M, -, -, 26-05-02, -, Sabadell B
+33, Alberto Salamanca, ESP, M, -, -, 12-07-02, -, Sabadell B
+36, Marc Vargas, ESP, D, -, -, 17-05-02, -, Sabadell B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jesús Olmo, ESP, D, 1.78, 75, 24-01-85, Barcelona, 

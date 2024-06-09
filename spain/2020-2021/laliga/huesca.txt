@@ -1,0 +1,43 @@
+=  Huesca - Spanish LaLiga 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Álvaro Fernández, ESP, G, 1.85, 75, 13-04-98, Arnedo, Monaco
+2, Idrissa Doumbia, CIV, M, 1.84, 75, 14-04-98, Yamoussoukro, Sporting CP
+3, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Stuttgart
+4, Pablo Insua, ESP, D, 1.86, 75, 09-09-93, Arzua, Schalke
+5, Pedro Mosquera, ESP, M, 1.84, 75, 21-04-88, La Coruña, Deportivo La Coruña
+6, Sandro Ramírez, ESP, F, 1.72, 60, 09-07-95, Las Palmas, Everton
+7, David Ferreiro, ESP, M, 1.70, 63, 01-04-88, Ourense, Lugo
+8, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Valencia B
+9, Rafa Mir, ESP, F, 1.86, 75, 18-06-97, Murcia, Wolverhampton W
+10, Sergio Gómez, ESP, M, 1.71, 65, 04-09-00, Badalona, Borussia Dortmund
+11, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Córdoba
+12, Shinji Okazaki, JPN, F, 1.74, 70, 16-04-86, Hyogo, Málaga
+13, Andrés Fernández, ESP, G, 1.85, 82, 17-12-86, Murcia, Villarreal
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Javi Ontiveros, ESP, M, 1.70, 72, 09-09-97, Marbella, Villarreal
+16, Luisinho, POR, D, 1.71, 66, 05-05-85, Porto, Deportivo La Coruña
+17, Mikel Rico, ESP, M, 1.78, 73, 04-11-84, Basauri, Athletic Bilbao
+18, Dimitris Siovas, GRE, D, 1.92, 83, 16-09-88, Drama, Leganés
+19, Pedro López, ESP, D, 1.74, 72, 01-01-83, Valencia, Levante
+20, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Real Madrid B
+21, Juan Carlos, ESP, M, 1.75, 72, 15-03-91, La Coruña, Almería
+22, Gastón Silva, URU, D, 1.83, 74, 05-03-94, Salto, Independiente
+23, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Lugo
+24, Borja, ESP, M, 1.75, 72, 02-11-90, Torremocha de Jarama, Girona
+25, Denis Vavro, SVK, D, 1.89, 81, 10-04-96, Partizánske, Lazio
+27, Kevin Carlos, ESP, F, 1.86, 98, 10-04-01, Ceuta, Almudévar
+28, Manu Galán, ESP, D, 1.82, 73, 06-06-98, Sevilla, Azuaga
+29, Jorge Cofrades, ESP, D, -, -, -, -, Huesca B
+30, Antonio Valera, ESP, G, 1.87, 80, 17-08-96, Bujalance, Almudévar
+31, Gustavo Abizanda, ESP, F, -, -, 01-05-00, -, Huesca B
+40, Javier Gasca, ESP, G, -, -, 24-02-00, Huesca, Huesca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Aleksandar Jovanović, SRB, G, 1.91, 86, 06-12-92, Niš, Apollon Limassol
+28, Juan Sebastián Peñaloza, COL, F, 1.72, 65, 03-05-00, Quibdó, Racing Ferrol (On Loan)
+6, Joaquín Muñoz, ESP, M, 1.73, 60, 10-03-99, Málaga, Málaga (On Loan)
+26, Kelechi Nwakali, NGA, M, 1.81, 74, 05-06-98, Owerri, Alcorcón (On Loan)
+25, Andrés Fernández, ESP, G, 1.85, 82, 17-12-86, Murcia, Re-Registered (13)

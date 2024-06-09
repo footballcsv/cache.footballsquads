@@ -1,0 +1,40 @@
+=  Famalicão - Portuguese Primeira Liga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Zlobin, RUS, G, 1.91, 84, 07-03-97, Tyumen, Benfica
+4, Enea Mihaj, ALB, D, 1.83, 72, 05-07-98, Agrinio, PAOK
+6, Tom Lacoux, FRA, M, 1.75, 65, 25-01-02, Bordeaux, Bordeaux
+7, José Luis Rodríguez, PAN, M, 1.78, 70, 19-06-98, Ciudad de Panamá, Alavés B
+8, Mirko Topić, SRB, M, 1.90, 76, 05-02-01, Novi Sad, Vojvodina
+9, Henrique Araújo, POR, F, 1.82, 75, 19-01-02, Funchal, Benfica
+10, Chiquinho, POR, F, 1.79, 72, 05-02-00, Cascais, Wolverhampton W
+11, Óscar Aranda, ESP, M, 1.81, 75, 29-04-02, Granada, Real Madrid B
+12, Gustavo Assunçao, BRA, M, 1.78, 66, 30-03-00, São Paulo, Atlético Madrid B
+15, Riccieli, BRA, D, 1.84, 79, 17-09-98, Resende, Mirassol
+16, Justin de Haas, NED, D, 1.94, 80, 01-02-00, Zaandam, Lokomotiva Zagreb
+18, Otso Liimatta, FIN, M, 1.69, 74, 10-07-04, Oulo, AC Oulu
+19, Filipe Soares, POR, M, 1.80, 72, 20-05-99, Lisbon, PAOK
+20, Gustavo Sá, POR, M, 1.86, 80, 11-11-04, Póvoa de Varzim, None
+21, Florian Danho, FRA, F, 1.88, 92, 21-06-00, Toulouse, Stade Lausanne Ouchy
+22, Nathan, BRA, D, 1.83, 77, 05-09-01, Rio de Janeiro, Santos
+23, Alex Dobre, ROU, M, 1.78, 71, 30-08-98, Bucharest, Dijon
+28, Zaydou Youssouf, FRA, M, 1.82, 81, 11-07-99, Bordeaux, St-Etienne
+29, Jhonder Cádiz, VEN, F, 1.91, 83, 29-07-95, Caracas, Benfica
+31, Luiz Júnior, BRA, G, 1.94, 92, 14-01-01, Picos, Mirassol
+32, Martín Aguirregabiria, ESP, D, 1.78, 69, 10-05-96, Vitoria-Gasteiz, Alavés
+36, Ian Custódio, BRA, D, 1.77, 82, 16-04-03, São Paulo, Palmeiras
+51, Zé Henrique, BRA, G, 1.99, 86, 23-10-04, Paraguaçu Paulista, Palmeiras
+70, Martim Almeida, POR, M, 1.82, 72, 19-03-05, Fátima, None
+74, Francisco Moura, POR, D, 1.82, 76, 16-04-99, Braga, Sporting Braga
+77, Sorriso, BRA, F, 1.76, 62, 23-02-01, Natal, Red Bull Bragantino
+90, Hugo Cunha, POR, G, 1.98, 91, 06-09-01, Viana do Castelo, Sporting CP
+95, Théo Fonseca, POR, F, 1.78, 75, 11-06-00, Ermonit, Felgueiras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Iván Jaime, ESP, M, 1.77, 68, 26-09-00, Málaga, FC Porto
+77, Pablo, BRA, F, 1.84, 76, 02-01-04, Braga, Paços de Ferreira (On Loan)
+17, Afonso Rodrigues, POR, F, 1.78, 70, 19-08-02, Braga, Paços de Ferreira (On Loan)
+5, Rúben Lima, POR, D, 1.76, 72, 03-10-89, Lisbon, Estrela da Amadora
+13, Otávio, BRA, D, 1.84, 79, 21-04-02, São Paulo, FC Porto

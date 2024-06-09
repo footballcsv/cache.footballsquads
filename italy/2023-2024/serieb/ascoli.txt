@@ -1,0 +1,57 @@
+=  Ascoli - Italian Serie B 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Emiliano Viviano, ITA, G, 1.95, 90, 01-12-85, Fiesole, Fatih Karagümrük
+3, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Ternana
+5, Riccardo Gagliolo, SWE, D, 1.80, 75, 28-04-90, Imperia, AEK Larnaca
+6, Erdis Kraja, ALB, M, 1.81, 78, 07-07-00, Chiari, Atalanta
+7, Karim Zedadka, ITA, D, 1.82, 67, 09-06-00, Pertuis, Swift Hesperange
+8, Samuel Giovane, ITA, M, 1.81, 73, 28-03-03, Lugo, Atalanta
+10, Fabrizio Caligara, ITA, M, 1.80, 74, 12-04-00, Borgomanero, Cagliari
+11, Jeremiah Streng, FIN, F, 1.88, 86, 08-11-01, Vaasa, SJK Seinäjoki
+12, Luca Bolletta, ITA, G, 1.90, 82, 26-11-04, Jesi, None
+13, Raffaele Celia, ITA, D, 1.80, 70, 04-03-99, Catanzaro, SPAL
+14, Danilo Quaranta, ITA, D, 1.92, 85, 23-03-97, Teramo, None
+15, Simone D'Uffizi, ITA, F, 1.75, 68, 15-09-04, Rome, Viterbese
+16, Sauli Väisänen, FIN, D, 1.90, 75, 05-06-94, Helsinki, Odense
+17, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Sassuolo
+18, Francesco Di Tacchio, ITA, M, 1.85, 81, 20-04-90, Trani, Ternana
+19, Jacopo Tarantino, ITA, F, 1.71, 63, 15-02-05, Rome, Roma
+20, Tommaso Milanese, ITA, M, 1.72, 61, 31-07-02, Galatina, Cremonese
+21, Lorenzo Cosimi, ITA, D, 1.77, 73, 21-06-04, -, Tor Sapienza
+22, Giulio Mengucci, ITA, G, 1.95, 85, 03-06-05, Rome, Roma
+23, Marcello Falzerano, ITA, M, 1.67, 62, 12-04-91, Pagani, Perugia
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Ternana
+29, Dávid Ďuriš, SVK, F, 1.86, 74, 22-03-99, Žilina, MŠK Žilina
+30, Ilija Nestorovski, MKD, F, 1.82, 76, 12-03-90, Prilep, Udinese
+32, Devis Vásquez, COL, G, 1.95, 93, 12-05-98, Barranquilla, Milan
+33, Eric Fernando Botteghin, BRA, D, 1.93, 89, 31-08-87, São Paulo, Feyenoord
+40, Brian Bayeye, COD, M, 1.82, 70, 30-06-00, Paris, Torino
+41, Luca Valzania, ITA, M, 1.82, 72, 05-03-96, Cesena, Cremonese
+44, Aljaž Tavčar, SVN, D, 1.94, 86, 17-11-00, Ljubljana, Bilje
+54, Nicola Falasco, ITA, D, 1.84, 84, 05-10-93, Piove di Sacco, Pordenone
+55, Giuseppe Bellusci, ITA, D, 1.85, 80, 21-08-89, Trebisacce, Monza
+73, Patrizio Masini, ITA, M, 1.80, 70, 27-01-01, La Spezia, Genoa
+90, Pedro Mendes, POR, F, 1.86, 84, 01-08-99, Guimarães, Sporting CP
+92, Andrea Caucci, ITA, D, 1.90, -, -, -, None
+93, Augusto Bando, ITA, M, -, -, 24-10-06, -, None
+94, Yehiya Maiga Silvestri, ITA, M, 1.78, 74, 22-05-05, San Benedetto del Tronto, Sambenedettese
+95, Luigi Sciammarella, ITA, G, 1.85, -, 22-02-06, -, Reggina
+96, Emiliano Rossi, ITA, D, 1.86, 83, 20-07-04, -, Vigor Perconti
+97, Danilo Amato, ITA, G, 1.85, 78, 09-09-05, -, Sambenedettese
+98, Francesco Cozzoli, ITA, D, 1.80, 76, 09-07-04, -, Lodigiani
+99, Pablo Rodríguez, ESP, F, 1.78, 66, 04-08-01, Las Palmas, Lecce
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Lorenco Šimić, CRO, D, 1.95, 89, 15-07-96, Split, Maccabi Haifa
+9, Federico Dionisi, ITA, F, 1.80, 68, 16-06-87, Rieti, Ternana
+11, Francesco Forte, ITA, F, 1.90, 75, 01-05-93, Rome, Cosenza (On Loan)
+27, Mirko Eramo, ITA, M, 1.84, 75, 12-07-89, Acquaviva delle Fonti, 
+77, Marcel Büchel, LIE, M, 1.75, 71, 18-03-91, Feldkirch, SPAL
+7, Vincenzo Millico, ITA, F, 1.73, 68, 12-08-00, Turin, Foggia
+5, Eddy Gnahoré, FRA, M, 1.88, 88, 14-11-93, Villeneuve-la-Garenne, Dinamo București
+3, Kevin Haveri, ALB, D, 1.91, 86, 18-09-01, Shkodër, Torino
+28, Giacomo Manzari, ITA, F, 1.78, 72, 21-09-00, Bari, Sassuolo
+1, Davide Barosi, ITA, G, 1.85, 77, 30-03-00, Asola, Audace Cerignola (On Loan)

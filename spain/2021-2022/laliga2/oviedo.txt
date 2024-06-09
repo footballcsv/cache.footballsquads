@@ -1,0 +1,42 @@
+=  Oviedo - Spanish LaLiga2 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joan Femenías, ESP, G, 1.89, 79, 19-08-96, Manacor, Fuenlabrada
+2, Hugo Rama, ESP, M, 1.77, 75, 22-11-96, Santiago de Compostela, Lugo
+3, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Leganés
+4, David Costas, ESP, D, 1.82, 73, 26-03-95, Vigo, Celta Vigo
+5, Luismi, ESP, M, 1.80, 76, 05-05-92, Jerez de la Frontera, Elche
+6, Javi Mier, ESP, M, 1.76, 65, 04-02-99, Oviedo, Oviedo B
+7, Viti, ESP, M, 1.70, 64, 16-09-97, Pola de Laviana, Oviedo B
+8, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Alcorcón
+9, Borja González, ESP, F, 1.86, 83, 25-08-92, Madrid, Leganés
+10, Borja Sánchez, ESP, M, 1.86, 80, 26-02-96, Oviedo, Real Madrid B
+11, Erik Jirka, SVK, M, 1.82, 73, 19-09-97, Trnava, Crvena Zvezda
+12, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Elche
+13, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Albacete
+14, Jimmy, ESP, M, 1.70, 70, 31-12-96, Oviedo, Oviedo B
+15, Gastón Brugman, URU, M, 1.78, 75, 07-09-92, Rosario, Parma
+16, Samuel Obeng, GHA, F, 1.83, 74, 15-05-97, Nsapor, Calahorra
+17, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo Vallecano
+18, Christian, ESP, D, 1.82, 77, 15-10-85, Santander, Las Palmas
+19, Matheus Aiás, BRA, F, 1.75, 72, 30-12-96, Palmares Paulista, Orlando C
+20, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Cádiz
+21, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Alavés
+22, Pierre Cornud, FRA, D, 1.77, 67, 12-12-96, Avignon, Sabadell
+23, Mossa, ESP, D, 1.78, 66, 24-01-89, Valencia, Nàstic
+24, Lucas Ahijado, ESP, D, 1.78, 75, 30-01-95, Oviedo, Oviedo B
+27, Álex Cardero, ESP, M, -, -, 25-08-03, Oviedo, Oviedo B
+28, Javi Moreno, ESP, D, -, -, 16-05-00, Oviedo, Oviedo B
+29, Javi Cueto, ESP, M, 1.70, 65, 11-01-01, Gijón, Oviedo B
+30, Guille Bernabéu, ESP, M, 1.80, 75, 13-01-01, Orihuela, Málaga B
+31, Yayo, ESP, M, -, -, 30-07-04, -, Oviedo B
+32, René Pérez, ESP, M, -, -, 19-10-00, Villaviciosa, Lealtad
+33, Joselu Guerra, ESP, M, 1.73, 66, 27-06-00, Avilés, Oviedo B
+36, Mario Fuente, ESP, F, -, -, 19-06-04, -, Oviedo B
+37, Miguel Ángel Prendes, ESP, M, -, -, 28-06-01, Candás, Deportivo La Coruña B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Lausanne-Sport
+3, Alejandro Arribas, ESP, D, 1.82, 75, 01-05-89, Madrid, Juárez

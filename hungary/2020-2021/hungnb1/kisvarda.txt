@@ -1,0 +1,39 @@
+=  Kisvárda - Hungarian Nemzeti Bajnokság I 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mihai Mincă, ROU, G, 1.96, 96, 08-10-84, Alba Iulia, FC Voluntari
+3, Lazar Zličić, SRB, M, 1.82, 74, 07-01-97, Novi Sad, Voždovac
+4, Anton Kravchenko, UKR, D, 1.89, 79, 23-03-91, Dnipropetrovsk, Olimpik Donetsk
+5, Lazar Ćirković, SRB, D, 1.92, 85, 22-08-92, Niš, Maccabi Netanya
+6, Bence Ötvös, HUN, M, 1.82, 77, 13-03-98, Nyíregyháza, Nyíregyháza
+7, Sassá, BRA, F, 1.77, 73, 26-01-88, Rio de Janeiro, Portuguesa
+8, Yanis Karabelyov, BUL, M, 1.83, 75, 23-01-96, Sofia, Slavia Sofia
+9, Zoltán Horváth, HUN, F, 1.85, 82, 30-07-89, Kisvárda, Győr
+10, Claudiu Bumba, ROU, M, 1.75, 67, 05-01-94, Baia Mare, Adanaspor
+11, Lucas Marcolini, BRA, M, 1.76, 70, 06-05-89, Cornélio Procópio, Bodva Moldava nad Bodvou
+12, Artem Odyntsov, UKR, G, 1.95, 80, 09-11-00, Khartsyzk, None
+14, Cornel Ene, ROU, D, 1.87, 79, 21-07-93, Satu Mare, Daco-Getica București
+18, Bohdan Melnyk, UKR, D, 1.76, 68, 04-01-97, -, Vorskla Poltava
+19, Fernando Viana, BRA, F, 1.77, 75, 20-02-92, Brasília, Botev Plovdiv
+20, Jaroslav Navrátil, CZE, F, 1.85, 77, 30-12-91, Hustopeče, Go Ahead Eagles
+21, András Gosztonyi, HUN, F, 1.78, 68, 07-11-90, Kaposvár, Śląsk Wrocław
+23, Márk Kovácsréti, HUN, F, 1.86, 72, 01-09-00, Budapest, Ferencváros
+25, Matheus Leoni, BRA, D, 1.75, 70, 20-09-91, Porto Velho, Arda Kardzhali
+30, Viktor Hey, UKR, M, 1.68, 67, 02-02-96, Nizhny Koropets, Hoverla Uzhhorod
+32, Dávid Dombó, HUN, G, 1.84, 79, 26-02-93, Pápa, Mezőkövesd
+33, Tamás Rubus, HUN, D, 1.86, 82, 13-07-89, Békéscsaba, Nyíregyháza
+34, Richárd Jelena, HUN, F, 1.88, 88, 08-01-98, Pécs, Kozármisleny
+39, Herdi Prenga, ALB, D, 1.90, 80, 31-08-94, Zadar, Riga FC
+45, Slobodan Simović, SRB, M, 1.90, 80, 22-05-89, Čačak, BATE
+70, Levente Szőr, HUN, M, 1.82, 74, 14-01-01, Kisvárda, None
+77, Driton Camaj, MNE, F, 1.82, 73, 07-03-97, Podgorica, Iskra Danilovgrad
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Stavros Tsoukalas, GRE, M, 1.85, 75, 23-05-88, Thessaloniki, Nea Salamis
+26, Csaba Lakatos, HUN, D, 1.85, 79, 12-07-98, Budapest, Kaposvár
+91, Roman Karasyuk, UKR, M, 1.84, 74, 27-03-91, Volodymyr-Volynskyy, Rukh Lviv
+22, Ádám Baranyai, HUN, D, 1.82, 72, 05-03-93, Budapest, Csákvár
+27, Niko Datković, CRO, D, 1.90, 86, 21-04-93, Rijeka, Admira Wacker Mödling
+50, Tonći Kukoč, CRO, M, 1.89, 83, 25-09-90, Split, Opatija

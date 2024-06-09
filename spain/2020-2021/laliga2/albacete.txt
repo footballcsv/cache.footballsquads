@@ -1,0 +1,43 @@
+=  Albacete - Spanish LaLiga2 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernabé, ESP, G, 1.89, 76, 18-02-93, Los Palacios, Nàstic
+2, Álvaro Arroyo, ESP, D, 1.80, 71, 22-07-88, Madrid, Getafe
+3, Fran García, ESP, D, 1.77, 74, 07-12-92, Villarreal, Fuenlabrada
+4, Nicolás Gorosito, ARG, D, 1.86, 79, 17-08-88, Rafaela, Getafe
+5, Daniel Torres, COL, M, 1.83, 80, 15-11-89, Caquezá, Zaragoza
+6, Alberto Benito, ESP, D, 1.78, 68, 13-06-92, Tarragona, Zaragoza
+8, Manu Fuster, ESP, F, 1.69, 65, 22-10-97, Valencia, Guijuelo
+10, Roman Zozulya, UKR, F, 1.75, 62, 17-11-89, Kyiv, Betis
+11, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Getafe
+12, Tana, ESP, M, 1.69, 73, 20-09-90, Las Palmas, Las Palmas
+13, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Mallorca
+14, Diego Caballo, ESP, D, 1.70, 66, 17-02-94, Salamanca, Extremadura
+16, Pape Maly Diamanka, SEN, M, 1.84, 76, 10-01-90, Dakar, Girona
+18, Javi Jiménez, ESP, D, 1.82, 74, 11-03-97, Aldaia, Valencia B
+19, Alfredo Ortuño, ESP, F, 1.83, 80, 21-01-91, Tecla, Real Salt Lake
+20, Eddy, AZE, M, 1.91, 84, 02-08-92, Roquetas de Mar, Alcorcón
+21, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Alcorcón
+23, Ivan Kecojević, MNE, D, 1.84, 77, 10-04-88, Bar, Cádiz
+24, Jean Jules, CMR, M, 1.85, 78, 23-04-98, Yaoundé, Rayo Vallecano B
+26, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Alavés
+27, Cedric Teguia, ESP, F, 1.80, 75, 01-10-01, Douala, Atlético Madrid B
+29, Diego Vargas, ESP, F, 1.82, 70, 08-07-98, Huelva, Salamanca B
+32, Samu, ESP, D, -, -, -, -, Albacete B
+33, Ismael de Andrés, ESP, G, -, -, 15-02-98, Madrid, Las Rozas
+34, Javier Verdú, ESP, F, 1.77, 68, 18-03-99, L'Alqueria d'Asnar, El Eijdo
+35, Emiliano Gómez, URU, F, 1.77, 80, 18-09-01, Rivera, Boston River
+37, Flavien Boyomo, FRA, D, 1.80, 76, 07-10-01, Toulouse, Blackburn R
+38, Jesús Parada, ESP, M, 1.78, 60, 04-04-99, Sanlúcar De Barrameda, Rota
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Pedro, ESP, M, 1.78, 72, 12-12-86, Aspe, Hércules (On Loan)
+27, Miguel Ángel, ESP, F, -, -, 15-05-98, Casas-Ibáñez, Getafe B (On Loan)
+15, Javi Navarro, ESP, M, -, -, 01-01-97, Barcelona, Cádiz B
+5, David Del Pozo, ESP, M, 1.78, 72, 05-06-97, Getafe, Las Rozas (On Loan)
+9, Liberto Beltrán, ESP, M, 1.71, 66, 26-12-96, Castellón de la Plana, UCAM Murcia (On Loan)
+7, Nahuel Arroyo, ESP, M, 1.71, 66, 26-03-95, Santa Cristina d'Aro, Córdoba
+17, Karim Azamoum, FRA, M, 1.78, 74, 17-01-90, Rognac, Troyes
+22, Chema, ESP, M, 1.74, 64, 16-09-97, La Puebla del Río, Betis B (On Loan)
