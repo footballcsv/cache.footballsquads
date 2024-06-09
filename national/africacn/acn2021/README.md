@@ -1,0 +1,23 @@
+# Africa Cup of Nations 2021
+
+20 teams
+- [Burkina Faso](burkina.txt)
+- [Cameroon](cameroon.txt)
+- [Cape Verde](capeverde.txt)
+- [Ethiopia](ethiopia.txt)
+- [Guinea](guinea.txt)
+- [Malawi](malawi.txt)
+- [Senegal](senegal.txt)
+- [Comoros](comoros.txt)
+- [Gabon](gabon.txt)
+- [Ghana](ghana.txt)
+- [Morocco](morocco.txt)
+- [Egypt](egypt.txt)
+- [Guinea-Bissau](guinbiss.txt)
+- [Nigeria](nigeria.txt)
+- [Algeria](algeria.txt)
+- [Côte D'Ivoire](cotediv.txt)
+- [Equatorial Guinea](equatgui.txt)
+- [Gambia](gambia.txt)
+- [Mali](mali.txt)
+- [Tunisia](tunisia.txt)
