@@ -1,0 +1,34 @@
+=  Los Angeles FC - USA Major League Soccer 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Tottenham H
+2, Omar Campos, MEX, D, 1.74, 62, 20-07-02, Cuauhtémoc, Santos Laguna
+3, Jesús Murillo, COL, D, 1.83, 72, 18-02-94, Cali, Independiente Medellín
+4, Eddie Segura, COL, D, 1.78, 70, 02-02-97, Pereira, Atlético Huila
+6, Ilie Sánchez, ESP, M, 1.80, 77, 21-11-90, Barcelona, Sporting Kansas City
+11, Timothy Tillman, GER, M, 1.82, 78, 04-01-99, Nuremberg, Greuther Fürth
+13, Cristian Olivera, URU, F, 1.70, 64, 17-04-02, Montevideo, Almería
+14, Sergi Palencia, ESP, D, 1.72, 66, 23-03-96, Badalona, St-Etienne
+15, Lorenzo Dellavalle, ITA, D, 1.89, 80, 04-04-04, Carmagnola, Juventus
+18, Erik Dueñas, USA, D, 1.63, 54, 18-10-04, Los Angeles, None
+19, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Leeds U
+20, Eduard Atuesta, COL, M, 1.80, 71, 18-06-97, Vélez, Palmeiras
+21, Tomás Ángel, COL, F, 1.74, 67, 20-02-03, Birmingham, Atlético Nacional
+22, Abraham Romero, MEX, G, 1.88, 87, 18-02-98, Pasadena, Las Vegas Lights
+23, Kei Kamara, SLE, F, 1.88, 75, 01-09-84, Lawndale, Chicago Fire
+24, Ryan Hollingshead, USA, M, 1.86, 82, 16-04-91, Sacramento, FC Dallas
+25, Maxime Chanot, FRA, D, 1.84, 78, 21-11-89, Nancy, Ajaccio
+27, Nathan Ordaz, SLV, F, 1.80, 73, 12-01-04, San Fernando Valley, None
+30, David Martínez, VEN, F, 1.78, 68, 07-02-06, El Tigre, Monagas
+31, David Ochoa, USA, G, 1.88, 79, 16-01-01, Oxnard, Atlético San Luis
+33, Aaron Long, USA, D, 1.85, 78, 12-10-92, Oak Hills, New York Red Bulls
+36, Tommy Musto, USA, M, -, -, 10-11-03, Makawao, Univ of Portland
+42, Luca Bombino, USA, D, -, -, 10-07-06, -, None
+43, Diego Rosales, USA, D, 1.80, 72, 01-11-05, South Gate, None
+91, Luis Müller, GER, F, 1.87, 83, 12-02-01, Cottbus, Cal Baptist Univ
+99, Denis Bouanga, GAB, F, 1.80, 71, 11-11-94, Paris, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Abraham Romero, MEX, G, 1.88, 87, 18-02-98, Pasadena, Re-Registered (22)

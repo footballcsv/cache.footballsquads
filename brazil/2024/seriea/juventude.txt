@@ -1,0 +1,45 @@
+=  Juventude - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Coritiba
+2, João Lucas, BRA, D, 1.81, 72, 09-03-98, Belo Horizonte, Santos
+3, Zé Marcos, BRA, D, 1.87, 74, 01-02-98, Americana, Criciúma
+4, Danilo Boza, BRA, D, 1.84, 76, 06-05-98, Rondonópolis, Mirassol
+5, Luís Oyama, BRA, M, 1.71, 69, 30-01-97, São José do Rio Preto, Botafogo
+7, Erick Farias, BRA, F, 1.74, 79, 03-01-97, Pelotas, Ypiranga
+8, Thiaguinho, BRA, M, 1.80, 66, 11-04-97, Suzano, Água Santa
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Cruzeiro
+10, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Vasco da Gama
+11, Marcelinho, BRA, F, 1.65, 63, 11-12-02, Anicuns, Tombense
+12, Gabriel Inocêncio, BRA, D, 1.75, 68, 20-08-94, São Paulo, Água Santa
+14, Ewerthon, BRA, D, 1.71, 69, 10-11-00, Jaraguá, Sport Recife
+15, Mateus Schaffer, BRA, D, 1.85, 76, 14-04-07, Novo Hamburgo, None
+16, Jádson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Cruzeiro
+17, Edson Carioca, BRA, F, 1.79, 83, 04-06-97, Japeri, Azuriz
+19, Gabriel Taliari, BRA, F, 1.77, 66, 13-04-97, Mococa, Capivariano
+20, Jean Carlos, BRA, M, 1.77, 74, 15-02-92, Cornélio Procópio, Ceará
+21, Lucas Barbosa, BRA, M, 1.93, 85, 22-02-01, Bebedouro, Santos
+22, João Vitor, BRA, D, 1.74, 70, 25-07-02, Goiânia, São Luiz
+23, Abner, BRA, D, 1.89, 75, 19-04-04, Rio de Janeiro, None
+26, Pará, BRA, M, 1.80, 76, 18-02-02, Marituba, None
+28, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Londrina
+29, Ruan, BRA, F, 1.72, 70, 03-05-05, Caxias do Sul, None
+33, Renan, BRA, G, 1.89, 87, 18-05-89, Rio de Janeiro, Sport Recife
+34, Rodrigo Sam, BRA, D, 1.85, 74, 24-07-95, Marília, Mirassol
+35, Pinna, BRA, F, 1.83, 76, 04-09-07, Campinas, None
+36, Da Rocha, BRA, D, 1.83, 78, 13-12-04, Caxias do Sul, None
+37, Rildo, BRA, M, 1.78, 73, 21-01-00, Rondonópolis, Santa Clara
+43, Lucas Freitas, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, Palmeiras
+44, Mandaca, BRA, M, 1.78, 79, 02-10-01, João Pessoa, Corinthians
+45, Werik Popó, BRA, F, 1.90, 86, 17-10-01, São Paulo, Red Bull Bragantino
+53, Romércio, BRA, D, 1.85, 78, 25-02-97, Santa Maria da Boa Vista, São Bernardo
+75, Kleiton, BRA, F, 1.82, 76, 23-04-99, Ipatinga, Athletico Paranaense
+77, Mateus Claus, BRA, G, 1.93, 95, 03-08-94, Campo Bom, Bahia
+92, Mário, BRA, G, 1.93, 78, 13-06-05, Rondonópolis, None
+95, Caíque, BRA, M, 1.78, 72, 10-10-95, Guarulhos, Ceará
+99, Lucas Wingert, BRA, G, 2.00, 96, 04-05-99, Rolante, Portuguesa-SP
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Kelvi, BRA, M, 1.82, 66, 17-10-02, Ilópolis, Concórdia (On Loan)

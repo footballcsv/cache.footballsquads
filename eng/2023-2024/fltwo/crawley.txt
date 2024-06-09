@@ -1,0 +1,42 @@
+=  Crawley Town - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, Esbjerg
+2, Kellan Gordon, ENG, D, 1.83, 67, 25-12-97, Burton upon Trent, Mansfield T
+3, Dion Conroy, ENG, D, 1.88, 73, 11-12-95, Redhill, Swindon T
+4, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, Rochdale
+5, Harry Ransom, ENG, D, 1.82, 70, 01-10-99, Uckfield, Millwall
+6, Laurence Maguire, ENG, D, 1.78, 70, 08-02-97, Sheffield, Chesterfield
+7, Ben Gladwin, ENG, M, 1.90, 86, 08-06-92, Reading, Swindon T
+8, Klaidi Lolos, GRE, F, 1.88, 78, 06-10-00, Athens, Oxford C
+9, Danilo Orsi-Dadomo, ENG, F, 1.88, 73, 19-04-96, Camden, Grimsby T
+10, Ronan Darcy, ENG, F, 1.77, 60, 04-11-00, Ormskirk, Swindon T
+11, Jack Roles, CYP, M, 1.76, 66, 26-02-99, Enfield, Woking
+12, Mustapha Olagunju, ENG, D, 1.86, 70, 01-01-02, Plumstead, Huddersfield T
+13, Ryan Sandford, ENG, G, 1.88, 75, 21-02-99, Lambeth, Dartford
+14, Harry Forster, ENG, M, 1.76, 71, 11-05-00, Hillingdon, Bromley
+16, Tobi Omole, ENG, D, 1.89, 74, 17-12-99, Lewisham, Tottenham H
+17, Jedidiah Brown, ENG, F, -, -, 02-12-98, Hackney, Fisher
+18, Jayden Davis, ENG, M, 1.78, 73, 19-11-01, Croydon, Millwall
+19, Jeremy Kelly, USA, D, 1.75, 66, 21-10-97, Prague, FC Tulsa
+20, Joy Mukena, COD, D, 1.88, 70, 03-07-99, Enfield, St Albans C
+21, Roshan Greensall, ENG, G, 1.88, 86, 09-08-03, Bangkok, WBA
+22, Ade Adeyemo, ENG, F, -, -, 01-07-02, -, Cray Valley Paper Mills
+23, Travis Johnson, ENG, D, 1.75, 64, 28-08-00, Stoke-on-Trent, Crewe Alex
+25, Nicholas Tsaroulla, CYP, D, 1.78, 70, 29-03-99, Bristol, Brentford
+26, Jay Williams, ENG, D, 1.87, 74, 04-10-00, Northampton, Brackley T
+27, Rafiq Khaleel, MAR, M, 1.77, 64, 24-02-03, Camden, None
+28, Adam Campbell, ENG, F, 1.70, 73, 01-01-95, North Shields, Gateshead
+29, Florian Kastrati, ENG, M, 1.80, 73, 07-07-02, -, None
+30, Will Wright, ENG, D, 1.90, 83, 12-06-97, Luton, Gillingham
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Joel Lynch, WAL, D, 1.85, 81, 03-10-87, Eastbourne, 
+19, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Barrow
+42, Anthony Grant, JAM, M, 1.78, 71, 04-06-87, Lambeth, Welling U
+12, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, Charlton Ath
+13, Luca Ashby-Hammond, ENG, G, 1.84, 75, 25-03-01, Kingston upon Thames, Fulham
+24, Kamarai Simon-Swyer, ENG, M, 1.83, 66, 04-12-02, Redbridge, West Ham U
+15, Sonny Fish, WAL, F, 1.87, 70, 09-01-04, Southend-on-Sea, Gateshead (On Loan)

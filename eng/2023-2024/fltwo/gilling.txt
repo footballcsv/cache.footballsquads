@@ -1,0 +1,43 @@
+=  Gillingham - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Glenn Morris, ENG, G, 1.83, 70, 20-12-83, Woolwich, Crawley T
+3, Max Clark, ENG, D, 1.80, 73, 19-01-96, Kingston upon Hull, Stevenage
+4, Conor Masterson, IRL, D, 1.85, 81, 08-09-98, Dublin, QPR
+5, Max Ehmer, GER, D, 1.88, 70, 03-02-92, Frankfurt am Main, Bristol R
+6, Shaun Williams, IRL, M, 1.76, 75, 19-10-86, Dublin, Portsmouth
+7, George Lapslie, ENG, M, 1.80, 74, 05-09-97, Waltham Forest, Mansfield T
+8, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, Swindon T
+9, Josh Andrews, ENG, F, -, -, 16-10-01, Solihull, Birmingham C
+10, Ashley Nadesan, ENG, F, 1.88, 75, 09-09-94, Redhill, Crawley T
+11, Dominic Jefferies, WAL, M, 1.79, 78, 22-05-02, Newport, Brentford
+12, Oliver Hawkins, ENG, F, 1.88, 70, 08-04-92, Ealing, Mansfield T
+13, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Millwall
+14, Robbie McKenzie, ENG, D, 1.84, 74, 25-09-98, Kingston upon Hull, Hull C
+17, Jayden Clarke, ENG, M, 1.75, 70, 08-05-01, Islington, Dulwich Hamlet
+18, Ethan Coleman, ENG, M, 1.88, 83, 28-01-00, Reading, Leyton Orient
+19, Jorge Hurtado, COL, F, 1.85, 76, 06-09-03, Tumaco, Watford
+22, Shadrach Ogie, IRL, D, 1.83, 73, 26-08-01, Limerick, Leyton Orient
+23, Connor Mahoney, ENG, M, 1.75, 67, 12-02-97, Blackburn, Huddersfield T
+24, Remeao Hutton, ENG, D, 1.75, 72, 28-09-98, Walsall, Swindon T
+25, Jake Turner, ENG, G, 1.94, 82, 25-02-99, Wilmslow, Newcastle U
+26, Ike Orji, ENG, D, -, -, -, -, Chatham T
+29, Joseph Gbode, ENG, M, -, -, 08-04-05, Southwark, None
+30, Matty MacArthur, AUS, M, -, -, 24-09-04, -, None
+31, Ronald Sithole, ENG, F, -, -, -, -, None
+32, Josh Chambers, ENG, M, -, -, 13-11-03, -, None
+33, Taite Holtam, ENG, G, -, -, 14-02-05, -, Dover Ath
+34, Sam Gale, ENG, M, -, -, 01-10-04, -, None
+35, Alex Giles, ENG, D, -, -, 29-01-05, -, None
+36, Kieron Agbebi, ENG, M, -, -, 05-07-05, -, Dover Ath
+38, Timothée Dieng, FRA, M, 1.89, 77, 09-04-92, Grenoble, Exeter C
+41, Stanley Skipper, ENG, M, -, -, 29-09-05, Havering, Arsenal
+47, Josh Walker, ENG, F, 1.76, 71, 28-12-97, Tower Hamlets, Burton Alb
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Lewis Walker, ENG, F, 1.83, 76, 10-05-98, Nottingham, Woking
+2, Cheye Alexander, LCA, D, 1.73, 68, 06-01-95, Newham, 
+9, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, Mansfield T
+45, Macauley Bonne, ZIM, F, 1.80, 76, 26-10-95, Ipswich, Cambridge U (On Loan)

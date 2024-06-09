@@ -1,0 +1,38 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, Atlético Mineiro
+5, Aníbal Moreno, ARG, M, 1.77, 72, 13-05-99, San Fernando del Valle, Racing Club
+6, Vanderlan, BRA, D, 1.83, 74, 07-09-02, Brumado, None
+7, Dudu, BRA, F, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+8, Zé Rafael, BRA, M, 1.75, 71, 16-06-93, Ponta Grossa, Bahia
+9, Endrick, BRA, F, 1.73, 80, 21-07-06, Brasília, None
+10, Rony, BRA, F, 1.70, 65, 11-05-95, Magalhães Barata, Athletico Paranaense
+11, Bruno Rodrigues, BRA, F, 1.77, 73, 07-03-97, Ceará-Mirim, Tombense
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Internacional
+15, Gustavo Gómez, PAR, D, 1.86, 85, 06-06-93, Misiones, Milan
+16, Caio Paulista, BRA, D, 1.84, 78, 11-05-98, São Paulo, Fluminense
+17, Lázaro, BRA, M, 1.81, 72, 12-03-02, Belo Horizonte, Almería
+20, Rômulo, BRA, M, 1.77, 70, 07-10-01, Pirassununga, Novorizontino
+21, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Atlético Paranaense
+22, Joaquín Piquerez, URU, D, 1.83, 75, 24-08-98, Montevideo, Peñarol
+23, Raphael Veiga, BRA, M, 1.76, 73, 19-06-95, São Paulo, Coritiba
+24, Mateus Oliveira, BRA, G, 1.99, 89, 02-05-02, Cajazeiras, None
+25, Gabriel Menino, BRA, M, 1.76, 78, 29-09-00, Morungaba, None
+26, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Lokomotiv Moscow
+27, Richard Rios, COL, M, 1.85, 77, 02-06-00, Vegachí, Guarani
+31, Luis Guilherme, BRA, M, 1.75, 65, 09-02-06, Aracaju, None
+32, Gustavo Garcia, BRA, D, 1.75, 68, 04-01-02, São Paulo, None
+34, Kaiky Naves, BRA, D, 1.80, 78, 08-05-02, Santos, None
+35, Fabinho, BRA, M, 1.78, 75, 09-04-02, Natal, None
+40, Jhon Jhon, BRA, M, 1.77, 73, 09-09-02, Vitória, Primavera
+41, Estêvão, BRA, F, 1.76, 62, 24-04-07, Franca, Cruzeiro
+42, José Manuel López, ARG, F, 1.90, 74, 06-12-00, San Lorenzo, Lanús
+51, Kaique, BRA, G, 1.90, 87, 16-04-03, São Paulo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Breno Lopes, BRA, F, 1.78, 71, 24-01-96, Belo Horizonte, Fortaleza (On Loan)

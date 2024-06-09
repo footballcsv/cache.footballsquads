@@ -1,0 +1,46 @@
+=  Morecambe - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Blackpool
+2, Donald Love, SCO, D, 1.78, 72, 02-12-94, Rochdale, Salford C
+3, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, Gillingham
+4, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Burnley
+5, Farrend Rawson, ENG, D, 1.85, 73, 11-07-96, Nottingham, Mansfield T
+6, Yann Songo'o, CMR, D, 1.84, 77, 17-11-91, Yaoundé, Bradford C
+7, Brandon Barker, ENG, F, 1.75, 68, 04-10-96, Manchester, Omonia Nicosia
+8, Joe Adams, ENG, M, -, -, 03-06-04, Guernsey, Wigan Ath
+9, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, Barrow
+10, JJ McKiernan, NIR, M, 1.84, 75, 18-01-02, Southampton, Watford
+11, Julian Larsson, SWE, F, -, -, 21-04-01, -, Nottingham F
+12, Joel Senior, ENG, D, 1.81, 70, 24-06-99, Manchester, Carlisle U
+14, Jordan Slew, ENG, F, 1.90, 81, 07-09-92, Sheffield, FC Halifax T
+15, Chris Stokes, ENG, D, 1.85, 83, 08-03-91, Trowbridge, Kilmarnock
+16, Jacob Davenport, ENG, M, 1.77, 69, 28-12-98, Manchester, Stockport Co
+17, Cammy Smith, SCO, M, 1.75, 68, 24-08-95, Aberdeen, Partick Thistle
+18, Jake Taylor, ENG, M, 1.78, 77, 07-09-98, Manchester, Port Vale
+19, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, Wigan Ath
+20, Charlie Brown, ENG, F, 1.83, 78, 23-09-99, Ipswich, Cheltenham T
+21, Adam Smith, ENG, G, 1.80, 76, 23-01-92, Sunderland, Stevenage
+22, Kayden Harrack, ENG, D, 1.85, 76, 05-11-03, Ealing, QPR
+23, Max Melbourne, ENG, D, 1.78, 65, 24-10-98, Solihull, Lincoln C
+24, Cameron Rooney, ENG, M, -, -, -, -, None
+25, Lennon Dobson, ENG, M, -, -, -, -, None
+26, George Pedley, ENG, G, -, -, -, -, Preston NE
+27, Nathan Mercer, ENG, M, -, -, -, -, None
+28, Oscar Threlkeld, ENG, D, 1.84, 78, 15-02-94, Bolton, Bradford C
+29, Andy Evans, ENG, D, -, -, -, -, None
+30, Archie Mair, SCO, G, 1.98, 86, 10-02-01, Turriff, Norwich C
+33, Saul Fox, ENG, F, -, -, -, -, None
+38, Nelson Khumbeni, ENG, M, -, -, 14-10-02, -, Bolton W
+39, Jordy Hiwula, ENG, F, 1.78, 66, 21-09-94, Manchester, Ross Co
+40, Adam Fairclough, ENG, M, -, -, 03-05-07, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Ethan Walker, ENG, F, 1.84, 69, 28-07-02, Preston, Blackburn R
+22, James Connolly, WAL, D, 1.85, 84, 02-11-01, Liverpool, Bristol R
+8, Eli King, WAL, M, -, -, 23-12-02, -, Cardiff C
+9, Michael Mellon, SCO, F, 1.85, 77, 05-12-03, Blackpool, Burnley
+7, Tom Bloxham, ENG, F, 1.95, 82, 02-11-03, Leicester, Shrewsbury T
+11, Adam Mayor, ENG, F, 1.78, 70, 10-04-04, Liverpool, Millwall

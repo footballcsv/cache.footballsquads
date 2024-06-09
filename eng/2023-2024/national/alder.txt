@@ -1,0 +1,45 @@
+=  Aldershot Town - English National League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jordi van Stappershoef, NED, G, 2.00, 78, 10-03-96, Amsterdam, AFC Amsterdam
+2, Haji Mnoga, TAN, D, 1.85, 78, 16-04-02, Portsmouth, Portsmouth
+3, Ollie Harfield, ENG, D, 1.78, 78, 09-01-98, Southampton, Weymouth
+4, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, Swindon T
+5, Coby Rowe, ENG, D, 1.92, 85, 02-10-95, Waltham Forest, Sutton U
+6, Theo Widdrington, ENG, M, 1.78, 76, 06-04-99, Southampton, King's Lynn T
+7, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Gillingham
+8, Tyler Frost, ENG, M, 1.75, 70, 07-07-99, Reading, Harrogate T
+9, Lorent Tolaj, SUI, F, -, -, 23-10-01, Aigle, Brighton & HA
+10, Josh Stokes, ENG, M, -, -, 29-04-04, -, Bristol C
+11, Ryan Glover, ENG, M, 1.77, 72, 09-11-00, Yeovil, Bournemouth
+12, Keane Anderson, ENG, M, -, -, -, -, None
+13, Ashley Akpan, POL, D, 1.75, 69, 06-02-04, Warsaw, Wisła Kraków
+14, Ollie Bray, ENG, F, -, -, -, -, Willand R
+15, Zain Walker, ENG, M, 1.73, 58, 08-01-02, Wandsworth, King's Lynn T
+16, Alex MacAllister, ENG, F, -, -, 15-08-03, -, None
+17, Aaron Jones, ENG, D, 1.75, 73, 12-03-94, Great Yarmouth, King's Lynn T
+18, Olly Scott, ENG, D, -, -, 22-10-00, Chester-le-Street, King's Lynn T
+19, Christian Maghoma, COD, D, 1.85, 70, 08-11-97, Lubumbashi, Eastleigh
+20, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, King's Lynn T
+21, Ethan Burnett, ENG, M, 1.79, 70, 21-02-02, Portsmouth, Reading
+22, Jack Barham, ENG, F, -, -, 09-02-96, Southend-on-Sea, Maidstone U
+23, Hady Ghandour, LIB, F, 1.89, 78, 27-01-00, Westminster, Maidstone U
+24, Maxwell Mullins, ENG, D, -, -, -, -, None
+26, James Daly, ENG, F, 1.78, 73, 12-01-00, Brighton, Harrogate T
+27, Tommy Willard, ENG, F, -, -, 01-09-00, -, Barnsley
+28, Dylan Kadji, ENG, M, -, -, 01-09-03, Bedford, Bristol C
+31, Ollie Turner, ENG, M, 1.77, 70, 14-10-03, Welwyn Garden City, Tottenham H
+34, Dejan Tetek, SRB, M, 1.81, 65, 24-09-02, Oxford, Reading
+37, Jasper Sheik, ENG, G, 1.82, 75, 27-02-05, Haywards Heath, None
+38, Finlay Westen, ENG, G, -, -, -, -, None
+39, Kwame Thomas, ENG, F, 1.78, 76, 28-09-95, Nottingham, Sutton U
+, Jonathon Page, ENG, M, -, -, 06-09-01, Chertsey, Fulham
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Jack Bycroft, ENG, G, 1.84, 71, 21-09-01, Salisbury, Southampton
+35, Max Dyche, ENG, D, -, -, 22-02-03, Northampton, Northampton T
+14, Henry Ochieng, KEN, M, 1.79, 67, 11-11-98, Redbridge, Chelmsford C
+20, Joe Haigh, ENG, M, -, -, 16-03-03, Tooting, 
+25, Rollin Menayese, WAL, D, 1.90, 80, 04-12-97, Cwmbran, Walsall

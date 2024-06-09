@@ -1,0 +1,38 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Wesley, BRA, D, 1.77, 66, 13-03-00, Retirolândia, Juventus
+3, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Ankaragücü
+5, José Ivaldo, BRA, D, 1.85, 78, 21-02-97, Maceió, Athletico Paranaense
+6, Kaiki, BRA, D, 1.72, 69, 08-03-03, Betim, None
+7, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Corinthians
+8, Rafael Silva, BRA, F, 1.76, 71, 04-04-92, São Paulo, Jeonbuk Hyundai Motors
+9, Juan Dinenno, ARG, F, 1.86, 82, 28-08-94, Rosario, UNAM
+10, Matheus Pereira, BRA, F, 1.75, 67, 05-05-96, Belo Horizonte, Al-Hilal [KSA]
+11, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Sporting CP
+12, William, BRA, D, 1.76, 68, 03-04-95, Pelotas, Wolfsburg
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Grêmio
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Corinthians
+18, José Cifuentes, ECU, M, 1.73, 71, 12-03-99, Esmeraldas, Rangers
+19, Rafael Papagaio, BRA, F, 1.82, 80, 12-04-99, São Paulo, Palmeiras
+21, Álvaro Barreal, ARG, M, 1.72, 66, 17-08-00, Capital Federal, FC Cincinnati
+22, Vitinho, BRA, M, 1.73, 67, 18-02-04, Campinas, Ponte Preta
+23, Filipe Machado, BRA, M, 1.74, 61, 20-01-96, Santa Maria, Grêmio
+25, Lucas Villalba, ARG, D, 1.77, 68, 19-08-94, Florencio Varela, Argentinos Juniors
+27, Neris, BRA, D, 1.90, 88, 17-06-92, Tucuruí, Al-Wasl
+28, Helibelton Palacios, COL, D, 1.77, 75, 11-06-93, Santander de Quilichao, Elche
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, León
+30, Gabriel Veron, BRA, F, 1.74, 75, 03-09-02, Assu, FC Porto
+31, Rafael Bilu, BRA, F, 1.74, 72, 21-04-99, São Paulo, Criciúma
+35, Pedrão, BRA, D, 1.90, 88, 06-01-04, Barra Mansa, None
+41, Léo Aragão, BRA, G, 1.92, 82, 19-04-02, Americana, Red Bull Bragantino
+43, João Marcelo, BRA, D, 1.89, 82, 13-06-00, Rio de Janeiro, FC Porto
+55, João Pedro, BRA, F, 1.78, 70, 02-02-03, Paracambi, Valladolid B
+77, Japa, BRA, M, -, -, 02-01-04, -, None
+80, Robert, BRA, F, 1.74, 70, 13-04-05, Pirapora, None
+98, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, Athletico Paranaense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Rafael Cabral, BRA, G, 1.86, 83, 20-05-90, Sorocaba, Grêmio (On Loan)

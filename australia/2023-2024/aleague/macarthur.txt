@@ -1,0 +1,40 @@
+=  Macarthur FC - Australian A-League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danijel Nižić, AUS, G, 1.88, 77, 15-03-95, Sydney, Sydney U
+2, Jake McGing, AUS, D, 1.84, 73, 22-05-94, Sydney, Brisbane Roar
+3, Tommy Smith, NZL, D, 1.86, 77, 31-03-90, Macclesfield, MK Dons
+4, Matthew Jurman, AUS, D, 1.90, 84, 08-12-89, Wollongong, Newcastle U Jets
+6, Tomislav Uskok, AUS, D, 1.96, 86, 22-06-91, Melbourne, Western U
+7, Danny De Silva, AUS, M, 1.70, 60, 06-03-97, Perth, Central Coast Mariners
+8, Jake Hollman, AUS, M, 1.70, 70, 26-08-01, Sydney, Sydney FC
+10, Ulises Dávila, MEX, M, 1.72, 62, 29-08-91, Guadalajara, Wellington Phoenix
+12, Filip Kurto, POL, G, 1.91, 82, 14-06-91, Olsztyn, Western U
+13, Ivan Vujica, CRO, D, 1.72, 70, 20-04-97, Sydney, Western U
+14, Kristian Popovic, AUS, M, 1.84, 76, 14-08-01, Sydney, Medjimurje
+15, Kearyn Baccus, AUS, M, 1.80, 75, 05-09-91, Durban, Kaizer Chiefs
+16, Oliver Jones, AUS, D, -, -, 06-02-03, -, Northbridge FC
+17, Raphael Borges Rodrigues, AUS, F, 1.73, 67, 11-09-03, Maastricht, Melbourne C
+18, Walter Scott, AUS, D, 1.76, 74, 02-10-99, Bowral, Wollongong Wolves
+19, Jesper Webber, AUS, M, -, -, 11-06-04, -, Northbridge FC
+20, Kealey Adamson, AUS, D, -, -, 09-03-03, -, Sydney FC
+21, Bernardo Oliveira, AUS, M, 1.71, 61, 16-03-04, Rio de Janeiro, Adelaide U
+22, Yianni Nicolaou, AUS, D, 1.75, 80, 05-01-00, -, APIA Leichhardt
+23, Clayton Lewis, NZL, M, 1.69, 72, 12-02-97, Wellington, Wellington Phoenix
+24, Charles M'Mombwa, TAN, M, 1.73, 68, 14-03-98, Liverpool [AUS], Central Coast Mariners
+27, Jerry Skotadis, AUS, M, 1.78, 73, 07-03-00, Randwick, Western U
+30, Alex Robinson, AUS, G, -, -, 09-03-05, -, None
+31, Lachlan Rose, AUS, F, 1.70, 65, 10-05-99, Sydney, Blacktown Spartans
+32, Isaac Hovar, AUS, D, -, -, 08-09-02, Talgarno, Northbridge FC
+36, Ali Auglah, AUS, F, -, -, 11-03-02, -, Western Sydney W
+37, Jed Drew, AUS, M, -, -, 29-08-03, -, Northbridge FC
+44, Matthew Millar, AUS, D, -, -, 23-08-96, -, St Mirren
+50, Glen Moss, NZL, G, 1.87, 90, 19-01-83, Hastings [NZL], Newcastle U Jets
+52, Ariath Piol, AUS, F, -, -, 11-10-04, -, Northbridge FC
+53, Joel Bertolissio, AUS, D, -, -, 27-05-03, -, Northbridge FC
+98, Valère Germain, FRA, F, 1.81, 75, 17-04-90, Marseille, Montpellier
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Jonathan Aspropotamitis, AUS, D, 1.85, 77, 07-06-96, Sydney, Pohang Steelers

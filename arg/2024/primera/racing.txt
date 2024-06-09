@@ -1,0 +1,37 @@
+=  Racing Club - Argentine Primera División 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Leon, ARG, G, 1.85, 82, 08-08-01, Lomas de Zamora, Sacachispas
+2, Agustín García Basso, ARG, D, 1.78, 78, 26-03-92, Vedia, Independiente del Valle
+3, Marco Di Césare, ARG, D, 1.86, 81, 30-01-02, Mendoza, Argentinos Juniors
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Juan Ignacio Nardoni, ARG, M, 1.69, 59, 14-07-02, Nelson, Unión (Santa Fe)
+6, Nazareno Colombo, ARG, D, 1.84, 78, 20-03-99, Quilmes, Defensa y Justicia
+7, Maximiliano Salas, ARG, F, 1.73, 83, 01-12-97, Curuzú Cuatiá, Palestino
+8, Juan Quintero, COL, M, 1.69, 64, 18-01-93, Medellín, Junior
+9, Adrian Martínez, ARG, F, 1.81, 83, 07-07-92, Campana, Instituto (Córdoba)
+10, Roger Martínez, COL, F, 1.80, 76, 23-06-94, Cartagena, América
+13, Santiago Sosa, ARG, M, 1.79, 78, 03-05-99, La Plata, Atlanta U
+15, Gastón Martirena, URU, D, 1.73, 65, 05-01-00, Montevideo, Liverpool [URU]
+17, Johan Carbonero, COL, M, 1.70, 75, 20-07-99, Santander de Quilichao, Gimnasia y Esgrima (LP)
+18, Agustín Urzi, ARG, M, 1.68, 64, 04-05-00, Lomas de Zamora, Juárez
+19, Leonel Miranda, ARG, M, 1.70, 70, 07-01-94, Avellaneda, Defensa y Justicia
+20, Germán Conti, ARG, D, 1.92, 78, 03-06-94, Santa Fe, Lokomotiv Moscow
+21, Gabriel Arias, CHI, G, 1.88, 80, 13-09-87, Neuquén, Defensa y Justicia
+22, Baltasar Luis Rodríguez, ARG, M, 1.73, 63, 09-07-03, Monte Hermoso, None
+25, Facundo Cambeses, ARG, G, 1.85, 78, 09-04-97, Longchamps, Banfield
+27, Gabriel Rojas, ARG, D, 1.78, 68, 22-06-97, Almirante Brown, Quéretaro
+28, Santiago Solari, ARG, F, 1.78, 74, 19-01-98, Arizona, Defensa y Justicia
+29, Santino Vera, ARG, M, 1.69, 65, 11-04-06, Quilmes, None
+30, Leonardo Sigali, ARG, D, 1.84, 70, 29-05-87, Campana, Dinamo Zagreb
+32, Agustin Almendra, ARG, M, 1.82, 75, 11-02-00, San Francisco Solano, Boca Juniors
+34, Facundo Mura, ARG, D, 1.71, 74, 24-03-99, General Roca, Estudiantes (LP)
+35, Santiago Quirós, ARG, D, 1.79, 77, 04-03-03, Avellaneda, Boca Juniors
+36, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, River Plate
+38, Tobías Rubio, ARG, D, 1.77, 71, 27-07-04, Avellaneda, None
+41, Ramiro Degregorio, ARG, F, 1.69, 66, 06-02-03, Avellaneda, None
+43, Gonzalo Escudero, ARG, D, 1.80, 72, 01-04-07, Avellaneda, None
+44, Francisco Gómez, ARG, G, 1.87, 80, 06-04-04, Santa Rosa, None
+47, Ignacio Galván, ARG, D, 1.77, 65, 06-09-02, Capital Federal, None
+49, David González Torres, ARG, M, 1.67, 62, 08-07-03, Capital Federal, None
+50, Román Fernández, ARG, F, 1.72, 72, 23-09-05, Dock Sud, None

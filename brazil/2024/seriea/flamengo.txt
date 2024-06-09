@@ -1,0 +1,31 @@
+=  Flamengo - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Boca Juniors
+2, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Dynamo Moscow
+3, Léo Ortiz, BRA, D, 1.85, 82, 03-01-96, Porto Alegre, Red Bull Bragantino
+4, Léo Pereira, BRA, D, 1.86, 76, 31-01-96, Curitiba, Athletico Paranaense
+5, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Fiorentina
+6, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, Spartak Moscow
+7, Luiz Araújo, BRA, M, 1.75, 67, 02-06-96, Santa Clara do Sul, Atlanta U
+8, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Marseille
+9, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, Fiorentina
+10, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+11, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Benfica
+14, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Cruzeiro
+15, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, Red Bull Bragantino
+17, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Roma
+18, Nicolás De La Cruz, URU, M, 1.67, 68, 01-06-97, Montevideo, River Plate
+19, Lorran, BRA, M, 1.73, 67, 04-07-06, Rio de Janeiro, None
+20, Matheus Gonçalves, BRA, M, 1.75, 70, 18-08-05, Rio de Janeiro, None
+21, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Atlético Mineiro
+22, Carlinhos, BRA, F, 1.95, 88, 12-02-97, Jaú, Nova Iguaçu
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Arsenal
+25, Matheus Cunha, BRA, G, 1.81, 79, 24-05-01, Tupi Paulista, None
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Santos
+29, Victor Hugo, BRA, M, 1.82, 81, 11-05-04, Rio de Janeiro, None
+33, Cleiton, BRA, D, 1.88, 61, 25-04-03, Bahia, None
+43, Wesley, BRA, D, 1.78, 73, 06-09-03, Maranhão, None
+48, Igor Jesus, BRA, M, 1.79, 76, 07-03-03, Goiânia, None
+49, Dyogo Alves, BRA, G, -, -, 09-01-04, -, None
+52, Evertton Araújo, BRA, M, -, -, 28-02-03, -, Volta Redonda

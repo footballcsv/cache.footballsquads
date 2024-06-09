@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2024
+
+20 teams
+- [Athletico Paranaense](athpara.txt)
+- [Atlético Goianiense](atgoian.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Bahia](bahia.txt)
+- [Botafogo](botafogo.txt)
+- [Corinthians](corinth.txt)
+- [Criciúma](criciuma.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Cuiabá](cuiaba.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Fortaleza](fortal.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Juventude](juventude.txt)
+- [Palmeiras](palmeir.txt)
+- [Red Bull Bragantino](rbbrag.txt)
+- [São Paulo](saopaulo.txt)
+- [Vasco da Gama](vasco.txt)
+- [Vitória](vitoriaba.txt)

@@ -1,0 +1,36 @@
+=  Estudiantes (La Plata) - Argentine Primera División 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabricio Iacovich, ARG, G, 1.97, 85, 29-01-02, La Plata, None
+2, Zaid Romero, ARG, D, 1.95, 85, 15-12-99, Mendoza, Godoy Cruz (Mendoza)
+3, Nicolás Fernández, ARG, D, 1.78, 74, 11-02-02, Coronel Brandsen, None
+4, Santiago Flores, ARG, D, 1.84, 74, 25-03-01, Colón, None
+5, Santiago Ascacibar, ARG, M, 1.68, 69, 25-02-97, La Plata, Hertha Berlin
+6, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Al-Duhail
+7, José Ernesto Sosa, ARG, M, 1.79, 72, 19-06-85, Carcarañá, Fenerbahçe
+8, Fernando Zuqui, ARG, M, 1.70, 64, 27-11-91, Luján de Cuyo, Boca Juniors
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Henan Songshan Longmen
+10, Pablo Piatti, ARG, M, 1.63, 63, 31-03-89, La Carlota, Elche
+12, Matías Mansilla, ARG, G, 1.92, 90, 15-02-96, Los Juríes, Central Córdoba (SdE)
+13, Gastón Benedetti, ARG, D, 1.75, 67, 29-03-01, Larroque, None
+14, Eros Mancuso, ARG, D, 1.73, 73, 17-04-99, Haedo, Boca Juniors
+15, Franco Zapiola, ARG, M, 1.76, 68, 19-02-01, Magdalena, None
+16, Mauro Méndez, URU, F, 1.79, 74, 17-01-99, Salto, Montevideo Wanderers
+17, Javier Altamirano, CHI, M, 1.73, 68, 21-08-99, Talcahuano, Huachipato
+18, Edwuin Cetré, COL, F, 1.70, 76, 01-01-98, Valle del Cauca, Independiente Medellín
+19, Alexis Manyoma, COL, M, 1.69, 69, 30-01-03, Puerto Tejada, Internacional Palmira
+20, Eric Meza, ARG, D, 1.75, 74, 08-04-99, Santa Fe, Colón (Santa Fe)
+22, Enzo Pérez, ARG, M, 1.77, 71, 22-02-86, Mendoza, River Plate
+23, Ezequiel Naya, ARG, F, 1.91, 87, 04-08-01, Chacabuco, None
+24, Bautista Kociubinski, ARG, M, 1.80, 78, 26-04-01, La Plata, None
+25, Juan Pablo Zozaya, ARG, G, 1.87, 86, 13-08-01, Necochea, None
+26, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, Banfield
+27, Javier Correa, ARG, F, 1.89, 81, 23-10-92, Córdoba, Santos Laguna
+28, Nehuén Benedetti, ARG, M, 1.77, 77, 24-02-05, La Plata, None
+29, Axel Atum, ARG, M, 1.76, 66, 02-01-06, Gualeguaychú, None
+30, Rodrigo Borzone, ARG, G, 1.90, 82, 21-10-04, La Plata, None
+31, Román Gómez, ARG, D, 1.81, 68, 14-07-04, Quilmes, None
+32, Tiago Palacios, ARG, M, 1.65, 61, 28-03-01, Capital Federal, Montevideo City Torque
+39, Joaquín Pereyra, ARG, D, 1.80, 73, 16-07-05, Bahía Blanca, None
+40, Emanuel Dall'Aglio, ARG, D, 1.82, 72, 12-02-05, La Plata, None
+45, Benjamin Sagües, ARG, F, 1.81, 72, 22-01-07, Buzios, None

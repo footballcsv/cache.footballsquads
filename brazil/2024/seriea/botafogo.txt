@@ -1,0 +1,52 @@
+=  Botafogo - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Fernández, PAR, G, 1.91, 81, 29-03-88, Asunción, Figueirense
+2, Rafael, BRA, D, 1.72, 65, 09-07-90, Petrópolis, İstanbul Başakşehir
+3, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, Athletico Paranaense
+4, Mateo Ponte, URU, D, 1.83, 74, 24-05-03, Montevideo, Danubio
+5, Danilo Barbosa, BRA, M, 1.82, 73, 28-02-96, Simões Filho, Nice
+6, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, São Paulo
+7, Luiz Henrique, BRA, F, 1.81, 77, 02-01-01, Petrópolis, Betis
+8, Patrick de Paula, BRA, M, 1.80, 75, 08-09-99, Rio de Janeiro, Palmeiras
+9, Tiquinho Soares, BRA, F, 1.87, 89, 17-01-91, Sousa, Olympiakos
+10, Jefferson Savarino, VEN, F, 1.69, 66, 11-11-96, Maracaibo, Real Salt Lake
+11, Júnior Santos, BRA, F, 1.88, 80, 11-10-94, Conceição do Jacuípe, Fortaleza
+12, John, BRA, G, 1.96, 83, 13-02-96, Diadema, Santos
+14, Breno, BRA, M, 1.77, 77, 01-09-00, Santana, Goiás
+15, Bastos, ANG, D, 1.80, 77, 23-11-91, Luanda, Al-Ahli Saudi
+16, Hugo, BRA, D, 1.75, 67, 20-09-01, João Pessoa, None
+17, Marlon Freitas, BRA, M, 1.85, 78, 27-03-95, Magé, Atlético Goianiense
+18, Emerson Urso, BRA, F, 1.69, 67, 13-05-01, Duque de Caxias, São Caetano
+20, Alexander Barboza, ARG, D, 1.92, 79, 16-03-95, Villa Celina, Libertad
+21, Marçal, BRA, D, 1.78, 72, 19-02-89, São Paulo, Wolverhampton W
+22, Damián Suárez, URU, D, 1.72, 61, 27-04-88, Montevideo, Getafe
+23, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Flamengo
+25, Kauê, BRA, M, 1.74, 70, 22-10-04, Quissamã, None
+26, Gregore, BRA, M, 1.81, 78, 02-03-94, Juiz de Fora, Inter Miami
+30, Lucas Barreto, BRA, G, 1.96, 95, 18-02-02, Rio de Janeiro, Flamengo
+32, Jacob Montes, USA, M, 1.80, 68, 20-12-98, Mission Viejo, Crystal Palace
+33, Carlos Eduardo, BRA, M, 1.83, 72, 17-10-89, Sorocaba, Al-Ahli Saudi
+38, Jefferson Maciel, BRA, D, 1.93, 84, 28-05-03, Santa Luzia, Ceará
+44, Luis Segovia, ECU, D, 1.82, 80, 26-10-97, Quito, Independiente del Valle
+47, Jeffinho, BRA, M, 1.76, 74, 30-12-99, Volta Redonda, Lyon
+48, Rhuan, BRA, M, -, -, 14-09-04, Nitéroi, None
+49, Sapata, BRA, M, 1.80, 68, 26-03-03, Taubaté, Taubaté
+52, Igo Gabriel, BRA, G, 1.90, 82, 13-10-01, Maceió, CSA
+54, Kawan, BRA, D, 1.88, 81, 10-04-03, Belém, Betim
+63, Serafim, BRA, D, 1.82, 73, 16-05-04, Campinas, Palmeiras
+66, Cuiabano, BRA, D, 1.79, 82, 16-02-03, Cuiabá, Grêmio
+67, Yarlen, BRA, F, 1.78, 67, 20-02-06, Rio de Janeiro, None
+70, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Pendikspor
+72, Luiz Octávio, BRA, D, 1.78, 73, 12-01-06, Araucária, None
+75, Raí, BRA, M, 1.71, 70, 07-05-01, Duque de Caxias, None
+76, Devid, BRA, D, -, -, 30-07-05, Guaranésia, Sãocarlense
+77, Diego Hernández, URU, F, 1.75, 67, 22-06-00, Montevideo, Montevideo Wanderers
+90, Matheus Nascimento, BRA, F, 1.82, 75, 03-03-04, Rio de Janeiro, None
+97, Raul, BRA, G, 1.89, 79, 28-07-97, Tapera, São Luiz
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Newton, BRA, M, 1.88, 78, 12-03-00, Salvador, Criciúma (On Loan)
+39, Janderson, BRA, F, 1.89, 77, 06-05-99, São João de Meriti, Vitória

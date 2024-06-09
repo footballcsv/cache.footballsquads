@@ -1,0 +1,59 @@
+=  Colchester United - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Owen Goodman, ENG, G, -, -, 27-11-03, Romford, Crystal Palace
+2, Will Greenidge, ENG, D, -, -, 15-05-02, Redbridge, West Ham U
+3, Ellis Iandolo, ENG, D, 1.78, 71, 22-08-97, Chatham, Swindon T
+4, Fiacre Kelleher, IRL, D, 1.90, 80, 10-03-96, Cork, Bradford C
+5, Connor Hall, ENG, D, 1.94, 92, 23-05-93, Huntingdon, Port Vale
+6, Tom Dallison, ENG, D, 1.85, 84, 02-02-96, Dagenham, Crawley T
+7, Matt Jay, ENG, F, 1.78, 69, 27-02-96, Torbay, Exeter C
+8, Conor Wilkinson, IRL, F, 1.85, 77, 23-01-95, Croydon, Motherwell
+9, Samson Tovide, ENG, F, 1.88, 78, 04-01-04, Hackney, None
+10, Noah Chilvers, ENG, M, 1.73, 64, 22-02-01, Chelmsford, None
+11, Owura Edwards, ENG, M, 1.73, 68, 10-04-01, Bristol, Bristol C
+12, Tom Smith, ENG, G, 1.89, 78, 30-01-02, -, Arsenal
+13, Cameron McGeehan, NIR, M, 1.80, 71, 06-04-95, Kingston-upon-Thames, Oostende
+14, Tom Hopper, ENG, F, 1.86, 76, 14-12-93, Boston, Lincoln C
+15, Zach Mitchell, ENG, D, 1.85, 70, 09-01-05, Bromley, Charlton Ath
+16, Arthur Read, ENG, M, 1.78, 64, 03-11-99, Leighton Buzzard, Stevenage
+17, Harry Anderson, ENG, M, 1.68, 62, 09-01-97, Slough, Stevenage
+18, Mandela Egbo, ENG, D, 1.80, 70, 17-08-97, Brent, Charlton Ath
+20, Jay Mingi, ENG, M, 1.75, 66, 22-10-00, Hackney, Charlton Ath
+21, Gene Kennedy, ENG, M, 1.88, 79, 18-04-03, Harlow, None
+22, Riley Harbottle, ENG, D, -, -, 26-09-00, Nottingham, Hibernian
+24, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Gillingham
+26, Jayden Richardson, ENG, D, 1.84, 76, 04-09-00, Nottingham, Aberdeen
+27, Alistair Smith, ENG, M, 1.87, 67, 19-05-99, Beverley, Lincoln C
+28, Ronny Nelson, ENG, D, -, -, 28-08-03, Lewisham, Leicester C
+29, Sam Hornby, ENG, G, 1.88, 80, 14-02-95, Sutton Coldfield, Bradford C
+31, Donell Thomas, ENG, M, -, -, 04-08-03, Hackney, None
+33, Marley Marshall-Miranda, ENG, M, 1.75, 67, 22-10-02, Madrid, Brighton & HA
+34, Kennedy Mupomba, ENG, M, -, -, 22-01-05, -, None
+35, Archie Oliver, ENG, M, -, -, 27-09-04, -, WBA
+36, Matt Yates, ENG, D, -, -, 07-03-05, -, None
+37, Chay Cooper, ENG, M, 1.68, 54, 17-11-01, Harlow, Tottenham H
+38, Jet Dyer, ENG, D, -, -, -, -, Aylesbury Vale Dynamos
+39, Ryan Lowe, ENG, F, -, -, 18-10-03, Havering, None
+40, Frankie Terry, ENG, D, 1.83, 73, 30-01-04, Havering, None
+41, Kaleel Green, ENG, F, -, -, 24-11-04, -, Arsenal
+42, Jayden Fevrier, ENG, D, -, -, 14-04-03, Waltham Forest, West Ham U
+43, Harry Beadle, ENG, D, -, -, 07-01-03, Bexley, None
+44, Ted Collins, ENG, G, 1.87, 82, 28-01-03, Colchester, None
+45, Taizo Marcel-Dilaver, ENG, M, -, -, 20-07-05, -, None
+46, Bayan Aman, ENG, M, -, -, 01-07-05, -, None
+47, Oscar Thorn, ENG, F, -, -, 22-03-04, Southend-on-Sea, Norwich C
+48, Bradley Ihionvien, ENG, F, -, -, 23-12-03, Greenwich, None
+49, Kaan Bennett, ENG, M, -, -, 31-08-04, Greenwich, None
+50, Hakeem Sandah, ENG, F, -, -, 15-03-05, Lambeth, Huddersfield T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Junior Tchamadeu, ENG, D, 1.80, 72, 22-12-03, Redbridge, Stoke C
+32, Jake Hutchinson, ENG, F, 1.85, 74, 08-05-02, Colchester, Queen of the South
+19, Alex Newby, ENG, F, 1.73, 70, 21-11-95, Barrow-in-Furness, Altrincham
+25, Joe Taylor, WAL, F, -, -, 18-11-02, -, Luton T
+8, Mauro Bandeira, POR, M, -, -, 18-11-03, Loures, Arsenal
+23, Nico Lawrence, ENG, D, -, -, 22-11-03, -, Southampton
+30, Al-Amin Kazeem, ENG, D, 1.75, 66, 06-04-02, -, Galway U (On Loan)

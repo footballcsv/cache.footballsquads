@@ -1,0 +1,46 @@
+=  Criciúma - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gustavo, BRA, G, 1.86, 77, 10-03-93, Colatina, Atlético Goianiense
+3, Rodrigo, BRA, D, 1.87, 80, 10-03-87, Coxim, Santo André
+4, Wilker Ángel, VEN, D, 1.88, 84, 18-03-93, Valera, Aucas
+5, Higor Meritão, BRA, M, 1.86, 85, 23-06-94, Monte Alto, UNAM
+6, Ronald, BRA, M, 1.71, 74, 18-06-97, Belford Roxo, Fortaleza
+7, Fellipe Mateus, BRA, M, 1.78, 75, 12-02-91, Campina Grande, Ferroviária
+8, Newton, BRA, M, 1.88, 78, 12-03-00, Salvador, Botafogo
+9, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Três Rios, Atlético Goianiense
+10, Marquinhos Gabriel, BRA, M, 1.74, 69, 21-07-90, Selbach, Goiás
+11, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Swansea C
+12, Kauã, BRA, G, 1.89, 83, 11-03-04, Criciúma, None
+13, Jonathan, BRA, D, 1.78, 71, 25-08-92, Samambaia, CSA
+14, Miguel Trauco, PER, D, 1.75, 62, 25-08-92, Tarapoto, San Jose Earthquakes
+15, Eliedson, BRA, M, 1.88, 75, 17-03-03, Tubarão, None
+17, Matheusinho, BRA, M, 1.64, 60, 11-02-98, Belo Horizonte, América Mineiro
+18, Fabricio, BRA, M, 1.81, 73, 24-02-06, -, None
+19, Yerson Candelo, COL, M, 1.72, 65, 24-02-92, Cali, Aucas
+21, João Carlos, BRA, F, 1.68, 74, 21-06-01, Campo Erê, None
+22, Marcelo Hermes, BRA, D, 1.77, 68, 02-01-95, Sarandi, Ponte Preta
+23, Éder, ITA, F, 1.79, 73, 15-11-86, Lauro Muller, São Paulo
+25, Alisson, BRA, G, 1.90, 87, 08-06-95, Santiago-RS, Paraná
+26, Léo Gonçalves, BRA, M, 1.80, 75, 23-04-02, Guarujá, None
+27, Claudinho, BRA, D, 1.80, 75, 24-09-00, Nova Veneza, None
+29, Tobias Figueiredo, POR, D, 1.88, 84, 02-02-94, Sátão, Fortaleza
+30, Baltasar Barcia, URU, M, 1.77, 75, 19-02-01, Pando, Independiente
+31, Eliel, BRA, M, 1.70, 75, 24-03-03, Orleans-SC, None
+32, Matheus Teixeira, BRA, G, 1.88, 87, 08-03-99, José Bonifácio, Bahia
+33, Walisson Maia, BRA, D, 1.87, 83, 21-08-91, Natividade, SHB Ðà Nẵng
+35, Arthur Caíke, BRA, F, 1.74, 71, 15-06-92, Barbalha, Sport Recife
+41, Erick, BRA, D, -, -, 04-06-05, -, None
+43, Jackson, BRA, D, -, -, 21-04-03, Coronel Fabriciano, None
+63, Thiago Mina, BRA, D, 1.91, 84, 05-06-02, São Paulo, None
+66, Guiherme, BRA, D, 1.80, 75, 14-08-02, São Paulo, None
+73, Adriano Filho, BRA, F, 1.74, 67, 14-06-04, Boa Vista, None
+88, Barreto, BRA, M, 1.81, 78, 10-12-95, Campinas, Botafogo
+99, Eduardo Melo, BRA, F, 1.85, 88, 13-05-01, Salvador, None
+, Kaik, BRA, D, -, -, 02-04-04, Alegrete, None
+, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Goiás
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+79, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Fortaleza

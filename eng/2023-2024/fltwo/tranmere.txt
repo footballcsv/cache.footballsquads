@@ -1,0 +1,41 @@
+=  Tranmere Rovers - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luke McGee, ENG, G, 1.88, 80, 02-09-95, Edgware, Forest Green R
+2, Lee O'Connor, IRL, D, 1.85, 75, 28-07-00, Waterford, Celtic
+3, Jake Leake, ENG, D, -, -, 20-02-03, Kingston upon Hull, Hull C
+4, Brad Walker, ENG, M, 1.86, 80, 25-04-96, Billingham, Port Vale
+5, Tom Davies, ENG, D, 1.80, 70, 18-04-92, Warrington, Bristol R
+6, Jordan Turnbull, ENG, D, 1.85, 72, 30-10-94, Trowbridge, Salford C
+7, Kieron Morris, ENG, M, 1.78, 71, 03-06-94, Hereford, Walsall
+8, Regan Hendry, SCO, M, 1.78, 73, 21-01-98, Edinburgh, Forest Green R
+9, Luke Norris, ENG, F, 1.85, 85, 03-06-93, Stevenage, Stevenage
+11, Josh Hawkes, ENG, M, 1.80, 80, 28-01-99, Stockton-on-Tees, Sunderland
+12, Charlie Jolley, ENG, F, 1.80, 72, 13-01-01, Liverpool, Wigan Ath
+13, Joe Murphy, IRL, G, 1.88, 80, 25-09-80, Dublin, Shrewsbury T
+14, Kristian Dennis, ENG, F, 1.80, 70, 12-03-90, Manchester, Carlisle U
+15, Ben Hockenhull, ENG, D, 1.85, 77, 03-09-01, Crewe, Brentford
+16, Chris Merrie, ENG, M, 1.81, 72, 02-11-98, Liverpool, Wigan Ath
+17, Rhys Hughes, WAL, M, 1.80, 72, 21-09-01, Wrexham, Everton
+18, Connor Jennings, ENG, F, 1.83, 76, 29-10-91, Manchester, Hartlepool U
+19, Harvey Saunders, ENG, F, 1.81, 72, 20-07-97, Wolverhampton, Bristol R
+20, Sam Taylor, ENG, F, -, -, 23-12-04, Knowsley, None
+21, Josef Yarney, ENG, D, 1.83, 70, 08-10-97, Liverpool, Oldham Ath
+22, Paul Lewis, ENG, M, 1.86, 70, 17-12-94, Liverpool, Northampton T
+23, Reece McAlear, SCO, M, 1.85, 75, 12-02-02, Glasgow, Norwich C
+24, Daniel Pike, ENG, D, -, -, 09-01-02, Liverpool, Blackburn R
+25, Rob Apter, SCO, M, 1.75, 58, 16-01-03, Liverpool, Blackpool
+26, James Norris, ENG, D, -, -, 04-04-03, Liverpool, Liverpool
+27, Connor Wood, ENG, D, 1.77, 78, 17-07-96, Harlow, Leyton Orient
+28, Mikey Davies, ENG, D, -, -, -, -, None
+29, Conor Robson, ENG, G, -, -, 21-09-03, Liverpool, Cammell Laird
+30, Jean Leroy-Belehouan, FRA, D, -, -, 01-09-00, -, Sheffield U
+31, Joe Starbuck, ENG, M, -, -, 03-08-02, -, Sheffield U
+32, Ousmane Kane, SEN, M, 1.65, 60, 23-07-01, Guédiawaye, AS Douanes
+33, Kasper Mikulski, ENG, F, -, -, -, -, None
+34, Seb Henderson, ENG, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Stevenage

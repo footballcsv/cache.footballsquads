@@ -1,0 +1,35 @@
+=  Nacional - Uruguayan Primera División 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Facundo Machado, URU, G, 1.86, 79, 19-01-04, Rivera, None
+2, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Juárez
+3, Juan Izquierdo, URU, D, 1.86, 74, 04-07-97, Montevideo, Liverpool [URU]
+4, Rafael Haller, URU, D, 1.78, 79, 17-08-00, Montevideo, Danubio
+5, Franco Romero, URU, D, 1.85, 80, 11-02-96, Montevideo, Bellinzona
+6, Felipe Cairus, URU, M, 1.77, 72, 28-04-00, Dolores, Albion
+7, Antonio Galeano, PAR, F, 1.71, 67, 22-03-00, Asunción, Cerro Porteño
+8, Christian Oliva, URU, M, 1.78, 75, 01-06-96, Ciudad del Plata, Talleres (Córdoba)
+9, Rubén Bentancourt, URU, F, 1.86, 74, 02-03-93, Salto, Liverpool [URU]
+10, Mauricio Pereyra, URU, M, 1.77, 75, 15-03-90, Montevideo, Orlando C
+11, Gabriel Báez, ARG, D, 1.83, 70, 21-07-05, Gobernador Castro, Cerro Porteño
+12, Luis Mejía, PAN, G, 1.91, 81, 16-03-91, Ciudad de Panamá, Unión Española
+13, Mateo Antoni, URU, D, 1.80, 82, 22-04-03, Punta del Este, None
+14, Leandro Lozano, URU, D, 1.70, 70, 19-12-98, Montevideo, None
+16, Alexis Castro, ARG, M, 1.83, 78, 18-10-94, Capital Federal, Tigre
+17, Francisco Ginella, URU, M, 1.82, 73, 21-01-99, Montevideo, Los Angeles FC
+18, Jeremía Recoba, URU, M, 1.76, 80, 08-10-03, Como, None
+19, Gastón González, ARG, F, 1.83, 79, 27-06-01, Arrufó, Orlando C
+20, Gonzalo Carneiro, URU, F, 1.91, 81, 12-09-95, Montevideo, Sion
+21, Renzo Sánchez, URU, M, 1.72, 64, 17-02-04, Rocha, None
+22, Diego Zabala, URU, M, 1.71, 66, 19-09-91, Montevideo, Rosario Central
+23, Diego Polenta, URU, D, 1.85, 87, 06-02-92, Montevideo, Unión (Santa Fe)
+24, Gonzalo Petit, URU, F, 1.89, 74, 21-09-06, Carmelo, None
+25, Ignacio Suárez, URU, G, 1.84, 72, 05-02-02, Paysandú, None
+26, Lucas Sanabria, URU, M, 1.77, 73, 26-12-03, Florida [URU], None
+27, Guillermo López, URU, F, 1.76, 68, 15-01-03, Montevideo, None
+29, Federico Santander, PAR, F, 1.87, 84, 04-06-91, San Lorenzo, Guaraní [PAR]
+30, Christian Ebere, NGA, F, 1.77, 73, 04-04-98, Abuja, Plaza Colonia
+31, Thiago Helguera, URU, M, 1.79, 70, 26-03-06, Paysandú, None
+32, Fredy Martínez, URU, D, 1.70, 68, 01-05-01, Durazno, Danubio
+33, Rodrigo Chagas, URU, M, 1.76, 66, 20-08-03, Artigas, None
+40, Diego Capdevila, URU, G, 1.85, 78, 19-01-03, Paysandú, None

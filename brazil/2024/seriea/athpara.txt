@@ -1,0 +1,42 @@
+=  Athletico Paranaense - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bento, BRA, G, 1.90, 87, 10-06-99, Curitiba, None
+3, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Internacional
+4, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Sampdoria
+5, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Manchester C
+6, Fernando, BRA, D, 1.81, 77, 14-09-99, Santa Maria, Chapecoense
+7, Lucas Di Yorio, ARG, F, 1.90, 75, 22-11-96, Mar del Plata, Pachuca
+8, Romeo Benítez, PAR, F, 1.70, 57, 14-11-02, Concepción, Guaraní [PAR]
+9, Gonzalo Mastriani, URU, F, 1.80, 76, 28-04-93, Montevideo, América Mineiro
+10, Bruno Zapelli, ITA, M, 1.81, 78, 16-05-02, Villa Carlos Paz, Belgrano (Córdoba)
+11, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, São Paulo
+14, Agustín Canobbio, URU, F, 1.75, 72, 01-10-98, Montevideo, Peñarol
+15, Mateo Gamarra, PAR, D, 1.80, 79, 20-10-00, Concepción, Olimpia [PAR]
+18, Jader, BRA, M, 1.72, 67, 24-07-03, Rondonópolis, None
+20, Julimar, BRA, F, 1.88, 87, 25-01-01, Nova Ipixuna, Criciúma
+21, Vinicius Kauê, BRA, D, 1.81, 78, 01-03-03, Presidente Prudente, None
+22, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Santos
+23, Felipinho, BRA, M, 1.83, 77, 18-10-01, Boa Vista, Ponte Preta
+24, Léo Linck, BRA, G, 1.95, 87, 03-03-01, Marechal Cândido Rondon, None
+26, Erick, BRA, M, 1.76, 64, 14-11-97, Nova Lima, PSTC
+27, Petterson, BRA, F, 1.81, 76, 04-01-04, Florianópolis, Flamengo
+28, Tomás Cuello, ARG, M, 1.78, 64, 05-03-00, San Miguel de Tucumán, Atlético Tucumán
+29, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, Estudiantes (LP)
+30, Zé Vitor, BRA, M, 1.94, 80, 02-05-00, Goiânia, Maringá
+37, Lucas Esquivel, ARG, D, 1.80, 75, 14-10-01, Santa Fe, Unión (Santa Fe)
+41, Mycael, BRA, G, 1.87, 78, 12-03-04, Porto Velho, None
+43, Gabriel Pereira, BRA, G, 1.96, 94, 20-07-02, Itapema, Monaco
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+45, Lucas Belezi, BRA, D, 1.86, 67, 08-05-03, São Paulo, Corinthians
+46, Marcos André, BRA, D, -, -, 23-06-06, -, None
+50, Renan Viana, BRA, F, 1.89, 80, 31-01-03, Nova Granada, Novorizontino
+80, Alex Santana, BRA, M, 1.82, 75, 13-05-95, Itatibaia, Ludogorets Razgrad
+88, Christian, BRA, M, 1.78, 67, 19-12-00, Curitiba, None
+92, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, Vasco da Gama (On Loan)
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Red Bull Bragantino

@@ -1,0 +1,41 @@
+=  São Paulo - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Igor Vinícius, BRA, D, 1.74, 70, 01-04-97, Sinop, Ituano
+4, Diego Costa, BRA, D, 1.84, 73, 21-07-99, Campo Grande, None
+5, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+6, Welington, BRA, D, 1.77, 73, 19-02-01, São Paulo, None
+7, Lucas Moura, BRA, M, 1.72, 66, 13-08-92, São Paulo, Tottenham H
+8, Giuliano Galoppo, ARG, M, 1.80, 74, 18-06-99, Capital Federal, Banfield
+9, Jonathan Calleri, ARG, F, 1.81, 77, 23-09-93, Capital Federal, Deportivo Maldonado
+10, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, Grêmio
+11, Rodrigo Nestor, BRA, M, 1.75, 67, 09-08-00, São Paulo, None
+13, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Grêmio
+15, Michel Araújo, URU, F, 1.78, 74, 28-09-96, Colonia del Sacramento, Fluminense
+16, Luiz Gustavo, BRA, M, 1.87, 82, 23-07-87, Pindamonhangaba, Al-Nassr
+17, André Silva, BRA, F, 1.81, 73, 03-06-97, Taboão da Serra, Vitória Guimarães
+18, Rodriguinho, BRA, M, 1.73, 52, 16-03-04, Mineiros, None
+21, Damián Bobadilla, PAR, M, 1.81, 73, 11-07-01, Asunción, Cerro Porteño
+23, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, Atlético Mineiro
+25, Alisson, BRA, F, 1.74, 73, 25-06-93, Rio Pomba, Grêmio
+27, Wellington Rato, BRA, M, 1.72, 77, 28-06-92, Rio de Janeiro, Atlético Goianiense
+28, Alan Franco, ARG, D, 1.83, 74, 11-10-96, Avellaneda, Atlanta U
+29, Pablo Maia, BRA, M, 1.78, 72, 10-01-02, Brazópolis, None
+30, Moreira, BRA, D, 1.76, 75, 21-05-04, São Paulo, None
+31, Juan, BRA, F, 1.76, 76, 07-03-02, São Paulo, None
+32, Nahuel Ferraresi, VEN, D, 1.89, 76, 19-11-98, San Cristóbal, Manchester C
+33, Erick, BRA, F, 1.73, 65, 10-12-97, Recife, Ceará
+35, Sabino, BRA, D, 1.84, 88, 25-10-96, Brasília, Sport Recife
+36, Patryck, BRA, D, 1.81, 68, 18-01-03, Mogi Mirim, None
+39, William Gomes, BRA, F, 1.70, 64, 15-03-06, Aracaju, None
+44, Matheus Belém, BRA, D, 1.83, 74, 13-03-03, São Paulo, None
+46, Felipe Negrucci, BEA, M, 1.80, 73, 14-05-04, Limeira, None
+47, Ferreira, BRA, F, 1.75, 65, 31-12-97, Dourados, Grêmio
+50, Young, BRA, G, 2.02, 88, 07-03-02, Catanduva, None
+55, James Rodríguez, COL, M, 1.80, 77, 12-07-91, Cúcuta, Olympiakos
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Santos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Athletico Paranaense (On Loan)

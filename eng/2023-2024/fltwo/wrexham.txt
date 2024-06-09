@@ -1,0 +1,57 @@
+=  Wrexham - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robert Lainton, ENG, G, 1.88, 79, 12-10-89, Ashton-under-Lyme, Port Vale
+3, Callum McFadzean, SCO, D, 1.80, 75, 16-01-94, Sheffield, Crewe Alex
+4, Ben Tozer, ENG, M, 1.86, 81, 01-03-90, Plymouth, Cheltenham T
+5, Aaron Hayden, ENG, D, 1.86, 79, 16-01-97, Croydon, Carlisle U
+6, Jordan Tunnicliffe, ENG, D, 1.86, 82, 13-10-93, Nuneaton, Crawley T
+7, Jordan Davies, WAL, M, 1.78, 74, 18-08-98, Wrexham, Brighton & HA
+8, Luke Young, ENG, M, 1.73, 72, 22-02-93, Plymouth, Torquay U
+9, Ollie Palmer, ENG, F, 1.87, 77, 21-01-92, Epsom, AFC Wimbledon
+10, Paul Mullin, ENG, F, 1.78, 71, 06-11-94, Liverpool, Cambridge U
+11, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Fleetwood T
+12, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Millwall
+14, Anthony Forde, IRL, M, 1.75, 68, 16-11-93, Limerick, Oxford U
+15, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Charlton Ath
+17, Luke Bolton, ENG, D, 1.74, 72, 07-10-99, Manchester, Salford C
+18, Sam Dalby, ENG, F, 1.91, 78, 17-01-00, Leytonstone, Southend U
+19, Jacob Mendy, GAM, M, 1.82, 67, 27-12-96, Faji Kunda, Boreham Wood
+20, Andy Cannon, ENG, M, 1.76, 74, 14-03-96, Ashton-under-Lyne, Hull C
+21, Mark Howard, ENG, G, 1.83, 76, 21-09-86, Southwark, Carlisle U
+22, Thomas O'Connor, IRL, M, 1.80, 70, 21-04-99, Kilkenny, Burton Alb
+23, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, Wigan Ath
+24, Scott Butler, WAL, D, 1.85, 77, 30-12-02, Wrexham, Swansea C
+25, William Boyle, SCO, D, 1.88, 70, 01-09-95, Garforth, Huddersfield T
+26, Steven Fletcher, SCO, F, 1.85, 76, 26-03-87, Shrewsbury, Dundee U
+29, Ryan Barnett, ENG, M, 1.80, 70, 23-09-99, Shrewsbury, Solihull Moors
+30, James Jones, SCO, M, 1.75, 68, 01-02-96, Winsford, Lincoln C
+31, Luke McNicholas, IRL, G, 1.82, 72, 01-01-00, Castlebar, Sligo R
+32, Max Cleworth, WAL, D, 1.91, 74, 09-08-02, Chester, None
+33, Arthur Okonkwo, ENG, G, 1.95, 85, 09-09-01, Camden, Arsenal
+34, Aaron James, ENG, D, 1.82, 75, 30-06-05, Chester, None
+38, Elliot Lee, ENG, M, 1.80, 72, 16-12-94, Durham, Luton T
+41, Liam Hall, ENG, G, -, -, 18-12-04, -, Bradford PA
+45, Harry Ashfield, ENG, M, -, -, 23-03-06, Wrexham, None
+46, Hari Roberts, WAL, M, -, -, -, -, None
+47, Keane Hazeldine, WAL, M, -, -, -, -, None
+48, Max Purvis, WAL, D, -, -, -, -, None
+49, Reagan Nicholas, WAL, D, -, -, -, -, None
+50, Rio Owen, WAL, F, -, -, -, -, None
+51, Bryn Owen, WAL, G, -, -, -, -, None
+52, Callum Edwards, ENG, F, -, -, 22-06-06, Liverpool, None
+53, James Rainbird, ENG, D, -, -, 01-09-05, Chelmsford, TNS
+54, Tom Kelly, ENG, D, -, -, -, -, None
+55, Alex Moore, ENG, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Kai Evans, WAL, M, -, -, 27-01-04, Wrexham, Nantwich T
+12, Ben Foster, ENG, G, 1.93, 90, 03-04-83, Leamington, Retired
+35, Owen Cushion, ENG, M, 1.68, 60, 05-01-05, Liverpool, Colwyn Bay (On Loan)
+39, Dan Davies, WAL, D, 1.84, 76, 20-11-04, Wrexham, Colwyn Bay (On Loan)
+16, Billy Waters, ENG, F, 1.75, 73, 15-10-94, Epsom, Doncaster R (On Loan)
+11, Liam McAlinden, IRL, M, 1.86, 74, 26-09-93, Cannock, Scunthorpe U
+17, Bryce Hosannah, ENG, D, 1.75, 68, 08-04-99, Lambeth, AFC Fylde
+27, Jake Bickerstaff, WAL, F, -, -, 11-09-01, Liverpool, Accrington Stanley (On Loan)

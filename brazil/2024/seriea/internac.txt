@@ -1,0 +1,38 @@
+=  Internacional - Campeonato Brasileiro Série A 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Rochet, URU, G, 1.90, 82, 23-03-93, Nueva Palmira, Nacional [URU]
+2, Hugo Mallo, ESP, D, 1.81, 78, 22-06-91, Marín, Celta Vigo
+3, Igor Gomes, BRA, D, 1.85, 76, 06-03-01, Barra Mansa, Barcelona B
+4, Robert Renan, BRA, D, 1.86, 78, 11-10-03, Brasília, Zenit St Petersburg
+5, Fernando, BRA, M, 1.83, 76, 25-07-87, Alto Paraíso de Goiás, Vila Nova
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Flamengo
+7, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Atlético Mineiro
+8, Bruno Henrique, BRA, M, 1.80, 75, 21-10-89, Apucarana, Al-Ittihad [KSA]
+10, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, Shakhtar Donetsk
+11, Wanderson, BRA, F, 1.75, 66, 07-10-94, São Luís do Maranhão, FC Krasnodar
+12, Fabrício, BRA, G, 1.93, 91, 07-01-86, Paranavaí, Nova Iguaçu
+13, Enner Valencia, ECU, F, 1.74, 74, 04-11-89, San Lorenzo, Fenerbahçe
+15, Bruno Gomes, BRA, M, 1.75, 70, 04-04-01, Rio de Janeiro, Coritiba
+16, Fabricio Bustos, ARG, D, 1.67, 66, 28-04-96, Ucacha, Independiente
+19, Rafael Santos Borré, COL, F, 1.74, 70, 15-09-95, Barranquilla, Eintracht Frankfurt
+20, Charles Aránguiz, CHI, M, 1.72, 67, 17-04-89, Santiago, Bayer Leverkusen
+21, Wesley, BRA, F, 1.75, 64, 30-03-99, Salvador, Cruzeiro
+22, Ivan, BRA, G, 1.84, 64, 02-07-97, Rio das Pedras, Corinthians
+24, Anthoni, BRA, G, 1.93, 88, 23-01-02, Canela, None
+25, Gabriel Mercado, ARG, D, 1.81, 77, 18-03-87, Puerto Madryn, Al-Rayyan
+26, Alexandro Bernabéi, ARG, D, 1.69, 65, 24-09-00, Cañada de Gómez, Celtic
+27, Maurício, BRA, M, 1.74, 70, 22-06-01, São Paulo, Cruzeiro
+29, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Flamengo
+31, Lucas Alario, ARG, F, 1.80, 60, 08-10-92, Tostado, Eintracht Frankfurt
+34, Gabriel Carvalho, BRA, M, 1.68, 67, 17-08-07, Porto Alegre, None
+40, Rômulo, BRA, M, 1.80, 75, 01-03-00, Campo Grande, Athletic-MG
+41, Matheus Dias, BRA, M, 1.87, 75, 09-05-02, São Paulo, Tombense
+44, Vitão, BRA, D, 1.86, 78, 02-02-00, Jacarezinho, Shakhtar Donetsk
+45, Lucca, BRA, F, 1.80, 73, 02-04-03, Fortaleza, Ceará
+47, Gustavo Prado, BRA, M, 1.79, 70, 06-06-05, Rio de Janeiro, Ferroviária
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Athletico Paranaense (On Loan)

@@ -1,0 +1,35 @@
+=  Barrow - English Football League Two 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Farman, ENG, G, 1.96, 92, 02-11-89, North Shields, Carlisle U
+3, Mazeed Ogungbo, IRL, D, 1.88, 75, 20-10-02, -, Arsenal
+4, Dean Campbell, SCO, M, 1.81, 65, 19-03-01, Aberdeen, Aberdeen
+5, George Ray, WAL, D, 1.78, 71, 13-10-93, Warrington, Exeter C
+6, Niall Canavan, IRL, D, 1.91, 76, 11-04-91, Leeds, Bradford C
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, Port Vale
+8, Kian Spence, ENG, M, 1.78, 75, 09-01-01, Harrogate, FC Halifax T
+9, Jamie Proctor, ENG, F, 1.88, 78, 25-03-92, Preston, Port Vale
+11, Elliot Newby, ENG, M, 1.77, 73, 21-11-95, Barrow-in-Furness, Stockport Co
+12, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Rochdale
+13, Tom White, ENG, M, 1.80, 66, 09-05-97, Newcastle upon Tyne, Blackburn R
+15, Robbie Gotts, ENG, M, 1.77, 71, 09-11-99, Harrogate, Leeds U
+16, Sam Foley, IRL, M, 1.83, 74, 17-10-86, Upton-on-Severn, Tranmere R
+17, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, Derby Co
+18, Luca Stephenson, ENG, M, -, -, 17-09-03, Sunderland, Liverpool
+19, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Crawley T
+20, Emile Acquah, ENG, F, 1.91, 80, 13-07-00, Hackney, Maidenhead U
+21, Tyrell Warren, ENG, D, 1.81, 75, 05-10-98, Manchester, FC Halifax T
+23, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Burton Alb
+24, Rory Feely, IRL, D, 1.71, 66, 03-01-97, Brussels, Bohemians
+29, Junior Tiensia, ENG, D, -, -, 25-12-00, -, Solihull Moors
+34, Ben Whitfield, ENG, M, 1.65, 62, 28-02-96, Bingley, Stockport Co
+35, Owen Bray, ENG, M, 1.91, 75, 05-12-02, York, Leeds U
+36, Malakai Reeve, ENG, D, -, -, 12-06-04, -, Coventry C
+37, Sean Etaluku, ENG, F, -, -, 05-12-03, -, Mossley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Courtney Duffus, IRL, F, 1.70, 76, 24-10-95, Cheltenham, Hartlepool U (On Loan)
+10, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, Morecambe (On Loan)
+39, Sam Bellis, ENG, F, 1.77, 64, 30-12-02, Manchester, Kidderminster H (On Loan)

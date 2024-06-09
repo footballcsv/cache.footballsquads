@@ -1,0 +1,35 @@
+=  Philadelphia Union - USA Major League Soccer 2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oliver Semmle, GER, G, 1.93, 91, 28-03-98, Au am Rhein, Louisville C
+3, Jack Elliott, ENG, D, 1.96, 82, 24-08-95, London, West Virginia Univ
+5, Jakob Glesnes, NOR, D, 1.88, 84, 25-03-94, Bergen, Strømsgodset
+7, Mikael Uhre, DEN, F, 1.82, 68, 30-09-94, Skovlund, Brøndby
+8, José Andrés Martínez, VEN, M, 1.76, 69, 07-08-94, Maracaibo, Zulia
+9, Julián Carranza, ARG, F, 1.76, 66, 22-05-00, Oncativo, Inter Miami
+10, Déniel Gazdag, HUN, M, 1.84, 82, 02-03-96, Nyíregyháza, Honvéd
+11, Alejandro Bedoya, USA, M, 1.78, 73, 29-04-87, Weston, Nantes
+13, Holden Trent, USA, G, 1.88, 75, 07-07-99, Greensboro, High Point Univ
+14, Jeremy Rafanello, USA, M, 1.83, 75, 14-04-00, Delran Township, New York Red Bulls
+15, Olivier Mbaizo, CMR, D, 1.78, 70, 15-08-97, Douala, Bethlehem Steel
+16, Jack McGlynn, USA, M, 1.83, 73, 07-07-03, Middle Village, None
+17, Damion Lowe, JAM, D, 1.91, 79, 05-05-93, Kingston, Inter Miami
+18, Andre Blake, JAM, G, 1.93, 79, 21-11-90, May Pen, UConn
+20, Jesús Bueno, VEN, M, 1.78, 74, 15-04-99, Barquisimeto, Deportivo Lara
+22, Sanders Ngabo, DEN, M, 1.74, 66, 04-07-04, Sundby, Lyngby
+24, Nick Pariano, USA, M, 1.73, 66, 16-03-03, Philadelphia, Duke Univ
+25, Chris Donovan, USA, F, 1.83, 74, 08-08-00, Paoli, Drexel Univ
+26, Nathan Harriel, USA, D, 1.78, 68, 23-04-01, Oldsmar, None
+27, Kai Wagner, GER, D, 1.82, 78, 15-02-97, Geislingen an der Steige, Würzburger Kickers
+28, Tai Baribo, ISR, F, 1.81, 79, 15-01-98, Eilat, Wolfsberger AC
+29, Olwethu Makhanya, RSA, D, -, -, 30-04-04, Durban, Stellenbosch
+30, Jamir Berdecio, BOL, D, 1.74, 68, 12-08-02, Santa Cruz de la Sierra, Oriente Petrolero
+31, Leon Flach, USA, M, 1.81, 73, 28-02-01, Humble, St Pauli
+33, Quinn Sullivan, USA, M, 1.80, 69, 27-03-04, Philadelphia, None
+35, Markus Anderson, USA, M, 1.78, 77, 11-12-03, Brooklyn, Rayo Majadahonda
+76, Andrew Rick, USA, G, -, -, 30-01-06, Bethesda, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Matt Real, USA, D, 1.80, 74, 07-10-99, Drexel Hill, Colorado Springs Switchbacks (On Loan)
