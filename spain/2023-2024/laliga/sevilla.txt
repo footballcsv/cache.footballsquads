@@ -1,0 +1,58 @@
+=  Sevilla - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Eibar
+2, Kike Salas, ESP, D, 1.86, 80, 23-04-02, Morón de la Frontera, Sevilla B
+3, Adrià Pedrosa, ESP, D, 1.76, 69, 13-05-98, Barcelona, Espanyol
+4, Sergio Ramos, ESP, D, 1.84, 82, 30-03-86, Camas, Paris St-Germain
+5, Lucas Ocampos, ARG, M, 1.87, 84, 11-07-94, Quilmes, Marseille
+6, Nemanja Gudelj, SRB, M, 1.77, 73, 16-11-91, Belgrade, Guangzhou Evergrande
+7, Suso, ESP, M, 1.76, 69, 19-11-93, Cádiz, Milan
+8, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Eibar
+9, Rafa Mir, ESP, F, 1.86, 75, 18-06-97, Murcia, Wolverhampton W
+10, Alejo Véliz, ARG, F, 1.87, 77, 19-09-03, Bernardo de Irigoyen, Tottenham H
+11, Dodi Lukebakio, BEL, M, 1.87, 77, 24-09-97, Asse, Hertha Berlin
+12, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Real Madrid
+13, Ørjan Nyland, NOR, G, 1.92, 78, 10-09-90, Volda, RB Leipzig
+14, Tanguy Nianzou, FRA, D, 1.87, 83, 07-06-02, Paris, Bayern Munich
+15, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Leganés
+16, Jesús Navas, ESP, D, 1.72, 60, 21-11-85, Los Palacios, Manchester C
+17, Erik Lamela, ARG, M, 1.81, 80, 25-03-92, Florida, Tottenham H
+18, Djibril Sow, SUI, M, 1.79, 70, 06-02-97, Zürich, Eintracht Frankfurt
+19, Marcos Acuña, ARG, D, 1.72, 72, 28-10-91, Zapala, Sporting CP
+20, Isaac Romero, ESP, F, 1.83, 70, 18-05-00, Lebrija, Sevilla B
+21, Óliver Torres, ESP, M, 1.78, 70, 10-11-94, Navalmoral de la Mata, FC Porto
+22, Loïc Badé, FRA, D, 1.91, 89, 11-04-00, Sèvres, Rennes
+23, Marcão, BRA, D, 1.85, 77, 05-06-96, Londrina, Galatasaray
+24, Boubakary Soumaré, FRA, M, 1.88, 82, 27-02-99, Noisy-le-Sec, Leicester C
+25, Adnan Januzaj, BEL, M, 1.86, 76, 05-02-95, Brussels, Real Sociedad
+26, Juanlu Sánchez, ESP, M, 1.86, 68, 15-08-03, Seville, Sevilla B
+28, Manu Bueno, ESP, M, 1.78, 71, 27-07-04, Jerez de la Frontera, Sevilla B
+29, Darío Benavides, ESP, D, 1.78, 70, 12-01-03, El Ejido, Sevilla B
+30, Ibrahima Sow, SEN, F, 1.84, 76, 26-01-07, Dakar, Sevilla B
+31, Alberto Flores, ESP, G, 1.87, 80, 09-11-03, Fuentes de Andalucía, Sevilla B
+32, Rafa Romero, ESP, G, 1.92, 81, 07-08-03, Jerez de la Frontera, Granada B
+33, Matías Árbol, ESP, G, -, -, 12-09-02, Palomares del Río, Sevilla B
+34, Isra Domínguez, ESP, F, 1.75, 70, 07-05-03, Antequera, Antequera
+35, Xavi Sintes, ESP, M, 1.89, 77, 05-08-01, Mahón, Real Madrid B
+36, Oso, ESP, F, 1.83, 75, 09-07-03, Torrevieja, Sevilla B
+37, Alberto Collado, ESP, M, -, -, 16-04-05, Algeciras, Sevilla B
+38, Diego Hormigo, ESP, D, 1.82, 75, 16-04-03, Seville, Sevilla B
+39, Lulo Dasilva, ESP, M, 1.87, 71, 04-10-02, Seville, Sevilla B
+40, Miguel Capi, ESP, F, 1.75, 63, 06-03-01, Mairena del Alcor, Sevilla B
+41, Stanis Idumbo Muzambo, BEL, M, 1.70, 60, 29-06-05, Melun, Ajax
+42, Lucien Agoumé, FRA, M, 1.85, 75, 09-02-02, Yaoundé, Internazionale
+46, Hannibal Mejbri, TUN, M, 1.84, 70, 21-01-03, Ivry-sur-Seine, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Yassine Bounou, MAR, G, 1.92, 78, 05-04-91, Montreal, Al-Hilal [KSA]
+4, Gonzalo Montiel, ARG, D, 1.78, 66, 01-01-97, Virrey del Pino, Nottingham F (On Loan)
+11, Jesús Manuel Corona, MEX, F, 1.73, 73, 06-01-93, Hermosillo, Monterrey
+24, Alejandro Gómez, ARG, M, 1.67, 68, 15-02-88, Capital Federal, Monza
+12, Dodi Lukebakio, BEL, M, 1.87, 77, 24-09-97, Asse, Re-Registered (11)
+20, Fernando, BRA, M, 1.83, 76, 25-07-87, Alto Paraíso de Goiás, Vila Nova
+2, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, Anderlecht (On Loan)
+10, Ivan Rakitić, CRO, M, 1.84, 78, 10-03-88, Rheinfelden, Al-Shabab
+27, Kike Salas, ESP, D, 1.86, 80, 23-04-02, Morón de la Frontera, Re-Registered (2)

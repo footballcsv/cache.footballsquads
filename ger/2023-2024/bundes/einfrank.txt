@@ -1,0 +1,55 @@
+=  Eintracht Frankfurt - German Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kevin Trapp, GER, G, 1.89, 83, 08-07-90, Merzig, Paris St-Germain
+3, William Pacho, ECU, D, 1.86, 81, 16-10-01, Quinindé, Royal Antwerp
+4, Robin Koch, GER, D, 1.90, 82, 17-07-96, Kaiserslautern, Leeds U
+5, Hrvoje Smolčić, CRO, D, 1.85, 80, 17-08-00, Gospić, Rijeka
+7, Omar Marmoush, EGY, F, 1.77, 73, 07-02-99, Cairo, Wolfsburg
+8, Farès Chaïbi, ALG, M, 1.83, 79, 28-11-02, Lyon, Toulouse
+9, Saša Kalajdžić, AUT, F, 2.00, 76, 07-07-97, Vienna, Wolverhampton W
+11, Hugo Ekitike, FRA, F, 1.89, 70, 20-06-02, Reims, Paris St-Germain
+15, Ellyes Skhiri, TUN, M, 1.85, 69, 10-05-95, Lunel, Köln
+16, Hugo Larsson, SWE, M, 1.87, 70, 27-06-04, Svarte, Malmö FF
+17, Sebastian Rode, GER, M, 1.79, 67, 11-10-90, Frankfurt am Main, Borussia Dortmund
+19, Jean-Mattéo Bahoya, FRA, F, 1.80, 73, 07-05-05, Montfermeil, Angers
+20, Makoto Hasebe, JPN, D, 1.77, 65, 18-01-84, Shizuoka, Nürnberg
+22, Timmy Chandler, USA, M, 1.86, 83, 29-03-90, Frankfurt am Main, Nürnberg
+24, Aurélio Buta, POR, D, 1.72, 66, 10-02-97, Luanda, Royal Antwerp
+25, Donny van de Beek, NED, M, 1.87, 73, 18-04-97, Nijkerkerveen, Manchester U
+26, Junior Dina Ebimbe, FRA, M, 1.83, 72, 21-11-00, Stains, Paris St-Germain
+27, Mario Götze, GER, M, 1.76, 64, 03-06-92, Memmingen, PSV Eindhoven
+29, Niels Nkounkou, FRA, D, 1.84, 70, 01-11-00, Pontoise, St-Étienne
+31, Philipp Max, GER, D, 1.78, 74, 30-09-93, Viersen, PSV Eindhoven
+32, Marko Mladenović, SRB, M, 1.74, 68, 30-01-05, Nürtingen, Stuttgarter Kickers
+33, Jens Grahl, GER, G, 1.96, 86, 22-09-88, Stuttgart, Stuttgart
+34, Nnamdi Collins, GER, D, 1.87, 82, 10-01-04, Düsseldorf, Borussia Dortmund
+35, Tuta, BRA, D, 1.84, 75, 04-07-99, São Paulo, São Paulo
+36, Ansgar Knauff, GER, F, 1.80, 73, 10-01-02, Göttingen, Borussia Dortmund
+37, Sidney Raebiger, GER, M, 1.76, 70, 17-04-05, Freiberg, Greuther Fürth
+38, Nils Ramming, GER, G, 1.90, 80, 28-03-07, London, None
+40, Kauã Santos, BRA, G, 1.96, 84, 11-04-03, Vassouras, Flamengo
+41, Simon Simoni, ALB, G, 1.92, 81, 14-07-04, Lezhë, Dinamo Tirana
+42, Luke Gauer, GER, G, 1.87, 85, 28-05-05, Wiesbaden, None
+43, Noel Futkeu, GER, F, 1.83, 76, 06-12-02, Essen, SW Essen
+44, Davis Bautista, ECU, D, 1.83, 74, 16-02-05, Quito, Aucas
+45, Mehdi Loune, GER, M, 1.72, 70, 14-05-04, Hanau, None
+46, Dario Gebuhr, GER, D, 1.88, 86, 06-05-03, Wiesbaden, None
+47, Elias Baum, GER, D, 1.80, 77, 26-10-05, Frankfurt am Main, None
+48, Nacho Ferri, ESP, F, 1.92, 75, 05-10-04, Montaverner, Alzira
+49, Harpreet Ghotra, GER, M, 1.80, 69, 17-01-03, Frankfurt am Main, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Faride Alidou, GER, F, 1.86, 84, 18-07-01, Hamburg, Köln (On Loan)
+29, Jesper Lindstrøm, DEN, M, 1.82, 63, 29-02-00, Taastrup, Napoli
+25, Christopher Lenz, GER, D, 1.80, 75, 22-09-94, Berlin, RB Leipzig
+9, Randal Kolo Muani, FRA, F, 1.87, 73, 05-12-98, Bondy, Paris St-Germain
+28, Marcel Wenig, GER, M, 1.88, 79, 04-05-04, Nuremberg, Nürnberg (On Loan)
+21, Lucas Alario, ARG, F, 1.80, 60, 08-10-92, Tostado, Internacional
+6, Kristijan Jakić, CRO, M, 1.81, 78, 14-05-97, Split, Augsburg (On Loan)
+23, Jens Petter Hauge, NOR, M, 1.84, 75, 12-10-99, Bodø, Bodø/Glimt (On Loan)
+18, Jessic Ngankam, GER, M, 1.84, 84, 20-07-00, Berlin, Mainz (On Loan)
+30, Paxten Aaronson, USA, M, 1.75, 64, 26-08-03, Medford, Vitesse (On Loan)
+19, Rafael Santos Borré, COL, F, 1.74, 70, 15-09-95, Barranquilla, Internacional

@@ -1,0 +1,44 @@
+=  Nice - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Paris St-Germain
+2, Valentin Rosier, FRA, D, 1.75, 70, 19-08-96, Montauban, Beşiktaş
+4, Dante, BRA, D, 1.87, 82, 18-10-83, Salvador, Wolfsburg
+6, Jean-Clair Todibo, FRA, D, 1.90, 81, 30-12-99, Cayenne, Barcelona
+7, Jérémie Boga, CIV, F, 1.72, 68, 03-01-97, Marseille, Atalanta
+8, Pablo Rosario, NED, M, 1.79, 73, 07-01-97, Amsterdam, PSV Eindhoven
+9, Terem Moffi, NGA, F, 1.88, 82, 25-05-99, Calabar, Lorient
+10, Sofiane Diop, FRA, M, 1.75, 65, 09-06-00, Tours, Monaco
+11, Morgan Sanson, FRA, M, 1.82, 70, 18-08-94, Saint-Doulchard, Aston Villa
+15, Romain Perraud, FRA, D, 1.73, 68, 22-09-97, Toulouse, Southampton
+18, Alexis Claude-Maurice, FRA, M, 1.74, 62, 06-06-98, Noisy-le-Grand, Lorient
+19, Khéphren Thuram, FRA, M, 1.92, 80, 26-03-01, Reggio Emilia, Monaco
+21, Alexis Beka Beka, FRA, M, 1.75, 67, 04-10-00, Paris, Lokomotiv Moscow
+23, Jordan Lotomba, SUI, D, 1.77, 67, 29-09-98, Yverdon-les-Bains, Young Boys
+24, Gaëtan Laborde, FRA, F, 1.81, 78, 03-05-94, Mont-de-Marsan, Rennes
+25, Mohamed-Ali Cho, FRA, F, 1.82, 65, 19-01-04, Stains, Real Sociedad
+26, Melvin Bard, FRA, D, 1.73, 65, 06-11-00, Écully, Lyon
+27, Aliou Baldé, SEN, F, 1.70, 60, 12-12-02, Ziguinchor, Lausanne-Sport
+28, Hicham Boudaoui, ALG, M, 1.76, 56, 23-09-99, Béchar, Paradou AC
+29, Evann Guessand, FRA, F, 1.87, 86, 01-07-01, Ajaccio, None
+31, Maxime Dupé, FRA, G, 1.86, 85, 04-03-93, Malestroit, Anderlecht
+32, Tom Louchet, FRA, D, 1.78, 66, 04-05-03, Manosque, None
+33, Antoine Mendy, FRA, D, 1.87, 75, 27-05-04, Marseille, None
+34, Yannis Nahounou, FRA, D, 1.90, 83, 16-05-04, Meaux, None
+39, Daouda Traoré, FRA, M, 1.88, 76, 22-07-06, Ivry-sur-Seine, None
+44, Amidou Doumbouya, FRA, M, 1.82, 74, 05-08-07, Bourges, None
+55, Youssouf Ndayishimiye, BDI, D, 1.83, 76, 27-10-98, Buyenzi, İstanbul Başakşehir
+77, Teddy Boulhendi, FRA, G, 1.85, 82, 09-04-01, Martigues, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Kasper Schmeichel, DEN, G, 1.85, 76, 05-11-86, Copenhagen, Anderlecht
+14, Billal Brahimi, FRA, F, 1.83, 75, 14-03-00, Paris, Brest (On Loan)
+90, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Re-Registered (1)
+31, Salvatore Sirigu, ITA, G, 1.92, 80, 12-01-87, Nuoro, Fatih Karagümrük
+37, Reda Belahyane, FRA, M, 1.69, 53, 01-06-04, Paris, Verona
+14, Robson Bambu, BRA, D, 1.84, 70, 12-11-97, São Vicente, Arouca (On Loan)
+22, Badredine Bouanani, FRA, M, 1.72, 60, 08-12-04, Lille, Lorient (On Loan)
+38, Ayoub Amraoui, MAR, D, 1.84, 69, 14-05-04, La Seyne-sur-Mer, Amiens (On Loan)
+20, Youcef Atal, ALG, D, 1.76, 64, 17-05-96, Boghni, Adana Demirspor

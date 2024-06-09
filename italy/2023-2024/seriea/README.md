@@ -1,0 +1,23 @@
+# Italian Serie A 2023/2024
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Frosinone](frosinone.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Monza](monza.txt)
+- [Napoli](napoli.txt)
+- [Roma](roma.txt)
+- [Salernitana](salern.txt)
+- [Sassuolo](sassuolo.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)

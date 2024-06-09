@@ -1,0 +1,39 @@
+=  VfL Wolfsburg - German Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Koen Casteels, BEL, G, 1.96, 83, 25-06-92, Bonheiden, 1899 Hoffenheim
+2, Kilian Fischer, GER, D, 1.82, 77, 12-10-00, Miltenberg, Nürnberg
+3, Sebastiaan Bornauw, BEL, D, 1.90, 81, 22-03-99, Wemmel, Köln
+4, Maxence Lacroix, FRA, D, 1.90, 88, 06-04-00, Villeneuve-Saint-Georges, Sochaux
+5, Cédric Zesiger, SUI, D, 1.91, 80, 24-06-98, Ins, Young Boys
+6, Aster Vranckx, BEL, M, 1.83, 78, 04-10-02, Erps-Kwerps, Mechelen
+7, Václav Černý, CZE, F, 1.78, 70, 17-10-97, Příbram, FC Twente
+9, Amin Sarr, SWE, F, 1.88, 83, 11-03-01, Malmö, Lyon
+10, Lukas Nmecha, GER, F, 1.85, 80, 12-12-98, Hamburg, Manchester C
+11, Tiago Tomás, POR, F, 1.80, 69, 16-06-02, Cascais, Sporting CP
+12, Pavao Pervan, AUT, G, 1.94, 92, 13-11-87, Livno, LASK Linz
+13, Rogério, BRA, D, 1.77, 70, 13-01-98, Nobres, Sassuolo
+16, Jakub Kamiński, POL, M, 1.79, 68, 05-06-02, Ruda Śląska, Lech Poznań
+17, Kevin Behrens, GER, F, 1.84, 83, 03-02-91, Bremen, Union Berlin
+18, Dženan Pejčinović, GER, F, 1.88, 78, 15-02-05, Munich, Augsburg
+19, Lovro Majer, CRO, M, 1.76, 75, 17-01-98, Zagreb, Rennes
+20, Ridle Baku, GER, M, 1.76, 72, 08-04-98, Mainz, Mainz
+21, Joakim Mæhle, DEN, D, 1.84, 80, 20-05-97, Østervrå, Atalanta
+23, Jonas Wind, DEN, F, 1.90, 82, 07-02-99, Hvidovre, FC København
+25, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, Lorient
+27, Maximilian Arnold, GER, M, 1.83, 78, 27-05-94, Riesa, Dynamo Dresden
+30, Niklas Klinger, GER, G, 1.86, 80, 13-10-95, Wolfsburg, None
+31, Yannick Gerhardt, GER, M, 1.84, 79, 13-03-94, Würselen, Köln
+32, Mattias Svanberg, SWE, M, 1.85, 77, 05-01-99, Malmö, Bologna
+39, Patrick Wimmer, AUT, M, 1.82, 77, 30-05-01, Tulln, Arminia Bielefeld
+40, Kevin Paredes, USA, M, 1.68, 54, 07-05-03, South Riding, DC United
+41, Kofi Amoako, GER, M, 1.86, 77, 06-05-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Maximilian Philipp, GER, F, 1.79, 74, 01-03-94, Berlin, Freiburg (On Loan)
+36, Lukáš Ambros, CZE, M, 1.82, 71, 05-06-04, Dolní Němčí, Freiburg II (On Loan)
+35, Philipp Schulze, GER, G, 1.89, 82, 29-01-03, Neustadt am Rübenberge, Hallescher FC (On Loan)
+37, Felix Lange, GER, D, 1.87, 76, 13-03-04, Braunschweig, Rödinghausen (On Loan)
+8, Nicolas Cozza, FRA, D, 1.78, 72, 08-01-99, Ganges, Nantes (On Loan)

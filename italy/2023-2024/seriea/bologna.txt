@@ -1,0 +1,47 @@
+=  Bologna - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Stefan Posch, AUT, D, 1.88, 76, 14-05-97, Judenburg, 1899 Hoffenheim
+4, Mihajlo Ilić, SRB, D, 1.92, 78, 04-07-03, Jagodina, Partizan Belgrade
+5, Adama Soumaoro, CIV, D, 1.86, 93, 18-06-92, Fontenay-aux-Roses, Lille
+6, Nikola Moro, CRO, M, 1.83, 77, 12-03-98, Solin, Dynamo Moscow
+7, Riccardo Orsolini, ITA, F, 1.83, 73, 24-01-97, Ascoli Piceno, Juventus
+8, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Nottingham F
+9, Joshua Zirkzee, NED, F, 1.93, 84, 22-05-01, Schiedam, Bayern Munich
+10, Jesper Karlsson, SWE, F, 1.71, 70, 25-07-98, Falkenberg, AZ Alkmaar
+11, Dan Ndoye, SUI, F, 1.84, 79, 25-10-00, Nyon, Basel
+15, Victor Kristiansen, DEN, D, 1.81, 77, 16-12-02, Copenhagen, Leicester C
+16, Tommaso Corazza, ITA, D, 1.74, 60, 29-06-04, Bologna, None
+17, Oussama El Azzouzi, MAR, M, 1.89, 77, 29-05-01, Veenendaal, Union St-Gilloise
+18, Santiago Castro, ARG, F, 1.78, 67, 18-09-04, San Martín, Vélez Sarsfield
+19, Lewis Ferguson, SCO, M, 1.81, 73, 24-08-99, Hamilton, Aberdeen
+20, Michel Aebischer, SUI, M, 1.82, 74, 06-01-97, Fribourg, Young Boys
+21, Jens Odgaard, DEN, F, 1.88, 80, 31-03-99, Hillerød, AZ Alkmaar
+22, Charalampos Lykogiannis, GRE, D, 1.90, 87, 22-10-93, Piraeus, Cagliari
+23, Nicola Bagnolini, ITA, G, 1.94, 93, 14-03-04, Cesena, Cesena
+26, Jhon Lucumí, COL, D, 1.85, 78, 26-06-98, Cali, KRC Genk
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Torino
+31, Sam Beukema, NED, D, 1.88, 77, 17-11-98, Deventer, AZ Alkmaar
+33, Riccardo Calafiori, ITA, D, 1.83, 78, 19-05-02, Rome, Basel
+34, Federico Ravaglia, ITA, G, 1.96, 88, 11-11-99, Bologna, None
+50, Tito Gasperini, ITA, G, 1.88, 77, 09-03-06, Bologna, None
+56, Alexis Saelemaekers, BEL, M, 1.80, 72, 27-06-99, Berchem-Sainte-Agathe, Milan
+66, Wisdom Amey, ITA, D, 1.87, 70, 11-08-05, Bassano del Grappa, None
+80, Giovanni Fabbian, ITA, M, 1.86, 68, 14-01-03, Camposampiero, Internazionale
+82, Kacper Urbański, POL, M, 1.78, 58, 07-09-04, Gdańsk, Lechia Gdańsk
+96, Tommaso Ravaglioli, ITA, F, -, -, 20-02-06, Cesena, Cesena
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Marko Arnautović, AUT, F, 1.93, 83, 19-04-89, Vienna, Internazionale (On Loan)
+30, Jerdy Schouten, NED, M, 1.85, 72, 12-01-97, Hellevoetsluis, PSV Eindhoven
+25, Niklas Pyyhtiä, FIN, M, 1.88, 84, 25-09-03, Turku, Ternana (On Loan)
+24, Andrea Mazia, ITA, F, 1.74, 63, 29-02-04, Bologna, Brindisi (On Loan)
+73, Riccardo Stivanello, ITA, D, 1.88, 76, 24-04-04, Dolo, Juventus Next Gen (On Loan)
+8, Nicolás Domínguez, ARG, M, 1.79, 73, 28-06-98, Haedo, Nottingham F
+99, Musa Barrow, GAM, F, 1.84, 76, 14-11-98, Banjul, Al-Taawoun
+14, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, Frosinone (On Loan)
+4, Joaquín Sosa, URU, D, 1.89, 82, 10-01-02, Fray Bentos, CF Montréal (On Loan)
+77, Sydney van Hooijdonk, NED, F, 1.90, 80, 06-02-00, Breda, Norwich C (On Loan)

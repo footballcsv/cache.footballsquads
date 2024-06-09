@@ -1,0 +1,49 @@
+=  Cádiz - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeremias Ledesma, ARG, G, 1.86, 85, 13-02-93, Rosario, Rosario Central
+2, Joseba Zaldúa, ESP, D, 1.76, 70, 24-06-92, San Sebastián, Real Sociedad
+3, Fali, ESP, D, 1.86, 72, 12-08-93, Valencia, Nàstic
+4, Rubén Alcaraz, ESP, M, 1.80, 70, 01-05-91, Barcelona, Valladolid
+5, Víctor Chust, ESP, D, 1.82, 74, 05-03-00, Valencia, Real Madrid B
+6, Diadie Samassékou, MLI, M, 1.77, 68, 11-01-96, Bamako, 1899 Hoffenheim
+7, Rubén Sobrino, ESP, F, 1.85, 73, 01-06-92, Daimiel, Valencia
+8, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+9, Juanmi, ESP, F, 1.72, 69, 20-05-93, Coín, Betis
+10, Brian Ocampo, URU, F, 1.72, 68, 25-06-99, Florida, Nacional [URU]
+11, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Getafe
+12, Rominigue Kouamé, MLI, M, 1.77, 68, 17-12-96, Lopou, Troyes
+13, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+14, Momo Mbaye, SEN, D, 1.90, 83, 28-06-98, Dakara, Watford
+15, Javi Hernández, ESP, D, 1.82, 72, 02-05-98, Jerez de la Frontera, Leganés
+16, Chris Ramos, ESP, F, 1.93, 80, 16-01-97, Cádiz, Lugo
+17, Gonzalo Escalante, ARG, M, 1.82, 72, 27-03-93, Bella Vista, Lazio
+18, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Valladolid
+19, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Valladolid
+20, Isaac Carcelén, ESP, D, 1.78, 75, 23-04-93, El Puerto de Santa María, Rayo Majadahonda
+21, Roger, ESP, F, 1.79, 74, 03-01-91, Torrent, Elche
+22, Jorge Meré, ESP, D, 1.82, 77, 17-04-97, Oviedo, América
+24, Aiham Ousou, SWE, D, 1.86, 77, 09-01-00, Mölndal, Slavia Prague
+25, Maximiliano Gómez, URU, F, 1.86, 91, 14-08-96, Paysandú, Trabzonspor
+26, Víctor Aznar, BRA, G, 1.89, 82, 17-10-02, São Paulo, Verona
+27, Robert Navarro, ESP, M, 1.78, 65, 12-04-02, Barcelona, Real Sociedad
+28, Moussa Diakité, MLI, M, 1.89, 70, 04-11-03, -, Étoiles du Mandé
+29, Nico Njalla, CMR, M, 1.74, 62, 13-04-03, Douala, Cádiz B
+30, Alejandro Morata, ESP, D, 1.79, 75, 06-07-06, -, Cádiz B
+31, Adrián Miranda, ESP, D, 1.83, 75, 26-04-03, Olesa de Montserrat, Peña
+32, Julio Cabrera, ESP, D, 1.75, 65, 14-08-03, Olvera, Cádiz B
+33, Lucas Pires, BRA, D, 1.82, 76, 24-03-01, São Paulo, Santos
+35, Adrían Salguero, ESP, D, 1.83, 75, 20-05-03, El Vendrell, Ibiza
+36, Etta Eyong, CMR, M, 1.81, 75, 14-10-03, Douala, Cádiz B
+40, Borja Vázquez, ESP, F, -, -, 18-01-05, Jerez de la Frontera, Cádiz B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Álvaro Bastida, ESP, M, 1.70, 60, 12-05-04, Chiclana de la Frontera, Atlético Sanluqueño (On Loan)
+12, Milutin Osmajić, MNE, F, 1.86, 82, 25-07-99, Podgorica, Preston NE
+27, José Antonio de la Rosa, ESP, F, 1.74, 68, 28-07-04, Huelva, Recreativo Huelva (On Loan)
+9, Álvaro Negredo, ESP, F, 1.85, 82, 20-08-85, Madrid, Valladolid
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, De-Registered
+23, Luis Hernández, ESP, D, 1.83, 75, 14-04-89, Madrid, De-Registered
+24, Fede San Emeterio, ESP, M, 1.74, 68, 16-03-97, Torrelavega, De-Registered

@@ -1,0 +1,47 @@
+=  Lazio - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Juventus
+4, Patric, ESP, D, 1.84, 72, 17-04-93, Mula, Barcelona B
+5, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Internazionale
+6, Daichi Kamada, JPN, M, 1.80, 72, 05-08-96, Ehime, Eintracht Frankfurt
+7, Felipe Anderson, BRA, F, 1.75, 70, 15-04-93, Brasília, West Ham U
+8, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, Marseille
+9, Pedro, ESP, F, 1.69, 67, 28-07-87, Santa Cruz de Tenerife, Roma
+10, Luis Alberto, ESP, M, 1.83, 74, 28-09-92, San José del Valle, Liverpool
+13, Alessio Romagnoli, ITA, D, 1.85, 75, 12-01-95, Anzio, Milan
+15, Nicolò Casale, ITA, D, 1.91, 84, 14-02-98, Negrar, Verona
+17, Ciro Immobile, ITA, F, 1.85, 85, 20-02-90, Torre Annunziata, Sevilla
+18, Gustav Isaksen, DEN, M, 1.78, 70, 19-04-01, Hjerk, FC Midtjylland
+19, Valentín Castellanos, ARG, F, 1.79, 69, 03-10-98, Mendoza, New York C
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Verona
+22, Diego González, PAR, F, 1.77, 67, 07-01-03, Alto Paraná, Celaya
+23, Elseid Hysaj, ALB, D, 1.82, 70, 02-02-94, Shkodër, Napoli
+28, André Anderson, BRA, M, 1.80, 75, 23-09-99, Maracaí, Santos
+29, Manuel Lazzari, ITA, M, 1.74, 67, 29-11-93, Valdagno, SPAL
+32, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+33, Luigi Sepe, ITA, G, 1.91, 75, 08-05-91, Torre del Greco, Salernitana
+34, Mario Gila, ESP, D, 1.83, 74, 29-08-00, Barcelona, Real Madrid B
+35, Christos Mandas, GRE, G, 1.89, 75, 17-09-01, Piraeus, OFI
+46, Fabio Ruggeri, ITA, D, 1.84, 80, 13-12-04, Rome, Savio
+53, Federico Magro, ITA, G, 1.89, 79, 10-01-05, Rome, Urbetevere
+56, Luca Napolitano, ITA, M, 1.69, 65, 10-01-04, Rome, None
+59, Davide Renzetti, ITA, G, 1.94, 79, 09-06-06, Rome, None
+65, Nicolò Rovella, ITA, M, 1.79, 70, 04-12-01, Segrate, Juventus
+68, Larsson Coulibaly, CIV, M, 1.80, 72, 17-04-03, Yopougon, None
+70, Saná Fernandes, POR, F, 1.64, 57, 10-03-06, Bissau, Sporting CP
+77, Adam Marušić, SRB, D, 1.85, 85, 17-10-92, Belgrade, Oostende
+87, Cristiano Lombardi, ITA, F, 1.80, 75, 19-08-95, Viterbo, None
+94, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Spezia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Jean-Daniel Akpa Akpro, CIV, M, 1.80, 68, 11-10-92, Toulouse, Monza (On Loan)
+14, Marco Bertini, ITA, M, 1.85, 68, 07-08-02, Rome, SPAL (On Loan)
+31, Marius Adamonis, LTU, G, 1.91, 80, 13-05-97, Panevėžys, Perugia (On Loan)
+8, Marcos Antônio, BRA, M, 1.66, 63, 13-06-00, Poções, PAOK (On Loan)
+55, Alessio Furlanetto, ITA, G, 1.91, 79, 07-02-02, Motta di Livenza, Fermana (On Loan)
+93, Mohamed Fares, ALG, D, 1.83, 75, 15-02-96, Aubervilliers, Brescia (On Loan)
+26, Toma Bašić, CRO, M, 1.89, 80, 25-11-96, Zagreb, Salernitana (On Loan)
+16, Dimitrije Kamenović, SRB, D, 1.88, 80, 16-07-00, Pirot, Yverdon Sport (On Loan)

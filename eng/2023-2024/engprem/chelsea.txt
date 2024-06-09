@@ -1,0 +1,87 @@
+=  Chelsea - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robert Sánchez, ESP, G, 1.97, 90, 18-11-97, Cartagena, Brighton & HA
+2, Axel Disasi, FRA, D, 1.90, 86, 11-03-98, Gonesse, Monaco
+3, Marc Cucurella, ESP, D, 1.75, 69, 22-07-98, Alella, Brighton & HA
+5, Benoît Badiashile, FRA, D, 1.92, 75, 06-03-01, Limoges, Monaco
+6, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Paris St-Germain
+7, Raheem Sterling, ENG, F, 1.70, 69, 08-12-94, Kingston, Manchester C
+8, Enzo Fernández, ARG, M, 1.78, 78, 17-01-01, San Martín, Benfica
+10, Mykhaylo Mudryk, UKR, M, 1.75, 61, 05-01-01, Krasnohrad, Shakhtar Donetsk
+11, Noni Madueke, ENG, M, 1.82, 70, 10-03-02, Barnet, PSV Eindhoven
+13, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, Fulham
+14, Trevoh Chalobah, ENG, M, 1.90, 75, 05-07-99, Freetown, None
+15, Nicolas Jackson, SEN, F, 1.86, 78, 20-06-01, Dakar, Villarreal
+16, Lesley Ugochukwu, FRA, M, 1.88, 83, 26-03-04, Rennes, Rennes
+17, Carney Chukwuemeka, ENG, M, 1.82, 70, 20-10-03, Eisenstadt, Aston Villa
+18, Christopher Nkunku, FRA, F, 1.75, 70, 14-11-97, Lagny-sur-Marne, RB Leipzig
+20, Cole Palmer, ENG, F, 1.89, 74, 06-05-02, Wythenshawe, Manchester C
+21, Ben Chilwell, ENG, D, 1.78, 71, 21-12-96, Milton Keynes, Leicester C
+23, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, None
+24, Reece James, ENG, D, 1.83, 71, 08-12-99, Redbridge, None
+25, Moisés Caicedo, ECU, M, 1.78, 73, 02-11-01, Santo Domingo, Brighton & HA
+26, Levi Colwill, ENG, D, 1.87, 75, 26-02-03, Southampton, None
+27, Malo Gusto, FRA, D, 1.79, 76, 19-05-03, Décines-Charpieu, Lyon
+28, Djordje Petrović, SRB, G, 1.94, 89, 08-10-99, Požarevac, New England Revolution
+31, Cesare Casadei, ITA, M, 1.86, -, 10-01-03, Ravenna, Internazionale
+33, Wesley Fofana, FRA, D, 1.85, 76, 17-12-00, Marseille, Leicester C
+36, Deivid Washington, BRA, F, 1.86, 73, 05-06-05, Itumbiara, Santos
+38, Teddy Sharman-Lowe, ENG, G, 1.89, 73, 30-03-03, Leicester, Burton Alb
+40, Ted Curd, ENG, G, -, -, 14-02-06, Kingston upon Thames, None
+42, Alfie Gilchrist, ENG, D, -, -, 28-11-03, Kingston upon Thames, None
+43, Diego Moreira, POR, F, 1.79, 73, 06-08-04, Liège, Lyon (On Loan)
+44, Josh Brooking, ENG, D, -, -, 01-09-02, Reading, Reading
+45, Romeo Lavia, BEL, M, 1.81, 70, 06-01-04, Brussels, Southampton
+46, Zak Sturge, ENG, D, -, -, 15-06-04, Hillingdon, Brighton & HA
+49, Jimi Tauriainen, FIN, F, -, -, 09-03-04, Helsinki, HJK Helsinki
+50, Eddie Beach, WAL, G, -, -, 09-10-03, Lymington, Southampton
+51, Dylan Williams, ENG, D, -, -, 03-12-03, -, Derby Co
+53, Ishé Samuels-Smith, ENG, D, -, -, 05-06-06, Manchester, Everton
+54, Leo Castledine, ENG, M, -, -, 20-08-05, Kingston upon Thames, AFC Wimbledon
+55, Jimmy Jay-Morgan, ENG, F, -, -, 21-01-06, Poole, Southampton
+56, Billy Gee, ENG, F, -, -, 30-07-05, Tooting, None
+57, Brodi Hughes, ENG, D, -, -, 16-10-04, Winchester, None
+58, Richard Olise, ENG, D, -, -, 09-09-04, Hillingdon, None
+59, Samuel Rak-Sakyi, ENG, M, -, -, 27-03-05, Lambeth, None
+60, Max Merrick, ENG, G, -, -, 10-11-05, High Wycombe, None
+61, Zain Silcott Duberry, ENG, F, -, -, 09-07-05, Hackney, None
+62, Ronnie Stutter, ENG, F, -, -, 06-01-05, Hackney, None
+63, Josh-Kofi Acheampong, ENG, D, -, -, 05-05-06, Waltham Forest, None
+64, Travis Akomeah, ENG, D, -, -, 06-01-06, Islington, None
+65, Ato Ampah, GHA, F, -, -, 22-04-06, Accra, None
+66, Chinonso Chibueze, ENG, F, -, -, 28-01-06, Lewisham, None
+67, Tyrique George, ENG, F, -, -, 04-02-06, Camden, None
+68, Michael Golding, ENG, M, -, -, 23-05-06, Kingston upon Thames, None
+69, Noah Hay, ENG, D, -, -, 11-01-06, Westminster, None
+70, Luke Campbell, ENG, G, -, -, 27-11-05, Slough, None
+71, Donnell McNeilly, ENG, F, -, -, 30-10-05, Lewisham, None
+72, Harrison McMahon, ENG, M, -, -, 29-01-06, South Ockendon, None
+73, Harrison Murray-Campbell, ENG, D, -, -, 04-08-06, Luton, None
+74, Reiss Denny, ENG, M, -, -, 11-05-06, Reading, Nonr
+75, Kaiden Wilson, ENG, D, -, -, 02-09-05, Bristol, None
+76, Somto Boniface, ENG, D, -, -, 11-03-06, London, None
+77, Leo Cardoso, POR, M, -, -, 18-10-06, Aldama, None
+78, Kiano Dyer, ENG, M, -, -, 21-11-06, Birmingham, WBA
+79, Ollie Harrison, ENG, M, -, -, 07-08-07, Blaydon, Newcastle U
+80, Kai Crampton, ENG, G, -, -, 15-01-07, Watford, None
+81, Saheed Olagunju, ENG, D, -, -, 07-01-07, Greenwich, None
+82, Frankie Runham, ENG, M, -, -, 09-01-07, Eastbourne, None
+83, Shaun Wade, IRL, F, -, -, 29-09-06, Bristol, Bristol C
+84, Marcell Washington, ENG, D, -, -, 21-08-07, Cambridge, None
+85, Genesis Antwi, SWE, D, -, -, 11-05-07, Stockholm, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Kepa Arrizabalaga, ESP, G, 1.89, 84, 03-10-94, Ondarroa, Real Madrid (On Loan)
+31, Robert Sánchez, ESP, G, 1.97, 90, 18-11-97, Cartagena, Re-Registered (1)
+67, Lewis Hall, ENG, D, 1.79, 71, 08-09-04, Slough, Newcastle U (On Loan)
+42, Tino Anjorin, ENG, M, 1.85, 73, 23-11-01, Poole, Portsmouth (On Loan)
+37, Mason Burstow, ENG, F, 1.87, 85, 04-08-03, Greenwich, Sunderland (On Loan)
+48, Bashir Humphreys, ENG, D, 1.86, 79, 15-03-03, Exeter, Swansea C (On Loan)
+52, Alex Matos, ENG, F, -, -, 03-10-04, Bedford, Huddersfield T (On Loan)
+29, Ian Maatsen, NED, D, 1.67, 57, 10-03-02, Vlaardingen, Borussia Dortmund (On Loan)
+19, Armando Broja, ALB, F, 1.86, 74, 10-09-01, Slough, Fulham (On Loan)
+20, Andrey Santos, BRA, M, 1.76, 72, 03-05-04, Rio de Janeiro, Strasbourg (On Loan)
+47, Lucas Bergström, FIN, G, 1.99, 82, 05-09-02, Paragas, IF Brommapojkarna (On Loan)

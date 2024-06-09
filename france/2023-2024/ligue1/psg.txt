@@ -1,0 +1,51 @@
+=  Paris Saint-Germain - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Real Madrid
+2, Achraf Hakimi, MAR, D, 1.80, 69, 04-11-98, Madrid, Internazionale
+3, Presnel Kimpembe, FRA, D, 1.83, 67, 13-08-95, Beaumont-sur-Oise, None
+4, Manuel Ugarte, URU, M, 1.77, 70, 11-04-01, Montevideo, Sporting CP
+5, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, Roma
+7, Kylian Mbappé, FRA, F, 1.78, 67, 20-12-98, Paris, Monaco
+8, Fabián Ruiz, ESP, M, 1.89, 70, 03-04-96, Los Palacios y Villafranca, Napoli
+9, Gonçalo Ramos, POR, F, 1.84, 79, 20-06-01, Lisbon, Benfica
+10, Ousmane Dembélé, FRA, F, 1.78, 67, 15-05-97, Vernon, Barcelona
+11, Marco Asensio, ESP, F, 1.82, 76, 21-01-96, Palma de Mallorca, Real Madrid
+15, Danilo Pereira, POR, M, 1.87, 60, 09-09-91, Bissau, FC Porto
+16, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Sevilla
+17, Vitinha, POR, M, 1.72, 64, 13-02-00, Vila das Aves, FC Porto
+19, Lee Kang-In, KOR, M, 1.73, 61, 19-02-01, Incheon, Mallorca
+21, Lucas Hernández, FRA, D, 1.84, 76, 14-02-96, Marseille, Bayern Munich
+23, Randal Kolo Muani, FRA, F, 1.87, 73, 05-12-98, Bondy, Eintracht Frankfurt
+25, Nuno Mendes, POR, D, 1.84, 79, 19-06-02, Lisbon, Sporting CP
+26, Nordi Mukiele, FRA, D, 1.85, 74, 01-11-97, Montreuil, RB Leipzig
+28, Carlos Soler, ESP, M, 1.80, 76, 02-01-97, Valencia, Valencia
+29, Bradley Barcola, FRA, F, 1.82, 66, 02-09-02, Villeurbanne, Lyon
+30, Alexandre Letellier, FRA, G, 1.91, 81, 11-12-90, Paris, Orléans
+33, Warren Zaire-Emery, FRA, M, 1.78, 68, 08-03-06, Montreuil, None
+35, Lucas Beraldo, BRA, D, 1.82, 77, 24-11-03, Piracicaba, São Paulo
+36, Serif Nhaga, POR, D, 1.69, 66, 01-09-05, Bissau, FC Porto
+37, Milan Škriniar, SVK, D, 1.87, 80, 11-02-95, Žiar nad Hronom, Internazionale
+38, Ethan Mbappé, FRA, M, 1.76, 70, 29-12-06, Montreuil, None
+41, Senny Mayulu, FRA, M, 1.83, 69, 17-05-06, Le Blanc-Mesnil, None
+42, Yoram Zague, FRA, D, 1.68, 62, 15-05-06, Paris, None
+43, Kouakou Gadou, FRA, D, 1.95, 89, 17-01-07, Aubervilliers, None
+70, Louis Mouquet, POR, G, 1.87, 77, 21-07-04, Bayeux, None
+80, Arnau Tenas, ESP, G, 1.85, 75, 30-05-01, Vic, Barcelona B
+97, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, Monaco
+99, Gianluigi Donnarumma, ITA, G, 1.96, 90, 25-02-99, Castellammare di Stabia, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Al-Hilal [KSA]
+18, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Roma (On Loan)
+14, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Benfica (On Loan)
+29, Timothée Pembele, FRA, D, 1.84, 72, 09-09-02, Beaumont-sur-Oise, Sunderland
+35, Ismaël Gharbi, FRA, M, 1.73, 63, 10-04-04, Paris, Stade Lausanne Ouchy (On Loan)
+32, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, Re-Registered (97)
+6, Marco Verratti, ITA, M, 1.65, 60, 05-11-92, Pescara, Al-Arabi [QAT]
+34, Julian Draxler, GER, M, 1.83, 68, 20-09-93, Gladbeck, Al-Ahli [QAT]
+39, Ilyes Housni, FRA, F, 1.76, 65, 14-05-05, Créteil, Al-Sadd (On Loan)
+27, Cher Ndour, ITA, M, 1.90, 83, 27-07-04, Brescia, Sporting Braga (On Loan)
+44, Hugo Ekitike, FRA, F, 1.89, 70, 20-06-02, Reims, Eintracht Frankfurt (On Loan)

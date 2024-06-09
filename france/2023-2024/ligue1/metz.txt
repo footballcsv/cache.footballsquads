@@ -1,0 +1,44 @@
+=  Metz - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guillaume Dietsch, FRA, G, 1.85, 74, 17-04-01, Forbach, None
+2, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Birmingham C
+3, Matthieu Udol, FRA, D, 1.78, 75, 20-03-96, Metz, None
+5, Fali Candé, GNB, D, 1.84, 76, 24-01-98, Bissau, Portimonense
+6, Kévin Ndoram, FRA, M, 1.74, 60, 22-01-96, Saint-Sébastien-sur-Loire, Monaco
+7, Papa Amadou Diallo, SEN, M, 1.82, 67, 25-06-04, Saint-Louis, Génération Foot Dakar
+8, Ismaël Traoré, CIV, D, 1.85, 75, 18-08-86, Paris, Angers
+10, Georges Mikautadze, GEO, F, 1.76, 71, 31-10-00, Lyon, Ajax
+11, Didier Lamkel Zé, CMR, M, 1.93, 79, 17-09-96, Bertoua, Hatayspor
+12, Warren Tchimbembé, FRA, M, 1.80, 74, 21-04-98, Gonesse, Troyes
+14, Cheikh Tidiane Sabaly, SEN, M, 1.68, 56, 04-03-99, Kolda, Génération Foot Dakar
+15, Aboubacar Lô, SEN, D, 1.83, 76, 02-01-00, Dakar, Génération Foot Dakar
+16, Alexandre Oukidja, ALG, G, 1.85, 78, 19-07-88, Nevers, Strasbourg
+17, Benjamin Tetteh, GHA, F, 1.90, 83, 10-07-97, Accra, Hull C
+18, Lamine Camara, SEN, M, 1.73, 65, 01-01-04, Bignona, Génération Foot Dakar
+22, Kevin Van Den Kerkhof, ALG, D, 1.90, 80, 14-03-96, Saint-Saulve, Bastia
+25, Arthur Atta, FRA, M, 1.89, 77, 14-01-03, Rennes, None
+26, Malick Mbaye, SEN, F, 1.78, 70, 06-04-04, Dakar, Génération Foot Dakar
+27, Danley Jean Jacques, HAI, M, 1.75, 69, 20-05-00, Petit-Goâve, Don Bosco
+29, Christophe Hérelle, FRA, D, 1.88, 79, 22-08-92, Nice, Brest
+30, Marc-Aurèle Caillard, FRA, G, 1.91, 79, 12-05-94, Melun, Guingamp
+33, Albin Demouchy, FRA, D, 1.78, 68, 31-05-02, Dieppe, Quevilly-Rouen
+34, Joseph Nduquidi, FRA, M, 1.87, 74, 31-10-04, Metz, None
+36, Ablie Jallow, GAM, M, 1.66, 56, 14-11-98, Bundung, Génération Foot Dakar
+37, Ibou Sané, SEN, F, 1.80, 69, 28-03-05, Diégoune, Génération Foot Dakar
+38, Sadibou Sané, SEN, D, 1.85, 80, 10-06-04, Diouloulou, Génération Foot Dakar
+39, Koffi Kouao, CIV, D, 1.73, 65, 20-05-98, Abidjan, Vizela
+99, Joel Asoro, SWE, F, 1.75, 75, 27-04-99, Stockholm, Djurgårdens IF
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Sofiane Alakouch, MAR, D, 1.75, 61, 29-07-98, Nîmes, Paris FC (On Loan)
+10, Youssef Maziz, FRA, M, 1.75, 68, 24-06-98, Thionville, OH Leuven
+9, Georges Mikautadze, GEO, F, 1.76, 71, 31-10-00, Lyon, Ajax
+77, Vagner, CPV, F, 1.68, 69, 10-01-96, Mindelo, Radomiak Radom
+19, Habib Maïga, CIV, M, 1.81, 78, 01-01-96, Gagnoa, Ferencváros
+11, Simon Elisor, FRA, F, 1.86, 75, 22-07-99, Périgueux, Troyes (On Loan)
+20, Sami Lahssaini, BEL, M, 1.77, 72, 18-09-98, Liège, La Louvière (On Loan)
+9, Óscar Estupiñán, COL, F, 1.82, 76, 29-12-96, Cali, Hull C
+21, Jean N'Guessan, CIV, M, 1.77, 80, 17-04-03, Daloa, Al-Wasl

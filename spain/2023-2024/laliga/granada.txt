@@ -1,0 +1,56 @@
+=  Granada - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raúl, ESP, G, 1.96, 88, 13-03-88, Bilbao, Las Palmas
+2, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Corinthians
+3, Faitout Maouassa, FRA, D, 1.70, 74, 06-07-98, Villepinte, Club Brugge
+4, Miguel Rubio, ESP, D, 1.91, 86, 11-03-98, Leganés, Getafe
+5, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Real Madrid
+6, Martin Hongla, CMR, M, 1.81, 78, 16-03-98, Yaoundé, Verona
+7, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Elche
+8, Matías Arezo, URU, F, 1.78, 76, 21-11-02, Montevideo, River Plate [URU]
+9, José Callejón, ESP, F, 1.79, 73, 11-02-87, Motril, Fiorentina
+10, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería
+11, Myrto Uzuni, ALB, M, 1.78, 72, 31-05-95, Berat, Ferencváros
+12, Ricard Sánchez, ESP, D, 1.75, 70, 22-02-00, Sant Jaume dels Domenys, Atlético Madrid B
+13, Marc Martínez, ESP, G, 1.85, 74, 04-04-90, Barcelona, Cartagena
+14, Ignasi Miquel, ESP, D, 1.88, 82, 28-09-92, Corbera de Llobregat, Getafe
+15, Carlos Neva, ESP, D, 1.74, 64, 12-06-96, El Puerto de Santa María, Marbella
+16, Víctor Díaz, ESP, D, 1.83, 69, 12-06-88, Huelva, Leganés
+17, Theo Corbeanu, CAN, F, 1.87, 76, 17-05-02, Burlington, Wolverhampton W
+18, Kamil Jóźwiak, POL, M, 1.76, 70, 22-04-98, Międzyrzecz, Charlotte FC
+19, Facundo Pellistri, URU, M, 1.74, 65, 20-12-01, Montevideo, Manchester U
+20, Sergio Ruiz, ESP, M, 1.71, 70, 16-12-94, El Astillero, Charlotte FC
+21, Óscar Melendo, ESP, M, 1.67, 63, 23-08-97, Barcelona, Espanyol
+22, Kamil Piątkowski, POL, D, 1.91, 81, 21-06-00, Jasło, Red Bull Salzburg
+23, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Elche
+24, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Roma
+25, Augusto Batalla, ARG, G, 1.85, 79, 30-04-96, Florencio Varela, River Plate
+26, Sergio Rodelas, ESP, F, -, -, 01-12-04, Granada, Granada B
+27, Mario González, ESP, M, 1.75, 61, 05-02-04, Málaga, Granada B
+28, Raúl Torrente, ESP, M, 1.93, 79, 01-03-01, Murcia, Granada B
+31, Adrián López, ESP, G, 1.85, 73, 09-01-99, Barcelona, Hércules
+32, Miki Bosch, ESP, D, 1.90, 78, 09-06-01, Alginet, Valencia B
+33, Pablo Sáenz, ESP, F, -, -, 22-05-01, San Adrián, Calahorra
+34, Pol Tristán, ESP, G, 1.88, 73, 18-03-02, Barcelona, Algeciras
+35, Fran Árbol, ESP, G, 1.85, 70, 30-06-06, Granada, Granada B
+36, Lassina Sangaré, CIV, M, 1.83, 77, 20-11-01, Séguéla, Talavera
+37, Eghosa Bello, NGA, F, 2.00, 90, 17-03-04, Benin City, Granada B
+39, Miguel Brau, ESP, D, 1.83, 76, 27-12-01, Cartagena, Granada B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Víctor Meseguer, ESP, M, 1.84, 81, 09-06-99, Murcia, Valladolid (On Loan)
+29, Samu Omorodion, ESP, F, 1.93, 80, 05-05-04, Melilla, Atlético Madrid B
+2, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Lugo
+7, Alberto Soro, ESP, M, 1.73, 63, 09-03-99, Ejea de los Caballeros, Vizela (On Loan)
+6, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Tenerife
+22, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Anorthosis Famagusta
+33, Álvaro Fernández, ESP, D, -, -, 23-03-03, El Ferrol, Manchester U
+18, Njegoš Petrović, SRB, M, 1.85, 72, 18-07-99, Krupanj, Vojvodina (On Loan)
+3, Wilson Manafá, BRA, D, 1.74, 69, 23-07-94, Oliveira do Bairro, Shanghai Shenhua
+13, André Ferreira, POR, G, 1.93, 79, 29-05-96, Vila Nova de Gaia, Valladolid (On Loan)
+19, Famara Diédhiou, SEN, F, 1.89, 80, 15-12-92, Saint-Louis, Cardiff C (On Loan)
+17, Shon Weissman, ISR, F, 1.74, 69, 14-02-96, Haifa, Salernitana (On Loan)
+26, Bryan Zaragoza, ESP, F, 1.64, 61, 09-09-01, Málaga, Bayern Munich (On Loan)

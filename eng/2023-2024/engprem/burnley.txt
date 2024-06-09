@@ -1,0 +1,48 @@
+=  Burnley - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, James Trafford, ENG, G, 1.97, 83, 10-10-02, Carlisle, Manchester C
+2, Dara O'Shea, IRL, D, 1.85, 65, 04-03-99, Dublin, WBA
+3, Charlie Taylor, ENG, D, 1.75, 70, 18-09-93, York, Leeds U
+4, Jack Cork, ENG, M, 1.85, 69, 25-06-89, Carshalton, Swansea C
+5, Jordan Beyer, GER, D, 1.87, 80, 19-05-00, Kempen, B Mönchengladbach
+7, Jóhann Guðmundsson, ISL, M, 1.86, 79, 27-10-90, Reykjavík, Charlton Ath
+8, Josh Brownhill, ENG, M, 1.79, 69, 19-12-95, Warrington, Bristol C
+9, Jay Rodriguez, ENG, F, 1.85, 80, 29-07-89, Burnley, WBA
+10, Manuel Benson, BEL, F, 1.78, 68, 28-03-97, Lokeren, Royal Antwerp
+15, Nathan Redmond, ENG, M, 1.73, 69, 06-03-94, Birmingham, Beşiktaş
+16, Sander Berge, NOR, M, 1.90, 88, 18-02-98, Bærum, Sheffield U
+17, Lyle Foster, RSA, F, 1.85, 75, 03-09-00, Soweto, KVC Westerlo
+18, Hjalmar Ekdal, SWE, D, 1.87, 76, 21-10-98, Stockholm, Djurgårdens IF
+20, Lorenz Assignon, FRA, D, 1.81, 76, 22-06-00, Grasse, Rennes
+21, Aaron Ramsey, ENG, M, -, -, 21-01-03, Birmingham, Aston Villa
+22, Vitinho, BRA, D, 1.75, 72, 23-07-99, Belo Horizonte, Cercle Brugge
+23, Datro Fofana, CIV, F, 1.81, 82, 22-12-02, Ouragahio, Chelsea
+24, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, Anderlecht
+25, Zeki Amdouni, SUI, F, 1.85, 79, 04-12-00, Geneva, Basel
+28, Ameen Al-Dakhil, BEL, D, 1.87, 70, 06-03-02, Baghdad, Sint-Truiden
+29, Lawrence Vigouroux, CHI, G, 1.94, 77, 19-11-93, Camden Town, Leyton Orient
+30, Luca Koleosho, USA, M, 1.75, 68, 15-09-04, Norwalk, Espanyol B
+31, Mike Trésor Ndayishimiye, NED, M, 1.73, 69, 28-05-99, Lembeek, KRC Genk
+33, Maxime Estève, FRA, D, 1.93, 87, 26-05-02, Montpellier, Montpellier
+34, Jacob Bruun Larsen, DEN, F, 1.83, 74, 19-09-98, Lyngby, 1899 Hoffenheim
+42, Han-Noah Massengo, FRA, M, 1.77, 66, 07-07-01, Villepinte, Bristol C
+44, Hannes Delcroix, BEL, D, 1.85, 75, 28-02-99, Grande Hatte, Anderlecht
+47, Wilson Odobert, FRA, F, -, -, 28-11-04, Meaux, Troyes
+48, Enock Agyei, BEL, F, 1.72, 66, 13-01-05, -, Anderlecht
+49, Arijanet Murić, KVX, G, 1.97, 81, 07-11-98, Zürich, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Wout Weghorst, NED, F, 1.97, 82, 07-08-92, Borne, 1899 Hoffenheim (On Loan)
+26, Samuel Bastien, COD, M, 1.75, 70, 26-09-96, Meux, Kasımpaşa (On Loan)
+44, Dara Costelloe, IRL, F, 1.75, 64, 11-12-02, Limerick, Dundee (On Loan)
+11, Scott Twine, ENG, F, 1.74, 69, 14-07-99, Swindon, Bristol C (On Loan)
+39, Owen Dodgson, ENG, D, 1.78, 66, 19-03-03, Lancaster, Dundee (On Loan)
+27, Darko Churlinov, MKD, M, 1.80, 75, 11-07-00, Skopje, Schalke (On Loan)
+45, Michael Obafemi, IRL, F, 1.69, 71, 06-07-00, Dublin, Millwall (On Loan)
+20, Denis Franchi, ITA, G, 1.89, 71, 22-10-02, San Vito al Tagliamento, Ternana
+6, CJ Egan-Riley, ENG, D, 1.83, 70, 02-01-03, Manchester, Jong PSV (On Loan)
+14, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, Leeds U (On Loan)
+19, Anass Zaroury, MAR, F, 1.76, 72, 07-11-00, Mechelen, Hull C (On Loan)

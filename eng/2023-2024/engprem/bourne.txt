@@ -1,0 +1,47 @@
+=  Bournemouth - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Neto, BRA, G, 1.90, 84, 19-07-89, Araxá, Barcelona
+2, Ryan Fredericks, ENG, D, 1.73, 72, 10-10-92, Potters Bar, West Ham U
+3, Milos Kerkez, HUN, D, 1.76, 71, 07-11-03, Vrbas, AZ Alkmaar
+4, Lewis Cook, ENG, M, 1.75, 71, 03-02-97, Leeds, Leeds U
+5, Lloyd Kelly, ENG, D, 1.78, 70, 01-10-98, Bristol, Bristol C
+6, Chris Mepham, WAL, D, 1.91, 75, 05-11-97, Hammersmith, Brentford
+8, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Lyon
+9, Dominic Solanke, ENG, F, 1.87, 80, 14-09-97, Reading, Liverpool
+10, Ryan Christie, SCO, M, 1.78, 70, 22-02-95, Inverness, Celtic
+11, Dango Ouattara, BFA, F, 1.77, 71, 11-02-02, Ouagadougou, Lorient
+12, Darren Randolph, IRL, G, 1.88, 98, 12-05-87, Dublin, West Ham U
+14, Alex Scott, ENG, M, 1.78, 68, 21-08-03, Guernsey, Bristol C
+15, Adam Smith, ENG, D, 1.80, 78, 29-04-91, Leytonstone, Tottenham H
+16, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, Middlesbrough
+17, Luis Sinisterra, COL, M, 1.72, 60, 17-06-99, Santader de Quilichao, Leeds U
+18, Tyler Adams, USA, M, 1.75, 68, 14-02-99, Wappingers Falls, Leeds U
+19, Justin Kluivert, NED, F, 1.71, 67, 05-05-99, Amsterdam, Roma
+20, Ionuţ Andrei Radu, ROU, G, 1.88, 80, 28-05-97, Bucharest, Internazionale
+23, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, Fleetwood T
+24, Antoine Semenyo, GHA, F, 1.78, 63, 07-01-00, Chelsea, Bristol C
+25, Marcos Senesi, ARG, D, 1.85, 75, 10-05-97, Concordia, Feyenoord
+26, Enes Ünal, TUR, F, 1.85, 75, 10-05-97, Bursa, Getafe
+27, Illya Zabarnyi, UKR, D, 1.86, 80, 01-09-02, Kyiv, Dynamo Kyiv
+29, Philip Billing, DEN, M, 1.93, 80, 11-06-96, Copenhagen, Huddersfield T
+37, Max Aarons, ENG, D, 1.76, 69, 04-01-00, Hammersmith, Norwich C
+42, Mark Travers, IRL, G, 1.91, 82, 18-05-99, Maynooth, Shamrock R
+45, Cameron Plain, ENG, G, -, -, 28-11-02, Winchester, None
+46, Callan McKenna, SCO, G, -, -, 22-12-06, Rutherglen, Queen's Park
+48, Max Kinsey-Wellings, ENG, D, -, -, 02-02-05, -, Southampton
+49, Dominic Sadi, ENG, M, -, -, 02-09-03, Enfield, Wingate & Finchley
+50, Michael Dacosta Gonzalez, ESP, F, -, -, 05-03-05, Alicante, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Jaidon Anthony, ENG, F, 1.83, 68, 01-12-99, Hackney, Leeds U (On Loan)
+8, Joe Rothwell, ENG, M, 1.85, 77, 11-01-95, Manchester, Southampton (On Loan)
+22, Hamed Junior Traoré, CIV, M, 1.84, 77, 16-02-00, Abidjan, Napoli (On Loan)
+13, Emiliano Marcondes, DEN, M, 1.83, 75, 09-03-95, Hvidovre, Hibernian (On Loan)
+7, David Brooks, WAL, M, 1.66, 62, 08-07-97, Warrington, Southampton (On Loan)
+21, Kieffer Moore, WAL, F, 1.95, 83, 08-08-92, Torquay, Ipswich T (On Loan)
+26, Gavin Kilkenny, IRL, M, 1.70, 64, 01-02-00, Dublin, Fleetwood T (On Loan)
+43, Ben Greenwood, ENG, D, -, -, 20-02-03, Frimley, Eastleigh (On Loan)
+51, Daniel Adu-Adjei, ENG, F, -, -, 21-06-05, Hammersmith, Leyton Orient (On Loan)

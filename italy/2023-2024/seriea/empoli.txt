@@ -1,0 +1,54 @@
+=  Empoli - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samuele Perisan, ITA, G, 1.93, 86, 21-08-97, San Vito al Tagliamento, Pordenone
+2, Saba Goglichidze, GEO, D, 1.82, 75, 25-06-04, Kutaisi, Torpedo Kutaisi
+3, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Parma
+4, Sebastian Walukiewicz, POL, D, 1.88, 85, 05-04-00, Gorzów Wielkopolski, Cagliari
+5, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Parma
+7, Stiven Shpendi, ALB, F, 1.81, 74, 19-05-03, Ancona, Cesena
+8, Viktor Kovalenko, UKR, M, 1.82, 75, 14-02-96, Kherson, Atalanta
+9, Francesco Caputo, ITA, F, 1.81, 77, 06-08-87, Altamura, Sampdoria
+10, Mbaye Niang, SEN, F, 1.84, 78, 19-12-94, Meulan-en-Yvelines, Adana Demirspor
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Spezia
+12, Jacopo Seghetti, ITA, G, 1.80, -, 17-02-05, San Miniato, None
+13, Liberato Cacace, NZL, D, 1.70, 66, 27-09-00, Wellington, Sint-Truiden
+16, Luca Belardinelli, ITA, M, 1.85, 85, 14-03-01, Senigallia, None
+17, Alberto Cerri, ITA, F, 1.93, 91, 16-04-96, Parma, Como
+18, Răzvan Marin, ROU, M, 1.78, 75, 23-05-96, Bucharest, Cagliari
+19, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Sampdoria
+20, Matteo Cancellieri, ITA, F, 1.80, 79, 12-02-02, Rome, Verona
+21, Jacopo Fazzini, ITA, M, 1.78, 62, 16-03-03, Massa, Capezzano Pianore
+23, Mattia Destro, ITA, F, 1.82, 80, 20-03-91, Ascoli Piceno, Genoa
+24, Tyronne Ebuehi, NGA, D, 1.87, 76, 16-12-95, Haarlem, Benfica
+25, Elia Caprile, ITA, G, 1.91, 74, 25-08-01, Verona, Napoli
+27, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Spezia
+28, Nicolò Cambiaghi, ITA, F, 1.73, 65, 28-12-00, Monza, Atalanta
+29, Youssef Maleh, ITA, M, 1.77, 70, 22-08-98, Castel San Pietro Terme, Lecce
+30, Simone Bastoni, ITA, D, 1.81, 74, 05-11-96, La Spezia, Spezia
+31, Giacomo Corona, ITA, F, 1.95, 83, 24-02-04, Palermo, Palermo
+33, Sebastiano Luperto, ITA, D, 1.91, 75, 06-09-96, Lecce, Napoli
+34, Ardian Ismajli, ALB, D, 1.85, 80, 30-09-96, Majac, Spezia
+38, Gabriele Indragoli, ITA, D, 1.88, 77, 20-02-04, Camaiore, None
+39, Andrea Sodero, ITA, M, -, -, 07-08-04, Arezzo, None
+40, Filippo Vertua, ITA, G, 1.92, 77, 05-11-06, -, None
+87, Herculano Nabian, POR, F, 1.82, 81, 25-01-04, Bissau, Vitória Guimarães
+99, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Petar Stojanović, SVN, D, 1.78, 72, 07-10-95, Ljubljana, Sampdoria (On Loan)
+10, Liam Henderson, SCO, M, 1.83, 67, 25-04-96, Livingston, Palermo (On Loan)
+91, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Atalanta
+31, Luca Marianucci, ITA, D, -, -, 23-07-04, Livorno, Pro Sesto (On Loan)
+44, Lorenzo Ignacchiti, ITA, M, -, -, 25-04-04, Pisa, Pontedera (On Loan)
+92, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Lecco (On Loan)
+32, Nicolas Haas, SUI, M, 1.81, 74, 23-01-96, Sursee, Luzern (On Loan)
+17, Emmanuel Ekong, SWE, F, 1.76, 74, 25-06-02, Reggio Emilia, Istra 1961 (On Loan)
+40, Lovro Štubljar, SVN, G, 1.92, 84, 09-08-04, Novo Mesto, Domžale (On Loan)
+27, Daniel Maldini, ITA, F, 1.81, 74, 11-10-01, Milan, Milan
+22, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, Juventus
+14, Gabriele Guarino, ITA, D, 1.93, 86, 14-04-04, Molfetta, Modena (On Loan)
+35, Tommaso Baldanzi, ITA, F, 1.70, 68, 23-03-03, Poggibonsi, Roma
+37, Iwo Kaczmarski, POL, M, 1.83, 73, 16-04-04, Kielce, Miedź Legnica (On Loan)

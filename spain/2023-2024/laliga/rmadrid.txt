@@ -1,0 +1,47 @@
+=  Real Madrid - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thibaut Courtois, BEL, G, 1.99, 94, 11-05-92, Bree, Chelsea
+2, Daniel Carvajal, ESP, D, 1.73, 74, 11-01-92, Leganés, Bayer Leverkusen
+3, Éder Militão, BRA, D, 1.86, 79, 18-01-98, Sertãozinho, FC Porto
+4, David Alaba, AUT, D, 1.75, 70, 24-06-92, Vienna, Bayern Munich
+5, Jude Bellingham, ENG, M, 1.80, 70, 29-06-03, Stourbridge, Borussia Dortmund
+6, Nacho Fernández, ESP, D, 1.80, 76, 18-01-90, Madrid, Real Madrid B
+7, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, Flamengo
+8, Toni Kroos, GER, M, 1.83, 76, 04-01-90, Greifswald, Bayern Munich
+10, Luka Modrić, CRO, M, 1.72, 66, 09-09-85, Zadar, Tottenham H
+11, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, Santos
+12, Eduardo Camavinga, FRA, M, 1.82, 68, 10-11-02, Miconje, Rennes
+13, Andriy Lunin, UKR, G, 1.91, 80, 11-02-99, Krasnohrad, Zorya Luhansk
+14, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Espanyol
+15, Federico Valverde, URU, M, 1.81, 76, 22-07-98, Montevideo, Peñarol
+17, Lucas Vázquez, ESP, M, 1.73, 71, 01-07-91, Curtis, Espanyol
+18, Aurélien Tchouaméni, FRA, M, 1.85, 75, 27-01-00, Rouen, Monaco
+19, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Betis
+20, Fran García, ESP, D, 1.67, 61, 14-08-99, Bolaños de Calatrava, Rayo Vallecano
+21, Brahim Díaz, MAR, F, 1.71, 59, 03-08-99, Málaga, Manchester C
+22, Antonio Rüdiger, GER, D, 1.90, 85, 03-03-93, Berlin, Chelsea
+23, Ferland Mendy, FRA, D, 1.78, 73, 08-06-95, Meulan, Lyon
+24, Arda Güler, TUR, M, 1.75, 70, 25-02-05, Ankara, Fenerbahçe
+25, Kepa Arrizabalaga, ESP, G, 1.89, 84, 03-10-94, Ondarroa, Chelsea
+26, Diego Piñeiro, ESP, G, 1.83, 69, 13-02-04, Madrid, Real Madrid B
+27, Rafael Obrador, ESP, D, 1.81, 72, 24-02-04, Campos, Mallorca B
+28, Mario Martín, ESP, M, 1.77, 60, 05-03-04, Sonseca, Real Madrid B
+29, Álvaro Rodríguez, URU, F, 1.92, 79, 14-07-04, Palamós, Real Madrid B
+30, Fran González, ESP, G, 1.99, 80, 24-06-05, León, Cultural Leonesa
+31, Lucas Cañizares, ESP, G, 1.86, 81, 10-05-02, Valencia, Real Madrid B
+32, Nico Paz, ARG, M, 1.76, 64, 08-09-04, Santa Cruz de Tenerife, Real Madrid B
+33, Gonzalo García, ESP, F, 1.82, 74, 24-03-04, Madrid, Real Madrid B
+34, Álvaro Carrillo, ESP, D, 1.80, 69, 06-04-02, Murcia, Real Madrid B
+35, Marvel, MAR, D, 1.84, 75, 07-01-03, Casablanca, Real Madrid B
+36, Vinícius Tobías, BRA, D, 1.75, 66, 23-02-04, São Paulo, Shakhtar Donetsk
+37, Edgar Pujol, DOM, D, 1.77, 70, 07-08-04, Sabadell, Real Madrid B
+38, Théo Zidane, FRA, M, 1.96, 74, 18-05-02, Marseille, Real Madrid B
+39, Mario de Luis, ESP, G, 1.84, 75, 05-06-02, Madrid, Rayo Vallecano B
+40, Raúl Asencio, ESP, D, 1.84, 79, 13-02-03, Las Palmas, Real Madrid B
+41, Jacobo Ramón, ESP, D, 1.88, 80, 06-01-05, Madrid, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Álvaro Odriozola, ESP, D, 1.76, 60, 14-12-95, San Sebastián, Real Sociedad

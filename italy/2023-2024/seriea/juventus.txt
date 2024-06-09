@@ -1,0 +1,46 @@
+=  Juventus - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wojciech Szczęsny, POL, G, 1.95, 90, 18-04-90, Warsaw, Arsenal
+2, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Milan
+3, Bremer, BRA, D, 1.88, 82, 18-03-97, Itapitanga, Torino
+4, Federico Gatti, ITA, D, 1.85, 78, 24-06-98, Rivoli, Frosinone
+5, Manuel Locatelli, ITA, M, 1.80, 70, 08-01-98, Lecco, Sassuolo
+6, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, Manchester C
+7, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, Fiorentina
+9, Dušan Vlahović, SRB, F, 1.90, 75, 28-01-00, Belgrade, Fiorentina
+10, Paul Pogba, FRA, M, 1.91, 84, 15-03-93, Lagny-sur-Marne, Manchester U
+11, Filip Kostić, SRB, M, 1.80, 68, 01-11-92, Kragujevac, Eintracht Frankfurt
+12, Alex Sandro, BRA, D, 1.81, 81, 26-01-91, Catanduva, FC Porto
+14, Arkadiusz Milik, POL, F, 1.86, 78, 28-02-94, Tychy, Marseille
+15, Kenan Yıldız, TUR, F, 1.85, 78, 04-05-05, Regensburg, Bayern Munich
+16, Weston McKennie, USA, M, 1.78, 75, 28-08-98, Little Elm, Schalke
+17, Samuel Iling-Junior, ENG, F, 1.82, 71, 04-10-03, Islington, Chelsea
+18, Moise Kean, ITA, F, 1.83, 67, 28-02-00, Vercelli, Everton
+20, Fabio Miretti, ITA, M, 1.79, 65, 03-08-03, Pinerolo, None
+21, Nicolò Fagioli, ITA, M, 1.78, 66, 12-02-01, Piacenza, Cremonese
+22, Timothy Weah, USA, F, 1.85, 66, 22-02-00, New York, Lille
+23, Carlo Pinsoglio, ITA, G, 1.94, 85, 16-03-90, Moncalieri, Vicenza
+24, Daniele Rugani, ITA, D, 1.90, 84, 29-07-94, Lucca, Empoli
+25, Adrien Rabiot, FRA, M, 1.88, 71, 03-04-95, Saint-Maurice, Paris St-Germain
+26, Carlos Alcaraz, ARG, M, 1.76, 68, 30-11-02, La Plata, Southampton
+27, Andrea Cambiaso, ITA, D, 1.81, 73, 20-02-00, Genoa, Genoa
+33, Tiago Djaló, POR, D, 1.90, 85, 09-04-00, Amadora, Lille
+36, Mattia Perin, ITA, G, 1.88, 85, 10-11-92, Latina, Genoa
+38, Giovanni Daffara, ITA, G, 1.84, 68, 05-12-04, Biella, None
+39, Nikola Sekulov, ITA, M, 1.81, 71, 18-02-02, Piacenza, Pro Piacenza
+40, Tommaso Mancini, ITA, F, 1.90, 78, 23-07-04, Vicenza, Vicenza
+41, Hans Nicolussi Caviglia, ITA, M, 1.81, 71, 18-06-00, Aosta, None
+42, Giovanni Garofani, ITA, G, 1.88, 65, 20-10-02, Rome, Tor Tre Teste
+45, Leonardo Cerri, ITA, F, 1.98, 75, 04-03-03, Rome, Pescara
+47, Joseph Nonge, BEL, M, 1.84, 72, 15-05-05, Brussels, Anderlecht
+49, Simone Scaglia, ITA, G, 1.96, 76, 12-07-04, Turin, None
+50, Luis Hasa, ITA, M, 1.72, 60, 06-01-04, Sora, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Matías Soulé, ARG, F, 1.76, 71, 15-04-03, Mar del Plata, Frosinone (On Loan)
+26, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, Frosinone (On Loan)
+13, Dean Huijsen, NED, D, 1.95, 84, 14-04-05, Amsterdam, Roma (On Loan)
+43, Gian Marco Crespi, ITA, G, 1.89, 75, 28-06-01, Udine, Spezia

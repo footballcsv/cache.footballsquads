@@ -1,0 +1,51 @@
+=  Real Sociedad - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Remiro, ESP, G, 1.91, 80, 24-03-95, Cascante, Athletic Bilbao
+2, Álvaro Odriozola, ESP, D, 1.76, 60, 14-12-95, San Sebastián, Real Madrid
+3, Aihen Muñoz, ESP, D, 1.75, 72, 16-08-97, Etxauri, Real Sociedad B
+4, Martín Zubimendi, ESP, M, 1.80, 74, 02-02-99, San Sebastián, Real Sociedad B
+5, Igor Zubeldia, ESP, D, 1.80, 79, 30-03-97, Azkoitia, Real Sociedad B
+6, Aritz Elustondo, ESP, D, 1.80, 71, 28-03-94, Beasain, Real Sociedad B
+7, Ander Barrenetxea, ESP, F, 1.78, 65, 27-12-01, San Sebastián, Real Sociedad B
+8, Mikel Merino, ESP, M, 1.88, 78, 22-06-96, Pamplona, Newcastle U
+9, Carlos Fernández, ESP, F, 1.86, 72, 22-05-96, Seville, Sevilla
+10, Mikel Oyarzabal, ESP, M, 1.81, 78, 21-04-97, Eibar, Real Sociedad B
+11, Sheraldo Becker, NED, F, 1.80, 72, 09-02-95, Amsterdam, Union Berlin
+12, Arsen Zakharyan, RUS, M, 1.80, 68, 26-05-03, Samara, Dynamo Moscow
+13, Unai Marrero, ESP, G, 1.89, 82, 09-10-01, San Sebastián, Real Sociedad B
+14, Takefusa Kubo, JPN, M, 1.70, 63, 04-06-01, Kawasaki, Real Madrid
+15, Urko González de Zárate, ESP, D, 1.86, 71, 20-03-01, Vitoria-Gasteiz, Real Sociedad B
+16, Jon Ander Olasagasti, ESP, M, 1.76, 74, 16-08-00, San Sebastián, Real Sociedad B
+17, Kieran Tierney, SCO, D, 1.78, 70, 05-06-97, Douglas, Arsenal
+18, Hamary Traoré, MLI, D, 1.75, 64, 27-01-92, Bamako, Rennes
+19, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, Almería
+20, Jon Pacheco, ESP, D, 1.84, 77, 08-01-01, Elizondo, Real Sociedad B
+21, André Silva, POR, F, 1.85, 75, 06-11-95, Baguim do Monte, RB Leipzig
+22, Beñat Turrientes, ESP, M, 1.79, 68, 31-01-02, Beasain, Real Sociedad B
+23, Brais Méndez, ESP, F, 1.87, 78, 07-01-97, Mos, Celta Vigo
+24, Robin Le Normand, FRA, D, 1.87, 80, 11-11-96, Pabu, Brest
+25, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Atlético Madrid
+28, Jon Magunazelaia, ESP, M, 1.72, 70, 13-07-01, Eibar, Real Sociedad B
+29, Pablo Marín, ESP, M, 1.78, 73, 03-07-03, Logroño, Real Sociedad B
+30, Gaizka Ayesa, ESP, G, 1.90, 80, 02-04-01, Ansoáin, Real Sociedad B
+33, Eneko Astigarraga, ESP, D, -, -, 08-01-04, San Sebastián, Real Sociedad B
+34, Jon Gorrotxategi, ESP, M, -, -, 02-02-02, Eibar, Real Sociedad B
+35, Alex Lebarbier, FRA, M, -, -, 23-08-04, Paris, Real Sociedad B
+36, Jon Martín, ESP, D, 1.85, 79, 23-04-06, San Sebastián, Real Sociedad B
+37, Aitor Fraga, ESP, G, 1.94, 87, 09-03-03, Hernani, Real Sociedad B
+38, Alberto Dadie, ESP, M, 1.70, 66, 20-07-02, San Sebastián, Real Sociedad B
+39, Jon Mikel Aramburu, VEN, D, 1.76, 71, 23-07-02, Caracas, Real Unión
+40, Bryan Fiabema, NOR, F, 1.79, 73, 16-02-03, Tromsø, Chelsea
+41, Iñaki Rupérez, ESP, D, -, -, 07-01-03, Ansoáin, Real Sociedad B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Álex Sola, ESP, D, 1.78, 75, 09-06-99, San Sebastián, Alavés (On Loan)
+15, Diego Rico, ESP, D, 1.83, 76, 23-02-93, Burgos, Getafe (On Loan)
+17, Robert Navarro, ESP, M, 1.78, 65, 12-04-02, Barcelona, Cádiz (On Loan)
+26, Urko González de Zárate, ESP, D, 1.86, 71, 20-03-01, Vitoria-Gasteiz, Re-Registered (15)
+32, Unai Marrero, ESP, G, 1.89, 82, 09-10-01, San Sebastián, Re-Registered (13)
+27, Jon Karrikaburu, ESP, F, 1.83, 82, 19-09-02, Elizondo, Andorra (On Loan)
+11, Mohamed-Ali Cho, FRA, F, 1.82, 65, 19-01-04, Stains, Nice

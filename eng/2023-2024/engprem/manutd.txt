@@ -1,0 +1,101 @@
+=  Manchester United - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Altay Bayındır, TUR, G, 1.98, 89, 14-04-98, Osmangazi, Fenerbahçe
+2, Victor Lindelöf, SWE, D, 1.87, 82, 17-07-94, Västerås, Benfica
+4, Sofyan Amrabat, MAR, M, 1.83, 70, 21-08-96, Huizen, Fiorentina
+5, Harry Maguire, ENG, D, 1.88, 79, 05-03-93, Sheffield, Leicester C
+6, Lisandro Martínez, ARG, D, 1.78, 77, 18-01-98, Gualeguay, Ajax
+7, Mason Mount, ENG, M, 1.78, 64, 10-01-99, Portsmouth, Chelsea
+8, Bruno Fernandes, POR, M, 1.79, 75, 08-09-94, Maia, Sporting CP
+9, Anthony Martial, FRA, F, 1.81, 76, 05-12-95, Massy, Monaco
+10, Marcus Rashford, ENG, F, 1.80, 70, 31-10-97, Manchester, None
+11, Rasmus Højlund, DEN, F, 1.92, 85, 04-02-03, Copenhagen, Atalanta
+12, Tyrell Malacia, NED, D, 1.69, 67, 17-08-99, Rotterdam, Feyenoord
+14, Christian Eriksen, DEN, M, 1.82, 76, 14-02-92, Middelfart, Brentford
+16, Amad Diallo, CIV, M, 1.73, 70, 11-07-02, Abidjan, Atalanta
+17, Alejandro Garnacho, ARG, F, 1.80, 80, 01-07-04, Madrid, Atlético Madrid
+18, Casemiro, BRA, M, 1.85, 84, 23-02-92, São José dos Campos, Real Madrid
+19, Raphaël Varane, FRA, D, 1.91, 81, 25-04-93, Lille, Real Madrid
+20, Diogo Dalot, POR, D, 1.84, 75, 18-03-99, Braga, FC Porto
+21, Antony, BRA, F, 1.72, 63, 24-02-00, Osasco, Ajax
+22, Thomas Heaton, ENG, G, 1.88, 85, 15-04-86, Chester, Aston Villa
+23, Luke Shaw, ENG, D, 1.85, 75, 12-07-95, Kingston upon Thames, Southampton
+24, André Onana, CMR, G, 1.90, 82, 02-04-96, Nkol Ngok, Internazionale
+29, Aaron Wan-Bissaka, ENG, D, 1.83, 72, 26-11-97, Croydon, Crystal Palace
+35, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, Leicester C
+36, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Hull C
+37, Kobbie Mainoo, ENG, M, -, -, 19-04-05, Stockport, None
+39, Scott McTominay, SCO, M, 1.78, 65, 08-12-96, Lancaster, None
+45, Dermot Mee, NIR, G, -, -, 20-11-02, Birmingham, None
+47, Shola Shoretire, ENG, F, -, -, 02-02-04, Newcastle upon Tyne, Newcastle U
+50, Elyh Harrison, ENG, G, -, -, 19-02-06, Redbridge, Stevenage
+53, Willy Kambwala, FRA, D, 1.92, 76, 25-08-04, Kinshasa, Sochaux
+55, Tyler Fredricson, ENG, D, -, -, 23-02-05, Stockport, None
+56, Charlie McNeill, ENG, F, -, -, 09-09-03, Droylsden, Manchester C
+58, Kie Plumley, ENG, G, -, -, 21-05-03, -, Oxford U
+60, Cameron Byrne-Hughes, WAL, G, -, -, 02-11-07, -, None
+62, Omari Forson, ENG, M, -, -, 20-07-04, -, Tottenham H
+63, Ethan Ennis, ENG, M, -, -, 11-12-04, -, Liverpool
+64, Bendito Mantato, ENG, M, -, -, 25-01-08, -, None
+65, Toby Collyer, ENG, M, -, -, 03-01-04, Worthing, Brighton & HA
+70, Harry Amass, ENG, D, -, -, 16-05-07, -, Watford
+71, Tom Wooster, ENG, G, -, -, 30-03-05, Sheffield, Barnsley
+73, Jack Moorhouse, ENG, M, -, -, 29-11-05, Manchester, None
+74, Thomas Myles, ENG, G, -, -, 17-11-05, Preston, None
+75, Habeeb Ogunneye, ENG, D, -, -, 12-11-05, Hackney, None
+76, James Nolan, ENG, D, -, -, 02-10-05, Chorley, None
+77, Jack Kingdon, SCO, D, -, -, 16-11-05, Bolton, Morecambe
+78, Louis Jackson, SCO, D, -, -, 18-09-05, Oldham, None
+79, Fin McAllister, ENG, M, -, -, 16-07-06, Salford, None
+80, Ruben Curley, ENG, M, -, -, 05-09-05, Manchester, None
+82, Ethan Williams, ENG, M, -, -, 14-11-05, Manchester, None
+83, Malachi Sharpe, SCO, F, -, -, 20-11-05, Nottingham, Derby Co
+84, Ethan Wheatley, ENG, F, -, -, 20-01-06, Stockport, None
+85, Jack Fletcher, ENG, M, -, -, 19-03-07, Manchester, Manchester C
+86, Ashton Missin, ENG, F, -, -, 15-08-06, Halifax, None
+87, William Murdock, NIR, G, -, -, 26-05-07, -, None
+88, Victor Musa, ESP, F, -, -, 05-09-06, Tudela, None
+89, Reece Munro, ENG, D, -, -, 21-07-07, -, None
+90, Jaydan Kamason, ENG, D, -, -, 08-12-06, Lambeth, None
+92, James Scanlon, GIB, M, -, -, 28-09-06, -, Derby Co
+93, Shea Lacey, ENG, M, -, -, 14-04-07, -, None
+94, Jayce Fitzgerald, ENG, M, -, -, 09-05-07, -, None
+95, Jacob Devaney, ENG, D, -, -, 11-06-07, -, None
+96, Zachary Baumann, ENG, M, -, -, 02-01-07, -, None
+97, Sekou Kaba, ENG, F, -, -, 28-03-07, -, Derby Co
+98, Gabriele Biancheri, WAL, F, -, -, 18-09-06, Cardiff, Cardiff C
+99, Tyler Fletcher, SCO, M, -, -, 19-03-07, Manchester, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+48, William Fish, ENG, D, 1.85, 73, 17-02-03, Manchester, Hibernian (On Loan)
+17, Fred, BRA, M, 1.69, 68, 05-03-93, Belo Horizonte, Fenerbahçe
+38, Matěj Kovář, CZE, G, 1.96, 88, 17-05-00, Uherské Hradiště, Bayer Leverkusen
+60, Ondřej Mastný, CZE, G, 1.83, 70, 08-03-02, Třebíč, Vysočina Jihlava
+33, Brandon Williams, ENG, D, 1.82, 63, 03-09-00, Manchester, Ipswich T (On Loan)
+57, Noam Emeran, FRA, F, 1.79, 70, 24-09-02, Paray-le-Monial, FC Groningen
+26, Dean Henderson, ENG, G, 1.90, 85, 12-03-97, Whitehaven, Crystal Palace
+43, Teden Mengi, ENG, D, 1.83, 78, 30-04-02, Manchester, Luton T
+54, Marc Jurado, ESP, D, 1.78, 61, 13-04-04, Sabadell, Espanyol
+64, Logan Pye, ENG, D, -, -, 26-10-03, Sunderland, Burnley
+49, Alejandro Garnacho, ARG, F, 1.80, 80, 01-07-04, Madrid, Re-Registered (17)
+3, Eric Bailly, CIV, D, 1.87, 77, 12-04-94, Abidjan, Beşiktaş
+34, Donny van de Beek, NED, M, 1.87, 73, 18-04-97, Nijkerkerveen, Eintracht Frankfurt (On Loan)
+15, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Tottenham H
+25, Jadon Sancho, ENG, F, 1.78, 73, 25-03-00, Lambeth, Borussia Dortmund (On Loan)
+52, Joe Hugill, ENG, F, -, -, 19-10-03, Durham, Burton Alb (On Loan)
+46, Hannibal Mejbri, TUN, M, 1.84, 70, 21-01-03, Ivry-sur-Seine, Sevilla (On Loan)
+42, Álvaro Fernández, ESP, D, -, -, 23-03-03, El Ferrol, Benfica (On Loan)
+68, Maxi Oyedele, POL, M, -, -, 07-11-04, Manchester, Forest Green R (On Loan)
+61, Mateo Mejía, COL, F, 1.88, 72, 31-03-03, Zaragoza, Sevilla B
+66, Rhys Bennett, ENG, D, -, -, 30-10-03, Manchester, Stockport Co (On Loan)
+44, Daniel Gore, ENG, M, -, -, 26-09-04, -, Port Vale (On Loan)
+40, Radek Vítek, CZE, G, 1.98, 76, 24-10-03, Vsetín, Accrington Stanley (On Loan)
+28, Facundo Pellistri, URU, M, 1.74, 65, 20-12-01, Montevideo, Granada (On Loan)
+59, Isak Hansen-Aarøen, NOR, M, 1.78, 67, 22-08-04, Tromsø, Werder Bremen
+67, Sam Mather, ENG, F, -, -, 03-09-04, Salford, Rochdale (On Loan)
+69, Sonny Aljofree, ENG, D, -, -, 19-12-04, Plymouth, Altrincham (On Loan)
+72, Sam Murray, ENG, D, -, -, 25-09-04, -, Rochdale (On Loan)
+81, Adam Berry, ENG, F, -, -, 09-01-06, Ashton-under-Lyne, Nottingham F

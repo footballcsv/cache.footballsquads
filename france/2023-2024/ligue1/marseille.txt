@@ -1,0 +1,52 @@
+=  Marseille - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simon Ngapandouetnbu, CMR, G, 1.80, 76, 12-04-03, Foumban, None
+3, Quentin Merlin, FRA, D, 1.74, 64, 16-05-02, Nantes, Nantes
+4, Samuel Gigot, FRA, D, 1.87, 83, 12-10-93, Avignon, Spartak Moscow
+5, Leonardo Balerdi, ARG, D, 1.85, 85, 26-01-99, Villa Mercedes, Borussia Dortmund
+6, Ulisses Garcia, SUI, D, 1.82, 75, 11-01-96, Almada, Young Boys
+7, Jonathan Clauss, FRA, D, 1.85, 70, 25-09-92, Osthoffen, Lens
+8, Azzedine Ounahi, MAR, M, 1.82, 72, 19-04-00, Casablanca, Angers
+10, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Chelsea
+11, Amine Harit, MAR, M, 1.79, 66, 18-06-97, Pontoise, Schalke
+14, Faris Moumbagna, CMR, F, 1.85, 77, 01-07-00, Yaoundé, Bodø/Glimt
+16, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Roma
+17, Jean Onana, CMR, M, 1.89, 89, 08-01-00, Yaoundé, Beşiktaş
+18, Bamo Meïté, CIV, D, 1.83, 75, 20-06-01, Kani, Lorient
+19, Geoffrey Kondogbia, CTA, M, 1.88, 80, 15-02-93, Nemours, Atlético Madrid
+20, Joaquín Correa, ARG, F, 1.88, 77, 13-08-94, Juan Bautista Alberdi, Internazionale
+21, Valentin Rongier, FRA, M, 1.72, 66, 07-12-94, Mâcon, Nantes
+22, Pape Gueye, SEN, M, 1.87, 65, 24-01-99, Montreuil, Le Havre
+23, Ismaïla Sarr, SEN, F, 1.78, 68, 25-02-98, Saint-Louis, Watford
+27, Jordan Veretout, FRA, M, 1.77, 67, 01-03-93, Ancenis, Roma
+29, Iliman Ndiaye, SEN, M, 1.80, 70, 06-03-00, Rouen, Sheffield U
+31, Léo Jousselin, FRA, D, 1.81, 71, 02-01-02, Nantes, None
+32, Roggerio Nyakossi, SUI, D, 1.94, 91, 13-01-04, Geneva, Servette
+33, Stéphane Sparagna, FRA, D, 1.86, 82, 17-02-95, Marseille, Aubagne
+34, Bilal Nadir, FRA, M, 1.79, 62, 28-11-03, Nice, Nice
+35, Brice Negouai, FRA, D, 1.85, 78, 17-02-02, Villeurbanne, C'Chartres
+36, Rubén Blanco, ESP, G, 1.88, 70, 25-07-95, Vigo, Celta Vigo
+37, Emran Soglo, ENG, M, 1.78, 70, 11-07-05, Créteil, Chelsea
+39, Alexandre Tunkadi, FRA, M, 1.83, 73, 07-06-04, Antony, None
+40, Jelle Van Neck, BEL, G, 1.91, 80, 07-03-04, Bruges, None
+41, Sofiane Sidi Ali, FRA, M, 1.75, 69, 14-07-95, Gap, Rousset
+42, Keyliane Abdallah, FRA, F, 1.85, 71, 05-04-06, Marseille, None
+44, Luis Henrique, BRA, F, 1.81, 78, 14-12-01, João Pessoa, Botafogo
+45, Paolo Sciortino, FRA, M, 1.77, 70, 05-11-03, Marseille, None
+47, Iuri Moreira, POR, F, 1.85, 74, 24-03-04, Amadora, Benfica
+48, Yakine Said M'Madi, COM, D, 1.83, 78, 11-03-04, Marseille, None
+49, Raimane Daou, COM, M, 1.82, 73, 20-11-04, Dzaoudzi, None
+62, Michael Amir Murillo, PAN, D, 1.83, 75, 11-02-96, Ciudad de Panamá, Anderlecht
+66, Noam Mayoka-Tika, BEL, M, 1.83, 80, 02-11-03, Charleroi, KVC Westerlo
+99, Chancel Mbemba, COD, D, 1.82, 80, 08-08-94, Kinshasa, FC Porto
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, Genoa
+6, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, Lazio (On Loan)
+95, Isaak Touré, FRA, D, 1.90, 75, 28-03-03, Gonesse, Lorient
+12, Renan Lodi, BRA, D, 1.78, 74, 08-04-98, Serrano, Al-Hilal Saudi
+9, Vitinha, POR, F, 1.78, 74, 15-03-00, Cabeceiras de Basto, Genoa (On Loan)
+24, François-Régis Mughe, CMR, F, 1.73, 70, 16-06-04, Douala, Dunkerque (On Loan)

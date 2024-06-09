@@ -1,0 +1,46 @@
+=  Roma - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Patrício, POR, G, 1.90, 84, 15-02-88, Marrazes, Wolverhampton W
+2, Rick Karsdorp, NED, D, 1.84, 80, 11-02-95, Schoonhoven, Feyenoord
+3, Dean Huijsen, NED, D, 1.95, 84, 14-04-05, Amsterdam, Juventus
+4, Bryan Cristante, ITA, M, 1.86, 80, 03-03-95, San Vito al Tagliamento, Atalanta
+5, Evan Ndicka, CIV, D, 1.90, 80, 20-08-99, Paris, Eintracht Frankfurt
+6, Chris Smalling, ENG, D, 1.94, 81, 22-11-89, Greenwich, Manchester U
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+9, Tammy Abraham, ENG, F, 1.90, 80, 02-10-97, Camberwell, Chelsea
+14, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Leeds U
+16, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Paris St-Germain
+17, Sardar Azmoun, IRN, F, 1.86, 79, 01-01-95, Gonbad, Bayer Leverkusen
+19, Zeki Çelik, TUR, D, 1.80, 78, 17-02-97, Bursa, Lille
+20, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Paris St-Germain
+21, Paulo Dybala, ARG, F, 1.77, 75, 15-11-93, Laguna Larga, Juventus
+22, Houssem Aouar, ALG, M, 1.75, 70, 30-06-98, Lyon, Lyon
+23, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Pontedera, Atalanta
+35, Tommaso Baldanzi, ITA, F, 1.70, 68, 23-03-03, Poggibonsi, Empoli
+37, Leonardo Spinazzola, ITA, D, 1.86, 75, 25-03-93, Foligno, Juventus
+43, Rasmus Kristensen, DEN, D, 1.86, 70, 11-07-97, Brande, Leeds U
+52, Edoardo Bove, ITA, M, 1.74, 61, 16-05-02, Rome, None
+59, Nicola Zalewski, POL, D, 1.73, 62, 23-01-02, Tivoli, None
+60, Riccardo Pagano, ITA, M, 1.75, 69, 28-11-04, Tivoli, None
+61, Niccolò Pisilli, ITA, M, 1.80, 70, 23-09-04, Rome, None
+62, Filippo Alessio, ITA, F, 1.82, 72, 24-12-04, Montebelluna, Vicenza
+63, Pietro Boer, ITA, G, 1.93, 80, 12-05-02, Mestre, Venezia
+64, Luigi Cherubini, ITA, F, 1.75, 75, 15-01-04, Tivoli, Lazio
+66, Mattia Mannini, ITA, M, 1.70, 64, 08-07-06, Sarzana, Spezia
+67, João Costa, POR, F, 1.78, 72, 28-03-05, Umuarama, Corinthians
+68, Francesco D'Alessio, ITA, M, 1.82, 77, 21-02-04, Rome, None
+69, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, RB Leipzig
+72, Lovro Golič, SVN, D, 1.95, 82, 05-03-06, Celje, Domžale
+73, Renato Marin, BRA, G, 1.90, 79, 10-07-06, São Paulo, São Paulo
+74, Jan Oliveras, ESP, D, 1.72, 75, 07-07-04, Manresa, Barcelona
+90, Romelu Lukaku, BEL, F, 1.90, 94, 13-05-93, Antwerp, Chelsea
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Shanghai Shenhua
+99, Mile Svilar, BEL, G, 1.89, 77, 27-08-99, Antwerp, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Ola Solbakken, NOR, F, 1.86, 82, 07-09-98, Melhus, Urawa Red Diamonds (On Loan)
+11, Andrea Belotti, ITA, F, 1.81, 84, 20-12-93, Calcinate, Fiorentina (On Loan)
+24, Marash Kumbulla, ALB, D, 1.91, 78, 08-02-00, Peschiera del Garda, Sassuolo (On Loan)

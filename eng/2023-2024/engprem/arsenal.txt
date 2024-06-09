@@ -1,0 +1,100 @@
+=  Arsenal - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aaron Ramsdale, ENG, G, 1.88, 77, 14-05-98, Stoke-on-Trent, Sheffield U
+2, William Saliba, FRA, D, 1.93, 85, 24-03-01, Bondy, St-Etienne
+4, Ben White, ENG, D, 1.85, 78, 08-11-97, Poole, Brighton & HA
+5, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Atlético Madrid
+6, Gabriel, BRA, D, 1.90, 78, 19-12-97, São Paulo, Lille
+7, Bukayo Saka, ENG, M, 1.78, 65, 05-09-01, Ealing, None
+8, Martin Ødegaard, NOR, M, 1.76, 68, 17-12-98, Drammen, Real Madrid
+9, Gabriel Jesus, BRA, F, 1.75, 73, 03-04-97, São Paulo, Manchester C
+10, Emile Smith Rowe, ENG, M, 1.82, 64, 28-07-00, Croydon, None
+11, Gabriel Martinelli, BRA, F, 1.80, 78, 18-06-01, Guarulhos, Ituano
+12, Jurrien Timber, NED, D, 1.79, 75, 17-06-01, Utrecht, Ajax
+14, Eddie Nketiah, ENG, F, 1.75, 72, 30-05-99, Lewisham, None
+15, Jakub Kiwior, POL, D, 1.89, 75, 15-02-00, Tychy, Spezia
+17, Cédric Soares, POR, D, 1.72, 67, 31-08-91, Gelsenkirchen, Southampton
+18, Takehiro Tomiyasu, JPN, D, 1.85, 70, 05-11-98, Fukuoka, Bologna
+19, Leandro Trossard, BEL, M, 1.72, 61, 04-12-94, Waterschei, Brighton & HA
+20, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, Chelsea
+21, Fábio Vieira, POR, M, 1.70, 58, 30-05-00, Santa Maria da Feira, FC Porto
+22, David Raya, ESP, G, 1.83, 80, 15-09-95, Barcelona, Brentford
+24, Reiss Nelson, ENG, F, 1.75, 70, 10-12-99, Lambeth, None
+25, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Basel
+29, Kai Havertz, GER, M, 1.87, 75, 11-06-99, Aachen, Chelsea
+31, Karl Hein, EST, G, 1.93, 77, 13-04-02, Põlva, Nõmme U
+35, Oleksandr Zinchenko, UKR, D, 1.75, 61, 15-12-96, Illichivsk, Manchester C
+39, Miguel Azeez, ENG, M, -, -, 20-09-02, Camden, None
+40, Mauro Bandeira, POR, M, -, -, 18-11-03, Loures, None
+41, Declan Rice, ENG, M, 1.85, 80, 14-01-99, Kingston upon Thames, West Ham U
+42, Nathan Butler-Oyedeji, ENG, F, -, -, 04-01-03, Waltham Forest, None
+45, Amario Cozier-Duberry, ENG, F, -, -, 29-05-05, Islington, None
+46, Henry Timi Davies, ENG, F, -, -, 27-11-04, Hackney, None
+48, Ovie Ejeheri, ENG, G, 1.83, 68, 23-04-03, Greenwich, None
+50, Taylor Foran, ENG, D, -, -, 14-10-03, Hillingdon, None
+51, Jimi Gower, ENG, M, -, -, 01-10-04, Havering, None
+52, Hubert Graczyk, ENG, G, -, -, 28-02-03, Skwierzyna, None
+53, Jack Henry-Francis, IRL, M, -, -, 23-09-03, Croydon, None
+54, James Hillson, ENG, G, -, -, 14-01-01, Bedford, Reading
+59, Myles Lewis-Skelly, ENG, M, -, -, 26-09-06, Lambeth, None
+60, Brayden Clarke, WAL, D, -, -, 03-07-07, -, Wolverhampton W
+63, Ethan Nwaneri, ENG, M, -, -, 21-03-07, -, None
+66, Ismail Oulad M'Hand, MAR, M, -, -, 11-01-05, Den Haag, Feyenoord
+68, Elián Quesada Thorn, CRC, D, -, -, 19-02-05, Barnet, None
+70, Josh Robinson, ENG, D, -, -, 20-12-04, London, None
+73, James Sweet, WAL, D, -, -, 06-09-03, Wandsworth, None
+75, Billy Vigar, ENG, F, -, -, 22-10-03, Worthing, None
+76, Reuell Walters, ENG, D, -, -, 16-12-04, Lambeth, None
+77, Daniel Oyetunde, ENG, F, -, -, 26-11-06, Enfield, None
+78, Cam'ron Ismail, ENG, D, -, -, 22-11-06, Islington, None
+79, Ayden Heaven, ENG, D, -, -, 22-09-06, Islington, None
+80, Omari Benjamin, WAL, F, -, -, 04-12-05, Watford, None
+81, Luis Brown, ENG, D, -, -, 25-09-05, -, None
+82, Noah Cooper, ENG, G, -, -, 02-02-06, Bromley, Crystal Palace
+83, Harrison Dudziak, ENG, M, -, -, 09-01-06, Westminster, None
+84, Sebastian Ferdinand, ENG, F, -, -, 12-01-06, Watford, None
+85, Romari Forde, ENG, F, -, -, 28-03-06, Watford, Watford
+86, Ismeal Kabia, NED, F, -, -, 10-12-05, -, None
+87, Maldini Kacurri, ALB, D, -, -, 04-10-05, -, Fulham
+88, Osman Kamara, ENG, F, -, -, 06-08-06, Tower Hamlets, None
+89, Josh Nichols, ENG, D, -, -, 26-07-06, Newham, None
+90, Brian Okonkwo, ENG, G, -, -, 30-12-05, Camden, None
+91, Alexei Rojas, COL, G, 1.86, 77, 28-09-05, Basildon, None
+92, Michał Rosiak, POL, D, -, -, 12-10-05, Białogard, Chelsea
+93, Kamarni Ryan, ENG, M, -, -, 29-01-06, Hackney, Chelsea
+94, Coby Small, ENG, D, -, -, 26-07-06, Hackney, None
+95, Bless Akolbire, ENG, M, -, -, 25-01-07, -, None
+96, Jakai Bascoe-Fisher, ENG, F, -, -, 27-11-06, Waltham Forest, None
+97, Dan Casey, ENG, M, -, -, 18-11-06, -, None
+98, Reece Clairmont, ENG, D, -, -, 14-12-06, Waltham Forest, None
+99, Louie Copley, ENG, M, -, -, 20-10-06, Southend-on-Sea, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Cătălin Cîrjan, ROU, M, -, -, 01-12-02, Bucharest, Rapid Bucureşti (On Loan)
+67, Charlie Patino, ENG, M, -, -, 17-10-03, Watford, Swansea C (On Loan)
+62, Brooke Norton-Cuffy, ENG, D, 1.81, 70, 12-01-04, Hammersmith, Millwall (On Loan)
+57, Tyreece John-Jules, ENG, F, 1.83, 75, 14-02-01, Westminster, Derby Co (On Loan)
+3, Kieran Tierney, SCO, D, 1.78, 70, 05-06-97, Douglas, Real Sociedad (On Loan)
+26, Folarin Balogun, ENG, F, 1.78, 66, 03-07-01, New York, Monaco
+65, Salah Oulad M'Hand, NED, M, -, -, 20-08-03, -, FC Den Bosch (On Loan)
+16, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Crystal Palace
+23, Albert Sambi Lokonga, BEL, M, 1.80, 70, 22-10-99, Verviers, Luton T (On Loan)
+28, Nuno Tavares, POR, D, 1.83, 75, 26-01-00, Lisbon, Nottingham F (On Loan)
+33, Arthur Okonkwo, ENG, G, 1.95, 85, 09-09-01, Camden, Wrexham (On Loan)
+56, Henry Jeffcott, NIR, D, -, -, 15-11-03, Westminster, Derby Co (On Loan)
+58, Alex Kirk, ENG, D, -, -, 27-10-02, -, Derby Co (On Loan)
+74, Kido Taylor-Hart, ENG, F, -, -, 30-09-02, Barnet, Bromley (On Loan)
+49, Marcelo Flores, MEX, M, 1.68, 60, 01-10-03, Georgetown [CAN], UANL Tigres
+64, Mika Biereth, DEN, F, -, -, 08-02-03, Lambeth, Sturm Graz (On Loan)
+13, Rúnar Alex Rúnarsson, ISL, G, 1.85, 73, 18-02-95, Reykjavík, FC København
+39, Miguel Azeez, ENG, M, -, -, 20-09-02, Camden, Atlético Baleares
+47, Khayon Edwards, ENG, F, -, -, 12-09-03, Islington, Leyton Orient (On Loan)
+55, Bradley Ibrahim, ENG, M, 1.85, 82, 21-10-04, Macclesfield, Hertha Berlin
+61, Zane Monlouis, ENG, D, -, -, 16-10-03, Lewisham, Reading (On Loan)
+69, Omar Rekik, TUN, D, 1.86, 80, 20-12-01, Den Haag, Servette (On Loan)
+71, Charles Sagoe Junior, ENG, F, -, -, 24-07-04, Kingston upon Thames, Swansea C (On Loan)
+72, Lino Sousa, ENG, D, -, -, 19-01-05, -, Aston Villa
+27, Marquinhos, BRA, F, 1.75, 75, 07-04-03, São Paulo, Fluminense (On Loan)

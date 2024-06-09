@@ -1,0 +1,58 @@
+=  Verona - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lorenzo Montipò, ITA, G, 1.91, 82, 20-02-96, Novara, Benevento
+6, Reda Belahyane, FRA, M, 1.69, 53, 01-06-04, Paris, Nice
+7, Elayis Tavşan, NED, F, 1.83, 74, 30-04-01, Rotterdam, NEC Nijmegen
+8, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Genoa
+9, Thomas Henry, FRA, F, 1.91, 86, 20-09-94, Argenteuil, Venezia
+10, Stefan Mitrović, SRB, F, 1.81, 73, 15-08-02, Kruševac, Crvena Zvezda
+11, Karol Świderski, POL, F, 1.84, 74, 23-01-97, Rawicz, Charlotte FC
+13, Juan Manuel Cruz, ARG, F, 1.84, 71, 19-07-99, Capital Federal, Banfield
+14, Joselito, ESP, M, 1.84, 69, 09-02-04, Huelva, Coria
+16, Mattia Chiesa, ITA, G, 1.90, 76, 16-07-00, Rovereto, Ambrosiana
+17, Tijjani Noslin, NED, F, 1.80, 75, 07-07-99, Amsterdam, Fortuna Sittard
+18, Fabien Centonze, FRA, D, 1.90, 82, 16-01-96, Voiron, Nantes
+19, Rúben Vinagre, POR, D, 1.74, 64, 09-04-99, Charneca de Caparica, Sporting CP
+21, Dani Silva, POR, M, 1.80, 73, 11-04-00, Beja, Vitória Guimarães
+22, Alessandro Berardi, ITA, G, 1.85, 72, 16-01-91, Rome, Bari
+23, Giangiacomo Magnani, ITA, D, 1.91, 85, 04-10-95, Correggio, Sassuolo
+25, Suat Serdar, GER, M, 1.83, 71, 11-04-97, Bingen, Hertha Berlin
+27, Paweł Dawidowicz, POL, D, 1.89, 80, 20-05-95, Olsztyn, Benfica
+28, Nicola Patanè, ITA, M, 1.94, 81, 25-03-04, Verona, None
+31, Tomáš Suslov, SVK, M, 1.73, 66, 07-06-02, Spišská Nová Ves, FC Groningen
+32, Juan Cabal, COL, D, 1.86, 79, 08-01-01, Cali, Atlético Nacional
+33, Ondrej Duda, SVK, M, 1.83, 64, 15-12-94, Snina, Köln
+34, Simone Perilli, ITA, G, 1.95, 88, 07-01-95, Rome, Brescia
+37, Charlys, BRA, M, 1.86, 70, 18-02-04, Maceió, Vitória
+38, Jackson Tchatchoua, BEL, M, 1.78, 79, 23-06-01, Ixelles, Charleroi
+42, Diego Coppola, ITA, D, 1.93, 78, 28-12-03, Bussolengo, None
+72, Junior Ajayi, CIV, F, 1.83, 79, 11-10-04, Abidjan, Sassuolo
+75, Nicolò Calabrese, ITA, D, -, -, 16-11-04, -, None
+80, Alphadjo Cissè, ITA, F, 1.78, 68, 22-10-06, Treviso, Giorgione
+82, Christian Corradi, ITA, D, 1.90, -, 21-02-05, -, Vicenza
+90, Michael Folorunsho, ITA, M, 1.80, 75, 07-02-98, Rome, Napoli
+99, Federico Bonazzoli, ITA, F, 1.82, 74, 21-05-97, Manerbio, Salernitana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Fatih Karagümrük (On Loan)
+17, Federico Ceccherini, ITA, D, 1.87, 72, 11-05-92, Livorno, Fatih Karagümrük (On Loan)
+97, Denis Cazzadori, ITA, F, 1.75, 67, 16-03-04, -, Arzignano Valchiampo (On Loan)
+19, Kevin Rüegg, SUI, M, 1.73, 77, 05-08-98, Uster, Basel (On Loan)
+6, Isak Hien, SWE, D, 1.91, 84, 13-01-99, Stockholm, Atalanta
+21, Siren Diao, ESP, F, 1.89, 79, 21-10-05, Figueres, Atalanta
+24, Filippo Terracciano, ITA, D, 1.81, 68, 08-02-03, Verona, Milan
+30, Yayah Kallon, SLE, F, 1.75, 70, 30-06-01, Kono, Bari (On Loan)
+18, Martin Hongla, CMR, M, 1.81, 78, 16-03-98, Yaoundé, Granada
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Fiorentina (On Loan)
+26, Cyril Ngonge, BEL, F, 1.79, 65, 26-05-00, Uccle, Napoli
+3, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Sassuolo
+7, Jayden Braaf, NED, F, 1.81, 80, 31-08-02, Amsterdam, Fortuna Sittard (On Loan)
+4, Koray Günter, GER, D, 1.84, 76, 16-08-94, Höxter, Fatih Karagümrük (On Loan)
+11, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Monza
+20, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Ankaragücü
+77, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Racing Santander
+2, Bruno Amione, ARG, D, 1.87, 78, 03-01-02, Calchaquí, Santos Laguna
+10, Ajdin Hrustić, AUS, M, 1.83, 74, 05-07-96, Melbourne, Heracles Almelo (On Loan)

@@ -1,0 +1,52 @@
+=  Monza - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Giulio Donati, ITA, D, 1.79, 73, 05-02-90, Pietrasanta, Lecce
+4, Armando Izzo, ITA, D, 1.83, 81, 02-03-92, Naples, Torino
+5, Luca Caldirola, ITA, D, 1.89, 75, 01-02-91, Desio, Benevento
+6, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, Internazionale
+7, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Parma
+8, Jean-Daniel Akpa Akpro, CIV, M, 1.80, 68, 11-10-92, Toulouse, Lazio
+9, Lorenzo Colombo, ITA, F, 1.83, 74, 08-03-02, Vimercate, Milan
+10, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Verona
+11, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Verona
+13, Pedro Pereira, POR, D, 1.85, 72, 22-01-98, Lisbon, Benfica
+16, Michele Di Gregorio, ITA, G, 1.87, 88, 27-07-97, Milan, Internazionale
+17, Alejandro Gómez, ARG, F, 1.67, 68, 15-02-88, Capital Federal, Sevilla
+18, Davide Bettella, ITA, D, 1.85, 75, 07-04-00, Padua, Atalanta
+19, Samuele Birindelli, ITA, D, 1.75, 70, 19-07-99, Pisa, Pisa
+20, Alessio Zerbin, ITA, M, 1.82, 77, 03-03-99, Novara, Napoli
+21, Valentin Carboni, ARG, F, 1.78, 70, 05-03-05, Buenos Aires, Internazionale
+22, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Arsenal
+23, Alessandro Sorrentino, ITA, G, 1.87, 77, 03-04-02, Guardiagrele, Pescara
+27, Daniel Maldini, ITA, F, 1.81, 74, 11-10-01, Milan, Milan
+28, Andrea Colpani, ITA, M, 1.84, 78, 11-05-99, Brescia, Atalanta
+32, Matteo Pessina, ITA, M, 1.83, 75, 21-04-97, Monza, Atalanta
+33, Danilo D'Ambrosio, ITA, D, 1.82, 75, 09-09-88, Naples, Internazionale
+38, Warren Bondo, FRA, M, 1.77, 63, 15-09-03, Evry, Nancy
+44, Andrea Carboni, ITA, D, 1.85, 80, 04-02-01, Sorgono, Cagliari
+47, Dany Mota, POR, F, 1.80, 71, 02-05-98, Niederkorn, Juventus
+60, Leonardo Colombo, ITA, M, 1.75, 64, 04-06-05, -, None
+61, Andrea Ferraris, ITA, F, 1.73, 63, 22-02-03, Turin, Juventus
+62, Andrea Mazza, ITA, G, 1.90, -, 19-03-04, Milan, None
+63, Alessandro Berretta, ITA, M, -, -, -, -, None
+66, Stefano Gori, ITA, G, 1.87, 80, 09-03-96, Brescia, Juventus
+77, Georgios Kyriakopoulos, GRE, D, 1.78, 74, 05-02-96, Patras, Sassuolo
+79, Matija Popović, SRB, M, 1.93, -, 08-01-06, Altötting, Partizan Belgrade
+80, Samuele Vignato, ITA, F, 1.68, 63, 24-02-04, Fumane, Chievo Verona
+84, Patrick Ciurria, ITA, F, 1.80, 72, 09-02-95, Sassuolo, Pordenone
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Carlos Augusto, BRA, D, 1.84, 78, 07-01-99, Campinas, Internazionale (On Loan)
+99, Davide Diaw, SEN, F, 1.85, 81, 06-01-92, Cividale del Friuli, Bari (On Loan)
+27, Mattia Valoti, ITA, M, 1.87, 82, 06-09-93, Vicenza, Pisa (On Loan)
+31, Mario Sampirisi, ITA, D, 1.88, 75, 31-10-92, Caltagirone, Reggiana
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Cagliari (On Loan)
+26, Valentin Antov, BUL, D, 1.85, 75, 09-11-00, Sofia, Cremonese (On Loan)
+3, Armando Anastasio, ITA, D, 1.80, 70, 24-07-96, Naples, Casertana (On Loan)
+11, Franco Carboni, ARG, D, 1.83, 75, 04-04-03, Buenos Aires, Internazionale
+46, Giorgio Cittadini, ITA, D, 1.84, 72, 18-04-02, Gardone Val Trompia, Atalanta
+1, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Lecco
+24, Mirko Marić, CRO, F, 1.88, 77, 16-05-95, Split, Rijeka (On Loan)

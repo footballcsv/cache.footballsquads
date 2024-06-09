@@ -1,0 +1,47 @@
+=  Sassuolo - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Filippo Missori, ITA, D, 1.82, 77, 24-03-04, Rome, Roma
+3, Marcus Holmgren Pedersen, NOR, D, 1.78, 70, 16-07-00, Hammerfest, Feyenoord
+5, Martin Erlić, CRO, D, 1.93, 88, 24-01-98, Zadar, Spezia
+6, Uroš Račić, SRB, M, 1.93, 81, 17-03-98, Kraljevo, Valencia
+7, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, Grêmio
+8, Samuele Mulattieri, ITA, F, 1.83, 77, 07-10-00, La Spezia, Internazionale
+9, Andrea Pinamonti, ITA, F, 1.88, 72, 19-05-99, Cles, Internazionale
+10, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+11, Nedim Bajrami, SUI, M, 1.83, 68, 28-02-99, Zürich, Empoli
+13, Gian Marco Ferrari, ITA, D, 1.89, 82, 15-05-92, Parma, Crotone
+14, Pedro Obiang, EQG, M, 1.86, 75, 27-03-92, Alcalà de Henares, West Ham U
+15, Emil Konradsen Ceide, NOR, F, 1.75, 71, 03-09-01, Finnsnes, Rosenborg
+19, Marash Kumbulla, ALB, D, 1.91, 78, 08-02-00, Peschiera del Garda, Roma
+20, Samu Castillejo, ESP, M, 1.82, 67, 18-01-95, Barcelona, Valencia
+21, Mattia Viti, ITA, D, 1.90, 74, 24-01-02, Borgo San Lorenzo, Nice
+22, Jeremy Toljan, GER, D, 1.82, 74, 08-08-94, Stuttgart, Borussia Dortmund
+23, Cristian Volpato, AUS, F, 1.87, 78, 15-11-03, Camperdown, Roma
+24, Daniel Boloca, ITA, M, 1.88, 76, 22-12-98, Chieri, Frosinone
+25, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+28, Alessio Cragno, ITA, G, 1.84, 78, 28-06-94, Fiesole, Monza
+31, Flavio Russo, ITA, F, 1.78, 72, 31-08-04, Catania, Catania
+32, Kevin Leone, ITA, M, 1.82, 73, 28-03-05, Catania, Sampdoria
+33, Daniel Theiner, ITA, G, 1.88, 78, 25-02-04, Merano, Südtirol
+34, Alessandro Scacchetti, ITA, G, -, -, 22-02-05, -, None
+35, Luca Lipani, ITA, M, 1.85, 78, 18-05-05, Genoa, Genoa
+36, Justin Kumi, ITA, M, 1.82, 67, 16-07-04, Castelfranco Veneto, Giorgione
+42, Kristian Thorstvedt, NOR, M, 1.89, 84, 13-03-99, Stavanger, KRC Genk
+43, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Verona
+44, Ruan Tressoldi, BRA, D, 1.87, 78, 07-06-99, Tramandaí, Grêmio
+45, Armand Laurienté, FRA, F, 1.71, 59, 04-12-98, Gonesse, Lorient
+47, Andrea Consigli, ITA, G, 1.89, 82, 27-01-87, Milan, Atalanta
+92, Grégoire Defrel, FRA, F, 1.80, 79, 17-06-91, Meudon, Roma
+, Briajan Gjyla, ITA, F, 1.77, 70, 26-07-07, Iseo, Feralpisalò
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Ryan Flamingo, NED, D, 1.86, 71, 31-12-02, Blaricum, FC Utrecht (On Loan)
+16, Kevin Miranda, ITA, D, 1.88, 78, 10-03-03, Piedimonte Matese, Catanzaro (On Loan)
+18, Janis Antiste, FRA, F, 1.83, 75, 18-08-02, Toulouse, Reggiana (On Loan)
+27, Maxime López, FRA, M, 1.67, 58, 04-12-97, Marseille, Fiorentina (On Loan)
+29, Yeferson Paz, COL, D, 1.76, 67, 13-06-02, El Carmen del Darién, Perugia (On Loan)
+19, Agustín Álvarez, URU, F, 1.80, 71, 19-05-01, San Bautista, Sampdoria (On Loan)
+17, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Roma

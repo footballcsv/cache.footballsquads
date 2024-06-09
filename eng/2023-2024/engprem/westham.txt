@@ -1,0 +1,80 @@
+=  West Ham United - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Fabiański, POL, G, 1.90, 83, 18-04-85, Kostrzyn nad Odrą, Swansea C
+2, Ben Johnson, ENG, D, 1.75, 67, 24-01-00, Waltham Forest, None
+3, Aaron Cresswell, ENG, D, 1.70, 66, 15-12-89, Liverpool, Ipswich T
+4, Kurt Zouma, FRA, D, 1.90, 96, 27-10-94, Lyon, Chelsea
+5, Vladimír Coufal, CZE, D, 1.79, 76, 22-08-92, Ludgeřovice, Slavia Prague
+7, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, Southampton
+9, Michail Antonio, JAM, F, 1.80, 82, 28-03-90, Wandsworth, Nottingham F
+10, Lucas Paquetá, BRA, M, 1.80, 72, 27-08-97, Rio de Janeiro, Lyon
+11, Kalvin Phillips, ENG, M, 1.77, 72, 02-12-95, Leeds, Manchester C
+14, Mohammed Kudus, GHA, M, 1.77, 70, 02-08-00, Accra, Ajax
+15, Konstantinos Mavropanos, GRE, D, 1.92, 80, 11-12-97, Athens, Stuttgart
+17, Maxwel Cornet, CIV, M, 1.79, 69, 27-09-96, Bregbo, Burnley
+18, Danny Ings, ENG, F, 1.78, 73, 16-03-92, Winchester, Aston Villa
+19, Edson Álvarez, MEX, D, 1.85, 73, 24-10-97, Tlalnepantla de Baz, Ajax
+20, Jarrod Bowen, ENG, F, 1.74, 70, 20-12-96, Leominster, Hull C
+21, Angelo Ogbonna, ITA, D, 1.91, 86, 23-05-88, Cassino, Juventus
+23, Alphonse Areola, FRA, G, 1.90, 85, 27-02-93, Paris, Paris St-Germain
+27, Nayef Aguerd, MAR, D, 1.88, 76, 30-03-96, Kenitra, Rennes
+28, Tomáš Souček, CZE, M, 1.90, 84, 27-02-95, Havlíčkův Brod, Slavia Prague
+33, Emerson Palmieri, ITA, D, 1.76, 63, 03-08-94, Santos, Chelsea
+36, Sean Moore, IRL, F, -, -, 13-08-05, -, Cliftonville
+37, Luizão, BRA, D, 1.87, 72, 08-03-02, São Paulo, São Paulo
+40, George Earthy, ENG, M, -, -, 05-09-04, Havering, None
+42, Kaelan Casey, ENG, D, -, -, 28-10-04, Brentwood, None
+43, Regan Clayton, ENG, D, -, -, 11-11-04, Havering, None
+44, Junior Robinson, ENG, D, -, -, 06-04-04, Bethnal Green, None
+45, Divin Mubama, ENG, F, -, -, 25-10-04, Newham, None
+46, Mason Terry, ENG, G, -, -, 20-09-04, Southend-on-Sea, None
+48, Sean Tarima, ENG, D, -, -, 12-09-04, Newham, None
+49, Joseph Anang, ENG, G, 1.83, 72, 08-06-00, -, Wa All Stars
+53, Levi Laing, ENG, D, -, -, 12-04-03, Kingston upon Thames, Arsenal
+54, Patrick Kelly, NIR, M, -, -, 02-10-04, Portstewart, Coleraine
+55, Jacob Knightbridge, ENG, G, -, -, 25-01-04, Romford, None
+57, Oliver Scarles, ENG, D, -, -, 12-12-05, Bromley, None
+58, Kamarai Simon-Swyer, ENG, M, 1.83, 66, 04-12-02, Redbridge, None
+61, Lewis Orford, ENG, M, -, -, 18-02-06, Havering, None
+64, Ryan Battrum, ENG, D, -, -, 08-09-05, Havering, None
+65, Michael Forbes, NIR, D, -, -, 29-04-04, -, Dungannon Swifts
+66, Daniel Rigge, ENG, M, -, -, 25-03-06, Stockport, Manchester C
+67, Finlay Herrick, ENG, G, -, -, 09-01-06, Hatfield, None
+68, Favour Fawunmi, ENG, F, -, -, 26-04-06, Newham, None
+69, Tyron Akpata, ENG, M, -, -, 12-08-06, Havering, None
+70, Blaise Uwandji, ENG, F, -, -, 05-10-05, -, None
+71, Ezra Mayers, ENG, D, -, -, -, -, None
+72, Gabriel Caliste, ENG, M, -, -, 18-11-06, Redbridge, None
+74, Preston Fearon, ENG, M, -, -, 16-01-07, -, None
+75, Emeka Adiele, ENG, D, -, -, -, -, None
+76, Jethro Medine, ENG, D, -, -, -, -, None
+77, Rayan Oyebade, ENG, D, -, -, 30-04-07, -, None
+78, Elisha Sowunmi, ENG, M, -, -, -, -, None
+79, Dondre Abraham, ENG, G, -, -, 24-05-06, Enfield, None
+80, Riley Hargan, ENG, M, -, -, -, -, None
+81, Liam Jones, ENG, M, -, -, 12-09-05, -, None
+82, Jemiah Umolu, ENG, F, -, -, 28-10-05, Westminster, None
+83, Seb Boothe, ENG, M, -, -, 17-07-06, Bedford, None
+84, Josh Briggs, NIR, D, -, -, 14-03-06, Belfast, Linfield
+85, Mehmet Halim, ENG, F, -, -, -, -, None
+86, Joshua Ajala, ENG, F, -, -, 13-11-06, Redbridge, Chelsea
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Nathan Trott, ENG, G, 1.84, 70, 21-11-98, -, Vejle (On Loan)
+62, Freddie Potts, ENG, M, 1.83, 70, 12-09-03, Romford, Wycombe W (On Loan)
+12, Flynn Downes, ENG, M, 1.72, 70, 20-01-99, Brentwood, Southampton (On Loan)
+59, Keenan Appiah-Forson, ENG, M, -, -, 16-10-01, Greenwich, Dagenham & Redbridge (On Loan)
+24, Thilo Kehrer, GER, D, 1.84, 70, 21-09-96, Tübingen, Monaco (On Loan)
+47, Krisztián Hegyi, HUN, G, 1.93, 85, 24-09-02, Budapest, FC Den Bosch (On Loan)
+32, Conor Coventry, IRL, M, 1.75, 65, 20-03-00, Waltham Forest, Charlton Ath
+56, Gideon Kodua, ENG, F, -, -, 02-10-04, Newham, Wycombe W (On Loan)
+39, Thierry Nevers, ENG, F, -, -, 26-03-02, Reading, Sheriff Tiraspol
+52, Billy Bates, ENG, D, -, -, 25-09-04, Cheshunt, Cheshunt
+63, Archie Woods, ENG, M, -, -, 17-09-03, Brentwood, Dubai C
+50, Callum Marshall, NIR, F, -, -, 28-11-04, Glengormley, WBA (On Loan)
+8, Pablo Fornals, ESP, M, 1.78, 67, 22-02-96, Castellón de la Plana, Betis
+22, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, Lyon (On Loan)
+51, Daniel Chesters, ENG, M, 1.79, 65, 04-04-02, Hitchin, Salford C (On Loan)

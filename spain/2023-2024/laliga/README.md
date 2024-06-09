@@ -1,0 +1,23 @@
+# Spanish LaLiga 2023/2024
+
+20 teams
+- [Alavés](alaves.txt)
+- [Almería](almeria.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Cádiz](cadiz.txt)
+- [Celta Vigo](celta.txt)
+- [Getafe](getafe.txt)
+- [Girona](girona.txt)
+- [Granada](granada.txt)
+- [Las Palmas](laspalmas.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)

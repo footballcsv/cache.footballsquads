@@ -1,0 +1,69 @@
+=  Tottenham Hotspur - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Oliver Skipp, ENG, M, 1.75, 70, 16-09-00, Hatfield, None
+5, Pierre-Emile Højbjerg, DEN, M, 1.85, 84, 05-08-95, Copenhagen, Southampton
+6, Radu Drăgușin, ROU, D, 1.91, 82, 03-02-02, Bucharest, Genoa
+7, Son Heung-Min, KOR, F, 1.83, 77, 08-07-92, Chuncheon, Bayer Leverkusen
+8, Yves Bissouma, MLI, M, 1.81, 78, 30-08-96, Issia, Brighton & HA
+9, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Everton
+10, James Maddison, ENG, M, 1.79, 73, 23-11-96, Coventry, Leicester C
+11, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Sevilla B
+12, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Barcelona
+13, Guglielmo Vicario, ITA, G, 1.88, 83, 07-10-96, Udine, Empoli
+16, Timo Werner, GER, F, 1.80, 75, 06-03-96, Stuttgart, RB Leipzig
+17, Cristian Romero, ARG, D, 1.85, 79, 27-04-98, Córdoba, Atalanta
+18, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Betis
+19, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, Fulham
+20, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Southampton
+21, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, Juventus
+22, Brennan Johnson, WAL, M, 1.79, 73, 23-05-01, Nottingham, Nottingham F
+23, Pedro Porro, ESP, D, 1.76, 71, 13-09-99, Don Benito, Sporting CP
+27, Manor Solomon, ISR, M, 1.69, 62, 24-07-99, Kfar Saba, Shakhtar Donetsk
+29, Pape Matar Sarr, SEN, M, 1.84, 70, 14-09-02, Thiaroye, Metz
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Juventus
+33, Ben Davies, WAL, D, 1.82, 76, 24-04-93, Neath, Swansea C
+37, Micky van de Ven, NED, D, 1.93, 81, 19-04-01, Wormer, Wolfsburg
+38, Destiny Udogie, ITA, D, 1.86, 67, 28-11-02, Verona, Udinese
+40, Brandon Austin, USA, G, 1.88, 82, 08-01-99, Hemel Hempstead, None
+41, Alfie Whiteman, ENG, G, 1.90, 77, 02-10-98, Tottenham, None
+43, Nile John, ENG, M, -, -, 06-03-03, White City, None
+44, Dane Scarlett, ENG, F, 1.80, 76, 24-03-04, Hillingdon, None
+46, Luca Gunter, ENG, G, -, -, 23-03-05, Enfield, None
+52, Jude Soonsup-Bell, ENG, F, -, -, 10-01-04, Chippenham, Chelsea
+55, George Abbott, ENG, M, -, -, 17-08-05, Islington, None
+56, Charlie Sayers, ENG, D, -, -, 29-03-04, -, Southend U
+57, Max Robson, ENG, M, -, -, 17-10-02, Haywards Heath, None
+58, Yago Santiago, ESP, M, -, -, 15-04-03, Vigo, Celta Vigo
+59, Mikey Moore, ENG, F, -, -, 11-08-07, Southwark, None
+60, Tyrell Ashcroft, ENG, D, -, -, 07-03-02, -, Reading
+61, Aaron Maguire, IRL, G, -, -, 25-07-04, Leytonstone, None
+62, Will Lankshear, ENG, F, -, -, 20-04-05, Hatfield, Sheffield U
+63, Jamie Donley, NIR, F, -, -, 03-01-05, Antrim, None
+65, Alfie Dorrington, ENG, D, -, -, 20-04-05, Enfield, None
+66, Rio Kyerematen, ENG, M, -, -, 09-06-05, Westminster, None
+67, Maxwell McKnight, ENG, D, -, -, 03-10-04, Colchester, None
+68, Dante Cassanova, JAM, M, -, -, 21-06-04, -, None
+70, Jaden Williams, ENG, F, -, -, 06-09-04, Harrow, None
+72, William Andiyapan, WAL, D, -, -, 25-03-05, Watford, Arsenal
+73, Tyrese Hall, ENG, M, -, -, 04-09-05, Camden, None
+74, Damola Ajayi, ENG, M, -, -, 27-12-05, Lambeth, None
+76, Leo Black, ENG, D, -, -, 09-02-06, Hackney, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Galatasaray
+28, Tanguy NDombèlé, FRA, M, 1.76, 68, 28-12-96, Longjumeau, Galatasaray (On Loan)
+1, Hugo Lloris, FRA, G, 1.88, 82, 26-12-86, Nice, Los Angeles FC
+54, Josh Keeley, IRL, G, 1.91, 65, 17-05-03, Dublin, Barnet (On Loan)
+35, Ashley Phillips, ENG, D, -, -, 26-06-05, -, Plymouth Arg (On Loan)
+51, Matthew Craig, SCO, M, -, -, 16-04-03, Barnet, Doncaster R (On Loan)
+15, Eric Dier, ENG, D, 1.88, 90, 15-01-94, Cheltenham, Bayern Munich (On Loan)
+24, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, Genoa (On Loan)
+3, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Brentford (On Loan)
+45, Alfie Devine, ENG, M, -, -, 01-08-04, Warrington, Plymouth Arg (On Loan)
+25, Japhet Tanganga, ENG, D, 1.84, 73, 31-03-99, Hackney, Millwall (On Loan)
+14, Ivan Perišić, CRO, F, 1.86, 80, 02-02-89, Split, Hajduk Split (On Loan)
+36, Alejo Véliz, ARG, F, 1.87, 77, 19-09-03, Bernardo de Irigoyen, Sevilla (On Loan)
+53, Brooklyn Lyons-Foster, ENG, D, 1.81, 70, 01-12-00, Archway, HJK Helsinki

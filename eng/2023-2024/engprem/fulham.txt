@@ -1,0 +1,72 @@
+=  Fulham - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, MFK Košice
+2, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, Lyon
+3, Calvin Bassey, NGA, D, 1.85, 76, 31-12-99, Aosta, Ajax
+4, Tosin Adarabioyo, ENG, D, 1.96, 80, 24-09-97, Manchester, Manchester C
+6, Harrison Reed, ENG, M, 1.81, 72, 27-01-95, Worthing, Southampton
+7, Raúl Jiménez, MEX, F, 1.90, 76, 05-05-91, Tepeji, Wolverhampton W
+8, Harry Wilson, WAL, M, 1.73, 70, 22-03-97, Wrexham, Liverpool
+9, Armando Broja, ALB, F, 1.86, 74, 10-09-01, Slough, Chelsea
+10, Tom Cairney, SCO, M, 1.83, 72, 20-01-91, Nottingham, Blackburn R
+11, Adama Traoré, ESP, F, 1.78, 76, 25-01-96, L'Hospitalet de Llobregat, Wolverhampton W
+12, Fodé Ballo-Touré, SEN, D, 1.82, 70, 03-01-97, Conflans-Sainte-Honorine, Milan
+13, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Bolton W
+14, Bobby Reid, JAM, M, 1.70, 61, 02-02-93, Bristol, Cardiff C
+17, Bernd Leno, GER, G, 1.89, 78, 04-03-92, Bietigheim-Bissingen, Arsenal
+18, Andreas Pereira, BRA, M, 1.77, 66, 01-01-96, Duffel, Manchester U
+19, Rodrigo Muniz, BRA, F, 1.82, 79, 04-05-01, São Domingos do Prata, Flamengo
+20, Willian, BRA, M, 1.75, 77, 09-08-88, Ribeirão Pires, Corinthians
+21, Timothy Castagne, BEL, D, 1.80, 80, 05-12-95, Aarlen, Leicester C
+22, Alex Iwobi, NGA, M, 1.80, 75, 03-05-96, Lagos, Everton
+23, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, Swansea C
+26, João Palhinha, POR, M, 1.90, 82, 09-07-95, Lisbon, Sporting CP
+28, Saša Lukić, SRB, M, 1.83, 77, 13-08-96, Šabac, Torino
+31, Issa Diop, FRA, D, 1.93, 84, 09-01-97, Toulouse, West Ham U
+32, Harvey Araujo, ENG, D, -, -, 03-09-04, -, Brentford
+33, Antonee Robinson, USA, D, 1.83, 73, 08-08-97, Milton Keynes, Wigan Ath
+36, Alex Borto, USA, G, 1.88, 80, 06-11-03, South Plainfield, Cedar Stars Rush
+39, Stefan Parkes, ENG, D, -, -, 28-03-04, Brent, None
+41, Devan Tanton, COL, D, -, -, 03-01-04, San Antonio, Cornellà
+43, Delano McCoy-Splatt, JAM, M, -, -, 11-10-04, -, None
+44, Luc De Fougerolles, CAN, D, -, -, 12-10-05, -, None
+45, Georgios Okkas, CYP, M, -, -, 24-10-03, Marousi, Anorthosis Famagusta
+46, Adrion Pajaziti, ALB, M, -, -, 16-11-02, Camden, None
+48, Sam Amissah, ENG, D, -, -, 07-03-07, -, Brentford
+49, Matt Dibley-Dias, ENG, M, 1.83, 65, 29-10-03, Lower Hutt, None
+52, Callum McFarlane, ENG, F, 1.91, 84, 08-09-03, -, None
+53, Lemar Gordon, ENG, F, -, -, 17-11-05, Ealing, None
+55, Luciano D'Auria-Henry, ENG, D, -, -, 11-11-02, -, None
+57, Kristian Šekularac, SUI, M, 1.85, 74, 07-12-03, Camden, Juventus
+58, Alfie McNally, ENG, G, -, -, 22-12-04, Hillingdon, Brentford
+59, Jonathan Esenga, ENG, D, -, -, 09-02-07, -, None
+60, Dino Kaiser, ENG, G, -, -, -, -, QPR
+61, Tom Olyott, ENG, F, -, -, 21-01-06, Liverpool, Manchester C
+62, Joshua King, ENG, M, -, -, 03-01-07, -, None
+63, Terrell Works, ENG, F, -, -, 26-12-04, Wandsworth, None
+64, Oliver Gofford, ENG, M, -, -, 03-09-05, Windsor, None
+68, Bradley Slade, ENG, D, -, -, -, -, None
+69, Brad de Jesus, POR, F, -, -, 14-01-06, -, None
+70, Damon Park, ENG, D, -, -, 29-12-05, Manchester, Oldham Ath
+71, Aaron Loupalo-Bi, ENG, F, -, -, 07-11-05, Lambeth, None
+72, Callum Osmand, WAL, M, -, -, 08-11-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Al-Hilal [KSA]
+51, Terry Ablade, FIN, F, 1.81, 75, 12-10-01, Accra, Carlisle U (On Loan)
+65, Jay Stansfield, ENG, F, 1.87, 72, 24-11-02, Exeter, Birmingham C (On Loan)
+27, Kevin Mbabu, SUI, D, 1.84, 80, 19-04-95, Chêne-Bougeries, Augsburg (On Loan)
+47, Martial Godo, ENG, M, 1.69, 61, 14-03-03, Greenwich, Wigan Ath (On Loan)
+38, Luke Harris, WAL, M, 1.68, 63, 03-04-05, Jersey, Exeter C (On Loan)
+40, George Wickens, ENG, G, -, -, 08-11-01, Petersfield, Ross Co (On Loan)
+66, Oliver Sanderson, ENG, F, 1.86, 69, 30-12-03, Chichester, Sutton U (On Loan)
+50, Ollie O'Neill, IRL, M, -, -, 08-01-03, Hammersmith, Leyton Orient
+56, Jay Williams, WAL, D, -, -, 26-02-03, Merthyr Tydfil, Sutton U
+35, Tyrese Francois, AUS, M, 1.67, 56, 16-07-00, Campbell Town, Vejle (On Loan)
+42, Idris Odutayo, ENG, D, 1.85, 78, 26-10-02, Lambeth, Bromley
+54, Chris Donnell, AUS, M, -, -, 24-10-04, Glasgow, Airdrieonians (On Loan)
+30, Carlos Vinícius, BRA, F, 1.90, 83, 25-03-95, Rio de Janeiro, Galatasaray (On Loan)
+67, Imani Lanquedoc, ENG, M, -, -, 15-11-03, Croydon, FC Haka (On Loan)

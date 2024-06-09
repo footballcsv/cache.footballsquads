@@ -1,0 +1,50 @@
+=  Lecce - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+5, Marin Pongračić, CRO, D, 1.89, 85, 11-09-97, Landshut, Wolfsburg
+6, Federico Baschirotto, ITA, D, 1.84, 77, 20-09-96, Isola della Scala, Ascoli
+7, Pontus Almqvist, SWE, M, 1.78, 67, 10-07-99, Nyköping, FC Rostov
+8, Hamza Rafia, TUN, M, 1.78, 75, 02-04-99, Kalaat es Senam, Pescara
+9, Nikola Krstović, MNE, F, 1.85, 88, 05-04-00, Golubovci, DAC Dunajská Streda
+10, Rémi Oudin, FRA, F, 1.85, 79, 18-11-96, Châlons-en-Champagne, Bordeaux
+11, Nicola Sansone, ITA, F, 1.73, 63, 10-09-91, Munich, Bologna
+12, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Montevarchi, Fiorentina
+13, Patrick Dorgu, DEN, D, 1.75, 55, 26-10-04, Copenhagen, FC Nordsjælland
+16, Joan González, ESP, M, 1.88, 80, 01-02-02, Barcelona, Barcelona
+17, Valentin Gendrey, FRA, D, 1.79, 69, 21-06-00, La Garenne-Colombes, Amiens
+18, Medon Berisha, KVX, M, 1.86, 79, 21-10-03, Münsingen, Young Boys
+20, Ylber Ramadani, ALB, M, 1.85, 75, 12-04-96, Ferizaj, Aberdeen
+21, Federico Brancolini, ITA, G, 1.92, 78, 14-07-01, Modena, Fiorentina
+22, Lameck Banda, ZAM, F, 1.60, 69, 29-01-01, Lusaka, Maccabi Petah Tikva
+23, Sebastian Esposito, AUS, D, 1.91, 75, 21-04-05, Melbourne, Melbourne C
+24, Jeppe Corfitzen, DEN, F, 1.79, 70, 29-12-04, -, Lyngby
+25, Antonino Gallo, ITA, D, 1.83, 73, 05-01-00, Palermo, Palermo
+29, Alexis Blin, FRA, M, 1.84, 78, 16-09-96, Le Mans, Amiens
+30, Wladimiro Falcone, ITA, G, 1.95, 85, 12-04-95, Rome, Sampdoria
+40, Jasper Samooja, FIN, G, 1.93, 78, 21-07-03, Helsinki, FC Honka
+45, Rares Burnete, ROU, F, 1.85, 74, 31-01-04, Sighișoara, Colțea Brașov
+50, Santiago Pierotti, ARG, M, 1.89, 83, 03-04-01, Pilar, Colón (Santa Fe)
+55, Kastriot Dërmaku, ALB, D, 1.95, 73, 15-01-92, Scandiano, Parma
+59, Ahmed Touba, ALG, D, 1.84, 75, 13-03-98, Roubaix, İstanbul Başakşehir
+77, Mohamed Kaba, FRA, M, 1.85, 71, 27-10-01, Orléans, Valenciennes
+83, Daniel Samek, CZE, M, 1.84, 80, 19-02-04, Hradec Králové, Slavia Prague
+91, Roberto Piccoli, ITA, F, 1.90, 80, 27-01-01, Bergamo, Atalanta
+98, Alexandru Borbei, ROU, G, 1.88, 84, 27-06-03, Petrila, Politehnica Timișoara
+, Enes Yılmaz, TUR, M, -, -, 08-01-05, -, Bayer Leverkusen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Assan Ceesay, GAM, F, 1.88, 75, 17-03-94, Banjul, Damac
+42, Morten Hjulmand, DEN, M, 1.85, 72, 25-06-99, Kastrup, Sporting CP
+83, Mats Lemmens, BEL, D, 1.86, 79, 10-03-02, Genk, Lecco (On Loan)
+31, Joel Voelkerling Persson, SWE, F, 1.81, 65, 15-01-03, Dalköpinge, Vitesse (On Loan)
+4, Youssef Maleh, ITA, M, 1.77, 70, 22-08-98, Castel San Pietro Terme, Empoli (On Loan)
+11, Federico Di Francesco, ITA, F, 1.72, 71, 14-06-94, Pisa, Palermo
+14, Þórir Jóhann Helgason, ISL, M, 1.87, 66, 28-09-00, Hafnarfjörður, Eintracht Braunschweig (On Loan)
+74, Antonino Viola, ITA, G, 1.90, -, 14-07-03, Palermo, Nardò
+23, Giacomo Faticanti, ITA, M, 1.75, 70, 31-07-04, Rome, Ternana (On Loan)
+19, Marcin Listkowski, POL, F, 1.78, 68, 29-03-95, Rypin, Lecco (On Loan)
+26, Zinedin Smajlović, SWE, D, 1.91, 90, 20-12-03, Stockholm, Lecco (On Loan)
+27, Gabriel Strefezza, BRA, F, 1.68, 63, 18-04-97, São Paulo, Como (On Loan)
+28, Cătălin Vulturar, ROU, M, 1.81, 70, 09-03-04, Arad, Rapid București

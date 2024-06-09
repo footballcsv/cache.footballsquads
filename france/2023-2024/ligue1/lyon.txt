@@ -1,0 +1,48 @@
+=  Lyon - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Lopes, POR, G, 1.84, 81, 01-10-90, Givors, None
+2, Sinaly Diomandé, CIV, D, 1.84, 74, 09-04-01, Yopougon, Guidars
+3, Nicolás Tagliafico, ARG, D, 1.72, 65, 31-08-92, Rafael Calzada, Ajax
+4, Paul Akouokou, CIV, M, 1.81, 68, 20-12-97, Abidjan, Betis
+5, Dejan Lovren, CRO, D, 1.88, 84, 05-07-89, Karlovac, Zenit St Petersburg
+6, Maxence Caqueret, FRA, M, 1.74, 63, 15-02-00, Vénissieux, None
+7, Mama Baldé, GNB, F, 1.81, 75, 06-11-95, Bissau, Troyes
+8, Corentin Tolisso, FRA, M, 1.65, 54, 03-08-94, Tarare, Bayern Munich
+9, Gift Orban, NGA, F, 1.78, 75, 17-07-02, Benue, KAA Gent
+10, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, Arsenal
+11, Malick Fofana, BEL, F, 1.69, 61, 31-03-05, Aalst, KAA Gent
+12, Jake O'Brien, IRL, D, 1.97, 92, 15-05-01, Cork, Crystal Palace
+14, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, Botafogo
+17, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, West Ham U
+18, Rayan Cherki, FRA, M, 1.77, 71, 17-08-03, Lyon, None
+20, Saël Kumbedi, FRA, D, 1.75, 63, 26-03-05, Stains, Le Havre
+21, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, Vasco da Gama
+22, Clinton Mata, BRA, D, 1.80, 72, 07-11-92, Verviers, Club Brugge
+23, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, Botafogo
+24, Johann Lepenant, FRA, M, 1.76, 68, 22-10-02, Granville, Caen
+25, Orel Mangala, BEL, M, 1.80, 78, 18-03-98, Brussels, Nottingham F
+30, Justin Bengui João, FRA, G, 1.90, 80, 09-07-05, Montbéliard, None
+31, Nemanja Matić, SRB, M, 1.94, 85, 01-08-88, Šabac, Rennes
+33, Chaïm El Djebali, TUN, M, 1.70, 66, 07-02-04, Décines-Charpieu, None
+34, Mahamadou Diawara, FRA, M, 1.87, 77, 17-02-05, Longjumeau, Paris St-Germain
+37, Ernest Nuamah, GHA, F, 1.78, 71, 01-11-03, Kumasi, RWD Molenbeek
+55, Duje Ćaleta-Car, CRO, D, 1.88, 81, 17-09-96, Šibenik, Southampton
+84, Mohamed El Arouch, FRA, M, 1.66, 56, 06-04-04, Orange, None
+98, Ainsley Maitland-Niles, ENG, M, 1.77, 71, 29-08-97, Goodmayes, Arsenal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+75, Karl Toko Ekambi, CMR, F, 1.83, 70, 14-09-92, Paris, Abha Club
+7, Amin Sarr, SWE, F, 1.88, 83, 11-03-01, Malmö, Wolfsburg (On Loan)
+26, Bradley Barcola, FRA, F, 1.82, 66, 02-09-02, Villeurbanne, Paris St-Germain
+16, Mathieu Patouillet, FRA, G, 1.88, 78, 20-02-04, Lyon, Sochaux (On Loan)
+77, Jeff Reine-Adélaïde, FRA, M, 1.83, 75, 17-01-98, Champigny-sur-Marne, RWD Molenbeek
+15, Achrif Laâziri, MAR, D, 1.77, 67, 08-07-03, Hay Hassani, Dunkerque (On Loan)
+11, Tinotenda Kadewere, ZIM, F, 1.83, 72, 05-01-96, Harare, Nantes (On Loan)
+17, Rémy Riou, FRA, G, 1.91, 81, 06-08-87, Lyon, Paris FC
+47, Jeffinho, BRA, M, 1.76, 74, 30-12-99, Volta Redonda, Botafogo (On Loan)
+29, Mamadou Sarr, FRA, D, 1.94, 80, 29-08-05, Martigues, RWD Molenbeek (On Loan)
+19, Diego Moreira, POR, F, 1.79, 73, 06-08-04, Liège, Chelsea
+80, Skelly Alvero, FRA, M, 1.98, 85, 02-05-02, Stains, Werder Bremen (On Loan)

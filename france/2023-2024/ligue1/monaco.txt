@@ -1,0 +1,45 @@
+=  Monaco - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Radosław Majecki, POL, G, 1.91, 78, 16-11-99, Starachowice, Legia Warszawa
+2, Vanderson, BRA, D, 1.80, 74, 21-06-01, Rondonópolis, Grêmio
+3, Guillermo Maripán, CHI, D, 1.93, 80, 06-05-94, San Miguel, Alavés
+4, Mohamed Camara, MLI, M, 1.75, 68, 06-01-00, Bamako, Red Bull Salzburg
+5, Thilo Kehrer, GER, D, 1.84, 70, 21-09-96, Tübingen, West Ham U
+6, Denis Zakaria, SUI, M, 1.91, 76, 20-11-96, Kinshasa, Juventus
+7, Eliesse Ben Seghir, FRA, M, 1.78, 72, 16-02-05, Gassin, None
+10, Wissam Ben Yedder, FRA, F, 1.70, 68, 12-08-90, Sarcelles, Sevilla
+12, Caio Henrique, BRA, D, 1.77, 70, 31-07-97, Santos, Atlético Madrid
+14, Ismail Jakobs, SEN, D, 1.83, 75, 17-08-99, Cologne, Köln
+16, Philipp Köhn, SUI, G, 1.91, 84, 02-04-98, Dinslaken, Red Bull Salzburg
+17, Aleksandr Golovin, RUS, M, 1.80, 69, 30-05-96, Kaltan, CSKA Moscow
+18, Takumi Minamino, JPN, M, 1.74, 67, 16-01-95, Osaka, Liverpool
+19, Youssouf Fofana, FRA, M, 1.76, 69, 10-01-99, Paris, Strasbourg
+20, Kassoum Ouattara, FRA, D, 1.76, 73, 14-10-04, Paris, Amiens
+21, Maghnes Akliouche, FRA, M, 1.75, 63, 25-02-02, Tremblay-en-France, None
+22, Mohammed Salisu, GHA, D, 1.91, 85, 17-04-99, Accra, Southampton
+27, Krépin Diatta, SEN, M, 1.75, 59, 25-02-99, Dakar, Club Brugge
+29, Folarin Balogun, ENG, F, 1.78, 66, 03-07-01, New York, Arsenal
+36, Breel Embolo, SUI, F, 1.84, 71, 14-02-97, Yaoundé, B Mönchengladbach
+37, Edan Diop, FRA, M, 1.80, 70, 28-08-04, Tours, None
+42, Mamadou Coulibaly, FRA, M, -, -, 21-04-04, Paris, None
+43, Ritchy Valme, FRA, D, -, -, 03-02-05, Gonesse, None
+46, Aurélien Platret, FRA, D, 1.77, 63, 20-02-03, Grasse, None
+47, Lucas Michal, FRA, F, -, -, 22-06-05, Bourg-la-Reine, None
+50, Yann Liénard, FRA, G, 1.92, 82, 16-03-03, Aubagne, None
+88, Soungoutou Magassa, FRA, M, 1.88, 70, 08-10-03, Stains, None
+99, Wilfried Singo, CIV, D, 1.90, 79, 25-12-00, Grand-Béréby, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, Union Berlin
+26, Ruben Aguilar, FRA, D, 1.72, 71, 26-04-93, Grenoble, Lens
+29, Félix Lemaréchal, FRA, M, 1.81, 73, 07-08-03, Tours, Cercle Brugge (On Loan)
+23, Yllan Okou, FRA, D, 1.80, 65, 23-12-02, Poitiers, Bastia
+77, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Olympiakos
+44, Malamine Efekele, FRA, F, 1.80, 70, 19-07-04, Livry-Gargan, Cercle Brugge (On Loan)
+8, Eliot Matazo, BEL, M, 1.83, 70, 15-02-02, Woluwe-Saint-Lambert, Royal Antwerp (On Loan)
+9, Myron Boadu, NED, F, 1.80, 67, 14-01-01, Amsterdam, FC Twente (On Loan)
+34, Chrislain Matsima, FRA, D, 1.90, 81, 15-05-02, Colombes, Clermont (On Loan)
+41, Antonin Cartillier, FRA, D, 1.76, 65, 23-06-04, Blois, Brest (On Loan)

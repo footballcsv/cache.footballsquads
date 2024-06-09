@@ -1,0 +1,49 @@
+=  Barcelona - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.87, 85, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, João Cancelo, POR, D, 1.82, 74, 27-05-94, Barreiro, Manchester C
+3, Alejandro Balde, ESP, D, 1.75, 69, 18-10-03, Barcelona, Barcelona B
+4, Ronald Araújo, URU, D, 1.91, 91, 07-03-99, Rivera, Boston River
+5, Íñigo Martínez, ESP, D, 1.82, 79, 17-05-91, Ondarroa, Athletic Bilbao
+6, Gavi, ESP, M, 1.73, 68, 05-08-04, Los Palacios y Villafranca, Barcelona B
+7, Ferrán Torres, ESP, F, 1.84, 77, 29-02-00, Foios, Manchester C
+8, Pedri, ESP, M, 1.77, 68, 25-11-02, Tegueste, Las Palmas B
+9, Robert Lewandowski, POL, F, 1.81, 79, 21-08-88, Warsaw, Bayern Munich
+11, Raphinha, BRA, M, 1.76, 68, 14-02-96, Porto Alegre, Leeds U
+13, Iñaki Peña, ESP, G, 1.84, 78, 02-03-99, Alicante, Barcelona B
+14, João Félix, POR, F, 1.80, 62, 10-11-99, Viseu, Atlético Madrid
+15, Andreas Christensen, DEN, D, 1.88, 68, 10-04-96, Allerød, Chelsea
+16, Fermín López, ESP, M, 1.76, 68, 11-05-03, El Campillo, Barcelona B
+17, Marcos Alonso, ESP, D, 1.88, 84, 28-12-90, Madrid, Chelsea
+18, Oriol Romeu, ESP, M, 1.83, 83, 24-09-91, Ulldecona, Girona
+19, Vitor Roque, BRA, F, 1.72, 76, 28-02-05, Timóteo, Athletico Paranaense
+20, Sergi Roberto, ESP, D, 1.78, 68, 07-02-92, Reus, Barcelona B
+21, Frenkie de Jong, NED, M, 1.79, 69, 12-05-97, Arkel, Ajax
+22, İlkay Gündoğan, GER, M, 1.80, 80, 24-10-90, Gelsenkirchen, Manchester C
+23, Jules Koundé, FRA, D, 1.78, 70, 12-11-98, Paris, Sevilla
+26, Ander Astralaga, ESP, G, 1.90, 80, 03-03-04, Berango, Barcelona B
+27, Lamine Yamal, ESP, F, 1.80, 70, 13-07-07, Esplugues de Llobregat, Barcelona B
+29, Ángel Alarcón, ESP, F, 1.75, 67, 15-05-04, Castelldefels, Barcelona B
+30, Marc Casadó, ESP, M, 1.73, 66, 14-09-03, Sant Pere de Vilamajor, Barcelona B
+31, Diego Kochen, USA, G, 1.88, 70, 19-03-06, Miami, Barcelona B
+33, Pau Cubarsí, ESP, D, 1.82, 76, 22-01-07, Estanyol, Barcelona B
+34, Aleix Garrido, ESP, M, 1.70, 63, 22-02-04, Ripoll, Barcelona B
+35, Unai Hernández, ESP, M, 1.71, 65, 14-12-04, Badalona, Girona B
+36, Áron Yaakobishvili, HUN, G, 1.85, 73, 06-03-06, Budapest, Barcelona B
+37, Pau Victor, ESP, M, 1.84, 77, 26-11-01, Sant Cugat del Vallès, Girona B
+38, Marc Guiu, ESP, F, 1.87, 82, 04-01-06, Granollers, Barcelona B
+39, Héctor Fort, ESP, D, 1.85, 78, 02-08-06, Barcelona, Barcelona B
+40, Pau Prim, ESP, M, 1.79, 65, 22-02-06, Barcelona, Barcelona B
+41, Mikayil Faye, SEN, D, 1.86, 79, 14-07-04, Sédhiou, Kustošija
+42, Gerard Martín, ESP, D, 1.86, 76, 26-02-02, Esplugues de Llobregat, Cornellà
+43, Mamadou Fall, SEN, D, 1.88, 74, 21-11-02, Rufisque, Los Angeles FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Ansu Fati, ESP, F, 1.78, 55, 31-10-02, Bissau, Brighton & HA (On Loan)
+16, Abde Ezzalzouli, MAR, F, 1.77, 73, 17-12-01, Beni Mellal, Betis
+24, Eric García, ESP, D, 1.82, 79, 09-01-01, Barcelona, Girona (On Loan)
+28, Alejandro Balde, ESP, D, 1.75, 69, 18-10-03, Barcelona, Re-Registered (3)
+32, Fermín López, ESP, M, 1.76, 68, 11-05-03, El Campillo, Re-Registered (16)

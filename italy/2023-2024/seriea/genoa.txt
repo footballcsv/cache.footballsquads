@@ -1,0 +1,57 @@
+=  Genoa - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Josep Martínez, ESP, G, 1.91, 79, 27-05-98, Alzira, RB Leipzig
+2, Morten Thorsby, NOR, M, 1.89, 79, 05-05-96, Oslo, Union Berlin
+3, Aarón, ESP, D, 1.80, 72, 22-04-97, Montmeló, Mainz
+4, Koni De Winter, BEL, D, 1.88, 74, 12-06-02, Antwerp, Juventus
+5, Emil Bohinen, NOR, M, 1.75, 75, 12-03-99, Derby, Salernitana
+8, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, Marseille
+9, Vitinha, POR, F, 1.78, 74, 15-03-00, Cabeceiras de Basto, Marseille
+10, Junior Messias, BRA, F, 1.74, 66, 13-05-91, Belo Horizonte, Milan
+11, Albert Guðmundsson, ISL, F, 1.77, 66, 15-06-97, Reykjavík, AZ Alkmaar
+13, Mattia Bani, ITA, D, 1.88, 81, 10-12-93, Borgo San Lorenzo, Bologna
+14, Alessandro Vogliacco, ITA, D, 1.86, 83, 14-09-98, Acquaviva delle Fonti, Pordenone
+16, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Ascoli
+17, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, Marseille
+18, Caleb Ekuban, GHA, F, 1.88, 80, 23-03-94, Villafranca, Trabzonspor
+19, Mateo Retegui, ITA, F, 1.86, 81, 29-04-99, San Fernando, Tigre
+20, Stefano Sabelli, ITA, D, 1.76, 74, 13-01-93, Rome, Empoli
+22, Johan Vásquez, MEX, D, 1.84, 72, 22-10-98, Navojoa, UNAM
+23, Giorgio Cittadini, ITA, D, 1.84, 72, 18-04-02, Gardone Val Trompia, Atalanta
+30, David Ankeye, NGA, F, 1.91, 85, 22-05-02, Abuja, Sheriff Tiraspol
+32, Morten Frendrup, DEN, M, 1.78, 63, 07-04-01, Holbæk, Brøndby
+33, Alan Matturro, URU, D, 1.89, 74, 11-10-04, Montevideo, Defensor Sporting
+38, Simone Calvani, ITA, G, 1.93, 90, 16-05-05, Grottaferrata, Urbetevere
+39, Daniele Sommariva, ITA, G, 1.86, 76, 18-07-97, Genoa, Pescara
+41, Christos Papadopoulos, GRE, M, -, -, 01-11-04, Larissa, Iraklis Larissa
+42, Yoan Bornosuzov, BUL, F, -, -, 09-01-04, Pleven, CSKA Sofia
+43, Riccardo Arboscello, ITA, M, -, -, 10-12-05, Savona, None
+44, Tommaso Ghirardello, ITA, F, -, -, 19-10-05, Rovigo, Padova
+47, Milan Badelj, CRO, M, 1.86, 80, 25-02-89, Zagreb, Lazio
+48, Marco Romano, ITA, F, -, -, 01-03-06, Innsbruck, Real Forio
+53, Tommaso Pittino, ITA, D, -, -, 14-01-05, -, Novara
+55, Ridgeciano Haps, NED, D, 1.75, 76, 12-06-93, Utrecht, Venezia
+90, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, Tottenham H
+99, Franz Stolz, AUT, G, 1.93, 83, 14-02-01, Bruck an der Mur, SKN St. Pölten
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Cremonese (On Loan)
+29, Marko Pajač, CRO, D, 1.85, 70, 11-05-93, Zagreb, Reggiana (On Loan)
+10, Mattia Aramu, ITA, F, 1.80, 67, 14-05-95, Ciriè, Bari (On Loan)
+21, Filippo Melegoni, ITA, M, 1.86, 74, 18-02-99, Bergamo, Reggiana (On Loan)
+31, Stefan Ilsanker, AUT, M, 1.86, 74, 18-05-89, Hallein, Retired
+23, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, Fatih Karagümrük
+50, Güven Yalçın, TUR, F, 1.84, 77, 18-01-99, Düsseldorf, Fatih Karagümrük (On Loan)
+36, Silvan Hefti, SUI, D, 1.82, 78, 25-10-97, Rorschach, Montpellier (On Loan)
+5, Radu Drăgușin, ROU, D, 1.91, 82, 03-02-02, Bucharest, Tottenham H
+25, Berkan Kutlu, SUI, M, 1.83, 77, 25-01-98, Monthey, Galatasaray
+24, Filip Jagiełło, POL, M, 1.80, 70, 08-08-97, Lubin, Spezia (On Loan)
+37, George Puşcaş, ROU, F, 1.88, 74, 08-04-96, Marghita, Bari (On Loan)
+27, Kelvin Yeboah, GHA, F, 1.82, 73, 06-05-00, Accra, Standard Liège (On Loan)
+40, Seydou Fini, CIV, F, 1.78, 65, 02-06-06, -, Standard Liège (On Loan)
+46, Faroukou Cissé, GER, D, 1.87, 80, 09-03-04, Abidjan, Standard Liège
+48, Léandre Kuavita, BEL, M, 1.80, 68, 31-05-04, -, Standard Liège
+99, Pablo Galdames, CHI, M, 1.76, 72, 30-12-96, Santiago, Vasco da Gama

@@ -1,0 +1,75 @@
+=  Aston Villa - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+2, Matty Cash, POL, D, 1.85, 64, 07-08-97, Slough, Nottingham F
+3, Diego Carlos, BRA, D, 1.84, 79, 15-03-93, Barra Bonita, Sevilla
+4, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, Brentford
+5, Tyrone Mings, ENG, D, 1.91, 77, 13-03-93, Bath, Bournemouth
+6, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, Hibernian
+8, Youri Tielemans, BEL, M, 1.76, 72, 07-05-97, Sint-Pieters-Leeuw, Leicester C
+10, Emi Buendía, ARG, M, 1.70, 65, 25-12-96, Mar del Plata, Norwich C
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Brentford
+12, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Everton
+14, Pau Torres, ESP, D, 1.91, 80, 16-01-97, Villarreal, Villarreal
+15, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Betis
+16, Calum Chambers, ENG, D, 1.82, 66, 20-01-95, Petersfield, Arsenal
+17, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Barcelona
+18, Joe Gauci, AUS, G, 1.93, 78, 04-07-00, Adelaide, Adelaide U
+19, Moussa Diaby, FRA, F, 1.70, 65, 07-07-99, Paris, Bayer Leverkusen
+22, Nicolò Zaniolo, ITA, M, 1.90, 79, 02-07-99, Massa, Galtasaray
+24, Jhon Durán, COL, F, 1.85, 73, 13-12-03, Medellín, Chicago Fire
+25, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, Roma
+27, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, Middlesbrough
+29, Kaine Kesler Hayden, ENG, D, 1.75, 62, 23-10-02, Birmingham, None
+31, Leon Bailey, JAM, F, 1.81, 70, 09-08-97, Kingston, Bayer Leverkusen
+41, Jacob Ramsey, ENG, M, 1.66, 61, 28-05-01, Birmingham, None
+44, Boubacar Kamara, FRA, D, 1.78, 68, 23-11-99, Marseille, Marseille
+47, Tim Iroegbunam, ENG, M, -, -, 30-06-03, West Bromwich, WBA
+49, Charlie Lutz, ENG, F, -, -, 15-10-04, Worcester, None
+50, Sil Swinkels, NED, D, 1.90, 78, 06-01-04, Sint-Oedenrode, Vitesse
+51, Teddy Rowe, ENG, M, -, -, 17-10-03, -, None
+52, Lamare Bogarde, NED, D, 1.83, 76, 05-01-04, Rotterdam, Feyenoord
+53, Taylor-Jay Hart, ENG, M, -, -, 18-12-03, -, None
+54, Jayden Barber, ENG, D, -, -, 23-06-05, -, None
+55, Lander Emery, ESP, G, -, -, 29-03-03, -, Roda B
+57, Ajani Burchall, BER, M, -, -, 05-11-04, Hamilton [BER], Bournemouth
+60, Aaron O'Reilly, IRL, D, -, -, 29-06-04, -, St Patrick's Ath
+61, Frankie Ealing, ENG, D, 1.76, 66, 14-07-04, Birmingham, None
+62, Chisom Afoka, ENG, M, -, -, 23-09-03, -, WBA
+63, Kerr Smith, SCO, D, -, -, 12-12-04, -, Dundee U
+64, James Wright, ENG, G, -, -, 02-12-04, -, Manchester C
+65, Rory Wilson, SCO, F, -, -, 05-01-06, Girvan, Rangers
+66, Travis Patterson, ENG, D, -, -, 06-10-05, -, None
+67, Mikell Barnes, ENG, M, -, -, 30-12-04, -, None
+68, Kobei Moore, ENG, F, -, -, 30-11-04, Birmingham, None
+69, Finley Munroe, ENG, D, -, -, 08-02-05, -, Chelsea
+70, Kyrie Pierre, ENG, M, -, -, 17-06-05, Bristol, Bristol R
+71, Omari Kellyman, NIR, F, -, -, 25-09-05, Derby, Derby Co
+72, Kadan Young, ENG, F, -, -, 19-01-06, Worcester, None
+73, Triston Rowe, ENG, D, -, -, -, -, WBA
+74, Todd Alcock, ENG, M, -, -, 23-11-04, -, None
+75, Ben Broggio, ENG, M, -, -, 29-01-07, -, None
+76, Charlie Pavey, ENG, M, -, -, 23-10-05, -, None
+77, Aidan Borland, SCO, M, -, -, 25-04-07, -, Celtic
+78, Sam Proctor, ENG, G, -, -, 21-12-06, Boston, Peterborough U
+79, Thierry Katsukunya, WAL, D, -, -, 30-11-05, -, Coventry C
+80, Luka Lynch, WAL, M, -, -, 11-01-07, -, WBA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Viljami Sinisalo, FIN, G, 1.96, 78, 11-10-01, Espoo, Exeter C (On Loan)
+35, Cameron Archer, ENG, F, 1.81, 72, 09-12-01, Walsall, Sheffield U
+33, Jaden Philogene-Bidace, ENG, M, 1.81, 67, 18-05-02, Hammersmith, Hull C
+56, Sebastian Revan, ENG, D, -, -, 14-07-03, West Bromwich, Rotherham U (On Loan)
+48, Oliwier Zych, POL, G, 1.91, 86, 28-06-04, Gdańsk, Puszcza Niepołomice (On Loan)
+23, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Al-Duhail (On Loan)
+45, Ben Chrisene, ENG, D, 1.83, 80, 12-01-04, Exeter, Blackburn R (On Loan)
+46, Rico Richards, ENG, M, 1.75, 68, 27-09-03, Birmingham, Stockport Co (On Loan)
+42, Filip Marschall, ENG, G, 1.95, 87, 15-12-02, Bedford, MK Dons (On Loan)
+32, Leander Dendoncker, BEL, M, 1.88, 79, 15-04-95, Passendale, Napoli (On Loan)
+9, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Villarreal
+58, Tommi O'Reilly, IRL, M, 1.70, 63, 15-12-03, -, Real Unión (On Loan)
+59, Josh Feeney, ENG, D, -, -, 06-05-05, Blackpool, Real Unión (On Loan)

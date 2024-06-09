@@ -1,0 +1,48 @@
+=  Alavés - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Sivera, ESP, G, 1.85, 75, 11-08-96, Jávea, Valencia B
+2, Andoni Gorosabel, ESP, D, 1.74, 73, 04-08-96, Arrasate, Real Sociedad
+3, Rubén Duarte, ESP, D, 1.72, 68, 18-10-95, Almería, Espanyol
+4, Aleksandar Sedlar, SRB, D, 1.78, 79, 13-12-91, Novi Sad, Mallorca
+5, Abdelkabir Abqar, MAR, D, 1.88, 80, 10-03-99, Settat, Málaga B
+6, Ander Guevara, ESP, M, 1.78, 73, 07-07-97, Vitoria-Gasteiz, Real Sociedad
+7, Álex Sola, ESP, D, 1.78, 75, 09-06-99, San Sebastián, Real Sociedad
+8, Antonio Blanco, ESP, M, 1.76, 66, 23-07-00, Montalbán, Real Madrid B
+10, Ianis Hagi, ROU, M, 1.72, 60, 22-10-98, Istanbul, Rangers
+11, Luis Rioja, ESP, M, 1.73, 65, 16-10-93, Seville, Almería
+14, Nahuel Tenaglia, ARG, D, 1.82, 71, 21-02-96, Saladillo, Talleres (Córdoba)
+15, Kike, ESP, F, 1.86, 79, 25-11-89, Motilla del Palancar, Osasuna
+16, Rafa Marín, ESP, D, 1.91, 76, 19-05-02, Guadajoz, Real Madrid B
+17, Xeber Alkain, ESP, M, 1.74, 69, 26-06-97, Hondarribia, Real Sociedad B
+18, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Real Sociedad
+20, Giuliano Simeone, ARG, F, 1.84, 72, 18-12-02, Rome, Atlético Madrid B
+21, Abde Rebbach, ALG, F, 1.76, 68, 11-08-98, Blida, San Ignacio
+22, Carlos Vicente, ESP, F, 1.79, 70, 23-04-99, Zaragoza, Racing Ferrol
+23, Carlos Benavidez, URU, M, 1.85, 76, 30-03-98, Montevideo, Independiente
+26, Joseda, ESP, D, 1.83, 75, 22-01-01, Esplugues de Llobregat, Levante B
+27, Javi López, ESP, D, 1.83, 75, 25-03-02, Santa Cruz de Tenerife, Alavés B
+28, Ander Sánchez, ESP, M, -, -, 24-01-04, Vitoria-Gasteiz, Alavés B
+29, Joaquín Panichelli, ARG, F, 1.87, 75, 07-10-02, Córdoba, River Plate
+30, Tomás Mendes, ESP, M, -, -, 21-11-04, Almería, Alavés B
+31, Jesús Owono, EQG, G, 1.83, 67, 01-03-01, Bata, San Ignacio
+32, Samu Omorodion, ESP, F, 1.93, 80, 05-05-04, Melilla, Atlético Madrid B
+33, Adrián Rodríguez, ARG, G, 1.94, 83, 12-12-00, Palma de Mallorca, Real Madrid B
+34, Giorgi Gagua, GEO, F, 1.93, 71, 10-10-01, Tbilisi, Merani Tbilisi
+35, Selu Diallo, ESP, M, 1.87, 77, 01-10-03, Huesca, San Ignacio
+36, Egoitz Muñoz, ESP, D, 1.79, 73, 14-04-04, Vitoria-Gasteiz, Alavés B
+37, José de León, DOM, M, -, -, 02-03-04, Madrid, Alavés B
+39, Eneko Ortiz, ESP, D, 1.80, 75, 26-05-03, Miranda de Ebro, Alavés B
+41, Gaizka García, ESP, G, 1.92, 73, 17-02-05, Vitoria-Gasteiz, Alavés B
+42, Unai Ropero, ESP, F, 1.87, 72, 20-11-01, Vitoria-Gasteiz, Alavés B
+43, Rubén Montero, ESP, G, 1.83, 60, 28-08-05, Albacete, Real Madrid B
+44, Víctor Parada, ESP, D, 1.87, 78, 04-04-02, Madrid, Alavés B
+47, Álvaro García, ESP, D, -, -, 15-09-05, -, Alavés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, Valladolid
+9, Miguel De La Fuente, ESP, F, 1.82, 77, 03-09-99, Tudela de Duero, Leganés (On Loan)
+9, Jon Karrikaburu, ESP, F, 1.83, 82, 19-09-02, Elizondo, Real Sociedad B
+19, Nikola Maraš, SRB, D, 1.92, 81, 19-12-95, Belgrade, Levante (On Loan)

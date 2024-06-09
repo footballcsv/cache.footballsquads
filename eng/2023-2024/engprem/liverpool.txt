@@ -1,0 +1,70 @@
+=  Liverpool - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alisson Becker, BRA, G, 1.91, 91, 02-10-92, Novo Hamburgo, Roma
+2, Joe Gomez, ENG, D, 1.88, 77, 23-05-97, Catford, Charlton Ath
+3, Wataru Endo, JPN, M, 1.76, 73, 09-02-93, Yokohama, Stuttgart
+4, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, Southampton
+5, Ibrahima Konaté, FRA, D, 1.93, 84, 25-05-99, Paris, RB Leipzig
+6, Thiago Alcántara, ESP, M, 1.65, 60, 11-04-91, Bari, Bayern Munich
+7, Luis Díaz, COL, F, 1.80, 73, 13-01-97, Barrancas, FC Porto
+8, Dominik Szoboszlai, HUN, M, 1.86, 70, 25-10-00, Budapest, RB Leipzig
+9, Darwin Núñez, URU, F, 1.87, 78, 24-06-99, Artigas, Benfica
+10, Alexis Mac Allister, ARG, M, 1.74, 72, 24-12-98, La Pampa, Brighton & HA
+11, Mohamed Salah, EGY, F, 1.75, 72, 15-06-92, Basyoun, Roma
+13, Adrián, ESP, G, 1.90, 80, 03-01-87, Seville, West Ham U
+17, Curtis Jones, ENG, M, 1.85, 72, 30-01-01, Liverpool, None
+18, Cody Gakpo, NED, F, 1.79, 64, 07-05-99, Eindhoven, PSV Eindhoven
+19, Harvey Elliott, ENG, M, 1.70, 67, 04-04-03, Chertsey, Fulham
+20, Diogo Jota, POR, F, 1.78, 70, 04-12-96, Massarelos, Wolverhampton W
+21, Kostas Tsimikas, GRE, D, 1.77, 70, 12-05-96, Thessaloniki, Olympiakos
+26, Andrew Robertson, SCO, D, 1.78, 63, 11-03-94, Glasgow, Hull C
+32, Joel Matip, CMR, D, 1.95, 90, 08-08-91, Bochum, Schalke
+38, Ryan Gravenberch, NED, M, 1.87, 75, 16-05-02, Amsterdam, Bayern Munich
+42, Bobby Clark, ENG, F, -, -, 07-02-05, Epsom, Newcastle U
+43, Stefan Bajčetić, ESP, M, 1.85, 77, 22-10-04, Vigo, Celta Vigo
+46, Rhys Williams, ENG, D, 1.96, 82, 03-02-01, Preston, None
+48, Calum Scanlon, ENG, D, -, -, 14-02-05, Birmingham, None
+49, Kaide Gordon, ENG, F, -, -, 05-10-04, Burton upon Trent, Derby Co
+50, Ben Doak, SCO, M, -, -, 11-11-05, -, Celtic
+51, Trent Kone-Doherty, IRL, F, -, -, 30-06-06, Derry, Derry C
+53, James McConnell, ENG, M, -, -, 13-09-04, Newcastle upon Tyne, None
+54, Cody Pennington, ENG, M, -, -, 13-06-06, Preston, None
+57, Carter Pinnington, ENG, D, -, -, 21-02-07, -, None
+59, Terence Miles, ENG, D, -, -, 12-09-04, Liverpool, None
+60, Luca Furnell-Gill, ENG, D, -, -, 29-12-06, Keighley, None
+62, Caoimhin Kelleher, IRL, G, 1.88, 81, 23-11-98, Cork, Ringmahon Rangers
+65, Amara Nallo, ENG, D, -, -, 18-11-06, Enfield, West Ham U
+66, Trent Alexander-Arnold, ENG, D, 1.75, 69, 07-10-98, Liverpool, None
+67, Lewis Koumas, ENG, M, -, -, 19-09-05, Chester, None
+68, Kieran Morrison, NIR, M, -, -, 09-11-06, -, None
+69, Josh Davidson, ENG, D, -, -, 23-09-05, Liverpool, None
+70, Tommy Pilling, ENG, F, -, -, 14-09-04, St Helens, None
+71, Jay Spearing, ENG, M, 1.68, 70, 25-11-88, Wirral, Tranmere R
+74, Oscar Kelly, ENG, G, -, -, 22-11-02, Liverpool, None
+76, Jayden Danns, ENG, F, -, -, 16-01-06, Liverpool, None
+78, Jarell Quansah, ENG, D, -, -, 29-01-03, Warrington, None
+83, Thomas Hill, ENG, M, -, -, 13-10-02, Formby, None
+84, Conor Bradley, NIR, D, -, -, 09-07-03, Tyrone, Dungannon Swifts
+86, Harvey Blair, ENG, F, -, -, 14-09-03, Huddersfield, None
+88, Lucas Pitt, ENG, D, -, -, 31-10-06, -, None
+90, Lee Jonas, ENG, D, -, -, 06-07-04, Liverpool, None
+92, Mateusz Musiałowski, POL, M, -, -, 16-10-03, Katowice, UKS SMS Łódź
+93, Fabian Mrozek, POL, G, -, -, 28-09-03, Wrocław, FC Wrocław Academy
+94, Melkamu Frauendorf, GER, M, -, -, 12-01-04, Kembata, 1899 Hoffenheim
+98, Trey Nyoni, ENG, M, -, -, 30-06-07, -, Leicester C
+99, Fola Onanuga, ENG, M, -, -, 01-09-06, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+72, Sepp van den Berg, NED, D, 1.90, 78, 20-12-01, Zwolle, Mainz (On Loan)
+45, Marcelo Pitaluga, BRA, G, 1.91, 75, 20-12-02, Niterói, St Patrick's Ath (On Loan)
+28, Fabio Carvalho, POR, M, 1.70, 62, 30-08-02, Lisbon, Hull C (On Loan)
+44, Luke Chambers, ENG, D, -, -, 24-06-04, Preston, Wigan Ath (On Loan)
+55, Paul Glatzel, GER, F, -, -, 20-02-01, Liverpool, Swindon T
+85, James Balagizi, ENG, M, 1.89, 74, 20-09-03, Manchester, Kilmarnock (On Loan)
+22, Calvin Ramsay, SCO, D, 1.77, 63, 31-07-03, Aberdeen, Bolton W (On Loan)
+47, Nathaniel Phillips, ENG, D, 1.90, 70, 21-03-97, Bolton, Cardiff C (On Loan)
+63, Owen Beck, WAL, D, 1.77, 65, 09-08-02, Wrexham, Dundee (On Loan)
+89, Billy Koumetio, FRA, D, 1.95, 76, 14-11-02, Lyon, Blackburn R (On Loan)

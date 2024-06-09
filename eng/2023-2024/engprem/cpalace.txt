@@ -1,0 +1,64 @@
+=  Crystal Palace - English Premier League 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, WBA
+2, Joel Ward, ENG, D, 1.88, 83, 29-10-89, Emsworth, Portsmouth
+3, Tyrick Mitchell, ENG, D, 1.74, 66, 01-09-99, Brent, Brentford
+4, Rob Holding, ENG, D, 1.89, 75, 09-11-94, Bolton, Arsenal
+5, James Tomkins, ENG, D, 1.92, 74, 29-03-89, Basildon, West Ham U
+6, Marc Guéhi, ENG, D, 1.82, 82, 13-07-00, Abidjan, Chelsea
+7, Michael Olise, FRA, M, 1.89, 73, 12-12-01, -, Reading
+8, Jefferson Lerma, COL, M, 1.79, 70, 25-10-94, El Cerrito, Bournemouth
+9, Jordan Ayew, GHA, F, 1.82, 81, 11-09-91, Marseille, Swansea C
+10, Eberechi Eze, ENG, M, 1.73, 67, 29-06-98, Greenwich, QPR
+11, Matheus França, BRA, M, 1.78, 67, 01-04-04, Rio de Janeiro, Flamengo
+12, Daniel Muñoz, COL, D, 1.83, 75, 26-05-96, Amalfi, KRC Genk
+14, Jean-Philippe Mateta, FRA, F, 1.92, 84, 28-06-97, Clamart, Mainz
+15, Jeffrey Schlupp, GHA, D, 1.78, 72, 23-12-92, Hamburg, Leicester C
+16, Joachim Andersen, DEN, D, 1.92, 90, 31-05-96, Frederiksberg, Lyon
+17, Nathaniel Clyne, ENG, D, 1.75, 67, 05-04-91, Stockwell, Liverpool
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, Watford
+20, Adam Wharton, ENG, M, 1.82, 76, 06-02-04, Blackburn, Blackburn R
+22, Odsonne Édouard, FRA, F, 1.83, 74, 16-01-98, Kourou, Celtic
+26, Chris Richards, USA, D, 1.88, 86, 28-03-00, Birmingham, AL, Bayern Munich
+28, Cheick Doucouré, MLI, M, 1.80, 73, 08-01-00, Bamako, Lens
+29, Naouirou Ahamada, FRA, M, 1.83, 69, 29-03-02, Marseille, Stuttgart
+30, Dean Henderson, ENG, G, 1.90, 85, 12-03-97, Whitehaven, Manchester U
+31, Remi Matthews, ENG, G, 1.84, 78, 10-02-94, Gorleston, Sunderland
+36, Nathan Ferguson, ENG, D, 1.80, 76, 06-10-00, Birmingham, WBA
+40, Jack Wells-Morrison, ENG, M, -, -, 18-02-04, Wandsworth, None
+41, Joseph Whitworth, ENG, G, -, -, 29-02-04, Sutton, None
+42, Seán Grehan, IRL, D, -, -, 08-01-04, -, Bohemians
+43, Victor Akinwale, ENG, F, -, -, 06-08-04, Greenwich, None
+44, Jaïro Riedewald, NED, M, 1.86, 77, 09-09-96, Amsterdam, Ajax
+46, Danny Imray, ENG, D, -, -, 27-07-03, Harold Wood, Chelmsford C
+49, Jesuran Rak-Sakyi, ENG, M, 1.78, 65, 05-10-02, Southwark, Brighton & HA
+50, Joe Sheridan, ENG, D, -, -, 10-12-03, -, None
+51, Kaden Rodney, ENG, M, -, -, 07-10-04, Lambeth, None
+52, David Ozoh, ENG, M, -, -, 06-05-05, -, None
+54, Dylan Reid, SCO, M, -, -, 01-03-05, Kilbirnie, St Mirren
+55, Franco Umeh-Chibueze, IRL, F, -, -, 26-01-05, -, Cork C
+60, Jadan Raymond, WAL, M, -, -, 15-10-03, Croydon, None
+61, Roshaun Mathurin, ENG, M, -, -, 23-01-04, Leytonstone, Tottenham H
+63, Justin Devenny, SCO, M, -, -, 11-10-03, -, Airdrieonians
+65, Chris Francis, ENG, D, -, -, 15-11-02, -, Bournemouth
+67, Chimaechi Eze, ENG, F, -, -, -, -, QPR
+71, Zach Marsh, ENG, F, -, -, 06-10-05, Luton, Watford
+74, Billy Eastwood, ENG, G, -, -, -, Bromley, None
+78, Rio Cardines, TRI, M, -, -, 01-07-06, -, None
+79, Hindolo Mustapha, ENG, M, -, -, 29-07-06, Lambeth, None
+87, Matteo Dashi, ENG, M, -, -, 22-01-07, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Vicente Guaita, ESP, G, 1.90, 81, 10-01-87, Torrent, Celta Vigo
+35, Tayo Adaramola, IRL, D, -, -, 13-11-03, Dublin, (EFL Trophy Only)
+45, Noah Watson, ENG, D, -, -, 05-05-03, Bromley, (EFL Trophy Only)
+47, Ademola Ola-Adebomi, ENG, F, -, -, 03-09-03, Lambeth, (EFL Trophy Only)
+53, Jackson Izquierdo, ENG, G, -, -, 15-10-04, Windsor, (EFL Trophy Only)
+37, John-Kymani Gordon, ENG, F, -, -, 13-02-03, Croydon, AFC Wimbledon (On Loan)
+45, Tayo Adaramola, IRL, D, -, -, 13-11-03, Dublin, RWD Molenbeek (On Loan)
+53, Ademola Ola-Adebomi, ENG, F, -, -, 03-09-03, Lambeth, Burton Alb (On Loan)
+23, Malcolm Ebiowei, ENG, F, -, -, 04-09-03, Lambeth, RWD Molenbeek (On Loan)
+48, Luke Plange, ENG, F, 1.78, 78, 04-11-02, Kingston upon Thames, HJK Helsinki (On Loan)

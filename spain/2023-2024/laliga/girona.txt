@@ -1,0 +1,44 @@
+=  Girona - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.85, 81, 20-01-88, Guadalajara, Lugo
+3, Miguel Gutiérrez, ESP, D, 1.80, 68, 27-07-01, Madrid, Real Madrid B
+4, Arnau Martínez, ESP, D, 1.82, 75, 25-04-03, Premià de Dalt, Girona B
+5, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Espanyol
+7, Cristhian Stuani, URU, F, 1.86, 72, 12-10-86, Tala, Middlesbrough
+8, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Dynamo Kyiv
+9, Artem Dovbyk, UKR, F, 1.85, 78, 21-06-97, Cherkasy, Dnipro-1
+10, Borja, ESP, M, 1.75, 72, 02-11-90, Torremocha de Jarama, Huesca
+11, Valery Fernández, ESP, D, 1.82, 75, 23-11-99, L'Escala, Girona B
+13, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Fulham
+14, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Eibar
+15, Juanpe, ESP, D, 1.90, 80, 30-04-91, Las Palmas, Granada
+16, Sávio, BRA, F, 1.74, 71, 10-04-04, Duque de Caxias, Troyes
+17, Daley Blind, NED, D, 1.80, 72, 09-03-90, Amsterdam, Bayern Munich
+18, Pablo Torre, ESP, M, 1.73, 63, 03-04-03, Soto de la Marina, Barcelona B
+19, Toni Villa, ESP, M, 1.71, 61, 07-01-95, Murcia, Valladolid
+20, Yan Couto, BRA, D, 1.68, 60, 03-06-02, Curitiba, Manchester C
+21, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+22, Jhon Solís, COL, M, 1.86, 77, 03-10-04, Guacarí, Atlético Nacional
+23, Iván Martín, ESP, M, 1.78, 70, 14-02-99, Bilbao, Villarreal B
+24, Portu, ESP, F, 1.78, 70, 21-05-92, Murcia, Getafe
+25, Eric García, ESP, D, 1.82, 79, 09-01-01, Barcelona, Barcelona
+26, Toni Fuidias, ESP, G, 1.94, 83, 15-04-01, Berga, Real Madrid B
+28, Selvi, ESP, M, 1.89, 75, 29-01-05, El Pinell de Brai, Girona B
+29, Álex Almansa, ESP, F, -, -, 08-11-03, -, Girona B
+30, Iker Almena, ESP, M, 1.77, 71, 04-05-04, L'Hospitalet de Llobregat, Girona B
+31, Jastin García, ESP, F, 1.80, 84, 15-01-04, Lleida, Girona B
+32, Enric García, ESP, F, -, -, 28-02-06, -, Girona B
+34, Juan Arango Jr, VEN, F, 1.84, 71, 27-06-06, Calvià, Girona B
+35, Antal Yaakobishvili, HUN, D, 1.93, 86, 12-07-04, Budapest, Atlètic Sant Just
+36, Ricard Artero, ESP, M, -, -, 05-02-03, La Bisbal d'Empordà, Girona B
+40, Carles Garrido, ESP, F, 1.82, 75, 04-10-04, Barcelona, Cornellà
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Zaragoza (On Loan)
+22, Santiago Bueno, URU, D, 1.89, 78, 09-11-98, Montevideo, Wolverhampton W
+2, Bernardo Espinosa, COL, D, 1.92, 84, 11-07-89, Cali, Atlético Nacional
+6, Ibrahima Kébé, MLI, M, 1.80, 79, 02-08-00, Bamako, Mirandés (On Loan)
+27, Eric Monjonell, ESP, D, 1.87, 79, 16-12-01, Barcelona, Ibiza

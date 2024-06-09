@@ -1,0 +1,45 @@
+=  1.FC Union Berlin - German Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frederik Rønnow, DEN, G, 1.88, 76, 04-08-92, Horsens, Eintracht Frankfurt
+2, Kevin Vogt, GER, D, 1.94, 80, 23-09-91, Bochum, 1899 Hoffenheim
+3, Paul Jaeckel, GER, D, 1.88, 80, 22-07-98, Eisenhüttenstadt, Greuther Fürth
+4, Diogo Leite, POR, D, 1.88, 80, 23-01-99, Porto, FC Porto
+5, Danilho Doekhi, NED, D, 1.90, 80, 30-06-98, Rotterdam, Vitesse
+6, Robin Gosens, GER, D, 1.83, 76, 05-07-94, Emmerich, Internazionale
+7, Brenden Aaronson, USA, M, 1.78, 67, 22-10-00, Medford, Leeds U
+8, Rani Khedira, GER, M, 1.85, 78, 27-01-94, Stuttgart, Augsburg
+9, Mikkel Kaufmann, DEN, F, 1.90, 80, 03-01-01, Hjørring, FC København
+10, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, Monaco
+11, Chris Bedia, CIV, F, 1.90, 74, 05-03-96, Abidjan, Servette
+12, Jakob Busk, DEN, G, 1.89, 78, 12-09-93, Copenhagen, FC København
+13, András Schäfer, HUN, M, 1.77, 73, 13-04-99, Szombathely, DAC Dunajská Streda
+14, Yorbe Vertessen, BEL, F, 1.76, 69, 08-01-01, Tienen, PSV Eindhoven
+16, Benedict Hollerbach, GER, F, 1.81, 78, 17-05-01, Starnberg, Wehen Wiesbaden
+18, Josip Juranović, CRO, D, 1.73, 69, 16-08-95, Zagreb, Celtic
+19, Janik Haberer, GER, M, 1.87, 71, 02-04-94, Wangen im Allgäu, Freiburg
+20, Aïssa Laïdouni, TUN, M, 1.83, 75, 13-12-96, Montfermeil, Ferencváros
+26, Jérôme Roussillon, FRA, D, 1.75, 75, 06-01-93, Sarcelles, Wolfsburg
+28, Christopher Trimmel, AUT, D, 1.89, 80, 24-02-87, Oberpullendorf, Rapid Vienna
+29, Lucas Tousart, FRA, M, 1.75, 75, 29-04-97, Arras, Hertha Berlin
+31, Robin Knoche, GER, D, 1.72, 67, 22-05-92, Braunschweig, Wolfsburg
+33, Alex Král, CZE, M, 1.84, 72, 19-05-98, Košice, Spartak Moscow
+37, Alexander Schwolow, GER, G, 1.89, 83, 02-06-92, Wiesbaden, Hertha Berlin
+41, Oluwaseun Ogbemudia, GER, D, 1.85, 80, 18-07-06, Berlin, St Pauli
+43, Tim Schleinitz, GER, M, 1.78, 71, 10-06-05, Mittweida, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Miloš Pantović, SRB, M, 1.85, 70, 07-07-96, Munich, Eupen
+21, Tim Skarke, GER, M, 1.80, 70, 07-09-96, Nattheim, Darmstadt (On Loan)
+30, Dominique Heintz, GER, D, 1.90, 85, 15-08-93, Neustadt an der Weinstraße, Köln
+45, Jordan Siebatcheu, FRA, F, 1.90, 84, 26-04-96, Washington, DC, B Mönchengladbach (On Loan)
+36, Aljoscha Kemlein, GER, M, 1.85, 78, 02-08-04, Berlin, St Pauli (On Loan)
+39, Yannic Stein, GER, G, 1.87, 80, 17-09-04, Berlin, Lübeck (On Loan)
+11, Datro Fofana, CIV, F, 1.81, 82, 22-12-02, Ouragahio, Chelsea
+23, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Fenerbahçe
+27, Sheraldo Becker, NED, F, 1.80, 72, 09-02-95, Amsterdam, Real Sociedad
+38, Laurenz Dehl, GER, M, 1.79, 76, 12-12-01, Berlin, Austria Klagenfurt (On Loan)
+17, Kevin Behrens, GER, F, 1.84, 83, 03-02-91, Bremen, Wolfsburg
+42, Mathis Bruns, GER, D, 1.92, 80, 31-03-04, Bielefeld, Luckenwalde

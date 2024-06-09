@@ -1,0 +1,21 @@
+# German Bundesliga 2023/2024
+
+18 teams
+- [Augsburg](augsburg.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [VfL Bochum](bochum.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [SV Darmstadt 98](darmstadt.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [TSG 1899 Hoffenheim](hoffen.txt)
+- [1.FC Köln](koln.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FSV Mainz 05](mainz.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

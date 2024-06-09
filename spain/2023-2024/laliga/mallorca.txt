@@ -1,0 +1,44 @@
+=  Mallorca - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Predrag Rajković, SRB, G, 1.91, 85, 31-10-95, Negotin, Reims
+2, Matija Nastasić, SRB, D, 1.88, 83, 28-03-93, Belgrade, Fiorentina
+3, Toni Lato, ESP, D, 1.71, 64, 21-11-97, La Pobla de Vallbona, Valencia
+4, Siebe Van Der Heyden, BEL, D, 1.85, 76, 30-05-98, Denderleeuw, Union St-Gilloise
+5, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Elche
+6, Copete, ESP, D, 1.90, 73, 10-10-99, Écija, Ponferradina
+7, Vedat Muriqi, KVX, F, 1.94, 88, 24-04-94, Prizren, Lazio
+8, Manu Morlanes, ESP, M, 1.78, 75, 12-01-99, Zaragoza, Villarreal
+9, Abdón Prats, ESP, F, 1.81, 79, 17-02-92, Artà, Racing Santander
+10, Sergi Darder, ESP, M, 1.80, 71, 22-12-93, Artà, Espanyol
+11, Jaume Costa, ESP, D, 1.71, 62, 18-03-88, Valencia, Villarreal
+12, Samú Costa, POR, M, 1.83, 75, 27-11-00, Aveiro, Almería
+13, Dominik Greif, SVN, G, 1.97, 82, 06-04-97, Bratislava, Slovan Bratislava
+14, Dani Rodríguez, ESP, M, 1.77, 71, 06-06-88, Betanzos, Albacete
+15, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Stuttgart
+17, Cyle Larin, CAN, F, 1.88, 87, 17-04-95, Brampton, Valladolid
+18, Antonio Sánchez, ESP, M, 1.79, 78, 22-04-97, Palma de Mallorca, Mallorca B
+19, Javi Llabrés, ESP, F, 1.74, 66, 11-09-02, Inca, Mallorca B
+20, Giovanni González, URU, D, 1.75, 70, 20-09-94, Montevideo, Peñarol
+21, Antonio Raíllo, ESP, D, 1.86, 77, 08-10-91, Córdoba, Espanyol
+22, Nacho Vidal, ESP, D, 1.80, 75, 24-01-95, El Campello, Osasuna
+23, Nemanja Radonjić, SRB, M, 1.85, 76, 15-02-96, Niš, Torino
+24, Martin Valjent, SVK, D, 1.86, 83, 11-12-95, Dubnica nad Váhom, Chievo Verona
+25, Iván Cuéllar, ESP, G, 1.87, 76, 27-05-84, Mérida, Sporting Gijón
+26, Rubén Quintanilla, ESP, M, 1.80, 70, 03-04-02, Barcelona, Damm
+29, Miguelito, ESP, D, -, -, 12-01-01, Palma de Mallorca, Mallorca B
+31, Yuzún Ley, ESP, D, 1.80, 75, 18-01-04, Arrecife, Mallorca B
+32, Marcos Fernández, ESP, D, -, -, 17-07-03, Andratx, Mallorca B
+34, Pau Mascaró, ESP, F, 1.78, 72, 20-10-04, -, Mallorca B
+36, Álex Quevedo, ESP, G, 1.91, 79, 28-04-04, Mahón, Mallorca B
+37, Carles Sogorb, ESP, D, 1.73, 60, 23-08-05, Palma de Mallorca, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Pere Joan, ESP, G, 1.88, 69, 22-03-02, Can Picafort, Sestao River (On Loan)
+22, Clément Grenier, FRA, M, 1.86, 72, 07-01-91, Annonay, Racing Santander
+34, Javi Llabrés, ESP, F, 1.74, 66, 11-09-02, Inca, Re-Registered (19)
+23, Amath Ndiaye, SEN, F, 1.73, 70, 16-07-96, Dakar, Valladolid (On Loan)
+27, David López, ESP, D, 1.95, 85, 03-02-03, Palma de Mallorca, Elche (On Loan)
+33, Daniel Luna, COL, M, 1.79, 66, 07-05-03, Santiago, Mirandés (On Loan)

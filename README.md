@@ -13,7 +13,7 @@ All names, dates, etc get copied as is incl. typos and errors.
 
 The html pages get changed to plain vanilla text files
 and the html table rows 
-turned into  comma-separated values (csv) records
+turned into records in the comma-separated values (csv) format
 e.g.
 
 ```

@@ -1,0 +1,43 @@
+=  Las Palmas - Spanish LaLiga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Cartagena
+2, Marvin Park, ESP, D, 1.78, 64, 03-07-00, Palma de Mallorca, Real Madrid B
+3, Sergi Cardona, ESP, D, 1.85, 77, 08-07-99, Lloret de Mar, La Pobla de Mafumet
+4, Alex Suárez, ESP, D, 1.79, 75, 18-03-93, Las Palmas, Las Palmas B
+5, Javi Muñoz, ESP, M, 1.77, 71, 28-02-95, Parla, Eibar
+6, Eric Curbelo, ESP, D, 1.73, 69, 14-01-94, Telde, Las Palmas B
+7, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Ibiza
+8, Maximo Perrone, ARG, M, 1.78, 67, 07-01-03, Capital Federal, Manchester C
+9, Sandro Ramírez, ESP, F, 1.72, 60, 09-07-95, Las Palmas, Huesca
+10, Alberto Moleiro, ESP, M, 1.69, 67, 30-09-03, Santa Cruz de Tenerife, Las Palmas B
+11, Benito Ramírez, ESP, M, 1.75, 70, 11-07-95, Las Palmas, Las Palmas B
+12, Enzo Loiodice, FRA, M, 1.76, 60, 27-11-00, Paris, Dijon
+13, Álvaro Valles, ESP, G, 1.90, 78, 25-05-97, La Rinconada, Betis B
+14, Álvaro Lemos, ESP, D, 1.75, 72, 30-03-93, La Coruña, Celta Vigo
+15, Mika Màrmol, ESP, D, 1.81, 70, 01-07-01, Terrassa, Andorra
+16, Sory Kaba, GUI, F, 1.91, 80, 10-04-95, Conakry, FC Midtjylland
+17, Munir El Haddadi, MAR, F, 1.72, 62, 01-09-95, San Lorenzo de El Escorial, Getafe
+18, Daley Sinkgraven, NED, D, 1.79, 66, 04-07-95, Assen, Bayer Leverkusen
+19, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Osasuna
+20, Kirian Rodríguez, ESP, M, 1.78, 76, 05-03-96, Candelaria, Las Palmas B
+21, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Levante
+22, Omenuke Mfulu, COD, M, 1.82, 69, 20-03-94, Poissy, Elche
+23, Saúl Coco, EQG, D, 1.88, 80, 09-02-99, Lanzarote, Las Palmas B
+24, Pejiño, ESP, M, 1.77, 67, 29-07-96, Barbate, Sevilla B
+25, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Las Palmas B
+26, Yadam Santana, ESP, M, 1.72, 72, 14-03-02, Las Palmas, Las Palmas B
+27, Pau, ESP, F, -, -, 17-10-03, Benicarló, Las Palmas B
+28, Julián Araujo, MEX, D, 1.78, 70, 13-08-01, Lompoc, Barcelona
+29, Iñaki González, ESP, M, 1.79, 74, 27-07-04, Badajoz, Badajoz
+30, Álvaro Killane, ARG, G, -, -, 14-12-04, -, Las Palmas B
+31, Juanma Herzog, ESP, M, 1.86, 85, 13-05-04, Santa Cruz de Tenerife, Las Palmas B
+33, Gabriel Palmero, ESP, D, -, -, 15-01-02, La Palma, Las Palmas B
+34, Abou Bassinga, CIV, M, -, -, 13-07-05, -, Las Palmas B
+35, Ale Gorrín, ESP, G, -, -, 08-08-02, -, Las Palmas B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Ale Palanca, ESP, D, 1.75, 71, 26-01-03, Las Palmas, Ponferradina (On Loan)
+21, Jonathan Viera, ESP, M, 1.71, 66, 21-10-89, Las Palmas, Almería

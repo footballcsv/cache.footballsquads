@@ -1,0 +1,39 @@
+=  RB Leipzig - German Bundesliga 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Péter Gulácsi, HUN, G, 1.90, 83, 06-05-90, Budapest, Red Bull Salzburg
+2, Mohamed Simakan, FRA, D, 1.87, 82, 03-05-00, Marseille, Strasbourg
+3, Christopher Lenz, GER, D, 1.80, 75, 22-09-94, Berlin, Eintracht Frankfurt
+4, Willi Orbán, HUN, D, 1.85, 80, 03-11-92, Kaiserslautern, Kaiserslautern
+5, El Chadaille Bitshiabu, FRA, D, 1.96, 82, 16-05-05, Villeneuve-Saint-Georges, Paris St-Germain
+6, Eljif Elmas, MKD, M, 1.82, 76, 24-09-99, Skopje, Napoli
+7, Dani Olmo, ESP, M, 1.79, 72, 07-05-98, Terrassa, Dinamo Zagreb
+8, Amadou Haidara, MLI, M, 1.75, 67, 31-01-98, Bamako, Red Bull Salzburg
+9, Yussuf Poulsen, DEN, F, 1.93, 78, 15-06-94, Copenhagen, Lyngby
+13, Nicolas Seiwald, AUT, M, 1.80, 70, 04-05-01, Kuchl, Red Bull Salzburg
+14, Christoph Baumgartner, AUT, M, 1.78, 68, 01-08-99, Horn, 1899 Hoffenheim
+16, Lukas Klostermann, GER, D, 1.85, 80, 03-06-96, Gevelsberg, Bochum
+17, Loïs Openda, BEL, F, 1.74, 70, 16-02-00, Liège, Lens
+20, Xavi Simons, NED, M, 1.68, 58, 21-04-03, Amsterdam, Paris St-Germain
+21, Janis Blaswich, GER, G, 1.93, 83, 02-05-91, Mehrhoog, Heracles Almelo
+22, David Raum, GER, D, 1.80, 75, 22-04-98, Nuremberg, 1899 Hoffenheim
+23, Castello Lukeba, FRA, D, 1.84, 73, 17-12-02, Lyon, Lyon
+24, Xaver Schlager, AUT, M, 1.74, 73, 28-09-97, Linz, Wolfsburg
+25, Leopold Zingerle, GER, G, 1.85, 82, 10-04-94, Munich, Paderborn
+30, Benjamin Šeško, SVN, F, 1.94, 77, 31-05-03, Radeče, Red Bull Salzburg
+31, Tim Köhler, GER, D, 1.90, 81, 02-05-05, Leipzig, None
+36, Timo Schlieck, GER, G, 1.93, 82, 02-03-06, Lippstadt, Borussia Dortmund
+38, Nuha Jatta, GER, M, 1.93, 84, 15-03-06, Osnabrück, Osnabrück
+39, Benjamin Henrichs, GER, D, 1.81, 74, 23-02-97, Bocholt, Monaco
+44, Kevin Kampl, SVN, M, 1.80, 63, 09-10-90, Solingen, Bayer Leverkusen
+46, Yannick Eduardo, NED, F, 1.90, 78, 23-01-06, Kadaň, NEC Nijmegen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Fabio Carvalho, POR, M, 1.70, 62, 30-08-02, Lisbon, Liverpool
+10, Emil Forsberg, SWE, M, 1.79, 78, 23-10-91, Sundsvall, New York Red Bulls
+28, Caden Clark, USA, M, 1.80, 70, 27-05-03, Medina, Minnesota U
+26, Ilaix Moriba, GUI, M, 1.85, 68, 19-01-03, Conakry, Getafe (On Loan)
+11, Timo Werner, GER, F, 1.80, 75, 06-03-96, Stuttgart, Tottenham H (On Loan)
+38, Hugo Novoa, ESP, F, 1.82, 70, 24-01-03, Bertamiráns, Villarreal B (On Loan)

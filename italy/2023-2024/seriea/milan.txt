@@ -1,0 +1,53 @@
+=  Milan - Italian Serie A 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Davide Calabria, ITA, D, 1.76, 70, 06-12-96, Brescia, None
+4, Ismaël Bennacer, ALG, M, 1.75, 70, 01-12-97, Arles, Empoli
+7, Yacine Adli, FRA, M, 1.86, 73, 29-07-00, Vitry-sur-Seine, Bordeaux
+8, Ruben Loftus-Cheek, ENG, M, 1.91, 88, 23-01-96, Lewisham, Chelsea
+9, Olivier Giroud, FRA, F, 1.92, 93, 30-09-86, Chambéry, Chelsea
+10, Rafael Leão, POR, F, 1.88, 81, 10-06-99, Almada, Lille
+11, Christian Pulisic, USA, F, 1.73, 63, 18-09-98, Easton, Chelsea
+14, Tijjani Reijnders, NED, M, 1.78, 65, 29-07-98, Zwolle, AZ Alkmaar
+15, Luka Jović, SRB, F, 1.81, 79, 23-12-97, Bijeljina, Fiorentina
+16, Mike Maignan, FRA, G, 1.91, 89, 03-07-95, Cayenne, Lille
+17, Noah Okafor, SUI, F, 1.85, 85, 24-05-00, Binningen, Red Bull Salzburg
+19, Théo Hernández, FRA, D, 1.84, 82, 06-10-97, Marseille, Real Madrid
+20, Pierre Kalulu, FRA, D, 1.79, 69, 05-07-00, Saint-Priest, Lyon
+21, Samuel Chukwueze, NGA, F, 1.72, 70, 22-05-99, Ugba, Villarreal
+23, Fikayo Tomori, ENG, D, 1.85, 79, 19-12-97, Calgary, Chelsea
+24, Simon Kjær, DEN, D, 1.90, 86, 26-03-89, Horsens, Sevilla
+28, Malick Thiaw, GER, D, 1.94, 89, 08-08-01, Düsseldorf, Schalke
+30, Mattia Caldara, ITA, D, 1.90, 80, 05-05-94, Scanzorosciate, Juventus
+32, Tommaso Pobega, ITA, M, 1.88, 75, 15-07-99, Trieste, None
+38, Filippo Terracciano, ITA, D, 1.81, 68, 08-02-03, Verona, Verona
+42, Alessandro Florenzi, ITA, D, 1.73, 66, 11-03-91, Rome, Roma
+46, Matteo Gabbia, ITA, D, 1.85, 78, 21-10-99, Busto Arsizio, None
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Atalanta
+69, Lapo Nava, ITA, G, 1.89, 70, 22-01-04, Milan, None
+73, Francesco Camarda, ITA, F, 1.84, 75, 10-03-08, Milan, None
+74, Álex Jiménez, ESP, D, 1.71, 61, 08-05-05, Leganés, Real Madrid B
+75, Hugo Cuenca, PAR, M, 1.83, 73, 08-01-05, Coronel Oviedo, Deportivo Capiatá
+78, Andrea Bartoccioni, ITA, G, 1.96, 81, 14-03-04, Milan, None
+80, Yunus Musah, USA, M, 1.78, 72, 29-11-02, New York, Valencia
+81, Victor Eletu, NGA, M, 1.79, 68, 01-04-05, Lagos, Cedratese
+82, Jan-Carlo Simić, SRB, D, 1.86, 75, 02-05-05, Nürtingen, Stuttgart
+83, Antonio Mirante, ITA, G, 1.93, 79, 08-07-83, Castellammare di Stabia, Roma
+85, Kevin Zeroli, ITA, M, 1.87, 60, 11-01-05, Busto Arsizio, None
+92, Noah Raveyre, FRA, G, 1.82, 75, 22-06-05, Le Puy-en-Velay, St-Étienne
+95, Davide Bartesaghi, ITA, D, 1.88, 74, 29-12-05, Erba, None
+96, Lorenzo Torriani, ITA, G, 1.97, 78, 31-01-05, Vimodrone, None
+97, Diego Sia, ITA, F, 1.68, 60, 10-03-06, Milan, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Marko Lazetić, SRB, F, 1.90, 80, 22-01-04, Belgrade, Fortuna Sittard (On Loan)
+56, Alexis Saelemaekers, BEL, M, 1.80, 72, 27-06-99, Berchem-Sainte-Agathe, Bologna (On Loan)
+5, Fodé Ballo-Touré, SEN, D, 1.82, 70, 03-01-97, Conflans-Sainte-Honorine, Fulham (On Loan)
+27, Divock Origi, BEL, F, 1.85, 75, 18-04-95, Ostend, Nottingham F (On Loan)
+29, Lorenzo Colombo, ITA, F, 1.83, 74, 08-03-02, Vimercate, Monza (On Loan)
+33, Rade Krunić, BIH, M, 1.84, 74, 07-10-93, Foča, Fenerbahçe (On Loan)
+18, Luka Romero, ARG, M, 1.65, 64, 18-11-04, Durango, Almería (On Loan)
+31, Marco Pellegrino, ARG, D, 1.84, 79, 18-07-02, Capital Federal, Salernitana (On Loan)
+70, Chaka Traoré, CIV, F, 1.75, 70, 23-12-04, Attécoubé, Palermo (On Loan)

@@ -1,0 +1,45 @@
+=  Le Havre - French Ligue 1 2023/2024
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mathieu Gorgelin, FRA, G, 1.87, 83, 05-08-90, Ambérieu-en-Bugey, Lyon
+4, Gautier Lloris, FRA, D, 1.91, 83, 18-07-95, Nice, Auxerre
+5, Oussama Targhalline, MAR, M, 1.86, 70, 20-05-02, Sidi Belyout, Marseille
+6, Étienne Youté Kinkoué, FRA, D, 1.95, 85, 14-01-02, Lyon, Olympiakos
+7, Loïc Nego, HUN, D, 1.79, 64, 15-01-91, Paris, MOL Fehérvár
+8, Yassine Kechta, MAR, M, 1.66, 58, 25-02-02, Paris, Paris FC
+9, Mohamed Bayo, GUI, F, 1.88, 76, 04-06-98, Clermont-Ferrand, Lille
+11, Emmanuel Sabbi, USA, M, 1.75, 70, 24-12-97, Vicenza, Odense
+12, Mathéo Bodmer, FRA, M, 1.79, 70, 06-05-04, Lille, Caen
+13, Steve Ngoura, FRA, F, 1.85, 75, 22-02-05, Ivry-sur-Seine, None
+14, Daler Kuzyayev, RUS, M, 1.90, 86, 15-01-93, Orenburg, Zenit St Petersburg
+17, Oualid El Hajjam, FRA, D, 1.81, 73, 19-02-91, Châteauroux, Troyes
+19, Rassoul Ndiaye, FRA, M, 1.79, 70, 11-12-01, Besançon, Sochaux
+20, Élysée Logbo, FRA, F, 1.88, 75, 06-05-04, Paris, None
+21, Antoine Joujou, FRA, F, 1.89, 84, 12-03-03, Mantes-la-Jolie, None
+22, Yoann Salmier, FRA, D, 1.88, 85, 21-11-92, Villiers-le-Bel, Troyes
+23, Josué Casimir, FRA, F, 1.78, 74, 24-09-01, Baie-Mahault, None
+24, Cheick Doumbia, FRA, D, 1.75, 63, 18-10-04, Courcouronnes, Lorient
+25, Aloïs Confais, FRA, M, 1.74, 61, 07-09-96, Evreux, Olympiakos Nicosia
+26, Simon Ebonog, CMR, F, 1.80, 70, 16-08-04, Yaoundé, None
+27, Christopher Operi, FRA, D, 1.83, 73, 29-04-97, Abidjan, KAA Gent
+28, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, Nottingham F
+29, Samuel Grandsir, FRA, M, 1.68, 64, 14-08-96, Evreux, LA Galaxy
+30, Arthur Desmas, FRA, G, 1.96, 87, 07-04-94, Brest, Clermont
+35, Yoni Gomis, FRA, D, 1.86, 70, 23-09-05, Saint-Aubin-lès-Elbeuf, None
+37, Mokrane Bentoumi, FRA, M, 1.69, 60, 16-06-05, Rouen, None
+40, Paul Argney, FRA, G, 1.86, 80, 23-05-06, Granville, None
+66, Aliou Thiare, SEN, D, 1.97, 84, 20-12-03, Diouloulou, Diambars
+93, Arouna Sanganté, SEN, D, 1.89, 76, 12-04-02, Mboa, Red Star
+94, Abdoulaye Touré, GUI, M, 1.87, 77, 03-03-94, Nantes, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Quentin Cornette, FRA, F, 1.72, 75, 17-01-94, La Ciotat, Volos
+9, Yann Kitala, FRA, F, 1.86, 83, 09-04-98, Paris, Almere C (On Loan)
+99, Emmanuel Sabbi, USA, M, 1.75, 70, 24-12-97, Vicenza, Re-Registered (11)
+45, Issa Soumaré, SEN, F, 1.82, 78, 10-10-00, Podor, Auxerre (On Loan)
+16, Mohamed Koné, CIV, G, 1.86, 78, 07-03-02, Adjamé, Dunkerque (On Loan)
+18, Nolan Mbemba, FRA, D, 1.82, 75, 19-02-95, Amiens, Grenoble
+15, Kandet Diawara, GUI, F, 1.80, 75, 10-02-00, Lille, Concarneau (On Loan)
+10, Nabil Alioui, FRA, F, 1.75, 64, 18-02-99, Toulon, Adana Demirspor
