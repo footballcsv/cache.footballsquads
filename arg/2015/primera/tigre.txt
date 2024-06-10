@@ -1,0 +1,40 @@
+=  Tigre - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Boca Juniors
+2, Erik Godoy, ARG, D, 1.84, 72, 16-08-93, Capital Federal, None
+3, Juan Blengio, ARG, D, 1.85, 85, 26-06-80, San Fernando, None
+4, Jorge Rodríguez, URU, M, 1.71, 71, 13-01-85, Montevideo, Peñarol
+5, Joaquín Arzura, ARG, M, 1.70, 71, 18-05-93, Campana, None
+6, Leandro González, ARG, D, 1.86, 90, 26-02-92, Capital Federal, River Plate
+7, Carlos Luna, ARG, F, 1.78, 78, 17-01-82, Piquillín, Rosario Central
+8, Martín Galmarini, ARG, M, 1.80, 77, 28-02-82, San Isidro, Atlante
+9, Federico González, ARG, F, 1.78, 79, 01-06-87, Entre Ríos, Atlético Rafaela
+10, Lucas Wilchez, ARG, M, 1.72, 65, 31-08-83, La Plata, Colo-Colo
+11, Kevin Itábel, ARG, F, 1.79, 75, 20-08-93, Florida, None
+12, Fernando Lugo, ARG, G, 1.88, 81, 07-07-94, Capital Federal, None
+13, Alberto Stegman, ARG, M, 1.83, 79, 01-02-94, Capital Federal, None
+14, Alexis Castro, ARG, M, 1.83, 78, 18-10-94, Capital Federal, None
+15, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, None
+16, Horacio Orzán, ARG, M, 1.77, 74, 14-04-88, Santa Sylvina, Newell's Old Boys
+17, Santiago Izaguirre, ARG, D, 1.85, 79, 30-10-94, Quilmes, None
+18, Agustín Pelletieri, ARG, M, 1.77, 70, 17-05-82, Capital Federal, Chivas USA
+19, Sebastián Rincón, COL, F, 1.85, 80, 14-01-94, Cali, Atenas
+20, Facundo Sánchez, ARG, M, 1.75, 73, 07-03-90, Sa Pereyra, Defensa y Justicia
+21, Mariano Echeverría, ARG, D, 1.92, 83, 27-05-81, Mar del Plata, Boca Juniors
+22, Sebastian D'Angelo, ARG, G, 1.85, 82, 14-01-89, Bariloche, Boca Juniors
+23, Leandro Garate, ARG, F, 1.75, 75, 02-09-93, Villa Constitución, None
+24, Ignacio Bonadío, ARG, D, 1.74, 70, 27-07-93, Capital Federal, Boca Juniors
+25, Nicolás Pantaleone, ARG, D, 1.80, 75, 18-02-93, Capital Federal, River Plate
+26, Lucas Menossi, ARG, M, 1.65, 65, 20-07-92, Beccar, None
+27, José Erick Correa, COL, F, 1.85, 86, 20-07-92, Acandí, Chivas USA
+28, Jerónimo Morales Neumann, ARG, F, 1.72, 70, 03-06-86, Godoy Cruz, Tigre
+29, Mario Paglialunga, ARG, M, 1.82, 81, 29-10-88, Rosario, Ponferradina
+30, Fernando Redondo, ARG, M, 1.90, 80, 15-09-94, Madrid, None
+33, Ernesto Goñi, URU, D, 1.86, 80, 13-01-85, Montevideo, Estudiantes (LP)
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Dynamo Kyiv
+16, Marcelo Larrondo, ARG, F, 1.91, 79, 16-08-88, Tunuyán, Torino

@@ -1,0 +1,47 @@
+=  Córdoba - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Igor Stefanović, SRB, G, 1.92, 88, 17-07-87, Svrljig, Moreirense
+2, José Antonio Caro, ESP, D, 1.83, 70, 08-03-93, Estepa, Betis B
+4, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, Mallorca
+5, Sergio Aguza, ESP, M, 1.75, 68, 02-09-92, Sant Boi, Alcorcón
+6, Edu Ramos, ESP, M, 1.76, 71, 17-02-92, Churriana, Albacete
+7, Javi Lara, ESP, M, 1.79, 71, 04-12-85, Montoro, Atlético de Kolkata
+9, José Antonio Reyes, ESP, F, 1.76, 76, 01-09-83, Utrera, Espanyol
+10, Alejandro Alfaro, ESP, M, 1.73, 68, 23-11-86, La Palma del Condado, Valladolid
+11, Javi Galán, ESP, M, 1.72, 70, 19-11-94, Badajoz, Badajoz
+12, Quim Araujo, ESP, M, 1.83, 73, 10-03-88, Barcelona, Albacete
+13, Paweł Kieszek, POL, G, 1.82, 82, 16-04-84, Warsaw, Estoril
+14, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Granada
+15, Miguel Loureiro, ESP, D, 1.80, 75, 21-11-96, Cerceda, Pontevedra
+16, Álex Quintanilla, ESP, D, 1.84, 78, 02-07-90, Bilbao, Almería
+17, José Manuel Fernández, ESP, D, 1.68, 66, 18-11-89, Córdoba, Oviedo
+18, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Almería B
+19, Javier Noblejas, ESP, D, 1.87, 75, 18-03-93, Madrid, Rayo Vallecano
+21, Jesús, ESP, D, 1.85, 79, 15-10-91, Las Américas, Zaragoza
+22, Saša Jovanović, SRB, F, 1.76, 75, 15-12-91, Lazarevac, Mladost Lučani
+23, Aythami, ESP, D, 1.84, 79, 02-04-86, Arguineguín, Las Palmas
+24, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Betis B
+26, Marcos Lavín, ESP, G, 1.87, 79, 02-09-96, Madrid, Atlético Saguntino
+28, Víctor Mena, ESP, D, , , 24-02-95, Los Palacios y Villafranca, San Roque
+29, Javier Soler, ESP, D, 1.86, 78, 20-02-97, Ontinyent, Córdoba B
+30, Jordi Ortega, ESP, M, 1.75, 70, 27-01-95, Mataró, Wolverhampton W
+31, Sebas Moyano, ESP, M, 1.73, 66, 23-03-97, Villanueva del Duque, Córdoba B
+32, Jesús Sillero, ESP, F, , , 28-12-95, Seville, Almería B
+34, Borja Estepa, ESP, F, , , 24-05-99, Córdoba, Córdoba B
+35, Waldo Rubio, ESP, F, 1.81, 70, 17-08-95, Badajoz, Recreativo Huelva
+37, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Jaén
+38, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Córdoba B
+39, Eneko Jauregi, ESP, F, 1.84, 81, 13-07-96, Muxika, Cádiz
+45, Alberto Quiles, ESP, F, 1.88, 70, 27-04-95, Huelva, Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Lugo (On Loan)
+3, Daniel Pinillos, ESP, D, 1.82, 72, 22-10-92, Logroño, Barnsley
+21, Carlos Caballero, ESP, M, 1.78, 75, 05-10-84, Alcorcón, Fuenlabrada
+9, Jona, ESP, F, 1.83, 80, 07-01-89, Málaga, Cádiz (On Loan)
+23, Saša Marković, SRB, M, 1.83, 75, 13-03-91, Belgrade, 
+16, João Afonso, POR, D, 1.88, 80, 28-05-90, Castelo Branco, Vitória Guimarães
+20, Esteve Monterde, ESP, M, 1.80, 70, 29-10-95, Badalona, Córdoba B

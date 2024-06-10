@@ -1,0 +1,47 @@
+=  Sassuolo - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Pomini, ITA, G, 1.85, 83, 17-03-81, Isola della Scala, Bellaria Igea
+3, Alessandro Longhi, ITA, D, 1.85, 72, 25-06-89, Desenzano, Chievo Verona
+4, Francesco Magnanelli, ITA, M, 1.82, 80, 12-11-84, Umbertide, Sangiovannese
+5, Luca Antei, ITA, D, 1.88, 77, 19-04-92, Rome, Roma
+6, Yussif Raman Chibsah, GHA, M, 1.78, 75, 10-03-93, Accra, Parma
+7, Simone Missiroli, ITA, M, 1.90, 75, 23-05-86, Reggio Calabria, Reggina
+8, Davide Biondini, ITA, M, 1.78, 67, 24-01-83, Longiano, Genoa
+10, Simone Zaza, ITA, F, 1.87, 75, 25-06-91, Policoro, Juventus
+11, Šime Vrsaljko, CRO, D, 1.83, 73, 10-01-92, Zadar, Genoa
+14, Anastasios Donis, GRE, F, 1.76, 75, 29-08-96, Blackburn, Juventus
+15, Francesco Acerbi, ITA, D, 1.92, 89, 10-02-88, Vizzolo Predabissi, Genoa
+16, Ciro Polito, ITA, G, 1.84, 78, 12-04-79, Naples, Atalanta
+17, Nicola Sansone, ITA, F, 1.75, 73, 10-09-91, Munich, Parma
+18, Abass Alhassan, GHA, M, , , 21-01-95, Accra, None
+19, Saphir Taïder, ALG, M, 1.80, 73, 29-02-92, Castres, Internazionale
+20, Paolo Bianco, ITA, D, 1.84, 77, 20-08-77, Ordona, Atalanta
+21, Leonardo Fontanesi, ITA, D, 1.81, 73, 20-02-96, Correggio, None
+23, Marcello Gazzola, ITA, D, 1.84, 79, 03-04-85, Borgotaro, Ascoli
+25, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+26, Emanuele Terranova, ITA, D, 1.83, 85, 14-04-87, Mazara del Vallo, Palermo
+27, Lorenzo Benucci, ITA, M, , , 22-11-96, Venaria Reale, Juventus
+28, Paolo Cannavaro, ITA, D, 1.85, 83, 26-06-81, Naples, Napoli
+29, Andrea Mandelli, ITA, M, , , 12-07-97, San Benedetto del Tronto, None
+30, Dejan Lazarević, SVN, F, 1.75, 70, 15-02-90, Ljubljana, Chievo Verona
+31, Federico Peluso, ITA, D, 1.86, 73, 20-01-84, Rome, Juventus
+32, Cesare Natali, ITA, D, 1.91, 87, 05-04-79, Bergamo, Bologna
+33, Matteo Brighi, ITA, M, 1.79, 79, 14-02-81, Rimini, Torino
+47, Andrea Consigli, ITA, G, 1.89, 79, 27-01-87, Milan, Atalanta
+52, Davide Lodesani, ITA, F, 1.81, 75, 04-05-95, Pavullo nel Frignano, None
+54, Lorenzo Caselli, ITA, D, 1.78, 72, 15-01-95, Bologna, SPAL
+79, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+83, Antonio Floro Flores, ITA, F, 1.83, 78, 18-06-83, Naples, Genoa
+86, Gianmarco Celeste, ITA, G, 1.82, , 21-08-96, Vignola, None
+96, Marcello Sereni, ITA, F, 1.80, 74, 24-07-96, Modena, None
+99, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Lazio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Fiorentina (On Loan)
+21, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Vicenza (On Loan)
+13, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, Genoa (On Loan)
+14, Leonardo Pavoletti, ITA, F, 1.86, 78, 26-11-88, Livorno, Genoa (On Loan)
+95, Ettore Gliozzi, ITA, F, 1.80, 73, 23-09-95, Siderno, Forlì (On Loan)

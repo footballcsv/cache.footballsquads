@@ -1,0 +1,37 @@
+=  1.FK Príbram - Czech 1.Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Štěpanovský, CZE, G, 1.89, 83, 17-07-88, , Bohemians Prague
+2, Jakub Jugas, CZE, D, 1.76, 88, 05-05-92, Mladá Boleslav, Zlín
+3, Milan Mišun, CZE, D, 1.86, 78, 21-02-90, Příbram, Viktoria Plzeň
+4, Tomáš Hájovský, SVK, D, 1.96, 89, 10-12-82, , Viktoria Plzeň
+5, Tomáš Zápotočný, CZE, D, 1.81, 80, 13-09-80, Příbram, Sparta Prague
+6, Daniel Tarczal, CZE, M, 1.75, 71, 22-03-85, Beroun, Beroun
+7, Lukáš Pleško, CZE, D, 1.75, 72, 21-05-77, Plzeň, Chmel Blšany
+8, Lukáš Stratil, CZE, F, 1.79, 72, 29-01-94, , Viktoria Plzeň
+9, Petr Švancara, CZE, F, 1.84, 80, 05-11-77, Brno, Zbrojovka Brno
+10, Miroslav Slepička, CZE, F, 1.81, 80, 10-11-81, Příbram, Sparta Prague
+14, Aziz Mashaan, KUW, M, 1.67, 65, 19-10-88, Kuwait City, Al-Qadsia
+15, Levon Hayrapetyan, ARM, D, 1.78, 73, 17-04-89, Yerevan, Widzew Łódź
+16, Martin Zeman, CZE, M, 1.74, 64, 28-03-89, Tábor, Sparta Prague
+17, Dominik Kraut, CZE, M, 1.83, 77, 15-01-90, , Baník Ostrava
+18, Tomáš Krbeček, CZE, M, 1.85, 80, 27-10-85, Cheb, Viktoria Plzeň
+19, Patrik Brandner, CZE, F, 1.80, 75, 04-01-94, Hořovice, None
+20, Zoran Danoski, MKD, F, 1.70, 64, 20-10-90, Prilep, Baník Most
+21, Jiří Mareš, CZE, M, 1.75, 66, 16-02-92, Hořovice, Hořovice
+22, Aleš Hruška, CZE, G, 1.93, 83, 23-11-85, Městec Králové, Viktoria Žižkov
+23, Ladislav Volešák, CZE, M, 1.74, 86, 07-04-84, Prague, Slovácko
+24, Josef Divíšek, CZE, M, 1.84, 72, 24-09-90, Prague, Sparta Prague
+25, Tomáš Pilík, CZE, M, 1.85, 77, 20-12-88, Příbram, Baník Ostrava
+26, Martin Abraham, CZE, M, 1.81, 79, 20-09-78, Moravska Trebova, Budissa Bautzen
+27, Jakub Řezníček, CZE, F, 1.86, 82, 26-05-88, Příbram, Mladá Boleslav
+28, Jakub Rondzik, SVK, G, 1.92, 88, 22-11-86, Košice, Vlašim
+29, Jan Kvída, CZE, D, 1.86, 72, 17-01-91, Příbram, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Marek Hanuš, CZE, M, 1.79, 70, 11-10-93, , Varnsdorf
+11, Martin Šlapák, CZE, F, 1.79, 76, 25-03-87, Hořovice, Baník Most (On Loan)
+17, Aleksandar Andrejević, SRB, M, 1.89, 77, 28-03-92, Belgrade, De-Registered
+18, Antonín Barák, CZE, M, 1.91, 85, 03-12-94, Příbram, De-Registered

@@ -1,0 +1,58 @@
+=  Rubin Kazan - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Kozko, RUS, G, 1.88, 82, 12-04-75, Stavropol, FC Moscow
+2, Stjepan Tomas, CRO, D, 1.86, 82, 06-03-76, Zagreb, Galatasaray
+3, Cristian Ansaldi, ARG, D, 1.78, 73, 20-09-86, Rosario, Newell's Old Boys
+4, Jefthon, BRA, D, 1.81, 81, 03-01-82, Itabuna, Kuban
+5, Andrei Fyodorov, RUS, D, 1.85, 80, 10-04-71, Fergana, Baltika
+6, Macbeth Sibaya, RSA, M, 1.75, 72, 25-11-77, Durban, Rosenborg
+7, Sergey Semak, RUS, M, 1.78, 73, 27-02-76, Sychanske, FC Moscow
+9, Lasha Salukvadze, GEO, D, 1.84, 80, 21-12-81, Tbilisi, Dynamo Tbilisi
+10, Andrey Kobenko, RUS, M, 1.76, 67, 25-06-82, Maykop, Amkar Perm
+11, Aleksandr Bukharov, RUS, F, 1.91, 83, 12-03-85, Naberezhnye Chelny, Rubin-2
+14, Serhiy Rebrov, UKR, F, 1.73, 71, 03-06-74, Gorlovka, Dynamo Kiev
+15, Aleksandr Ryazantsev, RUS, M, 1.76, 70, 05-09-86, Moscow, FC Moscow
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Emelec
+19, Savo Milošević, SRB, F, 1.87, 78, 02-09-73, Bijeljina, Osasuna
+21, Roman Adamov, RUS, F, 1.87, 80, 21-06-82, Belaya Kalitva, FC Moscow
+22, Aleksandr Orekhov, RUS, D, 1.98, 92, 29-11-83, Kropotkin, Kuban Krasnodar
+23, Evgeniy Balyaikin, RUS, M, 1.83, 74, 19-05-88, Bratsk, Sibiryak Bratsk
+24, Aleksey Popov, RUS, D, 1.88, 83, 07-07-78, Perm, Amkar Perm
+27, Dato Kvirkvelia, GEO, D, 1.84, 76, 27-06-80, Lanchkhuti, Alania Vladikavkaz
+29, Nukri Revishvili, GEO, G, 1.88, 74, 02-03-87, Kutaisi, Torpedo Kutaisi
+32, Evgeniy Cheremisin, RUS, G, 1.92, 80, 29-02-88, , Rubin-2
+41, Ilsur Samigullin, RUS, M, 1.78, 70, 06-02-91, , Rubin-2
+43, Aleksey Kotlarov, RUS, M, 1.76, 67, 11-05-89, Magnitogorsk, Rubin-2
+44, Igor Klimov, RUS, D, 1.87, 70, 01-11-89, Kazan, Rubin-2
+48, Vadim Afonin, UZB, M, 1.76, 68, 29-09-87, Tashkent, Rubin-2
+49, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, Rubin-2
+56, Ruslan Nagaev, RUS, M, 1.80, 71, 14-02-89, , Rubin-2
+61, Gökdeniz Karadeniz, TUR, M, 1.69, 66, 11-01-80, Giresun, Trabzonspor
+64, Dmitriy Korthev, RUS, G, 1.84, 72, 16-05-89, , Rubin-2
+65, Maksim Zhestokov, RUS, D, 1.87, 70, 19-06-91, Kazan, Rubin-2
+67, Davron Mirzaev, UZB, F, 1.80, 65, 08-02-89, Tashkent, Pakhtakor Tashkent
+68, Ilya Kukharchuk, RUS, F, 1.84, 77, 02-08-90, Kostroma, Rubin-2
+76, Roman Sharonov, RUS, D, 1.84, 76, 08-09-76, Moscow, Shinnik
+77, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Lokomotiv Moscow
+80, Dmitriy Tarabrikov, RUS, D, 1.80, 69, 23-04-90, , Rubin-2
+81, Ildar Bikchantaev, RUS, F, 1.82, 68, 02-02-90, , Rubin-2
+82, Mikhail Mishchenko, RUS, D, 1.88, 80, 27-06-89, , Rubin-2
+83, Vladimir Chernov, RUS, M, 1.87, 74, 15-01-91, , Rubin-2
+92, Vakhit Orazsakhedov, TKM, F, 1.80, 70, 26-01-92, Ashgabat, Rubin-2
+93, Shamil Alimagomaev, RUS, M, 1.70, 68, 13-07-89, , Rubin-2
+94, Artem Ivanov, RUS, M, 1.74, 66, 16-02-90, , Rubin-2
+95, Valeriy Zimakov, RUS, M, 1.72, 66, 22-11-90, , Rubin-2
+97, Igor Portnyagin, RUS, F, 1.90, 75, 07-01-89, Vladivostok, Rubin-2
+99, Hasan Kabze, TUR, F, 1.85, 74, 26-05-82, Ankara, Galatasaray
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+54, Vladimir Dyadyun, RUS, F, 1.80, 71, 12-07-88, Omsk, FC Rostov (On Loan)
+91, Pavel Krasnikov, RUS, D, 1.90, 82, 25-02-90, , 
+20, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, FC Moscow
+8, Petr Gitselov, RUS, M, 1.81, 76, 18-07-83, Kazan, FC Rostov (On Loan)
+26, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, FC Rostov
+98, Dmitriy Vasilyev, RUS, D, 1.80, 74, 25-03-77, St. Petersburg, Shinnik
+31, Gabriel, BRA, D, 1.90, 84, 04-08-81, Portão, FC Khimki (On Loan)

@@ -1,0 +1,46 @@
+=  Siena - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dimitrios Eleftheropoulos, GRE, G, 1.90, 83, 07-08-76, Athens, Ascoli
+2, Camilo Zuñiga, COL, D, 1.72, 72, 14-12-85, Chigorodó, Atlético Nacional
+5, Paul Constantin Codrea, ROU, M, 1.74, 69, 04-04-81, Timişoara, Palermo
+6, Ahmed Barusso, GHA, M, 1.84, 75, 26-12-84, Accra, Roma
+7, Mario Frick, LIE, F, 1.82, 78, 07-09-74, Chur, Ternana
+8, Simone Vergassola, ITA, M, 1.74, 70, 24-01-76, La Spezia, Torino
+9, Marcelo Larrondo, ARG, F, 1.91, 79, 16-08-88, Tunuyán, Progreso
+10, Houssine Kharja, MAR, M, 1.81, 77, 09-11-82, Poissy, Piacenza
+11, Emanuele Calaiò, ITA, F, 1.79, 72, 08-01-82, Palermo, Napoli
+13, Luca Rossettini, ITA, D, 1.80, 73, 09-05-85, Padua, Padova
+14, Daniele Galloppa, ITA, M, 1.80, 71, 15-05-85, Rome, Roma
+15, Gonçalo Brandão, POR, D, 1.82, 72, 09-10-86, Lisbon, Belenenses
+17, Nicola Amoruso, ITA, F, 1.86, 75, 29-08-74, San Giovanni Rotondo, Torino
+18, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Genoa
+19, Lorenzo Del Prete, ITA, D, 1.76, 68, 12-01-86, Rome, Juventus
+20, Daniele Ficagna, ITA, D, 1.86, 76, 23-02-81, Piombino, Cesena
+21, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Juventus
+23, Lukáš Jarolím, CZE, M, 1.76, 72, 29-07-76, Pardubice, Slavia Prague
+24, Nicola Belmonte, ITA, D, 1.83, 75, 15-04-87, Cosenza, Bari
+30, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Cagliari
+31, Douglas Ricardo Packer, BRA, M, 1.78, 66, 13-03-87, Santa Caterina, Juventus
+32, Massimo Maccarone, ITA, F, 1.80, 73, 06-09-79, Iuogo Galliate, Middlesbrough
+33, Antonio Zito, ITA, M, 1.84, 75, 06-06-86, Naples, Taranto
+46, Emanuele Manitta, ITA, G, 1.88, 83, 12-01-77, Caltagirone, Messina
+55, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Genoa
+57, Mariano Romano, ITA, M, , , 07-07-89, Naples, None
+83, Manuel Mancini, ITA, M, 1.80, 78, 26-08-83, Rome, Taranto
+85, Gianluca Curci, ITA, G, 1.91, 90, 12-07-85, Rome, Roma
+89, Mihail Ivanov, BUL, G, 1.85, 74, 07-08-89, Siena, RC Angolana
+90, Daniele Portanova, ITA, D, 1.85, 75, 17-12-78, Rome, Napoli
+91, Marco Gori, ITA, G, , , 18-05-91, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+86, Pasquale Iadaresta, ITA, F, 1.92, 82, 17-03-86, San Felice a Cancello, Foligno
+99, Richard Porta, URU, F, 1.84, 72, 01-08-83, Fairfield, Belenenses (On Loan)
+17, Fernando Forestieri, ITA, F, 1.72, 67, 16-01-90, Rosario, Genoa
+87, Gianluca Sansone, ITA, M, 1.73, 67, 12-05-87, Teramo, Gallipoli (On Loan)
+3, Rodrigo De Lazzari, BRA, D, 1.89, 84, 10-12-80, Curitiba, Colligiana
+22, Maximiliano Ré, ARG, M, 1.78, 72, 23-03-87, Rosario, Colligiana (On Loan)
+50, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, Colligiana (On Loan)
+16, Cosmin Moţi, ROU, D, 1.83, 74, 03-12-84, Reşiţa, Dinamo Bucureşti

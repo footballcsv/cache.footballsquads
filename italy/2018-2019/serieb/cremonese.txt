@@ -1,0 +1,48 @@
+=  Cremonese - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Ravaglia, ITA, G, 1.84, 83, 12-12-88, Forlì, Parma
+2, Ivan Rondanini, ITA, D, 1.83, 82, 10-04-95, Cuggiono, Brescia
+3, Claiton dos Santos, BRA, D, 1.88, 79, 07-09-84, Santa Helena de Goiás, Crotone
+4, Mariano Arini, ITA, M, 1.78, 74, 17-01-87, Naples, SPAL
+7, Antonio Piccolo, ITA, F, 1.75, 70, 07-04-88, Naples, Spezia
+8, Gaetano Castrovilli, ITA, M, 1.79, 72, 17-02-97, Canosa di Puglia, Fiorentina
+9, Luca Strizzolo, ITA, F, 1.88, 83, 29-04-92, Udine, Cittadella
+10, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+11, Daniele Croce, ITA, M, 1.73, 70, 09-09-82, Giulianova, Empoli
+12, Giacomo Volpe, ITA, G, 1.89, 80, 16-01-96, Biella, Gubbio
+14, Vasile Mogos, ROU, D, 1.85, 84, 31-10-92, Vaslui, Ascoli
+15, Danilo Soddimo, ITA, F, 1.80, 70, 27-09-87, Rome, Frosinone
+16, Michael Agazzi, ITA, G, 1.89, 80, 03-07-84, Ponte San Pietro, Ascoli
+17, Francesco Migliore, ITA, D, 1.73, 69, 17-04-88, Arezzo, Genoa
+18, Michele Castagnetti, ITA, M, 1.80, 74, 27-12-89, Montecchio Emilia, SPAL
+21, Gabriel Strefezza, BRA, F, 1.68, 63, 18-04-97, São Paulo, SPAL
+22, Boris Radunović, SRB, G, 1.94, 84, 26-05-96, Belgrade, Atalanta
+23, Antonio Caracciolo, ITA, D, 1.81, 73, 30-06-90, Tempio Pausania, Verona
+24, Dario Del Fabro, ITA, D, 1.89, 75, 24-03-95, Alghero, Juventus
+26, Emanuele Terranova, ITA, D, 1.85, 86, 14-04-87, Mazara del Vallo, Frosinone
+27, Xian Emmers, BEL, M, 1.78, 72, 20-07-99, Lugano, Internazionale
+28, Davide Missaglia, ITA, D, , , 30-08-00, Rho, None
+30, Mirko Carretta, ITA, F, 1.78, 75, 23-11-90, Gallipoli, Ternana
+31, Stefano Girelli, ITA, M, 1.78, 65, 09-01-01, Brescia, Lumezzane
+32, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Ternana
+33, Francesco Renzetti, ITA, D, 1.73, 70, 22-01-88, Monte Carlo, Genoa
+34, Reda Boultam, NED, M, 1.87, 77, 03-03-98, Meknes, Ajax
+35, Stefano Cella, ITA, M, 1.85, 74, 22-07-00, Rimini, None
+36, Alessandro Fiore, ITA, G, , , 08-03-01, Milan, None
+37, Manuel Poledri, ITA, M, , , 06-08-00, Manerbio, None
+38, Nicolò Radaelli, ITA, G, 1.76, 61, 17-03-01, Segrate, Internazionale
+42, Maodo Malick Mbaye, SEN, M, 1.75, 72, 06-11-95, Thiès, Chievo Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Alberto Picchi, ITA, M, 1.85, 69, 12-08-97, Livorno, Empoli
+25, Marco Amadio, ITA, M, , , 03-06-99, Motta di Livenza, Como (On Loan)
+9, Andrea Brighenti, ITA, F, 1.79, 79, 02-12-87, Bussolengo, Monza
+15, Ivan Marconi, ITA, D, 1.83, 79, 25-10-89, Brescia, Monza
+5, Anton Krešić, CRO, D, 1.98, 90, 29-01-96, Zagreb, Atalanta
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Foggia
+29, Tommaso Spaviero, ITA, F, , , 26-04-99, Broni, Modena (On Loan)
+10, Paulinho, BRA, F, 1.76, 72, 10-01-86, Caxias do Sul, 
+20, Giampietro Perrulli, ITA, M, 1.71, 71, 08-06-85, Rome, Novara

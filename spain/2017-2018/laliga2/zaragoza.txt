@@ -1,0 +1,36 @@
+=  Zaragoza - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, San Lorenzo
+2, Alberto Benito, ESP, D, 1.78, 68, 13-06-92, Tarragona, Reus
+3, Angel Martínez, ESP, D, 1.84, 78, 15-05-91, Barcelona, Reus
+4, Bruno Perone, BRA, D, 1.91, 87, 06-07-87, São Paulo, Nàstic
+5, Diogo Verdasca, POR, D, 1.85, 80, 26-10-96, Guimarães, FC Porto
+6, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Vaduz
+7, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Valencia
+8, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Zaragoza B
+9, Borja Iglesias, ESP, F, 1.87, 79, 17-01-93, Santiago de Compostela, Celta Vigo B
+10, Javi Ros, ESP, M, 1.72, 67, 16-02-90, Pamplona, Mallorca
+11, Alain Oyarzun, ESP, M, 1.82, 73, 27-09-93, San Sebastián, Real Sociedad
+13, Álvaro Ratón, ESP, G, 1.92, 75, 29-01-93, O Carballiño, Villanovense
+14, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Real Madrid B
+15, Oliver Buff, SUI, M, 1.76, 68, 03-08-92, Baden, Zürich
+16, Íñigo Eguaras, ESP, M, 1.81, 76, 07-03-92, Antsoain, Mirandés
+17, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Zaragoza B
+19, Giorgi Papunashvili, GEO, M, 1.80, 76, 02-09-95, Tbilisi, Dinamo Tbilisi
+20, Jesús Alfaro, ESP, F, 1.72, 65, 24-06-91, La Palma del Condado, Barcelona B
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Lokomotiv Moscow
+22, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Zaragoza B
+23, Gaizka Toquero, ESP, F, 1.82, 72, 09-08-84, Vitoria-Gasteiz, Alavés
+24, Mikel González, ESP, D, 1.88, 78, 24-09-85, Mondragón, Real Sociedad
+26, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza B
+28, Raí, BRA, F, 1.72, 68, 18-05-98, Rio de Janeiro, Zaragoza B
+29, Alejandro Zalaya, ESP, D, 1.83, 75, 29-04-98, Zaragoza, Zaragoza B
+31, Sergio García, ESP, G, 1.88, 79, 30-07-97, Valdáliga, Racing Ferrol
+32, David Vicente, ESP, D, 1.72, 67, 23-04-99, Zaragoza, Zaragoza B
+33, Pep Biel, ESP, M, 1.67, 64, 05-09-96, Sant Joan, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Jesús, ESP, D, 1.85, 79, 15-10-91, Las Américas, Córdoba

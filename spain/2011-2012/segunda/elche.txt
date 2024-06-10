@@ -1,0 +1,39 @@
+=  Elche - Spanish Segunda Divisón A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Leandro, ESP, G, 1.86, 77, 28-02-89, Alzira, Elche Cadete
+2, Javier Carpio, ESP, D, 1.75, 72, 06-04-84, Salamanca, Alcoyano
+3, Cristóbal, ESP, M, 1.80, 76, 21-04-84, Madrid, Karpaty Lviv
+4, Xabier Etxeita, ESP, M, 1.85, 79, 31-10-87, Zornotza, Athletic Bilbao
+5, Héctor Rodas, ESP, D, 1.90, 80, 07-03-88, Valencia, Levante
+7, Perico, ESP, F, 1.82, 75, 18-01-85, Málaga, Salamanca
+8, Sergio Mantecón, ESP, M, 1.77, 80, 08-06-80, Madrid, Castellón
+9, Ángel, ESP, F, 1.72, 68, 26-04-87, Santa Cruz de Tenerife, Tenerife
+10, Kike Mateo, ESP, M, 1.80, 72, 30-12-79, Murcia, Sporting Gijón
+11, Miquel Palanca, ESP, F, 1.70, 72, 18-12-87, Tarragona, Real Madrid B
+12, Grégory Beranger, FRA, D, 1.74, 72, 30-08-81, Nice, Tenerife
+14, Nicki Bille Nielsen, DEN, F, 1.84, 76, 07-02-88, Vigerslev, Villarreal B
+15, Cristian, ESP, F, 1.71, 68, 21-09-83, Barcelona, Hércules
+16, Ruper, ESP, M, 1.80, 76, 04-06-87, Estella, Osasuna
+17, Jordi Xumetra, ESP, M, 1.72, 70, 24-10-85, L'Estartit, Girona
+18, Sergio Pelegrín, ESP, D, 1.84, 80, 18-04-79, Barcelona, Rayo Vallecano
+19, Miguel Linares, ESP, F, 1.81, 72, 30-09-82, Zaragoza, Salamanca
+20, David Generelo, ESP, M, 1.83, 82, 11-08-82, Badajoz, Zaragoza
+21, Edu Albacar, ESP, D, 1.77, 70, 16-11-79, Tortosa, Rayo Vallecano
+22, Javier Flaño, ESP, D, 1.77, 68, 19-08-84, Pamplona, Numancia
+23, Jorge Luque, ESP, M, 1.75, 71, 08-03-81, Córdoba, Córdoba
+24, Héctor Verdés, ESP, D, 1.86, 80, 24-06-84, Villar del Arzobispo, Valencia B
+25, Juan Carlos, ESP, G, 1.80, 78, 27-07-87, Calvià, Villarreal
+26, Javi Paños, ESP, M, 1.88, 79, 21-03-91, Alicante, Elche Ilicitano
+27, Alexis Egea, ESP, D, , , 25-12-87, , Elche Ilicitano
+28, Yeray, ESP, M, , , 20-05-91, , Elche Ilicitano
+29, Rubén Solano, ESP, F, , , 19-01-93, , Elche Ilicitano
+30, Juanma, ESP, M, , , 24-03-92, , Elche Ilicitano
+31, José Carlos, ESP, G, 1.78, 68, 31-12-92, Elche, Elche Ilicitano
+32, Alberto Berná, ESP, M, , , 12-06-87, , Elche Ilicitano
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Luismi Loro, ESP, M, 1.75, 75, 04-09-79, Fuenlabrada, Tenerife
+15, José Luis Acciari, ARG, M, 1.84, 78, 29-11-78, Buenos Aires, Girona

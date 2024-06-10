@@ -1,0 +1,57 @@
+=  Atlético Madrid - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Adán, ESP, G, 1.91, 88, 13-05-87, Madrid, Betis
+2, José Giménez, URU, D, 1.85, 77, 20-01-95, Toledo, Danubio
+4, Santiago Arias, COL, D, 1.70, 67, 13-01-92, Medellín, PSV Eindhoven
+5, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Atlético Madrid B
+6, Koke, ESP, M, 1.77, 73, 08-01-92, Madrid, Atlético Madrid B
+7, João Félix, POR, F, 1.80, 62, 10-11-99, Viseu, Benfica
+8, Saúl Ñiguez, ESP, M, 1.84, 76, 21-11-94, Elche, Atlético Madrid B
+9, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Chelsea
+10, Ángel Correa, ARG, F, 1.72, 67, 09-03-95, Rosario, San Lorenzo
+11, Thomas Lemar, FRA, M, 1.70, 58, 12-11-95, Baie-Mahault, Monaco
+12, Renan Lodi, BRA, D, 1.78, 74, 08-04-98, Serrano, Athletico Paranaense
+13, Jan Oblak, SVN, G, 1.89, 84, 07-01-93, Škofja Loka, Benfica
+14, Marcos Llorente, ESP, M, 1.84, 73, 30-01-95, Madrid, Real Madrid
+15, Stefan Savić, MNE, D, 1.87, 80, 08-01-91, Mojkovac, Fiorentina
+16, Héctor Herrera, MEX, M, 1.82, 70, 19-04-90, Tijuana, FC Porto
+17, Ivan Šaponjić, SRB, F, 1.92, 84, 02-08-97, Nova Varoš, Benfica
+18, Felipe, BRA, D, 1.85, 77, 16-05-89, Mogi das Cruzes, FC Porto
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Chelsea
+20, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Sevilla
+21, Yannick Ferreira Carrasco, BEL, M, 1.81, 73, 04-09-93, Elsene, Dalian Professional
+22, Mario Hermoso, ESP, D, 1.84, 74, 18-06-95, Madrid, Espanyol
+23, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Tottenham H
+24, Šime Vrsaljko, CRO, D, 1.81, 76, 10-01-92, Zadar, Sassuolo
+27, Diego Conde, ESP, G, 1.88, 85, 20-10-98, Madrid, Atlético Madrid B
+30, Andrés Solano, COL, D, 1.76, 72, 24-02-98, Santa Marta, Atlético Madrid B
+32, Rodrigo Riquelme, ESP, M, 1.74, 69, 02-04-00, Madrid, Atlético Madrid B
+33, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Atlético Madrid B
+34, Sergio Camello, ESP, F, 1.77, 69, 10-02-01, Madrid, Atlético Madrid B
+35, Manu Sánchez, ESP, D, 1.79, 70, 24-08-00, Madrid, Atlético Madrid B
+37, Alex Dos Santos, ESP, G, 1.85, 79, 15-01-99, Xinguara, Atlético Madrid B
+38, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+39, Óscar Clemente, ESP, M, 1.75, 67, 26-03-99, Santa Cruz de Tenerife, Atlético Madrid B
+40, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Villarreal B
+41, José Carlos Aliaga, ESP, D, , , 18-01-99, Sant Vicent del Raspeig, Atlético Madrid B
+42, Ricard Sánchez, ESP, D, 1.75, 70, 22-02-00, Sant Jaume dels Domenys, Atlético Madrid B
+43, Adrián Ferreras, ESP, M, , , 10-04-00, Valladolid, Atlético Madrid B
+44, Alberto Salido, ESP, F, , , 19-01-00, Palma de Mallorca, Atlético Madrid B
+45, Fernando Medrano, ESP, D, 1.72, 68, 26-03-00, Madrid, Atlético Madrid B
+46, Marco Moreno, ESP, D, 1.90, 80, 20-02-01, Las Palmas, Atlético Madrid B
+47, Óscar Castro, ESP, M, 1.77, 73, 20-06-01, Santa Cruz de Tenerife, Atlético Madrid B
+48, Germán Valera, ESP, F, 1.70, 68, 16-03-02, Murcia, Atlético Madrid B
+51, José Saldaña, ESP, G, , , 09-05-01, Almería, Atlético Madrid B
+52, Álex Fernández, ESP, G, , , 04-12-01, Madrid, Atlético Madrid B
+53, Javier Hyjek, POL, M, 1.86, 76, 12-01-01, Madrid, Atlético Madrid B
+55, Iker Recio, ESP, D, 1.85, 80, 17-06-01, Talavera de la Reina, Atlético Madrid B
+56, Iván Montoro, ESP, M, , , 26-02-01, Alcorcón, Atlético Madrid B
+57, Gonzalo Camello, ESP, D, , , 10-02-01, Madrid, Atlético Madrid B
+60, Diego Lorenzo, ESP, F, , , 07-02-02, Madrid, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Nikola Kalinić, CRO, F, 1.86, 78, 05-01-88, Split, Roma (On Loan)
+36, Mikel Carro, ESP, M, 1.88, 79, 25-01-99, Madrid, Castellón (On Loan)

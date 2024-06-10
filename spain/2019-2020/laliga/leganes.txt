@@ -1,0 +1,48 @@
+=  Leganés - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iván Cuéllar, ESP, G, 1.87, 76, 27-05-84, Mérida, Sporting Gijón
+2, Marc Navarro, ESP, D, 1.88, 79, 02-07-95, Barcelona, Watford
+3, Unai Bustinza, ESP, D, 1.75, 74, 02-02-92, Bilbao, Athletic Bilbao
+4, Kenneth Omeruo, NGA, D, 1.85, 79, 17-10-93, Kaduna, Chelsea
+5, Jonathan Silva, ARG, D, 1.78, 69, 29-06-94, La Plata, Sporting CP
+6, Roque Mesa, ESP, M, 1.71, 74, 07-06-89, Telde, Sevilla
+8, Recio, ESP, M, 1.82, 79, 11-01-91, Málaga, Málaga
+9, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, Olympiakos
+11, Alexander Szymanowski, ARG, M, 1.75, 65, 13-10-88, Capital Federal, Brøndby
+12, Chidozie Awaziem, NGA, D, 1.89, 82, 01-01-97, Enugu, FC Porto
+13, Juan Soriano, ESP, G, 1.82, 78, 23-08-97, Benacazón, Sevilla
+15, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Barcelona B
+16, Roberto Rosales, VEN, D, 1.75, 71, 20-11-88, Caracas, Málaga
+17, Javier Eraso, ESP, M, 1.80, 71, 22-03-90, Pamplona, Athletic Bilbao
+18, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Southampton
+19, Aitor Ruibal, ESP, F, 1.76, 74, 22-03-96, Manresa, Betis B
+20, Roger Assalé, CIV, F, 1.67, 65, 13-11-93, Abengourou, Young Boys
+21, Rubén Pérez, ESP, M, 1.78, 73, 26-04-89, Écija, Granada
+22, Dimitris Siovas, GRE, D, 1.92, 83, 16-09-88, Drama, Olympiakos
+23, Ibrahim Amadou, FRA, M, 1.83, 78, 06-04-93, Douala, Sevilla
+24, Kévin Rodrigues, POR, M, 1.70, 70, 05-03-94, Bayonne, Real Sociedad
+26, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Sevilla
+27, Óscar, ESP, M, 1.74, 68, 28-06-98, Talavera de la Reina, Real Madrid B
+28, Iván López, ESP, D, , , 08-08-98, , Leganés B
+29, Aymane Mourid, MAR, M, 1.82, 77, 07-05-00, Casablanca, Leganés B
+31, Dani Plomer, ESP, F, 1.83, 78, 30-11-98, Palma de Mallorca, Leganés B
+32, Mario del Campo, ESP, D, 1.83, 73, 31-01-99, Madrid, Real Madrid B
+33, Javier Avilés, ESP, M, 1.81, 75, 17-08-97, Madrid, Leganés B
+35, Pablo Lombo, ESP, G, , , 24-05-99, , Leganés B
+36, Iván Amores, ESP, M, 1.70, 55, 27-05-97, Madrid, Alcobendas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Facundo García, ARG, M, 1.80, 72, 16-12-99, Olavarría, AEK Larnaca (On Loan)
+31, Álex Martín, ESP, D, 1.82, 79, 25-01-98, Las Palmas, Cartagena (On Loan)
+14, Juan Muñoz, ESP, F, 1.82, 80, 12-11-95, Utrera, Almería (On Loan)
+20, Fede Varela, ARG, M, 1.75, 62, 18-04-97, Lanús, Las Palmas (On Loan)
+9, Sabin Merino, ESP, F, 1.87, 76, 04-01-92, Urduliz, Deportivo La Coruña
+23, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Lugo (On Loan)
+26, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Sevilla
+10, José Arnáiz, ESP, F, 1.74, 70, 15-04-95, Talavera de la Reina, Osasuna (On Loan)
+14, Cristian Rivera, ESP, M, 1.90, 80, 09-07-97, Gijón, Las Palmas
+30, André Grandi, BRA, G, 1.93, 84, 02-05-97, Medianeira, 
+7, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Barcelona

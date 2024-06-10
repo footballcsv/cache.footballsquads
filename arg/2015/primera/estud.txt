@@ -1,0 +1,43 @@
+=  Estudiantes (La Plata) - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustín Silva, ARG, G, 1.91, 93, 28-06-89, Baradero, None
+2, Leandro Desábato, ARG, D, 1.86, 84, 24-01-79, Cafferatta, Argentinos Juniors
+3, Álvaro Pereira, URU, D, 1.80, 78, 28-11-85, Montevideo, Internazionale
+4, Mauricio Rosales, ARG, D, 1.74, 68, 10-03-92, La Plata, None
+5, Gastón Gil Romero, ARG, M, 1.77, 79, 06-05-93, General Roca, None
+7, Carlos Auzqui, ARG, M, 1.74, 69, 16-09-91, Longchams, None
+8, Israel Damonte, ARG, M, 1.75, 72, 06-01-82, Salto, Nacional [URU]
+9, Gastón Fernández, ARG, F, 1.70, 72, 12-10-83, Capital Federal, Portland Timbers
+10, David Barbona, ARG, M, 1.84, 81, 22-02-95, Capital Federal, Nueva Chicago
+12, Hilario Navarro, ARG, G, 1.92, 84, 14-11-80, Corrientes, Independiente
+14, Juan Sánchez Miño, ARG, M, 1.77, 78, 01-01-90, Saavedra, Torino
+15, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, Olimpo (BB)
+16, Leonardo Gil, ARG, M, 1.76, 68, 31-05-91, Río Gallegos, Olimpo (BB)
+17, Luciano Acosta, ARG, M, 1.61, 59, 01-05-94, Rosario, Boca Juniors
+18, Leonardo Jara, ARG, M, 1.77, 75, 20-05-91, Corrientes, None
+19, Federico Anselmo, ARG, F, 1.86, 82, 17-04-94, Las Acequias, None
+21, Jonathan Schunke, ARG, D, 1.94, 85, 22-05-87, 25 de Mayo, Ferro Carril Oeste
+22, Matías Rosso, ARG, F, 1.82, 70, 12-03-93, Rosario, Chacarita Juniors
+23, Sebastián Dominguez, ARG, D, 1.83, 67, 29-07-80, Capital Federal, Vélez Sarsfield
+24, Julián Marchioni, ARG, M, 1.81, 78, 11-03-93, La Plata, None
+25, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Chacarita Juniors
+26, Diego Mendoza, ARG, F, 1.86, 85, 30-09-92, General Madariaga, None
+28, Luciano Vargas, ARG, D, 1.86, 74, 28-01-94, Berazategui, None
+29, Gabriel Seijas, ARG, M, 1.75, 70, 24-03-94, Ranelagh, None
+31, Rodrigo Ayala, ARG, D, 1.79, 70, 11-08-94, Berazategui, None
+32, Elías Umeres, ARG, F, 1.67, 65, 10-12-95, Cafferata, None
+33, Ezequiel Miranda, ARG, F, 1.73, 67, 15-02-97, Florencio Varela, None
+34, Matías Orihuela, ARG, D, 1.77, 70, 17-02-92, Córdoba, Deportivo Móron
+35, Lucas Rodríguez, ARG, M, 1.68, 64, 27-04-97, Florencio Varela, None
+36, Emiliano Ozuna, ARG, F, 1.66, 60, 09-02-96, Magdalena, None
+37, Carlo Lattanzio, ARG, F, 1.71, 64, 25-07-97, La Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Román Martínez, ARG, M, 1.84, 79, 27-03-83, Morón, Lanús
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Monaco
+27, Rafael Delgado, ARG, D, 1.78, 78, 13-01-90, Reconquista, Defensa y Justicia (On Loan)
+20, Diego Vera, URU, F, 1.84, 74, 05-01-85, Montevideo, Independiente
+13, Matías Aguirregaray, URU, D, 1.74, 78, 01-04-89, Porto Alegre, Peñarol (On Loan)

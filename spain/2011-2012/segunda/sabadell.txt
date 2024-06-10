@@ -1,0 +1,42 @@
+=  Sabadell - Spanish Segunda Divisón A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Navas, ESP, G, 1.86, 85, 07-12-76, Alcobendas, Melilla
+2, Antonio Hidalgo, ESP, M, 1.83, 74, 06-02-79, Granollers, Tenerife
+3, David Bermudo, ESP, D, 1.75, 67, 14-01-79, Santa Coloma de Gramenet, Pontevedra
+4, Juanjo Ciércoles, ESP, M, 1.76, 67, 27-05-88, L'Hospitalet de Llobregat, Espanyol B
+5, Agustín Fernández, ESP, D, 1.89, 84, 15-03-82, Mérida, Palencia
+6, Héctor, ESP, M, 1.79, 78, 13-03-84, Llança, Castellón
+7, Óscar Ramírez, ESP, D, 1.82, 81, 01-03-84, La Bisbal D´Empordá, Badalona
+8, Albert Puigdollers, ESP, M, 1.78, 72, 30-10-80, Granollers, Gavà
+9, Eneko Fernández, ESP, M, 1.84, 69, 26-05-84, Zaragoza, Alavés
+10, Juvenal Edjogo, EQG, M, 1.77, 73, 03-04-79, Sabadell, Cartagena
+11, Fran Piera, ESP, M, 1.77, 69, 19-12-87, Barcelona, Puertollano
+12, Manu Lanzarote, ESP, F, 1.78, 69, 20-01-84, Barcelona, Eibar
+13, Ian Mackay, ESP, G, 1.81, 80, 14-07-86, La Coruña, Ponferradina
+14, Nabil Baha, MAR, F, 1.81, 76, 12-08-81, Paris, AEK
+15, Pablo Ruiz, ESP, D, 1.86, 72, 25-02-81, Seville, Cartagena
+16, Samuel, ESP, M, 1.75, 72, 16-08-79, Villaviciosa, Alcorcón
+17, Toni Lao, ESP, D, 1.78, 70, 17-01-84, Barcelona, Gramenet
+18, Manuel Redondo, ESP, D, 1.81, 60, 11-01-85, Seville, Sevilla B
+19, Florian Taulemesse, FRA, F, 1.82, 74, 31-01-86, Bagnols-sur-Cèze, Orihuela
+20, Álex Cruz, ESP, M, 1.67, 70, 17-06-90, Mogán, Granada
+21, Ezequiel, ESP, M, 1.68, 60, 12-01-91, Melilla, Betis B
+22, Aarón Bueno, ESP, F, 1.75, 70, 21-08-83, Sabadell, Cádiz
+23, David Pérez Arteaga, ESP, M, 1.67, 66, 01-12-81, Seville, Córdoba
+24, Jesús Olmo, ESP, D, 1.78, 75, 24-01-85, Barcelona, Puertollano
+25, Adrián Luna, URU, F, 1.70, 61, 12-04-92, Montevideo, Espanyol
+28, Jonathan Collado, ESP, M, , , 30-09-92, Sabadell, Sabadell B
+40, Aleix, ESP, M, , , 28-04-92, Terrassa, Sabadell B
+41, César Molina, ESP, M, , , 23-07-92, Terrassa, Terrassa B
+47, Manolo, ESP, G, , , , , Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Iván Gómez, ESP, G, 1.87, 81, 02-02-80, Barcelona, Retired
+25, Ian Mackay, ESP, G, 1.81, 80, 14-07-86, La Coruña, Re-Registered (13)
+21, Fito Miranda, ESP, M, 1.79, 71, 14-10-89, Barcelona, De-Registered
+49, Yann Songo'o, CMR, D, 1.84, 77, 17-11-91, Yaoundé, La Pobla de Mafumet
+9, Joaquín Rodríguez, ESP, F, 1.82, 77, 28-11-82, Paradas, 
+11, Eneko Fernández, ESP, M, 1.84, 69, 26-05-84, Zaragoza, Re-Registered (9)

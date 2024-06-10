@@ -1,0 +1,53 @@
+=  Carpi - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Serraiocco, ITA, G, 1.92, 83, 27-09-93, Pescara, Brescia
+2, Emanuele Suagher, ITA, D, 1.92, 82, 26-11-92, Romano di Lombardia, Atalanta
+3, Michał Marcjanik, POL, D, 1.86, 79, 15-12-94, Gdynia, Empoli
+4, Alessandro Sabbione, ITA, D, 1.81, 69, 12-12-91, Genoa, Nocerina
+5, Enrico Pezzi, ITA, D, 1.80, 75, 24-09-89, Rimini, Cittadella
+6, Alessandro Buongiorno, ITA, D, 1.91, 80, 06-06-99, Turin, Torino
+7, Fabio Concas, ITA, M, 1.77, 74, 17-11-86, Genoa, Varese
+8, Mattia Vitale, ITA, M, 1.77, 79, 01-10-97, Bologna, SPAL
+9, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Verona
+10, Giammario Piscitella, ITA, F, 1.80, 69, 24-03-93, Nocera Inferiore, Roma
+11, Davide Marsura, ITA, F, 1.87, 78, 20-02-94, Valdobbiadene, Venezia
+12, Nicola Sambo, ITA, G, 1.89, 90, 16-11-95, Venice, Livorno
+13, Fabrizio Poli, ITA, D, 1.85, 76, 26-05-89, Bordighera, Arezzo
+15, Michele Vano, ITA, F, 1.90, 80, 05-10-91, Rome, Arzachena
+16, Alessandro Romairone, ITA, F, , , 05-12-99, Vercelli, Sassuolo
+17, Mattia Mustacchio, ITA, F, 1.80, 78, 17-05-89, Chiari, Perugia
+18, Andrea Arrighini, ITA, F, 1.80, 75, 06-06-90, Pisa, Cittadella
+19, Lorenzo Pasciuti, ITA, M, 1.73, 68, 24-09-89, Carrara, Biellese
+20, Enej Jelenič, SVN, M, 1.81, 74, 11-12-92, Koper, Livorno
+21, Dario Šarić, BIH, M, 1.80, 73, 30-05-97, Cento, Cesena
+22, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Cagliari
+23, Max Barnofsky, GER, D, 1.91, 81, 05-03-95, Berlin, Hallescher FC
+24, Luca Rizzo, ITA, M, 1.85, 77, 24-04-92, Genoa, Bologna
+25, Tobias Pachonik, GER, M, 1.84, 87, 04-01-95, Marktoberdorf, Schalke II
+27, Gabriele Rolando, ITA, M, 1.82, 71, 02-04-95, Genoa, Sampdoria
+29, Edoardo Colombo, SMR, G, , , 24-01-01, Ravenna, Juventus
+30, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Crotone
+31, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Udinese
+32, Giovanni Di Noia, ITA, M, 1.80, 75, 03-07-94, Bari, Chievo Verona
+33, Reno Wilmots, BEL, M, 1.82, 74, 16-03-97, , Avellino
+34, Anton Krešić, CRO, D, 1.98, 90, 29-01-96, Zagreb, Atalanta
+35, Riccardo Piscitelli, ITA, G, 1.89, 80, 10-10-93, Vimercate, Benevento
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Alessandro Pasotti, ITA, G, 1.84, 72, 24-07-96, Desenzano del Garda, 
+8, Daniele Giorico, ITA, M, 1.78, 70, 01-01-92, Alghero, Virtus Verona (On Loan)
+31, Tommaso Fantacci, ITA, M, 1.75, 70, 17-03-97, Lucca, Empoli
+11, Alessandro Piu, ITA, F, 1.85, 77, 30-07-96, Udine, Empoli
+27, Zinédine Machach, FRA, M, 1.85, 77, 05-01-96, Marseille, Napoli
+30, Nouhan Touré, ITA, F, , , 16-12-00, , De-Registered
+9, Benjamin Mokulu, BEL, F, 1.87, 89, 11-10-89, Brussels, Juventus U23 (On Loan)
+3, Paolo Frascatore, ITA, D, 1.87, 84, 04-01-92, Rome, Triestina
+14, Alessandro Ligi, ITA, D, 1.92, 81, 07-11-89, Sassocorvaro, Spezia
+17, Dennis van der Heijden, NED, F, 1.91, 82, 17-02-97, Schiedam, Fermana (On Loan)
+24, Maodo Malick Mbaye, SEN, M, 1.75, 72, 06-11-95, Thiès, Chievo Verona
+26, Federico Franchini, ITA, D, 1.84, 71, 23-01-94, Villafranca, Mosta (On Loan)
+28, Michael Venturi, ITA, D, 1.93, 79, 23-01-99, Rimini, Gozzano (On Loan)
+34, Leonardo Maniglio, ITA, G, , , 02-05-01, Bologna, Bologna

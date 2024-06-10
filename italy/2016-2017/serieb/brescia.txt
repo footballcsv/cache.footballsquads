@@ -1,0 +1,50 @@
+=  Brescia - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michele Arcari, ITA, G, 1.85, 78, 27-06-78, Cremona, Pro Patria
+2, Joel Untersee, SUI, D, 1.81, 79, 11-02-94, Johannesburg, Juventus
+3, Giampiero Pinzi, ITA, M, 1.80, 76, 11-03-81, Rome, Chievo Verona
+4, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, None
+5, Michele Somma, ITA, D, 1.82, 80, 16-05-95, Salerno, Roma
+6, Leonardo Blanchard, ITA, D, 1.87, 80, 06-05-88, Grosseto, Carpi
+7, Gaston Camara, GUI, M, 1.77, 69, 31-03-96, Kamsar, Internazionale
+8, Jacopo Dall'Oglio, ITA, M, 1.83, 77, 02-04-92, Milazzo, Reggina
+9, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Genoa
+11, Nicola Lancini, ITA, M, 1.77, 71, 29-03-94, Calcinate, None
+12, Luca Mandelli, ITA, G, 1.85, 78, 03-07-98, Cernusco sul Naviglio, None
+14, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Milan
+15, Stefano Minelli, ITA, G, 1.84, 76, 05-03-94, Brescia, None
+16, Franjo Prce, CRO, D, 1.83, 77, 07-01-96, Čapljina, Lazio
+17, Arturo Calabresi, ITA, D, 1.86, 75, 17-03-96, Rome, Roma
+18, Alexis Ferrante, ITA, F, 1.75, 74, 27-06-95, Buenos Aires, Abano
+19, Filippo Romagna, ITA, D, 1.85, 74, 26-05-97, Fano, Juventus
+20, Emanuele Ndoj, ALB, M, 1.78, 70, 20-11-96, Catania, Roma
+21, Federico Bonazzoli, ITA, F, 1.82, 77, 21-05-97, Manerbio, Sampdoria
+22, Federico Serraiocco, ITA, G, 1.92, 83, 27-09-93, Pescara, Teramo
+23, Stefano Mauri, ITA, M, 1.84, 79, 08-01-80, Monza, Lazio
+24, Simone Festa, ITA, G, 1.84, 79, 25-06-99, Brescia, None
+25, Dimitri Bisoli, ITA, M, 1.80, 72, 25-03-94, Cagliari, Fidelis Andria
+27, Andrea Vassallo, ITA, F, 1.80, 72, 30-09-97, Milan, Bologna
+28, Alessandro Martinelli, SUI, M, 1.75, 74, 30-05-93, Mendrisio, Sampdoria
+29, Andrej Modić, BIH, M, 1.80, 70, 07-03-96, Banja Luka, Milan
+30, Massimiliano Mangraviti, ITA, M, 1.83, 72, 24-01-98, Brescia, None
+31, Leonardo Fontanesi, ITA, D, 1.81, 77, 20-02-96, Correggio, Sassuolo
+32, Ernesto Torregrossa, ITA, F, 1.84, 80, 28-06-92, Caltanissetta, Verona
+33, Giovanni Sbrissa, ITA, M, 1.85, 76, 25-09-96, Castelfranco Veneto, Sassuolo
+34, Marco Martinelli, ITA, M, 1.82, 65, 15-02-98, Brescia, None
+35, Niccolò Baronio, ITA, D, 1.77, 64, 17-07-99, Manerbio, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Nicola Lancini, ITA, M, 1.77, 71, 29-03-94, Calcinate, Re-Registered (11)
+31, Alberto Boniotti, ITA, D, 1.79, 72, 23-03-95, Brescia, Padova (On Loan)
+23, Leonardo Morosini, ITA, M, 1.75, 70, 13-10-95, Ponte San Pietro, Genoa
+18, Filippo Strada, ITA, M, 1.72, 67, 14-03-97, Brescia, Prato (On Loan)
+16, Mhando Carte Said, TAN, M, 1.78, 67, 15-04-97, Pozzuoli, 
+26, Fabio Bertoli, ITA, M, 1.85, 75, 20-08-96, Montichiari, Piacenza (On Loan)
+11, Simone Rosso, ITA, M, 1.80, 60, 10-11-95, Pinerolo, Torino
+12, Riccardo Gagno, ITA, G, 1.85, 78, 26-07-97, Montebelluna, Mestre (On Loan)
+6, Edoardo Lancini, ITA, D, 1.86, 79, 10-04-94, Chiari, Novara (On Loan)
+19, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto del Tronto, Pescara
+24, Igor Bubnjić, CRO, D, 1.88, 83, 17-07-92, Split, Udinese

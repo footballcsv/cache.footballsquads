@@ -1,0 +1,38 @@
+=  Numancia - Spanish Segunda División A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Biel, ESP, G, 1.86, 82, 02-12-85, Palma de Mallorca, Atlético Baleares
+2, Mickaël Gaffoor, FRA, M, 1.84, 78, 21-01-87, Sens, Guadalajara [ESP]
+3, Ripa, ESP, D, 1.77, 73, 12-08-85, Épila, Elche
+4, Javier Gallardo, ESP, M, 1.86, 79, 01-02-91, Soria, Numancia B
+5, Francisco Regalón, ESP, D, 1.82, 74, 19-02-87, Córdoba, Atlético Madrid B
+6, José Isidoro, ESP, D, 1.80, 70, 01-08-86, Pedrera, Polonia Warszawa
+8, Miquel Palanca, ESP, F, 1.70, 72, 18-12-87, Tarragona, Elche
+9, Pedro Martín, ESP, F, 1.91, 76, 16-01-92, Málaga, Atlético Madrid
+10, Julio Álvarez, VEN, M, 1.81, 74, 01-05-81, Caracas, Tenerife
+11, Javier Del Pino, ESP, F, 1.76, 66, 10-07-80, Madrid, Xerez
+13, Raúl, ESP, G, 1.96, 88, 13-03-88, Bilbao, Athletic Bilbao
+14, Víctor Andrés, ESP, M, 1.76, 70, 27-10-88, Soria, Numancia B
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Huracán Valencia
+16, Juanma, ESP, M, 1.85, 82, 18-10-82, Las Palmas, Oviedo
+17, Marc Pedraza, ESP, F, 1.83, 74, 06-02-87, Barcelona, L'Hospitalet
+18, Vicente, ESP, M, 1.80, 71, 11-07-86, Aspe, Guadalajara [ESP]
+19, Natalio Lorenzo, ESP, F, 1.76, 70, 18-09-84, Valencia, Tenerife
+20, Antonio Tomás, ESP, M, 1.76, 75, 19-01-85, Torrelavega, CSKA Sofia
+21, Miguel Bedoya, ESP, M, 1.77, 70, 15-04-86, Madrid, Getafe B
+22, Javi Bonilla, ESP, M, 1.79, 70, 25-10-90, Soria, Numancia B
+23, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella, Mallorca
+24, David González, ESP, M, 1.71, 67, 25-08-81, Las Palmas, Las Palmas
+26, Javi Duro, ESP, D, 1.85, 78, 04-05-94, Soria, Numancia B
+27, David Martín, ESP, F, 1.62, 58, 27-08-92, Segovia, Numancia B
+28, Anto, ESP, D, 1.80, 70, 30-11-92, Soria, Numancia B
+29, Luis Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+30, Andrés Pinillos, ESP, G, 1.86, 77, 09-01-93, Soria, Numancia B
+32, César Vinuesa, ESP, M, 1.77, 67, 16-07-91, Soria, Numancia B
+33, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Numancia B
+35, David Sanz, ESP, M, 1.71, 70, 08-12-94, Burgos, Numancia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Miguel Ángel Nieto, ESP, M, 1.83, 77, 12-01-86, Madrid, Racing Santander

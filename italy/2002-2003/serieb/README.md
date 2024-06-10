@@ -1,0 +1,23 @@
+# Italian Serie B 2002/03
+
+20 teams
+- [Ancona](ancona.txt)
+- [Ascoli](ascoli.txt)
+- [Bari](bari.txt)
+- [Cagliari](cagliari.txt)
+- [Catania](catania.txt)
+- [Cosenza](cosenza.txt)
+- [Genoa](genoa.txt)
+- [Lecce](lecce.txt)
+- [Livorno](livorno.txt)
+- [Messina](messina.txt)
+- [Napoli](napoli.txt)
+- [Palermo](palermo.txt)
+- [Salernitana](salern.txt)
+- [Sampdoria](sampdor.txt)
+- [Siena](siena.txt)
+- [Ternana](ternana.txt)
+- [Triestina](triest.txt)
+- [Venezia](venezia.txt)
+- [Verona](verona.txt)
+- [Vicenza](vicenza.txt)

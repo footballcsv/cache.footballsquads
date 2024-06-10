@@ -1,0 +1,58 @@
+=  Vicenza - Italian Serie B 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Benussi, ITA, G, 1.88, 85, 15-10-81, Mestre, Carpi
+2, Oualid El Hasni, FRA, D, 1.92, 82, 09-08-93, Cannes, Werder Bremen
+4, Francesco Signori, ITA, M, 1.79, 74, 26-10-88, Milan, Novara
+5, Thomas Manfredini, ITA, D, 1.82, 82, 27-05-80, Ferrara, Sassuolo
+6, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Juventus
+7, Nicolo' Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Chievo Verona
+8, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Chievo Verona
+9, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Parma
+10, Stefano Giacomelli, ITA, F, 1.68, 60, 30-04-90, Spoleto, Pescara
+11, Giovanni Sbrissa, ITA, M, 1.85, 79, 25-09-96, Castelfranco Veneto, Sassuolo
+12, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, Virtus Entella
+13, Filip Raičević, MNE, F, 1.91, 82, 02-07-93, Podgorica, Lucchese
+14, Marco Pinato, ITA, D, 1.75, 66, 09-01-95, Monza, Milan
+15, Luigi Rizzo, ITA, D, , , 24-02-97, Pompei, Juventus
+16, Alessio Vita, ITA, M, 1.78, 67, 16-03-93, Rome, Sassuolo
+17, Francesco Urso, ITA, M, 1.75, 73, 09-06-94, Fano, Cesena
+19, Cristian Galano, ITA, F, 1.70, 69, 01-04-91, Foggia, Bari
+20, Osariemen Ebagua, NGA, F, 1.86, 90, 06-06-86, Benin City, Como
+21, Alessandro Ligi, ITA, D, 1.91, 81, 07-11-89, Sassocorvaro, Bari
+22, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Macomer, Venezia
+23, Federico Moretti, ITA, M, 1.87, 76, 28-10-88, Genoa, Latina
+24, Juri Cisotti, ITA, F, 1.75, 67, 05-05-93, Tolmezzo, Spezia
+26, Davide Bianchi, ITA, M, 1.82, 78, 11-05-96, Mantova, Chievo Verona
+27, Lorenzo Laverone, ITA, D, 1.77, 70, 19-04-89, Bagno a Ripoli, Varese
+28, Andrea Pinton, ITA, D, 1.86, 76, 28-04-96, Borgo Valsugana, Internazionale
+29, Andrej Modić, BIH, M, 1.80, 70, 07-03-96, Banja Luka, Milan
+30, Mattia Cecconello, ITA, F, , , 07-05-97, Monselice, Padova
+31, Mario Sampirisi, ITA, D, 1.88, 75, 31-10-92, Caltagirone, Genoa
+32, Matar Dieye, SEN, F, 1.91, 82, 10-01-98, , Sacilese
+33, Alex Dall'Amico, ITA, G, 1.98, 98, 03-03-95, Thiene, ArzignanoChiampo
+34, Davide Massaro, ITA, F, , , 10-02-98, Bassano del Grappa, None
+35, Gioele Donadello, ITA, F, 1.80, , 28-01-97, Cittadella, None
+36, Riccardo Paganin, ITA, M, , , 10-04-97, Como, Real Vicenza
+37, Daniel Adejo, NGA, D, 1.83, 80, 07-08-89, Kachia, Kalloni
+38, Alberto Crestani, ITA, F, , , 14-05-98, Vicenza, None
+39, Luca Dal Dosso, ITA, D, , , 22-05-98, Vicenza, None
+44, Luka Belogravić, CRO, G, , , 25-05-98, Slavonski Brod, Graničar Županja
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Niccolò Corticchia, ITA, M, 1.77, 72, 11-02-93, Turin, Savona (On Loan)
+23, Matteo Gentili, ITA, D, 1.88, 87, 21-08-89, Viareggio, 
+20, Stefano Pettinari, ITA, F, 1.85, 79, 27-01-92, Rome, Roma
+33, Stefan Kerezović, SRB, G, , , 10-02-98, Arzignano, ArzignanoChiampo (On Loan)
+8, Antonio Cinelli, ITA, M, 1.78, 72, 08-12-89, Rome, Cagliari
+36, Leandro Rinaudo, ITA, D, 1.86, 78, 09-05-83, Palermo, 
+1, Richard Marcone, ITA, G, 1.84, 86, 21-01-93, Bucharest, Trapani
+24, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, Atalanta
+21, Andrea Mantovani, ITA, D, 1.85, 79, 22-06-84, Turin, Novara
+4, Michele Pazienza, ITA, M, 1.78, 75, 05-08-82, San Severo, Reggiana
+12, Alex Rizzotto, ITA, G, 1.83, 75, 07-07-98, Montebelluna, Internazionale
+28, Leonardo Gatto, ITA, F, 1.79, 72, 28-04-92, Trebisacce, Atalanta
+37, Raffaele Vio, ITA, D, 1.84, 66, 25-10-98, Venice, De-Registered
+32, Mateusz Góra, POL, F, 1.78, 74, 14-10-97, Szczecinek, Partizán Bardejov

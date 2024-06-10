@@ -1,0 +1,63 @@
+=  Wigan Athletic - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Bursaspor
+3, Andrew Taylor, ENG, D, 1.78, 69, 01-08-86, Hartlepool, Cardiff C
+4, Harry Maguire, ENG, D, 1.88, 79, 05-03-93, Sheffield, Hull C
+7, Chris McCann, IRL, M, 1.85, 75, 21-07-87, Meath, Burnley
+10, Billy McKay, NIR, F, 1.75, 64, 22-10-88, Corby, Inverness CT
+11, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, Sunderland
+13, Lee Nicholls, ENG, G, 1.91, 85, 05-10-92, Huyton, None
+14, Emyr Huws, WAL, M, 1.85, 78, 30-09-93, Llanelli, Manchester C
+15, Jermaine Pennant, ENG, M, 1.73, 64, 15-01-83, Nottingham, Pune C
+16, Kim Bo-Kyung, KOR, M, 1.78, 73, 06-10-89, Gurye, Cardiff C
+17, Emmerson Boyce, BRB, D, 1.80, 73, 24-09-79, Aylesbury, Crystal Palace
+18, Sheyi Ojo, ENG, F, 1.77, 64, 19-06-97, Hemel Hempstead, Liverpool
+19, Don Cowie, SCO, M, 1.80, 74, 15-02-83, Inverness, Cardiff C
+20, Gaëtan Bong, CMR, D, 1.83, 74, 25-04-88, Sakbayeme, Olympiakos
+21, Leon Clarke, ENG, F, 1.88, 90, 10-02-85, Birmingham, Wolverhampton W
+22, Aaron Taylor-Sinclair, SCO, D, 1.83, 70, 08-04-91, Aberdeen, Partick Thistle
+23, Juan Carlos García, HON, D, 1.80, 76, 08-03-88, Tela, Olimpia [HON]
+24, James Perch, ENG, D, 1.80, 72, 28-09-85, Mansfield, Newcastle U
+25, Leon Barnett, ENG, D, 1.85, 71, 30-11-85, Luton, Norwich C
+26, Ali Al-Habsi, OMA, G, 1.94, 79, 30-12-81, Muscat, Bolton W
+27, Josh Murphy, ENG, M, 1.73, 67, 24-02-95, Wembley, Norwich C
+28, Jason Pearce, ENG, D, 1.80, 76, 06-12-87, Hillingdon, Leeds U
+30, Rob Kiernan, IRL, D, 1.86, 76, 13-01-91, Watford, Watford
+31, Jerome Sinclair, ENG, F, 1.73, 79, 20-09-96, Birmingham, Liverpool
+32, Marc-Antoine Fortuné, FRA, F, 1.82, 82, 02-07-81, Cayenne, WBA
+33, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, Leicester C
+35, Joey Johnson, ENG, F, , , 03-12-95, Liverpool, None
+36, William Kvist, DEN, M, 1.84, 80, 24-02-85, Odder, Stuttgart
+37, Jordan Flores, ENG, M, 1.76, 67, 04-10-95, Wigan, None
+38, Declan Poole, ENG, M, 1.74, 68, 05-09-95, Chester, Everton
+39, Tim Chow, ENG, M, 1.80, 72, 18-01-94, Wigan, None
+40, Connor Keane, ENG, G, , , 08-03-96, Manchester, None
+41, Michael Wilson, ENG, D, , , 21-01-95, Liverpool, Liverpool
+42, Grant Holt, ENG, F, 1.83, 79, 12-04-81, Carlisle, Norwich C
+43, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, None
+44, Matthew Hamilton, IRL, F, , , 20-11-95, Ormskirk, Everton
+45, Josh Gregory, ENG, M, 1.75, 68, 05-06-98, Wigan, None
+46, Louis Robles, ENG, F, 1.81, 65, 11-09-96, Liverpool, Liverpool
+47, Ryan Jennings, ENG, M, 1.80, 75, 08-07-95, Gorton, None
+48, Luke Burke, ENG, D, 1.70, 64, 22-02-98, Liverpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, James McArthur, SCO, M, 1.68, 63, 07-10-87, Glasgow, Crystal Palace
+31, Maynor Figueroa, HON, D, 1.80, 85, 02-05-83, Juticalpa, Hull C
+18, Roger Espinoza, HON, M, 1.80, 73, 25-10-86, Puerto Cortes, Sporting Kansas City
+9, Oriol Riera, ESP, F, 1.84, 78, 03-07-86, Vic, Deportivo La Coruña (On Loan)
+2, James Tavernier, ENG, D, 1.76, 70, 31-10-91, Bradford, Bristol C (On Loan)
+8, Ben Watson, ENG, M, 1.78, 69, 09-07-85, Camberwell, Watford
+10, Shaun Maloney, SCO, M, 1.70, 70, 24-01-83, Mirri, Chicago Fire
+15, Callum McManaman, ENG, F, 1.75, 71, 25-04-91, Knowsley, WBA
+29, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Middlesbrough
+4, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Levante
+20, Fraser Fyvie, SCO, M, 1.72, 60, 27-03-93, Aberdeen, Hibernian
+49, Andy Delort, FRA, F, 1.82, 82, 09-10-91, Sète, Tours (On Loan)
+8, Chris Herd, AUS, M, 1.73, 76, 04-04-89, Perth [AUS], Aston Villa
+27, Liam Ridgewell, ENG, D, 1.88, 79, 21-07-84, Bexley, Portland Timbers
+5, Gary Caldwell, SCO, D, 1.85, 75, 12-04-82, Stirling, Retired
+6, Thomas Rogne, NOR, D, 1.93, 87, 29-06-90, Bærum, IFK Göteborg

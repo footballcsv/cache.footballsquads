@@ -1,0 +1,42 @@
+=  Huachipato - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yerko Urra, CHI, G, 1.89, 86, 09-07-96, Mulchén, None
+3, Ignacio Tapia, CHI, D, 1.86, 72, 22-02-99, Concepción, None
+4, Piero Vivanco, PER, M, 1.83, 70, 17-01-00, Lima, Esther Grande
+5, Nicolás Ramírez, CHI, D, 1.82, 77, 01-05-97, Santiago, Universidad de Chile
+6, Claudio Sepúlveda, CHI, M, 1.74, 67, 19-06-92, Rancagua, Universidad Católica
+7, Leonardo Povea, CHI, M, 1.77, 69, 26-01-94, Los Ángeles [CHI], None
+8, César Valenzuela, CHI, M, 1.63, 60, 04-09-92, Pudahuel, Palestino
+9, Anthony Blondell, VEN, F, 1.86, 77, 17-05-94, Cumaná, Vancouver Whitecaps
+10, Brayan Palmezano, VEN, M, 1.63, 62, 17-09-00, Maracaibo, Zulia
+11, Cris Martínez, PAR, F, 1.72, 69, 24-04-93, Carlos Antonio López, Deportes Temuco
+12, Brayan Manosalva, CHI, G, 1.85, 78, 14-01-97, Nueva Imperial, None
+13, José Rojas, CHI, D, 1.74, 75, 23-06-83, Talagante, San Luis de Quillota
+14, Claudio Jopia, CHI, D, 1.74, 75, 17-11-91, La Serena, San Marcos de Arica
+15, Juan Córdova, CAN, D, 1.65, 63, 25-06-95, Los Andes, Unión San Felipe
+17, Kevin Baeza, CHI, F, , , 13-06-98, , None
+18, Joaquín Verdugo, CHI, F, 1.72, 65, 07-10-96, Talca, Rangers (Talca)
+19, Federico Pereyra, ARG, D, 1.85, 76, 04-01-89, Río Cuarto, Karpaty Lviv
+20, Javier Altamirano, CHI, M, 1.73, 68, 21-08-99, Talcahuano, None
+21, Sebastián Martínez, CHI, M, 1.78, 74, 06-06-93, Santiago, Universidad de Chile
+22, Felipe Barrientos, CHI, F, 1.69, 65, 06-03-97, Santiago, Palestino
+23, Nicolás Baeza, CHI, M, 1.75, 75, 07-05-97, Concepción, None
+24, Alex Succar, PER, F, 1.80, 78, 12-08-95, Lima, Sporting Cristal
+25, Gabriel Castellón, CHI, G, 1.87, 75, 08-09-93, Valparaíso, Santiago Wanderers
+26, Antonio Castillo, CHI, D, 1.75, 74, 15-11-98, Valdivia, Deportes Valdivia
+29, Ramón Sáez, CHI, D, 1.72, 68, 24-06-96, Los Ángeles [CHI], None
+30, Juan Sánchez Sotelo, ARG, F, 1.80, 81, 02-10-87, Avellaneda, Nueva Chicago
+31, Maximiliano Rodríguez, CHI, M, 1.83, 83, 31-05-00, Talcahuano, None
+32, Nicolás Silva, CHI, F, , , 12-05-99, , None
+33, Danny Pérez, VEN, F, 1.81, 73, 23-01-00, Caracas, Deportes La Serena
+35, Cristián Cuevas, CHI, D, 1.71, 64, 02-04-95, Rancagua, Chelsea
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Eric Ahumada, CHI, D, 1.82, 80, 14-02-94, Tierra Amarilla, Deportes Iberia
+27, Mathías López, CHI, M, 1.72, 76, 09-08-96, Maipú, 
+30, Mauricio Godoy, CHI, F, 1.71, 68, 02-04-97, Saavedra, San Marcos de Arica (On Loan)
+28, Martín Sánchez, PAR, F, 1.70, 73, 27-01-00, Ybycuí, San Lorenzo [PAR] (On Loan)
+16, José Bizama, CHI, D, 1.81, 72, 25-06-94, Curanilahue, Huachipato

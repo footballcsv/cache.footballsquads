@@ -1,0 +1,61 @@
+=  Shrewsbury Town - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan Mitchell, ENG, G, 1.80, 86, 24-11-94, Hartlepool, Derby Co
+2, Ro-Shaun Williams, ENG, D, 1.88, 85, 03-09-98, Manchester, Manchester U
+3, Ryan Haynes, ENG, D, 1.70, 68, 27-09-95, Northampton, Coventry C
+4, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Reading
+5, Matthew Sadler, ENG, D, 1.80, 72, 26-02-85, Birmingham, Rotherham U
+6, Omar Beckles, ENG, D, 1.91, 78, 19-10-91, Kettering, Accrington Stanley
+7, Shaun Whalley, ENG, M, 1.75, 67, 07-08-87, Whiston, Luton T
+8, Greg Docherty, SCO, M, 1.77, 72, 10-09-96, Glasgow, Rangers
+10, Sam Jones, WAL, M, 1.88, 80, 18-09-91, Doncaster, Grimsby T
+11, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Stoke C
+12, Fejiri Okenabirhie, NGA, F, 1.78, 74, 25-02-96, Hendon, Dagenham & Redbridge
+13, James Bolton, ENG, D, 1.83, 75, 13-08-94, Stone, Gateshead
+14, Lenell John-Lewis, ENG, F, 1.78, 85, 17-05-89, Hammersmith, Newport Co
+15, Steve Arnold, ENG, G, 1.86, 87, 22-08-89, Welham Green, Barrow
+16, Romain Vincelot, FRA, M, 1.77, 71, 29-10-85, Poitiers, Crawley T
+17, Sam Smith, ENG, F, 1.81, 73, 08-03-98, Manchester, Reading
+18, Alex Gilliead, ENG, M, 1.83, 70, 11-02-96, Shotley Bridge, Newcastle U
+20, Aaron Holloway, WAL, F, 1.88, 83, 21-02-93, Cardiff, Oldham Ath
+22, Luke Waterfall, ENG, D, 1.88, 84, 30-07-90, Sheffield, Lincoln C
+23, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Bristol C
+26, John McAtee, ENG, F, 1.80, 75, 23-07-99, Salford, Burnley
+27, Ryan Sears, WAL, D, 1.81, 72, 30-12-98, Newtown, None
+28, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Wigan Ath
+29, Oliver Norburn, ENG, M, 1.85, 82, 26-10-92, Leicester, Tranmere R
+30, Reice Charles-Cook, ENG, G, 1.85, 80, 08-04-94, Lewisham, SønderjyskE
+31, Cameron Gregory, ENG, G, 1.92, 75, 20-01-00, Sutton Coldfield, Wolverhampton W
+32, Sam Agius, ENG, G, 1.86, , 09-03-02, Walsall, Derby Co
+33, Rhys Davies, IRL, D, 1.80, , 03-05-01, Bath, Hereford
+34, Kian Taylor, ENG, M, 1.78, , 10-01-01, Leicester, Leicester C
+35, James Rowland, ENG, M, 1.65, 65, 03-12-01, Walsall, WBA
+36, Luke Ward, ENG, D, 1.85, 79, 25-09-01, Stourbridge, Wolverhampton W
+37, Lifumpa Mwandwe, ENG, F, 1.80, , 29-12-00, Greenwich, None
+38, Ryan Barnett, ENG, M, 1.80, 70, 23-09-99, Shrewsbury, None
+39, Christos Shelis, CYP, D, 1.82, 75, 02-02-00, Paphos, Grimsby T
+40, Jack Leask, ENG, M, 1.78, , 09-04-01, Shrewsbury, None
+41, Jamaine Turner, ENG, F, 1.70, , 24-12-01, , Wolverhampton W
+42, Anthony Grant, ENG, M, 1.78, 71, 04-06-87, Lambeth, Peterborough U
+45, Danny Coyne, WAL, G, 1.83, 83, 27-08-73, Prestatyn, Sheffield U
+50, Stefan Payne, ENG, F, 1.78, 74, 10-08-91, Lambeth, Bristol R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Jon Nolan, ENG, M, 1.75, 72, 22-04-92, Huyton, Ipswich T
+22, Aristote Nsiala, COD, D, 1.93, 83, 25-03-92, Kinshasa, Ipswich T
+9, Stefan Payne, ENG, F, 1.78, 74, 10-08-91, Lambeth, Bristol R
+17, Luke Hendrie, ENG, D, 1.87, 64, 27-08-94, Leeds, Grimsby T
+23, Charlie Colkett, ENG, M, 1.76, 65, 04-09-96, Newham, Chelsea
+24, George Hughes, ENG, M, 1.76, 74, 23-03-99, Shrewsbury, Newtown (On Loan)
+1, Joel Coleman, ENG, G, 1.98, 82, 26-09-95, Bolton, Huddersfield T
+4, Kieran Kennedy, ENG, D, 1.83, 70, 23-09-93, Urmston, Wrexham
+16, Bryn Morris, ENG, M, 1.82, 71, 25-04-96, Hartlepool, Portsmouth
+2, Josh Emmanuel, ENG, D, 1.80, 70, 18-08-97, London, Ipswich T
+11, Arthur Gnahoua, ENG, F, 1.87, 80, 18-09-92, London, Carlisle U
+19, Doug Loft, ENG, M, 1.83, 77, 25-12-86, Maidstone, Dagenham & Redbridge (On Loan)
+25, Zak Jules, SCO, D, 1.90, 72, 02-07-97, Islington, Macclesfield T
+21, Abo Eisa, SUD, M, 1.80, 75, 05-01-96, Khartoum, Colchester U (On Loan)
+9, Lee Angol, ENG, F, 1.78, 72, 04-08-94, Carshalton, Lincoln C (On Loan)

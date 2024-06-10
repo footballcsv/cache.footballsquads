@@ -1,0 +1,53 @@
+=  Genoa - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Frison, ITA, G, 1.90, 72, 22-01-88, Mirano, Vicenza
+3, Dario Dainelli, ITA, D, 1.91, 83, 06-09-79, Pontedera, Fiorentina
+4, Domenico Criscito, ITA, D, 1.83, 70, 30-12-86, Cercola, Juventus
+5, Houssine Kharja, MAR, M, 1.81, 77, 09-11-82, Poissy, Siena
+7, Marco Rossi, ITA, M, 1.79, 69, 01-04-78, Serravezza, Como
+8, Rodrigo Palacio, ARG, F, 1.75, 66, 05-02-82, Bahía Blanca, Boca Juniors
+9, Robert Acquafresca, ITA, F, 1.84, 67, 11-09-87, Turin, Internazionale
+10, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Juventus
+11, Stephan El Shaarawy, ITA, M, 1.78, 72, 27-10-92, Savona, None
+13, Ivan Fatić, MNE, D, 1.88, 83, 21-08-88, Pljevlja, Chievo Verona
+14, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Juventus
+15, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, AEK
+17, Boško Janković, SRB, M, 1.83, 77, 01-03-84, Belgrade, Palermo
+18, Richmond Boakye, GHA, F, 1.85, 80, 28-01-93, Accra, None
+19, David Suazo, HON, F, 1.82, 75, 05-11-79, San Pedro Sula, Internazionale
+20, Giandomenico Mesto, ITA, M, 1.80, 65, 25-05-82, Modugno, Reggina
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Zaragoza
+22, Robert Gucher, AUT, M, 1.82, 74, 20-02-91, Graz, Frosinone
+24, Emiliano Moretti, ITA, D, 1.85, 80, 11-06-81, Catanzaro, Valencia
+26, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Frosinone
+27, Dejan Lazarević, SVN, M, 1.75, 70, 15-02-90, Ljubljana, None
+28, Ivan Jurić, CRO, M, 1.74, 67, 25-08-75, Split, Crotone
+31, Isaac Cofie, GHA, M, 1.78, 73, 05-04-91, Accra, None
+32, Marco Amelia, ITA, G, 1.87, 78, 02-04-82, Frascati, Palermo
+33, Danijel Aleksić, SRB, F, 1.82, 72, 30-04-91, Pula, Vojvodina
+34, Leonardo Terigi, ITA, D, 1.89, 84, 21-03-91, Lucca, Lucchese
+35, Diego Polenta, URU, D, 1.85, 82, 06-02-92, New York, Danubio
+36, Antonino Ragusa, ITA, F, 1.81, 72, 27-03-90, Catania, Treviso
+37, Davide Bertoncini, ITA, D, 1.85, 69, 09-05-91, Fiorenzuola, Piacenza
+40, Nenad Tomović, SRB, D, 1.84, 74, 30-08-87, Kragujevac, Crvena Zvezda
+41, Alessio Grea, ITA, D, 1.78, 72, 29-05-90, Genoa, None
+42, Mattia Ferraro, ITA, M, 1.74, 71, 21-05-90, Genoa, None
+44, Alessio De Bode, ITA, D, 1.77, 70, 16-04-91, Savona, None
+45, Salvatore Cannito, ITA, D, , , 09-04-90, Grumo Appula, None
+46, Luca Miracoli, ITA, F, 1.90, 85, 31-03-92, Genoa, None
+47, Arturo Ymeri, ITA, M, 1.68, 65, 28-01-92, Savona, None
+73, Alessio Scarpi, ITA, G, 1.88, 81, 19-04-73, Jesolo, Internazionale
+77, Omar Milanetto, ITA, M, 1.70, 70, 30-11-75, Venaria, Modena
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Sergio Floccari, ITA, F, 1.78, 74, 12-11-81, Vibo Valentia, Lazio (On Loan)
+18, Silvano Raggio Garibaldi, ITA, M, 1.78, 62, 27-03-89, Chiavari, Sorrento (On Loan)
+1, Danilo Russo, ITA, G, 1.86, 82, 08-07-87, Naples, Vicenza
+16, Andrea Esposito, ITA, D, 1.87, 78, 17-05-86, Galatina, Livorno (On Loan)
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Bologna (On Loan)
+30, Luciano Figueroa, ARG, F, 1.82, 74, 19-05-81, Rosario, Rosario Central
+9, Hernán Crespo, ARG, F, 1.84, 81, 05-07-75, Florida, Parma
+25, Giuseppe Biava, ITA, D, 1.80, 73, 08-05-77, Seriate, Lazio

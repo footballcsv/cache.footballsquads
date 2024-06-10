@@ -1,0 +1,23 @@
+# Italian Serie B 2019/2020
+
+20 teams
+- [Ascoli](ascoli.txt)
+- [Benevento](benevento.txt)
+- [Chievo Verona](chievo.txt)
+- [Cittadella](cittadel.txt)
+- [Cosenza](cosenza.txt)
+- [Cremonese](cremonese.txt)
+- [Crotone](crotone.txt)
+- [Empoli](empoli.txt)
+- [Frosinone](frosinone.txt)
+- [Juve Stabia](juvestab.txt)
+- [Livorno](livorno.txt)
+- [Perugia](perugia.txt)
+- [Pescara](pescara.txt)
+- [Pisa](pisa.txt)
+- [Pordenone](pordenone.txt)
+- [Salernitana](salern.txt)
+- [Spezia](spezia.txt)
+- [Trapani](trapani.txt)
+- [Venezia](venezia.txt)
+- [Virtus Entella](virtente.txt)

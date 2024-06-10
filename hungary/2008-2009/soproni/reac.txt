@@ -1,0 +1,43 @@
+=  REAC - Hungarian Soproni Liga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mátyás Esterházy, HUN, G, 1.85, 75, 29-01-88, Budapest, Kecskemét
+2, Balázs Dinka, HUN, D, 1.76, 70, 03-11-76, Budapest, Dunakeszi
+3, Balázs Gallé, HUN, D, 1.85, 52, 13-03-90, Budapest, None
+4, Ádám Csobánki, HUN, F, 1.89, 80, 24-08-84, Budapest, Fehérvár
+5, Balázs Sallai, HUN, M, 1.76, 67, 24-09-79, Várpalotán, Kecskemét
+6, András Kőhalmi, HUN, M, 1.80, 75, 17-08-81, Szombathely, Újpest
+7, Gergő Cseri, HUN, M, 1.87, 82, 17-01-82, Budapest, Újpest
+8, Vince Kapcsos, HUN, M, 1.83, 82, 15-10-81, Budapest, Újpest
+9, Zoltán Varga, HUN, F, 1.85, 73, 05-11-80, Budapest, Debrecen
+10, Gábor Torma, HUN, F, 1.82, 85, 01-08-76, Dunaújváros, Zalaegerszeg
+11, Krisztián Nyerges, HUN, F, 1.85, 77, 26-09-77, Budapest, BVSC
+12, Levente Szántai, HUN, G, 1.85, 83, 15-11-82, Budapest, MTK
+13, Tamás Kiss, HUN, D, 1.76, 73, 22-10-87, Budapest, None
+14, Balázs Kovács, HUN, M, 1.76, 77, 11-06-79, Budapest, Videoton
+15, Roland Dancs, HUN, M, 1.70, 68, 19-04-85, Szombathely, Sopron
+17, Gábor II. Horváth, HUN, M, 1.83, 74, 26-03-89, Budapest, Honvéd
+18, Zoltán Pintér, HUN, M, 1.70, 70, 23-11-77, Budapest, Diósgyőr
+19, György Rézmányi, HUN, M, 1.83, 73, 01-01-84, Budapest, Steinkjer
+20, Károly Erős, HUN, M, 1.78, 84, 20-12-71, Cegléd, Újpest
+21, Árpád Ambrusz, HUN, D, 1.85, 74, 02-07-80, Nyíregyháza, Nyíregyháza
+22, Gergő Jeremiás, HUN, F, 1.83, 73, 26-02-85, Debrecen, Bőcs
+23, Gergő Rása, HUN, D, 1.82, 72, 07-03-89, Budapest, None
+24, Tamás Hajdú, HUN, M, 1.84, 73, 02-07-89, Budapest, Fót
+25, Tibor Pomper, HUN, M, 1.87, 76, 10-10-77, Budapest, Honvéd
+26, Tamás Gasparik, HUN, D, 1.83, 74, 12-11-89, Budapest, Újpest
+27, Károly Nagy, HUN, F, 1.85, 77, 10-01-90, Budapest, None
+29, Attila Héger, HUN, M, 1.78, 71, 07-07-89, Budapest, None
+30, Károly Illés, HUN, F, 1.83, 74, 17-02-92, Budapest, Újpest
+33, Zoltán Kovács, HUN, D, 1.93, 91, 16-12-86, Budapest, Győr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Gábor Horváth, HUN, D, 1.81, 77, 10-07-83, Budapest, Siófok
+18, Iván Balaskó, HUN, M, 1.83, 80, 14-10-79, Budapest, Liberty Salonta
+4, Tamás Tandari, HUN, M, 1.88, 74, 21-01-88, Budapest, Soroksár
+19, Ádám Horváth, HUN, D, 1.82, 75, 19-03-86, Pécs, Soroksár
+9, Tamás Nagy, HUN, F, 1.85, 78, 06-06-76, Budapest, 
+28, Róbert Hajnal, HUN, F, 1.82, 75, 04-07-88, Budapest, 
+21, Krisztián Lisztes, HUN, M, 1.81, 77, 02-07-76, Budapest, Hansa Rostock

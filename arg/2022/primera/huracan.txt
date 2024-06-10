@@ -1,0 +1,47 @@
+=  Huracán - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Chaves, ARG, G, 1.79, 72, 09-08-95, Martín Coronado, Argentinos Juniors
+2, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, Estudiantes (LP)
+3, Lucas Carrizo, ARG, D, 1.80, 71, 20-05-97, San Miguel de Tucumán, Gimnasia y Esgrima (Mendoza)
+4, Ismael Quílez, ARG, D, 1.79, 76, 02-10-88, Santa Fe, Central Córdoba (SdE)
+5, Santiago Hezze, ARG, M, 1.77, 72, 22-10-01, Capital Federal, None
+6, Lucas Merolla, ARG, D, 1.93, 85, 27-06-95, Capital Federal, None
+7, Matías Cóccaro, URU, F, 1.80, 70, 15-11-97, Pirarajá, Montevideo City Torque
+9, Nicolás Cordero, ARG, F, 1.84, 78, 11-04-99, Capital Federal, None
+10, Franco Cristaldo, ARG, M, 1.70, 70, 15-08-96, Capital Federal, Boca Juniors
+11, Fernando Godoy, ARG, M, 1.72, 70, 01-05-90, Capital Federal, Sol de América [PAR]
+12, Guillermo Soto, CHI, D, 1.75, 65, 10-01-94, Santiago, Palestino
+13, Walter Pérez, ARG, D, 1.75, 76, 23-10-98, Isidro Casanova, None
+14, Guillermo Benítez, ARG, D, 1.70, 69, 08-12-93, Capital Federal, Guaraní [PAR]
+16, Rodrigo Cabral, ARG, M, 1.70, 69, 08-08-00, Mercedes, None
+17, Valentín Sánchez, ARG, M, 1.73, 68, 05-02-02, Merlo, None
+18, Gabriel Gudiño, ARG, M, 1.72, 67, 16-03-92, Porteña, Patronato (Paraná)
+19, Fabián Henríquez, ARG, M, 1.72, 68, 08-06-95, Mendoza, Godoy Cruz (Mendoza)
+20, Maicol Cabrera, URU, F, 1.86, 83, 11-05-96, Maldonado, Danubio
+21, Agustín Curruhinca, ARG, F, 1.67, 64, 06-01-00, Viedma, None
+22, Benjamín Garré, ARG, F, 1.72, 70, 11-06-00, Capital Federal, Racing Club
+24, Federico Fattori, ARG, M, 1.77, 76, 22-07-92, Capital Federal, Ferro Carril Oeste
+25, César Ibáñez, ARG, D, 1.74, 72, 17-06-99, Villa Fiorito, None
+27, Rafael Ferrario, ARG, G, 1.86, 76, 30-04-00, Jujuy, None
+28, Santiago Moya, ARG, D, 1.87, 80, 13-09-03, González Catán, None
+29, Iván Valenzuela, ARG, D, 1.81, 76, 24-05-01, Moreno, None
+30, Diego Mercado, ARG, M, 1.72, 72, 03-01-97, Capital Federal, Independiente
+32, Nicolás Campisi, ARG, G, 1.88, 90, 29-10-96, Viedma, Sol de América
+33, Juan Carlos Gauto, ARG, F, 1.78, 86, 02-06-04, Corrientes, None
+34, Santiago Luján, ARG, M, 1.73, 65, 23-01-02, Merlo, None
+35, Patricio Pizarro, ARG, D, 1.83, 77, 27-07-00, Capital Federal, None
+36, Enzo Luna, ARG, F, 1.80, 79, 10-06-02, Colón, None
+38, Leandro Figueredo, ARG, M, 1.93, 82, 12-07-03, Merlo, None
+39, Matías Gómez, ARG, F, -, -, 23-09-03, Ciudad Evita, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Bruno Vides, ARG, F, 1.78, 76, 20-02-93, Salta, Danubio
+15, Pablo Adorno, PAR, D, 1.84, 80, 06-02-96, Asunción, Cerro Porteño
+31, Agostino Spina, ARG, M, 1.80, 71, 31-10-01, Castelar, Unión Magdalena (On Loan)
+20, Jhonatan Candia, URU, F, 1.71, 63, 15-03-95, Montevideo, Rosario Central
+23, Lucas Vera, ARG, M, 1.64, 60, 18-04-97, Bernal, Lanús
+11, Jonás Acevedo, ARG, M, 1.72, 70, 06-02-97, Concarán, Patronato (Paraná) (On Loan)
+8, Jonatan Galván, ARG, D, 1.77, 69, 25-06-92, Mar del Plata, Argentinos Juniors

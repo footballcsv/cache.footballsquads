@@ -1,0 +1,43 @@
+=  Amkar - Russian Football Premier League 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Andrey Lavrik, M, 5'10", 11 09, 07-12-74, Minsk, Dynamo SPb
+4, Ghenadie Olexici, D, 6'00", 12 00, 23-08-78, Chişinău, Zimbru Chişinău
+5, Vitaliy Grishin, M, 5'11", 11 09, 09-09-80, Moscow, Khimki
+6, Marko Milovanović, D, 6'03", 11 09, 12-08-82, Belgrade, Tavriya Simferopol
+7, Georgi Peev, M, 5'10", 11 11, 11-03-79, Sofia, Dynamo Kiev
+8, Sergey Volkov, F, 5'09", 11 00, 27-09-80, Kaluga, Lokomotiv Kaluga
+9, Konstantin Paramonov, F, 5'11", 13 01, 26-11-73, Perm, Zvezda Perm
+10, Andrey Kobenko, M, 5'10", 10 08, 25-06-82, Rostov, Slavyansk
+11, Evgeniy Savin, F, 6'02", 12 04, 19-04-84, Volgograd, Khimki
+13, Antoni Soldevilla, D, 6'01", 12 08, 19-12-78, Barcelona, Apollon Limassol
+14, Zakhari Sirakov, D, 5'11", 11 07, 08-10-77, Sofia, Rodopa Smolyan
+15, Miklós Gaál, D, 6'00'', 12 08, 13-05-81, Celldömölk, Hajduk Split
+16, Predrag Sikimić, F, 6'02", 12 13, 29-08-82, Smederevo, Vojvodina
+17, Evgeniy Scherbakov, M, 6'00", 12 13, 18-02-86, Barnaul, Dynamo Barnaul
+18, Nikola Drinčić, D, 5'11", 12 00, 07-01-84, Belgrade, Gaziantepspor
+20, Ivan Levenets, G, 6'00", 12 00, 22-02-80, Sochi, Chernomorets
+21, Dmitriy Belorukov, D, 6'03", 13 05, 24-03-83, St. Petersburg, Anzhi
+22, Tomislav Dujmović, M, 6'01", 12 08, 26-02-81, Zagreb, Medjimurje
+23, Ivan Cherenchikov, M, 6'00", 12 04, 25-08-84, Perm, Amkar B
+24, Alexey Popov, D, 6'02", 12 06, 07-07-78, Perm, Zvezda Perm
+29, Martin Kushev, F, 6'02", 12 08, 25-08-73, Sofia, Slavia Sofia
+30, Ilya Boldinskiy, M, 5'08", 10 03, 02-05-88, Perm, Amkar B
+32, Petr Zabrodin, D, 6'00", 10 08, 30-04-87, Perm, Amkar B
+33, Denis Khokhlov, M, 5'11", 10 12, 24-05-86, Perm, Amkar B
+35, Stepan Okulov, D, 6'00", 11 09, 06-08-89, Perm, Amkar B
+37, Alexey Vayman, D, 5'10", 11 00, 05-09-87, Perm, Amkar B
+40, Sergey Andreyev, F, 5'10", 11 05, 07-03-88, Perm, Amkar B
+41, Maxim Shumailov, G, 6'02", 12 00, 02-05-90, Perm, Amkar B
+42, Sergey Narubin, G, 6'02", 12 11, 05-12-81, Moskovskaya Oblast, Dynamo Bryansk
+44, Evgeniy Nazarov, F, 5'07", 09 11, 01-01-88, Perm, Amkar B
+45, Evgeniy Syrkov, D, 6'00", 11 05, 13-02-89, Perm, Amkar B
+77, Ildar Ahmetzyanov, D, 6'01", 12 04, 25-11-83, Niznekamsk, Neftehimik
+88, Vladislav Zakoptelov, M, 5'10", 10 03, 26-06-88, Perm, Amkar B
+89, Andrey Sekretov, F, 5'09", 11 07, 13-12-89, Perm, Amkar B
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Pavel Alikin, D, 5'08", 10 10, 06-03-84, Perm, Salyut-Energia
+27, Mikhail Makagonov, M, 6'02", 13 01, 06-02-89, Perm, Vityaz (On Loan)

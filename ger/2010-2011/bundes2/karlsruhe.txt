@@ -1,0 +1,50 @@
+=  Karlsruher SC - German 2.Bundesliga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Matthias Zimmermann, GER, D, 1.74, 63, 16-06-92, Pforzheim, None
+3, Stefan Müller, GER, D, 1.91, 84, 09-11-88, Karlsruhe, None
+4, Godfried Aduobe, GHA, M, 1.78, 70, 29-10-75, Accra, Hansa Rostock
+5, Christian Demirtas, GER, D, 1.73, 71, 25-05-84, Offenbach am Main, Mainz
+6, Stefan Rieß, GER, M, 1.80, 80, 09-12-88, Nördlingen, Bayern Munich II
+7, Christian Timm, GER, F, 1.80, 74, 27-02-79, Herten-Westerholt, Greuther Fürth
+8, Michael Mutzel, GER, M, 1.83, 73, 27-09-79, Memmingen, Stuttgart
+9, Aleksander Iashvili, GEO, F, 1.75, 72, 23-10-77, Tbilisi, Freiburg
+10, Massimilian Porcello, ITA, M, 1.84, 78, 23-06-80, Bückeburg, Arminia Bielefeld
+11, Andreas Schäfer, GER, D, 1.78, 75, 05-02-83, Daun, Osnabrück
+13, Matthias Cuntz, GER, M, 1.84, 78, 04-05-90, Karlsruhe, None
+16, Christopher Bieber, GER, F, 1.92, 88, 03-07-89, Bad Mergentheim, None
+17, Timo Staffeldt, GER, M, 1.75, 72, 09-02-84, Heidelberg, None
+18, Macauley Chrisantus, NGR, F, 1.83, 76, 20-08-90, Abuja, Hamburg
+19, Serhat Akin, TUR, F, 1.76, 74, 05-06-81, Karlsruhe, Konyaspor
+20, Simon Zoller, GER, F, 1.79, 70, 26-06-91, Friedrichshafen, Ulm
+21, Gaëten Krebs, FRA, M, 1.65, 62, 18-11-85, Mulhouse, Hannover 96
+22, Marco Engelhardt, GER, M, 1.86, 75, 02-12-80, Bad Langensalza, Nürnberg
+23, Matthias Langkamp, GER, D, 1.91, 88, 24-02-84, Speyer, Panionios
+24, Sebastian Langkamp, GER, D, 1.90, 85, 15-01-88, Speyer, Hamburg
+26, Lukas Rupp, GER, M, 1.78, 64, 08-01-91, Heidelberg, None
+27, Patrick Dulleck, GER, F, 1.83, 75, 15-02-90, Malsch, None
+28, Thomas Konrad, GER, D, 1.83, 76, 05-11-89, Bruchsal, None
+29, Kristian Nicht, GER, G, 1.96, 87, 03-04-82, Jena, Viking
+30, Ole Schröder, GER, M, 1.75, 72, 02-01-85, Rostock, None
+32, Luis Robles, USA, G, 1.85, 86, 11-05-84, Fort Anachuca, Kaiserslautern
+33, Thorben Stadler, GER, D, 1.80, 80, 08-02-90, Leutershausen, None
+34, Timo Kern, GER, M, 1.79, 74, 16-01-90, Hockenheim, None
+35, Christopher Nguyen, GER, F, 1.70, 67, 13-01-88, , Darmstadt
+36, Andreas Voglsammer, GER, F, 1.78, 78, 09-01-92, Rosenheim, Bayern Munich
+37, Mathias Moritz, GER, G, 1.85, 80, 21-02-88, , None
+38, Patrick Haag, GER, M, 1.81, 74, 02-03-90, Ludwigshafen, Waldhof Mannheim
+39, Delron Buckley, RSA, M, 1.77, 78, 07-12-77, Durban, Anorthosis Famagusta
+40, Andrei Cristea, ROU, F, 1.79, 70, 15-05-84, Bacău, Dinamo Bucureşti
+41, Denis Omerbegović, BIH, M, 1.80, 70, 11-03-86, Zvornik, Elversberg
+42, Kiliann Witschi, SUI, D, 1.83, 72, 09-11-85, Neuchâtel, Chiasso
+43, Pascal Groß, GER, M, 1.71, 66, 15-06-91, Bad Salzungen, 1899 Hoffenheim
+44, Marco Terrazzino, GER, F, 1.81, 67, 15-04-91, Mannheim, 1899 Hoffenheim
+45, Martin Hudec, CZE, D, 1.85, 81, 15-04-82, Znojmo, Sigma Olomouc
+46, Maximilian Mosch, GER, D, 1.95, 90, 09-04-89, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Jean-François Kornetzky, FRA, G, 1.91, 82, 28-07-82, Wissembourg, Sandhausen
+14, Anton Fink, GER, M, 1.71, 73, 31-07-87, Dachau, Aalen (On Loan)
+15, Niklas Tarvajärvi, FIN, F, 1.85, 85, 13-03-83, Tuusula, TPS Turku (On Loan)

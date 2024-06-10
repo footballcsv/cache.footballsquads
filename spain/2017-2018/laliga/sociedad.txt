@@ -1,0 +1,45 @@
+=  Real Sociedad - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gerónimo Rulli, ARG, G, 1.89, 84, 20-05-92, La Plata, Manchester C
+2, Carlos Martínez, ESP, D, 1.89, 79, 09-04-86, Lodosa, Real Sociedad B
+3, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Real Madrid B
+4, Asier Illarramendi, ESP, M, 1.79, 75, 08-03-90, Mutriku, Real Madrid
+5, Igor Zubeldia, ESP, M, 1.80, 79, 30-03-97, Azkoitia, Real Sociedad B
+6, Héctor Moreno, MEX, D, 1.82, 80, 17-01-88, Culiacán, Roma
+7, Juanmi, ESP, F, 1.72, 69, 20-05-93, Coín, Southampton
+8, Adnan Januzaj, BEL, M, 1.86, 76, 05-02-95, Brussels, Manchester U
+9, Imanol Agirretxe, ESP, F, 1.87, 78, 24-02-87, Usurbil, Real Sociedad B
+10, Xabi Prieto, ESP, M, 1.87, 76, 29-08-83, San Sebastián, Real Sociedad B
+12, Willian José, BRA, F, 1.89, 93, 23-11-91, Porto Calvo, Deportivo Maldonado
+13, Toño Ramírez, ESP, G, 1.91, 86, 23-11-86, Logroño, AEK Larnaca
+14, Rubén Pardo, ESP, M, 1.81, 69, 22-10-92, Logroño, Real Sociedad B
+15, Aritz Elustondo, ESP, D, 1.80, 71, 28-03-94, Beasain, Real Sociedad B
+16, Sergio Canales, ESP, M, 1.80, 74, 16-02-91, Santander, Valencia
+17, David Zurutuza, ESP, M, 1.86, 79, 19-07-86, Rochefort, Real Sociedad B
+18, Mikel Oyarzabal, ESP, M, 1.81, 78, 21-04-97, Eibar, Real Sociedad B
+19, Álvaro Odriozola, ESP, D, 1.75, 66, 14-12-95, San Sebastián, Real Sociedad B
+20, Kévin Rodrigues, POR, M, 1.70, 70, 05-03-94, Bayonne, Dijon
+21, Jon Bautista, ESP, F, 1.80, 72, 03-07-95, Mahón, Real Sociedad B
+22, Raúl Navas, ESP, D, 1.86, 84, 11-05-88, Seville, Eibar
+23, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Real Sociedad B
+24, Alberto De La Bella, ESP, D, 1.81, 78, 02-12-85, Santa Coloma de Gramanet, Sevilla B
+25, Miguel Ángel Moyá, ESP, G, 1.88, 83, 02-04-84, Binissalem, Atlético Madrid
+26, Eneko Capilla, ESP, M, 1.75, 75, 13-06-95, San Sebastián, Real Sociedad B
+27, Andoni Gorosabel, ESP, D, 1.74, 73, 04-08-96, Arrasate, Real Sociedad B
+28, Ander Gorostidi, ESP, M, 1.85, 74, 23-02-96, San Sebastián, Real Sociedad B
+29, Ander Guevara, ESP, M, 1.78, 73, 07-07-97, Vitoria-Gasteiz, Real Sociedad B
+31, Robin Le Normand, FRA, D, 1.87, 80, 11-11-96, Pabu, Brest
+32, Martín Merquelanz, ESP, M, 1.76, 72, 12-06-95, Irún, Real Sociedad B
+33, Luca Sangalli, ESP, M, 1.67, 74, 10-02-95, San Sebastián, Real Sociedad B
+34, Pablo Sisniega, MEX, G, 1.93, 82, 07-07-95, Mexico City, Real Sociedad B
+36, Juan José Garrancho, ESP, G, 1.91, 87, 22-06-97, San Sebastián, Real Sociedad B
+38, Andoni Zubiaurre, ESP, G, 1.88, 82, 04-12-96, Ordizia, Real Sociedad B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Carlos Vela, MEX, F, 1.77, 77, 01-03-89, Cancún, Los Angeles FC
+30, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Re-Registered (23)
+6, Íñigo Martínez, ESP, D, 1.82, 79, 17-05-91, Ondarroa, Athletic Bilbao
+25, Héctor Moreno, MEX, D, 1.82, 80, 17-01-88, Culiacán, Re-Registered (6)

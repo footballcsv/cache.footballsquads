@@ -1,0 +1,45 @@
+=  TSV 1860 Munich - German 2.Bundesliga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vitus Eicher, GER, G, 1.90, 80, 05-11-90, Erding, None
+2, Jan Mauersberger, GER, D, 1.94, 83, 17-06-85, Munich, Karlsruhe
+3, Maximilian Wittek, GER, D, 1.70, 66, 21-08-95, Freising, None
+4, Kai Bülow, GER, D, 1.88, 77, 31-05-86, Rostock, Hansa Rostock
+5, Guillermo Vallori, ESP, D, 1.91, 84, 24-06-82, Palma de Mallorca, Grasshoppers
+6, Dominik Stahl, GER, M, 1.82, 79, 20-08-88, Hardheim, 1899 Hoffenheim
+7, Daylon Claasen, RSA, M, 1.76, 66, 28-01-90, Klerksdorp, Lech Poznań
+8, Rodnei, BRA, D, 1.90, 91, 11-09-85, São Paulo, RB Leipzig
+9, Stefan Mugoša, MNE, F, 1.88, 80, 26-02-92, Podgorica, Kaiserslautern
+10, Michael Liendl, AUT, M, 1.75, 72, 25-10-85, Vorarlberg, Fortuna Düsseldorf
+11, Daniel Adlung, GER, M, 1.75, 67, 01-10-87, Fürth, Energie Cottbus
+13, Sascha Mölders, GER, F, 1.85, 79, 20-03-85, Essen, Augsburg
+14, Krisztián Simon, HUN, M, 1.83, 72, 10-06-91, Budapest, Újpest
+15, Goran Šukalo, SVN, M, 1.93, 88, 24-08-81, Koper, Greuther Fürth
+16, Stephan Hain, GER, F, 1.78, 72, 27-09-88, Zwiesel, Augsburg
+17, Jannik Bandowski, GER, D, 1.92, 85, 30-03-94, Korbach, Borussia Dortmund
+18, Nico Karger, GER, F, 1.83, 79, 01-02-93, Kronach, None
+19, Rubin Okotie, AUT, F, 1.88, 84, 06-06-87, Karachi, Austria Vienna
+20, Valdet Rama, ALB, M, 1.82, 79, 20-11-87, Kosovska Mitrovica, Valladolid
+21, Felix Ohis Uduokhai, GER, D, 1.88, 78, 09-09-97, , None
+22, Michael Netolitzky, GER, G, 1.91, 82, 12-01-94, Bayreuth, Nürnberg
+23, Maximilian Beister, GER, F, 1.80, 78, 06-09-90, Göttingen, Mainz
+24, Stefan Ortega, GER, G, 1.83, 84, 06-11-92, Hofgeismar, Arminia Bielefeld
+25, Gary Kagelmacher, URU, D, 1.83, 80, 21-04-88, Montevideo, Monaco
+26, Christopher Schindler, GER, D, 1.88, 77, 29-04-90, Munich, None
+30, Miloš Degenek, AUS, D, 1.87, 80, 28-04-94, Knin, Stuttgart II
+31, Richard Neudecker, GER, M, 1.74, 63, 29-10-96, Altötting, None
+33, Levent Ayçiçek, GER, M, 1.69, 60, 12-02-94, Nienburg, Werder Bremen
+37, Sertan Yiğenoğlu, TUR, D, 1.88, 78, 04-01-95, Siegburg, Hennef
+38, Romuald Lacazette, FRA, M, 1.75, 75, 03-01-94, Paris, Paris St-Germain
+39, Vladimir Kovač, SVK, D, 1.78, 80, 29-04-91, Bojnice, Wolfratshausen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Rodri, ESP, F, 1.74, 64, 06-06-90, Soria, Valladolid (On Loan)
+13, Ilie Sánchez, ESP, M, 1.80, 77, 21-11-90, Barcelona, Elche (On Loan)
+27, Marius Wolf, GER, F, 1.87, 73, 27-05-95, Coburg, Hannover 96
+36, Stephane Mvibudulu, GER, F, 1.88, 84, 18-05-93, Leipzig, Stuttgarter Kickers
+34, Fejsal Mulić, SRB, F, 2.03, 84, 03-10-94, Novi Pazar, Mouscron-Péruwelz
+35, Emanuel Taffertshofer, GER, M, 1.74, 71, 24-02-95, Landsberg, Würzburger Kickers
+33, Korbinian Vollmann, GER, M, 1.79, 67, 27-10-93, Munich, Sandhausen

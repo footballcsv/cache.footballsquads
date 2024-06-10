@@ -1,0 +1,31 @@
+=  Huracán - Argentinian Primera División 2008 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oscar Limia, ARG, G, 1.84, 80, 16-07-75, Avellaneda, Cádiz
+2, Paolo Goltz, ARG, D, 1.84, 80, 12-05-85, Hasenkamp, None
+3, Carlos Arano, ARG, D, 1.70, 69, 06-05-80, Avellaneda, Poli Ejido
+4, Carlos Araujo, ARG, D, 1.77, 78, 19-11-81, Godoy Cruz, Olimpo (BB)
+5, Gastón Esmerado, ARG, M, 1.82, 77, 08-02-78, Lanús, Skoda Xanthi
+6, Matías Manrique, ARG, D, 1.86, 74, 01-11-80, Mendoza, Peñarol
+7, Carlos Casartelli, ARG, F, 1.82, 80, 04-11-74, Villa Angela, Indios de Ciudad Juárez
+8, Leandro Díaz, ARG, M, 1.78, 78, 26-06-86, Capital Federal, Boca Juniors
+9, Hernán Barcos, ARG, F, 1.88, 75, 11-04-84, Bell Ville, Racing Club
+10, Germán Castillo, ARG, M, 1.77, 66, 17-10-77, El Trebol, Deportivo Cuenca
+11, César González, VEN, M, 1.80, 74, 01-10-82, Maturín, Colón (Santa Fe)
+12, Lucas Calviño, ARG, G, 1.85, 82, 08-11-84, Avellaneda, Almagro
+13, Diego Herner, ARG, D, 1.86, 84, 31-07-83, Gualeguaychú, Banfield
+14, Sergio Meza Sánchez, ARG, M, 1.74, 78, 08-01-83, Corrientes, Almirante Brown
+15, Kevin Cura, ARG, D, 1.75, 74, 03-10-90, Capital Federal, None
+16, Javier Pastore, ARG, M, 1.87, 75, 20-06-89, Córdoba, Talleres (Córdoba)
+17, Ariel Cólzera, ARG, F, 1.74, 64, 15-04-86, Resistencia, Atlético Rafaela
+18, Patricio Toranzo, ARG, M, 1.78, 73, 19-03-82, Capital Federal, Quilmes
+19, Hugo Barrientos, ARG, M, 1.74, 65, 01-03-77, Comodoro Rivadavia, Instituto (Córdoba)
+20, Matías De Federico, ARG, M, 1.71, 69, 23-08-89, Capital Federal, None
+21, Iván Nadal, ARG, D, 1.71, 70, 18-05-87, Capital Federal, Defensores de Belgrano
+22, Gastón Monzón, ARG, G, 1.84, 79, 13-05-87, Gonzalez Catán, None
+23, Luciano Nieto, ARG, F, , , 19-01-91, Tapiales, None
+24, Matías Gigli, ARG, F, 1.75, 69, 07-06-76, Arroyo Seco, Belgrano (Córdoba)
+25, Gastón Beraldi, ARG, M, 1.73, 68, 09-07-82, Capital Federal, Platense
+27, Isaac Suárez, ARG, M, , , , , None
+28, David González, COL, G, 1.94, 83, 20-07-82, Medellín, Rizespor
+29, Ezequiel Filippetto, ARG, D, 1.81, 78, 09-12-87, Capital Federal, None

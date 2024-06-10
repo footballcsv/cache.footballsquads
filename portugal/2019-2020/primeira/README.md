@@ -1,0 +1,21 @@
+# Portuguese Primeira Liga 2019/2020
+
+18 teams
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Desportivo das Aves](despaves.txt)
+- [Famalicão](famalicao.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Paços de Ferreira](pacos.txt)
+- [Portimonense](portimon.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Santa Clara](santa.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [Tondela](tondela.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

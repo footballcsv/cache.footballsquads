@@ -1,0 +1,43 @@
+=  Aris - Greek Super League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michalis Sifakis, GRE, G, 1.85, 80, 09-09-84, Arta, Olympaikos
+2, Neto, BRA, D, 1.75, 67, 07-02-81, São José do Rio Preto, Santos
+3, Carlos Arano, ARG, D, 1.70, 69, 06-05-80, Avellaneda, Huracán
+4, Efthimis Koulouheris, GRE, D, 1.80, 73, 10-03-81, Karditsa, Olympiakos
+5, Ronaldo Guiaro, BRA, D, 1.86, 77, 18-02-74, Piracicaba, Santos
+6, Mehdi Nafti, TUN, M, 1.79, 77, 28-11-78, Toulouse, Birmingham C
+7, Toni Calvo, ESP, M, 1.71, 65, 28-03-87, Barcelona, Barcelona B
+8, Ronald García, BOL, M, 1.84, 76, 17-12-80, Santa Cruz de la Sierra, Oriente Petrolero
+9, Darío Fernández, ARG, M, 1.79, 72, 24-09-78, Punta Alta, Beitar Jerusalem
+10, Koke, ESP, F, 1.80, 74, 27-04-83, Málaga, Marseille
+11, Freddy Adu, USA, F, 1.73, 70, 02-06-89, Tema, Benfica
+14, Eddie Johnson, USA, F, 1.83, 81, 31-03-84, Daytona Beach, Fulham
+15, Cristian Nasuti, ARG, D, 1.80, 79, 06-09-82, San Martín, River Plate
+17, Camel Meriem, FRA, M, 1.74, 70, 18-10-79, Audincourt, Monaco
+18, Javier Campora, ARG, F, 1.74, 72, 07-01-80, Rosario, Puebla
+20, Javito, ESP, F, 1.74, 69, 04-11-83, Moraleja, Barcelona B
+22, Thomas Grekos, GER, D, 1.71, 65, 18-04-91, Thessaloniki, None
+23, Christos Aravidis, GER, M, 1.78, 75, 13-03-87, Athens, Panionios
+25, César Ortiz, ESP, D, 1.82, 75, 30-01-89, Toledo, Atlético Madrid B
+27, Charalambos Economopoulos, GRE, M, 1.84, 76, 09-01-91, Thessaloniki, None
+28, Michal Peškovič, SVK, G, 1.88, 86, 08-02-82, Bratislava, Polonia Bytom
+29, Ioannis Agtsidis, GRE, D, 1.76, 71, 14-10-92, Thessaloniki, None
+32, Kristi Vangieli, ALB, D, 1.78, 72, 05-09-85, Korçë, None
+33, Stavros Labriakos, GRE, F, 1.92, 89, 30-11-75, Thessaloniki, Skoda Xanthi
+40, Stivi Frasheri, ALB, G, 1.91, 82, 29-08-90, Korçë, None
+47, Mavroudis Bougaidis, GRE, D, 1.90, 75, 01-06-93, Thessaloniki, Agrotikos Asteras
+55, Thanassis Prittas, GRE, M, 1.83, 78, 09-01-79, Thessaloniki, Iraklis
+86, Renato Piovezan, BRA, G, 1.84, 86, 24-04-86, Rio de Janeiro, Mezzocorona
+99, Ian Daly, IRL, F, 1.87, 78, 29-03-90, Dublin, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Sanel Jahić, BIH, D, 1.85, 85, 10-12-81, Strasbourg, AEK
+25, Flávio, BRA, D, 1.80, 76, 12-03-80, Niterói, Larissa
+13, Sebastián Abreu, URU, F, 1.93, 84, 17-10-76, Minas Lavalleja, Botafogo
+11, Leandro Gracián, ARG, M, 1.71, 72, 06-08-82, Capital Federal, Boca Juniors
+21, Valentin Roberge, FRA, D, 1.85, 73, 09-06-87, Montreuil, 
+12, Vassilis Rovas, GRE, M, 1.78, 74, 06-01-84, Karditsa, PAS Giannina (On Loan)
+19, Sebastián García, ARG, M, 1.74, 73, 27-01-84, Santa Fe, Iraklis

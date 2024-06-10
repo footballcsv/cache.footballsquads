@@ -1,0 +1,35 @@
+=  Vélez Sarsfield - Argentinian Primera División 2009 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Barovero, ARG, G, 1.83, 73, 18-02-84, Porteña, Huracán
+3, Emiliano Papa, ARG, D, 1.69, 67, 19-04-82, Acébal, Rosario Central
+4, Ricardo Gastón Díaz, ARG, D, 1.70, 63, 13-03-88, Ciudadela, None
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, UANL Tigres
+6, Sebastián Dominguez, ARG, D, 1.83, 67, 29-07-80, Capital Federal, América
+7, Juan Martínez, ARG, F, 1.73, 73, 21-10-85, Viedma, Al-Shabab
+8, Nicolás Cabrera, ARG, M, 1.75, 69, 05-06-84, La Plata, Newell's Old Boys
+9, Joaquín Larrivey, ARG, F, 1.85, 82, 20-08-84, Buenos Aires, Cagliari
+10, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, FC Moscow
+11, Rodrigo López, URU, F, 1.81, 77, 21-01-78, Montevideo, América
+12, Ezequiel Cacace, ARG, G, 1.83, 78, 07-01-84, Capital Federal, Talleres (Rem. de Escalada)
+14, Leandro Coronel, ARG, M, 1.80, 78, 10-02-88, Capital Federal, None
+15, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, None
+16, Victor Zapata, ARG, M, 1.75, 70, 20-01-79, San Martín, River Plate
+18, Leandro Somoza, ARG, M, 1.85, 77, 26-01-81, Capital Federal, Villarreal
+19, Roberto Nanni, ARG, F, 1.89, 78, 20-08-81, Azul, Dynamo Kiev
+20, Darío Ocampo, ARG, M, 1.83, 58, 21-06-86, Misiones, None
+21, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, None
+22, Leandro Velázquez, ARG, M, 1.67, 62, 10-05-89, Capital Federal, None
+23, Waldo Ponce, CHI, D, 1.80, 69, 04-12-82, Los Andes, Universidad de Chile
+24, Iván Bella, ARG, M, 1.80, 72, 13-09-89, San Martín, None
+25, Germán Montoya, ARG, G, 1.85, 75, 23-01-83, Córdoba, Belgrano (Córdoba)
+26, Pablo Despósito, ARG, M, 1.78, 79, 30-01-89, Capital Federal, None
+27, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, None
+28, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, None
+29, Ricardo Álvarez, ARG, M, 1.88, 73, 12-04-88, Capital Federal, None
+30, Nicolás Otamendi, ARG, D, 1.78, 75, 12-02-88, Pacheco, None
+32, Leonardo Piris, ARG, F, 1.70, 65, 01-04-90, Posadas, None
+33, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, None
+34, Luciano Cigno, ARG, M, 1.78, 79, 29-02-88, Centro, None
+35, Franco Razzotti, ARG, M, 1.81, 78, 06-02-85, Capital Federal, None
+36, Mariano Bíttolo, ARG, D, 1.74, 65, 24-04-90, Morón, None

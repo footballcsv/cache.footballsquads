@@ -1,0 +1,41 @@
+=  Napoli - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Meret, ITA, G, 1.90, 77, 22-03-97, Udine, Udinese
+2, Kévin Malcuit, FRA, D, 1.78, 74, 31-07-91, Chatenay-Malabry, Lille
+4, Diego Demme, GER, M, 1.70, 66, 21-11-91, Herford, RB Leipzig
+5, Allan, BRA, M, 1.75, 73, 08-01-91, Rio de Janeiro, Udinese
+6, Mário Rui, POR, D, 1.70, 67, 27-05-91, Sines, Roma
+7, José Callejón, ESP, F, 1.79, 73, 11-02-87, Motril, Real Madrid
+8, Fabián, ESP, M, 1.89, 70, 03-04-96, Los Palacios y Villafranca, Betis
+9, Fernando Llorente, ESP, F, 1.93, 88, 26-02-85, Pamplona, Tottenham H
+11, Hirving Lozano, MEX, M, 1.77, 70, 30-07-95, Mexico City, PSV Eindhoven
+12, Eljif Elmas, MKD, M, 1.84, 74, 24-09-99, Skopje, Fenerbahçe
+13, Sebastiano Luperto, ITA, D, 1.91, 75, 06-09-96, Lecce, Lecce
+14, Dries Mertens, BEL, F, 1.69, 61, 06-05-87, Leuven, PSV Eindhoven
+15, Antonio Pio Daniele, ITA, G, 1.84, 65, 10-07-02, Massa di Somma, None
+19, Nikola Maksimović, SRB, D, 1.93, 82, 25-11-91, Bajina Bašta, Torino
+20, Piotr Zieliński, POL, M, 1.80, 75, 20-05-94, Ząbkowice Śląskie, Udinese
+21, Matteo Politano, ITA, F, 1.71, 65, 03-08-93, Rome, Internazionale
+22, Giovanni Di Lorenzo, ITA, D, 1.82, 80, 04-08-93, Castelnuovo di Garfagnana, Empoli
+23, Elseid Hysaj, ALB, D, 1.82, 70, 02-02-94, Shkodër, Empoli
+24, Lorenzo Insigne, ITA, F, 1.63, 59, 04-06-91, Naples, None
+25, David Ospina, COL, G, 1.83, 80, 31-08-88, Medellín, Arsenal
+26, Kalidou Koulibaly, SEN, D, 1.95, 89, 20-06-91, Saint-Dié, KRC Genk
+27, Orestis Karnezis, GRE, G, 1.89, 79, 11-07-85, Athens, Udinese
+31, Faouzi Ghoulam, ALG, D, 1.88, 80, 01-02-91, Saint-Priest-en-Jarez, St-Etienne
+34, Amin Younes, GER, M, 1.68, 67, 06-08-93, Düsseldorf, Ajax
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Roma
+68, Stanislav Lobotka, SVK, M, 1.70, 64, 25-11-94, Trenčín, Celta Vigo
+99, Arkadiusz Milik, POL, F, 1.86, 78, 28-02-94, Tychy, Ajax
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Adam Ounas, ALG, F, 1.72, 65, 11-11-96, Chambray-les-Tours, Nice (On Loan)
+9, Simone Verdi, ITA, F, 1.74, 70, 12-07-92, Broni, Torino (On Loan)
+21, Vlad Chiricheş, ROU, D, 1.83, 75, 14-11-89, Bacău, Sassuolo (On Loan)
+18, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Empoli (On Loan)
+70, Gianluca Gaetano, ITA, F, 1.83, 70, 05-05-00, Cimitile, Cremonese (On Loan)
+62, Lorenzo Tonelli, ITA, D, 1.83, 78, 17-01-90, Florence, Sampdoria (On Loan)
+98, Leandrinho, BRA, F, 1.73, 66, 11-10-98, Ribeirão Claro, Red Bull Bragantino (On Loan)

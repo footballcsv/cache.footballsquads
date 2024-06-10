@@ -1,0 +1,59 @@
+=  Pescara - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Damiano Zanon, ITA, D, 1.77, 73, 02-09-83, L'Aquila, Celano
+3, Per Krøldrup, DEN, D, 1.87, 82, 31-07-79, Farso, Fiorentina
+4, Emmanuel Cascione, ITA, M, 1.87, 77, 22-09-83, Catanzaro, Reggina
+5, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Torino
+6, Luciano Zauri, ITA, M, 1.78, 75, 20-01-78, Pescina, Lazio
+7, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Lazio
+8, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Standard Liège
+9, Elvis Abbruscato, ITA, F, 1.81, 76, 14-04-81, Reggio Emilia, Vicenza
+10, Mervan Celik, SWE, M, 1.77, 68, 26-05-90, Gothenburg, GAIS
+11, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Parma
+14, Antonio Balzano, ITA, D, 1.76, 73, 13-06-86, Bitonto, Atletico Roma
+15, Antonio Bocchetti, ITA, D, 1.83, 72, 11-06-80, Naples, Frosinone
+17, Vladimir Weiss, SVK, M, 1.75, 68, 30-11-89, Bratislava, Manchester C
+18, Giuseppe Rizzo, ITA, M, 1.78, 64, 18-03-91, Messina, Reggina
+19, Lucas Chiaretti, BRA, F, 1.71, 66, 22-09-87, Belo Horizonte, Taranto
+21, Rômulo Eugênio Togni, BRA, M, 1.83, 76, 09-09-82, São Leopoldo, Sorrento
+22, Ante Vukušić, CRO, F, 1.77, 72, 04-06-91, Sinj, Hajduk Split
+23, Uroš Ćosić, SRB, D, 1.87, 76, 24-10-92, Belgrade, CSKA Moscow
+25, David Mbodj, SEN, D, 1.93, 82, 15-09-94, , None
+26, Manuele Blasi, ITA, M, 1.78, 67, 17-08-80, Civitavecchia, Lecce
+28, Nicolás Bianchi Arce, ARG, D, 1.88, 82, 28-01-87, Capital Federal, San Lorenzo
+32, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, Padova
+33, Ferdinando Sforzini, ITA, F, 1.93, 83, 04-12-84, Rome, Grosseto
+41, Salvatore Falso, ITA, G, 1.85, 78, 11-04-94, Gaeta, Siena
+45, Giovanbattista Catalano, ITA, F, , , 22-01-94, Catanzaro, Vigor Lamezia
+46, Marco Vittiglio, ITA, D, 1.79, 70, 17-01-94, Pescara, None
+49, Marco Iannascoli, ITA, M, , , 06-11-94, Pescara, None
+55, Tiziano Cherubini, ITA, M, , , 13-09-94, Tarquinia, None
+60, Milton Caraglio, ARG, F, 1.87, 89, 01-12-88, Rosario, Rangers (Talca)
+70, Gaetano D'Agostino, ITA, M, 1.82, 81, 03-06-82, Palermo, Siena
+77, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, Genoa
+81, Francesco Karkalis, ITA, D, , , 19-01-95, Pescara, None
+93, Juan Quintero, COL, M, 1.69, 64, 18-01-93, Medellín, Atlético Nacional
+94, Federico Di Francesco, ITA, F, 1.80, 75, 14-06-94, Pisa, None
+95, Luca Savelloni, ITA, G, 1.92, 82, 16-07-95, Rome, None
+96, Andrea Mancini, ITA, F, 1.80, 70, 26-04-96, Pescara, None
+99, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Roma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Riccardo Maniero, ITA, F, 1.83, 81, 26-11-87, Naples, Ternana (On Loan)
+13, Riccardo Brosco, ITA, D, 1.90, 78, 03-02-91, Rome, Ternana (On Loan)
+90, Antonino Ragusa, ITA, F, 1.81, 72, 27-03-90, Catania, Ternana (On Loan)
+22, Luca Anania, ITA, G, 1.83, 76, 21-06-80, Milan, Padova
+94, Marco Perrotta, ITA, D, 1.84, 72, 14-02-94, Campobasso, Paganese (On Loan)
+24, Luca Lulli, ITA, M, 1.73, 70, 22-12-91, Roseto, Paganese (On Loan)
+6, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Spezia (On Loan)
+18, Giuseppe Colucci, ITA, M, 1.80, 73, 24-08-80, Foggia, Reggina
+3, Alessandro Crescenzi, ITA, D, 1.78, 71, 25-09-91, Marino, Roma
+55, Luca Berardocco, ITA, M, 1.74, 65, 22-01-91, Pescara, FeralpiSalò (On Loan)
+7, Danilo Soddimo, ITA, F, 1.85, 75, 27-09-87, Rome, Grosseto (On Loan)
+16, Gastón Brugman, URU, F, 1.78, 75, 07-09-92, Rosario, Grosseto (On Loan)
+20, Matti Lund Nielsen, DEN, M, 1.84, 74, 08-05-88, Odense, Verona (On Loan)
+80, Jonathas, BRA, F, 1.91, 83, 06-03-89, Justinópolis, Torino (On Loan)
+88, Christian Terlizzi, ITA, D, 1.90, 78, 22-11-79, Rome, Siena (On Loan)

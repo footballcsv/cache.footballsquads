@@ -1,0 +1,59 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Grêmio
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, None
+3, Leonardo Silva, BRA, D, 1.92, 80, 22-06-79, Rio de Janeiro, Cruzeiro
+4, Frickson Erazo, ECU, D, 1.90, 78, 05-05-88, Esmeraldas, Barcelona [ECU]
+5, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, Spartak Moscow
+7, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Guangzhou Evergrande
+8, Leandro Donizete, BRA, M, 1.75, 70, 18-05-82, Araraquara, Coritiba
+9, Lucas Pratto, ARG, F, 1.88, 87, 04-06-88, La Plata, Vélez Sarsfield
+10, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Internacional
+11, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Banfield
+13, Carlos, BRA, F, 1.72, 66, 15-08-95, Santa Luz, None
+14, Ralph, BRA, M, 1.75, 68, 07-03-98, São Fidelis, None
+15, Edcarlos, BRA, D, 1.85, 76, 10-05-85, Salvador, Desportivo Brasil
+16, Thalis, BRA, M, 1.80, 70, 19-03-96, Ariquemes, None
+17, Hyuri, BRA, F, 1.84, 75, 26-09-91, Rio de Janeiro, Guizhou Renhe
+18, Lucas Cândido, BRA, M, 1.78, 73, 25-12-93, Uberlândia, None
+19, Carlos César, BRA, D, 1.72, 70, 21-04-87, Uberaba, Boa
+20, Giovanni, BRA, G, 1.91, 83, 05-02-87, Bauru, Grêmio Prudente
+21, Júnior Urso, BRA, M, 1.82, 82, 10-03-89, Taboão da Serra, Shandong Luneng
+22, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Rubin Kazan
+23, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, Figuierense
+25, Yago, BRA, M, 1.80, 80, 07-07-95, Belo Horizonte, None
+27, Luan, BRA, F, 1.68, 69, 11-08-90, São Miguel dos Campos, Atlético Sorocaba
+28, Capixaba, BRA, F, 1.70, 66, 19-01-97, Guarapari, None
+29, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Benfica
+30, Alex Silva, BRA, D, 1.81, 74, 15-05-94, Minas Gerais, None
+31, Gabriel, BRA, D, 1.81, 80, 14-03-95, Pedro Leopoldo, None
+32, Uilson, BRA, G, 1.86, 75, 28-04-94, Mucuri, None
+33, Ronaldo Conceição, BRA, D, 1.91, 80, 03-04-87, Capão da Canoa, River Plate [URU]
+34, Leonan, BRA, M, 1.74, 64, 20-10-95, Engenho Velho, None
+35, Filipinho, BRA, D, 1.70, 67, 30-09-96, Serra, None
+36, João Figueiredo, BRA, F, , , 27-05-96, , None
+37, Adson, BRA, M, , , 06-05-97, , None
+38, Jesiel, BRA, D, 1.86, 79, 05-03-94, Cândido Mota, Red Bull Brasil
+39, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Cruz Azul
+40, Cleiton, BRA, G, 1.90, 82, 19-08-97, Belmonte, None
+41, Thiago, BRA, G, , , 25-02-98, , None
+42, Nathan Silva, BRA, M, 1.82, 79, 06-05-97, Oliveira, None
+43, Eron, BRA, D, 1.73, 68, 17-01-92, Belo Horizonte, None
+44, Roldan, BRA, M, , , 20-03-96, , None
+45, Clebinho, BRA, M, 1.78, 66, 10-05-97, Penaforte, Salgueiro
+46, Luis Guilherme, BRA, F, , , 07-06-96, , None
+47, Daniel Penha, BRA, M, , , 17-10-98, , None
+70, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, Udinese
+80, Rómulo Otero, VEN, M, 1.65, 66, 09-11-92, El Tigre, Huachipato
+99, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Fluminense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Lauro, BRA, G, 1.93, 92, 03-09-80, Andradina, Ceará
+14, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Sport Recife (On Loan)
+16, Pablo, BRA, F, 1.75, 65, 18-12-92, Campinas, Vegalta Sendai (On Loan)
+26, Tiago, BRA, D, 1.91, 89, 17-06-90, São Jorge d'Oeste, Bahia (On Loan)
+30, Eduardo Henrique, BRA, M, 1.84, 73, 17-05-95, Limeira, Coimbra
+6, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Hamburg

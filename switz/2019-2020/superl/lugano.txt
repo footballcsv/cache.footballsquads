@@ -1,0 +1,50 @@
+=  Lugano - Swiss Super League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Da Costa, SUI, G, 1.86, 76, 19-04-86, Zürich, Novara
+2, Joel Untersee, SUI, D, 1.81, 79, 11-02-94, Johannesburg, Empoli
+3, Jefferson, BRA, D, 1.76, 72, 05-07-88, Bahia, Sporting CP
+4, Ákos Kecskés, HUN, D, 1.90, 85, 04-01-96, Hódmezővásárhely, Atalanta
+5, Mijat Marić, SUI, D, 1.88, 83, 30-04-84, Minusio, Lokeren
+6, Miroslav Čovilo, BIH, M, 1.77, 66, 06-05-86, Hrasnica, Cracovia Kraków
+7, Çendrim Kameraj, SUI, M, 1.78, 72, 13-03-99, Lucerne, Juventus U23
+8, Christopher Lungoyi, SUI, F, 1.82, 74, 04-07-00, Kinshasa, FC Porto
+9, Rangelo Janga, NED, F, 1.68, 63, 16-04-92, Rotterdam, Astana
+10, Mattia Bottani, SUI, M, 1.70, 64, 24-05-91, Bern, Wil
+11, Filip Holender, HUN, F, 1.80, 74, 27-07-94, Kragujevac, Honvéd
+14, Jonathan Sabbatini, URU, M, 1.75, 71, 31-03-88, Paysandú, Chieti
+16, Numa Lavanchy, SUI, M, 1.74, 69, 25-08-93, Vevey, Grasshoppers
+18, Guy Yao, CIV, D, 1.82, 76, 20-01-96, Akrroukro, Internazionale
+19, Alexander Gerndt, SWE, F, 1.85, 77, 14-07-86, Visby, Young Boys
+20, Olivier Custodio, SUI, M, 1.79, 74, 10-02-95, Montreux, Luzern
+21, Linus Obexer, SUI, D, 1.75, 69, 05-06-97, Bern, Young Boys
+22, Stefano Guidotti, SUI, M, 1.85, 75, 16-06-99, Locarno, None
+23, Daniel Pavlović, SUI, D, 1.83, 77, 22-04-88, Rorschach, Perugia
+24, Sandi Lovrič, AUT, M, 1.80, 70, 28-03-98, Lienz, Sturm Graz
+27, Franklin Sasere, NGA, F, 1.85, 88, 27-06-98, , Sunshine Stars
+28, Fulvio Sulmoni, SUI, D, 1.81, 77, 04-01-86, Mendrisio, Thun
+29, David Jovanovic, SUI, D, 1.78, 72, 13-03-01, Sorengo, Team Ticino
+30, Fabio Daprelà, SUI, D, 1.80, 65, 19-02-91, Zürich, Chievo Verona
+31, Alessandro Pietrogiovanna, ITA, G, 1.86, 78, 16-06-01, Sorengo, None
+33, Domen Črnigoj, SVN, M, 1.85, 67, 18-11-95, Koper, Koper
+46, Noam Baumann, SUI, G, 1.92, 83, 10-04-96, Baar, Wil
+47, Ransford Selasi, GHA, M, 1.80, 70, 19-08-96, Accra, Juventus U23
+68, Francisco Rodríguez, SUI, M, 1.78, 76, 14-09-95, Zürich, Luzern
+70, Marco Aratore, SUI, M, 1.71, 61, 04-06-91, Basel, FC Ural
+74, Simone Piazza, ITA, F, 1.79, 76, 17-06-99, , None
+76, Lucio Soldini, SUI, G, 1.79, 69, 05-04-01, Neuchâtel, Team Ticino
+77, Roman Macek, CZE, M, 1.88, 73, 18-04-97, Zlín, Juventus
+79, Florjan Seferaj, SUI, F, 1.82, 74, 26-09-00, Sorengo, Team Ticino
+80, Noah De Queiroz, SUI, D, 1.81, 73, 10-12-02, Sorengo, Team Ticino
+99, Tiziano Villa, SUI, D, 1.78, 76, 16-03-99, , Team Ticino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Leutrim Kryeziu, KVX, F, 1.81, 73, 25-01-99, Kamenica, Chiasso (On Loan)
+57, Younes Bnou Marzouk, MAR, F, 1.77, 75, 02-03-96, Freyming-Merlebach, Chiasso
+23, Nicola Dalmonte, ITA, F, 1.69, 73, 13-09-97, Ravenna, Genoa
+13, Alexander Muci, GER, G, 1.85, 75, 20-11-00, Lenzburg, Latina
+11, Carlinhos Junior, BRA, F, 1.74, 71, 08-08-94, Rio de Janeiro, Shimizu S-Pulse
+17, Bálint Vécsei, HUN, F, 1.92, 84, 13-07-93, Kazincbarcika, Ferencváros
+9, Filip Holender, SRB, F, 1.80, 74, 27-07-94, Kragujevac, Re-Registered (11)

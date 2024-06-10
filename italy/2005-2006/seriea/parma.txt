@@ -1,0 +1,48 @@
+=  Parma - Italian Serie A 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alfonso De Lucia, G, 6'01", 13 01, 12-11-83, Nola, None
+2, Ferdinand Coly, D, 5'11", 12 00, 10-09-73, Dakar, Perugia
+3, Giuseppe Cardone, D, 6'00", 12 00, 03-03-74, Pavia, Piacenza
+4, Daniele Dessena, M, 5'11", 11 09, 10-05-87, Parma, None
+5, Daniele Bonera, D, 6'00", 11 09, 31-05-81, Brescia, Brescia
+6, Jorge Bolano, M, 5'06", 09 13, 24-04-77, Santa Maria, Atlético Júnior
+7, Luca Bucci, G, 5'11", 12 01, 13-03-69, Bologna, Empoli
+9, Bernardo Corradi, F, 6'02", 13 08, 30-03-76, Siena, Valencia
+10, Domenico Morfeo, M, 5'07", 10 03, 16-01-76, Pescina dei Marsi, Internazionale
+13, Vincenzo Grella, M, 6'00", 12 06, 05-10-79, Melbourne, Empoli
+14, Matteo Contini, D, 6'00", 12 00, 16-04-80, Gemonio, MIlan
+15, Filippo Savi, M, 5'09", 11 11, 29-01-87, Parma, None
+16, Francesco Ruopolo, F, 6'01", 13 01, 20-03-83, Aversa, None
+17, Marco Rossi, D, 6'02", 12 04, 30-09-87, Parma, None
+19, Andrea Pisanu, F, 5'08", 11 05, 07-01-82, Cagliari, Verona
+21, Luca Cigarini, M, , , 20-06-86, Montecchio, None
+23, Mark Bresciano, M, 6'00", 11 07, 11-02-80, Melbourne, Empoli
+24, Fernando Couto, D, 6'00", 13 03, 02-08-69, Espinho, Lazio
+25, Mirco Stefani, M, 5'10", 12 08, 25-01-83, Milan, Milan
+26, Damiano Ferronetti, D, 6'00", 11 00, 01-11-84, Albano Laziale, Roma
+27, Mattia Mandorlini, M, , , 22-10-88, , None
+28, Paolo Cannavaro, D, 6'00", 12 00, 26-06-81, Naples, Verona
+29, Ibrahima Sory Camara, M, 5'11", 12 04, 01-01-85, Conakry, None
+30, Fabio Simplicio, M, 5'07", 11 11, 23-09-79, São Paulo, São Paulo
+31, Francesco Pambianchi, D, , , 12-01-89, , None
+32, Marco Marchionni, M, 5'09", 10 06, 22-07-80, Monterotondo, Piacenza
+33, Giovanni Pasquale, D, 6'00", 11 05, 05-01-82, Venaria, Internazionale
+34, Alessandro Bernardini, M, , , 21-01-87, , None
+35, Daniele Paponi, F, 5'10", 10 06, 16-04-88, Ancona, None
+36, Marco Delvecchio, F, 6'01", 13 01, 07-04-73, Milan, Brescia
+37, Carmine Biagio Gatti, G, , , 17-02-89, , None
+38, Filippo Mattiuzzo, D, , , 07-03-87, , None
+99, Matteo Guardalben, G, 6'02", 13 05, 05-06-74, Nogara, Palermo
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Gaetano Grieco, F, 5'09", 10 12, 07-11-82, Naples, Napoli
+24, Sebastiano Siviglia, D, 6'00", 11 00, 29-03-73, Palizzi Marina, Lazio
+8, Alessandro Rosina, F, 5'09", 10 12, 31-01-84, Belvedere Marittimo, Torino
+22, Cristiano Lupatelli, G, 6'02", 13 10, 21-06-78, Perugia, Fiorentina
+18, Zlatko Dedic, F, 6'00", 12 01, 05-10-84, Bihac, Cremonese (On Loan)
+, Marcello Gazzola, F, , , 03-04-85, Borgotaro, Venezia (On Loan)
+, Alessandro Cornali, D, , , 23-01-85, Parma, Forlì (On Loan)
+, Vincenzo Pepe, M, 5'09", 10 03, 04-04-87, Naples, Pescara (On Loan)

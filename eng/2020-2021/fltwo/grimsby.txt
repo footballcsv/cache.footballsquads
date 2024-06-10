@@ -1,0 +1,58 @@
+=  Grimsby Town - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, James McKeown, IRL, G, 1.87, 89, 24-07-89, Birmingham, Peterborough U
+2, Luke Hendrie, ENG, D, 1.87, 64, 27-08-94, Leeds, Shrewsbury T
+3, Joe Bunney, ENG, D, 1.85, 70, 26-09-93, Manchester, Hartlepool U
+4, Danny Rose, ENG, M, 1.70, 64, 21-02-88, Bristol, Swindon T
+6, Luke Waterfall, ENG, D, 1.88, 84, 30-07-90, Sheffield, Shrewsbury T
+7, Matt Green, ENG, F, 1.73, 66, 02-01-87, Bath, Salford C
+8, Giles Coke, ENG, M, 1.83, 75, 03-06-86, Westminster, Hereford
+9, James Hanson, ENG, F, 1.93, 78, 09-11-87, Bradford, AFC Wimbledon
+10, George Williams, WAL, F, 1.72, 73, 07-09-95, Milton Keynes, Forest Green R
+11, Sean Scannell, IRL, M, 1.75, 73, 19-09-90, Croydon, Blackpool
+12, Montel Gibson, ENG, F, 1.78, 75, 15-12-97, Birmingham, Halesowen T
+13, Ollie Battersby, ENG, G, 1.90, 76, 23-07-01, Grimsby, Sheffield U
+14, Luke Spokes, ENG, M, -, -, 06-08-00, Bristol, Taunton T
+15, Harry Clifton, WAL, M, 1.80, 88, 12-06-98, Grimsby, None
+16, Ira Jackson Jr, ENG, F, -, -, 28-01-97, Ashford, Folkestone Invicta
+17, Alhagi Touray Sisay, ESP, F, 1.93, 80, 31-12-99, Barcelona, Aberystwyth T
+18, Filipe Morais, POR, M, 1.75, 73, 21-11-85, Lisbon, Crawley T
+19, Max Wright, ENG, M, 1.73, 61, 06-04-98, Grimsby, None
+20, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Fleetwood T
+21, Lenell John-Lewis, ENG, F, 1.78, 85, 17-05-89, Hammersmith, Hereford
+22, Elliott Hewitt, WAL, D, 1.80, 75, 30-05-94, Bodelwyddan, Notts Co
+23, Sam Russell, ENG, G, 1.83, 69, 04-10-82, Middlesbrough, Forest Green R
+24, Jock Curran, ENG, M, -, -, 29-01-01, Pontefract, None
+25, Mattie Pollock, ENG, D, 1.90, 80, 28-09-01, Redhill, Leeds U
+26, Rollin Menayese, WAL, D, 1.90, 80, 04-12-97, Cwmbran, Mansfield T
+27, Harvey Tomlinson, ENG, F, -, -, -, -, None
+29, Joe Starbuck, ENG, M, -, -, 03-08-02, -, None
+30, Cameron Painter, ENG, M, -, -, 22-02-02, Hartlepool, None
+31, Evan Khouri, ENG, M, -, -, 21-01-03, -, West Ham U
+32, Duncan Idehen, ENG, D, 1.87, 77, 03-07-02, Hackney, Lincoln C
+33, Luis Adlard, ENG, F, -, -, 13-10-02, -, None
+34, Louis Boyd, ENG, F, -, -, -, -, None
+35, Ben Grist, ENG, D, -, -, 15-10-04, Lincoln, None
+36, Samuel Habergham, ENG, D, 1.83, 73, 20-02-92, Rotherham, Lincoln C
+37, Kyle Bennett, ENG, M, 1.65, 61, 09-09-90, Telford, Bristol R
+38, Idris El Mizouni, TUN, M, 1.85, 74, 26-09-00, Paris, Ipswich T
+39, Ben Davies, ENG, D, 1.70, 67, 27-05-81, Birmingham, Cleethorpes T
+40, Stefan Payne, ENG, F, 1.78, 74, 10-08-91, Lambeth, Tranmere R
+42, Julien Lamy, FRA, F, 1.85, 78, 06-11-99, Paris, Rotherham U
+44, Jake Eastwood, ENG, G, 1.90, 70, 03-10-96, Sheffield, Sheffield U
+45, Joe Adams, WAL, M, 1.76, 62, 13-02-01, Bolton, Brentford
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Ludvig Öhman, SWE, D, 1.89, 80, 09-10-91, Umeå, 
+18, Bilel Mohsni, TUN, D, 1.90, 75, 21-07-87, Paris, Barnet
+20, Owura Edwards, ENG, M, 1.73, 68, 10-04-01, Bristol, Bristol C
+36, James Morton, ENG, M, 1.78, 77, 22-04-99, Bristol, Bristol C
+8, Owen Windsor, ENG, F, 1.78, 70, 17-09-01, Swindon, WBA
+38, Virgil Gomis, FRA, F, 1.90, 77, 16-04-99, Limay, Nottingham F
+26, Terry Taylor, WAL, M, 1.83, 71, 29-06-01, Aberdeen, Wolverhampton W
+21, James Tilley, ENG, F, 1.68, 59, 13-06-98, Billingshurst, Crawley T
+3, Danny Preston, ENG, D, -, -, 06-08-00, -, Nottingham F
+28, Joey Hope, ENG, D, -, -, 28-06-02, -, 

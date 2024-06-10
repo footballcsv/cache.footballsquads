@@ -1,0 +1,46 @@
+=  Almería - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Sevilla
+2, José Isidoro, ESP, D, 1.80, 70, 01-08-86, Pedrera, Elche
+3, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Nàstic
+4, Ximo, ESP, D, 1.76, 70, 23-01-90, Palma de Mallorca, Mallorca
+5, Borja Fernández, ESP, M, 1.88, 83, 14-01-81, Orense, Atlético de Kolkata
+6, Pape Maly Diamanka, SEN, M, 1.84, 76, 10-01-90, Dakar, Zaragoza
+7, Marco Motta, ITA, D, 1.86, 75, 14-05-86, Merate, Charlton Ath
+8, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Almería B
+9, Quique, ESP, F, 1.75, 67, 16-05-90, Valladolid, Guadalajara [ESP]
+10, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Manchester C
+11, Javi Álamo, ESP, M, 1.90, 81, 18-08-88, Galdar, Osasuna
+12, Henrique Sereno, POR, D, 1.88, 78, 18-05-85, Elvas, Atlético de Kolkata
+13, Casto, ESP, G, 1.80, 82, 18-06-82, Badajoz, Las Palmas
+14, Ángel Trujillo, ESP, D, 1.79, 79, 08-09-87, Madrid, Levante
+15, Miguel Angel Corona, ESP, M, 1.75, 79, 12-02-81, Talavera, Brisbane Roar
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Córdoba
+17, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería B
+18, Juanjo, ESP, F, 1.85, 76, 28-10-85, Santander, Llagostera
+19, Jonathan Zongo, BFA, F, 1.83, 72, 02-12-92, Ouagadougou, Almería B
+20, Kalu Uche, NGA, F, 1.79, 71, 15-11-82, Aba, Pune C
+21, Nano, ESP, D, 1.82, 73, 27-10-84, Málaga, Panathinaikos
+23, Jorge Morcillo, ESP, D, 1.85, 78, 11-03-86, Valencia, Rayo Vallecano
+24, Joaquín, ESP, M, 1.90, 66, 31-05-96, Huercal de Almería, Almería B
+25, Abdoul Karim Yoda, FRA, M, 1.82, 73, 25-10-88, Annemasse, Getafe
+31, Gaspar, ESP, M, 1.70, 60, 09-12-97, Tarazona de la Mancha, Almería B
+35, Javi, ESP, D, 1.82, 74, 22-10-95, Almería, Almería B
+36, Carlos Garrido, ESP, D, 1.78, 75, 02-04-94, Alcalá la Real, Sporting Gijón B
+40, Jesús Sillero, ESP, F, , , 28-12-95, Seville, Almería B
+42, Albert Batalla, ESP, G, 1.86, 72, 04-06-98, Balaguer, Almería B
+46, Antonio Navas, ESP, D, 1.63, 56, 13-02-95, El Ejido, Recreativo Huelva B
+49, Fran Callejón, ESP, M, 1.82, 68, 15-05-98, Almería, Almería B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Sebastián Dubarbier, ARG, D, 1.79, 74, 19-02-86, La Plata, Estudiantes (LP)
+5, Álex Quintanilla, ESP, D, 1.84, 78, 02-07-90, Bilbao, Mirandés
+28, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Murcia (On Loan)
+22, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Albacete (On Loan)
+7, Iago Díaz, ESP, M, 1.82, 72, 10-05-93, Barcelona, Cultural Leonesa (On Loan)
+12, Chuli, ESP, F, 1.71, 67, 25-01-91, Huelva, Getafe (On Loan)
+20, José Ángel, ESP, M, 1.82, 74, 21-06-92, Seville, Bodø/Glimt
+26, Joaquín, ESP, M, 1.90, 66, 31-05-96, Huercal de Almería, Re-Registered (24)

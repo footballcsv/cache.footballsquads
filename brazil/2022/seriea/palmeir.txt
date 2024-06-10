@@ -1,0 +1,47 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vinícius Silvestre, BRA, G, 1.95, 90, 28-03-94, Guarulhos, None
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, Atlético Mineiro
+4, Benjamín Kuščević, CHI, D, 1.85, 80, 02-05-96, Santiago, Universidad Católica
+6, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Monaco
+7, Dudu, BRA, F, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+8, Zé Rafael, BRA, M, 1.75, 71, 16-06-93, Ponta Grossa, Bahia
+9, Miguel Merentiel, URU, F, 1.76, 70, 24-02-96, Paysandú, Defensa y Justicia
+10, Rony, BRA, F, 1.70, 65, 11-05-95, Magalhães Barata, Athletico Paranaense
+11, Wesley, BRA, F, 1.75, 64, 30-03-99, Salvador, None
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Fluminense
+15, Gustavo Gómez, PAR, D, 1.86, 85, 06-06-93, Misiones, Milan
+16, Endrick, BRA, F, 1.73, 80, 21-07-06, Brasília, None
+17, Giovani, BRA, F, 1.83, 68, 01-01-04, Itaquaquecetuba, None
+18, José Manuel López, ARG, F, 1.90, 74, 06-12-00, San Lorenzo, Lanús
+19, Breno Lopes, BRA, F, 1.78, 71, 24-01-96, Belo Horizonte, Juventude
+20, Eduard Atuesta, COL, M, 1.80, 71, 18-06-97, Vélez, Los Angeles FC
+21, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Atlético Paranaense
+22, Joaquín Piquerez, URU, D, 1.83, 75, 24-08-98, Montevideo, Peñarol
+23, Raphael Veiga, BRA, M, 1.76, 73, 19-06-95, São Paulo, Coritiba
+25, Gabriel Menino, BRA, M, 1.76, 78, 29-09-00, Morungaba, None
+26, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Lokomotiv Moscow
+27, Bruno Tabata, BRA, M, 1.75, 72, 30-03-97, Ipatinga, Sporting CP
+28, Danilo, BRA, M, 1.77, 65, 29-04-01, Salvador, None
+29, Rafael Navarro, BRA, F, 1.83, 80, 14-04-00, Cabo Frio, Botafogo
+30, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, Dalian Pro
+31, Kaique, BRA, G, 1.90, 87, 16-04-03, São Paulo, None
+32, Gustavo Garcia, BRA, D, 1.75, 68, 04-01-02, São Paulo, None
+34, Lucas Freitas, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, Valladolid B
+35, Fabinho, BRA, M, 1.78, 75, 09-04-02, Natal, None
+36, Vanderlan, BRA, D, 1.83, 74, 07-09-02, Brumado, None
+40, Jhon Jhon, BRA, M, 1.77, 73, 09-09-02, Vitória, Primavera
+42, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Internacional
+45, Kaiky Naves, BRA, D, 1.80, 78, 08-05-02, Santos, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Pedro Bicalho, BRA, M, 1.78, 73, 23-04-01, São José dos Campos, Santa Clara (On Loan)
+49, Gabriel Silva, BRA, F, 1.77, 78, 22-03-02, Ribeirão Preto, Santa Clara (On Loan)
+27, Gabriel Veron, BRA, F, 1.74, 75, 03-09-02, Assu, FC Porto
+16, Deyverson, BRA, F, 1.89, 82, 08-05-91, Santa Margarida, Cuiabá
+34, Lucas Freitas, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, Moreirense (On Loan)

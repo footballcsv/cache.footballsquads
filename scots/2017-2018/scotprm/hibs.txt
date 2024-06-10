@@ -1,0 +1,43 @@
+=  Hibernian - Scottish Premiership 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ofir Marciano, ISR, G, 1.93, 87, 07-10-89, Ashdod, Ashdod
+2, David Gray, SCO, D, 1.80, 71, 04-05-88, Edinburgh, Burton Alb
+3, Steven Whittaker, SCO, D, 1.85, 87, 16-06-84, Edinburgh, Norwich C
+4, Paul Hanlon, SCO, D, 1.80, 64, 20-01-90, Edinburgh, None
+6, Marvin Bartley, ENG, M, 1.80, 79, 01-07-89, Reading, Leyton Orient
+7, John McGinn, SCO, M, 1.75, 68, 18-10-94, Glasgow, St Mirren
+8, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Juventus
+10, Dylan McGeouch, SCO, M, 1.78, 69, 15-01-93, Glasgow, Celtic
+11, Danny Swanson, SCO, M, 1.68, 59, 28-12-86, Edinburgh, St Johnstone
+14, Faycal Rherras, MAR, D, 1.80, 77, 07-04-93, Liège, Mechelen
+16, Lewis Stevenson, SCO, D, 1.70, 67, 05-01-88, Kirkcaldy, None
+17, Martin Boyle, SCO, F, 1.78, 53, 25-04-93, Aberdeen, Dundee
+19, Jamie Maclaren, AUS, F, 1.77, 73, 29-07-93, Melbourne, Darmstadt
+20, Brandon Barker, ENG, M, 1.75, 68, 04-10-96, Manchester, Manchester C
+21, Ross Laidlaw, SCO, G, 1.91, 78, 12-07-92, Livingston, Raith R
+22, Florian Kamberi, SUI, F, 1.89, 84, 08-03-95, Zürich, Grasshoppers
+23, Scott Allan, SCO, M, 1.75, 70, 28-11-91, Glasgow, Celtic
+24, Darren McGregor, SCO, D, 1.83, 87, 07-08-85, Edinburgh, Rangers
+25, Efe Ambrose, NGA, D, 1.90, 70, 18-10-88, Kaduna, Celtic
+31, Cameron Bell, SCO, G, 1.80, 78, 18-09-86, Dumfries, Kilmarnock
+32, Oli Shaw, SCO, F, 1.88, 72, 12-03-98, Edinburgh, None
+33, Fraser Murray, SCO, M, 1.73, 68, 07-05-99, Glasgow, None
+36, Ryan Porteous, SCO, D, 1.85, 68, 01-03-99, Dalkeith, None
+41, Maciej Dąbrowski, POL, G, 1.95, 81, 09-06-98, Poznań, Lech Poznań
+43, Sean Mackie, SCO, D, 1.78, 75, 04-11-98, Edinburgh, Raith R
+45, Ben Stirling, SCO, D, 1.83, 70, 16-08-98, Edinburgh, None
+53, Lewis Allan, SCO, F, 1.88, 70, 25-10-97, Melrose, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Danny Handling, SCO, F, 1.80, 74, 06-02-94, Edinburgh, Dumbarton
+30, Callum Crane, SCO, D, , , 08-03-96, Edinburgh, Alloa Ath (On Loan)
+29, Brian Graham, SCO, F, 1.88, 70, 23-11-87, Glasgow, Cheltenham T
+26, Scott Martin, SCO, M, 1.70, 67, 01-04-97, Glasgow, Arbroath (On Loan)
+5, Liam Fontaine, ENG, D, 1.80, 74, 07-01-86, Beckenham, Ross Co
+9, Deividas Matulevičius, LTU, F, 1.90, 83, 08-04-89, Alytus, 
+15, Simon Murray, SCO, F, 1.75, 70, 15-03-92, Dundee, Dundee (On Loan)
+28, Anthony Stokes, IRL, F, 1.80, 73, 25-07-88, Dublin, Apollon Smyrnis
+31, Scott Bain, SCO, G, 1.83, 70, 22-11-91, Edinburgh, Dundee

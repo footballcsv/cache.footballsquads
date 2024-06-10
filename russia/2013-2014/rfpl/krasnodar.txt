@@ -1,0 +1,40 @@
+=  FC Krasnodar - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Nikolay Markov, RUS, D, 1.78, 74, 20-04-85, Tashkent, Salyut-Energia
+3, Dušan Andjelković, SRB, D, 1.74, 67, 15-06-82, Kraljevo, FC Rostov
+4, Alyaksandr Martynovich, BLR, D, 1.92, 85, 26-08-87, Minsk, Dinamo Minsk
+5, Artur Jędrzejczyk, POL, D, 1.89, 78, 04-11-87, Dębica, Legia Warszawa
+6, Andreas Granqvist, SWE, D, 1.92, 84, 16-04-85, Helsingborg, Genoa
+7, Pavel Mamaev, RUS, M, 1.78, 70, 17-09-88, Moscow, CSKA Moscow
+8, Yuriy Gazinskiy, RUS, M, 1.84, 75, 20-07-89, Komsomolsk-on-Amur, Torpedo Moscow
+9, Ari, BRA, F, 1.82, 87, 11-12-85, Fortaleza, Spartak Moscow
+14, Wanderson do Carmo, BRA, M, 1.80, 75, 18-02-86, Baturité, GAIS
+15, Roman Shirokov, RUS, M, 1.83, 74, 06-07-81, Dedovsk, Zenit St Petersburg
+16, Aleksey Pomerko, RUS, M, 1.82, 69, 03-05-90, Gorodovikovsk, Shinnik
+17, Vitaliy Kaleshin, RUS, D, 1.73, 67, 03-10-80, Krasnodar, Rubin Kazan
+19, Isael, BRA, M, 1.71, 71, 13-05-88, São Paulo, Coritiba
+21, Ricardo Laborde, COL, M, 1.73, 67, 16-02-88, Cartagena, Anorthosis Famagusta
+22, Joãozinho, BRA, M, 1.62, 57, 25-12-88, Ubatuba, Levski Sofia
+23, Aleksandr Filtsov, RUS, G, 1.97, 85, 02-01-90, Shimanovsk, Lokomotiv Moscow
+25, Evgeniy Shipitsin, RUS, M, 1.75, 68, 16-01-85, Perm, Salyut-Energia
+26, Márcio Abreu, POR, F, 1.70, 67, 25-04-80, Funchal, Chernomorets Burgas
+27, Ragnar Sigurðsson, ISL, D, 1.87, 90, 19-06-86, Reykjavík, FC København
+29, Gerard Gohou, CIV, F, 1.84, 78, 29-12-88, Gagnoa, Erciyesspor
+33, Mauricio Pereyra, URU, M, 1.77, 75, 15-03-90, Montevideo, Lanús
+48, Aleksandr Marchenko, RUS, D, 1.86, 62, 03-02-96, Krasnodar, Krasnodar-2
+55, Nemanja Tubić, SRB, D, 1.89, 82, 08-04-84, Belgrade, Karpaty Lviv
+63, Nikolay Komlichenko, RUS, F, 1.91, 87, 29-06-95, Plastunovskaya, Krasnodar-2
+64, Oleg Lanin, RUS, D, 1.80, 70, 22-01-96, Ladozhskaya, Krasnodar-2
+88, Andrey Sinitsyn, RUS, G, 1.96, 86, 23-06-88, Krasnokamensk, Yenisey Krasnoyarsk
+98, Sergey Petrov, RUS, M, 1.80, 72, 02-01-91, St. Petersburg, Krylia Sovetov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Igor Smolnikov, RUS, M, 1.78, 70, 08-08-88, Moscow, Zenit St Petersburg
+18, Nikola Drinčić, SRB, M, 1.81, 76, 07-01-84, Belgrade, Partizan Belgrade
+77, Vladimir Koman, HUN, M, 1.73, 63, 16-03-89, Uzhhorod, FC Ural (On Loan)
+15, Ruslan Nakhushev, RUS, D, 1.85, 79, 05-09-84, Nalchik, Mordovia Saransk
+10, Marcos Pizzelli, ARM, F, 1.78, 72, 03-10-84, Piracicaba, Aktobe (On Loan)
+87, Ruslan Bolov, RUS, F, 1.78, 71, 07-05-94, Nalchik, Spartak Nalchik (On Loan)

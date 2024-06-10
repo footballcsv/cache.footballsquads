@@ -1,0 +1,61 @@
+=  Atlético Madrid - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Diego Godín, URU, D, 1.87, 79, 16-02-86, Rosario, Villarreal
+3, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Chelsea
+5, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Atlético Madrid B
+6, Koke, ESP, M, 1.77, 73, 08-01-92, Madrid, Atlético Madrid B
+7, Antoine Griezmann, FRA, F, 1.75, 71, 21-03-91, Mâcon, Real Sociedad
+8, Saúl Ñiguez, ESP, M, 1.84, 76, 21-11-94, Elche, Atlético Madrid B
+9, Fernando Torres, ESP, F, 1.86, 79, 20-03-84, Madrid, Milan
+11, Ángel Correa, ARG, F, 1.72, 67, 09-03-95, Rosario, San Lorenzo
+13, Jan Oblak, SVN, G, 1.89, 84, 07-01-93, Škofja Loka, Benfica
+14, Gabi, ESP, M, 1.81, 74, 10-07-83, Madrid, Zaragoza
+15, Stefan Savić, MNE, D, 1.87, 80, 08-01-91, Mojkovac, Fiorentina
+16, Šime Vrsaljko, CRO, D, 1.81, 76, 10-01-92, Zadar, Sassuolo
+18, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Chelsea
+19, Lucas Hernández, FRA, D, 1.84, 76, 14-02-96, Marseille, Atlético Madrid B
+20, Juanfran, ESP, D, 1.80, 71, 09-01-85, Crevillent, Osasuna
+21, Kevin Gameiro, FRA, F, 1.72, 70, 09-05-87, Senlis, Sevilla
+23, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Sevilla
+24, José Giménez, URU, D, 1.85, 77, 20-01-95, Toledo, Danubio
+25, Axel Werner, ARG, G, 1.92, 85, 28-02-96, Rafaela, Atlético Rafaela
+26, Juan Moreno, ESP, M, 1.75, 69, 11-05-97, Móstoles, Atlético Madrid B
+27, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Atlético Madrid B
+28, Ferni, ESP, M, 1.80, 72, 07-04-98, Talavera de la Reina, Atlético Madrid B
+29, Sergi, ESP, D, 1.76, 70, 26-05-95, Los Molinos, Atlético Madrid B
+30, Roberto Olabe, ESP, M, 1.78, 70, 05-05-96, Salamanca, Villarreal C
+32, Tachi, ESP, D, 1.85, 72, 10-09-97, Fuenlabrada, Atlético Madrid B
+33, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+34, Salomón Obama, ESP, F, 1.70, 70, 04-02-00, Malabo, Atlético Madrid B
+36, Carlos Marín, ESP, G, 1.87, 79, 20-02-97, Almería, Atlético Madrid B
+37, Arona Sané, SEN, F, 1.73, 61, 21-06-95, Sindian, Atlético Madrid B
+40, Alberto Rentero, ESP, M, , , 24-03-97, Madrid, Atlético Madrid B
+42, Alberto Ródenas, ESP, F, , , 26-09-98, Petrer, Atlético Madrid B
+45, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Atlético Madrid B
+46, Antonio Montoro, ESP, D, 1.82, 75, 10-05-97, Getafe, Atlético Madrid B
+49, Óscar Clemente, ESP, M, 1.75, 67, 26-03-99, Santa Cruz de Tenerife, Atlético Madrid B
+51, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Atlético Madrid B
+52, Diego Conde, ESP, G, 1.88, 85, 20-10-98, Madrid, Atlético Madrid B
+53, Alex Dos Santos, ESP, G, 1.85, 79, 15-01-99, Xinguara, Atlético Madrid B
+54, Juan Agüero, ARG, M, , , 27-05-99, Mendoza, Atlético Madrid B
+56, Joaquín Muñoz, ESP, F, 1.73, 60, 10-03-99, Málaga, Atlético Madrid B
+57, Giovanni Navarro, ESP, F, , , 24-06-99, Las Palmas, Atlético Madrid B
+58, Francisco Montero, ESP, D, 1.80, 75, 14-01-99, Seville, Atlético Madrid B
+59, Alberto Salido, ESP, F, , , 19-01-00, Palma de Mallorca, Atlético Madrid B
+60, Andy Escudero, ESP, M, , , 10-07-99, Alicante, Atlético Madrid B
+63, Mikel Carro, ESP, M, 1.88, 79, 25-01-99, Madrid, Atlético Madrid B
+64, Fernando Gastañaga, ESP, D, , , 26-03-00, Madrid, Atlético Madrid B
+65, Rodrigo Riquelme, ESP, F, 1.74, 69, 02-04-00, Madrid, Atlético Madrid B
+68, Edu Viaña, ESP, D, 1.74, 66, 24-02-00, Madrid, Atlético Madrid B
+70, Rafa Muñoz, ESP, D, 1.80, 75, 19-06-94, Málaga, Atlético Madrid B
+71, Silvano Nater, POR, F, , , 27-02-00, Bissau, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Luciano Vietto, ARG, F, 1.73, 69, 05-12-93, Balnearia, Valencia (On Loan)
+12, Augusto Fernández, ARG, M, 1.77, 73, 10-04-86, Pergamino, Beijing Renhe
+10, Yannick Ferreira Carrasco, BEL, M, 1.81, 73, 04-09-93, Elsene, Dalian Yifang
+22, Nicolás Gaitán, ARG, M, 1.73, 66, 23-02-88, San Martín, Dalian Yifang
+1, Miguel Ángel Moyá, ESP, G, 1.88, 83, 02-04-84, Binissalem, Real Sociedad

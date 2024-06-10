@@ -1,0 +1,21 @@
+# Japanese J1 League 2016
+
+18 teams
+- [Albirex Niigata](albirex.txt)
+- [Avispa Fukuoka](avispa.txt)
+- [Gamba Osaka](gamba.txt)
+- [Júbilo Iwata](jubilo.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kashiwa Reysol](kashiwa.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Nagoya Grampus](nagoya.txt)
+- [Omiya Ardija](omiya.txt)
+- [Sagan Tosu](sagan.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shonan Bellmare](shonan.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Vegalta Sendai](vegalta.txt)
+- [Ventforet Kofu](ventfor.txt)
+- [Vissel Kobe](vissel.txt)
+- [Yokohama F Marinos](yokohama.txt)

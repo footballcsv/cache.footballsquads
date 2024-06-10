@@ -1,0 +1,47 @@
+=  Frosinone - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Paolo Ghiglione, ITA, M, 1.87, 80, 02-02-97, Voghera, Genoa
+3, Cristian Molinaro, ITA, D, 1.82, 82, 30-07-83, Vallo della Lucania, Torino
+4, Stefan Šimić, CZE, D, 1.89, 79, 20-01-95, Prague, Milan
+5, Mirko Gori, ITA, M, 1.77, 76, 04-02-93, Frosinone, None
+6, Edoardo Goldaniga, ITA, D, 1.88, 82, 02-11-93, Milan, Sassuolo
+7, Luca Paganini, ITA, F, 1.77, 70, 08-06-93, Rome, None
+8, Raffaele Maiello, ITA, M, 1.77, 73, 10-07-91, Acerra, Napoli
+9, Daniel Ciofani, ITA, F, 1.90, 82, 31-07-85, Avezzano, Parma
+12, Pier Paolo Salvati, ITA, G, 1.88, 72, 26-02-02, Frosinone, None
+14, Andrea Errico, ITA, F, 1.78, 70, 01-01-99, Rome, Savio
+15, Lorenzo Ariaudo, ITA, D, 1.86, 79, 11-06-89, Turin, Sassuolo
+16, Luca Valzania, ITA, M, 1.84, 77, 05-03-96, Cesena, Atalanta
+17, Francesco Zampano, ITA, D, 1.78, 68, 30-09-93, Genoa, Pescara
+18, Federico Dionisi, ITA, F, 1.79, 68, 16-06-87, Rieti, Livorno
+20, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Sassuolo
+21, Paolo Sammarco, ITA, M, 1.83, 75, 17-03-83, Como, Spezia
+22, Francesco Bardi, ITA, G, 1.88, 80, 18-01-92, Livorno, Internazionale
+23, Nicolò Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Vicenza
+24, Francesco Cassata, ITA, M, 1.83, 75, 16-07-97, Sarzana, Sassuolo
+25, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Cagliari
+27, Bartosz Salamon, POL, D, 1.94, 78, 01-05-91, Poznań, SPAL
+28, Camillo Ciano, ITA, F, 1.77, 74, 22-02-90, Marcianise, Cesena
+32, Luka Krajnc, SVN, D, 1.88, 86, 19-09-94, Ptuj, Cagliari
+33, Andrea Beghetto, ITA, M, 1.82, 73, 11-10-94, Perugia, Genoa
+34, Francesco Verde, ITA, M, 1.87, 75, 18-03-00, Sant'Antimo, Real Casarea
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Atalanta
+66, Raman Chibsah, GHA, M, 1.78, 78, 10-03-93, Accra, Benevento
+75, Giuseppe Marcianò, ITA, G, 1.90, 76, 27-05-00, Rome, None
+89, Andrea Pinamonti, ITA, F, 1.86, 72, 19-05-99, Cles, Internazionale
+91, Alessandro Iacobucci, ITA, G, 1.87, 82, 03-06-91, Pescara, Virtus Entella
+92, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, SPAL
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Danilo Soddimo, ITA, F, 1.80, 70, 27-09-87, Rome, Cremonese
+20, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Udinese
+99, Joaquín Ardaiz, URU, F, 1.83, 81, 11-01-99, Salto, Chiasso
+4, Rai Vloet, NED, M, 1.87, 76, 08-05-95, Schijndel, Sint-Truiden
+88, Lorenzo Crisetig, ITA, M, 1.84, 88, 20-01-93, Cividale del Friuli, Bologna
+31, Emmanuel Besea, GHA, M, 1.80, 75, 15-04-97, Wenchi, Venezia (On Loan)
+11, Stipe Perica, CRO, F, 1.92, 76, 07-07-95, Zadar, Udinese
+29, Joel Campbell, CRC, F, 1.78, 71, 26-06-92, San José [CRC], León (On Loan)
+19, Luca Matarese, ITA, F, 1.75, 70, 16-04-98, Scafati, Foggia (On Loan)

@@ -1,0 +1,49 @@
+=  Sampdoria - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Chievo Verona
+2, Emiliano Viviano, ITA, G, 1.95, 88, 01-12-85, Fiesole, Palermo
+3, Djamel Mesbah, ALG, D, 1.79, 72, 09-10-84, Zighoud Youcef, Parma
+4, Niklas Moisander, FIN, D, 1.83, 77, 29-09-85, Turku, Ajax
+5, Mattia Cassani, ITA, D, 1.84, 75, 26-08-83, Borgomanero, Parma
+7, Fernando, BRA, M, 1.75, 80, 03-03-92, Erechim, Shakhtar Donetsk
+8, Edgar Barreto, PAR, M, 1.82, 77, 15-07-84, Asunción, Palermo
+9, Alejandro Rodríguez, ESP, F, 1.80, 79, 30-07-91, Barcelona, Cesena
+10, Joaquín Correa, ARG, M, 1.88, 76, 13-08-94, Juan Bautista Alberdi, Estudiantes (LP)
+11, Dodô, BRA, D, 1.77, 69, 06-02-92, Campinas, Roma
+13, Pedro Pereira, POR, D, 1.74, 70, 22-01-98, Lisbon, Benfica
+16, Andrea Ranocchia, ITA, D, 1.95, 80, 16-02-88, Assisi, Internazionale
+17, Angelo Palombo, ITA, M, 1.77, 77, 25-09-81, Ferentino, Fiorentina
+18, Lazaros Christodoulopoulos, GRE, M, 1.83, 77, 19-12-86, Thessaloniki, Verona
+20, Nenad Krstičić, SRB, M, 1.82, 75, 03-07-90, Belgrade, OFK Belgrade
+21, Roberto Soriano, ITA, M, 1.81, 76, 08-02-91, Darmstadt, Bayern Munich
+22, Jacopo Sala, ITA, M, 1.83, 75, 05-12-91, Bergamo, Verona
+23, Modibo Diakité, FRA, D, 1.92, 88, 02-03-87, Bourg-la-Reine, Frosinone
+24, Luis Muriel, COL, F, 1.78, 79, 16-04-91, Santo Tomás, Udinese
+25, Ricardo Álvarez, ARG, M, 1.88, 84, 12-04-88, Capital Federal, Internazionale
+26, Matías Silvestre, ARG, D, 1.84, 78, 25-09-84, Capital Federal, Internazionale
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Torino
+28, Giacomo Calò, ITA, M, 1.80, 74, 05-02-97, Trieste, None
+29, Lorenzo De Silvestri, ITA, D, 1.85, 78, 23-05-88, Rome, Fiorentina
+37, Milan Škriniar, SVK, D, 1.87, 80, 11-02-95, Žiar nad Hronom, MŠK Žilina
+57, Alberto Brignoli, ITA, G, 1.87, 74, 19-08-91, Trescore Balneario, Juventus
+77, Carlos Carbonero, COL, M, 1.79, 73, 25-07-90, Bogotá, Fénix
+95, Dávid Ivan, SVK, M, 1.73, 68, 26-02-95, Bratislava, Nitra
+96, Samuele Massolo, ITA, G, 1.85, 76, 05-04-96, La Spezia, None
+97, Leonardo Serinelli, ITA, M, 1.75, 70, 13-05-97, Genoa, None
+99, Antonio Cassano, ITA, F, 1.75, 80, 12-07-82, Bari, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Bartosz Salamon, POL, D, 1.93, 79, 01-05-91, Poznań, Cagliari
+22, Paweł Wszołek, POL, M, 1.86, 77, 30-04-92, Tczew, Verona (On Loan)
+32, Marco Marchionni, ITA, M, 1.75, 66, 22-07-80, Monterotondo, Latina
+27, Karlo Lulić, CRO, M, 1.86, 77, 10-05-96, Nova Gradiška, Bohemians 1905 (On Loan)
+80, Edoardo Oneto, ITA, F, 1.82, 71, 23-02-96, Lavagna, Oviedo
+11, Federico Bonazzoli, ITA, F, 1.84, 79, 21-05-97, Manerbio, Virtus Lanciano (On Loan)
+23, Éder, ITA, F, 1.79, 73, 15-11-86, Lauro Muller, Internazionale (On Loan)
+87, Ervin Zukanović, BIH, D, 1.90, 85, 11-02-87, Sarajevo, Roma (On Loan)
+6, Andrea Coda, ITA, D, 1.90, 86, 25-04-85, Massa, Pescara (On Loan)
+19, Vasco Regini, ITA, D, 1.83, 75, 09-09-90, Cesena, Napoli (On Loan)
+92, Michele Rocca, ITA, M, 1.77, 68, 06-02-96, Milan, Virtus Lanciano (On Loan)

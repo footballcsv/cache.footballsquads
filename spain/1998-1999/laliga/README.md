@@ -1,0 +1,23 @@
+# Spanish La Liga 1998/99
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Celta Vigo](celta.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Extremadura](extrema.txt)
+- [Mallorca](mallorca.txt)
+- [Oviedo](oviedo.txt)
+- [Racing Santander](racing.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Salamanca](salamanca.txt)
+- [Tenerife](tenerife.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)
+- [Zaragoza](zaragoza.txt)

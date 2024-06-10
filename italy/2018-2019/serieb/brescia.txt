@@ -1,0 +1,44 @@
+=  Brescia - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Alfonso, ITA, G, 1.91, 85, 04-05-88, Padua, Cittadella
+2, Stefano Sabelli, ITA, D, 1.78, 74, 13-01-93, Rome, Bari
+3, Aleš Matějů, CZE, D, 1.84, 79, 03-06-96, Příbram, Brighton & HA
+4, Sandro Tonali, ITA, M, 1.81, 79, 08-05-00, Lodi, None
+5, Daniele Gastaldello, ITA, D, 1.87, 77, 25-06-83, Camposampiero, Bologna
+6, Emanuele Ndoj, ALB, M, 1.78, 70, 20-11-96, Catania, Roma
+7, Nikolas Špalek, SVK, F, 1.70, 64, 12-02-97, Šaľa, MŠK Žilina
+8, Alessandro Martinelli, SUI, M, 1.82, 69, 30-05-93, Mendrisio, Sampdoria
+9, Alfredo Donnarumma, ITA, F, 1.79, 78, 30-11-90, Torre Annunziata, Empoli
+11, Ernesto Torregrossa, ITA, F, 1.84, 80, 28-06-92, Caltanissetta, Verona
+12, Paolo Bastianello, ITA, G, 1.91, 81, 14-02-98, Vicenza, Avellino
+14, Jacopo Dall'Oglio, ITA, M, 1.83, 77, 02-04-92, Milazzo, Reggina
+15, Andrea Cistana, ITA, M, 1.87, 78, 01-04-97, Brescia, None
+16, Felipe Curcio, BRA, D, 1.85, 80, 06-08-93, Jundiai, Fidelis Andria
+17, Luca Firetto, ITA, D, , , 06-08-01, Brescia, None
+18, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Empoli
+19, Edoardo Lancini, ITA, D, 1.85, 80, 10-04-94, Chiari, Lumezzane
+20, Alejandro Rodríguez, ESP, F, 1.80, 79, 30-07-91, Barcelona, Chievo Verona
+21, Matteo Cortesi, ITA, F, 1.77, 72, 21-10-97, Vaprio d'Adda, Como
+22, Lorenzo Andrenacci, ITA, G, 1.88, 78, 02-01-95, Fermo, Milan
+23, Leonardo Morosini, ITA, M, 1.75, 74, 13-10-95, Ponte San Pietro, Genoa
+24, Mattia Viviani, ITA, M, 1.83, 74, 04-09-00, Brescia, None
+25, Dimitri Bisoli, ITA, M, 1.80, 72, 25-03-94, Cagliari, Fidelis Andria
+26, Bruno Martella, ITA, D, 1.83, 78, 14-08-92, Atri, Crotone
+27, Daniele Dessena, ITA, M, 1.83, 75, 10-05-87, Parma, Cagliari
+29, Alessandro Semprini, ITA, D, 1.83, 75, 24-02-98, Brescia, None
+31, Luigi Carillo, ITA, D, 1.88, 84, 08-08-96, Naples, Genoa
+32, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Virtus Entella
+33, Raul Torregrossa, ITA, F, 1.85, 65, 30-03-00, Caltanissetta, Leganés
+34, Lorenzo Lucca, ITA, F, 1.96, 80, 10-09-00, Moncalieri, Torino
+35, Marco Carminati, ITA, D, 1.92, 85, 05-06-00, Bergamo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Ivan Rondanini, ITA, D, 1.83, 82, 10-04-95, Cuggiono, Cremonese
+28, Franco Ferrari, ITA, F, 1.92, 93, 10-08-95, Rosario, Genoa
+36, Alessandro Longhi, ITA, D, 1.81, 77, 25-06-89, Desenzano, Padova
+27, Mouhamed Belkheir, ALG, F, 1.85, 80, 02-01-99, Paris, Torino
+26, Luca Miracoli, ITA, F, 1.90, 89, 31-03-92, Genoa, Sicula Leonzio (On Loan)
+30, Alessandro Milesi, PER, D, , , 21-12-99, Lima, Sicula Leonzio (On Loan)

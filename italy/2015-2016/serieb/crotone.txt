@@ -1,0 +1,43 @@
+=  Crotone - Italian Serie B 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Parma
+2, Adrian Stoian, ROU, M, 1.78, 66, 11-02-91, Craiova, Chievo Verona
+3, Claiton dos Santos, BRA, D, 1.86, 79, 07-09-84, Santa Helena de Goiás, Chievo Verona
+5, Michele Cremonesi, ITA, D, 1.83, 78, 15-04-88, Cremona, Cremonese
+6, Guy Yao, CIV, D, 1.82, 76, 20-01-96, Akrroukro, Internazionale
+7, Federico Ricci, ITA, M, 1.75, 63, 27-05-94, Rome, Roma
+8, Mihai Bălaşa, ROU, D, 1.85, 77, 14-01-95, Târgoviște, Roma
+9, Nunzio Di Roberto, ITA, M, 1.77, 76, 21-09-85, Naples, Pro Vercelli
+10, Pietro De Giorgio, ITA, F, 1.78, 70, 16-02-83, Praia a Mare, Empoli
+11, Giuseppe Torromino, ITA, F, 1.76, 72, 21-06-88, Crotone, Treviso
+12, Luca Maniero, ITA, G, 1.87, 78, 12-06-95, Padua, Pordenone
+13, Gian Marco Ferrari, ITA, D, 1.89, 82, 15-05-92, Parma, Parma
+14, Raffaele Palladino, ITA, F, 1.82, 73, 17-04-84, Mugnano di Napoli, Parma
+15, Davide Leto, ITA, M, 1.71, 61, 04-11-94, Crotone, None
+16, Manuel Nicoletti, ITA, D, 1.80, 73, 09-12-98, Catanzaro, None
+17, Ante Budimir, BIH, F, 1.90, 75, 22-07-91, Zenica, St Pauli
+18, Andrea Barberis, ITA, M, 1.77, 73, 11-12-93, Genoa, Varese
+19, Matteo Paro, ITA, M, 1.79, 71, 17-03-83, Asti, Mantova
+20, Aniello Salzano, ITA, M, 1.81, 74, 20-07-91, Naples, San Miniato
+21, Iacopo Galli, ITA, M, 1.78, 74, 30-09-93, Carrara, Pontedera
+22, Marco Festa, ITA, G, 1.90, 85, 06-06-92, Montichiari, Mantova
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Padova
+24, Bruno Martella, ITA, D, 1.83, 78, 14-08-92, Atri, Sampdoria
+25, Alessandro Sabbione, ITA, M, 1.81, 69, 12-12-91, Genoa, Carpi
+26, Andrea Tripicchio, ITA, F, 1.78, 75, 10-01-96, Cosenza, None
+27, Giuseppe Zampano, ITA, D, 1.77, 70, 30-09-93, Genoa, Martina Franca
+28, Leonardo Capezzi, ITA, M, 1.77, 70, 28-03-95, Figline Valdarno, Fiorentina
+29, Nicolò Fazzi, ITA, M, 1.83, 74, 02-03-95, Borgo a Mozzano, Fiorentina
+30, Aniello Viscovo, ITA, G, 1.90, 84, 21-06-99, Massa di Somma, None
+31, Giuseppe Faiello, ITA, D, 1.74, 60, 21-01-97, Naples, None
+32, Juan Delgado, URU, F, 1.76, 73, 05-07-94, Montevideo, Fénix
+33, Michał Lewandowski, POL, G, 1.87, 75, 02-08-96, Mielec, Stal Mielec
+34, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Marco Firenze, ITA, F, 1.80, 70, 26-06-93, Genoa, Catanzaro (On Loan)
+9, Mamadou Tounkara, SEN, F, 1.86, 80, 19-01-96, Gabou, Lazio
+30, Luca Bruno, ITA, D, 1.84, 75, 24-08-96, Brescia, L'Aquila (On Loan)

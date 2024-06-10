@@ -1,0 +1,47 @@
+=  Ceará - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Prass, BRA, G, 1.91, 79, 09-07-78, Porto Alegre, Palmeiras
+3, Tiago Pagnussat, BRA, D, 1.91, 89, 17-06-90, São Jorge d'Oeste, Bahia
+4, Eduardo Brock, BRA, D, 1.85, 82, 06-05-91, Arroio do Meio, Goiás
+5, William Oliveira, BRA, M, 1.82, 80, 25-02-92, Paracambi, Madureira
+6, Bruno Pacheco, BRA, D, 1.74, 74, 08-12-91, Pitangueiras, Chapecoense
+7, Mateus Gonçalves, BRA, F, 1.72, 66, 28-09-94, Belo Horizonte, Pachuca
+8, Ricardinho, BRA, M, 1.75, 64, 15-12-85, Rosário do Sul, Al-Ettifaq
+10, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Sanfrecce Hiroshima
+11, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Três Rios, Udinese
+12, Diogo Silva, BRA, G, 1.92, 80, 08-07-86, Cuiabá, Luverdense
+13, Luiz Otávio, BRA, D, 1.90, 84, 14-09-88, Carmo, Angra dos Reis
+14, Alyson, BRA, D, 1.82, 79, 05-04-96, São Paulo, Oeste
+15, Gabriel Lacerda, BRA, D, 1.87, 74, 29-08-99, Caieiras, None
+19, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, Internacional
+22, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Sport Recife
+25, Marlon, BRA, M, 1.75, 68, 26-02-90, Curitiba, Fortaleza
+26, Léo Chú, BRA, M, 1.76, 70, 04-06-00, Porto Alegre, Grêmio
+29, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Atlético Mineiro
+31, Pedro Naressi, BRA, M, 1.78, 78, 10-01-98, São José dos Campos, Red Bull Brasil
+35, Charles, BRA, M, 1.87, 80, 19-06-96, Santiago-RS, Internacional
+37, Rick, BRA, F, 1.70, 66, 02-09-99, São Luís, Grêmio
+39, Wescley, BRA, M, 1.66, 64, 11-10-91, Rio de Janeiro, Vissel Kobe
+40, Vítor Jacaré, BRA, F, 1.67, 69, 24-10-99, Caririaçu, Caucaia
+44, Klaus, BRA, D, 1.87, 79, 11-01-94, Dois Irmãos, Internacional
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Grêmio
+67, André Luiz, BRA, G, 1.89, 79, 13-03-00, Rio de Janeiro, Botafogo
+70, Kelyvn, BRA, D, 1.75, 70, 07-05-99, Osasco, Tubarão
+73, Saulo, BRA, F, 1.80, 74, 17-06-97, Uberlândia, Volta Redonda
+74, Marthã, BRA, M, 1.81, 69, 20-06-97, São Paulo, FC Lviv
+80, Leandro Carvalho, BRA, F, 1.72, 70, 10-05-95, Belém, Botafogo
+86, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Chapecoense
+88, Fernando Sobral, BRA, M, 1.78, 70, 17-12-94, Sobral, Sampaio Corrêa
+89, Cleber, BRA, F, 1.99, 82, 22-10-96, Salvador, Barbalha
+91, Richard, BRA, G, 1.86, 83, 01-03-91, São Paulo, Paraná
+99, Cristiano, BRA, F, 1.78, 88, 03-04-99, Rio de Janeiro, Tubarão
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, Bahia
+21, Juninho Quixadá, BRA, M, 1.70, 62, 12-12-85, Senador Pompeu, Vitória
+30, Bérgson, BRA, F, 1.79, 76, 09-02-91, Rio Grande do Sul, Fortaleza
+11, Rafael Sóbis, BRA, F, 1.72, 73, 17-06-85, Erechim, Cruzeiro
+9, Rodrigão, BRA, F, 1.86, 92, 13-10-93, Belmonte, Santos

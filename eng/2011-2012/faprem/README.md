@@ -1,0 +1,23 @@
+# English Premier League 2011/12
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Norwich City](norwich.txt)
+- [Queens Park Rangers](qpr.txt)
+- [Stoke City](stoke.txt)
+- [Sunderland](sunder.txt)
+- [Swansea City](swansea.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [Wigan Athletic](wigan.txt)
+- [Wolverhampton Wanderers](wolves.txt)

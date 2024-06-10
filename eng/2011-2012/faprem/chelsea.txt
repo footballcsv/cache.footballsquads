@@ -1,0 +1,56 @@
+=  Chelsea - English Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Petr Čech, CZE, G, 1.96, 90, 20-05-82, Plzeň, Rennes
+2, Branislav Ivanović, SRB, D, 1.88, 86, 22-02-84, Sremska Mitrovica, Lokomotiv Moscow
+3, Ashley Cole, ENG, D, 1.72, 67, 20-12-80, Stepney, Arsenal
+4, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Benfica
+5, Michael Essien, GHA, M, 1.78, 84, 03-12-82, Accra, Lyon
+6, Oriol Romeu, ESP, M, 1.82, 79, 24-09-91, Ulldecona, Barcelona B
+7, Ramires, BRA, M, 1.79, 65, 24-03-87, Rio de Janeiro, Benfica
+8, Frank Lampard, ENG, M, 1.83, 90, 20-06-78, Romford, West Ham U
+9, Fernando Torres, ESP, F, 1.86, 78, 20-03-84, Madrid, Liverpool
+10, Juan Mata, ESP, F, 1.70, 63, 28-04-88, Burgos, Valencia
+11, Didier Drogba, CIV, F, 1.89, 91, 11-03-78, Abidjan, Marseille
+12, Mikel John Obi, NGA, M, 1.84, 85, 22-04-87, Jos, Lyn
+15, Florent Malouda, FRA, M, 1.81, 73, 13-06-80, Cayenne, Lyon
+16, Raul Meireles, POR, M, 1.79, 69, 17-03-83, Porto, Liverpool
+17, José Bosingwa, POR, D, 1.83, 75, 24-08-82, Kinshasa, FC Porto
+18, Romelu Lukaku, BEL, F, 1.90, 94, 13-05-93, Antwerp, Anderlecht
+19, Paulo Ferreira, POR, D, 1.82, 76, 18-01-79, Lisbon, FC Porto
+21, Salomon Kalou, CIV, F, 1.84, 77, 05-08-85, Oumé, Feyenoord
+22, Ross Turnbull, ENG, G, 1.93, 85, 04-01-85, Bishop Auckland, Middlesbrough
+23, Daniel Sturridge, ENG, F, 1.88, 76, 01-09-89, Birmingham, Manchester C
+24, Gary Cahill, ENG, D, 1.88, 71, 19-12-85, Sheffield, Bolton W
+26, John Terry, ENG, D, 1.86, 91, 07-12-80, Barking, None
+27, Sam Hutchinson, ENG, D, 1.80, 73, 03-08-89, Slough, None
+34, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Gillingham
+35, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, São Paulo
+40, Hilário, POR, G, 1.88, 86, 21-10-75, São Pedro da Cova, Nacional [POR]
+45, Nathaniel Chalobah, ENG, D, 1.85, 75, 12-12-94, Freetown, None
+46, Jamal Blackman, ENG, G, 1.96, 82, 27-10-93, Croydon, None
+47, Billy Clifford, ENG, D, 1.70, 67, 18-10-92, Slough, None
+48, Conor Clifford, IRL, M, 1.73, 67, 01-10-91, Dublin, None
+49, Aziz Deen-Conteh, ENG, D, 1.76, 70, 14-01-93, Bumpeh, None
+51, Rohan Ince, ENG, D, 1.91, 80, 08-11-92, Whitechapel, None
+53, Marko Mitrović, SWE, F, 1.86, 76, 27-06-92, Malmö, Malmö FF
+54, Todd Kane, ENG, D, 1.80, 70, 17-09-93, Huntingdon, None
+55, James Ashton, ENG, M, , , 02-10-92, Gravesend, None
+56, George Saville, ENG, M, 1.76, 73, 01-06-93, Camberley, None
+57, Archange Nkumu, ENG, D, 1.88, 70, 05-11-93, Tottenham, None
+58, Daniel Pappoe, GHA, D, 1.91, 93, 30-12-93, Accra, None
+60, Rhys Taylor, WAL, G, 1.88, 85, 07-04-90, Neath, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Yossi Benayoun, ISR, M, 1.78, 70, 05-05-80, Beersheba, Re-Registered (30)
+30, Yossi Benayoun, ISR, M, 1.78, 70, 05-05-80, Beersheba, Arsenal (On Loan)
+39, Nicolas Anelka, FRA, F, 1.85, 77, 14-03-79, Versailles, Shanghai Shenhua
+44, Gaël Kakuta, FRA, F, 1.73, 65, 21-06-91, Lille, Dijon (On Loan)
+20, Josh McEachran, ENG, M, 1.78, 65, 01-03-93, Oxford, Swansea C (On Loan)
+38, Patrick van Aanholt, NED, D, 1.75, 67, 29-08-90, 's-Hertogenbosch, Vitesse (On Loan)
+33, Alex, BRA, D, 1.88, 92, 17-06-82, Niterói, Paris St-Germain
+50, Aliu Djaló, GNB, M, 1.69, 65, 05-02-92, Bissau, AEL Limassol
+59, Philipp Prosenik, AUT, F, 1.88, 80, 01-03-93, Vienna, Milan
+52, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, 

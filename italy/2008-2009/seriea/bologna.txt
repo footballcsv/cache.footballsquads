@@ -1,0 +1,45 @@
+=  Bologna - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Antonioli, ITA, G, 1.88, 82, 14-09-69, Monza, Sampdoria
+2, Davide Marchini, ITA, M, 1.78, 77, 23-02-81, Portomaggiore, Triestina
+3, César, BRA, D, 1.81, 70, 24-10-74, São Paulo, Internazionale
+4, Christian Amoroso, ITA, M, 1.76, 64, 22-09-76, Pisa, Fiorentina
+5, Sergio Volpi, ITA, M, 1.74, 69, 02-02-74, Orzinuovi, Sampdoria
+6, Miguel Angel Britos, URU, D, 1.88, 82, 17-07-85, Montevideo, Montevideo Wanderers
+7, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Rimini
+8, Nicola Mingazzini, ITA, M, 1.72, 72, 13-08-80, Ravenna, Atalanta
+9, Marco Di Vaio, ITA, F, 1.80, 76, 15-07-76, Rome, Genoa
+10, Davide Bombardini, ITA, M, 1.82, 78, 21-06-74, Faenza, Atalanta
+11, Marco Bernacci, ITA, F, 1.93, 72, 15-12-83, Cesena, Ascoli
+12, Gianmarco Campironi, ITA, G, 1.88, 78, 16-05-89, Milan, Milan
+14, Marcello Castellini, ITA, D, 1.86, 76, 02-01-73, Perugia, Sampdoria
+15, Roberto Colombo, ITA, G, 1.90, 80, 24-08-75, Monza, San Marino
+17, Diego Rodríguez, URU, M, 1.76, 72, 08-08-86, Montevideo, Peñarol
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larisa, AEK Athens
+19, Claudio Terzi, ITA, D, 1.82, 73, 19-06-84, Milan, None
+20, Adailton, BRA, F, 1.75, 73, 24-11-77, Caxias do Sul, Genoa
+21, Cristian Zenoni, ITA, D, 1.82, 72, 23-04-77, Trescore Balneario, Sampdoria
+22, Gabriele Paonessa, ITA, M, 1.70, 64, 18-04-87, Bologna, None
+23, Salvatore Lanna, ITA, D, 1.78, 69, 31-07-76, Carpi, Torino
+25, Massimo Mutarelli, ITA, M, 1.78, 74, 13-01-78, Como, Lazio
+26, Gaby Mudingayi, BEL, M, 1.80, 70, 01-10-81, Kinshasa, Lazio
+28, Alessandro Bassoli, ITA, D, 1.85, 81, 19-06-90, Bologna, None
+29, Giacomo Bassoli, ITA, D, , , 19-06-90, Bologna, None
+30, Giuseppe Nazzani, ITA, D, , , 27-06-90, Carpi, None
+31, Riccardo Pasi, ITA, M, 1.75, 70, 27-08-90, Bologna, None
+32, Federico Casarini, ITA, M, 1.81, 72, 07-08-89, Carpi, None
+33, Giacomo Venturi, ITA, G, 1.83, 70, 02-01-92, Faenza, None
+34, Simone Confalone, ITA, M, 1.77, 70, 21-01-74, Rimini, Spezia
+41, Massimo Marazzina, ITA, F, 1.80, 70, 16-07-74, Lodi, Siena
+44, Leonardo Cisterni, ITA, F, 1.88, 81, 25-08-90, Forlì, None
+74, Luigi Lavecchia, ITA, M, 1.77, 75, 25-08-81, Turin, Messina
+77, Coelho, BRA, D, 1.78, 72, 22-03-83, São Paulo, Corinthians
+84, Manuel Belleri, ITA, D, 1.75, 73, 29-08-77, Brescia, Lazio
+99, Pablo Daniel Osvaldo, ITA, F, 1.85, 78, 12-01-86, Buenos Aires, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+88, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Cremonese (On Loan)
+16, Davide Carrus, ITA, M, 1.70, 67, 19-03-79, Cagliari, Empoli (On Loan)

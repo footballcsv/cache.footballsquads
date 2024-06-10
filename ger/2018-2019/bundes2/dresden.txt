@@ -1,0 +1,38 @@
+=  Dynamo Dresden - German 2.Bundesliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Markus Schubert, GER, G, 1.84, 81, 12-06-98, Freiberg, None
+2, Linus Wahlqvist, SWE, D, 1.83, 74, 11-11-96, Norrköping, IFK Norrköping
+3, Dario Dumić, DEN, D, 1.88, 85, 30-01-92, Sarajevo, FC Utrecht
+4, Jannis Nikolaou, GER, M, 1.87, 85, 31-07-93, Bonn, Würzburger Kickers
+5, Dženis Burnić, GER, M, 1.85, 70, 22-05-98, Hamm, Borussia Dortmund
+6, Marco Hartmann, GER, M, 1.90, 88, 25-02-88, Leinefelde, Hallescher FC
+7, Niklas Kreuzer, GER, D, 1.78, 73, 20-02-93, Munich, RW Erfurt
+8, Rico Benatelli, GER, M, 1.81, 77, 17-03-92, Bochum, Würzburger Kickers
+9, Lucas Röser, GER, F, 1.84, 74, 28-12-93, Ludwigshafen, Sonnenhof Großaspach
+10, Aias Aosman, SYR, M, 1.75, 74, 01-01-93, Al-Qamishli, Jahn Regensburg
+11, Haris Duljević, BIH, M, 1.85, 82, 16-11-93, Sarajevo, Sarajevo
+14, Moussa Koné, SEN, F, 1.75, 68, 30-12-96, Dakar, Zürich
+15, Osman Atılgan, GER, F, 1.78, 66, 01-08-99, Nordenham, JFV Nordwest
+18, Jannik Müller, GER, D, 1.86, 77, 18-01-94, Adenau, Köln II
+20, Patrick Ebert, GER, M, 1.72, 68, 17-03-87, Potsdam, Ingolstadt
+21, Tim Boss, GER, G, 1.86, 81, 28-06-93, Cologne, Fortuna Köln
+22, Patrick Möschl, AUT, M, 1.73, 65, 06-03-93, Saalfelden, Ried
+23, Florian Ballas, GER, D, 1.96, 86, 08-01-93, Saarbrücken, FSV Frankfurt
+24, Patrick Wiegers, GER, G, 1.87, 86, 19-04-90, Deggendorf, Jahn Regensburg
+26, Sören Gonther, GER, D, 1.86, 83, 15-12-86, Schrecksbach, St Pauli
+28, Barış Atik, TUR, M, 1.69, 72, 09-01-95, Frankenthal, 1899 Hoffenheim
+31, Brian Hamalainen, DEN, D, 1.76, 69, 29-05-89, Lillerød, Zulte-Waregem
+32, Vasil Kušej, CZE, F, 1.68, 65, 24-05-00, Ústí nad Labem, Ústí nad Labem
+34, Justin Löwe, GER, M, 1.68, 65, 30-12-98, Lauchhammer, None
+35, Marius Hauptmann, GER, M, 1.78, 68, 14-09-99, , None
+36, Max Kulke, GER, M, 1.77, 72, 10-11-00, Kodersdorf, None
+39, Kevin Ehlers, GER, D, 1.86, 76, 23-01-01, Munich, Hansa Rostock
+40, Erich Berko, GER, M, 1.79, 80, 06-09-94, Ostfildern-Ruit, Stuttgarter Kickers
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Pascal Testroet, GER, F, 1.84, 76, 26-09-90, Bocholt, Erzgebirge Aue
+16, Philip Heise, GER, D, 1.84, 78, 20-06-91, Düsseldorf, Norwich C
+29, Sascha Horvath, AUT, M, 1.65, 60, 22-08-96, Vienna, Wacker Innsbruck (On Loan)

@@ -1,0 +1,48 @@
+=  Internacional - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Heitor, BRA, D, 1.74, 67, 05-11-00, Pelotas, None
+3, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Sampdoria
+4, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Panathinaikos
+7, Gustavo Maia, BRA, F, 1.68, 61, 22-01-01, Brasília, Barcelona B
+8, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+10, Taison, BRA, M, 1.72, 64, 17-01-88, Pelotas, Shakhtar Donetsk
+11, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, Santos
+12, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Bahia
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, None
+14, Lucas Ribeiro, BRA, D, 1.90, 80, 19-01-99, Salvador, 1899 Hoffenheim
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Independiente
+16, Carlos Palacios, CHI, F, 1.82, 75, 20-07-00, Renca, Unión Española
+18, Matheus Cadorini, BRA, F, 1.92, 83, 01-09-02, Taubaté, None
+19, Rodrigo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Botafogo
+20, Moisés, BRA, D, 1.82, 79, 11-03-95, São Paulo, Bahia
+21, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Monaco
+22, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Corinthians
+23, Paulo Victor, BRA, D, 1.80, 72, 13-04-01, Boicaúva, Botafogo
+24, Anthoni, BRA, G, 1.93, 88, 23-01-02, Canela, None
+25, Gabriel Mercado, ARG, D, 1.81, 77, 18-03-87, Puerto Madryn, Al-Rayyan
+26, Renzo Saravia, ARG, D, 1.78, 73, 16-06-93, Villa de María, FC Porto
+27, Maurício, BRA, M, 1.74, 70, 22-06-01, São Paulo, Cruzeiro
+29, Vinicius Mello, BRA, F, 1.82, 84, 19-08-02, Sapucaia do Sul, None
+30, Johnny Cardoso, USA, M, 1.82, 78, 20-09-01, Denville, None
+32, Vitor Hugo, BRA, G, 1.95, 92, 27-07-01, Goiânia, None
+35, Zé Gabriel, BRA, D, 1.84, 77, 21-01-99, Carmópolis, None
+37, Lucas Ramos, BRA, M, 1.73, 66, 03-01-01, Sarandi, None
+42, Daniel, BRA, G, 1.88, 80, 06-05-94, Barra dos Garças, None
+47, Caio, BRA, F, 1.72, 72, 04-11-00, Fortaleza, Porto-PE
+49, Juan Manuel Cuesta, COL, F, 1.76, 71, 09-02-02, Medellín, Independiente Medellín
+52, Emerson Junior, BRA, G, 1.96, 90, 07-02-00, Estância Velha, None
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Sport Recife
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Bruno Praxedes, BRA, M, 1.86, 75, 08-02-02, Itaboraí, Red Bull Bragantino
+1, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Bahia (On Loan)
+31, João Peglow, BRA, F, 1.70, 59, 07-01-02, Porto Alegre, FC Porto (On Loan)
+36, Leo Borges, BRA, D, 1.82, 73, 03-01-01, Pelotas, FC Porto (On Loan)
+38, Lucas Mazetti, BRA, D, 1.71, 65, 02-02-01, Londrina, Vila Nova (On Loan)
+33, Nonato, BRA, M, 1.74, 68, 03-03-98, São Paulo, Fluminense (On Loan)
+41, Pedro Henrique, BRA, D, 1.87, 80, 31-01-01, Maceió, Sport Recife (On Loan)
+17, Thiago Galhardo, BRA, F, 1.82, 69, 20-07-89, São João del Rei, Celta Vigo (On Loan)
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, 

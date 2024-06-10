@@ -1,0 +1,38 @@
+=  Nancy - French Ligue 2 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Quentin Beunardeau, FRA, G, 1.85, 72, 27-02-94, Le Mans, Le Mans
+2, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, None
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+6, Jonathan Iglesias, URU, M, 1.80, 70, 17-12-88, Montevideo, El Tanque Sisley
+7, Lossemy Karaboué, FRA, M, 1.70, 70, 18-03-88, Paris, Sedan
+8, Rémi Walter, FRA, M, 1.74, 73, 26-04-95, Essey-les-Nancy, None
+9, Maurice Dalé, FRA, F, 1.87, 80, 12-07-85, Martigues, Arles-Avignon
+10, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, None
+11, Fabrice Ehret, FRA, M, 1.83, 76, 28-09-79, Viganello, Évian TG
+12, Junior Joachim, FRA, F, 1.79, 76, 13-05-92, Ulis, None
+13, Julien Cetout, FRA, M, 1.83, 74, 02-01-88, Chartres, Tours
+14, Joffrey Cuffaut, FRA, D, 1.80, 74, 15-03-88, Beauvais, Le Mans
+15, Youssouf Hadji, MAR, F, 1.83, 78, 25-02-80, Ifrane, Elazığspor
+16, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nantes
+17, Florent Zitte, FRA, F, 1.83, 75, 17-05-93, Saint-Denis, None
+18, Modou Diagne, SEN, D, 1.88, 74, 03-01-94, Mbacke, None
+19, Mana Dembélé, FRA, F, 1.80, 68, 29-11-88, Ivry sur Seine, Guingamp
+20, Ibrahim Amadou, FRA, D, 1.83, 78, 06-04-93, Douala, None
+21, Tobias Badila, FRA, D, 1.81, 78, 12-05-93, Dijon, None
+22, Karim Coulibaly, FRA, M, 1.84, 80, 03-06-93, Bakel, None
+23, Jean Landry Bassilekin, CMR, F, 1.88, 73, 23-01-93, Makénéné, Renaissance de Ngoumou
+24, Romain Bauchet, FRA, F, 1.74, 69, 02-05-94, Saint-Omer, None
+25, Salim Baghdad, FRA, M, 1.80, 74, 11-09-92, Toulouse, None
+26, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, Monaco
+27, Alexis Busin, FRA, F, 1.75, 64, 07-09-95, Boulogne-sur-Mer, None
+28, Cyril Dreyer, FRA, M, 1.77, 65, 19-03-94, Strasbourg, None
+29, Romain Grange, FRA, M, 1.77, 71, 21-07-88, Châteauroux, Châteauroux
+30, Paul Nardi, FRA, G, 1.87, 77, 18-05-94, Vesoul, Monaco
+33, Yann Mabella, FRA, F, 1.82, 77, 22-02-96, Toulouse, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Jeff Louis, HAI, M, 1.78, 70, 08-08-90, Port-au-Prince, Standard Liège
+5, François Bellugou, FRA, D, 1.86, 70, 25-04-87, Prades, Lorient

@@ -1,0 +1,61 @@
+=  Ipatinga - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fernando, BRA, G, 1.91, 85, 24-10-81, Uberara, Icasa
+, Fred, BRA, G, 1.84, 83, 27-04-84, Viçosa, Democrata
+, Rodrigo Posso, BRA, G, 1.86, 86, 16-05-76, Moreira Sales, Uberaba
+, Thiago Braga, BRA, G, 1.85, 74, 04-05-84, Belo Horizonte, Cruzeiro
+, Afonso, BRA, D, 1.79, 74, 01-02-88, Jaguarari, Cruzeiro
+, Anderson, BRA, D, 1.70, 65, 15-09-88, São Paulo, Cruzeiro
+, Baroni, BRA, D, 1.85, 73, 19-03-83, São Manoel, Ituiutaba
+, Beto, BRA, D, 1.76, 67, 06-02-81, São João del Rey, Atlético Paranaense
+, Gian, BRA, D, 1.90, 82, 19-09-82, Santo André, Marília
+, Henrique, BRA, D, 1.83, 78, 06-03-80, Rio de Janeiro, Estoril
+, Léo Oliveira, BRA, D, 1.83, 78, 28-05-78, João Pessoa, Sport Recife
+, Márcio Gabriel, BRA, D, 1.69, 63, 18-04-82, Canavieiras, Noroeste
+, Mateus, BRA, D, 1.91, 82, 02-05-84, Turmalina, Uberaba
+, Patrick, BRA, D, 1.87, 76, 07-02-87, Linhares, Linhares
+, Ricardo, BRA, D, 1.71, 69, 04-11-87, Uberaba, Nacional Uberaba
+, Silvio, BRA, D, 1.89, 83, 30-04-85, Nova Iguaçu, Paulista
+, Advaldo, BRA, M, 1.69, 73, 15-06-86, Mascote, Sport Recife
+, Augusto Recife, BRA, M, 1.69, 60, 03-08-83, Joaquim Nabuco, Cruzeiro
+, Júlio, BRA, M, 1.80, 77, 18-09-80, Joaquim Nabuco, Noroeste
+, Leandro Salino, BRA, M, 1.69, 64, 22-04-85, Juiz de Fora, Flamengo
+, Léo Silva, BRA, M, 1.78, 78, 24-12-85, São Luis, Cruzeiro
+, Luciano Mandí, BRA, M, 1.86, 82, 22-01-86, Porciúncula, Tupi
+, Luíz Fernando, BRA, M, 1.70, 63, 17-07-88, Carmo da Mata, Cruzeiro
+, Pablo Escobar, BOL, M, 1.77, 70, 23-02-79, Asunción, The Strongest
+, Paulinho Dias, BRA, M, 1.75, 75, 13-05-88, Belo Horizonte, Cruzeiro
+, Rodriguinho, BRA, M, 1.84, 74, 03-07-80, Brasília, Brasiliense
+, Sandro, BRA, M, 1.76, 67, 10-01-81, Janduís, Cruzeiro
+, Sandro Manoel, BRA, M, 1.78, 71, 23-07-88, Recife, Cruzeiro
+, Xaves, BRA, M, 1.73, 71, 27-02-86, Balsas, Paraná
+, Adeílson, BRA, F, 1.86, 73, 07-10-85, Nova União, Guarani-SP
+, Ferreira, BRA, F, 1.87, 78, 21-02-79, Uberlândia, Ulsan Hyundai Horang-i
+, Igor, BRA, F, 1.90, 84, 12-02-80, Maceió, Pontevedra
+, Kempes, BRA, F, 1.82, 77, 03-08-82, Rio de Janeiro, Caxias do Sul
+, Müller, BRA, F, 1.84, 71, 25-07-91, Ipatinga, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Emerson Nunes, BRA, D, 1.79, 76, 21-03-82, Belo Horizonte, Cruzeiro
+, Paulinho, BRA, M, 1.65, 63, 30-12-75, Monte Carmelo, Fabriciano
+, Ely Thadeu, BRA, F, 1.70, 65, 12-08-82, Vila Velha, 
+, Osmar, BRA, F, 1.74, 69, 23-07-80, Marília, Palmeiras
+, Marinho Donizete, BRA, D, 1.65, 58, 31-07-80, Uberlândia, Ituiutaba
+, Hugo, BRA, M, 1.76, 70, 25-05-84, Poços de Caldas, Cruzeiro
+, Danilo Portugal, BRA, M, 1.78, 78, 10-05-83, Cidade de Goiás, Goiás
+, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Tombense
+, Renato, BRA, D, 1.83, 80, 31-08-81, Dom Pedrito, Guaratinguetá
+, Jackson, BRA, M, 1.75, 78, 16-09-82, São Luis, Guaratinguetá
+, Edimar, BRA, D, 1.80, 70, 21-05-86, Cachoeiro de Itapemirim, Cruzeiro
+, Gerson Magrão, BRA, M, 1.81, 72, 13-06-85, Diadema, Flamengo
+, Marcelo Costa, BRA, M, 1.76, 70, 24-07-80, Campinas do Sul, Palmeiras
+, William, BRA, M, 1.73, 72, 20-11-86, São Paulo, Palmeiras
+, Marcelo, BRA, M, 1.77, 72, 01-02-83, Petrópolis, Tombense
+, Ricardinho, BRA, F, 1.81, 77, 19-11-83, Birigui, Atlético Paranaense
+, Neto Baiano, BRA, F, 1.87, 82, 17-09-82, Ituaçu, Paulista
+, Toninho, BRA, D, 1.86, 79, 07-01-81, Eldorado, Náutico
+, Marinho, BRA, F, 1.77, 75, 27-08-79, Belo Horizonte, Atlético Mineiro
+, Tiago, BRA, D, 1.87, 86, 15-03-78, Campinas, 

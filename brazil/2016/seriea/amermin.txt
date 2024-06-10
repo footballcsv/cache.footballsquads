@@ -1,0 +1,53 @@
+=  América Mineiro - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fernando Leal, BRA, G, 1.91, 90, 24-10-81, Uberaba, Fortaleza
+, Glauco, BRA, G, 1.91, 84, 11-02-95, Belo Horizonte, None
+, João Ricardo, BRA, G, 1.88, 78, 06-09-88, Mariano Moro, Paraná
+, Jori, BRA, G, 1.90, 84, 15-03-96, Periquito, None
+, Alison, BRA, D, 1.86, 76, 21-10-83, Parnamirim, Treze
+, Carlos Cardoso, BRA, D, 1.90, 85, 11-09-84, Santa Rosa Vitergo, Tractor Sazi
+, Bruno Teles, BRA, D, 1.83, 78, 01-05-86, Alvorada, Mogi Mirim
+, Danilo, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, None
+, Éder Lima, BRA, D, 1.86, 72, 05-02-86, São Vicente, Bragantino
+, Gilson, BRA, D, 1.78, 70, 14-05-86, Campo Grande, Cruzeiro
+, Hélder, BRA, D, 1.75, 70, 13-04-88, Ribeirão Preto, Juventude
+, Jonas, BRA, D, 1.81, 77, 10-02-87, Votuporanga, Criciúma
+, Messias, BRA, D, 1.90, 87, 03-11-94, São Mateus, None
+, Roger, BRA, D, 1.84, 71, 11-01-95, Belo Horizonte, None
+, Suéliton, BRA, D, 1.85, 84, 26-06-91, Araçagi, ABC
+, Christian, BRA, M, 1.70, 65, 08-12-95, São João del Rei, None
+, Claudinei, BRA, M, 1.72, 70, 08-10-88, Sete Lagoas, Coimbra
+, Diego Lopes, BRA, M, 1.71, 64, 03-05-94, São Paulo, Benfica
+, Ernandes, BRA, M, 1.73, 71, 11-11-87, São Felix do Araguaia, Ceará
+, Juninho, BRA, M, 1.73, 66, 23-10-87, Goiânia, Atlético Paranaense
+, Leandro Guerreiro, BRA, M, 1.82, 68, 17-11-78, São Borja, Cruzeiro
+, Makton, BRA, M, 1.84, 63, 04-03-98, Divinópolis, None
+, Matheusinho, BRA, M, 1.64, 60, 11-02-98, Belo Horizonte, None
+, Osman, BRA, M, 1.79, 72, 29-01-92, São Paulo, Luverdense
+, Pablo, BRA, M, 1.76, 66, 03-08-88, São João Nepomuceno, Tombense
+, Renato Bruno, BRA, M, 1.83, 63, 22-04-94, Belo Horizonte, None
+, Tony, BRA, M, 1.76, 67, 29-05-86, São Paulo, XV de Piracicaba
+, Xavier, BRA, M, 1.72, 65, 13-12-94, Divinópolis, None
+, Zé Ricardo, BRA, M, 1.76, 72, 09-03-96, Bom Jesus do Amparo, None
+, Bruno Sávio, BRA, F, 1.81, 70, 01-08-94, Pará de Minas, None
+, Danilo Dias, BRA, F, 1.74, 64, 06-11-85, Ceres, União da Madeira
+, Michael, BRA, F, 1.86, 80, 19-04-93, São Francisco de Sales, Fluminense
+, Nilson, BRA, F, 1.86, 75, 06-04-91, São Paulo, Cianorte
+, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, Flamengo
+, Vitinho Ruas, BRA, F, 1.75, 68, 04-08-96, São Paulo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Maranhão, BRA, M, 1.75, 70, 19-05-92, Cajapió, Fortaleza
+, Rafael Bastos, BRA, M, 1.85, 72, 01-01-85, Rio de Janeiro, Chapecoense
+, Willian Barbio, BRA, F, 1.73, 71, 22-10-92, Belford Roxo, Vasco da Gama
+, Eduardo, BRA, M, 1.78, 72, 07-06-93, Fortaleza, Fluminense
+, Tiago Luís, BRA, F, 1.76, 74, 13-03-89, Ribeirão Preto, Cianorte
+, Artur, BRA, D, 1.89, 73, 11-06-90, Rio de Janeiro, Fluminense
+, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, 
+, Adalberto, BRA, D, 1.83, 81, 16-11-87, São Miguel do Gostoso, Santa Cruz
+, Vitinho, BRA, F, 1.80, 77, 08-09-90, Vitória, Guarani de Palhoça
+, Alan Mineiro, BRA, M, 1.74, 79, 29-09-87, Três Corações, Corinthians
+, Eisner Iván Loboa, COL, M, 1.72, 70, 17-05-87, Caloto, León

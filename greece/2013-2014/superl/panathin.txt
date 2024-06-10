@@ -1,0 +1,46 @@
+=  Panathinaikos - Greek Super League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefanos Kapino, GRE, G, 1.96, 85, 18-03-94, Piraeus, None
+2, Panagiotis Spyropoulos, GRE, D, 1.79, 75, 21-08-92, Athens, Panionios
+3, Diamantis Chouchoumis, GRE, D, 1.78, 75, 17-07-94, Aliveri, None
+4, Giorgios Koutroubis, GRE, D, 1.85, 78, 10-02-91, Athens, AEK
+5, Konstantinos Triantafyllopoulos, GRE, D, 1.85, 83, 03-04-93, Corinth, None
+6, David Mendes da Silva, NED, M, 1.86, 75, 04-08-82, Rotterdam, Red Bull Salzburg
+7, Viktor Klonaridis, BEL, M, 1.79, 74, 28-07-92, Seraing, Lille
+8, Anastasios Lagos, GRE, D, 1.82, 76, 12-04-92, Volos, None
+9, Marcus Berg, SWE, F, 1.83, 76, 17-08-86, Torsby, Hamburg
+10, Zeca, POR, M, 1.80, 65, 31-08-88, Amadora, Vitória Setúbal
+11, Emir Bajrami, SWE, M, 1.78, 77, 07-03-88, Priština, FC Twente
+12, Nikos Marinakis, GRE, D, 1.86, 73, 13-09-93, Heraklion, None
+14, Abdul Ajagun, NGA, M, 1.65, 64, 10-02-93, Port Harcourt, Dolphins FC
+15, Alexis Tabakis, GRE, G, 1.87, 87, 08-12-92, Athens, None
+16, Vassilis Angelopoulos, GRE, M, 1.71, 70, 12-02-97, Pyrgos, None
+17, Alexandros Mouzakitis, GRE, F, 1.67, 66, 04-08-94, Kerkyra, None
+18, Christos Donis, GRE, M, 1.83, 76, 09-10-94, Athens, None
+19, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, Amkar Perm
+20, Mehdi Abeid, ALG, M, 1.78, 77, 06-08-92, Montreuil, Newcastle U
+21, Nano, ESP, M, 1.82, 73, 27-10-84, Málaga, Ponferradina
+22, Adrián Balboa, URU, F, 1.87, 80, 19-01-94, Montevideo, Cerrito
+23, Gordon Schildenfeld, CRO, D, 1.91, 89, 18-03-85, Šibenik, Dynamo Moscow
+24, Spyros Risvanis, GRE, D, 1.96, 82, 03-01-94, Kalamata, None
+25, Stefanos Kotsolis, GRE, G, 1.90, 85, 06-05-79, Athens, Omonia Nicosia
+26, Thanasis Dinas, GRE, F, 1.70, 66, 12-11-89, Komotini, Panachaiki
+27, Vangelis Anastasopoulos, GRE, M, 1.66, 67, 07-03-94, , None
+28, Giannis Stamatakis, GRE, M, 1.77, 76, 26-06-94, Larymna, None
+29, Nikos Gianitsanis, GRE, F, 1.80, 76, 16-02-94, Athens, None
+32, Danijel Pranjić, CRO, M, 1.72, 67, 02-12-81, Našice, Sporting CP
+33, Mladen Petrić, CRO, F, 1.85, 81, 01-01-81, Dubrave, West Ham U
+35, Alexandros Anagnostopoulos, GRE, G, 1.85, 90, 18-08-94, Athens, None
+47, Marcelo Casas, PAR, M, 1.86, 77, 14-04-92, , Libertad
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Luciano Figueroa, ARG, F, 1.82, 74, 19-05-81, Rosario, Johor
+45, Quincy Owusu-Abeyie, GHA, F, 1.80, 74, 15-04-86, Amsterdam, 
+41, André Pinto, POR, D, 1.92, 85, 05-10-89, Vila Nova de Gaia, Sporting Braga
+31, Nikolaos Kousidis, GRE, M, 1.75, 70, 03-01-93, Heraklion, Aris
+40, Toché, ESP, F, 1.82, 78, 01-01-83, Murcia, Deportivo La Coruña
+44, José Manuel Velázquez, VEN, D, 1.82, 70, 08-09-90, Ciudad Bolívar, Mineros de Guayana
+30, Konstantinos Apostolopoulos, GRE, F, 1.73, 70, 08-07-93, , Panachaiki (On Loan)

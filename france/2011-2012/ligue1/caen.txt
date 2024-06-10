@@ -1,0 +1,37 @@
+=  Caen - French Ligue 1 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexis Thébaux, FRA, G, 1.85, 81, 17-03-85, Les Sables D'Olonne, Dijon
+2, Nicolas Seube, FRA, D, 1.80, 72, 11-08-79, Toulouse, Toulouse
+3, Yannick M'bone, CMR, M, 1.85, 80, 16-04-93, Yaoundé, Apéjes Yaoundé
+4, Molla Wagué, FRA, D, 1.91, 87, 21-02-91, Verdon, None
+5, Thomas Heurtaux, FRA, D, 1.83, 78, 03-07-88, Lisieux, None
+6, Branko Lazarević, SRB, D, 1.85, 81, 14-05-84, Novi Sad, OFK Belgrade
+7, Anthony Deroin, FRA, M, 1.63, 66, 15-03-79, Caen, None
+8, Aurélien Montaroup, FRA, D, 1.73, 64, 19-12-85, Rennes, Dinamo Minsk
+9, Mbaye Niang, FRA, F, 1.84, 74, 19-12-94, Meulan, None
+10, Benjamin Nivet, FRA, M, 1.78, 75, 02-01-77, Chartres, Troyes
+11, Pierre-Alain Frau, FRA, F, 1.75, 73, 15-04-80, Montbéliard, Lille
+12, Grégory Proment, FRA, M, 1.76, 69, 10-12-78, Paris, Antalyaspor
+13, Emeric Dudouit, FRA, M, 1.86, 78, 07-09-91, Coutances, Saint-Lô
+14, Jerry Vandam, GHA, D, 1.86, 77, 08-12-88, Lille, Lille
+15, Lenny Nangis, FRA, F, 1.73, 65, 24-03-94, Caen, None
+16, Damien Perquis, FRA, G, 1.84, 82, 08-03-86, Saint-Brieuc, Beauvais
+17, Frédéric Bulot, FRA, F, 1.77, 68, 27-09-90, Libreville, Monaco
+18, Kandia Traoré, CIV, F, 1.80, 84, 05-07-80, Adjame, Sochaux
+19, Jérémy Sorbon, FRA, D, 1.83, 79, 05-08-83, Caen, None
+20, Romain Hamouma, FRA, M, 1.77, 67, 29-03-87, Lure, Laval
+21, Livio Nabab, FRA, F, 1.85, 72, 14-06-88, Guadeloupe, None
+22, Alexandre Raineau, FRA, M, 1.78, 71, 21-06-86, Paris, None
+23, Grégory Tafforeau, FRA, D, 1.75, 71, 29-09-76, Bois-Guillaume, Lille
+24, Grégory Leca, FRA, M, 1.83, 84, 22-08-80, Metz, Metz
+26, Ibrahima Tandia, FRA, M, 1.78, 70, 12-07-93, Longjumeau, Sochaux
+29, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Fréjus
+30, Thomas Bosmel, FRA, G, 1.84, 75, 18-04-88, Caen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Damien Marcq, FRA, D, 1.83, 72, 08-12-88, Boulogne, Dijon (On Loan)
+25, Sambou Yatabaré, MLI, M, 1.90, 82, 02-03-89, Beauvais, Monaco
+28, Benjamin Morel, FRA, F, 1.81, 70, 10-06-87, , Clermont

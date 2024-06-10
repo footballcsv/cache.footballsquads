@@ -1,0 +1,59 @@
+=  Palermo - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Andrea Mantovani, ITA, D, 1.85, 79, 22-06-84, Turin, Chievo Verona
+3, Salvatore Aronica, ITA, D, 1.82, 77, 20-01-78, Palermo, Napoli
+5, Edgar Barreto, PAR, M, 1.82, 77, 15-07-84, Asunción, Atalanta
+6, Ezequiel Muñoz, ARG, D, 1.85, 83, 08-10-90, Pergamino, Boca Juniors
+7, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Taurianova, Reggina
+8, Andrea Dossena, ITA, D, 1.80, 77, 11-09-81, Lodi, Napoli
+9, Paulo Dybala, ARG, F, 1.76, 68, 15-11-93, Laguna Larga, Instituto (Córdoba)
+10, Fabrizio Miccoli, ITA, F, 1.68, 64, 27-06-79, Nardò, Juventus
+11, Abel Hernández, URU, F, 1.85, 73, 08-08-90, Pando, Peñarol
+12, Andrea Fulignati, ITA, G, 1.89, 77, 31-10-94, Empoli, Sestese
+14, Anselmo, BRA, M, 1.82, 78, 20-02-89, São Paulo, Genoa
+16, Diego Fabbrini, ITA, F, 1.81, 66, 31-07-90, San Giuliano Terme, Udinese
+17, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, Wigan Ath
+18, Alejandro Faurlín, ARG, M, 1.85, 79, 09-08-86, Rosario, QPR
+19, Mauricio Sperduti, ARG, M, 1.80, 73, 16-02-86, Rosario, Newell's Old Boys
+20, Egidio Arévalo, URU, M, 1.69, 71, 01-01-82, Paysandú, Tijuana
+22, Nélson, POR, D, 1.72, 65, 10-06-83, Praia, Betis
+23, Massimo Donati, ITA, M, 1.86, 75, 26-03-81, Sedegliano, Bari
+24, Cephas Malele, SUI, F, 1.82, 76, 08-01-94, Buco-Zau, Zürich
+25, Steve von Bergen, SUI, D, 1.81, 76, 10-06-83, Neuchâtel, Genoa
+27, Josip Iličić, SVN, M, 1.89, 73, 29-01-88, Prijedor, Maribor
+28, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Gorica
+29, Santiago García, ARG, D, 1.89, 76, 08-07-88, Rosario, Rosario Central
+30, Giacomo Brichetto, ITA, G, 1.94, 83, 09-05-83, Genoa, Novara
+33, Mauro Formica, ARG, M, 1.76, 64, 04-04-88, Rosario, Blackburn R
+50, Giulio Sanseverino, ITA, F, 1.72, 62, 10-02-94, Palermo, None
+51, Mauro Bollino, ITA, F, 1.71, 67, 31-12-94, Palermo, None
+52, Stefano Cerniglia, ITA, M, , , 22-01-94, Palermo, None
+53, Davide Monteleone, ITA, D, 1.86, 80, 25-09-95, Palermo, None
+54, Stefano Sorrentino, ITA, G, 1.86, 84, 28-03-79, Cava dei Tirreni, Chievo Verona
+55, Edoardo Goldaniga, ITA, D, 1.88, 79, 02-11-93, Milan, Pergolettese
+56, Jevrem Kosnić, SRB, M, 1.90, 82, 28-04-93, Belgrade, Rad
+57, David Aquino, PAR, D, , , 13-01-94, Caaguazú, Nacional [PAR]
+58, Davide Petermann, ITA, M, 1.85, 78, 25-12-94, Rome, Siena
+89, Michel Morganella, SUI, D, 1.83, 74, 17-05-89, Martigny, Novara
+99, Francesco Benussi, ITA, G, 1.88, 80, 15-10-81, Mestre, Lecce
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Franco Vázquez, ARG, M, 1.87, 81, 22-02-89, Tanti, Rayo Vallecano (On Loan)
+24, Agon Mehmeti, SWE, F, 1.82, 72, 20-11-89, Podujevo, Novara (On Loan)
+3, Luca Di Matteo, ITA, M, 1.81, 70, 25-02-88, Pescara, Vicenza
+8, Giulio Migliaccio, ITA, M, 1.78, 72, 23-06-81, Mugnano di Napoli, Fiorentina (On Loan)
+14, Nicolás Bertolo, ARG, M, 1.80, 75, 02-01-86, Córdoba, Cruz Azul
+31, Eros Pisano, ITA, D, 1.85, 83, 31-03-87, Busto Arsizio, Genoa
+53, Giuseppe D'Amico, ITA, F, , , 10-01-95, Erice, Milazzo
+17, Luigi Giorgi, ITA, M, 1.85, 70, 19-04-87, Ascoli Piceno, Novara
+15, Milan Milanović, SRB, D, 1.94, 83, 31-03-91, Kosovska Mitrovica, Vicenza (On Loan)
+16, Eran Zahavi, ISR, M, 1.78, 71, 25-07-87, Rishon LeZion, Maccabi Tel Aviv
+19, Igor Budan, CRO, F, 1.85, 80, 22-04-80, Rijeka, Atalanta (On Loan)
+18, Carlos Labrín, CHI, D, 1.81, 81, 02-12-90, Mulchén, Huachipato (On Loan)
+4, Mauro Cetto, ARG, D, 1.82, 78, 14-04-82, Rosario, San Lorenzo
+1, Samir Ujkani, ALB, G, 1.86, 88, 05-07-88, Resnik, Chievo Verona (On Loan)
+21, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Atalanta
+26, Ignacio Lores, URU, M, 1.82, 73, 26-04-91, Montevideo, CSKA Sofia (On Loan)

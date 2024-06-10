@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2013/14
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [VfR Aalen](aalen.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [VfL Bochum](bochum.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Ingolstadt 04](ingols.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Köln](koln.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [1.FC Union Berlin](unionber.txt)

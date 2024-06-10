@@ -1,0 +1,35 @@
+=  Kayserispor - Turkish Süper Lig 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Muammer Yıldırım, TUR, G, 1.90, 81, 14-09-90, Eğil, Mersin İdman Yurdu
+2, Tiago Lopes, POR, D, 1.80, 66, 04-01-89, Vila Nova de Gaia, CFR Cluj
+3, Asamoah Gyan, GHA, F, 1.80, 80, 22-11-85, Accra, Shanghai SIPG
+4, Levent Gülen, SUI, D, 1.80, 68, 24-02-94, Zürich, Grasshoppers
+5, Gonzalo Espinoza, CHI, M, 1.78, 79, 09-04-90, Constitución, Universidad de Chile
+6, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, Bursaspor
+7, Güray Vural, TUR, M, 1.75, 75, 11-06-88, Afyon, Trabzonspor
+8, Dejan Meleg, SRB, M, 1.76, 73, 01-10-94, Bački Jarak, Vojvodina
+9, Umut Bulut, TUR, F, 1.84, 75, 15-03-83, Yeşilhisar, Galatasaray
+10, Deniz Türüç, TUR, M, 1.77, 79, 29-01-93, Enschede, Go Ahead Eagles
+11, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Dynamo Kyiv
+18, Silvestre Varela, POR, F, 1.80, 75, 02-02-85, Almada, FC Porto
+19, Nikola Stojiljković, SRB, F, 1.82, 75, 17-08-92, Belgrade, Sporting Braga
+20, Ryan Mendes, CPV, F, 1.75, 77, 08-01-90, Mindelo, Lille
+22, Cristian Săpunaru, ROU, D, 1.87, 81, 05-04-84, Bucharest, Astra Giurgiu
+23, Fernando Boldrin, BRA, M, 1.81, 75, 23-02-89, Cravinhos, Steaua București
+25, Stéphane Badji, SEN, M, 1.80, 75, 29-05-90, Ziguinchor, Anderlecht
+28, Erdal Öztürk, GER, M, 1.72, 62, 07-02-96, Berlin, Bayern Munich
+33, Silviu Lung Jr., ROU, G, 1.89, 84, 04-06-89, Craiova, Astra Giurgiu
+39, Erkan Kaş, TUR, D, 1.83, 75, 10-09-91, Tokat, Sivasspor
+50, Oleksandr Kucher, UKR, D, 1.84, 77, 22-10-82, Kyiv, Shakhtar Donetsk
+76, Jean-Armel Kana-Biyik, CMR, D, 1.83, 86, 03-07-89, Metz, Toulouse
+89, Atila Turan, FRA, D, 1.76, 79, 10-04-92, Cheny, Reims
+91, William, BRA, M, 1.80, 70, 15-12-91, Ipatinga, FCSB
+98, Vedat Karakuş, TUR, G, 1.90, 80, 28-02-98, Şanlıurfa, Lüleburgazspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+55, Canberk Aydın, TUR, D, 1.70, 66, 16-03-94, Samsun, Denizlispor
+77, Ömer Kandemir, TUR, D, 1.73, 68, 03-07-93, Konak, Adana Demirspor (On Loan)
+63, Geoffrey Mujangi Bia, COD, M, 1.76, 71, 12-08-89, Kinshasa, Akhisar Belediyespor (On Loan)

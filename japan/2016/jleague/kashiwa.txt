@@ -1,0 +1,40 @@
+=  Kashiwa Reysol - Japanese J1 League 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kazushige Kirihata, JPN, G, 1.85, 77, 30-06-87, Yamanashi, None
+2, Jiro Kamata, JPN, D, 1.79, 77, 28-07-85, Tokyo, Vegalta Sendai
+4, Shinnosuke Nakatani, JPN, D, 1.80, 74, 24-03-96, Chiba, None
+5, Tatsuya Masushima, JPN, D, 1.80, 74, 22-04-85, Chiba, Kyoto Sanga
+6, Ryosuke Yamanaka, JPN, M, 1.68, 58, 20-04-93, Chiba, None
+7, Hidekazu Otani, JPN, M, 1.74, 67, 06-11-84, Chiba, None
+8, Akimi Barada, JPN, M, 1.70, 58, 30-05-91, Chiba, None
+9, Junya Tanaka, JPN, F, 1.80, 73, 15-07-87, Tokyo, Sporting CP
+10, Yuki Otsu, JPN, M, 1.80, 73, 24-03-90, Ibaraki, VVV Venlo
+11, Diego Oliveira, BRA, F, 1.81, 75, 22-06-90, Curitiba, Novorizontino
+14, Junya Ito, JPN, F, 1.76, 68, 09-03-93, Kanagawa, Ventforet Kofu
+15, Kosuke Taketomi, JPN, M, 1.75, 60, 23-09-90, Tokushima, None
+16, Koji Inada, JPN, G, 1.87, 82, 19-06-85, Osaka, Roasso Kumamoto
+17, Hiroki Akino, JPN, M, 1.76, 62, 08-10-94, Chiba, None
+19, Hiroto Nakagawa, JPN, M, 1.55, 48, 03-11-94, Saitama, None
+20, Juliano, BRA, M, 1.76, 73, 14-02-86, Rio de Janeiro, Chonburi
+21, Masato Yuzawa, JPN, D, 1.79, 73, 10-10-93, Ibarai, Ryutsu Keizai Univ
+22, Naoki Wako, JPN, D, 1.71, 65, 26-11-89, Toride, Mito HollyHock
+23, Kosuke Nakamura, JPN, G, 1.84, 72, 27-02-95, Tokyo, None
+25, Yusuke Kobayashi, JPN, M, 1.72, 60, 23-10-94, Saitama, None
+26, Tetsuro Ota, JPN, M, 1.76, 71, 02-07-89, Ibaraki, Montedio Yamagata
+27, Tomoki Imai, JPN, D, 1.78, 78, 29-11-90, Tokyo, Omiya Ardija
+28, Ryoichi Kurisawa, JPN, M, 1.70, 64, 05-09-82, Chiba, FC Tokyo
+29, Yuta Nakayama, JPN, D, 1.79, 73, 16-02-97, Saitama, None
+30, Kohei Tezuka, JPN, M, 1.76, 66, 06-04-96, Tochigi, None
+32, Haruhiko Takimoto, JPN, G, 1.90, 79, 20-05-97, Ibaraki, None
+33, Kaito Anzai, JPN, M, 1.72, 65, 19-02-98, Saitama, None
+34, Dudu, BRA, F, 1.72, 67, 24-02-96, Campo Grande, Cruzeiro
+35, Taiyo Koga, JPN, D, 1.82, 71, 28-10-98, Niigata, None
+37, Cristiano, BRA, F, 1.83, 83, 12-01-87, Campo Mourão, Ventforet Kofu
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Eduardo, BRA, D, 1.86, 77, 27-04-93, São Paulo, Kawasaki Frontale (On Loan)
+18, Éderson, BRA, F, 1.72, 74, 13-03-89, Pentecoste, Vasco da Gama (On Loan)
+31, Koki Oshima, JPN, F, 1.77, 66, 30-05-96, Saitama, Kataller Toyama (On Loan)

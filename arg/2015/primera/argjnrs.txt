@@ -1,0 +1,46 @@
+=  Argentinos Juniors - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Miguel Angel Torrén, ARG, D, 1.78, 73, 12-08-88, Villa Constitución, Cerro Porteño
+3, Ezequiel Garré, ARG, D, 1.70, 74, 10-11-81, Capital Federal, Almirante Brown
+4, Patricio Matrcardi, ARG, D, 1.89, 85, 07-01-94, Florencio Varela, None
+6, Nicolás Freire, ARG, D, 1.86, 80, 18-01-94, Santa Lucía, None
+7, Lautaro Rinaldi, ARG, F, 1.80, 75, 30-12-93, Acassuso, None
+8, Germán Basualdo, ARG, M, 1.67, 69, 07-03-84, Capital Federal, Almirante Brown
+9, Gonzalo Castillejos, ARG, F, 1.75, 70, 05-03-86, Leones, Lanús
+10, Luciano Cabral, ARG, M, 1.70, 70, 26-04-95, General Alvear, None
+11, Matías Gimenez, ARG, M, 1.80, 73, 20-02-83, Apóstoles, Águilas Pereira
+12, Adrián Gabbarini, ARG, G, 1.85, 78, 10-05-85, Guaymallén, Newell's Old Boys
+13, Mariano Almandoz, ARG, D, 1.77, 72, 10-01-93, Rauch, None
+14, Leandro Navarro, ARG, M, 1.83, 73, 16-04-92, Mar del Plata, San Lorenzo
+15, Maximiliano Freitas, URU, F, 1.79, 85, 04-03-91, Montevideo, Plaza Colonia
+16, Federico Gallego, URU, M, 1.77, 74, 13-06-90, Montevideo, Sud América
+17, Juan Sabia, ARG, D, 1.76, 76, 17-12-81, Pergamino, Vélez Sarsfield
+18, Lucas Rodríguez, ARG, D, 1.68, 65, 27-09-93, Capital Federal, None
+19, Reinaldo Lenis, COL, M, 1.80, 70, 20-07-92, Cali, None
+20, Sebastián Giovini, ARG, G, 1.86, 82, 28-02-90, La Laguna, None
+21, Nicolás Batista, ARG, D, 1.79, 75, 27-01-91, Capital Federal, None
+22, Ezequiel Ham, ARG, M, 1.73, 67, 10-03-94, Capital Federal, None
+23, Cristian Álvarez, ARG, D, 1.83, 73, 09-01-78, Capital Federal, San Martín (San Juan)
+24, Lucas Cano, ARG, F, 1.80, 76, 09-05-95, José C. Paz, None
+25, Joaquín Laso, ARG, D, 1.85, 79, 04-07-90, Balcarce, Sportivo Italiano
+26, Emiliano Agüero, ARG, M, 1.79, 69, 21-01-95, San Isidro, River Plate
+27, Franco Flores, ARG, D, 1.85, 80, 28-05-93, Pergamino, None
+28, Cristian Ledesma, ARG, M, 1.76, 75, 29-12-78, San Isidro, River Plate
+29, Andrés Franzoia, ARG, M, 1.79, 72, 21-10-85, San Pedro, Barcelona [ECU]
+30, Esteban Rolón, ARG, M, 1.78, 74, 25-03-95, Posadas, None
+31, Jonathan Rodríguez, ARG, F, 1.86, 83, 30-03-94, Marcos Juárez, None
+32, Lucas Chávez, ARG, G, 1.79, 72, 09-08-95, Martín Coronado, None
+34, Emiliano Trovento, ARG, M, 1.63, 60, 10-01-95, Martín Coronado, None
+36, Lautaro Mesa, ARG, F, 1.74, 73, 26-04-97, Ezeiza, None
+37, Nahuel Rodríguez, ARG, M, 1.67, 63, 18-03-96, Ciudadela, None
+38, Leonel Mosevich, ARG, D, 1.87, 81, 04-02-97, Lomas de Zamora, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Luís Ojeda, ARG, G, 1.80, 79, 21-03-90, Romang, Venados
+14, Martín Zapata, ARG, M, 1.66, 65, 18-12-79, Crespo, Central Córdoba (SdE)
+30, Juan Pablo Lemos, ARG, D, 1.83, 72, 22-05-93, Henderson, 
+15, Martín Alaníz, URU, M, 1.75, 67, 19-02-93, Melo, River Plate [URU]
+5, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Lanús, Granada

@@ -1,0 +1,48 @@
+=  Sion - Swiss Super League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Mitryushkin, RUS, G, 1.86, 79, 08-02-96, Krasnoyarsk, Spartak Moscow
+3, André, BRA, D, 1.86, 78, 24-11-86, Paraná, Schaffhausen
+4, Ivan Lurati, SUI, D, 1.90, 75, 05-10-97, , Chiasso
+5, Jan Bamert, SUI, D, 1.83, 75, 09-03-98, Zürich, Grasshoppers
+6, Paulo Ricardo, BRA, D, 1.86, 80, 13-07-94, Laguna, Santos
+7, Federico Dimarco, ITA, D, 1.75, 75, 10-11-97, Milan, Internazionale
+8, Freddy Mveng, CMR, M, 1.61, 57, 29-05-92, Maroua, Neuchâtel Xamax
+9, Ilombe "Pele" Mboyo, BEL, F, 1.90, 80, 27-04-87, Kinshasa, KRC Genk
+10, Carlitos, POR, M, 1.75, 72, 06-09-82, Lisbon, Estoril
+11, Kévin Constant, GUI, D, 1.84, 80, 15-05-87, Fréjus, Bologna
+13, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Olympiakos
+14, Anto Grgić, SUI, M, 1.88, 78, 28-11-96, Schlieren, Stuttgart
+15, Marco Schneuwly, SUI, F, 1.81, 82, 27-03-85, Wünnewil, Luzern
+16, Burim Kukeli, ALB, M, 1.80, 67, 16-01-84, Gjakova, Zürich
+17, Alex Succar, PER, F, 1.80, 78, 12-08-95, Lima, Sporting Cristal
+18, Kevin Fickentscher, SUI, G, 1.81, 78, 06-07-88, Nyon, La Chaux-de-Fonds
+19, Christian Zock, CMR, M, 1.90, 80, 06-05-94, Yaoundé, Schaffhausen
+20, Karim Bertelli, SUI, M, 1.85, 67, 27-03-99, Martigny, Martigny-Sports
+22, Robert Acquafresca, ITA, F, 1.84, 77, 11-09-87, Turin, Ternana
+23, Eray Cümart, SUI, D, 1.83, 80, 04-02-98, Basel, Basel
+24, Bastien Toma, SUI, M, 1.72, 64, 24-06-99, Sion, None
+27, Bruno Morgado, SUI, F, 1.76, 65, 16-12-97, Monthey, None
+28, Damien Buchard, SUI, G, 1.86, 74, 28-01-00, Martigny, None
+29, Martin Angha, SUI, D, 1.88, 81, 22-01-94, Zürich, St. Gallen
+31, Elsad Zverotić, MNE, D, 1.79, 75, 31-10-86, Berane, Fulham
+33, Ermir Lenjani, ALB, D, 1.75, 65, 05-08-89, Pristina, Rennes
+34, Birama Ndoye, SEN, M, 1.80, 74, 27-03-94, Dakar, None
+36, Laglais Kouassi, CIV, M, 1.73, 68, 28-12-89, San Pedro, New England Revolution
+45, Aimery Pinga, SUI, F, 1.85, 86, 06-01-98, Fribourg, Young Boys
+48, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Fenerbahçe
+62, Quentin Maceiras, SUI, D, 1.81, 75, 10-10-95, Sion, Naters
+70, Matheus Cunha, BRA, F, 1.84, 75, 27-05-99, João Pessoa, Coritiba
+94, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, Flamengo
+99, Noah Berchtold, SUI, G, 1.85, 84, 01-08-99, Visp, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Ambrosio Da Costa, POR, F, 1.80, 79, 17-05-99, Fully, Neuchâtel Xamax (On Loan)
+22, Daniel Follonier, SUI, M, 1.85, 78, 18-01-94, Sierre, Luzern
+14, Moussa Konaté, SEN, F, 1.83, 78, 03-04-93, M'Bour, Amiens
+50, Nicolas Lüchinger, SUI, D, 1.73, 68, 16-10-94, Oberriet, St. Gallen
+12, Grégory Karlen, SUI, F, 1.87, 79, 30-01-95, Sion, Thun (On Loan)
+28, Nikola Milosavljević, SUI, M, 1.79, 68, 24-04-96, , Winterthur (On Loan)
+66, Joaquim Adão, ANG, M, 1.78, 75, 14-07-92, Fribourg, Hearts (On Loan)

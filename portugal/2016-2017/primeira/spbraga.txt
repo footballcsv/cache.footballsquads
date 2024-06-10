@@ -1,0 +1,54 @@
+=  Sporting Braga - Portuguese Primeira Liga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Atlético Madrid
+3, Lazar Rosić, SRB, D, 1.86, 78, 29-06-93, Kragujevac, Vojvodina
+5, Rodrigo Battaglia, ARG, M, 1.83, 73, 12-07-91, Morón, Racing Club
+6, André Pinto, POR, D, 1.92, 85, 05-10-89, Vila Nova de Gaia, Panathinaikos
+7, Wilson Eduardo, POR, F, 1.76, 72, 08-07-90, Pedras Rubras, Sporting CP
+9, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Rio Ave
+10, Tomás Martínez, ARG, M, 1.71, 60, 07-03-95, Béccar, River Plate
+11, Fede Cartabia, ARG, M, 1.70, 65, 20-01-93, Rosario, Deportivo La Coruña
+13, Rodrigo Pinho, BRA, F, 1.85, 79, 30-05-91, Henstedt-Ulzburg, Madureira
+14, Rafael Assis, BRA, M, 1.70, 65, 31-10-90, Belo Horizonte, Chaves
+15, Baiano, BRA, D, 1.73, 65, 23-02-87, Correntina, Paços de Ferreira
+16, Djavan, BRA, D, 1.84, 72, 31-12-87, Serrinha, Corinthians Alagoano
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Benfica
+19, Nikola Stojiljković, SRB, F, 1.82, 75, 17-08-92, Belgrade, Čukarički
+21, Ricardo Horta, POR, F, 1.73, 61, 15-09-94, Almada, Málaga
+22, Paulinho, POR, D, 1.75, 68, 13-07-91, Santa Marinha, Chaves
+23, Pedro Santos, POR, F, 1.73, 65, 22-04-88, Lisbon, Vitória Setúbal
+24, Ricardo Ferreira, POR, D, 1.90, 85, 25-11-92, Mississisauga, Olhanense
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Paços de Ferreira
+30, Alan, BRA, F, 1.80, 72, 19-09-79, Rio de Janeiro, FC Porto
+35, Nikola Vukčević, MNE, M, 1.84, 74, 13-12-91, Podgorica, Budućnost Podgorica
+43, Bruno Wilson, POR, D, 1.92, 82, 27-12-96, Lisbon, Sporting CP
+44, Artur Jorge, POR, D, 1.86, 78, 14-08-94, Braga, None
+46, Mamadou Ndiaye, SEN, M, 1.88, 84, 30-12-96, Dakar, None
+63, Mauro, BRA, M, 1.78, 73, 31-10-90, Livramento, Grêmio Anápolis
+71, Pedro Neto, POR, F, 1.72, 62, 09-03-00, Viana do Castelo, None
+75, Bruno Xadas, POR, M, 1.79, 69, 02-12-97, Oliveira de Azeméis, Sanjoanense
+76, Tiago Sá, POR, G, 1.85, 78, 11-01-95, Braga, None
+79, Didi, POR, M, 1.77, 69, 03-02-94, Guimarães, Benfica
+82, Anthony D'Alberto, BEL, D, 1.78, 74, 13-10-94, Lubumbashi, VVV Venlo
+84, João Gamboa, POR, M, 1.87, 73, 31-08-96, Póvoa de Varzim, Benfica
+87, Marcelo Goiano, BRA, D, 1.74, 66, 13-10-87, Goiânia, Grêmio Anápolis
+92, Matheus Magalhães, BRA, G, 1.87, 76, 29-03-92, Belo Horizonte, América Mineiro
+97, Lucas Cunha, BRA, D, 1.86, 78, 23-01-97, Três Lagoas, Mirassol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Vincent Sasso, FRA, D, 1.90, 82, 16-02-91, Saint-Cloud, Sheffield W
+5, Willy Boly, FRA, D, 1.85, 81, 03-02-91, Melun, FC Porto
+18, Rafa, POR, M, 1.70, 66, 17-05-93, Barreiro, Benfica
+20, Tiago Gomes, POR, D, 1.75, 70, 29-07-86, Oeiras, Apollon Limassol (On Loan)
+22, Luis Aguiar, URU, M, 1.83, 81, 17-11-85, Mercedes, Alianza Lima
+20, Douglas Coutinho, BRA, F, 1.83, 71, 08-02-94, Volta Redonda, Atlético Paranaense
+26, Oscar Benítez, ARG, F, 1.83, 80, 14-01-93, Adrogué, Benfica
+85, Chidi Osuchukwu, NGA, M, 1.78, 73, 16-02-94, Benin City, Dinamo Brest
+11, Crislan, BRA, F, 1.86, 73, 13-03-92, Teresina, Vegalta Sendai (On Loan)
+25, Pedro Tiba, POR, M, 1.76, 74, 31-08-88, Arcos de Valdevez, Chaves (On Loan)
+57, Emmanuel Oti, GHA, F, 1.70, 65, 24-09-96, Akim Oda, Esbjerg (On Loan)
+8, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Alcorcón (On Loan)
+80, Xeka, POR, M, 1.86, 80, 10-11-94, Rebordosa, Lille (On Loan)

@@ -1,0 +1,31 @@
+=  UNAM - Mexican Liga MX 2021/2022 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alfredo Talavera, MEX, G, 1.88, 85, 18-09-82, La Barca, Toluca
+2, Alan Mozo, MEX, D, 1.75, 71, 05-04-97, Miguel Hidalgo, None
+6, Erik Lira, MEX, M, 1.72, 65, 08-05-00, Cuauhtémoc, Necaxa
+7, Sebastian Saucedo, USA, M, 1.70, 66, 22-01-97, San Fernando Valley, Real Salt Lake
+8, Higor Meritão, BRA, M, 1.86, 85, 23-06-94, Monte Alto, Ferroviária
+9, Juan Dinenno, ARG, F, 1.86, 82, 28-08-94, Rosario, Deportivo Cali
+10, Favio Álvarez, ARG, M, 1.84, 70, 23-01-93, Córdoba, Atlético Tucumán
+11, Carlos Gutiérrez, MEX, M, 1.77, 67, 05-02-99, Miguel Hidalgo, None
+12, Octavio Paz, MEX, G, 1.88, 91, 10-03-96, Oaxaca de Juárez, Tlaxcala
+13, Gerardo Moreno, MEX, F, 1.77, 66, 29-11-93, Tampico, Sonora
+14, Amaury García, MEX, M, 1.80, 74, 19-12-01, Tlalpan, None
+15, Alex Cruz, MEX, G, 1.95, 92, 01-05-99, Monterrey, Monterrey
+16, Jerónimo Rodríguez, MEX, D, 1.77, 61, 24-03-99, Mexico City, None
+17, Leonel López, MEX, M, 1.74, 65, 24-05-94, Zacoalco, Toluca
+18, Efraín Velarde, MEX, D, 1.73, 67, 18-04-86, Mexico City, Mazatlán
+20, Julio González, MEX, G, 1.83, 80, 23-04-91, Acapulco, Praviano
+21, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, Bahia
+22, Cristian Battocchio, ITA, M, 1.70, 71, 10-02-92, Rosario, Tokushima Vortis
+23, Nicolás Freire, ARG, D, 1.86, 80, 18-01-94, Santa Lucía, Torque
+25, Arturo Ortíz, MEX, D, 1.81, 73, 25-08-92, Monterrey, Univ de Guadalajara
+27, Emanuel Montejano, MEX, F, 1.75, 74, 12-07-01, Cuauhtémoc, None
+31, Washington Corozo, ECU, M, 1.80, 66, 09-07-98, Guayaquil, Sporting Cristal
+33, Diogo, BRA, F, 1.90, 83, 04-12-96, São Paulo, Plaza Colonia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Gabriel Torres, PAN, F, 1.80, 72, 13-10-88, Ciudad de Panamá, Universidad de Chile

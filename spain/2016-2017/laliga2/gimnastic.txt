@@ -1,0 +1,45 @@
+=  Gimnàstic de Tarragona - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manolo Reina, ESP, G, 1.85, 80, 01-04-85, Villaneuva del Trabuco, Atromitos
+2, Gerard Valentin, ESP, D, 1.76, 70, 28-07-93, Girona, Olot
+3, Mossa, ESP, D, 1.78, 66, 24-01-89, Valencia, Levante B
+4, Xavi Molina, ESP, M, 1.82, 77, 19-07-86, Tarragona, Atlético Baleares
+5, Iago Bouzón, ESP, D, 1.80, 74, 01-01-83, Redondela, Córdoba
+6, Wilfried Zahibo, FRA, M, 1.89, 77, 21-08-93, Marseille, Valencia B
+7, José Carlos, ESP, M, 1.77, 68, 17-07-87, Ríotinto, Llagostera
+8, Lévy Madinda, GAB, M, 1.82, 77, 11-06-92, Libreville, Celta Vigo
+9, Cristian Lobato, ESP, F, 1.74, 66, 07-03-89, Esparreguera, Asteras Tripolis
+10, Juan Muñiz, ESP, M, 1.78, 74, 13-03-92, Gijón, Sporting Gijón
+11, Álex López, ESP, F, 1.87, 75, 18-09-93, Barcelona, Valencia B
+12, Jean Luc Gbayara, CIV, F, 1.72, 67, 08-08-92, Lakota, La Pobla de Mafumet
+14, Ikechukwu Uche, NGA, F, 1.71, 74, 05-01-84, Aba, UANL Tigres
+15, Juan Delgado, CHI, F, 1.77, 71, 05-03-93, Chillán, Colo-Colo
+16, Bruno Perone, BRA, D, 1.91, 87, 06-07-87, São Paulo, Wilmington Hammerheads
+17, Luismi, ESP, M, 1.80, 76, 05-05-92, Jerez de la Frontera, Valladolid
+18, Daisuke Suzuki, JPN, D, 1.81, 69, 29-01-90, Tokyo, Kashiwa Reysol
+19, Amadou Boiro, SEN, M, , , 15-12-95, , Casa Sports
+20, Miguel Ángel Cordero, ESP, M, 1.79, 72, 10-09-87, Lebrija, AEK
+21, Ferran Giner, ESP, M, 1.76, 69, 27-09-88, Alboraya, Olímpic Xàtiva
+22, Manu Barreiro, ESP, F, 1.92, 81, 08-07-86, Santiago de Compostela, Alavés
+23, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Espanyol
+24, Mohamed Djetei, CMR, D, 1.82, 65, 18-08-94, Yaoundé, Union Douala
+25, Achille Emaná, CMR, M, 1.80, 77, 22-07-82, Yaoundé, Tokushima Vortis
+26, Rayco Rodríguez, ESP, M, 1.78, 64, 24-11-96, Las Palmas, La Pobla de Mafumet
+27, Stole Dimitrievski, MKD, G, 1.88, 80, 23-12-93, Kumanovo, Granada
+30, Stéphane Emaná, CMR, F, 1.81, 74, 17-06-94, Yaoundé, La Pobla de Mafumet
+33, José Perales, ESP, G, 1.85, 73, 25-05-93, Palma de Mallorca, La Pobla de Mafumet
+36, Marc Vadillo, ESP, D, , , 15-03-94, Tarragona, La Pobla de Mafumet
+37, Roger Bonet, ESP, D, 1.80, 72, 11-04-95, Valls, Olot
+38, Iván Vidal, ESP, F, , , 08-08-95, Reus, La Pobla de Mafumet
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Carlos García, ESP, M, 1.65, 56, 17-09-93, Seville, Atlético Sanluqueño (On Loan)
+13, Sebastián Saja, ARG, G, 1.88, 84, 05-06-79, La Plata, Zaragoza
+17, Moha, MAR, M, 1.81, 82, 15-09-93, Oujda, Olimpik Donetsk
+25, Otar Kakabadze, GEO, D, 1.85, 76, 27-06-95, Tbilisi, Esbjerg (On Loan)
+16, Elvir Maloku, CRO, F, 1.76, 65, 14-05-96, Rijeka, AEK Larnaca (On Loan)
+22, Alberto Lopo, ESP, D, 1.86, 81, 05-05-80, Barcelona, 
+29, Dani Ojeda, ESP, F, 1.77, 72, 03-12-94, Las Palmas, Lorca FC

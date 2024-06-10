@@ -1,0 +1,21 @@
+# Portuguese Primeira Liga 2014/15
+
+18 teams
+- [Académica](academ.txt)
+- [Arouca](arouca.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Estoril](estoril.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Nacional](nacional.txt)
+- [Paços de Ferreira](pacos.txt)
+- [Penafiel](penafiel.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

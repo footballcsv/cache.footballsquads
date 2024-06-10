@@ -1,0 +1,47 @@
+=  Benfica - Portuguese Primeira Liga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur, BRA, G, 1.92, 90, 25-01-81, Leme, Sporting Braga
+3, Roderick Miranda, POR, D, 1.93, 85, 30-03-91, Odivelas, None
+4, Luisão, BRA, D, 1.93, 95, 13-02-81, Amparo, Cruzeiro
+5, Luisinho, POR, M, 1.72, 61, 05-05-85, Porto, Paços de Ferreira
+7, Óscar Cardozo, PAR, F, 1.93, 87, 20-05-83, Campo 9, Newell's Old Boys
+10, Pablo Aimar, ARG, M, 1.70, 68, 03-11-79, Rio Cuarto, Zaragoza
+11, Lima, BRA, F, 1.79, 82, 11-05-83, Monte Alegre, Sporting Braga
+13, Paulo Lopes, POR, G, 1.84, 76, 29-06-78, Mirandela, Feirense
+14, Maximiliano Pereira, URU, D, 1.73, 70, 08-06-84, Montevideo, Defensor Sporting
+15, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, FC Twente
+16, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Espanyol
+17, Carlos Martins, POR, M, 1.72, 72, 29-04-82, Lisbon, Recreativo Huelva
+18, Eduardo Salvio, ARG, F, 1.73, 76, 13-05-90, Avellaneda, Atlético Madrid
+19, Rodrigo Moreno, ESP, F, 1.80, 74, 06-03-91, Rio de Janeiro, Real Madrid B
+20, Nicolás Gaitán, ARG, M, 1.73, 67, 23-02-88, San Martín, Boca Juniors
+21, Nemanja Matić, SRB, M, 1.94, 82, 01-08-88, Šabac, Chelsea
+23, Jonathan Urretavizcaya, URU, F, 1.74, 62, 19-03-90, Montevideo, River Plate [URU]
+24, Ezequiel Garay, ARG, D, 1.89, 83, 10-10-86, Rosario, Real Madrid
+25, Lorenzo Melgarejo, PAR, F, 1.78, 71, 10-08-90, Loma Grande, Independiente FBC
+27, Miguel Vítor, POR, D, 1.83, 80, 30-06-89, Torres Vedras, None
+31, Alan Kardec, BRA, F, 1.85, 78, 12-01-89, Barra Mansa, Vasco da Gama
+32, Diogo Rosado, POR, M, 1.85, 74, 21-02-90, Peniche, Blackburn R
+33, Jardel, BRA, D, 1.92, 85, 29-03-86, Florianópolis, Desportivo Brasil
+34, André Almeida, POR, D, 1.86, 75, 10-09-90, Lisbon, Belenenses
+35, Enzo Pérez, ARG, M, 1.77, 71, 22-02-86, Mendoza, Estudiantes (LP)
+39, Mika, POR, G, 1.95, 90, 08-03-91, Yverdon-les-Bains, União de Leiria
+40, Michel, BRA, F, 1.82, 79, 22-08-86, Rio de Janeiro, Paços de Ferreira
+50, João Cancelo, POR, D, 1.80, 66, 27-05-94, Barreiro, None
+65, Fábio Cardoso, POR, D, 1.86, 75, 19-04-94, Águeda, None
+75, Sidnei, BRA, D, 1.85, 80, 23-08-89, Alegrete, Internacional
+77, Miguel Rosa, POR, M, 1.78, 67, 13-01-89, Lisbon, None
+89, André Gomes, POR, M, 1.88, 83, 30-07-93, Porto, Boavista
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Javier Saviola, ARG, F, 1.68, 61, 11-12-81, Bajo Belgrano, Málaga
+6, Javi García, ESP, M, 1.86, 78, 08-02-87, Murcia, Manchester C
+12, Yannick Djaló, POR, F, 1.71, 60, 05-05-86, Bissau, Toulouse (On Loan)
+28, Axel Witsel, BEL, M, 1.86, 73, 12-01-89, Liège, Zenit St Petersburg
+36, Luís Martins, POR, D, 1.76, 65, 10-06-92, Lamego, Gil Vicente
+8, Bruno César, BRA, M, 1.78, 73, 03-11-88, Santa Bárbara d'Oeste, Al-Ahli [KSA]
+70, Hugo Vieira, POR, F, 1.78, 72, 25-07-88, Barcelos, Gil Vicente (On Loan)
+9, Nolito, ESP, F, 1.72, 65, 15-10-86, Sanlúcar de Barrameda, Granada (On Loan)

@@ -1,0 +1,52 @@
+=  Internacional - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dida, BRA, G, 1.95, 85, 07-10-73, Irarà, Grêmio
+2, Léo, BRA, D, 1.71, 62, 03-10-91, Salvador, Flamengo
+3, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Atlético Mineiro
+4, Juan, BRA, D, 1.82, 78, 01-02-79, Rio de Janeiro, Roma
+5, Nicolás Freitas, URU, M, 1.83, 77, 08-06-87, Montevideo, Montevideo Wanderers
+6, William, BRA, D, 1.76, 68, 03-04-95, Pelotas, None
+8, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, Manchester U
+9, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, None
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, San Lorenzo
+11, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Fluminense
+12, Alex, BRA, M, 1.75, 71, 25-03-82, Cornélio Procópio, Al-Gharafa
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, None
+14, Ernando, BRA, D, 1.84, 75, 14-07-88, Formosa, Goiás
+17, Lisandro López, ARG, F, 1.75, 74, 02-03-83, Rafael Obligado, Al-Gharafa
+19, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Cruzeiro
+21, Vitinho, BRA, F, 1.78, 69, 09-10-93, Rio de Janeiro, CSKA Moscow
+22, Alisson Becker, BRA, G, 1.93, 91, 02-10-92, Novo Hamburgo, None
+24, Geferson, BRA, D, 1.82, 75, 13-05-94, Lauro de Freitas, None
+25, Paulão, BRA, D, 1.87, 82, 25-02-86, Bahia, Guangzhou Evergrande
+26, Alan Costa, BRA, D, 1.94, 82, 31-10-90, Araraquara, Ferroviária
+27, Alisson Farias, BRA, M, 1.71, 67, 07-04-96, Lages, Atlético Paranaense
+28, Taiberson, BRA, F, 1.72, 74, 18-11-93, Alegrete, Atlético Paranaense
+29, Valdívia, BRA, M, 1.74, 70, 04-10-94, Jaciara, None
+30, Muriel, BRA, G, 1.89, 78, 14-02-87, Novo Hamburgo, None
+32, Matheus Bertotto, BRA, M, 1.89, 79, 15-06-93, Porto Alegre, Resende
+33, Artur, BRA, D, 1.78, 75, 05-08-94, Rondon do Pará, JV Lideral
+34, Bruno Baio, BRA, F, 1.97, 89, 03-10-95, Cosmopólis, None
+35, Bruno Gomes, BRA, F, 1.80, 73, 19-07-96, São Paulo, Desportivo Brasil
+36, Silva, BRA, M, 1.83, 81, 07-09-95, Paraibano, None
+37, Silas, BRA, M, 1.76, 72, 30-05-96, Progresso, None
+38, Eduardo, BRA, D, 1.87, 85, 13-02-96, Estancia Velha, None
+39, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, None
+40, Lucas Marques, BRA, M, 1.76, 63, 24-05-95, Osasco, None
+41, Wellington, BRA, M, 1.73, 70, 28-01-91, São Paulo, São Paulo
+42, Jacsson, BRA, G, 1.89, 82, 12-03-94, Getúlio Vargas, None
+43, Zé Márío, BRA, M, 1.75, 70, 20-02-92, Medianeira, None
+44, Andrigo, BRA, F, 1.70, 71, 27-02-95, Estrela, None
+45, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Metalist Kharkiv
+46, Gustavinho, BRA, F, 1.75, 69, 02-07-96, Crixás, Vila Nova
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Charles Aránguiz, CHI, M, 1.72, 67, 17-04-89, Santiago, Bayer Leverkusen
+15, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Verona (On Loan)
+7, Nilmar, BRA, F, 1.80, 70, 14-07-84, Bandeirantes, Al-Nasr [UAE]
+23, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Vasco da Gama
+16, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Atlético Paranaense (On Loan)
+18, Martín Luque, ARG, M, 1.76, 65, 01-03-93, Las Varillas, Peñarol (On Loan)

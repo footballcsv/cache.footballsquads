@@ -1,0 +1,57 @@
+=  Santos - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Douglas, BRA, G, 1.88, 80, 09-03-83, Ribeirao Preto, Sertãozinho
+, Fábio Costa, BRA, G, 1.87, 84, 27-11-77, Camaçari, Corinthians
+, Felipe, BRA, G, 1.90, 79, 10-01-88, São Vicente, None
+, Adailton, BRA, D, 1.90, 82, 14-04-83, Salvador, Rennes
+, Anderson Salles, BRA, D, 1.78, 73, 16-02-88, Araçariguama, None
+, Domingos, BRA, D, 1.81, 80, 12-12-85, Nazaré das Farinhas, Grêmio
+, Fabão, BRA, D, 1.87, 79, 15-06-76, Vera Cruz, Kashima Antlers
+, Fabiano, BRA, D, 1.69, 64, 01-09-82, Aracaju, Itabaiana
+, Fabiano Eller, BRA, D, 1.83, 84, 19-11-77, Linhares, Atlético Madrid
+, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, São Paulo
+, Filipi Souza, BRA, D, 1.74, 68, 27-07-87, Campinas, None
+, Kléber, BRA, D, 1.81, 72, 01-04-80, São Paulo, Basel
+, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Santo André
+, Thiago Carleto, BRA, D, 1.72, 68, 24-03-89, São Bernardo do Campo, None
+, Vinícius Simon, BRA, D, 1.84, 74, 17-11-86, São Paulo, None
+, Adoniran, BRA, M, 1.72, 71, 12-12-85, Santa Bárbara d'Oeste, Ituano
+, Adriano, BRA, M, 1.70, 65, 29-05-87, São Vicente, None
+, Bida, BRA, M, 1.82, 78, 02-08-84, Itajuípe, Vitória-BA
+, Dionísio, BRA, M, 1.69, 67, 18-01-88, São Bernardo, None
+, Húdson, BRA, M, 1.79, 68, 30-01-88, Juiz de Fora, None
+, Mauricio Molina, COL, M, 1.77, 75, 30-04-80, Medellín, Crvena Zvezda
+, Michael, BRA, M, 1.74, 73, 16-02-83, São Caetano do Sul, Dynamo Kiev
+, Michael Quiñónez, ECU, M, 1.78, 75, 21-06-84, Pedro Carbo, ESPOLI
+, Patrik, BRA, M, 1.77, 69, 12-03-88, Franca, None
+, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, None
+, Rodrigo Souto, BRA, M, 1.81, 75, 09-09-83, Rio de Janeiro, Figueirense
+, Roberto Brum, BRA, M, 1.76, 72, 07-07-78, São Gonçalo, Sporting Braga
+, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Mogi-Mirim
+, Wendel, BRA, M, 1.78, 75, 08-10-81, Itapetinga, Palmeiras
+, Wesley, BRA, M, 1.79, 63, 24-06-87, Catanduva, None
+, Nelson Cuevas, PAR, F, 1.75, 70, 10-01-80, Asunción, Libertad
+, Fabiano, BRA, F, 1.84, 79, 25-07-84, Américo Brasiliense, Sport Recife
+, Kléber Pereira, BRA, F, 1.80, 80, 13-08-75, Peri-Mirim, América
+, Lima, BRA, F, 1.79, 82, 11-05-83, Monte Alegre, Astral
+, Maikon Leite, BRA, F, 1.68, 62, 03-08-88, Mogi das Cruzes, Santo André
+, Reginaldo, BRA, F, 1.66, 60, 04-02-82, Buri, Sport Recife
+, Tiago Luís, BRA, F, 1.76, 74, 13-03-89, Ribeirão Preto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Moraes, BRA, F, 1.76, 70, 04-04-87, Santos, Ponte Preta (On Loan)
+, Dênis, BRA, D, 1.79, 68, 21-09-83, Ipatinga, Corinthians
+, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Cruzeiro (On Loan)
+, Betão, BRA, D, 1.81, 78, 11-11-83, São Paulo, Dynamo Kiev
+, Alemão, BRA, F, 1.85, 71, 02-03-89, Valinhos, Udinese
+, Vítor Júnior, BRA, M, 1.67, 63, 15-09-86, Porto Alegre, Kawasaki Frontale (On Loan)
+, Renatinho, BRA, F, 1.73, 65, 14-05-87, São Vicente, Kawasaki Frontale
+, Rodrigo Tabata, BRA, M, 1.71, 69, 19-11-80, Araçatuba, Gaziantepspor
+, Evaldo, BRA, D, 1.94, 84, 04-01-83, Janauba, FC Tokyo
+, Marcinho Guerreiro, BRA, M, 1.78, 70, 23-09-80, Novo Horizonte, Arsenal Kiev
+, Mariano Trípodi, ARG, F, 1.81, 76, 03-07-87, Buenos Aires, Vitória-BA (On Loan)
+, Marcelo, BRA, D, 1.91, 88, 20-05-87, São Vicente, Wisła Kraków
+, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Cruzeiro

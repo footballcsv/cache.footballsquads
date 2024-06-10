@@ -1,0 +1,54 @@
+=  São Paulo - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jean, BRA, G, 1.87, 86, 26-10-95, Salvador, Bahia
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, None
+4, Anderson Martins, BRA, D, 1.83, 78, 21-08-87, Fortaleza, Vasco da Gama
+5, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+8, Jucilei, BRA, M, 1.85, 76, 06-04-88, São Gonçalo, Shandong Luneng
+9, Diego Souza, BRA, F, 1.86, 89, 17-06-85, Rio de Janeiro, Sport Recife
+10, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Vasco da Gama
+12, Sidão, BRA, G, 1.89, 88, 24-12-82, São Paulo, Audax
+14, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+15, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Roma
+16, Edimar, BRA, D, 1.80, 70, 21-05-86, Cachoeiro de Itapemirim, Cruzeiro
+17, Santiago Tréllez, COL, F, 1.85, 76, 17-01-90, Medellín, Vitória
+18, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, Sport Recife
+19, Gonzalo Carneiro, URU, F, 1.91, 81, 12-09-95, Montevideo, Defensor Sporting
+20, Shaylon, BRA, F, 1.80, 70, 27-04-97, Modelo, None
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, Flamengo
+23, Joao Rojas, ECU, F, 1.73, 65, 14-06-89, El Triunfo, Cruz Azul
+25, Hudson, BRA, M, 1.79, 68, 30-01-88, Juiz de Fora, Botafogo-SP
+26, Igor Gomes, BRA, M, 1.82, 73, 17-03-99, São José do Rio Preto, None
+27, Luan, BRA, M, 1.75, 81, 14-05-99, São Paulo, None
+28, Araruna, BRA, M, 1.76, 70, 12-03-96, Porto Alegre, None
+29, Pedro Bortoluzo, BRA, F, 1.86, 78, 17-07-96, Fernandópolis, None
+30, Brenner, BRA, F, 1.75, 70, 16-01-00, Cuiabá, None
+31, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, None
+32, Rodrigo, BRA, D, 1.89, 74, 17-06-98, Salvador, None
+34, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, Figueirense
+35, Paulo Henrique, BRA, M, 1.76, 72, 26-08-97, Cândido Mota, None
+36, Caique, BRA, D, 1.73, 67, 14-06-98, Campinas, None
+37, Helinho, BRA, M, 1.75, 66, 25-04-00, Sertãozinho, None
+38, Tuta, BRA, D, 1.84, 75, 04-07-99, São Paulo, None
+39, Antony, BRA, F, 1.72, 63, 24-02-00, Osasco, None
+40, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, None
+41, Lucas Paes, BRA, G, 1.93, 86, 07-12-97, São Bernardo do Campo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Aderlan Santos, BRA, D, 1.93, 83, 09-04-89, Salgueiro, Valencia
+23, Marcos Guilherme, BRA, M, 1.72, 62, 05-08-95, Itararé, Atlético Paranaense
+21, Valdívia, BRA, M, 1.74, 70, 04-10-94, Jaciara, Internacional
+6, Petros, BRA, M, 1.82, 78, 29-05-89, Juazeiro, Al-Nassr
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Bahia
+10, Christian Cueva, PER, M, 1.69, 63, 23-11-91, Huamachuco, FC Krasnodar
+22, Júnior Tavares, BRA, D, 1.78, 80, 07-08-96, Porto Alegre, Sampdoria (On Loan)
+7, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Re-Registered (10)
+13, Éder Militão, BRA, D, 1.86, 79, 18-01-98, Sertãozinho, FC Porto
+38, Morato, BRA, F, 1.70, 68, 01-09-92, Mogi Mirim, Sport Recife (On Loan)
+11, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, Portimonense (On Loan)
+26, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, Portimonense (On Loan)
+29, Guilherme Bissoli, BRA, F, 1.75, 74, 09-01-98, Jaú, De-Registered
+33, Régis, BRA, D, 1.79, 75, 03-06-89, Brasília, 

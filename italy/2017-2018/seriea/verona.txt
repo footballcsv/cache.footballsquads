@@ -1,0 +1,48 @@
+=  Verona - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Atlético Mineiro
+2, Rômulo, BRA, M, 1.78, 72, 22-05-87, Pelotas, Fiorentina
+4, Simon Laner, ITA, M, 1.83, 80, 28-01-84, Merano, AlbinoLeffe
+6, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Milan
+7, Daniele Verde, ITA, F, 1.68, 64, 20-06-96, Naples, Roma
+8, Marco Ezio Fossati, ITA, M, 1.80, 73, 05-10-92, Monza, Cagliari
+9, Moise Kean, ITA, F, 1.82, 72, 28-02-00, Vercelli, Juventus
+10, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Atlético Madrid
+12, Antonio Caracciolo, ITA, D, 1.85, 83, 30-06-90, Tempio Pausania, Brescia
+14, Franco Zuculini, ARG, M, 1.76, 68, 05-09-90, La Rioja, Bologna
+16, Rolando Aarons, ENG, M, 1.75, 67, 16-11-95, Kingston, Newcastle U
+17, Marco Silvestri, ITA, G, 1.91, 80, 02-03-91, Castelnovo ne' Monti, Leeds U
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Bellaria
+21, Lee Seung-Woo, KOR, F, 1.73, 63, 06-01-98, Suwon, Barcelona B
+22, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Internazionale
+23, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Milan
+25, Deian Boldor, ROU, D, 1.89, 79, 03-02-95, Timişoara, Bologna
+26, Jagoš Vuković, SRB, D, 1.95, 93, 10-06-88, Vrbas, Olympiakos
+27, Mattia Valoti, ITA, M, 1.87, 73, 06-09-93, Vicenza, AlbinoLeffe
+28, Alex Ferrari, ITA, D, 1.83, 70, 01-07-94, Modena, Bologna
+29, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Catania
+30, Ryder Matos, BRA, F, 1.80, 71, 27-02-93, Seabra, Udinese
+33, Marash Kumbulla, ALB, D, 1.85, 78, 08-02-00, Peschiera del Garda, None
+37, Enrico Bearzotti, ITA, F, 1.80, 70, 29-10-96, Palmanova, Pordenone
+40, Ferdinando Coppola, ITA, G, 1.88, 86, 10-06-78, Naples, Bologna
+69, Samuel Souprayen, FRA, D, 1.87, 70, 18-02-89, Saint-Benoît, Dijon
+70, Bruno Petković, CRO, F, 1.93, 90, 16-09-94, Metković, Bologna
+72, Andrea Danzi, ITA, M, 1.75, 70, 25-02-99, San Martino Buon Albergo, None
+75, Thomas Heurtaux, FRA, D, 1.83, 78, 03-07-88, Lisieux, Udinese
+77, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Empoli
+81, Nicola Borghetto, ITA, G, 1.88, 75, 25-11-99, Jesolo, Belluno
+93, Mohamed Fares, ALG, F, 1.83, 75, 15-02-96, Aubervilliers, Bordeaux
+97, Gianfilippo Felicioli, ITA, D, 1.80, 77, 30-09-97, San Severino Marche, Milan
+98, Simon Štefanec, SVK, M, 1.78, 73, 05-09-98, Žilina, Slovan Bratislava
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Riccardo Brosco, ITA, D, 1.91, 78, 03-02-91, Rome, Carpi (On Loan)
+26, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Lazio
+5, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, River Plate
+19, Alejandro González, URU, D, 1.84, 78, 23-03-88, Montevideo, Perugia (On Loan)
+3, Nicolò Cherubin, ITA, D, 1.88, 80, 02-12-86, Vicenza, Ascoli (On Loan)
+11, Giampaolo Pazzini, ITA, F, 1.80, 77, 02-08-84, Pescia, Levante (On Loan)
+24, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Genoa (On Loan)

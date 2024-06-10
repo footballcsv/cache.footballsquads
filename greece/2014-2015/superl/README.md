@@ -1,0 +1,21 @@
+# Greek Super League 2014/15
+
+18 teams
+- [Asteras Tripolis](asteras.txt)
+- [Atromitos](atromit.txt)
+- [Ergotelis](ergotelis.txt)
+- [Kalloni](kalloni.txt)
+- [Kerkyra](kerkyra.txt)
+- [Levadiakos](levadiak.txt)
+- [Niki Volos](nikivolos.txt)
+- [OFI](ofi.txt)
+- [Olympiakos](olympiak.txt)
+- [Panathinaikos](panathin.txt)
+- [Panetolikos](panetol.txt)
+- [Panionios](panion.txt)
+- [Panthrakikos](panthrak.txt)
+- [PAOK](paok.txt)
+- [PAS Giannina](pasgian.txt)
+- [Platanias](platanias.txt)
+- [Skoda Xanthi](xanthi.txt)
+- [Veria](veria.txt)

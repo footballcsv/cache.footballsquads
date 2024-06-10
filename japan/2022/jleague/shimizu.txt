@@ -1,0 +1,52 @@
+=  Shimizu S-Pulse - Japanese J1 League 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Takuo Okubo, JPN, G, 1.90, 92, 18-09-89, Koto, Sagan Tosu
+2, Yugo Tatsuta, JPN, D, 1.89, 75, 21-06-98, Shizuoka, None
+3, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Flamengo
+4, Teruki Hara, JPN, M, 1.78, 70, 30-07-98, Saitama, Sagan Tosu
+5, Valdo, BRA, D, 1.83, 77, 10-02-92, Aracaju, Ceará
+6, Ryo Takeuchi, JPN, M, 1.73, 66, 08-03-91, Hamamatsu, None
+7, Eiichi Katayama, JPN, D, 1.80, 77, 30-11-91, Saitama, Cerezo Osaka
+8, Daiki Matsuoka, JPN, M, 1.70, 65, 01-06-01, Kumamoto, Oita Trinita
+9, Thiago Santana, BRA, F, 1.84, 81, 04-02-93, Serrinha, Santa Clara
+10, Carlinhos Junior, BRA, F, 1.74, 71, 08-08-94, Rio de Janeiro, Lugano
+11, Katsuhiro Nakayama, JPN, M, 1.77, 65, 17-07-96, Kanagawa, Yokohama FC
+13, Kota Miyamoto, JPN, M, 1.76, 71, 19-06-96, Shizuoka, None
+14, Yusuke Goto, JPN, F, 1.70, 64, 23-04-93, Kanoya, Oita Trinita
+15, Takeru Kishimoto, JPN, F, 1.74, 66, 16-07-97, Nara, Tokushima Vortis
+16, Kenta Nishizawa, JPN, M, 1.71, 67, 06-09-96, Shizuoka, Tsukuba Univ
+17, Yuta Kamiya, JPN, M, 1.76, 67, 24-04-97, Yamagata, Kashiwa Reysol
+18, Ryohei Shirasaki, JPN, F, 1.80, 67, 18-05-93, Chofu, Kashima Antlers
+20, Oh Se-Hun, KOR, F, 1.93, 85, 15-01-99, Incheon, Ulsan Hyundai
+21, Shuichi Gonda, JPN, G, 1.87, 82, 03-03-89, Tokyo, Portimonense
+22, Renato Augusto, BRA, M, 1.72, 68, 29-01-92, Caieiras, Palmeiras
+23, Yuito Suzuki, JPN, F, 1.75, 66, 25-10-01, Kanagawa, Funabashi Municipal HS
+25, Kengo Nagai, JPN, G, 1.84, 80, 06-11-94, Saitama, Matsumoto Yamaga
+26, Yuta Taki, JPN, M, 1.67, 56, 29-08-99, Shizuoka, None
+27, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Fortaleza
+29, Reon Yamahara, JPN, D, 1.64, 65, 08-06-99, Kyoto, Tsukuba Univ
+31, Togo Umeda, BRA, G, 1.84, 79, 23-07-00, Shizuoka, None
+32, Benjamin Kololli, KVX, M, 1.80, 76, 15-05-92, Aigle, Zürich
+33, Takashi Inui, JPN, M, 1.69, 59, 02-06-88, Ōmihachiman, Cerezo Osaka
+34, Taketo Ochiai, JPN, D, 1.85, 80, 27-04-00, Niigata, Hosei Univ
+35, Sena Saito, JPN, F, 1.71, 66, 21-11-00, Yokohama, Ryutsu Keizai Univ
+37, Daigo Takahashi, JPN, F, 1.63, 53, 17-04-99, Kagoshima, Kamimura Gakuen HS
+38, Akira Ibayashi, JPN, D, 1.79, 70, 05-09-90, Hiroshima, Sanfrecce Hiroshima
+41, Fugetsu Kitamura, JPN, G, 1.84, 74, 06-12-05, Tokyo, Tokyo Verdy
+42, Aoi Ando, JPN, F, 1.65, 56, 04-01-05, Chiba, None
+43, Riku Yamada, JPN, M, 1.70, 62, 15-05-04, Shizuoka, None
+44, Ryunosuke Yada, JPN, M, 1.72, 65, 30-09-06, Hokkaido, None
+45, Koya Kitagawa, JPN, F, 1.78, 75, 26-07-96, Shizuoka, Rapid Vienna
+50, Yoshinori Suzuki, JPN, D, 1.84, 72, 11-09-92, Miyazaki, Oita Trinita
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Kanta Chiba, JPN, F, 1.78, 69, 17-06-03, Shizuoka, FC Imabari (On Loan)
+49, Takumi Kato, JPN, F, 1.80, 84, 16-07-99, Ryugasaki, SC Sagamihara (On Loan)
+19, Akira Silvano Disaro, JPN, F, 1.75, 72, 02-04-96, Tokyo, Montedio Yamagata (On Loan)
+36, Ibrahim Junior Kuribara, JPN, F, 1.90, 88, 14-08-01, Saitama, Fukushima U (On Loan)
+24, Shuta Kikuchi, JPN, D, 1.80, 68, 16-08-03, Shizuoka, V-Varen Nagasaki (On Loan)
+39, Nagi Kawatani, JPN, M, 1.78, 69, 06-07-03, Ibaraki, Iwaki FC (On Loan)
+40, Hikaru Naruoka, JPN, M, 1.70, 56, 28-07-02, Shizuoka, Renofa Yamaguchi (On Loan)

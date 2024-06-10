@@ -1,0 +1,51 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+2, Ezequiel, BRA, D, 1.79, 71, 22-02-93, Treze de Mario, Criciúma
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+4, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, None
+5, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Vélez Sarsfield
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Palmeiras
+7, Rafael Sóbis, BRA, F, 1.72, 73, 17-06-85, Erechim, UANL Tigres
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Atlético Mineiro
+10, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Defensor Sporting
+11, David, BRA, F, 1.79, 71, 17-10-95, Vitória, Vitória
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+14, Cacá, BRA, D, 1.85, 80, 25-04-99, Visconde do Rio Branco, None
+15, Patrick Brey, BRA, D, 1.77, 66, 05-06-97, Brasília, Tupi
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Real Madrid
+17, Raniel, BRA, F, 1.81, 76, 11-06-96, Recife, Santa Cruz
+18, Rafinha, BRA, M, 1.67, 61, 04-08-83, Guarulhos, Al-Shabab
+19, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Palmeiras
+20, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Botafogo
+21, Federico Mancuello, ARG, M, 1.77, 75, 26-03-89, Reconquista, Flamengo
+22, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Grêmio
+25, Marcelo Hermes, BRA, D, 1.77, 68, 02-01-95, Sarandi, Benfica
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+27, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Atlético Paranaense
+28, Hernán Barcos, ARG, F, 1.88, 75, 11-04-84, Bell Ville, LDU Quito
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, Vélez Sarsfield
+30, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Al-Jazira
+31, Juninho, BRA, F, 1.79, 70, 17-01-98, Ribeirão Preto, None
+32, Laércio, BRA, M, , , 17-11-98, , None
+34, Gustavo Rissi, BRA, D, 1.82, 72, 04-02-98, , None
+36, Rafael Santos, BRA, D, 1.80, 78, 05-02-98, Curitiba, Mirassol
+37, Michel, BRA, M, 1.76, 70, 23-12-99, Nova Lima, None
+39, Vitor Eudes, BRA, G, 1.95, 85, 21-10-98, Belo Horizonte, None
+40, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, None
+41, Alejandro, BRA, F, , , 13-02-02, , None
+43, Pedro Bicalho, BRA, M, 1.78, 73, 23-04-01, São José dos Campos, None
+44, David Andrade, BRA, M, , , 04-02-00, , None
+99, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Rafael Marques, BRA, F, 1.90, 80, 27-05-83, Araraquara, Sport Recife
+28, Digão, BRA, D, 1.87, 85, 07-05-88, Duque de Caxias, Fluminense (On Loan)
+34, Vitinho, BRA, D, 1.75, 72, 23-07-99, Belo Horizonte, Cercle Brugge
+32, Arthur Henrique, BRA, D, 1.88, 83, 17-06-99, Belo Horizonte, Nacional [POR] (On Loan)
+38, Victor Luiz, BRA, D, 1.77, 74, 05-12-97, Belo Horizonte, Londrina (On Loan)
+37, Lucas França, BRA, G, 1.94, 83, 19-01-96, São Paulo, Nacional [POR] (On Loan)

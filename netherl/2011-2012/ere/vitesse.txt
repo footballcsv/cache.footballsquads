@@ -1,0 +1,56 @@
+=  Vitesse - Dutch Eredivisie 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eloy Room, NED, G, 1.89, 79, 06-02-89, Nijmegen, Union
+2, Tomáš Kalas, CZE, D, 1.84, 71, 15-05-93, Olomouc, Chelsea
+3, Raio Piiroja, EST, D, 1.90, 80, 11-07-79, Pärnu, Fredrikstad
+4, Jan-Arie van der Heijden, NED, M, 1.82, 70, 03-03-88, Schoonhoven, Ajax
+5, Alexander Büttner, NED, D, 1.76, 72, 11-02-89, Doetinchem, Ajax
+6, Frank van der Struijk, NED, D, 1.83, 69, 28-03-85, Boxtel, Willem II
+7, Nicky Hofs, NED, M, 1.70, 70, 17-05-83, Arnhem, AEL Limassol
+8, Marco van Ginkel, NED, M, 1.80, 67, 01-12-92, Amersfoort, None
+9, Wilfried Bony, CIV, F, 1.82, 80, 10-12-88, Bingerville, Sparta Prague
+10, Davy Pröpper, NED, M, 1.85, 72, 02-09-91, Arnhem, None
+11, Giorgi Chanturia, GEO, F, 1.82, 73, 11-04-93, Tbilisi, Barcelona
+13, Jonathan Reis, BRA, F, 1.82, 82, 06-06-89, Contagem, PSV Eindhoven
+14, Mike Havenaar, JPN, F, 1.94, 81, 20-05-87, Hiroshima, Ventforet Kofu
+15, Patrick van Aanholt, NED, D, 1.75, 67, 29-08-90, 's-Hertogenbosch, Chelsea
+16, Michihiro Yasuda, JPN, M, 1.73, 65, 20-12-87, Osaka, Gamba Osaka
+18, Valeri Kazaishvili, GEO, F, 1.83, 74, 29-01-93, Ozurgeti, Olimpi Rustavi
+20, Anthony Annan, GHA, M, 1.75, 68, 21-07-86, Accra, Schalke
+21, Marko Meerits, EST, G, 1.86, 84, 26-04-92, Tallinn, Flora Tallinn
+22, Piet Velthuizen, NED, G, 1.89, 88, 03-11-86, Nijmegen, Hércules
+23, Stanley Aborah, BEL, M, 1.70, 72, 23-06-87, Kumasi, Cappellen
+24, Ulises Dávila, MEX, F, 1.72, 62, 29-08-91, Guadalajara, Chelsea
+25, Jeroen Drost, NED, D, 1.83, 78, 21-01-87, Kampen, SC Heerenveen
+26, Kevin van Diermen, NED, D, 1.86, 81, 03-07-89, Spakenburg, None
+27, Julian Jenner, NED, F, 1.87, 73, 28-02-84, Delft, AZ Alkmaar
+28, Sebastiaan van der Sman, NED, G, 1.88, 86, 23-07-88, Arnhem, ESA
+29, Mart Lieder, NED, F, 1.80, 75, 01-05-90, Purmerend, vpv Purmersteijn
+30, Renato Ibarra, ECU, M, 1.80, 70, 20-01-91, Ambuquí, El Nacional
+31, Ryan Bouwmeester, NED, M, , , 25-02-92, Arnhem, Feyenoord
+32, Raynick Damasco, NED, D, , , 07-03-91, Amsterdam, None
+33, Anderson, BRA, D, 1.78, 72, 10-06-92, Rio de Janeiro, Flamengo
+34, Sander van der Streek, NED, M, 1.80, 74, 24-03-93, Barneveld, SDV Barneveld
+35, Hamza Tagherbit, NED, F, , , 01-10-92, , None
+36, Ifran Hadžić, BIH, F, 1.91, , 15-06-93, , Zulte-Waregem
+37, Guram Kashia, GEO, D, 1.86, 78, 04-07-87, Tbilisi, Dinamo Tbilisi
+38, Gregory Viereck, NED, F, , , 29-09-92, Amsterdam, None
+39, Wimilio Vink, NED, M, 1.73, 68, 13-09-93, Tiel, None
+40, Mike Vreekamp, NED, M, , , 23-11-92, Leusden, None
+41, Nando Wormgoor, NED, D, 1.83, 79, 17-02-92, Leersum, None
+42, Stan Berrevoets, NED, G, , , 15-05-92, Kudelstaart, Ajax
+43, Alex, BRA, D, 1.78, 72, 10-06-92, Rio de Janeiro, Flamengo
+44, Brahim Darri, NED, F, 1.77, 70, 14-09-94, Amersfoort, None
+45, Gino Bosz, NED, M, 1.80, 70, 23-04-93, Rotterdam, None
+46, Kay Tassenaar, NED, D, 1.86, 88, 26-06-90, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Hayri Pinarci, NED, M, 1.80, 72, 10-10-91, Boğazlıyan, AGOVV Apeldoorn (On Loan)
+14, Alex, BRA, D, 1.78, 72, 10-06-92, Rio de Janeiro, Re-Registered (43)
+15, Anderson, BRA, D, 1.78, 72, 10-06-92, Rio de Janeiro, Re-Registered (33)
+17, Genaro Snijders, NED, F, 1.76, 69, 29-07-89, Amsterdam, Willem II (On Loan)
+36, Adnane Tighadouini, NED, M, 1.79, 76, 30-10-92, Ede, FC Volendam (On Loan)
+19, Marcus Pedersen, NOR, F, 1.80, 79, 08-06-90, Hamar, Vålerenga (On Loan)

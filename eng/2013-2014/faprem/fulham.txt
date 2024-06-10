@@ -1,0 +1,60 @@
+=  Fulham - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Roma
+3, John Arne Riise, NOR, D, 1.85, 78, 24-09-80, Molde, Roma
+4, John Heitinga, NED, D, 1.80, 72, 15-11-83, Alphen aan den Rijn, Everton
+5, Brede Hangeland, NOR, D, 1.95, 92, 20-06-81, Houston, FC København
+6, William Kvist, DEN, M, 1.84, 80, 24-02-85, Odder, Stuttgart
+7, Steve Sidwell, ENG, M, 1.78, 70, 14-12-82, Wandsworth, Aston Villa
+8, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Palermo
+9, Mahamadou Diarra, MLI, M, 1.83, 76, 18-05-81, Bamako, Monaco
+10, Lewis Holtby, GER, F, 1.74, 66, 18-09-90, Erkelenz, Tottenham H
+11, Alex Kačaniklić, SWE, M, 1.75, 71, 13-08-91, Helsingborg, Liverpool
+13, David Stockdale, ENG, G, 1.91, 84, 20-09-85, Leeds, Darlington
+14, Giorgos Karagounis, GRE, M, 1.76, 74, 06-03-77, Pyrgos, Panathinaikos
+15, Kieran Richardson, ENG, M, 1.79, 74, 21-10-84, Greenwich, Sunderland
+16, Damien Duff, IRL, M, 1.78, 70, 02-03-79, Ballyboden, Newcastle U
+17, Matthew Briggs, ENG, D, 1.88, 84, 09-03-91, Wandsworth, None
+18, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Olympiakos
+19, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, Manchester U
+20, Hugo Rodallega, COL, F, 1.81, 72, 25-07-85, El Carmelo, Wigan Ath
+21, Larnell Cole, ENG, M, 1.68, 63, 09-03-93, Manchester, Manchester U
+22, Elsad Zverotić, MNE, D, 1.79, 75, 31-10-86, Berane, Young Boys
+23, Derek Boateng, GHA, M, 1.85, 78, 02-05-83, Accra, Dnipro Dnipropetrovsk
+24, Ashkan Dejagah, IRN, F, 1.81, 74, 05-07-86, Tehran, Wolfsburg
+25, Cauley Woodrow, ENG, F, 1.84, 78, 02-12-94, Hemel Hempstead, Luton T
+26, Patrick Roberts, ENG, F, 1.67, 58, 05-02-97, Kingston-upon-Thames, None
+27, Sascha Riether, GER, D, 1.74, 70, 23-03-83, Lahr, Köln
+28, Scott Parker, ENG, M, 1.75, 70, 13-10-80, Lambeth, Tottenham H
+30, Chris David, NED, M, 1.70, 71, 06-03-93, Amsterdam, FC Twente
+33, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Darlington
+34, Ange-Freddy Plumain, FRA, M, 1.82, 74, 02-03-95, Paris, Lens
+35, Fernando Amorebieta, VEN, D, 1.92, 85, 21-03-85, Iurreta, Athletic Bilbao
+36, Buomesca Tué Na Bangna, POR, M, 1.74, 65, 06-05-93, Bissau, Chelsea
+37, Lasse Vigen Christensen, DEN, M, 1.78, 75, 15-08-94, Esbjerg, FC Midjtylland
+38, Neil Etheridge, PHI, G, 1.91, 89, 07-02-90, Enfield, None
+39, Darren Bent, ENG, F, 1.80, 73, 06-02-84, Tooting, Aston Villa
+40, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, None
+41, Jesse Joronen, FIN, G, 1.97, 89, 21-03-93, Helsinki, None
+42, Charles Banya, ENG, M, 1.70, 61, 18-09-93, Lambeth, None
+43, Muamer Tanković, SWE, F, 1.79, 74, 22-02-95, Tingstad, IFK Norrköping
+44, Jack Grimmer, SCO, M, 1.84, 84, 25-01-94, Aberdeen, Aberdeen
+45, Moussa Dembélé, FRA, F, 1.83, 74, 12-07-96, Pontoise, Paris St-Germain
+46, Josh Passley, ENG, D, 1.84, 79, 21-11-94, Chelsea, None
+47, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, MFK Košice
+48, Magnus Norman, ENG, G, 1.91, 82, 19-01-97, Kingston upon Thames, None
+49, Josh Pritchard, WAL, M, 1.75, 71, 23-09-92, Stockport, Manchester U
+52, George Williams, WAL, F, 1.72, 73, 07-09-95, Milton Keynes, MK Dons
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Marcello Trotta, ITA, F, 1.87, 82, 29-09-92, Santa Maria Capua Vetere, Brentford (On Loan)
+21, Kerim Frei, TUR, M, 1.71, 66, 19-11-93, Feldkirch, Beşiktaş
+10, Bryan Ruiz, CRC, F, 1.88, 78, 18-08-85, San José [CRC], PSV Eindhoven (On Loan)
+19, Adel Taarabt, MAR, M, 1.80, 76, 24-05-89, Taza, QPR
+9, Dimitar Berbatov, BUL, F, 1.88, 79, 30-01-81, Blagoevgrad, Monaco
+18, Aaron Hughes, NIR, D, 1.83, 72, 08-11-79, Magherafelt, QPR
+4, Philippe Senderos, SUI, D, 1.90, 84, 14-02-85, Geneva, Valencia
+32, Clint Dempsey, USA, M, 1.86, 84, 09-03-83, Nacogdoches, Seattle Sounders

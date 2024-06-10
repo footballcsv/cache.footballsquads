@@ -1,0 +1,51 @@
+=  Cagliari - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, Verona
+3, Federico Mattiello, ITA, D, 1.84, 70, 14-07-95, Barga, Atalanta
+4, Radja Nainggolan, BEL, M, 1.76, 65, 04-05-88, Antwerp, Internazionale
+6, Marko Rog, CRO, M, 1.80, 74, 19-07-95, Varaždin, Napoli
+8, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilia, Sampdoria
+9, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, SPAL
+10, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Estoril
+12, Fabrizio Cacciatore, ITA, D, 1.82, 85, 08-10-86, Turin, Chievo Verona
+14, Valter Birsa, SVN, M, 1.84, 81, 07-08-86, Sempeter pri Gorici, Chievo Verona
+15, Ragnar Klavan, EST, D, 1.87, 78, 30-10-85, Viljandi, Liverpool
+16, Salvatore Boccia, ITA, D, 1.82, 74, 06-06-01, Oristano, None
+17, Christian Oliva, URU, M, 1.78, 75, 01-06-96, Ciudad del Plata, Nacional [URU]
+18, Nahitan Nández, URU, M, 1.72, 70, 28-12-95, Punta del Este, Boca Juniors
+19, Fabio Pisacane, ITA, D, 1.78, 77, 28-01-86, Naples, Avellino
+20, Gastón Pereiro, URU, M, 1.88, 76, 11-06-95, Montevideo, PSV Eindhoven
+21, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Verona
+22, Charalampos Lykogiannis, GRE, D, 1.90, 87, 22-10-93, Piraeus, Sturm Graz
+23, Luca Ceppitelli, ITA, D, 1.86, 83, 11-08-89, Castiglione del Lago, Parma
+24, Paolo Faragò, ITA, M, 1.87, 80, 12-02-93, Catanzaro, Novara
+25, Federico Marigosu, ITA, M, 1.76, 69, 21-04-01, Cagliari, None
+26, Daniele Ragatzu, ITA, F, 1.72, 68, 21-09-91, Cagliari, Olbia
+27, Alessandro Lombardi, ITA, M, 1.85, 74, 21-01-00, RIvoli, Juventus
+28, Alessio Cragno, ITA, G, 1.84, 78, 28-06-94, Fiesole, Brescia
+30, Leonardo Pavoletti, ITA, F, 1.88, 85, 26-11-88, Livorno, Napoli
+32, Isaías Delpupo, ARG, F, 1.76, 68, 31-03-03, Pergamino, None
+33, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Juventus
+34, Giuseppe Ciocci, ITA, G, 1.90, 85, 24-01-02, Cagliari, None
+35, Riccardo Ladinetti, ITA, M, 1.82, 76, 20-12-00, Cagliari, None
+36, Andrea Carboni, ITA, D, 1.85, 77, 04-02-01, Sorgono, None
+37, Luca Gagliano, ITA, F, 1.82, 75, 14-07-00, Alghero, None
+38, Fabio Porru, ITA, D, 1.82, 73, 03-01-00, Cagliari, None
+40, Sebastian Walukiewicz, POL, D, 1.88, 85, 05-04-00, Gorzów Wielkopolski, Pogoń Szczecin
+90, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, Roma
+99, Giovanni Simeone, ARG, F, 1.80, 81, 05-07-95, Buenos Aires, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Santiago Colombatto, ARG, M, 1.79, 71, 17-01-97, Córdoba, Sint-Truiden
+25, Han Kwang-Song, PRK, F, 1.78, 70, 11-09-98, Pyongyang, Juventus
+32, Kiril Despodov, BUL, F, 1.79, 69, 11-11-96, Kresna, Sturm Graz (On Loan)
+56, Filippo Romagna, ITA, D, 1.85, 74, 26-05-97, Fano, Sassuolo (On Loan)
+20, Simone Aresti, ITA, G, 1.88, 78, 15-03-86, Carbonia, Olbia
+2, Simone Pinna, ITA, D, 1.72, 68, 17-10-97, Oristano, Empoli (On Loan)
+27, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, Lecce (On Loan)
+16, Filip Bradarić, CRO, M, 1.85, 77, 11-01-92, Split, Celta Vigo (On Loan)
+9, Alberto Cerri, ITA, F, 1.93, 91, 16-04-96, Parma, SPAL (On Loan)
+29, Lucas Castro, ARG, M, 1.82, 76, 09-04-89, La Plata, SPAL (On Loan)

@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2006/07
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NAC Breda](nacbreda.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Roda JC](rodajc.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse Arnhem](vitesse.txt)
+- [Willem II](willem.txt)

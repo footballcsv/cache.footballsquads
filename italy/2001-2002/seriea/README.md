@@ -1,0 +1,21 @@
+# Italian Serie A 2001/02
+
+18 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Chievo Verona](cverona.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Piacenza](piacenza.txt)
+- [Roma](roma.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Venezia](venezia.txt)
+- [Verona](verona.txt)

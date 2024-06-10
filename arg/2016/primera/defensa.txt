@@ -1,0 +1,41 @@
+=  Defensa y Justicia - Argentinian Primera División 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucio Chiappero, ARG, G, 1.87, 75, 26-05-94, Hersilia, None
+2, Rafael García, URU, D, 1.83, 79, 16-01-89, Montevideo, Nacional [URU]
+3, Elías Gómez, ARG, D, 1.79, 70, 09-06-94, Granadero Baigorria, Rosario Central
+4, Damián Martínez, ARG, D, 1.77, 72, 31-01-90, Capital Federal, San Lorenzo
+5, Guido Rodríguez, ARG, M, 1.85, 78, 12-04-94, Sáenz Peña, River Plate
+6, Alexander Barboza, ARG, D, 1.92, 79, 16-03-95, Villa Celina, River Plate
+7, Mariano Guerreiro, ARG, F, 1.83, 80, 20-01-93, La Carlota, Argentinos Juniors
+8, Ignacio Rivero, URU, M, 1.72, 60, 10-04-92, Montevideo, Central Español
+9, Fabián Bordagaray, ARG, F, 1.73, 72, 15-02-87, Avellaneda, Caracas
+10, Hernán Fredes, ARG, M, 1.72, 70, 27-03-87, Avellaneda, Arsenal [ARG]
+11, Andrés Ríos, ARG, F, 1.79, 78, 08-01-89, Capital Federal, América
+12, Ciro Rius, ARG, F, 1.76, 72, 27-10-88, Capital Federal, Argentinos Juniors
+14, Eric Aparicio, ARG, F, 1.80, 81, 25-01-90, Glew, San Martín (San Juan)
+15, Nicolás Stefanelli, ARG, F, 1.76, 72, 22-01-94, Quilmes, None
+16, Lisandro Magallán, ARG, D, 1.84, 77, 27-09-93, La Plata, Boca Juniors
+17, Maximiliano Calzada, URU, M, 1.70, 69, 21-04-90, Montevideo, Banfield
+18, Marcelo Benitez, ARG, D, 1.78, 74, 13-01-91, San Francisco Solano, None
+19, Humberto Osorio, COL, F, 1.75, 77, 24-06-88, Valledupar, Dorados de Sinaloa
+20, Rafael Delgado, ARG, D, 1.78, 78, 13-01-90, Reconquista, Estudiantes (LP)
+21, Gabriel Arias, ARG, G, 1.88, 80, 13-09-87, Neuquén, Olimpo (BB)
+22, Pablo Santillo, ARG, G, 1.82, 78, 07-03-90, Capital Federal, Atlanta
+23, Eugenio Isnaldo, ARG, M, 1.81, 78, 07-01-94, Rosario, Newell's Old Boys
+24, Javier Yacuzzi, ARG, D, 1.70, 70, 15-08-79, San Nicolás, Rosario Central
+25, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Boca Juniors
+26, Tomás Cardona, ARG, D, 1.88, 80, 10-10-95, Capital Federal, San Lorenzo
+27, Hugo Silva, ARG, D, 1.76, 77, 04-02-92, Quilmes, Atlanta
+28, Tomás Pochettino, ARG, M, 1.80, 68, 01-02-96, Rafael, Boca Juniors
+29, Tomás Martínez, ARG, M, 1.71, 60, 07-03-95, Béccar, River Plate
+30, Santiago Magallán, ARG, M, 1.85, 78, 08-05-92, La Plata, San Lorenzo
+31, Federico Maya, ARG, D, 1.75, 70, 06-10-93, Trenque Lauquen, None
+32, Nicolás Czornomaz, ARG, M, 1.78, 74, 08-07-95, Quilmes, None
+33, Diego Venturi, ARG, M, 1.69, 71, 10-04-94, Bariloche, None
+34, Matías Sosa, ARG, M, 1.86, 79, 06-07-95, Capital Federal, None
+35, Federico Barrios, ARG, D, 1.77, 69, 22-04-94, Florencio Varela, None
+36, Kevin Casoratti, ARG, F, 1.70, 70, 06-10-96, San Francisco Solano, None
+37, Guido Dal Casón, ARG, F, 1.80, 76, 04-03-93, Quilmes, None
+38, Cristián Ramos, ARG, M, , , , , None
+39, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, None

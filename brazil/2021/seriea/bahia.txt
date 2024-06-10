@@ -1,0 +1,51 @@
+=  Bahia - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Ponte Preta
+3, Luis Otávio, BRA, D, 1.94, 86, 09-10-92, Japeri, Chapecoense
+4, Ligger, BRA, D, 1.86, 73, 18-05-98, Santo Amaro, Red Bull Bragantino
+5, Germán Conti, ARG, D, 1.92, 78, 03-06-94, Santa Fe, Benfica
+7, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Shenzhen FC
+8, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, Fluminense
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Yeni Malatyaspor
+10, Rodriguinho, BRA, M, 1.80, 73, 27-03-88, Natal, Cruzeiro
+11, Óscar Ruiz, PAR, F, 1.70, 70, 14-05-91, Asunción, Cerro Porteño
+13, Gustavo Henrique, BRA, D, 1.92, 88, 07-10-99, Catanduva, Atlético Mineiro
+14, Raniele, BRA, D, 1.84, 78, 31-12-96, Baixa Grande, Jacuipense
+15, Juan Pablo Ramírez, COL, M, 1.82, 76, 26-11-97, Medellín, Atlético Nacional
+17, Eugenio Isnaldo, ARG, M, 1.81, 78, 07-01-94, Rosario, Defensa y Justicia
+18, Raí, BRA, F, 1.72, 68, 18-05-98, Rio de Janeiro, Deportivo La Coruña
+19, Lucas Mugni, ARG, M, 1.81, 76, 12-01-92, Santa Fe, Gençlerbirliği
+21, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Internacional
+22, Thonny Anderson, BRA, M, 1.84, 81, 27-12-97, São Paulo, Red Bull Bragantino
+23, Hugo Rodallega, COL, F, 1.81, 72, 25-07-85, El Carmelo, Denizlispor
+26, Júnior, BRA, G, 1.89, 84, 10-08-98, Patos de Minas, São Paulo
+27, Jonas, BRA, M, 1.80, 79, 03-10-91, Teresina, Al-Ittihad [KSA]
+28, Lucas Fonseca, BRA, D, 1.90, 85, 02-08-85, Pedralva, Tianjin Teda
+29, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Grêmio
+32, Matheus Teixeira, BRA, G, 1.88, 87, 08-03-99, José Bonifácio, Palmeiras
+34, Lucas Araújo, BRA, M, 1.78, 79, 21-05-99, Fortaleza, Grêmio
+35, Edson, BRA, M, 1.78, 72, 24-04-98, Natal, Globo
+36, Mayk, BRA, D, 1.72, 67, 31-08-99, Santo Antônio do Salto da Onça, América de Natal
+37, Maycon Douglas, BRA, F, 1.80, 68, 27-08-96, Nova Friburgo, Tombense
+39, Riquelme, BRA, F, 1.77, 76, 02-07-01, Uruaçu, Anápolis
+42, Renan Guedes, BRA, D, 1.77, 69, 19-01-98, São Paulo, Joinville
+43, Douglas Borel, BRA, D, -, -, 30-03-02, Camaçari, None
+45, Patrick, BRA, M, 1.80, 75, 02-03-00, São Paulo, Palmeiras
+47, Pablo, BRA, M, 1.82, 79, 14-11-99, São Francisco, Vila Nova
+50, Luizão, BRA, M, 1.84, 75, 20-02-98, São Paulo, Vorskla Poltava
+57, Ronaldo, BRA, F, 1.77, 75, 07-12-00, Rio de Janeiro, São Caetano
+70, Raí, BRA, F, 1.68, 68, 26-10-01, Rio de Janeiro, Fluminense-PI
+77, Mateus Claus, BRA, G, 1.93, 95, 03-08-94, Campo Bom, Pelotas
+79, Matheus Bahia, BRA, D, 1.81, 75, 11-08-99, Salvador, None
+88, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, Chongqing Lifan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Alesson, BRA, F, 1.73, 68, 16-02-99, Guarulhos, Vila Nova
+23, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, FC Porto
+1, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Juventude (On Loan)
+40, Juninho, BRA, D, 1.86, 75, 02-01-95, Londrina, Palmeiras
+16, Thaciano, BRA, M, 1.82, 73, 12-05-95, Campina Grande, Grêmio
+20, Matheus Galdezani, BRA, M, 1.77, 74, 13-03-92, Limeira, Coritiba

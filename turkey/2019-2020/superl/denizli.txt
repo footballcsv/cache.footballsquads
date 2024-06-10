@@ -1,0 +1,39 @@
+=  Denizlispor - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hüseyin Altıntaş, TUR, G, 1.92, 81, 11-09-94, Denizli, None
+2, Tiago Lopes, POR, D, 1.80, 66, 04-01-89, Vila Nova de Gaia, Kayserispor
+3, Muhammet Özkal, TUR, D, 1.82, 74, 26-11-99, Körfez, BB Bodrumspor
+5, Mustafa Yumlu, TUR, D, 1.91, 77, 25-09-87, Trabzon, Akhisar Belediyespor
+6, Marc Mbamba, CMR, M, 1.80, 70, 15-10-88, Douala, Ankaragücü
+7, Hugo Rodallega, COL, F, 1.81, 72, 25-07-85, El Carmelo, Trabzonspor
+8, Radosław Murawski, POL, M, 1.73, 68, 22-04-94, Gliwice, Palermo
+9, Hadi Sacko, FRA, F, 1.83, 79, 24-03-94, Corbeil-Essonnes, Leeds U
+10, Ismaïl Aissati, MAR, M, 1.74, 70, 16-08-88, Utrecht, Balıkesirspor
+11, Sedat Şahintürk, TUR, M, 1.73, 65, 07-02-96, Kocaeli, Beşiktaş
+15, Oğuz Yılmaz, TUR, D, 1.90, 77, 01-01-93, Şişli, Balıkesirspor
+16, Asım Aksungur, TUR, M, 1.75, 70, 08-10-00, Denizli, None
+19, Óscar Estupiñán, COL, F, 1.82, 76, 29-12-96, Cali, Vitória Guimarães
+20, Recep Niyaz, TUR, M, 1.65, 60, 01-01-85, Denizli, Rizespor
+21, Zakarya Bergdich, MAR, D, 1.78, 69, 07-01-89, Paris, Belenenses
+23, Ogenyi Onazi, NGA, M, 1.70, 65, 25-12-92, Lagos, Trabzonspor
+25, Tolgahan Acar, TUR, G, 1.85, 78, 04-06-86, Adana, Sivasspor
+33, Adam Stachowiak, POL, G, 1.90, 80, 18-12-86, Poznań, Gazişehir Gaziantep
+44, Alihan Kalkan, TUR, F, 1.82, 75, 21-05-99, Denizli, None
+55, Syam Ben Youssef, TUN, D, 1.89, 82, 31-03-89, Marseille, Kasımpaşa
+60, Özgür Çek, TUR, D, 1.74, 70, 03-01-91, Erbaa, Kasımpaşa
+61, Zeki Yavru, TUR, D, 1.78, 78, 05-09-91, Trabzon, Akhisar Belediyespor
+70, Olcay Şahan, TUR, M, 1.77, 70, 26-05-87, Düsseldorf, Trabzonspor
+72, Murathan Sütcü, TUR, D, 1.80, 73, 17-02-00, Denizli, None
+77, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Reading
+90, Isaac Sackey, GHA, M, 1.90, 88, 04-04-94, Berekum, Alanyaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Emre Sağlık, TUR, D, 1.79, 70, 14-09-97, Denizli, Ağrı 1970 (On Loan)
+39, Kerem Can Akyüz, TUR, D, 1.73, 64, 01-07-89, Fatih, Bursaspor
+17, Mehmet Akyüz, TUR, F, 1.88, 87, 02-01-86, Adapazarı, Adana Demirspor
+24, Burak Çalık, TUR, F, 1.78, 69, 05-02-89, Erzincan, Samsunspor
+22, Cristian Săpunaru, ROU, D, 1.87, 81, 05-04-84, Bucharest, Kayserispor
+4, Kadir Kurt, TUR, D, 1.90, 83, 15-01-99, Acıpayam, Amed SK (On Loan)

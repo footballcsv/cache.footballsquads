@@ -1,0 +1,36 @@
+=  Granada - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Nacional [POR]
+2, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Lugo
+3, Álex Martínez, ESP, D, 1.76, 64, 12-08-90, Seville, Betis
+4, Fran Rico, ESP, M, 1.78, 72, 03-08-87, Portonovo, Real Madrid B
+5, José Antonio Martínez, ESP, D, 1.88, 80, 12-02-93, La Palma del Condado, Eibar
+6, Germán Sánchez, ESP, D, 1.88, 82, 31-10-86, San Fernando, Tenerife
+7, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Huesca
+8, Fede, ESP, M, 1.74, 68, 16-03-97, Torrelavega, Valladolid
+9, Álex Pozo, ESP, M, 1.74, 62, 22-02-99, Huévar del Aljarafe, Sevilla B
+10, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería
+11, Rodri, ESP, F, 1.74, 64, 06-06-90, Soria, Cultural Leonesa
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Lugo
+13, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Málaga B
+14, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Leganés
+15, Nicolás Aguirre, ARG, M, 1.80, 78, 27-06-90, Chabas, Chongqing Lifan
+16, Víctor Díaz, ESP, D, 1.83, 69, 12-06-88, Huelva, Leganés
+17, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, Rayo Vallecano
+18, Dani Ojeda, ESP, F, 1.77, 72, 03-12-94, Las Palmas, Leganés
+19, Ángel Montoro, ESP, M, 1.80, 70, 25-06-88, Valencia, Las Palmas
+20, Adrián Ramos, COL, F, 1.85, 72, 22-01-86, Santander de Quilichao, Chongqing Lifan
+22, Adri Castellano, ESP, D, 1.80, 73, 26-06-94, Córdoba, Celta Vigo B
+23, Alberto Martín, ESP, M, 1.79, 73, 31-03-89, Badajoz, Leganés
+24, José Antonio González, ESP, M, 1.83, 72, 20-12-95, Puente Genil, Córdoba B
+26, Juancho, COL, F, 1.78, 75, 24-01-96, Palmira, Rayo Vallecano B
+27, Antonio Marín, ESP, D, 1.78, 75, 17-06-96, Benalua, Almería B
+31, Carlos Neva, ESP, D, 1.74, 64, 12-06-96, El Puerto de Santa María, Marbella
+35, Alberto Lejárraga, ESP, G, 1.91, 85, 15-04-95, Madrid, Navalcarnero
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Fede, ESP, M, 1.74, 68, 16-03-97, Torrelavega, Re-Registered (8)
+21, Pablo Vázquez, ESP, D, 1.84, 84, 07-10-94, Gandía, Cultural Leonesa (On Loan)

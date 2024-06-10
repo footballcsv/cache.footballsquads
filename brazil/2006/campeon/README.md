@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2006
+
+20 teams
+- [Atlético Paranaense](atpara.txt)
+- [Botafogo](botafogo.txt)
+- [Corinthians](corinth.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Figueirense](figueir.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Fortaleza](fortal.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Juventude](juventud.txt)
+- [Palmeiras](palmeir.txt)
+- [Paraná](parana.txt)
+- [Ponte Preta](pontepre.txt)
+- [Santa Cruz](santacruz.txt)
+- [Santos](santos.txt)
+- [São Caetano](saocaet.txt)
+- [São Paulo](saopaulo.txt)
+- [Vasco da Gama](vasco.txt)

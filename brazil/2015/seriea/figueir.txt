@@ -1,0 +1,57 @@
+=  Figueirense - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe, BRA, G, 1.90, 86, 22-02-84, Rio de Janeiro, Flamengo
+2, Leandro Silva, BRA, D, 1.81, 76, 22-09-88, Sorocaba, América Mineiro
+3, Marquinhos, BRA, D, 1.94, 80, 21-10-82, São Paulo, Comercial-SP
+4, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+5, Bruno Dybal, BRA, M, 1.81, 67, 03-03-94, Guarulhos, Palmeiras
+6, Marquinhos Pedroso, BRA, D, 1.75, 73, 04-10-93, Tubarão, None
+7, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, None
+8, Ricardinho, BRA, M, 1.74, 69, 10-06-85, Votuporanga, Criciúma
+9, Marcão, BRA, F, 1.90, 83, 25-09-85, Camaçari, Bahia
+10, Alemão, BRA, F, 1.85, 71, 02-03-89, Valinhos, Ponte Preta
+11, Dudu, BRA, F, 1.88, 72, 21-04-90, Itanhanhém, Bragantino
+12, Thiago Santana, BRA, F, 1.84, 81, 04-02-93, Serrinha, São Carlos
+15, Jefferson, BRA, M, 1.81, 80, 22-01-94, Campinas, None
+16, Rafael Bastos, BRA, M, 1.85, 72, 01-01-85, Rio de Janeiro, Kuwait SC
+17, Celsinho, BRA, M, 1.77, 67, 25-08-88, Americana, Londrina
+18, Jean Deretti, BRA, M, 1.73, 60, 01-05-93, Jaraguá do Sul, None
+19, Carlos Alberto, BRA, M, 1.77, 71, 11-12-84, Rio de Janeiro, Botafogo
+20, Saimon, BRA, D, 1.83, 74, 03-03-91, Erechim, Vitória
+21, Luan, BRA, M, 1.79, 76, 11-02-91, São Bento do Sul, None
+22, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Flamengo
+23, Hyago, BRA, M, , , 03-01-95, , None
+25, Juninho, BRA, D, 1.71, 64, 11-01-90, Salvador, Coimbra
+27, Yago, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, None
+28, Paulo Roberto, BRA, M, 1.76, 79, 06-03-87, Lavras, Audax
+30, Júnior Oliveira, BRA, G, 1.88, 77, 02-01-90, Cabo Frio, São José
+33, Talhetti, BRA, M, 1.73, 70, 23-02-90, Caçador, Tombense
+35, Carlos, BRA, D, 1.83, 70, 15-09-95, Curitiba, Internacional
+36, Roberto Cereceda, CHI, D, 1.73, 71, 10-10-84, Santiago, Universidad de Chile
+38, Alex Muralha, BRA, G, 1.86, 89, 10-11-89, Três Corações, Mirassol
+39, Elias, BRA, F, 1.82, 78, 13-02-87, Campos, Nova Iguaçu
+44, Henrique Trevisan, BRA, D, 1.80, 70, 20-01-97, Umuarama, None
+52, Sueliton, BRA, D, 1.78, 75, 19-08-86, Vitória de Santo Antão, Joinville
+55, Dener, BRA, M, 1.79, 76, 12-04-95, Carapicuiba, None
+59, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, CRAC
+70, João Vitor, BRA, M, 1.76, 66, 01-06-88, Maceió, Deportivo Maldonado
+77, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, América de Natal
+88, Nirley, BRA, D, 1.86, 84, 09-04-88, Itaocara, Criciúma
+91, França, BRA, M, 1.88, 82, 21-04-91, Bauru, Hannover 96
+94, Marcelinho, BRA, F, 1.75, 68, 23-05-94, Suzano, Portuguesa
+95, Bruno Santos, BRA, D, 1.72, 70, 13-06-95, Jaraguá do Sul, None
+97, Matheusinho, BRA, M, 1.65, 59, 18-10-97, Capivari de Baixo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Mazola, BRA, F, 1.77, 79, 05-08-89, Guarulhos, Portimonense
+17, William Pottker, BRA, M, 1.80, 78, 22-12-93, Foz do Iguaçu, Sporting Braga (On Loan)
+94, Léo Lisboa, BRA, M, 1.75, 69, 01-06-94, Rio de Janeiro, 
+99, Everaldo, BRA, F, 1.81, 80, 05-07-91, Garibaldi, Paysandu
+26, Léo Rodrigues, BRA, D, 1.77, 66, 06-04-91, Caçador, Sampaio Corrêa
+20, William, BRA, D, 1.71, 73, 15-07-93, Itabuna, CRB (On Loan)
+34, Carlos Henrique, BRA, F, 1.82, 89, 27-02-95, Sorriso, Luverdense
+13, Ferron, BRA, D, 1.87, 83, 11-11-85, Rondonópolis, Ponte Preta
+43, Jackson Sousa, BRA, M, 1.73, 70, 10-08-90, São José, ABC

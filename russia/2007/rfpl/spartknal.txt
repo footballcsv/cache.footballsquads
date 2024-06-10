@@ -1,0 +1,57 @@
+=  Spartak Nalchik - Russian Football Premier League 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Lucian Dobre, D, 5'11", 11 07, 25-09-78, Reşiţa, Zimbru Chişinău
+3, Dmitriy Yatchenko, D, 5'07", 11 00, 25-08-86, Moscow, Dynamo Moscow
+4, Maxim Usanov, D, 5'11", 11 11, 05-03-85, St. Petersburg, Skonto Riga
+5, Nazir Kazharov, F, 5'11", 11 11, 12-01-87, Moscow, SportAcademClub
+6, Vitaliy Shumeiko, D, 6'05", 13 12, 06-10-81, , Oleksandria
+7, Aslan Abayev, M, 5'09", 11 05, 03-11-85, Vladikavkaz, Avtodor
+8, Oleg Samsonov, M, 5'09", 11 05, 07-09-87, Moscow, Zenit
+9, Sergey Pilipchuk, M, 6'02", 12 08, 26-09-84, Kharkiv, Metalist Kharkiv
+10, Viktor Faizulin, M, 5'09", 10 12, 22-04-86, , SKA-Energia
+11, Roman Uzdenov, F, 6'00", 12 11, 10-03-79, , Volgar-Gazprom
+14, Yiriy Rodenkov, M, 5'09", 11 03, 20-04-86, St. Petersburg, Zenit
+15, Aslan Mashukov, M, 5'10", 10 12, 04-11-84, Nalchik, Spartak Nalchik B
+17, Valentin Filatov, D, 5'10", 11 09, 19-03-82, St. Petersburg, Unirea Urziceni
+18, Vladimir Kisenkov, D, 5'11", 11 07, 08-10-81, , Vityaz Podolsk
+19, Marat Dzakhmishev, F, 5'07", 10 12, 25-01-80, Nalchik, Spartak-UGP
+20, Miodrag Džudović, D, 6'03", 13 08, 06-09-79, Plav, Volyn Lutsk
+21, Ricardo Jesús, F, 6'02", 12 00, 16-05-85, Campinas, Internacional
+23, Alexey Kostenko, M, 5'10", 11 05, 19-11-84, Moscow, Dinaburg Daugavpils
+25, Rustam Balov, M, 5'10", 11 05, 03-02-86, Nalchik, Spartak Nalchik B
+27, Andrey Sidelnikov, G, 6'03", 13 03, 08-03-80, Moscow, Alania
+28, Aleksandr Amisulashvili, D, 6'02", 13 08, 20-08-82, Tbilisi, Shinnik
+29, Alexey Martyunov, F, 6'00", 12 08, 17-07-78, , Avangard Kursk
+30, Dejan Radić, G, 6'01", 12 13, 08-07-80, Belgrade, Vojvodina
+32, Denis Popov, F, 6'02", 13 10, 04-02-79, Novorossiysk, Dynamo Misnk
+33, Kazbek Geteriev, M, 5'08", 10 10, 30-06-85, , Burevestnik
+34, Darijan Matić, D, 5'09", 12 04, 28-05-83, , Shinnik
+35, Sergey Krashchenko, G, 6'00", 11 00, 08-02-70, Prokhladny, Terek
+36, Timur Taukenov, D, 6'03", 12 13, 21-12-86, Nalchik, Spartak Nalchik B
+37, Aslan Dyshekov, M, 5'09", 11 00, 05-02-87, Nalchik, Spartak Nalchik B
+38, Zauberk Konov, M, 5'07", 09 06, 02-01-85, Nalchik, Spartak Nalchik B
+39, Azamat Balkarov, M, 5'10", 11 07, 05-02-87, Nalchik, Spartak Nalchik B
+40, Eldar Getokov, M, 5'08", 10 03, 04-03-86, Nalchik, Spartak Nalchik B
+41, Boris Shogenov, G, 6'04", 12 06, 14-06-86, Nalchik, Spartak Nalchik B
+42, Aslan Shogenov, D, 6'01", 11 03, 09-01-87, Nalchik, Spartak Nalchik B
+43, Anzor Baragunov, D, 5'11", 11 03, 12-03-86, Nalchik, Spartak Nalchik B
+44, Islam Bidov, F, 5'10", 11 11, 07-01-87, Nalchik, Spartak Nalchik B
+46, Viktor Vasin, D, 6'04", 12 04, 06-10-88, Nalchik, Spartak Nalchik B
+47, Zaramuk Borokov, F, 5'10", 11 05, 04-12-86, Nalchik, Spartak Nalchik B
+48, Vadim Zakharov, M, 5'10", 09 08, 09-11-88, Nalchik, Spartak Nalchik B
+49, Zalim Kanikhov, M, 5'09", 10 12, 17-03-89, Nalchik, Spartak Nalchik B
+50, Valeriy Zrumov, M, 5'10", 10 10, 21-11-88, Nalchik, Spartak Nalchik B
+52, Ismel Shagirov, M, 5'11", 11 07, 17-09-86, , SportAcademClub
+53, Vladimir Zukhbaia, G, 6'04", 13 08, 31-01-86, , Lokomotiv Tbilisi
+54, Ruslan Balov, F, 5'05", 09 08, 19-09-88, Nalchik, Spartak Nalchik B
+55, Álvaro, M, 6'00", 13 05, 11-03-85, Jardinópolis, Internacional
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Levan Gvazava, M, 5'10", 11 07, 08-07-80, Tbilisi, Luch-Energia
+5, Vitaliy Lanko, M, 6'01", 12 04, 04-04-77, Mogilyov, Luch-Energia
+4, Denis Evsikov, D, 6'00", 12 01, 19-02-81, Moscow, Tom
+13, Kaplan Khuako, D, 5'11", 12 00, 17-04-77, , SKA-Energia
+26, Andrey Makushev, M, 5'09", 11 07, 17-05-80, Nalchik, Nosta Novotroitsk

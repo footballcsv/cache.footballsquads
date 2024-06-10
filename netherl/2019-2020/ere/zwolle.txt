@@ -1,0 +1,43 @@
+=  PEC Zwolle - Dutch Eredivisie 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Xavier Mous, NED, G, 1.88, 80, 04-08-95, Haarlem, SC Cambuur
+2, Bram van Polen, NED, D, 1.79, 73, 11-10-85, Nijkerk, Vitesse
+3, Thomas Lam, FIN, D, 1.88, 76, 18-12-93, Amsterdam, Nottingham F
+4, Yuta Nakayama, JPN, D, 1.79, 73, 16-02-97, Ryugasaki, Kashiwa Reysol
+5, Kenneth Paal, NED, D, 1.75, 70, 24-06-97, Arnhem, PSV Eindhoven
+6, Mustafa Saymak, NED, M, 1.69, 63, 11-02-93, Deventer, Rizespor
+7, Vito van Crooij, NED, M, 1.79, 73, 29-01-96, Venlo, VVV Venlo
+8, Reza Ghoochannejhad, IRN, F, 1.80, 76, 01-01-90, Mashdad, APOEL
+9, Mike van Duinen, NED, F, 1.83, 74, 06-11-91, Den Haag, Excelsior
+10, Lennart Thy, GER, F, 1.82, 75, 25-02-92, Frechen, BB Erzurumspor
+13, Rico Strieder, GER, M, 1.74, 68, 06-07-92, Dachau, FC Utrecht
+15, Sam Kersten, NED, D, 1.91, 79, 30-01-98, Nijmegen, FC Den Bosch
+16, Michael Zetterer, GER, G, 1.87, 79, 12-07-95, Munich, Werder Bremen
+17, Dennis Johnsen, NOR, F, 1.85, 75, 17-02-98, Skien, Ajax
+19, Rick Dekker, NED, M, 1.74, 65, 15-03-95, Lekkerkerk, Feyenoord
+22, Pelle Clement, NED, M, 1.77, 66, 19-05-96, Amsterdam, Reading
+23, Etiënne Reijnen, NED, D, 1.89, 80, 05-04-87, Zwolle, Maccabi Haifa
+26, Enver Spijodić, NED, G, , , 24-03-00, Emmen, None
+30, Dean Huiberts, NED, M, 1.86, 75, 16-05-00, Kampen, FC Twente
+31, Sai van Wermeskerken, JPN, D, 1.78, 72, 28-06-94, Maastricht, SC Cambuur
+32, Jarni Koorman, NED, M, 1.80, 70, 15-03-99, Zwolle, FC Twente
+33, Anthony Dekono, FRA, D, 1.85, 75, 07-10-00, Marmande, Bordeaux
+34, Jarno Westerman, NED, F, 1.83, 70, 08-06-02, Dedemsvaart, None
+36, Marc-Olivier Doué, FRA, D, 1.85, 73, 11-10-00, Bordeaux, Bordeaux
+38, Gustavo Hamer, NED, M, 1.69, 61, 24-06-97, Itajai, Feyenoord
+39, Quinten van den Heerik, NED, M, , , 18-03-02, , RKVV DEM
+40, Mike Hauptmeijer, NED, G, 1.91, 70, 18-03-97, Dalfsen, None
+47, Destan Bajselmani, NED, D, 1.78, 82, 13-03-99, Enschede, None
+48, Eliano Reijnders, NED, F, 1.68, 61, 23-10-00, Zwolle, CSV '28
+49, Thomas van den Belt, NED, M, 1.81, 70, 18-06-01, Zwolle, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Stanley Elbers, NED, F, 1.72, 68, 14-05-92, Wassenaar, RKC Waalwijk (On Loan)
+8, Clint Leemans, NED, M, 1.86, 74, 15-09-95, Veldhoven, RKC Waalwijk (On Loan)
+14, Zian Flemming, NED, M, 1.85, 85, 01-08-98, Amsterdam, NEC Nijmegen (On Loan)
+11, Iliass Bel Hassani, NED, M, 1.73, 72, 16-09-92, Rotterdam, Al-Wakrah
+20, Thomas Bruns, NED, M, 1.77, 67, 07-01-92, Wierden, Vitesse
+29, Darryl Lachman, NED, D, 1.89, 75, 11-11-89, Zaanstad, Hapoel Ra'anana

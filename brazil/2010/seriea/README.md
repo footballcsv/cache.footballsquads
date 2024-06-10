@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2010
+
+20 teams
+- [Atlético Goianiense](atgoian.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Avaí](avai.txt)
+- [Botafogo](botafogo.txt)
+- [Ceará](ceara.txt)
+- [Corinthians](corinth.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Grêmio Prudente](prudente.txt)
+- [Guarani](guarani.txt)
+- [Internacional](internac.txt)
+- [Palmeiras](palmeir.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Vasco da Gama](vasco.txt)
+- [Vitória](vitoriaba.txt)

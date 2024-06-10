@@ -1,0 +1,54 @@
+=  Lokomotiv Moscow - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ovchinnikov, G, 6'01", 14 02, 10-11-70, Moscow, Porto
+2, André Bikey, D, 6'00", 12 08, 08-01-85, Douala, Shinnik
+3, Dmitri Kruglov, D, 5'07", 11 00, 24-05-84, Tallinn, Levadia Tallinn
+4, Sergei Omelyanchuk, D, 5'09", 11 00, 08-08-80, Minsk, Arsenal Kiev
+5, Francisco Lima, M, 5'10", 11 11, 17-04-71, Manhaus, Roma
+6, Essau Boxer Kanyenda, F, 6'00", 12 04, 27-09-82, Lilongwe, FC Rostov
+7, Marat Izmailov, M, 5'07", 11 00, 21-09-82, Moscow, None
+8, Vladimir Maminov, M, 5'10", 11 09, 04-09-74, Moscow, None
+9, Alexey Bugaev, D, 5'11", 11 09, 25-08-81, Moscow, Torpedo Moscow
+10, Dmitriy Loskov, M, 5'09", 11 09, 12-02-74, Kurgan, FC Rostov
+11, Dmitri Sychev, F, 5'09", 11 00, 26-10-83, Omsk, Marseille
+14, Oleg Pashinin, D, 6'00", 12 04, 12-09-74, Moscow, Hirosima
+16, Vadim Evseev, D, 5'11", 12 13, 08-01-76, Moscow, Spartak Moscow
+17, Dmitriy Sennikov, D, 6'00", 11 09, 24-06-76, St. Petersburg, Shinnik
+18, Ivan Starkov, M, 5'10", 10 10, 10-01-86, Moscow, None
+19, Nikita Denisov, D, 6'02", 12 11, 07-04-86, Kaluga, None
+20, Evgeniy Zinovyev, M, 5'10", 11 03, 15-01-81, Moscow, Baltika
+21, Alexey Polyakov, G, 6'02", 12 04, 08-02-74, Belgorod, Krylya Sovetov
+22, Zaur Khapov, G, 6'02", 14 02, 21-10-64, Nalshyk, Alania
+23, Aleksandr Krivoruchko, G, 6'03", 12 04, 23-09-84, Moscow, Vityaz
+25, Mate Gvinianidze, D, 6'01", 12 01, 10-12-86, Tbilisi, Norchi Dynamo
+27, Milan Jovanovic, F, 6'00", 11 07, 18-04-83, Belgrade, Shakhtar Donetsk
+28, Dmitri Khokhlov, M, 6'02", 13 03, 22-12-75, Moscow, Real Sociedad
+30, Malkhaz Asatiani, M, 6'00", 12 06, 04-08-81, Kutaisi, Torpedo Kutaisi
+31, Francesco Ruopolo, F, 6'00", 12 13, 20-03-83, Aversa, Parma
+33, Igor Lebedenko, F, 6'00", 11 05, 27-05-83, Moscow, Torpedo Moscow
+35, Roman Ahalkaci, M, 5'11", 11 11, 20-02-81, Gori, Torpedo Kutaisi
+36, Alexey Aravin, M, 5'10", 11 05, 09-07-86, Moscow, None
+40, Aleksandr Samedov, M, 5'09", 10 01, 19-07-84, Moscow, Spartak Moscow
+41, Siarhiei Hurenka, D, 5'08", 11 05, 30-09-72, Hrodna, Piacenza
+45, Andrey Usachev, D, 5'11", 11 11, 29-04-86, Moscow, None
+47, Grigoriy Chirkin, M, 5'09", 11 05, 26-02-86, Moscow, None
+48, Sergey Budaragin, D, 5'10", 11 09, 12-02-85, Moscow, None
+50, Igor Sharafutdinov, F, 5'08", 10 06, 19-01-86, Moscow, None
+53, Sergey Ivanov, D, 5'09", 11 00, 22-01-86, Moscow, None
+54, Artem Voronkin, M, 5'11", 10 12, 19-02-86, Moscow, None
+62, Sergey Nemchinov, M, 5'10", 10 03, 14-12-85, Moscow, None
+63, Dinijar Bilyaletdinov, M, 6'01", 11 11, 27-02-85, Moscow, None
+98, Aleksandr Budakov, G, 6'01", 12 08, 25-07-85, Moscow, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Maxim Buznikin, F, 5'06", 10 08, 01-03-77, Krasnodar, FC Rostov
+26, Dmitriy Astakhov, F, 6'00", 11 11, 09-03-86, Moscow, 
+32, Mikhail Ashvetia, F, 5'11", 12 04, 10-11-77, Rcmena, FC Rostov
+44, Dmitriy Abazin, D, 6'00", 11 03, 16-01-86, Minsk, Spartak Nalchik (On Loan)
+52, Winston Parks, F, 6'00", 12 01, 12-10-81, Limonence, Saturn
+55, Georgiy Chelidze, F, 6'00", 13 01, 24-10-84, Tbilisi, Lokomotiv B
+57, Roman Kontsedalov, M, 5'11", 11 03, 11-05-86, Moscow, Spartak Nalchik (On Loan)
+24, Ruslan Pimenov, F, 5'09", 12 04, 25-11-81, Moscow, Alania

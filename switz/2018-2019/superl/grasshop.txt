@@ -1,0 +1,49 @@
+=  Grasshoppers - Swiss Super League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heinz Lindner, AUT, G, 1.87, 80, 17-07-90, Linz, Eintracht Frankfurt
+3, Jean-Pierre Rhyner, SUI, D, 1.84, 72, 16-03-96, Zürich, None
+4, Nathan, BRA, D, 1.88, 80, 13-05-95, São Paulo, Palmeiras
+5, Aleksandar Cvetković, SRB, D, 1.88, 78, 04-06-95, Prokuplje, Wohlen
+6, Gjelbrim Taipi, ALB, M, 1.75, 68, 13-12-92, Bujanovac, St. Gallen
+7, Rúnar Már Sigurjónsson, ISL, M, 1.78, 80, 30-11-89, Sauðárkrókur, GIF Sundsvall
+8, Marko Bašić, CRO, M, 1.88, 81, 25-05-88, Zagreb, Lugano
+9, Marco Djuricin, AUT, F, 1.81, 72, 12-12-92, Vienna, Red Bull Salzburg
+10, Yoric Ravet, FRA, M, 1.77, 72, 09-12-89, Echirolles, Freiburg
+11, Mersim Asllani, SUI, M, 1.78, 74, 07-06-99, Aigle, Lausanne-Sport
+13, Anthony Goelzer, FRA, D, 1.82, 75, 12-09-98, , Valenciennes
+15, Aly Mallé, MLI, F, 1.77, 72, 03-04-98, Bamako, Udinese
+16, Euclides Cabral, POR, D, 1.78, 68, 05-01-99, Lisbon, Sporting CP
+17, Robin Kamber, SUI, M, 1.87, 83, 15-02-96, Basel, Vaduz
+18, Meriton Kastrati, SUI, D, 1.82, 74, 05-03-98, Bülach, None
+19, Aimery Pinga, SUI, F, 1.85, 86, 06-01-98, Fribourg, Sion
+20, Julien Ngoy, BEL, F, 1.85, 64, 02-11-97, Antwerp, Stoke C
+21, Shani Tarashaj, SUI, F, 1.76, 76, 07-02-95, Tirana, Everton
+22, Cédric Zesiger, SUI, D, 1.91, 80, 24-06-98, Ins, Neuchâtel Xamax
+23, Arlind Ajeti, ALB, D, 1.84, 83, 25-09-93, Basel, Torino
+24, Bujar Lika, SUI, M, 1.76, 72, 11-08-92, Ferizaj, Schaffhausen
+25, Caiuby, BRA, M, 1.83, 75, 14-07-88, São Paulo, Augsburg
+26, Raphael Holzhauser, AUT, M, 1.93, 85, 16-02-93, Wiener Neustadt, Austria Vienna
+27, Mateo Matić, SUI, G, 1.85, 78, 07-01-96, Ilanz/Glion, None
+28, Petar Pušić, SUI, M, 1.69, 63, 25-01-99, Schaffhausen, Schaffhausen
+29, Djibril Diani, FRA, M, 1.93, 77, 11-02-98, Créteil, Lens
+30, Nedim Bajrami, SUI, M, 1.79, 68, 28-02-99, Zürich, None
+31, Giotto Morandi, SUI, M, 1.80, 77, 04-03-99, Locarno, Bellinzona
+32, Serge Müller, SUI, D, 1.82, 69, 18-09-00, , None
+33, Mergim Bajrami, SUI, M, 1.71, 63, 02-05-00, Frauenfeld, None
+34, Allan Arigoni, SUI, D, 1.83, 78, 04-11-98, Zürich, None
+35, Nikola Gjorgjev, SUI, M, 1.74, 70, 22-08-97, Zürich, None
+36, Amir Saipi, SRB, G, 1.92, 84, 08-07-00, Schaffhausen, Schaffhausen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Ridge Munsy, COD, F, 1.86, 90, 09-07-89, Lucerne, BB Erzerumspor (On Loan)
+10, Lucas Andersen, DEN, M, 1.85, 72, 13-09-94, Aalborg, Aalborg (On Loan)
+33, Charles Pickel, SUI, M, 1.84, 76, 15-05-97, Basel, Neuchâtel Xamax (On Loan)
+36, Lars Hunn, SUI, G, 1.80, 73, 25-05-99, Aarau, Aarau
+15, Souleyman Doumbia, CIV, D, 1.75, 70, 24-09-96, Paris, Rennes
+16, Jeffrén Suárez, VEN, F, 1.76, 73, 20-01-88, Ciudad Bolivar, AEK Larnaca
+11, Nabil Bahoui, SWE, F, 1.88, 84, 05-02-91, Stockholm, De Graafschap
+14, Numa Lavanchy, SUI, M, 1.74, 69, 25-08-93, Vevey, Lugano
+25, Nikola Sukacev, SUI, M, 1.76, 73, 24-02-98, Zürich, Kriens (On Loan)

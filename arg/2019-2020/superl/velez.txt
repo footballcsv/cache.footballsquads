@@ -1,0 +1,44 @@
+=  Vélez Sarsfield - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Facundo Perrone, ARG, G, 1.91, 82, 10-08-99, Villa Devoto, None
+2, Matías de los Santos, URU, D, 1.84, 83, 22-11-92, Salto, Millonarios
+3, Braian Cufré, ARG, D, 1.79, 82, 15-12-96, Mar del Plata, None
+4, Hernán De La Fuente, ARG, D, 1.75, 75, 07-01-97, Capital Federal, None
+6, Fernando Gago, ARG, M, 1.78, 69, 10-04-86, Ciudadela, Boca Juniors
+7, Ricardo Centurión, ARG, M, 1.74, 65, 19-01-93, Avellaneda, Racing Club
+8, Ricardo Álvarez, ARG, M, 1.88, 84, 12-04-88, Capital Federal, Atlas
+10, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Boca Juniors
+11, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, Tigre
+12, Lucas Hoyos, ARG, G, 1.83, 76, 29-04-89, Guaymallen, Instituto (Córdoba)
+13, Joaquin García, ARG, D, 1.81, 73, 20-08-01, Capital Federal, None
+14, Cristian Núñez, PAR, M, 1.66, 69, 20-09-97, Villa Hayes, None
+15, Damián Fernández, ARG, D, 1.80, 74, 02-01-01, Merlo, None
+16, Lucas Robertone, ARG, M, 1.75, 70, 18-03-97, Concordia, None
+17, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+18, Tobías Zarate, ARG, F, 1.76, 70, 07-07-00, Haedo, None
+19, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, PSV Eindhoven
+20, Mauro Pittón, ARG, M, 1.81, 70, 08-08-94, Santa Fe, San Lorenzo
+21, Facundo Cáseres, ARG, M, 1.78, 65, 28-05-01, Santa Fe, None
+22, Alexander Domínguez, ECU, G, 1.95, 80, 05-06-87, Tachina, Monterrey
+23, Thiago Almada, ARG, M, 1.71, 62, 26-04-01, Fuerte Apache, None
+24, Tomás Guidara, ARG, D, 1.73, 68, 13-03-96, Córdoba, Belgrano (Córdoba)
+25, Matías Borgogno, ARG, G, 1.80, 72, 21-08-98, Córdoba, None
+26, Marcos Enrique, ARG, M, 1.78, 76, 30-12-99, Franck, None
+27, Pablo Galdames, CHI, M, 1.72, 62, 30-12-96, Santiago, Unión Española
+28, Miguel Brizuela, ARG, D, 1.81, 80, 05-01-97, Moreno, None
+29, Luis Abram, PER, D, 1.80, 78, 20-02-96, Lima, Sporting Cristal
+31, Álvaro Barreal, ARG, M, 1.72, 66, 17-08-00, Capital Federal, None
+32, Luca Orellano, ARG, M, 1.77, 66, 22-03-00, Francisco Álvarez, None
+33, Isaías Barroza, ARG, M, 1.68, 61, 23-02-01, Santa Fe, None
+34, Francisco Ortega, ARG, M, 1.80, 76, 19-03-99, Santa Fe, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Rodrigo Salinas, ARG, F, 1.86, 77, 04-06-86, La Plata, Newell's Old Boys (On Loan)
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, Retired
+18, Leandro Fernández, ARG, F, 1.78, 70, 12-03-91, Santa Fe, Independiente
+8, Nicolás Domínguez, ARG, M, 1.79, 73, 28-06-98, Haedo, Bologna
+20, Nazareno Bazán, ARG, F, 1.84, 74, 08-03-99, Haedo, Universidad Católica [ECU] (On Loan)
+30, Gastón Giménez, ARG, M, 1.85, 79, 27-07-91, Formosa, Chicago Fire

@@ -1,0 +1,23 @@
+# English Premiership 1995/96
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Coventry City](coventry.txt)
+- [Everton](everton.txt)
+- [Leeds United](leeds.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Nottingham Forest](nottmf.txt)
+- [Queens Park Rangers](qpr.txt)
+- [Sheffield Wednesday](sheffwed.txt)
+- [Southampton](southam.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)
+- [Wimbledon](wimbled.txt)

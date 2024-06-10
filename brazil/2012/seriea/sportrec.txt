@@ -1,0 +1,53 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magrão, BRA, G, 1.87, 79, 09-04-77, São Paulo, Rio Branco-SP
+3, Bruno Aguiar, BRA, D, 1.86, 80, 25-03-86, Amparo, Santos
+4, Edcarlos, BRA, D, 1.85, 76, 10-05-85, Salvador, Desportivo Brasil
+5, Tobi, BRA, D, 1.79, 78, 23-10-78, São Paulo, São Caetano
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+7, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, São Paulo
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Internacional
+10, Marquinhos, BRA, F, 1.74, 69, 21-07-90, Selbach, Internacional
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Busan I'Park
+12, Cicinho, BRA, D, 1.72, 68, 24-06-80, Pradópolis, Roma
+13, Ailson, BRA, D, 1.88, 84, 21-12-79, Montes Claros, Guarani
+14, Diego Ivo, BRA, D, 1.88, 82, 06-04-89, Ibirapuera, Paulista
+15, Renan, BRA, M, 1.80, 78, 29-03-85, Caieiras, Atlético Paranaense
+16, Felipe Menezes, BRA, M, 1.85, 76, 20-01-88, Goiânia, Benfica
+17, Willians, BRA, F, 1.82, 71, 22-05-88, Aracaju, Desportivo Brasil
+18, Milton Júnior, BRA, M, 1.85, 75, 27-03-91, Tangará da Serra, Internacional
+19, Roberson, BRA, F, 1.81, 72, 02-04-89, Campo Grande, Grêmio
+20, Rivaldo, BRA, M, 1.80, 75, 25-08-85, Salgadinho, Desportivo Brasil
+21, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Goiás
+22, Renato, BRA, D, 1.75, 65, 19-01-90, Maceió, None
+23, Naldinho, BRA, M, 1.81, 69, 12-05-90, Caruaru, Porto-PE
+25, Gilsinho, BRA, F, 1.68, 65, 04-04-84, Américo Brasiliense, Corinthians
+26, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, None
+27, Ruan, BRA, F, 1.78, 75, 17-08-93, Natal, None
+28, Moacir, BRA, M, 1.84, 70, 14-02-86, Recife, Coimbra
+30, Welton, BRA, M, 1.75, 70, 17-06-92, Recife, None
+31, Lenon, BRA, M, 1.77, 65, 02-05-90, São Paulo, Flamengo
+32, Matheus Cavichioli, BRA, G, 1.92, 86, 27-07-86, Caçador, Novo Hamburgo
+36, Willian Rocha, BRA, D, 1.86, 81, 01-04-89, Jundiaí, Tombense
+80, Hugo, BRA, M, 1.81, 81, 27-10-80, Rio de Janeiro, Al-Wahda
+87, Saulo, BRA, G, 1.95, 75, 02-04-89, Piranhas, None
+, Silézio, BRA, G, 1.88, 87, 03-01-93, Rio de Janeiro, Fluminense
+, Hamilton, TOG, M, 1.78, 76, 26-06-80, Murici, Boca Júnior-SE
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, César, BRA, D, 1.89, 80, 06-07-80, Guarulhos, Santa Cruz
+, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Coimbra
+, Rodrigo Montoya, BRA, D, 1.88, 80, 11-09-85, Dois Vizinhos, Guarani
+, Anderson Paraíba, BRA, M, 1.70, 68, 28-06-90, João Pessoa, Campinense (On Loan)
+, Jackson, BRA, M, 1.69, 65, 12-04-91, Recife, 
+, Wagner Silva, BRA, D, 1.83, 78, 24-09-89, Esteio, Internacional
+, Diogo, BRA, M, 1.81, 80, 20-10-86, Arapongas, Figueirense (On Loan)
+, Germano, BRA, M, 1.76, 74, 21-03-81, Toledo, 
+, Thiaguinho, BRA, M, 1.69, 72, 22-11-84, Rio de Janeiro, América de Natal
+, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea Grande, Brasa
+, Jheimy, BRA, F, 1.80, 78, 06-08-88, Jacunda, Atlético Mineiro
+8, Marquinhos Paraná, BRA, M, 1.74, 71, 20-07-77, Recife, América Mineiro
+99, Magno Alves, BRA, F, 1.75, 64, 13-01-76, Aporá, Ceará

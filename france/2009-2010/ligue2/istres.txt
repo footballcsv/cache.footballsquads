@@ -1,0 +1,41 @@
+=  Istres - French Ligue 2 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeremy Aymes, FRA, G, 1.89, 85, 12-07-88, Martigues, Martigues
+2, Nicolas Flegeau, FRA, D, 1.83, 75, 06-09-85, Hennebont, Bayonne
+3, Christophe Dumolin, FRA, D, 1.70, 65, 04-01-73, Lyon, Grenoble
+4, Claude Dielna, FRA, D, 1.84, 80, 14-12-87, Clichy-la-Garenne, Lorient
+5, Gary Coulibaly, FRA, M, 1.83, 79, 30-03-86, Bastia, Bastia
+6, Adel Chedli, TUN, M, 1.77, 71, 16-09-76, La Ricamarie, Al Shaab
+8, Riad Nouri, FRA, M, 1.78, 73, 07-06-85, Marseille, Cassis-Carnoux
+9, Yohann Rivière, FRA, F, 1.85, 81, 18-08-84, Pont-l'Abbé, Guingamp
+10, Sofiane Taïbi, FRA, M, 1.70, 60, 05-08-87, Brive-la-Gaillarde, Pau
+11, Romain Ciaravino, FRA, M, 1.80, 74, 24-01-84, Sausset-les-Pins, Gap
+12, Paul Ulrich Kessany, GAB, M, 1.77, 70, 16-03-85, Lambarene, Hapoel Ironi Kiryat
+13, Amor Kehiha, FRA, D, 1.80, 74, 05-09-77, Martigues, Cassis-Carnoux
+14, Mamadou Doumbia, CIV, D, 1.82, 80, 03-12-80, Abidjan, ASEC Mimosas
+15, Kaled Kehiha, FRA, D, 1.81, 80, 12-03-86, Istres, None
+16, Mickaël Menetrier, FRA, G, 1.90, 82, 23-08-78, Reims, Cherbourg
+17, Francileudo dos Santos, TUN, F, 1.72, 68, 20-03-79, Zé Doca, Sochaux
+18, Fouzi El Brazi, MAR, D, 1.78, 81, 22-05-77, Berkane, Wydad Casablanca
+19, Dieudonné Bikoyoï, CMR, D, 1.75, 70, 02-05-85, Yaoundé, Évian TG
+20, Fousseni Diawara, MLI, D, 1.83, 71, 28-08-80, Paris, Panionios
+21, Driss Fettouhi, MAR, M, 1.82, 72, 30-09-89, Casablanca, Le Havre
+22, Fabrice Begeorgi, FRA, F, 1.77, 70, 20-04-87, Martigues, Marseille
+23, Thibault Scotto, FRA, D, 1.77, 68, 17-09-78, Toulon, Nice
+24, Tommy Untereiner, FRA, M, 1.83, 76, 30-06-89, Alès, Uzès
+26, Nabil Sbihi, FRA, D, 1.80, 70, 16-05-88, Marseille, Endoume
+27, Brahim El Bahri, MAR, M, 1.86, 81, 26-03-86, Rabat, Le Mans
+28, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, None
+29, Rafik Saïfi, ALG, F, 1.78, 72, 07-02-75, Algiers, Al-Khor
+30, Kossi Agassa, TOG, G, 1.90, 86, 07-07-78, Lomé, Reims
+33, Nicolas De Préville, FRA, F, 1.82, 77, 08-01-91, Istres, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Johan Gallon, FRA, M, 1.83, 76, 10-04-78, Caen, 
+29, Jérémy Bru, FRA, F, 1.75, 65, 29-11-89, Marseille, Consolat
+17, Walid Mesloub, ALG, F, 1.80, 69, 04-09-85, Trappes, Le Havre
+7, Samy Barkallah, FRA, F, 1.71, 71, 09-01-88, La Ciotat, Cassis Carnoux
+25, Amed Davy Sylla, RUS, F, 1.85, 80, 04-10-82, Lille, Alfortville

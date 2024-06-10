@@ -1,0 +1,62 @@
+=  Sunderland - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jason Steele, ENG, G, 1.88, 79, 18-08-90, Newton Aycliffe, Blackburn R
+2, Billy Jones, ENG, D, 1.81, 77, 24-03-87, Shrewsbury, WBA
+3, Bryan Oviedo, CRC, D, 1.72, 69, 18-02-90, Alajuela, Everton
+4, Paddy McNair, NIR, M, 1.83, 72, 27-04-95, Ballyclare, Manchester U
+6, Lee Cattermole, ENG, M, 1.78, 76, 21-03-88, Stockton-on-Tees, Wigan Ath
+7, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, Crystal Palace
+8, Jack Rodwell, ENG, M, 1.88, 80, 11-03-91, Birkdale, Manchester C
+9, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Middlesbrough
+11, Kazenga LuaLua, COD, M, 1.80, 76, 10-12-90, Kinshasa, Brighton & HA
+12, Lee Camp, NIR, G, 1.83, 75, 22-08-84, Derby, Cardiff C
+13, Callum McManaman, ENG, M, 1.75, 71, 25-04-91, Knowsley, WBA
+14, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Altrincham
+15, Brendan Galloway, ENG, D, 1.88, 87, 17-03-96, Harare, Everton
+16, John O'Shea, IRL, D, 1.91, 75, 30-04-81, Waterford, Manchester U
+18, Tyias Browning, ENG, D, 1.81, 76, 27-05-94, Liverpool, Everton
+19, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Everton
+20, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Fulham
+21, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Celtic
+22, Donald Love, SCO, D, 1.78, 72, 02-12-94, Rochdale, Manchester U
+23, Lamine Koné, CIV, D, 1.89, 80, 01-02-89, Paris, Lorient
+25, Robbin Ruiter, NED, G, 1.96, 78, 25-03-87, Amsterdam, FC Utrecht
+26, George Honeyman, ENG, M, 1.73, 72, 08-09-94, Prudhoe, None
+27, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+28, Ethan Robson, ENG, M, 1.80, 68, 25-10-96, Durham, None
+29, Joel Asoro, SWE, F, 1.75, 70, 27-04-99, Stockholm, IF Brommapojkarna
+30, Alex Storey, ENG, D, , , 11-09-98, Sunderland, None
+32, Maksymilian Stryjek, POL, G, 1.88, 81, 18-07-96, Warsaw, Polonia Warszawa
+33, Adam Bale, ENG, M, , , 21-09-98, Bury, None
+35, Jake Clarke-Salter, ENG, D, 1.88, 70, 22-09-97, Carshalton, Chelsea
+36, Marc Wilson, IRL, D, 1.88, 80, 17-08-87, Belfast, Bournemouth
+37, Bali Mumba, ENG, M, 1.76, 62, 08-10-01, South Shields, None
+38, Owen Gamble, ENG, M, , , 02-01-99, Worksop, Doncaster R
+39, Jack Diamond, ENG, F, 1.75, 61, 12-01-00, Gateshead, None
+40, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, None
+41, Denver Hume, ENG, D, 1.77, 72, 11-08-98, Ashington, None
+42, Chris Allan, ENG, M, , , 27-09-98, South Shields, None
+46, Jake Hackett, ENG, M, 1.70, 60, 10-01-00, Durham, None
+47, Michael Woud, NZL, G, 1.96, 85, 16-01-99, Auckland, Wanderers SC
+48, Brandon Taylor, ENG, D, 1.84, 75, 10-05-99, Gateshead, None
+49, Dan Wright, ENG, M, , , 04-01-98, South Shields, None
+51, James Talbot, IRL, G, 1.83, 80, 24-04-97, Dublin, Home Farm
+52, Luke Molyneux, ENG, M, 1.80, 74, 29-03-98, Bishop Auckland, None
+53, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, Liverpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Jeremain Lens, NED, M, 1.78, 80, 24-11-87, Amsterdam, Beşiktaş (On Loan)
+5, Papy Djilobodji, SEN, D, 1.93, 82, 01-12-88, Kaolack, Dijon (On Loan)
+10, Wahbi Khazri, TUN, M, 1.82, 76, 08-02-91, Ajaccio, Rennes (On Loan)
+34, Tom Robson, ENG, D, 1.78, 75, 11-09-95, Stanley, Falkirk
+50, Andrew Nelson, ENG, F, , , 16-09-97, Stockton-on-Tees, Falkirk (On Loan)
+11, Lewis Grabban, ENG, F, 1.83, 71, 12-01-88, Croydon, Bournemouth
+9, James Vaughan, ENG, F, 1.80, 80, 14-07-88, Birmingham, Wigan Ath
+12, Mika, POR, G, 1.95, 89, 08-03-91, Yverdon-les-Bains, União de Leiria
+37, Rees Greenwood, ENG, F, 1.73, 68, 02-01-96, Winlaton, Gateshead
+31, Tom Beadling, AUS, D, 1.85, 80, 16-01-96, Barrow-in-Furness, Dunfermline Ath (On Loan)
+17, Didier Ndong, GAB, M, 1.79, 75, 17-06-94, Lambaréné, Watford (On Loan)
+24, Darron Gibson, IRL, M, 1.83, 90, 25-10-87, Derry, 

@@ -1,0 +1,51 @@
+=  Trabzonspor - Turkish Süper Lig 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Onur Kıvrak, TUR, G, 1.87, 74, 01-01-88, Alaşehir, Karşıyaka
+2, Douglas, NED, D, 1.92, 80, 12-01-88, São Paulo, Dynamo Moscow
+3, José Bosingwa, POR, D, 1.83, 75, 24-08-82, Kinshasa, QPR
+4, Aykut Demir, TUR, D, 1.80, 67, 22-10-88, Bergen op Zoom, Gençlerbirliği
+5, Okay Yokuşlu, TUR, M, 1.88, 79, 09-03-94, İzmir, Kayserispor
+7, Óscar Cardozo, PAR, F, 1.93, 87, 20-05-83, Campo 9, Benfica
+8, Mehmet Ekici, GER, M, 1.80, 70, 25-03-90, Munich, Werder Bremen
+9, Sefa Yılmaz, GER, M, 1.83, 79, 14-02-90, Berlin, Kayserispor
+10, Özer Hurmacı, TUR, M, 1.74, 70, 20-11-86, Kassel, Kasımpaşa
+17, Muhammet Beşir, TUR, F, 1.82, 80, 01-01-97, Araklı, None
+19, Marko Marin, GER, M, 1.70, 63, 13-03-89, Gradiška, Chelsea
+21, Erkan Zengin, SWE, M, 1.80, 72, 05-08-85, Fittja, Eskişehirspor
+22, Mustafa Yumlu, TUR, D, 1.91, 77, 25-09-87, Trabzon, Arsinspor
+23, Esteban Alvarado, CRC, G, 1.93, 83, 28-04-89, Siquirres, AZ Alkmaar
+24, Salih Dursun, TUR, M, 1.88, 79, 12-07-91, Sakarya, Galatasaray
+26, Yavuz Aygün, TUR, G, 1.83, 86, 27-06-96, Trabzon, None
+27, Semih Karadeniz, TUR, D, 1.78, 69, 02-07-96, Trabzon, None
+32, Yusuf Erdoğan, TUR, M, 1.71, 68, 07-08-92, Isparta, 1461 Trabzon
+33, Serge Akakpo, TOG, D, 1.78, 71, 15-10-87, Lomé, 1461 Trabzon
+35, Aytaç Kara, TUR, M, 1.82, 81, 23-03-93, İzmir, Eskişehirspor
+38, Ramazan Övüç, TUR, M, 1.71, 67, 16-03-94, Kayseri, Erciyesspor
+39, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, Lazio
+66, Fatih Atik, FRA, F, 1.75, 70, 25-06-84, Gleize, Guingamp
+77, Musa Nizam, TUR, D, 1.82, 73, 08-09-90, Antalya, Antalyaspor
+88, Güray Vural, TUR, M, 1.75, 75, 11-06-88, Afyon, Akhisar Belediyespor
+92, Muhammet Demir, TUR, F, 1.75, 69, 10-01-92, Araklı, Gaziantepspor
+97, Yusuf Yazıcı, TUR, M, 1.83, 78, 29-01-97, Trabzon, None
+99, Abdülkadir Ömür, TUR, M, 1.68, 62, 25-06-99, Trabzon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Uğur Demirok, TUR, D, 1.85, 76, 08-07-88, Eyüp, Osmanlıspor (On Loan)
+13, İbrahim Demir, TUR, G, 1.85, 80, 02-09-95, Trabzon, 1461 Trabzon (On Loan)
+26, Fatih Öztürk, TUR, G, 1.91, 86, 22-12-86, Phalsbourg, Akhisar Belediyespor
+86, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Montpellier (On Loan)
+55, Alexandru Bourceanu, ROU, M, 1.75, 72, 24-04-85, Galaţi, Steaua Bucureşti
+11, Kévin Constant, GUI, M, 1.84, 78, 15-05-87, Fréjus, Bologna
+67, Serdar Gürler, TUR, F, 1.73, 72, 14-09-91, Haguenau, Gençlerbirliği
+14, Dame N'Doye, SEN, F, 1.86, 81, 21-02-85, Thiès, Sunderland (On Loan)
+96, Uğurcan Çakır, TUR, G, 1.88, 75, 05-04-96, Antalya, 1461 Trabzon (On Loan)
+60, Mehmet Kuruoğlu, TUR, D, 1.85, 75, 10-08-90, Trabzon, 1461 Trabzon (On Loan)
+25, Stéphane Mbia, CMR, M, 1.89, 82, 20-05-86, Yaoundé, Hebei China Fortune
+20, Soner Aydoğdu, TUR, M, 1.80, 72, 05-01-91, Mamak, Akhisar Belediyespor
+64, Alper Uludağ, TUR, M, 1.80, 71, 11-12-90, Heusden-Zolder, Akhisar Belediyespor
+18, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Bursaspor
+68, İshak Doğan, TUR, D, 1.87, 83, 09-08-90, Hagen, Eskişehirspor (On Loan)
+6, Carl Medjani, ALG, D, 1.84, 84, 15-05-85, Lyon, Levante

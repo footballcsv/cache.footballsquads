@@ -1,0 +1,55 @@
+=  América Mineiro - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Cavichioli, BRA, G, 1.92, 86, 27-07-86, Caçador, Guarani
+2, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Sport Recife
+3, Iago Maidana, BRA, D, 1.95, 87, 06-02-96, Criciúma, Atlético Mineiro
+4, Germán Conti, ARG, D, 1.92, 78, 03-06-94, Santa Fe, Benfica
+5, Zé Ricardo, BRA, M, 1.76, 72, 09-03-96, Bom Jesus do Amparo, None
+6, Marlon, BRA, D, 1.77, 66, 13-02-94, Angra dos Reis, Sampaio Corrêa
+7, Matheusinho, BRA, M, 1.64, 60, 11-02-98, Belo Horizonte, Beitar Jerusalem
+8, Juninho, BRA, M, 1.73, 66, 23-10-87, Goiânia, Atlético Paranaense
+9, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Fortaleza
+10, Juan Pablo Ramírez, COL, M, 1.82, 76, 26-11-97, Medellín, Atlético Nacional
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Ceará
+12, Airton, BRA, G, 1.88, 84, 29-05-94, São Marcos, Pelotas
+13, Rodriguinho, BRA, M, 1.70, 65, 05-06-03, Contagem, None
+16, João Paulo, BRA, D, 1.73, 72, 01-07-86, Belo Horizonte, Figueirense
+17, Gonzalo Mastriani, URU, F, 1.80, 76, 28-04-93, Montevideo, Barcelona [ECU]
+18, Gustavinho, BRA, M, 1.74, 67, 29-10-01, Juiz de Fora, None
+19, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Chapecoense
+20, Jori, BRA, G, 1.90, 84, 15-03-96, Periquito, None
+21, Lucas Kal, BRA, D, 1.85, 78, 16-03-96, São Paulo, São Paulo
+22, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Corinthians
+23, Robson, BRA, G, 1.87, 80, 09-07-00, Cantagalo, Cruzeiro
+25, Arthur, BRA, D, 1.73, 70, 17-03-03, Belo Horizonte, None
+27, Raúl Cácares, PAR, D, 1.80, 75, 18-09-91, Asunción, Cruzeiro
+28, Martín Benítez, ARG, M, 1.73, 72, 17-06-94, Posadas, Independiente
+30, Alê, BRA, M, 1.84, 75, 06-06-90, Osasco, Cuiabá
+33, Éder, BRA, D, 1.84, 70, 05-04-95, Gurupi, Atlético Goianiense
+34, Luan Patrick, BRA, D, 1.90, 73, 20-01-02, Carazinho, Athletico Paranaense
+35, Kevyn, BRA, M, 1.79, 72, 22-06-02, Porto Alegre, None
+36, Mateus Henrique, BRA, M, 1.78, 66, 02-10-02, Salinas, None
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Corinthians
+38, Carlos Alberto, BRA, F, 1.81, 67, 14-04-02, João Pessoa, None
+39, Flávio, BRA, M, 1.80, 78, 15-06-00, Salinas, None
+44, Adyson, BRA, F, 1.68, 59, 22-09-05, Coroatá, None
+45, Ricardo Silva, BRA, D, 1.90, 78, 13-08-92, São José do Seridó, FC Seoul
+80, Leandro Martínez, ARG, M, 1.77, 66, 04-06-94, Tandil, Barcelona [ECU]
+99, Aloísio, CHN, F, 1.76, 78, 19-06-88, Araranguá, Guangzhou
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Gabriel Gomes, BRA, D, 1.87, 79, 23-08-99, São Gonçalo, Internacional de Minas
+47, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, Metalist Kharkiv
+42, Jailson, BRA, G, 1.86, 80, 20-07-81, São José dos Campos, 
+32, Carlos Junio, BRA, D, 1.84, 73, 27-03-01, Betim, Azuriz (On Loan)
+31, Kawê, BRA, F, 1.78, 66, 22-06-02, São Paulo, Red Bull Bragantino
+26, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Sport Recife
+14, Gustavo Marques, BRA, D, 1.89, 85, 09-10-01, Belo Horizonte, Torreense
+17, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, Wellington Phoenix
+28, Orlando Berrío, COL, F, 1.82, 73, 14-02-91, Cartagena, Águilas Doradas
+15, Juninho Valoura, BRA, M, 1.75, 70, 20-03-86, Rio de Janeiro, CRB
+29, Pedrinho, BRA, F, 1.76, 64, 10-11-99, São Paulo, Red Bull Bragantino
+40, Matheusinho, BRA, M, 1.64, 60, 11-02-98, Belo Horizonte, Re-Registered (7)

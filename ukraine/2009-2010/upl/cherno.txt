@@ -1,0 +1,60 @@
+=  Chernomorets Odessa - Ukrainian Premier League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vitaliy Rudenko, UKR, G, 1.82, 73, 26-01-81, Odessa, Lokomotiv Aleksandrovka
+2, Volodymyr Fedoriv, UKR, D, 1.79, 70, 29-07-85, Mezhdurechye, Karpaty Lviv
+3, Viktor Melnyk, UKR, M, 1.82, 75, 11-08-80, Zaporozhye, Kryvbas Kryvyi Rih
+4, Ruslan Bidnenko, RUS, M, 1.84, 74, 20-07-81, Boryspil, Dnipro Dnipropetrovsk
+5, Oleh Shandruk, UKR, D, 1.79, 72, 30-01-83, Smyha, Arsenal Kiev
+6, Léo Matos, BRA, D, 1.82, 72, 02-04-86, Niterói, Tombense
+7, Vitaly Balashov, UKR, F, 1.70, 60, 07-02-91, Odessa, Chernomorets Odessa-2
+8, Volodymyr Bondarenko, UKR, M, 1.79, 75, 06-07-81, Kiev, Baltika Kaliningrad
+9, Ruslan Levyha, UKR, F, 1.85, 78, 31-01-83, Donetsk, Shakhtar Donetsk
+10, Oleksandr Kosyrin, UKR, F, 1.85, 78, 18-06-77, Odessa, Metalurh Donetsk
+11, Vladimirs Koļesņičenko, LVA, M, 1.78, 69, 04-05-80, Riga, Skonto
+12, Yevheniy Shyryayev, UKR, G, 1.86, 79, 22-02-84, Uspenovka, Chernomorets Odessa-2
+14, Ihor Sylantyev, UKR, F, 1.83, 72, 03-01-91, Odessa, Chernomorets Odessa-2
+15, Vladyslav Vashchuk, UKR, D, 1.80, 72, 02-01-75, Kiev, Lokomotiv Astana
+16, Oleksandr Yakymenko, UKR, F, 1.85, 68, 05-09-88, Odessa, Chernomorets Odessa-2
+17, Serhiy Politylo, UKR, M, 1.65, 63, 09-01-89, Novovolynsk, Chernomorets Odessa-2
+18, Mauricio Saucedo, BOL, M, 1.85, 78, 14-08-85, Santa Cruz de la Sierra, Universitario de Sucre
+19, Anatoliy Didenko, UKR, F, 1.93, 82, 09-06-82, Yuznoukrainsk, Metalist Kharkiv
+20, Roman Maksymyuk, UKR, M, 1.88, 81, 14-06-74, Bytkiv, Kazakhmys
+21, Denys Salyvon, UKR, D, 1.85, 74, 26-03-90, Kiev, Chernomorets Odessa-2
+22, Oleksiy Shlyakotin, UKR, G, 1.97, 72, 02-09-89, Kiev, Chernomorets Odessa-2
+23, Narciso Mina, ECU, F, 1.79, 80, 25-11-82, San Lorenzo [ECU], Barcelona [ECU]
+28, Pavlo Rebenok, UKR, M, 1.80, 70, 23-07-85, Ordzhonikidze, Metalist Kharkiv
+31, Ivan Bobko, UKR, M, 1.83, 70, 10-12-90, Odessa, Chernomorets Odessa-2
+33, Aleksandr Ponomarev, RUS, D, 1.85, 80, 25-01-86, Moscow, FC Rostov
+34, Sergey Prihodko, RUS, G, 1.90, 77, 09-05-84, St Petersburg, Sheksna Cherepovets
+35, Dmytro Vladov, UKR, M, 1.88, 72, 12-03-90, Odessa, Chernomorets Odessa-2
+36, Yehor Bidniy, UKR, D, 1.85, 76, 27-06-88, Odessa, Chernomorets Odessa-2
+37, Dmytro Hryshko, UKR, D, 1.82, 72, 02-12-85, Gorlovka, Spartak Gorlovka
+39, Denys Vasyn, UKR, F, 1.79, 71, 04-03-89, Odessa, Chernomorets Odessa-2
+42, Andriy Klishchuk, UKR, G, 1.86, 76, 03-07-92, Izmail, Chernomorets Odessa-2
+43, Serhiy Melnyk, UKR, D, 1.85, 70, 04-09-88, Odessa, Chernomorets Odessa-2
+44, Yevhen Past, UKR, G, 1.87, 72, 16-03-88, Odessa, 7Chernomorets Odessa-2
+45, Dmytro Koloda, UKR, M, 1.80, 70, 19-06-89, Odessa, Chernomorets Odessa-2
+55, Oleksandr Babych, UKR, D, 1.86, 80, 15-02-79, Alchevsk, Metalist Kharkiv
+70, Gustavo Pineda, BOL, M, 1.73, 68, 18-02-88, La Paz, Almería
+77, Denys Serdyuchenko, UKR, M, 1.78, 69, 05-03-91, Odessa, Chernomorets Odessa-2
+90, Hennadiy Hanyev, UKR, G, 1.86, 76, 15-05-90, Sarata, Chernomorets Odessa-2
+91, Artem Dudnyk, UKR, F, 1.83, 75, 15-03-91, , Chernomorets Odessa-2
+92, Giorgi Chelebadze, GEO, M, 1.83, 76, 01-01-92, , Olimpic Rustavi
+93, Borys Taschchy, UKR, M, 1.81, 75, 26-07-93, Odessa, Chernomorets Odessa-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Serghei Nudnii, MDA, M, 1.67, 67, 06-10-80, Rozdilna, Feniks-Illichovets
+79, Álvaro Mello, URU, F, 1.83, 80, 13-05-79, Montevideo, Cerro
+24, Oleksandr Yatsenko, UKR, D, 1.80, 75, 24-02-85, Kiev, Illichivets Mariupol
+6, Mirko Raičević, MNE, M, 1.78, 75, 22-03-82, Podgorica, Zakarpattya Uzhgorod
+13, Maksym Biletskyy, UKR, M, 1.74, 72, 07-01-80, Kiev, Shinnik
+7, Artem Kasyanov, UKR, M, 1.82, 75, 20-04-83, Stakhanov, 
+30, Sebastián Vázquez, URU, M, 1.84, 78, 04-11-80, San Ramón, Beitar Jerusalem
+20, Oleh Humenyuk, UKR, M, 1.78, 66, 03-05-83, Odessa, Bastion Illichivsk
+26, Roman Bochkur, UKR, D, 1.81, 78, 27-08-87, Tysmenytsia, 
+33, Andriy Slinkin, UKR, D, 1.78, 71, 19-02-91, Odessa, 
+25, Vitaly Balashov, UKR, F, 1.70, 60, 07-02-91, Odessa, Re-Registered (7)
+91, Maksym Havrylenko, UKR, M, 1.69, 60, 18-08-91, Odessa, 

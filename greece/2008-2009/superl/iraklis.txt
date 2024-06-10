@@ -1,0 +1,46 @@
+=  Iraklis - Greek Super League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giorgios Badis, GRE, G, 1.88, 74, 30-04-85, Thessaloniki, None
+2, Grigoris Papazaharias, GRE, D, 1.86, 75, 20-03-85, Epanomi, None
+3, Christos Bourbos, GRE, D, 1.80, 82, 01-06-83, Ioannina, AEK
+4, Tassos Katsabis, GRE, D, 1.88, 79, 30-07-73, Athens, PAOK
+5, Costas Foufoulas, GRE, D, 1.83, 83, 25-10-84, , Kerkyra
+6, Serge Dié, CIV, M, 1.72, 67, 04-10-77, Abidjan, Ajaccio
+7, Kiko Ratón, ESP, F, 1.86, 86, 19-09-76, Puerto de la Cruz, Orihuela
+8, Francisco Martos, ESP, M, 1.78, 73, 04-01-84, Alamedilla, Málaga B
+9, Aggelos Komvolidis, GRE, F, 1.83, 78, 14-03-88, Stuttgart, AEK
+10, Fernando Marqués, ESP, M, 1.78, 70, 04-12-84, Madrid, Atlético Madrid B
+11, Tassos Agritis, GRE, F, 1.76, 75, 16-04-81, Mytilene, Kickers Offenbach
+12, Ahilleas Sarakatsanos, GRE, D, 1.81, 75, 03-11-82, Trikalas, Kerkyra
+15, Savas Exouzidis, GRE, D, 1.93, 86, 04-12-81, Stuttgart, RKC Waalwijk
+16, Giorgos Ioannidis, GRE, D, 1.73, 64, 04-05-88, Serres, None
+17, Emmanuel Papasterianos, GRE, M, 1.79, 72, 15-08-87, Halkidiki, None
+18, Kostas Giannoulis, GRE, D, 1.83, 73, 09-12-87, Katerini, Pierikos
+19, Dimitris Yiantsis, GRE, F, 1.72, 67, 04-03-88, Goumenissa, None
+20, Sebastián García, ARG, M, 1.74, 73, 27-01-84, Santa Fe, Unión (Santa Fe)
+21, Denis Epstein, GER, M, 1.80, 71, 02-07-86, Cologne, Kickers Offenbach
+23, Haralabos Perperidis, GRE, D, 1.78, 73, 29-04-86, Kalamonas, Pandramaikos
+24, Aleksandar Vuković, SRB, M, 1.86, 82, 25-08-79, Banja Luka, Legia Warszawa
+25, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, AEK
+26, Grigoris Pitsokos, GRE, M, 1.72, 67, 09-08-89, Thessaloniki, None
+28, Nikolaos Psychogios, GRE, D, 1.70, 64, 25-02-89, Chalkidiki, None
+30, Wojciech Kowalewski, POL, G, 1.89, 86, 11-05-77, Białystok, Korona Kielce
+31, Ilias Melkas, GRE, G, 1.90, 84, 07-10-89, Pogradec, None
+32, Errikos Drambis-Sideris, GRE, M, , , 15-07-88, , None
+34, Kydon Karlopoulos, GRE, M, 1.68, 61, 03-05-89, Thessaloniki, None
+40, Giannis Floros, GRE, D, , , 15-01-89, , None
+41, Anastasios Zifkas, GRE, M, , , 07-12-88, , None
+42, Feidias Panagiotou, CYP, D, , , 22-02-89, Nicosia, Olympiakos Nicosia
+43, Christos Panagiotopoulos, GRE, F, , , 12-04-89, , None
+44, Angelos Lionis, GRE, F, , , 13-01-90, , None
+47, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, None
+48, Nikolaos Aggeloudis, GRE, F, 1.83, 72, 14-05-91, Thessaloniki, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Giorgios Moschakis, GRE, M, 1.69, 66, 12-11-89, Thessaloniki, Thermaikos (On Loan)
+14, Mihalis Konstantinou, CYP, F, 1.88, 85, 19-02-78, Paralimni, Omonia Nicosia
+22, Antrea Kolici, ALB, G, 1.90, 84, 13-02-86, Pogradec, Olympiakos Volos (On Loan)
+27, Dimitris Aslanidis, GRE, M, 1.78, 73, 16-08-89, Thessaloniki, Olympiakos Volos (On Loan)

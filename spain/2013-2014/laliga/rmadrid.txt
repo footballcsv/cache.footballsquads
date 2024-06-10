@@ -1,0 +1,49 @@
+=  Real Madrid - Spanish La Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iker Casillas, ESP, G, 1.85, 79, 20-05-81, Madrid, Real Madrid B
+2, Raphaël Varane, FRA, D, 1.91, 76, 25-04-93, Lille, Lens
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, FC Porto
+4, Sergio Ramos, ESP, D, 1.83, 73, 30-03-86, Camas, Sevilla
+5, Fábio Coentrão, POR, D, 1.78, 66, 11-03-88, Vila do Conde, Benfica
+6, Sami Khedira, GER, M, 1.89, 83, 04-04-87, Stuttgart, Stuttgart
+7, Cristiano Ronaldo, POR, F, 1.86, 75, 05-02-85, Funchal, Manchester U
+9, Karim Benzema, FRA, F, 1.82, 74, 19-12-87, Lyon, Lyon
+11, Gareth Bale, WAL, M, 1.83, 74, 16-07-89, Cardiff, Tottenham H
+12, Marcelo, BRA, D, 1.74, 73, 12-05-88, Rio de Janeiro, Fluminense
+13, Jesús Fernández, ESP, G, 1.89, 79, 11-06-88, Madrid, Real Madrid B
+14, Xabi Alonso, ESP, M, 1.83, 75, 25-11-81, Tolosa, Liverpool
+15, Daniel Carvajal, ESP, D, 1.73, 70, 11-01-92, Leganés, Bayer Leverkusen
+16, Casemiro, BRA, M, 1.84, 80, 23-02-92, São José dos Campos, São Paulo
+17, Álvaro Arbeloa, ESP, D, 1.83, 76, 17-01-83, Salamanca, Liverpool
+18, Nacho Fernández, ESP, D, 1.80, 74, 18-01-90, Madrid, Real Madrid B
+19, Luka Modrić, CRO, M, 1.75, 67, 09-09-85, Zadar, Tottenham H
+20, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Real Madrid B
+21, Álvaro Morata, ESP, F, 1.87, 80, 23-10-92, Madrid, Real Madrid B
+22, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Benfica
+23, Isco, ESP, F, 1.76, 80, 21-04-92, Valencia, Málaga
+24, Asier Illarramendi, ESP, M, 1.77, 74, 08-03-90, Mutriku, Real Sociedad
+25, Diego López, ESP, G, 1.96, 88, 03-11-81, Paradela, Sevilla
+26, José Rodríguez, ESP, M, 1.80, 68, 16-12-94, Villajoyosa, Real Madrid B
+27, Lucas Vázquez, ESP, M, 1.73, 69, 01-07-91, Curtis, Real Madrid B
+28, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Real Madrid B
+29, Cristian Benavente, PER, M, 1.72, 68, 19-05-94, Alcalá de Henares, Real Madrid B
+30, Burgui, ESP, M, 1.84, 71, 29-10-93, Burguillos del Cerro, Real Madrid B
+32, Jorge Casado, ESP, D, 1.83, 77, 26-06-89, Madrid, Real Madrid B
+33, Borja, ESP, M, 1.72, 65, 02-11-90, Torremocha de Jarama, Real Madrid B
+34, Rubén Belima, EQG, M, 1.80, 70, 11-02-92, Mostoles, Real Madrid B
+35, Fernando Pacheco, ESP, G, 1.87, 81, 18-05-92, Badajoz, Real Madrid B
+36, Rubén Sobrino, ESP, F, 1.85, 73, 01-06-92, Daimiel, Real Madrid B
+37, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Real Madrid B
+38, Diego Llorente, ESP, D, 1.85, 74, 16-08-93, Madrid, Real Madrid B
+39, Willian José, BRA, F, 1.86, 81, 23-11-91, Porto Calvo, Deportivo Maldonado
+40, Álvaro Medrán, ESP, M, 1.76, 71, 15-03-94, Córdoba, Real Madrid B
+41, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Real Madrid B
+42, Jacob Sánchez, ESP, G, 1.86, 76, 28-08-91, Torrelles de Llobregat, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Kaká, BRA, M, 1.86, 83, 22-04-82, Brasília, Milan
+10, Mesut Özil, GER, M, 1.82, 73, 15-10-88, Gelsenkirchen, Arsenal
+31, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Middlesbrough (On Loan)

@@ -1,0 +1,38 @@
+=  Alcorcón - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Huesca
+2, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo La Coruña
+3, Carlos Pomares, ESP, D, 1.82, 74, 05-12-92, Valencia, Extremadura
+5, Juan Aguilera, ESP, M, 1.85, 76, 13-09-85, Madrid, Huesca
+6, Adrián Diéguez, ESP, D, 1.87, 69, 04-02-96, Madrid, Alavés B
+7, Richard Boateng, GHA, M, 1.78, 66, 10-07-92, Accra, Oviedo
+8, Albert Dorca, ESP, M, 1.82, 77, 23-12-82, Olot, Elche
+9, Jack Harper, SCO, F, 1.85, 75, 28-02-96, Málaga, Getafe
+10, Serhiy Myakushko, UKR, M, 1.70, 70, 15-04-93, Kyiv, Karpaty Lviv
+11, Ernesto Gómez, ESP, M, 1.73, 65, 18-07-94, Albolote, Oviedo B
+14, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Cádiz
+15, Rui Costa, BRA, F, 1.79, 73, 20-02-96, Vila Nova de Famalicão, FC Porto
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Samuel Sosa, VEN, F, 1.78, 71, 17-12-99, Valencia, Talleres (Córdoba)
+18, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Málaga
+19, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Oviedo
+20, Unai Elgezábal, ESP, D, 1.85, 74, 25-04-93, Barakaldo, Eibar
+21, Fran Sandaza, ESP, F, 1.87, 80, 30-11-84, Toledo, Qingdao Huanghai
+22, Paris Adot, ESP, D, 1.80, 70, 26-02-90, Pamplona, Mirandés
+23, Stoichkov, ESP, F, 1.78, 71, 05-11-93, San Roque, Mallorca
+24, Reko, POR, M, 1.80, 66, 25-07-95, Barcelos, Académica
+26, Óscar Arribas, ESP, F, 1.78, 68, 22-10-98, Parla, Alcorcón B
+27, Marvin Anieboh, EQG, D, 1.87, 80, 26-08-97, Madrid, Carabanchel
+28, Mario González, ESP, M, 1.74, 68, 25-06-98, Madrid, Parla
+29, Javier Castro, ESP, D, 1.83, 75, 13-09-00, Madrid, Rayo Vallecano B
+30, Samu Casado, ESP, G, 1.86, 77, 16-01-97, Guadix, Málaga B
+31, Ximo Miralles, ESP, G, 1.85, 80, 14-04-96, Vinarós, Villarreal C
+32, Carlos Mena, ESP, G, 1.88, 79, 07-11-96, Ciudad Real, Alcorcón B
+34, Luis Perea, ESP, M, 1.92, 85, 25-08-97, Alcalá de Henares, Osasuna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Granada
+33, Cavafe, ESP, D, 1.85, 77, 25-04-99, Havana, Unionistas de Salamanca (On Loan)

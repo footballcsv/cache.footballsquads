@@ -1,0 +1,45 @@
+=  Flamengo - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Alves, BRA, G, 1.88, 83, 24-06-85, Rio de Janeiro, Valencia
+2, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+4, Juan, BRA, D, 1.82, 78, 01-02-79, Rio de Janeiro, Internacional
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Botafogo
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Sport Recife
+7, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Al-Ahli [UAE]
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Palmeiras
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Corinthians
+10, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Lazio
+11, Federico Mancuello, ARG, M, 1.77, 75, 26-03-89, Reconquista, Independiente
+13, Miguel Trauco, PER, D, 1.75, 62, 25-08-92, Tarapoto, Universitario de Deportes
+15, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Internacional
+17, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Bahia
+19, Darío Conca, ARG, M, 1.67, 62, 11-05-83, Capital Federal, Shanghai SIPG
+20, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, None
+21, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Grêmio
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, UANL Tigres
+23, Geuvânio, BRA, F, 1.75, 62, 05-04-92, Ilha das Flores, Tianjin Quanjian
+26, Gustavo Cuéllar, COL, M, 1.77, 76, 14-10-92, Barranquilla, Deportivo Cali
+27, Rômulo, BRA, M, 1.84, 80, 19-09-90, Picos, Spartak Moscow
+28, Orlando Berrío, COL, F, 1.82, 73, 14-02-91, Cartagena, Atlético Nacional
+30, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, None
+33, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Vasco da Gama
+35, Diego, BRA, M, 1.74, 76, 28-02-85, Ribeirão Preto, Fenerbahçe
+38, Alex Muralha, BRA, G, 1.86, 89, 10-11-89, Três Corações, Figueirense
+39, Lucas Paquetá, BRA, M, 1.80, 72, 27-08-97, Rio de Janeiro, None
+42, Matheus Sávio, BRA, M, 1.72, 66, 15-04-97, Ribeirão Preto, Desportivo Brasil
+43, Léo Duarte, BRA, D, 1.83, 76, 17-07-96, Mococa, None
+44, Rhodolfo, BRA, D, 1.93, 82, 11-08-86, Bandeirantes, Beşiktaş
+45, Gabriel Batista, BRA, G, 1.91, 85, 03-06-98, São Gonçalo, None
+47, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Belo Horizonte, None
+49, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Cafu, BRA, F, 1.70, 70, 22-11-96, Niterói, Ceará (On Loan)
+25, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Tijuana
+37, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, Sion
+18, Leandro Damião, BRA, F, 1.88, 81, 22-07-89, Jardim Alegre, Santos
+40, Thiago Santos, BRA, F, 1.78, 70, 12-04-95, Mari, Mumbai C (On Loan)
+41, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Atlético Goianiense (On Loan)

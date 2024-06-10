@@ -1,0 +1,62 @@
+=  Saturn - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonín Kinský, CZE, G, 1.87, 86, 31-05-75, Prague, Slovan Liberec
+2, Vadim Evseev, RUS, D, 1.80, 82, 08-01-76, Mytishchi, Torpedo Moscow
+3, Zelão, BRA, D, 1.88, 89, 12-11-86, Pirajuí, Corinthians
+4, Peter Petráš, SVK, D, 1.82, 81, 07-05-79, Bratislava, Artmedia Bratislava
+5, Aleksey Igonin, RUS, D, 1.81, 82, 18-03-76, St. Petersburg, Chernomorets Odessa
+6, Ján Ďurica, SVK, D, 1.87, 85, 10-11-81, Bratislava, Artmedia Bratislava
+7, Petr Nemov, RUS, M, 1.80, 69, 18-10-83, Oryol, Krylia Sovetov
+8, Marko Topić, CRO, F, 1.83, 84, 01-01-76, Oštra Luka, Krylia Sovetov
+9, Baffour Gyan, GHA, F, 1.80, 73, 02-07-80, Liberty, Dynamo Moscow
+10, Dmitriy Loskov, RUS, M, 1.78, 78, 12-02-74, Kurgan, Lokomotiv Moscow
+11, Alexei Eremenko, FIN, M, 1.83, 84, 24-03-83, Rostov-on-Don, Lecce
+14, Dmitriy Kirichenko, RUS, F, 1.75, 75, 17-01-77, Novoalexandrovsk, FC Moscow
+15, Ruslan Nakhushev, RUS, D, 1.85, 79, 05-09-84, Nalchik, FC Khimki
+16, Aleksei Botvinyev, RUS, G, 1.94, 92, 25-06-81, Kolomna, Shakhtar Donetsk
+17, Vladimir Yurchenko, BLR, F, 1.72, 70, 26-01-89, , Dinamo Minsk
+19, Illiasu Shilla, GHA, D, 1.88, 75, 26-10-82, Tamale, Asante Kotoko
+20, Makhach Gadzhiev, RUS, M, 1.81, 73, 18-10-87, Kizilyurt, Krylia Sovetov
+21, Andrey Karyaka, RUS, M, 1.79, 75, 01-04-78, Dnipropetrovsk, Benfica
+22, Igor Lebedenko, RUS, F, 1.82, 78, 27-05-83, Moscow, Lokomotiv Moscow
+23, Andrey Husin, UKR, M, 1.88, 82, 11-12-72, Kiev, Krylia Sovetov
+24, Benoît Angbwa, CMR, D, 1.76, 76, 01-01-82, Garoua, Krylia Sovetov
+28, Anatoliy Gerk, RUS, M, 1.80, 76, 20-11-84, Moscow, FC Twente
+29, Leonid Kovel, BLR, F, 1.79, 79, 29-07-86, Smarhoń, Dinamo Minsk
+30, Aleksandr Makarov, RUS, G, 1.98, 99, 23-08-78, Morshansk, Krylia Sovetov
+31, Solomon Okoronkwo, NGA, F, 1.82, 77, 02-03-87, Enugu, Hertha Berlin
+33, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Zenit
+35, Ivan Temnikov, RUS, M, 1.70, 65, 28-01-89, Bratsk, Saturn-2
+37, Roman Vorobyov, RUS, M, 1.75, 70, 24-03-84, St. Petersburg, FC Khimki
+39, Walid Hichri, TUN, D, 1.97, 92, 05-03-86, Aryanah, Club Africain
+40, Aleksey Shirokov, RUS, G, 1.95, 88, 06-04-89, Moscow, Saturn-2
+41, Aleksandr Sapeta, RUS, M, 1.79, 73, 28-06-89, Engels, Saturn-2
+42, Fedor Pronkov, RUS, D, 1.93, 83, 08-08-90, Dnipropetrovsk, Saturn-2
+43, Roman Razdelkin, RUS, M, 1.87, 67, 07-04-89, Saratov, Saturn-2
+44, Anton Kozlov, RUS, M, 1.79, 76, 02-06-88, Bratsk, Saturn-2
+45, Egor Kvach, RUS, D, 1.80, 76, 12-06-88, St. Petersburg, Saturn-2
+46, MIkhail Spirin, RUS, M, 1.81, 75, 05-08-90, , Saturn-2
+47, Sergey Belousov, RUS, M, 1.72, 67, 04-05-90, Elets, Saturn-2
+49, Kirill Chekmarev, RUS, F, 1.80, 74, 05-02-90, Orel, Saturn-2
+51, Mikhail Shevyakov, RUS, M, 1.83, 69, 08-02-89, Schelkovo, Saturn-2
+52, Mikhail Kuzyayev, RUS, M, 1.80, 71, 22-01-88, Bronnitsy, Saturn-2
+53, Aleksandr Kolodko, RUS, M, 1.82, 72, 10-07-89, Omsk, Saturn-2
+57, Artem Molodtsov, RUS, D, 1.74, 70, 08-10-90, Saratov, Saturn-2
+61, Farkhod Vosiyev, TJK, D, 1.78, 72, 14-04-90, Dushanbe, Saturn-2
+63, Yevgeniy Malkov, RUS, D, 1.86, 81, 12-07-88, Elektrostal, Saturn-2
+64, Artem Antoshchuk, RUS, D, 1.83, 79, 18-07-89, , Saturn-2
+66, Aleksandr Grishchenko, RUS, M, 1.77, 65, 24-07-90, , Saturn-2
+70, Igor Kuzmin, RUS, F, 1.89, 81, 13-01-89, , Saturn-2
+72, Vitaliy Chilushkin, RUS, G, 1.78, 72, 21-01-90, Kabanovo, Saturn-2
+88, Aleksey Ivanov, RUS, M, 1.78, 73, 01-09-81, Saratov, Luch-Energia
+90, Aleksandr Romanov, RUS, G, 1.87, 83, 09-03-90, , Saturn-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+60, Kirill Spasskiy, RUS, M, 1.79, 73, 11-12-88, Yaroslavl, 
+26, Martin Jakubko, SVK, F, 1.94, 95, 26-02-80, Prešov, FC Khimki (On Loan)
+18, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, FC Moscow
+27, Aleksandr Kharitonov, RUS, M, 1.80, 72, 04-04-83, Krasnoyarsk, Tom (On Loan)
+25, Dmitriy Polovinchuk, RUS, M, 1.81, 74, 27-09-82, Moscow, Shinnik

@@ -1,0 +1,51 @@
+=  Chapecoense - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1**, Danilo, BRA, G, 1.85, 80, 31-07-85, Cianorte, Londrina
+2**, Gimenez, BRA, D, 1.76, 72, 18-06-95, Ribeirão Preto, Cianorte
+3, Rafael Lima, BRA, D, 1.87, 78, 08-03-86, Florianópolis, Inter-SM
+4, Neto, BRA, D, 1.95, 94, 16-08-85, Rio de Janeiro, Santos
+5**, Josimar, BRA, M, 1.81, 78, 18-08-86, Pelotas, Internacional
+6**, Dener, BRA, D, 1.78, 71, 28-06-91, Bagé, Coritiba
+7, Lourency, BRA, F, 1.78, 74, 02-01-96, Imperatriz, None
+8**, Gil, BRA, M, 1.68, 66, 09-03-87, Santo Antônio, Coritiba
+9**, Bruno Rangel, BRA, F, 1.81, 72, 11-12-81, Campos, Al-Arabi [QAT]
+10, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Corinthians
+11**, Ananias, BRA, F, 1.66, 60, 20-01-89, São Luis, Cruzeiro
+12, Marcelo Boeck, BRA, G, 1.91, 83, 28-11-84, Santa Cruz, Sporting CP
+13**, Marcelo, BRA, D, 1.86, 80, 26-08-91, Juiz de Fora, Cianorte
+23**, Lucas Gomes, BRA, F, 1.77, 75, 29-05-90, Bragança, Londrina
+27**, Thiego, BRA, D, 1.85, 75, 22-07-86, Aracajú, Khazar Lankaran
+28, Moisés, BRA, M, 1.79, 74, 03-03-91, Salvador, Linense
+29, Pedro Perotti, BRA, F, 1.85, 77, 22-11-97, Chapecó, None
+30, Neném, BRA, M, 1.73, 71, 04-02-82, Santa Catarina, Criciúma
+31, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, None
+32, Lima, BRA, M, 1.73, 65, 09-05-99, Chapecó, None
+33**, Kempes, BRA, F, 1.82, 77, 03-08-82, Rio de Janeiro, Joinville
+35**, Sérgio Manoel, BRA, M, 1.77, 82, 08-09-89, Xique-Xique, Água Santa
+36, Nivaldo, BRA, G, 1.81, 77, 18-03-74, Torres, Esportivo-RS
+40, Follmann, BRA, G, 1.86, 80, 14-03-92, Alecrim, URT
+41, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Internacional
+44, Demerson, BRA, D, 1.84, 81, 16-03-86, Belo Horizonte, Paraná
+45**, Filipe Machado, BRA, D, 1.87, 79, 13-03-84, Gravati, Saba Qom
+50**, Arthur Maia, BRA, M, 1.70, 63, 13-10-92, Maceió, Vitória
+60**, Mateus Caramelo, BRA, D, 1.81, 79, 30-08-94, Araçatuba, São Paulo
+70**, Ailton Canela, BRA, F, 1.80, 78, 18-11-94, Matão, Botafogo-SP
+77**, Matheus Biteco, BRA, M, 1.72, 65, 28-06-95, Porto Alegre, 1899 Hoffenheim
+87, Alejandro Martinuccio, ARG, F, 1.73, 72, 16-12-87, Capital Federal, Fluminense
+88**, Cléber Santana, BRA, M, 1.87, 84, 27-06-81, Recife, Criciúma
+89, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Internacional
+94**, Tiaguinho, BRA, M, 1.70, 65, 04-06-94, Trajano de Morais, Metropolitano
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Maranhão, BRA, M, 1.68, 63, 03-05-90, São Luis, Ypiranga
+15, Martín Alaníz, URU, M, 1.75, 67, 19-02-93, Melo, River Plate [URU]
+26, Silvinho, BRA, F, 1.75, 72, 01-07-90, Guajará Mirim, Penapolense
+55, Rodrigo Andrade, BRA, M, 1.77, 73, 05-02-88, Rio de Janeiro, Fortaleza
+17, Andrei, BRA, M, 1.78, 71, 14-01-95, Florianópolis, Concórdia (On Loan)
+19, Lucas Scalon, BRA, D, , , 20-09-95, , Concórdia (On Loan)
+18, Igor, BRA, D, 1.91, 85, 21-03-95, Cruz Alta, Boa
+20, Wesley Natã, BRA, F, 1.80, 70, 18-04-95, Porto Alegre, Bahia (On Loan)
+85, Rafael Bastos, BRA, M, 1.85, 72, 01-01-85, Rio de Janeiro, Hatta Club

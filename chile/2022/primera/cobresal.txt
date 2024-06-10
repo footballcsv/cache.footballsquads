@@ -1,0 +1,37 @@
+=  Cobresal - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jorge Deschamps, CHI, G, 1.82, 77, 13-05-84, Santiago, Rangers (Talca)
+2, Samuel Arias, CHI, D, 1.82, 72, 29-04-02, -, None
+3, Iván Villalba, PAR, D, 1.82, 84, 19-01-95, Asunción, Santa Fe
+4, Iván Contreras, CHI, D, 1.75, 78, 26-07-01, El Salvador [CHI], Colo-Colo
+5, Francisco Alarcón, CHI, D, 1.89, 85, 25-02-90, Santiago, Universidad de Concepción
+6, Alejandro Camargo, ARG, M, 1.75, 69, 12-06-89, Guaymallén, Deportes Melipilla
+7, Marcelo Jorquera, CHI, M, 1.74, 72, 13-10-92, Santiago, Unión Española
+8, Francisco Valdés, CHI, M, 1.74, 73, 13-11-01, Talca, Universidad Católica
+10, Juan Carlos Gaete, CHI, M, 1.74, 66, 21-05-96, Puente Alto, Colo-Colo
+11, Gastón Lezcano, ARG, M, 1.69, 67, 21-11-86, San Nicolás, Universidad Católica
+12, Alejandro Santander, CHI, G, 1.77, 76, 05-11-02, Puente Alto, None
+13, Cristhofer Mesías, CHI, M, 1.79, 72, 02-05-98, Santiago, None
+14, Matías Fredes, CHI, M, 1.70, 61, 14-10-03, -, None
+15, Sergio Carrasco, CHI, F, 1.84, 77, 02-01-05, -, None
+16, Ignacio Pacheco, CHI, M, 1.73, 67, 04-04-04, Santiago, None
+17, Pablo Cárdenas, CHI, M, 1.77, 68, 10-02-00, Providencia, None
+18, César Munder, CUB, M, 1.65, 57, 07-01-00, Havana, Universidad Católica
+19, Mauro González, ARG, M, 1.78, 74, 31-08-96, Lanús, Universidad de Concepción
+20, Nelson Sepúlveda, CHI, M, 1.67, 72, 22-01-92, Santiago, Deportes Melipilla
+21, Benjamín Osses, CHI, F, 1.72, 71, 24-06-02, -, None
+22, Leandro Requena, ARG, G, 1.85, 80, 11-09-87, Malagueño, Central Córdoba (SdE)
+23, Guillermo Pacheco, CHI, D, 1.81, 76, 10-04-89, Quilpué, Deportes Temuco
+24, Yodilan Cruz, CHI, M, 1.64, 60, 09-09-04, Pirque, None
+25, Luis Vásquez, CHI, M, 1.67, 60, 08-01-02, Santiago, None
+26, Sebastián Silva, CHI, D, 1.80, 76, 16-07-91, Recoleta, Coquimbo Unido
+27, Joaquín Fernández, CHI, D, 1.77, 70, 28-04-04, -, None
+28, Diego Céspedes, CHI, D, 1.81, 68, 25-09-98, Providencia, None
+29, Óscar Salinas, CHI, F, 1.70, 72, 26-06-88, Curacaví, Oriente Petrolero
+30, Cecilio Waterman, PAN, M, 1.80, 77, 13-04-91, Ciudad de Panamá, Universidad de Concepción
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Sebastián Pol, ARG, F, 1.74, 75, 14-03-88, Tunuyán, Rangers (Talca)

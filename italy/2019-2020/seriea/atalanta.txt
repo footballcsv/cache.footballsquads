@@ -1,0 +1,44 @@
+=  Atalanta - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Rafael Tolói, BRA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, São Paulo
+3, Mattia Caldara, ITA, D, 1.87, 80, 05-05-94, Scanzorosciate, Milan
+4, Boško Šutalo, CRO, D, 1.88, 81, 01-01-00, Metković, Osijek
+5, Adrien Tameze, FRA, M, 1.80, 78, 04-11-94, Lille, Nice
+6, José Luis Palomino, ARG, D, 1.88, 87, 05-01-90, San Miguel de Tucumán, Ludogorets Razgrad
+7, Lennart Czyborra, GER, D, 1.78, 72, 03-05-99, Berlin, Heracles Almelo
+8, Robin Gosens, GER, M, 1.83, 76, 05-07-94, Emmerich, Heracles Almelo
+9, Luis Muriel, COL, F, 1.79, 79, 16-04-91, Santo Tomás, Sevilla
+10, Alejandro Gómez, ARG, F, 1.67, 68, 15-02-88, Capital Federal, Metalist Kharkiv
+11, Remo Freuler, SUI, M, 1.80, 80, 15-04-92, Ennenda, Luzern
+15, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Middlesbrough
+17, Roberto Piccoli, ITA, F, 1.86, 77, 27-01-01, Bergamo, None
+18, Ruslan Malinovskyi, UKR, M, 1.81, 79, 04-05-93, Zhytomyr, KRC Genk
+19, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Zürich, Zürich
+20, Jacopo Da Riva, ITA, M, 1.87, 75, 27-10-00, Montebelluna, None
+21, Timoty Castagne, BEL, D, 1.80, 80, 05-12-95, Aarlen, KRC Genk
+22, Raoul Bellanova, ITA, D, 1.85, 78, 16-05-00, Rho, Bordeaux
+31, Francesco Rossi, ITA, G, 1.93, 83, 27-04-91, Merate, None
+33, Hans Hateboer, NED, D, 1.85, 72, 09-01-94, Beerta, FC Groningen
+55, Caleb Okoli, NGA, D, 1.89, 69, 13-07-01, Vicenza, None
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Poggibonsi
+64, Khadim Ndiaye, SEN, G, 1.85, 80, 12-04-00, Dakar, None
+72, Josip Iličić, SVN, F, 1.90, 79, 29-01-88, Kranj, Fiorentina
+79, Amad Diallo, CIV, F, 1.73, 70, 11-07-02, Abidjan, None
+87, David Heidenreich, CZE, D, 1.82, 75, 24-06-00, Ústí nad Labem, Teplice
+88, Mario Pašalić, CRO, M, 1.88, 82, 09-02-95, Mainz, Chelsea
+90, Ebrima Colley, GAM, F, 1.79, 75, 01-02-00, Serrekunda, None
+91, Duván Zapata, COL, F, 1.89, 88, 01-04-91, Cali, Sampdoria
+95, Pierluigi Gollini, ITA, G, 1.94, 94, 18-03-95, Bologna, Aston Villa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Matteo Pessina, ITA, M, 1.83, 75, 21-04-97, Monza, Verona (On Loan)
+7, Arkadiusz Reca, POL, M, 1.87, 81, 17-06-95, Chojnice, SPAL (On Loan)
+37, Martin Škrteľ, SVK, D, 1.91, 81, 15-12-84, Handlová, İstanbul Başakşehir
+4, Simon Kjær, DEN, D, 1.91, 82, 26-03-89, Horsens, Sevilla
+99, Musa Barrow, GAM, F, 1.83, 70, 14-11-98, Banjul, Bologna (On Loan)
+41, Roger Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Roma (On Loan)
+5, Andrea Masiello, ITA, D, 1.84, 82, 05-02-86, Viareggio, Genoa
+13, Guilherme Arana, BRA, D, 1.76, 68, 14-04-97, São Paulo, Sevilla

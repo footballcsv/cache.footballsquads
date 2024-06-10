@@ -1,0 +1,47 @@
+=  Nyíregyháza Spartacus - Hungarian Nemzeti Bajnokság I 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Hrabina, HUN, G, 1.86, 83, 05-04-95, Nyíregyháza, Nyírsuli
+5, Ferenc Fodor, HUN, D, 1.92, 85, 22-03-91, Pécs, Pécs
+7, Igor Žofčák, SVK, M, 1.75, 74, 10-04-83, Michalovce, Slovan Bratislava
+8, Péter Karacs, HUN, F, 1.85, 81, 01-10-94, Debrecen, Honvéd
+9, Krisztián Koller, HUN, F, 1.83, 79, 08-05-83, Pécs, Pécs
+10, Mohamadou Abdouraman, CMR, M, 1.92, 75, 24-01-85, Yaoundé, Diósgyőr
+11, Dato Dartsimelia, GEO, F, 1.84, 76, 28-01-95, Tbilisi, Sevastopol
+13, Tamás Rubus, HUN, D, 1.86, 82, 13-07-89, Békéscsaba, Újpest
+14, Zoran Kostić, SRB, M, 1.83, 79, 14-11-82, Čačak, Diósgyőr
+16, L'imam Seydi, SEN, F, 1.86, 85, 31-08-85, Paris, Debrecen
+19, Dávid Pákolicz, HUN, M, 1.86, 73, 13-09-84, Kalocsa, Pécs
+21, Zsolt Szokol, HUN, D, 1.86, 83, 16-03-90, Békéscsaba, Újpest
+22, Mihael Kovačevič, SUI, D, 1.93, 88, 03-03-88, Basel, Beroe Stara Zagora
+26, Deniss Ivanovs, LVA, D, 1.86, 76, 11-01-84, Liepāja, FK Liepāja
+35, Predrag Bosnjak, HUN, D, 1.80, 78, 13-11-85, Subotica, Ferencváros
+47, János Balogh, HUN, G, 1.92, 83, 29-11-82, Debrecen, Hearts
+51, Zoltán Gondos, HUN, M, 1.86, 82, 22-08-96, Nyíregyháza, None
+53, Dávid Markovics, HUN, F, 1.82, 77, 26-02-96, Nyíregyháza, None
+54, István Ákos Bagi, HUN, M, 1.86, 78, 04-07-96, Nyíregyháza, None
+55, Zurab Arziani, GEO, M, 1.78, 71, 19-10-87, , Sakhalin Yuzhno-Sakhalinsk
+56, Márk Vámos, HUN, F, 1.83, 76, 24-09-96, Nyíregyháza, None
+77, László Pekhár, HUN, F, 1.86, 82, 20-01-93, Szolnok, Kecskemét
+78, Volodymyr Ovsiyenko, UKR, G, 1.93, 84, 30-10-78, Uzhhorod, Oleksandria
+85, Tamás Törtei, HUN, D, 1.89, 81, 13-10-85, Szolnok, Tatabánya
+91, Juraj Halenár, SVK, F, 1.87, 82, 28-06-83, Trnava, Slovan Bratislava
+99, László Rezes, HUN, M, 1.73, 65, 12-08-87, Debrecen, Debrecen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Bence Lázár, HUN, M, 1.81, 84, 21-03-91, Kecskemét, Újpest
+7, Tamás Huszák, HUN, M, 1.86, 76, 02-10-88, Miskolc, Soroksár
+23, István Spitzmüller, HUN, M, 1.76, 72, 14-05-86, Debrecen, Békéscsaba
+18, Péter Bajzát, HUN, F, 1.83, 80, 22-06-81, Eger, Mezőkövesd (On Loan)
+6, Donát Reznek, HUN, M, 1.72, 67, 26-12-93, Nyíregyháza, Cigánd (On Loan)
+26, Gergő Gengeliczki, HUN, D, 1.93, 83, 08-06-93, Budapest, Mezőkövesd (On Loan)
+4, Gábor Jánvári, HUN, D, 1.85, 84, 25-04-90, Nyíregyháza, Haladás
+29, István Sándor, HUN, M, 1.78, 72, 04-01-86, Uzhorod, Soroksár
+12, Marcell Molnár, HUN, F, 1.88, 79, 26-08-90, Karcsa, Siófok
+17, Márk Szécsi, HUN, F, 1.78, 73, 22-05-94, Eger, Debrecen
+28, Zoltán Nagy, HUN, D, 1.87, 80, 25-10-85, Debrecen, Debrecen
+11, János Patály, HUN, D, 1.83, 76, 29-11-88, Mátészalka, Diósd
+33, Boris Živanović, SRB, D, 1.85, 80, 18-07-89, Belgrade, Donji Srem
+31, Krisztián Póti, HUN, D, 1.90, 82, 28-05-88, Mátészalka, Szigetszentmiklós

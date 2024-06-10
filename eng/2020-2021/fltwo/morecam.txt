@@ -1,0 +1,36 @@
+=  Morecambe - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kyle Letheren, WAL, G, 1.88, 83, 26-12-87, Swansea, Chesterfield
+2, Kelvin Mellor, ENG, D, 1.88, 75, 25-01-91, Copenhagen, Bradford C
+3, Stephen Hendrie, SCO, D, 1.78, 70, 08-01-95, Glasgow, Kilmarnock
+4, Nat Knight-Percival, ENG, D, 1.82, 73, 31-03-87, Cambridge, Carlisle U
+5, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Bolton W
+6, Harry Davis, ENG, D, 1.88, 78, 24-09-91, Burnley, Grimsby T
+7, Jordan Slew, ENG, F, 1.90, 81, 07-09-92, Sheffield, Ashton U
+8, Toumani Diagouraga, FRA, M, 1.88, 72, 09-06-87, Paris, Swindon T
+9, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+10, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+11, Carlos Mendes Gomes, ESP, F, 1.78, 66, 14-11-98, Yeumbeul, West Didsbury & Chorlton
+12, Mark Halstead, ENG, G, 1.91, 89, 01-01-90, Blackpool, Southport
+13, André Mendes, POR, G, -, -, 15-05-03, -, Benfica
+14, Alex Kenyon, ENG, M, 1.82, 76, 17-07-92, Preston, Stockport Co
+15, Brad Lyons, NIR, M, 1.76, 70, 26-05-97, Ballymoney, Blackburn R
+16, John O'Sullivan, IRL, M, 1.82, 83, 18-09-93, Dublin, Blackpool
+17, AJ Leitch-Smith, ENG, F, 1.80, 78, 06-03-90, Crewe, Shrewsbury T
+18, Ben Pringle, ENG, M, 1.73, 75, 27-05-89, Newcastle upon Tyne, Gillingham
+19, Liam McAlinden, IRL, F, 1.86, 74, 26-09-93, Cannock, Stockport Co
+20, Alex Denny, ENG, M, 1.86, 81, 12-04-00, Chester, Salford C
+21, Ryan Cooney, ENG, D, 1.79, 77, 26-02-00, Manchester, Burnley
+22, Liam Gibson, ENG, D, 1.85, 80, 25-04-97, Stanley, Newcastle U
+23, Freddie Price, ENG, M, 1.78, 69, 27-04-03, Stafford, None
+24, Yann Songo'o, CMR, D, 1.84, 77, 17-11-91, Yaoundé, Scunthorpe U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ibrahim Bakare, ENG, D, 1.83, 77, 07-05-02, Lambeth, Cardiff C
+15, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, AFC Fylde
+1, Jake Turner, ENG, G, 1.94, 82, 25-02-99, Wilmslow, Newcastle U
+25, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Reading
+20, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Burnley

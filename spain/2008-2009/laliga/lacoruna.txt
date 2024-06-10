@@ -1,0 +1,42 @@
+=  Deportivo La Coruña - Spanish La Liga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Aranzubia, ESP, G, 1.84, 80, 18-09-79, Logroño, Athletic Bilbao
+2, Manuel Pablo, ESP, D, 1.76, 80, 25-01-76, Arucas, Las Palmas
+3, Filipe Luis, BRA, D, 1.82, 70, 09-08-85, Jaraguá do Sul, Rentistas
+4, Alberto Lopo, ESP, D, 1.86, 81, 05-05-80, Barcelona, Espanyol
+5, Zé Castro, POR, D, 1.83, 76, 13-01-83, Coimbra, Atlético Madrid
+6, Julian de Guzmán, CAN, M, 1.69, 68, 25-03-81, Toronto, Hannover 96
+7, Piscu, ESP, D, 1.84, 77, 25-02-87, As Pontes de García Rodríguez, Deportivo B
+8, Sergio González, ESP, M, 1.82, 77, 10-11-76, Barcelona, Espanyol
+10, Joan Verdú, ESP, M, 1.76, 72, 05-05-83, Barcelona, Barcelona B
+11, Riki, ESP, F, 1.87, 84, 11-08-80, Aranjuez, Getafe
+12, Mista, ESP, F, 1.84, 74, 12-11-78, Murcia, Atlético Madrid
+13, Gustavo Munúa, URU, G, 1.88, 87, 27-01-78, Montevideo, Nacional [URU]
+14, Pablo Álvarez, ESP, M, 1.74, 67, 14-05-80, Oviedo, Sporting Gijón
+15, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo B
+16, Antonio Tomás, ESP, M, 1.76, 75, 19-01-85, Torrelavega, Racing Santander B
+17, Ángel Lafita, ESP, M, 1.88, 75, 07-08-84, Zaragoza, Zaragoza
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, Atlas
+19, Diego Colotto, ARG, D, 1.84, 81, 03-10-81, Rio Cuarto, Atlas
+20, Cristian, ESP, F, 1.71, 68, 21-09-83, Barcelona, Barcelona B
+21, Juan Carlos Valerón, ESP, M, 1.80, 72, 17-06-75, Las Palmas, Atlético Madrid
+22, Juan Rodríguez, ESP, M, 1.85, 80, 01-04-82, Málaga, Málaga
+23, Rodolfo Bodipo, EQG, F, 1.81, 76, 25-10-77, Seville, Alavés
+24, Pablo Amo, ESP, D, 1.86, 76, 15-01-78, Madrid, Sporting Gijón
+30, Fabricio, ESP, G, 1.85, 77, 31-12-87, Las Palmas, Deportivo B
+31, Edu Sousa, ESP, G, , , , Vigo, Deportivo Juvenil A
+32, Juanan, ESP, D, 1.92, 88, 27-04-87, Palma de Mallorca, Deportivo B
+33, David Rochela, ESP, D, 1.80, 77, 19-02-90, As Pontes de García Rodríguez, Deportivo B
+35, Alberto Domínguez, ESP, G, 1.81, 75, 11-02-88, Santiago de Compostela, Deportivo B
+36, Lassad Nouioui, TUN, F, 1.89, 78, 08-03-85, Marseille, Deportivo B
+37, Chirri, ESP, F, 1.65, 62, 06-06-90, Mérida, Deportivo B
+38, Diego Seoane, ESP, D, 1.80, 75, 26-04-88, Ourense, Deportivo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Newcastle U
+25, Dudu Aouate, ISR, G, 1.88, 84, 17-10-77, Haifa, Mallorca
+9, Omar Bravo, MEX, F, 1.69, 71, 04-03-80, Los Mochis, UANL Tigres (On Loan)
+25, Antonio Barragán, ESP, D, 1.82, 76, 12-06-87, Pontedeume, 

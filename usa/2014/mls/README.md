@@ -1,0 +1,22 @@
+# USA Major League Soccer 2014
+
+19 teams
+- [Chicago Fire](chicago.txt)
+- [Chivas USA](chivas.txt)
+- [Colorado Rapids](colorado.txt)
+- [Columbus Crew](columbus.txt)
+- [FC Dallas](dallas.txt)
+- [D.C. United](dcunited.txt)
+- [Houston Dynamo](houston.txt)
+- [Los Angeles Galaxy](losang.txt)
+- [Montreal Impact](montreal.txt)
+- [New England Revolution](neweng.txt)
+- [New York Red Bulls](newyork.txt)
+- [Philadelphia Union](philly.txt)
+- [Portland Timbers](portland.txt)
+- [Real Salt Lake](saltlake.txt)
+- [San Jose Earthquakes](sanjose.txt)
+- [Seattle Sounders](seattle.txt)
+- [Sporting Kansas City](kansas.txt)
+- [Toronto FC](toronto.txt)
+- [Vancouver Whitecaps](vancouver.txt)

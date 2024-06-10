@@ -1,0 +1,47 @@
+=  Ascoli - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Matteo Ciofani, ITA, D, 1.83, 76, 26-02-88, Avezzano, Renato Curi Angolana
+4, Vasco Faísca, POR, D, 1.84, 80, 27-08-80, Lisbon, Padova
+5, Luigi Giorgi, ITA, M, 1.85, 70, 19-04-87, Ascoli Piceno, None
+7, Arturo Lupoli, ITA, F, 1.79, 72, 24-06-87, Brescia, Fiorentina
+8, Daniele di Donato, ITA, M, 1.73, 70, 21-02-77, Giulianova, Arezzo
+9, Alessandro Romeo, ITA, F, 1.87, 74, 19-01-87, Rome, Sampdoria
+10, Vincenzo Sommese, ITA, M, 1.74, 72, 22-06-76, Nola, Mantova
+11, Róbert Feczesin, HUN, F, 1.87, 75, 22-02-86, Budapest, Brescia
+13, Daniele Rosania, ITA, D, 1.84, 76, 22-03-91, Terracina, None
+15, Antonio Marino, ITA, D, 1.88, 80, 09-08-88, Mazara del Vallo, Udinese
+16, Francesco Uliano, ITA, M, 1.81, 73, 19-09-89, Mugnano di Napoli, None
+17, Federico Moretti, ITA, M, 1.83, 67, 28-10-88, Genoa, Catania
+18, Andrea Mandorlini, ITA, F, 1.78, 74, 14-02-91, Ravenna, None
+19, Salvatore Margarita, ITA, M, 1.87, 78, 29-04-90, Maddaloni, None
+20, Giovanni Kyeremateng, ITA, F, 1.79, 78, 20-02-91, Arona, Monza
+21, Alex Pederzoli, ITA, M, 1.73, 70, 06-03-84, Piacenza, Gallipoli
+22, Achille Coser, ITA, G, 1.85, 78, 14-07-82, Gazzaniga, Pro Vercelli
+23, Marcello Gazzola, ITA, D, 1.84, 79, 03-04-85, Borgotaro, Catania
+24, Vittorio Micolucci, ITA, D, 1.83, 68, 14-08-83, Giulianova, Bari
+27, Marco Calderoni, ITA, D, 1.80, 75, 18-02-89, Latisana, Piacenza
+29, Juan Antonio Ignacio, ARG, F, 1.86, 77, 05-01-88, Trelew, Brescia
+30, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, None
+32, Andrea Cristiano, ITA, M, 1.79, 68, 05-07-84, Chivasso, AlbinoLeffe
+37, Roberto Maurantonio, ITA, G, 1.82, 78, 07-06-81, Bari, Piacenza
+38, Marc Lewandowski, FRA, M, 1.80, 73, 10-06-89, Marseille, Padova
+45, Giorgio Capece, ITA, M, 1.83, 75, 05-03-92, Fermo, None
+46, Alessandro Lorusso, ITA, M, , , 09-06-91, Fasano, Sampdoria
+76, Gaetano Capogrosso, ITA, D, 1.80, 75, 11-06-89, Villaricca, Siena
+77, Abdou Doumbia, FRA, M, 1.76, 72, 07-06-90, Le Blanc-Mesnil, Parma
+90, Ettore Mendicino, ITA, F, 1.84, 78, 11-02-90, Milan, Lazio
+91, Gianmarco Lenzi, ITA, G, 1.85, 80, 14-05-91, Castelnuovo Garfagnana, Lucchese
+99, Luca Battistelli, ITA, M, 1.81, 62, 20-06-91, L'Aquila, L'Aquila
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Jonas Portin, FIN, D, 1.89, 82, 30-09-86, Pietarsaari, Padova
+6, Federico Vismara, ARG, M, 1.85, 74, 09-05-83, Carcaraña, Rosario Central
+11, Andrea Giallombardo, ITA, D, 1.75, 70, 19-08-80, Roma, Grosseto (On Loan)
+85, Antonino Bonvissuto, ITA, F, 1.85, 75, 08-08-85, Palermo, Bari
+20, Lorenzo Pasqualini, ITA, M, 1.73, 61, 19-08-89, Ascoli Piceno, Siracusa (On Loan)
+89, Milan Djurić, BIH, F, 1.90, 85, 22-05-90, Tuzla, Parma
+6, Simone Masini, ITA, F, 1.82, 71, 23-10-84, Pisa, Monza
+99, Simone Esposito, ITA, M, 1.71, 62, 24-05-90, Turin, Juventus

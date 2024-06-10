@@ -1,0 +1,58 @@
+=  Padova - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Timothy Nocchi, ITA, G, 1.90, 88, 07-07-90, Cecina, Juventus
+2, Alessandro Bellemo, ITA, M, 1.84, 82, 07-08-95, Chioggia, None
+3, Fabiano Santacroce, ITA, D, 1.81, 72, 24-08-86, Camaçari, Parma
+5, Manuel Iori, ITA, M, 1.82, 70, 12-03-82, Varese, Chievo Verona
+6, Giovanni La Camera, ITA, M, 1.79, 80, 29-12-83, Messina, Cittadella
+7, Luca Ceccarelli, ITA, D, 1.83, 70, 24-03-83, Gambettola, Cesena
+8, Matías Cuffa, ARG, M, 1.82, 73, 10-03-81, Alta Gracia, Portogruaro
+9, Róbert Feczesin, HUN, F, 1.87, 75, 22-02-86, Budapest, Ascoli
+10, Daniele Vantaggiato, ITA, F, 1.77, 84, 10-10-84, Brindisi, Parma
+11, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Pozzuoli, Genoa
+12, Andrea Zaccagno, ITA, G, 1.83, 77, 27-05-97, Padua, None
+13, Renáto Kelić, CRO, D, 1.88, 76, 31-03-91, Vinkovci, Slovan Liberec
+14, Wilfred Osuji, NGA, M, 1.65, 67, 05-08-90, Lagos, Milan
+15, Riccardo Rosina, ITA, M, , , 13-10-95, Padua, None
+16, Federico Melchiorri, ITA, F, 1.85, 75, 06-01-87, Treia, Maceratese
+17, Enej Jelenič, SVN, M, 1.80, 77, 11-12-92, Koper, Genoa
+18, Tommaso Rocchi, ITA, F, 1.77, 76, 19-09-77, Venice, Internazionale
+19, Vinícius Freitas, BRA, D, 1.82, 78, 07-03-93, Rio de Janeiro, Lazio
+20, Christian Pasquato, ITA, M, 1.72, 70, 20-07-89, Padua, Udinese
+21, Davide Voltan, ITA, F, 1.78, 71, 15-04-95, Padua, None
+22, Luca Mazzoni, ITA, G, 1.90, 78, 29-03-84, Livorno, Livorno
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Parma
+24, Simone Benedetti, ITA, D, 1.82, 71, 03-04-92, Turin, Internazionale
+25, Luca Di Matteo, ITA, M, 1.81, 70, 25-02-88, Pescara, Vicenza
+26, Filippo Carini, ITA, D, 1.90, 75, 26-09-90, Bazzano, Modena
+27, Armando Perna, ITA, D, 1.84, 75, 25-04-81, Palermo, Modena
+28, Gianluca Musacci, ITA, M, 1.80, 72, 01-04-87, Viareggio, Parma
+29, Igor Radrezza, ITA, M, 1.70, 66, 06-06-93, Padua, None
+30, Adama Diakité, CIV, F, 1.86, 80, 08-10-93, Memni, None
+31, Alberto Almici, ITA, D, 1.81, 74, 11-01-93, Lovere, Atalanta
+32, Maicol Murano, ITA, G, 1.85, 75, 24-07-96, Monselice, None
+33, Federico Moretti, ITA, M, 1.87, 76, 28-10-88, Genoa, Catania
+34, Luca Perini, ITA, D, , , 13-01-96, , None
+35, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Benevento
+36, Simone Pasa, ITA, M, 1.85, 77, 21-01-94, Montebelluna, Internazionale
+37, Irfan Šahman, MNE, M, 1.80, 75, 05-10-93, Podgorica, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Luca Maniero, ITA, G, 1.87, 75, 12-06-95, Padua, Internazionale (On Loan)
+4, Niccolò Galli, ITA, M, 1.80, 78, 16-09-88, Parma, Cesena (On Loan)
+7, Marco Gallozzi, ITA, M, 1.85, 66, 27-07-88, Frosinone, 
+15, Thiago Rangel Cionek, BRA, M, 1.84, 81, 21-04-86, Curitiba, Modena (On Loan)
+22, Luca Anania, ITA, G, 1.86, 80, 21-06-80, Milan, Livorno
+29, Alberto Barison, ITA, D, 1.86, 80, 03-08-94, Dolo, Perugia (On Loan)
+31, Jerry Mbakogu, NGA, F, 1.86, 80, 01-10-92, Lagos, Carpi (On Loan)
+18, Andrea Raimondi, ITA, F, 1.72, 60, 26-06-90, Padua, Trapani
+11, Camillo Ciano, ITA, F, 1.81, 73, 22-02-90, Marcianise, Napoli
+1, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Atalanta
+13, Elia Legati, ITA, D, 1.88, 84, 03-01-86, Fidenza, Carpi (On Loan)
+6, Trevor Trevisan, ITA, D, 1.86, 84, 21-12-83, Cassino, Varese (On Loan)
+19, Álvaro Ampuero, PER, M, 1.83, 76, 25-09-92, Lima, Parma
+25, Vedran Celjak, CRO, D, 1.87, 77, 13-08-91, Zabok, Sampdoria
+4, Zsolt Laczkó, HUN, M, 1.83, 80, 18-12-86, Szeged, Sampdoria

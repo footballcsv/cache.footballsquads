@@ -1,0 +1,50 @@
+=  FC Twente - Dutch Eredivisie 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sander Boschker, NED, G, 1.86, 87, 20-10-70, Lichtenvoorde, Ajax
+2, Andreas Bjelland, DEN, D, 1.88, 85, 11-07-88, Fredensborg, FC Nordsjælland
+4, Peter Wisgerhof, NED, D, 1.81, 84, 19-11-79, Wageningen, NEC Nijmegen
+5, Robbert Schilder, NED, M, 1.78, 78, 18-04-86, Amstelveen, NAC Breda
+6, Wout Brama, NED, M, 1.76, 71, 21-08-86, Almelo, PH Almelo
+7, Denny Landzaat, NED, M, 1.78, 70, 06-05-76, Amsterdam, Feyenoord
+8, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, Feyenoord
+9, Dmitriy Bulikin, RUS, F, 1.92, 92, 20-11-79, Moscow, Ajax
+10, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, FC Groningen
+11, Jerson Cabral, NED, F, 1.77, 69, 03-01-91, Rotterdam, Feyenoord
+13, Nikolay Mihaylov, BUL, G, 1.94, 85, 28-06-88, Sofia, Liverpool
+14, Willem Janssen, NED, M, 1.86, 75, 04-07-86, Nijmegen, Roda JC
+15, Roberto Rosales, VEN, D, 1.74, 73, 20-11-88, Caracas, KAA Gent
+16, Tim Breukers, NED, M, 1.78, 76, 04-11-87, Oldenzaal, Heracles Almelo
+17, Rasmus Bengtsson, SWE, D, 1.86, 80, 26-06-86, Malmö, Hertha Berlin
+19, Douglas, NED, D, 1.92, 80, 12-01-88, São Paulo, Joinville
+20, Edson Braafheid, NED, D, 1.76, 71, 08-04-83, Paramaribo, 1899 Hoffenheim
+21, Felipe Gutiérrez, CHI, M, 1.70, 64, 08-10-90, Valparaíso, Universidad Católica
+22, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, AGOVV Apeldoorn
+25, Daniel Fernandes, POR, G, 1.93, 99, 25-09-83, Edmonton [CAN], CFR Cluj
+26, Shadrach Eghan, GHA, M, 1.65, 70, 04-07-94, Akosombo, Golden Boot Academy
+30, Luc Castaignos, NED, F, 1.88, 78, 27-02-92, Rotterdam, Internazionale
+31, Filip Bednarek, POL, G, 1.88, 81, 26-09-92, Kleczew, Amica Wronki
+34, Andrej Rendla, SVK, F, 1.88, 78, 13-10-90, Banská Bystrica, Dukla Banská Bystrica
+35, Timo Plattel, NED, G, 1.90, 78, 12-03-94, Apeldoorn, None
+37, Tim Hölscher, GER, M, 1.85, 78, 21-02-95, Gronau, None
+38, Mirco Born, GER, F, 1.75, 69, 28-06-94, Haren (Ems), Meppen
+39, Joey Pelupessy, NED, D, 1.72, 63, 15-05-93, Nijverdal, None
+40, Wouter Dronkers, NED, G, , , 03-05-93, , None
+41, Coen Gortemaker, NED, D, 1.85, 76, 29-01-94, Enschede, None
+42, Abdul Nury, NED, M, , , 01-06-95, , None
+43, Mark Engberink, NED, D, 1.76, 69, 12-08-92, Enschede, None
+44, Kris Fillinger, GER, D, , , 22-03-93, , None
+45, Edwin Gyasi, NED, F, 1.82, 75, 01-07-91, Amsterdam, De Graafschap
+46, Felitciano Zschusschen, NED, F, 1.80, 70, 24-01-92, Breda, NAC Breda
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Quincy Promes, NED, M, 1.74, 72, 04-01-92, Amsterdam, Go Ahead Eagles (On Loan)
+11, Wesley Verhoek, NED, F, 1.88, 80, 25-09-86, Leidschendam, Feyenoord
+18, Nils Röseler, GER, D, 1.92, 84, 10-02-92, Bad Bentheim, VVV Venlo (On Loan)
+20, Glynor Plet, NED, F, 1.94, 83, 30-01-87, Amsterdam, KRC Genk (On Loan)
+18, Dedryck Boyata, BEL, D, 1.88, 84, 08-09-90, Uccle, Manchester C
+36, Chris David, NED, M, 1.70, 71, 06-03-93, Amsterdam, Fulham
+12, Tim Cornelisse, NED, D, 1.84, 73, 03-04-78, Alkmaar, Willem II (On Loan)
+3, Nicky Kuiper, NED, D, 1.83, 84, 07-06-89, Arnhem, Panathinaikos (On Loan)

@@ -1,0 +1,52 @@
+=  Sunderland - English Football League One 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jon McLaughlin, SCO, G, 1.88, 83, 09-09-87, Edinburgh, Hearts
+2, Conor McLaughlin, NIR, D, 1.83, 71, 26-07-91, Belfast, Millwall
+3, Joel Lynch, WAL, D, 1.85, 81, 03-10-87, Eastbourne, QPR
+4, Jordan Willis, ENG, D, 1.80, 70, 24-08-94, Coventry, Coventry C
+5, Alim Öztürk, TUR, D, 1.90, 85, 17-11-92, Alkmaar, Boluspor
+6, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Wigan Ath
+7, Chris Maguire, SCO, M, 1.70, 66, 16-01-89, Bellshill, Bury
+8, Kyle Lafferty, NIR, F, 1.93, 70, 16-09-87, Enniskillen, Sarpsborg 08
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Bradford C
+11, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+12, Tom Flanagan, NIR, D, 1.88, 72, 21-10-91, Hammersmith, Burton Alb
+13, Luke O'Nien, ENG, M, 1.74, 74, 21-11-94, Hemel Hempstead, Wycombe W
+14, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Altrincham
+16, Lee Burge, ENG, G, 1.80, 70, 09-01-93, Hereford, Coventry C
+17, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, None
+18, George Dobson, ENG, M, 1.85, 73, 15-11-97, Harold Wood, Walsall
+20, Declan John, WAL, D, 1.78, 75, 30-06-95, Merthyr Tydfil, Swansea C
+21, Ethan Robson, ENG, M, 1.80, 68, 25-10-96, Durham, None
+22, Will Grigg, NIR, F, 1.80, 70, 03-07-91, Solihull, Wigan Ath
+23, Grant Leadbitter, ENG, M, 1.77, 79, 07-06-86, Chester-le-Street, Middlesbrough
+25, Tommy Smith, NZL, D, 1.86, 77, 31-03-90, Macclesfield, Colorado Rapids
+26, Bailey Wright, AUS, D, 1.84, 84, 28-07-92, Melbourne, Bristol C
+28, Josh Scowen, ENG, M, 1.78, 74, 28-03-93, Enfield, QPR
+29, Ciéran Dunne, IRL, M, 1.79, 68, 08-02-00, Falkirk, Falkirk
+30, Jack Bainbridge, ENG, D, , , 21-05-98, Southport, Swansea C
+31, Benji Kimpioka, SWE, M, 1.82, 67, 21-02-00, Knivsta, IK Sirius
+32, Ahmed Abdelkader, FRA, G, , , 19-02-99, , ENAD Polis Chrysochous
+33, Denver Hume, ENG, D, 1.77, 72, 11-08-98, Ashington, None
+35, Ruben Sammut, SCO, M, , , 26-09-97, Maidstone, Chelsea
+37, Bali Mumba, ENG, D, 1.76, 62, 08-10-01, South Shields, None
+38, Owen Gamble, ENG, M, , , 02-01-99, Worksop, Doncaster R
+40, Brandon Taylor, ENG, D, 1.84, 75, 10-05-99, Gateshead, None
+42, Antoine Semenyo, ENG, F, 1.78, 63, 07-01-00, Chelsea, Bristol C
+43, Anthony Patterson, ENG, G, 1.89, 77, 10-05-00, North Shields, None
+44, Cole Kiernan, IRL, F, 1.81, 73, 03-01-02, Hartlepool, None
+45, Dan Neil, ENG, M, 1.78, 65, 13-12-01, South Shields, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Glenn Loovens, NED, D, 1.90, 83, 22-09-83, Doetinchem, 
+15, Jack Baldwin, ENG, D, 1.85, 70, 30-06-93, Redbridge, Salford C (On Loan)
+39, Jack Diamond, ENG, F, 1.75, 61, 12-01-00, Gateshead, Harrogate T (On Loan)
+50, Craig Samson, SCO, G, 1.88, 80, 01-04-84, Irvine, Retired
+28, Laurens De Bock, BEL, D, 1.79, 69, 07-11-92, Dendermonde, Leeds U
+8, Dylan McGeouch, SCO, M, 1.78, 69, 15-01-93, Glasgow, Aberdeen
+41, Lee Connelly, SCO, F, 1.70, 62, 18-10-99, Glasgow, Alloa Ath (On Loan)
+19, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Charlton Ath (On Loan)
+10, Marc McNulty, SCO, F, 1.78, 69, 14-09-92, Livingston, Reading

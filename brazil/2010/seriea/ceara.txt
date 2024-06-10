@@ -1,0 +1,53 @@
+=  Ceará - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego, BRA, G, 1.86, 87, 02-02-82, São Gonçalo, Flamengo
+2, Oziel, BRA, D, 1.69, 68, 10-08-84, João Pessoa, Tigres do Brasil
+3, Fabrício, BRA, D, 1.84, 78, 08-10-80, Água Boa, América de Natal
+4, Erivélton, BRA, D, 1.79, 77, 02-04-78, Carvalhos, Sertãozinho
+5, Michel, BRA, M, 1.80, 78, 08-06-81, São Paulo, Sport Recife
+6, Vicente, BRA, D, 1.72, 68, 30-04-83, Maceió, Iraty
+7, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Cruzeiro
+8, João Marcos, BRA, M, 1.77, 73, 24-06-81, Marília, Noroeste
+9, Washington, BRA, F, 1.80, 75, 17-07-78, São José dos Campos, Palmeiras
+10, Geraldo, BRA, M, 1.73, 74, 06-04-74, Duque de Caxias, Itumbiara
+13, Clodoaldo, BRA, F, 1.61, 61, 28-12-78, Ipu, Guarany de Sobral
+14, Anderson, BRA, D, 1.81, 79, 26-08-82, Itaperuna, Americano
+15, Javier Reina, COL, M, 1.73, 70, 04-01-89, Cali, Cruzeiro
+17, Heleno, BRA, M, 1.83, 80, 23-02-78, São Vincente, Vila Nova
+19, Careca, BRA, M, 1.81, 74, 30-10-80, Tambaú, Guaratinguetá
+20, Luizinho, BRA, M, 1.79, 63, 16-02-88, Senador Melo Viana, SEV-Hortolândia
+21, Misael, BRA, F, 1.71, 71, 04-07-87, São Luís, Moto Club
+22, Michel Alves, BRA, G, 1.88, 87, 25-03-81, Pelotas, Internacional
+23, Ernandes, BRA, M, 1.73, 71, 11-11-87, São Felix do Araguaia, Americano
+27, Diego Sacoman, BRA, D, 1.84, 79, 15-12-86, Guarulhos, Corinthians
+29, Jean Carlos, BRA, F, 1.78, 74, 17-03-84, Salvador, Amkar Perm
+31, Tony, BRA, M, 1.76, 67, 29-05-86, São Paulo, Boavista-RJ
+32, Dionantan, BRA, G, 1.79, 76, 17-02-85, Ipu, Ferroviário
+33, Júnior Cearense, BRA, M, 1.76, 75, 19-11-77, Fortaleza, Horizonte
+34, Everton Kempes, BRA, F, 1.82, 85, 08-03-82, Carpina, Portuguesa
+36, Wellington Amorim, BRA, F, 1.76, 74, 23-01-77, Belo Horizonte, Guaratinguetá
+38, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Ferroviário
+40, Eusébio, BRA, D, 1.68, 63, 22-09-85, Eusébio, Fortaleza
+41, Boiadeiro, BRA, D, 1.72, 70, 24-09-84, Rio de Janeiro, Paysandu
+42, Vandinho, BRA, M, 1.78, 73, 10-07-80, Presidente Epitácio, São Caetano
+46, Adílson, BRA, G, 1.87, 83, 28-05-74, Guaxupé, Atlético Mineiro
+47, Arlindo Maracanã, BRA, D, 1.79, 77, 02-10-78, São Luís, Avaí
+96, Magno Alves, BRA, F, 1.75, 64, 13-01-76, Aporá, Umm-Salal
+99, Marcelo Nicácio, BRA, F, 1.75, 79, 05-01-83, Salvador, Atlético Mineiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Preto, BRA, F, 1.81, 77, 09-07-86, Volta Redonda, Ipatinga (On Loan)
+29, Douglas Silva, BRA, M, 1.74, 75, 22-04-83, Porto Alegre, América de Natal (On Loan)
+7, Esley, BRA, M, 1.76, 73, 15-04-79, Vitória, América de Natal (On Loan)
+30, Lopes, BRA, M, 1.86, 78, 01-06-79, Volta Redonda, 
+34, Jorge Henrique, BRA, M, 1.73, 72, 29-10-82, Campo Grande, Vila Nova (On Loan)
+35, Thyago Fernandes, BRA, D, 1.75, 70, 05-12-85, Brasília, Vila Nova (On Loan)
+16, Erick Flores, BRA, M, 1.69, 60, 30-04-89, Rio de Janeiro, Flamengo
+25, Aílton, BRA, M, 1.74, 73, 13-10-84, Recife, São Caetano
+28, Jorge Luíz, BRA, D, 1.92, 81, 22-04-82, Rio de Janeiro, Villa Rio
+37, Diogo, BRA, D, 1.73, 64, 18-12-84, Estância, Corinthians
+18, Ricardo Bóvio, BRA, M, 1.78, 91, 17-01-82, Campos do Goytacaz, Tombense
+39, Marcos Pimentel, BRA, D, 1.70, 58, 26-08-83, Codó, Icasa

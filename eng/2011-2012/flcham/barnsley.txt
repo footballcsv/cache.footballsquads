@@ -1,0 +1,48 @@
+=  Barnsley - English Football League Championship 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luke Steele, ENG, G, 1.88, 76, 24-09-84, Peterborough, WBA
+2, Bobby Hassell, ENG, D, 1.78, 76, 04-06-80, Derby, Mansfield T
+3, James McEveley, SCO, D, 1.85, 84, 11-02-85, Liverpool, Derby Co
+4, Rob Edwards, WAL, D, 1.85, 74, 25-12-82, Telford, Blackpool
+5, Nathan Doyle, ENG, M, 1.80, 76, 12-01-87, Derby, Hull C
+6, Stephen Foster, ENG, D, 1.80, 79, 10-09-80, Warrington, Burnley
+7, Stephen Dawson, IRL, M, 1.68, 71, 04-12-85, Dublin, Leyton Orient
+8, James O'Brien, SCO, F, 1.83, 75, 28-09-87, Glasgow, Motherwell
+9, Craig Davies, WAL, F, 1.88, 85, 09-01-86, Burton-on-Trent, Chesterfield
+10, Matt Done, WAL, M, 1.78, 65, 22-07-88, Oswestry, Rochdale
+11, David Perkins, ENG, D, 1.68, 76, 21-06-82, Heysham, Colchester U
+12, David Preece, ENG, G, 1.88, 81, 26-08-76, Sunderland, Odense
+13, Chris Dagnall, ENG, F, 1.73, 75, 15-04-86, Liverpool, Scunthorpe U
+14, Scott Wiseman, ENG, D, 1.83, 73, 09-10-85, Hull, Rochdale
+15, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Brighton & HA
+16, Korey Smith, ENG, M, 1.83, 78, 31-01-91, Hatfield, Norwich C
+17, David Cotterill, WAL, M, 1.75, 71, 04-12-87, Cardiff, Swansea C
+19, Jacob Butterfield, ENG, M, 1.80, 78, 10-06-90, Bradford, Manchester U
+20, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Exeter C
+21, Frank Nouble, ENG, F, 1.90, 82, 24-09-91, Lewisham, West Ham U
+23, Lee Collins, ENG, D, 1.80, 78, 28-09-88, Telford, Port Vale
+24, Reuben Noble-Lazarus, ENG, F, 1.80, 86, 16-08-93, Huddersfield, None
+25, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Tottenham H
+27, Andy Gray, SCO, F, 1.85, 85, 15-11-77, Harrogate, Charlton Ath
+28, Michael Tonge, ENG, M, 1.83, 75, 07-04-83, Manchester, Stoke C
+29, Alistair Taylor, ENG, M, 1.85, 66, 13-09-91, Sheffield, None
+30, Lukas Lidakevičius, LTU, G, 1.85, 82, 29-04-93, Klaipėda, None
+31, Jordan Clark, ENG, F, 1.83, 73, 22-09-93, Barnsley, None
+32, Danny Rose, ENG, F, 1.73, 57, 10-12-93, Barnsley, None
+33, Paul Digby, ENG, M, 1.75, 64, 02-02-95, Sheffield, None
+34, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Cameron Park, ENG, M, 1.78, 71, 06-07-92, Marske-by-the-Sea, Middlesbrough
+16, Goran Lovré, SRB, M, 1.90, 82, 23-03-82, Zagreb, 
+40, Nile Ranger, ENG, F, 1.88, 84, 11-04-91, Bounds Green, Newcastle U
+25, Kern Miller, ENG, D, 1.77, 71, 02-09-91, Boston, Hereford U
+7, Danny Haynes, ENG, M, 1.80, 78, 19-01-88, Peckham, Charlton Ath
+20, Danny Drinkwater, ENG, M, 1.78, 79, 05-03-90, Manchester, Manchester U
+17, Miles Addison, ENG, D, 1.89, 93, 07-01-89, Newham, Derby Co
+18, Ricardo Vaz Té, POR, F, 1.88, 79, 01-10-86, Lisbon, West Ham U
+22, Luke Potter, ENG, D, 1.92, 93, 17-07-89, Barnsley, Retired
+18, Kallum Higginbotham, ENG, F, 1.80, 68, 15-06-89, Manchester, Huddersfield T

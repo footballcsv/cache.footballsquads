@@ -1,0 +1,52 @@
+=  Banfield - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mauricio Arboleda, COL, G, 1.83, 71, 21-04-96, Tumáco, Deportivo Pasto
+2, Renato Civelli, ARG, D, 1.93, 89, 14-10-83, Pehuajó, Lille
+3, Claudio Bravo, ARG, D, 1.79, 69, 13-03-97, Lomas de Zamora, None
+4, Rodrigo Arciero, ARG, D, 1.79, 77, 12-03-93, Ushuaia, Patronato (Paraná)
+5, Nery Leyes, ARG, M, 1.79, 78, 25-01-89, Ushuaia, Atlético Tucumán
+6, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, River Plate
+7, Fabián Bordagaray, ARG, F, 1.73, 72, 15-02-87, Avellaneda, Defensa y Justicia
+8, Nicolás Bertolo, ARG, M, 1.80, 75, 02-01-86, Córdoba, River Plate
+9, Agustín Fontana, ARG, F, 1.80, 75, 11-06-96, Lomas de Zamora, None
+10, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Vitória
+11, Agustín Urzi, ARG, F, 1.68, 64, 04-05-00, Lomas de Zamora, None
+12, Pablo Daniel Osvaldo, ITA, F, 1.85, 78, 12-01-86, Capital Federal, Boca Juniors
+14, Franco Quinteros, ARG, D, 1.78, 71, 13-10-98, Rosario, None
+15, Nicolás Linares, ARG, M, 1.75, 72, 06-03-96, Monte Grande, None
+16, Sebastián Dubarbier, ARG, D, 1.79, 74, 19-02-86, La Plata, Deportivo La Coruña
+17, Jonás Gutiérrez, ARG, M, 1.82, 70, 05-07-82, Sáenz Peña, Defensa y Justicia
+18, Giuliano Galoppo, ARG, M, 1.80, 74, 18-06-99, Capital Federal, None
+19, Junior Arias, URU, F, 1.70, 64, 17-05-93, Montevideo, Talleres (Córdoba)
+21, Facundo Altamirano, ARG, G, 1.85, 82, 21-03-96, Rojas, None
+22, Juan Álvarez, ARG, M, 1.66, 62, 10-02-96, Tandil, None
+23, Reinaldo Lenis, COL, M, 1.80, 70, 20-07-92, Cali, Sport Recife
+24, Luciano Gómez, ARG, D, 1.63, 66, 22-03-96, Corrientes, None
+25, Alexis Maldonado, ARG, D, 1.88, 86, 02-09-97, La Rioja, None
+26, Facundo Cambeses, ARG, G, 1.85, 78, 09-04-97, Longchamps, None
+27, Matías Moya, ARG, M, 1.67, 63, 26-03-98, Neuquén, River Plate
+28, Feyiseitán Asagidigbi, NGA, M, 1.73, 71, 28-01-99, Ilesa, None
+29, Pablo Velázquez, PAR, F, 1.92, 82, 12-03-87, Asunción, Gimnasia y Esgrima (LP)
+30, Jorge Rodríguez, ARG, M, 1.78, 84, 15-09-95, Mendoza, None
+31, Lautaro Ríos, ARG, M, 1.80, 74, 09-10-00, Monte Grande, None
+32, Emanuel Coronel, ARG, D, 1.74, 73, 01-02-97, Concepción, None
+33, Esteban Conde, URU, G, 1.87, 85, 04-03-83, Young, Nacional [URU]
+34, Tomás Assennato, ARG, M, 1.74, 69, 23-07-98, Salta, None
+36, Juan Manuel Cruz, ARG, F, 1.84, 71, 19-07-99, Capital Federal, None
+37, Federico Torres, ARG, D, 1.79, 66, 16-04-99, Adrogué, None
+38, Sebastián Benega, ARG, M, 1.76, 74, 20-05-99, Lomas de Zamora, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Martín Payero, ARG, M, 1.87, 81, 11-09-98, Pascanas, Talleres (Córdoba) (On Loan)
+19, Mauricio Asenjo, ARG, F, 1.85, 88, 23-07-94, Mendoza, Nueva Chicago (On Loan)
+11, Hernán Toledo, ARG, F, 1.80, 70, 17-01-96, Sastre, Deportivo Maldonado
+14, Sergio Vittor, ARG, D, 1.89, 86, 09-06-89, Villa Elisa, Racing Club
+21, Julián Carranza, ARG, F, 1.76, 66, 22-05-00, Oncativo, Inter Miami
+5, Israel Damonte, ARG, M, 1.75, 72, 06-01-82, Salto, Retired
+7, Claudio Villagra, ARG, F, 1.67, 66, 02-01-96, Despeñaderos, Sport Boys (On Loan)
+13, Junior Arias, URU, F, 1.70, 64, 17-05-93, Montevideo, Re-Registered (19)
+32, Franco Quinteros, ARG, D, 1.78, 71, 13-10-98, Rosario, Re-Registered (14)
+35, Agustín Urzi, ARG, F, 1.68, 64, 04-05-00, Lomas de Zamora, Re-Registered (11)

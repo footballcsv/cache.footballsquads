@@ -1,0 +1,37 @@
+=  Getafe - Spanish La Liga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jacobo, ESP, G, 1.93, 82, 10-07-83, Valladolid, Valladolid
+2, Cosmin Contra, ROU, D, 1.80, 74, 15-12-75, Timişoara, Atlético Madrid
+3, Daniel Díaz, ARG, D, 1.82, 74, 13-03-79, San Fernando del Valle, Boca Juniors
+4, David Belenguer, ESP, D, 1.80, 74, 17-12-72, Villasar del Mar, Real Betis
+5, Pedro Mario, ESP, D, 1.78, 75, 02-02-82, Tenerife, Recreativo Huelva
+6, Fabio Celestini, SUI, M, 1.80, 74, 31-10-75, Lausanne, Marseille
+7, Mario Cotelo, ESP, M, 1.81, 78, 10-02-75, Langreo, Sevilla
+8, Jaime Gavilán, ESP, M, 1.78, 71, 12-05-85, Valencia, Valencia
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Real Madrid
+10, Juan Albín, URU, M, 1.79, 77, 17-07-86, Salto, Nacional [URU]
+11, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, Real Madrid
+12, Lucas Licht, ARG, D, 1.74, 72, 06-04-81, Rosario, Gimnasia y Esgrima (LP)
+13, Vladimir Stojković, SRB, G, 1.95, 92, 28-07-83, Loznica, Sporting CP
+14, Manu del Moral, ESP, F, 1.86, 77, 25-02-84, Jaén, Atlético Madrid B
+15, Rafa, ESP, D, 1.83, 72, 09-04-85, Peñafiel, Valladolid
+16, Joffre Guerrón, ECU, M, 1.74, 74, 28-04-85, Ambuqui, LDU Quito
+17, Kepa, ESP, F, 1.85, 83, 13-01-84, Marbella, Sevilla
+18, Ikechukwu Uche, NGA, F, 1.71, 74, 05-01-84, Aba, Recreativo Huelva
+19, Franck Signorino, ITA, D, 1.73, 60, 19-09-81, Nogent-sur-Marne, Nantes
+20, Eugen Polanski, GER, M, 1.83, 73, 17-03-86, Sosnowiec, B Mönchengladbach
+21, David Cortés, ESP, D, 1.81, 74, 29-08-79, Badajoz, Mallorca
+22, Javi Casquero, ESP, M, 1.80, 73, 19-08-76, Toledo, Racing Santander
+23, Adrián González, ESP, M, 1.83, 76, 25-05-88, Madrid, Real Madrid B
+24, İbrahim Kaş, TUR, D, 1.83, 79, 20-09-86, Karabük, Beşiktaş
+25, Óscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Independiente
+31, Gonzalo, ESP, G, 1.88, 75, 10-01-88, Madrid, Getafe B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Francisco David Sousa, ESP, M, 1.74, 71, 03-02-80, Málaga, Rayo Vallecano (On Loan)
+25, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, Re-Registered (11)
+13, Roberto Abbondanzieri, ARG, G, 1.86, 88, 19-08-72, Bouquet, Boca Juniors
+1, Oscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Re-Registered (25)

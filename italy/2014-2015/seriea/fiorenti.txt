@@ -1,0 +1,56 @@
+=  Fiorentina - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Neto, BRA, G, 1.91, 83, 19-07-89, Araxá, Atlético Paranaense
+2, Gonzalo Rodríguez, ARG, D, 1.82, 79, 10-04-84, Buenos Aires, Villarreal
+4, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, Manchester C
+5, Milan Badelj, CRO, M, 1.86, 79, 25-02-89, Zagreb, Hamburg
+6, Juan Manuel Vargas, PER, M, 1.80, 75, 05-10-83, Lima, Catania
+7, David Pizarro, CHI, M, 1.70, 65, 11-09-79, Valparaiso, Roma
+9, Alberto Gilardino, ITA, F, 1.84, 79, 05-07-82, Biella, Guangzhou Evergrande
+10, Alberto Aquilani, ITA, M, 1.86, 77, 07-07-84, Rome, Liverpool
+12, Ciprian Tătăruşanu, ROU, G, 1.94, 89, 09-02-86, Bucharest, Steaua Bucureşti
+14, Matías Fernández, CHI, M, 1.77, 75, 15-05-86, Merlo, Sporting CP
+15, Stefan Savić, MNE, D, 1.86, 73, 08-01-91, Mojkovac, Manchester C
+16, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Sassuolo
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, Puerto de Santa Maria, Málaga
+18, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, Guangzhou Evergrande
+19, José María Basanta, ARG, D, 1.88, 78, 03-04-84, Tres Sargentos, Monterrey
+20, Borja Valero, ESP, M, 1.74, 73, 12-01-85, Madrid, Villarreal
+21, Cristiano Lupatelli, ITA, G, 1.89, 86, 21-06-78, Perugia, Genoa
+22, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Teaneck, Villarreal
+23, Manuel Pasqual, ITA, D, 1.78, 71, 13-03-82, San Donà di Piave, Arezzo
+24, Luca Lezzerini, ITA, G, 1.95, 86, 24-03-95, Rome, None
+28, Marcos Alonso, ESP, D, 1.88, 81, 28-12-90, Madrid, Bolton W
+29, Federico Bernardeschi, ITA, F, 1.83, 75, 16-02-94, Carrara, None
+30, Khouma Babacar, SEN, F, 1.85, 76, 17-03-93, Thiès, None
+31, Antonio Rosati, ITA, G, 1.94, 88, 26-06-83, Tivoli, Napoli
+32, Andrea Lazzari, ITA, M, 1.84, 81, 03-12-84, Bergamo, Cagliari
+33, Mario Gómez, GER, F, 1.89, 88, 10-07-85, Riedlingen, Bayern Munich
+34, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Montopoli in Val d'Arno, None
+35, Ricardo Bagadur, CRO, D, 1.89, 87, 16-09-95, Rijeka, Rijeka
+36, Nicolò Gigli, ITA, D, 1.87, 86, 10-01-96, Genzano di Roma, None
+37, Luzayadio Bangu, COD, M, 1.70, 57, 10-10-97, Kinshasa, Atalanta
+38, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Genoa
+39, Jacopo Petriccione, ITA, M, 1.86, 75, 22-02-95, Gorizia, Siena
+40, Nenad Tomović, SRB, D, 1.84, 79, 30-08-87, Kragujevac, Genoa
+41, Edoardo Masciangelo, ITA, D, 1.77, 69, 08-07-96, Rome, Roma
+42, Enea Sanna, ITA, D, , , 03-01-97, Muravera, None
+43, Simone Minelli, ITA, M, 1.66, 63, 08-01-97, Carpi, Reggiana
+44, Lorenzo Bardini, ITA, G, 1.91, 86, 12-04-96, Florence, None
+72, Josip Iličić, SVN, M, 1.89, 79, 29-01-88, Kranj, Palermo
+74, Mohamed Salah, EGY, M, 1.75, 69, 15-06-92, Basyoun, Chelsea
+77, Mounir El Hamdaoui, MAR, F, 1.83, 81, 14-07-84, Rotterdam, Ajax
+93, Octávio, BRA, M, 1.86, 77, 29-12-93, Rio de Janeiro, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Genoa (On Loan)
+31, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Tirrenia, Bari (On Loan)
+8, Marko Marin, GER, M, 1.70, 63, 13-03-89, Gradiška, Chelsea
+25, Joshua Brillante, AUS, M, 1.77, 73, 25-03-93, Bundaberg, Empoli (On Loan)
+66, Steve Leo Beleck, CMR, F, 1.92, 79, 10-02-93, Yaoundé, Mantova (On Loan)
+11, Juan Cuadrado, COL, M, 1.76, 66, 26-05-88, Necoclí, Chelsea
+13, Oleksandr Iakovenko, UKR, M, 1.83, 74, 23-06-87, Kyiv, ADO Den Haag (On Loan)
+55, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Perugia (On Loan)

@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2006/07
+
+18 teams
+- [Ankaragücü](ankgucu.txt)
+- [Ankaraspor](ankspor.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Denizlispor](denizli.txt)
+- [Erciyesspor](erciyes.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Manisaspor](manisa.txt)
+- [Rizespor](rizespor.txt)
+- [Sakaryaspor](sakarya.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

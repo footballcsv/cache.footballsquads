@@ -1,0 +1,54 @@
+=  Bologna - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Angelo da Costa, BRA, G, 1.86, 81, 12-11-83, São Bernardo do Campo, Sampdoria
+2, Marios Oikonomou, GRE, D, 1.89, 85, 06-10-92, Giannina, Cagliari
+4, Emil Krafth, SWE, D, 1.81, 79, 02-08-94, Stockholm, Helsingborgs IF
+5, Erick Pulgar, CHI, M, 1.86, 83, 15-01-94, Antofagasta, Universidad Católica
+6, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Verona
+8, Saphir Taïder, ALG, M, 1.80, 73, 29-02-92, Castres, Internazionale
+9, Simone Verdi, ITA, F, 1.72, 62, 12-07-92, Broni, Milan
+10, Mattia Destro, ITA, F, 1.78, 72, 20-03-91, Ascoli Piceno, Roma
+11, Ladislav Krejčí, CZE, M, 1.80, 68, 05-07-92, Prague, Sparta Prague
+12, Juan Manuel Valencia, COL, M, 1.85, 79, 20-06-98, Suárez, Cortuluá
+13, Fabrizio Brignani, ITA, D, 1.82, 75, 13-01-98, Asola, Cremonese
+14, Federico Di Francesco, ITA, F, 1.78, 75, 14-06-94, Pisa, Virtus Lanciano
+15, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, Internazionale
+16, Ádám Nagy, HUN, M, 1.78, 74, 17-06-95, Budapest, Ferencváros
+17, Godfred Donsah, GHA, M, 1.75, 70, 07-06-96, Accra, Cagliari
+18, Filip Helander, SWE, D, 1.92, 84, 22-04-93, Malmö, Verona
+19, Umar Sadiq, NGA, F, 1.92, 75, 02-02-97, Lagos, Roma
+20, Domenico Maietta, ITA, D, 1.84, 75, 03-08-82, Cariati, Verona
+21, Bruno Petković, CRO, F, 1.92, 88, 16-09-94, Metković, Trapani
+22, Luca Rizzo, ITA, M, 1.88, 80, 24-04-92, Genoa, Sampdoria
+25, Adam Masina, MAR, D, 1.91, 87, 02-01-94, Khouribga, None
+28, Daniele Gastaldello, ITA, D, 1.85, 77, 25-06-83, Camposampiero, Sampdoria
+30, Orji Okwonkwo, NGA, F, 1.81, 72, 19-01-98, Benin City, Football College Abuja
+34, Federico Ravaglia, ITA, G, 1.90, 80, 11-11-99, Bologna, None
+35, Vasilis Torosidis, GRE, D, 1.86, 82, 10-06-85, Xanthi, Roma
+42, Gianluca Frabotta, ITA, D, 1.76, 70, 24-06-99, Rome, Savio
+44, Vincenzo Silvestro, ITA, M, 1.75, 67, 31-07-98, Bologna, None
+69, Mattia Cozzari, ITA, M, 1.78, 74, 06-05-99, Bentivoglio, None
+72, Giordano Trovade, ITA, M, 1.78, 74, 23-05-98, Este, Padova
+75, Emanuele Monari, ITA, G, 1.90, 79, 05-05-98, Bologna, None
+80, Alessandro Bianconi, ITA, D, 1.93, 83, 20-01-99, Bentivoglio, None
+83, Antonio Mirante, ITA, G, 1.93, 78, 08-07-83, Castellammare di Stabia, Parma
+97, Mouhamadou Sarr, SEN, G, 1.90, 78, 05-01-97, Kaolack, None
+98, Aaron Tabacchi, ITA, F, 1.78, 70, 26-06-98, Bologna, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Amadou Diawara, GUI, M, 1.84, 74, 17-07-97, Conakry, Napoli
+23, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Bari
+95, Deian Boldor, ROU, D, 1.89, 79, 03-02-95, Timişoara, Verona (On Loan)
+6, Lorenzo Crisetig, ITA, M, 1.84, 80, 20-01-93, Cividale del Friuli, Crotone (On Loan)
+12, Nicolò Cherubin, ITA, D, 1.88, 83, 02-12-86, Vicenza, Verona (On Loan)
+77, Luca Ceccarelli, ITA, D, 1.83, 70, 24-03-83, Cesena, 
+3, Archimede Morleo, ITA, D, 1.73, 68, 26-09-83, Mesagne, Bari
+23, Alfred Gomis, ITA, G, 1.94, 83, 05-09-93, Ziguinchor, Torino
+26, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, SPAL
+24, Alex Ferrari, ITA, D, 1.83, 70, 01-07-94, Modena, Verona (On Loan)
+7, Anthony Mounier, FRA, F, 1.74, 65, 27-09-87, Aubenas, Atalanta (On Loan)
+99, Robert Acquafresca, ITA, F, 1.84, 77, 11-09-87, Turin, Ternana
+31, Blerim Džemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Montreal Impact (On Loan)

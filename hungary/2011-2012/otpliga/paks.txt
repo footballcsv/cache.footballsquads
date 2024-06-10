@@ -1,0 +1,39 @@
+=  Paks - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Attila Kovács, HUN, G, 1.82, 81, 17-02-81, Budapest, Balassagyarmat
+5, Zsolt Gévay, HUN, D, 1.87, 82, 19-11-87, Dunaújváros, Makó
+6, Tamás Sifter, HUN, M, 1.84, 84, 03-03-81, Sopron, Videoton
+7, Tamás Báló, HUN, M, 1.72, 68, 12-01-84, Dunaújváros, Dunaferr
+8, Roland Bohner, HUN, M, 1.74, 68, 06-07-89, Mohács, Mohács
+9, Tamás Csehi, HUN, D, 1.81, 72, 06-02-84, Kalocsa, Pécs
+10, Tamás Kiss, HUN, M, 1.80, 82, 27-09-79, Szekszárd, Hévíz
+11, Gábor Vayer, HUN, M, 1.78, 77, 18-05-77, Győr, ŁKS Łódź
+12, Ádám Berkó, HUN, D, 1.83, 75, 02-01-91, Dunaújváros, Dunaferr
+13, Dániel Böde, HUN, M, 1.90, 84, 24-10-86, Szekszárd, None
+16, Tibor Heffler, HUN, M, 1.80, 75, 17-05-87, Dunaújváros, Dunaferr
+17, József Magasföldi, HUN, F, 1.81, 71, 10-11-84, Székesfehérvár, Zalaegerszeg
+18, Attila Fiola, HUN, D, 1.82, 74, 17-02-90, Paks, None
+19, István Mészáros, HUN, M, 1.68, 63, 03-03-80, Szekszárd, Szekszárd
+20, Ádám Hrepka, HUN, F, 1.83, 72, 15-04-87, Szeged, MTK
+22, István Sipeki, HUN, M, 1.67, 65, 17-02-79, Eger, Panahaiki
+23, Máté Kiss, HUN, G, 1.88, 88, 23-07-88, Salgótarján, Salgótarján
+25, Márton Eppel, HUN, F, 1.89, 77, 26-10-91, Budapest, MTK
+26, Gábor Tamási, HUN, M, 1.78, 82, 26-08-81, Dunaújváros, Dunaferr
+28, Péter Pokorni, HUN, G, 1.90, 88, 22-11-89, Szekszárd, MTK
+30, János Szabo, HUN, D, 1.82, 73, 11-07-89, Paks, None
+32, Lóránd Szatmári, HUN, M, 1.76, 65, 03-10-88, Petrozsény, Reggina
+39, László Bartha, HUN, F, 1.81, 73, 09-02-87, Komló, Kozármisleny
+53, Tibor Montvai, HUN, F, 1.87, 83, 23-11-78, , Kecskemét
+73, László Éger, HUN, D, 1.88, 81, 07-05-77, Paks, Poli Ejido
+77, Norbert Csernyánszki, HUN, G, 1.86, 80, 01-02-76, Veszprém, Debrecen
+86, Roland Racskó, HUN, D, 1.87, 81, 27-02-89, Pécs, Pécs
+89, Roland Pap, HUN, F, 1.85, 76, 17-08-90, Szekszárd, Bonyhád
+91, Norbert Pintér, HUN, M, 1.87, 82, 03-11-92, Paks, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+87, Barnabás Vári, HUN, D, 1.84, 85, 15-09-87, Szeged, Szolnok (On Loan)
+2, István Nagy, HUN, M, 1.86, 74, 16-05-86, Dunaújváros, Siófok (On Loan)
+27, Norbert Heffler, HUN, M, 1.81, 75, 24-05-90, Dunaújváros, Siófok (On Loan)

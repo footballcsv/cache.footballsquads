@@ -1,0 +1,56 @@
+=  Bologna - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluca Curci, ITA, G, 1.91, 90, 12-07-85, Rome, Roma
+2, Marco Maini, ITA, D, 1.78, 72, 14-04-95, Bologna, None
+3, Archimede Morleo, ITA, D, 1.83, 78, 26-06-83, Mesagne, Crotone
+4, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Internazionale
+5, Mikael Antonsson, SWE, D, 1.89, 80, 31-05-81, Karlskrona, FC København
+6, Saphir Sliti Taïder, ALG, M, 1.80, 73, 29-02-92, Castres, Grenoble
+8, György Garics, AUT, M, 1.83, 76, 08-03-84, Szombathely, Atalanta
+9, Davide Moscardelli, ITA, F, 1.81, 77, 03-02-80, Mons, Chievo Verona
+10, Alberto Gilardino, ITA, F, 1.84, 79, 05-07-82, Biella, Genoa
+11, Marco Motta, ITA, D, 1.89, 75, 14-05-86, Merate, Juventus
+13, Nico Pulzetti, ITA, M, 1.76, 68, 13-02-84, Rimini, Livorno
+14, Cesare Natali, ITA, D, 1.91, 87, 05-04-79, Bergamo, Fiorentina
+15, Diego Pérez, URU, M, 1.77, 81, 18-05-80, Montevideo, Monaco
+16, Matteo Malagoli, ITA, G, 1.91, 86, 02-01-95, Bologna, None
+17, Tiberio Guarente, ITA, M, 1.82, 74, 01-11-85, Pisa, Sevilla
+18, Manolo Gabbiadini, ITA, F, 1.81, 72, 26-11-91, Calcinate, Juventus
+19, Lazaros Christodoulopoulos, GRE, M, 1.83, 77, 19-12-86, Thessaloniki, Panathinaikos
+20, Mathías Abero, URU, D, 1.84, 81, 09-04-90, Montevideo, Nacional [URU]
+21, Nicolò Cherubin, ITA, D, 1.88, 83, 02-12-86, Vicenza, Cittadella
+22, Filippo Lombardi, ITA, G, 1.87, 76, 22-04-90, Ancona, Ancona
+23, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, Brescia
+24, Alex Ferrari, ITA, D, 1.88, 80, 01-07-94, Modena, None
+25, Federico Agliardi, ITA, G, 1.90, 82, 11-02-83, Brescia, Padova
+26, Luca Veratti, ITA, F, 1.88, 89, 03-02-93, Mirandola, None
+28, Martí Riverola, ESP, M, 1.81, 74, 26-01-91, Barcelona, Barcelona B
+29, Alessandro Capello, ITA, F, 1.83, 69, 12-12-95, Bologna, None
+30, Michele Pazienza, ITA, M, 1.78, 75, 05-08-82, San Severo, Juventus
+31, Uroš Radaković, SRB, D, 1.89, 79, 31-03-94, Novi Sad, Proleter Novi Sad
+32, Dejan Stojanović, MKD, G, 1.96, 89, 19-07-93, Feldkirch, FC Lustenau
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Brescia
+34, Rubén Palomeque, ESP, D, , , 12-09-94, Málaga, Málaga
+35, Riccardo Benatti, ITA, F, , , 30-01-94, Vignola, None
+36, Nicola Pescatore, ITA, M, , , 02-02-94, Bologna, None
+43, Frederik Sørensen, DEN, D, 1.90, 80, 14-04-92, Lyngby-Taarbæk, Juventus
+44, Naldo, BRA, D, 1.88, 80, 28-08-88, Santo André, Granada
+45, Roger Carvalho, BRA, D, 1.84, 74, 10-12-86, Arapongas, Tombense
+77, Christian Pasquato, ITA, M, 1.72, 70, 20-07-89, Padua, Udinese
+94, Luca Marchignoli, ITA, G, , , 28-07-94, Bologna, None
+95, Lorenzo Dall'Osso, ITA, D, , , 20-06-95, Castel San Pietro Terme, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Southampton
+16, Federico Casarini, ITA, M, 1.81, 72, 07-08-89, Carpi, Cagliari (On Loan)
+44, Alessandro Marchi, ITA, M, 1.79, 69, 07-12-89, Urbino, Frosinone (On Loan)
+88, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, San Marino
+12, Andrea Pisanu, ITA, M, 1.79, 74, 07-01-82, Cagliari, Montreal Impact (On Loan)
+19, Federico Rodríguez, URU, F, 1.85, 74, 03-04-91, Montevideo, Montevideo Wanderers (On Loan)
+90, Daniele Portanova, ITA, D, 1.85, 75, 17-12-78, Rome, Genoa
+9, Robert Acquafresca, ITA, F, 1.84, 67, 11-09-87, Turin, Levante (On Loan)
+7, Henry Giménez, URU, F, 1.76, 69, 13-03-86, Durazno, Grosseto (On Loan)
+24, Daniele Paponi, ITA, F, 1.79, 66, 16-04-88, Ancona, Montreal Impact (On Loan)

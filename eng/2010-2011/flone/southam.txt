@@ -1,0 +1,46 @@
+=  Southampton - English Football League One 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kelvin Davis, ENG, G, 1.85, 88, 29-09-76, Bedford, Sunderland
+2, Frazer Richardson, ENG, D, 1.80, 75, 29-10-82, Rotherham, Charlton Ath
+3, Daniel Harding, ENG, D, 1.83, 75, 23-12-83, Gloucester, Ipswich T
+4, Morgan Schneiderlin, FRA, M, 1.81, 75, 08-11-89, Zettwiller, Strasbourg
+5, Ryan Dickson, ENG, D, 1.78, 72, 14-12-86, Saltash, Brentford
+6, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Crystal Palace
+7, Rickie Lambert, ENG, F, 1.88, 77, 16-02-82, Liverpool, Bristol R
+8, Jonathan Forte, BRB, F, 1.83, 77, 25-07-86, Sheffield, Scunthorpe U
+9, Lee Barnard, ENG, F, 1.78, 68, 18-07-84, Romford, Southend U
+11, Guilherme do Prado, BRA, M, 1.89, 78, 31-12-81, São Paulo, Cesena
+12, Danny Butterfield, ENG, D, 1.80, 71, 21-11-79, Boston, Crystal Palace
+14, Dean Hammond, ENG, M, 1.83, 74, 07-03-83, Hastings, Colchester U
+15, Radhi Jaidi, TUN, D, 1.89, 89, 30-08-75, Tunis, Birmingham C
+17, Aaron Martin, ENG, D, 1.90, 76, 29-09-89, Newport (IoW), Eastleigh
+19, Daniel Seaborne, ENG, D, 1.83, 74, 05-03-87, Barnstaple, Exeter C
+20, Adam Lallana, ENG, M, 1.73, 73, 10-05-88, St Albans, None
+21, Lee Holmes, ENG, M, 1.75, 66, 02-04-87, Mansfield, Derby Co
+22, David Connolly, IRL, F, 1.72, 68, 06-06-77, Willesden, Sunderland
+23, Tommy Forecast, ENG, G, 1.99, 75, 15-10-86, Newham, Tottenham H
+24, Bartosz Białkowski, POL, G, 1.94, 83, 06-07-87, Braniewo, Górnik Zabrze
+25, James Ward-Prowse, ENG, M, 1.73, 66, 01-11-94, Southampton, None
+26, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, None
+27, Oscar Gobern, ENG, M, 1.80, 68, 26-01-91, Birmingham, None
+28, Callum McNish, ENG, M, 1.88, 79, 25-05-92, Oxford, None
+29, Ryan Doble, WAL, F, 1.91, 83, 01-02-91, Abergavenny, None
+30, Richard Chaplow, ENG, M, 1.75, 57, 02-02-85, Accrington, Preston NE
+31, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Dagenham & Redbridge
+32, Dany N'Guessan, FRA, M, 1.85, 83, 11-08-87, Ivry-sur-Seine, Leicester C
+33, Dale Stephens, ENG, M, 1.69, 71, 12-06-89, Bolton, Oldham Ath
+36, Anthony Pulis, WAL, M, 1.78, 64, 21-07-84, Bristol, Stoke C
+37, Jack Saville, ENG, D, 1.90, 76, 02-04-91, Frimley, Chelsea
+38, Ben Reeves, ENG, D, 1.78, 67, 19-11-91, Verwood, None
+39, Ryan Tafazolli, ENG, D, 1.96, 78, 28-09-91, Sutton, None
+40, Tony Garrod, ENG, F, 1.88, 74, 14-09-91, Crawley, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Nicholas Bignall, ENG, F, 1.77, 81, 11-07-90, Reading, Reading
+16, Paul Wotton, ENG, M, 1.80, 70, 17-08-77, Plymouth, Yeovil T
+18, Joseph Mills, ENG, D, 1.75, 70, 30-10-89, Swindon, Doncaster R (On Loan)
+10, Jason Puncheon, ENG, M, 1.73, 71, 26-06-86, Croydon, Blackpool (On Loan)
+33, James Shea, ENG, G, 1.80, 76, 16-06-91, Islington, Arsenal

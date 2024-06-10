@@ -1,0 +1,42 @@
+=  Cardiff City - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.91, 83, 05-03-85, Glasgow, Norwich C
+2, Lee Peltier, ENG, D, 1.78, 73, 11-12-86, Liverpool, Huddersfield T
+3, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Manchester U
+4, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Reading
+5, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Lorient
+6, Ben Turner, ENG, D, 1.93, 91, 21-01-88, Birmingham, Coventry C
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Joe Ralls, ENG, M, 1.83, 70, 13-10-93, Aldershot, None
+11, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazackerly, Brighton & HA
+12, Declan John, WAL, M, 1.78, 75, 30-06-95, Merthyr Tydfil, None
+13, Anthony Pilkington, IRL, M, 1.83, 76, 06-06-88, Blackburn, Norwich C
+14, Federico Macheda, ITA, F, 1.83, 76, 22-08-91, Rome, Manchester U
+15, Kagisho Dikgacoi, RSA, M, 1.80, 80, 24-11-84, Brandfort, Crystal Palace
+16, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+17, Aron Gunnarsson, ISL, M, 1.77, 70, 22-04-89, Akureyri, Coventry C
+21, Simon Moore, ENG, G, 1.91, 83, 19-05-90, Sandown, Brentford
+22, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Crystal Palace
+23, Matthew Kennedy, SCO, M, 1.75, 65, 01-11-94, Irvine, Everton
+24, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Wycombe W
+26, Kenneth Zohore, DEN, F, 1.94, 95, 31-01-94, Copenhagen, Kortrijk
+27, Lex Immers, NED, M, 1.87, 78, 08-06-86, Den Haag, Feyenoord
+28, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Millwall
+29, Semi Ajayi, ENG, D, 1.93, 83, 09-11-93, Crayford, Arsenal
+30, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Accrington Stanley
+36, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, None
+37, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, Leicester C
+38, Sammy Ameobi, ENG, F, 1.90, 66, 01-05-92, Newcastle upon Tyne, Newcastle U
+39, Idriss Saadi, FRA, F, 1.79, 75, 08-02-92, Valence, Clermont
+45, Theo Wharton, WAL, M, 1.78, 68, 15-11-94, Newport, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Eóin Doyle, IRL, F, 1.78, 73, 12-03-88, Tallaght, Preston NE (On Loan)
+9, Kenwyne Jones, TRI, F, 1.88, 75, 05-10-84, Point Fortin, Al-Jazira (On Loan)
+33, Tony Watt, SCO, F, 1.73, 67, 29-12-93, Coatbridge, Charlton Ath
+10, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Wolverhampton W
+19, Alex Revell, ENG, F, 1.91, 78, 07-07-83, Cambridge, MK Dons
+20, Gabriel Tamaş, ROU, D, 1.88, 77, 09-11-83, Braşov, Steaua București

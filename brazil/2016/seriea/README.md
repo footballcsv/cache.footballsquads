@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2016
+
+20 teams
+- [América Mineiro](amermin.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Botafogo](botafogo.txt)
+- [Chapecoense](chapeco.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Figueirense](figueir.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Palmeiras](palmeir.txt)
+- [Ponte Preta](pontepre.txt)
+- [Santa Cruz](santacruz.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vitória](vitoriaba.txt)

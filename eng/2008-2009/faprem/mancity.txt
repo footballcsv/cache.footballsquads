@@ -1,0 +1,66 @@
+=  Manchester City - English Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Hart, ENG, G, 1.91, 80, 19-04-87, Shrewsbury, Shrewsbury T
+2, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, None
+3, Michael Ball, ENG, D, 1.78, 77, 02-10-79, Liverpool, PSV Eindhoven
+4, Nedum Onuoha, ENG, D, 1.83, 78, 12-11-86, Warri, None
+5, Pablo Zabaleta, ARG, D, 1.74, 74, 16-01-85, Capital Federal, Espanyol
+6, Michael Johnson, ENG, M, 1.83, 79, 24-02-88, Urmston, None
+7, Stephen Ireland, IRL, M, 1.75, 68, 22-08-86, Cork, None
+8, Shaun Wright-Phillips, ENG, M, 1.66, 64, 25-10-81, Greenwich, Chelsea
+9, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Fiorentina
+10, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Real Madrid
+11, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Shakhtar Donetsk
+12, Darius Vassell, ENG, F, 1.71, 74, 13-06-80, Birmingham, Aston Villa
+13, Richard Martin, ENG, G, 1.88, 82, 01-09-87, Brighton, Brighton & HA
+15, Javier Garrido, ESP, D, 1.78, 75, 15-03-85, Irún, Real Sociedad
+16, Kasper Schmeichel, DEN, G, 1.81, 78, 05-11-86, Copenhagen, None
+17, Martin Petrov, BUL, M, 1.80, 76, 15-01-79, Vzatza, Atlético Madrid
+18, Danny Mills, ENG, D, 1.80, 75, 18-05-77, Norwich, Leeds U
+19, Gelson Fernandes, SUI, M, 1.83, 70, 02-09-86, Praia, Sion
+20, Felipe Caicedo, ECU, F, 1.85, 78, 05-09-88, Guayaquil, Basel
+21, Dietmar Hamann, GER, M, 1.89, 73, 27-08-73, Waldsassen, Bolton W
+22, Richard Dunne, IRL, D, 1.88, 95, 21-09-79, Dublin, Everton
+24, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, None
+25, Wayne Bridge, ENG, D, 1.79, 81, 05-08-80, Southampton, Chelsea
+27, Benjani Mwaruwari, ZIM, F, 1.82, 78, 13-08-78, Bulawayo, Portsmouth
+28, Daniel Sturridge, ENG, F, 1.88, 76, 01-09-89, Birmingham, None
+29, Kelvin Etuhu, NGA, F, 1.80, 79, 30-05-88, Kano, None
+30, Shaleum Logan, ENG, D, 1.85, 79, 06-11-88, Manchester, None
+31, Adam Clayton, ENG, F, 1.75, 75, 14-01-89, Manchester, None
+33, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Hamburg
+34, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Hamburg
+35, Scott Kay, ENG, M, 1.79, 77, 18-09-89, Denton, None
+36, Gláuber, BRA, D, 1.90, 77, 05-08-83, São José do Rio Preto, Nürnberg
+37, Shay Given, IRL, G, 1.88, 84, 20-04-76, Lifford, Newcastle U
+39, Craig Bellamy, WAL, F, 1.75, 69, 13-07-79, Cardiff, West Ham U
+40, Vladimir Weiss, SVK, M, 1.75, 68, 30-11-89, Bratislava, None
+41, Ben Mee, ENG, D, 1.80, 74, 23-09-89, Sale, None
+42, Karl Moore, IRL, M, 1.70, 63, 09-11-88, Dublin, None
+43, Clayton McDonald, ENG, D, 1.98, 104, 06-12-88, Liverpool, None
+44, Curtis Obeng, ENG, D, 1.73, 67, 14-02-89, Manchester, None
+45, Gregory Hartley, ENG, G, , , , , None
+46, Paul Marshall, ENG, M, 1.85, 78, 09-07-89, Gorton, None
+47, James Poole, ENG, F, 1.80, 79, 20-03-90, Stockport, None
+48, Chris Ramsey, NIR, D, , , , , None
+49, Donal McDermott, IRL, F, 1.98, 76, 19-10-89, Dublin, None
+51, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, None
+52, Filip Mentel, SVK, G, 1.80, 76, 02-02-90, Bratislava, None
+53, Matty Brown, ENG, D, 1.94, 90, 15-03-90, Great Crosby, Tranmere R
+54, David Ball, ENG, F, 1.83, 75, 14-12-89, Whitefield, None
+55, Ian Daly, IRL, F, 1.87, 78, 29-03-90, Dublin, None
+56, Angelos Tsiaklis, CYP, M, 1.80, 69, 02-10-89, , None
+57, Ben Morris, ENG, M, , , , , None
+, Gunnar Nielsen, FRO, G, 1.91, 89, 07-10-86, Tórshavn, Blackburn R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Rolando Bianchi, ITA, F, 1.88, 78, 15-02-83, Albano Sant'Alessandro, Torino
+5, Vedran Ćorluka, CRO, D, 1.93, 84, 05-02-86, Derventa, Tottenham H
+25, Nery Castillo, MEX, M, 1.70, 61, 13-06-84, San Luis Potosí, Shakhtar Donetsk
+34, Sam Williamson, ENG, D, 1.73, 73, 15-10-87, Macclesfield, Wrexham
+32, Javan Vidal, ENG, D, 1.78, 68, 10-05-89, Manchester, Aberdeen (On Loan)
+26, Tal Ben Haim, ISR, D, 1.81, 74, 31-03-82, Rishon LeZion, Sunderland (On Loan)
+14, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Everton (On Loan)

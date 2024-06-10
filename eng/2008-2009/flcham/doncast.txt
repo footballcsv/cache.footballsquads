@@ -1,0 +1,43 @@
+=  Doncaster Rovers - English Football League Championship 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Neil Sullivan, SCO, G, 1.91, 83, 24-02-70, Sutton, Leeds U
+2, James O'Connor, ENG, D, 1.78, 79, 20-11-84, Birmingham, Bournemouth
+3, Gareth Roberts, WAL, D, 1.73, 75, 06-02-78, Wrexham, Tranmere R
+4, Jos van Nieuwstadt, NED, D, 1.83, 74, 19-11-79, Waalwijk, Excelsior
+5, Matthew Mills, ENG, D, 1.91, 82, 14-07-86, Swindon, Manchester C
+6, James Chambers, ENG, D, 1.78, 74, 20-11-80, Sandwell, Leicester C
+7, Lewis Guy, ENG, F, 1.78, 67, 27-08-85, Penrith, Newcastle U
+8, Brian Stock, WAL, M, 1.80, 71, 24-12-81, Winchester, Preston NE
+9, Darren Byfield, JAM, F, 1.80, 75, 29-09-76, Sutton Coldfield, Bristol C
+10, Gareth Taylor, WAL, F, 1.88, 86, 25-02-73, Weston-super-Mare, Tranmere R
+11, Adam Lockwood, ENG, D, 1.83, 76, 26-10-81, Wakefield, Yeovil T
+12, James Hayter, ENG, F, 1.75, 69, 09-04-79, Newport (IoW), Bournemouth
+13, Ben Smith, ENG, G, 1.86, 81, 05-09-86, Newcastle upon Tyne, Stockport Co
+14, Paul Heffernan, IRL, F, 1.78, 70, 29-12-81, Dublin, Bristol C
+15, Mark Wilson, ENG, M, 1.80, 77, 09-02-79, Scunthorpe, FC Dallas
+16, Dean Shiels, NIR, F, 1.80, 62, 01-02-85, Maghaerafelt, Hibernian
+17, Martin Woods, SCO, M, 1.75, 68, 01-01-86, Bellshill, Rotherham U
+18, Sean McDaid, SCO, D, 1.68, 61, 06-03-86, Harrogate, Leeds U
+19, Richard Wellens, ENG, M, 1.75, 72, 26-03-80, Manchester, Oldham Ath
+20, John Spicer, ENG, M, 1.80, 73, 13-09-83, Romford, Burnley
+21, Sam Hird, ENG, D, 1.83, 76, 07-09-87, Doncaster, Leeds U
+22, Kyle Letheren, WAL, G, 1.88, 83, 26-12-87, Swansea, Barnsley
+23, Jason Price, WAL, F, 1.88, 72, 12-04-77, Aberdare, Hull C
+24, Gordon Greer, SCO, D, 1.88, 83, 14-12-80, Glasgow, Kilmarnock
+25, Stuart Elliott, NIR, M, 1.78, 74, 23-07-78, Belfast, Hull C
+26, James Coppinger, ENG, F, 1.70, 65, 10-01-81, Middlesbrough, Exeter C
+27, Kazenga LuaLua, COD, F, 1.80, 76, 10-12-90, Kinshasa, Newcastle U
+29, Waide Fairhurst, ENG, F, 1.78, 70, 07-05-89, Sheffield, Sheffield U
+31, Tomi Ameobi, ENG, F, 1.85, 76, 16-08-88, Newcastle upon Tyne, Leeds U
+32, Stephen Brooker, ENG, F, 1.83, 89, 21-05-81, Newport Pagnal, Bristol C
+33, Gary Woods, ENG, G, 1.85, 78, 01-10-90, Kettering, Manchester U
+34, Robbie Clark, ENG, M, 1.78, 71, 30-04-91, Hull, None
+35, Charles Fisher, ENG, D, 1.78, 71, 20-10-90, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Shelton Martis, ANT, D, 1.85, 77, 29-11-82, Willemstad, WBA
+16, Andrew Boyce, ENG, D, 1.90, 80, 05-11-89, Doncaster, 
+27, Craig Nelthorpe, ENG, M, 1.78, 70, 10-06-87, Doncaster, Oxford U

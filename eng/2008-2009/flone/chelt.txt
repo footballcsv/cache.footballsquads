@@ -1,0 +1,63 @@
+=  Cheltenham Town - English Football League One 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Shane Higgs, ENG, G, 1.91, 92, 13-05-77, Oxford, Worcester C
+3, Alan Wright, ENG, D, 1.63, 61, 28-09-71, Ashton-u-Lyme, Sheffield U
+4, Shane Duff, NIR, D, 1.85, 81, 02-04-82, Wroughton, None
+5, Gavin Caines, ENG, D, 1.85, 76, 20-09-83, Birmingham, Walsall
+6, Michael Townsend, ENG, D, 1.88, 88, 17-05-86, Walsall, Wolverhampton W
+7, Josh Low, WAL, M, 1.91, 93, 15-02-79, Bristol, Peterborough U
+8, John Finnigan, ENG, M, 1.73, 69, 29-03-76, Wakefield, Lincoln C
+9, Paul Connor, ENG, F, 1.88, 74, 12-01-79, Bishop Auckland, Leyton Orient
+10, Damian Spencer, ENG, F, 1.85, 89, 19-09-81, Ascot, None
+12, Scott P Brown, ENG, G, 1.84, 96, 26-04-85, Wolverhampton, Bristol C
+14, Dave Bird, ENG, M, 1.73, 72, 26-12-84, Gloucester, None
+16, Alex Russell, ENG, M, 1.78, 73, 17-03-73, Crosby, Bristol C
+17, Andy Lindegaard, ENG, M, 1.73, 72, 10-09-80, Taunton, Yeovil T
+18, Ashley Vincent, ENG, F, 1.83, 73, 26-05-85, Birmingham, Wolverhampton W
+19, Lee Ridley, ENG, D, 1.75, 75, 05-12-81, Scunthorpe, Scunthorpe U
+20, Andy Gallinagh, ENG, D, 1.77, 75, 16-03-85, Sutton Coldfield, None
+21, Will Puddy, ENG, G, 1.85, 83, 04-10-87, Salisbury, None
+22, Aaron Ledgister, ENG, M, 1.78, 73, 19-09-88, Chippenham, Bristol C
+25, Kyle Haynes, ENG, D, 1.80, 64, 29-12-91, Wolverhampton, Birmingham C
+26, Jake Lee, ENG, F, 1.83, 79, 18-09-91, Cirencester, None
+27, Lloyd Owusu, GHA, F, 1.88, 89, 12-12-76, Slough, Yeovil T
+28, Marley Watkins, ENG, M, 1.78, 65, 17-10-90, Lewisham, Swansea C
+29, Drissa Diallo, GUI, D, 1.85, 76, 04-01-73, Nouadhibou, MK Dons
+30, Josh Emery, ENG, M, 1.68, 68, 30-09-90, Ledbury, None
+32, Theo Lewis, ENG, F, 1.78, 69, 10-08-91, Oxford, None
+33, Frankie Artus, ENG, M, 1.83, 81, 27-09-88, Bristol, Bristol C
+36, Joe Perry, WAL, G, 1.83, 80, 29-03-92, Caerphilly, None
+37, Lewis Fathers, ENG, M, 1.73, 72, 26-12-90, , None
+38, Ian Westlake, ENG, M, 1.78, 73, 10-07-83, Clacton, Leeds U
+39, Elvis Hammond, GHA, F, 1.75, 68, 06-10-80, Accra, Leicester C
+40, Jack Durrant, ENG, D, 1.83, 72, 06-05-91, Bristol, None
+42, Dean Maynard, ENG, F, 1.83, 79, 20-09-90, , None
+43, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, London, Reading
+45, Yuri Berchiche, ESP, D, 1.80, 78, 10-02-90, Zarautz, Tottenham H
+46, David Hutton, IRL, M, 1.65, 69, 04-12-89, Enfield, Tottenham H
+47, Cathal Tosh, NIR, M, 1.63, 62, 04-09-91, , Walsall
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jennison Myrie-Williams, ENG, F, 1.83, 76, 17-05-88, Bristol, Bristol C
+25, Dean Sinclair, ENG, M, 1.78, 71, 17-12-84, St Albans, Charlton Ath
+23, Barry Hayles, JAM, F, 1.75, 83, 17-04-72, Lambeth, Leicester C
+25, Stuart Fleetwood, WAL, F, 1.73, 80, 23-04-86, Gloucester, Charlton Ath
+34, James Wesolowski, AUS, M, 1.72, 75, 25-08-87, Sydney, Leicester C
+24, Lathaniel Rowe-Turner, ENG, D, 1.85, 83, 12-11-89, Leicester, Leicester C
+31, Josh Payne, ENG, M, 1.83, 74, 25-11-90, Basingstoke, West Ham U
+26, Scott Murray, SCO, M, 1.75, 70, 26-05-74, Aberdeen, Bristol C
+24, Barry Hayles, JAM, F, 1.75, 83, 17-04-72, Lambeth, Leicester C
+2, Jerry Gill, ENG, D, 1.78, 70, 08-09-70, Clevedon, Forest Green R
+11, Scott Brown, ENG, M, 1.75, 65, 08-05-85, Chester, Port Vale
+13, Craig Armstrong, ENG, D, 1.80, 81, 23-05-75, South Shields, Kidderminster H
+35, Darren Kenton, ENG, D, 1.75, 75, 13-09-78, Wandsworth, Rochester Rhinos
+15, Ben Gill, ENG, M, 1.85, 75, 09-10-87, Harrow, Crawley T
+23, Jonathan Hayes, IRL, F, 1.70, 70, 09-07-87, Ballyfermot, Leicester C
+33, Lewis Montrose, ENG, M, 1.83, 76, 17-11-88, Manchester, Wigan Ath
+25, Chris Westwood, ENG, D, 1.80, 81, 13-02-77, Dudley, Peterborough U
+44, Ashley Hemmings, ENG, F, 1.73, 73, 03-03-91, Wolverhampton, Wolverhampton W
+41, Nicholas Bignall, ENG, F, 1.77, 81, 11-07-90, Reading, Reading
+35, Leon Constantine, ENG, F, 1.88, 75, 24-02-78, Hackney, Northampton T

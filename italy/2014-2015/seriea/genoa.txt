@@ -1,0 +1,54 @@
+=  Genoa - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, None
+2, Alassane També, FRA, D, 1.82, 76, 26-01-92, Villepinte, Kortrijk
+3, Luca Antonini, ITA, D, 1.82, 70, 04-02-82, Milan, Milan
+4, Sébastian De Maio, FRA, D, 1.90, 81, 05-03-87, Saint-Denis, Brescia
+5, Armando Izzo, ITA, D, 1.83, 76, 02-03-92, Naples, Avellino
+8, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Roma
+10, Diego Perotti, ARG, F, 1.75, 67, 26-07-88, Moreno, Sevilla
+11, Mbaye Niang, FRA, F, 1.84, 74, 19-12-94, Meulan-en-Yvelines, Milan
+14, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Fiorentina
+15, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Catania
+16, Maxime Lestienne, BEL, F, 1.76, 63, 17-06-92, Mouscron, Al-Arabi [QAT]
+18, Zakarya Bergdich, MAR, D, 1.78, 69, 07-01-89, Paris, Valladolid
+19, Leonardo Pavoletti, ITA, F, 1.86, 78, 26-11-88, Livorno, Sassuolo
+20, Facundo Alberto Costa, ARG, M, 1.76, 70, 09-01-85, Buenos Aires, Spartak Moscow
+21, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+22, Marco Borriello, ITA, F, 1.85, 76, 18-06-82, Naples, Roma
+23, Eugenio Lamanna, ITA, G, 1.86, 84, 07-08-89, Como, Siena
+24, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Tottenham H
+33, Juraj Kucka, SVK, M, 1.86, 84, 26-02-87, Bojnice, Sparta Prague
+34, Paolo Parente, ITA, D, 1.90, 78, 08-03-97, Capua, None
+35, Marco Soprano, ITA, D, 1.83, 72, 25-01-96, Venice, None
+37, Giuseppe Panico, ITA, F, 1.77, 75, 10-05-97, Ottaviano, None
+38, Rolando Mandragora, ITA, M, 1.83, 76, 29-06-97, Naples, Mariano Keller
+39, Daniele Sommariva, ITA, G, 1.86, 76, 18-07-97, Genoa, None
+40, Armando Prisco, ITA, G, 1.85, 78, 13-02-97, Aosta, None
+41, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, Sassuolo
+87, Andrea Gulli, ITA, M, 1.79, 75, 09-11-97, Savona, None
+88, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Hamburg
+91, Andrea Bertolacci, ITA, M, 1.79, 75, 11-01-91, Rome, Roma
+93, Diego Laxalt, URU, M, 1.78, 66, 07-02-93, Montevideo, Internazionale
+96, Matteo Franchetti, ITA, D, , , 03-05-96, Padua, Padova
+97, Paolo Ghiglione, ITA, F, 1.88, 79, 02-02-97, Voghera, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+47, Sebastián Ribas, URU, F, 1.89, 86, 11-03-88, Montevideo, Cartagena (On Loan)
+77, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Pozzuoli, Bologna (On Loan)
+90, Daniele Portanova, ITA, D, 1.85, 75, 17-12-78, Rome, Siena
+52, Moro Alhassan, GHA, M, 1.86, 88, 15-01-94, Accra, Vicenza (On Loan)
+27, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Catania, Vicenza (On Loan)
+2, Mario Sampirisi, ITA, D, 1.88, 83, 31-10-92, Caltagirone, Vicenza (On Loan)
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Verona (On Loan)
+92, Franco Mussis, ARG, M, 1.74, 75, 19-04-92, La Plata, FC København
+9, Mauricio Pinilla, CHI, F, 1.85, 75, 04-02-84, San Bernardo, Atalanta (On Loan)
+18, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, Chievo Verona (On Loan)
+13, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Milan
+22, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Frosinone (On Loan)
+32, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Milan
+69, Stefano Sturaro, ITA, M, 1.80, 75, 09-03-93, Sanremo, Juventus
+87, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Fiorentina (On Loan)

@@ -1,0 +1,55 @@
+=  Udinese - Italian Serie A 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Morgan De Sanctis, G, 6'03", 12 08, 26-03-77, Guardiagrele, Juventus
+2, Cristian Eduardo Zapata Valencia, D, 6'01", 12 04, 30-09-86, Padilla Cauca, Deportivo Cali
+3, Michele Rinaldi, D, 6'00", 12 02, 09-01-87, Manerbio, Atalanta
+4, Valerio Bertotto, D, 5'10", 12 00, 15-01-73, Turin, Alessandria
+5, Christian Obodo, M, 5'09", 11 07, 11-05-84, Lagos, Perugia
+6, Nestor Sensini, D, 5'10", 12 01, 12-10-66, Arroyo Seco, Parma
+7, Damiano Zenoni, M, 6'01", 11 09, 23-04-77, Trescore Balneario, Atalanta
+8, Jose' Luis da Cruz Vidigal, M, 6'00", 13 01, 15-03-73, Sá Da Bandeira, Livorno
+9, Vincenzo Iaquinta, F, 6'02", 12 01, 21-11-76, Cosenza, Castel di Sangro
+10, Antonio Di Natale, F, 5'10", 11 00, 13-10-77, Naples, Empoli
+11, Saadi al Gadhafi, F, 6'00", 12 00, 27-05-73, Tripoli, Perugia
+12, Gabriele Paoletti, G, 6'03", 12 13, 04-11-78, Rome, Reggiana
+13, Giampiero Pinzi, M, 5'11", 11 07, 11-03-81, Rome, Lazio
+14, Cesare Natali, D, 6'01", 12 01, 05-04-79, Bergamo, Atalanta
+16, Fernando Tissone, M, 6'00", 11 11, 24-07-86, Quilmes, Atletico Lanus
+17, Salvatore Masiello, M, 5'10", 11 03, 31-01-82, Naples, Palermo
+18, Sulley Muntari, M, 5'11", 12 00, 27-07-84, Accra, Liberty Professionals
+19, Felipe da Silva Dalbelo, D, 5'09", 11 03, 31-07-84, Guaratigueta, 
+20, Fausto Rossini, F, 6'01", 12 04, 02-03-78, Grosseto, Atalanta
+21, Abel Aguilar, M, 6'01", 12 13, 06-01-85, Santa Fe de Bogota, Deportivo Cali
+22, Massimo Gotti, D, 6'00", 11 11, 27-05-86, Bergamo, Atalanta
+23, Marco Murriero, , , , , , Bellinzona
+25, Piermario Morosini, M, 5'11", 11 09, 05-07-86, Bergamo, Modena
+26, Mirko Pieri, D, 6'00", 11 11, 24-07-78, Grosseto, Perugia
+27, Marco Motta, D, 6'00", 11 07, 14-05-86, Merate, Atalanta
+30, Simone Pepe, F, 5'10", 11 07, 30-08-83, Albano Laziale, Palermo
+31, Paulo Vitor Barreto, F, 5'07", 09 04, 12-07-85, Rio de Janeiro, Treviso
+32, Vincent Candela, D, 5'11", 12 11, 24-10-73, Bedarieux, Bolton W
+33, Flavio Lazzari, M, 6'00", 11 11, 05-09-86, Rome, Lodigiani
+35, Rodrigo Defendi, D, 6'02", 12 01, 16-06-86, Ribeiro Preto, Tottenham H
+36, David Vargas, M, 6'01", 12 00, 15-10-85, Asuncion, Atlantida Sport
+39, Juarez, D, 6'00", 11 11, 25-09-73, São Paulo, Bologna
+40, Roman Eremenko, M, 5'11", 10 08, 19-03-87, Moscow, FF Jaro
+41, Emanuele Politti, D, , , 21-07-87, Gorizia, None
+42, Alessandro Osso Armellino, F, , , 05-05-87, , 
+43, Federico Gerardi, F, , , 10-12-87, , 
+58, Carlo Sciarrone, G, 6'03", 12 13, 17-11-83, Genova, Chieti
+59, Gustavo, D, 6'01", , 09-03-84, Curitiba, Botafogo
+88, Roberto Baronio, M, 5'11", 11 09, 11-12-77, Manerbio, Lazio
+, Paul Ramirez, F, 5'10", 11 00, 30-07-86, , Ascoli
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Michele Pazienza, M, 5'10", 11 09, 05-08-82, San Severo, Fiorentina (On Loan)
+29, Zlatan Muslimovic, F, 6'02", 13 01, 06-03-81, Banja Luka, Messina (On Loan)
+46, Dino Fava Passaro, F, 6'01", 12 04, 16-03-77, Formia, Treviso
+99, Ferdinando Sforzini, F, 6'04", 13 03, 04-12-84, Rome, Verona (On Loan)
+17, David Di Michele, F, 5'09", 10 06, 06-01-76, Guidonia, Palermo
+23, Stefano Mauri, M, 6'00", 11 09, 08-01-80, Monza, Lazio (On Loan)
+, Samir Handanovic, G, 6'04", 14 02, 14-07-84, Ljubljana, Lazio (On Loan)
+, Alessandro Paolucci, M, , , 13-08-86, , Prato (On Loan)

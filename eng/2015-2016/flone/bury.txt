@@ -1,0 +1,52 @@
+=  Bury - English Football League One 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Manchester C
+2, Joe Riley, ENG, D, 1.83, 71, 13-10-91, Salford, Bolton W
+3, Chris Hussey, ENG, D, 1.78, 65, 02-01-89, Hammersmith, Burton Alb
+4, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Rochdale
+5, Peter Clarke, ENG, D, 1.83, 76, 03-01-82, Southport, Blackpool
+6, Kelvin Etuhu, NGA, M, 1.80, 79, 30-05-88, Kano, Barnsley
+7, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Everton
+8, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Blackpool
+9, Leon Clarke, ENG, F, 1.88, 90, 10-02-85, Birmingham, Wolverhampton W
+10, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Sheffield W
+11, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Port Vale
+12, Chris Sedgwick, ENG, M, 1.82, 79, 28-04-80, Sheffield, Hyde
+14, Craig Jones, WAL, D, 1.70, 70, 20-03-87, Chester, TNS
+15, Ryan Lowe, ENG, F, 1.80, 72, 18-09-78, Liverpool, Tranmere R
+16, Keil O'Brien, ENG, D, 1.93, 84, 29-06-92, Stockport, Chorley
+18, John O'Sullivan, IRL, M, 1.82, 83, 18-09-93, Dublin, Blackburn R
+19, Tom Soares, ENG, M, 1.83, 72, 10-07-86, Reading, Stoke C
+20, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, None
+22, Danny Pugh, ENG, D, 1.83, 76, 19-10-82, Manchester, Coventry C
+23, Cian Bolger, IRL, D, 1.93, 79, 12-03-92, Kildare, Southend U
+26, Robert Lainton, ENG, G, 1.88, 79, 12-10-89, Ashton-under-Lyme, Bolton W
+27, Nathan Cameron, ENG, D, 1.88, 78, 21-11-91, Birmingham, Coventry C
+28, Anthony Dudley, ENG, F, 1.78, 70, 03-01-96, Manchester, None
+29, Khalid Mohammed, ENG, M, 1.76, 70, 01-04-98, Manchester, None
+31, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, None
+32, Danny Rose, ENG, F, 1.73, 57, 10-12-93, Barnsley, Barnsley
+33, Chris Eagles, ENG, M, 1.83, 67, 19-11-85, Hemel Hempstead, Charlton Ath
+34, Jack Ruddy, SCO, G, 1.85, 83, 18-05-97, Glasgow, Murcia
+38, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Port Vale
+40, Reece Brown, ENG, D, 1.88, 84, 01-11-91, Manchester, Barnsley
+43, Sean Clare, ENG, M, 1.90, 79, 18-09-96, Sheffield, Sheffield W
+45, Rob Harker, ENG, F, 1.88, 78, 06-03-00, Keighley, None
+46, Callum Styles, ENG, M, 1.67, 60, 27-03-00, Oldham, None
+47, Robert Bourne, ENG, M, 1.83, 63, 10-09-98, Warrington, None
+48, Liam Williams, ENG, D, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Christian Walton, ENG, G, 1.82, 75, 09-11-95, Wadebridge, Brighton & HA
+18, Lee Erwin, SCO, F, 1.88, 79, 19-03-94, Bellshill, Leeds U
+1, Aaron McCarey, IRL, G, 1.85, 74, 14-01-92, Monaghan, Wolverhampton W
+21, Paddy Kenny, IRL, G, 1.85, 89, 17-05-78, Halifax, Rotherham U
+41, Joe Dodoo, ENG, F, 1.83, 70, 01-06-95, Nottingham, Leicester C
+35, Matty Foulds, ENG, D, 1.83, 74, 17-02-98, Bradford, Everton
+30, Daniel Bachmann, AUT, G, 1.91, 81, 09-07-94, Vienna, Stoke C
+17, Daniel Nardiello, WAL, F, 1.80, 72, 22-10-82, Coventry, Plymouth Arg (On Loan)
+24, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Blackburn R
+25, Dan Gardner, ENG, F, 1.85, 80, 05-04-90, Manchester, Chesterfield

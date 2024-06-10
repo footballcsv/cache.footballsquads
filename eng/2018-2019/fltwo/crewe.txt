@@ -1,0 +1,40 @@
+=  Crewe Alexandra - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Garratt, ENG, G, 1.85, 66, 25-04-94, Shrewsbury, None
+2, Perry Ng, ENG, D, 1.80, 77, 27-04-96, Liverpool, None
+3, Harry Pickering, ENG, D, 1.85, 78, 29-12-98, Chester, None
+5, George Ray, WAL, D, 1.78, 71, 13-10-93, Warrington, None
+7, Chris Porter, ENG, F, 1.86, 84, 12-12-83, Wigan, Colchester U
+8, James Jones, SCO, M, 1.75, 68, 01-02-96, Winsford, None
+9, Shaun Miller, ENG, F, 1.78, 74, 25-09-87, Alsager, Carlisle U
+10, Jordan Bowery, ENG, F, 1.85, 76, 02-07-91, Nottingham, Leyton Orient
+11, Callum Ainley, ENG, M, 1.73, 64, 02-11-97, Middlewich, None
+12, Eddie Nolan, IRL, D, 1.85, 77, 05-08-88, Waterford, Blackpool
+13, Dave Richards, WAL, G, 1.81, 75, 31-12-93, Abergavenny, Bristol C
+14, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, Barnet
+15, Ryan Wintle, ENG, M, 1.65, 64, 13-06-97, Newcastle-under-Lyme, Alsager T
+16, Tom Lowery, ENG, M, 1.67, 75, 31-12-97, Holmes Chapel, None
+17, Paul Green, IRL, M, 1.75, 77, 10-04-83, Sheffield, Oldham Ath
+18, Regan Griffiths, ENG, M, 1.81, 71, 01-05-00, Liverpool, None
+19, Owen Dale, ENG, F, 1.75, 65, 01-11-98, Warrington, None
+20, Charlie Kirk, ENG, M, 1.70, 70, 24-12-97, Winsford, None
+21, Oliver Finney, ENG, M, 1.70, 70, 15-12-97, Stoke-on-Trent, None
+22, Josh Lundstram, ENG, M, 1.76, 61, 19-02-99, Stoke-on-Trent, None
+23, Travis Johnson, ENG, D, 1.75, 64, 28-08-00, Stoke-on-Trent, None
+24, Lewis Reilly, ENG, F, 1.80, 64, 07-07-99, Liverpool, None
+25, Billy Sass-Davies, WAL, D, 1.85, 79, 17-02-00, Manchester, Everton
+26, Joe Lynch, ENG, M, 1.81, 68, 11-10-99, Whiston, None
+27, Will Jaaskelainen, FIN, G, 1.83, 73, 25-07-98, Bolton, Bolton W
+28, Luke Offord, ENG, M, 1.70, 66, 19-11-99, Chichester, None
+29, Nicky Hunt, ENG, D, 1.85, 86, 03-09-83, Westhoughton, Notts Co
+31, Aaron Taylor-Sinclair, SCO, D, 1.83, 70, 08-04-91, Aberdeen, Motherwell
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Corey Whelan, IRL, D, 1.80, 73, 12-12-97, Chester, Liverpool
+33, Kevin O'Connor, IRL, D, 1.83, 75, 07-05-95, Enniscorthy, Preston NE
+4, Brad Walker, ENG, M, 1.86, 80, 25-04-96, Billingham, Shrewsbury T
+6, Michael Raynes, ENG, D, 1.93, 76, 15-10-87, Wythenshawe, Hartlepool U (On Loan)
+32, Jamie Sterry, ENG, D, 1.80, 70, 21-11-95, Newcastle upon Tyne, Newcastle U

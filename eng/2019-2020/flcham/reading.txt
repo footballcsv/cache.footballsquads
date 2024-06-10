@@ -1,0 +1,56 @@
+=  Reading - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Walker, ENG, G, 1.99, 78, 02-10-91, Gravesend, Colchester U
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+4, Michael Morrison, ENG, D, 1.83, 76, 03-03-88, Bury St Edmunds, Birmingham C
+5, Matt Miazga, USA, D, 1.90, 84, 19-07-95, Clifton, Chelsea
+6, Liam Moore, ENG, D, 1.86, 86, 31-01-93, Leicester, Leicester C
+8, Andy Rinomhota, ENG, M, 1.75, 64, 21-04-97, Leeds, AFC Portchester
+9, Sam Baldock, ENG, F, 1.70, 67, 15-03-89, Bedford, Brighton & HA
+10, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, Chelsea
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+14, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, Liverpool
+15, Danny Namaso Loader, ENG, F, 1.82, 76, 28-08-00, Reading, None
+16, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, None
+17, Andy Yiadom, GHA, D, 1.80, 75, 02-12-91, Camden, Barnsley
+18, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Torino
+19, Yakou Méïte, CIV, M, 1.84, 72, 11-02-96, Paris, Paris St-Germain
+20, Araruna, BRA, M, 1.76, 70, 12-03-96, Porto Alegre, São Paulo
+21, Michael Olise, FRA, M, 1.89, 73, 12-12-01, , None
+23, Sone Aluko, NGA, F, 1.73, 62, 19-02-89, Birmingham, Fulham
+24, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Manchester U
+25, Ayub Timbe Masika, KEN, F, 1.67, 68, 10-09-92, Pumwani, Beijing Renhe
+26, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Stoke C
+27, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Fulham
+29, Pelé, GNB, M, 1.82, 75, 29-09-91, Cacém, Monaco
+30, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, None
+31, Lucas João, POR, F, 1.92, 81, 04-09-93, Luanda, Sheffield W
+32, Ryan East, ENG, M, 1.76, 70, 07-08-98, Ascot, None
+33, Rafael, BRA, G, 1.86, 83, 20-05-90, Sorocaba, Sampdoria
+34, Gabriel Osho, ENG, D, , , 14-08-98, Reading, None
+36, Ramarni Medford-Smith, ENG, D, , , 21-10-98, Reading, None
+37, Tyler Frost, ENG, M, 1.75, 70, 07-07-99, Reading, None
+38, Thierry Nevers, ENG, F, , , 26-03-02, Reading, None
+40, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Afturelding
+41, Ethan Coleman, ENG, M, 1.88, 83, 28-01-00, Reading, None
+42, Andre Burley, ENG, M, 1.80, 72, 10-09-99, Slough, None
+44, Marcel Elva-Fountaine, ENG, D, , , 14-11-00, Hackney, None
+46, Jeriel Dorsett, ENG, D, , , 04-05-02, Enfield, None
+47, George Puşcaş, ROU, F, 1.88, 74, 08-04-96, Marghita, Internazionale
+48, Coniah Boyce-Clarke, ENG, G, , , 01-03-03, Reading, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Denizlispor (On Loan)
+25, Adrian Popa, ROU, M, 1.70, 70, 24-07-88, Horezu, FCSB (On Loan)
+28, Jordan Holsgrove, SCO, M, 1.80, 73, 10-09-99, Edinburgh, Atlético Baleares (On Loan)
+23, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Frosinone
+20, João Virgínia, POR, G, 1.90, 80, 10-10-99, Faro, Everton
+39, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, Bristol R
+43, Luke Southwood, ENG, G, 1.92, 72, 06-12-97, Oxford, Hamilton Academical (On Loan)
+45, Ben House, SCO, F, 1.75, 70, 05-07-99, Guildford, Dagenham & Redbridge (On Loan)
+22, Teddy Howe, ENG, D, 1.77, 69, 09-10-98, Oxford, Blackpool
+35, Akinwale Odimayo, ENG, D, 1.83, 75, 28-11-99, Camden, Waterford (On Loan)

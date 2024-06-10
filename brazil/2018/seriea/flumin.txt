@@ -1,0 +1,56 @@
+=  Fluminense - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+2, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Fiorentina
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+5, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Botafogo
+6, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, ABC
+7, Pablo Dyego, BRA, M, 1.74, 66, 08-03-94, Rio de Janeiro, None
+8, Bryan Cabezas, ECU, M, 1.82, 72, 20-03-97, Quevedo, Atalanta
+9, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, None
+10, Junior Sornoza, ECU, M, 1.66, 65, 28-01-94, Portoviejo, Independiente del Valle
+11, Junior Dutra, BRA, F, 1.84, 76, 25-04-88, Santos, Corinthians
+12, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Criciúma
+13, Frazan, BRA, D, 1.88, 85, 05-06-96, Macaé, None
+14, Digão, BRA, D, 1.87, 85, 07-05-88, Duque de Caxias, Cruzeiro
+15, Dodi, BRA, M, 1.66, 60, 17-04-96, Santo Antônio do Sudoeste, Criciúma
+16, Jádson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Ponte Preta
+17, Kayke, BRA, F, 1.82, 72, 01-04-88, Brasília, Yokohama F Marinos
+18, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, Panathinaikos
+19, Marcos Paulo, BRA, F, 1.85, 76, 01-02-01, Niterói, None
+20, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, None
+21, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, None
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Getafe
+23, Fernando, BRA, D, 1.79, 68, 27-01-93, São Domingos, Paços de Ferreira
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Atibaia
+26, Mateus Norton, BRA, M, 1.73, 70, 19-07-96, Campo Bom, Aimoré
+27, Guillermo De Amores, URU, G, 1.85, 72, 19-10-94, San Jacinto, Boston River
+28, Matheus Alessandro, BRA, F, 1.71, 65, 10-07-96, Rio de Janeiro, None
+30, Marcos Calazans, BRA, F, 1.72, 66, 14-06-96, Duque de Caxias, None
+32, Paulo Ricardo, BRA, D, 1.86, 80, 13-07-94, Laguna, Sion
+33, Léo, BRA, D, 1.71, 62, 03-10-91, Salvador, Flamengo
+34, Caio Vinícius, BRA, M, 1.87, 72, 11-01-99, Itaquaquecetuba, Londrina
+35, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, None
+36, Capixaba, BRA, M, , , 05-03-98, , Olaria
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Velo Clube
+38, Zé Ricardo, BRA, M, 1.75, 72, 03-02-99, Rio de Janeiro, None
+39, Rodolfo, BRA, G, 1.89, 85, 19-03-91, Santos, Oeste
+40, João Vitor, BRA, D, , , 09-01-99, , None
+41, Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Sergipe
+42, Alex, BRA, D, 1.89, 86, 10-05-99, Ribeirão Preto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Reginaldo, BRA, D, 1.93, 82, 08-07-92, Barretos, Ponte Preta (On Loan)
+23, Marlon Freitas, BRA, M, 1.85, 78, 27-03-95, Magé, Criciúma (On Loan)
+14, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Ituano
+32, Nathan Otávio, BRA, D, 1.87, 81, 02-06-90, Toledo, Kashiwa Reysol (On Loan)
+8, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, Corinthians (On Loan)
+17, Robinho, BRA, F, 1.78, 71, 21-07-95, São Caetano do Sul, América Mineiro (On Loan)
+38, Dudu, BRA, F, 1.79, 73, 10-08-99, Campinas, De-Registered
+40, César Nunes, BRA, D, 1.84, 70, 30-09-99, Rio de Janeiro, De-Registered
+4, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Al-Wahda
+36, Luquinhas, BRA, F, 1.70, 58, 28-01-94, Caruaru, Oeste (On Loan)
+29, João Carlos, BRA, F, 1.87, 87, 01-03-95, Coaraci, Sampaio Corrêa

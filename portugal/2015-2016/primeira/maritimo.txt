@@ -1,0 +1,39 @@
+=  Marítimo - Portuguese Primeira Liga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wellington Lima, BRA, G, 1.91, 86, 21-04-90, Recife, ABC
+2, João Diogo, POR, D, 1.75, 66, 28-02-88, Funchal, None
+3, Diney, POR, D, 1.85, 79, 17-01-95, Arrentela, Vitória Setúbal
+4, Deyvison, BRA, D, 1.86, 81, 18-10-88, Minas Gerais, Tondela
+5, Direcu, BRA, D, 1.91, 90, 05-01-88, Ibaiti, Londrina
+7, Alex Soares, POR, M, 1.79, 68, 01-03-91, Lisbon, Panserraikos
+9, Dyego Sousa, BRA, F, 1.90, 82, 14-09-89, São José de Ribamar, Portimonense
+10, Gevorg Ghazaryan, ARM, F, 1.80, 75, 05-04-88, Yerevan, Kerkyra
+11, Éber Bessa, BRA, M, 1.67, 72, 21-03-92, Belo Horizonte, Cruzeiro
+12, Edgar Costa, POR, F, 1.80, 72, 14-04-87, Câmara de Lobos, Nacional [POR]
+14, Fernando Ferreira, POR, M, 1.83, 78, 20-11-86, Viseu, Belenenses
+15, Lassina Touré, BFA, D, 1.84, 76, 18-02-92, Bobo-Dioulasso, Vitória Guimarães
+17, Gevaro Nepomuceno, CUW, F, 1.74, 67, 10-11-92, Tilburg, Petrolul Ploiești
+21, Briguel, POR, D, 1.74, 70, 08-03-79, Funchal, None
+22, Ulysse Diallo, MLI, F, 1.82, 77, 26-10-92, Bamako, Académica
+23, Damien Plessis, FRA, M, 1.92, 76, 05-03-88, Neuville-aux-Bois, Châteauroux
+26, Romário, BRA, D, 1.83, 81, 28-06-92, Porto Alegre, Internacional
+29, Tiago Rodrigues, POR, M, 1.77, 69, 29-01-92, Vila Real, FC Porto
+35, Fransérgio, BRA, M, 1.86, 76, 18-10-90, Rondonópolis, Internacional
+41, Rúben, POR, D, 1.83, 71, 17-02-90, Madeira, None
+42, Marcos Barbeiro, STP, F, 1.73, 63, 29-07-95, Água Grande, Sporting CP
+50, António Xavier, POR, F, 1.81, 73, 06-07-92, Guimarães, Sporting Braga
+60, Donald Djoussé, CMR, F, 1.83, 81, 18-03-90, Douala, Olimpia Grudziądz
+62, Maurício Antônio, BRA, D, 1.83, 82, 06-02-92, São Paulo, Portimonense
+78, Romain Salin, FRA, G, 1.85, 70, 29-07-84, Mayenne, Rio Ave
+80, Alireza Haghighi, IRN, G, 1.93, 80, 02-05-88, Tehran, Rubin Kazan
+90, Baba Diawara, SEN, F, 1.85, 79, 05-01-88, Dakar, Sevilla
+91, Patrick, BRA, D, 1.78, 73, 22-01-91, Machado, América Mineiro
+99, Lynneeker, BRA, M, 1.71, 72, 11-01-94, Lapa, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Moussa Marega, MLI, F, 1.86, 83, 14-04-91, Les Ulis, FC Porto
+93, José Sá, POR, G, 1.92, 84, 17-01-93, Braga, FC Porto
+34, Raúl Silva, BRA, D, 1.87, 81, 04-11-89, Belém, Ceará (On Loan)

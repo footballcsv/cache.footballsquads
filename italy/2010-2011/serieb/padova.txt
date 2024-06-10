@@ -1,0 +1,51 @@
+=  Padova - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Cano, ITA, G, 1.85, 82, 18-04-76, Rome, Lanciano
+2, Daniel Cappelletti, ITA, D, 1.80, 75, 09-10-91, Cantù, Palermo
+3, Trevor Trevisan, ITA, D, 1.86, 79, 21-12-83, Cassino, Pisa
+4, Jonas Portin, FIN, D, 1.89, 82, 30-09-86, Pietarsaari, Ascoli
+5, Vicente, BRA, M, 1.76, 70, 18-02-89, Cruzeiro do Sul, Portogruaro
+7, Andrea Rabito, ITA, F, 1.78, 72, 11-05-80, Vicenza, AlbinoLeffe
+8, Andrea Bovo, ITA, M, 1.83, 76, 14-05-86, Mestre, Palermo
+9, Marcos de Paula, BRA, F, 1.86, 80, 19-12-83, Bariri, Chievo Verona
+10, Antonio Di Nardo, ITA, F, 1.70, 67, 23-07-79, Mugnano di Napoli, Frosinone
+11, Marco Gallozzi, ITA, M, 1.85, 66, 27-07-88, Frosinone, Foligno
+13, Elia Legati, ITA, D, 1.88, 84, 03-01-86, Fidenza, Milan
+18, Francesco Niero, ITA, G, 1.80, 75, 14-12-91, Mirano, None
+19, Davide Succi, ITA, F, 1.84, 78, 11-10-81, Bologna, Palermo
+20, Daniele Vantaggiato, ITA, F, 1.77, 81, 10-10-84, Brindisi, Parma
+22, Andrea Menegon, ITA, G, 1.95, 95, 26-09-88, Tolmezzo, Giacomense
+26, Federico Agliardi, ITA, G, 1.90, 82, 11-02-83, Brescia, Palermo
+30, Xavier Hochstrasser, SUI, M, 1.80, 76, 01-07-88, Onex, Young Boys
+32, Adama Diakité, CIV, F, 1.86, 77, 08-10-93, Memni, None
+33, Francesco Renzetti, ITA, D, 1.74, 73, 22-01-88, Monaco, Genoa
+34, César, BRA, D, 1.83, 82, 19-05-79, Rio de Janeiro, Chievo Verona
+45, Ousmane Drame, SEN, M, 1.74, 70, 25-08-92, Paris, None
+46, Andrea Bilato, ITA, D, , , 14-08-93, , None
+47, Davide Gramacci, ITA, M, , , 23-02-92, , None
+48, Daniele Ruffato, ITA, G, 1.92, 76, 16-10-93, Padua, None
+49, Andrea Boron, ITA, D, , , 29-05-93, Monselice, None
+50, Andrea Boscaro, ITA, D, 1.86, , 13-01-92, , None
+51, Matteo Cavallini, ITA, M, , , 03-07-93, , None
+52, Luca Maniero, ITA, G, 1.87, 75, 12-06-95, Padua, None
+63, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Atalanta
+68, Christian Beccaro, ITA, D, , , 16-01-93, , None
+73, Davide Di Gennaro, ITA, F, 1.80, 72, 16-06-88, Milan, Milan
+75, José Ángel Crespo, ESP, D, 1.83, 72, 09-02-87, Seville, Sevilla B
+77, Vincenzo Italiano, ITA, M, 1.71, 70, 10-12-77, Karlsruhe, Chievo Verona
+84, William Jidayi, ITA, M, 1.88, 87, 09-09-84, Ravenna, Sassuolo
+88, Matías Cuffa, ARG, M, 1.82, 73, 10-03-81, Alta Gracia, Portogruaro
+90, Ronaldo Pompeu, BRA, M, 1.78, 78, 08-04-90, Caxambu do Sul, Mantova
+92, Stephan El Shaarawy, ITA, M, 1.78, 72, 27-10-92, Savona, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Vasco Faísca, POR, D, 1.84, 80, 27-08-80, Lisbon, Ascoli
+27, Gianluca Giovannini, ITA, D, 1.84, 76, 09-12-83, Terni, Foligno (On Loan)
+45, Jerry Mbakogu, NGA, F, 1.86, 80, 01-10-92, Lagos, Juve Stabia (On Loan)
+38, Marc Lewandowski, FRA, M, 1.80, 73, 10-06-89, Marseille, Ascoli (On Loan)
+99, Andrea Soncin, ITA, F, 1.74, 72, 05-09-78, Vigevano, Grosseto
+17, Alberto Filippini, ITA, F, 1.81, 75, 10-04-87, Brescia, Como (On Loan)
+23, Antonio Esposito, ITA, D, 1.82, 74, 05-09-90, Naples, Internazionale

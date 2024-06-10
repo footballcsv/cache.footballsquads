@@ -1,0 +1,42 @@
+=  Spezia - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simone Scuffet, ITA, G, 1.93, 77, 31-05-96, Udine, Udinese
+2, Luca Vignali, ITA, M, 1.86, 75, 11-01-96, La Spezia, None
+3, Juan Ramos, URU, D, 1.80, 72, 01-09-96, Montevideo, Parma
+4, Gennaro Acampora, ITA, M, 1.74, 78, 29-03-94, Naples, Napoli
+5, Riccardo Marchizza, ITA, D, 1.87, 80, 26-03-98, Rome, Sassuolo
+6, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, SPAL
+7, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Verona
+8, Matteo Ricci, ITA, M, 1.76, 68, 27-05-94, Rome, Roma
+9, Andrej Galabinov, BUL, F, 1.92, 88, 27-11-88, Sofia, Genoa
+10, Federico Ricci, ITA, F, 1.75, 68, 27-05-94, Rome, Sassuolo
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Pistoiese
+12, Titas Krapikas, LTU, G, 1.95, 85, 03-01-99, Kaunas, Sampdoria
+13, Elio Capradossi, ITA, D, 1.85, 78, 11-03-96, Kampala, Roma
+14, M'Bala Nzola, FRA, F, 1.85, 80, 18-08-96, Troyes, Trapani
+15, Giuseppe Mastinu, ITA, F, 1.75, 77, 09-10-91, Sassari, Olbia
+16, Paolo Bartolomei, ITA, M, 1.83, 76, 22-08-89, Lucca, Cittadella
+17, Sveinn Aron Guðjohnsen, ISL, F, 1.90, 80, 12-05-98, Reykjavík, Breiðablik
+19, Claudio Terzi, ITA, D, 1.80, 69, 19-06-84, Milan, Palermo
+20, Simone Bastoni, ITA, M, 1.81, 74, 05-11-96, La Spezia, None
+21, Salva Ferrer, ESP, D, 1.84, 73, 21-01-98, Martorell, Nàstic
+23, Tobias Reinhart, ARG, M, 1.76, 70, 21-05-00, Lomas de Zamora, Temperley
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, None
+26, Soufiane Bidaoui, MAR, F, 1.76, 63, 20-04-90, Etterbeek, Avellino
+28, Martin Erlić, CRO, D, 1.93, 88, 24-01-98, Zadar, Sassuolo
+31, Axel Desjardins, CAN, G, 1.88, 81, 13-01-00, Montreal, None
+32, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Verona
+33, Luigi Vitale, ITA, D, 1.80, 71, 05-10-87, Castellammare di Stabia, Verona
+34, Marco Angeletti, ITA, G, 1.85, 74, 24-04-01, La Spezia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Filippo De Col, ITA, D, 1.84, 83, 28-10-93, Agordo, Virtus Entella
+30, Abdullahi Suleiman, NGA, F, 1.77, 58, 22-03-98, Kaduna, Olhanense (On Loan)
+27, Leonardo Benedetti, ITA, M, 1.80, 73, 06-06-00, La Spezia, Sampdoria
+14, Theophilus Awua, NGA, M, 1.76, 69, 24-04-98, Makurdi, Livorno (On Loan)
+7, Delano Burgzorg, NED, F, 1.86, 76, 07-11-98, Amsterdam, Heracles Almelo
+22, Simone Barone, ITA, G, 1.84, 73, 18-03-99, Cava de' Tirreni, Rimini (On Loan)
+29, DJ Buffonge, ATG, M, 1.73, 62, 07-11-98, Islington, Pergolettese (On Loan)

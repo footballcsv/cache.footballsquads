@@ -1,0 +1,50 @@
+=  Barnet - English Football League Two 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jamie Stephens, ENG, G, 1.86, 78, 24-08-93, Wotton-under-Edge, Newport Co
+2, Richard Brindley, ENG, D, 1.79, 77, 05-05-93, Norwich, Colchester U
+3, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+4, Charlie Clough, ENG, D, 1.88, 80, 04-09-90, Taunton, Forest Green R
+5, Ricardo Santos, POR, D, 1.96, 77, 18-06-95, Almada, Peterborough U
+6, Michael Nelson, ENG, D, 1.88, 77, 15-03-82, Bishop Auckland, Cambridge U
+7, Ryan Watson, ENG, M, 1.85, 73, 07-07-93, Crewe, Leicester C
+8, Curtis Weston, ENG, M, 1.80, 74, 24-01-87, Greenwich, Gillingham
+9, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Alfreton T
+11, Shaquile Coulthirst, ENG, F, 1.80, 77, 02-11-94, Hackney, Peterborough U
+12, Jack Taylor, ENG, D, 1.85, 70, 23-06-98, Hammersmith, None
+13, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, Cardiff C
+14, Simeon Akinola, NGA, F, 1.78, 76, 06-08-92, Lagos, Braintree T
+15, Ruben Bover, ESP, M, 1.70, 66, 24-06-92, Palma de Mallorca, New York Cosmos
+16, Harry Taylor, ENG, D, 1.88, 79, 05-05-97, Hammersmith, None
+17, Nana Kyei, ENG, M, 1.80, 70, 10-01-98, Hackney, None
+18, Wesley Fonguck, ENG, M, 1.85, 77, 16-07-97, Lambeth, None
+19, Fumnaya Shomotun, NGA, M, 1.73, 67, 29-05-97, , None
+20, Mauro Vilhete, POR, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+21, Craig Ross, ENG, G, 1.88, 74, 29-01-90, Walton-on-Thames, Macclesfield T
+22, Shane Cojocărel, ROU, F, 1.70, 65, 20-03-97, Bucharest, None
+23, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, Exeter C
+24, Andre Blackman, ENG, D, 1.80, 72, 10-11-90, Lambeth, Crawley T
+25, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, Shrewsbury T
+26, Dan Sweeney, ENG, M, 1.91, 75, 25-04-94, Kingston upon Thames, Maidstone U
+27, Ephron Mason-Clark, ENG, M, 1.78, 76, 25-08-99, Lambeth, None
+28, Darnell Smith, ENG, D, 1.82, 76, 24-03-99, Hackney, None
+29, Tom Day, ENG, D, 1.78, 65, 24-10-97, Redhill, Crystal Palace
+30, Justin Amaluzor, ENG, F, 1.83, 73, 17-10-96, Southwark, Dartford
+31, Kai McKenzie-Lyle, ENG, G, 1.96, 86, 30-11-97, Haringey, None
+32, Joe Payne, ENG, D, 1.85, 74, 02-04-99, Enfield, None
+33, Tobi Coker, ENG, M, , , 30-09-98, , None
+34, Renell McKenzie-Lyle, ENG, G, , , 19-04-00, Enfield, None
+35, Malakai Mars, ENG, F, 1.73, 63, 01-12-98, Enfield, Chelsea
+36, Dave Tarpey, ENG, F, 1.83, 75, 14-11-88, Henley-on-Thames, Maidenhead U
+37, Benjamin Aghadiuno, ENG, F, 1.91, 88, 30-01-00, Enfield, None
+38, Dwight Pascal, ENG, D, , , 03-03-01, Hackney, None
+39, Fuad Sule, NGA, M, 1.67, 64, 20-01-97, Ibadan, Bohemians
+40, George Legg, ENG, G, 1.95, 76, 30-04-96, Reading, Reading
+41, Jordan Nicholson, ENG, F, 1.78, 70, 29-09-93, Godmanchester, Peterborough U
+42, Tin Plavotić, AUT, D, 1.97, 96, 30-06-97, Vienna, Bristol C
+43, Matthew Briggs, ENG, D, 1.88, 84, 09-03-91, Wandsworth, Chesterfield
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Jamal Campbell-Ryce, JAM, M, 1.70, 78, 06-04-83, Lambeth, Carlisle U

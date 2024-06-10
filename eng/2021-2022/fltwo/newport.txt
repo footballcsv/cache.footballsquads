@@ -1,0 +1,60 @@
+=  Newport County - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Day, ENG, G, 1.83, 76, 13-08-90, Brighton, Cardiff C
+2, Cameron Norman, ENG, D, 1.88, 74, 12-10-95, Norwich, Walsall
+3, Ryan Haynes, ENG, D, 1.70, 68, 27-09-95, Northampton, Shrewsbury T
+4, Josh Pask, ENG, D, 1.87, 76, 01-11-97, Waltham Forest, Coventry C
+5, James Clarke, ENG, D, 1.83, 84, 17-11-89, Aylesbury, Walsall
+6, Priestley Farquharson, ENG, D, 1.91, 83, 15-03-97, Halifax, Connah's Quay Nomads
+7, Robbie Willmott, ENG, M, 1.76, 77, 16-05-90, Harlow, Chelmsford C
+8, Matthew Dolan, ENG, M, 1.75, 70, 11-02-93, Hartlepool, Yeovil T
+10, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Barrow
+11, Rob Street, ENG, F, 1.89, 70, 26-09-01, Oxford, Crystal Palace
+12, Alex Fisher, ENG, F, 1.88, 76, 30-06-90, Westminster, Exeter C
+14, Aaron Lewis, WAL, D, 1.83, 85, 26-06-98, Swansea, Lincoln C
+15, Louis Hall, ENG, D, -, -, 23-05-99, West Bromwich, Oxford C
+16, Timmy Abraham, ENG, F, 1.85, 77, 28-12-00, Lambeth, Fulham
+17, Scot Bennett, ENG, D, 1.78, 81, 30-11-90, Truro, Notts Co
+18, Finn Azaz, ENG, M, 1.85, 70, 07-09-00, Westminster, Aston Villa
+19, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Plymouth Arg
+20, Courtney Senior, ENG, M, 1.75, 64, 30-06-97, Croydon, Colchester U
+21, Lewis Collins, WAL, M, 1.78, 67, 09-05-01, Newport, None
+22, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Morecambe
+24, Jake Cain, ENG, M, -, -, 02-09-01, Wigan, Liverpool
+26, James Waite, WAL, M, 1.75, 61, 11-05-99, Monmouth, Penybont
+28, Mickey Demetriou, ENG, D, 1.88, 79, 12-03-90, Durrington, Shrewsbury T
+30, Nick Townsend, ATG, G, 1.81, 91, 01-11-94, Solihull, Barnsley
+31, Ollie Cooper, WAL, M, 1.76, 68, 14-12-99, Derby, Swansea C
+41, Joe Woodiwiss, WAL, D, 1.82, 74, 10-11-02, Cardiff, None
+42, Lewys Twamley, WAL, F, -, -, 26-05-03, Cardiff, None
+45, Ben Haines, WAL, M, -, -, 01-07-05, -, None
+46, Evan Cadwallader, WAL, D, -, -, -, -, None
+47, Evan Ovendale, WAL, G, -, -, 21-02-04, -, None
+48, Callum Ryan-Phillips, WAL, M, -, -, 14-05-04, Monmouth, None
+49, Iestyn Evans, WAL, D, -, -, 20-12-03, -, None
+50, Harrison Bright, WAL, D, 1.75, 70, 23-02-04, Monmouth, None
+51, Mallachi Graham, WAL, M, -, -, 21-06-04, -, None
+52, Kyle Hancock, WAL, M, -, -, 30-06-05, -, None
+53, Charlie Bullock, WAL, M, -, -, 11-12-03, -, None
+54, Dixon Kabongo, WAL, D, -, -, -, -, None
+55, Zack Maher, WAL, M, -, -, 05-12-02, Newport, None
+56, Aneurin Livermore, WAL, M, -, -, -, -, None
+57, Sonny Lewis, WAL, M, -, -, 02-01-05, -, None
+58, Caleb Evans, WAL, M, -, -, 07-08-04, -, None
+59, Jack Karadogan, WAL, M, 1.77, 73, 04-02-04, Newport, None
+60, Kian Pritchard, WAL, M, -, -, 23-06-04, -, None
+61, Kiban Rai, WAL, F, -, -, 28-05-05, -, None
+62, Ethan Morgan, WAL, D, -, -, 22-08-04, -, None
+63, Tom Stokes, WAL, F, -, -, 13-04-05, -, None
+64, Jonah Wiliams, WAL, M, -, -, 03-11-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Pádraig Amond, IRL, F, 1.80, 75, 23-04-88, Carlow, Exeter C (On Loan)
+27, Christopher Missilou, CGO, M, 1.80, 70, 18-07-92, Auxerre, Oldham Ath
+4, Edward Upson, ENG, M, 1.78, 73, 21-11-89, Bury St Edmunds, Stevenage
+11, Jermaine Hylton, ENG, F, 1.78, 70, 28-06-93, Birmingham, 
+29, Jordan Greenidge, ENG, F, -, -, 05-01-00, Enfield, Weymouth
+43, Ryan Hillier, WAL, F, -, -, 18-01-03, Cardiff, Cardiff Met Univ (On Loan)

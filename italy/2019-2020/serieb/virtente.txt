@@ -1,0 +1,56 @@
+=  Virtus Entella - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Paroni, ITA, G, 1.85, 70, 14-10-89, San Vito al Tagliamento, Udinese
+2, Gabriele Basani, ITA, D, 1.86, 75, 26-03-01, Treviglio, Milan
+3, Marco Sala, ITA, D, 1.77, 68, 04-06-99, Rho, Sassuolo
+4, Moutir Chajia, BEL, M, 1.77, 72, 04-06-98, Heusden-Zolder, Ascoli
+5, Marco Chiosa, ITA, D, 1.81, 77, 19-11-93, Ciriè, Novara
+6, Carlo Crialese, ITA, D, 1.79, 73, 14-11-92, Rome, Pro Vercelli
+7, Giuseppe De Luca, ITA, F, 1.68, 70, 11-10-91, Angera, Atalanta
+8, Marco Crimi, ITA, M, 1.78, 65, 17-03-90, Messina, Cesena
+9, Alejandro Rodríguez, ESP, F, 1.80, 79, 30-07-91, Terrassa, Chievo Verona
+10, Luca Nizzetto, ITA, M, 1.76, 64, 08-03-86, Verona, Trapani
+11, Michele Currarino, ITA, F, 1.77, 70, 06-08-92, Levanto, Lavagnese
+12, Pietro D'Amora, ITA, G, 1.90, 74, 09-10-01, Castellammare di Stabia, None
+13, Nikita Contini, ITA, G, 1.90, 75, 21-05-96, Cherkasy, Napoli
+14, Andrea Settembrini, ITA, M, 1.76, 74, 10-12-91, Arezzo, Cittadella
+15, Michele Pellizzer, ITA, D, 1.83, 75, 22-05-89, Asolo, Cittadella
+16, Andrea Bruno, ITA, F, 1.70, 60, 26-02-01, Rome, Torino
+17, Filippo De Col, ITA, D, 1.84, 83, 28-10-93, Agordo, Spezia
+18, Claudio Morra, ITA, F, 1.85, 79, 22-01-95, Savigliano, Pro Vercelli
+19, Krisztián Adorján, HUN, M, 1.84, 72, 19-01-93, Budapest, Novara
+20, Manuel De Luca, ITA, F, 1.90, 67, 17-07-98, Bolzano, Torino
+21, Mauro Coppolaro, ITA, D, 1.89, 70, 10-03-97, Benevento, Udinese
+22, Daniele Borra, ITA, G, 1.92, 88, 28-07-95, Chivasso, Valenzana
+23, Andrea Paolucci, ITA, M, 1.76, 73, 23-11-86, Pescara, Ternana
+24, Andrea Zaccagno, ITA, G, 1.83, 77, 27-05-97, Padua, Torino
+25, Marco Toscano, ITA, M, 1.70, 64, 07-07-97, Erice, Palermo
+26, Jacopo Dezi, ITA, M, 1.78, 69, 10-02-92, Atri, Parma
+28, Simone Andreis, ITA, F, 1.80, 68, 25-09-01, Pietra Ligure, None
+29, Filippo Gragnoli, ITA, G, 1.92, 78, 16-01-01, Genoa, None
+30, Alexandru Răzvan Mogoș, ROU, M, 1.78, 64, 30-08-02, Drobeta-Turnu Severin, None
+31, Nicolò Buso, ITA, F, 1.77, 69, 01-02-00, Treviso, Roma
+32, Matteo Mancosu, ITA, F, 1.82, 77, 22-12-84, Cagliari, Montreal Impact
+33, Fabrizio Poli, ITA, D, 1.85, 76, 26-05-89, Bordighera, Carpi
+34, Andrea Schenetti, ITA, M, 1.75, 72, 09-03-91, Milan, Cittadella
+35, Andrea Brunozzi, ITA, D, 1.80, 69, 06-03-01, Genoa, None
+36, Luca Mazzitelli, ITA, M, 1.87, 76, 15-11-95, Rome, Sassuolo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Manuel Di Paola, ITA, M, 1.80, 72, 06-10-97, Parma, Virtus Verona
+30, Francesco Puntoriere, ITA, F, 1.79, 70, 23-04-98, Reggio Calabria, Virtus Francavilla (On Loan)
+29, Samuele Vianni, ITA, F, 1.81, , 05-07-01, Pontedera, Napoli
+12, Samuele Massolo, ITA, G, 1.91, 76, 04-05-96, La Spezia, Sambenedettese (On Loan)
+29, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Udinese
+31, Manuel Cicconi, ITA, M, 1.82, 78, 27-06-97, Como, Como (On Loan)
+16, Simone Icardi, ITA, M, 1.83, 77, 13-09-96, Rome, Siena (On Loan)
+17, Francesco Ardizzone, ITA, M, 1.80, 70, 17-02-92, Palermo, Cesena
+4, Ivan De Santis, ITA, D, 1.84, 77, 21-05-97, Conversano, Cesena (On Loan)
+24, Federico Bonini, ITA, D, 1.86, 74, 06-08-01, Massa, Bologna (On Loan)
+9, Salvatore Caturano, ITA, F, 1.85, 71, 03-07-90, Naples, Cesena
+26, Leonardo Sernicola, ITA, D, 1.87, 81, 30-07-97, Civita Castellana, Sassuolo
+2, Federico Valietti, ITA, D, 1.85, 73, 25-01-99, Bergamo, Genoa
+27, Mirko Eramo, ITA, M, 1.81, 75, 12-07-89, Acquaviva delle Fonti, Ascoli

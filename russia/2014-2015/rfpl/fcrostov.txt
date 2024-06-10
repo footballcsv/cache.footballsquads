@@ -1,0 +1,37 @@
+=  FC Rostov - Russian Football Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stipe Pletikosa, CRO, G, 1.94, 91, 08-01-79, Split, Spartak Moscow
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+3, Vladimir Granat, RUS, D, 1.84, 80, 22-05-87, Ulan-Ude, Dynamo Moscow
+4, Dmitriy Torbinskiy, RUS, M, 1.72, 60, 28-04-84, Moscow, Rubin Kazan
+5, Vitaliy Dyakov, RUS, D, 1.92, 88, 31-01-89, Krasnodar, Lokomotiv Moscow-2
+6, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, Amkar Perm
+7, Maksim Grigoryev, RUS, M, 1.88, 75, 06-07-90, Lipetsk, Lokomotiv Moscow
+8, Moussa Doumbia, MLI, M, 1.73, 68, 15-08-94, Bamako, Real Bamako
+9, Kanga Kaku Guélor, GAB, M, 1.67, 63, 01-09-90, Oyem, CF Mounana
+10, Yoo Byung-Soo, KOR, F, 1.82, 76, 26-03-88, Daegu, Al-Hilal [KSA]
+11, Aleksandr Bukharov, RUS, F, 1.91, 83, 12-03-85, Naberezhnye Chelny, Zenit St Petersburg
+14, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv Moscow-2
+15, Maksim Bardachow, BLR, D, 1.90, 83, 18-06-96, Grodno, Tom Tomsk
+16, Mihai Plătică, MDA, M, 1.85, 77, 15-03-90, Chişinău, Zimbru Chișinău
+17, Vakhit Orazsakhedov, TKM, F, 1.80, 70, 26-01-92, Ashgabat, Osmanlıspor
+19, Hrvoje Milić, CRO, D, 1.83, 74, 10-05-89, Osijek, Istra 1961
+20, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Rubin Kazan
+22, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Spartak Moscow
+23, Aleksandr Troshechkin, RUS, M, 1.83, 78, 23-04-96, Moscow, Anzhi Makhachkala
+25, Ivan Novoseltsev, RUS, D, 1.91, 82, 25-08-91, Moscow, Torpedo Moscow
+27, Igor Lolo, CIV, D, 1.79, 68, 22-07-82, Abidjan, Kuban Krasnodar
+35, Soslan Dzhanaev, RUS, G, 1.90, 84, 13-03-87, Vladikavkaz, Spartak Moscow
+55, Siyanda Xulu, RSA, D, 1.88, 76, 30-12-91, Durban, Mamelodi Sundowns
+77, Bastos, ANG, D, 1.84, 75, 23-11-91, Luanda, Petro Atlético
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+99, Nemanja Nikolić, SRB, F, 1.88, 78, 19-10-92, Kraljevo, Grbalj
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Ruslan Abazov, RUS, D, 1.85, 77, 25-05-93, Nalchik, FC Tyumen (On Loan)
+18, Azim Fatullayev, RUS, M, 1.80, 76, 07-06-86, Makhachkala, FC Tosno (On Loan)
+20, Réginal Goreux, HAI, D, 1.75, 73, 31-12-87, Saint-Michel, 
+17, Nika Chkhapelia, GEO, M, 1.64, 55, 26-04-94, Ochamchira, Zenit Penza (On Loan)

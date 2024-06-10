@@ -1,0 +1,48 @@
+=  Chacarita Juniors - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Álvarez, ARG, G, 1.84, 75, 09-03-94, San Martín, None
+2, Federico Rosso, ARG, D, 1.85, 86, 01-07-87, Rosario, Crucero del Norte
+3, Lautaro Montoya, ARG, D, 1.71, 73, 07-10-94, Villa Ballester, San Lorenzo
+4, Nahuel Menéndez, ARG, D, 1.83, 72, 05-03-94, Capital Federal, Sevilla B
+5, Miguel Mellado, ARG, M, 1.76, 74, 18-03-93, Rio Negro, None
+6, Federico Vismara, ARG, M, 1.85, 74, 09-05-83, Carcaraña, Racing Club
+7, Leandro Martínez, ARG, M, 1.77, 66, 04-06-94, Tandil, San Martín (San Juan)
+8, Agustín Módula, ARG, M, 1.78, 66, 12-03-93, Capital Federal, None
+9, Mauro Matos, ARG, F, 1.80, 80, 06-08-82, Castelli, San Lorenzo
+10, Matías Rodríguez, ARG, F, 1.75, 61, 29-03-93, Pablo Podestá, None
+11, Juan Álvarez Morinigo, ARG, F, 1.76, 71, 27-10-97, El Palomar, None
+12, Julián Lichtenauer, ARG, G, 1.82, 82, 07-06-99, , None
+13, Pedro Fernández, ARG, G, 1.90, 84, 05-04-87, Garin, None
+14, Yefri Reyes, VEN, M, , , 22-05-96, Caracas, None
+15, Joaquín Ibáñez, ARG, M, 1.66, 65, 18-07-95, San Martín, None
+16, Germán Ré, ARG, D, 1.77, 73, 02-11-81, Santa Fé, Atlético Rafaela
+17, Lautaro Ruiz, ARG, F, , , , , None
+18, Juan Cruz González, ARG, D, 1.75, 73, 02-12-96, Córdoba, None
+19, Elías Alderete, ARG, F, 1.75, 70, 30-07-95, San Miguel, None
+20, Lucas Lezcano, ARG, F, , , 09-07-99, Villa Ballester, None
+21, Lucas Ontivero, ARG, F, 1.70, 64, 09-09-94, Catamarca, Venados
+22, Hernán Petryk, URU, D, 1.82, 80, 21-10-94, Punta del Este, Peñarol
+23, Facundo Rodríguez, URU, F, 1.86, 74, 20-08-95, Montevideo, Peñarol
+24, Ijiel Protti, ARG, F, 1.75, 65, 31-01-95, Arteaga, Rosario Central
+25, Axel Andrada, ARG, D, 1.79, 75, 14-10-97, José C. Paz, None
+26, Elías Tríbulo, ARG, D, , , 25-05-97, Morón, None
+27, Gabriel Lazarte, ARG, D, 1.71, 69, 07-11-97, Capital Federal, None
+28, Alejandro Gagliardi, ARG, M, 1.80, 65, 06-08-89, Córdoba, Morelia
+29, Lucas Destefano, ARG, M, 1.67, 63, 25-01-95, Morón, None
+30, Juan Imbert, ARG, F, 1.70, 67, 31-03-90, San Miguel de Tucumán, Arsenal [ARG]
+32, Alan Robledo, ARG, D, 1.83, 78, 17-02-98, San Martín, None
+33, Gonzalo Groba, ARG, M, 1.70, 71, 16-02-96, Capital Federal, None
+34, Mauro González, ARG, M, 1.78, 74, 31-08-96, Lanús, Boca Juniors
+35, Cristian Barrios, ARG, D, 1.78, 69, 16-10-97, Capital Federal, None
+40, Gian Croci, ARG, D, 1.77, 73, 04-01-98, Haedo, None
+41, Tomás Segovia, ARG, F, 1.75, 76, 08-02-99, Puerto Vilelas, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Mateo Cardona, COL, M, 1.83, 76, 11-02-96, Medellín, Once Caldas
+23, Sebastián Gorga, URU, D, 1.87, 73, 06-04-94, Montevideo, Genoa
+17, Cristian Campestrini, ARG, G, 1.82, 82, 16-06-80, San Nicolás, Dorados de Sinaloa
+22, Javier Mendoza, ARG, M, 1.71, 68, 02-09-92, Tartagal, Instituto (Córdoba)
+21, Cristian Erbes, ARG, M, 1.71, 69, 06-01-90, Capital Federal, Karpaty Lviv

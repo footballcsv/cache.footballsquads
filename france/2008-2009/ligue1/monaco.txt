@@ -1,0 +1,54 @@
+=  Monaco - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, None
+2, Cédric Mongongu, COD, D, 1.89, 76, 22-06-89, Kinshasa, None
+3, Nicolas Nkoulou, CMR, D, 1.80, 77, 27-03-90, Yaoundé, None
+4, François Modestó, FRA, D, 1.83, 80, 19-08-78, Bastia, Cagliari
+5, Diego Pérez, URU, M, 1.77, 81, 18-05-80, Montevideo, Peñarol
+6, Nikola Pokrivać, CRO, M, 1.85, 84, 26-11-85, Čakovec, Dinamo Zagreb
+8, Patrick Müller, SUI, D, 1.82, 69, 17-12-76, Geneva, Lyon
+9, Yannick Sagbo, CIV, F, 1.83, 78, 12-04-88, Marseille, None
+10, Park Chu-Young, KOR, F, 1.82, 75, 10-07-85, Daegu, FC Seoul
+11, Freddy Adu, USA, F, 1.73, 70, 02-06-89, Tema, Benfica
+12, Adriano Pereira, BRA, D, 1.80, 74, 03-04-82, Salvador de Bahia, Atalanta
+13, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, None
+14, Dario Šimić, CRO, D, 1.80, 76, 12-11-75, Zagreb, Milan
+15, Thomas Mangani, FRA, D, 1.82, 79, 29-04-87, Carpentras, None
+16, Stéphane Ruffier, FRA, G, 1.87, 89, 27-09-86, Bayonne, None
+17, Serge Gakpé, TOG, M, 1.77, 79, 07-05-87, Bondy, None
+18, Alejandro Alonso, ARG, M, 1.70, 68, 03-03-82, Buenos Aires, Bordeaux
+19, Jean-Jacques Gosso, CIV, M, 1.77, 75, 15-03-83, Abidjan, Ashdod
+20, Juan Pablo Pino, COL, M, 1.76, 72, 30-03-87, Cartagena, Independiente Medellín
+21, Camel Meriem, FRA, M, 1.74, 70, 18-10-79, Audincourt, Bordeaux
+22, Alexandre Licata, FRA, M, 1.78, 76, 02-01-84, Grenoble, Louhans-Cuiseaux
+23, Jerko Leko, CRO, M, 1.87, 85, 09-04-80, Zagreb, Dynamo Kiev
+24, Loïc Dufau, FRA, M, 1.77, 75, 15-03-89, Marseille, None
+25, Lukman Haruna, NGA, M, 1.85, 77, 04-12-90, Lagos, Global Crystal Academy
+26, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, None
+27, Frédéric Nimani, FRA, F, 1.91, 87, 08-10-88, Marseille, None
+28, Djamel Bakar, FRA, M, 1.71, 67, 06-04-89, Marseille, None
+29, Distel Zola, FRA, M, 1.82, 76, 05-02-89, Paris, None
+30, Flavio Roma, ITA, G, 1.92, 89, 21-06-74, Rome, Piacenza
+31, Kévin Diaz, FRA, M, 1.74, 65, 18-08-88, Istres, None
+32, Igor Lolo, CIV, D, 1.79, 68, 22-07-82, Abidjan, Dnipro Dnipropetrovsk
+35, Romain Padovani, FRA, M, 1.87, 75, 15-10-89, Nice, None
+36, Yvan Erichot, FRA, D, 1.88, 87, 25-03-90, Chambray-les-Tours, None
+37, Nicolas Courtois, FRA, D, , , 11-05-90, Marseille, None
+38, Valère Germain, FRA, F, 1.81, 75, 17-04-90, Marseille, None
+39, Frédéric Bulot, FRA, F, 1.77, 68, 27-09-90, Libreville, None
+40, Ludovic Guimera, FRA, G, 1.85, 77, 24-02-89, Nîmes, None
+, Manuel Vallaurio, FRA, G, 1.82, 80, 23-02-87, Monaco, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Malaury Martin, FRA, M, 1.78, 75, 25-08-88, Nice, Nîmes (On Loan)
+10, Jérémy Ménez, FRA, F, 1.81, 77, 07-05-87, Longjumeau, Roma
+11, Nené, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Espanyol (On Loan)
+8, Freddy Adu, USA, F, 1.73, 70, 02-06-89, Tema, Re-Registered (11)
+7, Lucas Bernardi, ARG, M, 1.72, 69, 27-09-77, Rosario, Newell's Old Boys
+32, Elia Legati, ITA, D, 1.88, 84, 03-01-86, Fidenza, Milan
+35, Sani Kaita, NGA, M, 1.79, 73, 02-05-86, Kano, Kuban Krasnodar (On Loan)
+25, Leandro Cufré, ARG, D, 1.77, 80, 09-05-78, La Plata, Hertha Berlin (On Loan)
+34, Torben Joneleit, GER, D, 1.86, 84, 15-05-87, Monaco, Charleroi (On Loan)

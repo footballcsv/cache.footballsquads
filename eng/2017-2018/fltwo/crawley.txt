@@ -1,0 +1,37 @@
+=  Crawley Town - English Football League Two 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Glenn Morris, ENG, G, 1.83, 70, 20-12-83, Woolwich, Gillingham
+2, Lewis Young, ENG, D, 1.75, 60, 27-09-89, Stevenage, Bury
+3, Josh Doherty, NIR, D, 1.79, 70, 15-03-96, Newtownards, Ards
+4, Josh Payne, ENG, M, 1.83, 74, 25-11-90, Basingstoke, Eastleigh
+5, Joe McNerney, ENG, D, 1.93, 84, 24-01-90, Chertsey, Woking
+6, Mark Connolly, IRL, D, 1.83, 77, 16-12-91, Monaghan, Kilmarnock
+7, Enzio Boldewijn, NED, M, 1.85, 76, 17-11-92, Almere, Almere C
+8, Jimmy Smith, ENG, M, 1.84, 71, 07-01-87, Newham, Stevenage
+9, Karlan Ahearne-Grant, ENG, F, 1.83, 70, 19-12-97, Greenwich, Charlton Ath
+10, Dean Cox, ENG, M, 1.63, 69, 12-08-87, Cuckfield, Leyton Orient
+11, Jordan Roberts, ENG, M, 1.80, 81, 05-01-94, Watford, Inverness CT
+12, Yusuf Mersin, TUR, G, 1.95, 85, 23-09-94, Greenwich, Kasımpaşa
+15, Josh Yorwerth, WAL, D, 1.85, 74, 28-02-95, Bridgend, Ipswich T
+16, Addison Garnett, ENG, D, 1.93, 90, 13-09-96, Westminster, Missouri State Univ
+17, Aliu Djaló, GNB, M, 1.69, 65, 05-02-92, Bissau, PS Kemi
+18, Billy Clifford, ENG, M, 1.70, 67, 18-10-92, Slough, Boreham Wood
+19, Cédric Evina, CMR, D, 1.80, 80, 16-11-91, , Doncaster R
+20, Aryan Taj, ENG, M, 1.85, 73, 20-10-90, Hendon, Cray W
+21, Dannie Bulman, ENG, M, 1.75, 75, 24-01-79, Ashford, AFC Wimbledon
+22, Josh Lelan, KEN, D, 1.85, 70, 21-12-94, Derby, Derby Co
+23, Thomas Verheydt, NED, F, 1.92, 93, 24-01-92, Den Haag, MVV Maastricht
+25, Mark Randall, ENG, M, 1.83, 82, 28-09-89, Milton Keynes, Newport Co
+26, Ibrahim Meite, ENG, F, 1.85, 72, 01-06-96, Wandsworth, Cardiff C
+27, Moussa Sanoh, NED, F, 1.74, 72, 20-07-95, Nijmegen, RKC Waalwijk
+28, Panutche Camará, GNB, F, 1.85, 63, 28-02-97, Canchungo, Dulwich Hamlet
+29, Nathan Okoye, NGA, D, 1.85, 80, 08-11-95, Tel Aviv, Thurrock
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Chris Arthur, ENG, D, 1.78, 77, 25-01-90, Enfield, Aldershot T
+14, Andre Blackman, ENG, D, 1.80, 72, 10-11-90, Lambeth, Barnet
+9, Matt Harrold, ENG, F, 1.85, 74, 25-07-84, Leyton, Leyton Orient
+24, Dennon Lewis, ENG, M, 1.78, 69, 09-05-97, Brent, Watford

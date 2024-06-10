@@ -1,0 +1,55 @@
+=  Athletico Paranaense - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Porto-PE
+2, Nicolás Hernández, COL, D, 1.85, 78, 18-01-98, Villavicencio, Atlético Nacional
+5, Marcinho, BRA, D, 1.78, 71, 16-05-96, Rio de Janeiro, Botafogo
+6, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Shakhtar Donetsk
+7, Yago, BRA, F, 1.85, 74, 26-05-97, Taboão da Serra, None
+8, Nicolas Vichiatto, BRA, D, 1.75, 70, 24-02-97, Arapongas, None
+11, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Atlético Mineiro
+13, Khellven, BRA, D, 1.76, 73, 25-02-01, Alexandria, None
+15, Jader, BRA, M, 1.72, 67, 24-07-03, Rondonópolis, None
+16, Abner Vinicius, BRA, D, 1.81, 75, 27-05-00, Presidente Prudente, Ponte Preta
+17, Guilherme Bissoli, BRA, F, 1.75, 74, 09-01-98, Jaú, Fernando de la Mora
+18, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Santos
+19, Jáderson, BRA, F, -, -, 12-08-00, Porto Alegre, Cruzeiro-RS
+20, Ataíde, BRA, D, 1.77, 82, 19-01-04, Piracicaba, None
+21, Matheus Babi, BRA, F, 1.91, 75, 18-07-97, Macaé, Serra Macaense
+22, Vinicius Kauê, BRA, D, 1.81, 78, 01-03-03, Presidente Prudente, None
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Corinthians
+26, Erick, BRA, M, 1.76, 64, 14-11-97, Nova Lima, PSTC
+27, José Ivaldo, BRA, D, 1.85, 78, 21-02-97, Maceió, None
+30, Luan Patrick, BRA, D, 1.90, 73, 20-01-02, Carazinho, None
+31, Pedrinho, BRA, D, 1.77, 60, 11-07-02, Salvador, Vitória
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+33, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, None
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Corinthians
+37, Lucas Fasson, BRA, D, 1.86, 79, 30-05-01, Santo André, Deportes La Serena
+38, Vinicius Mingotti, BRA, F, 1.82, 76, 07-01-00, São Carlos, São Paulo
+42, Juninho, BRA, M, -, -, 29-03-03, Assis, None
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+49, Daniel Cruz, BRA, F, 1.80, 91, 01-03-01, Salvador, Bahia
+50, Léo Linck, BRA, G, 1.95, 87, 03-03-01, Marechal Cândido Rondon, None
+55, Fernando Canesin, BRA, M, 1.76, 68, 27-02-92, Ribeirão Preto, Oostende
+70, Bruno Leite, BRA, M, 1.80, 77, 07-04-00, Maceío, None
+75, Kleiton, BRA, F, 1.82, 76, 23-04-99, Ipatinga, None
+77, Kawan, BRA, M, 1.80, 73, 06-03-02, Pinhais, None
+78, Julimar, BRA, F, 1.88, 87, 25-01-01, Nova Ipixuna, Criciúma
+79, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Cruzeiro
+80, David Terans, URU, M, 1.76, 73, 11-08-94, Montevideo, Atlético Mineiro
+88, Christian, BRA, M, 1.78, 67, 19-12-00, Curitiba, None
+96, Carlos Eduardo, BRA, F, 1.73, 68, 10-10-96, Nerópolis, Palmeiras
+99, Bento, BRA, G, 1.90, 87, 10-06-99, Curitiba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Jaime Alvarado, COL, M, 1.81, 76, 26-07-99, Santa Marta, Watford
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Genoa
+23, Felipe Aguilar, COL, D, 1.90, 82, 20-01-93, Medellín, Atlético Nacional (On Loan)
+31, Denner, BRA, M, 1.83, 78, 31-12-99, Itapiranga, Chapecoense (On Loan)
+28, Vitinho, BRA, F, 1.80, 67, 01-04-99, São José dos Campos, Dynamo Kyiv
+14, Edu, BRA, D, 1.84, 80, 16-06-00, Belo Horizonte, Remo (On Loan)
+10, Jádson, BRA, M, 1.68, 67, 05-10-83, Londrina, Avaí (On Loan)
+98, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, Náutico (On Loan)

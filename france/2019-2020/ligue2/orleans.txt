@@ -1,0 +1,38 @@
+=  Orléans - French Ligue 2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Renault, FRA, G, 1.84, 80, 05-03-84, Orléans, None
+3, Cédric Cambon, FRA, D, 1.84, 76, 20-09-86, Montpellier, Le Havre
+4, Gabriel Mutombo, FRA, D, 1.86, 75, 19-01-96, Villeurbanne, Angers
+6, Maxime D'Arpino, FRA, M, 1.75, 70, 17-06-96, Villeurbanne, Lyon
+7, Gaëtan Perrin, FRA, F, 1.69, 63, 07-06-96, Lyon, Lyon
+8, Joseph Romeric Lopy, SEN, M, 1.81, 68, 15-03-92, Boutoupa, Clermont
+9, Préjuce Nakoulma, BFA, F, 1.78, 76, 21-04-87, Ouagadougou, Rizespor
+10, Thomas Ephestion, FRA, M, 1.89, 87, 09-06-95, Sucy-en-Brie, Lens
+11, Tidiane Keita, FRA, M, 1.80, 76, 18-09-96, Toulouse, Colomiers
+12, Arnaud Luzayadio, FRA, D, 1.76, 70, 19-07-99, Montreuil, Paris Saint-Germain
+13, Edouard Butin, FRA, F, 1.80, 74, 16-06-88, Dole, Brest
+14, Nicolas Saint-Ruf, FRA, D, 1.87, 81, 24-10-92, Rouen, Nancy
+15, Vincent Thill, LUX, M, 1.76, 69, 04-02-00, Luxembourg, Metz
+16, Alexandre Letellier, FRA, G, 1.91, 81, 11-12-90, Paris, Angers
+17, Alioune Ba, FRA, D, 1.88, 78, 07-11-89, Courcouronnes, Laval
+18, Arial Mendy, SEN, D, 1.80, 75, 07-11-94, Ziguinchor, Lens
+19, Alex Marchadier, FRA, D, 1.90, 75, 26-09-98, Clermont-Ferrand, Moulins Yzeure
+20, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, Panathinaikos
+21, Aurélien Scheidler, FRA, F, 1.92, 90, 04-06-98, Saint-Martin-Boulogne, Dijon
+22, Gauthier Pinaud, FRA, D, 1.77, 71, 08-01-88, Châteauroux, Strasbourg
+23, Stéphane Lambese, HAI, D, 1.71, 70, 10-05-95, Nogent-sur-Marne, Lorient
+24, Yohan Demoncy, FRA, M, 1.81, 73, 07-04-96, Gonesse, Paris St-Germain
+26, Hicham Benkaid, MAR, F, 1.78, 71, 26-04-90, Strasbourg, Strasbourg
+28, Abdoulkader Thiam, MTN, D, 1.76, 64, 03-10-98, Maghama, Monaco
+29, Amine Talal, MAR, M, 1.76, 68, 05-06-96, Casablanca, None
+30, Jérémy Vachoux, FRA, G, 1.83, 78, 07-07-94, Thonon-les-Bains, Lens
+40, Ludovic Le Pennec, FRA, G, 1.87, 72, 03-03-01, Saint-Laurent-du-Maroni, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Anthony Le Tallec, FRA, F, 1.84, 73, 03-10-84, Hennebont, Annecy
+25, Fahd El Khoumisti, FRA, F, 1.80, 75, 01-06-93, Mamers, Le Puy (On Loan)
+20, Joris Correa, FRA, F, 1.72, 67, 25-12-93, Drancy, Chambly (On Loan)
+16, Alexis Sevestre, FRA, G, 1.83, 69, 06-03-99, Moulins, De-Registered

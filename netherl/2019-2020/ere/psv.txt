@@ -1,0 +1,50 @@
+=  PSV Eindhoven - Dutch Eredivisie 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Nick Viergever, NED, D, 1.82, 72, 03-08-89, Capelle aan den IJssel, Ajax
+5, Timo Baumgartl, GER, D, 1.89, 85, 04-03-96, Böblingen, Stuttgart
+6, Daniel Schwaab, GER, D, 1.86, 75, 23-08-88, Waldkirch, Stuttgart
+7, Bruma, POR, F, 1.73, 70, 24-10-94, Bissau, RB Leipzig
+8, Jorrit Hendrix, NED, M, 1.82, 70, 06-02-95, Panningen, None
+9, Donyell Malen, NED, F, 1.76, 68, 09-01-99, Wieringen, Arsenal
+11, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Marseille
+13, Lars Unnerstall, GER, G, 1.98, 100, 20-07-90, Ibbenbüren, VVV Venlo
+14, Sam Lammers, NED, F, 1.89, 80, 30-04-97, Tilburg, None
+15, Érick Gutiérrez, MEX, M, 1.77, 69, 15-06-95, Ahome, Pachuca
+17, Ibrahim Afellay, NED, M, 1.81, 68, 02-04-86, Utrecht, Stoke C
+18, Pablo Rosario, NED, M, 1.79, 73, 07-01-97, Amsterdam, Almere C
+19, Cody Gakpo, NED, F, 1.79, 64, 07-05-99, Eindhoven, None
+21, Robbin Ruiter, NED, G, 1.96, 78, 25-03-87, Amsterdam, Sunderland
+22, Denzel Dumfries, NED, D, 1.85, 69, 18-04-96, Rotterdam, SC Heerenveen
+24, Mohammed Ihattaren, NED, M, 1.82, 75, 12-02-02, Utrecht, None
+25, Ritsu Doan, JPN, M, 1.72, 70, 16-06-98, Amagasaki, FC Groningen
+26, Cyril Ngonge, BEL, F, 1.79, 65, 26-05-00, Uccle, Club Brugge
+28, Olivier Boscagli, FRA, D, 1.81, 68, 18-11-97, Monaco, Nice
+30, Ryan Thomas, NZL, M, 1.74, 70, 20-12-94, Auckland, PEC Zwolle
+31, Yanick van Osch, NED, G, 1.83, 73, 24-03-97, Den Bosch, None
+32, Michal Sadílek, CZE, M, 1.69, 65, 31-05-99, Uherské Hradiště, Slovácko
+33, Jordan Teze, NED, D, 1.71, 68, 30-09-99, Groningen, None
+34, Amar Ćatić, BIH, F, 1.79, 78, 21-01-99, Tilburg, None
+35, Richard Ledezma, USA, M, 1.74, 64, 06-09-00, Phoenix, Real Salt Lake
+41, Mike van de Meulenhof, NED, G, 1.79, 79, 11-05-99, Helmond, None
+43, Robin Lauwers, BEL, M, 1.81, 70, 18-03-99, Turnhout, Willem II
+46, Justin de Haas, NED, D, 1.94, 80, 01-02-00, Zaandam, AZ Alkmaar
+53, Tijn Daverveld, NED, D, , , 29-04-00, Boxmeer, None
+56, Noni Madueke, ENG, M, 1.82, 70, 10-03-02, Barnet, Tottenham H
+61, Youri Roulaux, NED, G, 1.84, 75, 19-05-99, Veldhoven, None
+68, Ricardo Rodríguez, SUI, D, 1.82, 77, 25-08-92, Zürich, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+51, Luuk Koopmans, NED, G, 1.90, 79, 05-11-92, Oss, ADO Den Haag (On Loan)
+16, Joël Piroe, NED, F, 1.81, 74, 02-08-99, Nijmegen, Sparta Rotterdam (On Loan)
+11, Hirving Lozano, MEX, M, 1.77, 70, 30-07-95, Mexico City, Napoli
+25, Bart Ramselaar, NED, M, 1.80, 69, 29-06-96, Amersfoort, FC Utrecht
+26, Zakaria Aboukhlal, NED, F, 1.78, 73, 18-02-00, Rotterdam, AZ Alkmaar
+20, Trent Sainsbury, AUS, D, 1.85, 61, 05-01-92, Perth [AUS], Maccabi Haifa
+23, Derrick Luckassen, NED, D, 1.86, 78, 03-07-95, Amsterdam, Anderlecht (On Loan)
+3, Toni Lato, ESP, D, 1.71, 64, 21-11-97, La Pobla de Vallbona, Valencia
+1, Jeroen Zoet, NED, G, 1.86, 76, 06-01-91, Veendam, FC Utrecht (On Loan)
+10, Steven Bergwijn, NED, F, 1.78, 74, 08-10-97, Amsterdam, Tottenham H
+27, Gastón Pereiro, URU, M, 1.88, 76, 11-06-95, Montevideo, Cagliari

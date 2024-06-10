@@ -1,0 +1,39 @@
+=  Eupen - Belgian Eerste Klasse A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hendrik van Crombrugge, BEL, G, 1.88, 86, 30-04-93, Leuven, Sint-Truiden
+2, Ibrahim Diallo, MLI, D, 1.76, 70, 12-08-96, Sikasso, Valencia B
+3, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Lorient
+4, Jordan Lotiès, FRA, D, 1.87, 77, 05-08-84, Clermont-Ferrand, Dijon
+5, Diawandou Diagné, SEN, D, 1.75, 64, 08-11-94, Thiès, Barcelona B
+6, Rémi Mulumba, COD, M, 1.78, 70, 02-11-92, Abbeville, Gazélec Ajaccio
+7, Mamadou Koné, CIV, F, 1.76, 69, 25-12-91, Bingerville, Leganés
+8, Jean Thierry Lazare Amani, CIV, M, 1.72, 65, 07-03-98, Diégonéfla, Aspire Academy
+9, M'Baye Leye, SEN, F, 1.83, 76, 01-12-82, Birkelane, Zulte-Waregem
+10, Luis García, ESP, F, 1.80, 68, 06-02-81, Oviedo, Zaragoza
+13, Damien Mouchamps, BEL, F, 1.72, 70, 10-01-96, Verviers, Etoile Elsautoise
+14, Alessio Castro-Montes, BEL, D, 1.75, 67, 10-01-97, Sint-Truiden, Sint-Truiden
+15, Moussa Wagué, SEN, D, 1.77, 70, 04-10-98, Bignona, Aspire Academy
+17, Carlos Martínez, CRC, D, 1.76, 70, 30-03-99, Santa Ana, Aspire Academy
+18, Nils Schouterden, BEL, M, 1.76, 64, 14-12-88, Leuven, Mechelen
+19, Florian Raspentino, FRA, F, 1.79, 73, 06-06-89, Marignane, Bastia
+20, Yuta Toyokawa, JPN, F, 1.73, 62, 09-09-94, Kumamoto, Kashima Antlers
+21, Moussa Diallo, SEN, F, 1.83, 75, 20-11-90, Pikine, Solières Sport
+22, Siebe Blondelle, BEL, D, 1.84, 78, 20-04-86, Brugge, Waasland-Beveren
+23, Mickaël Tirpan, BEL, D, 1.77, 72, 23-10-93, Anderlecht, Excel Mouscron
+24, Silas Gnaka, CIV, D, 1.79, 64, 18-12-98, Abidjan, Aspire Academy
+25, George Jamabo, NGA, M, 1.71, 78, 18-05-95, River State, Aspire Academy
+28, Eric Ocansey, GHA, F, 1.73, 64, 22-08-97, Tema, Aspire Academy
+30, Babacar Niasse, SEN, G, 1.90, 85, 20-12-95, Dakar, Aspire Academy
+33, Abdul Manaf Nurudeen, GHA, G, 1.90, 77, 08-02-99, Accra, Aspire Academy
+44, Marc Valiente, ESP, D, 1.84, 71, 29-03-87, Granollers, Maccabi Haifa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Nicolas Verdier, FRA, F, 1.85, 72, 17-01-87, Nice, Mechelen (On Loan)
+3, Abdelkarim Hassan, QAT, D, 1.86, 79, 28-08-93, Doha, Al-Sadd
+7, Hamza Sanhaji, QAT, F, 1.79, 76, 22-04-94, Casablanca, Al-Sadd
+6, Assim Madibo, QAT, D, 1.68, 73, 22-10-96, Doha, Al-Duhail
+11, Akram Afif, QAT, F, 1.77, 67, 18-11-96, Doha, Villarreal
+29, Souleymane Aw, SEN, D, 1.73, 65, 05-04-99, , KSV Roeselare (On Loan)

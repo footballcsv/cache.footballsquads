@@ -1,0 +1,78 @@
+=  Heart of Midlothian - Scottish Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Robbie Neilson, SCO, D, 1.73, 70, 19-06-80, Paisley, Rangers BC
+3, Lee Wallace, SCO, D, 1.85, 76, 01-08-87, Edinburgh, None
+5, Christos Karipidis, GRE, D, 1.85, 80, 02-12-82, Thessaloniki, PAOK
+6, Rubén Palazuelos, ESP, D, 1.87, 75, 11-04-83, Santander, Nàstic
+8, Bruno Aguiar, POR, M, 1.76, 70, 24-02-81, Lisbon, FBK Kaunas
+9, Mike Tullberg, DEN, F, 1.89, 85, 25-12-85, Farum, Reggina
+10, Laryea Kingston, GHA, M, 1.72, 69, 07-11-80, Accra, Terek Grozny
+11, Andrew Driver, ENG, M, 1.75, 68, 12-11-87, Oldham, None
+12, János Balogh, HUN, G, 1.92, 83, 29-11-82, Debrecen, Debrecen
+13, Steve Banks, ENG, G, 1.80, 84, 09-02-72, Hillingdon, Gillingham
+14, Christian Nadé, FRA, F, 1.86, 80, 18-09-84, Montmorency, Sheffield U
+16, Adrian Mrowiec, POL, M, 1.90, 84, 01-12-83, Wałbrzych, FBK Kaunas
+17, David Obua, UGA, M, 1.84, 82, 10-04-84, Kampala, Kaizer Chiefs
+20, Jason Thomson, SCO, D, 1.80, 73, 26-08-87, Edinburgh, None
+21, Eggert Jónsson, ISL, M, 1.88, 72, 18-08-88, Rekyjavik, Þór Akureyri
+22, Calum Elliot, SCO, F, 1.83, 79, 30-03-87, Edinburgh, None
+23, Michael Stewart, SCO, M, 1.80, 73, 26-02-81, Edinburgh, Hibernian
+25, Marián Kello, SVK, G, 1.88, 87, 05-09-82, Gelnica, FBK Kaunas
+26, Marius Žaliūkas, LTU, M, 1.90, 84, 10-11-83, Kuršėnai, FBK Kaunas
+30, Jamie MacDonald, SCO, G, 1.86, 71, 17-04-86, Broxburn, None
+31, David Armstrong, NIR, D, 1.80, 71, 23-01-87, Lisburn, Crusaders
+33, Denis McLaughlin, IRL, F, 1.80, 76, 05-02-87, Letterkenny, None
+37, Marco Pelosi, SCO, D, 1.78, 75, 22-04-86, Edinburgh, None
+39, Ryan McGowan, AUS, D, 1.88, 75, 15-08-89, Adelaide, Para Hills
+41, Matthew Park, AUS, M, , , 22-04-88, Melbourne, Frankston Pines
+42, David Templeton, SCO, F, 1.76, 63, 07-01-89, Glasgow, Stenhousemuir
+44, Haraldur Björnsson, ISL, G, 1.92, 95, 11-01-89, Reykjavík, Valur
+45, Branimir Kostadinov, BUL, F, 1.80, 69, 04-03-89, Veliko Tarnovo, LASK Linz
+46, Paul Mulrooney, SCO, M, , , 27-01-90, Bishopbriggs, None
+47, Mark Cowan, SCO, F, , , 30-01-90, , None
+48, Jonathan Stewart, SCO, D, , , 12-02-90, , None
+50, Ross McKenzie, SCO, F, , , 20-03-90, , None
+51, Gary Glen, SCO, F, 1.77, 79, 22-03-90, Livingston, None
+52, Dumitru Copil, ROU, M, , , 04-03-90, , Atletico Arad
+53, Ben Long, ENG, M, , , 16-04-90, Harrow, Barnet
+54, Rocky Visconte, AUS, M, 1.79, 72, 22-04-90, Adelaide, Para Hills
+55, Jonathan Brown, SCO, D, 1.82, 77, 24-04-90, Kempton Park, None
+56, Jordon Love, SCO, F, 1.80, , 07-05-90, Bellshill, Dundee U
+57, Ryan Wallace, SCO, F, 1.73, 68, 30-07-90, Bellshill, None
+58, Mark Ridgers, SCO, G, 1.83, 82, 09-08-90, Inverness, Ross Co
+59, Robert Adam, CAN, D, , , 07-09-90, , LA Force
+60, Stephen Husband, SCO, M, 1.83, 82, 29-10-90, Kelty, Cowdenbeath
+61, Elias Wagner, AUT, M, , , 27-11-90, , Hibernian
+62, Michael Deland, SCO, D, , , 06-01-91, , None
+63, Conrad Balatoni, ENG, D, 1.83, 83, 27-01-91, Leeds, None
+64, Danny Thomson, SCO, M, , , 24-02-91, , None
+65, Craig Thomson, SCO, D, , , 17-04-91, , None
+66, David Love, SCO, F, , , 11-05-91, , None
+67, Dylan McGowan, AUS, D, 1.88, 80, 06-08-91, Adelaide, Para Hills
+69, John Wood, SCO, M, , , 25-09-91, , None
+70, Matthew Falzon, AUS, G, , , 01-10-91, , Para Hills
+71, Shaun Hill, SCO, M, , , 26-02-92, , None
+72, Scott Robinson, SCO, F, 1.68, 60, 12-03-92, Edinburgh, None
+73, Arvydas Novikovas, LTU, F, 1.79, 76, 18-12-90, Vilnius, FK Vilnius
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Alan Lithgow, SCO, D, 1.88, 74, 12-03-88, Bellshill, Clyde
+28, Kęstutis Ivaškevičius, LTU, M, 1.84, 78, 17-04-85, Klaipėda, FBK Kaunas
+34, Matthew Doherty, NIR, M, 1.80, 73, 29-04-87, Derry, Linfield
+29, Audrius Ksanavičius, LTU, M, 1.70, 67, 28-01-77, , FBK Kaunas
+19, Jamie Mole, ENG, F, 1.78, 76, 01-06-88, Newcastle upon Tyne, Dunfermline Ath (On Loan)
+35, John Armstrong, SCO, D, 1.80, 74, 25-06-87, Edinburgh, Cowdenbeath (On Loan)
+24, Craig Sives, SCO, D, 1.91, 77, 09-04-86, Edinburgh, 
+38, Sean Mackle, SCO, M, 1.75, 67, 10-04-88, Belfast, Dundalk
+40, Alistair Divine, SCO, M, , , 11-04-88, , 
+43, Shaun Kelly, IRL, D, 1.78, 70, 09-03-89, Killybegs, Dundalk
+32, Anthony Basso, FRA, G, 1.90, 83, 04-07-79, Besançon, 
+49, Matej Rapnik, SVK, D, 1.88, 85, 24-02-90, , NK Bravo
+4, Christophe Berra, SCO, D, 1.86, 81, 31-01-85, Edinburgh, Wolverhampton W
+15, Juho Mäkelä, FIN, F, 1.90, 82, 23-06-83, Oulu, HJK Helsinki
+7, Saulius Mikoliūnas, LTU, F, 1.78, 72, 02-05-84, Šviesa, FBK Kaunas
+18, Deividas Česnauskis, LTU, M, 1.80, 77, 30-06-81, Kuršėnai, FBK Kaunas
+68, Ciarán Coll, IRL, D, 1.78, 64, 19-08-91, Letterkenny, Finn Harps

@@ -1,0 +1,50 @@
+=  Fluminense - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+3, Matheus Ferraz, BRA, D, 1.90, 82, 12-02-85, São José do Rio Pardo, Américo Mineiro
+4, Luccas Claro, BRA, D, 1.82, 83, 20-10-91, Ribeirão Preto, Gençlerbirliği
+5, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Santos
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Cruzeiro
+7, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Al-Khor
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Cruzeiro
+10, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, Sevilla
+11, Marcos Paulo, BRA, F, 1.85, 76, 01-02-01, Niterói, None
+12, João Lopes, BRA, G, 1.88, 83, 16-01-96, Rio de Janeiro, Portuguesa
+13, Frazan, BRA, D, 1.88, 85, 05-06-96, Macaé, None
+14, Danilo Barcelos, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, Botafogo
+15, Michel Araújo, URU, F, 1.78, 74, 28-09-96, Colonia del Sacramento, Racing Club [URU]
+16, Fernando Pacheco, PER, F, 1.77, 76, 26-06-99, Lima, Sporting Cristal
+17, Wellington Silva, BRA, M, 1.70, 64, 06-01-93, Rio de Janeiro, Arsenal
+19, Felippe Cardoso, BRA, F, 1.87, 83, 04-10-98, São Paulo, Santos
+20, Yago, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, Vitória
+21, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, None
+25, Hudson, BRA, M, 1.79, 68, 30-01-88, Juiz de Fora, São Paulo
+27, Muriel, BRA, G, 1.89, 78, 14-02-87, Novo Hamburgo, Belenenses
+30, Miguel Silveira, BRA, M, 1.74, 66, 26-03-03, Vila Velha, None
+31, Calegari, BRA, D, 1.70, 70, 27-02-02, Cuiabá, None
+32, Dani Bolt, BRA, D, 1.83, 76, 18-06-99, Rio de Janeiro, None
+33, Nino, BRA, D, 1.88, 79, 10-04-97, Recife, Criciúma
+34, Luiz Henrique, BRA, F, 1.81, 77, 02-01-01, Petrópolis, None
+35, André, BRA, M, 1.76, 77, 16-07-01, Algodão, None
+36, Guilherme, BRA, D, -, -, 06-06-00, -, None
+37, Christian, BRA, F, -, -, 14-08-99, -, None
+38, Matheus Pato, BRA, F, 1.85, 72, 08-06-95, Rio Branco, None
+40, Luan, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, None
+41, Mateus Nascimento, BRA, M, 1.79, 74, 06-07-99, Iaçu, None
+42, Wisney, BRA, F, 1.80, 73, 10-06-99, Itumbiara, None
+44, Higor Gabriel, BRA, D, 1.88, 80, 28-04-99, Jaguariúna, None
+45, Denilson, BRA, M, -, -, 17-03-00, -, None
+70, Caio Paulista, BRA, F, 1.84, 78, 11-05-98, São Paulo, Tombense
+77, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Caio Vinícius, BRA, M, 1.87, 72, 11-01-99, Itaquaquecetuba, Oeste (On Loan)
+99, Evanilson, BRA, F, 1.80, 80, 06-10-99, Fortaleza, Tombense
+7, Pablo Dyego, BRA, M, 1.74, 66, 08-03-94, Rio de Janeiro, CRB (On Loan)
+39, Marcelo Pitaluga, BRA, G, 1.91, 75, 20-12-02, Niterói, Liverpool
+23, Orinho, BRA, D, 1.80, 70, 24-05-95, São Paulo, Oeste (On Loan)
+26, Digão, BRA, D, 1.87, 85, 07-05-88, Duque de Caxias, Buriram U (On Loan)
+22, Dodi, BRA, M, 1.66, 60, 17-04-96, Santo Antônio do Sudoeste, Kashiwa Reysol

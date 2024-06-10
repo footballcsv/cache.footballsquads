@@ -1,0 +1,40 @@
+=  Lugo - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.85, 81, 20-01-88, Guadalajara, Elche
+2, Serge Leuko, CMR, D, 1.74, 75, 04-08-93, Douala, Valencia B
+3, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Karpaty Lviv
+4, Josete, ESP, D, 1.79, 79, 28-05-88, Elche, Elche
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Sevilla B
+7, Adrià Carmona, ESP, M, 1.70, 66, 08-02-92, Igualada, Albacete
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Mario Barco, ESP, F, 1.78, 85, 23-12-92, Estella, Barakaldo
+10, Antonio Campillo, ESP, M, 1.80, 70, 19-12-90, Madrid, Rayo Vallecano B
+11, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Anderlecht
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Almería
+13, Roberto, ESP, G, 1.81, 76, 25-01-79, Chantada, Granada
+14, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Córdoba
+15, Luis Ruiz, ESP, D, 1.81, 73, 30-06-92, Huelva, Cádiz
+16, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Girona
+17, Luis Muñoz, ESP, D, 1.80, 72, 23-02-97, Málaga, Málaga B
+18, Nicolás Albarracin, URU, F, 1.82, 72, 11-06-93, Montevideo, Peñarol
+19, Chuli, ESP, F, 1.77, 65, 25-01-91, Huelva, Getafe
+20, Álvaro Lemos, ESP, D, 1.75, 72, 30-03-93, La Coruña, Celta Vigo
+21, Sergio Gil, ESP, M, 1.83, 68, 10-05-96, Zaragoza, Zaragoza B
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Mallorca
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+26, Pablo Cacharrón, ESP, G, 1.82, 76, 12-06-97, Lugo, Lugo JDH
+27, Pedro López, ESP, D, 1.79, 70, 27-01-97, Lugo, Lugo JDH
+28, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Castellón
+29, Luis Díaz, ESP, M, , , 27-02-95, Lugo, SDC Polvorín
+30, Manu, ESP, M, , , 28-07-98, La Coruña, SDC Polvorín
+31, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Ignasi Miquel, ESP, D, 1.88, 82, 28-09-92, Corbera de Llobregat, Málaga
+14, Francisco Fydriszewski, ARG, F, 1.83, 82, 13-04-93, Rosario, Newell's Old Boys
+19, Sergio Díaz, PAR, F, 1.70, 70, 05-03-98, Itauguá, Real Madrid B
+23, Guillermo Donoso, ESP, M, 1.73, 64, 08-07-95, Gijón, Ponferradina (On Loan)

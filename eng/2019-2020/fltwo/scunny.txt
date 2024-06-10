@@ -1,0 +1,56 @@
+=  Scunthorpe United - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rory Watson, ENG, G, 1.90, 90, 05-02-96, York, Hull C
+2, Jordan Clarke, ENG, D, 1.83, 71, 19-11-91, Coventry, Coventry C
+3, Kgosi Ntlhe, RSA, D, 1.75, 66, 21-02-94, Pretoria, Rochdale
+5, Yann Songo'o, CMR, D, 1.84, 77, 17-11-91, Yaoundé, Plymouth Arg
+6, Andrew Butler, ENG, D, 1.83, 83, 04-11-83, Doncaster, Doncaster R
+7, Ryan Colclough, ENG, M, 1.90, 83, 27-12-94, Burslem, Wigan Ath
+8, James Horsfield, ENG, M, 1.78, 70, 30-11-95, Hazel Grove, NAC Breda
+10, Kevin van Veen, NED, F, 1.85, 75, 01-06-91, Eindhoven, Northampton T
+11, Adam Hammill, ENG, M, 1.80, 73, 25-01-88, Liverpool, St Mirren
+13, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Doncaster R
+14, James Perch, ENG, D, 1.80, 72, 28-09-85, Mansfield, QPR
+15, Jordan Lawrence-Gabriel, SCO, D, 1.78, 69, 25-09-98, London, Nottingham F
+16, Lewis Butroid, ENG, D, 1.75, 67, 17-09-98, Gainsborough, None
+18, Jordan Hallam, ENG, M, 1.73, 63, 06-10-98, Sheffield, Sheffield U
+19, Yasin Ben El-Mhanni, ENG, M, 1.78, 70, 26-10-95, Chelsea, Newcastle U
+20, Alex Gilliead, ENG, M, 1.83, 70, 11-02-96, Shotley Bridge, Shrewsbury T
+22, Levi Sutton, ENG, M, 1.80, 74, 24-03-96, Scunthorpe, None
+23, Rory McArdle, NIR, D, 1.85, 72, 01-05-87, Doncaster, Bradford C
+26, Harrison McGahey, ENG, D, 1.87, 85, 26-09-95, Preston, Rochdale
+27, Regan Slater, ENG, M, 1.73, 65, 11-09-99, Sheffield, Sheffield U
+28, Junior Brown, ENG, D, 1.75, 68, 07-05-89, Crewe, Coventry C
+29, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, Barnsley
+30, Abo Eisa, SUD, M, 1.80, 75, 05-01-96, Khartoum, Shrewsbury T
+31, Adam Kelsey, ENG, G, 1.91, 75, 12-11-99, Kingston upon Hull, Hull C
+32, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Aston Villa
+33, Devarn Green, ENG, M, 1.73, 64, 26-08-96, Sandwell, Southport
+34, Alfie Beestin, ENG, F, 1.78, 75, 01-10-97, Leeds, Tadcaster Alb
+35, Jai Rowe, ENG, D, 1.81, 67, 08-08-01, Nuneaton, Barwell
+36, Reon Potts, ENG, F, , , 19-03-99, , Sheffield U
+37, Jo Cummings, ENG, D, 1.88, 74, 08-09-98, Sheffield, Sheffield U
+38, Mason O'Malley, IRL, D, 1.70, 65, 19-03-99, Leeds, Huddersfield T
+39, Omar Sanyang, ENG, M, , , 18-11-99, , Doncaster R
+40, Tom Pugh, WAL, M, 1.69, 61, 27-09-00, Doncaster, Leeds U
+41, Tom Collins, ENG, G, 1.93, 79, 04-08-02, Scunthorpe, None
+42, Jack Lambert, ENG, M, 1.73, 66, 19-03-99, Newcastle upon Tyne, Dundee
+43, Ben Liddle, ENG, M, 1.70, 75, 21-09-98, Durham, Middlesbrough
+44, George Hornshaw, ENG, M, 1.80, 73, 20-01-00, Beverley, None
+45, John McAtee, ENG, F, 1.80, 75, 23-07-99, Salford, Shrewsbury T
+48, Joey Dawson, ENG, M, , , 30-05-03, Scunthorpe, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Cameron Burgess, AUS, D, 1.94, 81, 21-10-95, Aberdeen, Salford C (On Loan)
+24, Olufela Olomola, ENG, F, 1.70, 67, 05-09-97, Harrow, Carlisle U (On Loan)
+9, Kyle Wootton, ENG, F, 1.88, 78, 11-10-96, Kidderminster, Notts Co
+15, Clayton Lewis, NZL, M, 1.69, 72, 12-02-97, Wellington, Auckland C
+25, Jake Eastwood, ENG, G, 1.90, 70, 03-10-96, Sheffield, Sheffield U
+12, Andy Dales, ENG, M, 1.81, 70, 13-11-94, Derby, Hamilton Academical (On Loan)
+33, Jamie Proctor, ENG, F, 1.88, 78, 25-03-92, Preston, Rotherham U
+13, Jamie Ward, NIR, F, 1.65, 59, 12-05-86, Birmingham, 
+4, Matthew Lund, NIR, M, 1.70, 61, 21-11-90, Manchester, Rochdale
+17, Lee Novak, ENG, F, 1.83, 78, 28-09-88, Newcastle upon Tyne, Bradford C

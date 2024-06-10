@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2006/07
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Augsburg](augsburg.txt)
+- [Carl Zeiss Jena](carlzeiss.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Rot-Weiß Essen](essen.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hansa Rostock](rostock.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [Kickers Offenbach](offenba.txt)
+- [TuS Koblenz](koblenz.txt)
+- [1.FC Köln](koln.txt)
+- [SC Paderborn](paderbo.txt)
+- [SpVgg Unterhaching](unterha.txt)
+- [Wacker Burghausen](burghaus.txt)

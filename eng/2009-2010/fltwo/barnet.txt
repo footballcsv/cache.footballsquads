@@ -1,0 +1,44 @@
+=  Barnet - English Football League Two 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jake Cole, ENG, G, 1.88, 83, 11-09-85, Hammersmith, QPR
+2, Joe Devera, ENG, D, 1.88, 76, 06-02-87, Southgate, None
+3, Kenny Gillet, FRA, D, 1.78, 78, 03-01-86, Bordeaux, Caen
+4, Mark Hughes, NIR, M, 1.78, 78, 16-09-83, Dungannon, Chester C
+5, Ismail Yakubu, ENG, D, 1.80, 76, 08-04-85, Kano, None
+6, Gary Breen, IRL, D, 1.85, 76, 12-12-73, Hendon, Wolverhampton W
+7, Albert Adomah, GHA, F, 1.85, 74, 13-12-87, Lambeth, Harrow Boro
+8, Nicky Deverdics, ENG, M, 1.80, 78, 24-11-87, Gateshead, Gretna
+9, John O'Flynn, IRL, F, 1.81, 75, 11-07-82, Cóbh, Cork C
+10, Micah Hyde, JAM, M, 1.78, 80, 10-11-74, Newham, Woking
+11, Chris James, NZL, M, 1.75, 73, 04-07-87, Wellington, Tampere U
+12, Ryan O'Neill, NIR, D, 1.83, 82, 19-01-90, Dungannon, West Ham U
+14, Albert Jarrett, SLE, M, 1.85, 67, 23-10-84, Freetown, Gillingham
+15, Joe Tabiri, ENG, M, 1.75, 74, 16-10-89, London, None
+16, Jake Hyde, ENG, F, 1.85, 78, 01-07-90, Slough, Swindon T
+17, Danny Hart, ENG, M, 1.78, 74, 26-04-89, London, Boreham Wood
+18, Lee Harrison, ENG, G, 1.88, 76, 12-09-71, Billericay, Peterborough U
+19, Luke Medley, ENG, F, 1.85, 84, 21-06-89, Greenwich, Bradford C
+20, Daniel Leach, AUS, D, 1.90, 82, 05-01-86, Redcliffe, Portland Timbers
+21, Clovis Kamdjo, CMR, D, 1.80, 77, 15-12-90, , Reading
+22, Ahmed Deen, SLE, D, 1.75, 68, 30-06-85, Freetown, Macclesfield T
+23, Phil Carpenter, ENG, G, 1.85, 83, 07-09-88, Barnet, None
+24, Will Viner, ENG, G, 1.96, , 24-09-87, , Hendon
+25, Kofi Lockhart-Adams, ENG, F, 1.85, 82, 09-10-92, London, None
+26, Mauro Vilhete, ENG, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+27, Ryan Scott, ENG, D, 1.94, , 15-06-94, , None
+28, Paul Furlong, ENG, F, 1.83, 86, 01-10-68, Wood Green, Southend U
+29, Edward Upson, ENG, M, 1.78, 73, 21-11-89, Bury St Edmunds, Ipswich T
+33, Matt Lockwood, ENG, D, 1.80, 74, 17-10-76, Rochford, Colchester U
+34, David Livermore, ENG, M, 1.80, 79, 20-05-80, Edmonton, Brighton & HA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Calum Butcher, ENG, D, 1.82, 82, 26-02-91, Rochford, Tottenham H
+30, Craig McAllister, SCO, F, 1.85, 71, 28-06-80, Glasgow, Exeter C
+31, Dean Sinclair, ENG, M, 1.78, 71, 17-12-84, St Albans, Charlton Ath
+11, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Plymouth Arg
+19, Elliot Charles, ENG, F, 1.88, 83, 23-12-90, Enfield, Kettering T
+32, Lee Sawyer, ENG, M, 1.76, 75, 10-09-89, Leytonstone, 
+19, Ben Wright, ENG, F, 1.88, 85, 10-08-88, Basingstoke, Peterborough U

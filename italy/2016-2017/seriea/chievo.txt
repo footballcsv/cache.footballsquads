@@ -1,0 +1,51 @@
+=  Chievo Verona - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan de Guzmán, NED, M, 1.75, 70, 13-09-87, Scarborough [CAN], Napoli
+2, Nicolás Spolli, ARG, D, 1.92, 90, 20-02-83, Rosario, Carpi
+3, Dario Dainelli, ITA, D, 1.91, 78, 09-06-79, Pontedera, Genoa
+4, Nicola Rigoni, ITA, M, 1.87, 84, 12-11-90, Schio, Vicenza
+5, Alessandro Gamberini, ITA, D, 1.85, 80, 27-08-81, Bologna, Napoli
+7, Serge Gakpé, TOG, M, 1.77, 79, 07-05-87, Bondy, Genoa
+8, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Atalanta
+9, Andrea Isufaj, ITA, F, 1.82, 73, 21-11-99, Bressanone, Arezzo
+12, Boštjan Cesar, SVN, D, 1.91, 89, 09-07-82, Ljubljana, Grenoble
+13, Mariano Izco, ARG, M, 1.80, 76, 13-03-83, Capital Federal, Catania
+15, Cesare Pogliano, ITA, D, 1.90, 76, 08-01-98, Mantova, None
+16, Edoardo Sbampato, ITA, D, 1.85, , 05-02-98, Isola della Scala, None
+17, Bismark Ngissah, GHA, F, , , 09-01-98, , None
+18, Massimo Gobbi, ITA, D, 1.82, 76, 31-10-80, Milan, Parma
+19, Lucas Castro, ARG, M, 1.82, 79, 09-04-89, La Plata, Catania
+20, Gennaro Sardo, ITA, D, 1.90, 87, 08-05-79, Pozzuoli, Catania
+21, Nicolas Frey, FRA, D, 1.80, 80, 06-03-84, Nice, Modena
+22, Filippo Pavoni, ITA, G, 1.87, 73, 08-08-99, Verona, None
+23, Valter Birsa, SVN, M, 1.84, 81, 07-08-86, Sempeter pri Gorici, Milan
+25, Raul Oprut, ROU, D, 1.84, 78, 04-01-98, Oțelu Roșu, Genoa
+28, Samuel Bastien, BEL, M, 1.75, 73, 26-09-96, Meux, Anderlecht
+29, Fabrizio Cacciatore, ITA, D, 1.82, 85, 08-10-86, Turin, Sampdoria
+31, Sergio Pellissier, ITA, F, 1.75, 76, 12-04-79, Aosta, Torino
+32, Walter Bressan, ITA, G, 1.82, 78, 26-01-81, Oderzo, Cesena
+45, Roberto Inglese, ITA, F, 1.86, 85, 12-11-91, Lucera, Pescara
+55, Emanuel Vignato, BRA, M, 1.75, 70, 24-08-00, Negrar, None
+56, Perparim Hetemaj, FIN, M, 1.76, 76, 12-12-86, Srbica, Brescia
+69, Riccardo Meggiorini, ITA, F, 1.82, 78, 04-09-85, Isola della Scala, Torino
+70, Stefano Sorrentino, ITA, G, 1.86, 84, 28-03-79, Cava dei Tirreni, Palermo
+77, Michele Troiani, ITA, D, 1.77, 72, 21-07-96, Verona, None
+78, Mohamed Rabbas, MAR, M, 1.78, 70, 29-09-99, Fquih Ben Salah, None
+80, Sofian Kiyine, BEL, M, 1.82, 72, 02-10-97, Verviers, Standard Liège
+90, Andrea Seculin, ITA, G, 1.90, 80, 14-07-90, Gorizia, Fiorentina
+94, N'Diaye Djiby, SEN, M, 1.86, 82, 05-01-94, Thiès, None
+97, Fabio Depaoli, ITA, M, 1.78, 74, 24-04-97, Riva del Garda, None
+98, Alessandro Confente, ITA, G, 1.88, 73, 07-06-98, Soave, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Paul-Jose M'Poku, COD, M, 1.77, 80, 19-04-92, Kinshasa, Panathinaikos (On Loan)
+96, Filippo Damian, ITA, M, 1.80, 70, 21-04-96, Castelfranco Veneto, Como (On Loan)
+27, Vittorio Parigini, ITA, F, 1.80, 73, 25-03-96, Moncalieri, Torino
+36, Filippo Costa, ITA, D, 1.76, 68, 21-05-95, Noventa Vicentina, SPAL (On Loan)
+26, Victor da Silva, BRA, F, 1.78, 72, 04-01-95, Cuiabà, Lupa Roma (On Loan)
+83, Antonio Floro Flores, ITA, F, 1.83, 78, 18-06-83, Naples, Bari (On Loan)
+95, Lamin Jallow, GAM, F, 1.85, 76, 22-07-94, Banjul, Trapani (On Loan)
+22, Yusupha Bobb, GAM, M, 1.75, 70, 22-01-96, Banjul, Padova

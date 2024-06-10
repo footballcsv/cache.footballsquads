@@ -1,0 +1,56 @@
+=  Santos - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Felipe Jonatan, BRA, D, 1.76, 76, 15-02-98, Fortaleza, Ceará
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Monterrey
+8, Jobson, BRA, M, 1.85, 80, 13-09-95, São Paulo, Red Bull Brasil
+9, Léo Baptistão, BRA, F, 1.81, 72, 26-08-92, Santos, Wuhan
+11, Marinho, BRA, F, 1.76, 62, 29-05-90, Penedo, Grêmio
+12, Raniel, BRA, F, 1.81, 76, 11-06-96, Recife, São Paulo
+13, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Grêmio
+14, Wagner Leonardo, BRA, D, 1.83, 63, 23-07-99, Santos, None
+15, Ivonei, BRA, M, 1.80, 71, 16-04-02, Rondonópolis, None
+17, Vinicius Balieiro, BRA, M, 1.77, 68, 28-05-99, Campinas, None
+18, Augusto Galván, BRA, M, 1.72, 69, 25-03-99, Ribeirão Preto, Real Madrid B
+19, Bruno Marques, BRA, F, 1.93, 76, 22-02-99, Recife, Lagarto
+20, Gabriel Pirani, BRA, M, 1.70, 64, 12-02-02, Penápolis, None
+21, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Flamengo
+22, Danilo Boza, BRA, D, 1.84, 76, 06-05-98, Rondonópolis, Mirassol
+23, Marcos Guilherme, BRA, F, 1.72, 62, 05-08-95, Itararé, Internacional
+24, Kevin Malthus, BRA, M, 1.76, 70, 11-01-03, Belém, None
+25, Vinícius Zanocelo, BRA, M, 1.85, 77, 30-01-01, Santo André, Ferroviária
+26, Robson Reis, BRA, D, 1.95, 89, 21-05-00, Vitória da Conquista, VOCEM
+27, Ângelo, BRA, F, 1.73, 65, 21-12-04, Brasília, None
+28, Kaiky, BRA, D, 1.84, 73, 12-01-04, Santos, None
+29, Camacho, BRA, M, 1.81, 73, 02-03-90, Rio de Janeiro, Corinthians
+30, Lucas Braga, BRA, F, 1.84, 70, 10-11-96, São Paulo, Luverdense
+31, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+36, Marcos Leonardo, BRA, F, 1.78, 71, 02-05-03, Itapetinga, None
+37, Matías Lacava, VEN, F, 1.68, 62, 10-10-02, Chacao, Academia Puerto Cabello
+38, Sandry, BRA, M, 1.70, 66, 30-08-02, Itabuana, None
+40, Anderson Ceará, BRA, M, 1.73, 70, 21-05-99, Tianguá, None
+41, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+42, Moraes, BRA, D, 1.70, 65, 03-10-97, Goianira, Atlético Goianiense
+43, Renyer, BRA, F, 1.76, 70, 12-07-03, Rio de Janeiro, None
+47, Luiz Henrique, BRA, M, 1.77, 71, 03-05-99, Mafra, Coritiba
+48, Derick, BRA, D, 1.94, 84, 16-05-02, Santos, None
+49, Lucas Venuto, BRA, F, 1.64, 60, 14-01-95, Governador Valadares, Vancouver Whitecaps
+50, Paulo Mazoti, BRA, G, 1.88, 83, 11-07-00, Ribeirão Pires, None
+52, Diógenes, BRA, G, 1.86, 80, 06-01-01, Itaperica da Serra, Avaí
+61, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Rayo Vallecano
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Genoa
+99, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Atlético Mineiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Jonathan Copete, COL, M, 1.84, 72, 23-01-88, Cali, Avaí
+25, Guilherme Nunes, BRA, M, 1.77, 67, 12-07-98, Novo Hamburgo, Náutico (On Loan)
+1, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, Avaí
+14, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Marseille
+37, Lucas Lourenço, BRA, M, 1.64, 64, 23-01-01, Santos, Londrina (On Loan)
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, Al-Hazem
+9, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, Juventus
+44, Alex, BRA, D, 1.89, 86, 10-05-99, Ribeirão Preto, Famalicão (On Loan)

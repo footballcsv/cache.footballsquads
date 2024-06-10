@@ -1,0 +1,40 @@
+=  Tenerife - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Barcelona B
+2, Luis Pérez, ESP, D, 1.72, 68, 04-02-95, Utrera, Elche
+3, Álex Muñoz, ESP, D, 1.85, 74, 30-07-94, Alicante, Zaragoza
+4, Iker Undabarrena, ESP, M, 1.80, 75, 18-05-95, Gorliz, Athletic Bilbao B
+5, Alberto Jiménez, ESP, D, 1.86, 78, 15-11-92, La Oliva, Tenerife B
+6, Luis Milla, ESP, M, 1.75, 65, 07-10-94, Madrid, Fuenlabrada
+7, Javi Muñoz, ESP, M, 1.77, 71, 28-02-95, Parla, Alavés
+8, Borja Lasso, ESP, M, 1.78, 72, 01-01-94, Seville, Sevilla
+9, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Real Madrid B
+10, Suso, ESP, M, 1.74, 71, 02-03-85, Santa Cruz de Tenerife, Hearts
+11, Álex Bermejo, ESP, F, 1.83, 75, 11-12-98, Barcelona, Espanyol B
+12, Nahuel Leiva, ESP, M, 1.75, 65, 22-10-96, Rosario, Olympiakos
+14, Carlos Ruiz, ESP, D, 1.79, 75, 20-07-83, Baza, Ponferradina
+15, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol
+16, Aitor Sanz, ESP, M, 1.81, 71, 13-09-84, Madrid, Oviedo
+17, Róbert Mazáň, SVK, D, 1.80, 75, 09-02-94, Trenčín, Celta Vigo
+18, Isma López, ESP, M, 1.80, 76, 29-01-90, Pamplona, Omonia Nicosia
+19, Joselu, ESP, F, 1.77, 70, 03-03-91, Cartaya, Oviedo
+20, Ramón Miérez, ARG, F, 1.84, 78, 13-05-97, Resistencia, Alavés
+21, Shaq Moore, USA, D, 1.80, 75, 02-11-96, Powder Springs, Levante B
+23, Nikola Šipčić, SRB, D, 1.92, 83, 17-05-95, Priboj, Rad
+24, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Zaragoza
+25, Dani Hernández, VEN, G, 1.96, 87, 21-10-85, Caracas, Valladolid
+26, Javi Alonso, ESP, M, 1.83, 75, 01-08-98, Santa Cruz de Tenerife, Tenerife B
+28, Elliot, ESP, F, 1.77, 74, 11-06-99, Güímar, Real Madrid B
+29, Jorge, ESP, F, 1.75, 66, 23-04-01, Fuerteventura, Tenerife B
+30, Ignacio Otaño, ESP, G, 1.84, 78, 19-07-95, Azpeitia, Real Unión
+32, Ale Cruz, ESP, M, 1.65, 65, 08-06-99, Santa Cruz de Tenerife, Tenerife B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Ángel Galván, ESP, G, 1.88, 70, 16-04-93, Santa Cruz de Tenerife, 
+19, Samuel Shashoua, ENG, M, 1.76, 66, 13-05-99, Westminster, Atlético Baleares (On Loan)
+7, José Naranjo, ESP, F, 1.82, 73, 28-07-94, Rociana del Condado, AEK Larnaca (On Loan)
+22, Filip Malbašić, SRB, F, 1.83, 73, 18-11-92, Belgrade, Cádiz (On Loan)
+15, Mauro dos Santos, ARG, D, 1.82, 76, 07-07-89, Santo Tomé, Albirex Niigata (On Loan)

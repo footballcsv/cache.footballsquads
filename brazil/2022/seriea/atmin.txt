@@ -1,0 +1,48 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Delfim, BRA, G, 1.89, 91, 10-07-02, Simonésia, None
+2, Guga, BRA, D, 1.77, 66, 29-08-98, Rio de Janeiro, Avaí
+3, Júnior Alonso, PAR, D, 1.85, 80, 09-02-93, Asunción, FC Krasnodar
+4, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Internacional
+5, Otávio, BRA, M, 1.76, 73, 04-05-94, Maceió, Bordeaux
+6, Dodô, BRA, D, 1.77, 75, 06-02-92, Campinas, Sampdoria
+7, Hulk, BRA, F, 1.76, 68, 25-07-86, Campina Grande, Shanghai SIPG
+8, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, Sport Recife
+10, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, UANL Tigres
+11, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, Pyramids FC
+13, Guilherme Arana, BRA, D, 1.76, 70, 14-04-97, São Paulo, Sevilla
+14, Alan Kardec, BRA, F, 1.85, 78, 12-01-89, Barra Mansa, Shenzhen
+15, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, Racing Club
+16, Igor Rabello, BRA, D, 1.90, 87, 28-04-95, Rio de Janeiro, Botafogo
+18, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Santos
+19, Ademir, BRA, F, 1.72, 65, 16-02-95, São Paulo, América Mineiro
+21, Carlos Daniel, BRA, D, 1.73, 78, 23-01-02, Campinas, None
+22, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Santos
+25, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Galatasaray
+26, Ignacio Fernández, ARG, M, 1.82, 77, 12-01-90, Castelli, River Plate
+27, Calebe, BRA, M, 1.73, 66, 30-04-00, Monte Azul, São Paulo
+28, Felipe Felício, BRA, F, 1.84, 66, 06-11-02, Belo Horizonte, None
+29, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Liverpool
+30, Cristian Pavón, ARG, F, 1.69, 65, 21-01-96, Córdoba, Boca Juniors
+31, Matheus Mendes, BRA, G, 1.91, 83, 10-03-99, Governador Valadares, None
+32, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, Cruzeiro
+34, Jemerson, BRA, D, 1.84, 77, 24-08-92, Jeremoabo, Metz
+37, Pedrinho, BRA, M, 1.72, 65, 13-04-98, Maceió, Shakhtar Donetsk
+40, Nathan Silva, BRA, D, 1.82, 79, 06-05-97, Oliveira, None
+41, Neto, BRA, M, 1.78, 76, 11-09-02, Guanambi, None
+44, Rubens, BRA, M, 1.78, 66, 21-06-01, Tumiritinga, None
+51, Hiago, BRA, D, 1.88, 84, 04-03-00, Belo Horizonte, Alverca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Vitor Mendes, BRA, D, 1.86, 70, 13-02-99, Belém, Juventude (On Loan)
+37, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, São Paulo
+30, Dylan Borrero, COL, M, 1.79, 72, 05-01-02, Palmira, New England Revolution
+45, Micael, BRA, D, 1.90, 82, 12-08-00, Presidente Prudente, Houston Dynamo (On Loan)
+17, Jefferson Savarino, VEN, F, 1.69, 66, 11-11-96, Maracaibo, Real Salt Lake
+14, Diego Godín, URU, D, 1.87, 78, 16-02-86, Rosario, Vélez Sarsfield
+33, Sávio, BRA, F, 1.74, 71, 10-04-04, Duque de Caxias, Troyes
+23, Guilherme Castilho, BRA, M, 1.80, 71, 19-09-99, Arapoema, Ceará
+9, Fábio, BRA, F, 1.78, 81, 25-05-97, São Paulo, Vasco da Gama (On Loan)

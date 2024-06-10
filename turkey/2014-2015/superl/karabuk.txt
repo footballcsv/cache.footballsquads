@@ -1,0 +1,39 @@
+=  Karabükspor - Turkish Süper Lig 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aykut Özer, TUR, G, 1.89, 80, 01-01-93, Hanau, Eintracht Frankfurt
+2, Emre Güngör, TUR, D, 1.82, 81, 01-08-84, Istanbul, Antalyaspor
+3, Murat Akça, TUR, D, 1.84, 75, 13-07-90, Istanbul, Sivasspor
+4, Yiğit İncedemir, TUR, M, 1.87, 80, 09-03-85, İzmir, Manisaspor
+5, Emre Sorgun, TUR, D, , , 25-09-95, Karabük, None
+6, Larrys Mabiala, COD, D, 1.89, 84, 08-09-87, Montfermeil, Nice
+7, Abdou Razack Traoré, BFA, M, 1.70, 64, 28-12-88, Abidjan, Gaziantepspor
+8, Hakan Özmert, TUR, M, 1.76, 69, 03-08-85, Nantes, Kasımpaşa
+9, Ahmet İlhan Özek, TUR, M, 1.83, 75, 01-01-88, Aydın, Manisaspor
+10, Valentín Viola, ARG, F, 1.80, 76, 28-08-91, Moreno, Sporting CP
+12, Dominick Kumbela, COD, F, 1.72, 69, 20-04-84, Kinshasa, Eintracht Braunschweig
+13, Bertul Kocabaş, TUR, F, 1.71, 70, 15-02-92, Hamm, Hamburg II
+17, Samba Sow, MLI, M, 1.85, 75, 29-04-89, Bamako, Lens
+18, Aykut Akgün, TUR, M, 1.87, 76, 18-09-87, Bruchsal, Trabzonspor
+20, Furkan Özçal, TUR, M, 1.70, 71, 03-09-90, Munich, Galatasaray
+21, Abdulaziz Demircan, TUR, G, 1.93, 94, 05-02-91, Diyarbakır, Diyarbakır BB
+22, Erdem Özgenç, TUR, D, 1.77, 70, 22-08-84, Sakarya, Boluspor
+23, Tanju Kayhan, AUT, D, 1.72, 74, 22-07-89, Vienna, Beşiktaş
+24, Emre Özkan, TUR, D, 1.82, 76, 24-12-88, Istanbul, Beşiktaş
+25, Joseph Akpala, NGA, F, 1.85, 78, 24-08-86, Jos, Werder Bremen
+33, Fatih Candan, TUR, F, 1.80, 78, 30-12-89, Bottrop, Viktoria Köln
+34, İbrahim Serdar Aydın, TUR, M, 1.80, 70, 19-07-96, Istanbul, Fenerbahçe
+35, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Bursaspor
+39, Erkan Kaş, TUR, M, 1.83, 75, 10-09-91, Tokat, Beşiktaş
+61, Onur Ayık, TUR, F, 1.80, 77, 28-01-90, Walsrode, Elazığspor
+66, Onur Çenik, GER, D, 1.85, 77, 24-09-92, Hagen, Borussia Dortmund II
+78, Alpay Koçaklı, TUR, M, 1.76, 80, 19-09-98, Zonguldak, None
+90, Kuca, CPV, M, 1.81, 63, 02-08-89, Praia, Estoril
+91, Ahmet Burgaz, TUR, G, 1.85, 74, 11-08-91, Karabük, None
+99, Boy Waterman, NED, G, 1.88, 83, 24-01-84, Lelystad, PSV Eindhoven
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Atilla Aybars Garhan, TUR, F, 1.74, 73, 17-05-91, Ankara, 1461 Trabzon
+11, Turgay Bahadır, TUR, F, 1.90, 84, 15-01-84, Vienna, Gaziantep BB

@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2008/09
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [De Graafschap](degraaf.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NAC Breda](nacbreda.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [Roda JC](rodajc.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [FC Volendam](volendam.txt)
+- [Willem II](willem.txt)

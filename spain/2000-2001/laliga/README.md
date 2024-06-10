@@ -1,0 +1,23 @@
+# Spanish La Liga 2000/01
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Barcelona](barce.txt)
+- [Celta Vigo](celta.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Las Palmas](laspalmas.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Numancia](numancia.txt)
+- [Osasuna](osasuna.txt)
+- [Oviedo](oviedo.txt)
+- [Racing Santander](racing.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)
+- [Zaragoza](zaragoza.txt)

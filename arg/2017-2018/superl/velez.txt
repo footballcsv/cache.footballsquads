@@ -1,0 +1,54 @@
+=  Vélez Sarsfield - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alan Aguerre, ARG, G, 1.81, 76, 23-08-90, Capital Federal, None
+2, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Rosario Central
+3, Braian Cufré, ARG, D, 1.79, 82, 15-12-96, Mar del Plata, None
+4, Joaquín Laso, ARG, D, 1.85, 79, 04-07-90, Balcarce, Argentinos Juniors
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, UANL Tigres
+6, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, None
+8, Ricardo Gastón Díaz, ARG, M, 1.70, 63, 13-03-88, Ciudadela, Racing Club
+9, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Watford
+10, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Boca Juniors
+11, Rodrigo Salinas, MEX, F, 1.78, 64, 09-05-88, Puebla, Al-Ettifaq
+12, Gonzalo Yordan, ARG, G, 1.85, 70, 20-03-94, Capital Federal, None
+14, Cristian Núñez, PAR, M, 1.66, 69, 20-09-97, Villa Hayes, None
+15, Joaquín Moreyra, ARG, D, 1.72, 68, 14-03-98, , None
+16, Lucas Robertone, ARG, M, 1.75, 70, 18-03-97, Concordia, None
+17, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+19, Ramiro Cáseres, ARG, F, 1.88, 83, 09-01-94, Ituzaingó, None
+20, Luis Amarilla, PAR, F, 1.82, 74, 25-08-95, Areguá, Libertad
+21, Guido Mainero, ARG, F, 1.78, 68, 23-03-95, Córdoba, Instituto (Córdoba)
+22, Nicolás Delgadillo, ARG, F, 1.77, 70, 02-10-97, Capital Federal, None
+23, Jesús Méndez, ARG, M, 1.79, 73, 01-08-84, San Martín, Toluca
+24, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, None
+25, César Rigamonti, ARG, G, 1.86, 78, 07-04-87, San Agustín, Belgrano (Córdoba)
+26, Matías Vargas, ARG, M, 1.68, 66, 08-05-97, Salta, None
+28, Nicolás Domínguez, ARG, M, 1.79, 73, 28-06-98, Haedo, None
+29, Luis Abram, PER, D, 1.80, 78, 20-02-96, Lima, Sporting Cristal
+30, Hernán De La Fuente, ARG, D, 1.75, 75, 07-01-97, Capital Federal, None
+31, Emiliano Bogado, ARG, M, 1.66, 63, 18-11-97, Ushuaia, None
+32, Mauricio Toni, ARG, D, 1.85, 77, 09-03-98, Comodoro Rivadavia, None
+33, Nazareno Bazán, ARG, F, 1.84, 74, 08-03-99, Haedo, None
+34, Francisco Ortega, ARG, M, 1.80, 76, 19-03-99, Santa Fe, None
+35, Santiago Cáseres, ARG, M, 1.77, 77, 25-02-97, Parque Leloir, None
+36, Gianluca Mancuso, ARG, M, 1.72, 68, 03-02-98, Capital Federal, None
+37, Gonzalo Rodríguez, ARG, M, 1.74, 67, 04-10-97, Boulogne Sur Mer, None
+38, Matías Borgogno, ARG, G, 1.80, 72, 21-08-98, Córdoba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Federico Andrada, ARG, F, 1.79, 74, 03-03-94, Carapachay, River Plate
+19, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, PSV Eindhoven (On Loan)
+21, Agustín Doffo, ARG, M, 1.79, 74, 25-05-95, Oliva, Independiente (Oliva)
+23, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, Vasco da Gama
+29, Eric Jerez, ARG, D, 1.75, 74, 20-08-94, Santa Rosa, 
+14, Matías Pérez Acuña, ARG, D, 1.76, 72, 09-02-94, Capital Federal, Tigre
+4, Emiliano Amor, ARG, D, 1.83, 80, 16-05-95, Capital Federal, Sporting Kansas C (On Loan)
+7, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, 
+9, Gonzalo Bergessio, ARG, F, 1.78, 72, 20-07-84, Córdoba, Nacional [URU]
+10, Jorge Correa, ARG, F, 1.70, 70, 04-04-93, San Martín, Marítimo
+15, Fabricio Alvarenga, ARG, M, 1.78, 76, 17-02-96, Puerto Rico, Coritiba (On Loan)
+12, Tomás Figueroa, ARG, G, 1.80, 73, 20-04-95, Capital Federal, De-Registered
+27, Gonzalo Yordan, ARG, G, 1.85, 70, 20-03-94, Capital Federal, Re-Registered (12)

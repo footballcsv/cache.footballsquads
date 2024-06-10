@@ -1,0 +1,48 @@
+=  Corinthians - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Michel, BRA, D, 1.76, 72, 15-02-90, Rio de Janeiro, Las Palmas
+3, Jemerson, BRA, D, 1.84, 77, 24-08-92, Jeremoabo, Monaco
+4, Gil, BRA, D, 1.90, 89, 12-06-87, Campos dos Goytacazes, Shandong Luneng
+5, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Monte Azul
+6, Lucas Piton, BRA, D, 1.75, 64, 09-10-00, Jundiaí, None
+7, Luan, BRA, M, 1.80, 71, 27-03-93, São José do Rio Preto, Grêmio
+8, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Grêmio
+10, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Atlético Mineiro
+11, Rómulo Otero, VEN, M, 1.65, 66, 09-11-92, El Tigre, Atlético Mineiro
+12, Cássio, BRA, G, 1.95, 92, 06-06-87, Veranópolis, PSV Eindhoven
+13, Léo Santos, BRA, D, 1.86, 80, 09-12-98, São Paulo, None
+14, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Montevideo Wanderers
+15, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, Cruzeiro
+17, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, León
+18, Léo Natel, BRA, F, 1.79, 73, 14-03-97, Porto Alegre, São Paulo
+19, Gustavo Silva, BRA, F, 1.69, 63, 07-09-97, Campo Largo, Coritiba
+20, Camacho, BRA, M, 1.81, 73, 02-03-90, Rio de Janeiro, Audax
+21, Ángelo Araos, CHI, M, 1.74, 63, 06-01-97, Antofagasta, Universidad de Chile
+22, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Vasco da Gama
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, Wolfsburg
+24, Víctor Cantillo, COL, M, 1.80, 78, 15-10-91, Ciénaga, Junior
+25, Marllon, BRA, D, 1.81, 75, 16-04-92, Rio de Janeiro, Cianorte
+26, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Atlético Mineiro
+27, Walter, BRA, G, 1.88, 82, 18-11-87, Jaú, União Barbarense
+28, Jonathan Cafú, BRA, F, 1.75, 68, 10-07-91, Piracicaba, Al-Hazem
+29, Roni, BRA, M, 1.74, 68, 15-04-99, São Paulo, None
+30, Ronald, BRA, D, 1.84, 75, 01-05-00, Guarujá, None
+31, Gustavo Mantuan, BRA, M, 1.76, 66, 20-06-01, São Paulo, None
+32, Matheus Donelli, BRA, G, 1.89, 76, 17-05-02, São Paulo, None
+33, Matheus Davó, BRA, F, 1.78, 68, 16-08-99, São Paulo, Guarani
+34, Raul Gustavo, BRA, D, 1.90, 78, 24-04-99, Minas Gerais, None
+35, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Torino
+36, Ruan Oliveira, BRA, M, 1.76, 68, 23-03-00, Paraíso do Norte, Metropolitano
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Velo Clube
+38, Gabriel Pereira, BRA, M, 1.75, 68, 01-08-01, São Paulo, None
+39, Xavier, BRA, M, 1.83, 79, 02-03-00, Mococa, None
+40, Guilherme Vicentini, BRA, G, 1.88, 80, 25-05-00, Jundiaí, None
+77, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Nagoya Grampus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Janderson, BRA, F, 1.61, 58, 26-02-99, Barreiras, Atlético Goianiense (On Loan)
+30, Carlos Augusto, BRA, D, 1.84, 75, 07-01-99, Campinas, Monza
+16, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, Dynamo Kyiv

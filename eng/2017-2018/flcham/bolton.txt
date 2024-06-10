@@ -1,0 +1,47 @@
+=  Bolton Wanderers - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mark Little, ENG, D, 1.85, 81, 20-08-88, Worcester, Bristol C
+3, Andrew Taylor, ENG, D, 1.78, 69, 01-08-86, Hartlepool, Wigan Ath
+4, Dorian Dervite, FRA, D, 1.92, 85, 25-07-88, Lille, Charlton Ath
+5, Mark Beevers, ENG, D, 1.93, 80, 21-11-89, Barnsley, Millwall
+6, Josh Vela, ENG, M, 1.81, 73, 14-12-93, Salford, None
+7, Chris Taylor, ENG, M, 1.83, 73, 20-12-86, Oldham, Blackburn R
+8, Jem Karacan, TUR, M, 1.78, 76, 21-02-89, Catford, Galatasaray
+9, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Cardiff C
+10, Sammy Ameobi, ENG, F, 1.90, 66, 01-05-92, Newcastle upon Tyne, Newcastle U
+11, Will Buckley, ENG, M, 1.83, 83, 12-08-88, Oldham, Sunderland
+12, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazakerley, Cardiff C
+13, Ben Alnwick, ENG, G, 1.88, 80, 01-01-87, Prudhoe, Peterborough U
+14, Jon Flanagan, ENG, D, 1.81, 79, 21-01-93, Liverpool, Liverpool
+15, Antonee Robinson, ENG, D, 1.83, 73, 08-08-97, Milton Keynes, Everton
+17, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Real Madrid B
+18, Aaron Wilbraham, ENG, F, 1.91, 72, 21-10-79, Knutsford, Bristol C
+19, Tyler Walker, ENG, F, 1.79, 63, 07-10-96, Nottingham, Nottingham F
+20, Harry Charsley, IRL, M, 1.78, 64, 01-11-96, Birkenhead, Everton
+21, Darren Pratley, ENG, M, 1.85, 69, 22-04-85, Barking, Swansea C
+22, Filipe Morais, POR, M, 1.75, 73, 21-11-85, Lisbon, Bradford C
+23, Stephen Darby, ENG, D, 1.82, 79, 06-10-88, Liverpool, Bradford C
+24, Karl Henry, ENG, M, 1.83, 76, 26-11-82, Wolverhampton, QPR
+25, Chinedu Obasi, NGA, F, 1.83, 82, 01-06-86, Enugu, AIK
+27, Jan Kirchhoff, GER, M, 1.95, 90, 01-10-90, Frankfurt am Main, Sunderland
+31, David Wheater, ENG, D, 1.96, 82, 14-02-87, Redcar, Middlesbrough
+32, Reece Burke, ENG, D, 1.89, 81, 02-09-96, Newham, West Ham U
+33, Mark Howard, ENG, G, 1.83, 76, 21-09-86, Southwark, Sheffield U
+34, Jeff King, ENG, M, 1.75, 80, 19-12-95, Liverpool, Droylsden
+35, Connor Hall, ENG, F, 1.80, 77, 18-02-98, Slough, Sheffield U
+36, Harry Brockbank, ENG, D, 1.80, 80, 26-09-98, Bolton, None
+37, Alex Perry, ENG, M, 1.75, 75, 04-03-98, Liverpool, None
+38, Jack Earing, ENG, M, 1.82, 80, 21-01-99, Bury, None
+39, Jake Turner, ENG, G, 1.94, 82, 25-02-99, Wilmslow, None
+40, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Nottingham F
+41, Ryan White, ENG, M, , , 09-11-98, , None
+42, Cole Lonsdale, ENG, D, 1.70, 72, 16-06-99, Bolton, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Charlton Ath (On Loan)
+16, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, West Ham U
+20, Adam Armstrong, ENG, F, 1.72, 69, 10-02-97, Newcastle upon Tyne, Newcastle U
+14, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Cardiff C

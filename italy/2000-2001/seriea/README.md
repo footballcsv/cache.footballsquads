@@ -1,0 +1,21 @@
+# Italian Serie A 2000/01
+
+18 teams
+- [Atalanta](atalanta.txt)
+- [Bari](bari.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)
+- [Vicenza](vicenza.txt)

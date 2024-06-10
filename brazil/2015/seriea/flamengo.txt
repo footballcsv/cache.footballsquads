@@ -1,0 +1,48 @@
+=  Flamengo - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Pablo Armero, COL, D, 1.74, 81, 02-11-86, Tumaco, Udinese
+3, César, BRA, D, 1.90, 78, 28-12-92, Mairinque, Benfica
+4, Samir, BRA, D, 1.88, 80, 05-12-94, Rio de Janeiro, Audax Rio
+7, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, Atlético Paranaense
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Palmeiras
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Corinthians
+10, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Lazio
+11, Emerson, BRA, F, 1.71, 69, 06-12-78, Nova Iguaçu, Corinthians
+13, Marcelo, BRA, D, 1.86, 80, 26-08-91, Juiz de Fora, Cianorte
+14, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Corinthians
+15, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, None
+17, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Bahia
+18, Jonas, BRA, M, 1.80, 79, 03-10-91, Teresina, Sampaio Corrêa
+19, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, Shakhtar Donetsk
+20, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, Vélez Sarsfield
+21, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Grêmio
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, UANL Tigres
+26, Paulinho, BRA, F, 1.77, 63, 14-06-88, Guarulhos, XV de Piracicaba
+27, Kayke, BRA, F, 1.82, 72, 01-04-88, Brasília, ABC
+28, Almir, BRA, M, 1.77, 75, 20-05-82, Santa Rita, Bangu
+29, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, Porto-PE
+30, Matheus Sávio, BRA, M, 1.72, 66, 15-04-97, Ribeirão Preto, Desportivo Brasil
+31, Douglas Baggio, BRA, F, 1.72, 68, 02-02-95, Jaboatão dos Guararapes, None
+32, Ayrton, BRA, D, 1.76, 73, 19-04-85, Piracicaba, Palmeiras
+34, Rafael Dumas, BRA, D, 1.84, 80, 13-03-95, Rio de Janeiro, None
+35, Jajá, BRA, M, 1.78, 70, 18-03-95, Rio de Janeiro, None
+36, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, None
+37, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+38, Daniel, BRA, G, 1.88, 80, 19-04-95, Rio de Janeiro, None
+39, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, None
+40, Thiago Santos, BRA, F, 1.78, 70, 12-04-95, Mari, Duque de Caxias
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Alecsandro, BRA, F, 1.83, 80, 04-02-81, Bauru, Palmeiras
+16, Thallyson, BRA, D, 1.75, 70, 01-12-91, Campo Alegre, ASA
+25, Lucas Mugni, ARG, M, 1.81, 76, 12-01-92, Santa Fe, Newell's Old Boys (On Loan)
+23, Eduardo, CRO, F, 1.77, 70, 25-02-83, Rio de Janeiro, Shakhtar Donetsk
+19, Arthur Maia, BRA, M, 1.70, 63, 13-10-92, Maceió, Vitória
+3, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, Grêmio
+5, Víctor Cáceres, PAR, M, 1.82, 77, 25-03-85, Asunción, Al-Rayyan
+6, Anderson Pico, BRA, D, 1.69, 75, 04-11-88, Porto Alegre, Dnipro Dnipropetrosk (On Loan)
+33, Rodrigo Frauches, BRA, D, 1.85, 77, 28-09-92, São João de Meriti, Macaé (On Loan)

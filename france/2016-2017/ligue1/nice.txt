@@ -1,0 +1,44 @@
+=  Nice - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Arnaud Souquet, FRA, D, 1.79, 70, 12-02-92, Paris, Dijon
+3, Gautier Lloris, FRA, D, 1.91, 83, 18-07-95, Nice, None
+4, Paul Baysse, FRA, D, 1.84, 82, 15-05-88, Bordeaux, St-Etienne
+5, Younès Belhanda, MAR, M, 1.74, 75, 25-02-90, Avignon, Dynamo Kyiv
+6, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Paços de Ferreira
+8, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, Nancy
+9, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Liverpool
+10, Mickaël Le Bihan, FRA, F, 1.84, 74, 16-05-90, Ploemeur, Le Havre
+11, Bassem Srarfi, TUN, M, 1.76, 71, 25-06-97, Tunis, Club Africain
+12, Albert Rafetraniaina, MAD, M, 1.76, 66, 09-09-96, Ambohitrony, None
+13, Valentin Eysseric, FRA, M, 1.81, 73, 25-03-92, Aix-en-Provence, Monaco
+14, Alassane Pléa, FRA, M, 1.80, 72, 10-03-93, Lille, Lyon
+15, Patrick Burner, FRA, D, 1.70, 65, 11-04-96, Fort-de-France, None
+16, Simon Pouplin, FRA, G, 1.87, 79, 28-05-85, Cholet, Sochaux
+18, Rémi Walter, FRA, M, 1.74, 73, 26-04-95, Essey-les-Nancy, Nancy
+19, Bryan Constant, FRA, F, 1.72, 65, 27-03-94, Fréjus, None
+20, Maxime Le Marchand, FRA, D, 1.80, 68, 10-11-89, Saint Malo, Le Havre
+21, Ricardo Pereira, POR, D, 1.75, 70, 06-10-93, Lisbon, FC Porto
+22, Anastasios Donis, GRE, F, 1.76, 75, 29-08-96, Blackburn, Juventus
+23, Alexy Bosetti, FRA, F, 1.72, 66, 23-04-93, Nice, None
+24, Mounir Obbadi, MAR, M, 1.72, 65, 04-04-83, Meulan, Lille
+25, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, Lens
+26, Vincent Koziello, FRA, M, 1.68, 58, 28-10-95, Grasse, None
+28, Oliver Boscagli, FRA, D, 1.81, 68, 18-11-97, Monaco, None
+29, Dalbert, BRA, D, 1.82, 74, 08-09-93, Rio de Janeiro, Vitória Guimarães
+30, Yoan Cardinale, FRA, G, 1.81, 84, 27-03-94, La Ciotat, None
+31, Dante, BRA, D, 1.87, 82, 18-10-83, Salvador, Wolfsburg
+32, Malang Sarr, FRA, D, 1.82, 73, 23-01-99, Nice, None
+33, Vincent Marcel, FRA, M, 1.80, 65, 09-04-97, Basse Terre, None
+40, Walter Benítez, ARG, G, 1.91, 86, 19-03-93, Chaco, Quilmes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Kévin Gomis, FRA, D, 1.86, 85, 20-01-89, Paris, Dundee
+15, Lucas Rougeaux, FRA, D, 1.86, 84, 10-03-94, Grasse, Kortrijk
+27, Dorian Caddy, FRA, F, 1.86, 87, 20-03-95, Cagnes-sur-Mer, Clermont (On Loan)
+11, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, Gazélec Ajaccio (On Loan)
+24, Mathieu Bodmer, FRA, M, 1.90, 91, 22-11-82, Evreux, Guingamp
+1, Mouez Hassen, FRA, G, 1.84, 70, 05-03-95, Fréjus, Southampton (On Loan)
+7, Julien Vercauteren, BEL, M, 1.70, 66, 12-01-93, Sint-Agatha-Berchem, Split

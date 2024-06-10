@@ -1,0 +1,36 @@
+=  Dijon - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Leroy, FRA, G, 1.83, 68, 07-04-89, Cucq, Évian TG
+2, Ádám Lang, HUN, D, 1.88, 83, 17-01-93, Veszprém, Videoton
+3, Anthony Belmonte, FRA, M, 1.85, 72, 16-10-95, Istres, Istres
+4, Jordan Lotiès, FRA, D, 1.87, 77, 05-08-84, Clermont-Ferrand, Osasuna
+5, Oussama Haddadi, TUN, D, 1.88, 79, 28-01-92, Tunis, Club Africain
+6, Guillaume Sarrabayrouse, FRA, M, 1.80, 68, 14-06-97, Toulouse, Colomiers
+7, Yohann Rivière, FRA, F, 1.85, 81, 18-08-84, Pont-l'Abbé, Le Havre
+8, Pierre Lees-Melou, FRA, M, 1.85, 67, 25-05-93, Langon, Lège-Cap-Ferret
+9, Loïs Diony, FRA, F, 1.83, 80, 20-12-92, Mont-de-Marsan, Mont-de-Marsan
+10, Jérémie Bela, FRA, M, 1.73, 69, 08-04-93, Melun, Lens
+11, Julio Tavares, CPV, F, 1.87, 86, 19-11-88, Tarrafal de São Nicolau, Bourg-Péronnas
+13, Marvin Martin, FRA, M, 1.71, 63, 10-06-88, Paris, Lille
+14, Jordan Marié, FRA, M, 1.77, 69, 29-09-91, Épinal, None
+15, Florent Balmont, FRA, M, 1.68, 71, 02-02-80, Sainte-Foy-les-Lyon, Lille
+16, Bobby Allain, FRA, G, 1.85, 75, 28-11-91, Clamart, Red Star
+17, Mehdi Abeid, ALG, M, 1.78, 77, 06-08-92, Montreuil, Panathinaikos
+18, Frédéric Sammaritano, FRA, M, 1.62, 61, 23-03-86, Vannes, Auxerre
+19, Valentin Rosier, FRA, M, 1.75, 70, 19-08-96, Montauban, Rodez
+20, Romain Amalfitano, FRA, M, 1.75, 69, 27-08-89, Nice, Newcastle U
+21, Yunis Abdelhamid, FRA, D, 1.89, 84, 28-09-87, Montpellier, Valenciennes
+22, Kwon Chang-Hoon, KOR, M, 1.74, 66, 30-06-94, Seoul, Suwon Samsung Bluewings
+23, Vincent Ruefli, SUI, D, 1.80, 76, 22-01-88, Carouge, Sion
+24, Dylan Bahamboula, FRA, M, 1.85, 65, 22-05-95, Grigny, Monaco
+25, Arnold Bouka Moutou, CGO, D, 1.75, 69, 28-11-88, Reims, Angers
+26, Fouad Chafik, MAR, D, 1.83, 72, 16-10-86, Pierrelatte, Laval
+27, Cédric Varrault, FRA, D, 1.82, 70, 30-01-80, Blois, Panionios
+30, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Lorient
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Quentin Bernard, FRA, D, 1.83, 76, 07-07-89, Poitiers, Brest
+22, Johan Gastien, FRA, M, 1.80, 67, 25-01-88, Niort, Brest

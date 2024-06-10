@@ -1,0 +1,51 @@
+=  Udinese - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Orestis Karnezis, GRE, G, 1.89, 79, 11-07-85, Athens, Panathinaikos
+3, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, Flamengo
+4, Gabriele Angella, ITA, D, 1.89, 88, 28-04-89, Florence, Watford
+5, Danilo, BRA, D, 1.85, 75, 10-05-84, São Bernardo do Campo, Desportivo Brasil
+6, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Bastia
+7, Assane Gnoukouri, CIV, M, 1.80, 77, 28-09-96, Divo, Internazionale
+8, Emmanuel Agyemang-Badu, GHA, M, 1.73, 71, 02-12-90, Berekum, Berekum Arsenal
+9, Duván Zapata, COL, F, 1.89, 88, 01-04-91, Cali, Napoli
+10, Rodrigo De Paul, ARG, M, 1.80, 70, 24-05-94, Sarandí, Valencia
+13, Mathias Ranégie, SWE, F, 1.97, 92, 14-06-84, Johannesburg, Watford
+14, Jakub Jankto, CZE, M, 1.80, 73, 19-01-96, Prague, Slavia Prague
+18, Stipe Perica, CRO, F, 1.92, 76, 07-07-95, Zadar, Chelsea
+19, Ryder Matos, BRA, F, 1.80, 71, 27-02-93, Seabra, Fiorentina
+22, Simone Scuffet, ITA, G, 1.90, 75, 31-05-96, Udine, None
+23, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Verona
+25, Samuele Perisan, ITA, G, 1.91, 78, 21-08-97, San Vito al Tagliamento, None
+26, Sven Kums, BEL, M, 1.76, 63, 26-02-88, Asse, Watford
+27, Silvan Widmer, SUI, D, 1.83, 81, 05-03-93, Aarau, Granada
+30, Felipe, BRA, D, 1.88, 75, 31-07-84, Guaratingueta, Internazionale
+34, Gabriel Silva, BRA, D, 1.79, 74, 13-05-91, Piracicaba, Granada
+37, Marco Davide Faraoni, ITA, D, 1.80, 73, 25-10-91, Bracciano, Watford
+53, Ali Adnan, IRQ, D, 1.85, 71, 19-12-93, Baghdad, Rizespor
+60, Edoardo Bovolon, ITA, M, 1.83, 78, 05-06-98, Udine, None
+61, Davide Borsellini, ITA, G, 1.80, 69, 04-01-99, Rome, Paganese
+62, Alberto Parpinel, ITA, D, 1.85, , 27-03-98, Pordenone, None
+63, Luca Scordino, ITA, G, , , 23-02-00, Gorizia, None
+64, Filip Vaško, SVK, D, 1.91, 78, 11-08-99, Rožňava, VSS Košice
+65, Frank Djoulou, CIV, F, 1.80, , , Okrouyo, None
+75, Thomas Heurtaux, FRA, D, 1.85, 81, 03-07-88, Lisieux, Caen
+77, Cyril Théreau, FRA, F, 1.89, 78, 24-04-83, Privas, Chievo Verona
+92, Igor Bubnjić, CRO, D, 1.88, 83, 17-07-92, Split, Slaven Belupo
+95, Lucas Evangelista, BRA, M, 1.81, 79, 06-05-95, Limeira, São Paulo
+96, Ewandro, BRA, F, 1.74, 61, 15-03-96, Recife, São Paulo
+98, Panagiotis Armenakas, AUS, M, 1.78, 67, 05-08-98, Newport Beach, Watford
+99, Andrija Balić, CRO, M, 1.80, 71, 11-08-97, Split, Hajduk Split
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Hamdi Harbaoui, TUN, F, 1.85, 81, 05-01-85, Bizerte, Anderlecht
+92, Yrondu Musavu-King, GAB, D, 1.86, 83, 08-01-92, Libreville, Toulouse (On Loan)
+7, Pablo Armero, COL, D, 1.74, 81, 02-11-86, San Andrés de Tumaco, Bahia
+11, Adalberto Peñaranda, VEN, M, 1.83, 78, 31-05-97, El Vigia, Watford
+61, Luca Magnino, ITA, M, 1.85, 78, 13-08-97, Pordenone, Casertana (On Loan)
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Granada (On Loan)
+2, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Granada
+20, Francesco Lodi, ITA, M, 1.82, 70, 23-03-84, Naples, 
+21, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Internacional (On Loan)

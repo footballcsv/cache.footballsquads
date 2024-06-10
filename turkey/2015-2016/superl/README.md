@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2015/16
+
+18 teams
+- [Akhisar Belediyespor](akhisar.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [İstanbul Başakşehir](istanbul.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Mersin İdman Yurdu](mersin.txt)
+- [Osmanlıspor](osmanli.txt)
+- [Rizespor](rizespor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

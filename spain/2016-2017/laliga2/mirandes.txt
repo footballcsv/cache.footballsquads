@@ -1,0 +1,36 @@
+=  Mirandés - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Pérez, ESP, G, 1.80, 75, 15-05-93, Vitoria-Gasteiz, Alavés B
+2, Álex Quintanilla, ESP, D, 1.84, 78, 02-07-90, Bilbao, Almería
+3, Gorka Kijera, ESP, D, 1.76, 74, 26-05-86, Hernani, Eibar
+4, Carlos Lázaro, ESP, M, 1.79, 76, 13-11-90, Olmedo, Hércules
+5, Fran Cruz, ESP, D, 1.86, 72, 14-09-92, Córdoba, Rapid București
+6, Álex Ortiz, ESP, D, 1.84, 76, 25-09-85, Seville, Alavés
+7, Iker Guarrotxena, ESP, M, 1.77, 67, 06-12-92, Bilbao, Athletic Bilbao B
+8, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Real Sociedad B
+9, Urko Vera, ESP, F, 1.90, 85, 14-05-87, Barakaldo, Huesca
+10, Alain Oyarzun, ESP, M, 1.82, 73, 27-09-93, San Sebastián, Real Sociedad
+11, Daniel Provencio, ESP, M, 1.78, 75, 07-10-87, Madrid, CFR Cluj
+12, Pedro Martín, ESP, F, 1.91, 76, 16-01-92, Málaga, Celta Vigo B
+13, Roberto Gutiérrez, ESP, G, 1.83, 79, 15-03-91, Tenerife, Tenerife
+14, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Osasuna
+15, Carlos Moreno, ESP, D, 1.80, 75, 14-02-92, Albacete, Albacete
+16, Íñigo Eguaras, ESP, M, 1.81, 76, 07-03-92, Antsoain, Sabadell
+17, Álvaro Bustos, ESP, M, 1.73, 70, 26-06-95, Gijón, Sporting Gijón B
+18, Jon Aurtenetxe, ESP, D, 1.82, 78, 03-01-92, Bizkaia, Athletic Bilbao
+19, Fofo, ESP, F, 1.82, 75, 02-03-90, Palma de Mallorca, Llagostera
+20, Ruymán, ESP, D, 1.83, 75, 15-10-86, Las Palmas, Llagostera
+21, Nestor Salinas, ESP, F, 1.87, 80, 28-02-93, Cabanillas, Athletic Bilbao B
+22, Álex García, ESP, M, 1.85, 83, 24-09-84, Bilbao, Tenerife
+23, Javi Hervás, ESP, M, 1.76, 78, 09-06-89, Córdoba, Željezničar
+24, Rúper, ESP, M, 1.80, 76, 04-06-87, Estella, Jaén
+25, Fernando Usero, ESP, M, 1.78, 78, 27-03-84, Puertollano, Atromitos
+26, Moussa Traoré, GUI, G, 1.84, 72, 08-05-95, , Mirandés B
+27, Andrés del Olmo, ESP, M, 1.80, 75, 24-03-94, Miranda de Ebro, Mirandés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Abdón Prats, ESP, F, 1.81, 79, 17-02-92, Artà, Racing Santander
+22, Pau Cendrós, ESP, D, 1.76, 71, 01-04-87, Palma de Mallorca, 

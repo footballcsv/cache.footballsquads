@@ -1,0 +1,54 @@
+=  Konyaspor - Turkish Süper Lig 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Orkun Uşak, TUR, G, 1.83, 78, 05-11-80, Istanbul, Manisaspor
+2, Selim Ay, TUR, D, 1.84, 75, 31-07-91, Antalya, None
+3, Bassim Abbas, IRQ, D, 1.65, 60, 01-07-82, Baghdad, Diyarbakırspor
+4, Erdinç Yavuz, TUR, D, 1.87, 78, 04-10-78, Kayseri, Diyarbakırspor
+6, Kamil Zayatte, GUI, D, 1.87, 90, 07-03-85, Conakry, Hull C
+9, Thierry Fidjeu-Tazemeta, EQG, F, 1.79, 77, 13-10-82, Douala, Diyarbakırspor
+11, Johnnier Montaño, COL, M, 1.77, 81, 14-01-83, Cali, Alianza Lima
+14, Serkan Şahin, TUR, D, 1.75, 67, 15-02-88, , Basel
+17, Mehmet Sedef, TUR, D, 1.80, 73, 05-08-87, Kilis, Beşiktaş
+19, Tolga Ünlü, TUR, M, 1.80, 70, 10-09-89, Erlenbach am Main, None
+20, Veli Acar, TUR, M, 1.74, 69, 30-08-81, Kelekçi, Bursaspor
+21, Murat Tosun, TUR, M, 1.83, 76, 26-02-84, Berlin, Trabzonspor
+22, Marcin Robak, POL, F, 1.82, 78, 29-11-82, Legnica, Widzew Łódź
+23, Barbaros Barut, TUR, M, 1.82, 72, 26-01-83, Munich, Ankaragücü
+24, Kanfory Sylla, GUI, M, 1.84, 90, 07-07-80, Conakry, İstanbul BB
+27, Peter Grajciar, SVK, M, 1.82, 76, 17-09-83, Zvolen, Slavia Prague
+28, Emre Yüksektepe, TUR, M, 1.76, , 29-09-91, Beyoğlu, Galatasaray
+30, Muamer Salibašić, BIH, M, 1.84, 80, 03-12-84, Tuzla, Omladinac Mionica
+33, Álvaro Mejía, ESP, D, 1.81, 71, 18-01-82, Madrid, Arles-Avignon
+35, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Galatasaray
+38, Hakan Aslantaş, TUR, D, 1.81, 76, 26-08-85, Nürtingen, Kayserispor
+42, Ali Dere, TUR, F, 1.76, 69, 29-09-92, Bolvadin, None
+44, Mahamadou "Badou" Kéré, BFA, M, 1.81, 77, 02-01-82, Ouagadougou, Charleroi
+55, Adnan Güngör, TUR, D, 1.79, 74, 20-09-80, Samsun, Diyarbakırspor
+58, Ertuğrul Arslan, TUR, M, 1.67, 67, 26-01-80, Sivas, Antalyaspor
+61, Ufukhan Bayraktar, TUR, D, 1.75, 67, 09-01-86, Trabzon, Rizespor
+70, Gökhan Emreciksin, TUR, M, 1.80, 74, 10-09-84, Istanbul, Manisaspor
+71, Serbay Yağız, TUR, F, , , 19-08-91, İmranlı, None
+77, Mehmet Batdal, TUR, F, 1.95, 89, 24-02-86, İzmir, Galatasaray
+81, Mariusz Pawełek, POL, G, 1.85, 81, 17-03-81, Lubomia, Wisła Kraków
+91, Ali Kireş, TUR, D, , , 24-01-91, Meram, None
+92, Onur Nazmi Terzioğlu, TUR, G, , , 26-04-90, Korkuteli, Batman Petrolspor
+93, Abdülkerim Kılıç, TUR, M, , , 12-04-93, Konya, None
+98, Ercüment Kafkasyalı, TUR, G, 1.87, 75, 13-09-85, Ankara, Gençlerbirliği
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Jonas Troest, DEN, D, 1.85, 82, 04-03-85, Copenhagen, Odense
+34, Emrah Eren, TUR, D, 1.75, 72, 13-11-78, Istanbul, Denizlispor
+5, Emre Toraman, TUR, M, 1.79, 75, 05-01-79, Samsun, Erciyesspor
+15, Burak Karaduman, TUR, M, 1.74, 74, 23-02-85, Ankara, Mersin İdman Yurdu
+39, Ivan Lietava, SVK, F, 1.89, 88, 20-07-83, Bratislava, MŠK Žilina
+12, Eser Yağmur, TUR, F, 1.89, 76, 29-05-83, Berlin, Erciyesspor
+7, Erdal Kılıçaslan, TUR, M, 1.79, 73, 23-08-84, Munich, Gençlerbirliği
+8, Ramazan Kahya, TUR, M, 1.76, 69, 16-09-84, Bornova, Göztepe
+18, Ibrahima Bangoura, GUI, M, 1.72, 72, 08-12-82, Conakry, Khazar Lankaran
+88, Bořek Dočkal, CZE, M, 1.82, 71, 30-09-88, Městec Králové, Slovan Liberec
+13, Martin Klein, CZE, D, 1.87, 85, 02-07-84, Brno, 
+99, Gökhan Tokgöz, TUR, G, 1.87, 75, 22-04-79, Merzifon, 
+25, İbrahim Ege, TUR, M, 1.74, 69, 03-02-83, Erzurum, Mersin İdman Yurdu

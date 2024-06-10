@@ -1,0 +1,46 @@
+=  Universidad Católica - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Peranic, ARG, G, 1.84, 80, 02-06-85, Ituzaingó, Deportes Melipilla
+2, Germán Lanaro, ARG, D, 1.86, 84, 21-03-86, Villa Regina, Palestino
+3, Cristóbal Finch, CHI, D, 1.82, 77, 01-06-02, Providencia, None
+4, Aaron Astudillo, VEN, D, 1.75, 67, 17-04-00, Puerto Ordaz, None
+5, Yamil Asad, ARG, M, 1.79, 75, 27-07-94, Capital Federal, DC United
+7, Tomás Asta-Buruaga, CHI, D, 1.85, 70, 11-10-96, Las Condes, Deportes Antofagasta
+8, Ignacio Saavedra, CHI, M, 1.72, 63, 12-01-99, Yumbel, None
+9, Fernando Zampedri, ARG, F, 1.85, 83, 14-02-88, Chajarí, Rosario Central
+11, Luciano Aued, ARG, M, 1.78, 70, 01-03-87, La Plata, Racing Club
+12, José Martín Ballesteros, CHI, G, 1.92, 70, 04-05-02, Las Condes, None
+13, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Bolívar
+14, Fabián Orellana, CHI, F, 1.69, 68, 27-01-86, Santiago, Valladolid
+15, Cristián Cuevas, CHI, D, 1.71, 64, 02-04-95, Rancagua, Huachipato
+16, Clemente Montes, CHI, F, 1.70, 65, 25-04-01, Vitacura, None
+17, Branco Ampuero, CHI, D, 1.82, 82, 19-07-93, Carelmapu, Deportes Antofagasta
+19, José Pedro Fuenzalida, CHI, D, 1.70, 67, 22-02-85, Santiago, Boca Juniors
+20, Gonzalo Tapia, CHI, F, 1.78, 78, 18-02-02, Las Condes, None
+21, Raimundo Rebolledo, CHI, D, 1.71, 63, 14-05-97, Concepción, None
+22, Juan Leiva, CHI, M, 1.81, 78, 11-11-93, Chillán, Unión La Calera
+23, Daniel Gónzalez, CHI, D, 1.83, 72, 20-02-02, Valparaíso, Santiago Wanderers
+24, Alfonso Parot, CHI, D, 1.80, 74, 15-10-89, Talca, Rosario Central
+25, Sebastián Pérez, CHI, G, 1.80, 76, 02-12-90, Viña del Mar, Deportes Iquique
+28, Thomas Gillier, CHI, G, 1.86, 73, 28-05-04, Las Condes, None
+29, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Altay
+31, Bryan González, CHI, M, 1.67, 65, 23-02-03, Quillota, None
+33, Luis Muñoz, CHI, M, 1.86, 79, 08-11-03, -, None
+43, Diego Ossa, CHI, F, 1.78, 68, 14-04-04, Santiago, None
+44, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Flamengo
+45, Franco Orellana, CHI, M, 1.74, 65, 03-04-04, -, None
+55, Gary Kagelmacher, URU, D, 1.83, 80, 21-04-88, Montevideo, León
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Sebastián Galani, CHI, M, 1.77, 70, 17-08-97, Coquimbo, Coquimbo Unido
+29, César Munder, CUB, M, 1.65, 57, 07-01-00, Havana, Cobresal (On Loan)
+23, Bruno Barticciotto, CHI, F, 1.75, 70, 07-05-01, Vitacura, Palestino (On Loan)
+18, Diego Buonanotte, ARG, M, 1.60, 56, 19-04-88, Teodelina, Sporting Cristal
+30, Diego Valencia, CHI, F, 1.81, 68, 14-01-00, La Serena, Salernitana
+6, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Estudiantes (LP)
+27, Lucas Melano, ARG, F, 1.86, 72, 01-03-93, Hernando, Newell's Old Boys
+26, Marcelino Núñez, CHI, M, 1.73, 68, 01-03-00, Independencia, Norwich C
+10, Felipe Gutiérrez, CHI, M, 1.70, 64, 08-10-90, Valparaíso, Colorado Rapids (On Loan)

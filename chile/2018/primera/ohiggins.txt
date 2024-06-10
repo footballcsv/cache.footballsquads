@@ -1,0 +1,35 @@
+=  O'Higgins - Chilean Primera División 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Pinto, CHI, G, 1.80, 73, 04-07-83, Santiago, Atlas
+2, Tomás Alarcón, CHI, D, 1.74, 68, 19-01-99, Rancagua, None
+3, Albert Acevedo, CHI, D, 1.76, 74, 06-05-83, Santiago, Universidad de Chile
+4, Bastián San Juan, CHI, D, 1.77, 70, 27-04-94, Talca, None
+5, Alejandro Márquez, CHI, D, 1.73, 72, 31-10-91, Loncoche, Palestino
+6, Juan Fuentes, CHI, M, 1.72, 75, 21-03-95, Rancagua, None
+7, Pedro Muñoz, CHI, F, 1.73, 72, 09-06-86, Las Cabras, Universidad de Concepción
+8, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, Racing Club
+9, Pablo Calandria, ARG, F, 1.83, 74, 15-03-82, Ituzantingó, Santiago Wanderers
+10, Ramón Fernández, ARG, M, 1.70, 64, 03-12-84, Formosa, Colo-Colo
+11, Maximiliano Salas, ARG, F, 1.73, 83, 01-12-97, Curuzú Cuatiá, All Boys
+12, Rodrigo Yáñez, CHI, G, 1.81, 80, 06-06-95, Longaví, Deportivo Estación Central
+14, Gerardo Navarrete, CHI, M, 1.73, 70, 14-07-94, Concepción, Hércules
+16, Luis Ureta, CHI, G, 1.77, 70, 08-03-99, Rengo, None
+17, Roberto Cereceda, CHI, D, 1.73, 71, 10-10-84, Santiago, Palestino
+18, Nicolás Mazzola, ARG, F, 1.86, 81, 28-01-90, Viedma, Gimnasia y Esgrima (LP)
+19, Matías Meneses, CHI, F, 1.74, 72, 28-03-99, Coltauco, None
+20, Raúl Osorio, CHI, D, 1.80, 75, 29-06-95, Graneros, None
+21, Fabián Hormazábal, CHI, F, 1.72, 67, 26-04-96, Machalí, None
+23, Agustín Gutiérrez, URU, F, 1.73, 67, 11-02-92, Montevideo, Boston River
+24, Hugo Herrera, CHI, M, 1.81, 71, 31-01-98, Rancagua, None
+25, David Salazar, CHI, F, 1.80, 70, 19-04-99, Lo Miranda, None
+26, Matías Sepúlveda, CHI, M, 1.83, 74, 12-03-99, Santiago, None
+27, Juan Carlos Espinoza, CHI, D, 1.70, 65, 05-07-91, Rancagua, Universidad Católica
+28, Antonio Díaz, CHI, M, 1.72, 70, 26-04-00, Rancagua, None
+29, Diego González, CHI, D, 1.83, 74, 29-04-98, Rancagua, None
+34, Matías Vera, ARG, M, 1.60, 65, 20-11-95, Merlo, San Lorenzo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Joel Acosta, ARG, F, 1.77, 76, 16-01-91, Villa Gobernador Gálvez, Apollon Smyrnis

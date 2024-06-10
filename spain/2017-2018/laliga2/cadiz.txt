@@ -1,0 +1,42 @@
+=  Cádiz - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Cifuentes, ESP, G, 1.89, 81, 29-05-79, Albacete, Piast Gliwice
+2, Javier Carpio, ESP, D, 1.75, 72, 06-04-84, Salamanca, Alavés
+3, Servando, ESP, D, 1.81, 74, 02-06-84, San Fernando, Jaén
+4, Mikel Villanueva, VEN, D, 1.90, 78, 14-04-93, San Cristóbal, Málaga
+5, Jon Ander Garrido, ESP, M, 1.85, 81, 09-10-89, Bilbao, Granada
+6, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Valencia B
+7, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Villanovense
+8, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Barcelona B
+9, David Barral, ESP, F, 1.83, 78, 10-05-83, Cádiz, APOEL
+10, Fausto Tienza, ESP, M, 1.83, 75, 08-01-90, Talavera la Real, Osasuna
+11, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Granada
+12, Rober, ESP, D, 1.80, 76, 20-09-92, Badajoz, Espanyol
+13, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Getafe
+14, Brian Oliván, ESP, D, 1.77, 70, 01-04-94, Barcelona, Granada B
+15, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Villarreal B
+16, Lucas Bijker, NED, D, 1.74, 74, 04-03-93, São Paulo, SC Heerenveen
+17, Aitor García, ESP, M, 1.73, 70, 25-03-94, Gibraleón, Mérida
+18, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+19, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Barcelona B
+20, Nico, ESP, M, 1.78, 65, 30-04-92, Motril, Juventus
+21, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Sevilla B
+22, Moha Traoré, MLI, F, 1.85, 77, 29-11-94, Barcelona, Córdoba B
+23, Jona, ESP, F, 1.83, 80, 07-01-89, Málaga, Córdoba
+24, Rafidine Abdullah, FRA, M, 1.79, 75, 15-01-94, Marseille, Lorient
+25, Ivan Kecojević, MNE, D, 1.84, 77, 10-04-88, Bar, Zürich
+26, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+27, Seth Airam, ESP, F, , , 01-07-98, Las Palmas, Cádiz B
+28, David Toro, ESP, F, 1.76, 73, 28-05-97, La Algaba, Cádiz B
+29, Manu Vallejo, ESP, M, 1.67, 62, 14-02-97, Chiclana de la Frontera, Cádiz B
+30, Sergio, ESP, D, 1.84, 76, 14-05-97, Cartagena, Cádiz B
+31, Jordi Tur, ESP, M, , , 19-05-98, Ibiza, Cádiz B
+32, Momo Mbaye, SEN, D, 1.90, 83, 28-06-98, Dakara, Dakar Sacré-Cœur
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, De-Registered
+10, Rubén Cruz, ESP, F, 1.84, 72, 13-10-85, Utrera, Cartagena
+23, Khalifa Sankaré, SEN, D, 1.90, 82, 15-08-84, Dakar, De-Registered

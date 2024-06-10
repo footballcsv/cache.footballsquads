@@ -1,0 +1,62 @@
+=  Atlético Paranaense - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Rodolfo, BRA, G, 1.89, 85, 19-03-91, Santos, Internacional
+, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Porto-PE
+, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Portuguesa
+, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Internacional
+, Alessandro, BRA, D, 1.73, 68, 21-09-77, Campos dos Goytacazes, Metropolitano
+, Cleberson, BRA, D, 1.85, 75, 17-08-92, Maracatuba, None
+, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Criciúma
+, Kadu, BRA, D, 1.90, 80, 20-07-86, Brasília, Bragantino
+, Matheus Ribeiro, BRA, D, 1.78, 72, 23-02-93, Erechim, Ypiranga
+, Bruno Pereirinha, POR, D, 1.73, 72, 02-03-88, Rio de Mouro, Lazio
+, Ricardo Silva, BRA, D, 1.90, 78, 13-08-92, São José do Seridó, Ceará
+, Roberto, BRA, D, 1.76, 76, 04-12-90, Picos, Bragantino
+, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, Catanduvense
+, Cristián Vilches, CHI, D, 1.82, 80, 27-10-83, Santiago, Colo-Colo
+, Wagner Silva, BRA, D, 1.83, 78, 24-09-89, Esteio, Mogi Mirim
+, Wellington, BRA, D, 1.88, 83, 30-09-91, Bauru, Palmeiras
+, Fernando Barrientos, ARG, M, 1.74, 71, 17-11-91, Lanús, Lanús
+, Bruno Mota, BRA, M, 1.87, 75, 22-05-95, Curitiba, None
+, Deivid, BRA, M, 1.74, 69, 18-01-89, Londrina, None
+, Giovanni, BRA, M, 1.74, 74, 04-04-94, Sorocaba, Corinthians
+, Daniel Hernández, COL, M, 1.76, 65, 10-12-90, Medellín, Once Caldas
+, Hernani, BRA, M, 1.88, 77, 27-03-94, São Gonçalo do Sapucaí, None
+, Jadson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Udinese
+, João Pedro Heinen, BRA, M, 1.73, 65, 20-01-97, Terra Roxa, None
+, Marcos Guilherme, BRA, M, 1.72, 62, 05-08-95, Itararé, None
+, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Atlético Mineiro
+, Otávio, BRA, M, 1.76, 73, 04-05-94, Maceió, None
+, Cléo, BRA, F, 1.85, 80, 09-08-85, Guarapuava, Guangzhou Evergrande
+, Crysan, BRA, F, 1.90, 82, 07-07-96, Sud Menucci, None
+, Douglas Coutinho, BRA, F, 1.83, 71, 08-02-94, Volta Redonda, None
+, Ewandro, BRA, F, 1.74, 61, 15-03-96, Recife, São Paulo
+, Guilherme Dellatorre, BRA, F, 1.81, 76, 01-05-92, São José do Rio Preto, Desportivo Brasil
+, Marco Damasceno, BRA, F, 1.76, 51, 11-04-96, Brasília, None
+, Walter, BRA, F, 1.76, 86, 22-07-89, Recife, FC Porto
+, Ytalo, BRA, F, 1.77, 67, 12-01-88, Maceió, Audax-SP
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Romeo Fernandes, IND, F, 1.68, 68, 06-07-92, Assolna, Dempo
+, Daniel Borges, BRA, D, 1.74, 68, 23-03-93, São José dos Campos, Botafogo-SP
+, Lucas Olaza, URU, D, 1.77, 75, 21-07-94, Montevideo, River Plate [URU]
+, Lula, BRA, D, 1.84, 70, 18-02-92, Gurupi, Guarani
+, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Chelsea
+, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Ponte Preta (On Loan)
+, Bady, BRA, M, 1.70, 65, 27-04-89, São José do Rio Preto, Ponte Preta (On Loan)
+, Guilherme Arana, BRA, D, 1.76, 70, 14-04-97, São Paulo, Corinthians
+, Rafinha, BRA, M, 1.75, 73, 21-06-92, Alumínio, ABC (On Loan)
+, Alexandre Cajuru, BRA, G, 1.90, 84, 12-07-92, Ribeirão Preto, Guaratinguetá (On Loan)
+, Lucas Macanhan, BRA, G, 1.86, 78, 25-06-94, Curitiba, Guaratinguetá (On Loan)
+, Léo Pereira, BRA, D, 1.86, 76, 31-01-96, Curitiba, Guaratinguetá (On Loan)
+, Rafael Zuchi, BRA, D, 1.88, 77, 11-06-94, Monte Alto, Guaratinguetá (On Loan)
+, Matteus, BRA, M, 1.90, 80, 11-10-89, Ubaitaba, Guaratinguetá (On Loan)
+, Caíque, BRA, F, 1.86, 84, 30-01-94, Sorocaba, Guaratinguetá (On Loan)
+, Natanael, BRA, D, 1.66, 64, 25-12-90, Cuiabá, Ludogorets Razgrad
+, Edigar Junio, BRA, F, 1.75, 72, 06-05-91, Brasília, Joinville (On Loan)
+, Gustavo Marmentini, BRA, M, 1.79, 71, 08-03-94, Cascavel, Delhi Dynamos (On Loan)
+, Gustavo, BRA, D, 1.86, 84, 19-02-82, Campinas, Bahia
+, Paulinho Dias, BRA, M, 1.75, 75, 13-05-88, Belo Horizonte, Bahia (On Loan)

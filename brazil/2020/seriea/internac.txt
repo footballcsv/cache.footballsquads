@@ -1,0 +1,51 @@
+=  Internacional - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Sport Recife
+2, Heitor, BRA, D, 1.74, 67, 05-11-00, Pelotas, None
+4, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Panathinaikos
+5, Damián Musto, ARG, M, 1.82, 80, 09-06-87, Casilda, Huesca
+6, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Corinthians
+8, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Flamengo
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, San Lorenzo
+11, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, Santos
+12, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Bahia
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, None
+14, Lucas Ribeiro, BRA, D, 1.90, 80, 19-01-99, Salvador, 1899 Hoffenheim
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Independiente
+17, Thiago Galhardo, BRA, M, 1.82, 69, 20-07-89, São João del Rei, Ceará
+18, Leandro Fernández, ARG, F, 1.78, 70, 12-03-91, Santa Fe, Independiente
+19, Rodrigo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Botafogo
+20, Moisés, BRA, D, 1.82, 79, 11-03-95, São Paulo, Bahia
+21, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Monaco
+22, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, Flamengo
+23, Marcos Guilherme, BRA, F, 1.72, 62, 05-08-95, Itararé, Al-Wahda
+25, Matheus Jussa, BRA, D, 1.83, 83, 22-03-96, São Paulo, Oeste
+26, Renzo Saravia, ARG, D, 1.78, 73, 16-06-93, Villa de María, FC Porto
+27, Maurício, BRA, M, 1.74, 70, 22-06-01, São Paulo, Cruzeiro
+30, Johnny Cardoso, USA, M, 1.82, 78, 20-09-01, Denville, None
+31, João Peglow, BRA, F, 1.70, 59, 07-01-02, Porto Alegre, None
+32, Keiller, BRA, G, 1.93, 86, 29-10-96, Eldorado do Sul, None
+33, Nonato, BRA, M, 1.74, 68, 03-03-98, São Paulo, São Caetano
+34, Léo Ferreira, BRA, F, 1.82, 89, 11-10-00, Guanhães, None
+35, Zé Gabriel, BRA, D, 1.84, 77, 21-01-99, Carmópolis, None
+36, Leo Borges, BRA, D, 1.82, 73, 03-01-01, Pelotas, None
+38, Lucas Mazetti, BRA, D, 1.71, 65, 02-02-01, Londrina, None
+39, Carlos Eduardo, BRA, D, 1.88, 82, 06-04-01, Taboão da Serra, Corinthians
+41, Pedro Henrique, BRA, D, 1.87, 80, 31-01-01, Maceió, None
+42, Daniel, BRA, G, 1.88, 80, 06-05-94, Barra dos Garças, None
+45, Bruno Praxedes, BRA, M, 1.86, 75, 08-02-02, Itaboraí, Fluminense
+47, Caio, BRA, F, 1.72, 72, 04-11-00, Fortaleza, Porto-PE
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Sport Recife
+99, Abel Hernández, URU, F, 1.86, 73, 08-08-90, Canelones, Al-Ahli [QAT]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Guilherme Pato, BRA, F, 1.64, 60, 17-02-01, Quaraí, Ponte Preta (On Loan)
+3, Bruno Fuchs, BRA, D, 1.90, 82, 01-04-99, Ponta Grossa, CSKA Moscow
+28, Natanael, BRA, D, 1.66, 64, 25-12-90, Cuiabá, Atlético Goianiense (On Loan)
+40, Roberto, BRA, D, 1.88, 79, 03-06-98, Porto Alegre, Paraná (On Loan)
+29, Martín Sarrafiore, ARG, M, 1.80, 70, 20-07-97, Villa Ballester, Coritiba (On Loan)
+7, William Pottker, BRA, F, 1.80, 78, 22-12-93, Foz do Iguaçu, Cruzeiro

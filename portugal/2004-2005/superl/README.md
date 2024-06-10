@@ -1,0 +1,21 @@
+# Portuguese Superliga 2004/05
+
+18 teams
+- [Académica](academ.txt)
+- [Beira-Mar](beiramar.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Estoril](estoril.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Nacional](nacional.txt)
+- [Penafiel](penafiel.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [União de Leiria](uniaole.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

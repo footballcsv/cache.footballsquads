@@ -1,0 +1,54 @@
+=  Volyn Lutsk - Ukrainian Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vsevolod Romanenko, UKR, G, 1.91, 83, 24-03-77, Kyiv, Prykarpattia Ivano-Frankivsk
+2, Leandro Messias, BRA, D, 1.82, 76, 29-12-83, Rio de Janeiro, Tavriya Simferopol
+3, Serhiy Siminin, UKR, D, 1.79, 75, 09-10-87, Prymorsk, Helios Kharkiv
+4, Bohdan Karkovskyy, UKR, D, 1.89, 76, 29-01-88, Lviv, Rava Rava-Ruska
+5, Ramon Lopes, BRA, M, 1.85, 74, 07-08-89, Belo Horizonte, Cruzeiro
+6, Vanče Šikov, MKD, D, 1.92, 80, 19-07-85, Kavadarci, Ethnikos Achna
+7, Schumacher, BRA, F, 1.90, 88, 31-08-86, Curitiba, Austria Vienna
+8, Ihor Skoba, UKR, M, 1.86, 83, 21-05-82, Kyiv, Sevastopol
+9, Oleh Herasymyuk, UKR, M, 1.80, 72, 25-09-86, Volodymyr-Volynskyy, Dynamo Kyiv-2
+10, Vyacheslav Sharpar, UKR, M, 1.90, 78, 02-06-87, Zelenodolsk, Metalist Kharkiv
+11, Dušan Savić, MKD, F, 1.77, 74, 01-10-85, Niš, Rabotnički Skopje
+13, Goeber, BRA, M, 1.92, 86, 17-05-82, Brasília, Ceilândia
+14, Ján Maslo, SVK, D, 1.96, 90, 05-02-86, Dolný Kubín, MFK Ružomberok
+15, Oleh Shandruk, UKR, D, 1.79, 72, 30-01-83, Smyha, Sevastopol
+16, Denys Shelikhov, UKR, G, 1.88, 83, 23-06-89, Kherson, Dnipro Dnipropetrovsk
+17, Yevhen Pavlov, UKR, F, 1.85, 67, 12-03-91, Sevastopol, Volyn Lutsk-2
+18, Vitaliy Pryndeta, UKR, M, 1.95, 76, 02-02-93, Dubno, Volyn Lutsk-2
+19, Oleksiy Babyr, UKR, F, 1.88, 78, 15-03-90, Simferopol, Krymteplytsia Molodizhne
+20, Maicon, BRA, F, 1.85, 75, 08-05-88, Rio de Janeiro, Flamengo
+21, Yaroslav Kinash, UKR, M, 1.82, 63, 16-04-88, Lviv, Galicia Drohobych
+22, Oleksandr Romanchuk, UKR, D, 1.78, 73, 21-10-84, Kyiv, Metalist Kharkiv
+24, Silviu Izvoranu, ROU, D, 1.85, 80, 02-12-83, Galaţi, Universitatea Cluj
+27, Vasyl Zhuk, UKR, M, 1.79, 61, 01-01-91, Sosnivka, Volyn Lutsk-2
+28, Roman Karasyuk, UKR, M, 1.84, 74, 27-03-91, Volodymyr-Volynskyy, Volyn Lutsk-2
+29, Oleksandr Nasonov, UKR, D, 1.78, 67, 28-04-92, Kyiv, Dnipro Dnipropetrovsk
+31, Yevhen Pichkur, UKR, M, 1.82, 75, 30-08-79, , Desna Chernihiv
+32, Dmitriy Smirnov, RUS, F, 1.97, 87, 13-08-80, Moscow, Mordovia Saransk
+33, Pavlo Tsyrkunenko, UKR, D, 1.98, 81, 10-07-91, Kyiv, Volyn Lutsk-2
+35, Saša Stević, BIH, D, 1.90, 80, 31-05-81, Banja Luka, Ceahlăul Piatra-Neamţ
+36, Roman Hodovanyy, UKR, D, 1.86, 75, 04-10-90, Ternopil, Volyn Lutsk-2
+42, Vitaliy Nedilko, UKR, G, 1.89, 81, 21-08-82, Sloviansk, Volyn Lutsk-2
+55, Mykola Nakonechnyi, UKR, M, 1.75, 70, 10-09-81, Nikopol, Gagra
+57, Artem Shchedryy, UKR, M, 1.82, 79, 09-11-92, Beryslav, Dynamo Kyiv-2
+77, Cornel Buta, ROU, D, 1.77, 70, 01-11-77, Găgeşti, Politehnica Iaşi
+88, Anton Kravchenko, UKR, D, 1.89, 79, 23-03-91, Dnipropetrovsk, Dnipro Dnipropetrovsk
+89, Vyacheslav Akimov, UKR, M, 1.84, 71, 17-10-89, Odessa, Knyazha Schaslyve
+90, Serhiy Pylypchuk, UKR, M, 1.87, 80, 26-11-84, Zmiiv, Spartak Nalchik
+99, Oleksandr Pyshchur, UKR, F, 1.96, 91, 26-01-81, Poltava, Tavriya Simferopol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Samson Godwin, NGA, M, 1.78, 73, 11-11-83, Warri, Karpaty Lviv
+73, Dmytro Zozulya, UKR, D, 1.89, 80, 09-06-88, Kyiv, 
+99, Oleksandr Pyshchur, UKR, F, 1.96, 91, 26-01-81, Poltava, Tavriya Simferopol
+22, Vitaliy Postranskyy, UKR, G, 1.90, 87, 02-08-77, Ivano-Frankivsk, Zorya Luhansk
+15, Roman Maksymyuk, UKR, M, 1.88, 81, 14-06-74, Bytkiv, Retired
+88, Dalibor Stevanovič, SVN, M, 1.83, 75, 27-09-84, Ljubljana, Śląsk Wrocław
+26, Dino Drpić, CRO, D, 1.93, 84, 26-05-81, Zagreb, Rijeka
+29, Andriy Hrinchenko, UKR, D, 1.81, 77, 23-01-86, Ternopil, Hoverla-Zakarpattya
+78, Serhiy Litovchenko, UKR, G, 1.92, 86, 04-10-87, Kharkiv, Naftovyk-Ukrnafta (On Loan)

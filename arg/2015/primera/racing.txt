@@ -1,0 +1,38 @@
+=  Racing Club - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastián Saja, ARG, G, 1.88, 84, 05-06-79, La Plata, AEK
+2, Nicolás Sánchez, ARG, D, 1.87, 82, 04-02-86, Capital Federal, Godoy Cruz (Mendoza)
+3, Leandro Grimi, ARG, D, 1.75, 70, 09-02-85, San Lorenzo, Godoy Cruz (Mendoza)
+6, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, Belgrano (Córdoba)
+7, Gustavo Bou, ARG, F, 1.76, 72, 18-02-90, Concordia, River Plate
+8, Washington Camacho, URU, M, 1.77, 71, 08-04-86, Montevideo, Defensa y Justicia
+9, Brian Fernández, ARG, F, 1.70, 71, 26-09-94, Santa Fe, Defensa y Justicia
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Cerro Porteño
+11, Luciano Aued, ARG, M, 1.78, 70, 01-03-87, La Plata, Gimnasia y Esgrima (LP)
+12, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, None
+13, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, None
+14, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, None
+15, Ezequiel Videla, ARG, M, 1.74, 73, 15-01-88, Cosquín, Universidad de Chile
+16, Ricardo Noir, ARG, F, 1.76, 74, 26-02-87, Villa Elisa, Banfield
+17, Marcos Acuña, ARG, M, 1.72, 72, 28-10-91, Zapala, Ferro Carril Oeste
+18, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Vélez Sarsfield
+19, Nelson Acevedo, ARG, M, 1.79, 78, 11-07-88, Resistencia, Defensa y Justicia
+20, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+21, Nelson Ibáñez, ARG, G, 1.85, 86, 19-11-81, Mendoza, Godoy Cruz (Mendoza)
+22, Diego Milito, ARG, F, 1.83, 78, 12-06-79, Bernal, Internazionale
+23, Yonathan Cabral, ARG, D, 1.88, 84, 10-05-92, Isidro Casanova, None
+24, Ricardo Gastón Díaz, ARG, D, 1.70, 63, 13-03-88, Ciudadela, Gimnasia y Esgrima (LP)
+25, Germán Voboril, ARG, D, 1.75, 73, 05-05-87, Lanús, San Lorenzo
+26, Santiago Nagüel, ARG, M, 1.69, 68, 28-01-93, Capital Federal, Argentinos Juniors
+27, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, None
+28, Carlos Núñez, URU, F, 1.74, 71, 22-06-92, Montevideo, Liverpool [URU]
+30, Pablo Alvarado, ARG, D, 1.80, 75, 27-02-86, El Calafate, San Lorenzo
+32, Lautaro Martínez, ARG, F, 1.74, 79, 22-08-97, Bahía Blanca, None
+33, Mariano Pavone, ARG, F, 1.76, 81, 27-05-82, Tres Sargentos, Vélez Sarsfield
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Facundo Castro, ARG, F, 1.71, 84, 28-02-96, San Miguel del Monte, Unión (Santa Fe) (On Loan)
+16, Facundo Castillón, ARG, F, 1.69, 68, 21-08-86, Rosario, Banfield (On Loan)

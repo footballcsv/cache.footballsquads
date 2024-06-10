@@ -1,0 +1,45 @@
+=  Gillingham - English Football League One 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Crichton, G, 6'01", 13 08, 03-10-68, Pontefract, Accrington Stanley
+5, Brent Sancho, D, 6'01", 12 11, 13-03-77, Port of Spain, Dundee
+6, Ian Cox, D, 6'00", 12 00, 25-03-71, Croydon, Burnley
+7, Andrew Crofts, M, 5'09", 10 02, 20-05-84, Chatham, None
+8, Tommy Black, M, 5'07", 11 04, 26-11-79, Chigwell, Crystal Palace
+9, Gary Mulligan, F, 6'01", 12 03, 23-04-85, Dublin, Sheffield U
+10, Mike Flynn, M, 5'10", 12 10, 17-10-80, Newport, Wigan Ath
+11, Danny Jackman, D, 5'04", 09 11, 03-01-83, Worcester, Stockport Co
+12, Danny Knowles, G, 6'00", 12 00, 07-01-86, Sidcup, Hastings U
+13, Jason Brown, G, 5'11", 13 03, 18-05-82, London, Charlton Ath
+14, Leon Johnson, M, 6'00'', 12 00, 10-05-81, London, Southend U
+16, Richard Rose, D, 5'11", 11 09, 08-09-82, Tonbridge, None
+18, Chris Hope, D, 6'01", 12 08, 14-11-73, Sheffield, Scunthorpe U
+19, Neil Harris, F, 5'11", 12 08, 12-07-77, Orsett, Nottingham F
+20, Darren Byfield, F, 5'11", 11 11, 29-09-76, Sutton Coldfield, Sunderland
+21, Matthew Jarvis, M, 5'08", 11 00, 22-05-86, Middlesbrough, None
+22, Danny Spiller, M, 5'08", 10 07, 10-10-81, Maidstone, None
+23, Jonathan Wallis, M, 5'07", 10 08, 04-04-86, Gravesend, None
+24, Mark Corneille, D, 5'07", 10 00, 31-05-86, London, None
+25, Alan Pouton, M, 6'00", 12 02, 01-02-77, Newcastle, Grimsby T
+26, Paul Shields, F, 5'11", 12 00, 15-08-81, Dunfermline, Forfar Ath
+28, Frannie Collin, F, 5'11", 11 11, 20-04-87, Chatham, None
+29, Craig Stone, M, 6'00", 10 05, 29-12-88, Gravesend, None
+30, Sean Clohessy, D, 5'11", 12 07, 12-12-86, Croydon, Arsenal
+31, Akwasi Edusei, F, 5'09", 11 00, 12-09-86, London, None
+32, Gavin Grant, F, 5'11", 11 00, 27-03-84, , Tooting & Mitcham U
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Steve Banks, G, 6'00'', 13 02, 09-02-72, Hillingdon, Hearts
+19, Iwan Roberts, F, 6'03", 13 06, 26-06-68, Bangor, 
+28, Steve Claridge, F, 5'09", 13 00, 10-04-66, Portsmouth, Bradford C
+2, Anthony Scaramozzino, D, 5'11", 11 05, 30-04-85, Nice, Nice
+27, Moses Ashikodi, F, 6'00", 11 09, 27-06-87, Lagos, West Ham U
+15, Mark Saunders, M, 5'11", 11 12, 23-07-71, Reading, Folkestone Invicta
+3, Tommy Williams, D, 5'11", 12 06, 08-07-80, Carshalton, Swansea C
+4, Paul Smith, M, 5'11", 12 08, 18-09-71, East Ham, Walsall
+17, Tony Bullock, G, 6'01", 14 01, 18-02-72, Warrington, St Mirren
+9, Steven Hislop, F, 6'02", 12 00, 14-06-78, Glasgow, Livingston
+8, Andy Hessenthaler, M, 5'07", 11 05, 17-06-65, Gravesend, Barnet
+4, Justin Cochrane, M, 5'11", 11 07, 26-01-82, Hackney, Crewe Alex

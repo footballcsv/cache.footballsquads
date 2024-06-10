@@ -1,0 +1,35 @@
+=  Guingamp - French Ligue 1 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Guichard, FRA, G, 1.89, 77, 16-05-92, Saint-Étienne, Bordeaux
+3, Paul Babiloni, FRA, D, 1.80, 65, 16-01-90, Limoges, None
+4, Baïssama Sankoh, GUI, D, 1.80, 73, 20-03-92, Nogent-sur-Marne, Sarcelles
+5, Moustapha Diallo, SEN, M, 1.88, 78, 14-05-86, Dakar, ASC Diaraf
+6, Jonathan Martins Pereira, FRA, D, 1.82, 71, 30-01-86, Bayonne, Nantes
+7, Dorian Levêque, FRA, M, 1.82, 72, 22-11-89, Annecy, Boulogne
+8, Claudio Beauvue, FRA, F, 1.74, 66, 16-04-88, Saint-Claude, Châteauroux
+9, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Boulogne
+11, Steven Langil, FRA, M, 1.78, 67, 04-03-88, Morne Rouge, Auxerre
+12, Younousse Sankharé, FRA, M, 1.84, 76, 10-09-89, Sarcelles, Dijon
+13, Christophe Mandanne, FRA, F, 1.71, 62, 07-02-85, Toulouse, Dijon
+14, Ladislas Douniama, CGO, F, 1.63, 62, 24-05-86, Brazzaville, Lorient
+15, Jérémy Sorbon, FRA, D, 1.83, 79, 05-08-83, Caen, Caen
+16, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nancy
+17, Rachid Alioui, MAR, F, 1.86, 81, 18-06-92, La Rochelle, None
+18, Lionel Mathis, FRA, M, 1.74, 71, 04-10-81, Montreuil-sous-Bois, Sochaux
+19, Grégory Cerdan, FRA, D, 1.91, 86, 28-07-82, Saint-Denis, Le Mans
+20, Laurent Dos Santos, FRA, M, 1.77, 70, 21-09-93, Montmorency, None
+22, Arthur Delalande, FRA, D, 1.86, 73, 18-05-92, Saint-Malo, None
+23, Mana Dembélé, FRA, F, 1.80, 68, 29-11-88, Ivry sur Seine, Clermont
+25, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, Nancy
+26, Thibault Giresse, FRA, M, 1.72, 68, 25-05-81, Talence, Amiens
+27, Mathéus Vivian, BRA, D, 1.88, 83, 05-04-82, Caçapava do Sul, PAOK
+28, Fatih Atik, FRA, F, 1.75, 70, 25-06-84, Gleize, Boulogne
+29, Christophe Kerbrat, FRA, M, 1.83, 74, 02-08-86, Brest, Plabennec
+30, Mamadou Samassa, MLI, G, 1.91, 81, 16-02-90, Montreuil, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Thierry Argelier, FRA, D, 1.83, 69, 08-07-86, Paris, Vannes (On Loan)
+10, Cédric Fauré, FRA, F, 1.86, 83, 14-02-79, Toulouse, Charleroi

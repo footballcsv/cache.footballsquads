@@ -1,0 +1,23 @@
+# English Premiership 1999/00
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Bradford City](bradford.txt)
+- [Chelsea](chelsea.txt)
+- [Coventry City](coventry.txt)
+- [Derby County](derby.txt)
+- [Everton](everton.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Sheffield Wednesday](sheffwed.txt)
+- [Southampton](southam.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [Watford](watford.txt)
+- [West Ham United](westham.txt)
+- [Wimbledon](wimbled.txt)

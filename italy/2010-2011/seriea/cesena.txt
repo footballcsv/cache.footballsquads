@@ -1,0 +1,52 @@
+=  Cesena - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Antonioli, ITA, G, 1.88, 82, 14-09-69, Monza, Bologna
+3, Maximiliano Pellegrino, ARG, D, 1.89, 80, 26-01-80, Leones, Atalanta
+4, Stephen Appiah, GHA, M, 1.78, 77, 24-12-80, Achimota, Bologna
+5, Felipe, BRA, D, 1.80, 75, 31-07-84, Guaratingueta, Fiorentina
+6, Maurizio Lauro, ITA, D, 1.80, 73, 12-03-81, Ischia, Ascoli
+7, Roope Riski, FIN, F, 1.80, 68, 16-08-91, Turku, TPS Turku
+8, Fabio Caserta, ITA, M, 1.80, 71, 24-09-78, Melito di Porto Salvo, Atalanta
+9, Gabriele Paonessa, ITA, M, 1.70, 64, 18-04-87, Bologna, Parma
+10, Luis Jiménez, CHI, M, 1.83, 75, 17-06-84, Santiago, Ternana
+11, Igor Budan, CRO, F, 1.85, 80, 22-04-80, Rijeka, Palermo
+13, Ivan Fatić, MNE, D, 1.88, 83, 21-08-88, Pljevlja, Genoa
+14, Giuseppe Colucci, ITA, M, 1.80, 73, 24-08-80, Foggia, Chievo Verona
+15, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, St-Etienne
+17, Dominique Malonga, FRA, F, 1.83, 80, 08-01-89, Chatenay-Malabry, Torino
+18, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Chievo Verona
+19, Nicolas Gorobsov, ARG, M, 1.77, 77, 25-11-89, San Pedro, Torino
+22, Jusu Karvonen, FIN, M, 1.76, 68, 17-01-93, Tampere, Taranto
+23, Emanuele Giaccherini, ITA, M, 1.67, 60, 05-05-85, Talla, Pavia
+24, Paolo Sammarco, ITA, M, 1.81, 76, 17-03-83, Como, Sampdoria
+25, Steve von Bergen, SUI, D, 1.81, 76, 10-06-83, Neuchâtel, Hertha Berlin
+29, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Palermo
+30, Alex Rodríguez, ESP, F, 1.84, 76, 30-07-91, Terrassa, Espanyol B
+31, Emanuele Fonte, ITA, D, 1.89, 75, 06-08-92, Forlì, None
+33, Alex Calderoni, ITA, G, 1.82, 77, 03-05-76, Ravenna, Atletico Roma
+44, Luigi Piangerelli, ITA, M, 1.74, 75, 19-10-73, Porto Recanati, Triestina
+45, Daniele Ferri, ITA, F, 1.86, 80, 07-03-92, Imola, None
+46, Davide Santon, ITA, D, 1.87, 77, 02-01-91, Portomaggiore, Internazionale
+70, Erjon Bogdani, ALB, F, 1.91, 89, 14-04-77, Tirana, Chievo Verona
+77, Luca Ceccarelli, ITA, M, 1.83, 70, 24-03-83, Gambettola, Verona
+84, Alessandro Rosina, ITA, M, 1.68, 65, 31-01-84, Belvedere Marittimo, Zenit St Petersburg
+86, Aldo Simoncini, SMR, G, 1.84, 76, 30-08-86, San Marino, Bellaria
+92, Matteo Grandi, ITA, G, 1.88, 80, 12-10-92, Faenza, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Giuseppe De Feudis, ITA, M, 1.74, 66, 10-07-83, Bollate, Torino (On Loan)
+85, Alberto Galuppo, ITA, D, 1.87, 74, 19-08-85, Reggio Emilia, Atletico Roma (On Loan)
+16, Odion Ighalo, NGA, F, 1.88, 70, 16-06-89, Lagos, Udinese
+28, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Fluminense
+2, Fabio Cusaro, ITA, D, 1.78, 74, 20-11-84, Novara, Foligno (On Loan)
+91, Alex Teodorani, ITA, G, 1.91, 80, 21-09-91, Rimini, Bellaria (On Loan)
+20, David Meza Colli, PAR, M, 1.72, 65, 15-08-88, Asunción, Pavia (On Loan)
+22, Franco Chiavarini, ARG, F, 1.86, 74, 18-02-80, Santa Fe, Zagreb (On Loan)
+99, Davide Sinigaglia, ITA, F, 1.77, 71, 29-07-81, Cassano Magnano, Ternana
+27, Martin Petráš, SVK, D, 1.86, 82, 02-11-79, Prievidza, Grosseto
+7, Matiás Ezequiel Schelotto, ITA, M, 1.87, 79, 23-05-89, Buenos Aires, Atalanta
+5, Yuto Nagatomo, JPN, D, 1.70, 65, 12-09-86, Ehime, Internazionale (On Loan)
+34, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Genoa

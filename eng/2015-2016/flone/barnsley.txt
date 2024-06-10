@@ -1,0 +1,54 @@
+=  Barnsley - English Football League One 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Davies, ENG, G, 1.85, 75, 17-07-92, Rinteln, Sheffield W
+2, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, None
+3, George Smith, ENG, D, 1.83, 77, 14-08-96, Barnsley, None
+4, Marc Roberts, ENG, D, 1.83, 81, 26-07-90, Wakefield, FC Halifax T
+5, Lewin Nyatanga, WAL, D, 1.88, 80, 18-08-88, Burton-on-Trent, Bristol C
+7, Josh Scowen, ENG, M, 1.78, 74, 28-03-93, Enfield, Wycombe W
+8, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Plymouth Arg
+9, Sam Winnall, ENG, F, 1.75, 72, 14-12-91, Wolverhampton, Scunthorpe U
+10, Ryan Williams, AUS, M, 1.81, 76, 28-10-93, Perth [AUS], Fulham
+11, Josh Brownhill, ENG, M, 1.79, 69, 19-12-95, Warrington, Preston NE
+12, Jak McCourt, ENG, M, 1.78, 68, 06-07-95, Leicester, Leicester C
+13, Nick Townsend, ENG, G, 1.81, 91, 01-11-94, Solihull, Birmingham C
+15, Marley Watkins, ENG, M, 1.78, 65, 17-10-90, Lewisham, Inverness CT
+17, Brad Abbott, ENG, M, 1.80, 78, 24-12-94, Doncaster, None
+18, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Manchester U
+19, Otis Khan, ENG, M, 1.75, 71, 05-09-95, Ashton-under-Lyme, Sheffield U
+20, Adam Hammill, ENG, M, 1.80, 73, 25-01-88, Liverpool, Huddersfield T
+21, Charlie Harris, ENG, M, 1.78, 70, 30-01-96, East Grinstead, Brighton & HA
+22, George Williams, ENG, D, 1.76, 70, 14-04-93, Hillingdon, Worcester C
+23, Jack Walton, ENG, G, 1.84, 77, 23-04-98, Bury, None
+24, Ivan Toney, ENG, F, 1.79, 65, 16-03-96, Northampton, Newcastle U
+25, Shaun Tuton, ENG, F, 1.78, 70, 03-12-91, Sheffield, FC Halifax T
+26, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Brentford
+28, Jack Cowgill, ENG, D, 1.86, 85, 08-01-97, Wakefield, None
+29, Matty Templeton, ENG, D, 1.76, 66, 28-10-96, Worksop, None
+30, Harry White, ENG, F, 1.85, 83, 18-12-94, Birmingham, Gloucester C
+31, Ben Drennan, ENG, M, 1.71, 66, 14-01-97, Sunderland, Newcastle U
+32, Harry Chapman, ENG, M, 1.77, 70, 05-11-97, Hartlepool, Middlesbrough
+34, Lloyd Isgrove, WAL, M, 1.78, 72, 12-01-93, Yeovil, Southampton
+35, Aidan White, IRL, D, 1.70, 61, 10-10-91, Otley, Rotherham U
+36, Callum Evans, ENG, D, 1.77, 72, 11-10-95, Bristol, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Mason Holgate, ENG, D, 1.84, 63, 22-10-96, Doncaster, Everton
+20, Joe Rothwell, ENG, M, 1.85, 77, 11-01-95, Manchester, Manchester U
+21, Dan Crowley, ENG, M, 1.75, 68, 03-07-97, Coventry, Arsenal
+27, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Cardiff C
+21, Ivan Toney, ENG, F, 1.79, 65, 16-03-96, Northampton, Newcastle U
+12, Michael Smith, ENG, F, 1.93, 86, 17-10-91, Wallsend, Swindon T
+18, Conor Wilkinson, IRL, F, 1.85, 77, 23-01-95, Croydon, Bolton W
+11, Simeon Jackson, CAN, F, 1.70, 72, 28-03-87, Kingston, Blackburn R
+14, Paul Digby, ENG, M, 1.75, 64, 02-02-95, Sheffield, Ipswich T (On Loan)
+19, Ben Pearson, ENG, M, 1.66, 71, 04-01-95, Oldham, Manchester U
+25, Mike Phenix, ENG, F, 1.78, 70, 15-03-89, Manchester, Southport
+32, Reece Wabara, ENG, D, 1.82, 73, 28-12-91, Stoke Heath, Wigan Ath
+16, George Maris, ENG, F, 1.80, 75, 06-03-96, Sheffield, Lincoln C (On Loan)
+24, Christian Dibble, WAL, G, 1.90, 88, 11-05-94, Wilmslow, Chelmsford C
+6, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Burnley
+6, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton

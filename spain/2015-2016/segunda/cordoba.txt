@@ -1,0 +1,38 @@
+=  Córdoba - Spanish Segunda División A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brimah Razak, GHA, G, 1.91, 93, 22-06-87, Accra, Mirandés
+3, Domingo Cisma, ESP, D, 1.84, 76, 09-02-82, Seville, Elche
+4, Héctor Rodas, ESP, D, 1.90, 80, 07-03-88, Valencia, Betis
+5, Víctor Pérez, ESP, M, 1.76, 71, 12-01-88, Albacete, Valladolid
+6, Luso, ESP, M, 1.79, 75, 04-12-84, Zaragoza, Girona
+7, Jean Paul Pineda, CHI, F, 1.75, 72, 24-02-89, Santiago, Unión La Calera
+9, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Newcastle U
+10, Florin Andone, ROU, F, 1.83, 73, 11-04-93, Joldeşti, Villarreal C
+11, Eddy, AZE, M, 1.91, 84, 02-08-92, Roquetas de Mar, Murcia
+13, Ismael Falcón, ESP, G, 1.85, 78, 24-04-85, Cádiz, Alcorcón
+14, Rafa Gálvez, ESP, M, 1.90, 80, 20-05-93, Córdoba, Elche
+15, Deivid, ESP, D, 1.88, 72, 27-01-89, Las Palmas, Las Palmas
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Elche
+17, Marius Stankevičius, LTU, M, 1.89, 83, 15-07-81, Kaunas, Hannover 96
+18, Pedro Ríos, ESP, M, 1.77, 72, 12-12-81, Jerez de la Frontera, Recreativo Huelva
+19, José María López Silva, ESP, M, 1.70, 66, 02-01-83, Huelva, Cádiz
+20, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Real Madrid B
+21, Carlos Caballero, ESP, M, 1.78, 75, 05-10-84, Alcorcón, Cádiz
+22, Nando, ESP, M, 1.76, 71, 13-06-94, Valencia, Valencia B
+23, Saša Marković, SRB, M, 1.83, 75, 13-03-91, Belgrade, Partizan Belgrade
+24, Albert Dalmau, ESP, D, 1.85, 79, 16-03-92, Sils, Lugo
+26, Antonio Sillero, ESP, G, 1.82, 77, 25-08-93, Córdoba, Córdoba B
+27, Fran Serrano, ESP, D, 1.89, 84, 20-04-95, Córdoba, Córdoba B
+28, Abel Moreno, ESP, D, 1.75, 65, 19-02-95, Almensilla, Córdoba B
+30, Moha Traoré, MLI, F, 1.85, 77, 29-11-94, Barcelona, Elche B
+33, Javi Galán, ESP, M, 1.72, 70, 19-11-94, Badajoz, Badajoz
+34, Jonathan Bijimine, COD, M, 1.90, 84, 09-07-94, Amiens, Perugia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Sevilla B
+17, Patrick Ekeng Ekeng, CMR, M, 1.80, 67, 26-03-90, Yaoundé, 
+20, Fran Cruz, ESP, D, 1.86, 72, 14-09-92, Córdoba, Llagostera
+11, Arturo, ESP, F, 1.88, 76, 30-04-89, Cartagena, Dundee (On Loan)

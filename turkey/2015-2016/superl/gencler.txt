@@ -1,0 +1,42 @@
+=  Gençlerbirligi - Turkish Süper Lig 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ferhat Kaplan, TUR, G, 1.90, 85, 07-01-89, Menemen, Canakkale Dardanelspor
+2, Ahmet Oğuz, TUR, D, 1.76, 83, 16-01-93, Sorgun, None
+3, Uğur Çiftçi, TUR, D, 1.79, 71, 04-05-92, Sivas, Hacettepe
+4, Ferhat Görgülü, NED, D, 1.78, 68, 28-10-91, Veendam, FC Oss
+5, Ahmet Yılmaz Çalık, TUR, D, 1.82, 77, 26-02-94, Yenimahalle, None
+8, Panajotis Dimitriadis, SWE, M, 1.82, 78, 12-08-86, Solna, AIK
+10, Bogdan Stancu, ROU, F, 1.78, 69, 28-06-87, Piteşti, Orduspor
+11, Moestafa El Kabir, MAR, F, 1.77, 76, 10-05-88, Targuist, Al-Ahli [UAE]
+13, Aliaksandr Hleb, BLR, M, 1.85, 74, 01-05-81, Minsk, BATE
+14, Iasmin Latovlevici, ROU, D, 1.75, 71, 11-05-86, Moldova Nouă, Steaua Bucureşti
+15, Syarhey Palitsevich, BLR, D, 1.90, 84, 09-04-90, Lida, Dinamo Minsk
+16, Guy Michel Landel, GUI, M, 1.72, 70, 03-07-90, Conakry, Orduspor
+17, İrfan Can Kahveci, TUR, M, 1.75, 67, 15-07-95, Bayat, None
+20, Doğa Kaya, TUR, M, 1.77, 67, 30-06-84, Ankara, Sivasspor
+21, Selçuk Şahin, TUR, M, 1.87, 81, 31-01-81, Tunceli, Wil
+22, Ólafur-Ingi Skúlason, ISL, M, 1.83, 75, 01-04-83, Reykjavík, Zulte-Waregem
+30, Djalma, ANG, M, 1.75, 72, 30-05-87, Luanda, FC Porto
+33, Halil İbrahim Pehlivan, TUR, D, 1.83, 80, 21-08-93, Ankara, Hacettepe
+34, Johannes Hopf, SWE, G, 1.95, 93, 16-06-87, Räng, Hammarby IF
+36, Turgut Doğan Şahin, TUR, M, 1.80, 71, 02-02-88, Tarsus, Kayserispor
+42, Hakan Aslantaş, TUR, D, 1.81, 76, 26-08-85, Nürtingen, Osmanlıspor
+44, Übeyd Adıyaman, TUR, G, 1.94, 74, 02-10-97, Malatya, None
+66, Ante Kulušić, CRO, D, 1.89, 85, 06-06-86, Šibenik, Balıkesirspor
+67, Serdar Gürler, TUR, F, 1.73, 72, 14-09-91, Haguenau, Trabzonspor
+82, Aydın Karabulut, TUR, M, 1.78, 70, 25-01-88, Berlin, Bursaspor
+88, Martin Spelmann, DEN, M, 1.74, 70, 21-03-87, Copenhagen, Odense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Walid Atta, SWE, D, 1.87, 81, 28-08-86, Riyadh, Östersunds FK
+6, Çağrı Bülbül, TUR, M, 1.76, 70, 01-02-92, Altındağ, Hacettepe (On Loan)
+99, Atabey Çiçek, TUR, F, 1.88, 76, 24-07-95, Yenimahalle, Hacettepe (On Loan)
+45, Hikmet Balioğlu, TUR, D, 1.92, 84, 04-08-90, Manisa, Şanlıurfaspor (On Loan)
+9, Berat Tosun, TUR, M, 1.79, 72, 01-01-94, Ankara, Balıkesirspor (On Loan)
+23, Özkan Karabulut, TUR, G, 1.86, 82, 16-01-91, Mamak, Karşıyaka (On Loan)
+7, Nemanja Tomić, SRB, M, 1.79, 70, 21-01-88, Kragujevac, 
+25, Guido Koçer, GER, F, 1.79, 75, 15-09-88, Worms, Yeni Malatyaspor (On Loan)
+48, Taylan Antalyalı, TUR, M, 1.80, 71, 08-01-95, Yatağan, Erciyesspor (On Loan)

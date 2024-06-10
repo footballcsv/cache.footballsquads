@@ -1,0 +1,36 @@
+=  Melbourne Victory - Australian A-League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matt Acton, AUS, G, 1.85, 89, 03-06-92, Townsville, Kaya FC
+2, Jason Geria, AUS, D, 1.78, 70, 10-05-93, Canberra, Perth Glory
+3, Jason Davidson, AUS, D, 1.80, 72, 29-06-91, Melbourne, Ulsan Hyundai
+4, Rai Marchán, ESP, M, 1.81, 67, 11-08-93, Vilafranca del Penedés, Andorra
+5, Matthew Špiranović, AUS, D, 1.93, 88, 27-06-88, Geelong, Perth Glory
+6, Leigh Broxham, AUS, M, 1.69, 70, 13-01-88, Melbourne, VIS
+7, Chris Ikonomidis, AUS, M, 1.80, 80, 04-05-95, Sydney, Perth Glory
+8, Joshua Brillante, AUS, M, 1.77, 73, 25-03-93, Bundaberg, Xanthi
+9, Francesco Margiotta, ITA, F, 1.78, 77, 15-07-93, Turin, Chievo Verona
+10, Robbie Kruse, AUS, F, 1.79, 72, 05-10-88, Brisbane, Bochum
+11, Ben Folami, AUS, F, 1.70, 70, 08-06-99, Sydney, Ipswich T
+13, Birkan Kirdar, AUS, M, 1.76, 70, 07-02-02, Coolaroo, None
+14, Jay Barnett, AUS, M, 1.79, 75, 14-02-01, Adelaide, Brisbane Roar
+15, Aaron Anderson, AUS, D, 1.87, 74, 25-09-00, Melbourne, None
+16, Stefan Nigro, AUS, D, 1.81, 70, 10-08-96, Ballarrat, Central Coast Mariners
+17, Brendan Hamill, AUS, D, 1.77, 68, 18-09-92, Sydney, Western U
+18, Nicholas D'Agostino, AUS, F, 1.75, 70, 25-02-98, Sydney, Perth Glory
+19, Luka Pršo, AUS, M, 1.90, 80, 22-01-01, Sydney, Wellington Phoenix
+20, Ivan Kelava, CRO, G, 1.95, 94, 20-02-88, Zagreb, Xanthi
+21, Roderick Miranda, POR, D, 1.93, 85, 30-03-91, Odivelas, Gaziantep
+22, Jake Brimmer, AUS, M, 1.69, 60, 03-04-98, Melbourne, Perth Glory
+23, Marco Rojas, NZL, M, 1.66, 63, 05-11-91, Hamilton [NZL], SønderjyskE
+24, Nishan Velupillay, AUS, F, 1.80, 77, 07-05-01, Melbourne, None
+25, Luis Lawrie-Lattanzio, AUS, F, 1.72, 64, 20-02-02, Adelaide, Adelaide U
+26, Lleyton Brooks, AUS, F, 1.79, 67, 20-03-01, Southport [AUS], Brisbane Roar
+27, Zaydan Bello, AUS, D, 1.84, 74, 24-06-02, Melbourne, Green Gully
+32, William Wilson, AUS, M, 1.73, 62, 23-12-01, -, None
+37, Edmond Lupancu, AUS, D, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jerrad Tyson, AUS, G, 1.89, 85, 21-09-89, Hobart, Sunshine Coast FC

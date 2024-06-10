@@ -1,0 +1,54 @@
+=  Ascoli - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Lanni, ITA, G, 1.88, 77, 30-06-90, Alatri, Grosseto
+2, Ismaila Diop, SEN, D, 1.90, 85, 19-12-99, Dakar, None
+3, Błażej Augustyn, POL, D, 1.91, 89, 26-01-88, Strzelin, Hearts
+4, Simone Paolini, ITA, M, 1.83, 74, 02-04-97, San Benedetto del Tronto, None
+5, Andrea Mengoni, ITA, D, 1.87, 91, 16-09-83, Rome, Barletta
+6, Tommaso Bianchi, ITA, M, 1.84, 77, 01-11-88, Piombino, Leeds U
+7, Accursio Bentivegna, ITA, F, 1.72, 65, 21-06-96, Sciacca, Palermo
+8, Gianluca Carpani, ITA, M, 1.82, 80, 29-08-93, Ascoli Piceno, Sambenedettese
+9, Leonardo Pérez, ITA, F, 1.87, 84, 27-09-89, Mesagne, Cittadella
+10, Luigi Giorgi, ITA, M, 1.85, 75, 19-04-87, Ascoli Piceno, Atalanta
+11, Riccardo Orsolini, ITA, M, 1.83, 73, 24-01-97, Ascoli Piseno, Juventus
+12, Vincenzo Venditti, ITA, G, 1.90, 82, 23-06-97, Avezzano, Perugia
+13, Guillaume Gigliotti, FRA, D, 1.80, 72, 09-11-89, Istres, Foggia
+14, Gianfilippo Felicioli, ITA, M, 1.78, 70, 30-09-97, San Severino Marche, Milan
+15, Michele Capozzi, ITA, D, , , 02-08-98, Avellino, None
+17, Gianmarco Busti, ITA, D, , , 07-05-97, Rome, Pomezia
+19, Bright Addae, GHA, M, 1.84, 76, 19-12-92, Accra, Parma
+20, Flavio Lazzari, ITA, M, 1.82, 73, 05-09-86, Rome, Novara
+21, Daniele Cacia, ITA, F, 1.82, 74, 23-08-83, Catanzaro, Bologna
+22, Riccardo Ragni, ITA, G, 1.86, 80, 31-07-91, Sant'Omero, Pescara
+23, Davide Cinaglia, ITA, D, 1.85, 74, 10-04-94, Rome, Torino
+25, Matteo Perri, ITA, D, 1.80, 73, 06-10-98, Rome, Sampdoria
+28, Leonardo Gatto, ITA, F, 1.79, 72, 28-04-92, Trebisacce, Atalanta
+29, Francesco Cassata, ITA, M, 1.83, 75, 16-07-97, Sarzana, Juventus
+30, Andrea Favilli, ITA, F, 1.90, 78, 17-05-97, Pisa, Livorno
+31, Alessandro De Angelis, ITA, M, 1.78, 74, 04-03-98, Ascoli Piceno, None
+32, Edoardo Tassi, ITA, F, 1.84, 77, 10-06-98, Ascoli Piceno, Virtus Lanciano
+33, Daniele Mignanelli, ITA, D, 1.79, 73, 10-05-93, Cantù, Pescara
+35, Lorenzo Mancini, ITA, M, , , 24-04-98, Senigallia, Senigallia
+36, Danilo Giannantonio, ITA, M, 1.80, 70, 28-03-98, Marconia, None
+37, Francesco Petrarulo, ITA, F, , , 26-04-98, Amandola, None
+38, Jacopo Ciarmela, ITA, M, , , 11-01-98, Ascoli Piceno, Juventus
+39, Alberto Almici, ITA, D, 1.81, 77, 11-01-93, Lovere, Atalanta
+40, Jacopo Maltempi, ITA, G, , , 18-06-98, Marino, Rocca Priora
+41, Giuseppe Perfetti, ITA, G, , , 07-02-99, Bagno a Ripoli, None
+42, Vasile Mogos, ROU, D, 1.87, 84, 31-10-92, Vaslui, Reggiana
+43, Alan Martínez, ARG, G, 1.95, 81, 19-01-95, San Rafael, Lecco
+44, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Žan Benedičič, SVN, M, 1.87, 83, 03-10-95, Ljubljana, Leyton Orient
+24, Melker Hallberg, SWE, M, 1.80, 68, 20-10-95, Ljungbyholm, Udinese
+2, Simone Pecorini, ITA, D, 1.90, 79, 12-01-93, Milan, Virtus Entella
+7, Nabil Jaadi, MAR, M, 1.78, 69, 01-07-96, Brussels, Udinese
+16, Alessandro Eleuteri, ITA, M, 1.81, , 08-06-98, San Benedetto del Tronto, Atalanta
+18, Manuel Manari, ITA, M, 1.75, 70, 13-08-97, Paolantonio, Juve Stabia (On Loan)
+26, Sulayman Jallow, GAM, F, 1.85, 74, 30-11-96, , Viterbese (On Loan)
+27, Luca Iotti, ITA, D, 1.89, 80, 09-11-95, Cernusco sul Naviglio, Olbia (On Loan)
+34, Ivan Fazzini, ITA, M, , , 28-01-98, Ascoli Piceno, Fermana (On Loan)

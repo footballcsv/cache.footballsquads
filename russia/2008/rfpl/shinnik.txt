@@ -1,0 +1,61 @@
+=  Shinnik - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Ricardo Silva, POR, D, 1.83, 79, 26-09-75, Porto, Boavista
+6, Sergey Yashin, RUS, M, 1.78, 71, 03-01-81, Kaluga, Saturn
+7, Denis Boyarintsev, RUS, M, 1.74, 71, 06-02-78, Moscow, Spartak Moscow
+8, Maksim Burchenko, RUS, M, 1.72, 68, 21-03-83, Stary Oskol, FC Rostov
+10, Damian Gorawski, POL, M, 1.78, 75, 04-01-79, Kraków, FC Moscow
+13, Dmitriy Kudryashov, RUS, M, 1.76, 75, 13-05-83, Izevsk, Anzhi Makhachkala
+14, Ghenadie Olexici, MDA, D, 1.82, 75, 23-08-78, Chişinău, Zimbru Chişinău
+15, Andrey Ushenin, RUS, D, 1.90, 81, 01-12-83, , Kuban
+16, Anton Khazov, RUS, F, 1.85, 80, 28-04-79, Nizhny Novgorod, Dynamo Moscow
+17, Andrey Bochkov, RUS, M, 1.74, 72, 13-01-82, Volgograd, FC Rostov
+18, Slavoljub Djordjević, SRB, M, 1.85, 78, 15-02-81, Belgrade, Alania
+19, Juris Laizāns, LVA, M, 1.78, 72, 06-01-79, Riga, Kuban
+21, Bruno Basto, POR, D, 1.77, 75, 21-05-78, Lisbon, Nacional [POR]
+22, Milan Vještica, SRB, D, 1.88, 82, 15-11-79, Novi Sad, Partizan Belgrade
+25, Dmytro Semochko, UKR, D, 1.78, 75, 25-01-79, Lviv, Luch-Energia
+27, Sergey Pravkin, RUS, G, 1.90, 88, 20-01-80, , Salyut-Energia
+28, Dmitriy Zinovich, RUS, M, 1.90, 77, 19-05-89, Murom, Shinnik-2
+29, Dmitriy Polovinchuk, RUS, M, 1.81, 74, 27-09-82, Moscow, Saturn
+31, Roman Monarev, UKR, F, 1.86, 78, 17-01-80, Kiev, Luch-Energia
+35, Artem Smirnov, RUS, G, 1.85, 78, 06-01-89, Vladimir Oblast, Shinnik-2
+37, Sergey Pesyakov, RUS, G, 1.95, 85, 16-12-88, Ivanovo, Shinnik-2
+41, Nikolay Kabaev, RUS, M, 1.75, 70, 15-02-89, Yaroslavl, Shinnik-2
+42, Sergey Popov, RUS, D, 1.78, 69, 22-02-87, Yaroslavl, Shinnik-2
+45, Eduard Buliya, RUS, F, 1.86, 72, 19-05-91, , Tekstilshchik-Telekom
+47, Artem Motov, RUS, D, 1.92, 78, 28-07-90, Yaroslavl, Shinnik-2
+48, Levan Latsuzbaia, RUS, M, 1.76, 71, 23-03-88, , Shinnik-2
+50, Andrey Ushakov, RUS, G, 1.86, 79, 29-03-87, Yaroslavl, Shinnik-2
+53, Ilya Sisoev, RUS, D, 1.74, 70, 10-06-88, Yaroslavl, Shinnik-2
+55, Oleg Tsvelev, RUS, F, 1.74, 72, 18-03-88, Yaroslavl, Shinnik-2
+56, Beslan Tiyev, RUS, M, 1.76, 70, 11-04-90, , Shinnik-2
+57, Sergey Roshchin, RUS, D, 1.83, 77, 28-01-89, Yaroslavl, Shinnik-2
+61, Evgeniy Evseev, RUS, D, 1.88, 81, 13-01-90, , Amkar
+70, Maxim Buznikin, RUS, F, 1.70, 69, 01-03-77, Krasnodar, FC Rostov
+71, Sergey Anisimov, RUS, D, 1.99, 83, 09-02-90, Tomsk Oblast, Shinnik-2
+78, Sergey Dryagin, RUS, M, 1.77, 71, 15-11-87, Yaroslavl, Shinnik-2
+80, Ruslan Kadushkin, RUS, M, 1.80, 74, 26-07-89, , Rubin-2
+81, Marcel Malie Gomis, SEN, M, 1.75, 68, 20-08-87, Dakar, Olhanense
+86, Adam Vishnyakov, RUS, F, 1.77, 73, 24-02-91, , Shinnik-2
+90, Kirill Kokorin, RUS, M, 1.75, 72, 21-03-90, Yaroslavl, Shinnik-2
+96, Dmitriy Vasilyev, RUS, D, 1.80, 74, 25-03-77, St. Petersburg, Rubin Kazan
+97, Aleksandr Erkin, RUS, F, 1.84, 84, 01-09-89, St. Petersburg, Shinnik-2
+99, Dmitriy Nikonov, RUS, F, 1.79, 69, 16-02-90, Yaroslavl, Shinnik-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Aleksandr Sonin, RUS, F, 1.74, 72, 06-08-83, Moscow, Nizhniy Novgorod
+87, Ilya Maksimov, RUS, M, 1.83, 74, 02-02-87, Nizhny Novgorod, Zenit
+88, Aleksandar Petrović, SRB, M, 1.70, 68, 01-02-85, Belgrade, OFK Mladenovac
+66, Philipp Braithwaite, RUS, M, 1.77, 77, 20-12-90, Veliky Novgorod, Narva Trans
+89, Maksim Zhuravlev, RUS, F, 1.74, 73, 26-03-89, Yaroslavl, 
+5, Aleksandr Cherkes, RUS, D, 1.80, 75, 02-09-76, Ostrogozhsk, FC Rostov
+44, Mikhail Sovetlyanov, RUS, D, 1.88, 83, 03-06-87, Yaroslavl, Dinamo Vologda
+4, Igor Stepanovs, LVA, D, 1.92, 86, 21-01-76, Ogre, 
+2, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Zenit
+11, Murad Guseynov, RUS, F, 1.90, 78, 25-01-89, Makhachkala, Sheksna
+30, Aleksey Stepanov, RUS, G, 1.90, 87, 05-12-77, Izevsk, Kuban
+77, Zdravko Lazarov, BUL, F, 1.77, 76, 20-02-76, Sofia, CSKA Sofia

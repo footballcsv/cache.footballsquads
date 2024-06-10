@@ -1,0 +1,54 @@
+=  Reading - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+3, Andy Yiadom, GHA, D, 1.80, 75, 02-12-91, Camden, Barnsley
+4, John O'Shea, IRL, D, 1.91, 75, 30-04-81, Waterford, Sunderland
+5, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, Hull C
+6, Liam Moore, ENG, D, 1.86, 86, 31-01-93, Leicester, Leicester C
+9, Sam Baldock, ENG, F, 1.70, 67, 15-03-89, Bedford, Brighton & HA
+10, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, Chelsea
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+15, Callum Harriott, ENG, M, 1.65, 66, 04-03-94, Norbury, Charlton Ath
+16, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+17, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Swansea C
+18, Ovie Ejaria, ENG, M, 1.83, 75, 18-11-97, Southwark, Liverpool
+19, Matt Miazga, USA, D, 1.90, 84, 19-07-95, Clifton, Chelsea
+21, Yakou Méïte, FRA, M, 1.84, 72, 11-02-96, Paris, Paris St-Germain
+22, Nélson Oliveira, POR, F, 1.86, 82, 08-08-91, Barcelos, Norwich C
+23, Jón Daði Böðvarsson, ISL, F, 1.90, 85, 25-05-92, Selfoss, Wolverhampton W
+24, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Manchester U
+26, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+27, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Fulham
+28, Sam Walker, ENG, G, 1.99, 78, 02-10-91, Gravesend, Colchester U
+31, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, Ajax Cape Town
+32, Saeid Ezatolahi, IRN, M, 1.90, 78, 01-10-96, Bandar-e Anzali, FC Rostov
+35, Andy Rinomhota, ENG, M, 1.75, 64, 21-04-97, Leeds, AFC Portchester
+38, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, None
+39, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, None
+42, Ryan East, ENG, M, 1.76, 70, 07-08-98, Ascot, None
+43, Danny Namaso Loader, ENG, F, 1.82, 76, 28-08-00, Reading, None
+44, Tom Holmes, ENG, D, 1.84, 82, 12-03-00, Ealing, None
+45, Conor Lawless, ENG, M, 1.73, 68, 13-09-01, Slough, None
+46, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, None
+47, Gabriel Osho, ENG, D, , , 14-08-98, Reading, None
+48, Michael Olise, FRA, M, 1.89, 73, 12-12-01, , None
+49, Teddy Howe, ENG, D, 1.77, 69, 09-10-98, Oxford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Adrian Popa, ROU, M, 1.70, 70, 24-07-88, Horezu, Ludogorets Razgrad (On Loan)
+22, Pelle Clement, NED, M, 1.77, 66, 19-05-96, Amsterdam, PEC Zwolle
+16, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Shrewsbury T
+19, Josh Sims, ENG, M, 1.74, 67, 28-03-97, Yeovil, Southampton
+34, Lewis Ward, ENG, G, 1.95, 81, 05-03-97, , Forest Green R (On Loan)
+40, George Legg, ENG, G, 1.95, 76, 30-04-96, Reading, Boreham Wood (On Loan)
+41, Luke Southwood, ENG, G, 1.92, 72, 06-12-97, Oxford, Eastleigh (On Loan)
+20, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, Hampstead, Sporting CP
+7, Leandro Bacuna, NED, M, 1.87, 77, 21-08-91, Groningen, Cardiff C
+8, David Meyler, IRL, M, 1.89, 74, 29-05-89, Cork, Coventry C (On Loan)
+29, Marc McNulty, SCO, F, 1.78, 69, 14-09-92, Livingston, Hibernian (On Loan)
+1, Vito Mannone, ITA, G, 1.88, 77, 02-03-88, Desio, Minnesota U (On Loan)
+14, Sone Aluko, NGA, F, 1.73, 62, 19-02-89, Birmingham, Beijing Renhe (On Loan)

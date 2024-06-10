@@ -1,0 +1,47 @@
+=  Racing Club - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gastón Gómez, ARG, G, 1.89, 88, 04-03-96, Mar del Plata, None
+2, Juan José Cáceres, ARG, D, 1.73, 62, 01-06-00, Avellaneda, None
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Bahia
+6, Lucas Orbán, ARG, D, 1.84, 76, 03-02-89, Capital Federal, Genoa
+7, Gabriel Hauche, ARG, F, 1.68, 71, 27-11-86, Remedios de Escalada, Aldosivi (Mar del Plata)
+8, Jonatan Galván, ARG, D, 1.77, 69, 25-06-92, Mar del Plata, Argentinos Juniors
+9, Enzo Copetti, ARG, F, 1.80, 88, 16-01-96, Resistencia, Atlético Rafaela
+10, Matías Rojas, PAR, M, 1.86, 72, 03-11-95, Asunción, Cerro Porteño
+11, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, Argentinos Juniors
+12, Fernando Prado, URU, D, 1.70, 68, 21-03-01, Carmelo, None
+13, Matías Tagliamonte, ARG, G, 1.95, 88, 19-02-98, Rafaela, Atlético Rafaela
+14, Maico Quiroz, ARG, M, 1.75, 67, 20-11-01, Lanús, None
+15, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, PSV Eindhoven
+16, Mauricio Martínez, ARG, M, 1.74, 66, 20-02-93, Santo Tomé, Rosario Central
+17, Johan Carbonero, COL, M, 1.70, 75, 20-07-99, Santander de Quilichao, Gimnasia y Esgrima (LP)
+19, Leonel Miranda, ARG, M, 1.70, 70, 07-01-94, Avellaneda, Defensa y Justicia
+20, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Rosario Central
+21, Gabriel Arias, CHI, G, 1.88, 80, 13-09-87, Neuquén, Defensa y Justicia
+22, Carlos Alcaraz, ARG, M, 1.76, 68, 30-11-02, La Plata, None
+23, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, None
+25, Sergio Juárez, ARG, G, 1.84, 77, 04-12-01, Capital Federal, None
+26, Axel Ojeda, ARG, M, 1.68, 60, 19-06-04, Rosario, None
+27, Emiliano Saliadarre, ARG, F, 1.78, 67, 05-05-02, Rosario, None
+29, Aníbal Moreno, ARG, M, 1.77, 72, 13-05-99, San Fernando del Valle, Newell's Old Boys
+30, Leonardo Sigali, ARG, D, 1.84, 70, 29-05-87, Campana, Dinamo Zagreb
+32, Elías Machuca, ARG, D, 1.78, 69, 28-03-03, Lanús, None
+33, Gonzalo Piovi, ARG, D, 1.74, 67, 08-09-94, Capital Federal, Argentinos Juniors
+34, Facundo Mura, ARG, D, 1.71, 74, 24-03-99, General Roca, Estudiantes (LP)
+37, Nicolás Meaurio, ARG, F, 1.75, 71, 29-04-03, Florencia Varela, None
+46, Patricio Tanda, ARG, M, 1.77, 73, 05-04-02, Lomas de Zamora, None
+48, Emiliano Insúa, ARG, D, 1.73, 82, 07-01-89, Capital Federal, Aldosivi (Mar del Plata)
+50, Román Fernández, ARG, F, 1.72, 72, 23-09-05, Dock Sud, None
+70, Edwin Cardona, COL, M, 1.86, 81, 08-12-92, Medellín, Tijuana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Benjamín Garré, ARG, F, 1.72, 70, 11-06-00, Capital Federal, Huracán (On Loan)
+27, Javier Correa, ARG, F, 1.89, 81, 23-10-92, Córdoba, Santos Laguna
+23, Nery Domínguez, ARG, M, 1.84, 77, 09-04-90, Cañada de Gómez, Universidad de Chile
+8, Fabricio Domínguez, URU, M, 1.77, 69, 24-06-98, Montevideo, Defensa y Justicia (On Loan)
+18, Matiás Ezequiel Schelotto, ITA, D, 1.87, 76, 23-05-89, Buenos Aires, Aldosivi (Mar del Plata)
+28, Tomás Chancalay, ARG, F, 1.79, 74, 01-01-99, Viale, Al-Wasl (On Loan)

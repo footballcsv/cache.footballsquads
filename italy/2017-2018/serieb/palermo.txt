@@ -1,0 +1,49 @@
+=  Palermo - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Maniero, ITA, G, 1.88, 89, 12-06-95, Padua, Crotone
+2, Giuseppe Bellusci, ITA, D, 1.85, 80, 21-08-89, Trebisacce, Leeds U
+3, Andrea Rispoli, ITA, D, 1.88, 83, 29-09-88, Cava de' Tirreni, Parma
+4, Andrea Accardi, ITA, D, 1.79, 71, 30-07-95, Palermo, None
+5, Slobodan Rajković, SRB, D, 1.91, 87, 03-02-89, Belgrade, Darmstadt
+6, Aljaž Struna, SVN, D, 1.91, 86, 04-08-90, Piran, Koper
+7, Aleksandar Trajkovski, MKD, F, 1.79, 78, 05-09-92, Skopje, Zulte-Waregem
+8, Mato Jajalo, CRO, M, 1.82, 81, 25-05-88, Jajce, Rijeka
+9, Stefano Moreo, ITA, F, 1.91, 75, 30-06-93, Milan, Venezia
+10, Igor Coronado, BRA, M, 1.70, 65, 18-08-92, Londrina, Trapani
+12, Josip Posavec, CRO, G, 1.90, 82, 10-03-96, Varaždin, Inter Zaprešić
+13, Eddy Gnahoré, FRA, M, 1.88, 88, 14-11-93, Villeneuve-la-Garenne, Napoli
+14, Gabriele Rolando, ITA, M, 1.82, 71, 02-04-95, Genoa, Sampdoria
+15, João Silva, POR, D, 1.85, 71, 02-01-98, Coimbra, Udinese
+16, Sándor Norbert Balogh, HUN, F, 1.96, 78, 21-02-96, Debrecen, Debrecen
+17, Michel Morganella, SUI, D, 1.84, 78, 17-05-89, Sierre, Novara
+18, Ivaylo Chochev, BUL, M, 1.90, 80, 18-02-93, Pleven, CSKA Sofia
+19, Haitam Aleesami, NOR, M, 1.82, 81, 31-07-91, Oslo, IFK Göteborg
+20, Antonino La Gumina, ITA, F, 1.82, 78, 06-03-96, Palermo, None
+21, Luca Fiordilino, ITA, M, 1.77, 68, 25-07-96, Palermo, None
+22, Alberto Pomini, ITA, G, 1.85, 80, 17-03-81, Isola della Scala, Sassuolo
+23, Corentin Fiore, BEL, D, 1.83, 75, 24-03-95, Carnières, Standard Liège
+24, Przemysław Szymiński, POL, D, 1.85, 76, 24-06-94, Katowice, Wisła Płock
+25, Antonino Gallo, ITA, M, 1.83, 65, 05-01-00, Palermo, None
+26, Simone Santoro, ITA, M, 1.75, 68, 20-09-99, Messina, None
+28, Paweł Dawidowicz, POL, M, 1.91, 85, 20-05-95, Olsztyn, Benfica
+29, Mirko Gallo, ITA, D, , , 22-01-00, Polistena, None
+30, Ilija Nestorovski, MKD, F, 1.82, 76, 12-03-90, Prilep, Inter Zaprešić
+31, Samuele Guddo, ITA, G, 1.88, 75, 02-07-99, Palermo, None
+32, Andrea Ingegneri, ITA, D, 1.84, 78, 18-01-92, Lugo, Pordenone
+34, Agostino Rizzo, ITA, F, 1.82, 73, 24-03-99, Palermo, Torino
+35, Radosław Murawski, POL, M, 1.73, 68, 22-04-94, Gliwice, Piast Gliwice
+37, Graziano Belladonna, ITA, G, 1.89, , 14-01-00, Gela, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Gennaro Ruggiero, ITA, M, 1.79, 70, 04-02-00, Naples, Torino (On Loan)
+23, Alessandro Diamanti, ITA, F, 1.80, 75, 02-05-83, Prato, Perugia
+34, Simone Lo Faso, ITA, F, 1.80, 72, 18-02-98, Palermo, Fiorentina (On Loan)
+36, Cephas Malele, SUI, F, 1.82, 83, 08-01-94, Buco-Zau, Varzim
+9, Stefan Silva, SWE, F, 1.81, 72, 11-03-90, Sundbyberg, AIK
+15, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, SPAL
+27, Gaetano Monachello, ITA, F, 1.85, 80, 03-03-94, Agrigento, Atalanta
+11, Carlos Embalo, GNB, F, 1.75, 74, 25-11-94, Bissau, Brescia (On Loan)
+33, Davide Petermann, ITA, F, 1.85, 80, 25-12-94, Rome, Sicula Leonzio (On Loan)

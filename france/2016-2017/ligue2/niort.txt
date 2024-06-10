@@ -1,0 +1,34 @@
+=  Niort - French Ligue 2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexandre Bouchard, FRA, G, 1.80, 73, 01-05-88, Grande Synthe, Paris FC
+3, David Kiki, BEN, D, 1.80, 76, 25-11-93, Vakaon, Belfort
+5, Matthieu Sans, FRA, D, 1.91, 84, 16-06-88, Toulon, Bastia
+6, Junior Sambia, FRA, M, 1.81, 68, 07-09-96, Lyon, None
+7, David Djigla, BEN, M, 1.80, 78, 23-08-95, Avakpa, Bordeaux
+8, Didier Lamkel Zé, CMR, F, 1.93, 79, 17-09-96, Bertoua, Lille
+9, Ande Dona Ndoh, CMR, F, 1.86, 78, 22-05-86, Meanja, Luzenac
+10, Laurent Agouazi, ALG, M, 1.84, 79, 16-03-84, Langres, Tours
+11, Adrian Dabasse, FRA, F, 1.87, 79, 27-07-93, Toulouse, Bordeaux
+14, Steven Da Veiga, FRA, D, 1.76, 76, 25-07-95, Neuilly-sur-Marne, Monaco
+15, Alliou Dembelé, FRA, M, 1.68, 62, 01-02-88, Pontoise, Bourg-en-Bresse
+16, Saturnin Allagbé, BEN, G, 1.87, 71, 22-11-93, Assaba, ASPAC
+17, Antoine Batisse, FRA, M, 1.86, 87, 13-01-95, Versailles, None
+18, Kévin Rocheteau, FRA, F, 1.79, 71, 10-07-93, Royan, None
+19, Jimmy Roye, FRA, M, 1.74, 68, 08-09-88, Paris, Paris FC
+20, Zakaria Grich, FRA, F, 1.75, 69, 09-06-96, Grasse, None
+21, Jérémy Choplin, FRA, D, 1.83, 70, 09-02-85, Le Mans, Metz
+22, Daouda Bassock, CMR, M, 1.67, 72, 13-03-95, Douala, None
+23, Tristan Lahaye, FRA, D, 1.81, 75, 16-02-83, Juvisy-sur-Orge, Grenoble
+25, Quentin Daubin, FRA, M, 1.83, 77, 03-07-95, Saint-Nazaire, None
+27, Jonathan Brison, FRA, D, 1.79, 73, 07-02-83, Soissons, St-Etienne
+28, Dylan Bronn, TUN, D, 1.85, 76, 19-06-95, Cannes, Cannes
+29, Romain Grange, FRA, M, 1.77, 71, 21-07-88, Châteauroux, Paris FC
+30, Arthur Desmas, FRA, G, 1.96, 87, 07-04-94, Brest, Brest
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Pierre Slidja, FRA, F, 1.70, 70, 18-02-96, Amiens, 
+4, Fernand Mayembo, CGO, D, 1.84, 88, 09-01-96, Brazzaville, Grenoble (On Loan)
+26, Messaoud Bouardja, FRA, M, 1.76, 69, 06-07-91, Lille, Wasquehal (On Loan)

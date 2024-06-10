@@ -1,0 +1,49 @@
+=  Bahia - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Corinthians
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Ponte Preta
+3, Wanderson, BRA, D, 1.86, 83, 07-02-91, Vitória da Conquista, Athletico Paranaense
+5, Flávio, BRA, M, 1.77, 73, 10-02-96, Santos, Santo André
+6, Moisés, BRA, D, 1.82, 79, 11-03-95, São Paulo, Corinthians
+7, Élber, BRA, F, 1.70, 63, 27-05-92, Passo de Camaragibe, Cruzeiro
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Yeni Malatyaspor
+11, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Corinthians
+14, Ernando, BRA, D, 1.84, 75, 14-07-88, Formosa, Internacional
+16, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Flamengo
+17, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Ponte Preta
+18, Alejandro Guerra, VEN, M, 1.70, 63, 09-07-85, Caracas, Palmeiras
+20, Fernandão, BRA, F, 1.92, 85, 27-03-87, Rio de Janeiro, Al-Wahda
+22, Ezequiel, BRA, D, 1.79, 71, 22-02-93, Treze de Mario, Fluminense
+23, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, FC Porto
+25, Giovanni, BRA, D, 1.82, 73, 23-06-89, Santos, Ponte Preta
+26, Gregore, BRA, M, 1.81, 78, 02-03-94, Juiz de Fora, Santos
+27, Shaylon, BRA, F, 1.80, 70, 27-04-97, Modelo, São Paulo
+28, Lucas Fonseca, BRA, D, 1.90, 85, 02-08-85, Pedralva, Tianjin Teda
+30, Marco Antônio, BRA, M, 1.72, 65, 01-10-97, Belém, None
+31, Douglas Borel, BRA, D, 1.78, 70, 30-03-02, Camaçari, None
+32, Fernando, BRA, G, 1.95, 95, 30-03-97, Orlândia, None
+33, Anderson, BRA, G, 1.90, 83, 20-11-83, Recife, Novorizontino
+34, Ignácio, BRA, D, 1.86, 79, 01-12-96, Açu, Força e Luz
+35, Edson, BRA, M, , , 24-04-98, , Globo
+40, Juninho, BRA, D, 1.86, 75, 02-01-95, Londrina, Palmeiras
+44, Xandão, BRA, D, 1.87, 83, 08-05-90, Itapecerica da Serra, CSA
+49, Caíque, BRA, F, 1.91, 88, 18-07-00, Salvador, Jacuipense
+77, Arthur Caíke, BRA, F, 1.74, 71, 15-06-92, Barbalha, Al-Shabab
+90, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, Sport Recife
+98, Artur, BRA, F, 1.68, 65, 15-02-98, Fortaleza, Palmeiras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Guilherme, BRA, M, 1.73, 77, 22-10-88, Imperatriz, Corinthians
+19, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, CSA
+96, Fernando Medeiros, BRA, M, 1.80, 77, 10-02-96, São Vicente, Portimonense
+18, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, Corinthians
+16, Paulinho, BRA, D, 1.78, 71, 03-01-95, São Paulo, FC Midtjylland
+25, Everson, BRA, D, 1.87, 67, 24-07-97, Salvador, Portimonense (On Loan)
+13, Matheus Silva, BRA, D, 1.82, 76, 03-10-97, Marituba, Farense (On Loan)
+12, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, Atlético Mineiro
+4, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Fortaleza (On Loan)
+10, Eric Ramires, BRA, M, 1.74, 67, 10-08-00, Salvador, Basel (On Loan)
+71, Iago, BRA, F, 1.77, 77, 11-03-96, Aracaju, Confiança

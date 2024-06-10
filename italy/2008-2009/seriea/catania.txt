@@ -1,0 +1,44 @@
+=  Catania - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Albano Bizzarri, ARG, G, 1.93, 89, 09-11-77, Etruria, Nàstic
+2, Alessandro Potenza, ITA, D, 1.84, 76, 08-03-84, San Severo, Genoa
+3, Gerardo Strumbo, ITA, D, 1.85, 76, 07-06-91, Chiaravalle Centrale, None
+4, Matías Silvestre, ARG, D, 1.84, 74, 25-09-84, Capital Federal, Boca Juniors
+5, Ezequiel Carboni, ARG, M, 1.79, 74, 04-04-79, Capital Federal, Red Bull Salzburg
+6, Lorenzo Stovini, ITA, D, 1.86, 80, 24-11-76, Florence, Lecce
+7, Giuseppe Mascara, ITA, F, 1.75, 66, 22-08-79, Caltagirone, Perugia
+8, Pablo Ledesma, ARG, M, 1.75, 74, 04-02-84, La Falda, Boca Juniors
+9, Michele Paolucci, ITA, F, 1.84, 75, 06-02-86, Recanati, Udinese
+10, Nicolae Dică, ROU, M, 1.81, 73, 09-05-80, Piteşti, Steaua Bucureşti
+11, Cristian Llama, ARG, M, 1.79, 72, 26-06-86, Lomas de Zamora, Arsenal [ARG]
+12, Tomáš Košický, SVK, G, 1.97, 89, 11-03-86, Bratislava, Inter Bratislava
+13, Mariano Izco, ARG, M, 1.77, 71, 13-03-83, Capital Federal, San Telmo
+14, Vito Falconieri, ITA, F, 1.81, 72, 08-06-86, Brindisi, Reggiana
+15, Takayuki Morimoto, JPN, F, 1.80, 70, 07-05-88, Tokyo, Tokyo Verdy
+17, Davide Baiocco, ITA, M, 1.72, 70, 08-05-75, Colvalenza, Perugia
+18, Andrea D'Amico, ITA, M, , , 17-05-89, , None
+19, Giacomo Tedesco, ITA, M, 1.75, 72, 01-02-76, Palermo, Reggina
+20, Paolo Acerbis, ITA, G, 2.02, 88, 05-05-81, Clusone, Grosseto
+21, Cristian Silvestri, ITA, D, 1.82, 77, 21-01-75, Rome, Lecce
+22, Francesco Millesi, ITA, F, 1.80, 70, 24-07-80, Catania, Avellino
+23, Christian Terlizzi, ITA, D, 1.90, 78, 22-11-79, Rome, Palermo
+24, Gionatha Spinesi, ITA, F, 1.83, 77, 08-03-78, Pisa, Arezzo
+25, Jorge Martínez, URU, F, 1.78, 80, 05-04-83, Montevideo, Nacional [URU]
+26, Fabio Sciacca, ITA, M, 1.77, 72, 16-05-89, Catania, None
+27, Marco Biagianti, ITA, M, 1.80, 71, 19-04-84, Florence, Pro Vasto
+29, Giordano Maccarone, ITA, D, 1.80, 72, 09-04-90, , None
+33, Ciro Capuano, ITA, D, 1.85, 74, 10-07-81, Naples, Palermo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Andrea Catellani, ITA, F, 1.78, 68, 26-05-88, Reggio Emilia, Modena (On Loan)
+29, Ciro Polito, ITA, G, 1.84, 78, 12-04-79, Naples, Grosseto (On Loan)
+20, Mirco Antenucci, ITA, F, 1.78, 65, 08-09-84, Termoli, Pisa (On Loan)
+26, Mark Edusei, GHA, M, 1.77, 70, 29-09-76, Kumasi, Bari
+2, Gennaro Sardo, ITA, D, 1.90, 87, 03-05-79, Pozzuoli, Chievo Verona (On Loan)
+3, Rocco Sabato, ITA, D, 1.84, 79, 19-04-82, Potenza, Empoli
+14, Pablo Álvarez, ARG, D, 1.84, 82, 17-04-84, San Martín, Rosario Central (On Loan)
+16, Gianvito Plasmati, ITA, F, 1.99, 85, 28-01-83, Matera, Atalanta (On Loan)
+28, Giuseppe Colucci, ITA, M, 1.80, 73, 24-08-80, Foggia, Chievo Verona

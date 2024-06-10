@@ -1,0 +1,51 @@
+=  Inter Miami - USA Major League Soccer 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Drake Callender, USA, G, 1.91, 93, 07-10-97, Sacramento, UC Berkeley
+2, DeAndre Yedlin, USA, D, 1.73, 68, 09-07-93, Seattle, Galatasaray
+3, Dixon Arroyo, ECU, M, 1.79, 73, 01-06-92, Guayaquil, Emelec
+4, Christopher McVey, SWE, D, 1.84, 75, 12-04-97, Sparsör, IF Elfsborg
+5, Sergio Busquets, ESP, M, 1.89, 76, 16-07-88, Sabadell, Barcelona
+6, Tomás Aviles, ARG, M, 1.86, 72, 03-02-04, Rio Gallegos, Racing Club
+7, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Santos
+8, Diego Gómez, PAR, M, 1.85, 77, 27-03-03, San Juan Bautista, Libertad
+9, Leonardo Campana, ECU, F, 1.87, 80, 07-07-00, Guayaquil, Wolverhampton W
+10, Lionel Messi, ARG, F, 1.70, 72, 24-06-87, Rosario, Paris St-Germain
+11, Facundo Farías, ARG, M, 1.71, 69, 28-08-02, Santa Fe, Colón (Santa Fe)
+13, Victor Ulloa, USA, M, 1.83, 72, 04-03-92, Wylie, FC Cincinnati
+14, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, Lens
+15, Ryan Sailor, USA, D, 1.94, 82, 27-11-98, Centennial, Univ of Washington
+16, Robert Taylor, FIN, M, 1.82, 78, 21-10-94, Kuopio, Brann
+17, Josef Martínez, VEN, F, 1.70, 70, 19-05-93, Valencia [VEN], Atlanta U
+18, Jordi Alba, ESP, D, 1.70, 68, 21-03-89, L'Hospitalet de Llobregat, Barcelona
+19, Robbie Robinson, USA, F, 1.88, 77, 17-12-98, Camden, SC, Clemson Univ
+22, Nicolás Stefanelli, ARG, F, 1.76, 72, 22-01-94, Quilmes, AIK
+24, Ian Fray, USA, D, 1.83, 73, 31-08-02, Coconut Creek, Fort Lauderdale CF
+26, Gregore, BRA, M, 1.81, 78, 02-03-94, Juiz de Fora, Bahia
+27, Serhiy Kryvtsov, UKR, D, 1.86, 76, 15-03-91, Zaporizhya, Shakhtar Donetsk
+28, Edison Azcona, DOM, M, 1.68, 59, 21-11-03, La Romana, Orlando C
+29, CJ dos Santos, USA, G, 1.88, 68, 24-08-00, Philadelphia, Benfica
+30, Benjamin Cremaschi, USA, M, 1.80, 75, 02-03-05, Miami, None
+31, Kamal Miller, CAN, D, 1.83, 77, 16-05-97, Scarborough [CAN], CF Montréal
+32, Noah Allen, USA, D, 1.75, 66, 28-04-04, Pembroke Pines, Weston FC
+33, Franco Negri, ARG, D, 1.75, 70, 20-02-95, San Martín, Godoy Cruz (Mendoza)
+35, Felipe Valencia, USA, M, 1.75, 63, 01-03-05, Pembroke Pines, Miami Rush Kendall SC
+41, David Ruiz, HON, M, 1.83, 69, 08-02-04, Miami, None
+43, Lawson Sunderland, USA, M, 1.90, 80, 07-11-01, Aurora, Sant Andreu
+45, Lucas Meek, USA, M, 1.87, 73, 07-03-99, Mercer Island, Univ of Washington
+55, Tyler Hall, USA, D, -, -, 05-02-06, -, None
+62, Israel Boatwright, DOM, D, 1.83, 80, 02-06-05, Grand Rapids, None
+89, Cameron Johnson, CRC, M, -, -, 16-04-04, Miami, Lanús
+99, Cole Jensen, USA, G, 1.95, 88, 22-01-01, Council Bluffs, Xavier Univ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Bryce Duke, USA, M, 1.70, 66, 28-02-01, Peoria, CF Montréal
+11, Ariel Lassiter, CRC, F, 1.78, 71, 27-09-94, Turrialba, CF Montréal
+6, Aimé Mabika, ZAM, D, 1.98, 97, 16-08-98, Lusaka, Toronto FC
+12, Jake LaCava, USA, F, 1.83, 80, 12-01-01, New Milford, Tampa Bay Rowdies (On Loan)
+20, Rodolfo Pizarro, MEX, M, 1.77, 65, 15-02-94, Tampico, AEK
+21, Nick Marsman, NED, G, 1.81, 78, 01-10-90, Zwolle, MLS Pool
+49, Shanyder Borgelin, HAI, F, 1.93, 84, 19-10-01, Margate, FL, New Mexico U (On Loan)
+18, Harvey Neville, IRL, D, 1.81, 70, 26-06-02, Manchester, Loudoun U (On Loan)

@@ -1,0 +1,52 @@
+=  Jagiellonia Białystok - Polish Ekstraklasa 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jakub Słowik, POL, G, 1.90, 82, 31-08-91, Nowy Sącz, Sparta Oborniki
+2, Filip Modelski, POL, D, 1.80, 73, 28-09-92, Gdynia, West Ham U
+3, Jonatan Straus, POL, D, 1.82, 71, 30-06-94, Nowe Miasto Lubawskie, Warmia Olsztyn
+4, Michał Pazdan, POL, M, 1.80, 76, 21-09-87, Kraków, Górnik Zabrze
+5, Łukasz Tymiński, POL, M, 1.73, 67, 08-11-90, Żywiec, Polonia Bytom
+6, Taras Romanczuk, UKR, M, 1.86, 73, 14-11-91, Kovel, Legionovia Legionowo
+7, Sebastian Madera, POL, D, 1.90, 80, 30-05-85, Rawicz, Lechia Gdańsk
+8, Patryk Tuszyński, POL, F, 1.84, 77, 13-12-89, , Lechia Gdańsk
+9, Jan Pawłowski, POL, F, 1.87, 79, 18-11-92, Sokółka, Sokół Sokółka
+10, Nika Dzalamidze, GEO, M, 1.73, 70, 06-12-92, Tbilisi, Widzew Łódź
+11, Karol Mackiewicz, POL, F, 1.78, 66, 01-06-92, Białystok, Hetman Białystok
+13, Przemysław Mystkowski, POL, F, 1.74, 62, 25-04-98, Białystok, None
+14, Marek Wasiluk, POL, D, 1.97, 88, 03-06-87, Białystok, Widzew Łódź
+16, Mateusz Maliszewski, POL, D, 1.88, 85, 03-01-98, Białystok, None
+18, Martin Baran, SVK, D, 1.86, 82, 03-01-88, Prešov, Polonia Warszawa
+19, Igors Tarasovs, LVA, D, 1.90, 85, 16-10-88, Riga, Neman Grodno
+20, Maciej Gajos, POL, M, 1.74, 65, 19-03-91, Kraków, Raków Częstochowa
+21, Przemysław Frankowski, POL, M, 1.75, 68, 12-04-95, Gdańsk, Lechia Gdańsk
+22, Rafał Grzyb, POL, M, 1.75, 75, 16-01-83, Jędrzejów, Polonia Bytom
+23, Michał Pawlik, POL, M, 1.82, 73, 08-05-95, Ryki, Mazur Karczew
+25, Rafał Augustyniak, POL, D, 1.85, 83, 14-10-93, Zduńska Wola, Widzew Łódź
+26, Emil Gajko, POL, F, 1.77, 74, 10-05-96, Białystok, None
+27, Mateusz Piątkowski, POL, F, 1.86, 75, 22-11-84, Bielawa, Dolcan Ząbki
+28, Karol Świderski, POL, F, 1.84, 74, 23-01-97, Rawicz, UKS SMS Łódź
+30, Dominik Prusaczyk, POL, M, 1.74, 68, 10-01-98, Ostrołęka, KS Piaseczno
+31, Patryk Malinowski, POL, M, 1.79, 74, 10-07-94, Białystok, MOSP Białystok
+32, Karol Buzun, POL, M, 1.78, 70, 04-03-96, Białystok, None
+33, Krzysztof Baran, POL, G, 1.95, 92, 12-02-90, Tomaszów Mazowiecki, Chojniczanka Chojnice
+35, Paweł Kaczmarczyk, POL, F, 1.71, 65, 06-07-98, Kolno, Orzeł Kolno
+37, Michał Domański, POL, M, 1.72, 61, 21-03-88, Dębica, Stal Mielec
+39, Krzysztof Karpieszuk, POL, G, 1.87, 82, 30-11-96, Białystok, None
+40, Kacper Rosa, POL, G, 1.90, 77, 13-08-94, Kostrzyn nad Odrą, Lechia Gdańsk
+41, Patryk Niemczynowicz, POL, M, 1.84, 74, 12-09-88, Bielsk Podlaski, Tur Bielsk Podlaski
+42, Kamil Pajnowski, POL, D, 1.86, 81, 28-01-98, Biała Podlaska, TOP 54 Biała Podlaska
+43, Kacper Piechniak, POL, F, 1.85, 75, 29-10-97, Stalowa Wola, Orzeł Rudnik
+69, Bartłomiej Drągowski, POL, G, 1.88, 74, 19-08-97, Białystok, None
+77, Giorgi Popkhadze, GEO, D, 1.82, 80, 25-09-86, Tbilisi, Sioni Bolnisi
+88, Pavel Savitski, BLR, M, 1.75, 69, 12-07-94, Grodno, Neman Grodno
+97, Damian Dudała, POL, D, 1.83, 82, 02-01-97, Bielsko-Biała, UKS SMS Łódź
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Dani Quintana, ESP, M, 1.73, 65, 08-03-87, Las Palmas, Al-Ahli [KSA]
+17, Radosław Jasiński, POL, D, 1.86, 77, 09-04-90, Międzyrzecz, Bytovia Bytów
+11, Damian Kądzior, POL, M, 1.73, 69, 16-06-92, Białystok, Dolcan Ząbki (On Loan)
+12, Povilas Leimonas, LTU, M, 1.85, 78, 16-11-87, Marijampolė, GKS Katowice
+24, Tomasz Porębski, POL, D, 1.95, 84, 12-01-92, Białystok, GKS Tychy (On Loan)
+25, Adam Waszkiewicz, POL, D, 1.84, 79, 06-12-93, Łódź, Raków Częstochowa (On Loan)

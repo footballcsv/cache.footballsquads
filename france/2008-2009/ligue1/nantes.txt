@@ -1,0 +1,43 @@
+=  Nantes - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tony Heurtebis, FRA, G, 1.81, 73, 15-01-75, Saint-Nazaire, Brest
+2, Ibrahim Tall, SEN, D, 1.83, 74, 23-06-81, Aubervilliers, Hearts
+3, Douglão, BRA, D, 1.93, 86, 15-08-86, Santos, Internacional
+4, Kévin Das Neves, FRA, D, 1.83, 75, 08-05-86, Clermont-Ferrand, None
+5, Jean-Jacques Pierre, HAI, D, 1.80, 79, 23-01-81, Leogane, Peñarol
+6, Guillaume Moullec, FRA, D, 1.75, 70, 03-07-80, Brest, Lorient
+7, Djamel Abdoun, ALG, M, 1.80, 65, 14-02-86, Montreuil-sous-Bois, Ajaccio
+8, Frédéric da Rocha, FRA, M, 1.77, 72, 16-09-74, Cénon, None
+9, Thomas Dossevi, TOG, F, 1.83, 82, 06-03-79, Chambray-lès-Tours, Valenciennes
+10, Mamadou Bagayoko, MLI, F, 1.90, 79, 21-05-79, Paris, Ajaccio
+11, Aurèlien Capoue, FRA, M, 1.85, 74, 28-02-82, Niort, Romorantin
+12, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Crvena Zvezda
+15, Rémy Maréval, FRA, D, 1.82, 75, 24-02-83, Domont, Tours
+16, Jérôme Alonzo, FRA, G, 1.85, 83, 20-11-72, Menton, Paris St-Germain
+17, Ivan Klasnić, CRO, F, 1.86, 79, 29-01-80, Hamburg, Werder Bremen
+18, David De Freitas, FRA, M, 1.80, 69, 30-09-79, Senlis, Amiens
+19, Stefan Babović, SRB, M, 1.81, 73, 07-01-87, Berane, OFK Belgrade
+20, Christian Bekamenga, CMR, F, 1.85, 79, 09-05-86, Yaoundé, Persib Bandung
+21, William Vainqueur, FRA, M, 1.79, 73, 19-11-88, Neuilly-sur-Marne, None
+22, Guirane N'Daw, SEN, M, 1.89, 79, 24-04-84, Rufisque, Sochaux
+23, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Roma
+24, Loïc Guillon, FRA, D, 1.86, 80, 11-01-82, Limoges, None
+25, Karim El Mourabet, FRA, D, 1.86, 81, 30-04-87, Orléans, None
+26, Yoann Poulard, FRA, D, 1.91, 77, 01-07-76, Saint-Nazaire, Brest
+27, Ronny Rodelin, FRA, M, 1.92, 70, 18-11-89, Saint-Denis de La Réunion, Rodez
+40, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, None
+, Erwin Zelazny, FRA, G, 1.86, 80, 22-09-91, Grande-Synthe, None
+, Aristote Lusinga, FRA, D, 1.80, 78, 20-02-90, Nantes, None
+, Loïc Nego, FRA, D, 1.79, 64, 15-01-91, Paris, None
+, Sofiane Hanni, FRA, F, 1.78, 72, 29-12-90, Ivry-sur-Seine, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Mathias Coureur, FRA, M, 1.78, 68, 22-03-88, Fort-de-France, Gueugnon (On Loan)
+27, Marek Heinz, CZE, F, 1.84, 80, 04-08-77, Olomouc, Brno
+14, Olivier Thomas, FRA, D, 1.83, 79, 06-10-74, Saint-Denis, Sochaux
+29, Michael Gravgaard, DEN, D, 1.87, 88, 03-04-78, Randers, Hamburg (On Loan)
+13, Nicolas Goussé, FRA, F, 1.82, 75, 02-01-76, Thouars, Croix-de-Savoie
+28, Claudiu Keserü, ROU, F, 1.78, 81, 02-12-86, Oradea, Tours (On Loan)

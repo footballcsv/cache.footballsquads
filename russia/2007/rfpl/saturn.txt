@@ -1,0 +1,56 @@
+=  Saturn - Russian Football Premier League 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonín Kinský, G, 6'02", 12 13, 31-05-75, Prague, Slovan Liberec
+2, Vadim Evseev, D, 5'11", 12 13, 08-01-76, Moscow, Torpedo Moscow
+3, Rolandas Dziaukstas, D, 6'01", 12 08, 01-04-78, Vilnius, FC Moscow
+4, Peter Petráš, D, 5'11", 12 06, 07-05-79, Bratislava, Artmedia Bratislava
+5, Alexey Igonin, M, 5'10", 12 01, 18-03-76, St. Petersburg, Chernomorets Odessa
+6, Ján Ďurica, D, 6'02", 13 01, 10-11-81, Bratislava, Artmedia Bratislava
+7, Oleg Vlasov, M, 5'10", 11 07, 10-12-84, St. Petersburg, Zenit
+8, Pyotr Nemov, M, 5'11", 11 05, 18-10-83, Moscow, Krylia Sovetov
+9, Baffour Gyan, F, 5'11", 11 07, 02-07-80, Liberty, Dynamo Moscow
+10, Dmitriy Loskov, M, 5'09", 11 09, 12-02-74, Kurgan, Lokomotiv Moscow
+11, Alexei Eremenko jr, M, 6'00", 12 06, 24-03-83, Rostov, Lecce
+13, Denis Iliescu, D, 6'02", 12 13, 20-01-87, , Kryvbas Kryvyi Rih
+14, Dmitriy Kirichenko, F, 5'09", 11 07, 17-01-77, Min Vody, FC Moscow
+15, Ruslan Nakhushev, M, 6'00", 12 04, 05-09-84, Moscow, Khimki
+16, Aleksei Botvinyev, G, 6'04", 14 02, 25-06-81, Kolomna, Shakhtar Donetsk
+17, Sergey Yashin, M, 5'10", 11 03, 03-01-81, Moscow, Dynamo Moscow
+18, Edgaras Česnauskis, M, 6'00", 11 11, 05-02-84, Panevėžys, Dynamo Kiev
+19, Illiasu Shilla, D, 6'02", 11 11, 26-10-82, , Asante Kotoko
+20, Makhach Gadzhiev, M, 5'11", 11 07, 18-10-87, Moscow, Krylia Sovetov
+21, Andrei Karyaka, M, 5'11", 11 05, 01-04-78, Kiev, Benfica
+22, Igor Lebedenko, F, 6'00", 11 05, 27-05-83, Moscow, Lokomotiv Moscow
+23, Andrey Husin, M, 6'02", 12 04, 11-12-72, Kiev, Krylia Sovetov
+24, Artem Pershin, M, 5'10", 11 05, 06-02-88, Moskovskaya Oblast, Saturn B
+25, Dmitriy Polovinchuk, M, 5'11", 11 00, 27-09-82, Moscow, Dynamo Moscow
+26, Martin Jakubko, F, 6'03", 14 00, 26-02-80, Prešov, Dukla Banská Bystrica
+27, Aleksandr Kharitonov, M, 5'10", 11 00, 04-04-83, Krasnoyarsk, Tom
+28, Anatoliy Gerk, M, 5'10", 12 08, 20-11-84, Moscow, FC Twente
+29, Pavel Solomin, F, 5'09", 11 03, 15-06-82, Tashkent, Traktor Tashkent
+30, Aleksandr Makarov, G, 6'06", 15 02, 23-08-78, St. Petersburg, Krylia Sovetov
+31, Alexey Solosin, G, 6'02", 12 06, 11-08-87, Moscow, Fakal Voronezh
+32, Kirill Spasskiy, M, 5'10", 11 05, 11-12-88, Yaroslavl, Saturn B
+33, Valeriy Esipov, M, 5'07", 10 12, 04-10-71, Shchigry, Rotor
+34, Mikhail Kuzyayev, M, 5'10", 11 00, 22-01-88, Bronnitsy, Saturn B
+35, Ivan Temnikov, M, 5'05", 09 13, 28-01-89, Bratsk, Saturn B
+38, Andrey Mikheev, F, 6'00", 11 05, 01-07-87, Moskovskaya Oblast, Saturn B
+41, Aleksandr Sapeta, M, 6'00", 11 05, 28-06-89, Engels, Saturn B
+43, Roman Razdelkin, M, 6'01", 10 10, 07-04-89, Saratov, Saturn B
+44, Anton Kozlov, M, 5'10", 10 10, 02-06-88, Bratsk, Saturn B
+50, Yakov Cheremisov, F, 5'10", 11 07, 07-01-87, Moskovskaya Oblast, Saturn B
+59, Arsen Kaitov, D, 5'10", 11 09, 02-07-89, Moskovskaya Oblast, Saturn B
+60, Evgeniy Malkov, D, 6'00", 12 00, 12-07-88, Moskovskaya Oblast, Saturn B
+77, Gogita Gogua, M, 5'09", 11 05, 04-09-83, Tbilisi, Saturn Nalchik
+88, Alexey Ivanov, M, 5'10", 11 11, 01-09-81, Saratov, Luch-Energia
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Artem Rebrov, G, 6'03", 13 03, 04-03-84, Moscow, Avangard Kursk (On Loan)
+37, Dmitriy Romanenko, G, 6'01", 12 01, 20-01-87, Moskovskaya Oblast, Znamya Truda (On Loan)
+13, Dušan Petković, D, 6'02", 14 00, 13-06-74, Belgrade, 
+36, Anton Matveev, M, 5'05", 10 03, 01-05-87, Moskovskaya Oblast, 
+10, Simon Vukčević, M, 5'10", 12 08, 29-01-86, Podgorica, Sporting CP
+39, Dmitriy Bodryagin, F, 5'11", 11 05, 18-02-87, Moskovskaya Oblast, 

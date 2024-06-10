@@ -1,0 +1,37 @@
+=  Mallorca - Spanish La Liga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Ángel Moyá, ESP, G, 1.85, 75, 02-04-84, Binissalem, Mallorca B
+2, Cléber Santana, BRA, M, 1.87, 84, 27-06-81, Recife, Atlético Madrid
+3, Josemi, ESP, D, 1.82, 82, 15-11-79, Torremolinos, Villarreal
+4, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Mallorca B
+5, Lionel Scaloni, ARG, M, 1.82, 80, 16-05-78, Rosario, Lazio
+6, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Atlético Madrid
+7, Fernando Varela, ESP, D, 1.80, 78, 01-09-79, Dos Hermanas, Betis
+8, Juanmi Callejón, ESP, M, 1.79, 70, 11-02-87, Motril, Real Madrid B
+9, Pierre Webó, CMR, F, 1.80, 78, 20-01-82, Bafoussan, Osasuna
+10, José Manuel Jurado, ESP, M, 1.73, 72, 29-06-86, Sanlúcar de Barrameda, Atlético Madrid
+11, Gonzalo Castro, URU, M, 1.76, 70, 14-09-84, Trinidad, Nacional [URU]
+13, Dudu Aouate, ISR, G, 1.88, 84, 17-10-77, Haifa, Deportivo La Coruña
+14, Alhassane Keita, GUI, F, 1.69, 68, 26-06-83, Conakry, Al-Ittihad [KSA]
+15, David Navarro, ESP, D, 1.88, 82, 25-05-80, Valencia, Valencia
+16, José Nunes, POR, D, 1.85, 82, 07-03-77, Castelo de Pavia, Sporting Braga
+17, Ayoze, ESP, D, 1.75, 70, 25-05-82, La Laguna, Racing Santander
+18, Juan Arango, VEN, M, 1.79, 74, 17-05-80, Maracay, Puebla
+19, José Luis Martí, ESP, M, 1.80, 74, 28-04-75, Palma de Mallorca, Sevilla
+20, Óscar Trejo, ARG, F, 1.80, 79, 26-04-88, Santiago del Estero, Boca Juniors
+21, Aritz Aduriz, ESP, F, 1.77, 75, 11-02-81, San Sebastián, Athletic Bilbao
+23, Enrique Corrales, ESP, D, 1.75, 70, 01-03-82, Seville, Osasuna
+25, Germán Lux, ARG, G, 1.86, 77, 06-07-82, Carcarañá, River Plate
+26, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Chelsea
+27, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Mallorca B
+28, Alberto, ESP, M, 1.80, 65, 09-03-88, Palma de Mallorca, Mallorca B
+29, Nauzet Pérez, ESP, G, 1.90, 90, 01-03-85, Las Palmas, Fuerteventura
+30, Javi Seral, ESP, G, 1.83, 81, 22-01-90, Palma de Mallorca, Mallorca Juvenil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Martí Crespi, ESP, D, 1.81, 78, 15-06-87, Mallorca, Xerez (On Loan)
+24, Jordi López, ESP, M, 1.82, 77, 28-02-81, Granollers, QPR
+26, Dani Castellano, ESP, M, 1.80, 76, 02-11-87, Las Palmas, Alavés (On Loan)

@@ -1,0 +1,41 @@
+=  Rosenborg - Norwegian Tippeligaen 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Örlund, SWE, G, 1.94, 93, 23-06-80, Stockholm, AIK
+2, Cristian Gamboa, CRC, D, 1.75, 67, 24-10-89, Liberia, FC København
+3, Mikael Dorsin, SWE, D, 1.82, 78, 06-10-81, Lidingö, CFR Cluj
+4, Tore Reginiussen, NOR, D, 1.85, 80, 10-06-86, Tromsø, Odense
+5, Per Verner Vågan Rønning, NOR, D, 1.93, 85, 09-01-83, Levanger, Bodø/Glimt
+7, Awal Issah, GHA, M, 1.73, 71, 04-04-86, Accra, Crvena Zvezda
+8, Bořek Dočkal, CZE, M, 1.82, 71, 30-09-88, Městec Králové, Slovan Liberec
+9, Rade Prica, SWE, F, 1.85, 80, 30-06-80, Ljungby, Sunderland
+10, John Chibuike, NGA, M, 1.82, 76, 10-10-88, Enugu, BK Häcken
+11, Steffen Iversen, NOR, F, 1.85, 79, 10-11-76, Oslo, Crystal Palace
+12, Alexander Lund Hansen, NOR, G, 1.97, 89, 06-10-82, Trondheim, Start
+13, Jaime Alas, SLV, M, 1.72, 68, 30-07-89, San Salvador, Luís Ángel Firpo
+14, Jon Inge Høiland, NOR, D, 1.87, 82, 20-09-77, Fåberg, Stabæk
+17, Tarik Elyounoussi, NOR, F, 1.72, 62, 23-02-88, Al Hoceima, Fredrikstad
+20, Ole Selnæs, NOR, M, 1.87, 74, 07-07-94, Trondheim, None
+22, Jonas Svensson, NOR, M, 1.70, 70, 06-03-93, Levanger, None
+23, Lars Arne Togstad, NOR, D, 1.88, 81, 22-12-94, , None
+24, Stefan Strandberg, NOR, D, 1.89, 80, 25-07-90, Lyngdal, Vålerenga
+26, Erik Bråthen, NOR, G, 1.96, 94, 16-09-87, Halden, Fredrikstad
+28, Daniel Fredheim Holm, NOR, F, 1.80, 77, 30-07-85, Oslo, Aalborg
+31, Magnus Fagerli, NOR, G, , , 12-08-94, , None
+32, Christoffer Aasbak, NOR, D, 1.87, 72, 22-07-93, Trondheim, None
+33, Alexander Hovdevik, NOR, G, 1.91, 91, 30-08-92, , None
+34, Emil Røkke, NOR, D, , , 14-07-93, , None
+35, Magnus Blakstad, NOR, M, 1.94, 83, 18-01-94, Trondheim, None
+36, Kim Ove Riksvold, NOR, F, , , 26-10-93, , None
+42, Mikkel Diskerud, USA, M, 1.84, 68, 02-10-90, Oslo, Stabæk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Michael Jamtfall, NOR, F, 1.83, 75, 24-03-87, Trondheim, Retired
+4, Jim Larsen, DEN, D, 1.90, 90, 06-11-85, Korsør, Club Brugge
+2, Peter Ankersen, DEN, D, 1.80, 73, 22-09-90, Esbjerg, Esbjerg
+16, Simen Wangberg, NOR, D, 1.85, 73, 06-05-91, Trondheim, Brann
+18, Daniel Berntsen, NOR, M, 1.87, 76, 04-04-93, Tromsø, Bodø/Glimt (On Loan)
+19, Markus Henriksen, NOR, M, 1.87, 85, 25-07-92, Trondheim, AZ Alkmaar
+21, Fredrik Midtsjø, NOR, M, 1.76, 70, 11-08-93, Stjørdal, Ranheim (On Loan)

@@ -1,0 +1,73 @@
+=  Grêmio - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+2, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Corinthians
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Michel, BRA, M, 1.75, 67, 22-03-90, São Paulo, Novorizontino
+6, Leonardo Gomes, BRA, D, 1.83, 79, 30-06-96, Araguaína, Boa
+7, Luan, BRA, F, 1.80, 71, 27-03-93, São José do Rio Preto, América-SP
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, São Paulo
+9, Michael Arroyo, ECU, M, 1.67, 63, 23-04-87, Guayaquil, América
+11, Everton, BRA, F, 1.74, 72, 22-03-96, Fortaleza, Fortaleza
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+15, Rafael Thyere, BRA, D, 1.90, 86, 17-05-93, João Pessoa, None
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Juventude
+18, Lucas Barrios, PAR, F, 1.87, 87, 13-11-84, San Fernando, Palmeiras
+19, Beto da Silva, PER, F, 1.82, 69, 28-12-96, Lima, PSV Eindhoven
+20, Léo, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, None
+21, Fernandinho, BRA, F, 1.71, 66, 25-11-85, São Paulo, Al-Jazira
+22, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, Juventude
+25, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, None
+26, Marcelo Oliveira, BRA, D, 1.84, 76, 29-03-87, Salvador, Cruzeiro
+27, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, São Paulo
+28, Kaio, BRA, M, 1.73, 62, 18-03-95, Várzea Grande, Juventude
+29, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, None
+30, Bruno Grassi, BRA, G, 1.90, 88, 05-03-87, Tubarão, Cruzeiro-RS
+31, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea, Joinville
+33, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Cruzeiro
+34, Guilherme Guedes, BRA, D, 1.77, 73, 18-05-99, Porto Alegre, None
+35, Machado, BRA, M, 1.74, 61, 20-01-96, Santa Maria, Desportivo Brasil
+36, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, São Caetano
+38, Conrado, BRA, D, 1.73, 72, 03-04-97, Ajuricaba, None
+39, Pepê, BRA, F, 1.75, 68, 24-02-97, Foz do Iguaçu, Foz do Iguaçu
+40, Dida, BRA, G, , , 14-11-97, Porto Alegre, None
+41, Balbino, BRA, M, 1.82, 75, 19-01-97, Porto Alegre, None
+42, Denilson, BRA, D, 1.87, 77, 18-04-95, Brasília, None
+43, Patrick, BRA, M, 1.76, 65, 23-11-98, Porto Alegre, None
+44, Jadson, BRA, F, 1.84, 81, 16-06-98, São Manuel, None
+45, Batista, BRA, F, 1.78, 72, 16-06-95, Americana, None
+47, Raul, BRA, D, 1.75, 70, 04-04-97, Porto Alegre, None
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Flamengo
+49, Léo Tilica, BRA, F, 1.72, 65, 20-04-95, São Luís, None
+50, Vico, BRA, F, 1.74, 68, 03-12-96, Cascavel, None
+51, Zé Augusto, BRA, D, 1.87, 80, 15-07-96, Florianópolis, None
+52, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, None
+53, Ezequiel Esperon, ARG, M, , , 04-04-96, Buenos Aires, Internacional
+54, Dionathã, BRA, F, 1.74, 66, 24-01-98, Rebouças, None
+55, Lucas Poletto, BRA, M, 1.80, 74, 29-03-95, Belo Horizonte, Santos
+56, Dudu, BRA, M, 1.70, 67, 01-02-97, Manacapuru, Vila Nova
+57, Araújo, BRA, M, 1.81, 76, 16-05-95, Aparecida de Goiânia, Guarani de Juazeiro
+60, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, None
+61, Emanuel, BRA, D, 1.79, 74, 01-11-99, São Paulo, Desportivo Brasil
+62, Ericson, BRA, D, , , 11-05-99, , None
+63, Felipe, BRA, D, , , 27-09-99, , None
+64, Ruan, BRA, D, , , 07-06-99, Tramandaí, None
+65, Lucas Araújo, BRA, M, 1.78, 79, 21-05-99, Fortaleza, None
+66, Cristian Baroni, BRA, M, 1.83, 82, 25-06-83, Belo Horizonte, Corinthians
+88, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Santa Cruz
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Ceará (On Loan)
+13, Wallace, BRA, D, 1.75, 72, 01-05-94, Rio de Janeiro, Chelsea
+31, Nicolas Careca, BRA, F, 1.88, 78, 18-05-97, Brasília, Figueirense
+10, Gastón Fernández, ARG, F, 1.70, 72, 12-10-83, Capital Federal, Estudiantes (LP)
+14, Maxi Rodríguez, URU, M, 1.81, 65, 02-10-90, Montevideo, San Martín (San Juan)
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+46, Jeferson Negueba, BRA, M, 1.76, 76, 02-01-94, Porto Velho, Criciúma
+27, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, Rizespor (On Loan)
+23, Miller Bolaños, ECU, F, 1.70, 65, 01-06-90, Esmeraldas, Tijuana (On Loan)
+36, Tyroane Sandows, RSA, F, 1.70, 70, 12-02-95, Johannesburg, Figueirense

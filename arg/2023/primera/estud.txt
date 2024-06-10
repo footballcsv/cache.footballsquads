@@ -1,0 +1,41 @@
+=  Estudiantes (La Plata) - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabricio Iacovich, ARG, G, 1.97, 85, 29-01-02, La Plata, None
+2, Zaid Romero, ARG, D, 1.95, 85, 15-12-99, Mendoza, Godoy Cruz (Mendoza)
+3, Emmanuel Más, ARG, D, 1.80, 81, 15-01-89, San Juan, Orlando C
+4, Santiago Núñez, ARG, D, 1.87, 78, 29-04-00, Roque Pérez, None
+5, Santiago Ascacibar, ARG, M, 1.68, 69, 25-02-97, La Plata, Hertha Berlin
+6, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Independiente
+7, José Ernesto Sosa, ARG, M, 1.79, 72, 19-06-85, Carcarañá, Fenerbahçe
+8, Fernando Zuqui, ARG, M, 1.70, 64, 27-11-91, Luján de Cuyo, Boca Juniors
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Henan Songshan Longmen
+10, Benjamín Rollheiser, ARG, M, 1.75, 71, 24-03-00, Pueblo San José, River Plate
+11, Deian Verón, ARG, M, 1.81, 79, 25-09-00, La Plata, None
+12, Daniel Sappa, ARG, G, 1.93, 91, 09-02-95, La Plata, None
+13, Gastón Benedetti, ARG, D, 1.75, 67, 29-03-01, Larroque, None
+14, Eros Mancuso, ARG, D, 1.73, 73, 17-04-99, Haedo, Boca Juniors
+15, Franco Zapiola, ARG, M, 1.76, 68, 19-02-01, Magdalena, None
+16, Mauro Méndez, URU, F, 1.79, 74, 17-01-99, Salto, Montevideo Wanderers
+17, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, Cerro Porteño
+18, Juan Guasone, ARG, D, 1.93, 82, 27-03-01, San Nicolás de los Arroyos, Patronato (Paraná)
+19, Mateo Pellegrino, ARG, F, 1.92, 85, 22-10-01, Valencia, Vélez Sarsfield
+20, Matías Godoy, ARG, F, 1.76, 70, 10-01-02, Santa Fe, Argentinos Juniors
+21, Mariano Andújar, ARG, G, 1.94, 87, 30-07-83, Capital Federal, Napoli
+22, Nicolás Palavecino, ARG, M, 1.86, 77, 29-03-03, Mburucuyá, None
+23, Gonzalo Piñeiro, ARG, M, 1.80, 76, 03-10-00, Florencio Varela, None
+25, Juan Pablo Zozaya, ARG, G, 1.87, 86, 13-08-01, Necochea, None
+26, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, Banfield
+27, Mateo Burdisso, ARG, D, 1.86, 74, 22-01-02, Altos de Chipión, None
+28, Blas Agustín Palavecino, ARG, M, 1.84, 72, 09-03-03, La Plata, None
+29, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, Talleres (Córdoba)
+30, Jorge Rodríguez, ARG, M, 1.78, 84, 15-09-95, Mendoza, Banfield
+31, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Elche
+36, Ezequiel Orbe, ARG, D, 1.73, 68, 09-04-05, La Plata, None
+40, Axel Atum, ARG, M, 1.76, 66, 02-01-06, Gualeguaychú, None
+45, Segundo Pachamé, ARG, M, 1.75, 68, 03-06-01, La Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Santiago Flores, ARG, D, 1.84, 74, 25-03-01, Colón, Independiente Rivadavia (On Loan)

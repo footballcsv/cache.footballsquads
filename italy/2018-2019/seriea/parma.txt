@@ -1,0 +1,54 @@
+=  Parma - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pierluigi Frattali, ITA, G, 1.85, 75, 01-12-85, Rome, Avellino
+2, Simone Iacoponi, ITA, D, 1.80, 73, 30-04-87, Pontedera, Virtus Entella
+3, Federico Dimarco, ITA, D, 1.75, 75, 10-11-97, Milan, Internazionale
+5, Leo Štulac, SVN, M, 1.75, 68, 26-09-94, Koper, Venezia
+8, Abdou Diakhaté, SEN, M, 1.79, 78, 31-12-98, Dakar, Fiorentina
+9, Fabio Ceravolo, ITA, F, 1.82, 73, 05-03-87, Locri, Benevento
+10, Nicolás Schiappacasse, URU, F, 1.80, 73, 12-01-99, Montevideo, Atlético Madrid B
+13, Francisco Sierralta, CHI, D, 1.90, 83, 06-05-97, Las Condes, Udinese
+14, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Pescara
+17, Antonino Barillà, ITA, M, 1.80, 76, 01-04-88, Reggio Calabria, Trapani
+18, Massimo Gobbi, ITA, D, 1.82, 76, 31-10-80, Milan, Chievo Verona
+21, Matteo Scozzarella, ITA, M, 1.70, 68, 05-06-88, Trieste, Trapani
+22, Bruno Alves, POR, D, 1.89, 80, 27-11-81, Porto, Rangers
+23, Marcello Gazzola, ITA, D, 1.83, 78, 03-04-85, Borgotaro, Sassuolo
+26, Luca Siligardi, ITA, F, 1.79, 73, 26-01-88, Correggio, Verona
+27, Gervinho, CIV, F, 1.79, 68, 27-05-87, Anyama, Hebei China Fortune
+28, Riccardo Gagliolo, ITA, D, 1.82, 75, 28-04-90, Imperia, Carpi
+31, Gabriel Brazão, BRA, G, 1.92, 75, 05-10-00, Uberlândia, Cruzeiro
+32, Luca Rigoni, ITA, M, 1.85, 76, 07-12-84, Schio, Genoa
+33, Jacopo Dezi, ITA, M, 1.78, 69, 10-02-92, Atri, Napoli
+44, Redi Kasa, ALB, M, 1.77, 66, 01-09-01, Parma, None
+45, Roberto Inglese, ITA, F, 1.86, 78, 12-11-91, Lucera, Napoli
+52, Carl Davordzie, GHA, F, , , 27-05-00, , None
+53, Drissa Camara, CIV, M, 1.79, 69, 18-02-02, Abobo, None
+54, Andrea Di Maggio, ITA, D, , , 14-08-00, Milan, Como
+55, Luigi Sepe, ITA, G, 1.85, 75, 08-05-91, Torre del Greco, Napoli
+56, Fabrizio Bagheria, ITA, G, 1.86, 79, 05-04-01, Milan, Internazionale
+64, Federico Pelle, ITA, F, , , 08-01-00, Milan, Internazionale
+77, Jonathan Biabiany, FRA, M, 1.77, 70, 28-04-88, Paris, Internazionale
+87, Juraj Kucka, SVK, M, 1.86, 86, 26-02-87, Bojnice, Trabzonspor
+88, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Napoli
+93, Mattia Sprocati, ITA, F, 1.78, 70, 28-04-93, Monza, Lazio
+95, Alessandro Bastoni, ITA, D, 1.90, 75, 13-04-99, Casalmaggiore, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+60, Davide Mastaj, ITA, F, , , 30-04-98, Castel Volturno, Trapani (On Loan)
+67, Sebastiano Longo, ITA, F, 1.77, 70, 05-01-98, Barcellona Pozzo di Gotto, Paganese (On Loan)
+70, Antonio Vacca, ITA, M, 1.72, 67, 13-05-90, Naples, Casertana (On Loan)
+59, Valerio Di Cesare, ITA, D, 1.87, 75, 23-05-83, Rome, Bari
+7, Alessio da Cruz, NED, F, 1.84, 75, 18-01-97, Almere, Spezia (On Loan)
+71, Giuseppe Carriero, ITA, M, 1.77, 73, 04-09-97, Desio, Catania (On Loan)
+8, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, Cagliari
+20, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Verona (On Loan)
+10, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Napoli
+11, Gianni Munari, ITA, M, 1.90, 84, 24-06-83, Sassuolo, Verona (On Loan)
+61, Luigi Alberto Scaglia, ITA, M, 1.82, 73, 23-11-86, Chiari, Carrarese (On Loan)
+65, Giovanni Pinto, ITA, M, 1.82, 76, 19-09-91, Martina Franca, Pescara (On Loan)
+72, Emanuele Calaiò, ITA, F, 1.79, 75, 08-01-82, Palermo, Salernitana
+99, Yves Baraye, SEN, F, 1.77, 69, 22-06-92, Dakar, Padova (On Loan)

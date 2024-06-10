@@ -1,0 +1,41 @@
+=  Universidad de Concepción - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Muñoz, ARG, G, 1.77, 79, 01-07-77, Junín, Huachipato
+2, Alexis Rolín, URU, D, 1.86, 75, 07-02-89, Montevideo, Nacional [URU]
+3, Hans Martínez, CHI, D, 1.78, 73, 04-01-87, Santiago, Audax Italiano
+4, Gustavo Mencia, PAR, D, 1.78, 75, 02-07-88, Alto Paraná, Olimpia [PAR]
+5, Josepmir Ballón, PER, M, 1.78, 71, 21-03-89, Lima, Sporting Cristal
+6, Alejandro Camargo, ARG, M, 1.75, 69, 12-06-89, Guaymallén, Curicó Unido
+7, Luis Pedro Figueroa, CHI, M, 1.77, 76, 14-05-83, Concepción, Colo-Colo
+8, Patricio Rubio, CHI, F, 1.75, 73, 09-01-89, Santiago, Everton (Viña del Mar)
+9, Steffan Pino, CHI, F, 1.98, 94, 26-02-94, Recoleta, Deportes Recoleta
+10, Bryan Rabello, CHI, M, 1.63, 60, 16-05-94, Rancagua, Santos Laguna
+11, Fernando Cordero, CHI, D, 1.72, 66, 26-08-87, Santiago, San Martín (Tucumán)
+12, Pablo Benítez, CHI, G, 1.76, 74, 11-12-96, Los Ángeles [CHI], None
+13, Álvaro Salazar, CHI, G, 1.85, 79, 24-03-93, Linares, Colo-Colo
+14, Nicolás Maturana, CHI, M, 1.64, 63, 08-07-93, Lampa, Colo-Colo
+15, José Huentelaf, CHI, F, 1.64, 68, 22-01-89, Viña del Mar, Lota Schwager
+16, Germán Voboril, ARG, D, 1.75, 73, 05-05-87, Lanús, Universidad Católica
+17, Guillermo Pacheco, CHI, D, 1.81, 76, 10-04-89, Quilpué, San Luis de Quillota
+18, Víctor Retamal, CHI, D, 1.69, 62, 06-03-98, Limache, Santiago Wanderers
+19, Luis Riveros, PAR, F, 1.78, 73, 24-03-98, Asunción, None
+20, Francisco Portillo, PAR, M, 1.77, 72, 24-07-87, Santiago [PAR], Deportes Puerto Montt
+21, Fernando Manríquez, CHI, M, 1.68, 71, 01-02-84, Santiago, Deportes Iquique
+22, Nicolás Orellana, CHI, F, 1.80, 67, 03-09-95, Santiago, Colo-Colo
+24, Claudio Navarrete, CHI, D, , , 05-11-98, , None
+25, Walter Ponce, CHI, F, 1.80, 68, 04-03-98, Santiago, Palestino
+26, Leandro Díaz, CHI, M, 1.73, 67, 16-03-99, Curicó, Fernández Vial
+27, Néstor Muñoz, CHI, F, 1.67, 63, 06-05-98, Concepción, None
+28, Jhoan González, COL, M, , , 16-10-99, , None
+29, Diego Stuardo, CHI, G, 1.83, 82, 17-06-99, Chiguayante, None
+30, Joel Martínez, CHI, M, , , 03-02-99, , None
+31, Sebastián Elgueta, CHI, D, , , 02-10-99, , None
+32, Antonio Ramírez, CHI, F, 1.68, 62, 03-11-98, Concepción, Huachipato
+34, Javier Saldias Cea, CHI, D, , , 21-08-01, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Guido Vadalá, ARG, F, 1.63, 60, 08-02-97, Rosario, Boca Juniors
+10, Hugo Droguett, CHI, M, 1.72, 68, 02-09-82, Quinta Normal, Deportes Temuco

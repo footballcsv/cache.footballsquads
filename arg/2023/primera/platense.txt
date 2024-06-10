@@ -1,0 +1,44 @@
+=  Platense - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Sánchez, ARG, G, 1.89, 86, 25-10-86, Capital Federal, Deportes Iquique
+3, Juan Infante, ARG, D, 1.77, 76, 07-01-96, José C. Paz, Talleres (Córdoba)
+4, Nicolás Morgantini, ARG, D, 1.75, 70, 11-09-94, San Isidro, Lanús
+5, Alexis Sabella, ARG, M, 1.78, 72, 20-06-01, Florentino Ameghino, San Lorenzo
+6, Gastón Suso, ARG, D, 1.90, 82, 12-03-91, Arrufó, Atlético Rafaela
+7, Ignacio Schor, ARG, M, 1.83, 74, 04-08-00, Capital Federal, None
+8, Franco Díaz, ARG, M, 1.81, 83, 28-08-00, Burzaco, Vélez Sarsfield
+9, Mauro Quiroga, ARG, F, 1.91, 82, 07-12-89, Concepción, Pachuca
+10, Vicente Taborda, ARG, F, 1.75, 71, 14-06-01, Gualeguay, Boca Juniors
+11, Nicolás Castro, ARG, M, 1.81, 79, 15-08-90, Ranchos, Patronato (Paraná)
+12, Ramiro Macagno, ARG, G, 1.85, 77, 18-03-97, Alicia, Newell's Old Boys
+13, Ignacio Vázquez, ARG, D, 1.88, 84, 15-06-97, Hurlingham, All Boys
+15, Iván Rossi, ARG, M, 1.83, 75, 01-11-93, Capital Federal, Junior
+17, Ignacio Arce, ARG, G, 1.85, 66, 08-04-92, Paraná, Unión La Calera
+18, Sasha Marcich, ARG, D, 1.76, 74, 29-05-98, Capital Federal, None
+20, Nicolás Servetto, ARG, F, 1.81, 80, 27-03-96, Macachín, Almagro
+22, Gonzalo Asís, ARG, D, 1.74, 64, 28-03-96, Lomas de Zamora, Independiente
+23, Augusto Alcorcel, ARG, G, 1.88, 74, 14-08-00, Santa Fe, None
+24, Juan Pablo Pignani, ARG, D, 1.90, 80, 02-07-01, Leones, None
+25, Pablo Ramírez, ARG, M, 1.78, 72, 10-05-03, San Isidro, None
+27, Miguel Jacquet, PAR, D, 1.83, 77, 20-05-95, Asunción, Nacional [PAR]
+28, Agustín Alonso, ARG, M, 1.71, 64, 23-01-01, Villa Dominico, None
+29, Nadir Zeineddin, ARG, F, 1.83, 83, 15-05-00, Vicente López, None
+31, Marco Pellegrino, ARG, D, 1.84, 79, 18-07-02, Capital Federal, None
+32, Franco Baldasarra, ARG, M, 1.78, 75, 29-09-98, Santos Lugares, None
+33, Jerónimo Cacciabue, ARG, M, 1.73, 68, 24-01-98, Montes de Oca, Newell's Old Boys
+34, Brandon Barbas, ARG, M, 1.76, 70, 01-07-01, San Martín, None
+35, Ian Díaz, ARG, F, 1.80, 77, 19-09-02, Isidro Casanova, None
+36, Facundo Palavecino, ARG, M, -, -, 19-02-02, San Miguel, None
+37, Federico González, ARG, M, 1.76, 73, 13-01-01, San Isidro, None
+38, Lautaro Toledo Pacheco, ARG, D, 1.72, 72, 27-07-02, La Rioja, None
+39, Alejo Monje, ARG, M, 1.85, 79, 07-08-01, San Isidro, None
+40, Gonzalo Valdivia, ARG, D, 1.78, 69, 05-04-01, Posadas, None
+41, Andrés Sosa, ARG, G, -, -, -, -, None
+43, Maximiliano Zalazar, ARG, F, 1.75, 70, 08-03-01, Ezeiza, Boca Juniors
+77, Ronaldo Martínez, PAR, F, 1.78, 75, 25-04-96, Eusebio Ayala, Resistencia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Juan Cruz Esquivel, ARG, F, 1.73, 74, 22-08-00, Cañada Rosquín, Talleres (Córdoba)

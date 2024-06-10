@@ -1,0 +1,54 @@
+=  Hull City - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, Beşiktaş
+2, Moses Odubajo, ENG, D, 1.77, 72, 28-07-93, Greenwich, Brentford
+3, Ondřej Mazuch, CZE, D, 1.88, 83, 15-03-89, Hodonín, Sparta Prague
+4, Jackson Irvine, AUS, M, 1.79, 70, 07-03-93, Melbourne, Burton Alb
+5, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Chelsea
+7, Kamil Grosicki, POL, M, 1.80, 78, 08-06-88, Szczecin, Rennes
+8, David Meyler, IRL, M, 1.89, 74, 29-05-89, Cork, Sunderland
+9, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, Wolverhampton W
+10, Abel Hernández, URU, F, 1.86, 73, 08-08-90, Canelones, Palermo
+11, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Arsenal
+12, David Marshall, SCO, G, 1.90, 83, 05-03-85, Glasgow, Cardiff C
+13, Will Mannion, ENG, G, 1.86, 74, 01-04-98, Hillingdon, AFC Wimbledon
+15, Evandro Goebel, BRA, M, 1.78, 62, 23-08-86, Blumenau, FC Porto
+16, Sebastian Larsson, SWE, M, 1.78, 70, 06-06-85, Eskilstuna, Sunderland
+17, James Weir, ENG, M, 1.77, 71, 04-08-95, Preston, Manchester U
+18, Daniel Batty, ENG, D, 1.78, 75, 10-12-97, Pontefract, None
+19, Will Keane, ENG, F, 1.87, 78, 11-01-93, Stockport, Manchester U
+20, Jarrod Bowen, ENG, F, 1.74, 70, 20-12-96, Leominster, Hereford U
+21, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Tottenham H
+22, Markus Henriksen, NOR, M, 1.87, 85, 25-07-92, Trondheim, AZ Alkmaar
+23, Greg Luer, ENG, F, 1.80, 73, 06-12-94, Brighton, Burgess Hill T
+24, Max Clark, ENG, D, 1.80, 73, 19-01-96, Kingston upon Hull, None
+25, Fraizer Campbell, ENG, F, 1.72, 83, 13-09-87, Huddersfield, Crystal Palace
+26, Greg Olley, ENG, M, 1.78, 66, 02-02-96, Durham, Newcastle U
+27, Josh Clackstone, ENG, D, 1.70, 79, 18-09-96, Beverley, None
+28, Stephen Kingsley, SCO, D, 1.78, 68, 23-07-94, Stirling, Swansea C
+29, Fikayo Tomori, CAN, D, 1.84, 75, 19-12-97, Calgary, Chelsea
+30, Brian Lenihan, IRL, D, 1.78, 76, 08-06-94, Cork, Cork C
+31, Will Annan, SCO, M, 1.80, 70, 05-09-96, Kingston upon Hull, None
+32, Tyler Hamilton, ENG, M, 1.74, 64, 05-01-99, Kingston upon Hull, None
+33, Brandon Fleming, ENG, D, 1.75, 69, 03-12-99, Dewsbury, None
+34, Ola Aina, ENG, D, 1.82, 82, 08-10-96, Southwark, Chelsea
+35, Kevin Stewart, ENG, M, 1.81, 73, 07-09-93, Enfield, Liverpool
+36, Callum Burton, ENG, G, 1.88, 76, 15-08-96, Newport, Shropshire, Shrewsbury T
+37, Robbie McKenzie, ENG, D, 1.84, 74, 25-09-98, Kingston upon Hull, None
+38, Charlie Andrew, ENG, G, , , 06-01-00, Kingston upon Hull, None
+39, Lewis Ritson, ENG, D, , , 01-11-98, South Shields, None
+40, Ben Hinchcliffe, ENG, M, 1.78, 74, 25-09-97, Kingston upon Hull, None
+41, Ellis Barkworth, ENG, M, 1.74, 74, 15-10-97, Kingston upon Hull, None
+42, Liam Edwards, WAL, F, , , 24-06-99, Aberdare, Swansea C
+43, James Yates, ENG, D, 1.81, 64, 03-04-98, Huyton, Everton
+44, Tom Dyson, WAL, M, 1.88, 72, 14-10-97, Haverfordwest, Swansea C
+49, Harry Wilson, WAL, M, 1.73, 70, 22-03-97, Wrexham, Liverpool
+50, Angus MacDonald, ENG, D, 1.84, 70, 15-10-92, Winchester, Barnsley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Swansea C
+6, Ryan Mason, ENG, M, 1.75, 71, 13-06-91, Enfield, Retired
+14, Adama Diomandé, NOR, F, 1.80, 75, 14-02-90, Oslo, Los Angeles FC

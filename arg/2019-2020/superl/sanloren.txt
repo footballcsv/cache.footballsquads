@@ -1,0 +1,58 @@
+=  San Lorenzo - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Gonzalo Rodríguez, ARG, D, 1.78, 76, 10-04-84, Capital Federal, Fiorentina
+3, Bruno Pittón, ARG, D, 1.79, 69, 01-02-93, Santa Fe, Unión (Santa Fe)
+4, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Boca Juniors
+5, Lucas Menossi, ARG, M, 1.65, 65, 20-07-92, Beccar, Tigre
+6, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Racing Club
+7, Adam Bareiro, PAR, F, 1.84, 84, 26-07-96, Asunción, Monterrey
+8, Diego Rodríguez, URU, M, 1.70, 65, 04-09-89, Montevideo, Tijuana
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Shanghai Shenhua
+11, Ángel Romero, PAR, F, 1.77, 73, 04-07-92, Fernando de la Mora, Corinthians
+12, Sebastián Torrico, ARG, G, 1.86, 84, 22-02-80, Godoy Cruz, Godoy Cruz (Mendoza)
+13, Lautaro López, ARG, G, 1.90, 84, 24-01-01, Resistencia, None
+15, Ramón Arias, URU, D, 1.80, 84, 27-07-92, Montevideo, Al-Ettifaq
+16, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, Defensa y Justicia
+17, Mariano Peralta Bauer, ARG, F, 1.76, 74, 20-02-98, Adrogué, None
+19, Agustin Hausch, ARG, F, 1.75, 62, 21-05-03, Baradero, None
+20, Juan Ramírez, ARG, M, 1.74, 68, 25-05-93, Moreno, Talleres (Córdoba)
+21, Gerónimo Poblete, ARG, M, 1.73, 65, 04-09-91, Santa Fe, Metz
+22, Francisco Rivadeneira, ARG, G, 1.94, 80, 19-05-00, San Miguel de Tucumán, None
+23, Fernando Monetti, ARG, G, 1.83, 78, 21-02-89, La Plata, Atlético Nacional
+24, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, None
+26, Nicolás Fernández, ARG, D, 1.72, 68, 11-01-00, Capital Federal, None
+27, Santiago Vergini, ARG, D, 1.91, 83, 03-08-88, Rosario, Bursaspor
+28, Ignacio Piatti, ARG, M, 1.81, 75, 04-02-85, General Baldisera, Montreal Impact
+29, Victor Salazar, ARG, D, 1.78, 70, 26-05-93, Santa Fe, Rosario Central
+30, Francisco Flores, ARG, D, 1.82, 78, 11-01-02, Vicente López, None
+31, Luis Sequeira, ARG, M, 1.72, 71, 08-01-03, Escobar, None
+32, Fabricio Coloccini, ARG, D, 1.83, 78, 22-01-82, Córdoba, Newcastle U
+33, Alexander Díaz, ARG, F, 1.72, 69, 22-03-00, 9 de Julio, None
+34, Julián Palacios, ARG, M, 1.67, 66, 04-02-99, General Pico, None
+35, Matías Palacios, ARG, M, 1.68, 70, 10-05-02, General Pico, None
+36, Alexis Sabella, ARG, M, 1.78, 72, 20-06-01, Florentino Ameghino, None
+38, Adolfo Gaich, ARG, F, 1.90, 82, 26-02-99, Córdoba, None
+39, Gastón Hernández, ARG, D, 1.84, 78, 19-01-98, San Rafael, None
+40, Agustín Martegani, ARG, M, 1.82, 75, 20-03-00, Rojas, None
+42, Marcelo Herrera, ARG, D, 1.80, 71, 03-11-98, Corrientes, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, Racing Club
+6, Marcos Senesi, ARG, D, 1.85, 75, 10-05-97, Concordia, Feyenoord
+16, Fernando Belluschi, ARG, M, 1.71, 68, 10-09-83, Los Quirquinchos, Lanús
+26, Héctor Fértoli, ARG, F, 1.74, 63, 03-12-94, El Trébol, Racing Club
+17, Elías Pereyra, ARG, D, 1.72, 68, 15-02-99, La Matanza, Benfica (On Loan)
+25, José Devecchi, ARG, G, 1.87, 83, 09-07-95, Capital Federal, Audax Italiano (On Loan)
+36, Manuel Insaurralde, ARG, M, 1.76, 76, 31-01-99, Formosa, Universidad Católica [ECU] (On Loan)
+41, Gianluca Ferrari, ARG, D, 1.81, 76, 30-06-97, Rosario, Godoy Cruz (Mendoza) (On Loan)
+8, Mauro Pittón, ARG, M, 1.81, 70, 08-08-94, Santa Fe, Vélez Sarsfield
+9, Nicolás Blandi, ARG, F, 1.81, 79, 13-01-90, Capital Federal, Colo-Colo
+19, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, Defensa y Justicia
+28, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, Defensa y Justicia (On Loan)
+11, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, De-Registered
+22, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, De-Registered
+92, Ángel Romero, PAR, F, 1.77, 73, 04-07-92, Fernando de la Mora, Re-Registered (11)
+37, Emanuel Maciel, ARG, M, 1.80, 71, 28-03-97, José C. Paz, Montreal Impact

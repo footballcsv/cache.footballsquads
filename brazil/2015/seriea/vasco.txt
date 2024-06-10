@@ -1,0 +1,62 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Charles, BRA, G, 1.85, 81, 04-02-94, Belo Horizonte, Cruzeiro
+, Jordi, BRA, G, 1.91, 81, 03-09-93, Volta Redonda, None
+, Martín Silva, URU, G, 1.86, 80, 25-03-83, Montevideo, Olimpia [PAR]
+, Aislan, BRA, D, 1.97, 90, 11-01-88, Bahia, Madureira
+, Anderson Salles, BRA, D, 1.78, 73, 16-02-88, Araçariguama, Ituano
+, Bruno Ferreira, BRA, D, 1.80, 70, 14-09-94, São Paulo, Portuguesa
+, Bruno Teles, BRA, D, 1.83, 78, 01-05-86, Alvorada, Krylia Sovetov
+, Christianno, BRA, D, 1.85, 78, 29-10-91, Rio de Janeiro, Bangu
+, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, None
+, João Carlos, BRA, D, 1.89, 85, 01-01-82, Realengo, Spartak Moscow
+, Jomar, BRA, D, 1.85, 78, 28-09-92, Rio de Janeiro, Tigres do Brasil
+, Júlio César, BRA, D, 1.73, 70, 15-06-82, São Paulo, Botafogo
+, Lorran, BRA, D, 1.71, 65, 28-01-96, Armação dos Búzios, None
+, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, None
+, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Bahia
+, Nei, BRA, D, 1.77, 75, 06-12-85, Bragança Paulista, Internacional
+, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Ceará
+, Rodrigo, BRA, D, 1.82, 84, 27-08-80, Lençóis Paulista, Goiás
+, Andrezinho, BRA, M, 1.78, 68, 30-07-83, Campinas, Tianjin Teda
+, Bruno Gallo, BRA, M, 1.79, 74, 07-05-88, Niterói, Marítimo
+, Emanuel Biancucchi, ARG, M, 1.77, 65, 28-07-88, Rosario, Bahia
+, Diguinho, BRA, M, 1.71, 69, 20-03-83, Canoas, Fluminense
+, Julio dos Santos, PAR, M, 1.86, 88, 07-05-83, Asunción, Cerro Porteño
+, Pablo Guiñazú, ARG, M, 1.72, 71, 26-08-78, General Cabrera, Libertad
+, Jean Patrick, BRA, M, 1.72, 72, 25-06-92, São Miguel do Iguaçu, Luverdense
+, Jéferson, BRA, M, 1.80, 76, 15-07-84, Brasília, Boavista-RJ
+, Lucas, BRA, M, 1.81, 70, 23-09-88, Bom Jardim, Friburgense
+, Matheus Índio, BRA, M, 1.70, 70, 28-02-96, Rio de Janeiro, None
+, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, West Ham U
+, Serginho Mineiro, BRA, M, 1.78, 70, 04-08-86, Contagem, Atlético Mineiro
+, Felipe Seymour, CHI, M, 1.74, 75, 23-07-87, Pirque, Cruzeiro
+, Dagoberto, BRA, F, 1.75, 75, 22-03-83, Dois Vizinhos, Cruzeiro
+, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, Cruzeiro
+, Éder Luís, BRA, F, 1.70, 69, 19-04-85, Uberaba, Benfica
+, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Internacional
+, Germán Herrera, ARG, F, 1.80, 80, 19-07-83, Santa Fe, Emirates Club
+, Leandrão, BRA, F, 1.89, 87, 18-07-83, Uberlândia, Brasil de Pelotas
+, Rafael Silva, BRA, F, 1.76, 68, 08-10-90, Feira de Santana, Ituano
+, Renato Kayser, BRA, F, 1.78, 68, 17-02-96, Jotaesse, Desportivo Brasil
+, Romarinho, BRA, F, 1.76, 70, 20-09-93, Barcelona, None
+, Thalles, BRA, F, 1.85, 77, 18-05-95, Rio de Janeiro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Victor Bolt, BRA, M, 1.78, 72, 14-04-87, Rio de Janeiro, Portuguesa (On Loan)
+, Marquinhos do Sul, BRA, F, 1.67, 60, 22-02-94, Rio de Janeiro, 
+, Jonatas Paulista, BRA, M, 1.74, 75, 05-02-94, São Paulo, Boa (On Loan)
+, Marcinho, BRA, M, 1.71, 74, 20-07-84, Irapuã, 
+, Douglas, BRA, D, 1.86, 80, 07-03-84, Florianópolis, Joinville
+, Sandro Silva, BRA, M, 1.86, 76, 29-04-84, Rio de Janeiro, Bragantino (On Loan)
+, Erick Daltro, BRA, D, 1.80, 78, 17-01-93, Salvador, XV de Piracicaba (On Loan)
+, Mosquito, BRA, F, 1.74, 74, 06-01-96, Rio de Janeiro, Desportivo Brasil
+, Santiago Montoya, COL, M, 1.73, 63, 15-09-91, Medellín, Vitória Guimarães (On Loan)
+, Yago, BRA, F, 1.74, 70, 28-04-94, Cachoeiro do Itapemirim, Minnesota U (On Loan)
+, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, Ceará (On Loan)
+, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Toronto FC
+, Jackson, BRA, M, 1.77, 71, 21-01-87, Caucaia, Ituano
+, Jhon Cley, BRA, M, 1.80, 78, 09-03-94, Brasília, Al-Qadisiyah

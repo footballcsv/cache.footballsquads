@@ -1,0 +1,53 @@
+=  Nottingham Forest - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Costel Pantilimon, ROU, G, 2.02, 108, 01-02-87, Bacău, Watford
+2, El Arbi Soudani, ALG, F, 1.82, 75, 25-11-87, Chlef, Dinamo Zagreb
+3, Tobias Figueiredo, POR, D, 1.88, 84, 02-02-94, Sátão, Sporting CP
+5, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, Middlesbrough
+6, Jack Colback, ENG, M, 1.76, 70, 24-10-89, Killingworth, Newcastle U
+7, Lewis Grabban, ENG, F, 1.83, 71, 12-01-88, Croydon, Bournemouth
+8, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Watford
+9, Daryl Murphy, IRL, F, 1.89, 82, 15-03-83, Waterford, Newcastle U
+10, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Benfica
+11, Ben Osborn, ENG, M, 1.76, 75, 05-08-94, Derby, None
+13, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Udinese
+14, Matty Cash, ENG, M, 1.85, 64, 07-08-97, Slough, None
+15, Luke Steele, ENG, G, 1.88, 76, 24-09-84, Peterborough, Bristol C
+17, Alexander Milošević, SWE, D, 1.91, 82, 30-01-92, Sundbyberg, AIK
+18, Jack Robinson, ENG, D, 1.80, 67, 01-09-93, Warrington, QPR
+19, Diogo Gonçalves, POR, M, 1.76, 66, 06-02-97, Beja, Benfica
+20, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Hull C
+21, Saidy Janko, SUI, D, 1.78, 70, 22-10-95, Zürich, FC Porto
+22, Ryan Yates, ENG, M, 1.90, 77, 21-11-97, Nottingham, None
+23, Joe Lolley, ENG, M, 1.78, 72, 25-08-92, Redditch, Huddersfield T
+24, Claudio Yacob, ARG, M, 1.81, 73, 18-07-87, Carcarañá, WBA
+25, Sam Byram, ENG, D, 1.80, 72, 16-09-93, Thurrock, West Ham U
+26, Liam Bridcutt, SCO, M, 1.75, 73, 08-05-89, Reading, Leeds U
+27, Tendayi Darikwa, ZIM, D, 1.88, 77, 13-12-91, Nottingham, Burnley
+28, Pelé, GNB, M, 1.82, 75, 29-09-91, Cacém, Monaco
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Leicester C
+33, Léo Bonatini, BRA, F, 1.85, 80, 28-03-94, Belo Horizonte, Wolverhampton W
+35, Jamie Ward, NIR, F, 1.65, 59, 12-05-86, Birmingham, Derby Co
+36, Tim Erlandsson, SWE, G, 1.93, 79, 25-12-96, Halmstad, Halmstads BK
+37, Karim Ansarifard, IRN, F, 1.86, 75, 03-04-90, Ardabil, Olympiakos
+41, Stephen Henderson, IRL, G, 1.88, 87, 02-05-88, Dublin, Charlton Ath
+43, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, None
+44, Michael Hefele, GER, D, 1.92, 87, 01-09-90, Pfaffenhofen, Huddersfield T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Ben Brereton, ENG, F, 1.85, 75, 18-04-99, Stoke-on-Trent, Blackburn R
+28, Thomas Lam, FIN, D, 1.88, 76, 18-12-93, Amsterdam, PEC Zwolle
+33, Dimitar Evtimov, BUL, G, 1.90, 83, 07-09-93, Pleven, Burton Alb
+39, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, Waasland-Beveren (On Loan)
+42, Joe Worrall, ENG, D, 1.93, 64, 10-01-97, Nottingham, Rangers (On Loan)
+34, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Lecce (On Loan)
+38, Gboly Ariyibi, USA, M, 1.83, 72, 18-01-95, Arlington, Motherwell (On Loan)
+12, Jordan Smith, ENG, G, 1.85, 75, 08-12-94, Nottingham, Mansfield T (On Loan)
+31, Gil Dias, POR, F, 1.83, 78, 28-09-96, Gafanha da Nazaré, Monaco
+45, Anel Ahmedhodžić, SWE, D, 1.90, 76, 26-03-99, Sarajevo, Malmö FF
+4, Danny Fox, SCO, D, 1.83, 79, 29-05-86, Winsford, Wigan Ath
+40, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Rochdale (On Loan)
+46, Virgil Gomis, FRA, F, 1.90, 77, 16-04-99, Limay, Notts Co (On Loan)

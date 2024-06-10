@@ -1,0 +1,48 @@
+=  Juventus - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.91, 83, 28-01-78, Carrara, Parma
+3, Giorgio Chiellini, ITA, D, 1.86, 76, 14-08-84, Pisa, Fiorentina
+4, Martín Cáceres, URU, D, 1.82, 77, 07-04-87, Montevideo, Sevilla
+5, Angelo Ogbonna Obinze, ITA, D, 1.89, 86, 23-05-88, Cassino, Torino
+6, Paul Pogba, FRA, M, 1.85, 80, 15-03-93, Lagny-sur-Marne, Manchester U
+7, Simone Pepe, ITA, M, 1.78, 73, 30-08-83, Albano Laziale, Udinese
+8, Claudio Marchisio, ITA, M, 1.79, 76, 19-01-86, Turin, None
+9, Mirko Vučinić, MNE, F, 1.86, 77, 01-10-83, Nikšić, Roma
+10, Carlos Tévez, ARG, F, 1.73, 75, 05-02-84, Ciudadela, Manchester C
+12, Sebastian Giovinco, ITA, F, 1.64, 59, 26-01-87, Turin, Parma
+13, Federico Peluso, ITA, D, 1.86, 73, 20-01-84, Rome, Atalanta
+14, Fernando Llorente, ESP, F, 1.95, 90, 26-02-85, Pamplona, Athletic Bilbao
+15, Andrea Barzagli, ITA, D, 1.86, 79, 08-05-81, Fiesole, Wolfsburg
+18, Pablo Daniel Osvaldo, ITA, F, 1.85, 78, 12-01-86, Buenos Aires, Southampton
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Bari
+20, Simone Padoin, ITA, M, 1.79, 73, 18-03-84, Gemona del Friuli, Atalanta
+21, Andrea Pirlo, ITA, M, 1.77, 68, 19-05-79, Brescia, Milan
+22, Kwadwo Asamoah, GHA, M, 1.78, 78, 09-12-88, Accra, Udinese
+23, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Bayer Leverkusen
+26, Stephan Lichtsteiner, SUI, D, 1.81, 77, 16-01-84, Adligenswil, Lazio
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Napoli
+30, Marco Storari, ITA, G, 1.87, 76, 07-01-77, Pisa, Milan
+33, Mauricio Isla, CHI, D, 1.76, 72, 12-06-88, Buin, Udinese
+34, Rubinho, BRA, G, 1.86, 82, 04-08-82, Guarulhos, Palermo
+36, Gianmarco Vannucchi, ITA, G, 1.85, 77, 30-07-95, Prato, None
+37, Matteo Gerbaudo, ITA, M, 1.80, 75, 10-05-95, Moncalieri, None
+38, Federico Mattiello, ITA, M, 1.82, 76, 14-07-95, Borgo a Mozzano, None
+39, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Ekranas
+40, Younes Bnou Marzouk, MAR, F, 1.77, 75, 02-03-96, Freyming-Merlebach, Metz
+41, Filippo Romagna, ITA, D, 1.85, 74, 26-05-97, Fano, None
+42, Filippo Penna, ITA, D, 1.78, 74, 24-03-95, Turin, None
+45, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Barcelona
+50, Leonardo Citti, ITA, G, 1.86, 78, 14-07-95, Lucca, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Fausto Rossi, ITA, M, 1.75, 60, 03-12-90, Turin, Valladolid (On Loan)
+32, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Milan
+17, Luca Marrone, ITA, M, 1.86, 75, 28-03-90, Turin, Sassuolo
+41, Marcel Büchel, AUT, M, 1.80, 78, 18-03-91, Feldkirch, Virtus Lanciano (On Loan)
+35, Joel Untersee, SUI, D, 1.81, 74, 11-02-94, Johannesburg, Vaduz (On Loan)
+11, Paolo De Ceglie, ITA, D, 1.84, 75, 17-09-86, Aosta, Genoa (On Loan)
+24, Ouasim Bouy, NED, M, 1.80, 72, 11-06-93, Amsterdam, Hamburg (On Loan)
+16, Marco Motta, ITA, D, 1.86, 75, 14-05-86, Merate, Genoa (On Loan)

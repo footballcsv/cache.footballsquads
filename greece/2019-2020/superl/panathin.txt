@@ -1,0 +1,50 @@
+=  Panathinaikos - Greek Super League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sokratis Dioudis, GRE, G, 1.82, 75, 03-02-93, Thessaloniki, Aris
+2, Mattias Johansson, SWE, D, 1.71, 64, 16-02-92, Jönköping, AZ Alkmaar
+3, Emanuel Insúa, ARG, D, 1.80, 79, 10-04-91, Capital Federal, Udinese
+4, Dimitris Kolovetsios, GRE, D, 1.84, 74, 16-10-91, Larissa, AEK
+5, Bart Schenkeveld, NED, D, 1.84, 80, 28-08-91, Den Hoorn, Melbourne C
+7, Dimitris Kolovos, GRE, M, 1.82, 77, 27-04-93, Athens, Omonia Nicosia
+8, Christos Donis, GRE, M, 1.83, 76, 09-10-94, Athens, None
+9, Federico Macheda, ITA, F, 1.84, 73, 22-08-91, Rome, Novara
+10, Ghayas Zahid, NOR, M, 1.77, 66, 08-09-94, Oslo, APOEL
+11, Tasos Chatzigiovanis, GRE, M, 1.75, 62, 31-05-97, Mytilene, None
+12, Ilias Chatzitheodoridis, GRE, D, 1.78, 67, 05-11-97, Katerini, Brentford
+16, Kostas Apostolakis, GRE, D, 1.78, 74, 28-05-99, Athens, None
+17, Uffe Bech, DEN, M, 1.70, 75, 13-01-93, Copenhagen, Hannover 96
+18, Giannis Bouzoukis, GRE, M, 1.72, 67, 27-03-98, Preveza, None
+19, Juan José Perea, COL, F, 1.81, 78, 23-02-00, Bogota, FC Porto
+20, Yassin Ayoub, NED, M, 1.69, 67, 06-03-94, Amsterdam, Feyenoord
+21, Dimitrios Kourbelis, GRE, M, 1.82, 73, 02-11-93, Korakovouni, Asteras Tripolis
+22, Dominik Nagy, HUN, M, 1.82, 77, 08-05-95, Mohács, Legia Warszawa
+23, Vangelis Theocharis, GRE, D, 1.81, 68, 06-07-98, Livadia, None
+26, Anuar, MAR, M, 1.72, 63, 15-01-95, Ceuta, Valladolid
+27, Konstantinos Kotsaris, GRE, G, 1.85, 81, 25-07-96, Athens, None
+30, João Nunes, POR, D, 1.88, 80, 19-11-95, Setúbal, Lechia Gdańsk
+37, Andreas Athanasakopoulos, GRE, M, 1.78, 67, 27-11-01, Patras, None
+38, Dmitris Karagannis, GRE, D, 1.84, 79, 27-02-01, Mandra, None
+44, Achilleas Pouggouras, GRE, D, 1.87, 77, 13-12-95, Thessaloniki, PAOK
+47, Vassilis Zagaritis, GRE, D, 1.77, 68, 04-05-01, Thiva, None
+55, Sotiris Alexandropoulos, GRE, M, 1.83, 71, 26-11-01, Marousi, None
+57, Giorgos Vagiannidis, GRE, D, 1.82, 68, 12-09-01, Gerakas, None
+58, Dimitris Serpezis, GRE, M, 1.82, 69, 14-03-01, Metamorfosi, None
+61, Vassilis Xenopoulos, GRE, G, 1.85, 80, 20-05-98, Athens, None
+71, Nikos Christogeorgos, GRE, G, 1.90, 74, 18-01-00, Marousi, None
+99, Argyris Kampetsis, GRE, F, 1.86, 81, 06-05-99, Athens, Borussia Dortmund II
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Paschalis Staikos, GRE, M, 1.77, 73, 08-02-96, Drama, OFI
+32, Epaminondas Pantelakis, GRE, D, 1.87, 83, 10-02-95, Chania, PAS Giannina
+40, Anthony Mounier, FRA, M, 1.74, 65, 27-09-87, Aubenas, Panetolikos
+35, Vaggelis Oikonomou, GRE, D, 1.85, 80, 18-07-87, Corinth, Volos
+20, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, Hércules (On Loan)
+33, Panagiotis Armenakas, AUS, M, 1.78, 67, 05-08-98, Newport Beach, 
+14, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, Orléans (On Loan)
+6, Fausto Tienza, ESP, M, 1.83, 75, 08-01-90, Talavera la Real, Nàstic (On Loan)
+24, Fanis Mavromatis, GRE, D, 1.86, 78, 12-05-97, Argos, SønderjyskE (On Loan)
+31, Kristo Shehu, GRE, F, 1.89, 68, 01-03-00, Eretria, Bologna (On Loan)
+36, Theofanis Tzandaris, GRE, M, 1.80, 80, 13-06-93, Sochos, Spartak Trnava

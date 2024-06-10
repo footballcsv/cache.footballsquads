@@ -1,0 +1,57 @@
+=  Blackpool - English Football League Championship 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthew Gilks, SCO, G, 1.85, 81, 04-06-82, Rochdale, Norwich C
+2, Anthony McMahon, ENG, D, 1.80, 72, 24-03-86, Bishop Auckland, Sheffield U
+3, Jack Robinson, ENG, D, 1.80, 67, 01-09-93, Warrington, Liverpool
+4, David Perkins, ENG, D, 1.68, 76, 21-06-82, Heysham, Barnsley
+5, Gary MacKenzie, SCO, D, 1.91, 83, 15-10-85, Lanark, MK Dons
+6, Kirk Broadfoot, SCO, D, 1.91, 89, 08-08-84, Irvine, Rangers
+7, Nathan Tyson, ENG, F, 1.83, 64, 04-05-82, Reading, Derby Co
+8, Michael Chopra, ENG, F, 1.75, 60, 23-12-83, Gosforth, Ipswich T
+9, Steven Davies, ENG, F, 1.85, 73, 29-12-87, Liverpool, Bristol C
+10, Bobby Grant, ENG, M, 1.80, 76, 01-07-90, Blackpool, Rochdale
+12, Neal Bishop, ENG, M, 1.83, 81, 07-08-81, Stockton-on-Tees, Notts Co
+13, Tony Warner, TRI, G, 1.93, 87, 11-05-74, Liverpool, Floriana
+14, Andrew Halliday, SCO, M, 1.73, 67, 11-10-91, Glasgow, Middlesbrough
+15, Faris Haroun, BEL, M, 1.88, 73, 22-09-85, Brussels, Middlesbrough
+16, Barry Ferguson, SCO, M, 1.78, 74, 02-02-78, Glasgow, Birmingham C
+17, Chris Basham, ENG, M, 1.80, 80, 20-07-88, Hebburn, Bolton W
+18, Isaiah Osbourne, ENG, M, 1.88, 79, 15-11-87, Birmingham, Hibernian
+19, Ricardo Fuller, JAM, F, 1.91, 79, 31-10-79, Kingston, Charlton Ath
+20, Craig Cathcart, NIR, D, 1.88, 72, 06-02-89, Belfast, Manchester U
+21, Mark Halstead, ENG, G, 1.91, 89, 01-01-90, Blackpool, None
+22, James Caton, ENG, M, 1.73, 69, 04-01-94, Widnes, Bolton W
+23, Nathan Eccleston, ENG, F, 1.78, 66, 30-12-90, Manchester, Liverpool
+24, Andrew Keogh, IRL, F, 1.83, 70, 16-05-86, Dublin, Millwall
+25, David Goodwillie, SCO, F, 1.75, 71, 28-03-89, Stirling, Blackburn R
+27, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, None
+28, Adam Dodd, ENG, M, 1.73, 83, 25-06-92, Kirkham, None
+29, Anderson Banvo, CIV, F, 1.88, 89, 04-02-94, Paris, Paris St-Germain
+30, Louis Almond, ENG, F, 1.80, 76, 15-08-90, Blackburn, None
+31, Ángel, ESP, M, 1.76, 76, 31-01-86, Girona, Espanyol
+32, Jake Caprice, ENG, M, 1.79, 73, 11-11-92, Lambeth, Crystal Palace
+33, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Crystal Palace
+34, Dion Charles, NIR, M, 1.78, 67, 07-10-95, Preston, None
+35, Harrison McGahey, ENG, D, 1.87, 85, 26-09-95, Preston, None
+36, Connor Thurston, AUS, F, , , 14-09-95, Perth [AUS], Perth SC
+37, Henry Cameron, ENG, M, 1.78, 70, 28-06-97, Lytham St Annes, None
+38, Mark Waddington, ENG, M, 1.83, 66, 11-10-96, Wigan, None
+39, Elliot Grandin, FRA, F, 1.78, 67, 17-10-87, Caen, Crystal Palace
+40, Kevin Foley, IRL, D, 1.75, 70, 01-11-84, Luton, Wolverhampton W
+41, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, Everton
+50, Robert Earnshaw, WAL, F, 1.73, 68, 06-04-81, Mulfulira, Toronto FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Liam Tomsett, ENG, M, 1.80, 78, 21-01-92, Ulverston, Hyde (On Loan)
+7, Matt Phillips, SCO, M, 1.83, 75, 13-03-91, Aylesbury, QPR
+15, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Crystal Palace
+2, Bradley Orr, ENG, D, 1.83, 75, 01-11-82, Liverpool, Blackburn R
+4, Dan Gosling, ENG, M, 1.78, 71, 02-02-90, Brixham, Newcastle U
+14, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Aston Villa
+24, Marvin Zeegelaar, NED, M, 1.86, 84, 12-08-90, Amsterdam, Elazığspor
+25, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Manchester U
+11, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Crystal Palace (On Loan)
+33, Robert Harris, SCO, D, 1.73, 56, 28-08-87, Glasgow, Sheffield U

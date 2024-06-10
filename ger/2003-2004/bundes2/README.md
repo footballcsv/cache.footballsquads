@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2003/04
+
+18 teams
+- [LR Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Trier](eintrier.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [SSV Jahn Regensburg](jahnreg.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [VfL Lübeck](lubeck.txt)
+- [FSV Mainz 05](mainz.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [VfL Osnabrück](osna.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [SpVgg Unterhaching](unterha.txt)
+- [Wacker Burghausen](burghaus.txt)

@@ -1,0 +1,43 @@
+=  Deportes Temuco - Chilean Primera División 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Sebastián Domínguez, CHI, M, 1.76, 74, 05-12-87, Santiago, Unión Temuco
+3, Cristobál Vergara, CHI, D, 1.80, 64, 20-06-94, Temuco, Universidad de Chile
+4, Diego Cayupíl, CHI, D, 1.78, 65, 05-03-98, Nueva Imperial, None
+5, Yerko Águila, CHI, D, 1.75, 72, 31-05-96, Santiago, Unión Temuco
+6, Luis Casanova, CHI, D, 1.82, 80, 01-07-92, Rancagua, San Marcos de Arica
+7, Cristián Canío, CHI, F, 1.76, 70, 31-05-81, Nueva Imperial, Deportes Antofagasta
+8, Lucas Campana, ARG, F, 1.80, 70, 09-03-93, Capital Federal, Huracán
+9, Matías Donoso, CHI, F, 1.85, 88, 08-07-86, Temuco, Patronato (Paraná)
+10, Jonathan Requena, ARG, M, 1.74, 76, 11-06-96, Córdoba, Defensa y Justicia
+11, Nicolás Bertochi, ARG, M, 1.89, 74, 09-06-89, Granadero Baigorria, Tigre
+12, Camilo Trejos, CHI, G, 1.83, 72, 01-01-98, Santiago, Universidad de Chile
+13, Mathías Riquero, URU, M, 1.76, 74, 29-08-82, Montevideo, Deportes Iquique
+14, Nicolás Ramírez, CHI, D, 1.82, 77, 01-05-97, Santiago, Universidad de Chile
+15, John Santander, CHI, D, 1.75, 74, 15-05-94, Combarbalá, Huachipato
+16, Jaime Soto, CHI, D, 1.68, 66, 20-05-94, Valdivia, Deportes Valdivia
+17, Guillermo Díaz, CHI, D, 1.69, 64, 16-05-94, Temuco, Universidad de Chile
+18, Tomás Charles, ARG, D, 1.84, 80, 12-06-85, Villa Domínico, Boca Unidos (Corrientes)
+19, Rubén Farfán, CHI, F, 1.74, 68, 25-09-91, Nogales, Universidad de Chile
+20, Daniel Malhue, CHI, F, 1.73, 70, 13-02-95, Santiago, Colo-Colo
+21, Joaquín Aros, CHI, D, 1.79, 74, 23-01-96, Talcahuano, Unión Temuco
+22, Cristobal Grandón, CHI, M, 1.76, 70, 15-06-99, Pitrufquén, None
+23, Fernando Otárola, ARG, G, 1.81, 80, 04-02-86, Capital Federal, Villa Dálmine
+24, Miguel Aceval, CHI, D, 1.82, 75, 08-01-83, Santiago, Curicó Unido
+25, José Luis Gamonal, CHI, G, 1.79, 72, 09-10-89, Temuco, Unión Temuco
+26, Patricio Jerez, CHI, D, 1.80, 75, 29-06-87, Concepción, Cobresal
+27, Alfredo Ábalos, ARG, M, 1.68, 66, 17-03-86, Las Heras, Curicó Unido
+28, Fernando Quiróz, CHI, F, 1.77, 72, 09-09-97, Villarrica, None
+30, Claudio Zamorano, CHI, M, 1.75, 66, 25-08-98, , None
+31, Piero Campos, CHI, M, 1.79, 76, 28-01-92, Rengo, Unión Temuco
+32, Victor Labrín, CHI, D, 1.72, 68, 01-07-98, Temuco, None
+33, Rubén Cepeda, CHI, M, 1.78, 68, 17-06-94, Quilpué, Universidad de Chile
+34, Diego Arias, CHI, M, 1.84, 74, 08-12-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Guillermo Hauché, ARG, F, 1.80, 72, 31-03-93, La Plata, Racing Club
+11, Kevin Harbottle, CHI, M, 1.65, 60, 08-06-90, Antofagasta, Tampico Madero (On Loan)
+18, Alfredo Pussetto, ARG, F, 1.74, 72, 02-10-98, Cañada Rosquín, Atlético Rafaela
+22, Gustavo Gotti, ARG, F, 1.84, 82, 20-10-93, Córdoba, O'Higgins

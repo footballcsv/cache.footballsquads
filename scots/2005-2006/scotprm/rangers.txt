@@ -1,0 +1,73 @@
+=  Rangers - Scottish Premier League 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefan Klos, G, 6'00", 13 08, 16-08-71, Dortmund, Borussia Dortmund
+2, Fernando Ricksen, D, 5'09'', 11 03, 20-07-76, Heerlen, AZ Alkmaar
+3, Olivier Bernard, D, 5'07", 10 11, 14-10-79, Lyon, Southampton
+4, Thomas Buffel, M, 5'09", 10 10, 19-02-81, Ruddervoorde, Feyenoord
+5, Marvin Andrews, D, 6'02", 13 00, 22-12-75, Sanguan, Livingston
+6, Barry Ferguson, M, 5'11", 11 09, 02-02-78, Glasgow, Blackburn R
+7, Brahim Hemdani, M, 5'10", 11 00, 15-03-78, Colombes, Marseille
+8, Alex Rae, M, 5'08", 11 08, 30-09-69, Glasgow, Wolverhampton W
+9, Dado Prso, F, 6'02", 13 07, 05-11-74, Zadar, Monaco
+10, Nacho Novo, F, 5'09", 11 00, 26-03-79, Ferrol, Dundee
+11, Gavin Rae, M, 5'11", 13 09, 28-11-77, Aberdeen, Dundee
+12, Robert Malcolm, D, 5'11", 12 02, 12-11-80, Glasgow, S Form
+14, Sotirios Kyrgiakos, D, 6'04", 13 12, 23-07-79, Trikala, Panathinaikos
+15, Kris Boyd, F, 6'01", 13 00, 18-08-83, Irvine, Kilmarnock
+16, Julien Rodriguez, D, 6'00", 12 08, 11-06-78, Béziers, Monaco
+17, Chris Burke, M, 5'09", 10 10, 02-12-83, Glasgow, S Form
+18, Jose Karl Pierre-Fanfan, D, 6'02", 13 07, 26-07-75, Saint-Pol-sur-Mer, Paris St Germain
+20, Alan Hutton, D, 6'01'', 11 05, 30-11-84, Glasgow, S Form
+22, Allan McGregor, G, 6'00'', 11 09, 31-01-82, Edinburgh, S Form
+24, Ian Murray, M, 5'10", 11 05, 20-03-81, Edinburgh, Hibernian
+25, Ronald Waterreus, G, 6'03", 13 03, 25-08-70, Lemiers, Manchester C
+26, Peter Lovenkrands, F, 5'11'', 11 00, 29-01-80, Horsholm, AB Copenhagen
+31, Hamed Namouchi, M, 6'01'', 11 11, 14-02-84, Cannes, Cannes
+32, Brian McLean, D, 6'02", 12 03, 28-02-85, Rutherglen, S Form
+33, Marc Kalenga, M, 6'00", 12 11, 18-03-85, Toulouse, Auxerre
+34, Steven Smith, D, 5'10", 10 13, 30-08-85, Bellshill, S Form
+37, Gary MacKenzie, D, 6'03", 13 00, 15-10-85, Lanark, S Form
+38, Charlie Adam, M, 6'01", 13 00, 10-12-85, Dundee, S Form
+39, Robert Davidson, F, 5'09", 11 09, 25-03-86, Rutherglen, S Form
+40, Graeme Watson, M, 5'08", 10 06, 06-05-86, Glasgow, S Form
+41, Lee Robinson, G, 5'11", 12 00, 02-07-86, Sunderland, S Form
+42, Derek Carcary, F, 5'06", 09 10, 11-07-86, Glasgow, S Form
+43, Rob Giacomi, G, 6'03", 13 08, 01-08-86, Richmond Hill, Markham Lightning
+44, Ross McCormack, F, 5'09", 11 10, 18-08-86, Glasgow, S Form
+45, Steven Campbell, D, 5'10", 10 08, 20-08-86, Kirkcaldy, S Form
+46, John Johnston, F, 5'08", 10 08, 26-03-87, Greenock, S Form
+47, Brian Gilmour, M, 5'06", 09 04, 08-05-87, Irvine, S Form
+48, Calum Reidford, G, 5'11", 12 04, 26-05-87, Glasgow, S Form
+49, Scott Agnew, F, 5'07", 09 09, 11-07-87, Irvine, S Form
+50, Dany N'Guessan, M, , , 11-08-87, , Auxerre
+51, Alan Lowing, D, 5'10", 10 09, 07-01-88, Rutherglen, S Form
+52, Steven Lennon, M, 5'07", 09 07, 20-01-88, Irvine, S Form
+53, Jason Crooks, F, 5'10", 10 12, 31-01-88, Glasgow, S Form
+54, Sam Woods, M, 5'08", 09 12, 06-02-88, Ascot, S Form
+55, Paul Emslie, M, 5'10", 10 10, 13-03-88, Aberdeen, S Form
+56, Martin Ure, D, 5'09", 10 13, 06-06-88, Irvine, S Form
+57, Craig Frizzel, F, 6'00", 10 11, 30-06-88, Edinburgh, S Form
+58, Jordan McMillan, D, , , 16-10-88, , S Form
+59, Joe Sagar, G, , , 04-02-89, , S Form
+60, William McLachlan, M, , , 19-03-89, , S Form
+61, Scott Hadden, F, , , 01-04-89, , S Form
+62, Ross Harvey, , , , 13-04-89, , S Form
+63, Steven Kinniburgh, M, , , 13-06-89, , S Form
+64, Scott Gallacher, F, , , 15-07-89, , S Form
+65, Andrew Shinnie, D, , , 17-07-89, , S Form
+66, Moses Ashikodi, F, 6'00", 11 09, 27-06-87, Lagos, West Ham U
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Michael Ball, D, 6'01", 11 09, 02-10-79, Liverpool, PSV
+14, Dragan Mladenovic, D, 6'04", 13 01, 16-02-76, Kraljevo, Crvena Zvezda
+21, Maurice Ross, D, 6'00", 11 01, 03-02-81, Dundee, Sheffield W
+15, Zurab Khizanishvili, D, 6'01", 12 08, 06-10-81, Tbilisi, Blackburn R
+15, Filippo Maniero, F, 6'01", 13 05, 11-09-72, Padova, 
+21, Francis Jeffers, F, 5'10", 10 02, 25-01-81, Liverpool, Charlton Ath
+19, Steven Thompson, F, 6'02", 12 10, 14-10-78, Paisley, Cardiff C
+23, Federico Nieto, F, 6'03", 13 05, 26-08-83, Capital Federal, Almagro
+35, Bajram Fetai, F, 5'11", 11 05, 07-09-85, , Silkeborg
+36, Jukka Santala, D, 6'04", 13 05, 10-04-85, , FC Nordsjælland

@@ -1,0 +1,41 @@
+=  Carlisle United - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Gillespie, ENG, G, 1.90, 86, 27-03-92, Newcastle upon Tyne, Newcastle U
+2, Tom Miller, ENG, D, 1.80, 73, 29-06-90, Ely, Lincoln C
+3, Danny Grainger, ENG, D, 1.83, 76, 28-07-86, Carlisle, Dunfermline Ath
+4, Luke Joyce, ENG, M, 1.81, 76, 09-07-87, Bolton, Accrington Stanley
+5, Michael Raynes, ENG, D, 1.93, 76, 15-10-87, Wythenshawe, Mansfield T
+6, David Atkinson, ENG, D, 1.75, 70, 27-04-93, Shildon, Middlesbrough
+7, Jason Kennedy, ENG, M, 1.85, 74, 11-09-86, Stockton-on-Tees, Bradford C
+8, Martin Smith, ENG, M, 1.78, 70, 25-01-96, Sunderland, Sunderland
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Middlesbrough
+10, Bastien Héry, FRA, M, 1.75, 65, 23-03-92, Brou-sur-Chantereine, Rochdale
+11, Patrick Brough, ENG, M, 1.91, 74, 20-02-96, Carlisle, None
+12, Anthony Sweeney, ENG, M, 1.85, 73, 05-09-83, Stockton-on-Tees, Hartlepool U
+13, Dan Hanford, WAL, G, 1.88, 78, 06-03-91, Rochdale, Floriana
+14, Jabo Ibehre, ENG, F, 1.88, 80, 28-01-83, Islington, Colchester U
+15, Brandon Comley, MSR, M, 1.80, 72, 18-11-95, Islington, QPR
+16, Jack Stacey, ENG, M, 1.80, 68, 06-04-96, Bracknell, Reading
+17, Alex Gilliead, ENG, F, 1.83, 70, 11-02-96, Shotley Bridge, Newcastle U
+18, Kevin Osei, FRA, M, 1.73, 71, 26-03-91, Marseille, Waasland-Beveren
+19, Angelo Balanta, COL, F, 1.79, 75, 01-07-90, Cali, Bristol R
+20, Troy Archibald-Henville, ENG, D, 1.88, 80, 04-11-88, Newham, Swindon T
+21, Steven Rigg, ENG, F, 1.83, 80, 30-06-92, Keswick, Penrith
+22, Matt Douglas, ENG, D, 1.88, 79, 17-01-98, , None
+23, Joe Thompson, ENG, M, 1.83, 60, 05-03-89, Rochdale, Bury
+24, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Bury
+25, Derek Asamoah, GHA, F, 1.66, 70, 01-05-81, Accra, Daegu
+26, Macaulay Gillesphey, ENG, D, 1.80, 70, 24-11-95, Ashington, Newcastle U
+27, Mark Ellis, ENG, D, 1.88, 78, 30-09-88, Plymouth, Shrewsbury T
+28, Luís Pedro, NED, F, 1.79, 71, 27-04-90, Luanda, ASA Târgu Mureș
+40, Morgan Bacon, ENG, G, 1.89, 82, 01-06-98, Bury, None
+44, Alexander McQueen, ENG, D, 1.89, 70, 24-03-95, Rush Green, Tottenham H
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Daniel Kearns, IRL, M, 1.78, 77, 26-08-91, Belfast, Glenavon
+15, Courtney Meppen-Walter, ENG, D, 1.84, 77, 02-08-94, Bury, Chorley
+16, Gary Dicker, IRL, M, 1.83, 76, 31-07-86, Dublin, Kilmarnock
+28, Connor Hammell, ENG, F, 1.82, 77, 14-02-96, Whitehaven, Workington

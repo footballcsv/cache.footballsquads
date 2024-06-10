@@ -1,0 +1,46 @@
+=  Argentinos Juniors - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Leandro Finochietto, ARG, G, 1.87, 78, 25-04-97, Capital Federal, None
+2, Miguel Angel Torrén, ARG, D, 1.78, 73, 12-08-88, Villa Constitución, Cerro Porteño
+3, Román Vega, ARG, D, 1.77, 74, 01-01-04, San Miguel, None
+4, Kevin Mac Allister, ARG, D, 1.72, 72, 07-11-97, Capital Federal, None
+5, Fausto Vera, ARG, M, 1.76, 72, 26-03-00, Hurlingham, None
+6, Lucas Villalba, ARG, D, 1.77, 68, 19-08-94, Florencio Varela, Aldosivi (Mar del Plata)
+7, Javier Cabrera, URU, M, 1.68, 62, 18-03-92, Florida, Melbourne C
+8, Gabriel Carabajal, ARG, M, 1.78, 75, 09-12-91, Córdoba, Unión (Santa Fe)
+9, Gabriel Ávalos, PAR, F, 1.88, 91, 12-10-90, Edelira, Godoy Cruz (Mendoza)
+10, Gabriel Florentín, ARG, M, 1.73, 70, 13-03-99, Gregorio de Laferrere, River Plate
+11, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, Sport Recife
+12, Lucas Chaves, ARG, G, 1.79, 72, 09-08-95, Martín Coronado, None
+14, Leonel Mosevich, ARG, D, 1.87, 81, 04-02-97, Lomas de Zamora, None
+15, Jonathan Sandoval, URU, D, 1.76, 75, 25-06-87, Montevideo, Liverpool [URU]
+16, Carlos Quintana, ARG, D, 1.91, 88, 11-02-88, Alejandro Korn, Talleres (Córdoba)
+17, Franco Moyano, ARG, M, 1.71, 68, 13-09-97, Lobos, San Lorenzo
+18, Diego Sosa, ARG, M, 1.67, 64, 24-10-91, Tandil, Godoy Cruz (Mendoza)
+19, Luciano Gómez, ARG, D, 1.63, 66, 22-03-96, Corrientes, Banfield
+20, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, Nueva Chicago
+22, Enzo Kalinski, ARG, M, 1.83, 72, 10-03-87, Santiago del Estero, Estudiantes (LP)
+24, Elías Gómez, ARG, D, 1.79, 70, 09-06-94, Granadero Baigorria, Rosario Central
+25, Mateo Coronel, ARG, F, 1.72, 70, 24-10-98, Ramallo, Villa Ramallo
+26, Matías Romero, ARG, M, 1.76, 73, 01-02-96, San Miguel de Tucumán, None
+28, Emanuel Herrera, ARG, F, 1.80, 75, 13-04-87, Rosario, Sporting Cristal
+29, Marco Di Césare, ARG, M, 1.86, 81, 30-01-02, Mendoza, None
+30, Pablo Minissale, ARG, D, 1.82, 79, 14-01-01, José C. Paz, None
+31, Miguel Acosta, ARG, G, 1.89, 80, 19-10-01, Posadas, None
+32, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, Racing Club
+34, Nicolás Forastiero, ARG, G, 1.82, 81, 15-07-98, Capital Federal, None
+37, Matías Lugo, ARG, M, 1.70, 65, 10-05-01, Benavídez, None
+38, Matías Galarza, ARG, M, 1.80, 71, 04-03-02, Boulogne, None
+39, Yair González, ARG, F, 1.71, 68, 21-03-02, José León Suárez, Unión La Calera
+41, Lautaro Ovando, ARG, F, 1.72, 72, 10-02-03, San Martín, None
+44, Román Riquelme, ARG, D, 1.84, 75, 18-05-02, Rosario, None
+46, Federico Redondo, ARG, M, 1.88, 75, 18-01-03, Madrid, None
+49, Gastón Verón, ARG, F, 1.83, 82, 23-04-01, Puerto Vilelas, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Facundo Máter, ARG, M, 1.64, 64, 23-07-98, Haedo, Almirante Brown (On Loan)
+23, Lucas Ambrogio, ARG, F, 1.81, 72, 28-04-97, Villa Mercedes, Independiente Rivadavia (On Loan)
+27, Gabriel Hauche, ARG, F, 1.68, 71, 27-11-86, Remedios de Escalada, Aldosivi (Mar del Plata)

@@ -1,0 +1,56 @@
+=  Coritiba - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Jonathan, BRA, D, 1.78, 71, 25-08-92, Samambaia, Água Santa
+4, Rhodolfo, BRA, D, 1.93, 82, 11-08-86, Bandeirantes, Flamengo
+5, Nathan Silva, BRA, M, 1.82, 79, 06-05-97, Oliveira, Atlético Mineiro
+7, Rafinha, BRA, M, 1.67, 61, 04-08-83, Guarulhos, Cruzeiro
+8, Martín Sarrafiore, ARG, M, 1.80, 70, 20-07-97, Villa Ballester, Internacional
+9, Ricardo Oliveira, BRA, F, 1.83, 81, 06-05-80, São Paulo, Atlético Mineiro
+10, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Vitória
+11, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, San Lorenzo
+12, Marcão, BRA, G, 1.92, 100, 19-04-00, São Paulo, None
+15, Henrique Vermudt, BRA, D, 1.82, 76, 25-02-99, Cascavel, None
+16, Natanael, BRA, D, 1.72, 70, 05-01-02, Braganey, None
+17, Nathan, BRA, F, 1.78, 73, 09-06-99, Palmeira, None
+18, Guilherme Biro, BRA, D, 1.88, 72, 01-05-00, Curitiba, None
+19, João Vitor, BRA, F, 1.74, 65, 28-05-00, Brasília, None
+20, Matheus Galdezani, BRA, M, 1.77, 74, 13-03-92, Limeira, Mirassol
+22, Maílton, BRA, D, 1.69, 69, 31-05-98, Paraíso do Norte, Atlético Mineiro
+23, Alex Muralha, BRA, G, 1.86, 89, 10-11-89, Três Corações, Flamengo
+27, Ramón Martínez, PAR, M, 1.86, 82, 04-01-96, Asunción, Atlético Mineiro
+28, Luiz Henrique, BRA, M, 1.77, 71, 03-05-99, Mafra, None
+30, Robson, BRA, F, 1.79, 76, 30-05-91, Campinas, Bangkok U
+32, Nathan Otávio, BRA, D, 1.87, 81, 02-06-90, Toledo, Fluminense
+33, Arthur, BRA, G, 1.90, 79, 28-01-97, Braço do Norte, None
+35, Sabino, BRA, D, 1.84, 88, 25-10-96, Brasília, Santos
+36, Matheus Sales, BRA, M, 1.78, 68, 13-05-95, Guarulhos, Palmeiras
+39, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, None
+57, Matheus Bueno, BRA, M, 1.80, 72, 30-07-98, Curitiba, None
+70, Brayan Lucumí, COL, M, 1.70, 68, 12-02-94, Villa Rica, Cortuluá
+77, Osman, BRA, M, 1.79, 72, 29-01-92, São Paulo, Ponte Preta
+84, Wilson, BRA, G, 1.85, 79, 31-01-84, Santo André, Vitória
+88, Kazu, BRA, D, 1.68, 67, 18-03-00, Maringá, None
+91, Patrick, BRA, D, 1.78, 73, 22-01-91, Machado, Santa Clara
+94, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, Sporting CP
+98, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, Flamengo
+99, Pablo Thomaz, BRA, F, 1.77, 62, 07-09-99, Ribeirão Preto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Corinthians
+99, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, Cruzeiro
+89, Ruy, BRA, M, 1.70, 74, 26-01-89, Itapeva, Náutico
+19, Igor Jesus, BRA, F, 1.80, 75, 25-02-01, Cuiabá, Shabab Al-Ahli
+13, Wanderley, BRA, F, 1.82, 81, 11-10-88, Campinas, Ponte Preta
+10, Giovanni, BRA, M, 1.74, 74, 04-04-94, Sorocaba, Cruzeiro
+11, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Re-Registered (10)
+14, Thiago Lopes, BRA, M, 1.78, 76, 27-10-96, Mogi Mirim, Vitória (On Loan)
+43, Rafael Lima, BRA, D, 1.87, 78, 08-03-86, Florianópolis, Paraná
+21, Gabriel, BRA, M, 1.78, 64, 06-01-90, Salvador, CSA
+3, Rodolfo Filemon, BRA, D, 1.84, 81, 29-08-94, São Simão, CSA
+29, Wellissol, BRA, F, 1.82, 74, 16-02-98, Salvador, Brasil de Pelotas (On Loan)
+90, Giovanni Augusto, BRA, M, 1.75, 65, 05-09-89, Belém, Mazatlán
+6, William Matheus, BRA, D, 1.87, 85, 02-04-90, Rio de Janeiro, Shimizu S-Pulse
+29, Rodrigo Muniz, BRA, F, 1.82, 79, 04-05-01, São Domingos do Prata, Flamengo

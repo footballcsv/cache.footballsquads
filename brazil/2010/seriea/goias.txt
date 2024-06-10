@@ -1,0 +1,55 @@
+=  Goiás - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fábio, BRA, G, 2.00, 88, 19-09-78, São José dos Campos, Guaratinguetá
+, Harlei, BRA, G, 1.82, 84, 30-03-72, Belo Horizonte, Vila Nova
+, Pedro Henrique, BRA, G, 1.90, 84, 12-10-85, Barra do Garça, None
+, Rodrigo Calaça, BRA, G, 1.84, 77, 25-01-81, Catalão, Comercial de Catalão
+, Douglas, BRA, D, 1.72, 63, 06-08-90, Monte Alegre, None
+, Ernando, BRA, D, 1.84, 75, 14-07-88, Formosa, None
+, Jadílson, BRA, D, 1.65, 66, 04-12-77, Maceió, Grêmio
+, Júnior, BRA, D, 1.73, 65, 20-06-73, Santo Antônio de Jesus, Atlético Mineiro
+, Marcão, BRA, D, 1.85, 83, 28-03-75, Curitiba, Palmeiras
+, Rafael Tolói, BRA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, None
+, Valmir Lucas, BRA, D, 1.85, 76, 12-01-89, Edéia, None
+, Wellington Saci, BRA, D, 1.73, 73, 05-01-85, Belém, Corinthians
+, Amaral, BRA, M, 1.82, 67, 07-10-86, Goiânia, None
+, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, Cruzeiro
+, Camacho, BRA, M, 1.81, 73, 02-03-90, Rio de Janeiro, Flamengo
+, Carlos Alberto, BRA, M, 1.68, 68, 24-01-78, Rio de Janeiro, Corinthians
+, Hugo, BRA, M, 1.78, 76, 21-08-83, Itaperuna, Atlético Mineiro
+, Jonílson, BRA, M, 1.75, 73, 28-11-78, Pinheiral, Atlético Mineiro
+, Lenon, BRA, M, 1.77, 65, 02-05-90, São Paulo, Flamengo
+, Marcelo Costa, BRA, M, 1.76, 70, 24-07-80, Campinas do Sul, Palmeiras
+, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, None
+, Wellington Monteiro, BRA, M, 1.77, 78, 07-09-78, Rio de Janeiro, Fluminense
+, Wendel, BRA, M, 1.78, 75, 08-10-81, Itapetinga, Palmeiras
+, Éverton Santos, BRA, F, 1.76, 66, 14-10-86, São José dos Campos, Paris St-Germain
+, Felipe, BRA, F, 1.73, 79, 17-04-78, Passo Fundo, Náutico
+, Jones, BRA, F, 1.77, 74, 14-10-88, Caratinga, Deportivo Maldonado
+, Marcus Vinícius, BRA, F, 1.79, 79, 18-01-90, Mutunópolis, None
+, Otacílio Neto, BRA, F, 1.80, 75, 17-11-82, Orós, Corinthians
+, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Locarno
+, Vitor Flora, BRA, F, 1.79, 80, 21-02-90, São Joaquim da Barra, Liverpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Ángel Rojas, CHI, M, 1.73, 75, 10-04-85, Santiago, Universidad de Chile
+, Mateus, BRA, M, 1.74, 76, 07-06-86, Tuparendi, Sport Recife
+, Mateus Borges, BRA, M, 1.72, 71, 25-06-83, Ribeirão Preto, Canedense
+, João Paulo, BRA, D, 1.85, 78, 17-11-84, Curitiba, Figueirense (On Loan)
+, Régis, BRA, D, 1.79, 75, 03-06-89, Brasília, Guaratinguetá
+, Deyvid Sacconi, BRA, M, 1.74, 67, 10-04-87, Alfenas, Palmeiras
+, William, BRA, M, 1.73, 72, 20-11-86, São Paulo, Palmeiras
+, Fábio Bahia, BRA, M, 1.70, 65, 02-11-83, Senhor do Bonfim, Bahia (On Loan)
+, Wendell, BRA, F, 1.74, 62, 07-01-89, Goiânia, Fortaleza (On Loan)
+, Daniel Lovinho, BRA, F, 1.72, 69, 09-01-89, São Paulo, Palmeiras
+, Bruno, BRA, M, 1.71, 74, 04-05-90, Suzano, Brasa
+, Rafael Medeiros, BRA, M, 1.78, 78, 22-05-91, Taguatinga, Penapolense (On Loan)
+, Johnathan, BRA, F, 1.84, 74, 29-03-90, Fernandópolis, Arles-Avignon (On Loan)
+, Diogo Galvão, BRA, F, 1.73, 73, 07-03-82, Rondonópolis, Atlético Goianiense (On Loan)
+, Túlio, BRA, M, 1.75, 72, 25-04-76, Brasília, Figueirense
+, Pedrão, BRA, F, 1.74, 72, 05-04-78, Jabuticabal, São Caetano
+, Augusto, BRA, D, 1.87, 77, 16-04-86, Santa Cruz de Monte Castelo, São Caetano
+, Romerito, BRA, M, 1.83, 80, 14-01-75, Itaguarú, Sport Recife

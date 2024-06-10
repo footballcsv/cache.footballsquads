@@ -1,0 +1,47 @@
+=  Corinthians - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Caique França, BRA, G, 1.86, 75, 10-06-95, São Paulo, None
+2, Michel, BRA, D, 1.76, 72, 15-02-90, Rio de Janeiro, Las Palmas
+4, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Cruzeiro
+5, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Monte Azul
+6, Carlos Augusto, BRA, D, 1.84, 75, 07-01-99, Campinas, None
+7, Junior Sornoza, ECU, M, 1.66, 65, 28-01-94, Portoviejo, Fluminense
+8, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Ponte Preta
+9, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Beşiktaş
+10, Jádson, BRA, M, 1.68, 67, 05-10-83, Londrina, Tianjin Quanjian
+12, Cássio, BRA, G, 1.95, 92, 06-06-87, Veranópolis, PSV Eindhoven
+13, Marllon, BRA, D, 1.81, 75, 16-04-92, Rio de Janeiro, Cianorte
+14, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Montevideo Wanderers
+15, Ralf, BRA, M, 1.80, 73, 09-06-84, São Paulo, Beijing Guoan
+17, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, León
+18, Matheus Jesus, BRA, M, 1.86, 81, 10-04-97, Salvador, Estoril
+19, Gustavo, BRA, F, 1.89, 76, 29-03-94, Registro, Criciúma
+20, Régis, BRA, M, 1.70, 72, 30-11-92, Jales, Bahia
+22, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Vasco da Gama
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, Wolfsburg
+25, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, Ponte Preta
+26, Gil, BRA, D, 1.90, 89, 12-06-87, Campos dos Goytacazes, Shandong Luneng
+27, Walter, BRA, G, 1.88, 82, 18-11-87, Jaú, União Barbarense
+28, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Grêmio
+30, Júnior Urso, BRA, M, 1.82, 82, 10-03-89, Taboão da Serra, Guangzhou R&F
+31, Janderson, BRA, F, 1.61, 58, 26-02-99, Barreiras, Joinville
+32, João Victor, BRA, D, 1.87, 80, 17-07-98, Bauru, Coimbra
+35, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Torino
+36, Lucas Piton, BRA, D, 1.75, 64, 09-10-00, Jundiaí, None
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Velo Clube
+38, Pedrinho, BRA, M, 1.72, 65, 13-04-98, Maceió, None
+40, Filipe, BRA, G, 1.94, 82, 31-01-98, Rio de Janeiro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, André Luis, BRA, F, 1.79, 71, 21-04-97, Pouso Alegre, Fortaleza (On Loan)
+33, Marquinhos, BRA, M, 1.72, 67, 26-01-97, Benevides, Ponte Preta (On Loan)
+39, Fabricio Oya, BRA, M, 1.74, 65, 23-07-99, Campinas, São Bento (On Loan)
+26, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Vasco da Gama (On Loan)
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Athletico Paranaense (On Loan)
+21, Sergio Díaz, PAR, F, 1.70, 70, 05-03-98, Itauguá, Real Madrid B
+11, Ángel Romero, PAR, F, 1.77, 73, 04-07-92, Fernando de la Mora, San Lorenzo
+3, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Al-Ittihad Kalba
+16, Ángelo Araos, CHI, M, 1.74, 63, 06-01-97, Antofagasta, Ponte Preta (On Loan)

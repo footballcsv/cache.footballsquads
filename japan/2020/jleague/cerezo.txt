@@ -1,0 +1,62 @@
+=  Cerezo Osaka - Japanese J1 League 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Takumi Nagaishi, JPN, G, 1.90, 81, 16-02-96, Yamaguchi, Fukuoka Univ
+2, Riku Matsuda, JPN, D, 1.71, 67, 24-07-91, Osaka, FC Tokyo
+3, Yasuki Kimoto, JPN, D, 1.83, 73, 06-08-93, Fuji, Fukuoka Univ
+4, Yuta Koike, JPN, D, 1.70, 64, 06-11-96, Tochigi, Sint-Truiden
+5, Naoyuki Fujita, JPN, M, 1.75, 68, 22-06-87, Fukuoka, Vissel Kobe
+6, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, Vasco da Gama
+8, Yoichiro Kakitani, JPN, F, 1.73, 62, 03-01-90, Osaka, Basel
+9, Ken Tokura, JPN, F, 1.87, 80, 16-06-86, Tokyo, Hokkaido Consadole Sapporo
+10, Hiroshi Kiyotake, JPN, M, 1.72, 63, 12-11-89, Oita, Sevilla
+13, Toshiyuki Takagi, JPN, F, 1.70, 62, 25-05-91, Yokohama, Urawa Red Diamonds
+14, Yusuke Maruhashi, JPN, M, 1.78, 68, 02-09-90, Osaka, None
+15, Ayumu Seko, JPN, D, 1.83, 72, 07-06-00, Osaka, None
+16, Eiichi Katayama, JPN, D, 1.80, 77, 30-11-91, Saitama, Fagiano Okayama
+17, Tatsuhiro Sakamoto, JPN, M, 1.70, 63, 22-10-96, Tokyo, Montedio Yamagata
+18, Koji Suzuki, JPN, F, 1.79, 77, 25-07-89, Miura, FC Ryukyu
+20, Bruno Mendes, BRA, F, 1.84, 76, 02-08-94, Cruzeiro, Deportivo Maldonado
+21, Kim Jin-Hyeon, KOR, G, 1.92, 85, 06-07-87, Suwon, Dongguk Univ
+22, Matej Jonjić, CRO, M, 1.88, 80, 29-01-91, Split, Incheon U
+24, Pierce Waring, AUS, F, 1.91, 84, 18-11-98, Melbourne, Melbourne Victory
+25, Hiroaki Okuno, JPN, F, 1.71, 67, 14-08-89, Osaka, Vegalta Sendai
+26, Daichi Akiyama, JPN, M, 1.72, 66, 28-07-94, Fujiidera, None
+27, Ahn Joon-Soo, KOR, G, 1.88, 78, 28-01-98, Uijeongbu, FC Uijeongbu
+29, Takuya Shimamura, JPN, M, 1.70, 59, 06-03-99, Okayama, Kyoto Sanga
+30, Hinata Kida, JPN, M, 1.71, 59, 04-07-00, Osaka, None
+32, Yuta Toyokawa, JPN, F, 1.73, 62, 09-09-94, Kumamoto, Eupen
+33, Tawan Khotrsupho, THA, F, 1.74, 58, 23-01-00, Trakan Phuet Phon, BG Pathum U
+35, Yuji Yoshida, JPN, M, 1.74, 68, 22-04-02, Chiba, None
+37, Ryudai Maeda, JPN, M, 1.69, 61, 20-05-02, Osaka, None
+38, Masataka Nishimoto, JPN, F, 1.77, 63, 11-06-96, Yao, None
+41, Nagi Matsumoto, JPN, M, 1.71, 66, 04-09-01, Osaka, None
+42, Shota Fujio, JPN, F, 1.80, 67, 02-05-01, Osaka, None
+43, Ryuya Nishio, JPN, D, 1.80, 77, 16-05-01, Osaka, None
+44, Takaya Yoshinare, JPN, M, 1.68, 65, 07-06-01, Osaka, None
+45, Shu Mogi, JPN, G, 1.95, 80, 15-01-99, Kawasaki, Toko Gakuen HS
+46, Tatsuya Tabira, JPN, D, 1.88, 80, 10-05-01, Osaka, None
+48, Kaili Shimbo, JPN, F, 1.71, 64, 16-08-02, Tokyo, None
+49, Jun Nishikawa, JPN, M, 1.80, 70, 21-02-02, Kawasaki, Toko Gakuen HS
+50, Go Kambayashi, JPN, G, 1.85, 70, 18-08-02, Nara, None
+51, Ryoga Shimonaka, JPN, G, 1.82, 81, 23-06-03, Ishikawa, None
+52, Kota Ohashi, JPN, D, 1.91, 83, 09-04-02, Kyoto, None
+53, Kosei Okazawa, JPN, M, 1.65, 60, 22-10-03, Osaka, None
+54, Kuraba Kondo, JPN, M, 1.70, 62, 06-07-02, Tokushima, None
+55, Subaru Nishimura, JPN, D, 1.77, 79, 13-06-03, Osaka, None
+56, Shiho Ogawa, JPN, F, 1.69, 68, 14-05-03, Osaka, None
+57, Kohei Nakano, JPN, M, 1.72, 63, 28-04-03, Osaka, None
+58, Raiju Obuchi, JPN, M, 1.67, 59, 21-07-03, Fukuoka, None
+59, Sota Kitano, JPN, F, 1.70, 58, 13-08-04, Wakayama, None
+60, Haruki Shimokawa, JPN, F, 1.83, 72, 20-08-03, Osaka, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Mizuki Ando, JPN, F, 1.75, 75, 19-07-99, Oita, Machida Zelvia (On Loan)
+28, Motohiko Nakajima, JPN, F, 1.70, 66, 18-04-99, Osaka, Albirex Niigata (On Loan)
+19, Ryuji Sawakami, JPN, F, 1.81, 77, 08-10-93, Nara, FC Imabari (On Loan)
+11, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, Chapecoense
+31, Hirofumi Yamauchi, JPN, M, 1.82, 76, 09-02-95, Saitama, Montedio Yamagata (On Loan)
+47, Taiga Maekawa, JPN, M, 1.71, 67, 13-06-96, Settsu, Montedio Yamagata (On Loan)
+39, Honoya Shoji, JPN, D, 1.87, 74, 08-10-97, Gunma, V-Varen Nagasaki (On Loan)

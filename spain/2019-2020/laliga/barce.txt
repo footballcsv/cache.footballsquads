@@ -1,0 +1,52 @@
+=  Barcelona - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.87, 85, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, Nélson Semedo, POR, D, 1.77, 67, 16-11-93, Lisbon, Benfica
+3, Gerard Piqué, ESP, D, 1.94, 85, 02-02-87, Barcelona, Manchester U
+4, Ivan Rakitić, CRO, M, 1.84, 78, 10-03-88, Rheinfelden, Sevilla
+5, Sergio Busquets, ESP, M, 1.89, 76, 16-07-88, Sabadell, Barcelona B
+8, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Grêmio
+9, Luis Suárez, URU, F, 1.82, 86, 24-01-87, Salto, Liverpool
+10, Lionel Messi, ARG, F, 1.70, 72, 24-06-87, Rosario, Barcelona B
+11, Ousmane Dembélé, FRA, F, 1.78, 67, 15-05-97, Vernon, Borussia Dortmund
+13, Neto, BRA, G, 1.90, 84, 19-07-89, Araxá, Valencia
+15, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Sevilla
+17, Antoine Griezmann, FRA, F, 1.75, 71, 21-03-91, Mâcon, Atlético Madrid
+18, Jordi Alba, ESP, D, 1.70, 68, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Leganés
+20, Sergi Roberto, ESP, D, 1.78, 68, 07-02-92, Reus, Barcelona B
+21, Frenkie de Jong, NED, M, 1.79, 69, 12-05-97, Arkel, Ajax
+22, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Bayern Munich
+23, Samuel Umtiti, FRA, D, 1.82, 75, 14-11-93, Yaoundé, Lyon
+24, Júnior Firpo, ESP, D, 1.84, 75, 22-08-96, Santo Domingo, Betis
+26, Iñaki Peña, ESP, G, 1.84, 78, 02-03-99, Alicante, Barcelona B
+28, Riqui Puig, ESP, M, 1.69, 56, 13-08-99, Matadepera, Barcelona B
+30, Álex Collado, ESP, M, 1.73, 65, 22-04-99, Sabadell, Barcelona B
+31, Ansu Fati, ESP, M, 1.78, 55, 31-10-02, Bissau, Barcelona B
+32, Guillem Jaime, ESP, M, 1.77, 70, 06-01-99, Torreforta, Barcelona B
+33, Ronald Araújo, URU, D, 1.91, 91, 07-03-99, Rivera, Boston River
+34, Ferran Sarsanedas, ESP, M, 1.77, 71, 11-02-97, Amer, Barcelona B
+35, Dani Morer, ESP, D, 1.69, 65, 05-02-98, Mataró, Barcelona B
+36, Arnau Tenas, ESP, G, 1.85, 75, 30-05-01, Vic, Barcelona B
+37, Hiroki Abe, JPN, F, 1.71, 65, 28-01-99, Tokyo, Kashima Antlers
+38, Kike Saverio, ECU, F, 1.78, 69, 19-06-99, Genoa, Barcelona B
+39, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Rayo Vallecano
+40, Chumi, ESP, D, 1.84, 75, 02-03-99, Laracha, Barcelona B
+41, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Albacete
+42, Monchu, ESP, M, 1.73, 68, 13-09-99, Palma de Mallorca, Barcelona B
+43, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Alcorcón B
+44, Óscar Mingueza, ESP, D, 1.84, 75, 13-05-99, Santa Perpètua de Mogoda, Barcelona B
+45, Konrad de la Fuente, USA, F, 1.70, 63, 16-07-01, Miami, Barcelona B
+46, Ludovit Reis, NED, M, 1.85, 75, 01-06-00, Haarlem, FC Groningen
+47, Jandro Orellana, ESP, M, 1.78, 63, 07-08-00, Gavà, Barcelona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Rafinha, BRA, M, 1.74, 71, 12-02-93, São Paulo, Celta Vigo (On Loan)
+19, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Betis (On Loan)
+6, Jean-Clair Todibo, FRA, D, 1.90, 81, 30-12-99, Cayenne, Schalke (On Loan)
+27, Carles Pérez, ESP, F, 1.72, 65, 16-02-98, Granollers, Roma (On Loan)
+16, Moussa Wagué, SEN, D, 1.77, 70, 04-10-98, Bignona, Nice (On Loan)
+29, Abel Ruiz, ESP, F, 1.82, 75, 28-01-00, Almussafes, Sporting Braga (On Loan)

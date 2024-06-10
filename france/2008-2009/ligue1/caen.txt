@@ -1,0 +1,39 @@
+=  Caen - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexis Thébaux, FRA, G, 1.85, 81, 17-03-85, Les Sables D'Olonne, Dijon
+2, Nicolas Seube, FRA, D, 1.80, 72, 11-08-79, Toulouse, Toulouse
+5, Sébastien Mazure, FRA, F, 1.81, 72, 20-03-79, Paris, St-Etienne
+6, Rémi Gomis, SEN, M, 1.80, 64, 14-02-84, Versailles, Laval
+7, Anthony Deroin, FRA, M, 1.63, 66, 15-03-79, Caen, None
+8, Alexandre Raineau, FRA, M, 1.78, 71, 21-06-86, Paris, None
+9, Steve Savidan, FRA, F, 1.75, 70, 26-06-78, Angers, Valenciennes
+10, Benjamin Nivet, FRA, M, 1.78, 75, 02-01-77, Chartres, Troyes
+11, Youssef Adnane, FRA, F, 1.78, 71, 16-07-85, Mulhouse, Brest
+12, Grégory Proment, FRA, M, 1.76, 69, 10-12-78, Paris, Metz
+13, Florian Boucansaud, FRA, D, 1.86, 72, 15-02-81, Noisy le Sec, Troyes
+14, Julien Toudic, FRA, F, 1.72, 68, 19-12-85, Caen, None
+16, Vincent Planté, FRA, G, 1.89, 84, 19-11-80, Lille, Cannes
+17, Rajiv Van La Parra, NED, M, 1.81, 72, 04-06-91, Rotterdam, Feyenoord
+18, Fahid Ben Khalfallah, TUN, M, 1.74, 68, 09-10-82, Péronne, Angers
+19, Jérémy Sorbon, FRA, D, 1.83, 79, 05-08-83, Caen, None
+20, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, None
+21, Pablo Barzola, ARG, D, 1.83, 82, 17-11-83, San Martín, Argentinos Juniors
+22, Guillaume Quellier, FRA, M, 1.77, 66, 25-06-86, Caen, None
+23, Mustapha Traoré, FRA, D, 1.85, 73, 09-07-82, Paris, Mondeville
+24, Grégory Leca, FRA, M, 1.83, 84, 22-08-80, Metz, Metz
+27, Nicolas Florentin, FRA, F, 1.82, 76, 16-02-78, Pont a Mousson, Troyes
+28, Juan Eluchans, ARG, M, 1.78, 68, 14-04-80, Tandil, Independiente
+29, Ismaïla N'Diaye, FRA, M, 1.88, 72, 22-01-88, Thiaroye-sur-Mer, None
+30, Damien Perquis, FRA, G, 1.84, 82, 08-03-86, Saint-Brieuc, Beauvais
+, Sambou Yatabaré, MLI, M, 1.90, 82, 02-03-89, Beauvais, None
+, Youssef El Arabi, MAR, F, 1.83, 70, 03-02-87, Caen, None
+, Livio Nabab, FRA, F, 1.85, 72, 14-06-88, Guadeloupe, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Lilian Compan, FRA, F, 1.82, 72, 30-04-77, Hyères, Montpellier
+3, Karl Svensson, SWE, D, 1.89, 82, 21-03-84, Jönköping, IFK Göteborg
+4, Brahim Thiam, FRA, D, 1.85, 82, 24-02-74, Saint Denis, Reims (On Loan)
+15, Stéphane Zubar, FRA, D, 1.87, 81, 09-10-86, Pointe-à-Pitre, FC Vaslui

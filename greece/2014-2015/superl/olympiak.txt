@@ -1,0 +1,48 @@
+=  Olympiakos - Greek Super League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Giannis Maniatis, GRE, D, 1.75, 68, 12-10-86, Livadia, Panionios
+3, Alberto Botía, ESP, D, 1.87, 75, 27-01-89, Alquerias, Sevilla
+5, Luka Milivojević, SRB, M, 1.83, 75, 07-04-91, Kragujevac, Anderlecht
+6, Ibrahim Afellay, NED, M, 1.81, 68, 02-04-86, Utrecht, Barcelona
+7, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Fulham
+8, Delvin Ndinga, CGO, M, 1.82, 73, 03-04-88, Pointe Noire, Monaco
+9, Jimmy Durmaz, SWE, M, 1.80, 69, 22-03-89, Örebro, Gençlerbirliği
+10, Alejandro Domínguez, ARG, F, 1.73, 71, 10-06-81, Lanús, Rayo Vallecano
+11, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Fulham
+12, Franco Jara, ARG, F, 1.82, 77, 15-07-88, Villa María, Benfica
+14, Omar Elabdellaoui, NOR, M, 1.79, 72, 05-12-91, Skien, Eintracht Braunschweig
+15, Qazim Laçi, ALB, M, 1.79, 69, 19-01-96, Peshkopi, None
+16, Roberto, ESP, G, 1.88, 82, 10-02-86, Madrid, Atlético Madrid
+17, Dimitris Diamantakos, GRE, F, 1.85, 77, 05-03-93, Piraeus, None
+18, Andreas Bouhalakis, GRE, M, 1.86, 82, 05-04-93, Heraklion, Ergotelis
+19, David Fuster, ESP, M, 1.78, 71, 03-02-82, Oliva, Villarreal
+20, Kostas Giannoulis, GRE, D, 1.83, 73, 09-12-87, Katerini, Atromitos
+22, Andreas Gianniotis, GRE, G, 1.90, 80, 18-12-92, Serres, Ethnikos Gazoros
+23, Dimitris Siovas, GRE, M, 1.89, 84, 16-09-88, Athens, Panionios
+24, Anastasios Avlonitis, GRE, D, 1.90, 85, 01-01-90, Chalcis, Panionios
+25, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Kaiserslautern
+26, Arthur Masuaku, FRA, D, 1.79, 70, 07-11-93, Lille, Valenciennes
+27, Jorge Benítez, PAR, F, 1.82, 80, 02-09-92, Asunción, Guaraní [PAR]
+28, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, None
+29, Praxitelis Vouros, GRE, D, 1.83, 75, 05-05-95, Mytilini, Eolikos
+30, Leandro Salino, BRA, M, 1.69, 64, 22-04-85, Juiz de Fora, Sporting Braga
+33, Lefteris Choutesiotis, GRE, G, 1.92, 85, 20-07-94, Makrychori, None
+34, Manolis Saliakas, GRE, M, 1.75, 72, 12-09-96, Heraklion, Ergotelis
+42, Balázs Megyeri, HUN, G, 1.88, 88, 31-03-90, Budapest, Ferencváros
+45, Felipe Santana, BRA, D, 1.94, 80, 17-03-86, Rio Claro, Schalke
+67, Antonis Vatousiadis, GRE, D, 1.88, 85, 01-04-96, Corinth, Panionios
+72, Giorgos Strezos, GRE, G, 1.88, 74, 06-07-95, Chalkidona, PAOK
+77, Mathieu Dossevi, TOG, M, 1.72, 65, 12-02-88, Chambray-les-Tours, Valenciennes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Konstantinos Manolas, GRE, D, 1.79, 67, 14-06-91, Naxos, Roma
+12, Dimitris Kolovos, GRE, M, 1.82, 77, 27-04-93, Athens, Panionios (On Loan)
+20, José Holebas, GRE, D, 1.84, 79, 27-06-84, Aschaffenburg, Roma
+9, Javier Saviola, ARG, F, 1.68, 61, 11-12-81, Bajo Belgrano, Verona
+21, Avraam Papadopoulos, GRE, D, 1.86, 79, 03-12-84, Sydney, Trabzonspor
+22, Eric Abidal, FRA, D, 1.86, 75, 11-07-79, Lyon, Retired
+99, Michael Olaitan, NGA, F, 1.84, 80, 01-01-93, Jos, Ergotelis (On Loan)
+55, Gevorg Ghazaryan, ARM, F, 1.80, 75, 05-04-88, Yerevan, Kerkyra

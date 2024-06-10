@@ -1,0 +1,30 @@
+=  Lens - French Ligue 1 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rudy Riou, FRA, G, 1.85, 78, 22-01-80, Grande-Synthe, Nantes
+3, Dimitri Cavaré, FRA, D, 1.85, 84, 05-02-95, Pointe-à-Pitre, Rennes
+4, Ahmed Kantari, MAR, D, 1.85, 80, 28-06-85, Blois, Brest
+5, Abdoul Ba, MTN, D, 2.00, 96, 08-02-94, Dakar, None
+6, Jérôme Lemoigne, FRA, M, 1.88, 77, 15-02-83, Toulon, Sedan
+7, Yoann Touzghar, FRA, F, 1.79, 75, 28-11-86, Avignon, Amiens
+8, Aristote Madiani, FRA, F, 1.84, 73, 22-08-95, La-Ferté-sous-Jouarre, None
+9, Adamo Coulibaly, FRA, F, 1.87, 81, 14-08-81, Paris, Debrecen
+11, Pablo Chavarría, ARG, F, 1.82, 74, 02-01-88, Las Perdices, Anderlecht
+14, Deme N'Diaye, SEN, M, 1.83, 72, 06-02-85, Dakar, Arles-Avignon
+15, Patrick Fradj, FRA, D, 1.76, 70, 11-03-92, Saint-Saulve, None
+16, Samuel Atrous, FRA, G, 1.90, 85, 15-02-90, Roncq, Bayonne
+18, Pierrick Valdivia, FRA, M, 1.85, 67, 18-04-88, Bron, Sedan
+19, Baptiste Guillaume, FRA, F, 1.89, 77, 16-06-95, Brussels, None
+20, Lalaina Nomenjanahary, MDA, M, 1.88, 74, 16-01-86, Antananarivo, Avion
+21, Alharbi El Jadeyaoui, FRA, M, 1.75, 68, 08-08-86, Strasbourg, Angers
+22, Loïck Landré, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Paris St-Germain
+23, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, None
+24, Ludovic Baal, FRA, D, 1.76, 72, 24-05-86, Paris, Le Mans
+25, Jean-Philippe Gbamin, FRA, D, 1.86, 83, 25-05-95, San-Pédro, None
+27, Benjamin Boulenger, FRA, D, 1.88, 80, 01-03-90, Maubeuge, Boulogne
+29, Benjamin Bourigeaud, FRA, M, 1.78, 71, 14-01-94, Calais, None
+33, Boubacar Sylla, MLI, D, 1.77, 76, 17-04-91, Bamako, Châteauroux
+34, Quentin Lecoeuche, FRA, D, 1.72, 65, 04-02-94, Beuvry, None
+35, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, None
+36, Malick Seck, SEN, F, 1.84, 82, 09-02-90, Dakar, Lormont
+40, Valentin Belon, FRA, G, 1.80, 77, 13-06-95, Béthune, None

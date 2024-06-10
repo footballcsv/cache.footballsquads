@@ -1,0 +1,54 @@
+=  Juventus - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.91, 83, 28-01-78, Carrara, Parma
+2, Marco Motta, ITA, D, 1.89, 75, 14-05-86, Merate, Udinese
+3, Giorgio Chiellini, ITA, D, 1.86, 76, 14-08-84, Pisa, Fiorentina
+4, Felipe Melo, BRA, M, 1.83, 73, 26-08-83, Volta Redonda, Fiorentina
+5, Mohamed Sissoko, MLI, M, 1.87, 81, 22-01-85, Mont Saint Agnain, Liverpool
+6, Fabio Grosso, ITA, D, 1.90, 79, 28-11-77, Rome, Lyon
+7, Hasan Salihamidžić, BIH, M, 1.76, 71, 01-01-77, Jablanica, Bayern Munich
+8, Claudio Marchisio, ITA, M, 1.79, 66, 19-01-86, Cercola, None
+9, Vincenzo Iaquinta, ITA, F, 1.91, 84, 21-11-79, Cutro, Udinese
+10, Alessandro Del Piero, ITA, F, 1.73, 73, 09-11-74, Conegliano, Padova
+13, Alex Manninger, AUT, G, 1.88, 84, 04-06-77, Salzburg, Siena
+14, Alberto Aquilani, ITA, M, 1.84, 73, 07-07-84, Rome, Liverpool
+15, Andrea Barzagli, ITA, D, 1.86, 79, 08-05-81, Fiesole, Wolfsburg
+17, Armand Traoré, FRA, D, 1.85, 82, 08-10-89, Paris, Arsenal
+18, Fabio Quagliarella, ITA, F, 1.82, 73, 31-01-83, Castellamare di Stabia, Napoli
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Bari
+20, Luca Toni, ITA, F, 1.96, 94, 26-05-77, Pavullo nel Frignano, Genoa
+21, Zdeněk Grygera, CZE, D, 1.85, 78, 14-05-80, Prílepy u Holesova, Ajax
+23, Simone Pepe, ITA, M, 1.78, 73, 30-08-83, Albano Laziale, Udinese
+25, Jorge Martínez, URU, F, 1.78, 80, 05-04-83, Montevideo, Catania
+26, Leandro Rinaudo, ITA, D, 1.91, 78, 09-05-83, Palermo, Napoli
+27, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, CSKA Moscow
+29, Paolo De Ceglie, ITA, M, 1.84, 75, 17-09-86, Aosta, None
+30, Marco Storari, ITA, G, 1.87, 76, 07-01-77, Pisa, Milan
+31, Marco Costantino, ITA, G, 1.92, 79, 08-05-91, Cento, Spal
+32, Alessandro Matri, ITA, F, 1.83, 80, 15-08-84, Sant'Angelo Lodigiano, Cagliari
+34, Vittorio Ferrero, ITA, D, 1.80, 72, 25-02-91, Moncalieri, None
+35, Marcel Büchel, AUT, M, 1.75, 69, 18-03-91, Feldkirch, Siena
+36, Manuel Giandonato, ITA, M, 1.78, 72, 10-10-91, Casoli, None
+37, Filippo Boniperti, ITA, M, 1.78, 71, 27-09-91, Turin, None
+38, Alberto Libertazzi, ITA, F, 1.85, 75, 01-01-92, Turin, None
+39, Vincenzo Camilleri, ITA, D, 1.86, 85, 06-03-92, Gela, Reggina
+40, Leonardo Spinazzola, ITA, F, 1.85, 73, 25-03-93, Foligno, Siena
+41, Niccolò Giannetti, ITA, F, 1.75, 70, 12-05-91, Siena, Siena
+42, Elio De Silvestro, ITA, M, 1.75, 68, 10-03-93, Formia, None
+43, Frederik Sørensen, DEN, D, 1.90, 80, 14-04-92, Lyngby-Taarbæk, Lyngby
+44, Mario Kirev, BUL, G, 1.93, 90, 15-08-89, Dupnitsa, Slavia Sofia
+45, Niccolò Corticchia, ITA, M, 1.77, 72, 11-02-93, Turin, None
+46, Matteo Liviero, ITA, M, 1.75, 68, 13-04-93, Castelfranco Veneto, None
+47, Gianluca Di Salvia, ITA, G, , , 23-06-93, Rome, None
+48, Manfredi Sclopis, ITA, G, , , 06-02-93, Turin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Jonathan Zebina, FRA, D, 1.84, 80, 19-07-78, Paris, Brescia
+16, Mauro Camoranesi, ITA, M, 1.74, 70, 04-10-76, Tandil, Stuttgart
+20, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Brescia (On Loan)
+45, Andrea De Paola, ITA, D, 1.83, 79, 02-10-90, Gaeta, Viareggio (On Loan)
+33, Nicola Legrottaglie, ITA, D, 1.85, 73, 20-10-76, Gioia Del Colle, Milan
+11, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Parma (On Loan)

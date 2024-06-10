@@ -1,0 +1,57 @@
+=  Atlético Madrid - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Adán, ESP, G, 1.91, 88, 13-05-87, Madrid, Betis
+2, Diego Godín, URU, D, 1.87, 79, 16-02-86, Rosario, Villarreal
+3, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Chelsea
+4, Santiago Arias, COL, D, 1.70, 67, 13-01-92, Medellín, PSV Eindhoven
+5, Thomas Partey, GHA, M, 1.85, 76, 13-06-93, Odumase Krobo, Atlético Madrid B
+6, Koke, ESP, M, 1.77, 73, 08-01-92, Madrid, Atlético Madrid B
+7, Antoine Griezmann, FRA, F, 1.75, 71, 21-03-91, Mâcon, Real Sociedad
+8, Saúl Ñiguez, ESP, M, 1.84, 76, 21-11-94, Elche, Atlético Madrid B
+9, Nikola Kalinić, CRO, F, 1.86, 78, 05-01-88, Split, Milan
+10, Ángel Correa, ARG, F, 1.72, 67, 09-03-95, Rosario, San Lorenzo
+11, Thomas Lemar, FRA, M, 1.70, 58, 12-11-95, Baie-Mahault, Monaco
+13, Jan Oblak, SVN, G, 1.89, 84, 07-01-93, Škofja Loka, Benfica
+14, Rodri, ESP, M, 1.90, 78, 22-06-96, Madrid, Villarreal
+15, Stefan Savić, MNE, D, 1.87, 80, 08-01-91, Mojkovac, Fiorentina
+18, Nehuén Pérez, ARG, D, 1.84, 79, 24-06-00, Hurlingham, Argentinos Juniors
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Chelsea
+20, Juanfran, ESP, D, 1.80, 71, 09-01-85, Crevillent, Osasuna
+21, Lucas Hernández, FRA, D, 1.84, 76, 14-02-96, Marseille, Atlético Madrid B
+22, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Chelsea
+23, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Sevilla
+24, José Giménez, URU, D, 1.85, 77, 20-01-95, Toledo, Danubio
+26, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Villarreal B
+28, Cristian Rodríguez, ESP, M, 1.80, 70, 15-03-96, Jerez de la Frontera, Atlético Madrid B
+30, Mikel Carro, ESP, M, 1.88, 79, 25-01-99, Madrid, Atlético Madrid B
+31, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Atlético Madrid B
+32, Borja Garcés, ESP, F, 1.75, 72, 06-08-99, Melilla, Atlético Madrid B
+33, Andrés Solano, COL, D, 1.76, 72, 24-02-98, Santa Marta, Atlético Madrid B
+34, Aitor Puñal, ESP, D, 1.77, 73, 01-04-99, Torrejón de Ardoz, Atlético Madrid B
+35, Francisco Montero, ESP, D, 1.80, 75, 14-01-99, Seville, Atlético Madrid B
+36, Tachi, ESP, D, 1.85, 72, 10-09-97, Fuenlabrada, Atlético Madrid B
+37, Alex Dos Santos, ESP, G, 1.85, 79, 15-01-99, Xinguara, Atlético Madrid B
+38, Carlos Isaac, ESP, D, 1.84, 78, 30-04-98, Navalmoral de la Mata, Atlético Madrid B
+39, Manny Alexander Rodríguez, DOM, M, 1.82, 77, 01-03-98, Santiago de los Caballeros, Atlético Madrid B
+40, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Atlético Madrid B
+42, Rorro, ESP, M, , , 02-04-00, Madrid, Atlético Madrid B
+43, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+44, Ricard Sánchez, ESP, D, 1.75, 70, 22-02-00, Sant Jaume dels Domenys, Atlético Madrid B
+46, Ferni, ESP, M, 1.80, 72, 07-04-98, Talavera de la Reina, Atlético Madrid B
+47, Joaquín Muñoz, ESP, F, 1.73, 60, 10-03-99, Málaga, Atlético Madrid B
+49, Alberto Salido, ESP, F, , , 19-01-00, Palma de Mallorca, Atlético Madrid B
+50, Fernando Gastañaga, ESP, D, , , 26-03-00, Madrid, Atlético Madrid B
+53, Alejandro Herrero, ESP, G, , , 01-01-01, Madrid, Atlético Madrid B
+54, Manu Sánchez, ESP, D, 1.79, 70, 24-08-00, Madrid, Atlético Madrid B
+55, Sergio Camello, ESP, F, 1.77, 69, 10-02-01, Madrid, Atlético Madrid B
+56, Óscar Castro, ESP, M, 1.77, 73, 20-06-01, Santa Cruz de Tenerife, Atlético Madrid B
+57, Gustavo Assunçao, BRA, M, 1.78, 66, 30-03-00, São Paulo, Atlético Madrid B
+58, Silvano Nater, POR, F, , , 27-02-00, Bissau, Atlético Madrid B
+59, Marco Moreno, ESP, D, 1.90, 80, 20-02-01, Las Palmas, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Monaco (On Loan)
+52, Salomón Obama, ESP, F, 1.70, 70, 04-02-00, Malabo, Celta Vigo B

@@ -1,0 +1,46 @@
+=  Barcelona - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.87, 85, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, Nélson Semedo, POR, D, 1.77, 67, 16-11-93, Lisbon, Benfica
+3, Gerard Piqué, ESP, D, 1.94, 85, 02-02-87, Barcelona, Manchester U
+4, Ivan Rakitić, CRO, M, 1.84, 78, 10-03-88, Rheinfelden, Sevilla
+5, Sergio Busquets, ESP, M, 1.89, 76, 16-07-88, Sabadell, Barcelona B
+6, Denis Suárez, ESP, M, 1.76, 69, 06-01-94, Salceda de Caselas, Villarreal
+8, Andrés Iniesta, ESP, M, 1.71, 68, 11-05-84, Fuentealbilla, Barcelona B
+9, Luis Suárez, URU, F, 1.82, 86, 24-01-87, Salto, Liverpool
+10, Lionel Messi, ARG, F, 1.70, 72, 24-06-87, Rosario, Barcelona B
+11, Ousmane Dembélé, FRA, F, 1.78, 67, 15-05-97, Vernon, Borussia Dortmund
+13, Jasper Cillessen, NED, G, 1.85, 83, 22-04-89, Groesbeek, Ajax
+14, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Liverpool
+15, Paulinho, BRA, M, 1.81, 81, 25-07-88, São Paulo, Guangzhou Evergrande
+17, Paco Alcácer, ESP, F, 1.75, 71, 30-08-93, Torrent, Valencia
+18, Jordi Alba, ESP, D, 1.70, 68, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Paris St-Germain
+20, Sergi Roberto, ESP, M, 1.78, 68, 07-02-92, Reus, Barcelona B
+21, André Gomes, POR, M, 1.88, 84, 30-07-93, Vila Nova de Gaia, Valencia
+22, Aleix Vidal, ESP, D, 1.77, 70, 21-08-89, Puigpelat, Sevilla
+23, Samuel Umtiti, FRA, D, 1.82, 75, 14-11-93, Yaoundé, Lyon
+24, Yerry Mina, COL, D, 1.93, 75, 23-09-94, Guachené, Palmeiras
+25, Thomas Vermaelen, BEL, D, 1.83, 80, 14-11-85, Kapellen, Arsenal
+26, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona B
+27, Carles Pérez, ESP, F, 1.72, 65, 16-02-98, Granollers, Barcelona B
+28, Ferran Sarsanedas, ESP, M, 1.77, 71, 11-02-97, Amer, Barcelona B
+29, Abel Ruiz, ESP, F, 1.82, 75, 28-01-00, Almussafes, Barcelona B
+30, Oriol Busquets, ESP, M, 1.85, 78, 20-01-99, Sant Feliu de Guíxols, Barcelona B
+31, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Barcelona B
+33, Sergi Palencia, ESP, D, 1.72, 66, 23-03-96, Badalona, Barcelona B
+34, Dani Morer, ESP, D, 1.69, 65, 05-02-98, Mataró, Barcelona B
+35, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Barcelona B
+36, Marc Cucurella, ESP, D, 1.75, 69, 22-07-98, Alella, Barcelona B
+37, José Arnáiz, ESP, F, 1.74, 70, 15-04-95, Talavera de la Reina, Valladolid
+39, David Costas, ESP, D, 1.82, 73, 26-03-95, Vigo, Celta Vigo
+41, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Arda Turan, TUR, M, 1.75, 76, 30-01-87, Fatih, İstanbul Başakşehir (On Loan)
+12, Rafinha, BRA, M, 1.74, 71, 12-02-93, São Paulo, Internazionale (On Loan)
+14, Javier Mascherano, ARG, D, 1.74, 73, 08-06-84, San Lorenzo, Hebei China Fortune
+16, Gerard Deulofeu, ESP, F, 1.77, 73, 13-03-94, Riudarenes, Watford (On Loan)

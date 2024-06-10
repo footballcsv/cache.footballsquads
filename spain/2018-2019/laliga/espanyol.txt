@@ -1,0 +1,40 @@
+=  Espanyol - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto, ESP, G, 1.92, 93, 10-02-86, Fuenlabrada, Olympiakos
+2, Alfa Semedo, GNB, M, 1.90, 82, 30-08-97, Bissau, Benfica
+4, Víctor Sánchez, ESP, M, 1.74, 72, 08-09-87, Rubí, Neuchâtel Xamax
+5, Naldo, BRA, D, 1.88, 80, 25-08-88, Santo André, FC Krasnodar
+6, Óscar Duarte, CRC, D, 1.86, 81, 03-06-89, Catarina, Club Brugge
+7, Borja Iglesias, ESP, F, 1.87, 79, 17-01-93, Santiago de Compostela, Celta Vigo
+8, Roberto Rosales, VEN, D, 1.75, 71, 20-11-88, Caracas, Málaga
+9, Sergio García, ESP, F, 1.74, 72, 09-06-83, Barcelona, Al-Rayyan
+10, Sergi Darder, ESP, M, 1.80, 71, 22-12-93, Artà, Lyon
+11, Facundo Ferreyra, ARG, F, 1.86, 83, 14-03-91, Lomas de Zamora, Benfica
+12, Dídac, ESP, D, 1.85, 74, 09-06-89, Mataró, AEK
+13, Diego López, ESP, G, 1.96, 89, 03-11-81, Paradela, Milan
+14, Óscar Melendo, ESP, M, 1.67, 63, 23-08-97, Barcelona, Espanyol B
+15, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Napoli
+16, Javi López, ESP, D, 1.80, 76, 21-01-86, Osuna, Betis B
+17, Hernán Pérez, PAR, F, 1.80, 71, 25-02-89, Fernando de la Mora, Villarreal
+18, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Espanyol B
+19, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Valencia
+20, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol B
+21, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Espanyol B
+22, Mario Hermoso, ESP, D, 1.84, 74, 18-06-95, Madrid, Real Madrid B
+23, Esteban Granero, ESP, M, 1.80, 78, 02-07-87, Madrid, Real Sociedad
+24, Wu Lei, CHN, M, 1.72, 61, 19-11-91, Nanjing, Shanghai SIPG
+26, Edu Frías, ESP, G, 1.81, 79, 31-12-98, Barcelona, Espanyol B
+27, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol B
+28, Adrià Pedrosa, ESP, D, 1.76, 69, 13-05-98, Barcelona, Espanyol B
+29, Carlos Doncel, ESP, F, 1.69, 64, 04-12-96, Cabrera de Mar, Lleida
+31, Víctor Campuzano, ESP, F, 1.74, 72, 31-05-97, Barcelona, Real Madrid B
+32, Iago Indias, ESP, D, 1.80, 72, 03-01-96, Vigo, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Álvaro Vázquez, ESP, F, 1.82, 78, 27-04-91, Barcelona, Zaragoza (On Loan)
+24, Sergio Sánchez, ESP, D, 1.85, 76, 03-04-86, Mataró, Cádiz
+2, Pipa, ESP, D, 1.75, 68, 26-01-98, Esparraguera, Nàstic (On Loan)
+11, Léo Baptistão, BRA, F, 1.81, 72, 26-08-92, Santos, Wuhan Zall

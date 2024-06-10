@@ -1,0 +1,47 @@
+=  Erciyesspor - Turkish Süper Lig 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mahmut Özen, SWE, D, 1.79, 77, 01-09-88, Stockholm, Malmö FF
+3, Anıl Karaer, TUR, D, 1.85, 75, 04-07-88, Istanbul, Karabükspor
+4, Orhan Gülle, TUR, M, 1.87, 80, 15-01-92, Düzköy, Gaziantepspor
+5, Kader Mangane, SEN, D, 1.93, 87, 23-03-83, Thiès, Al-Hilal [KSA]
+6, Mehmet Akgün, GER, M, 1.79, 70, 06-08-86, Bielefeld, Beşiktaş
+9, Jacques Zoua, CMR, F, 1.86, 78, 06-09-91, Garoua, Hamburg
+10, Necati Ateş, TUR, F, 1.82, 80, 03-01-80, Izmir, Eskişehirspor
+11, Royston Drenthe, NED, M, 1.67, 67, 08-04-87, Rotterdam, Reading
+13, Uğur Demirkol, TUR, D, 1.73, 67, 16-01-90, Berlin, Waldhof Mannheim
+14, Georges Mandjeck, CMR, M, 1.83, 72, 09-12-88, Douala, Auxerre
+15, Pape Diakhaté, SEN, D, 1.85, 79, 21-06-84, Dakar, Granada
+18, Bjorn Vleminckx, BEL, F, 1.83, 82, 01-12-85, Boom, Club Brugge
+19, Murat Yıldırım, TUR, M, 1.70, 68, 18-05-87, Çorum, Bursaspor
+21, John Boye, GHA, D, 1.84, 69, 23-04-87, Accra, Rennes
+22, Zülküf Özer, TUR, G, 1.88, 80, 10-05-88, Diyarbakır, Elazığspor
+23, Oğulcan Cağlayan, TUR, F, 1.88, 78, 22-03-96, Ankara, Gaziantepspor
+27, Yasin Pehlivan, AUT, M, 1.84, 70, 05-01-89, Vienna, Bursaspor
+35, Gökhan Değirmenci, TUR, G, 1.82, 79, 21-03-89, Karşıyaka, Kayserispor
+36, Edinho, POR, F, 1.85, 74, 07-07-82, Aveiro, Sporting Braga
+38, İlhan Parlak, TUR, F, 1.81, 75, 18-01-87, Yahyali, Karabükspor
+42, Emre Öztürk, TUR, D, 1.79, 70, 26-08-92, Kayseri, None
+54, Ferhat Uğur, TUR, M, , , 06-05-96, Kocasinan, None
+55, Ethem Ercan Pülgir, TUR, D, 1.86, 83, 02-04-93, Samsun, Bursaspor
+56, Mehmet Seçme, TUR, M, , , 24-10-96, Kocasinan, None
+57, Sinan Karadağ, TUR, D, 1.93, 85, 20-01-95, Hamm, Theesen
+61, Barış Memiş, TUR, M, 1.67, 64, 05-01-90, Trabzon, Trabzonspor
+67, Serdar Gürler, TUR, F, 1.73, 72, 14-09-91, Haguenau, Trabzonspor
+70, Serkan Demirezen, TUR, M, , , 23-02-96, Kayseri, None
+88, Caner Osmanpaşa, TUR, D, 1.94, 81, 15-01-88, Trabzon, Trabzonspor
+91, Yacouba Sylla, MLI, M, 1.84, 80, 29-11-90, Étampes, Aston Villa
+93, Yusuf Balcıoğlu, TUR, G, 1.78, 74, 01-01-93, Kocasinan, None
+99, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, Rizespor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Cem Can, TUR, M, 1.79, 72, 01-04-81, Ankara, Kayserispor
+7, Kerim Avcı, TUR, M, 1.76, 70, 16-12-89, Dortmund, Altınordu (On Loan)
+50, Bilal Kılıç, TUR, D, 1.78, 71, 17-09-94, Ağrı, Denizli BB
+17, İlker Sayan, TUR, F, 1.70, 65, 04-05-93, Konak, Dardanelspor
+45, Yakup Zorlu, TUR, F, 1.75, 68, 26-03-91, Orleans, Gölbaşıspor (On Loan)
+43, Tugay Adamcıl, TUR, M, 1.79, 73, 25-10-93, Çayıralan, Pazarspor (On Loan)
+47, Tayyib Kanarya, TUR, F, 1.79, 71, 17-10-95, Kocasinan, Pazarspor (On Loan)
+8, Senijad Ibričić, BIH, M, 1.80, 80, 26-09-85, Kotor Varoš, Vardar Skopje

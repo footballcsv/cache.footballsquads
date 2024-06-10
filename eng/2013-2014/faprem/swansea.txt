@@ -1,0 +1,62 @@
+=  Swansea City - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michel Vorm, NED, G, 1.83, 84, 20-10-83, Nieuwegein, FC Utrecht
+2, Jordi Amat, ESP, D, 1.84, 80, 21-03-92, Barcelona, Espanyol
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Wrexham
+4, Chico, ESP, D, 1.87, 75, 06-03-87, Cádiz, Genoa
+6, Ashley Williams, WAL, D, 1.83, 75, 23-08-84, Wolverhampton, Stockport Co
+7, Leon Britton, ENG, M, 1.68, 64, 16-09-82, London, Sheffield U
+8, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Liverpool
+9, Michu, ESP, M, 1.85, 80, 21-03-86, Oviedo, Rayo Vallecano
+10, Wilfried Bony, CIV, F, 1.82, 80, 10-12-88, Bingerville, Vitesse
+11, Pablo Hernández, ESP, M, 1.73, 64, 11-04-85, Castellón, Valencia
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, Southampton
+13, David Cornell, WAL, G, 1.80, 73, 28-03-91, Swansea, None
+14, Roland Lamah, BEL, F, 1.80, 71, 31-12-87, Liège, Osasuna
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+16, Garry Monk, ENG, D, 1.83, 81, 06-03-79, Bedford, Barnsley
+18, Leroy Lita, ENG, F, 1.70, 75, 28-12-84, Brazzaville, Middlesbrough
+19, Dwight Tiendalli, NED, D, 1.77, 68, 21-10-85, Paramaribo, FC Twente
+20, Jonathan de Guzmán, NED, M, 1.73, 65, 13-09-87, Scarborough [CAN], Villarreal
+21, José Alberto Cañas, ESP, M, 1.77, 64, 27-05-87, Jerez de la Frontera, Betis
+22, Angel Rangel, ESP, D, 1.88, 84, 28-10-82, Tortosa, Terrassa
+23, Darnel Situ, FRA, D, 1.87, 77, 18-03-92, Rouen, Lens
+24, Alejandro Pozuelo, ESP, F, 1.70, 63, 20-09-91, Seville, Betis
+25, Gerhard Tremmel, GER, G, 1.90, 89, 16-11-78, Munich, Red Bull Salzburg
+26, Álvaro Vázquez, ESP, F, 1.82, 75, 27-04-91, Barcelona, Getafe
+27, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Arsenal
+28, Curtis Obeng, ENG, D, 1.73, 67, 14-02-89, Manchester, Wrexham
+29, Ashley Richards, WAL, M, 1.85, 78, 12-04-91, Swansea, None
+30, Josh Sheehan, WAL, M, 1.84, 75, 30-03-95, Pembrey, None
+31, Lee Lucas, WAL, M, 1.80, 74, 10-06-92, Aberdare, None
+32, Liam Shephard, WAL, D, 1.78, 67, 22-11-94, Rhondda, Cardiff C
+33, Ben Davies, WAL, D, 1.70, 76, 24-04-93, Neath, None
+34, Henry Jones, WAL, M, 1.83, 84, 18-09-93, Swansea, None
+36, James Loveridge, WAL, F, 1.88, 85, 16-05-94, Llanelli, None
+37, Scott Tancock, WAL, D, 1.85, 75, 29-12-93, Swansea, Cardiff C
+38, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, None
+39, Kurtis March, WAL, M, 1.75, 71, 30-03-93, Swansea, None
+41, Rory Donnelly, NIR, F, 1.88, 81, 18-02-92, Belfast, Cliftonville
+42, Oliver Davies, WAL, G, 1.84, 76, 31-12-94, Neath, None
+43, Alex Bray, WAL, M, 1.78, 66, 25-07-95, Bath, None
+44, Sam Evans, WAL, M, , , 12-05-95, Swansea, None
+45, Gregor Zabret, SVN, G, 1.87, 82, 18-08-95, Ljubljana, Domžale
+46, Kenji Gorre, NED, M, 1.77, 71, 29-09-94, Paramaribo, Manchester U
+47, Alex Gogić, CYP, M, 1.85, 83, 13-04-94, Nicosia, Olympiakos
+49, Kris Scott, USA, M, 1.78, 77, 23-05-95, Bristol, Stoke C
+50, Ryan Hedges, WAL, F, 1.85, 65, 07-09-95, Swansea, Flint Town U
+53, Adam King, SCO, M, 1.80, 75, 11-10-95, Edinburgh, Hearts
+54, David N'Gog, FRA, F, 1.90, 79, 01-04-89, Gennevilliers, Bolton W
+55, Raheem Hanley, ENG, D, 1.73, 70, 24-03-94, Blackburn, Blackburn R
+56, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Falkirk
+57, Marvin Emnes, NED, F, 1.80, 66, 27-05-88, Rotterdam, Middlesbrough
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Luke Moore, ENG, F, 1.80, 76, 13-02-86, Birmingham, Elazığspor
+17, Ki Sung-Yueng, KOR, M, 1.87, 79, 24-01-89, Gwangju, Sunderland (On Loan)
+5, Alan Tate, ENG, D, 1.85, 85, 02-09-82, Easington, Aberdeen (On Loan)
+48, Jernade Meade, ENG, M, 1.73, 74, 25-10-92, Luton, Luton T (On Loan)
+35, Daniel Alfei, WAL, D, 1.80, 77, 23-02-92, Swansea, Portsmouth (On Loan)

@@ -1,0 +1,54 @@
+=  Milan - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michael Agazzi, ITA, G, 1.89, 85, 03-07-84, Ponte San Pietro, Chievo Verona
+2, Mattia De Sciglio, ITA, D, 1.83, 74, 20-10-92, Milan, None
+4, Sulley Muntari, GHA, M, 1.79, 76, 27-08-84, Konongo, Internazionale
+5, Philippe Mexès, FRA, D, 1.87, 84, 30-03-82, Toulouse, Roma
+7, Jérémy Ménez, FRA, F, 1.81, 77, 07-05-87, Longjumeau, Paris St-Germain
+8, Suso, ESP, M, 1.76, 69, 19-11-93, Cádiz, Liverpool
+9, Mattia Destro, ITA, F, 1.81, 73, 20-03-91, Ascoli Piceno, Roma
+10, Keisuke Honda, JPN, M, 1.82, 75, 13-06-86, Osaka, CSKA Moscow
+11, Giampaolo Pazzini, ITA, F, 1.80, 74, 02-08-84, Pescia, Internazionale
+13, Adil Rami, FRA, D, 1.90, 90, 27-12-85, Bastia, Valencia
+14, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Verona
+15, Michael Essien, GHA, M, 1.78, 84, 03-12-82, Accra, Chelsea
+16, Andrea Poli, ITA, M, 1.81, 77, 29-09-89, Vittorio Veneto, Sampdoria
+17, Cristián Zapata, COL, D, 1.86, 82, 30-09-86, Padilla Cauca, Villarreal
+18, Riccardo Montolivo, ITA, M, 1.82, 79, 18-01-85, Milan, Fiorentina
+19, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Spartak Moscow
+20, Ignazio Abate, ITA, D, 1.80, 73, 12-11-86, Sant'Agata de' Goti, Torino
+21, Marco van Ginkel, NED, M, 1.80, 67, 01-12-92, Amersfoort, Chelsea
+22, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Atlético Madrid
+23, Diego López, ESP, G, 1.96, 88, 03-11-81, Paradela, Real Madrid
+25, Daniele Bonera, ITA, D, 1.83, 74, 31-05-81, Brescia, Parma
+28, Giacomo Bonaventura, ITA, M, 1.78, 69, 22-08-89, San Severino Marche, Atalanta
+29, Gabriel Paletta, ITA, D, 1.90, 88, 15-02-86, Longchamps, Parma
+31, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Genoa
+32, Christian Abbiati, ITA, G, 1.91, 92, 08-07-77, Abbiategrasso, Monza
+33, Alex, BRA, D, 1.88, 92, 17-06-82, Niterói, Paris St-Germain
+34, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Manchester C
+35, Davide Di Molfetta, ITA, F, 1.76, 70, 23-06-96, Sesto San Giovanni, None
+36, Alessandro Mastalli, ITA, M, 1.75, 75, 07-02-96, Milan, None
+37, Gianfilippo Felicioli, ITA, M, 1.78, 70, 30-09-97, San Severino Marche, None
+38, Sebastián Gamarra, BOL, M, 1.78, 68, 15-01-97, Tarija, Brescia
+39, Mario Piccinocchi, ITA, M, 1.72, 66, 21-02-95, Milan, None
+42, Andrej Modić, BIH, M, 1.80, 70, 07-03-96, Banja Luka, None
+66, Stefano Gori, ITA, G, 1.86, 75, 09-03-96, Brescia, Brescia
+73, Manuel Locatelli, ITA, M, 1.85, 75, 08-01-98, Lecco, None
+81, Cristian Zaccardo, ITA, D, 1.84, 77, 21-12-81, Formigine, Parma
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Genoa
+96, Davide Calabria, ITA, D, 1.76, 70, 06-12-96, Brescia, None
+97, Ivan De Santis, ITA, D, 1.84, 80, 21-05-97, Conversano, None
+98, Hachim Mastour, ITA, F, 1.75, 63, 15-06-98, Reggio Emilia, Reggiana
+99, Gianluigi Donnarumma, ITA, G, 1.96, 90, 25-02-99, Castellammare di Stabia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Bryan Cristante, ITA, M, 1.86, 78, 03-03-95, San Vito al Tagliamento, Benfica
+59, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Carpi (On Loan)
+9, Fernando Torres, ESP, F, 1.86, 78, 20-03-84, Madrid, Atlético Madrid (On Loan)
+8, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Empoli (On Loan)
+19, Mbaye Niang, FRA, F, 1.84, 74, 19-12-94, Meulan-en-Yvelines, Genoa (On Loan)
+27, Pablo Armero, COL, D, 1.74, 81, 02-11-86, Tumaco, Udinese

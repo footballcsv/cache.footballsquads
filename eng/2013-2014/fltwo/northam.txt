@@ -1,0 +1,57 @@
+=  Northampton Town - English Football League Two 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthew Duke, ENG, G, 1.96, 84, 16-07-77, Sheffield, Bradford C
+2, Leon McSweeney, IRL, M, 1.85, 71, 19-02-83, Cork, Carlisle U
+3, Joe Widdowson, ENG, D, 1.83, 76, 29-03-89, Forest Gate, Rochdale
+4, Darren Carter, ENG, M, 1.88, 78, 18-12-83, Solihull, Cheltenham T
+5, Kelvin Langmead, ENG, D, 1.85, 88, 23-03-85, Coventry, Peterborough U
+6, Lee Collins, ENG, D, 1.80, 78, 28-09-88, Telford, Barnsley
+7, Emile Sinclair, ENG, F, 1.83, 72, 29-12-87, Leeds, Crawley T
+8, Ian Morris, IRL, M, 1.83, 71, 27-02-87, Dublin, Torquay U
+9, John Marquis, ENG, F, 1.85, 71, 16-05-92, Lewisham, Millwall
+10, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Huddersfield T
+11, Chris Hackett, ENG, M, 1.83, 73, 01-03-83, Oxford, Millwall
+12, Ben Tozer, ENG, D, 1.86, 81, 01-03-90, Plymouth, Newcastle U
+13, Dean Snedker, ENG, G, 1.83, 76, 17-11-94, Northampton, None
+14, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, Walsall
+15, Lewis Hornby, ENG, M, 1.78, 70, 25-04-95, Northampton, None
+16, JJ Hooper, ENG, F, 1.85, 83, 09-10-93, Greenwich, Newcastle U
+17, Gary Deegan, IRL, M, 1.76, 75, 28-09-87, Dublin, Hibernian
+18, Alan Connell, ENG, F, 1.80, 67, 05-02-83, Enfield, Bradford C
+20, David Moyo, ENG, F, 1.83, 69, 17-12-94, Harare, None
+21, Ben McNamara, AUS, G, 1.88, 88, 29-09-88, Newcastle [AUS], Banbury U
+22, Claudio Dias, ENG, M, 1.78, 70, 10-11-94, Milton Keynes, None
+23, Zander Diamond, SCO, D, 1.89, 73, 03-12-85, Alexandria, Burton Alb
+24, Ivan Toney, ENG, F, 1.79, 65, 16-03-96, Northampton, None
+25, Evan Horwood, ENG, D, 1.83, 66, 10-03-86, Hartlepool, Tranmere R
+26, Matty Harriott, IRL, M, 1.83, 81, 23-09-92, Luton, Sheffield U
+27, Mathias Kouo-Doumbé, FRA, D, 1.85, 89, 28-10-79, Drancy, MK Dons
+28, Connor Roberts, ENG, D, , , 30-07-96, Northampton, None
+29, Gregor Robertson, SCO, D, 1.83, 80, 19-01-84, Edinburgh, Crewe Alex
+30, Kashif Siddiqi, PAK, D, 1.75, 70, 25-01-86, Hammersmith, Ventura County Fusion
+31, Ben Heath, ENG, G, , , 21-01-96, , None
+34, Ricky Ravenhill, ENG, M, 1.78, 71, 16-01-81, Doncaster, Bradford C
+35, Brennan Dickenson, ENG, M, 1.84, 80, 26-02-93, Ferndown, Brighton & HA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, David Artell, ENG, D, 1.88, 83, 22-11-80, Rotherham, Wrexham
+32, Kane Ferdinand, IRL, M, 1.85, 86, 07-10-92, Newham, Peterborough U
+25, Jacob Blyth, ENG, F, 1.91, 77, 14-08-92, Nuneaton, Leicester C
+29, Stuart Dallas, NIR, M, 1.83, 81, 19-04-91, Cookstown, Brentford
+33, Luke Norris, ENG, F, 1.85, 85, 03-06-93, Stevenage, Brentford
+39, Izale McLeod, ENG, F, 1.73, 73, 15-10-84, Birmingham, MK Dons
+23, Matt Heath, ENG, D, 1.93, 89, 01-11-81, Leicester, Harrogate T
+9, Clive Platt, ENG, F, 1.93, 83, 27-10-77, Wolverhampton, Bury
+2, Kevin Amankwaah, GHA, D, 1.85, 76, 19-05-82, Kenton, Salisbury C
+18, Paul Reid, ENG, D, 1.88, 74, 18-02-82, Carlisle, 
+29, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Everton
+7, Ishmel Demontagnac, ENG, M, 1.78, 75, 15-06-88, London, 
+23, Sean McGinty, IRL, D, 1.88, 80, 11-08-93, Maidstone, Sheffield U
+32, Matty Blair, ENG, M, 1.78, 74, 30-11-87, Coventry, Fleetwood T
+33, James Hurst, ENG, D, 1.83, 77, 31-01-92, Sutton Coldfield, Crawley T
+10, Roy O'Donovan, IRL, F, 1.69, 64, 10-08-85, Cork, DPMM
+25, Antonio German, ENG, F, 1.78, 78, 26-12-91, Wembley, Gillingham
+19, Danny Emerton, ENG, M, 1.78, 71, 27-09-91, Beverley, North Ferriby U

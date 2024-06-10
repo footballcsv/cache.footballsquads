@@ -1,0 +1,52 @@
+=  Fleetwood Town - English Football League One 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cairns, ENG, G, 1.83, 72, 04-01-93, Doncaster, Rotherham U
+2, Lewis Coyle, ENG, D, 1.73, 67, 15-10-95, Kingston upon Hull, Leeds U
+3, Danny Andrew, ENG, D, 1.80, 73, 23-12-90, Boston, Doncaster R
+4, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton
+6, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, Stoke C
+7, Wes Burns, WAL, F, 1.73, 68, 28-10-95, Cardiff, Bristol C
+8, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, Huddersfield T
+9, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, Sheffield U
+11, Josh Morris, ENG, M, 1.80, 70, 30-09-91, Preston, Scunthorpe U
+12, Glenn Whelan, IRL, M, 1.80, 79, 13-01-84, Dublin, Hearts
+13, Matthew Gilks, SCO, G, 1.85, 81, 04-06-82, Rochdale, Lincoln C
+14, Macauley Southam-Hales, WAL, D, 1.75, 69, 02-02-96, Cardiff, Barry Town U
+15, Paul Coutts, SCO, M, 1.75, 75, 22-07-88, Aberdeen, Sheffield U
+16, Jordan Rossiter, ENG, M, 1.72, 68, 24-03-97, Liverpool, Rangers
+17, Paddy Madden, IRL, F, 1.83, 76, 04-03-90, Dublin, Scunthorpe U
+19, Lewis Gibson, ENG, D, 1.85, 73, 19-07-00, Durham, Everton
+21, Barrie McKay, SCO, M, 1.75, 67, 31-12-94, Paisley, Swansea C
+24, Ísak Þorvaldsson, ISL, M, 1.83, 77, 01-05-01, Mosfellsbær, Norwich C
+25, Dean Marney, ENG, M, 1.83, 72, 31-01-84, Barking, Burnley
+27, Harrison Biggins, ENG, M, 1.83, 79, 15-03-96, Sheffield, Stocksbridge Park Steels
+28, Jack Sowerby, ENG, M, 1.75, 78, 23-03-95, Preston, Squires Gate
+30, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Glentoran
+31, Billy Crellin, ENG, G, 1.85, 60, 30-01-00, Blackpool, None
+32, Harvey Saunders, ENG, F, 1.81, 72, 20-07-97, Wolverhampton, Darlington
+33, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, None
+34, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, None
+35, Ryan Rydel, ENG, D, 1.81, 75, 09-02-01, Oldham, None
+36, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Reading
+39, Dylan Boyle, NIR, M, 1.72, 60, 15-01-02, Belfast, None
+41, Harrison Holgate, ENG, D, 1.86, 70, 01-07-00, Leeds, None
+42, James Cottam, ENG, G, , , 07-09-00, Preston, Preston NE
+43, Carl Johnston, NIR, M, 1.75, 64, 29-05-02, Belfast, Linfield
+44, Cian Hayes, IRL, F, 1.70, 73, 29-06-03, Preston, None
+45, Laurence Smith, ENG, M, 1.81, 72, 19-09-00, Liverpool, Bolton W
+46, Shayden Morris, ENG, F, 1.83, 68, 30-03-02, Newham, Southend U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Gethin Jones, WAL, D, 1.78, 74, 13-10-95, Perth [AUS], Carlisle U
+20, Craig Morgan, WAL, D, 1.87, 88, 16-06-85, St Asaph, 
+23, Ross Wallace, SCO, M, 1.68, 64, 23-05-85, Dundee, St Mirren
+4, Peter Clarke, ENG, D, 1.83, 76, 03-01-82, Southport, Tranmere R
+22, Ashley Hunter, ENG, F, 1.78, 67, 29-09-95, Derby, Salford C (On Loan)
+12, Jimmy Dunne, IRL, D, 1.83, 75, 19-10-97, Drogheda, Burnley
+29, Nathan Sheron, ENG, D, 1.83, 64, 04-10-97, Whiston, Walsall (On Loan)
+5, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Salford C
+10, Conor McAleny, ENG, F, 1.78, 79, 12-08-92, Liverpool, Shrewsbury T (On Loan)
+40, Dan Mooney, WAL, F, 1.81, 74, 03-07-99, Trafford, Altrincham

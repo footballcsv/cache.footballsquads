@@ -1,0 +1,43 @@
+=  Swindon Town - English Football League One 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Phil Smith, ENG, G, 1.85, 83, 14-12-79, Harrow, Crawley T
+2, Jack Smith, ENG, D, 1.80, 72, 14-10-83, Hemel Hempstead, Watford
+3, Jamie Vincent, ENG, D, 1.78, 74, 18-06-75, London, Yeovil T
+4, Michael Timlin, IRL, M, 1.73, 74, 19-03-85, Lambeth, Fulham
+5, Jerel Ifil, ENG, D, 1.85, 81, 27-06-82, Wembley, Watford
+6, Hasney Aljofree, ENG, D, 1.83, 77, 11-07-78, Manchester, Plymouth Arg
+7, Hal Robson-Kanu, ENG, F, 1.70, 74, 21-05-89, Acton, Reading
+8, Craig Easton, SCO, M, 1.78, 71, 26-02-79, Bellshill, Leyton Orient
+9, Barry Corr, IRL, F, 1.91, 79, 02-04-85, County Wicklow, Sheffield W
+10, Jon Paul McGovern, SCO, M, 1.73, 75, 03-10-80, Glasgow, MK Dons
+11, Anthony McNamee, ENG, M, 1.68, 64, 13-07-83, Lambeth, Watford
+12, Petr Brezovan, SVK, G, 1.98, 95, 09-12-79, Bratislava, Brno
+13, Mark Scott, ENG, G, 1.83, 83, 03-01-91, Ash Vale, Aldershot T
+14, Patrick Kanyuka, ENG, D, 1.83, 79, 19-07-87, Kinshasa, QPR
+15, Kevin Amankwaah, GHA, D, 1.85, 76, 19-05-82, Kenton, Swansea C
+16, Kasali Yinka Casal, NGA, M, 1.87, 80, 21-10-87, London, Cambuur Leeuwarden
+17, Lilian Nalis, FRA, M, 1.85, 70, 29-09-71, Nogent sur Marne, Plymouth Arg
+18, Mark Marshall, ENG, M, 1.83, 76, 05-05-87, Manchester [JAM], Eastleigh
+19, Michael Pook, ENG, M, 1.80, 75, 24-06-86, Swindon, None
+20, Billy Paynter, ENG, F, 1.83, 79, 13-07-84, Liverpool, Southend U
+21, Blair Sturrock, SCO, F, 1.83, 70, 25-08-81, Dundee, Rochdale
+22, Hamdi Razak, FRA, F, 1.88, 86, 08-10-85, Paris, Igny
+23, Ben Joyce, ENG, F, 1.63, 68, 09-09-90, Plymouth, Plymouth Arg
+24, Chris Allen, ENG, M, 1.80, 75, 03-01-89, Devizes, None
+25, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Plymouth Arg
+26, Jean-François Lecsinel, HAI, D, 1.88, 78, 02-10-86, Cayenne, Guingamp
+27, Tom Evans, WAL, D, 1.85, 76, 20-06-90, , None
+28, Jake Hyde, ENG, F, 1.85, 78, 01-07-90, Slough, None
+29, Sam Morris, ENG, M, , , 17-12-89, Swindon, None
+30, Callum Kennedy, ENG, D, 1.85, 81, 09-11-89, Chertsey, None
+31, Simon Cox, IRL, F, 1.80, 70, 28-04-87, Reading, Reading
+32, Lee Peacock, SCO, F, 1.83, 80, 09-10-76, Paisley, Sheffield W
+33, Gordon Greer, SCO, D, 1.88, 83, 14-12-80, Glasgow, Doncaster R
+34, Owain Tudur-Jones, WAL, M, 1.88, 76, 15-10-84, Bangor, Swansea C
+35, Lloyd Macklin, ENG, M, 1.75, 78, 02-08-91, Camberley, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Christian Roberts, WAL, F, 1.80, 80, 22-10-79, Cardiff, Retired

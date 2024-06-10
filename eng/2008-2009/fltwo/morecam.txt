@@ -1,0 +1,36 @@
+=  Morecambe - English Football League Two 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Leek T
+3, Michael Howard, ENG, D, 1.70, 67, 02-12-78, Birkenhead, Swansea C
+4, David Artell, ENG, D, 1.88, 83, 22-11-80, Rotherham, Chester C
+5, Jim Bentley, ENG, D, 1.85, 83, 11-06-76, Liverpool, Telford U
+6, Craig Stanley, ENG, M, 1.73, 67, 03-03-83, Bedworth, Hereford U
+7, Michael Twiss, ENG, F, 1.80, 80, 28-12-77, Salford, Chester C
+8, Garry Hunter, ENG, M, 1.83, 76, 01-01-85, Morecambe, None
+9, Wayne Curtis, ENG, F, 1.83, 76, 06-03-80, Barrow, Holker Old Boys
+10, Rene Howe, ENG, F, 1.83, 90, 22-10-86, Bedford, Peterborough U
+11, Neil Wainwright, ENG, M, 1.83, 76, 04-11-77, Warrington, Darlington
+12, Lewis Edge, ENG, G, 1.85, 81, 12-01-87, Morecambe, Blackpool
+14, Diarmuid O'Carroll, IRL, F, 1.80, 75, 16-03-87, Killarney, Celtic
+15, Fraser McLachlan, ENG, M, 1.80, 79, 09-11-82, Manchester, Mansfield T
+16, Stewart Drummond, ENG, M, 1.88, 81, 11-12-75, Preston, Shrewsbury T
+17, Aaron Taylor, ENG, F, 1.73, 75, 09-03-90, Morecambe, None
+18, Mark Duffy, ENG, M, 1.75, 72, 07-10-85, Liverpool, Southport
+21, Matthew Blinkhorn, ENG, F, 1.83, 68, 02-03-85, Blackpool, Blackpool
+22, Andy Parrish, ENG, D, 1.83, 74, 22-06-88, Bolton, Bury
+23, Henry McStay, NIR, D, 1.83, 71, 06-03-85, Armagh, Royal Antwerp
+24, Matty Bell, ENG, D, , , 09-10-89, Lancaster, None
+25, Danny Adams, ENG, D, 1.73, 87, 03-01-76, Manchester, Huddersfield T
+30, Scott Davies, ENG, G, 1.83, 70, 27-02-87, Blackpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Daniel Smith, ENG, M, 1.78, 67, 07-06-89, Saltash, Plymouth Arg
+26, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, Manchester C
+27, Danny Carlton, ENG, F, 1.80, 78, 22-12-83, Leeds, Carlisle U
+19, Ryan McCann, SCO, M, 1.73, 71, 21-09-81, Bellshill, Queen of the South
+20, Michael Carr, ENG, M, 1.75, 72, 06-12-83, Crewe, Kidderminster H
+18, Paul Lloyd, ENG, M, 1.75, 69, 26-03-87, Preston, Workington

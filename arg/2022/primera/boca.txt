@@ -1,0 +1,59 @@
+=  Boca Juniors - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Estudiantes (LP)
+2, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Aris Limassol
+3, Agustín Sández, ARG, D, 1.79, 72, 16-01-01, Lanús, None
+4, Nicolás Figal, ARG, D, 1.80, 64, 03-04-94, América, Inter Miami
+5, Carlos Zambrano, PER, D, 1.85, 77, 10-07-89, Callao, Dynamo Kyiv
+6, Marcos Rojo, ARG, D, 1.87, 80, 20-03-90, La Plata, Manchester U
+7, Exequiel Zeballos, ARG, F, 1.70, 68, 24-04-02, La Banda, None
+8, Guillermo Fernández, ARG, M, 1.78, 73, 10-11-91, Granadero Baigorria, Cruz Azul
+9, Darío Benedetto, ARG, F, 1.75, 75, 10-01-86, Berazategui, Marseille
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, San Lorenzo
+11, Martín Payero, ARG, M, 1.87, 81, 11-09-98, Pascanas, Middlesbrough
+12, Leandro Brey, ARG, G, 1.91, 89, 21-09-02, Lomas de Zamora, Los Andes
+13, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Racing Club
+14, Esteban Rolón, ARG, M, 1.78, 70, 25-03-95, Posadas, Huracán
+15, Ramiro García, ARG, G, 1.83, 79, 11-12-01, Lanús, None
+16, Aarón Molinas, ARG, M, 1.75, 67, 02-08-00, Lomas del Mirador, None
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, Rayo Vallecano
+18, Frank Fabra, COL, D, 1.72, 72, 22-02-91, Nechí, Independiente Medellín
+19, Valentín Barco, ARG, D, 1.68, 64, 23-07-04, 25 de Mayo, None
+20, Juan Ramírez, ARG, M, 1.74, 68, 25-05-93, Moreno, San Lorenzo
+22, Sebastián Villa, COL, F, 1.78, 65, 19-05-96, Bello, Deportes Tolima
+23, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, Racing Club
+25, Sergio Romero, ARG, G, 1.92, 89, 22-02-87, Bernardo de Irigoyen, Venezia
+27, Nicolás Orsini, ARG, F, 1.70, 65, 12-09-94, Rafaela, Lanús
+28, Gonzalo Morales, ARG, F, 1.88, 75, 03-04-03, Córdoba, None
+29, Norberto Briasco, ARG, F, 1.82, 79, 29-02-96, Capital Federal, Huracán
+30, Juan Pablo Cabaña, ARG, F, 1.84, 77, 28-12-01, Córdoba, None
+31, Brandon Cortés, ARG, F, 1.76, 72, 26-06-01, Barracas, None
+32, Agustin Almendra, ARG, M, 1.82, 75, 11-02-00, San Francisco Solano, None
+33, Alan Varela, ARG, M, 1.77, 73, 04-07-01, Isidro Casanova, None
+34, Pedro Velurtas, ARG, D, 1.81, 76, 28-08-01, Campana, None
+35, Nahuel Génez, ARG, D, 1.73, 66, 18-06-03, Carlos Spegazzini, None
+36, Cristian Medina, ARG, M, 1.78, 70, 01-06-02, Moreno, None
+37, Tomás Díaz, ARG, M, 1.75, 62, 01-05-01, Rosario, Real Madrid
+38, Luis Vázquez, ARG, F, 1.90, 82, 24-04-01, Recreo, Patronato (Paraná)
+39, Gabriel Aranda, ARG, D, 1.90, 82, 16-04-01, Ezeiza, None
+40, Lautaro Di Lollo, ARG, D, 1.89, 86, 10-03-04, San Nicolás, None
+41, Luca Langoni, ARG, F, 1.72, 66, 09-02-02, Capital Federal, None
+42, Matías Olguín, ARG, D, 1.80, 78, 07-03-01, Capital Federal, None
+43, Maximiliano Zalazar, ARG, F, 1.75, 70, 08-03-01, Ezeiza, None
+45, Mauricio Benítez, ARG, M, 1.85, 82, 03-02-04, Florencio Varela, None
+46, Simón Rivero, ARG, M, 1.72, 75, 16-04-03, Malagueño, None
+47, Jabes Saralegui, ARG, M, 1.81, 76, 12-04-03, General Ramírez, None
+57, Marcelo Weigandt, ARG, D, 1.75, 74, 11-01-00, Avellaneda, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Vicente Taborda, ARG, F, 1.75, 71, 14-06-01, Gualeguay, Platense (On Loan)
+35, Gabriel Vega, ARG, M, 1.86, 75, 18-04-02, Gonzáléz Catán, Godoy Cruz (Mendoza) (On Loan)
+10, Eduardo Salvio, ARG, M, 1.73, 76, 13-05-90, Avellaneda, UNAM
+11, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Re-Registered (10)
+31, Cristian Pavón, ARG, F, 1.69, 65, 21-01-96, Córdoba, Atlético Mineiro
+25, Gastón Ávila, ARG, D, 1.82, 80, 30-09-01, Rosario, Royal Antwerp
+24, Carlos Izquierdoz, ARG, D, 1.86, 85, 03-11-88, San Carlos de Bariloche, Sporting Gijón
+21, Jorman Campuzano, COL, M, 1.75, 70, 30-04-96, Tamalameque, Giresunspor (On Loan)

@@ -1,0 +1,37 @@
+=  Betis - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Giménez, ESP, G, 1.82, 77, 30-07-83, Vigo, Alcorcón
+2, Rafa Navarro, ESP, D, 1.73, 61, 23-02-94, Valencina de la Concepción, Betis B
+3, Álex Martínez, ESP, D, 1.76, 64, 12-08-90, Seville, Betis B
+4, Bruno, ESP, D, 1.84, 82, 24-05-90, Las Galletas, Tenerife
+5, Petros, BRA, M, 1.82, 78, 29-05-89, Juazeiro, Corinthians
+7, Rubén Pardo, ESP, M, 1.75, 70, 22-10-92, Logroño, Real Sociedad
+8, Jonas Martin, FRA, M, 1.82, 70, 09-04-90, Besançon, Montpellier
+9, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Roma
+10, Dani Ceballos, ESP, M, 1.76, 65, 07-08-96, Seville, Betis B
+11, Nahuel Leiva, ESP, F, 1.74, 67, 22-10-96, Rosario, Villarreal
+12, Cristiano Piccini, ITA, D, 1.83, 77, 26-09-92, Florence, Fiorentina
+13, Antonio Adán, ESP, G, 1.89, 85, 13-05-87, Madrid, Cagliari
+14, Riza Durmisi, DEN, D, 1.68, 67, 08-01-94, Copenhagen, Brøndby
+15, Ryan Donk, NED, D, 1.92, 80, 30-03-86, Amsterdam, Galatasaray
+16, Álvaro Cejudo, ESP, M, 1.80, 72, 29-01-84, Puente Genil, Osasuna
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, Puerto de Santa Maria, Fiorentina
+18, Roman Zozulya, UKR, F, 1.75, 62, 17-11-89, Kyiv, Dnipro
+19, Álex Alegría, ESP, F, 1.89, 82, 10-10-92, Plasencia, Betis B
+20, Germán Pezzella, ARG, D, 1.86, 81, 27-06-91, Bahía Blanca, River Plate
+21, Alin Toşca, ROU, D, 1.80, 75, 14-03-92, Alexandria, Steaua Bucureşti
+22, Darko Brašanac, SRB, M, 1.78, 73, 12-02-92, Belgrade, Partizan Belgrade
+23, Aïssa Mandi, ALG, D, 1.86, 78, 22-10-91, Châlons-en-Champagne, Reims
+24, Rubén Castro, ESP, F, 1.74, 72, 27-06-81, Las Palmas, Deportivo La Coruña
+25, Manu, ESP, G, 1.82, 75, 29-09-81, Madrid, Zaragoza
+28, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Betis B
+29, David Hinojosa, ESP, M, 1.75, 68, 17-02-96, Arcos de la Frontera, Betis B
+31, Álvaro Valles, ESP, G, 1.90, 78, 25-05-97, La Rinconada, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Charly Musonda, BEL, M, 1.73, 65, 15-10-96, Brussels, Chelsea
+21, Fabián, ESP, M, 1.89, 70, 03-04-96, Los Palacios y Villafranca, Elche (On Loan)
+6, Felipe Gutiérrez, CHI, M, 1.70, 64, 08-10-90, Valparaíso, Internacional (On Loan)

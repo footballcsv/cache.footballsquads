@@ -1,0 +1,54 @@
+=  Avaí - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Vitória
+3, Jéci, BRA, D, 1.84, 77, 22-04-80, Guaratinguetá, Coritiba
+4, Emerson Silva, BRA, D, 1.86, 83, 03-05-83, Taguatinga, Atlético Mineiro
+6, Eltinho, BRA, D, 1.71, 66, 07-07-87, Guaira, Coritiba
+7, Éverton Silva, BRA, M, 1.70, 65, 04-08-88, Rio de Janeiro, Red Bull Brasil
+8, Eduardo Neto, BRA, M, 1.83, 73, 24-10-88, Salvador, Tombense
+9, William Souza, BRA, F, 1.81, 72, 14-05-83, Rolândia, Ceará
+10, Marquinhos, BRA, M, 1.83, 83, 29-09-81, Biguaçu, Grêmio
+11, Anderson Lopes, BRA, F, 1.80, 72, 15-09-93, Recife, Tombense
+13, Philipe Maia, BRA, D, 1.85, 80, 11-07-95, Brasília, None
+14, Jubal, BRA, D, 1.90, 79, 29-08-93, Inhuma, Santos
+15, Adriano, BRA, M, 1.70, 65, 29-05-87, São Vicente, Grêmio
+16, Néstor Camacho, PAR, M, 1.75, 68, 15-10-87, Villa Florida, Libertad
+17, Rômulo, BRA, F, 1.75, 75, 28-04-95, Campo Grande, None
+18, Raphinha, BRA, F, 1.76, 68, 14-02-96, Porto Alegre, None
+19, Toshiya Tōjō, JPN, M, 1.73, 62, 13-10-92, Tokyo, Friburguense
+20, Diego, BRA, G, 1.86, 87, 02-02-82, São Gonçalo, Boavista-RJ
+22, Pablo, BRA, M, 1.76, 66, 03-08-88, São João Nepomuceno, Tombense
+23, Renan Oliveira, BRA, M, 1.82, 72, 29-12-89, Itabira, Atlético Mineiro
+25, Antonio Carlos, BRA, D, 1.91, 74, 07-03-93, Rio de Janeiro, Corinthians
+27, Claudinei, BRA, M, 1.72, 70, 08-10-88, Sete Lagoas, Coimbra
+30, Léo Gamalho, BRA, F, 1.88, 87, 30-01-86, Porto Alegre, Bahia
+31, Roberto, BRA, F, 1.76, 66, 19-12-85, Veranópolis, FC Tokyo
+32, Vagner, BRA, G, 1.91, 82, 24-08-89, Bom Sucesso do Sul, Tombense
+33, Renanzinho, BRA, M, 1.73, 69, 19-09-97, Ariquemes, None
+36, Lucas Lovat, BRA, D, 1.78, 70, 15-01-97, Caxias do Sul, None
+38, Vitor Prada, BRA, G, 1.87, 89, 04-08-92, Nova Trento, None
+49, Aleks, BRA, G, 1.93, 86, 20-02-91, Criciúma, None
+66, Romário Guilherme, BRA, D, 1.71, 71, 13-03-92, Diadema, Red Bull Brasil
+70, Marrone, BRA, D, 1.72, 67, 15-09-92, Ouro Preto do Oeste, None
+77, Tinga, BRA, M, 1.73, 65, 12-10-90, Bom Jardim, Júbilo Iwata
+80, Denner, BRA, M, 1.80, 69, 06-05-94, Fortaleza, Grêmio
+84, Rudnei, BRA, M, 1.88, 78, 07-10-84, Florianópolis, Portuguesa
+89, Juninho, TLS, M, 1.74, 70, 28-05-89, São Paulo, TOT SC
+90, Iury, BRA, F, 1.83, 71, 06-09-95, Rio de Janeiro, None
+93, Tauã, BRA, F, 1.78, 75, 19-12-93, Mongaguá, None
+94, Wilker, BRA, F, , , 04-10-94, Vitória, None
+95, Duda, BRA, G, 1.86, 79, 15-03-95, Florianópolis, None
+97, Kevin, BRA, D, 1.74, 68, 07-09-97, Teresina, Mirassol
+99, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Beijing Guoan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Guilherme, BRA, D, 1.73, 70, 05-02-88, Jequié, Criciúma
+, Eduardo Costa, BRA, M, 1.84, 78, 23-09-82, Florianópolis, Retired
+, Bruno Mendes, BRA, F, 1.84, 76, 02-08-94, Cruzeiro, Deportivo Maldonado
+, Willian Rocha, BRA, D, 1.86, 81, 01-04-89, Jundiaí, Tombense
+, Uelliton, BRA, M, 1.72, 74, 28-08-87, Monte Santo, Cruzeiro
+88, Hugo Cabral, BRA, F, 1.80, 77, 06-09-88, São João de Meriti, Volta Redonda
+91, Conrado, BRA, F, 1.78, 70, 18-07-91, Campinas, Trindade

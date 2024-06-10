@@ -1,0 +1,41 @@
+=  Colo-Colo - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brayan Cortés, CHI, G, 1.86, 77, 11-03-95, Iquique, Deportes Iquique
+2, Jeyson Rojas, CHI, D, 1.85, 73, 23-01-02, Talca, None
+3, Daniel Gutiérrez, CHI, D, 1.76, 70, 16-02-03, Arica, None
+4, Matías Zaldivia, ARG, D, 1.84, 87, 22-01-91, San Isidro, Arsenal [ARG]
+5, Leonardo Gil, ARG, M, 1.76, 68, 31-05-91, Río Gallegos, Al-Ittihad [KSA]
+6, César Fuentes, CHI, M, 1.73, 70, 12-04-93, Rancagua, Universidad Católica
+8, Gabriel Costa, PER, F, 1.71, 70, 02-04-90, San Carlos, Sporting Cristal
+9, Juan Martín Lucero, ARG, F, 1.79, 72, 30-11-91, Mendoza, Tijuana
+10, Marco Rojas, NZL, M, 1.66, 63, 05-11-91, Hamilton [NZL], Melbourne Victory
+11, Marcos Bolados, CHI, F, 1.68, 72, 28-02-96, Antofagasta, Deportes Antofagasta
+12, Omar Carabalí, ECU, G, 1.86, 74, 12-06-97, Guayaquil, None
+13, Bruno Gutiérrez, CHI, D, 1.84, 68, 25-06-02, La Calera, None
+14, Cristian Zavala, CHI, F, 1.74, 68, 03-08-99, Puente Alto, Deportes Melipilla
+15, Emiliano Amor, ARG, D, 1.83, 80, 16-05-95, Capital Federal, Vélez Sarsfield
+16, Óscar Opazo, CHI, D, 1.68, 68, 18-10-90, Concón, Santiago Wanderers
+17, Gabriel Suazo, CHI, D, 1.75, 67, 09-08-97, Santiago, None
+18, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Vélez Sarsfield
+20, Alexander Oroz, CHI, F, 1.68, 59, 15-12-02, San Bernardo, None
+21, Damián Pizarro, CHI, F, 1.87, 75, 28-03-05, Santiago, None
+23, Esteban Pavez, CHI, M, 1.80, 76, 01-05-90, Santiago, Tijuana
+24, Jordhy Thompson, CHI, F, 1.72, 65, 10-08-04, Antofagasta, None
+25, Julio Fierro, CHI, G, 1.83, 84, 09-04-02, Santiago, None
+26, Carlo Villanueva, CHI, M, 1.71, 68, 01-07-99, Santiago, None
+27, Pedro Navarro, CHI, D, 1.75, 61, 30-03-01, Santiago, None
+28, Lucas Soto, CHI, M, 1.73, 62, 24-02-03, Quillota, None
+30, Santiago Bravo, CHI, D, 1.75, 75, 27-02-04, -, None
+32, Luciano Arriagada, CHI, F, 1.84, 73, 30-04-02, Lota, None
+33, Eduardo Villanueva, CHI, G, 1.85, 78, 11-10-04, Melipilla, None
+34, Vicente Pizarro, CHI, M, 1.72, 67, 05-11-02, Vitacura, None
+35, Joan Cruz, CHI, M, 1.69, 69, 04-04-03, Santiago, None
+37, Maximiliano Falcón, URU, D, 1.79, 80, 01-05-97, Paysandú, Rentistas
+38, Dylan Portilla, CHI, M, 1.74, 68, 25-03-04, -, None
+
+== Past Players
+
+Nu/mber, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Christian Santos, VEN, F, 1.84, 70, 24-03-88, Puerto Ordaz, Juve Stabia
+36, Pablo Solari, ARG, F, 1.81, 75, 22-03-01, Villa Mercedes, River Plate

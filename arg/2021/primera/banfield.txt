@@ -1,0 +1,35 @@
+=  Banfield - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Facundo Altamirano, ARG, G, 1.85, 82, 21-03-96, Rojas, None
+2, Alexis Maldonado, ARG, D, 1.88, 86, 02-09-97, La Rioja, None
+3, Franco Quinteros, ARG, D, 1.78, 71, 13-10-98, Rosario, None
+4, Ramiro Di Luciano, ARG, D, 1.62, 55, 21-01-04, Banfield, None
+5, Nicolás Linares, ARG, M, 1.75, 72, 06-03-96, Monte Grande, None
+6, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, River Plate
+7, Mauricio Cuero, COL, M, 1.76, 76, 28-01-93, Tumaco, Atlas
+8, Giuliano Galoppo, ARG, M, 1.80, 74, 18-06-99, Capital Federal, None
+9, Juan Manuel Cruz, ARG, F, 1.84, 71, 19-07-99, Capital Federal, None
+10, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Vitória
+11, Agustín Urzi, ARG, F, 1.68, 64, 04-05-00, Lomas de Zamora, None
+12, Facundo Sanguinetti, ARG, G, 1.84, 71, 01-03-01, Lanús, None
+14, Gonzalo Miceli, ARG, M, 1.75, 73, 18-09-97, Villa Luzuriaga, Nueva Chicago
+15, Lautaro Ríos, ARG, M, 1.80, 74, 09-10-00, Monte Grande, None
+17, Gustavo Canto, ARG, D, 1.83, 83, 25-02-94, Córdoba, Patronato (Paraná)
+18, Ramiro Enrique, ARG, F, 1.71, 68, 04-05-01, Temperley, None
+19, Alexis Sosa, ARG, D, 1.77, 76, 22-07-99, Quilmes, None
+20, Joel Soñora, USA, M, 1.77, 64, 15-09-96, Dallas, Talleres (Córdoba)
+21, Facundo Cambeses, ARG, G, 1.85, 78, 09-04-97, Longchamps, None
+22, Juan Álvarez, ARG, M, 1.66, 62, 10-02-96, Tandil, None
+23, Marcos Fredes, ARG, D, 1.83, 77, 09-12-00, Salto, None
+24, Leonardo Flores, ARG, D, 1.75, 68, 17-05-97, Lanús, Atlanta
+25, Alejandro Cabrera, ARG, M, 1.85, 85, 30-09-92, Los Cóndores, Estudiantes (Río Cuarto)
+26, Gregorio Tanco, ARG, D, 1.81, 74, 10-10-99, Pilar, None
+27, Nicolás Domingo, ARG, M, 1.74, 70, 08-04-85, Totoras, Olimpia [PAR]
+28, Matías González, ARG, M, 1.73, 62, 28-02-02, Tandil, None
+29, Luciano Pons, ARG, F, 1.81, 79, 18-04-90, Rosario, San Martín (Tucumán)
+30, Valentín Barbero, ARG, M, 1.84, 76, 13-07-00, La Carlota, Belgrano (Córdoba)
+31, Julián Eseiza, ARG, M, 1.85, 74, 16-02-02, San Vicente, None
+32, Emanuel Coronel, ARG, D, 1.74, 73, 01-02-97, Concepción, None
+33, Juan Ignacio Rodríguez, ARG, D, 1.66, 62, 21-02-02, Lomas de Zamora, None
+34, Axel Ovejero, ARG, F, 1.74, 71, 11-09-01, Monte Grande, None

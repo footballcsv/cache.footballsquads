@@ -1,0 +1,54 @@
+=  Genoa - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, None
+3, Leonardo Terigi, ITA, D, 1.89, 84, 21-03-91, Lucca, Lucchese
+4, Domenico Criscito, ITA, D, 1.83, 70, 30-12-86, Cercola, Juventus
+7, Marco Rossi, ITA, M, 1.79, 69, 01-04-78, Serravezza, Como
+8, Niccolò Romero, ITA, F, , , 18-03-92, Savigliano, Saluzzo
+10, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Juventus
+11, Rubén Olivera, URU, M, 1.82, 79, 04-05-83, Montevideo, Juventus
+13, Matteo Ferrari, ITA, D, 1.81, 77, 05-12-79, Aflou, Roma
+14, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Juventus
+15, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, AEK
+16, Isaac Cofie, GHA, M, 1.78, 73, 05-04-91, Accra, None
+17, Boško Janković, SRB, M, 1.83, 77, 01-03-84, Belgrade, Palermo
+18, Carlo Polli, SUI, M, 1.69, 64, 07-02-89, Lugano, Lugano
+19, Matteo Paro, ITA, M, 1.79, 71, 17-03-83, Asti, Juventus
+20, Giandomenico Mesto, ITA, M, 1.80, 65, 25-05-82, Modugno, Reggina
+22, Diego Milito, ARG, F, 1.83, 78, 12-06-79, Bernal, Zaragoza
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Reggina
+25, Giuseppe Biava, ITA, D, 1.80, 73, 08-05-77, Seriate, Palermo
+26, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Frosinone
+27, Matteo D'Alessandro, ITA, D, 1.77, 71, 18-05-89, Sondrio, None
+28, Ivan Jurić, CRO, M, 1.74, 67, 25-08-75, Split, Crotone
+31, Stephan El Shaarawy, ITA, M, 1.78, 72, 27-10-92, Savona, None
+32, Matteo Perelli Travaglia, ITA, F, , , 17-05-89, Genoa, Pro Belvedere
+33, Dejan Lazarević, SVN, M, 1.75, 70, 15-02-90, Ljubljana, None
+34, Andrea Signorini, ITA, D, 1.86, 75, 31-01-90, Genoa, None
+35, Selim Ben Djemia, TUN, D, 1.77, 70, 29-01-89, Thiais, None
+39, Stefano Raggio Garibaldi, ITA, G, , , 27-03-89, Chiavari, None
+40, Louise Parfait, CMR, M, 1.76, 72, 06-07-90, Yaoundé, None
+41, Luigi Scotto, ITA, F, , , 18-09-90, Sassari, None
+42, Mattia Ferraro, ITA, M, 1.74, 71, 21-05-90, Genoa, None
+43, Loris Damonte, ITA, M, 1.85, 80, 05-08-90, Savona, None
+44, Alessio Grea, ITA, D, 1.78, 72, 29-05-90, Genoa, None
+45, Nicholas Constantini, ITA, M, , , 31-07-89, Imperia, None
+68, Anthony Vanden Borre, BEL, D, 1.85, 80, 24-10-87, Likasi, Fiorentina
+73, Alessio Scarpi, ITA, G, 1.88, 81, 19-04-73, Jesolo, Internazionale
+77, Omar Milanetto, ITA, M, 1.70, 70, 30-11-75, Venaria, Modena
+83, Rubinho, BRA, G, 1.86, 82, 04-08-82, Guarulhos, Vitória Setúbal
+88, Thiago Motta, BRA, M, 1.88, 77, 28-08-82, São Bernardo do Campo, Atlético Madrid
+90, Mirko Lamantia, ITA, G, 1.90, 80, 01-03-90, Biella, Novara
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Davide Di Gennaro, ITA, F, 1.80, 72, 16-06-88, Milan, Reggina (On Loan)
+30, Stefano Botta, ITA, M, 1.73, 69, 03-11-86, Como, Vicenza (On Loan)
+9, Luciano Figueroa, ARG, F, 1.82, 74, 19-05-81, Rosario, Boca Juniors (On Loan)
+5, Nicolás Domingo, ARG, M, 1.74, 70, 08-04-85, Totoras, River Plate
+29, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Vicenza
+8, Marcel Román, URU, M, 1.75, 69, 07-02-88, Montevideo, Frosinone (On Loan)
+3, Alessandro Potenza, ITA, D, 1.84, 76, 08-03-84, San Severo, Catania
+18, Andrea Gasbarroni, ITA, F, 1.74, 70, 06-08-81, Turin, Torino

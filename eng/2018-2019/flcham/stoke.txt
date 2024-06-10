@@ -1,0 +1,64 @@
+=  Stoke City - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Butland, ENG, G, 1.96, 95, 10-03-93, Bristol, Birmingham C
+2, Moritz Bauer, SUI, D, 1.81, 73, 25-01-92, Veltheim, Rubin Kazan
+4, Joe Allen, WAL, M, 1.70, 62, 14-03-90, Carmarthen, Liverpool
+5, Ashley Williams, WAL, D, 1.83, 77, 23-08-84, Wolverhampton, Everton
+7, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Huddersfield T
+8, Oghenekaro Etebo, NGA, M, 1.76, 70, 09-11-95, Lagos, Feirense
+9, Benik Afobe, ENG, F, 1.83, 78, 12-02-93, Leyton, Wolverhampton W
+10, Sam Vokes, WAL, F, 1.86, 90, 21-10-89, Lymington, Burnley
+11, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, WBA
+12, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, Hull C
+14, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Wolverhampton W
+15, Bruno Martins Indi, NED, D, 1.85, 74, 08-02-92, Barreiro, FC Porto
+16, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Liverpool
+17, Ryan Shawcross, ENG, D, 1.91, 76, 04-10-87, Chester, Manchester U
+18, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, Hannover 96
+19, Saido Berahino, BDI, F, 1.80, 82, 04-08-93, Bujumbura, WBA
+22, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Swansea C
+24, Darren Fletcher, SCO, M, 1.83, 83, 01-02-84, Edinburgh, WBA
+27, Bojan Krkić, ESP, F, 1.70, 65, 28-08-90, Linyola, Barcelona
+29, Jakob Haugaard, DEN, G, 1.97, 87, 01-05-92, Sundby, FC Midtjylland
+30, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, None
+31, Thibaud Verlinden, BEL, M, 1.73, 65, 09-07-99, Bruges, Standard Liège
+32, Adam Federici, AUS, G, 1.88, 90, 31-01-85, Nowra, Bournemouth
+33, Lasse Sørensen, DEN, M, 1.85, 78, 21-10-99, Vejen, Esbjerg
+34, Oliver Shenton, ENG, M, 1.86, 77, 06-11-97, Stoke-on-Trent, None
+37, Nathan Collins, IRL, D, 1.96, 89, 30-04-01, Leixlip, Cherry Orchard
+38, Ryan Woods, ENG, M, 1.73, 64, 13-12-93, Norton Canes, Brentford
+39, Dániel Gyollai, HUN, G, 1.93, 91, 07-04-97, Békéscsaba, Honvéd
+40, Moussa Niakaté, FRA, D, , , , , Paris FC
+42, Gabriel Kyeremateng, GER, F, 1.83, 80, 28-04-99, Dortmund, Borussia Dortmund
+43, Máté Deczki, HUN, G, , , 05-05-00, Debrecen, Debrecen
+44, Dan Jarvis, ENG, M, 1.71, 73, 03-04-98, Huntingdon, None
+46, Josef Bursik, ENG, G, 1.87, 70, 12-07-00, Lambeth, AFC Wimbledon
+47, Will Forrester, ENG, D, 1.83, 74, 29-06-01, Stoke-on-Trent, None
+48, Simranjit Thandi, ENG, D, , , 11-10-99, Leicester, Leicester C
+49, Jake Dunwoody, NIR, M, , , 28-09-98, Glossop, None
+50, Tre Pemberton, ENG, M, , , 03-01-99, Manchester, Blackburn R
+51, James Butler, ENG, D, , , 11-02-00, Crewe, None
+52, James Jennings, IRL, F, , , 22-09-00, , None
+53, Scott Wara, FIJ, D, , , 22-09-99, Lautoka, None
+54, Ethan Stanton, ENG, M, , , 09-02-01, , None
+55, Abdoulaye Toure, FRA, F, , , 14-10-00, Clamart, Le Havre
+56, Jacob Twyford, ENG, M, , , 02-10-99, Stoke-on-Trent, Port Vale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Ryan Sweeney, IRL, D, 1.93, 87, 15-04-97, Kingston upon Thames, Mansfield T
+6, Badou Ndiaye, SEN, M, 1.79, 74, 27-10-90, Dakar, Galatasaray (On Loan)
+28, Julien Ngoy, BEL, F, 1.85, 64, 02-11-97, Antwerp, Grasshoppers (On Loan)
+21, Giannelli Imbula, CGO, M, 1.83, 77, 12-09-92, Vilvoorde, Rayo Vallecano (On Loan)
+10, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Paris St-Germain
+20, Geoff Cameron, USA, D, 1.90, 84, 11-07-85, Attleboro, QPR (On Loan)
+41, Mark Waddington, ENG, M, 1.83, 66, 11-10-96, Wigan, Falkirk (On Loan)
+14, Ibrahim Afellay, NED, M, 1.81, 68, 02-04-86, Utrecht, 
+36, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, Fleetwood T (On Loan)
+3, Erik Pieters, NED, D, 1.83, 83, 07-08-88, Tiel, Amiens (On Loan)
+23, Cuco Martina, CUW, D, 1.85, 77, 25-09-89, Rotterdam, Everton
+25, Peter Crouch, ENG, F, 2.01, 75, 30-01-81, Macclesfield, Burnley
+26, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Shrewsbury T (On Loan)
+45, Krisztofer Szerető, HUN, M, 1.77, 66, 10-01-00, Budapest, Ferencváros

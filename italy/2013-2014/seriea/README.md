@@ -1,0 +1,23 @@
+# Italian Serie A 2013/14
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Catania](catania.txt)
+- [Chievo Verona](cverona.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Livorno](livorno.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Parma](parma.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Sassuolo](sassuolo.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)

@@ -1,0 +1,55 @@
+=  Oldham Athletic - English Football League One 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dean Brill, ENG, G, 1.88, 78, 10-02-85, Luton, Luton T
+2, Hasney Aljofree, ENG, D, 1.83, 77, 11-07-78, Manchester, Swindon T
+3, Joe Jacobson, WAL, D, 1.80, 79, 17-11-86, Cardiff, Bristol R
+4, Jonathan Worthington, ENG, M, 1.73, 77, 16-04-83, Dewsbury, Huddersfield T
+5, Andrew Holdsworth, ENG, D, 1.75, 74, 29-01-84, Pontefract, Huddersfield T
+6, Reuben Hazell, ENG, D, 1.80, 75, 24-04-79, Birmingham, Chesterfield
+7, Danny Whittaker, ENG, M, 1.78, 70, 14-11-80, Manchester, Port Vale
+8, Deane Smalley, ENG, F, 1.83, 74, 05-09-88, Chadderton, None
+9, Paweł Abbott, POL, F, 1.87, 87, 05-05-82, York, Darlington
+10, Rob Purdie, ENG, M, 1.73, 71, 28-09-82, Wigston, Darlington
+11, Lewis Guy, ENG, F, 1.78, 67, 27-08-85, Penrith, Doncaster R
+12, Kelvin Lomax, ENG, D, 1.80, 78, 12-11-86, Bury, None
+13, Greg Fleming, SCO, G, 1.80, 67, 27-09-86, Dunfermline, Gretna
+14, Dean Furman, RSA, M, 1.83, 74, 22-06-88, Cape Town, Rangers
+15, Lewis Alessandra, ENG, F, 1.75, 73, 08-02-89, Oldham, None
+16, Sean Gregan, ENG, M, 1.88, 89, 29-03-74, Stockton, Leeds U
+17, Keigan Parker, SCO, F, 1.70, 66, 08-06-82, Livingston, Huddersfield T
+18, Chris Taylor, ENG, M, 1.83, 73, 20-12-86, Oldham, None
+19, Kieran Lee, ENG, D, 1.85, 76, 22-06-88, Tameside, Manchester U
+20, Dale Stephens, ENG, M, 1.69, 71, 12-06-89, Bolton, Bury
+21, Paul Black, ENG, D, 1.83, 81, 18-05-90, Middleton, None
+22, Ryan Brooke, ENG, F, 1.85, 73, 04-10-90, Crewe, None
+23, Josh Ollerenshaw, ENG, G, 1.96, 81, 05-10-90, Manchester, None
+24, Liam Dawson, ENG, D, , , 12-01-91, , None
+25, Chris Rowney, ENG, M, 1.68, 64, 14-02-91, Oldham, None
+26, Alex Marrow, ENG, M, 1.85, 83, 21-01-90, Salford, Blackburn R
+27, Kirk Millar, NIR, F, 1.75, 68, 07-07-92, Belfast, Linfield
+28, Joe Colbeck, ENG, M, 1.80, 69, 29-11-86, Bradford, Bradford C
+29, Djeny Bembo-Leta, COD, F, 1.83, 73, 09-11-91, Kinshasa, None
+30, Daniel Nardiello, WAL, F, 1.80, 72, 22-10-82, Coventry, Bury
+32, Philip McGrath, NIR, M, 1.75, 64, 07-04-92, Belfast, Glenavon
+33, Jim Goodwin, IRL, M, 1.75, 77, 20-11-81, Waterford, Huddersfield T
+36, Michael McKerr, NIR, D, , , 23-02-90, Lurgan, Birmingham C
+37, Darryl Flahavan, ENG, G, 1.80, 79, 28-11-78, Southampton, Crystal Palace
+38, Tom Eaves, ENG, F, 1.90, 86, 14-02-92, Liverpool, Crewe Alex
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Chris O'Grady, ENG, F, 1.91, 78, 25-01-86, Nottingham, Rochdale
+29, Darren Byfield, JAM, F, 1.80, 75, 29-09-76, Sutton Coldfield, Walsall
+27, Peter Gilbert, WAL, D, 1.80, 82, 31-07-83, Sunderland, Northampton T
+28, Przemyslaw Kazimierczak, POL, G, 1.91, 77, 22-02-88, Łódź, 
+33, Alan Sheehan, IRL, D, 1.80, 71, 14-09-86, Galway, Leeds U
+2, Lee Hills, ENG, D, 1.79, 75, 13-04-90, Croydon, Crystal Palace
+33, Paul Heffernan, IRL, F, 1.78, 70, 29-12-81, Dublin, Doncaster R
+30, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Blackburn R
+2, Krisztián Tímár, HUN, D, 1.90, 86, 04-10-79, Budapest, Plymouth Arg
+31, Dávid Kálnoki Kis, HUN, D, 1.88, 76, 06-08-91, Budapest, MTK
+34, Patrick Tischler, HUN, F, 1.86, 77, 30-07-91, Budapest, MTK
+35, Norbert Csiki, HUN, F, 1.83, 74, 21-05-91, Budapest, MTK
+11, Jason Price, WAL, F, 1.88, 72, 12-04-77, Aberdare, Millwall

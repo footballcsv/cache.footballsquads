@@ -1,0 +1,42 @@
+=  Elche - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel San Román, ESP, G, 1.89, 81, 14-07-97, Benidorm, Atlético Madrid B
+2, Tekio, ESP, D, 1.75, 72, 30-07-90, Molina de Segura, UCAM Murcia
+3, Andoni López, ESP, D, 1.87, 73, 05-04-96, Barakaldo, Athletic Bilbao B
+4, Ramón Folch, ESP, M, 1.82, 78, 04-10-89, Cambrils, Oviedo
+5, Gonzalo Verdú, ESP, D, 1.85, 80, 21-10-88, Cartagena, Cartagena
+6, Manuel, ESP, M, 1.85, 78, 13-09-88, Córdoba, UCAM Murcia
+7, Nino, ESP, F, 1.69, 68, 10-06-80, Almería, Osasuna
+8, Víctor Rodríguez, ESP, M, 1.70, 70, 23-07-89, Barcelona, Seattle Sounders
+10, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Albacete
+11, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Eibar
+12, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Numancia
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Reus
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Las Palmas
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+19, Claudio Medina, ESP, F, 1.86, 83, 04-09-93, León, Sporting Gijón B
+20, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Huesca
+21, Omenuke Mfulu, COD, M, 1.82, 69, 20-03-94, Poissy, Red Star
+22, Jonathas, BRA, F, 1.91, 83, 06-03-89, Betim, Hannover 96
+23, Juan Cruz, ESP, D, 1.80, 79, 28-07-92, Madrid, Rayo Majadahonda
+24, Josema, ESP, D, 1.82, 81, 06-06-96, Lorquí, Extremadura
+26, Alberto Rubio, ESP, M, 1.77, 66, 26-02-97, Elche, Elche B
+27, Óscar Gil, ESP, D, 1.73, 70, 26-04-98, Elche, Elche B
+28, Luis Castillo, ESP, G, , , 31-01-00, Catral, Elche B
+29, Nacho Ramón, ESP, F, , , 30-03-99, Elche, Elche B
+30, César, ESP, M, 1.83, 71, 23-04-01, Cartagena, Elche B
+31, Adrián Molina, ESP, F, , , 30-11-96, , Elche B
+32, Mourad Daoudi, MAR, F, 1.90, 85, 27-05-98, Balsapintada, Orihuela
+35, Nacho Pastor, ESP, D, 1.86, 80, 03-04-03, Elche, Elche B
+37, Jony Álamo, ESP, M, 1.75, 65, 25-09-01, La Unión, Elche B
+38, Gerard Barri, ESP, D, , , 02-01-01, , Espanyol B
+40, Diego Bri, ESP, F, , , 12-09-02, Elche, Elche B
+45, Lluis Andreu, ESP, G, 1.89, 77, 27-07-99, Barcelona, Zamora
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Danilo Ortíz, PAR, D, 1.88, 86, 28-07-92, Limpio, Godoy Cruz (Mendoza)
+8, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Roma
+9, Yacine Qasmi, MAR, F, 1.83, 80, 03-01-91, Pontoise, Rayo Vallecano

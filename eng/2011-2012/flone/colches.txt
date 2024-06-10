@@ -1,0 +1,40 @@
+=  Colchester United - English Football League One 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Williams, ENG, G, 1.83, 83, 27-08-82, Manchester, Carlisle U
+2, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Watford
+3, Michael Rose, ENG, D, 1.80, 78, 28-07-82, Salford, Swindon T
+4, Magnus Okuonghae, NGA, D, 1.91, 84, 16-02-86, Croydon, Dagenham & Redbridge
+6, Matt Heath, ENG, D, 1.93, 89, 01-11-81, Leicester, Leeds U
+7, Ashley Vincent, ENG, F, 1.83, 73, 26-05-85, Birmingham, Cheltenham T
+8, John-Joe O'Toole, IRL, M, 1.88, 86, 30-09-88, Harrow, Watford
+9, Steven Gillespie, ENG, F, 1.75, 71, 04-06-85, Liverpool, Cheltenham T
+10, Kemal Izzet, ENG, M, 1.73, 66, 29-09-80, Whitechapel, Charlton Ath
+11, Freddie Sears, ENG, F, 1.70, 75, 27-11-89, Hornchurch, West Ham U
+12, Mark Cousins, ENG, G, 1.85, 71, 09-01-87, Chelmsford, None
+14, Andrew Bond, ENG, M, 1.78, 73, 16-03-86, Wigan, Barrow
+15, Kayode Odejayi, NGA, F, 1.91, 76, 21-02-82, Ibadon, Barnsley
+16, Ian Henderson, ENG, F, 1.78, 70, 24-01-85, Thetford, Ankaragücü
+17, Martin Rowlands, IRL, M, 1.75, 68, 08-02-79, Hammersmith, QPR
+18, Tom Eastman, ENG, D, 1.90, 88, 21-10-91, Colchester, Ipswich T
+19, Freddie Ladapo, NGA, F, 1.83, 79, 01-02-93, Romford, None
+20, Brian Wilson, ENG, M, 1.78, 71, 09-05-83, Manchester, Bristol C
+22, Anthony Wordsworth, ENG, M, 1.85, 76, 03-01-89, Camden, None
+23, Lloyd James, WAL, M, 1.81, 70, 16-02-88, Bristol, Southampton
+24, Ben Coker, ENG, D, 1.80, 74, 17-06-89, Hatfield, Bury T
+25, John White, ENG, D, 1.83, 70, 26-07-86, Colchester, None
+27, Karl Duguid, ENG, M, 1.80, 73, 21-03-78, Hitchin, Plymouth Arg
+30, Craig Arnott, ENG, F, 1.70, 61, 09-09-92, Edgware, Norwich C
+31, Bradley Hamilton, ENG, D, 1.80, 77, 30-08-92, Newham, None
+32, Jordan Sanderson, ENG, M, 1.85, 77, 07-08-93, Waltham Forest, None
+34, Tom Bender, WAL, D, 1.91, 76, 19-01-93, Harlow, None
+35, Carl Pentney, ENG, G, 1.83, 76, 29-10-89, Colchester, Leicester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, London, Reading
+19, Casey Thomas, WAL, M, 1.75, 68, 14-11-90, Port Talbot, Swansea C
+5, Pat Baldwin, ENG, D, 1.83, 80, 12-11-82, London, Southend U
+19, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Watford
+21, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Watford

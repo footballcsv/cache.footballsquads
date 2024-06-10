@@ -1,0 +1,43 @@
+=  Rayo Vallecano - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paulo Gazzaniga, ARG, G, 1.96, 90, 02-01-92, Murphy, Southampton
+2, Ernesto Galán, ESP, D, 1.81, 79, 17-06-86, Madrid, Mirandés
+3, Nacho Martínez, ESP, D, 1.75, 76, 07-03-89, Madrid, Getafe B
+4, Antonio Amaya, ESP, D, 1.92, 86, 31-05-83, Madrid, Betis
+5, José Antonio Dorado, ESP, D, 1.80, 69, 10-07-82, Córdoba, Villarreal
+6, Álex Moreno, ESP, M, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Mallorca B
+7, Miku, VEN, F, 1.85, 80, 19-08-85, Caracas, Al-Gharafa
+8, Raúl Baena, ESP, M, 1.79, 73, 02-03-89, Torrox, Espanyol
+9, Manucho, ANG, F, 1.88, 83, 07-03-83, Luanda, Valladolid
+10, Roberto Trashorras, ESP, M, 1.79, 71, 28-02-81, Rabade, Celta Vigo
+11, Adri Embarba, ESP, M, 1.73, 66, 07-05-92, Madrid, Rayo B
+13, Toño, ESP, G, 1.82, 81, 17-12-79, Alicante, Elche
+14, Pablo Íñiguez, ESP, D, 1.83, 72, 20-01-94, Burgos, Villarreal B
+15, Răzvan Raţ, ROU, D, 1.78, 72, 26-05-81, Slatina, PAOK
+16, Franco Cristaldo, ARG, M, 1.70, 70, 15-08-96, Capital Federal, Boca Juniors
+17, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, Real Madrid B
+18, Zé Castro, POR, D, 1.83, 76, 13-01-83, Coimbra, Deportivo La Coruña
+19, Alhassane Bangoura, GUI, M, 1.74, 71, 30-03-92, Conakry, Rayo B
+20, Patrick Ebert, GER, M, 1.72, 68, 17-03-87, Potsdam, Spartak Moscow
+21, Jordi Gómez, ESP, M, 1.78, 74, 24-05-85, Barcelona, Wigan Ath
+22, Diego Aguirre, ESP, D, 1.70, 65, 17-10-90, Toledo, Toledo
+23, Toni, ESP, M, 1.76, 74, 04-04-90, La Coruña, Leganés
+24, Javi Guerra, ESP, F, 1.81, 78, 15-03-83, Vélez, Cardiff C
+25, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Middlesbrough
+26, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo B
+27, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+28, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Rayo B
+29, Fran Beltrán, ESP, M, 1.70, 64, 03-02-99, Madrid, Rayo B
+30, Lucho García, COL, G, 1.83, 75, 20-03-98, Barranquilla, Rayo B
+31, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Rayo B
+32, Kike Pérez, ESP, M, 1.84, 80, 14-02-97, Gálvez, Rayo B
+33, Juancho, ESP, F, , , 24-01-96, , Rayo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Piti, ESP, M, 1.74, 69, 26-05-81, Barcelona, AEL Limassol
+25, Bruno Zuculini, ARG, M, 1.78, 72, 02-04-93, Escobar, Manchester C
+21, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Re-Registered (25)
+12, Johan Mojica, COL, D, 1.79, 66, 21-08-92, Cali, Girona (On Loan)

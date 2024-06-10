@@ -1,0 +1,41 @@
+=  Benevento - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lorenzo Montipò, ITA, G, 1.91, 82, 20-02-96, Novara, Novara
+2, Francesco Rillo, ITA, D, 1.77, 72, 23-05-00, Benevento, None
+3, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Carpi
+4, Lorenzo Del Pinto, ITA, M, 1.80, 78, 17-06-90, L'Aquila, L'Aquila
+5, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, Werder Bremen
+6, Siriky Sanogo, CIV, M, 1.80, 72, 21-12-01, Bingerville, None
+7, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Foggia
+8, Andrés Tello, COL, M, 1.81, 80, 06-09-96, Medellín, Juventus
+9, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Salernitana
+10, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Oppido Mamertina, Novara
+11, Christian Maggio, ITA, D, 1.84, 79, 11-02-82, Montecchio Maggiore, Napoli
+12, Nicolò Manfredini, ITA, G, 1.90, 80, 20-05-88, Ferrara, Spezia
+13, Alessandro Tuia, ITA, D, 1.84, 74, 08-06-90, Civita Castellana, Salernitana
+14, Massimo Volta, ITA, D, 1.87, 70, 14-05-87, Desenzano del Garda, Perugia
+15, Christian Pastina, ITA, D, 1.85, 78, 15-02-01, Battipaglia, Avellino
+16, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Naples, Genoa
+17, Abdallah Basit, GHA, M, 1.83, 76, 15-10-99, Accra, Arezzo
+18, Bright Gyamfi, GHA, D, 1.78, 75, 20-01-96, Accra, Internazionale
+19, Roberto Insigne, ITA, F, 1.71, 65, 11-05-94, Naples, Napoli
+20, Giuseppe Di Serio, ITA, F, 1.74, 68, 20-07-01, Trento, Hellas Taranto
+21, Perparim Hetemaj, FIN, M, 1.75, 74, 12-12-86, Skenderaj, Chievo Verona
+22, Pier Graziano Gori, ITA, G, 1.89, 83, 10-05-80, Taranto, Venezia
+23, Luca Antei, ITA, D, 1.84, 75, 19-04-92, Rome, Sassuolo
+24, Marco Moccia, ITA, D, 1.77, 62, 26-04-03, Campobasso, None
+25, Marco Sau, ITA, F, 1.69, 65, 03-11-87, Sorgono, Sampdoria
+27, Dejan Vokič, SVN, M, 1.90, 80, 12-06-96, Ljubljana, Zagłębie Sosnowiec
+28, Pasquale Schiattarella, ITA, M, 1.76, 73, 30-05-87, Mugnano di Napoli, SPAL
+32, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, SPAL
+35, Federico Barba, ITA, D, 1.85, 77, 01-09-93, Rome, Chievo Verona
+36, Davide Gentile, ITA, D, 1.91, , 19-12-03, Naples, None
+37, Vincenzo Alfieri, ITA, M, 1.76, 61, 04-11-02, Avellino, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Reggio Audace
+21, Cy Goddard, JPN, M, 1.66, 66, 02-04-97, Chelsea, Pafos (On Loan)
+33, Samuel Armenteros, SWE, F, 1.79, 80, 27-05-90, Masthugget, Crotone (On Loan)

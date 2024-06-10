@@ -1,0 +1,51 @@
+=  Cesena - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Antonioli, ITA, G, 1.88, 82, 14-09-69, Monza, Bologna
+2, Guillermo Rodríguez, URU, D, 1.84, 80, 21-03-84, Montevideo, Peñarol
+3, Aleksejs Giļničs, LVA, D, 1.85, 79, 29-05-93, Riga, Athletic FC
+5, Roberto Guana, ITA, M, 1.78, 72, 21-01-81, Brescia, Palermo
+6, Maurizio Lauro, ITA, D, 1.80, 73, 12-03-81, Ischia, Ascoli
+7, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Napoli
+9, Vincenzo Iaquinta, ITA, F, 1.91, 84, 21-11-79, Cutro, Juventus
+10, Adrian Mutu, ROU, F, 1.80, 74, 08-01-79, Călineşti, Fiorentina
+11, Vincenzo Rennella, ITA, F, 1.88, 78, 08-10-88, Saint Paul, Genoa
+13, Marco Rossi, ITA, D, 1.88, 78, 30-09-87, Parma, Parma
+14, Giuseppe Colucci, ITA, M, 1.80, 73, 24-08-80, Foggia, Chievo Verona
+15, Raphael Martinho, BRA, M, 1.83, 73, 22-01-88, Campo Grande, Catania
+16, Gianluca Comotto, ITA, D, 1.81, 77, 16-10-78, Ivrea, Fiorentina
+17, Dominique Malonga, FRA, F, 1.83, 80, 08-01-89, Chatenay-Malabry, Torino
+18, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Chievo Verona
+20, Marco Vesi, ITA, D, 1.76, , 11-06-92, Ravenna, None
+22, Tibor Čiča, CRO, M, 1.86, 75, 31-12-93, Malmö, IF Limhamn Bunkeflo
+23, Damjan Djoković, CRO, M, 1.88, 78, 11-09-89, Zagreb, Monza
+24, Tommaso Arrigoni, ITA, M, 1.71, 69, 26-02-94, Cesena, None
+25, Steve von Bergen, SUI, D, 1.81, 76, 10-06-83, Neuchâtel, Hertha Berlin
+27, Alex Calderoni, ITA, G, 1.82, 77, 03-05-76, Ravenna, Atletico Roma
+28, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, St-Etienne
+30, Francesco Urso, ITA, M, 1.75, 73, 09-06-94, Fano, None
+31, Simone Del Nero, ITA, F, 1.87, 76, 04-08-81, Ortonovo, Lazio
+32, Abdul Yabré, BFA, M, 1.80, 72, 03-04-95, Forlì, None
+33, Daniel Pudil, CZE, M, 1.85, 76, 27-09-85, Prague, Granada
+42, Leonardo Arrigoni, ITA, D, 1.83, 75, 21-02-93, Cesena, None
+45, Nicolò Lolli, ITA, F, 1.78, 68, 11-10-94, Forlì, None
+55, Jorge Martínez, URU, F, 1.78, 80, 05-04-83, Montevideo, Juventus
+69, Alessandro Saporetti, ITA, M, , , 23-01-94, Forlì, None
+71, Ştefan Popescu, ROU, D, 1.80, 75, 05-05-93, Iaşi, Roma
+77, Luca Ceccarelli, ITA, M, 1.83, 70, 24-03-83, Gambettola, Verona
+81, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larisa, Swansea C
+88, Nicola Ravaglia, ITA, G, 1.84, 75, 12-12-88, Forlì, Viareggio
+92, Alessandro Tonti, ITA, G, 1.87, 84, 28-05-92, Cattolica, Real Misano
+93, Mattia Filippi, ITA, F, 1.80, 75, 09-05-93, Cesena, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, César Meza Colli, PAR, F, 1.77, 71, 05-10-91, Asunción, Alavés
+4, Luca Ricci, ITA, D, 1.87, 78, 13-03-89, Bibbiena, Spezia (On Loan)
+86, Aldo Simoncini, SMR, G, 1.84, 76, 30-08-86, San Marino, Valenzana (On Loan)
+7, Éder, BRA, F, 1.79, 73, 19-11-86, Lauro Muller, Empoli
+29, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Internazionale
+8, Antonio Candreva, ITA, M, 1.80, 72, 28-02-87, Rome, Udinese
+32, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Bari
+70, Erjon Bogdani, ALB, F, 1.91, 89, 14-04-77, Tirana, Siena

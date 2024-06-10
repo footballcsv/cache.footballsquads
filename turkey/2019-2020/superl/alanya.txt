@@ -1,0 +1,39 @@
+=  Alanyaspor - Turkish Süper Lig 2019/2020
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+6, Ceyhun Gülselam, TUR, M, 1.92, 88, 25-12-87, Munich, Osmanlıspor
+7, Efecan Karaca, TUR, M, 1.66, 56, 16-11-89, Fatih, Kartalspor
+8, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Empoli
+9, Papiss Demba Cissé, SEN, F, 1.83, 73, 03-06-85, Dakar, Shandong Luneng
+10, Junior Fernándes, CHI, F, 1.81, 72, 04-10-88, Tocopilla, Dinamo Zagreb
+11, Anastasios Bakasetas, GRE, F, 1.85, 73, 28-06-93, Corinth, AEK
+12, Cenk Gönen, TUR, G, 1.90, 84, 21-02-88, İzmir, Málaga
+14, Baiano, BRA, D, 1.73, 65, 23-02-87, Correntina, Rayo Vallecano
+17, Kaan Kanak, TUR, D, 1.78, 74, 06-10-90, Sarıkaya, Eskişehirspor
+19, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Kasımpaşa
+21, Fabrice N'Sakala, COD, D, 1.78, 69, 21-07-90, Le Blanc-Mesnil, Anderlecht
+23, Welinton, BRA, D, 1.87, 83, 10-04-89, Rio de Janeiro, Al-Khor
+24, Juanfran Moreno, ESP, D, 1.80, 71, 11-09-88, Madrid, Deportivo La Coruña
+25, Onur Bulut, GER, D, 1.81, 70, 16-04-94, Werdohl, Eintracht Braunschweig
+26, Manolis Siopis, GRE, M, 1.71, 65, 14-05-94, Alexandroupoli, Aris
+27, Umut Güneş, TUR, M, 1.77, 74, 16-03-00, Albstadt, Stuttgart II
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Sporting Braga
+30, Djalma, ANG, M, 1.75, 72, 30-05-87, Luanda, PAOK
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, PAOK
+34, Eray Birniçan, TUR, G, 1.80, 73, 20-07-88, Bakirköy, Kasımpaşa
+35, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Osmanlıspor
+44, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, Dundee
+53, Lokman Gör, TUR, D, 1.87, 85, 15-12-90, Rize, BB Erzurumspor
+77, Emircan Altıntaş, TUR, M, 1.83, 70, 15-07-95, Trabzon, Ümraniyespor
+97, İsmail Ünal, TUR, G, 1.81, 73, 02-12-97, Alanya, None
+99, Yacine Bammou, FRA, F, 1.88, 78, 11-09-91, Paris, Caen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+88, Taha Yalçıner, TUR, M, 1.78, 70, 12-01-87, İstanbul, Akhisar Belediyespor
+2, Isaac Sackey, GHA, M, 1.90, 88, 04-04-94, Berekum, Denizlispor (On Loan)
+20, Hasan Ayaroğlu, TUR, M, 1.72, 70, 22-03-95, Çankırı, BB Erzurumspor (On Loan)
+71, Veysel Ünal, TUR, F, , , 03-07-01, Antalya, Giresunspor (On Loan)
+75, Tayfur Bingöl, TUR, M, 1.84, 81, 11-01-93, Ankara, Bursaspor (On Loan)
+1, Haydar Yılmaz, TUR, G, 1.87, 80, 19-01-84, Aydın, Gaziantep (On Loan)

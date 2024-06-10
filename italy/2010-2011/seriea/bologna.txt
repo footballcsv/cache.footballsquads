@@ -1,0 +1,45 @@
+=  Bologna - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Viviano, ITA, G, 1.95, 88, 01-12-85, Fiesole, Brescia
+2, Juan Cruz, ESP, D, 1.80, 79, 28-07-92, Madrid, Atlético Madrid B
+3, Archimede Morleo, ITA, D, 1.83, 78, 26-06-83, Mesagne, Crotone
+4, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Internazionale
+5, Massimo Mutarelli, ITA, M, 1.78, 74, 13-01-78, Como, Lazio
+6, Miguel Angel Britos, URU, D, 1.88, 82, 17-07-85, Montevideo, Montevideo Wanderers
+7, Francesco Della Rocca, ITA, M, 1.82, 77, 14-09-87, Brindisi, None
+8, György Garics, AUT, M, 1.83, 76, 08-03-84, Szombathely, Atalanta
+9, Marco Di Vaio, ITA, F, 1.80, 76, 15-07-76, Rome, Genoa
+10, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Peñarol
+11, Manuel Gavilán, ESP, F, 1.81, 70, 12-07-91, Mairena del Aljarafe, Betis
+12, Albin Ekdal, SWE, M, 1.86, 75, 28-07-89, Bromma, Juventus
+13, Daniele Portanova, ITA, D, 1.85, 75, 17-12-78, Rome, Siena
+14, Andrea Pisanu, ITA, M, 1.79, 74, 07-01-82, Cagliari, Parma
+15, Diego Pérez, URU, M, 1.77, 81, 18-05-80, Montevideo, Monaco
+16, Andrea Esposito, ITA, D, 1.87, 78, 17-05-86, Galatina, Genoa
+17, Ivan Radovanović, SRB, M, 1.86, 76, 29-08-88, Mitrovica, Atalanta
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larisa, AEK Athens
+19, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Torino
+20, Henry Giménez, URU, F, 1.76, 69, 13-03-86, Durazno, River Plate [URU]
+21, Nicolò Cherubin, ITA, D, 1.88, 83, 02-12-86, Vicenza, Cittadella
+22, Cristiano Lupatelli, ITA, G, 1.89, 86, 21-06-78, Perugia, Cagliari
+23, Riccardo Regno, ITA, D, 1.80, 72, 12-08-92, Bologna, None
+24, Antonio Buscé, ITA, M, 1.80, 73, 12-12-75, Gragnano, Reggina
+25, Nemanja Mitrovič, SVN, D, 1.93, 75, 15-10-92, Ljubljana, Internazionale
+26, Gaby Mudingayi, BEL, M, 1.80, 70, 01-10-81, Kinshasa, Lazio
+28, Jacopo Mantovani, ITA, M, 1.80, 70, 20-03-91, Bologna, None
+29, Nicola Capellini, ITA, M, 1.80, 73, 24-02-91, Ferrara, Cesena
+32, Federico Casarini, ITA, M, 1.81, 72, 07-08-89, Carpi, None
+33, Giacomo Venturi, ITA, G, 1.83, 70, 02-01-92, Faenza, None
+35, Daniele Paponi, ITA, F, 1.79, 66, 16-04-88, Ancona, Parma
+39, Andrea Ingegneri, ITA, D, 1.81, 72, 18-01-92, Lugo, None
+44, Filippo Lombardi, ITA, G, 1.87, 76, 22-04-90, Ancona, Ancona
+69, Riccardo Meggiorini, ITA, F, 1.83, 75, 04-09-85, Isola Della Scala, Genoa
+77, Luca Siligardi, ITA, M, 1.79, 73, 26-01-88, Correggio, Internazionale
+87, Bruno Montelongo, URU, D, 1.82, 72, 12-09-87, Montevideo, River Plate [URU]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+82, Marco Bernacci, ITA, F, 1.93, 72, 15-12-83, Cesena, 
+90, Alessandro Elia, ITA, F, , , 15-02-90, Parma, Andria BAT (On Loan)

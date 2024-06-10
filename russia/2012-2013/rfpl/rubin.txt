@@ -1,0 +1,48 @@
+=  Rubin Kazan - Russian Football Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Lokomotiv Moscow
+2, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Lokomotiv Moscow
+3, Cristian Ansaldi, ARG, D, 1.78, 73, 20-09-86, Rosario, Newell's Old Boys
+4, César Navas, ESP, D, 1.96, 89, 14-02-80, Móstoles, Racing Santander
+6, Pablo Orbaiz, ESP, M, 1.79, 75, 06-02-79, Iruñea, Athletic Bilbao
+8, Aleksandr Ryazantsev, RUS, M, 1.76, 70, 05-09-86, Moscow, FC Moscow
+10, Alan Kasaev, RUS, M, 1.73, 67, 08-04-86, Vladikavkaz, Kuban Krasnodar
+15, Syarhey Kislyak, BLR, M, 1.85, 70, 06-08-87, Kamyanyets, Dinamo Minsk
+19, Vitaliy Kaleshin, RUS, D, 1.73, 67, 03-10-80, Krasnodar, FC Moscow
+20, Alexei Eremenko, FIN, M, 1.83, 84, 24-03-83, Rostov-on-Don, Metalist Kharkiv
+22, Vladimir Dyadyun, RUS, F, 1.80, 71, 12-07-88, Omsk, Rubin-2
+23, Roman Eremenko, FIN, M, 1.80, 67, 19-03-87, Moscow, Dynamo Kyiv
+24, Giedrius Arlauskis, LTU, G, 1.83, 80, 01-12-87, Telšiai, Unirea Urziceni
+25, Iván Marcano, ESP, D, 1.77, 77, 23-06-87, Santander, Villarreal
+31, Aleksey Berezin, RUS, G, 1.90, 82, 16-04-93, Kazan, Rubin-2
+35, Ivan Temnikov, RUS, M, 1.70, 65, 28-01-89, Bratsk, Dynamo Bryansk
+40, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, Rubin-2
+55, Gökhan Töre, TUR, M, 1.76, 74, 20-01-92, Cologne, Hamburg
+61, Gökdeniz Karadeniz, TUR, M, 1.69, 66, 11-01-80, Giresun, Trabzonspor
+62, Solomon Kvirkvelia, GEO, D, 1.90, 75, 06-02-92, Samtredia, Zenit-2
+66, Bibras Natkho, ISR, M, 1.75, 73, 18-02-88, Kfar Kama, Hapoel Tel Aviv
+68, Dimitiy Volkotrub, RUS, G, 1.88, 75, 23-04-92, Moscow, Saturn-2
+69, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Sepahan
+76, Roman Sharonov, RUS, D, 1.84, 76, 08-09-76, Moscow, Shinnik
+87, Ruslan Abishov, AZE, D, 1.87, 74, 10-10-87, Baku, Khazar Lankaran
+88, Alireza Haghighi, IRN, G, 1.93, 80, 02-05-88, Tehran, Persepolis
+90, Yann M'Vila, FRA, M, 1.82, 80, 29-06-90, Amiens, Rennes
+99, José Salomón Rondón, VEN, F, 1.90, 86, 16-09-89, Caracas, Málaga
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Nikita Bocharov, RUS, M, 1.84, 74, 12-06-92, St Petersburg, Neftekhimik Nizhnekamsk (On Loan)
+18, Nelson Haedo Valdez, PAR, F, 1.78, 71, 28-11-83, Caaguazú, Valencia (On Loan)
+5, Obafemi Martins, NGA, F, 1.76, 67, 28-10-84, Lagos, Levante
+7, Petr Bystrov, RUS, M, 1.80, 78, 15-07-79, Nizhny Novgorod, 
+11, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Flamengo (On Loan)
+27, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Spartak Moscow
+89, Aleksandr Orekhov, RUS, D, 1.98, 92, 29-11-83, Kropotkin, 
+29, Iskandar Dzhalilov, RUS, D, 1.80, 72, 01-06-92, Dushanbe, CS Turnu-Severin (On Loan)
+9, Sergey Davydov, RUS, F, 1.88, 76, 22-07-85, Moscow, Dynamo Moscow (On Loan)
+12, Merabi Uridia, RUS, F, 1.75, 67, 07-04-93, Batumi, Neftekhimik Nizhnekamsk (On Loan)
+16, Mihai Plătică, MDA, M, 1.85, 77, 15-03-90, Chişinău, Neftekhimik Nizhnekamsk (On Loan)
+50, Parvizdzhon Umarbaev, RUS, M, 1.68, 62, 01-11-94, Khujand, Neftekhimik Nizhnekamsk (On Loan)
+96, Viktor Kuzmichev, RUS, M, 1.80, 71, 19-03-92, Makhachkala, Krylia Sovetov

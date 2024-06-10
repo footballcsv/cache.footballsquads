@@ -1,0 +1,48 @@
+=  Juventus - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.91, 83, 28-01-78, Carrara, Parma
+3, Giorgio Chiellini, ITA, D, 1.86, 76, 14-08-84, Pisa, Fiorentina
+4, Olof Mellberg, SWE, D, 1.86, 81, 03-09-77, Amnehärad, Aston Villa
+5, Jonathan Zebina, FRA, D, 1.84, 80, 19-07-78, Paris, Roma
+6, Cristiano Zanetti, ITA, M, 1.80, 75, 14-04-77, Carrara, Internazionale
+7, Hasan Salihamidžić, BIH, M, 1.76, 71, 01-01-77, Jablanica, Bayern Munich
+8, Amauri, BRA, F, 1.86, 83, 03-06-80, Carapicuíba, Palermo
+9, Vincenzo Iaquinta, ITA, F, 1.91, 84, 21-11-79, Cutro, Udinese
+10, Alessandro Del Piero, ITA, F, 1.73, 73, 09-11-74, Conegliano, Padova
+11, Pavel Nedvěd, CZE, M, 1.77, 70, 30-08-72, Cheb, Lazio
+12, Antonio Chimenti, ITA, G, 1.84, 83, 30-06-70, Bari, Udinese
+13, Alex Manninger, AUT, G, 1.88, 84, 04-06-77, Salzburg, Siena
+15, Dario Knežević, CRO, D, 1.84, 80, 20-04-82, Rijeka, Livorno
+16, Mauro Camoranesi, ITA, M, 1.74, 70, 04-10-76, Tandil, Verona
+17, David Trézéguet, FRA, F, 1.90, 80, 15-10-77, Rouen, Monaco
+18, Christian Poulsen, DEN, M, 1.82, 76, 28-02-80, Asnaes, Sevilla
+19, Claudio Marchisio, ITA, M, 1.79, 66, 19-01-86, Cercola, None
+20, Sebastian Giovinco, ITA, F, 1.64, 62, 26-01-87, Turin, None
+21, Zdeněk Grygera, CZE, D, 1.85, 78, 14-05-80, Prílepy u Holesova, Ajax
+22, Mohamed Sissoko, MLI, M, 1.87, 81, 22-01-85, Mont Saint Agnain, Liverpool
+27, Albin Ekdal, SWE, M, 1.86, 75, 28-07-89, Bromma, IF Brommapojkarna
+28, Cristian Molinaro, ITA, D, 1.80, 76, 30-07-83, Moio Civitella, Siena
+29, Paolo De Ceglie, ITA, M, 1.84, 75, 17-09-86, Aosta, None
+30, Tiago, POR, M, 1.83, 75, 02-05-81, Viana do Castelo, Lyon
+31, Timothy Nocchi, ITA, G, 1.84, 80, 07-07-90, Cecina, None
+32, Marco Marchionni, ITA, M, 1.75, 66, 22-07-80, Monterotondo, Parma
+33, Nicola Legrottaglie, ITA, D, 1.85, 73, 20-10-76, Gioia Del Colle, Chievo Verona
+35, Simone Esposito, ITA, M, 1.71, 62, 24-05-90, Turin, None
+36, Luca Castiglia, ITA, M, 1.84, 73, 17-03-89, Ceva, None
+37, Marco Duravia, ITA, D, 1.76, 67, 14-10-89, Castelfranco Veneto, None
+38, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, None
+39, Luca Marrone, ITA, M, 1.86, 75, 28-03-90, Turin, None
+40, Fausto Rossi, ITA, M, 1.75, 60, 03-12-90, Turin, None
+41, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, None
+42, Carlo Pinsoglio, ITA, G, 1.92, 72, 16-03-90, Moncalieri, None
+43, Andrea De Paola, ITA, D, 1.83, 79, 02-10-90, Gaeta, Cisco Roma
+44, Giuseppe Giovinco, ITA, M, , , 26-09-90, Turin, None
+45, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Barcelona B
+46, Ciro Immobile, ITA, F, 1.86, 73, 20-02-90, Torre Annunziata, None
+47, Ayub Daud, SOM, F, 1.72, 62, 24-02-90, Mogadishu, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Jorge Andrade, POR, D, 1.84, 73, 09-04-78, Lisbon, 

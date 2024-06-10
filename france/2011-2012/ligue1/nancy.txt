@@ -1,0 +1,43 @@
+=  Nancy - French Ligue 1 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nantes
+2, Helder, BRA, D, 1.75, 70, 13-04-88, Ribeirão Preto, Juventude
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+4, Jordan Lotiès, FRA, D, 1.87, 77, 05-08-84, Clermont-Ferrand, Dijon
+5, André Luiz, BRA, D, 1.85, 84, 27-01-80, São João del Rei, Atlético Mineiro
+6, Thomas Mangani, FRA, D, 1.82, 79, 29-04-87, Carpentras, Monaco
+8, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, Granada
+9, Benjamin Moukandjo, CMR, F, 1.79, 76, 12-11-88, Douala, Monaco
+10, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, None
+11, Djamel Bakar, FRA, M, 1.71, 67, 06-04-89, Marseille, Monaco
+12, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Amiens
+13, Jean Calvé, FRA, D, 1.83, 78, 30-04-84, Cormeilles-en-Parisis, Le Mans
+15, Ziri Hammar, ALG, M, 1.80, 74, 25-07-92, Akbou, None
+16, Damien Gregorini, FRA, G, 1.94, 90, 02-03-79, Nice, Nice
+17, Massadio Haïdara, SEN, D, 1.79, 75, 02-12-92, Trappes, None
+18, Lossemy Karaboué, FRA, F, 1.70, 70, 18-03-88, Paris, Sedan
+19, Jung Jo-Gook, KOR, F, 1.86, 78, 23-04-84, Buan, Auxerre
+20, Daniel Niculae, ROU, F, 1.85, 76, 06-10-82, Bucharest, Monaco
+22, Moustapha Bayal Sall, SEN, D, 1.90, 90, 30-11-85, Dakar, St-Etienne
+25, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, Caen
+26, Salif Sané, FRA, D, 1.94, 78, 25-08-90, Lormont, Bordeaux
+28, Sébastien Puygrenier, FRA, D, 1.86, 88, 28-01-82, Limoges, Zenit St Petersburg
+30, Rémi Pillot, FRA, G, 1.87, 80, 27-07-90, Besançon, None
+33, Junior Joachim, FRA, F, 1.79, 76, 13-05-92, Ulis, None
+40, Paul Nardi, FRA, G, 1.87, 77, 18-05-94, Vesoul, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Marama Vahirua, FRA, F, 1.72, 68, 12-05-80, Papeete, Monaco (On Loan)
+6, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Lens (On Loan)
+15, Youssouf Hadji, MAR, M, 1.83, 78, 25-02-80, Ifrane, Rennes
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, Bursaspor
+14, Paul Alo'o Efoulou, CMR, F, 1.76, 73, 12-11-83, Yaoundé, Le Havre (On Loan)
+8, Fouad Rachid, COM, M, 1.63, 60, 15-11-91, Mayotte, Épinal (On Loan)
+22, Alexandre Cuvillier, FRA, M, 1.82, 69, 17-06-86, Cucq, Lens (On Loan)
+7, Aatif Chahechouhe, FRA, M, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Chernomorets Burgas
+21, Samba Diakité, MLI, M, 1.86, 76, 24-01-89, Montfermeil, QPR (On Loan)
+23, Jonathan Brison, FRA, M, 1.79, 73, 07-02-83, Soissons, St-Etienne
+24, Distel Zola, COD, M, 1.82, 76, 05-02-89, Paris, Le Havre (On Loan)

@@ -1,0 +1,55 @@
+=  Benevento - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Christian Rutjens, ESP, D, , , 05-01-98, Marbella, Rayo Vallecano
+3, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Carpi
+4, Lorenzo Del Pinto, ITA, M, 1.80, 78, 17-06-90, L'Aquila, L'Aquila
+5, Fabio Lucioni, ITA, D, 1.85, 80, 25-09-87, Terni, Reggina
+6, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Zürich, Atalanta
+7, Marco D'Alessandro, ITA, F, 1.73, 66, 17-02-91, Rome, Atalanta
+8, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, Lazio
+11, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, Salernitana
+12, Riccardo Piscitelli, ITA, G, 1.89, 80, 10-10-93, Vimercate, Milan
+14, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Oppido Mamertina, Novara
+16, Alin Toşca, ROU, D, 1.82, 75, 14-03-92, Alexandria, Betis
+18, Bright Gyamfi, GHA, D, 1.78, 75, 20-01-96, Accra, Internazionale
+20, Ledian Memushaj, ALB, M, 1.75, 70, 07-12-86, Vlorë, Pescara
+21, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Empoli
+22, Alberto Brignoli, ITA, G, 1.87, 74, 19-08-91, Trescore Balneario, Juventus
+23, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Montevarchi, Fiorentina
+25, Cheikh Diabaté, MLI, F, 1.94, 84, 25-04-88, Bamako, Osmanlıspor
+26, Vittorio Parigini, ITA, F, 1.80, 73, 25-03-96, Moncalieri, Torino
+29, Jean-Claude Billong, FRA, D, 1.92, 90, 28-12-93, Paris, Maribor
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, Antalyaspor
+31, Filip Djuričić, SRB, M, 1.81, 72, 30-01-92, Obrenovac, Sampdoria
+33, Pietro Iemmello, ITA, F, 1.80, 75, 06-03-92, Catanzaro, Sassuolo
+40, Thomas Candeloro, SUI, G, 1.95, 80, 29-05-00, , Chiasso
+60, Siriky Sanogo, CIV, M, 1.80, 72, 21-12-01, Bingerville, None
+66, Guilherme, BRA, M, 1.74, 70, 21-05-91, Três Rios, Legia Warszawa
+73, Giovanni Volpicelli, ITA, M, 1.75, 69, 24-09-99, Naples, Aversa Normanna
+77, Achraf Lazaar, MAR, D, 1.73, 67, 22-01-92, Casablanca, Newcastle U
+80, Gianluca Volzone, ITA, G, , , 21-07-00, Battipaglia, None
+81, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Sampdoria
+83, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Manchester C
+87, Cristiano Lombardi, ITA, F, 1.80, 70, 19-08-95, Viterbo, Lazio
+88, Luca Antei, ITA, D, 1.84, 75, 19-04-92, Rome, Sassuolo
+91, Luca Sparandeo, ITA, D, 1.80, 73, 18-08-99, Benevento, None
+93, Vincenzo Pinto, ITA, F, , , 31-10-00, Naples, None
+98, Alessio Donnarumma, ITA, M, 1.82, 72, 16-02-98, Vico Equense, Internazionale
+99, Enrico Brignola, ITA, F, 1.65, 73, 08-07-99, Caserta, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Mirko Eramo, ITA, M, 1.84, 75, 12-07-89, Acquaviva delle Fonti, Virtus Entella
+9, Fabio Ceravolo, ITA, F, 1.80, 72, 05-03-87, Locri, Parma (On Loan)
+15, Michele Camporese, ITA, D, 1.86, 75, 19-05-92, Pisa, Foggia (On Loan)
+19, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Bari
+13, Yussif Raman Chibsah, GHA, M, 1.78, 78, 10-03-93, Accra, Frosinone (On Loan)
+95, Andrew Gravillon, FRA, D, 1.88, 75, 08-02-98, Pointe-à-Pitre, Pescara
+10, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Parma (On Loan)
+24, Mamadou Kanouté, SEN, M, 1.74, 70, 07-10-93, Dakar, Pro Vercelli (On Loan)
+32, George Puşcaş, ROU, F, 1.84, 74, 08-04-96, Marghita, Internazionale
+1, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Sampdoria (On Loan)
+17, Gianluca Di Chiara, ITA, D, 1.84, 81, 26-12-93, Palermo, Carpi (On Loan)
+90, Samuel Armenteros, SWE, F, 1.79, 80, 27-05-90, Masthugget, Portland Timbers (On Loan)

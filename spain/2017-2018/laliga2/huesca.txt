@@ -1,0 +1,32 @@
+=  Huesca - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Remiro, ESP, G, 1.91, 80, 24-03-95, Cascante, Athletic Bilbao B
+2, Moi Gómez, ESP, M, 1.74, 65, 23-06-94, Rojales, Sporting Gijón
+3, Jair, POR, D, 1.88, 90, 21-08-89, Lisbon, Levante B
+4, Carlos David, ESP, D, 1.84, 79, 14-06-86, Mérida, Cartagena
+5, Juan Aguilera, ESP, M, 1.85, 76, 13-09-85, Madrid, Mumbai C
+6, Luso, ESP, M, 1.79, 75, 04-12-84, Zaragoza, Córdoba
+7, David Ferreiro, ESP, M, 1.70, 63, 01-04-88, Ourense, Lugo
+8, Gonzalo Melero, ESP, M, 1.83, 77, 02-01-94, Madrid, Ponferradina
+9, Cucho Hernández, COL, F, 1.75, 73, 22-04-99, Pereira, Watford
+10, Juan José Camacho, ESP, M, 1.81, 75, 02-08-80, Valencia, Vecindario
+11, Álex Gallar, ESP, F, 1.76, 71, 19-03-92, Sabadell, Cultural Leonesa
+12, Rulo, ESP, D, 1.68, 65, 24-10-95, Valencia, Linense
+13, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Reus
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Valencia B
+16, Ezequiel Ávila, ARG, M, 1.81, 78, 06-02-94, Rosario, San Lorenzo
+17, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Betis
+18, Kilian Grant, ESP, F, 1.80, 75, 18-05-94, Figueres, Zaragoza B
+19, Alexander González, VEN, M, 1.85, 75, 13-09-92, Caracas, Young Boys
+20, Rajko Brežančić, SRB, D, 1.75, 71, 21-08-89, Belgrade, AZ Alkmaar
+21, Íñigo López, ESP, D, 1.85, 72, 23-07-82, Logroño, Córdoba
+22, Lluís Sastre, ESP, M, 1.75, 71, 26-03-86, Binisalem, Leganés
+23, Ezequiel Rescaldani, ARG, F, 1.91, 83, 11-06-92, San Miguel de Tucumán, Atlético Nacional
+24, Nagore, ESP, D, 1.82, 72, 27-12-80, Madrid, Alcorcón
+25, Ander Bardaji, ESP, G, 1.92, 78, 03-05-95, Lasarte, Real Sociedad
+26, Gabi, ESP, M, 1.75, 70, 10-10-97, Seville, Almudévar
+28, Sergio Sánchez, ESP, F, 1.81, 82, 30-10-95, Ansó, Almudévar
+29, Javito, ESP, M, 1.80, 75, 18-12-98, Huesca, Almudévar
+30, Antonio Valera, ESP, G, 1.87, 80, 17-08-96, Bujalance, Almudévar

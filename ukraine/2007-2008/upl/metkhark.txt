@@ -1,0 +1,66 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2007/08
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andriy Tlumak, G, 6'01", 12 04, 07-03-79, Lviv, Karpaty Lviv
+2, Roman Butenko, M, 5'09", 11 07, 30-03-80, , Titan Donetsk
+3, Yevhen Selin, D, 6'01", 11 11, 09-05-88, Novoaydar, Stal Alchevsk
+4, Vlade Lazarevski, D, 6'01", 12 11, 09-06-83, Kumanovo, Groclin Dyskobolia
+5, Oleksandr Babych, M, 5'10", 11 05, 15-02-79, Alchevsk, Shakhtar Donetsek
+6, Seweryn Gancarczyk, D, 6'00", 11 09, 22-11-81, Zamość, Arsenal Kiev
+7, Serhiy Valyayev, M, 5'11", 11 03, 16-09-78, Makeevka, Kryvbas Kryvyi Rih
+8, Edmar Aparesida, M, 6'00", 11 09, 16-06-80, Mogi das Cruzes, Tavriya Simferopol
+9, Valentyn Slyusar, M, 6'01", 12 11, 15-09-77, Kiev, Zakarpattya Uzhgorod
+10, Aleksandar Trišović, M, 6'00", 11 09, 25-11-83, Lutsk, Crvena Zvezda
+17, Andriy Koval, F, 5'11", 11 00, 06-12-83, Belaya Tserkov, FC Kharkiv
+19, Serhiy Barilko, M, 5'09", 10 10, 05-01-87, Kharkiv, Metalist Kharkiv-2
+20, Anton Postupalenko, M, 5'10", 10 01, 28-08-88, Kharkiv, Metalist Kharkiv-2
+22, Milan Obradović, D, 5'11", 11 07, 03-08-77, Belgrade, Akratitos
+24, Ruslan Fomin, F, 5'11", 11 05, 02-03-86, Donetsk, Shakhtar Donetsk
+25, Oleksandr Rykun, M, 6'01", 12 06, 06-05-78, Dnipropetrovsk, Dnipro Dnipropetrovsk
+26, Vénance Zézé "Zézéto", F, 5'07", 09 13, 17-06-81, Abidjan, Metalurh Donetsk
+27, Pavlo Rebenok, F, 5'11", 10 05, 23-07-85, Ordzhonikidze, Vorskla Poltava
+29, Aleksandr Goryainov, G, 6'02", 12 04, 29-06-75, Kharkiv, Kryvbas Kryvyi Rih
+30, Papa Guye, D, 6'04", 13 03, 07-06-84, Dakar, Volyn Lutsk
+32, Artem Kotevych, M, 5'10", 11 09, 12-05-87, Vrbovsko, Metalist Kharkiv-2
+33, Marko Dević, M, 6'01", 10 06, 27-10-83, Belgrade, Volyn Lutsk
+35, Vladyslav Sereda, F, 5'10", 10 06, 28-02-88, Kharkiv, Metalist Kharkiv-2
+37, Vitali Bordian, M, 5'10", 10 12, 11-08-84, Chişinău, Lokomotiv Moscow
+38, Vladyslav Leonidov, G, 6'00", 11 07, 11-02-90, Kharkiv, Metalist Kharkiv-2
+39, Anatoliy Didenko, M, 6'04", 12 13, 09-06-82, Yuznoukrainsk, Kryvbas Kryvyi Rih
+42, Onyekachi Nwoha, F, 5'08", 11 00, 28-02-83, Aba, Al-Ain
+43, Mykyta Bludov, M, 6'00", 11 11, 11-10-88, Artemovsk, Metalist Kharkiv-2
+44, Mykola Hrebenyuk, D, 6'00", 12 00, 27-08-90, Kharkiv, Metalist Kharkiv-2
+45, Yevhen Sheremet, F, 6'00", 11 09, 23-08-88, Kharkiv, Metalist Kharkiv-2
+46, Vladyslav Leonidov, G, 6'00", 11 07, 11-02-90, Kharkiv, Metalist Kharkiv-2
+49, Vladyslav Kobzistyy, D, 5'10", 11 05, 03-03-89, Kharkiv, Metalist Kharkiv-2
+50, Jajá Coelho, F, 6'03", 11 07, 28-02-86, Ipatinga, Getafe
+52, Pavlo Osarchuk, M, 5'10", 11 00, 04-01-88, Sakhkamen, Metalist Kharkiv-2
+53, Dmytro Zhdankin, M, 5'10", 11 05, 01-01-89, Kharkiv, Metalist Kharkiv-2
+56, Bohdan Novikov, D, 6'00", 11 00, 25-12-89, Kharkiv, Metalist Kharkiv-2
+58, Vladyslav Podkopay, D, 6'00", 11 07, 15-10-90, Kharkiv, Metalist Kharkiv-2
+61, Dmytro Hrankin, M, 5'11", 11 11, 11-09-90, Kharkiv, Metalist Kharkiv-2
+62, Valeriy Shepel, M, 5'08", 10 10, 20-11-88, , Metalist Kharkiv-2
+63, Nazariy Nysh, F, 5'10", 11 05, 23-03-90, Lviv, Metalist Kharkiv-2
+65, Yevheniy Lozovyy, M, 5'10", 10 08, 25-03-88, Shevchenkovo, Metalist Kharkiv-2
+69, Oleksiy Antonov, F, 5'09", 12 00, 08-05-86, Dnipropetrovsk, Kuban Krasnodar
+70, Maksym Yakhno, D, 5'09", 10 01, 03-04-88, Kharkiv, Metalist Kharkiv-2
+87, Ruslan Petrovysh, M, 5'10", 10 10, 26-01-89, Kharkiv, Metalist Kharkiv-2
+88, Aleksey Kurilov, D, 6'02", 12 08, 24-04-88, Kerch, Metalist Kharkiv-2
+89, Denis Siydorenko, G, 6'01", 12 04, 18-04-89, Kharkiv, Metalist Kharkiv-2
+97, Yevhen Shapoval, D, 5'10", 11 00, 16-08-87, Kharkiv, Metalist Kharkiv-2
+99, Mark Ruban, F, 5'09", 10 10, 21-02-90, Pervomaysk, Metalist Kharkiv-2
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Lasha Jakobia, F, 5'11", 12 00, 20-08-80, Tbilisi, Vorskla Poltava
+23, Alyaksandr Danilov, M, 5'10", 11 00, 10-09-80, Gomel, Metalurh Donetsk
+11, Serhiy Davydov, F, 5'10", 10 03, 16-12-84, Eskhar, Volyn Lutsk (On Loan)
+13, Hicham Mahdoufi, M, 5'11", 10 10, 05-08-83, Khouribga, Olympique Khouribga
+21, Roman Svitlychniy, M, 5'11", 10 10, 04-01-86, Volchansk, 
+41, Taras Kiktov, M, 5'10", 11 00, 07-11-86, Kharkiv, 
+51, Serhiy Kostyuk, M, 5'11", 10 08, 05-03-86, Kharkiv, 
+10, Onyekachi Nwoha, F, 5'08", 11 00, 28-02-83, Aba, Re-Registered (42)
+27, Maksym Yakhno, D, 5'09", 10 01, 03-04-88, Kharkiv, Metalist Kharkiv-2
+39, Oleksandr Lytvyak, D, 5'11", 11 11, 14-11-90, Kharkiv, Metalist Kharkiv-2
+42, Artem Piddubnyy, M, 5'10", 11 00, 17-05-89, Kharkiv, 

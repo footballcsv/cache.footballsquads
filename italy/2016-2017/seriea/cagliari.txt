@@ -1,0 +1,56 @@
+=  Cagliari - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, Verona
+2, Bruno Alves, POR, D, 1.89, 80, 27-11-81, Porto, Fenerbahçe
+3, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Juventus
+4, Daniele Dessena, ITA, M, 1.83, 75, 10-05-87, Parma, Sampdoria
+8, Davide Di Gennaro, ITA, M, 1.81, 71, 16-06-88, Milan, Palermo
+9, Federico Melchiorri, ITA, F, 1.85, 75, 06-01-87, Treia, Pescara
+10, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Estoril
+12, Senna Miangue, BEL, D, 1.92, 81, 05-02-97, Antwerp, Internazionale
+13, Roberto Colombo, ITA, G, 1.90, 80, 24-08-75, Monza, Napoli
+15, Vasco Oliveira, POR, D, 1.86, 73, 28-05-00, Lisbon, Benfica
+16, Paolo Faragò, ITA, M, 1.87, 80, 12-02-93, Catanzaro, Novara
+17, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Chievo Verona
+18, Nicolò Barella, ITA, M, 1.72, 68, 07-02-97, Cagliari, None
+19, Fabio Pisacane, ITA, D, 1.78, 77, 28-01-86, Naples, Avellino
+20, Simone Padoin, ITA, M, 1.79, 73, 18-03-84, Gemona del Friuli, Juventus
+21, Artur Ioniţă, MDA, M, 1.84, 73, 17-08-90, Chişinău, Verona
+22, Marco Borriello, ITA, F, 1.85, 76, 18-06-82, Naples, Atalanta
+23, Luca Ceppitelli, ITA, D, 1.86, 83, 11-08-89, Castiglione del Lago, Parma
+24, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Pescara
+25, Marco Sau, ITA, F, 1.69, 65, 03-11-87, Sorgono, Foggia
+26, Luca Crosta, ITA, G, 1.90, 78, 23-02-98, Milan, Milan
+27, Illia Briukhov, UKR, D, 1.85, 70, 08-08-98, Donetsk, Kremin Kremenchuk
+28, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Milan
+29, Nicola Murru, ITA, D, 1.80, 64, 16-12-94, Cagliari, None
+30, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, None
+32, Han Kwang-Song, PRK, F, 1.78, 70, 11-09-98, Pyongyang, Chobyong
+33, Roberto Biancu, ITA, M, 1.76, 70, 19-01-00, Sassari, None
+34, Matias Antonini Lui, BRA, M, 1.92, 80, 09-04-98, Porto Alegre, Internazionale
+35, Bartosz Salamon, POL, D, 1.96, 89, 01-05-91, Poznań, Sampdoria
+36, Andrea Mastino, ITA, D, 1.76, 73, 02-09-99, Carbonia, None
+37, Nicholas Pennington, ITA, M, 1.80, 62, 18-12-98, Rome, None
+38, Federico Serra, ITA, M, 1.66, 63, 09-12-97, Cagliari, None
+39, Matteo Volteggi, ITA, D, 1.85, 75, 23-02-98, Urbino, Bologna
+40, Andrea Cadili, ITA, D, 1.87, 73, 05-06-99, San Gavino Monreale, None
+41, Davide Arras, ITA, F, 1.82, 72, 02-04-98, Olbia, Juventus
+43, Mirko Bizzi, ITA, G, , , 18-08-99, Segrate, Monza
+44, Riccardo Daga, ITA, G, 1.92, 78, 13-01-00, Cagliari, None
+45, Riccardo Taccori, ITA, M, 1.70, 63, 15-02-98, Cagliari, None
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Torino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Marko Pajač, CRO, M, 1.85, 66, 11-05-93, Zagreb, Benevento (On Loan)
+27, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, Re-Registered (30)
+15, Luka Krajnc, SVN, D, 1.88, 86, 19-09-94, Ptuj, Frosinone (On Loan)
+30, Marco Storari, ITA, G, 1.87, 76, 07-01-77, Pisa, Milan
+28, Davide Arras, ITA, F, 1.82, 72, 02-04-98, Olbia, Re-Registered (41)
+16, Gianni Munari, ITA, M, 1.90, 84, 24-06-83, Sassuolo, Parma
+26, Luca Bittante, ITA, D, 1.84, 65, 14-08-93, Bassano del Grappa, Empoli
+12, Luca Crosta, ITA, G, 1.90, 78, 23-02-98, Milan, Re-Registered (26)
+32, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Spezia (On Loan)
+32, Víctor Ibarbo, COL, F, 1.88, 78, 19-05-90, Cali, Sagan Tosu (On Loan)

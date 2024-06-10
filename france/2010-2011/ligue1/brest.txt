@@ -1,0 +1,39 @@
+=  Brest - French Ligue 1 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Steeve Elana, FRA, G, 1.87, 85, 11-07-80, Marseille, Caen
+2, Yvan Bourgis, FRA, D, 1.69, 69, 24-09-79, Monistrol, Clermont
+3, Thomas Cotty, FRA, D, 1.82, 80, 09-05-87, Morlaix, Morlaix
+4, Johan Martial, FRA, D, 1.84, 80, 30-05-91, Massy, Bastia
+5, Oscar Ewolo, COD, M, 1.71, 63, 09-10-78, Brazzaville, Lorient
+6, Bruno Grougi, FRA, M, 1.73, 70, 26-04-83, Caen, Clermont
+7, Jonathan Ayité, TOG, F, 1.84, 75, 22-07-85, Bordeaux, Nîmes
+8, Granddi Ngoyi, FRA, M, 1.86, 77, 17-05-88, Melun, Paris St-Germain
+9, Théophile N'Tamé, CMR, D, 1.88, 83, 17-05-85, Ndoungué, Interblock
+10, Larsen Touré, FRA, F, 1.84, 81, 20-07-84, Brest, Lille
+11, Richard Soumah, GUI, M, 1.77, 69, 06-10-86, Créteil, Guingamp
+12, Paul Baysse, FRA, D, 1.84, 82, 15-05-88, Bordeaux, Sedan
+15, Tomáš Mičola, CZE, F, 1.78, 75, 26-09-88, Ostrava, Baník Ostrava
+16, Gaëtan Deneuve, FRA, G, 1.83, 78, 03-05-85, Harfleur, Châteauroux
+17, Fodié Traoré, FRA, M, 1.76, 68, 01-03-85, Bondy, Quevilly
+18, Moïse Brou Apanga, GAB, D, 1.80, 79, 04-02-82, Abidjan, FC 105 Libreville
+19, Benoît Lesoimier, FRA, M, 1.71, 60, 21-02-83, Saint-Lô, Troyes
+20, Romain Poyet, FRA, F, 1.84, 76, 25-11-80, Le Coteau, Dijon
+21, Brahim Ferradj, ALG, M, 1.72, 74, 04-09-87, Saint-Etienne, Auxerre
+22, Ousmane Coulibaly, MLI, D, 1.83, 75, 09-07-89, Paris, Guingamp
+23, Yoann Bigné, FRA, M, 1.68, 65, 23-08-77, Rennes, Nice
+24, Ahmed Kantari, MAR, D, 1.85, 80, 28-06-85, Blois, Strasbourg
+25, Omar Daf, SEN, D, 1.77, 71, 12-02-77, Dakar, Sochaux
+26, Nolan Roux, FRA, F, 1.82, 75, 01-03-88, Compiègne, Lens
+27, Mario Lička, CZE, M, 1.82, 82, 30-04-82, Ostrava, Baník Ostrava
+33, Steven Creach, FRA, M, , , 13-07-90, Morlaix, None
+34, Anthony Bova, FRA, F, 1.70, 63, 07-03-90, , None
+40, Steven Kerzil, FRA, G, , , 24-01-91, Brest, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Filippos Darlas, GRE, D, 1.82, 76, 23-10-83, Agrinio, Atromitos (On Loan)
+7, Grégory Lorenzi, FRA, D, 1.86, 86, 17-12-83, Bastia, Arles-Avignon (On Loan)
+29, Diallo Guidileye, FRA, M, 1.81, 76, 30-12-89, Djadijibiné, Troyes (On Loan)
+30, Simon Pontdemé, FRA, G, 1.86, 81, 04-05-88, Niort, Auxerre

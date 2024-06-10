@@ -1,0 +1,49 @@
+=  Carpi - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Željko Brkić, SRB, G, 1.97, 95, 09-07-86, Novi Sad, Udinese
+2, Stefano Sabelli, ITA, D, 1.80, 74, 13-01-93, Rome, Bari
+3, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Aversa Normanna
+4, Isaac Cofie, GHA, M, 1.86, 78, 20-09-91, Accra, Genoa
+5, Cristian Zaccardo, ITA, D, 1.84, 77, 21-12-81, Formigine, Milan
+6, Riccardo Gagliolo, ITA, D, 1.80, 75, 28-04-90, Imperia, Imperia
+7, Filippo Porcari, ITA, M, 1.76, 71, 28-04-84, Fidenza, Bari
+8, Raffaele Bianco, ITA, M, 1.80, 80, 25-08-87, Aversa, Juventus
+9, Federico Franchini, ITA, D, 1.84, 71, 23-01-94, Villafranca, Chievo Verona
+10, Simone Verdi, ITA, F, 1.72, 62, 12-07-92, Broni, Milan
+11, Antonio Di Gaudio, ITA, M, 1.69, 63, 16-08-89, Palermo, Virtus Castelfranco
+13, Fabrizio Poli, ITA, D, 1.85, 76, 26-05-89, Bordighera, Arezzo
+14, Eddy Gnahoré, FRA, M, 1.88, 85, 14-11-93, Villeneuve-la-Garenne, Napoli
+15, Kevin Lasagna, ITA, F, 1.86, 80, 10-08-92, San Benedetto Po, Cerea
+16, Jonathan de Guzmán, NED, M, 1.73, 70, 13-09-87, Toronto, Napoli
+17, Marco Crimi, ITA, M, 1.77, 65, 17-03-90, Messina, Bologna
+18, Igor Bubnjić, CRO, D, 1.88, 83, 17-07-92, Split, Udinese
+19, Lorenzo Pasciuti, ITA, M, 1.73, 68, 24-09-89, Carrara, Biellese
+20, Lorenzo Lollo, ITA, M, 1.80, 75, 08-12-90, Carrara, Spezia
+21, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Pescara
+23, Emanuele Suagher, ITA, D, 1.92, 82, 26-11-92, Romano di Lombardia, Atalanta
+25, Matteo Mancosu, ITA, F, 1.82, 75, 22-12-84, Cagliari, Bologna
+27, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Internazionale
+29, Raphael Martinho, BRA, M, 1.83, 73, 15-04-88, Campo Grande, Catania
+36, Fabio Daprelà, SUI, D, 1.80, 65, 19-02-91, Zürich, Palermo
+58, Matteo Fedele, ITA, M, 1.85, 75, 20-07-92, Lausanne, Sion
+77, Vincenzo Ceci, ITA, D, , , 24-03-98, , None
+91, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Cagliari
+97, Andrea Liotti, ITA, G, 1.85, 79, 20-02-97, Rome, Pescara
+99, Jerry Mbakogu, NGA, F, 1.84, 82, 01-10-92, Lagos, Padova
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Filippo Porcari, ITA, M, 1.76, 76, 28-04-84, Fidenza, Bari
+2, Wallace, BRA, D, 1.75, 72, 01-05-94, Rio de Janeiro, Chelsea
+94, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Lanús, Granada
+33, Nicolás Spolli, ARG, D, 1.92, 90, 20-02-83, Coronel Bogado, Chievo Verona
+9, Kamil Wilczek, POL, F, 1.86, 78, 14-01-88, Wodzisław Śląski, Brøndby
+14, Federico Gino, URU, M, 1.73, 74, 26-02-93, Melo, Defensor Sporting
+22, Francesco Benussi, ITA, G, 1.88, 85, 15-10-81, Mestre, Vicenza
+12, Marco Borriello, ITA, F, 1.85, 76, 18-06-82, Naples, Atalanta
+39, Luca Marrone, ITA, M, 1.86, 75, 28-03-90, Turin, Juventus
+7, Ryder Matos, BRA, F, 1.83, 79, 27-02-93, Seabra, Fiorentina
+10, Andrea Lazzari, ITA, M, 1.84, 81, 03-12-84, Bergamo, Bari
+34, Gabriel Silva, BRA, D, 1.79, 74, 13-05-91, Piracicaba, Udinese

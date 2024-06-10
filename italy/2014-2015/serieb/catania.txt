@@ -1,0 +1,59 @@
+=  Catania - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jean-François Gillet, BEL, G, 1.81, 82, 31-05-79, Liège, Torino
+2, Dragan Lovrić, CRO, D, 1.91, 82, 03-01-96, Split, HNK Gorica
+5, Raffaele Schiavi, ITA, D, 1.85, 84, 15-03-86, Cava dei Tirreni, Frosinone
+6, Raphael Martinho, BRA, M, 1.83, 73, 15-04-88, Campo Grande, Verona
+7, Riccardo Maniero, ITA, F, 1.86, 81, 26-11-87, Naples, Pescara
+8, Gonzalo Escalante, ARG, M, 1.82, 76, 27-03-93, Bella Vista, Boca Juniors
+9, Emanuele Calaiò, ITA, F, 1.72, 68, 08-01-82, Palermo, Napoli
+10, Alessandro Rosina, ITA, M, 1.68, 65, 31-01-84, Belvedere Marittimo, Siena
+12, Giuseppe Ficara, ITA, G, 1.87, 82, 24-08-95, Avola, None
+14, Maks Barišič, SVN, F, 1.87, 67, 06-03-95, Koper, Koper
+15, Gastón Sauro, ARG, D, 1.88, 75, 23-02-90, Rosario, Basel
+18, Lorenzo Del Prete, ITA, D, 1.80, 77, 12-01-86, Rome, Perugia
+19, Lucas Castro, ARG, M, 1.82, 79, 09-04-89, La Plata, Racing Club
+20, Michał Chrapek, POL, M, 1.74, 68, 03-04-92, Jaworzno, Wisła Kraków
+21, Fabián Rinaudo, ARG, M, 1.76, 75, 15-05-87, Armstrong, Sporting CP
+22, Pietro Terracciano, ITA, G, 1.92, 85, 08-03-90, San Felice a Cancello, Nocerina
+23, Norbert Gyömbér, SVK, D, 1.89, 79, 03-07-92, Revúca, Dukla Banská Bystrica
+24, Ciro Capuano, ITA, D, 1.85, 80, 10-07-81, Naples, Palermo
+25, Gonzalo Piermarteri, ARG, M, 1.71, 70, 06-05-95, Córdoba, Rangers (Talca)
+26, Nicola Belmonte, ITA, D, 1.83, 75, 15-04-87, Cosenza, Udinese
+27, Filip Janković, SRB, M, 1.77, 67, 17-01-95, Belgrade, Parma
+28, Agatino Parisi, ITA, D, 1.75, 70, 14-06-95, Siracusa, None
+29, Kristjan Matoševič, SVN, G, 1.92, 78, 05-06-97, Koper, Koper
+30, Andrea Di Grazia, ITA, F, 1.75, 63, 08-05-96, Catania, None
+31, Luigi Carillo, ITA, D, 1.87, 75, 08-08-96, Naples, Juve Stabia
+32, Agostino Gallo, ITA, M, 1.80, 76, 05-03-95, Catania, None
+33, Juan Ramos, URU, D, 1.80, 72, 11-12-96, Montevideo, Montevideo Wanderers
+34, Mattia Rossetti, ITA, M, 1.83, 71, 16-06-96, Mirabella Eclano, Salernitana
+35, Mattia Bortolussi, ITA, F, 1.86, , 14-08-96, Perugia, Gubbio
+37, Filippo Di Maio, ITA, D, , , 06-05-97, Arzignano, Padova
+39, Moses Odjer, GHA, M, 1.73, 65, 17-08-96, Tema, Tema Youth
+40, Dávid Berezný, SVK, D, , , 06-02-96, , Slovan Bratislava
+41, Fabrizio Scapellato, ITA, M, 1.75, 62, 30-10-96, Catania, None
+42, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Cesena
+43, Antonio Mazzotta, ITA, D, 1.85, 73, 02-08-89, Palermo, Cesena
+44, Daniele Sciaudone, ITA, M, 1.83, 72, 10-08-88, Bergamo, Bari
+45, Luca Ceccarelli, ITA, D, 1.85, 77, 20-03-83, Massa, Spezia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Luca Anania, ITA, G, 1.86, 80, 21-06-80, Milan, 
+34, Stjepan Oštrek, CRO, M, 1.75, 67, 09-08-96, Varaždin, Koprivnica
+7, Marcelinho, BRA, M, 1.73, 67, 22-06-87, Rio de Janeiro, Atromitos
+5, Alexis Rolín, URU, D, 1.86, 75, 07-02-89, Montevideo, Boca Juniors (On Loan)
+1, Alberto Frison, ITA, G, 1.90, 87, 22-01-88, Mirano, Sampdoria (On Loan)
+2, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Boca Juniors
+16, Adrián Calello, ARG, M, 1.77, 74, 14-05-87, Quilmes, Quilmes
+18, Fabián Monzón, ARG, D, 1.79, 75, 13-04-87, Granadero Baigorria, Boca Juniors (On Loan)
+29, Fabio Aveni, ITA, F, 1.78, 68, 05-09-94, Barcellona Pozzo di Gotto, Juve Stabia
+11, Sebastián Leto, ARG, F, 1.88, 77, 30-08-86, Alejandro Korn, Lanús (On Loan)
+17, Edgar Çani, ALB, F, 1.92, 90, 22-07-89, Tirana, Leeds U (On Loan)
+3, Nicolás Spolli, ARG, D, 1.92, 90, 20-02-83, Coronel Bogado, Roma (On Loan)
+13, Agatino Garufi, ITA, M, 1.78, 70, 16-09-95, Giarre, Santarcangelo (On Loan)
+36, Gabriele Di Carlo, ITA, M, , , 09-01-97, , Internazionale
+4, Sergio Almirón, ARG, M, 1.80, 82, 07-11-80, Rosario, 

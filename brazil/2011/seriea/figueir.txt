@@ -1,0 +1,54 @@
+=  Figueirense - Campeonato Brasileiro Série A 2011
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wilson, BRA, G, 1.85, 79, 31-01-84, Santo André, Flamengo
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Tombense
+3, João Paulo, BRA, D, 1.85, 78, 17-11-84, Curitiba, Goiás
+4, Édson Silva, BRA, D, 1.87, 92, 09-05-86, Palmares, Villa Rio
+5, Ygor, BRA, M, 1.79, 76, 01-06-84, Santana do Livramento, Start
+6, Juninho, BRA, D, 1.71, 64, 11-01-90, Salvador, Pão de Açúcar
+7, Túlio, BRA, M, 1.75, 72, 25-04-76, Brasília, Goiás
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, Duisburg
+9, Aloísio, BRA, F, 1.76, 78, 19-06-88, Araranguá, Tombense
+10, Fernandes, BRA, M, 1.78, 75, 03-03-78, Itaporanga, Palmeiras
+11, Elias, BRA, M, 1.80, 78, 02-09-83, Santa Rita do Sapucaí, Al-Ain
+12, Ricardo, BRA, G, 1.88, 89, 23-12-86, Palmitos, Chapecoense
+13, Rhayner, BRA, F, 1.79, 75, 05-09-90, Serra, Tombense
+16, Wilson Pittoni, PAR, M, 1.66, 65, 14-08-85, Asunción, Libertad
+17, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, Fluminense
+18, Jean Deretti, BRA, M, 1.73, 60, 01-05-93, Jaraguá do Sul, None
+19, Hélder, BRA, D, 1.78, 73, 21-10-88, Três Corações, Grêmio
+20, Guti, BRA, D, 1.87, 83, 29-06-91, São Bento do Sul, None
+22, Pablo, BRA, D, 1.90, 83, 03-08-89, São João Nepomuceno, Zaragoza
+23, Coutinho, BRA, M, 1.73, 73, 07-03-84, Macaé, Tombense
+25, Jackson Sousa, BRA, M, 1.73, 70, 10-08-90, São José, None
+27, Héber, BRA, F, 1.80, 72, 10-08-91, Colorado do Oeste, None
+30, William Pottker, BRA, M, 1.80, 78, 22-12-93, Foz do Iguaçu, None
+32, Neto, BRA, G, 1.87, 81, 01-08-92, Florianópolis, None
+33, Roger Carvalho, BRA, D, 1.84, 74, 10-12-86, Arapongas, Tombense
+55, Jônatas, BRA, M, 1.81, 74, 29-07-82, Fortaleza, Espanyol
+77, Somália, BRA, F, 1.89, 78, 22-06-77, Vitória, Boavista-RJ
+88, Sandro, BRA, D, 1.79, 75, 17-05-88, Rio de Janeiro, Fluminense
+99, Júlio César, BRA, F, 1.76, 75, 26-02-80, Itaguai, Gaziantepspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Corinthians
+, Breitner da Silva, VEN, M, 1.70, 63, 09-11-89, Barcelona [VEN], Santos
+, Eduardo, BRA, G, 1.93, 87, 02-07-77, Rio de Janeiro, Retired
+, Léo Rodrigues, BRA, D, 1.77, 66, 06-04-91, Caçador, Duque de Caxias (On Loan)
+, Joílson, BRA, D, 1.68, 62, 07-07-79, Rio de Janeiro, Tombense
+, Reinaldo, BRA, F, 1.87, 77, 14-03-79, Itaguay, Bahia
+, Rafhael, BRA, D, 1.80, 76, 22-03-90, Vitória, 
+, Fernando Gabriel, BRA, M, 1.79, 73, 11-05-88, Eldorado, 
+, Edson, BRA, D, 1.83, 84, 06-07-87, Itaquitinga, União de Leiria (On Loan)
+, Leandro Gareca, BOL, D, 1.74, 64, 23-06-91, Monteagudo, Tombense
+, Bruno Neves, BRA, M, 1.78, 68, 26-01-90, Magé, Duque de Caxias (On Loan)
+, Talhetti, BRA, M, 1.73, 70, 23-02-90, Caçador, Tombense
+, Wellington, BRA, F, 1.86, 84, 11-02-88, Ourinhos, 1899 Hoffenheim
+, Dudu, BRA, F, 1.78, 76, 02-02-80, Rio de Janeiro, Tombense
+, Juninho Frizzi, BRA, F, 1.75, 77, 29-01-90, Pirajui, Rentistas
+, Lenny, BRA, F, 1.72, 72, 23-03-88, Rio de Janeiro, Desportivo Brasil
+, Washington, BRA, F, 1.79, 71, 20-01-89, São Paulo, Tombense
+83, Leandro Chaves, BRA, M, 1.77, 74, 19-04-84, Duque de Caxias, Ceará

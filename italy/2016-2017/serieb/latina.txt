@@ -1,0 +1,61 @@
+=  Latina - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matteo Grandi, ITA, G, 1.90, 75, 12-10-92, Faenza, Cesena
+2, Atila Varga, SVK, D, 1.88, 78, 11-04-96, Trebišov, Sampdoria
+3, Matteo Bruscagin, ITA, D, 1.84, 78, 03-08-89, Milan, Grosseto
+4, Pol García Tena, ESP, D, 1.85, 77, 18-02-95, Terrassa, Juventus
+5, Hernán Paolo Dellafiore, ITA, D, 1.86, 79, 02-02-85, Buenos Aires, Parma
+6, Antonio Di Nardo, ITA, F, 1.83, , 30-09-98, Naples, Sampdoria
+7, Daniele Corvia, ITA, F, 1.83, 83, 22-11-84, Rome, Brescia
+8, Michele Rocca, ITA, M, 1.83, 74, 06-02-96, Milan, Sampdoria
+9, Roberto Insigne, ITA, F, 1.71, 65, 11-05-94, Naples, Napoli
+10, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Perugia
+11, Giuliano Regolanti, ITA, F, 1.83, 84, 26-07-94, Anzio, Frosinone
+12, Carlo Pinsoglio, ITA, G, 1.94, 82, 16-03-90, Moncalieri, Juventus
+13, Mauro Coppolaro, ITA, D, 1.89, 88, 10-03-97, Benevento, Udinese
+14, Marco Pinato, ITA, D, 1.78, 75, 09-01-95, Monza, Vicenza
+15, Alessandro Celli, ITA, D, 1.94, 78, 07-07-97, Latina, Genoa
+17, McDonald Mariga, KEN, M, 1.83, 83, 04-04-87, Nairobi, Parma
+18, Pietro De Giorgio, ITA, F, 1.78, 70, 16-02-83, Praia a Mare, Crotone
+19, Filippo Bandinelli, ITA, F, 1.80, 73, 29-03-95, Florence, Fiorentina
+20, Nelson Atiagli, GHA, M, 1.75, 66, 18-01-96, , Tema Youth
+21, Luca Di Matteo, ITA, D, 1.80, 73, 25-02-88, Pescara, Virtus Lanciano
+22, Andrea Bortolameotti, ITA, G, , , 14-06-98, Aprilia, Roma
+23, Riccardo Brosco, ITA, D, 1.91, 94, 03-02-91, Rome, Verona
+24, Antonio De Vitis, ITA, D, 1.78, , 21-01-00, Casarano, Pescara
+25, Santiago Rodríguez, URU, F, 1.77, 75, 01-05-98, Montevideo, Santiago Wanderers
+26, Riccardo Maciucca, ITA, D, 1.80, 73, 24-10-96, Cori, Lazio
+27, Antonio Negro, ITA, F, 1.88, 80, 10-06-98, Marcianise, Napoli
+28, Marko Jordan, CRO, F, 1.76, 71, 27-10-90, Zadar, Fastav Zlín
+29, Linas Mėgelaitis, LTU, M, 1.78, 72, 09-09-98, , Pro Vercelli
+30, Alessandro De Vitis, ITA, M, 1.83, 76, 15-02-92, Piacenza, Sampdoria
+31, Constantin Nica, ROU, D, 1.85, 81, 18-03-93, Afumaţi, Atalanta
+32, Marco Marchionni, ITA, M, 1.72, 74, 22-07-80, Monterotondo, Sampdoria
+33, Gabriele Rolando, ITA, D, 1.77, 71, 02-04-95, Genoa, Sampdoria
+34, Federico Rausa, ITA, G, 1.91, 75, 03-05-99, Rome, Carpi
+35, Emanuele Colarieti, ITA, M, , , 14-07-99, Rome, Lazio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Paolo Regoli, ITA, M, 1.81, 72, 24-04-91, Pontedera, Mantova
+9, Jefferson, BRA, F, 1.89, 79, 06-01-88, Guarulhos, Teramo
+13, Najib Ammari, ALG, M, 1.78, 69, 10-04-92, Marseille, Virtus Entella
+22, Riccardo Mazzoleni, ITA, G, , , 05-12-97, Rome, Real Monterosi
+25, Romeo Shahinas, ALB, M, 1.72, 66, 25-02-96, Korçë, Racing Roma (On Loan)
+27, Andrea Esposito, ITA, D, 1.91, 82, 17-05-86, Galatina, Vicenza
+9, Rubén Olivera, URU, M, 1.84, 79, 04-05-83, Montevideo, LDU Quito
+36, Stefano Amadio, ITA, M, 1.77, 72, 05-01-89, Rome, Teramo (On Loan)
+34, Federico Sottoriva, ITA, G, 1.88, 82, 21-08-99, Rome, Ciampino (On Loan)
+24, Federico Moretti, ITA, M, 1.87, 76, 28-10-88, Genoa, Avellino
+35, Daniele Paponi, ITA, F, 1.82, 77, 16-04-88, Ancona, Juve Stabia
+1, Alessandro Tonti, ITA, G, 1.87, 84, 28-05-92, Cattolica, Mantova
+18, Maxwell Boadu Acosty, GHA, M, 1.78, 75, 10-09-91, Accra, Crotone
+6, Roberto Criscuolo, ITA, M, 1.78, 74, 21-02-97, Palestrina, Sampdoria
+10, Richmond Boakye, GHA, F, 1.85, 80, 28-01-93, Accra, Crvena Zvezda (On Loan)
+8, Luigi Alberto Scaglia, ITA, M, 1.82, 73, 23-11-86, Chiari, Parma
+27, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Fiorentina
+28, Christian D'Urso, ITA, M, 1.78, 70, 26-07-97, Rieti, Roma
+29, Michele Rocca, ITA, M, 1.77, 68, 06-02-96, Milan, Re-Registered (8)
+16, Adams Barry, FRA, D, , , 01-08-97, Roissy-en-Brie, FC Braşov

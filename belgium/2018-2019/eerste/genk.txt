@@ -1,0 +1,45 @@
+=  KRC Genk - Belgian Eerste Klasse A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danny Vukovic, AUS, G, 1.87, 96, 27-03-85, Sydney, Sydney FC
+2, Casper de Norre, BEL, D, 1.75, 70, 07-02-97, Hasselt, Sint-Truiden
+4, Dries Wouters, BEL, D, 1.89, 85, 28-01-97, Tongeren, None
+5, Neto Borges, BRA, D, 1.83, 85, 13-09-96, Salvador, Hammarby IF
+6, Sébastien Dewaest, BEL, D, 1.88, 88, 27-05-91, Poperinge, Charleroi
+7, Junya Ito, JPN, F, 1.76, 68, 09-03-93, Yokosuka, Kashiwa Reysol
+9, Marcus Ingvartsen, DEN, F, 1.86, 82, 04-01-96, Farum, FC Nordsjælland
+10, Mbwana Samatta, TAN, F, 1.79, 70, 13-12-92, Dar es Salam, TP Mazembe
+11, Joseph Paintsil, GHA, F, 1.74, 62, 01-02-98, Fodama, Tema Youth
+14, Leandro Trossard, BEL, F, 1.72, 61, 04-12-94, Waterschei, Bocholt
+18, Ruslan Malynovskyy, UKR, M, 1.80, 74, 04-05-93, Zhytomyr, Shakhtar Donetsk-2
+19, Jakub Piotrowski, POL, M, 1.84, 78, 04-10-97, Toruń, Pogoń Szczecin
+20, Ivan Fiolić, CRO, M, 1.76, 70, 29-04-96, Zagreb, Dinamo Zagreb
+21, Jere Uronen, FIN, D, 1.77, 69, 13-07-94, Turku, Helsingborgs IF
+23, Rubin Seigers, BEL, D, 1.89, 82, 11-01-98, Lommel, None
+25, Sander Berge, NOR, M, 1.90, 88, 18-02-98, Bærum, Vålerenga
+26, Maarten Vandevoordt, BEL, G, 1.87, 71, 26-02-02, Sint-Truiden, None
+28, Bryan Heynen, BEL, M, 1.82, 66, 06-02-97, Neeroeteren, None
+30, Nordin Jackers, BEL, G, 1.87, 79, 05-09-97, Veldwezelt, None
+31, Joakim Mæhle, DEN, D, 1.84, 80, 20-05-97, Østervrå, Aalborg
+33, Jhon Lucumí, COL, D, 1.85, 78, 26-06-98, Cali, Deportivo Cali
+35, Tom Reyners, BEL, M, 1.70, 63, 20-04-00, , None
+36, Shawn Adewoye, BEL, D, 1.81, 81, 29-06-00, Leopoldsburg, None
+37, Siebren Lathouwers, BEL, D, 1.83, 65, 11-08-00, Hasselt, None
+38, Adriano Bertaccini, BEL, F, , , 13-08-00, , None
+40, Tobe Leysen, BEL, G, 1.87, 80, 09-03-02, Geel, None
+45, Joseph Aidoo, GHA, D, 1.80, 80, 29-09-95, Tema, Hammarby IF
+54, Vladimir Screciu, ROU, D, 1.70, 73, 13-01-00, Corabia, Universitatea Craiova
+77, Dieumerci Ndongala, BEL, M, 1.70, 60, 14-06-91, Kinshasa, Standard Liège
+93, Zinho Gano, BEL, F, 1.96, 86, 13-10-93, Mechelen, Oostende
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Manuel Benson, BEL, M, 1.78, 68, 28-03-97, Lokeren, Excel Mouscron (On Loan)
+5, Amine Khammas, MAR, D, 1.72, 68, 06-04-99, Reet, FC Den Bosch (On Loan)
+7, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, PAOK (On Loan)
+15, Ibrahima Seck, SEN, M, 1.92, 85, 10-08-89, Bargny, Zulte-Waregem (On Loan)
+3, Bojan Nastić, SRB, D, 1.77, 69, 06-07-94, Novi Sad, Oostende (On Loan)
+8, Edon Zhegrova, KVX, F, 1.74, 69, 31-03-99, Herford, Basel (On Loan)
+2, Jakub Brabec, CZE, D, 1.86, 80, 06-08-92, Prague, Viktoria Plzeň (On Loan)
+24, Alejandro Pozuelo, ESP, M, 1.70, 63, 20-09-91, Seville, Toronto FC

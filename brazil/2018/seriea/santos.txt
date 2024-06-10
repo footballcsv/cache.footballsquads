@@ -1,0 +1,52 @@
+=  Santos - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Coritiba
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+4, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Coritiba
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Monterrey
+8, Renato, BRA, M, 1.77, 71, 15-05-79, Santa Mercedes, Botafogo
+9, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, None
+10, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+11, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Wolfsburg
+12, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+13, Kaique Rocha, BRA, D, 1.95, 90, 28-02-01, Taboão da Serra, None
+15, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, None
+16, Dodô, BRA, D, 1.77, 75, 06-02-92, Campinas, Sampdoria
+17, Derlis González, PAR, M, 1.72, 64, 23-03-94, Mariano Roque Alonso, Dynamo Kyiv
+18, Guilherme Nunes, BRA, M, 1.77, 67, 12-07-98, Novo Hamburgo, None
+19, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Guarani
+20, Felippe Cardoso, BRA, F, 1.87, 83, 04-10-98, São Paulo, Ponte Preta
+21, Diego Pituca, BRA, M, 1.75, 69, 01-08-92, Mogi Guaçu, Botafogo-SP
+22, Bryan Ruiz, CRC, F, 1.88, 78, 18-08-85, San José [CRC], Sporting CP
+23, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, None
+25, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Audax-SP
+26, Victor Yan, BRA, M, 1.77, 70, 09-04-01, Taboão da Serra, None
+27, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Internacional
+28, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Linense
+29, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, None
+30, Juliano, BRA, M, 1.77, 68, 28-11-94, Piracicaba, Penapolense
+32, Gabriel Calabres, BRA, M, 1.85, 79, 08-03-98, Matão, São Carlos
+33, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+35, Robson Bambu, BRA, D, 1.84, 70, 12-11-97, São Vicente, None
+36, Jonathan Copete, COL, F, 1.84, 72, 23-01-88, Cali, Atlético Nacional
+37, Emerson, BRA, D, 1.79, 72, 18-08-98, Cacoal, None
+38, Daniel Guedes, BRA, D, 1.80, 69, 02-04-94, São Paulo, None
+40, Diogo Vitor, BRA, F, 1.70, 63, 11-02-97, Três Pontas, None
+42, Matheus Guedes, BRA, D, 1.95, 90, 03-12-99, Rondonópolis, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Rodrigão, BRA, F, 1.86, 92, 13-10-93, Belmonte, Avaí (On Loan)
+30, Leandro Donizete, BRA, M, 1.75, 70, 18-05-82, Araraquara, América Mineiro (On Loan)
+17, Rafael Longuine, BRA, M, 1.73, 67, 30-05-90, Paranavaí, Guarani (On Loan)
+22, Caju, BRA, D, 1.85, 70, 17-07-95, Irecê, APOEL (On Loan)
+43, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, Re-Registered (9)
+7, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Dynamo Kyiv (On Loan)
+14, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Sivasspor (On Loan)
+20, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Shabab Al-Ahli (On Loan)

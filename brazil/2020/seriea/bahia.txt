@@ -1,0 +1,49 @@
+=  Bahia - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Corinthians
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Ponte Preta
+4, Anderson Martins, BRA, D, 1.83, 78, 21-08-87, Fortaleza, São Paulo
+5, Elias, BRA, M, 1.73, 64, 16-05-85, São Paulo, Atlético Mineiro
+8, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, Fluminense
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Yeni Malatyaspor
+10, Rodriguinho, BRA, M, 1.80, 73, 27-03-88, Natal, Cruzeiro
+11, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Shenzhen FC
+12, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, Internacional
+14, Ernando, BRA, D, 1.84, 75, 14-07-88, Formosa, Internacional
+15, Juan Pablo Ramírez, COL, M, 1.82, 76, 26-11-97, Medellín, Atlético Nacional
+16, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Flamengo
+17, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Ponte Preta
+21, Alesson, BRA, M, 1.73, 68, 16-02-99, Guarulhos, Paraná
+22, Douglas Borel, BRA, D, -, -, 30-03-02, Camaçari, None
+23, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, FC Porto
+25, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, Corinthians
+26, Gregore, BRA, M, 1.81, 78, 02-03-94, Juiz de Fora, Santos
+28, Lucas Fonseca, BRA, D, 1.90, 85, 02-08-85, Pedralva, Tianjin Teda
+29, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Grêmio
+30, Marco Antônio, BRA, M, 1.72, 65, 01-10-97, Belém, None
+32, Matheus Teixeira, BRA, G, 1.88, 87, 08-03-99, José Bonifácio, Palmeiras
+33, Anderson, BRA, G, 1.90, 83, 20-11-83, Recife, Novorizontino
+35, Edson, BRA, M, 1.78, 72, 24-04-98, Natal, Globo
+36, Ramon, BRA, M, 1.74, 69, 19-05-97, Limeira, Internacional
+39, Gabriel Novaes, BRA, F, 1.82, 74, 05-04-99, São Paulo, São Paulo
+40, Juninho, BRA, D, 1.86, 75, 02-01-95, Londrina, Palmeiras
+45, Patrick, BRA, M, 1.80, 75, 02-03-00, São Paulo, Palmeiras
+46, Hélio Júnior, BRA, D, 1.73, 70, 25-01-00, Pimenta Bueno, Atlético Mineiro
+70, Fessin, BRA, M, 1.76, 70, 04-01-99, Campina Grande, Corinthians
+72, Everson, BRA, D, 1.87, 67, 24-07-97, Salvador, None
+77, Mateus Claus, BRA, G, 1.93, 95, 03-08-94, Campo Bom, Pelotas
+79, Matheus Bahia, BRA, D, 1.81, 75, 11-08-99, Salvador, None
+99, Saldanha, BRA, F, 1.82, 80, 18-08-99, Uberaba, Osasco
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Flávio, BRA, M, 1.77, 73, 10-02-96, Santos, Trabzonspor
+19, Caíque, BRA, F, 1.91, 88, 18-07-00, Salvador, Al-Nasr [UAE]
+13, Ignácio, BRA, D, 1.86, 79, 01-12-96, Açu, CSA (On Loan)
+71, Jádson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Cruzeiro
+20, Fernandão, BRA, F, 1.92, 85, 27-03-87, Rio de Janeiro, Goiás
+18, Eric Ramires, BRA, M, 1.74, 67, 10-08-00, Salvador, Red Bull Brangantino (On Loan)
+3, Wanderson, BRA, D, 1.86, 83, 07-02-91, Vitória da Conquista, Fortaleza (On Loan)
+7, Élber, BRA, F, 1.70, 63, 27-05-92, Passo de Camaragibe, Yokohama F Marinos

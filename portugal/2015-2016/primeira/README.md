@@ -1,0 +1,21 @@
+# Portuguese Primeira Liga 2015/16
+
+18 teams
+- [Académica](academ.txt)
+- [Arouca](arouca.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Estoril](estoril.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Nacional](nacional.txt)
+- [Paços de Ferreira](pacos.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [Tondela](tondela.txt)
+- [União da Madeira](uniao.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

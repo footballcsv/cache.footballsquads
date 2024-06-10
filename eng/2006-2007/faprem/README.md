@@ -1,0 +1,23 @@
+# English Premiership 2006/07
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Charlton Athletic](charlton.txt)
+- [Chelsea](chelsea.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Portsmouth](portsm.txt)
+- [Reading](reading.txt)
+- [Sheffield United](sheffu.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [Watford](watford.txt)
+- [West Ham United](westham.txt)
+- [Wigan Athletic](wigan.txt)

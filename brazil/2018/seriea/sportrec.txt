@@ -1,0 +1,53 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magrão, BRA, G, 1.87, 79, 09-04-77, São Paulo, Rio Branco-SP
+2, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Internacional
+3, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Náutico
+4, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Santos
+5, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Corinthians
+7, Andrigo, BRA, M, 1.70, 71, 27-02-95, Estrela, Internacional
+8, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, Palmeiras
+9, Hernane, BRA, F, 1.83, 80, 04-08-86, Bom Jesus da Lapa, Grêmio
+10, Marlone, BRA, M, 1.80, 78, 02-04-92, Augustinópolis, Corinthians
+13, Ferreira, BRA, M, 1.80, 68, 19-02-93, Divinópolis, São Caetano
+14, Ernando, BRA, D, 1.84, 75, 14-07-88, Formosa, Internacional
+15, Rafael Marques, BRA, F, 1.90, 80, 27-05-83, Araraquara, Cruzeiro
+17, Max, BRA, D, 1.87, 86, 07-02-87, Perdões, São Caetano
+18, Adenilson, BRA, M, 1.79, 70, 11-06-94, Limeira, Bragantino
+22, Mateus, BRA, F, 1.72, 66, 28-09-94, Belo Horizonte, Pachuca
+23, Raul Prata, BRA, D, 1.78, 72, 14-07-87, Piracicaba, Botafogo-SP
+25, Neto Moura, BRA, M, 1.77, 70, 06-08-96, Atalaia, None
+27, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Naxxar Lions
+29, Lucas Ventura, BRA, M, 1.80, 75, 19-05-98, Leopoldina, Cruzeiro
+30, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Flamengo
+31, Lucas, BRA, G, 1.87, 80, 20-10-97, Recife, None
+32, Maílson, BRA, G, 1.97, 90, 20-08-96, Recife, None
+33, Léo Ortiz, BRA, D, 1.85, 82, 03-01-96, Porto Alegre, Internacional
+34, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, None
+37, Elias, BRA, D, 1.77, 70, 16-07-99, Recife, None
+39, Pablo Pardal, BRA, M, 1.76, 65, 21-04-99, , None
+40, Evandro, BRA, D, 1.70, 66, 06-01-97, Recife, None
+49, Morato, BRA, F, 1.70, 68, 01-09-92, Mogi Mirim, São Paulo
+55, Deivid, BRA, M, 1.74, 69, 18-01-89, Londrina, Atlético Paranaense
+56, Sander, BRA, D, 1.77, 68, 03-10-90, Corumbá de Goiás, Cruzeiro-RS
+70, Matheus Peixoto, BRA, F, 1.90, 86, 16-11-95, Rio de Janeiro, Bragantino
+77, Marcão, BRA, M, 1.85, 78, 14-01-91, Riacho de Santana, Cuiabá
+88, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, Juventude
+90, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Juninho, BRA, F, 1.79, 68, 26-02-99, Amarante, Ceará (On Loan)
+20, Thomás Bedinelli, BRA, M, 1.79, 75, 24-02-93, Juiz de Fora, Londrina
+8, Anselmo, BRA, M, 1.82, 78, 20-02-89, São Paulo, Internacional
+36, Fabrício, BRA, M, 1.71, 68, 03-06-98, Recife, Guarani (On Loan)
+18, Oswaldo Henríquez, COL, D, 1.86, 79, 10-03-89, Santa Marta, Vasco da Gama
+63, Índio, BRA, F, 1.79, 75, 20-05-97, Recife, Ermis Aradippou
+42, Felipe Rodrigues, BRA, D, 1.83, 82, 31-10-95, Diadema, Audax-SP
+19, Agenor, BRA, G, 1.87, 84, 11-12-89, Erechim, Guarani
+97, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, São Paulo (On Loan)
+11, Hygor, BRA, F, 1.86, 77, 13-08-92, Franca, Ferroviária
+95, Carlos Henrique, BRA, F, 1.82, 89, 27-02-95, Sorriso, Londrina
+6, Jean, BRA, D, 1.73, 65, 09-06-95, Goiânia, Tubarão

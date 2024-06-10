@@ -1,0 +1,38 @@
+=  Istres - French Ligue 2 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Veronese, FRA, G, 1.87, 70, 06-02-91, Cagnes-sur-Mer, Nice
+2, Jordan Massengo, FRA, M, 1.87, 82, 31-01-90, , None
+4, Fabien Barillon, FRA, D, 1.81, 73, 09-04-88, Aubagne, Cassis-Carnoux
+5, Michaël Bosqui, FRA, D, 1.80, 65, 02-02-90, , None
+6, Eric Chelle, FRA, D, 1.75, 75, 11-11-77, Abidjan, Lens
+7, Yahia Cherif, ALG, F, 1.85, 70, 04-01-85, Hydra, JS Kabylie
+8, Ibrahima Ba, SEN, M, 1.80, 74, 23-11-84, Dakar, Stade Tunisien
+9, Frédéric Nimani, FRA, F, 1.91, 87, 08-10-88, Marseille, Monaco
+10, Youcef Touati, FRA, M, 1.67, 65, 29-03-89, Saint-Denis, Red Star 93
+11, Fouad Chafik, MAR, D, 1.83, 72, 16-10-86, Pierrelatte, Valence
+14, Anthony Belmonte, FRA, D, 1.85, 72, 16-10-95, Istres, None
+15, Guy-Roland Niangbo Nassa, CIV, F, 1.82, 76, 21-05-86, Abidjan, Luzenac
+16, Clément Daoudou, FRA, G, 1.80, 71, 29-07-94, , None
+17, Nassim Akrour, ALG, F, 1.81, 73, 10-07-74, Courbevoie, Grenoble
+18, Maxime Tarasconi, FRA, M, 1.75, 75, 06-04-90, , None
+19, Khaled Melliti, TUN, M, 1.82, 78, 21-05-84, Tunis, Club Africain
+20, Kévin Bru, FRA, M, 1.84, 71, 12-12-88, Paris, Boulogne
+21, Alain Cantareil, FRA, D, 1.78, 70, 15-08-83, Marseille, Rouen
+22, Florian Tardieu, FRA, M, 1.84, 70, 22-04-92, Istres, None
+23, Oualid El Hamdaoui, MAR, F, 1.89, 82, 05-02-93, Bagnols-sur-Cèze, Nancy
+24, Damien Moulin, FRA, D, 1.83, 80, 03-01-87, Nevers, Vannes
+25, Ludovic Genest, FRA, F, 1.73, 64, 18-09-87, Thiers, Bastia
+26, Naguib Chakouri, FRA, D, 1.80, 70, 10-08-92, , None
+27, Farid Boulaya, FRA, M, 1.80, 65, 25-02-93, Vitrolles, None
+28, Joris Sainati, FRA, D, 1.83, 78, 25-09-88, Martigues, Orléans
+29, Abdellah Zoubir, FRA, M, 1.80, 73, 05-12-91, Lille, Grenoble
+30, Denis Petric, SRB, G, 1.86, 80, 24-05-88, Ljubljana, Auxerre
+40, Maxime Mannoni, FRA, G, 1.85, 82, 26-02-92, Avignon, Troyes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Khalid Boutaïb, MAR, F, 1.90, 80, 24-04-87, Bagnols sur Cèze, Uzès (On Loan)
+5, Driss Fettouhi, MAR, M, 1.82, 72, 30-09-89, Casablanca, Ajman Club
+12, Nicolas De Préville, FRA, F, 1.82, 77, 08-01-91, Istres, Reims

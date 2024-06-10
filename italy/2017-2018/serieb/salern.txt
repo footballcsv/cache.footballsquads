@@ -1,0 +1,52 @@
+=  Salernitana - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marius Adamonis, LTU, G, 1.87, 80, 13-05-97, Panevėžys, Lazio
+2, Raffaele Pucino, ITA, D, 1.82, 74, 03-05-91, Caserta, Chievo Verona
+3, Luigi Vitale, ITA, D, 1.80, 71, 05-10-87, Castellammare di Stabia, Ternana
+4, Alessandro Bernardini, ITA, D, 1.88, 73, 21-01-87, Domodossola, Livorno
+5, Valerio Mantovani, ITA, D, 1.80, 70, 18-04-96, Rome, Torino
+6, Danilo Gaeta, ITA, M, , , 09-03-99, Avellino, None
+7, Franco Signorelli, VEN, M, 1.75, 68, 01-01-91, Mérida, Spezia
+8, Antonio Zito, ITA, M, 1.84, 81, 06-06-86, Naples, Avellino
+10, Alessandro Rosina, ITA, M, 1.70, 69, 31-01-84, Belvedere Marittimo, Catania
+12, Mihalis Iliadis, GRE, G, 1.80, 71, 29-05-96, Drama, Iraklis
+13, Sofian Kiyine, BEL, M, 1.82, 78, 02-10-97, Verviers, Chievo Verona
+14, Francesco Della Rocca, ITA, M, 1.82, 77, 14-09-87, Brindisi, Perugia
+15, Tiago Casasola, ARG, D, 1.90, 85, 11-08-95, Capital Federal, Alessandria
+16, Alessandro Tuia, ITA, D, 1.84, 74, 08-06-90, Civita Castellana, Lazio
+17, Joseph Marie Minala, CMR, M, 1.84, 84, 24-08-96, Yaoundé, Lazio
+18, Jean-Daniel Akpa Akpro, CIV, M, 1.80, 66, 11-10-92, Toulouse, Toulouse
+19, Simone Palombi, ITA, F, 1.82, 70, 23-04-96, Tivoli, Lazio
+20, Francesco Orlando, ITA, F, 1.68, 65, 01-10-96, Taranto, Lazio
+21, Raffaele Schiavi, ITA, D, 1.83, 73, 15-03-86, Cava dei Tirreni, Catania
+22, Boris Radunović, SRB, G, 1.94, 90, 26-05-96, Belgrade, Atalanta
+23, Moses Odjer, GHA, M, 1.70, 69, 17-08-96, Tema, Catania
+24, Riccardo Bocalon, ITA, F, 1.82, 75, 03-03-89, Venice, Alessandria
+25, Nunzio Di Roberto, ITA, F, 1.77, 76, 21-09-85, Naples, Crotone
+26, Patrick Asmah, GHA, D, 1.72, 70, 25-01-96, Accra, Atalanta
+27, Matteo Ricci, ITA, M, 1.72, 63, 27-05-94, Rome, Roma
+28, Mattia Sprocati, ITA, F, 1.78, 70, 28-04-93, Monza, Pro Vercelli
+29, Francesco Felicetti, ITA, F, , , 08-10-99, Corigliano Calabro, Corigliano
+30, Alessandro Rossi, ITA, F, 1.84, 77, 03-01-97, Rome, Lazio
+31, Salvatore Monaco, ITA, D, 1.92, 83, 15-08-92, Naples, Perugia
+32, Bruno Capasso, ITA, G, 1.85, , 25-02-00, Naples, None
+33, Stefano Russo, ITA, G, 1.85, 79, 06-03-89, Nardò, Vibonese
+34, Ştefan Popescu, ROU, D, 1.80, 75, 05-05-93, Iaşi, Modena
+35, Mattia Novella, ITA, D, 1.78, 72, 25-01-01, Salerno, None
+36, Pasquale De Sarlo, ITA, F, , , 06-05-99, Battipaglia, Avellino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Roberto, POR, F, 1.80, 75, 28-11-88, Porto, Arouca (On Loan)
+15, Daniel Adejo, NGA, D, 1.83, 80, 07-08-89, Kachia, Kerkyra
+9, João Silva, POR, F, 1.86, 80, 21-05-90, Vila das Aves, Feirense
+25, Gerardo Carrafiello, ITA, F, , , 09-08-99, Salerno, Rieti (On Loan)
+19, Leonardo Gatto, ITA, F, 1.79, 72, 28-04-92, Trebisacce, Virtus Entella
+31, Emanuele Cicerelli, ITA, F, 1.77, 71, 12-08-94, San Giovanni Rotondo, Pordenone (On Loan)
+15, Giuseppe Rizzo, ITA, M, 1.79, 71, 18-03-91, Messina, Catania (On Loan)
+18, Sofiane Ahmed-Kadi, FRA, F, 1.77, 70, 18-04-97, Lyon, Alessandria (On Loan)
+9, Alejandro Rodríguez, ESP, F, 1.80, 79, 30-07-91, Barcelona, Chievo Verona
+11, Alex, POR, F, 1.76, 68, 27-08-91, Funchal, Pro Vercelli (On Loan)
+29, Gabriele Perico, ITA, D, 1.83, 75, 11-03-84, Bergamo, Livorno

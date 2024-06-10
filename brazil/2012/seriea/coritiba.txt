@@ -1,0 +1,65 @@
+=  Coritiba - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Paranavaí
+2, Ayrton, BRA, D, 1.76, 73, 19-04-85, Piracicaba, Londrina
+3, Emerson Silva, BRA, D, 1.86, 83, 03-05-83, Taguatinga, Avaí
+4, Pereira, BRA, D, 1.89, 88, 30-07-79, Guarulhos, Grêmio
+5, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, None
+6, Denis, BRA, D, 1.69, 68, 22-04-90, Pirassununga, Atlético Paranaense
+7, Rafinha, BRA, M, 1.67, 61, 04-08-83, Guarulhos, São Paulo
+8, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Avaí
+9, Deivid, BRA, F, 1.80, 73, 22-10-79, Nova Iguaça, Flamengo
+10, Lincoln, BRA, M, 1.77, 71, 22-01-79, Belo Horizonte, Palmeiras
+11, Éverton, BRA, F, 1.81, 71, 06-01-86, Ponta Grossa, Caxias
+12, Bruno Fuso, BRA, G, 1.94, 83, 30-01-88, Limeira, Ponte Preta
+13, Gil, BRA, M, 1.68, 66, 09-03-87, Santo Antônio, Santo André
+14, Demerson, BRA, D, 1.84, 81, 16-03-86, Belo Horizonte, Cabofriense
+15, Chico, BRA, M, 1.85, 83, 02-02-87, Pato Branco, Palmeiras
+16, Eltinho, BRA, D, 1.71, 66, 07-07-87, Guaira, Avaí
+17, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Corinthians
+18, Anderson Aquino, BRA, F, 1.74, 70, 18-12-86, Foz do Iguaçu, Atlético Paranaense
+19, Keirrison, BRA, F, 1.81, 63, 03-12-88, Dourados, Barcelona
+20, Roberto, BRA, F, 1.76, 66, 19-12-85, Veranópolis, FC Tokyo
+21, Luccas Claro, BRA, D, 1.82, 83, 20-10-91, Ribeirão Preto, None
+22, Sergio Escudero, ARG, M, 1.95, 82, 12-04-83, Punta Alta, Argentinos Juniors
+23, Júnior Urso, BRA, M, 1.82, 82, 10-03-89, Taboão da Serra, Avaí
+24, Victor Brasil, BRA, G, 1.92, 85, 01-05-93, Rio de Janeiro, None
+25, Alex, BRA, F, 1.73, 76, 19-12-93, Grajaú, None
+26, Henrique, BRA, D, 1.75, 70, 23-12-91, Porto Alegre, Paraná
+27, Thiago Primão, BRA, M, 1.63, 71, 11-02-93, Curitiba, None
+28, Émerson Santos, BRA, M, 1.78, 73, 27-02-92, Feira de Santana, Grêmio
+29, Rafael Silva, BRA, M, 1.76, 71, 04-04-92, São Paulo, None
+31, Marcel, BRA, F, 1.87, 87, 12-11-81, Mirassol, Suwon Samsung Bluewings
+32, Jackson, BRA, D, 1.82, 85, 11-05-90, Porto Alegre, Boa
+33, Diego, BRA, D, 1.90, 86, 13-03-90, Tarumã, Audax Rio
+34, Bonfim, BRA, D, 1.88, 81, 24-07-91, Salvador, None
+35, Sérgio Manoel, BRA, M, 1.77, 82, 08-09-89, Xique-Xique, Mirassol
+36, Timbó, BRA, D, 1.84, 73, 29-05-90, Timbó, None
+37, Cleiton, BRA, D, 1.87, 76, 11-07-81, Porto Alegre, Roma-PR
+38, Willian Leandro, BRA, M, 1.74, 67, 31-07-85, Osasco, Corinthians
+39, Artur, BRA, M, 1.79, 76, 14-05-91, Santo Antônio do Sudoeste, None
+40, Rafael Martins, BRA, G, 1.90, 79, 29-11-91, Pariquera-Açu, None
+41, Jefferson Luis, BRA, F, 1.81, 83, 23-11-83, Guaíba, São José-PA
+44, Vaná, BRA, G, 1.94, 80, 25-04-91, Planaltina, None
+45, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Bragantino
+46, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Paraná
+47, Raúl Ruidíaz, PER, F, 1.70, 62, 25-07-90, Lima, Universidad de Chile
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Édson Bastos, BRA, G, 1.87, 76, 03-11-79, Foz do Iguaçu, Ponte Preta
+, Lima, BRA, M, 1.77, 68, 10-05-91, Belo Horizonte, Mogi Mirim
+, Renan Oliveira, BRA, M, 1.82, 72, 29-12-89, Itabira, Atlético Mineiro
+, Djair, BRA, M, 1.72, 72, 10-02-91, Barretos, Joinville (On Loan)
+, Geraldo, ANG, M, 1.68, 63, 23-11-91, Luanda, Paraná (On Loan)
+, Caio Vinícius, BRA, F, 1.86, 80, 03-04-90, Vila Velha, Feirense (On Loan)
+, Tcheco, BRA, M, 1.80, 77, 11-04-76, Curitiba, Retired
+, Rafhael Lucas, BRA, F, 1.74, 71, 30-11-92, Curitiba, Arapongas (On Loan)
+, Jonas, BRA, D, 1.81, 77, 10-02-87, Votuporanga, Vasco da Gama
+, Bernardo, BRA, D, 1.75, 66, 18-01-92, Belo Horizonte, Trofense (On Loan)
+9, Leonardo, BRA, F, 1.85, 77, 26-10-82, Nova Lima, Atlético Mineiro
+6, Lucas Mendes, BRA, D, 1.83, 81, 03-07-90, Curitiba, Marseille
+30, França, BRA, M, 1.88, 82, 21-04-91, Bauru, Noroeste
+42, Dirceu, BRA, D, 1.89, 80, 05-01-88, Ibaiti, América Mineiro (On Loan)

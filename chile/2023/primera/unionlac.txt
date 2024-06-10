@@ -1,0 +1,43 @@
+=  Unión La Calera - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Otárola, ARG, G, 1.81, 80, 04-02-86, Capital Federal, Defensores de Belgrano
+2, Hernán Lópes, ARG, D, 1.80, 80, 28-03-91, Lomas de Zamora, San Martín (Tucumán)
+3, Juan Pablo Freytes, ARG, D, 1.87, 83, 11-01-00, Ticino, Newell's Old Boys
+4, Leandro Díaz, CHI, D, 1.73, 67, 16-03-99, Curicó, Deportes La Serena
+6, Patricio Flores, CHI, D, 1.75, 67, 30-01-02, Santiago, Universidad Católica
+7, Esteban Valencia, CHI, M, 1.73, 72, 13-08-99, Santiago, Universidad de Chile
+10, Matías Cavalleri, CHI, F, 1.68, 60, 08-04-98, Vitacura, Curicó Unido
+11, Nicolás Orellana, CHI, F, 1.80, 67, 03-09-95, Santiago, Audax Italiano
+12, Omar Carabalí, ECU, G, 1.86, 74, 12-06-97, Guayaquil, Colo-Colo
+13, Enzo Ferrario, CHI, D, 1.82, 75, 03-03-00, Santiago, Deportes La Serena
+14, Nicolás Peñailillo, CHI, D, 1.76, 75, 13-06-91, Viña del Mar, Deportes Antofagasta
+15, Sebastián Lomónaco, ARG, F, 1.78, 73, 17-09-98, Avellaneda, Godoy Cruz (Mendoza)
+16, Abel Moreno, CHI, M, 1.70, 63, 17-04-02, Punta Arenas, San Luis de Quillota
+17, Francisco Salinas, CHI, D, 1.78, 71, 04-12-99, San Felipe, Unión San Felipe
+18, Diego Buonanotte, ARG, M, 1.60, 56, 19-04-88, Teodelina, Sporting Cristal
+19, Damian Moreno, CHI, F, 1.75, 72, 17-04-02, Punta Arenas, None
+20, Brayan Garrido, CHI, M, 1.80, 72, 22-01-99, Maipú, Deportes Melipilla
+21, César Pérez, CHI, M, 1.76, 66, 29-11-02, Cerrillos, Magallanes
+22, Diego Sanhueza, CHI, D, 1.78, 77, 30-06-02, -, Fernández Vial
+23, Tomás Asta-Buruaga, CHI, D, 1.85, 70, 11-10-96, Las Condes, Universidad Católica
+24, Nicolás Aedo, CHI, M, 1.68, 55, 06-04-01, Puente Alto, Audax Italiano
+25, Joshua Tapia, CHI, G, 1.82, 80, 18-07-03, -, None
+26, Farick Haddad, CHI, M, 1.67, 57, 19-12-02, La Calera, None
+27, John Salas, CHI, D, 1.73, 68, 12-10-96, -, Everton (Viña del Mar)
+28, Gonzalo Egido, CHI, D, -, -, 13-10-03, -, None
+29, Luis Robles, CHI, D, 1.87, 80, 19-11-00, Santiago, None
+30, Benjamín Astudillo, CHI, G, -, -, 27-12-06, -, None
+31, Sebastián Estay, CHI, D, -, -, 18-01-05, -, None
+32, Matías Ortíz, CHI, F, -, -, 23-09-03, -, None
+33, Bairo Riveros, CHI, F, 1.67, 62, 24-02-99, Los Andes, Unión San Felipe
+35, Augusto Max, ARG, M, 1.68, 69, 10-08-92, San Miguel de Tucumán, Cerro Largo
+36, Agustín Rodríguez, URU, F, 1.84, 73, 10-02-98, Montevideo, Juventud
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Nelson Acevedo, ARG, M, 1.79, 78, 11-07-88, Resistencia, Tacuary
+22, Juan Carlos Gaete, CHI, M, 1.74, 66, 21-05-96, Puente Alto, Colo-Colo
+9, Lucas Passerini, ARG, F, 1.89, 88, 16-07-94, Formosa, Belgrano (Córdoba)
+8, Williams Alarcón, CHI, M, 1.76, 69, 29-11-00, Santiago, Huracán

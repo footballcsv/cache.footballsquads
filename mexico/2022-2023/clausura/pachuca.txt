@@ -1,0 +1,37 @@
+=  Pachuca - Mexican Liga MX 2022/2023 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Kevin Álvarez, MEX, D, 1.77, 68, 15-01-99, Colima, None
+5, Óscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Liverpool [URU]
+6, Enzo Martínez, URU, D, 1.83, 75, 29-04-98, Artigas, Querétaro
+8, Cristian Arango, COL, F, 1.78, 78, 09-03-95, Medellín, Los Angeles FC
+9, Roberto de la Rosa, MEX, F, 1.80, 81, 04-01-00, Texcoco, None
+10, Erick Sánchez, MEX, M, 1.67, 64, 27-09-99, Gustavo A. Madero, None
+11, Avilés Hurtado, COL, M, 1.72, 65, 20-04-87, Timbiquí, Monterrey
+12, Mauricio Isaís, MEX, D, 1.75, 70, 09-04-01, Brownwood, León
+13, Luis Calzadilla, MEX, M, 1.68, 61, 14-01-00, Tepeji, None
+14, José Castillo, MEX, D, 1.79, 66, 02-12-01, Miguel Hidalgo, None
+15, Miguel Herrera, MEX, D, 1.82, 76, 03-04-89, Uruapan, León
+16, Javier López, MEX, M, 1.64, 63, 17-09-94, Torreón, Guadalajara
+18, Marino Hinestroza, COL, F, 1.70, 60, 08-07-02, Cali, América de Cali
+19, Paulino, ESP, M, 1.81, 75, 27-06-97, Santander, Málaga
+21, Francisco Figueroa, MEX, M, 1.69, 52, 13-06-99, Lázaro Cárdenas, Morelia
+22, Gustavo Cabral, ARG, D, 1.82, 81, 14-10-85, Isidro Casanova, Celta Vigo
+23, Óscar Murillo, COL, D, 1.83, 79, 18-04-88, Cali, Atlético Nacional
+24, Luis Chávez, MEX, M, 1.78, 73, 15-01-96, Ciudad Guzmán, Tijuana
+25, Carlos Moreno, MEX, G, 1.87, 80, 29-01-98, Tecomán, None
+26, Jahaziel Marchand, MEX, M, 1.73, 70, 28-09-01, Ciudad Juárez, None
+27, Fernando Ovelar, PAR, M, 1.72, 70, 06-01-04, Asunción, Cerro Porteño
+28, Daniel Hernández, MEX, M, 1.70, 67, 01-08-01, Florencio Villarreal, None
+29, Illian Hernández, MEX, F, 1.81, 83, 12-04-00, Fresnillo, Zacatecas
+30, Romario Ibarra, ECU, M, 1.74, 77, 24-09-94, Atuntaqui, Minnesota U
+31, José Eulogio, MEX, G, 1.78, 70, 11-02-04, Mexicali, None
+32, Leonardo Flores, MEX, F, 1.80, 70, 21-04-03, Monterrey, UANL Tigres
+33, Pedro Pedraza, MEX, M, 1.73, 68, 30-04-00, Monterrey, Zacatecas
+35, Bryan González, MEX, M, 1.81, 76, 10-04-03, Juárez, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Nicolás Ibáñez, ARG, F, 1.79, 75, 23-08-94, Venado Tuerto, UANL Tigres
+4, Miguel Tapias, MEX, D, 1.80, 72, 08-01-97, Hermosillo, Minnesota U

@@ -1,0 +1,37 @@
+=  Vélez Sarsfield - Argentinian Primera División 2012/13 Inicial
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Germán Montoya, ARG, G, 1.85, 75, 23-01-83, Córdoba, Belgrano (Córdoba)
+2, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, None
+3, Emiliano Papa, ARG, D, 1.69, 67, 19-04-82, Acébal, Rosario Central
+4, Gino Peruzzi, ARG, D, 1.78, 66, 09-06-92, Corral de Bustos, None
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, UANL Tigres
+6, Sebastián Dominguez, ARG, D, 1.83, 67, 29-07-80, Capital Federal, América
+7, Jonathan Copete, COL, F, 1.84, 72, 23-01-88, Cali, Santa Fe
+9, Ezequiel Rescaldani, ARG, F, 1.91, 83, 11-06-92, San Miguel de Tucumán, None
+10, Federico Insúa, ARG, M, 1.79, 79, 03-01-80, Capital Federal, Bursaspor
+11, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, None
+12, Lucas Pratto, ARG, F, 1.88, 87, 04-06-88, La Plata, Genoa
+13, Sebastián Sosa, URU, G, 1.80, 77, 19-08-86, Montevideo, Boca Juniors
+14, Facundo Ferreyra, ARG, F, 1.86, 83, 14-03-91, Lomas de Zamora, Banfield
+15, Mariano Bíttolo, ARG, D, 1.74, 65, 24-04-90, Morón, None
+16, Federico Freire, ARG, M, 1.80, 81, 06-11-90, Capital Federal, None
+17, Franco Razzotti, ARG, M, 1.81, 78, 06-02-85, Capital Federal, None
+18, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Quilmes
+19, Juan Sills, ARG, D, 1.80, 76, 04-05-87, San Antonio de Areco, None
+20, Brian Ferreira, ARG, M, 1.73, 64, 24-05-94, Capital Federal, None
+21, Agustín Allione, ARG, M, 1.69, 69, 28-10-94, Santa Fe, None
+22, Emanuel Olivera, ARG, D, 1.77, 71, 02-04-90, Capital Federal, None
+23, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, None
+24, Iván Bella, ARG, M, 1.80, 72, 13-09-89, San Martín, None
+25, Alan Aguerre, ARG, G, 1.81, 76, 23-08-90, Capital Federal, None
+26, Eduardo Pucheta, ARG, F, 1.70, 64, 21-06-92, San Nicolás, None
+27, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+28, Ramiro Cáseres, ARG, F, 1.88, 83, 09-01-94, Ituzaingó, None
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, None
+30, Sebastián Álvarez, ARG, D, 1.76, 74, 30-11-92, Mar del Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Augusto Fernández, ARG, M, 1.77, 71, 10-04-86, Pergamino, Celta Vigo

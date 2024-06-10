@@ -1,0 +1,33 @@
+=  Atlas - Mexican Liga MX 2023/2024 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Hernández, MEX, G, 1.83, 75, 01-05-97, Guadalajara, None
+2, Hugo Nervo, ARG, D, 1.83, 82, 06-01-91, San Nicolás, Santos Laguna
+3, Idekel Domínguez, MEX, D, 1.71, 65, 02-06-00, Coyoacán, Necaxa
+4, José Abella, MEX, D, 1.75, 71, 10-02-94, Córdoba, Santos Laguna
+5, Anderson Santamaría, PER, D, 1.85, 80, 10-01-92, Tingo María, Puebla
+6, Edgar Zaldivar, MEX, M, 1.73, 67, 17-10-96, San Luis Potosí, None
+8, Mateo García, ARG, M, 1.67, 55, 10-09-96, Córdoba, Aris
+10, Brian Lozano, URU, M, 1.67, 65, 23-02-94, Montevideo, Santos Laguna
+11, Mauro Manotas, COL, F, 1.83, 71, 15-07-95, Sabanalarga, Tijuana
+12, Camilo Vargas, COL, G, 1.85, 81, 09-03-89, Bogotá, Deportivo Cali
+13, Gaddi Aguirre, MEX, D, 1.73, 58, 31-03-96, Guadalajara, None
+14, Luis Reyes, MEX, D, 1.81, 66, 03-04-91, Monterrey, América
+17, Jaziel Martínez, MEX, M, 1.75, 71, 03-10-00, Saltillo, Monterrey
+18, Ángel Márquez, MEX, M, 1.77, 68, 21-06-00, Guadalajara, None
+19, Edyairth Ortega, MEX, M, 1.76, 64, 23-01-97, Jalisco, None
+20, Juan Zapata, COL, M, 1.78, 71, 19-05-00, Chigorodó, Envigado
+21, Carlos Robles, MEX, D, 1.80, 80, 11-07-00, Tepic, None
+22, Augusto Solari, ARG, M, 1.80, 80, 03-01-92, Rosario, Celta Vigo
+23, Jordy Caicedo, ECU, F, 1.85, 82, 18-11-97, Machala, UANL Tigres
+24, Christopher Trejo, MEX, F, 1.78, 79, 02-12-99, Guadalupe, None
+26, Aldo Rocha, MEX, M, 1.65, 62, 06-11-92, León, Mazatlán
+30, Eduardo Aguirre, MEX, F, 1.76, 75, 03-08-98, San Pedro, Santos Laguna
+32, José Lozano, MEX, D, 1.70, 70, 05-10-98, Guadalajara, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Ozziel Herrera, MEX, F, 1.83, 72, 23-05-01, Culiacán, UANL Tigres
+9, Julio César Furch, ARG, F, 1.79, 74, 29-07-89, Santa Rosa, Santos
+35, Brayton Vázquez, MEX, D, 1.81, 78, 05-03-98, Zapopan, Dorados de Sinaloa

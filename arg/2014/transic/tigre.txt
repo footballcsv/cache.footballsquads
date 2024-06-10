@@ -1,0 +1,31 @@
+=  Tigre - Argentinian Primera División 2014 Transición
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Boca Juniors
+2, Erik Godoy, ARG, D, 1.84, 72, 16-08-93, Capital Federal, None
+3, Juan Blengio, ARG, D, 1.85, 85, 26-06-80, San Fernando, None
+4, Pablo Cáceres, URU, D, 1.81, 75, 22-04-85, Montevideo, Rangers (Talca)
+5, Joaquín Arzura, ARG, M, 1.70, 71, 18-05-93, Campana, None
+6, Gabriel Peñalba, ARG, M, 1.80, 75, 23-09-84, Quilmes, Argentinos Juniors
+7, Carlos Luna, ARG, F, 1.78, 78, 17-01-82, Piquillín, Rosario Central
+8, Martín Galmarini, ARG, M, 1.80, 77, 28-02-82, San Isidro, Atlante
+9, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Dynamo Kyiv
+10, Lucas Wilchez, ARG, M, 1.72, 65, 31-08-83, La Plata, Colo-Colo
+11, Kevin Itábel, ARG, F, 1.79, 75, 20-08-93, Florida, None
+12, Fernando Lugo, ARG, G, 1.88, 81, 07-07-94, Capital Federal, None
+13, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, Kayserispor
+14, Emiliano Ellacópulos, ARG, M, 1.75, 67, 14-01-92, Munro, None
+15, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, None
+16, Pablo Vitti, ARG, F, 1.78, 74, 09-07-85, Rosario, LQU Quito
+17, Santiago Izaguirre, ARG, D, 1.85, 79, 30-10-94, Quilmes, None
+18, Sebastián Rusculleda, ARG, M, 1.75, 74, 28-04-85, Laboulaye, Deportivo Quito
+19, Sebastián Rincón, COL, F, 1.85, 80, 14-01-94, Cali, Atenas
+20, Facundo Sánchez, ARG, M, 1.75, 73, 07-03-90, Sa Pereyra, Defensa y Justicia
+21, Sebastián Silguero, ARG, D, 1.82, 75, 01-01-92, Formosa, River Plate
+22, Ignacio Canuto, ARG, D, 1.76, 76, 20-02-86, Santa Fe, LDU Quito
+23, Leandro Garate, ARG, F, 1.75, 75, 02-09-93, Villa Constitución, None
+24, Ignacio Bonadío, ARG, D, 1.74, 70, 27-07-93, Capital Federal, Boca Juniors
+25, Nicolás Pantaleone, ARG, D, 1.80, 75, 18-02-93, Capital Federal, River Plate
+26, Lucas Menossi, ARG, M, 1.65, 65, 20-07-92, Beccar, None
+27, Walter Acevedo, ARG, M, 1.74, 75, 16-02-86, San Justo, River Plate
+28, Leandro Leguizamón, ARG, F, 1.81, 76, 04-12-88, Capital Federal, None

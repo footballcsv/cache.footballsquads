@@ -1,0 +1,41 @@
+=  Eibar - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yoel, ESP, G, 1.86, 78, 28-08-88, Vigo, Valencia
+2, Fabián Orellana, CHI, M, 1.69, 68, 27-01-86, Santiago, Valencia
+3, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Espanyol
+4, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Levante
+5, Gonzalo Escalante, ARG, M, 1.82, 76, 27-03-93, Bella Vista, Catania
+6, Vukašin Jovanović, SRB, D, 1.88, 80, 17-05-96, Belgrade, Bordeaux
+7, Ander Capa, ESP, D, 1.73, 70, 08-02-92, Portugalete, Eibar B
+8, Takashi Inui, JPN, M, 1.69, 59, 02-06-88, Ōmihachiman, Eintracht Frankfurt
+9, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella de Menorca, Numancia
+11, Rubén Peña, ESP, M, 1.70, 65, 18-07-91, Ávila, Leganés
+12, Paulo Oliveira, POR, D, 1.87, 78, 08-01-92, Vila Nova de Famalicão, Sporting CP
+13, Asier Riesgo, ESP, G, 1.85, 76, 06-10-83, Deba, Osasuna
+14, Dani García, ESP, M, 1.80, 75, 24-05-90, Zumarraga, Real Sociedad B
+15, José Ángel, ESP, D, 1.82, 77, 05-09-89, Gijón, FC Porto
+16, Fran Rico, ESP, M, 1.78, 72, 03-08-87, Portonovo, Granada
+17, Kike, ESP, F, 1.86, 79, 25-11-89, Motilla del Palancar, Middlesbrough
+18, Anaitz Arbilla, ESP, D, 1.78, 76, 15-05-87, Pamplona, Espanyol
+19, Charles, BRA, F, 1.79, 76, 04-04-84, Belem, Málaga
+20, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Alcorcón
+21, Pedro León, ESP, M, 1.83, 70, 24-11-86, Mula, Getafe
+22, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Granada
+23, David Juncà, ESP, D, 1.75, 67, 16-11-93, Riumors, Girona
+24, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Espanyol
+25, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Alcorcón
+26, Imanol Sarriegi, ESP, M, 1.82, 70, 27-04-95, San Sebastián, Vitoria
+27, Markel Areitio, ESP, G, 1.80, 68, 07-09-96, Iurreta, Vitoria
+29, Branimir Cipetić, CRO, D, 1.84, 82, 24-05-95, Split, Elche B
+31, Julen López, ESP, D, 1.78, 76, 24-09-96, Eibar, Vitoria
+32, Julen Azkue, ESP, M, , , 21-09-95, Zarautz, Vitoria
+35, Ángel López, ESP, M, , , 07-02-97, Sax, Alcoyano
+41, Francesc Regis, ESP, F, 1.80, 76, 30-09-96, Palma de Mallorca, Vitoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Las Palmas (On Loan)
+6, Cristian Rivera, ESP, M, 1.90, 80, 09-07-97, Gijón, Barcelona B (On Loan)
+10, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Rayo Vallecano (On Loan)

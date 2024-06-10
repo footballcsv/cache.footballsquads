@@ -1,0 +1,59 @@
+=  Ceará - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Confiança
+3, Valdo, BRA, D, 1.83, 77, 10-02-92, Aracaju, Confiança
+4, Eduardo Brock, BRA, D, 1.85, 82, 06-05-91, Arroio do Meio, Goiás
+5, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Alagoano
+6, Felipe Jonatan, BRA, D, 1.76, 76, 15-02-98, Fortaleza, None
+7, Éder Luís, BRA, F, 1.70, 69, 19-04-85, Uberaba, Red Bull Brasil
+8, Ricardinho, BRA, M, 1.75, 64, 15-12-85, Rosário do Sul, Al-Ettifaq
+9, Romário, BRA, F, 1.86, 84, 27-10-92, Fortaleza, Kalmar FF
+10, Javier Reina, COL, M, 1.73, 70, 04-01-89, Cali, Deportivo Pasto
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Chiangrai U
+12, Renan, BRA, G, 1.86, 86, 24-01-85, Viamao, Goiás
+13, Luiz Otávio, BRA, D, 1.90, 84, 14-09-88, Carmo, Angra dos Reis
+18, Kendy, BRA, M, , , 01-06-99, São José do Rio Preto, Grêmio
+19, Alex Amado, BRA, F, 1.67, 67, 29-04-87, Porto Alegre, Brasil de Pelotas
+20, Juninho, BRA, M, 1.75, 70, 20-03-86, Rio de Janeiro, Bahia
+21, Juninho Quixadá, BRA, F, 1.70, 62, 12-12-85, Senador Pompeu, Ferroviário
+22, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Sport Recife
+23, Jown Cardona, COL, M, 1.69, 68, 09-01-95, Cali, Deportivo Cali
+25, Calyson, BRA, F, 1.74, 69, 25-02-93, Manhuaçu, Brasil de Pelotas
+26, Richardson, BRA, M, 1.72, 69, 17-08-91, Natal, Confiança
+27, Wescley, BRA, M, 1.66, 64, 11-10-91, Rio de Janeiro, Vissel Kobe
+31, Matheus Cabral, BRA, G, 1.87, 84, 03-08-98, Niterói, Botafogo
+36, Tiago Alves, BRA, D, 1.86, 78, 29-05-84, Belo Horizonte, Red Bull Brasil
+40, Arthur Cabral, BRA, F, 1.86, 86, 25-04-98, Campina Grande, None
+55, Matheus Lira, BRA, M, , , 19-01-98, Sobral, None
+70, Eduardo, BRA, F, , , 20-05-99, , None
+77, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, Internacional
+80, Leandro Carvalho, BRA, F, 1.72, 70, 10-05-95, Belém, Botafogo
+83, Fernando Henrique, BRA, G, 1.89, 82, 25-11-83, Rio de Janeiro, Villa Nova
+86, Diogo Silva, BRA, G, 1.92, 80, 08-07-86, Cuiabá, Luverdense
+88, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Terek Grozny
+89, Arnaldo, BRA, D, 1.73, 68, 15-04-92, Uberaba, Botafogo
+90, Juninho, BRA, F, 1.79, 68, 26-02-99, Amarante, Sport Recife
+91, João Lucas, BRA, D, 1.84, 79, 08-06-91, Bela Vista do Paraíso, Figueirense
+95, Robinho, BRA, F, 1.66, 62, 19-01-95, Madalena, None
+97, Patrick, BRA, D, 1.86, 80, 03-06-97, São Leopoldo, Cruzeiro
+99, Ricardo Bueno, BRA, F, 1.88, 70, 15-08-87, São Paulo, São Bento
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Leandro Silva, BRA, D, 1.81, 76, 22-09-88, Sorocaba, Avaí (On Loan)
+77, Roberto, BRA, F, 1.76, 66, 19-12-85, Veranópolis, Ponte Preta
+19, Ernandes, BRA, M, 1.73, 71, 11-11-87, São Felix do Araguaia, Goiás
+17, Raul, BRA, M, 1.80, 73, 11-07-96, Tauá, Vasco da Gama
+35, Rafael Carioca, BRA, D, 1.75, 72, 18-07-92, Rio de Janeiro, Linense
+4, Bruno Pires, BRA, D, 1.84, 80, 12-05-92, Osvaldo Cruz, 
+5, Naldo, BRA, M, 1.85, 75, 13-05-90, Maitinga, Al-Fayha
+32, Douglas Coutinho, BRA, F, 1.83, 71, 08-02-94, Volta Redonda, Atlético Paranaense
+33, Rafael Pereira, BRA, D, 1.83, 73, 18-11-84, Rio do Sul, Chapecoense
+17, Hyuri, BRA, F, 1.84, 75, 26-09-91, Rio de Janeiro, Atlético Mineiro
+30, Pio, BRA, D, 1.72, 65, 23-01-88, Fortaleza, Alagoano
+99, Élton, BRA, F, 1.85, 84, 01-08-85, Iramaia, Figueirense
+18, Luidy, BRA, F, 1.67, 65, 21-07-96, União dos Palmares, Corinthians
+87, Jackson, BRA, M, 1.77, 71, 21-01-87, Caucaia, 
+37, Romário Guilherme, BRA, D, 1.71, 71, 13-03-92, Diadema, Santos

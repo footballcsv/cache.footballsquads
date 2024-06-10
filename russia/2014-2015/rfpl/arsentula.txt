@@ -1,0 +1,49 @@
+=  Arsenal Tula - Russian Football Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksandr Filimonov, RUS, G, 1.93, 90, 15-10-73, Yoshkar-Ola, Lokomotiv Tashkent
+2, Ivan Yershov, RUS, D, 1.72, 70, 22-05-79, Polyarnye Zori, Chernomorets Novorossiysk
+3, Ivan Lozenkov, RUS, D, 1.84, 74, 14-04-84, , Dnepr Smolensk
+4, Andrey Vasilyev, RUS, D, 1.84, 77, 11-02-92, St. Petersburg, FC Rostov
+5, Anri Khagush, RUS, D, 1.77, 74, 23-09-86, Gagra, BATE
+7, Aleksandr Zotov, RUS, M, 1.72, 64, 27-08-90, Askiz, Spartak Moscow
+8, Sergey Sukharev, RUS, D, 1.83, 83, 29-01-87, Stary Oskol, Metallurg-Oskol
+9, Vladimir Korytko, BLR, M, 1.77, 73, 06-07-79, Minsk, Shinnik
+10, Sergey Kuznetsov, RUS, M, 1.80, 73, 07-05-86, Oryol, Mordovia Saransk
+11, Florin Costea, ROU, F, 1.84, 77, 16-05-85, Drăgăşani, CFR Cluj
+14, Sergey Maslov, RUS, F, 1.76, 72, 03-09-90, Moscow, FC Khimki
+16, Sergey Kotov, RUS, G, 1.86, 83, 17-03-82, Kamyshin, FC Khimki
+18, Mladen Kašćelan, MNE, M, 1.78, 70, 13-02-83, Kotor, Panthrakikos
+19, Yevgeniy Osipov, RUS, D, 1.89, 87, 29-10-86, Temryuk, FC Ufa
+20, Rinat Timokhin, RUS, F, 1.92, 89, 28-02-88, Yelets, Metallurg Lipetsk
+21, Pavel Sergeev, RUS, M, 1.76, 70, 20-06-93, Kamyshin, Spartak Moscow-2
+22, Lukáš Tesák, SVK, D, 1.75, 72, 08-03-85, Žiar nad Hronom, Torpedo Moscow
+23, Igor Kaleshin, RUS, D, 1.89, 82, 29-05-83, Maykop, Volgar Astrakhan
+24, Dmitriy Smirnov, RUS, M, 1.97, 87, 13-08-80, Moscow, Volyn Lutsk
+28, Vladislav Rizhkov, RUS, M, 1.68, 67, 28-02-90, Voronezh, Sibir Novosibirsk
+30, Maksim Klikin, RUS, G, 1.92, 85, 30-04-81, Moscow, Fakel Voronezh
+38, Artur Maloyan, RUS, M, 1.80, 73, 04-02-89, Krasnodar, Shinnik
+42, Evgeniy Ezhov, RUS, D, 1.79, 73, 11-02-95, Rzhanitsa, Spartak Moscow-2
+44, Yuriy Medvedev, RUS, D, 1.88, 82, 03-01-90, , FC Plavsk
+48, Aleksandr Kutyin, RUS, F, 1.88, 80, 13-02-86, Yelets, Metallurg Lipetsk
+54, Aleksandr Zakarlyuka, RUS, F, 1.78, 71, 24-06-95, Kohtla-Järve, Volga Nizhny Novgorod
+55, Artur Farion, RUS, D, 1.83, 78, 27-01-95, Tula, FC Kaluga
+57, Aleksey Skornyakov, RUS, G, 1.86, 73, 16-03-93, Dubna, Sokol Saratov
+63, Aleksandr Chibirov, RUS, D, 1.85, 79, 28-02-92, Moscow, FC Kolomna
+75, Evgeniy Alferov, RUS, D, 1.73, 70, 31-01-95, Taldykorgan, Zenit St Petersburg
+77, Maksim Lepskiy, RUS, M, 1.80, 74, 07-12-85, , FC Ufa
+81, Roman Salimov, RUS, M, 1.69, 60, 24-03-95, Novyi Rozdil, Kuban Krasnodar-2
+85, Aleksandr Kryuchkov, RUS, M, 1.75, 68, 20-07-85, Dubovka, Mostovik-Primorye Ussuriysk
+86, Leonid Boev, RUS, F, 1.84, 83, 19-01-86, Tula, Titan Klin
+89, Dimitiry Starodub, RUS, M, 1.81, 71, 19-05-95, Vladivostok, Dynamo Moscow-2
+90, Andrey Lyakh, RUS, M, 1.90, 80, 24-09-90, Rostov-on-Don, Spartak Kostroma
+92, Andrey Naletov, RUS, D, 1.88, 82, 31-03-96, Domodedovo, Volga Nizhny Novgorod
+99, Ján Mucha, SVK, G, 1.89, 87, 05-12-82, Belá nad Cirochou, Krylia Sovetov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Sergey Ignatyev, RUS, M, 1.78, 70, 09-12-86, Chelyabinsk, Irtysh Pavlodar (On Loan)
+99, Maksim Votinov, RUS, F, 1.90, 82, 29-08-88, St. Petersburg, FC Tosno
+11, Aleksey Bazanov, RUS, F, 1.85, 81, 24-01-86, Zheleznogorsk, Baltika Kaliningrad (On Loan)
+88, Aleksandr Makarenko, RUS, M, 1.83, 73, 04-02-86, Moscow, Baltika Kaliningrad (On Loan)

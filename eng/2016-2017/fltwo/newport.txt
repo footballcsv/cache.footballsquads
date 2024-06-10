@@ -1,0 +1,57 @@
+=  Newport County - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Day, ENG, G, 1.83, 76, 13-08-90, Brighton, Peterborough U
+2, Jazzi Barnum-Bobb, ENG, D, 1.75, 65, 15-09-95, Enfield, Cardiff C
+3, Dan Butler, ENG, D, 1.75, 75, 26-08-94, Cowes, Torquay U
+4, Darren Jones, WAL, D, 1.85, 91, 28-08-83, Newport, Forest Green R
+5, Jamie Turley, ENG, D, 1.85, 82, 07-04-90, Reading, Eastleigh
+6, Joss Labadie, ENG, M, 1.70, 72, 30-08-90, Croydon, Dagenham & Redbridge
+7, Jack Compton, WAL, M, 1.73, 67, 02-09-88, Cardiff, Yeovil T
+8, Mark Randall, ENG, M, 1.83, 82, 28-09-89, Milton Keynes, Barnet
+9, Craig Reid, ENG, F, 1.78, 74, 17-12-88, Coventry, Gloucester C
+10, Lenell John-Lewis, ENG, F, 1.78, 85, 17-05-89, Hammersmith, Grimsby T
+11, Jennison Myrie-Williams, ENG, M, 1.83, 76, 17-05-88, Bristol, Sligo R
+12, Ben Tozer, ENG, D, 1.86, 81, 01-03-90, Plymouth, Yeovil T
+13, Marlon Jackson, ENG, F, 1.88, 81, 06-12-90, Bristol, Oxford C
+14, Paul Bignot, ENG, D, 1.85, 78, 14-02-86, Birmingham, Solihull Moors
+15, Alex Samuel, WAL, F, 1.82, 75, 20-09-95, Neath, Swansea C
+16, Josh Sheehan, WAL, M, 1.84, 75, 30-03-95, Pembrey, Swansea C
+17, Scot Bennett, ENG, D, 1.78, 81, 30-11-90, Truro, Notts Co
+18, David Pipe, WAL, D, 1.75, 77, 05-11-83, Caerphilly, Eastleigh
+19, Sid Nelson, ENG, D, 1.85, 75, 01-01-95, Lewisham, Millwall
+20, Tom Owen-Evans, WAL, F, 1.80, 66, 18-03-97, Bristol, None
+21, Liam Angel, WAL, M, 1.80, 76, 17-03-99, Newport, Cardiff C
+22, Kieran Parselle, ENG, D, 1.83, 75, 01-12-96, Bristol, None
+23, Michael Flynn, WAL, M, 1.78, 81, 17-10-80, Newport, Undy Ath
+24, Flo Bojaj, KVX, F, 1.83, 82, 13-04-96, , Huddersfield T
+25, Mark O'Brien, IRL, D, 1.80, 77, 20-11-92, Dublin, Luton T
+26, Tom Meechan, ENG, F, 1.81, 74, 26-01-91, Cambridge, St Neots T
+27, Sean Rigg, ENG, M, 1.75, 77, 01-10-88, Bristol, AFC Wimbledon
+28, Mickey Demetriou, ENG, D, 1.88, 79, 12-03-90, Durrington, Shrewsbury T
+29, Marcus Beauchamp, ENG, G, 1.86, 75, 06-10-97, Bristol, Norwich C
+30, James Bittner, ENG, G, 1.88, 83, 02-02-82, Devizes, Plymouth Arg
+31, Dion Molyneux, WAL, D, , , 02-06-98, Newbridge, None
+32, Finlay Wood, WAL, D, , , 15-03-97, Newport, None
+35, Momodou Touray, WAL, F, 1.80, 66, 30-07-99, , None
+36, Joe Hunt, WAL, D, , , , , None
+38, Mitch Rose, ENG, M, 1.75, 78, 04-07-94, Doncaster, Mansfield T
+40, Ryan Bird, ENG, F, 1.93, 79, 15-11-87, Slough, Eastleigh
+41, Aaron Williams, ENG, F, 1.80, 79, 21-10-93, Sandwell, Peterborough U
+42, Jaanai Gordon, ENG, F, 1.78, 65, 07-12-95, Nottingham, West Ham U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Jordan Green, ENG, F, 1.68, 72, 22-02-95, New Cross, Bournemouth
+18, Kyle Cameron, SCO, D, 1.90, 76, 15-01-97, Hexham, Newcastle U
+19, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Cardiff C
+28, Reece Grego-Cox, IRL, F, 1.70, 65, 12-11-96, Hammersmith, QPR
+23, Lewis Bamford, WAL, D, 1.78, 69, 23-11-97, Newport, Cinderford T
+24, Dafydd Jones, WAL, M, 1.75, 72, 05-06-98, Abergavenny, Aberystwyth T
+25, Ben Jones, WAL, D, 1.84, 70, 06-02-98, Newport, 
+9, Jonathan Parkin, ENG, F, 1.93, 86, 30-12-81, Barnsley, York C
+33, Jack Jebb, ENG, M, 1.82, 74, 11-09-95, Kensington, Sutton U
+34, Josh O'Hanlon, IRL, F, 1.83, 76, 25-09-95, Dublin, St Patrick's Ath
+40, Abdoulaye Méité, CIV, D, 1.85, 82, 06-10-80, Paris, 
+34, Maxime Blanchard, FRA, D, 1.80, 76, 27-09-86, Alençon, 

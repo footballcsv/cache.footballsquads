@@ -1,0 +1,51 @@
+=  Grêmio - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Flamengo
+2, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Santa Cruz
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Michel, BRA, M, 1.75, 67, 22-03-90, São Paulo, Novorizontino
+6, Leonardo Gomes, BRA, D, 1.83, 79, 30-06-96, Araguaína, Boa
+7, Luan, BRA, F, 1.80, 71, 27-03-93, São José do Rio Preto, América-SP
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, São Paulo
+9, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Shandong Luneng
+10, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Três Rios, Udinese
+11, Everton, BRA, F, 1.74, 72, 22-03-96, Fortaleza, Fortaleza
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+13, Rômulo, BRA, M, 1.84, 80, 19-09-90, Picos, Flamengo
+14, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, São Caetano
+16, Thaciano, BRA, M, 1.82, 73, 12-05-95, Campina Grande, Boa
+18, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, Fluminense
+21, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, None
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Fluminense
+23, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, Cruzeiro
+24, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, None
+25, Pepê, BRA, F, 1.75, 68, 24-02-97, Foz do Iguaçu, Foz do Iguaçu
+26, Marcelo Oliveira, BRA, D, 1.84, 76, 29-03-87, Salvador, Cruzeiro
+28, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Red Bull Salzburg
+29, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Corinthians
+30, Patrick, BRA, M, 1.76, 65, 23-11-98, Porto Alegre, None
+33, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Santos
+37, Darlan Mendes, BRA, M, 1.79, 72, 16-04-98, São Borja, None
+38, Rodrigues, BRA, D, 1.88, 77, 10-10-97, Carnaúba dos Dantas, None
+39, Guilherme Azevedo, BRA, F, 1.79, 74, 21-05-01, Apucarana, None
+40, Phelipe Megiolaro, BRA, G, 1.85, 82, 08-02-99, Campinas, None
+41, Da Silva, BRA, F, , , 11-03-99, Rio de Janeiro, None
+42, Rafael Galhardo, BRA, D, 1.76, 70, 30-10-91, Nova Friburgo, Vasco da Gama
+44, Ruan, BRA, D, 1.87, 74, 07-06-99, Tramandaí, None
+46, Isaque, BRA, M, 1.78, 75, 22-04-97, São Paulo, São Bento
+47, Ferreira, BRA, F, 1.75, 65, 31-12-97, Dourados, None
+48, Jhonata Varela, BRA, M, , , 04-07-00, Natal, ABC
+49, Jhonata Robert, BRA, F, 1.78, 71, 26-10-99, Recife, None
+53, Léo Chú, BRA, M, 1.76, 70, 04-06-00, Porto Alegre, None
+90, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Sport Recife
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Thonny Anderson, BRA, M, 1.84, 81, 27-12-97, São Paulo, Athletico Paranaense (On Loan)
+30, Marinho, BRA, M, 1.76, 62, 29-05-90, Penedo, Santos
+17, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, Santa Clara
+20, Walter Montoya, ARG, M, 1.82, 76, 21-07-93, Machagai, Cruz Azul
+15, Vico, BRA, F, 1.74, 68, 03-12-96, Cascavel, Ponte Preta (On Loan)

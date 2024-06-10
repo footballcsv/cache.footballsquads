@@ -1,0 +1,57 @@
+=  Rosario Central - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Julián Velázquez, ARG, D, 1.81, 83, 23-10-90, Corrientes, Tijuana
+3, Lautaro Blanco, ARG, D, 1.76, 81, 19-02-99, Rosario, None
+4, Damián Martínez, ARG, D, 1.77, 72, 31-01-90, Capital Federal, Unión (Santa Fe)
+5, Francis Mac Allister, ARG, M, 1.76, 72, 30-10-95, Capital Federal, Talleres (Córdoba)
+6, Juan Cruz Komar, ARG, D, 1.90, 78, 18-03-96, Rosario, Talleres (Córdoba)
+7, Marcelo Benítez, ARG, M, 1.78, 74, 13-01-91, San Francisco Solano, Defensa y Justicia
+8, Walter Montoya, ARG, M, 1.82, 76, 21-07-93, Machagai, Cruz Azul
+9, Jhonatan Candia, URU, F, 1.71, 63, 15-03-95, Montevideo, Huracán
+10, Michael Covea, VEN, M, 1.77, 75, 21-08-93, Caracas, Deportivo Táchira
+11, Luciano Ferreyra, ARG, M, 1.68, 63, 19-02-02, Rosario, None
+12, Juan Pablo Romero, ARG, G, 1.81, 82, 02-06-98, Elortondo, None
+13, José Luedo, COL, M, 1.82, 85, 09-11-93, Apartadó, Patriotas
+14, Nazareno Romero, ARG, D, 1.72, 69, 26-02-00, Monte Grande, Vélez Sarsfield
+15, Ignacio Malcorra, ARG, M, 1.70, 70, 24-07-87, Río Negro, Lanús
+16, Mateo Tanlongo, ARG, M, 1.81, 63, 08-12-03, Funes, None
+17, Alan Marinelli, ARG, F, 1.74, 70, 07-04-99, Rosario, None
+18, Francesco Lo Celso, ARG, M, 1.82, 77, 05-03-00, Rosario, Paris St-Germain
+19, Jorge Broun, ARG, G, 1.90, 90, 26-05-86, Rosario, Gimnasia y Esgrima (LP)
+20, Fernando Torrent, ARG, D, 1.79, 72, 02-10-91, Arrecifes, Defensores de Belgrano
+21, Juan Rodríguez, ARG, D, 1.84, 80, 28-02-94, General Alvear, Defensa y Justicia
+22, Franco Bustos, ARG, F, 1.70, 64, 17-04-02, Rosario, None
+23, Gaspar Servio, ARG, G, 1.82, 79, 09-03-92, General Belgrano, Guaraní [PAR]
+24, Alejo Véliz, ARG, F, 1.87, 77, 19-09-03, Bernardo de Irigoyen, None
+25, Juan Cruz Cerrudo, ARG, F, 1.68, 64, 20-01-04, San Genaro, None
+26, Ismael Cortez, ARG, D, 1.85, 78, 26-06-00, Mendoza, Gimnasia y Esgrima (Mendoza)
+27, Gino Infantino, ARG, M, 1.79, 75, 19-05-03, Rosario, None
+28, Gustavo Ramírez, PAR, F, 1.80, 66, 13-05-90, Yuty, Deportes Tolima
+29, Luca Martínez Dupuy, MEX, F, 1.80, 73, 05-06-01, San Luis Potosí, None
+30, Tomás O'Connor, ARG, M, 1.73, 66, 25-03-04, Rosario, None
+31, Mauricio Maslovski, ARG, G, 1.85, 75, 15-03-00, San Ignacio, None
+32, Facundo Almada, ARG, D, 1.77, 70, 10-07-98, Granadero Baigorria, None
+33, Cristian Báez, PAR, D, 1.80, 77, 09-04-90, San Lorenzo [PAR], Libertad
+34, Franco Frías, ARG, F, 1.74, 69, 17-03-02, Granadero Baigorria, None
+35, Ulises Ciccioli, ARG, D, 1.73, 66, 07-02-03, Bombal, None
+36, Jonatan Bogado, ARG, D, 1.80, 82, 24-01-01, Rosario, None
+37, Kevin Silva, ARG, D, 1.85, 78, 16-04-03, Rojas, None
+38, Fernando Rodríguez, ARG, D, 1.82, 79, 05-10-00, Villa Gobernador Gávez, None
+39, Fabricio Oviedo, ARG, F, 1.81, 76, 19-02-04, Concarán, None
+40, Facundo Buonanotte, ARG, M, 1.74, 66, 23-12-04, Pérez, None
+41, Julio Luques, ARG, M, 1.67, 54, 14-10-02, San Nicolás de los Arroyos, None
+42, Leandro Iglesias, ARG, M, 1.70, 68, 17-01-01, Rosario, None
+44, Ramiro Peralta, ARG, M, 1.70, 64, 22-04-03, Rosario, None
+45, Kevin Ortiz, ARG, M, 1.76, 70, 18-09-00, Roldán, None
+46, Joan Mazzaco, ARG, D, 1.70, 68, 25-04-00, Díaz, None
+47, Leonel Vergara, ARG, D, -, -, 23-05-01, Rosario, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Emmanuel Ojeda, ARG, M, 1.80, 72, 05-11-97, Goya, Universidad de Chile
+17, Milton Caraglio, ARG, F, 1.87, 89, 01-12-88, Rosario, San Luis de Quillota
+48, Ricardo Garay, PAR, D, 1.86, 80, 07-03-97, Encarnación, Nacional [PAR]
+22, Claudio Yacob, ARG, M, 1.81, 73, 18-07-87, Carcarañá, Universitario de Deportes
+28, Lucas Gamba, ARG, F, 1.65, 65, 24-06-87, Mendoza, LDU Quito

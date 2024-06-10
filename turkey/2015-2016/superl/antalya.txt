@@ -1,0 +1,51 @@
+=  Antalyaspor - Turkish Süper Lig 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ozan Evrim Özenç, TUR, G, 1.90, 81, 07-01-93, İzmir, Denizlispor
+2, Can Arat, TUR, D, 1.90, 82, 21-01-84, Kadiköy, İstanbul Başakşehir
+5, Sezer Badur, TUR, M, 1.81, 77, 20-06-84, Berlin, Şanlıurfaspor
+6, Oğuz Mataracı, TUR, M, 1.80, 71, 07-08-94, Kadıköy, LASK Linz
+7, Zeki Yıldırım, TUR, M, 1.79, 77, 15-01-91, Antalya, Pendikspor
+8, Kadir Bekmezci, TUR, M, 1.83, 76, 05-07-85, Genk, Sivasspor
+9, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Sampdoria
+11, Emrah Başsan, TUR, M, 1.77, 67, 17-04-92, Kocaeli, Pendikspor
+13, Gökhan Yılmaz, TUR, D, 1.80, 76, 19-01-91, Fatih, Altınordu
+14, Ozan İpek, TUR, M, 1.87, 85, 10-10-86, Ankara, Bursaspor
+17, Jean II Makoun, CMR, M, 1.73, 69, 29-05-83, Yaoundé, Rennes
+18, Yekta Kurtuluş, TUR, M, 1.73, 68, 11-12-85, İzmir, Sivasspor
+20, Chico, BRA, M, 1.85, 83, 02-02-87, Pato Branco, Coritiba
+21, Serdar Özkan, TUR, M, 1.77, 65, 01-01-87, Düzce, Eskişehirspor
+22, Samuel Inkoom, GHA, D, 1.79, 75, 22-08-89, Sekondi-Takoradi, Boavista
+23, Sakıb Aytaç, TUR, D, 1.83, 80, 24-11-91, Konak, TKİ Tavşanlı Linyitspor
+24, Lionel Enguene, CMR, M, 1.68, 65, 07-01-96, Bertoua, Barcelona B
+25, Rıdvan Şimşek, TUR, D, 1.73, 65, 17-01-91, İzmir, Karşıyaka
+27, Dejan Lazarević, SVN, F, 1.75, 70, 15-02-90, Ljubljana, Chievo Verona
+28, Ondřej Čelůstka, CZE, D, 1.85, 79, 18-06-89, Zlín, Nürnberg
+29, Ahmet Özden, TUR, G, 1.92, 85, 11-10-96, Uşak, None
+31, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Beşiktaş
+32, Sašo Fornezzi, SVN, G, 1.91, 90, 11-12-82, Slovenj Gradec, Orduspor
+33, Diego Ângelo, BRA, D, 1.92, 89, 12-02-86, Anápolis, Eskişehirspor
+35, Erman Kılıç, TUR, M, 1.68, 67, 20-09-83, Erzincan, Eskişehirspor
+55, Oktay Delibalta, TUR, M, 1.80, 70, 27-10-85, Samsun, Mersin İdman Yurdu
+66, Atakan Cangöz, TUR, M, 1.75, 75, 30-03-92, Bakırköy, Manavgatspor
+70, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Cruzeiro
+75, Birkan Öksüz, TUR, D, 1.76, 75, 19-03-96, İskenderun, None
+77, Ömer Şışmanoğlu, GER, F, 1.86, 77, 01-08-89, Hamburg, Beşiktaş
+90, Danilo, BRA, M, 1.73, 71, 13-01-90, São Luis, Dnipro Dnipropetrovsk
+92, Raïs M'Bolhi, ALG, G, 1.88, 80, 25-04-86, Paris, Philadelphia Union
+99, Mbilla Etame, CMR, F, 1.80, 71, 22-06-88, Abengue, Samsunspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Osman Çelik, TUR, D, 1.82, 71, 27-11-91, Antalya, Karabükspor (On Loan)
+51, Koray Arslan, TUR, D, 1.78, 70, 01-10-83, Niğde, Gaziantepspor
+65, Ömer Kandemir, TUR, D, 1.73, 68, 03-07-93, Konak, Karşıyaka (On Loan)
+3, Josip Kvesić, BIH, D, 1.89, 82, 21-09-90, Široki Brijeg, Karşıyaka (On Loan)
+39, Ahmet Aras, TUR, F, 1.87, 78, 13-12-87, Mardin, Şanlıurfaspor (On Loan)
+12, Guilherme, BRA, F, 1.73, 77, 22-10-88, Imperatriz, Corinthians
+44, Abdel Diarra, CIV, D, 1.88, 85, 28-12-94, Divo, Karşıyaka (On Loan)
+53, Lokman Gör, TUR, D, 1.87, 85, 15-12-90, Rize, Şanlıurfaspor (On Loan)
+80, Emre Akbaba, TUR, M, 1.80, 73, 04-10-92, Montfermeil, Alanyaspor (On Loan)
+10, Lamine Diarra, SEN, F, 1.75, 69, 20-12-83, Bignoma, Göztepe (On Loan)
+37, Halil İbrahim Tuna, TUR, M, 1.76, 64, 09-04-93, Gaziantep, Balıkesirspor (On Loan)

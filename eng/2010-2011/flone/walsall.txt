@@ -1,0 +1,43 @@
+=  Walsall - English Football League One 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonny Brain, ENG, G, 1.93, 92, 11-02-83, Carlisle, Macclesfield T
+2, Darryl Westlake, ENG, D, 1.75, 70, 01-03-91, Sutton Coldfield, None
+3, Aaron Lescott, ENG, D, 1.73, 69, 02-12-78, Birmingham, Bristol R
+4, Clayton McDonald, ENG, D, 1.98, 104, 06-12-88, Liverpool, Manchester C
+5, Oliver Lancashire, ENG, D, 1.86, 75, 13-12-88, Basingstone, Southampton
+6, Emanuel Smith, ENG, D, 1.88, 78, 08-11-88, Birmingham, None
+8, Matt Richards, ENG, M, 1.73, 70, 26-12-84, Harlow, Ipswich T
+9, Darren Byfield, JAM, F, 1.80, 75, 29-09-76, Sutton Coldfield, Oldham Ath
+10, Jonathan Macken, IRL, F, 1.78, 78, 07-09-77, Manchester, Barnsley
+11, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, None
+12, Paul Marshall, ENG, M, 1.85, 78, 09-07-89, Gorton, Manchester C
+14, Richard Taundry, ENG, D, 1.83, 81, 15-02-89, Walsall, None
+15, Jamie Paterson, ENG, F, 1.75, 67, 20-12-91, Coventry, None
+16, Alex Hickman, ENG, D, 1.85, , 04-12-91, Dudley, None
+17, George Bowerman, ENG, F, 1.78, 67, 06-11-91, Wordsley, None
+18, Julian Gray, ENG, M, 1.85, 70, 21-09-79, Lewisham, Barnsley
+19, Will Grigg, ENG, F, 1.80, 70, 03-07-91, Solihull, Stratford T
+20, Sean Geddes, ENG, M, 1.68, 64, 13-02-92, Sandwell, None
+21, David Bevan, IRL, G, 1.89, 75, 24-06-89, Cork, Aston Villa
+23, Marco Gbarssin, FRA, M, 1.81, 78, 11-12-84, Cenon, Carlisle U
+24, Aaron Forde, ENG, M, , , 21-05-93, Birmingham, None
+26, Marc Laird, SCO, M, 1.80, 82, 23-01-86, Edinburgh, Millwall
+27, Jordan Cook, ENG, M, 1.78, 68, 20-03-90, Sunderland, Sunderland
+28, Tommy Williams, CYP, D, 1.80, 79, 08-07-80, Carshalton, Bristol C
+29, James Walker, ENG, G, 1.80, 85, 09-07-73, Sutton-in-Ashfield, Tottenham H
+30, Emmanuel Ledesma, ARG, F, 1.80, 77, 24-05-88, Quilmes, Genoa
+32, Andrew Butler, ENG, D, 1.83, 83, 04-11-83, Doncaster, Huddersfield T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Wolverhampton W
+27, Andrew Davies, ENG, D, 1.90, 92, 17-12-84, Stockton-on-Tees, Stoke C
+28, Martin Devaney, IRL, M, 1.78, 75, 01-06-80, Cheltenham, Barnsley
+22, Reuben Reid, ENG, F, 1.83, 77, 26-07-88, Bristol, WBA
+30, Liam Dickinson, ENG, F, 1.93, 73, 04-10-85, Salford, Barnsley
+7, Steve Jones, NIR, F, 1.78, 66, 25-10-76, Derry, Motherwell (On Loan)
+23, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, Manchester C
+22, Matthew Gill, ENG, M, 1.80, 74, 08-11-80, Cambridge, Norwich C
+23, Jason Price, WAL, F, 1.88, 72, 12-04-77, Aberdare, Carlisle U

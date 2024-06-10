@@ -1,0 +1,21 @@
+# French Division 1 2001/02
+
+18 teams
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Guingamp](guinga.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Sedan](sedan.txt)
+- [Sochaux](sochaux.txt)
+- [Troyes](troyes.txt)

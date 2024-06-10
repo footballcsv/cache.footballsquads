@@ -1,0 +1,46 @@
+=  Torino - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Lyanco, BRA, D, 1.87, 75, 01-02-97, Vitória, São Paulo
+5, Armando Izzo, ITA, D, 1.83, 78, 02-03-92, Naples, Genoa
+7, Saša Lukić, SRB, M, 1.83, 77, 13-08-96, Šabac, Partizan Belgrade
+8, Daniele Baselli, ITA, M, 1.82, 70, 12-03-92, Manerbio, Atalanta
+9, Andrea Belotti, ITA, F, 1.81, 72, 20-12-93, Calcinate, Palermo
+11, Simone Zaza, ITA, F, 1.86, 84, 25-06-91, Policoro, Valencia
+15, Cristian Ansaldi, ARG, D, 1.81, 76, 20-09-86, Rosario, Internazionale
+17, Wilfried Singo, CIV, D, 1.90, 79, 25-12-00, Grand-Béréby, AS Denguélé
+18, Samir Ujkani, KVX, G, 1.86, 68, 05-07-88, Resnik, Rizespor
+19, Jean Freddi Greco, ITA, M, 1.74, 67, 12-02-01, Andohatapenaka, Roma
+20, Simone Edera, ITA, F, 1.74, 70, 09-01-97, Turin, None
+21, Alex Berenguer, ESP, M, 1.75, 73, 04-07-95, Pamplona, Osasuna
+22, Vincenzo Millico, ITA, F, 1.73, 68, 12-08-00, Turin, Juventus
+23, Soualiho Meïté, FRA, M, 1.87, 80, 17-03-94, Paris, Monaco
+24, Simone Verdi, ITA, F, 1.74, 70, 12-07-92, Broni, Napoli
+25, Antonio Rosati, ITA, G, 1.95, 88, 26-06-83, Tivoli, Perugia
+27, Emin Ghazoini, MAR, D, 1.84, 78, 09-01-01, Rome, Frosinone
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Sampdoria
+30, Koffi Djidji, FRA, D, 1.84, 71, 30-11-92, Bagnolet, Nantes
+33, Nicolas Nkoulou, CMR, D, 1.84, 77, 27-03-90, Yaoundé, Lyon
+34, Ola Aina, NGA, D, 1.84, 82, 08-10-96, Southwark, Chelsea
+36, Bremer, BRA, D, 1.88, 80, 18-03-97, Itapitanga, Atlético Mineiro
+39, Salvatore Sirigu, ITA, G, 1.92, 80, 12-01-87, Nuoro, Paris St-Germain
+44, Mattia Sandri, ITA, M, 1.81, 69, 04-04-01, Saluzzi, None
+45, Mihael Onisa, ROU, M, 1.77, 70, 15-03-00, Timişoara, Virtus Entella
+56, Patrick Enrici, ITA, D, 1.80, 75, 02-05-01, Cuneo, Cuneo
+73, Luca Trombini, ITA, G, 1.88, 77, 04-02-01, Turin, None
+77, Christian Celesia, ITA, D, 1.83, 73, 22-01-02, Turin, None
+80, Michel Ndary Adopo, FRA, M, 1.87, 84, 19-07-00, Villeneuve-Saint-Georges, Torcy
+88, Tomás Rincón, VEN, M, 1.77, 76, 13-01-88, San Cristóbal, Juventus
+96, Fabio Gonella, ITA, F, 1.78, 71, 30-04-00, Fossano, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+89, Luca Gemello, ITA, G, 1.85, 80, 03-07-00, Savigliano, Fermana (On Loan)
+94, Filippo Gilli, ITA, D, 1.87, 83, 19-10-00, Susa, Alessandria (On Loan)
+90, Nicola Rauti, ITA, F, 1.77, 77, 17-04-00, Legnano, Monza (On Loan)
+99, Alessandro Buongiorno, ITA, D, 1.91, 80, 06-06-99, Turin, Trapani (On Loan)
+14, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, SPAL (On Loan)
+10, Iago Falqué, ESP, F, 1.74, 69, 04-01-90, Vigo, Genoa (On Loan)
+27, Vittorio Parigini, ITA, M, 1.80, 73, 25-03-96, Moncalieri, Genoa
+93, Diego Laxalt, URU, M, 1.78, 75, 07-02-93, Montevideo, Milan

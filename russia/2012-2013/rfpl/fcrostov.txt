@@ -1,0 +1,46 @@
+=  FC Rostov - Russian Football Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stipe Pletikosa, CRO, G, 1.94, 91, 08-01-79, Split, Spartak Moscow
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+3, Kornel Saláta, SVK, D, 1.91, 89, 24-01-85, Kamenica nad Hronom, Slovan Bratislava
+4, Isaac Okoronkwo, NGA, D, 1.82, 74, 01-05-78, Aba, FC Moscow
+5, Vitaliy Dyakov, RUS, D, 1.92, 88, 31-01-89, Krasnodar, Lokomotiv Moscow-2
+6, Nikita Vasliyev, RUS, M, 1.91, 85, 22-03-92, , FC Rostov-2
+7, Khoren Bayramyan, RUS, M, 1.69, 60, 07-01-92, Koti, FC Rostov-2
+8, Dmitriy Malyaka, RUS, M, 1.81, 74, 15-01-90, Omsk, Tom Tomsk
+10, Dmitriy Kirichenko, RUS, F, 1.75, 75, 17-01-77, Novoalexandrovsk, Saturn
+11, Jan Holenda, CZE, F, 1.86, 82, 22-08-85, Prague, Anzhi Makhachkala
+14, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv Moscow-2
+16, Dmitri Kruglov, EST, D, 1.71, 70, 24-05-84, Tapa, Inter Baku
+17, Aleksandr Sheshukov, RUS, M, 1.81, 77, 15-04-83, Omsk, Spartak Moscow
+18, Vladimir Kisenkov, RUS, D, 1.82, 75, 08-10-81, Kaluga, Dynamo Moscow
+22, Andrey Ivanov, RUS, D, 1.79, 75, 08-10-88, Moscow, Lokomotiv Moscow
+23, Igor Kireyev, RUS, M, 1.78, 67, 17-02-92, Zheleznogorsk, Spartak Moscow-2
+24, Florent Sinama-Pongolle, FRA, F, 1.76, 69, 20-10-84, Saint-Pierre, Sporting CP
+25, Nikolay Zabolotniy, RUS, G, 1.84, 81, 16-04-90, St. Petersburg, Spartak Moscow
+27, Kanga Kaku Guélor, GAB, M, 1.67, 63, 01-09-90, Oyem, CF Mounana
+29, Andrey Vasilyev, RUS, D, 1.84, 77, 11-02-92, St. Petersburg, Zenit St Petersburg
+30, Maksim Belyayev, RUS, D, 1.85, 76, 30-09-91, Ozyory, Lokomotiv Moscow
+33, Inal Getigezhev, RUS, M, 1.87, 81, 23-05-87, Rostov-on-Don, Volga Nizhny Novgorod
+34, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Yenisey Krasnoyarsk
+42, Artem Kulishev, RUS, M, 1.77, 65, 26-08-93, Rostov-on-Don, FC Rostov-2
+55, Siyanda Xulu, RSA, D, 1.88, 76, 30-12-91, Durban, Mamelodi Sundowns
+63, Maksim Lepskiy, RUS, F, 1.90, 73, 08-04-92, , Sokol Saratov
+70, Magomed Kurbanov, RUS, F, 1.79, 64, 11-04-92, , FC Rostov-2
+77, Danko Lazović, SRB, F, 1.85, 79, 17-05-83, Kragujevac, Zenit St Petersburg
+81, Răzvan Cociş, ROU, F, 1.81, 72, 19-02-83, Cluj-Napoca, Al-Nassr
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+87, Evgeniy Starikov, USA, F, 1.72, 65, 17-11-88, Odessa, Zenit St Petersburg
+88, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, Dynamo Moscow
+99, Nemanja Nikolić, SRB, F, 1.88, 78, 19-10-92, Kraljevo, Grbalj
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Roman Adamov, RUS, F, 1.87, 80, 21-06-82, Belaya Kalitva, Viktoria Plzeň
+21, David Bentley, ENG, M, 1.75, 68, 27-08-84, Peterborough, Tottenham H
+12, Ilya Madilov, RUS, G, 1.90, 82, 18-06-88, Moscow, Fakel Voronezh
+19, Dragan Blatnjak, CRO, F, 1.81, 75, 01-08-81, Studenci, Osijek
+15, Benoît Angbwa, CMR, D, 1.76, 76, 01-01-82, Garoua, Krylia Sovetov
+20, Sergey Belousov, RUS, M, 1.72, 67, 04-05-90, Elets, Shinnik

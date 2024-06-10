@@ -1,0 +1,47 @@
+=  Lugo - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.85, 81, 20-01-88, Guadalajara, Elche
+2, Serge Leuko, CMR, D, 1.74, 75, 04-08-93, Douala, Valencia B
+3, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Deportivo La Coruña
+4, Josete, ESP, D, 1.79, 79, 28-05-88, Elche, Elche
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Nàstic
+7, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Girona
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Toni Martínez, ESP, F, 1.80, 70, 30-06-97, Barrio del Progreso, West Ham U
+10, Antonio Campillo, ESP, M, 1.80, 70, 19-12-90, Madrid, Rayo Vallecano B
+11, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Huesca
+12, Manu Barreiro, ESP, F, 1.92, 81, 08-07-86, Santiago de Compostela, Nàstic
+13, Alberto Varo, ESP, G, 1.90, 82, 18-03-93, Tarragona, Nàstic
+15, Luis Ruiz, ESP, D, 1.81, 73, 30-06-92, Huelva, Cádiz
+16, José Carlos Lazo, ESP, M, 1.77, 69, 16-02-96, Sanlúcar de Barrameda, Getafe
+17, Orest Lebedenko, UKR, D, 1.72, 60, 23-09-98, Lviv, Karpaty Lviv
+18, Giorgi Aburjania, GEO, M, 1.87, 76, 02-01-95, Tbilisi, Sevilla B
+19, Juan Muñiz, ESP, M, 1.78, 74, 13-03-92, Gijón, Nàstic
+20, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Betis B
+21, Sergio Gil, ESP, M, 1.83, 68, 10-05-96, Zaragoza, Zaragoza B
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Mallorca
+23, Miguel Vieira, POR, D, 1.90, 80, 08-10-90, Amarante, Paços de Ferreira
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+25, Hernán Menosse, URU, D, 1.87, 80, 28-04-87, San Carlos, Belgrano (Córdoba)
+26, Pablo Cacharrón, ESP, G, 1.82, 76, 12-06-97, Lugo, Lugo JDH
+27, Pedro López, ESP, D, 1.79, 70, 27-01-97, Lugo, Lugo JDH
+28, Rayco Rodríguez, ESP, M, 1.78, 64, 24-11-96, Las Palmas, La Pobla de Mafumet
+29, Gustavo Quezada, ECU, M, 1.78, 69, 06-04-97, Guayaquil, Getafe B
+31, Pablo Rey, ESP, D, , , 29-09-97, Sarriá, SDC Polvorín
+32, Antón Escobar, ESP, F, , , 16-06-98, Nigrán, SDC Polvorín
+33, Álex Rey, ESP, M, , , 29-01-98, Lugo, SDC Polvorín
+34, Juan Ignacio Brunet, ARG, M, 1.90, 87, 24-01-98, Maipú, SDC Polvorín
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Carlos Calderón, ESP, M, 1.82, 71, 14-04-95, Almansa, Internacional de Madrid (On Loan)
+6, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Granada
+3, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Leganés
+9, Jona, ESP, F, 1.83, 80, 07-01-89, Málaga, Córdoba
+25, Guillermo Donoso, ESP, M, 1.73, 64, 08-07-95, Gijón, Ponferradina (On Loan)
+17, Borja, ESP, D, 1.73, 67, 16-03-97, Torrelavega, Cultural Leonesa (On Loan)
+14, Jean Marie Dongou, CMR, F, 1.76, 70, 20-04-95, Douala, Lleida (On Loan)
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Granada

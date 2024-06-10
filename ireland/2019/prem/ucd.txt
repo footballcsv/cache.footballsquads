@@ -1,0 +1,31 @@
+=  UCD - League of Ireland Premier Division 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Conor Kearns, IRL, G, 1.88, 76, 06-05-98, Dublin, None
+2, Dan Tobin, IRL, D, , , 27-02-97, Dublin, None
+3, Evan Osam, IRL, D, 1.78, 65, 17-08-97, Dublin, Shamrock R
+4, Liam Scales, IRL, D, 1.87, 82, 08-08-98, Dublin, Arklow T
+5, Josh Collins, IRL, D, 1.82, 77, 27-06-97, Dublin, None
+6, Conor Crowley, IRL, M, , , 25-03-98, Dublin, Cherry Orchard
+7, Neil Farrugia, IRL, F, 1.83, 74, 19-05-99, Neuilly-sur-Seine, Belvedere
+8, Gary O'Neill, IRL, M, 1.80, 70, 27-01-95, Tralee, Hereford U
+9, Yoyo Mahdy, IRL, F, 1.85, 80, 20-01-98, , Limerick
+10, Timmy Molloy, IRL, F, , , 07-04-94, Galway, Salthill Devon
+11, Jason McClelland, IRL, M, 1.82, 70, 03-05-97, Dublin, Shamrock R
+12, Richie O'Farrell, IRL, M, , , 18-09-00, , St Patrick's Ath
+13, Sean McDonald, IRL, F, , , 26-01-98, Dublin, None
+14, Jack Ryan, IRL, M, , , 07-02-00, Dublin, None
+15, Luke Boore, IRL, D, 1.88, 82, 28-03-99, Dublin, None
+16, Gavin Sheridan, IRL, G, , , 03-01-96, , Bray W
+17, Kevin Coffey, IRL, D, , , 06-05-98, Dublin, None
+18, Darragh Corcoran, IRL, D, , , 17-05-98, Dublin, None
+20, Tom Murphy, IRL, G, , , 26-08-00, Aughrim, Everton
+21, Paul Doyle, IRL, M, 1.77, 73, 10-04-98, Westport, Sligo R
+22, Mark Dignam, IRL, M, 1.70, 61, 17-04-99, Dublin, Cabinteely
+23, Evan Farrell, IRL, D, , , 05-03-99, , Cherry Orchard
+25, Sam Byrne, IRL, F, 1.84, 75, 23-07-95, Dublin, Bohemians
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Conor Davis, IRL, F, 1.65, 68, 03-06-98, Dublin, Derry C

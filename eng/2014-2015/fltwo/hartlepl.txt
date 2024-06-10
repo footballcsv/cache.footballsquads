@@ -1,0 +1,53 @@
+=  Hartlepool United - English Football League Two 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Flinders, ENG, G, 1.93, 80, 12-06-86, Rotherham, Crystal Palace
+2, Neil Austin, ENG, D, 1.78, 70, 26-04-83, Barnsley, Darlington
+3, Darren Holden, ENG, D, 1.80, 70, 27-08-93, Krugersdorp, None
+4, Matthew Bates, ENG, D, 1.78, 77, 10-12-86, Stockton-on-Tees, Bradford C
+5, Sam Collins, ENG, D, 1.88, 85, 05-06-77, Pontefract, Hull C
+7, Jonathan Franks, ENG, M, 1.74, 72, 08-04-90, Stockton-on-Tees, Middlesbrough
+8, Brad Walker, ENG, M, 1.86, 80, 25-04-96, Billingham, None
+9, Marlon Harewood, ENG, F, 1.85, 85, 25-08-79, Hampstead, Bristol C
+10, Tommy Miller, ENG, M, 1.85, 74, 08-01-79, Easington, Bury
+11, Jack Compton, WAL, M, 1.73, 67, 02-09-88, Cardiff, Colchester U
+12, Stuart Parnaby, ENG, D, 1.78, 70, 19-07-82, Durham, Middlesbrough
+13, Jonathan Maxted, ENG, G, 1.83, 71, 26-10-93, Tadcaster, Doncaster R
+14, Michael Woods, ENG, M, 1.83, 79, 06-04-90, York, Harrogate T
+15, Ebby Nelson-Addy, ENG, M, 1.68, 73, 13-09-92, Milton Keynes, Brackley T
+16, Nicky Featherstone, ENG, M, 1.70, 71, 22-09-88, Goole, Harrogate T
+17, Scott Fenwick, ENG, F, 1.84, 86, 09-04-90, Gateshead, Dunston UTS
+18, Lewis Hawkins, ENG, M, 1.78, 78, 15-06-93, Middlesbrough, None
+19, Jordan Richards, ENG, M, 1.75, 72, 25-04-93, Sunderland, None
+20, Dan Jones, ENG, D, 1.83, 79, 14-12-94, Bishop Auckland, None
+21, Michael Duckworth, ENG, D, 1.81, 75, 28-04-92, Rinteln, Bradford PA
+22, Josh Nearney, ENG, D, 1.80, 82, 07-09-95, Newcastle upon Tyne, None
+23, Connor Smith, ENG, M, 1.85, 71, 14-10-96, Stockton-on-Tees, None
+24, Jordan Hugill, ENG, F, 1.83, 64, 04-06-92, Middlesbrough, Preston NE
+26, Scott Harrison, ENG, D, 1.83, 78, 03-09-93, Middlesbrough, Sunderland
+27, Jordan Jones, NIR, M, 1.74, 61, 24-10-94, Middlesbrough, Middlesbrough
+28, Kieran Green, ENG, M, 1.75, 80, 30-06-97, Stockton-on-Tees, None
+29, David Mirfin, ENG, D, 1.85, 91, 18-04-85, Sheffield, Scunthorpe U
+30, Marvin Morgan, ENG, F, 1.93, 76, 13-04-83, Manchester, Plymouth Arg
+31, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, Reading
+32, Jonathan Barber, ENG, G, 1.80, 86, 01-10-96, , None
+35, Ryan Bird, ENG, F, 1.93, 79, 15-11-87, Slough, Cambridge U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Andy Rafferty, ENG, G, 1.96, 86, 27-05-88, Sidcup, Dover Ath
+33, Luke James, ENG, F, 1.83, 80, 04-11-94, Amble, Peterborough U
+31, Joel Dixon, ENG, G, 1.93, 76, 09-12-93, Middlesbrough, Sunderland
+16, Josh Rowbotham, ENG, D, 1.80, 70, 07-01-94, Stockton-on-Tees, Retired
+31, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, London, Newcastle U
+27, David Atkinson, ENG, D, 1.75, 70, 27-04-93, Shildon, Middlesbrough
+17, Ryan Brobbel, NIR, M, 1.75, 66, 05-03-93, Hartlepool, Middlesbrough
+29, Matt Crooks, ENG, M, 1.83, 72, 20-01-94, Huddersfield, Huddersfield T
+24, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Middlesbrough
+29, Adam Campbell, ENG, F, 1.70, 73, 01-01-95, North Shields, Newcastle U
+15, Matthew Dolan, ENG, M, 1.75, 70, 11-02-93, Hartlepool, Bradford C
+24, Matteo Lanzoni, ITA, D, 1.89, 80, 18-07-88, Como, Cambridge U
+31, Joe Ironside, ENG, F, 1.80, 75, 16-10-93, Middlesbrough, Sheffield U
+27, Sidney Schmeltz, NED, F, 1.78, 72, 08-06-89, Nieuwegein, Petrojet
+29, Rakish Bingham, ENG, F, 1.84, 76, 25-10-93, Newham, Mansfield T

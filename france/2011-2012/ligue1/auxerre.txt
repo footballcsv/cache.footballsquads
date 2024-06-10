@@ -1,0 +1,50 @@
+=  Auxerre - French Ligue 1 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Olivier Sorin, FRA, G, 1.88, 76, 16-04-81, Gien, Nancy
+2, Cédric Hengbart, FRA, D, 1.83, 73, 13-07-80, Falaise, Caen
+3, Willy Boly, FRA, D, 1.85, 81, 03-02-91, Melun, None
+4, Stéphane Grichting, SUI, D, 1.86, 80, 30-03-79, Sierre, Sion
+5, Dariusz Dudka, POL, D, 1.82, 71, 09-12-83, Kostrzyn nad Odrą, Wisła Kraków
+6, Adama Coulibaly, MLI, D, 1.86, 83, 09-10-80, Bamako, Lens
+7, Kamel Chafni, MAR, M, 1.81, 70, 11-06-82, Bordeaux, Ajaccio
+8, Anthony Le Tallec, FRA, F, 1.84, 73, 03-10-84, Hennebont, Le Mans
+9, Rudy Haddad, FRA, M, 1.80, 78, 05-02-85, Paris, Châteauroux
+10, Olivier Kapo, FRA, F, 1.83, 72, 27-09-80, Abidjan, Al-Ahli [QAT]
+11, Ben Sahar, ISR, F, 1.78, 79, 10-08-89, Holon, Espanyol
+13, Christopher Missilou, FRA, M, 1.80, 70, 18-07-92, Auxerre, None
+14, Dennis Oliech, KEN, F, 1.81, 80, 02-02-85, Nairobi, Nantes
+15, Yonathan Del Valle, VEN, F, 1.71, 72, 28-05-90, Guacara, Deportivo Táchira
+16, Simon Pontdemé, FRA, G, 1.86, 81, 04-05-88, Niort, Brest
+17, Georges Mandjeck, CMR, M, 1.83, 72, 09-12-88, Douala, Rennes
+18, Roy Contout, FRA, M, 1.75, 75, 11-02-85, Cayenne, Amiens
+19, Yaya Sanogo, FRA, F, 1.91, 74, 27-01-93, Massy, None
+20, Amadou Sidibé, MLI, D, 1.73, 72, 19-02-86, Bamako, Djoliba
+21, Édouard Cissé, FRA, M, 1.86, 76, 30-03-78, Pau, Marseille
+22, Prince Segbefia, TOG, M, 1.79, 75, 11-03-91, Lomé, None
+23, Jérémy Berthod, FRA, D, 1.80, 74, 24-04-84, Tassin-la-Demi-Lune, Monaco
+24, Christopher Jullien, FRA, D, 1.95, 82, 22-03-93, Lagny-sur-Marne, None
+25, Omar Kossoko, FRA, F, 1.86, 72, 10-03-88, Mantes-la-Jolie, Amiens
+27, Alain Traoré, BFA, M, 1.76, 66, 31-12-88, Bobo-Dioulasso, None
+28, Amara Kallé, MLI, D, 1.84, 78, 19-09-90, Bamako, AS Real Bamako
+29, Delvin Ndinga, CGO, M, 1.82, 73, 03-04-88, Pointe Noire, None
+30, Donovan Léon, FRA, G, 1.86, 88, 03-11-92, Cayenne, None
+31, Sébastien Haller, FRA, F, 1.87, 75, 22-06-94, Ris-Orangis, None
+32, Soualiho Meïté, FRA, M, 1.87, 80, 17-03-94, Paris, None
+33, Kévin Châtelain, FRA, M, 1.81, 73, 16-02-94, Auxerre, None
+34, Raphaël Calvet, FRA, D, 1.82, 70, 07-02-94, Auxerre, None
+35, Dieylani Fall, SEN, F, 1.90, 80, 30-11-89, Thiès, ASC Diaraf
+36, Paul-Georges Ntep, FRA, F, 1.80, 75, 29-07-92, Douala, None
+37, Thomas Monconduit, FRA, D, 1.78, 75, 10-02-91, Drancy, None
+38, David Camps, FRA, M, 1.80, 75, 22-05-90, Martigues, None
+39, Ogou Akichi, CIV, M, 1.78, 75, 24-04-90, Abidjan, AFAD
+40, Jeffrey Baltus, FRA, G, 1.86, 84, 20-12-91, Melun, None
+42, Cyriaque Rivieyran, FRA, D, 1.72, 69, 17-04-91, Strasbourg, Strasbourg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jung Jo-Gook, KOR, F, 1.86, 78, 23-04-84, Buan, Nancy (On Loan)
+10, Alexandre Licata, FRA, M, 1.78, 76, 02-01-84, Grenoble, Retired
+26, Vincent Acapandié, FRA, M, 1.80, 79, 09-02-90, Saint-Pierre, Arles-Avignon (On Loan)
+17, Issam Jemâa, TUN, F, 1.85, 80, 28-01-84, Gabès, Brest (On Loan)

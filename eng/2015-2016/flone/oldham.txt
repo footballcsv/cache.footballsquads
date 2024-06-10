@@ -1,0 +1,54 @@
+=  Oldham Athletic - English Football League One 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Coleman, ENG, G, 1.98, 82, 26-09-95, Bolton, None
+2, Connor Brown, ENG, D, 1.73, 69, 02-10-91, Sheffield, Sheffield U
+3, Joseph Mills, ENG, D, 1.75, 70, 30-10-89, Swindon, Burnley
+4, Timothée Dieng, FRA, M, 1.89, 77, 09-04-92, Grenoble, Brest
+5, James Wilson, WAL, D, 1.88, 82, 26-02-89, Chepstow, Bristol C
+6, Liam Kelly, SCO, M, 1.85, 70, 10-02-90, Milton Keynes, Bristol C
+7, Lee Croft, ENG, M, 1.75, 81, 21-06-85, Wigan, St Johnstone
+8, Mike Jones, ENG, M, 1.83, 78, 15-08-87, Birkenhead, Crawley T
+9, Dominic Poleon, ENG, F, 1.90, 82, 07-09-93, Newham, Leeds U
+10, Aaron Holloway, WAL, M, 1.88, 83, 21-02-93, Cardiff, Wycombe W
+11, Jonathan Forte, BRB, F, 1.83, 77, 25-07-86, Sheffield, Southampton
+12, Matt Palmer, ENG, M, 1.79, 79, 01-08-93, Derby, Burton Alb
+13, David Cornell, WAL, G, 1.80, 73, 28-03-91, Swansea, Swansea C
+14, Jake Cassidy, WAL, F, 1.78, 71, 09-02-93, Glan Conwy, Wolverhampton W
+15, Carl Winchester, NIR, M, 1.78, 74, 12-04-93, Belfast, None
+16, Anthony Gerrard, IRL, D, 1.88, 83, 06-02-86, Liverpool, Shrewsbury T
+17, Tareiq Holmes-Dennis, ENG, D, 1.75, 75, 31-10-95, Farnborough, Charlton Ath
+18, Rhys Turner, ENG, F, 1.80, 75, 22-07-95, Preston, Stockport Co
+19, Rhys Murphy, IRL, F, 1.86, 76, 06-11-90, Shoreham-by-Sea, Dagenham & Redbridge
+20, Brian Wilson, ENG, D, 1.78, 71, 09-05-83, Manchester, Colchester U
+21, Curtis Main, ENG, F, 1.78, 67, 20-06-92, South Shields, Doncaster R
+23, Theo Vassell, ENG, D, 1.84, 68, 02-01-97, Stoke-on-Trent, Stoke C
+24, Richard Eckersley, ENG, D, 1.76, 75, 12-03-89, Salford, New York Red Bulls
+25, Jordan Bove, ENG, F, 1.75, 70, 12-12-95, Manchester, None
+26, Jack Truelove, ENG, D, 1.80, 76, 27-12-95, Burnley, None
+27, George Edmundson, ENG, D, 1.85, 75, 15-08-97, Timperley, None
+28, Danny Byrnes, WAL, M, 1.75, 70, 17-01-97, Ashton-under-Lyne, None
+29, Jack Tuohy, ENG, M, 1.78, 70, 06-09-96, Oldham, None
+30, Timmy Thiele, GER, F, 1.90, 75, 31-07-91, Berlin, Burton Alb
+31, Chris Renshaw, ENG, G, , , 26-09-97, Salford, None
+33, Alex Read, ENG, M, , , 24-10-97, , None
+35, Danny Lafferty, NIR, D, 1.82, 80, 01-04-89, Derry, Burnley
+36, Cameron Dummigan, NIR, D, 1.80, 70, 02-06-96, Lurgan, Burnley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Gavin Gunning, IRL, D, 1.83, 80, 26-01-91, Cork, Dundee U
+30, Devante Jacobs, ENG, F, 1.81, 62, 08-12-96, , Sheffield
+23, Simonas Stankevičius, LTU, F, 1.88, 76, 03-10-95, Panevėžys, Leicester C
+12, George Green, ENG, M, 1.83, 79, 02-01-96, Dewsbury, Ossett Alb
+32, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Swansea C
+34, Michael Higdon, ENG, F, 1.86, 80, 02-09-83, Liverpool, Sheffield U
+16, Jonathan Burn, ENG, D, 1.84, 73, 01-08-95, Darlington, Middlesbrough
+21, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Celtic
+12, Giorgio Rasulo, ENG, M, 1.77, 77, 23-01-97, Banbury, MK Dons
+35, Richard Wellens, ENG, M, 1.75, 72, 26-03-80, Manchester, Doncaster R
+10, Daniel Philliskirk, ENG, F, 1.78, 72, 10-04-91, Oldham, Blackpool
+22, Mark Yeates, IRL, M, 1.75, 67, 11-01-85, Dublin, Blackpool
+17, David Dunn, ENG, M, 1.75, 78, 27-12-79, Blackburn, 
+30, Ricardo Fuller, JAM, F, 1.91, 79, 31-10-79, Kingston, 

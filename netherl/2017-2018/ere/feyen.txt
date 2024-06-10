@@ -1,0 +1,40 @@
+=  Feyenoord - Dutch Eredivisie 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Bart Nieuwkoop, NED, D, 1.80, 72, 07-03-96, Tholen, None
+3, Sven van Beek, NED, D, 1.88, 76, 28-07-94, Gouda, None
+4, Jerry St. Juste, NED, D, 1.85, 71, 19-10-96, Groningen, SC Heerenveen
+5, Ridgeciano Haps, NED, D, 1.75, 66, 12-06-93, Utrecht, AZ Alkmaar
+6, Jan-Arie van der Heijden, NED, D, 1.82, 70, 03-03-88, Schoonhoven, Vitesse
+7, Jean-Paul Boëtius, NED, F, 1.82, 74, 22-03-94, Rotterdam, Basel
+8, Karim El Ahmadi, MAR, M, 1.85, 78, 27-01-85, Enschede, Aston Villa
+9, Nicolai Jørgensen, DEN, F, 1.90, 83, 15-01-91, Fredericia, FC København
+10, Tonny Vilhena, NED, M, 1.75, 70, 03-01-95, Maassluis, None
+11, Sam Larsson, SWE, F, 1.79, 75, 10-04-93, Gothenburg, SC Heerenveen
+14, Bilal Başacıkoğlu, NED, F, 1.79, 64, 26-03-95, Zaanstad, SC Heerenveen
+17, Kevin Diks, NED, D, 1.82, 84, 06-10-96, Apeldoorn, Fiorentina
+19, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, Watford
+20, Renato Tapia, PER, M, 1.85, 80, 28-07-95, Lima, FC Twente
+21, Sofyan Amrabat, MAR, M, 1.73, 70, 21-08-96, Huizen, FC Utrecht
+22, Justin Bijlow, NED, G, 1.86, 76, 22-01-98, Rotterdam, None
+24, Mats Knoester, NED, D, 1.84, 74, 19-11-98, Alphen aan den Rijn, None
+25, Brad Jones, AUS, G, 1.91, 76, 19-03-82, Armadale, NEC Nijmegen
+28, Jens Toornstra, NED, M, 1.78, 74, 01-01-89, Ter Aar, FC Utrecht
+30, Ramón ten Hove, NED, G, 1.93, 73, 03-03-98, Spijkenisse, Excelsior
+32, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Fenerbahçe
+33, Eric Fernando Botteghin, BRA, D, 1.93, 86, 31-08-87, São Paulo, FC Groningen
+34, Dylan Vente, NED, F, 1.81, 73, 09-05-99, Rotterdam, None
+35, Tyrell Malacia, NED, D, 1.69, 67, 17-08-99, Rotterdam, None
+36, Emil Hansson, NOR, M, 1.72, 64, 15-06-98, Bergen, Brann
+37, Jordy Wehrmann, NED, M, 1.76, 71, 25-03-99, Den Haag, None
+39, Cheick Touré, NED, F, 1.67, 72, 07-02-01, Dordrecht, None
+41, Lutsharel Geertruida, NED, D, 1.80, 69, 18-07-00, Rotterdam, Sparta Rotterdam
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Jari Schuurman, NED, M, 1.78, 65, 22-02-97, Gorcum, NEC Nijmegen (On Loan)
+40, Mo El Hankouri, NED, M, 1.76, 63, 01-07-97, Rotterdam, Willem II (On Loan)
+1, Kenneth Vermeer, NED, G, 1.82, 78, 10-01-86, Amsterdam, Club Brugge (On Loan)
+18, Miquel Nelom, NED, D, 1.74, 69, 22-09-90, Rotterdam, Sparta Rotterdam (On Loan)
+29, Michiel Kramer, NED, F, 1.95, 80, 03-12-88, Rotterdam, Sparta Rotterdam

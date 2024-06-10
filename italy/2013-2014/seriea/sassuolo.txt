@@ -1,0 +1,59 @@
+=  Sassuolo - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Pomini, ITA, G, 1.85, 83, 17-03-81, Isola della Scala, Bellaria Igea
+2, Raffaele Pucino, ITA, D, 1.80, 74, 03-05-91, Caserta, Varese
+3, Alessandro Longhi, ITA, D, 1.85, 72, 25-06-89, Desenzano, Chievo Verona
+4, Francesco Magnanelli, ITA, M, 1.82, 80, 12-11-84, Umbertide, Sangiovannese
+5, Luca Antei, ITA, D, 1.88, 77, 19-04-92, Rome, Roma
+6, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, Cagliari
+7, Simone Missiroli, ITA, M, 1.90, 75, 23-05-86, Reggio Calabria, Reggina
+8, Luca Marrone, ITA, M, 1.86, 75, 28-03-90, Turin, Juventus
+9, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Lazio
+10, Simone Zaza, ITA, F, 1.87, 75, 25-06-91, Policoro, Juventus
+11, Marius Alexe, ROU, F, 1.90, 85, 22-02-90, Bucharest, Dinamo Bucureşti
+12, Simone Perilli, ITA, G, 1.84, 75, 07-01-95, Rome, Roma
+13, Daniele Vacondio, ITA, D, 1.77, 73, 01-04-94, Reggio Emilia, None
+14, Gaetano Masucci, ITA, F, 1.72, 72, 26-10-84, Baiano, Torino
+15, Francesco Acerbi, ITA, D, 1.92, 89, 10-02-88, Vizzolo Predabissi, Genoa
+16, Davide Biondini, ITA, M, 1.78, 67, 24-01-83, Longiano, Genoa
+17, Nicola Sansone, ITA, F, 1.75, 73, 10-09-91, Munich, Parma
+18, Abass Alhassan, GHA, M, 1.76, 70, 21-01-95, Accra, None
+19, Lorenzo Caselli, ITA, D, 1.78, 72, 15-01-95, Bologna, SPAL
+20, Paolo Bianco, ITA, D, 1.84, 77, 20-08-77, Ordona, Atalanta
+21, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Genoa
+22, Matteo Brighi, ITA, M, 1.79, 79, 14-02-81, Rimini, Torino
+23, Marcello Gazzola, ITA, D, 1.84, 79, 03-04-85, Borgotaro, Ascoli
+25, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+26, Emanuele Terranova, ITA, D, 1.83, 85, 14-04-87, Mazara del Vallo, Palermo
+28, Paolo Cannavaro, ITA, D, 1.85, 83, 26-06-81, Naples, Napoli
+29, Davide Lodesani, ITA, F, 1.81, 75, 04-05-95, Pavullo nel Frignano, None
+30, Eros Castelletto, ITA, M, 1.74, 67, 11-08-95, Ivrea, Juventus
+31, Giovanni Tortora, ITA, M, , , 02-07-96, Parma, Parma
+32, Marcello Sereni, ITA, F, 1.80, 74, 24-07-96, Modena, None
+33, Pedro Mendes, POR, D, 1.87, 77, 01-10-90, Neuchâtel, Parma
+45, Yussif Raman Chibsah, GHA, M, 1.78, 75, 10-03-93, Accra, Parma
+70, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Chievo Verona
+79, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+83, Antonio Floro Flores, ITA, F, 1.83, 78, 18-06-83, Naples, Genoa
+86, Reto Ziegler, SUI, D, 1.83, 79, 16-01-86, Nyon, Juventus
+87, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Parma
+95, Ettore Gliozzi, ITA, F, 1.80, 73, 23-09-95, Siderno, None
+96, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Roma
+99, Ciro Polito, ITA, G, 1.84, 78, 12-04-79, Naples, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Tommaso Bianchi, ITA, M, 1.82, 70, 01-11-88, Piombino, Modena (On Loan)
+8, Leonardo Pavoletti, ITA, F, 1.86, 78, 26-11-88, Livorno, Varese (On Loan)
+33, Lorenzo Laverone, ITA, D, 1.75, 67, 19-04-89, Bagno a Ripoli, Varese
+21, Karim Laribi, ITA, M, 1.75, 68, 20-04-91, Milan, Latina (On Loan)
+13, Alberto Aladje Gomes, POR, F, 1.89, 84, 22-10-93, Bissau, Delta Porto Tolle (On Loan)
+22, Antonio Rosati, ITA, G, 1.94, 88, 26-06-83, Tivoli, Napoli
+35, Jonathan Rossini, SUI, D, 1.89, 82, 05-04-89, Giubiasco, Parma (On Loan)
+37, Matiás Ezequiel Schelotto, ITA, M, 1.87, 76, 23-05-89, Buenos Aires, Internazionale
+16, Carl Valeri, AUS, M, 1.80, 70, 14-08-84, Canberra, Ternana
+24, Lino Marzorati, ITA, D, 1.83, 79, 12-10-86, Rho, Modena
+27, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Torino (On Loan)
+28, Daniele Vacondio, ITA, D, 1.77, 73, 01-04-94, Reggio Emilia, Re-Registered (13)

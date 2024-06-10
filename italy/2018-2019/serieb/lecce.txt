@@ -1,0 +1,47 @@
+=  Lecce - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Bleve, ITA, G, 1.84, 84, 18-10-95, San Cesario di Lecce, None
+2, Davide Riccardi, ITA, D, 1.76, 76, 09-04-96, Monfalcone, Verona
+3, Luca Di Matteo, ITA, D, 1.80, 73, 25-02-88, Pescara, Latina
+4, Jacopo Petriccione, ITA, M, 1.86, 75, 22-02-95, Gorizia, Bari
+5, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Pro Vercelli
+6, Andrea Arrigoni, ITA, M, 1.72, 66, 10-08-88, Lecco, Cosenza
+7, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Nottingham F
+8, Marco Mancosu, ITA, M, 1.77, 75, 22-08-88, Cagliari, Casertana
+9, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Atalanta
+12, Gianmarco Centonze, ITA, G, , , 22-11-00, Lecce, None
+13, Thom Haye, NED, M, 1.77, 74, 09-02-95, Amsterdam, Willem II
+14, Simone Palombi, ITA, F, 1.82, 70, 23-04-96, Tivoli, Lazio
+15, Antonio Marino, ITA, D, 1.79, 77, 09-08-88, Mazara del Vallo, Modena
+16, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Brescia
+17, Alessandro Avantaggiato, ITA, F, , , 11-01-00, Lecce, None
+18, Andrea Saraniti, ITA, F, 1.86, 78, 23-07-88, Palermo, Virtus Francavilla
+19, Andrea La Mantia, ITA, F, 1.90, 81, 06-05-91, Marino, Virtus Entella
+20, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Bologna
+21, Mattia Felici, ITA, M, 1.79, 73, 17-04-01, Rome, Tor Tre Teste
+22, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Ozieri, Frosinone
+23, Andrea Tabanelli, ITA, M, 1.92, 78, 02-02-90, Ravenna, Padova
+24, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Montevarchi, Fiorentina
+25, Fabio Lucioni, ITA, D, 1.85, 80, 25-09-87, Terni, Benevento
+26, Fabrizio Angelini, ITA, M, , , 24-04-00, Brindisi, None
+27, Marco Calderoni, ITA, D, 1.83, 75, 18-02-89, Latisana, Novara
+28, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Genoa
+30, Manuel Scavone, ITA, M, 1.87, 74, 03-06-87, Bolzano, Parma
+31, Cesare Bovo, ITA, D, 1.81, 79, 14-01-83, Rome, Pescara
+32, Joakim Milli, ITA, G, 1.84, 78, 27-04-00, , Casarano
+33, Roberto Pierno, ITA, D, 1.80, 69, 14-02-01, Bari, Bari
+34, Žan Majer, SVN, M, 1.79, 69, 25-07-92, Maribor, FC Rostov
+35, Fabio Doratiotto, ITA, M, 1.78, 68, 07-06-99, Cagliari, Cagliari
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Gianmarco Chironi, ITA, G, 1.83, 80, 07-09-97, Nardò, Virtus Verona (On Loan)
+7, Cosimo Chiricò, ITA, F, 1.69, 72, 05-10-91, Mesagne, Monza
+21, Radoslav Tsonev, BUL, M, 1.71, 70, 29-04-95, Blagoevgrad, Viterbese Castrense (On Loan)
+11, Giuseppe Torromino, ITA, F, 1.76, 72, 21-06-88, Crotone, Juve Stabia
+29, Marco Armellino, ITA, M, 1.76, 70, 21-08-89, Vico Equense, Monza
+17, Stefano Pettinari, ITA, F, 1.83, 76, 27-01-92, Rome, Crotone (On Loan)
+18, Edgaras Dubickas, LTU, F, 1.82, 75, 09-07-98, Marijampolė, Sicula Leonzio (On Loan)
+10, Franco Lepore, ITA, M, 1.78, 71, 16-08-85, Lecce, Monza

@@ -1,0 +1,43 @@
+=  Independiente - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Alán Franco, ARG, D, 1.83, 74, 11-10-96, Avellaneda, None
+6, Juan Sánchez Miño, ARG, D, 1.77, 78, 01-01-90, Saavedra, Torino
+7, Andrés Roa, COL, M, 1.75, 69, 25-05-93, Sabanalarga, Deportivo Cali
+9, Alan Velasco, ARG, F, 1.67, 63, 27-07-02, Quilmes, None
+11, Cecilio Domínguez, PAR, F, 1.79, 73, 11-08-94, San Lorenzo [PAR], América
+13, Milton Álvarez, ARG, G, 1.85, 84, 26-01-89, Munro, Deportivo Morón
+14, Lucas González, ARG, M, 1.69, 68, 03-06-00, San Salvador de Jujuy, None
+15, Alan Soñora, ARG, M, 1.71, 65, 03-08-98, New York, None
+16, Fabricio Bustos, ARG, D, 1.67, 66, 28-04-96, Ucacha, None
+17, Gastón Togni, ARG, M, 1.80, 76, 20-09-97, Coronel Granada, None
+18, Silvio Romero, ARG, F, 1.77, 76, 22-07-88, Córdoba, América
+19, Pablo Hernández, CHI, M, 1.84, 79, 24-10-86, Capital Federal, Celta Vigo
+20, Gastón Silva, URU, D, 1.83, 74, 05-03-94, Salto, Torino
+21, Carlos Benavidez, URU, M, 1.85, 76, 30-03-98, Montevideo, Defensor Sporting
+22, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, Cruzeiro
+23, Domingo Blanco, ARG, M, 1.67, 63, 22-04-95, Punta Alta, Olimpo (BB)
+24, Sergio Barreto, ARG, D, 1.84, 74, 20-02-99, Clorinda, None
+25, Martín Campaña, URU, G, 1.85, 75, 29-05-89, Montevideo, Defensor Sporting
+26, Alexander Barboza, ARG, D, 1.92, 79, 16-03-95, Villa Celina, River Plate
+27, Braian Romero, ARG, M, 1.75, 75, 15-06-91, San Isidro, Argentinos Juniors
+29, Leandro Fernández, ARG, F, 1.78, 70, 12-03-91, Santa Fe, Godoy Cruz (Mendoza)
+31, Renzo Bacchia, URU, G, 1.85, 74, 23-01-99, Montevideo, Novara
+33, Thomas Ortega, ARG, D, 1.79, 74, 06-12-00, Rafael Calzada, None
+35, Juan Di Lorenzo, ARG, D, 1.83, 76, 06-07-98, Quilmes, None
+36, Facundo Lando, ARG, D, 1.76, 73, 16-02-99, Río Cuarto, None
+38, Diego Mercado, ARG, M, 1.72, 72, 03-01-97, Capital Federal, None
+40, Brian Martínez, ARG, F, 1.60, 60, 18-08-99, Pampa del Infierno, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Francisco Silva, CHI, M, 1.78, 75, 11-02-86, Santiago, Universidad Católica
+5, Nicolás Domingo, ARG, M, 1.74, 70, 08-04-85, Totoras, Olimpia [PAR]
+29, Francisco Pizzini, ARG, F, 1.77, 74, 19-09-93, Bahía Blanca, Defensa y Justicia (On Loan)
+1, Gonzalo Rehak, ARG, G, 1.85, 80, 11-04-93, Bernal, Nueva Chicago (On Loan)
+28, Cristian Chávez, ARG, F, 1.71, 70, 04-06-87, Lomas de Zamora, Central Córdoba (SdE) (On Loan)
+4, Nicolás Figal, ARG, D, 1.80, 64, 03-04-94, América, Inter Miami
+34, Sebastián Palacios, ARG, F, 1.69, 69, 20-02-92, Juan Bautista Alberdi, Newell's Old Boys (On Loan)
+8, Pablo Pérez, ARG, M, 1.79, 74, 10-08-85, Rosario, Newell's Old Boys
+10, Martín Benítez, ARG, F, 1.73, 72, 17-06-94, Posadas, Vasco da Gama (On Loan)

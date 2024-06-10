@@ -1,0 +1,55 @@
+=  Chapecoense - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keiller, BRA, G, 1.93, 86, 29-10-96, Eldorado do Sul, Internacional
+2, Matheus Ribeiro, BRA, D, 1.78, 72, 23-02-93, Erechim, Santos
+3, Laércio, BRA, D, 1.92, 90, 22-03-93, Marau, Santos
+4, Kadu, BRA, D, 1.90, 80, 20-07-86, Brasília, Göztepe
+5, Moisés, BRA, M, 1.79, 74, 03-03-91, Salvador, Linense
+6, Busanello, BRA, D, 1.80, 75, 29-10-98, Frederico Westphalen, None
+7, Bruno Silva, BRA, F, 1.70, 64, 28-03-00, Carazinho, None
+8, Alan Santos, BRA, M, 1.85, 75, 24-04-91, Salvador, UANL Tigres
+9, Anselmo Ramon, BRA, F, 1.82, 79, 23-06-88, Camacari, Vitória
+11, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Goiás
+12, Igor Campos, BRA, G, 1.80, 78, 12-02-99, Chapecó, None
+14, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Novorizontino
+15, Ronei, BRA, M, 1.75, 70, 22-02-98, Três Passos, None
+17, Mike, BRA, F, 1.75, 64, 08-03-93, Suzano, Goiás
+18, Igor Pavan, BRA, G, 1.83, 70, 17-11-00, Jacutinga, None
+19, Marquinho, BRA, M, 1.81, 72, 05-04-02, São José do Rio Pardo, None
+20, Ravanelli, BRA, M, 1.81, 76, 29-08-97, Campinas, Akhmat Grozny
+21, Ignácio, BRA, D, 1.86, 79, 01-12-96, Açu, Bahia
+22, Igor Campos, BRA, G, 1.80, 78, 12-02-99, Chapecó, None
+23, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Corinthians
+25, Rafael, BRA, M, 1.75, 68, 01-08-00, Porto Alegre, None
+26, Anderson Leite, BRA, M, 1.83, 79, 04-05-93, São Paulo, Londrina
+27, Felipe Santana, BRA, D, 1.94, 80, 17-03-86, Rio Claro, Atlético Mineiro
+28, Felipe Vasconcelos, BRA, D, -, -, 21-03-01, -, None
+29, Tiago Coser, BRA, D, 1.89, 81, 16-01-04, Chapecó, None
+30, Ezequiel, BRA, D, 1.79, 71, 22-02-93, Treze de Mario, Fluminense
+31, João Paulo, BRA, G, 1.85, 86, 08-03-01, Guarapuava, Internacional
+32, Lima, BRA, M, 1.73, 65, 09-05-99, Chapecó, None
+33, Joílson, BRA, D, 1.90, 83, 25-05-91, Osasco, Oeste
+34, Derlan, BRA, D, 1.87, 80, 03-02-96, Volta Redonda, Fluminense
+35, Rodriguinho, BRA, F, 1.79, 70, 17-04-01, Belo Horizonte, None
+50, Geuvânio, BRA, F, 1.75, 62, 05-04-92, Ilha das Flores, Athletico Paranaense
+55, Jordan, BRA, D, 1.90, 81, 22-04-99, São Paulo, Cianorte
+77, Pedro Perotti, BRA, F, 1.85, 77, 22-11-97, Chapecó, None
+80, Mancha, BRA, D, 1.78, 73, 13-02-01, Concórdia, None
+85, Tharlis, BRA, M, 1.81, 77, 07-01-98, Maravilha, None
+88, Denner, BRA, M, 1.83, 78, 31-12-99, Itapiranga, Athletico Paranaense
+89, Vagner, BRA, G, 1.91, 82, 24-08-89, Bom Sucesso do Sul, Palmeiras
+90, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Ceará
+96, Kaio Nunes, BRA, F, 1.80, 70, 11-01-96, Brasília, Real FC
+97, Léo Gomes, BRA, M, 1.81, 74, 30-04-97, Fortaleza, Athletico Paranaense
+98, Tiepo, BRA, G, 1.83, 80, 08-02-98, São Domingos, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Brayan, BRA, D, 1.79, 70, 11-02-98, Cachoeiro de Itapemirim, Beira-Mar
+23, Guedes, BRA, M, 1.73, 65, 09-08-99, Tapera, Operário (On Loan)
+11, Fernandinho, BRA, F, 1.74, 70, 19-07-97, São Luís, Juárez (On Loan)
+43, Hiago, BRA, D, 1.91, 81, 04-11-97, São Jerônimo, 
+10, Vinicius Foguinho, BRA, M, 1.69, 68, 17-07-00, Ouro Preto, Brusque (On Loan)
+38, Fabinho, BRA, F, 1.80, 75, 18-11-99, São José dos Campos, Athletico Paranaense

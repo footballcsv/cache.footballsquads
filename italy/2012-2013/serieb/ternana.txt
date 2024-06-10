@@ -1,0 +1,43 @@
+=  Ternana - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefano Ambrosi, ITA, G, 1.90, 90, 08-05-74, Alatri, Atletico Roma
+2, Salvatore Ferraro, ITA, D, 1.81, 72, 09-08-83, Catanzaro, Virtus Lanciano
+3, Luigi Vitale, ITA, M, 1.78, 71, 05-10-87, Castellammare di Stabia, Napoli
+4, Massimo Gotti, ITA, D, 1.81, 75, 27-05-86, Bergamo, Udinese
+5, Crocefisso Miglietta, ITA, M, 1.84, 78, 20-02-81, Torchiarolo, Atletico Roma
+6, Guido Di Deo, ITA, M, 1.85, 88, 26-07-81, Battipaglia, Taranto
+7, Alessandro Bernardi, ITA, M, 1.79, 73, 27-11-86, Lamezia Terme, Nocerina
+8, Davide Carcuro, ITA, M, 1.77, 70, 28-05-87, Treviso, Salernitana
+9, Gianluca Litteri, ITA, F, 1.86, 80, 06-06-88, Catania, Internazionale
+10, Angelo Raffaele Nolé, ITA, F, 1.77, 70, 27-03-84, Potenza, Rimini
+11, Davide Sinigaglia, ITA, F, 1.77, 71, 29-07-81, Cassano Magnano, Cesena
+12, Massimo Citino, ITA, G, 1.91, 79, 28-11-94, Cosenza, Cosenza
+13, Pasquale Fazio, ITA, D, 1.78, 72, 10-06-89, Barcellona Pozzo di Gotto, Andria BAT
+14, Angelo Bencivenga, ITA, D, 1.75, 65, 25-07-91, Villaricca, Parma
+15, Maurizio Lauro, ITA, D, 1.80, 73, 12-03-81, Ischia, Cesena
+16, Manuel Saleppico, ITA, F, 1.75, 62, 13-03-93, Orvieto, None
+17, Fabio Pisacane, ITA, D, 1.78, 77, 28-01-86, Genoa, Lumezzane
+18, Stefano Botta, ITA, M, 1.73, 69, 03-11-86, Como, Vicenza
+19, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Andria BAT
+20, Salif Dianda, BFA, D, 1.74, 67, 17-12-87, Adzope, Verona
+21, Luis Maria Alfageme, ARG, F, 1.91, 84, 17-12-84, La Pampa, Grosseto
+22, Alberto Brignoli, ITA, G, 1.87, 70, 19-08-91, Trescore, Lumezzane
+23, Riccardo Brosco, ITA, D, 1.90, 78, 03-02-91, Rome, Pescara
+24, Fabio Ferrari, ITA, M, 1.80, 65, 25-10-94, Rome, None
+25, Nicola Galli, ITA, D, 1.88, 78, 07-10-94, Foligno, Clitunno
+26, Matteo Ciofani, ITA, D, 1.83, 76, 26-02-88, Avezzano, Ascoli
+27, Antonino Ragusa, ITA, F, 1.81, 72, 27-03-90, Catania, Pescara
+28, Leonardo Taurino, ITA, F, 1.68, 55, 25-07-95, Taranto, None
+29, Riccardo Maniero, ITA, F, 1.83, 81, 26-11-87, Naples, Pescara
+30, Mattia Capaldini, ITA, M, , , 31-05-94, Terni, None
+31, Federico Ramberti, ITA, D, , , 14-01-93, Novara, None
+32, Giacomo Torre, ITA, D, 1.78, , 26-03-94, Rome, Palestrina
+33, Fabio Ceravolo, ITA, F, 1.80, 72, 05-03-87, Locri, Reggina
+34, Matteo Scozzarella, ITA, M, 1.75, 65, 05-06-88, Trieste, Atalanta
+35, Alberto Masi, ITA, D, 1.88, 76, 02-09-92, Genoa, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Nicolao Dumitru, ITA, F, 1.84, 76, 12-10-91, Nacka, Napoli

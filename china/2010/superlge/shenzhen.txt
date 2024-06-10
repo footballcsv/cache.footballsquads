@@ -1,0 +1,45 @@
+=  Shenzhen Ruby - Chinese Super League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Zhang Xunwei, CHN, G, 1.86, 77, 28-02-89, , None
+2, Ren Xin, CHN, D, 1.72, 61, 22-05-89, Jiujiang, None
+4, Liu Shuai, CHN, D, 1.80, 74, 02-04-89, , None
+5, Hussein Alaa Hussein, IRQ, D, 1.92, 68, 04-08-87, Kut, Qingdao Jonoon
+6, Xu Yihai, CHN, D, 1.88, 80, 02-03-90, , None
+7, Aleksandar Živković, SRB, M, 1.82, 75, 28-07-77, Niš, Shandong Luneng
+8, Li Fei, CHN, M, 1.74, 68, 27-02-83, Wuhan, None
+9, Chris Killen, NZL, F, 1.83, 71, 08-10-81, Wellington, Middlesbrough
+10, Vyacheslav Hleb, BLR, M, 1.80, 77, 12-02-83, Minsk, Shanghai Shenhua
+11, Pi Siwei, CHN, F, 1.88, 80, 09-05-85, , Changchun Yatai
+12, Cheng Yuelei, CHN, G, 1.88, 80, 28-10-87, Beijing, Beijing Guo'an
+13, Li Lingwei, CHN, M, 1.83, 73, 18-02-91, Guangdong, None
+16, Shi Yong, CHN, D, 1.87, 75, 17-02-89, , None
+17, Quan Heng, CHN, M, 1.78, 75, 30-09-89, Dalian, Dalian Shide
+18, Andy Nägelein, GER, D, 1.85, 73, 05-10-81, Hong Kong, APEP
+19, Li Haoyuan, CHN, F, 1.79, 69, 30-09-89, Yantai, Žepče
+20, Wang Dong, CHN, M, 1.77, 74, 11-06-85, Tianjin, Beijing Guo'an
+21, Ji Chao, CHN, F, 1.77, 76, 11-01-91, Shenyang, None
+22, Yuan Lin, CHN, D, 1.82, 73, 26-02-77, Guangzhou, Guangzhou Apollo
+23, Huang Fengtao, CHN, F, 1.77, 70, 17-06-85, Shanwei, None
+24, Yin Xiaolong, CHN, F, 1.80, 72, 21-10-85, Dalian, None
+25, Li Xin, CHN, M, 1.75, 70, 09-11-89, Binzhou, None
+26, Shi Ning, CHN, G, 1.86, 76, 12-03-90, , None
+27, Li Jiahe, CHN, M, 1.81, 70, 12-08-89, Shenyang, None
+28, Huang Long, CHN, F, 1.81, 76, 13-01-81, Meizhou, Hangzhou Greentown
+29, Xing Kai, CHN, D, 1.78, 72, 08-01-89, , None
+30, Wang Qingfeng, CHN, M, 1.75, 70, 11-01-92, , None
+31, Zhang Yu, CHN, M, 1.77, 69, 13-05-89, , None
+32, Song Chen, CHN, D, 1.79, 76, 03-01-90, Dalian, None
+35, Wang Erzhuo, CHN, M, 1.72, 68, 05-02-87, Xi'an, Shaanxi Chaanba
+36, Cheng Liang, CHN, D, 1.88, 79, 03-03-77, Shanghai, Shanghai Shenhua
+37, Ivan Vicelich, NZL, D, 1.90, 84, 03-09-76, Auckland, Auckland C
+38, Huang Xin, CHN, M, 1.78, 68, 22-05-91, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Yanko Valkanov, BUL, D, 1.86, 83, 25-07-82, Stara Zagora, Shanghai Shenhua
+33, Tiago, BRA, F, 1.94, 87, 04-12-77, Americana, Chengdu Blades (On Loan)
+15, Xiang Jun, CHN, D, 1.82, 74, 20-10-83, Wuhan, Beijing BIT (On Loan)
+34, Zhu Cong, CHN, M, 1.75, 67, 08-02-85, , Guangdong Sunray Cave
+14, Wang Tao, CHN, D, 1.79, 78, 20-01-81, Dalian, Wenzhou Provenza

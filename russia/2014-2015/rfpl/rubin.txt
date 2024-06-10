@@ -1,0 +1,42 @@
+=  Rubin Kazan - Russian Football Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Lokomotiv Moscow
+2, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Lokomotiv Moscow
+3, Elmir Nabiullin, RUS, D, 1.76, 68, 08-03-95, Kazan, Rubin-2
+4, Guillermo Cotugno, URU, D, 1.76, 69, 17-03-95, Montevideo, Danubio
+5, Solomon Kvirkvelia, GEO, D, 1.90, 75, 06-02-92, Samtredia, Zenit-2
+7, Igor Portnyagin, RUS, F, 1.90, 75, 07-01-89, Vladivostok, Rubin-2
+9, Dmitriy Otstavnov, RUS, F, 1.90, 84, 04-06-93, Tula, Dynamo Moscow
+10, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Atalanta
+12, Aleksandr Filtsov, RUS, G, 1.97, 85, 02-01-90, Shimanovsk, FC Krasnodar
+15, Syarhey Kislyak, BLR, M, 1.85, 70, 06-08-87, Kamyanyets, Dinamo Minsk
+20, Vladimir Sobolev, RUS, M, 1.67, 65, 30-07-91, Gukovo, Dynamo Moscow
+22, Vladimir Dyadyun, RUS, F, 1.80, 71, 12-07-88, Omsk, Dynamo Moscow
+23, Mamuka Kobakhidze, GEO, M, 1.89, 81, 23-08-92, Tbilisi, Dila Gori
+27, Magomed Ozdoev, RUS, M, 1.82, 75, 05-11-92, Grozny, Lokomotiv Moscow
+29, Shota Bibilov, RUS, M, 1.79, 68, 06-08-90, Vladikavkaz, Volga Nizhny Novgorod
+33, Inal Getigezhev, RUS, D, 1.87, 81, 23-05-87, Rostov-on-Don, FC Rostov
+44, César Navas, ESP, D, 1.96, 89, 14-02-80, Móstoles, Racing Santander
+45, Timur Akmurzin, RUS, G, 1.89, 80, 07-12-97, Moscow, Rubin-2
+49, Vitaliy Ustinov, RUS, D, 1.80, 70, 03-05-91, Moscow, Rotor Volgograd
+61, Gökdeniz Karadeniz, TUR, M, 1.69, 66, 11-01-80, Giresun, Trabzonspor
+77, Blagoy Georgiev, BUL, M, 1.85, 80, 21-12-81, Sofia, Amkar Perm
+80, Egor Sorokin, RUS, D, 1.89, 81, 04-11-95, St. Petersburg, Rubin-2
+85, Ilzat Akhmetov, RUS, M, 1.72, 65, 31-12-97, Bishkek, Rubin-2
+87, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, 1899 Hoffenheim
+88, Ruslan Kambolov, RUS, D, 1.80, 79, 01-01-90, Moscow, Neftekhimik Nizhnekamsk
+91, Yuriy Nesterenko, RUS, G, 1.89, 85, 12-06-91, Krasnodar, Rubin-2
+99, Maksim Kanunnikov, RUS, F, 1.83, 74, 14-07-91, St. Petersburg, Amkar Perm
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Roman Eremenko, FIN, M, 1.80, 67, 19-03-87, Moscow, CSKA Moscow
+21, Wakaso Mubarak, GHA, M, 1.65, 79, 25-07-90, Tamale, Celtic (On Loan)
+9, Pavel Mogilevets, RUS, M, 1.83, 70, 25-01-93, Kingisepp, Zenit St Petersburg
+11, Marko Dević, UKR, F, 1.85, 74, 27-10-83, Belgrade, Al-Rayyan (On Loan)
+4, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Krylia Sovetov (On Loan)
+19, Kamil Mullin, RUS, F, 1.78, 66, 05-01-94, Moscow, Sokol Saratov (On Loan)
+69, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, FC Rostov (On Loan)
+8, Vladimir Dyadyun, RUS, F, 1.80, 71, 12-07-88, Omsk, Re-Registered (22)

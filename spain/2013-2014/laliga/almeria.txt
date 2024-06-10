@@ -1,0 +1,42 @@
+=  Almería - Spanish La Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Esteban, ESP, G, 1.77, 70, 27-06-75, Avilés, Celta Vigo
+2, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Metalist Kharkiv
+3, Marcelo Silva, URU, D, 1.85, 85, 21-03-89, Soriano, Danubio
+4, Hans Martínez, CHI, D, 1.78, 73, 04-01-87, Santiago, Universidad Católica
+5, Ángel Trujillo, ESP, D, 1.79, 79, 08-09-87, Madrid, Almería B
+6, Marcos Tébar, ESP, M, 1.85, 77, 07-02-86, Madrid, Girona
+7, Verza, ESP, M, 1.82, 75, 29-09-86, Orihuela, Albacete
+8, Aleix Vidal, ESP, F, 1.76, 70, 21-08-89, Valls, Mallorca B
+9, Óscar Díaz, ESP, F, 1.85, 76, 24-04-84, Madrid, Lugo
+10, Rodri, ESP, F, 1.74, 64, 06-06-90, Soria, Barcelona B
+11, Hélder Barbosa, POR, M, 1.72, 67, 25-05-87, Paredes, Sporting Braga
+15, Miguel Angel Corona, ESP, M, 1.75, 79, 12-02-81, Talavera, Zaragoza
+16, Sebastián Dubarbier, ARG, F, 1.79, 74, 19-02-86, La Plata, Córdoba
+17, Suso, ESP, F, 1.76, 69, 19-11-93, Cádiz, Liverpool
+19, Jonathan Zongo, BFA, F, 1.83, 72, 02-12-92, Ouagadougou, Almería B
+20, Rafita, ESP, M, 1.70, 70, 18-09-82, Llucmajor, Recreativo Huelva
+21, Mané, ESP, D, 1.75, 72, 22-12-81, Algeciras, Maccabi Tel Aviv
+22, Nélson, POR, D, 1.72, 65, 10-06-83, Praia, Palermo
+23, Fernando Soriano, ESP, M, 1.89, 81, 24-09-79, Zaragoza, Osasuna
+25, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Sevilla
+27, Hicham Khaloua, MAR, F, 1.77, 72, 07-05-95, San Javier, Almería B
+29, Kim Young-Gyu, KOR, M, 1.68, 64, 05-01-95, Yeongju, Almería B
+31, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Almería B
+32, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Almería B
+33, Nono, ESP, F, 1.70, 62, 28-05-91, Badajoz, Rayo Vallecano B
+34, Cristóbal, ESP, M, 1.70, 62, 05-02-92, Málaga, Almería B
+35, Víctor Ibáñez, ESP, G, 1.91, 85, 21-04-89, Barcelona, Almería B
+41, Antonio Marín, ESP, D, 1.78, 75, 17-06-96, Benalua, Almería B
+44, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Nàstic
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Rubén, ESP, M, 1.67, 67, 19-02-79, Gijón, Skoda Xanthi
+11, Abel, ESP, F, 1.79, 65, 28-04-89, Madrid, Jaén
+4, Hernán Pellerano, ARG, D, 1.83, 72, 04-06-84, Capital Federal, Tijuana
+18, Christian, ESP, D, 1.82, 77, 15-10-85, Santander, DC United
+25, Óscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Sunderland
+14, Raúl García, ESP, D, 1.75, 72, 30-04-89, La Coruña, Alavés (On Loan)

@@ -1,0 +1,39 @@
+=  Curicó Unido - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Vergara, CHI, G, 1.83, 70, 24-09-02, Chimbarongo, None
+3, Matías Cahais, ARG, D, 1.86, 80, 24-12-87, Morón, O'Higgins
+5, Agustín Nadruz, URU, M, 1.82, 78, 29-06-96, Montevideo, Boston River
+6, Diego Urzúa, CHI, M, 1.73, 70, 04-02-97, Molina, None
+7, Felipe Fritz, CHI, F, 1.68, 65, 23-09-97, Coronel, Colo-Colo
+8, Mario Sandoval, ESP, M, 1.65, 66, 24-07-91, Santiago, Deportes Melipilla
+9, Rodrigo Holgado, ARG, F, 1.79, 79, 28-06-95, Buenos Aires, Gimnasia y Esgrima (LP)
+10, Yerko Leiva, CHI, M, 1.66, 63, 14-06-98, Chillán, Necaxa
+11, Bayron Oyarzo, CHI, F, 1.65, 64, 14-07-95, Puerto Montt, Barnechea
+12, Fabián Cerda, CHI, G, 1.83, 83, 07-02-89, Santiago, Palestino
+13, José Rojas, CHI, D, 1.74, 75, 23-06-83, Talagante, Huachipato
+14, Joaquín González, CHI, F, 1.80, 76, 06-08-01, Curicó, None
+15, Juan Pablo Gómez, ARG, D, 1.82, 81, 11-05-91, Mendoza, Unión Española
+16, Franco Bechtholdt, ARG, M, 1.78, 74, 15-08-93, Capital Federal, None
+17, Martín Cortés, ARG, M, 1.65, 64, 07-01-83, Punta Alta, Universidad de Concepción
+18, Felipe Ortiz, CHI, M, 1.72, 66, 25-09-01, Curicó, None
+19, Ronald de la Fuente, CHI, D, 1.76, 71, 25-01-91, Talcahuano, Colo-Colo
+20, Federico Castro, ARG, F, 1.80, 70, 24-08-93, Capital Federal, Sol de América
+21, Matiás Ormazábal, CHI, F, 1.73, 72, 21-09-98, Licantén, None
+25, Rony Albornoz, CHI, M, 1.75, 75, 23-09-02, Rengo, None
+27, Diego Coelho, URU, F, 1.82, 81, 20-01-95, Montevideo, Cerro
+28, José Gutiérrez, CHI, M, 1.74, 70, 16-10-02, Curicó, None
+30, Luis Santelices, CHI, G, 1.83, 77, 29-10-84, Curicó, Everton (Viña del Mar)
+32, Yerson Opazo, CHI, D, 1.74, 79, 24-12-84, Villarrica, San Luis de Quillota
+33, Ian Aliaga, CHI, F, 1.85, 73, 27-03-02, La Serena, None
+34, Cristian Bustamante, CHI, F, 1.82, 73, 18-05-02, Curicó, None
+35, Nicolás Barrios, CHI, F, 1.68, 63, 17-09-03, Teno, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Benjamín Ortiz, CHI, F, 1.71, 58, 22-05-99, Curicó, Deportes Iberia (On Loan)
+31, Pablo Cabrera, CHI, D, 1.70, 68, 25-01-01, Rengo, Independiente de Cauquenes (On Loan)
+2, Jorge Catejo, CHI, D, 1.80, 76, 21-06-00, Rancagua, Deportes Iberia (On Loan)
+29, Kennet Lara, CHI, D, 1.82, 82, 10-06-99, Pichidegua, Barnechea (On Loan)
+23, Pablo Corral, CHI, M, 1.71, 66, 16-01-92, Ovalle, Santiago Wanderers

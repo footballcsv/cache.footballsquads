@@ -1,0 +1,40 @@
+=  São Paulo - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+01, Rogério Ceni, BRA, G, 1.88, 85, 22-01-73, Pato Branco, Sinop
+2, Rafael Tolói, BRA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, Goiás
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, None
+4, Antônio Carlos, BRA, D, 1.84, 84, 22-06-83, Rio de Janeiro, Atlético Paranaense
+5, Souza, BRA, M, 1.76, 77, 11-02-89, Rio de Janeiro, Grêmio
+6, Álvaro Pereira, URU, M, 1.80, 78, 28-11-85, Montevideo, Internazionale
+7, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, Al-Ain
+8, Kaká, BRA, M, 1.86, 83, 22-04-82, Brasília, Orlando C
+9, Luís Fabiano, BRA, F, 1.83, 81, 08-11-80, Campinas, Sevilla
+10, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, Santos
+11, Alexandre Pato, BRA, F, 1.79, 71, 02-09-89, Pato Branco, Corinthians
+12, Denis, BRA, G, 1.88, 86, 14-04-87, Jaú, Ponte Preta
+13, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Desportivo Brasil
+14, Alan Kardec, BRA, F, 1.85, 78, 12-01-89, Barra Mansa, Benfica
+15, Denílson, BRA, M, 1.78, 68, 16-02-88, São Paulo, Arsenal
+16, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+17, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Al-Ahli [UAE]
+18, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, Figueirense
+19, Ademílson, BRA, F, 1.76, 74, 09-01-94, Cubatão, None
+21, Édson Silva, BRA, D, 1.87, 92, 09-05-86, Palmares, Villa Rio
+24, Léo, BRA, G, 1.93, 77, 22-09-90, Suzano, None
+25, Hudson, BRA, M, 1.79, 68, 30-01-88, Juiz de Fora, Botafogo-SP
+26, Auro, BRA, D, 1.68, 65, 23-01-96, Jaú, None
+27, Luis Ricardo, BRA, D, 1.83, 79, 21-01-84, Goiânia, Portuguesa
+29, Ewandro, BRA, F, 1.74, 61, 15-03-96, Recife, None
+30, Renan Ribeiro, BRA, G, 1.88, 84, 23-03-90, Ribeirão Preto, Atlético Mineiro
+34, Lucão, BRA, D, 1.85, 78, 23-03-96, Brasília, None
+35, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Wellington, BRA, M, 1.73, 70, 28-01-91, São Paulo, Internacional (On Loan)
+22, Dorlan Pabón, COL, F, 1.68, 68, 24-01-88, Bogotá, Valencia
+28, João Schmidt, BRA, M, 1.83, 82, 19-05-93, São Paulo, Vitória Setúbal (On Loan)
+23, Douglas, BRA, D, 1.72, 63, 06-08-90, Monte Alegre, Barcelona
+20, Lucas Evangelista, BRA, M, 1.81, 70, 06-05-95, Limeira, Udinese

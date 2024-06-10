@@ -1,0 +1,42 @@
+=  Universidad Católica - Chilean Primera División 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Bolívar
+2, Germán Lanaro, ARG, D, 1.86, 84, 21-03-86, Villa Regina, Palestino
+3, Cristóbal Finch, CHI, D, 1.82, 77, 01-06-02, Providencia, None
+4, Carlos Salomón, CHI, D, 1.84, 72, 28-03-00, Recoleta, None
+5, Valber Huerta, CHI, D, 1.85, 77, 26-08-93, Melipilla, Watford
+6, Francisco Silva, CHI, M, 1.78, 75, 11-02-86, Santiago, Independiente
+7, Tomás Astaburuaga, CHI, D, 1.85, 70, 11-10-96, Las Condes, Deportes Antofagasta
+8, Ignacio Saavedra, CHI, M, 1.72, 63, 12-01-99, Yumbel, None
+9, Fernando Zampedri, ARG, F, 1.85, 83, 14-02-88, Chajarí, Rosario Central
+10, Edson Puch, CHI, M, 1.68, 72, 09-04-86, Iquique, Pachuca
+11, Luciano Aued, ARG, M, 1.78, 70, 01-03-87, La Plata, Racing Club
+12, Marcelo Suárez, CHI, G, 1.86, 80, 21-08-00, Quillota, None
+14, Juan Fuentes, CHI, M, 1.72, 75, 21-03-95, Rancagua, Estudiantes (LP)
+15, Gastón Lezcano, ARG, M, 1.69, 67, 21-11-86, San Nicolás, Morelia
+16, César Munder, CUB, M, 1.65, 57, 07-01-00, Havana, None
+17, Cristopher Toselli, CHI, G, 1.80, 75, 15-06-88, Antofagasta, None
+18, Diego Buonanotte, ARG, M, 1.60, 56, 19-04-88, Teodelina, AEK
+19, José Pedro Fuenzalida, CHI, M, 1.70, 67, 22-02-85, Santiago, Boca Juniors
+20, Gonzalo Tapia, CHI, F, 1.78, 78, 18-02-02, Las Condes, None
+21, Raimundo Rebolledo, CHI, D, 1.71, 63, 14-05-97, Concepción, None
+22, Bruno Barticciotto, CHI, F, 1.75, 70, 07-05-01, Vitacura, None
+23, Juan Francisco Cornejo, CHI, D, 1.77, 78, 27-09-90, Pichidegua, León
+24, Alfonso Parot, CHI, D, 1.80, 74, 15-10-89, Talca, Rosario Central
+25, Kevin Fernández, CHI, M, 1.66, 67, 09-03-01, Santiago, None
+26, Marcelino Núñez, CHI, M, 1.73, 68, 01-03-00, Independencia, None
+27, Alexander Aravena, CHI, F, 1.74, 70, 06-09-02, Independencia, None
+28, Vicente Bernedo, CHI, G, 1.81, 76, 22-01-01, Vitacura, None
+29, Stefano Magnasco, CHI, D, 1.75, 72, 28-09-92, Santiago, FC Groningen
+30, Diego Valencia, CHI, F, 1.81, 68, 14-01-00, La Serena, None
+31, Benjamín Iglesias, CHI, M, 1.71, 65, 02-08-02, Providencia, None
+32, Ian Toro, CHI, D, 1.68, 73, 24-12-02, Tocopilla, Deportes Tocopilla
+33, Aaron Astudillo, VEN, D, 1.75, 67, 17-04-00, Puerto Ordaz, None
+35, Clemente Montes, CHI, M, 1.70, 65, 25-04-01, Vitacura, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Benjamín Kuščević, CHI, D, 1.85, 80, 02-05-96, Santiago, Palmeiras
+14, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Grêmio

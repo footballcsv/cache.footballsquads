@@ -1,0 +1,51 @@
+=  Arsenal - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Pellegrino, ARG, G, 1.97, 90, 31-03-86, Vicente López, Defensa y Justicia
+2, Marcos Curado, ARG, D, 1.86, 80, 09-05-95, Mar del Plata, None
+3, Claudio Corvalán, ARG, D, 1.78, 74, 23-03-89, Quilmes, Racing Club
+4, Sergio Velázquez, ARG, M, 1.79, 82, 12-09-90, Quilmes, Godoy Cruz (Mendoza)
+5, Franco Bellocq, ARG, M, 1.75, 74, 15-10-93, General Levalle, Independiente
+6, Jonathan Bottinelli, ARG, D, 1.80, 79, 14-09-84, Capital Federal, León
+7, Maximiliano Calzada, URU, M, 1.70, 69, 21-04-90, Montevideo, Defensa y Justicia
+8, Renso Pérez, ARG, M, 1.75, 74, 24-12-87, Bolívar, Villa Dálmine
+9, Juan Sánchez Sotelo, ARG, F, 1.80, 81, 02-10-87, Avellaneda, Defensa y Justicia
+10, Gabriel Sanabria, ARG, M, 1.65, 59, 02-07-92, Lanús, Villa Dálmine
+11, Franco Fragapane, ARG, F, 1.67, 66, 06-02-93, Godoy Cruz, Boca Juniors
+12, Mauricio Aquino, ARG, G, 1.88, 70, 27-10-93, Jacinto Aráuz, None
+13, Leandro Marín, ARG, D, 1.83, 81, 22-01-92, Neuquén, Boca Juniors
+14, Julio Rodríguez, PAR, F, 1.83, 78, 05-12-90, Asunción, Dorados de Sinaloa
+15, Gonzalo Papa, URU, M, 1.78, 72, 08-05-89, Montevideo, Fénix
+16, Matías Zaldívar, ARG, M, 1.79, 76, 04-08-95, Avellaneda, None
+17, Leonardo Rolón, ARG, M, 1.71, 65, 19-01-95, Rosario, Vélez Sarsfield
+18, Juan Imbert, ARG, F, 1.70, 67, 31-03-90, San Miguel de Tucumán, Guaraní Antonio Franco
+19, Juan Celaya, ARG, D, 1.84, 70, 14-02-92, Arroyo Seco, Villa Dálmine
+20, Joaquín Boghossian, URU, F, 1.94, 80, 19-06-87, Montevideo, Cerro
+21, Salvador Sánchez, ARG, D, 1.86, 78, 31-07-95, Tres Algarrobos, None
+22, Pablo Santillo, ARG, G, 1.82, 78, 07-03-90, Capital Federal, Defensa y Justicia
+23, Lucas Wilchez, ARG, M, 1.72, 65, 31-08-83, La Plata, Tigre
+24, Gonzalo Giménez, ARG, D, 1.76, 76, 04-09-95, Lanús, None
+25, Federico Milo, ARG, D, 1.78, 75, 10-01-92, Quilmes, None
+26, Federico Flores, ARG, M, 1.76, 68, 18-05-92, Rosario, Rosario Central
+27, Sebastián Lomónaco, ARG, F, 1.78, 73, 17-09-98, Avellaneda, None
+28, Gonzalo Bazán, ARG, M, 1.75, 70, 05-05-89, La Rioja, Ferro Carril Oeste
+29, Luciano Vella, ARG, D, 1.75, 71, 13-04-81, Rosario, Defensa y Justicia
+30, Juan Francisco Brunetta, ARG, M, 1.75, 68, 12-05-97, Córdoba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Mauro Leiva, ARG, M, 1.66, 70, 25-05-95, Avellaneda, Racing Club
+21, Tomás Berra, ARG, D, 1.86, 85, 19-02-91, Rosario, Rosario Central
+26, Martín Giménez, ARG, F, 1.87, 86, 30-09-88, Florida, Unión San Felipe
+16, Alejandro Rivero, ARG, G, 1.85, 75, 12-06-98, Quilmes, De-Registered
+27, Nahuel Troxler, ARG, D, 1.81, 72, 19-12-97, , 
+23, Franco Costa, ARG, M, 1.63, 64, 10-12-91, Luján, Flandria
+15, Gonzalo Giménez, ARG, D, 1.76, 76, 04-09-95, Lanús, Re-Registered (24)
+17, Federico Flores, ARG, M, 1.76, 68, 18-05-92, Rosario, Re-Registered (26)
+20, Salvador Sánchez, ARG, D, 1.86, 78, 31-07-95, Tres Algarrobos, Re-Registered (21)
+24, Matías Zaldívar, ARG, M, 1.79, 76, 04-08-95, Avellaneda, Re-Registered (16)
+31, Sebastián Lomónaco, ARG, F, 1.78, 73, 17-09-98, Avellaneda, Re-Registered (27)
+32, Leandro Marín, ARG, D, 1.83, 81, 22-01-92, Neuquén, Re-Registered (13)
+33, Gonzalo Papa, URU, M, 1.78, 72, 08-05-89, Montevideo, Re-Registered (15)
+34, Joaquín Boghossian, URU, F, 1.94, 80, 19-06-87, Montevideo, Re-Registered (20)

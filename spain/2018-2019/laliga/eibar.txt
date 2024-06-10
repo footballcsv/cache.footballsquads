@@ -1,0 +1,39 @@
+=  Eibar - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Alcorcón
+2, Jordi Calavera, ESP, D, 1.78, 67, 02-01-95, Valls, Nàstic
+3, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Las Palmas
+4, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Levante
+5, Gonzalo Escalante, ARG, M, 1.82, 76, 27-03-93, Bella Vista, Catania
+6, Sergio Álvarez, ESP, M, 1.80, 65, 23-01-92, Avilés, Sporting Gijón
+7, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Barcelona B
+8, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Espanyol
+9, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella de Menorca, Numancia
+11, Rubén Peña, ESP, D, 1.70, 65, 18-07-91, Ávila, Leganés
+12, Paulo Oliveira, POR, D, 1.87, 78, 08-01-92, Vila Nova de Famalicão, Sporting CP
+13, Asier Riesgo, ESP, G, 1.85, 76, 06-10-83, Deba, Osasuna
+14, Fabián Orellana, CHI, M, 1.69, 68, 27-01-86, Santiago, Valencia
+15, José Ángel, ESP, D, 1.82, 77, 05-09-89, Gijón, FC Porto
+16, Pablo De Blasis, ARG, M, 1.64, 65, 04-02-88, La Plata, Mainz
+17, Kike, ESP, F, 1.86, 79, 25-11-89, Motilla del Palancar, Middlesbrough
+19, Charles, BRA, F, 1.79, 76, 04-04-84, Belem, Málaga
+20, Marc Cucurella, ESP, D, 1.75, 69, 22-07-98, Alella, Barcelona B
+21, Pedro León, ESP, M, 1.83, 70, 24-11-86, Mula, Getafe
+22, Pere Milla, ESP, M, 1.79, 70, 23-09-92, Lleida, Logroñés
+23, Anaitz Arbilla, ESP, D, 1.78, 76, 15-05-87, Pamplona, Espanyol
+24, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Espanyol
+26, Kaiser, ESP, D, 1.87, 70, 04-04-96, Vilamarxant, Levante B
+28, Alain Ribeiro, ESP, M, 1.88, 78, 08-07-97, Sopela, Vitoria
+29, Miguel Marí, ESP, M, 1.85, 78, 30-06-97, Alicante, Valladolid B
+35, Markel Areitio, ESP, G, 1.80, 68, 07-09-96, Iurreta, Vitoria
+43, Sergio Camus, ESP, D, 1.80, 75, 19-04-97, Colindres, Arenas Club
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Yoel, ESP, G, 1.86, 78, 28-08-88, Vigo, Valladolid (On Loan)
+10, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Rayo Vallecano
+20, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Rayo Vallecano
+25, Marko Dmitrović, SRB, G, 1.94, 94, 24-01-92, Subotica, Re-Registered (1)
+18, Pablo Hervías, ESP, M, 1.74, 68, 08-03-93, Logroño, Valladolid (On Loan)

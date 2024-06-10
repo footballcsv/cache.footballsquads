@@ -1,0 +1,48 @@
+=  PEC Zwolle - Dutch Eredivisie 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diederik Boer, NED, G, 1.94, 84, 24-09-80, Emmeloord, Flevo Boys
+2, Bram van Polen, NED, F, 1.79, 73, 11-10-85, Nijkerk, Vitesse
+3, Darryl Lachman, NED, D, 1.89, 75, 11-11-89, Zaanstad, FC Groningen
+4, Maikel van der Werff, NED, D, 1.85, 81, 22-04-89, Hoorn, FC Volendam
+5, Bart van Hintum, NED, D, 1.77, 75, 16-01-87, Oss, FC Dordrecht
+6, Frank Olijve, NED, M, 1.76, 63, 07-03-89, Amsterdam, FC Groningen
+7, Furdjel Narsingh, NED, F, 1.75, 71, 13-03-88, Amsterdam, AZ Alkmaar
+8, Rochdi Achenteh, NED, M, 1.71, 69, 07-03-88, Eindhoven, FC Eindhoven
+9, Fred Benson, NED, F, 1.79, 79, 10-04-84, Accra, Lechia Gdańsk
+10, Arne Slot, NED, M, 1.84, 76, 17-09-78, Bergentheim, Sparta Rotterdam
+11, Jesper Drost, NED, F, 1.75, 75, 11-01-93, Nunspeet, Nunspeet
+13, Djeremy Zandvliet, NED, F, 1.81, 72, 01-04-94, Deventer, None
+14, Joost Broerse, NED, D, 1.84, 83, 08-05-79, De Blit, Excelsior
+15, Ronnie Reniers, NED, F, 1.82, 76, 08-11-87, Tilburg, FC Den Bosch
+16, Simon IJzerman, NED, D, 1.76, 71, 13-03-92, Schoonoord, FC Emmen
+17, Norichio Nieveld, NED, D, 1.89, 80, 25-04-89, Den Bosch, Excelsior
+18, Mimoun Eloisghiri, NED, F, 1.81, 74, 15-09-89, Rotterdam, FC Presikhaaf
+19, Arsenio Valpoort, NED, F, 1.93, 90, 05-08-92, Amsterdam, SC Heerenveen
+20, Mustafa Saymak, NED, F, 1.69, 63, 11-02-93, Deventer, SV Schalkhaar
+21, Leon ter Wielen, NED, G, 1.95, 95, 31-08-88, Raalte, FC Groningen
+22, Sherwin Grot, NED, F, 1.88, 74, 27-07-90, Arnhem, FC Presikhaaf
+23, Wiljan Pluim, NED, F, 1.90, 85, 04-01-89, Zwolle, Roda JC
+24, Ricardo Talu, NED, D, 1.80, 77, 01-04-94, Luanda, None
+25, Ricardo Malaihollo, NED, M, 1.78, 72, 21-09-93, Hengelo, None
+26, Ibrahim Ikililou, NED, F, 1.78, 74, 01-07-93, Aledjo-Koura, None
+27, Mike Koenders, GER, D, , , 09-05-92, Nordhorn, FC Emmen
+28, Haico Epe, NED, D, 1.73, 61, 27-06-95, Harderwijk, None
+30, Gerard Aafjes, NED, D, 1.81, 79, 27-01-85, Mijdrecht, MVV Maastricht
+32, Christiaan Cicek, NED, F, 1.85, 81, 03-12-88, Hengelo, Excelsior '31
+33, Danny Wintjens, NED, G, 2.00, 76, 30-09-83, Maastricht, Fortuna Sittard
+35, Rodney Geerlinks, NED, G, 1.80, 70, 27-02-95, , None
+36, Youness Mokhtar, NED, M, 1.75, 68, 29-08-91, Utrecht, PSV Eindhoven
+38, Giovanni Gravenbeek, NED, D, 1.74, 72, 11-05-88, Utrecht, Willem II
+40, Rúnar Már Sigurjónsson, ISL, M, 1.78, 80, 30-11-89, Sauðárkrókur, Valur
+43, Mateusz Klich, POL, M, 1.80, 67, 13-06-90, Tarnów, Wolfsburg
+44, Denni Avdić, SWE, F, 1.90, 80, 05-09-88, Huskvarna, Werder Bremen
+46, Djarno Hofland, NED, F, 1.73, 66, 17-03-93, Woerden, AGOVV Apeldoorn
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Jeroen Ketting, NED, F, 1.81, 76, 10-11-80, Haarlem, Quick Boys
+12, Giovanni Gravenbeek, NED, D, 1.74, 72, 11-05-88, Utrecht, Re-Registered (38)
+19, Giovanni Hiwat, NED, F, 1.70, 67, 11-11-93, Zwolle, Cambuur Leeuwarden (On Loan)
+4, Joey van den Berg, NED, M, 1.82, 84, 13-02-86, Nijeveen, SC Heerenveen

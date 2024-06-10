@@ -1,0 +1,49 @@
+=  Kecskemét - Hungarian Nemzeti Bajnokság I 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vukašin Radomir Poleksić, MNE, G, 1.94, 92, 30-08-82, Nikšić, Debrecen
+4, Róbert Varga, HUN, D, 1.86, 78, 25-11-86, Győr, Debrecen
+5, Darko Pavićević, MNE, F, 1.98, 85, 24-06-85, Podgorica, Zalaegerszeg
+7, Zsolt Balázs, HUN, F, 1.83, 73, 11-08-88, Zalaegerszeg, Zalaegerszeg
+8, Zsolt Patvaros, HUN, D, 1.85, 75, 18-02-93, Kecskemét, None
+9, András Simon, HUN, F, 1.83, 70, 30-03-90, Salgótarján, Győr
+10, Vladan Savić, MNE, M, 1.85, 81, 26-07-79, Ivangrad, Voždovac
+11, Eliomar Silva, BRA, M, 1.75, 71, 16-03-88, Cardoso Moreira, Partizan Belgrade
+12, Viktor Németh, HUN, G, 1.86, 83, 21-04-77, Pincehely, Budaörs
+13, Krisztián Póti, HUN, D, 1.90, 82, 28-05-88, Mátészalka, MTK
+14, Marko Vukasović, MNE, M, 1.78, 75, 10-09-90, Cetinje, Proleter Novi Sad
+15, Attila Gyagya, ROU, D, 1.88, 80, 30-03-82, Máramarossziget, Orosháza
+16, Dániel Szalai, HUN, F, 1.84, 82, 05-09-96, Kecskemét, None
+19, Gábor Gréczi, HUN, F, 1.85, 81, 03-05-93, Szeged, None
+20, Márk Szécsi, HUN, F, 1.78, 73, 22-05-94, Eger, Debrecen
+21, Martin Ludas, HUN, M, 1.82, 83, 21-05-94, Kecskemét, None
+22, Mihály Bene, HUN, M, 1.85, 78, 09-01-95, Kecskemét, MTK
+23, Gyula Forró, HUN, D, 1.84, 79, 06-06-88, Budapest, MTK
+26, Dáriusz Csillag, HUN, M, 1.88, 85, 29-01-95, Gyöngyös, Honvéd
+29, Patrik Nagy, HUN, M, 1.75, 72, 16-02-91, Győr, Újpest
+30, Henri Eninful, TOG, M, 1.81, 77, 21-07-92, Lomé, Újpest
+31, Dejan Karan, SRB, D, 1.88, 81, 13-08-88, Novi Sad, Vojvodina
+33, Róbert Csala, HUN, G, 1.92, 84, 17-07-94, Csongrád, Videoton
+37, Dániel János Nagy, HUN, F, 1.85, 78, 05-04-93, Kecskemét, None
+39, Tamás Sutus Juhász, HUN, M, 1.82, 81, 04-06-95, Kecskemét, None
+40, András Burics, HUN, M, 1.77, 73, 15-01-91, Kisvárda, Debrecen
+60, Brahima Touré, CIV, M, 1.82, 78, 09-09-89, , Lugano
+69, Martin Vékes, HUN, F, 1.88, 84, 15-01-95, Kecskemét, None
+70, Péter Csima, HUN, F, 1.90, 84, 07-07-95, Kecskemét, None
+77, László Pekhár, HUN, F, 1.86, 82, 20-01-93, Szolnok, Szolnok
+89, Béni Faragó, HUN, F, 1.83, 78, 01-02-95, Kecskemét, None
+91, Bebeto, SEN, F, 1.86, 83, 31-12-91, Tivaouane, Lugano
+92, András Farkas, HUN, D, 1.83, 79, 03-12-92, Kecskemét, None
+95, Konrád Verebélyi, HUN, G, 1.88, 82, 11-12-95, Szentes, Honvéd
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+81, Péter Rajczi, HUN, F, 1.83, 77, 03-04-81, Lengyeltóti, Mezőkövesd
+17, Bodiong Christian Ebala, CMR, M, 1.88, 76, 17-03-88, Yaoundé, 
+2, Balázs Koszó, HUN, D, 1.84, 73, 20-03-88, Kecskemét, Békéscsaba
+3, József Mogyorósi, HUN, D, 1.78, 72, 01-11-78, Budapest, Ajka
+30, Boris Bulajić, MNE, M, 1.83, 79, 27-04-88, , 
+20, Sidoine Oussou, BEN, F, 1.76, 72, 14-11-92, Bantè, Vålerenga
+9, Ousmane Barry, GUI, F, 1.70, 73, 27-09-91, Conakry, Panachaiki
+99, Botond Antal, HUN, G, 1.90, 85, 22-08-91, Budapest, Kaposvár

@@ -1,0 +1,52 @@
+=  Grêmio - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+2, Gabriel, BRA, D, 1.71, 70, 05-06-81, Feira de Santana, Panathinaikos
+3, Gilberto Silva, BRA, M, 1.84, 74, 07-10-76, Lagoa da Prata, Panathinaikos
+4, Naldo, BRA, D, 1.88, 80, 28-08-88, Santo André, União São João
+5, Souza, BRA, M, 1.76, 77, 11-02-89, Rio de Janeiro, FC Porto
+6, Júlio César, BRA, D, 1.73, 70, 15-06-82, São Paulo, Fluminense
+7, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Santos
+8, Léo Gago, BRA, M, 1.69, 67, 17-02-83, Campinas, Coritiba
+9, Marcelo Martins Moreno, BOL, F, 1.87, 82, 18-06-87, Santa Cruz de la Sierra, Shakhtar Donetsk
+10, Zé Roberto, BRA, M, 1.72, 72, 06-07-74, Ipiranga, Al-Gharafa
+11, Marcos Antônio, BRA, M, 1.82, 72, 09-11-84, São Paulo, Portuguesa
+12, Busatto, BRA, G, 1.89, 78, 23-10-90, Arroio do Tigre, None
+14, Vilson, BRA, D, 1.89, 79, 03-04-88, São Gonçalo, Madureira
+15, Douglas Grolli, BRA, D, 1.88, 79, 05-10-89, São Miguel do Oeste, Chapecoense
+16, Fábio Aurélio, BRA, D, 1.78, 75, 24-09-79, São Carlos, Liverpool
+17, Fernando, BRA, M, 1.73, 66, 03-03-92, Erechim, None
+19, Marquinhos, BRA, M, 1.83, 83, 29-09-81, Biguaçu, Santos
+20, Matheus, BRA, G, 1.85, 82, 05-05-89, Alegrete, None
+21, Leandro, BRA, F, 1.77, 71, 12-05-93, Brasília, None
+22, Felipe Nunes, BRA, M, 1.75, 71, 20-05-90, Gama, CFZ
+23, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Dynamo Kyiv
+24, Jota, BRA, G, 1.89, 76, 29-08-93, , None
+25, Felipe Guedes, BRA, M, 1.75, 70, 04-06-91, Londrina, None
+26, Saimon, BRA, D, 1.83, 74, 03-03-91, Erechim, None
+27, Rondinelly, BRA, M, 1.72, 62, 08-02-91, Rialma, Vila Nova
+28, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Ceará
+29, Anderson Pico, BRA, D, 1.69, 75, 04-11-88, Porto Alegre, None
+30, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Palmeiras
+31, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Santos
+32, Tony, BRA, D, 1.77, 74, 04-08-89, Maraial, Juventus-SP
+33, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Ponte Preta
+34, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Atlético Mineiro
+35, Guilherme Biteco, BRA, M, 1.73, 67, 12-03-94, Porto Alegre, None
+36, Lucas Coelho, BRA, F, 1.83, 80, 20-07-94, Lages, None
+37, André, BRA, F, , , , , None
+39, Yuri Mamute, BRA, F, 1.80, 68, 07-05-95, Porto Alegre, None
+45, Wangler, BRA, M, 1.70, 74, 18-08-92, Tapera, Caxias
+99, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Hertha Berlin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Mário Fernandes, BRA, D, 1.89, 77, 19-09-90, São Caetano, CSKA Moscow
+36, Dener, BRA, D, 1.78, 71, 28-06-91, Bagé, Vitória (On Loan)
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Atlético Mineiro
+7, Facundo Bertoglio, ARG, M, 1.71, 66, 30-06-90, San José de la Esquina, Dynamo Kyiv
+18, Ezequiel Miralles, ARG, F, 1.72, 72, 21-07-83, Bahía Blanca, Santos
+12, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, Re-Registered (1)
+40, Busatto, BRA, G, 1.89, 78, 23-10-90, Arroio do Tigre, Re-Registered (12)

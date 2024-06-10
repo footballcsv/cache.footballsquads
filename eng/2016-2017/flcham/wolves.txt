@@ -1,0 +1,72 @@
+=  Wolverhampton Wanderers - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Carl Ikeme, NGA, G, 1.88, 87, 08-06-86, Sutton Coldfield, None
+2, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Bohemians
+3, Sílvio, POR, D, 1.78, 72, 28-09-87, Lisbon, Atlético Madrid
+4, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Luton T
+5, Richard Stearman, ENG, D, 1.88, 67, 19-08-87, Wolverhampton, Fulham
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, None
+8, George Saville, ENG, M, 1.76, 73, 01-06-93, Camberley, Chelsea
+9, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, Wigan Ath
+10, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Cardiff C
+11, Jordan Graham, ENG, M, 1.82, 68, 05-03-95, Coventry, Aston Villa
+14, Lee Evans, WAL, M, 1.86, 88, 24-07-94, Newport, Newport Co
+16, Conor Coady, ENG, M, 1.85, 75, 25-02-93, Liverpool, Huddersfield T
+17, Hélder Costa, POR, F, 1.78, 73, 12-01-94, Luanda, Benfica
+18, Dominic Iorfa, ENG, D, 1.88, 78, 08-07-95, Southend-on-Sea, Southend U
+19, Jack Price, ENG, M, 1.91, 87, 19-12-92, Shrewsbury, None
+21, Andy Lonergan, ENG, G, 1.92, 87, 19-10-83, Preston, Fulham
+22, Jón Daði Böðvarsson, ISL, F, 1.90, 85, 25-05-92, Selfoss, Kaiserslautern
+25, Paul Gladon, NED, F, 1.88, 83, 18-03-92, Haarlem, Heracles Almelo
+26, Bright Enobakhare, NGA, F, 1.79, 77, 18-05-98, Benin City, None
+27, Romain Saïss, MAR, M, 1.90, 76, 26-03-90, Bourg-de-Péage, Angers
+29, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, Manchester U
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Wycombe W
+31, Harry Burgoyne, ENG, G, 1.93, 85, 28-12-96, Ludlow, None
+32, Regan Upton, ENG, D, , , 17-09-96, Burton-on-Trent, None
+33, Bradley Reid, WAL, F, 1.83, 77, 15-10-95, Mold, Wrexham
+34, Donovan Wilson, ENG, F, 1.80, 70, 14-03-97, Yate, Bristol R
+35, Aaron Hayden, ENG, D, 1.86, 79, 16-01-97, Croydon, Chelsea
+36, Anto Breslin, IRL, D, 1.73, 73, 13-02-97, Dublin, St Kevin's Boys
+37, Daniel Armstrong, SCO, M, 1.75, 64, 11-10-97, , Hamilton Academical
+38, Ryan Rainey, IRL, D, , , 11-10-96, Donegal, Bonagee U
+40, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Newport Co
+41, Jack Ruddy, SCO, G, 1.85, 83, 18-05-97, Glasgow, Bury
+42, Ben O'Hanlon, ENG, D, 1.74, 74, 22-02-96, Wolverhampton, None
+43, Connor Ronan, IRL, M, 1.73, 70, 06-03-98, Rochdale, Rochdale
+44, Hakeem Odoffin, ENG, D, 1.91, 81, 13-04-98, Barnet, Barnet
+46, Niall Ennis, ENG, F, 1.78, 76, 20-05-99, Wolverhampton, None
+47, Ryan Leak, WAL, D, 1.91, 83, 28-02-98, Burton-on-Trent, None
+48, Connor Johnson, ENG, D, 1.88, 78, 10-03-98, Kettering, None
+49, Conor Levingston, IRL, M, 1.75, 74, 21-01-98, Gorey, Gorey Rangers
+50, Ivan Cavaleiro, POR, M, 1.75, 73, 18-10-93, Vialonga, Monaco
+51, Ross Finnie, ENG, M, , , 20-09-97, Burton-on-Trent, None
+52, Joe Delacoe, ENG, M, , , 07-01-98, Middlesbrough, None
+53, Christián Herc, SVK, M, 1.85, 72, 30-09-98, Levice, Nitra
+54, Dan McKenna, IRL, M, 1.78, 70, 12-12-99, Dublin, Belvedere
+55, Morgan Gibbs-White, ENG, M, 1.78, 60, 27-01-00, Stafford, None
+56, Cameron John, ENG, D, 1.81, 78, 24-08-99, Romford, None
+57, Nicolae Cârnaț, ROU, F, , , 08-04-98, Mihalţ, Academia Gheorghe Hagi
+58, Harry Beasley, ENG, G, 1.93, 80, 19-09-98, Brentwood, None
+59, Rory Brown, NIR, G, , , 25-05-00, , Crusaders
+60, Michael Williamson, ENG, D, 1.91, 84, 08-11-83, Stoke-on-Trent, Newcastle U
+61, Bradley Carr, ENG, M, , , 15-09-99, Stafford, None
+62, Duckens Nazon, HAI, F, 1.81, 82, 07-04-94, Poissy, Kerala Blasters
+63, Andreas Weimann, AUT, F, 1.88, 76, 05-08-91, Vienna, Derby Co
+64, Ben Marshall, ENG, M, 1.83, 73, 29-09-91, Salford, Blackburn R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, James Henry, ENG, M, 1.85, 75, 10-06-89, Woodley, Bolton W (On Loan)
+23, Ethan Ebanks-Landell, ENG, D, 1.88, 88, 12-12-92, Oldbury, Sheffield U (On Loan)
+25, Nathan Byrne, ENG, M, 1.80, 84, 05-06-92, St Albans, Wigan Ath
+13, Jon Flatt, ENG, G, 1.85, 88, 12-09-94, Wolverhampton, Barrow (On Loan)
+15, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, Benfica
+20, Prince Oniangué, CGO, M, 1.90, 78, 04-11-88, Paris, Bastia (On Loan)
+12, Jed Wallace, ENG, M, 1.78, 69, 15-12-93, Reading, Millwall (On Loan)
+24, João Teixeira, POR, M, 1.78, 70, 06-02-94, Amora, Benfica
+28, Sylvain Deslandes, FRA, D, 1.86, 75, 25-04-97, Kouoptamo, Bury (On Loan)
+39, Aaron Simpson, ENG, D, , , 04-07-97, Canterbury, Portsmouth (On Loan)
+45, Will Randall, ENG, M, 1.80, 65, 02-05-97, Swindon, Walsall (On Loan)

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2012/13
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [VfR Aalen](aalen.txt)
+- [VfL Bochum](bochum.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [Hertha Berlin](hberlin.txt)
+- [Ingolstadt 04](ingols.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [1.FC Köln](koln.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [1.FC Union Berlin](unionber.txt)

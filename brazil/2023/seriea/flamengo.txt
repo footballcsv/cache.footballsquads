@@ -1,0 +1,46 @@
+=  Flamengo - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Athletico Paranaense
+2, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Dynamo Moscow
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, São Paulo
+4, Léo Pereira, BRA, D, 1.86, 76, 31-01-96, Curitiba, Athletico Paranaense
+5, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Fiorentina
+6, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, Spartak Moscow
+7, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Al-Ahli [UAE]
+8, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Lille
+9, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, Fiorentina
+10, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+11, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Benfica
+14, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Cruzeiro
+15, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, Red Bull Bragantino
+16, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Atlético Madrid
+17, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Boca Juniors
+19, Lorran, BRA, M, 1.73, 67, 04-07-06, Rio de Janeiro, None
+20, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Marseille
+21, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Atlético Mineiro
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Arsenal
+25, Matheus Cunha, BRA, G, 1.81, 79, 24-05-01, Tupi Paulista, None
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Santos
+29, Victor Hugo, BRA, M, 1.82, 81, 11-05-04, Rio de Janeiro, None
+30, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Lokomotiv Moscow
+31, Luiz Araújo, BRA, M, 1.75, 67, 02-06-96, Santa Clara do Sul, Atlanta U
+33, Cleiton, BRA, D, 1.88, 61, 25-04-03, Bahia, None
+34, Matheuzinho, BRA, D, 1.71, 65, 08-09-00, Londrina, Londrina
+37, Petterson, BRA, F, 1.81, 76, 04-01-04, Florianópolis, None
+39, José Welinton, BRA, D, 1.71, 65, 08-01-04, Jardim, Desportivo Brasil
+43, Wesley, BRA, D, 1.78, 73, 06-09-03, Maranhão, None
+44, Pedrinho, BRA, M, 1.75, 72, 18-04-03, Rio de Janeiro, None
+48, Igor Jesus, BRA, M, 1.79, 76, 07-03-03, Goiânia, None
+52, Evertton Araújo, BRA, M, -, -, 28-02-03, -, Volta Redonda
+63, Rayan, BRA, M, 1.80, 74, 03-01-05, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Marinho, BRA, F, 1.76, 62, 29-05-90, Penedo, Fortaleza
+45, Hugo Souza, BRA, G, 1.96, 94, 31-01-99, Duque de Caxias, Chaves (On Loan)
+32, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Athletico Paranaense
+40, Matheus Gonçalves, BRA, M, 1.75, 70, 18-08-05, Rio de Janeiro, Red Bull Bragantino (On Loan)
+42, Matheus França, BRA, M, 1.78, 67, 01-04-04, Rio de Janeiro, Crystal Palace
+38, André Luiz, BRA, F, 1.85, 74, 23-02-02, Rio de Janeiro, Estrela da Amadora (On Loan)

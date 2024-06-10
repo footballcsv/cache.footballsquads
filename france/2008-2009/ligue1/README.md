@@ -1,0 +1,23 @@
+# French Ligue 1 2008/09
+
+20 teams
+- [Auxerre](auxerre.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Grenoble](grenob.txt)
+- [Le Havre](lehavre.txt)
+- [Le Mans](lemans.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Monaco](monaco.txt)
+- [Nancy](nancy.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Toulouse](toulouse.txt)
+- [Valenciennes](valenc.txt)

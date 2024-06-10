@@ -1,0 +1,64 @@
+=  Dynamo Moscow - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+2, Vladimir Kisenkov, RUS, D, 1.82, 75, 08-10-81, Kaluga, Spartak Nalchik
+3, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, FC Moscow
+4, Marcin Kowalczyk, POL, D, 1.83, 83, 09-04-85, Wieruszów, GKS Bełchatów
+5, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, FC Moscow
+6, Leandro Fernández, ARG, D, 1.79, 80, 30-01-83, Rosario, River Plate
+8, Dmitri Khokhlov, RUS, M, 1.89, 86, 22-12-75, Moscow, Lokomotiv Moscow
+10, Andriy Voronin, UKR, F, 1.77, 79, 21-07-79, Odessa, Liverpool
+13, Vladimir Granat, RUS, D, 1.84, 75, 22-05-87, Moscow, Dynamo Moscow-2
+18, Tomislav Dujmović, CRO, M, 1.88, 87, 26-02-81, Zagreb, Lokomotiv Moscow
+19, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, FC Moscow
+20, Adrian Ropotan, ROU, M, 1.85, 75, 08-05-86, Galaţi, Dinamo Bucureşti
+21, Igor Semshov, RUS, M, 1.70, 69, 06-04-78, Moscow, Zenit St Petersburg
+22, Kevin Kuranyi, GER, F, 1.90, 80, 02-03-82, Rio de Janeiro, Schalke
+23, Luke Wilkshire, AUS, D, 1.76, 75, 02-10-81, Wollongong, FC Twente
+25, Denis Kolodin, RUS, D, 1.85, 87, 11-01-82, Kamyshin, Krylia Sovetov
+26, Martin Jakubko, SVK, F, 1.94, 95, 26-02-80, Prešov, Saturn
+30, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Kuban Krasnodar
+32, Marko Lomić, SRB, D, 1.89, 80, 13-09-83, Čačak, Partizan Belgrade
+34, Sergey Panov, RUS, G, 1.89, 75, 13-07-89, , Dynamo Moscow-2
+37, Aleksandr Lobkov, RUS, D, 1.80, 74, 17-12-89, Moscow, Dynamo Moscow-2
+40, Lee Min-Kyu, KOR, F, 1.84, 72, 14-03-92, Seoul, Dynamo Moscow-2
+41, Evgeniy Puzin, RUS, G, 1.91, 84, 20-03-90, , Kuban Krasnodar
+44, Grigoriy Evstegneev, RUS, M, 1.74, 72, 20-10-92, , Dynamo Moscow-2
+45, Ivan Solovyev, RUS, M, 1.68, 63, 29-03-93, Kaluga, Dynamo Moscow-2
+46, Aleksandr Bortnik, RUS, D, 1.84, 81, 12-09-92, , Dynamo Moscow-2
+47, Oleg Valov, RUS, M, 1.77, 71, 03-01-92, , Dynamo Moscow-2
+49, Aleksandr Karakin, RUS, D, 1.77, 64, 06-03-91, , Dynamo Moscow-2
+50, Nemanja Mjuskovic, MNE, D, 1.85, 80, 04-03-92, , Dynamo Moscow-2
+55, Nikita Sergeev, RUS, D, 1.85, 80, 14-02-92, , Dynamo Moscow-2
+57, Vladimir Rikhovskiy, RUS, M, 1.85, 76, 04-03-91, , Dynamo Moscow-2
+58, Dmitriy Otstavnov, RUS, F, 1.90, 84, 04-06-93, Tula, Dynamo Moscow-2
+61, Pavel Yevseyev, RUS, D, 1.86, 72, 28-11-92, , Dynamo Moscow-2
+63, Anton Rudakov, RUS, D, 1.91, 82, 07-04-89, , Dynamo Moscow-2
+66, Evgeniy Frolov, RUS, M, 1.72, 70, 26-10-93, , Dynamo Moscow-2
+70, Dmitriy Tikhonov, RUS, M, 1.75, 68, 11-02-92, , Dynamo Moscow-2
+73, Yuriy Petrakov, RUS, M, 1.78, 71, 27-01-91, , FC Moscow
+75, Ivan Shubkin, RUS, G, 1.82, 76, 13-09-93, , Dynamo Moscow-2
+77, Irakliy Logua, RUS, F, 1.74, 67, 29-07-91, Moscow, Dynamo Moscow-2
+79, Andrey Ornat, RUS, F, 1.72, 69, 04-03-91, , Zenit St Petersburg
+80, Ruslan Pashtov, RUS, M, 1.74, 72, 28-11-92, Nalchik, Dynamo Moscow-2
+81, Andrey Zharkov, RUS, M, 1.75, 70, 16-06-92, , Dynamo Moscow-2
+87, Aleksandr Kuzminov, RUS, D, 1.84, 80, 08-05-93, , Dynamo Moscow-2
+88, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, FC Moscow
+89, Aleksandr Bebikh, RUS, F, 1.84, 76, 29-08-89, Moscow, Dynamo Moscow-2
+92, Vadim Pronkin, RUS, F, 1.81, 71, 27-09-92, , Dynamo Moscow-2
+93, Vladimir Shpirev, RUS, M, 1.70, 65, 14-12-93, , Dynamo Moscow-2
+94, Dmitriy Zhivoglyadov, RUS, D, 1.78, 65, 29-05-94, Dubna, Dynamo Moscow-2
+95, Artem Katashevskiy, RUS, M, 1.82, 68, 02-01-94, , Dynamo Moscow-2
+97, Vitaliy Komisov, RUS, M, 1.75, 69, 11-07-92, , Dynamo Moscow-2
+99, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Dynamo Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+71, Aleksandr Denisov, RUS, M, 1.86, 78, 23-02-89, Moscow, Dynamo Bryansk (On Loan)
+11, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Feyenoord (On Loan)
+27, Sergey Terekhov, RUS, D, 1.80, 74, 27-06-90, Bryansk, FC Khimki (On Loan)
+91, Viktor Svezhov, RUS, M, 1.75, 71, 17-05-91, Moscow, Tom (On Loan)
+7, Kirill Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Spartak Moscow
+9, Dmitriy Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Spartak Moscow

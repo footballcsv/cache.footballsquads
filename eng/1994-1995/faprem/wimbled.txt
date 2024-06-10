@@ -1,0 +1,45 @@
+=  Wimbledon - English Premiership 1994/95
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hans Segers, G, 5'11", 12 12, 30-10-61, Eindhoven, Nottingham F
+2, Warren Barton, D, 5'11", 12 00, 19-03-69, Stoke Newington, Maidstone U
+3, Brian McAllister, D, 5'11", 12 05, 30-11-70, Glasgow, None
+4, Vinnie Jones, M, 6'00", 11 12, 05-01-65, Watford, Chelsea
+5, Dean Blackwell, D, 6'01", 12 10, 05-12-69, Camden, None
+6, Scott Fitzgerald, D, 6'00", 12 02, 13-08-69, Westminster, None
+7, Andy Clarke, F, 5'10", 11 07, 22-07-67, Islington, Barnet
+8, Robbie Earle, M, 5'09", 10 10, 27-01-65, Newcastle-u-Lyme, Port Vale
+9, Efan Ekoku, F, 6'01", 12 00, 08-06-67, Manchester, Norwich C
+10, Dean Holdsworth, F, 5'11", 11 13, 08-11-68, Walthamstow, Brentford
+11, Gary Blissett, F, 6'00", 12 07, 29-06-64, Manchester, Brentford
+12, Gary Elkins, D, 5'09", 11 13, 04-05-66, Wallingford, Fulham
+14, Gerald Dobbs, D, 5'08", 11 07, 24-01-71, Lambeth, None
+15, Alan Reeves, D, 6'00", 12 00, 19-11-67, Birkenhead, Rochdale
+16, Alan Kimble, D, 5'10", 12 04, 06-08-66, Poole, Cambridge U
+17, Roger Joseph, D, 5'11", 11 10, 24-12-65, Paddington, Brentford
+18, Steve Talboys, M, 5'10", 11 06, 18-09-66, Bristol, Gloucester C
+19, Stewart Castledine, M, 6'01", 12 00, 22-01-73, Wandsworth, None
+20, Marcus Gayle, F, 6'01", 12 09, 27-09-70, Hammersmith, Brentford
+21, Chris Perry, D, 5'08", 10 08, 26-04-73, Carshalton, None
+22, Aidan Newhouse, M, 6'02", 13 08, 23-05-72, Wallasey, Chester C
+23, Neil Sullivan, G, 6'00", 12 01, 24-02-70, Sutton, None
+24, Peter Fear, M, 5'10", 11 07, 10-09-73, Sutton, None
+25, Mick Harford, F, 6'03", 14 05, 12-02-59, Sunderland, Coventry C
+26, Neil Ardley, M, 5'11", 11 09, 01-09-72, Epsom, None
+27, Justin Skinner, D, 5'07", 11 00, 17-09-72, Dorking, None
+28, Andy Thorn, D, 6'00", 11 05, 12-11-66, Carshalton, Crystal Palace
+29, Grant Payne, F, 5'09", 11 04, 25-12-75, Woking, None
+30, Mark Thomas, M, 5'09", 10 10, 22-11-74, Tooting, None
+31, Lenny Piper, M, 5'06", 09 09, 08-08-77, Camberwell, None
+32, Gavin Fell, M, 5'10", 11 10, 06-06-76, Willington Quay, None
+33, Brendan Murphy, G, 5'11", 11 12, 19-08-75, Wexford, Bradford C
+34, Jason Euell, F, 5'11", 11 02, 06-02-77, Lambeth, None
+35, Øyvind Leonhardsen, M, 5'10", 11 02, 17-08-70, Kristiansund, Rosenborg
+36, Jon Goodman, F, 5'11", 12 03, 02-06-71, Walthamstow, Millwall
+37, Kenny Cunningham, D, 5'11", 11 02, 28-06-71, Dublin, Millwall
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, John Scales, D, 6'02", 13 05, 04-07-66, Harrogate, Liverpool
+13, Peter Shilton, G, 6'01", 14 00, 18-09-49, Leicester, Bolton W

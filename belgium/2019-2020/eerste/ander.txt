@@ -1,0 +1,57 @@
+=  Anderlecht - Belgian Eerste Klasse A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frank Boeckx, BEL, G, 1.80, 74, 27-09-86, Aarschot, Royal Antwerp
+4, Vincent Kompany, BEL, D, 1.93, 85, 10-04-86, Ukkel, Manchester C
+7, Andy Najar, HON, M, 1.70, 68, 16-03-93, Santa Cruz, DC United
+8, Pieter Gerkens, BEL, M, 1.79, 63, 17-02-95, Bilzen, Sint-Truiden
+9, Landry Dimata, BEL, F, 1.85, 80, 01-09-97, Mbuji-Mayi, Wolfsburg
+10, Michel Vlap, NED, M, 1.90, 69, 02-06-97, Sneek, SC Heerenveen
+14, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, West Ham U
+19, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, Monaco
+20, Marko Pjaca, CRO, F, 1.86, 85, 06-05-95, Zagreb, Juventus
+22, Elias Cobbaut, BEL, D, 1.88, 78, 24-11-97, Mechelen, Mechelen
+23, Peter Žulj, AUT, M, 1.85, 80, 09-06-93, Wels, Strum Graz
+25, Adrien Trebel, FRA, M, 1.70, 60, 03-03-91, Dreux, Standard Liège
+28, Dejan Joveljić, SRB, F, 1.81, 65, 07-08-99, Bijeljina, Eintracht Frankfurt
+30, Hendrik van Crombrugge, BEL, G, 1.88, 86, 30-04-93, Leuven, Eupen
+32, Derrick Luckassen, NED, D, 1.86, 78, 03-07-95, Amsterdam, PSV Eindhoven
+33, Davy Roef, BEL, G, 1.87, 84, 06-02-94, Antwerp, None
+34, Philippe Sandler, NED, D, 1.88, 76, 10-02-97, Amsterdam, Manchester C
+39, Edo Kayembe, COD, M, 1.83, 77, 03-06-98, Kananga, Sharks XI
+40, Francis Amuzu, BEL, F, 1.70, 65, 23-08-99, Accra, None
+43, Thierry Lutonda, BEL, D, 1.67, 62, 27-10-00, Liège, Standard Liège
+46, Anouar Ait El Hadj, BEL, M, 1.67, 65, 20-04-02, Molenbeek, None
+48, Albert Sambi Lokonga, BEL, M, 1.80, 70, 22-10-99, Verviers, None
+49, Jérémy Doku, BEL, F, 1.79, 68, 27-05-02, Borgerhout, None
+50, Sieben Dewaele, BEL, M, 1.80, 72, 02-02-99, Kortrijk, None
+51, Yari Verschaeren, BEL, M, 1.72, 63, 12-07-01, Antwerp, None
+54, Killian Sardella, BEL, D, 1.77, 64, 02-05-02, , None
+55, Marco Kana, BEL, D, 1.78, 62, 08-08-02, Kinshasa, None
+62, Michael Murillo, PAN, D, 1.83, 75, 11-02-96, Ciudad de Panamá, New York Red Bulls
+92, Kemar Lawrence, JAM, D, 1.78, 73, 17-09-92, Kingston, New York Red Bulls
+93, Kemar Roofe, ENG, F, 1.78, 71, 06-01-93, Walsall, Leeds U
+99, Zakaria Bakkali, BEL, M, 1.68, 71, 26-01-96, Liège, Valencia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Ivan Santini, CRO, F, 1.90, 86, 21-05-89, Zadar, Jiangu Suning
+45, Sebastiaan Bornauw, BEL, D, 1.90, 81, 22-03-99, Wemmel, Köln
+47, Abdoul Karim Danté, MLI, D, 1.86, 75, 29-10-98, Bamako, Excelsior Virton
+20, Sven Kums, BEL, M, 1.76, 63, 26-02-88, Asse, KAA Gent (On Loan)
+3, James Lawrence, ENG, D, 1.87, 81, 22-08-92, Henley-on-Thames, St Pauli (On Loan)
+2, Josué, POR, D, 1.86, 75, 17-06-92, Lisbon, Huesca (On Loan)
+38, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Esbjerg (On Loan)
+44, Antonio Milić, CRO, D, 1.90, 80, 10-03-94, Split, Rayo Vallecano (On Loan)
+60, Olivier Dhauholou, CIV, F, 1.82, 87, 06-06-97, , Waasland-Beveren (On Loan)
+24, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Malmö FF (On Loan)
+41, Emmanuel Sowah, GHA, D, 1.82, 80, 16-01-98, , Eupen
+6, Alexandru Chipciu, ROU, M, 1.75, 68, 18-05-89, Piteşti, CFR Cluj
+17, Luka Adžić, SRB, M, 1.84, 74, 17-09-98, Belgrade, FC Emmen (On Loan)
+16, Thomas Didillon, FRA, G, 1.93, 80, 28-11-95, Séclin, KRC Genk (On Loan)
+5, Yevhen Makarenko, UKR, M, 1.82, 73, 21-05-91, Kyiv, Kortrijk (On Loan)
+26, Bubacarr Sanneh, GAM, D, 1.83, 75, 14-11-94, Serrekunda, Oostende (On Loan)
+52, Hotman El Kababri, MAR, D, 1.70, 65, 24-01-00, , Zulte-Waregem
+56, Alexis Saelemaekers, BEL, M, 1.80, 72, 27-06-99, Sint-Agatha-Berchem, Milan (On Loan)
+15, Kenny Saief, USA, M, 1.76, 72, 17-12-93, Panama City [USA], Lechia Gdańsk (On Loan)

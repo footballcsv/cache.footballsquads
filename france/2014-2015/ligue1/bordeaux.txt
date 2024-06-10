@@ -1,0 +1,43 @@
+=  Bordeaux - French Ligue 1 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ažbe Jug, SVN, G, 1.92, 91, 03-03-92, Maribor, Interblock
+2, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Fluminense
+3, Diego Contento, ITA, D, 1.76, 70, 01-05-90, Munich, Bayern Munich
+4, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, Hampstead, Liverpool
+5, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Niort
+6, Lamine Sané, SEN, D, 1.92, 77, 22-03-87, Villeneuve-sur-Lot, None
+7, Abdou Traoré, MLI, M, 1.79, 73, 17-01-88, Bamako, None
+8, Grégory Sertic, FRA, M, 1.81, 69, 05-08-89, Brétigny-sur-Orge, None
+9, Diego Rolán, URU, F, 1.78, 74, 24-03-93, Montevideo, Defensor Sporting
+10, Henri Saivet, SEN, F, 1.73, 70, 26-10-90, Dakar, None
+11, Clément Chantôme, FRA, M, 1.80, 71, 11-09-87, Sens, Paris St-Germain
+12, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Malmö FF
+13, Thomas Touré, FRA, F, 1.75, 75, 27-12-93, Grasse, None
+14, Cheikh Diabaté, MLI, F, 1.94, 84, 25-04-88, Bamako, None
+15, Younès Kaabouni, FRA, M, 1.79, 67, 23-05-95, Bordeaux, None
+16, Cédric Carrasso, FRA, G, 1.87, 87, 30-12-81, Avignon, Toulouse
+17, André Biyogo Poko, GAB, M, 1.73, 72, 01-01-93, Bitam, US Bitam
+18, Jaroslav Plašil, CZE, M, 1.83, 72, 05-01-82, Opočno, Osasuna
+19, Nicolas Maurice-Belay, FRA, M, 1.82, 76, 19-04-85, Sucy-en-Brie, Sochaux
+20, Jussiê, BRA, F, 1.80, 76, 19-09-83, Nova Venécia, Lens
+21, Cédric Yambéré, FRA, D, 1.91, 81, 06-11-90, Bordeaux, Lormont
+22, Julien Faubert, FRA, D, 1.80, 75, 01-08-83, Le Havre, Elazığspor
+23, Valentin Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, None
+24, Wahbi Khazri, TUN, M, 1.82, 78, 08-02-91, Ajaccio, Bastia
+25, Théo Pellenard, FRA, D, 1.82, 71, 04-03-94, Lille, None
+27, Marc Planus, FRA, D, 1.83, 76, 07-03-82, Bordeaux, None
+28, David Djigla, BEN, F, 1.80, 78, 23-08-95, Avakpa, Onze Créateurs de Niaréla
+29, Maxime Poundjé, FRA, D, 1.79, 71, 16-08-92, Bordeaux, None
+30, Jérôme Prior, FRA, G, 1.84, 88, 08-08-95, Toulon, None
+33, Enzo Crivelli, FRA, F, 1.84, 79, 06-02-95, Rouen, None
+34, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, None
+35, Sessi D'Almeida, FRA, M, 1.78, 71, 20-11-95, Bordeaux, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Lucas Orban, ARG, D, 1.84, 76, 03-02-89, Capital Federal, Valencia
+12, Hadi Sacko, FRA, F, 1.83, 79, 24-03-94, Corbeil-Essonnes, Sporting CP
+11, Emiliano Sala, ARG, F, 1.87, 75, 31-10-90, Cululú, Caen (On Loan)
+26, Clément Badin, FRA, M, 1.68, 71, 26-05-93, Bruges, Avilés (On Loan)

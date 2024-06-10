@@ -1,0 +1,46 @@
+=  Cuiabá - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Walter, BRA, G, 1.88, 82, 18-11-87, Jaú, Corinthians
+2, Matheus Alexandre, BRA, D, 1.88, 88, 07-04-99, Marília, Corinthians
+3, Vitão, BRA, D, 1.94, 81, 17-09-00, Cuiabá, Aruko
+4, Marllon, BRA, D, 1.81, 75, 16-04-92, Rio de Janeiro, Corinthians
+5, Filipe Augusto, BRA, M, 1.82, 77, 12-08-93, Bahia, Damac
+6, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Internacional
+7, Jonathan Cafú, BRA, F, 1.75, 68, 10-07-91, Piracicaba, Corinthians
+8, Ronald, BRA, M, 1.71, 74, 18-06-97, Belford Roxo, Fortaleza
+9, Isidro Pitta, PAR, F, 1.83, 88, 14-08-99, Asunción, Huesca
+11, Wellington Silva, BRA, M, 1.70, 64, 06-01-93, Rio de Janeiro, Gamba Osaka
+14, Raniele, BRA, D, 1.84, 78, 31-12-96, Baixa Grande, Avaí
+16, Deyverson, BRA, F, 1.89, 82, 08-05-91, Santa Margarida, Palmeiras
+17, Emerson Negueba, BRA, F, 1.75, 75, 24-11-00, Boqueirão, CRB
+20, Rikelme, BRA, M, 1.84, 80, 16-07-03, Cuiabá, None
+21, João Carlos, BRA, G, 1.90, 92, 06-04-88, Paranavaí, CSA
+22, Derik Lacerda, BRA, F, 1.90, 78, 27-09-99, Rio de Janeiro, Ponferradina
+25, Nicolás Quagliata, URU, M, 1.72, 68, 05-06-99, Montevideo, PAOK
+26, Vinícius Barreta, BRA, G, 1.88, 75, 16-04-99, Lages, Cruzeiro
+27, Denilson, BRA, M, 1.80, 75, 23-03-01, Nazaré do Piauí, Bangu
+29, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, V-Varen Nagasaki
+31, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, Sporting Braga
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Verona
+34, Allyson, BRA, D, 1.85, 70, 23-10-90, São Paulo, Ümraniyespor
+54, Ricardo Cerqueira, BRA, M, 1.84, 80, 29-12-02, Santanópolis, Capivariano
+55, Calebe, BRA, M, -, -, 07-06-03, Florianópolis, Inter de Lages
+63, Juan Pablo, BRA, D, 1.79, 75, 25-04-02, Brasília, Paysandu
+82, Pablinho, BRA, F, 1.80, 65, 20-09-03, -, Democrata
+84, Gabryel Freitas, BRA, F, 1.68, 60, 28-10-02, Santana de Parnaíba, SKA Brasil
+88, Fernando Sobral, BRA, M, 1.78, 70, 17-12-94, Sobral, Ceará
+94, PK, BRA, D, 1.81, 74, 05-07-94, Madre de Deus, Ypiranga
+97, Luiz Felipe, BRA, M, -, -, 07-08-04, -, Capivariano
+98, Mateusinho, BRA, D, 1.75, 63, 07-10-98, Magé, Sampaio Corrêa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Lucas Cardoso, BRA, M, 1.89, 80, 03-08-00, Poxoréu, Botafogo-SP (On Loan)
+28, Rafael Gava, BRA, M, 1.78, 71, 20-05-93, Americana, Avaí
+20, Vinícius Boff, BRA, M, 1.75, 73, 10-02-99, Rondonópolis, Pouso Alegre (On Loan)
+30, João Maranini, BRA, D, 1.88, 77, 20-07-02, Cuiabá, Botafogo-SP (On Loan)
+99, Iury Castilho, BRA, F, 1.83, 71, 06-09-95, Rio de Janeiro, Vitória
+77, Victor Yan, BRA, M, 1.77, 70, 09-04-01, Taboão da Serra, Metalist Kharkiv
+10, Pablo Ceppelini, URU, M, 1.76, 68, 11-09-91, Montevideo, 

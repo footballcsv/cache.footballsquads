@@ -1,0 +1,39 @@
+=  Rosenborg - Norwegian Tippeligaen 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, André Hansen, NOR, G, 1.94, 93, 17-12-89, Oslo, Odd
+3, Mikael Dorsin, SWE, D, 1.82, 78, 06-10-81, Lidingö, CFR Cluj
+4, Tore Reginiussen, NOR, D, 1.85, 80, 10-06-86, Tromsø, Odense
+5, Hólmar Eyjólfsson, ISL, D, 1.88, 80, 06-08-90, Kópavogur, Bochum
+7, Mike Jensen, DEN, M, 1.76, 75, 19-02-88, Rødovre, Brøndby
+8, Morten Gamst Pedersen, NOR, M, 1.83, 74, 08-09-81, Vadsø, Karabükspor
+10, Matthías Vilhjálmsson, ISL, F, 1.87, 82, 30-01-87, Ísafjörður, Start
+11, Tobias Mikkelsen, DEN, M, 1.78, 73, 18-09-86, Helsingør, Greuther Fürth
+12, Alexander Lund Hansen, NOR, G, 1.97, 89, 06-10-82, Trondheim, Start
+14, Johan Lædre Bjørdal, NOR, D, 1.85, 80, 05-05-86, Egersund, Aarhus
+15, Alexander Søderlund, NOR, F, 1.87, 87, 03-08-87, Haugesund, Haugesund
+16, Jørgen Skjelvik, NOR, D, 1.80, 80, 05-07-91, Hosle, Kalmar FF
+18, Magnus Stamnestrø, NOR, M, 1.78, 72, 18-04-92, Kyrksæterøra, Kristiansund
+19, Yann-Erik de Lanlay, NOR, M, 1.80, 72, 14-05-92, Stavanger, Viking
+20, Ole Selnæs, NOR, M, 1.87, 74, 07-07-94, Trondheim, None
+21, Fredrik Midtsjø, NOR, M, 1.76, 70, 11-08-93, Stjørdal, None
+22, Jonas Svensson, NOR, M, 1.70, 70, 06-03-93, Levanger, None
+23, Pål André Helland, NOR, M, 1.87, 82, 04-01-90, Orkanger, Hødd
+24, Anders Konradsen, NOR, M, 1.85, 79, 18-07-90, Bodø, Rennes
+32, John Hou Sæter, NOR, M, 1.78, 67, 13-01-98, Trondheim, Trond
+33, Julian Faye Lund, NOR, G, 1.85, 80, 20-05-99, Oslo, Oppsal
+34, Sivert Solli, NOR, M, 1.70, 70, 27-07-97, Brekstad, None
+35, Erlend Reitan, NOR, D, 1.80, 70, 11-09-97, Trondheim, None
+36, Andreas Helmersen, NOR, F, 1.90, 82, 15-03-98, Trondheim, None
+38, Per Magnus Steiring, NOR, D, 1.83, 78, 07-02-97, Bodø, None
+41, Daniel Hagen, NOR, G, , , 25-02-97, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Liam Henderson, SCO, M, 1.73, 67, 25-04-96, Livingston, Celtic
+24, Stefan Strandberg, NOR, D, 1.89, 80, 25-07-90, Lyngdal, FC Krasnodar
+33, Jacob Storevik, NOR, G, 1.86, 83, 29-07-96, Førde, Levanger
+10, Tomáš Malec, SVN, F, 1.99, 92, 05-01-93, Trenčín, AS Trenčín
+9, Riku Riski, FIN, M, 1.68, 66, 16-08-89, Turku, IFK Göteborg (On Loan)
+17, Emil Nielsen, DEN, F, 1.75, 73, 08-11-93, Holbæk, Aarhus (On Loan)

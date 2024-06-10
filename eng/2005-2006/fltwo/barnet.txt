@@ -1,0 +1,41 @@
+=  Barnet - English Football League Two 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ross Flitney, G, 6'01", 11 11, 01-06-84, Hitchin, Fulham
+2, Nicky Bailey, M, 5'10", 12 08, 10-06-84, Hammersmith, Sutton U
+3, Simon King, D, 6'00", 12 00, 11-04-83, Oxford, Oxford U
+4, Ian Hendon, D, 6'00", 12 10, 05-12-71, Ilford, Peterborough U
+5, Adam Gross, D, 5'10", 12 08, 16-02-86, Greenwich, Charlton Ath
+6, Anthony Charles, D, 6'00'', 12 00, 11-03-81, Isleworth, Farnborough T
+7, Liam Hatch, F, 6'02'', 12 03, 03-04-84, Hitchin, Gravesend & Northfleet
+8, Dean Sinclair, M, 5'09", 11 02, 17-12-84, Luton, Norwich C
+9, Giuliano Grazioli, F, 5'11", 12 00, 23-03-75, London, Bristol R
+10, Ben Strevens, F, 6'01'', 11 00, 24-05-80, Islington, Wingate & Finchley
+11, Richard Graham, M, 5'08", 10 06, 05-08-79, Newry, Kettering T
+12, Lee Roache, F, 5'08", 11 00, 30-04-84, Leytonstone, None
+13, Ryan Jones, G, 6'02", 13 00, , , None
+14, Ismail Yakubu, D, 5'11'', 12 00, 08-04-85, London, None
+15, Damien Batt, D, 5'10", 11 06, 16-09-84, Hoddesdon, Redbridge
+16, Simon Clist, M, 5'09", 11 00, 13-06-81, Shaftsbury, Bristol C
+18, Tresor Kandol, F, 6'01", 11 07, 30-08-81, Banga, Dagenham & Redbridge
+19, Ben Bowditch, D, 5'09", 11 07, 19-02-84, Harlow, Colchester U
+20, Jason Norville, F, 5'11'', 10 07, 09-09-83, Sangre Grande, Watford
+21, Louie Soares, D, 5'11", 11 05, 08-01-85, Reading, Reading
+22, Luke Hickie, M, 5'11", 11 07, 17-08-88, Croydon, Crystal Palace
+24, Paulo Vernazza, M, 6'00", 11 10, 01-11-79, Islington, Rotherham U
+25, Andy Hessenthaler, M, 5'07", 11 05, 17-06-65, Gravesend, Gillingham
+26, Joe Devera, D, 6'02", 12 00, 06-02-87, Southgate, None
+27, Paul Warhurst, D, 6'01", 12 01, 26-09-69, Stockport, Wrexham
+28, Matthew Reed, G, 6'01", 11 00, 24-12-86, Dartford, West Ham U
+29, Stevland Angus, D, 6'00", 12 00, 16-09-80, Westminster, Grays Ath
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Zeljko Popovic, D, , , 21-10-80, , Staines T
+23, Morgaro Gomis, M, 5'07", , 14-07-85, Paris, Lewes
+25, Wesley Garcia, M, , , , , 
+18, Scott Tynan, G, 6'02", 13 03, 27-11-83, Knowsley, Rushden & Diamonds
+27, Alex Varney, F, 5'11", 11 13, 27-12-84, Farnborough, Charlton Ath
+23, Barry Fuller, M, 5'10", 11 10, 25-08-84, Ashford, Charlton Ath
+17, Dwane Lee, M, 6'03", 13 09, 26-11-79, Hillingdon, 

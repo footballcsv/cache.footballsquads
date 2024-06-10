@@ -1,0 +1,71 @@
+=  Saturn - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonín Kinský, CZE, G, 1.87, 86, 31-05-75, Prague, Slovan Liberec
+2, Dmitriy Parfenov, UKR, D, 1.70, 68, 11-09-74, Odessa, Arsenal Kiev
+4, Roman Vorobyov, RUS, M, 1.75, 70, 24-03-84, St. Petersburg, FC Khimki
+5, Aleksey Igonin, RUS, D, 1.81, 82, 18-03-76, St. Petersburg, Chernomorets Odessa
+6, Dmitriy Grachev, RUS, D, 1.87, 80, 06-10-83, Voronezh, KamAZ
+7, Petr Nemov, RUS, M, 1.80, 69, 18-10-83, Oryol, Krylia Sovetov
+8, Marko Topić, CRO, F, 1.83, 84, 01-01-76, Oštra Luka, Krylia Sovetov
+11, Denis Boyarintsev, RUS, M, 1.74, 71, 06-02-78, Moscow, Spartak Moscow
+14, Dmitriy Kirichenko, RUS, F, 1.75, 75, 17-01-77, Novoalexandrovsk, FC Moscow
+15, Ruslan Nakhushev, RUS, D, 1.85, 79, 05-09-84, Nalchik, FC Khimki
+16, Vadim Evseev, RUS, D, 1.80, 82, 08-01-76, Mytishchi, Torpedo Moscow
+21, Andrey Karyaka, RUS, M, 1.79, 75, 01-04-78, Dnipropetrovsk, Benfica
+22, Zhora Hovhannisyan, ARM, M, 1.70, 69, 16-04-87, Yerevan, Kymis
+24, Benoît Angbwa, CMR, D, 1.76, 76, 01-01-82, Garoua, Krylia Sovetov
+25, Kamil Kopúnek, SVK, M, 1.79, 71, 18-05-84, Trnava, Spartak Trnava
+26, Zelão, BRA, D, 1.88, 89, 12-11-86, Pirajuí, Corinthians
+28, Vladimir Kuzmichev, RUS, M, 1.85, 80, 28-07-79, Moscow, Terek Grozny
+29, Leonid Kovel, BLR, F, 1.79, 79, 29-07-86, Smarhoń, Dinamo Minsk
+30, Aleksandr Makarov, RUS, G, 1.98, 99, 23-08-78, Morshansk, Krylia Sovetov
+33, Vitaliy Chilushkin, RUS, G, 1.78, 72, 21-01-90, Kabanovo, Saturn-2
+40, Evgeniy Degtyarev, RUS, M, 1.72, 63, 07-02-93, , Saturn-2
+41, Aleksandr Sapeta, RUS, M, 1.79, 73, 28-06-89, Engels, Saturn-2
+42, Aleksandr Vlaskin, RUS, D, 1.91, 71, 22-01-92, , Saturn-2
+44, Nikita Lapin, RUS, M, 1.72, 69, 20-05-93, , Saturn-2
+46, Viktor Kuzmichev, RUS, M, 1.80, 71, 19-03-92, Makhachkala, Saturn-2
+49, Artem Anisimov, RUS, M, 1.78, 79, 30-01-91, , Saturn-2
+51, Shamil Kurbanov, RUS, D, 1.75, 78, 10-04-93, , Saturn-2
+52, Aleksandr Semyachkin, RUS, M, 1.74, 65, 25-07-92, , Saturn-2
+53, Aleksandr Kolodko, RUS, M, 1.82, 72, 10-07-89, Omsk, Saturn-2
+56, Vladimir Sobolev, RUS, M, 1.67, 65, 30-07-91, Gukovo, Saturn-2
+57, Artem Molodtsov, RUS, D, 1.74, 70, 08-10-90, Saratov, Saturn-2
+58, Kirill Kuleshov, RUS, F, 1.87, 82, 03-01-91, , Saturn-2
+60, Sergey Pchelkin, RUS, F, 1.81, 70, 30-10-92, , Saturn-2
+62, Dmitriy Nikitinskiy, RUS, M, 1.80, 70, 09-02-92, Volokolamsk, Saturn-2
+64, Sergey Bryzgalov, RUS, D, 1.78, 72, 15-11-92, Pavlovo, Saturn-2
+67, Emin Makhmudov, RUS, M, 1.67, 67, 27-04-92, Lankaran, Saturn-2
+69, Dmitriy Zinovich, RUS, M, 1.90, 77, 19-05-89, Murom, Shinnik
+70, Maksim Plopa, RUS, M, 1.88, 76, 23-01-90, Bălţi, FC Khimki
+71, Artem Bragin, RUS, M, 1.80, 75, 28-01-92, , Saturn-2
+72, Vladimir Torshentsev, RUS, M, 1.80, 66, 22-05-93, , Saturn-2
+73, Anton Trubitsin, RUS, F, 1.73, 68, 18-03-92, , Saturn-2
+74, Temuri Bukiya, RUS, F, 1.75, 71, 02-04-94, , Saturn-2
+75, Viktor Lipin, RUS, M, 1.77, 71, 07-01-94, , Saturn-2
+76, Konstantin Savichev, RUS, M, 1.73, 64, 06-03-94, Bryansk, Saturn-2
+77, Artem Rebrov, RUS, G, 1.89, 85, 04-03-84, Moscow, Saturn-2
+79, Marat Gubzhev, RUS, F, 1.76, 65, 02-08-92, , Spartak Nalchik
+88, Aleksey Ivanov, RUS, M, 1.78, 73, 01-09-81, Saratov, Luch-Energia
+90, Aleksandr Romanov, RUS, G, 1.87, 83, 09-03-90, , Saturn-2
+95, Makhach Gadzhiev, RUS, M, 1.81, 73, 18-10-87, Kizilyurt, Krylia Sovetov
+99, Solomon Okoronkwo, NGA, F, 1.82, 77, 02-03-87, Enugu, Hertha Berlin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+91, Aleksandr Manyukov, RUS, D, 1.80, 72, 27-01-93, , Saturn-2
+93, Aleksandr Grishchenko, RUS, M, 1.77, 65, 24-07-90, , Saturn-2
+94, Aleksey Shirokov, RUS, G, 1.95, 88, 06-04-89, Moscow, Saturn-2
+13, Dmitriy Kudryashov, RUS, M, 1.76, 75, 13-05-83, Izevsk, Luch-Energia
+31, Evgeniy Levchenko, UKR, M, 1.87, 77, 02-01-78, Konstantinovka, Willem II
+10, Dmitriy Loskov, RUS, M, 1.78, 78, 12-02-74, Kurgan, Lokomotiv Moscow
+92, Artem Pershin, RUS, M, 1.78, 72, 06-02-88, Moskovskaya Oblast, Dynamo St Petersburg
+65, Mikhail Filippov, RUS, G, 1.96, 90, 10-06-92, Volzhsky, Saturn-2
+20, Martin Jakubko, SVK, F, 1.94, 95, 26-02-80, Prešov, Dynamo Moscow
+63, Yevgeniy Malkov, RUS, D, 1.86, 81, 12-07-88, Elektrostal, Dynamo St Petersburg (On Loan)
+43, Andrey Savchenko, RUS, M, 1.77, 72, 28-01-92, , Saturn-2
+48, Daniil Mots, RUS, M, 1.70, 66, 02-01-91, , Saturn-2
+19, Denis Halilović, SVN, D, 1.88, 84, 02-03-86, Slovenj Gradec, Willem II (On Loan)
+80, Aleksey Skornyakov, RUS, G, 1.86, 73, 16-03-93, Dubna, Znamya Truda (On Loan)

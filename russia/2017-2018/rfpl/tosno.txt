@@ -1,0 +1,43 @@
+=  FC Tosno - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mikhail Oparin, RUS, G, 1.91, 81, 22-05-93, Omsk, Yenisey Krasnoyarsk
+3, Aslan Dudiyev, RUS, D, 1.81, 71, 15-06-90, Alagir, Anzhi Makhachkala
+4, Ilya Zhigulyov, RUS, M, 1.75, 70, 01-02-96, Chernomorski, FC Krasnodar
+5, Nemanja Mijušković, MNE, D, 1.86, 81, 04-03-92, Podgorica, Taraz
+8, Sergey Sukharev, RUS, D, 1.83, 83, 29-01-87, Stary Oskol, Arsenal Tula
+9, Rustem Mukhametshin, RUS, M, 1.83, 79, 02-04-84, Kazan, Mordovia Saransk
+10, Georgiy Melkadze, RUS, F, 1.80, 77, 04-04-97, Moscow, Spartak Moscow-2
+11, Maksim Palienko, RUS, M, 1.77, 67, 18-10-94, Samara, Krylia Sovetov
+12, Vasiliy Lukichev, RUS, G, 1.93, 85, 31-12-91, Moscow, Strogino Moscow
+14, Alyaksandr Karnitsky, BLR, M, 1.87, 87, 14-02-89, Stowbtsy, Gomel
+15, Nuno Rocha, CPV, M, 1.83, 77, 25-03-92, Praia, Universitatea Craiova
+16, David Yurchenko, BLR, G, 1.86, 71, 27-03-86, Ashgabat, Anzhi Makhachkala
+19, Aleksey Skvortsov, RUS, M, 1.85, 73, 13-01-92, St. Petersburg, FC Tambov
+21, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, FC Ufa
+22, Reziuan Mirzov, RUS, M, 1.80, 74, 22-06-93, Baksan, FC Rostov
+23, Aleksandr Troshechkin, RUS, M, 1.83, 78, 23-04-96, Moscow, FC Rostov
+24, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Lokomotiv Moscow
+25, Andrey Buyvolov, RUS, D, 1.86, 76, 12-01-87, Balakhna, Volga Nizhny Novgorod
+26, Rade Dugalić, SRB, D, 1.93, 92, 05-11-92, Prokuplje, Torpedo Armavir
+27, Anderson Carvalho, BRA, M, 1.76, 74, 20-05-90, Cubatão, Boavista
+28, Evgeniy Chernov, RUS, D, 1.80, 73, 23-10-92, Tomsk, Zenit St Petersburg
+29, Ricardinho, BRA, M, 1.75, 69, 04-09-89, São Paulo, Crvena Zvezda
+31, Aleksandr Makarov, RUS, M, 1.75, 68, 24-04-96, Yershov, CSKA Moscow
+33, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, Dynamo Moscow
+34, Vladimir Bystrov, RUS, M, 1.78, 69, 31-01-84, Luga, FC Krasnodar
+64, Denis Kutin, RUS, D, 1.84, 67, 05-10-93, Hamburg, Spartak Moscow
+77, Nikola Trujić, SRB, F, 1.82, 76, 14-04-92, Bor, Vojvodina Novi Sad
+88, Marko Poletanović, SRB, M, 1.84, 72, 20-07-93, Novi Sad, KAA Gent
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Mladen Kašćelan, MNE, M, 1.78, 70, 13-02-83, Kotor, FC Tambov
+7, Ilnur Alshin, RUS, M, 1.73, 60, 31-08-93, Tyumen, Avangard Kursk (On Loan)
+30, Alyaksandr Hutar, BLR, G, 1.90, 83, 18-04-89, Minsk, Chornomorets Odessa
+17, Anton Zabolotniy, RUS, F, 1.88, 84, 13-06-91, Lipetsk, Zenit St Petersburg
+57, Ruslan Abazov, RUS, D, 1.85, 77, 25-05-93, Nalchik, Rotor Volgograd (On Loan)
+20, Yevgeniy Markov, RUS, F, 1.87, 78, 07-07-94, St. Petersburg, Dynamo Moscow
+13, Vitaliy Shakhov, RUS, D, 1.88, 74, 09-01-91, Severny, Baltika Kaliningrad (On Loan)
+91, Yan Kazayev, RUS, M, 1.83, 72, 26-11-91, St Petersburg, Tom Tomsk (On Loan)

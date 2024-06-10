@@ -1,0 +1,52 @@
+=  Cádiz - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Cifuentes, ESP, G, 1.89, 81, 29-05-79, Albacete, Piast Gliwice
+2, Luismi Quezada, DOM, D, 1.71, 66, 11-02-96, Madrid, Real Madrid B
+3, Fali, ESP, M, 1.86, 72, 12-08-93, Valencia, Nàstic
+4, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Villarreal B
+5, Jon Ander Garrido, ESP, M, 1.85, 81, 09-10-89, Bilbao, Granada
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, Levante
+7, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Villanovense
+8, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+9, Anthony Lozano, HON, F, 1.82, 74, 25-04-93, Yoro, Girona
+10, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Barcelona B
+11, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Zaragoza
+12, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Toulouse
+13, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+14, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Getafe
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Huesca
+16, Cala, ESP, D, 1.87, 76, 26-11-89, Lebrija, Las Palmas
+17, Edu Ramos, ESP, M, 1.76, 71, 17-02-92, Churriana, Córdoba
+18, José Manuel Jurado, ESP, M, 1.74, 76, 29-06-86, Sanlúcar de Barrameda, Changchun Yatai
+19, Jean-Pierre Rhyner, SUI, D, 1.84, 72, 16-03-96, Zürich, Grasshoppers
+20, Isaac Carcelén, ESP, D, 1.78, 75, 23-04-93, El Puerto de Santa María, Rayo Majadahonda
+21, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Birmingham C
+22, Alfonso Espino, URU, D, 1.70, 73, 05-01-92, San Jacinto, Nacional [URU]
+23, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Eibar
+24, Filip Malbašić, SRB, F, 1.83, 73, 18-11-92, Belgrade, Tenerife
+25, Augusto Fernández, ARG, M, 1.77, 73, 10-04-86, Pergamino, Beijing Renhe
+27, Cristian Arco, ESP, G, 1.83, 82, 17-01-95, Granada, El Ejido
+28, Seth Airam, ESP, F, , , 01-07-98, Las Palmas, Cádiz B
+29, Moisés, ESP, D, , , 01-01-97, La Liara, Cádiz B
+30, Juan Flere, ITA, G, 1.82, 73, 12-05-98, Bariloche, Xerez Deportivo
+31, José Antonio Franco, ESP, D, , , 09-03-98, Seville, Cádiz B
+32, Saturday Erimuya, NGA, D, 1.90, 75, 10-01-98, Benin City, Cádiz B
+34, Sergio González, ESP, D, 1.84, 77, 14-05-97, Cartagena, Cádiz B
+35, Mamady Diarra, MLI, F, 1.70, 61, 26-06-00, Bamako, Yeelen Olympique
+36, Manuel Nieto, ESP, F, 1.82, 72, 29-03-98, Villa del Río, Betis B
+37, Sergio Pérez, ESP, F, , , 04-06-97, Gerena, Almería B
+38, Javi Duarte, ESP, M, , , 22-12-97, Málaga, Cádiz B
+39, Marc Baró, ESP, D, 1.80, 72, 23-08-99, Palma de Mallorca, Leioa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Ivan Kecojević, MNE, D, 1.84, 77, 10-04-88, Bar, Albacete
+14, Dejan Lekić, SRB, F, 1.93, 88, 07-06-85, Kraljevo, Atlético Baleares
+2, Brian Oliván, ESP, D, 1.77, 70, 01-04-94, Barcelona, Girona (On Loan)
+9, Djordje Jovanović, SRB, F, 1.85, 75, 15-02-99, Leposavić, Cartagena (On Loan)
+11, Caye Quintana, ESP, F, 1.78, 69, 20-12-93, Huelva, Fuenlabrada (On Loan)
+26, Javi Navarro, ESP, M, , , 01-01-97, Barcelona, Ponferradina (On Loan)
+24, David Querol, ESP, F, 1.86, 76, 25-02-89, Reus, Albacete (On Loan)
+21, Sergio Sánchez, ESP, D, 1.85, 76, 03-04-86, Mataró, Albacete (On Loan)

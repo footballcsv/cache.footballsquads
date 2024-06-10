@@ -1,0 +1,50 @@
+=  Bursaspor - Turkish Süper Lig 2017/2018
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Güngören Belediyespor
+2, Serdar Kurtuluş, TUR, D, 1.84, 79, 23-07-87, Bursa, Beşiktaş
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Ankaragücü
+4, Ertuğrul Ersoy, TUR, D, 1.85, 78, 13-02-97, Gölcük, None
+6, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Kasımpaşa
+7, Merter Yüce, TUR, M, 1.92, 85, 18-02-85, Bornova, Akhisar Belediyespor
+8, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Parma
+9, Sercan Yıldırım, TUR, F, 1.82, 71, 05-04-90, Osmangazi, Galatasaray
+10, Pablo Batalla, ARG, M, 1.70, 65, 16-01-84, Córdoba, Beijing Guoan
+12, Sinan Bakış, TUR, F, 1.86, 78, 22-04-94, Troisdorf, Kayserispor
+14, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Standard Liège
+17, Furkan Soyalp, TUR, M, 1.84, 80, 12-06-95, Ankara, None
+18, Kubilay Kanatsızkuş, TUR, F, 1.86, 79, 28-03-97, Bursa, None
+22, Jirès Kembo Ekoko, COD, F, 1.78, 78, 08-01-88, Kinshasa, Al-Nasr [UAE]
+23, Aziz Behich, AUS, D, 1.72, 66, 16-12-90, Moonee Ponds, Melbourne Heart
+24, Joshua John, NED, F, 1.75, 63, 01-10-88, Alkmaar, FC Nordsjælland
+25, Shehu Abdullahi, NGA, M, 1.81, 72, 12-03-93, Kano, Anorthosis Famagusta
+26, Barış Yardımcı, TUR, D, 1.76, 71, 14-08-92, Malazgirt, Gaziantepspor
+27, Muhammet Şengezer, TUR, G, 1.88, 78, 05-01-97, Bursa, None
+28, Bogdan Stancu, ROU, F, 1.78, 69, 28-06-87, Piteşti, Gençlerbirliği
+29, Dzon Delarge, CGO, F, 1.73, 67, 24-06-90, Brazzaville, Admira Wacker Mödling
+30, Rüştü Hanlı, TUR, D, , , 03-01-97, Osmangazi, None
+32, Yusuf Erdoğan, TUR, M, 1.71, 68, 07-08-92, Isparta, Trabzonspor
+33, Onur Atasayar, TUR, D, 1.84, 75, 01-01-95, Kütahya, Ankaragücü
+35, Ataberk Dadakdeniz, TUR, G, 1.94, 84, 05-08-99, İzmir, None
+37, Gheorghe Grozav, ROU, M, 1.88, 82, 29-09-90, Alba Iulia, Karabükspor
+44, Paschal Okoli, NGA, M, , , 17-10-97, , None
+45, Yusuf Muhammed, NGA, F, , , 25-05-98, , None
+46, Mikel Agu, NGA, M, 1.84, 77, 27-05-93, Benin City, FC Porto
+51, John Bostock, ENG, M, 1.79, 75, 15-01-92, Lambeth, Lens
+68, Alper Ademoğlu, BEL, M, 1.80, 72, 10-04-98, İstanbul, Schalke
+77, Emmanuel Agyemang-Badu, GHA, M, 1.73, 71, 02-12-90, Berekum, Udinese
+93, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, KAA Gent
+99, Moussa Sow, SEN, F, 1.80, 76, 19-01-86, Mantes-la-Jolie, Al-Ahli [UAE]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jon Ustabaşı, ENG, M, 1.80, 70, 24-03-94, Manchester, Yeşil Bursa (On Loan)
+15, Tomáš Necid, CZE, F, 1.90, 81, 13-08-89, Prague, Slavia Prague (On Loan)
+66, Mert Örnek, TUR, F, 1.83, 77, 12-02-97, Aydın, Giresunspor
+98, Ozan Can Kökçü, AZE, M, 1.76, 66, 18-08-98, Haarlem, RKC Waalwijk (On Loan)
+5, Bilal Kısa, TUR, M, 1.80, 71, 22-06-83, Merzifon, Akhisar Belediyespor
+11, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Gençlerbirliği
+21, İsmail Konuk, TUR, D, 1.87, 83, 16-01-88, Denizli, Gazişehir Gaziantep
+20, Furkan Özçal, TUR, M, 1.70, 71, 03-09-90, Munich, Osmanlıspor
+91, Kofi Atta, GHA, M, 1.85, 75, 17-06-97, Accra, Giresunspor (On Loan)

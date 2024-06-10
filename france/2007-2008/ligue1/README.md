@@ -1,0 +1,23 @@
+# French Ligue 1 2007/08
+
+20 teams
+- [Auxerre](auxerre.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Le Mans](lemans.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Nancy](nancy.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)
+- [Valenciennes](valenc.txt)

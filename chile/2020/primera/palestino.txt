@@ -1,0 +1,35 @@
+=  Palestino - Chilean Primera División 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gastón Guruceaga, URU, G, 1.89, 89, 15-03-95, Artigas, Peñarol
+2, Sebastián Silva, CHI, D, 1.81, 81, 01-07-97, Santiago, None
+3, Lucas Acevedo, ARG, D, 1.94, 97, 08-11-91, Justiniano Posse, Colón (Santa Fe)
+5, Agustín Farías, ARG, M, 1.78, 73, 25-12-87, Azul, Nueva Chicago
+6, Diego Oyarzún, CHI, M, 1.75, 69, 02-03-99, , None
+7, Matías Campos López, CHI, F, 1.78, 81, 18-08-91, Puente Alto, Universidad de Chile
+8, Esteban Carvajal, CHI, M, 1.73, 70, 17-11-88, Catemu, Coquimbo Unido
+9, Leandro Benegas, ARG, F, 1.79, 78, 27-08-88, Godoy Cruz, Universidad de Chile
+10, Luis Jiménez, CHI, M, 1.83, 75, 17-06-84, Santiago, Al-Ittihad [KSA]
+11, Jonathan Benítez, ARG, F, 1.78, 77, 04-09-91, Corrientes, Coquimbo Unido
+13, César Cortés, CHI, M, 1.72, 69, 09-01-84, Iquique, Santiago Wanderers
+14, Benjamín Rojas, CHI, D, 1.79, 80, 01-03-01, Providencia, None
+15, Vicente Fernández, CHI, D, 1.80, 66, 17-02-99, San Bernardo, Universidad Católica
+16, Nicolás Solabarrieta, CHI, F, 1.85, 82, 24-08-96, Santiago, Tacuarembó
+17, Enzo Guerrero, CHI, D, 1.81, 84, 31-01-91, Andacollo, Deportes Iquique
+19, Diego Soto, CHI, M, 1.71, 66, 01-09-99, , None
+20, Guillermo Soto, CHI, D, 1.75, 65, 10-01-94, Santiago, Barnechea
+21, Henry Sanhueza, CHI, D, 1.78, 66, 24-03-96, Constitución, Barnechea
+22, Sergio Felipe, URU, D, 1.78, 74, 21-02-91, Montevideo, Danubio
+23, Renato Tarifeño, COL, F, 1.70, 65, 06-09-96, Coquimbo, Universidad de Concepción
+24, Jorge Araya, CHI, M, 1.76, 67, 25-03-96, Santiago, Colo-Colo
+25, Cristián Guerra, CHI, G, 1.83, 83, 09-08-94, Mejillones, Unión Española
+26, Dixon Contreras, CHI, G, , , 26-04-02, , None
+27, Sebastián Cabrera, CHI, M, 1.76, 69, 16-03-98, Coquimbo, Coquimbo Unido
+28, Bryan Carrasco, CHI, M, 1.70, 67, 31-01-91, Santiago, Veracruz
+29, Fabián Ahumada, CHI, F, 1.80, 75, 26-04-96, San Bernardo, None
+30, Gabriel Fuentes, CHI, G, 1.88, 88, 04-05-03, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Nicolás Díaz, CHI, D, 1.78, 75, 20-05-99, La Florida, Morelia

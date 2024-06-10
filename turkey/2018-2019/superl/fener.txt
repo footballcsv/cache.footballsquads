@@ -1,0 +1,50 @@
+=  Fenerbahçe - Turkish Süper Lig 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Volkan Demirel, TUR, G, 1.91, 92, 27-10-81, Fatih, Kartalspor
+3, Hasan Ali Kaldırım, TUR, D, 1.83, 74, 09-12-89, Neuwied, Kayserispor
+4, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Cagliari
+5, Mehmet Topal, TUR, M, 1.87, 76, 03-03-86, Malatya, Valencia
+6, İsmail Köybaşı, TUR, D, 1.77, 65, 10-07-89, İskenderun, Beşiktaş
+7, Alper Potuk, TUR, M, 1.81, 70, 08-04-91, Blovadin, Eskişehirspor
+8, Victor Moses, NGA, M, 1.77, 79, 12-12-90, Lagos, Chelsea
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Villarreal
+11, Mehmet Ekici, GER, M, 1.80, 70, 25-03-90, Munich, Trabzonspor
+13, Idriss Carlos Kameni, CMR, G, 1.86, 86, 18-02-84, Douala, Málaga
+15, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, Galatasaray
+16, Ferdi Kadıoğlu, NED, M, 1.73, 64, 07-10-99, Arnhem, NEC Nijmegen
+17, Nabil Dirar, MAR, M, 1.82, 79, 25-02-86, Casablanca, Monaco
+18, Tolgay Arslan, GER, M, 1.79, 75, 16-08-90, Paderborn, Beşiktaş
+19, Şener Özbayraklı, TUR, D, 1.81, 71, 23-01-90, Borçka, Bursaspor
+20, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, Swansea C
+21, Miha Zajc, SVN, F, 1.80, 76, 01-07-94, Šempeter pri Gorici, Empoli
+22, Michael Frey, SUI, F, 1.88, 86, 19-07-94, Münsingen, Zürich
+25, Berke Özer, TUR, G, 1.91, 73, 25-05-00, İzmir, Altınordu
+26, Tolga Ciğerci, GER, M, 1.85, 75, 23-03-92, Nordenham, Galatasaray
+28, Mathieu Valbuena, FRA, M, 1.67, 58, 28-09-84, Bordeaux, Lyon
+31, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Leicester C
+32, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, Grêmio
+33, Roman Neustädter, RUS, D, 1.90, 82, 18-02-88, Dnipropetrovsk, Schalke
+35, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Bursaspor
+37, Martin Škrteľ, SVK, D, 1.91, 81, 15-12-84, Handlová, Liverpool
+39, Yassine Benzia, FRA, M, 1.79, 71, 08-09-94, Saint-Aubin Lès-Elbeuf, Lille
+42, Abdulcebrail Akbulut, TUR, D, 1.78, 69, 15-10-01, Bayburt, None
+44, Sadık Çiftpınar, TUR, D, 1.83, 77, 01-01-93, Seyhan, Yeni Malatyaspor
+54, Erten Ersu, TUR, G, 1.94, 90, 21-04-94, Bakırköy, None
+66, Oğuz Kağan Güçtekin, TUR, M, 1.73, 68, 06-04-99, Mersin, None
+80, Serhat Kot, TUR, M, 1.70, 70, 12-08-97, Bielefeld, Nürnberg II
+99, Eljif Elmas, MKD, M, 1.84, 74, 24-09-99, Skopje, Rabotnički Skopje
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+48, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Empoli
+10, Giuliano, BRA, M, 1.72, 68, 31-05-90, Curitiba, Al-Nassr
+60, Samed Karakoç, TUR, M, 1.70, 67, 30-06-97, Tokat, Tarsus İdman Yurdu (On Loan)
+89, Souza, BRA, M, 1.76, 77, 11-02-89, Rio de Janeiro, Al-Ahli Saudi
+8, Ozan Tufan, TUR, M, 1.79, 70, 23-03-95, Bursa, Alanyaspor (On Loan)
+24, Barış Alıcı, TUR, M, 1.80, 67, 24-06-97, İzmir, Yeni Malatyaspor (On Loan)
+53, Yiğithan Güveli, TUR, D, 1.93, 85, 16-03-98, Kocaeli, Yeni Malatyaspor
+92, Aatif Chahechouhe, FRA, M, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Rizespor
+23, Diego Reyes, MEX, D, 1.85, 64, 19-09-92, Mexico City, Leganés (On Loan)
+15, Uygar Zeybek, TUR, M, 1.78, 72, 04-06-95, Osmangazi, İstanbulspor

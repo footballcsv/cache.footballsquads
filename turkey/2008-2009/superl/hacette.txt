@@ -1,0 +1,46 @@
+=  Hacettepe - Turkish Süper Lig 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ulaş Güler, TUR, G, 1.80, 77, 08-04-80, Aydin, Gençlerbirliği
+2, Arda Yavuz, TUR, D, 1.75, 70, 04-05-89, , RW Essen
+5, Ümit Bozkurt, TUR, D, 1.81, 74, 20-04-76, Nizip, Manisaspor
+6, Adnan Güngör, TUR, D, 1.79, 74, 20-09-80, Samsun, Trabzonspor
+7, Olgay Coşkun, TUR, M, 1.74, 74, 09-02-84, Susurluk, Karşıyaka
+8, Alper Kalemci, TUR, M, 1.80, 74, 22-07-91, Muğla, Marmaris Belediyespor
+10, Sandro, BRA, M, 1.77, 74, 01-10-83, Fortaleza, Gençlerbirliği
+11, Kemal Yıldırım, TUR, M, 1.77, 67, 02-03-84, Ankara, Gençlerbirliği
+14, Recep Biler, TUR, G, 1.93, 80, 08-05-81, Izmir, Fenerbahçe
+15, Ramazan Yaralı, TUR, M, , , 01-01-90, Keçiören, None
+19, Tozo, BRA, M, 1.80, 78, 15-08-80, Mogi Mirim, Gençlerbirliği
+20, Kadir Bekmezci, TUR, M, 1.83, 76, 05-07-85, Genk, Gençlerbirliği
+21, Gilman Lika, ALB, M, 1.79, 70, 31-01-87, Shkodër, FK Vllaznia
+22, Serkan Atak, TUR, F, 1.75, 70, 03-01-84, Kosching, Gaziantepspor
+24, Ante Kulušić, CRO, D, 1.89, 85, 06-06-86, Šibenik, Gençlerbirliği
+26, Selçuk Şahin, TUR, D, 1.76, 71, 26-03-83, Munich, Kartalspor
+27, Sedat Dağ, TUR, D, 1.82, 82, 27-05-90, Altındağ, None
+28, Tolga Seyhan, TUR, D, 1.87, 74, 17-01-77, Giresun, Kocaelispor
+34, Baykal Yılmaztaş, TUR, D, 1.88, 77, 24-01-85, Beyoğlu, Beylerbeyi
+36, Şahin Firat, TUR, M, , , 20-10-90, Seyhan, Gençlerbirliği
+37, Recep Güler, TUR, F, , , 04-07-90, Korkut, Gençlerbirliği
+39, Serhat Yapıcı, GER, M, 1.75, 75, 22-07-88, Hamburg, St Pauli
+52, Engin Güngor, TUR, F, 1.82, 77, 17-05-86, Nijmegen, FC Eindhoven
+60, Patiyo Tambwe, COD, F, 1.85, 68, 07-01-84, Beni, Lokeren
+61, İbrahim Şahin, TUR, F, 1.80, 81, 01-03-84, Arakli, Sebatspor
+67, Orhan Şam, TUR, D, 1.80, 74, 01-06-86, Zonguldak, Gençlerbirliği
+69, Murat Kalkan, TUR, D, 1.81, 70, 20-05-86, Bayburt, Gençlerbirliği
+77, Ufuk Arslan, TUR, D, 1.78, 70, 19-10-87, Manisa, Gençlerbirliği
+84, Ümit Tütünci, TUR, F, 1.78, 75, 01-10-84, Trabzon, Gençlerbirliği
+98, Ercüment Kafkasyalı, TUR, G, 1.87, 75, 13-09-85, Ankara, Gençlerbirliği
+99, François Zoko, CIV, F, 1.82, 72, 13-09-83, Daloa, RAEC Mons
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+66, Murat Selvi, TUR, D, 1.76, 73, 10-07-82, Maasmechelen, Karabükspor
+90, Amir Azmy Megahed, EGY, D, 1.90, 85, 14-02-83, Cairo, AEK Larnaca
+55, Shaibu Yakubu, GHA, F, 1.83, 78, 02-11-86, Obuasi, 
+44, Cevher Toktaş, TUR, M, 1.90, 81, 13-09-87, Malatya, Kahramanmaraşspor (On Loan)
+9, Xhevahir Sukaj, ALB, F, 1.82, 76, 05-10-87, Shkodër, Gençlerbirliği
+4, Admir Teli, ALB, D, 1.84, , 02-06-81, Shkodër, 
+88, Mehmet Uslu, TUR, M, 1.87, 75, 25-02-88, Izmit, Kartalspor (On Loan)
+68, Ufuk Eş, TUR, M, 1.76, 70, 23-02-87, , Güngören Belediyespor (On Loan)

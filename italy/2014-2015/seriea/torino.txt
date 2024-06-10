@@ -1,0 +1,51 @@
+=  Torino - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Salvador Ichazo, URU, G, 1.86, 73, 26-01-92, Montevideo, Danubio
+3, Cristian Molinaro, ITA, D, 1.80, 76, 30-07-83, Moio della Civitella, Parma
+4, Migjen Basha, SUI, M, 1.80, 72, 05-01-87, Lausanne, Atalanta
+5, Cesare Bovo, ITA, D, 1.81, 79, 14-01-83, Rome, Genoa
+7, Omar El Kaddouri, MAR, M, 1.85, 74, 21-08-90, Brussels, Napoli
+8, Alexander Farnerud, SWE, M, 1.81, 72, 01-05-84, Helsingborg, Young Boys
+10, Barreto, BRA, F, 1.71, 60, 12-07-85, Rio de Janeiro, Udinese
+11, Maxi López, ARG, F, 1.90, 88, 03-04-84, Capital Federal, Chievo Verona
+13, Luca Castellazzi, ITA, G, 1.92, 89, 19-07-75, Gorgonzola, Internazionale
+14, Alessandro Gazzi, ITA, M, 1.84, 83, 28-01-83, Feltre, Siena
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Lazio
+17, Josef Martínez, VEN, F, 1.70, 70, 19-05-93, Valencia [VEN], Young Boys
+18, Pontus Jansson, SWE, D, 1.90, 86, 13-02-91, Arlöv, Malmö FF
+19, Nikola Maksimović, SRB, D, 1.93, 82, 25-11-91, Bajina Bašta, Crvena Zvezda
+20, Giuseppe Vives, ITA, M, 1.78, 70, 14-07-80, Naples, Lecce
+21, Gastón Silva, URU, D, 1.83, 74, 05-03-94, Salto, Defensor Sporting
+22, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Parma
+24, Emiliano Moretti, ITA, D, 1.85, 80, 11-06-81, Rome, Genoa
+25, Kamil Glik, POL, D, 1.90, 80, 03-02-88, Jastrzębie Zdrój, Palermo
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Juventus
+30, Daniele Padelli, ITA, G, 1.91, 85, 25-10-85, Lecco, Udinese
+32, Salvatore Masiello, ITA, M, 1.75, 70, 31-01-82, Naples, Bari
+33, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Santos
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Palermo
+45, Facundo Lescano, ARG, F, 1.90, 82, 18-08-96, Mercedes, Genoa
+60, Kevin Bonifazi, ITA, D, 1.80, 70, 19-05-96, Toffia, Siena
+74, Andrea Zaccagno, ITA, G, 1.83, 77, 27-05-97, Padua, Padova
+75, Claudio Morra, ITA, F, 1.85, 79, 22-01-95, Savigliano, Verona
+90, Simone Rosso, ITA, M, 1.80, 60, 10-11-95, Pinerolo, None
+91, Giovanni Graziano, ITA, M, , , 07-11-95, Vercelli, None
+94, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Internazionale
+97, Simone Edera, ITA, F, 1.74, 65, 09-01-97, Turin, None
+98, Alessandro Dalmasso, ITA, D, , , 07-05-96, Turin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Atlético Madrid
+22, Vlada Avramov, SRB, G, 1.88, 80, 05-04-79, Novi Sad, Atalanta (On Loan)
+29, Marko Vešović, SRB, M, 1.77, 70, 28-08-91, Podgorica, Rijeka (On Loan)
+51, Davide Cinaglia, ITA, D, 1.85, 74, 10-04-94, Rome, Ascoli
+23, Antonio Nocerino, ITA, M, 1.75, 76, 09-04-85, Naples, Milan
+6, Rubén Pérez, ESP, M, 1.78, 72, 26-04-89, Seville, Atlético Madrid
+9, Marcelo Larrondo, ARG, F, 1.91, 79, 16-08-88, Tunuyán, Tigre (On Loan)
+96, Nicholas Lentini, ITA, G, 1.88, , 20-08-96, Carrara, Bari (On Loan)
+92, Federico Caronte, ITA, D, , , 26-05-97, Turin, Udinese (On Loan)
+1, Jean-François Gillet, BEL, G, 1.81, 82, 31-05-79, Liège, Catania
+28, Juan Sánchez Miño, ARG, M, 1.77, 78, 01-01-90, Saavedra, Estudiantes (LP) (On Loan)

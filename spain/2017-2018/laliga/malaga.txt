@@ -1,0 +1,50 @@
+=  Málaga - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto, ESP, G, 1.92, 93, 10-02-86, Fuenlabrada, Espanyol
+2, Ignasi Miquel, ESP, D, 1.88, 82, 28-09-92, Corbera de Llobregat, Lugo
+3, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Sevilla B
+4, Luis Hernández, ESP, D, 1.83, 75, 14-04-89, Madrid, Leicester C
+5, Esteban Rolón, ARG, M, 1.75, 70, 25-03-95, Posadas, Argentinos Juniors
+6, Zdravko Kuzmanović, SRB, M, 1.85, 81, 22-09-87, Thun, Basel
+7, Manuel Iturra, CHI, M, 1.74, 71, 23-06-84, Temuco, Necaxa
+8, Adrián González, ESP, M, 1.83, 77, 25-05-88, Madrid, Eibar
+9, Borja González, ESP, F, 1.86, 83, 25-08-92, Madrid, Swansea C
+10, Juanpi, VEN, M, 1.75, 67, 24-01-94, Caracas, Málaga B
+11, Gonzalo Castro, URU, M, 1.78, 77, 14-09-84, Trinidad, Real Sociedad
+12, Brown Ideye, NGA, F, 1.80, 70, 10-10-88, Yenagoa, Tianjin Teda
+13, Andrés Prieto, ESP, G, 1.94, 92, 17-10-93, Alicante, Espanyol B
+14, Recio, ESP, M, 1.82, 79, 11-01-91, Málaga, Málaga B
+15, Federico Ricca, URU, D, 1.78, 73, 01-12-94, Tarariras, Danubio
+16, Adalberto Peñaranda, VEN, F, 1.85, 78, 31-05-97, El Vigia, Watford
+17, Isaac Success, NGA, F, 1.82, 90, 07-01-96, Benin City, Watford
+18, Roberto Rosales, VEN, D, 1.75, 71, 20-11-88, Caracas, FC Twente
+19, Alberto Bueno, ESP, F, 1.78, 65, 20-03-88, Madrid, FC Porto
+20, Keko, ESP, M, 1.72, 66, 27-12-91, Brunete, Eibar
+21, Samu, ESP, M, 1.79, 73, 13-07-90, Málaga, Levante
+22, Maxime Lestienne, BEL, M, 1.76, 63, 17-06-92, Mouscron, Rubin Kazan
+23, Miguel Torres, ESP, D, 1.85, 81, 28-01-86, Madrid, Olympiakos
+24, Diego Rolán, URU, F, 1.77, 69, 24-03-93, Montevideo, Bordeaux
+25, Mehdi Lacen, ALG, M, 1.76, 70, 15-03-84, Versailles, Getafe
+26, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Málaga B
+27, Álex Robles, ESP, D, 1.70, 68, 28-01-99, Pizarra, Málaga B
+29, Ían Pino, ESP, D, 1.87, 80, 23-01-96, Prats de Lluçanès, Jumilla
+31, José Carlos Sánchez, ESP, M, 1.77, 68, 24-08-98, Málaga, Málaga B
+33, Kellyan, ESP, G, 1.94, 90, 14-08-98, Catral, Málaga B
+34, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Rayo Vallecano B
+35, Iván Rodríguez, ESP, D, 1.80, 70, 30-04-96, Alameda, Málaga B
+37, Alberto López, ESP, D, 1.73, 68, 27-05-95, Granada, Málaga B
+38, Juan Cruz, ESP, M, 1.77, 72, 25-04-00, Quilmes, Málaga B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Juan Carlos, ESP, D, 1.79, 70, 30-03-90, Boadilla del Monte, De-Registered
+19, Emanuel Cecchini, ARG, M, 1.80, 78, 24-12-96, Ingeniero Huergo, León (On Loan)
+22, Paul Baysse, FRA, D, 1.85, 82, 15-05-88, Talence, Bordeaux
+21, Jony, ESP, M, 1.79, 76, 09-07-91, Cangas del Narcea, Sporting Gijón (On Loan)
+12, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Albacete (On Loan)
+17, Javi Ontiveros, ESP, M, 1.70, 72, 09-09-97, Marbella, Valladolid (On Loan)
+28, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Tenerife (On Loan)
+13, Cenk Gönen, TUR, G, 1.90, 84, 21-02-88, İzmir, De-Registered
+25, Andrés Prieto, ESP, G, 1.94, 92, 17-10-93, Alicante, Re-Registered (13)

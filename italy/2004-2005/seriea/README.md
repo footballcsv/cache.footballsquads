@@ -1,0 +1,23 @@
+# Italian Serie A 2004/05
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Cagliari](cagliari.txt)
+- [Chievo Verona](cverona.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Livorno](livorno.txt)
+- [Messina](messina.txt)
+- [Milan](milan.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Siena](siena.txt)
+- [Udinese](udinese.txt)

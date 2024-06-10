@@ -1,0 +1,39 @@
+=  Dynamo Dresden - German 2.Bundesliga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Markus Scholz, GER, G, 1.96, 99, 17-05-88, Iserlohn, Bochum
+2, Vujadin Savić, SRB, D, 1.94, 88, 01-07-90, Belgrade, Bordeaux
+4, Cheikh Gueye, SEN, D, 1.80, 70, 30-12-86, Thies, Metz
+5, Roman Brégerie, FRA, D, 1.90, 88, 09-08-86, Talence, Metz
+6, Florian Jungwirth, GER, D, 1.80, 76, 27-01-89, Gräfelfing, 1860 Munich
+7, Idir Ouali, FRA, M, 1.76, 76, 21-05-88, Roubaix, Le Mans
+8, Filip Trojan, CZE, M, 1.72, 70, 21-02-83, Trebic, Mainz
+9, Pavel Fořt, CZE, F, 1.87, 82, 26-06-83, Plzeň, Arminia Bielefeld
+10, Mickaël Poté, BEN, F, 1.80, 79, 24-09-84, Lyon, Nice
+11, Anthony Losilla, FRA, M, 1.85, 75, 10-03-86, Firminy, Laval
+13, Benjamin Kirsten, GER, G, 1.82, 75, 02-06-87, Riesa, Waldhof Mannheim
+17, Lars Jungnickel, GER, F, 1.80, 78, 31-08-81, Dohna, Energie Cottbus
+18, Tobias Kempe, GER, M, 1.84, 70, 27-06-89, Wesel, Paderborn
+19, Giannis Papadopoulos, GRE, M, 1.77, 67, 09-03-89, Thessaloniki, Olympiakos
+21, Muhamed Subašić, BIH, D, 1.86, 79, 19-03-88, Ključ, Olimpik Sarajevo
+22, Bjarne Thoelke, GER, D, 1.90, 80, 11-04-92, Gifhorn, Wolfsburg
+23, Denis Streker, GER, M, 1.86, 76, 06-04-91, Mainz, 1899 Hoffenheim
+24, David Solga, GER, M, 1.81, 78, 16-10-82, Dortmund, Wacker Burghausen
+25, Robert Koch, GER, F, 1.82, 78, 26-02-86, Löbau, Borea Dresden
+27, Sebastian Schuppan, GER, M, 1.87, 81, 18-07-86, Lauchhammer, Paderborn
+28, Marcel Franke, GER, M, 1.93, 84, 05-04-93, Dresden, None
+29, Tobias Jänicke, GER, M, 1.78, 74, 16-03-89, Neubrandenburg, Hansa Rostock
+30, Dmitri Khlebosolov, BLR, F, 1.72, 68, 07-10-90, Brest [BLR], Spartak Moscow-2
+35, Florian Fromlowitz, GER, G, 1.88, 83, 02-07-86, Kaiserslautern, Duisburg
+38, Tobias Müller, GER, M, 1.80, 75, 10-05-93, Königshain, Borea Dresden
+39, Lynel Kitambala, FRA, F, 1.77, 72, 26-10-88, Creil, St-Etienne
+40, Cristian Fiel, ESP, M, 1.82, 80, 12-03-80, Esslingen am Neckar, Alemannia Aachen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Jens Möckel, GER, D, 1.89, 81, 21-02-88, Leipzig, RW Erfurt
+37, Toni Leistner, GER, D, 1.90, 85, 19-08-90, Dresden, Hallescher FC (On Loan)
+31, Petar Slišković, CRO, F, 1.93, 88, 21-02-91, Sarajevo, Mainz
+20, Cüneyt Köz, TUR, D, 1.83, 77, 12-10-92, Kösching, Preußen Münster (On Loan)
+14, Hasan Pepić, MNE, M, 1.80, 74, 16-03-93, Podgorica, Juventus

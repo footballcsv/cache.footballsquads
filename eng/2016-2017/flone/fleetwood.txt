@@ -1,0 +1,52 @@
+=  Fleetwood Town - English Football League One 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Port Vale
+2, Conor McLaughlin, NIR, D, 1.83, 71, 26-07-91, Belfast, Preston NE
+3, Amari'i Bell, ENG, D, 1.79, 66, 05-05-94, Burton upon Trent, Gillingham
+4, Cameron Brannagan, ENG, M, 1.80, 71, 09-05-96, Manchester, Liverpool
+5, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Rochdale
+6, Nathan Pond, ENG, D, 1.90, 70, 05-01-85, Preston, Lancaster C
+8, Jimmy Ryan, IRL, M, 1.80, 66, 06-09-88, Maghull, Chesterfield
+9, Wes Burns, WAL, F, 1.73, 68, 28-10-95, Cardiff, Bristol C
+10, David Ball, ENG, F, 1.83, 75, 14-12-89, Whitefield, Peterborough U
+11, Bobby Grant, ENG, F, 1.80, 76, 01-07-90, Blackpool, Blackpool
+12, Cian Bolger, IRL, D, 1.93, 79, 12-03-92, Kildare, Southend U
+13, Kieran Wallace, ENG, M, 1.86, 75, 26-01-95, Nottingham, Sheffield U
+14, Joe Davis, ENG, D, 1.83, 67, 10-11-93, Burnley, Leicester C
+15, Victor Nirennold, FRA, D, 1.93, 82, 05-04-91, Rennes, Nova Southeastern Univ
+17, Nick Haughton, ENG, M, 1.78, 78, 20-09-94, Urmston, Runcorn T
+18, George Glendon, ENG, M, 1.77, 70, 03-05-95, Manchester, Manchester C
+21, Alex Cairns, ENG, G, 1.83, 72, 04-01-93, Doncaster, Rotherham U
+22, Ashley Hunter, ENG, F, 1.78, 67, 29-09-95, Derby, Ilkeston
+23, Martyn Woolford, ENG, M, 1.83, 74, 13-10-85, Pontefract, Sheffield U
+24, Thomas Grant, SCO, M, 1.73, 62, 31-05-95, Aberdeen, Falkirk
+25, Oliver Roberts, ENG, M, , , 23-09-96, Ashton-under-Lyne, Stoke C
+26, Ashley Nadesan, ENG, F, 1.88, 75, 09-09-94, Redhill, Horley T
+27, Elliot Osborne, ENG, M, 1.83, 75, 12-05-96, Stoke-on-Trent, Nantwich T
+28, Jack Sowerby, ENG, F, 1.75, 78, 23-03-95, Preston, Squires Gate
+29, Akil Wright, ENG, M, 1.83, 73, 13-05-96, Derby, Ilkeston
+31, Dion Charles, NIR, M, 1.78, 67, 07-10-95, Preston, AFC Fylde
+32, Nathan Sheron, ENG, D, 1.83, 64, 04-10-97, Whiston, Liverpool
+33, Mamadou Djabi, ENG, F, , , , , None
+34, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, Huddersfield T
+35, Godswill Ekpolo, NGA, D, 1.81, 73, 14-05-95, Benin City, Barcelona B
+36, Spencer Myers, ENG, D, , , 05-09-97, Torquay, Everton
+37, Ben Davies, ENG, D, 1.85, 74, 11-08-95, Barrow, Preston NE
+38, Markus Schwabl, GER, M, 1.82, 71, 26-08-90, Tegernsee, Aalen
+39, Alex Reid, ENG, F, 1.92, 76, 06-09-95, Birmingham, Rushall Olympic
+41, Matt Urwin, ENG, G, 1.85, 76, 28-11-93, Blackpool, AFC Fylde
+43, Joe Maguire, ENG, D, 1.79, 70, 18-01-96, Manchester, Liverpool
+44, Devante Cole, ENG, F, 1.85, 73, 10-05-95, Alderley Edge, Bradford C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Ricardo Kip, NED, M, 1.70, 69, 15-03-92, Rijswijk, SC Cambuur (On Loan)
+45, Alex Jakubiak, ENG, F, 1.77, 66, 27-08-96, Westminster, Watford
+9, Aaron Holloway, WAL, F, 1.88, 83, 21-02-93, Cardiff, Oldham Ath
+19, Chris Long, ENG, F, 1.69, 77, 25-02-95, Huyton, Burnley
+4, Eggert Jónsson, ISL, M, 1.88, 72, 18-08-88, Rekyjavik, SønderjyskE
+16, Michael Duckworth, ENG, D, 1.81, 75, 28-04-92, Rinteln, Morecambe (On Loan)
+20, Keano Deacon, ENG, M, 1.69, 67, 04-04-96, , Stalybridge Celtic
+30, Kieran Dunbar, ENG, M, 1.83, 73, 14-09-96, Birmingham, Stalybridge Celtic

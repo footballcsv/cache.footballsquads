@@ -1,0 +1,50 @@
+=  De Graafschap - Dutch Eredivisie 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hidde Jurjus, NED, G, 1.87, 87, 09-02-94, Lichtenvoorde, None
+2, Thijs Bouma, NED, D, 1.79, 69, 02-04-92, Hardenberg, Almere C
+3, Robin Pröpper, NED, D, 1.92, 80, 23-09-93, Arnhem, None
+4, Ted van de Pavert, NED, D, 1.90, 85, 06-01-92, Doetinchem, None
+5, Jeroen Tesselaar, NED, D, 1.83, 74, 16-01-89, Wognum, St Mirren
+6, Lion Kaak, NED, M, 1.80, 80, 26-06-91, Hengelo, Achilles '29
+7, Alexander Bannink, NED, M, 1.85, 75, 26-02-90, Oldenzaal, FC Emmen
+8, Karim Tarfi, BEL, M, 1.73, 70, 05-07-93, Jette, Anderlecht
+9, Vincent Vermeij, NED, F, 1.95, 80, 09-08-94, Blaricum, Ajax
+10, Dean Koolhof, NED, F, 1.74, 69, 15-12-94, Duiven, None
+11, Erik Quekel, NED, F, 1.81, 78, 16-04-87, Den Bosch, FC Den Bosch
+12, Bart Straalman, NED, D, 1.93, 72, 22-08-96, Winterswijk, None
+13, Cas Peters, NED, F, 1.82, 79, 13-05-92, Oldenzaal, Nacional [POR]
+14, Bryan Smeets, NED, M, 1.82, 78, 22-11-92, Maastricht, MVV Maastricht
+15, Andrew Driver, ENG, M, 1.75, 68, 12-11-87, Oldham, Aberdeen
+16, Jasper Heusinkveld, NED, G, 1.85, 78, 24-12-88, Varsseveld, Go Ahead Eagles
+17, Nathan Kabasele, BEL, F, 1.78, 71, 14-01-94, , Anderlecht
+18, Tim Linthorst, NED, D, 1.91, 76, 25-02-94, Apeldoorn, Vitesse
+19, Nathaniël Will, NED, D, 1.77, 70, 16-02-89, Lelystad, NEC Nijmegen
+20, Youssef El Jebli, NED, M, 1.77, 75, 27-12-92, Utrecht, FC Lienden
+22, Aron de Koning, NED, M, , , 23-08-96, Veenendaal, Vitesse
+23, Kristopher Vida, HUN, F, 1.77, 73, 23-06-95, Budapest, FC Twente
+24, Jan Lammers, NED, D, 1.90, 83, 10-05-95, Zevenaar, None
+25, Tolgahan Çiçek, NED, D, 1.78, 70, 19-06-95, Delfzijl, FC Groningen
+26, Yoël Finke, NED, G, , , 28-10-94, , SV Schalkhaar
+27, Cas van der Wal, NED, D, , , 28-03-96, Lochem, None
+28, Oğuzhan Şahin, NED, F, , , 17-02-96, Deventer, None
+29, Tom Menting, NED, M, 1.72, 65, 29-11-94, Wageningen, None
+30, Mart Raterink, NED, D, , , 13-05-95, Doetinchem, None
+31, Tom Klein Kranenberg, NED, M, 1.80, 72, 04-02-95, Zutphen, None
+32, Osama Ben Kaddour, NED, F, , , 28-07-96, Gaanderen, None
+33, Shant Bedrosian, ARM, F, 1.75, , 18-02-95, , None
+34, Mart De Jong, NED, M, 1.82, 68, 21-11-95, , NEC Nijmegen
+35, Aleksandar Janković, SRB, M, 1.72, 67, 16-06-95, Rotterdam, Radnički 1923
+36, Jordy Rondeel, NED, G, 1.84, 76, 04-08-94, Keijenborg, Go Ahead Eagles
+37, Joost Rasing, NED, F, , , 25-01-93, Wehl, Concordia Wehl
+38, Marlon Versteeg, NED, F, 1.83, 77, 29-07-97, Arnhem, Vitesse
+39, Martijn Veldhuis, NED, M, , , 16-09-96, Haaksbergen, FC Twente
+40, Niek van den Berg, NED, D, , , 23-07-97, Arnhem, Vitesse
+41, Eric Verstappen, NED, G, 1.96, 86, 19-05-94, Venlo, VVV Venlo
+42, Mark Diemers, NED, M, 1.75, 70, 11-10-93, Leeuwarden, FC Utrecht
+43, Piotr Parzyszek, POL, F, 1.88, 74, 08-09-93, Toruń, Charlton Ath
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Jeroen Meurs, NED, F, 1.82, 78, 29-10-95, Velp, Retired

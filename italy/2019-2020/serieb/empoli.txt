@@ -1,0 +1,56 @@
+=  Empoli - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Brignoli, ITA, G, 1.87, 74, 19-08-91, Trescore Balneario, Palermo
+2, Francesco Donati, ITA, D, 1.82, 75, 20-01-01, Livorno, None
+3, Domenico Maietta, ITA, D, 1.84, 75, 03-08-82, Cariati, Bologna
+4, Dimitris Nikolaou, GRE, D, 1.89, 78, 13-08-98, Chalcis, Olympiakos
+5, Andrea Adamoli, ITA, D, 1.76, 69, 26-02-01, Lecco, Juventus
+6, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Carpi
+7, Leonardo Mancuso, ITA, F, 1.82, 80, 26-05-92, Milan, Juventus
+8, Leo Štulac, SVN, M, 1.75, 68, 26-09-94, Koper, Parma
+9, Stefano Moreo, ITA, F, 1.91, 75, 30-06-93, Milan, Palermo
+10, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Fiorentina
+11, Nedim Bajrami, SUI, M, 1.79, 68, 28-02-99, Zürich, Grasshoppers
+12, Paolo Branduani, ITA, G, 1.92, 92, 09-03-89, Vizzolo Predabissi, Juve Stabia
+13, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Milan
+14, Simone Pinna, ITA, D, 1.72, 68, 17-10-97, Oristano, Cagliari
+15, Tommaso Fantacci, ITA, M, 1.75, 70, 17-03-97, Lucca, None
+16, Davide Frattesi, ITA, M, 1.78, 74, 22-09-99, Rome, Sassuolo
+17, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Napoli
+18, Klemen Hvalič, SVN, G, 1.95, 80, 18-04-02, Ljubljana, ND Gorica
+19, Andrea La Mantia, ITA, F, 1.90, 81, 06-05-91, Marino, Lecce
+20, Leandro Pratelli, ITA, G, 1.96, 77, 11-12-02, San Miniato, None
+21, Dmitrijs Zelenkovs, LVA, M, 1.73, 64, 15-05-00, Rēzekne, FS Metta
+22, Filippo Perucchini, ITA, G, 1.91, 88, 06-10-91, Bergamo, Ascoli
+23, Marcello Gazzola, ITA, D, 1.83, 78, 03-04-85, Borgotaro, Parma
+24, Luca Belardinelli, ITA, M, 1.85, 85, 14-03-01, Senigallia, None
+25, Filippo Bandinelli, ITA, M, 1.80, 73, 29-03-95, Florence, Sassuolo
+26, Davide Merola, ITA, F, 1.76, 72, 27-03-00, Santa Maria Capua Vetere, Internazionale
+27, Kevin Cannavò, ITA, F, 1.80, 70, 09-02-00, Partinico, Palermo
+28, Samuele Ricci, ITA, M, 1.80, 73, 21-08-01, Pontedera, None
+29, Jure Balkovec, SVN, D, 1.85, 74, 09-09-94, Novo Mesto, Verona
+30, Luca Lombardi, ITA, F, 1.81, 68, 16-02-02, Pietrasanta, None
+31, Salif Sidibe, CIV, M, 1.78, 67, 15-11-01, , Viareggio
+32, Emanuele Matteucci, ITA, D, 1.91, 80, 26-01-00, San Miniato, None
+34, Mattia Viti, ITA, D, 1.88, 76, 24-01-02, Borgo San Lorenzo, None
+35, Francisco Sierralta, CHI, D, 1.90, 83, 06-05-97, Las Condes, Udinese
+36, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Lecce
+37, Gennaro Tutino, ITA, F, 1.77, 69, 20-08-96, Naples, Napoli
+38, Liam Henderson, SCO, M, 1.83, 78, 25-04-96, Livingston, Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Samuel Mráz, SVK, F, 1.84, 75, 13-05-97, Malacky, Brøndby (On Loan)
+26, Arnel Jakupović, AUT, F, 1.86, 81, 29-05-98, Vienna, Domžale (On Loan)
+19, Kevin Piscopo, ITA, F, 1.81, 75, 06-02-98, Vercelli, Carrarese (On Loan)
+17, Dmitrijs Zelenkovs, LVA, M, 1.73, 64, 15-05-00, Rēzekne, Re-Registered (21)
+12, Gabriel Meli, ITA, G, 1.88, 75, 05-02-99, Bagno a Ripoli, Rimini (On Loan)
+21, Karim Laribi, ITA, M, 1.75, 67, 20-04-91, Milan, Verona
+33, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Juve Stabia (On Loan)
+31, Roberto Pirrello, ITA, D, 1.90, 76, 30-05-96, Alcamo, Trapani (On Loan)
+5, Frédéric Veseli, ALB, D, 1.83, 80, 20-11-92, Renens, Le Mans (On Loan)
+10, Jacopo Dezi, ITA, M, 1.78, 69, 10-02-92, Atri, Parma
+18, Lorenzo Polvani, ITA, D, 1.88, 81, 26-07-94, Pistoia, Pianese (On Loan)
+20, Antonino La Gumina, ITA, F, 1.82, 78, 06-03-96, Palermo, Sampdoria (On Loan)

@@ -1,0 +1,50 @@
+=  Cádiz - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Cifuentes, ESP, G, 1.89, 81, 29-05-79, Albacete, Piast Gliwice
+2, Brian Oliván, ESP, D, 1.77, 70, 01-04-94, Barcelona, Granada B
+3, Servando, ESP, D, 1.81, 74, 02-06-84, San Fernando, Jaén
+4, Rober, ESP, D, 1.80, 76, 20-09-92, Badajoz, Espanyol
+5, Jon Ander Garrido, ESP, M, 1.85, 81, 09-10-89, Bilbao, Granada
+6, José Mari, ESP, M, 1.81, 65, 06-12-87, Rota, Levante
+7, Salvi, ESP, M, 1.75, 64, 30-03-91, Sanlúcar de Barrameda, Villanovense
+8, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Elche
+9, Djordje Jovanović, SRB, F, 1.85, 75, 15-02-99, Leposavić, Lokeren
+10, Vincenzo Rennella, ITA, F, 1.88, 78, 08-10-88, Saint Paul, Extremadura
+11, Jairo, ESP, M, 1.65, 67, 22-10-93, Santa Cruz de Tenerife, Girona
+12, David Carmona, ESP, D, 1.75, 72, 11-01-97, Palma del Río, Sevilla B
+13, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Getafe B
+14, Dejan Lekić, SRB, F, 1.93, 88, 07-06-85, Kraljevo, Reus
+15, Marcos Mauro, ARG, D, 1.88, 80, 09-01-91, Avellaneda, Villarreal B
+16, José Matos, ESP, D, 1.69, 68, 06-05-95, Utrera, Sevilla B
+17, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Udinese
+18, Alfonso Espino, URU, D, 1.70, 73, 05-01-92, San Jacinto, Nacional [URU]
+19, Mario Barco, ESP, F, 1.78, 85, 23-12-92, Estella, Lugo
+20, Sergio Sánchez, ESP, D, 1.85, 76, 03-04-86, Mataró, Espanyol
+21, David Querol, ESP, F, 1.86, 76, 25-02-89, Reus, Reus
+22, Ivan Kecojević, MNE, D, 1.84, 77, 10-04-88, Bar, Zürich
+23, Ager Aketxe, ESP, M, 1.75, 67, 30-12-93, Bilbao, Toronto FC
+24, Edu Ramos, ESP, M, 1.76, 71, 17-02-92, Churriana, Córdoba
+25, Fali, ESP, M, 1.86, 72, 12-08-93, Valencia, Nàstic
+26, Cristian Arco, ESP, G, 1.83, 82, 17-01-95, Granada, El Ejido
+27, Eneko Jauregi, ESP, F, 1.84, 81, 13-07-96, Muxika, Real Sociedad B
+29, Manu Vallejo, ESP, F, 1.67, 62, 14-02-97, Chiclana de la Frontera, Cádiz B
+30, Sergio, ESP, D, 1.84, 76, 14-05-97, Cartagena, Cádiz B
+31, Israel Peter, NGA, M, , , , , Cádiz B
+32, Saturday Erimuya, NGA, D, 1.90, 75, 10-01-98, Benin City, Cádiz B
+33, Javi Navarro, ESP, M, , , 01-01-97, Barcelona, Cádiz B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Rayo Vallecano
+24, Nico, ESP, M, 1.78, 65, 30-04-92, Motril, Racing Santander (On Loan)
+28, David Toro, ESP, F, 1.76, 73, 28-05-97, La Algaba, Barakaldo (On Loan)
+26, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Re-Registered (13)
+20, Juan Hernández, ESP, F, 1.77, 71, 06-12-94, Lorca, Celta Vigo (De-Registered)
+17, Salvador Agra, POR, F, 1.66, 60, 11-11-91, Vila do Conde, Benfica
+18, Karim Azamoum, FRA, M, 1.78, 74, 17-01-90, Rognac, Elche (On Loan)
+21, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Córdoba
+9, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Rayo Majadahonda (On Loan)
+10, Alberto Perea, ESP, M, 1.80, 83, 16-05-90, Albacete, Extremadura (On Loan)
+25, Aleksandar Pantić, SRB, D, 1.84, 77, 11-04-92, Arandjelovac, Dynamo Kyiv (De-Registered)

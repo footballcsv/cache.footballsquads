@@ -1,0 +1,40 @@
+=  Dynamo Moscow - Russian Football Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+4, Igor Shitov, BLR, D, 1.85, 80, 24-10-86, Polotsk, BATE
+5, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, FC Moscow
+6, Leandro Fernández, ARG, D, 1.79, 80, 30-01-83, Rosario, River Plate
+7, Balázs Dzsudzsák, HUN, M, 1.79, 72, 23-12-86, Nyírlugos, Anzhi Makhachkala
+8, Zvjezdan Misimović, BIH, M, 1.80, 79, 05-06-82, Munich, Galatasaray
+9, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Dynamo Moscow-2
+10, Andriy Voronin, UKR, F, 1.77, 79, 21-07-79, Odessa, Liverpool
+12, Pavel Nyakhaychyk, BLR, M, 1.80, 70, 15-07-88, Minsk, BATE
+13, Vladimir Granat, RUS, D, 1.84, 80, 22-05-87, Ulan-Ude, Dynamo Moscow-2
+14, Artur Yusupov, RUS, M, 1.79, 71, 01-09-89, Samara, FC Togliatti
+16, Evgeniy Frolov, RUS, G, 1.94, 82, 05-02-88, Saransk, Mordovia Saransk
+18, Roman Berezovskiy, ARM, G, 1.88, 78, 05-08-74, Yerevan, FC Khimki
+19, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, FC Moscow
+21, Igor Semshov, RUS, M, 1.70, 69, 06-04-78, Moscow, Zenit St Petersburg
+22, Kevin Kuranyi, GER, F, 1.90, 80, 02-03-82, Rio de Janeiro, Schalke
+23, Luke Wilkshire, AUS, D, 1.76, 75, 02-10-81, Wollongong, FC Twente
+26, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Rubin Kazan
+27, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Dynamo Moscow-2
+32, Marko Lomić, SRB, D, 1.89, 80, 13-09-83, Čačak, Partizan Belgrade
+33, Vladimir Rykov, RUS, D, 1.91, 83, 13-11-87, Novosibirsk, KamAZ
+41, Aleksandr Sapeta, RUS, M, 1.79, 73, 28-06-89, Engels, Saturn
+45, Borys Taschchy, UKR, M, 1.81, 75, 26-07-93, Odessa, Chornomorets Odessa
+55, Nikita Sergeev, RUS, D, 1.85, 80, 14-02-92, , Dynamo Moscow-2
+59, Aleksandr Ilyin, RUS, M, 1.77, 68, 05-02-93, , Spartak Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Adrian Ropotan, ROU, M, 1.85, 75, 08-05-86, Galaţi, Tom Tomsk (On Loan)
+30, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Anzhi Makhachkala
+2, Vladimir Kisenkov, RUS, D, 1.82, 75, 08-10-81, Kaluga, Dynamo Moscow-2
+3, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Kuban Krasnodar (On Loan)
+18, Tomislav Dujmović, CRO, M, 1.88, 87, 26-02-81, Zagreb, Zaragoza (On Loan)
+25, Denis Kolodin, RUS, D, 1.85, 87, 11-01-82, Kamyshin, FC Rostov (On Loan)
+17, Alan Gatagov, RUS, D, 1.80, 71, 23-01-91, Vladikavkaz, Tom Tomsk (On Loan)
+7, Andrey Karyaka, RUS, M, 1.79, 75, 01-04-78, Dnipropetrovsk, Volga Nizhniy Novgorod

@@ -1,0 +1,40 @@
+=  Defensa y Justicia - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Escobar, ARG, G, 1.84, 79, 16-05-02, Merlo, None
+2, Julián Malatini, ARG, D, 1.75, 63, 31-05-01, Córdoba, Talleres (Córdoba)
+3, Alexis Soto, ARG, D, 1.72, 69, 20-10-93, Avellaneda, Racing Club
+4, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, Vélez Sarsfield
+5, Kevin Gutiérrez, ARG, M, 1.68, 65, 03-06-97, Lanús, Racing Club
+6, Nazareno Colombo, ARG, D, 1.84, 78, 20-03-99, Quilmes, Estudiantes (LP)
+7, Leandro Espejo, ARG, M, 1.73, 70, 11-09-01, Chimbas, Sportivo Peñarol
+8, Julián López, ARG, M, 1.82, 72, 08-01-00, Avellaneda, Racing Club
+9, Andrés Ríos, ARG, F, 1.79, 78, 08-01-89, Capital Federal, Aldosivi (Mar del Plata)
+10, Rodrigo Bogarín, PAR, M, 1.76, 78, 24-05-97, Asunción, Libertad
+11, Gastón Togni, ARG, M, 1.80, 76, 20-09-97, Coronel Granada, Independiente
+13, Samuel Lucero, ARG, D, 1.79, 77, 29-07-05, Capital Federal, Quilmes
+14, Ezequiel Cannavó, ARG, M, 1.79, 66, 12-06-02, Rosario, None
+15, Lautaro Escalante, ARG, M, 1.70, 67, 02-07-99, Florencio Varela, None
+16, Ángel Benítez, PAR, M, 1.83, 76, 27-01-96, Pirayú, Guaraní [PAR]
+17, Gabriel Alanís, ARG, M, 1.86, 73, 16-03-94, Córdoba, Godoy Cruz (Mendoza)
+18, Juan Miritello, ARG, F, 1.82, 76, 02-02-99, Luján, None
+19, David Barbona, ARG, M, 1.84, 81, 22-02-95, Capital Federal, Tijuana
+20, Federico Versaci, ARG, M, 1.69, 64, 16-02-02, Capital Federal, Vélez Sarsfield
+21, Santiago Ramos Mingo, ARG, D, 1.85, 74, 21-11-01, Córdoba, OH Leuven
+23, Enrique Bologna, ARG, G, 1.88, 85, 13-02-82, Claypole, Banfield
+24, Francisco Marco, ARG, D, 1.92, 83, 27-06-03, Capital Federal, None
+25, Tomás Cardona, ARG, D, 1.88, 80, 10-10-95, Capital Federal, Godoy Cruz (Mendoza)
+26, Darío Cáceres, PAR, D, 1.76, 66, 26-01-98, Pirayú, Lanús
+27, Santiago Solari, ARG, F, 1.78, 74, 19-01-98, Arizona, Juventud Unida (San Luis)
+28, Lautaro Fedele, ARG, M, 1.67, 63, 14-07-01, Berazategui, None
+29, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, San Lorenzo
+30, Gonzalo Castellani, ARG, M, 1.83, 75, 10-08-87, Capital Federal, Unión La Calera
+31, Thiago Schiavulli, ARG, D, 1.81, 70, 19-09-03, Rosario, None
+32, Agustín Sant'Anna, URU, D, 1.75, 73, 27-09-97, Montevideo, Defensor Sporting
+38, Franco Valdéz, ARG, D, -, -, 10-03-00, Avellaneda, Chacarita Juniors
+70, Edwin Mosquera, COL, F, 1.72, 68, 27-06-01, Quibdó, Atlanta U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ezequiel Unsain, ARG, G, 1.88, 83, 09-03-95, Villa Alcaraz, Necaxa

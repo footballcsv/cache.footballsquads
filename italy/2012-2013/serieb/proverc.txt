@@ -1,0 +1,56 @@
+=  Pro Vercelli - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Valentini, ITA, G, 1.88, 80, 05-04-88, Guastalla, Mantova
+2, Gaël Genevier, FRA, M, 1.74, 71, 26-06-82, Saint-Martin-d'Hères, Siena
+3, Stefano Murante, ITA, D, 1.82, 70, 25-02-83, Ivrea, Rodengo Saiano
+4, Alessandro Ranellucci, ITA, D, 1.78, 77, 25-02-83, Priverno, Valenzana
+5, Martino Borghese, ITA, D, 1.98, 88, 05-06-87, Basel, Bari
+6, Marco Modolo, ITA, D, 1.86, 80, 23-03-89, San Donà di Piave, Venezia
+7, Paolo Grossi, ITA, M, 1.80, 73, 29-05-85, Milan, Verona
+8, Horacio Nicolás Erpen, ARG, M, 1.72, 68, 29-08-81, Gualeguaychù, Juve Stabia
+9, Umberto Eusepi, ITA, F, 1.82, 78, 09-01-89, Rome, Varese
+10, Gianni Fabiano, ITA, F, 1.71, 65, 09-07-84, Milan, Carpi
+11, Pietro Iemmello, ITA, F, 1.84, 78, 06-03-92, Catanzaro, Fiorentina
+12, Marcos Miranda, BRA, G, 1.90, 82, 06-03-92, Itabuna, Fiorentina
+13, Giuseppe Greco, ITA, F, 1.82, 75, 06-08-83, Palermo, Modena
+14, Denny Vitale, ITA, M, , , 25-05-95, , Juventus
+15, Cristian Bunino, ITA, F, 1.86, 78, 27-08-96, Pinerolo, None
+16, Christian Scalvini, ITA, D, , , 07-01-94, Acqui Terme, Roma
+17, Manuel Scavone, ITA, M, 1.73, 67, 03-06-87, Bolzano, Bari
+18, Attila Filkor, HUN, M, 1.81, 76, 12-07-88, Budapest, Milan
+19, Umberto Germano, ITA, F, 1.80, 70, 22-04-92, Turin, Canavese
+20, Andrea Cristiano, ITA, M, 1.79, 68, 05-07-84, Chivasso, AlbinoLeffe
+21, Antonio Romano, ITA, F, , , 21-01-95, Acerra, Internazionale
+22, Valerio Vimercati, ITA, G, 1.80, 73, 04-03-95, Milan, Milan
+23, Simone Sini, ITA, D, 1.83, 75, 09-04-92, Sesto San Giovanni, Roma
+24, Alessandro Vinci, ITA, D, 1.83, 78, 08-08-87, Florence, Juve Stabia
+25, Massimiliano Scaglia, ITA, M, 1.80, 73, 21-05-77, Turin, Verona
+26, Gabriel Pires, BRA, M, 1.84, 74, 18-09-93, Resende, Juventus
+27, Andrea Rosso, ITA, M, 1.79, 74, 27-07-84, Turin, Carpenedolo
+28, Riccardo Secondo, ITA, M, 1.85, 78, 09-09-95, Vercelli, None
+29, Marcos de Paula, BRA, F, 1.86, 80, 19-12-83, Bariri, Chievo Verona
+30, Elio De Silvestro, ITA, M, 1.75, 68, 10-03-93, Formia, Juventus
+31, Matteo Abbate, ITA, D, 1.84, 77, 21-08-83, Orbetello, Verona
+32, Daniele Ragatzu, ITA, F, 1.72, 70, 21-09-91, Cagliari, Verona
+33, Gianmarco Vannucchi, ITA, G, 1.85, 77, 30-07-95, Prato, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Gaetano Caridi, ITA, M, 1.76, 72, 22-07-80, Reggio Calabria, Cremonese
+28, Alessio Innocenti, ARG, M, 1.79, 73, 04-02-93, Buenos Aires, Milan
+14, Stefano Santoni, ITA, F, 1.70, 65, 07-11-89, Turin, Real Vicenza
+2, Tommaso Cancellotti, ITA, D, 1.83, 75, 22-05-92, Gubbio, Gubbio (On Loan)
+18, Giacomo Casoli, ITA, F, 1.85, 74, 14-09-88, Gubbio, Spezia
+24, Andrea Marconi, ITA, M, 1.77, 70, 24-05-85, Milan, Venezia (On Loan)
+20, Federico Carraro, ITA, M, 1.78, 70, 23-06-92, Padua, Fiorentina
+9, GianMarco Zigoni, ITA, F, 1.88, 80, 10-05-91, Verona, Milan
+5, Mauro Calvi, ITA, M, 1.84, 78, 17-04-84, Rivolta d'Adda, Tritium
+31, Simone Talpa, ITA, D, , , 09-03-95, Torre del Greco, De-Registered
+32, Alberto Masi, ITA, D, 1.88, 76, 02-09-92, Genoa, Juventus
+7, Matteo Di Piazza, ITA, F, 1.84, 77, 01-01-88, Partinico, Gubbio (On Loan)
+21, Elpys Vinicio Espinal, DOM, M, 1.79, 72, 14-11-82, Santo Domingo, Benevento
+13, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Grosseto (On Loan)
+15, Simone Tiribocchi, ITA, F, 1.80, 79, 31-01-78, Rome, Vicenza
+16, Angelo Bencivenga, ITA, D, 1.75, 65, 25-07-91, Villaricca, Parma

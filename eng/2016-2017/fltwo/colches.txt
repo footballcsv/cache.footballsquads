@@ -1,0 +1,57 @@
+=  Colchester United - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Walker, ENG, G, 1.99, 78, 02-10-91, Gravesend, Chelsea
+2, Richard Brindley, ENG, D, 1.79, 77, 05-05-93, Norwich, Rotherham U
+3, Matthew Briggs, ENG, D, 1.88, 84, 09-03-91, Wandsworth, Millwall
+4, Tom Lapslie, ENG, M, 1.68, 69, 05-05-95, Waltham Forest, None
+5, Luke Prosser, ENG, D, 1.91, 66, 28-05-88, Enfield, Southend U
+6, Frankie Kent, ENG, D, 1.88, 76, 21-11-95, Romford, None
+7, Drey Wright, ENG, M, 1.75, 69, 30-04-94, Greenwich, None
+8, Doug Loft, ENG, M, 1.83, 77, 25-12-86, Maidstone, Gillingham
+9, Chris Porter, ENG, F, 1.86, 84, 12-12-83, Wigan, Sheffield U
+10, Sammie Szmodics, ENG, M, 1.68, 64, 24-09-95, Colchester, None
+11, Brennan Dickenson, ENG, M, 1.84, 80, 26-02-93, Ferndown, Gillingham
+12, Kane Vincent-Young, ENG, D, 1.80, 70, 15-03-96, Camden Town, Tottenham H
+14, Alex Wynter, ENG, D, 1.83, 84, 15-09-93, Beckenham, Crystal Palace
+15, George Elokobi, CMR, D, 1.85, 84, 31-01-86, Mogadishu, Oldham Ath
+16, Femi Akinwande, ENG, F, 1.78, 65, 01-05-96, , Maldon & Tiptree
+17, Denny Johnstone, SCO, F, 1.88, 83, 09-01-95, Dumfries, Birmingham C
+18, Tom Eastman, ENG, D, 1.90, 88, 21-10-91, Colchester, Ipswich T
+19, Macauley Bonne, ENG, F, 1.80, 76, 26-10-95, Ipswich, Ipswich T
+20, Courtney Senior, ENG, M, 1.75, 64, 30-06-97, Croydon, Brentford
+21, Dion Sembie-Ferris, ENG, M, 1.73, 70, 23-05-96, Peterborough, St Neots T
+22, Owen Garvan, IRL, M, 1.83, 67, 29-01-88, Dublin, Crystal Palace
+23, Sean Murray, IRL, M, 1.75, 68, 11-10-93, Abbots Langley, Swindon T
+24, Craig Slater, SCO, M, 1.78, 74, 26-04-94, Glasgow, Kilmarnock
+25, Dillon Barnes, ENG, G, 1.93, 75, 08-04-96, Enfield Town, Bedford T
+26, Eli Phipps, WAL, F, 1.80, 70, 29-07-97, Merthyr Tydfil, Cardiff C
+27, Rekeil Pyke, ENG, F, 1.78, 65, 01-09-97, Leeds, Huddersfield T
+28, Kurtis Guthrie, ENG, F, 1.80, 76, 21-04-93, Peterborough, Forest Green R
+29, Dean Brill, ENG, G, 1.88, 78, 10-02-85, Luton, Motherwell
+30, Lloyd Doyley, JAM, D, 1.78, 72, 01-12-82, Whitechapel, Rotherham U
+31, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, Reading
+32, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, Cardiff C
+33, Lewis Kinsella, ENG, D, 1.75, 70, 02-09-94, Watford, Aston Villa
+35, Cameron James, ENG, D, 1.83, 76, 11-02-98, Chelmsford, None
+36, Ben Wyatt, ENG, D, 1.73, 64, 04-02-96, Norwich, Maldon & Tiptree
+37, Callum Harrison, ENG, M, , , 19-03-97, , None
+39, Charley Edge, WAL, F, 1.75, 75, 14-05-97, Aberystwyth, Everton
+40, Dexter Peter, ENG, D, , , 09-01-96, Redbridge, Chelmsford C
+41, Louis Dunne, IRL, M, 1.75, 70, 07-09-98, Colchester, None
+42, Decarrey Sheriff, ENG, F, 1.82, 75, 18-02-98, Southwark, West Ham U
+43, George Brown, ENG, M, 1.96, 85, 03-03-98, Romford, None
+44, Diaz Wright, ENG, M, 1.77, 69, 22-02-98, Greenwich, None
+45, JJ Wilson, ENG, D, , , , , None
+46, Tariq Issa, ENG, F, 1.70, 70, 02-09-97, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Jamie Harney, NIR, D, 1.83, 75, 04-03-96, Plumbridge, 
+29, James Bransgrove, SCO, G, 1.93, 78, 12-04-95, Harlow, Chelmsford C
+32, Glen Kamara, FIN, M, 1.81, 78, 28-10-95, Tampere, Arsenal
+27, Jack Curtis, ENG, M, 1.70, 70, 11-09-95, Brentwood, Harlow T
+23, Michael O'Donoghue, IRL, D, 1.80, 70, 18-01-96, Islington, Haringey Boro
+38, Chris Regis, ENG, M, 1.91, 85, 11-11-96, Camden, Sittingbourne
+34, Jermaine Grandison, GUY, D, 1.93, 84, 15-12-90, Birmingham, 

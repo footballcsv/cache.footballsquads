@@ -1,0 +1,39 @@
+=  Osasuna - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Herrera, ESP, G, 1.92, 82, 05-06-93, Miranda de Ebro, Huesca
+2, Nacho Vidal, ESP, D, 1.80, 75, 24-01-95, El Campello, Valencia B
+5, David García, ESP, D, 1.85, 72, 14-02-94, Pamplona, Osasuna B
+6, Oier Sanjurjo, ESP, D, 1.78, 66, 25-05-86, Pamplona, Osasuna B
+8, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Huesca
+9, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Muangthong U
+10, Roberto Torres, ESP, M, 1.76, 69, 07-03-89, Pamplona, Osasuna B
+11, Carlos Clerc, ESP, D, 1.80, 72, 21-02-92, Barcelona, Espanyol
+13, Rubén, ESP, G, 1.88, 79, 22-06-84, Coristanco, Deportivo La Coruña
+14, Rubén García, ESP, F, 1.71, 72, 14-07-93, Valencia, Levante
+15, Unai García, ESP, D, 1.76, 72, 03-09-92, Esquíroz, Osasuna B
+16, Lillo, ESP, D, 1.76, 76, 27-03-89, Alicante, Sporting Gijón
+17, Brandon, ESP, F, 1.77, 71, 04-02-95, Santanyí, Rennes
+18, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Tenerife
+19, Kike Barja, ESP, F, 1.78, 69, 01-04-97, Pamplona, Osasuna B
+20, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Getafe
+21, Íñigo Pérez, ESP, M, 1.78, 74, 18-01-88, Iruñea, Numancia
+23, Aridane, ESP, D, 1.86, 77, 23-03-89, Fuerteventura, Cádiz
+26, Juan Pérez, ESP, G, 1.92, 78, 15-07-96, Almudevar, Osasuna B
+27, Miguel Olavide, ESP, M, 1.79, 70, 05-03-96, Pamplona, Osasuna B
+28, Luis Perea, ESP, M, 1.92, 85, 25-08-97, Alcalá de Henares, Atlético Madrid B
+29, Endika Irigoyen, ESP, D, 1.76, 69, 25-01-97, Pamplona, Osasuna B
+30, Javi Martínez, ESP, M, 1.80, 68, 22-12-99, Ólvega, Osasuna B
+31, Iván Martínez, ESP, G, , , 19-02-02, Ágreda, Osasuna B
+32, Jorge Herrando, ESP, D, 1.90, 83, 28-02-01, Pamplona, Osasuna B
+33, Jon Moncayola, ESP, M, 1.82, 75, 13-05-98, Garinoain, Osasuna B
+35, Barbero, ESP, F, 1.87, 80, 17-08-98, Roquetas de Mar, Osasuna B
+36, Aimar Oroz, ESP, M, 1.77, 68, 27-11-01, Pamplona, Osasuna B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Imanol García, ESP, M, 1.82, 73, 26-12-95, Ezcaroz, Nàstic (On Loan)
+4, Miguel Flaño, ESP, D, 1.77, 72, 19-08-84, Pamplona, Córdoba
+7, David Rodríguez, ESP, F, 1.78, 72, 14-02-86, Talavera de la Reina, Numancia (On Loan)
+24, Miguel Díaz, ESP, M, 1.85, 72, 24-01-94, Estella, Murcia (On Loan)

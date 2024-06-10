@@ -1,0 +1,54 @@
+=  Rochdale - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Scunthorpe U
+2, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, Blackpool
+3, Kgosi Ntlhe, RSA, D, 1.75, 66, 21-02-94, Pretoria, Stevenage
+4, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Bury
+5, Ryan Delaney, IRL, D, 1.82, 72, 06-09-96, Wexford, Burton Alb
+6, Ethan Ebanks-Landell, ENG, D, 1.88, 88, 12-12-92, Oldbury, Wolverhampton W
+7, Stephen Dooley, NIR, M, 1.80, 80, 19-10-91, Portstewart, Coleraine
+8, Jordan Williams, WAL, D, 1.83, 77, 06-11-95, Bangor, Liverpool
+9, Calvin Andrew, ENG, F, 1.83, 81, 19-12-86, Luton, York C
+10, Callum Camps, NIR, M, 1.80, 75, 30-11-95, Stockport, None
+11, Jordan Williams, ENG, M, 1.84, 72, 13-12-92, Warrington, Barrow
+13, Jimmy Keohane, IRL, M, 1.80, 72, 22-01-91, Kilkenny, Cork C
+14, Ollie Rathbone, ENG, M, 1.70, 66, 10-10-96, Blackburn, Manchester U
+16, Matt Done, WAL, M, 1.78, 65, 22-07-88, Oswestry, Sheffield U
+18, Aaron Wilbraham, ENG, F, 1.91, 72, 21-10-79, Knutsford, Bolton W
+19, Bradden Inman, AUS, M, 1.85, 79, 10-12-91, Adelaide, Peterborough U
+20, Brian Barry-Murphy, IRL, M, 1.85, 78, 27-07-78, Cork, Bury
+23, Rory Holden, NIR, F, 1.69, 68, 23-08-97, Derry, Bristol C
+25, Daniel Adshead, ENG, M, 1.67, 65, 02-09-01, Manchester, None
+26, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Nottingham F
+27, Ethan Hamilton, SCO, M, 1.87, 75, 18-10-98, Edinburgh, Manchester U
+28, Aaron Morley, ENG, M, 1.74, 67, 27-02-00, Bury, None
+30, Rekeil Pyke, ENG, F, 1.78, 65, 01-09-97, Leeds, Huddersfield T
+31, Bradley Wade, ENG, G, 1.88, 82, 03-07-00, Gloucester, None
+39, Joe Bunney, ENG, D, 1.85, 70, 26-09-93, Manchester, Northampton T
+40, Ian Henderson, ENG, F, 1.78, 70, 24-01-85, Thetford, Colchester U
+41, Luke Matheson, ENG, D, 1.68, 62, 03-10-02, Manchester, None
+42, Florent Hoti, KVX, M, 1.82, 75, 11-12-00, Manchester, None
+43, Fabio Tavares, ENG, F, 1.80, 70, 22-01-01, Matosinhos, None
+44, Juwon Hamzat, ENG, D, , , 03-02-01, , None
+45, Florian Yonsian, ENG, F, , , 25-11-00, , None
+46, Harrison Hopper, ENG, M, 1.75, 67, 24-12-00, Camden, None
+47, James Neild, ENG, D, , , 18-08-01, , None
+48, Joe Dunne, ENG, D, 1.83, 73, 25-10-01, Stafford, None
+49, Lewis Bradley, ENG, M, 1.70, 65, 29-05-01, Stockport, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, James Finnerty, IRL, D, 1.76, 68, 01-02-99, Skryne, Bohemians
+22, Brendan Moore, USA, G, 1.88, 87, 16-04-92, Elmira, Atlanta U
+12, Connor Randall, ENG, D, 1.80, 76, 21-10-95, Liverpool, Liverpool
+21, Sam Hart, ENG, D, 1.80, 72, 10-09-96, Bolton, Blackburn R
+27, Andy Cannon, ENG, M, 1.76, 74, 14-03-96, Ashton-under-Lyne, Portsmouth
+6, Harrison McGahey, ENG, D, 1.87, 85, 26-09-95, Preston, Scunthorpe U
+17, David Perkins, ENG, M, 1.68, 76, 21-06-82, Heysham, Tranmere R
+2, Joe Rafferty, IRL, D, 1.84, 75, 06-10-93, Liverpool, Preston NE
+24, Magnus Norman, ENG, G, 1.91, 82, 19-01-97, Kingston upon Thames, Fulham
+36, Matt Gillam, ENG, F, 1.76, 73, 04-10-98, Bexley, Cork C (On Loan)
+15, Joe Thompson, ENG, M, 1.83, 60, 05-03-89, Rochdale, Retired
+24, Andy Lonergan, ENG, G, 1.92, 87, 19-10-83, Preston, Middlesbrough

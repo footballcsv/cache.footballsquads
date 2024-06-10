@@ -1,0 +1,40 @@
+=  Huracán - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Chaves, ARG, G, 1.79, 72, 09-08-95, Martín Coronado, Argentinos Juniors
+2, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, Estudiantes (LP)
+3, Lucas Carrizo, ARG, D, 1.80, 71, 20-05-97, San Miguel de Tucumán, Gimnasia y Esgrima (Mendoza)
+4, Fernando Torrent, ARG, D, 1.79, 72, 02-10-91, Arrecifes, Rosario Central
+5, Santiago Hezze, ARG, M, 1.77, 72, 22-10-01, Capital Federal, None
+7, Matías Cóccaro, URU, F, 1.80, 70, 15-11-97, Pirarajá, Montevideo City Torque
+8, Gabriel Gudiño, ARG, M, 1.72, 67, 16-03-92, Porteña, Patronato (Paraná)
+9, Nicolás Cordero, ARG, F, 1.84, 78, 11-04-99, Capital Federal, None
+10, Lucas Castro, ARG, M, 1.82, 76, 09-04-89, La Plata, Sarmiento (Junín)
+11, Fernando Godoy, ARG, M, 1.72, 70, 01-05-90, Capital Federal, Sol de América [PAR]
+12, Guillermo Soto, CHI, D, 1.75, 65, 10-01-94, Santiago, Palestino
+14, Guillermo Benítez, ARG, D, 1.70, 69, 08-12-93, Capital Federal, Guaraní [PAR]
+15, Agostino Spina, ARG, M, 1.80, 71, 31-10-01, Castelar, None
+16, Valentín Burgoa, ARG, M, 1.74, 64, 16-08-00, Guaymallén, Godoy Cruz (Mendoza)
+17, Valentín Sánchez, ARG, M, 1.73, 68, 05-02-02, Merlo, None
+18, Gastón Sauro, ARG, D, 1.88, 75, 23-02-90, Rosario, Sarmiento (Junín)
+19, Juan Manuel García, ARG, F, 1.83, 72, 14-11-92, Tandil, Newell's Old Boys
+21, Walter Mazzantti, ARG, F, 1.75, 68, 05-09-96, Labardén, Huachipato
+22, Juan Fernando Garro, ARG, F, 1.79, 68, 24-11-92, Mendoza, Godoy Cruz (Mendoza)
+23, Matías Gómez, ARG, M, 1.70, 64, 23-09-03, San Justo, None
+24, Federico Fattori, ARG, M, 1.77, 76, 22-07-92, Capital Federal, Ferro Carril Oeste
+25, César Ibáñez, ARG, D, 1.74, 72, 17-06-99, Villa Fiorito, None
+26, Enzo Luna, ARG, F, 1.80, 79, 10-06-02, Colón, None
+27, Rodrigo Lugo, ARG, G, 1.91, 90, 22-10-91, Capital Federal, Mite
+28, Joaquín Novillo, ARG, D, 1.85, 74, 19-02-98, Córdoba, Belgrano (Córdoba)
+29, Iván Valenzuela, ARG, D, 1.81, 76, 24-05-01, Moreno, None
+30, Jonás Acevedo, ARG, M, 1.72, 70, 06-02-97, Concarán, Quilmes
+32, Nicolás Campisi, ARG, G, 1.88, 90, 29-10-96, Viedma, Sol de América
+33, Juan Carlos Gauto, ARG, F, 1.78, 86, 02-06-04, Corrientes, None
+34, Santiago Luján, ARG, M, 1.73, 65, 23-01-02, Merlo, None
+35, Patricio Pizarro, ARG, D, 1.83, 77, 27-07-00, Capital Federal, None
+37, Leandro Figueredo, ARG, M, 1.93, 82, 12-07-03, Merlo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Lucas Merolla, ARG, D, 1.93, 85, 27-06-95, Capital Federal, Mazatlán

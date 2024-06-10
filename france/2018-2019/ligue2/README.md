@@ -1,0 +1,23 @@
+# French Ligue 2 2018/2019
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Auxerre](auxerre.txt)
+- [Béziers](beziers.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Gazélec Ajaccio](gazelec.txt)
+- [Grenoble](grenoble.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Lorient](lorient.txt)
+- [Metz](metz.txt)
+- [Nancy](nancy.txt)
+- [Niort](niort.txt)
+- [Orléans](orleans.txt)
+- [Paris FC](parisfc.txt)
+- [Red Star](redstar.txt)
+- [Sochaux](sochaux.txt)
+- [Troyes](troyes.txt)
+- [Valenciennes](valenc.txt)

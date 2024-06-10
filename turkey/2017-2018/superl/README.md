@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2017/2018
+
+18 teams
+- [Akhisar Belediyespor](akhisar.txt)
+- [Alanyaspor](alanya.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Göztepe](goztepe.txt)
+- [İstanbul Başakşehir](istanbul.txt)
+- [Karabükspor](karabuk.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Osmanlıspor](osmanli.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)
+- [Yeni Malatyaspor](yenimalat.txt)

@@ -1,0 +1,49 @@
+=  FC Rostov - Russian Football Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+3, Kornel Saláta, SVK, D, 1.91, 89, 24-01-85, Kamenica nad Hronom, Slovan Bratislava
+4, Isaac Okoronkwo, NGA, D, 1.82, 74, 01-05-78, Aba, FC Moscow
+6, Oscar Ahumada, ARG, M, 1.72, 70, 31-08-82, Zárate, Veracruz
+7, Élson, BRA, M, 1.72, 67, 16-11-81, Conceição do Araguaia, Stuttgart
+9, Roman Adamov, RUS, F, 1.87, 80, 21-06-82, Belaya Kalitva, Rubin Kazan
+10, Dmitriy Kirichenko, RUS, F, 1.75, 75, 17-01-77, Novoalexandrovsk, Saturn
+11, Dragan Blatnjak, CRO, F, 1.81, 75, 01-08-81, Studenci, FC Khimki
+12, Ilya Madilov, RUS, G, 1.90, 82, 18-06-88, Moscow, FC Istra
+15, Ivan Živanović, SRB, D, 1.88, 79, 12-10-81, Šabac, Sampdoria
+16, Dmitri Kruglov, EST, D, 1.71, 70, 24-05-84, Tapa, Inter Baku
+18, Michal Papadopulos, CZE, F, 1.83, 79, 14-04-85, Ostrava, Zhemchuzhina-Sochi
+19, Héctor Bracamonte, ARG, F, 1.91, 82, 16-02-78, Rio Cuarto, Terek Grozny
+21, Stipe Pletikosa, CRO, G, 1.94, 91, 08-01-79, Split, Spartak Moscow
+22, Dejan Radić, SRB, G, 1.87, 82, 08-07-80, Belgrade, Spartak Nalchik
+23, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv Moscow-2
+24, Denis Kolodin, RUS, D, 1.85, 87, 11-01-82, Kamyshin, Dynamo Moscow
+28, Igor Smolnikov, RUS, M, 1.78, 70, 08-08-88, Moscow, Lokomotiv Moscow
+29, Andrey Vasilyev, RUS, D, 1.84, 77, 11-02-92, St. Petersburg, Zenit St Petersburg
+47, Khoren Bayramyan, RUS, M, 1.69, 60, 07-01-92, Koti, FC Rostov-2
+49, Nikita Vasliyev, RUS, M, 1.91, 85, 22-03-92, , FC Rostov-2
+70, Magomed Kurbanov, RUS, F, 1.79, 64, 11-04-92, , FC Rostov-2
+72, Valentin Filatov, RUS, D, 1.76, 71, 19-03-82, St. Petersburg, Spartak Nalchik
+81, Răzvan Cociş, ROU, F, 1.81, 72, 19-02-83, Cluj-Napoca, Al-Nassr
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+88, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, Dynamo Moscow
+89, Vitaliy Dyakov, RUS, D, 1.92, 88, 31-01-89, Krasnodar, Lokomotiv Moscow-2
+92, Roman Emelyanov, RUS, M, 1.89, 85, 08-05-92, Pavlovo, Shakhtar Donetsk
+97, Sergey Pesyakov, RUS, G, 1.95, 85, 16-12-88, Ivanovo, Spartak Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Aleksey Sugak, RUS, F, 1.82, 76, 27-02-90, Azov, Neman Grodno (On Loan)
+1, Martin Lejsal, CZE, G, 1.96, 93, 16-09-82, Kyjov, 
+8, Chavdar Yankov, BUL, M, 1.76, 73, 29-03-84, Sofia, Metalurh Donetsk
+13, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, Tom Tomsk
+14, Anri Khagush, RUS, D, 1.77, 74, 23-09-86, Gagra, Rubin Kazan
+17, Maksim Grigoryev, RUS, M, 1.88, 75, 06-07-90, Lipetsk, MITOS Novocherkassk
+20, Anis Boussaidi, TUN, D, 1.80, 74, 10-04-81, Le Bardo, Tavriya Simferopol
+99, Oleg Ivanov, RUS, M, 1.91, 82, 04-08-86, Moscow, Terek Grozny
+77, Andriy Proshyn, UKR, D, 1.89, 84, 19-02-85, Bor, 
+90, Artem Kulesha, RUS, D, 1.90, 80, 14-01-90, St. Petersburg, Rubin Kazan
+33, Dmitriy Malyaka, RUS, M, 1.81, 74, 15-01-90, Omsk, MITOS Novocherkassk
+30, Anton Kochenkov, RUS, G, 1.97, 87, 02-04-87, Bishkek, Volga Nizhny Novgorod
+5, Aleksandr Khokhlov, RUS, D, 1.76, 66, 30-09-88, St. Petersburg, 

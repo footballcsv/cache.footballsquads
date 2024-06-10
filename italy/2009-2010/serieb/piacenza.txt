@@ -1,0 +1,51 @@
+=  Piacenza - Italian Serie B 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Reggina
+2, Marco Serena, ITA, G, 1.88, 73, 12-08-87, Fiorenzuola, None
+3, Roberto Maurantonio, ITA, G, 1.82, 78, 07-06-81, Bari, Lanciano
+4, Francesco Bini, ITA, D, 1.90, 85, 02-01-89, Empoli, None
+5, Angelo Iorio, ITA, D, 1.80, 73, 26-08-82, Genoa, Cremonese
+7, Daniel Wolf, AUT, M, 1.82, 75, 04-05-85, Vienna, Pistoiese
+8, Alessandro Tulli, ITA, F, 1.85, 78, 14-08-82, Rome, Lecce
+9, Salvatore Foti, ITA, F, 1.92, 76, 08-08-88, Palermo, Sampdoria
+10, Davide Moscardelli, ITA, F, 1.81, 77, 03-02-80, Mons, Rimini
+11, Simone Guerra, ITA, F, 1.78, 76, 30-08-89, Piacenza, None
+12, Emanuele Bianchi, ITA, G, 1.85, 76, 10-08-84, Camaiore, Perugia
+13, Stefano Avogadri, ITA, D, 1.80, 69, 11-08-85, Treviglio, None
+15, Michele Anaclerio, ITA, D, 1.78, 72, 15-05-82, Bari, Bari
+16, Andrea Maccoppi, ITA, M, 1.78, 61, 22-01-87, Milan, Sampdoria
+17, Fabio Foglia, ITA, M, 1.72, 63, 05-05-89, Giulianova, None
+18, Louise Parfait, CMR, M, 1.76, 72, 06-07-90, Yaoundé, Genoa
+19, Antonio Piccolo, ITA, F, 1.80, 68, 07-04-88, Naples, Salernitana
+20, Mattia Graffiedi, ITA, F, 1.80, 75, 26-05-80, Cesena, Triestina
+21, Tomás Guzmán, PAR, F, 1.78, 76, 07-03-82, Asunción, Juventus
+22, Pietro Zammuto, ITA, D, 1.80, 77, 23-12-86, Turin, Juventus
+23, Edgar Çani, ALB, F, 1.88, 80, 22-07-89, Tirana, Palermo
+25, Mikhail Sivakov, BLR, M, 1.86, 77, 16-01-88, Minsk, Cagliari
+26, Matteo Paro, ITA, M, 1.79, 71, 17-03-83, Asti, Genoa
+27, Cristian Melinte, ROU, D, 1.83, 74, 09-05-88, Timişoara, Palermo
+28, Nicola Silvestri, ITA, M, 1.79, 72, 21-11-85, Gavardo, Genoa
+29, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Roma
+30, Michele Contini, ITA, D, 1.81, 66, 27-03-91, Fiorenzuola, None
+31, Nicolás Amodio, URU, M, 1.79, 79, 10-03-83, Montevideo, Napoli
+32, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Cesena
+39, Stefano Baraldo, ITA, D, 1.79, 67, 25-01-92, Codogno, None
+45, Samuele Dragoni, ITA, M, 1.82, 78, 05-06-90, Lodi, Brescia
+76, Gaetano Capogrosso, ITA, D, 1.80, 75, 11-06-89, Villaricca, Siena
+77, Andrea Lussardi, ITA, F, 1.78, 68, 20-01-92, Lodi, None
+81, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+84, Filippo Sambugaro, ITA, M, 1.86, 78, 04-04-84, Padua, Pergocrema
+86, Fabrizio Capodici, ITA, G, 1.94, 84, 24-01-86, Venaria, Bergamo Cenate
+88, Mirko Barocelli, ITA, F, 1.83, 75, 18-10-91, Castel San Giovanni, None
+89, Rincón, BRA, D, 1.86, 79, 31-05-87, São Paulo, Internazionale
+90, Lucas Simon, ARG, F, 1.83, 78, 01-08-86, Mar del Plata, Nueva Chicago
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Paolo Vignali, ITA, M, 1.74, 65, 06-04-89, Lodi, Carpenedolo
+88, Bogdan Pătraşcu, ROU, M, 1.77, 76, 07-05-79, Târgovişte, Padova
+23, Radja Nainggolan, BEL, M, 1.75, 65, 04-05-88, Antwerp, Cagliari (On Loan)
+14, Tommaso Bianchi, ITA, M, 1.82, 68, 01-11-88, Piombino, Chievo Verona (On Loan)
+24, Marco Calderoni, ITA, D, 1.80, 75, 18-02-89, Latisana, Palermo (On Loan)

@@ -1,0 +1,48 @@
+=  San Lorenzo - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Cristián Zapata, COL, D, 1.86, 82, 30-09-86, Padilla Cauca, Genoa
+5, Juan Ignacio Méndez, ARG, M, 1.78, 70, 28-04-97, Luján de Cuyo, Talleres (Córdoba)
+6, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, None
+7, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, Al-Hilal [KSA]
+8, Gonzalo Maroni, ARG, M, 1.70, 67, 18-03-99, Córdoba, Boca Juniors
+9, Nicolás Blandi, ARG, F, 1.81, 79, 13-01-90, Capital Federal, Unión (Santa Fe)
+11, Adam Bareiro, PAR, F, 1.84, 84, 26-07-96, Asunción, Monterrey
+12, Sebastián Torrico, ARG, G, 1.86, 84, 22-02-80, Godoy Cruz, Godoy Cruz (Mendoza)
+13, Augusto Batalla, ARG, G, 1.85, 79, 30-04-96, Florencio Varela, River Plate
+15, Diego Calcaterra, ARG, M, 1.88, 80, 26-07-01, Monte Buey, Newell's Old Boys
+18, Andrés Vombergar, SVN, F, 1.87, 80, 20-11-94, Villa Luzuriaga, Atlético San Luis
+19, Agustin Hausch, ARG, F, 1.75, 62, 21-05-03, Baradero, None
+20, Néstor Ortigoza, PAR, M, 1.80, 79, 07-10-84, San Antonio de Padua, Estudiantes (Río Cuarto)
+21, Malcom Braida, ARG, F, 1.75, 70, 17-05-97, Colonia Caroya, Instituto (Córdoba)
+22, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, Yeni Malatyaspor
+23, Gastón Hernández, ARG, D, 1.84, 78, 19-01-98, San Rafael, None
+24, Jeremías James, ARG, D, 1.91, 80, 29-01-01, Trelew, None
+25, Mateo Clemente, ARG, G, 1.84, 82, 12-06-02, Olavarría, None
+27, Jalil Elías, ARG, M, 1.80, 70, 25-04-96, Rosario, Godoy Cruz (Mendoza)
+28, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, None
+31, Luis Sequeira, ARG, M, 1.72, 71, 08-01-03, Escobar, None
+32, Francisco Flores, ARG, D, 1.82, 78, 11-01-02, Vicente López, None
+33, Agustin Peralta Bauer, ARG, D, 1.67, 58, 12-02-00, Capital Federal, None
+35, Gonzalo Luján, ARG, D, 1.82, 82, 27-04-01, Capital Federal, None
+38, Siro Rosané, ARG, M, 1.77, 68, 07-06-00, Río Cuarto, None
+41, Iván Leguizamón, ARG, F, 1.74, 73, 03-07-02, Asunción, None
+42, Agustín Martegani, ARG, M, 1.82, 75, 20-03-00, Rojas, None
+44, Matías Hernández, ARG, F, 1.78, 70, 06-06-05, Carlos Casares, None
+45, Eduardo García, ARG, F, 1.72, 78, 05-02-01, San Miguel de Tucumán, None
+46, Tomás Silva, ARG, D, 1.75, 60, 08-03-03, Capital Federal, None
+47, Agustín Giay, ARG, M, 1.80, 68, 16-01-04, San Carlos, None
+50, Francisco Perruzzi, ARG, M, 1.77, 70, 09-02-01, Mendoza, None
+57, Ezequiel Herrera, ARG, D, 1.80, 75, 22-01-03, Benavídez, None
+58, Elián Irala, ARG, M, 1.77, 66, 06-07-04, Morón, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, Defensa y Justicia
+10, Ricardo Centurión, ARG, M, 1.74, 65, 19-01-93, Avellaneda, Vélez Sarsfield
+2, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, 
+22, Gabriel Rojas, ARG, D, 1.78, 68, 22-06-97, Almirante Brown, Querétaro
+30, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Alianza Lima
+5, Yeison Gordillo, COL, M, 1.76, 73, 27-06-92, Miranda, Junior
+26, Nicolás Fernández, ARG, D, 1.72, 68, 11-01-00, Capital Federal, Elche

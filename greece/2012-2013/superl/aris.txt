@@ -1,0 +1,44 @@
+=  Aris - Greek Super League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Markos Vellidis, GRE, G, 1.84, 77, 04-04-87, Kastoria, Diagoras
+3, Michalis Giannitsis, GRE, D, 1.83, 77, 06-02-92, Thessaloniki, None
+4, Grigoris Papazaharias, GRE, D, 1.86, 75, 20-03-85, Epanomi, Iraklis
+6, Charalambos Economopoulos, GRE, M, 1.84, 76, 09-01-91, Thessaloniki, None
+7, Kostas Kasnaferis, GRE, F, 1.77, 78, 22-06-87, Arta, PAS Giannina
+8, Vassilis Triantafyllakos, GRE, F, 1.86, 80, 16-07-91, Serres, Odysseas Anagennisi
+9, David Aganzo, ESP, F, 1.77, 64, 10-01-81, Madrid, Hércules
+10, Andreas Tatos, GRE, M, 1.74, 68, 11-05-89, Himara, Olympiakos
+11, Nikolaos Aggeloudis, GRE, F, 1.83, 72, 14-05-91, Thessaloniki, Iraklis
+12, Konstantinos Kotsaridis, GRE, M, 1.86, 74, 12-06-92, Thessaloniki, AEK
+13, Sokratis Dioudis, GRE, G, 1.82, 75, 03-02-93, Thessaloniki, None
+16, Alexandros Gioris, GRE, M, 1.83, 76, 13-01-92, Thessaloniki, None
+17, Emmanuel Papasterianos, GRE, M, 1.79, 72, 15-08-87, Halkidiki, Iraklis
+19, Rubén Martín Pulido, ESP, D, 1.89, 80, 02-02-79, Madrid, Asteras Tripolis
+20, Giannis Gianniotas, GRE, M, 1.75, 72, 29-04-93, Thessaloniki, None
+21, Giorgos Margaritis, GRE, D, 1.79, 73, 20-06-91, Thessaloniki, Agrotikos Asteras
+24, Dimitris Sounas, GRE, M, 1.77, 72, 12-08-94, Portaria, None
+26, Alexandros Karagiannis, GRE, F, 1.73, 67, 25-10-93, Grevena, Pyrsos Grevena
+27, Pantelis Antoniadis, GRE, M, 1.75, 70, 23-03-94, Thessaloniki, None
+28, Andi Renja, ALB, M, 1.78, 68, 06-01-93, Korçë, None
+30, Erotokritos Damarlis, GRE, M, 1.88, 80, 13-05-92, Sarti, None
+31, Giannis Zaradoukas, GRE, D, 1.71, 66, 12-12-85, Athens, Olympiakos
+32, Marios Gelis, GRE, G, 1.85, 78, 09-10-94, Thessaloniki, Panserraikos
+33, Dimitris Diamantakos, GRE, F, 1.85, 77, 05-03-93, Piraeus, Olympiakos
+35, Stelios Tsoukanis, GRE, M, 1.81, 76, 27-02-90, Thessaloniki, Anagennisi Epanomi
+36, Nikolaos Psychogios, GRE, D, 1.70, 64, 25-02-89, Chalkidiki, Doxa Dramas
+44, Andreas Iraklis, GRE, D, 1.81, 75, 16-05-89, Thessaloniki, Kallithea
+66, Nuno Coelho, POR, M, 1.81, 73, 23-11-87, Covilhã, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Giorgos Katidis, GRE, M, 1.75, 71, 12-02-93, Thessaloniki, AEK
+14, Giannis Gesios, GRE, F, 1.83, 78, 03-08-88, Arnissa, Kerkyra
+10, Kostas Kapetanos, GRE, M, 1.76, 79, 27-10-84, Ptolemaida, Olympiakos Volos
+22, Thanasis Kanoulas, GRE, F, 1.90, 75, 19-02-92, Thessaloniki, OFI
+32, Dimitris Aslanidis, GRE, M, 1.78, 73, 16-08-89, Thessaloniki, Panionios
+18, Pantelis Pozidis, GRE, D, 1.72, 68, 13-08-93, Thessaloniki, Panionios
+5, Nikos Pantidos, GRE, D, 1.85, 78, 19-04-91, Athens, Panionios
+91, Petr Gusev, GEO, G, 1.84, 82, 05-09-91, Tetri Tsqaro, 
+15, Dimitris Kotsonis, GRE, D, 1.89, 79, 25-01-89, Athens, Ergotelis

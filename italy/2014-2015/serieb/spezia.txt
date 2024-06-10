@@ -1,0 +1,53 @@
+=  Spezia - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Leandro Chichizola, ARG, G, 1.83, 80, 27-03-90, San Justo, River Plate
+2, Nicola Madonna, ITA, D, 1.82, 72, 31-10-86, Alzano Lombardo, Atalanta
+3, Filippo De Col, ITA, D, 1.83, 82, 28-10-93, Agordo, Virtus Entella
+4, Gennaro Acampora, ITA, M, 1.76, 72, 29-03-94, Naples, Napoli
+5, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona
+6, Pietro Ceccaroni, ITA, D, 1.87, 73, 21-12-95, Sarzana, None
+7, Miguel de las Cuevas, ESP, M, 1.75, 70, 19-06-86, Alicante, Osasuna
+8, Juande, ESP, M, 1.82, 72, 12-06-86, Alicante, Ponferradina
+9, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Siena
+10, Andrea Catellani, ITA, F, 1.78, 73, 26-05-88, Reggio Emilia, Catania
+11, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Aston Villa
+12, Tommaso Brozzo, ITA, G, , , 23-06-97, La Spezia, None
+13, Patrick Ciurria, ITA, F, 1.78, 67, 09-02-95, Sassuolo, Castellarano
+14, Juri Cisotti, ITA, F, 1.75, 67, 05-05-93, Tolmezzo, Chievo Verona
+15, Matija Katanec, CRO, D, 1.83, 73, 04-05-90, Varaždin, Zrinjski Mostar
+16, Abdullahi Nura, NGA, D, 1.82, 72, 17-08-97, Kaduna, None
+17, Francesco Migliore, ITA, D, 1.73, 69, 17-04-88, Arezzo, Crotone
+18, Mario Šitum, CRO, F, 1.75, 75, 04-04-92, Zagreb, Dinamo Zagreb
+19, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, None
+20, Niko Datković, CRO, D, 1.89, 83, 21-04-93, Rijeka, Rijeka
+21, Nenê, BRA, F, 1.82, 78, 28-07-83, São Paulo, Verona
+22, Timothy Nocchi, ITA, G, 1.90, 88, 07-07-90, Cecina, Juventus
+23, Alen Stevanović, SRB, M, 1.80, 83, 07-01-91, Zürich, Torino
+24, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, Atalanta
+25, Mato Miloš, CRO, D, 1.75, 70, 30-06-93, Pula, Rijeka
+26, Nahuel Valentini, ARG, D, 1.82, 79, 19-09-88, Rosario, Livorno
+27, Dario Čanadjija, CRO, M, 1.74, 68, 17-04-94, Bjelovar, Rijeka
+28, Simone Bastoni, ITA, M, 1.81, 74, 05-11-96, La Spezia, None
+29, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Fiorentina
+30, Josip Brezovec, CRO, M, 1.75, 71, 21-12-86, Varaždin, Rijeka
+31, Felice Piccolo, ITA, D, 1.87, 84, 27-08-83, Pomigliano d'Arco, CFR Cluj
+32, Zoran Kvržić, BIH, M, 1.80, 72, 07-08-88, Doboj, Rijeka
+33, Thomas Saloni, ITA, G, 1.85, 78, 17-07-96, La Spezia, None
+34, Nicola Sambo, ITA, G, 1.89, 90, 16-11-95, Venice, Chievo Verona
+35, Matteo Paccagnini, ITA, F, , , 19-05-96, Pistoia, Pisa
+36, Marco Crocchianti, ITA, D, 1.85, 79, 18-02-96, Marino, Tor Tre Teste
+37, Davide Miocchi, ITA, M, , , 04-08-95, L'Aquila, Siena
+44, Leonardo Bazzucchi, ITA, G, 1.95, 80, 06-02-97, Perugia, Bastia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Emanuel Rivas, ARG, F, 1.77, 71, 17-03-83, Quilmes, Varese
+21, Osariemen Ebagua, NGA, F, 1.85, 80, 06-06-86, Benin City, Bari (On Loan)
+23, Pasquale Schiattarella, ITA, M, 1.78, 68, 30-05-87, Mugnano di Napoli, Bari (On Loan)
+15, Antonini Čulina, CRO, M, 1.84, 77, 27-01-92, Zadar, Rijeka
+5, Luca Ceccarelli, ITA, D, 1.85, 77, 20-03-83, Massa, Catania (On Loan)
+7, Paolo Sammarco, ITA, M, 1.81, 76, 17-03-83, Como, Frosinone
+11, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Atalanta
+12, Gianluca Bedei, ITA, G, 1.88, 78, 13-01-96, Pietrasanta, De-Registered

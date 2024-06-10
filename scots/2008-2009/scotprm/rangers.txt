@@ -1,0 +1,81 @@
+=  Rangers - Scottish Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, None
+2, Maurice Edu, USA, M, 1.83, 77, 18-04-86, San Bernardino, Toronto FC
+3, David Weir, SCO, D, 1.91, 86, 10-05-70, Falkirk, Everton
+4, Pedro Mendes, POR, M, 1.77, 77, 26-02-79, Guimarães, Portsmouth
+5, Saša Papac, BIH, D, 1.85, 78, 07-02-80, Mostar, Austria Vienna
+6, Barry Ferguson, SCO, M, 1.78, 74, 02-02-78, Glasgow, Blackburn R
+7, Brahim Hemdani, ALG, M, 1.80, 70, 15-03-78, Colombes, Marseille
+8, Kevin Thomson, SCO, M, 1.88, 72, 14-10-84, Edinburgh, Hibernian
+9, Kris Boyd, SCO, F, 1.83, 83, 18-08-83, Irvine, Kilmarnock
+10, Nacho Novo, ESP, F, 1.75, 70, 26-03-79, Ferrol, Dundee
+12, Lee McCulloch, SCO, M, 1.85, 84, 14-05-76, Paisley, Wigan Ath
+14, Steven Naismith, SCO, F, 1.78, 72, 14-09-86, Irvine, Kilmarnock
+16, Graeme Smith, SCO, G, 1.91, 83, 03-10-82, Bellshill, Kilmarnock
+18, Kenny Miller, SCO, F, 1.78, 68, 23-12-79, Edinburgh, Derby Co
+20, DaMarcus Beasley, USA, M, 1.73, 66, 24-05-82, Fort Wayne, PSV Eindhoven
+21, Kirk Broadfoot, SCO, D, 1.91, 89, 08-08-84, Irvine, St Mirren
+22, Andy Webster, SCO, D, 1.83, 64, 23-04-82, Dundee, Wigan Ath
+23, Christian Dailly, SCO, D, 1.83, 81, 23-10-73, Dundee, West Ham U
+24, Madjid Bougherra, ALG, D, 1.88, 89, 07-10-82, Longvic, Charlton Ath
+25, Neil Alexander, SCO, G, 1.85, 73, 10-03-78, Edinburgh, Ipswich T
+26, Steven Smith, SCO, D, 1.78, 69, 30-08-85, Bellshill, None
+27, Kyle Lafferty, NIR, F, 1.93, 70, 21-07-87, Enniskillen, Burnley
+28, Steven Whittaker, SCO, D, 1.85, 87, 16-06-84, Edinburgh, Hibernian
+31, Aarón, ESP, F, 1.70, 69, 26-04-89, Elche, Valencia B
+35, Steven Davis, NIR, M, 1.79, 72, 01-01-85, Ballymena, Fulham
+37, Andrius Velička, LTU, F, 1.85, 80, 05-04-79, Kaunas, Viking
+42, Alan Lowing, SCO, D, 1.78, 67, 07-01-88, Rutherglen, None
+43, Steven Lennon, SCO, F, 1.70, 61, 20-01-88, Irvine, None
+44, Paul Emslie, SCO, M, 1.78, 68, 13-03-88, Aberdeen, None
+49, Ross Harvey, SCO, D, , , 13-04-89, , None
+50, Chris Craig, SCO, F, , , 13-05-89, , None
+53, John Fleck, SCO, M, 1.75, 72, 24-08-91, Glasgow, None
+55, Steven Kinniburgh, SCO, M, 1.83, 71, 13-06-89, Glasgow, None
+56, Andrew Little, NIR, F, 1.83, 78, 12-05-89, Enniskillen, Ballinamallard
+57, Thomas Kind Bendiksen, NOR, M, 1.83, 76, 08-08-89, Harstad, Harstad
+60, Artūrs Vaičulis, LVA, G, 1.87, , 26-02-90, Riga, St Mirren
+61, İsa Bağci, TUR, F, , , 30-03-90, , BK Häcken
+63, Stephen Stirling, SCO, M, , , 05-01-90, , None
+64, Tom Miller, ENG, D, 1.80, 73, 29-06-90, Ely, Norwich C
+65, Ross Perry, SCO, D, 1.88, 72, 07-02-90, Falkirk, None
+66, Craig McShea, SCO, F, , , 04-11-90, , None
+69, Archie Campbell, SCO, F, 1.70, 67, 10-01-91, Dunfermline, Cowdenbeath
+70, Kyle Hutton, SCO, M, 1.89, 74, 05-02-91, Cambuslang, None
+71, Stephen Forbes, SCO, D, , , 21-02-91, , None
+72, Danny Wilson, SCO, D, 1.87, 79, 27-12-91, Livingston, None
+73, Jamie Ness, SCO, M, 1.77, 72, 02-03-91, Irvine, None
+74, Scott Durie, SCO, D, , , 11-11-91, , None
+75, Gregg Wylde, SCO, M, 1.78, 72, 23-03-91, Kirkintilloch, None
+76, Chris Scott, SCO, D, , , 09-01-92, , None
+77, Kal Naismith, SCO, M, 1.85, 78, 18-02-92, Glasgow, None
+78, Darren Cole, SCO, D, 1.89, 80, 03-01-92, Edinburgh, None
+79, Grant Adam, SCO, G, 1.76, 72, 16-04-91, Glasgow, None
+81, Gary Inglis, SCO, G, , , 30-01-92, , None
+82, Rhys McCabe, SCO, M, 1.77, 74, 24-07-92, Polbeth, None
+83, Gordon Dick, SCO, M, , , 26-03-92, , None
+84, Max Wright, SCO, F, , , 06-04-92, , None
+85, Dylan McGeouch, SCO, F, 1.78, 69, 15-01-93, Glasgow, None
+86, Kyle McAusland, SCO, D, 1.88, 81, 19-01-93, Cumnock, None
+87, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Tamworth
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Carlos Cuéllar, ESP, D, 1.90, 84, 23-08-81, Madrid, Aston Villa
+80, Mark Weir, SCO, G, , , 30-09-91, , Kilmarnock (On Loan)
+46, Dean Furman, RSA, M, 1.83, 74, 22-06-88, Cape Town, Bradford C (On Loan)
+41, Scott Gallacher, SCO, G, 1.88, 77, 15-07-89, Bellshill, Cowdenbeath (On Loan)
+29, Daniel Cousin, GAB, F, 1.86, 85, 07-02-77, Libreville, Hull C
+45, Rory Loy, SCO, F, 1.78, 67, 19-03-88, Dumfries, Dunfermline Ath (On Loan)
+48, William McLachlan, SCO, M, 1.75, 71, 19-03-89, Rutherglen, Airdrie U (On Loan)
+19, Jean-Claude Darcheville, FRA, F, 1.72, 78, 25-07-75, Sinnamary, Valenciennes
+40, Lee Robinson, ENG, G, 1.80, 76, 02-07-86, Sunderland, Queen of the South (On Loan)
+47, Jordan McMillan, SCO, D, 1.78, 63, 16-10-88, Glasgow, Hamilton Academical (On Loan)
+17, Chris Burke, SCO, M, 1.75, 68, 02-12-83, Glasgow, Cardiff C
+52, Andrew Shinnie, SCO, M, 1.80, 70, 17-07-89, Aberdeen, Dundee (On Loan)
+54, Giorgos Efrem, CYP, M, 1.70, 65, 05-07-89, Limassol, Dundee (On Loan)
+15, Alan Gow, SCO, M, 1.83, 70, 09-10-82, Glasgow, Norwich C (On Loan)
+11, Charlie Adam, SCO, M, 1.85, 83, 10-12-85, Dundee, Blackpool (On Loan)

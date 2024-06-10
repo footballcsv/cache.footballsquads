@@ -1,0 +1,57 @@
+=  Villarreal - Spanish La Liga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Asenjo, ESP, G, 1.82, 85, 28-06-89, Palencia, Atlético Madrid
+2, Mario, ESP, D, 1.75, 70, 24-11-90, Novelda, Villarreal B
+3, Bojan Jokič, SVN, D, 1.76, 75, 17-05-86, Kranj, Chievo Verona
+4, Tomás Pina, ESP, M, 1.84, 75, 14-10-87, Madrid, Mallorca
+5, Mateo Musacchio, ARG, D, 1.79, 72, 26-08-90, Rosario, Villarreal B
+6, Jonathan dos Santos, MEX, M, 1.80, 74, 26-04-90, Monterrey, Barcelona
+7, Luciano Vietto, ARG, F, 1.73, 68, 05-12-93, Balnearia, Racing Club
+8, Ikechukwu Uche, NGA, F, 1.71, 74, 05-01-84, Aba, Zaragoza
+9, Giovani dos Santos, MEX, F, 1.73, 77, 11-05-89, Monterrey, Mallorca
+10, Joel Campbell, CRC, F, 1.78, 70, 26-06-92, San José [CRC], Arsenal
+14, Manu Trigueros, ESP, M, 1.78, 70, 17-10-91, Talavera de la Reina, Villarreal B
+15, Víctor Ruíz, ESP, D, 1.84, 73, 25-01-89, Esplugues de Llobregat, Valencia
+16, José Antonio Dorado, ESP, D, 1.80, 69, 10-07-82, Córdoba, Betis
+17, Denis Cheryshev, RUS, M, 1.79, 72, 26-12-90, Nizhny Novgorod, Real Madrid
+18, Jaume, ESP, D, 1.69, 67, 18-03-88, Valencia, Villarreal B
+19, Moi Gómez, ESP, M, 1.74, 65, 23-06-94, Rojales, Villarreal B
+21, Bruno, ESP, M, 1.79, 70, 12-06-84, Artana, Villarreal B
+22, Antonio Rukavina, SRB, D, 1.77, 72, 26-01-84, Belgrade, Valladolid
+23, Gerard Moreno, ESP, F, 1.77, 75, 07-04-92, Santa Coloma de Gramenet, Villarreal B
+24, Eric Bailly, CIV, D, 1.88, 77, 12-04-94, Abidjan, Espanyol
+25, Juan Carlos, ESP, G, 1.80, 78, 27-07-87, Calvià, Villarreal B
+26, Sergio Marcos, ESP, M, 1.77, 73, 03-02-92, Sacedón, Atlético Madrid B
+27, Nahuel Leiva, ESP, F, 1.74, 67, 22-10-96, Rosario, Villarreal B
+28, Adrián Marín, ESP, D, 1.77, 70, 09-01-97, Torre-Pacheco, Villarreal B
+31, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Villarreal B
+32, Pablo González, ESP, M, 1.73, 67, 12-05-93, Almuñécar, Villarreal B
+35, Quique Cebrià, ESP, G, 1.82, 70, 01-04-95, Museros, Villarreal B
+36, Ramón Bueno, ESP, D, 1.82, 75, 07-04-95, Burriana, Villarreal C
+37, Javier García, ESP, F, , , 23-06-96, Alicante, Villarreal C
+38, Pablo Larrea, ESP, M, 1.75, 67, 04-02-94, Madrid, Villarreal B
+40, Miguel Bañuz, ESP, G, 1.83, 73, 26-06-93, Elche, Barcelona B
+42, Naranjo, ESP, F, 1.82, 73, 28-07-94, Rociana del Condado, Recreativo Huelva
+43, Fran Sol, ESP, F, 1.80, 77, 13-03-92, Madrid, Real Madrid B
+44, Javi Ramírez, ESP, D, 1.83, 73, 26-02-95, Roquetas de Mar, Villarreal B
+45, Felipe, ESP, D, 1.75, 66, 14-04-93, Valladolid, Valladolid B
+54, Joel Melgarejo, ESP, F, , , 05-01-95, Torrevieja, Villarreal C
+55, Raúl Bernabéu, ESP, G, , , 12-03-94, Orihuela, Villarreal C
+60, Aleix García, ESP, M, 1.73, 61, 28-06-97, Ulldecona, Villarreal C
+61, Alfonso Pedraza, ESP, M, 1.82, 75, 09-04-96, San Sebastián de los Ballesteros, Villarreal B
+62, Dan Ojog, MDA, D, 1.82, 75, 12-01-95, Corjova, Villarreal B
+63, Javi Jiménez, ESP, D, 1.84, 74, 11-01-96, Quesada, Villarreal B
+64, Anton Shvets, RUS, M, 1.87, 76, 26-04-93, Moscow, Zaragoza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Pablo Íñiguez, ESP, D, 1.83, 72, 20-01-94, Burgos, Girona (On Loan)
+10, Cani, ESP, M, 1.80, 75, 03-08-81, Zaragoza, Atlético Madrid (On Loan)
+24, Javi Espinosa, ESP, M, 1.74, 70, 19-09-92, Talavera de la Reina, Almería (On Loan)
+20, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Arsenal
+11, Hernán Pérez, PAR, M, 1.77, 68, 25-02-89, Fernando de la Mora, Valladolid (On Loan)
+33, Cristian Galas, ESP, D, 1.80, 86, 15-02-93, La Vall d'Uixó, Espanyol B
+34, Raúl Aranda, ESP, M, , , 02-04-95, , Murcia B
+30, Israel, ESP, D, 1.88, 77, 15-06-93, Seville, Lugo

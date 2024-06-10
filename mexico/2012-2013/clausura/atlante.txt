@@ -1,0 +1,41 @@
+=  Atlante - Mexican Liga MX 2013 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Bizera, URU, D, 1.81, 72, 17-05-80, Artigas, Libertad
+2, Erik Pimentel, MEX, D, 1.77, 74, 15-05-90, Coacalco, América
+3, Óscar Rojas, MEX, M, 1.70, 60, 05-02-88, Mexico City, UNAM
+4, Luis Gerardo Venegas, MEX, D, 1.85, 81, 21-06-84, San Luis Potosí, Alacranes de Durango
+5, José Guerrero, MEX, M, 1.74, 69, 18-11-87, Guadalajara, None
+6, Alfonso Luna, MEX, D, 1.74, 66, 23-01-90, Metepec, UNAM
+7, Esteban Paredes, CHI, F, 1.76, 78, 01-08-80, Santiago, Colo-Colo
+8, José Antonio Castro, MEX, D, 1.73, 55, 08-11-80, Mexico City, Estudiantes Tecos
+10, Cristian Maidana, ARG, M, 1.82, 69, 24-01-87, Chaco, Rangers (Talca)
+11, Jerónimo Amione, MEX, F, 1.75, 76, 31-03-90, Mexico City, None
+14, Francisco Fonseca, MEX, F, 1.84, 79, 02-10-79, León, UANL Tigres
+15, Arturo Muñóz, MEX, M, 1.74, 70, 31-12-84, Mexico City, Colima
+16, Mario Quiroz, ECU, M, 1.76, 70, 08-09-82, Guayaquil, Emelec
+17, Diego Jiménez, MEX, F, 1.71, 57, 18-09-88, Guadalajara, Mérida
+18, Israel Martínez, MEX, D, 1.66, 68, 14-03-81, Mexico City, América
+19, Joaquín Larrivey, ARG, F, 1.85, 82, 20-08-84, Buenos Aires, Cagliari
+20, Sergio Nápoles, MEX, F, 1.71, 69, 23-11-89, Cancún, None
+21, Gerardo Ruíz, MEX, G, 1.82, 72, 05-09-85, Mexico City, None
+22, Carlos Calvo, MEX, D, 1.91, 85, 02-12-92, Mérida [MEX], None
+23, Jorge Villalpando, MEX, G, 1.73, 67, 13-03-85, Mexico City, Jaguares de Chiapas
+24, Alejandro Arredondo, MEX, G, 1.75, 66, 28-08-85, Mexico City, UNAM
+25, Oscar Vera, MEX, F, 1.68, 66, 10-03-86, León, Atlas
+26, Ernesto Reyes, MEX, D, 1.62, 57, 01-07-91, Felipe Carrillo Puerto, None
+27, Francisco Uscanga, MEX, F, 1.68, 65, 25-03-91, Coatzacoalcos, None
+28, Alberto García, MEX, F, 1.71, 60, 26-09-93, Guadalajara, Querétaro
+29, Diego Jiménez, MEX, D, 1.84, 73, 07-04-86, Tepatitlán, Estudiantes Tecos
+30, Diego Ordaz, MEX, D, 1.79, 75, 07-05-84, Guadalajara, Monterrey
+31, Kevin Zapata, MEX, F, 1.70, 66, 22-05-90, Mexico City, Mérida
+32, Eugenio Arochi, MEX, D, 1.77, 72, 06-02-91, Mexico City, None
+33, Luis Rodríguez, MEX, F, 1.83, 72, 14-09-91, Saltillo, None
+34, Oscar Vieyra, MEX, M, 1.65, 62, 19-04-92, Mexico City, None
+52, Sonny Guadarrama, USA, M, 1.69, 68, 27-03-87, Austin, Mérida
+89, José Calderón, MEX, D, 1.83, 74, 10-07-93, La Antigua, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Valdo, CPV, M, 1.83, 78, 23-04-81, Villablino, Levante (On Loan)

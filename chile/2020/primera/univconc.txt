@@ -1,0 +1,38 @@
+=  Universidad de Concepción - Chilean Primera División 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Richard Leyton, CHI, G, 1.87, 85, 25-01-87, Santiago, Rangers (Talca)
+2, Nicolás Correa, URU, D, 1.80, 73, 25-12-83, Montevideo, Central Córdoba (SdE)
+3, Claudio Navarrete, CHI, D, 1.76, 72, 05-11-98, , None
+4, Eric Godoy, CHI, D, 1.83, 73, 26-03-87, Valparaíso, Cobresal
+5, Leonardo Povea, CHI, M, 1.77, 69, 26-01-94, Los Ángeles [CHI], Huachipato
+6, Alejandro Camargo, ARG, M, 1.75, 69, 12-06-89, Guaymallén, Curicó Unido
+7, Martín Lara, CHI, M, 1.68, 66, 28-12-00, Valparaíso, Necaxa
+8, Matías Cabrera, URU, M, 1.77, 69, 16-05-86, Montevideo, Deportivo Cali
+9, Joaquín Avilés, CHI, F, 1.88, 81, 09-02-01, Montevideo, Defensor Sporting
+10, Cecilio Waterman, PAN, M, 1.80, 77, 13-04-91, Ciudad de Panamá, Plaza Colonia
+11, Simón Ramírez, CHI, F, 1.78, 66, 03-11-98, Talcahuano, Belenenses
+12, Diego Stuardo, CHI, G, 1.83, 82, 17-06-99, Chiguayante, None
+13, Leandro Díaz, CHI, M, 1.73, 67, 16-03-99, Curicó, Fernández Vial
+14, Antonio Ramírez, CHI, F, 1.68, 62, 03-11-98, Concepción, Huachipato
+15, Gonzalo Bueno, URU, F, 1.74, 71, 16-01-93, Montevideo, Almeria
+16, Maximiliano Quinteros, ARG, F, 1.74, 77, 28-04-89, Avellaneda, Deportes Copiapó
+17, Guillermo Pacheco, CHI, D, 1.81, 76, 10-04-89, Quilpué, San Luis de Quillota
+18, Hardy Cavero, CHI, D, 1.81, 71, 31-05-96, Puerto Montt, Colo-Colo
+19, Juan Pablo Abarzúa, CHI, M, 1.75, 75, 17-02-92, Concepción, Deportes Puerto Montt
+20, Francisco Portillo, PAR, M, 1.77, 72, 24-07-87, Santiago [PAR], Deportes Puerto Montt
+21, Bryan Carvallo, CHI, M, 1.64, 61, 15-09-96, Santiago, Necaxa
+22, Guillermo Reyes, URU, G, 1.86, 83, 10-07-86, Mercedes, Defensor Sporting
+23, Juan Abarca, CHI, D, 1.75, 76, 07-12-88, San Vicente de Tagua Tagua, Rangers (Talca)
+24, Fabián Neira, CHI, F, 1.73, 68, 03-01-01, Angol, Colo-Colo
+27, Mario Oporto, CHI, M, , , 13-12-99, , None
+28, Sebastián Elgueta, CHI, D, , , 02-10-99, , None
+29, Javier Saldias Cea, CHI, D, , , 21-08-01, , None
+30, Juan Patiño, COL, M, , , 01-02-01, , None
+31, Anibal San Martín, CHI, D, , , 12-11-01, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Brayan Valdivia, CHI, M, 1.68, 65, 08-07-94, Santiago, Deportes Copiapó
+26, Diego Soto, CHI, D, 1.69, 71, 22-10-98, Yumbel, San Luis de Quillota (On Loan)

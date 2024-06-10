@@ -1,0 +1,37 @@
+=  Beira-Mar - Portuguese Primeira Liga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Rego, POR, G, 1.76, 75, 05-07-80, Mujães, Chaves
+2, Rui Sampaio, POR, M, 1.86, 75, 29-05-87, Vila Pouca de Aguiar, Cagliari
+3, Bura, POR, D, 1.92, 85, 17-12-88, Matosinhos, FC Porto
+5, Hugo, POR, D, 1.82, 78, 11-08-76, Braga, Vitória Setúbal
+6, David Fleurival, FRA, M, 1.84, 82, 19-02-84, Vitry-sur-Seine, Metz
+7, Rúben Ribeiro, POR, D, 1.75, 67, 01-08-87, Ramalde, Penafiel
+8, Dani Abalo, ESP, M, 1.74, 68, 29-09-87, Pontevedra, Celta Vigo
+10, Sérginho, POR, F, 1.76, 72, 21-02-90, Trofa, Trofense
+11, Rafael Batatinha, BRA, F, 1.82, 71, 09-02-90, Senhor do Bonfim, Tondela
+12, Jonas Mendes, GNB, G, 1.91, 82, 20-11-89, Bissau, Amora
+13, Tonel, POR, D, 1.84, 79, 13-04-80, Lourosa, Dinamo Zagreb
+14, Jaime, POR, D, 1.88, 80, 11-06-89, Santarém, None
+15, Saleh Javier, KSA, F, 1.84, 75, 01-11-93, Jeddah, Al-Ahli [KSA]
+16, Nildo Petrolina, BRA, M, 1.75, 62, 01-05-86, Petrolina, Trofense
+17, Bruno, POR, G, 1.95, 90, 14-08-84, Leiria, Moreirense
+18, Pedro Moreira, POR, D, 1.77, 72, 23-10-83, Penafiel, Penafiel
+20, Nuno Lopes, POR, D, 1.84, 80, 19-12-86, Lisbon, Oliveirense
+21, Javier Balboa, EQG, M, 1.82, 74, 13-05-85, Madrid, Benfica
+22, Hélder Lopes, POR, D, 1.79, 66, 04-01-89, Vila Nova de Gaia, Tondela
+24, Yazalde, POR, F, 1.83, 79, 10-09-88, Vila do Conde, Sporting Braga
+25, Antonio Tozé, POR, F, 1.83, 81, 25-07-87, Miranda do Corvo, Naval
+27, Dias, POR, M, 1.88, 78, 25-02-91, Aveiro, FC Porto
+28, André Sousa, POR, M, 1.81, 78, 09-07-90, Lisbon, Pampilhosa
+30, Abel Camará, POR, F, 1.85, 81, 06-01-90, Bissau, Belenenses
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Cédric Collet, FRA, M, 1.82, 82, 07-03-84, Brétigny-sur-Orge, 
+26, Felipe Desco, BRA, F, 1.84, 77, 29-06-89, São Paulo, 
+4, Vincent Sasso, FRA, D, 1.90, 82, 16-02-91, Saint-Cloud, Sporting Braga
+23, Joãozinho, POR, D, 1.85, 69, 02-07-89, Lisbon, Sporting CP (On Loan)
+8, Nazmi Faiz, MAS, M, 1.69, 59, 16-08-94, Kuala Lumpur, PKNS (On Loan)
+9, Tiago Cintra, POR, F, 1.85, 82, 05-07-89, Matosinhos, Desportivo das Aves (On Loan)

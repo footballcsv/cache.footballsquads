@@ -1,0 +1,61 @@
+=  FC Moscow - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Dmitriy Godunok, RUS, D, 1.81, 77, 04-01-76, Volszskiy, Tom
+3, Aleksandr Sheshukov, RUS, M, 1.81, 77, 15-04-83, Omsk, Luch-Energia
+4, Roman Hubník, CZE, D, 1.91, 84, 06-06-84, Vsetín, Sigma Olomouc
+6, Baiano, BIH, M, 1.75, 80, 10-09-80, Ilhéus, Spartak Nalchik
+7, Petr Bystrov, RUS, M, 1.80, 78, 15-07-79, Nizhny Novgorod, Saturn
+11, Tomáš Čížek, CZE, M, 1.87, 78, 27-11-78, Děčín, Rubin Kazan
+12, Valeriy Poliakov, RUS, G, 1.92, 80, 13-07-89, , FC Moscow-2
+13, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, Rubin Kazan
+14, Kirill Nababkin, RUS, D, 1.76, 71, 08-09-86, Moscow, FC Moscow-2
+15, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, Sheriff Tiraspol
+16, Anton Amelchenko, BLR, G, 1.92, 85, 27-03-85, Gomel, Gomel
+17, Pavel Golyshev, RUS, F, 1.76, 68, 07-07-87, Moscow, FC Moscow-2
+18, Maxi López, ARG, F, 1.87, 81, 04-03-84, Capital Federal, Barcelona
+19, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, Lokomotiv Moscow
+20, Alexey Meleshin, RUS, M, 1.77, 70, 30-01-76, Moscow, Dynamo SPb
+22, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Uralan
+23, Isaac Okoronkwo, NGA, D, 1.82, 74, 01-05-78, Aba, Alania Vladikavkaz
+24, Vladimir Khozin, RUS, D, 1.83, 80, 03-07-89, Rostov-on-Don, FC Moscow-2
+25, Mariusz Jop, POL, D, 1.88, 81, 03-08-78, Ostrowiec Świętokrzyski, Wisła Kraków
+27, Vitaliy Kaleshin, RUS, D, 1.73, 67, 03-10-80, Krasnodar, Kuban Krasnodar
+28, Branislav Krunić, BIH, M, 1.87, 80, 28-01-79, Skopje, Tom
+29, Igor Strelkov, RUS, F, 1.82, 76, 21-03-82, Samara, Tom
+30, Yuriy Zhevnov, BLR, G, 1.83, 78, 17-04-81, Dobrush, BATE
+31, Andrey Vasyanovich, RUS, D, 1.84, 80, 13-06-88, Volgograd, Krasnodar-2000
+32, Nikita Korolyov, RUS, D, 1.80, 76, 15-03-88, Moscow, FC Moscow-2
+33, Dacosta Goore, CIV, D, 1.87, 74, 31-12-84, , Luch-Energia
+36, Sergey Shudrov, RUS, M, 1.75, 71, 11-08-89, , FC Moscow-2
+37, Aleksandr Stavpets, RUS, F, 1.80, 75, 04-07-89, Oryol, FC Moscow-2
+38, Andrey Korobov, RUS, M, 1.76, 70, 17-07-89, , FC Moscow-2
+40, Sergey Shubin, RUS, D, 1.78, 74, 16-02-88, , FC Moscow-2
+41, Artur Rilov, RUS, M, 1.75, 70, 12-04-89, , FC Moscow-2
+42, Denis Poyarkov, RUS, M, 1.80, 76, 16-10-89, , FC Moscow-2
+43, Aleksey Marshinskiy, RUS, D, 1.74, 62, 17-04-88, , FC Moscow-2
+44, Oleg Aleynik, RUS, M, 1.81, 73, 08-02-89, Gukovo, FC Moscow-2
+45, Pavel Esikov, RUS, F, 1.80, 72, 29-01-88, Moscow, FC Moscow-2
+46, Aleksey Kontsedalov, RUS, D, 1.85, 79, 24-07-90, Valuyki, FC Moscow-2
+47, Artem Varakin, RUS, M, 1.89, 78, 21-04-87, Moscow, FC Moscow-2
+48, Sergey Maslov, RUS, F, 1.76, 72, 03-09-90, Moscow, FC Moscow-2
+49, Sergey Kharlamov, RUS, D, 1.81, 72, 24-01-91, , Spartak Moscow
+51, Aleksandr Marenich, RUS, F, 1.78, 71, 29-04-89, Zernograd, FC Rostov
+52, Pavel Golanov, RUS, D, 1.92, 81, 13-06-89, , FC Moscow-2
+55, Dmitriy Kutepov, RUS, M, 1.84, 72, 06-06-88, , FC Moscow-2
+56, Stanislav Lantsov, RUS, F, 1.75, 70, 22-09-90, Moscow, FC Moscow-2
+57, Nikita Alekseev, RUS, G, 1.82, 75, 12-03-90, , FC Moscow-2
+58, Dmitriy Ershov, RUS, G, 1.89, 78, 12-06-92, , FC Moscow-2
+69, Héctor Bracamonte, ARG, F, 1.91, 82, 16-02-78, Rio Cuarto, Boca Juniors
+77, Stanislav Ivanov, MDA, M, 1.83, 73, 07-10-80, Tiraspol, Sheriff Tiraspol
+88, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, Saturn
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Ilya Gavrilov, BLR, G, 1.90, 82, 26-09-88, , Dnepr Mogilev (On Loan)
+35, Dmitriy Golubov, RUS, F, 1.75, 67, 24-06-85, Moscow, Volga Ulyanovsk (On Loan)
+21, Roman Adamov, RUS, F, 1.87, 80, 21-06-82, Belaya Kalitva, Rubin Kazan
+8, Pompiliu Stoica, ROU, D, 1.70, 69, 10-09-76, Buzău, Tom
+5, Radu Rebeja, MDA, M, 1.85, 75, 08-06-73, Chişinău, FC Khimki
+9, Pablo Barrientos, ARG, M, 1.76, 66, 17-01-85, Comodoro Rivadavia, San Lorenzo (On Loan)

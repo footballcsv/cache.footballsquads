@@ -1,0 +1,54 @@
+=  Sevilla - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomáš Vaclík, CZE, G, 1.88, 84, 29-03-89, Ostrava, Basel
+3, Sergi Gómez, ESP, D, 1.81, 76, 28-07-92, Arenys de Mar, Celta Vigo
+5, Lucas Ocampos, ARG, M, 1.87, 84, 11-07-94, Quilmes, Marseille
+7, Rony Lopes, POR, M, 1.74, 68, 28-12-95, Belém, Monaco
+10, Éver Banega, ARG, M, 1.74, 69, 29-06-88, Rosario, Internazionale
+11, Munir El Haddadi, ESP, F, 1.72, 62, 01-09-95, San Lorenzo de El Escorial, Barcelona
+12, Jules Koundé, FRA, D, 1.78, 70, 12-11-98, Paris, Bordeaux
+13, Yassine Bounou, MAR, G, 1.92, 78, 05-04-91, Montreal, Girona
+14, Suso, ESP, F, 1.76, 69, 19-11-93, Cádiz, Milan
+15, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Leganés
+16, Jesús Navas, ESP, M, 1.72, 60, 21-11-85, Los Palacios, Manchester C
+17, Nemanja Gudelj, SRB, M, 1.77, 73, 16-11-91, Belgrade, Guangzhou Evergrande
+18, Sergio Escudero, ESP, D, 1.76, 65, 02-09-89, Valladolid, Getafe
+19, Luuk de Jong, NED, F, 1.88, 80, 27-08-90, Aigle, PSV Eindhoven
+20, Diego Carlos, BRA, D, 1.84, 79, 15-03-93, Barra Bonita, Nantes
+21, Óliver Torres, ESP, M, 1.78, 70, 10-11-94, Navalmoral de la Mata, FC Porto
+22, Franco Vázquez, ARG, M, 1.86, 82, 22-02-89, Tanti, Palermo
+23, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Real Madrid
+24, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Eibar
+25, Fernando, BRA, M, 1.83, 76, 25-07-87, Alto Paraíso de Goiás, Galatasaray
+26, Pepe Mena, ESP, M, 1.75, 72, 15-05-98, Utrera, Sevilla B
+27, José Amo, ESP, D, 1.81, 72, 09-04-98, Las Pajanosas, Sevilla B
+28, José Alonso Lara, ESP, M, 1.67, 61, 07-03-00, Seville, Sevilla B
+29, Juan Berrocal, ESP, D, 1.84, 72, 05-02-99, Jerez de la Frontera, Sevilla B
+31, Javi Díaz, ESP, G, 1.85, 75, 15-05-97, Seville, Sevilla B
+32, Javi Pérez, ESP, D, 1.75, 70, 12-03-99, Seville, Sevilla B
+33, Alfonso Pastor, ESP, G, 1.90, 78, 04-10-00, Córdoba, Sevilla B
+34, Genaro Rodríguez, ESP, M, 1.84, 76, 23-03-98, Gerena, Sevilla B
+35, Adrián González, ESP, G, 1.89, 81, 28-03-00, Montequinto, Sevilla B
+36, Felipe Chacartegui, ESP, D, 1.76, 70, 23-02-98, Cádiz, Sevilla B
+37, Iván Romero, ESP, F, 1.75, 72, 10-04-01, La Solana, Sevilla B
+38, Paco Fernández, ESP, M, , , 01-10-01, , Sevilla B
+39, Lucho García, COL, G, 1.83, 75, 20-03-98, Barranquilla, Rayo Vallecano B
+40, Pablo Pérez, ESP, D, 1.74, 65, 18-08-00, Madrid, Sevilla B
+42, Lolo, ESP, G, 1.82, 78, 13-01-01, Algeciras, Sevilla B
+43, Juanlu Sánchez, ESP, M, 1.86, 68, 15-08-03, Seville, Sevilla B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Sébastien Corchia, FRA, D, 1.76, 65, 01-11-90, Noisy-le-Sec, Espanyol (On Loan)
+15, Joris Gnangnon, FRA, D, 1.82, 89, 13-01-97, Bondy, Rennes (On Loan)
+14, Guilherme Arana, BRA, D, 1.76, 70, 14-04-97, São Paulo, Atlético Mineiro (On Loan)
+13, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Paris St-Germain (On Loan)
+9, Munas Dabbur, ISR, F, 1.81, 74, 14-05-92, Nazareth, 1899 Hoffenheim
+4, Simon Kjær, DEN, D, 1.91, 82, 26-03-89, Horsens, Milan (On Loan)
+15, Álex Pozo, ESP, M, 1.74, 62, 22-02-99, Huévar del Aljarafe, Mallorca (On Loan)
+14, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, LA Galaxy
+30, Bryan Gil, ESP, M, 1.75, 60, 11-02-01, Barbate, Leganés (On Loan)
+6, Daniel Carriço, POR, D, 1.80, 75, 04-08-88, Cascais, Wuhan Zall
+8, Nolito, ESP, F, 1.75, 65, 15-10-86, Sanlúcar de Barrameda, Celta Vigo

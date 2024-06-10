@@ -1,0 +1,55 @@
+=  Rosario Central - Argentine Superliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jeremias Ledesma, ARG, G, 1.86, 85, 13-02-93, Rosario, None
+2, Matías Caruzzo, ARG, D, 1.72, 76, 15-08-84, Capital Federal, San Lorenzo
+3, Facundo Rizzi, ARG, D, 1.75, 70, 28-08-97, Villa Gobernador Gálvez, None
+4, Gonzalo Bettini, ARG, D, 1.71, 74, 26-09-92, Capital Federal, Banfield
+5, Leonardo Gil, ARG, M, 1.76, 68, 31-05-91, Río Gallegos, Estudiantes (LP)
+6, Marcelo Ortíz, ARG, D, 1.86, 80, 13-01-94, Corrientes, Boca Unidos (Corrientes)
+7, Joaquín Pereyra, ARG, M, 1.81, 73, 01-12-98, Paraná, None
+8, Agustín Allione, ARG, M, 1.69, 69, 28-10-94, Amenábar, Palmeiras
+9, Claudio Riaño, ARG, F, 1.79, 80, 16-08-88, Córdoba, Necaxa
+10, Néstor Ortigoza, PAR, M, 1.80, 79, 07-10-84, San Antonio de Padua, Olimpia [PAR]
+11, Jonás Aguirre, ARG, M, 1.70, 70, 05-03-92, Firmat, None
+12, Nahuel Molina, ARG, D, 1.77, 69, 02-12-97, Embalse, Boca Juniors
+13, Rodrigo Villagra, ARG, M, 1.78, 70, 14-02-01, Morteros, None
+14, Matías Palavecino, ARG, M, 1.80, 74, 23-05-98, Rosario, None
+15, Washington Camacho, URU, M, 1.77, 71, 08-04-86, Montevideo, Racing Club
+16, Rodrigo Migone, ARG, F, 1.78, 69, 06-06-96, Rosario, None
+17, Germán Herrera, ARG, F, 1.80, 80, 19-07-83, Santa Fe, Vasco da Gama
+18, Andrés Lioi, ARG, M, 1.74, 67, 07-03-97, Rosario, None
+19, Miguel Barbieri, ARG, D, 1.81, 79, 24-08-93, Capital Federal, Racing Club
+20, Fernando Zampedri, ARG, F, 1.85, 83, 14-02-88, Chajarí, Atlético Tucumán
+21, Fabián Rinaudo, ARG, M, 1.76, 75, 15-05-87, Armstrong, Gimnasia y Esgrima (LP)
+22, Diego Becker, ARG, M, 1.69, 66, 24-11-97, Los Quirquinchos, None
+23, Jarlan Barrera, COL, M, 1.71, 68, 16-09-95, Santa Marta, UANL Tigres
+24, Alfonso Parot, CHI, D, 1.80, 74, 15-10-89, Talca, Universidad Católica
+25, Emmanuel Ojeda, ARG, M, 1.80, 72, 05-11-97, Goya, None
+26, Óscar Cabezas, COL, D, 1.77, 75, 22-12-96, Tumaco, Patriotas
+27, Luciano Recalde, ARG, D, 1.84, 78, 12-08-95, Granadero Baigorria, None
+28, Agustín Coscia, ARG, F, 1.75, 70, 08-04-97, Rosario, None
+29, Nicolás Giménez, ARG, D, 1.82, 75, 17-04-97, Granadero Baigorria, None
+30, Marcelo Miño, ARG, G, 1.86, 82, 21-08-97, Guatimozín, None
+31, Josue Ayala, ARG, G, 1.83, 80, 30-05-88, Capital Federal, Temperley
+32, Facundo Almada, ARG, D, 1.77, 70, 10-07-98, Granadero Baigorria, None
+33, Pablo Becker, ARG, F, 1.72, 61, 29-04-93, Los Quirquinchos, None
+34, Maximiliano Lovera, ARG, F, 1.70, 65, 09-03-99, Laguna Blanca, None
+35, Iván Antúnes, ARG, D, 1.78, 70, 23-04-98, Rosario, None
+36, Rodrigo González, ARG, D, 1.75, 70, 14-04-00, Rosario, None
+37, Duván Vergara, COL, F, 1.72, 72, 09-09-96, Montería, Envigado
+38, Alan Marinelli, ARG, F, 1.74, 70, 07-04-99, Rosario, None
+39, Oscar Retamal, ARG, F, , , 23-03-98, Neuquén, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Nahuel Gómez, ARG, D, 1.78, 74, 23-08-96, Villa Gobernador Gálvez, Agropecuario
+3, Elías Gómez, ARG, D, 1.79, 70, 09-06-94, Granadero Baigorria, Argentinos Juniors (On Loan)
+23, Agustín Maziero, ARG, F, 1.79, 75, 27-11-97, Luis Palacios, River Plate [PAR] (On Loan)
+11, José Luis Fernández, ARG, M, 1.68, 67, 26-10-87, Capital Federal, Defensa y Justicia
+36, Leonel Rivas, ARG, M, 1.72, 62, 04-12-99, Rosario, Talleres (Córdoba) (On Loan)
+9, Marco Rubén, ARG, F, 1.79, 72, 26-10-86, Capitán Bermúdez, Athletico Paranaense (On Loan)
+8, Federico Carrizo, ARG, M, 1.74, 70, 17-05-91, Villa Giardino, Cerro Porteño
+14, Diego Arismendi, URU, M, 1.89, 82, 25-01-88, Montevideo, Racing Club [URU]
+13, Renzo Alfani, ARG, D, 1.86, 79, 18-02-96, Rosario, Santos [PER]

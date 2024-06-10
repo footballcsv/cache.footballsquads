@@ -1,0 +1,45 @@
+=  Paks - Hungarian Nemzeti Bajnokság I 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+5, Zsolt Gévay, HUN, D, 1.87, 82, 19-11-87, Dunaújváros, Mezőkövesd
+6, Norbert Szélpál, HUN, D, 1.95, 92, 03-03-96, Szeged, Békéscsaba
+7, Tamás Báló, HUN, D, 1.72, 68, 12-01-84, Dunaújváros, Dunaferr
+8, Tamás Kecskés, HUN, M, 1.74, 71, 15-01-86, Szentes, Siófok
+9, Csaba János Hahn, HUN, F, 1.85, 82, 15-03-95, Paks, Puskás Akadémia
+10, Zsolt Haraszti, HUN, F, 1.86, 83, 04-11-91, Paks, Videoton
+11, Attila Osváth, HUN, D, 1.77, 75, 10-12-95, Veszprém, Puskás Akadémia
+13, Dániel Böde, HUN, F, 1.90, 84, 24-10-86, Szekszárd, Ferencváros
+17, Dávid Bor, HUN, D, 1.87, 84, 10-12-94, Budapest, None
+18, Balázs Balogh, HUN, M, 1.85, 77, 11-06-90, Budapest, Puskás Akadémia
+19, Ádám Holczer, HUN, G, 1.93, 83, 28-03-88, Budapest, Ferencváros
+20, Máté Sajbán, HUN, F, 1.86, 81, 19-12-95, Budapest, Mezőkövesd
+21, Kristóf Papp, HUN, M, 1.83, 73, 04-05-93, Kerepestarcsa, Gyirmót
+22, József Windecker, HUN, M, 1.83, 75, 02-12-92, Szeged, Levadiakos
+23, Ákos Szendrei, HUN, F, 1.80, 72, 23-01-03, Szekszárd, None
+24, Patrik Poór, HUN, D, 1.85, 79, 25-11-93, Győr, Puskás Akadémia
+26, Lajos Bertus, HUN, M, 1.82, 79, 26-09-90, Kecskemét, Mezőkövesd
+30, János Szabo, HUN, D, 1.82, 73, 11-07-89, Paks, None
+31, Gergő Rácz, HUN, G, 1.87, 82, 20-11-95, Budapest, Ferencváros
+32, Dávid Kelemen, HUN, D, 1.84, 75, 24-05-92, Békéscsaba, Nyíregyháza
+39, László Bartha, HUN, M, 1.81, 73, 09-02-87, Komló, Kozármisleny
+42, Norbert Könyves, SRB, F, 1.86, 77, 10-06-89, Bačka Palanka, Debrecen
+71, Dénes Szakály, HUN, M, 1.79, 65, 15-03-88, Nagyatád, Siófok
+77, Dávid Kulcsár, HUN, D, 1.80, 80, 25-02-88, Miskolc, Ferencváros
+88, Áron Fejős, HUN, M, 1.67, 67, 17-04-97, Senta, Dunaújváros
+96, Bencze Lenzsér, HUN, D, 1.83, 72, 09-06-96, Győr, Győr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+71, Balázs Szabó, HUN, G, 1.92, 86, 01-01-92, Budapest, Budaörs
+12, Richárd Nagy, HUN, M, 1.83, 76, 15-08-95, Budapest, Veszprém (On Loan)
+1, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, Larissa
+25, Máté Berdó, HUN, D, 1.81, 74, 28-06-99, Pécs, Kozármisleny
+27, Róbert Kővári, HUN, F, 1.80, 76, 23-11-95, Szekszárd, Siófok (On Loan)
+6, Benjamin Cseke, HUN, M, 1.87, 82, 22-07-94, Budapest, MTK
+20, Máté Adamcsek, HUN, F, 1.83, 75, 29-10-97, Budapest, Monor
+28, László Zsidai, HUN, M, 1.79, 73, 16-07-86, Szombathely, Budaörs
+2, Dávid Bobál, HUN, D, 1.88, 85, 31-08-95, Pásztó, Zalaegerszeg
+46, Ádám Simon, HUN, M, 1.82, 72, 30-03-90, Salgótarján, Győr
+16, Mohamed Remili, HUN, F, 1.80, 73, 31-05-85, Hussein Dey, Siófok
+14, András Fejes, HUN, D, 1.88, 75, 26-08-88, Székesfehérvár, Győr

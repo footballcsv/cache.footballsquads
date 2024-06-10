@@ -1,0 +1,39 @@
+=  Morecambe - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Shaun Beeley, ENG, D, 1.78, 72, 21-11-88, Stockport, Fleetwood T
+3, Aaron McGowan, ENG, D, 1.75, 73, 24-07-96, Kirkby, None
+4, Alex Kenyon, ENG, M, 1.82, 76, 17-07-92, Preston, Stockport Co
+5, Adam Dugdale, ENG, D, 1.90, 79, 13-09-87, Liverpool, Tranmere R
+6, Ryan Edwards, ENG, D, 1.80, 82, 07-10-93, Liverpool, Blackburn R
+7, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Chesterfield
+8, Peter Murphy, ENG, M, 1.83, 70, 13-02-90, Liverpool, Wycombe W
+9, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, Blackpool
+10, Lee Molyneux, ENG, M, 1.86, 81, 24-02-89, Liverpool, Tranmere R
+11, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Rotherham U
+12, Paul Mullin, ENG, F, 1.78, 71, 06-11-94, Liverpool, Huddersfield T
+13, Alan Goodall, ENG, D, 1.75, 73, 02-12-81, Birkenhead, Fleetwood T
+14, Nathan Bondswell, ENG, M, 1.75, 71, 10-02-97, Nottingham, Derby Co
+15, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+16, Shaun Miller, ENG, F, 1.78, 74, 25-09-87, Alsager, Coventry C
+17, Andrew Fleming, ENG, M, 1.80, 67, 05-10-87, Liverpool, Wrexham
+18, Charlie Bailey, ENG, M, 1.78, 75, 12-06-97, Lancaster, None
+19, Laurence Wilson, ENG, D, 1.78, 70, 10-10-86, Liverpool, Accrington Stanley
+20, Niall Maher, ENG, G, 1.86, 76, 03-05-99, Birmingham, Tividale
+21, Anton Forrester, ENG, F, 1.83, 76, 11-02-94, Liverpool, Blackburn R
+22, Andy Parrish, ENG, D, 1.83, 74, 22-06-88, Bolton, Bury
+23, Chris Doyle, ENG, D, 1.89, 85, 22-07-94, Liverpool, None
+24, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, Burnley
+25, Ben Hedley, ENG, M, 1.78, 76, 18-10-98, Gateshead, None
+26, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+27, Jack Kelleher, ENG, F, 1.88, 77, 22-09-97, Liverpool, None
+28, Darren McKnight, NIR, M, 1.78, 70, 27-08-95, Ballyclare, Shrewsbury T
+29, Connor Oliver, ENG, D, 1.78, 76, 17-01-94, Walker, Blackpool
+30, Kieran O'Hara, ENG, G, 1.91, 78, 22-04-96, Manchester, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Jack Ryan, ENG, F, 1.83, 79, 05-04-96, Barrow-in-Furness, Preston NE
+20, Tony Thompson, ENG, G, 1.83, 83, 04-11-94, Liverpool, Chester

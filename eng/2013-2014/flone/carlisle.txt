@@ -1,0 +1,60 @@
+=  Carlisle United - English Football League One 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Gillespie, ENG, G, 1.90, 86, 27-03-92, Newcastle upon Tyne, Newcastle U
+2, Conor Townsend, ENG, D, 1.68, 62, 04-03-93, Hessle, Hull C
+3, Matty Robson, ENG, M, 1.75, 71, 23-01-85, Durham, Hartlepool U
+4, Chris Chantler, ENG, M, 1.73, 70, 16-12-90, Cheadle Hulme, Manchester C
+7, David Amoo, ENG, F, 1.78, 77, 13-04-91, London, Tranmere R
+8, Liam Noble, ENG, M, 1.73, 55, 08-05-91, Newcastle upon Tyne, Sunderland
+9, Lee Miller, SCO, F, 1.88, 73, 18-05-83, Lanark, Middlesbrough
+10, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Sheffield W
+11, Danny Cadamarteri, ENG, F, 1.75, 86, 12-10-79, Bradford, Huddersfield T
+12, Paul Thirlwell, ENG, M, 1.80, 79, 13-02-79, Springwell Village, Derby Co
+15, Mike Edwards, ENG, D, 1.83, 84, 25-04-80, North Ferriby, Notts Co
+16, Brad Potts, ENG, D, 1.88, 81, 03-07-94, Hexham, None
+18, Jordan Pickford, ENG, G, 1.85, 77, 07-03-94, Washington, Sunderland
+19, David Symington, ENG, M, 1.73, 78, 28-01-94, Workington, None
+20, Greg Fleming, SCO, G, 1.80, 67, 27-09-86, Dunfermline, Grimsby T
+21, James Berrett, IRL, M, 1.75, 72, 13-01-89, Halifax, Huddersfield T
+22, Lewis Brass, ENG, G, , , 26-08-96, Newcastle upon Tyne, Darlington
+23, Sean O'Hanlon, ENG, D, 1.85, 79, 02-01-83, Southport, Hibernian
+24, Daniel Redmond, ENG, M, 1.60, 67, 02-03-91, Liverpool, Wigan Ath
+25, Sam Byrne, IRL, F, 1.84, 75, 23-07-95, Dublin, Manchester U
+26, Jack Lynch, ENG, M, , , 22-06-95, Blackburn, None
+27, Patrick Brough, ENG, M, 1.91, 74, 20-02-96, Carlisle, None
+28, Reece Brown, ENG, D, 1.88, 84, 01-11-91, Manchester, Watford
+29, Lewis Guy, ENG, F, 1.78, 67, 27-08-85, Penrith, St Mirren
+30, Courtney Meppen-Walter, ENG, D, 1.84, 77, 02-08-94, Bury, Manchester C
+31, James Pearson, ENG, D, 1.86, 75, 19-01-93, Sheffield, Leicester C
+32, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, None
+33, Nacho Novo, ESP, F, 1.75, 70, 26-03-79, Ferrol, Greenock Morton
+34, Lucas Dawson, ENG, M, 1.86, 77, 12-11-93, Stoke-on-Trent, Stoke C
+39, Pascal Chimbonda, FRA, D, 1.82, 73, 21-02-79, Les Abymes, Market Drayton T
+40, Dean Bouzanis, AUS, G, 1.85, 84, 02-10-90, Sydney, Aris
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Kevin Feely, IRL, D, 1.79, 73, 30-08-92, Dublin, Charlton Ath
+10, Adam Campbell, ENG, F, 1.70, 73, 01-01-95, North Shields, Newcastle U
+28, Danny Butterfield, ENG, D, 1.80, 71, 21-11-79, Boston, Exeter C
+6, Paul Black, ENG, D, 1.83, 81, 18-05-90, Middleton, Mansfield T
+22, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, Manchester U
+30, Troy Archibald-Henville, ENG, D, 1.88, 80, 04-11-88, Newham, Swindon T
+22, Nathan Eccleston, ENG, F, 1.78, 66, 30-12-90, Manchester, Blackpool
+10, Craig Roddan, ENG, M, 1.81, 72, 22-04-93, Fazakerley, Liverpool
+32, Josh Morris, ENG, D, 1.80, 70, 30-09-91, Preston, Blackburn R
+40, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Manchester U
+31, Leon McSweeney, IRL, M, 1.85, 71, 19-02-83, Cork, Northampton T
+14, Josh Gillies, ENG, M, 1.78, 73, 12-06-90, Sunderland, Cambridge U (On Loan)
+24, Alex Salmon, ENG, F, 1.80, 73, 09-07-94, Liverpool, 
+25, Brandon Gwinnutt, ENG, M, 1.75, 74, 16-06-95, Derby, 
+28, Max Ehmer, GER, M, 1.88, 70, 03-02-92, Frankfurt am Main, QPR
+17, Mark Beck, ENG, F, 1.96, 80, 02-02-94, Sunderland, Falkirk (On Loan)
+18, Josh Todd, ENG, M, 1.78, 78, 11-06-94, Carlisle, Annan Ath
+33, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, Manchester U
+6, Prince Buaben, GHA, M, 1.83, 75, 23-04-88, Akosombo, Partick Thistle (On Loan)
+5, Danny Livesey, ENG, D, 1.88, 88, 31-12-84, Salford, Wrexham (On Loan)
+31, Michael Drennan, NIR, F, 1.77, 75, 02-02-94, Kilkenny, Aston Villa
+10, Charni Ekangamene, BEL, M, 1.80, 71, 16-02-94, Antwerp, Manchester U

@@ -1,0 +1,23 @@
+# French Ligue 2 2008/09
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Bastia](bastia.txt)
+- [Boulogne](boulogne.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dijon](dijon.txt)
+- [Guingamp](guinga.txt)
+- [Lens](lens.txt)
+- [Metz](metz.txt)
+- [Montpellier](montpel.txt)
+- [Nîmes](nimes.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Strasbourg](stras.txt)
+- [Tours](tours.txt)
+- [Troyes](troyes.txt)
+- [Vannes](vannes.txt)

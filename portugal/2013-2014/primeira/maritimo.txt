@@ -1,0 +1,42 @@
+=  Marítimo - Portuguese Primeira Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wellington Lima, BRA, G, 1.91, 86, 21-04-90, Recife, ABC
+2, João Diogo, POR, D, 1.75, 66, 28-02-88, Funchal, None
+3, Márcio Rozário, BRA, D, 1.87, 88, 21-11-83, São Mateus, Náutico
+4, Igor, BRA, D, 1.89, 78, 10-03-89, Campinas, Internacional
+5, Rúben, POR, D, 1.83, 71, 17-02-90, Madeira, None
+6, Sérgio Marakis, POR, M, 1.78, 76, 11-11-91, Johannesburg, Oeiras
+7, Artur, POR, M, 1.75, 69, 18-02-84, Cacia, Chornomorets Odessa
+9, Fidélis, BRA, F, 1.85, 77, 14-06-89, Contagem, None
+12, Patrick Bauer, GER, D, 1.92, 84, 28-10-92, Backnang, Stuttgart II
+14, Gegé, CPV, D, 1.83, 81, 24-02-88, Praia, Sporting Covilhã
+15, Edivândio, CPV, F, 1.82, 76, 01-01-91, São Vicente, Batuque
+16, Fábio, POR, D, 1.85, 74, 22-05-88, Viseu, Leixões
+17, Sami, GNB, F, 1.84, 78, 18-12-88, Bissau, Desportivo das Aves
+18, Luís Olim, POR, M, 1.78, 78, 27-08-81, Funchal, None
+20, João Luiz, BRA, M, 1.82, 79, 24-06-88, São Paulo, Rio Branco
+21, Briguel, POR, D, 1.74, 70, 08-03-79, Funchal, None
+22, Johnny Leoni, SUI, G, 1.89, 80, 30-06-84, Sion, Omonia Nicosia
+24, Jorge Chula, POR, F, 1.74, 65, 13-02-90, Benavente, Sporting CP
+26, Alex Soares, POR, M, 1.79, 68, 01-03-91, Lisbon, Panserraikos
+27, Danilo Pereira, POR, M, 1.87, 60, 09-09-91, Bissau, Parma
+28, Rúben Brígido, POR, M, 1.71, 65, 23-06-91, Leiria, União de Leiria
+29, Lei Tenglong, CHN, M, 1.83, 70, 17-01-91, Wuhan, Beijing Guo'an
+30, Danilo Dias, BRA, F, 1.74, 64, 06-11-85, Ceres, Ipatinga
+33, Derley, BRA, F, 1.83, 81, 29-12-87, São Luís, Madureira
+35, Fransérgio, BRA, M, 1.86, 76, 18-10-90, Rondonópolis, Internacional
+47, Tiago Silva, POR, D, 1.79, 73, 26-02-91, Caniçal, Caniçal
+70, André Ferreira, POR, F, 1.82, 73, 15-06-90, Santarém, Portosantense
+74, Kukula, CPV, F, 1.75, 70, 22-01-93, Paul, Batuque
+77, Alemão, BRA, F, 1.70, 66, 07-12-92, Morro Agudo, Tourizense
+78, Romain Salin, FRA, G, 1.85, 70, 29-07-84, Mayenne, Rio Ave
+88, Nuno Rocha, CPV, M, 1.83, 77, 25-03-92, Praia, None
+90, Theo Weeks Lewis, LBR, M, 1.80, 78, 19-01-90, Montserrado, Göztepe
+91, José Sá, POR, G, 1.92, 84, 17-01-93, Braga, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Héldon, CPV, F, 1.74, 68, 14-11-88, Ilha do Sal, Sporting CP
+89, Rodrígo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Madureira

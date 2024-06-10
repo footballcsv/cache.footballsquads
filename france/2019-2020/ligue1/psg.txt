@@ -1,0 +1,39 @@
+=  Paris Saint-Germain - French Ligue 1 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Real Madrid
+2, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Milan
+3, Presnel Kimpembe, FRA, D, 1.83, 67, 13-08-95, Beaumont-sur-Oise, None
+4, Thilo Kehrer, GER, D, 1.84, 70, 21-09-96, Tübingen, Schalke
+5, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, Roma
+6, Marco Verratti, ITA, M, 1.65, 60, 05-11-92, Pescara, Pescara
+7, Kylian Mbappé, FRA, F, 1.78, 67, 20-12-98, Paris, Monaco
+8, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Zenit St Petersburg
+9, Edinson Cavani, URU, F, 1.84, 71, 14-02-87, Montevideo, Napoli
+10, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Barcelona
+11, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Manchester U
+12, Thomas Meunier, BEL, D, 1.91, 78, 12-09-91, Sainte-Ode, Club Brugge
+14, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Bayern Munich
+16, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Sevilla
+17, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Stoke C
+18, Mauro Icardi, ARG, F, 1.81, 75, 19-02-93, Rosario, Internazionale
+19, Pablo Sarabia, ESP, M, 1.78, 72, 11-05-92, Madrid, Sevilla
+20, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, Monaco
+21, Ander Herrera, ESP, M, 1.82, 70, 14-08-89, Bilbao, Manchester U
+22, Abdou Diallo, FRA, D, 1.83, 72, 04-05-96, Tours, Borussia Dortmund
+23, Julian Draxler, GER, M, 1.83, 68, 20-09-93, Gladbeck, Wolfsburg
+25, Mitchel Bakker, NED, D, 1.78, 74, 20-06-00, Purmerend, Ajax
+27, Idrissa Gueye, SEN, M, 1.74, 66, 26-09-89, Dakar, Everton
+30, Marcin Bułka, POL, G, 1.99, 79, 04-10-99, Płock, Chelsea
+31, Colin Dagba, FRA, D, 1.70, 62, 06-09-98, Béthune, Boulogne
+35, Tanguy Nianzou, FRA, D, 1.87, 83, 07-06-02, Paris, None
+36, Loïc Mbe Soh, FRA, D, 1.87, 86, 13-06-01, Souza Gare, None
+38, Adil Aouchiche, FRA, M, 1.81, 72, 15-07-02, Le Blanc-Mesnil, None
+40, Garissone Innocent, FRA, G, 1.92, 90, 16-04-00, Ivry-sur-Seine, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Stanley Nsoki, FRA, D, 1.85, 78, 09-04-99, Poissy, Nice
+16, Alphonse Areola, FRA, G, 1.90, 85, 27-02-93, Paris, Real Madrid (On Loan)
+29, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Sporting CP (On Loan)

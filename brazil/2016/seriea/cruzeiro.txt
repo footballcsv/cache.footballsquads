@@ -1,0 +1,54 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+4, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Monte Azul
+5, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Vélez Sarsfield
+7, Rafael Sóbis, BRA, F, 1.72, 73, 17-06-85, Erechim, UANL Tigres
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Metalist Kharkiv
+10, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Defensor Sporting
+11, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, None
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+16, Judivan, BRA, F, 1.77, 81, 21-05-95, Sousa, None
+17, Bryan, BRA, D, 1.76, 72, 28-03-92, Belo Horizonte, América Mineiro
+19, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Palmeiras
+20, Marcos Vinícius, BRA, M, 1.78, 70, 26-12-94, Marabá, Náutico
+21, Lucas, BRA, D, 1.73, 67, 26-03-88, Passos, Palmeiras
+22, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, None
+23, Élber, BRA, M, 1.70, 63, 27-05-92, Passo de Camaragibe, None
+25, Bruno Nazário, BRA, M, 1.78, 68, 09-02-95, Cascavel, 1899 Hoffenheim
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+27, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Atlético Paranaense
+28, Kevin, BRA, D, 1.74, 68, 07-09-97, Teresina, Tombense
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, Vélez Sarsfield
+30, Ezequiel, BRA, D, 1.79, 71, 22-02-93, Treze de Mario, Criciúma
+31, Edimar, BRA, D, 1.80, 70, 21-05-86, Cachoeiro de Itapemirim, Chievo Verona
+33, Bruno Ramires, BRA, M, 1.89, 77, 18-03-94, Salvador, None
+34, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, None
+37, Lucas França, BRA, G, 1.94, 83, 19-01-96, São Paulo, None
+38, Alex, BRA, M, 1.85, 83, 07-11-96, Ribeirão Preto, None
+39, Lucão, BRA, G, 1.91, 85, 29-01-98, Serra, None
+40, Federico Gino, URU, M, 1.73, 74, 26-02-93, Melo, Defensor Sporting
+41, Victor Luiz, BRA, D, 1.77, 74, 05-12-97, Belo Horizonte, None
+42, Rick Sena, BRA, M, 1.74, 71, 08-08-97, Araguaína, None
+43, Tonhão, BRA, D, , , 10-10-97, , None
+44, Joanderson, BRA, F, 1.80, 74, 16-02-96, Jequié, São Paulo
+45, Jonathan Braz, BRA, G, 1.89, 75, 14-01-99, Cachoeiro de Itapemirim, None
+50, Ramón Ábila, ARG, F, 1.78, 65, 14-10-89, Córdoba, Huracán
+70, Rafinha, BRA, M, 1.67, 61, 04-08-83, Guarulhos, Al-Shabab
+87, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, Nacional [POR]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Juan Sánchez Miño, ARG, M, 1.77, 78, 01-01-90, Saavedra, Torino
+30, Rafael Silva, BRA, F, 1.76, 68, 08-10-90, Feira de Santana, Figueirense (On Loan)
+35, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Bahia (On Loan)
+32, Matías Pisano, ARG, F, 1.66, 61, 13-12-91, Capital Federal, Santa Cruz (On Loan)
+14, Douglas Coutinho, BRA, F, 1.83, 71, 08-02-94, Volta Redonda, Atlético Paranaense
+36, Bruno Viana, BRA, D, 1.87, 75, 05-02-95, Macaé, Olympiakos
+15, Marciel, BRA, M, 1.70, 67, 08-03-95, Porto Alegre, Corinthians
+18, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, 
+88, Denílson, BRA, M, 1.78, 68, 16-02-88, São Paulo, Al-Wahda

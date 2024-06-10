@@ -1,0 +1,38 @@
+=  Numancia - Spanish Segunda División A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Pablo, ESP, G, 1.87, 83, 02-09-78, León, Maccabi Tel Aviv
+3, Ripa, ESP, D, 1.77, 73, 12-08-85, Épila, Elche
+4, Marc Pedraza, ESP, M, 1.83, 74, 06-02-87, Barcelona, L'Hospitalet
+5, Francisco Regalón, ESP, D, 1.82, 74, 19-02-87, Córdoba, Atlético Madrid B
+6, Íñigo Pérez, ESP, M, 1.78, 74, 18-01-88, Iruñea, Athletic Bilbao
+7, Dani Aquino, ESP, F, 1.72, 62, 27-07-90, Murcia, Atlético Madrid B
+8, Jon Gaztañaga, ESP, M, 1.82, 78, 28-06-91, Andoain, Real Sociedad
+9, Álex Alegría, ESP, F, 1.89, 82, 10-10-92, Plasencia, Betis B
+10, Julio Álvarez, VEN, M, 1.81, 74, 01-05-81, Caracas, Tenerife
+11, Javier Del Pino, ESP, F, 1.76, 66, 10-07-80, Madrid, Xerez
+12, Jorge Díaz, ESP, F, 1.68, 72, 28-06-89, Montevideo, Zaragoza
+13, Munir, MAR, G, 1.90, 79, 10-05-89, Melilla, Melilla
+14, Luis Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+15, David Concha, ESP, F, 1.72, 61, 20-11-96, Santander, Real Sociedad
+16, Juanma, ESP, D, 1.85, 82, 18-10-82, Las Palmas, Oviedo
+17, Unai Medina, ESP, D, 1.77, 78, 16-02-90, Bilbao, Alavés
+18, Vicente, ESP, F, 1.80, 71, 11-07-86, Aspe, Guadalajara [ESP]
+19, Antonio Martínez, ESP, M, 1.70, 68, 07-03-90, Madrid, Alcorcón
+20, Pablo Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+21, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Villarreal B
+22, Pedro Orfila, ESP, D, 1.75, 67, 06-03-88, Luanco, Racing Santander
+23, Adrián Dalmau, ESP, F, 1.81, 72, 23-03-94, Palma de Mallorca, Espanyol B
+24, Alexander Callens, PER, D, 1.83, 76, 04-05-92, Callao, Real Sociedad B
+27, Nacho, ESP, M, 1.77, 67, 11-02-93, Logroño, Numancia B
+28, Diego Ciria, ESP, D, 1.83, 75, 20-08-93, Soria, Numancia B
+30, Guille Vallejo, ESP, G, 1.82, 70, 22-04-95, Burgos, Numancia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Biel, ESP, G, 1.86, 82, 02-12-85, Palma de Mallorca, UCAM Murcia
+20, Antonio Tomás, ESP, M, 1.76, 75, 19-01-85, Torrelavega, 
+19, Natalio Lorenzo, ESP, F, 1.76, 70, 18-09-84, Valencia, Llagostera
+32, Pablo Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Re-Registered (20)
+23, Óscar Díaz, ESP, F, 1.85, 76, 24-04-84, Madrid, Mallorca

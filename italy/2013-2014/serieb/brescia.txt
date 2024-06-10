@@ -1,0 +1,54 @@
+=  Brescia - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michele Arcari, ITA, G, 1.84, 80, 27-06-78, Annicco, Pro Patria
+2, Rubén Olivera, URU, M, 1.84, 84, 04-05-83, Montevideo, Fiorentina
+3, Tommaso Coletti, ITA, D, 1.80, 74, 09-05-84, Canosa di Puglia, Teramo
+4, Vítor Saba, BRA, M, 1.84, 78, 11-07-90, Rio de Janeiro, Flamengo
+5, Alessandro Budel, ITA, M, 1.83, 82, 25-02-81, Milan, Parma
+6, Valerio Di Cesare, ITA, D, 1.87, 75, 23-05-83, Rome, Torino
+7, Sodinha, BRA, M, 1.80, 87, 17-07-88, Jundiaí, Ceará
+8, Luigi Alberto Scaglia, ITA, M, 1.82, 66, 23-11-86, Chiari, None
+9, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Genoa
+11, Marko Mitrović, SWE, F, 1.86, 85, 27-06-92, Malmö, Chelsea
+12, Alessio Cragno, ITA, G, 1.83, 80, 28-06-94, Fiesole, None
+14, Isaac Ntow, GHA, M, 1.75, 62, 26-05-94, Accra, Internazionale
+15, Marco Zambelli, ITA, D, 1.80, 77, 22-08-85, Gavardo, None
+16, Baba Ndaw Seck, SEN, F, 1.86, 80, 25-12-95, Dakar, None
+17, Ahmad Benali, ENG, M, 1.73, 73, 07-02-92, Manchester, Manchester C
+18, Richard Lašík, SVK, D, 1.84, 75, 18-08-92, Bratislava, None
+19, Lucas Finazzi, ITA, M, 1.79, 71, 18-08-90, Cuiabá, Chievo Verona
+20, Mario Gargiulo, ITA, M, 1.85, 74, 26-03-96, Naples, None
+21, Matteo Mandorlini, ITA, M, 1.80, 78, 22-10-88, Como, Parma
+22, Paolo Grossi, ITA, M, 1.80, 78, 29-05-85, Milan, Verona
+23, Gianluca Freddi, ITA, D, 1.85, 79, 29-03-87, Rome, Reggina
+24, Massimo Paci, ITA, D, 1.88, 84, 09-05-78, Fermo, Siena
+25, Edoardo Lancini, ITA, D, 1.86, 79, 10-04-94, Chiari, Lumezzane
+26, Fabio Bertoli, ITA, M, 1.85, 75, 20-08-96, Montichiari, None
+27, Juan Antonio Ignacio, ARG, F, 1.86, 77, 05-01-88, Trelew, Sampdoria
+28, Nana Welbeck, GHA, M, 1.79, 64, 24-11-94, Accra, None
+29, Adama Diouf, SEN, M, 1.81, 71, 28-08-93, Sébikotane, Diambars
+30, Agostino Camigliano, ITA, D, 1.87, 77, 11-07-94, Segrate, Udinese
+31, Alberto Boniotti, ITA, D, 1.79, 72, 23-03-95, Brescia, None
+32, Daniele Corvia, ITA, F, 1.86, 80, 22-11-84, Rome, Lecce
+33, Tonći Kukoč, CRO, D, 1.89, 83, 25-09-90, Split, Hajduk Split
+34, Stefano Minelli, ITA, G, 1.84, 76, 05-03-94, Brescia, None
+35, Marco Valotti, ITA, F, 1.65, 60, 13-11-95, Montichiari, None
+36, Daniele Mori, ITA, D, 1.90, 83, 28-06-90, Livorno, Udinese
+37, Lorenzo Andrenacci, ITA, G, 1.85, 78, 02-01-95, Fermo, Milan
+38, Leonardo Morosini, ITA, M, 1.78, 72, 13-10-95, Bergamo, None
+39, Nicolò Ragnoli, ITA, F, 1.83, 77, 16-02-94, Brescia, None
+40, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, None
+41, Joel Baraye, SEN, F, 1.82, 75, 05-01-97, Dakar, None
+42, Manuel Gullotta, ITA, F, 1.80, 72, 02-08-95, Rho, Internazionale
+43, Edoardo Tognazzi, ITA, G, 1.81, 68, 28-07-97, Brescia, None
+44, Ismail H'Maidat, MAR, M, 1.85, 75, 16-06-95, Enschede, Anderlecht
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Stefano Russo, ITA, G, 1.85, 79, 06-03-89, Nardò, Parma
+27, Nicola Lancini, ITA, M, 1.77, 71, 29-03-94, Chiari, Venezia (On Loan)
+28, Nicolò Quaggiotto, ITA, M, 1.80, 83, 04-10-93, Bologna, Lumezzane (On Loan)
+20, Nnamdi Oduamadi, NGA, M, 1.75, 65, 17-10-90, Lagos, Milan
+36, Stefano Gori, ITA, G, 1.86, 75, 09-03-96, Brescia, Milan

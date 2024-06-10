@@ -1,0 +1,36 @@
+=  MetroStars - USA Major League Soccer 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tony Meola, G, 6'01", 14 09, 21-02-69, Belleville, Kansas City Wizards
+2, Tim Ward, D, 6'00", 11 11, 28-02-87, Waukesha, St Louis Univ
+3, Chris Leitch, D, 5'11'', 11 11, 01-04-79, Columbus, Columbus Crew
+4, Carlos Mendes, D, 5'10", 11 11, 25-12-80, Mineola, Rochester Raging Rhinos
+5, Jeff Parke, D, 6'01", 11 06, 23-03-82, Downington, Drexel Univ
+6, Seth Stammler, D, 5'10", 11 12, 29-09-81, Columbus, Univ of Maryland
+7, Mike Magee, F, 5'09'', 10 10, 02-09-84, Chicago, US U-20s
+8, Mark Lisi, M, 6'01'', 11 11, 11-10-77, Englewood, DC United
+9, Sergio Galvan Rey, F, 5'08", 10 05, 09-06-73, Concepcion, Once Caldas
+10, Youri Djorkaeff, M, 5'10", 11 07, 09-03-68, Lyon, Blackburn R
+11, Abbe Ibrahim, F, 5'09", 11 01, 25-07-86, Lomé, FC Espoir
+12, Jeff Agoos, D, 5'10'', 12 07, 02-05-68, Geneva, San Jose Earthquakes
+13, Zach Wells, G, 6'02", 13 05, 26-02-81, Costa Mesa, UCLA
+14, Chris Corcoran, M, 5'09", 11 11, 30-03-83, Marshfield, Cape Cod Crusaders
+15, Eric Quill, F, 6'00'', 11 11, 28-02-78, Missouri City, FC Dallas
+16, Michael Bradley, M, 6'01", 11 11, 31-07-87, Princeton, Chicago Sockers
+17, Ramon Bailey, M, 5'11", 11 06, 22-02-84, Bronx, Mercer Comm College
+18, Michael Ueltschey, G, 6'02", 13 13, 14-04-80, Jackson, Cincinnati Riverhawks
+20, Amado Guevera, M, 5'11'', 11 11, 02-05-76, Tegucigalpa, CD Motagua
+21, Jason Hernandez, D, 5'10", 11 06, 26-08-83, Englewood, Seton Hall Univ
+22, Tim Regan, D, 6'01'', 12 02, 27-06-81, Orland Hills, Bradley Univ
+23, Danilo da Silva, D, 6'02", 12 07, 26-11-86, Campinas, Pinhalense
+24, Eddie Gaven, M, 6'00'', 10 05, 25-10-86, Hamilton, NJ, Hibernian
+30, Ryan Suarez, D, 6'02'', 13 03, 28-07-77, Sacramento, Chivas USA
+33, Daniel Garipe, M, 5'10", 12 06, 07-05-81, San Juan, Godoy Cruz (Mendoza)
+99, Ante Razov, F, 6'01'', 12 07, 02-03-74, Los Angeles, Columbus Crew
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Jonny Walker, G, 6'03'', 12 12, 13-09-74, Torrance, Columbus Crew
+15, John Wolyniec, F, 6'01'', 12 04, 24-01-77, Staten Island, Columbus Crew
+25, Gilberto Flores, M, 5'09", 11 06, 05-07-83, Toledo, New England Revolution

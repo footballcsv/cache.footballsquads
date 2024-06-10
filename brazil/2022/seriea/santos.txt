@@ -1,0 +1,53 @@
+=  Santos - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Felipe Jonatan, BRA, D, 1.76, 76, 15-02-98, Fortaleza, Ceará
+4, Eduardo Bauermann, BRA, D, 1.87, 85, 13-02-96, Estancia Velha, América Mineiro
+5, Gabriel Carabajal, ARG, M, 1.78, 75, 09-12-91, Córdoba, Argentinos Juniors
+6, Sandry, BRA, M, 1.70, 66, 30-08-02, Itabuana, None
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Monterrey
+8, Jhojan Julio, ECU, M, 1.68, 70, 11-02-98, Quito, LDU Quito
+9, Marcos Leonardo, BRA, F, 1.78, 71, 02-05-03, Itapetinga, None
+10, Yeferson Soteldo, VEN, M, 1.60, 55, 30-06-97, Acarigua, UANL Tigres
+11, Ângelo, BRA, F, 1.73, 65, 21-12-04, Brasília, None
+12, Rwan, BRA, F, 1.87, 73, 20-05-01, Recife, Flamengo-SP
+13, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Grêmio
+14, Rodrigo Fernández, URU, M, 1.72, 74, 03-01-96, Montevideo, Guaraní [PAR]
+15, Bryan Angulo, ECU, F, 1.83, 70, 30-11-95, Guayaquil, Cruz Azul
+16, Nathan, BRA, D, 1.83, 77, 05-09-01, Rio de Janeiro, Boavista
+17, Vinicius Balieiro, BRA, M, 1.77, 68, 28-05-99, Campinas, None
+20, Luan, BRA, M, 1.80, 71, 27-03-93, São José do Rio Preto, Corinthians
+21, Lucas Barbosa, BRA, M, 1.93, 85, 22-02-01, Bebedouro, Novorizontino
+22, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+25, Vinícius Zanocelo, BRA, M, 1.85, 77, 30-01-01, Santo André, Ferroviária
+26, Leonardo Zabala, BOL, D, 1.88, 83, 23-05-02, Santa Cruz de la Sierra, Palmeiras
+27, Auro, BRA, D, 1.68, 65, 23-01-96, Jaú, Toronto FC
+28, Jair Paula, BRA, D, 1.98, 81, 07-03-05, Orlândia, None
+29, Camacho, BRA, M, 1.81, 73, 02-03-90, Rio de Janeiro, Corinthians
+30, Lucas Braga, BRA, F, 1.84, 70, 10-11-96, São Paulo, Luverdense
+31, Alex, BRA, D, 1.89, 86, 10-05-99, Ribeirão Preto, Fluminense
+32, Derick, BRA, D, 1.94, 84, 16-05-02, Santos, None
+33, Maicon, BRA, D, 1.90, 74, 14-09-88, Barretos, Cruzeiro
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+36, Weslley Patati, BRA, F, 1.67, 60, 01-10-03, Presidente Dutra, None
+37, Ed Carlos, BRA, M, 1.86, 80, 19-03-01, São Paulo, São Paulo
+38, Kevyson, BRA, M, 1.74, 66, 29-03-04, Leopoldina, None
+39, Tailson, BRA, F, 1.72, 65, 05-03-99, São Paulo, None
+40, Bruno Oliveira, BRA, M, 1.75, 64, 01-02-98, Pinheiro, Caldense
+44, Lucas Pires, BRA, D, 1.82, 76, 24-03-01, São Paulo, Corinthians
+47, Miguel Terceros, BOL, M, 1.77, 69, 25-04-04, Santa Cruz de la Sierra, None
+50, Paulo Mazoti, BRA, G, 1.88, 83, 11-07-00, Ribeirão Pires, None
+52, Diógenes, BRA, G, 1.86, 80, 06-01-01, Itaperica da Serra, Avaí
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Marcos Guilherme, BRA, F, 1.72, 62, 05-08-95, Itararé, Internacional
+26, Robson Reis, BRA, D, 1.95, 89, 21-05-00, Vitória da Conquista, Boavista (On Loan)
+61, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Juárez
+20, Gabriel Pirani, BRA, M, 1.70, 64, 12-02-02, Penápolis, Cuiabá (On Loan)
+28, Kaiky, BRA, D, 1.84, 73, 12-01-04, Santos, Almería
+5, Willian Maranhão, BRA, M, 1.79, 80, 14-12-95, São Luís, Atlético Goianiense (On Loan)
+10, Ricardo Goulart, BRA, F, 1.78, 72, 05-05-91, São Paulo, Bahia
+92, Léo Baptistão, BRA, F, 1.81, 72, 26-08-92, Santos, Almería

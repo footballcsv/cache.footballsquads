@@ -1,0 +1,33 @@
+=  Nancy - French Ligue 2 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Quentin Beunardeau, FRA, G, 1.85, 72, 27-02-94, Le Mans, Le Mans
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+5, François Bellugou, FRA, M, 1.86, 70, 25-04-87, Prades, Guingamp
+6, Thomas Mangani, FRA, D, 1.82, 79, 29-04-87, Carpentras, Monaco
+8, Rémi Walter, FRA, M, 1.74, 73, 26-04-95, Essey-les-Nancy, None
+9, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, None
+11, Benjamin Moukandjo, CMR, F, 1.79, 76, 12-11-88, Douala, Monaco
+12, Junior Joachim, FRA, F, 1.79, 76, 13-05-92, Ulis, None
+13, Abdou Rahman Dampha, GAM, M, 1.84, 76, 27-12-91, Banjul, Neuchâtel Xamax
+14, Joffrey Cuffaut, FRA, D, 1.80, 74, 15-03-88, Beauvais, Le Mans
+15, Fouad Rachid, COM, M, 1.63, 60, 15-11-91, Mayotte, None
+16, Damien Gregorini, FRA, G, 1.94, 90, 02-03-79, Nice, Nice
+17, Florent Zitte, FRA, F, 1.83, 75, 17-05-93, Saint-Denis, None
+18, Lossemy Karaboué, FRA, F, 1.70, 70, 18-03-88, Paris, Sedan
+19, Alexandre Cuvillier, FRA, M, 1.82, 69, 17-06-86, Cucq, Boulogne
+20, Ibrahim Amadou, FRA, D, 1.83, 78, 06-04-93, Douala, None
+21, Tobias Badila, FRA, D, 1.81, 78, 12-05-93, Dijon, None
+22, Karim Coulibaly, FRA, M, 1.84, 80, 03-06-93, Bakel, None
+23, Jean Landry Bassilekin, CMR, F, 1.88, 73, 23-01-93, Makénéné, Renaissance de Ngoumou
+24, Fabien Lippmann, FRA, D, 1.79, 75, 30-03-93, Villeneuve St-Georges, None
+25, Jeff Louis, HAI, M, 1.78, 70, 08-08-90, Port-au-Prince, Le Mans
+26, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, Monaco
+27, Thomas Ayasse, FRA, M, 1.83, 75, 17-02-87, Toulouse, Arles-Avignon
+29, Romain Grange, FRA, M, 1.77, 71, 21-07-88, Châteauroux, Châteauroux
+30, Paul Nardi, FRA, G, 1.87, 77, 18-05-94, Vesoul, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, St-Etienne (On Loan)

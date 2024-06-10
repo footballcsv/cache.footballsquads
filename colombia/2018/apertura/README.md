@@ -1,0 +1,23 @@
+# Colombian Categoría Primera A 2018 Apertura
+
+20 teams
+- [Alianza Petrolera](aliapetr.txt)
+- [América de Cali](amercali.txt)
+- [Atlético Bucaramanga](atbucara.txt)
+- [Atlético Huila](athuila.txt)
+- [Atlético Nacional](atnacion.txt)
+- [Boyacá Chicó](boychico.txt)
+- [Deportes Tolima](deptolima.txt)
+- [Deportivo Cali](depcali.txt)
+- [Deportivo Pasto](deppasto.txt)
+- [Envigado](envigado.txt)
+- [Independiente Medellín](indmedel.txt)
+- [Itagüí Leones](itagleon.txt)
+- [Jaguares de Córdoba](jaguares.txt)
+- [Junior](junior.txt)
+- [La Equidad](laequid.txt)
+- [Millonarios](millon.txt)
+- [Once Caldas](oncecald.txt)
+- [Patriotas](patriot.txt)
+- [Rionegro Águilas](rionegro.txt)
+- [Santa Fe](santafe.txt)

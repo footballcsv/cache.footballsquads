@@ -1,0 +1,58 @@
+=  Bolton Wanderers - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Manchester U
+3, Dean Moxey, ENG, D, 1.80, 70, 14-01-86, Exeter, Crystal Palace
+4, Dorian Dervite, FRA, D, 1.92, 85, 25-07-88, Lille, Charlton Ath
+6, Josh Vela, ENG, M, 1.81, 73, 14-12-93, Salford, None
+7, Liam Feeney, ENG, M, 1.83, 76, 28-04-86, Hammersmith, Millwall
+8, Jay Spearing, ENG, M, 1.68, 70, 25-11-88, Wirral, Liverpool
+10, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, None
+12, Max Clayton, ENG, F, 1.75, 70, 09-08-94, Crewe, Crewe Alex
+13, Paul Rachubka, USA, G, 1.85, 85, 21-05-81, San Luis Opispo, Crewe Alex
+14, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Sheffield W
+15, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Real Madrid B
+16, Mark Davies, ENG, M, 1.80, 74, 18-02-88, Wolverhampton, Wolverhampton W
+17, Liam Trotter, ENG, M, 1.88, 77, 24-08-88, Ipswich, Millwall
+18, Neil Danns, ENG, M, 1.75, 78, 23-11-82, Liverpool, Leicester C
+19, Emile Heskey, ENG, F, 1.88, 88, 11-01-78, Leicester, Newcastle U Jets
+21, Darren Pratley, ENG, M, 1.85, 69, 22-04-85, Barking, Swansea C
+22, Wellington Silva, BRA, F, 1.70, 64, 06-01-93, Rio de Janeiro, Arsenal
+23, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Crystal Palace
+25, Lawrie Wilson, ENG, D, 1.78, 71, 11-09-87, Collier Row, Charlton Ath
+27, Filip Twardzik, CZE, M, 1.80, 64, 10-02-93, Třinec, Celtic
+30, Kaiyne Woolery, ENG, M, 1.79, 73, 11-01-95, Hackney, Tamworth
+31, David Wheater, ENG, D, 1.96, 82, 14-02-87, Redcar, Middlesbrough
+32, Tom Eaves, ENG, F, 1.90, 86, 14-02-92, Liverpool, Oldham Ath
+34, Ross Fitzsimons, ENG, G, 1.85, 75, 28-05-94, Hammersmith, Crystal Palace
+35, Conor Wilkinson, IRL, F, 1.85, 77, 23-01-95, Croydon, Millwall
+36, Alex Finney, ENG, D, 1.85, 70, 06-06-96, Huddersfield, Leyton Orient
+37, Quade Taylor, ENG, D, 1.91, 70, 11-12-93, Tooting, Crystal Palace
+38, Jordan Lussey, ENG, M, 1.77, 68, 02-11-94, Ormskirk, Liverpool
+39, Jon Ceberio, ESP, M, , , , , Real Sociedad
+40, Jamie Thomas, WAL, F, 1.78, 70, 10-01-97, Blackpool, None
+41, Oscar Threlkeld, ENG, D, 1.84, 78, 15-02-94, Bolton, None
+42, Tom Walker, ENG, M, 1.82, 76, 12-12-95, Salford, None
+43, Alex Samizadeh, IRN, F, 1.72, 72, 10-11-98, Tehran, None
+44, Tyler Garrett, ENG, D, 1.82, 72, 26-10-96, Lincoln, None
+45, Rob Holding, ENG, D, 1.82, 75, 09-11-94, Bolton, None
+46, Channing Campbell-Young, ENG, M, , , 18-09-96, London, Tottenham H
+47, Yvan Wassi, ENG, D, , , 06-05-97, Manchester, Manchester C
+48, Niall Maher, ENG, D, 1.78, 78, 31-07-95, Manchester, None
+49, Harry Campbell, ENG, G, 1.85, 77, 16-11-95, Blackburn, None
+50, Will Jaaskelainen, ISL, G, 1.83, 73, 25-07-98, Bolton, None
+51, George Newell, ENG, F, 1.83, 75, 27-01-97, Formby, Everton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Rob Hall, ENG, F, 1.88, 66, 20-10-93, Aylesbury, MK Dons (On Loan)
+5, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Fulham
+43, Andy Kellett, ENG, D, 1.78, 79, 10-11-93, Bolton, Wigan Ath
+29, Luke Brattan, AUS, M, 1.75, 65, 08-03-90, Hull, Manchester C
+33, Hayden White, ENG, D, 1.85, 68, 15-04-95, Greenwich, Blackpool (On Loan)
+44, Mohamed "Medo" Kamara, SLE, M, 1.74, 69, 16-11-87, Serabu, HJK Helsinki
+20, José Manuel Casado, ESP, D, 1.73, 75, 09-08-86, Sevilla, 
+24, Francesco Pisano, ITA, D, 1.74, 67, 29-04-86, Cagliari, Avellino (On Loan)
+26, Shola Ameobi, NGA, F, 1.91, 84, 12-10-81, Zaria, Fleetwood T
+2, Prince-Désir Gouano, FRA, D, 1.86, 78, 24-12-93, Paris, Atalanta

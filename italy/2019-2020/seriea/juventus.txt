@@ -1,0 +1,45 @@
+=  Juventus - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wojciech Szczęsny, POL, G, 1.95, 90, 18-04-90, Warsaw, Arsenal
+2, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Milan
+3, Giorgio Chiellini, ITA, D, 1.87, 86, 14-08-84, Pisa, Fiorentina
+4, Matthijs de Ligt, NED, D, 1.87, 80, 12-08-99, Leiderdorp, Ajax
+5, Miralem Pjanić, BIH, M, 1.78, 72, 02-04-90, Tuzla, Roma
+6, Sami Khedira, GER, M, 1.89, 90, 04-04-87, Stuttgart, Real Madrid
+7, Cristiano Ronaldo, POR, F, 1.87, 84, 05-02-85, Funchal, Real Madrid
+8, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Arsenal
+10, Paulo Dybala, ARG, F, 1.77, 75, 15-11-93, Laguna Larga, Palermo
+11, Douglas Costa, BRA, F, 1.72, 70, 14-09-90, Sapucaia do Sul, Bayern Munich
+12, Alex Sandro, BRA, D, 1.81, 81, 26-01-91, Catanduva, FC Porto
+13, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, Manchester C
+14, Blaise Matuidi, FRA, M, 1.80, 75, 09-04-87, Toulouse, Paris St-Germain
+16, Juan Cuadrado, COL, F, 1.79, 71, 26-05-88, Necoclí, Chelsea
+19, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Milan
+21, Gonzalo Higuaín, ARG, F, 1.86, 89, 10-12-87, Brest, Napoli
+24, Daniele Rugani, ITA, D, 1.90, 84, 29-07-94, Lucca, Empoli
+25, Adrien Rabiot, FRA, M, 1.88, 71, 03-04-95, Saint-Maurice, Paris St-Germain
+28, Merih Demiral, TUR, D, 1.92, 86, 05-03-98, Kocaeli, Sassuolo
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Boca Juniors
+31, Carlo Pinsoglio, ITA, G, 1.94, 85, 16-03-90, Moncalieri, Vicenza
+33, Federico Bernardeschi, ITA, F, 1.85, 77, 16-02-94, Carrara, Fiorentina
+34, Pietro Beruatto, ITA, D, 1.84, 78, 21-12-98, Trieste, None
+35, Marco Olivieri, ITA, F, 1.77, 70, 30-06-99, Fermo, Empoli
+38, Simone Muratore, ITA, M, 1.86, 74, 30-05-98, Cuneo, Saluzzio
+39, Manolo Portanova, ITA, M, 1.83, 72, 02-06-00, Naples, Lazio
+41, Luca Coccolo, ITA, D, 1.87, 76, 23-02-98, Cirié, None
+42, Wesley, BRA, D, 1.77, 66, 13-03-00, Retirolândia, Verona
+43, Daouda Peeters, BEL, M, 1.85, 79, 26-01-99, Kamsar, Sampdoria
+44, Giacomo Vrioni, ITA, F, 1.88, 79, 15-10-98, San Severino Marche, Sampdoria
+46, Luca Zanimacchia, ITA, F, 1.78, 68, 19-07-98, Desio, Genoa
+47, Gianluca Frabotta, ITA, D, 1.76, 70, 24-06-99, Rome, Bologna
+77, Gianluigi Buffon, ITA, G, 1.92, 92, 28-01-78, Carrara, Paris St-Germain
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Mario Mandžukić, CRO, F, 1.90, 85, 21-05-86, Slavonski Brod, Al-Duhail
+37, Mattia Perin, ITA, G, 1.88, 85, 10-11-92, Latina, Genoa (On Loan)
+36, Han Kwang-Song, PRK, F, 1.78, 70, 11-09-98, Pyongyang, Al-Duhail
+20, Marko Pjaca, CRO, F, 1.86, 85, 06-05-95, Zagreb, Anderlecht (On Loan)
+23, Emre Can, GER, M, 1.84, 82, 12-01-94, Frankfurt am Main, Borussia Dortmund (On Loan)

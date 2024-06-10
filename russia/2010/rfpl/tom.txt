@@ -1,0 +1,66 @@
+=  Tom Tomsk - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Ivan Tuev, RUS, D, 1.92, 80, 01-05-89, , Tom-2
+3, Valeriy Klimov, RUS, M, 1.88, 82, 31-01-74, Orel, Arsenal Tula
+5, Sergey Skoblyakov, RUS, M, 1.64, 58, 02-01-77, Moscow, Liepājas Metalurgs
+6, Dmitriy Michkov, RUS, M, 1.87, 77, 22-02-80, Klimovsk, Spartak Nalchik
+9, Serghei Covalciuc, MDA, M, 1.82, 77, 20-01-82, Odessa, Spartak Moscow
+10, Goran Maznov, MKD, F, 1.85, 78, 22-04-81, Strumica, Lokeren
+11, Kyrylo Kovalchuk, UKR, M, 1.85, 73, 11-06-86, Odessa, Zimbru Chişinău
+12, Alexey Polyakov, RUS, G, 1.87, 80, 08-02-74, Belgorod, Lokomotiv Moscow
+13, Ilya Gultyayev, RUS, D, 1.81, 76, 05-09-88, Vologda, Spartak Moscow
+18, Vladislav Khatazhenkov, RUS, D, 1.84, 79, 02-05-84, Moscow, Spartak Nalchik
+20, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Spartak Moscow
+21, Nikola Petković, SRB, D, 1.85, 78, 28-03-86, Novi Sad, Eintracht Frankfurt
+22, Park Hye-Sun, KOR, D, 1.83, 72, 05-04-90, , Incheon U
+23, Georgiy Dzhioev, RUS, D, 1.92, 85, 13-06-86, Vladikavkaz, Kuban Krasnodar
+24, Dmitriy N. Smirnov, RUS, D, 1.87, 74, 09-11-80, Moscow, Luch-Energia
+25, Sergei Pareiko, EST, G, 1.93, 84, 31-01-77, Tallinn, Levadia Tallinn
+26, Viktor Stroyev, RUS, D, 1.78, 70, 16-01-87, Voronezh, Zenit St Petersburg
+28, Konstantin Dmitrievskiy, RUS, D, 1.79, 71, 20-05-90, , Tom-2
+29, Nikita Konovalov, RUS, D, 1.84, 70, 17-08-91, , Tom-2
+30, Ivan Komissarov, RUS, G, 1.94, 82, 28-05-88, Moscow, Spartak Moscow
+33, Daisuke Matsui, JPN, M, 1.75, 67, 11-05-81, Kyoto, Grenoble
+36, Fedor Kudryashov, RUS, D, 1.83, 80, 05-04-87, Moscow, Spartak Moscow
+37, Djordje Jokić, SRB, D, 1.81, 81, 20-01-81, Raška, Torpedo Moscow
+41, Fedor Burdikin, RUS, G, 1.86, 78, 03-01-90, , Dynamo Moscow-2
+43, Roman Zharikov, RUS, F, 1.68, 68, 25-01-91, , Tom-2
+44, Vladimir Ageev, RUS, G, 2.03, 90, 22-02-90, , Tom-2
+50, Evgeniy Koksharov, RUS, F, 1.74, 77, 12-01-92, , Tom-2
+52, Ilya Protasov, RUS, M, 1.86, 75, 29-06-92, , Tom-2
+55, Kim Nam-Il, KOR, M, 1.82, 76, 14-03-77, Incheon, Vissel Kobe
+57, Artem Nozdrunov, RUS, F, 1.88, 68, 01-06-92, , Spartak Moscow
+62, Artur Zaks, RUS, D, 1.77, 75, 04-02-91, , Tom-2
+65, Oleg Sokulov, RUS, M, 1.80, 73, 24-04-92, , Tom-2
+66, Dmitriy Efremov, RUS, M, 1.83, 78, 02-06-91, , Tom-2
+69, Maksim Suvrov, RUS, D, 1.91, 77, 19-07-92, , Tom-2
+70, Artem Korotya, RUS, F, 1.78, 72, 07-04-92, , Tom-2
+73, Ilya Gerdt, RUS, D, 1.78, 72, 22-06-92, , Tom-2
+75, Viktor Svezhov, RUS, M, 1.75, 71, 17-05-91, Moscow, Dynamo Moscow
+77, Valentin Gaponov, RUS, M, 1.81, 67, 21-09-91, Vladivostok, Tom-2
+80, Evgeniy Chernov, RUS, M, 1.80, 73, 23-10-92, Tomsk, Tom-2
+83, Aleksandr Kharitonov, RUS, M, 1.80, 72, 04-04-83, Krasnoyarsk, Saturn
+87, Evgeniy Starikov, USA, F, 1.72, 65, 17-11-88, Odessa, Zenit St Petersburg
+88, Bobirmiza Makhmudov, RUS, M, 1.73, 63, 16-08-92, , Tom-2
+90, Denis Pshenichnikov, RUS, M, 1.70, 63, 07-01-90, Tomsk, Tom-2
+91, Denis Voronov, RUS, D, 1.84, 72, 02-06-91, , Tom-2
+92, Artem Kochergin, RUS, D, 1.80, 75, 01-05-92, , Tom-2
+93, Mikhail Bashilov, RUS, M, 1.80, 73, 12-01-93, , Tom-2
+99, Aleksey Sazonov, RUS, M, 1.76, 72, 21-07-92, , Tom-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Sergey Golyatkin, RUS, D, 1.80, 71, 04-05-88, Kazan, SKA-Energia (On Loan)
+4, Vasiliy Yanotovskiy, RUS, M, 1.76, 70, 02-01-76, Leninsk-Kuznetskiy, SKA-Energia
+7, Vitaliy Volkov, RUS, M, 1.75, 64, 22-03-81, Moscow, Volga Nizhny Novgorod
+51, Nikita Kozlov, RUS, F, 1.85, 75, 05-12-90, , 
+71, Roman Grokhin, RUS, M, 1.71, 73, 25-03-91, , 
+8, Denis Kiselev, RUS, F, 1.80, 70, 02-06-78, Moscow, Volgar-Gazprom
+17, Andrey Ivanov, RUS, D, 1.79, 75, 08-10-88, Moscow, Spartak Moscow
+1, Egor Ridosh, RUS, G, 1.82, 67, 08-02-89, , Khimik Dzerzhinsk (On Loan)
+49, Aleksey Yakimov, RUS, M, 1.72, 70, 21-10-89, Tomsk, Khimik Dzerzhinsk (On Loan)
+14, Siarhei Karnilenka, BLR, F, 1.85, 78, 14-06-83, Vitebsk, Zenit St Petersburg
+19, Aleksandr Prudnikov, RUS, F, 1.85, 78, 26-02-89, Smolensk, Spartak Moscow
+81, Norbert Németh, HUN, M, 1.84, 84, 05-05-81, Budapest, Vasas

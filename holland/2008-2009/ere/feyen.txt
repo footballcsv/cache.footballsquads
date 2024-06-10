@@ -1,0 +1,52 @@
+=  Feyenoord - Dutch Eredivisie 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Henk Timmer, NED, G, 1.88, 90, 03-12-71, Hierden, AZ Alkmaar
+2, Theo Lucius, NED, D, 1.82, 76, 19-12-76, Veghel, PSV Eindhoven
+3, Kevin Hofland, NED, D, 1.85, 73, 07-06-79, Brunssum, Wolfsburg
+4, André Bahia, BRA, D, 1.82, 75, 24-11-83, Rio de Janeiro, Flamengo
+5, Tim de Cler, NED, D, 1.79, 69, 08-11-78, Leiden, AZ Alkmaar
+6, Karim El Ahmadi, MAR, M, 1.85, 78, 27-01-85, Enschede, FC Twente
+7, Denny Landzaat, NED, M, 1.78, 70, 06-05-76, Amsterdam, Wigan Ath
+8, Giovanni van Bronckhorst, NED, D, 1.78, 76, 05-02-75, Rotterdam, Barcelona
+9, Roy Makaay, NED, F, 1.88, 75, 09-03-75, Wijchen, Bayern Munich
+10, Luigi Bruins, NED, M, 1.80, 75, 09-03-87, Rotterdam, Excelsior
+11, Jon Dahl Tomasson, DEN, F, 1.80, 74, 29-08-76, Roskilde, Villarreal
+14, Michael Mols, NED, F, 1.77, 71, 17-12-70, Amsterdam, ADO Den Haag
+15, Kermit Erasmus, RSA, F, 1.71, 63, 08-07-90, Port Elizabeth, SuperSport U
+16, Darley, BRA, G, 1.87, 75, 15-12-89, Pedro Leopoldo, Atlético Mineiro
+17, Manteiga, BRA, M, 1.77, 69, 19-03-90, Maceió, Gama
+18, Serginho Greene, NED, D, 1.78, 72, 24-06-82, Amsterdam, RKC Waalwijk
+20, Ron Vlaar, NED, D, 1.89, 80, 16-02-85, Hensbroek, AZ Alkmaar
+22, Andwelé Slory, NED, F, 1.70, 59, 27-09-82, Paramaribo, Excelsior
+24, Luis Pedro, NED, F, 1.79, 71, 27-04-90, Luanda, MVV Maastricht
+25, Georginio Wijnaldum, NED, M, 1.72, 69, 11-11-90, Rotterdam, Sparta Rotterdam
+26, Michał Janota, POL, F, 1.71, 68, 29-07-90, Gubin, Zielona Góra
+27, Kaj Ramsteijn, NED, D, 1.87, 80, 17-01-90, Zoetermeer, None
+28, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, DWO
+29, Tim Vincken, NED, F, 1.74, 65, 12-09-86, Rotterdam, TOGB
+31, Dwight Tiendalli, NED, D, 1.77, 68, 21-10-85, Paramaribo, FC Utrecht
+32, Rob van Dijk, NED, G, 1.87, 83, 15-01-69, Voorhout, SC Heerenveen
+33, Jonathan de Guzmán, NED, M, 1.73, 65, 13-09-87, Scarborough [CAN], North Scarborough
+34, Miquel Nelom, NED, D, 1.74, 69, 22-09-90, Rotterdam, Spijkernisse
+35, Norichio Nieveld, NED, D, 1.89, 80, 25-04-89, Den Bosch, None
+36, Kevin Wattamaleo, NED, M, 1.74, 73, 25-01-89, Rotterdam, None
+37, Diego Biseswar, NED, F, 1.71, 73, 08-03-88, Amsterdam, Telstar
+38, Kelvin Leerdam, NED, M, 1.78, 70, 24-06-90, Paramaribo, Elinkwijk
+39, Mitchell Schet, NED, F, 1.86, 75, 28-01-88, Amsterdam, FC Utrecht
+40, Timon van Leeuwen, NED, M, 1.76, 70, 08-09-87, Leiden, UVS
+42, Kostas Lamprou, GRE, G, 1.76, 64, 18-09-91, Athens, None
+48, Jordão Pattinama, NED, F, 1.77, 68, 01-03-89, Almelo, Deltasport Vlaardingen
+, Lorenzo Piqué, NED, D, 1.86, 74, 17-09-90, Rotterdam, None
+, Glenn Kobussen, NED, M, 1.71, 73, 18-06-89, Deventer, Vitesse
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Jacob Lensky, CAN, M, 1.80, 72, 16-12-88, Vancouver, Retired
+32, Sherif Ekramy, EGY, G, 1.91, 93, 01-07-83, Cairo, Ankaragücü (On Loan)
+30, Nicky Hofs, NED, M, 1.70, 70, 17-05-83, Arnhem, Vitesse (On Loan)
+43, Mitchell Poldervaart, NED, F, , , 28-03-88, , SC Heerenveen
+41, Stefan Toonen, NED, G, , , 17-09-83, Nijmegen, PSV Eindhoven
+23, Danny Buijs, NED, D, 1.82, 78, 21-06-82, Dordrecht, ADO Den Haag
+53, Timothy Derijck, BEL, D, 1.85, 77, 25-05-87, Liedekerke, ADO Den Haag

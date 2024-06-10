@@ -1,0 +1,48 @@
+=  SPAL - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Meret, ITA, G, 1.90, 82, 22-03-97, Udine, Udinese
+2, Daniele Gasparetto, ITA, D, 1.95, 85, 06-04-88, Montebelluna, Cittadella
+3, Tommaso Silvestri, ITA, D, 1.85, 80, 26-10-91, Dolo, Casale
+4, Mariano Arini, ITA, M, 1.78, 74, 17-01-87, Naples, Avellino
+5, Nicolas Giani, ITA, D, 1.82, 81, 13-03-86, Como, Vicenza
+6, Michele Cremonesi, ITA, D, 1.83, 78, 15-04-88, Cremona, Crotone
+7, Mirco Antenucci, ITA, F, 1.78, 75, 08-09-84, Termoli, Leeds U
+8, Filippo Artioli, ITA, M, , , 25-01-98, Ferrara, Fiorentina
+9, Leonardo Ubaldi, ITA, F, , , 09-07-99, Terni, Campitello
+10, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Bologna
+11, Mattia Finotto, ITA, F, 1.78, 72, 28-12-92, Valdobbiadene, Monza
+12, Gabriele Marchegiani, ITA, G, 1.83, 78, 03-06-96, Rome, Roma
+13, Francesco Ferrari, ITA, D, , , 05-09-98, Rome, Juventus
+14, Kevin Bonifazi, ITA, D, 1.80, 70, 19-05-96, Rieti, Torino
+15, Edoardo Picozzi, ITA, M, , , 17-05-98, Magenta, Internazionale
+16, Tommaso Equizi, ITA, D, 1.84, 78, 11-07-97, Valdagno, Internazionale
+17, GianMarco Zigoni, ITA, F, 1.88, 80, 10-05-91, Verona, Milan
+18, Eros Schiavon, ITA, M, 1.78, 74, 24-04-83, Piove di Sacco, Avellino
+19, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, Alessandria
+20, Michele Castagnetti, ITA, M, 1.80, 71, 27-12-89, Montecchio Emilia, Carrarese
+21, Simone Pontisso, ITA, M, 1.84, 74, 20-03-97, San Daniele del Friuli, Udinese
+22, Giacomo Poluzzi, ITA, G, 1.86, 74, 25-02-88, Bologna, Fidelis Andria
+23, Francesco Vicari, ITA, D, 1.90, 80, 03-08-94, Rome, Novara
+24, Cristiano Del Grosso, ITA, D, 1.71, 66, 24-03-83, Giulianova, Atalanta
+25, Gabriel Strefezza, BRA, F, 1.68, 63, 18-04-97, São Paulo, Corinthians
+26, Alessandro Di Pardo, ITA, D, 1.82, 75, 18-07-99, Rimini, Rimini
+27, Paolo Ghiglione, ITA, F, 1.87, 80, 02-02-97, Voghera, Genoa
+28, Pasquale Schiattarella, ITA, M, 1.78, 68, 30-05-87, Mugnano di Napoli, Latina
+29, Manuel Lazzari, ITA, M, 1.74, 67, 29-11-93, Valdagno, Giacomense
+30, Giacomo Boccafoglia, ITA, D, 1.80, 75, 01-12-98, Ferrara, None
+31, Demba Ngagne Thiam, SEN, G, 2.02, 77, 09-03-98, , None
+32, Shaka Mawuli, GHA, M, 1.85, 72, 16-05-98, Sunyani, Serino
+33, Filippo Costa, ITA, D, 1.76, 68, 21-05-95, Noventa Vicentina, Chievo Verona
+34, Tommaso Costantini, ITA, M, 1.83, 76, 23-06-96, Pesaro, Mezzolara
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Alberto Cerri, ITA, F, 1.94, 91, 16-04-96, Parma, Juventus
+10, Luigi Grassi, ITA, F, 1.70, 66, 21-10-83, Castelnuovo di Garfagnana, Pontedera
+13, Andrea Beghetto, ITA, M, 1.75, 73, 11-10-94, Perugia, Genoa
+26, Corrado Concas, ITA, M, 1.80, , 25-03-97, Vittorio Veneto, Tamai (On Loan)
+8, Mirco Spighi, ITA, M, 1.72, 67, 27-08-90, Forlimpopoli, Teramo
+22, Paolo Branduani, ITA, G, 1.92, 92, 09-03-89, Vizzolo, Teramo (On Loan)
+15, Alberto Picchi, ITA, M, 1.85, 69, 12-08-97, Livorno, Empoli

@@ -1,0 +1,50 @@
+=  Internacional - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Sport Recife
+2, Dudu, BRA, D, 1.75, 75, 30-05-97, Gama, Figueirense
+4, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Panathinaikos
+5, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Sport Recife
+6, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Corinthians
+7, Nicolás López, URU, F, 1.75, 67, 01-10-93, Montevideo, Udinese
+8, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+9, Leandro Damião, BRA, F, 1.88, 81, 22-07-89, Jardim Alegre, Santos
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, San Lorenzo
+11, Wellington Silva, BRA, M, 1.70, 64, 06-01-93, Rio de Janeiro, Fluminense
+12, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Bahia
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, None
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Independiente
+18, Fabiano, BRA, D, 1.88, 82, 18-11-91, São José do Oeste, Palmeiras
+20, Emerson Santos, BRA, D, 1.84, 75, 05-04-95, Itaboraí, Palmeiras
+21, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Botafogo
+22, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Shenzhen FC
+23, Thales, BRA, D, 1.86, 80, 06-04-93, Porto Alegre, None
+28, Iago, BRA, D, 1.81, 68, 23-03-97, Monte Azul Paulista, None
+29, Martín Sarrafiore, ARG, M, 1.80, 70, 20-07-97, Villa Ballester, Huracán
+30, Gabriel Dias, BRA, D, 1.83, 79, 10-05-94, Francisco Morato, Palmeiras
+32, Keiller, BRA, G, 1.93, 86, 29-10-96, Eldorado do Sul, None
+33, Nonato, BRA, M, 1.74, 68, 03-03-98, São Paulo, São Caetano
+35, Charles, BRA, M, 1.87, 80, 19-06-96, Santiago-RS, Santo Ângelo
+36, Ramon, BRA, M, 1.74, 69, 19-05-97, Limeira, Desportivo Brasil
+37, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, Santos
+42, Daniel, BRA, G, 1.88, 80, 06-05-94, Barra dos Garças, None
+44, Klaus, BRA, D, 1.87, 79, 11-01-94, Dois Irmãos, None
+47, Juan Alano, BRA, M, 1.74, 69, 02-09-96, Curitiba, None
+48, Brenner, BRA, F, 1.82, 75, 10-01-99, Porto Alegre, None
+49, Richard, BRA, M, 1.76, 69, 11-10-99, Barão, None
+79, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Flamengo
+86, Jonathan Álvez, URU, F, 1.81, 80, 31-05-88, Vichadero, Junior
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Sport Recife
+99, William Pottker, BRA, F, 1.80, 78, 22-12-93, Foz do Iguaçu, Ponte Preta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Roger, BRA, F, 1.84, 79, 07-01-85, Campinas, Corinthians
+20, Marcinho, BRA, F, 1.73, 66, 16-05-95, Belford Roxo, Fortaleza (On Loan)
+26, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, Ceará
+17, Ruan, BRA, D, 1.74, 65, 29-05-95, Rio de Janeiro, Barra
+3, Danilo Silva, BRA, D, 1.85, 69, 24-11-86, Campinas, Los Angeles FC (On Loan)
+31, Ronald, BRA, F, 1.60, 57, 05-02-97, Rio de Janeiro, Boavista
+19, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Corinthians
+34, Álvaro, BRA, F, 1.85, 75, 09-09-97, Paudalho, Salgueiro

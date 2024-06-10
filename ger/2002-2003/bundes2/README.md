@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2002/03
+
+18 teams
+- [LR Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Eintracht Trier](eintrier.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Köln](koln.txt)
+- [VfL Lübeck](lubeck.txt)
+- [FSV Mainz 05](mainz.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [SSV Reutlingen](reutling.txt)
+- [St Pauli](stpauli.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [Wacker Burghausen](burghaus.txt)
+- [Waldhof Mannheim](mannheim.txt)

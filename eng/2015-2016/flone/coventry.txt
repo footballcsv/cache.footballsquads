@@ -1,0 +1,50 @@
+=  Coventry City - English Football League One 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Burge, ENG, G, 1.80, 70, 09-01-93, Hereford, None
+2, Jordan Willis, ENG, D, 1.80, 70, 24-08-94, Coventry, None
+3, Chris Stokes, ENG, D, 1.85, 83, 08-03-91, Trowbridge, Forest Green R
+4, Romain Vincelot, FRA, M, 1.77, 71, 29-10-85, Poitiers, Leyton Orient
+5, Réda Johnson, BEN, D, 1.87, 87, 21-03-88, Marseille, Sheffield W
+6, Conor Thomas, ENG, M, 1.85, 72, 29-10-93, Coventry, None
+7, John Fleck, SCO, M, 1.75, 72, 24-08-91, Glasgow, Rangers
+8, Rúben Lameiras, POR, M, 1.75, 70, 22-12-94, Lisbon, Tottenham H
+9, Adam Armstrong, ENG, F, 1.72, 69, 10-02-97, Newcastle upon Tyne, Newcastle U
+10, James Maddison, ENG, M, 1.79, 73, 23-11-96, Coventry, Norwich C
+11, James O'Brien, SCO, M, 1.83, 75, 28-09-87, Glasgow, Barnsley
+12, Martin Lorentzson, SWE, D, 1.79, 72, 21-07-84, Östertälje, Åtvidabergs FF
+13, Vladimir Gadzhev, BUL, M, 1.79, 76, 18-07-87, Pazardzhik, Levski Sofia
+14, Joe Cole, ENG, M, 1.76, 73, 08-11-81, Paddington, Aston Villa
+15, Jack Stephens, ENG, D, 1.85, 84, 27-01-94, Torpoint, Southampton
+16, Andy Rose, ENG, M, 1.88, 77, 13-02-90, Melbourne, Seattle Sounders
+17, Aaron Phillips, ENG, D, 1.71, 70, 20-11-93, Warwick, None
+18, Sam Ricketts, WAL, D, 1.85, 77, 11-10-81, Aylesbury, Wolverhampton W
+19, Gaël Bigirimana, ENG, M, 1.73, 68, 22-10-93, Bujumbura, Newcastle U
+20, Marcus Tudgay, ENG, F, 1.75, 73, 03-02-83, Worthing, Nottingham F
+21, Aaron Martin, ENG, D, 1.90, 76, 29-09-89, Newport (IoW), Yeovil T
+22, Peter Ramage, ENG, D, 1.85, 76, 22-11-83, Ashington, Kerala Blasters
+23, Reice Charles-Cook, ENG, G, 1.85, 80, 08-04-94, Lewisham, Bury
+24, Ivor Lawton, ENG, M, 1.81, 76, 05-09-95, Coventry, None
+25, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+26, Ryan Haynes, ENG, D, 1.70, 68, 27-09-95, Northampton, None
+27, George Thomas, WAL, F, 1.73, 76, 24-03-97, Leicester, None
+29, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, None
+30, Dion Kelly-Evans, ENG, D, 1.77, 79, 21-09-96, Coventry, None
+31, Ben Stevenson, ENG, M, 1.83, 67, 23-03-97, Leicester, None
+32, Marc-Antoine Fortuné, FRA, F, 1.82, 82, 02-07-81, Cayenne, Wigan Ath
+34, Bassala Sambou, ENG, F, 1.85, 75, 15-10-97, Hannover, None
+38, Baily Cargill, ENG, D, 1.78, 79, 13-10-95, Southampton, Bournemouth
+42, Stephen Hunt, IRL, M, 1.75, 79, 01-08-81, Portlaoise, Ipswich T
+43, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, Arsenal
+44, Darius Henderson, ENG, F, 1.85, 84, 07-09-81, Doncaster, Scunthorpe U
+45, Jodi Jones, ENG, M, 1.77, 73, 22-10-97, Bow, Dagenham & Redbridge
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Danny Swanson, SCO, M, 1.68, 59, 28-12-86, Edinburgh, Hearts
+15, Adam Jackson, ENG, D, 1.87, 78, 18-05-94, Darlington, Middlesbrough
+12, Bryn Morris, ENG, D, 1.82, 71, 25-04-96, Hartlepool, Middlesbrough
+15, Ben Turner, ENG, D, 1.93, 91, 21-01-88, Birmingham, Cardiff C
+40, Ryan Kent, ENG, M, 1.72, 65, 11-11-96, Oldham, Liverpool
+16, Lateef Elford-Alliyu, ENG, F, 1.73, 69, 01-06-92, Ibadan, 

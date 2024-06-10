@@ -1,0 +1,52 @@
+=  Vélez Sarsfield - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alan Aguerre, ARG, G, 1.81, 76, 23-08-90, Capital Federal, None
+2, Ramiro Ríos, ARG, D, 1.84, 82, 07-11-95, San Antonio de Padua, None
+3, Damián Pérez, ARG, D, 1.90, 78, 22-12-88, Lanús, Arsenal [ARG]
+4, Emiliano Amor, ARG, D, 1.83, 80, 16-05-95, Capital Federal, None
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, UANL Tigres
+7, Yamil Asad, ARG, M, 1.79, 75, 27-07-94, Capital Federal, None
+9, Milton Caraglio, ARG, F, 1.87, 89, 01-12-88, Rosario, Arsenal [ARG]
+10, Jorge Correa, ARG, F, 1.70, 70, 04-04-93, San Martín, None
+12, Gonzalo Yordan, ARG, G, 1.85, 70, 20-03-94, Capital Federal, None
+14, Matías Pérez Acuña, ARG, D, 1.76, 72, 09-02-94, Capital Federal, None
+15, Fabricio Alvarenga, ARG, M, 1.78, 76, 17-02-96, Puerto Rico, None
+16, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, None
+17, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+18, Leandro Somoza, ARG, M, 1.85, 77, 26-01-81, Capital Federal, Lanús
+19, Roberto Nanni, ARG, F, 1.89, 78, 20-08-81, Azul, Atlante
+20, Brian Ferreira, ARG, M, 1.73, 64, 24-05-94, Capital Federal, None
+21, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, None
+23, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, None
+24, Iván Bella, ARG, M, 1.80, 72, 13-09-89, San Martín, Chiapas
+25, Lucio Compagnucci, ARG, M, 1.74, 68, 23-02-96, Capital Federal, None
+26, Alan Arario, ARG, M, 1.73, 68, 01-04-95, Capital Federal, Roma
+27, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, None
+28, Braian Cufré, ARG, M, 1.79, 82, 15-12-96, Mar del Plata, None
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, None
+30, Facundo Cardozo, ARG, D, 1.78, 77, 06-04-95, San Miguel, None
+31, Germán Ferreyra, ARG, M, 1.78, 74, 13-01-96, Capital Federal, None
+32, Federico Vázquez, ARG, F, 1.82, 81, 31-03-93, San Martín, None
+33, Nicolás Delgadillo, ARG, F, 1.77, 70, 02-10-97, Capital Federal, None
+34, Agustín Doffo, ARG, M, 1.79, 74, 25-05-95, Oliva, None
+35, Rodrigo Bella, ARG, D, 1.75, 63, 26-01-95, Capital Federal, None
+36, Matías Vargas, ARG, M, 1.68, 66, 08-05-97, Salta, None
+37, Emiliano Bogado, ARG, M, 1.66, 63, 18-11-97, Ushuaia, None
+38, Rodolfo Combe, URU, F, 1.79, 85, 04-01-95, Carmelo, None
+39, Tomás Figueroa, ARG, G, 1.80, 73, 20-04-95, Capital Federal, None
+40, Hernán Toledo, ARG, F, 1.80, 72, 17-01-96, Sastre, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Cruzeiro
+3, Eric Jerez, ARG, D, 1.75, 74, 20-08-94, Santa Rosa, Guaraní Antonio Franco (On Loan)
+8, Mariano Pavone, ARG, F, 1.76, 81, 27-05-82, Tres Sargentos, Racing Club
+28, Ramiro Cáseres, ARG, F, 1.88, 83, 09-01-94, Ituzaingó, Gimnasia y Esgrima (Jujuy) (On Loan)
+2, Hernán Pellerano, ARG, D, 1.83, 72, 04-06-84, Capital Federal, Independiente
+13, Sebastián Sosa, URU, G, 1.80, 77, 19-08-86, Montevideo, Pachuca
+16, Leonardo Villalba, ARG, M, 1.83, 79, 29-11-94, El Colorado, Panionios (On Loan)
+15, Jairo Vélez, ECU, F, 1.68, 72, 21-04-95, Guayaquil, Universidad Católica [ECU] (On Loan)
+22, Leonardo Rolón, ARG, M, 1.71, 65, 19-01-95, Rosario, Emelec (On Loan)
+24, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, Re-Registered (16)

@@ -1,0 +1,63 @@
+=  Lazio - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Albano Bizzarri, ARG, G, 1.93, 89, 09-11-77, Etruria, Catania
+2, Michaël Ciani, FRA, D, 1.89, 88, 06-04-84, Paris, Bordeaux
+3, André Dias, BRA, D, 1.84, 80, 15-05-79, São Bernardo do Campo, São Paulo
+4, Luca Crecco, ITA, M, 1.83, 77, 06-09-95, Rome, None
+6, Stefano Mauri, ITA, M, 1.84, 77, 08-01-80, Monza, Udinese
+7, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Lyon
+8, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, São Paulo
+10, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Al Sadd
+11, Miroslav Klose, GER, F, 1.82, 81, 09-06-78, Opole, Bayern Munich
+14, Balde Diao Keita, SEN, F, 1.84, 80, 08-03-95, Arbucias, Barcelona
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Defensor Sporting
+17, Bruno Pereirinha, POR, M, 1.73, 68, 02-03-88, Rio de Mouro, Sporting CP
+18, Libor Kozák, CZE, F, 1.93, 82, 30-05-89, Brumov-Bylnice, SFC Opava
+19, Senad Lulić, BIH, M, 1.83, 76, 18-01-86, Jablanica, Young Boys
+20, Giuseppe Biava, ITA, D, 1.80, 73, 08-05-77, Seriate, Genoa
+21, Modibo Diakité, FRA, D, 1.92, 84, 02-03-87, Bourg-la-Reine, Pescara
+22, Federico Marchetti, ITA, G, 1.86, 76, 07-02-83, Bassano del Grappa, Cagliari
+23, Ogenyi Onazi, NGA, M, 1.70, 73, 25-12-92, Benue, My People FC
+24, Cristian Ledesma, ITA, M, 1.80, 70, 24-09-82, Buenos Aires, Lecce
+25, Antonio Rozzi, ITA, F, 1.80, 76, 28-05-94, Rome, None
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+27, Lorik Cana, ALB, M, 1.86, 86, 27-07-83, Pristina, Galatasaray
+28, Louis Saha, FRA, F, 1.84, 75, 08-08-78, Paris, Sunderland
+29, Abdoulay Konko, FRA, M, 1.82, 71, 09-03-84, Marseille, Genoa
+32, Cristian Brocchi, ITA, M, 1.71, 70, 30-01-76, Milan, Milan
+33, Marius Stankevičius, LTU, M, 1.89, 83, 15-07-81, Kaunas, Sampdoria
+38, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+39, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, None
+41, Gonzalo Barreto, URU, F, 1.74, 71, 22-01-92, Montevideo, Danubio
+43, Claudio Andreoli, ITA, D, , , 01-04-94, Rome, None
+44, Tiziano Scarfagna, ITA, G, 1.88, 82, 26-01-94, Rome, None
+46, Aurimas Vilkaitis, LTU, D, 1.90, 85, 11-02-93, Jonava, FBK Kaunas
+47, Fabrizio Bianchi, ITA, D, , , 20-07-95, , None
+48, Jader Carta, ITA, D, , , 01-02-95, , None
+49, Lorenzo Filippini, ITA, D, 1.83, 76, 28-07-95, Rome, None
+50, Cristiano Lombardi, ITA, F, 1.79, 73, 19-08-95, Viterbo, None
+51, Tommaso Mazzei, ITA, M, , , 02-01-95, Rome, None
+52, Lorenzo Pace, ITA, M, , , 10-03-95, , None
+53, Lorenzo Silvagni, ITA, F, , , 23-01-95, Frascati, None
+54, Franco Smacchia, ITA, G, , , 29-03-95, , None
+55, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, None
+56, Riccardo Serpieri, ITA, D, 1.83, 77, 15-02-94, Rome, None
+87, Antonio Candreva, ITA, M, 1.80, 72, 28-02-87, Rome, Udinese
+94, Miloš Antić, SRB, M, 1.85, 79, 28-10-94, Vranje, Grasshoppers
+95, Thomas Strakosha, ALB, G, 1.86, 78, 19-03-95, Kastriot, Panionios
+96, Mamadou Tounkara, SEN, F, 1.86, 80, 19-01-96, Blanes, Barcelona
+99, Sergio Floccari, ITA, F, 1.78, 74, 12-11-81, Vibo Valentia, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+50, Rocco Giordano, ITA, F, , , 07-02-95, , Fiorentina
+16, Alessandro Berardi, ITA, G, 1.73, 70, 16-01-91, Rome, Verona (On Loan)
+40, Salam Dené, BFA, F, 1.75, , 08-06-93, Ouagadougou, Salernitana
+30, Emiliano Alfaro, URU, F, 1.73, 69, 28-04-88, Montevideo, Al-Wasl (On Loan)
+42, Tommaso Barluzzi, ITA, D, , , 01-02-94, Rome, Arezzo
+9, Tommaso Rocchi, ITA, F, 1.77, 71, 19-09-77, Venice, Internazionale
+5, Lionel Scaloni, ARG, M, 1.82, 80, 16-05-78, Rosario, Atalanta
+84, Juan Pablo Carrizo, ARG, G, 1.87, 87, 06-05-84, Villa Constitución, Internazionale (On Loan)
+78, Luciano Zauri, ITA, M, 1.78, 75, 20-01-78, Pescina, Pescara

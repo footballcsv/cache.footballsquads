@@ -1,0 +1,53 @@
+=  Triestina - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Colombo, ITA, G, 1.90, 80, 24-08-75, Monza, Bologna
+3, Alessandro Longhi, ITA, D, 1.78, 70, 25-06-89, Desenzano, FeralpiSalò
+4, Riccardo Brosco, ITA, D, 1.90, 78, 03-02-91, Rome, Roma
+5, Giuseppe Scurto, ITA, D, 1.90, 75, 05-01-84, Alcamo, Treviso
+6, Francesco Dettori, ITA, M, 1.74, 66, 02-03-83, Sassari, Chievo Verona
+7, Davide Bariti, ITA, M, 1.73, 65, 07-07-91, La Spezia, Carrarese
+8, Attila Filkor, HUN, M, 1.81, 76, 12-07-88, Budapest, Milan
+9, Filippo Agomeri Antonelli, ITA, M, 1.70, 70, 13-07-78, Chieti, Bari
+10, Luigi Della Rocca, ITA, F, 1.85, 75, 02-09-84, Brindisi, Bologna
+11, Matías Miramontes, ARG, M, 1.75, 71, 27-12-81, Banfield, Cremonese
+13, Nii Nortey Ashong, GHA, D, 1.78, 69, 17-11-94, Accra, None
+14, Riccardo Gissi, ITA, M, 1.79, 75, 23-03-80, Barletta, Treviso
+15, Juri Cisotti, ITA, M, 1.75, 64, 05-05-93, Tolmezzo, None
+16, Fabrizio Pratolino, ITA, D, , , 06-04-94, Udine, None
+17, Lucas Longoni, ARG, M, 1.82, 73, 30-06-85, Esperanza, Arezzo
+18, Francesco Lunardini, ITA, M, 1.72, 67, 03-11-84, Cesena, Parma
+19, Urban Zibert, SVN, M, 1.81, 72, 08-05-92, Portorož, Portorož Piran
+20, Alberto Gerbo, ITA, M, 1.77, 73, 09-11-89, Valenza, Internazionale
+21, Emiliano Testini, ITA, M, 1.72, 68, 09-01-77, Perugia, Vicenza
+22, Ettore Marchi, ITA, F, 1.87, 82, 06-11-85, Gubbio, Portogruaro
+23, Sergio Viotti, ITA, G, 1.86, 78, 04-03-90, Brescia, Brescia
+24, Carlo De Micco, ITA, F, 1.80, 78, 19-02-90, Acerra, None
+25, Rocco D'Aiello, ITA, D, 1.70, 68, 28-06-86, Palermo, Gela
+27, Riccardo Taddei, ITA, F, 1.78, 70, 05-09-80, Vecchiano, Brescia
+28, Davide Grassi, ITA, D, 1.85, 76, 13-01-86, Montecchio, Sorrento
+30, Emanuele Busetto, ITA, F, , , 03-02-92, Venice, None
+31, Luca Cecchini, ITA, D, 1.78, 74, 10-04-93, San Daniele del Friuli, None
+32, Massimiliano Lionetti, ITA, F, , , 16-06-91, Trieste, None
+33, Federico Macor, ITA, G, , , 17-02-92, Palmanova, None
+35, Luca Villanovich, ITA, M, , , 06-03-91, Trieste, None
+36, Marco Franceschin, ITA, G, , , 13-07-94, Trieste, None
+37, Tomás Díaz Navarrete, CHI, D, 1.88, 82, 08-01-92, Santiago, Union St-Gilloise
+39, Andrea Ferrato, ITA, D, 1.93, , 12-04-92, Rome, None
+40, Emmanuel Abeam Danso, GHA, F, 1.70, 67, 10-03-93, Techiman, None
+50, Nicola Princivalli, ITA, M, 1.80, 75, 29-09-79, Trieste, Foggia
+77, Marco Malagò, ITA, D, 1.84, 79, 30-12-78, Venice, Chievo Verona
+88, Dario D'Ambrosio, ITA, D, 1.89, 80, 09-09-88, Naples, Chievo Verona
+90, Marcello Cottafava, ITA, D, 1.84, 77, 08-09-77, Genoa, Lecce
+91, Jefferson Trazzi, ITA, G, 1.85, 80, 30-03-91, Atalaia, Chievo Verona
+99, Denis Godeas, ITA, F, 1.88, 94, 27-07-75, Cormons, Mantova
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Robson, BRA, M, 1.72, 68, 18-07-81, São Paulo, Ravenna
+38, Chukwuemeka Ojiakor, GHA, M, 1.86, , 25-08-90, Lagos, Lazio
+19, Rocco Sabato, ITA, D, 1.84, 79, 19-04-82, Potenza, Sorrento
+2, Kelvin Matute, CMR, M, 1.85, 75, 10-10-88, Buea, Udinese
+16, Alessandro Gherardi, ITA, M, 1.74, 71, 12-03-88, Pontedera, 
+34, Conor McCormack, IRL, M, 1.78, 69, 09-04-90, Greenore, Shamrock R

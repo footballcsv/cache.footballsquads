@@ -1,0 +1,53 @@
+=  Athletico Paranaense - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Porto-PE
+2, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Fluminense
+3, Lucho González, ARG, M, 1.85, 75, 19-01-81, Capital Federal, River Plate
+5, Wellington, BRA, M, 1.73, 70, 28-01-91, São Paulo, São Paulo
+6, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Shakhtar Donetsk
+7, Fabinho, BRA, F, 1.80, 75, 18-11-99, São José dos Campos, São Paulo
+8, Geuvânio, BRA, F, 1.75, 62, 05-04-92, Ilha das Flores, Atlético Mineiro
+9, Walter, BRA, F, 1.76, 86, 22-07-89, Recife, FC Porto
+10, Jorginho, BRA, M, 1.80, 60, 05-01-91, Goiânia, Atlético Goianiense
+11, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Atlético Mineiro
+13, Khellven, BRA, D, 1.76, 73, 25-02-01, Alexandria, None
+14, Ravanelli, BRA, M, 1.81, 76, 29-08-97, Campinas, Akhmat Grozny
+15, Jaime Alvarado, COL, M, 1.81, 76, 26-07-99, Santa Marta, Watford
+16, Abner Vinicius, BRA, D, 1.81, 75, 27-05-00, Presidente Prudente, Ponte Preta
+17, Guilherme Bissoli, BRA, F, 1.75, 74, 09-01-98, Jaú, Fernando de la Mora
+18, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Santos
+20, Reinaldo, BRA, F, 1.77, 73, 06-06-01, Criciúma, Criciúma
+23, Felipe Aguilar, COL, D, 1.90, 82, 20-01-93, Medellín, Santos
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Corinthians
+26, Erick, BRA, M, 1.76, 64, 14-11-97, Nova Lima, PSTC
+27, José Ivaldo, BRA, D, 1.85, 78, 21-02-97, Maceió, None
+28, Vitinho, BRA, F, 1.80, 67, 01-04-99, São José dos Campos, None
+30, Luan Patrick, BRA, D, 1.90, 73, 20-01-02, Carazinho, None
+31, Iago, BRA, M, -, -, 28-01-02, -, None
+33, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, None
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Corinthians
+36, João Pedro, BRA, D, 1.84, 73, 14-03-03, Indaiatuba, None
+38, Vinicius Mingotti, BRA, F, 1.82, 76, 07-01-00, São Carlos, São Paulo
+40, João Victor, BRA, D, -, -, 06-04-02, Campinas, None
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+55, Fernando Canesin, BRA, M, 1.76, 68, 27-02-92, Ribeirão Preto, Oostende
+70, Bruno Leite, BRA, M, 1.80, 77, 07-04-00, Maceío, None
+77, Kawan, BRA, M, 1.80, 73, 06-03-02, Pinhais, None
+78, Julimar, BRA, F, 1.88, 87, 25-01-01, Nova Ipixuna, Criciúma
+79, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Cruzeiro
+80, Jajá, BRA, F, 1.80, 71, 15-04-01, Catanduva, Novorizontino
+88, Christian, BRA, M, 1.78, 67, 19-12-00, Curitiba, None
+91, Jádson, BRA, M, 1.68, 67, 05-10-83, Londrina, Corinthians
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Genoa
+96, Carlos Eduardo, BRA, F, 1.73, 68, 10-10-96, Nerópolis, Palmeiras
+99, Bento, BRA, G, 1.90, 87, 10-06-99, Curitiba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Pedrão, BRA, D, 1.94, 80, 03-05-97, São Paulo, Palmeiras
+10, Marquinhos Gabriel, BRA, M, 1.74, 69, 21-07-90, Selbach, Cruzeiro
+29, Pedrinho, BRA, F, 1.76, 64, 10-11-99, São Paulo, Oeste (On Loan)
+97, Léo Gomes, BRA, M, 1.81, 74, 30-04-97, Fortaleza, América Mineiro (On Loan)
+98, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, Náutico (On Loan)

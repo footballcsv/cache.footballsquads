@@ -1,0 +1,54 @@
+=  Panionios - Greek Super League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giannis Siderakis, GRE, G, 1.89, 81, 16-11-87, Athens, Thrasivoulos
+3, Konstantinos Klis, GRE, M, 1.75, 70, 06-06-94, Athens, None
+4, Kostas Samaropoulos, GRE, D, , , 24-01-91, , Aetos Skydra
+5, Anastasios Avlonitis, GRE, D, 1.90, 85, 01-01-90, Chalcis, Kavala
+6, Souleiman Akim Omolade, NGA, D, 1.85, 79, 15-12-85, Kwara, Ilisiakos
+7, Dimitris Drosos, GRE, F, 1.70, 65, 26-06-89, Thessaloniki, Kavala
+8, Vassilis Rovas, GRE, M, 1.78, 74, 06-01-84, Karditsa, OFI
+9, Njazi Kuqi, FIN, F, 1.92, 82, 25-03-83, Vushtrri, TPS Turku
+10, Kostas Mendrinos, GRE, M, 1.77, 74, 28-05-85, Athens, Panachaiki
+11, Efthimis Koulouheris, GRE, D, 1.80, 73, 10-03-81, Karditsa, Aris
+12, Alexandros Kouros, GRE, D, 1.84, 79, 22-08-93, Politsani, None
+13, Kosmas Gezos, GRE, D, 1.82, 77, 15-08-92, Athens, None
+14, Manolis Roussakis, GRE, D, 1.90, 80, 15-02-96, , None
+15, Chrisostomos Mihailidis, GRE, G, 1.90, 81, 15-01-75, Ptolemaida, Larissa
+16, Dimitris Kolovos, GRE, M, 1.82, 77, 27-04-93, Athens, None
+17, Vasilis Bouzas, GRE, M, 1.73, 66, 30-06-93, Athens, None
+18, Alexandros Smyrlis, GRE, F, 1.79, 73, 07-02-93, Patras, None
+19, Andreas Stamatis, GRE, F, 1.80, 69, 12-05-93, Lamia, None
+20, Fanouris Goundoulakis, GRE, M, 1.80, 80, 13-07-83, Loutraki, Kalamata
+22, Andreas Samaris, GRE, M, 1.89, 80, 13-06-89, Patras, Panahaiki
+23, Dimitris Siovas, GRE, M, 1.89, 84, 16-09-88, Athens, Ionikos
+24, Dimitris Anastasopoulos, GRE, M, 1.78, 74, 11-04-90, Athens, None
+25, Markos Dounis, GRE, F, 1.74, 70, 09-05-92, Athens, None
+26, Patrick Dimbala, BEL, F, 1.84, 80, 20-09-82, Kinshasa, Levadiakos
+27, Amiri Kurdi, GRE, M, 1.79, 70, 11-09-91, Riyadh, None
+29, Giorgos Vlachos, GRE, M, 1.88, 76, 21-08-91, Athens, None
+31, Dimitris Petkakis, GRE, M, 1.80, 77, 01-08-83, Thessaloniki, Kavala
+32, Dejan Milovanović, SRB, M, 1.80, 75, 21-01-84, Belgrade, Lens
+33, Kostas Stavrothanasopoulos, GRE, F, 1.74, 67, 06-02-92, Agrinio, None
+34, Krisztián Pogacsics, HUN, G, 1.83, 74, 17-10-85, Zalaegerszeg, Bihor Oradea
+39, Emmanuel Okoye, NGA, F, 1.81, 75, 05-04-91, Lagos, Vyzas
+40, André Schembri, MLT, F, 1.78, 77, 27-05-86, Pietà, Olympiakos Volos
+50, Jean-Jacques Pierre, HAI, D, 1.80, 79, 23-01-81, Leogane, Nantes
+55, Vitorino Antunes, POR, D, 1.75, 69, 01-04-87, Freamunde, Roma
+70, Araz Abdullayev, AZE, M, 1.80, 75, 18-04-92, Baku, Everton
+77, Jürgen Macho, AUT, G, 1.93, 88, 24-08-77, Vienna, LASK Linz
+84, Stathis Rokas, GRE, D, 1.80, 72, 18-09-84, Athens, Olympiakos Volos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Dimitrios Eleftheropoulos, GRE, G, 1.90, 83, 07-08-76, Athens, Retired
+14, Davor Kukec, CRO, M, 1.77, 67, 16-03-86, Zagreb, Baník Ostrava
+87, Leonidas Panagopoulos, GRE, G, 1.87, 83, 03-01-87, Zacharo, 
+4, Markus Jonsson, SWE, D, 1.86, 82, 09-03-81, Växjö, Brann
+30, Giannis Anestis, GRE, G, 1.97, 89, 09-03-91, Chalkida, Proodeftiki (On Loan)
+2, Dato Kvirkvelia, GEO, D, 1.84, 76, 27-06-80, Lanchkhuti, Anorthosis Famagusta
+26, Edin Cocalić, BIH, D, 1.89, 83, 05-12-87, Višegrad, Maccabi Haifa
+8, Sito Riera, ESP, F, 1.83, 75, 05-01-87, Manacor, Chornomorets Odessa
+15, Bennard Yao Kumordzi, GHA, M, 1.85, 72, 21-03-85, Accra, Dijon
+10, Fabián Estoyanoff, URU, M, 1.73, 67, 27-09-82, Montevideo, Peñarol

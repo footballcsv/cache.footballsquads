@@ -1,0 +1,54 @@
+=  Nottingham Forest - English Football League Championship 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Smith, ENG, G, 1.91, 89, 17-12-79, Epsom, Southampton
+2, Kelvin Wilson, ENG, D, 1.88, 77, 03-09-85, Nottingham, Preston NE
+3, Joel Lynch, ENG, D, 1.85, 81, 03-10-87, Eastbourne, Brighton & HA
+4, Luke Chambers, ENG, D, 1.85, 87, 29-08-85, Kettering, Northampton T
+5, Wes Morgan, ENG, D, 1.85, 94, 21-01-84, Nottingham, None
+6, Ian Breckin, ENG, D, 1.80, 73, 24-02-75, Rotherham, Wigan Ath
+7, James Perch, ENG, D, 1.80, 72, 28-09-85, Mansfield, None
+8, Lewis McGugan, ENG, M, 1.88, 73, 25-10-88, Long Eaton, None
+9, Nathan Tyson, ENG, F, 1.83, 64, 04-05-82, Reading, Wycombe W
+10, Robert Earnshaw, WAL, F, 1.73, 68, 06-04-81, Mulfulira, Derby Co
+11, Paul Anderson, ENG, M, 1.75, 65, 23-07-88, Leicester, Liverpool
+12, Garath McCleary, ENG, F, 1.88, 76, 15-05-87, Oxford, Bromley
+14, Arron Davies, WAL, M, 1.75, 70, 22-06-84, Cardiff, Yeovil T
+15, Chris Cohen, ENG, M, 1.78, 69, 05-03-87, Norwich, Yeovil T
+16, Joe Garner, ENG, F, 1.78, 76, 12-04-88, Blackburn, Carlisle U
+17, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Tottenham H
+18, Isaiah Osbourne, ENG, M, 1.88, 79, 15-11-87, Birmingham, Aston Villa
+19, Guy Moussi, FRA, M, 1.87, 82, 23-01-85, Bondy, Angers
+20, Iain Turner, SCO, G, 1.93, 70, 26-01-84, Stirling, Everton
+23, Dexter Blackstock, ENG, F, 1.85, 76, 20-05-86, Oxford, QPR
+24, Mark Byrne, IRL, M, 1.75, 70, 09-11-88, Crumlin, Crumlin U
+25, Richard Tait, SCO, D, 1.81, 76, 02-12-89, Galashiels, Curzon Ashton
+26, Matt Thornhill, ENG, M, 1.85, 87, 11-10-88, Nottingham, None
+27, Brendan Moloney, IRL, D, 1.86, 85, 18-01-89, Beaufort, None
+28, Emile Sinclair, ENG, F, 1.83, 72, 29-12-87, Leeds, None
+29, Julian Bennett, ENG, D, 1.85, 83, 17-12-84, Nottingham, Walsall
+30, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Aston Villa
+31, Paddy Gamble, ENG, G, 1.93, 69, 01-09-88, Bulwell, None
+32, Hamza Bencherif, ALG, D, 1.75, 78, 09-02-88, Paris, None
+33, Liam Hook, ENG, M, , , 20-09-89, Peterborough, None
+34, Nialle Rodney, ENG, F, 1.85, 75, 28-02-91, Nottingham, None
+35, Tom Sharpe, ENG, D, 1.88, 84, 13-10-88, Nottingham, None
+36, Joe Heath, ENG, D, 1.80, 75, 04-10-88, Birkenhead, None
+37, Adam Newbold, ENG, F, 1.83, 76, 16-11-89, Nottingham, None
+38, Mickael Darnet, FRA, F, , , 10-03-89, Cagnes-sur-Mer, Cannes
+40, Shane Redmond, IRL, G, 1.88, 81, 23-03-89, Rathcoole, Cherry Orchard
+41, James Reid, ENG, M, 1.78, 72, 28-02-90, Ashbourne, None
+42, Ryan Whitehurst, ENG, F, , , 06-09-89, Nuthall, None
+45, Aaron Mitchell, ENG, D, 1.78, 71, 05-02-90, Nottingham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Reece Staples, ENG, M, , , 10-11-89, Nottingham, Carlton T
+18, Andrew Cole, ENG, F, 1.75, 81, 15-10-71, Nottingham, Retired
+20, Carl Fletcher, WAL, M, 1.78, 73, 07-04-80, Camberley, Crystal Palace
+17, Lee Martin, ENG, M, 1.80, 80, 09-02-87, Taunton, Manchester U
+21, Lee Camp, ENG, G, 1.83, 75, 22-08-84, Derby, QPR
+39, Barry Richardson, ENG, G, 1.85, 77, 05-08-69, Wallsend, Retired
+30, Dale Roberts, ENG, G, 1.91, 73, 22-10-86, Horden, Rushden & Diamonds
+22, Gary McSheffrey, ENG, M, 1.73, 66, 13-08-82, Coventry, Birmingham C

@@ -1,0 +1,35 @@
+=  Necaxa - Mexican Liga MX 2017/2018 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Barovero, ARG, G, 1.83, 73, 18-02-84, Porteña, River Plate
+2, Brayan Beckeles, HON, D, 1.83, 80, 28-11-85, La Ceiba, Boavista
+3, Matías Fernández, CHI, M, 1.78, 72, 15-05-86, Merlo, Fiorentina
+4, Luis Omar Hernández, MEX, D, 1.83, 77, 08-11-85, Guadalajara, CS Herediano
+5, Igor Lichnovsky, CHI, D, 1.87, 74, 07-03-94, Santiago, FC Porto
+6, Luis Pérez, MEX, M, 1.75, 74, 15-03-89, Navojoa, None
+7, Daniel Álvarez, MEX, M, 1.76, 60, 22-07-94, Guadalajara, Atlas
+8, Xavier Báez, MEX, M, 1.70, 63, 22-07-87, Reynosa, Cruz Azul
+9, Martín Barragán, MEX, F, 1.79, 75, 14-07-91, Tizapán El Alto, Atlas
+10, Dieter Villalpando, MEX, M, 1.70, 68, 03-08-91, Mexico City, Pachuca
+12, Diego Hernández, MEX, D, 1.82, 75, 16-02-98, Guadalajara, None
+13, Roberto Alvarado, MEX, M, 1.72, 58, 07-09-98, Irapuato, Pachuca
+15, Víctor Dávila, CHI, M, 1.70, 65, 04-11-97, Iquique, Huachipato
+17, Miguel Ángel Ponce, MEX, D, 1.75, 77, 12-04-89, Sacramento, Guadalajara
+18, Felipe Gallegos, CHI, M, 1.75, 68, 03-12-91, Copiapó, Universidad de Chile
+19, Claudio Riaño, ARG, F, 1.79, 80, 16-08-88, Córdoba, Unión (Santa Fe)
+20, Bryan Colula, MEX, D, 1.76, 68, 06-04-96, Xalapa, América
+21, Aaron Fernández, MEX, G, 1.82, 64, 30-07-87, Mexico City, UANL Tigres
+24, Rubén González, MEX, M, 1.75, 71, 27-01-94, Mexico City, Guadalajara
+25, Yosgart Gutiérrez, MEX, G, 1.87, 75, 15-03-81, Ruiz Cortines, Cruz Azul
+26, Jairo González, MEX, D, 1.70, 75, 27-02-92, Guadalajara, Dorados de Sinaloa
+27, Othoniel Arce, MEX, F, 1.90, 75, 08-11-89, Tejupilco, Monterrey
+28, Gerson Torres, CRC, M, 1.75, 63, 28-08-97, San Francisco [CRC], CS Herediano
+29, Marcelo Allende, CHI, M, 1.68, 58, 07-04-99, Pudahuel, Deportes Santa Cruz
+31, Ventura Alvarado, USA, D, 1.81, 71, 16-08-92, Phoenix, Santos Laguna
+32, Carlos González, PAR, F, 1.82, 76, 04-02-93, Villarrica, Huachipato
+33, Mario de Luna, MEX, D, 1.79, 76, 05-01-88, Aguascalientes, Guadalajara
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Diego Riolfo, URU, M, 1.77, 75, 08-01-90, Montevideo, Godoy Cruz (Mendoza)

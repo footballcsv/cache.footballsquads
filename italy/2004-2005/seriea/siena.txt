@@ -1,0 +1,46 @@
+=  Siena - Italian Serie A 2004/05
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Manninger, G, 6'02", 13 03, 04-06-77, Salzburg, Brescia
+2, Davide Nicola, D, 5'10", 10 12, 05-03-73, Luserna San Giovanni, Ternana
+3, Gianluca Falsini, D, 5'09", 11 00, 02-10-75, Arezzo, Parma
+4, Michele Mignani, D, 5'11", 11 09, 30-04-72, Genoa, Castel di Sangro
+5, Bruno Cirillo, D, 6'01", 12 01, 21-03-77, Castellamare di Stabia, Lecce
+6, Simone Vergassola, M, 5'09", 11 00, 24-01-76, La Spezia, Torino
+7, Igor Tudor, D, 6'04", 14 02, 16-04-78, Spalato, Juventus
+8, Stefano Argilli, M, 6'00", 12 04, 05-01-73, Rimini, Rimini
+9, Tore Andre Flo, F, 6'04", 13 08, 15-06-73, Stryn, Sunderland
+10, Enrico Chiesa, F, 5'07", 11 00, 29-12-70, Genova, Lazio
+11, Alberto, M, 5'11", 12 00, 22-03-75, Oliveira, Udinese
+12, Simone Farelli, G, 6'01", 12 13, 19-02-83, Rome, Astrea
+13, Adriano Zancope', G, 6'04", 14 02, 09-11-71, Padua, Modena
+14, Marco Fortin, G, 6'03", 13 10, 08-07-74, Noale, Treviso
+15, Simone Bonomi, D, 5'10", 10 10, 08-11-80, Milan, Poggibonsi
+16, Alin Stoica, M, 5'09", 10 06, 10-12-79, Bucharest, Club Brugge
+18, Paolo Foglio, D, 5'10", 11 11, 08-09-75, Gazzaniga, Atalanta
+19, Daniele di Donato, M, 5'08", 10 03, 21-02-77, Giulianova, Palermo
+20, David Chiumiento, F, 5'08", 10 08, 22-11-84, Heiden, Juventus
+21, Rodrigo Taddei, M, 5'10", 10 12, 06-03-80, São Paulo, Palmeiras
+22, Andrea Ardito, M, 5'09", 09 11, 08-01-77, Viareggio, Bologna
+23, Roberto D'Aversa, M, 6'01", 11 11, 12-08-75, Stuttgart, Ternana
+29, Matteo Innocenti, M, , , 01-01-86, Florence, None
+30, Giovanni Pasquale, D, 6'00", 11 05, 05-01-82, Venaria, Internazionale
+31, Simone Marini, F, 5'09", 11 00, 31-10-81, Cagliari, Carrarese
+32, Massimo Maccarone, F, 6'00", 11 09, 06-09-79, Iuogo Galliate, Middlesbrough
+33, Francesco Colonnese, D, 5'10", 12 00, 10-08-71, Potenza, Lazio
+35, Francesco Cozza, M, 5'11", 11 03, 19-01-74, Cariati, Genoa
+39, Fabio Pecchia, M, 5'08", 11 00, 24-08-73, Formia, Bologna
+65, Gennaro Esposito, M, 5'11", 11 00, 18-03-85, Naples, Napoli
+79, Alfonso Camorani, M, 5'10", 11 09, 21-02-78, Cercola, Fiorentina
+86, Manuel Mugnai, M, , , 09-10-86, Poggibonsi, None
+87, Jacopo Piazzi, D, , , 16-02-87, Siena, None
+90, Daniele Portanova, D, 6'01", 12 04, 17-12-78, Rome, Napoli
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mattia Graffiedi, F, 5'11", 11 11, 26-05-80, Cesena, Milan
+16, Matteo Gianello, G, 6'02", 13 03, 07-05-76, Bovolone, 
+76, Marco Carparelli, F, 5'11", 12 01, 04-06-76, Finale Ligure, Genoa
+11, Fernando Menegazzo, M, 6'01", 12 11, 03-05-81, Anita Garibaldi, 
+26, Matteo Serafini, F, 6'02", 12 08, 21-04-78, Brescia, Catania (On Loan)

@@ -1,0 +1,44 @@
+=  Numancia - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.80, 78, 27-07-87, Calvià, Oviedo
+2, Alejandro Sanz, ESP, M, 1.76, 68, 05-06-93, Tudela, Real Sociedad B
+3, Ripa, ESP, D, 1.77, 73, 12-08-85, Épila, Elche
+6, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Llagostera
+7, Cristian Ganea, ROU, D, 1.76, 73, 24-05-92, Bistrița, Athletic Bilbao
+8, David Rodríguez, ESP, F, 1.78, 72, 14-02-86, Talavera de la Reina, Osasuna
+9, Higinio, ESP, F, 1.84, 74, 19-10-93, Calasparra, Valladolid B
+10, Dani Nieto, ESP, M, 1.73, 60, 04-05-91, Palma Nova, Xanthi
+11, Nacho, ESP, M, 1.77, 67, 11-02-93, Logroño, Numancia B
+12, Yaw Yeboah, GHA, M, 1.69, 63, 28-03-97, Accra, Manchester C
+13, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Bolton W
+14, Luis Valcarce, ESP, D, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+15, Alain Oyarzun, ESP, M, 1.82, 73, 27-09-93, San Sebastián, Zaragoza
+16, Carlos Gutiérrez, ESP, D, 1.92, 83, 04-11-91, Las Palmas, Las Palmas
+17, Unai Medina, ESP, D, 1.77, 78, 16-02-90, Bilbao, Alavés
+18, Pichu Atienza, ESP, D, 1.90, 85, 18-01-90, Córdoba, Reus
+19, Guillermo, ESP, F, 1.78, 71, 23-05-93, Bilbao, Elche
+20, Luís Gustavo, POR, M, 1.73, 70, 28-09-92, Braga, Reus
+21, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Villarreal B
+22, Markel Etxeberria, ESP, D, 1.76, 74, 15-02-95, Erandio, Athletic Bilbao B
+23, Fran Villalba, ESP, M, 1.68, 65, 11-05-98, Valencia, Valencia B
+24, Pape Maly Diamanka, SEN, M, 1.84, 76, 10-01-90, Dakar, Almería
+25, Borja Viguera, ESP, F, 1.84, 80, 26-03-87, Logroño, Sporting Gijón
+26, Álvaro Belizón, ESP, M, 1.78, 70, 14-05-96, San Fernando, Villarreal C
+27, Álvaro Mateo, ESP, D, 1.75, 67, 16-02-97, Portugalete, Basconia
+30, Gaizka Campos, ESP, G, 1.89, 80, 16-05-97, Barakaldo, Barakaldo
+31, Marcos Isla, ESP, D, 1.92, 78, 24-07-96, Valladolid, Cristo Atlético
+33, Juan Ignacio Pajín, ESP, D, , , , Palencia, Numancia B
+34, Moha Sanhaji, MAR, F, , , 15-04-99, Soria, Numancia B
+35, Taliby Konaté, ESP, G, 1.90, 85, 30-11-96, Almería, Teruel
+36, Raúl Vallejo, ESP, M, 1.76, 73, 30-11-95, León, Numancia B
+40, Roberto Jara, ESP, G, 1.93, 80, 10-09-98, Camargo, Numancia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Elche (On Loan)
+7, Alberto Noguera, ESP, M, 1.77, 72, 24-09-89, Madrid, Racing Santander (On Loan)
+4, Grego, ESP, M, 1.84, 74, 05-03-93, Murcia, UCAM Murcia
+8, Pablo Larrea, ESP, M, 1.75, 67, 04-02-94, Madrid, Ponferradina (On Loan)
+20, Jordi Sánchez, ESP, F, 1.89, 85, 11-11-94, Barcelona, Ibiza (On Loan)

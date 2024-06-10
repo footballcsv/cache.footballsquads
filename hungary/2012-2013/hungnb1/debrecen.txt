@@ -1,0 +1,56 @@
+=  Debrecen - Hungarian Nemzeti Bajnokság I 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vukašin Radomir Poleksić, MNE, G, 1.94, 92, 30-08-82, Nikšić, Tatabánya
+2, István Szűcs, HUN, D, 1.90, 73, 03-05-85, Debrecen, DSI
+4, Dajan Simac, GER, D, 1.90, 87, 04-01-82, Bingen, FSV Frankfurt
+5, Mátyás Gál, HUN, M, 1.85, 84, 18-03-92, Debrecen, DSI
+6, Luis Arcangel Ramos, HON, M, 1.78, 72, 11-04-85, San Pedro Sula, Kecskemét
+7, Tibor Dombi, HUN, M, 1.74, 73, 11-11-73, Püspökladány, Utrecht
+8, Selim Bouadla, FRA, M, 1.71, 67, 26-08-88, Rosny-sous-Bois, Le Havre
+11, János Ferenczi, HUN, M, 1.80, 65, 03-04-91, Debrecen, DSI
+12, Miklós Erdélyi, HUN, G, 1.93, 93, 30-03-81, Debrecen, Nyíregyháza
+14, Krisztián Kuti, HUN, D, 1.82, 71, 04-12-92, Debrecen, Debreceni Olasz Focisuli
+15, László Rezes, HUN, M, 1.73, 65, 12-08-87, Debrecen, Kecskemét
+17, Norbert Mészáros, HUN, D, 1.91, 85, 19-08-80, Pápa, Energie Cottbus
+18, Péter Máté, HUN, D, 1.95, 92, 02-12-84, Püspökladány, Debreceni Olasz Focisuli
+21, Bence Ludánszki, HUN, M, 1.84, 75, 25-10-90, Debrecen, DSI
+22, Csaba Bernáth, HUN, D, 1.77, 70, 26-03-79, Debrecen, Royal Antwerp
+23, Slimane Boudala, FRA, M, 1.72, 63, 03-05-91, Rosny-sous-Bois, Châteauroux
+26, Ibrahima Sidibé, SEN, F, 1.93, 78, 10-08-80, Nguidile, KVC Westerlo
+27, Ádám Bódi, HUN, M, 1.75, 65, 01-11-90, Nyíregyháza, DSI
+28, Zoltán Nagy, HUN, D, 1.87, 80, 25-10-85, Debrecen, DSI
+29, István Spitzmüller, HUN, M, 1.76, 72, 14-05-86, Debrecen, DSI
+30, Alex Engel, HUN, M, 1.78, 72, 11-08-92, Miskolc, None
+32, Csaba Tóth, HUN, G, 1.88, 70, 27-03-91, Debrecen, None
+37, Lucas Marcolini, BRA, M, 1.76, 70, 06-05-89, Cornélio Procópio, Atlético Paranaense
+39, Adamo Coulibaly, FRA, F, 1.87, 81, 14-08-81, Paris, Royal Antwerp
+45, Nenad Novaković, SRB, G, 1.93, 85, 17-07-82, Užice, FC Nordsjælland
+55, Péter Szakály, HUN, M, 1.82, 70, 17-08-86, Nagyatád, Kaposvár
+60, Péter Pölöskei, HUN, F, 1.88, 87, 11-08-88, Budapest, Ferencváros
+66, Márk Szécsi, HUN, F, 1.78, 73, 22-05-94, Eger, None
+69, Mihály Korhut, HUN, D, 1.81, 76, 01-12-88, Miskolc, Létavértes
+70, Tamás Kulcsár, HUN, F, 1.85, 73, 13-10-82, Debrecen, Polonia Warszawa
+77, Péter Czvitkovics, HUN, M, 1.78, 76, 10-02-83, Székesfehérvár, Kortrijk
+87, István Verpecz, HUN, G, 1.96, 87, 04-02-87, Szikszó, Diósgyőr
+89, Gergő Szécsi, HUN, G, 1.85, 83, 07-02-89, Eger, None
+90, Mamadou Wagué, FRA, M, 1.91, 82, 19-08-90, St Brieuc, Metz
+92, István Albert, HUN, D, 1.88, 86, 25-06-92, Debrecen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Gergő Oláh, HUN, D, 1.84, 73, 18-02-89, Gyula, Tatabánya (On Loan)
+30, Stevo Nikolić, BIH, F, 1.84, 76, 04-12-84, Šamac, Spartak Trnava (On Loan)
+19, Vinicius Galvão, BRA, F, 1.86, 70, 12-08-89, Porto Alegre, Csákvár (On Loan)
+14, Szabolcs Csorba, HUN, F, 1.80, 75, 24-10-91, Debrecen, Nyíregyháza
+77, Dávid Mohl, HUN, D, 1.79, 72, 28-04-85, Győr, Kecskemét
+8, Balázs Nikolov, HUN, M, 1.81, 71, 04-07-77, Bonyhád, Vasas
+99, Roguy Meyé, GAB, F, 1.77, 75, 07-10-86, Makokou, 
+16, Róbert Varga, HUN, D, 1.86, 78, 25-11-86, Győr, Kecskemét
+10, Balázs Farkas II, HUN, F, 1.76, 69, 24-04-88, Nyíregyháza, Győr
+53, Botond Birtalan, HUN, F, 1.83, 72, 08-04-89, Budapest, Kozármisleny
+33, József Varga, HUN, M, 1.75, 71, 06-06-88, Debrecen, Greuther Fürth (On Loan)
+24, Nenad Kiso, BIH, M, 1.82, 76, 30-04-89, Belgrade, Simurq
+20, Mbengono Ondoa Yannick, CMR, F, 1.67, 70, 11-06-87, Yaoundé, Kecskemét
+88, Selim Bouadla, FRA, M, 1.71, 67, 26-08-88, Rosny-sous-Bois, Re-Registered (8)

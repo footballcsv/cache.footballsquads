@@ -1,0 +1,55 @@
+=  Újpest - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Szabolcs Balajcza, HUN, G, 1.89, 86, 14-07-79, Kaposvár, Kaposvár
+2, Marcell Fodor, HUN, D, 1.83, 76, 27-10-87, Székesfehérvár, Debrecen
+3, Krisztián Vermes, HUN, D, 1.84, 79, 07-07-85, Budapest, None
+4, Szabolcs Üveges, HUN, D, 1.86, 83, 29-04-91, Miskolc, Parma
+5, Zoltán Kiss, HUN, D, 1.83, 73, 12-07-86, Budapest, None
+6, Dušan Vasiljević, SRB, M, 1.85, 80, 07-05-82, Belgrade, Videoton
+7, Krisztián Simon, HUN, M, 1.83, 72, 10-06-91, Budapest, None
+8, Péter Rajczi, HUN, F, 1.83, 77, 03-04-81, Lengyeltóti, Pisa
+9, Nikon El Maestro, ENG, M, 1.75, 71, 03-06-93, Belgrade, Wiener Neustadt
+10, Dávid Barczi, HUN, F, 1.87, 83, 01-02-89, Siófok, None
+11, Bertold Popovics, HUN, M, 1.80, 78, 21-06-91, Szeged, None
+13, Viktor Dombai, HUN, F, 1.84, 84, 28-01-90, Tatabánya, Tatabánya
+14, Mátyás Magos, HUN, M, 1.82, 75, 14-03-92, Budapest, None
+15, Nikolas Proesmans, BEL, M, 1.78, 68, 11-05-92, Tongeren, Sint-Truiden
+16, Bence Lázár, HUN, M, 1.81, 84, 21-03-91, Kecskemét, None
+17, István Bognár, HUN, M, 1.75, 72, 06-05-91, Liège, Vasas
+18, Darko Marković, MNE, M, 1.83, 77, 15-05-87, Podgorica, Mogren
+19, Balázs Balogh, HUN, M, 1.85, 77, 11-06-90, Budapest, Lecce
+20, Patrik Nagy, HUN, M, 1.75, 72, 16-02-91, Győr, Rapid Vienna
+21, Mohamed Remili, HUN, F, 1.80, 73, 31-05-85, Hussein Dey, Szolnok
+22, Péter Kabát, HUN, F, 1.82, 74, 25-09-77, Budapest, Debrecen
+23, Dávid Banai, HUN, G, 1.86, 81, 09-05-94, Budapest, None
+24, Zoltán Pollák, HUN, D, 1.79, 74, 13-01-84, Miskolc, MTK
+25, Gábor Dvorschák, HUN, D, 1.90, 82, 14-09-89, Budapest, None
+26, Zsolt Szokol, HUN, D, 1.86, 83, 16-03-90, Békéscsaba, Békéscsaba
+27, Dániel Kovács, HUN, M, 1.84, 74, 16-06-90, Békéscsaba, Békéscsaba
+28, Tamás Tajthy, HUN, M, 1.77, 68, 29-08-91, Miskolc, None
+29, Róbert Litauszki, HUN, D, 1.87, 80, 15-03-90, Budapest, None
+30, Balázs Zamostny, HUN, F, 1.89, 81, 31-01-92, Pécs, Pécs
+31, Bálint Tóth, HUN, M, 1.81, 75, 29-08-93, Budapest, BVSC
+32, Henri Eninful, TOG, M, 1.81, 77, 21-07-92, Lomé, Standard Liège
+33, Electo Wilson, HUN, M, 1.89, 78, 19-02-89, Budapest, Kecskemét
+34, Zoltán Lipták, HUN, D, 1.93, 87, 10-12-84, Budapest, Videoton
+35, Bojan Mihailović, BIH, D, 1.86, 84, 15-09-88, Foča, Drina Zvornik
+36, Tamás Horváth, HUN, G, 1.90, 78, 18-06-87, Balatonfüred, None
+38, János Nagy, HUN, D, 1.80, 78, 07-08-92, Budapest, None
+40, Tamás Floszmann, HUN, G, 1.87, 83, 08-02-88, Budapest, Pálhalma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Zoltán Böőr, HUN, M, 1.70, 65, 14-08-78, Debrecen, REAC
+2, Csaba Fehér, HUN, M, 1.80, 78, 02-09-75, Szekszard, 
+2, Ádám Privigyei, HUN, D, 1.85, 81, 08-06-89, Budapest, Újpest II
+2, Ferne Snoyl, NED, M, 1.77, 77, 08-03-85, Leidschendam, 
+21, Attila Széki, HUN, F, 1.88, 89, 31-08-89, Budapest, 
+32, Tamás Egerszegi, HUN, M, 1.85, 73, 02-08-91, Budapest, Siófok (On Loan)
+6, Zoltán Takács, HUN, D, 1.90, 78, 26-11-83, Budapest, Vasas (On Loan)
+9, Ádám Balajti, HUN, F, 1.87, 82, 07-03-91, Eger, Debrecen
+31, Bence Szabó, HUN, F, 1.90, 81, 10-01-90, Budapest, Vasas (On Loan)
+23, Antal Bozsó, HUN, G, 1.91, 85, 29-09-91, Budapest, Sopron
+15, Tamás Rubus, HUN, D, 1.86, 82, 13-07-89, Békéscsaba, Újpest II

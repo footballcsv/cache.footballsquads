@@ -1,0 +1,39 @@
+=  Lens - French Ligue 2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Didier Desprez, FRA, G, 1.89, 83, 13-09-99, Lille, None
+5, Zakaria Diallo, FRA, D, 1.95, 88, 13-08-86, Equemauville, Montreal Impact
+6, Manuel Pérez, FRA, M, 1.80, 71, 11-05-91, Grenoble, Clermont
+7, Florian Sotoca, FRA, F, 1.87, 79, 25-10-90, Narbonne, Grenoble
+9, Gaëtan Robail, FRA, F, 1.82, 73, 09-01-94, Saint-Pol-sur-Ternoise, Paris St-Germain
+11, Mouaad Madri, MAR, F, 1.77, 65, 09-04-90, Saint-Pol-sur-Mer, Ajaccio
+13, Clément Michelin, FRA, D, 1.78, 63, 11-05-97, Montauban, Toulouse
+14, Jules Keita, GUI, F, 1.68, 56, 20-07-98, Conakry, Dijon
+15, Steven Fortes, CPV, D, 1.92, 85, 17-04-92, Marseille, Toulouse
+16, Jean-Louis Leca, FRA, G, 1.77, 65, 21-09-85, Bastia, Ajaccio
+18, Yannick Cahuzac, FRA, M, 1.78, 66, 18-01-85, Ajaccio, Toulouse
+19, Charles Boli, FRA, M, 1.75, 65, 30-08-98, Dundee, None
+20, Cheick Traoré, FRA, D, 1.74, 76, 31-03-95, Paris, Guingamp
+21, Massadio Haïdara, MLI, D, 1.79, 75, 02-12-92, Trappes, Newcastle U
+22, Tony Mauricio, FRA, M, 1.69, 67, 22-03-94, Limoges, Valenciennes
+23, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, None
+24, Jonathan Gradit, FRA, D, 1.80, 77, 24-11-92, Talence, Caen
+25, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, Toulouse
+26, Aleksandar Radovanović, SRB, D, 1.89, 83, 11-11-93, Šabac, Vojvodina
+27, Guillaume Gillet, BEL, M, 1.86, 77, 09-03-85, Liège, Olympiakos
+28, Cheick Doucouré, MLI, M, 1.80, 73, 08-01-00, Bamako, JMG Academy
+29, Vitor Costa, BRA, D, 1.82, 75, 01-07-94, Valente, Inter de Lages
+30, Thomas Vincensini, FRA, G, 1.90, 73, 12-09-93, Bastia, Valenciennes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Souleymane Diarra, MLI, M, 1.73, 68, 30-01-95, , Gazişehir Gaziantep
+7, El-Hadji Ba, FRA, M, 1.83, 74, 05-03-93, Paris, Guingamp
+14, Arthur Yannick Gomis, SEN, F, 1.80, 76, 03-02-92, Dakar, Guingamp
+4, Saïf Tka, TUN, D, 1.84, 82, 10-04-91, Tunis, CS Chebba
+2, Jean-Kévin Duverne, FRA, D, 1.84, 71, 12-07-97, Paris, Brest
+25, Mounir Chouiar, FRA, F, 1.77, 75, 23-01-99, Liévin, Dijon
+19, Arial Mendy, SEN, D, 1.80, 75, 07-11-94, Ziguinchor, Orléans (On Loan)
+10, Walid Mesloub, ALG, M, 1.80, 69, 04-09-85, Trappes, Umm-Salal
+8, Benjamin Moukandjo, CMR, F, 1.79, 76, 12-11-88, Douala, Valenciennes

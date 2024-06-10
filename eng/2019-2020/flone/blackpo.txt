@@ -1,0 +1,50 @@
+=  Blackpool - English Football League One 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Howard, ENG, G, 1.83, 76, 21-09-86, Southwark, Bolton W
+2, Teddy Howe, ENG, D, 1.77, 69, 09-10-98, Oxford, Reading
+3, Marc Bola, ENG, D, 1.85, 78, 09-12-97, Greenwich, Middlesbrough
+4, Jordan Thorniley, ENG, D, 1.81, 64, 24-11-96, Warrington, Sheffield W
+5, Ryan Edwards, ENG, D, 1.80, 82, 07-10-93, Liverpool, Plymouth Arg
+6, Ben Heneghan, ENG, D, 1.91, 79, 19-09-93, Manchester, Sheffield U
+7, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Swindon T
+8, Jay Spearing, ENG, M, 1.68, 70, 25-11-88, Wirral, Bolton W
+10, Sullay Kaikai, ENG, F, 1.82, 73, 26-08-95, Southwark, NAC Breda
+11, Liam Feeney, ENG, M, 1.83, 76, 28-04-86, Hammersmith, Blackburn R
+14, Sean Scannell, IRL, M, 1.75, 73, 19-09-90, Croydon, Bradford C
+15, Kiernan Dewsbury-Hall, ENG, M, 1.77, 70, 06-09-98, Nottingham, Leicester C
+16, Ben Garrity, ENG, M, 1.83, 74, 21-02-97, Liverpool, Warrington T
+17, Matty Virtue, ENG, M, 1.75, 66, 02-05-97, Epsom, Liverpool
+20, Oliver Turton, ENG, D, 1.80, 75, 06-12-92, Manchester, Crewe Alex
+21, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Baroka
+23, Jak Alnwick, ENG, G, 1.88, 82, 17-06-93, Prudhoe, Rangers
+24, Joe Nuttall, ENG, F, 1.82, 72, 27-01-97, Bury, Blackburn R
+26, James Husband, ENG, D, 1.79, 65, 03-01-94, Leeds, Norwich C
+27, Grant Ward, ENG, M, 1.78, 73, 04-12-94, Lewisham, Ipswich T
+28, Jack Sims, ENG, G, 1.88, 73, 10-03-00, Southend-on-Sea, Southend U
+29, Calum MacDonald, SCO, D, 1.80, 60, 18-12-97, Nottingham, Derby Co
+30, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Cardiff C
+32, Chris Maxwell, WAL, G, 1.83, 73, 30-07-90, St Asaph, Preston NE
+33, Yusifu Ceesay, GAM, M, 1.88, 86, 21-03-95, Barcelona, Alvechurch
+34, Nathan Shaw, ENG, M, 1.80, 64, 22-11-00, Blackburn, None
+35, Ewan Bange, ENG, F, , , 15-12-01, Manchester, None
+36, Tony Weston, ENG, F, 1.70, 65, 17-09-03, Liverpool, None
+40, Connor Ronan, IRL, M, 1.73, 70, 06-03-98, Rochdale, Wolverhampton W
+42, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, Bristol C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Bradford C (On Loan)
+14, Harry Pritchard, ENG, M, 1.73, 68, 14-09-92, High Wycombe, Bradford C
+4, Rocky Bushiri, BEL, D, 1.87, 91, 30-11-99, Duffel, Norwich C
+9, Ryan Hardie, SCO, F, 1.77, 62, 17-05-97, Stranraer, Plymouth Arg (On Loan)
+37, Christoffer Mafoumbi, CGO, G, 1.96, 80, 03-03-94, Roubaix, Morecambe (On Loan)
+19, Adi Yussuf, TAN, F, 1.85, 76, 03-10-92, Zanzibar, Boreham Wood (On Loan)
+3, Nick Anderton, ENG, D, 1.88, 79, 22-04-96, Preston, Carlisle U
+12, Michael Nottingham, SKN, D, 1.93, 88, 14-04-89, Birmingham, Crewe Alex (On Loan)
+15, Jordan Thompson, NIR, M, 1.75, 65, 03-01-97, Belfast, Stoke C
+32, Rowan Roache, IRL, F, 1.78, 74, 09-02-00, , Bamber Bridge
+16, Curtis Tilt, ENG, D, 1.92, 75, 04-08-91, Walsall, Rotherham U
+18, Ben Tollitt, ENG, F, 1.82, 75, 30-11-94, Liverpool, Macclesfield T
+25, Callum Guy, ENG, M, 1.78, 64, 25-11-96, Nottingham, Carlisle U

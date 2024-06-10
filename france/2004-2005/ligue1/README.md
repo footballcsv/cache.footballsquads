@@ -1,0 +1,23 @@
+# French Ligue 1 2004/05
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Istres](istres.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)

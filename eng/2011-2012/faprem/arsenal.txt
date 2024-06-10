@@ -1,0 +1,69 @@
+=  Arsenal - English Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Almunia, ESP, G, 1.91, 86, 16-05-77, Pamplona, Celta Vigo
+2, Abou Diaby, FRA, M, 1.88, 75, 11-05-86, Paris, Auxerre
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Auxerre
+4, Per Mertesacker, GER, D, 1.98, 90, 29-09-84, Hannover, Werder Bremen
+5, Thomas Vermaelen, BEL, D, 1.82, 75, 14-11-85, Kapellen, Ajax
+6, Laurent Koscielny, FRA, D, 1.86, 75, 10-09-85, Tulle, Lorient
+7, Tomáš Rosický, CZE, M, 1.78, 67, 04-10-80, Prague, Borussia Dortmund
+8, Mikel Arteta, ESP, M, 1.75, 69, 26-03-82, San Sebastián, Everton
+9, Park Chu-Young, KOR, F, 1.82, 75, 10-07-85, Daegu, Monaco
+10, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Feyenoord
+11, André Santos, BRA, D, 1.79, 76, 08-03-83, São Paulo, Fenerbahçe
+13, Wojciech Szczęsny, POL, G, 1.95, 84, 18-04-90, Warsaw, Legia Warszawa
+14, Theo Walcott, ENG, F, 1.75, 68, 16-03-89, Stanmore, Southampton
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Southampton
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+17, Alexandre Song, CMR, M, 1.84, 76, 09-09-87, Douala, Bastia
+18, Sébastien Squillaci, FRA, D, 1.84, 76, 11-08-80, Toulon, Sevilla
+19, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, None
+20, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Etoile-Carouge
+21, Łukasz Fabiański, POL, G, 1.90, 84, 18-04-85, Kostrzyn nad Odrą, Legia Warszawa
+25, Carl Jenkinson, ENG, D, 1.85, 77, 08-02-92, Buckhurst Hill, Charlton Ath
+27, Kouassi Gervais "Gervinho" Yao, CIV, F, 1.79, 68, 27-05-87, Anyama, Lille
+28, Kieran Gibbs, ENG, D, 1.80, 70, 26-09-89, Lambeth, None
+29, Marouane Chamakh, MAR, F, 1.85, 70, 10-01-84, Tonnens, Bordeaux
+30, Yossi Benayoun, ISR, M, 1.78, 70, 05-05-80, Beersheba, Chelsea
+33, Benik Afobe, ENG, F, 1.79, 70, 12-02-93, Leyton, None
+35, Zak Ansah, ENG, F, 1.79, 70, 04-05-94, Sidcup, None
+38, George Brislen-Hall, ENG, D, 1.70, 65, 24-12-92, Harlow, None
+39, Francis Coquelin, FRA, M, 1.78, 73, 13-05-91, Laval, Laval
+40, Craig Eastmond, ENG, D, 1.83, 75, 09-12-90, Wandsworth, None
+43, Sead Hajrovic, SUI, D, 1.83, 80, 04-06-93, Brugg, Grasshoppers
+44, Conor Henderson, IRL, M, 1.85, 76, 08-09-91, Sidcup, None
+45, Gavin Hoyte, ENG, D, 1.80, 70, 06-06-90, Waltham Forest, None
+47, Sean McDermott, IRL, G, 1.83, 77, 30-05-93, Kristiansand, None
+48, Jernade Meade, ENG, M, 1.73, 74, 25-10-92, Luton, None
+49, Ignasi Miquel, ESP, D, 1.93, 85, 28-09-92, Barcelona, Cornellà
+51, Nigel Neita, ENG, F, 1.81, 75, 23-12-93, Southwark, Millwall
+53, Oğuzhan Özyakup, TUR, M, 1.78, 71, 23-09-92, Zaandam, AZ Alkmaar
+56, Nico Yennaris, ENG, D, 1.70, 65, 23-05-93, Leytonstone, None
+57, Martin Angha, SUI, D, 1.88, 81, 22-01-94, Zürich, Zürich
+58, Kyle Ebecilio, NED, M, 1.80, 77, 17-02-94, Rotterdam, Feyenoord
+59, Emiliano Martínez, ARG, G, 1.93, 85, 02-09-92, Mar del Plata, Independiente
+60, Elton Monteiro, SUI, D, 1.92, 85, 22-02-94, Sion, Sion
+61, Josh Rees, ENG, M, 1.75, 70, 04-10-93, Hemel Hempstead, None
+62, James Shea, ENG, G, 1.80, 76, 16-06-91, Islington, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Cesc Fàbregas, ESP, M, 1.77, 69, 04-05-87, Arenys de Mar, Barcelona
+11, Carlos Vela, MEX, F, 1.76, 72, 01-03-89, Cancún, Real Sociedad (On Loan)
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Manchester C
+30, Armand Traoré, SEN, D, 1.85, 82, 08-10-89, Paris, QPR
+46, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, West Ham U (On Loan)
+54, Gilles Sunu, FRA, F, 1.80, 70, 30-03-91, Châteauroux, Lorient
+52, Nicklas Bendtner, DEN, F, 1.92, 83, 16-01-88, Copenhagen, Sunderland (On Loan)
+26, Emmanuel Frimpong, GHA, M, 1.83, 83, 10-01-92, Accra, Wolverhampton W (On Loan)
+24, Vito Mannone, ITA, G, 1.94, 73, 02-03-88, Desio, Hull C (On Loan)
+41, Luke Freeman, ENG, F, 1.83, 64, 22-03-92, Dartford, Stevenage
+34, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Stevenage (On Loan)
+37, Daniel Boateng, ENG, D, 1.83, 78, 02-09-92, Enfield, Swindon T (On Loan)
+55, Sanchez Watt, ENG, M, 1.80, 76, 14-02-91, Hackney, Crawley T (On Loan)
+50, Rhys Murphy, IRL, F, 1.86, 76, 06-11-90, Shoreham-by-Sea, Preston NE (On Loan)
+31, Ryo Miyaichi, JPN, F, 1.83, 71, 14-12-92, Okazaki, Bolton W (On Loan)
+12, Thierry Henry, FRA, F, 1.88, 83, 17-08-77, Les Ulis, New York Red Bulls
+23, Andrey Arshavin, RUS, M, 1.72, 71, 29-05-81, St. Petersburg, Zenit St. Petersburg (On Loan)

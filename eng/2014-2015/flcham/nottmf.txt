@@ -1,0 +1,48 @@
+=  Nottingham Forest - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Karl Darlow, ENG, G, 1.85, 79, 08-10-90, Northampton, Newcastle U
+2, Eric Lichaj, USA, D, 1.80, 79, 17-11-88, Downers Grove, Aston Villa
+4, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, Hamburg
+5, Danny Collins, WAL, D, 1.83, 76, 06-08-80, Chester, Stoke C
+6, Kelvin Wilson, ENG, D, 1.88, 77, 03-09-85, Nottingham, Celtic
+7, Matthew Fryatt, ENG, F, 1.78, 70, 05-03-86, Nuneaton, Hull C
+8, Chris Cohen, ENG, M, 1.78, 69, 05-03-87, Norwich, Yeovil T
+9, Britt Assombalonga, COD, F, 1.77, 76, 06-12-92, Kinshasa, Peterborough U
+10, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Arsenal
+11, Andy Reid, IRL, M, 1.75, 70, 29-07-82, Dublin, Blackpool
+13, Danny Fox, SCO, D, 1.83, 79, 29-05-86, Winsford, Southampton
+14, Lars Veldwijk, NED, F, 1.96, 95, 21-08-91, Uithoorn, Excelsior
+15, Greg Halford, ENG, D, 1.95, 81, 08-12-84, Chelmsford, Portsmouth
+16, Jamaal Lascelles, ENG, D, 1.88, 83, 11-12-93, Derby, Newcastle U
+17, Todd Kane, ENG, D, 1.80, 70, 17-09-93, Huntingdon, Chelsea
+18, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, Wandsworth, Sheffield W
+21, Jamie Paterson, ENG, F, 1.75, 67, 20-12-91, Coventry, Walsall
+22, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+23, Dexter Blackstock, ATG, F, 1.85, 76, 20-05-86, Oxford, QPR
+24, David Vaughan, WAL, M, 1.70, 66, 18-02-83, Rhuddlan, Sunderland
+25, Jack Hobbs, ENG, D, 1.91, 84, 18-08-88, Portsmouth, Hull C
+26, Dimitar Evtimov, BUL, G, 1.90, 83, 07-09-93, Pleven, Chavdar Etropole
+27, Chris Burke, SCO, M, 1.75, 68, 02-12-83, Glasgow, Birmingham C
+29, Dorus de Vries, NED, G, 1.80, 76, 29-12-80, Beverwijk, Wolverhampton W
+30, Stephen McLaughlin, IRL, M, 1.78, 76, 14-06-90, Donegal, Derry C
+31, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, Arsenal
+32, Robert Tesche, GER, M, 1.80, 71, 27-05-87, Wismar, Hamburg
+33, Roger Riera, ESP, D, 1.86, 83, 17-02-95, El Masnou, Barcelona
+34, Tyler Walker, ENG, F, 1.79, 63, 07-10-96, Nottingham, None
+35, Oliver Burke, SCO, M, 1.74, 75, 07-04-97, Melton Mowbray, None
+36, Ross Durrant, ENG, G, 1.82, 75, 12-11-95, Nottingham, None
+37, Jorge Grant, ENG, M, 1.75, 73, 26-09-94, Oxford, None
+38, Ben Osborn, ENG, M, 1.76, 75, 05-08-94, Derby, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Jamie Mackie, SCO, F, 1.73, 71, 22-09-85, Dorking, Reading (On Loan)
+28, Radosław Majewski, POL, M, 1.70, 66, 15-12-86, Pruszków, Huddersfield T (On Loan)
+19, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Hull C
+17, Jack Hunt, ENG, D, 1.75, 71, 06-12-90, Leeds, Crystal Palace
+3, Daniel Harding, ENG, D, 1.83, 75, 23-12-83, Gloucester, Millwall (On Loan)
+20, Louis Laing, ENG, D, 1.81, 76, 06-03-93, Newcastle upon Tyne, Motherwell (On Loan)
+39, Djamel Abdoun, ALG, M, 1.80, 65, 14-02-86, Montreuil-sous-Bois, Lokeren (On Loan)
+19, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Swansea C

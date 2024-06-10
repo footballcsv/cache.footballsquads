@@ -1,0 +1,40 @@
+=  Feyenoord - Dutch Eredivisie 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kenneth Vermeer, NED, G, 1.82, 78, 10-01-86, Amsterdam, Ajax
+2, Rick Karsdorp, NED, D, 1.82, 80, 11-02-95, Schoonhoven, None
+3, Sven van Beek, NED, D, 1.88, 76, 28-07-94, Gouda, None
+4, Terence Kongolo, NED, D, 1.83, 70, 14-02-94, Rotterdam, None
+5, Marko Vejinović, NED, M, 1.86, 67, 03-02-90, Amsterdam, Vitesse
+6, Jan-Arie van der Heijden, NED, D, 1.82, 70, 03-03-88, Schoonhoven, Vitesse
+7, Dirk Kuyt, NED, F, 1.84, 77, 22-07-80, Katwijk, Fenerbahçe
+8, Karim El Ahmadi, MAR, M, 1.85, 78, 27-01-85, Enschede, Aston Villa
+9, Nicolai Jørgensen, DEN, F, 1.90, 83, 15-01-91, Fredericia, FC København
+10, Tonny Vilhena, NED, M, 1.75, 70, 03-01-95, Maassluis, None
+11, Eljero Elia, NED, F, 1.76, 70, 13-02-87, Voorburg, Werder Bremen
+14, Bilal Başacıkoğlu, NED, F, 1.79, 64, 26-03-95, Zaanstad, SC Heerenveen
+15, Lucas Woudenberg, NED, D, 1.79, 74, 25-04-94, Woerden, None
+18, Miquel Nelom, NED, D, 1.74, 69, 22-09-90, Rotterdam, Spijkernisse
+19, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, Watford
+20, Renato Tapia, PER, M, 1.85, 80, 28-07-95, Lima, FC Twente
+22, Justin Bijlow, NED, G, 1.86, 76, 22-01-98, Rotterdam, None
+25, Brad Jones, AUS, G, 1.91, 76, 19-03-82, Armadale, NEC Nijmegen
+26, Bart Nieuwkoop, NED, D, 1.80, 72, 07-03-96, Tholen, None
+27, Simon Gustafson, SWE, M, 1.85, 74, 20-01-95, Mölndal, BK Häcken
+28, Jens Toornstra, NED, M, 1.78, 74, 01-01-89, Ter Aar, FC Utrecht
+29, Michiel Kramer, NED, F, 1.95, 80, 03-12-88, Rotterdam, ADO Den Haag
+30, Pär Hansson, SWE, G, 1.85, 84, 22-06-86, Vejbystrand, Helsingborgs IF
+31, Wessel Dammers, NED, D, 1.85, 68, 01-03-95, Ouderkerk aan den IJssel, None
+32, Ramón ten Hove, NED, G, 1.93, 73, 03-03-98, , Excelsior
+33, Eric Fernando Botteghin, BRA, D, 1.93, 86, 31-08-87, São Paulo, FC Groningen
+34, Dylan Vente, NED, F, 1.81, 73, 09-05-99, , None
+36, Emil Hansson, NOR, M, 1.72, 64, 15-06-98, Bergen, Brann
+37, Rashaan Fernandes, NED, F, 1.79, 70, 29-08-98, Rotterdam, None
+38, Gustavo Hamer, NED, M, 1.69, 61, 24-06-97, Itajai, None
+39, Nigel Robertha, NED, F, 1.85, 77, 13-02-98, Dordrecht, None
+40, Mo El Hankouri, NED, M, 1.76, 63, 01-07-97, Rotterdam, Spartaan'20
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Warner Hahn, NED, G, 1.98, 96, 15-06-92, Rotterdam, Excelsior (On Loan)

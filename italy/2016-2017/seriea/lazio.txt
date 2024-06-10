@@ -1,0 +1,52 @@
+=  Lazio - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Strakosha, ALB, G, 1.86, 78, 19-03-95, Athens, Panionios
+2, Wesley Hoedt, NED, D, 1.88, 77, 06-03-94, Alkmaar, AZ Alkmaar
+3, Stefan de Vrij, NED, D, 1.88, 78, 05-02-92, Ouderkerk aan den IJssel, Feyenoord
+4, Patric, ESP, D, 1.84, 72, 17-04-93, Mula, Barcelona B
+6, Jordan Lukaku, BEL, D, 1.77, 86, 25-07-94, Antwerp, Oostende
+8, Dušan Basta, SRB, M, 1.83, 72, 18-08-84, Belgrade, Crvena Zvezda
+9, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Nantes
+10, Felipe Anderson, BRA, M, 1.75, 70, 15-04-93, Brasília, Santos
+11, Luca Crecco, ITA, M, 1.83, 77, 06-09-95, Rome, None
+13, Wallace, BRA, D, 1.91, 85, 14-10-94, Rio de Janeiro, Sporting Braga
+14, Balde Diao Keita, SEN, F, 1.84, 80, 08-03-95, Arbucias, Barcelona
+15, Bastos, ANG, D, 1.80, 77, 23-11-91, Luanda, FC Rostov
+16, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Parma
+17, Ciro Immobile, ITA, F, 1.85, 85, 20-02-90, Torre Annunziata, Sevilla
+18, Luis Alberto, ESP, M, 1.83, 74, 28-09-92, Jerez de la Frontera, Liverpool
+19, Senad Lulić, BIH, M, 1.83, 78, 18-01-86, Mostar, Young Boys
+20, Lucas Biglia, ARG, M, 1.78, 63, 30-01-86, Mercedes, Anderlecht
+21, Sergej Milinković-Savić, SRB, M, 1.91, 76, 27-02-95, Lleida, KRC Genk
+22, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, Cagliari
+25, Cristiano Lombardi, ITA, F, 1.80, 75, 19-08-95, Viterbo, None
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+31, Marius Adamonis, LTU, G, 1.88, 77, 13-05-97, Panevėžys, Atlantas Klaipėda
+37, Cassio Cardoselli, ITA, M, 1.78, 72, 26-07-98, Rome, None
+41, Luca Borrelli, ITA, G, 1.87, 87, 08-07-98, Rome, None
+43, Giorgio Spizzichino, ITA, D, , , 10-08-99, Rome, Tor Tre Teste
+55, Ivan Vargić, CRO, G, 1.92, 93, 15-03-87, Osijek, Rijeka
+71, Mamadou Tounkara, SEN, F, 1.84, 79, 19-01-96, Blanes, Barcelona
+80, Duje Javorčić, CRO, M, 1.83, 71, 25-11-99, Split, Split
+96, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, None
+97, Alessandro Rossi, ITA, F, 1.84, 72, 03-01-97, Rome, None
+98, Michael Folorunsho, ITA, M, 1.85, 75, 07-02-98, Rome, Savio
+99, Abukar Mohamed, FIN, M, 1.86, 80, 01-01-99, Mogadishu, TPS Turku
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+97, Luca Germoni, ITA, D, 1.75, 65, 01-09-97, Rome, Ternana (On Loan)
+33, Maurício, BRA, D, 1.85, 77, 20-09-88, São Paulo, Spartak Moscow (On Loan)
+34, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Lugo (On Loan)
+70, Chris Ikonomidis, AUS, M, 1.80, 80, 04-05-95, Sydney, Aarhus (On Loan)
+99, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Atalanta (On Loan)
+44, Franjo Prce, CRO, D, 1.83, 77, 07-01-96, Čapljina, Brescia (On Loan)
+5, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, Genoa (On Loan)
+27, Joseph Marie Minala, CMR, M, 1.84, 80, 24-08-96, Yaoundé, Salernitana (On Loan)
+7, Ricardo Kishna, NED, F, 1.83, 77, 04-01-95, Den Haag, Lille (On Loan)
+11, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, QPR (On Loan)
+23, Moritz Leitner, GER, M, 1.74, 65, 08-12-92, Munich, Aalborg
+28, Vinícius Freitas, BRA, D, 1.82, 78, 07-03-93, Rio de Janeiro, AEK
+84, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Nacional [URU]

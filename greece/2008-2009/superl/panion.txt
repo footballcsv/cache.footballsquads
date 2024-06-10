@@ -1,0 +1,52 @@
+=  Panionios - Greek Super League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dario Krešić, CRO, G, 1.95, 89, 11-01-84, Vukovar, Eintracht Trier
+2, Giannis Maniatis, GRE, D, 1.75, 68, 12-10-86, Livadia, Thiva
+4, Sekou Berthé, MLI, D, 1.93, 83, 07-10-77, Bamako, WBA
+5, Martin Latka, CZE, D, 1.92, 83, 28-09-84, České Budějovice, Slavia Prague
+6, Fousseni Diawara, MLI, D, 1.83, 71, 28-08-80, Paris, St-Etienne
+7, Manolis Skoufalis, GRE, M, 1.78, 75, 21-08-78, Athens, Kerkyra
+9, Álvaro Recoba, URU, M, 1.79, 79, 17-03-76, Montevideo, Internazionale
+10, Dimitris Koiliaras, GRE, M, 1.72, 70, 23-03-86, Heraklion, Ergotelis
+11, Anderson Gonzaga, BRA, F, 1.83, 75, 29-12-83, Porto Feliz, Blooming
+12, Kostas Andriolas, GRE, G, 1.92, 83, 01-05-85, Athens, Atromitos Athens
+13, Vangelis Koutsopoulos, GRE, D, 1.78, 75, 02-02-80, Karditsa, PAOK
+14, Grigoris Makos, GRE, M, 1.83, 74, 18-01-87, Athens, Ilioupoli
+15, Bennard Yao Kumordzi, GHA, M, 1.85, 72, 21-03-85, Accra, Egaleo
+16, Fabián Estoyanoff, URU, M, 1.73, 67, 27-09-82, Montevideo, Valencia
+18, Michael Delura, GER, M, 1.91, 86, 01-07-85, Gelsenkirchen, Schalke
+19, Ivica Majstorović, GER, D, 1.86, 79, 20-09-81, Munich, Unterhaching
+20, Fanouris Goundoulakis, GRE, M, 1.80, 80, 13-07-83, Loutraki, Kalamata
+21, Giorgos Barkoglou, GRE, M, 1.81, 78, 08-07-78, Athens, Apollon Kalamarias
+25, Giannis Kondoes, GRE, D, 1.81, 71, 24-05-86, Athens, Fostiras
+26, Alexandre D'Acol, BRA, F, 1.86, 75, 18-07-86, Ribeirão Preto, Kerkyra
+27, Matthias Langkamp, GER, D, 1.91, 88, 24-02-84, Speyer, Arminia Bielefeld
+28, Marios Nikolaou, CYP, M, 1.75, 73, 04-10-83, Limassol, Aris Limassol
+30, Tomáš Belic, SVK, G, 1.90, 84, 02-07-78, Trenčín, Teplice
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, Kerkyra
+34, Theodoros Santamouris, GRE, M, , , 14-03-89, , None
+35, Dimitris Anastasopoulos, GRE, M, 1.78, 74, 11-04-90, Athens, None
+36, Markos Fountoukidis, GRE, M, , , 10-03-90, , None
+37, Christos Maniatis, GRE, D, , , 06-05-91, , None
+40, Yann Ekra, FRA, F, 1.80, 70, 10-12-90, , Hull C
+41, Davor Kukec, CRO, M, 1.77, 67, 16-03-86, Zagreb, Inter Zaprešić
+44, Nikos Papavassiliou, GRE, D, , , 13-07-89, , None
+46, Neofytos Chrysotomou, GRE, , , , 11-09-89, , None
+50, Lourenço da Silva, ANG, F, 1.72, 72, 05-06-83, Luanda, Sporting CP
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ricardo Meili, SUI, G, 1.91, 83, 06-03-82, , 
+29, Dimitris Sialmas, GRE, F, 1.71, 66, 19-06-86, Athens, Ethnikos Piraeus (On Loan)
+8, Kostas Kapetanos, GRE, M, 1.76, 79, 27-10-84, Ptolemaida, Kerkyra
+17, Giannis Kondis, GRE, F, 1.81, , 04-01-89, , Apollon Kalamarias (On Loan)
+30, Spiros Gitsalis, GRE, D, 1.82, 77, 17-05-89, , Fostiras
+23, Dimitris Siovas, GRE, M, 1.89, 84, 16-09-88, Athens, Ionikos (On Loan)
+24, Thanassis Palaskas, GRE, F, 1.89, , 14-01-86, Elassona, Ilisiakos (On Loan)
+32, Pavel Plaskonny, BLR, D, 1.86, 73, 29-01-85, Minsk, 
+3, Mehmet Hetemaj, FIN, M, 1.85, 78, 08-12-87, Kosovo, Thrasivoulos (On Loan)
+5, Pavel Drsek, CZE, D, 1.91, 83, 22-09-76, Kladno, Kladno
+33, Giannoulis Fakinos, GRE, M, 1.75, 68, 09-07-89, , Ilioupoli
+79, Lampros Choutos, GRE, F, 1.77, 75, 07-12-79, Athens, PAOK

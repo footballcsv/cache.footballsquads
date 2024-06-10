@@ -1,0 +1,60 @@
+=  Livorno - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filippo Neri, ITA, G, 1.92, 76, 04-12-02, Pisa, None
+2, Andrew Delly Marie-Sainte, FRA, D, 1.85, 80, 20-08-98, Fort-de-France, Prato
+3, Alain Fremura, ITA, D, 1.84, 71, 12-06-01, Milan, None
+4, Matteo Di Gennaro, ITA, D, 1.92, 80, 02-06-94, Sant'Elpidio a Mare, Renate
+5, Alessandro Coppola, ITA, D, 2.02, 92, 13-03-00, Turin, Torino
+6, Matías Silvestre, ARG, D, 1.85, 84, 25-09-84, Capital Federal, Empoli
+7, Davide Marsura, ITA, F, 1.87, 78, 20-02-94, Valdobbiadene, Carpi
+8, Andrea Luci, ITA, M, 1.73, 66, 30-03-85, Piombino, Ascoli
+9, Sven Braken, NED, F, 1.87, 84, 12-06-93, Maastricht, NEC Nijmegen
+10, Adrian Stoian, ROU, F, 1.78, 66, 11-02-91, Craiova, FCSB
+11, Murilo Mendes, BRA, F, 1.80, 73, 08-03-95, Belo Horizonte, Olhanense
+12, Enrico Gatti, ITA, G, 1.95, 78, 08-03-02, Pontedera, None
+13, Hamza Haoudi, ITA, F, 1.76, 65, 09-03-01, Lucca, None
+14, Alessio Bani, ITA, D, 1.87, 76, 09-06-01, , None
+15, Enrico Delprato, ITA, M, 1.86, 76, 10-11-99, Grassobbio, Atalanta
+16, Gennaro Ruggiero, ITA, M, 1.79, 70, 04-02-00, Naples, Palermo
+17, Antonio Porcino, ITA, D, 1.75, 70, 30-05-95, Reggio Calabria, Catania
+18, Matteo Pallecchi, ITA, F, 1.85, 74, 09-02-00, Cecina, None
+19, Gabriele Morelli, ITA, D, 1.77, 71, 12-12-96, Livorno, None
+20, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Sassuolo
+21, Mattia Trovato, ITA, M, 1.75, 68, 27-01-98, Barcellona Pozzo di Gotto, Fiorentina
+22, Matteo Ricci, ITA, G, 1.95, 75, 04-02-94, Lucca, Massese
+23, Francesco Nunziatini, ITA, M, 1.84, 64, 15-03-03, Grosseto, None
+24, Fabio Mazzeo, ITA, F, 1.77, 77, 24-07-83, Salerno, Foggia
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Vicenza
+27, Franco Ferrari, ITA, F, 1.92, 93, 10-08-95, Rosario, Napoli
+28, Cristiano Petri, ITA, D, 1.86, 76, 08-05-01, Pisa, None
+29, Michele Rocca, ITA, M, 1.75, 72, 06-02-96, Milan, Sampdoria
+30, Leonardo Bellandi, ITA, M, 1.77, 68, 12-01-00, Livorno, None
+31, Robin Simović, SWE, F, 1.98, 89, 29-05-91, Malmö, Omiya Ardija
+32, Manuel Marras, ITA, F, 1.68, 63, 09-07-93, Genoa, Pescara
+33, Marcello Deverlan, BRA, D, 1.90, 79, 06-04-00, São Paulo, Corinthians
+34, Davide Agazzi, ITA, M, 1.73, 70, 02-06-93, Trescore Balneario, Atalanta
+35, Alessandro Plizzari, ITA, G, 1.87, 73, 12-03-00, Crema, Milan
+36, Lorenzo Pecchia, ITA, M, 1.79, 66, 24-02-02, Piombino, None
+37, Theophilus Awua, NGA, M, 1.76, 69, 24-04-98, Makurdi, Spezia
+38, Lukáš Zima, CZE, G, 1.96, 80, 09-01-94, Hradec Králové, Genoa
+40, Claudio Trotta, ITA, F, 1.85, , 28-11-01, Siena, Pianese
+41, Leon Cremonini, ITA, F, 1.80, 80, 08-11-02, Rimini, San Marino
+42, Matija Boben, SVK, D, 1.91, 83, 26-02-94, Ljubljana, FC Rostov
+43, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, SPAL
+44, Valerio Bernardini, ITA, F, 1.87, 71, 14-01-02, Tivoli, Rieti
+45, Arthur de Queiroz, BRA, F, , , 17-02-02, Maceió, São Bernardo
+46, Tiziano Irace, ITA, M, , , 10-01-02, Vasto, Bacigalupo Vasto Marina
+47, Moustapha Seck, ESP, D, 1.80, 72, 23-02-96, Dakar, Roma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Santo D'Angelo, ITA, M, 1.86, 78, 05-10-95, Palermo, Potenza (On Loan)
+31, Filip Raičević, MNE, F, 1.88, 80, 02-07-93, Podgorica, Śląsk Wrocław (On Loan)
+6, Andrea Gasbarro, ITA, D, 1.85, 77, 07-01-95, Pisa, Pordenone (On Loan)
+21, Lorenzo Gonnelli, ITA, D, 1.83, 72, 28-06-93, Livorno, Alessandria (On Loan)
+37, Agostino Rizzo, ITA, F, 1.82, 73, 24-03-99, Palermo, Avellino (On Loan)
+39, Viktor Agardius, SWE, D, 1.81, 78, 23-10-89, Kristianstad, Mjällby AIF
+23, Michel Morganella, SUI, D, 1.84, 78, 17-05-89, Sierre, 
+14, Luca Rizzo, ITA, M, 1.85, 77, 24-04-92, Genoa, Bologna

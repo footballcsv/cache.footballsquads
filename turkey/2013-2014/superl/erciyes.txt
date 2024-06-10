@@ -1,0 +1,47 @@
+=  Erciyesspor - Turkish Süper Lig 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Fazli Kocabaş, BEL, D, 1.85, 80, 01-01-90, Brussels, Eupen
+5, Kader Mangane, SEN, D, 1.93, 87, 23-03-83, Thiès, Al-Hilal [KSA]
+6, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Milan
+8, Senijad Ibričić, BIH, M, 1.80, 80, 26-09-85, Kotor Varoš, Lokomotiv Moscow
+9, Yasin Öztekin, TUR, M, 1.78, 64, 19-03-87, Dortmund, Trabzonspor
+10, Randall Azofeifa, CRC, M, 1.83, 79, 30-12-84, San José, Gençlerbirliği
+11, Turgay Bahadır, TUR, F, 1.90, 84, 15-01-84, Vienna, İstanbul BB
+12, Üstün Bilgi, TUR, F, 1.90, 80, 30-05-88, Bursa, Kızılcahamamspor
+14, Georges Mandjeck, CMR, M, 1.83, 72, 09-12-88, Douala, Auxerre
+15, Josef Cinar, GER, D, 1.94, 92, 22-04-84, Bremen, Chemnizter FC
+18, Bjorn Vleminckx, BEL, F, 1.83, 82, 01-12-85, Boom, Club Brugge
+19, Murat Yıldırım, TUR, M, 1.70, 68, 18-05-87, Çorum, Bursaspor
+20, Kerim Avcı, TUR, M, 1.76, 70, 16-12-89, Dortmund, RW Essen
+24, Numan Çürüksu, TUR, D, 1.87, 80, 02-12-84, Trabzon, Orduspor
+25, Pape Diakhaté, SEN, D, 1.85, 79, 21-06-84, Dakar, Granada
+28, Mehmet Akgün, GER, M, 1.79, 70, 06-08-86, Bielefeld, Beşiktaş
+29, Atilla Koca, TUR, G, 1.85, 81, 16-07-80, Torul, Sivasspor
+34, Ekrem Ekşioğlu, TUR, D, 1.84, 74, 16-01-78, Ankara, İstanbul BB
+35, Gökhan Değirmenci, TUR, G, 1.82, 79, 21-03-89, Karşıyaka, Kayserispor
+36, Edinho, POR, F, 1.85, 74, 07-07-82, Aveiro, Sporting Braga
+39, Yiğit Gökoğlan, TUR, M, 1.83, 75, 05-06-89, Konak, Galatasaray
+40, Cem Can, TUR, M, 1.79, 72, 01-04-81, Ankara, Gençlerbirliği
+42, Emre Öztürk, TUR, D, 1.79, 70, 26-08-92, Kayseri, None
+45, Yakup Zorlu, TUR, F, 1.75, 68, 26-03-91, Orleans, Giresunspor
+70, Bojan Jorgačević, SRB, G, 1.87, 86, 12-02-82, Belgrade, Club Brugge
+77, Hüseyin Kala, TUR, M, 1.84, 75, 05-05-87, Antakya, Kasımpaşa
+93, Yusuf Balcıoğlu, TUR, G, 1.78, 74, 01-01-93, Kocasinan, None
+99, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, Rizespor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Serkan Atak, TUR, F, 1.75, 70, 03-01-84, Kosching, Ankaraspor
+13, Uğur Demirkol, TUR, D, 1.73, 67, 16-01-90, Berlin, Şanlıurfaspor (On Loan)
+26, Emre Dönmez, TUR, M, 1.82, 80, 25-05-92, Brussels, Altay
+38, Bilal Kılıç, TUR, D, 1.78, 71, 17-09-94, Ağrı, Batman Petrolspor (On Loan)
+44, Erhan Güven, TUR, D, 1.83, 75, 15-05-82, Ankara, Ankaragücü
+55, Hansell Araúz, CRC, M, 1.80, 74, 09-08-89, Golfito, Deportivo Saprissa
+27, Volkan Okumak, TUR, F, 1.73, 67, 10-08-89, Kamen, Şanlıurfaspor (On Loan)
+88, Insa Sylla, SEN, M, 1.82, 76, 25-09-93, Adeane, Rabotnički Skopje
+23, Ferhat Çapa, TUR, M, 1.79, 60, 31-03-91, Antwerp, 
+17, Sinan Kaloğlu, TUR, F, 1.87, 81, 10-06-81, Ovacik, Mersin İdman Yurdu
+32, Murat Akın, TUR, M, 1.74, 70, 22-10-86, Sint-Niklaas, İstanbul BB
+92, Ziri Hammar, ALG, M, 1.80, 74, 25-07-92, Akbou, 

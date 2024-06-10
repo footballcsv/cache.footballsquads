@@ -1,0 +1,30 @@
+=  Toluca - Mexican Liga MX 2023/2024 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tiago Volpi, BRA, G, 1.89, 84, 19-12-90, Blumenau, São Paulo
+3, Jesús Piñuelas, MEX, D, 1.81, 80, 27-03-98, Los Cabos, Atlético San Luis
+4, Valber Huerta, CHI, D, 1.85, 77, 26-08-93, Melipilla, Universidad Católica
+5, Tomás Belmonte, ARG, M, 1.78, 69, 27-05-98, Lanús, Lanús
+7, Juan Domínguez, MEX, M, 1.76, 62, 30-10-98, Ecatepec de Morelos, Atlante
+8, Carlos Orrantia, MEX, M, 1.71, 59, 01-02-91, Mexico City, Santos Laguna
+9, Pedro Raúl, BRA, F, 1.92, 86, 05-11-96, Porto Alegre, Vasco da Gama
+10, Jesús Angulo, MEX, M, 1.72, 63, 20-02-97, Culiacán, León
+11, Maximiliano Araújo, URU, F, 1.79, 73, 15-02-00, Montevideo, Puebla
+12, Mauricio Isaís, MEX, D, 1.75, 70, 09-04-01, Brownwood, Pachuca
+14, Marcel Ruiz, MEX, M, 1.80, 68, 26-10-00, Mérida, Tijuana
+16, Jean Meneses, CHI, M, 1.63, 64, 16-03-93, Quillota, León
+17, Brian García, MEX, D, 1.68, 62, 31-10-97, León, Necaxa
+18, Fernando Navarro, MEX, D, 1.68, 64, 18-04-89, Mexico City, León
+19, Edgar López, MEX, F, 1.80, 68, 21-04-99, Tijuana, Tijuana
+22, Luis Manuel García, MEX, G, 1.83, 84, 31-12-92, Talpa de Allende, Querétaro
+23, Claudio Baeza, CHI, M, 1.71, 64, 23-12-93, Los Ángeles [CHI], Necaxa
+26, Andrés Mosquera, COL, D, 1.78, 75, 20-02-90, Turbo, León
+27, Adrián Mora, MEX, D, 1.90, 80, 15-08-97, Parral, UANL Tigres
+28, Juan Gamboa, MEX, M, 1.65, 60, 15-02-01, Mazatlán, None
+30, Jesús Venegas, MEX, M, 1.77, 68, 30-03-95, Colima, Atlante
+31, Robert Morales, PAR, F, 1.75, 70, 17-03-99, Concepción, Cerro Porteño
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Leonardo Fernández, URU, M, 1.66, 62, 08-11-98, Montevideo, Fluminense (On Loan)

@@ -1,0 +1,39 @@
+=  Estoril - Portuguese Primeira Liga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vagner, BRA, G, 1.85, 80, 06-06-86, Araruna, Desportivo Brasil
+2, Yohan Tavares, FRA, D, 1.88, 79, 02-03-88, Tours, Standard Liège
+3, Alex Kakuba, UGA, D, 1.77, 72, 21-06-91, Kampala, Sporting Covilhã
+4, Bruno Miguel, POR, D, 1.88, 84, 24-09-82, São João da Madeira, Astra Ploieşti
+5, Anderson Luis, BRA, D, 1.75, 71, 31-07-88, Mesópolis, Figueirense
+6, Afonso Taira, POR, M, 1.77, 67, 17-06-92, Cascais, Atlético CP
+7, Javier Balboa, EQG, M, 1.82, 74, 13-05-85, Madrid, Beira-Mar
+8, Filipe Gonçalves, POR, M, 1.85, 71, 12-08-84, Espinho, Moreirense
+11, Arthuro Bernhardt, BRA, F, 1.90, 82, 27-08-82, Florianapolis, União da Madeira
+12, Mano, POR, D, 1.68, 60, 09-04-87, Lisbon, Levadiakos
+13, Kléber, BRA, F, 1.87, 79, 02-05-90, Estância Velha, FC Porto
+15, Anderson Esitia, NGA, M, 1.89, 82, 24-05-94, Warri, Leixões
+16, Matías Cabrera, URU, M, 1.77, 69, 16-05-86, Montevideo, Cagliari
+17, Tijane Reis, POR, M, 1.81, 76, 28-06-91, Canchungo, Swindon T
+19, Sebá, BRA, F, 1.80, 73, 08-06-92, Salvador, Cruzeiro
+22, Emídio Rafael, POR, D, 1.82, 73, 24-01-86, Lisbon, Platanias
+25, Diogo Amado, POR, M, 1.77, 72, 21-01-90, Lagos [POR], Sheffield W
+26, Rúben Fernandes, POR, D, 1.86, 75, 06-05-86, Portimão, Portimonense
+27, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, Flamengo
+30, Bruno Nascimento, BRA, D, 1.88, 72, 30-05-91, Caçapava, Köln
+31, Paweł Kieszek, POL, G, 1.82, 82, 16-04-84, Warsaw, Vitória Setúbal
+37, Rúben, POR, G, 1.78, 72, 07-07-95, , None
+55, Babanco, CPV, M, 1.80, 74, 27-07-85, Praia, Olhanense
+70, Tozé, POR, M, 1.70, 67, 14-01-93, Forjães, FC Porto
+93, Fernandinho, BRA, F, 1.69, 64, 16-03-93, Limeira, Madureira
+94, Léo Bonatini, BRA, F, 1.85, 80, 28-03-94, Belo Horizonte, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Cagliari
+67, Diego Carlos, BRA, D, 1.84, 79, 15-03-93, Barra Bonita, FC Porto (On Loan)
+9, Bruno Lopes, BRA, F, 1.81, 75, 19-08-86, Curitiba, Ratchaburi
+20, Kuca, CPV, M, 1.81, 63, 02-08-89, Praia, Karabükspor
+32, Ricardo Vaz, POR, F, 1.72, 68, 26-11-94, Alcabideche, Reus
+18, Diogo Baltazar, POR, M, 1.82, 75, 15-04-95, Lisbon, Sintrense (On Loan)

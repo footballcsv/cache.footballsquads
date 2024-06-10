@@ -1,0 +1,51 @@
+=  Latina - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Iacobucci, ITA, G, 1.89, 82, 03-06-91, Pescara, Parma
+2, Federico Blandino, ITA, D, 1.79, 70, 30-07-95, Rome, Carpi
+3, Matteo Bruscagin, ITA, D, 1.82, 70, 03-08-89, Milan, Grosseto
+4, Marcello Cottafava, ITA, D, 1.84, 77, 08-09-77, Genoa, Gubbio
+5, Alessandro Bruno, ITA, M, 1.78, 70, 04-07-83, Benevento, Nocerina
+7, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Roma
+8, Marco Crimi, ITA, M, 1.77, 65, 17-03-90, Messina, Grosseto
+9, Jefferson, BRA, F, 1.89, 79, 06-01-88, Guarulhos, Fiorentina
+10, Alberto Gerbo, ITA, M, 1.77, 73, 09-11-89, Valenza, Gubbio
+11, Michele Paolucci, ITA, F, 1.84, 78, 06-02-86, Recanati, Siena
+12, Andrea Tozzo, ITA, G, 1.92, 85, 30-08-92, Riva del Garda, Sampdoria
+13, Stefan Ristovski, MKD, D, 1.81, 73, 12-02-92, Skopje, Parma
+15, Juri Cisotti, ITA, F, 1.75, 67, 05-05-93, Tolmezzo, Chievo Verona
+16, Andrea Milani, ITA, D, 1.66, 67, 09-12-80, Latina, Modena
+17, Fábio Nunes, POR, M, 1.76, 75, 24-07-92, Portimão, Blackburn R
+18, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Parma
+19, Masahudu Alhassan, GHA, M, 1.76, 65, 01-12-92, Tarkwa, Udinese
+20, Simone Addessi, ITA, F, 1.74, , 01-01-95, Fondi, None
+21, Karim Laribi, ITA, M, 1.75, 68, 20-04-91, Milan, Sassuolo
+23, Riccardo Brosco, ITA, D, 1.90, 78, 03-02-91, Rome, Parma
+24, Marco Baldan, ITA, D, 1.82, 75, 13-11-93, Cittadella, Nocerina
+25, Cosimo Chiricò, ITA, F, 1.69, 66, 05-10-91, Mesagne, Parma
+27, Andrea Esposito, ITA, D, 1.87, 78, 17-05-86, Galatina, Lecce
+28, Luca Ricciardi, ITA, M, 1.73, 67, 04-08-89, Gaeta, Gaeta
+29, Vincenzo Tomei, ITA, D, , , 01-07-95, Anzio, None
+30, Alberto Massacci, ITA, D, 1.86, 85, 27-05-93, Siena, Modena
+31, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Parma
+32, Giuseppe Figliomeni, ITA, D, 1.90, 82, 02-06-87, Reggio Calabria, Juve Stabia
+33, Jonathas, BRA, F, 1.91, 83, 06-03-89, Betim, Pescara
+34, Matteo Forzati, ITA, G, , , 23-07-95, Latina, None
+35, Federico Celli, ITA, D, 1.82, 75, 10-07-94, Latina, None
+36, Gianmarco Peressini, ITA, F, 1.71, 68, 23-12-94, Latina, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Salvatore Burrai, ITA, M, 1.77, 72, 26-05-87, Sassari, Modena
+11, Antonio Schetter, ITA, M, 1.73, , 23-06-82, Naples, Ischia Isolaverde
+30, Adriano Montalto, ITA, F, 1.85, 70, 06-04-88, Erice, Grosseto
+21, Roberto De Giosa, ITA, D, 1.84, 75, 12-08-81, Bari, Reggiana
+12, Wojciech Pawłowski, POL, G, 1.90, 80, 18-01-93, Koszalin, Udinese
+29, Maikol Negro, ITA, F, 1.70, 76, 28-02-88, Lecce, Benevento (On Loan)
+17, Gianluca Di Chiara, ITA, M, 1.87, 79, 12-01-93, Palermo, Palermo
+7, Dario Barraco, ITA, F, 1.79, 75, 23-09-85, Rome, Lecce
+14, Maximiliano Cejas, ARG, M, 1.70, 70, 07-02-80, Qualiano, Forlì
+6, Dario Maltese, ITA, M, 1.80, 76, 29-09-92, Palermo, L'Aquila (On Loan)
+22, Raffaele Ioime, ITA, G, 1.90, 83, 27-10-87, Naples, 
+26, Francesco Manni, ITA, D, , , 27-01-95, Sassuolo, Borgo Podgora (On Loan)

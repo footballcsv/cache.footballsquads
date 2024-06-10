@@ -1,0 +1,55 @@
+=  Avaí - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Frigeri, BRA, G, 1.94, 88, 15-06-89, Catanduva, São Caetano
+2, Alex Silva, BRA, D, 1.81, 74, 15-05-94, Minas Gerais, Atlético Mineiro
+3, Betão, BRA, D, 1.81, 78, 11-11-83, São Paulo, Évian TG
+4, Zé Marcos, BRA, D, 1.87, 74, 01-02-98, Americana, Crvena Zvezda
+5, Jonny Mosquera, COL, M, 1.71, 66, 17-02-91, Medellín, América de Cali
+6, Paulinho, BRA, D, 1.70, 67, 05-05-88, Ananindeua, Marcílio Dias
+7, Pedro Castro, BRA, M, 1.80, 77, 05-02-93, Volta Redonda, Tombense
+8, Matheus Barbosa, BRA, M, 1.84, 70, 18-08-94, São Bernardo, Tubarão
+9, Brenner, BRA, F, 1.82, 82, 01-03-94, Várzea Grande, Internacional
+10, Douglas, BRA, M, 1.75, 66, 18-02-82, Criciúma, Grêmio
+11, Igor Goularte, BRA, F, 1.85, 76, 08-07-96, Rio de Janeiro, Acreano
+13, Léo Lopes, BRA, G, 1.87, 86, 13-01-98, Campo Erê, None
+14, Ricardo, BRA, D, 1.84, 84, 29-12-92, Santo Augusto, São Luiz
+15, Gustavo, BRA, D, 1.89, 79, 18-11-97, São Paulo, None
+16, Luanderson, BRA, D, 1.87, 76, 07-06-89, Belém do São Francisco, Marcílio Dias
+17, Nuno, BRA, D, 1.87, 80, 18-05-98, Joinville, None
+18, Bruno Sávio, BRA, F, 1.81, 70, 01-08-94, Pará de Minas, Louletano
+19, João Paulo, BRA, M, 1.69, 67, 04-05-90, Guarabira, Tombense
+20, Gegê, BRA, M, 1.75, 70, 28-01-94, Mombaça, Adana Demirspor
+21, Luan Pereira, BRA, M, 1.80, 74, 21-04-00, Ariquemes, None
+22, Iury, BRA, D, 1.75, 68, 20-08-92, Goiânia, Atlético Cearense
+23, Igor, BRA, D, 1.83, 78, 06-06-92, São Paulo, ABC
+25, Cláudio Vitor, BRA, G, 1.88, 80, 13-07-00, Porto Velho, None
+26, Julinho, BRA, D, 1.84, 77, 05-08-86, São Paulo, Hokkaido Consadole Sapporo
+27, Richard Franco, PAR, M, 1.83, 83, 16-07-92, , Sol de América
+28, Daniel Amorim, BRA, F, 1.91, 83, 15-09-89, Rio de Janeiro, Tombense
+29, Matheus Matias, BRA, F, 1.87, 80, 26-06-98, Natal, Corinthians
+30, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Vasco da Gama
+31, Dudu, BRA, M, 1.83, 73, 31-03-98, São José do Cedro, None
+32, Léo, BRA, D, 1.71, 62, 03-10-91, Salvador, Flamengo
+33, Marquinhos, BRA, D, 1.94, 80, 21-10-82, São Paulo, Figueirense
+39, Jonathan, BRA, F, 1.73, 68, 28-04-99, Capão da Canoa, Internacional
+55, Marcinho, BRA, M, 1.82, 75, 22-05-99, Rio de Janeiro, None
+63, Eduardo Kunde, BRA, D, 1.87, 80, 17-09-97, Montenegro, None
+70, Caio Paulista, BRA, F, 1.84, 78, 11-05-98, São Paulo, Tombense
+75, Falcão, BRA, M, 1.83, 71, 14-04-98, Feira de Santana, None
+77, Gabriel Lima, BRA, M, 1.73, 65, 27-10-96, Bonito, Remo
+83, Glédson, BRA, G, 1.92, 88, 06-02-83, Almenara, América de Natal
+89, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, Santos
+96, Gustavo Ferrareis, BRA, M, 1.77, 69, 02-01-96, Bauru, Internacional
+97, Lourenço, BRA, F, 1.69, 65, 07-09-97, Belo Horizonte, None
+98, Wesley, BRA, M, 1.83, 75, 06-03-98, Mauá, None
+99, Matheus Lucas, BRA, F, 1.83, 73, 08-08-98, Rio de Janeiro, Figueirense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Jones, BRA, F, 1.77, 74, 14-10-88, Caratinga, 
+38, Jô, BRA, F, 1.90, 86, 21-02-99, Itabira, Oeste (On Loan)
+99, Getúlio, BRA, F, 1.87, 68, 10-06-97, Major Isidoro, Tombense
+11, Feliciano Brizuela, PAR, F, 1.75, 70, 17-07-96, Colonia Independencia, 3 de Febrero
+30, André Moritz, BRA, M, 1.87, 83, 06-08-86, Florianópolis, Londrina

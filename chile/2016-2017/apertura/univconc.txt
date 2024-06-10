@@ -1,0 +1,33 @@
+=  Universidad de Concepción - Chilean Primera División 2016/17 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Muñoz, ARG, G, 1.77, 79, 01-07-77, Junín, Huachipato
+2, Diego Soto, CHI, D, 1.69, 71, 22-10-98, Yumbel, None
+3, Waldo Ponce, CHI, D, 1.80, 69, 04-12-82, Los Andes, Universidad de Chile
+4, Alexis Machuca, ARG, D, 1.76, 81, 10-05-90, Rosario, Newell's Old Boys
+5, Francisco Alarcón, CHI, D, 1.89, 85, 25-02-90, Santiago, Palestino
+6, Alejandro Camargo, ARG, M, 1.75, 69, 12-06-89, Guaymallén, Curicó Unido
+7, Jean Meneses, CHI, M, 1.63, 64, 16-03-93, Quillota, San Luis de Quillota
+8, Giovanni Asken, CHI, M, 1.76, 71, 26-10-96, Lota, None
+9, Matías Conti, ARG, F, 1.82, 78, 17-01-90, Reconquista, Pahang
+10, Renato González, CHI, M, 1.67, 68, 19-02-90, Santiago, San Marcos de Arica
+11, Jorge Troncoso, CHI, M, 1.74, 74, 13-01-93, Santiago, Colo-Colo
+12, Daniel Castillo, CHI, G, 1.81, 78, 23-10-90, Concepción, None
+13, Felipe Muñoz, CHI, D, 1.76, 68, 04-04-85, Santiago, Cobreloa
+14, Guillermo Pacheco, CHI, D, 1.81, 76, 10-04-89, Quilpué, San Luis de Quillota
+15, Michael Lepe, CHI, M, 1.79, 76, 13-08-90, Concepción, None
+16, Héctor Berríos, CHI, M, 1.74, 67, 18-10-86, Santiago, Deportes Concepción
+17, Esteban Flores, CHI, D, 1.78, 82, 07-04-92, Concepción, None
+18, Renato Tarifeño, COL, F, 1.70, 65, 06-09-96, Coquimbo, Coquimbo Unido
+19, Ronald de la Fuente, CHI, M, 1.76, 71, 25-01-91, Talcahuano, Deportes Iberia
+20, Francisco Portillo, PAR, M, 1.77, 72, 24-07-87, Santiago [PAR], Deportes Puerto Montt
+21, Fernando Manríquez, CHI, M, 1.68, 71, 01-02-84, Santiago, Deportes Iquique
+22, Pablo Benítez, CHI, G, 1.76, 74, 11-12-96, Los Ángeles [CHI], None
+24, Jonathan Benítez, ARG, F, 1.78, 77, 04-09-91, Corrientes, Boca Unidos (Corrientes)
+25, Felipe Fritz, CHI, F, 1.68, 65, 23-09-97, Coronel, None
+28, Arnaldo Castillo, PAR, F, 1.86, 78, 09-05-97, Alto Paraná, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Gabriel Vargas, CHI, F, 1.82, 82, 08-12-83, Concepción, Patronato (Paraná)

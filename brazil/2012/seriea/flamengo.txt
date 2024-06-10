@@ -1,0 +1,59 @@
+=  Flamengo - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe, BRA, G, 1.90, 86, 22-02-84, Rio de Janeiro, Olé Brasil
+2, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Sporting Braga
+3, Welinton, BRA, D, 1.87, 83, 10-04-89, Rio de Janeiro, None
+4, Marcos González, CHI, D, 1.89, 85, 09-06-80, Rio de Janeiro, Universidad de Chile
+5, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Benfica
+6, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Corinthians
+7, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, Santos
+8, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, None
+9, Wellington Bruno, BRA, F, 1.74, 79, 25-04-86, Guarulhos, Coimbra
+10, Adriano, BRA, F, 1.89, 87, 17-02-82, Rio de Janeiro, Corinthians
+11, Renato, BRA, M, 1.83, 78, 09-06-78, São Paulo, Al-Shabab
+13, Claudio Maldonado, CHI, M, 1.74, 74, 03-01-80, Curió, Rentistas
+14, Víctor Cáceres, PAR, M, 1.82, 77, 25-03-85, Asunción, Libertad
+15, Muralha, BRA, M, 1.73, 68, 21-01-93, Rio de Janeiro, None
+16, Lucas, BRA, F, 1.84, 77, 03-01-92, Rio de Janeiro, None
+18, Darío Bottinelli, ARG, M, 1.68, 67, 26-02-86, Capital Federal, Atlas
+19, Negueba, BRA, F, 1.78, 70, 07-04-92, Rio de Janeiro, None
+20, Thomas, BRA, F, 1.79, 72, 24-02-93, Juiz de Fora, None
+21, Magal, BRA, D, 1.72, 68, 28-06-87, Lavras, Guaratinguetá
+22, Hernane, BRA, F, 1.83, 80, 04-08-86, Bom Jesus da Lapa, Mogi Mirim
+23, Camacho, BRA, M, 1.81, 73, 02-03-90, Rio de Janeiro, None
+25, Wellington Silva, BRA, D, 1.77, 88, 06-03-88, Rio de Janeiro, Resende
+26, Marllon, BRA, D, 1.81, 75, 16-04-92, Rio de Janeiro, Bangu
+27, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+28, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+29, Rodrigo Frauches, BRA, D, 1.85, 77, 28-09-92, São João de Meriti, None
+30, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, Porto-PE
+31, Liédson, POR, F, 1.75, 63, 17-12-77, Cairú, Corinthians
+32, Digão, BRA, D, 1.77, 78, 12-03-93, Rio de Janeiro, None
+33, Rômulo, BRA, M, 1.86, 78, 04-02-87, Caxias do Sul, None
+34, João Felipe, BRA, D, 1.82, 73, 11-03-92, Porto Alegre, None
+35, Marcelo Carné, BRA, G, 1.87, 84, 06-02-90, Rio de Janeiro, None
+36, Lorran, BRA, M, 1.82, 72, 10-01-93, Barra do Garças, None
+37, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, None
+38, Arthur, BRA, D, 1.88, 78, 28-03-88, Aperibé, Madureira
+39, Paulo Sérgio, BRA, F, 1.81, 71, 11-06-89, Rio de Janeiro, None
+40, Amaral, BRA, M, 1.74, 80, 01-05-88, Rio das Ostras, Nova Iguaçu
+42, Fernandinho, BRA, F, 1.69, 64, 16-03-93, Limeira, Atlético Sorocaba
+43, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, None
+45, Felipe Dias, BRA, D, 1.72, 70, 10-10-93, Rio de Janeiro, None
+83, Renato Santos, BRA, D, 1.87, 87, 30-01-87, São Bernardo do Campo, Avaí
+88, Cléber Santana, BRA, M, 1.87, 84, 27-06-81, Recife, São Paulo
+99, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, CSKA Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Júnior César, BRA, D, 1.66, 59, 09-04-82, Magé Suruí, Atlético Mineiro (On Loan)
+10, Ronaldinho, BRA, M, 1.82, 80, 21-03-80, Porto Alegre, Atlético Mineiro
+30, Kléberson, BRA, M, 1.75, 64, 19-06-79, Urai, Bahia
+31, Rodrigo Alvim, BRA, D, 1.82, 73, 25-11-83, Paraná, Joinville
+17, Diego Mauricio, BRA, F, 1.82, 77, 25-06-91, Rio de Janeiro, Alania Vladikavkaz
+42, Vítor Saba, BRA, M, 1.84, 73, 11-07-90, Rio de Janeiro, Brescia
+41, Jorge Luiz, BRA, M, 1.78, 70, 03-01-88, Rio de Janeiro, Friburguense
+9, Deivid, BRA, F, 1.80, 73, 22-10-79, Nova Iguaça, Coritiba
+44, Thiago Medeiros, BRA, D, 1.84, 78, 19-12-91, Rio de Janeiro, Madureira

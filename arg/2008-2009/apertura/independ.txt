@@ -1,0 +1,44 @@
+=  Independiente - Argentinian Primera División 2008 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabián Assmann, ARG, G, 1.88, 80, 23-03-86, Zárate, None
+2, Juan Francisco Caracoche, ARG, D, 1.78, 80, 26-01-88, Navarro, None
+3, Lucas Mareque, ARG, D, 1.68, 82, 12-01-83, Morón, FC Porto
+4, Ricardo Moreira, ARG, D, 1.78, 69, 23-02-83, Rosario, Rosario Central
+5, Mariano Andrés Herrón, ARG, M, 1.75, 73, 24-02-78, Capital Federal, Lleida
+6, Guillermo Rodríguez, URU, D, 1.84, 80, 21-03-84, Montevideo, Atlas
+7, Ismael Sosa, ARG, F, 1.79, 70, 18-01-87, San Martín, None
+8, Lucas Pusineri, ARG, M, 1.79, 74, 16-06-76, Capital Federal, River Plate
+9, Leonel Nuñez, ARG, F, 1.85, 75, 13-10-84, Capital Federal, Olympiakos
+10, Daniel Gastón Montenegro, ARG, F, 1.72, 76, 28-03-79, Capital Federal, River Plate
+11, Leonel Ríos, ARG, M, 1.78, 70, 17-11-82, Capital Federal, Vélez Sarsfield
+12, Adrián Gabbarini, ARG, G, 1.85, 78, 10-05-85, Guaymallén, None
+13, Angel Puertas, ARG, D, 1.75, 75, 23-01-80, Capital Federal, Huracán
+14, Federico Higuaín, ARG, F, 1.72, 72, 25-10-84, Villa Celina, Beşiktaş
+15, Hernán Fredes, ARG, M, 1.72, 70, 27-03-87, Avellaneda, None
+16, Adrián Calello, ARG, M, 1.77, 80, 14-05-87, Quilmes, None
+17, Dario Gandín, ARG, F, 1.79, 82, 07-12-83, Santa Fe, Colón (Santa Fe)
+18, Emanuel Centurión, ARG, M, 1.76, 75, 25-08-82, Lomas de Zamora, Atlas
+19, Freddy Grisales, COL, M, 1.79, 70, 22-09-75, Medellín, Colón (Santa Fe)
+20, Leandro Gioda, ARG, D, 1.92, 87, 01-10-84, Pérez, Lanús
+21, Nicolás Mazzola, ARG, F, 1.86, 81, 28-01-90, Viedma, None
+22, Damián Ledesma, ARG, D, 1.81, 79, 21-05-82, Rosario, Rosario Central
+23, Patricio Rodríguez, ARG, M, 1.70, 60, 04-05-90, Quilmes, None
+24, Leandro Depetris, ARG, F, 1.67, 69, 24-01-88, Rafaela, Brescia
+25, Emanuel Bocchino, ARG, D, 1.87, 78, 09-03-88, Bigand, None
+26, Mariano Viola, ARG, D, 1.75, 70, 15-05-87, San Nicolás, None
+27, José Cornaló, ARG, G, 1.82, 76, 03-01-90, Monte Caseros, None
+28, Cristián Ledesma, PAR, F, 1.78, 78, 10-02-87, Lambaré, Olimpia [PAR]
+29, Sergio Vittor, ARG, M, 1.89, 86, 09-06-89, Villa Elisa, None
+30, Diego Rodríguez, ARG, G, 1.84, 80, 25-06-89, Capital Federal, None
+31, Damián Luna, ARG, M, 1.71, 69, 21-02-85, Capital Federal, San Lorenzo
+32, Cristian Molina, ARG, D, , , 04-01-87, , None
+33, Matías Di Gregorio, ARG, D, 1.70, 72, 04-06-86, Avellaneda, None
+35, Federico Mancuello, ARG, M, 1.78, , 26-03-89, , None
+37, Diego Churín, ARG, F, 1.86, 80, 01-12-89, Arroyo Dulce, None
+38, Hilario Navarro, ARG, G, 1.92, 84, 14-11-80, Corrientes, Racing Club
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Carlos Matheu, ARG, D, 1.83, 81, 13-05-85, Quilmes, Cagliari

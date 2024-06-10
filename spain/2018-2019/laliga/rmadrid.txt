@@ -1,0 +1,47 @@
+=  Real Madrid - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Levante
+2, Daniel Carvajal, ESP, D, 1.73, 74, 11-01-92, Leganés, Bayer Leverkusen
+3, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Zaragoza
+4, Sergio Ramos, ESP, D, 1.84, 82, 30-03-86, Camas, Sevilla
+5, Raphaël Varane, FRA, D, 1.91, 81, 25-04-93, Lille, Lens
+6, Nacho Fernández, ESP, D, 1.80, 76, 18-01-90, Madrid, Real Madrid B
+7, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Lyon
+8, Toni Kroos, GER, M, 1.83, 76, 04-01-90, Greifswald, Bayern Munich
+9, Karim Benzema, FRA, F, 1.85, 81, 19-12-87, Lyon, Lyon
+10, Luka Modrić, CRO, M, 1.72, 66, 09-09-85, Zadar, Tottenham H
+11, Gareth Bale, WAL, F, 1.85, 82, 16-07-89, Cardiff, Tottenham H
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Fluminense
+14, Casemiro, BRA, M, 1.85, 84, 23-02-92, São José dos Campos, São Paulo
+15, Federico Valverde, URU, M, 1.81, 76, 22-07-98, Montevideo, Peñarol
+17, Lucas Vázquez, ESP, F, 1.73, 71, 01-07-91, Curtis, Espanyol
+18, Marcos Llorente, ESP, M, 1.84, 73, 30-01-95, Madrid, Real Madrid B
+19, Álvaro Odriozola, ESP, D, 1.75, 66, 14-12-95, San Sebastián, Real Sociedad
+20, Marco Asensio, ESP, M, 1.82, 76, 21-01-96, Palma de Mallorca, Mallorca B
+21, Brahim Díaz, ESP, M, 1.70, 68, 03-08-99, Málaga, Manchester C
+22, Isco, ESP, M, 1.76, 79, 21-04-92, Benalmádena, Málaga
+23, Sergio Reguilón, ESP, D, 1.78, 68, 16-12-96, Madrid, Real Madrid B
+24, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Betis
+25, Thibaut Courtois, BEL, G, 1.99, 94, 11-05-92, Bree, Chelsea
+26, Adrián de la Fuente, ESP, D, 1.78, 75, 26-02-99, El Escorial, Real Madrid B
+27, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Tenerife B
+28, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, Flamengo
+30, Luca Zidane, FRA, G, 1.83, 78, 13-05-98, Marseille, Real Madrid B
+31, Javi Sánchez, ESP, D, 1.86, 71, 14-03-97, Getafe, Real Madrid B
+32, Sergio López, ESP, D, 1.79, 66, 08-04-99, Remscheid, Real Madrid B
+33, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Real Madrid B
+34, Franchu Feuillassier, ARG, M, 1.72, 68, 12-05-98, Mar del Plata, Real Madrid B
+35, Alberto, ESP, M, 1.66, 58, 09-07-99, Moratalla, Real Madrid B
+36, Álvaro Fidalgo, ESP, M, 1.76, 64, 09-04-97, Oviedo, Real Madrid B
+37, Fran García, ESP, D, 1.67, 61, 14-08-99, Bolaños de Calatrava, Real Madrid B
+38, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Rayo Majadahonda
+39, Jaume Grau, ESP, M, 1.82, 65, 05-05-97, Tavernes de la Valldigna, Real Madrid B
+40, Diego Altube, ESP, G, 1.88, 87, 22-02-00, Madrid, Real Madrid B
+41, Moha Ramos, ESP, G, 1.88, 88, 13-04-00, Santa Cruz de Tenerife, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Levante (On Loan)
+13, Francisco Casilla, ESP, G, 1.90, 86, 02-10-86, Alcover, Leeds U

@@ -1,0 +1,38 @@
+=  Argentinos Juniors - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Acosta, ARG, G, 1.89, 80, 19-10-01, Posadas, None
+2, Miguel Angel Torrén, ARG, D, 1.78, 73, 12-08-88, Villa Constitución, Cerro Porteño
+3, Luciano Sánchez, ARG, D, 1.69, 66, 25-01-94, Guaymallén, Independiente Rivadavia
+5, Federico Redondo, ARG, M, 1.88, 75, 18-01-03, Madrid, None
+6, Lucas Villalba, ARG, D, 1.77, 68, 19-08-94, Florencio Varela, Aldosivi (Mar del Plata)
+7, Javier Cabrera, URU, M, 1.68, 62, 18-03-92, Florida, Melbourne C
+8, Alan Rodríguez, URU, M, 1.71, 63, 25-01-00, Canelones, Boston River
+9, Gabriel Ávalos, PAR, F, 1.88, 91, 12-10-90, Edelira, Godoy Cruz (Mendoza)
+10, Gastón Verón, ARG, F, 1.83, 82, 23-04-01, Puerto Vilelas, None
+11, Thiago Nuss, ARG, F, 1.72, 68, 02-02-01, Cañuelas, Deportivo Español
+12, Juan José Cardozo, PAR, M, 1.84, 72, 24-02-04, Caaguzú, None
+13, Francisco González Metilli, ARG, M, 1.74, 70, 29-03-97, Tandil, Santamarina (Tandil)
+14, Matías Vera, ARG, M, 1.60, 65, 20-11-95, Merlo, Houston Dynamo
+15, Leonardo Heredia, ARG, M, 1.85, 79, 11-10-96, Capital Federal, Atlético Tucumán
+16, Rodrigo Cabral, ARG, M, 1.70, 69, 08-08-00, Mercedes, Huracán
+17, Franco Moyano, ARG, M, 1.71, 68, 13-09-97, Lobos, San Lorenzo
+18, Santiago Montiel, ARG, D, 1.66, 60, 22-11-00, Laferrere, None
+19, Facundo Ferreyra, ARG, F, 1.86, 83, 14-03-91, Lomas de Zamora, Tijuana
+20, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, Nueva Chicago
+21, Fabricio Domínguez, URU, M, 1.77, 69, 24-06-98, Montevideo, Racing Club
+22, Lautaro Ovando, ARG, F, 1.72, 72, 10-02-03, San Martín, None
+23, Lucas Ambrogio, ARG, F, 1.81, 72, 28-04-97, Villa Mercedes, None
+24, Leonel González, ARG, D, 1.77, 70, 15-03-94, Concordia, Godoy Cruz (Mendoza)
+25, Alexis Martín Arias, ARG, G, 1.85, 80, 04-07-92, Pellegrini, O'Higgins
+26, José Maria Herrera, ARG, F, 1.72, 68, 16-04-03, San Miguel de Tucumán, None
+27, Mariano Bíttolo, ARG, D, 1.74, 65, 24-04-90, Morón, Newell's Old Boys
+28, Matías Perelló, ARG, F, 1.65, 63, 17-11-01, Puerto General San Martín, None
+29, Marco Di Césare, ARG, M, 1.86, 81, 30-01-02, Mendoza, None
+30, Pablo Minissale, ARG, D, 1.82, 79, 14-01-01, José C. Paz, None
+31, Lucas Alegre, ARG, G, 1.84, 79, 12-12-02, Ciudadela, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Kevin Mac Allister, ARG, D, 1.72, 72, 07-11-97, Capital Federal, Union St-Gilloise

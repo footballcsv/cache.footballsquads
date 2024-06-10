@@ -1,0 +1,65 @@
+=  FC Moscow - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ilya Gavrilov, BLR, G, 1.90, 82, 26-09-88, , Dinamo Minsk
+2, Vladimir Khozin, RUS, D, 1.83, 80, 03-07-89, Rostov-on-Don, FC Moscow-2
+3, Aleksandr Sheshukov, RUS, M, 1.81, 77, 15-04-83, Omsk, Luch-Energia
+4, Jean, BRA, D, 1.86, 78, 18-11-79, Feira de Santana, Corinthians
+5, Gia Grigalava, RUS, D, 1.90, 89, 05-08-89, Kutaisi, SKA Rostov-on-Don
+6, Branko Ilič, SVN, D, 1.88, 80, 06-02-83, Ljubljana, Betis
+7, Aleksandr Marenich, RUS, F, 1.78, 71, 29-04-89, Zernograd, FC Rostov
+8, Dmitriy Tarasov, RUS, M, 1.88, 73, 18-03-87, Tomsk, Tom
+10, Zvonimir Vukić, SRB, M, 1.82, 75, 19-07-79, Zrenjanin, Shakhtar Donetsk
+11, Aleksandr Stavpets, RUS, F, 1.80, 75, 04-07-89, Oryol, FC Moscow-2
+12, Valeriy Poliakov, RUS, G, 1.92, 80, 13-07-89, , FC Moscow-2
+13, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, Rubin Kazan
+14, Kirill Nababkin, RUS, D, 1.76, 71, 08-09-86, Moscow, FC Moscow-2
+15, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, Sheriff Tiraspol
+16, Anton Amelchenko, BLR, G, 1.92, 85, 27-03-85, Gomel, Gomel
+17, Pavel Golyshev, RUS, F, 1.76, 68, 07-07-87, Moscow, FC Moscow-2
+19, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, Lokomotiv Moscow
+20, Martin Jakubko, SVK, F, 1.94, 95, 26-02-80, Prešov, Saturn
+21, Artur Rilov, RUS, M, 1.75, 70, 12-04-89, , FC Moscow-2
+23, Isaac Okoronkwo, NGA, D, 1.82, 74, 01-05-78, Aba, Alania Vladikavkaz
+28, Branislav Krunić, BIH, M, 1.87, 80, 28-01-79, Skopje, Tom
+29, Igor Strelkov, RUS, F, 1.82, 76, 21-03-82, Samara, Tom
+30, Yuriy Zhevnov, BLR, G, 1.83, 78, 17-04-81, Dobrush, BATE
+31, Andrey Vasyanovich, RUS, D, 1.84, 80, 13-06-88, Volgograd, Krasnodar-2000
+32, Nikita Korolyov, RUS, D, 1.80, 76, 15-03-88, Moscow, FC Moscow-2
+33, Dacosta Goore, CIV, D, 1.87, 74, 31-12-84, , Luch-Energia
+34, Dmitriy Agaptsev, RUS, M, 1.78, 69, 29-11-91, , FC Moscow-2
+35, Sergey Sipatov, RUS, F, 1.80, 72, 08-02-93, , FC Moscow-2
+39, Aleksandr Eliseev, RUS, M, 1.82, 73, 15-11-91, , FC Moscow-2
+40, Sergey Shubin, RUS, D, 1.78, 74, 16-02-88, , FC Moscow-2
+41, Kirill Lapidus, RUS, M, 1.75, 69, 02-12-91, , FC Moscow-2
+42, Denis Poyarkov, RUS, M, 1.80, 76, 16-10-89, , FC Moscow-2
+43, Vitaliy Ustinov, RUS, D, 1.80, 70, 03-05-91, Moscow, FC Moscow-2
+46, Aleksey Kontsedalov, RUS, D, 1.85, 79, 24-07-90, Valuyki, FC Moscow-2
+47, Konstantin Belov, RUS, F, 1.76, 70, 04-01-90, , Amkar
+48, Sergey Maslov, RUS, F, 1.76, 72, 03-09-90, Moscow, FC Moscow-2
+49, Sergey Kharlamov, RUS, D, 1.81, 72, 24-01-91, , Spartak Moscow
+51, Vyacheslav Dmitriev, RUS, M, 1.80, 75, 28-05-90, , Torpedo Moscow
+52, Pavel Golanov, RUS, D, 1.92, 81, 13-06-89, , FC Moscow-2
+53, Aleksey Rogov, RUS, M, 1.81, 76, 08-05-91, , FC Moscow-2
+54, Marat Sadikov, RUS, M, 1.78, 75, 03-05-91, , FC Moscow-2
+55, Dmitriy Kutepov, RUS, M, 1.84, 72, 06-06-88, , FC Moscow-2
+56, Evgeniy Rudyakov, RUS, M, 1.80, 60, 29-06-92, , FC Moscow-2
+57, Nikita Alekseev, RUS, G, 1.82, 75, 12-03-90, , FC Moscow-2
+58, Dmitriy Ershov, RUS, G, 1.89, 78, 12-06-92, , FC Moscow-2
+59, Andrey Prigarin, RUS, D, 1.74, 67, 09-02-91, , FC Moscow-2
+60, Magomed Kurbanov, RUS, M, 1.79, 70, 16-08-89, , FC Moscow-2
+66, Aleksandr Kolomeytsev, RUS, M, 1.82, 78, 21-02-89, Surgut, Sportakademklub
+77, Yuriy Petrakov, RUS, M, 1.78, 71, 27-01-91, , CSKA Moscow
+88, Edgaras Česnauskis, LTU, M, 1.82, 77, 05-02-84, Kuršėnai, Saturn
+93, Aleksey Kukhtinov, RUS, F, 1.78, 61, 17-04-93, , Dynamo St Petersburg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Mariusz Jop, POL, D, 1.88, 81, 03-08-78, Ostrowiec Świętokrzyski, Wisła Kraków
+45, Pavel Esikov, RUS, F, 1.80, 72, 29-01-88, Moscow, Volgar-Gazprom-2 (On Loan)
+69, Héctor Bracamonte, ARG, F, 1.91, 82, 16-02-78, Rio Cuarto, Terek Grozny
+37, Igor Kuzmin, RUS, F, 1.89, 81, 13-01-89, , 
+38, Andrey Andrievskiy, RUS, F, 1.77, 64, 11-01-91, , Amkar
+44, Oleg Aleynik, RUS, M, 1.81, 73, 08-02-89, Gukovo, Metallurg Lipetsk (On Loan)
+36, Sergey Shudrov, RUS, M, 1.75, 71, 11-08-89, , SKA-Energia (On Loan)

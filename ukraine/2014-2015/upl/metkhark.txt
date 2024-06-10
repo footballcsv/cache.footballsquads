@@ -1,0 +1,63 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Denys Sydorenko, UKR, G, 1.85, 75, 18-04-89, Kharkiv, Helios Kharkiv
+2, Oleksiy Dovhyy, UKR, M, 1.86, 75, 02-11-89, Kyiv, Illichivets Mariupol
+3, Mykola Ishchenko, UKR, D, 1.82, 75, 09-03-83, Kyiv, Shakhtar Donetsk
+5, Kyrylo Kovalchuk, UKR, M, 1.85, 73, 11-06-86, Odessa, Chornomorets Odessa
+7, Serhiy Bolbat, UKR, F, 1.75, 66, 13-06-93, Volnovakha, Shakhtar Donetsk
+8, Edmar Aparecida, UKR, M, 1.77, 69, 16-06-80, Mogi das Cruzes, Tavriya Simferopol
+9, Ivan Bobko, UKR, M, 1.83, 70, 10-12-90, Odessa, Chornomorets Odessa
+10, David Caiado, POR, F, 1.84, 78, 02-05-87, Luxembourg, Vitória Guimarães
+11, Serhiy Barilko, UKR, M, 1.74, 68, 05-01-87, Kharkiv, ETM Kharkiv
+14, Volodymyr Homenyuk, UKR, F, 1.78, 73, 19-07-85, Simferopol, Arsenal Kyiv
+15, Dmytro Ryzhuk, UKR, D, 1.83, 76, 05-04-92, Kyiv, Dynamo Kyiv-2
+17, Serhiy Pshenychnykh, UKR, D, 1.82, 74, 09-11-81, Kharkiv, Karpaty Lviv
+19, Yevhen Selin, UKR, D, 1.85, 75, 09-05-88, Novoaydar, Dynamo Kyiv
+21, Artem Byesyedin, UKR, F, 1.85, 76, 31-03-96, Kharkiv, Dynamo Kyiv-2
+22, Denys Kulakov, UKR, M, 1.82, 76, 01-05-86, Donetsk, Dnipro Dnipropetrovsk
+23, Serhiy Pohorilyy, UKR, G, 1.90, 85, 28-07-86, Kyiv, Tavriya Simferopol
+25, Serhiy Davydov, UKR, F, 1.80, 70, 16-12-84, Eskhar, Helios Kharkiv
+28, Serhiy Nazarenko, UKR, M, 1.76, 69, 16-02-80, Kirovohrad, Chornomorets Odessa
+29, Oleksandr Horyainov, UKR, G, 1.88, 77, 29-06-75, Kharkiv, Kryvbas Kryvyi Rih
+30, Jurica Buljat, CRO, D, 1.88, 82, 19-09-86, Zadar, Zadar
+32, Oleh Krasnoperov, UKR, M, 1.73, 65, 25-07-80, Poltava, Vorskla Poltava
+36, Vladyslav Kraev, UKR, M, 1.66, 58, 05-02-95, , Metalist Kharkiv-2
+42, Yehor Chehurko, UKR, M, 1.75, 65, 27-01-95, Kharkiv, Metalist Kharkiv-2
+43, Yuriy Tkachuk, UKR, M, 1.75, 63, 18-04-95, Kharkiv, Metalist Kharkiv-2
+45, Oleksandr Osman, UKR, D, 1.69, 60, 18-04-96, Kharkiv, Metalist Kharkiv-2
+46, Artem Radchenko, UKR, F, 1.67, 58, 02-01-95, Kharkiv, Metalist Kharkiv-2
+47, Bohdan Boychuk, UKR, M, 1.70, 59, 30-05-96, Kherson, Metalist Kharkiv-2
+48, Ihor Kozynets, UKR, F, 1.92, 83, 29-05-95, , Metalist Kharkiv-2
+52, Dmytro Antonov, UKR, D, 1.79, 63, 28-08-96, , Metalist Kharkiv-2
+53, Serhiy Syzyy, UKR, M, 1.72, 68, 01-09-95, Kharkiv, Metalist Kharkiv-2
+54, Oleksiy Kovtun, UKR, D, 1.85, 76, 05-02-95, Kyiv, Metalist Kharkiv-2
+55, Daniil Solomakha, UKR, F, 1.80, 66, 12-06-96, , Metalist Kharkiv-2
+56, Maksym Averyanov, UKR, M, 1.73, 63, 22-07-97, Cherkasy, Metalist Kharkiv-2
+58, Ivan Zotko, UKR, D, 1.87, 83, 09-07-96, Chudniv, Metalist Kharkiv-2
+75, Artur Denchuk, UKR, G, 1.85, 76, 03-04-92, Kharkiv, Metalist Kharkiv-2
+80, Volodymyr Pryyomov, UKR, M, 1.83, 75, 02-01-86, Odessa, Metalurh Zaporizhya
+82, Pavlo Rebenok, UKR, M, 1.80, 70, 23-07-85, Ordzhonikidze, Vorskla Poltava
+86, Volodymyr Barilko, UKR, F, 1.85, 75, 29-01-94, Kharkiv, Metalist Kharkiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Sport Recife (On Loan)
+9, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Palmeiras
+20, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Shakhtar Donetsk
+23, Sebastián Blanco, ARG, M, 1.68, 64, 15-03-88, Lomas de Zamora, WBA
+11, José Ernesto Sosa, ARG, M, 1.82, 77, 19-06-85, Carcarañá, Beşiktaş (On Loan)
+15, Alejandro Gómez, ARG, M, 1.64, 60, 15-02-88, Capital Federal, Atalanta
+24, Ayila Yussuf, NGA, D, 1.82, 73, 04-11-84, Lagos, Dynamo Kyiv
+6, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Boca Juniors (On Loan)
+3, Cristian Villagra, ARG, D, 1.72, 72, 27-12-85, Morteros, Rosario Central
+10, Cleiton Xavier, BRA, M, 1.78, 72, 23-03-83, Alagoas, Palmeiras
+50, Jajá Coelho, BRA, F, 1.89, 79, 28-02-86, Ipatinga, Chongqing Lifan
+13, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, 
+19, Juan Manuel Torres, ARG, M, 1.73, 67, 20-06-85, Puerto Vilelas, 
+30, Papa Gueye, SEN, D, 1.92, 84, 07-06-84, Dakar, Dnipro Dnipropetrosk
+35, Bohdan Shust, UKR, G, 1.89, 83, 04-03-86, Sudovaya Vishnya, Volyn Lutsk
+81, Vladimir Dišljenković, UKR, G, 1.88, 84, 02-07-81, Belgrade, 
+4, Andriy Berezovchuk, UKR, D, 1.78, 71, 16-04-81, Kharkiv, Retired
+77, Vasyl Kobin, UKR, M, 1.78, 74, 24-05-85, Uzhgorod, Shakhtar Donetsk

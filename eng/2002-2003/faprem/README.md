@@ -1,0 +1,23 @@
+# English Premiership 2002/03
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Birmingham City](birmin.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Charlton Athletic](charlton.txt)
+- [Chelsea](chelsea.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Leeds United](leeds.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Southampton](southam.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [West Ham United](westham.txt)

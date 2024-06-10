@@ -1,0 +1,55 @@
+=  Coventry City - English Football League One 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Burge, ENG, G, 1.80, 70, 09-01-93, Hereford, None
+2, Jordan Willis, ENG, D, 1.80, 70, 24-08-94, Coventry, None
+3, Chris Stokes, ENG, D, 1.85, 83, 08-03-91, Trowbridge, Forest Green R
+4, Jordan Turnbull, ENG, D, 1.85, 72, 30-10-94, Trowbridge, Southampton
+5, Gaël Bigirimana, ENG, M, 1.73, 68, 22-10-93, Bujumbura, Newcastle U
+6, Andy Rose, ENG, M, 1.88, 77, 13-02-90, Melbourne, Seattle Sounders
+7, Nathan Clarke, ENG, D, 1.85, 81, 30-11-83, Halifax, Bradford C
+8, Rúben Lameiras, POR, M, 1.75, 70, 22-12-94, Lisbon, Tottenham H
+9, Charles Vernam, ENG, F, 1.70, 74, 08-10-96, Lincoln, Derby Co
+10, Jodi Jones, ENG, M, 1.77, 73, 22-10-97, Bow, Dagenham & Redbridge
+11, Kyel Reid, ENG, M, 1.80, 69, 26-11-87, Deptford, Preston NE
+12, Callum Reilly, IRL, M, 1.85, 76, 03-10-93, Warrington, Burton Alb
+13, Vladimir Gadzhev, BUL, M, 1.79, 76, 18-07-87, Pazardzhik, Levski Sofia
+14, Kwame Thomas, ENG, F, 1.78, 76, 28-09-95, Nottingham, Derby Co
+16, Stuart Beavon, ENG, F, 1.71, 69, 05-05-84, Reading, Burton Alb
+17, Michael Folivi, ENG, F, 1.80, 79, 25-02-98, Brent, Watford
+19, Farrend Rawson, ENG, D, 1.85, 73, 11-07-96, Nottingham, Derby Co
+20, Marcus Tudgay, ENG, F, 1.75, 73, 03-02-83, Worthing, Nottingham F
+21, Kevin Foley, IRL, D, 1.75, 70, 01-11-84, Luton, Charlton Ath
+22, Yakubu Aiyegbeni, NGA, F, 1.83, 83, 22-11-82, Benin City, Kayserispor
+23, Reice Charles-Cook, ENG, G, 1.85, 80, 08-04-94, Lewisham, Bury
+24, Ryan Haynes, ENG, D, 1.70, 68, 27-09-95, Northampton, None
+25, Jack Finch, ENG, M, 1.85, 77, 06-08-96, Southam, None
+27, George Thomas, WAL, F, 1.73, 76, 24-03-97, Leicester, None
+28, Devon Kelly-Evans, ENG, M, 1.77, 79, 21-09-96, Coventry, None
+29, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, None
+30, Dion Kelly-Evans, ENG, D, 1.77, 79, 21-09-96, Coventry, None
+31, Ben Stevenson, ENG, M, 1.83, 67, 23-03-97, Leicester, None
+32, Kyle Spence, SCO, M, 1.65, 71, 14-01-97, Croydon, None
+33, Bilal Sayoud, ENG, M, 1.79, 71, 05-05-97, Westminster, None
+34, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, Arsenal
+35, Callum Maycock, ENG, M, 1.82, 71, 23-12-97, Birmingham, Birmingham C
+36, Jordan Shipley, ENG, M, 1.83, 73, 26-09-97, Leamington Spa, None
+37, Jacob Whitmore, ENG, D, , , 06-05-98, , None
+38, Darragh Leahy, IRL, D, 1.85, 72, 15-04-98, Dublin, St Kevin's Boys
+39, Jak Hickman, ENG, M, 1.75, 70, 11-09-98, Sandwell, WBA
+40, Jordan Ponticelli, ENG, F, 1.80, 70, 10-09-98, Nuneaton, None
+41, Chris Camwell, ENG, D, 1.79, 71, 27-10-98, Bedworth, None
+42, Jordon Thompson, ENG, D, 1.88, 72, 08-04-99, Islington, QPR
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Sam Ricketts, WAL, D, 1.85, 77, 11-10-81, Aylesbury, Retired
+9, Daniel Agyei, ENG, F, 1.83, 77, 01-06-97, Kingston upon Thames, Burnley
+12, Chris McCann, IRL, M, 1.85, 75, 21-07-87, Meath, Atlanta U
+15, Lewis Page, ENG, D, 1.78, 72, 20-05-96, Enfield, West Ham U
+19, Jack McBean, USA, M, 1.83, 79, 15-12-94, Newport Beach, LA Galaxy
+21, Andre Wright, ENG, F, 1.83, 72, 07-12-96, Sandwell, WBA
+22, Jamie Sterry, ENG, D, 1.80, 70, 21-11-95, Newcastle upon Tyne, Newcastle U
+17, Marvin Sordell, ENG, F, 1.77, 79, 17-02-91, Brent, Burton Alb
+26, Ivor Lawton, ENG, M, 1.81, 76, 05-09-95, Coventry, 

@@ -1,0 +1,23 @@
+# French Ligue 2 2017/2018
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Auxerre](auxerre.txt)
+- [Bourg-en-Bresse Péronnas](bourg.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Gazélec Ajaccio](gazelec.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Lorient](lorient.txt)
+- [Nancy](nancy.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Orléans](orleans.txt)
+- [Paris FC](parisfc.txt)
+- [Quevilly-Rouen](quevilly.txt)
+- [Reims](reims.txt)
+- [Sochaux](sochaux.txt)
+- [Tours](tours.txt)
+- [Valenciennes](valenc.txt)

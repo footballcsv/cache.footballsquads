@@ -1,0 +1,44 @@
+=  Alanyaspor - Turkish Süper Lig 2017/2018
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Haydar Yılmaz, TUR, G, 1.87, 80, 19-01-84, Aydın, Kartalspor
+2, Isaac Sackey, GHA, M, 1.90, 88, 04-04-94, Berekum, Slovan Liberec
+3, Berkan Emir, TUR, D, 1.78, 73, 06-02-88, Kocaeli, Kayserispor
+4, Birol Parlak, TUR, D, 1.82, 79, 01-03-90, Rize, Kayserispor
+5, Filipe Augusto, BRA, M, 1.82, 77, 12-08-93, Bahia, Benfica
+7, Efecan Karaca, TUR, M, 1.66, 56, 16-11-89, Fatih, Kartalspor
+8, Giannis Maniatis, GRE, M, 1.75, 68, 12-10-86, Livadia, Atromitos
+9, Mbilla Etame, CMR, F, 1.80, 71, 22-06-88, Abengue, Antalyaspor
+10, Emre Akbaba, TUR, M, 1.80, 73, 04-10-92, Montfermeil, Antalyaspor
+12, Chisamba Lungu, ZAM, F, 1.78, 68, 31-01-91, Kafue, FC Ural
+14, Wanderson do Carmo, BRA, F, 1.80, 75, 18-02-86, Baturité, Dynamo Moscow
+15, Mamadou Fofana, MLI, D, 1.87, 72, 21-01-98, Bamako, Stade Malien
+16, Guy Michel Landel, GUI, M, 1.72, 70, 03-07-90, Conakry, Gençlerbirliği
+17, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, İstanbul Başakşehir
+18, Lucas Villafañez, ARG, M, 1.68, 62, 04-10-91, Comodoro Rivadavia, Panathinaikos
+20, Emre Nefiz, GER, M, 1.78, 68, 24-11-94, Frankfurt am Main, Gaziantepspor
+21, Fabrice N'Sakala, COD, D, 1.78, 69, 21-07-90, Le Blanc-Mesnil, Anderlecht
+22, Barış Başdaş, TUR, D, 1.88, 80, 17-01-90, Cologne, Karabükspor
+23, Welinton, BRA, D, 1.87, 83, 10-04-89, Rio de Janeiro, Al-Khor
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, PAOK
+55, Douglas, BRA, F, 1.84, 74, 30-12-87, Morros, Al-Ain
+69, Rémy Riou, FRA, G, 1.91, 81, 06-08-87, Lyon, Nantes
+78, Junior Fernándes, CHI, F, 1.81, 72, 04-10-88, Tocopilla, Dinamo Zagreb
+81, Hasan Emiroğlu, TUR, D, 1.78, 68, 29-06-97, Alanya, None
+83, Ümit Türker, TUR, M, 1.73, 69, 07-03-98, Alanya, None
+84, Rauf Öktem, TUR, M, 1.75, 70, 12-03-97, Alanya, None
+86, Ufuk Ceylan, TUR, G, 1.95, 90, 23-06-86, İzmir, İstanbul Başakşehir
+88, Taha Yalçıner, TUR, M, 1.78, 70, 12-01-87, İstanbul, Samsunspor
+89, Lamine Gassama, SEN, D, 1.81, 74, 20-10-89, Marseille, Lorient
+97, İsmail Ünal, TUR, G, 1.81, 73, 02-12-97, Alanya, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Reşo Akın, TUR, D, 1.75, 70, 01-10-96, Mardin, Zonguldak Kömürspor (On Loan)
+51, Tolga Tekin, TUR, D, 1.75, 68, 01-12-95, Bulanık, Erokspor (On Loan)
+11, Yusuf Çoban, GER, F, 1.81, 80, 14-10-96, Aalen, İstanbulspor (On Loan)
+85, Berat Şahiner, TUR, D, 1.75, 70, 12-11-97, Adapazarı, Kırıkhanspor (On Loan)
+99, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Beşiktaş
+13, Darko Lazić, SRB, D, 1.89, 80, 19-07-94, Smederevska Palanka, Denizlispor (On Loan)
+67, Alpay Koçaklı, TUR, M, 1.76, 80, 19-09-98, Zonguldak, Adanaspor

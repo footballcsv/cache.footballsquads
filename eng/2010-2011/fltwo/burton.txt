@@ -1,0 +1,42 @@
+=  Burton Albion - English Football League Two 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kevin Poole, ENG, G, 1.78, 75, 21-07-63, Bromsgrove, Derby Co
+2, Paul Boertien, ENG, D, 1.78, 71, 21-01-79, Haltwhistle, Walsall
+3, Aaron Webster, ENG, D, 1.88, 77, 19-12-80, Burton-on-Trent, None
+4, Nathan Stanton, ENG, D, 1.75, 79, 06-05-81, Nottingham, Rochdale
+5, Tony James, WAL, D, 1.91, 90, 09-10-78, Cardiff, Weymouth
+6, John McGrath, IRL, M, 1.78, 65, 27-03-80, Limerick, Tamworth
+7, Darren Moore, JAM, D, 1.88, 96, 22-04-74, Birmingham, Barnsley
+8, Andrew Corbett, ENG, M, 1.83, 72, 20-02-82, Worcester, Nuneaton Boro
+9, Simon Whaley, ENG, M, 1.77, 79, 07-06-85, Bolton, Doncaster R
+10, Richard Walker, ENG, F, 1.83, 78, 08-11-77, Birmingham, Bristol R
+11, Keith Gilroy, IRL, M, 1.78, 69, 08-07-83, Sligo, Darlington
+14, James Ellison, ENG, F, 1.78, 80, 25-10-91, Liverpool, Liverpool
+15, Ryan Austin, ENG, D, 1.91, 86, 15-11-84, Stoke, Crewe Alex
+16, Russell Penn, ENG, M, 1.80, 72, 08-11-85, Wordsley, Kidderminster H
+17, Jimmy Phillips, ENG, M, 1.68, 62, 20-09-89, Stoke-on-Trent, Stoke C
+18, Greg Pearson, ENG, F, 1.83, 70, 03-04-85, Birmingham, Bishop's Stortford
+19, Jacques Maghoma, COD, M, 1.78, 72, 23-10-87, Lubumbashi, Tottenham H
+20, Lewis Young, ENG, M, 1.75, 60, 27-09-89, Stevenage, Watford
+21, Garyn Preen, WAL, M, , , 25-10-91, Tredegar, Southampton
+22, Jack Dyer, ENG, M, 1.75, 70, 11-12-91, Sutton Coldfield, Aston Villa
+23, Adam Legzdins, ENG, G, 1.83, 78, 28-11-86, Stafford, Crewe Alex
+24, Kevin Grocott, ENG, D, 1.80, 78, 31-07-92, , Notts Co
+25, Tom Parkes, ENG, D, 1.91, 79, 15-01-92, Mansfield, Leicester C
+26, Adam Bolder, ENG, M, 1.75, 67, 25-10-80, Hull, Millwall
+27, Richard Jackson, ENG, D, 1.73, 69, 18-04-80, Whitby, Whitby T
+28, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Wolverhampton W
+29, Sam Winnall, ENG, F, 1.75, 72, 14-12-91, Wolverhampton, Wolverhampton W
+31, Bradley Munn, ENG, M, , , 28-06-93, Nottingham, Mansfield T
+32, Calvin Zola, COD, F, 1.91, 86, 31-12-84, Kinshasa, Crewe Alex
+33, Jack Green, ENG, D, , , 02-02-94, , Mansfield T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, James Collins, IRL, F, 1.88, 86, 01-12-90, Coventry, Aston Villa
+32, Bryan Hughes, ENG, M, 1.75, 71, 19-06-76, Liverpool, Grimsby T
+9, Shaun Harrad, ENG, F, 1.79, 78, 11-12-84, Nottingham, Northampton T
+30, Kyle Clancy, ENG, G, 1.83, 73, 16-11-89, Barking, Hyde U
+30, Nialle Rodney, ENG, F, 1.85, 75, 28-02-91, Nottingham, Nottingham F

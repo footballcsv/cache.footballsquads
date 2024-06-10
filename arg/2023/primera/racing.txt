@@ -1,0 +1,41 @@
+=  Racing Club - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Gabriel Rojas, ARG, D, 1.78, 68, 22-06-97, Almirante Brown, Quéretaro
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Juan Ignacio Nardoni, ARG, M, 1.69, 59, 14-07-02, Nelson, Unión (Santa Fe)
+6, Tomás Aviles, ARG, M, 1.86, 72, 03-02-04, Rio Gallegos, None
+7, Gabriel Hauche, ARG, F, 1.68, 71, 27-11-86, Remedios de Escalada, Aldosivi (Mar del Plata)
+8, Jonatan Galván, ARG, D, 1.77, 69, 25-06-92, Mar del Plata, Argentinos Juniors
+9, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, San Lorenzo
+10, Matías Rojas, PAR, M, 1.86, 72, 03-11-95, Asunción, Cerro Porteño
+11, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, Argentinos Juniors
+13, Matías Tagliamonte, ARG, G, 1.95, 88, 19-02-98, Rafaela, Atlético Rafaela
+15, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, PSV Eindhoven
+16, Óscar Opazo, CHI, D, 1.68, 68, 18-10-90, Concón, Colo-Colo
+17, Johan Carbonero, COL, M, 1.70, 75, 20-07-99, Santander de Quilichao, Gimnasia y Esgrima (LP)
+18, Edwin Cardona, COL, M, 1.86, 81, 08-12-92, Medellín, Tijuana
+19, Leonel Miranda, ARG, M, 1.70, 70, 07-01-94, Avellaneda, Defensa y Justicia
+20, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Rosario Central
+21, Gabriel Arias, CHI, G, 1.88, 80, 13-09-87, Neuquén, Defensa y Justicia
+22, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Avaí
+23, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, None
+24, Héctor Fértoli, ARG, F, 1.74, 63, 03-12-94, El Trébol, San Lorenzo
+27, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, New York C
+29, Aníbal Moreno, ARG, M, 1.77, 72, 13-05-99, San Fernando del Valle, Newell's Old Boys
+30, Leonardo Sigali, ARG, D, 1.84, 70, 29-05-87, Campana, Dinamo Zagreb
+31, Catriel Cabellos, PER, M, 1.72, 71, 18-08-04, Capital Federal, None
+33, Gonzalo Piovi, ARG, D, 1.74, 67, 08-09-94, Capital Federal, Argentinos Juniors
+34, Facundo Mura, ARG, D, 1.71, 74, 24-03-99, General Roca, Estudiantes (LP)
+35, Santiago Quirós, ARG, D, 1.79, 77, 04-03-03, Avellaneda, Boca Juniors
+37, Baltasar Luis Rodríguez, ARG, M, 1.73, 63, 09-07-03, Monte Hermoso, None
+39, Emiliano Saliadarre, ARG, F, 1.78, 67, 05-05-02, Rosario, None
+41, Ramiro Degregorio, ARG, F, 1.69, 66, 06-02-03, Avellaneda, None
+42, Roberto Leon, ARG, G, 1.85, 82, 08-08-01, Lomas de Zamora, Sacachispas
+48, Emiliano Insúa, ARG, D, 1.73, 82, 07-01-89, Capital Federal, Aldosivi (Mar del Plata)
+50, Román Fernández, ARG, F, 1.72, 72, 23-09-05, Dock Sud, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Juan José Cáceres, ARG, D, 1.73, 62, 01-06-00, Avellaneda, Lanús (On Loan)

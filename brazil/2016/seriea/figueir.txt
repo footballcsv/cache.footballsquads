@@ -1,0 +1,55 @@
+=  Figueirense - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Fernández, PAR, G, 1.91, 81, 29-03-88, Asunción, Vitória
+2, Leandro Silva, BRA, D, 1.81, 76, 22-09-88, Sorocaba, América Mineiro
+3, Marquinhos, BRA, D, 1.94, 80, 21-10-82, São Paulo, Comercial-SP
+4, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Grêmio
+5, Josa, BRA, M, 1.82, 76, 24-09-84, Matuipe, Água Santa
+6, Marquinhos Pedroso, BRA, D, 1.75, 73, 04-10-93, Tubarão, None
+7, Dodô, BRA, M, 1.71, 60, 05-09-94, Vespasiano, Atlético Mineiro
+8, Jocinei, BRA, M, 1.82, 87, 04-02-90, Rodeio, Coimbra
+9, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Atlético Mineiro
+10, Michael Ortega, COL, M, 1.70, 70, 06-04-91, Palmar de Varela, Londrina
+11, Rafael Silva, BRA, F, 1.76, 68, 08-10-90, Feira de Santana, Cruzeiro
+12, João Pedro, BRA, M, , , 28-03-96, , None
+13, Bruno Santos, BRA, D, 1.72, 70, 13-06-95, Jaraguá do Sul, None
+15, Jefferson, BRA, M, 1.81, 80, 22-01-94, Campinas, None
+16, Diego Torres, BRA, M, 1.79, 71, 02-03-86, Porto Alegre, Mogi Mirim
+17, Jackson, BRA, M, 1.77, 71, 21-01-87, Caucaia, Ituano
+20, Bady, BRA, M, 1.70, 65, 27-04-89, São José do Rio Preto, Atlético Paranaense
+21, Luan, BRA, M, 1.79, 76, 11-02-91, São Bento do Sul, None
+22, Elvis, BRA, M, 1.75, 73, 09-09-90, Janiópolis, Tombense
+23, Renato, BRA, M, 1.72, 68, 29-01-92, Caieiras, Palmeiras
+25, Alisson, BRA, G, 1.90, 87, 08-06-95, Santiago-RS, None
+27, Yago, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, None
+29, Gabriel Esteves, BRA, F, 1.70, 58, 07-02-95, São José do Rio Preto, Atlético Sorocaba
+30, Júnior Oliveira, BRA, G, 1.88, 77, 02-01-90, Cabo Frio, São José
+31, Pará, BRA, D, 1.67, 70, 23-08-95, Capanema, Cruzeiro
+32, Ayrton, BRA, D, 1.76, 73, 19-04-85, Piracicaba, Palmeiras
+42, Gustavo Ermel, BRA, F, 1.65, 64, 29-03-95, Novo Hamburgo, Juventude
+44, Henrique Trevisan, BRA, D, 1.80, 70, 20-01-97, Umuarama, None
+55, Dener, BRA, M, 1.79, 76, 12-04-95, Carapicuiba, None
+59, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, CRAC
+70, Ferrugem, BRA, D, 1.82, 67, 28-03-88, Pedro Canário, Ponte Preta
+73, Thiago Rodrigues, BRA, G, 1.90, 80, 20-10-88, São Paulo, Guarani de Palhoça
+76, Marlon, BRA, D, 1.89, 79, 05-05-93, Rio de Janeiro, Salgueiro
+79, Dudu, BRA, D, 1.75, 75, 30-05-97, Gama, None
+85, Elicarlos, BRA, M, 1.76, 72, 08-06-85, Laranjeiras, Náutico
+86, Éverton Santos, BRA, F, 1.76, 66, 14-10-86, São José dos Campos, Ulsan Hyundai
+88, Nirley, BRA, D, 1.86, 84, 09-04-88, Itaocara, Criciúma
+90, Lins, BRA, F, 1.72, 69, 11-09-87, Camaçari, Gamba Osaka
+93, Matheus, BRA, M, 1.65, 59, 18-10-97, Capivari de Baixo, None
+95, Guilherme Morassi, BRA, D, 1.74, 67, 08-01-95, São Bernardo do Campo, Rio Branco-SP
+96, Matheus Henrique, BRA, F, , , 12-03-96, , None
+98, Marcus Índio, BRA, F, 1.73, 70, 24-01-98, Rio de Janeiro, None
+99, Maurides, BRA, F, 1.87, 80, 10-03-94, Colombia, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Dudu, BRA, F, 1.88, 72, 21-04-90, Itanhanhém, Ventforet Kofu
+22, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Boa (On Loan)
+33, Jaime Papa, BRA, D, 1.83, 80, 26-02-90, Guarulhos, Joinville (On Loan)
+77, Guilherme Queiróz, BRA, F, 1.79, 75, 23-05-90, Novo Horizonte, Novorizontino
+19, Carlos Alberto, BRA, M, 1.77, 71, 11-12-84, Rio de Janeiro, 

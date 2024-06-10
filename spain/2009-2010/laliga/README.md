@@ -1,0 +1,23 @@
+# Spanish La Liga 2009/10
+
+20 teams
+- [Almería](almeria.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Racing Santander](racing.txt)
+- [Real Madrid](rmadrid.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Tenerife](tenerife.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)
+- [Xerez](xerez.txt)
+- [Zaragoza](zaragoza.txt)

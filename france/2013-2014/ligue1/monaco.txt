@@ -1,0 +1,42 @@
+=  Monaco - French Ligue 1 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danijel Subašić, CRO, G, 1.92, 84, 27-10-84, Zadar, Hajduk Split
+2, Fabinho, BRA, D, 1.87, 78, 23-10-93, Campinas, Rio Ave
+3, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, None
+5, Aymen Abdennour, TUN, D, 1.87, 84, 06-08-89, Sousse, Toulouse
+6, Ricardo Carvalho, POR, D, 1.83, 76, 18-05-78, Amarante, Real Madrid
+7, Nabil Dirar, MAR, M, 1.82, 79, 25-02-86, Casablanca, Club Brugge
+8, João Moutinho, POR, M, 1.70, 61, 08-09-86, Portimão, FC Porto
+9, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Atlético Madrid
+10, James Rodríguez, COL, M, 1.80, 77, 12-07-91, Cúcuta, FC Porto
+11, Lucas Ocampos, ARG, M, 1.87, 82, 11-07-94, Quilmes, River Plate
+15, Dimitar Berbatov, BUL, F, 1.88, 79, 30-01-81, Blagoevgrad, Fulham
+16, Sergio Romero, ARG, G, 1.92, 87, 22-02-87, Bernardo de Irigoyen, Sampdoria
+17, Yannick Ferreira Carrasco, BEL, M, 1.80, 67, 04-09-93, Elsene, None
+18, Valère Germain, FRA, F, 1.81, 75, 17-04-90, Marseille, None
+19, Mounir Obbadi, MAR, M, 1.72, 65, 04-04-83, Meulan, Troyes
+20, Nicolas Isimat-Mirin, FRA, D, 1.87, 83, 15-11-91, Meudon-la-Forêt, Valenciennes
+21, Elderson Uwa Echiejile, NGA, D, 1.84, 76, 20-01-88, Cotonou, Sporting Braga
+22, Eric Abidal, FRA, D, 1.86, 75, 11-07-79, Lyon, Barcelona
+23, Anthony Martial, FRA, F, 1.81, 76, 05-12-95, Massy, Lyon
+24, Andrea Raggi, ITA, D, 1.87, 82, 24-06-84, Carrara, Bologna
+25, Jessy Pi, FRA, M, 1.79, 72, 24-09-93, Manosque, None
+27, Geoffrey Kondogbia, FRA, D, 1.83, 71, 25-04-93, Saint-Denis, Sevilla
+28, Jérémy Toulalan, FRA, M, 1.83, 77, 10-09-83, Nantes, Málaga
+29, Emmanuel Riviere, FRA, F, 1.82, 76, 03-03-90, Lamentin, Toulouse
+30, Flavio Roma, ITA, G, 1.92, 89, 21-06-74, Rome, Milan
+31, Andreas Wolf, GER, D, 1.82, 82, 12-06-82, Leninabad, Werder Bremen
+40, Marc-Aurèle Caillard, FRA, G, 1.91, 79, 12-05-94, Melun, None
+41, Alex Maraval, FRA, G, 1.83, 77, 20-10-93, Marseille, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Delvin Ndinga, CGO, M, 1.82, 73, 03-04-88, Pointe Noire, Olympiakos (On Loan)
+21, Gary Kagelmacher, URU, M, 1.83, 80, 21-04-88, Montevideo, Valenciennes (On Loan)
+26, Terence Makengo, FRA, F, 1.84, 76, 22-06-92, Boulogne-sur-Mer, Châteauroux
+5, Gary Coulibaly, FRA, M, 1.83, 79, 30-03-86, Bastia, Laval
+14, Jakob Poulsen, DEN, M, 1.82, 72, 07-07-83, Varde, FC Midtjylland
+32, Marcel Tisserand, COD, D, 1.84, 70, 10-01-93, Meaux, Lens (On Loan)
+4, Borja López, ESP, D, 1.92, 83, 02-02-94, Gijón, Rayo Vallecano (On Loan)

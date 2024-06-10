@@ -1,0 +1,56 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Grêmio
+2, Guga, BRA, D, 1.77, 66, 29-08-98, Rio de Janeiro, Avaí
+3, Júnior Alonso, PAR, D, 1.85, 80, 09-02-93, Asunción, Lille
+4, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Internacional
+8, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, Sport Recife
+9, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Grêmio
+10, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, UANL Tigres
+11, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, Pyramids FC
+13, Guilherme Arana, BRA, D, 1.76, 70, 14-04-97, São Paulo, Sevilla
+15, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, Racing Club
+16, Igor Rabello, BRA, D, 1.90, 87, 28-04-95, Rio de Janeiro, Botafogo
+18, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Santos
+19, Dylan Borrero, COL, M, 1.79, 72, 05-01-02, Palmira, Santa Fe
+20, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Palmeiras
+21, Alan Franco, ECU, M, 1.76, 67, 21-08-98, Alfredo Baquerizo Moreno, Independiente del Valle
+23, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Chelsea
+25, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Galatasaray
+26, Calebe, BRA, M, 1.73, 66, 30-04-00, Monte Azul, São Paulo
+27, Caio Ribas, BRA, M, -, -, 11-01-04, Governador Valadares, None
+29, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Liverpool
+30, Gabriel, BRA, D, 1.81, 80, 14-03-95, Pedro Leopoldo, None
+31, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Santos
+32, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, Cruzeiro
+33, Sávio, BRA, F, 1.74, 71, 10-04-04, Duque de Caxias, None
+34, Jean, BRA, G, 1.96, 89, 24-07-00, Edéia, None
+35, Sivaldo Junior, BRA, G, -, -, 04-02-01, Vila Velha, None
+36, Isaque Gavioli, BRA, D, 1.89, 81, 16-04-01, Catanduva, None
+38, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, Vasco da Gama
+40, Bueno, BRA, D, 1.82, 78, 24-08-95, São Paulo, Kashima Antlers
+41, Gustavo Henrique, BRA, D, 1.92, 88, 07-10-99, Catanduva, Sãocarlense
+42, Talison, BRA, D, -, -, 02-06-00, Araguaína, None
+43, Samuel Toscas, BRA, D, -, -, 14-08-99, Niterói, None
+44, Wesley, BRA, M, -, -, 15-04-00, Juiz de Fora, None
+46, Luiz Filipe, BRA, F, 1.75, 72, 28-05-01, Camesia, None
+48, Guilherme, BRA, F, -, -, 13-05-01, Serra, None
+50, Marquinhos, BRA, F, 1.70, 71, 20-10-99, Cajari, None
+51, Rubens, BRA, M, -, -, 21-06-01, -, None
+70, Jefferson Savarino, VEN, F, 1.69, 66, 11-11-96, Maracaibo, Real Salt Lake
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Rómulo Otero, VEN, M, 1.65, 66, 09-11-92, El Tigre, Corinthians (On Loan)
+31, Michael, BRA, G, 1.94, 85, 08-04-95, Serranópolis do Iguaçu, Paços de Ferreira (On Loan)
+34, Matheus Mendes, BRA, G, 1.91, 83, 10-03-99, Governador Valadares, CSA (On Loan)
+17, Bruno Silva, BRA, F, 1.70, 64, 28-03-00, Carazinho, Chapecoense
+10, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Corithians
+99, Ricardo Oliveira, BRA, F, 1.83, 81, 06-05-80, São Paulo, Coritiba
+27, Léo Sena, BRA, M, 1.75, 71, 31-12-95, São Paulo, Spezia (On Loan)
+6, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Corinthians
+5, Gustavo Blanco, BRA, M, 1.74, 66, 03-10-94, Salvador, Goiás (On Loan)
+14, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Botafogo (On Loan)
+22, Maílton, BRA, D, 1.69, 69, 31-05-98, Paraíso do Norte, Coritiba (On Loan)

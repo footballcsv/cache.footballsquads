@@ -1,0 +1,46 @@
+=  Málaga - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Munir, MAR, G, 1.90, 79, 10-05-89, Melilla, Numancia
+2, Rajko Brežančić, SRB, D, 1.75, 71, 21-08-89, Belgrade, Huesca
+3, Diego González, ESP, D, 1.85, 82, 28-01-95, Chiclana de la Frontera, Sevilla B
+4, Luis Hernández, ESP, D, 1.83, 75, 14-04-89, Madrid, Leicester C
+5, Pau Torres, ESP, D, 1.91, 80, 16-01-97, Villarreal, Villarreal B
+6, Mehdi Lacen, ALG, M, 1.76, 70, 15-03-84, Versailles, Getafe
+7, Juan Carlos, ESP, D, 1.79, 70, 30-03-90, Boadilla del Monte, Sporting Braga
+8, Adrián González, ESP, M, 1.83, 77, 25-05-88, Madrid, Eibar
+9, Gustavo Blanco Leschuk, ARG, F, 1.91, 85, 05-11-91, Mendoza, Shakhtar Donetsk
+10, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Getafe
+11, Renato Santos, POR, F, 1.70, 76, 05-10-91, Pardilhó, Boavista
+12, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Elche
+13, Axel Werner, ARG, G, 1.92, 85, 28-02-96, Rafaela, Atlético Madrid
+14, Badr Boulahroud, MAR, M, 1.78, 73, 21-04-93, Rabat, FUS Rabat
+15, Federico Ricca, URU, D, 1.78, 73, 01-12-94, Tarariras, Danubio
+16, Yevhen Seleznev, UKR, F, 1.85, 77, 20-07-85, Makiivka, Akhisar Belediyespor
+17, Javi Ontiveros, ESP, M, 1.70, 72, 09-09-97, Marbella, Málaga B
+18, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Eibar
+20, Erik Morán, ESP, M, 1.87, 74, 25-05-91, Portugalete, AEK
+21, Alfred N'Diaye, SEN, M, 1.87, 87, 06-03-90, Paris, Villarreal
+22, Daniel Pacheco, ESP, M, 1.68, 65, 05-01-91, Málaga, Getafe
+23, Miguel Torres, ESP, D, 1.85, 81, 28-01-86, Madrid, Olympiakos
+24, Mamadou Koné, CIV, F, 1.76, 69, 25-12-91, Bingerville, Leganés
+25, Paweł Kieszek, POL, G, 1.82, 82, 16-04-84, Warsaw, Córdoba
+28, Álex Mula, ESP, M, 1.78, 68, 23-07-96, Premià de Mar, Málaga B
+29, Iván Rodríguez, ESP, D, 1.80, 70, 30-04-96, Alameda, Málaga B
+30, Jack Harper, SCO, F, 1.85, 75, 28-02-96, Málaga, Brighton & HA
+31, Hicham Boussefiane, MAR, F, 1.76, 65, 09-01-98, Rabat, Málaga B
+32, Abdelkabir Abqar, MAR, D, 1.88, 80, 10-03-99, Settat, Málaga B
+34, Iván Jaime, ESP, M, 1.77, 68, 26-09-00, Málaga, Málaga B
+35, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Atlético Madrid B
+36, Hugo Vallejo, ESP, F, 1.81, 77, 15-02-00, Granada, Málaga B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Roberto Rosales, VEN, D, 1.75, 71, 20-11-88, Caracas, Espanyol (On Loan)
+14, Recio, ESP, M, 1.82, 79, 11-01-91, Málaga, Leganés
+16, Manuel Iturra, CHI, M, 1.74, 71, 23-06-84, Temuco, Villarreal
+20, Sead Hakšabanović, MNE, M, 1.74, 69, 04-05-99, Hyltebruk, West Ham U
+13, Andrés Prieto, ESP, G, 1.94, 92, 17-10-93, Alicante, Leganés
+10, Juanpi, VEN, M, 1.75, 67, 24-01-94, Caracas, Huesca (On Loan)
+19, Héctor Hernández, ESP, F, 1.80, 72, 14-09-95, Las Palmas, Atlético Madrid B

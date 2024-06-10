@@ -1,0 +1,55 @@
+=  Internacional - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Muriel, BRA, G, 1.89, 78, 14-02-87, Novo Hamburgo, None
+2, Gabriel, BRA, D, 1.71, 70, 05-06-81, Feira de Santana, Grêmio
+3, Índio, BRA, D, 1.80, 79, 14-02-75, Maracai, Juventude
+4, Juan, BRA, D, 1.82, 78, 01-02-79, Rio de Janeiro, Roma
+5, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Benfica
+6, Kléber, BRA, D, 1.81, 72, 01-04-80, São Paulo, Santos
+7, Diego Forlán, URU, F, 1.80, 75, 19-05-79, Montevideo, Internazionale
+8, Willians, BRA, M, 1.75, 71, 29-01-86, São Paulo, Udinese
+9, Leandro Damião, BRA, F, 1.88, 81, 22-07-89, Jardim Alegre, Atlético Ibirama
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, San Lorenzo
+11, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Fluminense
+12, Alex, BRA, M, 1.75, 71, 25-03-82, Cornélio Procópio, Al-Gharafa
+13, Agenor, BRA, G, 1.87, 84, 11-12-89, Erechim, None
+14, Fabricio, BRA, D, 1.85, 72, 11-01-87, São Paulo, Portuguesa
+15, Ednei, BRA, D, 1.80, 72, 30-11-85, Brasília de Minas, Veranópolis
+17, Caio, BRA, F, 1.76, 70, 09-08-90, Volta Redonda, Botafogo
+19, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, Shakhtar Donetsk
+20, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Criciúma
+21, Ygor, BRA, M, 1.79, 76, 01-06-84, Santana do Livramento, Figueirense
+22, Alisson Becker, BRA, G, 1.93, 91, 02-10-92, Novo Hamburgo, None
+23, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Corinthians
+25, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Atlético Paranaense
+27, Josimar, BRA, M, 1.81, 78, 18-08-86, Pelotas, None
+28, Romário, BRA, D, 1.83, 81, 28-06-92, Porto Alegre, None
+29, Valdívia, BRA, M, 1.74, 70, 04-10-94, Jaciara, None
+30, Anderson Gavineski, BRA, G, 1.93, 85, 01-04-94, Alpestre, Caxias
+31, Thales, BRA, D, 1.86, 80, 06-04-93, Porto Alegre, None
+32, Ignacio Scocco, ARG, F, 1.75, 71, 29-05-85, Hughes, Al-Ain
+33, Otávio, BRA, M, 1.71, 65, 09-02-95, João Pessoa, None
+34, Nathan, BRA, F, 1.76, 74, 18-01-94, Porto Alegre, None
+35, João Afonso, BRA, M, 1.81, 81, 09-02-95, Criciúma, None
+36, Alan Costa, BRA, D, 1.94, 82, 31-10-90, Araraquara, Ferroviária
+37, Mike, BRA, F, 1.75, 64, 08-03-93, Suzano, Paulista
+38, Artur, BRA, D, 1.78, 75, 05-08-94, Rondon do Pará, JV Lideral
+39, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Cassiano, BRA, M, 1.84, 75, 16-06-89, Porto Alegre, Criciúma (On Loan)
+13, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Metalist Kharkiv
+35, Fred, BRA, M, 1.69, 68, 05-03-93, Belo Horizonte, Shakhtar Donetsk
+18, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Portuguesa (On Loan)
+12, Agenor, BRA, G, 1.87, 84, 11-12-89, Erechim, Re-Registered (13)
+32, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Re-Registered (20)
+16, Vítor Júnior, BRA, M, 1.67, 63, 15-09-86, Porto Alegre, Corinthians
+23, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Atlético Mineiro
+26, Hélder, BRA, D, 1.75, 70, 13-04-88, Ribeirão Preto, Ceará (On Loan)
+29, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Re-Registered (23)
+31, Maurides, BRA, F, 1.87, 80, 10-03-94, Colombia, De-Registered
+35, Mario Bolatti, ARG, M, 1.90, 80, 17-02-85, La Para, De-Registered
+38, Alex Santana, BRA, M, 1.82, 75, 13-05-95, Itatibaia, De-Registered

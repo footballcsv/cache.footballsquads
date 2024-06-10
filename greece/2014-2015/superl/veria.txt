@@ -1,0 +1,48 @@
+=  Veria - Greek Super League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giorgos Kantimiris, GRE, G, 1.87, 77, 19-09-82, Rhodes, Fokikos
+2, Raúl Bravo, ESP, D, 1.76, 62, 14-04-81, Gandia, Córdoba
+3, Cyril Kali, FRA, D, 1.82, 75, 21-01-84, Besançon, Panetolikos
+4, José Catalá, ESP, D, 1.75, 72, 31-12-84, Villajoyosa, Apollon Limassol
+5, Angelos Vertzos, GRE, D, 1.75, 74, 27-05-83, Athens, Apollon Smyrnis
+6, Roberto Battión, ARG, M, 1.88, 83, 01-03-82, Santa Fe, All Boys
+7, Nikos Kaltsas, GRE, M, 1.71, 69, 03-05-90, Veria, AEK
+8, Branko Ostojić, BIH, M, 1.86, 80, 03-01-84, Goražde, Javor Ivanjica
+9, Javier Campora, ARG, F, 1.74, 72, 07-01-80, Rosario, All Boys
+11, Kenan Bargan, GRE, F, 1.79, 75, 25-10-88, Kavala, Odysseas Anagennisi
+12, Nicolao Dumitru, ITA, F, 1.84, 76, 12-10-91, Nacka, Napoli
+13, Thomas Nazlidis, GRE, M, 1.85, 85, 23-10-87, Thessaloniki, Platanias
+14, David Vázquez, ESP, M, 1.79, 77, 21-03-86, Madrid, Melilla
+15, Pedro Arce, MEX, M, 1.73, 65, 25-11-91, Saltillo, Kavala
+16, Neto, BRA, D, 1.75, 67, 07-02-81, São José do Rio Preto, Bahia
+17, Stefanos Dogos, GRE, F, , , 05-05-94, , None
+18, Iván Malón, ESP, D, 1.87, 76, 26-08-86, Gandía, Mirandés
+19, Cédric Mandjeck, CMR, M, 1.73, 72, 08-04-93, Yaoundé, Valencia B
+20, Dimitris Melikiotis, GRE, F, 1.84, 75, 10-07-96, Veria, None
+21, Alexandros Vergonis, GRE, M, 1.88, 80, 01-12-85, Veria, Rodos
+22, Xavi Ginard, ESP, G, 1.78, 70, 11-10-86, Artà, Atlético Baleares
+23, Dimitris Amarantidis, GRE, D, 1.74, 71, 27-07-86, Kozani, Anagennisi Karditsa
+24, Jokin Esparza, ESP, M, 1.77, 68, 15-06-88, Pamplona, Zamora
+25, Sotiris Balafas, GRE, M, 1.88, 78, 19-08-86, Arta, Hoverla Uzhhorod
+29, Andreas Tatos, GRE, M, 1.74, 68, 11-05-89, Himara, Atromitos
+30, Carlos Caballero, ESP, M, 1.78, 75, 05-10-84, Alcorcón, Córdoba
+31, El Fardou Nabouhane, FRA, F, 1.73, 78, 10-06-89, Passamainty, Vannes
+32, Charalambos Pavlidis, GRE, M, 1.79, 74, 06-05-91, Veria, None
+33, Dimitris Manos, GRE, F, 1.79, 79, 16-09-94, Trikala, None
+55, Stelios Marangos, GRE, D, 1.78, 69, 04-05-89, Veria, Kerkyra
+71, Dimitris Homsioglou, GRE, G, 2.01, 90, 08-03-89, , Anagennisi Giannitsa
+75, David Dujić, SRB, M, 1.74, 65, 25-10-96, , None
+77, Georgios Georgiadis, GRE, F, 1.78, 63, 14-11-87, Mitroussi Serron, PAOK
+96, Giorgos Vassiliadis, GRE, G, , , 10-06-96, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+88, Marios Papadopoulos, GRE, F, 1.79, 75, 10-12-92, Thessaloniki, Aris (On Loan)
+13, Kostas Panagiotoudis, GRE, M, 1.75, 70, 03-12-94, Thessaloniki, PAOK
+55, Vangelis Tsiamis, ITA, D, 1.88, 85, 14-07-91, Veria, Acharnaikos
+16, Giorgos Katidis, GRE, M, 1.75, 68, 12-02-93, Thessaloniki, Levadiakos
+10, Nigel Hasselbaink, NED, F, 1.68, 60, 21-11-90, Amsterdam, Hamilton Academical
+99, Zvonimir Vukić, SRB, M, 1.82, 75, 19-07-79, Zrenjanin, 
+92, Theo Markelis, AUS, F, 1.74, 70, 24-06-92, Melbourne, Hume C

@@ -1,0 +1,58 @@
+=  Colchester United - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dillon Barnes, ENG, G, 1.93, 75, 08-04-96, Enfield Town, Bedford T
+2, Ryan Jackson, ENG, D, 1.75, 65, 31-07-90, Streatham, Gillingham
+4, Tom Lapslie, ENG, M, 1.68, 69, 05-05-95, Waltham Forest, None
+5, Luke Prosser, ENG, D, 1.91, 66, 28-05-88, Enfield, Southend U
+6, Frankie Kent, ENG, D, 1.88, 76, 21-11-95, Romford, None
+7, Courtney Senior, ENG, M, 1.75, 64, 30-06-97, Croydon, Brentford
+8, Harry Pell, ENG, M, 1.92, 85, 21-10-91, Chadwell-St-Mary, Cheltenham T
+9, Luke Norris, ENG, F, 1.85, 85, 03-06-93, Stevenage, Swindon T
+10, Sammie Szmodics, ENG, M, 1.68, 64, 24-09-95, Colchester, None
+11, Brennan Dickenson, ENG, M, 1.84, 80, 26-02-93, Ferndown, Gillingham
+12, Aaron Barnes, ENG, D, 1.86, 76, 14-10-96, Croydon, Charlton Ath
+14, Brandon Comley, MSR, M, 1.80, 72, 18-11-95, Islington, QPR
+16, Diaz Wright, ENG, M, 1.77, 69, 22-02-98, Greenwich, None
+17, Cameron James, ENG, D, 1.83, 76, 11-02-98, Chelmsford, None
+18, Tom Eastman, ENG, D, 1.90, 88, 21-10-91, Colchester, Ipswich T
+19, Mikaël Mandron, SCO, F, 1.91, 82, 11-10-94, Boulogne-sur-Mer, Wigan Ath
+21, Noah Chesmain, ENG, D, 1.75, 80, 16-12-97, Waltham Forest, Millwall
+22, Kane Vincent-Young, ENG, D, 1.80, 70, 15-03-96, Camden Town, Tottenham H
+23, Ryan Gondoh, ENG, M, 1.83, 75, 06-06-97, Sutton, Maldon & Tiptree
+24, Ben Stevenson, ENG, M, 1.83, 67, 23-03-97, Leicester, Wolverhampton W
+25, Rene Gilmartin, IRL, G, 1.97, 101, 31-05-87, Dublin, Watford
+26, Paul Rooney, IRL, D, 1.88, 79, 22-03-97, Dublin, Millwall
+27, Noah Chilvers, ENG, M, 1.73, 64, 22-02-01, Chelmsford, None
+28, Ollie Sims, ENG, F, 1.73, 70, 29-03-01, Bury St Edmunds, None
+29, Ethan Ross, ENG, G, 1.96, 94, 06-03-97, Enfield, WBA
+31, Tariq Issa, ENG, F, 1.70, 70, 02-09-97, , None
+32, Bailey Vose, ENG, G, 1.93, 84, 11-05-98, Sidcup, Brighton & HA
+33, Louis Dunne, IRL, M, 1.75, 70, 07-09-98, Colchester, None
+34, Decarrey Sheriff, ENG, F, 1.82, 75, 18-02-98, Southwark, West Ham U
+35, Ollie Kensdale, END, D, 1.91, 85, 20-04-00, Colchester, None
+36, Sam Saunders, ENG, M, 1.75, 75, 29-08-83, Greenwich, Wycombe W
+37, George Brown, ENG, M, 1.96, 85, 03-03-98, Romford, None
+38, Arjanit Krasniqi, KVX, M, 1.77, 67, 16-10-99, Westminster, Waltham Forest
+39, Abo Eisa, SUD, M, 1.80, 75, 05-01-96, Khartoum, Shrewsbury T
+40, Dean Ager, ENG, M, 1.70, 70, 27-10-99, Chelmsford, None
+41, Callum Jones, ENG, F, , , , , None
+42, Eoin McKeown, ENG, F, 1.85, 75, 05-11-98, Westminster, None
+44, Ryan Clampin, ENG, M, 1.80, 70, 29-01-99, Colchester, None
+45, Frank Nouble, ENG, F, 1.90, 82, 24-09-91, Lewisham, Newport Co
+46, Chris Forino-Joseph, ENG, D, 1.91, 83, 26-04-00, Islington, Cheshunt
+47, Todd Miller, ENG, M, , , 01-10-02, , None
+49, David Agboola, ENG, D, 1.88, 80, 25-02-00, Newham, Dagenham & Redbridge
+50, Ken Charles, ENG, F, 1.83, 75, 12-04-00, Lewisham, Erith T
+52, Percy Kiangebeni, ENG, D, 1.86, 83, 13-02-97, Enfield, St Albans C
+, Tyrique Hyde, ENG, M, 1.79, 73, 08-04-99, Redbridge, Dagenham & Redbridge
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Will Wright, ENG, D, 1.90, 83, 12-06-97, Luton, Dagenham & Redbridge (On Loan)
+17, Cameron James, ENG, D, 1.83, 76, 11-02-98, Chelmsford, Braintree T (On Loan)
+39, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Wolverhampton W
+20, Junior Ogedi-Uzokwe, ENG, F, 1.85, 80, 20-03-94, , Derry C (On Loan)
+43, Sam Warde, IRL, M, 1.85, 80, 13-03-98, Limerick, Sligo R (On Loan)
+15, Callum Roberts, ENG, F, 1.73, 65, 14-04-97, South Shields, Newcastle U

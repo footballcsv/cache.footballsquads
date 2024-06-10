@@ -1,0 +1,52 @@
+=  Dynamo Kyiv - Ukrainian Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heorhiy Bushchan, UKR, G, 1.96, 84, 31-05-94, Odessa, Dynamo Kyiv-2
+2, Carlos Zambrano, PER, D, 1.85, 77, 10-07-89, Callao, Rubin Kazan
+4, Aleksandar Pantić, SRB, D, 1.84, 77, 11-04-92, Arandjelovac, Villarreal
+5, Serhiy Sydorchuk, UKR, M, 1.88, 76, 02-05-91, Zaporizhya, Metalurh Zaporizhya
+7, Benjamin Verbič, SVN, M, 1.79, 70, 27-11-93, Celje, FC København
+8, Volodymyr Shepelyev, UKR, M, 1.84, 73, 01-06-97, Altestovo, Chornomorets Odessa-2
+9, Mykola Morozyuk, UKR, D, 1.76, 70, 17-01-88, Lviv, Metalurh Donetsk
+11, Moraes, BRA, F, 1.76, 70, 04-04-87, Santos, Metalurh Donetsk
+13, Dmytro Khlyobas, UKR, F, 1.78, 74, 09-05-94, Lokhvytsia, Dynamo Kyiv-2
+14, Vladyslav Kalitvintsev, UKR, M, 1.78, 65, 04-01-93, Moscow, Dynamo Kyiv-2
+15, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Dynamo Kyiv-2
+17, Ruslan Rotan, UKR, M, 1.74, 67, 29-10-81, Poltava, Slavia Prague
+18, Nikita Korzun, BLR, M, 1.74, 68, 06-02-95, Minsk, Dinamo Minsk
+19, Denys Harmash, UKR, M, 1.86, 75, 19-04-90, Luhansk, Dynamo Kyiv-2
+20, Oleh Husyev, UKR, M, 1.79, 74, 25-04-83, Sumy, Arsenal Kyiv
+21, Mykyta Kravchenko, UKR, M, 1.78, 69, 14-06-97, Zuhres, Illichivets Mariupol
+23, Josip Pivarić, CRO, D, 1.76, 69, 30-01-89, Zagreb, Dinamo Zagreb
+25, Derlis González, PAR, M, 1.72, 64, 23-03-94, Mariano Roque Alonso, Basel
+26, Mykyta Burda, UKR, D, 1.87, 80, 24-03-95, Yenakiieve, Dynamo Kyiv-2
+29, Vitaliy Buyalskyy, UKR, M, 1.70, 61, 06-01-93, Kalinovka, Dynamo Kyiv-2
+30, Artem Shabanov, UKR, D, 1.84, 74, 07-03-92, Kyiv, Olimpik Donetsk
+33, Volodymyr Makhankov, UKR, G, 1.92, 83, 29-10-97, Slavutych, Dynamo Kyiv-2
+34, Yevhen Khacheridi, UKR, D, 1.97, 80, 28-07-87, Melitopol, Dynamo Kyiv-2
+40, Mykola Shaparenko, UKR, M, 1.78, 72, 04-10-98, Velyka Novosilka, Illichivets Mariupol
+41, Artem Byesyedin, UKR, F, 1.85, 76, 31-03-96, Kharkiv, Dynamo Kyiv-2
+42, Vitaliy Mykolenko, UKR, D, 1.80, 71, 29-05-99, Cherkasy, Dynamo Kyiv-2
+43, Nazariy Rusyn, UKR, F, 1.77, 68, 25-10-98, Novoyavorivsk, Dynamo Kyiv-2
+44, Tamás Kádár, HUN, D, 1.88, 74, 14-03-90, Veszprém, Lech Poznań
+45, Yevhen Smyrnyy, UKR, M, 1.80, 63, 18-08-98, Kyiv, Dynamo Kyiv-2
+46, Akhmed Alibekov, UKR, M, 1.82, 72, 29-05-98, Zaporizhya, Metalurh Zaporizhya-2
+47, Roman Vantukh, UKR, D, 1.76, 73, 04-07-98, Lviv, Dynamo Kyiv-2
+70, Dieumerci Mbokani, COD, F, 1.85, 75, 22-11-85, Kinshasa, Anderlecht
+71, Denys Boyko, UKR, G, 1.91, 84, 29-01-88, Kyiv, Beşiktaş
+72, Artur Rudko, UKR, G, 1.96, 85, 07-05-92, Kyiv, Dynamo Kyiv-2
+94, Tomasz Kędziora, POL, D, 1.83, 73, 11-06-94, Sulechów, Lech Poznań
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Vitorino Antunes, POR, D, 1.75, 69, 01-04-87, Freamunde, Getafe (On Loan)
+21, Roman Yaremchuk, UKR, F, 1.92, 69, 27-11-95, Lviv, KAA Gent
+10, Andriy Yarmolenko, UKR, F, 1.87, 76, 23-10-89, Kyiv, Borussia Dortmund
+14, Zurab Ochihava, UKR, D, 1.86, 74, 18-05-95, Kyiv, Olimpik Donetsk (On Loan)
+17, Serhiy Rybalka, UKR, M, 1.80, 74, 01-04-90, Yamne, Sivasspor (On Loan)
+40, Oleksandr Tymchyk, UKR, D, 1.80, 67, 20-01-97, Kryklyvets, Zorya Luhansk (On Loan)
+24, Domagoj Vida, CRO, D, 1.82, 70, 29-04-89, Osijek, Beşiktaş
+22, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Kayserispor
+35, Maksym Koval, UKR, G, 1.84, 70, 09-12-92, Zaporizhya, Deportivo La Coruña (On Loan)
+16, Serhiy Sydorchuk, UKR, M, 1.88, 76, 02-05-91, Zaporizhya, Re-Registered (5)

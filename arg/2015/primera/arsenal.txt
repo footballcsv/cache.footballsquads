@@ -1,0 +1,56 @@
+=  Arsenal - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oscar Limia, ARG, G, 1.84, 80, 16-07-75, Avellaneda, Unión (Santa Fe)
+3, Matías Sarulyte, ARG, D, 1.89, 83, 13-03-89, Colón, Estudiantes (LP)
+4, Marcos Curado, ARG, D, 1.86, 80, 09-05-95, Mar del Plata, None
+5, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, None
+6, Jorge Curbelo, URU, D, 1.85, 81, 21-12-81, Montevideo, Nacional [URU]
+7, Hernán Fredes, ARG, M, 1.72, 70, 27-03-87, Avellaneda, Independiente
+8, Gastón Esmerado, ARG, M, 1.82, 77, 08-02-78, Lanús, Huracán
+9, Federico Rašić, ARG, F, 1.94, 84, 24-03-92, La Plata, Gimnasia y Esgrima (LP)
+10, Cristian Chávez, ARG, M, 1.68, 69, 16-06-86, Pilar, Lanús
+11, Federico Laurito, ITA, F, 1.82, 71, 18-05-90, Rosario, Universidad Católica [ECU]
+12, Mauricio Aquino, ARG, G, 1.88, 70, 27-10-93, Jacinto Aráuz, None
+13, Dany Rosero Valencia, COL, D, 1.81, 81, 06-10-93, Bogotá, None
+14, Federico Lértora, ARG, M, 1.85, 78, 05-07-90, Mercedes, Godoy Cruz (Mendoza)
+15, Gonzalo Giménez, ARG, D, 1.76, 76, 04-09-95, Lanús, None
+16, Ezequiel Ruiz, ARG, F, 1.68, 65, 16-09-95, Lanús, None
+17, Bryan Schmidt, ARG, F, 1.79, 83, 19-11-95, La Plata, None
+18, Miguel Caneo, ARG, M, 1.83, 72, 17-08-83, General Roca, Deportivo Cali
+19, Matías Campos, CHI, D, 1.75, 70, 22-06-89, Santiago, Udinese
+20, Salvador Sánchez, ARG, D, 1.86, 78, 31-07-95, Tres Algarrobos, None
+21, Claudio Corvalán, ARG, D, 1.78, 74, 23-03-89, Quilmes, Racing Club
+22, Matías Zaldivia, ARG, D, 1.84, 87, 22-01-91, San Isidro, Chacarita Juniors
+23, Ramiro Carrera, ARG, M, 1.82, 72, 24-10-93, Tolosa, None
+24, Matías Zaldívar, ARG, M, 1.79, 76, 04-08-95, Avellaneda, None
+25, Federico Milo, ARG, D, 1.78, 75, 10-01-92, Quilmes, None
+26, Gabriel Flores, ARG, M, 1.79, 75, 20-01-93, Bernal, None
+27, Santiago Tréllez, COL, F, 1.85, 76, 17-01-90, Medellín, Morelia
+28, Ramiro López, ARG, M, 1.77, 75, 31-10-84, Wilde, San Martín (San Juan)
+29, Gonzalo González, ARG, F, 1.80, 72, 06-03-95, Quilmes, None
+30, Iván Varga, ARG, D, 1.86, 82, 23-06-95, Lanús, None
+31, Esteban Andrada, ARG, G, 1.93, 81, 26-01-91, Mendoza, Lanús
+33, German Niz, ARG, D, 1.82, 70, 23-03-96, , None
+34, Fernando Luna, ARG, M, 1.75, 70, 19-01-90, Ramallo, Tristán Suárez
+36, Santiago Silva, URU, F, 1.86, 73, 09-12-80, Montevideo, Lanús
+39, Fabián Muñoz, ARG, F, 1.75, 72, 03-11-91, Rufino, Newell's Old Boys
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Pablo Burzio, ARG, F, 1.78, 74, 03-12-92, Bulnes, Instituto (Córdoba)
+11, Emilio Zelaya, ARG, F, 1.80, 71, 30-07-87, San Miguel de Tucumán, O'Higgins
+15, Damián Pérez, ARG, D, 1.90, 78, 22-12-88, Lanús, Vélez Sarsfield
+18, Lucas Pugh, ARG, F, 1.80, 71, 01-01-94, Avellaneda, De-Registered
+20, Tomás Asprea, ARG, M, 1.80, 70, 28-02-95, Lanús, De-Registered
+26, Maximiliano Herrera, ARG, F, 1.81, 97, 08-01-93, La Rioja, De-Registered
+27, Esteban Ciaccheri, ARG, F, 1.78, 79, 20-05-91, Pilar, De-Registered
+28, Franco Costa, ARG, M, 1.63, 64, 10-12-91, Luján, Tristán Suárez (On Loan)
+29, Leandro Godoy, ARG, M, 1.77, 73, 09-12-94, Bernal, De-Registered
+2, José San Román, ARG, D, 1.72, 70, 17-08-88, General San Martín, Huracán
+4, Nicolás Correa, URU, D, 1.80, 73, 25-12-83, Montevideo, Cerro
+21, Marcos Curado, ARG, D, 1.86, 80, 09-05-95, Mar del Plata, Re-Registered (4)
+33, Gabriel Flores, ARG, M, 1.79, 75, 20-01-93, Bernal, Re-Registered (26)
+34, Gonzalo Giménez, ARG, D, 1.76, 76, 04-09-95, Lanús, Re-Registered (15)
+35, Salvador Sánchez, ARG, D, 1.86, 78, 31-07-95, Tres Algarrobos, Re-Registered (20)

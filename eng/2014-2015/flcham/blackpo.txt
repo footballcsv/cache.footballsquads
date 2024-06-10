@@ -1,0 +1,63 @@
+=  Blackpool - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Lewis, ENG, G, 1.98, 85, 06-10-87, Broome, Cardiff C
+2, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Accrington Stanley
+3, Niall Maher, ENG, D, 1.78, 78, 31-07-95, Manchester, Bolton W
+4, David Perkins, ENG, M, 1.68, 76, 21-06-82, Heysham, Barnsley
+6, Peter Clarke, ENG, D, 1.83, 76, 03-01-82, Southport, Huddersfield T
+7, Tomasz Cywka, POL, M, 1.80, 76, 27-06-88, Gliwice, Barnsley
+9, Steven Davies, ENG, F, 1.85, 73, 29-12-87, Liverpool, Bristol C
+11, Andrea Orlandi, ESP, M, 1.80, 78, 03-08-84, Barcelona, Brighton & HA
+13, François Zoko, CIV, F, 1.82, 72, 13-09-83, Daloa, Stevenage
+14, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Aston Villa
+15, Formose Mendy, SEN, F, 1.83, 76, 23-03-89, Guédiawaye, Blackpool
+16, Joël Dielna, FRA, M, 1.84, 80, 27-12-90, Sainte-Rose, Vannes
+17, Miles Addison, ENG, D, 1.89, 93, 07-01-89, Newham, Bournemouth
+18, Charles Dunne, ENG, D, 1.77, 74, 13-02-93, Lambeth, Wycombe W
+19, Nile Ranger, ENG, F, 1.88, 84, 11-04-91, Bounds Green, Swindon T
+20, Connor Oliver, ENG, D, 1.78, 76, 17-01-94, Walker, Sunderland
+21, Elliott Parish, ENG, G, 1.88, 83, 20-05-90, Northampton, Bristol C
+22, José Miguel Cubero, CRC, M, 1.78, 72, 14-02-87, Sarchí, CS Herediano
+24, Gary Madine, ENG, F, 1.75, 70, 24-08-90, Gateshead, Sheffield W
+25, David Ferguson, ENG, D, 1.78, 76, 07-06-94, Sunderland, Sunderland
+27, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, None
+28, Jeffrey Rentmeister, BEL, D, 1.89, 79, 11-07-84, Oupeye, KVC Westerlo
+29, Anthony McMahon, ENG, D, 1.80, 72, 24-03-86, Bishop Auckland, Sheffield U
+30, Saër Sène, FRA, F, 1.80, 70, 04-11-86, Paris, New York Red Bulls
+31, Jamie O'Hara, ENG, M, 1.80, 78, 25-09-86, South London, Wolverhampton W
+32, Grant Hall, ENG, D, 1.76, 71, 01-09-92, Brighton, Tottenham H
+33, Mark Waddington, ENG, M, 1.83, 66, 11-10-96, Wigan, None
+34, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, None
+36, Daniel Milton, CAN, G, 1.83, 78, 26-11-96, Ajax, Ajax Thunder
+37, Nyron Nosworthy, JAM, D, 1.83, 80, 11-10-80, Brixton, Watford
+40, Henry Cameron, ENG, M, 1.78, 70, 28-06-97, Lytham St Annes, None
+41, Luke Higham, ENG, D, 1.85, 77, 21-10-96, Blackpool, None
+42, Myles Boney, ENG, G, 1.80, 74, 01-02-98, Blackpool, None
+43, Bright Osayi-Samuel, NGA, M, 1.75, 72, 01-02-97, Okija, None
+48, Darren O'Dea, IRL, D, 1.85, 83, 04-02-87, Dublin, Metalurh Donetsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Brian Lenihan, IRL, D, 1.78, 76, 08-06-94, Cork, Hull C
+20, Sergei Zenjov, EST, F, 1.83, 70, 20-04-89, Pärnu, Torpedo Moscow
+25, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+2, Donervon Daniels, ENG, D, 1.86, 91, 24-11-93, Montserrat, WBA
+24, John Lundstram, ENG, M, 1.81, 74, 18-02-94, Liverpool, Everton
+26, Kevin Foley, IRL, D, 1.75, 70, 01-11-84, Luton, Wolverhampton W
+38, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Crystal Palace
+10, Bobby Grant, ENG, F, 1.80, 76, 01-07-90, Blackpool, Shrewsbury T (On Loan)
+30, Jonathan Legear, BEL, F, 1.79, 72, 13-04-87, Liège, Standard Liège
+3, Joan Oriol, ESP, D, 1.75, 69, 05-11-86, Cambrils, Rapid București
+23, Edu Oriol, ESP, F, 1.74, 70, 05-11-86, Cambrils, Rapid București
+12, Chris Eagles, ENG, M, 1.83, 67, 19-11-85, Hemel Hempstead, Charlton Ath
+35, Thomas Kennedy, ENG, D, 1.80, 79, 24-06-85, Bury, Barnsley
+8, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Oldham Ath (On Loan)
+17, Ishmael Miller, ENG, F, 1.91, 89, 05-03-87, Manchester, Huddersfield T
+5, Gary MacKenzie, SCO, D, 1.91, 83, 15-10-85, Lanark, Bradford C (On Loan)
+38, Alex Henshall, ENG, M, 1.77, 71, 15-02-94, Swindon, Ipswich T
+12, Joe Rothwell, ENG, M, 1.85, 77, 11-01-95, Manchester, Manchester U
+41, Islam Feruz, SCO, F, 1.63, 54, 10-09-95, Kismayo, Chelsea
+39, Andre Blackman, ENG, D, 1.80, 72, 10-11-90, Lambeth, 
+12, Michael Jacobs, ENG, M, 1.75, 74, 22-03-92, Northampton, Wolverhampton W

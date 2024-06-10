@@ -1,0 +1,49 @@
+=  Grêmio - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Paulista
+2, Paulo Sérgio, BRA, D, 1.70, 69, 01-10-78, Avaí, Palmeiras
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, None
+4, Pereira, BRA, D, 1.89, 88, 30-07-79, Guarulhos, Portuguesa-SP
+5, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Paulista
+6, Anderson Pico, BRA, D, 1.69, 75, 04-11-88, Porto Alegre, None
+7, Edixon Perea, COL, F, 1.78, 73, 20-04-84, Cali, Bordeaux
+8, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, None
+9, Marcel, BRA, F, 1.87, 87, 12-11-81, Mirassol, Benfica
+10, Tcheco, BRA, M, 1.80, 77, 11-04-76, Curitiba, Al Ittihad
+11, Willian Magrão, BRA, M, 1.90, 78, 16-02-87, Mogi Mirim, None
+12, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+13, Thiego, BRA, D, 1.85, 75, 22-07-86, Aracajú, None
+14, Jean, BRA, D, 1.86, 78, 18-11-79, Feira de Santana, Saturn
+15, Felipe Mattioni, BRA, D, 1.77, 72, 15-10-88, Natural de Ijuí, None
+16, Sérgio Órteman, URU, M, 1.81, 81, 29-09-78, Montevideo, Boca Juniors
+17, Amaral, BRA, M, 1.75, 71, 27-11-83, Mogi Mirim, Vasco da Gama
+18, Makelele, BRA, M, 1.73, 65, 26-02-85, Salvador, Palmeiras
+19, Hélder, BRA, D, 1.78, 73, 21-10-88, Três Corações, None
+20, Reinaldo, BRA, F, 1.79, 78, 08-06-80, Rio de Janeiro, Manisaspor
+21, Souza, BRA, M, 1.76, 77, 04-02-79, Maceió, Paris St-Germain
+22, André Luís, BRA, F, 1.77, 71, 19-02-86, Jaú, Cruzeiro
+23, Soares, BRA, F, 1.75, 68, 16-05-85, Manaus, Junior Team Futebol
+24, Adilson, BRA, M, 1.81, 70, 16-01-87, Bom Princípio, None
+25, Rudnei, BRA, M, 1.88, 78, 07-10-84, Florianópolis, 15 de Novembro
+26, Héverton, BRA, D, 1.88, 82, 14-01-88, São Paulo, None
+27, Maylson, BRA, M, 1.80, 71, 06-03-89, São Bernardo, None
+28, Wágner, BRA, D, 1.91, 82, 19-11-89, Porto Alegre, None
+30, Matheus Cavichioli, BRA, G, 1.92, 86, 27-07-86, Caçador, Figueirense
+31, Richard Morales, URU, F, 1.96, 88, 21-02-75, Montevideo, Nacional [URU]
+32, Douglas Costa, BRA, M, 1.70, 63, 14-09-90, Sapucaia do Sul, None
+33, Roberson, BRA, F, 1.81, 72, 02-04-89, Campo Grande, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Julio dos Santos, PAR, M, 1.86, 88, 07-05-83, Asunción, Bayern Munich
+, Teco, BRA, D, 1.88, 82, 11-08-82, Vila Velha, Cruzeiro
+, Roger, BRA, M, 1.70, 69, 17-08-78, Rio de Janeiro, Qatar SC
+, Jonas, BRA, F, 1.83, 73, 01-04-84, Bebedouro, Portuguesa (On Loan)
+, Rodrigo Mendes, BRA, F, 1.80, 70, 09-08-75, Uberaba, Sharjah FC
+, Nunes, BRA, M, 1.82, 78, 20-03-84, Alegrete, Guarani [BRA]
+, Bruno Teles, BRA, D, 1.83, 78, 01-05-86, Alvorada, Portuguesa (On Loan)
+, Martín Hidalgo, PER, D, 1.80, 74, 15-06-76, Lima, Libertad
+, Marcelo Labarthe, BRA, M, 1.74, 64, 12-08-84, Porto Alegre, Vitória Setúbal
+, Eduardo Costa, BRA, M, 1.84, 78, 23-09-82, Florianópolis, Espanyol

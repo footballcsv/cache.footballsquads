@@ -1,0 +1,60 @@
+=  Reading - English Football League Championship 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Federici, AUS, G, 1.88, 90, 31-01-85, Nowra, Sassari Torres
+2, Andy Griffin, ENG, D, 1.73, 68, 17-03-79, Wigan, Stoke C
+3, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+4, Jem Karacan, TUR, M, 1.78, 76, 21-02-89, Catford, None
+5, Alex Pearce, SCO, D, 1.83, 74, 09-11-88, Oxford, None
+6, Brynjar Gunnarsson, ISL, D, 1.85, 77, 16-10-75, Reykjavik, Watford
+7, Jay Tabb, IRL, M, 1.70, 64, 21-02-84, Tooting, Coventry C
+8, Mikele Leigertwood, ATG, D, 1.88, 78, 12-11-82, Enfield, QPR
+9, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Rotherham U
+10, Noel Hunt, IRL, F, 1.73, 72, 26-12-82, Waterford, Dundee U
+11, Jobi McAnuff, JAM, M, 1.80, 72, 09-11-81, Edmonton, Watford
+12, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, None
+14, Jimmy Kébé, MLI, M, 1.87, 73, 19-01-84, Vitry-sur-Seine, Lens
+16, Joseph Mills, ENG, D, 1.75, 70, 30-10-89, Swindon, Southampton
+17, Kaspars Gorkšs, LVA, D, 1.91, 85, 06-11-81, Riga, QPR
+18, Simon Church, WAL, F, 1.83, 84, 10-12-88, High Wycombe, None
+19, Hal Robson-Kanu, WAL, F, 1.70, 74, 21-05-89, Acton, None
+20, Brian Howard, ENG, M, 1.73, 70, 23-01-83, Winchester, Sheffield U
+21, Karl Sheppard, IRL, F, 1.81, 80, 14-02-91, Dublin, Shamrock R
+23, Ian Harte, IRL, D, 1.77, 78, 31-08-77, Drogheda, Carlisle U
+24, Shaun Cummings, ENG, D, 1.83, 76, 25-02-89, Hammersmith, Chelsea
+25, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, None
+26, Hayden Mullins, ENG, M, 1.80, 67, 27-03-79, Reading, Portsmouth
+27, Cédric Baseya, FRA, F, 1.95, 94, 19-12-87, Bretigny, Lille
+28, Michail Antonio, ENG, M, 1.80, 82, 28-03-90, London, Tooting & Mitcham U
+29, Nicholas Bignall, ENG, F, 1.77, 81, 11-07-90, Reading, None
+30, Simon Locke, ENG, G, 1.85, 75, 15-10-91, Newbury, None
+31, Mikkel Andersen, DEN, G, 1.95, 80, 17-12-88, Herlev, AB København
+32, Jacob Walcott, ENG, F, 1.78, 70, 26-06-92, Abingdon, None
+33, Jason Roberts, GRN, F, 1.85, 92, 25-01-78, Park Royal, Blackburn R
+34, Ethan Gage, CAN, M, 1.80, 73, 08-05-91, Cochrane, Vancouver Whitecaps
+36, Jack Mills, ENG, D, 1.83, 71, 26-03-92, Reading, None
+37, Jordan Obita, ENG, F, 1.80, 73, 08-12-93, Oxford, None
+38, Frankie Raymond, ENG, M, 1.78, 74, 18-11-92, Chislehurst, None
+39, Brett Williams, ENG, F, 1.88, 79, 01-12-87, Southampton, Eastleigh
+40, Lawson D'Ath, ENG, M, 1.75, 77, 24-12-92, Witney, None
+41, Tomasz Cywka, POL, M, 1.80, 76, 27-06-88, Gliwice, Derby Co
+42, Carl McHugh, IRL, D, 1.80, 72, 05-02-93, Lettermacaward, None
+43, Nick Arnold, ENG, D, 1.80, 82, 03-07-93, Tadley, None
+44, John Goddard, ENG, M, 1.78, 74, 02-06-93, Sandhurst, None
+45, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, AIS
+46, Angus MacDonald, ENG, D, 1.84, 70, 15-10-92, Winchester, None
+47, Charlie Losasso, ENG, M, 1.82, 72, 11-11-92, Marlow, None
+48, David Murphy, IRL, F, , , 18-04-93, Wexford, None
+49, Gozie Ugwu, ENG, F, 1.87, 76, 22-04-93, Oxford, None
+50, Cameron Edwards, AUS, M, 1.80, 66, 27-03-92, Sydney, Perth Glory
+51, Benik Afobe, ENG, F, 1.79, 70, 12-02-93, Leyton, Arsenal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Shane Long, IRL, F, 1.78, 71, 22-01-87, Kilkenny, WBA
+35, Michael Hector, ENG, D, 1.93, 82, 19-07-92, Newham, Barnet (On Loan)
+3, Marcus Williams, ENG, D, 1.73, 68, 08-04-86, Doncaster, Sheffield U
+15, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Huddersfield T (On Loan)
+26, Bongani Khumalo, RSA, D, 1.88, 82, 06-01-87, Manzini, Tottenham H
+22, Mathieu Manset, FRA, F, 1.86, 86, 05-08-89, Metz, Shanghai Shenhua (On Loan)

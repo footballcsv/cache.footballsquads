@@ -1,0 +1,39 @@
+=  Ternana - Italian Serie B 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Brunner, G, 6'02", 12 13, 08-12-73, Trieste, Como
+2, Alain Bono Mack'Mboune, D, 5'07", 10 08, 19-12-83, Douala, None
+3, Christian Terni, D, 6'01", 11 11, 03-03-72, Cernusco sul Naviglio, Como
+4, Gianluca Grava, D, 5'07", 10 06, 07-09-77, Caserta, Turris
+5, Kharja Houssine, M, 5'11", 11 11, 09-11-82, Poissy, Sporting CP
+7, Ezio Pietro Brevi, M, 6'00", 12 04, 20-01-70, Rome, Genoa
+8, Alessandro Frara, M, 5'10", 11 05, 07-01-82, Turin, Juventus
+9, Riccardo Zampagna, F, 6'00", 12 08, 15-11-74, Terni, Messina
+10, Massimiliano Esposito, M, 5'09", 11 00, 27-05-72, Naples, Brescia
+11, Claudio Ferrarese, M, 5'08", 10 01, 07-09-78, Verona, Piacenza
+12, Tommaso Berni, G, 6'03'', 14 00, 06-03-83, Florence, Wimbledon
+13, Palmiro Di Dio, D, 6'01'', 12 11, 06-07-85, Benevento, None
+14, Andrea Cossu, M, 5'07", 09 13, 15-08-84, Buguma, None
+15, Fabio Lauria, M, 5'06", 09 13, 30-08-85, Naples, None
+16, Gennaro Scarlato, M, 6'00", 12 04, 03-05-77, Naples, Torino
+17, Luis Jiménez, M, 6'00", 11 11, 17-06-84, Santiago, Palestino
+18, Emanuele Pesaresi, D, 5'11", 12 01, 01-12-76, Ancona, Chievo
+19, Orlando Fanasca, F, 5'11", 12 00, 21-02-83, Marino, Lodigiani
+20, Saidu Alade Adeshina, F, 6'00", 11 09, 14-04-83, Lagos, Reggiana
+21, Davide Nicola, D, 5'10", 10 12, 05-03-73, Luserna San Giovanni, Genoa
+22, Daniele Tazza, G, 6'00", 12 01, 03-01-84, Terni, None
+23, Massimo Borgobello, F, 5'11", 12 01, 17-05-71, Sacile, Venezia
+24, Massimo Paci, D, 6'01", 11 07, 09-05-78, Fermo, Viterbese
+25, Adriano D'Astolfo, M, 5'09", 11 00, 20-03-84, Rome, Lodigiani
+26, Giulio Migliaccio, M, 5'07", 11 05, 23-06-81, Mugnano di Napoli, Giulgliano
+27, Mario Frick, F, 6'00", 12 04, 07-09-74, Chur, Verona
+28, Cristian Succhiarelli, D, , , 05-05-85, Terni, None
+29, Nicola Corrent, M, 5'10", 10 12, 29-03-79, Verona, Modena
+30, Alberto Savino, D, 6'00", 12 08, 01-09-73, Pompei, Lecce
+31, Mauro Zanotti, D, 5'11", 11 07, 14-01-85, Cordova, Boca Juniors
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Danilo Turazza, M, 6'00", 12 04, 16-06-80, Rome, Pro Patria
+6, Domenico Giampa', M, 5'06", 09 06, 15-02-77, Girifalco, Messina

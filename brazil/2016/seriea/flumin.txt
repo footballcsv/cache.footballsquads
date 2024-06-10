@@ -1,0 +1,55 @@
+=  Fluminense - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+2, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Internazionale
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+5, Pierre, BRA, M, 1.72, 67, 19-01-82, Itororó, Atlético Mineiro
+6, Giovanni, BRA, D, 1.82, 73, 23-06-89, Santos, Criciúma
+7, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Tombense
+8, Edson, BRA, M, 1.83, 75, 01-07-91, Touros, São Bernardo
+10, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Desportivo Brasil
+11, Wellington Silva, BRA, F, 1.70, 64, 06-01-93, Rio de Janeiro, Arsenal
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+13, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, None
+14, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, None
+15, Alan Fialho, BRA, D, 1.83, 75, 01-02-93, Rio de Janeiro, Audax-SP
+16, Mateus Norton, BRA, M, 1.73, 70, 19-07-96, Campo Bom, Aimoré
+17, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Al-Ahli [KSA]
+18, Marcos Calazans, BRA, F, 1.72, 66, 14-06-96, Duque de Caxias, None
+19, Alexis Rojas, PAR, F, 1.68, 64, 08-10-96, Asunción, Sportivo Luqueño
+20, Magno Alves, BRA, F, 1.75, 64, 13-01-76, Aporá, Ceará
+21, Danilinho, BRA, M, 1.64, 67, 11-03-87, Ponta Porã, Querétaro
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Getafe
+23, Dudu, BRA, M, 1.74, 72, 12-05-91, Curitiba, Coritiba
+25, Wellington Silva, BRA, D, 1.77, 88, 06-03-88, Rio de Janeiro, Resende
+26, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, ABC
+29, Marlon Freitas, BRA, M, 1.85, 78, 27-03-95, Magé, None
+30, William Matheus, BRA, D, 1.87, 85, 02-04-90, Rio de Janeiro, Toulouse
+31, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Ponte Preta
+32, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, None
+33, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Napoli
+34, Matheus, BRA, G, 1.89, 71, 10-02-95, Três Marias, None
+35, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, None
+39, Maranhão, BRA, M, 1.68, 63, 03-05-90, São Luis, Ypiranga
+44, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, None
+50, Claudio Aquino, ARG, M, 1.72, 67, 24-07-91, Burzaco, Independiente
+70, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, América Mineiro
+77, Marquinho, BRA, M, 1.82, 79, 03-07-86, Passo Fundo, Udinese
+89, Henrique Dourado, BRA, F, 1.86, 79, 15-09-89, Guarulhos, Mirassol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Higor, BRA, M, 1.77, 62, 02-06-93, Goiás, Goiás (On Loan)
+23, Felipe Amorim, BRA, F, 1.81, 76, 04-01-91, Brasilía, Coritiba (On Loan)
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Atlético Mineiro
+11, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Roma
+30, Eduardo, BRA, M, 1.78, 72, 07-06-93, Fortaleza, Estoril (On Loan)
+4, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, Barcelona (On Loan)
+21, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, Oeste (On Loan)
+19, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Re-Registered (70)
+28, Robert, BRA, M, 1.75, 70, 28-09-96, São Gonçalo, Paysandu (On Loan)
+27, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, Re-Registered (13)
+40, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Re-Registered (10)
+18, Samuel, BRA, F, 1.85, 83, 25-02-91, São Borja, Hatta Club (On Loan)

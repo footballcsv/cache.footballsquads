@@ -1,0 +1,45 @@
+=  Torino - Italian Serie A 2002/03
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Bucci, G, 5'11", 12 01, 13-03-69, Bologna, Perugia
+2, Luigi Garzya, D, 5'09", 11 05, 07-07-69, San Cesario, Bari
+3, Gianmarco Frezza, M, 5'10", 11 07, 12-09-75, Rome, Palermo
+4, Federico Balzaretti, M, 5'10", 11 00, 06-12-81, Turin, Siena
+5, Daniele Delli Carri, D, 6'00", 12 04, 18-09-71, Foggia, Piacenza
+6, Gianluca Comotto, D, 6'00", 12 04, 16-10-78, Ivrea, Vicenza
+7, José Maria Franco, F, 6'02", 12 04, 28-09-78, Montevideo, Peñarol
+8, Alessio Scarchilli, M, 5'11", 11 09, 10-09-72, Rome, Sampdoria
+9, Cristiano Lucarelli, F, 6'02", 13 05, 04-10-75, Livorno, Lecce
+10, Marco Ferrante, F, 5'09", 11 00, 04-02-71, Velletri, Internazionale
+11, Yksel Osmanovski, F, 5'08", 10 10, 24-02-77, Malmoe, Bordeaux
+14, Fabio Giordano, M, 5'10", 11 07, 06-02-83, Palermo, None
+15, Simone Vergassola, M, 5'09", 10 12, 24-01-76, La Spezia, Sampdoria
+16, Stefano Sorrentino, G, 6'01", 12 13, 28-03-79, Cava de' Tirreni, None
+17, Vincenzo Sommese, M, 5'09", 10 12, 22-06-76, Nola, Piacenza
+18, Giovanni Lopez, D, 5'11", 12 04, 23-05-67, Rome, Napoli
+19, Carlos Marinelli, M, 5'08", 11 06, 14-03-82, Buenos Aires, Middlesbrough
+20, Fabio Galante, D, 6'01", 12 08, 20-11-73, Montecatini, Internazionale
+21, Federico Magallanes, F, 6'00", 12 13, 22-08-76, Montevideo, Venezia
+22, Alex Manninger, G, 6'02", 13 03, 04-06-77, Salzburg, Espanyol
+23, Andrea Mantovani, D, 6'01", 12 01, 22-06-84, Turin, None
+24, Gaetano Masucci, D, 5'08", 09 11, 26-01-84, Avellino, None
+25, Ronaldo Vanin, M, 5'10", 11 05, 31-01-83, Sao Paulo, 
+26, Alessandro Cibocchi, D, 5'11", 11 07, 18-09-82, Terni, Ternana
+27, Claudio Patti Pochintesta, D, 6'01", 12 08, 03-09-83, Turin, None
+28, Alessandro Conticchio, M, 5'09", 11 05, 19-01-74, Celleno, Lecce
+29, Massimo Donati, M, 6'01", 11 11, 26-03-81, Sedegliano, Milan
+30, Luca Mezzano, D, 5'11", 11 00, 01-08-76, Turin, Chievo
+31, Paolo Castellini, D, 5'10", 11 05, 25-03-79, Brescia, Cremonese
+32, Francesco Statuto, M, 5'09", 10 10, 13-07-71, Rome, Piacenza
+33, Alberto Fontana, G, 5'10", 11 09, 02-12-74, Turin, Palermo
+34, Alessandro Campo, M, 6'00", 12 04, 21-02-84, Prato, None
+35, Stefano Fattori, D, 6'00", 11 07, 26-02-72, Verona, Vicenza
+36, Giovanni Marchese, D, 6'00", 11 11, 17-10-84, Caltanisetta, None
+51, Diego De Ascentis, M, 5'10", 12 01, 31-07-76, Como, Milan
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Gianluca Comotto, D, 6'00", 12 04, 16-10-78, Ivrea, Florentina Viola (On Loan)
+19, Riccardo Maspero, M, 5'09", 10 12, 19-02-70, Lodi, 
+26, Akeem Omolade, F, 5'09", 11 05, 04-03-83, Kaduna, 

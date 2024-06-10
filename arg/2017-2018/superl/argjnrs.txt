@@ -1,0 +1,52 @@
+=  Argentinos Juniors - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, Nueva Chicago
+2, Miguel Angel Torrén, ARG, D, 1.78, 73, 12-08-88, Villa Constitución, Cerro Porteño
+3, Guillermo Benítez, ARG, D, 1.70, 69, 08-12-93, Capital Federal, None
+4, Kevin Mac Allister, ARG, D, 1.72, 72, 07-11-97, Capital Federal, None
+5, Facundo Barboza, ARG, M, 1.70, 69, 31-07-96, San Fernando, None
+6, Leonel Mosevich, ARG, D, 1.87, 81, 04-02-97, Lomas de Zamora, None
+7, Javier Cabrera, URU, F, 1.68, 62, 18-03-92, Florida, Montevideo Wanderers
+8, Gaston Machín, ARG, M, 1.74, 73, 23-02-83, Capital Federal, Instituto (Córdoba)
+9, Beto da Silva, PER, F, 1.82, 69, 28-12-96, Lima, Grêmio
+10, Iván Colman, ARG, M, 1.72, 65, 06-05-95, San Martín, Boca Juniors
+11, Damián Batallini, ARG, M, 1.75, 77, 24-06-96, Don Torcuato, None
+12, Lucas Chávez, ARG, G, 1.79, 72, 09-08-95, Martín Coronado, None
+13, Enzo Ybáñez, ARG, D, 1.76, 66, 29-08-98, Tigre, None
+14, Juan Ignacio Méndez, ARG, M, 1.78, 70, 28-04-97, Luján de Cuyo, None
+15, Jonathan Sandoval, URU, D, 1.76, 75, 25-06-87, Montevideo, Liverpool [URU]
+17, Esteban Rueda, ARG, F, 1.73, 72, 28-01-96, Rosario, None
+18, Leonardo Pisculichi, ARG, M, 1.78, 77, 18-01-84, Rafael Castillo, Vitória
+19, Nicolás González, ARG, F, 1.80, 68, 06-04-98, Belén de Escobar, None
+20, Gastón Verón, ARG, F, 1.84, 82, 23-04-01, Puerto Vilelas, None
+21, Franco Marchetti, ARG, M, 1.70, 67, 25-04-98, Villa Martelli, None
+22, Sebastian Riquelme, ARG, M, 1.68, 71, 28-09-96, San Fernando, None
+23, Maximiliano Cavallotti, ARG, G, 1.87, 81, 15-11-84, Santa Teresa, Gimnasia y Esgrima (Jujuy)
+24, Gastón Bojanich, ARG, D, 1.91, 85, 23-04-85, Capital Federal, Tigre
+25, Fausto Vera, ARG, M, 1.76, 72, 26-03-00, Hurlingham, None
+26, Juan Camilo Saiz, COL, D, 1.86, 77, 01-03-92, Espinal, Independiente Medellín
+27, Nehuén Pérez, ARG, D, 1.84, 79, 24-06-00, Hurlingham, None
+28, Alexis Mac Allister, ARG, M, 1.74, 72, 24-12-98, La Pampa, None
+29, Francis Mac Allister, ARG, M, 1.76, 72, 30-10-95, Capital Federal, None
+30, Fausto Montero, ARG, M, 1.73, 72, 22-10-88, Paraná, Independiente Rivadavia
+31, Lucas Pizzatti, ARG, M, 1.70, 71, 13-09-98, Gregorio de Laferrère, None
+33, Leandro Finochietto, ARG, G, 1.87, 78, 25-04-97, Capital Federal, None
+88, Lucas Barrios, PAR, F, 1.87, 87, 13-11-84, San Fernando, Grêmio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Federico Anselmo, ARG, F, 1.86, 82, 17-04-94, Las Acequias, Unión (Santa Fe)
+11, Braian Romero, ARG, M, 1.75, 75, 15-06-91, San Isidro, Independiente
+25, Joaquín Laso, ARG, D, 1.85, 79, 04-07-90, Balcarce, Vélez Sarsfield
+4, Sebastián Martínez, URU, D, 1.83, 86, 11-04-83, Montevideo, Deportivo Morón (On Loan)
+31, Mauro Quiroga, ARG, F, 1.91, 82, 07-12-89, Concepción, Curicó Unido (On Loan)
+32, Agustín Alberione, ARG, D, 1.80, 70, 10-08-96, Piamonte, Independiente Rivadavia (On Loan)
+16, Gonzalo Piovi, ARG, D, 1.74, 67, 08-09-94, Capital Federal, Racing Club
+21, Ezequiel Ham, ARG, M, 1.73, 67, 10-03-94, Capital Federal, FC Gifu (On Loan)
+9, Fabricio Lenci, ARG, F, 1.82, 84, 24-02-84, San Nicolás, Los Andes
+22, Damián Batallini, ARG, M, 1.75, 77, 24-06-96, Don Torcuato, Re-Registered (11)
+24, Kevin Mac Allister, ARG, D, 1.72, 72, 07-11-97, Capital Federal, Re-Registered (4)
+27, Jonathan Cañete, ARG, F, 1.75, 63, 12-07-96, Saladas, De-Registered
+36, Nehuén Pérez, ARG, D, 1.84, 79, 24-06-00, Hurlingham, Re-Registered (27)

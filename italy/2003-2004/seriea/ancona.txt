@@ -1,0 +1,64 @@
+=  Ancona - Italian Serie A 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magnus Hedman, G, 6'04", 14 07, 19-03-73, Huddinge, Celtic
+2, Drazen Bolic, D, 6'00", 13 03, 12-09-71, Karlovac, Salernitana
+3, Fabio Bilica, D, 6'02", 12 04, 04-01-79, Campina Grande, Palermo
+4, Daniel Andersson, M, 5'10", 12 06, 28-08-77, Borgholm, Palermo
+5, Stefano Lombardi, D, 5'11", 11 11, 28-07-76, Pordenone, Internazionale
+6, Mauro Milanese, D, 6'01", 13 08, 17-09-71, Trieste, Perugia
+7, Daniele Berretta, M, 5'10", 10 12, 08-03-72, Rome, Atalanta
+8, Dino Baggio, M, 6'02", 12 08, 24-07-71, Camposampiero, Lazio
+9, Mario Jardel, F, 6'02", 12 00, 18-09-73, Fortaleza, Bolton W
+11, Luis Helguera, M, 5'09", 10 08, 09-06-76, El Ferrol, Udinese
+12, Marco Cerioni, G, 5'11", 12 00, 30-09-79, Senigallia, Taranto
+13, Gaimpiero Maini, M, 6'01", 12 11, 29-09-71, Rome, Milan
+14, Marco Esposito, D, 6'01", 12 13, 09-02-80, Massafra, Cittadella
+15, Milan Rapaić, M, 6'00", 13 01, 16-08-73, Nova Gradiška, Hajduk Split
+16, Matteo Rossi, D, 5'09", 11 11, 22-05-86, Senigallia, None
+17, Fabricio Lenci, F, 6'01", 11 00, 24-02-84, San Nicolas, 
+18, Roberto Goretti, M, 6'00", 11 05, 28-05-76, Perugia, Reggiana
+19, Goran Pandev, F, 6'00", 11 11, 27-07-83, Strumica, Internazionale
+21, Corrado Grabbi, F, 5'11", 12 04, 29-07-75, Turin, Blackburn R
+22, Pasquale Luiso, F, 5'10", 11 03, 01-10-69, Aversa, 
+23, Maurizio Ganz, F, 5'09", 11 00, 13-10-68, Tolmezzo, Fiorentina
+24, Luigi Sartor, D, 6'00", 12 01, 30-01-75, Treviso, Roma
+25, Elia Donzelli, F, 6'01", 12 08, 28-06-86, Chiaravalle, None
+26, Bruce Dombolo, M, 6'00", 12 08, 27-05-85, Marseille, Auxerre
+27, Cristian Bucchi, F, 6'01", 12 00, 30-05-77, Rome, Cagliari
+28, Luciano Zavagno, D, 6'00", 12 13, 06-08-77, Rosario, Derby Co
+29, Vincenzo Sommese, M, 5'09", 10 12, 22-06-76, Nola, Vicenza
+31, Sergio Marcon, G, 6'01", 12 11, 09-11-70, Cormons, Ternana
+32, Massimiliano Giacobbo, M, 5'09", 10 03, 15-07-74, Cittadella, Messina
+34, Giovanni Goracci, M, 6'01", 12 04, 25-07-84, Arezzo, None
+35, Daniele Fortunato, M, 5'09", 10 06, 09-01-84, Rome, None
+37, Andrea De Falco, M, 5'10", 11 03, 19-06-86, Ancona, None
+38, Andrea Cennini, F, 6'02", 10 08, 26-09-83, Fabriano, None
+39, Marco Di Porzio, D, 5'07", 11 00, 06-07-84, Cascia, None
+40, Daniele Di Tora, F, 5'09", 10 01, 19-09-84, Gaeta, Internazionale
+42, Sean Luca Sogliano, D, 5'09", 11 07, 28-02-71, Alessandria, Napoli
+79, Daniele Daino, D, 5'11", 12 00, 08-09-79, Alessandria, Milan
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Damiano Moscardi, M, 5'10", 11 11, 15-04-74, Prato, Vicenza (On Loan)
+22, Piergraziano Gori, G, , , 10-05-80, Taranto, Venezia
+1, Alessio Scarpi, G, 6'02", 12 13, 19-04-73, Venezia, Genoa
+8, Salvatore Russo, M, 5'07", 10 06, 12-07-71, Salerno, Salernitana
+9, Paolo Poggi, F, 5'11", 11 03, 16-02-71, Venice, Venezia
+10, Mads Jørgensen, M, 6'00", 10 10, 10-02-79, Ryomgaard, 
+11, Dario Baccin, D, 6'00", 11 00, 27-08-76, Verona, Ascoli
+12, Marco Roccati, G, 6'06", 13 05, 01-07-75, Pinerolo, Fiorentina
+20, Andrea Sussi, D, 5'09", 11 04, 23-10-73, Florence, Bologna
+25, Roberto Maltagliati, D, 6'02", 12 04, 07-04-69, Cuggiono, Cagliari
+27, Dario Hubner, F, 6'00", 12 01, 28-04-67, Trieste, Perugia
+33, Pietro Parente, M, 5'11", 11 09, 09-11-71, Barletta, Venezia
+18, Eusebio Di Francesco, M, 5'10", 11 03, 08-09-69, Pescara, Perugia
+21, Wiliam Viali, D, 6'01", 12 06, 16-11-74, Vaprio d'Adda, Palermo
+84, Alessandro Potenza, D, 6'00", 12 00, 08-03-84, San Severo, Internazionale
+24, Marko Perović, M, 6'01", 11 11, 24-03-72, Leskovac, Napoli
+26, Salvatore Bruno, F, 6'00", 11 09, 09-11-79, Naples, Bari
+16, Davide Carrus, M, 5'07", 10 12, 16-03-79, Cagliari, 
+17, Daniele Degano, F, 5'11", 11 09, 21-09-82, Crema, 
+30, Gabriele Sollitto, G, , , 11-05-86, Nato, 

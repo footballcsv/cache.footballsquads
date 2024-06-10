@@ -1,0 +1,42 @@
+=  Barcelona - Spanish La Liga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.85, 82, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, Douglas, BRA, D, 1.72, 63, 06-08-90, Monte Alegre, São Paulo
+3, Gerard Piqué, ESP, D, 1.92, 85, 02-02-87, Barcelona, Manchester U
+4, Ivan Rakitić, CRO, M, 1.84, 79, 10-03-88, Rheinfelden, Sevilla
+5, Sergio Busquets, ESP, M, 1.89, 73, 16-07-88, Sabadell, Barcelona B
+6, Daniel Alves, BRA, D, 1.73, 64, 06-05-83, Juazeiro, Sevilla
+7, Arda Turan, TUR, M, 1.76, 72, 30-01-87, Fatih, Atlético Madrid
+8, Andrés Iniesta, ESP, M, 1.70, 65, 11-05-84, Fuentealbilla, Barcelona B
+9, Luis Suárez, URU, F, 1.81, 81, 24-01-87, Salto, Liverpool
+10, Lionel Messi, ARG, M, 1.69, 67, 24-06-87, Santa Fe, Barcelona B
+11, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Santos
+12, Rafinha, BRA, M, 1.77, 75, 12-02-93, Bari, Barcelona B
+13, Claudio Bravo, CHI, G, 1.84, 84, 13-04-83, Viluco, Real Sociedad
+14, Javier Mascherano, ARG, M, 1.78, 77, 08-06-84, Rosario, Liverpool
+15, Marc Bartra, ESP, D, 1.84, 75, 15-01-91, San Jaime dels Domenys, Barcelona B
+17, Munir El Haddadi, ESP, F, 1.72, 62, 01-09-95, El Escorial, Barcelona B
+18, Jordi Alba, ESP, D, 1.65, 63, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Sandro Ramírez, ESP, F, 1.72, 60, 09-07-95, Las Palmas, Barcelona B
+20, Sergi Roberto, ESP, M, 1.73, 70, 07-02-92, Reus, Barcelona B
+21, Adriano, BRA, M, 1.72, 67, 26-10-84, Curitiba, Sevilla
+22, Aleix Vidal, ESP, M, 1.76, 70, 21-08-89, Valls, Sevilla
+23, Thomas Vermaelen, BEL, D, 1.82, 75, 14-11-85, Kapellen, Arsenal
+24, Jérémy Mathieu, FRA, D, 1.90, 82, 29-10-83, Luxeuil-les-Bains, Valencia
+25, Jordi Masip, ESP, G, 1.80, 72, 03-01-89, Sabadell, Barcelona B
+26, Sergi Samper, ESP, M, 1.81, 73, 20-01-95, Barcelona, Barcelona B
+27, Juan Cámara, ESP, M, 1.80, 66, 13-02-94, Jaén, Villarreal B
+28, Gerard Gumbau, ESP, M, 1.88, 77, 18-12-94, Campllong, Girona B
+31, José Aurelio Suárez, ESP, G, 1.87, 85, 18-12-95, Gijón, Barcelona B
+34, Wilfrid Kaptoum, CMR, M, 1.74, 71, 07-07-96, Douala, Barcelona B
+35, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Barcelona B
+36, Dani Romera, ESP, F, 1.75, 66, 23-08-95, Almería, Almería B
+37, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Alex Grimaldo, ESP, D, 1.70, 60, 20-09-95, Valencia, Benfica
+29, David Babunski, MKD, M, 1.76, 68, 01-03-94, Skopje, Crvena Zvezda
+33, Aitor Cantalapiedra, ESP, F, 1.77, 67, 10-02-96, Barcelona, Villarreal B

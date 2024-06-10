@@ -1,0 +1,53 @@
+=  Birmingham City - English Football League Championship 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Butland, ENG, G, 1.92, 95, 10-03-93, Bristol, Stoke C
+2, Stephen Carr, IRL, D, 1.76, 78, 29-08-76, Dublin, Newcastle U
+3, David Murphy, ENG, D, 1.83, 84, 01-03-84, Hartlepool, Hibernian
+4, Stephen Caldwell, SCO, D, 1.80, 72, 12-09-80, Stirling, Wigan Ath
+5, Pablo, ESP, D, 1.92, 86, 03-08-81, Madrigueras, WBA
+6, Curtis Davies, ENG, D, 1.88, 76, 15-03-85, Waltham Forest, Aston Villa
+7, Chris Burke, SCO, M, 1.75, 68, 02-12-83, Glasgow, Cardiff C
+8, Hayden Mullins, ENG, M, 1.80, 67, 27-03-79, Reading, Portsmouth
+9, Marlon King, JAM, F, 1.85, 78, 26-04-80, Dulwich, Coventry C
+10, Darren Ambrose, ENG, M, 1.83, 78, 29-02-84, Harlow, Crystal Palace
+11, Peter Løvenkrands, DEN, F, 1.81, 75, 29-01-80, Hørsholm, Newcastle U
+12, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, West Ham U
+13, Colin Doyle, IRL, G, 1.96, 91, 12-08-85, Cork, None
+14, Morgaro Gomis, FRA, M, 1.75, 70, 14-07-85, Le Blanc-Mesnil, Dundee U
+15, Wade Elliott, ENG, M, 1.78, 65, 14-12-78, Southampton, Burnley
+16, Koby Arthur, GHA, F, 1.73, 64, 31-01-96, Kumasi, None
+18, Keith Fahey, IRL, M, 1.78, 80, 15-01-83, Dublin, St Patrick's Ath
+19, Nikola Žigić, SRB, F, 2.02, 90, 25-09-80, Bačka Topola, Valencia
+20, Wes Thomas, ENG, F, 1.78, 70, 23-01-87, Barking, Bournemouth
+21, Akwasi Asante, GHA, F, 1.83, 83, 06-09-92, Amsterdam, Haarlem
+22, Nathan Redmond, ENG, M, 1.73, 75, 06-03-94, Birmingham, None
+23, Jonathan Spector, USA, D, 1.82, 79, 01-03-86, Arlington Heights, West Ham U
+24, Will Packwood, USA, D, 1.91, 80, 21-05-93, Concord, None
+25, Jack Deaman, ENG, D, 1.90, 75, 17-05-93, Camden, Wrexham
+26, Oliver Lee, ENG, M, 1.81, 80, 11-07-91, London, Barnet
+27, Mitch Hancox, ENG, D, 1.78, 71, 09-11-93, Solihull, None
+28, Paul Caddis, SCO, D, 1.70, 67, 19-04-88, Irvine, Swindon T
+30, Paul Robinson, ENG, D, 1.75, 73, 14-12-78, Watford, Bolton W
+31, Emmitt Delfouneso, ENG, D, 1.88, 82, 28-01-94, Birmingham, None
+32, Shane Ferguson, NIR, M, 1.80, 67, 12-07-91, Derry, Newcastle U
+33, Callum Reilly, ENG, M, 1.85, 76, 03-10-93, Warrington, None
+34, Josh Hawker, ENG, M, 1.85, 82, 20-01-94, , None
+35, Reece Hales, ENG, F, 1.85, 80, 12-02-95, Birmingham, None
+36, James Fry, ENG, D, 1.81, 78, 03-02-95, Birmingham, None
+37, Nick Townsend, ENG, G, 1.81, 91, 01-11-94, Solihull, None
+38, Marcel Henry-Francis, ENG, F, 1.85, 84, 25-01-93, London, QPR
+39, Eddy Gnahoré, FRA, M, 1.88, 82, 14-11-93, Paris, Châteauroux
+40, Ryan Higgins, ENG, D, 1.77, 72, 01-05-94, Liverpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Adam Rooney, IRL, F, 1.78, 78, 21-04-88, Dublin, Swindon T (On Loan)
+31, James Hurst, ENG, D, 1.83, 77, 31-01-92, Sutton Coldfield, WBA
+29, Leroy Lita, ENG, F, 1.70, 75, 28-12-84, Brazzaville, Swansea C
+26, David Lucas, ENG, G, 1.88, 84, 23-11-77, Preston, Fleetwood T
+16, Ben Gordon, ENG, D, 1.80, 79, 02-03-91, Bradford, Chelsea
+32, Pape Bouba Diop, SEN, M, 1.84, 98, 28-01-78, Dakar, 
+20, Jake Jervis, ENG, F, 1.93, 82, 17-09-91, Birmingham, Elazığspor
+29, Rob Hall, ENG, F, 1.88, 66, 20-10-93, Aylesbury, West Ham U

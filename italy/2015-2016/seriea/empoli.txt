@@ -1,0 +1,45 @@
+=  Empoli - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maurizio Pugliesi, ITA, G, 1.87, 79, 27-12-76, Pontedera, Pisa
+2, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Carpi
+3, Marco Zambelli, ITA, D, 1.80, 77, 22-08-85, Gavardo, Brescia
+4, Samuele Damiani, ITA, M, 1.75, 72, 30-01-98, Poggibonsi, None
+5, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Milan
+6, Luca Bittante, ITA, D, 1.84, 65, 14-08-93, Bassano del Grappa, Fiorentina
+7, Massimo Maccarone, ITA, F, 1.80, 70, 06-09-79, Galliate, Sampdoria
+8, Nicola Mosti, ITA, M, 1.77, 70, 07-02-98, Pietrasanta, None
+9, Levan Mchedlidze, GEO, F, 1.91, 87, 24-03-90, Tbilisi, None
+11, Daniele Croce, ITA, M, 1.75, 68, 09-09-82, Giulianova, Sorrento
+12, Gabriel Meli, ITA, G, 1.88, 75, 05-02-99, Bagno a Ripoli, Prato
+13, Raffaele Maiello, ITA, M, 1.77, 73, 10-07-91, Acerra, Napoli
+14, Assane Diousse, SEN, M, 1.75, 68, 20-09-97, Dakar, None
+15, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Parma
+17, Piotr Zieliński, POL, M, 1.80, 75, 20-05-94, Ząbkowice Śląskie, Udinese
+19, Tommaso Fantacci, ITA, M, 1.75, 70, 17-03-97, Lucca, None
+20, Manuel Pucciarelli, ITA, F, 1.74, 63, 17-06-91, Prato, None
+21, Mário Rui, POR, D, 1.70, 67, 27-05-91, Sines, Parma
+22, Alessandro Piu, ITA, F, 1.85, 77, 30-07-96, Udine, None
+23, Alberto Pelagotti, ITA, G, 1.86, 81, 09-03-89, Empoli, None
+24, Uroš Ćosić, SRB, D, 1.86, 82, 24-10-92, Belgrade, Pescara
+26, Lorenzo Tonelli, ITA, D, 1.84, 79, 17-01-90, Florence, None
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+31, Michele Camporese, ITA, D, 1.86, 75, 19-05-92, Pisa, Fiorentina
+32, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Roma
+33, Rade Krunić, BIH, M, 1.84, 74, 07-10-93, Foča, Borac Čačak
+37, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, Sassuolo
+39, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Rubin Kazan
+55, Alessandro Giacomel, ITA, G, 1.95, 80, 09-07-98, Padua, None
+71, Alberto Picchi, ITA, M, 1.85, 69, 12-08-97, Livorno, None
+77, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Juventus
+99, Romani Tchanturia, GEO, F, 1.85, 70, 09-02-96, Tbilisi, Lokomotivi Tbilisi
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Joshua Brillante, AUS, M, 1.77, 73, 25-03-93, Bundaberg, Fiorentina
+8, Franco Signorelli, VEN, M, 1.78, 68, 01-01-91, Mérida, Ternana (On Loan)
+55, Luca Martinelli, ITA, D, 1.85, 74, 20-12-88, Milan, Messina
+12, Ronaldo Pompeu, BRA, M, 1.75, 70, 08-04-90, Caxambu do Sul, Lazio
+4, Kastriot Dërmaku, ALB, D, 1.95, 90, 15-01-92, Scandiano, Pavia (On Loan)
+19, Federico Barba, ITA, D, 1.88, 77, 01-09-93, Rome, Stuttgart (On Loan)

@@ -1,0 +1,47 @@
+=  Iraklis - Greek Super League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Giorgios Badis, GRE, G, 1.88, 74, 30-04-85, Thessaloniki, None
+2, Grigoris Papazaharias, GRE, D, 1.86, 75, 20-03-85, Epanomi, None
+3, Giannis Floros, GRE, D, , , 15-01-89, , None
+4, Tassos Katsabis, GRE, D, 1.88, 79, 30-07-73, Athens, PAOK
+5, Giorgos Katsikas, GRE, D, 1.87, 84, 14-06-90, Thessaloniki, None
+6, André Marques, POR, D, 1.82, 78, 01-08-87, Viseu, Sporting CP
+8, Francisco Martos, ESP, M, 1.78, 73, 04-01-84, Alamedilla, Málaga B
+9, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, None
+10, Bogdan Mara, ROU, F, 1.78, 63, 29-09-77, Deva, CFR Cluj
+11, Carlinhos, BRA, M, 1.82, 82, 02-08-84, Taquaritinga, Figueirense
+12, Ivan Bošnjak, CRO, F, 1.79, 74, 06-02-79, Vinkovci, KRC Genk
+13, Fredy Vera, PAR, D, 1.86, 81, 15-01-86, Asunción, Rubio Ñú
+16, Giorgos Ioannidis, GRE, D, 1.73, 64, 04-05-88, Serres, None
+17, Emmanuel Papasterianos, GRE, M, 1.79, 72, 15-08-87, Halkidiki, None
+18, Kostas Giannoulis, GRE, D, 1.83, 73, 09-12-87, Katerini, Pierikos
+19, Dimitris Yiantsis, GRE, F, 1.72, 67, 04-03-88, Goumenissa, None
+20, Victoraş Iacob, ROU, F, 1.91, 84, 14-10-80, Râmnicu-Vâlcea, CS Otopeni
+21, Denis Epstein, GER, M, 1.80, 71, 02-07-86, Cologne, Kickers Offenbach
+23, Haralabos Perperidis, GRE, D, 1.78, 73, 29-04-86, Kalamonas, Pandramaikos
+27, Matías Lequi, ARG, D, 1.91, 79, 13-05-81, Rosario, Celta Vigo
+28, Nuno Piloto, POR, M, 1.77, 73, 19-03-82, Viseu, Académica
+29, Lucas Roberto Rimoldi, ARG, M, 1.84, 78, 10-08-80, Córdoba, Panserraikos
+31, Ilias Melkas, GRE, G, 1.90, 84, 07-10-89, Pogradec, None
+32, Mauro Milano, ARG, F, 1.68, 67, 18-01-84, Chacabuco, Asteras Tripolis
+33, Ahilleas Sarakatsanos, GRE, D, 1.81, 75, 03-11-82, Trikalas, Kerkyra
+36, Paschalis Voutsias, GRE, M, 1.81, 72, 23-03-90, Thessaloniki, None
+66, Daniel Fernandes, POR, G, 1.93, 99, 25-09-83, Edmonton [CAN], Bochum
+80, Daigo Kobayashi, JPN, M, 1.78, 70, 19-02-83, Shizuoka, Omiya Ardija
+84, Sebastián García, ARG, M, 1.74, 73, 27-01-84, Santa Fe, Aris
+87, Ilias Makris, GRE, G, 1.92, 82, 06-08-87, , Thermaikos
+88, Stelios Eliadis, GRE, M, 1.78, 78, 03-06-86, Thessaloniki, PAOK
+99, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, AEK
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Tassos Agritis, GRE, F, 1.76, 75, 16-04-81, Mytilene, OFI
+14, Aleksandar Vuković, SRB, M, 1.86, 82, 25-08-79, Banja Luka, Korona Kielce
+10, Nicolae Dică, ROU, M, 1.81, 73, 09-05-80, Piteşti, Catania
+30, Wojciech Kowalewski, POL, G, 1.89, 86, 11-05-77, Białystok, Sibir Novosibirsk
+6, Serge Dié, CIV, M, 1.72, 67, 04-10-77, Abidjan, Kavala
+13, Costas Foufoulas, GRE, D, 1.83, 83, 25-10-84, , Olympiakos Volos
+24, Samuele Dalla Bona, ITA, M, 1.85, 76, 06-02-81, Sandonà di Pieve, Napoli
+7, Sharbel Touma, SWE, F, 1.78, 72, 25-03-79, Beirut, Djurgårdens IF

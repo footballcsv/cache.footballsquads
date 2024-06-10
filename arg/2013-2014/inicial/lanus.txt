@@ -1,0 +1,41 @@
+=  Lanús - Argentinian Primera División 2013/14 Inicial
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Marchesin, ARG, G, 1.88, 83, 16-03-88, González Chávez, Huracán (Tres Arroyos)
+2, Paolo Goltz, ARG, D, 1.84, 80, 12-05-85, Hasenkamp, Huracán
+3, Luciano Balbi, ARG, D, 1.72, 72, 04-04-89, Rosario, None
+4, Carlos Araujo, ARG, D, 1.77, 78, 19-11-81, Godoy Cruz, AEK
+5, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, None
+6, Maximiliano Velázquez, ARG, D, 1.78, 72, 14-03-80, Concepción del Uruguay, Independiente
+7, Lautaro Acosta, ARG, M, 1.68, 68, 14-03-88, Glew, Sevilla
+8, Fernando Barrientos, ARG, M, 1.74, 71, 17-11-91, Lanús, None
+9, Santiago Silva, URU, F, 1.86, 73, 09-12-80, Montevideo, Boca Juniors
+10, Cristian Chávez, ARG, M, 1.68, 69, 16-06-86, Pilar, Boca Juniors
+11, Jorge Váldez, ARG, M, 1.76, 72, 26-05-94, San Vicente, None
+12, Aín Acosta Luna, ARG, G, 1.90, 77, 09-09-94, Rawson, None
+13, Marcelo Herrera, ARG, D, 1.85, 78, 26-02-92, Ledesma, None
+14, Jorge Pereyra Díaz, ARG, F, 1.78, 73, 05-08-90, La Rioja, Ferro Carril Oeste
+15, Leandro Somoza, ARG, M, 1.85, 77, 26-01-81, Capital Federal, Boca Juniors
+16, Víctor Ayala, PAR, M, 1.77, 70, 01-01-88, Asunción, Libertad
+17, Marcos Astina, ARG, M, 1.70, 63, 21-01-96, Capital Federal, None
+18, Ismael Blanco, ARG, F, 1.79, 75, 19-01-83, Santa Elena, 1860 Munich
+21, Nicolás Pasquini, ARG, D, 1.76, 69, 02-01-91, Los Surgentes, None
+22, Jorge Ortíz, ARG, M, 1.80, 69, 20-06-84, Castelar, Arsenal [ARG]
+23, Oscar Benítez, ARG, M, 1.83, 80, 14-01-93, Adrogué, None
+24, Carlos Izquierdoz, ARG, D, 1.86, 85, 03-11-88, San Carlos de Bariloche, None
+25, Lucas Vera Piris, ARG, F, 1.77, 77, 02-01-94, Lanús, None
+26, Lucas Melano, ARG, F, 1.86, 72, 01-03-93, Hernando, Belgrano (Córdoba)
+27, Matías Martínez, ARG, D, 1.82, 82, 24-03-88, Resistencia, Racing Club
+28, Nicolás Avellaneda, ARG, G, 1.91, 81, 24-02-93, Río Tercero, None
+29, Lucas Mancinelli, ARG, M, 1.68, 68, 06-07-89, La Plata, Atlanta
+30, Bruno Vides, ARG, F, 1.78, 76, 20-02-93, Salta, None
+31, Esteban Andrada, ARG, G, 1.93, 81, 26-01-91, Mendoza, None
+32, Maximiliano Cáceres, ARG, M, 1.83, 76, 08-05-95, Mendoza, None
+33, Marcelino Moreno, ARG, F, 1.68, 65, 25-06-95, Lanús, None
+34, Facundo Monteseirín, ARG, D, 1.84, 82, 12-03-95, Cutral Có, None
+35, Ignacio Bailone, ARG, F, 1.90, 80, 20-01-94, Rosario, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Silvio Romero, ARG, F, 1.77, 76, 22-07-88, Córdoba, Rennes (On Loan)

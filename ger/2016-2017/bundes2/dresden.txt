@@ -1,0 +1,36 @@
+=  Dynamo Dresden - German 2.Bundesliga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Markus Schubert, GER, G, 1.84, 81, 12-06-98, Freiberg, None
+2, Akaki Gogia, GER, M, 1.77, 73, 18-01-92, Rustavi, Brentford
+3, Marc Wachs, GER, D, 1.80, 75, 10-07-95, Wiesbaden, Mainz II
+4, Giuliano Modica, ARG, D, 1.83, 83, 12-03-91, Córdoba, Kickers Offenbach
+5, Manuel Konrad, GER, M, 1.87, 84, 14-04-88, Illertissen, FSV Frankfurt
+6, Marco Hartmann, GER, M, 1.90, 88, 25-02-88, Leinefelde, Hallescher FC
+7, Niklas Kreuzer, GER, D, 1.78, 73, 20-02-93, Munich, RW Erfurt
+8, Nils Teixeira, GER, D, 1.76, 65, 10-07-90, Bonn, FSV Frankfurt
+10, Marvin Stefaniak, GER, M, 1.78, 75, 03-02-95, Hoyerswerda, Borea Dresden
+11, Aias Aosman, SYR, M, 1.75, 74, 01-01-93, Al-Qamishli, Jahn Regensburg
+14, Jean-François Kornetzky, FRA, G, 1.91, 82, 28-07-82, Wissembourg, RW Erfurt
+16, Philip Heise, GER, D, 1.84, 78, 20-06-91, Düsseldorf, Stuttgart
+17, Andreas Lambertz, GER, M, 1.75, 69, 15-10-84, Hackenbroich, Fortuna Düsseldorf
+18, Jannik Müller, GER, D, 1.86, 77, 18-01-94, Adenau, Köln II
+20, Fabian Müller, GER, D, 1.73, 68, 06-11-86, Bad Reichenhall, Erzgebirge Aue
+21, Hendrik Starostzik, GER, D, 1.89, 83, 28-03-91, Marburg, Stuttgarter Kickers
+23, Florian Ballas, GER, D, 1.96, 86, 08-01-93, Saarbrücken, FSV Frankfurt
+24, Patrick Wiegers, GER, G, 1.87, 86, 19-04-90, Deggendorf, Jahn Regensburg
+25, Marvin Schwäbe, GER, G, 1.90, 86, 25-04-95, Dieburg, 1899 Hoffenheim
+28, Niklas Landgraf, GER, D, 1.77, 63, 01-03-96, Chemnitz, None
+29, Robin Fluß, GER, M, 1.82, 77, 07-05-96, Freital, None
+30, Stefan Kutschke, GER, F, 1.94, 89, 03-11-88, Dresden, Nürnberg
+31, Marcos Álvarez, GER, F, 1.79, 77, 30-09-91, Gelnhausen, Osnabrück
+33, Marcel Hilßner, GER, M, 1.83, 79, 30-01-95, Leipzig, Werder Bremen
+36, Niklas Hauptmann, GER, M, 1.76, 63, 27-06-96, Cologne, None
+37, Pascal Testroet, GER, F, 1.84, 76, 26-09-90, Bocholt, Arminia Bielefeld
+39, Noah Awassi, GER, D, 1.91, 80, 10-03-98, , None
+40, Erich Berko, GER, M, 1.79, 80, 06-09-94, Ostfildern-Ruit, Stuttgarter Kickers
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Tim Väyrynen, FIN, F, 1.90, 81, 30-03-93, Espoo, Hansa Rostock

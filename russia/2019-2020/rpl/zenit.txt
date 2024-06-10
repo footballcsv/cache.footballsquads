@@ -1,0 +1,36 @@
+=  Zenit St. Petersburg - Russian Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Hamburg
+4, Yordan Osorio, VEN, D, 1.89, 77, 10-05-94, Barinas, FC Porto
+5, Wilmar Barrios, COL, M, 1.79, 70, 16-10-93, Cartagena, Boca Juniors
+6, Branislav Ivanović, SRB, D, 1.88, 86, 22-02-84, Sremska Mitrovica, Chelsea
+7, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Rubin Kazan
+8, Malcom, BRA, F, 1.71, 65, 26-02-97, São Paulo, Barcelona
+10, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Independiente
+11, Sebastián Driussi, ARG, F, 1.78, 77, 09-02-96, San Justo, River Plate
+14, Daler Kuzyayev, RUS, M, 1.90, 86, 15-01-93, Orenburg, Terek Grozny
+15, Vyacheslav Karavaev, RUS, D, 1.75, 67, 20-05-95, Moscow, Vitesse
+17, Oleg Shatov, RUS, M, 1.73, 64, 29-07-90, Nizhny Tagil, Anzhi Makhachkala
+18, Yuriy Zhirkov, RUS, M, 1.80, 75, 20-08-83, Tambov, Dynamo Moscow
+19, Igor Smolnikov, RUS, D, 1.78, 70, 08-08-88, Moscow, FC Krasnodar
+21, Aleksandr Erokhin, RUS, M, 1.93, 79, 13-10-89, Barnaul, FC Rostov
+22, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Spartak Moscow
+24, Emanuel Mammana, ARG, D, 1.85, 73, 10-02-96, Merlo, Lyon
+27, Magomed Ozdoev, RUS, M, 1.82, 75, 05-11-92, Grozny, Rubin Kazan
+38, Leon Musayev, RUS, M, 1.79, 67, 25-01-99, St. Petersburg, Zenit-2
+41, Mikhail Kerzhakov, RUS, G, 1.89, 84, 28-01-87, Kingisepp, Anzhi Makhachkala
+44, Yaroslav Rakytskyy, UKR, D, 1.80, 70, 03-08-89, Pershotravensk, Shakhtar Donetsk
+78, Aleksandr Vasyutin, RUS, G, 1.90, 84, 04-03-95, St. Petersburg, Sarpsborg 08
+91, Aleksey Sutormin, RUS, M, 1.87, 78, 10-01-94, St. Petersburg, Rubin Kazan
+99, Andrey Lunev, RUS, G, 1.89, 80, 13-11-91, Moscow, FC Ufa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, PFC Sochi
+29, Anton Zabolotniy, RUS, F, 1.88, 84, 13-06-91, Lipetsk, PFC Sochi
+77, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Lokomotiv Moscow
+23, Miha Mevlja, SVN, D, 1.90, 83, 12-06-90, Ljubljana, PFC Sochi
+32, Matías Kranevitter, ARG, M, 1.78, 74, 21-05-93, Yerba Buena, Monterrey
+20, Róbert Mak, SVK, M, 1.78, 71, 08-03-91, Bratislava, Konyaspor

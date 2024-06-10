@@ -1,0 +1,50 @@
+=  Colo-Colo - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brayan Cortés, CHI, G, 1.86, 77, 11-03-95, Iquique, Deportes Iquique
+2, Jeyson Rojas, CHI, D, 1.85, 73, 23-01-02, Talca, None
+3, Daniel Gutiérrez, CHI, D, 1.76, 70, 16-02-03, Arica, None
+4, Alan Saldivia, URU, D, 1.80, 80, 06-04-02, Rivera, Montevideo City Torque
+5, Leonardo Gil, ARG, M, 1.76, 68, 31-05-91, Río Gallegos, Al-Ittihad [KSA]
+6, César Fuentes, CHI, M, 1.73, 70, 12-04-93, Rancagua, Universidad Católica
+7, Carlos Palacios, CHI, F, 1.82, 75, 20-07-00, Renca, Vasco da Gama
+8, Esteban Pavez, CHI, M, 1.80, 76, 01-05-90, Santiago, Tijuana
+9, Damián Pizarro, CHI, F, 1.87, 75, 28-03-05, Santiago, None
+10, Pablo Parra, CHI, M, 1.76, 70, 23-07-94, Chillán, Puebla
+11, Marcos Bolados, CHI, F, 1.68, 72, 28-02-96, Antofagasta, Deportes Antofagasta
+12, Eduardo Villanueva, CHI, G, 1.85, 78, 11-10-04, Melipilla, None
+13, Bruno Gutiérrez, CHI, D, 1.84, 68, 25-06-02, La Calera, None
+14, Diego Plaza, CHI, M, 1.78, 73, 02-01-03, Puento Alto, None
+15, Emiliano Amor, ARG, D, 1.83, 80, 16-05-95, Capital Federal, Vélez Sarsfield
+16, Darío Lezcano, PAR, F, 1.78, 72, 30-06-90, Asunción, Juárez
+17, Fábian Castillo, COL, F, 1.71, 68, 17-06-92, Cali, Tijuana
+18, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Vélez Sarsfield
+19, Matías Pinto, CHI, D, 1.75, 67, 11-09-04, -, None
+20, Alexander Oroz, CHI, F, 1.68, 59, 15-12-02, San Bernardo, None
+21, Erick Wiemberg, CHI, D, 1.77, 73, 20-06-94, Valdivia, Unión La Calera
+22, Leandro Benegas, ARG, F, 1.79, 78, 27-08-88, Godoy Cruz, Independiente
+23, Ramiro González, ARG, D, 1.83, 83, 21-11-90, Rosario, Platense
+24, Jordhy Thompson, CHI, D, 1.72, 65, 10-08-04, Antofagasta, None
+25, José Martín Ballesteros, CHI, G, 1.92, 70, 04-05-02, Las Condes, Universidad Católica
+26, Matías Moya, ARG, M, 1.67, 63, 26-03-98, Neuquén, Ñublense
+28, Lucas Soto, CHI, M, 1.73, 62, 24-02-03, Quillota, None
+29, Miguel Toledo, CHI, D, 1.85, 76, 31-01-04, -, None
+30, Fernando De Paul, ARG, G, 1.83, 84, 25-04-91, Álvarez, Everton (Viña del Mar)
+31, Matías de los Santos, URU, D, 1.84, 83, 22-11-92, Salto, Vélez Sarsfield
+32, Óscar Opazo, CHI, D, 1.68, 68, 18-10-90, Concón, Racing Club
+33, Nicolás Garrido, CHI, M, 1.90, 75, 19-07-05, -, None
+34, Vicente Pizarro, CHI, M, 1.72, 67, 05-11-02, Vitacura, None
+35, Francisco Rivera, CHI, F, 1.76, 67, 02-02-04, -, None
+36, Benjamín Morales, CHI, G, 1.85, 78, 12-02-04, -, None
+37, Maximiliano Falcón, URU, D, 1.79, 80, 01-05-97, Paysandú, Rentistas
+38, Dylan Portilla, CHI, M, 1.74, 68, 25-03-04, -, None
+40, Victor Campos, CHI, D, 1.80, 74, 26-01-06, -, None
+41, Felipe Valdivia, CHI, M, 1.64, 60, 10-01-06, -, None
+42, Francisco Marchant, CHI, M, 1.70, 67, 31-07-06, -, None
+43, Benjamín Castro, CHI, F, -, -, 10-03-06, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Marco Rojas, NZL, M, 1.66, 63, 05-11-91, Hamilton [NZL], 
+27, Pedro Navarro, CHI, D, 1.75, 61, 30-03-01, Santiago, O'Higgins (On Loan)

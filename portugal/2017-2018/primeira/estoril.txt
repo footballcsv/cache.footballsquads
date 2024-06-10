@@ -1,0 +1,43 @@
+=  Estoril - Portuguese Primeira Liga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thierry Graça, CPV, G, 1.94, 87, 27-01-95, Mindelo, Benfica
+2, Ailton, BRA, D, 1.81, 70, 16-03-95, Pilar, Stuttgart
+3, Lucão, BRA, D, 1.85, 78, 23-03-96, Brasília, São Paulo
+4, Pedro Monteiro, POR, D, 1.92, 85, 30-01-94, Paços de Ferreira, Sporting Braga
+5, Joel Ferreira, POR, D, 1.80, 72, 10-01-92, Valongo, Mafra
+6, Dankler, BRA, D, 1.87, 80, 24-01-92, Salvador, Botafogo
+7, Mano, POR, D, 1.68, 60, 09-04-87, Lisbon, Levadiakos
+8, Eduardo, BRA, M, 1.78, 72, 07-06-93, Fortaleza, Fluminense
+9, Bruno Gomes, BRA, F, 1.80, 73, 19-07-96, São Paulo, Internacional
+10, Kléber, BRA, F, 1.87, 79, 02-05-90, Estância Velha, Beijing Guoan
+11, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Cruzeiro
+12, Fernando Fonseca, POR, D, 1.82, 75, 14-03-97, Porto, FC Porto
+13, Gonçalo, POR, M, 1.84, 79, 15-11-86, Lamego, Desportivo das Aves
+17, Lucas Evangelista, BRA, M, 1.81, 79, 06-05-95, Limeira, Udinese
+19, Duarte Valente, POR, M, 1.82, 75, 02-11-99, Estoril, None
+20, Matheus Índio, BRA, M, 1.70, 70, 28-02-96, Rio de Janeiro, Vasco da Gama
+21, Thiago Cardoso, BRA, D, 1.78, 78, 04-08-91, Juiz de Fora, Macaé
+22, André Claro, POR, F, 1.83, 75, 31-03-91, Vila Nova de Gaia, Vitória Setúbal
+25, Charalambos Kyriakou, CYP, M, 1.75, 63, 09-02-95, Limassol, Apollon Limassol
+28, Gonçalo Brandão, POR, D, 1.82, 72, 09-10-86, Lisbon, Belenenses
+29, Jorman Aguilar, PAN, F, 1.81, 71, 11-09-94, Ciudad de Panamá, Olhanense
+30, Abner, BRA, D, 1.71, 70, 30-05-96, Londrina, Real Madrid B
+31, José Moreira, POR, G, 1.84, 80, 20-03-82, Porto, Olhanense
+32, Rafik Halliche, ALG, D, 1.87, 77, 02-09-86, Algiers, Qatar SC
+33, Victor Andrade, BRA, F, 1.71, 60, 30-09-95, Aracajú, Benfica
+40, Renan Ribeiro, BRA, G, 1.88, 84, 23-03-90, Ribeirão Preto, São Paulo
+77, Ewandro, BRA, F, 1.74, 61, 15-03-96, Recife, Udinese
+87, Matheus Sávio, BRA, M, 1.72, 66, 15-04-97, Ribeirão Preto, Flamengo
+88, Pêpê, POR, M, 1.83, 75, 20-05-97, Satão, Benfica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+76, Carlinhos, BRA, M, 1.79, 82, 22-06-94, Camacan, Standard Liège
+2, Nuno Lopes, POR, D, 1.84, 80, 19-12-86, Lisbon, União da Madeira
+15, Oumar Diakhité, SEN, D, 1.80, 85, 09-12-93, Dakar, Kazma (On Loan)
+14, Gustavo Tocantins, BRA, F, 1.79, 74, 11-01-96, Gurupi, Londrina (On Loan)
+96, Luís Ribeiro, POR, G, 1.85, 78, 19-04-92, Lisbon, Real SC (On Loan)
+23, Wesley, BRA, M, 1.78, 68, 22-06-95, Cosmópolis, Paraná (On Loan)
+70, Aylton Boa Morte, POR, F, 1.82, 75, 23-09-93, Almada, Cova da Piedade (On Loan)

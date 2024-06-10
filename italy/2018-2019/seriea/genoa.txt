@@ -1,0 +1,45 @@
+=  Genoa - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, Lazio
+3, Koray Günter, GER, D, 1.85, 77, 16-08-94, Höxter, Galatasaray
+4, Domenico Criscito, ITA, D, 1.83, 70, 30-12-86, Cercola, Zenit St Petersburg
+8, Lukas Lerager, DEN, M, 1.84, 80, 12-07-93, Gladsaxe, Bordeaux
+9, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Betis
+10, Gianluca Lapadula, ITA, F, 1.78, 69, 07-02-90, Turin, Milan
+11, Cristian Kouamé, CIV, F, 1.85, 70, 06-12-97, Bingerville, Cittadella
+13, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Udinese
+14, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, Avellino
+15, Luca Mazzitelli, ITA, M, 1.87, 76, 15-11-95, Rome, Sassuolo
+17, Cristian Romero, ARG, D, 1.85, 79, 27-04-98, Córdoba, Belgrano (Córdoba)
+18, Esteban Rolón, ARG, M, 1.78, 70, 25-03-95, Posadas, Málaga
+19, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Galatasaray
+20, Antonio Candela, ITA, D, 1.82, 77, 27-04-00, La Spezia, Spezia
+21, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Chievo Verona
+22, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Crvena Zvezda
+23, Alessandro Russo, ITA, G, 1.93, 82, 31-03-01, Reggio Calabria, None
+24, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Verona
+25, Rok Vodišek, SVN, G, 1.88, 83, 05-12-98, Ljubljana, Olimpija Ljubljana
+26, Nicola Dalmonte, ITA, F, 1.69, 73, 13-09-97, Ravenna, Cesena
+27, Stefano Sturaro, ITA, M, 1.81, 80, 09-03-93, Sanremo, Juventus
+32, Pedro Pereira, POR, D, 1.74, 70, 22-01-98, Lisbon, Benfica
+33, Ivan Lakićević, SRB, D, 1.80, 75, 27-07-93, Belgrade, Vojvodina
+39, Andrea Favilli, ITA, F, 1.90, 85, 17-05-97, Pisa, Juventus
+44, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Dynamo Kyiv
+65, Nicolò Rovella, ITA, M, 1.79, 70, 04-12-01, Segrate, None
+87, Ervin Zukanović, BIH, D, 1.90, 85, 11-02-87, Sarajevo, Roma
+88, Oscar Hiljemark, SWE, M, 1.84, 73, 28-06-92, Värnamo, Palermo
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Chapecoense
+97, Ionuţ Andrei Radu, ROU, G, 1.88, 80, 28-05-97, Bucharest, Internazionale
+99, András Schäfer, HUN, M, 1.79, 71, 13-04-99, Szombathely, MTK
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Nicolás Spolli, ARG, D, 1.92, 90, 20-02-83, Coronel Bogado, Crotone (On Loan)
+40, Stéphane Omeonga, BEL, M, 1.77, 72, 27-03-96, Rocourt, Hibernian (On Loan)
+9, Krzysztof Piątek, POL, F, 1.83, 76, 01-07-95, Dzierżoniów, Milan
+5, Lisandro López, ARG, D, 1.90, 79, 01-09-89, Villa Constitución, Benfica
+8, Rômulo, BRA, M, 1.78, 72, 22-05-87, Pelotas, Lazio (On Loan)
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, Udinese (On Loan)
+45, Iuri Medeiros, POR, F, 1.74, 58, 10-07-94, Horta, Sporting CP

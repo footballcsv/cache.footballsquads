@@ -1,0 +1,47 @@
+=  Barnet - English Football Conference Premier 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Graham Stack, IRL, G, 1.88, 79, 26-09-81, Hampstead, Hibernian
+2, Andy Yiadom, ENG, D, 1.80, 75, 02-12-91, Camden, Braintree T
+3, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+4, Jack Saville, ENG, D, 1.90, 76, 02-04-91, Frimley, Southampton
+5, Bondz Ngala, ENG, D, 1.83, 76, 03-10-89, Newham, Portsmouth
+6, David Stephens, WAL, D, 1.93, 92, 18-10-91, Welywn Garden City, Hibernian
+7, Keanu Marsh-Brown, ENG, M, 1.81, 78, 10-08-92, Hammersmith, Yeovil T
+8, Curtis Weston, ENG, M, 1.80, 74, 24-01-87, Greenwich, Gillingham
+9, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Alfreton T
+10, Charlie MacDonald, ENG, F, 1.75, 70, 13-02-81, Southwark, Oldham Ath
+11, Lee Cook, ENG, M, 1.75, 77, 03-08-82, Hammersmith, Apollon Smyrnis
+12, Sam Cowler, ENG, G, 1.90, 70, 26-10-92, Colchester, Bishop's Stortford
+14, Sam Togwell, ENG, M, 1.80, 78, 14-10-84, Maidenhead, Chesterfield
+15, Luisma, ESP, M, 1.79, 65, 11-08-89, Noja, Noja
+16, Mauro Vilhete, POR, D, 1.74, 74, 10-05-93, Rio de Mauro, None
+17, Sam Muggleton, ENG, D, 1.80, 71, 17-11-95, Melton Mowbray, Gillingham
+18, Luke Gambin, ENG, M, 1.68, 70, 16-03-93, Sutton, None
+20, Jon Nurse, BRB, F, 1.75, 78, 01-03-81, Bridgetown, Dagenham & Redbridge
+21, George Sykes, ENG, F, 1.93, 80, 14-09-94, Buckhurst Hill, None
+22, Ifeanyi Allen, ENG, M, 1.75, 69, 15-03-94, Lambeth, None
+25, Joe Gater, ENG, D, 1.91, , 24-03-97, , Aldershot T
+27, Kai McKenzie Lyle, ENG, G, 1.96, 86, 30-11-97, Haringey, None
+29, Mathew Stevens, ENG, F, 1.80, 74, 12-02-98, Frimley, None
+30, Harry Taylor, ENG, D, 1.88, 79, 05-05-97, Hammersmith, None
+33, Tamille Roache, ENG, D, 1.83, , 30-09-96, , Hayes & Yeading U
+34, Wesley Fonguck, ENG, M, 1.85, 77, 16-07-97, Lambeth, None
+35, Fumnaya Shomotun, NGA, M, 1.73, 67, 29-05-97, , None
+36, Charlie Kennedy, ENG, M, 1.88, , 15-04-97, , None
+37, Shane Cojocărel, ROU, F, 1.70, 65, 20-03-97, Bucharest, None
+38, Elliott Harris, ENG, F, 1.83, , 10-09-96, , None
+39, Nana Kyei, ENG, M, 1.80, 70, 10-01-98, Hackney, None
+40, Michael Gash, ENG, F, 1.77, 77, 03-09-86, Cambridge, Kidderminster H
+41, Conor Clifford, IRL, M, 1.73, 67, 01-10-91, Dublin, Southend U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Alfie Pavey, ENG, F, 1.86, 78, 02-10-95, Southwark, Millwall
+24, Sam Hoskins, ENG, F, 1.72, 67, 04-02-93, Dorchester, Yeovil T
+23, Adam Mekki, ENG, M, 1.78, 74, 24-12-91, Chester, Dover Ath
+28, David Hunt, ENG, D, 1.80, 74, 10-09-82, Dulwich, Oxford U
+31, Bernard Mensah, ENG, F, 1.73, 59, 29-12-94, Hounslow, Watford
+32, Raphael Spiegel, SUI, G, 1.96, 88, 19-12-92, Rüttenen, West Ham U
+19, Jamal Lowe, ENG, F, 1.83, 79, 27-01-94, Harrow, St Albans C

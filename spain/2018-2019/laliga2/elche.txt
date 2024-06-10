@@ -1,0 +1,44 @@
+=  Elche - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Juan, ESP, G, 1.83, 82, 24-01-79, Vigo, Lugo
+2, Tekio, ESP, D, 1.75, 72, 30-07-90, Molina de Segura, UCAM Murcia
+3, Manu, ESP, D, 1.75, 70, 22-06-84, Wetzikon, Cultural Leonesa
+4, Neyder Lozano, COL, D, 1.85, 78, 04-03-94, Quibdó, Sanse
+5, Gonzalo Verdú, ESP, D, 1.85, 80, 21-10-88, Cartagena, Cartagena
+6, Manuel, ESP, M, 1.85, 78, 13-09-88, Córdoba, UCAM Murcia
+7, Nino, ESP, F, 1.69, 68, 10-06-80, Almería, Osasuna
+8, Alfred Planas, ESP, M, 1.76, 71, 15-02-96, Barcelona, Alcorcón
+10, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Valencia B
+11, Iván Sánchez, ESP, M, 1.71, 66, 23-09-92, Campillo de Arenas, Albacete
+12, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Numancia
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Reus
+14, Xavi Torres, ESP, M, 1.82, 76, 21-11-86, Jávea, Perth Glory
+15, Karim Azamoum, FRA, M, 1.78, 74, 17-01-90, Rognac, Cádiz
+16, Nacho Gil, ESP, M, 1.70, 69, 09-09-95, Valencia, Valencia
+17, Josan, ESP, M, 1.75, 68, 03-12-89, Crevillente, Albacete
+18, Jesús Olmo, ESP, D, 1.78, 75, 24-01-85, Barcelona, Reus
+19, Carlos Castro, ESP, F, 1.77, 68, 01-06-95, Ujo, Mallorca
+20, Jony, ESP, M, 1.74, 72, 02-04-85, Elche, UCAM Murcia
+21, Javi Flores, ESP, M, 1.70, 64, 09-02-86, Córdoba, Hércules
+22, Borja Martínez, ESP, M, 1.76, 71, 02-03-94, Alicante, Ebro
+23, Juan Cruz, ESP, D, 1.80, 79, 28-07-92, Madrid, Rayo Majadahonda
+24, Alexander González, VEN, D, 1.85, 75, 13-09-92, Caracas, Huesca
+25, Yacine Qasmi, MAR, F, 1.83, 80, 03-01-91, Pontoise, Melilla
+27, Óscar Gil, ESP, D, 1.73, 70, 26-04-98, Elche, Elche B
+28, Luis Castillo, ESP, G, , , 31-01-00, Catral, Elche B
+29, Nacho Ramón, ESP, F, , , 30-03-99, Elche, Elche B
+30, César, ESP, M, 1.83, 71, 23-04-01, Cartagena, Elche B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Claudio Medina, ESP, F, 1.86, 83, 04-09-93, León, Mirandés (On Loan)
+30, Adrián Real, ESP, G, 1.83, 73, 01-12-95, Elche, Estudiantes Murcia
+15, Ivan Zotko, UKR, D, 1.87, 83, 09-07-96, Chudniv, Lleida (On Loan)
+33, Redru, ESP, D, 1.83, 72, 23-06-97, Sevilla, Betis B
+19, Chuca, ESP, M, 1.81, 75, 10-06-97, Jacarilla, Villarreal B
+8, Daniel Provencio, ESP, M, 1.78, 75, 07-10-87, Madrid, Ibiza (On Loan)
+18, Sory Kaba, GUI, F, 1.91, 80, 10-04-95, Conakry, Dijon
+28, Francis Uzoho, NGA, G, 1.96, 91, 28-10-98, Nwangele, Deportivo La Coruña B
+9, Benja, ESP, F, 1.87, 83, 23-08-87, Terrassa, Hércules (On Loan)

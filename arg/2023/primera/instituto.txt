@@ -1,0 +1,39 @@
+=  Instituto (Córdoba) - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jorge Carranza, ARG, G, 1.85, 84, 07-05-81, Córdoba, Boca Unidos (Corrientes)
+2, Juan Franco, PAR, D, 1.76, 71, 10-02-92, Asunción, Nacional [PAR]
+3, Sebastián Corda, ARG, D, 1.70, 69, 29-06-95, San Martín, Mitre
+4, Giuliano Cerato, ARG, D, 1.70, 65, 10-06-98, Rio Cuarto, UAI Urquiza
+5, Roberto Bochi, ARG, M, 1.75, 68, 06-07-87, Córdoba, Platense
+6, Fernando Alarcón, ARG, D, 1.79, 69, 16-06-94, Venado Tuerto, Tigre
+7, Gregorio Rodríguez, ARG, F, 1.78, 76, 17-01-00, Córdoba, None
+8, Gabriel Graciani, ARG, M, 1.80, 75, 28-11-92, Bovril, Sarmiento (Junín)
+9, Adrian Martínez, ARG, F, 1.81, 83, 07-07-92, Campana, Libertad
+10, Franco Watson, ARG, M, 1.65, 69, 25-07-02, Córdoba, None
+11, Santiago Rodríguez, ARG, F, 1.71, 73, 23-08-97, San Luis, Estudiantes (San Luis)
+12, Jonathan Bay, ARG, D, 1.72, 68, 01-02-93, Villa Ángela, Central Córdoba (SdE)
+14, Nicolás Linares, ARG, M, 1.75, 72, 06-03-96, Monte Grande, Banfield
+17, Leonardo Monje, ARG, M, 1.68, 67, 26-03-02, Córdoba, None
+18, Lucas Albertengo, ARG, F, 1.78, 73, 30-01-91, Egusquiza, Defensa y Justicia
+19, Gastón Lódico, ARG, M, 1.80, 72, 28-05-98, Temperley, Lanús
+20, Brahian Cuello, ARG, M, 1.74, 69, 30-09-97, Merlo, Defensa y Justicia
+21, Manuel Liendo, ARG, F, 1.69, 65, 08-07-99, Córdoba, None
+22, Damián Puebla, ARG, F, 1.70, 65, 15-09-02, Córdoba, None
+23, Emanuel Bilbao, ARG, G, 1.89, 75, 03-11-89, Pringles, Villa Dálmine
+24, Ezequiel Parnisari, ARG, D, 1.85, 78, 01-06-90, San Luis, Agropecuario
+25, Oscar Garrido, ARG, M, 1.82, 74, 20-08-97, Luzuriaga, Gimnasia y Esgrima (Mendoza)
+26, Leonel Mosevich, ARG, D, 1.87, 81, 04-02-97, Lomas de Zamora, Argentinos Juniors
+27, Nicolás Watson, ARG, M, 1.75, 78, 22-05-98, Córdoba, None
+28, Manuel Roffo, ARG, G, 1.84, 80, 04-04-00, Teodelina, Tigre
+29, Áxel Rodríguez, ARG, F, 1.80, 75, 25-03-97, Bahía Blanca, Olimpo (BB)
+30, Nicolás Barrientos, ARG, M, 1.70, 71, 05-04-95, Monte Grande, All Boys
+31, Gonzalo Requena, ARG, D, 1.85, 80, 04-03-03, Córdoba, None
+33, Joaquín Varela, URU, D, 1.79, 71, 27-06-98, Montevideo, Deportivo Maldonado
+35, Emanuel Sittaro, ARG, G, 1.85, 81, 15-10-99, Córdoba, None
+36, Nicolás Vaquer, ARG, D, 1.86, 81, 04-04-03, Córdoba, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Jonathan Dellarossa, ARG, F, 1.85, 80, 18-01-00, El Tío, Chaco For Ever

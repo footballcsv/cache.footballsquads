@@ -1,0 +1,23 @@
+# French Ligue 2 2016/17
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Auxerre](auxerre.txt)
+- [Bourg-en-Bresse Péronnas](bourg.txt)
+- [Brest](brest.txt)
+- [Clermont](clermont.txt)
+- [Gazélec Ajaccio](gazelec.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Orléans](orleans.txt)
+- [Red Star](redstar.txt)
+- [Reims](reims.txt)
+- [Sochaux](sochaux.txt)
+- [Strasbourg](stras.txt)
+- [Tours](tours.txt)
+- [Troyes](troyes.txt)
+- [Valenciennes](valenc.txt)

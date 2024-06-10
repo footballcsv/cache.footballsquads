@@ -1,0 +1,53 @@
+=  Coritiba - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael Martins, BRA, G, 1.90, 79, 29-11-91, Pariquera-Açu, None
+3, Thalisson Kelven, BRA, D, 1.84, 79, 07-05-98, Ji-Paraná, None
+4, Romércio, BRA, D, 1.85, 78, 25-02-97, Santa Maria da Boa Vista, None
+5, Alan Santos, BRA, M, 1.85, 75, 24-04-91, Salvador, Santos
+6, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Grêmio
+7, Iago Dias, BRA, F, 1.75, 74, 06-05-93, São João Nepomuceno, Atibaia
+8, Tiago Real, BRA, M, 1.72, 70, 26-01-89, Curitiba, Palmeiras
+9, Neto Berola, BRA, F, 1.71, 66, 18-11-87, Itabuna, Atlético Mineiro
+11, Rildo, BRA, F, 1.80, 67, 20-03-89, São Paulo, Ponte Preta
+12, Bruno Brígido, BRA, G, 1.87, 76, 09-03-91, Criciúma, Criciúma
+13, Rodrigo Ramos, BRA, D, 1.73, 66, 24-05-95, Juazeiro, None
+16, Léo Santos, BRA, F, 1.75, 68, 10-01-96, Recife, Náutico
+17, Daniel, BRA, M, 1.72, 66, 22-01-94, Juiz de Fora, São Paulo
+18, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, Internacional
+20, Matheus Galdezani, BRA, M, 1.77, 74, 13-03-92, Limeira, Mirassol
+21, Walisson Maia, BRA, D, 1.87, 83, 21-08-91, Natividade, None
+22, Léo, BRA, D, 1.71, 62, 03-10-91, Salvador, Flamengo
+23, Geovane, BRA, D, 1.80, 80, 17-10-96, Curitiba, None
+26, Tomas Bastos, BRA, M, 1.75, 78, 30-04-92, Araguaina, J. Malucelli
+27, Jonas, BRA, M, 1.80, 79, 03-10-91, Teresina, Flamengo
+30, Vitor Carvalho, BRA, M, 1.83, 74, 27-05-97, Palma, None
+31, João Paulo, BRA, M, 1.78, 69, 22-02-85, Pinhais, Atlético Paranaense
+33, Getterson, BRA, F, 1.80, 79, 16-05-91, Engenheiro Beltrão, J. Malucelli
+34, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Grêmio
+35, Léo Andrade, BRA, D, 1.90, 78, 18-04-98, Curitiba, None
+37, Rafael Longuine, BRA, M, 1.73, 67, 30-05-90, Paranavaí, Santos
+50, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Santos
+66, William Matheus, BRA, D, 1.87, 85, 02-04-90, Rio de Janeiro, Toulouse
+70, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, None
+71, Henrique, BRA, D, 1.80, 81, 05-01-95, Carazinho, None
+73, Luizão, BRA, D, 1.86, 78, 23-06-90, Firminópolis, Londrina
+76, Márcio, BRA, D, 1.87, 86, 14-01-93, Porto Feliz, Atibaia
+83, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Grêmio
+84, Wilson, BRA, G, 1.85, 79, 31-01-84, Santo André, Vitória
+85, Alecsandro, BRA, F, 1.83, 80, 04-02-81, Bauru, Palmeiras
+87, Alexander Baumjohann, GER, M, 1.78, 73, 23-01-87, Datteln, Hertha Berlin
+88, Thiago Carleto, BRA, D, 1.72, 68, 24-03-89, São Bernardo do Campo, Linense
+89, William Menezes, BRA, G, 1.92, 87, 05-04-89, Campanha, Taubaté
+90, Yilmar Filigrana, COL, F, 1.80, 80, 08-11-90, Padilla, Deportes Quindío
+91, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Grêmio
+98, Dodô, BRA, D, 1.66, 68, 17-11-98, Taubaté, None
+99, Keirrison, BRA, F, 1.81, 63, 03-12-88, Dourados, Arouca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Thiago Lopes, BRA, M, 1.78, 76, 27-10-96, Mogi Mirim, Londrina (On Loan)
+96, Rafael Fachin, BRA, G, 1.91, 100, 11-06-96, Curitiba, Marcílio Dias
+77, Fabrício, BRA, M, 1.77, 75, 13-06-92, Camacan, Marítimo
+80, Kady, BRA, M, 1.73, 68, 02-05-96, Curitiba, Foz do Iguaçu (On Loan)

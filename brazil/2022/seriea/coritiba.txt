@@ -1,0 +1,53 @@
+=  Coritiba - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Lecce
+2, Matheus Alexandre, BRA, D, 1.88, 88, 07-04-99, Marília, Corinthians
+3, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Belenenses
+4, Luciano Castan, BRA, D, 1.87, 80, 13-09-89, São Paulo, CSA
+5, Guillermo de los Santos, URU, D, 1.81, 75, 15-02-91, Montevideo, Universidad Católica [ECU]
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Fluminense
+7, Andrey, BRA, M, 1.75, 73, 15-02-98, Rio de Janeiro, Vasco da Gama
+8, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Hatta Club
+9, Léo Gamalho, BRA, F, 1.88, 87, 30-01-86, Porto Alegre, Al-Khor
+11, Alef Manga, BRA, F, 1.90, 85, 29-11-94, Santos, Volta Redonda
+12, Marcão, BRA, G, 1.92, 100, 19-04-00, São Paulo, None
+13, Fabrício Daniel, BRA, F, 1.82, 73, 23-03-97, Araraquara, Mirassol
+14, Thalisson Gabriel, BRA, D, 1.90, 76, 20-01-02, Bauru, None
+15, Matías Galarza, PAR, M, 1.75, 67, 11-02-02, Asunción, Vasco da Gama
+16, Natanael, BRA, D, 1.72, 70, 05-01-02, Braganey, None
+17, Warley, BRA, D, 1.73, 63, 17-09-99, Recife, Botafogo
+18, Guilherme Biro, BRA, D, 1.88, 72, 01-05-00, Curitiba, None
+19, Thonny Anderson, BRA, M, 1.84, 81, 27-12-97, São Paulo, Red Bull Bragantino
+20, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Grêmio
+21, Rafael William, BRA, G, 1.98, 89, 30-09-01, Salto, None
+22, Maicky, BRA, M, 1.78, 68, 28-06-01, Campinas, Linense
+23, Alex Muralha, BRA, G, 1.86, 89, 10-11-89, Três Corações, Mirassol
+25, Bernardo, BRA, M, 1.86, 77, 08-01-02, Curitiba, None
+27, Juan Carlos Díaz, COL, M, 1.83, 74, 20-05-01, Chocó, Independiente Medellín
+28, Pablo García, URU, F, 1.78, 66, 15-04-99, Montevideo, Nacional [URU]
+30, Hernán Pérez, PAR, F, 1.80, 71, 25-02-89, Fernando de la Mora, Al-Ahli [QAT]
+32, Bruno Gomes, BRA, M, 1.75, 70, 04-04-01, Rio de Janeiro, Internacional
+33, Diego Porfírio, BRA, D, 1.82, 76, 01-08-99, Pindamonhangaba, Desportiva Aliança
+35, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Internacional
+36, Rafael Santos, BRA, D, 1.80, 78, 05-02-98, Curitiba, Cruzeiro
+37, Kaio César, BRA, M, 1.68, 66, 15-02-04, Maceió, None
+38, Geovane Meurer, BRA, M, -, -, 25-05-02, -, None
+41, Jhon Chancellor, VEN, D, 1.98, 86, 02-01-92, Puerto Ordaz, Zagłębie Lubin
+44, Marcio Silva, BRA, D, 1.92, 88, 07-07-01, Juru, None
+45, Nathan Mendes, BRA, D, 1.82, 79, 19-08-02, São José dos Campos, São Paulo
+50, Jesús Trindade, URU, D, 1.73, 74, 10-07-93, Salto, Pachuca
+52, Adrian Martínez, ARG, F, 1.81, 83, 07-07-92, Campana, Libertad
+70, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Vitória
+75, Biel, BRA, M, 1.84, 68, 19-03-02, Curitiba, None
+78, Régis, BRA, M, 1.70, 72, 30-11-92, Jales, Guarani
+88, Zé Hugo, BRA, F, 1.77, 70, 17-10-99, João Pessoa, Azuriz
+97, Val, BRA, M, 1.78, 69, 12-03-97, Tailândia, Botafogo-SP
+99, Matheus Cadorini, BRA, F, 1.92, 83, 01-09-02, Taubaté, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Matheus Sales, BRA, M, 1.78, 68, 13-05-95, Guarulhos, Goiás (On Loan)
+99, Clayton, BRA, F, 1.84, 79, 11-01-99, Belo Horizonte, Vila Nova
+98, Igor Paixão, BRA, F, 1.67, 65, 28-06-00, Macapá, Feyenoord

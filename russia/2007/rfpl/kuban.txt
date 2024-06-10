@@ -1,0 +1,55 @@
+=  Kuban Krasnodar - Russian Football Premier League 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vladimir Gabulov, G, 6'01", 11 09, 19-10-83, Moscow, CSKA Moscow
+2, Aleksandr Orekhov, D, 6'06", 14 07, 29-11-83, Krasnodar, Krasnodar-2000
+3, Nikolai Zaitsev, D, 6'03", 13 05, 01-06-89, Krasnodar, Krasnodar-2000
+4, Denis Kirilenko, M, 6'00", 12 01, 06-11-84, Krasnodar, Krasnodar-2000
+5, Juris Laizāns, M, 6'01", 12 00, 06-01-79, Riga, FC Rostov
+6, Jefthon, D, 6'00", 12 11, 03-01-82, Itabuna, Posušje
+7, Leonid Boev, F, 6'02", 12 06, 19-01-86, Krasnodar, Krasnodar-2000
+8, Artur Tlisov, M, 5'11", 11 05, 10-06-82, Novorossiysk, CSKA Moscow
+9, Baiano, M, 5'09", 12 08, 10-09-80, Ilhéus, Siroki Brijeg
+10, Spartak Gogniev, F, 6'01", 11 11, 19-01-81, Vladikavkaz, FC Rostov
+11, Andrey Topchu, M, 5'11", 12 01, 17-04-80, Krasnodar, FC Moscow
+14, Alim Karkaev, F, 6'01", 12 08, 28-01-85, Cherkessk, Krasnodar-2000
+16, Ivailo Petkov, D, 5'11", 11 11, 24-03-76, Dolni Dabnik, Ankaragücü
+17, Andrey Ushenin, D, 6'03", 12 11, 01-12-83, , Spartak Anapa
+18, Konstantin Zuev, M, 6'02", 12 04, 17-11-81, , Dynamo Makhachkala
+19, Valentin Okorochkov, F, 5'08", 10 06, 19-03-80, , Salyut-Energia
+20, Konstantin Podkorytov, F, 5'11", 11 09, 08-02-86, Krasnodar, Krasnodar-2000
+21, Vitaliy Kaleshin, M, 5'08", 10 08, 03-10-80, Timashevsk, Lada Togliatti
+22, Aslan Zaseev, D, 5'09", 12 08, 07-03-82, Vladikavkaz, Chernomorets
+23, Sergey Losev, G, 6'05", 12 06, 31-07-83, St. Petersburg, Tom
+25, Dmitriy Podruzhko, M, 5'11", 12 00, 02-06-86, Novorossisk, Chernomorets
+27, Aleksandr Semizyan, F, 5'10", 11 00, 07-02-85, Novorossisk, FC Sochi-04
+28, Vladimir Kuzmichev, M, 6'00", 12 00, 28-07-79, Moscow, Anzhi Makhachkala
+29, Roman Lengiel, D, 6'03", 13 08, 03-11-78, , Saturn
+30, Nebojša Jelenkovič, M, 5'11", 11 07, 26-05-78, Novi Sad, Litex Lovech
+31, Andrey Dikan, G, 6'04", 13 03, 16-07-77, , SKA-Energia
+33, Mindaugas Kalonas, M, 5'07", 11 00, 28-02-84, Vilnius, Liepājas Metalurgs
+35, Igor Kot, G, 6'01", 13 08, 03-06-80, , Sodovik
+37, Vitaliy Korneev, F, 5'11", 11 11, 09-06-86, Krasnodar, Kuban B
+45, Artem Slukhinskiy, F, 6'01", 11 07, 03-01-89, Krasnodar, Krasnodar-2000
+55, Džemal Berberovič, D, 6'00", 11 11, 05-11-81, Sarajevo, Litex Lovech
+85, Aleksandr Lebedev, F, 6'00", 12 00, 14-04-85, Minsk, BATE
+86, Emmanuel Okoduwa, F, 6'01", 13 10, 21-11-83, , Metalurh Donetsk
+89, Azat Bayriev, M, 6'02", 13 05, 17-02-89, , Kuban B
+90, Aleksandr Khorin, D, 5'11", 11 11, 03-05-86, Krasnodar, Krasnodar-2000
+99, Oleg Ivanov, M, 6'03", 12 13, 04-08-86, Moscow, Khimki
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Igor Strelkov, F, 6'00", 12 00, 21-03-82, , Luch-Energia
+43, Evgeniy Pomazan, G, 6'06", 12 13, 31-01-89, Krasnodar, CSKA Moscow (On Loan)
+3, Georgiy Dzhioev, M, 6'03", 12 13, 13-06-86, Vladikavkaz, FC Rostov (On Loan)
+24, Mikhail Gromikov, D, 6'01", 12 04, 04-03-86, Krasnodar, 
+88, Roman Bugaev, M, 5'11", 10 12, 11-02-89, Krasnodar, 
+86, Sergey Putilin, D, 6'04", 13 01, 13-11-86, , FC Sochi-04
+55, Vitaliy Chochiev, M, 6'00", 11 11, 17-12-79, Vladikavkaz, Shinnik (On Loan)
+77, Renat Yanbaev, M, 5'10", 11 03, 07-04-84, Makhachkala, Lokomotiv Moscow
+33, Shamil Asildarov, F, 6'01", 13 01, 18-05-83, Makhachkala, Terek
+11, Aleksandr Danishevskiy, F, 5'09", 11 00, 23-02-84, Moscow, FC Rostov
+7, Robert Zebelyan, F, 6'02", 12 08, 31-03-84, Sochi, FC Khimki
+90, Aleksandr Nikolaev, F, 5'09", 10 12, 12-08-89, Krasnodar, 

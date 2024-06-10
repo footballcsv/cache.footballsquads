@@ -1,0 +1,38 @@
+=  KVC Westerlo - Belgian Pro League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michaël Cordier, BEL, G, 1.84, 73, 27-03-84, Lobbes, Anderlecht
+2, Mitch Apau, NED, D, 1.80, 75, 27-04-90, Amsterdam, RKC Waalwijk
+3, Kevin Koffi Jean Romaric, CIV, F, 1.75, 75, 25-06-86, Aboisso, Boussu Dour Borinage
+4, Birger Maertens, BEL, D, 1.82, 85, 28-06-80, Varsenare, Heracles Almelo
+5, Bruno Godeau, BEL, D, 1.90, 79, 10-05-92, Brussels, Zulte-Waregem
+6, Kevin Geudens, BEL, M, 1.85, 67, 02-12-80, Geel, Mechelen
+7, Raphaël Lecomte, FRA, M, 1.79, 77, 22-05-88, Guingamp, Visé
+8, Maxime Annys, BEL, M, 1.86, 78, 24-07-86, Ostend, Hjørring
+9, Kevin Vandenbergh, BEL, F, 1.78, 69, 16-05-83, Bonheiden, Mechelen
+10, Mbaye Diagne, SEN, F, 1.92, 86, 28-10-91, Dakar, Juventus
+11, Sherjill MacDonald, NED, F, 1.83, 79, 20-11-84, Amsterdam, Chicago Fire
+12, Frédéric Gounongbe, BEL, F, 1.90, 85, 01-05-88, Brussels, RWDM Brussels
+14, Mohammed Aoulad, BEL, M, 1.83, 79, 29-08-91, Brussels, Anderlecht
+15, Christian Dorda, GER, D, 1.82, 75, 06-12-88, Mönchengladbach, FC Utrecht
+16, Jordan Mustoe, ENG, D, 1.80, 75, 28-01-91, Wirral, Accrington Stanley
+17, Kenneth Schuermans, BEL, D, 1.95, 85, 25-05-91, Genk, None
+18, Nils Schouterden, BEL, M, 1.76, 64, 14-12-88, Leuven, Eupen
+19, Arno Verschueren, BEL, M, 1.75, 66, 08-04-97, , OH Leuven
+20, Alassane Diallo, MLI, M, 1.76, 60, 19-02-95, Bamako, Eupen
+21, Nicolas Rommens, BEL, M, 1.83, 70, 17-12-94, Lier, None
+22, Gilles Ruyssen, BEL, D, 1.86, 85, 18-06-94, , KAA Gent
+23, Jarno Molenberghs, BEL, M, 1.76, 74, 11-12-89, Geel, PSV Eindhoven
+24, Jens Cools, BEL, M, 1.76, 67, 16-10-90, Westerlo, None
+25, Enes Sipović, BIH, D, 1.94, 90, 11-09-90, Sarajevo, Oţelul Galaţi
+27, Faris Handžić, BIH, M, 1.72, 67, 27-05-95, Sarajevo, Sarajevo
+29, Brian Gielen, BEL, G, 1.88, 79, 23-09-96, , KRC Genk
+30, Koen Van Langendonck, BEL, G, 1.89, 81, 09-06-89, Neerpelt, Beerschot AC
+31, Thibaut Rausin, BEL, G, 1.89, 79, 03-05-93, , Visé
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Jeffrey Rentmeister, BEL, D, 1.89, 79, 11-07-84, Oupeye, Blackpool
+20, Stef Vervoort, BEL, M, 1.79, 62, 20-02-95, Lier, Dessel Sport (On Loan)
+10, Evander Sno, NED, M, 1.86, 80, 09-04-87, Dordrecht, 

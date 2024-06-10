@@ -1,0 +1,38 @@
+=  Chicago Fire - USA Major League Soccer 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Ousted, DEN, G, 1.92, 88, 01-02-85, Kildebrønde, DC United
+2, Marcelo, BRA, D, 1.82, 74, 27-07-89, São Carlos, Sporting CP
+3, Jonathan Bornstein, USA, D, 1.75, 66, 07-11-84, Torrance, Maccabi Netanya
+4, Johan Kappelhof, NED, D, 1.80, 70, 05-08-90, Amsterdam, FC Groningen
+5, Francisco Calvo, CRC, D, 1.82, 77, 08-07-92, San José [CRC], Minnesota U
+6, Dax McCarty, USA, M, 1.75, 64, 30-04-87, Winter Park, New York Red Bulls
+7, Raheem Edwards, CAN, F, 1.75, 68, 15-07-95, Toronto, Montreal Impact
+9, C.J. Sapong, USA, F, 1.88, 84, 27-12-88, Manassas, Philadelphia Union
+10, Aleksandar Katai, SRB, F, 1.77, 70, 06-02-91, Vrbas, Alavés
+11, Przemysław Frankowski, POL, M, 1.75, 68, 12-04-95, Gdańsk, Jagiellonia Białystok
+12, Armando Moreno, USA, F, 1.70, 66, 10-09-95, Morganville, New York Red Bulls
+13, Brandt Bronico, USA, M, 1.73, 71, 20-06-95, Westminster, MD, UNC Charlotte
+14, Djordje Mihailović, USA, M, 1.78, 70, 10-11-98, Lemont, None
+15, Grant Lillard, USA, D, 1.93, 89, 05-12-95, Hinsdale, Indiana Univ
+16, Michael Azira, UGA, M, 1.78, 73, 22-08-87, Kampala, Montreal Impact
+17, Diego Campos, CRC, F, 1.78, 77, 01-10-95, San José [CRC], Clemson Univ
+18, Cristian Martínez, PAN, M, 1.70, 79, 06-02-97, El Chorrillo, Columbus Crew
+20, Nicolás Gaitán, ARG, M, 1.73, 66, 23-02-88, San Martín, Dalian Yifang
+21, Fabian Herbers, GER, M, 1.83, 77, 17-08-93, Ahaus, Philadelphia Union
+23, Nemanja Nikolić, HUN, F, 1.80, 79, 31-12-87, Zenta, Legia Warszawa
+27, Kenneth Kronholm, GER, G, 1.89, 83, 14-10-85, Fort Belvoir, Holstein Kiel
+28, Elliot Collier, NZL, F, 1.93, 82, 22-02-95, Hamilton [NZL], Loyola Univ
+30, Stefan Cleveland, USA, G, 1.88, 84, 25-05-94, Dayton, Univ of Louisville
+31, Bastian Schweinsteiger, GER, M, 1.83, 79, 01-08-84, Kolbermoor, Manchester U
+32, Gabriel Slonina, USA, G, 1.93, 89, 15-05-04, Addison, None
+33, Jeremiah Gutjahr, USA, M, 1.78, 73, 10-08-97, Bloomington, Indiana Univ
+36, Andre Reynolds II, USA, D, 1.75, 70, 02-05-01, Chicago, None
+45, Richard Sánchez, MEX, G, 1.90, 89, 05-04-94, Mission Hills, Tampico Madero
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Nicolas Hasler, LIE, M, 1.80, 73, 04-05-91, Vaduz, Sporting Kansas City
+19, Mo Adams, ENG, M, 1.67, 75, 23-09-96, Nottingham, Atlanta U
+25, Jorge Luis Corrales, CUB, D, 1.75, 68, 20-05-91, Pinar del Río, Montreal Impact

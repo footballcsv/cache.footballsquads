@@ -1,0 +1,57 @@
+=  Perugia - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Antonio Rosati, ITA, G, 1.95, 81, 26-06-83, Tivoli, Fiorentina
+2, Damiano Zanon, ITA, D, 1.80, 73, 09-02-83, L'Aquila, Ternana
+3, Nicola Leali, ITA, G, 1.88, 78, 17-02-93, Castiglione delle Stiviere, Juventus
+4, Marko Pajač, CRO, D, 1.83, 66, 11-05-93, Zagreb, Cagliari
+5, Alejandro González, URU, D, 1.84, 78, 23-03-88, Montevideo, Verona
+6, Giangiacomo Magnani, ITA, D, 1.91, 87, 04-10-95, Correggio, Siracusa
+7, Amara Konaté, GUI, M, 1.80, , 01-02-99, Nzérékoré, None
+8, Samuel Gustafson, SWE, M, 1.87, 79, 20-01-95, Mölndal, Torino
+9, Mattia Mustacchio, ITA, F, 1.80, 78, 17-05-89, Chiari, Pro Vercelli
+10, Samuel Di Carmine, ITA, F, 1.83, 76, 29-09-88, Florence, Juve Stabia
+11, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Pescara
+12, Alessandro Santopadre, ITA, G, 1.85, 76, 04-10-98, Rome, Atalanta
+13, Emmanuel Achy, CIV, D, , , 05-05-99, , None
+14, Massimo Volta, ITA, D, 1.87, 70, 14-05-87, Desenzano del Garda, Sampdoria
+15, Santiago Colombatto, ARG, M, 1.76, 71, 17-01-97, Córdoba, Cagliari
+16, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, None
+17, Nicola Belmonte, ITA, D, 1.83, 75, 15-04-87, Cosenza, Catania
+18, Lorenzo Del Prete, ITA, D, 1.80, 77, 12-01-86, Rome, Catania
+19, Dan Berci, ROU, D, 1.85, 79, 15-01-99, Cluj-Napoca, Juve Stabia
+20, Abdullahi Nura, NGA, D, 1.82, 72, 17-08-97, Kaduna, Roma
+21, Alessandro Diamanti, ITA, F, 1.80, 75, 02-05-83, Prato, Palermo
+22, Timothy Nocchi, ITA, G, 1.90, 88, 07-07-90, Cecina, Juventus
+23, Raffaele Bianco, ITA, M, 1.80, 80, 25-08-87, Aversa, Carpi
+24, Hernán Paolo Dellafiore, ITA, D, 1.86, 79, 02-02-85, Buenos Aires, Latina
+25, Filippo Bandinelli, ITA, M, 1.80, 73, 29-03-95, Florence, Sassuolo
+26, Giovanni Terrani, ITA, F, 1.78, 76, 12-10-94, Vigevano, Lucchese
+27, Alberto Cerri, ITA, F, 1.93, 83, 16-04-96, Parma, Juventus
+28, Christian Kouan, CIV, M, 1.78, 80, 20-12-99, Abidjan, Vigor Perconti
+29, Luca Germoni, ITA, D, 1.75, 70, 01-09-97, Rome, Lazio
+30, Abdoulaye Traoré, ITA, F, 1.80, 70, 30-04-00, Attécoubé, Internazionale
+31, Riccardo Loffredo, ITA, F, , , 12-01-99, Porto Santo Stefano, Grosseto
+32, Rocco Patrignani, ITA, M, , , 11-05-99, Spoleto, Fiorentina
+34, Edoardo Ceccuzzi, ITA, M, , , 03-12-99, Castiglione del Lago, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Stefano Guberti, ITA, M, 1.80, 68, 06-11-84, Sesto San Giovanni, Siena
+19, Masahudu Alhassan, GHA, M, 1.85, 65, 01-12-92, Tarkwa, Teuta Durrës
+31, Giuseppe Rizzo, ITA, M, 1.79, 71, 18-03-91, Messina, Salernitana
+34, Joss Didiba, CMR, D, 1.85, 75, 07-11-97, Douala, Ebolitana
+8, Simone Emmanuello, ITA, M, 1.86, 75, 25-04-94, Chieri, Atalanta
+24, Edoardo Ceccuzzi, ITA, M, , , 03-12-99, Castiglione del Lago, Re-Registered (34)
+29, Lorenzo Panaioli, ITA, M, , , 14-01-99, Rome, Re-Registered (35)
+20, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Bologna
+33, Matteo Brighi, ITA, M, 1.78, 77, 14-02-81, Rimini, Empoli
+3, Luca Coccolo, ITA, D, 1.87, 76, 23-02-98, Cirié, Juventus
+35, Lorenzo Panaioli, ITA, M, , , 14-01-99, Rome, Torino (On Loan)
+7, Choe Song-Hyok, PRK, F, 1.73, 70, 08-02-98, Pyongyang, Olbia (On Loan)
+5, Nicolò Casale, ITA, D, 1.91, 84, 14-02-98, Negrar, Verona
+6, Salvatore Monaco, ITA, D, 1.92, 83, 15-08-92, Naples, Salernitana (On Loan)
+13, Alberto Dossena, ITA, D, 1.90, 77, 13-10-98, Brescia, Atalanta
+16, Han Kwang-Song, PRK, F, 1.78, 70, 11-09-98, Pyongyang, Cagliari
+21, Yanik Frick, LIE, F, 1.85, 82, 27-05-98, Liestal, Pro Piacenza (On Loan)

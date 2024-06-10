@@ -1,0 +1,46 @@
+=  Mladá Boleslav - Czech 1.Liga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Ondřej Mazuch, CZE, D, 1.88, 83, 15-03-89, Hodonín, Hull C
+4, Anderson Arroyo, COL, D, 1.80, 70, 27-09-99, Quibdó, Liverpool
+5, Aleksei Tatayev, RUS, D, 1.83, 75, 08-10-98, Tskhinvali, FC Krasnodar-2
+6, Dominik Mašek, CZE, M, 1.84, 73, 10-07-95, Příbram, Bohemiams 1905
+7, Tomáš Wiesner, CZE, D, 1.76, 65, 17-07-97, Prague, Sparta Prague
+8, Marek Matějovský, CZE, M, 1.78, 70, 20-12-81, Brandýs nad Labem, Sparta Prague
+9, Tomáš Ladra, CZE, M, 1.78, 75, 24-04-97, Česká Lípa, None
+12, Michal Hubínek, CZE, M, 1.69, 62, 10-11-94, Prague, Bohemians 1905
+13, Jan Stejskal, CZE, G, 1.90, 83, 14-02-97, Pardubice, Hradec Králové
+15, Tomáš Wágner, CZE, F, 1.87, 80, 06-03-90, Prague, MFK Karviná
+17, Arutyun Grigoryan, RUS, M, 1.67, 64, 19-05-98, Gyumri, FC Krasnodar-2
+18, Jakub Fulnek, CZE, M, 1.72, 70, 26-08-94, Lhotka, Vysočina Jihlava
+19, Adam Provazník, CZE, F, 1.79, 63, 16-08-00, Rychnov nad Kněžnou, None
+20, Jonas Auer, AUT, M, 1.79, 77, 05-08-00, Ruprechtshofen, Slavia Prague
+21, Michael Hönig, CZE, M, 1.69, 68, 13-01-00, , Slavia Prague
+22, David Douděra, CZE, D, 1.75, 65, 31-05-98, Brandýs Nad Labem, Dukla Prague
+23, Lukáš Budínský, CZE, M, 1.79, 76, 27-03-92, Prague, MFK Karviná
+25, Marco Túlio, BRA, D, 1.83, 80, 31-05-98, Belo Horizonte, Vlašim
+26, David Pech, CZE, M, 1.77, 75, 22-02-02, Brandýs nad Labem, None
+27, Jiří Klíma, CZE, F, 1.90, 77, 05-01-97, Jihlava, Vysočina Jihlava
+29, Jakub Klíma, CZE, D, 1.83, 76, 28-08-98, Kolín, None
+30, Ondřej Rudzan, CZE, D, 1.86, 83, 25-07-98, Mladá Boleslav, None
+32, Jaroslav Zelený, CZE, D, 1.89, 79, 20-08-92, Hradec Králové, Slavia Prague
+33, Jan Šeda, CZE, G, 1.89, 91, 17-12-85, Vysoké Mýto, Teplice
+34, Antonín Křapka, CZE, D, 1.83, 76, 22-01-94, Mladá Boleslav, None
+35, An Jae-Jun, KOR, F, , , 03-04-01, , Ulsan Hyundai
+36, Daniel Pudil, CZE, D, 1.85, 76, 27-09-85, Prague, Sheffield W
+37, Petr Hampl, CZE, M, 1.80, 71, 14-09-99, , Benešov
+39, Dominik Janošek, CZE, M, 1.83, 76, 13-06-98, Rajhrad, Viktoria Plzeň
+99, Petr Mikulec, CZE, G, 1.96, 86, 05-04-99, Vrchlabí, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Petr Mareš, CZE, M, 1.83, 77, 17-01-91, Planá, Teplice (On Loan)
+22, Laco Takács, CZE, M, 1.93, 84, 15-07-96, Františkovy Lázně, Slavia Prague
+15, Tomáš Wágner, CZE, F, 1.87, 80, 06-03-90, Prague, Fastav Zlín (On Loan)
+24, Pavel Bucha, CZE, M, 1.74, 70, 11-03-98, Nelahozeves, Viktoria Plzeň
+10, Muris Mešanovič, BIH, F, 1.77, 75, 06-07-90, Sarajevo, Kayserispor (On Loan)
+11, Nikolay Komlichenko, RUS, F, 1.91, 87, 29-06-95, Plastunovskaya, Dynamo Moscow
+32, Jan Král, CZE, D, 1.90, 83, 05-04-99, Česká Lípa, Hradec Králové
+28, Ewerton da Silva, BRA, M, 1.75, 76, 28-12-96, São Bernardo do Campo, Pardubice (On Loan)
+16, Dominik Hašek, CZE, D, 1.86, 77, 19-07-98, , Vlašim (On Loan)

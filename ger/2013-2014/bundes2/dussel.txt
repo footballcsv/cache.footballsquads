@@ -1,0 +1,45 @@
+=  Fortuna Düsseldorf - German 2.Bundesliga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michael Rensing, GER, G, 1.88, 86, 14-05-84, Lingen (Ems), Bayer Leverkusen
+2, Cristian Ramírez, ECU, D, 1.71, 69, 12-08-94, Santo Domingo, Independiente José Terán
+3, Leon Balogun, GER, D, 1.90, 81, 28-06-88, Berlin, Werder Bremen
+4, Stelios Malezas, GRE, D, 1.92, 81, 11-03-85, Katerini, PAOK
+5, Michael Liendl, AUT, M, 1.75, 72, 25-10-85, Vorarlberg, Wolfsberger AC
+6, Dustin Bomheuer, GER, D, 1.94, 85, 17-04-91, Recklinghausen, Duisburg
+7, Oliver Fink, GER, M, 1.87, 79, 06-06-82, Hirschau, Unterhaching
+8, Heinrich Schmidtgal, GER, M, 1.80, 75, 20-11-85, Issyk, Greuther Fürth
+9, Erwin Hoffer, AUT, F, 1.76, 72, 14-04-87, Baden, Napoli
+10, Levan Kenia, GEO, M, 1.76, 70, 18-10-90, Tbilisi, Karpaty Lviv
+11, Axel Bellinghausen, GER, M, 1.81, 76, 17-05-83, Siegburg, Augsburg
+13, Adam Bodzek, GER, D, 1.85, 77, 07-09-85, Zabrze, Duisburg
+14, Bruno Soares, BRA, D, 1.94, 85, 21-08-88, Belo Horizonte, Duisburg
+15, Ivan Paurević, CRO, M, 1.94, 87, 01-07-91, Essen, Borussia Dortmund II
+17, Andreas Lambertz, GER, M, 1.75, 69, 15-10-84, Hackenbroich, Neuss
+18, Mathis Bolly, CIV, M, 1.85, 77, 14-11-90, Oslo, Lillestrøm
+19, Tobias Levels, GER, D, 1.86, 81, 22-11-86, St Tönis, B Mönchengladbach
+21, Christian Gartner, AUT, M, 1.79, 70, 03-04-94, Kittsee, Mattersburg
+22, Giannis Gianniotas, GRE, M, 1.75, 72, 29-04-93, Thessaloniki, Aris
+23, Ben Halloran, AUS, M, 1.80, 73, 14-06-92, Cairns, Brisbane Roar
+24, Samuel Piette, CAN, M, 1.73, 69, 12-11-94, Repentigny, Metz
+25, Tuğrul Erat, TUR, F, 1.93, 81, 17-12-92, Solingen, None
+26, Eren Taşkin, AZE, M, 1.80, 69, 26-08-92, Duisburg, Duisburg
+28, Martin Latka, CZE, D, 1.92, 83, 28-09-84, České Budějovice, Slavia Prague
+29, Aliosman Aydin, GER, M, 1.78, 77, 06-02-92, Dormagen, None
+30, Aristide Bancé, BFA, F, 1.92, 90, 19-09-84, Abidjan, Augsburg
+31, Christian Weber, GER, D, 1.75, 72, 15-09-83, Saarbrücken, Alemannia Aachen
+33, Fabian Giefer, GER, G, 1.96, 86, 17-05-90, Adenau, Bayer Leverkusen
+34, Muhammet Karpuz, TUR, D, 1.80, 72, 18-03-94, Erkelenz, B Mönchengladbach
+35, Charlison Benschop, CUW, F, 1.91, 90, 21-08-89, Koraalspecht, Brest
+36, Timm Golley, GER, F, 1.80, 70, 17-02-91, Dinslaken, Wesel-Lackhausen
+37, Ihlas Bebou, TOG, F, 1.83, 72, 23-04-94, Sokodé, Hilden
+38, Robin Heller, GER, G, 1.89, 85, 20-12-94, Mönchengladbach, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Genki Omae, JPN, F, 1.66, 61, 10-12-89, Kanagawa, Shimizu S-Pulse (On Loan)
+5, Juanan, ESP, D, 1.92, 88, 27-04-87, Palma de Mallorca, Újpest
+26, Timo Furuholm, FIN, F, 1.84, 80, 11-10-87, Pori, Hallescher FC
+27, Stefan Reisinger, GER, F, 1.85, 82, 14-09-81, Landshut, Saarbrücken
+16, Gerrit Wegkamp, GER, F, 1.93, 85, 13-04-93, Ochtrup, Duisburg (On Loan)

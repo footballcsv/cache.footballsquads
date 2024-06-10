@@ -1,0 +1,63 @@
+=  Tottenham Hotspur - English Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Clint Dempsey, USA, M, 1.86, 84, 09-03-83, Nacogdoches, Fulham
+4, Younès Kaboul, FRA, D, 1.90, 87, 04-01-86, St-Julien-en-Genevois, Portsmouth
+5, Jan Vertonghen, BEL, D, 1.89, 79, 24-04-87, Sint-Niklaas, Ajax
+6, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Derby Co
+7, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Leeds U
+8, Scott Parker, ENG, M, 1.75, 70, 13-10-80, Lambeth, West Ham U
+10, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Manchester C
+11, Gareth Bale, WAL, M, 1.83, 74, 16-07-89, Cardiff, Southampton
+13, William Gallas, FRA, D, 1.83, 72, 17-08-77, Asnieres, Arsenal
+15, David Bentley, ENG, M, 1.75, 68, 27-08-84, Peterborough, Blackburn R
+16, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Sheffield U
+18, Jermain Defoe, ENG, F, 1.69, 65, 07-10-82, Beckton, Portsmouth
+19, Mousa Dembélé, BEL, M, 1.77, 70, 17-07-87, Wilrijk, Fulham
+20, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Nottingham F
+22, Gylfi Sigurðsson, ISL, M, 1.86, 77, 08-09-89, Reykjavik, 1899 Hoffenheim
+23, Lewis Holtby, GER, F, 1.74, 66, 18-09-90, Erkelenz, Schalke
+24, Brad Friedel, USA, G, 1.88, 91, 18-05-71, Lakewood, Aston Villa
+25, Hugo Lloris, FRA, G, 1.88, 78, 26-12-86, Nice, Lyon
+28, Kyle Walker, ENG, D, 1.78, 73, 28-05-90, Sheffield, Sheffield U
+29, Jake Livermore, ENG, M, 1.80, 76, 14-11-89, Enfield, None
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, Internacional
+32, Benoît Assou-Ekotto, CMR, D, 1.80, 69, 24-03-84, Arras, Lens
+33, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, None
+37, Harry Kane, ENG, F, 1.83, 65, 28-07-93, Walthamstow, None
+41, Shaquile Coulthirst, ENG, F, 1.80, 77, 02-11-94, Hackney, None
+42, Nabil Bentaleb, FRA, M, 1.87, 68, 24-11-94, Lille, Lille
+43, Ryan Fredericks, ENG, M, 1.73, 72, 10-10-92, Potters Bar, None
+44, Cristian Ceballos, ESP, M, 1.73, 67, 03-12-92, Barcelona, Barcelona
+45, Jonathan Obika, ENG, F, 1.85, 78, 12-09-90, Enfield, None
+46, Tom Carroll, ENG, M, 1.77, 71, 28-05-92, Watford, None
+47, Jake Nicholson, ENG, M, 1.83, 73, 19-07-92, Harrow, None
+52, Laste Dombaxe, ENG, M, 1.71, 62, 15-05-95, Luanda, None
+53, Cameron Lancaster, ENG, F, 1.83, 74, 05-11-92, Camden, None
+55, William Ekong, NED, D, 1.91, 74, 01-09-93, Haarlem, None
+56, Jonathan Miles, ENG, G, 1.81, 71, 29-03-93, Colchester, None
+57, Jordan Archer, SCO, G, 1.86, 80, 12-04-93, Walthamstow, Charlton Ath
+58, Dean Parrett, ENG, M, 1.77, 74, 16-11-91, Hampstead, QPR
+59, Kevin Stewart, ENG, D, 1.71, 73, 07-09-93, Enfield, None
+60, Jack Barthram, ENG, D, 1.73, 75, 13-10-93, Newham, None
+61, Jack Munns, ENG, M, 1.66, 64, 18-11-93, Dagenham, Leyton Orient
+62, Ezekiel Fryers, ENG, D, 1.83, 75, 09-09-92, Manchester, Standard Liège
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Sébastien Bassong, CMR, D, 1.87, 73, 09-07-86, Paris, Norwich C
+14, Luka Modrić, CRO, M, 1.75, 67, 09-09-85, Zadar, Real Madrid
+35, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Charlton Ath
+3, Danny Rose, ENG, D, 1.73, 75, 02-07-90, Doncaster, Sunderland (On Loan)
+10, Rafael van der Vaart, NED, M, 1.75, 74, 11-02-83, Heemskerk, Hamburg
+17, Giovani dos Santos, MEX, M, 1.73, 77, 11-05-89, Monterrey, Mallorca
+25, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Re-Registered (10)
+23, Carlo Cudicini, ITA, G, 1.85, 80, 06-09-73, Milan, LA Galaxy
+27, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Almería (On Loan)
+1, Heurelho Gomes, BRA, G, 1.91, 82, 15-02-81, João Pinheiro, 1899 Hoffenheim (On Loan)
+21, Jermaine Jenas, ENG, M, 1.77, 76, 18-02-83, Nottingham, QPR
+31, Andros Townsend, ENG, M, 1.83, 76, 16-07-91, Whipps Cross, QPR (On Loan)
+38, Ryan Mason, ENG, M, 1.75, 71, 13-06-91, Enfield, Lorient (On Loan)
+39, Adam Smith, ENG, D, 1.73, 67, 29-04-91, Leytonstone, Millwall (On Loan)
+54, Alex Pritchard, ENG, F, 1.71, 62, 03-05-93, Grays, Peterborough U (On Loan)

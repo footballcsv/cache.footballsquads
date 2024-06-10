@@ -1,0 +1,53 @@
+=  Barnet - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Graham Stack, IRL, G, 1.88, 79, 26-09-81, Hampstead, Hibernian
+2, Gavin Hoyte, ENG, D, 1.80, 70, 06-06-90, Waltham Forest, Gillingham
+3, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+4, Bira Dembélé, FRA, D, 1.89, 75, 22-03-88, Villepinte, Stevenage
+5, Bondz Ngala, ENG, D, 1.83, 76, 03-10-89, Newham, Portsmouth
+6, Michael Nelson, ENG, D, 1.88, 77, 15-03-82, Bishop Auckland, Cambridge U
+7, Andy Yiadom, ENG, M, 1.80, 75, 02-12-91, Camden, Braintree T
+8, Curtis Weston, ENG, M, 1.80, 74, 24-01-87, Greenwich, Gillingham
+9, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Alfreton T
+11, Mauro Vilhete, POR, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+12, Luke Gambin, ENG, M, 1.68, 70, 16-03-93, Sutton, None
+14, Sam Togwell, ENG, M, 1.80, 78, 14-10-84, Maidenhead, Chesterfield
+15, Ben Tomlinson, ENG, F, 1.80, 75, 31-10-89, Dinnington, Lincoln C
+16, Tom Champion, ENG, M, 1.90, 78, 15-05-86, Barnet, Cambridge U
+17, Sam Muggleton, ENG, D, 1.80, 71, 17-11-95, Melton Mowbray, Gillingham
+18, Michael Gash, ENG, F, 1.77, 77, 03-09-86, Cambridge, Kidderminster H
+19, Shaun Batt, ENG, F, 1.87, 80, 22-02-87, Luton, Leyton Orient
+20, Fumnaya Shomotun, NGA, M, 1.73, 67, 29-05-97, , None
+21, Jamie Stephens, ENG, G, 1.86, 78, 24-08-93, Wotton-under-Edge, Newport Co
+22, Mathew Stevens, ENG, F, 1.80, 74, 12-02-98, Frimley, None
+23, Ryan Gondoh, ENG, F, 1.83, 75, 06-06-97, Sutton, Carshalton Ath
+28, Justin Amaluzor, ENG, F, 1.83, 73, 17-10-96, Southwark, Dartford
+31, Kai McKenzie Lyle, ENG, G, 1.96, 86, 30-11-97, Haringey, None
+34, Mark Randall, ENG, M, 1.83, 82, 28-09-89, Milton Keynes, MK Dons
+35, Chris Hackett, ENG, M, 1.83, 73, 01-03-83, Oxford, Northampton T
+36, Alie Sesay, ENG, D, 1.83, 75, 25-07-93, Enfield, Leicester C
+37, James Pearson, ENG, D, 1.86, 75, 19-01-93, Sheffield, Leicester C
+38, James Roberts, ENG, F, 1.80, 75, 21-06-96, Stoke Mandeville, Oxford U
+40, Harry Taylor, ENG, D, 1.88, 79, 05-05-97, Hammersmith, None
+41, Joe Gater, ENG, D, 1.91, , 24-03-97, , Aldershot T
+42, Charlie Kennedy, ENG, M, 1.88, , 15-04-97, , None
+44, Wesley Fonguck, ENG, M, 1.85, 77, 16-07-97, Lambeth, None
+45, Shane Cojocărel, ROU, F, 1.70, 65, 20-03-97, Bucharest, None
+46, Chinua Cole, ENG, D, , , 22-04-94, Brent, Farnborough
+47, Nana Kyei, ENG, M, 1.80, 70, 10-01-98, Hackney, None
+48, Tom Day, ENG, D, 1.78, 65, 24-10-97, Redhill, Crystal Palace
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Max Crocombe, NZL, G, 1.93, 88, 12-08-93, Auckland, Oxford U
+32, Jack Stacey, ENG, M, 1.80, 68, 06-04-96, Bracknell, Reading
+29, Nicky Bailey, ENG, M, 1.78, 80, 10-06-84, Hammersmith, Sutton U
+27, Josh Clarke, ENG, M, 1.73, 70, 05-07-94, Waltham Forest, Brentford
+33, Ian Lawlor, IRL, G, 1.92, 80, 27-10-94, Dublin, Manchester C
+10, Kevin Lisbie, JAM, F, 1.78, 69, 17-10-78, Hackney, 
+24, Aaron McLean, ENG, F, 1.71, 77, 25-05-83, Hammersmith, Ebbsfleet U
+43, Tamille Roache, ENG, D, 1.83, , 30-09-96, , 
+26, Hakeem Odoffin, ENG, D, 1.91, 81, 13-04-98, Barnet, Wolverhampton W
+30, Ravan Constable, JAM, G, 1.93, 80, 01-09-94, Kingston, 

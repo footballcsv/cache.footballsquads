@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2020
+
+20 teams
+- [Athletico Paranaense](athpara.txt)
+- [Atlético Goianiense](atgoian.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Bahia](bahia.txt)
+- [Botafogo](botafogo.txt)
+- [Ceará](ceara.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Fortaleza](fortal.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Palmeiras](palmeir.txt)
+- [Red Bull Bragantino](rbbrag.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vasco da Gama](vasco.txt)

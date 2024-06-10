@@ -1,0 +1,44 @@
+=  Morecambe - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Zak Mills, ENG, D, 1.83, 83, 28-05-92, Peterborough, Grimsby T
+3, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, Burnley
+4, Alex Kenyon, ENG, M, 1.82, 76, 17-07-92, Preston, Stockport Co
+5, Steven Old, NZL, D, 1.91, 80, 17-02-86, Palmerston North, GAIS
+6, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Bury
+7, Richard Bennett, ENG, F, 1.93, 90, 03-03-91, Oldham, Carlisle U
+8, Andrew Fleming, ENG, M, 1.80, 67, 05-10-87, Liverpool, Wrexham
+9, Vadaine Oliver, ENG, F, 1.88, 78, 21-10-91, Sheffield, York C
+10, Adam Campbell, ENG, F, 1.70, 73, 01-01-95, North Shields, Notts Co
+11, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Rotherham U
+12, Ritchie Sutton, ENG, D, 1.83, 72, 29-04-86, Stoke-on-Trent, Tranmere R
+13, Dawid Szczepaniak, POL, G, 1.94, 80, 13-04-00, Nowy Sącz, Airbus UK
+14, Sam Dalby, ENG, F, 1.91, 78, 17-01-00, Leytonstone, Leeds U
+15, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+16, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Bolton W
+17, Liam Mandeville, ENG, F, 1.80, 77, 17-02-97, Lincoln, Doncaster R
+18, Rhys Oates, ENG, F, 1.83, 74, 04-12-94, Pontefract, Hartlepool U
+19, Carlos Mendes Gomes, ESP, F, 1.78, 66, 14-11-98, Yeumbeul, West Didsbury & Chorlton
+20, Lamin Jagne, ENG, M, 1.68, 62, 28-10-97, Newham, Preston NE
+21, Mark Halstead, ENG, G, 1.91, 89, 01-01-90, Blackpool, Southport
+22, James Sinclair, ENG, D, 1.73, 79, 22-10-87, Newcastle upon Tyne, GAIS
+23, Tyler Brownsword, ENG, M, 1.80, 73, 31-12-99, South Shields, None
+24, Paul McKay, SCO, D, 1.91, 82, 19-11-96, Glasgow, Cardiff C
+25, Ben Hedley, ENG, M, 1.78, 76, 18-10-98, Gateshead, None
+26, Piero Mingoia, ENG, M, 1.69, 70, 20-10-91, Enfield, Accrington Stanley
+27, Jordan Cranston, WAL, D, 1.80, 83, 11-03-93, Wednesfield, Cheltenham T
+28, AJ Leitch-Smith, ENG, F, 1.80, 78, 06-03-90, Crewe, Shrewsbury T
+29, Amilcar Djau Codjovi, ESP, M, , , 22-02-02, , Rayo Vallecano
+30, Kyle Hawley, ENG, F, 1.78, 70, 11-05-00, Oldham, None
+31, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Wolverhampton W
+32, Freddie Price, ENG, M, 1.78, 69, 27-04-03, Stafford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Garry Thompson, ENG, M, 1.78, 76, 24-11-80, Kendal, Workington
+24, Joe Piggott, ENG, F, 1.83, 77, 23-06-99, Nantwich, Wigan Ath
+12, Jason Oswell, ENG, F, 1.83, 76, 07-10-92, Northwich, Wrexham
+14, Josef Yarney, ENG, D, 1.83, 70, 08-10-97, Liverpool, Newcastle U
+26, Florent Cuvelier, BEL, M, 1.82, 72, 12-09-92, Brussels, 

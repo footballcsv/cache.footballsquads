@@ -1,0 +1,23 @@
+# French Ligue 2 2007/08
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Bastia](bastia.txt)
+- [Boulogne](boulogne.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dijon](dijon.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Guingamp](guinga.txt)
+- [Le Havre](lehavre.txt)
+- [Libourne](libourne.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Niort](niort.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Troyes](troyes.txt)

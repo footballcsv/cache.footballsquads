@@ -1,0 +1,59 @@
+=  Standard Liège - Belgian Eerste Klasse A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jean-François Gillet, BEL, G, 1.81, 82, 31-05-79, Liège, Catania
+2, Réginal Goreux, HAI, D, 1.75, 73, 31-12-87, Saint-Michel, FC Rostov
+5, Danilo, BRA, M, 1.82, 73, 28-02-96, Simões Filho, Sporting Braga
+7, Mathieu Dossevi, TOG, M, 1.72, 65, 12-02-88, Chambray-les-Tours, Olympiakos
+8, Benito Raman, BEL, F, 1.72, 67, 07-11-94, Gent, KAA Gent
+9, Renaud Emond, BEL, F, 1.86, 73, 05-12-91, Virton, Waasland-Beveren
+10, Dieumerci Ndongala, BEL, M, 1.70, 60, 14-06-91, Kinshasa, KAA Gent
+11, Jonathan Bolingi, COD, F, 1.85, 74, 30-06-94, Kinshasa, TP Mazembe
+13, Alexander Scholz, DEN, D, 1.89, 87, 24-10-92, Copenhagen, Lokeren
+15, Merveille Bokadi, COD, M, 1.86, 79, 21-05-92, Kinshasa, TP Mazembe
+16, Arnaud Bodart, BEL, G, 1.84, 75, 11-03-98, Seraing, None
+17, Ryan Mmaee, BEL, F, 1.83, 78, 01-04-97, , None
+18, Răzvan Marin, ROU, M, 1.77, 70, 23-05-96, Bucharest, Viitorul Constanța
+20, Samy Mmaee, BEL, D, 1.85, 82, 08-09-96, Halle, None
+21, Eyong Enoh, CMR, M, 1.80, 76, 23-03-86, Kumba, Ajax
+22, Edmilson Junior, BEL, M, 1.80, 65, 19-08-94, Liège, Sint-Truiden
+24, Corentin Fiore, BEL, D, 1.83, 75, 24-03-95, Carnières, None
+25, Filip Mladenović, SRB, D, 1.80, 72, 15-08-91, Čačak, Köln
+26, Christian Luyindama, COD, D, 1.91, 91, 08-01-94, Kinshasa, TP Mazembe
+27, Darwin Andrade, COL, D, 1.76, 70, 11-02-91, Monteria, Újpest
+28, Guillaume Hubert, BEL, G, 1.97, 88, 11-01-94, Charleroi, Valenciennes
+30, Jonathan Legear, BEL, M, 1.79, 72, 13-04-87, Liège, Blackpool
+32, Collins Fai, CMR, D, 1.67, 60, 13-08-92, Bamenda, Dinamo Bucureşti
+33, Miloš Kosanović, SRB, D, 1.91, 83, 28-05-90, Čonoplja, Mechelen
+34, Konstantinos Laifis, CYP, D, 1.85, 77, 19-05-93, Paralimni, Olympiakos
+38, Alexandro Cavagnera, BEL, M, 1.85, , 01-12-98, , None
+40, Jérôme Déom, BEL, M, 1.75, 65, 19-04-99, Libramont-Chevigny, None
+41, Reno Wilmots, BEL, M, 1.82, 74, 16-03-97, , Sint-Truiden
+44, Ibrahima Cissé, BEL, M, 1.84, 77, 28-02-94, Liège, Mechelen
+45, Dimitri Lavalée, BEL, D, 1.87, 76, 13-01-97, Soumagne, None
+52, Ibrahima Bah, BEL, F, , , 01-01-99, , None
+70, Orlando Sá, POR, F, 1.88, 85, 26-05-88, Barcelos, Maccabi Tel Aviv
+77, Valeriy Luchkevych, UKR, D, 1.76, 65, 11-01-96, Zaporizhya, Dnipro
+99, Ishak Belfodil, ALG, F, 1.91, 86, 12-01-92, Mostaganem, Baniyas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, Le Havre
+18, Ivan Santini, CRO, F, 1.90, 86, 21-05-89, Zadar, Caen
+3, Olivier Kingue, CMR, D, 1.88, 85, 20-02-96, Yaoundé, Kufour Sport Academy
+11, Benjamin Tetteh, GHA, F, 1.90, 83, 10-07-97, Accra, Slovácko (On Loan)
+25, Rochinha, POR, M, 1.72, 64, 03-05-95, Espinho, Boavista
+18, Fares Bahlouli, FRA, M, 1.81, 78, 08-04-95, Lyon, Monaco
+36, Dino Arslanagic, BEL, D, 1.88, 79, 24-04-93, Nivelles, Excel Mouscron
+23, Adrien Trebel, FRA, M, 1.70, 60, 03-03-91, Dreux, Anderlecht
+5, Elderson Uwa Echiejile, NGA, D, 1.84, 76, 20-01-88, Cotonou, Monaco
+60, Birama Touré, MLI, M, 1.83, 75, 06-06-92, Kayes, Auxerre (On Loan)
+26, Senne Vits, BEL, G, 1.86, 68, 31-08-96, Leuven, MVV Maastricht (On Loan)
+19, Mohamed Yattara, GUI, F, 1.85, 76, 28-07-93, Conakry, Auxerre (On Loan)
+31, William Soares, BRA, M, 1.85, 74, 07-02-85, Araporã, Hapoel Be'er Sheva
+10, Jean-Luc Dompé, FRA, M, 1.79, 75, 12-08-95, Arpajon, Eupen (On Loan)
+12, Beni Badibanga, BEL, M, 1.72, 67, 12-02-96, , Roda JC (On Loan)
+14, Isaac Mbenza, BEL, M, 1.87, 77, 08-03-96, Saint-Denis, Montpellier
+15, Farouk Miya, UGA, M, 1.76, 75, 26-11-97, Bulo, Excel Mouscron (On Loan)
+42, Wallyson Mallmann, BRA, M, 1.83, 77, 16-02-94, Mato Grosso, Sporting CP

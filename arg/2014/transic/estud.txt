@@ -1,0 +1,38 @@
+=  Estudiantes (La Plata) - Argentinian Primera División 2014 Transición
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustín Silva, ARG, G, 1.91, 93, 28-06-89, Baradero, None
+2, Leandro Desábato, ARG, D, 1.86, 84, 24-01-79, Cafferatta, Argentinos Juniors
+3, Ernesto Goñi, URU, D, 1.86, 80, 13-01-85, Montevideo, Quilmes
+4, Mauricio Rosales, ARG, D, 1.74, 68, 10-03-92, La Plata, None
+5, Gastón Gil Romero, ARG, M, 1.77, 79, 06-05-93, General Roca, None
+6, Román Martínez, ARG, M, 1.84, 79, 27-03-83, Morón, Tigre
+7, Carlos Auzqui, ARG, M, 1.74, 69, 16-09-91, Longchams, None
+8, Israel Damonte, ARG, M, 1.75, 72, 06-01-82, Salto, Nacional [URU]
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, None
+10, Joaquín Correa, ARG, M, 1.88, 76, 13-08-94, Juan Bautista Alberdi, None
+12, Hilario Navarro, ARG, G, 1.92, 84, 14-11-80, Corrientes, Independiente
+13, Matías Aguirregaray, URU, D, 1.74, 78, 01-04-89, Porto Alegre, Peñarol
+14, Sebastián Prediguer, ARG, M, 1.84, 80, 04-09-86, Crespo, Baniyas
+15, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, Olimpo (BB)
+16, Germán Ré, ARG, D, 1.77, 73, 02-11-81, Santa Fé, Newell's Old Boys
+17, Mauricio Carrasco, ARG, F, 1.73, 71, 24-09-87, Neuquén, None
+18, Leonardo Jara, ARG, M, 1.77, 75, 20-05-91, Corrientes, None
+19, Matías Orihuela, ARG, D, 1.77, 70, 17-02-92, Córdoba, Deportivo Móron
+20, Diego Vera, URU, F, 1.84, 74, 05-01-85, Montevideo, Atlético Rafaela
+21, Jonathan Schunke, ARG, D, 1.94, 85, 22-05-87, 25 de Mayo, Ferro Carril Oeste
+22, Gabriel Graciani, ARG, M, 1.80, 75, 28-11-92, Bovril, Colón (Santa Fe)
+23, Leandro Benítez, ARG, M, 1.80, 80, 05-04-81, Ensenada, Quilmes
+24, Julián Marchioni, ARG, M, 1.81, 78, 11-03-93, La Plata, None
+25, Nahuel Losada, ARG, G, 1.85, 79, 17-04-93, Berisso, None
+26, Maximiliano Oliva, ARG, D, 1.71, 76, 04-03-90, Gobernador Crespo, Aris Limassol
+27, Matías Presentado, ARG, D, 1.87, 78, 13-08-92, Mar del Plata, None
+28, Luciano Vargas, ARG, D, 1.86, 74, 28-01-94, Berazategui, None
+29, Gabriel Seijas, ARG, M, 1.75, 70, 24-03-94, Ranelagh, None
+30, Leonardo Marinucci, ARG, M, 1.75, 70, 28-02-93, La Plata, Villa Mitre (BB)
+31, Federico Anselmo, ARG, F, 1.86, 82, 17-04-94, Las Acequias, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Juan Manuel Olivera, URU, F, 1.91, 80, 14-08-81, Montevideo, Peñarol

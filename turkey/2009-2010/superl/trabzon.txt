@@ -1,0 +1,41 @@
+=  Trabzonspor - Turkish Süper Lig 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tony Mario Sylva, SEN, G, 1.85, 77, 17-05-75, Guediawaye, Lille
+3, Hrvoje Čale, CRO, D, 1.84, 76, 04-03-85, Zagreb, Dinamo Zagreb
+4, Rigobert Song, CMR, D, 1.83, 76, 01-07-76, Nkanglicock, Galatasaray
+5, Engin Baytar, TUR, M, 1.77, 71, 11-07-83, Cologne, Gençlerbirliği
+6, Ceyhun Gülselam, TUR, M, 1.92, 88, 25-12-87, Munich, Unterhaching
+7, Zafer Yelen, TUR, M, 1.80, 79, 30-08-86, Berlin, Hansa Rostock
+8, Selçuk İnan, TUR, M, 1.82, 74, 10-02-85, İskenderun, Manisaspor
+9, Gökhan Ünal, TUR, F, 1.84, 81, 23-07-82, Ankara, Kayserispor
+10, Umut Bulut, TUR, F, 1.84, 75, 15-03-83, Yeşilhisar, Ankaragücü
+11, Barış Memiş, TUR, M, 1.67, 64, 05-01-90, Trabzon, None
+14, Rasimcan Değirmenci, TUR, D, 1.90, 75, 15-09-92, Trabzon, None
+15, Ferhat Öztorun, TUR, D, 1.76, 73, 08-05-87, İstanbul, Manisaspor
+16, Egemen Korkmaz, TUR, D, 1.83, 80, 03-11-82, Balıkesir, Bursaspor
+17, Burak Yılmaz, TUR, F, 1.88, 81, 15-07-85, Antalya, Fenerbahçe
+18, Tayfun Cora, TUR, D, 1.82, 77, 05-12-83, Vakfikebir, None
+19, Şahin Çakır, TUR, F, 1.82, 72, 01-05-89, Yüreğir, None
+20, Gustavo Colman, ARG, M, 1.75, 72, 18-04-85, Derqui, Germinal Beerschot
+21, Murat Tosun, TUR, M, 1.83, 76, 26-02-84, Berlin, Ankaraspor
+23, Giray Kaçar, TUR, D, 1.87, 78, 15-03-85, Karaman, Gençlerbirliği OFTAŞ
+25, Alanzinho, BRA, M, 1.64, 62, 22-02-83, Flamengo, Stabæk
+27, Sezer Badur, TUR, M, 1.81, 77, 20-06-84, Berlin, Sivasspor
+29, Tolga Zengin, TUR, G, 1.92, 81, 10-10-83, Hopa, None
+30, Serkan Balcı, TUR, D, 1.73, 74, 22-08-83, Nazilli, Fenerbahçe
+33, Drago Gabrić, CRO, M, 1.76, 66, 27-09-86, Split, Hajduk Split
+35, Onur Kıvrak, TUR, G, 1.87, 74, 01-01-88, Alaşehir, Karşıyaka
+41, Ömer Aysan Barış, TUR, D, 1.77, 71, 23-07-82, İzmit, Ankaraspor
+61, Ibrahima Yattara, GUI, F, 1.75, 67, 03-06-80, Kamsar, Royal Antwerp
+90, Téofilo Gutiérrez, COL, F, 1.78, 70, 27-05-85, Barranquilla, Junior
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Göksu Alhas, TUR, M, 1.68, 67, 21-03-90, Araklı, Trabzon Karadeniz (On Loan)
+26, Mustafa Yumlu, TUR, D, 1.91, 77, 25-09-87, Trabzon, Trabzon Karadeniz (On Loan)
+28, Razundara Tjikuzu, NAM, M, 1.73, 74, 12-12-79, Swakopsmund, Diyarbakırspor (On Loan)
+22, Eren Görür, TUR, F, 1.90, 82, 06-03-87, Altındağ, Çorumspor (On Loan)
+9, Gökhan Ünal, TUR, F, 1.84, 81, 23-07-82, Ankara, Fenerbahçe
+99, Hasan Ahmet Sari, TUR, F, 1.80, 75, 21-01-92, Şişli, Trabzon Karadeniz (On Loan)

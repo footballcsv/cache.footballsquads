@@ -1,0 +1,21 @@
+# Portuguese Superliga 2002/03
+
+18 teams
+- [Académica](academ.txt)
+- [Beira-Mar](beiramar.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Nacional](nacional.txt)
+- [Paços de Ferreira](pacos.txt)
+- [FC Porto](porto.txt)
+- [Santa Clara](santa.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [União de Leiria](uniaole.txt)
+- [Varzim](varzim.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

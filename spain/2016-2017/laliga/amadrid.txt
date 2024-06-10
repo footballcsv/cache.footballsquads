@@ -1,0 +1,46 @@
+=  Atlético Madrid - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Ángel Moyá, ESP, G, 1.85, 75, 02-04-84, Binissalem, Getafe
+2, Diego Godín, URU, D, 1.85, 73, 16-02-86, Rosario, Villarreal
+3, Filipe Luis, BRA, D, 1.82, 70, 09-08-85, Jaraguá do Sul, Chelsea
+5, Tiago, POR, M, 1.83, 75, 02-05-81, Viana do Castelo, Juventus
+6, Koke, ESP, M, 1.78, 73, 08-01-92, Madrid, Atlético Madrid B
+7, Antoine Griezmann, FRA, F, 1.74, 72, 21-03-91, Mâcon, Real Sociedad
+8, Saúl Ñiguez, ESP, M, 1.82, 73, 21-11-94, Elche, Atlético Madrid B
+9, Fernando Torres, ESP, F, 1.86, 78, 20-03-84, Madrid, Milan
+10, Yannick Ferreira Carrasco, BEL, M, 1.80, 67, 04-09-93, Elsene, Monaco
+11, Ángel Correa, ARG, M, 1.74, 69, 09-03-95, Rosario, San Lorenzo
+12, Augusto Fernández, ARG, M, 1.77, 71, 10-04-86, Pergamino, Celta Vigo
+13, Jan Oblak, SVN, G, 1.85, 77, 07-01-93, Škofja Loka, Benfica
+14, Gabi, ESP, M, 1.79, 68, 10-07-83, Madrid, Zaragoza
+15, Stefan Savić, MNE, D, 1.86, 73, 08-01-91, Mojkovac, Fiorentina
+16, Šime Vrsaljko, CRO, D, 1.83, 76, 10-01-92, Zadar, Sassuolo
+17, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Torino
+19, Lucas Hernández, FRA, D, 1.80, 75, 14-02-96, Marseille, Atlético Madrid B
+20, Juanfran, ESP, D, 1.80, 72, 09-01-85, Crevillent, Osasuna
+21, Kevin Gameiro, FRA, F, 1.72, 69, 09-04-87, Senlis, Sevilla
+22, Thomas Partey, GHA, M, 1.85, 73, 13-07-93, Odumase Krobo, Atlético Madrid B
+23, Nicolás Gaitán, ARG, M, 1.73, 67, 23-02-88, San Martín, Benfica
+24, José Giménez, URU, D, 1.85, 80, 20-01-95, Toledo, Danubio
+25, André Moreira, POR, G, 1.95, 85, 02-12-95, Ribeirão, Ribeirão
+26, Bernabé, ESP, G, 1.89, 76, 18-02-93, Los Palacios, Betis B
+27, Caio, BRA, M, 1.77, 70, 31-07-97, Santos, Santos
+28, Nicolás Schiappacasse, URU, F, 1.80, 73, 12-01-99, Montevideo, River Plate [URU]
+31, Álex García, ESP, D, 1.92, 88, 07-02-94, Zaragoza, Huesca
+32, Rafa Muñoz, ESP, D, 1.80, 75, 19-06-94, Málaga, Atlético Madrid B
+34, Roberto Olabe, ESP, M, 1.78, 70, 05-05-96, Salamanca, Villarreal C
+37, Alberto Rodríguez, ESP, D, 1.85, 72, 10-09-97, Fuenlabrada, Atlético Madrid B
+39, Juan Moreno, ESP, M, 1.75, 69, 11-05-97, Móstoles, Atlético Madrid B
+42, Roberto Núñez, ESP, F, 1.82, 77, 03-01-96, Talavera de la Reina, Atlético Madrid B
+44, Keidi Bare, ALB, M, 1.74, 59, 28-08-97, Fier, Atlético Madrid B
+45, Ferni, ESP, M, 1.80, 72, 07-04-98, Talavera de la Reina, Atlético Madrid B
+46, Toni Moya, ESP, M, 1.80, 75, 20-03-98, Mérida, Atlético Madrid B
+48, Zaka, ALG, F, , , 01-06-97, Aïn Témouchent, Atlético Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Javi Manquillo, ESP, D, 1.72, 62, 05-05-94, Madrid, Sunderland (On Loan)
+17, Óliver Torres, ESP, M, 1.78, 70, 10-11-94, Navalmoral de la Mata, FC Porto (On Loan)
+18, Diogo Jota, POR, M, 1.78, 70, 04-12-96, Massarelos, FC Porto (On Loan)

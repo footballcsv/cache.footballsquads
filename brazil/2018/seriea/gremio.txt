@@ -1,0 +1,55 @@
+=  Grêmio - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+2, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Santa Cruz
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Michel, BRA, M, 1.75, 67, 22-03-90, São Paulo, Novorizontino
+6, Leonardo Gomes, BRA, D, 1.83, 79, 30-06-96, Araguaína, Boa
+7, Luan, BRA, F, 1.80, 71, 27-03-93, São José do Rio Preto, América-SP
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, São Paulo
+9, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea, Joinville
+10, Douglas, BRA, M, 1.75, 66, 18-02-82, Criciúma, Monte Azul
+11, Everton, BRA, F, 1.74, 72, 22-03-96, Fortaleza, Fortaleza
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+14, Kaio, BRA, M, 1.73, 62, 18-03-95, Várzea Grande, Juventude
+15, Vico, BRA, F, 1.74, 68, 03-12-96, Cascavel, None
+16, Thaciano, BRA, M, 1.82, 73, 12-05-95, Campina Grande, Boa
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Juventude
+21, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Vasco da Gama
+22, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, Juventude
+23, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, Cruzeiro
+26, Marcelo Oliveira, BRA, D, 1.84, 76, 29-03-87, Salvador, Cruzeiro
+27, Thonny Anderson, BRA, M, 1.84, 81, 27-12-97, São Paulo, Cruzeiro
+28, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Red Bull Salzburg
+29, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Corinthians
+30, Bruno Grassi, BRA, G, 1.90, 88, 05-03-87, Tubarão, Cruzeiro-RS
+31, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, None
+32, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, São Caetano
+33, Pepê, BRA, F, 1.75, 68, 24-02-97, Foz do Iguaçu, Foz do Iguaçu
+34, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, None
+35, Felipe, BRA, D, , , 27-09-99, , None
+36, Guilherme Guedes, BRA, D, 1.77, 73, 18-05-99, Porto Alegre, None
+37, Derlan, BRA, D, 1.87, 80, 03-02-96, Volta Redonda, Fluminense
+38, Denilson, BRA, D, 1.87, 77, 18-04-95, Brasília, None
+39, Luis Henrique, BRA, F, 1.84, 81, 17-03-98, Vila Velha, Nacional-SP
+40, Isaque, BRA, M, 1.78, 75, 22-04-97, São Paulo, São Bento
+41, Tonhão, BRA, D, 1.88, 76, 10-10-97, Carnaúba, ABC
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Flamengo
+70, Marinho, BRA, M, 1.76, 62, 29-05-90, Penedo, Changchun Yatai
+77, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, São Paulo
+89, Gabriel, BRA, D, 1.91, 90, 28-02-89, Marques de Souza, Lajeadense
+90, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Sport Recife
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, São Paulo
+20, Léo, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, Rio Ave (On Loan)
+31, Lucas Poletto, BRA, M, 1.80, 74, 29-03-95, Belo Horizonte, Apollon Larissa
+29, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Barcelona
+10, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Re-Registered (77)
+13, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Al-Wasl (On Loan)
+19, Hernane, BRA, F, 1.83, 80, 04-08-86, Bom Jesus da Lapa, Sport Recife
+25, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, Fenerbahçe

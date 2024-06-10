@@ -1,0 +1,41 @@
+=  Los Angeles Galaxy - USA Major League Soccer 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan Bond, ENG, G, 1.93, 84, 19-05-93, Hemel Hempstead, WBA
+2, Julian Araujo, USA, D, 1.78, 70, 13-08-01, Lompoc, None
+3, Derrick Williams, IRL, D, 1.80, 75, 17-01-93, Waterford, Blackburn R
+4, Séga Coulibaly, FRA, D, 1.84, 87, 09-06-96, Bamako, Nancy
+5, Daniel Steres, USA, D, 1.83, 77, 11-11-90, Burbank, Wilmington Hammerheads
+6, Rayan Raveloson, MAD, M, 1.82, 73, 16-01-97, Anosibe Ifanja, Troyes
+7, Víctor Vázquez, ESP, M, 1.77, 72, 20-01-87, Barcelona, Eupen
+8, Jonathan dos Santos, MEX, M, 1.80, 74, 26-04-90, Monterrey, Villareal
+9, Kévin Cabral, FRA, F, 1.78, 58, 10-07-99, Paris, Valenciennes
+11, Samuel Grandsir, FRA, M, 1.68, 64, 14-08-96, Evreux, Monaco
+12, Eric Lopez, USA, G, 1.83, 75, 05-03-99, Westminster, CA, None
+14, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, Sevilla
+15, Niko Hämäläinen, FIN, M, 1.78, 64, 05-03-97, Miami, QPR
+16, Sacha Kljestan, USA, M, 1.85, 68, 09-09-85, Huntington Beach, Orlando C
+17, Sebastian Lletget, USA, M, 1.78, 69, 03-09-92, San Francisco, West Ham U
+18, Justin vom Steeg, USA, G, 1.93, 90, 05-04-97, Santa Barbara, Fortuna Düsseldorf
+19, Jorge Villafaña, USA, D, 1.75, 75, 16-09-89, Anaheim, Portland Timbers
+20, Nick DePuy, USA, F, 1.96, 94, 14-11-94, Irvine, Montreal Impact
+24, Danilo Acosta, HON, M, 1.80, 78, 17-11-97, San Pedro Sula, Real Salt Lake
+25, Cameron Dunbar, USA, F, 1.68, 58, 22-10-02, Carson, None
+26, Efrain Alvarez, USA, M, 1.73, 68, 19-06-02, Los Angeles, None
+27, Carlos Harvey, PAN, M, 1.84, 70, 03-02-00, Ciudad de Panamá, Tauro FC
+28, Kai Koreniuk, NED, F, 1.83, 79, 01-03-98, Ormond Beach, AZ Alkmaar
+29, Ethan Zubak, USA, F, 1.83, 75, 15-04-98, Corona, None
+33, Jonathan Klinsmann, USA, G, 1.92, 75, 08-04-97, Munich, St. Gallen
+37, Daniel Aguirre, USA, M, 1.78, 72, 02-07-99, Redwood City, UC Riverside
+43, Adam Saldaña, USA, M, 1.73, 66, 07-02-02, Panorama City, None
+44, Jalen Neal, USA, D, 1.85, 66, 24-08-03, Lakewood, None
+56, Jonathan Pérez, MEX, F, 1.68, 62, 18-01-03, Pico Rivera, None
+74, Marcus Ferkranus, USA, D, 1.83, 77, 10-05-03, Santa Clarita, None
+91, Oniel Fisher, JAM, M, 1.79, 70, 22-11-91, Portmore, DC United
+99, Dejan Joveljić, SRB, F, 1.81, 65, 07-08-99, Bijeljina, Eintracht Frankfurt
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Giancarlo González, CRC, D, 1.86, 78, 08-02-88, San José [CRC], LD Alajuelense (On Loan)
+48, Augustine Williams, SLE, F, 1.88, 75, 03-08-97, Freetown, San Diego Loyal (On Loan)

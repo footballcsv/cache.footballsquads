@@ -1,0 +1,56 @@
+=  Brescia - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stefano Minelli, ITA, G, 1.84, 76, 05-03-94, Brescia, None
+3, Michele Somma, ITA, D, 1.82, 77, 16-03-95, Salerno, Roma
+4, Dimitris Konstantinidis, GRE, D, 1.73, 70, 02-06-94, Thessaloniki, PAOK
+5, Mattia Viviani, ITA, M, 1.77, 74, 04-09-00, Brescia, None
+7, Ernesto Torregrossa, ITA, F, 1.84, 80, 28-06-92, Caltanissetta, Verona
+8, Alessandro Martinelli, SUI, M, 1.76, 69, 30-05-93, Mendrisio, Sampdoria
+9, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Genoa
+11, Carlos Embalo, GNB, F, 1.75, 74, 25-11-94, Bissau, Palermo
+15, Mauro Coppolaro, ITA, D, 1.80, 75, 10-03-97, Benevento, Udinese
+16, Felipe Curcio, BRA, D, 1.83, 74, 06-08-93, Jundiai, Fidelis Andria
+17, Diego Abbrandini, ITA, G, 1.87, 75, 14-09-01, Brescia, None
+18, Orji Okwonkwo, NGA, F, 1.78, 72, 19-01-98, Benin City, Bologna
+19, Edoardo Lancini, ITA, D, 1.88, 80, 10-04-94, Chiari, Lumezzane
+20, Emanuele Ndoj, ALB, M, 1.78, 70, 20-11-96, Catania, Roma
+21, Matteo Cortesi, ITA, F, 1.77, 72, 21-10-97, Vaprio d'Adda, Como
+22, Lorenzo Andrenacci, ITA, G, 1.88, 78, 02-01-95, Fermo, Milan
+23, Jacopo Dall'Oglio, ITA, M, 1.83, 77, 02-04-92, Milazzo, Reggina
+25, Dimitri Bisoli, ITA, M, 1.80, 72, 25-03-94, Cagliari, Fidelis Andria
+27, Nikolas Špalek, SVK, F, 1.70, 64, 12-02-97, Šaľa, MŠK Žilina
+30, Federico Furlan, ITA, F, 1.81, 74, 25-11-90, Montebelluna, Bari
+31, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Ternana
+32, Lautaro Rinaldi, ARG, F, 1.80, 75, 30-12-93, Acassuso, Panathinaikos
+33, Alessandro Longhi, ITA, D, 1.81, 77, 25-06-89, Desenzano, Pisa
+34, Sandro Tonali, ITA, M, 1.73, 65, 08-05-00, Lodi, None
+35, Daniele Gastaldello, ITA, D, 1.85, 77, 25-06-83, Camposampiero, Bologna
+36, Andrea Bandini, ITA, D, 1.78, 74, 16-02-94, Milan, Internazionale
+37, Alberto Pelagotti, ITA, G, 1.86, 81, 09-03-89, Empoli, Empoli
+38, Rigoberto Rivas, HON, F, 1.81, 73, 31-07-98, Balfate, Internazionale
+39, Lamine N'Diaye, ITA, F, 1.84, 72, 30-03-98, Milan, Renate
+40, Tommaso Cancellotti, ITA, D, 1.85, 77, 22-05-92, Gubbio, Juve Stabia
+41, Terence Baya, FRA, D, 1.81, 73, 12-01-98, Longjumeau, Belfort
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Racine Coly, SEN, D, 1.85, 70, 08-12-95, Dakar, Nice
+6, Franjo Prce, CRO, D, 1.83, 77, 07-01-96, Čapljina, Lazio
+8, Giampiero Pinzi, ITA, M, 1.80, 76, 11-03-81, Rome, Padova
+30, Massimo Camilli, ITA, F, 1.87, 80, 18-01-95, Rome, Sangiovannese
+32, Riccardo Gagno, ITA, G, 1.85, 78, 26-07-97, Montebelluna, Mestre (On Loan)
+12, Simone Festa, ITA, G, 1.84, 79, 25-06-99, Brescia, Trento (On Loan)
+2, Alessandro Semprini, ITA, D, 1.82, 70, 24-02-98, Brescia, Arezzo (On Loan)
+27, Luca Checchin, ITA, M, 1.80, 70, 03-05-97, Voghera, Verona
+16, Luca Cattaneo, ITA, M, 1.72, 70, 30-01-89, Porlezza, Reggiana
+26, Fabio Bertoli, ITA, M, 1.85, 75, 20-08-96, Montichiari, Prato
+11, Nicola Lancini, ITA, D, 1.77, 71, 29-03-94, Chiari, Fidelis Andria (On Loan)
+4, Modibo Dembélé, FRA, M, 1.81, 67, 14-08-93, Thiais, 
+5, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Roma
+14, Andrea Cistana, ITA, M, 1.77, 69, 01-04-97, Brescia, Prato (On Loan)
+18, Alexis Ferrante, ITA, F, 1.75, 74, 27-06-95, Buenos Aires, Pisa (On Loan)
+24, Massimiliano Mangraviti, ITA, M, 1.83, 72, 24-01-98, Brescia, Fondi (On Loan)
+28, Ricardo Bagadur, CRO, D, 1.89, 77, 16-09-95, Rijeka, FeralpiSalò (On Loan)
+29, Enzo Di Santantonio, FRA, M, 1.77, 72, 11-07-95, Tolone, Santarcangelo

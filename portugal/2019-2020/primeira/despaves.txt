@@ -1,0 +1,47 @@
+=  Desportivo das Aves - Portuguese Primeira Liga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raphael Aflalo, BRA, G, 1.90, 85, 08-07-96, São Paulo, Mirandela
+2, Andrej Šimunec, CRO, D, 1.92, 83, 02-03-95, Osijek, Osijek
+3, Hélder Baldé, POR, D, 1.96, 88, 03-08-98, Bissau, Benfica
+4, Adam Dźwigała, POL, D, 1.82, 72, 25-09-95, Warsaw, Wisła Płock
+5, Adi Mehremić, BIH, D, 1.89, 83, 26-04-92, Sarajevo, Karpaty Lviv
+6, Bruninho, BRA, D, 1.74, 64, 16-12-93, Firminópolis, Tombense
+7, Rúben Oliveira, POR, M, 1.70, 66, 14-12-94, Oliveira de Azeméis, Vitória Guimarães
+9, Peu, BRA, F, 1.78, 72, 24-04-93, Itajaí, Fluminense
+10, Pedro Delgado, POR, M, 1.88, 79, 07-04-97, Portimão, Shandong Luneng
+11, Abdoulaye Diallo, SEN, F, 1.84, 77, 15-01-96, Dakar, 1º Dezembro
+12, Fábio, BRA, G, 1.96, 85, 11-05-90, Osasco, Taubaté
+13, Jaílson, BRA, D, 1.70, 67, 21-01-91, João Pessoa, Nea Salamis
+14, Marius Mouandilmadji, CHA, F, 1.82, 75, 22-01-98, Doba, FC Porto
+15, Oumar Diakhité, SEN, D, 1.80, 85, 09-12-93, Dakar, Sepsi Sfântu Gheorghe
+19, Ricardo Mangas, POR, D, 1.79, 73, 19-03-98, Lisbon, Benfica
+20, Zidane Banjaqui, POR, M, 1.75, 65, 15-12-98, Lisbon, Benfica
+21, Reko Silva, POR, F, 1.75, 67, 21-06-99, Barcelos, Académico Viseu
+23, Mehrdad Mohammadi, IRN, F, 1.78, 74, 29-09-93, Tehran, Sepahan
+24, Quentin Beunardeau, FRA, G, 1.85, 72, 27-02-94, Le Mans, Metz
+25, Afonso Figueiredo, POR, D, 1.69, 63, 06-01-93, Oeiras, Rio Ave
+26, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, Waasland-Beveren
+27, Rúben Macedo, POR, F, 1.71, 63, 09-03-96, Amarante, FC Porto
+28, Bruno Lourenço, POR, M, 1.79, 74, 02-02-98, Lisbon, Benfica
+29, Cláudio Falcão, BRA, M, 1.70, 62, 03-07-94, Aquidauana, Independente de Limeira
+31, Maximiano, BRA, M, 1.78, 74, 08-05-95, Rio de Janeiro, Fluminense
+32, Jonathan Buatu Mananga, ANG, D, 1.87, 87, 27-09-93, Liège, Rio Ave
+44, Bruno Morais, POR, D, 1.89, 83, 08-04-98, Vila Nova de Famalicão, Gil Vicente
+55, Estrela, POR, M, 1.73, 72, 22-09-95, Luanda, Varzim
+71, Welinton Júnior, BRA, F, 1.75, 64, 08-06-93, São Paulo, Coritiba
+77, Mato Miloš, CRO, D, 1.75, 70, 30-06-93, Pula, Benfica
+96, Kevin Yamga, FRA, F, 1.87, 80, 07-09-96, Paris, Chievo Verona
+97, Bruno Jesus, BRA, D, 1.91, 72, 22-04-97, Porto Alegre, São José-RS
+98, Cláudio Tavares, POR, D, 1.79, 73, 23-03-97, Lisbon, Vitória Guimarães
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Mahmoud Kahraba, EGY, M, 1.82, 76, 13-04-94, Cairo, Al-Ahly [EGY]
+95, Erik, BRA, M, 1.71, 57, 02-02-95, Rio de Janeiro, CRB (On Loan)
+88, Rodrigues, POR, F, 1.74, 60, 28-06-95, Paredes, Estoril
+8, Bruno Xavier, BRA, M, 1.78, 69, 27-11-96, São Paulo, 
+22, Redouane Kerrouche, FRA, M, 1.83, 75, 26-04-94, Noisy-le-Sec, Le Puy
+10, Enzo Zidane, FRA, M, 1.84, 80, 24-03-95, Bordeaux, Almería
+17, Miguel Tavares, POR, F, 1.70, 57, 29-08-98, Lisbon, Penafiel (On Loan)

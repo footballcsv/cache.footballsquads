@@ -1,0 +1,50 @@
+=  Korona Kielce - Polish Ekstraklasa 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Zbigniew Małkowski, POL, G, 1.88, 79, 19-01-78, Olsztyn, OKS 1945 Olsztyn
+2, Kamil Sylwestrzak, POL, D, 1.88, 76, 16-07-88, Słubice, Chojniczanka Chojnice
+3, Kamil Kuzera, POL, D, 1.81, 75, 11-03-83, Kielce, Polonia Warszawa
+4, Piotr Malarczyk, POL, D, 1.89, 74, 01-08-91, Kielce, None
+5, Serhiy Pylypchuk, UKR, M, 1.87, 80, 26-11-84, Zmiiv, Volyn Lutsk
+6, Mateusz Janiec, POL, M, 1.88, 75, 13-01-92, Busko Zdrój, Zdrój Busko Zdrój
+7, Tomasz Lisowski, POL, D, 1.80, 80, 04-04-85, Braniewo, Widzew Łódź
+8, Vlastimir Jovanović, BIH, M, 1.82, 77, 03-04-85, Zenica, Slavija
+9, Paweł Kal, POL, M, 1.78, 65, 09-07-89, Kielce, None
+10, Michał Janota, POL, F, 1.71, 68, 29-07-90, Gubin, Go Ahead Eagles
+11, Daniel Gołębiewski, POL, F, 1.86, 76, 15-07-87, Wyszków, Polonia Warszawa
+12, Sebastian Kosiorowski, POL, G, 1.93, 79, 21-05-90, Kolbuszowa, Helmond Sport
+13, Krzysztof Kiercz, POL, D, 1.89, 80, 16-02-89, Kielce, None
+14, Piotr Piwowar, POL, D, 1.75, 67, 21-01-94, Kielce, None
+15, Abzal Beysebekov, KAZ, D, 1.87, 81, 30-11-92, , Astana
+16, Artur Lenartowski, POL, M, 1.91, 72, 17-03-88, Częstochowa, Raków Częstochowa
+17, Pavol Staňo, SVK, D, 1.92, 90, 29-09-77, Čierna, Jagiellonia Białystok
+18, Marcin Cebula, POL, M, 1.74, 60, 06-12-95, Staszów, None
+19, Przemysław Trytko, POL, F, 1.89, 83, 28-08-87, Strzelce Opolskie, Carl Zeiss Jena
+20, Maciej Korzym, POL, F, 1.80, 77, 02-05-88, Nowy Sącz, Legia Warszawa
+21, Marcin Trojanowski, POL, M, 1.73, 75, 14-05-90, Zgorzelec, Chojniczanka Chojnice
+22, Maciej Załęcki, POL, M, 1.85, 77, 17-06-96, Płońsk, Tęcza 34 Płońsk
+23, Vanja Marković, SRB, M, 1.85, 80, 20-06-94, Belgrade, Partizan Belgrade
+24, Oleksiy Shlyakotin, UKR, G, 1.97, 72, 02-09-89, Kyiv, Zagłębie Sosnowiec
+25, Damian Ałdaś, POL, M, 1.81, 77, 17-07-91, Głogów, KS Polkowice
+26, Kyrylo Petrov, UKR, D, 1.82, 76, 22-06-90, Kyiv, Arsenal Kyiv
+27, Jacek Kiełb, POL, F, 1.83, 70, 10-01-88, Siedlce, Lech Poznań
+28, Radosław Szmalec, POL, M, 1.64, 63, 13-03-95, Jędrzejów, GKS Nowiny
+29, Paweł Sobolewski, POL, M, 1.73, 62, 20-06-79, Ełk, Jagiellonia Białystok
+30, Michał Wrześniewski, POL, D, 1.83, 75, 19-09-94, Kielce, None
+32, Radek Dejmek, CZE, D, 1.88, 84, 02-02-88, Vrchlabí, Slovan Liberec
+34, Adrian Bednarski, POL, D, 1.85, 74, 05-10-94, Kielce, None
+36, Rafał Zawłocki, POL, D, 1.83, 73, 16-03-92, Kielce, None
+44, Paweł Golański, POL, D, 1.83, 74, 12-10-82, Łódź, Steaua Bucureşti
+58, Karol Angielski, POL, F, 1.77, 70, 20-03-96, Kielce, None
+77, Michał Przybyła, POL, F, 1.77, 67, 01-07-94, Busko Zdrój, None
+90, Wojciech Małecki, POL, G, 1.88, 83, 11-10-90, Elbląg, None
+91, Sergei Khizhnichenko, KAZ, F, 1.87, 81, 17-07-91, Ust-Kamenogorsk, Shakhter Karagandy
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Paweł Zawistowski, POL, M, 1.83, 80, 04-06-84, Łódź, Górnik Łęczna (On Loan)
+15, Łukasz Sierpina, POL, M, 1.74, 68, 27-03-88, Złotoryja, Dolcan Ząbki (On Loan)
+99, Mateusz Stąporski, POL, M, 1.83, 75, 28-01-88, Nowa Dęba, Podbeskidzie Bielsko-Biała (On Loan)
+33, Ivan Marković, SRB, F, 1.85, 76, 20-06-94, Belgrade, CSKA Sofia
+39, Bartosz Kwiecień, POL, M, 1.86, 80, 07-05-94, Starachowice, Górnik Łęczna (On Loan)

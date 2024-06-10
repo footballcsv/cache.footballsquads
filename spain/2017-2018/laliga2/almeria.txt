@@ -1,0 +1,43 @@
+=  Almería - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René, ESP, G, 1.86, 84, 15-12-83, El Bosque, Girona
+2, Fran Rodríguez, ESP, D, 1.75, 686, 22-05-95, Almuñécar, Zaragoza
+3, Lucien Owona, CMR, D, 1.89, 80, 09-08-90, Douala, Alcorcón
+4, Verza, ESP, M, 1.82, 75, 29-09-86, Orihuela, Levante
+5, Ángel Trujillo, ESP, D, 1.79, 79, 08-09-87, Madrid, Levante
+6, Mandi, ESP, M, 1.78, 74, 01-03-89, Las Palmas, Elche
+7, Marco Motta, ITA, D, 1.86, 75, 14-05-86, Merate, Charlton Ath
+8, Facundo Alberto Costa, ARG, M, 1.76, 75, 09-01-85, Buenos Aires, San Lorenzo
+9, Juan Muñoz, ESP, F, 1.82, 80, 12-11-95, Utrera, Sevilla
+10, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Manchester C
+11, Javi Álamo, ESP, M, 1.90, 81, 18-08-88, Galdar, Osasuna
+13, Fernando, ESP, G, 1.85, 79, 10-06-90, Murcia, UCAM Murcia
+14, Rubén Alcaraz, ESP, M, 1.80, 70, 01-05-91, Barcelona, Girona
+16, Fidel, ESP, M, 1.77, 70, 27-10-89, Minas de Riotinto, Córdoba
+17, Alhassane Bangoura, GUI, M, 1.74, 71, 30-03-92, Conakry, Rayo Vallecano
+18, Sulayman Marreh, GAM, M, 1.84, 70, 15-01-96, Banjul, Watford
+19, Hicham Khaloua, MAR, F, 1.77, 72, 07-05-95, San Javier, Almería B
+20, Pablo Caballero, ARG, F, 1.91, 79, 21-07-86, Totoras, Lugo
+21, Nano, ESP, D, 1.82, 73, 27-10-84, Málaga, Panathinaikos
+22, Edoardo Soleri, ITA, F, 1.92, 75, 19-10-97, Rome, Roma
+23, Jorge Morcillo, ESP, D, 1.85, 78, 11-03-86, Valencia, Rayo Vallecano
+24, Joaquín, ESP, M, 1.90, 66, 31-05-96, Huercal de Almería, Almería B
+26, Fran Callejón, ESP, M, 1.82, 68, 15-05-98, Almería, Almería B
+28, Àlex Corredera, ESP, M, 1.81, 72, 19-03-96, Sant Joan de les Abadesses, Deportivo La Coruña B
+29, Iván Martos, ESP, D, 1.82, 68, 15-05-97, Manresa, Almería B
+30, Pervis Estupiñán, ECU, D, 1.75, 69, 21-01-98, Esmeraldas, Watford
+31, Gaspar, ESP, M, 1.70, 60, 09-12-97, Tarazona de la Mancha, Almería B
+32, Francisco Urri, ESP, D, 1.80, 68, 17-03-96, San Fernando, Leganés B
+33, Lin Liangming, CHN, M, 1.80, 73, 04-06-97, Shantou, Real Madrid B
+34, Antonio Navas, ESP, D, 1.63, 56, 13-02-95, El Ejido, Recreativo Huelva B
+36, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Sant Andreu
+37, Óscar Lozano, ESP, F, , , 14-06-96, Motril, Motril
+39, Igor Engonga, EQG, D, 1.85, 72, 04-01-95, Mazcuerras, Portugalete
+40, Javi Moreno, ESP, M, , , 20-06-97, Almería, Almería B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Javi Pérez, ESP, M, 1.84, 74, 14-08-95, Cabanillas del Campo, Valladolid B
+15, Nauzet Alemán, ESP, M, 1.78, 71, 25-02-85, Las Palmas, Retired

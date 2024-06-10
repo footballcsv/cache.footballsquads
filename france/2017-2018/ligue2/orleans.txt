@@ -1,0 +1,36 @@
+=  Orléans - French Ligue 2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Renault, FRA, G, 1.84, 80, 05-03-84, Orléans, None
+3, Cédric Cambon, FRA, D, 1.84, 76, 20-09-86, Montpellier, Le Havre
+4, Gabriel Mutombo, FRA, D, 1.86, 75, 19-01-96, Villeurbanne, Angers
+5, Adrien Monfray, FRA, D, 1.85, 76, 20-12-90, Nice, Laval
+6, Maxime D'Arpino, FRA, M, 1.75, 70, 17-06-96, Villeurbanne, Lyon
+7, Gaëtan Perrin, FRA, M, 1.69, 63, 07-06-96, Lyon, Lyon
+8, Matthieu Chemin, FRA, D, 1.81, 77, 20-04-86, Nantes, Vendée Luçon
+9, Anthony Le Tallec, FRA, F, 1.84, 73, 03-10-84, Hennebont, Astra Giurgiu
+10, Karim Ziani, ALG, M, 1.69, 66, 17-08-82, Sèvres, Petrolul Ploiești
+12, Ousmane Cissokho, SEN, M, 1.75, 68, 14-01-87, St Louis, Nîmes
+14, Arthur Yannick Gomis, SEN, F, 1.80, 76, 03-02-92, Dakar, Olympique de Ngor
+15, Issiaka Bamba, CIV, F, 1.84, 73, 14-02-94, Paris, Aubervilliers
+17, Pierre Bouby, FRA, M, 1.85, 75, 17-10-83, Vichy, Auxerre
+19, Ferris N'Goma, FRA, M, 1.75, 69, 15-06-93, Limoges, Limoges
+20, Matthieu Ligoule, FRA, M, 1.79, 75, 06-03-83, Bordeaux, Libourne
+21, Mohamed Slim Ben Othman, TUN, M, 1.80, 74, 18-11-89, Tunis, Lokomotiv Gorna Oryahovitsa
+22, Gauthier Pinaud, FRA, D, 1.77, 71, 08-01-88, Châteauroux, Strasbourg
+23, Steeve Furtado, FRA, D, 1.75, 68, 22-11-94, Creil, Créteil
+24, Yohan Demoncy, FRA, M, 1.81, 73, 07-04-96, Gonesse, Paris St-Germain
+25, Edson Seidou, CIV, D, 1.82, 82, 06-10-91, Céret, Épinal
+26, Hicham Benkaid, MAR, F, 1.78, 71, 26-04-90, Strasbourg, Strasbourg
+27, Livio Nabab, FRA, F, 1.85, 72, 14-06-88, Guadeloupe, Waasland-Beveren
+28, Denis-Will Poha, FRA, M, 1.73, 72, 28-05-97, Lannion, Rennes
+29, Amine Talal, MAR, M, 1.76, 68, 05-06-96, Casablanca, None
+30, Gauthier Gallon, FRA, G, 1.86, 79, 23-04-93, Nice, Nîmes
+33, Youssouf Traoré, FRA, M, 1.77, 71, 06-01-98, Argenteuil, Caen
+40, Walter Percevaux, FRA, G, 1.81, 73, 18-12-98, Longjumeaux, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Abraham Guié Guié, CIV, F, 1.80, 70, 25-07-86, San-Pédro, Retired
+11, Oumar Camara, SEN, F, 1.86, 79, 19-08-92, Le Havre, Lyon-Duchère (On Loan)

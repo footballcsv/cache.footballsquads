@@ -1,0 +1,57 @@
+=  Alania Vladikavkaz - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Narubin, G, 6'02", 12 11, 05-12-81, Moskovskaya Oblast, Dynamo Brjansk
+2, Artur Pagaev, D, 6'02", 12 06, 28-12-71, Vladikavkaz, None
+3, Isaac Okoronkwo, D, 6'00", 11 09, 01-05-78, Abia, Wolverhampton W
+4, Rakhmatullo Fuzailov, D, 5'10", 11 05, 16-08-78, Dushambe, Shinnik
+5, Georgiy Dzhiojev, D, 6'03", 12 13, 13-06-86, Vladikavkaz, None
+7, Alan Agaev, D, 6'01", 12 00, 31-03-77, Vladikavkaz, None
+8, Christian Tudor, F, 6'02", 12 11, 23-08-82, Bucharest, FC Moscow
+9, Artur Kusov, M, 6'01", 12 08, 03-05-86, Vladikavkaz, None
+10, Vitaliy Daraselia, M, 6'00", 12 06, 27-09-78, Tbilisi, Dynamo Tbilisi
+11, Serghei Dadu, F, 6'02", 13 03, 23-01-81, Tiraspol, CSKA
+13, Darius Jutautas, D, 6'03", 12 08, 30-09-78, Kaunas, Kaunas
+14, Leo Jiménez, M, 5'09", 11 00, 22-05-78, Caracas, Córdoba
+15, Djastis Christopher, D, 5'11", 12 06, 24-12-81, Bendel, Trelleborgs
+16, Dato Kvirkvelia, D, 6'00", 12 00, 27-06-80, Tbilisi, Dynamo Tbilisi
+17, Georgiy Bazaev, M, 5'09", 13 03, 26-08-78, Vladikavkaz, None
+18, Dzhambulat Bazaev, M, 5'10", 11 09, 18-08-79, Vladikavkaz, Saturn
+19, Robert Tedeev, M, 6'01", 12 06, 23-01-86, Vladikavkaz, None
+20, Julian Tames, M, 5'08", 11 00, 06-12-78, Bucharest, Dynamo Bucharest
+21, Elvin Bechiri, D, 5'09", 11 09, 27-09-80, Tirana, Metalurg Donetsk
+22, Dejan Radić, G, 6'01", 12 13, 08-07-80, Belgrade, Rad
+23, Dzhaba Kankava, M, 5'09", 11 11, 18-03-86, Tbilisi, Dynamo Tbilisi
+24, Slavoljub Djordjević, D, 6'00", 12 04, 15-02-81, Belgrade, Crvena Zvezda
+25, Dmitriy Smirnov, F, 6'06", 13 12, 13-08-80, Moscow, Spartak
+26, Alan Dzutsev, G, 6'00", 11 07, 24-12-88, Vladikavkaz, None
+27, Aziz Guliev, M, 5'10", 09 06, 02-05-87, Vladikavkaz, None
+28, Kazbek Khutiev, M, 5'11", 11 05, 13-06-88, Vladikavkaz, None
+29, Azamat Zaseev, D, 5'10", 10 10, 29-04-88, Vladikavkaz, None
+31, Soslan Albegov, F, 5'10", 10 03, 12-01-88, Vladikavkaz, None
+32, Ruslan Valiev, D, 5'11", 11 05, 29-01-88, Vladikavkaz, None
+34, Soslan Arshiev, D, 6'00", 11 07, 26-08-88, Vladikavkaz, None
+36, Rolan Khugaev, F, 5'10", 10 03, 30-01-85, Vladikavkaz, None
+44, Nikolay Tsygan, G, 6'02", 11 07, 09-08-84, Nikolaev, None
+45, Boris Bagaev, D, 5'11", 11 09, 15-03-85, Vladikavkaz, None
+47, Levan Gvazava, M, 5'10", 11 07, 08-07-80, Tbilisi, Zimbru
+50, Alberto Blanco, M, 5'10", 12 04, 08-01-78, San Francisco, Sheriff
+53, Oleg Hromcov, F, 6'02", 12 13, 30-05-83, Kishinev, Tiligul
+55, Ruslan Pimenov, F, 5'09", 12 04, 25-11-81, Moscow, Lokomotiv
+56, Georgiy Shashiashvili, M, 5'11", 11 07, 01-09-79, Tbilisi, Dynamo Tbilisi
+60, Vladan Grujic, M, 6'01", 12 06, 17-05-81, Banja Luka, Köln
+70, Idan Shum, M, 6'02", 12 04, 26-03-76, Hapoel, Maccabi B-I
+77, Spartak Gogniev, F, 6'01", 11 11, 19-01-81, Vladikavkaz, Rotor
+88, Vladimir Burduli, M, 6'00", 12 04, 26-10-80, Tbilisi, Dynamo Tbilisi
+90, Vladislav Lungu, M, 5'10", 11 11, 10-04-77, Chişinău, HIT Gorica
+99, Georgiy Demetradze, F, 5'07", 11 05, 26-06-76, Tbilisi, Metalurh Donetsk
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Erich Brabec, D, 6'02", 13 03, 24-02-77, Cesky Krumlov, Kayserispor
+14, Amzor Ailarov, F, 5'11", 11 11, 29-01-82, Vladikavkaz, SKA-Energia
+43, Mirza Alborov, M, 5'09", 10 08, 17-12-87, Vladikavkaz, Alania B
+99, Bai Kebe, D, 5'09", 10 08, 24-12-78, Dakar, Anzhi Makhachkala
+6, Nerius Barasa, D, 6'00", 12 13, 01-06-78, Kaunas, Krylia Sovetov
+24, Tamerlan Varziev, M, 6'00", 12 06, 22-09-78, Vladikavkaz, 

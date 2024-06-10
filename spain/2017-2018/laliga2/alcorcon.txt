@@ -1,0 +1,40 @@
+=  Alcorcón - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Casto, ESP, G, 1.80, 82, 18-06-82, Badajoz, Almería
+2, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo La Coruña
+3, Pablo Vázquez, ESP, D, 1.84, 84, 07-10-94, Gandía, Granada B
+4, Esteban Burgos, ARG, D, 1.88, 84, 09-01-92, Salta, Godoy Cruz (Mendoza)
+5, Jon Errasti, ESP, M, 1.80, 81, 06-06-88, Eibar, Spezia
+6, Daniel Toribio, ESP, M, 1.73, 73, 05-10-88, Girona, Alavés
+7, Borja Domínguez, ESP, M, 1.87, 81, 30-05-92, Vigo, Córdoba
+8, Albert Dorca, ESP, M, 1.82, 77, 23-12-82, Olot, Elche
+9, Jonathan Pereira, ESP, F, 1.66, 61, 12-05-87, Vigo, Oviedo
+10, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, UCAM Murcia
+11, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Elche
+12, Bruno Gama, POR, M, 1.75, 73, 15-11-87, Vila Verde, Deportivo La Coruña
+13, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Huesca
+14, Eddy, AZE, M, 1.91, 84, 02-08-92, Roquetas de Mar, Nàstic
+15, Foued Kadir, ALG, M, 1.79, 68, 05-12-83, Martigues, Getafe
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Felipe, ESP, D, 1.75, 66, 14-04-93, Valladolid, Villarreal B
+18, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Racing Santander
+19, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Oviedo
+20, Hugo Álvarez, ESP, D, 1.83, 72, 21-06-85, Vigo, UCAM Murcia
+21, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Mirandés
+22, César Soriano, ESP, D, 1.82, 76, 23-04-83, Ontinyent, Huesca
+23, Mateo García, ARG, M, 1.67, 55, 10-09-96, Córdoba, Las Palmas
+24, Asdrúbal, ESP, F, 1.73, 74, 13-03-91, Las Palmas, Central Coast Mariners
+26, Dani Hernández, ESP, G, 1.81, 75, 26-03-96, Palencia, Valladolid B
+27, Gonzalo Guijarro, ESP, D, 1.84, 79, 01-01-96, Madridejos, Toledo B
+28, Raúl Sánchez, ESP, M, 1.88, 77, 08-11-97, Madrid, Trival Valderas
+31, Toño Calvo, ESP, M, 1.78, 78, 20-10-97, Madrid, Alcorcón B
+33, Pablo Martínez, ESP, M, 1.82, 74, 22-02-98, Madrid, Alcorcón B
+40, Adrián Pérez, ESP, G, 1.82, 74, 30-07-97, Leganés, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, David Navarro, ESP, D, 1.88, 82, 25-05-80, Valencia, Retired
+12, Nicolao Dumitru, ITA, F, 1.84, 76, 12-10-91, Nacka, Nàstic
+14, Borja Lázaro, ESP, F, 1.89, 83, 05-04-88, Madrid, Racing Santander (On Loan)

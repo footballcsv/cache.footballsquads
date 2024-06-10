@@ -1,0 +1,36 @@
+=  Start - Norwegian Eliteserien 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonas Deumeland, GER, G, 1.91, 87, 09-02-88, Wolfsburg, Greuther Fürth
+2, Jesper Daland, NOR, D, 1.89, 83, 06-01-00, Kristiansand, Stabæk
+3, Vegard Bergan, NOR, D, 1.93, 85, 20-02-95, Porsgrunn, Bodø/Glimt
+4, Mohammed El Makrini, NED, M, 1.70, 74, 06-07-87, Wijk Bij Duurstede, Kilmarnock
+6, Joackim Jørgensen, NOR, D, 1.83, 77, 20-09-88, Fredrikstad, Sarpsborg 08
+7, Kevin Kabran, SWE, F, 1.82, 82, 22-11-93, Stockholm, IF Brommapojkarna
+8, Eman Marković, NOR, M, 1.80, 76, 08-05-99, Kvinesdal, Zrinjski Mostar
+9, Martin Ramsland, NOR, F, 1.83, 81, 02-04-93, Kristiansand, Sogndal
+10, Steffen Skålevik, NOR, F, 1.80, 75, 31-01-93, Sotra, Sarpsborg 08
+11, Eirik Schulze, NOR, M, 1.77, 73, 07-01-93, Mandal, Sogndal
+12, Amund Wichne, NOR, G, 1.85, 79, 12-05-97, Mandal, Viking
+14, Espen Børufsen, NOR, M, 1.78, 81, 04-03-88, Kristiansand, Våg
+15, Henrik Robstad, NOR, D, 1.84, 75, 12-05-91, Kristiansand, Jerv
+16, Mikael Ugland, NOR, M, 1.79, 67, 24-01-00, Kristiansand, None
+19, Kasper Skaanes, NOR, M, 1.75, 60, 19-03-95, Bergen, Brann
+20, Mathias Bringaker, NOR, F, 1.74, 74, 30-01-97, Jørpeland, Viking
+21, Sander Sjøkvist, NOR, M, 1.81, 74, 09-03-99, Kristiansand, None
+22, Kristoffer Tønnessen, NOR, D, 1.84, 76, 01-10-97, Grimstad, Jerv
+23, Erlend Segberg, NOR, M, 1.83, 79, 12-04-97, Kristiansand, None
+24, Guðmundur Andri Tryggvason, ISL, M, 1.82, 75, 04-11-99, Tromsø, KR Reykjavík
+25, Henrik Gjesdal, NOR, D, 1.92, 87, 19-07-93, Bergen, Kristiansund
+27, Eirik Wichne, NOR, D, 1.74, 69, 12-05-97, Mandal, None
+30, Christian Bolaños, CRC, M, 1.78, 67, 17-05-84, San José [CRC], Deportivo Saprissa
+50, Fredrik Repstad Hansen, NOR, G, -, -, 14-08-00, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Afeez Aremu, NGA, M, 1.81, 75, 03-10-99, Ibadan, St Pauli
+68, Johannes Eftevaag, NOR, D, 1.94, 82, 13-08-01, Kristiansand, Flekkerøy (On Loan)
+5, Adnan Hadzic, NOR, M, 1.88, 80, 08-03-99, Horten, Sandnes Ulf
+17, Adeleke Akinyemi, NGA, F, 1.88, 74, 11-08-98, Lagos, HamKam (On Loan)
+18, Isaac Twum, GHA, M, 1.75, 63, 14-12-98, Koforidua, Mjøndalen

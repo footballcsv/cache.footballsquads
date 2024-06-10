@@ -1,0 +1,39 @@
+=  Tigre - Argentinian Primera División 2012/13 Inicial
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Boca Juniors
+2, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Boca Unidos
+3, Javier Malagueño, ARG, D, 1.84, 82, 27-10-82, Cosquín, Málaga
+4, Diego Ferreira, URU, M, 1.82, 75, 04-05-85, Montevideo, Defensor Sporting
+5, Diego Castaño, ARG, M, 1.91, 87, 08-06-79, Bragado, Rivadavia (Lincoln)
+7, Agustín Torassa, ARG, F, 1.64, 62, 20-10-88, Resistencia, All Boys
+8, Martín Galmarini, ARG, M, 1.80, 77, 28-02-82, San Isidro, River Plate
+9, Ezequiel Maggiolo, ARG, F, 1.81, 76, 15-06-77, Martínez, Olimpo (BB)
+10, Matías Pérez García, ARG, M, 1.65, 68, 13-10-84, Tartagal, Universidad de Chile
+11, Ramiro Leone, ARG, M, 1.73, 70, 01-06-77, Rosario, San Martín (Tucumán)
+12, Agustín Cousillas, ARG, G, 1.82, 77, 19-04-90, Corrientes, None
+14, Diego Cisterna, ARG, M, 1.77, 68, 22-08-81, San Martín, Almirante Brown
+15, Gastón Díaz, ARG, M, 1.75, 71, 26-03-81, Lomas de Zamora, Colegiales
+16, Diego Ftacla, ARG, F, 1.76, 74, 17-06-92, Mar del Plata, None
+17, Emanuel Pío, ARG, M, 1.80, 76, 04-11-88, Baradero, Banfield
+18, Leandro Leguizamon, ARG, F, 1.81, 76, 04-12-88, Capital Federal, None
+19, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, None
+20, Matías Escobar, ARG, D, 1.81, 81, 21-04-82, Rosario, EN Paralimni
+21, Mariano Echeverría, ARG, D, 1.92, 83, 27-05-81, Mar del Plata, Chacarita Juniors
+22, Lucas Orban, ARG, D, 1.84, 76, 03-02-89, Capital Federal, River Plate
+23, Norberto Paparatto, ARG, D, 1.92, 82, 03-01-84, Adrogué, Tiro Federal (Rosario)
+24, Federico Santander, PAR, F, 1.81, 79, 04-06-91, San Lorenzo, Racing Club
+25, Javier Carrasco, ARG, M, 1.58, 57, 14-02-89, Capital Federal, Lanús
+26, Lucas Menossi, ARG, M, 1.65, 65, 20-07-92, Beccar, None
+27, Nicolás Martínez, ARG, D, 1.75, 76, 20-06-84, Morón, Flandria
+28, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, None
+29, Federico Tursi, ARG, G, 1.83, 76, 28-10-91, Coronel Moldes, None
+30, Silvio González, ARG, F, 1.78, 78, 08-06-80, Guernica, Aris Limassol
+31, Erik Godoy, ARG, D, 1.84, 72, 16-08-93, Capital Federal, None
+32, Damián Albil, ARG, G, 1.82, 76, 09-12-79, Bernal, Estudiantes (LP)
+33, Cristian Ivanobski, ARG, M, 1.68, 62, 11-02-90, Tigre, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Carlos Casteglione, ARG, D, 1.81, 80, 09-05-80, Avellaneda, Rosario Central

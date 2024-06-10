@@ -1,0 +1,46 @@
+=  Legia Warszawa - Polish Ekstraklasa 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Arkadiusz Malarz, POL, G, 1.90, 84, 19-06-80, Pułtusk, GKS Bełchatów
+2, Michał Pazdan, POL, D, 1.80, 76, 21-09-87, Kraków, Jagiellonia Białystok
+3, Tomasz Jodłowiec, POL, M, 1.90, 86, 22-03-85, Żywiec, Śląsk Wrocław
+4, Igor Lewczuk, POL, D, 1.87, 83, 30-05-85, Białystok, Zawisza Bydgoszcz
+5, Artur Jędrzejczyk, POL, D, 1.89, 78, 04-11-87, Dębica, FC Krasnodar
+6, Guilherme, BRA, M, 1.74, 70, 21-05-91, Três Rios, Olé Brasil
+7, Ariel Borysiuk, POL, M, 1.78, 70, 29-07-91, Biała Podlaska, Lechia Gdańsk
+8, Ondrej Duda, SVK, M, 1.83, 64, 15-12-94, Snina, MFK Košice
+9, Marek Saganowski, POL, F, 1.78, 76, 31-10-78, Łódź, ŁKS Łódź
+11, Nemanja Nikolić, HUN, F, 1.80, 79, 31-12-87, Zenta, Videoton
+14, Adam Hloušek, CZE, M, 1.83, 71, 20-12-88, Turnov, Stuttgart
+15, Michał Kopczyński, POL, M, 1.80, 70, 15-06-92, Warsaw, None
+16, Michał Masłowski, POL, M, 1.78, 76, 19-12-89, Strzelin, Zawisza Bydgoszcz
+17, Tomasz Brzyski, POL, D, 1.72, 69, 10-01-82, Lublin, Polonia Warszawa
+18, Michał Kucharczyk, POL, M, 1.78, 72, 20-03-91, Warsaw, Świt Nowy Dwór
+19, Bartosz Bereszyński, POL, D, 1.82, 72, 12-07-92, Poznań, Lech Poznań
+20, Jarosław Niezgoda, POL, F, 1.85, 73, 15-03-95, Poniatowa, Wisła Puławy
+21, Ivica Vrdoljak, CRO, M, 1.87, 83, 19-09-83, Novi Sad, Dinamo Zagreb
+22, Kasper Hämäläinen, FIN, M, 1.87, 74, 08-08-86, Turku, Lech Poznań
+23, Stojan Vranješ, BIH, M, 1.83, 75, 22-06-85, Banja Luka, Lechia Gdańsk
+24, Branimir Galić, CRO, M, 1.81, 73, 31-07-95, Starnberg, Imotski
+25, Jakub Rzeźniczak, POL, D, 1.83, 79, 26-10-86, Łódź, Widzew Łódź
+28, Łukasz Broź, POL, D, 1.80, 74, 17-12-85, Giżycko, Widzew Łódź
+29, Jakub Szumski, POL, G, 1.94, 78, 06-03-92, Warsaw, Piast Gliwice
+33, Radosław Cierzniak, POL, G, 1.87, 81, 24-04-83, Szamocin, Wisła Kraków
+45, Adam Ryczkowski, POL, F, 1.78, 69, 30-04-97, Węgrów, Polonia Warszawa
+47, Rafał Makowski, POL, D, 1.91, 78, 05-08-96, Warsaw, None
+77, Mihail Aleksandrov, BUL, M, 1.79, 67, 11-06-89, Sofia, Ludogorets Razgrad
+91, Radosław Majecki, POL, G, 1.91, 78, 16-11-99, Starachowice, KSZO Ostrowiec
+99, Aleksandar Prijović, SRB, F, 1.90, 83, 21-04-90, St Gallen, Boluspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Michał Żyro, POL, M, 1.89, 78, 20-09-92, Warsaw, Wolverhampton W
+7, Pablo Dyego, BRA, M, 1.74, 66, 08-03-94, Rio de Janeiro, Fluminense
+13, Arkadiusz Piech, POL, F, 1.71, 72, 07-06-85, Świdnica, AEL Limassol (On Loan)
+20, Ivan Tričkovski, MKD, F, 1.82, 72, 18-04-87, Skopje, AEK Larnaca (On Loan)
+37, Dominik Furman, POL, M, 1.81, 71, 06-07-92, Szydłowiec, Toulouse
+12, Dušan Kuciak, SVK, G, 1.94, 87, 21-05-85, Bratislava, Hull C
+27, Robert Bartczak, POL, M, 1.78, 68, 12-03-96, Włocławek, Zagłębie Sosnowiec (On Loan)
+14, Mateusz Szwoch, POL, M, 1.73, 60, 19-03-93, Starogard Gdański, Arka Gdynia (On Loan)
+91, Artur Haluch, POL, G, 1.92, 77, 23-07-95, Warsaw, Chojniczanka Chojnice

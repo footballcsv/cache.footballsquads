@@ -1,0 +1,43 @@
+=  UCAM Murcia - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Biel, ESP, G, 1.86, 82, 02-12-85, Palma de Mallorca, Numancia
+2, Tekio, ESP, D, 1.75, 72, 30-07-90, Molina de Segura, Valladolid B
+3, Juan Góngora, ESP, D, 1.85, 74, 14-08-88, Fuengirola, Cultural Leonesa
+4, Hugo Álvarez, ESP, D, 1.83, 72, 21-06-85, Vigo, Elche
+5, Fran Pérez, ESP, D, 1.90, 80, 03-01-86, Santander, Cádiz
+6, Vullnet Basha, SUI, M, 1.74, 65, 11-07-90, Lausanne, Ponferradina
+7, Jona, ESP, F, 1.83, 80, 07-01-89, Málaga, Albacete
+9, David Mayoral, ESP, F, 1.72, 67, 05-04-97, Ávila, Valladolid B
+10, Juan José Collantes, ESP, M, 1.70, 70, 07-01-83, San Fernando, Alcorcón
+11, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, Almeríá B
+12, Cédric Mabwati, COD, M, 1.67, 62, 08-03-92, Kinshasa, Columbus Crew
+13, Miguel Escalona, ESP, G, 1.87, 80, 22-11-83, Logroño, AEK Larnaca
+14, Manuel, ESP, M, 1.85, 78, 13-09-88, Córdoba, Alcorcón
+15, David Morillas, ESP, D, 1.86, 75, 28-09-86, Águilas, Huesca
+16, Unai Albizua, ESP, D, 1.81, 79, 18-01-89, Barakaldo, Leganés
+17, Ritchie Kitoko, COD, M, 1.77, 72, 11-06-88, Kinshasa, Udinese
+19, Natalio Lorenzo, ESP, F, 1.76, 70, 18-09-84, Valencia, Llagostera
+21, Pere Milla, ESP, F, 1.79, 70, 23-09-92, Lleida, Eibar
+22, Juande, ESP, M, 1.82, 72, 12-06-86, Alicante, Spezia
+23, Vicente, ESP, M, 1.80, 71, 11-07-86, Aspe, Numancia
+24, Tito, ESP, M, 1.85, 75, 24-05-85, Santa Coloma de Gramenet, Llagostera
+25, Fernando, ESP, G, 1.85, 79, 10-06-90, Murcia, Murcia
+26, Ibán Salvador, EQG, F, 1.70, 68, 11-12-95, L'Hospitalet de Llobregat, Valladolid
+27, Canillas, ESP, F, 1.88, 79, 29-09-96, Málaga, Linares Deportivo
+29, Luis Castillo, ESP, M, , , , , UCAM Murcia B
+30, Javi Fernández, ESP, D, 1.90, 85, 03-08-97, Cartagena, UCAM Murcia B
+31, Pipo, ESP, F, , , , La Alberca, UCAM Murcia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Iván Aguilar, ESP, F, 1.80, 73, 12-06-91, Benalmádena, Recreativo Huelva
+12, Facundo Guichón, URU, M, 1.82, 72, 08-02-91, Montevideo, SJK Seinäjoki
+14, Sergio Mora, ESP, M, 1.82, 77, 30-08-79, Madrid, Getafe
+18, Juanma Delgado, ESP, F, 1.88, 76, 17-11-90, Valencia, Hearts
+26, Isi, ESP, F, 1.65, 55, 06-11-95, Las Torres de Cotillas, Cartagena (On Loan)
+8, César Remón, ESP, M, 1.83, 74, 02-10-85, Logroño, Logroñés
+9, Pablo Pallarés, ESP, F, 1.88, 81, 12-01-87, Gandía, Ponferradina
+20, Jesús Imaz, ESP, F, 1.78, 74, 26-09-90, Lleida, Cádiz
+9, Luis Fernández, ESP, F, 1.75, 72, 23-09-93, Burela, De-Registered

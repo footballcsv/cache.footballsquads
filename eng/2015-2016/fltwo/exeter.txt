@@ -1,0 +1,41 @@
+=  Exeter City - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robert Olejnik, AUT, G, 1.88, 98, 26-11-86, Vienna, Peterborough U
+2, Danny Butterfield, ENG, D, 1.80, 71, 21-11-79, Boston, Carlisle U
+3, Craig Woodman, ENG, D, 1.75, 69, 22-12-82, Tiverton, Brentford
+4, David Noble, ENG, M, 1.83, 78, 02-02-82, Hitchin, Oldham Ath
+5, Jamie McAllister, SCO, D, 1.78, 70, 26-04-78, Glasgow, Kerala Blasters
+6, Christian Ribeiro, WAL, D, 1.81, 77, 14-12-89, Neath, Scunthorpe U
+7, Ryan Harley, ENG, M, 1.75, 70, 22-01-85, Bristol, Swindon T
+8, Matt Oakley, ENG, M, 1.78, 70, 17-08-77, Peterborough, Leicester C
+10, Lee Holmes, ENG, M, 1.75, 66, 02-04-87, Mansfield, Preston NE
+11, Arron Davies, WAL, M, 1.75, 70, 22-06-84, Cardiff, Northampton T
+13, Clinton Morrison, IRL, F, 1.78, 64, 14-05-79, Tooting, Long Eaton U
+14, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, Northampton T
+15, Jordan Moore-Taylor, ENG, D, 1.78, 83, 21-01-94, Exeter, None
+16, Will Hoskins, ENG, F, 1.75, 70, 06-05-86, Nottingham, Oxford U
+18, Jamie Reid, NIR, F, 1.81, 74, 12-07-94, Torquay, None
+19, Emmanuel Oyeleke, ENG, M, 1.75, 75, 24-12-92, Wandsworth, Brentford
+21, James Hamon, ENG, G, 1.85, 70, 01-07-95, Saint Peter Port, Guernsey
+22, David Wheeler, ENG, M, 1.80, 76, 04-10-90, Brighton, Staines T
+23, Tom McCready, ENG, M, 1.83, 75, 07-06-91, Chester, Morecambe
+26, Jordan Tillson, ENG, D, 1.83, 74, 05-03-93, Bath, Bristol R
+27, Matt Jay, ENG, F, 1.78, 69, 27-02-96, Torbay, None
+28, Jason Pope, ENG, M, 1.73, 64, 20-09-95, , None
+29, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, None
+30, Christy Pym, ENG, G, 1.82, 74, 24-04-95, Exeter, None
+31, Joel Grant, JAM, M, 1.83, 70, 27-08-87, Hammersmith, Yeovil T
+32, Kavanagh Keadell, ENG, G, , , 06-05-98, Sunbury-on-Thames, None
+33, Jayden Stockley, ENG, F, 1.88, 79, 10-10-93, Poole, Bournemouth
+34, Joe Charles, ENG, M, , , 27-12-96, Ilminster, None
+35, Cameron Gill, ENG, F, , , 13-05-96, Newton Abbot, None
+36, Kyle Egan, ENG, D, 1.80, 75, 15-12-98, Bristol, None
+38, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, Reading
+39, Troy Brown, WAL, D, 1.85, 77, 17-09-90, Cardiff, Cheltenham T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Josh Read, ENG, D, 1.94, 84, 03-10-97, Bath, 
+20, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, Peterborough U

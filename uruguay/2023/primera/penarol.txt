@@ -1,0 +1,45 @@
+=  Peñarol - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thiago Cardozo, URU, G, 1.81, 79, 31-07-96, Juan Lacaze, None
+2, Léo Coelho, BRA, D, 1.89, 88, 17-05-93, Rio de Janeiro, Atlético San Luis
+3, Hernán Menosse, URU, D, 1.87, 80, 28-04-87, San Carlos, Deportivo Cali
+4, Joaquín Ferreira, URU, D, 1.83, 75, 02-07-03, Rivera, None
+5, Sebastián Cristóforo, URU, M, 1.75, 68, 23-08-93, Montevideo, Cartagena
+6, Mathias De Ritis, URU, D, 1.83, 79, 31-01-03, Montevideo, None
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Santos
+8, Sebastián Rodríguez, URU, M, 1.81, 76, 16-08-92, Canelones, Emelec
+9, Franco González, URU, M, 1.65, 60, 22-06-04, Montevideo, Danubio
+10, Kevin Méndez, URU, M, 1.74, 67, 10-01-96, Trinidad, Defensor Sporting
+11, José Neris, URU, M, 1.80, 75, 13-03-00, Montevideo, Colón (Santa Fe)
+12, Guillermo De Amores, URU, G, 1.85, 72, 19-10-94, San Jacinto, Lanús
+13, Matías Aguirregaray, URU, D, 1.74, 78, 01-04-89, Porto Alegre, Estudiantes (LP)
+14, Damián García, URU, M, 1.78, 74, 15-07-03, Canelones, None
+15, Yonatthan Rak, URU, D, 1.88, 73, 18-08-93, Montevideo, Tijuana
+16, Camilo Mayada, URU, M, 1.71, 70, 08-01-91, Montevideo, Libertad
+17, Valentín Rodríguez, URU, D, 1.73, 73, 13-06-01, Montevideo, None
+18, Maximiliano Olivera, URU, D, 1.81, 72, 05-03-92, Montevideo, Juárez
+19, Matías Arezo, URU, F, 1.78, 76, 21-11-02, Montevideo, Granada
+20, Pedro Milans, URU, D, 1.71, 69, 24-03-02, Las Piedras, Juventud
+23, Abel Hernández, URU, F, 1.86, 73, 08-08-90, Canelones, Atlético San Luis
+24, Brian Mansilla, URU, F, 1.76, 75, 14-05-02, Dolores, None
+25, Ignacio Sosa, URU, M, 1.75, 70, 31-08-03, Montevideo, Fénix
+27, Lucas Hernández, URU, D, 1.74, 71, 05-08-92, Montevideo, Atlético Mineiro
+28, Santiago Homenchenko, URU, M, 1.84, 79, 30-08-03, Mercedes, Plaza Colonia
+30, Ángel González, ARG, M, 1.75, 68, 16-05-94, Godoy Cruz, LDU Quito
+32, Randall Rodríguez, URU, G, 1.89, 83, 29-11-03, Maldonado, None
+33, Bruno Betancor, URU, F, 1.90, 78, 18-12-03, Montevideo, Fénix
+34, Nahuel Herrera, URU, D, 1.87, 81, 01-12-04, Rosario [URU], None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Diego Rolán, URU, F, 1.77, 69, 24-03-93, Montevideo, 
+12, Jhonatan Lima, URU, G, 1.83, 84, 24-05-99, -, De-Registered
+18, Matías Ferreira, URU, M, 1.82, 80, 19-12-02, Rivera, De-Registered
+30, Pablo López, URU, D, 1.80, 79, 01-03-02, Trinidad, De-Registered
+22, Juan Ramos, URU, D, 1.80, 72, 01-09-96, Montevideo, 
+9, Óscar Cruz, URU, F, 1.75, 77, 04-04-02, Montevideo, Fénix (On Loan)
+11, Nicolás Rossi, URU, F, 1.78, 73, 21-03-02, Montevideo, Danubio (On Loan)
+29, Máximo Alonso, URU, F, 1.76, 75, 05-07-02, Maldonado, Deportivo Maldonado (On Loan)
+6, Rodrigo Saravia, URU, M, 1.73, 75, 17-08-00, Montevideo, Gimnasia y Esgrima (LP) (On Loan)

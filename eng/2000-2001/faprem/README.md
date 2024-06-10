@@ -1,0 +1,23 @@
+# English Premiership 2000/01
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Bradford City](bradford.txt)
+- [Charlton Athletic](charlton.txt)
+- [Chelsea](chelsea.txt)
+- [Coventry City](coventry.txt)
+- [Derby County](derby.txt)
+- [Everton](everton.txt)
+- [Ipswich Town](ipswich.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Southampton](southam.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)

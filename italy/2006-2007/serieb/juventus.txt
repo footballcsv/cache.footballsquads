@@ -1,0 +1,56 @@
+=  Juventus - Italian Serie B 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, G, 6'03", 13 01, 28-01-78, Carrara, Parma
+2, Alessandro Birindelli, D, 5'09", 11 07, 12-11-74, Pisa, Empoli
+3, Giorgio Chiellini, D, 6'01", 12 00, 14-08-84, Livorno, Fiorentina
+4, Robert Kovač, D, 6'00", 12 04, 06-04-74, Berlin, Bayern Munich
+5, Igor Tudor, D, 6'04", 14 02, 16-04-78, Split, Hajduk Split
+6, Cristiano Zanetti, M, 5'11", 11 11, 14-04-77, Massa, Internazionale
+8, Giuliano Giannichedda, M, 5'10'', 12 01, 21-09-74, Pontecorvo, Lazio
+9, Valeri Bojinov, F, 5'10", 12 04, 15-02-86, Gorna Oryahovitsa, Fiorentina
+10, Alessandro Del Piero, F, 5'08", 11 00, 09-11-74, Treviso, Padova
+11, Pavel Nedvěd, M, 5'10", 11 00, 30-08-72, Cheb, Lazio
+12, Antonio Mirante, G, 6'02", 12 02, 08-07-83, Castellamare di Stabia, None
+13, Felice Piccolo, D, 6'02", 12 13, 27-08-83, Pomigliano d'Arco, None
+14, Federico Balzaretti, D, 5'10", 11 00, 06-12-81, Turin, Torino
+15, Claudio Marchisio, D, 5'11", 11 00, 30-12-86, Cercola, Genoa
+16, Mauro Camoranesi, M, 5'10", 11 00, 09-10-76, Tandil, Verona
+17, David Trézéguet, F, 6'03", 12 08, 15-10-77, Rouen, Monaco
+18, Jean-Alain Boumsong, D, 6'03", 13 03, 14-12-79, Douala, Newcastle U
+19, Matteo Paro, M, 5'09", 11 07, 17-03-83, Asti, None
+20, Raffaele Palladino, F, 5'11", 11 11, 17-04-84, Mugnano di Napoli, None
+22, Emanuele Belardi, G, 6'02", 12 08, 09-10-77, Eboli, Reggina
+25, Marcelo Zalayeta, F, 6'01", 13 05, 05-12-78, Montevideo, Sevilla
+27, Jonathan Zebina, D, 6'02", 13 08, 19-07-78, Paris, Roma
+29, Paolo De Ceglie, M, 6'00", 11 11, 17-09-86, Aosta, None
+30, Nicola Legrottaglie, D, 6'01", 11 07, 20-10-76, Gioia Del Colle, Chievo Verona
+32, Marco Marchionni, M, 5'09", 10 06, 22-07-80, Monterotondo, Parma
+33, Orlando Urbano, D, 6'00", 12 01, 09-06-84, Ruviano, None
+35, Andrea Pisani, D, , , 15-03-87, Castelfranco Veneto, None
+37, Luca Lagnese, D, 5'08", 11 07, 09-06-87, Turin, None
+38, Giuseppe Rizza, D, 5'09", 12 00, 08-04-87, Noto, None
+39, Samon Réider Rodríguez, F, , , 25-10-88, Guantánamo, Castelfiorentino
+40, Dario Venitucci, M, 5'07", 11 00, 30-01-87, Turin, None
+41, Riccardo Maniero, F, 5'09", 12 01, 26-11-87, Naples, None
+42, Raffaele Bianco, M, 5'07", 11 07, 25-08-87, Aversa, None
+43, Sebastian Giovinco, F, 5'09", 11 09, 26-01-87, Turin, None
+44, Davide Lanzafame, F, 5'10", 11 11, 09-02-87, Turin, None
+45, Matteo Trini, G, , , 18-05-87, Sassari, None
+46, André Cuneaz, M, 5'09", 11 07, 01-06-87, Aosta, None
+47, Salvatore D'Elia, M, , , 10-02-89, , None
+48, Alessandro Bettega, M, , , 05-05-87, , None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Olivier Kapo, F, 6'00", 12 03, 27-09-80, Abidjan, Levante (On Loan)
+28, Giuseppe Sculli, F, 5'09", 11 00, 23-03-81, Locri, Genoa (On Loan)
+31, Giovanni Bartolucci, D, 6'00", 12 08, 20-02-84, Bibbiena, Siena
+34, Andrea Masiello, D, 6'01", 11 11, 05-02-86, Viareggio, Siena
+26, Andrea Rossi, D, 5'10", 11 00, 07-11-86, San Benedetto, Siena
+36, David Chiumiento, F, 5'08", 10 08, 22-11-84, Heiden, Young Boys (On Loan)
+, Claudio Scarzanella, G, 5'10", 12 06, 12-03-86, Bagno a Ripoli, Crotone (On Loan)
+, Rey Volpato, F, 6'01", 12 06, 27-08-86, Dolo, Arezzo (On Loan)
+, Andrea Luci, M, 5'08", 10 10, 30-03-85, Piombino, Pescara (On Loan)
+23, Tomás Guzmán, F, 5'10", 12 00, 07-03-82, Asunción, Spezia (On Loan)

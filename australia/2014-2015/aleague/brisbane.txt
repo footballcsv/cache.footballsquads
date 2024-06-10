@@ -1,0 +1,44 @@
+=  Brisbane Roar - Australian A-League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michael Theo, AUS, G, 1.86, 93, 11-02-81, Melbourne, Norwich C
+2, Jérôme Polenz, GER, D, 1.83, 73, 07-11-86, Berlin, Sarpsborg 08
+3, Shane Stefanutto, AUS, D, 1.77, 78, 12-01-80, Atherton, North Queensland Fury
+4, Adam Sarota, AUS, M, 1.80, 72, 28-12-88, Gordonvale, FC Utrecht
+5, Corey Brown, AUS, D, 1.74, 69, 07-01-94, Brisbane, AIS
+6, George Lambadaridis, AUS, M, 1.85, 69, 23-04-92, Melbourne, Club Brugge
+8, Steven Luštica, AUS, M, 1.72, 68, 12-04-91, Canberra, Adelaide U
+9, Andrija Kaludjerović, SRB, F, 1.81, 78, 05-07-87, Bačka Topola, Thun
+10, Henrique, BRA, F, 1.67, 62, 09-05-85, São Paulo, América Mineiro
+12, Jean Carlos Solórzano, CRC, F, 1.80, 75, 08-01-88, Alajuela, Puntarenas
+13, Jade North, AUS, D, 1.80, 78, 07-01-82, Taree, Consadole Sapporo
+14, Daniel Bowles, AUS, D, 1.89, 75, 19-10-91, Melbourne, Adelaide U
+15, James Donachie, AUS, D, 1.88, 84, 14-05-93, Sunnybank, QAS
+16, Devante Clut, AUS, M, 1.70, 70, 16-10-95, Sydney, Parramatta FC
+17, Matt McKay, AUS, M, 1.71, 65, 11-01-83, Brisbane, Changchun Yatai
+18, Luke Brattan, AUS, M, 1.75, 65, 08-03-90, Hull, Rochedale R
+19, Jack Hingert, AUS, D, 1.76, 71, 26-09-90, London, Dandenong Thunder
+20, Kofi Danning, AUS, F, 1.71, 74, 02-03-91, Kumasi, Visé
+21, Jamie Young, ENG, G, 1.80, 83, 25-08-85, Brisbane, Hayes & Yeading U
+22, Thomas Broich, GER, M, 1.82, 76, 29-01-81, Munich, Nürnberg
+23, Dimitri Petratos, AUS, M, 1.76, 80, 10-11-92, Sydney, Kelantan
+26, Lachlan Jackson, AUS, D, 1.94, 83, 12-03-95, Townsville, None
+27, Ben Litfin, AUS, M, 1.68, 65, 25-03-95, Gold Coast, None
+28, Brandon Borrello, AUS, F, 1.78, 79, 25-07-95, Adelaide, None
+29, Patrick Theodore, AUS, F, 1.73, 62, 16-02-92, Brisbane, Wynnum District
+31, Matthew Schmidt, AUS, D, , , 27-03-96, , None
+33, Luke DeVere, AUS, D, 1.86, 88, 05-11-89, Melbourne, Gyeongnam
+34, Shannon Brady, AUS, M, 1.74, 64, 21-06-96, Gold Coast, None
+35, Mitchell Hore, AUS, M, 1.76, 60, 05-04-96, Nambour, None
+36, Fraser Chalmers, AUS, G, 1.91, 88, 09-03-95, Sydney, None
+37, Abraham Yango, AUS, F, , , 06-08-96, , QAS
+38, Nicholas D'Agostino, AUS, F, 1.75, 70, 25-02-98, Sydney, QAS
+41, Luke Pavlou, AUS, M, , , 26-08-96, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Matthew Smith, AUS, D, 1.80, 73, 15-10-82, Chichester, Bangkok Glass
+7, Mensur Kurtiši, MKD, F, 1.85, 83, 25-03-86, Kumanovo, Varese
+11, Liam Miller, IRL, M, 1.70, 66, 13-02-81, Cork, Melbourne C
+30, Matt Acton, AUS, G, 1.85, 89, 03-06-92, Townsville, Olympic FC

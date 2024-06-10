@@ -1,0 +1,53 @@
+=  Newport County - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rhys Taylor, WAL, G, 1.88, 85, 07-04-90, Neath, Macclesfield T
+2, Danny Holmes, ENG, D, 1.82, 76, 06-01-89, Wirral, Tranmere R
+3, Scott Barrow, WAL, D, 1.75, 70, 19-10-88, Swansea, Macclesfield T
+4, Darren Jones, WAL, D, 1.85, 91, 28-08-83, Newport, Forest Green R
+5, Ben Davies, ENG, D, 1.85, 74, 11-08-95, Barrow, Preston NE
+6, Matt Taylor, ENG, D, 1.83, 78, 30-01-82, Ormskirk, Cheltenham T
+7, Medy Elito, ENG, F, 1.80, 69, 20-03-90, Kinshasa, VVV Venlo
+8, Yan Klukowski, ENG, M, 1.85, 90, 01-01-87, Chippenham, Forest Green R
+9, Souleymane Coulibaly, CIV, F, 1.72, 64, 26-12-94, Abidjan, Peterborough U
+10, Lenell John-Lewis, ENG, F, 1.78, 85, 17-05-89, Hammersmith, Grimsby T
+11, Nathan Ralph, ENG, D, 1.75, 70, 14-02-93, Great Dunmow, Yeovil T
+12, Janoi Donacien, LCA, D, 1.83, 75, 03-11-93, Castries, Aston Villa
+14, Nana Ofori-Twumasi, ENG, D, 1.73, 71, 15-05-90, Accra, Yeovil T
+15, Joe Green, ENG, G, 1.95, 83, 16-12-95, Sheffield, Monroe College
+16, Andrew Hughes, WAL, D, 1.83, 75, 05-06-92, Cardiff, Cardiff C
+17, Dean Morgan, MSR, F, 1.83, 77, 03-10-83, Edmonton, Ancona
+18, John-Christophe Ayina, FRA, F, 1.80, 75, 09-04-91, Rouen, Rochdale
+19, Scott Boden, ENG, F, 1.80, 70, 19-12-89, Sheffield, FC Halifax T
+20, Tom Owen-Evans, WAL, F, 1.80, 66, 18-03-97, Bristol, None
+21, Matt Partridge, ENG, D, 1.90, 84, 24-10-94, Reading, Dagenham & Redbridge
+22, Kieran Parselle, ENG, D, 1.83, 75, 01-12-96, Bristol, None
+23, Alex Rodman, ENG, M, 1.88, 80, 15-12-87, Sutton Coldfield, Gateshead
+24, Deane Smalley, ENG, F, 1.83, 74, 05-09-88, Chadderton, Plymouth Arg
+26, Tom Meechan, ENG, F, 1.81, 74, 26-01-91, Cambridge, St Neots T
+27, Connor Dymond, ENG, M, 1.75, 70, 12-09-94, Greenwich, Crystal Palace
+28, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, Cardiff C
+30, Joe Day, ENG, G, 1.83, 76, 13-08-90, Brighton, Peterborough U
+33, Mark Byrne, IRL, M, 1.75, 70, 09-11-88, Crumlin, Barnet
+39, Jake Gosling, ENG, M, 1.76, 68, 11-08-93, Newquay, Bristol R
+42, Corey Shephard, WAL, M, 1.73, 69, 28-12-97, Church Village, None
+47, Lewis Bamford, WAL, D, 1.78, 69, 23-11-97, Newport, None
+48, Dafydd Jones, WAL, M, 1.75, 72, 05-06-98, Abergavenny, None
+49, Liam Angel, WAL, M, 1.80, 76, 17-03-99, Newport, Cardiff C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Kevin Feely, IRL, D, 1.79, 73, 30-08-92, Dublin, Athy T
+26, Regan Poole, WAL, D, 1.80, 70, 18-06-98, Cardiff, Manchester U
+15, Aaron Hayden, ENG, D, 1.86, 79, 16-01-97, Croydon, Wolverhampton W
+4, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Brentford
+17, Tyler Blackwood, ENG, F, 1.89, 71, 24-07-91, London, QPR
+9, Zak Ansah, ENG, F, 1.79, 70, 04-05-94, Sidcup, Charlton Ath
+26, Oliver McBurnie, ENG, F, 1.88, 64, 04-06-96, Leeds, Swansea C
+18, Scot Bennett, ENG, D, 1.78, 81, 30-11-90, Truro, Notts Co
+4, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, Cardiff C
+24, Jazzi Barnum-Bobb, ENG, D, 1.75, 65, 15-09-95, Enfield, Cardiff C
+39, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Wolverhampton W
+28, Mitchell Beeney, ENG, G, 1.82, 78, 03-10-95, Leeds, Chelsea
+9, Conor Wilkinson, IRL, F, 1.85, 77, 23-01-95, Croydon, Bolton W

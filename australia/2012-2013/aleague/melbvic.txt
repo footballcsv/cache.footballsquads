@@ -1,0 +1,43 @@
+=  Melbourne Victory - Australian A-League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tando Velaphi, AUS, G, 1.85, 70, 17-04-87, Perth, Perth Glory
+2, Matthew Foschini, AUS, D, 1.80, 80, 19-10-90, Melbourne, Oakleigh Cannons
+3, Adama Traoré, CIV, D, 1.70, 75, 03-02-90, Bondoukou, Gold Coast U
+5, Mark Milligan, AUS, D, 1.80, 78, 04-08-85, Auburn, JEF United
+6, Leigh Broxham, AUS, M, 1.69, 70, 13-01-88, Melbourne, VIS
+7, Guilherme Finkler, BRA, M, 1.84, 79, 24-09-85, Caxias do Sul, Criciúma
+8, Jonathan Bru, MRI, M, 1.82, 72, 02-05-85, Neuilly-sur-Seine, Moreirense
+9, Marcos Flores, ARG, M, 1.86, 76, 23-10-85, Reconquista, Henan Jianye
+10, Archie Thompson, AUS, F, 1.74, 70, 23-10-78, Otorohanga, Lierse
+11, Marco Rojas, NZL, M, 1.66, 63, 05-11-91, Hamilton [NZL], Wellington Phoenix
+13, Diogo Ferreira, AUS, D, 1.79, 69, 05-10-89, Footscray, Green Gully
+14, Billy Celeski, AUS, M, 1.76, 72, 14-07-85, Ohrid, Perth Glory
+15, Sam Gallagher, AUS, D, 1.82, 79, 05-05-91, Sydney, Central Coast Mariners
+16, Theo Markelis, AUS, F, 1.74, 70, 24-06-92, Melbourne, Vicenza
+17, James Jeggo, AUS, M, 1.79, 66, 12-02-92, Vienna, VIS
+18, Francesco Stella, AUS, M, 1.82, 77, 25-07-91, Melbourne, Rangers
+20, Lawrence Thomas, AUS, G, 1.91, 84, 09-05-92, Sydney, Sheffield U
+21, Spase Dilevski, AUS, D, 1.80, 77, 13-05-85, Melbourne, Adelaide U
+22, Jesse Makarounas, AUS, M, 1.79, 74, 18-04-94, Darwin, Perth Glory
+23, Adrian Leijer, AUS, D, 1.86, 80, 25-03-86, Dubbo, Fulham
+24, Nick Ansell, AUS, D, 1.88, 80, 02-02-94, Melbourne, VIS
+25, Luke O'Dea, AUS, M, 1.78, 76, 14-04-93, Warragul, None
+26, Andrew Nabbout, AUS, M, 1.86, 80, 17-12-92, Melbourne, Moreland Zebras
+27, Chris Cristaldo, AUS, F, 1.63, 63, 15-01-95, Melbourne, VTC Football
+28, Kwabene Boahene, AUS, M, 1.75, 70, 09-08-94, Melbourne, AIS
+29, John Buceto, AUS, M, 1.58, 57, 05-04-95, , VIS
+30, Jason Geria, AUS, D, 1.78, 70, 10-05-93, Canberra, Brisbane Roar
+31, Scott Galloway, AUS, D, 1.72, 70, 10-04-95, Perth, AIS
+32, Connor Pain, AUS, F, 1.75, 68, 11-11-93, Hong Kong, Bentleigh Greens
+33, Daniel Mullen, AUS, D, 1.85, 80, 26-10-89, Adelaide, Dalian Aerbin
+34, Dylan Murnane, AUS, D, 1.78, 74, 18-01-95, Melbourne, Port Melbourne Sharks
+39, Nathan Coe, AUS, G, 1.91, 82, 01-06-84, Brisbane, SønderjyskE
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Danny Allsopp, AUS, F, 1.85, 90, 10-08-78, Melbourne, Retired
+4, Petar Franjić, AUS, D, 1.85, 76, 07-04-92, Melbourne, Bangkok Glass
+22, Julius Davies, SLE, F, 1.65, 64, 04-09-94, Monrovia, Brisbane Roar
+19, Isaka Cernak, AUS, M, 1.79, 72, 09-06-89, Brisbane, Wellington Phoenix

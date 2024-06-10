@@ -1,0 +1,53 @@
+=  SC Heerenveen - Dutch Eredivisie 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kenny Steppe, BEL, G, 1.82, 67, 14-11-88, Antwerp, Germinal Beerschot
+2, Milan Kopic, CZE, D, 1.87, 83, 23-11-85, Pelhřimov, Sparta Prague
+3, Kristian Bak Nielsen, DEN, D, 1.82, 80, 20-10-82, Herning, FC Midtjylland
+4, Michel Breuer, NED, D, 1.83, 72, 25-05-80, Gouda, Excelsior
+5, Michael Dingsdag, NED, D, 1.89, 74, 18-10-82, Amsterdam, Vitesse
+6, Mika Väyrynen, FIN, M, 1.80, 77, 28-12-81, Eskilstuna, PSV Eindhoven
+7, Viktor Elm, SWE, M, 1.92, 87, 13-11-85, Kalmar, Kalmar FF
+8, Roy Beerens, NED, F, 1.73, 64, 22-12-87, Bladel, PSV Eindhoven
+9, Geert-Arend Roorda, NED, M, 1.90, 86, 02-03-88, Heerenveen, VV Noordbergum
+10, Danijel Pranjić, CRO, M, 1.72, 67, 02-12-81, Našice, Dinamo Zagreb
+11, André Hanssen, NED, M, 1.78, 73, 31-01-81, Skjervøj, Bodø/Glimt
+12, Paulo Henrique, BRA, F, 1.80, 79, 13-03-89, João Pessoa, Atlético Mineiro
+13, Tarik Elyounoussi, NOR, F, 1.72, 62, 23-02-88, Al Hoceima, Fredrikstad
+14, Patrik Ingelsten, SWE, F, 1.78, 78, 25-01-82, Hillerstorp, Kalmar FF
+15, Michal Švec, CZE, M, 1.81, 68, 19-03-87, Prague, Slavia Prague
+16, Calvin Jong-a-Pin, NED, D, 1.83, 75, 18-07-86, Amsterdam, FC Volendam
+17, Christian Grindheim, NOR, M, 1.79, 76, 17-07-83, Haugesund, Vålerenga
+18, Pedro Beda, BRA, F, 1.81, 79, 05-03-89, Campo Grande, Flamengo
+19, Daryl Janmaat, NED, D, 1.76, 65, 22-07-89, Leidschendam, ADO Den Haag
+20, Goran Popov, MKD, D, 1.89, 89, 02-10-84, Strumica, Egaleo
+21, Bonaventure Kalou, CIV, M, 1.82, 80, 12-01-78, Oumé, Al-Jazira
+23, Lázaro, BRA, D, 1.78, 75, 28-06-90, Belo Horizonte, Atlético Mineiro
+24, Hans Vonk, RSA, G, 1.86, 83, 30-01-70, Alberton, Ajax
+25, Brian Vandenbussche, BEL, G, 1.96, 84, 24-09-81, Blankenberge, Sparta Rotterdam
+26, Harm Zeinstra, NED, G, 1.90, 82, 21-07-89, Leeuwarden, Cambuur Leeuwarden
+27, Agil Etemadi, IRN, G, 1.84, 78, 23-04-87, Tehran, GAVC Grouw
+29, Donovan Deekman, NED, F, 1.82, 78, 23-06-88, Amsterdam, None
+31, Arnór Smárason, ISL, M, 1.85, 74, 07-09-88, Akranes, ÍA Akranes
+35, Gerald Sibon, NED, F, 1.96, 91, 19-04-74, Dalen, Nürnberg
+36, Sofian Akouili, MAR, M, 1.81, 81, 28-02-89, Nador, DWS
+37, Xander Houtkoop, NED, M, 1.75, 71, 26-03-89, Almere, FC Buitenboys
+38, Arjen Bergsma, NED, D, 1.83, 74, 21-03-89, Gorredijk, None
+39, Mitchell Poldervaart, NED, M, 1.74, 64, 28-03-88, Rotterdam, Feyenoord
+40, Lesly Fellinga, HAI, D, 1.81, 75, 29-09-85, Port-au-Prince, BV Veendam
+41, Johnny de Vries, NED, D, 1.79, 70, 20-02-90, Appelscha, None
+42, Samuel Armenteros, SWE, F, 1.81, 80, 27-05-90, Masthugg, None
+43, Luciano Narsingh, NED, M, 1.78, 69, 13-09-90, Amsterdam, AZ Alkmaar
+44, Paweł Wojciechowski, POL, M, 1.80, 69, 29-04-90, Zielona Góra, Promień Opalenica
+, Mislav Rados, CRO, M, 1.75, 65, 31-01-88, Munich, Ulm
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Radosław Matusiak, POL, F, 1.84, 86, 01-01-82, Łódź, Widzew Łódź
+14, Thomas Präger, AUT, M, 1.74, 72, 13-09-85, Vienna, LASK Linz
+6, Michael Bradley, USA, M, 1.85, 82, 31-07-87, Palatine, B Mönchengladbach
+24, Rob van Dijk, NED, G, 1.87, 83, 15-01-69, Voorhout, Feyenoord
+22, Henrico Drost, NED, D, 1.83, 80, 21-01-87, Kampen, De Graafschap (On Loan)
+32, Robin Huisman de Jong, NED, D, 1.85, 85, 08-06-88, Sneek, Emmen (On Loan)
+30, Reza Ghoochannejhad, NED, F, 1.80, 76, 01-01-90, Mashdad, Emmen (On Loan)

@@ -1,0 +1,21 @@
+# German Bundesliga 1997/98
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [VfL Bochum](bochum.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Hamburg](hamburg.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hberlin.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [1.FC Köln](koln.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

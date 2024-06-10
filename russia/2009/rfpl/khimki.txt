@@ -1,0 +1,67 @@
+=  FC Khimki - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roman Berezovskiy, ARM, G, 1.88, 78, 05-08-74, Yerevan, Dynamo Moscow
+3, Andrey Streltsov, RUS, D, 1.85, 78, 18-03-84, Uvarovo, Luch-Energia
+4, Victor Golovatenco, MDA, D, 1.89, 83, 28-04-84, Chişinău, Sheriff Tiraspol
+5, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Zenit St Petersburg
+6, Vule Trivunović, BIH, D, 1.88, 83, 13-03-83, Glamoč, Sarajevo
+7, Oleg Kozhanov, RUS, F, 1.81, 72, 05-06-87, St. Petersburg, Zenit St Petersburg
+10, Ilya Maksimov, RUS, M, 1.83, 74, 02-02-87, Nizhny Novgorod, Zenit St Petersburg
+13, Ivan Cvetković, SRB, M, 1.77, 75, 12-02-81, Prizren, Habitpharm Javor
+15, Dmytro Semochko, UKR, D, 1.78, 75, 25-01-79, Lviv, Metalist Kharkiv
+16, Mikhail Komarov, RUS, G, 1.94, 87, 03-04-84, Moscow, SportAcademClub
+17, Evgeniy Gapon, RUS, D, 1.89, 73, 20-04-91, Novosibirsk, FC Khimki-2
+18, Miodrag Jovanović, RUS, D, 1.86, 80, 24-03-77, Niš, Chernomorets
+19, Dragan Blatnjak, CRO, F, 1.81, 75, 01-08-81, Studenci, Hajduk Split
+20, Aleksandr Antipenko, RUS, F, 1.94, 88, 27-05-82, Komsomolsk-on-Amur, Tom Tomsk
+22, Maxim Romaschenko, BLR, M, 1.80, 75, 31-07-76, Mogilev, Bursaspor
+23, Nenad Nastić, SRB, D, 1.82, 72, 08-05-81, Srbobran, CSKA Sofia
+25, Aleksandr Shvetsov, RUS, M, 1.81, 72, 17-12-80, Moscow, Sibir Novosibirsk
+27, Maksim Zinovyev, RUS, M, 1.92, 86, 15-07-80, , Volga Ulyanovsk
+30, Bojan Mišić, SRB, G, 1.85, 80, 29-09-78, Požarevac, Kolubara
+33, Ivan Starkov, RUS, M, 1.78, 68, 10-01-86, Moscow, Amkar Perm
+34, Valeriy Zimakov, RUS, M, 1.72, 66, 22-11-90, , Rubin Kazan
+36, Sergey Nechushkin, RUS, F, 1.76, 71, 05-06-90, , FC Khimki-2
+38, Kamalutdin Akhmedov, RUS, D, 1.83, 78, 14-04-86, Moscow, Alania Vladikavkaz
+39, Aleksandr Ovsov, RUS, M, 1.75, 70, 14-10-91, Moskovskaya Oblast, FC Khimki-2
+40, Adil Ibragimov, RUS, D, 1.87, 78, 23-04-89, Moskovskaya Oblast, FC Khimki-2
+41, Aleksandr Zvezintsev, RUS, G, 1.93, 89, 01-05-90, , Krylia Sovetov
+42, Yuriy Kirillov, RUS, M, 1.80, 71, 19-01-90, Ufa, Rusichi Orel
+43, Arseniy Logashov, RUS, D, 1.83, 68, 20-08-91, Kursk, FC Khimki-2
+44, Mikhail Timofeev, RUS, M, 1.77, 68, 11-01-88, , FC Khimki-2
+46, Aleksey Butrin, RUS, M, 1.77, 70, 24-04-90, , FC Khimki-2
+47, Arkadiy Galperin, RUS, M, 1.75, 69, 21-05-92, , FC Khimki-2
+48, Anton Mamonov, RUS, F, 1.80, 74, 19-09-89, , FC Khimki-2
+49, Konstantin Morozov, RUS, D, 1.79, 74, 13-05-92, , FC Khimki-2
+50, Anatoliy Belyakov, RUS, D, 1.73, 72, 10-01-92, , FC Khimki-2
+51, Dmitriy Chudaykin, RUS, G, 1.82, 75, 09-11-90, , FC Khimki-2
+52, Aleksandr Sergeev, RUS, M, 1.77, 71, 24-01-92, , FC Khimki-2
+53, Aleksandr Starikh, RUS, F, 1.85, 74, 14-03-90, , FC Khimki-2
+54, Aleksandr Kazakov, RUS, M, 1.84, 67, 16-06-91, , FC Khimki-2
+55, Ihor Kryzhanovskiy, UKR, D, 1.88, 82, 23-08-89, , FC Khimki-2
+56, Ivan Shamarin, RUS, M, 1.75, 74, 07-03-92, , FC Khimki-2
+57, Kirill Kiselev, RUS, M, 1.76, 67, 10-01-90, , Krylia Sovetov
+70, Artem Butivskiy, RUS, F, 1.77, 69, 18-02-90, , Krylia Sovetov
+71, Gor Oganesyan, ARM, M, 1.80, 69, 08-04-92, , FC Khimki-2
+78, Sébastien Sansoni, FRA, D, 1.87, 87, 30-01-78, Marseille, Vitesse
+79, Denis Popov, RUS, F, 1.89, 87, 04-02-79, Novorossiysk, Torpedo Moscow
+90, Dmitriy Podrezov, RUS, M, 1.80, 69, 14-03-90, , Krylia Sovetov
+99, Errol Stevens, JAM, F, 1.88, 83, 09-05-86, Kingston, Harbour View
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Vladimir Suleymanov, RUS, G, 1.89, 83, 21-01-85, , Smena-Zenit
+45, Ivan Lavrukhin, RUS, D, 1.79, 70, 05-07-89, , FC Zelenograd (On Loan)
+12, Dmitriy Borodin, RUS, G, 1.88, 82, 08-10-77, St. Petersburg, Zenit St Petersburg
+32, Marko Šimić, CRO, F, 1.87, 79, 23-01-88, Rijeka, Lokomotiva Zagreb
+37, Aleksey Alekseev, RUS, F, 1.85, 74, 14-04-89, , Smena-Zenit (On Loan)
+8, Oleg Samsonov, RUS, M, 1.74, 72, 07-09-87, Novovoronezh, Zenit St Petersburg
+11, Serhiy Pylypchuk, UKR, M, 1.87, 80, 26-11-84, Zmiiv, Spartak Nalchik (On Loan)
+2, Barsegh Kirakosyan, ARM, D, 1.76, 70, 23-09-82, Vladikavkaz, Metallurg Krasnoyarsk (On Loan)
+9, Vladislav Nikiforov, RUS, F, 1.66, 60, 21-03-89, Khabarovsk, SKA-Energia
+31, Eldar Nizamutdinov, RUS, M, 1.73, 72, 31-05-81, Kostroma, Spartak Moscow (On Loan)
+24, Richard Eromoigbe, NGA, M, 1.77, 73, 26-06-84, Lagos, Warri Wolves
+28, Jani Virtanen, FIN, F, 1.75, 70, 06-05-88, Turku, Udinese
+21, Viktor Budyanskiy, RUS, M, 1.76, 70, 12-01-84, Vovchansk, Udinese

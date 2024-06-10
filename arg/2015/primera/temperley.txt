@@ -1,0 +1,40 @@
+=  Temperley - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Crivelli, ARG, G, 1.86, 82, 28-01-82, José Mármol, Gimnasia y Esgrima (Jujuy)
+2, Ignacio Boggino, ARG, D, 1.87, 79, 22-02-86, Rosario, Patronato (Paraná)
+3, Patricio Romero, ARG, D, 1.79, 85, 24-05-93, Capital Federal, None
+4, Christian Chimino, ARG, D, 1.78, 72, 09-02-88, Luján, Arsenal [ARG]
+5, Ignacio Oroná, ARG, M, 1.82, 81, 10-03-86, La Plata, Unión La Calera
+6, Gastón Aguirre, ARG, D, 1.78, 76, 11-11-81, Adrogué, San Lorenzo
+7, Fernando Brandán, ARG, F, 1.65, 66, 27-03-90, Mendoza, Rivadavia (Lincoln)
+8, Adrián Arregui, ARG, M, 1.76, 74, 12-08-92, Berazategui, Berazategui
+9, Javier Grbec, ARG, F, 1.84, 79, 24-03-86, Morón, Manta
+10, Fabián Sambueza, ARG, M, 1.70, 65, 01-08-88, Neuquén, Racing Club (Trelew)
+11, Lorenzo Di Lorenzo, ARG, M, 1.76, 73, 20-05-81, Capital Federal, Acassuso
+12, Luis López, ARG, F, 1.88, 85, 29-09-86, Villa Fiorito, None
+14, Gustavo Aprile, URU, M, 1.82, 77, 10-08-88, Montevideo, Rampla Juniors
+15, Fernando González, ARG, D, 1.80, 77, 25-09-88, Berutti, San Martín (San Juan)
+16, Cristian Paz, ARG, D, 1.86, 80, 24-04-95, Lomas de Zamora, None
+17, Eduardo Ledesma, PAR, M, 1.80, 75, 07-08-85, Asunción, Olimpia [PAR]
+18, Enzo Ruiz, ARG, D, 1.83, 81, 20-06-89, Rosario, Boca Juniors
+19, Alejandro Frezzotti, ARG, M, 1.75, 75, 15-02-84, Monte Buey, Barcelona [ECU]
+20, Leandro De Bórtoli, ARG, G, 1.84, 83, 03-08-88, Avellaneda, None
+21, Franco Sosa, ARG, F, 1.71, 72, 19-09-99, Capital Federal, None
+22, Juan Dinenno De Cara, ARG, F, 1.86, 82, 28-08-94, Rosario, Racing Club
+23, Gastón Bojanich, ARG, D, 1.91, 85, 23-04-85, Capital Federal, Barracas Central
+24, Santiago Magallán, ARG, M, 1.85, 78, 08-05-92, La Plata, San Lorenzo
+25, Rodrigo García, ARG, G, 1.85, 77, 24-07-92, Juan José Paso, None
+26, Federico Bruno, ARG, M, 1.76, 66, 03-02-95, Bragado, San Lorenzo
+27, Nicolás Rodríguez, ARG, G, 1.91, 83, 12-05-93, Quilmes, River Plate
+28, Mauro Mallorca, ARG, M, 1.70, 70, 25-04-96, Temperley, River Plate
+33, Pablo Vílchez, ARG, F, 1.87, 85, 04-05-83, Sanford, Santamarina (Tandil)
+34, Gabriel Esparza, ARG, M, 1.68, 69, 30-01-93, Capital Federal, San Lorenzo
+40, Nahuel Peralta, ARG, M, 1.80, 72, 12-11-91, Ingeniero Pablo Nogués, Deportivo Armenio
+48, Abel Peralta, ARG, D, 1.75, 75, 17-01-89, Maipú, Independiente Rivadavia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Emiliano Terzaghi, ARG, F, 1.70, 66, 06-03-93, Almirante Brown, Banfield
+32, Leonel Barrios, ARG, D, 1.82, 86, 05-09-93, Capital Federal, 

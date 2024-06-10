@@ -1,0 +1,52 @@
+=  Santos - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Coritiba
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Caju, BRA, D, 1.85, 70, 17-07-95, Irecê, None
+4, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Coritiba
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+8, Renato, BRA, M, 1.77, 71, 15-05-79, Santa Mercedes, Botafogo
+9, Ricardo Oliveira, BRA, F, 1.83, 81, 06-05-80, São Paulo, Al-Wasl
+10, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Internacional
+11, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Chennaiyin
+12, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+14, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Flamengo
+15, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, Fluminense
+16, Fernando Medeiros, BRA, M, 1.80, 77, 10-02-96, São Vicente, None
+17, Rafael Longuine, BRA, M, 1.73, 67, 30-05-90, Paranavaí, Audax-SP
+18, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Botafogo-SP
+19, Matheus Nolasco, BRA, F, 1.76, 67, 21-04-95, Brasília, Penapolense
+20, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Qatar SC
+22, Rodrigão, BRA, F, 1.86, 92, 13-10-93, Belmonte, Campinense
+25, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Audax-SP
+26, Paulinho, BRA, F, 1.77, 63, 14-06-88, Guarulhos, Flamengo
+27, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Guarani
+28, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Linense
+29, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, São Caetano
+30, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Cruzeiro
+31, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, None
+32, Fabián Noguera, ARG, D, 1.92, 97, 20-03-93, Ramos Mejía, Banfield
+33, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+36, Jonathan Copete, COL, F, 1.84, 72, 23-01-88, Cali, Atlético Nacional
+37, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, None
+38, Daniel Guedes, BRA, D, 1.80, 69, 02-04-94, São Paulo, None
+39, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+45, Walterson, BRA, F, 1.80, 67, 28-12-94, São Gotardo, São Bernardo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Neto Berola, BRA, F, 1.71, 66, 18-11-87, Itabuna, Atlético Mineiro
+36, Diogo, BRA, M, 1.70, 63, 11-02-97, Três Pontas, De-Registered
+23, Ronaldo Mendes, BRA, M, 1.71, 75, 16-08-92, Nova Erechim, Comercial
+21, Leandrinho, BRA, M, 1.78, 70, 25-09-93, Espinosa, Rio Ave
+41, Serginho, BRA, M, 1.80, 82, 15-03-95, Monte Aprazível, Vitória (On Loan)
+32, Paulo Ricardo, BRA, D, 1.86, 80, 13-07-94, Laguna, Sion (On Loan)
+31, Maxi Rolón, ARG, M, 1.71, 64, 19-01-95, Rosario, 
+35, Lucas Crispim, BRA, F, 1.78, 72, 16-06-94, Brasília, Atlético Goianiense (On Loan)
+10, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+20, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Re-Registered (10)
+40, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Re-Registered (20)

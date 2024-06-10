@@ -1,0 +1,63 @@
+=  Wolverhampton Wanderers - English Football League Championship 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wayne Hennessey, WAL, G, 1.83, 73, 24-01-87, Anglesey, None
+3, George Elokobi, CMR, D, 1.85, 84, 31-01-86, Mogadishu, Colchester U
+4, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Luton T
+6, Jody Craddock, ENG, D, 1.83, 78, 25-07-75, Bromsgrove, Sunderland
+7, Sławomir Peszko, POL, M, 1.74, 67, 19-02-85, Jedlicze, Köln
+8, Karl Henry, ENG, M, 1.83, 76, 26-11-82, Wolverhampton, Stoke C
+9, Sylvan Ebanks-Blake, ENG, F, 1.78, 84, 29-03-86, Cambridge, Plymouth Arg
+10, Bakary Sako, FRA, M, 1.80, 76, 24-04-88, Ivry-sur-Seine, St-Etienne
+11, Stephen Ward, IRL, D, 1.85, 77, 20-08-85, Dublin, Bohemians
+12, Stephen Hunt, IRL, M, 1.75, 79, 01-08-81, Portlaoise, Hull C
+13, Carl Ikeme, NGA, G, 1.88, 87, 08-06-86, Sutton Coldfield, None
+14, Roger Johnson, ENG, D, 1.91, 70, 28-04-83, Ashford, Birmingham C
+15, Björn Sigurðarson, ISL, F, 1.86, 81, 26-12-91, Akranes, Lillestrøm
+16, Christophe Berra, SCO, D, 1.86, 81, 31-01-85, Edinburgh, Hearts
+17, Abdoulrazak Boukari, TOG, M, 1.82, 70, 25-04-87, Lomé, Rennes
+18, Marián Kello, SVK, G, 1.88, 87, 05-09-82, Gelnica, Astra Giurgiu
+19, Adam Hammill, ENG, M, 1.80, 73, 25-01-88, Liverpool, Barnsley
+20, Jack Robinson, ENG, D, 1.80, 67, 01-09-93, Warrington, Liverpool
+21, Kaspars Gorkšs, LVA, D, 1.91, 85, 06-11-81, Riga, Reading
+22, Eggert Jónsson, ISL, M, 1.88, 72, 18-08-88, Rekyjavik, Hearts
+23, Nouha Dicko, FRA, F, 1.73, 74, 14-05-92, Saint-Maurice, Wigan Ath
+24, Jamie O'Hara, ENG, M, 1.80, 78, 25-09-86, South London, Tottenham H
+25, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, None
+26, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, None
+27, Anthony Forde, IRL, M, 1.75, 68, 16-11-93, Limerick, None
+28, Tongo Doumbia, MLI, M, 1.90, 79, 06-08-89, Vernon, Rennes
+29, Kevin Doyle, IRL, F, 1.80, 79, 18-09-83, Wexford, Reading
+30, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Bohemians
+31, Dorus de Vries, NED, G, 1.80, 76, 29-12-80, Beverwijk, Swansea C
+32, Kevin Foley, IRL, D, 1.75, 70, 01-11-84, Luton, Luton T
+33, Jamie Reckord, ENG, D, 1.78, 75, 09-03-92, Wolverhampton, None
+34, Georg Margreitter, AUT, D, 1.86, 81, 07-11-88, Schruns, Austria Vienna
+35, Jake Cassidy, WAL, F, 1.78, 71, 09-02-93, Glan Conwy, Airbus UK Broughton
+36, Aaron McCarey, IRL, G, 1.85, 74, 14-01-92, Monaghan, Monaghan U
+37, Sam Winnall, ENG, F, 1.75, 72, 14-12-91, Wolverhampton, None
+38, Ethan Ebanks-Landell, ENG, D, 1.88, 88, 12-12-92, Oldbury, None
+39, Michael Ihiekwe, ENG, D, 1.86, 77, 20-11-92, Liverpool, Liverpool
+40, Johnny Gorman, NIR, M, 1.76, 70, 26-10-92, Sheffield, Manchester U
+41, Jack Price, ENG, M, 1.91, 87, 19-12-92, Shrewsbury, None
+42, Tim Jakobsson, SWE, M, 1.80, 76, 19-11-94, , IK Frej
+43, Aljaz Cotman, SVN, G, 1.81, , 26-04-94, , Triglav
+44, Kristián Koštrna, SVK, D, 1.75, 72, 15-12-93, Trnava, Spartak Trnava
+45, Jordan Cranston, WAL, D, 1.80, 83, 11-03-93, Wednesfield, None
+46, Sam Whittall, ENG, M, , , 05-10-93, , None
+48, Jake Kempton, ENG, F, , , 19-03-96, , None
+49, Liam McAlinden, NIR, F, 1.86, 74, 26-09-93, Cannock, None
+50, Jamie Tank, ENG, D, 1.85, 84, 29-11-93, Northampton, Walsall
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Steven Fletcher, SCO, F, 1.85, 76, 26-03-87, Shrewsbury, Sunderland
+17, Matthew Jarvis, ENG, M, 1.73, 70, 22-05-86, Middlesbrough, West Ham U
+20, Nenad Milijaš, SRB, M, 1.88, 81, 30-04-83, Belgrade, Crvena Zvezda
+47, Zeli Ismail, ENG, M, 1.73, 75, 12-12-93, Kukës, MK Dons (On Loan)
+18, Frank Nouble, ENG, F, 1.90, 82, 24-09-91, Lewisham, Ipswich T
+20, Jermaine Pennant, ENG, M, 1.73, 64, 15-01-83, Nottingham, Stoke C
+5, Richard Stearman, ENG, D, 1.88, 67, 19-08-87, Wolverhampton, Ipswich T (On Loan)
+21, Steven Mouyokolo, FRA, D, 1.90, 85, 24-01-87, Melun, 
+23, Ronald Zubar, FRA, D, 1.86, 80, 20-09-85, Les Abymes, Ajaccio

@@ -1,0 +1,51 @@
+=  Charlton Athletic - English Football League One 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Bolton W
+2, Lewis Page, ENG, D, 1.78, 72, 20-05-96, Enfield, West Ham U
+3, Ahmed Kashi, ALG, M, 1.78, 76, 18-11-88, Aubervilliers, Metz
+4, Johnnie Jackson, ENG, M, 1.85, 81, 15-08-82, Camden, Notts Co
+5, Patrick Bauer, GER, D, 1.92, 84, 28-10-92, Backnang, Marítimo
+6, Jason Pearce, ENG, D, 1.80, 76, 06-12-87, Hillingdon, Wigan Ath
+7, Mark Marshall, JAM, M, 1.83, 76, 05-05-87, Manchester [JAM], Bradford C
+8, Nicky Ajose, ENG, F, 1.80, 78, 07-10-91, Bury, Swindon T
+9, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Kilmarnock
+10, Billy Clarke, IRL, F, 1.70, 64, 13-12-87, Cork, Bradford C
+11, Sullay Kaikai, ENG, F, 1.82, 73, 26-08-95, Southwark, Crystal Palace
+12, Ben Reeves, ENG, M, 1.78, 67, 19-11-91, Verwood, MK Dons
+13, Dillon Phillips, ENG, G, 1.88, 75, 11-06-95, Hornchurch, None
+14, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, Reading
+15, Ezri Konsa, ENG, D, 1.83, 77, 23-10-97, Newham, None
+16, Stephy Mavididi, ENG, F, 1.82, 71, 31-05-98, Derby, Arsenal
+17, Joe Aribo, ENG, M, 1.83, 76, 21-07-96, Camberwell, None
+19, Jake Forster-Caskey, ENG, M, 1.78, 64, 25-04-94, Southend, Brighton & HA
+20, Chris Solly, ENG, M, 1.73, 71, 20-01-91, Maidstone, None
+22, Jay Dasilva, ENG, D, 1.70, 64, 22-04-98, Luton, Chelsea
+23, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, Sporting CP
+24, Regan Charles-Cook, ENG, M, 1.75, 69, 14-02-97, Lewisham, Arsenal
+26, Harry Lennon, ENG, D, 1.90, 75, 16-12-94, Barking, None
+27, Michał Żyro, POL, M, 1.89, 78, 20-09-92, Warsaw, Wolverhampton W
+30, Mikhail Kennedy, NIR, F, 1.78, 74, 18-08-96, Derry, None
+31, Josh Umerah, ENG, F, 1.86, 80, 01-04-98, Catford, None
+32, Matt Carter, ENG, M, 1.76, 68, 02-10-97, Canning Town, West Ham U
+34, Anfernee Dijksteel, NED, D, 1.83, 72, 27-10-96, Amsterdam, AFC
+35, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, ECU Joondalup
+36, George Lapslie, ENG, M, 1.80, 74, 05-09-97, Waltham Forest, None
+37, Reeco Hackett-Fairchild, ENG, F, 1.91, 70, 30-06-98, Redbridge, Norwich C
+38, Taylor Maloney, ENG, M, 1.75, 65, 21-01-99, Gravesend, None
+39, Louis Yamfam, ENG, M, 1.80, 69, 24-03-98, Luton, Stevenage
+40, Jo Cummings, ENG, D, 1.88, 74, 08-09-98, Sheffield, Sheffield U
+41, Jamie Mascoll, ENG, D, 1.89, 66, 15-03-97, Lewisham, Dulwich Hamlet
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Tony Watt, SCO, F, 1.73, 67, 29-12-93, Coatbridge, OH Leuven
+8, Andrew Crofts, WAL, M, 1.75, 73, 20-05-84, Chatham, Scunthorpe U
+21, Lee Novak, ENG, F, 1.83, 78, 28-09-88, Newcastle upon Tyne, Scunthorpe U
+21, Joe Dodoo, ENG, F, 1.83, 70, 01-06-95, Nottingham, Rangers
+11, Ricky Holmes, ENG, M, 1.88, 75, 20-06-87, Uxbridge, Sheffield U
+8, Leon Best, IRL, F, 1.85, 76, 19-09-86, Nottingham, 
+18, Karlan Ahearne-Grant, ENG, F, 1.83, 70, 19-12-97, Greenwich, Crawley T (On Loan)
+33, Aaron Barnes, ENG, D, 1.86, 76, 14-10-96, Croydon, Colchester U
+28, Brandon Hanlan, ENG, F, 1.82, 73, 31-05-97, Chelsea, Bromley (On Loan)

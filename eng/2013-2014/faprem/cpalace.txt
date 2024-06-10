@@ -1,0 +1,56 @@
+=  Crystal Palace - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Julián Speroni, ARG, G, 1.86, 87, 18-05-79, Buenos Aires, Dundee
+2, Joel Ward, ENG, D, 1.88, 76, 29-10-89, Emsworth, Portsmouth
+3, Adrian Mariappa, JAM, D, 1.80, 70, 03-10-86, Harrow, Reading
+4, Jonathan Parr, NOR, M, 1.82, 75, 21-10-88, Oslo, Aalseund
+5, Patrick McCarthy, IRL, D, 1.85, 80, 31-05-83, Dublin, Charlton Ath
+6, Scott Dann, ENG, D, 1.88, 76, 14-02-87, Liverpool, Blackburn R
+7, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Bristol C
+8, Kagisho Dikgacoi, RSA, M, 1.80, 80, 24-11-84, Brandfort, Fulham
+10, Owen Garvan, IRL, M, 1.83, 67, 29-01-88, Dublin, Ipswich T
+11, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Blackpool
+12, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Southend U
+13, Jason Puncheon, ENG, M, 1.73, 71, 26-06-86, Croydon, Southampton
+14, Jerome Thomas, ENG, M, 1.78, 79, 23-03-83, Brent, WBA
+15, Mile Jedinak, AUS, M, 1.89, 88, 03-08-84, Sydney, Gençlerbirliği
+16, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Peterborough U
+17, Glenn Murray, ENG, F, 1.83, 80, 25-09-83, Workington, Brighton & HA
+18, Aaron Wilbraham, ENG, F, 1.91, 72, 21-10-79, Knutsford, Norwich C
+19, Danny Gabbidon, WAL, D, 1.78, 71, 08-08-79, Cwmbran, QPR
+20, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, None
+21, Dean Moxey, ENG, D, 1.80, 70, 14-01-86, Exeter, Derby Co
+22, Jack Hunt, ENG, D, 1.75, 71, 06-12-90, Leeds, Huddersfield T
+25, Neil Alexander, SCO, G, 1.85, 73, 10-03-78, Edinburgh, Rangers
+26, Wayne Hennessey, WAL, G, 1.83, 73, 24-01-87, Anglesey, Wolverhampton W
+27, Damien Delaney, IRL, D, 1.91, 89, 29-07-81, Cork, Ipswich T
+28, Joe Ledley, WAL, M, 1.83, 73, 23-01-87, Cardiff, Celtic
+29, Marouane Chamakh, MAR, F, 1.85, 70, 10-01-84, Tonnens, Arsenal
+30, Cameron Jerome, ENG, F, 1.85, 85, 14-08-86, Huddersfield, Stoke C
+31, Adlène Guédioura, ALG, M, 1.85, 80, 12-11-85, La Roche-sur-Yon, Nottingham F
+32, Kwesi Appiah, ENG, F, 1.81, 80, 12-08-90, Peterborough, Margate
+33, Ibra Sekajja, ENG, F, 1.80, 70, 31-10-92, Mulago, None
+34, Lewis Price, WAL, G, 1.91, 85, 19-07-84, Bournemouth, Derby Co
+35, Kyle De Silva, ENG, M, 1.70, 61, 29-11-93, Croydon, None
+36, Alex Wynter, ENG, D, 1.83, 84, 15-09-93, Beckenham, None
+38, Hiram Boateng, ENG, M, 1.87, 80, 08-01-96, Wandsworth, None
+39, Reise Allassani, ENG, F, , , 03-01-96, Wandsworth Hill, None
+40, Ross Fitzsimons, ENG, G, 1.85, 75, 28-05-94, Hammersmith, None
+42, Quade Taylor, ENG, D, 1.91, 70, 11-12-93, Tooting, Dulwich Hamlet
+45, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, None
+46, Barry Bannan, SCO, M, 1.70, 60, 01-12-89, Glasgow, Aston Villa
+49, Jerome Binnom-Williams, ENG, D, 1.80, 77, 07-03-95, Croydon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Peter Ramage, ENG, D, 1.85, 76, 22-11-83, Ashington, Barnsley (On Loan)
+23, Florian Marange, FRA, D, 1.76, 70, 03-03-86, Talence, Sochaux
+37, Jason Banton, ENG, M, 1.78, 72, 15-12-92, Tottenham, Plymouth Arg
+28, Jimmy Kébé, MLI, M, 1.87, 73, 19-01-84, Vitry-sur-Seine, Leeds U (On Loan)
+9, Kevin Phillips, ENG, F, 1.70, 70, 25-07-73, Hitchin, Leicester C
+26, Matthew Parsons, ENG, D, 1.78, 74, 25-12-91, Catford, Plymouth Arg
+24, Elliot Grandin, FRA, F, 1.78, 67, 17-10-87, Caen, Blackpool
+6, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Nürnberg (On Loan)
+11, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Blackpool (On Loan)

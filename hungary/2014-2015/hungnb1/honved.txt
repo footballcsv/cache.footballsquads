@@ -1,0 +1,63 @@
+=  Honvéd - Hungarian Nemzeti Bajnokság I 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Kristi Marku, ALB, D, 1.81, 80, 13-04-95, Durrës, FC Rosengård
+5, Aleksandar Ignjatović, SRB, D, 1.85, 79, 11-04-88, Niš, Borac Čačak
+7, Lucas Ontivero, ARG, F, 1.70, 64, 09-09-94, Catamarca, Galatasaray
+8, George Ikenne, NGA, M, 1.83, 77, 29-10-92, Calabar, Flying Sports Academy
+9, Ayub Daud, SOM, F, 1.72, 62, 24-02-90, Mogadishu, Chiasso
+11, David Izazola, MEX, F, 1.78, 62, 23-10-91, Mexico City, UNAM
+13, Bratislav Punoševac, SRB, F, 1.89, 82, 09-07-87, Kruševac, Radnički Niš
+14, Emmanuel Mensah, GHA, M, 1.82, 75, 30-06-94, Accra, USTA
+15, Josip Projić, SRB, D, 1.80, 74, 23-08-87, Kruševac, Levadiakos
+16, Mihály Csábi, HUN, M, 1.79, 80, 25-05-95, Budapest, Magyar Akadémia
+17, Dániel Prosser, HUN, M, 1.75, 71, 15-06-94, Budapest, Magyar Akadémia
+18, András Horváth, HUN, G, 1.88, 83, 03-02-88, Budapest, Hatvan
+19, Josip Elez, CRO, D, 1.89, 75, 25-04-94, Split, Lazio
+20, Anibal Godoy, PAN, M, 1.80, 72, 10-02-90, Ciudad de Panamá, Chepo
+21, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Magyar Akadémia
+22, Dániel Göblyös, HUN, D, 1.84, 75, 09-04-96, Budapest, Magyar Akadémia
+25, Déniel Gazdag, HUN, F, 1.84, 82, 02-03-96, Nyíregyháza, Magyar Akadémia
+26, Patrik Hidi, HUN, M, 1.86, 78, 27-11-90, Győr, None
+27, Andrei Ionescu, ROU, D, 1.89, 85, 07-09-96, Bucharest, Magyar Akadémia
+28, Richárd Czár, HUN, M, 1.79, 74, 13-08-92, Komló, None
+29, Attila Lőrinczi, HUN, M, 1.86, 78, 08-04-94, Budapest, Magyar Akadémia
+30, Bálint Vécsei, HUN, F, 1.92, 84, 13-07-93, Kazincbarcika, Magyar Akadémia
+32, Gábor Erdős, HUN, M, 1.81, 76, 08-03-95, Budapest, Magyar Akadémia
+33, Krisztián Szabados, HUN, M, 1.85, 73, 23-08-95, Budapest, Magyar Akadémia
+34, Jean-Pierre Morgan, FRA, D, 1.74, 71, 30-10-92, Les Abymes, Béziers
+35, Benjamin Tóth, HUN, M, 1.82, 73, 24-01-95, Szolnok, Magyar Akadémia
+36, Botond Baráth, HUN, D, 1.87, 68, 21-04-92, Budapest, Újpest
+38, Márk Koszta, HUN, F, 1.85, 82, 26-09-96, Kazincbarcika, Magyar Akadémia
+39, Francis Koné, TOG, F, 1.89, 87, 22-11-90, Treichville, Al-Musannah
+44, Jesús Meza, VEN, M, 1.60, 55, 06-01-86, Mérida [VEN], Olympiakos Volos
+49, John Jairo Palacios, COL, F, 1.88, 82, 28-11-88, Tumaco, Alianza Huánuco
+57, Filip Holender, SRB, F, 1.80, 74, 27-07-94, Kragujevac, Magyar Akadémia
+66, Jevrem Kosnić, SRB, M, 1.90, 82, 28-04-93, Belgrade, Palermo
+71, Szabolcs Kemenes, HUN, G, 1.90, 80, 18-05-86, Budapest, MTK
+77, Gergő Nagy, HUN, M, 1.83, 78, 07-01-93, Gyula, Békéscsaba
+88, Marko Vidović, MNE, D, 1.83, 74, 03-06-88, Belgrade, FC Tiraspol
+94, Sebestyén Ihrig-Farkas, HUN, F, 1.87, 82, 28-04-94, Budapest, Ferencváros
+96, Relu Stoian, ROU, G, 1.92, 86, 01-03-96, Voluntari, Magyar Akadémia
+98, Ákos Bíró, HUN, F, 1.86, 83, 25-04-98, Budapest, Magyar Akadémia
+99, Souleymane Youla, GUI, F, 1.80, 76, 29-11-81, Conakry, Tournai
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Norbert Szemerédi, HUN, G, 1.87, 83, 08-12-93, Paks, Paks (On Loan)
+29, Richárd Kozma, HUN, M, 1.85, 81, 01-10-94, Nyíregyháza, Siófok (On Loan)
+4, Andrea Mancini, ITA, M, 1.79, 73, 13-09-92, Genoa, Haladás
+13, Raffaele Alcibiade, ITA, D, 1.86, 81, 23-05-90, Turin, Haladás (On Loan)
+67, Anatolis Alexis Saundas, ROU, D, 1.83, 79, 22-01-94, Oradea, Fidelis Andria
+21, János Fejes, HUN, M, 1.82, 75, 09-05-93, Jászberény, Gyírmót (On Loan)
+9, Gergely Bobál, HUN, F, 1.88, 85, 31-08-95, Pásztó, Gyírmót (On Loan)
+22, Valér Kapacina, HUN, M, 1.83, 71, 14-07-93, Nyíregyháza, Sopron (On Loan)
+6, Cristian Portilla, ESP, D, 1.78, 76, 28-08-88, Santander, Mitra Kukar
+2, Dávid Bobál, HUN, D, 1.88, 85, 31-08-95, Pásztó, Sopron (On Loan)
+11, Ayub Daud, SOM, F, 1.72, 62, 24-02-90, Mogadishu, Re-Registered (9)
+23, Abdul Kader Keïta, CIV, F, 1.84, 78, 06-08-81, Abidjan, Persib Bandung
+24, Péter Karacs, HUN, F, 1.85, 81, 01-10-94, Debrecen, Nyíregyháza
+41, Thomas Hervé Job Iyock, CMR, F, 1.75, 70, 20-08-84, Douala, 
+15, Kandia Traoré, CIV, F, 1.80, 84, 05-07-80, Adjame, 
+92, Anibal Mello, PAN, D, 1.80, 75, 14-01-91, Ciudad de Panamá, 

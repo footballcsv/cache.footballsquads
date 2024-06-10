@@ -1,0 +1,46 @@
+=  Stevenage - English Football League One 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Steve Arnold, ENG, G, 1.86, 87, 22-08-89, Welham Green, Wycombe W
+2, David Gray, SCO, D, 1.80, 71, 04-05-88, Edinburgh, Preston NE
+3, Lee Hills, ENG, D, 1.79, 75, 13-04-90, Croydon, Crystal Palace
+4, Darius Charles, ENG, D, 1.85, 85, 10-12-87, Ealing, Ebbsfleet U
+5, Jon Ashton, ENG, D, 1.88, 85, 04-10-82, Nuneaton, Grays Ath
+6, Greg Tansey, ENG, M, 1.85, 78, 21-11-88, Huyton, Inverness CT
+7, Anthony Grant, ENG, M, 1.78, 71, 04-06-87, Lambeth, Southend U
+8, James Dunne, ENG, M, 1.80, 69, 18-09-89, Farnborough, Exeter C
+9, Marcus Haber, CAN, F, 1.91, 85, 11-01-89, Vancouver, St Johnstone
+10, Filipe Morais, POR, M, 1.75, 73, 21-11-85, Lisbon, Oldham Ath
+11, Lucas Akins, ENG, F, 1.80, 73, 25-02-89, Huddersfield, Tranmere R
+12, Anthony Furlonge, CYP, D, 1.88, 68, 03-12-93, , Southend U
+14, Mark Roberts, ENG, D, 1.85, 76, 16-10-83, Northwich, Northwich V
+15, Luke Freeman, ENG, F, 1.83, 64, 22-03-92, Dartford, Arsenal
+16, Chris Day, ENG, G, 1.88, 85, 28-07-75, Walthamstow, Millwall
+17, Matt Ball, ENG, M, 1.78, 68, 26-03-93, Welwyn Garden City, Norwich C
+18, Gavin Mahon, ENG, M, 1.85, 84, 02-01-77, Birmingham, Notts Co
+19, Michael Thalassitis, CYP, M, 1.85, 75, 19-01-93, Edmonton, None
+20, Anthony Jeffrey, ENG, M, 1.76, 71, 03-10-94, Hendon, Arsenal
+21, Andy Iro, ENG, D, 1.96, 93, 26-11-84, Liverpool, Toronto FC
+22, Miguel Comminges, FRA, D, 1.75, 71, 16-03-82, Les Abymes, Colorado Rapids
+23, Dani López, ESP, F, 1.87, 85, 25-10-85, Madrid, Badajoz
+24, Patrick Agyemang, GHA, F, 1.85, 89, 29-09-80, Walthamstow, QPR
+25, George Allen, ENG, D, , , , , None
+26, Harold Joseph, ENG, D, , , , , None
+27, Charlie Horlock, ENG, G, 1.85, 79, 23-03-95, , Wycombe W
+28, Joe N'Guessan, ENG, F, 1.75, 70, 15-07-95, Lewisham, None
+29, Bondz Ngala, ENG, D, 1.83, 76, 03-10-89, Newham, Yeovil T
+30, Sam Hoskins, ENG, F, 1.72, 67, 04-02-93, Dorchester, Southampton
+32, Robin Shroot, NIR, M, 1.75, 73, 26-03-88, Hammersmith, Birmingham C
+33, Ben Chorley, ENG, D, 1.91, 84, 30-09-82, Sidcup, Leyton Orient
+34, Roarie Deacon, ENG, F, 1.70, 67, 12-10-91, London, Sunderland
+35, Max Ehmer, GER, M, 1.88, 70, 03-02-92, Frankfurt am Main, QPR
+36, Alex Smith, ENG, D, 1.75, 54, 31-10-91, Clapham, Fulham
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Oliver Risser, NAM, M, 1.90, 87, 19-09-80, Windhoek, Birmingham C
+20, Robbie Rogers, USA, F, 1.78, 82, 12-05-87, Palos Verdes, Leeds U
+18, Don Cowan, IRL, F, 1.79, 85, 16-11-89, Dublin, Dundee
+26, Rob Sinclair, ENG, M, 1.78, 71, 29-08-89, Bedford, Salisbury C
+28, Steve Beleck Leo, CMR, F, 1.92, 79, 10-02-93, Yaoundé, Udinese

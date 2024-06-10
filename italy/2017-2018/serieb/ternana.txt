@@ -1,0 +1,49 @@
+=  Ternana - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Plizzari, ITA, G, 1.87, 73, 12-03-00, Crema, Milan
+2, Roberto Vitiello, ITA, D, 1.76, 71, 08-05-83, Torre del Greco, Palermo
+3, Alessandro Favalli, ITA, D, 1.82, 75, 15-11-92, Cremona, Padova
+4, Martin Valjent, SVK, D, 1.86, 83, 11-12-95, Dubnica nad Váhom, Chievo Verona
+5, Andrea Signorini, ITA, D, 1.87, 84, 31-01-90, Genoa, Fondi
+6, Federico Angiulli, ITA, M, 1.76, 70, 04-03-92, Segrate, Pisa
+7, Giuseppe Statella, ITA, M, 1.80, 76, 15-03-88, Melito di Porto Salvo, Cosenza
+8, Ivan Varone, ITA, M, 1.84, 74, 11-10-92, Naples, Fondi
+9, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Zhejiang Yiteng
+10, Mattia Finotto, ITA, F, 1.83, 72, 28-12-92, Valdobbiadene, SPAL
+11, Diego Albadoro, ITA, F, 1.85, 80, 26-02-89, Naples, Fondi
+12, Marco Bleve, ITA, G, 1.84, 84, 18-10-95, San Cesario di Lecce, Lecce
+13, Johad Ferretti, ITA, D, 1.83, 77, 30-05-94, Marseille, Cremonese
+14, Andrea Repossi, ITA, F, 1.80, 72, 15-07-96, Magenta, Varese
+15, Michele Rigione, ITA, D, 1.85, 83, 07-03-91, Naples, Chievo Verona
+16, Luca Tremolada, ITA, M, 1.86, 78, 25-11-91, Milan, Virtus Entella
+17, Giuseppe Argento, ITA, M, 1.75, 71, 02-02-99, Naples, None
+18, Daniele Marino, ITA, D, 1.78, 70, 25-07-88, Rome, Fondi
+19, Luca Zanon, ITA, D, 1.77, 72, 04-07-96, Camposampiero, Fiorentina
+20, Mirko Carretta, ITA, F, 1.78, 70, 23-11-90, Gallipoli, Matera
+21, Francesco Signori, ITA, M, 1.79, 74, 26-10-88, Milan, Venezia
+22, Andrea Sala, ITA, G, 1.87, 76, 16-09-93, Saronno, Reggiana
+23, Andrea Paolucci, ITA, M, 1.76, 73, 23-11-86, Pescara, Cittadella
+25, Marino Defendi, ITA, M, 1.76, 73, 19-08-85, Bergamo, Bari
+26, Daniele Gasparetto, ITA, D, 1.95, 80, 06-04-88, Montebelluna, SPAL
+27, Alessandro Bordin, ITA, M, 1.76, 72, 01-08-98, Latina, Roma
+28, Matteo Capitani, ITA, M, 1.75, 65, 03-06-96, Reggio Emilia, Viareggio
+29, Nicolò Canalicchio, ITA, D, , , 19-04-01, Narni, None
+30, Valerio Luciani, ITA, G, , , 08-01-00, Rome, None
+31, Federico Mazzarani, ITA, D, 1.84, 75, 01-07-00, Rome, None
+32, Adriano Montalto, ITA, F, 1.86, 78, 06-04-88, Erice, Juve Stabia
+33, Tommaso Vitali, ITA, G, 1.86, 77, 26-08-99, Terni, None
+34, Andrea Castelletti, ITA, F, , , 27-02-99, Assisi, Bologna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Alessandro Di Paolantonio, ITA, M, 1.75, 67, 31-12-92, Teramo, Viterbese (On Loan)
+9, Leonardo Candellone, ITA, F, 1.86, 80, 15-09-97, Turin, Torino
+17, Leonardo Taurino, ITA, F, 1.68, 65, 25-07-95, Taranto, Fidelis Andria (On Loan)
+24, Francesco Bombagi, ITA, M, 1.78, 70, 08-09-89, Sassari, Pordenone
+15, Nicolò Gigli, ITA, D, 1.90, 85, 10-01-96, Genzano di Roma, Matera (On Loan)
+33, Emanuele Marino, ITA, G, 1.85, , 03-10-00, Rome, Carpi
+14, Mattia Battistoni, ITA, M, 1.70, 64, 11-10-95, Rome, Aprilia (On Loan)
+21, Filippo Tiscione, ITA, F, 1.68, 64, 09-12-85, Palermo, Matera (On Loan)
+30, Simone Franchini, ITA, M, 1.83, 74, 30-03-98, Modena, Sassuolo

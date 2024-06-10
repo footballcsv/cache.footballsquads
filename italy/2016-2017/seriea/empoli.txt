@@ -1,0 +1,49 @@
+=  Empoli - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maurizio Pugliesi, ITA, G, 1.87, 79, 27-12-76, Pontedera, Pisa
+2, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Carpi
+3, Marco Zambelli, ITA, D, 1.82, 77, 22-08-85, Gavardo, Brescia
+4, Federico Dimarco, ITA, D, 1.75, 75, 10-11-97, Milan, Internazionale
+5, José Mauri, ITA, M, 1.69, 65, 16-05-96, Realicó, Milan
+6, Giuseppe Bellusci, ITA, D, 1.85, 80, 21-08-89, Trebisacce, Leeds U
+7, Massimo Maccarone, ITA, F, 1.80, 70, 06-09-79, Galliate, Sampdoria
+8, Assane Diousse, SEN, M, 1.75, 68, 20-09-97, Dakar, None
+9, Levan Mchedlidze, GEO, F, 1.90, 85, 24-03-90, Tbilisi, None
+10, Omar El Kaddouri, MAR, M, 1.85, 74, 21-08-90, Brussels, Napoli
+11, Daniele Croce, ITA, M, 1.75, 68, 09-09-82, Giulianova, Sorrento
+12, Gabriel Meli, ITA, G, 1.88, 75, 05-02-99, Bagno a Ripoli, Prato
+13, Frédéric Veseli, ALB, D, 1.83, 80, 20-11-92, Renens, Lugano
+14, Davide Seminara, ITA, D, 1.82, 77, 05-07-98, Pisa, None
+15, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Parma
+16, Alessio Zini, ITA, D, 1.78, , 03-01-98, Pisa, None
+17, Miha Zajc, SVN, M, 1.89, 76, 01-07-94, Šempeter pri Gorici, Olimpija Ljubljana
+18, Davide Buglio, ITA, M, 1.78, 73, 26-02-98, Pietrasanta, Internazionale
+19, Federico Barba, ITA, D, 1.88, 77, 01-09-93, Rome, Roma
+20, Manuel Pucciarelli, ITA, F, 1.74, 63, 17-06-91, Prato, None
+21, Manuel Pasqual, ITA, D, 1.87, 71, 13-03-82, San Donà di Piave, Fiorentina
+22, Elia Giampà, ITA, D, 1.91, 78, 27-06-98, Florence, None
+23, Alberto Pelagotti, ITA, G, 1.86, 81, 09-03-89, Empoli, None
+24, Uroš Ćosić, SRB, D, 1.86, 82, 24-10-92, Belgrade, Pescara
+25, Arnel Jakupović, AUT, F, 1.86, 79, 29-05-98, Vienna, Middlesbrough
+26, Samuele Damiani, ITA, M, 1.75, 72, 30-01-98, Poggibonsi, None
+27, Mame Baba Thiam, SEN, F, 1.85, 79, 09-10-92, Ngiudile, Juventus
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+29, Hamed Junior Traoré, CIV, M, 1.84, 77, 16-02-00, Abidjan, None
+31, Alberto Picchi, ITA, M, 1.85, 69, 12-08-97, Livorno, None
+33, Rade Krunić, BIH, M, 1.84, 74, 07-10-93, Foča, Borac Čačak
+71, Lapo Carradori, ITA, D, 1.75, 70, 06-06-98, Florence, None
+77, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Juventus
+88, Andrés Tello, COL, M, 1.81, 80, 06-09-96, Medellín, Juventus
+89, Guido Marilungo, ITA, F, 1.75, 72, 09-08-89, Montegranaro, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Franco Signorelli, VEN, M, 1.78, 68, 01-01-91, Mérida, Spezia
+22, Luca Bittante, ITA, D, 1.84, 65, 14-08-93, Bassano del Grappa, Cagliari (On Loan)
+18, Alberto Gilardino, ITA, F, 1.84, 79, 05-07-82, Biella, Pescara
+17, Raffaele Maiello, ITA, M, 1.77, 73, 10-07-91, Acerra, Napoli
+99, Romani Tchanturia, GEO, F, 1.85, 70, 09-02-96, Tbilisi, Olhanense (On Loan)
+10, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Fiorentina (On Loan)
+31, Matheus Pereira, BRA, M, 1.81, 68, 25-02-98, São Paulo, Juventus (On Loan)

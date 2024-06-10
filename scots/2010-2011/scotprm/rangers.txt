@@ -1,0 +1,75 @@
+=  Rangers - Scottish Premier League 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, None
+3, David Weir, SCO, D, 1.91, 86, 10-05-70, Falkirk, Everton
+4, Kirk Broadfoot, SCO, D, 1.91, 89, 08-08-84, Irvine, St Mirren
+5, Saša Papac, BIH, D, 1.85, 78, 07-02-80, Mostar, Austria Vienna
+6, Lee McCulloch, SCO, M, 1.85, 84, 14-05-76, Paisley, Wigan Ath
+7, Maurice Edu, USA, M, 1.83, 77, 18-04-86, San Bernardino, Toronto FC
+8, Steven Davis, NIR, M, 1.79, 72, 01-01-85, Ballymena, Fulham
+10, John Fleck, SCO, M, 1.75, 72, 24-08-91, Glasgow, None
+11, Kyle Lafferty, NIR, F, 1.93, 70, 21-07-87, Enniskillen, Burnley
+12, Richard Foster, SCO, M, 1.76, 73, 31-07-85, Aberdeen, Aberdeen
+14, Steven Naismith, SCO, F, 1.78, 72, 14-09-86, Irvine, Kilmarnock
+15, David Healy, NIR, F, 1.76, 67, 05-08-79, Downpatrick, Sunderland
+16, Steven Whittaker, SCO, D, 1.85, 87, 16-06-84, Edinburgh, Hibernian
+17, El-Hadji Diouf, SEN, F, 1.80, 75, 15-01-81, Dakar, Blackburn R
+18, Nikica Jelavić, CRO, F, 1.88, 88, 27-08-85, Capljina, Rapid Vienna
+20, Vladimir Weiss, SVK, M, 1.75, 68, 30-11-89, Bratislava, Manchester C
+21, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Arsenal
+24, Madjid Bougherra, ALG, D, 1.88, 89, 07-10-82, Longvic, Charlton Ath
+25, Neil Alexander, SCO, G, 1.85, 73, 10-03-78, Edinburgh, Ipswich T
+28, Salim Kerkar, FRA, F, 1.80, 62, 04-08-87, Givors, Gueugnon
+29, Andrew Little, NIR, F, 1.83, 78, 12-05-89, Enniskillen, Ballinamallard
+30, Scott Gallacher, SCO, G, 1.88, 77, 15-07-89, Bellshill, None
+31, Grant Adam, SCO, G, 1.76, 72, 16-04-91, Glasgow, None
+32, Thomas Kind Bendiksen, NOR, M, 1.83, 76, 08-08-89, Harstad, Harstad
+36, Ross Perry, SCO, D, 1.88, 72, 07-02-90, Falkirk, None
+37, Andrew Shinnie, SCO, M, 1.80, 70, 17-07-89, Aberdeen, None
+39, Gregg Wylde, SCO, M, 1.78, 72, 23-03-91, Kirkintilloch, None
+40, Jamie Ness, SCO, M, 1.77, 72, 02-03-91, Irvine, None
+41, Kyle Hutton, SCO, M, 1.89, 74, 05-02-91, Cambuslang, None
+43, Wayne Drummond, NIR, G, , , 20-01-92, , Millwall
+44, Gary Inglis, SCO, G, , , 30-01-92, , None
+45, Darren Cole, SCO, D, 1.89, 80, 03-01-92, Edinburgh, None
+46, Gordon Dick, SCO, M, , , 26-03-92, , None
+48, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Tamworth
+49, Christiano Kisuka, COD, F, 1.78, , 23-03-92, Kinshasa, Aberdeen
+50, Andy Mitchell, NIR, M, 1.80, 70, 06-04-92, Glengormley, Manchester C
+51, Rhys McCabe, SCO, M, 1.77, 74, 24-07-92, Polbeth, None
+52, Kal Naismith, SCO, M, 1.85, 78, 18-02-92, Glasgow, None
+54, Kamil Wiktorski, POL, M, 1.88, , 12-03-93, Bydgoszcz, Zawisza Bydgoszcz
+55, Max Wright, SCO, F, , , 06-04-92, , None
+56, Kyle McAusland, SCO, D, 1.88, 81, 19-01-93, Cumnock, None
+57, Dylan McGeouch, SCO, F, 1.78, 69, 15-01-93, Glasgow, None
+61, Blair Currie, SCO, G, 1.85, 83, 19-02-94, Glasgow, None
+62, Adam Hunter, SCO, D, , , 15-01-93, , None
+63, Ewan McNeil, SCO, M, , , 19-02-94, , None
+64, Michael Noble, SCO, D, , , 16-03-93, , None
+65, Steven Hetherington, ENG, M, 1.80, 78, 04-10-93, Hartlepool, None
+66, Anthony Marenghi, SCO, D, , , 11-06-93, , None
+67, Robbie Crawford, SCO, M, 1.80, 70, 19-03-93, Greenock, None
+68, Nicky Main, SCO, M, , , 06-05-93, , None
+69, Scott Rumsby, SCO, D, , , 23-01-94, , None
+70, Lee Cochrane, SCO, F, , , 09-03-94, , None
+71, Gregor Fotheringham, SCO, D, , , 09-06-94, , None
+72, Lewis MacLeod, SCO, M, 1.75, 72, 16-06-94, Wishaw, None
+74, Francis Owens, SCO, D, , , 18-01-94, , None
+75, George Scott, SCO, M, , , 01-04-94, , None
+76, Callum Wyllie, SCO, F, , , 01-11-94, , Alloa Ath
+79, Marc Dyer, SCO, F, , , 07-10-94, , None
+80, Robbie McIntyre, SCO, D, 1.86, 64, 17-04-94, Edinburgh, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Stephen Stirling, SCO, M, , , 05-01-90, , Stirling Alb (On Loan)
+42, Archie Campbell, SCO, F, 1.70, 67, 10-01-91, Dunfermline, Cowdenbeath (On Loan)
+9, Kenny Miller, SCO, F, 1.78, 68, 23-12-79, Edinburgh, Bursaspor
+34, Rory Loy, SCO, F, 1.78, 67, 19-03-88, Dumfries, Carlisle U
+17, Andrius Velička, LTU, F, 1.85, 80, 05-04-79, Kaunas, Ekranas
+19, James Beattie, ENG, F, 1.85, 84, 27-02-78, Lancaster, Blackpool (On Loan)
+22, Andy Webster, SCO, D, 1.83, 64, 23-04-82, Dundee, Hearts
+23, Jordan McMillan, SCO, D, 1.78, 63, 16-10-88, Glasgow, Wrexham (On Loan)
+53, Chris Scott, SCO, D, , , 09-01-92, , 

@@ -1,0 +1,57 @@
+=  Latina - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pietro Spilabotte, ITA, G, 1.90, 82, 21-08-94, Matera, None
+2, Nelson Atiagli, GHA, M, 1.75, 66, 18-01-96, , Tema Youth
+3, Matteo Bruscagin, ITA, D, 1.82, 70, 03-08-89, Milan, Grosseto
+4, Roberto Criscuolo, ITA, M, 1.78, 74, 21-02-97, Rome, Lazio
+5, Abdelhakim Bouhna, MAR, M, 1.88, 75, 24-05-91, Brussels, Anderlecht
+6, Ângelo, BRA, D, 1.75, 76, 12-06-81, Salvador, Siena
+7, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Roma
+8, Marco Crimi, ITA, M, 1.77, 65, 17-03-90, Messina, Grosseto
+9, Michele Paolucci, ITA, F, 1.84, 78, 06-02-86, Recanati, Siena
+10, Rubén Olivera, URU, M, 1.84, 84, 04-05-83, Montevideo, Brescia
+11, Gianluca Litteri, ITA, F, 1.86, 80, 06-06-88, Catania, Virtus Entella
+12, Simone Farelli, ITA, G, 1.86, 78, 19-02-83, Rome, Siena
+13, Stefan Ristovski, MKD, D, 1.81, 73, 12-02-92, Skopje, Parma
+14, Masahudu Alhassan, GHA, M, 1.76, 65, 01-12-92, Tarkwa, Udinese
+15, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Parma
+16, Andrea Milani, ITA, D, 1.66, 67, 09-12-80, Latina, Modena
+17, Nicola Talamo, ITA, F, 1.84, 80, 08-04-96, Pozzuoli, Monteruscello
+18, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Siena
+19, Doudou Mangni, ITA, F, 1.76, 75, 20-03-93, Rome, Atalanta
+20, Najib Ammari, ALG, M, 1.78, 72, 10-04-92, Marseille, Levski Sofia
+21, Ali Sowe, GAM, F, 1.86, 80, 14-06-94, Banjul, Chievo Verona
+22, Raffaele Di Gennaro, ITA, G, 1.86, 80, 03-10-93, Saronno, Internazionale
+23, Riccardo Brosco, ITA, D, 1.90, 78, 03-02-91, Rome, Parma
+24, Soufiane Bidaoui, MAR, F, 1.76, 65, 20-04-90, Etterbeek, Parma
+25, Gianmarco Torri, ITA, F, , , 14-08-96, Rome, Parma
+26, Riccardo Maciucca, ITA, D, 1.80, 73, 24-10-96, Cisterna di Latina, Lazio
+27, Andrea Esposito, ITA, D, 1.87, 78, 17-05-86, Galatina, Lecce
+28, Nabil Jaadi, MAR, M, 1.78, 69, 01-07-96, Brussels, Udinese
+29, Giuseppe Figliomeni, ITA, D, 1.90, 82, 02-06-87, Reggio Calabria, Juve Stabia
+30, Riccardo Mazzoleni, ITA, G, , , 05-12-97, Rome, Grifone Monteverde
+31, Thomas Barone, ITA, F, 1.88, 80, 02-04-97, Latina, None
+32, Gianluca Ferrari, ARG, D, 1.81, 76, 30-06-97, Rosario, Scandicci
+33, Alessandro Celli, ITA, D, 1.75, 71, 07-07-97, Latina, Genoa
+34, Romeo Shahinas, ALB, M, 1.72, 66, 25-02-96, Korçë, Roma
+35, Nnamdi Oduamadi, NGA, F, 1.75, 65, 17-10-90, Lagos, Milan
+36, Valerio Trani, ITA, F, 1.79, 71, 16-05-97, Rome, Roma
+37, Bartosz Wolski, POL, M, 1.74, 70, 12-05-97, Aleksandrów Kujawski, Elana Toruń
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Maikol Negro, ITA, F, 1.70, 76, 28-02-88, Lecce, Salernitana (On Loan)
+24, Giuseppe Figliomeni, ITA, D, 1.90, 82, 02-06-87, Reggio Calabria, Vicenza (On Loan)
+13, Nii Nortey Ashong, GHA, D, 1.78, 69, 17-11-94, Accra, Matera (On Loan)
+28, Luca Ricciardi, ITA, M, 1.73, 67, 04-08-89, Gaeta, Pisa (On Loan)
+11, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Milan
+4, Marcello Cottafava, ITA, D, 1.84, 77, 08-09-77, Genoa, SPAL
+21, Alberto Almici, ITA, D, 1.81, 74, 11-01-93, Lovere, Atalanta
+29, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Parma
+5, Alessandro Bruno, ITA, M, 1.78, 70, 04-07-83, Benevento, Pescara
+10, Alessandro Sbaffo, ITA, M, 1.87, 80, 27-08-90, Loreto, Chievo Verona
+11, Irakli Shekiladze, GEO, F, 1.81, 73, 17-09-92, Zugdidi, Südtirol (On Loan)
+20, Stefano Pettinari, ITA, F, 1.85, 79, 27-01-92, Rome, Roma
+32, Ferdinando Sforzini, ITA, F, 1.93, 83, 04-12-84, Rome, Virtus Entella

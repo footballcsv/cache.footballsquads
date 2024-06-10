@@ -1,0 +1,34 @@
+=  Caen - French Ligue 2 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Reulet, FRA, G, 1.81, 64, 14-01-94, Caen, None
+2, Nicolas Seube, FRA, D, 1.80, 72, 11-08-79, Toulouse, Toulouse
+4, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Verdon, None
+5, Laurent Agouazi, ALG, M, 1.84, 79, 16-03-84, Langres, Istres
+7, Mathieu Duhamel, FRA, F, 1.83, 76, 12-07-84, Mont-Saint-Aignan, Metz
+8, Kim Kyung-Jung, KOR, F, 1.78, 67, 16-04-91, Gwangju, Olympic Tallinn
+9, Jonathan Kodjia, FRA, F, 1.89, 80, 22-10-89, Saint-Denis, Reims
+10, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Fréjus
+11, Bengadli-Fodé Koita, FRA, F, 1.86, 86, 21-10-90, Paris, Montpellier
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, Monaco
+13, Jean-Jacques Pierre, HAI, D, 1.80, 79, 23-01-81, Leogane, Panionios
+14, Aurélien Montaroup, FRA, D, 1.73, 64, 19-12-85, Rennes, Dinamo Minsk
+15, Lenny Nangis, FRA, F, 1.73, 65, 24-03-94, Caen, None
+16, Damien Perquis, FRA, G, 1.84, 82, 08-03-86, Saint-Brieuc, Beauvais
+17, Ngolo Kanté, FRA, M, 1.70, 70, 29-03-91, Paris, Boulogne
+18, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Lorient
+19, Felipe Saad, BRA, D, 1.87, 83, 11-09-83, Santos, Ajaccio
+21, José Saez, FRA, M, 1.70, 63, 07-05-82, Memin, Valenciennes
+22, Alexandre Raineau, FRA, M, 1.78, 71, 21-06-86, Paris, None
+23, Jean Calvé, FRA, D, 1.83, 78, 30-04-84, Cormeilles-en-Parisis, Nancy
+26, Jonathan Beaulieu, FRA, M, 1.80, 65, 11-03-93, Meudon, None
+27, Thomas Lemar, FRA, F, 1.63, 46, 12-11-95, Baie-Mahault, None
+30, Thomas Bosmel, FRA, G, 1.84, 75, 18-04-88, Caen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Livio Nabab, FRA, F, 1.85, 72, 14-06-88, Guadeloupe, Arles-Avignon
+25, Jérôme Rothen, FRA, M, 1.77, 74, 31-03-78, Chatenay-Malabry, Retired
+3, Yannick M'bone, CMR, M, 1.85, 80, 16-04-93, Yaoundé, Fréjus (On Loan)
+28, Romain Poyet, FRA, F, 1.84, 76, 25-11-80, Le Coteau, Amiens (On Loan)

@@ -1,0 +1,51 @@
+=  Anzhi Makhachkala - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vladimir Sugrobov, RUS, G, 1.86, 84, 10-09-96, Saratov, Ararat Moscow
+2, Guram Tetrashvili, RUS, D, 1.78, 75, 02-08-88, Vladikavkaz, FC Tosno
+3, Vladimir Poluyakhtov, RUS, D, 1.80, 78, 11-07-89, Krasavino, FC Orenburg
+4, Ihor Chaykovskyy, UKR, M, 1.71, 69, 07-10-91, Chernivtsi, Zorya Luhansk
+5, Magomed Musalov, RUS, D, 1.80, 72, 09-02-94, Khushtada, Anzhi-2
+6, Paul Anton, ROU, M, 1.85, 80, 10-05-91, Bistriţa, Dinamo București
+7, Dostonbek Khamdamov, UZB, M, 1.80, 68, 24-07-96, Bekabad, Bunyodkor
+8, Arsen Khubulov, RUS, M, 1.81, 74, 13-12-90, Vladikavkaz, Kuban Krasnodar
+9, Pylyp Budkivskyy, UKR, F, 1.94, 78, 10-03-92, Kyiv, Shakhtar Donetsk
+10, Kwadwo Poku, GHA, M, 1.85, 84, 19-02-92, Kumasi, Miami FC
+14, Igor Armaş, MDA, D, 1.94, 79, 14-07-87, Chişinău, Kuban Krasnodar
+17, Jhon Chancellor, VEN, D, 1.98, 86, 02-01-92, Puerto Ordaz, Delfín
+37, Batraz Khadartsev, RUS, M, 1.73, 73, 23-05-93, Vladikavkaz, FC Tosno
+45, Thomas Phibel, FRA, D, 1.92, 90, 21-05-86, Les Abymes, Crvena Zvezda
+47, Giorgi Loria, GEO, G, 1.97, 85, 27-01-86, Tbilisi, Krylia Sovetov
+49, Aleksandr Prudnikov, RUS, F, 1.85, 78, 26-02-89, Smolensk, FC Orenburg
+52, Miral Samardžič, SVN, D, 1.87, 80, 17-02-87, Jesenice, Akhisar Belediyespor
+74, Ivan Ivanchenko, RUS, F, 1.85, 73, 07-09-98, Perm, Lada Tolyatti
+77, Islam Zhilov, RUS, D, 1.75, 70, 29-11-97, Nartkala, Spartak Nalchik
+78, Mikhail Bakayev, RUS, M, 1.78, 75, 05-08-87, Vladikavkaz, Kairat Almaty
+82, Nikita Andreyev, RUS, M, 1.77, 61, 02-11-97, St. Petersburg, Zenit-2
+88, Ivan Markelov, RUS, F, 1.79, 77, 17-04-88, St. Petersburg, Dynamo Moscow
+90, Amur Kalmykov, RUS, F, 1.94, 94, 29-05-94, Baksan, Afips Afipsky
+91, Pavel Yakovlev, RUS, F, 1.80, 69, 07-04-91, Lyubertsy, Spartak Moscow
+92, Sergey Bryzgalov, RUS, D, 1.78, 72, 15-11-92, Pavlovo, Terek Grozny
+94, Oleh Danchenko, UKR, M, 1.78, 64, 01-08-94, Zaporizhya, Shakhtar Donetsk
+95, Magomed Elmurzayev, RUS, D, 1.75, 72, 16-06-97, Khasavyurt, Anzhi-2
+98, Aleksandr Budakov, RUS, G, 1.86, 79, 10-02-85, Magnitogorsk, Amkar Perm
+99, Juan Lescano, ARG, F, 1.88, 78, 29-10-92, Rauch, SKA-Khabarovsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Shamil Gasanov, RUS, D, 1.85, 79, 30-07-93, Makhachkala, Tromsø
+97, Khasan Mamtov, RUS, F, 1.83, 71, 28-04-84, Besleney, FC Orenburg
+6, Pavel Karasev, RUS, M, 1.75, 70, 10-07-92, Drezna, SKA-Khabarovsk (On Loan)
+33, Igor Udaliy, RUS, D, 1.88, 79, 08-12-84, Krasnodar, FC Orenburg (On Loan)
+7, Adlan Katsaev, RUS, M, 1.80, 73, 20-02-88, Achkhoy-Martan, Akhmat Grozny
+9, Konstantin Bazelyuk, RUS, F, 1.87, 78, 12-04-93, Moscow, CSKA Moscow
+77, Ayaz Guliev, RUS, M, 1.69, 64, 27-11-96, Moscow, Spartak Moscow-2
+21, Alan Bagaev, RUS, D, 1.93, 88, 07-04-91, Vladikavkaz, Mordovia Saransk
+29, Vadim Afonin, UZB, M, 1.76, 68, 29-09-87, Tashkent, FC Orenburg
+96, Dzhamal Dibirgadzhiyev, RUS, F, 1.92, 78, 02-08-96, Makhachkala, Veles Moscow (On Loan)
+1, Aleksey Solosin, RUS, G, 1.80, 69, 11-08-87, Moscow, Kolkheti-1913 Poti
+25, Gatoch Panom, ETH, M, 1.90, 84, 30-11-94, Gambela, Mekelle Kenema
+10, Jaba Lipartia, GEO, F, 1.74, 68, 16-11-87, Tbilisi, Torpedo Kutaisi
+26, Yuriy Shleev, RUS, G, 1.88, 70, 26-06-95, Pyatigorsk, Ararat Moscow
+19, Pavel Dolgov, RUS, F, 1.87, 83, 16-08-96, Kaliningrad, Torpedo Zhodino (On Loan)

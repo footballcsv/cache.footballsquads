@@ -1,0 +1,66 @@
+=  Triestina - Italian Serie B 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michael Agazzi, G, 6'02", 12 08, 03-07-84, Ponte San Pietro, Atalanta
+2, Georgios Kyriazis, D, 6'02", 12 08, 28-02-80, Salonika, Arezzo
+3, Michele Zeoli, D, 6'00", 12 01, 23-04-73, Civitavecchia, Pescara
+4, Alessandro Tulli, F, 6'01", 12 04, 14-08-82, Rome, Roma
+5, Juan Manuel Landaida, D, 6'01", 12 11, 15-09-76, Buenos Aires, Liverpool [URU]
+6, Mauro Briano, M, 5'09", 10 03, 08-03-75, Carmagnola, Catanzaro
+7, Giorgio Gorgone, M, 5'10", 11 09, 10-08-76, Rome, Perugia
+8, Daniele Galloppa, M, 5'11", 11 03, 15-05-85, Rome, Roma
+9, Francesco Ciullo, F, 5'11", 11 07, 30-09-79, Marghera, Palermo
+10, Horacio Nicolas Erpen, M, 5'08", 10 10, 29-08-81, Gualeguaychù, Chioggia
+11, Giovanni Volpato, F, 6'03", 14 02, 30-09-79, Camposampiero, Portogruaro
+14, Malik Rezgane, F, , , 14-07-87, , Bordeaux
+15, Karim Azizou, D, , , 20-01-85, , Bordeaux
+16, Juan Ignazio Gomez Taleb, F, , , 20-05-85, Santà Fe, Lazio
+17, Luciano De Bruno, M, 5'11", 12 01, 08-06-78, Rosario, Atletico Progresso
+19, Generoso Rossi, G, 6'03", 13 05, 03-01-79, Naples, QPR
+20, Leonardo Raul Villa, M, , , 03-03-85, Santa Fé, Venezia
+21, Michele De Agostino, M, , , 27-11-83, Udine, Tricesimo
+23, Massimo Borgobello, F, 5'11", 12 01, 17-05-71, Sacile, Salernitana
+24, Michele Mignani, D, 5'11", 11 09, 30-04-72, Genoa, Siena
+25, Davide Marchini, M, 5'11", 12 04, 23-02-81, Portomaggiore, Sassari Torres
+27, Paolo De Cristofaro, F, , , 23-06-87, , Guidonia
+29, Luigi Pagliuca, M, 6'00", 11 05, 29-08-79, Prato, Perugia
+31, Fabio Di Venanzio, M, 5'10", 10 12, 22-08-74, L'Aquila, Treviso
+33, Abdulahi Isah Eliakwu, F, 5'09", 11 00, 25-10-85, Lokoja, Internazionale
+48, Riccardo Allegretti, M, 5'08", 11 03, 15-02-78, Milan, Avellino
+55, Guido Gallovich, M, 6'00", 11 05, 13-04-82, Pordenone, Bellinzona
+64, Matteo Tomei, G, 6'03", 12 08, 28-06-84, Motta di Livenza, Itala San Marco
+66, Ildefonso Lima, M, 6'04", 14 05, 10-12-79, Barcelona, Rayo Vallecano
+72, Massimiliano Esposito, M, 5'09", 11 00, 27-05-72, Naples, Venezia
+78, Jonatan Binotto, M, 5'11", 11 11, 08-09-75, Montebelluna, Pistoiese
+83, Carlo Mammarella, D, 5'09", 11 00, 29-06-82, Pescara, Fermana
+87, Franco Da Dalt, M, , , 10-09-87, Ituzaingo, Montebelluna
+98, Niccolò Guzzo, M, 6'01", 11 11, 14-02-83, Florence, Triestina
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Andrea Parola, M, 5'10", 11 09, 22-04-79, Pisa, Ascoli
+23, Davide Moscardelli, M, 5'11", 12 01, 03-02-80, Mons, Rimini
+3, Aldo Perricone, D, , , 29-09-86, Palermo, Fermana (On Loan)
+7, Nicola Princivalli, M, 5'11", 11 11, 29-09-79, Trieste, Salernitana
+27, Umberto Improta, F, , , 23-02-84, Naples, 
+24, Gianni Munari, M, 6'01", 13 03, 24-06-83, Sassuolo, Verona (On Loan)
+55, Oscar Brevi, D, 6'00", 12 08, 15-12-67, Rome, Torino
+14, Alessandro Orlando, D, 5'08", 10 12, 01-06-70, Udine, 
+13, Fabio Macellari, D, 5'10", 11 07, 23-08-74, Sesto San Giovanni, Lucchese
+84, Emanuele Bruni, D, 6'00", 11 09, 10-01-79, Gardone, Lumezzane
+32, Giovanni Volpato, F, 6'03", , 30-09-79, Camposampiero, San Marino (On Loan)
+99, Denis Godeas, F, 6'02", 12 01, 10-04-70, Cormons, Palermo
+10, Marco Rigoni, M, 5'10", 11 09, 05-01-80, Padua, Ternana
+49, Loris Del Nevo, M, 5'06", 11 07, 31-05-75, Turin, Ternana
+18, Simone Groppi, D, 6'00", 11 11, 29-06-76, Mestre, Spezia (On Loan)
+9, Dino Baggio, M, 6'02", 12 08, 24-07-71, Camposampiero, Released
+21, William Pianu, D, 5'11", 12 04, 07-12-75, Turin, Bari
+5, Michelangelo Minieri, D, 6'00", 11 09, 29-05-81, Rome, Avellino
+30, Marcello Albino, M, 5'10", 11 07, 07-10-71, Turin, Avellino
+11, Eder Baù, F, 5'10", 12 00, 16-08-82, Asiago, Pescara (On Loan)
+13, Michele Modolo, M, 5'11", 11 03, 01-05-84, Udine, Pistoiese (On Loan)
+18, Massimiliano Vieri, F, 6'00", 11 09, 01-09-78, Sydney, Arezzo
+78, Maurizio Peccarisi, D, 6'04", 14 02, 17-02-78, Bordighera, Rimini
+, Marco De Cristofano, M, , , 17-06-83, Florence, Aglianese
+77, Roberto Massaro, F, 5'11", 12 00, 26-07-83, Brindisi, Milan

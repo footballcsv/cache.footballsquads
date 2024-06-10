@@ -1,0 +1,58 @@
+=  Grêmio - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Walace, BRA, M, 1.78, 75, 04-04-95, Salvador, Avaí
+6, Fred, BRA, D, 1.89, 83, 15-01-86, Novo Hamburgo, Goiás
+7, Luan, BRA, F, 1.80, 71, 27-03-93, São José do Rio Preto, América-SP
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, São Paulo
+10, Douglas, BRA, M, 1.75, 66, 18-02-82, Criciúma, Monte Azul
+11, Everton, BRA, F, 1.74, 72, 22-03-96, Fortaleza, Fortaleza
+13, Wallace, BRA, D, 1.75, 72, 01-05-94, Rio de Janeiro, Chelsea
+14, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Flamengo
+15, Rafael Thyere, BRA, D, 1.90, 86, 17-05-93, João Pessoa, None
+16, Wesley, BRA, D, 1.76, 65, 10-02-95, Cáceres, Novo Hamburgo
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Juventude
+18, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, None
+19, Tyroane Sandows, RSA, F, 1.70, 70, 12-02-95, Johannesburg, São Paulo
+20, Léo, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, None
+21, Felipe Tontini, BRA, M, 1.83, 69, 16-07-95, Foz do Iguaçu, Guarani
+22, Moisés, BRA, M, 1.81, 73, 24-09-94, Santa Clara do Sul, None
+23, Miller Bolaños, ECU, F, 1.70, 65, 01-06-90, Esmeraldas, Emelec
+24, Vitor, BRA, G, 1.88, 86, 11-01-96, Criciúma, None
+25, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, None
+26, Marcelo Oliveira, BRA, D, 1.84, 76, 29-03-87, Salvador, Cruzeiro
+27, Lincoln, BRA, M, 1.78, 65, 07-11-98, Porto Alegre, None
+28, Kaio, BRA, M, 1.73, 62, 18-03-95, Várzea Grande, Juventude
+29, Léo Tilica, BRA, F, 1.72, 65, 20-04-95, São Luís, None
+30, Bruno Grassi, BRA, G, 1.90, 88, 05-03-87, Tubarão, Cruzeiro-RS
+31, Jeferson Negueba, BRA, M, 1.76, 76, 02-01-94, Porto Velho, None
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Juventus-SP
+33, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Corinthians
+34, Iago, BRA, D, 1.72, 68, 21-05-95, Rio de Janeiro, None
+35, Batista, BRA, F, 1.78, 72, 16-06-95, Americana, None
+36, Denilson, BRA, D, 1.87, 77, 18-04-95, Brasília, None
+37, Marcos, BRA, D, , , 12-04-97, São Lourenço do Oeste, None
+38, Guilherme, BRA, F, 1.78, 65, 13-04-95, São Paulo, None
+39, Lucas Lovat, BRA, D, 1.78, 70, 15-01-97, Caxias do Sul, Avaí
+40, Dida, BRA, G, , , 14-11-97, Porto Alegre, None
+41, Machado, BRA, M, 1.74, 61, 20-01-96, Santa Maria, Desportivo Brasil
+42, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, None
+43, Guilherme Amorim, BRA, M, 1.74, 74, 30-04-93, São José dos Campos, América-SP
+77, Negueba, BRA, F, 1.78, 70, 07-04-92, Rio de Janeiro, Coritiba
+91, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Figueirense (On Loan)
+12, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Coritiba
+4, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, Peñarol (On Loan)
+8, Giuliano, BRA, M, 1.72, 68, 31-05-90, Curitiba, Zenit St Petersburg
+13, Bobô, BRA, F, 1.86, 85, 01-01-85, Gravatá, Sydney FC
+40, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Corinthians
+2, Wallace, BRA, D, 1.75, 72, 01-05-94, Rio de Janeiro, Re-Registered (13)
+19, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, Re-Registered (8)
+22, Marcelo Hermes, BRA, D, 1.77, 68, 02-01-95, Sarandi, De-Registered

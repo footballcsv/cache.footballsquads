@@ -1,0 +1,60 @@
+=  FC Rostov - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Amelchenko, BLR, G, 1.92, 85, 27-03-85, Gomel, FC Moscow
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+3, Dušan Andjelković, SRB, D, 1.74, 67, 15-06-82, Kraljevo, Kocaelispor
+4, Isaac Okoronkwo, NGA, D, 1.82, 74, 01-05-78, Aba, FC Moscow
+5, Aleksandr Cherkes, RUS, D, 1.80, 75, 02-09-76, Ostrogozhsk, Shinnik
+7, Alyaksandr Kulchiy, BLR, M, 1.81, 74, 01-11-73, Gomel, Tom Tomsk
+8, Gia Grigalava, RUS, D, 1.90, 89, 05-08-89, Kutaisi, SKA Rostov-on-Don
+9, Roman Adamov, RUS, F, 1.87, 80, 21-06-82, Belaya Kalitva, Rubin Kazan
+10, Dmitriy Akimov, RUS, F, 1.84, 79, 14-09-80, St. Petersburg, Sibir Novosibirsk
+11, Igor Lebedenko, RUS, F, 1.82, 78, 27-05-83, Moscow, Saturn
+14, Anri Khagush, RUS, D, 1.77, 74, 23-09-86, Gagra, Rubin Kazan
+15, Aleksey Sugak, RUS, F, 1.82, 76, 27-02-90, Azov, FC Rostov-2
+16, Vladimir Zabuga, RUS, G, 1.90, 81, 08-07-90, , FC Abinsk
+17, Sergey Shustikov, RUS, D, 1.83, 76, 05-03-89, Moscow, Krylia Sovetov
+19, Mersudin Ahmetović, BIH, F, 1.91, 81, 19-03-85, Tuzla, Sloboda Tuzla
+20, Artur Valikayev, RUS, D, 1.91, 80, 08-01-88, Sterlitamak, FC Nizhny Novgorod
+21, Hong Yong-Jo, PRK, F, 1.75, 68, 22-05-82, Pyongyang, Bežanija
+22, Dejan Radić, SRB, G, 1.87, 82, 08-07-80, Belgrade, Spartak Nalchik
+23, Chavdar Yankov, BUL, M, 1.76, 73, 29-03-84, Sofia, Metalurh Donetsk
+24, Sorin Ghionea, ROU, D, 1.87, 82, 11-05-79, Galaţi, Steaua Bucureşti
+25, Aleksandr Pavlenko, RUS, M, 1.79, 75, 20-01-85, Ordzhonikidze, Spartak Moscow
+26, Ivan Živanović, SRB, D, 1.88, 79, 12-10-81, Šabac, Sampdoria
+28, Artem Serdyuk, RUS, F, 1.85, 76, 22-01-90, , FC Rostov-2
+31, Aleksandr Solovev, RUS, G, 1.89, 80, 16-02-91, , FC Rostov-2
+33, Sergey Tumasyan, RUS, M, 1.77, 72, 31-01-90, , SKA Rostov-on-Don
+34, Andriy Proshyn, UKR, D, 1.89, 84, 19-02-85, Bor, Alania Vladikavkaz
+35, Vasiliy Mironik, RUS, D, 1.77, 70, 12-09-91, , FC Rostov-2
+36, Igor Gurbanov, RUS, D, 1.85, 80, 04-02-92, , FC Rostov-2
+37, Oleg Leshchikov, RUS, D, 1.78, 74, 29-09-89, Rostov, FC Rostov-2
+38, Anri Khabga, RUS, D, 1.77, 68, 07-01-92, , FC Rostov-2
+39, Mirzaga Guseynpur, RUS, M, 1.74, 72, 11-03-90, , FC Rostov-2
+40, Igor Ponomarev, RUS, M, 1.81, 76, 26-05-92, , FC Rostov-2
+41, Khoren Bayramyan, RUS, M, 1.69, 60, 07-01-92, Koti, FC Rostov-2
+42, Anton Kabanov, RUS, F, 1.75, 66, 11-02-91, , Kuban Krasnodar
+44, Magomed Kurbanov, RUS, F, 1.79, 64, 11-04-92, , FC Rostov-2
+45, Oleg Solonukha, RUS, M, 1.86, 74, 30-01-92, , FC Rostov-2
+48, Aleksandr Mitkin, RUS, D, 1.81, 70, 25-07-91, , FC Rostov-2
+49, Nikita Vasliev, RUS, M, 1.91, 85, 22-03-92, , FC Rostov-2
+50, Irakliy Khokhba, RUS, M, 1.82, 75, 16-03-90, , Dynamo Moscow-2
+53, Sergey Kharlamov, RUS, D, 1.81, 72, 24-01-91, , FC Moscow
+55, Aleksandr Tumasyan, RUS, M, 1.80, 72, 15-10-92, , FC Rostov-2
+56, David Tkebuchava, RUS, M, 1.68, 63, 17-01-91, , FC Rostov-2
+77, Stanislav Ivanov, MDA, M, 1.83, 73, 07-10-80, Tiraspol, Lokomotiv Moscow
+81, Dragan Blatnjak, CRO, F, 1.81, 75, 01-08-81, Studenci, FC Khimki
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Konstantin Yavorksiy, RUS, F, 1.78, 71, 16-03-90, , 
+52, Andrey Semenchuk, RUS, D, 1.85, 76, 15-02-90, , 
+43, Kirill Zaika, RUS, F, 1.74, 63, 07-10-92, , FC Taganrog (On Loan)
+47, Vladimir Shamara, RUS, D, 1.88, 78, 14-02-92, , FC Taganrog (On Loan)
+51, Stanislav Yengovatov, RUS, D, 1.80, 70, 03-04-91, , Dynamo Vologda
+6, Roman Lengyel, CZE, D, 1.91, 85, 03-11-78, České Budějovice, České Budějovice
+27, Maksim Kabanov, RUS, G, 1.94, 78, 30-12-82, Moscow, Salyut Belgorod (On Loan)
+87, Evgeniy Lutsenko, RUS, F, 1.86, 72, 25-02-87, Moscow, Salyut Belgorod (On Loan)

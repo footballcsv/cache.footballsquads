@@ -1,0 +1,42 @@
+=  Torino - Italian Serie A 2001/02
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Bucci, G, 5'11", 12 01, 13-03-69, Bologna, Perugia
+2, Luigi Garzya, D, 5'09", 11 05, 07-07-69, San Cesario, Bari
+3, Gianluca Comotto, D, 6'00", 12 04, 16-10-78, Ivrea, Vicenza
+4, Giorgio Venturin, M, 5'07", 10 10, 09-07-68, Bollate, Atlético Madrid
+5, Daniele Delli Carri, D, 6'00", 12 04, 18-09-71, Foggia, Piacenza
+6, Giovanni Lopez, D, 5'11", 12 04, 23-05-67, Rome, Napoli
+7, José Maria Franco, F, 6'02", 12 04, 28-09-78, Montevideo, Peñarol
+8, Alessio Scarchilli, M, 5'11", 11 09, 10-09-72, Rome, Sampdoria
+9, Cristiano Lucarelli, F, 6'02", 13 05, 04-10-75, Livorno, Lecce
+10, Massimo Brambilla, M, 5'10", 10 10, 04-03-73, Vimercate, Bologna
+13, Antonino Asta, M, 5'09", 11 00, 17-11-70, Alcamo, Napoli
+14, Luca Mezzano, D, 5'11", 11 00, 01-08-76, Turin, Chievo
+15, Simone Vergassola, M, 5'09", 10 12, 24-01-76, La Spezia, Sampdoria
+16, Stefano Sorrentino, G, 6'01", 12 13, 28-03-79, Cava de' Tirreni, None
+18, Fabio Quagliarella, F, 6'00", 11 07, 31-01-83, Castellamare di Stabia, None
+19, Paolo Rossi, F, , , 25-12-82, Turin, None
+20, Fabio Galante, D, 6'01", 12 08, 20-11-73, Montecatini, Internazionale
+22, Gabriele Paoletti, G, 6'03", 12 13, 04-11-78, Rome, None
+23, Ronaldo Vanin, M, 5'10", 11 05, 31-01-83, São Paulo, 
+24, Akeem Omolade, F, 5'09", 11 05, 04-03-83, Kaduna, Treviso
+25, Benoît Cauet, M, 5'08", 10 12, 02-05-69, Chatelleraut, Internazionale
+26, Alessandro Cibocchi, D, 5'11", 11 07, 18-09-82, Terni, Ternana
+27, Daniele Martinelli, D, 5'11", 12 00, 27-02-82, Turin, None
+28, Riccardo Maspero, M, 5'09", 10 12, 19-02-70, Lodi, Lecce
+31, Paolo Castellini, D, 5'10", 11 05, 25-03-79, Brescia, Cremonese
+35, Stefano Fattori, D, 6'00", 11 07, 26-02-72, Verona, Vicenza
+51, Diego De Ascentis, M, 5'10", 12 01, 31-07-76, Como, Milan
+94, Marco Ferrante, F, 5'09", 11 00, 04-02-71, Velletri, Internazionale
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Pinga, F, 5'09", 11 07, 27-04-81, Fortaleza, Siena
+11, Yksel Osmanovski, F, 5'08", 10 10, 24-02-77, Skravlinge, Bordeaux (On Loan)
+17, Riccardo Fissore, D, 6'01", 12 01, 18-02-80, Carmagnola, Vicenza
+19, Franco Semioli, M, 5'10", 11 00, 20-06-80, Cirié, Ternana
+21, Simone Tiribocchi, F, 5'11", 12 06, 31-01-78, Rome, Ancona (On Loan)
+23, Mirko Cudini, M, 5'11", 12 01, 01-09-73, Sant'Elpidio a Mare, Cagliari
+30, Emanuele Calaiò, F, 5'08", 10 10, 08-01-82, Palermo, Ternana (On Loan)

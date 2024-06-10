@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2012
+
+20 teams
+- [Atlético Goianiense](atgoian.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Bahia](bahia.txt)
+- [Botafogo](botafogo.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Flamengo](flamengo.txt)
+- [Figueirense](figueir.txt)
+- [Fluminense](flumin.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Náutico](nautico.txt)
+- [Palmeiras](palmeir.txt)
+- [Ponte Preta](pontepre.txt)
+- [Portuguesa](portugue.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vasco da Gama](vasco.txt)

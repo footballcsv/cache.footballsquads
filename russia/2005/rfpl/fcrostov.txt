@@ -1,0 +1,55 @@
+=  FC Rostov - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrey Chichkin, G, 6'05", 12 11, 12-10-77, Krasnodar, Rotor
+2, Carlos Gutierrez, D, 6'00", 12 11, 25-12-76, Montevideo, River Plate
+3, Miloš Kruščič, D, 5'10", 11 05, 03-10-76, Subotica, Zemun
+4, Anton Rogochiy, D, 6'02", 12 01, 23-01-82, Rostov, None
+6, Mikhail Osinov, M, 5'11", 11 11, 08-10-75, Kachkanar, Rotor
+7, Andrey Akopjanz, M, 5'07", 10 03, 27-08-77, Tashkent, Pakhtakor
+9, Aleksandr Alkhazov, F, 5'10", 12 01, 27-05-84, Rostov, None
+12, Ilja Kalashnikov, M, 5'09", 11 00, 10-07-82, Rostov, None
+13, Aleksandr Shorin, G, 6'04", 13 12, 04-09-86, Rostov, None
+14, Nikolay Olenikov, D, 6'02", 12 13, 24-05-75, Astrahan, Rotor
+15, Vadim Hinchagov, M, 5'10", 11 07, 30-08-81, Vladikavkaz, Ekibastuzets
+16, Mikhail Savchenko, G, 6'02", 12 13, 19-06-80, Vladikavkaz, Mozdok
+17, Andrey Bochkov, M, 5'09", 11 03, 13-01-82, Volgograd, Uralan
+20, Maxim Burchenko, M, 5'09", 10 12, 21-03-83, Lipetck, Uralan
+21, Omar Pérez, M, 5'09", 11 05, 20-09-76, Montevideo, River Plate [URU]
+22, Nikolay Shirshov, M, 5'10", 12 01, 22-06-74, Tashkent, Pakhtakor
+23, Sergey Bendz, D, 6'05", 12 11, 03-04-83, Rostov, None
+24, Georgiy Aslanidi, M, 5'11", 11 09, 11-08-84, Vladikavkaz, Alania
+25, Aleksandr Dantsev, M, 5'10", 10 12, 14-10-84, Rostov, None
+26, Dmitriy Burmistrov, F, 6'05", 13 05, 14-10-83, Tula, None
+28, Georgiy Smurov, M, 5'10", 10 12, 29-05-83, Rostov, None
+29, Sergey Krasnov, M, 6'01", 12 06, 22-12-84, Rostov, None
+30, Abdelilah Bagui, G, 6'03", 12 13, 17-02-78, Rabat, Raja Casablanca
+32, Mustafa Bidodan, F, 5'11", 11 11, 18-06-76, Casablanca, Radja
+33, Jasef Zvane, M, 5'09", 10 06, 10-01-74, Manning, Moroka Swollows
+34, Arsen Andreasjan, F, 5'11", 10 12, 12-09-85, Rostov, None
+35, Vasiliy Ursu, F, 5'11", 11 05, 27-03-85, Rostov, None
+36, Maxim Chernokozov, D, 5'10", 10 10, 16-05-85, Rostov, None
+37, Xavier Manchini, M, 5'11", 10 08, 19-01-78, Montevideo, Wanderers
+38, Evgeniy Kornilov, D, 6'00", 12 04, 13-08-85, Rostov, None
+39, Dmitriy Kosenko, M, 5'11", 11 03, 21-10-86, Rostov, None
+40, Pavel Stasenko, M, 5'11", 11 05, 03-04-86, Rostov, None
+42, Guift Campamba, M, 5'09", 11 00, 01-01-79, , Mamelodi Sundowns
+46, Rowan Hendricks, M, 5'10", 11 00, 15-11-79, Cape Town, Ajax Cape Town
+53, Igor Chernyshov, D, 6'03", 13 01, 26-06-84, Rostov, Uralan
+54, Maxim Obozniy, F, 5'11", 11 03, 07-07-86, Rostov, None
+55, Tony Coyle, D, 6'00", 13 03, 29-10-76, , Wits Univ
+57, Alberto, F, 6'00", 12 01, 27-04-75, Rio de Janeiro, Corinthians
+70, Maxim Buznikin, F, 5'06", 10 08, 01-03-77, Krasnodar, Lokomotiv
+75, Martin Horák, D, 6'02", 12 08, 16-09-80, Prague, Denizlispor
+77, Wesley Charles, D, 6'05", 14 02, 12-12-75, Brighton (St Vincent), Bray W
+83, Kirill Orlov, D, 5'10", 11 09, 18-01-83, Moscow, FC Moscow
+88, Gocha Hodgava, M, 5'10", 11 09, 16-03-85, , None
+99, Mikhail Ashvetia, F, 5'11", 12 04, 10-11-77, Rcmena, Lokomotiv
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Vitas Rimkus, F, 5'10", 11 11, 21-06-73, Riga, Ventspils
+8, Bennett Mnguni, M, 5'11", 12 00, 18-03-74, Refiloe, Tianjin Teda
+10, Iso Kanienda, F, 6'00", 12 04, 27-09-82, Dvasco, Lokomotiv
+18, Viktor Shkurat, F, 5'11", 10 12, 20-08-84, Rostov, 

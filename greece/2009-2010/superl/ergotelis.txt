@@ -1,0 +1,37 @@
+=  Ergotelis - Greek Super League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iosif Daskalakis, GRE, G, 1.88, 81, 07-08-82, Heraklion, OFI
+3, Dimitris Geladaris, GRE, D, 1.78, 74, 06-11-74, Kozani, Atromitos Athens
+4, Tomasz Wisio, POL, D, 1.87, 74, 20-01-82, Lubin, LASK Linz
+5, Mario Hieblinger, AUT, D, 1.90, 85, 05-07-77, Mistelbach, Grazer AK
+6, Panagiotis Kordonouris, GRE, D, 1.80, 78, 08-11-75, Amaliada, Skoda Xanthi
+7, Manolis Roubakis, GRE, D, 1.80, 75, 06-01-79, Heraklion, OFI
+8, Diego Romano, ARG, F, 1.65, 62, 02-03-80, Buenos Aires, San Martín (Tucumán)
+9, Māris Verpakovskis, LVA, F, 1.75, 72, 15-10-79, Liepāja, Dynamo Kiev
+10, Sergio Leal, URU, F, 1.81, 72, 25-09-82, Rivera, Danubio
+11, Beto, BRA, M, 1.80, 74, 20-11-76, Pernambuco, Sion
+12, Dimitris Orfanos, GRE, F, 1.88, 82, 02-11-82, Maroysi, PAOK
+13, Giorgos Seliniotakis, GRE, D, , , 18-08-89, Heraklion, None
+14, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, None
+15, Júnior, BRA, M, 1.75, 72, 24-09-76, Garanhuns, Paços de Ferreira
+18, Mateo Bertoša, CRO, D, 1.86, 71, 10-08-88, Rijeka, Rijeka
+19, Sotiris Balafas, GRE, M, 1.88, 78, 19-08-86, Arta, PAOK
+20, Georgios Siakkas, GRE, M, 1.82, 72, 23-03-88, Mitroussi Serron, Panserraikos
+23, Dimitris Koiliaras, GRE, M, 1.72, 70, 23-03-86, Heraklion, Panionios
+24, Hristos Chrysofakis, GRE, F, 1.75, 72, 18-01-90, Ierapetra, None
+25, Mario Budimir, CRO, F, 1.93, 85, 13-02-86, Sinj, Hajduk Split
+27, Eleftherios Gialoussis, GRE, D, 1.75, 74, 18-07-85, Heraklion, Irodotos
+30, Zsolt Posza, HUN, G, 1.87, 78, 11-05-77, Lengyeltóti, Vasas
+31, Mihalis Fragoulakis, GRE, M, 1.77, 75, 15-07-83, Heraklion, OFI
+33, Deividas Česnauskis, LTU, M, 1.80, 77, 30-06-81, Kuršėnai, FBK Kaunas
+37, Georgi Shashiashvili, GEO, M, 1.81, 75, 01-09-79, Tbilisi, Sturm Graz
+40, Zaharias Kavoussakis, GRE, G, 1.85, 78, 11-01-89, Heraklion, None
+84, Grigoris Athanasiou, GRE, G, 1.96, 91, 09-03-84, Kordelio, Atsalenios
+89, Giorgos Sarris, GRE, D, 1.92, 79, 08-09-89, Heraklion, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Patrick Ogunsoto, NGA, F, 1.75, 70, 19-04-83, Lagos, OFI (On Loan)
+21, Yiannis Koiliaras, GRE, M, 1.75, 68, 09-06-88, Nea Alikarnassos, Trikala (On Loan)

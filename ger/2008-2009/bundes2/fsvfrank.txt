@@ -1,0 +1,41 @@
+=  FSV Frankfurt - German 2.Bundesliga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Patric Klandt, GER, G, 1.85, 78, 29-09-83, Frankfurt am Main, Hansa Rostock
+2, Daniel Schumann, GER, D, 1.83, 74, 13-02-77, Weimar, Kickers Offenbach
+3, Alexander Klitzpera, GER, D, 1.84, 82, 19-10-77, Munich, Alemannia Aachen
+4, Markus Husterer, GER, D, 1.85, 81, 16-06-83, Ingolstadt, Eintracht Braunschweig
+5, Dennis Hillebrand, GER, D, 1.89, 82, 30-11-79, Leonberg, Aalen
+6, Thomas Sobotzik, GER, M, 1.76, 75, 16-10-74, Gliwice, Sandefjord
+7, Matthias Hagner, GER, F, 1.86, 80, 15-08-74, Gießen, Saarbrücken
+8, Sead Mehić, BIH, M, 1.78, 76, 08-04-75, Bijeljina, RW Oberhausen
+9, Matías Cenci, ARG, F, 1.85, 86, 12-02-78, Quilmes, Wehen-Wiesbaden
+10, Georgios Theodoridis, GRE, M, 1.76, 72, 03-07-80, Wiesbaden, Ergotelis
+11, Henrich Benčík, SVK, F, 1.88, 82, 04-10-78, Nitra, Freiburg
+13, Christian Como, GER, G, 1.87, 82, 03-01-87, Offenbach, Kickers Offenbach
+14, Lars Weißenfeldt, GER, M, 1.80, 76, 15-02-80, Marburg, Kickers Offenbach
+15, Radek Špiláček, CZE, M, 1.86, 84, 10-01-80, Opava, 1899 Hoffenheim
+16, Fikri El-Haj-Ali, MAR, F, 1.81, 77, 17-11-85, Frankfurt am Main, None
+17, Stefan Hickl, GER, D, 1.89, 78, 11-04-88, Frankfurt am Main, None
+18, Christian Mikolajczak, GER, M, 1.79, 86, 15-05-81, Essen, Holstein Kiel
+20, Amir Shapourzadeh, IRN, F, 1.73, 74, 19-09-82, Tehran, Hansa Rostock
+21, Jochen Höfler, GER, F, 1.78, 74, 21-05-81, Alzenau, Eintracht Frankfurt II
+22, Marc Gallego, GER, D, 1.77, 73, 13-08-85, Karlsruhe, Sportfreunde Siegen
+23, Alexis Theodosiadis, GRE, D, 1.79, 75, 19-12-88, Bad Homburg, None
+24, Angelo Barletta, ITA, M, 1.80, 80, 11-02-77, Hanau, Panserraikos
+25, Marjan Petković, GER, G, 1.86, 85, 22-05-79, Brackenheim, Sandhausen
+26, Oualid Mokhtari, MAR, M, 1.80, 73, 29-04-82, Nador, Kickers Offenbach
+27, Gennadi Blizniuk, BLR, F, 1.75, 71, 30-07-80, Svetlahorsk, BATE
+28, Markus Kreuz, GER, M, 1.71, 69, 29-04-77, Ingelheim am Rhein, Kickers Offenbach
+30, Christian Eggert, GER, D, 1.80, 76, 16-01-86, Herne, Borussia Dortmund
+33, Emil Noll, GER, M, 1.94, 82, 21-11-78, Idiofa, Paderborn
+35, Kirian, ESP, D, 1.80, 76, 22-07-84, Santa Cruz de Tenerife, Eivissa-Ibiza
+36, Youssef Mokhtari, MAR, M, 1.85, 78, 05-03-79, Benisidel, Al-Rayyan
+37, Junior Ross, PER, F, 1.80, 69, 19-02-86, Callao, Coronel Bolognesi
+38, David Ulm, FRA, F, 1.74, 68, 30-06-84, Wissembourg, Sportfreunde Siegen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Florian Schürenberg, GER, G, 1.87, 80, 07-09-85, Munich, Weiden
+19, Aziz Bouhaddouz, MAR, F, 1.88, 80, 30-03-87, Berkane, Erzgebirge Aue (On Loan)

@@ -1,0 +1,42 @@
+=  San Martín (San Juan) - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luis Ardente, ARG, G, 1.88, 81, 17-09-81, San Isidro, Tigre
+2, Juan Francisco Mattia, ARG, D, 1.89, 86, 24-06-88, Luján, Flandria
+3, Sergio Sagarzazu, ARG, D, 1.74, 72, 11-09-87, Capital Federal, Guaraní Antonio Franco
+4, Javier Capelli, ARG, D, 1.78, 75, 07-01-84, Junín, Palestino
+5, Marcos Gelabert, ARG, M, 1.76, 72, 19-09-81, General Pico, Tigre
+6, Matías Escudero, ARG, D, 1.85, 79, 15-12-88, San Luis, Palestino
+7, Nicolás Maná, ARG, F, 1.75, 70, 25-03-94, Viamonte, Boca Juniors
+8, Matías Fissore, ARG, M, 1.65, 63, 21-09-90, San Marcos Sud, Atlético Rafaela
+9, Diego Chaves, URU, F, 1.78, 73, 14-02-86, Montevideo, Sarmiento (Junín)
+10, Lucas Salas, ARG, M, 1.72, 62, 28-09-94, San Juan, None
+11, Leandro Martínez, ARG, M, 1.77, 66, 04-06-94, Tandil, River Plate
+12, Leonardo Corti, ARG, G, 1.80, 77, 29-01-81, San Pedro, 9 de Julio (Rafaela)
+14, Emiliano Agüero, ARG, M, 1.79, 69, 21-01-95, San Isidro, River Plate
+15, Franco Lazzaroni, ARG, D, 1.80, 77, 28-10-88, Sarmiento, Colón (Santa Fe)
+16, Maximiliano Lugo, ARG, D, 1.70, 68, 04-12-89, Lanús, Rubio Ñú
+18, Sebastián Rusculleda, ARG, M, 1.75, 74, 28-04-85, Laboulaye, Panetolikos
+20, Santiago Chacón, ARG, M, 1.76, 71, 30-05-92, Capital Federal, Villa Teresa
+21, Federico Urraburo, ARG, G, 1.89, 81, 05-04-95, Roldán, None
+22, Joaquín Molina, ARG, F, 1.78, 70, 16-12-91, Rafaela, Unión (Sunchales)
+25, Pablo Aguilar, ARG, D, 1.66, 62, 13-09-84, Villa Mercedes, Sarmiento (Junín)
+26, Arián Pucheta, ARG, D, 1.80, 84, 08-03-95, El Colorado, Boca Juniors
+27, Gustavo Villarruel, ARG, F, 1.65, 57, 02-04-92, San Lorenzo, Colón (Santa Fe)
+28, Mauricio Casierra, COL, D, 1.74, 67, 12-08-85, Tumaco, Sarmiento (Junín)
+29, Michael Covea, VEN, M, 1.77, 75, 21-08-93, Caracas, Deportivo Petare
+30, Patricio Matrcardi, ARG, D, 1.89, 85, 07-01-94, Florencio Varela, Argentinos Juniors
+31, Emanuel Dening, ARG, F, 1.76, 70, 04-07-88, Goya, Boca Unidos (Corrientes)
+32, Ezequiel Montagna, ARG, F, 1.80, 70, 08-06-94, Mar del Plata, San Lorenzo
+33, Facundo Barcelo, URU, F, 1.80, 70, 31-03-93, Florida, Juventud
+34, Maximiliano Algañaraz, ARG, D, 1.83, 76, 14-07-96, Rawson, None
+35, Nicolás Pelaitay, ARG, M, 1.68, 74, 27-12-92, Nueve de Julio, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Jorge Luna, ARG, M, 1.68, 71, 14-12-86, Tigre, Universidad de Concepción
+19, Juan Galeano, ARG, M, 1.77, 71, 03-07-88, Capital Federal, San Martín (Tucumán)
+23, Sebastián Navarro, ARG, M, 1.77, 72, 24-02-88, El Bolsón, Ferro Carril Oeste
+14, Daniel Franco, ARG, D, 1.84, 76, 15-07-91, Granadero Baigorria, Brown (Adrogué)
+24, Leandro Martínez, ARG, M, 1.77, 66, 04-06-94, Tandil, Re-Registered (11)

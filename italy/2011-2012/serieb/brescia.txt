@@ -1,0 +1,50 @@
+=  Brescia - Italian Serie B 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michele Arcari, ITA, G, 1.84, 80, 27-06-78, Annico, Pro Patria
+2, Davide Zoboli, ITA, D, 1.90, 78, 08-10-81, Parma, AlbinoLeffe
+3, Fabio Daprelà, SUI, D, 1.80, 65, 19-02-91, Ticino, West Ham U
+4, Marco Martina Rini, ITA, M, 1.81, 73, 04-03-90, Brescia, None
+5, Alessandro Budel, ITA, M, 1.83, 82, 25-02-81, Basiglio, Parma
+7, Omar El Kaddouri, BEL, M, 1.86, 72, 21-08-90, Brussels, Anderlecht
+8, Adam Vass, HUN, M, 1.80, 75, 09-08-88, Kápolnásnyék, Stoke C
+9, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Sampdoria
+11, Róbert Feczesin, HUN, F, 1.87, 75, 22-02-86, Budapest, Sopron
+12, Nicola Leali, ITA, G, 1.88, 78, 17-02-93, Castiglione delle Stiviere, None
+14, Bartosz Salamon, POL, M, 1.93, 79, 01-05-91, Poznań, Lech Poznań
+15, Marco Zambelli, ITA, D, 1.80, 77, 22-08-85, Gavardo, None
+16, Salvatore Foti, ITA, F, 1.92, 76, 08-08-88, Palermo, Sampdoria
+17, Luigi Alberto Scaglia, ITA, M, 1.82, 66, 23-11-86, Chiari, None
+18, Fausto Rossi, ITA, M, 1.75, 60, 03-12-90, Turin, Juventus
+19, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, Internazionale
+20, Nicolò Quaggiotto, ITA, M, 1.80, 83, 04-10-93, Bologna, None
+21, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Nancy
+22, Matteo Mandorlini, ITA, M, 1.74, 68, 22-10-88, Como, Parma
+23, Simone Dallamano, ITA, D, 1.80, 68, 25-11-83, Brescia, None
+24, Nicolás Córdova, CHI, M, 1.75, 75, 09-02-79, Santiago, Parma
+25, Gilberto Martínez, CRC, D, 1.74, 72, 01-10-79, Golfito, Deportivo Saprissa
+26, Frank Kamalu Deen Salihu, NGA, D, 1.87, 74, 17-01-91, Koforiduah, None
+27, Nicola Lancini, ITA, M, 1.77, 71, 29-03-94, Chiari, None
+28, Alessio Cragno, ITA, G, 1.81, 75, 28-06-94, Palermo, None
+29, Nana Welbeck, GHA, M, 1.79, 71, 24-11-94, Accra, None
+30, Denis Maccan, ITA, F, 1.84, 78, 19-05-84, Pordenone, Lumezzane
+31, Andrea Magrassi, ITA, F, 1.93, 85, 06-02-93, Dolo, Sampdoria
+32, Pietro Accardi, ITA, D, 1.82, 71, 12-09-82, Palermo, Sampdoria
+37, Nicola Falasco, ITA, D, 1.73, 66, 05-10-93, Padua, None
+40, Andrea Caroppo, ITA, G, 1.90, 88, 18-07-90, Lecce, Verona
+80, Jonathas, BRA, F, 1.91, 83, 06-03-89, Justinópolis, AZ Alkmaar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Genoa
+16, Victor Hugo Mareco, PAR, D, 1.89, 82, 26-02-84, Asunción, Verona (On Loan)
+25, Lorenzo Tassi, ITA, M, 1.77, 63, 12-02-95, Bovezzo, Internazionale
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Bologna (On Loan)
+27, Gilberto Martínez, CRC, D, 1.74, 72, 01-10-79, Golfito, Re-Registered (25)
+29, Juan Antonio Ignacio, ARG, F, 1.86, 77, 05-01-88, Trelew, Sampdoria
+37, Gaetano Berardi, SUI, D, 1.79, 70, 21-08-88, Sorengo, Sampdoria
+6, Antonio Magli, ITA, D, 1.87, 79, 05-03-91, Orzinuovi, Frosinone (On Loan)
+39, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, Győr
+20, Fabrizio Paghera, ITA, M, 1.85, 65, 12-12-91, Brescia, Virtus Lanciano (On Loan)
+27, Rubén Ramos, ESP, F, 1.82, 77, 31-01-89, Leganés, Lucena (On Loan)

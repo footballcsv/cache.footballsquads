@@ -1,0 +1,35 @@
+=  Monterrey - Mexican Liga MX 2014/15 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan Orozco, MEX, G, 1.81, 75, 12-05-86, Monterrey, None
+2, Severo Meza, MEX, D, 1.77, 66, 09-07-86, Naranjos, None
+3, Stefan Medina, COL, D, 1.78, 72, 14-06-92, Envigado, Atlético Nacional
+5, Dárvin Chávez, MEX, D, 1.77, 65, 21-11-89, Zapopan, Atlas
+6, Efrain Juárez, MEX, D, 1.72, 65, 22-02-88, Mexico City, América
+7, Lucas Silva, BRA, M, 1.87, 82, 26-08-84, Miguel Calmon, Toluca
+8, Dorlan Pabón, COL, F, 1.68, 68, 24-01-88, Bogotá, Valencia
+11, Luis Guillermo Madrigal, MEX, F, 1.88, 76, 10-02-93, Ahome, None
+13, Joaquín Hernández, MEX, F, 1.79, 74, 01-03-94, El Paso, None
+14, Bernardo Hernández, MEX, D, 1.72, 63, 10-06-93, Cadereyta Jiménez, None
+16, Cándido Ramírez, MEX, M, 1.69, 68, 05-06-93, León, Santos Laguna
+17, Jesús Eduardo Zavala, MEX, M, 1.89, 85, 21-07-87, Monterrey, None
+18, Neri Cardozo, ARG, M, 1.71, 64, 08-08-86, Godoy Cruz, Jaguares de Chiapas
+19, César Delgado, ARG, F, 1.74, 69, 18-08-81, Rosario, Lyon
+20, Rodrigo Rojas, PAR, M, 1.80, 74, 09-04-88, Fernando de la Mora, Universidad de Chile
+21, Hiram Mier, MEX, D, 1.79, 70, 25-08-89, Monterrey, None
+22, Efraín Velarde, MEX, D, 1.73, 67, 18-04-86, Mexico City, UNAM
+23, Juan Ibarra, MEX, G, 1.82, 77, 17-02-79, Los Mochis, América
+24, Gael Acosta, MEX, M, 1.65, 64, 26-03-92, Ahome, None
+25, Luis Cárdenas, MEX, G, 1.80, 79, 15-09-93, Ahome, None
+26, Humberto Suazo, CHI, F, 1.72, 79, 10-05-81, San Antonio, Colo-Colo
+27, Omar Arellano, MEX, M, 1.74, 70, 18-06-87, Guadalajara, Guadalajara
+29, Luis López, MEX, D, 1.87, 77, 25-08-93, Guadalupe, None
+30, Marcelo Gracia, MEX, M, 1.70, 63, 02-04-94, Monterrey, None
+31, Óscar Garcia, MEX, D, 1.79, 80, 02-08-93, San Nicolás de los Garza, None
+32, Santiago Rivera, MEX, F, 1.78, 70, 06-02-92, Guaymas, None
+33, Victor Ramos, BRA, D, 1.92, 76, 05-05-89, Salvador, Standard Liège
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, José María Basanta, ARG, D, 1.88, 78, 03-04-84, Tres Sargentos, Fiorentina

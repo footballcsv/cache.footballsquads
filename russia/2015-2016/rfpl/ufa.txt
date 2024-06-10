@@ -1,0 +1,39 @@
+=  FC Ufa - Russian Football Premier League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Oleksandr Filin, UKR, D, 1.79, 71, 25-06-96, Simferopol, Shakhtar Donetsk-2
+3, Pavel Alikin, RUS, D, 1.85, 79, 06-03-84, Perm, SKA-Energia
+4, Aleksey Nikitin, RUS, D, 1.87, 87, 27-01-92, Moscow, Amkar Perm
+5, Emmanuel Frimpong, GHA, M, 1.83, 83, 10-01-92, Accra, Barnsley
+6, Marvin Pourié, GER, F, 1.84, 80, 08-01-91, Werne, FC København
+7, Yevgeniy Osipov, RUS, D, 1.89, 87, 29-10-86, Temryuk, Arsenal Tula
+8, Semen Fomin, RUS, M, 1.80, 79, 10-01-89, Vladivostok, Torpedo Moscow
+9, Haris Handzić, BIH, F, 1.91, 85, 20-06-90, Sarajevo, Borac Banja Luka
+10, Marcinho, BRA, M, 1.82, 72, 14-05-86, Volta Redonda, CSKA Sofia
+11, Diego Carlos, BRA, F, 1.74, 67, 15-05-88, São Paulo, Luch-Energia
+13, Azamat Zaseev, RUS, M, 1.79, 69, 29-04-88, Samara, FAYUR Beslan
+17, Oleksandr Zinchenko, UKR, M, 1.75, 61, 15-12-96, Illichivsk, Shakhtar Donetsk
+19, Ivan Paurević, CRO, M, 1.94, 87, 01-07-91, Essen, Fortuna Düsseldorf
+20, Denis Tumasyan, RUS, D, 1.85, 82, 24-04-85, Kyiv, FC Ural
+31, Dmitriy Sisuev, RUS, M, 1.75, 72, 13-01-88, Saransk, Mordovia Saransk
+33, Aleksandr Sukhov, RUS, D, 1.74, 71, 03-01-86, Moscow, Shinnik
+34, Aleksandr Katsalapov, RUS, D, 1.85, 78, 05-04-86, Volgograd, Torpedo Moscow
+39, Dmitriy Stotskiy, RUS, M, 1.71, 64, 01-12-89, Kaliningrad, Baltika Kaliningrad
+42, Sergey Narubin, RUS, G, 1.95, 87, 05-12-81, Moskovskaya Oblast, FC Tosno
+44, Sylvester Igboun, NGA, F, 1.73, 73, 08-09-90, Lagos, FC Midtjylland
+60, Vladimir Zubarev, RUS, M, 1.78, 71, 05-01-93, Volgograd, Spartak Moscow-2
+70, Nikolay Safronidi, RUS, M, 1.80, 72, 10-09-83, Vladikavkaz, FC Ural
+71, Andrey Lunev, RUS, G, 1.89, 80, 13-11-91, Moscow, Saturn
+87, Igor Bezdenezhnykh, RUS, M, 1.75, 65, 08-08-96, Ufa, FC Ufa-2
+88, Giorgi Shelia, GEO, G, 1.90, 83, 11-12-88, Moscow, Yenisey Krasnoyarsk
+93, Vyacheslav Krotov, RUS, F, 1.81, 71, 14-02-93, Astrakhan, Spartak Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+71, Artem Leonov, RUS, G, 1.82, 70, 28-06-94, Orenburg, Lučko
+23, Anton Kilin, RUS, M, 1.69, 61, 14-11-90, Izhevsk, KamAZ (On Loan)
+81, Dzmitry Verkhawtsow, BLR, D, 1.90, 85, 10-10-86, Mogilev, Korona Kielce
+1, David Yurchenko, BLR, G, 1.86, 71, 27-03-86, Ashgabat, Anzhi Makhachkala (On Loan)
+22, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, FC Tosno
+14, Maksim Semakin, RUS, M, 1.80, 78, 26-10-83, Krasnoyarsk, Luch-Energia (On Loan)

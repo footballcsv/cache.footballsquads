@@ -1,0 +1,47 @@
+=  Atalanta - Italian Serie A 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Ferrari, G, 6'04", 12 04, 01-06-86, Milan, None
+2, Leonardo Talamonti, D, 6'00", 12 00, 12-11-81, Alvarez, River Plate
+3, Adriano Pereira, D, 5'10", 11 00, 03-04-82, Salvador de Bahia, Palermo
+4, Matteo Gentili, D, , , 21-08-89, , None
+5, Massimo Donati, M, 6'01", 11 11, 26-03-81, Sedegliano, Milan
+6, Gianpaolo Bellini, D, 5'10", 11 05, 27-03-80, Bergamo, None
+7, Davide Bombardini, F, 5'07", 11 03, 21-06-74, Faenza, Salernitana
+8, Antonio Bernardini, M, 5'09", 11 00, 21-06-74, Rome, Vicenza
+9, Riccardo Zampagna, F, 6'00", 12 08, 15-11-74, Terni, Messina
+10, Nicola Ventola, F, 6'01", 12 08, 24-05-78, Grumo Appula, Internazionale
+11, Karamoko Cissé, F, , , 14-11-88, Petosino, None
+13, Fabio Adobati, D, , , 08-04-88, , None
+15, Simone Loria, D, 6'01", 12 13, 28-10-76, Turin, Lecco
+16, Claudio Rivalta, D, 5'09", 10 10, 30-06-78, Ravenna, Vicenza
+17, Christian Vieri, F, 6'01", 12 13, 12-07-73, Bologna, Sampdoria
+18, Andrea Ivan, G, 6'00", 12 00, 09-01-73, Florence, Pescara
+19, Luca Ariatti, M, 6'00", 11 05, 27-12-78, Reggio Emilia, Fiorentina
+20, Alessio Manzoni, M, 5'10", 10 03, 10-04-87, Crema, None
+21, Fernando Tissone, M, 6'00", 11 11, 24-07-86, Quilmes, Udinese
+23, Nelson Abeijon, M, 6'01", 12 00, 21-07-73, Montevideo, Cagliari
+24, Nicola Bulla, M, , , 19-07-87, , None
+25, Kewullay Conteh, D, 6'01", 12 04, 31-12-77, Freetown, Palermo
+26, Giulio Migliaccio, M, 5'07", 11 05, 23-06-81, Mugnano di Napoli, Ternana
+27, Alex Calderoni, G, 6'00", 12 01, 03-05-76, Ravenna, Ravenna
+30, Andrea Arrigoni, M, , , 10-08-88, , None
+31, Michele Marconi, F, , , 13-05-89, , None
+32, Daniele Gasparetto, D, , , 06-04-88, , None
+34, Marino Defendi, F, 5'09", 11 00, 19-08-85, Bergamo, None
+38, Michele Magrin, M, 5'08", 09 06, 06-11-85, Bergamo, None
+72, Cristiano Doni, M, 6'01", 12 04, 01-04-73, Rome, Mallorca
+79, Adriano Ferreira Pinto, M, 5'10", 11 00, 10-12-79, Porto Ferreira, Cesena
+80, Moris Carrozzieri, D, 6'04", 13 12, 16-11-80, Giulianova, Sampdoria
+, Caio César Tavera, F, , , 06-02-87, Agudos, Cruzeiro
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Duccio Innocenti, D, 6'01", 12 08, 20-09-75, Prato, Albinoleffe
+23, Daniele Capelli, D, 6'00", 12 04, 20-06-86, Calcinate, Arezzo (On Loan)
+17, Michele Rinaldi, D, 6'00", 12 02, 09-01-87, Manerbio, Udinese
+4, Thomas Manfredini, D, 5'11", 11 05, 27-05-80, Ferrara, Bologna (On Loan)
+30, Mariano Stendardo, D, 6'02", 11 05, 02-05-83, Naples, Cremonese (On Loan)
+22, Luis Fernando Centi, M, 5'09", 11 05, 16-09-76, Savona, Ascoli
+99, Andrea Soncin, F, 5'09", 11 05, 05-09-78, Vigevano, Ascoli (On Loan)

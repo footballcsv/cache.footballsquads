@@ -1,0 +1,35 @@
+=  Nancy - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Syarhey Chernik, BLR, G, 1.87, 84, 20-07-88, Grodno, BATE
+3, Tobias Badila, FRA, D, 1.81, 78, 12-05-93, Dijon, None
+4, Modou Diagne, SEN, D, 1.88, 74, 03-01-94, Mbacke, None
+5, Alou Diarra, FRA, M, 1.90, 79, 15-07-81, Villepinte, Charlton Ath
+6, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, Monaco
+7, Antony Robic, FRA, M, 1.81, 77, 05-03-86, Marseille, Laval
+8, Vincent Marchetti, FRA, M, 1.81, 69, 04-07-97, Ajaccio, Ajaccio
+9, Maurice Dalé, FRA, F, 1.87, 80, 12-07-85, Martigues, Arles-Avignon
+10, Issiar Dia, SEN, F, 1.72, 70, 08-06-87, Sèvres, Al-Kharaitiyat
+11, Karim Coulibaly, FRA, M, 1.84, 80, 03-06-93, Bakel, None
+12, Christophe Mandanne, FRA, F, 1.71, 62, 07-02-85, Toulouse, Al-Fujairah
+13, Serge N'Guessan, CIV, M, 1.65, 65, 31-07-94, Abidjan, AFAD
+14, Joffrey Cuffaut, FRA, D, 1.80, 74, 15-03-88, Beauvais, Le Mans
+15, Youssouf Hadji, MAR, F, 1.83, 78, 25-02-80, Ifrane, Elazığspor
+16, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nantes
+17, Faitout Maouassa, FRA, D, 1.70, 74, 06-07-98, Villepinte, None
+18, Diallo Guidileye, FRA, M, 1.81, 76, 30-12-89, Djadijibiné, AEL Limassol
+19, Loïc Puyo, FRA, M, 1.82, 78, 18-12-88, Orléans, Orléans
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, Strasbourg
+22, Yann Mabella, FRA, F, 1.82, 77, 22-02-96, Toulouse, None
+23, Anthony Koura, FRA, F, 1.80, 70, 06-05-93, Le Mans, Nîmes
+24, Erick Cabaco, URU, D, 1.86, 75, 19-04-95, Montevideo, Nacional [URU]
+25, Benoît Pedretti, FRA, M, 1.77, 69, 12-11-80, Audincourt, Ajaccio
+26, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, Monaco
+27, Alexis Busin, FRA, F, 1.75, 64, 07-09-95, Boulogne-sur-Mer, None
+28, Julien Cetout, FRA, D, 1.83, 74, 02-01-88, Chartres, Tours
+30, Alexandre Menay, FRA, G, 1.86, 76, 05-07-96, Mantes-la-Jolie, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Sevilla

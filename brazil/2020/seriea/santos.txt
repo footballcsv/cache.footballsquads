@@ -1,0 +1,51 @@
+=  Santos - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Felipe Jonatan, BRA, D, 1.76, 76, 15-02-98, Fortaleza, Ceará
+4, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Flamengo
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Laércio, BRA, D, 1.92, 90, 22-03-93, Marau, Caxias
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Monterrey
+8, Jobson, BRA, M, 1.85, 80, 13-09-95, São Paulo, Red Bull Brasil
+9, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, None
+10, Yeferson Soteldo, VEN, M, 1.60, 55, 30-06-97, Acarigua, Huachipato
+11, Marinho, BRA, F, 1.76, 62, 29-05-90, Penedo, Grêmio
+12, Raniel, BRA, F, 1.81, 76, 11-06-96, Recife, São Paulo
+13, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Grêmio
+14, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Club Brugge
+15, Mikael, BRA, M, -, -, 24-01-00, Fortaleza, None
+17, Vinicius Balieiro, BRA, M, 1.77, 68, 28-05-99, Campinas, None
+18, Fernando, BRA, M, 1.70, 69, 06-07-99, São Paulo, Juventus-SP
+19, Bruno Marques, BRA, F, 1.93, 76, 22-02-99, Recife, Lagarto
+20, Gabriel Pirani, BRA, M, 1.70, 64, 12-02-02, Penápolis, None
+23, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, None
+25, Guilherme Nunes, BRA, M, 1.77, 67, 12-07-98, Novo Hamburgo, None
+27, Ângelo, BRA, F, 1.73, 65, 21-12-04, Brasília, None
+29, Brayan, BRA, F, 1.80, 70, 04-01-02, Teutônia, Guarani-SC
+30, Lucas Braga, BRA, F, 1.84, 70, 10-11-96, São Paulo, Luverdense
+31, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+33, Paulo Mazoti, BRA, G, 1.87, 82, 11-07-00, Ribeirão Pires, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+35, Derick, BRA, D, 1.93, 84, 16-05-02, Santos, None
+36, Marcos Leonardo, BRA, F, 1.78, 71, 02-05-03, Itapetinga, None
+37, Lucas Lourenço, BRA, M, 1.64, 64, 23-01-01, Santos, None
+38, Sandry, BRA, M, 1.70, 66, 30-08-02, Itabuana, None
+39, Tailson, BRA, F, 1.72, 65, 05-03-99, São Paulo, None
+41, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+42, Wagner Leonardo, BRA, D, 1.83, 63, 23-07-99, Santos, None
+43, Renyer, BRA, F, 1.76, 70, 12-07-03, Rio de Janeiro, None
+44, Alex, BRA, D, 1.89, 86, 10-05-99, Ribeirão Preto, Fluminense
+45, Ivonei, BRA, M, 1.80, 71, 16-04-02, Rondonópolis, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Lucas Venuto, BRA, F, 1.64, 60, 14-01-95, Governador Valadares, Sport Recife (On Loan)
+27, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Atlético Mineiro
+22, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Atlético Mineiro
+20, Fernando Uribe, COL, F, 1.81, 77, 01-01-88, Pereira, 
+40, Anderson Ceará, BRA, M, 1.73, 70, 21-05-99, Tianguá, CRB (On Loan)
+28, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Benfica
+21, Diego Pituca, BRA, M, 1.75, 69, 01-08-92, Mogi Guaçu, Kashima Antlers

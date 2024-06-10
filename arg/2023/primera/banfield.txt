@@ -1,0 +1,43 @@
+=  Banfield - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Facundo Vila, ARG, G, 1.83, 73, 11-05-03, Mar del Plata, None
+2, Alexis Maldonado, ARG, D, 1.88, 86, 02-09-97, La Rioja, None
+3, Aaron Quirós, ARG, D, 1.74, 72, 31-10-01, Monte Grande, None
+4, Matías Romero, ARG, M, 1.76, 73, 01-02-96, San Miguel de Tucumán, Argentinos Juniors
+5, Eric Remedi, ARG, M, 1.80, 70, 04-06-95, Paraná, San Jose Earthquakes
+6, Alejandro Maciel, ARG, D, 1.83, 87, 22-04-97, El Dorado, Talleres (Córdoba)
+7, Sebastián Sosa, URU, F, 1.83, 71, 13-03-94, Melo, Vélez Sarsfield
+8, Nicolás Bertolo, ARG, M, 1.80, 75, 02-01-86, Córdoba, Platense
+9, Andrés Chávez, ARG, F, 1.85, 82, 21-03-91, Salto, Jorge Wilstermann
+10, Brahian Alemán, URU, M, 1.76, 73, 23-12-89, Montevideo, Gimnasia y Esgrima (LP)
+11, Horacio Tijanovich, ARG, F, 1.73, 68, 28-02-96, Villa San Justo, Platense
+12, Facundo Sanguinetti, ARG, G, 1.84, 71, 01-03-01, Lanús, None
+13, Dylan Gissi, SUI, D, 1.92, 79, 27-04-91, Geneva, Unión (Santa Fe)
+14, Dylan Gamarra, ARG, D, 1.85, 77, 18-02-05, Monte Grande, None
+15, Lautaro Ríos, ARG, M, 1.80, 74, 09-10-00, Monte Grande, None
+16, Alejandro Cabrera, ARG, M, 1.85, 85, 30-09-92, Los Cóndores, Estudiantes (Río Cuarto)
+17, Juan Bisanz, ARG, F, 1.80, 77, 28-08-01, Capital Federal, Atlanta
+18, Tomás Adoryan, ARG, F, 1.74, 70, 22-09-01, San Pedro, None
+19, Alejandro Piedrahita, COL, F, 1.82, 83, 03-09-02, Cartago, Deportivo Pereira
+20, Ignacio Rodríguez, ARG, F, 1.77, 74, 22-02-02, Guernica, None
+21, Facundo Cambeses, ARG, G, 1.85, 78, 09-04-97, Longchamps, None
+22, Emanuel Olivera, ARG, D, 1.77, 71, 02-04-90, Capital Federal, Atlético Nacional
+23, Nicolás Sosa, URU, F, 1.78, 70, 06-04-96, Melo, León
+24, Ramiro Di Luciano, ARG, D, 1.62, 55, 21-01-04, Banfield, None
+25, Alan Di Pippa, ARG, M, 1.79, 75, 16-06-00, Monte Grande, None
+27, Pedro Souto, ARG, D, 1.78, 69, 05-05-00, Lomas de Zamora, Temperley
+28, Matías González, ARG, M, 1.73, 62, 28-02-02, Tandil, None
+29, Mauricio Roldán, ARG, F, 1.81, 72, 10-02-05, Llavallol, None
+30, Luis Mago, VEN, D, 1.84, 79, 15-09-94, Cumaná, Ñublense
+32, Emanuel Coronel, ARG, D, 1.74, 73, 01-02-97, Concepción, None
+33, Emanuel Insúa, ARG, D, 1.80, 79, 10-04-91, Capital Federal, Vélez Sarsfield
+37, Mateo Pérez, ARG, D, 1.86, 74, 11-09-01, Córdoba, None
+39, Marcos Echeverría, ARG, F, 1.82, 78, 16-07-03, Tandil, None
+41, Gino Santilli, ARG, G, 1.91, 71, 26-10-01, Villa Constitución, None
+45, Milton Giménez, ARG, F, 1.84, 82, 12-08-96, Grand Bourg, Necaxa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Agustín Urzi, ARG, M, 1.68, 64, 04-05-00, Lomas de Zamora, Juárez

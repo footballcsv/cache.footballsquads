@@ -1,0 +1,47 @@
+=  Racing Club - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, None
+2, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Tijuana
+3, Leandro Grimi, ARG, D, 1.75, 70, 09-02-85, San Lorenzo, Godoy Cruz (Mendoza)
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Nery Domínguez, ARG, M, 1.84, 77, 09-04-90, Cañada de Gómez, Querétaro
+6, Miguel Barbieri, ARG, D, 1.81, 79, 24-08-93, Capital Federal, Defensores de Belgrano
+7, Augusto Lotti, ARG, F, 1.79, 70, 10-06-96, Capital Federal, None
+8, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, Santos Laguna
+10, Lautaro Martínez, ARG, F, 1.74, 79, 22-08-97, Bahía Blanca, None
+11, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, None
+13, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Tigre
+14, Héctor Villalba, ARG, D, 1.79, 73, 20-01-96, Cipolletti, None
+15, Lisandro López, ARG, F, 1.75, 74, 02-03-83, Rafael Obligado, Internacional
+16, Marcelo Meli, ARG, M, 1.75, 74, 20-06-92, Salto, Boca Juniors
+17, Martín Ojeda, ARG, M, 1.76, 59, 27-11-98, Gualeguaychú, Ferro Carril Oeste
+18, Augusto Solari, ARG, M, 1.80, 80, 03-01-92, Rosario, River Plate
+19, Neri Cardozo, ARG, M, 1.71, 64, 08-08-86, Godoy Cruz, Monterrey
+20, Lucas Orbán, ARG, D, 1.84, 76, 03-02-89, Capital Federal, Genoa
+21, Rodrigo Schlegel, ARG, D, 1.82, 82, 03-04-97, Remedios de Escalada, None
+22, Ricardo Centurión, ARG, M, 1.74, 65, 19-01-93, Avellaneda, Genoa
+23, Alexis Soto, ARG, D, 1.72, 69, 20-10-93, Avellaneda, Banfield
+24, Kevin Gutiérrez, ARG, M, 1.68, 65, 03-06-97, Lanús, None
+25, Gastón Gómez, ARG, G, 1.89, 88, 04-03-96, Mar del Plata, None
+26, Renzo Saravia, ARG, D, 1.78, 73, 16-06-93, Villa de María, Belgrano (Córdoba)
+27, Maximiliano Cuadra, ARG, F, 1.72, 64, 06-06-95, San Nicolás, None
+28, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, None
+29, Gonzalo Piovi, ARG, D, 1.74, 67, 08-09-94, Capital Federal, Argentinos Juniors
+30, Leonardo Sigali, ARG, D, 1.84, 70, 29-05-87, Campana, Dinamo Zagreb
+32, Enrique Triverio, ARG, F, 1.82, 78, 31-12-88, Aldao, Toluca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Rosario Central
+24, Juan Patiño, PAR, D, 1.81, 83, 29-11-89, Asunción, Olimpia [PAR] (On Loan)
+30, Santiago Rosales, ARG, F, 1.80, 73, 22-03-95, Mar del Plata, Olimpia [PAR] (On Loan)
+7, Ricardo Noir, ARG, F, 1.76, 74, 26-02-87, Villa Elisa, Huracán (On Loan)
+11, Andrés Ibargüen, COL, F, 1.68, 64, 07-05-92, Cali, América
+12, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, O'Higgins (On Loan)
+5, Egidio Arévalo, URU, M, 1.69, 71, 01-01-82, Paysandú, Retired
+14, Sergio Vittor, ARG, D, 1.89, 86, 09-06-89, Villa Elisa, Universidad de Concepción (On Loan)
+19, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, Re-Registered (11)
+35, Kevin Gutiérrez, ARG, M, 1.68, 65, 03-06-97, Lanús, Re-Registered (24)
+36, Augusto Lotti, ARG, F, 1.79, 70, 10-06-96, Capital Federal, Re-Registered (7)

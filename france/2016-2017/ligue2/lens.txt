@@ -1,0 +1,40 @@
+=  Lens - French Ligue 2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolas Douchez, FRA, G, 1.85, 77, 22-04-80, Rasny-sous-Bois, Paris St-Germain
+2, Jean-Kévin Duverne, FRA, D, 1.84, 71, 12-07-97, Paris, None
+3, Dušan Cvetinović, SRB, D, 1.86, 79, 24-12-88, Šabac, Haugesund
+4, Djiman Koukou, BEN, M, 1.85, 82, 14-11-90, Porto-Novo, Niort
+5, Abdoul Ba, MTN, D, 2.00, 96, 08-02-94, Dakar, None
+6, Jean-Ricner Bellegarde, FRA, M, 1.70, 66, 27-06-98, Colombe, Le Mans
+7, Adama Guira, BFA, M, 1.85, 78, 24-04-88, Bobo-Dioulasso, SønderjyskE
+8, Kermit Erasmus, RSA, F, 1.71, 63, 08-07-90, Port Elizabeth, Rennes
+10, Mahamadou Habib Habibou, CTA, F, 1.92, 80, 16-04-87, Bria, Rennes
+11, Abdellah Zoubir, FRA, M, 1.80, 73, 05-12-91, Lille, Petrolul Ploiești
+13, Kévin Fortuné, FRA, F, 1.82, 80, 06-08-89, Paris, Béziers
+14, Mohamed Fofana, MLI, D, 1.81, 75, 07-03-85, Gonesse, Reims
+15, John Bostock, ENG, M, 1.79, 75, 15-01-92, Lambeth, OH Leuven
+16, Valentin Belon, FRA, G, 1.80, 77, 13-06-95, Béthune, None
+18, Akim Zedadka, ALG, D, 1.73, 72, 30-05-95, Pertuis, Istres
+19, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Lorient
+20, Abdelrafik Gérard, FRA, M, 1.77, 72, 08-06-93, Ivry-sur-Seine, Créteil
+21, Anthony Scaramozzino, FRA, D, 1.85, 75, 30-04-85, Nice, Omonia Nicosia
+23, Karim Hafez, EGY, D, 1.75, 73, 12-03-96, Beheira, Lierse
+24, Daniel Opare, GHA, D, 1.72, 65, 18-10-90, Accra, Augsburg
+26, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, CFR Cluj
+27, Kenny Lala, FRA, D, 1.87, 83, 03-10-91, VIllepinte, Valenciennes
+28, Thomas Ephestion, FRA, M, 1.89, 87, 09-06-95, Sucy-en-Brie, Béziers
+29, Benjamin Bourigeaud, FRA, M, 1.78, 71, 14-01-94, Calais, None
+30, Jérémy Vachoux, FRA, G, 1.83, 78, 07-07-94, Thonon-les-Bains, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Jonathan Nanizayamo, FRA, F, 1.93, 98, 21-02-92, Tours, Paris FC (On Loan)
+6, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, Bristol C
+8, Guirane N'Daw, SEN, M, 1.89, 79, 24-04-84, Rufisque, 
+9, Teddy Chevalier, FRA, F, 1.80, 70, 28-06-87, Denain, Kortrijk
+24, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, Béziers (On Loan)
+22, Loïck Landre, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Genoa
+10, Patrick Olsen, DEN, M, 1.78, 75, 23-04-94, Tårnby, Grasshoppers
+28, Viktor Klonaridis, BEL, F, 1.79, 74, 28-07-92, Seraing, Panathinaikos (On Loan)

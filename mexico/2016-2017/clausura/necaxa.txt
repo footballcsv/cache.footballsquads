@@ -1,0 +1,33 @@
+=  Necaxa - Mexican Liga MX 2016/17 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Barovero, ARG, G, 1.83, 73, 18-02-84, Porteña, River Plate
+2, Brayan Beckeles, HON, D, 1.83, 80, 28-11-85, La Ceiba, Boavista
+3, Marcos González, CHI, D, 1.89, 85, 09-06-80, Rio de Janeiro, Unión Española
+4, Jesús Chávez, MEX, D, 1.84, 78, 26-04-86, Torreón, Tijuana
+5, Emilio MacEachen, URU, D, 1.83, 76, 05-04-92, Artigas, Peñarol
+7, Michel García, MEX, M, 1.70, 72, 27-08-86, Mexico City, América
+8, Xavier Báez, MEX, M, 1.70, 63, 22-07-87, Reynosa, Cruz Azul
+9, Nicolás Maturana, CHI, M, 1.64, 63, 08-07-93, Lampa, Universidad de Chile
+10, Diego Riolfo, URU, F, 1.77, 75, 08-01-90, Montevideo, Montevideo Wanderers
+11, Jesús Isijara, MEX, M, 1.80, 75, 26-09-89, Navolato, San Luis
+15, Jorge Sánchez, MEX, M, 1.74, 70, 14-02-93, Celaya, Morelia
+16, Manuel Iturra, CHI, M, 1.73, 71, 23-06-84, Temuco, Udinese
+17, Alejandro Díaz, MEX, F, 1.70, 66, 27-01-96, Mexico City, América
+18, Felipe Gallegos, CHI, M, 1.75, 68, 03-12-91, Copiapó, Universidad de Chile
+19, Claudio Riaño, ARG, F, 1.79, 80, 16-08-88, Córdoba, Unión (Santa Fe)
+20, Maximiliano Barreiro, ARG, F, 1.73, 78, 16-03-85, Mendoza, Delfín
+21, Fabian Espíndola, ARG, F, 1.75, 73, 04-05-85, Merlo, Vancouver Whitecaps
+22, Edson Puch, CHI, M, 1.68, 72, 09-04-86, Iquique, LDU Quito
+23, Roberto Salcedo, MEX, G, 1.84, 74, 19-12-91, Chapala, None
+24, Jonás Aguirre, ARG, M, 1.70, 70, 05-03-92, Firmat, Rosario Central
+25, Yosgart Gutiérrez, MEX, G, 1.87, 75, 15-03-81, Ruiz Cortines, Cruz Azul
+26, Jairo González, MEX, D, 1.70, 75, 27-02-92, Guadalajara, Dorados de Sinaloa
+28, Severo Meza, MEX, D, 1.77, 66, 09-07-86, Naranjos, Monterrey
+33, Mario de Luna, MEX, D, 1.79, 76, 05-01-88, Aguascalientes, Guadalajara
+302, Diego Hernández, MEX, D, 1.82, 75, 16-02-98, Guadalajara, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Fernando Meza, ARG, D, 1.76, 64, 21-03-90, San Martín, Colo-Colo

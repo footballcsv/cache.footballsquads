@@ -1,0 +1,35 @@
+=  Numancia - Spanish Segunda División A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Biel, ESP, G, 1.86, 82, 02-12-85, Palma de Mallorca, Atlético Baleares
+2, Iván Malón, ESP, D, 1.87, 76, 26-08-86, Gandía, Alavés
+3, Ripa, ESP, D, 1.77, 73, 12-08-85, Épila, Elche
+4, Stephen "Sunny" Sunday, ESP, M, 1.80, 67, 17-09-88, Lagos, Valencia
+5, Julio Álvarez, VEN, M, 1.81, 74, 01-05-81, Caracas, Tenerife
+6, Txomin Nagore, ESP, M, 1.82, 77, 26-08-74, Navarra, Levante
+7, Miguel Ángel Nieto, ESP, M, 1.83, 77, 12-01-86, Madrid, Almería
+8, José Isidoro, ESP, D, 1.80, 70, 01-08-86, Pedrera, Polonia Warszawa
+9, Juanjo, ESP, F, 1.85, 76, 28-10-85, Santander, Salamanca
+10, Cédric Mabwati, COD, M, 1.67, 62, 08-03-92, Kinshasa, Atlético Madrid B
+11, Javier Del Pino, ESP, F, 1.76, 66, 10-07-80, Madrid, Xerez
+13, Iago Herrerín, ESP, G, 1.86, 90, 25-01-88, Bilbao, Athletic Bilbao B
+14, Antonio Tomás, ESP, M, 1.76, 75, 19-01-85, Torrelavega, CSKA Sofia
+15, Lago Junior, CIV, F, 1.82, 74, 31-12-90, Yamoussoukro, Issia Wazi
+16, Juanma, ESP, M, 1.85, 82, 18-10-82, Las Palmas, Oviedo
+17, Gorka Larrea, ESP, M, 1.82, 70, 07-04-84, San Sebastián, Levante
+18, Egoitz Jaio, ESP, D, 1.87, 76, 13-08-80, Abadiño, Nàstic
+19, Natalio Lorenzo, ESP, F, 1.76, 70, 18-09-84, Valencia, Tenerife
+20, Francisco Regalón, ESP, D, 1.82, 74, 19-02-87, Córdoba, Atlético Madrid B
+21, Miguel Bedoya, ESP, M, 1.77, 70, 15-04-86, Madrid, Getafe B
+22, Eneko Satrústegui, ESP, D, 1.85, 73, 25-09-90, Pamplona, Osasuna B
+23, Unai Expósito, ESP, D, 1.76, 70, 23-01-80, Barakaldo, Cartagena
+24, Pedro Martín, ESP, F, 1.91, 76, 16-01-92, Málaga, Atlético Madrid
+26, Edu Gil, ESP, D, 1.83, 75, 09-12-90, Soria, Numancia B
+27, Javi Bonilla, ESP, M, 1.79, 70, 25-10-90, Soria, Numancia B
+35, David Martín, ESP, F, 1.62, 58, 27-08-92, Segovia, Numancia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Airam Cabrera, ESP, F, 1.80, 78, 21-10-87, Puerto de la Cruz, Lugo
+24, Baltasar Rigo, ESP, D, 1.85, 81, 26-06-85, Campos, Tenerife

@@ -1,0 +1,60 @@
+=  Celtic - Scottish Premiership 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Cardiff C
+3, Emilio Izaguirre, HON, D, 1.77, 77, 10-05-86, Tegucigalpa, Motagua
+4, Efe Ambrose, NGA, D, 1.90, 70, 18-10-88, Kaduna, Ashdod
+5, Virgil van Dijk, NED, D, 1.93, 92, 08-07-91, Breda, FC Groningen
+6, Nir Bitton, ISR, M, 1.96, 80, 30-10-91, Ashdod, Ashdod
+8, Scott Brown, SCO, M, 1.75, 72, 26-06-85, Dunfermline, Hibernian
+9, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, Manchester C
+10, Anthony Stokes, IRL, F, 1.80, 73, 25-07-88, Dublin, Hibernian
+11, Derk Boerrigter, NED, M, 1.85, 78, 16-10-86, Oldenzaal, Ajax
+12, Stefan Šćepović, SRB, F, 1.86, 79, 10-01-90, Belgrade, Sporting Gijón
+14, Stuart Armstrong, SCO, M, 1.83, 75, 30-03-92, Inverness, Dundee U
+15, Kris Commons, SCO, M, 1.68, 61, 30-08-83, Nottingham, Derby C
+16, Gary Mackay-Steven, SCO, M, 1.75, 68, 31-08-90, Thurso, Dundee U
+18, Tomas Rogić, AUS, M, 1.89, 85, 16-12-92, Griffith, Central Coast Mariners
+21, Charlie Mulgrew, SCO, D, 1.91, 83, 06-03-86, Glasgow, Aberdeen
+22, Jason Denayer, BEL, D, 1.84, 70, 28-06-95, Brussels, Manchester C
+23, Mikael Lustig, SWE, D, 1.89, 77, 13-12-86, Umeå, Rosenborg
+24, Łukasz Załuska, POL, G, 1.90, 88, 16-06-82, Wysokie Mazowieckie, Dundee U
+25, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, Strømsgodset
+26, Craig Gordon, SCO, G, 1.93, 77, 31-12-82, Edinburgh, Sunderland
+27, Aleksander Tonev, BUL, M, 1.76, 70, 03-02-90, Elin Pelin, Aston Villa
+28, Leigh Griffiths, SCO, F, 1.75, 64, 20-08-90, Edinburgh, Wolverhampton W
+29, Michael Duffy, IRL, M, 1.78, 68, 28-07-94, Derry, Derry C
+32, Wakaso Mubarak, GHA, M, 1.65, 79, 25-07-90, Tamale, Rubin Kazan
+34, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Avondale U
+38, Leonardo Fasan, ITA, G, 1.88, 82, 04-01-94, San Vito al Tagliamento, None
+41, Darnell Fisher, ENG, D, 1.75, 70, 04-04-94, Reading, Farnborough
+42, Callum McGregor, SCO, M, 1.78, 67, 14-06-93, Glasgow, None
+43, Joe Chalmers, SCO, D, 1.88, 80, 03-01-94, Glasgow, None
+49, James Forrest, SCO, M, 1.70, 67, 07-07-91, Prestwick, None
+51, Conor McManus, SCO, M, 1.85, 79, 29-02-96, , None
+52, Joe Thomson, SCO, M, 1.77, 68, 14-01-97, Paisley, None
+54, Jamie Lindsay, SCO, M, 1.77, 67, 11-10-95, Glasgow, Motherwell
+59, Calum Waters, SCO, D, 1.73, 78, 10-03-96, Glasgow, None
+63, Kieran Tierney, SCO, M, 1.78, 70, 05-06-97, Douglas, None
+64, Aidan Nesbitt, SCO, M, 1.74, 65, 05-02-97, Johnstone, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Fraser Forster, ENG, G, 1.83, 76, 17-03-88, Hexham, Southampton
+19, Hólmbert Friðjónsson, ISL, F, 1.89, 85, 19-04-93, Kópavogur, Brøndby (On Loan)
+20, Teemu Pukki, FIN, F, 1.76, 66, 29-03-90, Kotka, Brøndby (On Loan)
+36, Jackson Irvine, AUS, M, 1.79, 70, 07-03-93, Melbourne, Ross Co (On Loan)
+37, Bahrudin Atajić, BIH, F, 1.81, 76, 16-11-93, Västervik, Seinäjoen JK
+45, Lewis Toshney, SCO, D, 1.91, 74, 26-04-92, Dundee, Ross Co
+46, Dylan McGeouch, SCO, M, 1.78, 69, 15-01-93, Glasgow, Hibernian (On Loan)
+16, Jo Inge Berget, NOR, M, 1.84, 78, 11-09-90, Oslo, Cardiff C
+17, Amido Baldé, POR, F, 1.93, 84, 16-05-91, Bissau, Hapoel Tel Aviv (On Loan)
+35, Stuart Findlay, SCO, D, 1.93, 86, 14-09-95, Glasgow, Dumbarton (On Loan)
+44, Marcus Fraser, SCO, D, 1.78, 70, 23-06-94, Bishopbriggs, Ross Co
+50, Paul George, IRL, M, 1.73, 66, 27-01-94, Killough, Dunfermline Ath
+31, John Herron, SCO, M, 1.83, 73, 01-02-94, Coatbridge, Cowdenbeath (On Loan)
+57, Paul McMullan, SCO, F, 1.81, 70, 25-02-96, Stirling, Stenhousemuir (On Loan)
+33, Beram Kayal, ISR, M, 1.78, 74, 02-05-88, Jadeidi-Makr, Brighton & HA
+56, Filip Twardzik, CZE, M, 1.80, 64, 10-02-93, Třinec, Bolton W
+53, Liam Henderson, SCO, M, 1.73, 67, 25-04-96, Livingston, Rosenborg (On Loan)

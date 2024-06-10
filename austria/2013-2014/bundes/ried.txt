@@ -1,0 +1,40 @@
+=  SV Ried - Austrian Bundesliga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Gebauer, GER, G, 1.91, 88, 30-06-82, Augsburg, Bayreuth
+3, Thomas Reiter, AUT, D, 1.90, 80, 16-06-92, , None
+4, Marcel Ziegl, AUT, D, 1.80, 71, 20-12-92, Seewalchen, AKA OÖ West
+5, Bernhard Janeczek, AUT, D, 1.85, 82, 10-03-92, Vienna, B Mönchengladbach
+6, Andreas Schicker, AUT, D, 1.78, 78, 06-07-86, , Wiener Neustadt
+7, René Gartler, AUT, F, 1.81, 79, 21-10-85, Vienna, Rapid Vienna
+8, Gernot Trauner, AUT, M, 1.83, 82, 25-03-92, Linz, LASK Linz
+9, Julius Perstaller, AUT, F, 1.79, 76, 08-04-89, Innsbruck, Wacker Innsbruck
+10, Sandro, BRA, M, 1.77, 73, 19-03-86, Iaçu, České Budějovice
+11, Oliver Kragl, GER, M, 1.79, 75, 12-05-90, Wolfsburg, Babelsberg
+12, Emrah Križevać, AUT, D, 1.90, 80, 18-05-96, , None
+13, Vladimir Gligorić, AUT, M, 1.75, 70, 10-11-94, , None
+14, Jan Marc Riegler, AUT, D, 1.88, 71, 18-04-88, Braunau am Inn, Red Bull Salzburg
+15, Julian Baumgartner, AUT, D, 1.77, 73, 27-07-94, , None
+16, Sandro Wieser, LIE, M, 1.85, 76, 03-02-93, Vaduz, 1899 Hoffenheim
+17, Toni Vastić, AUT, F, 1.90, 86, 17-01-93, St. Pölten, Bayern Munich II
+18, Thomas Hinum, AUT, M, 1.81, 64, 24-07-87, Linz, Rapid Vienna
+19, Ivan Lučić, AUT, G, 1.93, 92, 23-03-95, Brčko, Austria VIenna
+20, Gabriel Schneider, AUT, M, 1.79, 75, 27-01-90, Linz, Seekirchen
+21, Jan Zwischenbrugger, AUT, M, 1.87, 80, 16-06-90, Au, Hartberg
+22, Harald Pichler, AUT, D, 1.87, 82, 18-06-87, Klagenfurt, Rapid Vienna
+23, Mario Reiter, AUT, M, 1.86, 78, 23-10-86, Steyr, Wiener Neustadt
+24, Thomas Burghuber, AUT, D, 1.80, 67, 03-05-94, , None
+25, Patrick Möschl, AUT, M, 1.73, 65, 06-03-93, Saalfelden, None
+26, Luca Mayr-Fälten, AUT, F, 1.75, 65, 06-04-96, , None
+28, Thomas Reifeltshammer, AUT, D, 1.88, 72, 03-07-88, Ried im Innkreis, Neuhofen
+29, Jakob Kreuzer, AUT, F, 1.83, 83, 15-01-95, , None
+30, Lorenz Höbarth, AUT, G, 1.85, 80, 14-09-91, Linz, Union St. Florian
+33, Clemens Walch, AUT, M, 1.80, 72, 10-07-87, Rum, Kaiserslautern
+45, Gerard, ESP, F, 1.89, 81, 07-10-89, Terrassa, Huesca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Robert Žulj, AUT, F, 1.89, 81, 05-02-92, Wels, Red Bull Salzburg
+21, Ola Kamara, NOR, M, 1.84, 75, 15-10-89, Oslo, Austria Vienna
+20, Furkan Aydoğdu, AUT, M, 1.75, 73, 06-06-88, Terme, Hartberg

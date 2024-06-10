@@ -1,0 +1,53 @@
+=  Real Madrid - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alphonse Areola, FRA, G, 1.90, 85, 27-02-93, Paris, Paris St-Germain
+2, Daniel Carvajal, ESP, D, 1.73, 74, 11-01-92, Leganés, Bayer Leverkusen
+3, Éder Militão, BRA, D, 1.86, 79, 18-01-98, Sertãozinho, FC Porto
+4, Sergio Ramos, ESP, D, 1.84, 82, 30-03-86, Camas, Sevilla
+5, Raphaël Varane, FRA, D, 1.91, 81, 25-04-93, Lille, Lens
+6, Nacho Fernández, ESP, D, 1.80, 76, 18-01-90, Madrid, Real Madrid B
+7, Eden Hazard, BEL, M, 1.73, 76, 07-01-91, La Louvière, Chelsea
+8, Toni Kroos, GER, M, 1.83, 76, 04-01-90, Greifswald, Bayern Munich
+9, Karim Benzema, FRA, F, 1.85, 81, 19-12-87, Lyon, Lyon
+10, Luka Modrić, CRO, M, 1.72, 66, 09-09-85, Zadar, Tottenham H
+11, Gareth Bale, WAL, F, 1.85, 82, 16-07-89, Cardiff, Tottenham H
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Fluminense
+13, Thibaut Courtois, BEL, G, 1.99, 94, 11-05-92, Bree, Chelsea
+14, Casemiro, BRA, M, 1.85, 84, 23-02-92, São José dos Campos, São Paulo
+15, Federico Valverde, URU, M, 1.81, 76, 22-07-98, Montevideo, Peñarol
+16, James Rodríguez, COL, M, 1.80, 77, 12-07-91, Cúcuta, Monaco
+17, Lucas Vázquez, ESP, F, 1.73, 71, 01-07-91, Curtis, Espanyol
+18, Luka Jović, SRB, F, 1.81, 79, 23-12-97, Bijeljina, Eintracht Frankfurt
+20, Marco Asensio, ESP, M, 1.82, 76, 21-01-96, Palma de Mallorca, Mallorca B
+21, Brahim Díaz, ESP, M, 1.70, 68, 03-08-99, Málaga, Manchester C
+22, Isco, ESP, M, 1.76, 79, 21-04-92, Benalmádena, Málaga
+23, Ferland Mendy, FRA, D, 1.78, 73, 08-06-95, Meulan, Lyon
+24, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Lyon
+25, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, Flamengo
+26, Diego Altube, ESP, G, 1.88, 87, 22-02-00, Madrid, Real Madrid B
+27, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, Santos
+29, Pedro Ruiz, ESP, F, 1.94, 82, 30-03-00, Seville, Real Madrid B
+30, Javier Belman, ESP, G, 1.84, 80, 04-10-98, Alicante, Real Madrid B
+32, Sergio López, ESP, D, 1.79, 66, 08-04-99, Remscheid, Real Madrid B
+33, Fran García, ESP, D, 1.67, 61, 14-08-99, Bolaños de Calatrava, Real Madrid B
+35, Adrián de la Fuente, ESP, D, 1.78, 75, 26-02-99, El Escorial, Real Madrid B
+36, Martín Calderón, ESP, M, 1.83, 77, 01-03-99, Jerez de la Frontera, Real Madrid B
+37, Franchu Feuillassier, ARG, M, 1.72, 68, 12-05-98, Mar del Plata, Real Madrid B
+38, Álvaro Bravo, ESP, M, 1.84, 70, 04-02-98, Pinto, Real Madrid B
+39, Javi Hernández, ESP, D, 1.82, 72, 02-05-98, Jerez de la Frontera, Real Madrid B
+40, Víctor Chust, ESP, D, 1.82, 74, 05-03-00, Valencia, Real Madrid B
+41, Marvin Park, ESP, M, 1.78, 64, 03-07-00, Palma de Mallorca, Real Madrid B
+42, Miguel Baeza, ESP, M, 1.75, 64, 27-03-00, Córdoba, Real Madrid B
+43, Antonio Blanco, ESP, M, 1.76, 66, 23-07-00, Montalbán, Real Madrid B
+44, Toni Fuidias, ESP, G, 1.94, 83, 15-04-01, Berga, Real Madrid B
+46, Luis López, ESP, G, 1.90, 76, 08-05-01, Murcia, Real Madrid B
+47, Miguel Gutiérrez, ESP, D, 1.80, 68, 27-07-01, Madrid, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Paris St-Germain
+28, Vinícius Júnior, BRA, F, 1.77, 62, 12-07-00, São Gonçalo, Re-Registered (25)
+34, Manu Hernando, ESP, D, 1.83, 71, 19-07-98, Palencia, Racing Santander (On Loan)
+19, Álvaro Odriozola, ESP, D, 1.75, 66, 14-12-95, San Sebastián, Bayern Munich (On Loan)

@@ -1,0 +1,35 @@
+=  Lyon - French Division 1 1998/99
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Grégory Coupet, G, 5'10", 12 08, 31-12-72, Le Puy-en-Velay, St Etienne
+3, Patrice Carteron, D, 6'00'', 11 07, 30-07-70, Saint-Brieuc, Rennes
+4, Florent Laville, D, 6'02", 13 12, 07-08-73, Valence, None
+5, Jacek Bak, D, 6'01", 12 03, 24-03-73, Poznan, Lech Poznan
+6, Philippe Violeau, M, 5'10", 11 04, 19-08-70, Challans, Auxerre
+7, Christophe Cocard, F, 5'11", 11 03, 23-11-67, Bernay, Auxerre
+8, Jean-Christophe Devaux, D, 5'11", 12 03, 16-05-75, Lyon, None
+9, Marco Grassi, F, 6'02", 13 08, 08-08-68, Chiasso, Cannes
+10, Vikash Dhorasoo, M, 5'06", 09 12, 10-10-73, Harfleur, Le Havre
+11, M'Saddek Senoussi, M, 5'10", 11 05, 24-09-77, Kébili, None
+12, Serge Blanc, D, 5'11", 11 11, 22-09-72, Lyon, Marseille
+13, Hubert Fournier, D, 6'00'', 11 11, 03-09-67, Riom, B Mönchengladbach
+14, Alain Caveglia, F, 5'11", 12 04, 28-03-68, Lyon, Le Havre
+15, Christophe Delmotte, D, 6'02", 13 03, 09-06-69, Comunes, Lens
+17, Jérémie Brechet, D, 6'01", 12 01, 14-08-79, Lyon, None
+18, Steed Malbranque, M, 5'08'', 11 10, 06-01-80, Mouscron, None
+19, David Hellebuyck, M, 5'10'', 11 07, 12-05-79, Nantua, None
+20, Frédéric Kanouté, F, 6'03", 12 04, 02-09-77, Sainte-Foy-le-Grande, None
+21, Joseph-Desire Job, F, 6'01", 11 00, 01-12-77, Venissieux, None
+22, David Linarès, M, 5'11'', 11 03, 05-10-75, Lons le Saunier, None
+23, Sébastien Socié, G, 5'10", 12 11, 03-08-76, Lyon, None
+24, Cédric Uras, D, 6'00", 12 03, 29-11-77, Lyon, None
+25, Christian Bassila, M, 6'03", 13 01, 05-10-77, Paris, None
+26, Anthony Braizat, M, 5'07", 10 12, 16-08-77, Saint Raphaël, None
+27, Patrice Ouerdi, M, 5'10", 11 11, 30-08-78, Vénissieux, None
+28, Olivier Bernard, D, 5'07", 10 11, 14-10-79, Lyon, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Frédéric Patouillard, D, 5'10", 11 00, 13-01-74, Vénissieux, Guingamp
+16, Luc Borrelli, G, 6'00", 12 08, 02-07-65, Marseille, Deceased

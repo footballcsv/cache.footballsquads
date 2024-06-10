@@ -1,0 +1,62 @@
+=  Tottenham Hotspur - English Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heurelho Gomes, BRA, G, 1.91, 82, 15-02-81, João Pinheiro, PSV Eindhoven
+3, Gareth Bale, WAL, M, 1.83, 74, 16-07-89, Cardiff, Southampton
+4, Younes Kaboul, FRA, D, 1.90, 87, 04-01-86, St-Julien-en-Genevois, Portsmouth
+6, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Derby Co
+7, Aaron Lennon, ENG, M, 1.65, 63, 16-04-87, Chapeltown, Leeds U
+8, Scott Parker, ENG, M, 1.75, 70, 13-10-80, Lambeth, West Ham U
+10, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Manchester C
+11, Rafael van der Vaart, NED, M, 1.75, 74, 11-02-83, Heemskerk, Real Madrid
+13, William Gallas, FRA, D, 1.83, 72, 17-08-77, Asnieres, Arsenal
+14, Luka Modrić, CRO, M, 1.75, 67, 09-09-85, Zadar, Dinamo Zagreb
+15, Louis Saha, FRA, F, 1.84, 75, 08-08-78, Paris, Everton
+17, Giovani dos Santos, MEX, M, 1.73, 77, 11-05-89, Monterrey, Barcelona
+18, Jermain Defoe, ENG, F, 1.69, 65, 07-10-82, Beckton, Portsmouth
+20, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Nottingham F
+21, Niko Kranjčar, CRO, M, 1.85, 75, 13-08-84, Zagreb, Portsmouth
+23, Carlo Cudicini, ITA, G, 1.85, 80, 06-09-73, Milan, Chelsea
+24, Brad Friedel, USA, G, 1.88, 91, 18-05-71, Lakewood, Aston Villa
+25, Danny Rose, ENG, D, 1.73, 75, 02-07-90, Doncaster, Leeds U
+26, Ledley King, ENG, D, 1.88, 86, 12-10-80, Bow, None
+28, Kyle Walker, ENG, D, 1.78, 73, 28-05-90, Sheffield, Sheffield U
+29, Jake Livermore, ENG, M, 1.80, 76, 14-11-89, Enfield, None
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, Internacional
+31, Andros Townsend, ENG, M, 1.83, 76, 16-07-91, Whipps Cross, None
+32, Benoît Assou-Ekotto, CMR, D, 1.80, 69, 24-03-84, Arras, Lens
+33, Ryan Nelsen, NZL, D, 1.83, 90, 18-10-77, Christchurch, Blackburn R
+35, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, None
+36, Bongani Khumalo, RSA, D, 1.88, 82, 06-01-87, Manzini, SuperSport U
+37, Harry Kane, ENG, F, 1.83, 65, 28-07-93, Walthamstow, None
+38, David Bentley, ENG, M, 1.75, 68, 27-08-84, Peterborough, Blackburn R
+43, Ryan Fredericks, ENG, M, 1.73, 72, 10-10-92, Potters Bar, None
+44, Cristian Ceballos, ESP, M, 1.73, 67, 03-12-92, Barcelona, Barcelona
+45, Massimo Luongo, AUS, M, 1.74, 75, 25-09-92, Sydney, APIA Leichhardt
+47, Jake Nicholson, ENG, M, 1.83, 73, 19-07-92, Harrow, None
+51, Adam Smith, ENG, D, 1.73, 67, 29-04-91, Leytonstone, None
+53, Cameron Lancaster, ENG, F, 1.83, 74, 05-11-92, Camden, None
+54, Alex Pritchard, ENG, F, 1.71, 62, 03-05-93, Grays, West Ham U
+56, Jesse Waller-Lassen, ENG, M, 1.73, 77, 26-12-92, Hornsey, None
+57, Jordan Archer, SCO, G, 1.86, 80, 12-04-93, Walthamstow, Charlton Ath
+58, Dean Parrett, ENG, M, 1.77, 74, 16-11-91, Hampstead, QPR
+59, Kevin Stewart, ENG, D, 1.71, 73, 07-09-93, Enfield, None
+60, Jack Barthram, ENG, D, 1.73, 75, 13-10-93, Newham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Wilson Palacios, HON, M, 1.78, 71, 29-07-84, La Ceiba, Stoke C
+2, Alan Hutton, SCO, D, 1.85, 72, 30-11-84, Glasgow, Aston Villa
+8, Jermaine Jenas, ENG, M, 1.77, 76, 18-02-83, Nottingham, Aston Villa (On Loan)
+15, Peter Crouch, ENG, F, 2.01, 80, 30-01-81, Macclesfield, Stoke C
+33, Ryan Mason, ENG, M, 1.75, 71, 13-06-91, Enfield, Millwall (On Loan)
+27, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Southampton (On Loan)
+41, John Bostock, ENG, M, 1.79, 75, 15-01-92, Lambeth, Sheffield W (On Loan)
+46, Tom Carroll, ENG, M, 1.77, 71, 28-05-92, Watford, Derby Co (On Loan)
+52, Kudus Oyenuga, ENG, F, 1.76, 77, 18-03-93, Walthamstow, St Johnstone (On Loan)
+22, Vedran Ćorluka, CRO, D, 1.93, 84, 05-02-86, Derventa, Bayer Leverkusen (On Loan)
+19, Sébastien Bassong, CMR, D, 1.87, 73, 09-07-86, Paris, Wolverhampton W (On Loan)
+40, Steven Pienaar, RSA, M, 1.70, 66, 17-03-82, Johannesburg, Everton (On Loan)
+9, Roman Pavlyuchenko, RUS, F, 1.88, 78, 15-12-81, Mostovskoy, Lokomotiv Moscow
+42, Simon Dawkins, ENG, F, 1.78, 70, 01-12-87, Edgware, San Jose Earthquakes (On Loan)

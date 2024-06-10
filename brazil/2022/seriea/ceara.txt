@@ -1,0 +1,49 @@
+=  Ceará - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Ricardo, BRA, G, 1.88, 78, 06-09-88, Mariano Moro, Chapecoense
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Bahia
+3, Messias, BRA, D, 1.90, 87, 03-11-94, São Mateus, América Mineiro
+6, Bruno Pacheco, BRA, D, 1.74, 74, 08-12-91, Pitangueiras, Chapecoense
+7, Richardson, BRA, M, 1.72, 69, 17-08-91, Natal, Kashiwa Reysol
+8, Fernando Sobral, BRA, M, 1.78, 70, 17-12-94, Sobral, Sampaio Corrêa
+10, Stiven Mendoza, COL, F, 1.71, 73, 27-06-92, Palmira, Amiens
+11, Erick, BRA, F, 1.73, 65, 10-12-97, Recife, Sporting Braga
+13, Luiz Otávio, BRA, D, 1.90, 84, 14-09-88, Carmo, Angra dos Reis
+14, Lucas Ribeiro, BRA, D, 1.90, 80, 19-01-99, Salvador, 1899 Hoffenheim
+15, Gabriel Lacerda, BRA, D, 1.87, 74, 29-08-99, Caieiras, None
+16, David, BRA, M, -, -, 08-02-04, -, None
+18, Guthierres, BRA, D, -, -, 25-05-01, -, Monte Azul
+19, Rodrigo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Internacional
+20, Jhon Vásquez, COL, F, 1.76, 78, 12-02-95, Cartagena, Deportivo Cali
+21, Geovane, BRA, M, 1.76, 75, 02-03-99, Salvador, Ituano
+22, Zé Roberto, BRA, F, 1.80, 71, 14-09-93, Teixeira de Freitas, Atlético Goianiense
+23, David Loiola, BRA, D, -, -, 21-12-02, Teresina, Fluminense-PI
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Corinthians
+27, Buiú, BRA, D, 1.71, 67, 27-04-96, Ceará, Santo André
+28, Matheus Peixoto, BRA, F, 1.90, 86, 16-11-95, Rio de Janeiro, Metalist Kharkiv
+29, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Atlético Mineiro
+31, Dentinho, BRA, F, 1.75, 72, 19-01-89, São Paulo, Shakhtar Donetsk
+33, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, Palmeiras
+37, Diego, BRA, M, 1.75, 72, 09-03-88, Americana, Toluca
+40, Guilherme Castilho, BRA, M, 1.80, 71, 19-09-99, Arapoema, Atlético Mineiro
+44, Marcos Victor, BRA, D, 1.84, 70, 26-12-01, Fortaleza, None
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Grêmio
+50, Vinicius Machado, BRA, G, 1.91, 81, 29-02-00, Montenegro, Grêmio
+52, João Victor, BRA, F, 1.72, 68, 27-04-04, São Luís, None
+67, André Luiz, BRA, G, 1.89, 79, 13-03-00, Rio de Janeiro, Botafogo
+70, Kelyvn, BRA, D, 1.75, 70, 07-05-99, Osasco, Tubarão
+77, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Corinthians
+80, Léo Rafael, BRA, M, 1.81, 73, 25-04-01, Campinas, Osasco
+82, Pedro Igor, BRA, F, -, -, 27-03-02, -, None
+88, Michel Macedo, BRA, D, 1.76, 72, 15-02-90, Rio de Janeiro, Corinthians
+89, Cleber, BRA, F, 1.99, 82, 22-10-96, Salvador, Barbalha
+91, Richard, BRA, G, 1.86, 83, 01-03-91, São Paulo, Paraná
+99, Iury Castilho, BRA, F, 1.83, 71, 06-09-95, Rio de Janeiro, Portimonense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+63, Zé Roberto, BRA, F, 1.80, 71, 14-09-93, Teixeira de Freitas, Re-Registered (22)
+20, Wescley, BRA, M, 1.66, 64, 11-10-91, Rio de Janeiro, Gol Gohar Sirjan
+9, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea, 

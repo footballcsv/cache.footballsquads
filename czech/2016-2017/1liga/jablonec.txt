@@ -1,0 +1,42 @@
+=  Jablonec - Czech 1.Liga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Richter, CZE, G, 1.88, 81, 25-06-98, Kolín, None
+2, Michal Štěpánek, CZE, D, 1.75, 79, 22-06-96, , None
+3, Tomáš Hübschman, CZE, M, 1.80, 74, 04-09-81, Prague, Shakhtar Donetsk
+4, Luděk Pernica, CZE, D, 1.86, 80, 16-06-90, Boskovice, Zbrojovka Brno
+5, Matěj Hanousek, CZE, D, 1.82, 74, 02-06-93, Prague, Dukla Prague
+6, Marek Kysela, CZE, D, 1.90, 80, 10-07-92, Rokycany, Internazionale
+7, Jaroslav Diviš, CZE, F, 1.82, 72, 09-07-86, Hustopeče, Slovácko
+8, Lukáš Masopust, CZE, M, 1.79, 76, 12-02-93, Božejov, Vysočina Jihlava
+9, Mirzad Mehanović, BIH, M, 1.76, 71, 05-01-93, Srebrenica, Varnsdorf
+10, Michal Trávník, CZE, M, 1.74, 70, 17-05-94, Mutěnice, Slovácko
+12, Jaroslav Zelený, CZE, M, 1.89, 79, 20-08-92, Hradec Králové, MFK Karviná
+13, Matěj Kubista, CZE, M, 1.87, 78, 05-01-96, Jablonec nad Nisou, None
+14, David Breda, CZE, M, 1.81, 74, 04-01-96, Hradec Králové, Hradec Králové
+15, Martin Doležal, CZE, F, 1.88, 81, 03-05-90, Valašské Meziříčí, Sigma Olomouc
+17, Ondřej Mihálik, CZE, F, 1.88, 71, 02-04-97, Jablonec nad Nisou, None
+20, Michal Bárta, CZE, G, 1.96, 85, 23-12-89, Rožnov pod Radhoštěm, Sigma Olomouc
+21, Petr Jiráček, CZE, M, 1.80, 75, 02-03-86, Tuchořice, Sparta Prague
+22, Nikola Janković, SRB, D, 1.79, 69, 07-06-93, Lazarevac, Krško
+23, Vít Beneš, CZE, D, 1.85, 89, 12-08-88, Ústí nad Labem, Kladno
+25, Petr Rys, CZE, D, 1.79, 73, 15-01-96, Příbram, Příbram
+26, Martin Pospíšil, CZE, M, 1.78, 73, 26-06-91, Bělkovice-Lašťany, Viktoria Plzeň
+27, Vojtěch Kubista, CZE, M, 1.92, 83, 19-03-93, Jablonec nad Nisou, None
+28, Jan Díl, CZE, F, 1.77, 63, 28-02-97, , None
+29, Roman Valeš, CZE, G, 1.90, 84, 06-03-90, Nymburk, Slavia Prague
+30, Vlastimil Hrubý, CZE, G, 1.87, 88, 21-02-85, Znojmo, Znojmo
+77, Jakub Považanec, SVK, M, 1.81, 78, 31-01-91, Banská Bystrica, Dukla Prague
+99, Adam Zreľák, SVK, F, 1.83, 80, 05-05-94, Lipany, Slovan Bratislava
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Matěj Hybš, CZE, D, 1.81, 66, 03-01-93, Prague, Sparta Prague
+16, Josef Bazal, CZE, M, 1.75, 68, 06-11-93, Znojmo, Slavia Prague
+22, Martin Nový, CZE, D, 1.78, 71, 23-06-93, Prague, Sparta Prague
+11, Stanislav Tecl, CZE, F, 1.80, 77, 01-09-90, Jindřichův Hradec, Slavia Prague
+18, Martin Kouřil, CZE, D, 2.00, 98, 24-02-91, Jablonec nad Nisou, Slovan Liberec (On Loan)
+19, Tomáš Wágner, CZE, F, 1.87, 80, 06-03-90, Prague, MFK Karviná (On Loan)
+24, Matěj Končal, CZE, M, 1.80, 60, 08-12-93, Plzeň, Varnsdorf (On Loan)
+1, Lukáš Repáň, CZE, G, 1.88, 85, 20-07-96, Namest nad Oslavou, De-Registered

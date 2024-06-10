@@ -1,0 +1,21 @@
+# Portuguese Superliga 2003/04
+
+18 teams
+- [Académica](academ.txt)
+- [Alverca](alverca.txt)
+- [Beira-Mar](beiramar.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Estrela da Amadora](estrela.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Moreirense](moreir.txt)
+- [Nacional](nacional.txt)
+- [Paços de Ferreira](pacos.txt)
+- [FC Porto](porto.txt)
+- [Rio Ave](rioave.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [União de Leiria](uniaole.txt)
+- [Vitória Guimarães](vitoria.txt)

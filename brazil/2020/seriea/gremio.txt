@@ -1,0 +1,51 @@
+=  Grêmio - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Flamengo
+2, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Santos
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+6, Leonardo Gomes, BRA, D, 1.83, 79, 30-06-96, Araguaína, Boa
+7, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, São Caetano
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, São Paulo
+10, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, None
+11, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, São Paulo
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+14, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Santos
+15, Darlan Mendes, BRA, M, 1.79, 72, 16-04-98, São Borja, None
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Real Madrid
+17, Luis Manuel Orejuela, COL, D, 1.79, 70, 20-08-95, Cali, Cruzeiro
+18, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Cruzeiro
+19, Diego Churín, ARG, F, 1.86, 80, 01-12-89, Arroyo Dulce, Cerro Porteño
+20, Thaciano, BRA, M, 1.82, 73, 12-05-95, Campina Grande, Boa
+21, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Universidad Católica
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Fluminense
+23, Alisson, BRA, F, 1.74, 73, 25-06-93, Rio Pomba, Cruzeiro
+24, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, None
+25, Pepê, BRA, F, 1.75, 68, 24-02-97, Foz do Iguaçu, Foz do Iguaçu
+27, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Santos
+28, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Red Bull Salzburg
+29, Diego Souza, BRA, F, 1.86, 89, 17-06-85, Rio de Janeiro, São Paulo
+30, Patrick, BRA, M, 1.76, 65, 23-11-98, Porto Alegre, None
+32, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Palmeiras
+33, Luiz Fernando, BRA, F, 1.78, 66, 16-10-96, Tocantinópolis, Botafogo
+34, Lucas Araújo, BRA, M, 1.78, 79, 21-05-99, Fortaleza, None
+35, Vanderson, BRA, D, -, -, 21-06-01, Rondonópolis, None
+36, Guilherme Guedes, BRA, D, 1.77, 73, 18-05-99, Porto Alegre, None
+37, Rildo, BRA, M, 1.78, 73, 21-01-00, Rondonópolis, São Paulo
+38, Rodrigues, BRA, D, 1.88, 77, 10-10-97, Carnaúba dos Dantas, None
+39, Guilherme Azevedo, BRA, F, 1.79, 74, 21-05-01, Apucarana, None
+44, Ruan, BRA, D, 1.87, 74, 07-06-99, Tramandaí, None
+45, Fabrício Santos, BRA, F, 1.86, 78, 08-10-00, Cachoeira do Sul, Brasil de Pelotas
+46, Isaque, BRA, M, 1.78, 75, 22-04-97, São Paulo, São Bento
+47, Ferreira, BRA, F, 1.75, 65, 31-12-97, Dourados, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Benfica
+9, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, São Paulo
+10, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Sport Recife
+26, Marcelo Oliveira, BRA, D, 1.84, 76, 29-03-87, Salvador, Retired
+19, Luiz Fernando, BRA, F, 1.78, 66, 16-10-96, Tocantinópolis, Re-Registered (33)
+21, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, Re-Registered (10)

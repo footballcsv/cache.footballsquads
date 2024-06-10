@@ -1,0 +1,23 @@
+# Italian Serie A 2011/12
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Catania](catania.txt)
+- [Cesena](cesena.txt)
+- [Chievo Verona](cverona.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Novara](novara.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Roma](roma.txt)
+- [Siena](siena.txt)
+- [Udinese](udinese.txt)

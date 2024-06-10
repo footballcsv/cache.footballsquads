@@ -1,0 +1,37 @@
+=  FC Rostov - Russian Football Premier League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stas Pokatilov, KAZ, G, 1.90, 84, 08-12-92, Uralsk, Aktobe
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+4, Denis Terentyev, RUS, D, 1.81, 73, 13-08-92, St. Petersburg, Zenit St Petersburg
+6, Saeid Ezatolahi, IRN, M, 1.90, 78, 01-10-96, Bandar-e Anzali, Atlético Madrid C
+7, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv Moscow-2
+8, Moussa Doumbia, MLI, M, 1.73, 68, 15-08-94, Bamako, Real Bamako
+9, Kanga Kaku Guélor, GAB, M, 1.67, 63, 01-09-90, Oyem, CF Mounana
+11, Aleksandr Bukharov, RUS, F, 1.91, 83, 12-03-85, Naberezhnye Chelny, Zenit St Petersburg
+15, Bastos, ANG, D, 1.84, 75, 23-11-91, Luanda, Petro Atlético
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, PAOK
+17, Igor Kireyev, RUS, M, 1.78, 67, 17-02-92, Zheleznogorsk, Spartak Moscow-2
+18, Pavel Mogilevets, RUS, M, 1.83, 70, 25-01-93, Kingisepp, Zenit St Petersburg
+19, Khoren Bayramyan, RUS, M, 1.69, 60, 07-01-92, Koti, FC Rostov-2
+20, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Rubin Kazan
+21, Said-Ali Akhmaev, RUS, M, 1.82, 72, 30-05-96, Moscow, Spartak Moscow-2
+23, Aleksandr Troshechkin, RUS, M, 1.83, 78, 23-04-96, Moscow, Anzhi Makhachkala
+25, Ivan Novoseltsev, RUS, D, 1.91, 82, 25-08-91, Moscow, Torpedo Moscow
+28, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Dynamo Moscow
+30, Fedor Kudryashov, RUS, D, 1.83, 80, 05-04-87, Moscow, Terek Grozny
+32, Nika Kacharava, GEO, F, 1.98, 88, 13-01-94, Nicosia, FC Tskhinvali
+34, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Yenisey Krasnoyarsk
+35, Soslan Dzhanaev, RUS, G, 1.90, 84, 13-03-87, Vladikavkaz, Spartak Moscow
+44, César Navas, ESP, D, 1.96, 89, 14-02-80, Móstoles, Racing Santander
+62, Vladislav Suslov, RUS, G, 1.89, 70, 13-11-95, Tula, Arsenal Tula
+77, Nikita Medvedev, RUS, G, 1.92, 80, 17-12-94, Izhevsk, Zenit Izhevsk
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+86, Yoo Byung-Soo, KOR, F, 1.82, 76, 26-03-88, Daegu, Al-Hilal [KSA]
+89, Aleksandr Erokhin, RUS, M, 1.93, 79, 13-10-89, Barnaul, FC Ural
+97, Yevgeniy Goshev, RUS, G, 1.97, 85, 17-06-97, Voronezh, FC Rostov-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Felicio Brown Forbes, GER, D, 1.88, 81, 28-08-91, Berlin, Arsenal Tula

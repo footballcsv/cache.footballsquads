@@ -1,0 +1,42 @@
+=  Arsenal Kiev - Ukrainian Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vitaliy Reva, UKR, G, 1.81, 80, 19-11-74, Dnipropetrovsk, Dynamo Kiev
+2, Artem Starhorodskyy, UKR, M, 1.80, 76, 17-01-82, Kiev, Krymteplytsya Molodizh
+3, Andriy Raspopov, UKR, D, 1.82, 76, 25-06-78, , Karpaty Lviv
+4, Serhiy Symonenko, UKR, M, 1.86, 82, 12-06-81, Kiev, Chornomorets Odessa
+5, Bohdan Shershun, UKR, D, 1.91, 83, 14-05-81, Khmelnitsky, Dnipro Dnipropetrovsk
+6, Siarhei Kuzniatsov, BLR, M, 1.78, 74, 03-11-79, Minsk, Tavriya Simferopol
+7, Ionuţ Costinel Mazilu, ROU, F, 1.82, 70, 09-02-82, Bucharest, Dnipro Dnipropetrovsk
+8, Rolan Gusev, RUS, M, 1.75, 68, 17-09-77, Ashgabat, Dnipro Dnipropetrovsk
+9, Serhiy Zakarlyuka, UKR, M, 1.85, 76, 17-08-76, Dnipropetrovsk, Metalurh Donetsk
+10, Volodymyr Lysenko, UKR, F, 1.83, 77, 20-04-88, Kiev, Dynamo Kiev
+11, Gil, BRA, F, 1.71, 73, 18-10-80, João Pessoa, Stal Alchevsk
+14, Vadym Rybalchenko, UKR, F, 1.87, 76, 24-11-88, , Arsenal Kiev-2
+15, Serhiy Litovchenko, UKR, D, 1.85, 81, 30-01-79, Minsk, Tavriya Simferopol
+16, Yevhen Yevsyeyev, UKR, D, 1.82, 74, 16-04-87, Kyiv, Arsenal Kiev-2
+17, Vadym Deonas, UKR, G, 1.87, 86, 25-07-75, Odessa, Tavriya Simferopol
+18, Sendley Sidney Bito, NED, F, 1.86, 80, 20-07-83, Willemstad, Stal Alchevsk
+19, Lasha Jakobia, GEO, F, 1.80, 75, 20-08-80, Tbilisi, Metalist Kharkiv
+20, Serhiy Pivnenko, UKR, F, 1.85, 81, 19-10-84, Mariupol, Shakhtar Donetsk
+22, Yaroslav Zakharevych, UKR, M, 1.77, 71, 24-09-89, Kiev, Arsenal Kiev-2
+23, Serhiy Pohorilyy, UKR, G, 1.90, 85, 28-07-86, Kyiv, Obolon Kiev
+28, Paul-Hervé Essola, CMR, M, 1.71, 70, 13-12-81, Douala, Stal Alchevsk
+29, Andrei Yeschenko, RUS, D, 1.76, 74, 09-02-84, Irkutsk, Dynamo Kiev
+30, Roman Korshykov, UKR, F, 1.83, 73, 24-10-85, , Zorya Luhansk
+33, Andriy Khomyn, UKR, D, 1.80, 71, 02-01-82, Potsdam, Metalist Kharkiv
+35, Oleksandr Ivashchenko, UKR, F, 1.83, 76, 19-02-85, , Kryvbas Kryvyi Rih
+39, Serhiy Matyukhin, UKR, D, 1.85, 77, 21-03-80, Dachnoe, Dnipro Dnipropetrovsk
+88, Valeriy Zavarov, UKR, M, 1.75, 71, 16-08-88, Kyiv, Arsenal Kiev-2
+99, Alan, BRA, M, 1.74, 65, 09-12-87, Andirá, Metalurh Donetsk
+, Vyacheslav Sviderskyy, UKR, D, 1.83, 74, 01-01-79, Kiev, Dnipro Dnipropetrovsk
+, Ruslan Bidnenko, RUS, M, 1.84, 74, 20-07-81, Boryspil, Dnipro Dnipropetrovsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Yevheniy Shmakov, UKR, M, 1.75, 72, 07-06-85, Khmelnytskyi, Dynamo Kiev
+30, Georgiy Demetradze, GEO, F, 1.70, 72, 26-09-76, Tbilisi, FK Baku
+5, Yuriy Beno, UKR, D, 1.82, 76, 25-04-74, Lviv, 
+7, Denys Oliynyk, UKR, M, 1.72, 69, 16-06-87, Zaporizhia, Dynamo Kiev
+29, Vitaliy Mandzyuk, UKR, M, 1.80, 73, 24-01-86, Selishche, Dynamo Kiev

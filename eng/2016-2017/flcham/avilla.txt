@@ -1,0 +1,54 @@
+=  Aston Villa - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Nathan Baker, ENG, D, 1.91, 80, 23-04-91, Worcester, None
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Swansea C
+4, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, Manchester C
+5, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Nottingham F
+6, Tommy Elphick, ENG, D, 1.88, 84, 07-09-87, Brighton, Bournemouth
+7, Leandro Bacuna, NED, M, 1.87, 77, 21-08-91, Groningen, FC Groningen
+9, Scott Hogan, ENG, F, 1.80, 64, 13-04-92, Salford, Brentford
+11, Gabriel Agbonlahor, ENG, F, 1.80, 79, 13-10-86, Birmingham, None
+12, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, WBA
+13, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Norwich C
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Barnsley
+16, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, Barnsley
+18, Libor Kozák, CZE, F, 1.93, 82, 30-05-89, Brumov-Bylnice, Lazio
+19, André Green, ENG, M, 1.80, 71, 02-05-98, Solihull, None
+20, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Basel
+21, Alan Hutton, SCO, D, 1.85, 72, 30-11-84, Glasgow, Tottenham H
+22, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, None
+23, Jordan Amavi, FRA, D, 1.76, 70, 09-03-94, Toulon, Nice
+25, Mile Jedinak, AUS, M, 1.89, 88, 03-08-84, Sydney, Crystal Palace
+26, Jonathan Kodjia, CIV, F, 1.89, 80, 22-10-89, Saint-Denis, Bristol C
+27, Ritchie De Laet, BEL, D, 1.86, 77, 28-11-88, Antwerp, Leicester C
+29, Rushian Hepburn-Murphy, ENG, F, 1.73, 59, 19-09-98, Birmingham, None
+30, Viktor Johansson, SWE, G, 1.86, 72, 14-09-98, , Hammarby IF
+31, Mark Bunn, ENG, G, 1.83, 77, 16-11-84, Southgate, Norwich C
+32, Jake Doyle-Hayes, IRL, M, 1.76, 68, 30-12-98, Ballyjamesduff, None
+33, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Anderlecht
+34, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, Manchester U
+35, Corey Blackett-Taylor, ENG, F, 1.70, 67, 23-09-97, Birmingham, None
+36, Callum O'Hare, ENG, F, 1.73, 65, 01-05-98, Solihull, None
+37, Albert Adomah, GHA, M, 1.85, 74, 13-12-87, Lambeth, Middlesbrough
+38, Jordan Lyden, AUS, M, 1.75, 72, 01-01-97, Perth [AUS], None
+39, Keinan Davis, ENG, F, 1.68, 68, 01-06-98, Stevenage, Biggleswade T
+40, Jack Grealish, ENG, M, 1.75, 68, 10-09-95, Birmingham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Carlos Sánchez, COL, M, 1.82, 82, 06-02-86, Bogotá, Fiorentina (On Loan)
+17, Jordan Veretout, FRA, M, 1.76, 66, 01-03-93, Ancenis, St-Etienne (On Loan)
+3, Joe Bennett, ENG, D, 1.77, 74, 28-03-90, Rochdale, Cardiff C
+5, Jores Okore, DEN, D, 1.83, 80, 11-08-92, Abidjan, FC København
+16, Joleon Lescott, ENG, D, 1.88, 83, 16-08-82, Birmingham, AEK
+20, Adama Traoré, ESP, F, 1.78, 75, 25-01-96, L'Hospitalet de Llobregat, Middlesbrough
+14, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Middlesbrough
+1, Pierluigi Gollini, ITA, G, 1.88, 82, 18-03-95, Bologna, Atalanta (On Loan)
+28, Aly Cissokho, FRA, D, 1.81, 75, 15-09-87, Blois, Olympiakos (On Loan)
+8, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, Nottingham F (On Loan)
+10, Jordan Ayew, GHA, F, 1.82, 81, 11-09-91, Marseille, Swansea C
+15, Ashley Westwood, ENG, M, 1.75, 67, 01-04-90, Nantwich, Burnley
+44, Ross McCormack, SCO, F, 1.75, 74, 18-08-86, Glasgow, Nottingham F (On Loan)
+46, Kevin Toner, IRL, D, 1.80, 74, 18-07-96, Ashbourne, Bradford C (On Loan)

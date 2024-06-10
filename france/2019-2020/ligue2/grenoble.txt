@@ -1,0 +1,32 @@
+=  Grenoble - French Ligue 2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brice Maubleu, FRA, G, 1.91, 82, 01-12-89, Saint-Martin-d'Hères, Tours
+2, Moussa Djitté, SEN, F, 1.80, 74, 04-10-99, Diattouma, Sion
+4, Eric Vandenabeele, FRA, D, 1.84, 77, 16-12-91, Calais, Boulogne
+5, Adrien Monfray, FRA, D, 1.85, 76, 20-12-90, Nice, Orléans
+6, Charles Pickel, SUI, M, 1.84, 76, 15-05-97, Basel, Grasshoppers
+7, Willy Semedo, FRA, F, 1.85, 70, 27-04-94, Montfermeil, Politehnica Iași
+8, Jonathan Tinhan, FRA, M, 1.78, 69, 01-06-89, Echirolles, Troyes
+9, Kristófer Ingi Kristinsson, ISL, F, 1.90, 75, 07-04-99, Garðabær, Willem II
+10, Florian Michel, FRA, M, 1.72, 63, 25-03-92, Saint-Martin-d'Heres, Bourgoin-Jallieu
+11, Florian Raspentino, FRA, F, 1.79, 73, 06-06-89, Marignane, Valenciennes
+13, Harouna Abou Demba, MTN, D, 1.77, 72, 31-12-91, Mont-Saint-Aignan, Consolat
+14, Loïc Nestor, FRA, D, 1.79, 67, 20-05-89, Haguenaux, Valenciennes
+16, Papa Demba Camara, SEN, G, 1.95, 70, 16-01-93, Dakar, Sochaux
+17, Terrel Ondaan, NED, M, 1.75, 67, 09-09-93, Amsterdam, Telstar
+18, Anthony Belmonte, FRA, M, 1.85, 72, 16-10-95, Istres, Levski Sofia
+20, Yves-Simon Pambou, CGO, M, 1.71, 68, 27-11-95, Montfermeil, Hapoel Petah Tikva
+21, Jessy Benet, FRA, M, 1.86, 76, 24-06-95, Le Creusot, Dijon
+22, Arsène Elogo, CMR, M, 1.79, 72, 22-04-95, Yaoundé, St-Etienne
+23, Jérôme Mombris, MAD, D, 1.78, 73, 27-11-87, Saint-Brieuc, Gazélec Ajaccio
+24, Ibréhima Coulibaly, MTN, M, 1.83, 68, 30-07-89, Créteil, Dunkerque
+25, Hakim Abdallah, COM, D, 1.70, 68, 18-08-97, Troyes, Troyes
+29, Pierre Gibaud, FRA, D, 1.84, 77, 22-04-88, Laval, Sochaux
+30, Esteban Salles, FRA, G, 1.87, 78, 02-03-94, Oloron-Sainte-Marie, Les Herbiers
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Youssouf M'Changama, COM, M, 1.75, 70, 29-08-90, Marseille, Guingamp
+26, Yohan Brun, FRA, F, 1.79, 74, 19-09-94, Sanary-sur-Mer, Laval

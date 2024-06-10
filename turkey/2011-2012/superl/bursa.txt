@@ -1,0 +1,40 @@
+=  Bursaspor - Turkish Süper Lig 2011/12
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yavuz Özkan, TUR, G, 1.89, 86, 19-05-85, Denizli, Denizli Belediyespor
+4, Ömer Erdoğan, TUR, D, 1.90, 83, 03-05-77, Kassel, Malatyaspor
+5, Milan Stepanov, SRB, D, 1.90, 85, 02-04-83, Novi Sad, FC Porto
+6, Gökçek Vederson, BRA, D, 1.76, 76, 22-07-81, Goytacazes, Fenerbahçe
+7, Alfred N'Diaye, FRA, M, 1.87, 87, 06-03-90, Paris, Nancy
+9, Stanislav Šesták, SVK, F, 1.79, 72, 16-12-82, Prešov, Ankaragücü
+10, Pablo Batalla, ARG, M, 1.70, 65, 16-01-84, Córdoba, Vélez Sarsfield
+11, Sebastián Pinto, CHI, F, 1.85, 89, 15-02-86, Santiago, O'Higgins
+12, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, WBA
+13, Gustav Svensson, SWE, D, 1.83, 80, 07-02-87, Gothenburg, IFK Göteborg
+14, Okan Deniz, TUR, F, 1.76, 75, 20-05-94, Korkut, None
+19, Teteh Bangura, SLE, F, 1.80, 76, 27-12-89, Freetown, AIK
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, Nancy
+21, Adem Koçak, TUR, M, 1.78, 71, 01-09-83, Yerköy, Ankaragücü
+22, Turgay Bahadır, TUR, F, 1.90, 84, 15-01-84, Vienna, Kayserispor
+23, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, None
+24, Deniz Aslan, TUR, D, 1.70, 67, 09-02-89, Zaandam, Helmond Sport
+25, Emre Pehlivan, TUR, M, 1.78, 72, 19-01-93, Osmangazi, None
+28, Prince Tagoe, GHA, F, 1.88, 83, 09-11-86, Accra, 1899 Hoffenheim
+30, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Galatasaray
+32, Cemal Kaldırım, TUR, D, 1.77, 71, 18-03-92, Linz am Rhein, Bad Breisig
+33, Ozan İpek, TUR, M, 1.87, 85, 10-10-86, Ankara, Bucaspor
+35, Ismail Haktan Odabaşi, TUR, F, 1.77, 70, 07-08-91, Konak, None
+38, İbrahim Öztürk, TUR, D, 1.87, 83, 14-06-81, Berlin, Altay
+42, Hakan Aslantaş, TUR, D, 1.81, 76, 26-08-85, Nürtingen, Konyaspor
+52, Barış Örücü, GER, M, 1.83, 82, 10-05-92, Krefeld, Duisburg
+66, Ahmet Arı, TUR, F, 1.75, 66, 13-01-89, Batman, Gaziantepspor
+89, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Güngören Belediyespor
+90, Mehmet Sak, TUR, M, 1.78, 69, 04-04-90, Konak, Altay
+94, Sercan Şen, TUR, G, , , 17-01-94, İzmir, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Giani Stelian Kiriţă, ROU, D, 1.82, 78, 03-03-77, Bucharest, FCM Târgu Mureş
+8, Federico Insúa, ARG, M, 1.79, 79, 03-01-80, Capital Federal, Vélez Sarsfield
+55, Ramazan Sal, TUR, D, 1.82, 78, 27-06-85, Samsun, Şanlıurfaspor

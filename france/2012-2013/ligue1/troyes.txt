@@ -1,0 +1,38 @@
+=  Troyes - French Ligue 1 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthieu Dreyer, FRA, G, 1.88, 84, 20-03-89, Strasbourg, Fréjus
+2, Sébastien Grax, FRA, F, 1.80, 77, 23-06-84, Le Creusot, St-Etienne
+3, Stéphen Drouin, FRA, D, 1.86, 80, 27-01-84, Paris, Vannes
+4, Stéphane Darbion, FRA, M, 1.83, 77, 22-03-84, Belley, Skoda Xanthi
+5, Matthieu Saunier, FRA, D, 1.81, 75, 07-02-90, Hyeres, Bordeaux
+6, Eloge Enza Yamissi, CTA, M, 1.75, 70, 23-01-83, Bangui, Nîmes
+9, Marcos, BRA, F, 1.82, 81, 29-08-79, Salto, Strasbourg
+10, Benjamin Nivet, FRA, M, 1.78, 75, 02-01-77, Chartres, Caen
+11, Rincón, BRA, D, 1.86, 79, 31-05-87, São Paulo, Chievo Verona
+12, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Boulogne
+14, Thiago Xavier, BRA, M, 1.80, 76, 27-12-83, Rio de Janeiro, Châteauroux
+15, Florian Jarjat, FRA, D, 1.81, 75, 18-02-80, Valence, Nantes
+16, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, Monaco
+18, Georges Gope-Fenepej, NCL, F, 1.87, 80, 23-10-88, Lifou, AS Magenta
+19, Jean-Christophe Bahebeck, FRA, F, 1.82, 70, 01-05-93, Saint-Denis, Paris St-Germain
+20, Granddi Ngoyi, COD, M, 1.86, 77, 17-05-88, Melun, Paris St-Germain
+21, Fabrice N'Sakala, FRA, D, 1.78, 69, 21-07-90, Le Blanc-Mesnil, None
+22, Fabien Camus, FRA, M, 1.79, 67, 28-02-85, Arles, KRC Genk
+23, Mohamed Yattara, GUI, F, 1.85, 76, 28-07-93, Conakry, Lyon
+24, Sylvain Monsoreau, FRA, D, 1.86, 80, 20-03-81, Saint-Cyr-L'Ecole, St-Etienne
+25, Jérémie Brechet, FRA, D, 1.87, 77, 14-08-79, Lyon, Sochaux
+26, Julien Outrebon, FRA, D, 1.81, 70, 16-06-83, Epernay, Strasbourg
+27, Julien Faussurier, FRA, M, 1.73, 70, 14-01-87, Lyon, Lyon
+29, Quentin Othon, FRA, M, 1.62, 64, 27-03-88, Montreuil-sous-Bois, Strasbourg
+33, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, None
+34, Khassa Camara, FRA, M, 1.75, 66, 22-10-92, Châtenay-Malabry, None
+35, Jimmy Cabot, FRA, M, 1.64, 60, 18-04-94, Chambéry, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Mohamed Camara, GUI, F, 1.80, 71, 20-09-90, Conakry, Le Poiré-sur-Vie (On Loan)
+7, Benjamin Psaume, FRA, F, 1.70, 67, 12-01-85, Auch, Arles-Avignon (On Loan)
+8, Mounir Obbadi, MAR, M, 1.72, 65, 04-04-83, Meulan, Monaco
+28, Grégory Bettiol, FRA, F, 1.80, 79, 30-03-86, Villefranche-sur-Saône, Clermont

@@ -1,0 +1,46 @@
+=  Boca Juniors - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustín Orión, ARG, G, 1.90, 83, 26-06-81, Ramos Mejía, Estudiantes (LP)
+2, Cata Díaz, ARG, D, 1.82, 74, 13-03-79, San Fernando del Valle, Atlético Madrid
+3, Fabián Monzón, ARG, D, 1.79, 75, 13-04-87, Granadero Baigorria, Catania
+4, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Catania
+5, Fernando Gago, ARG, M, 1.78, 69, 10-04-86, Ciudadela, Valencia
+6, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, Palmeiras
+7, Cristian Pavón, ARG, F, 1.69, 65, 21-01-96, Córdoba, Talleres (Córdoba)
+8, Pablo Pérez, ARG, M, 1.79, 74, 10-08-85, Rosario, Málaga
+10, Carlos Tévez, ARG, F, 1.73, 75, 05-02-84, Ciudadela, Juventus
+12, Bruno Galván, ARG, G, 1.86, 78, 08-05-94, Capital Federal, None
+13, Alexis Rolín, URU, D, 1.86, 75, 07-02-89, Montevideo, Catania
+14, Nicolás Lodeiro, URU, M, 1.70, 69, 18-12-89, Paysandú, Corinthians
+15, Leandro Marín, ARG, D, 1.83, 81, 22-01-92, Neuquén, None
+17, Marcelo Meli, ARG, M, 1.75, 74, 20-06-92, Salto, Colón (Santa Fe)
+18, Nicolás Colazo, ARG, M, 1.75, 71, 08-07-90, Capital Federal, None
+19, Federico Bravo, ARG, M, 1.85, 82, 05-10-93, Jesús María, None
+20, Adrián Cubas, ARG, M, 1.70, 70, 22-05-96, Aristóbulo del Valle, None
+21, Cristian Erbes, ARG, M, 1.71, 69, 06-01-90, Capital Federal, None
+22, Lisandro Magallán, ARG, D, 1.84, 77, 27-09-93, La Plata, Gimnasia y Esgrima (LP)
+25, Andrés Chávez, ARG, F, 1.85, 82, 21-03-91, Salto, Banfield
+26, José Pedro Fuenzalida, CHI, M, 1.70, 67, 22-02-85, Santiago, Colo-Colo
+27, Jonathan Calleri, ARG, F, 1.79, 75, 23-09-93, Capital Federal, All Boys
+28, Tomás Pochettino, ARG, M, 1.80, 68, 01-02-96, Rafael, None
+30, Rodrigo Bentancur, URU, M, 1.78, 73, 25-06-97, Nueva Helvecia, None
+31, Guillermo Sara, ARG, G, 1.88, 78, 30-09-87, Rafaela, Atlético Rafaela
+32, Franco Cristaldo, ARG, M, 1.70, 70, 15-08-96, Capital Federal, None
+33, Juan Cruz Komar, ARG, D, 1.90, 78, 18-03-96, Rosario, None
+34, Sebastián Palacios, ARG, F, 1.69, 69, 20-02-92, Juan Bautista Alberdi, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Emanuel Gigliotti, ARG, F, 1.83, 78, 20-05-87, Capital Federal, Chongqing Lifan
+6, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Metalist Kharkiv
+23, Pablo Daniel Osvaldo, ITA, F, 1.85, 78, 12-01-86, Capital Federal, Southampton
+12, Emanuel Trípodi, ARG, G, 1.89, 91, 08-01-81, Comodoro Rivadavia, 
+24, Guillermo Burdisso, ARG, D, 1.87, 86, 26-09-88, Altos de Chipión, León
+29, Guido Vadalá, ARG, F, 1.63, 60, 08-02-97, Rosario, Juventus (On Loan)
+16, Gonzalo Castellani, ARG, M, 1.83, 75, 10-08-87, Capital Federal, Lanús (On Loan)
+7, Juan Martínez, ARG, F, 1.73, 73, 21-10-85, Viedma, Real Salt Lake
+10, Nicolás Lodeiro, URU, M, 1.70, 69, 18-12-89, Paysandú, Re-Registered (14)
+14, Cristian Pavón, ARG, F, 1.69, 65, 21-01-96, Córdoba, Re-Registered (7)
+11, Federico Carrizo, ARG, M, 1.74, 70, 17-05-91, Villa Giardino, Cruz Azul (On Loan)

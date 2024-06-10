@@ -1,0 +1,49 @@
+=  Wisla Kraków - Polish Ekstraklasa 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mateusz Lis, POL, G, 1.92, 83, 27-02-97, Żary, Lech Poznań
+2, Rafał Pietrzak, POL, D, 1.76, 69, 30-01-92, Sosnowiec, GKS Katowice
+4, Maciej Sadlok, POL, D, 1.81, 72, 29-06-89, Oświęcim, Ruch Chorzów
+5, Lukas Klemenz, POL, D, 1.91, 88, 24-09-95, Neu-Ulm, Jagiellonia Białystok
+7, Sławomir Peszko, POL, M, 1.74, 67, 19-02-85, Jedlicze, Lechia Gdańsk
+8, Łukasz Burliga, POL, D, 1.86, 78, 15-05-88, Sucha Beskidzka, Jagiellonia Białystok
+9, Rafał Boguski, POL, M, 1.73, 70, 09-06-84, Ostrołęka, GKS Bełchatów
+10, Vullnet Basha, SUI, M, 1.74, 65, 11-07-90, Lausanne, UCAM Murcia
+11, Krzysztof Drzazga, POL, F, 1.79, 69, 20-06-95, Szprotawa, KS Polkowice
+14, Artur Balicki, POL, F, 1.82, 71, 11-10-99, Lublin, Ruch Chorzów
+16, Jakub Błaszczykowski, POL, M, 1.76, 77, 14-12-85, Częstochowa, Wolfsburg
+17, Jakub Bartosz, POL, D, 1.83, 76, 13-08-96, Myślenice, Karpaty Siepraw
+21, Marcin Grabowski, POL, D, 1.77, 65, 21-05-00, Jastrowie, Lech Poznań
+22, Michał Buchalik, POL, G, 1.90, 83, 03-02-89, Rybnik, Ruch Chorzów
+23, Paweł Brożek, POL, F, 1.80, 73, 21-04-83, Kielce, Recreativo Huelva
+24, Marko Kolar, CRO, F, 1.85, 77, 31-05-95, Zabok, Lokomotiva Zagreb
+26, Kamil Wojtkowski, POL, M, 1.73, 66, 26-02-98, Sokołów Podlaski, RB Leipzig
+27, Marcin Wasilewski, POL, D, 1.86, 88, 09-06-80, Kraków, Leicester C
+28, Vukan Savićević, MNE, M, 1.79, 74, 29-01-94, Belgrade, Slovan Bratislava
+29, Matej Palčič, SVN, D, 1.81, 71, 21-06-93, Koper, Maribor
+42, Daniel Morys, POL, M, , , 26-12-00, , None
+43, Dawid Szot, POL, D, 1.83, 75, 29-04-01, Kraków, None
+44, Aleksander Buksa, POL, F, 1.87, 74, 15-01-03, Kraków, None
+45, Daniel Hoyo-Kowalski, POL, D, 1.89, 75, 12-07-03, Barcelona, None
+48, Kamil Broda, POL, G, 1.90, 85, 19-07-01, Kraków, Wawel Kraków
+70, Maciej Śliwa, POL, M, 1.75, 70, 22-05-01, Starachowice, Juventa Starachowice
+77, Emmanuel Kumah, GHA, M, , , 09-02-00, Seikwa, Tudu Mighty Jets
+80, Patryk Plewka, POL, M, 1.74, 66, 02-01-00, Chrzanów, None
+98, Wojciech Słomka, POL, M, 1.78, 67, 04-11-98, Brzesko, Progres Kraków
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Aris
+99, Riccardo Grym, POL, M, 1.82, 71, 13-06-99, Leverkusen, Wisła Płock
+88, Patryk Małecki, POL, M, 1.70, 70, 01-08-88, Suwałki, Spartak Trnava (On Loan)
+13, Zdeněk Ondrášek, CZE, F, 1.86, 79, 22-12-88, Strakonice, FC Dallas
+7, Dawid Kort, POL, M, 1.75, 65, 29-04-95, Szczecin, Atromitos
+5, Jakub Bartkowski, POL, D, 1.82, 74, 07-11-91, Łódź, Pogoń Szczecin
+15, Zoran Arsenić, CRO, D, 1.87, 75, 02-06-94, Osijek, Jagiellonia Białystok
+11, Jesús Imaz, ESP, M, 1.78, 74, 26-09-90, Lleida, Jagiellonia Białystok
+77, Martin Košťál, SVK, M, 1.79, 62, 23-02-96, Nové Zámky, Jagiellonia Białystok
+8, Tibor Halilović, CRO, M, 1.76, 70, 18-03-95, Zagreb, Rijeka
+47, Kacper Laskoś, POL, M, 1.84, 74, 05-01-00, Gorlice, GKS Tychy
+49, Piotr Świątko, POL, D, 1.82, 73, 29-05-99, Kraków, Hutnik Nowa Huta (On Loan)
+74, Kacper Chorążka, POL, G, 1.88, 76, 18-03-99, Kraków, Hutnik Nowa Huta (On Loan)

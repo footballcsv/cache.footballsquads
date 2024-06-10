@@ -1,0 +1,43 @@
+=  Boavista - Portuguese Primeira Liga 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mika, POR, G, 1.95, 90, 08-03-91, Yverdon-les-Bains, Atlético CP
+3, Fábio Ervões, POR, D, 1.85, 81, 26-02-87, Valpaços, Penafiel
+4, Reuben Gabriel, NGA, M, 1.95, 86, 25-09-90, Kaduna, Waasland-Beveren
+5, Paulo Vinícius, BRA, D, 1.86, 84, 12-08-84, Cuiabá, Operário
+6, Anderson Correia, BRA, D, 1.77, 68, 06-05-91, São Paulo, São Paulo-RS
+7, Rúben Ribeiro, POR, M, 1.75, 67, 01-08-87, Ramalde, Paços de Ferreira
+8, Tengarrinha, POR, M, 1.87, 72, 17-02-89, Sátão, Chaves
+9, Uche Nwofor, NGA, F, 1.84, 78, 17-09-91, Onitsha, Lierse
+11, Mario Martínez, ESP, M, 1.73, 67, 25-03-85, Soria, Blooming
+12, Gideão, BRA, G, 1.91, 89, 19-12-87, Vitória, Náutico
+14, Emmanuel Hackman, GHA, D, 1.87, 71, 14-05-95, Accra, Vila Real
+15, Douglas Abner, BRA, F, 1.75, 63, 30-01-96, Brasília, Corinthians
+17, Renato Santos, POR, F, 1.70, 76, 05-10-91, Pardilhó, Rio Ave
+21, Aymen Tahar, ALG, M, 1.78, 78, 02-10-89, Algiers, Steaua București
+22, Carlos Santos, POR, D, 1.88, 93, 31-03-89, Barroselas, Coimbrões
+23, Henrique, POR, D, 1.86, 75, 19-10-86, Fafe, Feirense
+25, Afonso Figueiredo, POR, D, 1.69, 63, 06-01-93, Oeiras, Sporting Braga
+27, Anderson Carvalho, BRA, M, 1.76, 74, 20-05-90, Cubatão, Santos
+28, Tiago Mesquita, POR, D, 1.80, 74, 23-11-90, Vila Nova de Famalicão, Freamunde
+29, Mamadou Ba, SEN, G, 1.98, 86, 08-05-85, Dakar, Oliveirense
+30, Ancelmo, BRA, M, 1.80, 75, 03-04-90, Rio Branco, Bragantino
+42, Idris Mandiang, SEN, M, 1.89, 80, 27-12-84, Dakar, Moreirense
+70, Zé Manuel, POR, F, 1.78, 65, 23-10-90, Nogueira, Sporting Braga
+71, Ibrahima Faye, SEN, F, 1.70, 65, 13-12-92, , Oliveirense
+75, Michael Okechukwu Uchebo, NGA, F, 1.94, 86, 27-09-90, Enugu, Cercle Brugge
+77, Luisinho, POR, F, 1.70, 60, 27-03-90, Fornos de Algodres, Académico Viseu
+79, Imanol Iriberri, ARG, F, 1.80, 78, 04-03-87, Mar del Plata, Jorge Wilstermann
+88, Samu, POR, M, 1.70, 66, 21-04-96, São Paio de Oleiros, FC Porto
+94, Philipe Sampaio, BRA, D, 1.91, 89, 11-11-94, São Paulo, Paulista
+95, André Bukia, CGO, F, 1.73, 65, 03-03-95, Kinshasa, Vila Real
+99, Cristian Cangá, COL, F, 1.83, 80, 23-02-91, Buenaventura, Atlético Huila
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Leozinho, BRA, F, 1.67, 62, 07-06-88, Fortaleza, 
+2, Samuel Inkoom, GHA, D, 1.79, 75, 22-08-89, Sekondi-Takoradi, Antalyaspor
+10, Diego Lima, BRA, M, 1.76, 67, 30-09-88, Duque de Caxias, 
+11, Christian Pouga, CMR, F, 1.93, 90, 19-06-86, Douala, 
+99, Rivaldinho, BRA, F, 1.86, 85, 29-04-95, São Paulo, XV de Piracicaba

@@ -1,0 +1,49 @@
+=  Hamburger SV - German Bundesliga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Frank Rost, GER, G, 1.94, 92, 30-06-73, Leipzig, Schalke
+2, Álex Silva, BRA, D, 1.93, 82, 10-03-85, Amparo, São Paulo
+3, Timothée Atouba, CMR, D, 1.91, 80, 17-02-82, Douala, Tottenham H
+4, Bastian Reinhardt, GER, D, 1.94, 94, 19-11-75, Ludwigslust, Arminia Bielefeld
+5, Joris Mathijsen, NED, D, 1.83, 82, 05-04-80, Goirle, AZ Alkmaar
+7, Marcell Jansen, GER, D, 1.91, 84, 04-11-85, Mönchengladbach, Bayern Munich
+8, Albert Streit, GER, M, 1.80, 80, 28-03-80, Bucharest, Schalke
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Bayern Munich
+10, Mladen Petrić, CRO, F, 1.85, 81, 01-01-81, Dubrave, Borussia Dortmund
+11, Ivica Olić, CRO, F, 1.81, 85, 14-09-79, Davor, CSKA Moscow
+12, Wolfgang Hesl, GER, G, 1.85, 85, 13-01-86, Nabburg, Amberg
+14, David Jarolim, CZE, M, 1.74, 69, 17-05-79, Čáslav, Nürnberg
+15, Piotr Trochowski, GER, M, 1.69, 70, 22-03-84, Dirschau, Bayern Munich
+16, Michael Gravgaard, DEN, D, 1.87, 88, 03-04-78, Randers, Nantes
+17, Macauley Chrisantus, NGR, F, 1.83, 76, 20-08-90, Abuja, Abuja
+18, Romeo Castelen, NED, M, 1.70, 66, 03-05-83, Paramaribo, Feyenoord
+19, Jerome Boateng, GER, D, 1.92, 90, 03-09-88, Berlin, Hertha Berlin
+20, Guy Demel, CIV, D, 1.88, 88, 13-06-81, Orsay, Borussia Dortmund
+21, Jonathan Pitroipa, BFA, M, 1.76, 56, 12-04-86, Ouagadougou, Freiburg
+22, Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Altona 93
+24, Marcel Ndjeng, GER, M, 1.80, 72, 06-05-82, Bonn, B Mönchengladbach
+25, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Deportivo Táchira
+26, Volker Schmidt, GER, D, 1.79, 75, 22-09-78, Hamburg, None
+28, Mickaël Tavares, SEN, M, 1.86, 78, 25-10-82, Villeneuve-St-Georges, Slavia Prague
+29, Raphael Wolf, GER, G, 1.90, 86, 06-06-88, Munich, None
+30, Collin Benjamin, NAM, M, 1.82, 80, 03-08-78, Windhoek, Raspo Elmshorn
+31, Timo Kunert, GER, M, 1.77, 66, 12-03-87, Gladbeck, Schalke
+33, Khalid Sinouh, MAR, G, 1.90, 86, 02-05-75, Amsterdam, Kasımpaşa
+34, Kai-Fabian Schulz, GER, M, 1.90, 86, 12-03-90, Neumünster, None
+35, Tunay Torun, TUR, F, 1.79, 75, 21-04-90, Hamburg, St Pauli
+36, Hanno Behrens, GER, M, 1.88, 78, 26-03-90, Elmshorn, None
+40, Dennis Aogo, GER, D, 1.83, 85, 14-01-87, Karlsruhe, Freiburg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mohamed Zidan, EGY, F, 1.72, 71, 11-12-81, Port Said, Borussia Dortmund
+10, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Manchester C
+34, Sidney Sam, GER, M, 1.74, 66, 31-01-88, Kiel, Kaiserslautern (On Loan)
+24, Miroslav Štěpánek, CZE, D, 1.92, 88, 15-01-90, Olomouc, Kapfenberg (On Loan)
+33, Preston Zimmermann, USA, F, 1.81, 78, 21-11-88, Pasco, Kapfenberg
+16, Anton Putsilo, BLR, M, 1.80, 74, 23-06-87, Orsha, Dinamo Minsk
+6, Vadis Odjidja-Ofoe, BEL, M, 1.85, 79, 21-02-89, Gent, Club Brugge
+8, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Manchester C
+27, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Fluminense (On Loan)
+32, Änis Ben-Hatira, GER, M, 1.81, 78, 18-07-88, Berlin, Duisburg (On Loan)

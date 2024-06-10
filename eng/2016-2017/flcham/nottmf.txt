@@ -1,0 +1,55 @@
+=  Nottingham Forest - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Eric Lichaj, USA, D, 1.80, 79, 17-11-88, Downers Grove, Aston Villa
+3, Daniel Pinillos, ESP, D, 1.82, 72, 22-10-92, Logroño, Córdoba
+4, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, Hamburg
+5, Matthew Mills, ENG, D, 1.91, 82, 14-07-86, Swindon, Bolton W
+6, Armand Traoré, SEN, D, 1.85, 82, 08-10-89, Paris, QPR
+7, Matthew Fryatt, ENG, F, 1.78, 70, 05-03-86, Nuneaton, Hull C
+8, Chris Cohen, ENG, M, 1.78, 69, 05-03-87, Norwich, Yeovil T
+9, Britt Assombalonga, COD, F, 1.77, 76, 06-12-92, Kinshasa, Peterborough U
+10, João Teixeira, POR, M, 1.78, 70, 06-02-94, Amora, Benfica
+11, Ben Osborn, ENG, M, 1.76, 75, 05-08-94, Derby, None
+12, Nicolao Dumitru, ITA, F, 1.84, 76, 12-10-91, Nacka, Napoli
+13, Danny Fox, SCO, D, 1.83, 79, 29-05-86, Winsford, Southampton
+15, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, Aston Villa
+16, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Bolton W
+17, Hildeberto Pereira, POR, D, 1.75, 70, 02-03-96, Lisbon, Benfica
+18, Mustapha Carayol, GAM, M, 1.77, 75, 10-06-89, Banjul, Middlesbrough
+19, Jamie Ward, NIR, F, 1.65, 59, 12-05-86, Birmingham, Derby Co
+21, Gboly Ariyibi, USA, M, 1.83, 72, 18-01-95, Arlington, Chesterfield
+22, Pajtim Kasami, SUI, M, 1.87, 70, 02-06-92, Struga, Olympiakos
+24, David Vaughan, WAL, M, 1.70, 66, 18-02-83, Rhuddlan, Sunderland
+25, Jack Hobbs, ENG, D, 1.91, 84, 18-08-88, Portsmouth, Hull C
+26, Dimitar Evtimov, BUL, G, 1.90, 83, 07-09-93, Pleven, Chavdar Etropole
+27, Damien Perquis, POL, D, 1.84, 80, 10-04-84, Troyes, Toronto FC
+28, Thomas Lam, FIN, D, 1.88, 76, 18-12-93, Amsterdam, PEC Zwolle
+30, Stephen Henderson, IRL, G, 1.88, 87, 02-05-88, Dublin, Charlton Ath
+38, Vladimir Stojković, SRB, G, 1.95, 92, 28-07-83, Loznica, Maccabi Haifa
+39, Apostolos Vellios, GRE, F, 1.91, 79, 08-01-92, Thessaloniki, Iraklis
+40, Alex Iacovitti, SCO, D, 1.80, 68, 02-09-97, Nottingham, None
+41, Matty Cash, ENG, M, 1.85, 64, 07-08-97, Slough, None
+42, Joe Worrall, ENG, D, 1.93, 64, 10-01-97, Nottingham, None
+43, Jordan Smith, ENG, G, 1.85, 75, 08-12-94, Nottingham, None
+45, Ben Brereton, ENG, F, 1.85, 75, 18-04-99, Stoke-on-Trent, Stoke C
+46, Jordan Lawrence-Gabriel, SCO, D, 1.78, 69, 25-09-98, London, Southend U
+47, James Thorne, ENG, F, 1.88, 77, 03-01-96, Manchester, Macclesfield T
+48, Anel Ahmedhodžić, SWE, D, 1.90, 76, 26-03-99, Sarajevo, Malmö FF
+49, Toby Edser, ENG, M, 1.74, 75, 28-02-99, Guildford, Charlton Ath
+50, Ross McCormack, SCO, F, 1.75, 74, 18-08-86, Glasgow, Aston Villa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Dorus de Vries, NED, G, 1.80, 76, 29-12-80, Beverwijk, Celtic
+21, Jamie Paterson, ENG, F, 1.75, 67, 20-12-91, Coventry, Bristol C
+35, Oliver Burke, SCO, M, 1.74, 75, 07-04-97, Melton Mowbray, RB Leipzig
+14, Lars Veldwijk, NED, F, 1.96, 95, 21-08-91, Uithoorn, Kortrijk
+23, Dexter Blackstock, ATG, F, 1.85, 76, 20-05-86, Oxford, Rotherham U
+34, Tyler Walker, ENG, F, 1.79, 63, 07-10-96, Nottingham, Port Vale (On Loan)
+10, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Aston Villa
+37, Jorge Grant, ENG, M, 1.75, 73, 26-09-94, Oxford, Notts Co (On Loan)
+44, Ryan Yates, ENG, M, 1.90, 77, 21-11-97, Nottingham, Shrewsbury T (On Loan)
+20, Licá, POR, M, 1.80, 71, 08-09-88, Castro Daire, Estoril (On Loan)
+14, Nicklas Bendtner, DEN, F, 1.92, 83, 16-01-88, Copenhagen, Rosenborg

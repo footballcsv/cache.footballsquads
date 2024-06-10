@@ -1,0 +1,46 @@
+=  Rizespor - Turkish Süper Lig 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Serkan Kırıntılı, TUR, G, 1.85, 78, 15-02-85, Karataş, Fenerbahçe
+2, Godfrey Oboabona, NGA, D, 1.86, 76, 16-08-90, Akure, Sunshine Stars
+3, Ousmane Viera, CIV, D, 1.86, 81, 21-12-86, Daloa, Pandurii Târgu-Jiu
+4, Koray Altinay, TUR, D, 1.76, 76, 11-10-91, Munich, Jahn Regensburg
+5, Sezer Özmen, TUR, D, 1.89, 70, 07-07-92, Istanbul, Beşiktaş
+6, Kağan Söylemezgiller, TUR, M, 1.79, 74, 04-03-88, Kirchheim, Karabükspor
+7, Sercan Kaya, TUR, M, 1.74, 68, 15-03-88, İzmir, Trabzonspor
+8, Engin Baytar, TUR, M, 1.77, 71, 11-07-83, Cologne, Galatasaray
+9, Léonard Kweuke, CMR, F, 1.87, 80, 12-07-87, Yaoundé, Sparta Prague
+10, Florin Cernat, ROU, M, 1.71, 68, 10-03-80, Galaţi, Karabükspor
+11, Eren Albayrak, TUR, M, 1.78, 65, 23-04-91, Istanbul, Trabzonspor
+13, Eray Birniçan, TUR, G, 1.80, 73, 20-07-88, Bakirköy, Gaziantepspor
+14, Ludovic Sylvestre, FRA, M, 1.82, 74, 05-02-84, Le Blanc-Mesnil, Blackpool
+17, Hurşut Meriç, NED, M, 1.73, 75, 31-07-83, Amsterdam, Gençlerbirliği
+18, Yüksel Kazdal, TUR, M, 1.79, 74, 02-08-94, Rize, None
+19, Hakan Hacıbektaşoğlu, TUR, M, 1.81, 75, 01-08-84, Istanbul, Göztepe
+20, Liban Abdi, SOM, F, 1.82, 72, 05-10-88, Burco, Académica
+21, Cumali Bişi, TUR, M, 1.73, 68, 15-06-93, Kocaeli, Beşiktaş
+24, Ahmet Görkem Görk, TUR, D, 1.93, 85, 30-06-83, Istanbul, Elazığspor
+25, Aykut Akgün, TUR, M, 1.87, 76, 18-09-87, Bruchsal, Trabzonspor
+28, Lomana LuaLua, COD, F, 1.78, 76, 28-12-80, Kinshasa, Karabükspor
+35, Necati Yılmaz, TUR, G, 1.88, 76, 21-01-88, İzmir, Karşıyaka
+53, Ali Adnan, IRQ, D, 1.85, 77, 19-12-93, Baghdad, Baghdad FC
+55, Ümit Korkmaz, AUT, M, 1.74, 72, 17-09-85, Vienna, Ingolstadt
+63, Deniz Kadah, TUR, F, 1.86, 75, 20-03-86, Ufra, Hannover 96
+66, Kıvanç Karakaş, TUR, M, 1.80, 71, 03-03-85, Istanbul, Şanlıurfaspor
+77, Orhan Ovacıklı, TUR, D, 1.80, 71, 23-11-88, İzmir, Bandırmaspor
+88, Tevfik Köse, TUR, F, 1.80, 75, 12-07-88, Düsseldorf, İstanbul BB
+89, Mehmet Gürkan Öztürk, TUR, F, 1.78, 73, 26-03-89, Sinop, Aydınspor
+93, Emre Kırdal, TUR, G, 1.85, 75, 23-10-93, Rize, None
+99, Martin Kayongo-Mutumba, UGA, M, 1.77, 74, 15-06-85, Solna, AIK
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+96, Ozan Papaker, TUR, F, 1.88, 78, 10-07-96, Rize, Ofspor (On Loan)
+34, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, Erciyesspor (On Loan)
+12, Oğuzhan Berber, TUR, D, 1.76, 67, 10-04-92, İzmir, Adana Demirspor (On Loan)
+22, Cenk Güvenç, TUR, D, 1.89, 74, 29-12-91, Seligenstadt, Karşıyaka (On Loan)
+23, Nevzat Bilen, TUR, M, 1.80, 67, 19-07-93, Rize, Kırıkhanspor (On Loan)
+15, Uche Kalu, NGA, F, 1.88, 78, 16-05-86, Lagos, Adanaspor (On Loan)
+81, Mariusz Pawełek, POL, G, 1.85, 81, 17-03-81, Lubomia, Adana Demirspor (On Loan)
+32, David Depetris, ARG, F, 1.85, 82, 11-11-88, San Jorge, Sigma Olomouc (On Loan)

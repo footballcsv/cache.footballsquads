@@ -1,0 +1,55 @@
+=  Atlético Paranaense - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Porto-PE
+2, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Fluminense
+3, Lucho González, ARG, M, 1.85, 75, 19-01-81, Capital Federal, River Plate
+4, Cleberson, BRA, D, 1.85, 75, 17-08-92, Maracatuba, None
+5, Deivid, BRA, M, 1.74, 69, 18-01-89, Londrina, None
+6, Eduardo Henrique, BRA, M, 1.84, 73, 17-05-95, Limeira, Coimbra
+8, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, Catanduvense
+9, Ribamar, BRA, F, 1.84, 81, 21-05-97, Rio de Janeiro, 1860 Munich
+10, Felipe Gedoz, BRA, M, 1.77, 74, 12-07-93, Muçum, Club Brugge
+11, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Atlético Mineiro
+12, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Portuguesa
+13, Paulo André, BRA, D, 1.88, 82, 20-08-83, Campinas, Cruzeiro
+15, Riuler, BRA, M, 1.75, 73, 25-01-98, Bastos, None
+17, Guilherme, BRA, M, 1.73, 77, 22-10-88, Imperatriz, Corinthians
+20, Matheus Rossetto, BRA, M, 1.80, 75, 03-06-96, Santo Amaro da Imperatriz, None
+21, Esteban Pavez, CHI, M, 1.80, 76, 01-05-90, Santiago, Colo-Colo
+22, Eduardo, CRO, F, 1.77, 70, 25-02-83, Rio de Janeiro, Shakhtar Donetsk
+23, Lucas Fernandes, BRA, M, 1.74, 70, 24-04-94, União dos Palmares, Fluminense
+25, Wanderson, BRA, D, 1.86, 83, 07-02-91, Vitória da Conquista, Ferroviária
+27, José Ivaldo, BRA, D, 1.85, 78, 21-02-97, Maceió, None
+28, Weverton Almeida, BRA, D, , , 30-06-99, Conceição do Almeida, None
+30, Léo, BRA, M, , , 12-11-98, Catanduva, Catanduvense
+39, Bruno Guimarães, BRA, M, 1.82, 74, 16-11-97, Rio de Janeiro, Audax-SP
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+47, Gustavo Cascardo, BRA, D, 1.74, 66, 24-03-97, Mogi das Cruzes, Portguesa
+49, Warleson, BRA, G, 1.91, 90, 31-08-96, Cuiabá, None
+55, Matheus Anjos, BRA, M, 1.81, 72, 21-12-98, Campinas, None
+74, Jacy, BRA, D, 1.82, 81, 11-07-97, Santa Inês, None
+77, Douglas Coutinho, BRA, F, 1.83, 71, 08-02-94, Volta Redonda, None
+87, Fabricio, BRA, D, 1.85, 72, 11-01-87, São Paulo, Cruzeiro
+91, Éderson, BRA, F, 1.72, 74, 13-03-89, Pentecoste, Kashiwa Reysol
+92, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, None
+94, Lucas Macanhan, BRA, G, 1.86, 78, 25-06-94, Curitiba, None
+97, Nicolas Vichiatto, BRA, D, 1.75, 70, 24-02-97, Arapongas, None
+98, Renan Lodi, BRA, D, 1.78, 74, 08-04-98, Serrano, None
+99, Léo, BRA, G, 1.93, 77, 22-09-90, Suzano, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+95, Renan Paulino, BRA, M, 1.80, 71, 15-02-95, São Paulo, Náutico
+33, Bruno Mota, BRA, M, 1.87, 75, 22-05-95, Curitiba, Náutico (On Loan)
+21, João Pedro Heinen, BRA, M, 1.73, 65, 20-01-97, Terra Roxa, Paraná (On Loan)
+76, Luiz Otávio, BRA, M, 1.74, 70, 18-03-97, Curitiba, Paraná
+9, Luis Henrique, BRA, F, 1.84, 81, 17-03-98, Vila Velha, Feirense
+23, Grafite, BRA, F, 1.89, 81, 02-04-79, Jundiaí, Santa Cruz
+45, Marcão, BRA, D, 1.85, 77, 05-06-96, Londrina, Rio Ave (On Loan)
+96, Crysan, BRA, F, 1.90, 82, 07-07-96, Sud Menucci, Cercle Brugge (On Loan)
+19, Carlos Alberto, BRA, M, 1.77, 71, 11-12-84, Rio de Janeiro, 
+7, Otávio, BRA, M, 1.76, 73, 04-05-94, Maceió, Bordeaux
+70, Yago, BRA, F, 1.85, 74, 26-05-97, Taboão da Serra, Juventude (On Loan)
+32, Giovanny, BRA, F, 1.75, 69, 19-09-91, Itaquera, Paraná (On Loan)

@@ -1,0 +1,49 @@
+=  Atalanta - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Lazio
+3, Stefano Lucchini, ITA, D, 1.86, 76, 02-10-80, Cotogno, Sampdoria
+4, Daniele Capelli, ITA, D, 1.84, 78, 20-06-86, Calcinate, None
+5, Lionel Scaloni, ARG, M, 1.82, 80, 16-05-78, Rosario, Lazio
+6, Gianpaolo Bellini, ITA, D, 1.80, 75, 27-03-80, Sarnico, None
+7, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Internazionale
+8, Ivan Radovanović, SRB, M, 1.86, 76, 29-08-88, Mitrovica, Partizan Belgrade
+9, James Troisi, AUS, F, 1.78, 77, 03-07-88, Adelaide, Juventus
+10, Giacomo Bonaventura, ITA, M, 1.81, 75, 22-08-89, San Severino Marche, None
+11, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, Vélez Sarsfield
+13, Michele Canini, ITA, D, 1.87, 78, 05-06-85, Bergamo, Genoa
+16, Ciro Polito, ITA, G, 1.84, 78, 12-04-79, Naples, Salerno
+17, Carlos Carmona, CHI, M, 1.79, 77, 21-02-87, Coquimbo, Reggina
+18, Luigi Giorgi, ITA, M, 1.85, 70, 19-04-87, Ascoli Piceno, Novara
+19, Germán Denis, ARG, F, 1.83, 78, 10-09-81, Lomas de Zamora, Udinese
+20, Igor Budan, CRO, F, 1.85, 80, 22-04-80, Rijeka, Palermo
+21, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilio, Napoli
+22, Matteo Contini, ITA, D, 1.82, 76, 16-04-80, Gemonio, Siena
+23, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Palermo
+28, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Lecce
+32, Michele Ferri, ITA, D, 1.85, 81, 29-05-81, Busto Arsizio, Vicenza
+44, Riccardo Cazzola, ITA, M, 1.88, 80, 10-08-85, Verona, Juve Stabia
+47, Andrea Consigli, ITA, G, 1.89, 79, 27-01-87, Milan, None
+77, Cristian Raimondi, ITA, M, 1.82, 74, 30-04-81, San Giovanni in Bianco, Livorno
+78, Giorgio Frezzolini, ITA, G, 1.86, 80, 21-01-76, Rome, Ascoli
+83, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Siena
+88, Davide Biondini, ITA, M, 1.78, 67, 24-01-83, Longiano, Genoa
+89, Guido Marilungo, ITA, F, 1.75, 69, 09-08-89, Montegranaro, Sampdoria
+91, Giuseppe De Luca, ITA, F, 1.78, 72, 22-06-91, San Nicola, Varese
+92, Luca Milesi, ITA, D, 1.80, 74, 28-04-93, San Giovanni in Bianco, None
+93, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, None
+94, Antonio Palma, ITA, M, 1.77, 67, 03-01-94, Monza, None
+95, Davide Cais, ITA, F, 1.80, 70, 17-02-94, Vittorio Veneto, None
+99, Facundo Parra, ARG, F, 1.82, 78, 15-06-85, Buenos Aires, Independiente
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Moussa Koné, CIV, M, 1.80, 73, 12-02-90, Anyama, Varese (On Loan)
+90, Simone Tiribocchi, ITA, F, 1.80, 79, 31-01-78, Rome, Pro Vercelli
+13, Federico Peluso, ITA, D, 1.86, 73, 20-01-84, Rome, Juventus (On Loan)
+5, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Genoa
+23, Matteo Scozzarella, ITA, M, 1.75, 65, 05-06-88, Trieste, Ternana (On Loan)
+7, Matiás Ezequiel Schelotto, ITA, M, 1.87, 79, 23-05-89, Buenos Aires, Internazionale
+25, Carlos Matheu, ARG, D, 1.83, 81, 13-05-85, Quilmes, Siena (On Loan)
+79, Adriano Ferreira Pinto, BRA, M, 1.78, 70, 10-12-79, Quinta Do Sol, Varese

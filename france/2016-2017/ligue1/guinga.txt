@@ -1,0 +1,35 @@
+=  Guingamp - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Karl-Johan Johnsson, SWE, G, 1.87, 83, 28-01-90, Ränneslöv, Randers
+2, Jordan Ikoko, COD, D, 1.72, 60, 03-02-94, Montereau, Paris St-Germain
+3, Marçal, BRA, D, 1.78, 72, 19-02-89, São Paulo, Benfica
+5, Moustapha Diallo, SEN, M, 1.88, 78, 14-05-86, Dakar, ASC Diaraf
+6, Baïssama Sankoh, GUI, D, 1.80, 73, 20-03-92, Nogent-sur-Marne, Sarcelles
+7, Dorian Levêque, FRA, D, 1.82, 72, 22-11-89, Annecy, Boulogne
+8, Lucas Deaux, FRA, M, 1.86, 77, 26-12-88, Reims, KAA Gent
+9, Alexandre Mendy, FRA, F, 1.84, 86, 20-03-94, Toulon, Nice
+10, Nicolas Benezet, FRA, M, 1.72, 61, 24-02-91, Montpellier, Évian TG
+11, Sloan Privat, FRA, F, 1.86, 83, 24-07-89, Cayenne, KAA Gent
+12, Niil De Pauw, BEL, M, 1.80, 70, 06-01-90, Kinshasa, Lokeren
+14, Sullivan Matrinet, FRA, F, 1.74, 69, 01-07-96, Saint-Brieuc, None
+15, Jérémy Sorbon, FRA, D, 1.83, 79, 05-08-83, Caen, Caen
+16, Théo Guivarch, FRA, G, 1.95, 87, 17-11-95, Lorient, Lorient
+17, Étienne Didot, FRA, M, 1.75, 65, 24-07-83, Paimpol, Toulouse
+19, Yannis Salibur, FRA, M, 1.76, 74, 24-01-91, St-Denis, Clermont
+21, Ludovic Blas, FRA, M, 1.80, 64, 31-12-97, Colombes, None
+22, Jonathan Martins Pereira, FRA, D, 1.82, 71, 30-01-86, Bayonne, Troyes
+23, Jimmy Briand, FRA, F, 1.81, 84, 02-05-85, Vitry-sur-Seine, Hannover 96
+24, Marcus Coco, FRA, M, 1.84, 76, 24-06-96, Les Abymes, None
+25, Reynald Lemaître, FRA, D, 1.75, 66, 28-06-83, Chambray-lès-Tours, Nancy
+26, Thibault Giresse, FRA, M, 1.72, 68, 25-05-81, Talence, Amiens
+27, Mathieu Bodmer, FRA, M, 1.90, 91, 22-11-82, Evreux, Nice
+29, Christophe Kerbrat, FRA, D, 1.83, 74, 02-08-86, Brest, Plabennec
+30, Romain Salin, FRA, G, 1.85, 70, 29-07-84, Mayenne, Marítimo
+31, Jérémy Livolant, FRA, M, 1.75, 70, 09-01-98, Morlaix, None
+50, Johnny Placide, HAI, G, 1.81, 84, 29-01-88, Montfermeil, Reims
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Angoua Brou Benjamin, CIV, D, 1.78, 69, 28-11-86, Anyama, New England Revolution (On Loan)

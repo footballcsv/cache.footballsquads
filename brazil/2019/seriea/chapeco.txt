@@ -1,0 +1,53 @@
+=  Chapecoense - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Ricardo, BRA, G, 1.88, 78, 06-09-88, Mariano Moro, América Mineiro
+2, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Atlético Paranaense
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Fluminense
+4, Neto, BRA, D, 1.95, 94, 16-08-85, Rio de Janeiro, Santos
+6, Bruno Pacheco, BRA, D, 1.74, 74, 08-12-91, Pitangueiras, Bragantino
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Flamengo
+9, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Cruzeiro
+10, Gustavo Campanharo, BRA, M, 1.78, 66, 04-04-92, Caxias do Sul, Ludogorets Razgrad
+12, Diego Torres, ARG, M, 1.74, 70, 06-11-90, Villa Nueva, Deportes Iquique
+15, Ronei, BRA, M, 1.75, 70, 22-02-98, Três Passos, None
+19, Renato, BRA, M, 1.75, 65, 19-01-90, Maceió, Avaí
+20, Augusto César, BRA, M, 1.78, 69, 06-08-92, Porto Alegre, Querétaro
+22, Caíque Sá, BRA, D, 1.70, 63, 23-05-92, Riachão do Jacuípe, Joinville
+23, Douglas Bacelar, BRA, D, 1.90, 84, 04-04-90, São Paulo, São Paulo
+25, Yann Rolim, BRA, M, 1.73, 68, 15-03-95, Osório, Barra
+27, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Santos
+29, Dalberto, BRA, F, 1.82, 75, 15-09-94, Bento Fernandes, Juventude
+31, Bryan, BRA, D, 1.76, 74, 03-08-96, Salvador, Juventude
+33, Rafael Pereira, BRA, D, 1.83, 73, 18-11-84, Rio do Sul, Ceará
+35, Hiago, BRA, D, 1.91, 81, 04-11-97, São Jerônimo, None
+40, Thiago Santos, BRA, F, 1.78, 70, 12-04-95, Mari, Flamengo
+44, Maurício Ramos, BRA, D, 1.86, 80, 10-04-85, Piracicaba, Al-Sailiya
+55, Amaral, BRA, M, 1.82, 67, 07-10-86, Goiânia, Palmeiras
+63, Vini Locatelli, BRA, M, 1.83, 77, 23-03-98, Campo Grande, None
+77, Everaldo, BRA, F, 1.81, 80, 05-07-91, Garibaldi, Querétaro
+83, Régis, BRA, F, 1.79, 73, 16-01-98, Xanxerê, None
+85, Tharlis, BRA, M, 1.81, 77, 07-01-98, Maravilha, None
+86, Elicarlos, BRA, M, 1.76, 72, 08-06-85, Laranjeiras, Santa Cruz
+88, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Internacional
+89, Vagner, BRA, G, 1.91, 82, 24-08-89, Bom Sucesso do Sul, Palmeiras
+90, Roberto, BRA, D, 1.76, 76, 04-12-90, Picos, Santa Cruz
+91, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Grêmio
+95, Elias Curzel, BRA, G, 1.86, 74, 12-07-95, Vacaria, Juventude
+98, Tiepo, BRA, G, 1.83, 80, 08-02-98, São Domingos, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Vinícius Freitas, BRA, D, 1.82, 78, 07-03-93, Rio de Janeiro, Botafogo-SP (On Loan)
+16, Edgardo Orzuza, PAR, M, 1.73, 73, 22-06-90, Paraguarí, Nacional [PAR]
+11, Victor Andrade, BRA, F, 1.71, 60, 30-09-95, Aracajú, Estoril
+13, Lourency, BRA, F, 1.78, 74, 02-01-96, Imperatriz, Gil Vicente
+99, Pedro Perotti, BRA, F, 1.85, 77, 22-11-97, Chapecó, Nacional [POR] (On Loan)
+29, Bruno Silva, BRA, F, 1.70, 64, 28-03-00, Carazinho, Atlético Mineiro (On Loan)
+7, Rildo, BRA, F, 1.80, 67, 20-03-89, São Paulo, Daegu
+30, Marcos Vinícius, BRA, M, 1.78, 70, 26-12-94, Marabá, Botafogo
+34, Joílson, BRA, D, 1.90, 83, 25-05-91, Osasco, São Bento (On Loan)
+21, Ernandes, BRA, M, 1.73, 71, 11-11-87, São Felix do Araguaia, 
+28, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Goiás (On Loan)
+18, Aylon, BRA, F, 1.80, 70, 07-04-92, Esteio, Atlético Goianiense (On Loan)

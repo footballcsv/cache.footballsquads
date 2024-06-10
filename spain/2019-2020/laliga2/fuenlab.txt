@@ -1,0 +1,44 @@
+=  Fuenlabrada - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pablo Alcolea, ESP, G, 1.84, 78, 23-03-89, Zaragoza, Salamanca
+3, Antonio Cristian, ESP, D, 1.84, 78, 18-10-95, Algeciras, Alavés
+4, David Prieto, ESP, D, 1.85, 80, 02-01-83, Seville, Mirandés
+5, Juanma, ESP, D, 1.85, 82, 18-10-82, Las Palmas, Numancia
+6, Ibán Salvador, EQG, F, 1.70, 68, 11-12-95, L'Hospitalet de Llobregat, Celta Vigo B
+7, Hugo Fraile, ESP, M, 1.70, 62, 16-03-87, Huelva, Elche
+8, Cristóbal, ESP, M, 1.80, 76, 21-04-84, Madrid, Anorthosis Famagusta
+9, Jeisson Martínez, PER, F, 1.80, 72, 28-12-94, Lima, Murcia
+10, Randy Nteka, FRA, M, 1.89, 75, 06-12-97, Paris, Fuenlabrada B
+11, Sekou Gassama, SEN, F, 1.90, 85, 06-05-95, Granollers, Valladolid
+13, Pol Freixanet, ESP, G, 1.91, 80, 22-08-91, Manresa, Reus
+14, Pablo Clavería, ESP, M, 1.78, 74, 01-04-96, Madrid, Málaga B
+15, Chico, ESP, D, 1.87, 75, 06-03-87, Cádiz, Rubin Kazan
+17, José Rodríguez, ESP, M, 1.80, 68, 16-12-94, Villajoyosa, Málaga
+18, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Rayo Vallecano
+19, Míkel Iribas, ESP, D, 1.84, 78, 13-04-88, San Sebastián, Alcorcón
+20, Anderson Emanuel, ANG, F, 1.75, 67, 09-04-96, Luanda, Alavés
+21, Oriol Riera, ESP, F, 1.84, 78, 03-07-86, Vic, Western Sydney W
+22, Pathé Ciss, SEN, M, 1.83, 71, 16-03-94, Dakar, União da Madeira
+23, José Fran, ESP, M, 1.77, 74, 01-06-92, Santa Pola, Hércules
+24, Caye Quintana, ESP, F, 1.78, 69, 20-12-93, Huelva, Cádiz
+26, Alejandro Sotillos, ESP, D, 1.80, 72, 28-01-98, Madrid, Real Madrid B
+27, Dani Fernández, ESP, D, 1.76, 63, 30-04-97, Madrid, Real Madrid B
+28, Alberto, ESP, M, 1.66, 58, 09-07-99, Moratalla, Real Madrid B
+29, Luis Peteiro, ESP, D, , , 26-05-98, Madrid, Betis San Isidro
+30, Álvaro Ruvira, ESP, G, 1.85, 75, 23-03-00, Pinoso, Fuenlabrada B
+32, Joan Femenías, ESP, G, 1.89, 79, 19-08-96, Manacor, Villarreal B
+34, Miller Cardona, COL, M, , , 03-09-98, , Fuenlabrada B
+35, Guti, ESP, M, , , 29-12-99, Leganés, Fuenlabrada B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Carlos Caballero, ESP, M, 1.78, 75, 05-10-84, Alcorcón, Retired
+35, Kleandro Lleshi, ALB, M, 1.89, 70, 09-10-99, Tirana, Leganés B
+11, Javi Gómez, ESP, F, 1.74, 66, 10-01-99, Toledo, Celta Vigo B (On Loan)
+12, Borja Lázaro, ESP, F, 1.89, 83, 05-04-88, Madrid, Algeciras
+2, Miguel Rubio, ESP, D, 1.91, 86, 11-03-98, Leganés, Getafe B
+16, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, 
+17, Héctor Hernández, ESP, F, 1.80, 72, 14-09-95, Las Palmas, 
+1, Biel, ESP, G, 1.86, 82, 02-12-85, Palma de Mallorca, 

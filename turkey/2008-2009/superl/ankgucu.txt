@@ -1,0 +1,50 @@
+=  Ankaragücü - Turkish Süper Lig 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Serkan Kırıntılı, TUR, G, 1.85, 78, 15-02-85, Karataş, Adanaspor
+2, Ihsan Burak Özsaraç, TUR, D, 1.85, 82, 07-06-79, Karabük, Konyaspor
+3, Elyasa Süme, TUR, D, 1.84, 76, 13-08-83, Wesel, Diyarbakırspor
+6, Onur Acar, TUR, M, 1.79, 77, 01-01-83, Ankara, None
+9, Jabá, BRA, F, 1.65, 66, 20-05-81, Araripina, Ankaraspor
+10, Mehmet Yılmaz, TUR, F, 1.85, 80, 22-05-79, Of, Ankaraspor
+11, Murat Duruer, TUR, M, 1.82, 77, 15-01-88, Gerede, None
+12, Antonio De Nigris, MEX, F, 1.85, 80, 01-04-78, Monterrey, Ankaraspor
+13, Luiz Henrique, BRA, D, 1.77, 76, 23-09-82, Campo Grande, Santo André
+14, Abdulaziz Solmaz, TUR, M, 1.76, 72, 07-08-88, Araklı, Trabzonspor
+15, Ismaël Bouzid, ALG, D, 1.90, 86, 21-07-83, Nancy, Troyes
+16, Ceyhun Eriş, TUR, M, 1.80, 79, 15-05-77, Istanbul, FC Seoul
+17, Ufuk Bayraktar, TUR, M, 1.76, 66, 01-01-86, Trabzon, Trabzonspor
+18, Semavi Özgür, TUR, M, 1.72, 56, 06-02-82, , Kocaelispor
+19, Çağrı Yasan, TUR, F, 1.75, 68, 23-01-90, Altındağ, None
+20, Mert Erdoğan, TUR, M, 1.80, 75, 01-03-89, Ereğli, None
+21, Metin Akan, TUR, F, 1.83, 73, 28-05-83, Bursa, Manisaspor
+22, Bayram Olgun, TUR, G, 1.85, 80, 06-04-90, Van, None
+23, Barbaros Barut, TUR, M, 1.82, 72, 26-01-83, Munich, Kasımpaşa
+24, Özgür Öçal, TUR, M, 1.75, 70, 05-10-81, Istanbul, Eskişehirspor
+25, İbrahim Ege, TUR, M, 1.74, 69, 03-02-83, Erzurum, Denizlispor
+27, Leonardo Iglesias, ARG, M, 1.90, 80, 23-05-79, Buenos Aires, Kayserispor
+30, Özgür Bayer, TUR, D, 1.82, 75, 04-04-79, Saribeyler, Kocaelispor
+34, Kerem Şeras, TUR, M, 1.75, 78, 01-01-84, Ankara, Gençlerbirliği
+35, Bora Körk, TUR, G, 1.87, 78, 09-06-80, İzmir, Sakaryaspor
+39, İlkem Özkaynak, TUR, D, 1.82, 76, 01-05-82, Kirklareli, Erciyesspor
+50, Umut Can Yüksel, TUR, G, 1.89, 90, 01-01-92, Ankara, None
+61, Hasan Üçüncü, TUR, M, 1.77, 74, 16-11-80, Sürmene, Trabzonspor
+77, Zafer Özgültekin, TUR, G, 1.83, 73, 10-03-76, Kangal, Eskişehirspor
+83, Leandro Chaves, BRA, M, 1.77, 74, 19-04-84, Duque de Caxias, Rizespor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+64, Yusuf Soysal, TUR, G, 1.93, 87, 26-04-82, Frankfurt am Main, Kayserispor
+14, Rıdvan Okuş, TUR, D, 1.86, 78, 11-05-90, Adaklı, Zeytinburnu (On Loan)
+61, Emre Hamzaoğlu, TUR, M, 1.73, 72, 23-11-84, Trabzon, Erzurumspor (On Loan)
+5, Tolga Doğantez, TUR, D, 1.82, 77, 22-02-75, Izmir, Manisaspor
+55, Moïne Chaâbani, TUN, D, 1.92, 89, 18-06-81, Béja, Espérance
+17, Tevfik Altındağ, TUR, M, 1.80, 71, 26-10-88, Boblingen, Sivasspor
+28, Mustafa Aydın, TUR, D, 1.87, 80, 30-04-86, Istanbul, Sakaryaspor (On Loan)
+38, Burak Karaduman, TUR, M, 1.74, 74, 23-02-85, Ankara, Sakaryaspor
+7, Gökhan Emreciksin, TUR, M, 1.80, 74, 10-09-84, Istanbul, Fenerbahçe
+58, Abdülkadir Kayalı, TUR, M, 1.76, 74, 30-01-91, Altındağ, Fenerbahçe
+8, Cem Can, TUR, M, 1.79, 72, 01-04-81, Ankara, Gençlerbirliği
+99, Anil Karaer, TUR, D, 1.85, 75, 04-07-88, Istanbul, Galatasaray
+33, Murat Erdoğan, TUR, M, 1.82, 77, 01-08-76, Hackney, Sivasspor

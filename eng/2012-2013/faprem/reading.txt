@@ -1,0 +1,48 @@
+=  Reading - English Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Federici, AUS, G, 1.88, 90, 31-01-85, Nowra, Sassari Torres
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+3, Nicky Shorey, ENG, D, 1.75, 67, 19-02-81, Romford, WBA
+4, Jem Karacan, TUR, M, 1.78, 76, 21-02-89, Catford, None
+5, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, None
+6, Adrian Mariappa, JAM, D, 1.80, 70, 03-10-86, Harrow, Watford
+7, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, Fulham
+8, Mikele Leigertwood, ATG, D, 1.88, 78, 12-11-82, Enfield, QPR
+9, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Rotherham U
+10, Noel Hunt, IRL, F, 1.73, 72, 26-12-82, Waterford, Dundee U
+11, Jobi McAnuff, JAM, M, 1.80, 72, 09-11-81, Edmonton, Watford
+12, Garath McCleary, ENG, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+14, Jimmy Kébé, MLI, M, 1.87, 73, 19-01-84, Vitry-sur-Seine, Lens
+15, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Swindon T
+16, Jay Tabb, IRL, M, 1.70, 64, 21-02-84, Tooting, Coventry C
+17, Kaspars Gorkšs, LVA, D, 1.91, 85, 06-11-81, Riga, QPR
+18, Simon Church, WAL, F, 1.83, 84, 10-12-88, High Wycombe, None
+19, Hal Robson-Kanu, WAL, F, 1.70, 74, 21-05-89, Acton, None
+20, Danny Guthrie, ENG, M, 1.75, 73, 18-04-87, Shrewsbury, Newcastle U
+21, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, None
+22, Nicholas Bignall, ENG, F, 1.77, 81, 11-07-90, Reading, None
+23, Ian Harte, IRL, D, 1.77, 78, 31-08-77, Drogheda, Carlisle U
+24, Shaun Cummings, ENG, D, 1.83, 76, 25-02-89, Hammersmith, Chelsea
+25, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, None
+26, Brynjar Gunnarsson, ISL, D, 1.85, 77, 16-10-75, Reykjavik, Watford
+27, Stephen Kelly, IRL, D, 1.84, 82, 06-09-83, Dublin, Fulham
+28, Hope Akpan, ENG, M, 1.83, 67, 14-08-91, Liverpool, Crawley T
+29, Daniel Carriço, POR, D, 1.80, 75, 04-08-88, Cascais, Sporting CP
+30, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Sheffield U
+31, Mikkel Andersen, DEN, G, 1.95, 80, 17-12-88, Herlev, AB København
+32, Nick Arnold, ENG, D, 1.80, 82, 03-07-93, Tadley, None
+33, Jason Roberts, GRN, F, 1.85, 92, 25-01-78, Park Royal, Blackburn R
+34, Angus MacDonald, ENG, D, 1.84, 70, 15-10-92, Winchester, None
+35, Michael Hector, ENG, D, 1.93, 82, 19-07-92, Newham, Thurrock
+36, Gozie Ugwu, ENG, F, 1.87, 76, 22-04-93, Oxford, None
+37, Jordan Obita, ENG, F, 1.80, 73, 08-12-93, Oxford, None
+38, Charlie Losasso, ENG, M, 1.82, 72, 11-11-92, Marlow, None
+40, Lawson D'Ath, ENG, M, 1.75, 77, 24-12-92, Witney, None
+41, Stuart Taylor, ENG, G, 1.96, 86, 28-11-80, Romford, Manchester C
+42, Jonathan Henly, ENG, G, 1.93, 83, 07-06-94, Reading, None
+43, Josh Webb, ENG, M, 1.80, 76, 10-08-95, Reading, None
+44, Dominic Samuel, ENG, F, 1.82, 89, 01-04-94, Southwark, None
+45, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, AIS
+46, Matt Partridge, ENG, D, 1.90, 84, 24-10-94, Reading, None
+47, Pierce Sweeney, IRL, D, 1.83, 80, 11-09-94, Dublin, Bray W

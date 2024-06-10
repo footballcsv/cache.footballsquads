@@ -1,0 +1,50 @@
+=  Brentford - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Raya, ESP, G, 1.83, 80, 15-09-95, Barcelona, Blackburn R
+2, Dominic Thompson, ENG, D, 1.85, 75, 26-07-00, Willesden, Arsenal
+3, Rico Henry, ENG, D, 1.70, 66, 08-07-97, Birmingham, Walsall
+4, Dru Yearwood, ENG, M, 1.75, 63, 17-02-00, Harlow, Southend U
+5, Ethan Pinnock, ENG, D, 1.92, 79, 29-05-93, Lambeth, Barnsley
+6, Christian Nørgaard, DEN, M, 1.86, 75, 10-03-94, Copenhagen, Fiorentina
+7, Sergi Canós, ESP, F, 1.73, 75, 02-02-97, Nules, Norwich C
+8, Mathias Jensen, DEN, M, 1.80, 68, 01-01-96, Horsens, Celta Vigo
+9, Nikos Karelis, GRE, F, 1.79, 75, 24-02-92, Rethymno, KRC Genk
+10, Saïd Benrahma, ALG, F, 1.72, 67, 10-08-95, Aïn Témouchent, Nice
+11, Ollie Watkins, ENG, F, 1.79, 70, 30-12-95, Torbay, Exeter C
+12, Kamohelo Mokotjo, RSA, M, 1.67, 63, 11-03-91, Odendaalrus, FC Twente
+13, Patrik Gunnarsson, ISL, G, 1.90, 84, 15-11-00, Kópavogur, Breiðablik
+14, Josh Dasilva, ENG, F, 1.80, 75, 23-10-98, Redbridge, Arsenal
+15, Marcus Forss, FIN, F, 1.86, 73, 18-06-99, Turku, WBA
+16, Joel Valencia, ECU, M, 1.64, 61, 16-11-94, Quinindé, Piast Gliwice
+17, Emiliano Marcondes, DEN, M, 1.83, 75, 09-03-95, Hvidovre, FC Nordsjælland
+18, Pontus Jansson, SWE, D, 1.94, 89, 13-02-91, Arlöv, Leeds U
+19, Bryan Mbeumo, FRA, F, 1.71, 65, 07-08-99, Avallon, Troyes
+21, Halil Dervişoğlu, TUR, F, 1.83, 75, 08-12-99, Rotterdam, Sparta Rotterdam
+22, Henrik Dalsgaard, DEN, D, 1.89, 79, 27-07-89, Roum, Zulte-Waregem
+23, Julian Jeanvier, GUI, D, 1.83, 78, 31-03-92, Clichy, Reims
+24, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, Oxford U
+25, Ellery Balcombe, ENG, G, 1.83, 76, 15-10-99, Watford, None
+26, Shandon Baptiste, GRN, M, 1.80, 67, 08-04-98, , Oxford U
+28, Luke Daniels, ENG, G, 1.93, 81, 05-01-88, Bolton, Scunthorpe U
+31, Jan Žambůrek, CZE, M, 1.82, 70, 13-02-01, , Slavia Prague
+32, Luka Račić, DEN, D, 1.87, 74, 08-05-99, Greve, FC København
+33, Fredrik Hammar, SWE, M, 1.76, 71, 26-02-01, , Akropolis IF
+34, Jaakko Oksanen, FIN, D, 1.84, 72, 07-11-00, Helsinki, HJK Helsinki
+35, Mads Roerslev, DEN, D, 1.85, 74, 24-06-99, Copenhagen, FC København
+36, Gustav Mogensen, DEN, F, 1.90, 78, 19-04-01, Pindstrup, Aarhus
+37, Arthur Read, ENG, M, 1.78, 64, 03-11-99, Leighton Buzzard, Luton T
+38, Joe Adams, WAL, M, 1.76, 62, 13-02-01, Bolton, Bury
+39, Japhet Sery Larsen, DEN, D, 1.78, 72, 10-04-00, , FC Midtjylland
+40, Kevin O'Connor, IRL, D, 1.80, 76, 24-02-82, Blackburn, None
+41, Nathan Shepperd, WAL, G, 1.80, 71, 10-09-00, Pontypridd, Swansea C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Justin Shaibu, DEN, F, 1.81, 84, 28-10-97, Copenhagen, Boreham Wood (On Loan)
+9, Neal Maupay, FRA, F, 1.71, 69, 14-08-96, Versailles, Brighton & HA
+24, Chiedozie Ogbene, IRL, M, 1.75, 75, 01-05-97, Enugu, Rotherham U
+29, Mads Bech Sørensen, DEN, D, 1.85, 73, 07-01-99, Horsens, AFC Wimbledon (On Loan)
+20, Josh Clarke, ENG, M, 1.73, 70, 05-07-94, Waltham Forest, 
+30, Tom Field, IRL, D, 1.77, 70, 14-03-97, Kingston upon Thames, Dundee

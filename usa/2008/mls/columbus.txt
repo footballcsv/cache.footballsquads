@@ -1,0 +1,42 @@
+=  Columbus Crew - USA Major League Soccer 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Will Hesmer, USA, G, 1.88, 88, 23-11-81, Wilson, Kansas City Wizards
+2, Frankie Hejduk, USA, D, 1.74, 71, 05-08-74, La Mesa, St Gallen
+3, Brad Evans, USA, F, 1.85, 73, 20-04-85, Phoenix, UC Irvine
+4, Gino Padula, ARG, D, 1.75, 81, 11-08-76, Lanús, Montpellier
+5, Danny O'Rourke, USA, M, 1.83, 75, 31-05-83, Columbus, New York Red Bulls
+6, Andy Iro, ENG, D, 1.96, 93, 26-11-84, Liverpool, UC Santa Barbara
+7, Guillermo Barros Schelotto, ARG, F, 1.71, 71, 04-05-73, La Plata, Boca Juniors
+8, Duncan Oughton, NZL, M, 1.75, 73, 14-06-77, Wellington, Cal State Fullerton
+9, Jason Garey, USA, F, 1.83, 82, 19-07-84, Gonzales, Univ of Maryland
+10, Alejandro Moreno, VEN, F, 1.75, 77, 08-07-79, Barquisimeto, Houston Dynamo
+11, Pat Noonan, USA, F, 1.83, 79, 02-08-80, Ballwin, Aalesund
+12, Eddie Gaven, USA, M, 1.83, 66, 25-10-86, Hamilton, NJ, MetroStars
+13, Andrew Peterson, USA, D, 1.80, 77, 06-12-84, Edina, Cleveland City Stars
+14, Chad Marshall, USA, D, 1.91, 86, 22-08-84, Riverside, Stanford Univ
+15, Stefani Miglioranzi, BRA, M, 1.86, 81, 20-09-77, Pacos de Caldas, LA Galaxy
+16, Brian Carroll, USA, M, 1.78, 69, 20-07-81, Springfield, DC United
+17, Emmanuel Ekpo, NGA, M, 1.88, 75, 20-12-87, Ekori, Enyimba International
+18, Kenny Schoeni, USA, G, 1.90, 80, 04-01-84, Cincinnati, UC Irvine
+19, Robbie Rogers, USA, F, 1.78, 82, 12-05-87, Palos Verdes, SC Heerenveen
+20, Brian Plotkin, USA, M, 1.75, 68, 03-08-84, Lisle, Chicago Fire
+22, Adam Moffat, SCO, M, 1.83, 87, 15-05-86, Linwood, Cleveland City Stars
+23, Ezra Hendrickson, VIN, D, 1.91, 84, 16-01-72, Layou, Chivas USA
+24, Jed Zayner, USA, D, 1.80, 75, 13-12-84, Orland Park, Indiana Univ
+25, George Josten, USA, F, 1.83, 82, 12-05-86, Idaho Falls, Gonzaga Univ
+26, Cory Elenio, USA, M, 1.85, 75, 14-08-86, Ann Arbor, Univ of Evansville
+27, Ryan Junge, USA, D, 1.86, 85, 07-09-84, Omaha, Creighton Univ
+29, Ricardo Pierre-Louis, HAI, F, 1.85, 82, 02-11-84, Léogâne, Lee Univ
+30, Andy Gruenebaum, USA, G, 1.85, 91, 30-12-82, Overland Park, Des Moines Menace
+31, Stanley Nyazamba, ZIM, M, 1.85, 78, 06-01-83, Bulawayo, Richmond Kickers
+32, Steven Lenhart, USA, F, 1.86, 86, 28-08-86, Jacksonville, Azusa Pacific Univ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Leonard Griffin, USA, D, 1.85, 84, 11-09-82, Pasadena, Portland Timbers
+17, Kevin Burns, USA, M, 1.85, 80, 22-03-85, Indianapolis, De-Registered
+11, Guilherme Só, BRA, F, 1.83, 73, 22-04-86, Porto Alegre, 
+20, Nicolás Hernández, ARG, F, 1.78, 77, 05-04-79, Buenos Aires, 
+21, Ryan Miller, USA, D, 1.80, 75, 14-12-84, Barrington, DC United

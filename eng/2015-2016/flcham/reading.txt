@@ -1,0 +1,52 @@
+=  Reading - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan Bond, ENG, G, 1.93, 84, 19-05-93, Hemel Hempstead, Watford
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+3, Andrew Taylor, ENG, D, 1.78, 69, 01-08-86, Hartlepool, Wigan Ath
+4, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Manchester C
+5, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, Hull C
+6, Oliver Norwood, NIR, M, 1.80, 76, 12-04-91, Burnley, Huddersfield T
+7, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Watford
+8, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Chelsea
+9, Hal Robson-Kanu, WAL, F, 1.70, 74, 21-05-89, Acton, None
+10, Deniss Rakeļs, LVA, F, 1.79, 73, 20-08-92, Jēkabpils, Cracovia Kraków
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+15, Anton Ferdinand, ENG, D, 1.83, 71, 18-02-85, Peckham, Antalyaspor
+17, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, Chelsea
+18, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, None
+19, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Espanyol
+20, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, Benfica
+21, Stephen Quinn, IRL, M, 1.68, 60, 04-04-86, Dublin, Hull C
+23, Daniel Williams, USA, M, 1.80, 76, 08-03-89, Karlsruhe, 1899 Hoffenheim
+24, Pierce Sweeney, IRL, D, 1.83, 80, 11-09-94, Dublin, Bray W
+26, Ali Al-Habsi, OMA, G, 1.94, 79, 30-12-81, Muscat, Wigan Ath
+28, Aaron Kuhl, ENG, M, 1.73, 66, 30-01-96, Paulton, None
+29, Yann Kermorgant, FRA, F, 1.84, 84, 08-11-81, Vannes, Bournemouth
+31, Simon Cox, IRL, F, 1.80, 70, 28-04-87, Reading, Nottingham F
+32, Sean Long, IRL, D, 1.78, 70, 02-05-95, Dublin, Cherry Orchard
+33, Shane Griffin, IRL, D, 1.80, 65, 08-09-94, Cork, None
+34, Niall Keown, ENG, D, 1.83, 66, 05-04-95, Oxford, None
+35, Jake Cooper, ENG, D, 1.93, 85, 03-02-95, Bracknell, None
+36, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Marquette Univ
+37, Jack Stacey, ENG, M, 1.80, 68, 06-04-96, Bracknell, None
+38, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, None
+39, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, None
+40, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Portsmouth
+41, Rowan Liburd, ENG, F, 1.94, 85, 28-08-92, Croydon, Billericay T
+43, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, None
+45, Dominic Hyam, SCO, D, 1.88, 70, 20-12-95, Leuchars, None
+46, Rob Dickie, ENG, D, 1.83, 74, 03-03-96, Wokingham, None
+49, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Hope Akpan, ENG, M, 1.83, 67, 14-08-91, Liverpool, Blackburn R
+7, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, Dynamo Moscow
+22, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Derby Co
+25, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, Exeter C
+10, Orlando Sá, POR, F, 1.88, 85, 26-05-88, Barcelos, Maccabi Tel Aviv
+16, Paolo Hurtado, PER, M, 1.77, 67, 27-07-90, Callao, Vitória Guimarães (On Loan)
+30, Dominic Samuel, ENG, F, 1.82, 89, 01-04-94, Southwark, Gillingham (On Loan)

@@ -1,0 +1,41 @@
+=  Hertha Berlin - German Bundesliga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jaroslav Drobný, CZE, G, 1.92, 88, 18-10-79, Počátky, Bochum
+2, Kaká, BRA, D, 1.87, 81, 16-05-81, São José do Belmonte, Académica
+3, Arne Friedrich, GER, D, 1.85, 76, 29-05-79, Bad Oeynhausen, Arminia Bielefeld
+4, Steve von Bergen, SUI, D, 1.81, 76, 10-06-83, Neuchâtel, Zürich
+5, Sofian Chahed, TUN, M, 1.78, 73, 18-04-83, Berlin, None
+6, Marko Babić, CRO, M, 1.86, 72, 21-01-81, Osijek, Betis
+7, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Tombense
+8, Pál Dárdai, HUN, M, 1.79, 78, 16-03-76, Pécs, BVSC Budapest
+9, Marko Pantelić, SRB, F, 1.83, 80, 15-09-78, Belgrade, Crvena Zvezda
+10, Raffael, BRA, F, 1.74, 69, 28-03-85, Fortaleza, Zürich
+11, Andriy Voronin, UKR, F, 1.77, 79, 21-07-79, Odessa, Liverpool
+12, Christian Fiedler, GER, G, 1.80, 76, 27-03-75, Berlin, Lichtenrader BC
+13, Marc Stein, GER, D, 1.84, 74, 07-07-85, Potsdam, Hansa Rostock
+14, Josip Šimunić, CRO, D, 1.95, 89, 18-02-78, Canberra, Hamburg
+15, Rodnei, BRA, D, 1.90, 91, 11-09-85, São Paulo, Pão de Açúcar
+16, Lúcio, BRA, D, 1.76, 68, 20-06-79, Recife, Palmeiras
+17, Bryan Arguez, USA, M, 1.88, 75, 13-01-89, Miami, DC United
+20, Patrick Ebert, GER, M, 1.72, 68, 17-03-87, Potsdam, None
+22, Leandro Cufré, ARG, D, 1.77, 80, 09-05-78, La Plata, Monaco
+23, Valeri Domovchiyski, BUL, F, 1.80, 73, 05-10-86, Plovdiv, Levski Sofia
+25, Maximilian Nicu, GER, M, 1.87, 74, 25-11-82, Prien am Chiemsee, Wehen-Wiesbaden
+26, Łukasz Piszczek, POL, D, 1.84, 73, 03-06-85, Czechowice- Dziedzice, Gwarek Zabrze
+27, Amine Chermiti, TUN, F, 1.76, 68, 26-12-87, Sfax, Étoile du Sahel
+28, Fabian Lustenberger, SUI, M, 1.80, 63, 02-05-88, Nebikon, Luzern
+29, Sascha Bigalke, GER, M, 1.67, 56, 08-01-90, Berlin, None
+30, Christopher Gäng, GER, G, 1.89, 88, 10-05-88, Mannheim, None
+35, Shervin Radjabali-Fardi, GER, D, 1.75, 65, 17-05-91, Berlin, None
+36, Lennart Hartmann, GER, M, 1.70, 68, 03-04-91, Berlin, None
+37, Patrick Sobtzik, GER, G, 1.82, 76, 11-06-90, Berlin, None
+38, Ibrahima Traoré, GUI, M, 1.72, 62, 21-04-88, Villepinte, Levallois
+39, Florian Riedel, GER, M, 1.76, 70, 09-04-90, Werdau, None
+40, Sascha Burchert, GER, G, 1.85, 68, 30-10-89, Berlin, None
+44, Gojko Kačar, SRB, M, 1.86, 79, 26-01-87, Novi Sad, Vojvodina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Solomon Okoronkwo, NGA, F, 1.82, 77, 02-03-87, Enugu, Saturn

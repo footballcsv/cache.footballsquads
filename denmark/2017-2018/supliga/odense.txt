@@ -1,0 +1,38 @@
+=  Odense - Danish Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Mikkelsen, DEN, G, 1.90, 93, 27-08-83, , Fredericia
+2, Kenneth Emil Petersen, DEN, D, 1.87, 83, 15-01-85, Copenhagen, Aalborg
+4, Ryan Johnson Laursen, DEN, D, 1.85, 76, 14-04-92, Los Angeles, Esbjerg
+5, João Pereira, POR, D, 1.83, 79, 10-05-90, Santarém, SønderjyskE
+6, Jeppe Tverskov, DEN, D, 1.85, 84, 12-03-93, Copenhagen, Randers
+7, Jóan Símun Edmundsson, FRO, F, 1.84, 81, 26-07-91, Toftir, Vejle
+8, André Rømer, DEN, M, 1.86, 78, 18-07-93, Køge, FC Midtjylland
+9, Rasmus Jönsson, SWE, F, 1.92, 70, 27-01-90, Helsingborg, Aalborg
+10, Rasmus Festersen, DEN, F, 1.78, 76, 26-08-86, Viborg, FC Vestsjælland
+11, Casper Nielsen, DEN, M, 1.82, 71, 29-04-94, Esbjerg, Esbjerg
+13, Sten Grytebust, NOR, G, 1.87, 86, 25-10-89, Ålesund, Aalesund
+14, Jens Thomasen, DEN, M, 1.81, 73, 25-06-96, , None
+15, Nicklas Helenius, DEN, F, 1.95, 83, 08-05-91, Svenstrup, Aalborg
+16, Julius Eskesen, DEN, M, 1.75, 68, 16-03-99, Odense, None
+17, Jacob Buus, DEN, D, 1.77, 67, 07-03-97, , None
+18, Mathias Thrane, DEN, M, 1.91, 86, 04-09-93, , Aalborg
+19, Mikkel Desler, DEN, D, 1.87, 77, 19-02-95, Assens, None
+20, Jacob Laursen, DEN, D, 1.79, 76, 17-11-94, Arden, Juventus
+21, Mathias Greve, DEN, M, 1.86, 75, 11-02-95, Langeskov, None
+22, Nana Welbeck, GHA, M, 1.79, 64, 24-11-94, Accra, Krka
+23, Troels Kløve, DEN, M, 1.77, 75, 23-10-90, , SønderjyskE
+24, Marco Lund, DEN, D, 1.83, 84, 30-06-96, Ansager, Esbjerg
+25, Mohammed Fellah, NOR, M, 1.67, 70, 24-05-89, Oslo, FC Nordsjælland
+27, Oliver Christensen, DEN, G, 1.90, 82, 22-03-99, Kerteminde, None
+28, Anders Jacobsen, DEN, F, 1.81, 77, 27-10-89, , Aalborg
+35, Mathias Jørgensen, DEN, F, 1.85, 69, 20-09-00, Hundested, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Yao Dieudonne, CIV, M, 1.78, 72, 14-02-97, , Vendsyssel (On Loan)
+3, Frederik Tingager, DEN, D, 1.98, 94, 22-02-93, Holbæk, Eintracht Braunschweig
+15, Izunna Uzochukwu, NGA, M, 1.71, 70, 11-04-90, , Meizhou Hakka
+29, Kristian Weber, DEN, F, 1.81, 70, 03-01-97, , Marienlyst
+25, Nicklas Helenius, DEN, F, 1.95, 83, 08-05-91, Svenstrup, Re-Registered (15)

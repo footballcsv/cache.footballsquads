@@ -1,0 +1,51 @@
+=  Deportivo La Coruña - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Giménez, ESP, G, 1.82, 77, 30-07-83, Vigo, Betis
+2, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Las Palmas
+3, Michele Somma, ITA, D, 1.82, 77, 16-03-95, Salerno, Bari
+4, Alex Bergantiños, ESP, M, 1.77, 71, 07-06-85, La Coruña, Deportivo B
+5, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, Rayo Vallecano
+6, Peru Nolaskoain, ESP, D, 1.85, 76, 25-10-98, Zumaia, Athletic Bilbao B
+7, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Oviedo
+8, Vicente Gómez, ESP, M, 1.86, 74, 31-08-88, Las Palmas, Las Palmas
+9, Christian Santos, VEN, F, 1.84, 70, 24-03-88, Puerto Ordaz, Alavés
+10, Ager Aketxe, ESP, M, 1.75, 67, 30-12-93, Bilbao, Cádiz
+11, Víctor Mollejo, ESP, F, 1.76, 75, 21-01-01, Alcázar de San Juan, Atlético Madrid B
+13, Aleksandar Jovanović, SRB, G, 1.91, 86, 06-12-92, Niš, Huesca
+14, Luis Ruiz, ESP, D, 1.81, 73, 30-06-92, Huelva, Lugo
+15, Francisco Montero, ESP, D, 1.80, 75, 14-01-99, Seville, Atlético Madrid B
+16, Sabin Merino, ESP, F, 1.87, 76, 04-01-92, Urduliz, Leganés
+17, Emre Çolak, TUR, M, 1.69, 67, 20-05-91, Eminönü, Al-Wahda
+19, Mamadou Koné, CIV, F, 1.76, 69, 25-12-91, Bingerville, Leganés
+20, Claudio Beauvue, FRA, F, 1.74, 66, 16-04-88, Saint-Claude, Celta Vigo
+21, Salva Ruiz, ESP, D, 1.75, 70, 17-05-95, Albal, Valencia
+22, Gaku Shibasaki, JPN, M, 1.75, 62, 28-05-92, Aomori, Getafe
+23, Keko, ESP, M, 1.72, 66, 27-12-91, Brunete, Málaga
+24, Eneko Bóveda, ESP, D, 1.82, 77, 14-12-88, Bilbao, Athletic Bilbao
+25, Uche Agbo, NGA, M, 1.86, 73, 04-12-95, Kano City, Standard Liège
+26, Javi Sánchez, ESP, M, , , 02-06-97, Manacor, Bouzas
+27, Martí Vila, ESP, D, 1.66, 62, 24-05-99, Berga, Reus B
+28, Tomás Bourdal, ARG, D, 1.92, 82, 27-04-98, Mar del Plata, Móstoles
+29, Mujaid Sadick, ESP, D, 1.82, 75, 14-03-00, Logroño, Deportivo B
+30, Yago Gandoy, ESP, M, , , 13-04-99, La Coruña, Deportivo B
+31, Álex Cobo, ESP, G, 1.84, 78, 06-07-95, Sant Boi de Llobregat, Lleida
+32, David Sánchez, ESP, M, 1.82, 73, 24-12-98, Madrid, Deportivo B
+33, Jorge Valín, ESP, D, , , 07-01-00, La Coruña, Deportivo B
+34, Pedro Martelo, POR, F, 1.90, 84, 12-10-99, Évora, Benfica
+35, Hugo Vallejo, ESP, F, 1.81, 77, 15-02-00, Granada, Real Madrid B
+36, Famoussa Kanouté, MLI, M, , , 20-05-98, , Deportivo B
+37, Juan Rodríguez, ESP, D, , , 01-03-02, Vigo, Deportivo B
+38, Alberto Sánchez, ESO, G, , , 26-03-01, Plasencia, Deportivo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Pedro, ESP, M, 1.78, 72, 12-12-86, Aspe, Albacete
+17, Diego Caballo, ESP, D, 1.70, 66, 17-02-94, Salamanca, Extremadura
+20, Saša Jovanović, SRB, F, 1.76, 75, 15-12-91, Lazarevac, Al-Fateh
+18, Beto da Silva, PER, F, 1.82, 69, 28-12-96, Lima, UANL Tigres
+5, Vasilios Lampropoulos, GRE, D, 1.85, 78, 31-03-90, Pyrgos, Bochum (On Loan)
+12, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+13, Koke, ESP, G, 1.88, 88, 27-09-95, Málaga, Levante
+23, Borja Galán, ESP, M, 1.83, 73, 26-04-93, Madrid, Racing Santander (On Loan)

@@ -1,0 +1,40 @@
+=  Olhanense - Portuguese Primeira Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ricardo, POR, G, 1.88, 77, 11-02-76, Montijo, Vitória Setúbal
+3, Christian Obodo, NGA, M, 1.76, 72, 11-05-84, Lagos, Dinamo Minsk
+4, Ricardo Ferreira, POR, D, 1.90, 85, 25-11-92, Mississisauga, Milan
+5, Sebastian Mladen, ROU, D, 1.78, 70, 11-12-91, Calafat, Roma
+6, Jander, BRA, M, 1.83, 76, 08-07-88, Feira de Santana, Juventude
+7, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Genoa
+10, Pelé, POR, M, 1.82, 75, 29-09-91, Cacém, Milan
+13, Vítor Bastos, POR, D, 1.89, 83, 01-05-90, Gondar, Vitória Guimarães
+15, Luís Filipe, POR, D, 1.77, 75, 14-06-79, Cantanhede, Benfica
+16, Rui Duarte, POR, M, 1.73, 66, 16-09-78, Lisbon, Estrela da Amadora
+17, João Ribeiro, POR, M, 1.76, 75, 13-08-87, Porto, Vitória Guimarães
+19, Oumar Diakhité, SEN, D, 1.80, 85, 09-12-93, Dakar, Orlando C
+20, Celestino, POR, M, 1.82, 78, 02-01-87, Tarrafal, CFR Cluj
+21, Femi Balogun, NGA, M, 1.76, 75, 27-12-92, Kaduna, Atlético Baleares
+23, Anthony Šerić, CRO, D, 1.81, 85, 15-01-79, Sydney, Karabükspor
+24, Mirko Bigazzi, ITA, M, 1.83, 72, 03-04-89, Cecina, Livorno
+25, Per Krøldrup, DEN, D, 1.87, 82, 31-07-79, Farso, Pescara
+27, Vid Belec, SVN, G, 1.93, 87, 06-06-90, Maribor, Internazionale
+28, Regula, POR, M, 1.84, 71, 12-03-89, Sarilhos Pequenos, Vitória Setúbal
+29, Murilo Mendes, BRA, F, 1.80, 73, 08-03-95, Belo Horizonte, Grêmio Barueri
+33, Paulo Sérgio, POR, F, 1.68, 66, 24-01-84, Lisbon, Arouca
+50, Antonio Tozé, POR, F, 1.83, 81, 25-07-87, Miranda do Corvo, Tondela
+74, Jean-Christophe Coubronne, FRA, D, 1.79, 68, 30-07-89, Lyon, Novara
+77, Jakub Vojtuš, SVK, F, 1.86, 74, 22-10-93, Spišská Nová Ves, Internazionale
+79, Federico Dionisi, ITA, F, 1.79, 70, 16-06-87, Rieti, Livorno
+88, Lucas Souza, BRA, M, 1.86, 80, 04-06-90, Santo André, Paraná
+89, Agon Mehmeti, SWE, F, 1.82, 72, 20-11-89, Podujevo, Palermo
+92, Mario Sampirisi, ITA, D, 1.88, 83, 31-10-92, Caltagirone, Genoa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Daniel Bessa, BRA, M, 1.73, 65, 14-01-93, São Paulo, Internazionale
+14, Tibor Čiča, CRO, M, 1.86, 75, 31-12-93, Malmö, Cesena
+11, Diego Gonçalves, BRA, M, 1.82, 75, 22-07-94, Guarujá, Atlético CP
+99, Francis Koné, TOG, F, 1.89, 87, 22-11-90, Treichville, 
+22, Mor Pouye, SEN, M, 1.74, 66, 21-11-94, Niomré Lo, Louletano (On Loan)

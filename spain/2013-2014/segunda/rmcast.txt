@@ -1,0 +1,41 @@
+=  Real Madrid Castilla - Spanish Segunda División A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Pacheco, ESP, G, 1.87, 81, 18-05-92, Badajoz, Real Madrid C
+2, Diego Llorente, ESP, D, 1.85, 74, 16-08-93, Madrid, Real Madrid C
+3, Jorge Casado, ESP, D, 1.83, 77, 26-06-89, Madrid, Rayo Vallecano B
+4, Willian José, BRA, F, 1.86, 81, 23-11-91, Porto Calvo, Deportivo Maldonado
+5, Omar Mascarell, ESP, M, 1.81, 71, 02-02-93, Santa Cruz de Tenerife, Real Madrid Juvenil A
+6, José Rodríguez, ESP, M, 1.80, 68, 16-12-94, Villajoyosa, Real Madrid Juvenil A
+7, Lucas Vázquez, ESP, M, 1.73, 69, 01-07-91, Curtis, Real Madrid C
+8, Cristian Gómez, ESP, M, 1.81, 75, 27-07-89, L'Hospitalet de Llobregat, Espanyol
+9, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, Atlético Paranaense
+10, Borja, ESP, M, 1.72, 65, 02-11-90, Torremocha de Jarama, Córdoba
+11, Antonio Rozzi, ITA, F, 1.80, 76, 28-05-94, Rome, Lazio
+12, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Atlético Madrid
+13, Jacob Sánchez, ESP, G, 1.86, 76, 28-08-91, Torrelles de Llobregat, Real Madrid C
+14, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Real Madrid C
+15, Kiko Femenía, ESP, M, 1.74, 61, 02-02-91, Sanet y Negrals, Barcelona B
+16, Sergio Aguza, ESP, M, 1.75, 68, 02-09-92, Sant Boi, Real Madrid C
+17, Quini Marín, ESP, M, 1.79, 70, 24-09-89, Fernán Núñez, Lucena
+18, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Atlético Madrid
+19, Rubén Sobrino, ESP, F, 1.85, 73, 01-06-92, Daimiel, Real Madrid C
+20, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Udinese
+21, Burgui, ESP, M, 1.84, 71, 29-10-93, Burguillos del Cerro, Real Madrid C
+22, Rubén Belima, EQG, M, 1.80, 70, 11-02-92, Mostoles, Real Madrid C
+23, Javier Noblejas, ESP, D, 1.87, 75, 18-03-93, Madrid, Real Madrid C
+25, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Real Madrid C
+26, Lucas Torró, ESP, M, 1.88, 79, 19-07-94, Concentaina, Real Madrid C
+28, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Real Madrid Juvenil A
+29, Rubén Molero, ESP, D, 1.83, 78, 30-04-91, Madrid, Real Madrid C
+30, Cristian Benavente, PER, M, 1.72, 68, 19-05-94, Alcalá de Henares, Real Madrid Juvenil A
+31, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Real Madrid C
+32, Jaime Sánchez, ESP, D, 1.83, 75, 11-03-95, Chiclana de la Frontera, Real Madrid Juvenil A
+33, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Real Madrid C
+34, Álvaro Medrán, ESP, M, 1.76, 71, 15-03-94, Córdoba, Real Madrid C
+35, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Real Madrid Juvenil A
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Middlesbrough (On Loan)

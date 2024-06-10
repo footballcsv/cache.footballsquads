@@ -1,0 +1,50 @@
+=  Fluminense - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fernando Henrique, BRA, G, 1.89, 82, 25-11-83, Rio de Janeiro, None
+, Klever, BRA, G, 1.88, 82, 20-06-89, Mirassol, None
+, Rafael, BRA, G, 1.92, 85, 24-03-84, Araraquara, Vasco da Gama
+, Ricardo Berna, BRA, G, 1.87, 83, 11-06-79, Valença-RJ, América Mineiro
+, André Luis, BRA, D, 1.92, 86, 31-07-79, Bagé, São Paulo
+, Belletti, BRA, D, 1.79, 74, 20-06-76, Cascavel, Chelsea
+, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Santo André
+, Cássio, BRA, D, 1.83, 83, 08-07-86, Porto Alegre, Desportivo Brasil
+, Digão, BRA, D, 1.87, 85, 07-05-88, Duque de Caxias, None
+, Gerson, BRA, D, 1.78, 73, 03-04-86, Valença, América-RJ
+, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+, Júlio César, BRA, D, 1.73, 70, 15-06-82, São Paulo, Cruzeiro
+, Leandro Euzébio, BRA, D, 1.87, 83, 18-08-81, Cabo Frio, Cruzeiro
+, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Tombense
+, Marquinhos, BRA, D, 1.83, 75, 22-03-83, Rio de Janeiro, Duque de Caxias
+, Thiago Sales, BRA, D, 1.80, 78, 07-05-87, Rio de Janeiro, Flamengo
+, Darío Conca, ARG, M, 1.67, 62, 11-05-83, Capital Federal, River Plate
+, Deco, POR, M, 1.74, 73, 27-08-77, São Bernardo do Campo, Chelsea
+, Diguinho, BRA, M, 1.71, 69, 20-03-83, Canoas, Botafogo
+, Diogo, BRA, M, 1.81, 80, 20-10-86, Arapongas, Junior Team Futebol
+, Fernando Bob, BRA, M, 1.80, 74, 07-01-88, Cabo Frio, None
+, Ezequiel González, ARG, M, 1.78, 76, 10-07-80, Rosario, Rosario Central
+, Marquinho, BRA, M, 1.84, 76, 03-07-86, Passo Fundo, Figueirense
+, Raphael Augusto, BRA, M, 1.81, 77, 06-03-91, Rio de Janeiro, None
+, Tartá, BRA, M, 1.71, 65, 13-04-89, Rio de Janeiro, None
+, Thiaguinho, BRA, M, 1.69, 72, 22-11-84, Rio de Janeiro, Boavista [BRA]
+, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, Atlético Paranaense
+, Emerson, BRA, F, 1.71, 69, 06-12-78, Nova Iguaçu, Al-Ain
+, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Lyon
+, Rodriguinho, BRA, F, 1.74, 70, 02-02-83, Santos, Santo André
+, Washington, BRA, F, 1.89, 89, 01-04-75, Brasília, São Paulo
+, Wellington Silva, BRA, F, 1.70, 64, 06-01-93, Rio de Janeiro, None
+, Willians, BRA, F, 1.82, 71, 22-05-88, Aracaju, Desportivo Brasil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Fábio Neves, BRA, M, 1.71, 66, 04-10-86, Saquarema, América de Natal
+, Adriano, BRA, F, 1.70, 65, 28-09-87, Valença, Bahia (On Loan)
+, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Hertha Berlin
+, Dalton, BRA, D, 1.87, 79, 05-02-90, Rio de Janeiro, Internacional
+, Leandro Teixeira, BRA, M, 1.79, 82, 17-08-87, Rio de Janeiro, Duque de Caxias (On Loan)
+, Adeílson, BRA, F, 1.86, 73, 07-10-85, Nova União, Nice
+, Éverton, BRA, M, 1.71, 65, 08-08-84, Maranguape, Cruzeiro
+, Bruno Veiga, BRA, F, 1.70, 69, 09-01-90, Mesquita, Náutico (On Loan)
+, Alan, BRA, F, 1.82, 72, 10-07-89, José Bonifácio, Red Bull Salzburg
+, Dieguinho, BRA, D, 1.69, 59, 29-09-89, Caarapó, Brasiliense (On Loan)

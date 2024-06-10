@@ -1,0 +1,53 @@
+=  Udinese - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Albano Bizzarri, ARG, G, 1.88, 89, 09-11-77, Etruria, Pescara
+3, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, Flamengo
+4, Gabriele Angella, ITA, D, 1.89, 88, 28-04-89, Florence, Watford
+5, Danilo, BRA, D, 1.85, 75, 10-05-84, São Bernardo do Campo, Desportivo Brasil
+6, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Bastia
+10, Rodrigo De Paul, ARG, M, 1.80, 70, 24-05-94, Sarandí, Valencia
+11, Francesco Zampano, ITA, D, 1.78, 68, 30-09-93, Genoa, Pescara
+13, Svante Ingelsson, SWE, F, 1.89, 83, 14-06-98, Kalmar, Kalmar FF
+14, Jakub Jankto, CZE, M, 1.80, 73, 19-01-96, Prague, Slavia Prague
+15, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Carpi
+16, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Villa Jardín, Granada
+17, Bram Nuytinck, NED, D, 1.90, 80, 04-05-90, Malden, Anderlecht
+18, Stipe Perica, CRO, F, 1.92, 76, 07-07-95, Zadar, Chelsea
+19, Jens Stryger Larsen, DEN, D, 1.80, 74, 21-02-91, Sakskøbing, Austria Vienna
+20, Maxi López, ARG, F, 1.90, 81, 03-04-84, Capital Federal, Torino
+21, Simone Pontisso, ITA, M, 1.84, 74, 20-03-97, San Daniele del Friuli, None
+22, Simone Scuffet, ITA, G, 1.90, 75, 31-05-96, Udine, None
+23, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Verona
+25, Davide Borsellini, ITA, G, 1.80, 69, 04-01-99, Rome, Paganese
+27, Silvan Widmer, SUI, D, 1.83, 81, 05-03-93, Aarau, Granada
+53, Ali Adnan, IRQ, D, 1.85, 71, 19-12-93, Baghdad, Rizespor
+60, Mak Varešanović, TUR, M, 1.84, 75, 28-08-98, Bursa, Olimpik Sarajevo
+61, Nicolás Garmendia, ESP, M, 1.76, 65, 01-02-98, Madrid, None
+62, Manuel Gasparini, ITA, G, 1.82, 74, 19-05-02, San Daniele del Friuli, None
+63, Aldo Caiazza, ITA, D, , , 20-03-99, Naples, Benevento
+64, Andrea Donadello, ITA, D, 1.86, 79, 28-04-00, Treviso, None
+65, Filip Vaško, SVK, D, 1.91, 78, 11-08-99, Rožňava, VSS Košice
+67, Semuel Pizzignacco, ITA, G, 1.85, 70, 01-09-01, Monfalcone, None
+68, Franck Djoulou Zohoki, CIV, F, 1.85, 82, , Okrouyo, Union QDP
+69, Luis Ndreu, ALB, M, , , 20-05-99, Lezhe, Locri
+72, Antonín Barák, CZE, M, 1.91, 85, 03-12-94, Příbram, Slavia Prague
+85, Valon Behrami, SUI, M, 1.85, 71, 19-04-85, Mitrovica, Watford
+95, Alexis Zapata, COL, M, 1.76, 72, 10-05-95, Medellín, Granada
+97, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Palermo
+99, Andrija Balić, CRO, M, 1.80, 71, 11-08-97, Split, Hajduk Split
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Watford (On Loan)
+31, Orestis Karnezis, GRE, G, 1.89, 79, 11-07-85, Athens, Watford (On Loan)
+77, Cyril Théreau, FRA, F, 1.89, 78, 24-04-83, Privas, Fiorentina
+11, Aly Mallé, MLI, F, 1.77, 72, 03-04-98, Bamako, Lorca FC (On Loan)
+7, Ryder Matos, BRA, F, 1.80, 71, 27-02-93, Seabra, Verona (On Loan)
+55, Paweł Bochniewicz, POL, D, 1.94, 79, 30-01-96, Dębica, Górnik Zabrze (On Loan)
+9, Riad Bajić, BIH, F, 1.89, 83, 06-05-94, Sarajevo, İstanbul Başakşehir (On Loan)
+96, Ewandro, BRA, F, 1.74, 61, 15-03-96, Recife, Estoril (On Loan)
+66, Nabil Jaadi, MAR, M, 1.78, 69, 01-07-96, Brussels, Asteras Tripolis (On Loan)
+12, Igor Bubnjić, CRO, D, 1.88, 83, 17-07-92, Split, Inter Zaprešić (On Loan)
+94, Rodrigo Aguirre, URU, F, 1.84, 75, 01-10-94, Montevideo, Botafogo (On Loan)

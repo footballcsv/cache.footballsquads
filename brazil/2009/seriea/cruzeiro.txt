@@ -1,0 +1,46 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Andrey, BRA, G, 1.94, 91, 09-11-83, Porto Alegre, Steaua Bucureşti
+, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+, Athirson, BRA, D, 1.83, 80, 16-01-77, Rio de Janeiro, Portuguesa
+, Claudio Caçapa, BRA, D, 1.84, 77, 29-05-76, Lavras, Newcastle U
+, Diego Renan, BRA, D, 1.72, 71, 26-01-90, Surubim, None
+, Fernandinho, BRA, D, 1.72, 73, 16-04-81, Ilhéus, Criciúma
+, Gil, BRA, D, 1.90, 89, 12-06-87, Campos dos Goytacazes, Atlético Goianiense
+, Gilberto, BRA, D, 1.80, 78, 25-04-76, Rio de Janeiro, Tottenham H
+, Gustavo, BRA, D, 1.86, 84, 19-02-82, Campinas, Desportivo Brasil
+, Jancarlos, BRA, D, 1.75, 80, 15-08-83, Natividade, São Paulo
+, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, None
+, Léo Fortunato, BRA, D, 1.84, 83, 14-03-83, Rio de Janeiro, Bangu
+, Leonardo Silva, BRA, D, 1.92, 80, 22-06-79, Rio de Janeiro, Palmeiras
+, Luizão, BRA, D, 1.84, 79, 03-01-87, Vargem Alta, Bunyodkor
+, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Benfica
+, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, None
+, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, None
+, Elicarlos, BRA, M, 1.76, 73, 08-06-85, Laranjeiras, Náutico
+, Fabinho, BRA, M, 1.86, 72, 10-01-80, São Bernardo do Campo, Toulouse
+, Fabrício, BRA, M, 1.78, 76, 05-07-82, Imbituba, Júbilo Iwata
+, Joffre Guerrón, ECU, M, 1.74, 74, 28-04-85, Ambuqui, Getafe
+, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Júbilo Iwata
+, Leandro Lima, BRA, M, 1.69, 63, 09-11-85, Fortaleza, FC Porto
+, Marquinhos Paraná, BRA, M, 1.74, 71, 20-07-77, Recife, Júbilo Iwata
+, Mateus, BRA, M, 1.83, 73, 26-03-90, Belo Horizonte, None
+, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Dynamo Kiev
+, Soares, BRA, F, 1.75, 68, 16-05-85, Manaus, Junior Team Futebol
+, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Al-Rayyan
+, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Barueri (On Loan)
+, Ramires, BRA, M, 1.79, 65, 24-03-87, Rio de Janeiro, Benfica
+, Anderson Cléber, BRA, D, 1.85, 84, 27-04-80, São Paulo, Lyon
+, Juan Pablo Sorín, ARG, D, 1.73, 67, 05-05-76, Buenos Aires, Retired
+, Zé Carlos, BRA, F, 1.86, 90, 24-04-83, Maceió, Corinthians Alagoano
+, Gerson Magrão, BRA, M, 1.81, 72, 13-06-85, Diadema, Dynamo Kiev
+, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Lokomotiv Moscow
+, Wanderley, BRA, F, 1.82, 81, 11-10-88, Campinas, Santo André (On Loan)
+, Rômulo, BRA, F, 1.88, 82, 25-02-82, Inhumas, Coritiba (On Loan)

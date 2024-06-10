@@ -1,0 +1,40 @@
+=  Deportes Iquique - Chilean Primera División 2017 Transición
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rodrigo Naranjo, CHI, G, 1.92, 89, 30-08-79, Santiago, Coquimbo Unido
+2, Matías Caroca, CHI, M, 1.82, 75, 23-04-96, Curicó, None
+3, Matías Blázquez, CHI, D, 1.87, 84, 08-05-91, Viña del Mar, Everton (Viña del Mar)
+4, Nicolás Peñailillo, CHI, D, 1.76, 75, 13-06-91, Viña del Mar, Everton (Viña del Mar)
+5, Ignacio Caroca, CHI, M, 1.70, 64, 02-11-93, Curicó, Curicó Unido
+6, Eduardo Farías, CHI, M, 1.79, 72, 01-01-89, Lo Prado, Deportes Magallanes
+7, Jonathan Rebolledo, CHI, M, 1.70, 65, 22-10-91, Iquique, None
+8, Mauricio Zenteno, CHI, D, 1.73, 76, 21-04-84, Linares, Deportes La Serena
+9, Leonardo Espinoza, CHI, F, 1.80, 82, 01-10-92, Recoleta, Santiago Morning
+10, Manuel Villalobos, CHI, F, 1.72, 73, 15-10-80, Iquique, Huachipato
+11, Hans Salinas, CHI, M, 1.71, 74, 23-04-90, El Salvador [CHI], Deportes La Serena
+12, Brayan Cortés, CHI, G, 1.86, 77, 11-03-95, Iquique, None
+13, Tomás Charles, ARG, D, 1.84, 80, 12-06-85, Villa Domínico, Unión La Calera
+14, Misael Dávila, CHI, D, 1.72, 67, 17-07-91, Iquique, None
+15, Enzo Guerrero, CHI, D, 1.81, 84, 31-01-91, Andacollo, Cobreloa
+16, César Huanca, CHI, F, 1.84, 80, 04-06-01, Alto Hospicio, None
+17, Alan Moreno, CHI, D, 1.75, 65, 30-10-95, Iquique, None
+18, Misael Cubillos, CHI, F, 1.75, 67, 06-02-96, Iquique, None
+19, Diego Bielkiewicz, ARG, F, 1.82, 79, 04-01-91, Capital Federal, Estudiantes (BA)
+20, Luis Bustamante, ARG, M, 1.70, 70, 11-12-85, Ucacha, Levadiakos
+22, Diego Torres, ARG, M, 1.74, 70, 06-11-90, Villa Nueva, Estudiantes (BA)
+23, Ignacio Sotomayor, CHI, G, 1.80, 70, 04-12-96, Iquique, None
+24, Diego Fernández, CHI, M, 1.75, 70, 08-03-98, Loncoche, None
+25, Maximiliano Mori, CHI, G, 1.85, 70, 11-11-97, Iquique, None
+26, Hernán Lópes, ARG, D, 1.80, 80, 28-03-91, Lomas de Zamora, Estudiantes (BA)
+27, Iván Ocampo, CHI, F, 1.65, 63, 18-05-00, Iquique, None
+28, Johan Fuentes, CHI, M, 1.69, 68, 02-02-84, Santiago, Cobresal
+29, Kevin Mellado, CHI, F, 1.79, 77, 17-07-98, Viña del Mar, None
+30, Lucas Fernández, CHI, D, 1.84, 78, 24-05-95, Iquique, None
+33, Johan Castillo, CHI, F, 1.65, 56, 17-03-99, Iquique, None
+34, Carlos Gómez, CHI, M, 1.72, 67, 14-02-92, San Miguel, Unión Española
+35, Álvaro Rojas, CHI, G, , , 12-03-98, Iquique, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Gerson Acevedo, CHI, M, 1.82, 79, 05-04-88, Santiago, 

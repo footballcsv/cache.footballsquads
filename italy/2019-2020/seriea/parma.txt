@@ -1,0 +1,51 @@
+=  Parma - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luigi Sepe, ITA, G, 1.85, 79, 08-05-91, Torre del Greco, Napoli
+2, Simone Iacoponi, ITA, D, 1.80, 73, 30-04-87, Pontedera, Virtus Entella
+3, Kastriot Dërmaku, ALB, D, 1.95, 90, 15-01-92, Scandiano, Cosenza
+5, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, Sampdoria
+7, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Internazionale
+8, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Napoli
+9, Roberto Inglese, ITA, F, 1.86, 78, 12-11-91, Lucera, Napoli
+10, Hernani, BRA, M, 1.88, 77, 27-03-94, São Gonçalo do Sapucaí, Zenit St Petersburg
+11, Andreas Cornelius, DEN, F, 1.93, 79, 16-03-93, Copenhagen, Atalanta
+15, Gastón Brugman, URU, M, 1.78, 75, 07-09-92, Rosario, Pescara
+16, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Fiorentina
+17, Antonino Barillà, ITA, M, 1.80, 76, 01-04-88, Reggio Calabria, Trapani
+19, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, SPAL
+20, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Sampdoria
+21, Matteo Scozzarella, ITA, M, 1.70, 68, 05-06-88, Trieste, Trapani
+22, Bruno Alves, POR, D, 1.89, 80, 27-11-81, Porto, Rangers
+23, Drissa Camara, CIV, M, 1.79, 69, 18-02-02, Abobo, None
+26, Luca Siligardi, ITA, F, 1.79, 73, 26-01-88, Correggio, Verona
+27, Gervinho, CIV, F, 1.79, 68, 27-05-87, Anyama, Hebei China Fortune
+28, Riccardo Gagliolo, SWE, D, 1.82, 75, 28-04-90, Imperia, Carpi
+29, Márk Kosznovszky, HUN, M, 1.77, 66, 17-04-02, Budapest, MTK
+30, Reinaldo Radu, ROU, D, 1.78, 63, 07-01-02, Castello de la Plana, Villarreal
+33, Juraj Kucka, SVK, M, 1.86, 86, 26-02-87, Bojnice, Trabzonspor
+34, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Carpi
+36, Matteo Darmian, ITA, D, 1.82, 70, 02-12-89, Legnano, Manchester U
+38, Gabriele Artistico, ITA, F, 1.88, 68, 14-07-02, Rome, None
+39, Redi Kasa, ALB, M, 1.77, 66, 01-09-01, Parma, None
+40, Edoardo Corvi, ITA, G, 1.83, 70, 23-03-01, Parma, None
+41, Botond Balogh, HUN, D, 1.85, 76, 06-06-02, Sopron, MTK
+42, Patricio Alexis Goglino, ARG, F, , , 06-02-01, Buenos Aires, None
+44, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, Juventus
+88, Andrea Adorante, ITA, F, 1.84, 71, 05-02-00, Parma, Internazionale
+92, Ionuţ Andrei Radu, ROU, G, 1.88, 80, 28-05-97, Bucharest, Internazionale
+93, Mattia Sprocati, ITA, F, 1.78, 70, 28-04-93, Monza, Lazio
+97, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+64, Giacomo Ricci, ITA, D, 1.84, 74, 02-09-96, Livorno, Juve Stabia (On Loan)
+99, Yves Baraye, SEN, F, 1.77, 69, 22-06-92, Dakar, Gil Vicente (On Loan)
+30, Fabio Ceravolo, ITA, F, 1.82, 73, 05-03-87, Locri, Cremonese
+32, Luca Rigoni, ITA, M, 1.85, 76, 07-12-84, Schio, Vicenza
+66, Lorenzo Simonetti, ITA, M, 1.80, 72, 28-08-96, Livorno, Carpi (On Loan)
+29, Gianni Munari, ITA, M, 1.90, 84, 24-06-83, Sassuolo, Retired
+53, Fabrizio Alastra, ITA, G, 1.85, 79, 01-10-97, Erice, Pescara (On Loan)
+5, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Monza (On Loan)
+36, Alessandro Minelli, ITA, D, 1.93, 79, 23-07-99, Monza, Juventus U23 (On Loan)

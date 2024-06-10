@@ -1,0 +1,42 @@
+=  Huesca - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Javi Varas, ESP, G, 1.82, 73, 10-09-82, Seville, Granada
+2, Martín Mantovani, ARG, D, 1.83, 77, 07-07-84, San Miguel, Las Palmas
+3, Xabier Etxeita, ESP, D, 1.86, 78, 31-10-87, Amorebieta-Etxano, Athletic Bilbao
+4, Adrián Diéguez, ESP, D, 1.87, 69, 04-02-96, Madrid, Alavés B
+5, Juan Aguilera, ESP, M, 1.85, 76, 13-09-85, Madrid, Mumbai C
+6, Moi Gómez, ESP, M, 1.74, 65, 23-06-94, Rojales, Sporting Gijón
+7, David Ferreiro, ESP, M, 1.70, 63, 01-04-88, Ourense, Lugo
+8, Gonzalo Melero, ESP, M, 1.83, 77, 02-01-94, Madrid, Ponferradina
+9, Cucho Hernández, COL, F, 1.75, 73, 22-04-99, Pereira, Watford
+10, Juan José Camacho, ESP, M, 1.81, 75, 02-08-80, Valencia, Vecindario
+11, Álex Gallar, ESP, M, 1.76, 71, 19-03-92, Sabadell, Cultural Leonesa
+12, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Córdoba
+13, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Reus
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Carlos Akapo, EQG, D, 1.78, 70, 12-03-93, Elche, Valencia B
+16, Luisinho, POR, D, 1.71, 66, 05-05-85, Porto, Deportivo La Coruña
+17, Cristian Rivera, ESP, M, 1.90, 80, 09-07-97, Gijón, Las Palmas
+18, Pablo Insua, ESP, D, 1.86, 75, 09-09-93, Arzua, Schalke
+19, Ezequiel Ávila, ARG, F, 1.81, 78, 06-02-94, Rosario, San Lorenzo
+20, Juanpi, VEN, M, 1.75, 67, 24-01-94, Caracas, Málaga
+21, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+22, Enric Gallego, ESP, F, 1.90, 87, 12-09-86, Martorell, Extremadura
+23, Damián Musto, ARG, M, 1.82, 80, 09-06-87, Casilda, Tijuana
+24, Jorge Miramón, ESP, D, 1.76, 74, 02-06-89, Zaragoza, Reus
+25, Aleksandar Jovanović, SRB, G, 1.91, 86, 06-12-92, Niš, Aarhus
+26, José Ignacio Uche, ESP, D, , , 03-07-99, , Almudévar
+27, Javier Almerge, ESP, D, 1.81, 75, 28-02-01, Sena, Almudévar
+29, Javito, ESP, M, 1.80, 75, 18-12-98, Huesca, Almudévar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Serdar Gürler, TUR, M, 1.73, 72, 14-09-91, Haguenau, Göztepe (On Loan)
+22, Lluís Sastre, ESP, M, 1.75, 71, 26-03-86, Binisalem, AEK Larnaca
+4, Rúben Semedo, POR, D, 1.89, 84, 04-04-94, Amadora, Villarreal
+12, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+1, Axel Werner, ARG, G, 1.92, 85, 28-02-96, Rafaela, Atlético Madrid
+20, Rajko Brežančić, SRB, D, 1.75, 71, 21-08-89, Belgrade, Málaga (On Loan)
+28, Juan Sebastián Peñaloza, COL, F, 1.72, 65, 03-05-00, Quibdó, Teruel (On Loan)

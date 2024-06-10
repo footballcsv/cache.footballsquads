@@ -1,0 +1,40 @@
+=  Toulouse - French Ligue 1 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mauro Goicoechea, URU, G, 1.84, 81, 27-03-88, Montevideo, Arouca
+2, Kelvin Amian, FRA, D, 1.80, 78, 08-02-98, Toulouse, None
+4, Ruben Gabrielsen, NOR, D, 1.86, 77, 10-03-92, Gjøvik, Molde
+5, Steven Moreira, FRA, D, 1.76, 67, 13-08-94, Noisy-le-Grand, Lorient
+6, Kalidou Sidibé, FRA, M, 2.00, 85, 28-01-99, Montreuil, None
+7, Max Gradel, CIV, F, 1.77, 70, 30-11-87, Abidjan, Bournemouth
+9, Yaya Sanogo, FRA, F, 1.91, 74, 27-01-93, Massy, Arsenal
+10, Aaron Leya Iseka, COD, F, 1.80, 78, 15-11-97, Brussels, Anderlecht
+11, Quentin Boisgard, FRA, M, 1.74, 75, 17-03-97, Toulouse, None
+12, Issiaga Sylla, GUI, D, 1.80, 70, 01-01-94, Conakry, Horoya AC
+13, Mathieu Gonçalves, FRA, D, 1.78, 66, 08-06-01, Paris, None
+14, Mathieu Dossevi, TOG, M, 1.72, 65, 12-02-88, Chambray-les-Tours, Metz
+15, Nicolas Isimat-Mirin, FRA, D, 1.87, 83, 15-11-91, Meudon-la-Forêt, Beşiktaş
+16, Florentin Bloch, FRA, G, 1.91, 87, 02-02-00, Vernon, Tours
+17, Ibrahim Sangaré, CIV, M, 1.91, 77, 02-12-97, Abidjan, AS Denguélé
+18, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, Krylia Sovetov
+19, Bafodé Diakité, FRA, D, 1.82, 74, 06-01-01, Toulouse, None
+20, Efthimios Koulouris, GRE, F, 1.84, 81, 06-03-96, Skydra, PAOK
+21, William Vainqueur, FRA, M, 1.79, 73, 19-11-88, Neuilly-sur-Marne, Antalyaspor
+22, Stéphane Zobo, CMR, F, 1.80, 68, 02-08-00, Yaoundé, None
+23, Moussa Diarra, FRA, D, 1.83, 68, 10-11-00, Stains, JA Drancy
+24, Anthony Rouault, FRA, D, 1.86, 76, 29-05-01, Saint-Colomb-de-Lauzun, None
+25, Wesley Saïd, FRA, F, 1.71, 65, 19-04-95, Noisy-le-Grand, Dijon
+27, Jean-Victor Makengo, FRA, M, 1.76, 73, 12-06-98, Etampes, Nice
+29, Nathan Ngoumou, FRA, M, 1.82, 70, 14-03-00, Toulouse, None
+30, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Dijon
+31, Amine Adli, FRA, M, 1.74, 60, 10-05-00, Béziers, None
+32, Adil Taoui, FRA, F, 1.79, 69, 10-08-01, Limoges, None
+34, Kouadio Koné, FRA, M, 1.76, 71, 17-05-01, Colombes, None
+40, Lovre Kalinić, CRO, G, 1.98, 90, 03-04-90, Split, Aston Villa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Steeve Yago, BFA, D, 1.78, 75, 16-12-92, Sarcelles, Caen
+8, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, Lens (On Loan)
+3, Gen Shoji, JPN, D, 1.80, 73, 11-12-92, Kobe, Gamba Osaka

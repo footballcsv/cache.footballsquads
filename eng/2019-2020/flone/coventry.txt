@@ -1,0 +1,53 @@
+=  Coventry City - English Football League One 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Maroši, SVK, G, 1.90, 80, 23-10-93, Michalovce, Doncaster R
+3, Brandon Mason, ENG, D, 1.75, 70, 30-09-97, Westminster, Watford
+4, Michael Rose, SCO, D, 1.81, 70, 11-10-95, Aberdeen, Ayr U
+5, Kyle McFadzean, ENG, D, 1.85, 84, 20-02-87, Sheffield, Burton Alb
+6, Liam Kelly, SCO, M, 1.85, 70, 10-02-90, Milton Keynes, Leyton Orient
+7, Jodi Jones, ENG, M, 1.77, 73, 22-10-97, Bow, Dagenham & Redbridge
+8, Jamie Allen, ENG, M, 1.80, 72, 29-01-95, Rochdale, Burton Alb
+9, Maxime Biamou, FRA, F, 1.85, 82, 13-11-90, Créteil, Sutton U
+10, Wesley Jobello, FRA, M, 1.79, 68, 23-01-94, Gennevilliers, Gazélec Ajaccio
+11, Jordy Hiwula, ENG, F, 1.78, 66, 21-09-94, Manchester, Huddersfield T
+13, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Bradford C
+14, Reise Allassani, ENG, F, , , 03-01-96, Wandsworth Hill, Dulwich Hamlet
+15, Dominic Hyam, SCO, D, 1.88, 70, 20-12-95, Leuchars, Reading
+16, Josh Pask, ENG, D, 1.87, 76, 01-11-97, Waltham Forest, West Ham U
+17, Callum O'Hare, ENG, M, 1.73, 65, 01-05-98, Solihull, Aston Villa
+18, Ryan Giles, ENG, M, 1.79, 72, 26-01-00, Telford, Wolverhampton W
+20, Liam Walsh, ENG, M, 1.78, 66, 15-09-97, Whiston, Bristol C
+21, Amadou Bakayoko, SLE, F, 1.93, 85, 01-01-96, Kenema, Walsall
+23, Fankaty Dabo, ENG, D, 1.81, 77, 11-10-95, Southwark, Chelsea
+24, Matthew Godden, ENG, F, 1.85, 78, 29-07-91, Canterbury, Peterborough U
+25, Zain Westbrooke, ENG, M, 1.80, 65, 28-10-96, Chertsey, Brentford
+26, Jordan Shipley, IRL, M, 1.83, 73, 26-09-97, Leamington Spa, None
+27, Jordon Thompson, ENG, D, 1.88, 72, 08-04-99, Islington, QPR
+28, Callum Maycock, ENG, M, 1.82, 71, 23-12-97, Birmingham, Birmingham C
+30, Bouwe Bosma, NED, M, 1.89, 80, 24-05-96, Liverpool, Lewes
+31, Sam McCallum, ENG, D, 1.77, 68, 02-09-00, Canterbury, Norwich C
+32, Dexter Walters, ENG, M, , , 04-12-98, , Tamworth
+33, Gervane Kastaneer, NED, F, 1.76, 80, 09-06-96, Rotterdam, NAC Breda
+35, Declan Drysdale, ENG, D, 1.96, 85, 14-11-99, Birkenhead, Tranmere R
+37, Morgan Williams, ENG, D, 1.88, 74, 30-08-99, Derby, Mickleover Sports
+38, Josh Eccles, ENG, D, 1.81, 66, 06-04-00, Coventry, None
+39, Daniel Bartlett, ENG, M, 1.80, 67, 13-10-00, Poole, Southampton
+40, Jonny Ngandu, ENG, M, 1.75, 71, 25-10-01, Redbridge, None
+41, Will Bapaga, ENG, F, 1.75, 65, 03-11-02, Coventry, None
+42, Tom Billson, ENG, G, 1.88, 73, 18-10-00, Shrewsbury, None
+43, David Bremang, ENG, F, 1.80, 70, 21-03-00, Hammersmith, None
+44, Charlie Wakefield, ENG, M, 1.84, 72, 10-04-98, Worthing, Chelsea
+45, Jack Burroughs, SCO, M, 1.88, 80, 21-03-01, Coventry, None
+46, Blaine Rowe, ENG, D, , , 22-03-02, Birmingham, None
+47, Jordan Young, SCO, M, 1.75, 71, 31-07-99, Chippenham, Swindon T
+48, Joe Newton, ENG, D, , , 02-06-01, Hatfield, Royston T
+50, Cian Tyler, WAL, G, 1.88, 79, 22-03-02, Leamington Spa, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Junior Brown, ENG, D, 1.75, 68, 07-05-89, Crewe, Scunthorpe U (On Loan)
+2, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, Reading
+19, Jordan Ponticelli, ENG, F, 1.80, 70, 10-09-98, Nuneaton, Wrexham (On Loan)
+34, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, 

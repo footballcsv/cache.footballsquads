@@ -1,0 +1,51 @@
+=  Exeter City - English Football League One 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur Krysiak, POL, G, 1.93, 83, 11-08-89, Łódź, Birmingham C
+2, Steve Tully, ENG, D, 1.75, 70, 10-02-80, Paignton, Weymouth
+3, Billy Jones, ENG, D, 1.85, 72, 26-06-83, Gillingham, Crewe Alex
+4, James Dunne, ENG, M, 1.80, 69, 18-09-89, Farnborough, Arsenal
+5, Troy Archibald-Henville, ENG, D, 1.88, 80, 04-11-88, Newham, Tottenham H
+6, Richard Duffy, WAL, D, 1.78, 65, 30-08-85, Swansea, Millwall
+7, Liam Sercombe, ENG, M, 1.78, 68, 25-04-90, Exeter, None
+8, David Noble, ENG, M, 1.83, 78, 02-02-82, Hitchin, Bristol C
+10, Daniel Nardiello, WAL, F, 1.80, 72, 22-10-82, Coventry, Blackpool
+11, Luke O'Brien, ENG, D, 1.75, 77, 11-09-88, Halifax, Bradford C
+12, Jamie Cureton, ENG, F, 1.73, 67, 28-08-75, Bristol, Leyton Orient
+14, Chris Shephard, ENG, M, 1.90, 84, 25-12-88, Exeter, None
+15, Rob Edwards, WAL, M, 1.83, 77, 01-07-73, Kendal, Blackpool
+16, Marcus Stewart, ENG, F, 1.78, 70, 07-11-72, Bristol, Yeovil T
+17, Paul Tisdale, ENG, M, 1.75, 76, 14-01-73, Valletta, Yeovil T
+18, Danny Coles, ENG, D, 1.85, 72, 31-10-81, Bristol, Bristol R
+19, John O'Flynn, IRL, F, 1.81, 75, 11-07-82, Cóbh, Barnet
+20, Richard Logan, ENG, F, 1.85, 79, 04-01-82, Bury St Edmunds, Weymouth
+21, Guillem Bauzá, ESP, F, 1.73, 73, 25-10-84, Palma de Mallorca, Northampton T
+22, Jimmy Keohane, IRL, F, 1.80, 72, 22-01-91, Kilkenny, Bristol C
+23, Jonathan Fortune, ENG, D, 1.88, 84, 23-08-80, Islington, Charlton Ath
+24, Elliott Frear, ENG, M, 1.73, 64, 11-09-90, Exeter, None
+25, Jake Gosling, ENG, M, 1.76, 68, 11-08-93, Newquay, None
+26, Scot Bennett, ENG, D, 1.78, 81, 30-11-90, Truro, None
+27, Pat Baldwin, ENG, D, 1.83, 80, 12-11-82, London, Southend U
+28, Aaron Dawson, ENG, M, 1.80, 72, 24-03-92, Exeter, None
+29, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, None
+31, Callum McNish, ENG, M, 1.88, 79, 25-05-92, Oxford, Southampton
+32, Christy Pym, ENG, G, 1.82, 74, 24-04-95, Exeter, None
+33, Jake Viney, ENG, G, , , 09-09-93, , None
+35, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, Reading
+36, Alan Gow, SCO, M, 1.83, 70, 09-10-82, Glasgow, East Bengal
+40, Lenny Pidgeley, ENG, G, 1.91, 87, 07-02-84, Isleworth, Bradford C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Nicholas Bignall, ENG, F, 1.77, 81, 11-07-90, Reading, Reading
+32, Rowan Vine, ENG, F, 1.85, 75, 21-09-82, Basingstoke, QPR
+34, Matt Whichelow, ENG, M, 1.70, 74, 28-09-91, Islington, Watford
+12, Matt Oakley, ENG, M, 1.78, 70, 17-08-77, Peterborough, Leicester C
+23, Kallum Keane, IRL, D, 1.83, 79, 23-11-91, Birmingham, Eastwood T
+27, Jack Furzer, ENG, D, 1.80, 77, 17-02-92, Exeter, Bideford
+30, Roger Ingham, ENG, M, , , 01-12-92, Crediton, 
+34, Chris Hackett, ENG, M, 1.83, 73, 01-03-83, Oxford, Millwall
+11, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Barnsley
+34, Rohan Ricketts, ENG, M, 1.83, 73, 22-12-82, Clapham, 
+30, Lauri Dalla Valle, FIN, F, 1.80, 73, 14-09-91, Kontiolahti, Fulham

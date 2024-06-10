@@ -1,0 +1,45 @@
+=  Cerro Largo - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ramiro Betancur, URU, G, 1.84, 78, 28-02-89, Melo, Progreso
+2, Martín Gianoli, URU, D, 1.96, 84, 27-09-00, Montevideo, Montijo
+4, Brian Ferrares, URU, D, 1.80, 76, 01-03-00, Montevideo, Danubio
+5, Tiago Galleto, URU, M, 1.81, 78, 11-05-02, Palma de Mallorca, River Plate [URU]
+7, Facundo Núñez, URU, F, 1.72, 70, 24-02-06, Canelones, None
+8, Renzo Rabino, URU, D, 1.76, 65, 19-12-97, Young, Defensor Sporting
+9, Hugo Silveira, URU, F, 1.89, 88, 23-05-93, Montevideo, Rentistas
+10, Martín Alaníz, URU, M, 1.75, 67, 19-02-93, Melo, Deportivo Guabirá
+11, Brian González, URU, F, 1.82, 71, 11-06-99, Montevideo, Cerrito
+12, Tomer Haran, ISR, G, 1.97, 95, 26-10-98, Degania Alef, Babelsberg
+13, Nahuel Furtado, URU, D, 1.68, 63, 20-03-98, Montevideo, Progreso
+14, Lucas Correa, URU, D, 1.80, 76, 07-05-96, Montevideo, Xerez
+15, Alfonso de Luca, URU, M, 1.72, 67, 03-10-05, Minas, None
+17, Owen Blanco, ARG, M, 1.87, 80, 23-12-02, Parque de los Patricios, Moralo
+18, Adolfo Lima, URU, M, 1.76, 68, 24-07-90, Melo, Deportivo Maldonado
+19, Mauro Brasil, URU, D, 1.78, 77, 27-04-99, Montevideo, Celaya
+20, Sergio Núñez, URU, F, 1.77, 75, 30-06-00, Paysandú, Peñarol
+21, Santiago Viera, URU, M, 1.76, 67, 04-06-98, Montevideo, Juventud
+22, Facundo da Costa, URU, F, 1.76, 70, 20-03-03, Melo, None
+23, Hamilton Pereira, URU, M, 1.79, 80, 26-06-87, Tacuarembó, Cerro
+24, Ezequiel Olivera, URU, D, 1.72, 68, 20-12-03, Melo, None
+25, Facundo Palavecino, ARG, M, -, -, 19-02-02, San Miguel, Platense
+26, Joaquín Fernández, URU, M, 1.74, 63, 08-02-03, -, Atenas
+27, Matías Mir, ESP, M, 1.82, 74, 26-05-03, Las Palmas, Parma
+29, Emiliano Villar, URU, F, 1.76, 76, 21-10-99, Colonia del Sacramento, Nacional [URU]
+40, Matheus Brandão, BRA, G, 1.91, 77, 16-01-96, Quaraí, San Eugenio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Augusto Max, ARG, M, 1.68, 69, 10-08-92, San Miguel de Tucumán, Unión La Calera
+7, Mauro Estol, URU, M, 1.76, 76, 27-01-95, Montevideo, De-Registered
+30, Facundo Núñez, URU, F, 1.72, 70, 24-02-06, Canelones, Re-Registered (7)
+20, Facundo Rodríguez, URU, F, 1.80, 72, 08-02-95, Montevideo, Deportivo Municipal (On Loan)
+26, Enrique Etcheverry, URU, D, 1.73, 63, 10-05-96, Melo, Nueva Chicago
+29, Adrian Vila, URU, M, 1.86, 84, 01-01-02, Montevideo, Nacional [URU]
+10, Emiliano Villar, URU, F, 1.76, 76, 21-10-99, Colonia del Sacramento, Re-Registered (29)
+12, Renzo Bacchia, URU, G, 1.85, 74, 23-01-99, Montevideo, Independiente
+15, Cristian Techera, URU, M, 1.57, 68, 31-05-92, Paysandú, 
+27, Ernesto Ocampo, URU, F, 1.70, 65, 02-05-99, Montevideo, Bella Vista
+12, Gino Santilli, ARG, G, 1.91, 71, 26-10-01, Villa Constitución, Banfield
+6, Rafael García, URU, M, 1.83, 79, 06-01-89, Maldonado, Retired

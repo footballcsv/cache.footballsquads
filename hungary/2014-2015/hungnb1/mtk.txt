@@ -1,0 +1,51 @@
+=  MTK - Hungarian Nemzeti Bajnokság I 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lajos Hegedűs, HUN, G, 1.92, 86, 19-12-87, Budapest, None
+2, Tibor Nagy, HUN, D, 1.87, 77, 14-08-91, Budapest, Sándor Károly Akadémia
+3, Bencze Deutsch, HUN, D, 1.86, 83, 04-08-92, Budapest, Sándor Károly Akadémia
+4, Ákos Baki, HUN, M, 1.83, 79, 24-08-94, Zalaegerszeg, Sándor Károly Akadémia
+5, Dávid Kelemen, HUN, D, 1.84, 75, 24-05-92, Békéscsaba, Békéscsaba
+6, Ádám Hajdú, HUN, M, 1.79, 74, 16-01-93, Dunaújváros, Sándor Károly Akadémia
+7, Zsolt Horváth, HUN, F, 1.84, 78, 19-05-88, Pécs, Pécs
+8, Norbert Csiki, HUN, F, 1.83, 74, 21-05-91, Budapest, Sándor Károly Akadémia
+9, Sergio Tamayo, ESP, F, 1.77, 73, 28-03-91, Logroño, Logroñés
+11, Dániel Vadnai, HUN, D, 1.77, 66, 19-02-88, Budapest, Debrecen
+12, Dávid Kálnoki Kis, HUN, D, 1.88, 76, 06-08-91, Budapest, Sándor Károly Akadémia
+13, Ádám Hrepka, HUN, F, 1.83, 72, 15-04-87, Szeged, Haladás
+14, Sándor Torghelle, HUN, F, 1.85, 85, 05-05-82, Budapest, Videoton
+15, Khaly Thiam, SEN, M, 1.86, 83, 07-01-94, Dakar, Kaposvár
+16, Zsolt Pölöskei, HUN, F, 1.84, 78, 19-02-91, Budapest, Sándor Károly Akadémia
+18, Barnabás Bese, HUN, F, 1.83, 77, 06-05-94, Budapest, Sándor Károly Akadémia
+19, József Kanta, HUN, F, 1.70, 66, 24-03-84, Ajka, Ajka
+21, Dragan Vukmir, SRB, D, 1.84, 77, 02-08-78, Sremska Mitrovica, Honvéd
+22, Benjamin Cseke, HUN, M, 1.87, 82, 22-07-94, Budapest, Vasas
+23, Levente Csicsek, HUN, F, 1.88, 80, 24-01-96, Debrecen, Sándor Károly Akadémia
+24, Patrik Póór, HUN, D, 1.85, 79, 25-11-93, Győr, Sándor Károly Akadémia
+26, István Szatmári, HUN, F, 1.85, 71, 27-05-97, Budapest, Sándor Károly Akadémia
+27, Ramon Halmai, HUN, M, 1.86, 82, 18-04-94, Budapest, Haladás
+28, Federico Groppioni, ITA, G, 1.88, 78, 17-06-84, Rome, Bari
+29, Attila Abu, HUN, G, 1.94, 82, 22-01-93, Székesfehérvár, Sándor Károly Akadémia
+30, Tamás Fadgyas, HUN, G, 1.88, 82, 20-11-95, Budapest, Sándor Károly Akadémia
+33, Dániel Gera, HUN, M, 1.78, 70, 29-08-95, Budapest, Újpest
+34, Attila Talabér, HUN, D, 1.85, 83, 29-05-96, Budapest, Sándor Károly Akadémia
+35, Bence Varga, HUN, G, 1.92, 78, 09-01-96, Kazincbarcika, Sándor Károly Akadémia
+37, Konstantinos Ikonomou, HUN, D, 1.86, 77, 16-03-96, Budapest, Vasas
+38, Ádám Vass, HUN, M, 1.80, 75, 09-08-88, Kápolnásnyék, Oostende
+39, Ádám Schrammel, HUN, M, 1.73, 66, 19-07-96, Budapest, Sándor Károly Akadémia
+41, Milán Sági, HUN, M, 1.78, 70, 19-07-95, Pécs, Sándor Károly Akadémia
+42, Bence Magyar, HUN, D, 1.75, 71, 20-03-96, Budapest, Sándor Károly Akadémia
+43, Bálint Vogyicska, HUN, M, 1.81, 73, 27-02-98, Mohács, Sándor Károly Akadémia
+47, Antal Imre Széles, HUN, D, 1.96, 84, 30-11-95, Győr, Sándor Károly Akadémia
+49, Sinan Sinanovic, HUN, F, 1.74, 68, 27-03-97, Mohács, Illés Akadémia
+50, Erik Istenes, HUN, F, 1.85, 76, 05-04-96, Nyíregyháza, Sándor Károly Akadémia
+52, Marcell Fekete, HUN, D, 1.82, 74, 09-10-96, Kecskemét, Sándor Károly Akadémia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Richárd Frank, HUN, F, 1.82, 73, 28-09-90, Pécs, Pécs
+20, István Rodenbücher, HUN, D, 1.84, 78, 22-02-84, Németkér, Paks
+25, Sándor Hidvégi, HUN, M, 1.83, 76, 09-04-83, Rákosszentmihály, Ferencváros
+11, Tibor Ladányi, HUN, M, 1.79, 75, 21-11-91, Budapest, Szigetszentmiklós (On Loan)
+17, Patrik Vass, HUN, F, 1.84, 75, 17-01-93, Budapest, Vasas (On Loan)

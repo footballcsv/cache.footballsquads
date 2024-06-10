@@ -1,0 +1,48 @@
+=  Granada - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Nacional [POR]
+3, Gastón Silva, URU, D, 1.83, 74, 05-03-94, Salto, Torino
+4, Sergi Samper, ESP, M, 1.81, 73, 20-01-95, Barcelona, Barcelona
+5, Uche Agbo, NGA, M, 1.86, 73, 04-12-95, Kano City, Watford
+6, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Elche
+7, Adrián Ramos, COL, F, 1.85, 72, 22-01-86, Santander de Quilichao, Borussia Dortmund
+8, Wakaso Mubarak, GHA, M, 1.65, 79, 25-07-90, Tamale, Panathinaikos
+9, Ezequiel Ponce, ARG, F, 1.76, 72, 29-03-97, Rosario, Roma
+10, Jeremie Boga, FRA, M, 1.72, 68, 03-01-97, Marseille, Chelsea
+11, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Udinese
+13, Guillermo Ochoa, MEX, G, 1.83, 73, 13-07-85, Guadalajara, Málaga
+14, Franck Tabanou, FRA, M, 1.78, 70, 30-01-89, Thiais, Swansea C
+15, Omer Atzili, ISR, F, 1.74, 67, 27-07-93, Holon, Beitar Jerusalem
+16, Mehdi Carcela-Gonzalez, MAR, M, 1.76, 67, 01-07-89, Liège, Benfica
+17, Rúben Vezo, POR, D, 1.84, 76, 25-04-94, Setúbal, Valencia
+18, Andreas Pereira, BEL, M, 1.77, 66, 01-01-96, Duffel, Manchester U
+19, Isaac Cuenca, ESP, M, 1.81, 74, 27-04-91, Reus, Bursaspor
+20, Matthieu Saunier, FRA, D, 1.81, 75, 07-02-90, Hyeres, Troyes
+21, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Almería
+22, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Rennes
+23, Héctor Hernández, ESP, D, 1.71, 65, 23-05-91, Valladolid, Real Sociedad
+24, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Dynamo Kyiv
+25, Sverrir Ingi Ingason, ISL, D, 1.88, 83, 05-08-93, Kópavogur, Lokeren
+26, Victorien Angban, CIV, M, 1.80, 70, 29-09-96, Abidjan, Chelsea
+28, Jean Carlos, BRA, F, 1.85, 76, 10-05-96, Ouro Preto, Real Madrid B
+29, Martin Hongla, CMR, D, 1.83, 75, 16-03-98, Yaoundé, Granada B
+30, Juanan Entrena, ESP, M, 1.83, 71, 19-05-96, Huétor Tájar, Espanyol B
+31, Sulayman Marreh, GAM, M, 1.84, 70, 15-01-96, Banjul, Samger
+34, Aly Mallé, MLI, M, 1.77, 70, 03-04-98, Bamako, Watford
+35, Pervis Estupiñán, ECU, D, 1.75, 69, 21-01-98, Esmeraldas, Watford
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Fran Rico, ESP, M, 1.78, 71, 03-08-87, Portonovo, Eibar (On Loan)
+14, Luís Martins, POR, D, 1.76, 65, 10-06-92, Lamego, Marítimo (On Loan)
+25, Ivan Kelava, CRO, G, 1.95, 94, 20-02-88, Zagreb, Debrecen
+11, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Arsenal
+7, David Barral, ESP, F, 1.83, 78, 10-05-83, Cádiz, APOEL
+17, Sergi Guardiola, ESP, F, 1.80, 77, 29-05-91, Manacor, Murcia (On Loan)
+1, Oier Olazábal, ESP, G, 1.89, 82, 14-09-89, Irún, Levante (On Loan)
+12, Gabriel Silva, BRA, D, 1.79, 74, 13-05-91, Piracicaba, Udinese
+2, Tito, ESP, D, 1.74, 62, 11-07-85, Madrid, Leganés (On Loan)
+8, Javi Márquez, ESP, M, 1.74, 71, 11-05-86, Barcelona, New York Cosmos
+23, Alberto Bueno, ESP, F, 1.78, 65, 20-03-88, Madrid, FC Porto

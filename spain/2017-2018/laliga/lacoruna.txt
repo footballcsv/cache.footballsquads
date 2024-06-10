@@ -1,0 +1,44 @@
+=  Deportivo La Coruña - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Przemysław Tytoń, POL, G, 1.95, 85, 04-01-87, Zamość, Stuttgart
+2, Juanfran Moreno, ESP, D, 1.80, 71, 11-09-88, Madrid, Watford
+3, Fernando Navarro, ESP, D, 1.77, 70, 25-06-82, Barcelona, Sevilla
+4, Eneko Bóveda, ESP, D, 1.82, 77, 14-12-88, Bilbao, Athletic Bilbao
+5, Pedro Mosquera, ESP, M, 1.84, 75, 21-04-88, La Coruña, Elche
+6, Raúl Albentosa, ESP, D, 1.92, 89, 07-09-88, Alzira, Derby Co
+7, Lucas, ESP, F, 1.80, 82, 10-09-88, La Coruña, Arsenal
+8, Emre Çolak, TUR, M, 1.69, 67, 20-05-91, Eminönü, Galatasaray
+9, Fede Cartabia, ARG, M, 1.69, 65, 20-01-93, Bombal, Valencia B
+10, Florin Andone, ROU, F, 1.80, 78, 11-04-93, Botoșani, Córdoba
+11, Carles Gil, ESP, M, 1.71, 64, 22-11-92, Valencia, Aston Villa
+12, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Benfica
+13, Rubén, ESP, G, 1.88, 79, 22-06-84, Coristanco, Levante
+14, Michael Krohn-Dehli, DEN, M, 1.71, 71, 06-06-83, Hvidovre, Sevilla
+15, Adrián López, ESP, F, 1.83, 73, 08-01-88, San Martín de Teverga, FC Porto
+16, Luisinho, POR, D, 1.71, 66, 05-05-85, Porto, Benfica
+17, Federico Valverde, URU, M, 1.81, 76, 22-07-98, Montevideo, Real Madrid B
+18, Zakaria Bakkali, BEL, M, 1.68, 71, 26-01-96, Liège, Valencia
+19, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Oviedo
+20, Guilherme, BRA, M, 1.79, 77, 05-04-91, Santo André, Udinese
+21, Sulley Muntari, GHA, M, 1.79, 76, 27-08-84, Konongo, Pescara
+22, Celso Borges, CRC, M, 1.82, 78, 27-05-88, San José [CRC], AIK
+23, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Nàstic
+24, Fabian Schär, SUI, D, 1.88, 84, 20-12-91, Wil, 1899 Hoffenheim
+25, Maksym Koval, UKR, G, 1.84, 70, 09-12-92, Zaporizhya, Dynamo Kyiv
+26, Francis Uzoho, NGA, G, 1.96, 91, 28-10-98, Nwangele, Aspire Academy
+27, Edu Expósito, ESP, M, 1.79, 68, 01-08-96, Barcelona, Deportivo B
+28, Pinchi, ESP, M, 1.73, 62, 17-06-96, La Coruña, Deportivo B
+30, Álex Cobo, ESP, G, 1.84, 78, 06-07-95, Sant Boi de Llobregat, Lleida
+31, Blas, ESP, D, 1.83, 77, 08-02-97, La Coruña, Deportivo B
+32, Quique Fornos, ESP, D, 1.81, 69, 01-01-97, As Pontes, Deportivo B
+33, Steve Aldo One, CMR, D, 1.83, 79, 05-01-95, Can Picafort, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Alejandro Arribas, ESP, D, 1.82, 75, 01-05-89, Madrid, UNAM
+4, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Numancia (On Loan)
+21, Bruno Gama, POR, M, 1.75, 73, 15-11-87, Vila Verde, Alcorcón
+25, Costel Pantilimon, ROU, G, 2.02, 108, 01-02-87, Bacău, Watford
+14, Maksym Koval, UKR, G, 1.84, 70, 09-12-92, Zaporizhya, Re-Registered (25)

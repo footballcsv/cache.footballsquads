@@ -1,0 +1,54 @@
+=  Amkar - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maxim Chadov, G, 6'03, 13 01, 14-05-85, Perm, Dynamo Perm
+2, Maxim Povorov, D, 6'00", 12 06, 17-09-77, Moscow, Fakel
+3, Andrey Lavrik, M, 5'10", 11 09, 07-12-74, Minsk, Dynamo SPb
+4, Gennadiy Oleksich, D, 6'00", 12 00, 23-08-78, Kishinev, Zimbru
+5, Aleksandr Shutov, M, 5'10", 10 12, 12-06-75, Sevastopol, Tom
+6, Igor Bakhtin, D, 5'10", 11 03, 12-02-73, Nizniy Tagil, FC Rostov
+7, Dmitriy Pyatibratov, D, 6'01", 12 13, 24-05-76, Rostov, Volgar-Gazprom
+8, Sergey Volkov, F, 5'09", 11 00, 27-09-80, Kaluga, Lokomotiv Kaluga
+9, Konstantin Paramonov, F, 5'11", 13 01, 26-11-73, Perm, Zvezda
+10, Andrey Kobenko, M, 5'10", 10 08, 25-06-82, Rostov, Slavyansk
+11, Dmitriy Makarov, F, 5'10", 11 11, 16-09-82, St. Petersburg, Zenit
+12, Alexey Stepanov, G, 6'03", 13 10, 05-12-77, Izevsk, Gazovik-Gazprom
+13, Maxim Filippov, F, 6'01", 12 04, 15-02-84, Magnitagorsk, Metallurg-Metiznik
+14, Zakhari Sirakov, D, 5'11", 11 07, 08-10-77, Sofia, Rapid
+15, Algis Jankauskas, D, 6'00", 11 00, 27-09-82, Vilnius, Zhalgiris
+16, Erik Lincar, M, 5'10", 11 11, 16-10-78, Oradea, Akratitos
+17, Vladimir Leonchenko, M, 6'00", 11 07, 11-04-72, Rostov, Torpedo
+19, Anatoliy Didenko, M, 6'04", 12 13, 09-06-82, Yuznoukrainsk, Nikolaev
+20, Ivan Levenets, G, 6'00", 12 00, 22-02-80, Sochi, Chernomorets
+21, Dmitriy Belorukov, D, 6'03", 13 05, 24-03-83, St. Petersburg, Anzhi
+22, Konstantin Genich, M, 5'10", 12 01, 03-01-78, Lyuberci, Khimki
+24, Alexey Popov, D, 6'02", 12 06, 07-07-78, Perm, Zvezda
+25, Pavel Alikin, D, 5'08", 10 10, 06-03-84, Perm, None
+26, Branko Radovanović, F, 6'03", 13 08, 18-02-81, Belgrade, Radnicki
+27, Albart Sarkysjan, M, 6'00", 12 01, 15-05-75, Nalcik, Alania
+28, Evgeniy Iordanov, F, 6'02", 12 06, 04-02-78, Sofia, CSKA Sofia
+29, Martin Kushev, F, 6'02", 12 08, 25-08-73, Sofia, Slavia Sofia
+32, Ivan Cherenchikov, M, 6'00", 12 04, 25-08-84, Perm, Dynamovec
+33, Maxim Alikin, M, 5'08", 10 10, 14-05-87, Perm, None
+34, Vladislav Zakoptelov, M, 5'10", 10 03, 26-06-88, Perm, None
+40, Maxim Trofimov, G, 6'01", 11 11, 12-06-85, Perm, None
+44, Dmitriy Goldobin, D, 6'01", 11 11, 11-01-87, Perm, None
+45, Ivan Kljukin, M, 5'10", 11 03, 05-06-86, Perm, None
+46, Gleb Boglaevskiy, M, 5'09", 10 12, 04-07-86, Perm, None
+47, Aleksandr Ivanov, M, 5'09", 10 12, 12-12-86, Perm, None
+48, Yuriy Shestakov, F, 6'01", 12 00, 21-06-85, Perm, None
+49, Roman Morozov, M, 5'10", 11 05, 17-02-85, Perm, None
+50, Alexey Vayman, D, 5'10", 11 00, 05-09-87, Perm, None
+51, Vladimir Tokarev, D, 5'09", 10 10, 01-10-83, Perm, None
+99, Noureddine Ziyati, M, 5'11", 12 06, 27-10-74, Mohammedia, Rapid Bucharest
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Sergey Savochkin, M, 6'00", 12 01, 08-02-76, Saransk, 
+43, Maxim Filippov, F, 6'01", 12 04, 15-02-84, Magnitagorsk, Re-Registered (13)
+49, Evgeniy Nazarov, F, 5'07", 09 11, 01-01-88, Perm, Amkar B
+52, Petr Zabrodin, D, 6'00", 10 08, 30-04-87, Perm, Amkar B
+30, Stanislav Alekseenko, M, 5'10", 11 05, 11-01-84, Perm, 
+31, Evgeniy Shipitsin, M, 5'09", 10 08, 16-01-85, Perm, Sokol
+26, Branimir Subasic, F, 6'00", 11 11, 07-04-82, Belgrade, Neftchi

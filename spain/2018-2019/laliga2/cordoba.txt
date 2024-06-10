@@ -1,0 +1,45 @@
+=  Córdoba - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Miguel Flaño, ESP, D, 1.77, 72, 19-08-84, Pamplona, Osasuna
+5, Chus Herrero, ESP, D, 1.83, 75, 10-02-84, Zaragoza, Albacete
+6, Yann Bodiger, FRA, M, 1.88, 78, 09-02-95, Sète, Toulouse
+9, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Ternana
+10, Alejandro Alfaro, ESP, F, 1.73, 68, 23-11-86, La Palma del Condado, Valladolid
+11, Álex Menéndez, ESP, D, 1.81, 67, 15-07-91, Gijón, Aris
+13, Carlos Abad, ESP, G, 1.93, 85, 06-02-93, Puerto de la Cruz, Tenerife
+14, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Udinese
+15, Miguel Loureiro, ESP, D, 1.80, 75, 21-11-96, Cerceda, Pontevedra
+16, Álex Quintanilla, ESP, D, 1.84, 78, 02-07-90, Bilbao, Almería
+17, José Manuel Fernández, ESP, D, 1.68, 66, 18-11-89, Córdoba, Oviedo
+18, Miguel de las Cuevas, ESP, M, 1.75, 70, 19-06-86, Alicante, Osasuna
+19, Quim Araujo, ESP, M, 1.83, 73, 10-03-88, Barcelona, Albacete
+20, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Cádiz
+21, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, Mallorca
+22, Blati Touré, BFA, M, 1.70, 61, 04-08-94, Bouaké, AFC Eskilstuna
+23, Javi Lara, ESP, M, 1.79, 71, 04-12-85, Montoro, Atlético de Kolkata
+24, Luis Muñoz, ESP, D, 1.80, 72, 23-02-97, Málaga, Málaga B
+26, Marcos Lavín, ESP, G, 1.87, 79, 02-09-96, Madrid, Atlético Saguntino
+27, Álex Carbonell, ESP, M, 1.75, 70, 15-09-97, Cerdanyola del Vallès, Reus
+28, Borja Estepa, ESP, F, , , 24-05-99, Córdoba, Córdoba B
+29, Neftali Manzambi, SUI, F, 1.79, 80, 23-04-97, Luanda, Basel
+30, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Córdoba B
+31, Alberto González, ESP, G, 1.90, 85, 23-07-96, Córdoba, Córdoba B
+32, Luismi Quezada, DOM, D, 1.71, 66, 11-02-96, Madrid, Real Madrid B
+33, Juan Llamas, ESP, G, , , 01-01-99, Lucena, Córdoba B
+34, Kevin, ESP, M, , , 24-12-98, Seville, Córdoba B
+36, Chuma, ESP, F, , , 13-02-97, Seville, Córdoba B
+37, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Jaén
+38, Antonio Moyano, ESP, M, 1.78, 69, 13-07-00, Montilla, Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Alberto Quiles, ESP, F, 1.88, 70, 27-04-95, Huelva, Recreativo Huelva (On Loan)
+20, Franck-Yves Bambock, FRA, M, 1.81, 78, 07-04-95, Douala, Maccabi Petah Tikva
+7, Saša Jovanović, SRB, F, 1.76, 75, 15-12-91, Lazarevac, Al-Fateh
+5, Aythami, ESP, D, 1.84, 79, 02-04-86, Arguineguín, Las Palmas
+29, Erik Expósito, ESP, F, 1.92, 83, 23-06-96, Santa Cruz de Tenerife, Las Palmas B
+11, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Huesca
+4, Jesús, ESP, D, 1.85, 79, 15-10-91, Las Américas, Recreativo Huelva
+27, Sebas Moyano, ESP, M, 1.73, 66, 23-03-97, Villanueva del Duque, Valencia B (On Loan)

@@ -1,0 +1,39 @@
+=  VfL Osnabrück - German 2.Bundesliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nils-Jonathan Körber, GER, G, 1.86, 84, 13-11-96, Berlin, Hertha Berlin
+2, Manuel Farrona Pulido, GER, M, 1.75, 68, 01-05-93, Kaltenkirchen, Fortuna Köln
+4, Lukas Gugganig, AUT, D, 1.91, 79, 14-02-95, Spittal an der Drau, Greuther Fürth
+5, Konstantin Engel, GER, D, 1.78, 74, 27-07-88, Karaganda, Astana
+6, Moritz Heyer, GER, D, 1.82, 69, 04-04-95, Ostercappeln, Hallescher FC
+7, Bashkim Ajdini, GER, D, 1.76, 73, 10-12-92, Halmstad, Sonnenhof Großaspach
+8, Ulrich Taffertshofer, GER, M, 1.83, 85, 14-02-92, Penzberg, Unterhaching
+9, Marcos Álvarez, GER, F, 1.79, 77, 30-09-91, Gelnhausen, Dynamo Dresden
+10, Anas Ouahim, MAR, M, 1.72, 63, 23-09-97, Leverkusen, Köln
+11, Assan Ceesay, GAM, F, 1.88, 75, 17-03-94, Banjul, Zürich
+13, Joost van Aken, NED, D, 1.78, 75, 13-05-94, Haarlem, Sheffield W
+14, Etienne Amenyido, GER, F, 1.80, 70, 01-03-98, Herford, Borussia Dortmund II
+16, Thomas Konrad, GER, D, 1.83, 76, 05-11-89, Bruchsal, Viktoria Berlin
+17, Adam Sušac, CRO, D, 1.84, 80, 20-05-89, Varaždin, Erzgebirge Aue
+18, Maurice Trapp, GER, D, 1.90, 86, 31-12-91, Berlin, Chemnitzer FC
+19, Kevin Wolze, GER, D, 1.74, 69, 09-03-90, Wolfsburg, Duisburg
+20, Marc Heider, GER, F, 1.85, 87, 18-05-86, Sacramento, Holstein Kiel
+21, Laurenz Beckmeyer, GER, G, 1.82, 78, 16-04-00, Lingen, None
+22, Philipp Kühn, GER, G, 1.89, 94, 02-09-92, Beckum, Drochtersen
+23, David Blacha, POL, M, 1.74, 69, 22-10-90, Wickede (Ruhr), Wehen Wiesbaden
+25, Sven Köhler, GER, M, 1.85, 78, 08-11-96, Warstein, Lippstadt
+26, Sebastian Klaas, GER, M, 1.78, 65, 30-06-98, Ibbenbüren, None
+27, Felix Agu, GER, D, 1.80, 66, 27-09-99, Osnabrück, None
+29, Bryan Henning, GER, M, 1.72, 72, 16-03-95, Berlin, Wacker Innsbruck
+30, Benjamin Girth, GER, F, 1.81, 82, 31-01-92, Magdeburg, Holstein Kiel
+31, Niklas Schmidt, GER, M, 1.84, 82, 01-03-98, Kassel, Werder Bremen
+32, David Buchholz, GER, G, 1.87, 86, 05-08-84, Guben, Straelen
+34, Simon Haubrock, GER, D, 1.87, 80, 05-02-00, Bünde, Schalke
+36, Jakob Duhme, GER, D, 1.82, 78, 20-02-01, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Alexander Riemann, GER, F, 1.83, 74, 12-04-92, Mühldorf am Inn, Wacker Burghausen
+11, Nico Granatowski, GER, F, 1.72, 77, 03-06-91, Braunschweig, Hansa Rostock (On Loan)
+28, Kevin Friesenbichler, AUT, F, 1.88, 75, 06-05-94, Weiz, Sturm Graz

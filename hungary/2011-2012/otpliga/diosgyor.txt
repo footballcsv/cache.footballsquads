@@ -1,0 +1,49 @@
+=  Diósgyor - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Radoš, CRO, G, 1.87, 84, 21-02-84, Zagreb, Croatia Sesvete
+2, Savo Raković, SRB, D, 1.83, 75, 01-10-85, , Sloboda Sevojno
+3, Zsolt Kovács, HUN, D, 1.86, 80, 29-06-92, Miskolc, None
+5, Igor Gal, CRO, D, 1.89, 82, 20-01-83, Koprivnica, Slaven Belupo
+6, Gergő Góhér, HUN, D, 1.84, 77, 16-06-87, Hatvan, Szolnok
+7, Francisco Gallardo, ESP, M, 1.72, 66, 13-01-80, Seville, Huesca
+8, Vicente Arze, BOL, M, 1.78, 74, 22-11-85, Santa Cruz de la Sierra, Aurora
+10, Mohamadou Abdouraman, CMR, M, 1.92, 75, 24-01-85, Yaoundé, Bőcs
+11, Péter Takács, HUN, M, 1.75, 65, 25-01-90, Miskolc, Lombard Pápa
+13, Bence Rakaczi, HUN, G, 1.87, 83, 14-05-93, Miskolc, None
+14, Tamás Nagy, HUN, D, 1.82, 74, 18-01-88, Kazincbarcika, Kazincbarcika
+15, András Vági, HUN, D, 1.82, 73, 25-12-88, Budapest, Aarau
+17, Krisztián Budovinszky, HUN, D, 1.93, 93, 18-04-76, Mohács, Shahrdari Tabriz
+18, Máté Czégel, HUN, M, 1.86, 84, 11-04-93, Miskolc, None
+20, Fernando, ESP, M, 1.81, 76, 02-06-79, Málaga, Málaga
+21, George Menougong, CMR, F, 1.76, 70, 18-05-85, Yaoundé, Bőcs
+23, Viktor Vadász, HUN, D, 1.85, 70, 15-08-86, Székesfehérvár, Kazincbarcika
+28, Tibor Tisza, HUN, F, 1.74, 70, 10-11-84, Debrecen, Újpest
+32, Péter Herceg, HUN, G, 1.84, 81, 20-03-94, Miskolc, Ózd
+42, Róbert Ragályi, HUN, G, 1.86, 84, 19-03-95, Miskolc, None
+68, Dávid Szabó, HUN, M, 1.81, 72, 10-06-92, Miskolc, None
+75, Bernardo Frizoni, BRA, M, 1.77, 71, 12-03-90, Volta Redonda, Bodva Moldava nad Bodvou
+77, José Juan Luque, ESP, F, 1.73, 66, 16-10-77, Castillejos, Murcia
+83, Norbert Tajti, HUN, G, 1.86, 82, 07-10-83, Marcali, Mezőkövesd
+88, L'imam Seydi, SEN, F, 1.86, 85, 31-08-85, Paris, Bodva Moldava nad Bodvou
+90, Balázs Demkó, HUN, M, 1.84, 82, 26-08-92, Miskolc, None
+91, Péter Bogáti, HUN, M, 1.83, 81, 13-03-91, Budapest, Ferencváros
+92, Patrik Bacsa, HUN, F, 1.84, 74, 03-06-92, Miskolc, None
+93, Márk Czető, HUN, D, 1.83, 75, 09-01-93, Miskolc, None
+94, Gábor Eperjesi, HUN, D, 1.78, 67, 12-01-94, Miskolc, None
+95, Martin Csirszki, HUN, M, 1.81, 81, 07-01-95, Miskolc, None
+96, Marcell Hornyák, HUN, F, 1.83, 79, 07-12-93, Rakamaz, None
+98, Youssef Sekour, FRA, M, 1.88, 80, 27-02-88, Istres, Lillestrøm
+99, Attila Dobos, HUN, M, 1.70, 66, 24-11-78, Miskolc, REAC
+, Tamás Turcsik, HUN, D, 1.88, 82, 31-10-90, Miskolc, Zalaegerszeg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Enrique Carreño, ESP, F, 1.83, 80, 27-11-86, Utrera, Zaragoza B
+37, Richárd Illés, SVK, M, 1.73, 69, 15-02-91, Rimavská Sobota, Kazincbarcika (On Loan)
+19, Péter Szabó, HUN, M, 1.83, 74, 21-10-91, Szeged, Kazincbarcika (On Loan)
+24, Szabolcs Pál, HUN, M, 1.85, 75, 14-01-88, Budapest, Siófok (On Loan)
+16, Tibor Halgas, HUN, M, 1.80, 70, 26-05-81, Budapest, Kazincbarcika (On Loan)
+79, Ákos Lippai, HUN, M, 1.74, 69, 13-06-79, Miskolc, 
+12, Balázs Farkas, HUN, G, 1.84, 80, 02-11-78, Budapest, 

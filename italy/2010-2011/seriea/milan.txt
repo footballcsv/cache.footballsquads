@@ -1,0 +1,52 @@
+=  Milan - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Amelia, ITA, G, 1.87, 78, 02-04-82, Frascati, Genoa
+4, Mark van Bommel, NED, M, 1.87, 85, 22-04-77, Maasbracht, Bayern Munich
+7, Alexandre Pato, BRA, F, 1.79, 71, 02-09-89, Pato Branco, Internacional
+8, Gennaro Gattuso, ITA, M, 1.77, 77, 09-01-78, Corigliano, Rangers
+9, Filippo Inzaghi, ITA, F, 1.81, 74, 09-08-73, Piacenza, Juventus
+10, Clarence Seedorf, NED, M, 1.76, 76, 01-04-76, Paramaribo, Internazionale
+11, Zlatan Ibrahimović, SWE, F, 1.92, 84, 03-10-81, Malmö, Barcelona
+13, Alessandro Nesta, ITA, D, 1.87, 79, 19-03-76, Rome, Lazio
+14, Rodney Strasser, SLE, M, 1.78, 80, 30-03-90, Freetown, None
+15, Sokratis Papastathopoulos, GRE, D, 1.83, 82, 09-06-88, Kalamata, Genoa
+16, Mathieu Flamini, FRA, M, 1.78, 67, 07-03-84, Marseille, Arsenal
+17, Massimo Oddo, ITA, D, 1.82, 76, 14-06-76, Città Sant'Angelo, Lazio
+18, Marek Jankulovski, CZE, D, 1.83, 82, 09-05-77, Ostrava, Udinese
+19, Gianluca Zambrotta, ITA, D, 1.81, 76, 19-02-77, Como, Barcelona
+20, Ignazio Abate, ITA, D, 1.80, 73, 12-11-86, Sant'Agata de' Goti, Torino
+21, Andrea Pirlo, ITA, M, 1.77, 68, 19-05-79, Brescia, Internazionale
+23, Massimo Ambrosini, ITA, M, 1.82, 72, 29-05-77, Pesaro, Cesena
+25, Daniele Bonera, ITA, D, 1.83, 74, 31-05-81, Brescia, Parma
+26, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Bologna
+27, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Genoa
+28, Urby Emanuelson, NED, M, 1.76, 68, 16-06-86, Amsterdam, Ajax
+30, Flavio Roma, ITA, G, 1.92, 89, 21-06-74, Rome, Monaco
+32, Christian Abbiati, ITA, G, 1.91, 92, 08-07-77, Milan, Monza
+33, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Fluminense
+35, Dídac, ESP, D, 1.86, 81, 09-06-89, Mataró, Espanyol
+50, Davide Di Fabio, ITA, G, 1.88, 82, 16-06-92, L'Aquila, Gubbio
+51, Giacomo Beretta, ITA, F, 1.83, 74, 14-03-92, Varese, AlbinoLeffe
+52, Alexander Merkel, GER, M, 1.77, 67, 22-02-92, Pervomayskiy, Stuttgart
+53, Rodrigo Ely, BRA, D, 1.88, 82, 03-11-93, Lajeado, Grêmio
+54, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Atalanta
+55, Simone Verdi, ITA, F, 1.72, 62, 12-07-92, Broni, None
+56, Andrea De Vito, ITA, D, 1.79, 72, 27-11-91, Pavia, None
+61, Alberto Andrea Paleari, ITA, G, 1.93, 88, 29-08-92, Giussano, None
+66, Nicola Legrottaglie, ITA, D, 1.85, 73, 20-10-76, Gioia Del Colle, Juventus
+70, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Manchester C
+76, Mario Yepes, COL, D, 1.87, 79, 13-01-76, Cali, Chievo Verona
+77, Luca Antonini, ITA, D, 1.82, 70, 04-02-82, Milan, Empoli
+90, Nnamdi Oduamadi, NGA, F, 1.75, 65, 17-10-90, Lagos, None
+99, Antonio Cassano, ITA, F, 1.75, 78, 12-07-82, Bari, Sampdoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Klaas Jan Huntelaar, NED, F, 1.86, 80, 12-08-83, Drempt, Schalke
+22, Marco Borriello, ITA, F, 1.80, 73, 18-06-82, Naples, Roma (On Loan)
+4, Kakha Kaladze, GEO, D, 1.86, 76, 27-02-78, Samtraedia, Genoa
+80, Ronaldinho, BRA, M, 1.82, 80, 21-03-80, Porto Alegre, Flamengo
+5, Oguchi Onyewu, USA, D, 1.92, 91, 13-05-82, Washington, FC Twente (On Loan)
+22, Bruno Montelongo, URU, D, 1.82, 72, 12-09-87, Montevideo, River Plate [URU]

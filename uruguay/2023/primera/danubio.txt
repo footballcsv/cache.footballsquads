@@ -1,0 +1,42 @@
+=  Danubio - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mauro Goicoechea, URU, G, 1.84, 81, 27-03-88, Montevideo, Boston River
+2, Santiago Etchebarne, URU, D, 1.85, 81, 01-09-94, Independencia, Guaireña
+3, Lucas Monzón, URU, D, 1.84, 78, 29-09-01, Jaguarão, None
+4, Franco Faría, ARG, M, 1.78, 74, 22-04-94, Santa Fe, Cerro
+5, Santiago Silva, URU, M, 1.81, 75, 20-08-04, Montevideo, None
+6, Leandro Sosa, URU, D, 1.77, 70, 18-03-91, Montevideo, Aldosivi (Mar del Plata)
+7, Facundo Silvera, URU, F, 1.73, 72, 18-11-01, Canelones, None
+8, Ribaír Rodríguez, URU, M, 1.82, 75, 04-10-87, Montevideo, River Plate [URU]
+9, Diego Vera, URU, F, 1.84, 74, 05-01-85, Montevideo, Racing Club [URU]
+10, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Cosenza
+11, Nicolás Rossi, URU, F, 1.78, 73, 21-03-02, Montevideo, Peñarol
+12, José Río, URU, G, 1.89, 79, 31-01-04, Montevideo, None
+14, Juan Millán, URU, M, 1.81, 73, 13-08-01, Florida, Nacional [URU]
+16, Alejo Cruz, URU, F, 1.70, 67, 01-09-00, Montevideo, Albion
+17, Rafael Haller, URU, D, 1.78, 79, 17-08-00, Montevideo, None
+18, Gonzalo Bueno, URU, F, 1.74, 71, 16-01-93, Montevideo, Pontevedra
+19, Santiago Romero, URU, M, 1.76, 76, 15-02-90, Montevideo, Liverpool [URU]
+20, Lucas Ferreira, URU, D, 1.89, 80, 16-06-00, Montevideo, Progreso
+21, Martín Rea, URU, D, 1.84, 80, 13-11-97, Montevideo, None
+22, Facundo Saravia, URU, D, 1.76, 74, 09-09-02, Montevideo, None
+25, Ignacio Pintos, URU, M, 1.78, 72, 24-08-04, Paysandú, None
+27, Mateo Argüello, URU, D, 1.77, 79, 10-07-02, Montevideo, None
+29, Jannenson Sarmiento, COL, M, 1.79, 76, 18-10-99, Barranquilla, None
+30, Sebastián Fernández, URU, F, 1.67, 69, 23-05-85, Montevideo, Liverpool [URU]
+31, Facundo Silvestre, URU, M, 1.84, 80, 27-11-00, Montevideo, Peñarol
+32, Emiliano Bermúdez, URU, G, 1.83, 79, 09-06-97, Montevideo, Cerrito
+34, Kevin Lewis, URU, D, 1.74, 73, 08-01-99, Cebollatí, Albion
+35, Francisco Martinicorena, URU, F, 1.90, 77, 09-02-04, Montevideo, None
+70, Vilington Branda, ECU, M, 1.73, 72, 23-11-01, Guayaquil, Deportivo Cuenca
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Mateo Ponte, URU, D, 1.83, 74, 24-05-03, Montevideo, Botafogo
+26, Maximiliano Añasco, URU, F, 1.74, 65, 04-05-01, Salto, Rampla Juniors (On Loan)
+11, Franco González, URU, M, 1.65, 60, 22-06-04, Montevideo, Peñarol
+23, Emiliano García, URU, F, 1.73, 69, 19-01-00, Montevideo, Sud América (On Loan)
+10, Guillermo May, URU, F, 1.78, 74, 11-03-98, Montevideo, Newell's Old Boys
+44, Jonathan Álvez, URU, F, 1.81, 80, 31-05-88, Vichadero, Naranja Mekánica

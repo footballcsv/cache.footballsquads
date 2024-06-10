@@ -1,0 +1,38 @@
+=  Chicago Fire - USA Major League Soccer 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Slonina, USA, G, 1.93, 89, 15-05-04, Addison, Chelsea
+2, Boris Sekulić, SVK, D, 1.87, 82, 21-10-91, Belgrade, Górnik Zabrze
+3, Jonathan Bornstein, USA, D, 1.75, 66, 07-11-84, Torrance, Maccabi Netanya
+5, Rafael Czichos, GER, D, 1.88, 86, 14-05-90, Jeddah, Köln
+6, Miguel Ángel Navarro, VEN, D, 1.73, 67, 26-02-99, Maracaibo, Deportivo La Guaira
+7, Jairo Torres, MEX, M, 1.68, 71, 05-07-00, Guadalajara, Atlas
+8, Chris Mueller, USA, F, 1.75, 74, 29-08-96, Schaumburg, Hibernian
+10, Xherdan Shaqiri, SUI, M, 1.69, 72, 10-10-91, Gnjilane, Lyon
+11, Kacper Przybyłko, POL, F, 1.92, 82, 25-03-93, Bielefeld, Philadelphia Union
+14, Jhon Espinoza, ECU, D, 1.73, 79, 24-02-99, Guayaquil, Aucas
+18, Spencer Richey, USA, G, 1.85, 89, 30-05-92, Seattle, Seattle Sounders
+20, Wyatt Omsberg, USA, D, 1.93, 82, 21-09-95, Scarborough, ME, Minnesota U
+21, Fabian Herbers, GER, M, 1.83, 77, 17-08-93, Ahaus, Philadelphia Union
+22, Mauricio Pineda, USA, D, 1.85, 78, 17-10-97, Chicago, Univ of Nth Carolina
+23, Carlos Terán, COL, D, 1.88, 85, 24-09-00, Turbo, Envigado
+26, Jhon Durán, COL, F, 1.85, 73, 13-12-03, Medellín, Envigado
+27, Kendall Burks, USA, D, 1.88, 75, 08-10-99, Tacoma, Univ of Washington
+30, Gastón Giménez, PAR, M, 1.85, 79, 27-07-91, Formosa, Vélez Sarsfield
+31, Federico Navarro, ARG, M, 1.70, 66, 09-03-00, Frontera, Talleres (Córdoba)
+32, Missael Rodríguez, USA, F, 1.75, 73, 09-02-03, Chicago, None
+33, Victor Bezerra, USA, F, 1.83, 79, 05-02-00, Chicago, Indiana Univ
+34, Chris Brady, USA, G, 1.90, 77, 03-03-04, Naperville, None
+35, Sergio Oregel, USA, M, 1.75, 65, 16-05-05, Evergreen Park, None
+36, Andre Reynolds II, USA, D, 1.75, 70, 02-05-01, Chicago, None
+37, Javier Casas, USA, M, 1.73, 64, 14-05-03, Melrose Park, None
+38, Alex Monis, USA, F, 1.68, 60, 20-03-03, Downers Grove, None
+39, Allan Rodríguez, USA, M, 1.68, 69, 27-05-04, Elkhart, None
+40, Brian Gutiérrez, USA, M, 1.78, 64, 17-06-03, Berwyn, None
+41, Mihajlo Mišković, SRB, G, 1.90, 96, 01-10-98, Zemun, Northwestern Univ
+99, Stanislav Ivanov, BUL, M, 1.75, 70, 16-04-99, Gabrovo, Levski Sofia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Chinonso Offor, NGA, F, 1.91, 84, 27-05-00, Jos, CF Montréal

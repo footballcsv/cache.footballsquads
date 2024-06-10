@@ -1,0 +1,57 @@
+=  Parma - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+3, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Milan
+4, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Livorno
+5, Cristian Zaccardo, ITA, D, 1.84, 74, 21-12-81, Formigine, Wolfsburg
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Paolo Castellini, ITA, D, 1.84, 78, 25-03-79, Brescia, Betis
+8, Francesco Lunardini, ITA, M, 1.72, 67, 03-11-84, Cesena, Rimini
+9, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Palermo
+10, Blerim Dzemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Torino
+11, Luis Jiménez, CHI, M, 1.83, 75, 17-06-84, Santiago, Internazionale
+14, Daniele Galloppa, ITA, M, 1.80, 71, 15-05-85, Rome, Siena
+15, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Palermo
+16, Pietro Baccolo, ITA, M, 1.86, 71, 21-06-90, Brescia, Padova
+19, Damiano Zenoni, ITA, D, 1.85, 74, 23-04-77, Trescore Balneario, Udinese
+20, Jonathan Ludovic Biabiany, FRA, F, 1.75, 70, 28-04-88, Paris, Internazionale
+22, Stefano Russo, ITA, G, 1.85, 79, 06-03-89, Nardò, Brindisi
+24, Massimo Paci, ITA, D, 1.90, 88, 09-05-78, Fermo, Genoa
+25, Nemanja Čović, SRB, F, 1.86, 80, 18-06-91, Novi Sad, Proleter Novi Sad
+26, Mohamed Lamine Traoré, GUI, D, 1.75, 69, 13-10-91, Kindia, None
+27, Zsolt Tamási, HUN, M, 1.78, 67, 25-06-90, Kalocsa, Cisco Roma
+30, Vinicius Fedrigo Dall'Agnol, BRA, D, , , 10-08-90, Guaporé, São José
+33, Antonio Santurro, ITA, G, 1.85, 74, 29-02-92, Parma, None
+34, Abel Gigli, ITA, D, 1.79, 72, 16-08-90, Busto Arsizio, None
+35, Gianluca Lapadula, ITA, F, 1.78, 72, 07-02-90, Turin, None
+43, Alberto Paloschi, ITA, F, 1.75, 68, 04-01-90, Chiari, Milan
+44, Mirco Frediani, ITA, M, , , 15-02-91, Parma, None
+45, Lorenzo Galassi, ITA, M, 1.81, 72, 31-05-91, Reggio Emilia, None
+46, Michele Margini, ITA, D, , , 17-07-91, Parma, None
+47, Tomas Terranova, ITA, M, , , 09-01-91, Parma, None
+48, Matteo Longhi, ITA, D, , , 19-12-91, Parma, None
+49, Alessandro Vecchi, ITA, D, 1.79, , 07-03-91, Guastalla, None
+77, Hernán Crespo, ARG, F, 1.84, 81, 05-07-75, Florida, Genoa
+80, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Bologna
+83, Antonio Mirante, ITA, G, 1.88, 78, 08-07-83, Castellamare di Stabia, Sampdoria
+86, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Manchester C
+90, Riccardo Pasi, ITA, M, 1.75, 70, 27-08-90, Bologna, Bologna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Torino (On Loan)
+10, Julio Cesar León, HON, M, 1.74, 75, 13-09-79, Cortés, Torino (On Loan)
+27, Matteo Mandorlini, ITA, M, 1.74, 68, 22-10-88, Como, Viareggio (On Loan)
+30, Filippo Savi, ITA, M, 1.75, 75, 29-01-87, Sala Baganza, Carpenedolo (On Loan)
+35, Daniele Paponi, ITA, F, 1.79, 66, 16-04-88, Ancona, Perugia (On Loan)
+29, Pablo Fontanello, ARG, D, 1.91, 84, 26-09-84, Lincoln [ARG], Tigre (On Loan)
+18, Nicolás Córdova, CHI, M, 1.75, 75, 09-02-79, Santiago, Brescia
+32, Alessandro Budel, ITA, M, 1.83, 82, 25-02-81, Basiglio, Brescia
+23, Daniele Vantaggiato, ITA, F, 1.77, 81, 10-10-84, Brindisi, Padova
+21, Alessio Manzoni, ITA, M, 1.77, 65, 10-04-87, Crema, Brescia (On Loan)
+23, Nicola Amoruso, ITA, F, 1.86, 75, 29-08-74, San Giovanni Rotondo, Atalanta
+17, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Internazionale
+11, Andrea Pisanu, ITA, M, 1.79, 74, 07-01-82, Cagliari, Bologna
+2, Christian Panucci, ITA, D, 1.80, 76, 12-04-73, Savona, 

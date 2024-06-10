@@ -1,0 +1,59 @@
+=  Queens Park Rangers - English Football League Championship 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robert Green, ENG, G, 1.91, 93, 18-01-80, Chertsey, West Ham U
+2, Danny Simpson, ENG, D, 1.73, 74, 04-01-87, Salford, Newcastle U
+3, Armand Traoré, SEN, D, 1.85, 82, 08-10-89, Paris, Arsenal
+4, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, West Ham U
+5, Richard Dunne, IRL, D, 1.88, 95, 21-09-79, Dublin, Aston Villa
+6, Clint Hill, ENG, D, 1.83, 73, 19-10-78, Liverpool, Crystal Palace
+7, Matt Phillips, SCO, M, 1.83, 75, 13-03-91, Aylesbury, Blackpool
+8, Andy Johnson, ENG, F, 1.70, 64, 10-02-81, Bedford, Fulham
+9, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, Burnley
+10, Tom Carroll, ENG, M, 1.77, 71, 28-05-92, Watford, Tottenham H
+11, Shaun Wright-Phillips, ENG, M, 1.66, 64, 25-10-81, Greenwich, Manchester C
+12, Will Keane, ENG, F, 1.78, 78, 11-01-93, Stockport, Manchester U
+13, Yoon Suk-Young, KOR, D, 1.82, 74, 13-02-90, Suwon, Chunnam Dragons
+14, Kevin Doyle, IRL, F, 1.80, 79, 18-09-83, Wexford, Wolverhampton W
+15, Nedum Onuoha, ENG, D, 1.83, 78, 12-11-86, Warri, Manchester C
+16, Jermaine Jenas, ENG, M, 1.77, 76, 18-02-83, Nottingham, Tottenham H
+17, Joey Barton, ENG, M, 1.80, 76, 02-09-82, Huyton, Newcastle U
+18, Aaron Hughes, NIR, D, 1.83, 72, 08-11-79, Magherafelt, Fulham
+19, Niko Kranjčar, CRO, M, 1.85, 75, 13-08-84, Zagreb, Dynamo Kyiv
+20, Karl Henry, ENG, M, 1.83, 76, 26-11-82, Wolverhampton, Wolverhampton W
+21, Luke Young, ENG, D, 1.83, 78, 19-07-79, Harlow, Aston Villa
+22, Hogan Ephraim, ENG, M, 1.75, 70, 31-03-88, Islington, West Ham U
+23, Junior Hoilett, CAN, M, 1.73, 70, 05-06-90, Brampton, Blackburn R
+25, Bobby Zamora, ENG, F, 1.83, 74, 16-01-81, Barking, Fulham
+26, Brian Murphy, IRL, G, 1.83, 83, 07-05-83, Waterford, Ipswich T
+28, Max Ehmer, GER, M, 1.88, 70, 03-02-92, Frankfurt am Main, None
+30, Frankie Sutherland, IRL, M, 1.75, 64, 06-12-93, Hillingdon, None
+32, Alejandro Faurlín, ARG, M, 1.85, 79, 09-08-86, Rosario, Instituto (Córdoba)
+34, Mo Shariff, ENG, F, 1.77, 64, 08-03-93, Newham, Slough T
+35, Yossi Benayoun, ISR, M, 1.78, 70, 05-05-80, Beersheba, Chelsea
+36, Gary O'Neil, ENG, M, 1.73, 61, 18-05-83, Beckenham, West Ham U
+37, Jamie Sendles-White, NIR, D, 1.88, 85, 10-04-94, Kingston upon Thames, None
+38, Coll Donaldson, SCO, D, 1.88, 83, 09-04-95, Edinburgh, Livingston
+39, Benoît Assou-Ekotto, CMR, D, 1.80, 69, 24-03-84, Arras, Tottenham H
+40, Modibo Maïga, MLI, F, 1.85, 76, 03-09-86, Bamako, West Ham U
+41, Aaron Lennox, AUS, G, 1.91, 82, 19-02-93, Hurstville, AIS
+42, Mike Petrasso, CAN, M, 1.68, 64, 07-09-95, Toronto, Toronto FC
+43, Jordan Gibbons, ENG, M, 1.73, 74, 18-11-93, Bromley, None
+49, Guilherme Dellatorre, BRA, F, 1.81, 76, 01-05-92, São José Rio Preto, Desportivo Brasil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Loïc Rémy, FRA, F, 1.84, 76, 02-01-87, Lyon, Newcastle U (On Loan)
+7, Park Ji-Sung, KOR, M, 1.75, 70, 25-02-81, Suwon, PSV Eindhoven (On Loan)
+35, Anton Ferdinand, ENG, D, 1.83, 71, 18-02-85, Peckham, Antalyaspor
+14, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, Real Sociedad (On Loan)
+27, Michael Harriman, IRL, D, 1.68, 74, 23-10-92, Chichester, Gillingham (On Loan)
+40, Stéphane Mbia, CMR, M, 1.89, 82, 20-05-86, Yaoundé, Sevilla (On Loan)
+4, Shaun Derry, ENG, M, 1.83, 82, 06-12-77, Nottingham, Notts Co
+18, Ernesto Javier Chevantón, URU, F, 1.74, 68, 12-08-80, Juan Lacaze, Liverpool [URU]
+14, Oguchi Onyewu, USA, D, 1.92, 91, 13-05-82, Washington, Sheffield W
+10, Adel Taarabt, MAR, M, 1.80, 76, 24-05-89, Taza, Milan (On Loan)
+24, Samba Diakité, MLI, M, 1.86, 76, 24-01-89, Montfermeil, Watford (On Loan)
+29, Tom Hitchcock, ENG, F, 1.78, 71, 01-10-92, Hemel Hempstead, Rotherham U (On Loan)
+33, Júlio César, BRA, G, 1.86, 79, 03-09-79, Rio de Janeiro, Toronto FC (On Loan)

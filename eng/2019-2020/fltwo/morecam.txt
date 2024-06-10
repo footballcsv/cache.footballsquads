@@ -1,0 +1,42 @@
+=  Morecambe - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Adam Buxton, ENG, D, 1.85, 81, 12-05-92, Liverpool, Tranmere R
+3, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, Burnley
+4, Alex Kenyon, ENG, M, 1.82, 76, 17-07-92, Preston, Stockport Co
+5, Steven Old, NZL, D, 1.91, 80, 17-02-86, Palmerston North, GAIS
+6, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Bury
+7, John O'Sullivan, IRL, M, 1.82, 83, 18-09-93, Dublin, Blackpool
+9, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+10, AJ Leitch-Smith, ENG, F, 1.80, 78, 06-03-90, Crewe, Shrewsbury T
+11, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Rotherham U
+12, Ritchie Sutton, ENG, D, 1.83, 72, 29-04-86, Stoke-on-Trent, Tranmere R
+14, Tom Brewitt, ENG, D, , , 11-02-97, Liverpool, AFC Fylde
+15, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+16, Sam Lavelle, SCO, D, 1.83, 76, 03-10-96, Blackpool, Bolton W
+17, Michael Howard, ENG, F, 1.78, 72, 17-10-99, Southport, Preston NE
+18, Rhys Oates, ENG, F, 1.83, 74, 04-12-94, Pontefract, Hartlepool U
+19, Carlos Mendes Gomes, ESP, F, 1.78, 66, 14-11-98, Yeumbeul, West Didsbury & Chorlton
+20, Lamin Jagne, ENG, M, 1.68, 62, 28-10-97, Newham, Preston NE
+21, Mark Halstead, ENG, G, 1.91, 89, 01-01-90, Blackpool, Southport
+22, Joe Lynch, ENG, M, 1.81, 68, 11-10-99, Whiston, Crewe Alex
+23, Tyler Brownsword, ENG, M, 1.80, 73, 31-12-99, South Shields, None
+24, Shaun Miller, ENG, F, 1.78, 74, 25-09-87, Alsager, Crewe Alex
+25, Ibrahim Bakare, ENG, D, 1.83, 77, 07-05-02, Lambeth, None
+26, Kyle Hawley, ENG, F, 1.78, 70, 11-05-00, Oldham, None
+27, Harvey Bradbury, ENG, F, , , 29-12-98, , Millwall
+28, André Mendes, POR, G, , , 15-05-03, , Benfica
+29, Jordan Slew, ENG, F, 1.90, 81, 07-09-92, Sheffield, Ashton U
+30, Ryan Cooney, ENG, D, 1.79, 77, 26-02-00, Manchester, Burnley
+31, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Burnley
+32, Toumani Diagouraga, FRA, M, 1.88, 72, 09-06-87, Paris, Swindon T
+33, Jordan Cranston, WAL, D, 1.80, 83, 11-03-93, Wednesfield, Cheltenham T
+34, Christian Mbulu, ENG, D, 1.88, 83, 06-08-96, London, Crewe Alex
+37, Christoffer Mafoumbi, CGO, G, 1.96, 80, 03-03-94, Roubaix, Blackpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Lewis Alessandra, ENG, F, 1.75, 73, 08-02-89, Oldham, Carlisle U
+27, George Tanner, ENG, D, 1.81, 71, 16-11-99, Blackpool, Manchester U

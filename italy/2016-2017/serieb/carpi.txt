@@ -1,0 +1,48 @@
+=  Carpi - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simone Colombi, ITA, G, 1.88, 83, 01-07-91, Seriate, Cagliari
+3, Gaetano Letizia, ITA, D, 1.73, 63, 29-06-90, Naples, Aversa Normanna
+4, Alessandro Sabbione, ITA, M, 1.81, 69, 12-12-91, Genoa, Nocerina
+5, Aljaž Struna, SVN, D, 1.89, 83, 04-08-90, Piran, Palermo
+6, Riccardo Gagliolo, ITA, D, 1.80, 75, 28-04-90, Imperia, Imperia
+7, Fabio Concas, ITA, M, 1.77, 72, 17-11-86, Genoa, Varese
+8, Raffaele Bianco, ITA, M, 1.80, 80, 25-08-87, Aversa, Juventus
+9, Giacomo Beretta, ITA, F, 1.85, 84, 14-03-92, Varese, Milan
+10, Jerry Mbakogu, NGA, F, 1.84, 82, 01-10-92, Lagos, Padova
+11, Antonio Di Gaudio, ITA, M, 1.69, 63, 16-08-89, Palermo, Virtus Castelfranco
+12, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Internazionale
+13, Fabrizio Poli, ITA, D, 1.85, 76, 26-05-89, Bordighera, Arezzo
+14, Alfredo Bifulco, ITA, M, 1.73, 63, 19-01-97, San Gennaro Vesuviano, Napoli
+15, Kevin Lasagna, ITA, F, 1.86, 80, 10-08-92, Suzzara, Udinese
+17, Moustapha Seck, ESP, D, 1.76, 72, 23-02-96, Dakar, Roma
+18, Cristian Carletti, ITA, F, 1.85, 84, 27-07-96, Cremona, Pergolettese
+19, Lorenzo Pasciuti, ITA, M, 1.73, 68, 24-09-89, Carrara, Biellese
+20, Lorenzo Lollo, ITA, M, 1.80, 75, 08-12-90, Carrara, Spezia
+21, Simone Romagnoli, ITA, D, 1.93, 85, 09-02-90, Cremona, Pescara
+22, Lazar Petković, SRB, G, 1.97, 78, 17-04-95, Novi Sad, Padova
+23, Christian D'Urso, ITA, M, 1.78, 70, 26-07-97, Rieti, Roma
+24, Maodo Malick Mbaye, SEN, M, 1.79, 72, 06-11-95, Thiès, Chievo Verona
+25, Edoardo Sarri, ITA, G, 1.87, 78, 24-06-99, Prato, Fiorentina
+27, Matteo Luppi, ITA, G, 1.88, 75, 16-01-99, Pietra Ligure, Genoa
+28, Francesco Fedato, ITA, F, 1.84, 72, 15-10-92, Mirano, Sampdoria
+29, Giacomo Tacconi, ITA, M, 1.85, 73, 03-03-98, Arezzo, Fiorentina
+30, Francesco Mezzoni, ITA, F, , , 27-05-00, Rome, Futbolclub
+32, Igor Łasicki, POL, D, 1.84, 70, 26-06-95, Wałbrzych, Napoli
+33, Luca Forte, ITA, F, 1.71, 70, 28-07-94, Trieste, Pescara
+34, Enej Jelenič, SVN, M, 1.81, 74, 11-12-92, Koper, Livorno
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Matteo Fedele, ITA, M, 1.85, 75, 20-07-92, Lausanne, Bari (On Loan)
+2, Cristian Zaccardo, ITA, D, 1.84, 77, 21-12-81, Formigine, Vicenza (On Loan)
+27, Abdallah Basit, GHA, M, 1.83, 76, 15-10-99, Accra, Napoli
+9, Gianmario Comi, ITA, F, 1.86, 80, 05-03-92, Turin, Pro Vercelli (On Loan)
+26, Michael De Marchi, ITA, F, 1.90, 82, 30-08-94, Verona, Prato (On Loan)
+10, Andrea Catellani, ITA, F, 1.79, 73, 26-05-88, Reggio Emilia, Spezia
+28, Federico Rausa, ITA, G, 1.91, 75, 03-05-99, Rome, Latina
+23, Leonardo Blanchard, ITA, D, 1.87, 80, 06-05-88, Grosseto, Brescia (On Loan)
+16, Lamin Jawo, GAM, F, 1.95, 85, 15-03-95, Banjul, Siena (On Loan)
+17, Marco Crimi, ITA, M, 1.77, 65, 17-03-90, Messina, Cesena (On Loan)
+18, Lorenzo Montipò, ITA, G, 1.91, 82, 20-02-96, Novara, Novara

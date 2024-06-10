@@ -1,0 +1,54 @@
+=  Roma - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alisson Becker, BRA, G, 1.91, 91, 02-10-92, Novo Hamburgo, Internacional
+3, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, None
+4, Radja Nainggolan, BEL, M, 1.76, 77, 04-05-88, Antwerp, Cagliari
+5, Juan Jesus, BRA, D, 1.85, 76, 10-06-91, Belo Horizonte, Internazionale
+6, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, PSV Eindhoven
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+8, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Genoa
+9, Edin Džeko, BIH, F, 1.93, 84, 17-03-86, Doboj, Manchester C
+11, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Manchester C
+12, Andrea Romagnoli, ITA, G, 1.88, 80, 29-07-98, Civitavecchia, None
+13, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, None
+14, Patrik Schick, CZE, F, 1.86, 73, 24-01-96, Prague, Sampdoria
+16, Daniele De Rossi, ITA, M, 1.84, 83, 24-07-83, Rome, None
+17, Cengiz Ünder, TUR, F, 1.73, 66, 14-07-97, Balıkesir, İstanbul Başakşehir
+18, Bogdan Lobonţ, ROU, G, 1.84, 78, 18-01-78, Hunedoara, Dinamo Bucureşti
+20, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Ramos Mejía, Tottenham H
+21, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Lyon
+23, Grégoire Defrel, FRA, F, 1.80, 79, 17-06-91, Meudon, Sassuolo
+24, Alessandro Florenzi, ITA, M, 1.73, 66, 11-03-91, Rome, None
+25, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Torino
+26, Rick Karsdorp, NED, D, 1.82, 80, 11-02-95, Schoonhoven, Feyenoord
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Górnik Zabrze
+30, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Fluminense
+33, Jonathan Silva, ARG, D, 1.78, 69, 29-06-94, La Plata, Sporting CP
+40, Stefano Ciavattini, ITA, D, , , 30-03-98, Rome, Lazio
+41, Devid Eugene Bouah, ITA, D, 1.80, 67, 13-08-01, Rome, None
+43, Lorenzo Valeau, ITA, D, 1.80, 76, 05-03-99, Rome, None
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Olympiakos
+45, Salvatore Pezzella, ITA, M, 1.78, 71, 11-03-00, Rome, None
+47, Dario Vittorio Meadows, ITA, D, , , 28-01-99, Pembury, None
+48, Mirko Antonucci, ITA, M, 1.81, 70, 11-03-99, Rome, None
+49, Alessio Riccardi, ITA, M, 1.78, 77, 03-04-01, Rome, None
+50, Keba Coly, SEN, F, 1.84, 79, 20-02-98, Dakar, Spoltore
+51, Rezan Corlu, DEN, M, 1.70, 70, 07-08-97, Glostrup, Brøndby
+53, Andrea Marcucci, ITA, M, 1.73, 72, 07-02-99, Rome, None
+54, Lirim Kastrati, KVX, D, , , 02-02-99, Mališevo, None
+56, Emanuele Zamarion, ITA, G, , , 04-08-00, Rome, None
+57, Silvio Anočić, CRO, D, 1.78, 80, 10-09-97, Valpovo, Osijek
+58, Alessio Pagliarini, ITA, G, , , 09-01-00, Civitavecchia, None
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Crotone (On Loan)
+52, Riccardo Cappa, ITA, F, , , 29-04-99, Latina, Sassuolo
+55, Leandro Castán, BRA, D, 1.84, 80, 05-11-86, Jaú, Cagliari (On Loan)
+42, Andrea Ciofi, ITA, D, 1.87, 77, 28-06-99, Marino, Cesena
+33, Emerson Palmieri, BRA, D, 1.76, 63, 03-08-94, Santos, Chelsea
+15, Héctor Moreno, MEX, D, 1.82, 80, 17-01-88, Culiacán, Real Sociedad
+22, Abdullahi Nura, NGA, D, 1.82, 72, 17-08-97, Kaduna, Perugia (On Loan)

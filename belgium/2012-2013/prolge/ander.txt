@@ -1,0 +1,54 @@
+=  Anderlecht - Belgian Pro League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Silvio Proto, BEL, G, 1.84, 72, 23-05-83, Charleroi, La Louvière
+3, Olivier Deschacht, BEL, D, 1.85, 75, 16-02-81, Gent, Lokeren
+4, Michaël Heylen, BEL, D, 1.87, 84, 03-01-94, Antwerp, None
+5, Lucas Biglia, ARG, M, 1.78, 63, 30-01-86, Mercedes, Independiente
+6, Demy de Zeeuw, NED, M, 1.74, 71, 26-05-83, Apeldoorn, Spartak Moscow
+7, Samuel Armenteros, SWE, F, 1.81, 80, 27-05-90, Masthugg, Heracles Almelo
+8, Denis Odoi, BEL, D, 1.78, 67, 27-05-88, Leuven, Sint-Truiden
+9, Matías Suárez, ARG, F, 1.76, 69, 09-05-88, La Falda, Belgrano (Córdoba)
+11, Milan Jovanović, SRB, M, 1.83, 73, 18-04-81, Bajina Bašta, Liverpool
+12, Andy Najar, HON, M, 1.70, 68, 16-03-93, Santa Cruz, DC United
+13, Thomas Kaminski, BEL, G, 1.88, 70, 23-10-92, Dendermonde, OH Leuven
+14, Bram Nuytinck, NED, D, 1.83, 75, 04-05-90, Malden, NEC Nijmegen
+15, Gohi Bi Cyriac, CIV, F, 1.74, 66, 15-08-90, Daloa, Standard Liège
+16, Cheikhou Kouyaté, SEN, M, 1.89, 75, 21-12-89, Dakar, FC Brussels
+17, Oleksandr Iakovenko, UKR, F, 1.83, 74, 23-07-87, Kyiv, KRC Genk
+18, Frank Acheampong, GHA, F, 1.69, 65, 16-10-93, Accra, Buriram U
+19, Sacha Kljestan, USA, M, 1.85, 68, 09-09-85, Huntington Beach, Chivas USA
+20, Behrang Safari, SWE, D, 1.84, 73, 09-02-85, Tehran, Basel
+21, Tom De Sutter, BEL, F, 1.92, 88, 03-07-85, Zottegem, Cercle Brugge
+23, Leander Dendoncker, BEL, M, 1.88, 79, 15-04-95, Passendale, Club Brugge
+25, Dieumerci Mbokani, COD, F, 1.85, 75, 22-11-85, Kinshasa, Monaco
+26, Dennis Praet, BEL, M, 1.74, 65, 14-05-94, Leuven, KRC Genk
+27, Marcin Wasilewski, POL, D, 1.86, 88, 09-06-80, Kraków, Lech Poznań
+28, Mehdi Tarfi, BEL, M, 1.75, 70, 05-07-93, Brussels, None
+30, Guillaume Gillet, BEL, M, 1.86, 77, 09-03-85, Liège, KAA Gent
+33, Davy Roef, BEL, G, 1.87, 84, 06-02-94, Antwerp, None
+37, Jordan Lukaku, BEL, F, 1.88, 76, 25-07-94, Antwerp, None
+39, Anthony Vanden Borre, BEL, D, 1.85, 80, 24-10-87, Likasi, KRC Genk
+45, Massimo Bruno, BEL, M, 1.77, 66, 17-09-93, Boussu, Charleroi
+55, Fernando Canesin, BRA, M, 1.76, 68, 27-02-92, Ribeirão Preto, Olé Brasil
+70, Ronald Vargas, VEN, M, 1.74, 76, 02-12-86, Guatire, Club Brugge
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Lukáš Mareček, CZE, M, 1.82, 69, 17-04-90, Ivančice, SC Heerenveen (On Loan)
+14, Abdelhakim Bouhna, MAR, M, 1.88, 75, 24-05-91, Brussels, KSV Roeselare (On Loan)
+32, Christophe Diandy, SEN, M, 1.86, 76, 25-11-90, Dakar, Charleroi (On Loan)
+39, Ziguy Badibanga, BEL, F, 1.89, 78, 26-11-91, Evere, Charleroi (On Loan)
+31, Bruno Godeau, BEL, D, 1.90, 79, 10-05-92, Brussels, Zulte-Waregem (On Loan)
+44, Bryan Verboom, BEL, D, 1.75, 74, 30-01-92, Brussels, Zulte-Waregem
+34, Jonathan Vervoort, BEL, D, 1.84, 80, 13-08-93, Brussels, FC Eindhoven (On Loan)
+87, Dalibor Veselinović, SRB, M, 1.96, 94, 21-09-87, Novi Sad, Beerschot AC (On Loan)
+4, Osama Hawsawi, KSA, D, 1.85, 77, 31-03-84, Mecca, Al-Ahli [KSA]
+6, Mbenza Bedi, COD, M, 1.79, 76, 11-09-84, Milenge, Club Africain
+7, Guillermo Molins, SWE, M, 1.86, 81, 26-09-88, Montevideo, Betis (On Loan)
+24, René Sterckx, BEL, M, 1.84, 82, 18-01-91, , Waasland-Beveren (On Loan)
+29, Mohammed Aoulad, BEL, M, 1.83, 79, 29-08-91, Brussels, Waasland-Beveren (On Loan)
+77, Reynaldo, BRA, M, 1.72, 63, 24-08-89, Arapiraca, Qarabağ
+23, Roland Juhász, HUN, D, 1.93, 80, 01-07-83, Monor, Videoton (On Loan)
+10, Kanu, BRA, F, 1.90, 82, 23-09-87, Salvador, Terek Grozny

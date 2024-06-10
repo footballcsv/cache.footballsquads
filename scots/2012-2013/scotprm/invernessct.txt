@@ -1,0 +1,46 @@
+=  Inverness Caledonian Thistle - Scottish Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ryan Esson, SCO, G, 1.85, 79, 19-03-80, Aberdeen, Hereford U
+2, David Raven, ENG, D, 1.83, 72, 10-03-85, Birkenhead, Tranmere R
+3, Graeme Shinnie, SCO, D, 1.73, 63, 04-08-91, Aberdeen, None
+4, Owain Tudur-Jones, WAL, M, 1.88, 76, 15-10-84, Bangor, Norwich C
+5, Gary Warren, ENG, D, 1.84, 75, 16-08-84, Bristol, Newport Co
+6, Chris Hogg, ENG, D, 1.83, 79, 21-03-85, Middlesbrough, Hibernian
+7, Billy McKay, NIR, F, 1.75, 64, 22-10-88, Corby, Northampton T
+8, Ross Draper, ENG, M, 1.85, 79, 20-10-88, Wolverhampton, Macclesfield T
+9, Richie Foran, IRL, F, 1.85, 78, 16-06-80, Dublin, Southend U
+10, Andrew Shinnie, SCO, M, 1.80, 70, 17-07-89, Aberdeen, Rangers
+11, Nick Ross, SCO, M, 1.75, 64, 11-11-91, Inverness, None
+12, Antonio Reguero, ESP, G, 1.87, 84, 04-07-82, Madrid, Gandía
+14, Josh Meekings, ENG, D, 1.83, 78, 02-09-92, Bury St Edmunds, Ipswich T
+15, Simon King, ENG, D, 1.83, 79, 11-04-83, Oxford, Gillingham
+17, Aaron Doran, IRL, M, 1.70, 76, 13-05-91, Dublin, Blackburn R
+18, Shane Sutherland, SCO, F, 1.85, 81, 23-10-90, Wick, Wick Academy
+20, Martin Laing, SCO, M, 1.78, 65, 02-12-93, Inverness, None
+21, Liam Polworth, SCO, M, 1.78, 70, 12-10-94, Inverness, None
+22, Conor Pepper, IRL, M, 1.73, 76, 04-05-94, Dublin, St Patrick's Ath
+23, Phil Roberts, ENG, F, 1.78, 71, 07-04-94, Newham, Arsenal
+26, Jordan Gibbons, ENG, M, 1.73, 74, 18-11-93, Bromley, QPR
+27, Daniel Devine, NIR, D, 1.83, 70, 07-09-92, Belfast, Fleetwood T
+28, Charlie Taylor, ENG, D, 1.75, 70, 18-09-93, York, Leeds U
+31, Scott Mathieson, SCO, G, , , 14-05-94, Aberdeen, None
+32, Matthew Cooper, SCO, M, , , 01-07-94, Macduff, Aberdeen
+33, Ryan Watson, SCO, M, , , , Inverness, None
+34, Matthew Murphy, SCO, D, , , , Inverness, None
+35, Stephen Mackenzie, SCO, M, , , , Inverness, None
+36, Jay Cheyne, SCO, M, , , 08-01-95, Aberdeen, None
+37, Calum Ferguson, SCO, F, 1.78, 64, 30-03-95, Inverness, None
+38, Ryan Christie, SCO, M, 1.78, 70, 28-04-95, Inverness, None
+39, Dachi Khutsishvili, GEO, F, , , , , Dinnington T
+40, Kyle Whyte, SCO, F, 1.78, 76, 16-03-94, Inverness, None
+41, Andrew Skinner, SCO, D, , , , Inverness, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Andre Blackman, ENG, D, 1.80, 72, 10-11-90, Lambeth, Celtic
+24, George Brislen-Hall, ENG, D, 1.70, 65, 24-12-92, Harlow, 
+26, Andre Martins, POR, F, 1.80, 75, 26-03-87, Ferreira do Alentejo, 
+16, Jason Oswell, ENG, F, 1.83, 76, 07-10-92, Northwich, Nantwich T
+19, Gavin Morrison, SCO, M, 1.78, 68, 03-01-90, Inverness, Elgin C (On Loan)

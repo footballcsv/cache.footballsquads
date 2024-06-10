@@ -1,0 +1,44 @@
+=  Beşiktaş - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Loris Karius, GER, G, 1.89, 75, 22-06-93, Biberach, Liverpool
+3, Enzo Roco, CHI, D, 1.88, 82, 16-08-92, Santiago, Cruz Azul
+4, Víctor Ruíz, ESP, D, 1.85, 78, 25-01-89, Esplugues de Llobregat, Villarreal
+5, Douglas, BRA, D, 1.72, 63, 06-08-90, Monte Alegre, Barcelona
+8, Umut Nayir, TUR, F, 1.84, 84, 28-06-93, Kocasinan, Osmanlıspor
+9, Güven Yalçın, TUR, F, 1.84, 77, 18-01-99, Düsseldorf, Bayer Leverkusen
+11, Tyler Boyd, NZL, F, 1.77, 65, 30-12-94, Tauranga, Vitória Guimarães
+12, Erdoğan Kaya, TUR, D, 1.90, 82, 27-03-01, Altındağ, None
+13, Atiba Hutchinson, CAN, M, 1.87, 72, 08-02-83, North York, PSV Eindhoven
+15, Mohamed Elneny, EGY, M, 1.80, 70, 11-07-92, Mahalla, Arsenal
+17, Burak Yılmaz, TUR, F, 1.88, 81, 15-07-85, Antalya, Trabzonspor
+19, Georges-Kevin Nkoudou, FRA, M, 1.75, 73, 13-02-95, Versailles, Tottenham H
+20, Necip Uysal, TUR, M, 1.80, 72, 24-01-91, Bakırköy, None
+22, Adem Ljajić, SRB, F, 1.81, 74, 29-09-91, Novi Pazar, Torino
+23, Pedro Rebocho, POR, D, 1.72, 66, 23-01-95, Évora, Guingamp
+24, Domagoj Vida, CRO, D, 1.82, 70, 29-04-89, Osijek, Dynamo Kyiv
+26, Dorukhan Toköz, TUR, M, 1.80, 72, 21-05-96, Eskişehir, Eskişehirspor
+27, Jeremain Lens, NED, M, 1.78, 80, 24-11-87, Amsterdam, Sunderland
+30, Ersin Destanoğlu, TUR, G, 1.95, 88, 01-01-01, Gaziosmanpaşa, None
+33, Rıdvan Yılmaz, TUR, D, 1.74, 67, 21-05-01, Gaziosmanpaşa, None
+34, Kerem Kalafat, TUR, D, 1.62, 55, 09-03-01, Şişli, None
+37, Mertcan Açıkgöz, TUR, M, 1.80, 75, 18-11-99, Fatih, None
+41, Kartal Yılmaz, TUR, M, 1.77, 67, 04-11-00, İzmit, None
+53, Doğukan Özkan, TUR, G, , , 04-02-00, Rize, None
+77, Gökhan Gönül, TUR, D, 1.74, 71, 04-01-85, Bafra, Fenerbahçe
+88, Caner Erkin, TUR, D, 1.77, 75, 04-10-88, Edremit, Internazionale
+92, Abdoulay Diaby, MLI, F, 1.72, 70, 21-05-91, Nanterre, Sporting CP
+97, Utku Yuvakuran, TUR, G, 1.92, 78, 02-11-97, Şişli, Beylerbeyi
+99, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Nicolas Isimat-Mirin, FRA, D, 1.87, 83, 15-11-91, Meudon-la-Forêt, Toulouse (On Loan)
+55, Oğuzhan Akgün, TUR, F, , , 13-07-01, Gebze, İstanbulspor (On Loan)
+6, Gary Medel, CHI, D, 1.72, 71, 03-08-87, Santiago, Bologna
+7, Ricardo Quaresma, POR, M, 1.75, 75, 26-09-83, Lisbon, Kasımpaşa
+44, Erdem Seçgin, TUR, M, 1.82, 75, 05-01-00, Bağcılar, Ümraniyespor (On Loan)
+21, Muhayer Oktay, TUR, M, 1.80, 75, 28-04-99, Hagen, Giresunspor (On Loan)
+10, Oğuzhan Özyakup, TUR, M, 1.78, 71, 23-09-92, Zaandam, Feyenoord (On Loan)
+14, Orkan Çınar, TUR, M, 1.75, 67, 29-01-96, Dortmund, Ankaragücü

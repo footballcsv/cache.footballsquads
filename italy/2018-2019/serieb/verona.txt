@@ -1,0 +1,47 @@
+=  Verona - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Silvestri, ITA, G, 1.91, 80, 02-03-91, Castelnovo ne' Monti, Leeds U
+2, Gianni Munari, ITA, M, 1.90, 84, 24-06-83, Sassuolo, Parma
+3, Luigi Vitale, ITA, D, 1.80, 71, 05-10-87, Castellammare di Stabia, Salernitana
+4, Liam Henderson, SCO, M, 1.83, 78, 25-04-96, Livingston, Bari
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Crotone
+6, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Juventus
+7, Ryder Matos, BRA, F, 1.80, 71, 27-02-93, Seabra, Udinese
+8, Samuel Gustafson, SWE, M, 1.87, 79, 20-01-95, Mölndal, Torino
+9, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Sassuolo
+10, Samuel Di Carmine, ITA, F, 1.87, 78, 29-09-88, Florence, Perugia
+11, Giampaolo Pazzini, ITA, F, 1.80, 77, 02-08-84, Pescia, Milan
+12, Lorenzo Ferrari, ITA, G, 1.93, 77, 09-03-96, Cremona, Milan
+13, Abdoulaye Traoré, ITA, F, 1.80, 70, 30-04-00, Attécoubé, Perugia
+14, Santiago Colombatto, ARG, M, 1.79, 71, 17-01-97, Córdoba, Cagliari
+15, Jure Balkovec, SVN, D, 1.85, 74, 09-09-94, Novo Mesto, Bari
+16, Lee Seung-Woo, KOR, F, 1.73, 63, 06-01-98, Suwon, Barcelona B
+17, Alessandro Crescenzi, ITA, D, 1.78, 71, 25-09-91, Marino, Pescara
+18, Lucas Felippe, BRA, M, 1.78, 74, 03-05-00, São Paulo, Taboão da Serra
+19, Precious Amayah, NGA, F, , , 08-12-00, , None
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Bellaria
+21, Karim Laribi, ITA, M, 1.75, 67, 20-04-91, Milan, Cesena
+22, Andrea Tozzo, ITA, G, 1.92, 85, 30-08-92, Riva del Garda, Sampdoria
+23, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Parma
+24, Marash Kumbulla, ALB, D, 1.85, 78, 08-02-00, Peschiera del Garda, None
+25, Andrea Danzi, ITA, M, 1.75, 70, 25-02-99, San Martino Buon Albergo, None
+26, Alessandro Berardi, ITA, G, 1.85, 78, 16-01-91, Rome, Bari
+27, Paweł Dawidowicz, POL, M, 1.89, 80, 20-05-95, Olsztyn, Benfica
+28, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Catania
+29, Alberto Almici, ITA, D, 1.83, 77, 11-01-93, Lovere, Atalanta
+30, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Internazionale
+31, Aleksejs Saveljevs, LVA, M, 1.84, , 30-01-99, Riga, Švyturys Marijampolė
+32, Mattia Chiesa, ITA, G, 1.90, 76, 16-07-00, Rovereto, Ambrosiana
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Foggia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Marco Ezio Fossati, ITA, M, 1.80, 73, 05-10-92, Monza, Monza
+13, Nicolò Cherubin, ITA, D, 1.88, 80, 02-12-86, Vicenza, Padova
+23, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Padova (On Loan)
+2, Antonio Caracciolo, ITA, D, 1.81, 73, 30-06-90, Tempio Pausania, Cremonese (On Loan)
+18, Pierluigi Cappelluzzo, ITA, F, 1.82, 76, 09-06-96, Montepulciano, Imolese (On Loan)
+3, Fabio Eguelfi, ITA, D, 1.78, 72, 19-01-95, Milan, Atalanta
+19, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Carpi (On Loan)

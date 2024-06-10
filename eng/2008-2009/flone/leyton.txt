@@ -1,0 +1,40 @@
+=  Leyton Orient - English Football League One 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Glenn Morris, ENG, G, 1.83, 70, 20-12-83, Woolwich, None
+2, Stephen Purches, ENG, D, 1.80, 76, 14-01-80, Ilford, Bournemouth
+3, Danny Granville, ENG, D, 1.80, 79, 19-01-75, Islington, Colchester U
+4, Alton Thelwell, ENG, D, 1.83, 79, 05-09-80, London, Hull C
+5, Tamika Mkandawire, ENG, D, 1.83, 78, 28-05-83, Mzuzu, Hereford U
+6, Brian Saah, ENG, D, 1.85, 70, 16-12-86, Rush Green, None
+7, John "JJ" Melligan, IRL, M, 1.78, 72, 11-02-82, Dublin, Cheltenham T
+8, Adam Chambers, ENG, M, 1.78, 74, 20-11-80, Sandwell, Kidderminster H
+9, Wayne Gray, ENG, F, 1.78, 72, 07-11-80, Dulwich, Yeovil T
+10, Sean Thornton, IRL, M, 1.78, 70, 18-05-83, Drogheda, Doncaster R
+11, Dean Morgan, ENG, F, 1.83, 77, 03-10-83, Edmonton, Luton T
+12, Jamie Jones, ENG, G, 1.88, 91, 18-02-89, Kirkby, Everton
+14, Luke Ashworth, ENG, D, 1.88, 80, 04-12-89, Bolton, Wigan Ath
+15, Solomon Shields, ENG, M, 1.78, 83, 14-10-89, Leyton, None
+16, Andrew Cave-Brown, SCO, D, 1.78, 77, 05-08-88, Gravesend, Norwich C
+17, Paul Terry, ENG, M, 1.78, 80, 03-04-79, Barking, Yeovil T
+18, Adam Boyd, ENG, F, 1.75, 69, 25-05-82, Hartlepool, Luton T
+19, Aiden Palmer, ENG, D, 1.73, 65, 02-01-87, Enfield, None
+20, Jason Demetriou, CYP, M, 1.80, 67, 18-11-87, Newham, None
+21, Loick Pires, POR, F, 1.88, 85, 20-11-89, London, None
+22, Bradley Gray, ENG, F, 1.80, 73, 05-07-90, Swindon, None
+23, Ryan Jarvis, ENG, F, 1.85, 72, 11-07-86, Fakenham, Norwich C
+24, Harry Baker, ENG, M, 1.80, 76, 20-09-90, Bexleyheath, None
+25, Charlie Daniels, ENG, M, 1.78, 75, 07-09-86, Harlow, Tottenham H
+26, Adam Marsh, ENG, F, , , 22-01-91, London, None
+27, Jimmy Smith, ENG, M, 1.84, 71, 07-01-87, Newham, Chelsea
+28, Jordan Spence, ENG, M, 1.88, 79, 24-05-90, Woodford, West Ham U
+29, Scott McGleish, ENG, F, 1.75, 73, 10-02-74, Camden Town, Wycombe W
+30, Simon Church, WAL, F, 1.83, 84, 10-12-88, High Wycombe, Reading
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Jack Jeffrey, ENG, F, 1.73, 74, 13-08-89, Gravesend, West Ham U
+25, Luke Ashworth, ENG, D, 1.88, 80, 04-12-89, Bolton, Wigan Ath
+14, Simon Dawkins, ENG, F, 1.78, 70, 01-12-87, Edgware, Tottenham H
+27, Sam Parkin, SCO, F, 1.88, 83, 14-03-81, Roehampton, Luton T

@@ -1,0 +1,40 @@
+=  Wrexham - English Football Conference Premier 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Russell, ENG, G, 1.83, 69, 04-10-82, Middlesbrough, Rochdale
+2, Curtis Obeng, ENG, D, 1.73, 67, 14-02-89, Manchester, Manchester C
+3, Sam Williamson, ENG, D, 1.73, 73, 15-10-87, Macclesfield, Manchester C
+4, Ashley Westwood, ENG, D, 1.83, 71, 31-08-76, Bridgnorth, Stevenage Boro
+5, Mansour Assoumani, FRA, D, 1.88, 76, 30-01-83, Nice, Leeds U
+6, Mike Williams, WAL, D, 1.80, 76, 27-10-86, Rhos-on-Sea, None
+7, Mark Jones, WAL, M, 1.80, 68, 15-08-83, Wrexham, Rochdale
+8, Hedi Taboubi, FRA, M, 1.80, 72, 24-02-83, Cavaillon, Arles
+9, Gareth Taylor, WAL, F, 1.88, 86, 25-02-73, Weston-super-Mare, Doncaster R
+10, Marc Williams, WAL, F, 1.78, 75, 27-07-88, Colwyn Bay, None
+11, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, None
+12, Danny Mitchley, ENG, F, 1.83, 71, 07-10-89, Liverpool, Blackpool
+14, Nathan Fairhurst, ENG, M, 1.78, 66, 16-10-89, Preston, Preston NE
+15, Frank Sinclair, JAM, D, 1.75, 80, 03-12-71, Lambeth, Lincoln C
+16, Silvio Spann, TRI, M, 1.80, 69, 21-08-81, Couva, W Connection
+17, Adrian Cieślewicz, POL, M, 1.75, 70, 16-11-90, Gniezno, Manchester C
+18, Wes Baynes, ENG, D, 1.80, 68, 12-10-88, Chester, None
+19, Andrew Fleming, ENG, M, 1.80, 67, 05-10-87, Liverpool, None
+20, Jamie McCluskey, SCO, M, 1.70, 55, 06-11-87, Bellshill, St Johnstone
+21, Kai Edwards, WAL, D, 1.83, 77, 29-01-91, Wrexham, None
+22, Kristian O'Leary, WAL, M, 1.80, 80, 30-08-77, Port Talbot, Swansea C
+23, Obi Anoruo, NGA, F, 1.78, 73, 28-08-91, Owerri, None
+24, Matthew Wolfenden, ENG, M, 1.75, 70, 23-07-87, Oldham, Oldham Ath
+25, Christian Smith, ENG, D, 1.88, 84, 10-12-87, Crewe, York C
+26, Johnny Hunt, WAL, D, 1.80, 65, 23-08-90, Liverpool, None
+27, Chris Maxwell, WAL, G, 1.83, 73, 30-07-90, St Asaph, None
+28, Aaron Brown, ENG, D, 1.78, 75, 14-03-80, Bristol, Lincoln C
+29, Luke Holden, ENG, M, 1.73, 70, 24-11-88, Liverpool, Rhyl
+30, Andrew Mangan, ENG, F, 1.75, 74, 30-08-86, Liverpool, Forest Green R
+32, Declan Walker, IRL, D, 1.80, 66, 01-03-92, Warrington, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Angelos Tsiaklis, CYP, M, 1.80, 69, 02-10-89, , FCUM
+28, Simon Brown, ENG, F, 1.70, 70, 18-09-83, West Bromwich, Eastwood T
+22, Lamine Sakho, SEN, F, 1.78, 70, 28-09-77, Dakar, 

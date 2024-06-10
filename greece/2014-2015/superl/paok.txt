@@ -1,0 +1,55 @@
+=  PAOK - Greek Super League 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Charles Itandje, CMR, G, 1.93, 83, 02-11-82, Bobigny, Atromitos
+2, Giannis Skondras, GRE, D, 1.82, 75, 21-02-90, Trikala, Atromitos
+3, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, Monaco
+4, Giorgos Katsikas, GRE, D, 1.87, 84, 14-06-90, Thessaloniki, Iraklis
+5, Răzvan Raţ, ROU, D, 1.78, 72, 26-05-81, Slatina, Rayo Vallecano
+6, Alexandros Tziolis, GRE, M, 1.89, 84, 13-02-85, Katerini, Monaco
+7, Eyal Golasa, ISR, M, 1.74, 70, 07-10-91, Netanya, Maccabi Haifa
+8, Hedwiges Maduro, NED, M, 1.85, 79, 13-02-85, Almere, Sevilla
+9, Dimitris Papadopoulos, GRE, F, 1.77, 71, 20-10-81, Tashkent, Atromitos
+10, Facundo Pereyra, ARG, M, 1.70, 60, 05-05-82, Zárate, Gimnasia y Esgrima (LP)
+11, Robert Mak, SVK, M, 1.78, 71, 08-03-91, Bratislava, Nürnberg
+13, Sotiris Papagiannopoulos, SWE, D, 1.90, 88, 05-09-90, Stockholm, Assyriska FF
+14, Dimitris Salpigidis, GRE, F, 1.72, 74, 18-08-81, Thessaloniki, Panathinaikos
+15, Miguel Vítor, POR, D, 1.83, 80, 30-06-89, Torres Vedras, Benfica
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Dynamo Moscow
+18, Efthimios Koulouris, GRE, F, 1.84, 81, 06-03-96, Skydra, None
+20, Ricardo Costa, POR, D, 1.83, 80, 16-05-81, Vila Nova de Gaia, Al-Sailiya
+21, Nikos Spiropoulos, GRE, D, 1.72, 69, 10-10-83, Giannina, Chievo Verona
+22, Dimitris Konstantinidis, GRE, D, 1.73, 70, 02-06-94, Thessaloniki, None
+23, Panagiotis Deligiannidis, GRE, F, 1.77, 72, 29-08-96, Thessaloniki, None
+26, Ergys Kace, ALB, M, 1.61, 60, 08-07-93, Korça, None
+32, Theofanis Tzandaris, GRE, M, 1.80, 80, 13-06-93, Sochos, None
+33, Stefanos Athanasiadis, GRE, F, 1.85, 72, 24-12-88, Lakkoma, None
+44, Achilleas Pouggouras, GRE, D, 1.87, 77, 13-12-95, Thessaloniki, None
+50, Asterios Giakoumis, GRE, G, 1.82, 71, 03-05-88, Kymina, Agrotikos Asteras
+51, Rafail Soilemezoglou, GRE, G, 1.77, 75, 13-03-96, Frankfurt am Main, None
+60, Georgios Kakko, GRE, M, 1.72, 63, 18-04-97, Elbasan, Aris
+61, Savas Toumanidis, GRE, M, 1.81, 75, 02-03-96, Kavala, Elpides Kavalas
+70, Stelios Kitsiou, GRE, M, 1.76, 75, 28-09-93, Thessaloniki, None
+71, Panagiotis Glykos, GRE, G, 1.84, 77, 10-10-86, Volos, Olympiakos Volos
+80, Anastasios Dimitriadis, GRE, F, 1.76, 67, 27-02-97, Thessaloniki, Iraklis
+88, Kyriakos Savvidis, GRE, M, 1.81, 75, 20-06-95, Thessaloniki, None
+91, Giorgos Ktistopoulos, GRE, M, 1.84, 81, 19-08-96, Thessaloniki, Apollon 1926
+92, Nikos Vasaitis, GRE, D, 1.75, 70, 14-04-96, Panorama, Elpides Sikeon
+96, Stelios Pozoglou, GRE, M, 1.74, 66, 22-01-96, Thessaloniki, None
+97, Giannis Tsolakidis, GRE, M, 1.70, 65, 26-01-96, Giannitsa, Megas Alexandros Kilkis
+98, Manolis Patralis, GRE, M, 1.74, 67, 06-02-97, Nea Redestos, Redestos
+99, Marios Siabanis, GRE, G, 1.87, 66, 28-09-99, Katerini, Pavlos Melas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Vassilis Papadopoulos, GRE, F, 1.79, 72, 28-01-95, Kavala, Apollon 1926 (On Loan)
+37, Kristi Qose, ALB, M, 1.87, 79, 10-06-95, Korçë, Apollon 1926 (On Loan)
+39, Christos Intzidis, GRE, D, 1.89, 84, 09-01-93, Alexandroupoli, Apollon Limassol
+94, Antonis Krinitsas, GRE, D, , , 17-05-94, , 
+95, Dimitris Popovic, GRE, F, 1.68, 63, 11-02-95, Frankfurt am Main, Eginiakos (On Loan)
+93, Dimitris Angelidis, GRE, D, 1.88, , 18-05-93, , Paniliakos
+40, Maarten Martens, BEL, M, 1.76, 59, 02-07-84, Eeklo, Cercle Brugge (On Loan)
+55, Kostas Panagiotoudis, GRE, M, 1.75, 70, 03-12-94, Thessaloniki, Apollon 1926 (On Loan)
+24, Stelios Pozatzidis, GRE, D, 1.86, 74, 24-06-94, Thessaloniki, Panionios
+62, Nemanja Kartal, MNE, D, 1.95, 88, 17-07-94, Pljevlja, Slavija Sarajevo

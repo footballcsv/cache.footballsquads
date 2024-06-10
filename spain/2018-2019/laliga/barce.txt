@@ -1,0 +1,49 @@
+=  Barcelona - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.87, 85, 30-04-92, Mönchengladbach, B Mönchengladbach
+2, Nélson Semedo, POR, D, 1.77, 67, 16-11-93, Lisbon, Benfica
+3, Gerard Piqué, ESP, D, 1.94, 85, 02-02-87, Barcelona, Manchester U
+4, Ivan Rakitić, CRO, M, 1.84, 78, 10-03-88, Rheinfelden, Sevilla
+5, Sergio Busquets, ESP, M, 1.89, 76, 16-07-88, Sabadell, Barcelona B
+6, Jean-Clair Todibo, FRA, D, 1.90, 81, 30-12-99, Cayenne, Toulouse
+7, Philippe Coutinho, BRA, M, 1.71, 71, 12-06-92, Rio de Janeiro, Liverpool
+8, Arthur, BRA, M, 1.72, 67, 12-08-96, Goiânia, Grêmio
+9, Luis Suárez, URU, F, 1.82, 86, 24-01-87, Salto, Liverpool
+10, Lionel Messi, ARG, F, 1.70, 72, 24-06-87, Rosario, Barcelona B
+11, Ousmane Dembélé, FRA, F, 1.78, 67, 15-05-97, Vernon, Borussia Dortmund
+12, Rafinha, BRA, M, 1.74, 71, 12-02-93, São Paulo, Barcelona B
+13, Jasper Cillessen, NED, G, 1.85, 83, 22-04-89, Groesbeek, Ajax
+14, Malcom, BRA, F, 1.71, 65, 26-02-97, São Paulo, Bordeaux
+15, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Sevilla
+17, Jeison Murillo, COL, D, 1.82, 78, 27-05-92, Cali, Valencia
+18, Jordi Alba, ESP, D, 1.70, 68, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Sassuolo
+20, Sergi Roberto, ESP, D, 1.78, 68, 07-02-92, Reus, Barcelona B
+21, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona B
+22, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Bayern Munich
+23, Samuel Umtiti, FRA, D, 1.82, 75, 14-11-93, Yaoundé, Lyon
+24, Thomas Vermaelen, BEL, D, 1.83, 80, 14-11-85, Kapellen, Arsenal
+27, Juan Miranda, ESP, D, 1.85, 78, 19-01-00, Olivares, Barcelona B
+28, Riqui Puig, ESP, M, 1.69, 56, 13-08-99, Matadepera, Barcelona B
+29, Abel Ruiz, ESP, F, 1.82, 75, 28-01-00, Almussafes, Barcelona B
+30, Iñaki Peña, ESP, G, 1.84, 78, 02-03-99, Alicante, Barcelona B
+31, Jokin Ezkieta, ESP, G, 1.94, 78, 17-08-96, Pamplona, Osasuna B
+32, Monchu, ESP, M, 1.73, 68, 13-09-99, Palma de Mallorca, Barcelona B
+33, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Alcorcón B
+34, Álex Collado, ESP, M, 1.73, 65, 22-04-99, Sabadell, Barcelona B
+35, Oriol Busquets, ESP, M, 1.85, 78, 20-01-99, Sant Feliu de Guíxols, Barcelona B
+36, Chumi, ESP, D, 1.84, 75, 02-03-99, Laracha, Barcelona B
+37, Óscar Mingueza, ESP, D, 1.84, 75, 13-05-99, Santa Perpètua de Mogoda, Barcelona B
+38, Guillem Jaime, ESP, M, 1.77, 70, 06-01-99, Torreforta, Barcelona B
+40, Moussa Wagué, SEN, D, 1.77, 70, 04-10-98, Bignona, Eupen
+43, Carles Pérez, ESP, F, 1.72, 65, 16-02-98, Granollers, Barcelona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Paco Alcácer, ESP, F, 1.75, 71, 30-08-93, Torrent, Borussia Dortmund (On Loan)
+26, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Re-Registered (21)
+19, Munir El Haddadi, ESP, F, 1.72, 62, 01-09-95, San Lorenzo de El Escorial, Sevilla
+6, Denis Suárez, ESP, M, 1.76, 69, 06-01-94, Salceda de Caselas, Arsenal (On Loan)
+16, Sergi Samper, ESP, M, 1.82, 73, 20-01-95, Barcelona, Vissel Kobe

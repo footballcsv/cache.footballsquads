@@ -1,0 +1,21 @@
+# German Bundesliga 2004/05
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [VfL Bochum](bochum.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburg](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hberlin.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [FSV Mainz 05](mainz.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

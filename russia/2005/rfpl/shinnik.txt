@@ -1,0 +1,52 @@
+=  Shinnik - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Evgeniy Safonov, G, 6'06", 15 02, 06-07-77, Tashkent, Samarkand
+2, Mikhail Starostjak, D, 5'09", 10 01, 13-10-73, Prikarpatie, Shakhtar Donetsk
+3, Aleksandr Radosavljević, M, 6'00", 12 01, 25-04-79, Ljubljana, Mura
+4, Sergey Chernogaev, D, 5'08", 09 06, 20-03-83, Moscow, Torpedo Moscow
+5, Oleg Kornaukhov, D, 6'00", 12 01, 14-01-75, Moscow, Kuban
+7, Vyacheslav Vishnevskiy, M, 5'07", 10 03, 16-04-77, Moscow, Saturn
+8, Mario Jurić, M, 5'10", 11 09, 07-08-76, Zagreb, Dynamo Zagreb
+9, Sergey Terekhov, M, 5'09", 11 00, 18-04-75, Tallinn, Haka
+10, Darco Maletic, M, 5'09", 11 07, 20-10-80, Borac, Zenit
+11, Pavel Pogrebnyak, F, 6'00", 12 00, 08-11-83, Moscow, Khimki
+12, Dmitriy Vasilyev, F, 6'02", 12 08, 02-05-85, Kiev, Arsenal Kiev
+13, Siarhei Shtaniuk, D, 6'03", 12 13, 13-08-73, Minsk, Stoke C
+14, Serge Branco, M, 5'09'', 11 11, 11-10-80, Douala, QPR
+16, Anton Khazov, F, 6'01", 12 06, 28-04-79, N.Novgorod, Dynamo Moscow
+17, Vladimir But, M, 6'00'', 12 08, 07-09-77, Novorossiysk, Hannover 96
+18, Igor Budisa, D, 6'02", 12 11, 23-09-77, Zagreb, Kickers Offenbach
+19, Erik Korchagin, F, 5'10", 11 05, 16-01-79, Mozdok, Dynamo Moscow
+21, Krzysztof Łągiewka, D, 6'02", 12 06, 23-01-83, Zambrów, Skonto
+22, Aleksandr Shirko, F, 5'10", 10 12, 24-11-76, Moscow, Terek
+24, Egor Shevchenko, M, 5'09", 10 12, 04-02-78, Pavlovo-na-Oke, Lisma-Mordovia
+25, Ruslan Baltiev, M, 5'09", 11 05, 16-09-78, Alma-Ata, FC Moscow
+28, Artem Zasyadvovk, M, 5'09", 11 00, 20-05-83, Yaroslavl, None
+29, Anatoliy Nezhelev, M, 5'08", 09 13, 25-05-83, Yaroslavl, None
+30, Aleksandr Tumenko, M, 6'00", 11 09, 15-07-83, Moscow, Spartak B
+32, Emzar Rozomashvili, M, 5'10", 11 09, 11-07-85, Yaroslavl, None
+34, Yuriy Morozov, D, 6'01", 11 05, 23-10-85, Yaroslavl, None
+35, Evgeniy Khomenko, F, 5'09", 11 00, 05-01-85, Yaroslavl, None
+39, Viktor Myagkov, M, 5'06", 09 11, 02-02-85, Yaroslavl, None
+40, Andrey Djatelj, M, 5'11", 11 09, 08-01-80, Moscow, Dynamo Moscow
+44, Vyacheslav Rafikov, D, 5'11", 12 00, 19-03-86, Yaroslavl, None
+45, Leonid Koshelev, M, 5'10", 11 11, 20-12-79, Tashkent, Pahtakor
+49, Ilja Dolmatov, F, 5'11", 12 04, 23-06-85, Moscow, Sportakademclub
+50, Jaroslav Tkoc, G, 6'00", 12 06, 25-02-73, Ryubnik, GKS
+52, Georgiy Uljanov, D, 6'04", 12 11, 12-09-85, Yaroslavl, None
+66, Vladimir Kuleshov, F, 5'11", 11 11, 18-05-86, Yaroslavl, None
+77, Jaroslav Kharitonskiy, M, 5'11", 11 07, 12-03-85, Yaroslavl, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, André Bikey, D, 6'00", 12 08, 08-01-85, Douala, Lokomotiv Moscow
+6, Dmitriy Vasilyev, D, 5'11", 11 09, 25-03-77, St. Petersburg, Rubin
+4, Aleksandr Kulchiy, M, 5'11", 11 09, 01-11-73, Gomel, Tom
+15, Renat Dubinskiy, D, 6'01", 11 09, 06-05-79, Ufa, Ural Ekaterinburg
+18, Emir Spahić, D, 6'00", 12 01, 18-08-80, Skopje, Torpedo Moscow
+53, Platon Zakharchuk, G, 6'04", 13 01, 10-09-72, Nabereznye Chelny, KAMAZ
+51, Anton Sharapov, G, 6'02", 12 08, 09-06-84, Yaroslavl, 
+46, Sergey Gello, D, 6'01", 12 08, 22-04-86, Yaroslavl, 
+33, Nikita Demchenko, M, 5'09", 11 00, 07-07-84, Yaroslavl, 

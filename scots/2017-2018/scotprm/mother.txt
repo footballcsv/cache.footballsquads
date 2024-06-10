@@ -1,0 +1,54 @@
+=  Motherwell - Scottish Premiership 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, Hartlepool U
+2, Richard Tait, SCO, D, 1.81, 76, 02-12-89, Galashiels, Grimsby T
+3, Stephen Hendrie, SCO, D, 1.78, 70, 08-01-95, Glasgow, Southend U
+4, Liam Grimshaw, ENG, M, 1.78, 75, 02-02-95, Burnley, Preston NE
+5, Gaël Bigirimana, ENG, M, 1.73, 68, 22-10-93, Bujumbura, Coventry C
+6, Peter Hartley, ENG, D, 1.84, 79, 03-04-88, Hartlepool, Blackpool
+7, Chris Cadden, SCO, M, 1.83, 67, 19-09-96, Bellshill, None
+8, Carl McHugh, IRL, M, 1.80, 72, 05-02-93, Lettermacaward, Plymouth Arg
+9, Curtis Main, ENG, F, 1.78, 67, 20-06-92, South Shields, Portsmouth
+11, Elliott Frear, ENG, M, 1.73, 64, 11-09-90, Exeter, Forest Green R
+12, Ryan Bowman, ENG, F, 1.88, 76, 30-11-91, Carlisle, Gateshead
+13, Russell Griffiths, ENG, G, 1.88, 85, 13-04-96, Gravesend, Everton
+14, Ellis Plummer, ENG, D, 1.81, 70, 02-09-94, Audenshaw, Manchester C
+15, Andy Rose, ENG, M, 1.88, 77, 13-02-90, Melbourne, Coventry C
+18, Charles Dunne, ENG, D, 1.77, 74, 13-02-93, Lambeth, Oldham Ath
+19, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Bury
+20, Deimantas Petravičius, LTU, M, 1.78, 74, 02-09-95, Vilnius, Zagłębie Lubin
+21, Cédric Kipré, FRA, D, 1.90, 77, 09-12-96, Paris, Leicester C
+22, Allan Campbell, SCO, M, 1.73, 67, 04-07-98, Glasgow, None
+23, Nadir Çiftçi, NED, F, 1.83, 77, 12-02-92, Den Haag, Celtic
+24, George Newell, ENG, F, 1.83, 75, 27-01-97, Formby, Bolton W
+26, Ross McLean, SCO, M, 1.72, 60, 13-03-97, Bellshill, None
+27, Craig Tanner, ENG, M, 1.71, 72, 27-10-94, Reading, Reading
+28, Shea Gordon, NIR, M, 1.81, 74, 16-05-98, Derryloughan, Sheffield U
+30, Luke Watt, SCO, D, 1.80, 74, 20-06-97, Glasgow, None
+31, David Turnbull, SCO, M, 1.85, 75, 10-07-99, Carluke, None
+32, Dylan King, NIR, D, , , 27-08-98, Strabane, Oldham Ath
+33, Liam Brown, SCO, M, 1.75, 67, 07-04-99, Glasgow, Queen's Park
+34, Barry Maguire, SCO, D, 1.89, 74, 27-04-98, Belshill, None
+35, Jake Hastie, SCO, M, 1.81, 75, 18-03-99, Law, None
+36, Dylan Falconer, SCO, F, , , 23-05-99, , None
+37, Jordan Armstrong, SCO, D, 1.91, 79, 02-04-99, Glasgow, None
+38, James Scott, SCO, F, 1.88, 87, 30-08-00, Glasgow, None
+39, Peter Morrison, SCO, G, 1.90, 85, 27-02-98, Bellshill, None
+40, Alfie Agyeman, ITA, F, 1.82, 76, 01-11-00, Accra, None
+41, Kyle MacDonald, SCO, M, 1.82, 76, 11-01-00, Glasgow, None
+42, Jamie Semple, SCO, F, 1.83, 78, 17-05-01, Bellshill, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jacob Blyth, ENG, F, 1.91, 77, 14-08-92, Nuneaton, 
+6, Stephen McManus, SCO, D, 1.88, 83, 10-09-82, Lanark, Retired
+16, Rohan Ferguson, SCO, G, 1.89, 80, 06-12-97, Bathgate, Airdrieoinans (On Loan)
+4, Ben Heneghan, ENG, D, 1.91, 79, 19-09-93, Manchester, Sheffield U
+25, Jack McMillan, SCO, D, 1.83, 77, 18-12-97, Livingston, Livingston
+9, Louis Moult, ENG, F, 1.83, 85, 14-05-92, Stoke-on-Trent, Preston NE
+3, Steven Hammell, SCO, D, 1.78, 71, 18-02-81, Glasgow, Retired
+19, Gennadi Xenodochof, GRE, G, 1.93, 86, 30-05-88, Tbilisi, Larissa
+17, Alex Fisher, ENG, F, 1.88, 76, 30-06-90, Westminster, Yeovil T
+29, Adam Livingstone, SCO, D, 1.80, 70, 22-02-98, Law, East Fife (On Loan)

@@ -1,0 +1,45 @@
+=  Flamengo - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe, BRA, G, 1.90, 86, 22-02-84, Rio de Janeiro, Olé Brasil
+2, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Sporting Braga
+3, Chicão, BRA, D, 1.81, 81, 03-06-81, Mogi Guaçu, Corinthians
+4, Marcos González, CHI, D, 1.89, 85, 09-06-80, Rio de Janeiro, Universidad de Chile
+5, Víctor Cáceres, PAR, M, 1.82, 77, 25-03-85, Asunción, Libertad
+7, Rafinha, BRA, F, 1.64, 55, 01-04-93, Porto Franco, None
+8, Elias, BRA, M, 1.73, 64, 16-05-85, São Paulo, Sporting CP
+9, Hernane, BRA, F, 1.83, 80, 04-08-86, Bom Jesus da Lapa, Mogi Mirim
+10, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Bahia
+14, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Corinthians
+15, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, None
+16, João Paulo, BRA, D, 1.73, 72, 01-07-86, Belo Horizonte, Desportivo Brasil
+17, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, None
+18, Rodolfo, BRA, M, 1.73, 68, 03-05-93, Mesquita, Madureira
+19, Marcelo Martins Moreno, BOL, F, 1.87, 82, 18-06-87, Santa Cruz de la Sierra, Grêmio
+20, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Rubin Kazan
+23, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, None
+25, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Figueirense
+26, Paulinho, BRA, F, 1.77, 63, 14-06-88, Guarulhos, XV de Piracicaba
+27, André Santos, BRA, D, 1.79, 76, 08-03-83, São Paulo, Arsenal
+28, Bruninho, BRA, F, 1.67, 70, 25-02-90, Sorocaba, Atlético Sorocaba
+29, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, Porto-PE
+30, Val, BRA, M, 1.80, 74, 22-08-83, Natal, Mogi Mirim
+32, Fernandinho, BRA, F, 1.69, 64, 16-03-93, Limeira, Atlético Sorocaba
+33, Samir, BRA, D, 1.88, 80, 05-12-94, Rio de Janeiro, Audax Rio
+34, Digão, BRA, D, 1.77, 78, 12-03-93, Rio de Janeiro, None
+35, Diego Silva, BRA, M, 1.78, 71, 09-05-89, Bento de Abreu, XV de Piracicaba
+36, Rodrigo Frauches, BRA, D, 1.85, 77, 28-09-92, São João de Meriti, None
+37, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+38, Welinton, BRA, D, 1.87, 83, 10-04-89, Rio de Janeiro, None
+40, Amaral, BRA, M, 1.74, 80, 01-05-88, Rio das Ostras, Nova Iguaçu
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Renato, BRA, M, 1.83, 78, 09-06-78, São Paulo, Santos
+6, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Re-Registered (31)
+25, Amaral, BRA, M, 1.74, 80, 01-05-88, Rio das Ostras, Re-Registered (40)
+27, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Re-Registered (48)
+31, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Corinthians
+13, Renato Santos, BRA, D, 1.87, 87, 30-01-87, São Bernardo do Campo, Vitóra (On Loan)

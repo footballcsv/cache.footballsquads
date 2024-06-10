@@ -1,0 +1,48 @@
+=  Gençlerbirligi - Turkish Süper Lig 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ramazan Köse, TUR, G, 1.94, 81, 12-05-88, Ankara, None
+4, Aykut Demir, TUR, D, 1.80, 67, 22-10-88, Bergen op Zoom, NAC Breda
+5, Debatik Curri, ALB, D, 1.87, 82, 28-12-83, Tirana, Vorskla Poltava
+6, Ante Kulušić, CRO, D, 1.89, 85, 06-06-86, Šibenik, Hacettepe
+9, Yasin Öztekin, TUR, M, 1.78, 64, 19-03-87, Dortmund, Borussia Dortmund
+10, Ermin Zec, BIH, F, 1.79, 73, 18-02-88, Bugojno, Šibenik
+11, Murat Duruer, TUR, M, 1.82, 77, 15-01-88, Gerede, Ankaragücü
+12, Randall Azofeifa, CRC, M, 1.83, 79, 30-12-84, San José, KAA Gent
+13, Oktay Delibalta, TUR, M, 1.80, 70, 27-10-85, Samsun, Samsunspor
+14, Onur Bayramoğlu, TUR, M, 1.87, 75, 04-01-90, Eskişehir, Beşiktaş
+16, Yusuf Emre Gültekin, TUR, F, 1.77, 75, 12-03-93, Altındağ, None
+17, Hurşut Meriç, NED, M, 1.73, 75, 31-07-83, Amsterdam, ADO Den Haag
+18, Hervé Tum, CMR, F, 1.83, 80, 15-02-79, Yaoundé, İstanbul BB
+20, Soner Aydoğdu, TUR, M, 1.80, 72, 05-01-91, Mamak, None
+21, Franck Mawuena, TOG, F, 1.87, 80, 21-11-92, Lomé, None
+23, İrfan Can Kahveci, TUR, M, 1.75, 67, 15-07-95, Bayat, None
+24, Özgür İleri, TUR, M, 1.89, 86, 17-11-87, İzmir, Canakkale Dardanelspor
+25, Erkut Başkaya, TUR, M, 1.78, 69, 14-06-93, Yenimahalle, None
+27, Aytaç Sulu, TUR, D, 1.83, 81, 11-12-85, Heidelberg, Aalen
+28, Mehmet Akgün, GER, M, 1.79, 70, 06-08-86, Bielefeld, Willem II
+29, Ahmet Yılmaz Çalık, TUR, D, 1.82, 77, 26-02-94, Yenimahalle, None
+33, Furkan Öztürk, TUR, M, , , 12-03-95, Haymana, None
+35, Ferhat Kaplan, TUR, G, 1.90, 85, 07-01-89, Menemen, Canakkale Dardanelspor
+40, Cem Can, TUR, M, 1.79, 72, 01-04-81, Ankara, Ankaragücü
+42, Mahmut Bilir, TUR, M, 1.83, 75, 18-08-94, Çankaya, None
+58, Özkan Karabulut, TUR, G, 1.86, 82, 16-01-91, Mamak, None
+59, Mehmet Sedef, TUR, D, 1.80, 73, 05-08-87, Kilis, Konyaspor
+61, Emre Aygün, TUR, F, 1.75, 70, 01-06-85, Trabzon, Eskişehirspor
+88, Joachim Mununga, BEL, M, 1.79, 79, 30-06-88, Ottignies, Mechelen
+90, Deniz Çınar, TUR, G, 1.85, 87, 15-01-93, Altındağ, None
+95, Atabey Çiçek, TUR, F, 1.88, 76, 24-07-95, Yenimahalle, None
+99, Ersen Martin, TUR, F, 1.96, 85, 23-05-79, Markfredwitz, Kasımpaşa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Labinot Harbuzi, SWE, M, 1.75, 68, 04-04-86, Allhelgona, Manisaspor
+19, Sakıb Aytaç, TUR, D, 1.83, 80, 24-11-91, Konak, Denizlispor (On Loan)
+64, Oliver Ogbonnaya, NGA, M, 1.72, 75, 19-06-92, Abá, Karşıyaka (On Loan)
+22, Efşan Geçkin, TUR, D, 1.83, 83, 26-01-92, Ankara, Aydınspor (On Loan)
+77, Erdal Kılıçaslan, TUR, M, 1.79, 73, 23-08-84, Munich, Mersin İdman Yurdu
+3, Ihsan Burak Özsaraç, TUR, D, 1.85, 82, 07-06-79, Karabük, 
+7, Serkan Çalik, TUR, F, 1.67, 64, 15-03-86, Dinslaken, Erciyesspor
+94, Berat Tosun, TUR, M, 1.79, 72, 01-01-94, Ankara, Hacettepe (On Loan)
+15, Ergün Teber, TUR, D, 1.81, 76, 01-09-85, Adana, 

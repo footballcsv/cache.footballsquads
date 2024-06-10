@@ -1,0 +1,59 @@
+=  Ascoli - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriele Marchegiani, ITA, G, 1.89, 88, 03-06-96, Rome, Novara
+2, Nahuel Valentini, ARG, D, 1.84, 80, 19-09-88, Rosario, Oviedo
+3, Luca Ranieri, ITA, D, 1.85, 74, 23-04-99, La Spezia, Fiorentina
+4, Erick Ferigra, ECU, D, 1.88, 79, 07-02-99, Guayaquil, Torino
+5, Raffaele Pucino, ITA, D, 1.82, 74, 03-05-91, Caserta, Salernitana
+6, Michele Troiano, ITA, M, 1.88, 82, 07-01-85, Desio, Virtus Entella
+7, Michele Cavion, ITA, M, 1.80, 73, 08-12-94, Schio, Cremonese
+8, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, Rizespor
+9, Gianluca Scamacca, ITA, F, 1.95, 85, 01-01-99, Rome, Sassuolo
+10, Lorenzo Rosseti, ITA, F, 1.88, 74, 05-08-94, Arezzo, Juventus
+11, Nikola Ninković, SRB, F, 1.82, 69, 19-12-94, Bogatić, Genoa
+12, Nunzio Zizzania, ITA, G, 1.89, 76, 08-06-01, Torre del Greco, None
+13, Christian Scorza, ITA, M, 1.93, 81, 14-07-00, Ascoli Piceno, None
+14, Mario Piccinocchi, ITA, M, 1.72, 66, 21-02-95, Milan, Lugano
+15, Andrew Gravillon, FRA, D, 1.88, 75, 08-02-98, Pointe-à-Pitre, Internazionale
+16, Mattia D'Agostino, ITA, F, 1.83, , 12-05-00, Avezzano, L'Aquila
+17, Leonardo Sernicola, ITA, D, 1.87, 81, 30-07-97, Civita Castellana, Sassuolo
+18, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Frosinone
+19, Simone Padoin, ITA, M, 1.79, 73, 18-03-84, Gemona del Friuli, Cagliari
+20, Francesco Felicetti, ITA, D, 1.78, , 21-03-01, Ascoli Piceno, None
+21, Giacomo Beretta, ITA, F, 1.83, 74, 14-03-92, Varese, Foggia
+22, Riccardo Novi, ITA, G, 1.87, 83, 18-07-00, Ascoli Piceno, None
+23, Riccardo Brosco, ITA, D, 1.91, 78, 03-02-91, Rome, Verona
+24, Giovanni Alessandretti, ITA, D, 1.84, 75, 01-01-01, Perugia, None
+25, Manuel Alagna, ITA, D, 1.80, , 23-01-02, , Tre Teste
+26, Edoardo Marini, ITA, F, 1.79, 73, 28-02-01, San Benedetto del Tronto, None
+27, Mirko Eramo, ITA, M, 1.81, 75, 12-07-89, Acquaviva delle Fonti, Virtus Entella
+28, Cristian Andreoni, ITA, D, 1.78, 80, 30-05-92, Vaprio d'Adda, Vicenza
+29, Emanuele Maurizii, ITA, D, 1.70, 64, 02-02-01, Sant'Omero, Alba Adriatica
+30, Petar Brlek, CRO, M, 1.80, 74, 29-01-94, Varaždin, Genoa
+31, Ricardo Matos, POR, F, 1.79, 77, 25-03-00, Vale de Figueira, Benfica
+32, Francesco Intinacelli, ITA, F, 1.79, 68, 12-11-01, Chieti, None
+33, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Perugia
+34, Miguel De Alcântara, BRA, D, 1.90, 85, 22-02-00, Americana, São Paulo
+35, Diogo Pinto, POR, M, 1.75, 63, 29-06-99, Tomar, Benfica
+36, Davide Di Francesco, ITA, F, 1.72, , 19-01-01, Sant'Omero, None
+37, Maurice Čović, GER, M, 1.69, 62, 17-04-98, Berlin, Hertha Berlin
+38, Leonardo Morosini, ITA, F, 1.75, 74, 13-10-95, Ponte San Pietro, Brescia
+39, Lorenzo Pulsoni, ITA, D, 1.87, 77, 18-07-01, Ascoli Piceno, None
+40, Kamil Bielikow, POL, G, 1.94, 86, 04-01-01, Radom, Radomiak Radom
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Tiziano Caccetta, ITA, G, , , 10-05-01, Brindisi, Lecce
+15, Danilo Quaranta, ITA, D, 1.92, 75, 23-03-97, Teramo, Catanzaro (On Loan)
+19, Davide Di Francesco, ITA, F, 1.72, , 19-01-01, Sant'Omero, Re-Registered (36)
+33, Andrea Fulignati, ITA, G, 1.88, 88, 31-10-94, Empoli, Perugia
+3, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Frosinone
+32, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Frosinone
+17, Alessio da Cruz, NED, F, 1.84, 75, 18-01-97, Almere, Parma
+18, Moutir Chajia, BEL, M, 1.77, 72, 04-06-98, Heusden-Zolder, Virtus Entella (On Loan)
+1, Ivan Lanni, ITA, G, 1.88, 77, 30-06-90, Alatri, Novara
+25, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Crotone (On Loan)
+27, Lorenzo Laverone, ITA, M, 1.75, 70, 19-04-89, Bagno a Ripoli, Triestina (On Loan)
+25, Baïssama Sankoh, GUI, M, 1.80, 73, 20-03-92, Nogent-sur-Marne, 

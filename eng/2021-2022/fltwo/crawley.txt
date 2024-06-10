@@ -1,0 +1,51 @@
+=  Crawley Town - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Glenn Morris, ENG, G, 1.83, 70, 20-12-83, Woolwich, Gillingham
+2, Archie Davies, ENG, D, 1.83, 78, 07-10-98, Hastings, Brighton & HA
+3, Owen Gallacher, SCO, D, 1.74, 62, 06-04-99, Newcastle upon Tyne, Burton Alb
+4, George Francomb, ENG, M, 1.80, 73, 08-09-91, Hackney, AFC Wimbledon
+5, Tony Craig, ENG, D, 1.83, 65, 20-04-85, Greenwich, Bristol R
+8, Jack Powell, ENG, M, 1.77, 62, 29-01-94, Canning Town, Maidstone U
+9, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, Bristol R
+10, Ashley Nadesan, ENG, F, 1.88, 75, 09-09-94, Redhill, Fleetwood T
+11, Tyler Frost, ENG, M, 1.75, 70, 07-07-99, Reading, Reading
+12, Alex Battle, ENG, F, 1.79, -, 23-01-99, Plymouth, Truro C
+13, Ricky German, GRN, F, 1.87, 80, 13-01-99, Brent, Hendon
+14, James Tilley, ENG, F, 1.68, 59, 13-06-98, Billingshurst, Grimsby T
+15, Ludwig Francillette, FRA, D, 1.93, 81, 05-05-99, Basse-Terre, Newcastle U
+17, Manny Adebowale, NGA, D, 1.96, 85, 14-09-97, Stratford, Eastbourne Boro
+18, Will Ferry, IRL, F, 1.75, 70, 07-12-00, Wigan, Southampton
+19, Jordan Tunnicliffe, ENG, D, 1.86, 82, 13-10-93, Nuneaton, AFC Fylde
+20, Sam Matthews, ENG, M, 1.76, 71, 01-03-97, Poole, Bristol R
+21, Kwesi Appiah, GHA, F, 1.81, 80, 12-08-90, Peterborough, NorthEast U
+22, Zaid Al Hussaini, ENG, M, 1.75, 65, 07-06-00, Chelsea, Hampton & Richmond Boro
+23, Aramide Oteh, ENG, F, 1.83, 73, 10-09-98, Lewisham, Salford C
+24, Caleb Watts, AUS, M, -, -, 16-01-01, -, Southampton
+25, Nicholas Tsaroulla, CYP, D, 1.78, 70, 29-03-99, Bristol, Brentford
+26, Szymon Kowalczyk, ENG, M, -, -, 20-08-03, -, None
+27, Rafiq Khaleel, MAR, M, 1.77, 64, 24-02-03, Camden, None
+28, Jack Payne, ENG, M, 1.75, 58, 05-12-91, Gravesend, Eastleigh
+30, Amrit Bansal-McNulty, NIR, M, 1.74, 66, 16-03-00, Hackney, QPR
+31, Alfie Jones, ENG, G, 1.85, 74, 02-10-00, Watford, MK Dons
+32, Mustafa Hussein, ENG, F, -, -, 24-07-00, -, Bush Hill Rangers
+33, Henry Burnett, ENG, M, -, -, -, -, Southend U
+34, Kaan Kevser-Junior, ENG, M, 1.70, 68, 13-09-04, -, None
+35, Davide Rodari, SUI, F, 1.78, 70, 23-06-99, -, Hastings U
+37, Joel Lynch, WAL, D, 1.85, 81, 03-10-87, Eastbourne, Sunderland
+39, Jake Hessenthaler, ENG, M, 1.76, 64, 20-04-94, Gravesend, Grimsby T
+40, Isaac Hutchinson, ENG, M, 1.78, 70, 10-04-00, Eastbourne, Derby Co
+42, Taylor Seymour, ENG, G, 1.90, 80, 17-09-01, Worthing, Burgess Hill T
+45, Mark Marshall, JAM, M, 1.83, 76, 05-05-87, Manchester [JAM], Northampton T
+47, Florian Kastrati, ENG, M, 1.80, 73, 07-07-02, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Harry Ransom, ENG, D, 1.82, 70, 01-10-99, Uckfield, Dover Ath (On Loan)
+40, Blondy Nna Noukeu, CMR, G, 1.84, 70, 17-09-01, -, Stoke C
+6, Tom Dallison, ENG, D, 1.85, 84, 02-02-96, Dagenham, Colchester U
+38, Dion Henry, ENG, G, 1.92, 76, 12-09-97, Ipswich, AFC Sudbury
+23, Sam Ashford, ENG, F, 1.83, 73, 21-12-95, Chelmsford, Ayr U
+7, Reece Grego-Cox, IRL, F, 1.70, 65, 12-11-96, Hammersmith, Barnet (On Loan)
+44, Ronan Silva, ENG, M, -, -, 18-04-00, Hounslow, Eastleigh (On Loan)

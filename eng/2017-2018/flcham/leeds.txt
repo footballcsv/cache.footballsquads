@@ -1,0 +1,60 @@
+=  Leeds United - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andy Lonergan, ENG, G, 1.92, 87, 19-10-83, Preston, Wolverhampton W
+2, Luke Ayling, ENG, D, 1.83, 72, 25-08-91, Lambeth, Bristol C
+4, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Middlesbrough
+5, Matthew Pennington, ENG, D, 1.85, 77, 06-10-94, Warrington, Everton
+6, Liam Cooper, SCO, D, 1.80, 73, 03-08-91, Hull, Chesterfield
+7, Kemar Roofe, ENG, M, 1.78, 71, 06-01-93, Walsall, Oxford U
+8, Vurnon Anita, NED, M, 1.66, 63, 04-04-89, Willemstad, Newcastle U
+9, Pierre-Michel Lasogga, GER, F, 1.89, 88, 15-12-91, Gladbeck, Hamburg
+10, Ezgjan Alioski, MKD, M, 1.72, 68, 12-02-92, Prilep, Lugano
+11, Jay-Roy Grot, NED, F, 1.93, 93, 13-03-98, Arnhem, NEC Nijmegen
+12, Laurens De Bock, BEL, D, 1.79, 69, 07-11-92, Dendermonde, Club Brugge
+13, Felix Wiedwald, GER, G, 1.90, 82, 15-03-90, Thedinghausen, Werder Bremen
+14, Eunan O'Kane, IRL, M, 1.73, 84, 10-07-90, Derry, Bournemouth
+15, Stuart Dallas, NIR, M, 1.83, 81, 19-04-91, Cookstown, Brentford
+17, Ouasim Bouy, NED, M, 1.81, 79, 11-06-93, Amsterdam, Juventus
+18, Pontus Jansson, SWE, D, 1.94, 89, 13-02-91, Arlöv, Torino
+19, Pablo Hernández, ESP, M, 1.73, 64, 11-04-85, Castellón, Al-Arabi [QAT]
+21, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Huesca
+22, Pawel Cibicki, SWE, M, 1.82, 65, 09-01-94, Malmö, Malmö FF
+23, Kalvin Phillips, ENG, M, 1.77, 72, 02-12-95, Leeds, None
+24, Hadi Sacko, FRA, F, 1.83, 79, 24-03-94, Corbeil-Essonnes, Sporting CP
+25, Ronaldo Vieira, GNB, M, 1.78, 74, 19-07-98, Bissau, None
+27, Tyler Roberts, WAL, F, 1.80, 75, 12-01-98, Gloucester, WBA
+28, Gaetano Berardi, SUI, D, 1.79, 70, 21-08-88, Sorengo, Sampdoria
+29, Madger Gomes, ESP, M, 1.78, 69, 01-02-97, Alicante, Liverpool
+30, Bailey Peacock-Farrell, ENG, G, 1.88, 73, 29-10-96, Darlington, None
+31, Lewis Coyle, ENG, D, 1.73, 67, 15-10-95, Kingston upon Hull, None
+33, Tyler Denton, ENG, D, 1.75, 66, 06-09-95, Dewsbury, None
+35, Conor Shaughnessy, IRL, M, 1.91, 74, 30-06-96, Galway, Reading
+37, Paudie O'Connor, IRL, D, 1.91, 77, 14-07-97, Limerick, Limerick
+40, Romário Vieira, GNB, M, 1.78, 74, 19-07-98, Bissau, Benfica
+41, Sam Dalby, ENG, F, 1.91, 78, 17-01-00, Leytonstone, Leyton Orient
+42, Callum Nicell, IRL, M, , , 30-10-99, Doncaster, None
+44, Hugo Díaz, ESP, D, 1.84, 73, 09-02-97, La Coruña, Silva
+45, Caleb Ekuban, GHA, F, 1.88, 80, 23-03-94, Villafranca, Chievo Verona
+46, Tom Pearce, ENG, D, 1.85, 79, 12-04-98, Ormskirk, None
+47, Jack Clarke, ENG, F, 1.81, 74, 23-11-00, York, None
+48, Liam Kitching, ENG, D, 1.91, 80, 01-10-99, Harrogate, None
+49, Oriol Rey, ESP, D, 1.77, 60, 25-02-98, Barcelona, Barcelona
+50, Pascal Struijk, NED, D, 1.90, 75, 11-08-99, Deurne, Ajax
+51, Alex Machuca, ESP, M, , , 15-01-98, Móstoles, Rayo Vallecano
+53, Ryan Edmondson, ENG, F, 1.88, 79, 20-05-01, York, York C
+54, Jamie Shackleton, ENG, M, 1.68, 64, 08-10-99, Leeds, None
+56, Bryce Hosannah, ENG, D, 1.75, 68, 08-04-99, Lambeth, Crystal Palace
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Marcus Antonsson, SWE, F, 1.84, 80, 08-05-91, , Blackburn R (On Loan)
+9, Chris Wood, NZL, F, 1.91, 91, 07-12-91, Auckland, Burnley
+26, Liam Bridcutt, SCO, M, 1.75, 73, 08-05-89, Reading, Nottingham F
+11, Souleymane Doukara, SEN, F, 1.93, 80, 29-09-91, Meudon, Osmanlıspor
+1, Robert Green, ENG, G, 1.91, 93, 18-01-80, Chertsey, Huddersfield T
+3, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, Manchester U
+43, Mateusz Klich, POL, M, 1.80, 67, 13-06-90, Tarnów, FC Utrecht (On Loan)
+36, Mallik Wilks, ENG, F, 1.80, 71, 15-12-98, Leeds, Grimsby T (On Loan)
+38, Eoghan Stokes, IRL, F, 1.72, 70, 17-05-96, Dublin, Bohemians

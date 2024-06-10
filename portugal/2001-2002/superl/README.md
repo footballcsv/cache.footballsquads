@@ -1,0 +1,21 @@
+# Portuguese Superliga 2001/02
+
+18 teams
+- [Alverca](alverca.txt)
+- [Beira-Mar](beiramar.txt)
+- [Belenenses](belenen.txt)
+- [Benfica](benfica.txt)
+- [Boavista](boavista.txt)
+- [Farense](farense.txt)
+- [Gil Vicente](gilvic.txt)
+- [Marítimo](maritimo.txt)
+- [Paços de Ferreira](pacos.txt)
+- [FC Porto](porto.txt)
+- [Salgueiros](salgueir.txt)
+- [Santa Clara](santa.txt)
+- [Sporting Braga](spbraga.txt)
+- [Sporting CP](sporting.txt)
+- [União de Leiria](uniaole.txt)
+- [Varzim](varzim.txt)
+- [Vitória Guimarães](vitoria.txt)
+- [Vitória Setúbal](vsetubal.txt)

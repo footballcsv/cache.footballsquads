@@ -1,0 +1,54 @@
+=  Sassuolo - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Pomini, ITA, G, 1.87, 83, 17-03-81, Isola della Scala, Bellaria Igea
+4, Francesco Magnanelli, ITA, M, 1.81, 79, 12-11-84, Umbertide, Sangiovannese
+5, Luca Antei, ITA, D, 1.88, 77, 19-04-92, Rome, Roma
+6, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Roma
+7, Simone Missiroli, ITA, M, 1.91, 77, 23-05-86, Reggio Calabria, Reggina
+8, Davide Biondini, ITA, M, 1.80, 77, 24-01-83, Cesena, Genoa
+9, Pietro Iemmello, ITA, F, 1.79, 73, 06-03-92, Catanzaro, Spezia
+10, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Milan
+11, Grégoire Defrel, FRA, F, 1.79, 77, 17-06-91, Meudon, Cesena
+12, Stefano Sensi, ITA, M, 1.68, 62, 05-08-95, Urbino, Cesena
+13, Federico Peluso, ITA, D, 1.88, 82, 20-01-84, Rome, Juventus
+14, Marius Marin, ROU, M, 1.82, 69, 30-08-98, Timişoara, ASU Politehnica Timișoara
+15, Francesco Acerbi, ITA, D, 1.92, 89, 10-02-88, Vizzolo Predabissi, Genoa
+16, Matteo Politano, ITA, F, 1.71, 65, 03-08-93, Rome, Roma
+17, Nicholas Pierini, ITA, F, 1.76, 70, 06-08-98, Parma, Empoli
+19, Gianluca Scamacca, ITA, F, 1.95, 85, 01-01-99, Rome, PSV Eindhoven
+20, Pol Lirola, ESP, D, 1.83, 76, 13-08-97, Mollet del Vallès, Juventus
+21, Alberto Aquilani, ITA, M, 1.86, 77, 07-07-84, Rome, Pescara
+22, Luca Mazzitelli, ITA, M, 1.84, 76, 15-11-95, Rome, Roma
+23, Marcello Gazzola, ITA, D, 1.83, 78, 03-04-85, Borgotaro, Ascoli
+25, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+26, Francesco Scavo, ITA, G, , , 19-05-98, Reggio Emilia, None
+27, Federico Ricci, ITA, M, 1.75, 63, 27-05-94, Rome, Roma
+28, Paolo Cannavaro, ITA, D, 1.85, 83, 26-06-81, Naples, Napoli
+29, Luca Ravanelli, ITA, D, 1.87, 75, 16-01-97, Trento, Parma
+30, Bryan Costa, ITA, G, 1.88, 75, 28-07-98, Vicenza, Vicenza
+31, Simone Caputo, ITA, F, 1.80, 70, 25-07-98, Munich, None
+32, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Sampdoria
+33, Simone Franchini, ITA, M, 1.83, 74, 30-03-98, Modena, None
+35, Leonardo Sarzi Maddidini, ITA, M, 1.72, 70, 21-09-98, Parma, Parma
+38, Martin Erlić, CRO, D, 1.92, 78, 24-01-98, Zadar, Parma
+39, Cristian Dell'Orco, ITA, D, 1.83, 75, 10-02-94, Sant'Angelo Lodigiano, Parma
+40, Leonardo Vitali, ITA, G, 1.89, 83, 07-08-98, Città di Castello, Perugia
+47, Andrea Consigli, ITA, G, 1.89, 82, 27-01-87, Milan, Atalanta
+55, Timo Letschert, NED, D, 1.88, 70, 25-05-93, Purmerend, FC Utrecht
+77, Manuel Ferrini, ITA, D, 1.88, 75, 25-06-98, Rimini, Parma
+79, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+90, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Cesena
+97, Giacomo Zecca, ITA, M, , , 06-07-97, Piacenza, Piacenza
+98, Claud Adjapong, ITA, D, 1.79, 74, 06-05-98, Modena, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Lorenzo Ariaudo, ITA, D, 1.86, 70, 11-06-89, Turin, Frosinone
+91, Karim Laribi, ITA, M, 1.75, 68, 20-04-91, Milan, Cesena (On Loan)
+9, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Crotone (On Loan)
+21, Leonardo Fontanesi, ITA, D, 1.81, 73, 20-02-96, Correggio, Brescia (On Loan)
+29, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Crotone (On Loan)
+33, Giovanni Sbrissa, ITA, M, 1.85, 79, 25-09-96, Castelfranco Veneto, Brescia (On Loan)
+26, Emanuele Terranova, ITA, D, 1.83, 85, 14-04-87, Mazara del Vallo, Frosinone

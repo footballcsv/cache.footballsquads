@@ -1,0 +1,60 @@
+=  CSKA Moscow - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Deividas Šemberas, LTU, D, 1.87, 72, 02-08-78, Vilnius, Dynamo Moscow
+4, Sergey Ignashevich, RUS, D, 1.86, 75, 14-07-79, Moscow, Lokomotiv Moscow
+5, Ramón, BRA, M, 1.80, 72, 24-05-88, Nova Era, Corinthians
+6, Aleksey Berezutskiy, RUS, D, 1.90, 82, 20-06-82, Moscow, Chernomorets
+9, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Palmeiras
+11, Pavel Mamaev, RUS, M, 1.78, 70, 17-09-88, Moscow, Torpedo Moscow
+14, Ricardo Jesús, BRA, F, 1.85, 81, 16-05-85, Campinas, Spartak Nalchik
+15, Chidi Odiah, NGA, D, 1.80, 79, 17-12-83, Port Harcourt, Sheriff Tiraspol
+17, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, Vojvodina
+18, Yuriy Zhirkov, RUS, M, 1.80, 75, 20-08-83, Tambov, Spartak Tambov
+19, Dawid Janczyk, POL, F, 1.83, 81, 23-09-87, Nowy Sącz, Legia Warszawa
+20, Luboš Kalouda, CZE, M, 1.80, 75, 20-05-87, Brno, Brno
+22, Evgeniy Aldonin, RUS, M, 1.79, 72, 22-01-80, Alupka, Rotor Volgograd
+24, Vasiliy Berezutskiy, RUS, D, 1.89, 83, 20-06-82, Moscow, Torpedo-ZIL
+25, Elvir Rahimić, BIH, M, 1.91, 80, 04-04-76, Živinice, Anzhi Makhachkala
+33, Evgeniy Pomazan, RUS, G, 1.93, 85, 31-01-89, Angren, Kuban Krasnodar
+35, Igor Akinfeev, RUS, G, 1.85, 81, 08-04-86, Vidnoye, CSKA-2
+36, Anton Vlasov, RUS, D, 1.87, 83, 11-05-89, , CSKA-2
+37, Dmitri Ryzhov, RUS, F, 1.87, 84, 26-08-89, , CSKA-2
+38, Sergey Perunov, RUS, D, 1.83, 75, 04-06-90, , CSKA-2
+39, Aleksei Volkov, RUS, F, 1.83, 73, 10-06-91, , CSKA-2
+40, Nikolay Zaycev, RUS, D, 1.91, 87, 01-06-89, , CSKA-2
+41, Nikolay Zhirkov, RUS, M, 1.75, 68, 03-07-88, , CSKA-2
+42, Georgi Schennikov, RUS, D, 1.78, 69, 27-04-91, Moscow, CSKA-2
+43, Amir Kashiev, RUS, M, 1.72, 73, 11-12-89, Moscow, CSKA-2
+44, Dmitri Arslanov, RUS, M, 1.86, 81, 10-02-90, , CSKA-2
+45, Aleksandr Kudriavtsev, RUS, M, 1.70, 72, 09-06-90, , CSKA-2
+46, Alan Dzagoev, RUS, M, 1.79, 70, 17-06-90, Beslan, CSKA-2
+47, Batraz Zasseyev, RUS, D, 1.72, 68, 10-09-91, , CSKA-2
+48, Igor Dragunov, RUS, M, 1.76, 70, 06-04-91, , CSKA-2
+49, Dmitri Protopopov, RUS, D, 1.86, 75, 23-01-89, , CSKA-2
+50, Anton Grigoriev, RUS, D, 1.89, 80, 13-12-85, Moscow, CSKA-2
+51, Aleksandr Tchutchalov, RUS, G, 1.84, 76, 30-03-90, , CSKA-2
+52, Anton Zabolotniy, RUS, F, 1.88, 84, 13-06-91, Lipetsk, CSKA-2
+54, Dmitri Manoshkin, RUS, M, 1.72, 64, 28-06-90, , CSKA-2
+55, Iskandar Dzhalilov, RUS, D, 1.80, 72, 01-06-92, Dushanbe, CSKA-2
+56, Maksim Karpov, RUS, M, 1.74, 69, 02-04-90, , CSKA-2
+57, Nikita Andreyev, RUS, M, 1.74, 67, 18-02-90, , CSKA-2
+58, Viktor Vorobiov, RUS, M, 1.76, 76, 29-01-90, , CSKA-2
+59, Sergei Shumilin, RUS, F, 1.81, 76, 21-02-90, Moscow, CSKA-2
+60, Dmitriy Abakumov, RUS, G, 1.85, 76, 08-07-89, Voronezh, CSKA-2
+61, Ganiyu Oseni, NGA, F, 1.77, 82, 19-09-91, , Espérance
+62, Ruslan Perepelyukov, RUS, D, 1.81, 72, 15-03-90, , CSKA-2
+63, Dmitriy Zameshayev, RUS, M, 1.78, 69, 14-05-91, , CSKA-2
+64, Yevgeniy Sherenkov, RUS, M, 1.78, 70, 27-01-91, , CSKA-2
+88, Caner Erkin, TUR, M, 1.77, 75, 04-10-88, Edremit, Manisaspor
+90, Viktor Klimeev, RUS, D, 1.95, 85, 16-01-90, , CSKA-2
+91, Artur Nigmatullin, RUS, G, 1.92, 88, 17-05-91, Vladivostok, CSKA-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+87, Pavel Figon, RUS, G, 1.86, 77, 22-05-90, , 
+10, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Manchester C
+7, Daniel Carvalho, BRA, M, 1.78, 79, 01-03-83, Porto Alegre, Internacional (On Loan)
+8, Dudu Cearense, BRA, M, 1.86, 75, 15-04-83, Fortaleza, Olympiakos
+53, Alan Alborov, RUS, D, 1.75, 68, 28-10-89, , KamAZ

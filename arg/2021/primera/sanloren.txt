@@ -1,0 +1,44 @@
+=  San Lorenzo - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Racing Club
+3, Cristián Zapata, COL, D, 1.86, 82, 30-09-86, Padilla Cauca, Genoa
+4, Marcelo Herrera, ARG, D, 1.80, 71, 03-11-98, Corrientes, None
+5, Yeison Gordillo, COL, M, 1.76, 73, 27-06-92, Miranda, Deportes Tolima
+6, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, None
+7, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, Al-Hilal [KSA]
+9, Franco Di Santo, ARG, F, 1.94, 78, 07-04-89, Mendoza, Atlético Mineiro
+12, Sebastián Torrico, ARG, G, 1.86, 84, 22-02-80, Godoy Cruz, Godoy Cruz (Mendoza)
+14, Bruno Pittón, ARG, D, 1.79, 69, 01-02-93, Santa Fe, Unión (Santa Fe)
+17, Augusto Batalla, ARG, G, 1.85, 79, 30-04-96, Florencio Varela, River Plate
+18, Agustin Peralta Bauer, ARG, D, 1.67, 58, 12-02-00, Capital Federal, None
+19, Agustin Hausch, ARG, F, 1.75, 62, 21-05-03, Baradero, None
+20, Néstor Ortigoza, PAR, M, 1.80, 79, 07-10-84, San Antonio de Padua, Estudiantes (Río Cuarto)
+22, Gabriel Rojas, ARG, D, 1.78, 68, 22-06-97, Almirante Brown, None
+23, Mariano Peralta Bauer, ARG, F, 1.76, 74, 20-02-98, Adrogué, None
+26, Nicolás Fernández, ARG, D, 1.72, 68, 11-01-00, Capital Federal, None
+27, Jalil Elías, ARG, M, 1.80, 70, 25-04-96, Rosario, Godoy Cruz (Mendoza)
+28, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, None
+29, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, Defensa y Justicia
+30, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Boca Juniors
+31, Luis Sequeira, ARG, M, 1.72, 71, 08-01-03, Escobar, None
+32, Francisco Flores, ARG, D, 1.82, 78, 11-01-02, Vicente López, None
+33, Alexander Díaz, ARG, F, 1.72, 69, 22-03-00, 9 de Julio, None
+34, Julián Palacios, ARG, M, 1.67, 66, 04-02-99, General Pico, None
+35, Gonzalo Luján, ARG, D, 1.82, 82, 27-04-01, Capital Federal, None
+36, Francisco Rivadeneira, ARG, G, 1.94, 80, 19-05-00, San Miguel de Tucumán, None
+38, Siro Rosané, ARG, M, 1.77, 68, 07-06-00, Río Cuarto, None
+39, Francisco Galván, ARG, F, 1.90, 80, 16-07-99, Olaeta, None
+40, Alexis Sabella, ARG, M, 1.78, 72, 20-06-01, Florentino Ameghino, None
+41, Iván Leguizamón, ARG, F, 1.74, 73, 03-07-02, Asunción, None
+42, Agustín Martegani, ARG, M, 1.82, 75, 20-03-00, Rojas, None
+44, Agustín Lamosa, ARG, D, 1.82, 72, 17-10-01, Vicente López, None
+45, Eduardo García, ARG, F, 1.72, 78, 05-02-01, San Miguel de Tucumán, None
+47, Matías Sosa, ARG, D, -, -, 15-12-00, Rosario, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, 
+11, Ángel Romero, PAR, F, 1.77, 73, 04-07-92, Fernando de la Mora, 
+8, Diego Rodríguez, URU, M, 1.70, 65, 04-09-89, Montevideo, Nacional [URU]

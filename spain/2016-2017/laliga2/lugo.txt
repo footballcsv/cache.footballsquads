@@ -1,0 +1,39 @@
+=  Lugo - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Juan, ESP, G, 1.83, 82, 24-01-79, Vigo, Granada
+2, Serge Leuko, CMR, D, 1.74, 75, 04-08-93, Douala, Valencia B
+3, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Karpaty Lviv
+4, Marcelo, ESP, D, 1.93, 87, 08-10-93, Barcelona, Juventus
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Carlos Hernández, ESP, D, 1.85, 80, 15-09-90, Jaén, Sabadell
+7, Igor Martínez, ESP, M, 1.70, 65, 19-07-89, Vitoria, Mirandés
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Pablo Caballero, ARG, F, 1.91, 79, 21-07-86, Totoras, Ferro Carril Oeste
+10, Antonio Campillo, ESP, M, 1.80, 70, 19-12-90, Madrid, Rayo Vallecano B
+11, Manu, ESP, D, 1.75, 70, 22-06-84, Wetzikon, Ourense
+12, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Lazio
+13, Roberto, ESP, G, 1.81, 76, 25-01-79, Chantada, Granada
+14, Yelko Pino, ESP, M, 1.72, 67, 31-10-96, Vigo, Celta Vigo
+15, Ángel Dealbert, ESP, D, 1.85, 78, 01-01-83, Castellón, Baniyas
+16, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Anderlecht
+17, Maxi Rolón, ARG, M, 1.71, 64, 19-01-95, Rosario, Santos
+18, Joselu, ESP, F, 1.77, 70, 03-03-91, Cartaya, Mallorca
+19, Dami, ESP, M, 1.77, 74, 03-02-96, Palma de Mallorca, Mallorca B
+20, Ignasi Miquel, ESP, D, 1.93, 85, 28-09-92, Barcelona, Ponferradina
+21, Sergio Gil, ESP, M, 1.83, 68, 10-05-96, Zaragoza, Zaragoza B
+22, Adrià Carmona, ESP, M, 1.70, 66, 08-02-92, Igualada, Albacete
+23, Jordi Calavera, ESP, D, 1.78, 67, 02-01-95, Valls, Eibar
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+26, Asier, ESP, F, , , , , Lugo JDH
+27, Duque, ESP, F, , , , , Lugo JDH
+29, Pablo Cacharrón, ESP, G, 1.82, 76, 12-06-97, Lugo, Lugo JDH
+30, Dani Góngora, ESP, M, , , 12-04-94, Almería, Polvorín
+31, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Castellón
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Dani Pedrosa, ESP, F, 1.82, 72, 04-09-96, Ribadeo, Somozas (On Loan)
+17, Alfonso Pedraza, ESP, M, 1.82, 75, 09-04-96, San Sebastián de los Ballesteros, Villarreal B
+19, Lionel Enguene, CMR, M, 1.68, 65, 07-01-96, Bertoua, Leixões (On Loan)

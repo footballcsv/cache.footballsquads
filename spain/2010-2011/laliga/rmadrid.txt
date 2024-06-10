@@ -1,0 +1,49 @@
+=  Real Madrid - Spanish La Liga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iker Casillas, ESP, G, 1.85, 79, 20-05-81, Madrid, Real Madrid B
+2, Ricardo Carvalho, POR, D, 1.83, 76, 18-05-78, Amarante, Chelsea
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, FC Porto
+4, Sergio Ramos, ESP, D, 1.83, 73, 30-03-86, Camas, Sevilla
+5, Fernando Gago, ARG, M, 1.78, 69, 10-04-86, Ciudadela, Boca Juniors
+6, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Manchester C
+7, Cristiano Ronaldo, POR, F, 1.86, 75, 05-02-85, Funchal, Manchester U
+8, Kaká, BRA, M, 1.86, 83, 22-04-82, Brasília, Milan
+9, Karim Benzema, FRA, F, 1.82, 74, 19-12-87, Lyon, Lyon
+10, Lassana Diarra, FRA, M, 1.73, 68, 10-03-85, Paris, Portsmouth
+11, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, Getafe
+12, Marcelo, BRA, D, 1.74, 73, 12-05-88, Rio de Janeiro, Fluminense
+13, Antonio Adán, ESP, G, 1.89, 91, 13-05-87, Madrid, Real Madrid B
+14, Xabi Alonso, ESP, M, 1.83, 75, 25-11-81, Tolosa, Liverpool
+16, Sergio Canales, ESP, M, 1.76, 65, 16-02-91, Santander, Racing Santander
+17, Álvaro Arbeloa, ESP, D, 1.83, 76, 17-01-83, Salamanca, Liverpool
+18, Raúl Albiol, ESP, D, 1.87, 74, 04-09-85, Valencia, Valencia
+19, Ezequiel Garay, ARG, D, 1.89, 83, 10-10-86, Rosario, Racing Santander
+20, Gonzalo Higuaín, ARG, F, 1.84, 75, 10-12-87, Brest, River Plate
+21, Pedro León, ESP, M, 1.82, 70, 24-11-86, Mula, Getafe
+22, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Benfica
+23, Mesut Özil, GER, M, 1.82, 73, 15-10-88, Gelsenkirchen, Werder Bremen
+24, Sami Khedira, GER, M, 1.89, 83, 04-04-87, Stuttgart, Stuttgart
+25, Jerzy Dudek, POL, G, 1.87, 78, 23-03-73, Rybnik, Liverpool
+26, Juan Carlos, ESP, M, 1.76, 68, 30-03-90, Madrid, Real Madrid B
+27, Juanfran, ESP, F, 1.78, 69, 27-04-87, Madrid, Real Madrid B
+28, Jesús Fernández, ESP, G, 1.89, 79, 11-06-88, Madrid, Real Madrid B
+29, Álvaro Morata, ESP, F, 1.87, 80, 23-10-92, Madrid, Real Madrid B
+30, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Real Madrid B
+31, Isaac Becerra, ESP, G, 1.83, 84, 18-06-88, Badalona, Espanyol B
+32, Fernando Pacheco, ESP, G, 1.87, 81, 18-05-92, Badajoz, Real Madrid C
+33, Pablo Sarabia, ESP, M, 1.77, 72, 11-05-92, Madrid, Real Madrid B
+34, Jorge Casado, ESP, D, 1.83, 77, 26-06-89, Madrid, Real Madrid B
+35, Nacho Fernández, ESP, D, 1.80, 74, 18-01-90, Madrid, Real Madrid B
+36, Pablo Gil, ESP, D, 1.75, 69, 08-10-88, Murcia, Albacete B
+37, Daniel Carvajal, ESP, D, 1.73, 70, 11-01-92, Leganés, Real Madrid B
+38, Mandi, ESP, M, 1.78, 74, 01-03-89, Las Palmas, Real Madrid B
+39, Joselu, ESP, F, 1.91, 79, 27-03-90, Stuttgart, Celta Vigo B
+40, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Real Madrid B
+41, Óscar Plano, ESP, F, 1.80, 68, 11-02-91, Móstoles, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Mahamadou Diarra, MLI, M, 1.83, 76, 18-05-81, Bamako, Monaco
+15, David Mateos, ESP, D, 1.90, 82, 22-04-87, Madrid, AEK (On Loan)

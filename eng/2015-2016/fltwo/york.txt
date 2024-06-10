@@ -1,0 +1,53 @@
+=  York City - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Flinders, ENG, G, 1.93, 80, 12-06-86, Rotherham, Hartlepool U
+3, Femi Ilesanmi, ENG, D, 1.85, 76, 18-04-91, Southwark, Dagenham & Redbridge
+4, James Berrett, IRL, M, 1.75, 72, 13-01-89, Halifax, Yeovil T
+5, Scot Bennett, ENG, D, 1.78, 81, 30-11-90, Truro, Notts Co
+6, Ľubomír Šatka, SVK, D, 1.85, 72, 02-12-95, Ilava, Newcastle U
+7, Michael Coulson, ENG, M, 1.78, 64, 04-04-88, Scarborough, Grimsby T
+8, Luke Summerfield, ENG, M, 1.83, 70, 06-12-87, Ivybridge, Shrewsbury T
+9, Vadaine Oliver, ENG, F, 1.88, 78, 21-10-91, Sheffield, Crewe Alex
+10, Russell Penn, ENG, M, 1.80, 72, 08-11-85, Wordsley, Cheltenham T
+11, Josh Carson, NIR, M, 1.75, 70, 03-06-93, Ballymena, Ipswich T
+12, Derek Riordan, SCO, F, 1.81, 65, 16-01-83, Edinburgh, East Fife
+14, George Swan, ENG, D, 1.85, 71, 12-09-94, Plymouth, Wolverhampton W
+15, Kyle Cameron, SCO, D, 1.90, 76, 15-01-97, Hexham, Newcastle U
+16, Dave Winfield, ENG, D, 1.90, 86, 24-03-88, Aldershot, Shrewsbury T
+17, Taron Hare, ENG, D, 1.85, 70, 04-10-96, Bottesford, Scunthorpe U
+19, Jake Hyde, ENG, F, 1.85, 78, 01-07-90, Slough, Barnet
+21, Ben Hirst, ENG, F, 1.83, 74, 25-10-97, York, None
+22, Reece Thompson, ENG, F, 1.74, 76, 11-11-93, Worksop, Frickley Ath
+23, Matty Dixon, ENG, M, 1.74, 73, 19-12-94, Kingston upon Hull, Hull C
+24, Michael Ingham, NIR, G, 1.93, 87, 09-07-80, Preston, Hereford U
+25, Callum Rzonca, ENG, M, 1.70, 66, 07-01-97, Leeds, Barnsley
+26, Lewis Alessandra, ENG, F, 1.75, 73, 08-02-89, Oldham, Rochdale
+27, Luke Hendrie, ENG, D, 1.87, 64, 27-08-94, Leeds, Burnley
+29, Emile Sinclair, ENG, F, 1.83, 72, 29-12-87, Leeds, Northampton T
+31, William Boyle, SCO, D, 1.88, 70, 01-09-95, Garforth, Huddersfield T
+32, Bradley Fewster, ENG, F, 1.78, 70, 27-01-96, Middlesbrough, Middlesbrough
+33, Kenneth McEvoy, IRL, M, 1.76, 64, 04-09-94, Waterford, Tottenham H
+37, Danny Galbraith, SCO, M, 1.75, 65, 05-03-90, Galashiels, Gillingham
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Lindon Meikle, ENG, M, 1.68, 78, 21-03-88, Nottingham, Macclesfield T
+38, Stéphane Zubar, FRA, D, 1.87, 81, 09-10-86, Pointe-à-Pitre, Bournemouth
+12, Bryn Morris, ENG, D, 1.82, 71, 25-04-96, Hartlepool, Middlesbrough
+20, Michael Collins, IRL, M, 1.83, 74, 30-04-86, Halifax, Oxford U
+23, Rhys Turner, ENG, F, 1.80, 75, 22-07-95, Preston, Oldham Ath
+27, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, Cardiff C
+15, Keith Lowe, ENG, D, 1.88, 84, 13-09-85, Wolverhampton, Kidderminster H
+30, Jonathan Greening, ENG, M, 1.80, 70, 02-01-79, Scarborough, Tadcaster Alb
+34, Mark Kitching, ENG, D, 1.88, 74, 04-09-95, Guisborough, Middlesbrough
+36, Jordan Lussey, ENG, M, 1.77, 68, 02-11-94, Ormskirk, Bolton W
+35, Stefan O’Connor, ENG, D, 1.86, 78, 23-01-97, Croydon, Arsenal
+26, Ben Godfrey, ENG, M, 1.83, 74, 15-01-98, York, Norwich C
+2, Marvin McCoy, ATG, D, 1.81, 84, 02-10-88, Waltham Forest, 
+6, Eddie Nolan, IRL, D, 1.85, 77, 05-08-88, Waterford, 
+13, Anthony Straker, GRN, M, 1.75, 75, 23-09-88, Ealing, Grimsby T
+5, John McCombe, ENG, D, 1.88, 81, 07-05-85, Pontefract, Macclesfield T
+20, Ntumba Massanka, ENG, F, 1.91, 80, 30-11-96, Tottenham, Burnley
+18, Tom Platt, ENG, M, 1.86, 82, 01-10-93, Pontefract, Harrogate T

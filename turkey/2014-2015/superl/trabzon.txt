@@ -1,0 +1,46 @@
+=  Trabzonspor - Turkish Süper Lig 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Onur Kıvrak, TUR, G, 1.87, 74, 01-01-88, Alaşehir, Karşıyaka
+3, José Bosingwa, POR, D, 1.83, 75, 24-08-82, Kinshasa, QPR
+4, Aykut Demir, TUR, D, 1.80, 67, 22-10-88, Bergen op Zoom, Gençlerbirliği
+6, Carl Medjani, ALG, D, 1.84, 84, 15-05-85, Lyon, Monaco
+7, Óscar Cardozo, PAR, F, 1.93, 87, 20-05-83, Campo 9, Benfica
+8, Mehmet Ekici, GER, M, 1.80, 70, 25-03-90, Munich, Werder Bremen
+9, Sefa Yılmaz, GER, M, 1.83, 79, 14-02-90, Berlin, Kayserispor
+10, Özer Hurmacı, TUR, M, 1.74, 70, 20-11-86, Kassel, Kasımpaşa
+11, Kévin Constant, GUI, M, 1.84, 78, 15-05-87, Fréjus, Milan
+12, Hakan Arıkan, TUR, G, 1.92, 86, 17-08-92, Kocaeli, Kayserispor
+13, İbrahim Demir, TUR, G, 1.85, 80, 02-09-95, Trabzon, None
+14, Mustafa Akbaş, TUR, D, 1.88, 81, 30-05-90, Trabzon, 1461 Trabzon
+15, Uğur Demirok, TUR, D, 1.85, 76, 08-07-88, Eyüp, Akhisar Belediyespor
+18, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Elazığspor
+20, Soner Aydoğdu, TUR, M, 1.80, 72, 05-01-91, Mamak, Gençlerbirliği
+21, Essaïd Belkalem, ALG, D, 1.94, 90, 01-01-89, Mekla, Watford
+23, Mertcan Çam, TUR, M, 1.74, 70, 16-11-95, Trabzon, None
+26, Fatih Öztürk, TUR, G, 1.91, 86, 22-12-86, Phalsbourg, 1461 Trabzon
+28, Waris Majeed, GHA, F, 1.72, 71, 19-09-91, Tamale, Spartak Moscow
+32, Yusuf Erdoğan, TUR, M, 1.71, 68, 07-08-92, Isparta, 1461 Trabzon
+33, Oğuzhan Acar, TUR, M, 1.72, 66, 24-02-96, Trabzon, None
+35, Aytaç Kara, TUR, M, 1.82, 81, 23-03-93, İzmir, Eskişehirspor
+38, Salih Dursun, TUR, M, 1.88, 79, 12-07-91, Sakarya, Galatasaray
+50, Ferhat Yazgan, TUR, M, 1.75, 77, 20-10-92, Kiel, Wolfsburg II
+61, Zeki Yavru, TUR, D, 1.78, 78, 05-09-91, Trabzon, None
+66, Fatih Atik, FRA, F, 1.75, 70, 25-06-84, Gleize, Guingamp
+68, İshak Doğan, TUR, D, 1.87, 83, 09-08-90, Hagen, Karabükspor
+77, Musa Nizam, TUR, D, 1.82, 73, 08-09-90, Antalya, Antalyaspor
+86, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Guingamp
+96, Uğurcan Çakır, TUR, G, 1.88, 75, 05-04-96, Antalya, 1461 Trabzon
+99, Erkan Zengin, SWE, M, 1.80, 72, 05-08-85, Fittja, Eskişehirspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Batuhan Artarslan, TUR, M, 1.89, 84, 25-05-94, Trabzon, 1461 Trabzon (On Loan)
+17, Gökhan Karadeniz, TUR, F, 1.78, 72, 02-05-90, Bursa, Antalyaspor (On Loan)
+48, Ramazan Övüç, TUR, M, 1.71, 67, 16-03-94, Kayseri, Aydınspor (On Loan)
+88, Caner Osmanpaşa, TUR, D, 1.94, 81, 15-01-88, Trabzon, Erciyesspor (On Loan)
+67, Serdar Gürler, TUR, F, 1.73, 72, 14-09-91, Haguenau, Erciyesspor (On Loan)
+19, Emre Güral, TUR, F, 1.87, 80, 05-04-89, Offenbach, Eskişehirspor
+22, Mustafa Yumlu, TUR, D, 1.91, 77, 25-09-87, Trabzon, Eskişehirspor (On Loan)
+30, Avraam Papadopoulos, GRE, D, 1.86, 79, 03-12-84, Sydney, Shanghai Shenhua

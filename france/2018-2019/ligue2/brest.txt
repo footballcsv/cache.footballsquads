@@ -1,0 +1,36 @@
+=  Brest - French Ligue 2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gautier Larsonneur, FRA, G, 1.81, 69, 23-02-97, Saint-Renan, None
+2, Quentin Bernard, FRA, D, 1.83, 76, 07-07-89, Poitiers, Dijon
+3, Cristian Battocchio, ITA, M, 1.70, 71, 10-02-92, Rosario, Maccabi Tel Aviv
+4, Guillaume Buon, FRA, D, 1.85, 79, 02-03-98, Quimper, None
+5, Brendan Chardonnet, FRA, D, 1.81, 74, 22-12-94, Saint-Renan, None
+6, Jessy Pi, FRA, M, 1.79, 72, 24-09-93, Manosque, Toulouse
+7, Haris Belkebla, ALG, M, 1.77, 68, 28-01-94, Drancy, Tours
+8, Yohan Court, FRA, M, 1.72, 70, 14-01-90, Carpentras, Bourg-en-Bresse
+9, Kevin Mayi, FRA, F, 1.82, 78, 14-01-93, Lyon, NEC Nijmegen
+10, Gaëtan Charbonnier, FRA, F, 1.88, 80, 27-12-88, Saint-Mandé, Reims
+11, Edouard Butin, FRA, F, 1.80, 74, 16-06-88, Dole, Valenciennes
+12, Pierre Magnon, FRA, M, 1.79, 69, 09-05-96, Saint-Malo, None
+14, Anthony Weber, FRA, D, 1.90, 82, 11-06-87, Strasbourg, Reims
+15, Baba Traoré, FRA, D, 1.77, 69, 23-06-93, Paris, Le Havre
+16, Donovan Léon, GUY, G, 1.86, 88, 03-11-92, Cayenne, Auxerre
+17, Valentin Henry, FRA, D, 1.83, 73, 18-09-93, Brest, None
+18, Ibrahima Diallo, FRA, M, 1.79, 68, 08-03-99, Tours, Monaco
+19, Ferris N'Goma, FRA, M, 1.75, 69, 15-06-93, Limoges, Orléans
+20, Gaëtan Belaud, FRA, D, 1.78, 75, 16-09-86, Oloron-Sainte-Marie, Laval
+21, Jean-Charles Castelleto, FRA, D, 1.85, 74, 26-01-95, Clamart, Club Brugge
+22, Julien Faussurier, FRA, M, 1.73, 70, 14-01-87, Lyon, Sochaux
+23, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Lens
+24, Thomas Ayasse, FRA, M, 1.83, 75, 17-02-87, Toulouse, Le Havre
+27, Hugo Magnetti, FRA, M, 1.73, 72, 30-05-98, Marseille, Bastia
+29, Derick Oseï Yaw, FRA, F, 1.85, 73, 10-09-98, Toulouse, Toulouse
+30, Julien Fabri, FRA, G, 1.83, 75, 05-02-94, Marseille, Marseille
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Lenny Pintor, FRA, F, 1.79, 66, 05-08-00, Sarcelles, Lyon
+25, Corentin Jacob, FRA, D, 1.88, 79, 07-01-97, Brest, Tours (On Loan)
+13, David Kiki, BEN, D, 1.80, 76, 25-11-93, Vakaon, Red Star (On Loan)

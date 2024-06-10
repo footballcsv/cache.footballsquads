@@ -1,0 +1,50 @@
+=  Videoton - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filip Pajović, SRB, G, 1.83, 74, 30-07-93, Zrenjanin, Vojvodina
+2, Álvaro Brachi, ESP, D, 1.86, 73, 06-01-86, Barcelona, Espanyol B
+3, Vinícus Souza, BRA, D, 1.83, 80, 21-02-90, São Paulo, River Plate [URU]
+4, Marco Caneira, POR, D, 1.78, 75, 09-02-79, Cintra, Sporting CP
+5, Vassilis Apostolopoulos, GRE, D, 1.90, 74, 13-08-88, Athens, Atromitos
+7, Jeff Silva, BRA, D, 1.78, 68, 29-06-86, Campo Mourão, Náutico
+8, Attila Polonkai, HUN, M, 1.78, 74, 12-06-79, Budapest, REAC
+9, Evandro Brandão, POR, F, 1.83, 75, 17-05-91, Luanda, Benfica
+10, András Gosztonyi, HUN, F, 1.78, 68, 07-11-90, Kaposvár, MTK
+11, György Sándor, HUN, M, 1.82, 72, 20-03-84, Uzhhorod, Újpest
+12, Tomáš Tujvel, SVK, G, 1.90, 88, 19-09-83, Nitra, Nitra
+14, Nikola Mitrović, SRB, M, 1.80, 78, 02-01-87, Kruševac, Újpest
+16, Filipe Oliveira, POR, M, 1.82, 72, 27-05-84, Braga, Parma
+17, Nemanja Nikolić, SRB, F, 1.80, 79, 31-12-87, Zenta, Kaposvár
+18, Milan Perić, SRB, F, 1.82, 79, 16-04-86, Čačak, Kaposvár
+19, László Kleinheisler, HUN, M, 1.86, 84, 08-04-94, Kazincbarcika, Puskás Akadémia
+20, Patrik Paudits, HUN, M, 1.84, 81, 20-05-94, Székesfehérvár, Puskás Akadémia
+23, Tamás Vaskó, HUN, D, 1.93, 85, 20-02-84, Budapest, Újpest
+24, Héctor, ESP, D, 1.75, 75, 31-03-85, Fuerteventura, Villarreal B
+26, Balázs Tóth, HUN, M, 1.74, 70, 24-09-81, Özd, KRC Genk
+27, Mladen Božović, MNE, G, 1.96, 92, 01-08-84, Podgorica, Partizan Belgrade
+28, Sándor Torghelle, HUN, F, 1.85, 85, 05-05-82, Budapest, Honvéd
+29, Walter Fernández, ESP, F, 1.76, 72, 14-08-89, Barcelona, Nàstic
+30, Roland Szolnoki, HUN, M, 1.76, 64, 21-01-92, Mór, Puskás Akadémia
+31, Andor Margitics, HUN, M, 1.83, 71, 03-01-91, Budapest, Puskás Akadémia
+32, Patrik Király, HUN, F, 1.85, 77, 27-05-93, Békéscsaba, Puskás Akadémia
+33, Barnabás Babos, HUN, F, 1.80, 74, 10-05-91, Veszprém, Puskás Akadémia
+34, Zsolt Tar, HUN, M, 1.83, 74, 13-02-93, Szolnok, Puskás Akadémia
+70, Ádám István Kovács, HUN, M, 1.84, 75, 27-03-92, Szombathely, Haladás
+77, Ádám Gyurcsó, HUN, F, 1.79, 63, 06-03-91, Tatabánya, Puskás Akadémia
+99, Uroš Nikolić, SRB, M, 1.85, 82, 14-12-93, Niš, Partizan Belgrade
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Goran Vujović, MNE, F, 1.85, 81, 03-05-87, Cetinje, Haladás (On Loan)
+33, Gábor Horváth, HUN, D, 1.88, 84, 04-07-85, Székesfehérvár, ADO Den Haag
+4, Sándor Hidvégi, HUN, M, 1.83, 76, 09-04-83, Rákosszentmihály, Zalaegerszeg
+7, Dénes Szakály, HUN, F, 1.79, 65, 15-03-88, Nagyatád, Zalaegerszeg (On Loan)
+5, Zoltán Lipták, HUN, D, 1.93, 87, 10-12-84, Budapest, Újpest
+22, Dániel Nagy, HUN, M, 1.72, 64, 22-11-84, Székesfehérvár, Haladás (On Loan)
+25, Ákos Elek, HUN, M, 1.87, 81, 21-07-88, Ózd, Eskişehirspor (On Loan)
+21, André Alves, BRA, F, 1.81, 76, 15-10-83, Dourados, Omonia Nicosia
+13, Bence Somodi, HUN, G, 1.87, 87, 25-11-88, Eger, Gyírmót (On Loan)
+18, Dávid Macsicza, HUN, M, 1.82, 82, 13-03-92, Székesfehérvár, Videoton II
+28, Zsolt Jankovics, HUN, D, 1.85, 74, 25-08-92, Székesfehérvár, Videoton II
+6, Dušan Vasiljević, SRB, M, 1.85, 80, 07-05-82, Belgrade, Újpest

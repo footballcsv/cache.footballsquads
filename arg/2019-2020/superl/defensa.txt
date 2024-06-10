@@ -1,0 +1,49 @@
+=  Defensa y Justicia - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucio Chiappero, ARG, G, 1.87, 75, 26-05-94, Hersilia, None
+2, Adonis Frías, ARG, D, 1.89, 85, 17-03-98, Florencio Varela, None
+3, Marcelo Benítez, ARG, D, 1.78, 74, 13-01-91, San Francisco Solano, None
+5, Nelson Acevedo, ARG, M, 1.79, 78, 11-07-88, Resistencia, Unión (Santa Fe)
+7, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, San Lorenzo
+8, Guido Mainero, ARG, M, 1.78, 68, 23-03-95, Córdoba, Vélez Sarsfield
+9, Fernando Márquez, ARG, F, 1.87, 78, 10-04-87, Santa Fe, Johor Darul Ta'zim
+10, Neri Cardozo, ARG, M, 1.71, 64, 08-08-86, Godoy Cruz, Racing Club
+11, Washington Camacho, URU, M, 1.77, 71, 08-04-86, Montevideo, Tijuana
+12, Juan Martín Lucero, ARG, F, 1.79, 72, 30-11-91, Mendoza, Tijuana
+14, Matías Laba, ARG, M, 1.74, 70, 11-12-91, Capital Federal, Unión La Calera
+15, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, San Lorenzo
+16, Gonzalo Piovi, ARG, D, 1.74, 67, 08-09-94, Capital Federal, Racing Club
+17, Nicolás Avellaneda, ARG, G, 1.91, 81, 24-02-93, Río Tercero, Lanús
+18, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Rayo Vallecano
+19, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, Vélez Sarsfield
+20, Aldo Máiz, PAR, M, 1.72, 66, 27-08-00, San Lorenzo [PAR], General Díaz (Luque)
+21, David Martínez, PAR, D, 1.82, 71, 21-01-98, Capital Federal, River Plate
+22, Ezequiel Unsain, ARG, G, 1.88, 83, 09-03-95, Villa Alcaraz, Newell's Old Boys
+23, Eugenio Isnaldo, ARG, M, 1.81, 78, 07-01-94, Rosario, Asteras Tripolis
+24, Mauricio Duarte, COL, D, 1.71, 67, 24-06-92, Cúcuta, Cúcuta Deportivo
+25, Néstor Breitenbruch, ARG, D, 1.78, 76, 13-09-95, Posadas, UANL Tigres
+26, Braian Ojeda, PAR, M, 1.72, 68, 27-06-00, Itauguá, Olimpia [PAR]
+27, Enzo Coacci, ARG, M, 1.65, 67, 09-08-98, Bahía Blanca, Olimpo (BB)
+28, Juan Rodríguez, ARG, D, 1.84, 80, 28-02-94, General Alvear, San Martín (San Juan)
+29, Francisco Pizzini, ARG, F, 1.77, 74, 19-09-93, Bahía Blanca, Independiente
+30, Raúl Loaiza, COL, M, 1.80, 70, 08-06-94, Cartagena, Atlético Nacional
+31, Nicolás Leguizamón, ARG, F, 1.81, 75, 26-01-95, Santa Fe, Colón (Santa Fe)
+33, Nahuel Gallardo, ARG, D, 1.78, 73, 09-05-98, Capital Federal, River Plate
+34, Lautaro Escalante, ARG, M, 1.70, 67, 02-07-99, Florencio Varela, None
+36, Matías Barrios, ARG, D, , , 31-12-99, Bernal, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Bautista Merlini, ARG, M, 1.78, 76, 04-07-95, Vicente López, San Lorenzo
+11, Alexis Castro, ARG, M, 1.83, 78, 18-10-94, Capital Federal, San Lorenzo
+14, Marcelo Herrera, ARG, D, 1.85, 78, 26-02-92, Ledesma, Lanús
+15, Diego Rodríguez, URU, M, 1.70, 65, 04-09-89, Montevideo, Tijuana
+31, Nicolás Maná, ARG, F, 1.75, 70, 25-03-94, Viamonte, Guaraní [PAR]
+4, Julio González, PAR, D, 1.76, 75, 28-06-92, Carapeguá, Necaxa
+29, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, San Lorenzo
+34, Juan Miritello, ARG, F, 1.82, 76, 02-02-99, Luján, Flandria (On Loan)
+33, Rafael Delgado, ARG, D, 1.78, 78, 13-01-90, Reconquista, Colón (Santa Fe)
+5, Lucas Villarruel, ARG, M, 1.72, 63, 13-11-90, Capital Federal, LDU Quito
+32, Ignacio Aliseda, ARG, M, 1.69, 69, 14-03-00, Capital Federal, Chicago Fire

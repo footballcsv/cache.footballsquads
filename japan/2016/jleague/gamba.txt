@@ -1,0 +1,57 @@
+=  Gamba Osaka - Japanese J1 League 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Masaaki Higashiguchi, JPN, G, 1.84, 75, 12-05-86, Osaka, Albirex Niigata
+2, Takamasa Sugiyama, JPN, D, 1.74, 68, 26-06-98, Nara, None
+3, Takaharu Nishino, JPN, D, 1.87, 72, 14-09-93, Osaka, None
+4, Hiroki Fujiharu, JPN, D, 1.75, 60, 28-11-88, Osaka, Osaka Taiiku Univ
+5, Daiki Niwa, JPN, D, 1.80, 76, 16-01-86, Osaka, None
+6, Kim Jung-Ya, KOR, D, 1.83, 74, 17-05-88, Hyogo, Komazawa Univ
+7, Yasuhito Endo, JPN, M, 1.78, 75, 28-01-80, Kagoshima, Kyoto Purple Sanga
+8, Keisuke Iwashita, JPN, D, 1.81, 72, 24-09-86, Kagoshima, Shimizu S-Pulse
+9, Ademílson, BRA, F, 1.76, 74, 09-01-94, Cubatão, São Paulo
+11, Shu Kuruta, JPN, M, 1.72, 68, 26-11-88, Osaka, None
+13, Hiroyuki Abe, JPN, M, 1.70, 69, 05-07-89, Nara, Kwansei Gakuin Univ
+14, Koki Yonekura, JPN, M, 1.76, 69, 17-05-88, Chiba, JEF United
+15, Yasuyuki Konno, JPN, D, 1.78, 73, 25-01-83, Miyagi, FC Tokyo
+16, Ken Tajiri, JPN, G, 1.82, 76, 11-06-93, Osaka, None
+17, Kenya Okazaki, JPN, M, 1.75, 62, 31-05-90, Fukuyama, Kansai Univ
+18, Yosuke Fujigaya, JPN, G, 1.85, 78, 13-02-81, Shizuoka, Júbilo Iwata
+19, Kataro Omori, JPN, M, 1.67, 63, 28-04-92, Osaka, None
+20, Shun Nagasawa, JPN, F, 1.89, 72, 25-08-88, Shizuoka, Shimizu S-Pulse
+21, Yosuke Ideguchi, JPN, M, 1.70, 71, 23-08-96, Fukuoka, None
+22, Oh Jae-Suk, KOR, D, 1.78, 74, 04-01-90, Uijeongbu, Gangwon
+23, Hiroto Goya, JPN, F, 1.77, 68, 02-01-94, Kawanishi, Kwansei Gakuin Univ
+24, Naoki Ogawa, JPN, F, 1.68, 62, 03-07-95, Kawanishi, None
+25, Jungo Fujimoto, JPN, M, 1.73, 69, 24-03-84, Kanagawa, Yokohama F Marinos
+26, Naoya Senoo, JPN, F, 1.72, 59, 15-08-96, Tsu, None
+27, Tatsuya Uchida, JPN, D, 1.77, 70, 08-02-92, Hyogo, None
+28, Shota Yomesaka, JPN, M, 1.75, 63, 19-10-96, Osaka, None
+29, Patric, BRA, F, 1.89, 82, 26-10-87, Macapá, Atlético Goianiense
+30, So Hirao, JPN, F, 1.70, 68, 01-07-96, Tondabayashi, None
+31, Mizuki Hayashi, JPN, G, 1.81, 75, 04-09-96, Osaka, None
+32, Hiroki Noda, JPN, D, 1.81, 73, 27-07-97, Mashiki, Ohzu HS
+33, Kazunari Ichimi, JPN, F, 1.81, 77, 10-11-97, Kumamoto, Ohzu HS
+34, Tomoki Kamioka, JPN, D, 1.79, 73, 30-05-98, Osaka, None
+35, Ryo Hatsuse, JPN, D, 1.75, 64, 10-07-97, Osaka, None
+36, Mizuki Ichimaru, JPN, M, 1.72, 60, 08-05-97, Osaka, None
+37, Akito Takagi, JPN, F, 1.75, 65, 04-08-97, Osaka, None
+38, Ritsu Doan, JPN, M, 1.72, 70, 16-06-98, Hyogo, None
+40, Shohei Ogura, JPN, M, 1.75, 64, 08-09-85, Chiba, Yokohama F Marinos
+41, Yudai Konishi, JPN, F, 1.69, 66, 18-04-98, Tokushima, None
+42, Kazuya Kobayashi, JPN, M, 1.73, 67, 03-04-98, Osaka, None
+43, Kazuto Nishida, JPN, M, 1.66, 60, 28-04-98, Hyogo, None
+44, Ayumu Matsumoto, JPN, F, 1.77, 67, 28-04-98, Osaka, None
+45, Ryotaro Meshino, JPN, F, 1.71, 62, 18-06-98, Osaka, None
+46, Hirohide Adachi, JPN, D, 1.84, 71, 17-04-99, Hyogo, None
+47, Katsuki Umezu, JPN, M, 1.74, 57, 03-04-99, Nara, None
+48, Ryo Yamashita, JPN, M, 1.70, 60, 23-08-99, Shiga, None
+49, Kenta Watanabe, JPN, G, 1.88, 77, 28-04-98, Wakayama, None
+50, Kosei Tani, JPN, G, 1.87, 78, 22-11-00, Osaka, None
+51, Reo Yamashita, JPN, D, 1.71, 62, 19-05-98, Osaka, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Takahiro Futagawa, JPN, M, 1.68, 63, 27-06-80, Kagoshima, Tokyo Verdy
+39, Takashi Usami, JPN, M, 1.78, 68, 06-05-92, Kyoto, Augsburg

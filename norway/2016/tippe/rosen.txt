@@ -1,0 +1,36 @@
+=  Rosenborg - Norwegian Tippeligaen 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, André Hansen, NOR, G, 1.94, 93, 17-12-89, Oslo, Odd
+2, Jonas Svensson, NOR, D, 1.70, 70, 06-03-93, Levanger, None
+4, Tore Reginiussen, NOR, D, 1.85, 80, 10-06-86, Tromsø, Odense
+5, Hólmar Eyjólfsson, ISL, D, 1.88, 80, 06-08-90, Kópavogur, Bochum
+7, Mike Jensen, DEN, M, 1.76, 75, 19-02-88, Rødovre, Brøndby
+8, Anders Konradsen, NOR, M, 1.85, 79, 18-07-90, Bodø, Rennes
+9, Christian Gytkjær, DEN, F, 1.80, 75, 06-05-90, Roskilde, Haugesund
+10, Matthías Vilhjálmsson, ISL, F, 1.87, 82, 30-01-87, Ísafjörður, Start
+11, Yann-Erik de Lanlay, NOR, M, 1.80, 72, 14-05-92, Stavanger, Viking
+12, Alexander Lund Hansen, NOR, G, 1.97, 89, 06-10-82, Trondheim, Start
+14, Johan Lædre Bjørdal, NOR, D, 1.85, 80, 05-05-86, Egersund, Aarhus
+15, Elba Rashani, KVX, F, 1.81, 69, 09-05-93, Hillerstorp, Brøndby
+16, Jørgen Skjelvik, NOR, D, 1.80, 80, 05-07-91, Hosle, Kalmar FF
+18, Magnus Stamnestrø, NOR, M, 1.78, 72, 18-04-92, Kyrksæterøra, Kristiansund
+19, Andreas Helmersen, NOR, F, 1.90, 82, 15-03-98, Trondheim, None
+20, Alex Gersbach, AUS, D, 1.83, 72, 08-05-97, Sydney, Sydney FC
+21, Fredrik Midtsjø, NOR, M, 1.76, 70, 11-08-93, Stjørdal, None
+22, Sivert Solli, NOR, M, 1.70, 70, 27-07-97, Brekstad, None
+23, Pål André Helland, NOR, M, 1.87, 82, 04-01-90, Orkanger, Hødd
+24, Adam Larsen Kwarasey, GHA, G, 1.88, 81, 12-12-87, Oslo, Portland Timbers
+27, Mushaga Bakenga, NOR, F, 1.81, 75, 08-08-92, Trondheim, Club Brugge
+28, Guðmundur Þórarinsson, ISL, M, 1.83, 75, 15-04-92, Selfoss, FC Nordsjælland
+30, Pavel Londak, EST, G, 1.91, 81, 14-05-80, Tallinn, Bodø/Glimt
+32, Erlend Reitan, NOR, D, 1.80, 70, 11-09-97, Trondheim, None
+33, Julian Faye Lund, NOR, G, 1.85, 80, 20-05-99, Oslo, Oppsal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Mikael Dorsin, SWE, D, 1.82, 78, 06-10-81, Lidingö, Retired
+24, Riku Riski, FIN, M, 1.68, 66, 16-08-89, Turku, Odd
+31, Per Magnus Steiring, NOR, D, 1.83, 78, 07-02-97, Bodø, Viking (On Loan)
+17, John Hou Sæter, NOR, M, 1.78, 67, 13-01-98, Trondheim, Ranheim (On Loan)

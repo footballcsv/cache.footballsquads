@@ -1,0 +1,53 @@
+=  Shrewsbury Town - English Football League One 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Weale, ENG, G, 1.88, 84, 09-02-82, Yeovil, Leicester C
+2, Jermaine Grandison, GUY, D, 1.93, 84, 15-12-90, Birmingham, Coventry C
+3, Joe Jacobson, WAL, D, 1.80, 79, 17-11-86, Cardiff, Accrington Stanley
+4, Luke Summerfield, ENG, M, 1.83, 70, 06-12-87, Ivybridge, Cheltenham T
+5, Dominic Iorfa, ENG, D, 1.88, 78, 08-07-95, Southend-on-Sea, Wolverhampton W
+6, Dave Winfield, ENG, D, 1.90, 86, 24-03-88, Aldershot, Wycombe W
+7, Shaun Miller, ENG, F, 1.78, 74, 25-09-87, Alsager, Sheffield U
+8, David McAllister, IRL, M, 1.78, 74, 29-12-88, Rush, Sheffield U
+9, Tom Bradshaw, ENG, F, 1.65, 69, 27-07-92, Shrewsbury, Aberystwyth T
+10, Sam Foley, IRL, F, 1.83, 74, 17-10-86, Upton-on-Severn, Yeovil T
+11, Jon Taylor, ENG, M, 1.80, 78, 23-12-89, Liverpool, None
+12, Alex McQuade, ENG, D, 1.85, 70, 07-11-92, Manchester, Bolton W
+15, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Cardiff C
+16, Tamika Mkandawire, ENG, D, 1.83, 78, 28-05-83, Mzuzu, Millwall
+17, Paul Parry, WAL, M, 1.80, 75, 19-08-80, Chepstow, Preston NE
+18, Connor Goldson, ENG, D, 1.91, 85, 18-12-92, York, None
+19, Nathaniel Mendez-Laing, ENG, M, 1.78, 75, 15-04-92, Birmingham, Peterborough U
+21, Danny Coyne, WAL, G, 1.83, 83, 27-08-73, Prestatyn, Sheffield U
+22, Ryan Woods, ENG, M, 1.73, 64, 13-12-93, Norton Canes, None
+24, Tom Eaves, ENG, F, 1.90, 86, 14-02-92, Liverpool, Bolton W
+25, Joe Anyon, ENG, G, 1.88, 78, 29-12-86, Blackpool, Lincoln C
+26, Bahrudin Atajić, BIH, F, 1.81, 76, 16-11-93, Västervik, Celtic
+27, Joseph Mills, ENG, D, 1.75, 70, 30-10-89, Swindon, Burnley
+29, Asa Hall, ENG, M, 1.88, 74, 29-11-86, Sandwell, Oxford U
+31, Dominic Smith, WAL, D, 1.83, 75, 09-02-96, Shrewsbury, None
+32, Kaiman Anderson, ENG, F, 1.85, 77, 15-08-95, Shrewsbury, None
+33, Niall Flint, ENG, M, , , , Newport, Shropshire, None
+34, Alex Fletcher, ENG, M, , , , , None
+35, Josh Ginnelly, ENG, M, 1.73, 65, 24-03-97, Coventry, None
+36, Callum Burton, ENG, G, 1.88, 76, 15-08-96, Newport, Shropshire, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, James Tavernier, ENG, D, 1.76, 70, 31-10-91, Bradford, Newcastle U
+24, Graham Burke, IRL, F, 1.80, 75, 21-09-93, Dublin, Aston Villa
+26, Curtis Main, ENG, F, 1.78, 67, 20-06-92, South Shields, Middlesbrough
+19, Akwasi Asante, GHA, F, 1.83, 83, 06-09-92, Amsterdam, Birmingham C
+7, Gozie Ugwu, ENG, F, 1.87, 76, 22-04-93, Oxford, Reading
+27, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Huddersfield T
+20, Liam McAlinden, NIR, F, 1.86, 74, 26-09-93, Cannock, Wolverhampton W
+10, Nicky Wroe, ENG, M, 1.80, 64, 28-09-85, Sheffield, Preston NE
+19, Cameron Gayle, ENG, D, 1.81, 70, 22-11-92, Birmingham, WBA
+23, Adam Reach, ENG, D, 1.85, 73, 03-02-93, Gateshead, Middlesbrough
+28, Jack Gwilliams, ENG, M, 1.75, 66, 28-02-95, Shrewsbury, 
+5, Darren Jones, WAL, D, 1.85, 91, 28-08-83, Newport, AFC Wimbledon
+14, John Marsden, ENG, F, 1.70, 70, 09-12-92, Liverpool, 
+30, Sidney Schmeltz, NED, F, 1.78, 72, 08-06-89, Nieuwegein, Oldham Ath
+10, Fraser Fyvie, SCO, M, 1.72, 60, 27-03-93, Aberdeen, Wigan Ath
+20, Miles Storey, ENG, F, 1.80, 70, 04-01-94, Sandwell, Swindon T

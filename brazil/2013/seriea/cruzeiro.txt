@@ -1,0 +1,46 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+2, Ceará, BRA, D, 1.75, 75, 16-06-80, Crato, Paris St-Germain
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+4, Mauricio Victorino, URU, D, 1.80, 78, 11-10-82, Montevideo, Universidad de Chile
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Flamengo
+7, Tinga, BRA, M, 1.70, 65, 13-01-78, Porto Alegre, Internacional
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, Santos
+10, Júlio Baptista, BRA, M, 1.83, 72, 01-10-81, São Paulo, Málaga
+11, Dagoberto, BRA, F, 1.75, 75, 22-03-83, Dois Vizinhos, Internacional
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, None
+17, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Coritiba
+18, Wallace, BRA, D, 1.91, 78, 14-10-94, Rio de Janeiro, None
+19, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Vasco da Gama
+20, Alejandro Martinuccio, ARG, F, 1.73, 72, 16-12-87, Capital Federal, Fluminense
+21, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Criciúma
+22, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, Nacional [POR]
+23, Éverton, BRA, M, 1.71, 65, 08-08-84, Maranguape, Fluminense
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+27, Élber, BRA, M, 1.70, 63, 27-05-92, Passo de Camaragibe, None
+30, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, None
+31, Ricardo Goulart, BRA, M, 1.78, 72, 05-05-91, São Paulo, Coimbra
+32, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, None
+33, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Monte Azul
+37, Igor, BRA, G, 1.88, 88, 31-05-93, Fortaleza, None
+40, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, None
+41, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Metalist Kharkiv
+47, Georgemy, BRA, G, 1.95, 89, 15-08-95, Americana, None
+55, Leandro Guerreiro, BRA, M, 1.82, 68, 17-11-78, São Borja, Botafogo
+78, Souza, BRA, M, 1.75, 71, 08-03-88, Brasília, Palmeiras
+86, Paulão, BRA, D, 1.87, 82, 25-02-86, Bahia, Guangzhou Evergrande
+88, Luan, BRA, M, 1.84, 75, 21-09-88, Araras, Palmeiras
+99, Anselmo Ramon, BRA, F, 1.82, 79, 23-06-88, Camacari, Bahia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Metalist Kharkiv
+5, Thiago Carvalho, BRA, D, 1.87, 80, 24-06-88, Rio Verde, Boa (On Loan)
+77, Leandrinho, BRA, D, 1.88, 80, 22-02-85, Araruama, Boa (On Loan)
+25, Uelliton, BRA, M, 1.72, 74, 28-08-87, Monte Santo, Coritiba (On Loan)
+28, Nirley, BRA, D, 1.86, 84, 09-04-88, Itaocara, Criciúma

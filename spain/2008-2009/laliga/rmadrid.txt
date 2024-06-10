@@ -1,0 +1,47 @@
+=  Real Madrid - Spanish La Liga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iker Casillas, ESP, G, 1.85, 79, 20-05-81, Madrid, Real Madrid B
+2, Michel Salgado, ESP, D, 1.74, 75, 22-10-75, As Neves, Celta Vigo
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, FC Porto
+4, Sergio Ramos, ESP, D, 1.83, 73, 30-03-86, Camas, Sevilla
+5, Fabio Cannavaro, ITA, D, 1.76, 75, 13-09-73, Naples, Juventus
+6, Lassana Diarra, FRA, M, 1.73, 68, 10-03-85, Paris, Portsmouth
+7, Raúl, ESP, F, 1.80, 68, 27-06-77, Madrid, Real Madrid B
+8, Fernando Gago, ARG, M, 1.78, 69, 10-04-86, Ciudadela, Boca Juniors
+9, Javier Saviola, ARG, F, 1.68, 61, 11-12-81, Bajo Belgrano, Barcelona
+10, Wesley Sneijder, NED, M, 1.70, 67, 09-06-84, Utrecht, Ajax
+11, Arjen Robben, NED, F, 1.81, 75, 23-01-84, Bedum, Chelsea
+12, Marcelo, BRA, D, 1.74, 73, 12-05-88, Rio de Janeiro, Fluminense
+13, Jordi Codina, ESP, G, 1.84, 79, 27-04-82, Barcelona, Real Madrid B
+14, Guti, ESP, M, 1.85, 76, 31-10-76, Madrid, Real Madrid B
+15, Royston Drenthe, NED, D, 1.67, 67, 08-04-87, Rotterdam, Feyenoord
+16, Gabriel Heinze, ARG, D, 1.78, 72, 19-04-78, Crespo, Manchester U
+17, Daniel Parejo, ESP, M, 1.80, 75, 16-04-89, Madrid, Real Madrid B
+18, Julien Faubert, FRA, M, 1.80, 75, 01-08-83, Le Havre, West Ham U
+19, Klaas Jan Huntelaar, NED, F, 1.86, 80, 12-08-83, Drempt, Ajax
+20, Gonzalo Higuaín, ARG, F, 1.84, 75, 10-12-87, Brest, River Plate
+21, Christoph Metzelder, GER, D, 1.94, 84, 05-11-80, Halten, Borussia Dortmund
+22, Miguel Torres, ESP, D, 1.84, 78, 28-01-86, Madrid, Real Madrid B
+23, Rafael van der Vaart, NED, M, 1.75, 74, 11-02-83, Heemskerk, Hamburg
+24, Javi García, ESP, M, 1.86, 78, 08-02-87, Murcia, Osasuna
+25, Jerzy Dudek, POL, G, 1.87, 78, 23-03-73, Rybnik, Liverpool
+26, David Mateos, ESP, D, 1.90, 82, 22-04-87, Madrid, Real Madrid B
+27, Javier Velayos, ESP, D, 1.78, 74, 06-04-87, Madrid, Real Madrid B
+28, Alberto Bueno, ESP, F, 1.78, 65, 20-03-88, Madrid, Real Madrid B
+29, Felipe, ESP, G, 1.86, 86, 10-01-88, Madrid, Real Madrid B
+30, Antonio Adán, ESP, G, 1.89, 91, 13-05-87, Madrid, Real Madrid B
+31, Pedro Mosquera, ESP, M, 1.83, 77, 21-04-88, La Coruña, Real Madrid B
+32, Chema Antón, ESP, D, 1.83, 70, 19-03-89, Casas del Señor, Real Madrid B
+33, Javi Hernández, ESP, F, 1.84, 77, 06-06-89, Salamanca, Real Madrid B
+34, Agus, ESP, D, 1.83, 86, 03-05-85, Bonete, Real Madrid B
+35, Miquel Palanca, ESP, F, 1.70, 72, 18-12-87, Tarragona, Real Madrid B
+36, Gary Kagelmacher, URU, M, 1.83, 80, 21-04-88, Montevideo, Real Madrid B
+37, Marcos Tébar, ESP, M, 1.85, 77, 07-02-86, Madrid, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Mahamadou Diarra, MLI, M, 1.83, 76, 18-05-81, Bamako, De-Registered
+17, Ruud van Nistelrooy, NED, F, 1.88, 80, 01-07-76, Geffen, De-Registered
+18, Rubén de la Red, ESP, M, 1.86, 79, 05-06-85, Madrid, De-Registered

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2005/06
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [LR Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [VfL Bochum](bochum.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hansa Rostock](rostock.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [Kickers Offenbach](offenba.txt)
+- [SC Paderborn](paderbo.txt)
+- [1.FC Saarbrücken](saarbruc.txt)
+- [Sportfreunde Siegen](siegen.txt)
+- [SpVgg Unterhaching](unterha.txt)
+- [Wacker Burghausen](burghaus.txt)

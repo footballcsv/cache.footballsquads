@@ -1,0 +1,43 @@
+=  San Jose Earthquakes - USA Major League Soccer 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Cannon, USA, G, 1.88, 86, 01-01-75, Sun Valley, LA Galaxy
+2, Eric Denton, USA, D, 1.75, 70, 08-02-78, Falls Church, Colorado Rapids
+3, Nick Garcia, USA, D, 1.78, 73, 09-04-79, Plano, Kansas City Wizards
+4, James Riley, USA, D, 1.78, 68, 27-10-82, Colorado Springs, New England Revolution
+5, Ryan Cochrane, USA, D, 1.85, 82, 08-08-83, Portland, Houston Dynamo
+6, Darren Huckerby, ENG, F, 1.78, 75, 23-04-76, Nottingham, Norwich C
+7, Ronnie O'Brien, IRL, M, 1.78, 70, 05-01-79, Dublin, Toronto FC
+8, Adam Smarte, LBR, F, 1.80, 75, 09-05-87, Monrovia, UC Santa Cruz
+9, Gavin Glinton, TCA, F, 1.80, 75, 01-03-79, Grand Turk, LA Galaxy
+10, Francisco Lima, BRA, M, 1.78, 75, 17-04-71, Manaus, Brescia
+11, Ned Grabavoy, USA, M, 1.70, 70, 01-07-83, Joilet, Columbus Crew
+12, Ramiro Corrales, USA, D, 1.77, 70, 12-03-77, Salinas, Brann
+14, Matt Hatzke, USA, M, 1.75, 73, 17-12-85, San Jose, Santa Clara Univ
+15, Shea Salinas, USA, M, 1.78, 68, 24-06-86, Lubbock, Furman Univ
+16, Mikel Arce, ESP, F, 1.90, 83, 06-06-84, Pamplona, Lourdes
+17, Arturo Alvarez, USA, F, 1.75, 77, 28-06-85, Houston, FC Dallas
+18, Jamil Roberts, USA, D, 1.83, 79, 04-03-86, San Jose, Santa Clara Univ
+19, Ryan Johnson, JAM, F, 1.85, 82, 26-11-84, Boston, Chicago Fire
+20, John Cunliffe, ENG, F, 1.80, 73, 08-08-84, Edgworth, Chivas USA
+21, Jason Hernandez, PUR, D, 1.78, 73, 26-08-83, Englewood, Chivas USA
+22, Kelly Gray, USA, M, 1.88, 77, 07-04-81, Palo Alto, Colorado Rapids
+23, Michael Ghebru, GER, M, 1.75, 68, 07-11-87, , Kickers Offenbach II
+24, Michael Gustavson, USA, G, 1.93, 84, 13-03-87, Aiken, Clayton State Univ
+27, Jay Ayres, USA, D, 1.85, 82, 25-02-86, Valrico, Belmont Univ
+32, Davide Somma, RSA, F, 1.90, 82, 26-03-85, Johannesburg, Olbia
+33, Scott Sealy, TRI, F, 1.78, 79, 04-06-81, Chaguanas, Kansas City Wizards
+77, Jovan Kirovski, USA, F, 1.86, 75, 18-03-76, Escondido, Colorado Rapids
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Preston Burpo, USA, G, 1.91, 98, 09-11-72, Austin, Colorado Rapids
+6, Joe Vide, USA, M, 1.78, 75, 16-05-84, Fort Worth, DC United
+10, Jean Philippe Peguero, HAI, F, 1.86, 83, 19-09-81, Port-de-Paix, Brøndby
+16, Kei Kamara, SLE, F, 1.88, 75, 01-09-84, Lawndale, Houston Dynamo
+23, Iván Guerrero, HON, D, 1.70, 64, 30-11-77, Comayagua, DC United
+17, Greg Curry, USA, D, 1.75, 75, 12-10-85, Sacramento, 
+13, Adam Sloustcher, USA, D, 1.78, 73, 31-07-87, San Francisco, 
+25, Amir Lowery, USA, M, 1.88, 82, 26-12-83, Los Angeles, 
+31, Dan Benton, USA, G, 1.96, 91, 29-12-80, Oakland, 

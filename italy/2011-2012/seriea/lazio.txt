@@ -1,0 +1,59 @@
+=  Lazio - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Albano Bizzarri, ARG, G, 1.93, 89, 09-11-77, Etruria, Catania
+3, André Dias, BRA, D, 1.84, 80, 15-05-79, São Bernardo do Campo, São Paulo
+5, Lionel Scaloni, ARG, M, 1.82, 80, 16-05-78, Rosario, Racing Santander
+6, Stefano Mauri, ITA, M, 1.84, 77, 08-01-80, Monza, Udinese
+8, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, São Paulo
+9, Tommaso Rocchi, ITA, F, 1.77, 71, 19-09-77, Venice, Empoli
+11, Matuzalem, BRA, M, 1.75, 70, 10-06-80, Natal, Zaragoza
+13, Andrea Sbraga, ITA, D, 1.85, 80, 14-01-92, Rome, None
+14, Javier Garrido, ESP, D, 1.78, 75, 15-03-85, Irún, Manchester C
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Defensor Sporting
+16, Alessandro Berardi, ITA, G, 1.73, 70, 16-01-91, Rome, None
+18, Libor Kozák, CZE, F, 1.93, 82, 30-05-89, Brumov-Bylnice, SFC Opava
+19, Senad Lulić, BIH, M, 1.83, 76, 18-01-86, Jablanica, Young Boys
+20, Giuseppe Biava, ITA, D, 1.80, 73, 08-05-77, Seriate, Genoa
+21, Modibo Diakité, FRA, D, 1.92, 84, 02-03-87, Bourg-la-Reine, Pescara
+22, Federico Marchetti, ITA, G, 1.86, 76, 07-02-83, Bassano del Grappa, Cagliari
+23, Ogenyi Onazi, NGA, M, 1.70, 73, 25-12-92, Benue, My People FC
+24, Cristian Ledesma, ITA, M, 1.80, 70, 24-09-82, Buenos Aires, Lecce
+25, Miroslav Klose, GER, F, 1.82, 81, 09-06-78, Opole, Bayern Munich
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+27, Lorik Cana, ALB, M, 1.86, 86, 27-07-83, Pristina, Galatasaray
+28, Stephen Makinwa, NGA, F, 1.86, 78, 26-07-83, Lagos, Palermo
+29, Abdoulay Konko, FRA, M, 1.82, 71, 09-03-84, Marseille, Genoa
+30, Emiliano Alfaro, URU, F, 1.73, 69, 28-04-88, Montevideo, Liverpool [URU]
+32, Cristian Brocchi, ITA, M, 1.71, 70, 30-01-76, Milan, Milan
+33, Marius Stankevičius, LTU, M, 1.89, 83, 15-07-81, Kaunas, Sampdoria
+40, Luca Crescenzi, ITA, D, 1.81, 71, 02-04-92, Rome, None
+41, Enrico Zampa, ITA, M, 1.75, 72, 18-03-92, Frascati, None
+42, Claudio Andreoli, ITA, D, , , 01-04-94, Rome, None
+43, Tommaso Barluzzi, ITA, D, , , 01-02-94, Rome, None
+45, Luca Carru, ITA, M, , , 04-02-94, Civitavecchia, None
+46, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+47, Edoardo Fagioli, ITA, D, 1.82, , 26-01-93, Rome, None
+48, Matteo Monteforte, ITA, M, , , 22-10-93, Rome, None
+49, Gianmarco Oddo, ITA, D, , , 28-06-94, Rome, None
+51, Fabrizio Pasquetto, ITA, M, , , 20-03-94, Rome, None
+53, Antonio Rozzi, ITA, F, 1.81, 74, 28-05-94, Rome, None
+54, Tiziano Scarfagna, ITA, G, 1.88, 82, 26-01-94, Rome, None
+55, Riccardo Serpieri, ITA, D, 1.83, 77, 15-02-94, Rome, None
+78, Luciano Zauri, ITA, M, 1.78, 75, 20-01-78, Pescina, Atalanta
+87, Antonio Candreva, ITA, M, 1.80, 72, 28-02-87, Rome, Udinese
+89, Federico Chirico, ITA, D, 1.83, 77, 13-05-89, Rome, None
+92, Gonzalo Barreto, URU, F, 1.74, 71, 22-01-92, Montevideo, Danubio
+93, Vittorio Salustri, ITA, M, , , 26-07-93, Rome, Venezia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Genoa
+2, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Atalanta (On Loan)
+99, Djibril Cissé, FRA, F, 1.82, 78, 12-08-81, Arles, QPR
+50, Gregorio Pagni, ITA, F, , , 27-12-94, Rome, Grosseto
+92, Tommaso Ceccarelli, ITA, F, 1.76, 72, 02-06-92, Rome, Juve Stabia (On Loan)
+39, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, Bari (On Loan)
+81, Simone Del Nero, ITA, F, 1.87, 76, 04-08-81, Ortonovo, Cesena (On Loan)
+84, Juan Pablo Carrizo, ARG, G, 1.87, 87, 06-05-84, Villa Constitución, Catania (On Loan)

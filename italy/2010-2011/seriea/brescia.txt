@@ -1,0 +1,50 @@
+=  Brescia - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michele Arcari, ITA, G, 1.84, 80, 27-06-78, Annico, Pro Patria
+2, Davide Zoboli, ITA, D, 1.90, 78, 08-10-81, Parma, AlbinoLeffe
+3, Fabio Daprelà, SUI, D, 1.80, 65, 19-02-91, Ticino, West Ham U
+4, Antonio Filippini, ITA, M, 1.68, 66, 03-07-73, Brescia, Livorno
+5, Jonathan Zebina, FRA, D, 1.84, 80, 19-07-78, Paris, Juventus
+6, Francesco Bega, ITA, D, 1.76, 73, 26-10-74, Milan, Genoa
+7, Éder, BRA, F, 1.79, 73, 19-11-86, Lauro Muller, Empoli
+8, Adam Vass, HUN, M, 1.80, 75, 09-08-88, Kápolnásnyék, Stoke C
+9, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Sampdoria
+11, Nicolás Córdova, CHI, M, 1.75, 75, 09-02-79, Santiago, Parma
+12, Nicola Leali, ITA, G, 1.88, 78, 17-02-93, Castiglione delle Stiviere, None
+14, Cristiano Zanetti, ITA, M, 1.80, 75, 14-04-77, Carrara, Fiorentina
+15, Marco Zambelli, ITA, D, 1.80, 77, 22-08-85, Gavardo, None
+16, Victor Hugo Mareco, PAR, D, 1.89, 82, 26-02-84, Asunción, Olimpia [PAR]
+17, Davide Baiocco, ITA, M, 1.72, 70, 08-05-75, Colvalenza, Catania
+18, Davide Possanzini, ITA, F, 1.81, 76, 09-02-76, Loreto, Palermo
+19, Richard Lašík, SVK, M, 1.77, 67, 18-08-92, Bratislava, None
+20, Pietro Accardi, ITA, D, 1.82, 71, 12-09-82, Palermo, Sampdoria
+21, Edoardo Defendi, ITA, F, 1.82, 76, 24-08-91, Trescore Balneario, None
+23, Simone Dallamano, ITA, D, 1.80, 68, 25-11-83, Brescia, None
+24, Lorenzo Tassi, ITA, M, 1.77, 63, 12-02-95, Bovezzo, None
+26, Harouna Bara, ITA, M, , , 01-01-94, , None
+27, Frank Kamalu Deen Salihu, NGA, D, 1.87, 74, 17-01-91, Koforiduah, None
+28, Gaetano Berardi, SUI, D, 1.79, 70, 21-08-88, Sorengo, None
+30, Jonathas, BRA, F, 1.91, 83, 06-03-89, Justinópolis, AZ Alkmaar
+32, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, West Ham U
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Iraklis
+34, Alessio Cragno, ITA, G, 1.81, 75, 28-06-94, Palermo, None
+36, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Juventus
+37, Michal Hrívnák, SVK, G, 1.91, 87, 05-03-91, Rimavska Sobota, None
+38, Nana Welbeck, GHA, M, 1.79, 71, 24-11-94, Accra, None
+56, Perparim Hetemaj, FIN, M, 1.76, 68, 12-12-86, Srbica, FC Twente
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Marco Gorzegno, ITA, D, 1.88, 83, 09-06-81, Cuneo, Empoli (On Loan)
+5, Omar El Kaddouri, BEL, M, 1.86, 72, 21-08-90, Brussels, Südtirol-Alto Adige (On Loan)
+30, Davide Ferrari, ITA, D, , , 20-02-92, , Rodengo Saiano (On Loan)
+19, Alessandro Budel, ITA, M, 1.83, 82, 25-02-81, Basiglio, Torino (On Loan)
+21, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Frosinone (On Loan)
+29, Luigi Alberto Scaglia, ITA, M, 1.82, 66, 23-11-86, Chiari, Cremonese (On Loan)
+14, Róbert Feczesin, HUN, F, 1.87, 75, 22-02-86, Budapest, Ascoli (On Loan)
+29, Juan Antonio Ignacio, ARG, F, 1.86, 77, 05-01-88, Trelew, Ascoli (On Loan)
+26, Gilberto Martínez, CRC, D, 1.74, 72, 01-10-79, Golfito, Sampdoria (On Loan)
+31, Riccardo Taddei, ITA, F, 1.78, 70, 05-09-80, Vecchiano, Triestina
+22, Matteo Sereni, ITA, G, 1.86, 80, 11-02-75, Parma, 

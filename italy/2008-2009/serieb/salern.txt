@@ -1,0 +1,54 @@
+=  Salernitana - Italian Serie B 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Salvatore Pinna, ITA, G, 1.77, 68, 23-08-75, Sorso, Grosseto
+3, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Chievo Verona
+4, Georgios Kyriazis, GRE, D, 1.88, 80, 28-02-80, Thessaloniki, Triestina
+5, Luca Fusco, ITA, D, 1.85, 70, 31-08-77, Salerno, Genoa
+6, Andrea Tricarico, ITA, M, 1.75, 68, 13-02-83, Cetraro, Lanciano
+7, Gennaro Fragiello, ITA, F, 1.83, 77, 30-03-84, Naples, Cassino
+8, Manolo Pestrin, ITA, M, 1.76, 70, 30-10-78, Roma, Messina
+9, Emmanuel Ledesma, ARG, F, 1.80, 77, 24-05-88, Quilmes, Genoa
+10, Arturo Di Napoli, ITA, F, 1.78, 76, 18-04-74, Milan, Messina
+11, Dino Fava Passaro, ITA, F, 1.84, 74, 16-03-77, Formia, Treviso
+12, Rino Iuliano, ITA, G, 1.86, 80, 10-03-84, Pagani, Potenza
+13, Ivan Fatić, MNE, D, 1.88, 83, 21-08-88, Pljevlja, Internazionale
+14, Salvatore Russo, ITA, M, 1.70, 66, 12-07-71, Salerno, Ternana
+15, Carmine Coppola, ITA, M, 1.75, 68, 10-01-79, Pollena Trocchia, Frosinone
+16, Errico Altobello, ITA, D, 1.93, 85, 20-11-90, Cava de' Tirreni, None
+17, Roberto Cardinale, ITA, D, 1.82, 72, 12-06-81, Pollena Trocchia, Martina
+18, Massimo Ganci, ITA, F, 1.77, 65, 17-11-81, Milan, Cittadella
+19, Roberto Merino, PER, M, 1.67, 68, 19-05-82, Chiclayo, Atromitos Athens
+20, Francesco Scarpa, ITA, M, 1.76, 68, 18-06-79, Castellamare di Stabia, Paganese
+21, Maurizio Peccarisi, ITA, D, 1.92, 88, 17-02-78, Bordighera, Rimini
+22, Antimo Iunco, ITA, F, 1.70, 74, 10-06-84, Brindisi, Chievo Verona
+23, Jury Cannarsa, ITA, D, 1.83, 77, 22-04-76, Turin, Frosinone
+27, Evans Soligo, ITA, M, 1.80, 70, 14-01-79, Marghera, Palermo
+28, Luca Orlando, ITA, F, 1.77, 68, 26-12-90, Salerno, None
+32, Maurizio Ciaramitaro, ITA, M, 1.80, 76, 20-03-82, Palermo, Palermo
+33, Francesco Agresta, ITA, D, 1.77, 70, 02-04-90, , None
+35, Daniele Cirillo, ITA, M, 1.81, 71, 17-06-90, Torre Annunziata, None
+37, Federico Federici, ITA, F, , , 14-01-91, , None
+38, Luca Fucci, ITA, D, , , 08-06-90, , None
+50, Elio Siano, ITA, F, , , 15-02-90, Salerno, None
+51, Stefano Squitieri, ITA, D, , , 17-11-90, , None
+77, Tommaso Berni, ITA, G, 1.85, 80, 06-03-83, Florence, Lazio
+88, Stefano Rocco, ITA, G, , , 02-01-88, Avellino, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Alessandro Sabatino, ITA, M, 1.82, 79, 28-12-81, Castellamare di Stabia, Potenza (On Loan)
+22, Carlos Barrionuevo, ARG, M, 1.81, 80, 29-12-77, Santa Fe, 
+15, Imperio Carcione, ITA, M, 1.78, 72, 04-03-82, Cassino, Cassino
+23, Alessandro Grando, ITA, D, 1.75, 63, 12-11-83, Bracciano, 
+18, Federico Gerardi, ITA, F, 1.90, 85, 10-12-87, Pordenone, Udinese
+2, Marco Ambrogioni, ITA, D, 1.80, 73, 29-10-74, Foligno, Arezzo
+13, Piero Robertiello, ITA, G, 1.86, 79, 08-04-89, Oliveto Citra, Cassino (On Loan)
+7, Giampaolo Ciarcià, ITA, M, 1.77, 72, 01-05-80, Siracusa, Benevento
+24, Domenico Giampa', ITA, M, 1.68, 63, 15-02-77, Girifalco, Modena
+9, Federico Turienzo, ARG, F, 1.89, 76, 02-06-83, La Plata, Arezzo
+30, Walter Piccioni, ITA, M, 1.83, 77, 25-02-78, Giulianova, 
+26, Enrico Pepe, ITA, D, 1.85, 77, 12-11-89, Vico Equense, Cassino (On Loan)
+19, Kingsley Umunegbu, NGA, F, 1.78, 78, 28-10-89, Zaria, Milan
+25, Rocco Giannone, ITA, M, 1.81, 74, 21-07-83, Anzio, Cassino

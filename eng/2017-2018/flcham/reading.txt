@@ -1,0 +1,69 @@
+=  Reading - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vito Mannone, ITA, G, 1.88, 77, 02-03-88, Desio, Sunderland
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+3, Tommy Elphick, ENG, D, 1.88, 84, 07-09-87, Brighton, Aston Villa
+4, Joey van den Berg, NED, M, 1.82, 84, 13-02-86, Nijeveen, SC Heereveen
+5, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, Hull C
+6, Liam Moore, ENG, D, 1.86, 86, 31-01-93, Leicester, Leicester C
+8, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Manchester C
+9, Joseph Mendes, FRA, F, 1.86, 80, 30-03-91, Évreux, Le Havre
+10, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, Chelsea
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+14, Sone Aluko, NGA, F, 1.73, 62, 19-02-89, Birmingham, Fulham
+15, Callum Harriott, ENG, M, 1.65, 66, 04-03-94, Norbury, Charlton Ath
+16, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Wolverhampton W
+17, Modou Barrow, GAM, F, 1.76, 63, 13-10-92, Banjul, Swansea C
+18, Yann Kermorgant, FRA, F, 1.84, 84, 08-11-81, Vannes, Bournemouth
+19, Leandro Bacuna, NED, M, 1.87, 77, 21-08-91, Groningen, Aston Villa
+20, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, Hampstead, Liverpool
+21, Stephen Quinn, IRL, M, 1.68, 60, 04-04-86, Dublin, Hull C
+22, Pelle Clement, NED, M, 1.77, 66, 19-05-96, Amsterdam, Ajax
+23, Jón Daði Böðvarsson, ISL, F, 1.90, 85, 25-05-92, Selfoss, Wolverhampton W
+24, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Manchester U
+27, Chris Martin, SCO, F, 1.78, 73, 04-11-88, Beccles, Derby Co
+30, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, None
+31, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, Ajax Cape Town
+35, Luke Southwood, ENG, G, 1.92, 72, 06-12-97, Oxford, None
+37, Axel Andrésson, ISL, D, 1.91, 85, 27-01-98, Mosfellsbær, Afturelding
+38, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, None
+40, Liam Driscoll, AUS, G, 1.94, 85, 08-05-99, Perth [AUS], Perth Glory
+41, Ryan East, ENG, M, 1.76, 70, 07-08-98, Ascot, None
+42, Andy Rinomhota, ENG, M, 1.75, 64, 21-04-97, Leeds, AFC Portchester
+44, Lewis Ward, ENG, G, 1.95, 81, 05-03-97, , None
+45, Ben House, SCO, F, 1.75, 70, 05-07-99, Guildford, None
+46, Teddy Howe, ENG, D, 1.77, 69, 09-10-98, Oxford, None
+47, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, None
+48, Ramarni Medford-Smith, ENG, D, , , 21-10-98, Reading, None
+49, Gabriel Osho, ENG, D, , , 14-08-98, Reading, None
+50, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Fulham
+51, Tyler Frost, ENG, M, 1.75, 70, 07-07-99, Reading, None
+52, Joel Rollinson, ENG, M, , , 16-11-98, Reading, None
+54, Ademola Shokunbi, ENG, M, , , 17-12-98, Southwark, None
+55, Sam Smith, ENG, F, 1.81, 73, 08-03-98, Manchester, Manchester U
+56, Danny Namaso Loader, ENG, F, 1.82, 76, 28-08-00, Reading, None
+57, Tom Holmes, ENG, D, 1.84, 82, 12-03-00, Ealing, None
+58, Jordan Holsgrove, SCO, M, 1.80, 73, 10-09-99, Edinburgh, None
+59, Conor Davis, IRL, F, 1.65, 68, 03-06-98, Dublin, Templeogue U
+60, Andre Burley, ENG, M, 1.80, 72, 10-09-99, Slough, None
+61, Cameron Green, ENG, M, , , 24-04-99, , None
+62, Jack Nolan, ENG, M, 1.80, 72, 25-05-01, Portsmouth, None
+63, Ethan Coleman, ENG, M, 1.88, 83, 28-01-00, Reading, None
+64, Jack Buchanan, ENG, M, , , 15-03-00, Oxford, None
+65, Gabriel Rosario, USA, G, , , 07-10-99, , None
+66, Jazz Wallace, ENG, M, , , 29-10-99, Reading, None
+67, Akinwale Odimayo, ENG, D, 1.83, 75, 28-11-99, Camden, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Danzell Gravenberch, NED, D, 1.86, 80, 13-02-94, Amsterdam, KSV Roeselare (On Loan)
+19, Yakou Méïte, FRA, M, 1.84, 72, 11-02-96, Paris, Sochaux (On Loan)
+53, Jake Sheppard, SCO, D, 1.75, 70, 30-05-97, Chertsey, Guiseley (On Loan)
+39, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, Coventry C (On Loan)
+36, Rob Dickie, ENG, D, 1.83, 74, 03-03-96, Wokingham, Oxford U
+25, Adrian Popa, ROU, M, 1.70, 70, 24-07-88, Horezu, Al-Taawoun (On Loan)
+7, Roy Beerens, NED, F, 1.73, 64, 22-12-87, Bladel, Vitesse
+43, George Legg, ENG, G, 1.95, 76, 30-04-96, Reading, Barnet (On Loan)

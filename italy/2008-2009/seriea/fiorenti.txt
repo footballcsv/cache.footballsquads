@@ -1,0 +1,50 @@
+=  Fiorentina - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastien Frey, FRA, G, 1.89, 85, 18-03-80, Thonon les Bains, Parma
+2, Per Krøldrup, DEN, D, 1.87, 82, 31-07-79, Farso, Everton
+3, Dario Dainelli, ITA, D, 1.91, 83, 06-09-79, Pontedera, Brescia
+4, Marco Donadel, ITA, M, 1.79, 73, 21-04-83, Conegliano Veneto, Milan
+5, Alessandro Gamberini, ITA, D, 1.85, 78, 27-08-81, Bologna, Verona
+6, Juan Manuel Vargas, PER, D, 1.80, 75, 05-10-83, Lima, Catania
+7, Franco Semioli, ITA, M, 1.78, 70, 20-06-80, Cirié, Chievo Verona
+8, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Partizan Belgrade
+10, Adrian Mutu, ROU, F, 1.80, 74, 08-01-79, Călineşti, Juventus
+11, Alberto Gilardino, ITA, F, 1.84, 79, 05-07-82, Biella, Milan
+13, Marco Storari, ITA, G, 1.87, 76, 07-01-77, Pisa, Milan
+14, Luciano Zauri, ITA, M, 1.78, 75, 20-01-78, Pescina, Lazio
+15, Ondřej Mazuch, CZE, D, 1.88, 83, 15-03-89, Hodonín, Brno
+18, Riccardo Montolivo, ITA, M, 1.82, 79, 18-01-85, Milan, Atalanta
+19, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Treviso
+20, Martin Jørgensen, DEN, M, 1.80, 76, 06-10-75, Orstad, Udinese
+21, Gianluca Comotto, ITA, D, 1.81, 77, 16-10-78, Ivrea, Torino
+22, Zdravko Kuzmanović, SRB, M, 1.86, 72, 22-09-87, Berne, Basel
+23, Manuel Pasqual, ITA, D, 1.78, 71, 13-03-82, San Donà di Piave, Arezzo
+24, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Palermo
+25, Vlada Avramov, SRB, G, 1.88, 80, 05-04-79, Novi Sad, Vicenza
+26, Alex, BRA, D, 1.90, 85, 29-01-89, Salvador de Bahia, Lokomotiv Plovdiv
+28, Jefferson, BRA, F, 1.89, 79, 06-01-88, Guarulhos, Paraná
+30, Sergio Almirón, ARG, M, 1.80, 76, 07-11-80, Rosario, Juventus
+32, Emiliano Bonazzoli, ITA, F, 1.92, 84, 20-01-79, Asola, Sampdoria
+33, Andrea Seculin, ITA, G, 1.85, 78, 14-07-90, Gorizia, None
+35, Pape Moussa Diakhaté, SEN, M, 1.84, 74, 22-04-89, Pikine, Cambérène
+36, Dario Fedi, ITA, D, , , 13-02-89, Pistoia, None
+37, Giacomo Lepri, ITA, M, , , 10-10-90, Assisi, None
+40, Marco Romizi, ITA, M, 1.75, 65, 13-02-90, Arezzo, None
+41, Massimiliano Tagliani, ITA, D, 1.85, 80, 04-04-89, Mazzano, None
+44, Federico Masi, ITA, D, 1.88, 79, 10-10-90, Frascati, None
+45, Filippo Di Prete, ITA, G, , , 24-05-91, , None
+46, Piergiuseppe Maritato, ITA, F, 1.80, 70, 19-03-89, Cetraro, Juventus
+47, Federico Carraro, ITA, M, 1.78, 70, 23-06-92, Padua, None
+88, Felipe Melo, BRA, M, 1.83, 73, 26-08-83, Volta Redonda, Almería
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Manuel Nocciolini, ITA, F, 1.82, 78, 18-05-89, Piombino, Cuoiopelli Cappiano (On Loan)
+29, Giampaolo Pazzini, ITA, F, 1.80, 74, 02-08-84, Monsummano, Sampdoria
+9, Pablo Daniel Osvaldo, ITA, F, 1.85, 78, 12-01-86, Buenos Aires, Bologna
+17, Papa Waigo Ndiaye, SEN, F, 1.84, 70, 20-01-84, St Louis, Lecce (On Loan)
+54, Manuel Da Costa, POR, D, 1.91, 82, 06-05-86, Saint-Max, Sampdoria (On Loan)
+34, Nikola Gulan, SRB, M, 1.83, 72, 23-03-89, Belgrade, 1860 Munich (On Loan)
+38, Lorenzo Morelli, ITA, F, 1.85, 76, 25-04-88, Florence, Venezia (On Loan)

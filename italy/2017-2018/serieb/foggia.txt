@@ -1,0 +1,58 @@
+=  Foggia - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, Bari
+2, Lorenzo Betti, ITA, D, , , 01-02-00, Carrara, Fiorentina
+3, Giuseppe Figliomeni, ITA, D, 1.88, 80, 02-06-87, Reggio Calabria, Trapani
+4, Cristian Agnelli, ITA, M, 1.74, 70, 23-09-85, Foggia, SPAL
+5, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Bari
+6, Giuseppe Loiacono, ITA, D, 1.82, 77, 06-10-91, Bari, Paganese
+7, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Bari
+8, Francesco Fedato, ITA, F, 1.83, 73, 15-10-92, Mirano, Sampdoria
+9, Giacomo Beretta, ITA, F, 1.83, 74, 14-03-92, Varese, Milan
+10, Mathieu Duhamel, FRA, F, 1.83, 76, 12-07-84, Mont-Saint-Aignan, Quevilly-Rouen
+11, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Crotone
+12, Stefano Tarolli, ITA, G, 1.87, 79, 18-08-97, Foggia, Virtus Lanciano
+13, Marco Zambelli, ITA, D, 1.82, 77, 22-08-85, Gavardo, Empoli
+14, Luca Martinelli, ITA, D, 1.85, 74, 20-12-88, Milan, Messina
+15, Alessio Pertosa, ITA, D, 1.85, 75, 01-09-98, Foggia, None
+16, Antonio De Cristofaro, ITA, M, , , 10-01-00, Foggia, None
+17, Francesco Nicastro, ITA, F, 1.82, 74, 26-10-91, San Cataldo, Pescara
+18, Francesco Deli, ITA, M, 1.82, 77, 17-07-94, Rome, Paganese
+19, Fabio Mazzeo, ITA, F, 1.77, 77, 24-07-83, Salerno, Benevento
+20, Emanuele Amabile, ITA, M, , , 14-06-99, San Giorgio a Cremano, Salernitana
+21, Antonio Schena, ITA, F, 1.87, 75, 15-04-99, Taranto, Avellino
+22, Andries Noppert, NED, G, 1.96, 87, 07-04-94, Heerenveen, NAC Breda
+23, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Modena
+24, Simone Pio Sarri, ITA, G, 1.86, 79, 18-09-00, Milan, Manfredonia
+25, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Latina
+26, Davide Agazzi, ITA, M, 1.73, 70, 02-06-93, Trescore Balneario, Atalanta
+27, Roberto Floriano, ITA, F, 1.71, 67, 14-08-86, Ebingen, Pisa
+28, Alessandro Celli, ITA, D, 1.83, 74, 28-01-94, Rome, Lupa Roma
+29, Kyllan Ramé, FRA, M, 1.79, 74, 25-07-97, Bordeaux, Stade Bordelais
+30, Lorenzo Cavallini, ITA, F, , , 06-03-00, San Miniato, Pisa
+31, Michele Camporese, ITA, D, 1.86, 75, 19-05-92, Pisa, Benevento
+32, Luigi Alberto Scaglia, ITA, M, 1.82, 73, 23-11-86, Chiari, Parma
+33, Arturo Calabresi, ITA, D, 1.86, 75, 17-03-96, Rome, Roma
+34, Giuseppe Lanzetta, ITA, G, , , 22-03-99, Carapelle, None
+35, Cristiano Sprecacè, ITA, G, , , 12-02-00, Ancona, Pescara
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Ângelo, BRA, D, 1.75, 76, 12-06-81, Salvador, Matera
+11, David Milinković, SRB, M, 1.78, 70, 20-05-94, Antibes, Genoa
+20, Luca Pompilio, ITA, F, 1.74, 64, 16-03-92, Foggia, 
+22, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, 
+5, Antonio Vacca, ITA, M, 1.72, 67, 13-05-90, Naples, Parma
+13, Alan Empereur, BRA, D, 1.86, 79, 10-03-94, Ipatinga, Bari (On Loan)
+10, Vincenzo Sarno, ITA, F, 1.67, 64, 11-03-88, Naples, Padova
+7, Cosimo Chiricò, ITA, F, 1.69, 72, 05-10-91, Mesagne, Cesena
+11, Antonio Schena, ITA, F, 1.87, 75, 15-04-99, Taranto, Re-Registered (21)
+32, Lorenzo Betti, ITA, D, , , 01-02-00, Carrara, Re-Registered (2)
+33, Simone Pio Sarri, ITA, G, , , 18-09-00, Milan, Re-Registered (24)
+24, Elio Calderini, ITA, F, 1.86, 78, 09-06-88, Città di Castello, Viterbese (On Loan)
+2, Davide Lodesani, ITA, M, 1.81, 75, 04-05-95, Pavullo nel Frignano, 
+21, Tommaso Coletti, ITA, D, 1.80, 74, 09-05-84, Canosa di Puglia, Triestina
+30, Matteo Fedele, ITA, M, 1.85, 75, 20-07-92, Lausanne, Cesena (On Loan)
+34, Álex Sánchez, ESP, G, 1.86, 79, 03-02-91, Barcelona, 

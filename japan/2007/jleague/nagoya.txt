@@ -1,0 +1,45 @@
+=  Nagoya Grampus Eight - Japanese J.League 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Seigo Narazaki, G, 6'01", 12 00, 15-04-76, Nara, Yokohama Flugels
+3, Marek Spilar, D, 6'03", 13 03, 11-02-75, Stropkov, Club Brugge
+4, Masayuki Omori, M, 5'09", 11 07, 09-11-76, Saitama, Sagan Tosu
+5, Atsushi Yoneyama, D, 5'11", 12 00, 20-11-76, Tochigi, Kawasaki Frontale
+7, Naoshi Nakamura, M, 5'09", 11 00, 27-01-79, Chiba, None
+8, Kim Jung-Woo, M, 6'00", 11 00, 09-05-82, , Ulsan Hyundai Horang-i
+9, Frode Johnsen, F, 6'02", 12 08, 17-03-74, Skien, Rosenborg
+10, Toshiya Fujita, M, 5'09", 10 01, 04-10-71, Shizuoka, Jubilo Iwata
+11, Keiji Tamada, F, 5'08", 09 13, 11-04-80, Chiba, None
+13, Kei Yamaguchi, M, 5'08", 10 01, 11-06-83, Kyoto, None
+14, Keiji Yoshimura, M, 5'09", 10 10, 08-08-79, Ehime, None
+15, Sho Kamogawa, F, 5'09", 10 03, 07-02-83, Oita, None
+16, Takahiro Masukawa, D, 6'03", 14 07, 08-11-79, Hyogo, Avispa Fukuoka
+17, Yuki Maki, F, 6'00", 11 11, 26-06-84, Kumamoto, None
+18, Shunichi Nakajima, M, 5'08", 10 10, 16-06-82, Gumma, None
+19, Keita Sugimoto, F, 5'08", 10 03, 13-06-82, Ibaraki, None
+20, Seiji Kaneko, D, 5'11", 11 11, 27-05-80, Fukuoka, Kashima Antlers
+21, Ryo Kushino, G, 6'01", 11 09, 03-03-79, Kumamoto, JEF United
+22, Kazuto Tsuyuki, D, 5'07", 10 06, 14-08-84, Shizuoka, None
+24, Keisuke Honda, M, 5'11", 11 09, 13-06-86, Osaka, Gamba Osaka
+25, Yusuke Sudo, M, 6'00", 11 03, 07-05-86, Tokyo, Tokyo Verdy
+26, Tomohiro Tsuda, F, 5'10", 11 05, 06-05-86, Gifu, None
+27, Shosuke Katayama, D, 5'07", 10 12, 08-09-83, Nara, None
+28, Keiji Watanabe, M, 5'08", 10 01, 28-01-85, Shizuoka, None
+29, Yoshizumi Ogawa, M, 5'08", 10 08, 25-08-84, Tokyo, None
+30, Akira Takeuchi, D, 5'11", 11 03, 18-06-83, Kanagawa, None
+31, Shohei Abe, D, 5'07", 10 12, 01-12-83, Chiba, None
+32, Jun Aoyama, M, 6'00", 10 03, 03-01-88, Miyagi, None
+33, Shingo Wada, M, 5'10", 11 07, 07-08-87, Shizuoka, Jubilo Iwata
+34, Maya Yoshida, M, 6'01", 12 04, 24-08-88, Nagasaki, None
+35, Wataru Inoue, M, 5'09", 10 06, 07-08-86, Shizuoka, None
+36, Koichi Hirono, G, 5'11", 12 00, 16-04-80, Nara, Takada FC
+37, Toru Hasegawa, G, 6'02", 10 06, 11-12-88, Aichi, None
+38, Oribe Niikawa, F, 5'06", 09 13, 16-07-88, Gifu, None
+39, Shinta Fukushima, M, 5'07", 10 08, 28-01-89, Aichi, None
+40, Sho Hanai, M, 5'10", 09 11, 10-11-89, Aichi, None
+41, Koji Hashimoto, F, 5'09", 10 10, 22-04-86, Ishikawa, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Makoto Kakuda, D, 5'10", 11 11, 10-07-83, Kyoto, Kyoto Sanga

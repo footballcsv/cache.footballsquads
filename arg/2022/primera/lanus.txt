@@ -1,0 +1,50 @@
+=  Lanús - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Monetti, ARG, G, 1.83, 78, 21-02-89, La Plata, San Lorenzo
+2, Yonathan Cabral, ARG, D, 1.88, 84, 10-05-92, Isidro Casanova, Atlético Tucumán
+3, Julián Aude, ARG, D, 1.80, 66, 24-03-03, Lanús, None
+5, Tomás Belmonte, ARG, M, 1.78, 69, 27-05-98, Lanús, None
+6, Diego Braghieri, ARG, D, 1.84, 79, 23-02-87, Las Parejas, San Lorenzo
+7, Lautaro Acosta, ARG, F, 1.68, 68, 14-03-88, Glew, Sevilla
+8, Luciano Boggio, URU, M, 1.75, 69, 10-03-99, Montevideo, Defensor Sporting
+9, José Sand, ARG, F, 1.82, 72, 17-07-80, Bella Vista, Deportivo Cali
+10, Pedro De La Vega, ARG, F, 1.77, 70, 07-02-01, Olavarría, None
+11, Franco Orozco, ARG, F, 1.68, 61, 09-01-02, Canning, None
+12, Guillermo De Amores, URU, G, 1.85, 72, 19-10-94, San Jacinto, Deportivo Cali
+13, Patricio Albornoz, ARG, G, 1.90, 85, 04-04-00, San Miguel de Tucumán, None
+14, Samuel Careaga, ARG, M, 1.78, 73, 09-06-02, Avellaneda, None
+15, Raúl Loaiza, COL, M, 1.80, 70, 08-06-94, Cartagena, Defensa y Justicia
+16, Agustín Rodríguez, ARG, M, 1.69, 62, 02-05-04, Lomas de Zamora, None
+18, Claudio Spinelli, ARG, F, 1.80, 82, 21-06-97, Capital Federal, Genoa
+19, Maximiliano González, ARG, M, 1.78, 73, 04-05-04, Monte Grande, None
+20, Franco Troyansky, ARG, F, 1.75, 70, 06-03-97, Algarrobo, Unión (Santa Fe)
+21, Nicolás Pasquini, ARG, D, 1.76, 69, 02-01-91, Los Surgentes, None
+22, Matías Pérez, ARG, D, 1.88, 75, 03-03-99, Florencio Varela, None
+23, Mateo Sanabria, ARG, F, 1.78, 72, 31-03-04, Lomas de Zamora, None
+24, Ignacio Cechi, ARG, M, 1.79, 70, 26-07-01, Guernica, None
+26, Leonel Di Plácido, ARG, D, 1.76, 72, 28-01-94, Capital Federal, All Boys
+27, Brian Blando, ARG, F, 1.77, 72, 01-04-95, Rosario, Agropecuario
+28, Lucas Varaldo, ARG, F, 1.75, 72, 24-02-02, Lomas de Zamora, None
+29, Brian Aguilar, ARG, D, 1.79, 76, 13-04-03, Avellaneda, None
+30, Iván Cazal, PAR, D, 1.75, 70, 22-03-99, General Elizardo Aquino, Sol de América [PAR]
+31, Luciano Peraggini, ARG, G, 1.86, 87, 13-02-02, Capital Federal, None
+33, Felipe Aguilar, COL, D, 1.90, 82, 20-01-93, Medellín, Athletico Paranaense
+34, Facundo Pérez, ARG, M, 1.70, 65, 31-07-99, Quilmes, None
+35, Braian Aguirre, ARG, D, 1.74, 71, 28-07-00, Rafael Calzada, None
+36, Franco Ortellado, ARG, D, 1.88, 83, 30-05-01, Adrogué, None
+37, Juan Pablo Krilanovich, ARG, F, 1.79, 70, 07-04-02, Adrogué, None
+38, Juan Pablo Rodríguez, ARG, M, 1.70, 79, 18-01-03, Rawson, None
+39, Julio Soler, ARG, D, 1.70, 63, 16-02-05, Asunción, None
+40, Matías Vera, ARG, D, 1.74, 64, 20-08-98, Bernal, None
+41, Lucas Irusta, ARG, D, 1.82, 70, 08-01-03, Berazategui, None
+46, Alexis Segovia, ARG, F, 1.75, 67, 15-06-04, Monte Grande, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Ignacio Malcorra, ARG, M, 1.70, 70, 24-07-87, Río Negro, Rosario Central
+27, Ángel González, ARG, M, 1.75, 68, 16-05-94, Godoy Cruz, Estudiantes (LP)
+25, Alexandro Bernabéi, ARG, D, 1.69, 65, 24-09-00, Cañada de Gómez, Celtic
+42, José Manuel López, ARG, F, 1.90, 74, 06-12-00, San Lorenzo, Palmeiras
+17, Lautaro Morales, ARG, G, 1.87, 76, 16-12-99, Quilmes, Newell's Old Boys (On Loan)

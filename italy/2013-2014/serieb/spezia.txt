@@ -1,0 +1,52 @@
+=  Spezia - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Leali, ITA, G, 1.88, 87, 17-02-93, Castiglione delle Stiviere, Juventus
+2, Nicola Madonna, ITA, D, 1.82, 72, 31-10-86, Alzano Lombardo, Atalanta
+3, Francesco Migliore, ITA, D, 1.73, 69, 17-04-88, Arezzo, Crotone
+4, Andrea Lisuzzo, ITA, D, 1.83, 76, 26-01-81, Palermo, Novara
+6, Nii Nortey Ashong, GHA, D, 1.78, 69, 17-11-94, Accra, Fiorentina
+7, Paolo Sammarco, ITA, M, 1.81, 76, 17-03-83, Como, Sampdoria
+8, Matteo Scozzarella, ITA, M, 1.75, 65, 05-06-88, Trieste, Atalanta
+9, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Siena
+10, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Torino
+11, Hörður Magnússon, ISL, D, 1.90, 81, 11-02-93, Reykjavík, Juventus
+12, Matej Vozár, SVK, G, 2.00, 88, 05-05-94, Trenčín, AS Trenčín
+13, Patrick Ciurria, ITA, F, 1.78, 67, 09-02-95, Sassuolo, Castellarano
+14, Balla Faye, SEN, D, 1.87, 74, 17-09-94, Guédiawaye, None
+15, Antonini Čulina, CRO, M, 1.84, 77, 27-01-92, Zadar, Rijeka
+16, Pietro Ceccaroni, ITA, D, 1.87, 73, 21-12-95, Sarzana, None
+17, Felipe Seymour, CHI, M, 1.74, 75, 23-07-87, Pirque, Genoa
+18, Pasquale Schiattarella, ITA, M, 1.78, 68, 30-05-87, Mugnano di Napoli, Livorno
+19, Alessandro Carrozza, ITA, M, 1.78, 76, 01-02-82, Gallipoli, Verona
+20, Nicola Ferrari, ITA, F, 1.83, 80, 15-07-83, Tione di Trento, Verona
+21, Osariemen Ebagua, NGA, F, 1.85, 80, 06-06-86, Benin City, Varese
+22, Alex Valentini, ITA, G, 1.88, 80, 05-04-88, Guastalla, Pro Vercelli
+23, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona
+24, Andrea Catellani, ITA, F, 1.78, 73, 26-05-88, Reggio Emilia, Catania
+25, Ivano Baldanzeddu, ITA, D, 1.82, 76, 11-04-86, Tempio Pausania, Juve Stabia
+26, Mihovil Klapan, CRO, M, 1.77, 74, 27-03-95, Zadar, Rijeka
+27, Emanuel Rivas, ARG, F, 1.77, 71, 17-03-83, Quilmes, Verona
+28, Simone Bastoni, ITA, M, 1.81, 74, 05-11-96, La Spezia, None
+29, Gabriel Appelt Pires, BRA, M, 1.86, 80, 18-09-93, Resende, Juventus
+30, Nicola Galelli, ITA, F, 1.73, 65, 26-05-96, Pisogne, Darfo Boario
+31, Mislav Oršić, CRO, M, 1.75, 70, 29-12-92, Zagreb, Inter Zaprešić
+32, Gabriele Passamonti, ITA, F, 1.84, 75, 14-03-95, Velletri, None
+34, Savvas Gentsoglou, GRE, M, 1.85, 75, 19-09-90, Alexandroupoli, Sampdoria
+35, Niko Datković, CRO, D, 1.89, 83, 21-04-93, Rijeka, Rijeka
+36, Daniele Franco, ITA, M, 1.72, 65, 29-08-94, Naples, Napoli
+44, Lazar Petković, SRB, G, 1.91, 72, 17-04-95, Novi Sad, Parma
+55, Gianluca Bedei, ITA, G, 1.88, 78, 13-01-96, Pietrasanta, Viareggio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Filippo Porcari, ITA, M, 1.76, 76, 28-04-84, Fidenza, Carpi
+9, Marco Sansovini, ITA, F, 1.76, 71, 17-06-80, Rome, Novara (On Loan)
+18, Ezekiel Henty, NGA, F, 1.84, 88, 13-05-93, Lagos, Milan
+23, Nicolás Albarracin, URU, F, 1.82, 72, 11-06-93, Montevideo, Montevideo Wanderers
+10, Federico Moretti, ITA, M, 1.87, 76, 28-10-88, Genoa, Catania
+28, Martino Borghese, ITA, D, 1.98, 95, 05-06-87, Basel, Lugano (On Loan)
+5, Luca Ceccarelli, ITA, D, 1.85, 77, 20-03-83, Massa, Siena (On Loan)
+8, Andrea Bovo, ITA, M, 1.80, 70, 14-05-86, Mestre, Pescara
+33, Valerio Vimercati, ITA, G, 1.80, 77, 04-03-95, Milan, Torino (On Loan)

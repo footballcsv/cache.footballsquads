@@ -1,0 +1,44 @@
+=  Verona - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, São Bento
+2, Guillermo Rodríguez, URU, D, 1.84, 85, 21-03-84, Montevideo, Torino
+3, Eros Pisano, ITA, D, 1.85, 77, 31-03-87, Busto Arsizio, Palermo
+4, Rafael Márquez, MEX, D, 1.82, 74, 13-02-79, Zamora, León
+5, Frederik Sørensen, DEN, D, 1.93, 80, 14-04-92, Roskilde, Juventus
+7, Javier Saviola, ARG, F, 1.68, 61, 11-12-81, Bajo Belgrano, Olympiakos
+8, Mounir Obbadi, MAR, M, 1.72, 65, 04-04-83, Meulan, Monaco
+9, Luca Toni, ITA, F, 1.93, 88, 26-05-77, Pavullo nel Frignano, Fiorentina
+10, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Reggina
+11, Boško Janković, SRB, M, 1.83, 77, 01-03-84, Belgrade, Genoa
+17, Nicolás López, URU, F, 1.75, 67, 01-10-93, Montevideo, Udinese
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larissa, Cesena
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Genoa
+20, Lazaros Christodoulopoulos, GRE, M, 1.83, 77, 19-12-86, Thessaloniki, Bolognach
+21, Juan Ignacio Gómez, ARG, F, 1.80, 75, 20-05-85, Santa Fe, Bellaria
+22, Francesco Benussi, ITA, G, 1.88, 85, 15-10-81, Mestre, Udinese
+23, Artur Ioniţă, MDA, M, 1.85, 75, 17-08-90, Chişinău, Aarau
+25, Rafael Marques, BRA, D, 1.84, 78, 21-09-83, Rio de Janeiro, Atlético Mineiro
+26, Jacopo Sala, ITA, M, 1.83, 75, 05-12-91, Bergamo, Hamburg
+27, Mattia Valoti, ITA, M, 1.81, 62, 06-09-93, Vicenza, AlbinoLeffe
+28, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Atalanta
+30, Gustavo Campanharo, BRA, M, 1.78, 66, 04-04-92, Caxias do Sul, Bragantino
+32, Lorenzo Ferrari, ITA, G, 1.93, 77, 09-03-96, Cremona, Milan
+33, Alessandro Agostini, ITA, D, 1.74, 66, 23-07-79, Vinci, Torino
+34, Alimeyaw Salifu, GHA, M, , , 20-08-95, , None
+36, Filippo Boni, ITA, D, 1.87, , 29-06-95, Varese, Solbiatese
+69, Alessandro Salvetti, ITA, G, , , 05-04-97, Verona, None
+70, Fernandinho, BRA, F, 1.71, 66, 25-11-85, São Paulo, Grêmio
+71, Ivan Martić, CRO, M, 1.83, 70, 02-10-90, Uzwil, St. Gallen
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Genoa
+93, Mohamed Fares, ALG, F, 1.83, 75, 15-02-96, Aubervilliers, Bordeaux
+95, Pierluigi Gollini, ITA, G, 1.88, 82, 18-03-95, Bologna, Manchester U
+96, Pierluigi Cappelluzzo, ITA, F, 1.82, 76, 09-06-96, Montepulciano, Siena
+97, Luca Checchin, ITA, M, 1.83, 73, 03-05-97, Voghera, Alessandria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Alejandro González, URU, D, 1.84, 78, 23-03-88, Montevideo, Cagliari (On Loan)
+99, Nenê, BRA, F, 1.82, 78, 28-07-83, São Paulo, Spezia (On Loan)
+16, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Aston Villa

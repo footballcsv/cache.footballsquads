@@ -1,0 +1,43 @@
+=  Atalanta - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Lazio
+2, Rafael Tolói, BRA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, São Paulo
+5, Andrea Masiello, ITA, D, 1.84, 82, 05-02-86, Viareggio, Bari
+6, José Luis Palomino, ARG, D, 1.88, 87, 05-01-90, San Miguel de Tucumán, Ludogorets Razgrad
+7, Arkadiusz Reca, POL, M, 1.87, 81, 17-06-95, Chojnice, Wisła Płock
+8, Robin Gosens, GER, M, 1.83, 76, 05-07-94, Emmerich, Heracles Almelo
+10, Alejandro Gómez, ARG, F, 1.65, 68, 15-02-88, Capital Federal, Metalist Kharkiv
+11, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Luzern
+15, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Middlesbrough
+17, Roberto Piccoli, ITA, F, , , 27-01-01, Bergamo, None
+19, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Zürich, Zürich
+21, Timoty Castagne, BEL, D, 1.85, 80, 05-12-95, Aarlen, KRC Genk
+22, Matteo Pessina, ITA, M, 1.83, 75, 21-04-97, Monza, Milan
+23, Gianluca Mancini, ITA, D, 1.90, 77, 17-04-96, Pontedera, Perugia
+25, Marco Carnesecchi, ITA, G, 1.86, 80, 01-07-00, Rimini, Cesena
+30, Marco Varnier, ITA, D, 1.86, 82, 08-06-98, Padua, Cittadella
+31, Francesco Rossi, ITA, G, 1.93, 83, 27-04-91, Merate, None
+32, Lorenzo Peli, ITA, F, 1.72, 65, 24-01-00, Seriate, None
+33, Hans Hateboer, NED, D, 1.87, 74, 09-01-94, Beerta, FC Groningen
+41, Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Fluminense
+44, Dejan Kulusevski, SWE, M, 1.86, 79, 25-04-00, Stockholm, IF Brommapojkarna
+55, Caleb Okoli, NGA, D, 1.89, 69, 13-07-01, Vicenza, None
+70, Andrea Colpani, ITA, M, 1.86, 78, 11-05-99, Brescia, None
+72, Josip Iličić, SVN, F, 1.90, 79, 29-01-88, Kranj, Fiorentina
+78, Enrico Delprato, ITA, M, 1.86, 76, 10-11-99, Grassobbio, None
+88, Mario Pašalić, CRO, M, 1.88, 82, 09-02-95, Mainz, Chelsea
+91, Duván Zapata, COL, F, 1.89, 88, 01-04-91, Cali, Sampdoria
+95, Pierluigi Gollini, ITA, G, 1.88, 82, 18-03-95, Bologna, Aston Villa
+97, Nicolò Cambiaghi, ITA, F, 1.73, 65, 28-12-00, Monza, None
+99, Musa Barrow, GAM, F, 1.83, 77, 14-11-98, Banjul, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Andreas Cornelius, DEN, F, 1.93, 79, 16-03-93, Copenhagen, Bordeaux (On Loan)
+4, Luca Valzania, ITA, M, 1.84, 77, 05-03-96, Cesena, Frosinone (On Loan)
+13, Davide Bettella, ITA, D, 1.85, 75, 07-04-00, Padua, Pescara (On Loan)
+24, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Zenit St Petersburg
+20, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Lecce (On Loan)
+53, Ali Adnan, IRQ, D, 1.88, 71, 19-12-93, Baghdad, Udinese

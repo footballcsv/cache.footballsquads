@@ -1,0 +1,47 @@
+=  Korona Kielce - Polish Ekstraklasa 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Zbigniew Małkowski, POL, G, 1.88, 79, 19-01-78, Olsztyn, OKS 1945 Olsztyn
+2, Kamil Sylwestrzak, POL, D, 1.88, 76, 16-07-88, Słubice, Chojniczanka Chojnice
+4, Charlie Trafford, CAN, M, 1.93, 82, 24-05-92, Calgary, Kuopion PS
+5, Serhiy Pylypchuk, UKR, M, 1.87, 80, 26-11-84, Zmiiv, Volyn Lutsk
+6, Vanja Marković, SRB, M, 1.85, 80, 20-06-94, Belgrade, Partizan Belgrade
+7, Marcin Cebula, POL, M, 1.74, 60, 06-12-95, Staszów, None
+8, Vlastimir Jovanović, BIH, M, 1.82, 77, 03-04-85, Zenica, Slavija
+10, Bartłomiej Pawłowski, POL, M, 1.78, 70, 13-11-92, Zgierz, Lechia Gdańsk
+11, Tomasz Zając, POL, F, 1.65, 56, 14-07-95, Vienna, Wisła Kraków
+12, Dariusz Trela, POL, G, 1.83, 83, 05-12-89, Kraków, Lechia Gdańsk
+13, Dzmitry Verkhawtsow, BLR, D, 1.90, 85, 10-10-86, Mogilev, FC Ufa
+14, Piotr Rogala, POL, D, 1.89, 75, 25-05-95, , None
+15, Łukasz Sierpina, POL, M, 1.74, 68, 27-03-88, Złotoryja, KS Polkowice
+16, Kamil Matulka, POL, F, 1.77, 68, 22-01-93, Warsaw, Pilica Białobrzegi
+17, Maciej Załęcki, POL, M, 1.85, 77, 17-06-96, Płońsk, Tęcza 34 Płońsk
+18, Airam Cabrera, ESP, F, 1.80, 78, 21-10-87, Puerto de la Cruz, Cádiz
+19, Nabil Aankour, MAR, M, 1.72, 70, 09-08-93, Temsamane, Bastia
+20, Adam Zawierucha, POL, F, 1.86, 75, 04-09-96, Kielce, None
+21, Jakub Kotarzewski, POL, F, 1.73, 64, 22-01-94, Kielce, None
+23, Elhadji Diaw, SEN, D, 1.93, 85, 31-12-94, Dakar, Verbroedering Geel
+25, Leonid Otchenashenko, UKR, G, 1.92, 77, 09-06-98, Lutsk, Wisła Puławy
+26, Bartosz Rymaniak, POL, D, 1.89, 80, 13-11-89, Gostyń, Cracovia Kraków
+27, Rafał Grzelak, POL, D, 1.87, 83, 07-08-88, Mława, Podbeskidzie Bielsko-Biała
+28, Vladislavs Gabovs, LVA, D, 1.76, 73, 13-07-87, Riga, Skonto
+29, Paweł Sobolewski, POL, M, 1.73, 62, 20-06-79, Ełk, Widzew Łódź
+30, Michał Wrześniewski, POL, D, 1.83, 75, 19-09-94, Kielce, None
+32, Radek Dejmek, CZE, D, 1.88, 84, 02-02-88, Vrchlabí, Slovan Liberec
+34, Adrian Bednarski, POL, D, 1.85, 74, 05-10-94, Kielce, None
+39, Bartosz Kwiecień, POL, M, 1.86, 80, 07-05-94, Starachowice, Juventa Starachowice
+44, Łukasz Sekulski, POL, F, 1.87, 78, 03-11-90, Płock, Jagiellonia Białystok
+56, Hubert Laskowski, POL, F, 1.84, 80, 22-03-95, Włoszczowa, Heko Czermno
+77, Michał Przybyła, POL, F, 1.77, 67, 01-07-94, Busko Zdrój, None
+87, Aleksandrs Fertovs, LVA, M, 1.81, 78, 16-06-87, Riga, Sevastopol
+88, Michał Mokrzycki, POL, M, 1.80, 75, 29-12-97, Rzeszów, MKS Kolbuszowa
+97, Artur Marzec, POL, G, , , 01-04-97, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Piotr Malarczyk, POL, D, 1.89, 74, 01-08-91, Kielce, Ipswich T
+23, Maciej Wilusz, POL, D, 1.88, 85, 25-09-88, Wrocław, Lech Poznań
+13, Krzysztof Kiercz, POL, D, 1.89, 80, 16-02-89, Kielce, 
+9, Przemysław Trytko, POL, F, 1.89, 83, 28-08-87, Strzelce Opolskie, Atyrau
+22, Kamil Kobryń, POL, D, 1.85, 81, 26-01-95, Kielce, 

@@ -1,0 +1,37 @@
+=  O'Higgins - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Carreño, CHI, G, 1.88, 76, 20-04-02, Mostazal, None
+2, Cristóbal Castillo, CHI, M, 1.77, 70, 04-02-03, Independencia, None
+4, Diego González, CHI, D, 1.83, 74, 29-04-98, Rancagua, None
+6, Juan Fuentes, CHI, D, 1.72, 75, 21-03-95, Rancagua, Estudiantes (LP)
+7, Fabián Hormazábal, CHI, D, 1.72, 67, 26-04-96, Machalí, None
+8, Pablo Hernández, CHI, M, 1.84, 79, 24-10-86, Capital Federal, Independiente
+9, Matías Donoso, CHI, F, 1.85, 88, 08-07-86, Temuco, Deportes Temuco
+10, Sebastián Ubilla, CHI, F, 1.72, 64, 09-08-90, Quilpué, Santiago Wanderers
+11, Facundo Castro, URU, F, 1.76, 66, 22-01-95, Montevideo, Necaxa
+13, Camilo Moya, CHI, M, 1.69, 65, 19-02-98, Santiago, Universidad de Chile
+14, Diego González, CHI, M, 1.73, 70, 28-08-98, Coquimbo, Coquimbo Unido
+15, Ronald Guzmán, CHI, D, 1.78, 66, 21-12-01, La Unión, None
+16, Luis Ureta, CHI, G, 1.77, 70, 08-03-99, Rengo, None
+18, Diego Carrasco, CHI, D, 1.76, 72, 25-05-95, Coquimbo, Universidad de Chile
+19, Matías Belmar, CHI, F, 1.77, 76, 26-08-02, Rengo, None
+20, Matías Marín, CHI, M, 1.69, 64, 19-12-99, Viña del Mar, Santiago Wanderers
+21, Diego Fernández, CHI, M, 1.75, 70, 08-03-98, Loncoche, Deportes Iquique
+22, Facundo Barcelo, URU, F, 1.80, 70, 31-03-93, Florida, Juventud
+23, Brian Torrealba, CHI, D, 1.79, 67, 14-07-97, Rancagua, None
+24, Patricio Romero, CHI, D, 1.92, 75, 29-05-02, Curicó, None
+25, Alberto Letelier, CHI, M, 1.65, 51, 27-12-03, Rancagua, None
+27, Moises González, CHI, D, 1.79, 65, 22-11-00, Rancagua, None
+28, Francisco Arancibia, CHI, F, 1.70, 62, 12-11-96, Rancagua, Universidad de Chile
+29, Felipe Ogaz, CHI, M, 1.74, 76, 07-05-03, Quinta de Tilcoco, None
+30, Antonio Díaz, CHI, D, 1.72, 70, 26-04-00, Rancagua, None
+31, Alexis Martín Arias, ARG, G, 1.85, 80, 04-07-92, Pellegrini, Unión La Calera
+32, Gastón Lódico, ARG, M, 1.80, 72, 28-05-98, Temperley, Lanús
+33, Esteban Moreira, CHI, F, 1.88, 80, 17-02-02, Rancagua, None
+37, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, Volos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Carlos Muñoz, CHI, F, 1.74, 69, 21-04-89, Valparaíso, Santiago Wanderers

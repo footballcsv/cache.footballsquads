@@ -1,0 +1,45 @@
+=  Vålerenga - Norwegian Tippeligaen 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lars Hirschfeld, CAN, G, 1.90, 90, 17-10-78, Edmonton, Energie Cottbus
+2, Benjamin Dahl Hagen, NOR, D, 1.84, 76, 09-01-88, Oslo, Follo
+3, Andreas Nordvik, NOR, M, 1.84, 84, 18-03-87, Trondheim, Rosenborg
+4, André Muri, NOR, D, 1.91, 94, 22-04-81, Asker, Stabæk
+5, Aleksander Solli, NOR, D, 1.88, 83, 16-03-90, Førde, Løv-Ham
+6, Simon Andreas Larsen, NOR, D, 1.93, 84, 01-06-88, Kristiansand, Vindbjart
+9, Sidoine Oussou, BEN, F, 1.76, 72, 14-11-92, Bantè, ASPAC
+10, Torgeir Børven, NOR, F, 1.85, 70, 03-12-91, Bergen, Odd
+11, Morten Berre, NOR, F, 1.82, 82, 10-08-75, Oslo, St Pauli
+13, Fegor Ogude, NGA, M, 1.80, 78, 29-07-87, Lagos, Warri Wolves
+14, Yssouf Koné, BFA, F, 1.84, 80, 19-02-82, Abidjan, CFR Cluj
+15, Joachim Thomassen, NOR, M, 1.80, 71, 04-05-88, Sarpsborg, Fredrikstad
+16, Pape Maly Diamanka, SEN, M, 1.84, 76, 10-01-90, Dakar, Rayo Vallecano
+17, Mohammed Fellah, NOR, M, 1.67, 70, 24-05-89, Oslo, Holmlia
+18, Giancarlo González, CRC, D, 1.86, 72, 08-02-88, San José [CRC], LD Alajuelense
+19, Chad Barrett, USA, F, 1.80, 82, 30-04-85, San Diego, LA Galaxy
+21, Ahmed Suleiman, NGA, F, 1.70, 70, 18-08-92, Jos, Heartland FC
+23, Kristofer Hæstad, NOR, M, 1.72, 74, 09-12-83, Kristiansand, Start
+24, Nicolai Næss, NOR, D, 1.80, 78, 19-01-93, Oslo, Klemetsrud
+25, Tosaint Ricketts, CAN, F, 1.83, 77, 06-08-87, Edmonton, FC Timişoara
+26, Bojan Zajić, SRB, M, 1.88, 80, 17-06-80, Kruševac, Partizan Belgrade
+27, Chuma Anene, NOR, M, 1.88, 86, 14-05-93, Oslo, Holmlia
+28, Aaron Samuel, NGA, F, 1.89, 88, 04-06-94, Port Harcourt, Dolphins FC
+30, Kamer Qaka, NOR, M, 1.78, 75, 11-04-95, Brandbu, None
+31, Shåresh Ahmadi, NOR, F, 1.86, 70, 01-05-94, Oslo, None
+33, Shola Akinyemi, NOR, D, 1.88, 85, 12-07-93, Oslo, None
+34, Gudmund Taksdal Kongshavn, NOR, G, 1.88, 83, 23-01-91, Bergen, None
+37, Marcus Engebretsen, NOR, G, , , 03-02-95, , None
+38, Deniz Payasli, NOR, D, , , 19-07-93, , None
+40, Ghayas Zahid, NOR, F, 1.77, 66, 08-09-94, Oslo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Fredrik Stoor, SWE, D, 1.83, 79, 28-02-84, Stockholm, Lillestrøm (On Loan)
+19, Marcus Pedersen, NOR, F, 1.80, 79, 08-06-90, Hamar, Vitesse
+28, Harmeet Singh, NOR, M, 1.80, 72, 12-11-90, Oslo, Feyenoord
+16, Håvard Nielsen, NOR, F, 1.87, 80, 15-07-93, Oslo, Red Bull Salzburg
+10, Veigar Páll Gunnarsson, ISL, F, 1.76, 74, 21-03-80, Reykjavik, Stabæk
+22, Martin Pušić, AUT, F, 1.82, 75, 24-10-87, Vienna, Fredrikstad
+8, Ibba Laajab, NOR, F, 1.85, 78, 21-05-85, Oslo, Stabæk (On Loan)
+20, Dawda Leigh, NOR, M, 1.81, 74, 27-06-86, Oslo, Sandefjord (On Loan)

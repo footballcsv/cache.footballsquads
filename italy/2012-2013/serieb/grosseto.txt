@@ -1,0 +1,60 @@
+=  Grosseto - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Giovanni Formiconi, ITA, D, 1.82, 70, 14-02-89, Genoa, Udinese
+3, Samuele Olivi, ITA, D, 1.83, 70, 01-08-80, Cesena, Pescara
+4, Rolf Feltscher, VEN, D, 1.81, 74, 06-10-90, Bülach, Parma
+5, Yaw Asante, GHA, M, 1.75, 72, 18-05-91, Accra, None
+6, Marco Crimi, ITA, M, 1.77, 68, 17-03-90, Messina, Bari
+7, Nicola Mancino, ITA, M, 1.76, 71, 08-03-84, Naples, Siracusa
+8, Thomas Som, CMR, D, 1.80, 80, 05-07-88, Edéa, Como
+9, Arturo Lupoli, ITA, F, 1.79, 72, 24-06-87, Brescia, Ascoli
+10, Abderrazzak Jadid, MAR, M, 1.75, 68, 01-06-83, Beni Amir, Parma
+11, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Sampdoria
+12, Ivan Lanni, ITA, G, 1.84, 71, 30-05-90, Alatri, Pisa
+13, Kenneth Obodo, NGA, M, 1.82, 82, 05-06-85, Warri, Pisa
+14, Angelo Iorio, ITA, D, 1.80, 73, 26-08-82, Genoa, Piacenza
+15, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, None
+16, Simone Esposito, ITA, M, 1.71, 62, 24-05-90, Turin, Juventus
+17, Henry Giménez, URU, F, 1.76, 69, 13-03-86, Durazno, Bologna
+18, Marco Giovio, ITA, F, 1.83, 78, 05-07-90, Como, Palermo
+19, Federico Barba, ITA, D, 1.88, 85, 01-09-93, Rome, Roma
+20, Matteo Mandorlini, ITA, M, 1.74, 68, 22-10-88, Como, Brescia
+21, Daniele Quadrini, ITA, M, 1.75, 70, 12-07-80, Rome, Sassuolo
+22, Nunzio Franza, ITA, G, 1.80, 75, 24-06-93, Battipaglia, Cosenza
+23, Vedran Celjak, CRO, D, 1.87, 77, 13-08-91, Zabok, Sampdoria
+24, Danilo Soddimo, ITA, F, 1.85, 75, 27-09-87, Rome, Pescara
+25, Filippo Cipriani, ITA, M, , , 06-03-94, Rome, Lazio
+26, Juri Marinelli, ITA, M, , , 27-05-94, Pollena Trocchia, None
+27, Marco Calderoni, ITA, D, 1.80, 75, 18-02-89, Latisana, Piacenza
+28, Gastón Brugman, URU, F, 1.78, 75, 07-09-92, Rosario, Pescara
+29, Emanuele Padella, ITA, D, 1.85, 74, 24-09-88, Rome, Parma
+30, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Internazionale
+31, Marcello Falzerano, ITA, F, 1.67, 68, 12-04-91, Pagani, Chievo Verona
+32, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Pro Vercelli
+33, Michele Rigione, ITA, D, 1.86, 80, 07-03-91, Naples, Internazionale
+34, Valerio Foglio, ITA, D, 1.80, 70, 09-02-85, Legnano, AlbinoLeffe
+35, Gennaro Delvecchio, ITA, M, 1.91, 83, 25-03-78, Barletta, Lecce
+36, Souleymane Coulibaly, CIV, F, 1.72, 64, 26-12-94, Abidjan, Tottenham H
+37, Giulio Faenzi, ITA, M, , , 30-03-94, Grosseto, None
+38, Andrea Amorfini, ITA, M, , , 06-09-95, Grosseto, None
+39, Nagib Attye, SEN, F, 1.75, 67, 08-02-94, Dakar, Renaissance
+40, Edoardo Fanciulli, ITA, F, , , 11-05-97, , None
+41, Alessandro Dalmazzi, ITA, D, , , 03-08-94, Orbetello, None
+44, Andrea Napoli, ITA, G, , , 31-03-94, Atrani, Salernitana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Francesco Uliano, ITA, M, 1.81, 73, 19-09-89, Mugnano di Napoli, Südtirol-Alto Adige (On Loan)
+28, Francesco Mancini, ITA, M, 1.74, 64, 21-06-90, Rome, Milazzo
+17, Marco Guidone, ITA, F, 1.90, 79, 17-05-86, Monza, Fondi (On Loan)
+24, Filippo Tajani, ITA, M, , , 18-05-93, Rome, Fondi (On Loan)
+36, Massimo Bonanni, ITA, M, 1.90, 81, 10-06-82, Rome, Genoa
+20, Ronaldo Pompeu, BRA, M, 1.78, 78, 08-04-90, Caxambu do Sul, Empoli
+4, Angelo Antonazzo, ITA, D, 1.86, 78, 02-10-81, Taranto, Reggina
+11, Davis Curiale, ITA, F, 1.82, 78, 30-12-87, Cologne, Frosinone
+24, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Catania
+1, Nicolás Bremec, ESP, G, 1.88, 85, 17-12-77, Barcelona, Vicenza (On Loan)
+32, Ferdinando Sforzini, ITA, F, 1.93, 83, 04-12-84, Rome, Pescara
+1, Emanuele Belardi, ITA, G, 1.87, 80, 09-10-77, Eboli, 

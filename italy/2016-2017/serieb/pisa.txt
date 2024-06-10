@@ -1,0 +1,53 @@
+=  Pisa - Italian Serie B 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Ujkani, KVX, G, 1.86, 78, 05-07-88, Resnik, Genoa
+2, Stefano Avogadri, ITA, D, 1.80, 69, 11-08-85, Treviglio, Siena
+3, Alessandro Longhi, ITA, D, 1.85, 76, 25-06-89, Desenzano, Sassuolo
+4, Andrea Lisuzzo, ITA, D, 1.83, 76, 26-01-81, Palermo, Spezia
+5, Dario Polverini, ITA, D, 1.84, 76, 06-04-87, Anzio, Real Vicenza
+6, Francesco Di Tacchio, ITA, M, 1.85, 78, 20-04-90, Trani, Virtus Entella
+7, Daniele Mannini, ITA, M, 1.83, 78, 25-10-83, Pisa, Lecce
+8, Luca Verna, ITA, M, 1.81, 78, 21-06-93, Lanciano, Virtus Lanciano
+9, Edgar Çani, ALB, F, 1.92, 90, 22-07-89, Tirana, Catania
+10, Ignacio Lores Varela, URU, M, 1.82, 73, 26-04-91, Montevideo, Palermo
+11, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Internazionale
+12, Angelo Raffaele Giacobbe, ITA, G, 1.88, 80, 02-03-97, Pisa, None
+13, Luca Crescenzi, ITA, D, 1.87, 80, 02-04-92, Rome, Lazio
+14, Samuele Birindelli, ITA, D, 1.75, 70, 19-07-99, Pisa, None
+15, Dario Del Fabro, ITA, D, 1.80, 75, 24-03-95, Alghero, Cagliari
+16, Nicolò Micchi, ITA, F, 1.80, 70, 09-04-98, Barga, None
+17, Matteo Salvi, ITA, D, , , 20-03-99, Pontedera, None
+18, Federico Angiulli, ITA, M, 1.76, 72, 04-03-92, Segrate, Reggiana
+19, Andrea Lazzari, ITA, M, 1.84, 81, 03-12-84, Bergamo, Bari
+20, Diego Peralta, ITA, F, 1.70, 65, 27-09-96, Livorno, Fiorentina
+21, Andrea Tabanelli, ITA, M, 1.92, 78, 02-02-90, Ravenna, Cesena
+22, Daniele Cardelli, ITA, G, 1.80, 73, 16-03-95, Pescia, Latina
+23, Loris Zonta, ITA, M, 1.78, 74, 22-05-97, Bassano del Grappa, Internazionale
+24, Petar Golubović, SRB, D, 1.84, 80, 13-07-94, Belgrade, Roma
+25, Gabriele Kernezo, ITA, F, 1.80, 70, 24-09-97, Florence, None
+26, Giulio Favale, ITA, M, 1.78, 74, 25-01-98, Pisa, None
+27, Milan Milanović, SRB, D, 1.94, 88, 31-03-91, Kosovska Mitrovica, Palermo
+28, Massimiliano Gatto, ITA, F, 1.82, 74, 28-10-95, Trebisacce, Chievo Verona
+29, Matteo Campani, ITA, G, 1.89, 78, 19-08-00, Florence, None
+30, Edoardo Degl'Innocenti, ITA, M, , , 07-08-98, Livorno, Fiorentina
+31, Ramon D'Angina, ITA, D, , , 10-03-97, Pietrasanta, None
+34, Loïck Landre, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Genoa
+36, Roberto Zammarini, ITA, M, 1.80, 73, 05-07-96, Casalmaggiore, Mantova
+37, Elia Giani, ITA, F, 1.86, 75, 20-12-00, Empoli, None
+38, Gaetano Masucci, ITA, F, 1.72, 72, 26-10-84, Avellino, Virtus Entella
+39, Matteo Balduini, ITA, D, , , 10-03-99, Livorno, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Santiago Colombatto, ARG, M, 1.76, 71, 17-01-97, Córdoba, Cagliari
+11, Antonio Montella, ITA, F, 1.82, 72, 04-04-86, Naples, AlbinoLeffe
+18, Georgios Makris, GRE, M, 1.84, 82, 15-11-84, Kavala, 
+23, Umberto Eusepi, ITA, F, 1.82, 78, 09-01-89, Rome, Avellino (On Loan)
+29, Arturo Lupoli, ITA, F, 1.75, 66, 24-06-87, Brescia, Südtirol
+27, Giulio Sanseverino, ITA, M, 1.72, 62, 10-02-94, Palermo, Messina (On Loan)
+30, Simone Fautario, ITA, D, 1.79, 74, 12-02-87, Milan, Modena
+33, Diego Frugoli, ITA, F, 1.80, 77, 06-03-95, Lucca, Varesina
+34, Lorenzo Coccolo, ITA, M, 1.76, 63, 09-11-94, Cirié, Sammaurese
+35, Gaby Mudingayi, BEL, M, 1.80, 80, 01-10-81, Kinshasa, 

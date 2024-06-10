@@ -1,0 +1,56 @@
+=  Charlton Athletic - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dillon Phillips, ENG, G, 1.88, 75, 11-06-95, Hornchurch, None
+2, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Sunderland
+3, Ben Purrington, ENG, D, 1.74, 73, 05-05-96, Exeter, Rotherham U
+4, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, AFC Wimbledon
+5, Tom Lockyer, WAL, D, 1.84, 72, 03-12-94, Cardiff, Bristol R
+6, Jason Pearce, ENG, D, 1.80, 76, 06-12-87, Hillingdon, Wigan Ath
+7, Jonathan Williams, WAL, M, 1.68, 60, 09-10-93, Pembury, Crystal Palace
+8, Jake Forster-Caskey, ENG, M, 1.78, 64, 25-04-94, Southend, Brighton & HA
+9, Lyle Taylor, MSR, F, 1.88, 81, 29-03-90, Staines, AFC Wimbledon
+10, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, MK Dons
+12, Lewis Page, ENG, D, 1.78, 72, 20-05-96, Enfield, West Ham U
+13, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Bolton W
+14, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Sunderland
+15, Darren Pratley, ENG, M, 1.85, 69, 22-04-85, Barking, Bolton W
+17, Macauley Bonne, ZIM, F, 1.80, 76, 26-10-95, Ipswich, Leyton Orient
+18, André Green, ENG, M, 1.80, 71, 02-05-98, Solihull, Aston Villa
+19, Albie Morgan, ENG, M, 1.81, 68, 02-02-00, Portsmouth, None
+20, Chris Solly, ENG, M, 1.73, 71, 20-01-91, Maidstone, None
+21, Matt Smith, WAL, M, 1.76, 71, 22-11-99, Redditch, Manchester C
+23, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, Sporting CP
+24, Josh Cullen, IRL, M, 1.75, 70, 07-04-96, Southend-on-Sea, West Ham U
+25, Taylor Maloney, ENG, M, 1.75, 65, 21-01-99, Gravesend, None
+26, Tomer Hemed, ISR, F, 1.85, 80, 02-05-87, Haifa, Brighton & HA
+27, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Birmingham C
+28, Sam Field, ENG, M, 1.77, 73, 08-05-98, Stourbridge, WBA
+29, Erhun Öztümer, TUR, M, 1.60, 60, 29-05-91, Greenwich, Bolton W
+31, Nathan Harness, ENG, G, 1.85, 68, 19-01-00, Hatfield, West Ham U
+32, George Lapslie, ENG, M, 1.80, 74, 05-09-97, Waltham Forest, None
+33, Ben Dempsey, ENG, M, 1.80, 72, 25-11-99, Tooting, None
+34, Wassim Aouachria, ALG, M, , , 12-05-00, Roubaix, Marseille
+35, Wilberforce Ocran, ENG, F, , , 24-09-99, , Barnsley
+37, Kenneth Yao, ENG, D, , , 05-09-98, , None
+38, Junior Quitirna, GNB, M, 1.70, 64, 25-04-00, , None
+40, Brendan Wiredu, ENG, M, 1.91, 70, 07-11-99, Tower Hamlets, None
+41, Joseph Osaghae, ENG, G, , , 20-02-01, , None
+42, Abraham Odoh, ENG, F, 1.68, 56, 25-06-00, Lambeth, Tooting & Mitcham U
+43, Toby Stevenson, ENG, D, , , 22-11-99, Colchester, Leyton Orient
+44, Josh Davison, ENG, F, 1.88, 79, 16-09-00, Enfield, Enfield T
+45, Alfie Doughty, ENG, M, 1.83, 68, 21-12-99, Hatfield, None
+46, James Vennings, ENG, M, 1.73, 62, 20-11-00, Bexley, None
+47, Johl Powell, ENG, M, , , , , None
+48, Aaron Henry, ENG, M, 1.75, 65, 31-08-03, Basildon, None
+49, Charles Clayden, ENG, M, 1.73, 67, 16-11-00, Havering, Leyton Orient
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Anfernee Dijksteel, NED, D, 1.83, 72, 27-10-96, Amsterdam, Middlesbrough
+14, Jonathan Leko, ENG, F, 1.82, 75, 24-04-99, Kinshasa, WBA
+16, Joe Ledley, WAL, M, 1.83, 73, 23-01-87, Cardiff, Newcastle U Jets
+11, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, Chelsea
+21, Beram Kayal, ISR, M, 1.78, 74, 02-05-88, Jadeidi-Makr, Brighton & HA
+30, Ashley Maynard-Brewer, AUS, G, 1.87, 73, 25-06-99, Joondalup, Dover Ath (On Loan)

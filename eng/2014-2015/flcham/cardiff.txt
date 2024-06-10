@@ -1,0 +1,72 @@
+=  Cardiff City - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.91, 83, 05-03-85, Glasgow, Norwich C
+2, Lee Peltier, ENG, D, 1.78, 73, 11-12-86, Liverpool, Huddersfield T
+3, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Manchester U
+4, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Millwall
+5, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Lorient
+6, Ben Turner, ENG, D, 1.93, 91, 21-01-88, Birmingham, Coventry C
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Kagisho Dikgacoi, RSA, M, 1.80, 80, 24-11-84, Brandfort, Crystal Palace
+9, Kenwyne Jones, TRI, F, 1.88, 75, 05-10-84, Point Fortin, Stoke C
+11, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazackerly, Brighton & HA
+12, Declan John, WAL, M, 1.78, 75, 30-06-95, Merthyr Tydfil, None
+13, Eóin Doyle, IRL, F, 1.78, 73, 12-03-88, Tallaght, Chesterfield
+14, Federico Macheda, ITA, F, 1.83, 76, 22-08-91, Rome, Manchester U
+15, Conor McAleny, ENG, F, 1.78, 79, 12-08-92, Liverpool, Everton
+16, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+17, Aron Gunnarsson, ISL, M, 1.77, 70, 22-04-89, Akureyri, Coventry C
+18, Tom Adeyemi, ENG, M, 1.85, 78, 24-10-91, Norwich, Birmingham C
+19, Anthony Pilkington, IRL, M, 1.83, 76, 06-06-88, Blackburn, Norwich C
+21, Joe Ralls, ENG, M, 1.83, 70, 13-10-93, Aldershot, None
+22, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Crystal Palace
+23, Nicky Maynard, ENG, F, 1.80, 70, 11-12-86, Winsford, West Ham U
+24, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Plymouth Arg
+27, Semi Ajayi, ENG, D, 1.93, 83, 09-11-93, Crayford, Arsenal
+29, Alex Revell, ENG, F, 1.91, 78, 07-07-83, Cambridge, Rotherham U
+30, Matthew Kennedy, SCO, M, 1.75, 65, 01-11-94, Irvine, Everton
+33, Simon Moore, ENG, G, 1.91, 83, 19-05-90, Sandown, Brentford
+36, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Reading
+39, Danny Gabbidon, WAL, D, 1.78, 71, 08-08-79, Cwmbran, Crystal Palace
+40, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Wycombe W
+42, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Accrington Stanley
+43, Theo Wharton, WAL, M, 1.78, 68, 15-11-94, Newport, None
+44, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, None
+45, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, None
+47, Maximiliano Amondarain, URU, D, 1.86, 79, 22-01-93, Salto, Nacional [URU]
+48, Charlie Horton, USA, G, 1.93, 77, 14-09-94, Lambeth, Peterborough U
+49, Josh Yorwerth, WAL, D, 1.85, 74, 28-02-95, Bridgend, None
+50, Anthony Bell, ENG, M, 1.83, 75, 26-05-95, Middlesbrough, Darlington
+51, Gethyn Hill, WAL, F, 1.83, 75, 18-01-95, Pontypool, None
+53, Kane Owen, WAL, D, 1.80, 72, 22-10-94, Cardiff, None
+54, Jaye Bowen, WAL, M, , , 10-04-95, , None
+55, Jazzi Barnum-Bobb, ENG, D, 1.75, 65, 15-09-95, Enfield, Watford
+57, Bradley Wickham, ENG, M, , , 31-10-95, Aberdare, None
+58, Curtis Watkins, WAL, D, , , 11-09-95, , None
+60, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, None
+61, Macauley Southam, WAL, M, , , 02-02-96, , None
+62, Tyler Roche, WAL, M, , , 15-09-95, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Kevin McNaughton, SCO, D, 1.78, 66, 28-08-82, Dundee, Bolton W (On Loan)
+31, Ben Nugent, ENG, D, 1.86, 75, 28-11-93, Street, Yeovil T (On Loan)
+32, Joe Lewis, ENG, G, 1.98, 85, 06-10-87, Broome, Blackpool (On Loan)
+26, Filip Kiss, SVK, M, 1.86, 75, 13-10-90, Dunajská Streda, Ross C (On Loan)
+28, Kévin Theophile Catherine, FRA, D, 1.80, 77, 28-10-89, Saint Brieuc, St-Etienne (On Loan)
+5, Mark Hudson, ENG, D, 1.85, 78, 30-03-82, Guildford, Huddersfield T
+4, Cala, ESP, D, 1.85, 78, 26-11-89, Lebrija, Granada
+38, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, West Ham U
+15, Magnus Eikrem, NOR, M, 1.73, 69, 08-08-90, Molde, Malmö FF
+46, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Colchester U (On Loan)
+20, Mats Møller Dæhli, NOR, M, 1.77, 72, 02-03-95, Oslo, Freiburg
+35, Etien Velikonja, SVN, F, 1.77, 72, 26-12-88, Šempeter pri Gorici, Lierse (On Loan)
+41, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, AFC Wimbledon (On Loan)
+22, Javi Guerra, ESP, F, 1.81, 78, 15-03-83, Vélez, Málaga (On Loan)
+34, Jo Inge Berget, NOR, M, 1.84, 78, 11-09-90, Oslo, Malmö FF
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+10, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Bolton W (On Loan)
+30, Guido Burgstaller, AUT, M, 1.87, 76, 29-04-89, Villach, Nürnberg
+13, Kim Bo-Kyung, KOR, M, 1.78, 73, 06-10-89, Gurye, Wigan Ath

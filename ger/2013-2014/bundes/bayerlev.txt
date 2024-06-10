@@ -1,0 +1,40 @@
+=  Bayer Leverkusen - German Bundesliga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bernd Leno, GER, G, 1.89, 78, 04-03-92, Bietigheim-Bissingen, Stuttgart
+2, Kostas Stafylidis, GRE, D, 1.76, 74, 02-12-93, Koufalia, PAOK
+3, Stefan Reinartz, GER, D, 1.88, 75, 01-01-89, Engelskirchen, None
+4, Philipp Wollscheid, GER, D, 1.94, 84, 06-03-89, Wadern, Nürnberg
+5, Emir Spahić, BIH, D, 1.83, 77, 18-08-80, Dubrovnik, Sevilla
+6, Simon Rolfes, GER, M, 1.89, 82, 21-01-82, Ibbenbüren, Alemannia Aachen
+7, Son Heung-Min, KOR, F, 1.83, 76, 08-07-92, Chuncheon, Hamburg
+8, Lars Bender, GER, M, 1.84, 77, 27-04-89, Rosenheim, 1860 Munich
+9, Eren Derdiyok, SUI, F, 1.90, 83, 12-06-88, Basel, 1899 Hoffenheim
+10, Emre Can, GER, M, 1.86, 76, 12-01-94, Frankfurt am Main, Bayern Munich
+11, Stephan Kießling, GER, F, 1.90, 80, 25-01-84, Lichtenfels, Nürnberg
+13, Jens Hegeler, GER, D, 1.93, 80, 22-01-88, Cologne, None
+14, Roberto Hilbert, GER, M, 1.82, 80, 16-10-84, Forchheim, Beşiktaş
+15, Levin Öztunali, GER, M, 1.76, 70, 15-03-96, Hamburg, Hamburg
+17, Sebastian Boenisch, POL, D, 1.91, 86, 01-02-87, Gliwice, Werder Bremen
+18, Sidney Sam, GER, M, 1.74, 66, 31-01-88, Kiel, Hamburg
+19, Julian Brandt, GER, M, 1.83, 80, 02-05-96, Bremen, Wolfsburg
+20, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, Valencia
+21, Ömer Toprak, TUR, D, 1.86, 81, 21-07-89, Ravensburg, Freiburg
+22, David Yelldell, USA, G, 1.94, 85, 01-10-81, Stuttgart, Duisburg
+23, Robbie Kruse, AUS, F, 1.79, 72, 05-10-88, Brisbane, Fortuna Düsseldorf
+24, Ryu Seung-Woo, KOR, F, 1.72, 67, 17-12-93, Busan, Jeju U
+25, Andrés Palop, ESP, G, 1.84, 75, 22-10-73, Valencia, Sevilla
+26, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Internazionale
+27, Gonzalo Castro, GER, D, 1.70, 74, 11-06-87, Wuppertal, None
+30, Malcolm Cacutalua, GER, D, 1.86, 77, 15-11-94, Troisdorf, Bergisch Gladbach
+32, Jonas Meffert, GER, M, 1.86, 77, 04-09-94, Cologne, None
+35, Alexander Bieler, GER, M, 1.86, 81, 05-09-92, Oberhausen, B Mönchengladbach
+36, Niklas Lomb, GER, G, 1.88, 84, 28-07-93, Cologne, None
+37, Maximilian Wagener, GER, M, 1.81, 74, 03-01-95, Wülfrath, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Karim Bellarabi, GER, F, 1.83, 72, 08-04-90, Berlin, Eintracht Braunschweig (On Loan)
+16, Arkadiusz Milik, POL, F, 1.83, 73, 28-02-94, Tychy, Augsburg (On Loan)
+31, Dominik Kohr, GER, M, 1.83, 75, 31-01-94, Trier, Augsburg (On Loan)

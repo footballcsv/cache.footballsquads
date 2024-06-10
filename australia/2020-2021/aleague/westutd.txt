@@ -1,0 +1,39 @@
+=  Western United - Australian A-League 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filip Kurto, POL, G, 1.91, 82, 14-06-91, Olsztyn, Wellington Phoenix
+2, Aaron Calver, AUS, D, 1.86, 76, 12-01-96, Caringbah, Sydney FC
+3, Brendan Hamill, AUS, D, 1.77, 68, 18-09-92, Sydney, Western Sydney W
+4, Andrew Durante, NZL, D, 1.82, 75, 03-05-82, Sydney, Wellington Phoenix
+5, Dylan Pierias, AUS, D, 1.68, 69, 20-02-00, Melbourne, Melbourne C
+6, Tomoki Imai, JPN, D, 1.78, 78, 29-11-90, Tokyo, Matsumoto Yamaga
+7, Besart Berisha, ALB, F, 1.85, 76, 29-07-85, Priština, Sanfrecce Hiroshima
+8, Lachlan Wales, AUS, M, 1.80, 74, 19-10-97, Terrigal, Melbourne C
+9, Kaine Sheppard, ENG, F, 1.90, 80, 26-11-93, Wellingborough, Newcastle U Jets
+10, Steven Luštica, AUS, M, 1.72, 68, 12-04-91, Canberra, Qizilqum Zarafshon
+11, Connor Pain, AUS, F, 1.75, 68, 11-11-93, Hong Kong, Central Coast Mariners
+12, Dalibor Markovic, AUS, D, -, -, 17-01-02, -, Melbourne Victory
+13, Ivan Vujica, CRO, D, 1.72, 70, 20-04-97, Sydney, Newcastle U Jets
+14, Max Burgess, AUS, M, 1.85, 70, 16-01-95, Paddington, Wellington Phoenix
+17, Bradden Inman, AUS, M, 1.85, 79, 10-12-91, Adelaide, ATK Mohun Bagan
+19, Joshua Risdon, AUS, D, 1.69, 70, 27-07-92, Bunbury, Western Sydney W
+20, Víctor Sánchez, ESP, M, 1.74, 72, 08-09-87, Rubí, Espanyol
+21, Sebastian Pasquali, AUS, M, 1.76, 70, 07-11-99, Wangaratta, Ajax
+22, Tomislav Uskok, AUS, D, 1.96, 86, 22-06-91, Melbourne, Sydney U
+23, Alessandro Diamanti, ITA, F, 1.80, 72, 02-05-83, Prato, Livorno
+25, Luke Đuzel, AUS, M, 1.82, 71, 05-02-02, St Albans [AUS], Melbourne C
+26, Nicolas Milanović, AUS, F, 1.85, 76, 14-11-01, Penrith [AUS], Western Sydney W
+27, Jerry Skotadis, AUS, M, 1.78, 73, 07-03-00, Randwick, Sydney FC
+29, Ayom Majok, AUS, M, 1.82, 70, 01-01-03, -, Cumberland U
+30, Ryan Scott, AUS, G, 1.84, 85, 18-12-95, Frankston, Bentleigh Greens
+31, Adisu Bayew, AUS, M, -, -, 27-12-01, -, Green Gully
+32, Manyluak Aguek, AUS, F, -, -, 08-02-02, -, South Melbourne
+34, Iker Guarrotxena, ESP, M, 1.77, 67, 06-12-92, Bilbao, Volos
+40, Charlie Emery, AUS, G, 1.90, 78, 11-06-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Apostolos Stamatelopoulos, AUS, F, 1.84, 84, 09-04-99, Adelaide, Newcastle U Jets
+17, Joshua Cavallo, AUS, M, 1.70, 62, 13-11-99, East Bentleigh, Adelaide U
+12, Stefan Zinni, AUS, F, 1.83, 71, 06-07-96, -, Avondale

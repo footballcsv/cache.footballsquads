@@ -1,0 +1,39 @@
+=  Celta Vigo - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Álvarez, ESP, G, 1.79, 75, 03-08-86, Catoria, Celta B
+2, Hugo Mallo, ESP, D, 1.81, 78, 22-06-91, Marín, Celta B
+3, Andreu Fontàs, ESP, D, 1.81, 72, 14-11-89, Banyoles, Barcelona
+6, Nemanja Radoja, SRB, D, 1.86, 77, 06-02-93, Novi Sad, Vojvodina
+7, Maximiliano Gómez, URU, F, 1.86, 91, 14-08-96, Paysandú, Defensor Sporting
+8, Pablo Hernández, CHI, M, 1.84, 79, 24-10-86, Capital Federal, O'Higgins
+9, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Torino
+10, Iago Aspas, ESP, F, 1.76, 67, 11-08-87, Moaña, Sevilla
+11, Pione Sisto, DEN, M, 1.71, 65, 04-02-95, Kampala, FC Midtjylland
+13, Rubén Blanco, ESP, G, 1.88, 70, 25-07-95, Vigo, Celta B
+14, Stanislav Lobotka, SVK, M, 1.70, 64, 25-11-94, Trenčín, FC Nordsjælland
+15, Róbert Mazáň, SVK, D, 1.80, 75, 09-02-94, Trenčín, MŠK Žilina
+16, Jozabed, ESP, M, 1.80, 67, 08-03-91, Mairena del Alcor, Fulham
+18, Daniel Wass, DEN, D, 1.81, 74, 31-05-89, Gladsaxe, Évian TG
+19, Johny, ESP, D, 1.75, 70, 03-03-94, Vigo, Celta B
+20, Sergi Gómez, ESP, D, 1.81, 76, 28-07-92, Arenys de Mar, Barcelona B
+21, Emre Mor, TUR, M, 1.68, 60, 24-07-97, Brønshøj, Borussia Dortmund
+22, Gustavo Cabral, ARG, D, 1.82, 81, 14-10-85, Isidro Casanova, Arsenal [ARG]
+24, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Fiorentina
+26, Brais Méndez, ESP, F, 1.87, 78, 07-01-97, Mos, Celta B
+27, Dani Sotres, ESP, G, 1.82, 78, 21-05-93, Santiago de Cudeyo, Levante B
+28, Diego Alende, ESP, D, 1.80, 76, 24-08-97, Santiago de Compostela, Celta B
+30, Diego Pampín, ESP, D, 1.73, 70, 15-03-00, Oleiros, Celta B
+31, Dejan Dražić, SRB, M, 1.75, 69, 26-09-95, Sombor, OFK Belgrade
+32, Dennis-Yerai Eckert, GER, F, 1.81, 79, 09-01-97, Bonn, B Mönchengladbach
+35, Fran Vieites, ESP, G, 1.96, 88, 07-05-99, Pontecesures, Celta B
+36, Víctor Pastrana, ESP, M, 1.80, 70, 27-09-96, Guadalajara, Alcorcón B
+37, Dani Molina, ESP, M, 1.83, 72, 14-03-96, Huelva, Recreativo Huelva
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Claudio Beauvue, FRA, F, 1.74, 66, 16-04-88, Saint-Claude, Leganés (On Loan)
+9, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, Alavés (On Loan)
+25, Iván Villar, ESP, G, 1.83, 76, 09-07-97, Aldán, Levante (On Loan)
+17, Andrew Hjulsager, DEN, M, 1.77, 71, 15-01-95, Amager, Granada (On Loan)

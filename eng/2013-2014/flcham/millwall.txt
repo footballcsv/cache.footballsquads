@@ -1,0 +1,60 @@
+=  Millwall - English Football League Championship 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Forde, IRL, G, 1.91, 87, 20-12-79, Galway, Cardiff C
+2, Alan Dunne, IRL, D, 1.78, 70, 23-08-82, Dublin, None
+3, Danny Shittu, NGA, D, 1.91, 95, 02-09-80, Lagos, QPR
+4, Josh Wright, ENG, M, 1.85, 73, 06-11-89, Tower Hamlets, Scunthorpe U
+5, Paul Robinson, ENG, D, 1.85, 74, 07-01-82, Barnet, None
+7, Liam Feeney, ENG, M, 1.83, 76, 28-04-86, Hammersmith, Bournemouth
+8, Jermaine Easter, WAL, F, 1.75, 77, 15-01-82, Cardiff, Crystal Palace
+9, Steve Morison, WAL, F, 1.88, 76, 29-08-83, Enfield, Leeds U
+10, Nicky Bailey, ENG, M, 1.78, 80, 10-06-84, Hammersmith, Middlesbrough
+11, Martyn Woolford, ENG, M, 1.83, 74, 13-10-85, Pontefract, Bristol C
+12, Shane Lowry, AUS, D, 1.85, 88, 12-06-89, Perth [AUS], Aston Villa
+13, Lee Martin, ENG, M, 1.80, 80, 09-02-87, Taunton, Ipswich T
+14, Ryan Fredericks, ENG, M, 1.73, 72, 10-10-92, Potters Bar, Tottenham H
+15, Edward Upson, ENG, M, 1.78, 73, 21-11-89, Bury St Edmunds, Yeovil T
+16, Mark Beevers, ENG, D, 1.93, 80, 21-11-89, Barnsley, Sheffield W
+17, Shaun Williams, IRL, M, 1.76, 75, 19-10-86, Dublin, MK Dons
+18, Richard Chaplow, ENG, M, 1.75, 57, 02-02-85, Accrington, Southampton
+19, Simeon Jackson, CAN, F, 1.70, 72, 28-03-87, Kingston, Eintracht Braunschweig
+21, Jack Smith, ENG, D, 1.80, 72, 14-10-83, Hemel Hempstead, Swindon T
+22, DJ Campbell, ENG, F, 1.78, 72, 12-11-81, London, Blackburn R
+23, Tom Bender, WAL, D, 1.91, 76, 19-01-93, Harlow, Colchester U
+24, Jake Goodman, ENG, D, 1.87, 72, 05-08-93, Bexley, None
+25, Justin Hoyte, ENG, D, 1.80, 70, 20-11-84, Waltham Forest, Middlesbrough
+26, Nadjim Abdou, COM, M, 1.80, 71, 13-07-84, Martigues, Plymouth Arg
+27, Scott McDonald, AUS, F, 1.73, 78, 21-08-83, Melbourne, Middlesbrough
+28, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Bournemouth
+29, Owen Garvan, IRL, M, 1.83, 67, 29-01-88, Dublin, Crystal Palace
+30, Aiden O'Brien, IRL, F, 1.73, 69, 04-10-93, Islington, None
+31, Fede Bessone, ARG, D, 1.80, 76, 23-01-84, Córdoba, Sporting Kansas City
+32, John Marquis, ENG, F, 1.85, 71, 16-05-92, Lewisham, None
+33, Denzel Gerrar, ENG, G, 1.84, 85, 19-09-94, London, VSI Rio Maior
+34, Fred Onyedinma, ENG, M, 1.85, 70, 24-11-96, Plumstead, None
+35, Sid Nelson, ENG, D, 1.85, 75, 01-01-95, Lewisham, None
+36, Jack Powell, ENG, M, 1.77, 62, 29-01-94, Canning Town, None
+37, Josh Siafa, ENG, D, 1.83, 64, 07-10-94, Farnborough (Kent), West Ham U
+38, Niall McManus, ENG, M, 1.80, 70, 07-10-94, Epsom, None
+39, Charlie Penny, ENG, F, 1.83, 70, 01-10-94, Bromley, None
+40, Will De Havilland, ENG, D, 1.83, 70, 08-11-94, Huntingdon, None
+41, Alfie Pavey, ENG, F, 1.86, 78, 02-10-95, Southwark, Maidstone U
+42, Stefan Maierhofer, AUT, F, 2.02, 98, 16-08-82, Gablitz, Köln
+43, Stephen Bywater, ENG, G, 1.88, 81, 07-06-81, Manchester, Sheffield W
+44, Carlos Edwards, TRI, M, 1.80, 69, 24-10-78, Port of Spain, Ipswich T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Dany N'Guessan, FRA, M, 1.85, 83, 11-08-87, Ivry-sur-Seine, Swindon T
+29, Andy Marshall, ENG, G, 1.88, 86, 14-04-75, Bury St Edmunds, 
+31, Arran Lee-Barrett, ENG, G, 1.88, 81, 28-02-84, Ipswich, Bolton W
+17, Shaun Derry, ENG, M, 1.83, 82, 06-12-77, Nottingham, QPR
+29, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, Leicester C
+14, James Henry, ENG, M, 1.85, 75, 10-06-89, Woodley, Wolverhampton W
+17, Guy Moussi, FRA, M, 1.87, 82, 23-01-85, Bondy, Nottingham F
+15, Paul Connolly, ENG, D, 1.83, 74, 29-09-83, Liverpool, Crawley T
+22, Karleigh Osborne, ENG, D, 1.88, 78, 19-03-88, Southall, Bristol C
+20, Andrew Keogh, IRL, F, 1.83, 70, 16-05-86, Dublin, Blackpool (On Loan)
+6, Liam Trotter, ENG, M, 1.88, 77, 24-08-88, Ipswich, Bolton W (On Loan)

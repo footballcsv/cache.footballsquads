@@ -1,0 +1,49 @@
+=  Sampdoria - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Angelo da Costa, BRA, G, 1.86, 81, 12-11-83, São Bernardo do Campo, Ancona
+3, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Reggina
+4, Bartosz Salamon, POL, D, 1.93, 79, 01-05-91, Poznań, Milan
+5, Renan, BRA, M, 1.86, 82, 19-06-86, Batatais, CFR Cluj
+6, Matías Rodríguez, ARG, M, 1.78, 76, 14-04-86, San Luis, Universidad de Chile
+7, Maxi López, ARG, F, 1.90, 88, 03-04-84, Capital Federal, Catania
+8, Shkodran Mustafi, GER, D, 1.84, 82, 17-04-92, Bad Hersfeld, Everton
+9, Stefano Okaka Chuka, ITA, F, 1.86, 83, 09-08-89, Castiglione del Lago, Parma
+10, Nenad Krstičić, SRB, M, 1.82, 75, 03-07-90, Belgrade, OFK Belgrade
+11, Manolo Gabbiadini, ITA, F, 1.86, 81, 26-11-91, Calcinate, Juventus
+12, Gianluca Sansone, ITA, F, 1.73, 67, 12-05-87, Potenza, Torino
+13, Gaetano Berardi, SUI, D, 1.79, 70, 21-08-88, Sorengo, Brescia
+14, Pedro Mba Obiang, ESP, M, 1.85, 75, 27-03-92, Alcalà de Henares, Atlético Madrid
+15, Paweł Wszołek, POL, M, 1.86, 77, 30-04-92, Tczew, Polonia Warszawa
+17, Angelo Palombo, ITA, M, 1.77, 77, 25-09-81, Ferentino, Fiorentina
+19, Vasco Regini, ITA, D, 1.83, 75, 09-09-90, Cesena, Cesena
+21, Roberto Soriano, ITA, M, 1.81, 76, 08-02-91, Darmstadt, Bayern Munich
+22, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Pescara
+23, Éder, BRA, F, 1.79, 73, 15-11-86, Lauro Muller, Empoli
+28, Daniele Gastaldello, ITA, D, 1.85, 77, 25-06-83, Camposampiero, Juventus
+29, Lorenzo De Silvestri, ITA, D, 1.85, 84, 23-05-88, Rome, Fiorentina
+30, Vincenzo Fiorillo, ITA, G, 1.90, 74, 13-01-90, Genoa, Juventus
+31, Mattia Lombardo, ITA, M, 1.84, 74, 14-02-95, Genoa, None
+32, Simone Dejori, ITA, D, , , 14-05-95, Rome, None
+33, Edoardo Oneto, ITA, F, 1.82, 71, 23-02-96, Lavagna, None
+34, Giovanni Fenati, ITA, M, , , 16-09-95, Genoa, None
+35, Andrea Corsini, ITA, F, , , 24-02-96, Genoa, None
+44, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Manchester U
+77, Alessio Sestu, ITA, M, 1.80, 73, 29-09-83, Rome, Chievo Verona
+95, Wladimiro Falcone, ITA, G, 1.95, 85, 12-04-95, Rome, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Alessandro Martinelli, SUI, M, 1.75, 65, 30-05-93, Mendrisio, Venezia (On Loan)
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Milan
+25, Enzo Maresca, ITA, M, 1.80, 77, 10-02-80, Pontecagnano Faiano, Palermo
+35, Simon Poulsen, DEN, D, 1.84, 76, 07-10-84, Sønderborg, AZ Alkmaar
+27, Mirko Eramo, ITA, M, 1.84, 75, 12-07-89, Acquaviva delle Fonti, Empoli (On Loan)
+20, Antonino Barilla', ITA, M, 1.80, 76, 01-04-88, Reggio Calabria, Reggina
+33, Savvas Gentsoglou, GRE, M, 1.85, 75, 19-09-90, Alexandroupoli, Spezia (On Loan)
+79, Davide Gavazzi, ITA, M, 1.81, 72, 07-05-86, Sondrio, Ternana (On Loan)
+92, Andrea Tozzo, ITA, G, 1.92, 85, 30-08-92, Riva del Garda, Latina (On Loan)
+7, Paolo Castellini, ITA, D, 1.84, 78, 25-03-79, Brescia, Livorno
+9, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Parma
+86, Zsolt Laczkó, HUN, M, 1.83, 80, 18-12-86, Szeged, Ferencváros (On Loan)

@@ -1,0 +1,37 @@
+=  San Jose Earthquakes - USA Major League Soccer 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Bingham, USA, G, 1.88, 84, 19-10-89, Castro Valley, UC Berkeley
+2, Kofi Sarkodie, USA, D, 1.75, 75, 22-03-91, Dayton, Houston Dynamo
+3, François Affolter, SUI, D, 1.84, 63, 13-03-91, Biel/Bienne, Luzern
+4, Marvell Wynne, USA, D, 1.75, 78, 08-05-86, Pittsburgh, Colorado Rapids
+5, Víctor Bernárdez, HON, D, 1.84, 78, 24-05-82, La Ceiba, Anderlecht
+6, Shea Salinas, USA, M, 1.78, 68, 24-06-86, Lubbock, Vancouver Whitecaps
+7, Cordell Cato, TRI, F, 1.75, 68, 15-07-92, Carenage, Seattle Sounders
+8, Chris Wondolowski, USA, F, 1.85, 75, 28-07-83, Danville, Houston Dynamo
+9, Danny Hoesen, NED, F, 1.86, 75, 15-01-91, Kerkrade, FC Groningen
+10, Jahmir Hyka, ALB, M, 1.68, 57, 08-03-88, Tirana, Luzern
+11, Valeri Kazaishvili, GEO, F, 1.83, 74, 29-01-93, Ozurgeti, Vitesse
+12, Matt Bersano, USA, G, 1.85, 84, 10-09-92, Chandler, Seattle Sounders
+13, Lindo Mfeka, RSA, M, 1.65, 70, 29-03-94, Durban, Univ of Sth Florida
+14, Jackson Yueill, USA, M, 1.78, 75, 19-03-97, Bloomington, UCLA
+15, Andrés Imperiale, ARG, D, 1.82, 78, 08-07-86, Rosario, Deportivo Saprissa
+17, Darwin Cerén, SLV, M, 1.78, 73, 31-12-89, Quezaltepeque, Orlando C
+18, Kip Colvey, NZL, D, 1.78, 74, 15-03-94, Lihue, Cal Poly San Luis Obispo
+21, Marco Ureña, CRC, F, 1.79, 70, 05-03-90, San José [CRC], Brøndby
+22, Tommy Thompson, USA, F, 1.70, 66, 15-08-95, Hinsdale, Indiana Univ
+23, Florian Jungwirth, GER, M, 1.80, 76, 27-01-89, Gräfelfing, Darmstadt
+24, Nick Lima, USA, D, 1.75, 81, 17-11-94, Castro Valley, UC Berkeley
+25, Quincy Amarikwa, USA, F, 1.75, 73, 29-10-87, Bakersfield, Chicago Fire
+27, Fatai Alashe, USA, M, 1.83, 77, 21-10-93, Southfield, Michigan State Univ
+28, Andrew Tarbell, USA, G, 1.91, 88, 07-10-93, Mandeville, Clemson Univ
+30, Anibal Godoy, PAN, M, 1.80, 72, 10-02-90, Ciudad de Panamá, Honvéd
+31, Harold Cummings, PAN, D, 1.88, 84, 01-03-82, Ciudad de Panamá, Árabe Unido
+33, Marc Pelosi, USA, M, 1.83, 75, 17-06-94, Bad Säckingen, Liverpool
+38, Matheus Silva, BRA, D, 1.88, 90, 08-12-96, São Paulo, Montverde Academy
+49, Simon Dawkins, JAM, F, 1.78, 70, 01-12-87, Edgware, Derby Co
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Shaun Francis, JAM, D, 1.83, 75, 02-10-86, Mandeville, Montreal Impact

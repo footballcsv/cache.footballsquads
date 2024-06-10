@@ -1,0 +1,40 @@
+=  Bologna - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Angelo da Costa, BRA, G, 1.86, 81, 12-11-83, São Bernardo do Campo, Sampdoria
+4, Lyanco, BRA, D, 1.87, 75, 01-02-97, Vitória, Torino
+5, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Universidad Católica
+6, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Newell's Old Boys
+7, Riccardo Orsolini, ITA, F, 1.83, 73, 24-01-97, Ascoli Piceno, Juventus
+8, Ádám Nagy, HUN, M, 1.78, 70, 17-06-95, Budapest, Ferencváros
+9, Federico Santander, PAR, F, 1.87, 84, 04-06-91, San Lorenzo, FC København
+10, Nicola Sansone, ITA, F, 1.75, 68, 10-09-91, Munich, Villarreal
+11, Ladislav Krejčí, CZE, M, 1.78, 70, 05-07-92, Prague, Sparta Prague
+14, Federico Mattiello, ITA, D, 1.84, 70, 14-07-95, Barga, Atalanta
+15, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, Internazionale
+16, Andrea Poli, ITA, M, 1.81, 77, 29-09-89, Vittorio Veneto, Milan
+17, Godfred Donsah, GHA, M, 1.76, 80, 07-06-96, Accra, Cagliari
+18, Filip Helander, SWE, D, 1.92, 84, 22-04-93, Malmö, Verona
+19, Juan Manuel Valencia, COL, M, 1.85, 79, 20-06-98, Suárez, Cortuluá
+20, Simone Edera, ITA, F, 1.74, 70, 09-01-97, Turin, Torino
+21, Roberto Soriano, ITA, M, 1.82, 76, 08-02-91, Darmstadt, Villarreal
+22, Mattia Destro, ITA, F, 1.82, 80, 20-03-91, Ascoli Piceno, Roma
+23, Danilo, BRA, D, 1.85, 75, 10-05-84, São Bernardo do Campo, Udinese
+24, Rodrigo Palacio, ARG, F, 1.75, 70, 05-02-82, Bahía Blanca, Internazionale
+25, Gabriele Corbo, ITA, D, 1.85, 76, 11-01-00, Naples, Spezia
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, Roma
+29, Antonio Santurro, ITA, G, 1.92, 86, 29-02-92, Parma, Siracusa
+31, Blerim Džemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Galatasaray
+32, Mattias Svanberg, SWE, M, 1.85, 77, 05-01-99, Malmö, Malmö FF
+33, Arturo Calabresi, ITA, D, 1.86, 75, 17-03-96, Rome, Roma
+35, Mitchell Dijks, NED, D, 1.93, 90, 09-02-93, Purmerend, Ajax
+91, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Sassuolo
+99, Caio Pirana, BRA, G, , , 08-05-99, São Paulo, Campodarsego
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Felipe Avenatti, URU, F, 1.96, 86, 26-04-93, Montevideo, Kortrijk (On Loan)
+4, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Udinese (On Loan)
+30, Orji Okwonkwo, NGA, F, 1.78, 72, 19-01-98, Benin City, Montreal Impact (On Loan)
+3, Giancarlo González, CRC, D, 1.86, 78, 08-02-88, San José [CRC], LA Galaxy

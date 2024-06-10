@@ -1,0 +1,43 @@
+=  Napoli - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gennaro Iezzo, ITA, G, 1.85, 81, 08-06-73, Castellammare di Stabia, Cagliari
+2, Gianluca Grava, ITA, D, 1.72, 68, 07-03-77, Caserta, Catanzaro
+3, Luigi Vitale, ITA, M, 1.78, 71, 05-10-87, Castellammare di Stabia, None
+4, Francesco Montervino, ITA, M, 1.74, 70, 07-05-78, Taranto, Catania
+5, Michele Pazienza, ITA, M, 1.78, 75, 05-08-82, San Severo, Fiorentina
+6, Salvatore Aronica, ITA, D, 1.82, 77, 20-01-78, Palermo, Reggina
+7, Ezequiel Lavezzi, ARG, F, 1.73, 75, 03-05-85, Villa Gobernador Gálvez, San Lorenzo
+8, Manuele Blasi, ITA, M, 1.78, 67, 17-08-80, Civitavecchia, Juventus
+9, Germán Denis, ARG, F, 1.83, 78, 10-09-81, Lomas de Zamora, Independiente
+11, Christian Maggio, ITA, D, 1.84, 79, 11-02-82, Montecchio Maggiore, Sampdoria
+12, Inácio Piá, BRA, F, 1.78, 68, 22-03-82, Ibitinga, Atalanta
+13, Fabiano Santacroce, ITA, D, 1.81, 72, 24-08-86, Camaçari, Brescia
+15, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Boca Juniors
+17, Marek Hamšík, SVK, M, 1.83, 73, 27-07-87, Banská Bystrica, Brescia
+18, Mariano Bogliacino, URU, M, 1.77, 72, 02-06-80, Colonia del Sacramento, Sambenedettese
+20, Andrea Russotto, ITA, F, 1.74, 70, 25-05-88, Rome, Bellinzona
+22, Matteo Gianello, ITA, G, 1.89, 84, 07-05-76, Bovolone, Lodigiani
+23, Walter Gargano, URU, M, 1.68, 65, 23-07-84, Paysandù, Danubio
+25, Marcelo Zalayeta, URU, F, 1.88, 89, 05-12-78, Montevideo, Juventus
+28, Paolo Cannavaro, ITA, D, 1.85, 83, 26-06-81, Naples, Parma
+30, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, Argentinos Juniors
+32, Nicolás Amodio, URU, M, 1.79, 79, 10-03-83, Montevideo, Sambenedettese
+33, Camillo Ciano, ITA, F, 1.81, 73, 22-02-90, Marcianise, None
+34, Francesco Bruno, ITA, D, , , 23-01-90, , None
+44, Luigi Sepe, ITA, G, 1.85, 75, 08-05-91, Torre del Greco, None
+70, Luca Bucci, ITA, G, 1.80, 79, 13-03-69, Bologna, Parma
+77, Daniele Mannini, ITA, M, 1.83, 78, 25-10-83, Viareggio, Brescia
+83, Leandro Rinaudo, ITA, D, 1.91, 78, 09-05-83, Palermo, Palermo
+96, Matteo Contini, ITA, D, 1.82, 76, 16-04-80, Gemonio, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Roberto De Zerbi, ITA, F, 1.75, 67, 06-06-79, Brescia, Avellino (On Loan)
+21, Maurizio Domizzi, ITA, D, 1.85, 80, 28-06-80, Rome, Udinese
+39, Luca Lacrimini, ITA, D, 1.70, 67, 10-03-78, Città di Castello, Cavese
+40, Gaetano Grieco, ITA, F, 1.75, 69, 07-11-82, Naples, Juve Stabia
+27, Mario D'Urso, ITA, D, , , 10-10-89, , Giulianova (On Loan)
+19, Mirko Savini, ITA, D, 1.82, 78, 11-03-79, Rome, Palermo
+24, Samuele Dalla Bona, ITA, M, 1.85, 76, 06-02-81, Sandonà di Pieve, 

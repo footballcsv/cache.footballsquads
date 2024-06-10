@@ -1,0 +1,44 @@
+=  Fortaleza - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Boeck, BRA, G, 1.91, 83, 28-11-84, Santa Cruz, Chapecoense
+2, Tinga, BRA, D, 1.79, 78, 01-09-93, Porto Alegre, Bahia
+3, Juan Sebastián Quintero, COL, D, 1.84, 79, 23-03-95, Cali, Deportivo Cali
+4, Roger Carvalho, BRA, D, 1.84, 74, 10-12-86, Arapongas, Tombense
+5, Paulo Roberto, BRA, M, 1.76, 79, 06-03-87, Lavras, Corinthians
+6, Carlinhos, BRA, D, 1.67, 71, 29-11-86, Piripiri, América Mineiro
+7, Edinho, BRA, F, 1.58, 60, 08-08-94, Baturité, Atlético Mineiro
+8, Derley, BRA, M, 1.87, 70, 02-08-86, Anápolis, Santa Cruz
+9, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Chapecoense
+10, Matheus Vargas, BRA, M, 1.81, 74, 18-06-96, Claudia, Audax-SP
+11, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Buriram U
+12, Felipe Alves, BRA, G, 1.87, 79, 21-05-88, São Paulo, Atlético Paranaense
+13, Gabriel Dias, BRA, D, 1.83, 79, 10-05-94, Francisco Morato, Internacional
+15, Felipe, BRA, M, 1.84, 76, 10-04-94, Maranguape, Maranguape
+19, Santiago Romero, URU, M, 1.76, 76, 15-02-90, Montevideo, Nacional [URU]
+20, Romarinho, BRA, F, 1.68, 66, 01-03-94, Natal, Globo
+22, Araruna, BRA, M, 1.76, 70, 12-03-96, Porto Alegre, São Paulo
+23, Max Walef, BRA, G, 1.81, 73, 23-10-93, Teresina, None
+25, Paulão, BRA, D, 1.87, 82, 25-02-86, Bahia, Internacional
+26, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Bahia
+27, Nenê Bonilha, BRA, M, 1.75, 70, 17-02-92, São João da Boa Vista, Veracruz
+28, Marlon, BRA, M, 1.75, 68, 26-02-90, Curitiba, Sampaio Corrêa
+29, Adalberto, BRA, D, 1.83, 81, 16-11-87, São Miguel do Gostoso, Santa Cruz-RN
+30, Bruno Melo, BRA, D, 1.83, 72, 26-10-92, Paracuru, Quixadá
+32, Mariano Vázquez, ARG, M, 1.73, 71, 20-12-92, Mar del Plata, Deportivo Pasto
+40, Tião, BRA, M, 1.87, 80, 25-09-00, Campos Sales, None
+55, Juninho, BRA, M, 1.75, 70, 20-03-86, Rio de Janeiro, Bahia
+86, Kieza, BRA, F, 1.80, 71, 24-09-86, Vitória, Botafogo
+91, Éderson, BRA, F, 1.72, 74, 13-03-89, Pentecoste, Kashiwa Reysol
+95, Felipe Pires, BRA, M, 1.78, 68, 18-04-95, São Paulo, 1899 Hoffenheim
+96, Matheus Alessandro, BRA, F, 1.71, 65, 10-07-96, Rio de Janeiro, Fluminense
+97, André Luis, BRA, F, 1.79, 71, 21-04-97, Pouso Alegre, Corinthians
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Junior Santos, BRA, F, 1.88, 80, 11-10-94, Conceição do Jacuípe, Ituano
+10, Dodô, BRA, M, 1.71, 60, 05-09-94, Vespasiano, Atlético Mineiro
+17, Marcinho, BRA, F, 1.73, 66, 16-05-95, Belford Roxo, Internacional
+25, Diguinho, BRA, D, 1.85, 70, 26-05-01, Fortaleza, Palmeiras
+14, Nathan Otávio, BRA, D, 1.87, 81, 02-06-90, Toledo, Fluminense

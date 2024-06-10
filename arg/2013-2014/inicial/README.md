@@ -1,0 +1,23 @@
+# Argentinian Primera División 2013/14 Inicial
+
+20 teams
+- [All Boys](allboys.txt)
+- [Argentinos Juniors](argjnrs.txt)
+- [Arsenal](arsenal.txt)
+- [Atlético Rafaela](atletraf.txt)
+- [Belgrano (Córdoba)](belgrano.txt)
+- [Boca Juniors](boca.txt)
+- [Colón (Santa Fe)](colon.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Gimnasia y Esgrima (La Plata)](gimnasia.txt)
+- [Godoy Cruz (Mendoza)](godoycruz.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Olimpo (Bahía Blanca)](olimpo.txt)
+- [Quilmes](quilmes.txt)
+- [Racing Club](racing.txt)
+- [River Plate](river.txt)
+- [Rosario Central](rosario.txt)
+- [San Lorenzo](sanloren.txt)
+- [Tigre](tigre.txt)
+- [Vélez Sarsfield](velez.txt)

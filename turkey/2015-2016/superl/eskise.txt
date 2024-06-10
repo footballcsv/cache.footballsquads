@@ -1,0 +1,51 @@
+=  Eskisehirspor - Turkish Süper Lig 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ali Şaşal Vural, TUR, G, 1.87, 80, 10-07-90, Konak, Altay
+3, Anıl Karaer, TUR, D, 1.85, 75, 04-07-88, Istanbul, Erciyesspor
+5, Sezgin Coşkun, TUR, D, 1.85, 81, 23-08-84, Ardahan, Gaziantep BB
+6, Alpaslan Öztürk, BEL, D, 1.84, 83, 16-07-93, Antwerp, Standard Liège
+7, Emre Güral, TUR, F, 1.87, 80, 05-04-89, Offenbach, Trabzonspor
+8, Onur Bayramoğlu, TUR, M, 1.87, 75, 04-01-90, Eskişehir, Gençlerbirliği
+9, Engin Bekdemir, TUR, M, 1.71, 70, 07-02-92, Beringen, Rizespor
+14, Dorukhan Toköz, TUR, M, 1.80, 72, 21-05-96, Eskişehir, None
+15, Sebastián Pinto, CHI, F, 1.85, 89, 15-02-86, Santiago, O'Higgins
+16, Leandro Junio, BRA, M, 1.75, 70, 12-06-97, Belo Horizonte, None
+17, Kaan Kanak, TUR, M, 1.78, 74, 06-10-90, Sarıkaya, Ankaragücü
+21, Jordi, ESP, D, 1.85, 82, 16-05-87, Lleida, Betis
+22, Dossa Júnior, POR, D, 1.88, 79, 28-07-86, Lisbon, Konyaspor
+23, Emre Güngör, TUR, D, 1.82, 81, 01-08-84, Istanbul, Karabükspor
+25, Ruud Boffin, BEL, G, 1.96, 86, 05-11-87, Sint-Truiden, West Ham U
+27, Nadir Çiftçi, NED, F, 1.83, 77, 12-02-92, Den Haag, Celtic
+28, Nzuzi Toko, COD, M, 1.71, 66, 20-12-90, Kinshasa, Brighton & HA
+33, Aytaç Öden, TUR, D, 1.80, 70, 26-08-91, Mersin, Ankaragücü
+35, Jeremy Bokila, COD, F, 1.88, 78, 14-11-88, Kinshasa, Guangzhou R&F
+45, Vladyslav Kulach, UKR, F, 1.77, 73, 07-05-93, Donetsk, Shakhtar Donetsk-2
+65, Kamil Ahmet Çörekçi, TUR, D, 1.73, 73, 01-02-92, London, Kayserispor
+66, Kıvanç Karakaş, TUR, M, 1.80, 71, 03-03-85, Istanbul, Şanlıurfaspor
+68, İshak Doğan, TUR, D, 1.87, 83, 09-08-90, Hagen, Trabzonspor
+77, Mehmet Murat Uçar, TUR, F, 1.72, 65, 01-08-91, Mus, Aydınspor
+80, Tornike Okriashvili, GEO, M, 1.81, 71, 12-02-92, Tbilisi, KRC Genk
+87, Sinan Ören, TUR, G, 1.85, 74, 21-11-87, Eskişehir, None
+88, Anel Hadžić, BIH, M, 1.84, 73, 16-08-89, Velika Kladuša, Sturm Graz
+92, Goran Čaušić, SRB, M, 1.80, 74, 05-05-92, Belgrade, Rad
+96, Mehmet Feyzi Yıldırım, TUR, M, 1.75, 67, 23-01-96, Çifteler, None
+98, Buğra Temel, TUR, M, 1.94, 80, 04-08-98, Eskişehir, None
+99, Axel Méyé, GAB, F, 1.78, 76, 06-06-95, Libreville, Missile FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Mirkan Aydın, GER, F, 1.88, 83, 08-07-87, Hattingen, Göztepe
+55, Semih Güler, GER, D, 1.85, 75, 30-11-94, Castrop-Rauxel, Eyüpspor (On Loan)
+18, Theofanis Gekas, GRE, F, 1.79, 82, 23-05-80, Larissa, Sion
+19, Muarem Muarem, MKD, M, 1.80, 75, 22-10-88, Skopje, Qarabağ
+60, Özgür Çek, TUR, M, 1.74, 70, 03-01-91, Erbaa, Alanyaspor
+20, Mehmet Erkut Şentürk, TUR, M, 1.74, 68, 06-05-94, Istanbul, 
+30, Jerry Akaminko, GHA, D, 1.82, 75, 02-05-88, Accra, 
+10, Raheem Lawal, NGA, M, 1.85, 80, 04-05-90, Lagos, Osmanlıspor
+4, Birol Parlak, TUR, D, 1.82, 79, 01-03-90, Rize, Kayserispor
+94, Cédric Mongongu, COD, D, 1.89, 76, 22-06-89, Kinshasa, 
+11, Matías De Federico, ARG, M, 1.71, 69, 23-08-89, Capital Federal, San Marcos de Arica
+13, Nassim Ben Khalifa, SUI, F, 1.80, 69, 13-01-92, Prangins, Mechelen (On Loan)
+14, Hasan Hüseyin Acar, TUR, M, 1.80, 70, 16-12-94, Eskişehir, Tokatspor (On Loan)

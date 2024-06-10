@@ -1,0 +1,55 @@
+=  Salford City - English National League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Fleetwood T
+2, Scott Wiseman, GIB, D, 1.83, 73, 09-10-85, Hull, Chesterfield
+3, Ibou Touray, GAM, D, 1.77, 68, 24-12-94, Liverpool, Nantwich T
+4, Gus Mafuta, ENG, M, 1.77, 71, 11-06-95, Islington, Gateshead
+5, Liam Hogan, ENG, D, 1.83, 77, 08-02-89, Salford, Gateshead
+6, Carl Piergianni, ENG, D, 1.85, 85, 03-05-92, Peterborough, South Melbourne
+7, Matt Green, ENG, F, 1.73, 66, 02-01-87, Bath, Lincoln C
+8, Lois Maynard, SKN, M, 1.83, 86, 22-01-89, Cheetham Hill, Tranmere R
+9, Adam Rooney, IRL, F, 1.78, 78, 21-04-88, Dublin, Aberdeen
+10, Danny Lloyd, ENG, M, 1.73, 63, 03-12-91, Liverpool, Peterborough U
+11, Tom Walker, ENG, M, 1.82, 76, 12-12-95, Salford, FCUM
+12, Max Crocombe, NZL, G, 1.93, 88, 12-08-93, Auckland, Carlisle U
+13, Jack Redshaw, ENG, F, 1.68, 64, 20-11-90, Salford, Blackpool
+14, Josh Askew, ENG, D, , , 20-02-98, Ashton-under-Lyne, Blackburn R
+15, Devonte Redmond, ENG, M, 1.85, 75, 19-09-96, Manchester, Manchester U
+16, Tyler Hornby-Forbes, ENG, D, 1.80, 75, 08-03-96, Preston, Newport Co
+18, Danny Whitehead, ENG, M, 1.79, 69, 23-10-93, Trafford, Macclesfield T
+19, Mark Shelton, ENG, M, 1.83, 70, 12-09-96, Nottingham, Alfreton T
+20, Mani Dieseruvwe, ENG, F, 1.96, 72, 05-01-94, Leeds, Kidderminster H
+21, Devante Rodney, ENG, F, 1.78, 69, 19-05-98, Manchester, Hartlepool U
+23, Nathan Pond, ENG, D, 1.90, 70, 05-01-85, Preston, Fleetwood T
+24, Amine Linganzi, CGO, M, 1.86, 81, 16-11-89, Algiers, Swindon T
+26, James Jones, ENG, D, 1.95, 83, 16-02-99, Shrewsbury, Chester
+27, Kieran Glynn, ENG, M, , , 14-12-97, Oldham, FCUM
+28, Mani Ogunrinde, ENG, M, , , , , None
+30, Rory Gaffney, IRL, F, 1.83, 78, 23-10-89, Tuam, Bristol R
+31, George Neave, ENG, G, , , , , None
+32, Sam Wright, ENG, D, , , , , None
+33, Joel Barlow, ENG, D, , , , , None
+34, Alex Doyle, ENG, M, , , , , None
+35, Sam Adetiloye, ENG, D, , , , , None
+36, Will Shepherd, ENG, M, , , , , None
+37, Zack Woodcock, ENG, M, , , , , None
+38, Brandon Lockett, ENG, M, , , , , None
+39, Kamar Moncrieffe, ENG, F, , , , , None
+40, Douglas James-Taylor, ENG, F, 1.86, 78, 18-11-01, Camden, None
+42, Taylor Dyson, ENG, M, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Anthony Dudley, ENG, F, 1.78, 70, 03-01-96, Manchester, Chester (On Loan)
+25, Danny Livesey, ENG, D, 1.88, 88, 31-12-84, Salford, Chester (On Loan)
+29, Jake Beesley, ENG, F, 1.85, 67, 02-12-96, Sheffield, Bradford PA (On Loan)
+15, Jake Lawlor, ENG, D, 1.79, 74, 08-04-91, Halifax, Wrexham
+7, Nick Haughton, ENG, M, 1.78, 78, 20-09-94, Urmston, AFC Fylde
+16, James Hooper, ENG, M, 1.78, 74, 10-02-97, Wythenshawe, Chorley
+24, Harry Brockbank, ENG, D, 1.80, 80, 26-09-98, Bolton, Bolton W
+15, Liam Nolan, NIR, M, 1.75, 69, 20-09-94, Liverpool, Accrington Stanley
+16, Joe Muscatt, ENG, D, 1.77, 65, 15-12-97, Whipps Cross, Bolton W
+22, Dennis Politic, ROU, M, 1.85, 78, 05-03-00, Braşov, Bolton W
+41, Markell Foulds, ENG, D, , , , , Glossop NE

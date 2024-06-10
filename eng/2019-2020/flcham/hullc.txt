@@ -1,0 +1,54 @@
+=  Hull City - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, George Long, ENG, G, 1.93, 93, 05-11-93, Sheffield, Sheffield U
+2, Eric Lichaj, USA, D, 1.80, 79, 17-11-88, Downers Grove, Nottingham F
+3, Ryan Tafazolli, ENG, D, 1.96, 78, 28-09-91, Sutton, Peterborough U
+4, Jordy de Wijs, NED, D, 1.89, 84, 08-01-95, Vlijmen, PSV Eindhoven
+5, Reece Burke, ENG, D, 1.89, 81, 02-09-96, Newham, West Ham U
+6, Kevin Stewart, ENG, M, 1.81, 73, 07-09-93, Enfield, Liverpool
+8, Daniel Batty, ENG, M, 1.78, 75, 10-12-97, Pontefract, None
+9, Tom Eaves, ENG, F, 1.90, 86, 14-02-92, Liverpool, Gillingham
+10, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Arsenal
+11, Marcus Maddison, ENG, M, 1.80, 72, 26-09-93, Durham, Peterborough U
+12, Will Mannion, ENG, G, 1.86, 74, 01-04-98, Hillingdon, AFC Wimbledon
+13, Matt Ingram, ENG, G, 1.91, 82, 18-12-93, Croydon, QPR
+15, Angus MacDonald, ENG, D, 1.84, 70, 15-10-92, Winchester, Barnsley
+16, Robbie McKenzie, ENG, D, 1.84, 74, 25-09-98, Kingston upon Hull, None
+17, Sean McLoughlin, IRL, D, 1.80, 70, 13-11-96, Cork, Cork C
+18, George Honeyman, ENG, M, 1.73, 72, 08-09-94, Prudhoe, Sunderland
+19, Josh Bowler, ENG, M, 1.75, 70, 05-03-99, Chertsey, Everton
+23, Stephen Kingsley, SCO, D, 1.78, 68, 23-07-94, Stirling, Swansea C
+24, Norbert Balogh, HUN, F, 1.96, 78, 21-02-96, Debrecen, Palermo
+25, Matthew Pennington, ENG, D, 1.85, 77, 06-10-94, Warrington, Everton
+26, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Leicester C
+27, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Bolton W
+29, Lewis Ritson, ENG, D, , , 01-11-98, South Shields, None
+31, Keane Lewis-Potter, ENG, F, 1.75, 67, 22-02-01, Kingston upon Hull, None
+32, Billy Chadwick, ENG, M, , , 19-01-00, Kingston upon Hull, None
+33, Ahmed Salam, ENG, M, , , 30-12-00, Kingston upon Hull, None
+35, Matty Jacob, ENG, D, 1.80, 79, 03-06-01, Barnsley, None
+36, Jackson Irvine, AUS, M, 1.79, 70, 07-03-93, Melbourne, Burton Alb
+37, Leo Da Silva Lopes, POR, M, 1.68, 61, 30-11-98, Lisbon, Wigan Ath
+38, Elliot Bonds, GUY, M, 1.79, 66, 23-03-00, Brent, Dagenham & Redbridge
+39, Jordan Hickey, ENG, M, , , 04-10-99, Sunderland, Sunderland
+40, James Berry, ENG, F, , , 10-02-00, Wigan, Wigan Ath
+41, Herbie Kane, ENG, M, 1.73, 67, 23-11-98, Bristol, Liverpool
+42, Martin Samuelsen, NOR, M, 1.89, 72, 17-04-97, Haugesund, West Ham U
+43, Mallik Wilks, ENG, F, 1.80, 71, 15-12-98, Leeds, Barnsley
+44, James Scott, SCO, F, 1.88, 87, 30-08-00, Glasgow, Motherwell
+45, Andy Smith, ENG, D, 1.84, 72, 11-09-01, Banbury, None
+46, Callum Jones, WAL, M, 1.78, 80, 05-04-01, Birkenhead, Bury
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Max Sheaf, ENG, M, 1.83, 75, 10-03-00, Gravesend, Cheltenham T (On Loan)
+30, Jacob Greaves, ENG, D, 1.85, 70, 12-09-00, Beverley, Cheltenham T (On Loan)
+14, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, Vitesse (On Loan)
+21, Brandon Fleming, ENG, D, 1.75, 69, 03-12-99, Dewsbury, Bolton W (On Loan)
+7, David Milinković, SRB, M, 1.78, 70, 20-05-94, Antibes, Vancouver Whitecaps (On Loan)
+11, Kamil Grosicki, POL, M, 1.80, 78, 08-06-88, Szczecin, WBA
+20, Jarrod Bowen, ENG, F, 1.74, 70, 20-12-96, Leominster, West Ham U
+22, Markus Henriksen, NOR, M, 1.87, 85, 25-07-92, Trondheim, Bristol C (On Loan)
+34, Tyler Hamilton, ENG, M, 1.74, 64, 05-01-99, Kingston upon Hull, 

@@ -1,0 +1,33 @@
+=  Pachuca - Mexican Liga MX 2016/17 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, José Esquivel, MEX, D, 1.77, 64, 07-01-98, Zacatecas, None
+4, Omar González, USA, D, 1.96, 95, 11-10-88, Dallas, LA Galaxy
+5, Víctor Guzmán, MEX, M, 1.73, 72, 03-02-95, Guadalajara, Guadalajara
+6, Raúl López, MEX, D, 1.84, 72, 23-02-93, Zapopan, Guadalajara
+7, Braian Rodríguez, URU, F, 1.91, 84, 14-08-86, Salto, Everton (Viña del Mar)
+8, Hirving Lozano, MEX, M, 1.77, 70, 30-07-95, Mexico City, None
+9, Sergio Vergara, CHI, F, 1.70, 68, 25-04-94, Maule, Celaya
+10, Jonathan Urretavizcaya, URU, F, 1.74, 62, 19-03-90, Montevideo, Paços de Ferreira
+12, Emmanuel García, MEX, D, 1.70, 63, 28-12-89, Zamora, Veracruz
+13, Alfonso Blanco, MEX, G, 1.82, 80, 31-07-87, Tamiahua, None
+15, Érick Gutiérrez, MEX, M, 1.77, 69, 15-06-95, Ahome, None
+16, Jorge Hernández, MEX, D, 1.70, 72, 10-06-89, San Luis Potosí, Jaguares de Chiapas
+21, Óscar Pérez, MEX, G, 1.71, 72, 01-02-73, Mexico City, Cruz Azul
+22, Alain Estrada, MEX, G, 1.83, 82, 13-08-91, Nezahualcóyotl, None
+23, Óscar Murillo, COL, D, 1.83, 79, 18-04-88, Cali, Atlético Nacional
+25, Roberto Alvarado, MEX, M, 1.72, 58, 07-09-98, Irapuato, Celaya
+26, Erick Aguirre, MEX, M, 1.70, 60, 23-02-97, La Ruana, Morelia
+27, Juan José Calero, COL, F, 1.84, 79, 05-11-98, Ginebra, None
+28, Rafael Ramírez, MEX, G, 1.80, 68, 16-11-92, Guadalajara, Zacatecas
+29, Franco Jara, ARG, F, 1.82, 77, 15-07-88, Villa María, Olympiakos
+33, Stefan Medina, COL, D, 1.78, 72, 14-06-92, Envigado, Monterrey
+284, Alexis Peña, MEX, D, 1.87, 71, 13-01-96, Culiacán, None
+288, Pablo López, MEX, M, 1.66, 55, 07-01-98, Santiago de Querétaro, None
+289, Luis González, MEX, F, 1.83, 71, 08-02-97, Chihuahua, None
+311, Francisco Figueroa, MEX, M, 1.69, 52, 13-06-99, Lázaro Cárdenas, Morelia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, San Lorenzo

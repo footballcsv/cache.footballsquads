@@ -1,0 +1,45 @@
+=  Barnet - English Football League Two 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Joe Devera, ENG, D, 1.88, 76, 06-02-87, Southgate, None
+3, Kenny Gillet, FRA, D, 1.78, 78, 03-01-86, Bordeaux, Caen
+4, Neal Bishop, ENG, M, 1.83, 81, 07-08-81, Stockton-on-Tees, York C
+5, Ismail Yakubu, ENG, D, 1.80, 76, 08-04-85, Kano, None
+6, Michael Leary, ENG, M, 1.78, 90, 17-04-83, Ealing, Luton T
+7, Albert Adomah, GHA, F, 1.85, 74, 13-12-87, Lambeth, Harrow Boro
+8, Max Porter, ENG, M, 1.78, 78, 29-06-87, Orsett, Bishop's Stortford
+9, Cliff Akurang, ENG, F, 1.88, 78, 27-02-81, , Histon
+10, Adam Birchall, WAL, F, 1.68, 68, 02-12-84, Maidstone, Mansfield T
+11, Nicky Deverdics, ENG, M, 1.80, 78, 24-11-87, Gateshead, Gretna
+12, Luke Medley, ENG, F, 1.85, 84, 21-06-89, Greenwich, Bradford C
+15, Joe Tabiri, ENG, M, 1.75, 74, 16-10-89, London, None
+17, Danny Hart, ENG, M, 1.78, 74, 26-04-89, London, Boreham Wood
+18, Lee Harrison, ENG, G, 1.88, 76, 12-09-71, Billericay, Peterborough U
+19, Elliot Charles, ENG, F, 1.88, 83, 23-12-90, Enfield, None
+20, Ian Hendon, ENG, D, 1.83, 81, 05-12-71, Ilford, Peterborough U
+23, Mark Hughes, NIR, M, 1.78, 78, 16-09-83, Dungannon, Chester C
+24, Nicky Nicolau, CYP, D, 1.73, 67, 12-10-83, Camden, Swindon T
+25, Ran Kadoch, ISR, G, , , 04-10-85, Ma'ale Adumim, Sektzia Nes Tziona
+26, Abu Ogogo, ENG, D, 1.73, 64, 03-11-89, Epsom, Arsenal
+27, Gary Breen, IRL, D, 1.85, 76, 12-12-73, Hendon, Wolverhampton W
+28, Paul Furlong, ENG, F, 1.83, 86, 01-10-68, Wood Green, Southend U
+29, John O'Flynn, IRL, F, 1.81, 75, 11-07-82, Cóbh, Cork C
+30, Yannick Bolasie, COD, M, 1.88, 84, 24-05-89, Kinshasa, Plymouth Arg
+31, Phil Carpenter, ENG, G, 1.85, 83, 07-09-88, Barnet, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Aryan Taj, ENG, M, 1.85, 73, 20-10-90, London, Potters Bar T
+55, Ran Kadoch, ISR, G, , , 04-10-85, Ma'ale Adumim, Re-Registered (25)
+21, Aswad Thomas, ENG, D, 1.75, 79, 09-08-89, Westminster, Charlton Ath
+23, Paul Mitchell, ENG, M, 1.75, 77, 26-08-81, Manchester, MK Dons
+23, Ryan Burge, ENG, M, 1.78, 65, 12-10-88, Cheltenham, 
+1, Rob Beckwith, ENG, G, 1.88, 85, 12-09-84, Bedford, Grays Ath
+21, Michael Townsend, ENG, D, 1.88, 88, 17-05-86, Walsall, Cheltenham T
+23, Tommy Black, ENG, M, 1.73, 74, 26-11-79, Chigwell, Grays Ath
+16, Ashley Carew, BRB, M, 1.83, 70, 17-12-85, London, Eastleigh
+14, Kieron St Aimie, ENG, M, 1.85, 83, 04-05-89, Brent, Thurrock
+21, Matt Lockwood, ENG, D, 1.80, 74, 17-10-76, Rochford, Colchester U
+1, Jake Cole, ENG, G, 1.88, 83, 11-09-85, Hammersmith, QPR
+22, Jérémy De Magalhes, FRA, D, 1.84, 77, 21-11-83, Ivry sur Seine, 

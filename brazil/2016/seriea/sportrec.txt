@@ -1,0 +1,47 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magrão, BRA, G, 1.87, 79, 09-04-77, São Paulo, Rio Branco-SP
+2, Oswaldo Henríquez, COL, D, 1.86, 79, 10-03-89, Santa Marta, Millonarios
+3, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Náutico
+4, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Santos
+5, Rodrigo Mancha, BRA, M, 1.86, 80, 16-06-86, Curitiba, Oita Trinita
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, None
+7, Reinaldo Lenis, COL, M, 1.80, 70, 20-07-92, Cali, Argentinos Juniors
+8, Serginho Mineiro, BRA, M, 1.78, 70, 04-08-86, Contagem, Atlético Mineiro
+9, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Valencia
+10, Gabriel Xavier, BRA, M, 1.70, 70, 15-07-93, São Paulo, Cruzeiro
+11, Mark González, CHI, M, 1.75, 70, 10-07-84, Durban, Universidad Católica
+12, Agenor, BRA, G, 1.87, 84, 11-12-89, Erechim, Joinville
+14, Luís Gustavo, BRA, D, 1.89, 83, 07-01-92, São José do Rio Pardo, Penapolense
+16, Matheus Ferraz, BRA, D, 1.90, 82, 12-02-85, São José do Rio Pardo, Boa
+17, Edmílson, BRA, F, 1.83, 77, 15-09-82, Salvador, Red Bull Brasil
+18, Luis Carlos Ruiz, COL, F, 1.83, 75, 08-01-87, Santa Marta, Atlético Nacional
+21, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Goiás
+22, Rodney Wallace, CRC, D, 1.80, 70, 17-06-88, San José [CRC], Arouca
+23, Luiz Carlos, BRA, G, 1.91, 87, 24-05-88, Porto Alegre, Internacional
+25, Neto Moura, BRA, M, 1.77, 70, 06-08-96, Atalaia, None
+26, Oswaldo, BRA, D, 1.88, 78, 27-12-92, Olinda, None
+27, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Ceará
+28, Paulo Roberto, BRA, M, 1.76, 79, 06-03-87, Lavras, Audax
+29, Ronaldo, BRA, M, 1.80, 73, 27-06-94, Recife, None
+30, Fábio Matos, BRA, M, 1.75, 67, 31-01-96, Recife, None
+31, Lucas, BRA, G, 1.87, 80, 20-10-97, Recife, None
+32, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Kuban Krasnodar
+33, Evandro, BRA, D, 1.70, 66, 06-01-97, Recife, None
+34, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, None
+41, Wallace, BRA, F, 1.80, 70, 17-07-97, São Luís, None
+42, Alison, BRA, M, , , 01-04-98, , None
+44, Thallyson, BRA, M, 1.81, 74, 24-03-96, Recife, None
+45, Pablo Pardal, BRA, M, 1.76, 65, 21-04-99, , None
+87, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Fluminense
+90, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, São Paulo
+93, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Atlético Mineiro
+97, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, Internacional
+99, Túlio De Melo, BRA, F, 1.93, 83, 31-01-85, Montes Claros, Chapecoense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, Flamengo
+20, Clayton, BRA, M, 1.76, 69, 19-12-91, Santo Antônio da Patrulha, São José-RS

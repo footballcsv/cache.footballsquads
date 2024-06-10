@@ -1,0 +1,21 @@
+# German Bundesliga 1999/00
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburg](hamburg.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hberlin.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [SSV Ulm 1846](ulm.txt)
+- [SpVgg Unterhaching](unterha.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

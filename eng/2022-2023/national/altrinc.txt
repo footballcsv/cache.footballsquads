@@ -1,0 +1,56 @@
+=  Altrincham - English National League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Oliver Byrne, ENG, G, 1.88, 75, 31-12-97, Trafford, Connah's Quay Nomads
+2, Eddy Jones, WAL, D, -, -, 25-10-01, Chester, Stoke C
+3, Liam Brockbank, ENG, D, -, -, 02-03-01, Barrow-in-Furness, Lancaster C
+4, Isaac Marriott, ENG, M, 1.68, 65, 11-10-99, Huddersfield, Bradford PA
+5, Kyle Ferguson, SCO, D, 1.95, 80, 24-09-99, Bellshill, Harrogate T
+6, Lewis Baines, ENG, D, -, -, 10-10-98, Brighton, Fleetwood T
+7, Matty Kosylo, ENG, M, 1.73, 70, 17-08-92, Oldham, AFC Fylde
+8, Josh Lundstram, ENG, M, 1.76, 61, 19-02-99, Stoke-on-Trent, Crewe Alex
+9, Jordan Hulme, ENG, F, 1.83, 79, 23-11-90, Bury, AFC Fylde
+10, Elliot Osborne, ENG, M, 1.83, 75, 12-05-96, Stoke-on-Trent, Stevenage
+11, Luke Burgess, ENG, M, 1.75, 66, 03-03-99, Liverpool, Oldham Ath
+12, Amaar Hussain, ENG, M, -, -, -, -, None
+14, Ryan Morton, ENG, F, -, -, -, -, None
+15, Joe Cooney, ENG, D, -, -, -, -, None
+17, Brad Jackson, ENG, M, 1.75, 70, 20-10-96, Manchester, Chester
+18, Ben Pringle, ENG, M, 1.73, 75, 27-05-89, Newcastle upon Tyne, Morecambe
+19, Jayden Matthew, ENG, D, -, -, -, -, None
+21, Matt Gould, NZL, G, 1.89, 77, 07-01-94, Warwick, Spennymoor T
+22, Ross Barrows, ENG, D, 1.81, 66, 09-11-97, Sheffield, King's Lynn T
+23, Jake Cooper, IRL, D, 1.84, 74, 02-01-01, Burnley, Rotherham U
+24, Ryan Forde, ENG, G, -, -, -, -, None
+25, Harlan Rodgers-Morris, ENG, M, -, -, -, -, None
+26, James Jones, WAL, D, 1.93, 79, 13-03-97, Wrexham, Barrow
+27, Aaron Bennett, WAL, F, -, -, 24-01-04, -, Preston NE
+28, Maxi Oyedele, POL, M, -, -, 07-11-04, Manchester, Manchester U
+29, Regan Linney, ENG, F, -, -, 12-05-97, Preston, FCUM
+30, Harry Perritt, ENG, M, 1.76, 66, 16-02-01, Knowsley, Accrington Stanley
+32, Zak Goodson, ENG, F, -, -, 28-04-00, Nottingham, Ilkeston T
+33, Egli Kaja, ALB, M, 1.77, 78, 26-07-97, Prelezi i Jerlive, Hampton & Richmond Boro
+34, Miles Welch-Hayes, ENG, D, 1.80, 77, 25-10-96, Oxford, Harrogate T
+36, Eden Bailey, ENG, F, 1.78, 70, 04-02-04, Stoke-on-Trent, Port Vale
+37, Josh Jordan, ENG, D, -, -, -, -, None
+38, Sonny Aljofree, ENG, D, -, -, 19-12-04, Plymouth, Manchester U
+39, Joe Hugill, ENG, F, -, -, 19-10-03, Durham, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Alex Samizadeh, IRN, F, 1.72, 72, 10-11-98, Tehran, Hyde U
+34, Byron Harrison, ENG, F, 1.91, 83, 15-06-87, Wandsworth, Nantwich T
+28, Elliot Newby, ENG, M, 1.77, 73, 21-11-95, Barrow-in-Furness, Stockport Co
+29, Dermot Mee, NIR, G, -, -, 20-11-02, Birmingham, Manchester U
+31, Dan Malone, WAL, M, -, -, 09-05-02, Chester, Stoke C
+11, Ryan Colclough, ENG, M, 1.90, 83, 27-12-94, Burslem, Chesterfield
+35, Connor Jennings, ENG, F, 1.83, 76, 29-10-91, Manchester, Stockport Co
+5, Toby Mullarkey, ENG, D, 1.73, 64, 30-09-95, Warrington, Rochdale
+16, Chris Conn-Clarke, NIR, F, -, -, 22-11-01, -, Fleetwood T
+30, Marcus Dinanga, ENG, F, 1.80, 78, 30-06-97, Gravesend, Gateshead
+16, Junior Quitirna, GNB, M, 1.70, 64, 25-04-00, -, Fleetwood T
+20, Aidan Roxburgh, ENG, D, -, -, 27-03-99, Chester, Nantwich T
+31, Michael Gyasi, GHA, F, 1.77, 75, 03-02-00, Hamburg, Chesterfield
+11, Danny Cashman, ENG, F, -, -, 08-01-01, Crawley, Coventry C
+35, Tyrese Sinclair, ENG, F, 1.75, 70, 04-02-01, -, Rochdale

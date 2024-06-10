@@ -1,0 +1,43 @@
+=  Independiente - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastián Sosa, URU, G, 1.80, 77, 19-08-86, Montevideo, Mazatlán
+2, Joaquín Laso, ARG, D, 1.85, 79, 04-07-90, Balcarce, Rosario Central
+3, Thomas Ortega, ARG, D, 1.79, 74, 06-12-00, Rafael Calzada, None
+4, Gonzalo Asís, ARG, D, 1.74, 64, 28-03-96, Lomas de Zamora, None
+5, Lucas Rodríguez, ARG, D, 1.68, 65, 27-09-93, Capital Federal, Veracruz
+6, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Lanús
+7, Andrés Roa, COL, M, 1.75, 69, 25-05-93, Sabanalarga, Deportivo Cali
+9, Jonathan Herrera, ARG, F, 1.75, 70, 16-09-91, Capital Federal, Johor Darul Ta'zim
+10, Alan Velasco, ARG, F, 1.67, 63, 27-07-02, Quilmes, None
+11, Gastón Togni, ARG, M, 1.80, 76, 20-09-97, Coronel Granada, None
+12, Renzo Bacchia, URU, G, 1.85, 74, 23-01-99, Montevideo, Novara
+13, Milton Álvarez, ARG, G, 1.85, 84, 26-01-89, Munro, Deportivo Morón
+14, Lucas González, ARG, M, 1.69, 68, 03-06-00, San Salvador de Jujuy, None
+15, Alan Soñora, ARG, M, 1.71, 65, 03-08-98, New York, None
+16, Fabricio Bustos, ARG, D, 1.67, 66, 28-04-96, Ucacha, None
+18, Silvio Romero, ARG, F, 1.77, 76, 22-07-88, Córdoba, América
+20, Rodrigo Márquez, ARG, F, 1.77, 76, 15-02-02, General Belgrano, None
+21, Carlos Benavidez, URU, M, 1.85, 76, 30-03-98, Montevideo, Defensor Sporting
+22, Matías Sosa Ugolini, ARG, M, 1.83, 80, 19-10-01, Corrientes, None
+23, Domingo Blanco, ARG, M, 1.67, 63, 22-04-95, Punta Alta, Olimpo (BB)
+24, Sergio Barreto, ARG, D, 1.84, 74, 20-02-99, Clorinda, None
+25, Diego Segovia, URU, G, 1.88, 76, 15-05-00, Paysandú, None
+26, Juan Román Zarza, ARG, M, 1.70, 72, 13-09-01, Virreyes, None
+27, Juan Pacchini, ARG, M, 1.66, 67, 17-06-00, Rafael Calzada, None
+28, Mauro Zurita, ARG, D, 1.81, 79, 16-02-00, Florencio Varela, None
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, Cruzeiro
+30, Brian Martínez, ARG, F, 1.60, 60, 18-08-99, Pampa del Infierno, None
+31, Patricio Ostachuk, ARG, D, 1.80, 76, 05-05-00, Oberá, None
+32, Ayrton Costa, ARG, D, 1.79, 74, 12-07-99, Quilmes, None
+33, Juan Insaurralde, ARG, D, 1.88, 85, 03-10-84, Resistencia, Colo-Colo
+35, Tomás Pozzo, ARG, M, 1.68, 73, 27-09-00, Adrogué, None
+36, David Sayago, ARG, F, 1.83, 84, 08-06-00, Santa Rosa, None
+39, Juan Di Lorenzo, ARG, D, 1.83, 76, 06-07-98, Quilmes, None
+40, Santiago Velásquez, ARG, D, 1.85, 77, 10-04-01, Puerto Madryn, None
+44, Julián Romero, ARG, F, 1.73, 72, 28-09-03, San Jorge, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Sebastián Palacios, ARG, F, 1.69, 69, 20-02-92, Juan Bautista Alberdi, Panathinaikos

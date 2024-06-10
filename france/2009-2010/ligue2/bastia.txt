@@ -1,0 +1,41 @@
+=  Bastia - French Ligue 2 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magno Macédo Novaes, BRA, G, 1.84, 79, 30-03-83, São Paulo, Arles
+2, Khaled Adenon, BEN, D, 1.81, 70, 28-07-85, Abobo, Le Mans
+4, Jacques-Désiré Périatambée, FRA, D, 1.81, 78, 15-10-75, Curepipe, Dijon
+5, Darko Dunjić, SRB, D, 1.74, 72, 08-02-81, Banatski Dvor, Zorya Luhansk
+6, Gautier Mahoto, FRA, M, 1.81, 76, 21-02-92, , Portsmouth
+7, Wahbi Khazri, TUN, M, 1.82, 78, 08-02-91, Ajaccio, None
+8, Yohan Gomez, FRA, M, 1.74, 66, 25-09-81, Lyon, Lyon
+9, Xavier Pentecôte, FRA, F, 1.80, 77, 13-08-86, St Dié, Toulouse
+10, Jean-Jacques Rocchi, FRA, M, 1.70, 60, 01-06-89, Bastia, None
+11, Alexandre Garcia, FRA, F, , , 25-06-88, Marignane, Consolat
+12, Serisay Barthélémy, FRA, M, 1.66, 62, 06-01-84, Le Blanc-Mesnil, St-Etienne
+13, Salim Moizini, FRA, M, 1.75, 60, 17-10-85, Marseille, St-Priest
+14, Johan Martial, FRA, D, 1.84, 80, 30-05-91, Massy, None
+15, Mathieu Robail, FRA, M, 1.73, 68, 02-06-85, Cambrai, Dijon
+16, Jules Goda, CMR, G, 1.90, 88, 30-05-89, Yaoundé, None
+17, Guy-Roland Niangbo Nassa, CIV, F, 1.82, 76, 21-05-86, Abidjan, Olympic Charleroi
+18, Yannick Cahuzac, FRA, M, 1.78, 66, 18-01-85, Ajaccio, None
+19, Christophe Gaffory, FRA, F, 1.81, 76, 10-05-88, Bastia, None
+20, Pierre-Yves André, FRA, F, 1.85, 77, 14-05-74, Lannion, Guingamp
+21, Féthi Harek, FRA, D, 1.75, 61, 21-10-82, Oullins, Rodez
+22, Sony Mustivar, FRA, M, 1.75, 68, 12-02-90, Aubervilliers, Aubervilliers
+23, Mehdi Méniri, ALG, D, 1.90, 83, 29-06-77, Metz, Metz
+24, Florent Ghisolfi, FRA, M, 1.75, 70, 28-02-85, Aubagne, None
+25, Hervé Kambou, CIV, M, 1.83, 69, 01-05-85, Abidjan, Olympic Charleroi
+26, Fabrice Jau, FRA, M, 1.85, 70, 04-09-78, Toulouse, Sedan
+27, Eric Cubilier, FRA, D, 1.81, 75, 09-05-79, Nice, Nantes
+28, Bryan Mbango, FRA, D, , , 13-02-91, Reims, None
+29, Grégory Lorenzi, FRA, D, 1.86, 86, 17-12-83, Bastia, Brest
+30, Dominique Agostini, FRA, G, 1.77, 76, 28-09-89, Bastia, None
+40, Thomas Vincensini, FRA, G, 1.90, 73, 12-09-93, Bastia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Yemen Ben Zekri, TUN, D, 1.82, 73, 10-06-79, Tunis, Al-Shamal
+11, Salim Arrache, ALG, M, 1.87, 77, 14-07-82, Marseille, PAS Giannina
+3, Hassan Lingani, CIV, D, 1.84, 80, 30-12-87, Abobo, Young Boys
+6, Hassoun Camara, FRA, D, 1.88, 76, 03-02-84, Nosiy-le-Sec, 

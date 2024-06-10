@@ -1,0 +1,56 @@
+=  Bari - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Berardi, ITA, G, 1.85, 80, 16-01-91, Rome, Messina
+4, Stefano Sabelli, ITA, D, 1.80, 74, 13-01-93, Rome, Roma
+5, Marios Oikonomou, GRE, D, 1.89, 77, 06-10-92, Giannina, Bologna
+6, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Vicenza
+7, Jacopo Petriccione, ITA, M, 1.86, 75, 22-02-95, Gorizia, Fiorentina
+8, Migjen Basha, ALB, M, 1.80, 72, 05-01-87, Lausanne, Luzern
+9, Libor Kozák, CZE, F, 1.93, 82, 30-05-89, Brumov-Bylnice, Aston Villa
+10, Franco Brienza, ITA, F, 1.68, 68, 19-03-79, Cantù, Bologna
+11, Cristian Galano, ITA, F, 1.70, 69, 01-04-91, Foggia, Vicenza
+12, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Südtirol
+13, Djavan Anderson, NED, D, 1.74, 76, 21-04-95, Amsterdam, SC Cambuur
+14, Liam Henderson, SCO, M, 1.73, 67, 25-04-96, Livingston, Celtic
+15, Mattia Cassani, ITA, D, 1.84, 75, 26-08-83, Borgomanero, Sampdoria
+16, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Naples, Genoa
+17, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Juventus
+18, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Benevento
+19, Jure Balkovec, SVN, D, 1.85, 74, 09-09-94, Novo Mesto, Domžale
+20, Aniello Salzano, ITA, M, 1.81, 74, 20-07-91, Naples, Crotone
+21, Andrés Tello, COL, M, 1.81, 80, 06-09-96, Medellín, Juventus
+22, Victor De Lucia, ITA, G, 1.86, 81, 28-05-96, Santa Maria a Vico, Catanzaro
+23, Simone Iocolano, ITA, M, 1.74, 70, 17-10-89, Turin, Alessandria
+24, Antonio Floro Flores, ITA, F, 1.83, 78, 18-06-83, Naples, Chievo Verona
+25, Archimede Morleo, ITA, D, 1.73, 68, 26-09-83, Mesagne, Bologna
+27, Nenê, BRA, F, 1.82, 78, 28-07-83, São Paulo, Spezia
+28, Antonio Artal, ITA, G, , , 17-02-00, Altamura, None
+29, Federico Andrada, ARG, F, 1.79, 74, 03-03-94, Carapachay, River Plate
+30, Modibo Diakité, FRA, D, 1.92, 88, 02-03-87, Bourg-la-Reine, Ternana
+31, Massimiliano Busellato, ITA, M, 1.74, 73, 23-04-93, Bassano del Grappa, Salernitana
+32, Norbert Gyömbér, SVK, D, 1.89, 74, 03-07-92, Revúca, Roma
+33, Alan Empereur, BRA, D, 1.86, 79, 10-03-94, Ipatinga, Foggia
+34, Emanuele Conti, ITA, G, 1.84, 75, 01-01-96, Poggibonsi, Cavese
+35, Rosario Rizzitano, ITA, G, 1.84, , 31-01-99, Scilla, Catanzaro
+36, Nunzio Lella, ITA, D, 1.88, 73, 28-07-00, Santeramo in Colle, None
+37, Mattia Pesce, ITA, D, , , 26-06-99, Naples, Sambenedettese
+38, Davide Viola, ITA, D, 1.86, , 12-01-99, Luxembourg, Milan
+39, Alessio Di Cosmo, ITA, D, , , 27-02-99, Bari, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Federico Furlan, ITA, F, 1.81, 74, 25-11-90, Montebelluna, Brescia (On Loan)
+13, Filip Raičević, MNE, F, 1.91, 82, 02-07-93, Podgorica, Pro Vercelli (On Loan)
+14, Mattia Montini, ITA, F, 1.75, 70, 28-02-92, Frosinone, Livorno (On Loan)
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larissa, Panetolikos
+28, Stefano Faggiano, ITA, G, 1.82, 72, 30-03-99, Bari, Francavilla (On Loan)
+30, Alberto Masi, ITA, D, 1.88, 80, 02-09-92, Genoa, Spezia (On Loan)
+32, Giovanni Di Noia, ITA, M, 1.80, 75, 03-07-94, Bari, Cesena (On Loan)
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Foggia (On Loan)
+33, Raphael Martinho, BRA, M, 1.83, 73, 15-04-88, Campo Grande, Ascoli
+5, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Foggia
+26, Giuseppe Scalera, ITA, D, 1.84, 75, 26-01-98, Acquaviva delle Fonti, Fidelis Andria (On Loan)
+3, Elio Capradossi, ITA, D, 1.81, 78, 11-03-96, Kampala, Roma
+29, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Genoa

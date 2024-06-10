@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2012/13
+
+18 teams
+- [Akhisar Belediyespor](akhisar.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Elazığspor](elazig.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [İstanbul Büyükşehir Belediyespor](istanbb.txt)
+- [Karabükspor](karabuk.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Mersin İdman Yurdu](mersin.txt)
+- [Orduspor](orduspor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

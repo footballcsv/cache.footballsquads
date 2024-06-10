@@ -1,0 +1,38 @@
+=  Aris - Greek Super League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabian Ehmann, AUT, G, 1.82, 74, 28-08-98, Graz, Sturm Graz
+3, Hugo Sousa, POR, D, 1.83, 76, 04-06-92, Santa Marinha, Waasland-Beveren
+5, Giorgos Delizisis, GRE, D, 1.91, 82, 01-12-87, Kozani, Apollon Smyrnis
+7, Nicolas Diguiny, FRA, M, 1.79, 70, 31-05-88, Saint-Germain-en-Laye, Atromitos
+8, Lerin Duarte, NED, M, 1.68, 65, 11-08-90, Rotterdam, Heracles Almelo
+9, Dimitris Diamantopoulos, GRE, F, 1.79, 70, 18-01-88, Thessaloniki, Apollon Smyrnis
+10, Daniel Larsson, SWE, M, 1.76, 77, 25-01-87, Gothenburg, Akhisar Belediyespor
+11, Brown Ideye, NGA, F, 1.80, 70, 10-10-88, Yenagoa, Tianjin Teda
+16, Bruno Gama, POR, M, 1.75, 73, 15-11-87, Vila Verde, Alcorcón
+18, Nicolás Martínez, ARG, M, 1.68, 68, 25-09-87, Viedma, Olympiakos
+19, Martín Tonso, ARG, M, 1.75, 71, 19-10-89, Colonia Godeken, Asteras Tripolis
+21, Daniel Sundgren, SWE, D, 1.78, 70, 22-11-90, Solna, AEK
+23, Julián, ESP, G, 1.95, 91, 28-03-91, Granada, Wisła Kraków
+24, Daniel Mancini, ARG, M, 1.72, 72, 11-11-96, Tránsito, Bordeaux
+26, Javier Matilla, ESP, M, 1.76, 72, 01-01-88, Ciudad Real, Nàstic
+28, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, Olympiakos
+31, Panagiotis Tsagalidis, GRE, D, , , 05-03-01, , Olympiakos
+38, Petros Bakoutsis, GRE, M, 1.80, 72, 29-06-01, Thessaloniki, None
+40, Petros Bagalianis, GRE, D, , , 06-02-01, Nea Kallikrateia, None
+44, Fran Vélez, ESP, D, 1.79, 75, 23-06-91, Tarragona, Wisła Kraków
+69, Mihály Korhut, HUN, D, 1.81, 76, 01-12-88, Miskolc, Hapoel Be'er Sheva
+75, Apostolos Tsilingiris, GRE, G, 1.90, 80, 06-09-00, Xanthi, PASA Iródotos
+88, Lucas Sasha, BRA, M, 1.77, 77, 01-03-90, São Paulo, Ludogorets Razgrad
+92, Lindsay Rose, FRA, D, 1.84, 79, 08-02-92, Rennes, Lorient
+96, Fiorin Durmishaj, ALB, F, 1.81, 70, 14-11-96, Tirana, Olympiakos
+98, Abou-Malal Ba, FRA, M, 1.82, 74, 29-07-98, Saint-Dié, Nantes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Manolis Tzanakakis, GRE, D, 1.76, 71, 30-04-92, Heraklion, 
+9, Hamza Younes, TUN, F, 1.83, 78, 16-04-86, Monastir, Petrolul Ploiești
+6, Migjen Basha, ALB, M, 1.80, 72, 05-01-87, Lausanne, Melbourne Victory
+91, Álex Menéndez, ESP, D, 1.81, 67, 15-07-91, Gijón, 
+22, Dimitris Konstantinidis, GRE, D, 1.73, 70, 02-06-94, Thessaloniki, MFK Zemplín Michalovce

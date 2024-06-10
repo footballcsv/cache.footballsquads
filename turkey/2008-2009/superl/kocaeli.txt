@@ -1,0 +1,55 @@
+=  Kocaelispor - Turkish Süper Lig 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rashad Sadikhov, AZE, M, 1.77, 75, 16-06-82, Baku, Neftchi Baku
+2, Levent Kartop, TUR, M, 1.70, 66, 21-08-79, Denizli, Neftchi Baku
+6, Hamza Mutlu, TUR, M, 1.75, 68, 02-04-86, Gümüşhane, Suadiye Belediyespor
+8, Júlio César, BRA, D, 1.65, 65, 19-01-83, Porto Alegre, Denizlispor
+9, Adem Çalık, TUR, F, 1.77, 77, 26-08-81, Rize, Marmaris Belediyespor
+12, Eyyüp Hasan Uğur, TUR, M, 1.73, 67, 22-06-77, Dortmund, Sakaryaspor
+13, Nsumbu Mazuwa, COD, M, 1.85, 85, 24-09-82, Kinshasa, Bnei Sakhnin
+14, Kiliçarslan Kopuz, TUR, G, 1.83, 81, 19-03-77, Rize, Pazarspor
+19, Taner Gülleri, TUR, F, 1.85, 85, 29-04-76, Adana, Antalyaspor
+20, Berkay Samancı, TUR, M, 1.77, 69, 11-04-89, İzmit, None
+21, Patrice Nzekou, CMR, M, 1.72, 71, 22-06-83, Kumba, Cotonsport Garoua
+22, Serdar Kulbilge, TUR, G, 1.86, 84, 07-07-80, Hayrabolu, Fenerbahçe
+24, Ergin Yücetaş, TUR, M, 1.80, 74, 25-12-78, Mönchengladbach, Bozüyükspor
+25, Luka Žinko, SVN, M, 1.85, 80, 23-03-83, Ljubljana, Domžale
+26, Mesut Eşlik, TUR, M, 1.78, 72, 25-04-89, , FC Groningen
+27, Cem Sinan Vergül, TUR, M, 1.72, 72, 25-10-78, Günindi, Giresunspor
+30, Murat Hacıoğlu, TUR, M, 1.70, 72, 10-06-79, Ardeşen, Konyaspor
+34, Emrah Kiraz, TUR, D, 1.91, 80, 30-10-87, Giresun, Bursaspor
+35, Maurice Ross, SCO, D, 1.80, 70, 03-02-81, Dundee, Viking
+39, Ali Bayraktar, TUR, D, 1.83, 77, 21-10-85, Akçaabat, Denizlispor
+40, Fatih Akyel, TUR, D, 1.80, 79, 26-12-77, Tekirdag, Kasımpaşa
+41, Serdar Topraktepe, TUR, F, 1.83, 85, 25-08-76, Istanbul, Sivasspor
+44, Koray Göksu, TUR, D, , , 15-03-89, İzmit, None
+62, Emirhan Önder, TUR, D, 1.74, 64, 21-06-88, İzmit, None
+63, Ergün Teber, TUR, D, 1.81, 76, 01-09-85, Adana, Gençlerbirliği
+66, Uğur Daşdemir, TUR, M, 1.76, 72, 10-11-90, Selim, None
+67, Ramal Hüseynov, AZE, M, 1.75, 72, 16-12-84, , FK Baku
+77, Serkan Yanık, TUR, D, 1.76, 82, 02-04-87, Troyes, Reims
+80, Akeem Agbetu, NGA, F, 1.70, 67, 10-03-88, Lagos, Kolding
+87, Metin Erol, TUR, G, 1.82, 70, 24-01-87, İzmit, None
+91, Muhammet Özdin, TUR, D, 1.85, 73, 10-09-78, Vakfikebir, Sebatspor
+93, Mehmet Öztonga, TUR, M, 1.77, 70, 12-08-90, İzmit, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Musa Kuş, TUR, M, 1.76, 73, 20-02-78, Kars, Giresunspor
+11, Nenad Jestrović, SRB, F, 1.85, 82, 09-05-76, Obrenovac, Metz
+55, Djordje Tutorić, SRB, D, 1.85, 85, 05-03-83, Subotica, Crvena Zvezda
+29, Fran Sérgio, BRA, D, 1.84, 83, 04-06-80, Franca, 
+28, Tolga Seyhan, TUR, D, 1.87, 74, 17-01-77, Giresun, Hacettepe
+7, Ahmet Dursun, TUR, F, 1.77, 71, 25-01-78, , 
+10, Kemal Aslan, TUR, M, 1.86, 76, 24-10-81, Gazientep, Bursaspor
+5, Semavi Özgür, TUR, M, 1.72, 56, 06-02-82, , Ankaragücü
+4, Volkan Bekiroğlu, TUR, M, 1.75, 74, 20-12-77, Kadirli, Bursaspor
+18, Özgür Bayer, TUR, D, 1.82, 75, 04-04-79, Saribeyler, Ankaragücü
+15, Bülent Bölükbaşı, TUR, M, 1.72, 69, 17-06-76, Adana, Konyaspor
+3, Dušan Andjelković, SRB, D, 1.74, 67, 15-06-82, Kraljevo, FC Rostov
+99, Serhat Akin, TUR, F, 1.76, 74, 05-06-81, Karlsruhe, Konyaspor
+89, Ufuk Çam, TUR, D, 1.81, 75, 18-10-75, Uzunköprü, Kartalspor
+33, Musa Büyük, TUR, M, 1.68, 68, 22-05-80, Çatalca, Konyaspor
+23, Umut Kekilli, TUR, M, 1.83, 79, 17-04-84, Cologne, Kartalspor (On Loan)

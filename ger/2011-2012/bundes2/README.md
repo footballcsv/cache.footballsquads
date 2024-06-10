@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2011/12
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [VfL Bochum](bochum.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hansa Rostock](rostock.txt)
+- [Ingolstadt 04](ingols.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [1.FC Union Berlin](unionber.txt)

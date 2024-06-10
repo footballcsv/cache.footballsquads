@@ -1,0 +1,44 @@
+=  Blackpool - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Slocombe, ENG, G, 1.83, 75, 05-06-88, Scunthorpe, Oxford U
+2, Kelvin Mellor, ENG, D, 1.88, 75, 25-01-91, Copenhagen, Plymouth Arg
+3, Andy Taylor, ENG, D, 1.83, 76, 14-03-86, Blackburn, Walsall
+4, Jim McAlister, SCO, M, 1.80, 75, 02-11-85, Rothesay, Dundee
+5, Clark Robertson, SCO, D, 1.88, 76, 05-09-93, Aberdeen, Aberdeen
+6, Will Aimson, ENG, D, 1.79, 70, 01-01-94, Christchurch, Hull C
+7, Kyle Vassell, ENG, F, 1.83, 78, 07-02-93, Milton Keynes, Peterborough U
+8, Brad Potts, ENG, M, 1.88, 81, 03-07-94, Hexham, Carlisle U
+9, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Luton T
+11, Henry Cameron, ENG, M, 1.78, 70, 28-06-97, Lytham St Annes, None
+12, Jordan Flores, ENG, M, 1.76, 67, 04-10-95, Wigan, Wigan Ath
+15, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Accrington Stanley
+16, Eddie Nolan, IRL, D, 1.85, 77, 05-08-88, Waterford, York C
+18, Daniel Philliskirk, ENG, F, 1.78, 72, 10-04-91, Oldham, Oldham Ath
+19, Jamille Matt, ENG, F, 1.85, 75, 20-10-89, Walsall, Fleetwood T
+20, Macauley Wilson, ENG, D, 1.75, 70, 02-09-97, Blackpool, None
+21, Bright Osayi-Samuel, NGA, M, 1.75, 72, 01-02-97, Okija, None
+23, Colin Daniel, ENG, M, 1.80, 73, 15-02-88, Nottingham, Port Vale
+24, Luke Higham, ENG, D, 1.85, 77, 21-10-96, Blackpool, None
+25, Myles Boney, ENG, G, 1.80, 74, 01-02-98, Blackpool, None
+27, Dean Lyness, ENG, G, 1.90, 76, 20-07-91, Halesowen, Burton Alb
+28, Jack Payne, ENG, M, 1.75, 58, 05-12-91, Gravesend, Peterborough U
+29, Sanmi Odelusi, ENG, F, 1.82, 75, 11-06-93, Dagenham, Wigan Ath
+30, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Swindon T
+31, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Leyton Orient
+32, Rowan Roache, IRL, F, 1.78, 74, 09-02-00, , None
+33, Christian N'Guessan, ENG, M, 1.86, 79, 20-10-98, Lewisham, None
+34, Sebastien Des Pres, USA, M, , , 11-11-98, Encinitas, Real Salt Lake
+35, Neil Danns, ENG, M, 1.75, 78, 23-11-82, Liverpool, Bury
+36, Raul Correia, POR, F, , , 07-05-93, , Radcliffe Boro
+37, Ian Black, SCO, M, 1.73, 63, 14-03-85, Edinburgh, Shrewsbury T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Kyle Letheren, WAL, G, 1.88, 83, 26-12-87, Swansea, York C
+14, John Herron, SCO, M, 1.83, 73, 01-02-94, Coatbridge, Dunfermline Ath (On Loan)
+10, Jack Redshaw, ENG, F, 1.68, 64, 20-11-90, Salford, Rochdale (On Loan)
+26, Michael Cain, ENG, M, 1.82, 67, 18-02-94, Luton, Leicester C
+17, Mark Yeates, IRL, M, 1.75, 67, 11-01-85, Dublin, Notts Co
+22, Danny Pugh, ENG, D, 1.83, 76, 19-10-82, Manchester, Port Vale

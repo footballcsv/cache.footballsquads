@@ -1,0 +1,40 @@
+=  Ñublense - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pérez, URU, G, 1.82, 84, 05-02-90, Cerro Largo, Progreso
+3, Jonathan Turra, CHI, D, 1.79, 76, 06-07-01, Bulnes, None
+4, Nicolás Mancilla, CHI, D, 1.79, 70, 07-10-93, Quinta Normal, Unión Española
+5, Rafael Caroca, CHI, M, 1.70, 67, 19-07-89, Curicó, Deportes Iquique
+6, Lorenzo Reyes, CHI, M, 1.76, 76, 13-06-91, Santiago, Mazatlán
+7, Felipe Reynero, CHI, M, 1.78, 75, 14-03-89, Santiago, Cobresal
+8, Nicolás Vargas, CHI, D, 1.75, 70, 15-09-93, Rengo, Coquimbo Unido
+9, Nicolás Guerra, CHI, F, 1.76, 76, 09-01-99, Valparaíso​, Universidad de Chile
+10, Branco Provoste, CHI, M, 1.77, 68, 14-04-00, Santiago, Colo-Colo
+11, Fernando Cordero, CHI, D, 1.72, 66, 26-08-87, Santiago, Unión La Calera
+12, Patricio Rubio, CHI, F, 1.75, 73, 09-01-89, Santiago, Union Española
+13, Walter Martínez, CHI, M, 1.76, 71, 31-01-00, Chillán, None
+14, Jovany Campusano, CHI, D, 1.70, 69, 11-01-93, La Serena, Deportes La Serena
+16, Alexander Aravena, CHI, F, 1.74, 70, 06-09-02, Independencia, Universidad Católica
+17, Enzo Guerrero, CHI, D, 1.81, 84, 31-01-91, Andacollo, Palestino
+18, Bernardo Cerezo, CHI, D, 1.78, 76, 21-01-95, Taltal, Santiago Wanderers
+20, Federico Mateos, ARG, M, 1.77, 71, 28-03-93, Boulogne Sur Mer [ARG], San Telmo
+21, Iván Rozas, CHI, M, 1.78, 80, 01-07-98, Temuco, Universidad de Chile
+22, Rodrigo Cisterna, CHI, M, 1.73, 62, 25-03-02, Santiago, Colo-Colo
+23, Nozomi Kimura, CHI, D, 1.75, 75, 23-01-97, Copiapó, Santiago Morning
+25, Hernán Muñoz, CHI, G, 1.82, 88, 09-08-88, Talca, Deportes Copiapó
+27, Mathias Pinto, CHI, F, 1.66, 65, 13-07-98, Santiago, Universidad Católica
+28, Manuel Rivera, CHI, M, 1.75, 75, 17-02-96, Recoleta, Barnechea
+29, Bastian Sagal, CHI, F, 1.80, 76, 30-05-99, Maule, None
+30, Matías Moya, ARG, M, 1.67, 63, 26-03-98, Neuquén, River Plate
+31, Bastian Pino, CHI, M, 1.75, 76, 15-11-01, -, None
+32, Guillermo Gajardo, CHI, G, 1.83, 79, 05-06-02, Chillán, None
+33, Valentín Dematteis, ARG, M, -, -, 01-04-01, -, None
+37, Maximiliano Torrealba, CHI, M, 1.73, 67, 30-09-02, Chillán, None
+40, Claudio Chandía, CHI, G, 1.83, 72, 14-11-06, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Wladimir Acuña, CHI, F, 1.75, 69, 25-05-99, Yungay, Deportes Recoleta (On Loan)
+15, Luis Mago, VEN, D, 1.84, 79, 15-09-94, Cumaná, Banfield
+26, Sebastián Pérez, CHI, F, 1.78, 73, 30-04-99, Linares, San Marcos de Arica (On Loan)

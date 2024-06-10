@@ -1,0 +1,23 @@
+# Spanish La Liga 2010/11
+
+20 teams
+- [Almería](almeria.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Hércules](hercules.txt)
+- [Levante](levante.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Racing Santander](racing.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)
+- [Zaragoza](zaragoza.txt)

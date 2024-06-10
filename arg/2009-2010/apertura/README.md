@@ -1,0 +1,23 @@
+# Argentinian Primera División 2009 Apertura
+
+20 teams
+- [Argentinos Juniors](argjnrs.txt)
+- [Arsenal](arsenal.txt)
+- [Atlético Tucumán](atlettuc.txt)
+- [Banfield](banfield.txt)
+- [Boca Juniors](boca.txt)
+- [Chacarita Juniors](chacar.txt)
+- [Colón (Santa Fe)](colon.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Gimnasia y Esgrima (La Plata)](gimnasia.txt)
+- [Godoy Cruz (Mendoza)](godoycruz.txt)
+- [Huracán](huracan.txt)
+- [Independiente](independ.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Racing Club](racing.txt)
+- [River Plate](river.txt)
+- [Rosario Central](rosario.txt)
+- [San Lorenzo](sanloren.txt)
+- [Tigre](tigre.txt)
+- [Vélez Sarsfield](velez.txt)

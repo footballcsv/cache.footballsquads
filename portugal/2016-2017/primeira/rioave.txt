@@ -1,0 +1,41 @@
+=  Rio Ave - Portuguese Primeira Liga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cássio, BRA, G, 1.86, 79, 12-08-80, Rio de Janeiro, Arouca
+2, Eliseu Cassamá, POR, D, 1.79, 73, 06-02-94, Bissau, Reus
+3, Aníbal, POR, D, 1.88, 84, 08-05-91, Vila Verde, Sporting Braga
+4, Nélson Monte, POR, D, 1.87, 71, 30-07-95, Vila do Conde, Benfica
+6, Pedro Moreira, POR, M, 1.82, 75, 15-03-89, Lousada, FC Porto
+7, Hélder Guedes, POR, F, 1.82, 76, 07-05-87, Penafiel, Penafiel
+8, Tarantini, POR, M, 1.89, 76, 07-10-83, Baião, Portimonense
+9, Gonçalo Paciência, POR, F, 1.84, 78, 01-08-94, Porto, FC Porto
+10, Filip Krovinović, CRO, M, 1.75, 70, 29-08-95, Zagreb, Zagreb
+11, Jaime, POR, F, , , 28-09-97, Vila do Conde, None
+12, Lionn, BRA, D, 1.77, 67, 29-01-89, Fortaleza, CFR Cluj
+13, Bruno Teles, BRA, D, 1.83, 78, 01-05-86, Alvorada, América Mineiro
+14, André Vilas Boas, POR, D, 1.83, 80, 04-06-83, Vila do Conde, Marítimo
+16, Tiago André, POR, D, , , 18-01-97, Vila do Conde, None
+17, Luwagga Kizito, UGA, F, 1.74, 68, 20-12-93, Kisubi, Sporting Covilhã
+18, Vitó, POR, M, 1.80, 70, 18-09-97, Negreiros, FC Porto
+19, Ronan, BRA, F, 1.95, 87, 22-04-95, Piraúba, Sanjoanense
+20, João Novais, POR, M, 1.79, 70, 10-07-93, Vila Nova de Gaia, Leixões
+21, Leandrinho, BRA, M, 1.78, 70, 25-09-93, Espinosa, Santos
+22, Radosav Petrović, SRB, M, 1.93, 83, 08-03-89, Ub, Sporting CP
+23, Adama Traoré, MLI, M, 1.78, 72, 28-06-95, Bamako, Monaco
+24, Héldon, CPV, F, 1.74, 68, 14-11-88, Ilha do Sal, Sporting CP
+25, Roderick Miranda, POR, D, 1.93, 85, 30-03-91, Odivelas, Benfica
+26, Pedrinho, POR, D, 1.77, 73, 06-03-85, Vila do Conde, Lorient
+31, Gil Dias, POR, F, 1.83, 75, 28-09-96, Gafanha da Nazaré, Monaco
+46, Marcelo, BRA, D, 1.82, 74, 27-07-89, São Carlos, Ribeirão
+55, Rafa Soares, POR, D, 1.82, 75, 09-05-95, Marco de Canaveses, FC Porto
+70, Rúben Ribeiro, POR, M, 1.75, 67, 01-08-87, Ramalde, Boavista
+71, Rui Vieira, POR, G, 1.89, 80, 13-11-91, Braga, Marítimo
+88, Yazalde, POR, F, 1.83, 79, 10-09-88, Vila do Conde, Sporting Braga
+98, Carlos Alves, POR, G, 1.87, 80, 18-02-98, Vila do Conde, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+75, Tafsir Chérif, GUI, F, 1.75, 73, 19-06-95, Conakry, Monaco
+30, Alhassan Wakaso, GHA, M, 1.80, 80, 07-01-92, Tamale, Lorient
+5, Filipe Augusto, BRA, M, 1.82, 77, 12-08-93, Bahia, Benfica

@@ -1,0 +1,40 @@
+=  Monaco - French Ligue 1 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danijel Subašić, CRO, G, 1.92, 84, 27-10-84, Zadar, Hajduk Split
+2, Fabinho, BRA, D, 1.87, 78, 23-10-93, Campinas, Rio Ave
+3, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, None
+5, Aymen Abdennour, TUN, D, 1.87, 84, 06-08-89, Sousse, Toulouse
+6, Ricardo Carvalho, POR, D, 1.83, 76, 18-05-78, Amarante, Real Madrid
+7, Nabil Dirar, MAR, M, 1.82, 79, 25-02-86, Casablanca, Club Brugge
+8, João Moutinho, POR, M, 1.70, 61, 08-09-86, Portimão, FC Porto
+10, Dimitar Berbatov, BUL, F, 1.88, 79, 30-01-81, Blagoevgrad, Fulham
+12, Matheus Carvalho, BRA, F, 1.77, 70, 11-03-92, Niterói, Fluminense
+13, Wallace, BRA, D, 1.91, 78, 14-10-94, Rio de Janeiro, Sporting Braga
+14, Tiemoué Bakayoko, FRA, M, 1.85, 77, 17-08-94, Paris, Rennes
+15, Bernardo Silva, POR, M, 1.73, 62, 10-08-94, Lisbon, Benfica
+16, Maarten Stekelenburg, NED, G, 1.97, 92, 22-09-82, Haarlem, Fulham
+17, Yannick Ferreira Carrasco, BEL, M, 1.80, 67, 04-09-93, Elsene, None
+18, Valère Germain, FRA, F, 1.81, 75, 17-04-90, Marseille, None
+19, Lacina Traoré, CIV, F, 1.86, 75, 20-08-90, Abidjan, Anzhi Makhachkala
+21, Elderson Uwa Echiejile, NGA, D, 1.84, 76, 20-01-88, Cotonou, Sporting Braga
+22, Geoffrey Kondogbia, FRA, M, 1.83, 71, 25-04-93, Saint-Denis, Sevilla
+23, Anthony Martial, FRA, F, 1.81, 76, 05-12-95, Massy, Lyon
+24, Andrea Raggi, ITA, D, 1.87, 82, 24-06-84, Carrara, Bologna
+25, Alain Traoré, BFA, M, 1.76, 66, 31-12-88, Bobo-Dioulasso, Lorient
+27, Aboubakar Kamara, FRA, F, 1.78, 80, 07-03-95, Gonesse, None
+28, Jérémy Toulalan, FRA, M, 1.83, 77, 10-09-83, Nantes, Málaga
+29, Dylan Bahamboula, FRA, M, 1.85, 65, 22-05-95, Grigny, None
+30, Seydou Sy, SEN, G, 1.92, 80, 12-12-95, Dakar, None
+34, Abdou Diallo, FRA, D, 1.83, 72, 04-05-96, Tours, None
+37, Aboud Aziz Thiam, FRA, M, 1.80, 62, 15-01-97, Le Val Fourré, None
+38, Almamy Touré, MLI, D, 1.82, 72, 28-04-96, Bamako, None
+40, Marc-Aurèle Caillard, FRA, G, 1.91, 79, 12-05-94, Melun, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Manchester U (On Loan)
+20, Nicolas Isimat-Mirin, FRA, D, 1.87, 83, 15-11-91, Meudon-la-Forêt, PSV Eindhoven (On Loan)
+4, Borja López, ESP, D, 1.92, 83, 02-02-94, Gijón, Deportivo La Coruña (On Loan)
+11, Lucas Ocampos, ARG, M, 1.87, 82, 11-07-94, Quilmes, Marseille (On Loan)

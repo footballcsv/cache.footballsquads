@@ -1,0 +1,59 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yevheniy Borovik, G, 6'00", 12 08, 02-03-85, Pryluky, Niva Vinnitsa
+2, Andriy Khomyn, D, 5'10", 11 00, 02-01-82, Potsdam, Borisfen Borispol
+3, Oleksandr Kucher, D, 6'00", 12 01, 22-10-82, Kiev, FC Kharkiv
+4, Oleh Hlushok, D, 6'01", 12 13, 30-01-80, Kiev, FC Kharkiv
+6, Seweryn Gancarczyk, D, 6'00", 11 09, 22-11-81, Zamość, Arsenal Kiev
+7, Serhiy Valyayev, M, 5'11", 11 03, 16-09-78, Makeevka, Kryvbas Kryvyi Rih
+8, Anatoliy Didenko, M, 6'04", 12 13, 09-06-82, Yuznoukrainsk, Kryvbas Kryvyi Rih
+9, Valentyn Slyusar, M, 6'01", 12 11, 15-09-77, Kiev, Zakarpattya Uzhgorod
+10, Lasha Jakobia, F, 5'11", 12 00, 20-08-80, Tbilisi, FK Tbilisi
+11, Serhiy Davydov, F, 5'10", 10 03, 16-12-84, Eskhar, Metalist Kharkiv-2
+12, Vadim Kudikov, G, 6'02", 12 06, 15-12-84, Glubokoe, Metalist Kharkiv-2
+14, Ruslan Yarosh, M, 5'10", 09 11, 31-08-79, Kiev, Zakarpattya Uzhgorod
+15, Sergey Kuznetsov, M, 5'10", 11 11, 03-11-79, Minsk, Naftan Novopolotsk
+16, Vladyslav Sereda, M, 5'10", 10 06, 28-02-88, Kharkiv, Metalist Kharkiv-2
+17, Andriy Koval, F, 5'11", 11 00, 06-12-83, Belaya Tserkov, FC Kharkiv
+18, Oleksiy Oliynyk, M, 5'11", 11 09, 14-11-77, Zaporoże, Stal Alchevsk
+19, Miljan Mrdakovic, F, 6'02", 12 13, 06-05-82, Niš, Austria Salzburg
+20, Anton Postupalenko, M, 5'10", 10 01, 28-08-88, Kharkiv, Metalist Kharkiv-2
+21, Oleksandr Babych, M, 5'10", 11 05, 15-02-79, Alchevsk, Anzhi Makhachkala
+22, Oleksandr Humenyuk, G, 6'06", 12 04, 06-10-76, Khmelnitsky, Volyn Lutsk
+23, Alyaksandr Danilov, M, 5'10", 11 00, 10-09-80, Gomel, Gomel
+24, Ruslan Fomin, F, 5'11", 11 05, 02-03-86, Donetsk, Shakhtar Donetsk
+25, Taras Kiktov, M, 5'10", 11 00, 07-11-86, , Metalist Kharkiv-2
+26, Ihor Bykanov, M, 6'03", 12 04, 12-05-87, , Metalist Kharkiv-2
+27, Maksym Yakhno, D, 5'09", 10 01, 03-04-88, Kharkiv, Metalist Kharkiv-2
+28, Serhiy Skorobrekh, D, 5'10", 11 00, 14-10-88, , Metalist Kharkiv-2
+29, Aleksandr Goryainov, G, 6'02", 12 04, 29-06-75, Kharkiv, Kryvbas Kryvyi Rih
+30, Volodymyr Lelyushkin, D, 6'00", 11 07, 21-02-88, , Metalist Kharkiv-2
+31, Serhiy Barilko, M, 5'09", 10 10, 05-01-87, , Metalist Kharkiv-2
+32, Artem Kotevych, M, 5'10", 11 09, 12-05-87, , Metalist Kharkiv-2
+33, Karen Ohanyan, F, 5'08", 10 12, 25-06-82, Moscow, Alania Vladikavkaz
+35, Yuriy Pleshakov, F, 6'03", 12 13, 29-08-88, , Metalist Kharkiv-2
+37, Vitali Bordian, M, 5'10", 10 12, 11-08-84, Chişinău, Lokomotiv Moscow
+39, Konstantin Yaroshenko, M, 5'10", 09 11, 12-09-86, Luhansk, Shakhtar Donetsk
+47, Jader, F, 5'09", 11 05, 21-02-84, Porto Alegre, FC Kharkiv
+51, Sergey Kostyuk, M, 5'11", 10 08, 05-03-86, Kharkiv, Metalist Kharkiv-2
+71, Roman Svitlychniy, M, 5'11", 10 10, 04-01-86, Volchansk, Metalist Kharkiv-2
+75, Roman Hetsko, F, 6'03", 12 11, 03-10-85, Irshavskiy, Chernomorets Odessa
+77, Artem Putivtsev, M, 6'02", 12 08, 29-08-88, Kharkiv, Metalist Kharkiv-2
+84, Yevheniy Borovyk, G, 6'00", 12 08, 02-03-85, Pryluky, Metalist Kharkiv-2
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Serhiy Loboyko, D, , , 06-04-85, , Naftovyk-Ukrnafta
+1, Oleh Ostapenko, G, 6'03", 12 06, 27-10-77, Vinnica, 
+5, Evgeniy Varlamov, D, 6'03", 13 10, 25-07-75, Kazan, Kuban Krasnodar
+6, Oleksandr Honchar, M, 5'10", 11 03, 25-02-80, Borispol, Zorya Luhansk
+8, Viktor Melnyk, M, 6'01", 11 05, 11-08-80, Zaporozhye, Obolon Kiev-2
+24, Andriy Khanas, D, 5'10", 12 13, 26-07-84, Lviv, Hazovyk-Skala Stryi
+25, Andriy Spevak, M, 5'07", 10 12, 04-01-76, Shostka, 
+39, Kostyantyn Yaroshenko, M, 5'10", 09 11, 12-09-86, Luhansk, Arsenal Kiev
+5, Marcos Paulo, M, 5'10", 11 09, 11-05-77, Doresopolis, 
+17, Yuri Petrv, F, 5'09", 11 00, 18-07-74, Kryvyi Rih, 
+35, Oleksiy Kryvosheyev, D, 6'02", 11 11, 22-02-84, Kirovohrad, Naftovyk-Ukrnafta
+99, Valeriu Andronic, M, 5'09", 11 05, 21-12-82, Chişinău, 

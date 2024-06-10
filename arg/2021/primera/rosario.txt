@@ -1,0 +1,48 @@
+=  Rosario Central - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Josue Ayala, ARG, G, 1.83, 80, 30-05-88, Capital Federal, Temperley
+2, Nicolás Ferreyra, ARG, D, 1.93, 82, 30-03-93, Río Cuarto, Estudiantes (Río Cuarto)
+3, Lautaro Blanco, ARG, D, 1.76, 81, 19-02-99, Rosario, None
+4, Damián Martínez, ARG, D, 1.77, 72, 31-01-90, Capital Federal, Unión (Santa Fe)
+6, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, Cerezo Osaka
+7, Alan Marinelli, ARG, F, 1.74, 70, 07-04-99, Rosario, None
+8, Diego Zabala, URU, M, 1.71, 66, 19-09-91, Montevideo, Unión (Santa Fe)
+9, Marco Rubén, ARG, F, 1.79, 72, 26-10-86, Capitán Bermúdez, Dynamo Kyiv
+10, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Bolívar
+11, Luciano Ferreyra, ARG, M, 1.68, 63, 19-02-02, Rosario, None
+12, Juan Pablo Romero, ARG, G, 1.81, 82, 02-06-98, Elortondo, None
+14, Rafael Sangiovani, ARG, D, 1.68, 66, 31-03-98, Arteaga, None
+15, Martín Rabuñal, URU, M, 1.83, 71, 22-04-94, Montevideo, Defensor Sporting
+16, Mateo Tanlongo, ARG, M, 1.81, 63, 08-12-03, Funes, None
+17, Milton Caraglio, ARG, F, 1.87, 89, 01-12-88, Rosario, Atlas
+18, Francesco Lo Celso, ARG, M, 1.82, 77, 05-03-00, Rosario, Paris St-Germain
+19, Jorge Broun, ARG, G, 1.90, 90, 26-05-86, Rosario, Gimnasia y Esgrima (LP)
+20, Fernando Torrent, ARG, D, 1.79, 72, 02-10-91, Arrecifes, Defensores de Belgrano
+21, Fabián Rinaudo, ARG, M, 1.76, 75, 15-05-87, Armstrong, Gimnasia y Esgrima (LP)
+22, Gastón Ávila, ARG, D, 1.82, 80, 30-09-01, Rosario, Boca Juniors
+23, Ignacio Russo, ARG, F, 1.75, 77, 13-12-00, Rosario, None
+24, Alejo Véliz, ARG, F, 1.87, 77, 19-09-03, Bernardo de Irigoyen, None
+25, Emmanuel Ojeda, ARG, M, 1.80, 72, 05-11-97, Goya, None
+26, Nahuel Franco, ARG, M, 1.77, 71, 12-09-01, San Lorenzo, None
+27, Gino Infantino, ARG, M, 1.79, 75, 19-05-03, Rosario, None
+28, Lucas Gamba, ARG, F, 1.65, 65, 24-06-87, Mendoza, Huracán
+29, Luca Martínez Dupuy, MEX, F, 1.80, 73, 05-06-01, San Luis Potosí, None
+30, Michael Covea, VEN, M, 1.77, 75, 21-08-93, Caracas, Deportivo Táchira
+31, Mauricio Maslovski, ARG, G, 1.85, 75, 15-03-00, San Ignacio, None
+32, Facundo Almada, ARG, D, 1.77, 70, 10-07-98, Granadero Baigorria, None
+33, Lautaro Giaccone, ARG, M, 1.72, 70, 01-02-01, San Francisco [ARG], None
+34, Franco Frías, ARG, F, 1.74, 69, 17-03-02, Granadero Baigorria, None
+35, Ulises Ciccioli, ARG, D, 1.73, 66, 07-02-03, Bombal, None
+36, Fernando Godoy, ARG, D, 1.75, 74, 18-05-00, San Nicolás de los Arroyos, None
+40, Lucas Amud, ARG, M, 1.72, 68, 02-09-01, Rosario, None
+41, Julio Luques, ARG, M, 1.67, 54, 14-10-02, San Nicolás de los Arroyos, None
+42, Leandro Iglesias, ARG, M, 1.70, 68, 17-01-01, Rosario, None
+43, Nicolás Meriano, ARG, D, 1.90, 83, 09-11-00, Rosario, Belgrano (Córdoba)
+44, Fernando Rodríguez, ARG, D, 1.82, 79, 05-10-00, Villa Gobernador Gávez, None
+48, Ricardo Garay, PAR, D, 1.86, 80, 07-03-97, Encarnación, Nacional [PAR]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Rodrigo Villagra, ARG, M, 1.78, 70, 14-02-01, Morteros, Talleres (Córdoba)

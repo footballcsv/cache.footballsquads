@@ -1,0 +1,62 @@
+=  Grêmio - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Nantes
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Rodrigo Ely, BRA, D, 1.88, 82, 03-11-93, Lajeado, Almería
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, São Paulo
+7, Luan, BRA, M, 1.80, 71, 27-03-93, São José do Rio Preto, Corinthians
+8, Felipe Carballo, URU, M, 1.77, 72, 04-10-96, Montevideo, Nacional [URU]
+9, Luis Suárez, URU, F, 1.82, 86, 24-01-87, Salto, Nacional [URU]
+10, Ferreira, BRA, F, 1.75, 65, 31-12-97, Dourados, None
+11, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Fenerbahçe
+12, Gabriel Grando, BRA, G, 1.92, 74, 29-03-00, Chapecó, None
+13, Everton Galdino, BRA, F, 1.77, 75, 17-03-97, Osasco, Tombense
+14, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Atlético Mineiro
+15, Bruno Uvini, BRA, D, 1.88, 85, 03-06-91, Capivari, FC Tokyo
+17, Gustavinho, BRA, M, 1.74, 67, 29-10-01, Juiz de Fora, América Mineiro
+18, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, FC Porto
+19, Franco Cristaldo, ARG, M, 1.70, 70, 15-08-96, Capital Federal, Huracán
+20, Mathias Villasanti, PAR, M, 1.78, 68, 24-01-97, Caacupé, Cerro Porteño
+21, Juan Manuel Iturbe, PAR, F, 1.72, 68, 04-06-93, Capital Federal, Aris
+22, Lucas Besozzi, ARG, F, 1.76, 74, 22-01-03, Lanús, Lanús
+23, Pepê, BRA, M, 1.83, 77, 06-01-98, Rio de Janeiro, Cuiabá
+25, Jhonata Robert, BRA, F, 1.78, 71, 26-10-99, Recife, None
+31, Caique, BRA, G, 1.98, 80, 31-07-97, Salvador, Ypiranga
+32, Nathan Fernandes, BRA, F, 1.93, 71, 16-02-05, Rio de Janeiro, None
+34, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, São Paulo
+35, Ronald, BRA, M, 1.86, 75, 11-02-03, Porto Alegre, None
+36, Natã, BRA, D, 1.80, 70, 05-06-01, Ribeirão Preto, None
+37, Gustavo Gomes, BRA, F, -, -, 20-11-05, São Vicente, None
+38, Lian, BRA, F, -, -, 20-09-05, Rio de Janeiro, None
+41, Felipe Scheibig, BRA, G, 1.95, 80, 08-03-00, Três Passos, None
+43, João Ramos, BRA, D, -, -, 15-02-03, Brasília, None
+44, Viery, BRA, D, 1.87, 85, 02-01-05, Ubá, None
+45, Mila, BRA, M, 1.76, 72, 28-01-03, Três Passos, None
+46, José Guilherme, BRA, D, 1.81, 79, 16-03-05, Fortaleza, None
+48, Josué, BRA, M, -, -, 25-04-05, Nova Iguaçu, None
+49, João Araujo, BRA, M, -, -, 20-06-05, -, None
+51, Wesley, BRA, D, -, -, 04-01-04, Alvorada, None
+53, Gustavo Martins, BRA, D, 1.91, 70, 11-08-02, Niterói, None
+54, Cuiabano, BRA, D, 1.79, 82, 16-02-03, Cuiabá, None
+59, Freddy Noguera, PAR, F, -, -, 09-01-04, Asunción, None
+77, André Henrique, BRA, F, 1.89, 72, 17-12-01, Guanambi, Hercílio Luz
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+59, Gabriel Silva, BRA, M, 1.78, 67, 03-07-02, São Paulo, Coritiba (On Loan)
+6, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Fluminense (On Loan)
+58, Thomás Luciano, BRA, D, 1.80, 67, 14-01-02, Porto Alegre, Gil Vicente
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Cruzeiro
+29, Diego Souza, BRA, F, 1.86, 89, 17-06-85, Rio de Janeiro, Sport Recife
+37, Darlan Mendes, BRA, M, 1.79, 72, 16-04-98, São Borja, Levski Sofia
+11, Vina, BRA, M, 1.77, 75, 15-04-91, Curitiba, Ceará
+31, Adriel, BRA, G, 1.95, 81, 14-01-01, Ilheus, Bahia (On Loan)
+7, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Re-Registered (14)
+22, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Re-Registered (6)
+1, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, Bari (On Loan)
+40, Ronald Barcellos, BRA, F, 1.74, 68, 02-03-02, Belford Roxo, Portimonense
+48, Zinho, BRA, F, 1.78, 70, 09-05-03, Lajeado, Portimonense (On Loan)
+39, Bitello, BRA, M, 1.78, 70, 07-01-00, Formosa do Oeste, Dynamo Moscow

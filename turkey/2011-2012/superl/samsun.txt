@@ -1,0 +1,54 @@
+=  Samsunspor - Turkish Süper Lig 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ertuğrul Taşkıran, TUR, G, 1.91, 83, 05-11-89, Kadıköy, Fenerbahçe
+3, André Bahia, BRA, D, 1.82, 75, 24-11-83, Rio de Janeiro, Feyenoord
+4, Valdomiro, BRA, D, 1.91, 89, 06-02-79, Salvador da Bahia, Vitória Setúbal
+5, Michael Fink, GER, M, 1.83, 76, 01-02-82, Waiblingen, Beşiktaş
+6, Oğuzhan Azğar, TUR, D, 1.88, 78, 14-07-93, Samsun, None
+7, Selim Teber, GER, M, 1.87, 88, 07-03-81, Frankenthal, Kayserispor
+12, Ekigho Ehiosun, NGA, F, 1.80, 70, 12-05-89, Lagos, Warri Wolves
+13, Kemal Tokak, TUR, D, 1.84, 75, 25-04-89, Yüreğir, Çanakkale Dardanelspor
+14, Murat Ceylan, TUR, D, 1.68, 69, 02-03-88, Gaziantep, Gaziantepspor
+16, Atilla Özmen, TUR, G, 1.89, 81, 11-05-88, Ayvalık, Bucaspor
+17, Anıl Dilaver, TUR, F, 1.83, 74, 20-11-90, Sürmene, Galatasaray
+19, Murat Yıldırım, TUR, M, 1.70, 68, 18-05-87, Çorum, Ajax
+20, Pál Lázár, HUN, D, 1.77, 73, 11-03-88, Sopron, Videoton
+22, Adem Alkaşi, TUR, D, 1.82, 79, 14-04-84, Istanbul, Çanakkale Dardanelspor
+24, Akaki Khubutia, GEO, D, 1.88, 70, 17-03-86, Sukhumi, Gaz Metan Mediaş
+25, Uğur Boral, TUR, M, 1.78, 72, 14-04-82, Istanbul, Fenerbahçe
+26, Muratcan Öncü, TUR, F, , , 05-08-92, Samsun, None
+28, Yenal Tuncer, TUR, D, 1.82, 78, 28-04-85, Denizli, Bursaspor
+29, Gurur Yazar, TUR, D, 1.87, 80, 16-04-87, İzmir, Karşıyaka
+32, Theofanis Gekas, GRE, F, 1.79, 82, 23-05-80, Larissa, Eintracht Frankfurt
+33, Simon Zenke, NGA, F, 1.77, 85, 24-12-88, Kaduna, Strasbourg
+37, Hakan Arslan, TUR, D, 1.86, 77, 18-07-88, Istanbul, Güngören Belediyespor
+44, Aykut Topal, TUR, D, , , 14-08-91, Samsun, None
+52, Samet Hasan Yıldıran, TUR, M, , , 19-09-92, Ünye, None
+60, Yankı Şengün, TUR, D, , , 14-03-92, Samsun, None
+70, Halil İbrahim Pekşen, TUR, M, , , 01-01-93, Havza, None
+80, Canberk Dilaver, TUR, D, 1.78, 74, 01-06-93, Samsun, None
+84, Dejan Kelhar, SVN, D, 1.88, 85, 05-04-84, Brežice, Hapoel Haifa
+87, Serdar Özkan, TUR, M, 1.77, 65, 01-01-87, Düzce, Ankaraücü
+88, Yasin Uzun, TUR, M, , , 12-12-92, Samsun, None
+91, Furkan Köse, TUR, G, , , 28-05-93, Samsun, None
+99, Aykut Çift, TUR, F, , , 14-06-93, Trabzon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Mustafa Sarp, TUR, M, 1.87, 76, 05-11-80, Bakirköy, Karabükspor
+15, Ergün Teber, TUR, D, 1.81, 76, 01-09-85, Adana, Gençlerbirliği
+78, Ahmet Şahin, TUR, G, 1.90, 83, 22-03-78, Istanbul, Elazığspor
+50, Dilaver Güclü, TUR, M, 1.73, 65, 20-02-86, Velbert, Denizlispor
+27, Orhan Taşdelen, TUR, D, 1.79, 75, 06-02-87, Gaziantep, Erciyesspor
+81, Ersin Veli, TUR, D, 1.80, 75, 02-04-82, Düzce, Giresunspor
+10, Ufuk Bayraktar, TUR, M, 1.76, 66, 01-01-86, Trabzon, Gaziantep BB
+77, Bülent Kocabey, TUR, M, 1.73, 69, 08-06-84, Istanbul, Karşıyaka
+90, Bahri Can Avcı, TUR, D, , , 18-03-92, Samsun, Siirtspor (On Loan)
+11, Başaran Saraçoğlu, TUR, M, 1.76, 68, 09-09-92, Samsun, Yalıspor
+9, Burak Çalık, TUR, F, 1.78, 69, 05-02-89, Erzincan, Adanaspor (On Loan)
+23, Álvaro Domínguez, COL, M, 1.75, 71, 10-06-81, El Cerrito, Deportivo Cali
+21, Savaş Yılmaz, TUR, M, 1.80, 75, 01-01-90, Sürmene, Boluspor
+92, Hakan Balcık, TUR, M, , , 12-04-93, Gerze, Erganispor (On Loan)
+18, Aristide Bancé, BFA, F, 1.92, 90, 19-09-84, Abidjan, Al-Ahli [UAE]

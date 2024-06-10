@@ -1,0 +1,39 @@
+=  Auxerre - French Ligue 2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Zacharie Boucher, FRA, G, 1.80, 74, 07-03-92, St Pierre, Toulouse
+2, Carlens Arcus, HAI, D, 1.82, 76, 28-06-96, Port-au-Prince, Cercle Brugge
+3, Pierre-Yves Polomat, BLZ, D, 1.80, 73, 27-12-93, Belmopan, St-Etienne
+4, Mickaël Barreto, FRA, M, 1.74, 63, 18-01-91, Paris, Orléans
+5, Abdoul Ba, MTN, D, 2.00, 96, 08-02-94, Dakar, Lens
+6, Brahim Konaté, FRA, M, 1.79, 64, 20-03-96, Montfermeil, None
+7, Ibrahim Sangaré, FRA, F, 1.87, 78, 15-03-94, Montreuil-sous-Bois, Avranches
+8, Jordan Adéoti, BEN, M, 1.83, 77, 12-03-89, L'Union, Caen
+9, Pape Sané, SEN, F, 1.87, 85, 30-12-91, Dakar, Caen
+10, Ludovic Obraniak, POL, M, 1.74, 72, 10-11-84, Longueville-lès-Metz, Maccabi Haifa
+11, Florian Ayé, FRA, F, 1.84, 75, 19-01-97, Paris, None
+12, Birama Touré, MLI, M, 1.83, 75, 06-06-92, Kayes, Standard Liège
+13, Kenji-Van Boto, FRA, D, 1.86, 68, 07-03-96, Saint-Denis, None
+14, François-Xavier Fumu Tamuzo, FRA, F, 1.80, 73, 03-04-95, Paris, None
+15, Yanis Begraoui, FRA, F, 1.75, 62, 04-07-01, Étampes, None
+16, Quentin Westberg, USA, G, 1.83, 78, 25-04-86, Suresnes, Tours
+17, Benjaloud Youssouf, FRA, D, 1.76, 71, 11-02-94, Marseille, Orléans
+18, Mohamed Yattara, GUI, F, 1.85, 76, 28-07-93, Conakry, Standard Liège
+19, Alexandre Vincent, FRA, M, 1.73, 65, 25-04-94, Auxerre, None
+20, Mickaël Tacalfred, FRA, D, 1.75, 69, 23-04-81, Colombes, Reims
+21, Hamza Sakhi, MAR, M, 1.73, 68, 07-06-96, Rabat, Metz
+22, Zheng Jie, CHN, M, 1.74, , 04-10-95, , Guangzhou Evergrande
+23, Vieux Sané, SEN, D, 1.91, 83, 04-08-89, Dakar, Bursaspor
+25, Moussa Diallo, FRA, M, 1.78, 69, 27-01-97, Corbeil-Essonnes, None
+26, Ivan Firer, SVN, F, 1.89, 90, 19-11-84, Celje, Domžale
+27, Abdoulaye Sissako, FRA, M, 1.85, 77, 26-05-98, Clichy, None
+28, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Lorient
+29, Evan Ndicka, FRA, D, 1.90, 80, 20-08-99, Paris, None
+30, Sonny Laiton, FRA, G, 1.80, 80, 28-01-00, Saint-Louis, None
+31, Lamine Fomba, FRA, M, 1.75, 75, 26-01-98, Rosny-sous-Bois, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Romain Montiel, FRA, F, 1.87, 78, 22-04-95, Manosque, Chambly (On Loan)
+15, Loïc Goujon, FRA, M, 1.80, 69, 09-01-96, Sens, Boulogne (On Loan)

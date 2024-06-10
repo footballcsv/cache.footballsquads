@@ -1,0 +1,50 @@
+=  Stoke City - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Butland, ENG, G, 1.96, 95, 10-03-93, Bristol, Birmingham C
+2, Tom Edwards, ENG, D, 1.75, 76, 21-01-99, Stafford, None
+3, Stephen Ward, IRL, D, 1.84, 82, 20-08-85, Dublin, Burnley
+4, Joe Allen, WAL, M, 1.70, 62, 14-03-90, Carmarthen, Liverpool
+5, Liam Lindsay, SCO, D, 1.93, 79, 12-10-95, Glasgow, Barnsley
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, Wolverhampton W
+7, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Huddersfield T
+9, Sam Vokes, WAL, F, 1.86, 90, 21-10-89, Lymington, Burnley
+11, James McClean, IRL, M, 1.80, 70, 22-04-89, Derry, WBA
+12, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, Aston Villa
+14, Tommy Smith, ENG, D, 1.86, 75, 14-04-92, Warrington, Huddersfield T
+15, Bruno Martins Indi, NED, D, 1.85, 74, 08-02-92, Barreiro, FC Porto
+16, Adam Davies, WAL, G, 1.85, 75, 17-07-92, Rinteln, Barnsley
+17, Ryan Shawcross, ENG, D, 1.91, 76, 04-10-87, Chester, Manchester U
+18, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, Hannover 96
+19, Lee Gregory, ENG, F, 1.88, 80, 26-08-88, Sheffield, Millwall
+20, Tashan Oakley-Boothe, ENG, M, 1.78, 70, 14-02-00, Lambeth, Tottenham H
+22, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Swansea C
+23, Thibaud Verlinden, BEL, M, 1.73, 65, 09-07-99, Bruges, Standard Liège
+24, Jordan Cousins, ENG, M, 1.77, 72, 06-03-94, Greenwich, QPR
+25, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Wigan Ath
+26, Tyrese Campbell, ENG, F, 1.83, 78, 28-12-99, Derby, Manchester C
+28, Julien Ngoy, BEL, F, 1.85, 64, 02-11-97, Antwerp, Club Brugge
+32, Adam Federici, AUS, G, 1.88, 90, 31-01-85, Nowra, Bournemouth
+33, Lasse Sørensen, DEN, M, 1.85, 78, 21-10-99, Vejen, Esbjerg
+34, Jordan Thompson, NIR, M, 1.75, 65, 03-01-97, Belfast, Blackpool
+35, Josh Tymon, ENG, D, 1.78, 74, 22-05-99, Kingston upon Hull, Hull C
+37, Nathan Collins, IRL, D, 1.96, 89, 30-04-01, Leixlip, Cherry Orchard
+39, Cameron McJannet, ENG, D, 1.73, 68, 06-09-98, Milton Keynes, Luton T
+40, Blondy Nna Noukeu, CMR, G, 1.84, 70, 17-09-01, , None
+48, Adam Porter, ENG, M, 1.87, 77, 08-04-02, Stoke-on-Trent, None
+49, Will Forrester, ENG, D, 1.83, 74, 29-06-01, Stoke-on-Trent, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Benik Afobe, COD, F, 1.83, 78, 12-02-93, Leyton, Bristol C (On Loan)
+29, Moritz Bauer, AUT, D, 1.81, 73, 25-01-92, Veltheim, Celtic (On Loan)
+30, Kevin Wimmer, AUT, D, 1.87, 92, 15-11-92, Wels, Excel Mouscron (On Loan)
+12, Cameron Carter-Vickers, USA, D, 1.83, 92, 31-12-97, Southend-on-Sea, Tottenham H
+27, Badou Ndiaye, SEN, M, 1.79, 74, 27-10-90, Dakar, Trabzonspor (On Loan)
+8, Oghenekaro Etebo, NGA, M, 1.76, 70, 09-11-95, Lagos, Getafe (On Loan)
+44, Dan Jarvis, ENG, M, 1.71, 73, 03-04-98, Huntingdon, Wrexham
+38, Ryan Woods, ENG, M, 1.73, 64, 13-12-93, Norton Canes, Millwall (On Loan)
+20, Scott Hogan, IRL, F, 1.80, 64, 13-04-92, Salford, Aston Villa
+31, Mark Duffy, ENG, M, 1.75, 72, 07-10-85, Liverpool, Sheffield U
+21, Giannelli Imbula, FRA, M, 1.83, 77, 12-09-92, Vilvoorde, PFC Sochi

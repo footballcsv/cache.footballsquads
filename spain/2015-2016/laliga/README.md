@@ -1,0 +1,23 @@
+# Spanish La Liga 2015/16
+
+20 teams
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Celta Vigo](celta.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Eibar](eibar.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Las Palmas](laspalmas.txt)
+- [Levante](levante.txt)
+- [Málaga](malaga.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)

@@ -1,0 +1,56 @@
+=  Foggia - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Davide Di Stasio, ITA, G, , , 19-01-01, Venosa, None
+2, Jean-Claude Billong, FRA, D, 1.92, 90, 28-12-93, Paris, Benevento
+3, Luca Ranieri, ITA, D, 1.85, 74, 23-04-99, La Spezia, Fiorentina
+4, Cristian Agnelli, ITA, M, 1.74, 70, 23-09-85, Foggia, SPAL
+5, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Bari
+6, Giuseppe Loiacono, ITA, D, 1.82, 77, 06-10-91, Bari, Paganese
+7, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Cremonese
+8, Matteo Arena, ITA, D, 1.87, 85, 14-01-99, Bari, Trani
+9, Pietro Iemmello, ITA, F, 1.80, 75, 06-03-92, Catanzaro, Benevento
+10, Francesco Deli, ITA, F, 1.82, 77, 17-07-94, Rome, Paganese
+11, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Crotone
+12, Simone Pio Sarri, ITA, G, 1.86, 79, 18-09-00, Milan, Manfredonia
+13, Marco Zambelli, ITA, D, 1.82, 77, 22-08-85, Gavardo, Empoli
+14, Luca Martinelli, ITA, D, 1.85, 74, 20-12-88, Milan, Messina
+15, Pierre-Yves Ngawa, BEL, D, 1.87, 75, 09-02-92, Liège, Perugia
+16, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Perugia
+17, Emanuele Cicerelli, ITA, F, 1.77, 71, 12-08-94, San Giovanni Rotondo, Salernitana
+18, Cristian Galano, ITA, F, 1.70, 69, 01-04-91, Foggia, Parma
+19, Fabio Mazzeo, ITA, F, 1.77, 77, 24-07-83, Salerno, Benevento
+20, Lucas Chiaretti, BRA, F, 1.71, 67, 22-09-87, Belo Horizonte, Cittadella
+21, Lorenzo Cavallini, ITA, F, , , 06-03-00, San Miniato, Pisa
+22, Andries Noppert, NED, G, 1.96, 87, 07-04-94, Heerenveen, NAC Breda
+23, Andrea Marcucci, ITA, M, 1.73, 72, 07-02-99, Rome, Roma
+24, Basilio Antonelli, ITA, F, 1.72, 70, 25-01-00, Agnone, Roma
+25, Alberto Gerbo, ITA, M, 1.77, 70, 09-11-89, Valenza, Latina
+26, Matteo Cucci, ITA, D, 1.78, 71, 20-02-01, Nardò, None
+27, Deian Boldor, ROU, D, 1.89, 81, 03-02-95, Timişoara, Verona
+28, Gianmarco Ingrosso, ITA, D, 1.86, 82, 28-01-89, Gagliano del Capo, Pisa
+29, Matteo Marini, ITA, F, , , 10-05-01, Rome, Roma
+30, Massimiliano Busellato, ITA, M, 1.74, 73, 23-04-93, Bassano del Grappa, Bari
+31, Michele Camporese, ITA, D, 1.86, 75, 19-05-92, Pisa, Benevento
+32, Francesco Massa, ITA, D, , , 01-01-01, Torre del Greco, Napoli
+33, Luca Matarese, ITA, F, 1.75, 70, 16-04-98, Scafati, Frosinone
+34, Federico Sonnini, ITA, D, 1.90, 80, 02-10-98, Grosseto, Adrense
+35, Manlio Di Masi, ITA, M, , , 12-02-00, Salerno, Chievo Verona
+36, Younes Boufous, BEL, M, 1.85, 78, 06-01-99, , Bologna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Bruno Cascione, ITA, D, , , 13-01-00, Campobasso, Audace Cerignola (On Loan)
+7, Roberto Floriano, ITA, F, 1.71, 67, 14-08-86, Ebingen, Bari
+8, Marco Carraro, ITA, M, 1.78, 74, 09-01-98, Dolo, Atalanta
+1, Albano Bizzarri, ARG, G, 1.88, 89, 09-11-77, Etruria, Perugia
+2, Lorenzo Betti, ITA, D, , , 01-02-00, Carrara, Avellino (On Loan)
+21, Ibrahima Diallo, GUI, F, , , 10-05-01, , Juventus
+23, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Ascoli (On Loan)
+24, Emanuele Amabile, ITA, M, , , 14-06-99, San Giorgio a Cremano, Audace Cerignola (On Loan)
+26, Luca Rizzo, ITA, M, 1.85, 77, 24-04-92, Genoa, Bologna
+29, Kyllan Ramé, FRA, M, 1.79, 74, 25-07-97, Bordeaux, 
+32, Gabriele Gori, ITA, F, 1.87, 80, 13-02-99, Florence, Fiorentina
+15, Lorenzo Cavallini, ITA, F, , , 06-03-00, San Miniato, Re-Registered (21)
+28, Matteo Arena, ITA, D, 1.87, 85, 14-01-99, Bari, Re-Registered (8)

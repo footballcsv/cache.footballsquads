@@ -1,0 +1,44 @@
+=  Independiente - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Joaquín Laso, ARG, D, 1.85, 79, 04-07-90, Balcarce, Rosario Central
+3, Edgar Elizalde, URU, D, 1.81, 75, 27-02-00, Casupá, Pescara
+4, Patricio Ostachuk, ARG, D, 1.80, 76, 05-05-00, Oberá, None
+5, Agustín Mulet, ARG, M, 1.83, 74, 22-02-00, Lomas del Mirador, Vélez Sarsfield
+7, Mauricio Cuero, COL, F, 1.76, 76, 28-01-93, Tumaco, Banfield
+8, Kevin López, ARG, M, 1.80, 70, 28-12-01, Córdoba, Quilmes
+9, Martín Cauteruccio, URU, F, 1.79, 76, 14-04-87, Montevideo, Aldosivi (Mar del Plata)
+11, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Metalist Kharkiv
+12, Manuel Tasso, ARG, G, 1.83, 78, 05-03-01, La Plata, None
+13, Cristian Báez, PAR, D, 1.80, 77, 09-04-90, San Lorenzo [PAR], Rosario Central
+14, Martín Sarrafiore, ARG, M, 1.80, 70, 20-07-97, Villa Ballester, Internacional
+15, Damián Pérez, ARG, D, 1.90, 78, 22-12-88, Lanús, Arsenal [ARG]
+16, Santiago Hidalgo, ARG, F, 1.74, 70, 17-02-05, Santiago del Estero, None
+17, Santiago Ayala, ARG, F, 1.73, 66, 06-05-02, Posadas, None
+18, Tomás Rambert, ARG, F, 1.81, 70, 03-01-04, Capital Federal, None
+19, Luciano Gómez, ARG, D, 1.63, 66, 22-03-96, Corrientes, Argentinos Juniors
+20, Rodrigo Márquez, ARG, F, 1.77, 76, 15-02-02, General Belgrano, None
+21, Javier Vallejo, ARG, F, 1.70, 64, 03-01-04, Corzuela, None
+22, Justo D'Angelo, ARG, M, 1.75, 70, 18-07-01, Colón, None
+23, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, Elche
+25, Diego Segovia, URU, G, 1.88, 76, 15-05-00, Paysandú, None
+26, Thiago Mastrolorenzo, ARG, M, 1.72, 68, 27-01-05, Villa Soldati, None
+27, Tomás Pozzo, ARG, M, 1.68, 73, 27-09-00, Adrogué, None
+28, Sergio Ortiz, ARG, M, 1.73, 66, 23-02-01, Florencio Varela, None
+29, Brian Martínez, ARG, F, 1.60, 60, 18-08-99, Pampa del Infierno, None
+30, Baltasar Barcia, URU, M, 1.77, 75, 19-02-01, Pando, Rentistas
+31, Fernando Da Rosa, ARG, D, 1.81, 75, 02-04-01, Berazategui, None
+32, Martín González, ARG, D, 1.78, 77, 13-01-01, Comodoro Rivadavia, None
+33, Rodrigo Rey, ARG, G, 1.92, 78, 08-03-91, Las Parejas, Gimnasia y Esgrima (LP)
+34, Matías Giménez Rojas, ARG, F, 1.85, 73, 06-03-99, San Juan, San Martín (San Juan)
+35, Santiago Salle, ARG, M, 1.85, 75, 04-06-04, Olavarria, None
+36, Rodrigo Atencio, ARG, M, 1.78, 69, 30-06-02, Rosario, None
+37, David Martínez, ARG, M, 1.70, 67, 14-06-04, Avellaneda, None
+38, Agustín Quiroga, ARG, D, 1.79, 71, 06-04-02, Adolfo Gonzales Chaves, None
+79, Ayrton Costa, ARG, D, 1.79, 74, 12-07-99, Quilmes, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Thomas Ortega, ARG, D, 1.79, 74, 06-12-00, Rafael Calzada, Tristán Suárez (On Loan)
+24, Sergio Barreto, ARG, D, 1.84, 74, 20-02-99, Clorinda, Pachuca

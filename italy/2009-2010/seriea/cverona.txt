@@ -1,0 +1,46 @@
+=  Chievo Verona - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michał Miśkiewicz, POL, G, 1.94, 92, 20-01-89, Kraków, Milan
+2, Santiago Morero, ARG, D, 1.83, 81, 18-04-82, Murphy, Tigre
+3, Francesco Scardina, ITA, D, 1.80, 78, 11-12-81, Turin, Vicenza
+4, Andrea Mantovani, ITA, D, 1.85, 79, 22-06-84, Turin, Torino
+5, Davide Mandelli, ITA, D, 1.90, 84, 28-06-77, Monza, Torino
+6, Giampiero Pinzi, ITA, M, 1.80, 73, 11-03-81, Rome, Udinese
+7, Michele Marcolini, ITA, M, 1.73, 71, 02-10-75, Savona, Atalanta
+8, Tommaso Bianchi, ITA, M, 1.82, 68, 01-11-88, Piombino, Piacenza
+9, Simone Bentivoglio, ITA, M, 1.84, 79, 29-05-85, Pinerolo, Juventus
+10, Luciano, BRA, M, 1.81, 76, 03-12-75, Rio de Janeiro, Internazionale
+11, Pablo Granoche, URU, F, 1.82, 74, 05-09-83, Montevideo, Triestina
+12, Marco Pavanello, ITA, G, 1.91, 85, 11-11-91, Padua, None
+13, Jacopo Fiorucci, ITA, D, 1.88, 74, 27-02-91, Perugia, None
+14, Alessandro Sbaffo, ITA, M, 1.85, 67, 27-08-90, Loreto, None
+15, Manuel Iori, ITA, M, 1.82, 70, 12-03-82, Varese, Cittadella
+16, Luca Rigoni, ITA, M, 1.85, 78, 07-12-84, Schio, Piacenza
+17, Bojan Jokič, SVN, D, 1.76, 75, 17-05-86, Kranj, Sochaux
+18, Lorenzo Squizzi, ITA, G, 1.91, 89, 27-06-74, Domodossola, Perugia
+19, Luca Ariatti, ITA, M, 1.82, 72, 27-12-78, Reggio Emilia, Lecce
+20, Gennaro Sardo, ITA, D, 1.90, 87, 03-05-79, Pozzuoli, Catania
+21, Nicolas Frey, FRA, D, 1.84, 78, 06-03-84, Nice, Modena
+22, Elvis Abbruscato, ITA, F, 1.81, 76, 14-04-81, Reggio Emilia, Torino
+23, Erjon Bogdani, ALB, F, 1.91, 89, 14-04-77, Tirana, Siena
+24, Lucas Finazzi, ITA, M, 1.79, 71, 18-08-90, Cuiabá, None
+26, Nestor Djengoue, CMR, D, 1.88, 78, 26-04-91, Douala, None
+27, Fabio Moro, ITA, D, 1.81, 72, 13-07-75, Bassano del Grappa, Monza
+28, Stefano Sorrentino, ITA, G, 1.86, 84, 28-03-79, Cava dei Tirreni, AEK
+31, Sergio Pellissier, ITA, F, 1.75, 76, 12-04-79, Aosta, Torino
+33, Mario Yepes, COL, D, 1.87, 79, 13-01-76, Cali, Paris St-Germain
+49, Gadji Celi Junior Tallo, CIV, M, 1.87, 77, 21-12-92, Ouragahio, None
+83, Marcos de Paula, BRA, F, 1.86, 80, 19-12-83, Bariri, None
+90, Yonese Hanine, MAR, M, 1.73, 60, 20-02-90, Castiglione delle Stiviere, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Angelo Antonazzo, ITA, D, 1.86, 78, 02-10-81, Taranto, Empoli (On Loan)
+46, Antimo Iunco, ITA, F, 1.70, 74, 10-06-84, Brindisi, Cittadella (On Loan)
+47, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Catania (On Loan)
+88, Simone Grippo, SUI, M, 1.82, 67, 12-12-88, Basel, Lumezzane (On Loan)
+99, Mirco Gasparetto, ITA, F, 1.88, 83, 02-02-80, Asolo, Padova (On Loan)
+8, Marco Malagò, ITA, D, 1.84, 79, 30-12-78, Venice, Siena (On Loan)
+13, Felice Piccolo, ITA, D, 1.87, 84, 27-08-83, Pomigliano d'Arco, Empoli

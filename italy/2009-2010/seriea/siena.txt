@@ -1,0 +1,47 @@
+=  Siena - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Cagliari
+5, Francesco Parravicini, ITA, M, 1.75, 73, 31-01-82, Milan, Parma
+6, Claudio Terzi, ITA, D, 1.82, 73, 19-06-84, Milan, Bologna
+7, Reginaldo, BRA, F, 1.75, 72, 31-07-83, Jundiai, Parma
+8, Simone Vergassola, ITA, M, 1.74, 70, 24-01-76, La Spezia, Torino
+9, Marco Malagò, ITA, D, 1.84, 79, 30-12-78, Venice, Chievo Verona
+10, Paul Constantin Codrea, ROU, M, 1.74, 69, 04-04-81, Timişoara, Palermo
+11, Emanuele Calaiò, ITA, F, 1.79, 72, 08-01-82, Palermo, Napoli
+12, Albin Ekdal, SWE, M, 1.86, 75, 28-07-89, Bromma, Juventus
+13, Luca Rossettini, ITA, D, 1.80, 73, 09-05-85, Padua, Padova
+14, Filipe Gomes, BRA, M, 1.80, 74, 28-05-87, Rio de Janeiro, Roma
+15, Gonçalo Brandão, POR, D, 1.82, 72, 09-10-86, Lisbon, Belenenses
+17, Michele Fini, ITA, M, 1.83, 75, 14-06-74, Sorso, Cagliari
+18, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Genoa
+21, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Juventus
+22, Alexandros Tziolis, GRE, M, 1.89, 84, 13-02-85, Katerini, Panathinaikos
+23, Lukáš Jarolím, CZE, M, 1.76, 72, 29-07-76, Pardubice, Slavia Prague
+24, Mato Jajalo, CRO, M, 1.81, 78, 25-05-88, Jajce, Slaven Belupo
+25, Joazinho Arroé, PER, F, 1.73, , 05-06-92, Lima, None
+29, Emilson Cribari, BRA, D, 1.85, 72, 06-03-80, Cambara, Lazio
+31, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Genoa
+32, Massimo Maccarone, ITA, F, 1.80, 73, 06-09-79, Iuogo Galliate, Middlesbrough
+50, Francesco Pratali, ITA, D, 1.80, 79, 17-01-79, Pontedera, Torino
+53, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, TP-47 Tornio
+63, Marcelo Larrondo, ARG, F, 1.91, 79, 16-08-88, Tunuyán, Progreso
+66, Giacomo Malquori, ITA, D, , , 21-03-91, Empoli, None
+77, Daniele Ficagna, ITA, D, 1.86, 76, 23-02-81, Piombino, Cesena
+85, Gianluca Curci, ITA, G, 1.91, 90, 12-07-85, Rome, Roma
+87, Aleandro Rosi, ITA, M, 1.78, 74, 17-05-87, Rome, Roma
+88, Michael Odibe, NGA, D, 1.89, 80, 23-07-88, Lagos, Union St-Gilloise
+89, Mihail Ivanov, BUL, G, 1.85, 74, 07-08-89, Siena, RC Angolana
+91, Marcel Büchel, AUT, M, 1.75, 69, 18-03-91, Feldkirch, St. Gallen
+92, Federico Mannini, ITA, D, 1.84, 73, 18-04-92, Siena, None
+99, Niccolò Giannetti, ITA, F, 1.75, 70, 12-05-91, Siena, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Daniele Corvia, ITA, F, 1.88, 78, 22-11-84, Rome, Lecce
+20, Richard Porta, URU, F, 1.84, 72, 01-08-83, Fairfield, River Plate [URU] (On Loan)
+28, Mirko Guadalupi, ITA, M, 1.84, 76, 09-02-87, Brindisi, Viareggio
+9, Michele Paolucci, ITA, F, 1.84, 75, 06-02-86, Recanati, Juventus (On Loan)
+19, Agostino Garofalo, ITA, M, 1.78, 71, 29-09-84, Torre Annunziata, Torino (On Loan)
+2, Gaël Genevier, FRA, M, 1.74, 71, 26-06-82, Saint-Martin-d'Hères, Torino (On Loan)

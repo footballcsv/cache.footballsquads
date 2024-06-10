@@ -1,0 +1,21 @@
+# Mexican Liga MX 2013 Clausura
+
+18 teams
+- [América](america.txt)
+- [Atlante](atlante.txt)
+- [Atlas](atlas.txt)
+- [Cruz Azul](cruzazul.txt)
+- [Guadalajara](guadal.txt)
+- [Jaguares de Chiapas](jaguares.txt)
+- [León](leon.txt)
+- [Monterrey](monter.txt)
+- [Morelia](morelia.txt)
+- [Pachuca](pachuca.txt)
+- [Puebla](puebla.txt)
+- [Querétaro](queret.txt)
+- [San Luis](sanluis.txt)
+- [Santos Laguna](santos.txt)
+- [Tijuana](tijuana.txt)
+- [Toluca](toluca.txt)
+- [UANL Tigres](uanltig.txt)
+- [UNAM](unam.txt)

@@ -1,0 +1,47 @@
+=  Vélez Sarsfield - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matías Borgogno, ARG, G, 1.80, 72, 21-08-98, Córdoba, None
+2, Diego Godín, URU, D, 1.87, 78, 16-02-86, Rosario, Atlético Mineiro
+3, Emanuel Insúa, ARG, D, 1.80, 79, 10-04-91, Capital Federal, AEK
+4, Joaquin García, ARG, D, 1.81, 73, 20-08-01, Capital Federal, None
+5, Francisco Ortega, ARG, D, 1.80, 76, 19-03-99, Santa Fe, None
+6, Matías de los Santos, URU, D, 1.84, 83, 22-11-92, Salto, Millonarios
+7, José Florentin, PAR, M, 1.84, 79, 05-07-96, Juan Emiliano O'Leary, Guaraní [PAR]
+8, Franco Díaz, ARG, M, 1.81, 83, 28-08-00, Burzaco, Temperley
+10, Luca Orellano, ARG, M, 1.77, 66, 22-03-00, Francisco Álvarez, None
+11, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, Tigre
+12, Lucas Pratto, ARG, F, 1.88, 87, 04-06-88, La Plata, River Plate
+14, Lenny Lobato, BRA, F, 1.74, 70, 03-01-01, Armação dos Búzios, Madureira
+15, Agustín Mulet, ARG, M, 1.83, 74, 22-02-00, Lomas del Mirador, None
+16, Maximo Perrone, ARG, M, 1.78, 67, 07-01-03, Capital Federal, None
+17, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+18, Julián Fernández, ARG, F, 1.83, 73, 30-01-04, San Martín, None
+20, Walter Bou, ARG, F, 1.74, 70, 25-08-93, Concordia, Defensa y Justicia
+21, Santiago Castro, ARG, F, 1.78, 67, 18-09-04, San Martín, None
+22, Leonardo Burián, URU, G, 1.88, 81, 21-01-84, Montevideo, Colón (Santa Fe)
+23, Patricio Pernicone, ARG, D, 1.83, 77, 04-07-01, San Antonio de Padua, None
+24, Tomás Guidara, ARG, D, 1.73, 68, 13-03-96, Córdoba, Belgrano (Córdoba)
+25, Jonathan Berón, ARG, F, 1.73, 64, 09-06-02, San Nicolás, None
+26, Mateo Seoane, ARG, M, 1.78, 67, 09-02-04, Vicente López, None
+27, Jonathan Menéndez, ARG, F, 1.66, 62, 05-03-94, Capital Federal, Real Salt Lake
+28, Miguel Brizuela, ARG, D, 1.81, 80, 05-01-97, Moreno, None
+29, Leonardo Jara, ARG, D, 1.77, 75, 20-05-91, Corrientes, Boca Juniors
+30, Lucas Hoyos, ARG, G, 1.83, 76, 29-04-89, Guaymallen, Instituto (Córdoba)
+31, Valentín Gómez, ARG, D, 1.81, 75, 26-06-03, San Miguel, None
+32, Christian Ordóñez, ARG, M, 1.78, 68, 24-07-04, Moreno, None
+33, Elías Cabrera, ARG, M, 1.88, 78, 25-02-03, Merlo, None
+34, Damián Fernández, ARG, D, 1.78, 75, 02-01-02, Merlo, None
+35, Santiago Cáseres, ARG, M, 1.77, 77, 25-02-97, Parque Leloir, Villarreal
+36, Nicolás Garayalde, ARG, M, 1.82, 76, 21-07-99, Capital Federal, None
+39, Abiel Osorio, ARG, F, 1.82, 82, 13-06-02, San Nicolás, None
+42, Gianluca Prestianni, ARG, F, 1.65, 63, 31-01-06, Ciudadela, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Agustín Bouzat, ARG, F, 1.80, 75, 28-03-94, Bahía Blanca, Colo-Colo (On Loan)
+9, Sebastián Sosa, URU, F, 1.83, 71, 13-03-94, Melo, Boston River
+19, Joel Soñora, USA, M, 1.77, 64, 15-09-96, Dallas, Banfield
+32, Mateo Pellegrino, ARG, F, 1.92, 85, 22-10-01, Valencia, Estudiantes (LP) (On Loan)
+25, Federico Versaci, ARG, M, 1.69, 64, 16-02-02, Capital Federal, Defensa y Justicia

@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2005/06
+
+18 teams
+- [Ankaragücü](ankgucu.txt)
+- [Ankaraspor](ankspor.txt)
+- [Beşiktaş](besiktas.txt)
+- [Denizlispor](denizli.txt)
+- [Diyarbakırspor](diyarbak.txt)
+- [Erciyesspor](erciyes.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Malatyaspor](malatya.txt)
+- [Manisaspor](manisa.txt)
+- [Rizespor](rizespor.txt)
+- [Samsunspor](samsun.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

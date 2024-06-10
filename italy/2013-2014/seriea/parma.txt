@@ -1,0 +1,54 @@
+=  Parma - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+2, Mattia Cassani, ITA, D, 1.84, 75, 26-08-83, Borgomanero, Fiorentina
+3, Cristian Molinaro, ITA, D, 1.80, 76, 30-07-83, Moio della Civitella, Stuttgart
+5, Walter Gargano, URU, M, 1.68, 65, 23-07-84, Paysandù, Napoli
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Jonathan Biabiany, FRA, M, 1.75, 70, 28-04-88, Paris, Sampdoria
+8, Daniele Galloppa, ITA, M, 1.80, 74, 15-05-85, Rome, Siena
+9, Alberto Cerri, ITA, F, 1.90, 82, 16-04-96, Parma, None
+10, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Sampdoria
+11, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Fiorentina
+16, Marco Parolo, ITA, M, 1.86, 82, 25-01-85, Gallarate, Cesena
+17, Raffaele Palladino, ITA, F, 1.82, 73, 17-04-84, Mugnano di Napoli, Genoa
+18, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Fiorentina
+19, Felipe, BRA, D, 1.86, 78, 31-07-84, Guaratingueta, Fiorentina
+20, Joel Chukwuma Obi, NGA, M, 1.76, 71, 22-05-91, Lagos, Internazionale
+22, Filip Janković, SRB, M, 1.77, 67, 17-01-95, Belgrade, Crvena Zvezda
+23, Matiás Ezequiel Schelotto, ITA, M, 1.87, 76, 23-05-89, Buenos Aires, Internazionale
+24, Gianni Munari, ITA, M, 1.85, 84, 24-06-83, Sassuolo, Sampdoria
+26, José Mauri, ITA, M, 1.70, 66, 16-05-96, Realicó, None
+29, Gabriel Paletta, ITA, D, 1.90, 88, 15-02-86, Longchamps, Boca Juniors
+30, Afriyie Acquah, GHA, M, 1.79, 70, 05-01-92, Accra, 1899 Hoffenheim
+31, Jherson Vergara, COL, D, 1.90, 83, 26-05-94, Florida, Milan
+32, Marco Marchionni, ITA, M, 1.75, 66, 22-07-80, Monterotondo, Fiorentina
+33, Gonzalo Martínez, ARG, F, , , 02-04-96, Buenos Aires, None
+34, Davide Zagnoni, ITA, D, 1.82, , 19-02-95, Modena, None
+35, Jonathan Rossini, SUI, D, 1.89, 82, 05-04-89, Giubiasco, Sassuolo
+36, Daniele De Angelis, ITA, G, , , 29-03-95, Parma, None
+43, Marijan Ćorić, CRO, G, 1.82, 70, 06-02-95, Čapljina, Istra 1961
+45, Solomon Nyantakyi, GHA, M, 1.79, 72, 25-03-96, Accra, None
+50, Lukáš Haraslín, SVK, M, 1.74, 64, 26-05-96, Bratislava, Slovan Bratislava
+51, Dembel Sall, SEN, D, 1.83, 78, 16-06-94, Pikine, None
+53, Mirko Esposito, ITA, D, , , 08-04-96, Fidenza, None
+55, Diego Rossetto, ITA, G, 1.90, 78, 19-01-96, Castelfranco Veneto, None
+83, Antonio Mirante, ITA, G, 1.93, 78, 08-07-83, Castellammare di Stabia, Sampdoria
+91, Pavol Bajza, SVK, G, 1.95, 89, 04-09-91, Žilina, MFK Dubnica
+99, Antonio Cassano, ITA, F, 1.75, 73, 12-07-82, Bari, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Andrea Rispoli, ITA, D, 1.87, 78, 29-09-88, Cava de' Tirreni, Ternana (On Loan)
+77, Sotiris Ninis, GRE, M, 1.73, 69, 03-04-90, Himara, PAOK (On Loan)
+10, Jaime Valdès Zapata, CHI, M, 1.75, 71, 11-01-81, Santiago, Colo-Colo
+28, Yohan Benalouane, TUN, D, 1.87, 85, 28-03-87, Bagnols-sur-Cèze, Atalanta (On Loan)
+25, Mory Koné, FRA, D, 1.90, 80, 21-04-94, Paris, Crotone (On Loan)
+21, Nicola Sansone, ITA, F, 1.75, 73, 10-09-91, Munich, Sassuolo
+23, Pedro Mendes, POR, D, 1.87, 77, 01-10-90, Neuchâtel, Sassuolo
+87, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Sassuolo (On Loan)
+3, Djamel Mesbah, ALG, D, 1.79, 72, 09-10-84, Zighoud Youcef, Livorno (On Loan)
+14, Stefano Okaka Chuka, ITA, F, 1.86, 83, 09-08-89, Castiglione del Lago, Sampdoria
+95, Lazar Petković, SRB, G, 1.91, 72, 17-04-95, Novi Sad, Spezia

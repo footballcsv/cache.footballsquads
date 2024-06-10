@@ -1,0 +1,21 @@
+# Italian Serie A 1997/98
+
+18 teams
+- [Atalanta](atalanta.txt)
+- [Bari](bari.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Parma](parma.txt)
+- [Piacenza](piacenza.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Udinese](udinese.txt)
+- [Vicenza](vicenza.txt)

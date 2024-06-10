@@ -1,0 +1,60 @@
+=  Napoli - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Morgan De Sanctis, ITA, G, 1.90, 86, 26-03-77, Guardiagrele, Sevilla
+2, Gianluca Grava, ITA, D, 1.72, 68, 07-03-77, Caserta, Catanzaro
+3, Ignacio Fideleff, ARG, D, 1.88, 82, 04-07-89, Rosario, Newell's Old Boys
+4, Marco Donadel, ITA, M, 1.79, 73, 21-04-83, Conegliano Veneto, Fiorentina
+6, Salvatore Aronica, ITA, D, 1.82, 77, 20-01-78, Palermo, Reggina
+7, Edinson Cavani, URU, F, 1.84, 71, 14-02-87, Montevideo, Palermo
+8, Andrea Dossena, ITA, D, 1.80, 77, 11-09-81, Lodi, Liverpool
+11, Christian Maggio, ITA, D, 1.84, 79, 11-02-82, Montecchio Maggiore, Sampdoria
+14, Hugo Campagnaro, ARG, D, 1.81, 85, 27-06-80, Córdoba, Sampdoria
+15, Roberto Colombo, ITA, G, 1.90, 80, 24-08-75, Monza, Triestina
+16, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, Universidad de Chile
+17, Marek Hamšík, SVK, M, 1.83, 73, 27-07-87, Banská Bystrica, Brescia
+18, Camilo Zuñiga, COL, D, 1.72, 72, 14-12-85, Chigorodó, Siena
+20, Blerim Dzemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Parma
+21, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Estudiantes (LP)
+22, Ezequiel Lavezzi, ARG, F, 1.73, 75, 03-05-85, Villa Gobernador Gálvez, San Lorenzo
+23, Walter Gargano, URU, M, 1.68, 65, 23-07-84, Paysandù, Danubio
+28, Paolo Cannavaro, ITA, D, 1.85, 83, 26-06-81, Naples, Parma
+29, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Internazionale
+31, Jacopo Dezi, ITA, M, 1.78, 69, 10-02-92, Atri, Giulianova
+58, Luigi Amico, ITA, F, , , 06-03-94, Naples, None
+59, Daniele Celiento, ITA, D, 1.82, 74, 06-08-94, Naples, None
+60, Diamante Crispino, ITA, G, 1.88, 80, 05-09-94, Caserta, None
+62, Giuseppe Di Donna, ITA, D, , , 04-03-93, Scafati, None
+63, Alessio Di Falco, ITA, D, , , 22-06-93, Naples, None
+64, Marco Eligibile, ITA, M, , , 26-02-92, Maddaloni, None
+65, Antonio Esposito, ITA, M, , , 08-03-93, Castellammare di Stabia, None
+66, Giuseppe Fornito, ITA, M, 1.77, 65, 06-09-94, Trebisacce, None
+67, Roberto Insigne, ITA, F, 1.71, 65, 11-05-94, Naples, None
+70, Emanuele Marchitelli, ITA, D, , , 03-04-94, Naples, None
+71, Giuseppe Nicolao, ITA, D, 1.78, 67, 05-03-94, Nocera Inferiore, None
+72, Giuseppe Palma, ITA, M, , , 20-01-94, Naples, None
+73, Diego Petrarca, ITA, D, , , 01-06-92, Naples, None
+74, Simone Raspaolo, ITA, M, , , 23-02-94, Naples, None
+75, Giacomo Romano, ITA, F, , , 14-07-93, Naples, None
+76, Francesco Savarise, ITA, D, , , 21-04-94, Massa di Somma, None
+78, Mario Sgambato, ITA, M, , , 17-02-94, Avellino, None
+83, Antonio Rosati, ITA, G, 1.94, 88, 26-06-83, Tivoli, Lecce
+85, Miguel Angel Britos, URU, D, 1.88, 82, 17-07-85, Montevideo, Bologna
+88, Gökhan Inler, SUI, M, 1.82, 77, 27-06-84, Olten, Udinese
+89, Mario D'Urso, ITA, D, , , 10-10-89, , None
+90, Massimiliano Ammendola, ITA, F, , , 15-05-90, Pollena Trocchia, None
+94, Emanuele Allegra, ITA, D, 1.82, 73, 06-05-94, Scafati, None
+99, Cristiano Lucarelli, ITA, F, 1.88, 83, 04-10-75, Livorno, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+79, Gennaro Signorelli, ITA, F, , , 12-03-93, Massa di Somma, Aversa Normanna (On Loan)
+33, Leandro Rinaudo, ITA, D, 1.91, 78, 09-05-83, Palermo, Novara (On Loan)
+9, Giuseppe Mascara, ITA, F, 1.75, 66, 22-08-79, Caltagirone, Novara
+61, Davide D'Andrea, ITA, F, , , 10-06-93, Naples, Arzanese
+69, Giuliano Laezza, ITA, D, 1.83, 72, 23-12-93, Naples, Arzanese
+68, Giuseppe Iuliano, ITA, M, 1.77, 70, 22-02-93, Nocera Inferiore, Pro Patria
+77, Gaetano Sestile, ITA, G, , , 16-03-93, Villaricca, 
+19, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Cesena (On Loan)
+32, Cristian Chávez, ARG, F, 1.71, 70, 04-06-87, Lomas de Zamora, San Lorenzo (On Loan)

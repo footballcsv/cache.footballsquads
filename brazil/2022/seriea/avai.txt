@@ -1,0 +1,62 @@
+=  Avaí - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Betão, BRA, D, 1.81, 78, 11-11-83, São Paulo, Évian TG
+4, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Al-Khor
+5, Lucas Ventura, BRA, M, 1.80, 75, 19-05-98, Leopoldina, Cruzeiro
+6, Diego Matos, BRA, D, 1.72, 67, 08-01-97, Belém, Paysandu
+7, Renato, BRA, M, 1.75, 65, 19-01-90, Maceió, Chapecoense
+8, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Internacional
+9, Rômulo, BRA, F, 1.75, 75, 28-04-95, Campo Grande, Al-Ittihad Kalba
+11, Muriqui, BRA, F, 1.70, 72, 16-06-86, Rio de Janeiro, Cangzhou Mighty Lions
+13, Kevin, BRA, D, 1.74, 68, 07-09-97, Teresina, Tombense
+14, Raniele, BRA, D, 1.84, 78, 31-12-96, Baixa Grande, Jacuipense
+16, Jean Cléber, BRA, M, 1.80, 72, 29-04-90, Santo André, Marítimo
+18, Nathan, BRA, F, 1.90, 83, 04-08-99, Rio de Janeiro, Corinthians
+19, Marcinho, BRA, F, 1.76, 72, 08-06-95, Itauçu, CRB
+21, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, Grêmio
+22, Eduardo, BRA, M, 1.78, 72, 09-01-97, Treze de Maio, Criciúma
+23, Cláudio Vitor, BRA, G, 1.88, 80, 13-07-00, Porto Velho, None
+25, Natanael, BRA, D, 1.66, 64, 25-12-90, Cuiabá, Internacional
+26, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, FC Dallas
+27, Pablo Dyego, BRA, M, 1.74, 66, 08-03-94, Rio de Janeiro, Vila Nova
+28, Gustavo, BRA, F, 1.83, 70, 23-04-02, Praia Grande, None
+29, Igor, BRA, D, 1.74, 68, 17-03-01, São Paulo, None
+32, Rodrigo Freitas, BRA, D, 1.89, 74, 17-06-98, Salvador, São Paulo
+33, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, Grêmio
+35, Lipe, BRA, D, 1.88, 73, 19-02-02, Florianópolis, None
+39, Adiel, BRA, F, 1.86, 80, 13-12-01, Campo Grande, None
+44, Raphael, BRA, D, 1.86, 80, 19-01-99, Água Boa, Confiança
+48, Mateus Sarará, BRA, M, 1.81, 73, 29-06-02, Porto Alegre, Grêmio
+55, Kazu, BRA, M, 1.80, 72, 09-06-99, Seki, Tombense
+72, Thales Oleques, BRA, D, 1.78, 70, 28-04-94, Pelotas, Arouca
+77, Guilherme Bissoli, BRA, F, 1.75, 74, 09-01-98, Jaú, Athletico Paranaense
+78, Andrey, BRA, M, 1.83, 74, 06-02-02, Araranguá, None
+83, Glédson, BRA, G, 1.92, 88, 06-02-83, Almenara, América de Natal
+87, Vitinho, BRA, M, 1.77, 81, 26-12-00, Recife, Hercílio Luz
+89, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, Santos
+90, William Pottker, BRA, F, 1.80, 78, 22-12-93, Foz do Iguaçu, Cruzeiro
+92, Matheus Galdezani, BRA, M, 1.77, 74, 13-03-92, Limeira, Coritiba
+96, Igor Bohn, BRA, G, 1.93, 91, 05-02-96, Panambi, Chapecoense
+98, Lucas Silva, BRA, F, 1.76, 66, 31-01-98, Rio de Janeiro, Paços de Ferreira
+99, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Alemão, BRA, D, 1.86, 78, 18-10-90, Santo Ângelo, Operário
+90, André, BRA, G, 1.93, 80, 11-12-00, Belo Horizonte, Grêmio Prudente (On Loan)
+21, Matheus Lucas, BRA, F, 1.83, 73, 08-08-98, Rio de Janeiro, Londrina (On Loan)
+37, Leocovick, BRA, D, 1.81, 73, 15-06-99, Santa Rosa, Grêmio Prudente
+43, Felipe Camargo, BRA, D, 1.87, 74, 08-01-99, Pirajuí, Inter de Limeira (On Loan)
+25, Macaé, BRA, M, 1.80, 70, 09-01-01, Rio de Janeiro, Brasil de Pelotas (On Loan)
+15, Ayrton Cougo, URU, D, 1.86, 73, 15-06-96, Cerro Largo, Libertad
+1, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Al-Khaleej
+10, Jonathan Copete, COL, M, 1.84, 72, 23-01-88, Cali, Bahia (On Loan)
+17, Vinícius Leite, BRA, F, 1.76, 67, 25-10-93, Iporã, Novorizontino (On Loan)
+20, Paulo Baya, BRA, F, 1.84, 72, 26-07-99, Marabá, Cascavel
+30, Vinícius Jaú, BRA, F, 1.75, 70, 03-04-98, Jaú, Ituano (On Loan)
+2, Matheus Ribeiro, BRA, D, 1.78, 72, 23-02-93, Erechim, Vasco da Gama
+53, Morato, BRA, F, 1.70, 68, 01-09-92, Mogi Mirim, Red Bull Bragantino
+97, Dentinho, BRA, F, 1.83, 78, 07-05-97, Cachoeiro de Itapemirim, Vila Nova (On Loan)
+31, Arthur Chaves, BRA, D, 1.87, 74, 29-01-01, Florianópolis, Académico Viseu

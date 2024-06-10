@@ -1,0 +1,51 @@
+=  Aston Villa - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, Manchester U
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Swansea C
+4, Christopher Samba, CGO, D, 1.93, 91, 28-03-84, Créteil, Panathinaikos
+5, James Chester, WAL, D, 1.80, 72, 23-01-89, Warrington, WBA
+6, Glenn Whelan, IRL, M, 1.80, 79, 13-01-84, Dublin, Stoke C
+7, Robert Snodgrass, SCO, M, 1.82, 82, 07-09-87, Glasgow, West Ham U
+8, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, Nottingham F
+9, Scott Hogan, ENG, F, 1.80, 64, 13-04-92, Salford, Brentford
+10, Jack Grealish, ENG, M, 1.75, 68, 10-09-95, Birmingham, None
+11, Gabriel Agbonlahor, ENG, F, 1.80, 79, 13-10-86, Birmingham, None
+13, Jed Steer, ENG, G, 1.88, 89, 23-09-92, Norwich, Norwich C
+14, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, Barnsley
+15, Mile Jedinak, AUS, M, 1.89, 88, 03-08-84, Sydney, Crystal Palace
+16, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, Barnsley
+17, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, Manchester C
+18, Joshua Onomah, ENG, M, 1.85, 83, 27-04-97, Enfield, Tottenham H
+19, André Green, ENG, M, 1.80, 71, 02-05-98, Solihull, None
+20, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Basel
+21, Alan Hutton, SCO, D, 1.85, 72, 30-11-84, Glasgow, Tottenham H
+22, Jonathan Kodjia, CIV, F, 1.89, 80, 22-10-89, Saint-Denis, Bristol C
+26, John Terry, ENG, D, 1.87, 90, 07-12-80, Barking, Chelsea
+27, Ahmed Elmohamady, EGY, M, 1.82, 81, 09-09-87, El-Mahalla El-Kubra, Hull C
+28, Axel Tuanzebe, ENG, D, 1.82, 75, 14-11-97, Bunia, Manchester U
+29, Rushian Hepburn-Murphy, ENG, F, 1.73, 59, 19-09-98, Birmingham, None
+30, Khalid Abdo, SWE, M, , , 01-11-96, , Lärje-Angered IF
+31, Mark Bunn, ENG, G, 1.83, 77, 16-11-84, Southgate, Norwich C
+32, Jake Doyle-Hayes, IRL, M, 1.76, 68, 30-12-98, Ballyjamesduff, None
+33, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Anderlecht
+35, Mitchell Clark, WAL, D, 1.73, 68, 13-03-99, Nuneaton, None
+36, Callum O'Hare, ENG, F, 1.73, 65, 01-05-98, Solihull, None
+37, Albert Adomah, GHA, M, 1.85, 74, 13-12-87, Lambeth, Middlesbrough
+38, Jordan Lyden, AUS, M, 1.75, 72, 01-01-97, Perth [AUS], None
+39, Keinan Davis, ENG, F, 1.68, 68, 01-06-98, Stevenage, Biggleswade T
+40, Jordan Cox, ENG, M, , , 04-11-98, Worcester, None
+42, Oscar Borg, ENG, D, 1.79, 67, 05-09-97, Sutton, West Ham U
+43, Corey Blackett-Taylor, ENG, F, 1.70, 67, 23-09-97, Birmingham, None
+44, Ross McCormack, SCO, F, 1.75, 74, 18-08-86, Glasgow, Fulham
+45, Lewis Grabban, ENG, F, 1.83, 71, 12-01-88, Croydon, Bournemouth
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Jordan Amavi, FRA, D, 1.76, 70, 09-03-94, Toulon, Marseille (On Loan)
+7, Leandro Bacuna, NED, M, 1.87, 77, 21-08-91, Groningen, Reading
+25, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Barnsley (On Loan)
+2, Ritchie De Laet, BEL, D, 1.86, 77, 28-11-88, Antwerp, Royal Antwerp (On Loan)
+24, Tommy Elphick, ENG, D, 1.88, 84, 07-09-87, Brighton, Reading (On Loan)
+34, Easah Suliman, ENG, D, 1.88, 80, 26-01-98, Birmingham, Grimsby T (On Loan)

@@ -1,0 +1,37 @@
+=  Saint-Etienne - French Ligue 1 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Kurt Zouma, FRA, D, 1.87, 85, 27-10-94, Lyon, None
+6, Jérémy Clément, FRA, M, 1.74, 61, 26-08-84, Béziers, Paris St-Germain
+7, Pierre-Emerick Aubameyang, GAB, F, 1.85, 74, 18-06-89, Laval, Milan
+9, Max Gradel, CIV, M, 1.80, 70, 30-11-87, Abidjan, Leeds U
+10, Renaud Cohade, FRA, M, 1.80, 74, 29-09-84, Aubenas, Valenciennes
+11, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, Nancy
+12, Jean-Pascal Mignot, FRA, D, 1.83, 75, 26-02-81, Rouen, Auxerre
+13, Faouzi Ghoulam, ALG, D, 1.86, 78, 01-02-91, Saint-Priest-en-Jarez, None
+14, Brandão, BRA, F, 1.89, 78, 16-06-80, São Paulo, Marseille
+15, Andreas Laudrup, DEN, F, 1.75, 61, 10-11-90, Barcelona, FC Nordsjælland
+16, Stéphane Ruffier, FRA, G, 1.87, 89, 27-09-86, Bayonne, Monaco
+17, Kevin Mayi, FRA, F, 1.82, 78, 14-01-93, Lyon, None
+18, Fabien Lemoine, FRA, M, 1.75, 67, 16-03-87, Fougères, Rennes
+19, Josuha Guilavogui, FRA, M, 1.87, 78, 19-09-90, Ollioules, None
+20, Jonathan Brison, FRA, M, 1.79, 73, 07-02-83, Soissons, Nancy
+21, Romain Hamouma, FRA, M, 1.77, 67, 29-03-87, Lure, Caen
+22, Danijel Aleksić, SRB, F, 1.82, 72, 30-04-91, Pula, Genoa
+24, Loïc Perrin, FRA, M, 1.80, 76, 07-08-85, Saint-Etienne, None
+25, Bănel Nicoliţă, ROU, M, 1.75, 71, 07-01-85, Făurei, Steaua Bucureşti
+26, Moustapha Bayal Sall, SEN, D, 1.90, 90, 30-11-85, Dakar, US Gorée
+27, Mathieu Bodmer, FRA, M, 1.90, 91, 22-11-82, Evreux, Paris St-Germain
+28, Ismaël Diomande, CIV, M, 1.80, 75, 28-08-92, Abidjan, None
+29, François Clerc, FRA, D, 1.86, 77, 18-04-83, Bourg en Bresse, Nice
+30, Jessy Moulin, FRA, G, 1.84, 80, 13-01-86, Valence, None
+33, Pierre-Yves Polomat, BLZ, D, 1.80, 73, 27-12-93, Belmopan, None
+40, Pape Abdoulaye Coulibaly, SEN, G, 1.90, 90, 02-03-88, Tassinere, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Bakary Sako, FRA, M, 1.80, 76, 24-04-88, Ivry-sur-Seine, Wolverhampton W
+17, Idriss Saadi, FRA, F, 1.79, 75, 08-02-92, Valence, Gazélec Ajaccio (On Loan)
+31, Sidy Sagna, SEN, M, 1.80, 75, 04-02-90, Dakar, Sogndal
+8, Alejandro Alonso, ARG, M, 1.70, 68, 03-03-82, Buenos Aires, Retired

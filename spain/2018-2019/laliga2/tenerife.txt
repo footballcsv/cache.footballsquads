@@ -1,0 +1,40 @@
+=  Tenerife - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Luis Pérez, ESP, D, 1.72, 68, 04-02-95, Utrera, Elche
+3, Héctor Hernández, ESP, D, 1.71, 65, 23-05-91, Valladolid, Real Sociedad
+4, Samuel Camille, FRA, D, 1.76, 70, 02-02-86, Saint-Denis, Ponferradina
+5, Alberto Jiménez, ESP, D, 1.86, 78, 15-11-92, La Oliva, Tenerife B
+6, Luis Milla, ESP, M, 1.75, 65, 07-10-94, Madrid, Fuenlabrada
+7, Isma López, ESP, M, 1.80, 76, 29-01-90, Pamplona, Omonia Nicosia
+8, Borja Lasso, ESP, M, 1.78, 72, 01-01-94, Seville, Sevilla
+9, Filip Malbašić, SRB, F, 1.83, 73, 18-11-92, Belgrade, Vojvodina
+10, Suso, ESP, M, 1.74, 71, 02-03-85, Santa Cruz de Tenerife, Hearts
+11, Tyronne, ESP, M, 1.82, 78, 27-01-91, Las Palmas, Las Palmas
+12, Uroš Račić, SRB, M, 1.93, 81, 17-03-98, Kraljevo, Valencia B
+13, Ángel Galván, ESP, G, 1.88, 70, 16-04-93, Santa Cruz de Tenerife, Tenerife B
+14, Carlos Ruiz, ESP, D, 1.79, 75, 20-07-83, Baza, Ponferradina
+15, Mauro dos Santos, ARG, D, 1.82, 76, 07-07-89, Santo Tomé, Leganés
+16, Aitor Sanz, ESP, M, 1.81, 71, 13-09-84, Madrid, Oviedo
+18, Paco Montañés, ESP, M, 1.72, 70, 08-10-86, Castellón, Espanyol
+19, Fernando Coniglio, ARG, F, 1.80, 70, 24-11-91, Laborde, Huracán
+20, Iker Undabarrena, ESP, M, 1.80, 75, 18-05-95, Gorliz, Athletic Bilbao B
+21, Jorge, ESP, D, 1.92, 75, 17-11-96, Santa Cruz de Tenerife, Tenerife B
+22, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Eibar
+23, Raúl Cámara, ESP, D, 1.71, 64, 28-02-84, Madrid, Xerez
+24, José Naranjo, ESP, F, 1.82, 73, 28-07-94, Rociana del Condado, KRC Genk
+25, Dani Hernández, VEN, G, 1.96, 87, 21-10-85, Caracas, Valladolid
+27, Borja Llarena, ESP, F, 1.71, 64, 17-05-99, Santa Cruz de Tenerife, Tenerife B
+28, Samuel Arbelo, ESP, M, 1.86, 77, 29-07-96, Santa Cruz de Tenerife, Tenerife B
+30, Ignacio Otaño, ESP, G, 1.84, 78, 19-07-95, Azpeitia, Real Unión
+32, Javi Alonso, ESP, M, 1.83, 75, 01-08-98, Santa Cruz de Tenerife, Tenerife B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Carlos Abad, ESP, G, 1.93, 85, 06-02-93, Puerto de la Cruz, Córdoba (On Loan)
+26, Nahuel, ESP, D, 1.70, 62, 01-04-96, Santa Cruz de Tenerife, Murcia (On Loan)
+8, Bryan Acosta, HON, M, 1.75, 68, 24-11-93, La Ceiba, FC Dallas
+19, Lucas Aveldaño, ARG, D, 1.85, 83, 19-07-85, Rafaela, Universidad de Chile
+17, Shaaban Idd Chilunda, TAN, F, 1.77, 69, 20-07-98, Mtwara, Izarra (On Loan)
+7, Joao Rodríguez, COL, F, 1.77, 69, 12-05-96, Cúcuta, Chelsea

@@ -1,0 +1,47 @@
+=  Padova - Italian Serie B 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Cano, ITA, G, 1.85, 82, 18-04-76, Rome, Lanciano
+2, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Internazionale
+3, Michele Franco, ITA, D, 1.83, 75, 20-02-85, Altamura, Como
+4, Jonas Portin, FIN, D, 1.89, 82, 30-09-86, Pietarsaari, Ascoli
+5, Simone Bentivoglio, ITA, M, 1.84, 79, 29-05-85, Pinerolo, Chievo Verona
+6, Trevor Trevisan, ITA, D, 1.86, 79, 21-12-83, Cassino, Pisa
+7, Michele Marcolini, ITA, M, 1.73, 71, 02-10-75, Savona, Chievo Verona
+8, Andrea Bovo, ITA, M, 1.83, 76, 14-05-86, Mestre, Palermo
+9, Linus Hallenius, SWE, F, 1.85, 75, 01-04-89, Sundsvall, Genoa
+10, Daniele Cacia, ITA, F, 1.82, 74, 23-08-83, Catanzaro, Lecce
+11, Aniello Cutolo, ITA, F, 1.78, 70, 20-10-83, Benevento, Crotone
+12, Daniele Ruffato, ITA, G, 1.92, 76, 16-10-93, Padua, None
+13, Elia Legati, ITA, D, 1.88, 84, 03-01-86, Fidenza, Milan
+14, Raffaele Schiavi, ITA, D, 1.83, 73, 15-03-86, Cava dei Tirreni, Parma
+19, Davide Succi, ITA, F, 1.84, 78, 11-10-81, Bologna, Palermo
+20, Wilfred Osuji, NGA, M, 1.80, 80, 05-08-90, Lagos, Milan
+22, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, Cagliari
+23, Dejan Lazarević, SVN, M, 1.75, 70, 15-02-90, Ljubljana, Genoa
+28, Francesco Ruopolo, ITA, F, 1.85, 83, 20-03-83, Aversa, Atalanta
+29, Enej Jelenič, SVN, F, 1.80, 74, 11-12-92, Koper, Genoa
+33, Francesco Renzetti, ITA, D, 1.74, 73, 22-01-88, Monaco, Genoa
+45, Ousmane Drame, SEN, M, 1.74, 70, 25-08-92, Paris, None
+46, Andrea Bilato, ITA, D, , , 14-08-93, , None
+47, Igor Radrezza, ITA, F, 1.70, 66, 06-06-93, Padua, None
+48, Andrea Tessari, ITA, M, , , 02-12-93, , None
+49, Ghislain Guessan, CIV, F, 1.88, 86, 15-09-92, Paris, Nantes
+50, Christian Beccaro, ITA, D, , , 16-01-93, , None
+51, Adama Diakité, CIV, F, 1.86, 77, 08-10-93, Memni, None
+52, Luca Maniero, ITA, G, 1.87, 75, 12-06-95, Padua, None
+53, Daniel Beccaro, ITA, D, , , 16-01-93, , None
+54, Edvinas Girdvainis, LTU, D, 1.83, 70, 17-01-93, Klaipėda, None
+55, Ludovico Longato, ITA, M, , , 30-10-93, Dolo, None
+70, Omar Milanetto, ITA, M, 1.70, 70, 30-11-75, Venaria, Genoa
+73, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, Genoa
+77, Vincenzo Italiano, ITA, M, 1.71, 70, 10-12-77, Karlsruhe, Chievo Verona
+84, William Jidayi, ITA, M, 1.88, 87, 09-09-84, Ravenna, Sassuolo
+88, Matías Cuffa, ARG, M, 1.82, 73, 10-03-81, Alta Gracia, Portogruaro
+94, Riccardo De Biasi, ITA, M, 1.83, 70, 20-06-94, Treviso, Montebelluna
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Vicente, BRA, M, 1.76, 70, 18-02-89, Cruzeiro do Sul, Como (On Loan)
+27, Marco Gallozzi, ITA, M, 1.85, 66, 27-07-88, Frosinone, Empoli (On Loan)

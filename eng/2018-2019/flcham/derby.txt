@@ -1,0 +1,56 @@
+=  Derby County - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Wigan Ath
+2, Andre Wisdom, ENG, D, 1.86, 78, 09-05-93, Leeds, Liverpool
+3, Craig Forsyth, SCO, D, 1.91, 81, 24-02-89, Carnoustie, Watford
+4, Craig Bryson, SCO, M, 1.70, 60, 06-11-86, Rutherglen, Kilmarnock
+5, Fikayo Tomori, ENG, D, 1.84, 75, 19-12-97, Calgary, Chelsea
+6, Richard Keogh, IRL, D, 1.83, 71, 11-08-86, Harlow, Coventry C
+7, Harry Wilson, WAL, M, 1.73, 70, 22-03-97, Wrexham, Liverpool
+8, Mason Mount, ENG, M, 1.78, 64, 10-01-99, Portsmouth, Chelsea
+9, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, Ipswich T
+10, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, Leicester C
+11, Florian Jozefzoon, NED, M, 1.73, 70, 09-02-91, Amsterdam, Brentford
+12, Efe Ambrose, NGA, D, 1.90, 70, 18-10-88, Kaduna, Hibernian
+14, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Peterborough U
+15, Bradley Johnson, ENG, M, 1.78, 68, 28-04-87, Hackney, Norwich C
+17, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Reading
+20, Mason Bennett, ENG, F, 1.78, 65, 15-07-96, Shirebrook, None
+21, Kelle Roos, NED, G, 1.93, 90, 31-05-92, Rijkevoort, Nuneaton T
+23, Duane Holmes, USA, M, 1.72, 65, 06-11-94, Wakefield, Scunthorpe U
+24, Andy King, WAL, M, 1.83, 74, 29-10-88, Maidenhead, Leicester C
+26, Ashley Cole, ENG, D, 1.72, 67, 20-12-80, Stepney, LA Galaxy
+28, David Nugent, ENG, F, 1.80, 76, 02-05-85, Liverpool, Middlesbrough
+29, Marcus Olsson, SWE, D, 1.80, 68, 17-05-88, Gävle, Blackburn R
+30, Ikechi Anya, SCO, M, 1.68, 71, 03-01-88, Glasgow, Watford
+33, Curtis Davies, ENG, D, 1.88, 76, 15-03-85, Waltham Forest, Hull C
+37, Jayden Bogle, ENG, D, 1.78, 69, 27-07-00, Reading, Swindon T
+39, Calum MacDonald, SCO, D, 1.80, 60, 18-12-97, Nottingham, None
+40, Louie Sibley, ENG, M, 1.80, 74, 01-09-01, Birmingham, None
+41, Max Bird, ENG, M, 1.83, 68, 18-09-00, Burton-upon-Trent, None
+43, Jayden Mitchell-Lawson, ENG, M, 1.68, 60, 17-09-99, Basingstoke, None
+44, Tom Huddlestone, ENG, M, 1.88, 80, 28-12-86, Nottingham, Hull C
+45, Josh Barnes, ENG, G, 1.81, 78, 01-12-97, Birmingham, None
+46, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Huddersfield T
+47, Henrich Ravas, SVK, G, 1.92, 87, 16-08-97, Senica, Boston U
+48, Lee Buchanan, ENG, D, 1.75, 67, 07-03-01, Mansfield, None
+49, Tyree Wilson, ENG, F, , , 13-06-02, Nottingham, None
+50, Jason Knight, IRL, M, 1.73, 63, 13-02-01, Dublin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Burnley
+26, Jamie Hanson, ENG, D, 1.90, 79, 10-11-95, Burton-upon-Trent, Oxford U
+22, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Sporting Gijón (On Loan)
+38, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Coventry C (On Loan)
+19, Chris Martin, SCO, F, 1.78, 73, 04-11-88, Beccles, Hull C (On Loan)
+32, Cameron Jerome, ENG, F, 1.85, 85, 14-08-86, Huddersfield, Göztepe
+16, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, Millwall (On Loan)
+34, George Thorne, ENG, M, 1.88, 84, 04-01-93, Chatham, Luton T (On Loan)
+25, Max Lowe, ENG, D, 1.75, 74, 11-05-97, Birmingham, Aberdeen (On Loan)
+42, Timi Elšnik, SVN, M, 1.78, 65, 29-04-98, Kidričevo, Northampton T (On Loan)
+18, Jacob Butterfield, ENG, M, 1.80, 78, 10-06-90, Bradford, Bradford C (On Loan)
+35, Jonathan Mitchell, ENG, G, 1.80, 86, 24-11-94, Hartlepool, Shrewsbury T (On Loan)
+36, Joe Ledley, WAL, M, 1.83, 73, 23-01-87, Cardiff, 

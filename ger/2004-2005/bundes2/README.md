@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2004/05
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [LR Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Eintracht Trier](eintrier.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Rot-Weiß Erfurt](erfurt.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Rot-Weiß Essen](essen.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Köln](koln.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [1.FC Saarbrücken](saarbruc.txt)
+- [SpVgg Unterhaching](unterha.txt)
+- [Wacker Burghausen](burghaus.txt)

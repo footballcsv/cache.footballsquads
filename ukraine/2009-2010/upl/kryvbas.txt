@@ -1,0 +1,73 @@
+=  Kryvbas Kryvyi Rih - Ukrainian Premier League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andriy Fedorenko, UKR, G, 1.87, 81, 09-01-84, Chernihiv, Desna Chernihiv
+2, Denys Andrienko, UKR, M, 1.81, 70, 12-04-80, Eupatoria, Dnipro Dnipropetrovsk
+3, Vyacheslav Serdyuk, UKR, D, 1.84, 76, 28-01-85, Shostka, Dnipro Dnipropetrovsk
+4, Serhiy Danylovskyy, UKR, M, 1.93, 84, 20-08-81, Tbilisi, Metalurh Donetsk
+5, Vyacheslav Ryabov, UKR, M, 1.81, 74, 21-06-89, , Kryvbas-2
+7, Mykola Morozyuk, UKR, M, 1.76, 70, 17-01-88, Lviv, Dynamo Kiev
+8, Andrey Varankow, BLR, F, 1.85, 80, 08-02-89, Mazyr, Dynamo Kiev-2
+9, Dmytro Vorobey, UKR, M, 1.72, 65, 10-05-85, Mazyr, Illichivets Mariupol
+10, Ruslan Kostyshyn, UKR, M, 1.81, 76, 08-01-77, Khmelnitsky, Dnipro Dnipropetrovsk
+12, Isli Hidi, ALB, G, 1.83, 78, 15-10-80, Tirana, Alki Larnaca
+14, Platon Svyrydov, UKR, M, 1.81, 75, 20-11-86, , Feniks-Illichovets
+16, Ansi Agolli, ALB, M, 1.80, 72, 11-10-82, Tirana, SK Tirana
+17, Dorian Bylykbashi, ALB, M, 1.80, 75, 08-08-80, Elbasan, Partizani Tirana
+18, Pavlo Misko, UKR, F, 1.74, 69, 12-02-90, , Tavriya-2
+19, Aleksandr Kobakhidze, GEO, M, 1.84, 73, 11-02-87, Tbilisi, Dnipro Dnipropetrovsk
+20, Serhiy Motuz, UKR, M, 1.82, 76, 06-07-82, Dnipropetrovsk, Dnipro Dnipropetrovsk
+21, Andriy Bohomazov, UKR, M, 1.79, 68, 15-07-89, , Kryvbas-2
+22, Yuriy Shturko, UKR, M, 1.82, 76, 08-10-84, Kryvyi Rih, Dniester Ovidiopol
+23, Mladen Bartulović, CRO, M, 1.82, 82, 05-10-86, Kakanj, Dnipro Dnipropetrovsk
+25, Oleksandr Zhdanov, UKR, D, 1.82, 74, 27-05-84, Kharkiv, FC Lviv
+27, Anatoliy Kitsuta, UKR, D, 1.83, 74, 22-12-85, Kiev, Obolon Kiev
+28, Kęstutis Ivaškevičius, LTU, M, 1.84, 78, 17-04-85, Klaipėda, FBK Kaunas
+29, Anatoliy Oprya, UKR, M, 1.82, 74, 25-11-77, , FC Kharkiv
+30, Oleksandr Maksymov, UKR, F, 1.85, 76, 13-02-85, Kharkiv, Dnipro Dnipropetrovsk
+32, Anton Kanibolotskyy, UKR, G, 1.91, 80, 16-05-88, Kiev, Dnipro Dnipropetrovsk
+36, Denys Rylskyy, UKR, G, 1.84, 76, 12-05-89, Dnipropetrovsk, Dnipro Dnipropetrovsk
+37, Valeriy Fedorchuk, UKR, M, 1.78, 68, 05-10-88, Netishyn, Dnipro Dnipropetrovsk
+38, Stanislav Morozov, UKR, D, 1.81, 72, 09-11-91, , Kryvbas-2
+39, Vitaliy Petrychenko, UKR, D, 1.82, 74, 07-05-91, , Kryvbas-2
+42, Artūrs Silagailis, LVA, D, 1.83, 75, 03-05-87, Rēzekne, Blāzma Rēzekne
+43, Maksym Bilyk, UKR, F, 1.82, 74, 10-06-90, , Kryvbas-2
+44, Vitaliy Lysytskyy, UKR, M, 1.87, 75, 16-04-82, Svetlovodsk, Dnipro Dnipropetrovsk
+50, Dmytro Khomchenovskyy, UKR, M, 1.80, 72, 16-04-90, Uhledar, Olimpik Donetsk
+55, Eduard Illyukhin, UKR, M, 1.82, 75, 29-04-90, , Kryvbas-2
+61, Oleksandr Antonenko, UKR, G, 1.86, 80, 06-01-91, , Kryvbas-2
+67, Roman Sakhno, UKR, M, 1.79, 71, 21-05-90, , Kryvbas-2
+69, Illya Kovalenko, UKR, M, 1.78, 73, 20-03-90, Kalanchak, Kryvbas-2
+70, Oleksiy Savkin, UKR, F, 1.76, 71, 13-03-91, , Kryvbas-2
+76, Oleksandr Hranovskyi, UKR, D, 1.79, 76, 11-03-76, Kryvyi Rih, Slavia Prague
+77, Mykyta Solovyov, UKR, D, 1.85, 73, 21-06-91, , Kryvbas-2
+78, Rostyslav Dyakiv, UKR, F, 1.81, 74, 17-08-90, , Kryvbas-2
+80, Dmytro Ryaboy, UKR, M, 1.79, 71, 15-10-91, , Kryvbas-2
+81, Ervin Bulku, ALB, M, 1.83, 76, 03-03-81, Tirana, SK Tirana
+86, Maksym Adamenko, UKR, M, 1.85, 72, 19-01-91, , Kryvbas-2
+88, Dmytro Lyopa, UKR, M, 1.70, 58, 23-11-88, Kremenchuk, Dnipro Dnipropetrovsk
+89, Maksym Pshelutskyy, UKR, M, 1.84, 81, 29-06-89, , Kryvbas-2
+91, Nazar Kutasevych, UKR, F, 1.78, 72, 22-01-91, , Kryvbas-2
+92, Serhiy Panasenko, UKR, M, 1.68, 66, 09-03-92, , Kryvbas-2
+99, Ihor Nahirnyy, UKR, F, 1.89, 82, 04-06-89, , Karpaty Lviv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Oleh Dopilka, UKR, D, 1.81, 69, 12-03-86, Kiev, Dynamo Kiev
+7, Andriy Oberemko, UKR, M, 1.82, 73, 18-03-84, Zaporozhskaya, Dynamo Kiev
+8, Oleksandr Melashchenko, UKR, F, 1.90, 86, 13-12-78, Poltava, Dnipro Dnipropetrovsk
+32, Vyacheslav Kernozenko, UKR, G, 1.84, 75, 04-06-76, Havana, Dnipro Dnipropetrovsk
+11, Roman Karakevych, UKR, F, 1.84, 79, 13-11-81, Shklo, Naftovyk-Ukrnafta (On Loan)
+15, Serhiy Karpenko, UKR, D, 1.84, 76, 19-05-81, Boryspil, Naftovyk-Ukrnafta (On Loan)
+70, Mykola Lyashenko, UKR, M, 1.82, 72, 15-04-91, , Dnipro Dnipropetrovsk (On Loan)
+79, Oleksandr Lohinov, UKR, D, 1.90, 75, 23-07-91, , Dnipro Dnipropetrovsk (On Loan)
+5, Vitaliy Komarnytskyy, UKR, D, 1.80, 65, 02-08-81, Kharkiv, Zakarpattya Uzhhorod
+24, Yevhen Deyneko, UKR, G, 1.80, 80, 15-10-85, Chernihiv, 
+2, Artūrs Silagailis, LVA, D, 1.83, 75, 03-05-87, Rēzekne, Re-Registered (42)
+4, Oleksandr Hranovskyi, UKR, D, 1.79, 76, 11-03-76, Kryvyi Rih, Re-Registered (76)
+18, Ervin Bulku, ALB, M, 1.83, 76, 03-03-81, Tirana, Re-Registered (81)
+35, Vyacheslav Ryabov, UKR, M, 1.81, 74, 21-06-89, , Re-Registered (5)
+90, Pavlo Misko, UKR, F, 1.74, 69, 12-02-90, , Re-Registered (18)
+37, Serhiy Kostyukov, UKR, M, 1.82, 75, 02-07-89, , 
+50, Yuriy Kolomoyets, UKR, F, 1.86, 77, 22-03-90, Kryvyi Rih, Hirnyk Kryvyi Rih

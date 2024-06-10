@@ -1,0 +1,47 @@
+=  Monaco - French Ligue 1 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, None
+2, Cédric Mongongu, COD, D, 1.89, 76, 22-06-89, Kinshasa, None
+3, Nicolas Nkoulou, CMR, D, 1.80, 77, 27-03-90, Yaoundé, None
+4, François Modestó, FRA, D, 1.83, 80, 19-08-78, Bastia, Cagliari
+5, Diego Pérez, URU, M, 1.77, 81, 18-05-80, Montevideo, Peñarol
+6, Eduardo Costa, BRA, M, 1.84, 78, 23-09-82, Florianópolis, São Paulo
+7, Jean-Jacques Gosso, CIV, M, 1.77, 75, 15-03-83, Abidjan, Ashdod
+8, Alejandro Alonso, ARG, M, 1.70, 68, 03-03-82, Buenos Aires, Bordeaux
+10, Park Chu-Young, KOR, F, 1.82, 75, 10-07-85, Daegu, FC Seoul
+11, Nené, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Celta Vigo
+12, Adriano Pereira, BRA, D, 1.80, 74, 03-04-82, Salvador de Bahia, Atalanta
+13, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, None
+14, Dario Šimić, CRO, D, 1.80, 76, 12-11-75, Zagreb, Milan
+15, Thomas Mangani, FRA, D, 1.82, 79, 29-04-87, Carpentras, None
+16, Stéphane Ruffier, FRA, G, 1.87, 89, 27-09-86, Bayonne, None
+18, Djimi Traoré, MLI, D, 1.91, 87, 01-03-80, Saint-Ouen, Portsmouth
+19, Patrick Müller, SUI, D, 1.82, 69, 17-12-76, Geneva, Lyon
+20, Juan Pablo Pino, COL, M, 1.76, 72, 30-03-87, Cartagena, Independiente Medellín
+21, Malaury Martin, FRA, M, 1.78, 75, 25-08-88, Nice, None
+22, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, Le Mans
+23, Jerko Leko, CRO, M, 1.87, 85, 09-04-80, Zagreb, Dynamo Kiev
+24, Yannick Sagbo, CIV, F, 1.83, 78, 12-04-88, Marseille, None
+25, Lukman Haruna, NGA, M, 1.85, 77, 04-12-90, Lagos, Global Crystal Academy
+26, Yohan Mollo, FRA, M, 1.75, 74, 18-07-89, Martigues, None
+28, Sébastien Puygrenier, FRA, D, 1.86, 88, 28-01-82, Limoges, Zenit St Petersburg
+29, Distel Zola, FRA, M, 1.82, 76, 05-02-89, Paris, None
+31, Ouwo Moussa Maazou, NIG, F, 1.86, 78, 25-08-88, Niamey, CSKA Moscow
+32, Igor Lolo, CIV, D, 1.79, 68, 22-07-82, Abidjan, Dnipro Dnipropetrovsk
+33, Kévin Malcuit, FRA, F, 1.82, 74, 31-07-91, Chatenay-Malabry, None
+34, Frédéric Bulot, FRA, F, 1.77, 68, 27-09-90, Libreville, None
+40, Franck L'Hostis, FRA, G, 1.86, 77, 03-04-90, Nîmes, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Flavio Roma, ITA, G, 1.92, 89, 21-06-74, Rome, Milan
+6, Nikola Pokrivać, CRO, M, 1.85, 84, 26-11-85, Čakovec, Red Bull Salzburg
+22, Loïc Dufau, FRA, M, 1.77, 75, 15-03-89, Marseille, Cassis-Carnoux (On Loan)
+31, Djamel Bakar, FRA, M, 1.71, 67, 06-04-89, Marseille, Nancy
+24, Eduardo Costa, BRA, M, 1.84, 78, 23-09-82, Florianópolis, Re-Registered (6)
+35, Yannick Sagbo, FRA, F, 1.83, 78, 12-04-88, Marseille, Re-Registered (24)
+27, Frédéric Nimani, FRA, F, 1.91, 87, 08-10-88, Marseille, Burnley (On Loan)
+17, Serge Gakpé, TOG, M, 1.77, 79, 07-05-87, Bondy, Tours (On Loan)
+9, Eiður Guðjohnsen, ISL, F, 1.85, 82, 15-09-78, Reykjavík, Tottenham H (On Loan)

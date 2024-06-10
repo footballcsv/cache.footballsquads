@@ -1,0 +1,43 @@
+=  Cambridge United - English Football League Two 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Forde, IRL, G, 1.91, 87, 20-12-79, Galway, Millwall
+2, Brad Halliday, ENG, D, 1.80, 68, 10-07-95, Redcar, Middlesbrough
+3, Jake Carroll, IRL, D, 1.83, 70, 11-08-91, Dublin, Hartlepool U
+4, Gary Deegan, IRL, M, 1.76, 75, 28-09-87, Dublin, Shrewsbury T
+5, Greg Taylor, ENG, D, 1.86, 77, 15-01-90, Bedford, Luton T
+6, Leon Legge, ENG, D, 1.85, 80, 28-04-85, Hastings, Gillingham
+7, Piero Mingoia, ENG, M, 1.69, 70, 20-10-91, Enfield, Accrington Stanley
+8, Billy Waters, ENG, M, 1.75, 73, 15-10-94, Epsom, Northampton T
+9, Uche Ikpeazu, ENG, F, 1.91, 78, 28-02-95, Harrow, Watford
+10, Adebayo Azeez, ENG, F, 1.83, 71, 08-01-94, Orpington, Partick Thistle
+11, Harrison Dunk, ENG, M, 1.84, 73, 25-10-90, Hammersmith, Bromley
+12, George Taft, ENG, D, 1.91, 86, 29-07-93, Leicester, Mansfield T
+13, Dimitar Mitov, BUL, G, 1.88, 76, 22-01-97, Kozloduy, Charlton Ath
+14, Jabo Ibehre, ENG, F, 1.88, 80, 28-01-83, Islington, Carlisle U
+16, Liam O'Neil, ENG, D, 1.80, 80, 31-07-93, Cambridge, Chesterfield
+17, Adam Phillips, ENG, M, 1.80, 76, 15-01-98, Garstang, Norwich C
+18, George Maris, ENG, F, 1.80, 75, 06-03-96, Sheffield, Barnsley
+19, David Amoo, ENG, M, 1.78, 77, 13-04-91, Southwark, Partick Thistle
+20, Jevani Brown, JAM, F, 1.75, 75, 16-10-94, Letchworth, St Neots T
+21, Medy Elito, ENG, F, 1.80, 69, 20-03-90, Kinshasa, Newport Co
+22, Paul Lewis, ENG, M, 1.86, 70, 17-12-94, Liverpool, Macclesfield T
+23, Barry Corr, IRL, F, 1.91, 79, 02-04-85, County Wicklow, Southend U
+24, Leon Davies, ENG, D, 1.80, 70, 21-11-99, Enfield, None
+25, Harry Darling, ENG, D, 1.80, 75, 08-08-99, Cambridge, None
+26, Matthew Foy, ENG, F, 1.70, 66, 02-11-98, Huntingdon, None
+30, Finley Iron, ENG, G, 1.85, 72, 07-03-00, Cambridge, None
+31, Sam Squire, ENG, M, 1.86, 75, 25-05-00, Redbridge, None
+32, Jordan Norville-Williams, ENG, D, 1.80, 76, 26-01-00, Kingston upon Thames, None
+33, Ben Worman, ENG, M, 1.72, 67, 30-08-01, Cambridge, None
+34, Tom Knowles, ENG, F, 1.83, 70, 27-09-98, Cambridge, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Josh Coulson, ENG, D, 1.91, 75, 28-01-89, Cambridge, Leyton Orient
+12, Mark Roberts, ENG, D, 1.85, 76, 16-10-83, Northwich, Forest Green R
+8, Luke Berry, ENG, M, 1.77, 72, 12-07-92, Bassingbourn, Luton T
+17, Adam McGurk, NIR, F, 1.75, 82, 24-01-89, St Helier, Morecambe
+27, Kyle Howkins, ENG, D, 1.96, 81, 04-05-96, Walsall, WBA
+15, Emmanuel Osadebe, IRL, M, 1.88, 71, 01-10-96, Dundalk, Newport Co (On Loan)

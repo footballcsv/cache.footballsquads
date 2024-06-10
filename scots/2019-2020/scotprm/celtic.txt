@@ -1,0 +1,61 @@
+=  Celtic - Scottish Premiership 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Craig Gordon, SCO, G, 1.93, 77, 31-12-82, Edinburgh, Sunderland
+2, Christopher Jullien, FRA, D, 1.95, 82, 22-03-93, Lagny-sur-Marne, Toulouse
+3, Greg Taylor, SCO, D, 1.74, 62, 05-11-97, Greenock, Kilmarnock
+5, Jozo Šimunović, CRO, D, 1.88, 81, 04-08-94, Zagreb, Dinamo Zagreb
+6, Nir Bitton, ISR, M, 1.96, 80, 30-10-91, Ashdod, Ashdod
+8, Scott Brown, SCO, M, 1.75, 72, 26-06-85, Dunfermline, Hibernian
+9, Leigh Griffiths, SCO, F, 1.75, 64, 20-08-90, Edinburgh, Wolverhampton W
+10, Vakoun Issouf Bayo, CIV, F, 1.84, 72, 10-01-97, Daloa, DAC Dunajská Streda
+11, Patryk Klimala, POL, F, 1.83, 76, 05-08-98, Świdnica, Jagiellonia Białystok
+12, Ismaila Soro, CIV, M, 1.73, 76, 07-05-98, Yakassé-Mé, Bnei Yehuda Tel Aviv
+13, Moritz Bauer, AUT, D, 1.81, 73, 25-01-92, Veltheim, Stoke C
+14, Daniel Arzani, AUS, M, 1.75, 65, 04-01-99, Sydney, Manchester C
+15, Jonathan Hayes, IRL, M, 1.70, 70, 09-07-87, Ballyfermot, Aberdeen
+17, Ryan Christie, SCO, M, 1.78, 70, 22-02-95, Inverness, Inverness CT
+18, Tomas Rogić, AUS, M, 1.89, 85, 16-12-92, Griffith, Central Coast Mariners
+19, Mikey Johnston, SCO, M, 1.76, 65, 19-04-99, Glasgow, None
+20, Maryan Shved, UKR, M, 1.71, 63, 16-07-97, Mykolaiv, Karpaty Lviv
+21, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Manchester C
+22, Odsonne Edouard, FRA, F, 1.83, 74, 16-01-98, Kourou, Paris St-Germain
+23, Boli Bolingoli-Mbombo, BEL, D, 1.80, 71, 01-07-95, Antwerp, Rapid Vienna
+27, Mohamed Elyounoussi, NOR, F, 1.78, 70, 04-08-94, Al Hoceima, Southampton
+28, Luca Connell, IRL, M, 1.78, 69, 20-04-01, Liverpool, Bolton W
+29, Scott Bain, SCO, G, 1.83, 70, 22-11-91, Edinburgh, Dundee
+30, Jeremie Frimpong, NED, D, 1.75, 66, 10-12-00, Amsterdam, Manchester C
+33, Abd Hatem Elhamed, ISR, D, 1.86, 80, 18-03-91, Kafr Manda, Hapoel Be'er Sheva
+35, Kristoffer Ajer, NOR, D, 1.96, 84, 17-04-98, Rælingen, Start
+40, Barry Coffey, IRL, M, 1.73, 66, 27-03-01, Nenagh, None
+41, Scott Robertson, SCO, M, 1.85, 76, 27-07-01, Glasgow, None
+42, Callum McGregor, SCO, M, 1.78, 67, 14-06-93, Glasgow, None
+43, Ryan Mullen, SCO, G, 1.88, 80, 18-05-01, Glasgow, None
+44, Daniel Church, SCO, D, , , 21-07-00, , None
+47, Liam Hughes, NIR, G, 1.93, 80, 19-08-01, Dungannon, Dungannon Swifts
+49, James Forrest, SCO, M, 1.70, 67, 07-07-91, Prestwick, None
+51, Paul Kennedy, SCO, M, 1.76, 64, 02-03-01, Glasgow, None
+52, Ewan Henderson, SCO, M, 1.83, 76, 27-03-00, Livingston, None
+55, Kerr McInroy, SCO, D, 1.80, 70, 31-08-00, Glasgow, None
+57, Stephen Welsh, SCO, D, 1.82, 78, 19-01-00, Coatbridge, None
+59, Calvin Miller, SCO, D, 1.82, 70, 09-01-98, Glasgow, None
+61, Mark Hill, SCO, M, , , 10-07-98, , Hamilton Academical
+62, Kieran McGrath, SCO, F, 1.77, 68, 28-03-01, Coatbridge, None
+67, Fraser Forster, ENG, G, 2.01, 93, 17-03-88, Hexham, Southampton
+70, David McKay, SCO, M, , , 07-03-01, , None
+77, Karamoko Dembélé, ENG, F, 1.61, 55, 22-02-03, Lambeth, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+50, Robbie Deas, SCO, D, 1.88, 78, 27-02-00, Perth, Alloa Ath (On Loan)
+63, Kieran Tierney, SCO, D, 1.78, 70, 05-06-97, Douglas, Arsenal
+56, Anthony Ralston, SCO, D, 1.83, 70, 16-11-98, Glasgow, St Johnstone (On Loan)
+76, Jack Aitchison, SCO, F, 1.80, 70, 05-03-00, Fauldhouse, Forest Green R (On Loan)
+11, Scott Sinclair, ENG, M, 1.75, 64, 25-03-89, Bath, Preston NE
+4, Jack Hendry, SCO, D, 1.88, 76, 07-05-95, Glasgow, Melbourne C (On Loan)
+88, Eboue Kouassi, CIV, M, 1.85, 70, 13-12-97, Abidjan, KRC Genk (On Loan)
+24, Jonathan Afolabi, IRL, F, 1.76, 70, 14-01-00, Dublin, Dunfermline Ath (On Loan)
+65, Conor Hazard, NIR, G, 1.98, 77, 05-03-98, Belfast, Dundee (On Loan)
+16, Lewis Morgan, SCO, M, 1.78, 75, 30-09-96, Paisley, Inter Miami
+74, Grant Savoury, SCO, F, 1.71, 63, 07-07-00, Stirling, Edinburgh C (On Loan)

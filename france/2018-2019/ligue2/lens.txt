@@ -1,0 +1,37 @@
+=  Lens - French Ligue 2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Jean-Kévin Duverne, FRA, D, 1.84, 71, 12-07-97, Paris, None
+3, Modibo Sagnan, FRA, D, 1.87, 71, 14-04-99, Saint-Denis, None
+4, Saïf Tka, TUN, D, 1.84, 82, 10-04-91, Tunis, Club Africain
+5, Mehdi Jean Tahrat, ALG, D, 1.93, 84, 24-01-90, Meudon, Angers
+6, Jean-Ricner Bellegarde, FRA, M, 1.70, 66, 27-06-98, Colombe, Le Mans
+7, El-Hajdi Ba, FRA, M, 1.83, 74, 05-03-93, Paris, Sochaux
+8, Souleymane Diarra, MLI, M, 1.73, 68, 30-01-95, , Újpest
+9, Thierry Ambrose, FRA, F, 1.78, 70, 28-03-97, Sens, Manchester C
+10, Walid Mesloub, ALG, M, 1.80, 69, 04-09-85, Trappes, Lorient
+11, Mouaad Madri, MAR, F, 1.77, 65, 09-04-90, Saint-Pol-sur-Mer, Ajaccio
+14, Arthur Yannick Gomis, SEN, F, 1.80, 76, 03-02-92, Dakar, Orléans
+15, Steven Fortes, CPV, D, 1.92, 85, 17-04-92, Marseille, Toulouse
+16, Jean-Louis Leca, FRA, G, 1.77, 65, 21-09-85, Bastia, Ajaccio
+18, Fabien Centonze, FRA, D, 1.90, 82, 16-01-96, Voiron, Clermont
+19, Arial Mendy, SEN, D, 1.80, 75, 07-11-94, Ziguinchor, Diambars
+20, Achraf Bencharki, MAR, F, 1.84, 70, 23-09-94, Taza, Al-Hilal [KSA]
+21, Massadio Haïdara, MLI, D, 1.79, 75, 02-12-92, Trappes, Newcastle U
+22, Filip Marković, SRB, M, 1.81, 76, 03-03-92, Čačak, Excel Mouscron
+23, Simon Banza, FRA, F, 1.89, 77, 13-08-96, Creil, None
+25, Mounir Chouiar, FRA, F, 1.77, 75, 23-01-99, Liévin, None
+26, Aleksandar Radovanović, SRB, D, 1.89, 83, 11-11-93, Šabac, Vojvodina
+27, Guillaume Gillet, BEL, M, 1.86, 77, 09-03-85, Liège, Olympiakos
+28, Cheick Doucouré, MLI, M, 1.80, 73, 08-01-00, Bamako, JMG Academy
+29, Grejohn Kyei, FRA, F, 1.87, 84, 12-08-95, Gonesse, Reims
+30, Jérémy Vachoux, FRA, G, 1.83, 78, 07-07-94, Thonon-les-Bains, St-Etienne
+40, Valentin Belon, FRA, G, 1.80, 77, 13-06-95, Béthune, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Kévin Fortuné, FRA, F, 1.82, 80, 06-08-89, Paris, Troyes
+28, Thomas Ephestion, FRA, M, 1.89, 87, 09-06-95, Sucy-en-Brie, Orléans
+25, Ouwo Moussa Maazou, NIG, F, 1.86, 78, 25-08-88, Niamey, 
+31, Cyrille Bayala, BFA, F, 1.81, 68, 24-05-96, Ouagadougou, Sochaux (On Loan)

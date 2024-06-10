@@ -1,0 +1,23 @@
+# French Ligue 2 2015/16
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Auxerre](auxerre.txt)
+- [Bourg-en-Bresse Péronnas](bourg.txt)
+- [Brest](brest.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Dijon](dijon.txt)
+- [Évian Thonon Gaillard](eviantg.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Metz](metz.txt)
+- [Nancy](nancy.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Paris FC](parisfc.txt)
+- [Red Star](redstar.txt)
+- [Sochaux](sochaux.txt)
+- [Tours](tours.txt)
+- [Valenciennes](valenc.txt)

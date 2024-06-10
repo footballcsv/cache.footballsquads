@@ -1,0 +1,33 @@
+=  New York City - USA Major League Soccer 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sean Johnson, USA, G, 1.93, 98, 31-05-89, Lilburn, Chicago Fire
+3, Anton Tinnerholm, SWE, D, 1.75, 69, 26-02-91, Linköping, Malmö FF
+4, Maxime Chanot, FRA, D, 1.84, 78, 21-11-89, Nancy, Kortrijk
+6, Alexander Callens, PER, D, 1.83, 76, 04-05-92, Callao, Numancia
+8, Alexander Ring, FIN, M, 1.73, 69, 09-04-91, Helsinki, Kaiserslautern
+9, Héber, BRA, F, 1.80, 72, 10-08-91, Colorado do Oeste, Rijeka
+10, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, León
+11, Valentín Castellanos, ARG, M, 1.79, 69, 03-10-98, Mendoza, Torque
+13, Luis Barraza, USA, G, 1.88, 88, 08-11-96, Las Cruces, Marquette Univ
+14, Juan Pablo Torres, USA, M, 1.62, 58, 26-07-99, Lilburn, Lokeren
+15, Tony Rocha, USA, M, 1.75, 75, 21-08-93, Spring, Orlando C
+16, James Sands, USA, M, 1.80, 73, 06-07-00, Rye, None
+17, Gary Mackay-Steven, SCO, M, 1.75, 68, 31-08-90, Thurso, Aberdeen
+19, Jesús Medina, PAR, F, 1.77, 70, 30-04-97, Limpio, Libertad
+20, Guðmundur Þórarinsson, ISL, D, 1.83, 75, 15-04-92, Selfoss, IFK Norrköping
+22, Ronald Matarrita, CRC, D, 1.75, 70, 09-07-94, San Ramón [CRC], LD Alajuelense
+23, Gedion Zelalem, USA, M, 1.85, 77, 26-01-97, Berlin, Sporting Kansas City
+24, Tayvon Gray, USA, D, 1.80, 74, 19-08-02, The Bronx, None
+25, Joe Scally, USA, D, 1.78, 67, 31-12-02, Lake Grove, None
+26, Nicolás Acevedo, URU, M, 1.73, 73, 14-04-99, Montevideo, Liverpool [URU]
+29, Ismael Tajouri, LBY, M, 1.66, 64, 27-03-94, Bern, Austria Vienna
+33, Sebastien Ibeagha, USA, D, 1.89, 85, 21-01-92, Warri, San Antonio FC
+41, Brad Stuver, USA, G, 1.91, 82, 16-04-91, Mayfield, Columbus Crew
+55, Keaton Parks, USA, M, 1.92, 75, 06-08-97, Plano, Benfica
+80, Justin Haak, USA, M, 1.83, 75, 12-09-01, Brooklyn, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Alexandru Mitriţă, ROU, M, 1.70, 75, 08-02-95, Craiova, Al-Ahli Saudi (On Loan)

@@ -1,0 +1,49 @@
+=  Boston River - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Santiago Silva, URU, G, 1.90, 78, 11-05-99, Salto, Defensor Sporting
+2, Leonard Costa, URU, D, 1.85, 82, 24-08-98, Artigas, Central Español
+3, Marco Mancebo, URU, D, 1.87, 74, 02-05-01, Mercedes, Defensor Sporting
+4, Santiago Corbo, URU, D, 1.73, 73, 29-06-02, Montevideo, Defensor Sporting
+5, Guzmán Rodríguez, URU, D, 1.85, 80, 08-02-00, Montevideo, River Plate [URU]
+6, Emanuel Beltrán, URU, D, 1.80, 75, 23-01-98, Santa Lucia, Cerro Largo
+7, Emiliano Gómez, URU, F, 1.77, 80, 18-09-01, Rivera, Defensor Sporting
+8, Francisco Barrios, URU, M, 1.81, 73, 19-02-02, -, Defensor Sporting
+9, Emiliano Rodríguez, URU, F, 1.90, 77, 16-07-03, Montevideo, Bella Vista
+10, Hernán Novick, URU, M, 1.74, 68, 13-12-88, Montevideo, Universitario de Deportes
+11, Brayan Alcócer, VEN, F, 1.72, 74, 17-08-03, Puerto Ordaz, Mineros de Guayana
+12, Juan González, URU, G, 1.85, 84, 10-07-93, Ombúes de Lavalle, Sol de América
+13, Matías Zunino, URU, D, 1.76, 70, 20-04-90, Canelones, Liverpool [URU]
+14, Martín Fernández, URU, M, 1.83, 75, 08-05-01, Montevideo, Liverpool [URU]
+15, Ayrton Cougo, URU, D, 1.86, 73, 15-06-96, Cerro Largo, Sarmiento (Junín)
+16, Leandro Suhr, URU, F, 1.75, 81, 24-09-97, Tarariras, Plaza Colonia
+18, José Riasco, VEN, F, 1.87, 66, 02-02-04, Ciudad Guayana, Philadelphia Union II
+20, Bruno Antúnez, URU, G, 1.82, 83, 31-01-03, Montevideo, None
+21, Leandro Méndez, URU, M, 1.75, 70, 06-03-03, Las Piedras, None
+22, Mauro Alfonso, URU, D, 1.87, 76, 16-06-02, Montevideo, Villa Española
+23, Carlos Valdéz, URU, D, 1.83, 75, 02-05-83, Montevideo, Peñarol
+24, Juan Manuel Gutiérrez, URU, F, 1.74, 67, 04-02-02, Atlántida, Almería B
+25, Emiliano Sosa, URU, M, 1.76, 79, 18-02-98, Montevideo, Nacional [URU]
+26, Facundo Muñoa, URU, M, 1.71, 65, 11-06-04, Artigas, None
+27, Gianni Rodríguez, URU, D, 1.77, 70, 07-06-94, Montevideo, Rampla Juniors
+30, Gian Franco Allala, URU, D, 1.87, 89, 17-01-97, Juan Lacaze, Atenas
+31, Fernando Camarda, URU, D, 1.74, 68, 08-11-03, Montevideo, None
+33, Kevin Rodríguez, URU, F, -, -, 02-03-06, -, None
+34, Agustín Amado, URU, M, 1.74, 65, 06-02-01, Santa Lucía, Versailles
+35, Bruno Abbate, URU, F, 2.03, 92, 05-07-02, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Mathías Acuña, URU, F, 1.74, 68, 28-11-92, Montevideo, Lamia
+24, Pedro Silva, ARG, M, 1.74, 63, 25-01-97, Laboulaye, Panetolikos
+18, Bruno Barja, URU, F, 1.86, 89, 16-09-02, Dolores, Tlaxcala (On Loan)
+9, Cristian Olivera, URU, F, 1.70, 64, 17-04-02, Montevideo, Almería
+10, Martín Fernández, URU, M, 1.71, 73, 23-06-03, Montevideo, Miramar Misiones (On Loan)
+22, Alexander Machado, URU, F, 1.79, 80, 28-05-02, Montevideo, Miramar Misiones (On Loan)
+32, Jonathan Urretavizcaya, URU, F, 1.74, 62, 19-03-90, Montevideo, Racing Club [URU]
+17, Agustín Dávila, URU, F, 1.76, 78, 05-01-99, Rivera, Guayaquil C (On Loan)
+27, Mateo Torres, URU, M, 1.75, 71, 27-02-02, Montevideo, Iraklis
+33, Joaquín Fernández, URU, D, 1.84, 76, 22-01-99, Rocha, Atenas
+11, Emiliano Rodríguez, URU, F, 1.90, 77, 16-07-03, Montevideo, Re-Registered (9)
+19, Hernán Novick, URU, M, 1.74, 68, 13-12-88, Montevideo, Re-Registered (10)

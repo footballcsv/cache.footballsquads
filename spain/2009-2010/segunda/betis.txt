@@ -1,0 +1,43 @@
+=  Betis - Spanish Segunda Divisón A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ricardo, POR, G, 1.88, 77, 11-02-76, Montijo, Sporting CP
+2, Melli, ESP, D, 1.81, 78, 06-06-84, Barbate, Betis B
+3, Fernando Vega, ESP, D, 1.77, 71, 03-07-84, Arahal, Sevilla B
+4, Nano, ESP, D, 1.86, 79, 07-07-80, Ciudad Real, Getafe
+5, David Rivas, ESP, D, 1.90, 85, 02-12-78, Dos Hermanas, Betis B
+7, Juanma, ESP, M, 1.76, 72, 29-05-81, Don Benito, Levante
+8, Arzu, ESP, M, 1.84, 78, 17-03-81, Seville, Córdoba
+9, Sergio García, ESP, F, 1.75, 72, 09-06-83, Barcelona, Zaragoza
+10, Stephen "Sunny" Sunday, ESP, M, 1.80, 67, 17-09-88, Lagos, Valencia
+11, Juan Caffa, ARG, M, 1.84, 73, 30-09-84, Venado Tuerto, Arsenal [ARG]
+12, Damiá, ESP, D, 1.88, 77, 15-04-82, Figueras, Barcelona B
+13, Casto, ESP, G, 1.80, 82, 18-06-82, Badajoz, Betis B
+14, Capi, ESP, M, 1.78, 72, 26-03-77, Capas, Granada
+15, Marco Aurélio, TUR, M, 1.78, 75, 15-12-77, Rio de Janeiro, Fenerbahçe
+16, Mariano Pavone, ARG, F, 1.76, 81, 27-05-82, Tres Sargentos, Estudiantes (LP)
+17, David Odonkor, GER, M, 1.74, 74, 21-02-84, Bünde, Borussia Dortmund
+18, Iriney, BRA, M, 1.79, 70, 23-04-81, Humaitá, Almería
+19, Jonathan Pereira, ESP, F, 1.66, 61, 12-05-87, Vigo, Villarreal
+20, Achille Emana, CMR, M, 1.80, 77, 22-07-82, Yaoundé, Toulouse
+21, Carlos García, ESP, D, 1.84, 82, 29-04-84, Barcelona, Almería
+22, Nélson, POR, D, 1.72, 65, 10-06-83, Praia, Benfica
+23, Nacho, ESP, M, 1.77, 70, 24-06-80, Huelva, Getafe
+25, Iñaki Goitia, ESP, G, 1.88, 79, 02-03-82, Cruces, Málaga
+26, Álex Ortiz, ESP, D, 1.84, 76, 25-09-85, Seville, Betis B
+27, Juande, ESP, M, 1.82, 72, 12-06-86, Alicante, Betis B
+28, Toni, ESP, D, 1.72, 71, 07-02-85, Barcelona, Betis B
+29, Rodri, ESP, M, 1.75, 64, 07-03-86, Utrera, Betis B
+30, Adri, ESP, G, 1.88, 77, 03-01-87, Seville, Betis B
+31, Israel, ESP, M, 1.72, 66, 16-03-87, Utrera, Betis B
+32, Miki Roqué, ESP, D, 1.86, 74, 08-07-88, Tremp, Betis B
+33, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Betis C
+37, José Alberto Cañas, ESP, M, 1.77, 64, 27-05-87, Jerez de la Frontera, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Xisco, ESP, F, 1.75, 69, 05-09-80, Manacor, Levante
+6, Branko Ilič, SVN, D, 1.88, 80, 06-02-83, Ljubljana, FC Moscow
+6, Dani, ESP, F, 1.72, 62, 16-09-81, Seville, Recreativo Huelva
+24, Óscar López, ESP, D, 1.78, 71, 11-05-80, Cerdanyola, Numancia

@@ -1,0 +1,23 @@
+# French Ligue 2 2009/10
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Angers](angers.txt)
+- [Arles-Avignon](arles.txt)
+- [Bastia](bastia.txt)
+- [Brest](brest.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dijon](dijon.txt)
+- [Guingamp](guinga.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Metz](metz.txt)
+- [Nantes](nantes.txt)
+- [Nîmes](nimes.txt)
+- [Sedan](sedan.txt)
+- [Strasbourg](stras.txt)
+- [Tours](tours.txt)
+- [Vannes](vannes.txt)

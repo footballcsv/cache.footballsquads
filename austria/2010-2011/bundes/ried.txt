@@ -1,0 +1,38 @@
+=  SV Ried - Austrian Bundesliga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Gebauer, GER, G, 1.91, 88, 30-06-82, Augsburg, Bayreuth
+2, Martin Stocklasa, LIE, D, 1.90, 93, 29-05-79, Grabs, Dynamo Dresden
+3, Thomas Schrammel, AUT, D, 1.75, 74, 05-09-87, Kittsee, Rapid Vienna
+4, Michael Schildberger, AUT, M, 1.78, , 01-11-91, Wallern an der Trattnach, AKA OÖ West
+5, Oliver Glasner, AUT, D, 1.81, 72, 28-08-74, Salzburg, LASK Linz
+6, Mark Prettenthaler, AUT, D, 1.83, 75, 11-04-83, Graz, LASK Linz
+7, Daniel Royer, AUT, M, 1.77, 73, 22-05-90, Schladming, Pasching
+8, Stefan Lexa, AUT, M, 1.80, 76, 01-11-76, Klagenfurt, Kaiserslautern
+9, Guillem, ESP, F, 1.83, 74, 05-09-85, Mercadal, Sporting Mahonés
+10, Florian Mader, AUT, M, 1.80, 75, 14-09-82, Innsbruck, Wacker Innsbruck
+11, Nacho Rodríguez, ESP, F, 1.80, 75, 06-11-82, Laredo, Lanzarote
+12, Lukas Gabriel, AUT, D, 1.92, 81, 26-12-91, , AKA OÖ West
+13, Iván Carril, ESP, M, 1.84, 75, 13-02-85, Santiago de Compostela, Pontevedra
+14, Jan Marc Riegler, AUT, D, 1.88, 71, 18-04-88, Braunau am Inn, Red Bull Salzburg
+17, Moritz Moser, AUT, D, 1.78, 72, 27-08-92, Eggelsberg, AKA OÖ West
+18, Ewald Brenner, AUT, D, 1.83, 83, 26-06-75, Freistadt, Austria Salzburg
+19, Peter Hackmair, AUT, M, 1.77, 70, 06-06-87, Vöcklabruck, SK Kammer
+20, Anel Hadžić, BIH, M, 1.84, 73, 16-08-89, Velika Kladuša, AKA OÖ West
+21, Markus Hammerer, AUT, F, 1.75, 72, 31-08-89, , Neuhofen
+22, Robert Žulj, AUT, F, 1.89, 81, 05-02-92, Wels, None
+24, Lukas Mitterhofer, AUT, G, 1.85, , 06-08-93, , AKA OÖ West
+25, Philipp Huspek, AUT, M, 1.72, 63, 05-02-91, Grieskirchen, None
+28, Thomas Reifeltshammer, AUT, D, 1.88, 72, 03-07-88, Ried im Innkreis, Neuhofen
+29, Marcel Ziegl, AUT, D, 1.80, 71, 20-12-92, Seewalchen, AKA OÖ West
+30, Wolfgang Hesl, GER, G, 1.85, 85, 13-01-86, Nabburg, Hamburg
+33, Hubert Auer, AUT, G, 1.91, 88, 19-12-81, , Lustenau
+34, Stefan Pointner, AUT, G, , , 01-02-90, , AKA OÖ West
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Michael Sammer, AUT, D, 1.83, 72, 23-08-81, , Union Vöcklamarkt (On Loan)
+26, Maximilian Karner, AUT, D, 1.84, 74, 30-01-90, Salzburg, Grödig (On Loan)
+31, Pirmin Strasser, AUT, G, 1.89, 82, 16-10-90, Linz, Almería B
+17, Stefan Kirnbauer, AUT, D, 1.85, 72, 01-12-88, , Union Vöcklamarkt (On Loan)

@@ -1,0 +1,21 @@
+# Mexican Liga MX 2019/2020 Clausura
+
+18 teams
+- [América](america.txt)
+- [Atlas](atlas.txt)
+- [Atlético San Luis](atlsanlu.txt)
+- [Cruz Azul](cruzazul.txt)
+- [Guadalajara](guadal.txt)
+- [Juárez](juarez.txt)
+- [León](leon.txt)
+- [Monterrey](monter.txt)
+- [Morelia](morelia.txt)
+- [Necaxa](necaxa.txt)
+- [Pachuca](pachuca.txt)
+- [Puebla](puebla.txt)
+- [Querétaro](queret.txt)
+- [Santos Laguna](santos.txt)
+- [Tijuana](tijuana.txt)
+- [Toluca](toluca.txt)
+- [UANL Tigres](uanltig.txt)
+- [UNAM](unam.txt)

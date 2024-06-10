@@ -1,0 +1,55 @@
+=  Náutico - Campeonato Brasileiro Série A 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, André Sangalli, BRA, G, 1.92, 82, 17-01-80, Estrela, Santa Cruz
+, Eduardo, BRA, G, 1.93, 87, 02-07-77, Rio de Janeiro, América-RJ
+, Glédson, BRA, G, 1.92, 88, 06-02-83, Almenara, Santa Cruz
+, Anderson Santana, BRA, D, 1.84, 78, 24-04-86, Belo Horizonte, Linhares
+, Asprilla, BRA, D, 1.82, 84, 04-05-81, São Gonçalo do Sapucaí, Figueirense
+, Cláudio Luiz, BRA, D, 1.97, 93, 26-07-77, Salvador, Brasiliense
+, Fernando, BRA, D, 1.90, 83, 12-11-85, Auriflama, Ferroviária
+, Luiz Alberto, BRA, D, 1.85, 75, 26-01-90, Aracaju, None
+, Márcio, BRA, D, 1.88, 82, 22-03-86, Ribeirão Preto, Rio Branco
+, Michel, BRA, D, 1.86, 81, 09-06-81, Serra, Atlético Paranaense
+, Onildo, BRA, D, 1.82, 75, 22-05-87, Monção, None
+, Patrick, BRA, D, 1.73, 70, 19-07-83, Rio de Janeiro, Brasiliense
+, Sidny, BRA, D, 1.70, 61, 21-07-81, Xique-Xique, Livorno
+, Vágner Silva, BRA, D, 1.82, 73, 09-06-83, Belem, Botafogo
+, Wellington, BRA, D, 1.84, 81, 03-09-89, Flexeiras, None
+, Aílton, BRA, M, 1.74, 73, 13-10-84, Recife, Central
+, David, BRA, M, 1.77, 70, 29-05-82, Araxá, Atlético Paranaense
+, Derley, BRA, M, 1.87, 70, 02-08-86, Anápolis, Internacional
+, Dinda, BRA, M, 1.80, 75, 03-04-89, Itabuna, None
+, Douglas Maia, BRA, M, 1.79, 69, 12-04-89, Arapongas, Atlético Paranaense
+, Eduardo Erê, BRA, M, 1.74, 64, 12-03-88, Maceió, None
+, Irênio, BRA, M, 1.71, 64, 27-05-75, Carangola, América Mineiro
+, Johnny, BRA, M, 1.85, 82, 06-08-85, Lavras, Corinthians Alagoano
+, Juliano, BRA, M, 1.75, 63, 21-11-80, Ribeirão Preto, Avaí
+, Mariano Torres, ARG, M, 1.81, 80, 19-05-87, Capital Federal, Corinthians
+, Marquinhos, BRA, M, 1.83, 78, 16-05-89, Recife, None
+, Nilson, BRA, M, 1.83, 78, 31-03-89, Recife, None
+, Rudnei, BRA, M, 1.88, 78, 07-10-84, Florianópolis, Grêmio
+, Thiaguinho, BRA, M, 1.78, 73, 19-05-90, Cuiabá, None
+, Beto Acosta, URU, F, 1.88, 80, 13-01-77, Montevideo, Corinthians
+, Anderson Lessa, BRA, F, 1.70, 66, 26-07-89, Recife, None
+, Bruno Mineiro, BRA, F, 1.76, 68, 02-02-83, Belo Horizonte, América Mineiro
+, Carlinhos Bala, BRA, F, 1.62, 64, 17-09-79, Recife, Cruzeiro
+, Ferreira, BRA, F, 1.87, 78, 21-02-79, Uberlândia, Crvena Zvezda
+, Kuki, BRA, F, 1.67, 72, 30-04-71, Crateús, Jeonbuk Hyundai Motors
+, Márcio Barros, BRA, F, 1.86, 82, 07-02-81, Rio de Janeiro, Santa Cruz
+, Élton, BRA, F, 1.80, 72, 20-09-85, Engenheiro Beltrão, Cianorte
+, Tuta, BRA, F, 1.88, 90, 20-06-74, São Paulo, São Caetano
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Júnior Carioca, BRA, M, 1.86, 81, 27-04-85, Niterói, Tombense
+, Édson, BRA, D, 1.78, 82, 15-03-77, Palmares, Korona Kielce
+, Diego Bispo, BRA, D, 1.85, 70, 05-01-89, Salvador, Galícia
+, Daniel González, CHI, M, 1.85, 78, 30-01-84, Quilpué, Colo-Colo
+, Adriano Magrão, BRA, F, 1.84, 82, 07-03-81, Aparecida de Goiânia, Gama
+, Gladstone, BRA, D, 1.84, 81, 29-01-85, Vila Velha, Cruzeiro
+, Gilmar, BRA, F, 1.76, 64, 09-03-84, Ubatã, Guingamp
+, Galiardo, BRA, D, 1.83, 70, 18-05-85, Américo Brasiliense, São Caetano
+, Dudu Araxá, BRA, M, 1.83, 77, 24-04-87, Araxá, 
+, Negretti, BRA, D, 1.83, 77, 16-12-85, Bebedouro, 

@@ -1,0 +1,47 @@
+=  Fortaleza - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Boeck, BRA, G, 1.91, 83, 28-11-84, Santa Cruz, Chapecoense
+2, Tinga, BRA, D, 1.79, 78, 01-09-93, Porto Alegre, Bahia
+4, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Bahia
+5, Marcelo Benevenuto, BRA, D, 1.80, 73, 07-01-96, Resende, Botafogo
+7, Robson, BRA, F, 1.79, 76, 30-05-91, Campinas, Coritiba
+9, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Chapecoense
+10, Lucas Crispim, BRA, F, 1.78, 72, 16-06-94, Brasília, Guarani
+11, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Buriram U
+12, Felipe Alves, BRA, G, 1.87, 79, 21-05-88, São Paulo, Atlético Paranaense
+13, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, Corinthians
+14, Ronald, BRA, M, 1.71, 74, 18-06-97, Belford Roxo, Juventus-SC
+15, Felipe, BRA, M, 1.84, 76, 10-04-94, Maranguape, Maranguape
+16, Matheus Jussa, BRA, M, 1.83, 83, 22-03-96, São Paulo, Oeste
+17, David, BRA, F, 1.79, 71, 17-10-95, Vitória, Cruzeiro
+18, Edinho, BRA, F, 1.58, 60, 08-08-94, Baturité, Atlético Mineiro
+19, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Universidad de Chile
+20, Romarinho, BRA, F, 1.68, 66, 01-03-94, Natal, Globo
+22, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Vasco da Gama
+23, Max Walef, BRA, G, 1.81, 73, 23-10-93, Teresina, None
+25, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Palmeiras
+26, Gustavo Blanco, BRA, M, 1.74, 66, 03-10-94, Salvador, Atlético Mineiro
+29, Daniel Guedes, BRA, D, 1.80, 69, 02-04-94, São Paulo, Santos
+30, Bruno Melo, BRA, D, 1.83, 72, 26-10-92, Paracuru, Quixadá
+33, Nathan, BRA, D, -, -, 14-05-98, -, Athletic-MG
+34, Valentín Depietri, ARG, F, 1.78, 75, 31-10-00, Tandil, Santamarina (Tandil)
+38, João Paulo, BRA, D, 1.88, 84, 04-07-97, -, Paulista
+40, Vitor Ricardo, BRA, D, 1.78, 67, 14-04-00, Rio de Janeiro, None
+44, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Göztepe
+77, Igor Torres, BRA, F, 1.83, 73, 11-03-00, São Paulo, Taboão da Serra
+96, Matheus Vargas, BRA, M, 1.81, 74, 18-06-96, Claudia, Audax-SP
+97, Pablo, BRA, M, -, -, 26-01-97, Uberaba, Audax-SP
+99, Kennedy, BRA, G, 1.87, 80, 08-12-99, São Luís, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, Cruzeiro
+32, Mariano Vázquez, ARG, M, 1.73, 71, 20-12-92, Mar del Plata, FBC Melgar
+33, Wanderson, BRA, D, 1.86, 83, 07-02-91, Vitória da Conquista, Bahia
+19, Isaque, BRA, M, 1.78, 75, 22-04-97, São Paulo, Grêmio
+3, Juan Sebastián Quintero, COL, D, 1.84, 79, 23-03-95, Cali, Juventude (On Loan)
+21, Gustavo Coutinho, BRA, F, 1.83, 78, 19-01-99, Rio de Janeiro, Operário (On Loan)
+6, Carlinhos, BRA, D, 1.67, 71, 29-11-86, Piripiri, Botafogo (On Loan)
+8, Luiz Henrique, BRA, M, 1.81, 71, 18-03-99, Rio de Janeiro, Botafogo (On Loan)

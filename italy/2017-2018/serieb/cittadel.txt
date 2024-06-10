@@ -1,0 +1,40 @@
+=  Cittadella - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Alfonso, ITA, G, 1.91, 87, 04-05-88, Padua, Pro Piacenza
+2, Alessandro Salvi, ITA, D, 1.83, 76, 05-06-88, Bergamo, AlbinoLeffe
+3, Amedeo Benedetti, ITA, D, 1.70, 64, 25-10-91, Rovereto, Chievo Verona
+4, Manuel Iori, ITA, M, 1.82, 72, 12-03-82, Varese, Pisa
+5, Filippo Lora, ITA, M, 1.75, 73, 21-11-93, Valdagno, Milan
+6, Filippo Scaglia, ITA, D, 1.91, 88, 31-01-92, Turin, Torino
+7, Andrea Schenetti, ITA, M, 1.75, 72, 09-03-91, Milan, Como
+8, Antimo Iunco, ITA, F, 1.73, 76, 10-06-84, Brindisi, Paganese
+10, Lucas Chiaretti, BRA, F, 1.71, 67, 22-09-87, Belo Horizonte, Bragantino
+11, Cristian Kouamé, CIV, F, 1.85, 70, 06-12-97, Bingerville, Prato
+12, Alberto Andrea Paleari, ITA, G, 1.93, 88, 29-08-92, Giussano, Giana Erminio
+13, Marco Varnier, ITA, D, 1.86, 82, 08-06-98, Padua, None
+14, Enrico Pezzi, ITA, D, 1.80, 75, 24-09-89, Rimini, Benevento
+15, Giacomo Caccin, ITA, D, 1.86, 80, 25-12-97, Camposampiero, Padova
+16, Paolo Bartolomei, ITA, M, 1.83, 76, 22-08-89, Lucca, Reggiana
+17, Luca Strizzolo, ITA, F, 1.88, 83, 29-04-92, Udine, Pordenone
+18, Andrea Arrighini, ITA, F, 1.80, 75, 06-06-90, Pisa, Avellino
+19, Carlo Pelagatti, ITA, D, 1.81, 77, 08-01-89, Arezzo, Catania
+20, Simone Pasa, ITA, M, 1.84, 85, 21-01-94, Montebelluna, Internazionale
+21, Nicholas Siega, ITA, M, 1.78, 72, 25-02-91, Novara, Vicenza
+22, Thomas Vettorel, ITA, G, 1.90, 80, 17-09-00, Feltre, None
+23, Matteo Liviero, ITA, M, 1.80, 74, 13-04-93, Castelfranco Veneto, Juve Stabia
+24, Davide Adorni, ITA, D, 1.85, 78, 09-08-92, Parma, Cesena
+25, Luca Maniero, ITA, M, 1.76, 71, 11-07-98, Padua, None
+26, Giulio Fasolo, ITA, F, 1.68, 65, 14-10-98, Vicenza, None
+27, Andrea Settembrini, ITA, M, 1.76, 74, 10-12-91, Arezzo, FeralpiSalò
+28, Gabriele Dalla Bernardina, ITA, D, 1.87, 80, 11-01-99, Thiene, Internazionale
+29, Luca Vido, ITA, F, 1.82, 75, 03-02-97, Bassano del Grappa, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Alberto Corasaniti, ITA, G, 1.79, 78, 21-02-99, Padua, Clodiense (On Loan)
+23, Pietro Maronilli, ITA, D, 1.86, 80, 07-05-98, Treviso, Vastese (On Loan)
+9, Gianluca Litteri, ITA, F, 1.86, 82, 06-06-88, Catania, Venezia
+28, Agostino Camigliano, ITA, D, 1.88, 82, 11-07-94, Segrate, Cosenza (On Loan)
+30, Giulio Bizzotto, ITA, F, 1.70, 70, 15-10-96, Bassano del Grappa, Viterbese (On Loan)

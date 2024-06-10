@@ -1,0 +1,65 @@
+=  Perugia - Italian Serie A 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Željko Kalac, G, 6'07", 14 13, 16-12-72, Sydney, Roda JC
+2, Ze' Maria, D, 5'09", 11 07, 12-07-73, Oeiras, Cruzeiro
+3, Eusebio di Francesco, M, 5'10", 11 03, 08-09-69, Pescara, Ancona
+5, Christian Obodo, M, 5'09", 11 07, 11-05-84, Lagos, None
+6, Gian Battista Ignoffo, D, 6'00", 11 03, 03-04-77, Monreale, Avellino
+7, Guilherme Raymundo Do Prado, M, 6'03", 12 08, 31-12-81, Sao Paulo, Catania
+8, Michele Tardioli, G, 6'00", 12 04, 07-11-70, Foligno, Arezzo
+9, Jay Bothroyd, F, 6'03", 14 11, 07-05-82, London, Coventry C
+10, Franco Brienza, M, 5'06", 09 13, 19-03-79, Cantù, Palermo
+11, Paul Constantin Codrea, M, 5'09", 10 12, 04-04-81, Timisoara, Palermo
+12, Stefano Pardini, G, 6'00", 11 11, 24-12-75, Montignoso, Fermana
+13, Fabio Pessia, D, , , 25-01-84, Isola del Liri, Viterbese
+14, Souleimane Diamoutene, D, 6'01", 12 06, 30-01-83, Sikasso, Lucchese
+15, Fabrizio Ravanelli, F, 6'02", 13 04, 11-12-68, Perugia, Dundee
+16, Christian Manfredini, M, 5'11", 11 00, 01-05-75, Port Bouet, Fiorentina
+17, Carlos Arano, D, 5'07", 10 12, 06-05-80, Avellaneda, Siena
+18, Salvatore Fresi, D, 6'00", 11 05, 16-01-73, La Maddalena, Juventus
+19, Saadi al Ghaddafi, F, 6'00", 12 00, 27-05-73, Tripoli, Al-Ittihad
+20, Massimiliano Fusani, M, 5'09", 11 05, 17-07-79, Aosta, Internazionale
+21, Juan Martìn Turchi, F, 5'10", 12 01, 03-04-76, La Plata, Sambenedettese
+22, Marco Di Loreto, D, 6'01", 13 05, 28-09-74, Terni, Viterbese
+23, Luigi Giandomenico, F, 5'11", 11 11, 01-09-78, Macerata, Reggiana
+24, Francesco Zerbini, F, 5'11", 11 11, 26-10-79, Arezzo, Sambenedettese
+25, Massimo Ciarlora, D, 6'00", 11 07, 07-05-83, Rome, None
+26, Marcelo Zalayeta, F, 6'01", 13 05, 05-12-78, Montevideo, Juventus
+27, Dario Hubner, F, 6'00", 12 01, 28-04-67, Trieste, Ancona
+28, Luca Gentili, M, 6'00", 11 00, 22-05-86, Fano, Vis Pesaro
+29, Massimo Margiotta, F, 6'02", 13 05, 27-07-77, Maracaibo, Vicenza
+30, Ferdinand Coly, D, 5'11", 12 00, 10-09-73, Dakar, Lyon
+31, Daniele Sgammini, D, , , 29-02-84, Fermo, Fermana
+32, Michele Boldrini, M, 5'10", 11 11, 01-02-85, Perugia, None
+33, Evangelos Nastos, D, 6'02", 13 01, 13-09-80, Salonika, PAOK
+34, Matteo Pero Nullo, M, , , 18-07-85, , None
+35, Felix Leonardo Benito, D, , , 20-01-78, Buenos Aires, Independiente
+36, Gabriele Goretti, M, , , 24-07-85, Grosseto, None
+37, Domenico Maietta, D, 6'00", 12 04, 03-08-82, Cariati, Avellino
+40, Roberto Cardinale, D, 6'00", 11 05, 12-06-81, Pollena Trocchia, Salernitana
+44, Fabio Gatti, M, 5'06", 10 08, 04-01-82, Passignano, Catania
+77, Domenico Di Dio, G, , , 05-05-82, Naples, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Giuseppe Aprea, G, 6'01", 11 00, 23-06-77, Naples, Sora (On Loan)
+25, Riccardo Cazzola, D, 6'02", 12 08, 10-08-85, Fano, Sambenedettese (On Loan)
+18, Luigi Pagliuca, M, 6'00", 11 05, 29-08-79, Prato, Catania (On Loan)
+11, Nicola Amoruso, F, 6'01", 12 00, 29-08-74, San Giovanni Rotondo, Modena
+23, Sasa Bjelanovic, F, 6'02", 12 08, 11-06-79, Split, Genoa
+24, Ernesto Terra, D, 6'01", 12 00, 28-05-78, Teramo, Sora (On Loan)
+10, Emanuele Berrettoni, F, 5'09", 11 00, 17-05-81, Rome, Catania (On Loan)
+13, Gaël Genevier, M, 5'09", 11 03, 26-06-82, Saint-Martin-d'Hères, Lyon
+18, Antonio Maschio, M, 5'10", 11 05, 01-04-78, Somma Vesuviana, 
+17, Jamel Alioui, D, 5'10", 11 11, 02-06-82, Saint-Etienne, Catania (On Loan)
+27, Zisis Vryzas, F, 6'02", 12 08, 09-11-73, Kavala, Fiorentina
+11, Fabio Grosso, M, 6'03", 12 13, 18-11-77, Rome, Palermo
+4, Giovanni Tedesco, M, 5'07", 11 00, 13-05-72, Palermo, Genoa
+16, Luca Bisello Ragno, D, 6'00", 12 04, 20-03-83, Perugia, 
+3, Konstantinos Loumpoutis, D, 5'11", 12 00, 10-06-79, Thessalonika, Siena (On Loan)
+26, Fabio Filippi, M, , , 26-08-72, Rome, 
+35, Maurizio Baciocchi, F, , , 11-06-77, Rome, Orvietana
+37, Gabriele Scandurra, F, 6'01", 13 01, 26-11-78, Rome, 
+29, Fabiano Lima, D, 5'09", 10 08, 27-06-79, Osasco, 

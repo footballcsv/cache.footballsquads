@@ -1,0 +1,57 @@
+=  Vitória - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Juventude
+, Gustavo, BRA, G, 1.86, 77, 10-03-93, Colatina, None
+, Roberto Fernández, PAR, G, 1.91, 81, 29-03-88, Asunción, Cerro Porteño
+, Wilson, BRA, G, 1.85, 79, 31-01-84, Santo André, Figueirense
+, Ayrton, BRA, D, 1.76, 73, 19-04-85, Piracicaba, Palmeiras
+, Dão, BRA, D, 1.87, 82, 28-10-84, Penedo, Chapecoense
+, Ednei, BRA, D, 1.85, 81, 05-07-90, Senhor do Bonfim, Audax-SP
+, Euller, BRA, D, 1.68, 54, 04-01-95, São Paulo, None
+, Guilherme, BRA, D, , , 13-05-94, , None
+, Juan, BRA, D, 1.67, 66, 06-02-82, São Paulo, São Paulo
+, Kadu, BRA, D, 1.90, 80, 20-07-86, Brasília, Sporting Braga
+, Luiz Gustavo, BRA, D, 1.77, 65, 12-02-94, Valentim Gentil, Palmeiras
+, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Bahia
+, Matheus Salustiano, BRA, D, 1.83, 76, 19-04-93, Pindamonhangaba, Santo André
+, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Sousa
+, Roger Carvalho, BRA, D, 1.84, 74, 10-12-86, Arapongas, Tombense
+, Romário, BRA, D, 1.73, 66, 18-12-93, Salvador, None
+, Tarracha, BRA, D, 1.74, 71, 22-09-84, Ribeirão Preto, América-SP
+, Adriano, BRA, M, 1.70, 65, 29-05-87, São Vicente, Grêmio
+, Luis Cáceres, PAR, M, 1.75, 68, 16-04-88, Asunción, Libertad
+, Damián Escudero, ARG, M, 1.76, 74, 20-04-87, Rosario, Boca Juniors
+, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, None
+, Marcelo, BRA, M, 1.81, 75, 29-05-94, Santo Amaro, None
+, Marcinho, BRA, M, 1.71, 74, 20-07-84, Irapuã, Qatar SC
+, Neto, BRA, M, 1.78, 74, 07-02-87, Baixa Grande, None
+, Nickson, BRA, M, 1.76, 67, 26-08-97, Recife, None
+, Richarlyson, BRA, M, 1.76, 72, 27-12-82, Rio Grande de Norte, Atlético Mineiro
+, Vander, BRA, M, 1.73, 65, 17-04-90, Salvador, Bahia
+, Guillermo Beltrán, PAR, F, 1.83, 82, 25-06-84, San Juan Bautista, Cerro Porteño
+, Dinei, BRA, F, 1.86, 78, 11-11-83, São Domingos, Atlético Paranaense
+, Edno, BRA, F, 1.82, 73, 31-05-83, Lages, Ponte Preta
+, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, Fluminense
+, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, Palmeiras
+, William Henrique, BRA, F, 1.78, 74, 28-01-92, Ribeirão Preto, Grêmio Barueri
+, Willie, BRA, F, 1.69, 66, 15-05-93, Caravelas, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Leilson, BRA, M, 1.69, 71, 08-03-91, Feira de Santana, Águia (On Loan)
+, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Cruzeiro
+, Rodrigo Defendi, BRA, D, 1.93, 83, 16-06-86, Ribeirão Preto, Vitória Guimarães
+, Darlán, BRA, M, 1.75, 78, 21-02-94, Irará, Real Sociedad B (On Loan)
+, Adaílton, BRA, F, 1.79, 76, 06-12-90, Camaçari, Paraná
+, Alan Pinheiro, BRA, F, 1.80, 72, 13-05-92, Brumado, ASA (On Loan)
+, Souza, BRA, F, 1.88, 87, 04-03-82, Rio de Janeiro, Criciúma
+, Josa, BRA, M, 1.82, 76, 24-09-84, Matuipe, Salgueiro
+, Felipe Lima, BRA, M, 1.79, 70, 18-01-91, São Paulo, Icasa (On Loan)
+, Mauri, BRA, M, 1.71, 65, 06-03-93, Catu, Icasa (On Loan)
+, Caio, BRA, F, 1.76, 70, 09-08-90, Volta Redonda, Internacional
+, Léo Costa, BRA, M, 1.81, 73, 03-03-86, São José dos Campos, Portuguesa
+, Alemão, BRA, D, 1.90, 84, 14-07-86, Vitória, Ituano
+, Hugo, BRA, M, 1.81, 81, 27-10-80, Rio de Janeiro, 
+, Luis Aguiar, URU, M, 1.83, 81, 17-11-85, Mercedes, 

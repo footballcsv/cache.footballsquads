@@ -1,0 +1,51 @@
+=  Genoa - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, None
+3, Santiago Gentiletti, ARG, D, 1.84, 79, 09-01-85, Gödeken, Lazio
+4, Isaac Cofie, GHA, M, 1.80, 73, 20-09-91, Accra, Chievo Verona
+5, Armando Izzo, ITA, D, 1.83, 76, 02-03-92, Naples, Avellino
+8, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Roma
+9, Giovanni Simeone, ARG, F, 1.89, 66, 05-07-95, Madrid, River Plate
+10, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Manchester C
+11, Raffaele Palladino, ITA, F, 1.82, 73, 17-04-84, Mugnano di Napoli, Crotone
+14, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, Avellino
+15, Oscar Hiljemark, SWE, M, 1.84, 73, 28-06-92, Värnamo, Palermo
+16, Andrea Beghetto, ITA, M, 1.75, 73, 11-10-94, Perugia, SPAL
+17, Adel Taarabt, MAR, M, 1.80, 76, 24-05-89, Taza, Benfica
+21, Lucas Orbán, ARG, D, 1.84, 76, 03-02-89, Capital Federal, Valencia
+22, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Crvena Zvezda
+23, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Siena
+24, Ezequiel Muñoz, ARG, D, 1.85, 83, 08-10-90, Pergamino, Palermo
+26, Luca Zanimacchia, ITA, M, 1.78, 68, 19-07-98, Desio, Legnago
+27, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Galatasaray
+28, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Atalanta
+30, Luca Rigoni, ITA, M, 1.85, 72, 07-12-84, Schio, Palermo
+32, Leonardo Morosini, ITA, M, 1.75, 70, 13-10-95, Ponte San Pietro, Brescia
+33, Alex Coppola, ITA, D, 1.90, 84, 30-03-97, Genoa, Sampdoria
+37, Massimo Tazzer, ITA, D, 1.76, 70, 28-05-99, Genoa, None
+38, Lukáš Zima, CZE, G, 1.96, 86, 09-01-94, Hradec Králové, Slavia Prague
+44, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Dynamo Kyiv
+51, Mauricio Pinilla, CHI, F, 1.87, 78, 04-02-84, San Bernardo, Atalanta
+58, Diego Faccioli, ITA, G, 1.88, 73, 08-07-98, Turin, None
+59, Alessandro Quaini, ITA, M, 1.82, 78, 17-09-98, Cremona, None
+64, Pietro Pellegri, ITA, F, 1.88, 78, 17-03-01, Genoa, None
+83, Rubinho, BRA, G, 1.84, 90, 04-08-82, Guarulhos, Como
+93, Diego Laxalt, URU, M, 1.78, 66, 07-02-93, Montevideo, Internazionale
+94, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, Lazio
+98, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, Burriana
+99, Nikola Ninković, SRB, M, 1.82, 69, 19-12-94, Bogatić, Chievo Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Crotone (On Loan)
+15, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Catania
+33, Francesco Renzetti, ITA, D, 1.74, 65, 22-01-88, Monte Carlo, Cesena (On Loan)
+19, Leonardo Pavoletti, ITA, F, 1.86, 78, 26-11-88, Livorno, Napoli
+88, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Juventus
+29, Riccardo Fiamozzi, ITA, D, 1.78, 77, 18-05-93, Mezzocorona, Frosinone (On Loan)
+11, Lucas Ocampos, ARG, F, 1.87, 82, 11-07-94, Quilmes, Marseille
+13, Serge Gakpé, TOG, M, 1.77, 79, 07-05-87, Bondy, Chievo Verona (On Loan)
+20, Issa Cissokho, FRA, D, 1.73, 73, 23-02-85, Paris, Angers
+2, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese

@@ -1,0 +1,58 @@
+=  Standard Liège - Belgian Pro League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Víctor Valdés, ESP, G, 1.83, 78, 14-01-82, L'Hospitalet de Llobregat, Manchester U
+2, Réginal Goreux, HAI, D, 1.75, 73, 31-12-87, Saint-Michel, FC Rostov
+6, Jérôme Déom, BEL, M, 1.75, 65, 19-04-99, Libramont-Chevigny, None
+7, Giannis Maniatis, GRE, M, 1.75, 68, 12-10-86, Livadia, Olympiakos
+8, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Monaco
+9, Renaud Emond, BEL, F, 1.86, 73, 05-12-91, Virton, Waasland-Beveren
+10, Jean-Luc Dompé, FRA, M, 1.79, 75, 12-08-95, Arpajon, Sint-Truiden
+11, Benjamin Tetteh, GHA, F, 1.90, 83, 10-07-97, Accra, Dreams FC
+12, Beni Badibanga, BEL, F, 1.72, 67, 12-02-96, , None
+13, Alexander Scholz, DEN, D, 1.89, 87, 24-10-92, Copenhagen, Lokeren
+14, Christian Brüls, BEL, M, 1.84, 70, 30-09-88, Malmedy, Rennes
+15, Farouk Miya, UGA, M, 1.76, 75, 26-11-97, Bulo, Vipers
+16, Yohann Thuram, FRA, G, 1.87, 85, 31-10-88, Courcouronnes, Troyes
+17, Mathieu Dossevi, TOG, M, 1.72, 65, 12-02-88, Chambray-les-Tours, Olympiakos
+18, Ivan Santini, CRO, F, 1.90, 86, 21-05-89, Zadar, Kortrijk
+20, Samy Mmaee, BEL, D, 1.85, 82, 08-09-96, Halle, None
+21, Eyong Enoh, CMR, M, 1.80, 76, 23-03-86, Kumba, Ajax
+22, Edmilson Junior, BEL, M, 1.80, 65, 19-08-94, Liège, Sint-Truiden
+23, Adrien Trebel, FRA, M, 1.70, 60, 03-03-91, Dreux, Nantes
+24, Corentin Fiore, BEL, D, 1.83, 75, 24-03-95, Carnières, None
+25, Rochinha, POR, M, 1.72, 64, 03-05-95, Espinho, Benfica
+26, Senne Vits, BEL, G, 1.86, 68, 31-08-96, Leuven, OH Leuven
+27, Darwin Andrade, COL, D, 1.76, 70, 11-02-91, Monteria, Újpest
+28, Guillaume Hubert, BEL, G, 1.97, 88, 11-01-94, Charleroi, Valenciennes
+29, Hugo Cuypers, BEL, F, 1.85, 76, 07-02-97, Liège, None
+30, Jonathan Legear, BEL, F, 1.79, 72, 13-04-87, Liège, Blackpool
+32, Collins Fai, CMR, D, 1.67, 60, 13-08-92, Bamenda, Dinamo Bucureşti
+33, Miloš Kosanović, SRB, D, 1.91, 83, 28-05-90, Čonoplja, Mechelen
+35, Achraf Achaoui, MAR, D, 1.72, 61, 10-12-96, Ghent, KAA Gent
+36, Dino Arslanagic, BEL, D, 1.88, 79, 24-04-93, Nivelles, Lille
+44, Martin Remacle, BEL, M, 1.76, 73, 16-05-97, Verviers, None
+48, Antoine Lejoly, BEL, G, 1.88, 76, 26-03-98, Verviers, None
+77, Jonathan Okita, BEL, F, 1.80, 75, 05-10-95, Paris, Tubize
+97, Ryan Mmaee, BEL, F, 1.83, 78, 01-04-97, , None
+98, Fadel Gobitaka, BEL, M, , , 16-01-98, Sint-Agatha-Berchem, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Lucas Pirard, BEL, G, 1.91, 85, 10-03-95, Sprimont, Lommel U (On Loan)
+4, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Bursaspor
+17, Deni Milošević, BEL, M, 1.82, 73, 09-03-95, , Waasland-Beveren (On Loan)
+63, Geoffrey Mujangi Bia, COD, M, 1.76, 71, 12-08-89, Kinshasa, Sion
+67, Tortol Lumanza, BEL, M, 1.78, 70, 13-04-94, Antwerp, Waasland-Beveren
+10, Mohamed Yattara, GUI, F, 1.85, 76, 28-07-93, Conakry, Angers (On Loan)
+54, Alexis De Sart, BEL, M, 1.80, 66, 12-11-96, Waremme, Sint-Truiden
+19, Damien Dussaut, FRA, D, 1.82, 69, 08-11-94, Créteil, Sint-Truiden
+7, Anthony Knockaert, FRA, M, 1.72, 69, 20-11-91, Lille, Brighton & HA
+8, Faysel Kasmi, BEL, M, 1.67, 65, 31-10-95, Antwerp, Lierse
+5, Jorge Teixeira, POR, D, 1.88, 86, 27-08-86, Lisbon, Charlton Ath
+6, Martin Milec, SVN, D, 1.74, 71, 20-09-91, Maribor, Roda JC (On Loan)
+37, Jelle Van Damme, BEL, D, 1.94, 74, 10-10-83, Lokeren, LA Galaxy
+3, Ahmed El Messaoudi, BEL, D, 1.82, 78, 03-08-95, Brussels, Mechelen (On Loan)
+60, Sambou Yatabaré, MLI, M, 1.90, 82, 02-03-89, Beauvais, Olympiakos
+15, Julien de Sart, BEL, M, 1.86, 69, 23-12-94, Waremme, Middesbrough

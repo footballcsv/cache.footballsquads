@@ -1,0 +1,48 @@
+=  La Luz - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ramiro Méndez, URU, G, 1.82, 80, 07-01-01, Punta de Este, Defensor Sporting
+2, Marcos Paolini, URU, D, 1.90, 80, 14-08-01, Nueva Palmira, Uruguay Montevideo
+3, Guillermo Padula, URU, D, 1.81, 70, 16-09-97, Colonia del Sacramento, Bellinzona
+4, Martín González, URU, D, 1.85, 76, 06-07-94, Montevideo, Cerrito
+5, Matías de los Santos, URU, M, 1.76, 68, 28-09-98, Artigas, Peñarol
+6, Francisco Martirena, URU, D, 1.83, 79, 09-06-99, Montevideo, Fénix
+7, Juan Martín Boselli, URU, F, 1.76, 66, 28-10-94, Montevideo, Boston River
+8, Rodrigo Viera, URU, M, 1.79, 74, 30-11-96, Montevideo, Basáñez
+9, Bruno Scorza, URU, F, 1.76, 72, 01-10-00, San José de Mayo, Fénix
+10, Bryan Osores, URU, F, 1.76, 72, 25-05-99, Fray Bentos, Sud América
+11, Enzo Lemos, URU, F, 1.74, 67, 21-01-01, Artigas, Cerro
+12, Rafael Sánchez, VEN, G, 1.88, 74, 01-02-98, Boconó, Progreso
+13, Emiliano Ancheta, URU, D, 1.79, 68, 09-06-99, Montevideo, Albion
+14, Pablo Porcile, URU, M, 1.70, 73, 24-06-96, Tacuarembó, Cerro
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Defensor Sporting
+16, Aníbal Hernández, URU, M, 1.71, 71, 29-06-86, Montevideo, Villa Teresa
+18, Maicol Píriz, URU, D, -, -, 17-01-01, Canelones, None
+20, Martín Rabuñal, URU, M, 1.83, 71, 22-04-94, Montevideo, Montevideo City Torque
+21, Juan Román Pucheta, ARG, F, 1.82, 71, 11-07-02, Merlo, Argentinos Juniors
+22, Pablo Fagúndez, URU, D, 1.75, 70, 16-07-85, Montevideo, Villa Teresa
+23, Enzo Castillo, URU, D, 1.71, 65, 23-12-00, Montevideo, Villa Española
+24, Jonathan Baeza, URU, M, 1.79, 74, 31-05-02, -, Central Español
+25, Fabrizio Correa, URU, G, 1.90, 95, 18-01-01, Montevideo, River Plate [URU]
+26, Luis Machado, URU, F, 1.87, 78, 22-12-91, Paysandú, AD Tarma
+28, Facundo Barreto, URU, M, 1.66, 60, 26-06-01, Montevideo, None
+29, Jhonathan Ramis, URU, F, 1.78, 77, 06-11-89, Artigas, Atenas
+30, Juan Quintana, URU, F, 1.76, 75, 04-01-00, Progreso, River Plate [URU]
+32, Brian Ferreira, ARG, M, 1.73, 64, 24-05-94, Capital Federal, Hougang U
+99, Diego González, URU, F, 1.72, 65, 21-02-97, Paso de los Toros, Almagro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Sebastián Cardozo, URU, D, 1.89, 82, 09-09-95, Montevideo, Coquimbo Unido (On Loan)
+4, Santiago Carrera, URU, D, 1.87, 79, 05-03-94, Montevideo, 
+19, Cristian Quintero, PAN, F, 1.70, 60, 23-05-97, Ciudad de Panamá, Tauro
+18, Emanuel Fuentes, URU, M, -, -, 02-06-00, Montevideo, Rubio Ñú
+32, José Colmán, PAR, G, 1.92, 91, 04-06-96, Santa Rosa de Lima, 
+9, Nicolás Royón, URU, F, 1.72, 66, 28-01-91, Las Piedras, Marathón
+11, Ignacio Neira, URU, M, 1.82, 74, 06-02-98, Ciudad de la Costa, Rentistas
+20, Luciano Puentes, URU, D, 1.83, 78, 26-09-01, Montevideo, Rentistas
+29, Federico Millacet, URU, F, 1.75, 63, 21-07-91, Montevideo, Progreso
+10, Nicolás Schiappacasse, URU, F, 1.80, 73, 12-01-99, Montevideo, Belgrano (Córdoba) (On Loan)
+21, Roberto Hernández, URU, D, 1.87, 75, 20-03-94, Montevideo, Rentistas
+99, Bruno Scorza, URU, F, 1.76, 72, 01-10-00, San José de Mayo, Re-Registered (9)

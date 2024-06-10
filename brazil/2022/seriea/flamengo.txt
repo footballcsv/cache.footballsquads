@@ -1,0 +1,58 @@
+=  Flamengo - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Alves, BRA, G, 1.88, 83, 24-06-85, Rio de Janeiro, Valencia
+2, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Dynamo Moscow
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, São Paulo
+4, Léo Pereira, BRA, D, 1.86, 76, 31-01-96, Curitiba, Athletico Paranaense
+5, Erick Pulgar, CHI, M, 1.87, 74, 15-01-94, Antofagasta, Fiorentina
+6, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, Spartak Moscow
+7, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Al-Ahli [UAE]
+8, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Lille
+9, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+10, Diego, BRA, M, 1.74, 76, 28-02-85, Ribeirão Preto, Fenerbahçe
+11, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Benfica
+14, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Cruzeiro
+15, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, Red Bull Bragantino
+16, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Atlético Madrid
+17, André Luiz, BRA, F, 1.85, 74, 23-02-02, Rio de Janeiro, None
+19, Werton, BRA, F, 1.70, 74, 16-09-03, Benjamin Constant, None
+20, Santos, BRA, G, 1.88, 78, 17-03-90, Campina Grande, Athletico Paranaense
+21, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, Fiorentina
+22, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Arsenal
+25, Matheus Cunha, BRA, G, 1.81, 79, 24-05-01, Tupi Paulista, None
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Santos
+28, Daniel Cabral, BRA, M, 1.74, 68, 14-05-02, Mesquita, None
+29, Victor Hugo, BRA, M, 1.82, 81, 11-05-04, Rio de Janeiro, None
+30, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Lokomotiv Moscow
+31, Marinho, BRA, F, 1.76, 62, 29-05-90, Penedo, Santos
+32, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Internazionale
+33, Cleiton, BRA, D, 1.88, 61, 25-04-03, Bahia, None
+34, Matheuzinho, BRA, D, 1.71, 65, 08-09-00, Londrina, Londrina
+35, João Gomes, BRA, M, 1.76, 74, 12-02-01, Rio de Janeiro, None
+37, Petterson, BRA, F, 1.81, 76, 04-01-04, Florianópolis, None
+38, José Welinton, BRA, D, 1.71, 65, 08-01-04, Jardim, Desportivo Brasil
+39, Kayke David, BRA, M, -, -, 22-01-03, -, None
+40, Matheus Gonçalves, BRA, M, 1.75, 70, 18-08-05, Rio de Janeiro, None
+42, Matheus França, BRA, M, 1.78, 67, 01-04-04, Rio de Janeiro, None
+43, Wesley, BRA, D, 1.78, 73, 06-09-03, Maranhão, None
+45, Hugo Souza, BRA, G, 1.96, 94, 31-01-99, Duque de Caxias, None
+46, Mateusão, BRA, F, 1.84, 80, 23-04-04, Três Marias, None
+47, Marcos Paulo, BRA, D, -, -, 18-01-03, -, Nova Iguaçu
+48, Igor Jesus, BRA, M, 1.79, 76, 07-03-03, Goiânia, None
+50, Pedrinho, BRA, M, 1.75, 72, 18-04-03, Rio de Janeiro, None
+51, Diegão, BRA, D, 1.82, 74, 29-07-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Internacional
+44, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Universidad Católica
+18, Andreas Pereira, BRA, M, 1.77, 66, 01-01-96, Duffel, Manchester U
+52, Bruno, BRA, G, -, -, 08-06-02, Pontal, Fortaleza
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Fenerbahçe
+2, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, Fenerbahçe (On Loan)
+11, Vitinho, BRA, F, 1.78, 69, 09-10-93, Rio de Janeiro, Al-Ettifaq
+13, Lázaro, BRA, M, 1.81, 72, 12-03-02, Belo Horizonte, Almería
+19, Everton, BRA, M, 1.74, 72, 22-03-96, Fortaleza, Re-Registered (11)

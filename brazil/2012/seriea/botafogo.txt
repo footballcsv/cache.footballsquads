@@ -1,0 +1,49 @@
+=  Botafogo - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jefferson, BRA, G, 1.87, 82, 02-01-83, São Vicente, Konyaspor
+2, Lucas, BRA, D, 1.73, 67, 26-03-88, Passos, Tombense
+3, Antônio Carlos, BRA, D, 1.84, 84, 22-06-83, Rio de Janeiro, Atlético Paranaense
+4, Fábio Ferreira, BRA, D, 1.88, 82, 04-10-84, Campina Grande, Vitória
+5, Jadson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, None
+6, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Atlético Paranaense
+7, Vítor Júnior, BRA, M, 1.67, 63, 15-09-86, Porto Alegre, Corinthians
+8, Renato, BRA, M, 1.77, 71, 15-05-79, Santa Mercedes, Sevilla
+9, Elkeson, BRA, M, 1.80, 77, 13-07-89, Coelho Neto, Vitória
+10, Clarence Seedorf, NED, M, 1.76, 76, 01-04-76, Paramaribo, Milan
+11, Fellype Gabriel, BRA, M, 1.76, 68, 06-12-85, Rio de Janeiro, Kashima Antlers
+13, Brinner, BRA, D, 1.89, 78, 16-07-87, Lavras, Cianorte
+14, Nicolás Lodeiro, URU, M, 1.70, 69, 18-12-89, Paysandú, Ajax
+15, Lennon, BRA, D, 1.78, 71, 29-12-91, Goiânia, Vila Nova
+16, Rodrigo Dantas, BRA, M, 1.82, 78, 20-10-89, Rio de Janeiro, None
+17, Andrezinho, BRA, M, 1.78, 68, 30-07-83, Campinas, Internacional
+18, Willian, BRA, F, 1.80, 73, 07-12-91, Juiz de Fora, None
+19, Cidinho, BRA, M, 1.69, 57, 28-01-93, Rio de Janeiro, None
+20, Rafael Marques, BRA, M, 1.90, 80, 27-05-83, Araraquara, Omiya Ardija
+21, Dória, BRA, D, 1.88, 82, 08-11-94, São Gonçalo, None
+22, Renan, BRA, G, 1.89, 87, 18-05-89, Rio de Janeiro, None
+23, Vitinho, BRA, F, 1.78, 69, 09-10-93, Rio de Janeiro, None
+24, Jéferson, BRA, M, 1.73, 76, 27-03-92, Piracicaba, None
+25, Lima, BRA, D, 1.78, 72, 10-10-91, Estação, Internacional
+26, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, None
+27, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, None
+28, Amaral, BRA, M, 1.75, 71, 27-11-83, Mogi Mirim, Cruzeiro
+29, Matheus, BRA, D, 1.87, 81, 12-01-91, Goiânia, Goiás
+30, Marcelo Mattos, BRA, M, 1.79, 71, 10-02-84, Indiaporã, Panathinaikos
+31, Vinícius, BRA, D, 1.82, 76, 08-02-92, São Paulo, Benfica
+32, Milton Raphael, BRA, G, 1.87, 80, 11-06-91, Volta Redonda, Volta Redonda
+33, Lucas Zen, BRA, D, 1.83, 74, 17-06-91, Rio de Janeiro, None
+35, Andrey, BRA, G, 1.90, 82, 17-07-93, Rio de Janeiro, None
+36, Gilberto, BRA, D, 1.81, 68, 07-03-93, Rio de Janeiro, None
+37, Dedé, BRA, M, 1.64, 67, 12-01-94, Rio de Janeiro, None
+38, Bruno Mendes, BRA, F, 1.84, 76, 02-08-94, Cruzeiro, Macaé
+39, Cazu, BRA, M, , , 11-04-94, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Jóbson, BRA, F, 1.75, 72, 15-02-88, Conceição do Araguaia, Barueri (On Loan)
+, Sebastián Abreu, URU, F, 1.93, 84, 17-10-76, Minas Lavalleja, Figueirense (On Loan)
+, Maicosuel, BRA, M, 1.78, 59, 16-06-86, Cosmópolis, Udinese
+, Germán Herrera, ARG, F, 1.80, 80, 19-07-83, Santa Fe, Emirates Club
+34, Luis Guilherme, BRA, G, 1.82, 77, 04-06-92, Rio de Janeiro, Bangu (On Loan)

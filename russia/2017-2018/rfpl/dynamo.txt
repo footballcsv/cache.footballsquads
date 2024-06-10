@@ -1,0 +1,40 @@
+=  Dynamo Moscow - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+2, Grigoriy Morozov, RUS, D, 1.83, 74, 06-06-94, Izhevsk, Akademiya Tolyatti
+3, Sebastian Holmén, SWE, D, 1.85, 73, 29-04-92, Borås, IF Elfsborg
+4, Vladimir Rykov, RUS, D, 1.91, 83, 13-11-87, Novosibirsk, Mordovia Saransk
+5, Abdul Aziz Tetteh, GHA, M, 1.88, 76, 25-05-90, Dansoman, Lech Poznań
+7, Yevgeniy Markov, RUS, F, 1.87, 78, 07-07-94, St. Petersburg, FC Tosno
+8, Kirill Panchenko, RUS, M, 1.85, 80, 16-10-89, Stavropol, CSKA Moscow
+10, Aleksandr Zotov, RUS, M, 1.72, 64, 27-08-90, Askiz, Spartak Moscow
+11, Ivan Temnikov, RUS, M, 1.70, 65, 28-01-89, Bratsk, Tom Tomsk
+13, Fedor Černych, LTU, F, 1.82, 75, 21-05-91, Moscow, Jagiellonia Białystok
+15, Ibrahim Tsallagov, RUS, M, 1.77, 71, 12-12-90, Vladikavkaz, Zenit St Petersburg
+17, Anton Terekhov, RUS, M, 1.86, 77, 30-01-98, Surgut, Dynamo Moscow-2
+23, Anton Sosnin, RUS, M, 1.78, 72, 27-01-90, St. Petersburg, Kuban Krasnodar
+25, Aleksey Kozlov, RUS, D, 1.86, 78, 25-12-86, Petrozavodsk, Kuban Krasnodar
+26, Nikita Kalugin, RUS, D, 1.84, 70, 12-03-98, Krasnoe-na-Volge, Dynamo Moscow-2
+27, Samba Sow, MLI, M, 1.85, 75, 29-04-89, Bamako, Kayserispor
+31, Igor Leshchuk, RUS, G, 1.87, 84, 20-02-96, Moscow, Dynamo Moscow-2
+34, Konstantin Rausch, GER, D, 1.78, 67, 15-03-90, Kozhevnikovo, Köln
+44, Toni Šunjić, BIH, D, 1.92, 93, 15-12-88, Mostar, Stuttgart
+48, Evgeniy Lutsenko, RUS, F, 1.86, 72, 25-02-87, Moscow, Mordovia Saransk
+77, Anatoliy Katrich, RUS, M, 1.80, 70, 09-07-94, Primorsko-Akhtarsk, Dynamo Moscow-2
+88, Aleksandr Tashaev, RUS, M, 1.77, 74, 23-06-94, Moscow, Dynamo Moscow-2
+90, Nikolay Obolskiy, RUS, F, 1.86, 82, 14-01-97, Tula, Dynamo Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Aleksey Ionov, RUS, M, 1.77, 68, 18-02-89, Kingisepp, FC Rostov
+12, Dmitriy Belorukov, RUS, D, 1.92, 87, 24-03-83, St. Petersburg, Amkar Perm (On Loan)
+42, Sergey Narubin, RUS, G, 1.95, 87, 05-12-81, Moskovskaya Oblast, 
+21, Fatos Bećiraj, MNE, F, 1.83, 82, 05-05-88, Peć, Mechelen
+13, Sergey Terekhov, RUS, D, 1.80, 74, 27-06-90, Bryansk, FC Orenburg
+14, Wanderson do Carmo, BRA, F, 1.80, 75, 18-02-86, Baturité, Alanyaspor
+6, Khaly Thiam, SEN, M, 1.86, 83, 07-01-94, Dakar, MTK
+96, Maksim Kuzmin, RUS, M, 1.78, 69, 01-06-96, Samara, Fakel Voronezh (On Loan)
+9, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, FC Tosno
+41, Aleksandr Sapeta, RUS, M, 1.79, 73, 28-06-89, Engels, FC Rostov

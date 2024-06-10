@@ -1,0 +1,38 @@
+=  Columbus Crew - USA Major League Soccer 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eloy Room, CUW, G, 1.89, 79, 06-02-89, Nijmegen, PSV Eindhoven
+2, Perry Kitchen, USA, D, 1.83, 73, 29-02-92, Indianapolis, LA Galaxy
+3, Josh Williams, USA, D, 1.88, 87, 18-04-88, Akron, Toronto FC
+4, Jonathan Mensah, GHA, D, 1.88, 75, 13-07-90, Accra, Anzhi Makhachkala
+5, Vito Wormgoor, NED, D, 1.88, 81, 16-11-88, Leersum, Brann
+6, Darlington Nagbe, LBR, M, 1.75, 75, 19-07-90, Monrovia, Atlanta U
+7, Pedro Santos, POR, F, 1.73, 65, 22-04-88, Lisbon, Sporting Braga
+8, Artur, BRA, M, 1.81, 68, 11-03-96, Brumado, São Paulo
+9, Kevin Molino, TRI, M, 1.73, 71, 17-06-90, Carenage, Minnesota U
+10, Lucas Zelarrayán, ARG, M, 1.72, 70, 20-06-92, Córdoba, UANL Tigres
+11, Gyasi Zerdes, USA, F, 1.88, 80, 02-09-91, Hawthorne, LA Galaxy
+12, Luis Díaz, CRC, M, 1.80, 72, 06-12-98, Nicoya, CS Herediano
+13, Eric Dick, USA, G, 1.96, 93, 03-10-94, Roeland Park, Butler Univ
+14, Waylon Francis, CRC, D, 1.75, 73, 20-09-90, Puerto Limón, Seattle Sounders
+16, Isaiah Parente, USA, M, 1.75, 68, 16-03-00, Medina, Wake Forest Univ
+17, Marlon Hairston, USA, M, 1.83, 71, 23-03-94, Jackson, Minnesota U
+18, Liam Fraser, CAN, M, 1.85, 84, 13-02-98, Toronto, Toronto FC
+19, Milton Valenzuela, ARG, D, 1.68, 64, 13-08-98, Rosario, Newell's Old Boys
+20, Alexandru Măţan, ROU, M, 1.68, 61, 29-08-99, Galați, Viitorul Constanța
+21, Aidan Morris, USA, M, 1.78, 72, 16-11-01, Fort Lauderdale, Indiana Univ
+22, Derrick Etienne, HAI, M, 1.78, 73, 25-11-96, Richmond, VA, New York Red Bulls
+23, Grant Lillard, USA, D, 1.93, 89, 05-12-95, Hinsdale, Inter Miami
+24, Evan Bush, USA, G, 1.85, 84, 06-03-86, Concord Township, Vancouver Whitecaps
+25, Harrison Afful, GHA, D, 1.82, 73, 24-06-86, Kumasi, Espérance
+26, Saad Abdul-Salaam, USA, D, 1.93, 84, 08-09-91, Charlotte, FC Cincinnati
+27, Miguel Berry, ESP, F, 1.91, 82, 16-09-97, Barcelona, Univ of San Diego
+30, Aboubacar Keita, USA, D, 1.88, 82, 06-04-00, New York, Univ of Virginia
+31, Steven Moreira, FRA, D, 1.76, 67, 13-08-94, Noisy-le-Grand, Toulouse
+33, Erik Hurtado, USA, F, 1.78, 82, 05-11-90, Fredericksburg, CF Montréal
+99, Bradley Wright-Phillips, ENG, F, 1.73, 70, 12-03-85, Lewisham, Los Angeles FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Matt Lampson, USA, G, 1.91, 87, 06-09-89, Cleveland, Hartford Ath

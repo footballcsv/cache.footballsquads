@@ -1,0 +1,42 @@
+=  Palestino - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, César Rigamonti, ARG, G, 1.86, 78, 07-04-87, San Agustín, Central Córdoba (SdE)
+2, Fernando Meza, ARG, D, 1.76, 64, 21-03-90, San Martín, Necaxa
+3, Benjamín Rojas, CHI, D, 1.79, 80, 01-03-01, Providencia, None
+4, Antonio Ceza, CHI, D, 1.82, 80, 23-11-02, Providencia, None
+5, Agustín Farías, ARG, M, 1.78, 73, 25-12-87, Azul, Nueva Chicago
+6, Nicolás Meza, CHI, M, 1.72, 68, 12-04-02, San Ramón, None
+7, Bryan Carrasco, CHI, F, 1.70, 67, 31-01-91, Santiago, Veracruz
+8, Fernando Cornejo, CHI, M, 1.74, 69, 26-12-95, Rancagua, Audax Italiano
+9, Maximiliano Salas, ARG, F, 1.73, 83, 01-12-97, Curuzú Cuatiá, Necaxa
+10, Misael Dávila, CHI, M, 1.72, 67, 17-07-91, Iquique, Unión Española
+11, Jonathan Benítez, ARG, F, 1.78, 77, 04-09-91, Corrientes, Coquimbo Unido
+12, Ricardo Patiño, CHI, G, 1.90, 79, 16-03-05, -, None
+13, Cristian Suárez, CHI, D, 1.82, 74, 06-02-87, San Felipe, Everton (Viña del Mar)
+15, Hernán Rivero, ARG, F, 1.93, 85, 12-09-92, Santa Fe, River Plate [URU]
+16, José Bizama, CHI, D, 1.81, 72, 25-06-94, Curanilahue, Houston Dynamo
+17, Iván Román, CHI, D, 1.83, 70, 12-07-06, Santiago, None
+19, Brayan Véjar, CHI, M, 1.68, 63, 14-07-95, Talcahuano, Colo-Colo
+20, Benjamín Araneda, CHI, F, 1.74, 80, 22-06-05, -, None
+21, Alan Riquelme, CHI, D, 1.77, 69, 07-12-03, -, None
+22, Felipe Chamorro, CHI, M, 1.84, 75, 30-07-01, Las Condes, None
+23, Ariel Martínez, CHI, M, 1.76, 69, 10-01-94, Melipilla, Unión La Calera
+24, Maicol León, CHI, M, 1.76, 69, 09-06-03, Puento Alto, None
+25, Dilan Salgado, CHI, F, 1.75, 67, 12-07-03, -, None
+26, Dixon Contreras, CHI, G, 1.87, 82, 26-04-02, Santiago, None
+27, Martín Araya, CHI, F, 1.81, 68, 27-09-05, Santiago, None
+28, Dilan Zúñiga, CHI, D, 1.70, 73, 26-07-96, Santiago, Coquimbo Unido
+30, Alejandro Hales, CHI, F, 1.78, 71, 28-03-06, -, None
+31, Benjamín Riquelme, CHI, F, 1.73, 72, 02-01-06, -, None
+32, Matiás Jiménez, CHI, F, 1.77, 64, 07-10-06, -, None
+33, Christian Mansilla, CHI, M, 1.72, 67, 18-03-06, -, None
+34, Vicente Espinoza, CHI, D, 1.75, 78, 14-11-03, -, None
+35, José Palma, CHI, F, 1.77, 74, 19-03-04, -, None
+37, Joe Abrigo, CHI, M, 1.70, 66, 22-03-95, Santiago, Coquimbo Unido
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Gonzalo Collao, CHI, G, 1.91, 93, 09-09-97, Coquimbo, 
+14, Bruno Barticciotto, CHI, F, 1.75, 70, 07-05-01, Vitacura, Talleres (Córdoba)

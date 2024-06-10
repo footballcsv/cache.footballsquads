@@ -1,0 +1,64 @@
+=  Hyde - English Football Conference Premier 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Carnell, ENG, G, , , 18-04-85, , Curzon Ashton
+2, Josh Brizell, ENG, D, 1.78, 78, 15-10-91, Liverpool, Rochdale
+4, Will Haining, SCO, D, 1.83, 65, 02-10-82, Glasgow, Morecambe
+5, Luke Ashworth, ENG, D, 1.88, 80, 04-12-89, Bolton, FC Halifax T
+6, Liam Tomsett, ENG, M, 1.80, 78, 21-01-92, Ulverston, Blackpool
+7, David Poole, ENG, F, 1.73, 70, 12-11-84, Manchester, Droylsden
+8, Alex Brown, ENG, M, 1.73, 67, 28-11-84, , Chester
+9, Scott Spencer, ENG, F, 1.80, 80, 01-01-89, Stockport, Lincoln C
+10, Tom Collins, ENG, F, 1.84, 71, 24-08-92, , Stockport Co
+11, Connor Hughes, ENG, M, 1.80, 81, 06-05-93, Bolton, Oldham Ath
+12, Adam Thurston, ENG, D, 1.82, 79, 13-10-94, Liverpool, Preston NE
+13, Dominic Barrett, ENG, D, , , , , Fleetwood T
+14, Ashley Frith, ENG, G, 1.89, 78, 02-06-94, , Glossop NE
+15, Danny Carlton, ENG, F, 1.80, 78, 22-12-83, Leeds, Morecambe
+16, Darren Thornton, ENG, D, , , 03-11-87, , Clitheroe
+17, Andy Fitzgerald, ENG, D, 1.79, 68, 22-12-93, , None
+18, Jordan Clark, ENG, F, 1.83, 73, 22-09-93, Barnsley, Barnsley
+19, David McNiven, ENG, F, 1.78, 76, 27-05-78, Leeds, Bradford PA
+20, Chris Kettings, SCO, G, 1.88, 78, 25-10-92, Bolton, Blackpool
+21, Adam Blakeman, ENG, D, 1.75, 72, 03-12-91, Widnes, Bolton W
+22, Ben Dennis, ENG, D, 1.80, 74, 19-09-93, Wigan, Bolton W
+23, Jake Pollard, ENG, M, , , , , None
+24, Alex McQuade, ENG, D, 1.85, 70, 07-11-92, Manchester, Shrewsbury T
+25, Chris Whincop, ENG, F, , , 04-01-95, , Doncaster R
+26, Damase Kiwanda, ENG, M, , , 02-10-94, , Boreham Wood
+27, Regan Walker, ENG, F, 1.80, 66, 04-06-96, Manchester, Bury
+28, Tom Manship, ENG, M, 1.73, 72, 27-03-87, , Loughborough Dynamo
+29, Rhys Day, WAL, D, 1.88, 83, 31-08-82, Bridgend, Mansfield T
+30, James Kirby, ENG, F, , , , , None
+31, Alex Weatherby, ENG, D, , , , , None
+32, Jordan Lazenbury, ENG, F, , , , , Fleetwood T
+33, Adam Lawrence, ENG, D, , , , , None
+35, Josh Morrell, ENG, D, , , , , Grimsby T
+36, George Riley, ENG, M, , , , , None
+37, Kristian Cox, ENG, F, , , , , None
+38, Josh Harrison, ENG, F, , , , , None
+39, Lee Gregory, ENG, F, , , , , New Mills
+40, Paul Reddy, ENG, M, , , , , Rhyl
+41, Max Lonsdale, ENG, M, , , 25-11-92, Wilmslow, Macclesfield T
+42, Lee Jones, ENG, M, , , , , None
+43, Lee Wilshaw, ENG, D, , , , , None
+44, Anthony Ottaway, ENG, F, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Christian Thewlis, ENG, G, 1.88, 82, 17-09-94, Huddersfield, Mossley
+20, Tunji Moses, ENG, M, 1.78, 75, 12-09-83, Manchester, 
+20, Mani Dieseruvwe, ENG, F, 1.96, 72, 05-01-94, Leeds, Sheffield W
+24, Nick Liversedge, ENG, G, 1.93, 81, 18-07-88, Hull, Burnley
+26, Reece Gray, ENG, F, 1.70, 55, 01-09-92, Oldham, Rochdale
+27, Glenn Belezika, ENG, D, 1.80, 83, 24-12-94, Camden, Oldham Ath
+3, Adam Griffin, ENG, D, 1.70, 65, 26-08-84, Salford, Altrincham
+32, Derryn Ofori, ENG, F, 1.85, , 27-10-94, , Mossley
+27, JJ O'Donnell, ENG, M, 1.78, 74, 29-10-91, , Luton T
+20, Lawrence Vigouroux, CHI, G, 1.94, 77, 19-11-93, Camden Town, Tottenham H
+18, Louis Almond, ENG, F, 1.80, 76, 15-08-90, Blackburn, Blackpool
+16, Matty Mainwaring, ENG, M, 1.80, 77, 28-03-90, Salford, Chester
+24, D'Arcy O'Connor, ENG, D, 1.80, 78, 21-12-94, Oldham, Rochdale
+25, Martin Devaney, IRL, M, 1.78, 75, 01-06-80, Cheltenham, Worcester C
+3, Kelvin Lomax, ENG, D, 1.80, 78, 12-11-86, Bury, Shepparton U

@@ -1,0 +1,45 @@
+=  Atlético Tucumán - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Lucchetti, ARG, G, 1.82, 69, 26-06-78, Luján de Cuyo, Banfield
+2, Rafael García, URU, M, 1.83, 79, 06-01-89, Maldonado, Nacional [URU]
+3, Nahuel Zárate, ARG, D, 1.80, 73, 27-01-93, Capital Federal, Unión (Santa Fe)
+4, Nicolás Romat, ARG, D, 1.81, 82, 06-05-88, Azul, Huracán
+5, Gonzalo Freitas, URU, M, 1.86, 78, 02-10-91, Montevideo, Liverpool [URU]
+6, Franco Sbuttoni, ARG, D, 1.95, 84, 06-05-89, Villa Constitución, Sagan Tosu
+7, Luis Rodríguez, ARG, F, 1.68, 71, 01-01-85, San Miguel de Tucumán, Aldosivi (Mar del Plata)
+8, Guillermo Acosta, ARG, M, 1.68, 73, 31-10-88, San Miguel de Tucumán, San Jorge (Tucumán)
+9, Mauricio Affonso, URU, F, 1.92, 75, 26-01-92, Melo, Peñarol
+10, Gervasio Núñez, ARG, M, 1.78, 74, 29-01-88, Formosa, Sarmiento (Junín)
+11, Favio Álvarez, ARG, F, 1.84, 70, 23-01-93, Córdoba, Sarmiento (Junín)
+12, Javier Toledo, ARG, F, 1.90, 82, 20-04-86, Marcos Juárez, Sol de América
+13, Franco Pizzicanella, ARG, G, 1.83, 84, 29-05-96, San Miguel de Tucumán, None
+14, Mauro Osores, ARG, D, 1.90, 81, 20-02-97, San Pablo, None
+15, Gastón Iturrieta, ARG, D, 1.79, 75, 25-05-85, Capital Federal, San Jorge (Tucumán)
+16, Hernán Hechalar, ARG, F, 1.73, 73, 12-08-88, Córdoba, Independiente Medellín
+17, Alejandro Sánchez, ARG, G, 1.89, 86, 25-10-86, Capital Federal, Nueva Chicago
+18, Ismael Blanco, ARG, F, 1.79, 75, 19-01-83, Santa Elena, Colón (Santa Fe)
+19, David Barbona, ARG, M, 1.84, 81, 22-02-95, Capital Federal, Estudiantes (LP)
+20, Dardo Miloc, ARG, M, 1.77, 76, 16-10-90, La Plata, Gimnasia y Esgrima (LP)
+21, Jorge Emanuel Molina, ARG, M, 1.82, 77, 04-03-87, Córdoba, Deportivo Pasto
+22, Alejandro Melo, ARG, M, 1.78, 71, 11-01-96, San Justo, San Lorenzo
+23, Alejandro Montiel, ARG, D, 1.79, 71, 24-08-93, Formosa, None
+24, Augusto Batalla, ARG, G, 1.85, 79, 30-04-96, Florencio Varela, River Plate
+25, David Valdez, ARG, M, 1.74, 72, 06-04-93, San Miguel de Tucumán, Textil Mandiyú
+26, Matías Ballini, ARG, M, 1.73, 75, 19-12-88, Campana, Colón (Santa Fe)
+27, Leandro Díaz, ARG, F, 1.82, 79, 06-06-92, San Miguel de Tucumán, Veracruz
+28, Tomás Cuello, ARG, M, 1.78, 64, 05-03-00, San Miguel de Tucumán, None
+29, Rodrigo Aliendro, ARG, M, 1.77, 68, 16-02-91, Capital Federal, Chacarita Juniors
+30, Jonás Romero, ARG, F, 1.70, 65, 21-08-00, San Miguel de Tucumán, None
+31, Yonathan Cabral, ARG, D, 1.88, 84, 10-05-92, Isidro Casanova, Racing Club
+32, Francisco Grahl, ARG, M, 1.70, 68, 05-03-92, San Justo, Almirante Brown
+33, Gabriel Risso, ARG, D, 1.79, 71, 05-11-95, Monteros, None
+35, Cristian Villagra, ARG, D, 1.72, 72, 27-12-85, Morteros, Rosario Central
+38, Nery Leyes, ARG, M, 1.79, 78, 25-01-89, Ushuaia, Defensa y Justicia
+39, Andrés Lamas, URU, D, 1.87, 82, 16-01-84, Montevideo, Defensor Sporting
+40, Ramiro Ruiz Rodríguez, ARG, F, 1.85, 75, 21-03-00, Monteros, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Matías Cóccaro, URU, F, 1.80, 70, 15-11-97, Pirarajá, Rampla Juniors

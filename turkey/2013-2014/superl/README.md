@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2013/14
+
+18 teams
+- [Akhisar Belediyespor](akhisar.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Elazığspor](elazig.txt)
+- [Erciyesspor](erciyes.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Karabükspor](karabuk.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Rizespor](rizespor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

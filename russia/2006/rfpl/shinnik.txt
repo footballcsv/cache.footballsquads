@@ -1,0 +1,57 @@
+=  Shinnik - Russian Football Premier League 2006
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Evgeniy Safonov, G, 6'06", 15 02, 06-07-77, Tashkent, Samarkand
+2, Sergei Omelyanchuk, D, 5'09", 11 00, 08-08-80, Minsk, Lokomotiv Moscow
+3, Aleksandr Radosavljević, M, 6'00", 12 01, 25-04-79, Ljubljana, Mura
+4, Zurab Menteshashvili, M, 5'09", 11 11, 30-01-80, , Skonto
+5, Adrian Gheorghe Iordache, D, 6'02", 12 08, 12-09-80, Bucharest, Dinamo II Bucureşti
+6, Darijan Matić, D, 5'09", 12 04, 28-05-83, , Domžale
+7, Igor Budisa, D, 6'02", 12 11, 23-09-77, Zagreb, Eintracht Trier
+9, Andrejs Rubīns, M, 5'09", 11 00, 26-11-78, Riga, Spartak Moscow
+10, Viktor Myagkov, M, 5'06", 09 11, 02-02-85, Yaroslavl, Shinnik B
+11, Leilton Silva, D, 6'00", 11 05, 07-03-82, Salvador, Krylia Sovetov
+13, Egia Yavruyan, F, 5'11", 12 08, 18-10-81, Sochi, Sopron
+14, Andrey Konovalov, M, 5'11", 11 09, 13-09-74, Chelyubinsk, Rubin Kazan
+15, Aleksandr Amisulashvili, D, 6'02", 13 08, 20-08-82, Tbilisi, Dnipro Dnipropetrovsk
+16, Anton Khazov, F, 6'01", 12 06, 28-04-79, N.Novgorod, Dynamo Moscow
+17, Miha Kline, M, 5'09", 11 03, 26-03-80, , Domžale
+18, Sergey Chernogaev, D, 5'08", 09 06, 20-03-83, Moscow, Torpedo Moscow
+19, Yuriy Mamaev, M, 5'09", 11 05, 03-02-84, Moscow, Stuttgart II
+20, Anatoliy Romanovich, D, 6'00", 12 04, 09-09-79, Nalchik, Spartak Nalchik
+21, Artem Zasyadvovk, M, 5'09", 11 00, 20-05-83, Yaroslavl, Shinnik B
+22, Aleksandr Shirko, F, 5'10", 10 12, 24-11-76, Moscow, Terek
+23, Martin Horák, D, 6'02", 12 08, 16-09-80, Prague, FC Rostov
+27, Marek Bakoš, M, 6'00", 11 07, 15-04-83, Púchov, Matador Púchov
+28, Albert Borzenkov, D, 6'01", 12 04, 03-01-73, Kursk, Tom
+30, Illya Blyznyuk, G, 6'04", 13 08, 28-07-73, Zaporozhye, Kryvbas Kryvyi Rih
+31, Aleksandr Malyshev, G, 6'03", 13 12, 08-01-80, Yaroslavl, Ural Ekaterinburg
+32, Jaroslav Kharitonskiy, M, 5'11", 11 07, 12-03-85, Yaroslavl, Shinnik B
+33, Ilya Tkachev, D, 5'10", 11 09, 10-06-82, Yaroslavl, Shinnik B
+34, Yuriy Volos, F, 5'11", 11 07, 02-07-86, Yaroslavl, Shinnik B
+35, Aleksandr Parshin, F, 5'09", 11 07, 15-01-86, Yaroslavl, Shinnik B
+36, Evgeniy Khomenko, F, 5'09", 11 00, 05-01-85, Yaroslavl, Shinnik B
+37, Sergey Pesyakov, G, 6'04", 12 08, 16-12-88, Yaroslavl, Shinnik B
+38, Dmitriy Zinovich, M, 6'03", 12 08, 19-05-89, Yaroslavl, Shinnik B
+39, Nikolay Kabaev, M, 5'07", 10 01, 15-02-89, Yaroslavl, Shinnik B
+40, Alexey Abramov, M, 5'09", 11 03, 15-01-88, Yaroslavl, Shinnik B
+41, Alexey Gribkov, M, 5'09", 11 05, 02-02-87, Yaroslavl, Shinnik B
+42, Sergey Popov, D, 5'10", 11 00, 22-02-87, Yaroslavl, Shinnik B
+44, Mikhail Sovetlyanov, M, 6'00", 12 00, 03-06-87, Yaroslavl, Shinnik B
+45, Leonid Koshelev, M, 5'10", 11 11, 20-12-79, Tashkent, Pakhtakor
+46, Ivan Shpakov, F, 5'09", 11 05, 08-06-86, Samara, Krylia Sovetov
+50, Andrey Ushakov, G, 6'02", 12 08, 29-03-87, Yaroslavl, Shinnik B
+57, Yuriy Morozov, D, 6'01", 11 05, 23-10-85, Yaroslavl, Shinnik B
+77, Zoran Kostić, M, 6'00", 12 04, 14-11-82, Čačak, Borac Čačak
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Gennadiy Nizhegorodov, D, 5'11", 12 01, 07-06-77, Astrahan, Chernomorets Odessa
+8, Mario Jurić, M, 5'10", 11 09, 07-08-76, Zagreb, Spartak Nalchik
+11, Sergey Pravosud, F, 6'01", 11 09, 18-02-86, Moscow, Sodovik
+15, Oleg Kornaukhov, D, 6'00", 12 01, 14-01-75, Moscow, Terek
+25, Yuriy Dmitrulin, D, 5'09", 11 03, 10-02-75, Snigirevka, Dynamo Kiev
+28, Alexey Nikolaev, D, 6'00", 11 09, 05-09-79, Tashkent, Pakhtakor
+55, Sergey Terekhov, M, 5'09", 11 00, 18-04-75, Tallinn, FC Honka
+56, Emzar Rozomashvili, M, 5'10", 11 09, 11-07-85, Yaroslavl, FC Elets

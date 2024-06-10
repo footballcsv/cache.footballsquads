@@ -1,0 +1,41 @@
+=  TSV 1860 Munich - German 2.Bundesliga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabor Király, HUN, G, 1.91, 85, 01-04-76, Szombathely, Burnley
+2, Moritz Volz, GER, D, 1.78, 78, 21-01-83, Siegen, St Pauli
+3, Grzegorz Wojtkowiak, POL, D, 1.84, 76, 26-01-84, Kostrzyn nad Odrą, Lech Poznań
+4, Kai Bülow, GER, D, 1.88, 77, 31-05-86, Rostock, Hansa Rostock
+5, Guillermo Vallori, ESP, D, 1.91, 84, 24-06-82, Palma de Mallorca, Grasshoppers
+6, Dominik Stahl, GER, M, 1.82, 79, 20-08-88, Hardheim, 1899 Hoffenheim
+7, Daniel Bierofka, GER, M, 1.78, 75, 07-02-79, Munich, Stuttgart
+8, Maximilian Nicu, GER, M, 1.87, 74, 25-11-82, Prien am Chiemsee, Freiburg
+9, Rob Friend, CAN, F, 1.95, 94, 23-01-81, Rosetown, Eintracht Frankfurt
+10, Moritz Stoppelkamp, GER, M, 1.80, 75, 11-12-86, Duisburg, Hannover 96
+11, Benjamin Lauth, GER, F, 1.79, 74, 04-08-81, Hausham, Hannover 96
+13, Necat Aygün, TUR, D, 1.92, 85, 26-02-80, Munich, Sandhausen
+14, Marin Tomasov, CRO, M, 1.81, 71, 31-08-87, Zadar, Hajduk Split
+15, Malik Fathi, GER, D, 1.85, 85, 29-10-83, Berlin, Mainz
+16, Daniel Jais, GER, F, 1.84, 78, 24-02-92, Landsberg, None
+17, Liridon Vocaj, GER, M, 1.78, 72, 01-10-93, Peć, None
+18, Ola Kamara, NOR, M, 1.84, 75, 15-10-89, Oslo, Ried
+19, Sebastian Maier, GER, M, 1.76, 64, 18-09-93, Landshut, None
+20, Stefan Wannenwetsch, GER, M, 1.77, 70, 19-01-92, Langenau, Ulm
+21, Grigoris Makos, GRE, M, 1.83, 74, 18-01-87, Athens, AEK
+22, Michael Netolitzky, GER, G, 1.91, 82, 12-01-94, Bayreuth, Nürnberg
+23, Bobby Wood, USA, F, 1.80, 76, 15-11-92, Honolulu, Irvine Strikers
+24, Chris Wolf, GER, D, 1.83, 71, 23-02-91, , Bayreuth
+25, Andreas Geipl, GER, M, 1.80, 76, 21-04-92, Garmisch-Partenkirchen, None
+26, Christopher Schindler, GER, D, 1.88, 77, 29-04-90, Munich, None
+27, Arne Feick, GER, M, 1.81, 75, 01-04-88, Berlin, Arminia Bielefeld
+28, Daniel Halfar, GER, F, 1.73, 64, 07-01-88, Mannheim, Arminia Bielefeld
+29, Markus Ziereis, GER, F, 1.85, 73, 26-08-92, Roding, None
+30, Vitus Eicher, GER, G, 1.90, 80, 05-11-90, Erding, None
+31, Kodjovi Koussou, TOG, M, 1.69, 61, 22-06-92, Lomé, None
+33, Korbinian Vollmann, GER, F, 1.79, 67, 27-10-93, Munich, None
+36, Philipp Steinhart, GER, D, 1.82, 70, 07-07-92, Dachau, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Ismael Blanco, ARG, F, 1.79, 75, 19-01-83, Santa Elena, Lanús
+22, Timo Ochs, GER, G, 1.88, 86, 17-10-81, Göttingen, Jahn Regensburg

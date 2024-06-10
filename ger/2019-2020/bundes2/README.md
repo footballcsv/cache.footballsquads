@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2019/2020
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [VfL Bochum](bochum.txt)
+- [SV Darmstadt 98](darmstadt.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [Holstein Kiel](holskiel.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [VfL Osnabrück](osna.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [SV Wehen Wiesbaden](wehen.txt)

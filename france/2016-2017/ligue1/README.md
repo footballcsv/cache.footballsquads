@@ -1,0 +1,23 @@
+# French Ligue 1 2016/17
+
+20 teams
+- [Angers](angers.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Dijon](dijon.txt)
+- [Guingamp](guinga.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nancy](nancy.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Toulouse](toulouse.txt)

@@ -1,0 +1,54 @@
+=  Vitesse - Dutch Eredivisie 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matej Delač, CRO, G, 1.90, 80, 20-08-92, Gornji Vakuf, Chelsea
+4, Jordi López, ESP, M, 1.82, 77, 28-02-81, Granollers, Swansea C
+6, Frank van der Struijk, NED, D, 1.83, 69, 28-03-85, Boxtel, Willem II
+7, Ismail Aissati, NED, M, 1.69, 70, 16-08-88, Utrecht, Ajax
+8, Rogier Molhoek, NED, M, 1.82, 80, 22-07-81, Oud-Beijerland, AZ Alkmaar
+9, Wilfried Bony, CIV, F, 1.82, 80, 10-12-88, Bingerville, Sparta Prague
+10, Dalibor Stevanovič, SVN, M, 1.83, 75, 27-09-84, Ljubljana, Maccabi Petah Tikva
+11, Sinan Kaloğlu, TUR, F, 1.87, 81, 10-06-81, Ovacik, Bochum
+13, Nemanja Matić, SRB, M, 1.94, 82, 01-08-88, Šabac, Chelsea
+14, Haruna Babangida, NGA, F, 1.66, 66, 01-10-82, Kaduna, Mainz
+15, Marco van Ginkel, NED, M, 1.80, 67, 01-12-92, Amersfoort, None
+16, Michihiro Yasuda, JPN, M, 1.73, 65, 20-12-87, Osaka, Gamba Osaka
+17, Genaro Snijders, NED, F, 1.76, 69, 29-07-89, Amsterdam, AZ Alkmaar
+18, Guram Kashia, GEO, D, 1.86, 78, 04-07-87, Tbilisi, Dinamo Tbilisi
+19, Marcus Pedersen, NOR, F, 1.80, 79, 08-06-90, Hamar, Strømsgodset
+20, Martí Riverola, ESP, M, 1.81, 74, 26-01-91, Barcelona, Barcelona
+21, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, Internazionale
+22, Alexander Büttner, NED, D, 1.76, 72, 11-02-89, Doetinchem, Ajax
+23, Slobodan Rajković, SRB, D, 1.95, 85, 03-02-89, Belgrade, Chelsea
+24, Davy Pröpper, NED, M, 1.85, 72, 02-09-91, Arnhem, None
+25, Gino Felixdaal, NED, M, 1.86, 83, 05-01-90, Amsterdam, None
+28, Sebastiaan van der Sman, NED, G, 1.88, 86, 23-07-88, Arnhem, ESA
+29, Eloy Room, NED, G, 1.89, 79, 06-02-89, Nijmegen, Union
+30, Hayri Pinarci, NED, M, 1.80, 72, 10-10-91, Boğazlıyan, Sparta Nijkerk
+31, Just Berends, NED, D, 1.84, 74, 24-04-92, Vaassen, None
+32, Çağrı Kodalak, NED, M, , , 12-01-91, Den Haag, Feyenoord
+33, Raynick Damasco, NED, D, , , 07-03-91, Amsterdam, None
+34, Mourad Bessink, NED, F, , , , , Arnhemse Boys
+35, Oktay Özturk, NED, M, , , , , Quick 1888
+36, Qendrim Gashi, NED, F, 1.78, 67, 03-01-91, , Ajax
+37, Ted Heijckmann, NED, F, 1.81, 73, 24-11-91, Arnhem, None
+38, Barry Beijer, NED, M, , , 06-12-89, Duiven, DVV
+39, Patrick ter Mate, NED, G, 1.85, 80, 17-02-92, Voorst, AGOVV Apeldoorn
+41, Burak Tekay, TUR, M, , , 27-04-90, Apeldoorn, None
+42, Michalis Vakalopoulos, GRE, D, 1.75, 70, 26-06-90, Leiderdorp, PSV Eindhoven
+43, Adnane Tighadouini, NED, M, 1.79, 76, 30-10-92, Ede, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Piet Velthuizen, NED, G, 1.89, 88, 03-11-86, Nijmegen, Hércules
+23, Jop van der Linden, NED, D, 1.88, 74, 17-07-90, Apeldoorn, Helmond Sport
+16, Laryea Kingston, GHA, M, 1.72, 69, 07-11-80, Accra, 
+3, Kevin van Diermen, NED, D, 1.86, 81, 03-07-89, Spakenburg, Go Ahead Eagles (On Loan)
+26, Wiljan Pluim, NED, F, 1.90, 85, 04-01-89, Zwolle, Roda JC (On Loan)
+4, Civard Sprockel, NED, D, 1.82, 85, 10-05-83, Willemstad, Anorthosis Famagusta
+40, Roy de Ruiter, NED, F, 1.88, 71, 19-08-89, Wageningen, AGOVV Apeldoorn (On Loan)
+5, Jeroen Drost, NED, D, 1.83, 78, 21-01-87, Kampen, FC Zwolle (On Loan)
+9, Lasse Nilsson, SWE, F, 1.80, 70, 03-01-82, Borlänge, IF Elfsborg
+27, Julian Jenner, NED, F, 1.87, 73, 28-02-84, Delft, NAC Breda (On Loan)
+90, Nacer Barazite, NED, M, 1.88, 83, 27-05-90, Arnhem, Arsenal

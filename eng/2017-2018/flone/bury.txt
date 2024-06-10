@@ -1,0 +1,55 @@
+=  Bury - English Football League One 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Murphy, IRL, G, 1.88, 80, 25-09-80, Dublin, Huddersfield T
+2, Craig Jones, WAL, D, 1.70, 70, 20-03-87, Chester, TNS
+3, Greg Leigh, ENG, D, 1.81, 73, 30-09-94, Manchester, Bradford C
+4, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Rochdale
+5, Adam Thompson, NIR, D, 1.85, 74, 28-09-92, Harlow, Southend U
+6, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Celtic
+7, Chris Maguire, SCO, F, 1.70, 66, 16-01-89, Bellshill, Oxford U
+8, Stephen Dawson, IRL, M, 1.68, 71, 04-12-85, Dublin, Scunthorpe U
+9, Jermaine Beckford, JAM, F, 1.88, 83, 09-12-83, Ealing, Preston NE
+10, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Sheffield W
+12, Connor Ripley, ENG, G, 1.80, 76, 13-02-93, Middlesbrough, Middlesbrough
+14, Phil Edwards, ENG, D, 1.73, 71, 08-11-85, Kirkby, Burton Alb
+16, Zeli Ismail, ENG, M, 1.73, 75, 12-12-93, Kukës, Wolverhampton W
+18, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Wigan Ath
+19, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, Middlesbrough
+22, Chris Sang, ENG, F, , , 29-06-99, Liverpool, Wigan Ath
+23, Joe Skarz, ENG, D, 1.83, 74, 13-07-89, Huddersfield, Oxford U
+24, Callum Styles, ENG, M, 1.67, 60, 27-03-00, Oldham, None
+25, Tsun Dai, HKG, M, 1.75, 75, 25-07-99, Hong Kong, None
+26, Jay O'Shea, IRL, M, 1.83, 70, 10-08-88, Dún Laoghaire, Chesterfield
+27, Nathan Cameron, ENG, D, 1.88, 78, 21-11-91, Birmingham, Coventry C
+28, Ryan Cooney, ENG, M, 1.79, 77, 26-02-00, Manchester, None
+30, Rohan Ince, ENG, M, 1.91, 80, 08-11-92, Whitechapel, Brighton & HA
+31, Neil Danns, ENG, M, 1.75, 78, 23-11-82, Liverpool, Bolton W
+32, James Hanson, ENG, F, 1.93, 78, 09-11-87, Bradford, Sheffield U
+33, Harry Bunn, ENG, F, 1.75, 75, 21-11-92, Oldham, Huddersfield T
+36, Peter Clarke, ENG, D, 1.83, 76, 03-01-82, Southport, Oldham Ath
+37, Dougie Nyaupembe, ZIM, D, 1.72, 68, 02-10-99, , None
+39, Ryan Lowe, ENG, F, 1.80, 72, 18-09-78, Liverpool, Crewe Alex
+40, Joe Adams, WAL, M, 1.76, 62, 13-02-01, Bolton, None
+41, Mark Edwards-Williams, ENG, G, 1.87, 75, 23-11-00, , None
+42, Scott Moloney, ENG, G, 1.91, 70, 15-04-00, Ashton-under-Lyne, None
+43, Saul Shotton, ENG, D, 1.84, 75, 10-11-00, Stoke-on-Trent, None
+44, Cameron Hill, ENG, M, 1.77, 70, 08-10-00, , None
+45, Rob Harker, ENG, F, 1.88, 78, 06-03-00, Keighley, None
+46, Callum Hulme, ENG, M, 1.70, 65, 10-11-00, Manchester, Manchester C
+48, Jack Hatton, ENG, D, 1.76, 70, 27-11-00, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Alex Bruce, NIR, D, 1.80, 73, 28-09-84, Norwich, Wigan Ath
+12, Jordan Williams, ENG, D, 1.79, 75, 22-10-99, Huddersfield, Huddersfield T
+19, Tom Heardman, ENG, F, 1.93, 80, 12-09-95, Gosforth, Newcastle U
+20, Alex Whitmore, ENG, D, 1.80, 68, 07-09-95, Newcastle upon Tyne, Burnley
+21, Alex Dobre, ROU, M, 1.78, 71, 30-08-98, Bucharest, Bournemouth
+29, Michael Smith, ENG, F, 1.93, 86, 17-10-91, Wallsend, Rotherham U
+17, Chris Humphrey, JAM, M, 1.80, 73, 04-03-89, St Catherine, Barrow (On Loan)
+15, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Motherwell (On Loan)
+13, Callum Reilly, IRL, M, 1.85, 76, 03-10-93, Warrington, Gillingham (On Loan)
+11, Nicky Ajose, ENG, F, 1.80, 78, 07-10-91, Bury, Charlton Ath
+38, Leonardo Fasan, ITA, G, 1.88, 82, 04-01-94, San Vito al Tagliamento, Kilmarnock

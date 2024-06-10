@@ -1,0 +1,48 @@
+=  Bahia - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Internacional
+2, Gilberto, BRA, D, 1.79, 68, 07-03-93, Rio de Janeiro, Benfica
+3, Gabriel Xavier, BRA, D, 1.90, 85, 06-05-00, Andradina, Mirassol
+4, Kanu, BRA, D, 1.86, 74, 07-03-97, Duque de Caxias, Botafogo
+5, Rezende, BRA, M, 1.86, 85, 02-01-95, Duque de Caxias, Azuriz
+7, Ademir, BRA, F, 1.72, 65, 16-02-95, São Paulo, Atlético Mineiro
+8, Cauly Souza, BRA, M, 1.75, 68, 15-09-95, Porto Seguro, Ludogorets Razgrad
+9, Everaldo, BRA, F, 1.81, 80, 05-07-91, Garibaldi, Kashima Antlers
+10, Biel, BRA, F, 1.70, 62, 01-04-01, Maracanaú, Fluminense
+11, Rafael Ratão, BRA, F, 1.79, 79, 30-11-95, Ponte Preta, Toulouse
+12, Tiago Gomes, BRA, G, 1.94, 89, 20-01-03, Salvador, Athletico Paranaense
+13, André, BRA, D, 1.78, 63, 07-10-03, Vera Cruz, None
+16, Thaciano, BRA, M, 1.82, 73, 12-05-95, Campina Grande, Grêmio
+17, Diego Rosa, BRA, M, 1.85, 78, 12-10-02, Salvador, Manchester C
+18, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Athletico Paranaense
+19, Lucas Mugni, ARG, M, 1.81, 76, 12-01-92, Santa Fe, Gençlerbirliği
+20, Yago Felipe, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, Fluminense
+21, Vinicius Mingotti, BRA, F, 1.82, 76, 07-01-00, São Carlos, Athletico Paranaense
+22, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, Fluminense
+23, Patrick Verhon, BRA, M, 1.73, 71, 09-08-04, Serra, None
+26, Nicolás Acevedo, URU, M, 1.73, 73, 14-04-99, Montevideo, New York C
+27, Caio Roque, BRA, D, 1.82, 71, 09-01-02, São Paulo, Lommel
+29, Vítor Jacaré, BRA, F, 1.67, 69, 24-10-99, Caririaçu, Ceará
+31, Vitor Hugo, BRA, D, 1.87, 80, 20-05-91, Guaraci, Trabzonspor
+33, David Duarte, BRA, D, 1.92, 84, 24-01-95, Rio Grande do Sul, Fluminense
+34, Raul Gustavo, BRA, D, 1.90, 78, 24-04-99, Minas Gerais, Corinthians
+35, Adriel, BRA, G, 1.95, 81, 14-01-01, Ilheus, Grêmio
+37, Kayky, BRA, F, 1.75, 68, 11-06-03, Rio de Janeiro, Manchester C
+38, Camilo Cándido, URU, D, 1.74, 65, 02-06-95, Montevideo, Nacional [URU]
+40, Cicinho, BUL, D, 1.68, 60, 25-04-88, Belém, Ludogorets Razgrad
+44, Marcos Victor, BRA, D, 1.84, 70, 26-12-01, Fortaleza, Ceará
+46, Luciano Juba, BRA, D, 1.76, 70, 29-08-99, Serra Talhada, Sport Recife
+66, Ryan, BRA, D, 1.72, 70, 14-05-02, Diadema, Ponte Preta
+71, Kennedy, BRA, F, 1.69, 62, 08-07-04, Manaus, Fluminense
+77, Mateus Claus, BRA, G, 1.93, 95, 03-08-94, Campo Bom, Pelotas
+79, Matheus Bahia, BRA, D, 1.81, 75, 11-08-99, Salvador, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, Fluminense
+11, Biel, BRA, F, 1.70, 62, 01-04-01, Maracanaú, Re-Registered (10)
+6, Jhoanner Chávez, ECU, D, 1.82, 77, 25-04-02, Puerto Francisco de Orellana, Independiente del Valle (On Loan)
+14, Arthur Sales, BRA, F, 1.84, 74, 03-07-02, São Gabriel da Palha, Lommel
+18, Everton, BRA, F, 1.84, 73, 12-05-02, Uberaba, Londrina (On Loan)

@@ -1,0 +1,47 @@
+=  Dynamo Kyiv - Ukrainian Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Heorhiy Bushchan, UKR, G, 1.96, 84, 31-05-94, Odessa, Dynamo Kyiv-2
+4, Aleksandar Pantić, SRB, D, 1.84, 77, 11-04-92, Arandjelovac, Villarreal
+5, Vitorino Antunes, POR, D, 1.75, 69, 01-04-87, Freamunde, Málaga
+8, Volodymyr Shepelyev, UKR, M, 1.84, 73, 01-06-97, Altestovo, Chornomorets Odessa-2
+9, Mykola Morozyuk, UKR, M, 1.76, 70, 17-01-88, Lviv, Metalurh Donetsk
+10, Andriy Yarmolenko, UKR, F, 1.87, 76, 23-10-89, Kyiv, Desna Chernihiv
+14, Zurab Ochihava, UKR, D, 1.86, 74, 18-05-95, Kyiv, Illichivets Mariupol
+15, Viktor Tsyhankov, UKR, M, 1.77, 69, 15-11-97, Nahariya, Dynamo Kyiv-2
+16, Serhiy Sydorchuk, UKR, M, 1.88, 76, 02-05-91, Zaporizhya, Metalurh Zaporizhya
+17, Serhiy Rybalka, UKR, M, 1.80, 74, 01-04-90, Yamne, Arsenal Kharkiv
+18, Nikita Korzun, BLR, M, 1.74, 68, 06-02-95, Minsk, Dinamo Minsk
+19, Denys Harmash, UKR, M, 1.86, 75, 19-04-90, Luhansk, Dynamo Kyiv-2
+20, Roman Yaremchuk, UKR, F, 1.92, 69, 27-11-95, Lviv, Dynamo Kyiv-2
+24, Domagoj Vida, CRO, D, 1.82, 70, 29-04-89, Osijek, Dinamo Zagreb
+25, Derlis González, PAR, F, 1.72, 64, 23-03-94, Mariano Roque Alonso, Basel
+26, Mykyta Burda, UKR, D, 1.87, 80, 24-03-95, Yenakiieve, Dynamo Kyiv-2
+29, Vitaliy Buyalskyy, UKR, M, 1.70, 61, 06-01-93, Kalinovka, Dynamo Kyiv-2
+32, Valeriy Fedorchuk, UKR, M, 1.78, 68, 05-10-88, Netishyn, Dnipro Dnipropetrovsk
+33, Volodymyr Makhankov, UKR, G, 1.92, 83, 29-10-97, Slavutych, Dynamo Kyiv-2
+34, Yevhen Khacheridi, UKR, D, 1.97, 80, 28-07-87, Melitopol, Dynamo Kyiv-2
+35, Maksym Koval, UKR, G, 1.84, 70, 09-12-92, Zaporizhya, Metalurh Zaporizhya
+40, Oleksandr Tymchyk, UKR, D, 1.80, 67, 20-01-97, Kryklyvets, Dynamo Kyiv-2
+41, Artem Byesyedin, UKR, F, 1.85, 76, 31-03-96, Kharkiv, Dynamo Kyiv-2
+42, Pavlo Lukyanchuk, UKR, D, 1.78, 65, 19-05-96, Zaporizhya, Dynamo Kyiv-2
+44, Tamás Kádár, HUN, D, 1.88, 74, 14-03-90, Veszprém, Lech Poznań
+48, Pavlo Orikhovskyy, UKR, M, 1.81, 68, 13-05-96, Chervonoarmiisk, Dynamo Kyiv-2
+72, Artur Rudko, UKR, G, 1.96, 85, 07-05-92, Kyiv, Dynamo Kyiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+91, Łukasz Teodorczyk, POL, F, 1.85, 78, 03-06-91, Żuromin, Anderlecht (On Loan)
+6, Aleksandar Dragović, AUT, D, 1.84, 76, 06-03-91, Vienna, Bayer Leverkusen
+22, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Granada (On Loan)
+1, Oleksandr Shovkovskiy, UKR, G, 1.91, 87, 02-01-75, Kyiv, Retired
+20, Oleh Husyev, UKR, M, 1.79, 74, 25-04-83, Sumy, 
+27, Yevhen Makarenko, UKR, D, 1.82, 73, 21-05-91, Kyiv, 
+33, Yevhen Selin, UKR, D, 1.85, 75, 09-05-88, Novoaydar, Asteras Tripolis
+23, Oleksandr Rybka, UKR, G, 1.93, 92, 10-04-87, Kyiv, Karabükspor
+88, Serhiy Myakushko, UKR, M, 1.70, 70, 15-04-93, Kyiv, Vorskla Poltava (On Loan)
+11, Moraes, BRA, F, 1.76, 70, 04-04-87, Santos, Tianjin Quanjian (On Loan)
+7, Oleksandr Hladkyy, UKR, F, 1.88, 80, 24-08-87, Kharkiv, Karpaty Lviv (On Loan)
+77, Artem Hromov, UKR, M, 1.78, 72, 14-01-90, Stryi, Krylia Sovetov
+2, Danilo Silva, BRA, D, 1.85, 69, 24-11-86, Campinas, Internacional

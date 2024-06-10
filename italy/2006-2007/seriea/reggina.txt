@@ -1,0 +1,50 @@
+=  Reggina - Italian Serie A 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Riccardo Nardini, M, 6'01", 12 04, 27-06-83, Pavullo nel Frigniano, Catania
+4, Antonio Giosa, D, 6'00", 11 05, 21-08-83, Potenza, None
+5, Palmiro Di Dio, D, 6'01", 12 11, 06-07-85, Benevento, Ternana
+6, Salvatore Aronica, D, 5'11", 12 01, 20-01-78, Palermo, Messina
+7, Ricardo Esteves, D, 5'08'', 11 00, 16-09-79, Lisbon, Reggina
+8, Luca Tognazzi, M, 6'00", 11 09, 03-10-77, Florence, Pescara
+9, Rolando Bianchi, F, 5'10", 10 10, 15-02-83, Albano S. Alessandro, Atalanta
+10, Pasquale Foggia, F, 5'04", 11 00, 03-06-83, Naples, Lazio
+12, Pietro Marino, G, 6'07", 13 05, 24-11-86, Reggio Calabria, None
+13, Alessandro Lucarelli, D, 6'00", 12 04, 22-07-77, Livorno, Livorno
+14, Alessandro Gazzi, M, 5'11", 10 03, 28-01-83, Feltre, Bari
+15, Antonino Barilla', M, , , 01-04-88, Reggio Calabria, None
+16, Daniele Amerini, M, 5'11", 11 05, 03-08-74, Florence, Modena
+17, Nicola Amoruso, F, 6'01", 12 00, 29-08-74, San Giovanni Rotondo, Messina
+18, Nicki Bille Nielsen, M, , , 07-02-88, , Frem
+19, Giacomo Tedesco, M, 5'09", 11 02, 01-02-76, Palermo, Salernitana
+20, Giandomenico Mesto, M, 5'10", 11 03, 25-05-82, Modugno, Fermana
+22, Nenad Novaković, G, 6'04", 13 10, 14-07-82, Užice, Odense
+23, Francesco Modesto, D, 5'10", 11 07, 16-02-82, Crotone, Palermo
+25, Luca Vigiani, M, 5'10", 11 03, 25-08-76, Florence, Livorno
+30, Andrea Campagnolo, G, 5'11", 11 05, 17-06-78, Bassano del Grappa, Cagliari
+32, Leonardo Gatto, M, , , , , None
+33, Giuseppe Parlongo, D, , , 02-10-88, , None
+34, Simone Missiroli, M, 5'11", 10 10, 23-05-86, Reggio Calabria, None
+35, Pasquale Porcaro, D, , , 02-03-88, , None
+36, Nicolas Kras, D, , , , , None
+37, Raffaele Barbagallo, M, , , 19-12-88, , None
+38, Henri Shiba, F, , , 16-03-88, , None
+39, Nicolas Viola, M, , , 12-10-89, , None
+40, Luigi Longo, F, , , 22-02-89, , None
+41, Antonio Sapone, D, , , 03-04-88, , None
+55, Maurizio Lanzaro, D, 6'00", 12 08, 14-03-82, Avellino, Roma
+99, Christian Puggioni, G, 6'02", 12 08, 17-01-81, Genoa, Pisa
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Jury Cannarsa, D, 6'00", 11 05, 22-04-76, Turin, Frosinone
+5, Gaetano De Rosa, D, 5'10", 11 07, 10-05-73, Düsseldorf, Genoa
+8, Davide Biondini, M, 5'10", 10 08, 24-01-83, Longiano, Cagliari (On Loan)
+18, Giovanni Ceravolo, F, 5'10", 11 05, 05-03-87, Locri, Pro Vasto (On Loan)
+14, Filippo Carobbio, M, 6'01", 12 00, 15-10-79, Alzano Lombardo, AlbinoLeffe
+27, Julio Cesar León, M, 5'09", 11 04, 13-09-79, Cortés, Genoa
+3, Giovanni Morabito, D, 5'10", 11 09, 26-01-78, Reggio Calabria, Crotone (On Loan)
+11, Leonel Ríos, M, 5'10", 11 00, 17-11-82, Capital Federal, Genoa
+21, Ivan Castiglia, M, 5'11", 12 00, 06-01-88, Reggio Calabria, Vicenza (On Loan)
+22, Ivan Pelizzoli, G, 6'06", 14 00, 18-11-80, Bergamo, Lokomotiv Moscow

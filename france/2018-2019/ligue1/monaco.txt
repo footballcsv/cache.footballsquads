@@ -1,0 +1,54 @@
+=  Monaco - French Ligue 1 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danijel Subašić, CRO, G, 1.92, 84, 27-10-84, Zadar, Hajduk Split
+2, Fodé Ballo-Touré, FRA, D, 1.77, 61, 03-01-97, Conflans-Sainte-Honorine, Lille
+4, Jean-Eudes Aholou, CIV, M, 1.86, 71, 20-03-94, Abidjan, Strasbourg
+5, Jemerson, BRA, D, 1.84, 77, 24-08-92, Jeremoabo, Atlético Mineiro
+6, Kévin Ndoram, FRA, D, 1.74, 60, 22-01-96, Saint-Sébastien-sur-Loire, None
+7, Rony Lopes, POR, M, 1.74, 68, 28-12-95, Belém, Manchester C
+9, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Atlético Madrid
+10, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Internazionale
+11, Carlos Vinícius, BRA, F, 1.90, 83, 25-03-95, Rio de Janeiro, Napoli
+12, William Vainqueur, FRA, M, 1.79, 73, 19-11-88, Neuilly-sur-Marne, Antalyaspor
+13, Willem Geubbels, FRA, F, 1.85, 72, 16-08-01, Villeurbanne, Lyon
+14, Georges-Kevin Nkoudou, FRA, M, 1.75, 73, 13-02-95, Versailles, Tottenham H
+15, Adrien Silva, POR, M, 1.75, 75, 15-03-89, Angoulême, Leicester C
+16, Diego Benaglio, SUI, G, 1.93, 83, 08-09-83, Zürich, Wolfsburg
+17, Aleksandr Golovin, RUS, M, 1.80, 69, 30-05-96, Kaltan, CSKA Moscow
+18, Ronaël Pierre-Gabriel, FRA, D, 1.77, 76, 13-08-98, Paris, St-Etienne
+19, Djibril Sidibé, FRA, D, 1.82, 73, 29-07-92, Troyes, Lille
+20, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, WBA
+21, Julien Serrano, FRA, D, 1.81, 65, 13-02-98, Aix-en-Provence, None
+22, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Barcelona
+23, Pietro Pellegri, ITA, F, 1.91, 78, 17-03-01, Genoa, Genoa
+24, Andrea Raggi, ITA, D, 1.87, 82, 24-06-84, Carrara, Bologna
+25, Kamil Glik, POL, D, 1.90, 80, 03-02-88, Jastrzębie Zdrój, Torino
+26, Robert Navarro, ESP, M, 1.78, 65, 12-04-02, Barcelona, Barcelona
+27, Naldo, BRA, D, 1.98, 89, 10-09-82, Londrina, Schalke
+29, Gelson Martins, POR, M, 1.73, 66, 11-05-95, Praia, Atlético Madrid
+30, Seydou Sy, SEN, G, 1.92, 80, 12-12-95, Dakar, None
+31, Romain Faivre, FRA, M, 1.80, 75, 14-07-98, Asnières-sur-Seine, Tours
+32, Benoît Badiashile, FRA, D, 1.92, 75, 06-03-01, Limoges, None
+34, Moussa Sylla, FRA, M, 1.81, 70, 25-11-99, Étampes, None
+36, Sofiane Diop, FRA, M, 1.75, 65, 09-06-00, Tours, Rennes
+39, Benjamin Henrichs, GER, D, 1.81, 74, 23-02-97, Bocholt, Bayer Leverkusen
+41, Giulian Biancone, FRA, D, 1.87, 83, 31-03-00, Fréjus, None
+42, Han-Noah Massengo, FRA, M, 1.77, 66, 07-07-01, Villepinte, None
+43, Khéphren Thuram, FRA, M, 1.92, 80, 26-03-01, Reggio Emilia, None
+44, Cesc Fàbregas, ESP, M, 1.80, 77, 04-05-87, Arenys de Mar, Chelsea
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Keita Baldé, SEN, F, 1.84, 80, 08-03-95, Arbúcies, Internazionale (On Loan)
+35, Kévin Ndoram, FRA, D, 1.74, 60, 22-01-96, Saint-Sébastien-sur-Loire, Re-Registered (6)
+29, Samuel Grandsir, FRA, F, 1.68, 64, 14-08-96, Evreux, Strasbourg (On Loan)
+3, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, Newcastle U (On Loan)
+8, Youri Tielemans, BEL, M, 1.76, 72, 07-05-97, Sint-Pieters-Leeuw, Leicester C (On Loan)
+11, Adama Traoré, MLI, M, 1.78, 72, 28-06-95, Bamako, Cercle Brugge (On Loan)
+15, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, St-Etienne (On Loan)
+28, Pelé, GNB, M, 1.82, 75, 29-09-91, Cacém, Nottingham F (On Loan)
+38, Almamy Touré, MLI, D, 1.82, 72, 28-04-96, Bamako, Eintracht Frankfurt
+40, Loïc Badiashile, FRA, G, 1.86, 80, 05-02-98, Limoges, Rennes (On Loan)
+6, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Santos (On Loan)

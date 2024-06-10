@@ -1,0 +1,61 @@
+=  Heart of Midlothian - Scottish Premiership 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Hamilton, SCO, G, 1.90, 75, 22-03-94, Denny, Stenhousemuir
+2, Callum Paterson, SCO, D, 1.83, 76, 13-10-94, South Queensferry, Tynecastle
+3, Faycal Rherras, MAR, D, 1.80, 77, 07-04-93, Liège, Sint-Truiden
+4, Alexandros Tziolis, GRE, M, 1.89, 84, 13-02-85, Katerini, PAOK
+5, Aaron Hughes, NIR, D, 1.83, 72, 08-11-79, Magherafelt, Kerala Blasters
+6, Perry Kitchen, USA, D, 1.83, 73, 29-02-92, Indianapolis, DC United
+7, Jamie Walker, SCO, M, 1.80, 76, 25-06-93, Edinburgh, None
+8, Prince Buaben, GHA, M, 1.83, 75, 23-04-88, Akosombo, Carlisle U
+10, Arnaud Djoum, CMR, M, 1.83, 78, 02-05-89, Yaoundé, Lech Poznań
+11, Sam Nicholson, SCO, M, 1.75, 71, 20-01-95, Edinburgh, None
+12, Anastasios Avlonitis, GRE, D, 1.90, 85, 01-01-90, Chalcis, Olympiakos
+13, Viktor Noring, SWE, G, 1.94, 90, 03-02-91, Malmö, Lyngby
+14, John Souttar, SCO, D, 1.85, 75, 25-09-96, Aberdeen, Dundee U
+15, Don Cowie, SCO, M, 1.80, 74, 15-02-83, Inverness, Wigan Ath
+16, Moha, MAR, F, 1.80, 73, 13-01-96, Nador, Stoke C
+17, Juwon Oshaniwa, NGA, D, 1.84, 69, 14-09-90, Ilorin, Ashdod
+19, Krystian Nowak, POL, D, 1.86, 84, 01-04-94, Ełk, Podbeskidzie Bielsko-Biała
+20, Bjørn Johnsen, USA, F, 1.95, 80, 06-11-91, New York, Litex Lovech
+22, Angus Beith, SCO, M, 1.78, 73, 22-02-96, Edinburgh, None
+23, Dylan Bikey, FRA, F, 1.80, 66, 18-02-95, , Stirling Alb
+24, Liam Smith, SCO, D, 1.77, 68, 10-04-96, Dalgety Bay, None
+27, Andraž Struna, SVN, D, 1.85, 72, 23-04-89, Piran, PAS Giannina
+28, Marcus Godinho, CAN, D, 1.78, 70, 28-06-97, Toronto, Toronto FC
+29, Jamie Brandon, SCO, D, 1.73, 70, 05-02-98, Glasgow, Rangers
+30, Rory Currie, SCO, F, 1.82, 70, 20-02-98, Lanark, Rangers
+31, Dale Baxter, SCO, M, , , 28-02-98, , None
+35, Harry Paton, CAN, M, 1.75, 70, 23-05-98, Kitchener, Fulham
+39, Daniel Baur, SCO, D, 1.93, 70, 06-05-99, Edinburgh, None
+41, Aleks Petkov, BUL, M, 1.91, 77, 10-09-00, Sofia, Chernomorets Pomorie
+42, Aaron Reid, SCO, D, , , 11-05-00, , None
+43, Kyle Smith, SCO, D, , , 18-02-00, , Livingston
+44, Andy Irving, SCO, M, 1.90, 80, 13-05-00, Edinburgh, None
+45, Zidan Akers, ENG, M, , , 01-12-98, Reading, Reading
+46, Lennard Sowah, GER, D, 1.80, 70, 23-08-92, Hamburg, Hamilton Academical
+49, Euan Henderson, SCO, F, 1.75, 65, 29-06-00, Edinburgh, None
+51, Paul Gallacher, SCO, G, 1.83, 77, 16-08-79, Glasgow, Partick Thistle
+77, Esmael Gonçalves, GNB, F, 1.84, 73, 25-06-91, Bissau, Anorthosis Famagusta
+88, Malaury Martin, FRA, M, 1.78, 75, 25-08-88, Nice, Lillestrøm
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Lewis Moore, SCO, M, 1.79, 68, 04-06-98, Bathgate, Cowdenbeath (On Loan)
+27, Alistair Roy, SCO, F, 1.88, 73, 26-05-97, Airdrie, Stenhousemuir (On Loan)
+40, Callumn Morrison, SCO, M, 1.73, 68, 05-07-99, Glasgow, Stirling Alb (On Loan)
+33, Ian Smith, SCO, F, , , 08-05-98, Cumbernauld, Dundee
+5, Alim Öztürk, NED, D, 1.90, 85, 17-11-92, Alkmaar, Boluspor
+32, Tony Watt, SCO, F, 1.73, 67, 29-12-93, Coatbridge, Charlton Ath
+9, Juanma Delgado, ESP, F, 1.88, 76, 17-11-90, Valencia, V-Varen Nagasaki
+4, Igor, BRA, D, 1.89, 78, 10-03-89, Campinas, Al-Faisaly
+37, Russell McLean, SCO, F, , , 16-06-98, Stenhousemuir, East Kilbride
+23, Robbie Muirhead, SCO, F, 1.77, 71, 08-03-96, Irvine, MK Dons
+25, Nikolay Todorov, BUL, F, 1.91, 80, 24-08-96, Pleven, Livingston (On Loan)
+18, Conor Sammon, IRL, F, 1.78, 75, 13-04-87, Dublin, Kilmarnock (On Loan)
+21, Robbie Buchanan, SCO, F, 1.78, 71, 23-02-96, Blantyre, Cowdenbeath (On Loan)
+38, Kelby Mason, SCO, G, 1.86, 75, 16-10-98, Musselburgh, Bonnyrigg Rose (On Loan)
+26, Dario Zanatta, CAN, M, 1.77, 75, 24-05-97, Victoria, Queen's Park (On Loan)
+34, Yves Vladislav, SUI, M, , , 12-05-98, , 

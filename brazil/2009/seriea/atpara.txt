@@ -1,0 +1,61 @@
+=  Atlético Paranaense - Campeonato Brasileiro Série A 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Galatto, BRA, G, 1.91, 88, 10-04-83, Porto Alegre, Grêmio
+, Neto, BRA, G, 1.89, 78, 19-07-89, Araxá, None
+, Renan Rocha, BRA, G, 1.94, 90, 25-03-87, Piracicaba, None
+, Vinícius, BRA, G, 1.91, 88, 19-07-85, Marechal Cândido Rondon, None
+, Alex Sandro, BRA, D, 1.77, 75, 26-01-91, Catanduva, None
+, Bruno Costa, BRA, D, 1.80, 80, 06-02-90, Salvador, None
+, Carlão, BRA, D, 1.82, 80, 06-06-90, Rio de Janeiro, None
+, Everton Luiz, BRA, D, 1.90, 89, 21-07-83, Bauru, Botafogo-SP
+, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, None
+, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Juventude
+, Nei, BRA, D, 1.77, 75, 06-12-85, Bragança Paulista, Ponte Preta
+, Raul, BRA, D, 1.73, 72, 13-03-90, Curitiba, None
+, Rhodolfo, BRA, D, 1.93, 82, 11-08-86, Bandeirantes, União Bandeirante
+, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, None
+, Chico, BRA, M, 1.85, 83, 02-02-87, Pato Branco, None
+, Claiton, BRA, M, 1.79, 82, 25-01-78, Porto Alegre, Consadole Sapporo
+, Deivid, BRA, M, 1.74, 69, 18-01-89, Londrina, None
+, Fransérgio, BRA, M, 1.86, 76, 18-10-90, Rondonópolis, Luverdense
+, Marcinho, BRA, M, 1.71, 70, 20-03-81, Campinas, Cruzeiro
+, Netinho, BRA, M, 1.73, 71, 24-04-84, Itajaí, Guarani
+, Paulo Baier, BRA, M, 1.84, 78, 25-10-74, Ijuí, Sport Recife
+, Pimba, BRA, M, 1.72, 63, 04-07-90, Mansidão, None
+, Rafael Miranda, BRA, M, 1.78, 75, 11-08-84, Belo Horizonte, Atlético Mineiro
+, Renan, BRA, M, 1.81, 77, 09-10-89, Londrina, None
+, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, América de Cali
+, Welington, BRA, M, 1.78, 71, 13-09-82, Cambé, None
+, Wesley, BRA, M, 1.79, 63, 24-06-87, Catanduva, Santos
+, Alex Mineiro, BRA, F, 1.75, 71, 15-03-75, Belo Horizonte, Grêmio
+, Brasão, BRA, F, 1.79, 82, 01-01-82, São Paulo, Atlético Goianiense
+, Choco, BRA, F, 1.76, 73, 04-01-90, Paranaguá, None
+, Éderson, BRA, F, 1.72, 74, 13-03-89, Pentecoste, None
+, Geílson, BRA, F, 1.86, 82, 10-04-84, Cuiabá, Santos
+, Jhonatan, BRA, F, 1.67, 67, 31-01-89, Corumbá, Juventude
+, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, None
+, Patrick, BRA, F, 1.80, 80, 23-08-90, Três Corações, None
+, Rodrigo Tiuí, BRA, F, 1.77, 64, 04-12-85, Taboão da Serra, Sporting CP
+, Wallyson, BRA, F, 1.78, 65, 17-10-88, Natal, ABC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Julio César, BRA, F, 1.82, 82, 20-10-79, Recife, Atlético Mineiro
+, Jorge Preá, BRA, F, 1.82, 80, 10-01-84, São Paulo, Palmeiras
+, Jairo, BRA, M, 1.78, 78, 31-12-86, Campinas, São Caetano
+, Douglas Maia, BRA, M, 1.79, 69, 12-04-89, Arapongas, Náutico (On Loan)
+, Gustavo, BRA, D, 1.85, 84, 09-03-84, Curitiba, Vitória Guimarães (On Loan)
+, Julio dos Santos, PAR, M, 1.86, 88, 07-05-83, Asunción, Cerro Porteño
+, Alberto, BRA, D, 1.81, 77, 22-03-75, Oliveira, 
+, Antônio Carlos, BRA, D, 1.84, 84, 22-06-83, Rio de Janeiro, Atlético Goianiense (On Loan)
+, Zé Antonio, BRA, M, 1.81, 81, 19-03-84, Monte Azul Paulista, Sport Recife
+, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Locarno
+, Eduardo, BRA, F, 1.87, 76, 22-03-87, Ribeirão Preto, Sport Recife
+, Rafael Santos, BRA, D, 1.87, 85, 10-11-84, Jaboticabal, Bologna (On Loan)
+, Rodrigo Díaz, ARG, M, 1.79, 78, 28-08-81, Moreno, Huracán (On Loan)
+, Abdullah Al Kamali, UAE, F, 1.70, 72, 09-12-89, Dubai, Al-Nasr
+, Ticão, BRA, M, 1.74, 64, 07-02-85, Curitiba, Fortaleza
+, Eduardo Salles, BRA, F, 1.78, 81, 06-04-90, Curitiba, Olimpi Rustavi (On Loan)
+, Zulu, BRA, F, 1.92, 86, 05-09-83, Tramandaí, Criciúma

@@ -1,0 +1,62 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Bruno Fuso, BRA, G, 1.94, 83, 30-01-88, Limeira, None
+, Édson, BRA, G, 1.89, 85, 24-09-85, Unaí, None
+, Juninho, BRA, G, 1.86, 85, 09-07-81, Ribeirão Preto, Cruzeiro
+, Sérvulo, BRA, G, 1.85, 87, 21-12-85, Niterói, América de Natal
+, César Prates, BRA, D, 1.74, 76, 08-02-75, Porto Alegre, Figueirense
+, Leandro Almeida, BRA, D, 1.88, 83, 14-03-87, Belo Horizonte, None
+, Luis Gustavo, BRA, D, 1.69, 69, 07-02-89, , None
+, Marcos, BRA, D, 1.83, 78, 14-09-75, Caruarú, Paraná
+, Nen, BRA, D, 1.80, 78, 03-08-78, Brasília, Palmeiras
+, Paulo Rodrigues, BRA, D, 1.74, 74, 18-02-81, Maceió, Boavista [BRA]
+, Samuel, BRA, D, 1.88, 74, 07-03-88, Igaratinga, None
+, Sheslon, BRA, D, 1.86, 77, 04-01-87, Barão de Cocais, None
+, Vinícius, BRA, D, 1.85, 83, 07-03-77, Porto Alegre, Ulsan Hyundai Horang-i
+, Welton Felipe, BRA, D, 1.94, 92, 15-06-86, Belo Horizonte, None
+, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, None
+, Danilo Rios, BRA, M, 1.75, 70, 09-06-88, Jacobina, Grêmio
+, Denílson, BRA, M, 1.69, 69, 21-04-88, Viçosa, None
+, Elton, BRA, M, 1.80, 75, 15-09-83, Porto Alegre, Figueirense
+, Francis, BRA, M, 1.80, 77, 30-04-82, São Vicente de Minas, Palmeiras
+, Gedeon, BRA, M, 1.83, 75, 07-03-81, Ilhéus, Tupi
+, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Kashiwa Reysol
+, Rafael Miranda, BRA, M, 1.78, 75, 11-08-84, Belo Horizonte, None
+, Dejan Petković, SRB, M, 1.75, 73, 10-09-72, Majdanpek, Santos
+, Renan Oliveira, BRA, M, 1.82, 72, 29-12-89, Itabira, None
+, Rodrigo Silva, BRA, M, 1.68, 66, 21-11-87, Ipatinga, None
+, Serginho Mineiro, BRA, M, 1.78, 70, 04-08-86, Contagem, Vila Nova
+, Tchô, BRA, M, 1.75, 70, 21-04-87, Belo Horizonte, None
+, Yuri, BRA, M, 1.80, 70, 07-10-89, Rio Negro, None
+, Beto, BRA, F, 1.65, 63, 03-09-80, Itaporanga, Criciúma
+, José Alfredo Castillo, BOL, F, 1.81, 82, 09-02-83, Santa Cruz de la Sierra, UAG Tecos
+, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea Grande, Criciúma
+, Marques, BRA, F, 1.74, 66, 12-02-73, Guarulhos, Yokohama F Marinos
+, Pedro Paulo, BRA, F, 1.72, 66, 29-06-85, Datas, None
+, Raphael Aguiar, BRA, F, 1.79, 74, 12-02-88, Divino de São Lourenço, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Marcelo Nicácio, BRA, F, 1.75, 79, 05-01-83, Salvador, América de Natal (On Loan)
+, Souza, BRA, M, 1.69, 62, 06-06-75, Itajá, América de Natal
+, Agustín Viana, URU, D, 1.81, 79, 23-08-83, Miami, Nacional [URU]
+, Ricardo Martínez, PAR, D, 1.88, 84, 18-02-84, Asunción, Gama (On Loan)
+, Cláudio, BRA, D, 1.80, 74, 21-06-80, Londrina, Atlético Goianiense (On Loan)
+, Xaves, BRA, M, 1.73, 71, 27-02-86, Balsas, Paraná
+, Bruno Barros, BRA, D, 1.79, 73, 15-06-82, Teófilo Otoni, Villa Rio
+, Thiago Carpini, BRA, M, 1.85, 79, 16-07-84, Valinhos, América de Natal
+, Marinho, BRA, F, 1.77, 75, 27-08-79, Belo Horizonte, Ipatinga (On Loan)
+, Thiago Feltri, BRA, D, 1.74, 64, 18-05-85, Fernão, Goiás (On Loan)
+, Danilinho, BRA, F, 1.64, 67, 11-03-87, Ponta Porã, Jaguares de Chiapas
+, Gérson, BRA, M, 1.74, 70, 29-03-81, Carmópolis, Paraná
+, Almir, BRA, M, 1.77, 75, 20-05-82, Santa Rita, Cabofriense
+, Coelho, BRA, D, 1.78, 72, 22-03-83, São Paulo, Corinthians
+, Vanderlei, BRA, F, 1.87, 87, 29-10-78, Lauro Müller, União de Leiria (On Loan)
+, Eduardo, BRA, F, 1.87, 76, 22-03-87, Ribeirão Preto, Gaziantepspor (On Loan)
+, Amaral, BRA, D, 1.67, 60, 05-09-87, Iguatu, Palmeiras
+, Renan, BRA, M, 1.86, 82, 19-06-86, Batatais, Celta Vigo (On Loan)
+, Lenílson, BRA, M, 1.85, 86, 01-05-81, Salvador, 
+, Calisto, BRA, D, 1.74, 73, 18-12-75, Duque de Caxias, Vasco da Gama
+, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Tombense

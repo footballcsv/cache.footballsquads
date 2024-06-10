@@ -1,0 +1,45 @@
+=  Carlisle United - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Fryer, ENG, G, 1.85, 72, 14-11-95, Chester-le-Street, Middlesbrough
+2, Gary Miller, SCO, D, 1.82, 71, 15-04-87, Glasgow, Plymouth Arg
+3, Danny Grainger, ENG, D, 1.83, 76, 28-07-86, Carlisle, Dunfermline Ath
+4, Gary Liddle, ENG, D, 1.85, 79, 15-06-86, Middlesbrough, Chesterfield
+5, Anthony Gerrard, IRL, D, 1.88, 83, 06-02-86, Liverpool, Oldham Ath
+6, Tom Parkes, ENG, D, 1.91, 79, 15-01-92, Mansfield, Leyton Orient
+7, Jason Kennedy, ENG, M, 1.85, 74, 11-09-86, Stockton-on-Tees, Bradford C
+8, Mike Jones, ENG, M, 1.83, 78, 15-08-87, Birkenhead, Oldham Ath
+9, Hallam Hope, BRB, F, 1.79, 76, 17-03-94, Manchester, Everton
+10, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Morecambe
+11, George Glendon, ENG, M, 1.77, 70, 03-05-95, Manchester, Fleetwood T
+12, Macaulay Gillesphey, ENG, D, 1.80, 70, 24-11-95, Ashington, Newcastle U
+13, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Blackpool
+15, Regan Slater, ENG, M, 1.73, 65, 11-09-99, Sheffield, Sheffield U
+16, Nathan Thomas, ENG, M, 1.78, 80, 27-09-94, Ingleby Barwick, Sheffield U
+17, Callum O'Hare, ENG, M, 1.73, 65, 01-05-98, Solihull, Aston Villa
+18, Peter Grant, SCO, D, 1.82, 74, 11-03-94, Bellshill, Plymouth Arg
+19, Connor Simpson, ENG, F, 1.95, 85, 24-01-00, Guisborough, Preston NE
+21, Kelvin Etuhu, NGA, M, 1.80, 79, 30-05-88, Kano, Bury
+22, Stefan Scougall, SCO, M, 1.70, 69, 07-12-92, Edinburgh, St Johnstone
+23, Jarrad Branthwaite, ENG, M, 1.87, 67, 27-06-02, Carlisle, None
+24, Keighran Kerr, ENG, F, , , 20-11-00, Carlisle, None
+25, Arthur Gnahoua, FRA, F, 1.87, 80, 18-09-92, London, Shrewsbury T
+27, Liam McCarron, ENG, M, 1.76, 61, 07-03-01, Preston, None
+28, Charlie Birch, ENG, D, 1.86, 71, 23-10-01, Carlisle, None
+29, Louis Gray, WAL, G, 1.86, 75, 11-08-95, Wrexham, Nuneaton Boro
+30, Adam Collin, ENG, G, 1.91, 78, 09-12-84, Penrith, Notts Co
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Luke O'Reilly, ENG, G, 1.82, 74, 27-05-96, Hackney, Chelmsford C
+25, Jordan Holt, ENG, M, 1.75, 70, 27-06-99, Carlisle, Workington
+16, Adam Campbell, ENG, F, 1.70, 73, 01-01-95, North Shields, Morecambe
+17, Jerry Yates, ENG, F, 1.75, 68, 10-11-96, Doncaster, Rotherham U
+23, Ashley Nadesan, ENG, F, 1.88, 75, 09-09-94, Redhill, Fleetwood T
+14, Richard Bennett, ENG, F, 1.93, 90, 03-03-91, Oldham, Morecambe (On Loan)
+18, Jack Sowerby, ENG, M, 1.75, 78, 23-03-95, Preston, Fleetwood T
+20, Kieron Olsen, ENG, D, 1.79, 67, 26-11-99, Sunderland, 
+22, Max Brown, ENG, F, 1.75, 66, 29-03-99, Carlisle, 
+24, Sam Adewusi, ENG, M, 1.85, 73, 26-12-99, Manchester, 
+26, Jack Egan, ENG, M, 1.75, 73, 16-10-98, Salford, 

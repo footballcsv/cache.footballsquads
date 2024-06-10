@@ -1,0 +1,37 @@
+=  Reus - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jordi Codina, ESP, G, 1.84, 79, 27-04-82, Barcelona, APOEL
+2, Alberto Benito, ESP, D, 1.78, 68, 13-06-92, Tarragona, Sporting Gijón B
+3, Angel Martínez, ESP, D, 1.84, 78, 15-05-91, Barcelona, Espanyol B
+4, Jesús Olmo, ESP, D, 1.78, 75, 24-01-85, Barcelona, Sabadell
+5, Srdjan Babić, SRB, D, 1.92, 85, 22-04-96, Banja Luka, Real Sociedad B
+6, Vítor, POR, M, 1.69, 68, 07-01-84, Penafiel, Sporting CP
+7, David Querol, ESP, F, 1.86, 76, 25-02-89, Reus, Llagostera
+8, Ramón Folch, ESP, M, 1.82, 78, 04-10-89, Cambrils, Conquense
+9, Edgar Hernández, ESP, F, 1.87, 81, 02-02-87, Gavà, Sabadell
+10, Ricardo Vaz, POR, F, 1.72, 68, 26-11-94, Alcabideche, Estoril
+11, Fran Carbià, ESP, F, 1.73, 67, 31-03-92, Tarragona, La Pobla de Mafumet
+12, Joan Campins, ESP, D, 1.76, 68, 24-06-95, Palma de Mallorca, Barcelona B
+13, Edgar Badía, ESP, G, 1.81, 76, 12-02-92, Barcelona, Granada B
+14, Marcos Tébar, ESP, M, 1.85, 77, 07-02-86, Madrid, Delhi Dynamos
+15, Melli, ESP, D, 1.81, 78, 06-06-84, Barbate, Neftchi Baku
+16, Macauley Chrisantus, NGA, F, 1.83, 76, 20-08-90, Abuja, AEK
+17, David Haro, ESP, F, 1.68, 62, 17-07-90, L'Ametlla del Vallès, L'Hospitalet
+18, Pichu Atienza, ESP, D, 1.90, 85, 18-01-90, Córdoba, Hércules
+19, Alexander Albístegui, ESP, M, 1.87, 75, 01-07-87, Eibar, Lleida
+20, Jorge Díaz, ESP, F, 1.68, 72, 28-06-89, Montevideo, Zaragoza
+21, Máyor, ESP, F, 1.86, 73, 23-01-84, Elche, Alcórcon
+22, Aritz López Garai, ESP, M, 1.82, 80, 06-11-80, Barakaldo, Doxa Katokopia
+23, Miguel García, ESP, D, 1.70, 64, 17-04-91, Huelma, Racing Santander
+24, Jorge Miramón, ESP, M, 1.76, 74, 02-06-89, Zaragoza, Leganés
+25, Raphael Guzzo, POR, M, 1.77, 70, 06-01-95, São Paulo, Benfica
+26, Antonio Sillero, ESP, G, 1.82, 77, 25-08-93, Córdoba, Córdoba B
+31, Adrià Molluna, ESP, G, 1.81, 69, 09-03-97, Reus, Reus B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Ismael Moyano, ESP, D, 1.84, 83, 13-04-83, Mollet del Vallès, Badalona (On Loan)
+25, Aitor Embela, EQG, G, 1.82, 88, 17-04-96, Figueres, Valladolid B
+14, Rafa García, ESP, M, 1.88, 84, 14-01-86, Ciudad Real, Racing Ferrol

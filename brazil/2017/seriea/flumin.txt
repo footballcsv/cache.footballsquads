@@ -1,0 +1,50 @@
+=  Fluminense - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+2, Lucas, BRA, D, 1.73, 67, 26-03-88, Passos, Palmeiras
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+4, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Ponte Preta
+5, Pierre, BRA, M, 1.72, 67, 19-01-82, Itororó, Atlético Mineiro
+6, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Criciúma
+7, Marquinho, BRA, M, 1.82, 79, 03-07-86, Passo Fundo, Udinese
+8, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, None
+9, Henrique Dourado, BRA, F, 1.86, 79, 15-09-89, Guarulhos, Mirassol
+10, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Desportivo Brasil
+11, Wellington Silva, BRA, M, 1.70, 64, 06-01-93, Rio de Janeiro, Arsenal
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+13, Frazan, BRA, D, 1.88, 85, 05-06-96, Macaé, None
+15, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, None
+16, Renato, BRA, D, 1.75, 65, 19-01-90, Maceió, Sport Recife
+17, Robinho, BRA, F, 1.78, 71, 21-07-95, São Caetano do Sul, Atibaia
+18, Jefferson Orejuela, ECU, M, 1.79, 66, 14-02-93, San Lorenzo [ECU], Independiente del Valle
+19, Romarinho, BRA, F, 1.68, 66, 01-03-94, Natal, Globo
+20, Junior Sornoza, ECU, M, 1.66, 65, 28-01-94, Portoviejo, Independiente del Valle
+21, Robert, BRA, M, 1.75, 70, 28-09-96, São Gonçalo, None
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Getafe
+23, Marlon Freitas, BRA, M, 1.85, 78, 27-03-95, Magé, None
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Atibaia
+26, Mateus Norton, BRA, M, 1.73, 70, 19-07-96, Campo Bom, Aimoré
+27, Peu, BRA, F, 1.78, 72, 24-04-93, Itajaí, Avaí
+28, Matheus Alessandro, BRA, F, 1.71, 65, 10-07-96, Rio de Janeiro, None
+29, Maximiano, BRA, M, 1.78, 74, 08-05-95, Rio de Janeiro, None
+30, Marcos Calazans, BRA, F, 1.72, 66, 14-06-96, Duque de Caxias, None
+31, Patrick, BRA, F, 1.79, 77, 31-10-98, Soracaba, Atlético Sorocaba
+32, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, None
+33, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Napoli
+34, Matheus, BRA, G, 1.89, 71, 10-02-95, Três Marias, None
+35, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, None
+36, Luquinhas, BRA, F, 1.70, 58, 28-01-94, Caruaru, None
+37, Wendel, BRA, M, 1.70, 65, 28-08-97, Duque de Caxias, None
+38, Matheus Mascarenhas, BRA, D, 1.80, 65, 27-08-98, Rio de Janeiro, None
+39, Felipe, BRA, F, 1.82, 77, 03-05-97, Salvador, None
+40, Reginaldo, BRA, D, 1.93, 82, 08-07-92, Barretos, None
+41, Ibañez, BRA, D, 1.85, 73, 23-11-98, Cenela, Sergipe
+44, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Maranhão, BRA, M, 1.68, 63, 03-05-90, São Luis, Ponte Preta (On Loan)
+77, Lucas Fernandes, BRA, M, 1.74, 70, 24-04-94, União dos Palmares, Atlético Paranaense (On Loan)
+70, Richarlison, BRA, F, 1.79, 71, 10-05-97, Nova Venécia, Watford

@@ -1,0 +1,55 @@
+=  Honvéd - Hungarian Nemzeti Bajnokság I 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Sergiu Moga, ROU, M, 1.85, 75, 07-01-92, Bihor, Bihor Oradea
+3, Souleymane Tandia, SEN, D, 1.90, 82, 30-11-86, Dakar, Villefranche Beaujolais
+4, Aleksandar Ignjatović, SRB, D, 1.85, 79, 11-04-88, Niš, Borac Čačak
+5, András Debreceni, HUN, D, 1.89, 85, 21-04-89, Nagykanizsa, None
+6, Mamadou Diakité, FRA, M, 1.85, 76, 22-05-85, Rosny-sur-Bois, Al-Ahli [QAT]
+7, Richárd Vernes, HUN, M, 1.80, 70, 24-02-92, Budapest, MAC
+8, George Ikenne, NGA, M, 1.83, 77, 29-10-92, Calabar, Flying Sports Academy
+9, Gergely Délczeg, HUN, F, 1.92, 78, 09-08-87, Budapest, Siófok
+11, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Catania
+13, Raffaele Alcibiade, ITA, D, 1.86, 81, 23-05-90, Turin, Juventus
+14, Sebastian Remeş, ROU, D, 1.86, 77, 19-01-92, Şimleu Silvaniei, Magyar Akadémia
+15, Leandro Martínez, ARG, F, 1.79, 69, 15-10-89, Buenos Aires, Cremonese
+16, Mihály Csábi, HUN, M, 1.79, 80, 25-05-95, Budapest, Magyar Akadémia
+17, László Erdélyi, HUN, F, 1.85, 83, 10-07-93, Vác, Magyar Akadémia
+18, Attila Lőrinczi, HUN, M, 1.86, 78, 08-04-94, Budapest, Magyar Akadémia
+19, Filip Holender, SRB, F, 1.80, 74, 27-07-94, Kragujevac, Magyar Akadémia
+20, Gellért Ivancsics, HUN, M, 1.75, 74, 23-02-87, Sopron, Zalaegerszeg
+21, János Fejes, HUN, M, 1.82, 75, 09-05-93, Jászberény, Puskás Akadémia
+22, Souleymane Diaby, CIV, F, 1.90, 84, 10-09-87, Daloa, Krymteplytsia Molodizhne
+23, Claudiu Pascariu, ROU, D, 1.87, 85, 25-09-88, Arad, FCM Târgu Mureș
+24, Drissa Diarra, MLI, M, 1.83, 66, 07-07-85, Bamako, Bellinzona
+25, Ivan Lovrić, CRO, D, 1.90, 80, 11-07-85, Split, Singapore Armed Forces
+26, Patrik Hidi, HUN, M, 1.86, 78, 27-11-90, Győr, None
+27, Hervé Tchami, CMR, F, 1.73, 67, 20-02-88, Fopounga, Szolnok
+28, Gergely Bobál, HUN, F, 1.88, 85, 31-08-95, Pásztó, Magyar Akadémia
+29, Alexisz Novák, HUN, D, 1.82, 78, 22-11-87, Budapest, Budaörs
+30, Bálint Vécsei, HUN, F, 1.92, 84, 13-07-93, Kazincbarcika, Magyar Akadémia
+31, Márton Czuczi, HUN, G, 1.91, 84, 20-05-92, Budapest, Videoton
+32, Richárd Czár, HUN, M, 1.79, 74, 13-08-92, Komló, None
+33, Boris Živanović, SRB, D, 1.85, 80, 18-07-89, Belgrade, Mačva Šabac
+34, Norbert Szemerédi, HUN, G, 1.87, 83, 08-12-93, Paks, Paks
+35, Odia Henry Etiosa, NGA, M, 1.80, 76, 03-03-91, , Kings FC
+36, Botond Baráth, HUN, D, 1.87, 68, 21-04-92, Budapest, Újpest
+71, Szabolcs Kemenes, HUN, G, 1.90, 80, 18-05-86, Budapest, MTK
+77, Gergő Nagy, HUN, M, 1.83, 78, 07-01-93, Gyula, Békéscsaba
+90, Marshal Johnson, NGA, M, 1.78, 75, 12-12-89, Uyo, Eupen
+91, Nicola Canzian, ITA, D, 1.82, 67, 29-06-91, Conegliano, Real SPAL
+93, Máté Varga, HUN, F, 1.86, 82, 25-01-93, Kazincbarcika, Magyar Akadémia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Iván Tóth, HUN, G, 1.85, 88, 22-03-71, Budapest, Retired
+18, Joel Sunnyboy Toe, LBR, F, 1.82, 74, 04-06-90, Monrovia, 
+23, Filip Kostić, SRB, M, 1.88, 82, 08-10-93, Loznica, Javor Ivanjica
+11, Boris Bjelkanović, CRO, D, 1.95, 86, 27-09-84, Banja Luka, Putnok
+15, Marko Vidović, MNE, D, 1.83, 74, 03-06-88, Belgrade, Eger
+28, Ibrahima Thiam Iyane, SEN, F, 1.98, 90, 20-08-81, Dakar, 
+13, Marko Rajić, SRB, F, 1.78, 72, 30-07-91, Zemun, 
+85, Dieng Cheikh Abass, SEN, F, 1.82, 75, 01-01-85, Saint Louis, Thanh Hóa (On Loan)
+16, Mihály Krisztián Nagy, HUN, F, 1.86, 82, 20-06-92, Pécs, Kazincbarcika (On Loan)
+70, Milán Faggyas, HUN, F, 1.75, 66, 01-06-89, Miskolc, Szolnok

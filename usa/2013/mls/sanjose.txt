@@ -1,0 +1,41 @@
+=  San Jose Earthquakes - USA Major League Soccer 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Bingham, USA, G, 1.88, 84, 19-10-89, Castro Valley, UC Berkeley
+2, Ty Harden, USA, D, 1.85, 86, 06-03-84, Junction City, Toronto FC
+3, Dan Gargan, USA, M, 1.80, 79, 14-12-82, Philadelphia, Chicago Fire
+4, Sam Cronin, USA, M, 1.78, 75, 12-12-86, Atlanta, Toronto FC
+5, Víctor Bernárdez, HON, D, 1.84, 78, 24-05-82, La Ceiba, Anderlecht
+6, Shea Salinas, USA, M, 1.78, 68, 24-06-86, Lubbock, Vancouver Whitecaps
+7, Cordell Cato, TRI, F, 1.75, 68, 15-07-92, Carenage, Seattle Sounders
+8, Chris Wondolowski, USA, F, 1.85, 75, 28-07-83, Danville, Houston Dynamo
+9, Mike Fucito, USA, M, 1.75, 75, 29-03-86, Concord, Portland Timbers
+10, Walter Martínez, HON, F, 1.68, 68, 28-03-82, Tegucigalpa, Chongqing FC
+11, Mehdi Ballouchy, MAR, M, 1.80, 77, 06-04-83, Casablanca, New York Red Bulls
+12, Ramiro Corrales, USA, D, 1.77, 70, 12-03-77, Salinas, Brann
+13, Evan Newton, USA, G, 1.88, 86, 01-04-88, Virginia Beach, Houston Dynamo
+14, Adam Jahn, USA, F, 1.90, 84, 05-01-91, El Macero, Stanford Univ
+15, Justin Morrow, USA, D, 1.75, 75, 04-10-87, Cleveland, Univ of Notre Dame
+16, Steven Lenhart, USA, F, 1.86, 86, 28-08-86, Jacksonville, Columbus Crew
+17, Sam Garza, USA, M, 1.80, 73, 17-10-89, Carrollton, UC Santa Barbara
+18, Jon Busch, USA, G, 1.78, 75, 18-08-76, Queens, Chicago Fire
+19, Jaime Alas, SLV, M, 1.72, 68, 30-07-89, San Salvador, Rosenborg
+20, Marcus Tracy, USA, F, 1.85, 77, 02-10-86, Chestnut Hill, Aalborg
+21, Jason Hernandez, PUR, D, 1.78, 73, 26-08-83, Englewood, Chivas USA
+22, Jordan Stewart, ENG, D, 1.83, 78, 03-03-82, Birmingham, Coventry C
+23, Nana Attakora-Gyan, CAN, D, 1.85, 84, 27-03-89, North York, FC Haka
+24, Alan Gordon, USA, F, 1.91, 83, 16-10-81, Long Beach, Toronto FC
+25, Tommy Muller, USA, D, 1.80, 77, 04-04-91, Orlando, Georgetown Univ
+30, Rafael Baca, MEX, M, 1.73, 73, 11-09-89, Tuxpan, Loyola Marymount Univ
+33, Steven Beitashour, IRN, D, 1.78, 77, 01-02-87, San Jose, San Diego State Univ
+44, Clarence Goodson, USA, D, 1.93, 77, 17-05-82, Alexandria, Brøndby
+81, Marvin Chávez, HON, F, 1.65, 66, 03-11-83, La Ceiba, FC Dallas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Abu Tommy, SLE, M, 1.83, 74, 13-10-89, Koidu Town, 
+19, Peter McGlynn, IRL, D, 1.80, 75, 02-09-89, Dublin, 
+27, Colin Mitchell, USA, D, 1.83, 77, 18-10-90, San Francisco, 
+5, Brad Ring, USA, M, 1.78, 75, 07-04-87, Rockford, Portland Timbers
+26, Víctor Bernárdez, HON, D, 1.84, 78, 24-05-82, La Ceiba, Re-Registered (5)

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2009/10
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Rot-Weiß Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [Augsburg](augsburg.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hansa Rostock](rostock.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [TuS Koblenz](koblenz.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [1.FC Union Berlin](unionber.txt)

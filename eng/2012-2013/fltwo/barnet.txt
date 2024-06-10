@@ -1,0 +1,59 @@
+=  Barnet - English Football League Two 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Liam O'Brien, ENG, G, 1.88, 73, 30-11-91, Ruislip, Portsmouth
+2, Barry Fuller, ENG, D, 1.78, 74, 25-08-84, Ashford, Gillingham
+3, Jordan Brown, ENG, D, 1.78, 76, 11-10-91, Benfleet, Crewe Alex
+4, Clovis Kamdjo, CMR, D, 1.80, 77, 15-12-90, , Reading
+6, Jack Saville, ENG, D, 1.90, 76, 02-04-91, Frimley, Southampton
+7, Oliver Lee, ENG, M, 1.81, 80, 11-07-91, London, West Ham U
+8, Mark Byrne, IRL, M, 1.75, 70, 09-11-88, Crumlin, Nottingham F
+9, Steve Kabba, ENG, F, 1.78, 71, 07-03-81, Lambeth, Brentford
+10, Jon Nurse, BRB, F, 1.75, 78, 01-03-81, Bridgetown, Dagenham & Redbridge
+11, Ricky Holmes, ENG, F, 1.88, 75, 20-06-87, Uxbridge, Chelmsford C
+12, Luke Gambin, ENG, M, 1.68, 70, 16-03-93, Sutton, None
+14, Ahmed Abdulla, KSA, M, 1.74, 69, 12-11-91, , Dagenham & Redbridge
+15, Andy Yiadom, ENG, M, 1.80, 75, 02-12-91, Camden, Braintree T
+16, Freddie Warren, ENG, M, 1.78, 74, 02-11-92, Barking, Charlton Ath
+18, Sam Cowler, ENG, G, 1.90, 70, 26-10-92, Colchester, West Ham U
+19, Jake Hyde, ENG, F, 1.85, 78, 01-07-90, Slough, Dundee
+20, Curtis Weston, ENG, M, 1.80, 74, 24-01-87, Greenwich, Gillingham
+21, George Sykes, ENG, F, 1.93, 80, 14-09-94, Buckhurst Hill, None
+22, Ifeanyi Allen, ENG, M, 1.75, 69, 15-03-94, Lambeth, None
+23, Kamal Guthmy, ENG, D, 1.75, , 07-03-95, , None
+24, Jamal Hackett, ENG, D, 1.75, , 11-03-94, , None
+25, Jamal Lowe, ENG, F, 1.83, 79, 27-01-94, Harrow, None
+26, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+27, Mauro Vilhete, ENG, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+29, Graham Stack, IRL, G, 1.88, 79, 26-09-81, Hampstead, Hibernian
+30, David Stephens, WAL, D, 1.93, 92, 18-10-91, Welywn Garden City, Hibernian
+31, John Oster, WAL, M, 1.75, 67, 08-12-78, Boston, Doncaster R
+33, Ishmail Kamara, SLE, F, 1.85, 75, 29-10-87, , Dulwich Hamlet
+34, Chiró Vuza-N'Toko, BEL, D, 1.90, 82, 31-01-88, Kinshasa, ADO Den Haag
+35, Dillon Barnes, ENG, G, 1.93, 75, 08-04-96, Enfield Town, None
+38, Edgar Davids, NED, M, 1.69, 68, 13-03-73, Paramaribo, Crystal Palace
+40, Tom Flanagan, NIR, D, 1.88, 72, 21-10-91, Hammersmith, MK Dons
+42, Harry Crawford, IRL, M, 1.85, 78, 10-12-91, Saffron Walden, Dartford
+43, Dominic Vose, ENG, M, 1.73, 71, 23-11-93, Lambeth, West Ham U
+44, Craig Beattie, SCO, F, 1.83, 73, 16-01-84, Glasgow, St Johnstone
+46, Ross Jenkins, ENG, M, 1.80, 78, 09-11-90, Watford, Watford
+47, Kyle De Silva, ENG, M, 1.70, 61, 29-11-93, Croydon, Crystal Palace
+48, Michel Kuipers, NED, G, 1.88, 90, 26-06-74, Amsterdam, Crawley T
+49, Keanu Marsh-Brown, ENG, F, 1.81, 78, 10-08-92, Hammersmith, Yeovil T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Krystian Pearce, ENG, D, 1.85, 76, 05-01-90, Birmingham, Notts Co
+34, George Barker, ENG, F, 1.72, 71, 26-09-91, Portsmouth, Brighton & HA
+40, Adam Thompson, NIR, D, 1.85, 74, 28-09-92, Harlow, Watford
+5, Jonathan Fortune, ENG, D, 1.88, 84, 23-08-80, Islington, Chatham T
+39, Taiwo Atieno, KEN, F, 1.88, 82, 06-08-85, Brixton, 
+36, Collins John, NED, F, 1.82, 87, 17-10-85, Zwandru, 
+37, Melvin Holwijn, NED, F, 1.81, 75, 02-01-80, Amsterdam, 
+35, Andy Iro, ENG, D, 1.96, 93, 26-11-84, Liverpool, Stevenage
+28, Danny Senda, ENG, D, 1.78, 64, 17-04-81, Harrow, Retired
+41, Ibra Sekajja, ENG, F, 1.80, 70, 31-10-92, Mulago, Crystal Palace
+40, Dani López, ESP, F, 1.87, 85, 25-10-85, Madrid, Stevenage
+45, Bondz Ngala, ENG, D, 1.83, 76, 03-10-89, Newham, Stevenage
+17, Anthony Edgar, ENG, M, 1.72, 70, 30-09-90, Newham, 

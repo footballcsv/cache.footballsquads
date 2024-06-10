@@ -1,0 +1,44 @@
+=  Stevenage - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Farman, ENG, G, 1.96, 92, 02-11-89, North Shields, Lincoln C
+2, Luther Wildin, ATG, D, 1.78, 75, 03-12-97, Leicester, Nuneaton T
+3, Johnny Hunt, ENG, D, 1.80, 65, 23-08-90, Liverpool, Mansfield T
+4, Michael Timlin, IRL, M, 1.73, 74, 19-03-85, Lambeth, Southend U
+5, Scott Cuthbert, SCO, D, 1.88, 89, 15-06-87, Alexandria, Luton T
+6, Mark McKee, NIR, M, 1.78, 73, 01-12-98, , Cliftonville
+7, James Ball, ENG, M, 1.87, 80, 01-12-95, Bolton, Stockport Co
+8, Joel Byrom, ENG, M, 1.83, 78, 14-09-86, Oswaldtwistle, Mansfield T
+9, Alex Revell, ENG, F, 1.91, 78, 07-07-83, Cambridge, Northampton T
+11, Emmanuel Sonupe, ENG, M, 1.80, 70, 21-03-96, Denmark Hill, Kidderminster H
+12, Ilias Chair, MAR, M, 1.58, 53, 30-10-97, Antwerp, QPR
+13, Will Appleyard, ENG, G, 1.93, 79, 26-12-99, Crewe, Crewe Alex
+15, Terence Vancooten, GUY, D, 1.85, 78, 29-12-97, Kingston upon Thames, Reading
+16, Arthur Iontton, ENG, M, 1.83, 71, 16-12-00, Enfield, None
+17, Donovan Makoma, FRA, M, 1.85, 78, 01-02-99, Lille, Barrow
+18, Andronicos Georgiou, ENG, F, 1.80, 70, 28-10-99, Enfield, None
+19, Danny Newton, ENG, F, 1.78, 75, 18-03-91, Liverpool, Tamworth
+20, Jamal Campbell-Ryce, JAM, M, 1.70, 78, 06-04-83, Lambeth, Carlisle U
+22, Alex Reid, ENG, F, 1.92, 76, 06-09-95, Birmingham, Fleetwood T
+23, Jordan Gibson, ENG, M, 1.78, 80, 26-02-98, Birmingham, Bradford C
+24, Moses Makasi, ENG, M, 1.80, 72, 22-09-95, Lewisham, West Ham U
+25, Ron Henry, ENG, D, 1.81, 75, 02-01-84, Hemel Hempstead, Luton T
+27, Oliver Byrne, ENG, G, 1.88, 75, 31-12-97, Trafford, Blackburn R
+28, Kurtis Guthrie, ENG, F, 1.80, 76, 21-04-93, Peterborough, Colchester U
+29, Liam Smyth, NIR, F, 1.83, 70, 06-09-01, Watford, None
+30, Luke Wilkinson, ENG, D, 1.88, 74, 02-12-91, Wells, Luton T
+31, Ben Nugent, ENG, D, 1.86, 75, 28-11-93, Street, Gillingham
+32, Paul Field, ENG, D, , , 28-11-00, Barnet, None
+33, Marcus Gouldbourne, ENG, M, 1.77, 62, 31-12-00, Luton, None
+34, Sam Okoye, ENG, D, , , , , None
+35, Calum Dyson, ENG, F, 1.87, 73, 19-09-96, Fazakerley, Plymouth Arg
+36, Elijah Adebayo, ENG, F, 1.93, 89, 07-01-98, Brent, Fulham
+37, Joe Martin, ENG, D, 1.83, 82, 29-11-88, Dagenham, Millwall
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Steve Seddon, ENG, D, 1.79, 68, 25-12-97, Reading, Birmingham C
+27, Seny Dieng, SEN, G, 1.93, 90, 23-11-94, Zürich, QPR
+10, Ben Kennedy, NIR, M, 1.78, 70, 12-01-97, Lisburn, Newport Co (On Loan)
+14, James Ferry, ENG, M, 1.79, 67, 20-04-97, Enfield, Woking

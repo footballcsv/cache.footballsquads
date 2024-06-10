@@ -1,0 +1,39 @@
+=  Getafe - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Sporting Gijón
+2, Carlos Peña, ESP, D, 1.81, 79, 28-07-83, Salamanca, Oviedo
+4, Alejandro Faurlín, ARG, M, 1.85, 79, 09-08-86, Rosario, QPR
+5, Paul Anton, ROU, M, 1.85, 80, 10-05-91, Bistriţa, Dinamo București
+6, Cata Díaz, ARG, D, 1.82, 74, 13-03-79, San Fernando del Valle, Boca Juniors
+7, Emi Buendía, ARG, M, 1.70, 65, 25-12-96, Mar del Plata, Getafe B
+8, Mehdi Lacen, ALG, M, 1.76, 74, 15-03-84, Versailles, Racing Santander
+10, Stefan Šćepović, SRB, F, 1.86, 79, 10-01-90, Belgrade, Celtic
+11, Chuli, ESP, F, 1.71, 67, 25-01-91, Huelva, Almería
+12, Francisco Portillo, ESP, F, 1.69, 63, 13-06-90, Málaga, Betis
+13, Vicente Guaita, ESP, G, 1.90, 80, 18-02-87, Valencia, Valencia
+14, David Fuster, ESP, M, 1.78, 71, 03-02-82, Oliva, Olympiakos
+15, Francisco Molinero, ESP, D, 1.75, 72, 26-07-85, Toledo, Betis
+16, Cala, ESP, D, 1.85, 78, 26-11-89, Lebrija, Granada
+17, Nicolás Gorosito, ARG, D, 1.86, 83, 17-08-88, Rafaela, Slovan Bratislava
+18, Facundo Castillón, ARG, F, 1.69, 68, 21-08-86, Rosario, Racing Club
+19, Jorge Molina, ESP, F, 1.88, 87, 22-04-82, Alcoy, Betis
+20, Daniel Pacheco, ESP, F, 1.68, 67, 05-01-91, Málaga, Betis
+22, Damián Suárez, URU, D, 1.73, 68, 27-04-88, Montevideo, Elche
+23, Álvaro Jiménez, ESP, M, 1.76, 67, 19-05-95, Córdoba, Real Madrid B
+25, Sergio Mora, ESP, M, 1.82, 77, 30-08-79, Madrid, UCAM Murcia
+27, Miguel Ángel, ESP, D, 1.77, 72, 26-01-95, Madrid, Getafe B
+32, Luis Acosta, ESP, D, , , 13-07-94, Cádiz, La Pobla de Mafumet
+35, David Gil, ESP, G, 1.83, 73, 11-01-94, Getafe, Atlético Madrid B
+37, Jesús González, ESP, D, , , 07-01-94, Sevilla, Mérida
+38, Gustavo Quezada, ECU, M, 1.78, 69, 06-04-97, Guayaquil, Getafe B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Álvaro Vázquez, ESP, F, 1.82, 75, 27-04-91, Barcelona, Espanyol
+24, Foued Kadir, ALG, M, 1.79, 68, 05-12-83, Martigues, Alcorcón
+3, Johannes van den Bergh, GER, D, 1.83, 75, 21-11-86, Viersen, Greuther Fürth (On Loan)
+9, Kike Sola, ESP, F, 1.84, 84, 25-02-86, Tudela, Athletic Bilbao
+11, Abdoul Karim Yoda, FRA, M, 1.82, 73, 25-10-88, Annemasse, Almería (On Loan)
+21, Rolf Feltscher, VEN, D, 1.81, 74, 06-10-90, Bülach, Zaragoza (On Loan)

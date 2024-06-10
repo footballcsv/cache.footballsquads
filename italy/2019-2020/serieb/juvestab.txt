@@ -1,0 +1,63 @@
+=  Juve Stabia - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matteo Esposito, ITA, G, 1.93, 74, 30-11-01, Massa di Somma, None
+3, Giacomo Ricci, ITA, D, 1.84, 74, 02-09-96, Livorno, Parma
+5, Giacomo Calò, ITA, M, 1.80, 74, 05-02-97, Trieste, Genoa
+6, Nicholas Allievi, ITA, D, 1.84, 67, 20-04-92, Varese, FeralpiSalò
+7, Fabrizio Melara, ITA, M, 1.88, 80, 06-05-86, Rome, Benevento
+8, Francesco Di Mariano, ITA, F, 1.77, 68, 20-04-96, Palermo, Venezia
+9, Alessandro Rossi, ITA, F, 1.84, 77, 03-01-97, Rome, Lazio
+10, Davide Di Gennaro, ITA, M, 1.80, 72, 16-06-88, Milan, Lazio
+11, Alfredo Bifulco, ITA, M, 1.73, 63, 19-01-97, San Gennaro Vesuviano, Napoli
+13, Mariano Izco, ARG, M, 1.80, 76, 13-03-83, Capital Federal, Cosenza
+14, Luigi Luongo, ITA, D, 1.69, 55, 04-02-02, Naples, ASD Micri
+15, Gianmarco Todisco, ITA, D, 1.84, 74, 30-04-02, Torre del Greco, None
+16, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Verona
+18, Luigi Canotto, ITA, F, 1.76, 70, 19-05-94, Rossano Calabro, Trapani
+19, Bright Addae, GHA, M, 1.84, 87, 19-12-92, Accra, Ascoli
+20, Magnus Troest, DEN, D, 1.89, 83, 05-06-87, Copenhagen, Novara
+21, Salvatore Elia, ITA, F, 1.77, 65, 30-06-99, Prato, Atalanta
+22, Ivan Provedel, ITA, G, 1.92, 84, 17-03-94, Pordenone, Empoli
+23, Luca Germoni, ITA, D, 1.75, 70, 01-09-97, Rome, Virtus Entella
+24, Alessandro Mastalli, ITA, M, 1.75, 75, 07-02-96, Bologna, Milan
+25, Danilo Russo, ITA, G, 1.86, 82, 08-07-87, Pompei, Casertana
+26, Emanuele Polverino, ITA, G, 1.82, 79, 13-02-97, Naples, Sicula Leonzio
+28, Roberto Vitiello, ITA, D, 1.76, 71, 08-05-83, Scafati, Ternana
+30, Alessandro Mallamo, ITA, F, 1.74, 70, 22-03-99, Vizzolo Pedrabissi, Atalanta
+31, Pasquale Fazio, ITA, D, 1.80, 75, 10-06-89, Messina, Ternana
+32, Francesco Forte, ITA, F, 1.87, 75, 01-05-93, Rome, Waasland-Beveren
+33, Stefano Selvaggio, ITA, M, 1.68, 56, 07-12-02, Benevento, None
+34, Adriano Mezavilla, BRA, M, 1.85, 80, 14-01-83, Maringá, Reggina
+35, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Foggia
+36, Alessandro Oliva, ITA, M, 1.87, 75, 25-06-02, Naples, Monteruscello
+37, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Verona
+38, Vincenzo Della Pietra, ITA, F, 1.82, 70, 22-06-02, Atripalda, Benevento
+39, Giuseppe La Monica, ITA, M, 1.80, 77, 18-05-01, Castellammare di Stabia, Foggia
+40, Mariano Guarracino, ITA, F, 1.83, 72, 25-06-02, Vico Equense, None
+41, Lorenzo Spagnulo, ITA, G, , , 13-04-03, Naples, Sampdoria
+42, Francesco Mangini, ITA, M, 1.71, 59, 05-11-02, Naples, None
+43, Mario Frulio, ITA, M, 1.74, 67, 24-06-00, Torre del Greco, Benevento
+44, Marino Grimaldi, ITA, M, 1.80, 69, 22-11-02, Battipaglia, None
+45, Vincenzo Fontanella, ITA, F, 1.81, , 24-08-01, Vico Equense, None
+46, Pasquale Campanile, ITA, D, , , 29-05-01, Naples, None
+47, Aniello Boccia, ITA, D, 1.79, 64, 04-08-02, Vico Equense, None
+48, Pierferdinando Arcella, ITA, M, 1.76, 67, 11-09-01, Frattamaggiore, Napoli
+49, Giuseppe Annibale, ITA, D, 1.76, 61, 11-06-02, Naples, None
+50, Marcel Büchel, AUT, M, 1.75, 71, 18-03-91, Feldkirch, Empoli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Lorenzo Borri, ITA, D, 1.86, 73, 24-09-97, Poggibonsi, Piacenza
+27, Giorgio Lionetti, ITA, M, 1.76, 77, 09-05-98, Siderno, Rimini
+32, Lorenzo Sorrentino, ITA, F, 1.88, 82, 20-09-95, Rome, Gubbio
+22, Claudio Casillo, ITA, G, , , 03-08-02, Naples, Savoia (On Loan)
+41, Mattia Miccio, ITA, D, 1.87, 74, 23-05-02, Naples, Sorrento (On Loan)
+8, Vicente, BRA, M, 1.76, 70, 18-02-89, Cruzeiro do Sul, Catania
+2, Damiano Lia, ITA, D, 1.75, 70, 25-11-97, Lentini, Sicula Leonzio (On Loan)
+17, Ferdinando Del Sole, ITA, F, 1.79, 68, 17-01-98, Naples, Juventus
+26, Paolo Branduani, ITA, G, 1.92, 92, 09-03-89, Vizzolo Predabissi, Empoli
+29, Massimiliano Carlini, ITA, M, 1.75, 67, 20-08-86, Terracina, Catanzaro
+27, Giacomo Pulcino, ITA, M, 1.72, 58, 09-01-02, Caserta, Gladiator
+4, Kingsley Boateng, GHA, F, 1.76, 70, 07-04-94, Mpatuam, Ternana

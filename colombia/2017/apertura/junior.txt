@@ -1,0 +1,33 @@
+=  Junior - Colombian Categoría Primera A 2017 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastián Viera, URU, G, 1.85, 82, 07-03-83, Florida, Larissa
+2, Germán Gutiérrez, COL, D, 1.70, 72, 16-01-90, Barranquilla, Barranquilla
+3, Deivy Balanta, COL, D, 1.88, 75, 02-09-93, Bogotá, Alianza Petrolera
+4, David Murillo, COL, D, 1.73, 69, 17-08-93, Cali, Barranquilla
+5, Andrés Felipe Correa, COL, D, 1.83, 71, 02-07-84, Itagüí, Itagüí
+6, James Sánchez, COL, M, 1.73, 71, 04-05-88, Barranquilla, Uniautónoma
+7, Sebastián Hernández, COL, M, 1.78, 72, 02-10-86, Medellín, Boluspor
+8, Faber Cañaveral, COL, M, 1.76, 81, 31-08-88, Cali, Atlético Bucaramanga
+9, Roberto Ovelar, PAR, F, 1.79, 82, 01-12-85, Curuguaty, Juan Aurich
+10, Jarlan Barrera, COL, M, 1.71, 68, 16-09-95, Santa Marta, None
+11, Bernardo Cuesta, ARG, F, 1.70, 76, 20-12-88, Álvarez, FBC Melgar
+12, José Luis Chunga, COL, G, 1.78, 73, 11-07-91, Barranquilla, None
+13, Jonathan Ávila, COL, D, 1.87, 70, 01-11-91, Bucaramanga, Alianza Petrolera
+14, Edison Toloza, COL, F, 1.71, 75, 15-06-84, Istcuande, Jiangsu Sainty
+15, Leonardo Pico, COL, M, 1.77, 73, 04-10-91, El Cocuy, Santa Fe
+16, Robinson Aponzá, COL, F, 1.74, 70, 11-04-89, Suárez, Alianza Atlético
+17, Michael Rangel, COL, F, 1.85, 80, 08-03-91, Floridablanca, Atlético Nacional
+18, Yony González, COL, M, 1.82, 75, 11-07-94, Medellín, Envigado
+19, Alexis Pérez, COL, D, 1.81, 73, 25-03-94, Barranquilla, Uniautónoma
+20, Héctor Quiñones, COL, D, 1.78, 71, 17-03-92, Barbacoas, Millonarios
+21, Johnatan Estrada, COL, M, 1.82, 70, 27-01-83, Medellín, Millonarios
+22, Jair Mosquera, COL, G, 1.86, 90, 05-02-93, Istmina, Barranquilla
+23, Lewis Ochoa, COL, D, 1.76, 69, 04-09-84, Turbo, Millonarios
+24, Félix Noguera, COL, D, 1.78, 75, 31-03-87, Santa Marta, Deportes Tolima
+25, Rafael Carrascal, COL, M, 1.73, 75, 26-11-92, Toluviejo, Millonarios
+26, Léiner Escalante, COL, F, 1.68, 74, 18-12-91, Soledad, None
+27, Gulfran Támara, COL, D, 1.80, 76, 02-02-96, Barranquilla, Barranquilla
+28, Enrique Serje, COL, M, 1.80, 72, 10-01-96, Sabanalarga, Barranquilla
+29, Jorge Aguirre, COL, F, 1.68, 70, 18-06-87, Medellín, Itagüí
+30, Juan Camilo Roa, COL, M, 1.78, 65, 14-11-94, Sabanalarga, Cortuluá

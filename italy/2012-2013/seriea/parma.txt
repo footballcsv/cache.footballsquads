@@ -1,0 +1,49 @@
+=  Parma - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+2, Álvaro Ampuero, PER, M, 1.83, 76, 25-09-92, Lima, Universitario de Deportes
+3, Emilio MacEachen, URU, D, 1.83, 76, 05-04-92, Artigas, Peñarol
+4, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Livorno
+5, Djamel Mesbah, ALG, M, 1.79, 72, 09-10-84, Annecy, Milan
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Jonathan Ludovic Biabiany, FRA, F, 1.75, 70, 28-04-88, Paris, Sampdoria
+8, Daniele Galloppa, ITA, M, 1.80, 71, 15-05-85, Rome, Siena
+9, Ishak Belfodil, ALG, F, 1.91, 86, 12-01-92, Algiers, Lyon
+10, Jaime Valdès Zapata, CHI, F, 1.75, 69, 11-01-81, Santiago, Sporting CP
+11, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Fiorentina
+13, Fabiano Santacroce, ITA, D, 1.81, 72, 24-08-86, Camaçari, Napoli
+14, Rodney Strasser, SLE, M, 1.78, 80, 30-03-90, Freetown, Milan
+15, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Internazionale
+16, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Cesena
+17, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Genoa
+18, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Fiorentina
+19, Filippo Boniperti, ITA, M, 1.78, 71, 27-09-91, Turin, Juventus
+20, Alberto Cerri, ITA, F, 1.90, 82, 16-04-96, Parma, None
+21, Nicola Sansone, ITA, F, 1.75, 63, 10-09-91, Foggia, Bayern Munich
+22, Floriano Vanzo, BEL, F, 1.70, 63, 28-04-94, Maurage, Tubize
+23, Manuel Arteaga, VEN, F, 1.85, 72, 10-06-94, Maracaibo, Zulia
+28, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Cesena
+29, Gabriel Paletta, ARG, D, 1.90, 80, 15-02-86, Longchamps, Boca Juniors
+31, Andrea Coda, ITA, D, 1.88, 81, 25-04-85, Massa, Udinese
+32, Marco Marchionni, ITA, M, 1.75, 66, 22-07-80, Monterotondo, Fiorentina
+40, Matteo Ferrari, ITA, G, , , 05-04-94, Parma, None
+44, Daniele De Angelis, ITA, G, , , 29-03-95, Parma, None
+77, Sotiris Ninis, GRE, M, 1.73, 69, 03-04-90, Himara, Panathinaikos
+83, Antonio Mirante, ITA, G, 1.88, 78, 08-07-83, Castellamare di Stabia, Sampdoria
+87, Aleandro Rosi, ITA, M, 1.78, 74, 17-05-87, Rome, Roma
+91, Pavol Bajza, SVK, G, 1.95, 89, 04-09-91, Žilina, MFK Dubnica
+97, Francesco Anacoura, ITA, G, 1.90, 79, 01-08-94, Milan, Pavia
+, Matteo Antonio Cincilla, ITA, G, 1.88, 80, 24-10-94, Milan, Internazionale
+, Mohamed Lamine Traoré, GUI, D, 1.75, 69, 13-10-91, Kindia, Crotone
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Pescara (On Loan)
+99, Graziano Pellè, ITA, F, 1.93, 89, 15-07-85, San Cesario, Feyenoord
+19, Gianluca Musacci, ITA, M, 1.80, 72, 01-04-87, Viareggio, Spezia (On Loan)
+20, Afriyie Acquah, GHA, M, 1.79, 70, 05-01-92, Accra, Palermo
+5, Cristian Zaccardo, ITA, D, 1.84, 74, 21-12-81, Formigine, Milan
+39, Ignacio Fideleff, ARG, D, 1.88, 82, 04-07-89, Rosario, Napoli
+88, Dorlan Pabón, COL, F, 1.68, 68, 24-01-88, Bogotá, Betis (On Loan)

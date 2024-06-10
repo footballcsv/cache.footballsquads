@@ -1,0 +1,57 @@
+=  Nottingham Forest - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Yuri Ribeiro, POR, D, 1.75, 68, 24-01-97, Vieira do Minho, Benfica
+3, Tobias Figueiredo, POR, D, 1.88, 84, 02-02-94, Sátão, Sporting CP
+4, Joe Worrall, ENG, D, 1.93, 64, 10-01-97, Nottingham, None
+6, Gaëtan Bong, CMR, D, 1.83, 74, 25-04-88, Sakbayeme, Brighton & HA
+7, Lewis Grabban, ENG, F, 1.83, 71, 12-01-88, Croydon, Bournemouth
+8, Ben Watson, ENG, M, 1.81, 80, 09-07-85, Camberwell, Watford
+9, Nuno Da Costa, CPV, F, 1.82, 70, 10-02-91, Praia, Strasbourg
+10, João Carvalho, POR, M, 1.70, 64, 09-03-97, Castanheira de Pera, Benfica
+11, Matty Cash, ENG, M, 1.85, 64, 07-08-97, Slough, None
+12, Jordan Smith, ENG, G, 1.85, 75, 08-12-94, Nottingham, None
+13, John Bostock, ENG, M, 1.79, 75, 15-01-92, Lambeth, Toulouse
+14, Adama Diakhaby, FRA, M, 1.84, 65, 05-07-96, Ajaccio, Huddersfield T
+16, Carl Jenkinson, ENG, D, 1.85, 77, 08-02-92, Buckhurst Hill, Arsenal
+17, Alfa Semedo, GNB, M, 1.90, 82, 30-08-97, Bissau, Benfica
+19, Sammy Ameobi, ENG, F, 1.90, 66, 01-05-92, Newcastle upon Tyne, Bolton W
+20, Michael Dawson, ENG, D, 1.88, 76, 18-11-83, Northallerton, Hull C
+21, Samba Sow, MLI, M, 1.85, 75, 29-04-89, Bamako, Dynamo Moscow
+22, Ryan Yates, ENG, M, 1.90, 77, 21-11-97, Nottingham, None
+23, Joe Lolley, ENG, M, 1.78, 72, 25-08-92, Redditch, Huddersfield T
+27, Tendayi Darikwa, ZIM, D, 1.88, 77, 13-12-91, Nottingham, Burnley
+28, Tiago Silva, POR, M, 1.70, 71, 02-06-93, Lisbon, Feirense
+29, Yohan Benalouane, TUN, D, 1.85, 79, 28-03-87, Bagnols-sur-Cèze, Leicester C
+30, Brice Samba, CGO, G, 1.86, 79, 25-04-94, Linzolo, Caen
+34, Tyler Walker, ENG, F, 1.79, 63, 07-10-96, Nottingham, None
+39, Zach Clough, ENG, F, 1.72, 64, 08-03-95, Manchester, Bolton W
+40, Brennan Johnson, ENG, M, 1.79, 73, 23-05-01, Nottingham, None
+41, Liam Sole, ENG, M, 1.75, 65, 21-12-99, Watford, MK Dons
+42, Yassine En-Neyah, IRL, M, 1.80, 72, 10-06-00, Dublin, Corduff
+43, George Shelvey, ENG, G, 1.88, 83, 22-04-01, Nottingham, None
+44, Michael Hefele, GER, D, 1.92, 87, 01-09-90, Pfaffenhofen, Huddersfield T
+47, Toby Edser, ENG, M, 1.74, 75, 28-02-99, Guildford, Charlton Ath
+48, Alex Mighten, ENG, M, 1.81, 71, 11-04-02, Nottingham, None
+49, Arijanet Murić, KVX, G, 1.97, 81, 07-11-98, Zürich, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Luke Steele, ENG, G, 1.88, 76, 24-09-84, Peterborough, Millwall (On Loan)
+45, Jayden Richardson, ENG, D, 1.84, 76, 04-09-00, Nottingham, Exeter C (On Loan)
+5, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, Al-Gharafa
+38, Gboly Ariyibi, USA, M, 1.83, 72, 18-01-95, Arlington, Panetolikos
+9, Daryl Murphy, IRL, F, 1.89, 82, 15-03-83, Waterford, Bolton W
+35, Jason Cummings, SCO, F, 1.78, 68, 01-08-95, Edinburgh, Shrewsbury T
+43, Arvin Appiah, ENG, F, 1.73, 63, 05-01-01, Amsterdam, Almería
+6, Alexander Milošević, SWE, D, 1.91, 82, 30-01-92, Sundbyberg, 
+14, Rafa Mir, ESP, F, 1.86, 75, 18-06-97, Murcia, Wolverhampton W
+18, Jack Robinson, ENG, D, 1.80, 67, 01-09-93, Warrington, Sheffield U
+46, Jordan Lawrence-Gabriel, SCO, D, 1.78, 69, 25-09-98, London, Scunthorpe U (On Loan)
+24, Claudio Yacob, ARG, M, 1.81, 73, 18-07-87, Carcarañá, Nacional [URU]
+1, Costel Pantilimon, ROU, G, 2.02, 108, 01-02-87, Bacău, Omonia Nicosia (On Loan)
+36, Chema Rodríguez, ESP, D, 1.89, 80, 03-03-92, Caudete, Getafe
+26, Liam Bridcutt, SCO, M, 1.75, 73, 08-05-89, Reading, Lincoln C (On Loan)
+37, Albert Adomah, GHA, M, 1.85, 74, 13-12-87, Lambeth, Cardiff C (On Loan)
+38, Tyrese Fornah, ENG, M, 1.81, 78, 11-09-99, Camden, Casa Pia (On Loan)

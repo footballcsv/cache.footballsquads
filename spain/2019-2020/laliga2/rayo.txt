@@ -1,0 +1,50 @@
+=  Rayo Vallecano - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Getafe
+2, Tito, ESP, D, 1.75, 64, 11-07-85, Madrid, Leganés
+3, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Alavés
+4, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Guizhou Hengfeng
+5, Alejandro Catena, ESP, D, 1.94, 82, 28-10-94, Madrid, Reus
+6, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+7, Leonardo Ulloa, ARG, F, 1.85, 75, 26-07-86, Río Negro, Pachuca
+8, Óscar Trejo, ARG, F, 1.80, 79, 26-04-88, Santiago del Estero, Toulouse
+9, Andrés Martín, ESP, F, 1.74, 70, 11-07-99, Aguadulce, Córdoba
+10, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Eibar
+11, Isi Palazón, ESP, M, 1.69, 71, 27-12-94, Cieza, Ponferradina
+12, Jorge De Frutos, ESP, F, 1.73, 71, 20-02-97, Navares de Enmedio, Real Madrid B
+13, Stole Dimitrievski, MKD, G, 1.88, 80, 23-12-93, Kumanovo, Nàstic
+14, Yacine Qasmi, MAR, F, 1.83, 80, 03-01-91, Pontoise, Elche
+15, Juan Villar, ESP, F, 1.83, 74, 19-05-88, Aroche, Osasuna
+16, Antonio Milić, CRO, D, 1.90, 80, 10-03-94, Split, Anderlecht
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, UANL Tigres
+18, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Cádiz
+19, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Levante
+20, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Atlético Madrid
+22, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Almería
+23, Óscar Valentín, ESP, M, 1.77, 70, 20-08-94, Ajofrín, Rayo Majadahonda
+24, Esteban Saveljich, ARG, D, 1.87, 76, 02-05-91, Tandil, Levante
+25, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Huesca
+27, Martín Pascual, ESP, D, 1.90, 78, 04-08-99, Madrid, Rayo B
+28, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo B
+29, Javi Rubio, ESP, M, , , 12-05-99, , Rayo B
+30, Miguel Ángel Morro, ESP, G, 1.95, 82, 11-09-00, Alcalá de Henares, Rayo B
+31, Mario de Luis, ESP, G, 1.84, 75, 05-06-02, Madrid, Rayo B
+32, Ángel Algobia, ESP, M, 1.80, 78, 23-06-99, Velilla de San Antonio, Rayo B
+33, Marc Echarri, ESP, F, 1.90, 82, 04-03-99, Manzanares el Real, Alcorcón B
+34, Alberto Bernardo, ESP, M, , , 27-02-99, , Rayo B
+35, Dani Merino, ESP, G, , , 17-01-99, Leganés, Rayo B
+36, Dani Moreno, ESP, M, , , 01-09-01, Meco, Rayo B
+37, Fabián Luzzi, ESP, F, , , 18-03-04, , Rayo B
+40, Josete, ESP, G, , , 05-06-01, , Rayo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Betis
+15, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Fuenlabrada
+3, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Barcelona B
+26, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Valencia B (On Loan)
+11, Adri Embarba, ESP, F, 1.73, 66, 07-05-92, Madrid, Espanyol
+14, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Córdoba
+21, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, Deportivo La Coruña (On Loan)

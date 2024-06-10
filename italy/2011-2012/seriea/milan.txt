@@ -1,0 +1,51 @@
+=  Milan - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Amelia, ITA, G, 1.87, 78, 02-04-82, Frascati, Genoa
+4, Mark van Bommel, NED, M, 1.87, 85, 22-04-77, Maasbracht, Bayern Munich
+5, Philippe Mexès, FRA, D, 1.87, 84, 30-03-82, Toulouse, Roma
+7, Alexandre Pato, BRA, F, 1.79, 71, 02-09-89, Pato Branco, Internacional
+8, Gennaro Gattuso, ITA, M, 1.77, 77, 09-01-78, Corigliano, Rangers
+9, Filippo Inzaghi, ITA, F, 1.81, 74, 09-08-73, Piacenza, Juventus
+10, Clarence Seedorf, NED, M, 1.76, 76, 01-04-76, Paramaribo, Internazionale
+11, Zlatan Ibrahimović, SWE, F, 1.92, 84, 03-10-81, Malmö, Barcelona
+13, Alessandro Nesta, ITA, D, 1.87, 79, 19-03-76, Rome, Lazio
+14, Sulley Muntari, GHA, M, 1.79, 76, 27-07-84, Konongo, Internazionale
+15, Djamel Mesbah, ALG, M, 1.79, 72, 09-10-84, Annecy, Lecce
+16, Mathieu Flamini, FRA, M, 1.78, 67, 07-03-84, Marseille, Arsenal
+18, Alberto Aquilani, ITA, M, 1.84, 73, 07-07-84, Rome, Liverpool
+19, Gianluca Zambrotta, ITA, D, 1.81, 76, 19-02-77, Como, Barcelona
+20, Ignazio Abate, ITA, D, 1.80, 73, 12-11-86, Sant'Agata de' Goti, Torino
+21, Maxi López, ARG, F, 1.87, 81, 04-03-84, Capital Federal, Catania
+22, Antonio Nocerino, ITA, M, 1.78, 76, 09-04-85, Naples, Palermo
+23, Massimo Ambrosini, ITA, M, 1.82, 72, 29-05-77, Pesaro, Cesena
+24, Rodney Strasser, SLE, M, 1.78, 80, 30-03-90, Freetown, None
+25, Daniele Bonera, ITA, D, 1.83, 74, 31-05-81, Brescia, Parma
+27, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Genoa
+28, Urby Emanuelson, NED, M, 1.76, 68, 16-06-86, Amsterdam, Ajax
+30, Flavio Roma, ITA, G, 1.92, 89, 21-06-74, Rome, Monaco
+32, Christian Abbiati, ITA, G, 1.91, 92, 08-07-77, Milan, Monza
+33, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Fluminense
+34, Bryan Cristante, ITA, M, 1.86, 82, 03-03-95, San Vito al Tagliamento, None
+35, Alessio Innocenti, ARG, M, 1.79, 73, 04-02-93, Buenos Aires, None
+36, Marco Baldan, ITA, D, 1.82, 80, 13-11-93, Cittadella, None
+37, Alexander Merkel, GER, M, 1.77, 67, 22-02-92, Pervomayskiy, Genoa
+51, Riccardo Piscitelli, ITA, G, 1.87, 80, 10-10-93, Vimercate, None
+52, Mattia De Sciglio, ITA, D, 1.81, 68, 20-10-92, Milan, None
+53, Rodrigo Ely, BRA, D, 1.88, 82, 03-11-93, Lajeado, Grêmio
+54, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, Atalanta
+55, Adrià Carmona, ESP, F, 1.70, 66, 08-02-92, Igualada, Barcelona
+56, Simone Ganz, ITA, F, 1.75, 67, 21-09-93, Genoa, None
+57, Mattia Valoti, ITA, M, 1.81, 62, 06-09-93, Vicenza, AlbinoLeffe
+58, Gianmario Comi, ITA, F, 1.86, 77, 03-05-92, Turin, Torino
+59, Kingsley Boateng, GHA, F, 1.74, 67, 07-04-94, Mpatuam, None
+70, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Manchester C
+76, Mario Yepes, COL, D, 1.87, 79, 13-01-76, Cali, Chievo Verona
+77, Luca Antonini, ITA, D, 1.82, 70, 04-02-82, Milan, Empoli
+92, Stephan El Shaarawy, ITA, M, 1.78, 72, 27-10-92, Savona, Genoa
+99, Antonio Cassano, ITA, F, 1.75, 78, 12-07-82, Bari, Sampdoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Taye Taiwo, NGA, D, 1.83, 77, 16-04-85, Lagos, QPR (On Loan)

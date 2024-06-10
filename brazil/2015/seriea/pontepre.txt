@@ -1,0 +1,53 @@
+=  Ponte Preta - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Ivan, BRA, G, 1.84, 64, 02-07-97, Rio das Pedras, None
+, João Carlos, BRA, G, 1.90, 92, 06-04-88, Paranavaí, Atlético Paranaense
+, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Bahia
+, Matheus Inácio, BRA, G, 1.91, 81, 27-04-92, Mairinque, Bragantino
+, Diego Ivo, BRA, D, 1.88, 82, 06-04-89, Ibirapuera, Belomonte
+, Fábio Ferreira, BRA, D, 1.88, 82, 04-10-84, Campina Grande, Criciúma
+, Ferron, BRA, D, 1.87, 83, 11-11-85, Rondonópolis, Figueirense
+, Gilson, BRA, D, 1.78, 70, 14-05-86, Campo Grande, Cruzeiro
+, Jeferson, BRA, D, 1.70, 60, 22-06-96, Campinas, None
+, Jefferson Recife, BRA, D, 1.70, 65, 13-06-93, Recife, Campinense
+, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Atlético Paranaense
+, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+, Tiago Alves, BRA, D, 1.86, 78, 29-05-84, Belo Horizonte, Palmeiras
+, Adrianinho, BRA, M, 1.74, 69, 11-07-80, Campo Limpo Paulista, Sobradinho
+, Bady, BRA, M, 1.70, 65, 27-04-89, São José do Rio Preto, Atlético Paranaense
+, Cristian, BRA, M, 1.69, 65, 28-08-79, Uruguaiana, Ituano
+, Diego Oliveira, BRA, M, 1.81, 75, 22-06-90, Curitiba, Novorizontino
+, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Internacional
+, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Atlético Paranaense
+, Fernando Bob, BRA, M, 1.80, 74, 07-01-88, Cabo Frio, SEV Hortolândia
+, Josimar, BRA, M, 1.81, 78, 18-08-86, Pelotas, Internacional
+, Juninho, BRA, M, 1.73, 66, 23-10-87, Goiânia, Atlético Paranaense
+, Léo Costa, BRA, M, 1.81, 73, 03-03-86, São José dos Campos, Portuguesa
+, Nathan, BRA, M, 1.79, 73, 16-09-93, Varginha, Internacional
+, Serrato, BRA, M, 1.75, 77, 08-02-94, Curitiba, Paraná
+, Alexandro, BRA, F, 1.84, 80, 06-11-86, Cabo Frio, Penapolense
+, Biro Biro, BRA, F, 1.69, 60, 22-11-94, Rio de Janeiro, Fluminense
+, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, Cruzeiro
+, Cesinha, BRA, F, 1.77, 74, 29-11-89, São José do Rio Preto, Bragantino
+, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, Ituano
+, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Sport Recife
+, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, São José
+, Leandrinho, BRA, F, 1.73, 66, 11-10-98, Ribeirão Claro, Ituano
+, Vitor Xavier, BRA, F, 1.78, 73, 27-03-94, Mogi Guaçu, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Thomás Bedinelli, BRA, M, 1.79, 75, 24-02-93, Juiz de Fora, Flamengo
+, Fágner, BRA, M, 1.63, 62, 25-05-88, Agrestina, Salgueiro
+, Rildo, BRA, F, 1.80, 67, 20-03-89, São Paulo, Corinthians (On Loan)
+, Reynaldo, BRA, G, 1.89, 82, 12-03-91, Santa Rita do Passa Quatro, 
+, Bernardo, BRA, M, 1.86, 76, 14-05-95, São Paulo, Red Bull Brasil (On Loan)
+, Paulinho, BRA, M, 1.72, 73, 10-05-89, Francisco Morato, Criciúma
+, Renato Cajá, BRA, M, 1.73, 70, 15-09-84, Paraíba, Al-Sharjah
+, Roni, BRA, M, 1.71, 67, 26-06-91, São José dos Campos, São Paulo
+, Rodrigo, BRA, D, 1.93, 87, 17-07-93, Bahia, Linense
+, Rodrigo Biro, BRA, D, 1.77, 71, 18-11-86, Araçatuba, Penapolense
+, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Bordeaux
+, João Paulo, BRA, D, 1.72, 72, 20-07-90, Pouso Alto, Tombense

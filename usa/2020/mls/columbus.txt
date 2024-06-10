@@ -1,0 +1,38 @@
+=  Columbus Crew - USA Major League Soccer 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eloy Room, CUW, G, 1.89, 79, 06-02-89, Nijmegen, PSV Eindhoven
+2, Chris Cadden, SCO, D, 1.83, 67, 19-09-96, Bellshill, Motherwell
+3, Josh Williams, USA, D, 1.88, 87, 18-04-88, Akron, Toronto FC
+4, Jonathan Mensah, GHA, D, 1.88, 75, 13-07-90, Accra, Anzhi Makhachkala
+5, Vito Wormgoor, NED, D, 1.88, 81, 16-11-88, Leersum, Brann
+6, Darlington Nagbe, LBR, M, 1.75, 75, 19-07-90, Monrovia, Atlanta U
+7, Pedro Santos, POR, F, 1.73, 65, 22-04-88, Lisbon, Sporting Braga
+8, Artur, BRA, M, 1.81, 68, 11-03-96, Brumado, São Paulo
+9, Fanendo Adi, NGA, F, 1.92, 90, 10-10-90, Lagos, FC Cincinnati
+10, Lucas Zelarrayán, ARG, M, 1.72, 70, 20-06-92, Córdoba, UANL Tigres
+11, Gyasi Zerdes, USA, F, 1.88, 80, 02-09-91, Hawthorne, LA Galaxy
+12, Luis Díaz, CRC, M, 1.80, 72, 06-12-98, Nicoya, CS Herediano
+13, Andrew Tarbell, USA, G, 1.91, 88, 07-10-93, Mandeville, San Jose Earthquakes
+14, Waylon Francis, CRC, D, 1.75, 73, 20-09-90, Puerto Limón, Seattle Sounders
+16, Héctor Jiménez, USA, M, 1.75, 64, 03-11-88, Huntington Park, LA Galaxy
+17, Jordan Hamilton, CAN, F, 1.83, 84, 17-03-96, Scarborough [CAN], Toronto FC
+18, Sebastian Berhalter, USA, M, 1.75, 71, 17-05-01, Westminster, Univ of Nth Carolina
+19, Milton Valenzuela, ARG, D, 1.68, 64, 13-08-98, Rosario, Newell's Old Boys
+20, Ema Boateng, GHA, M, 1.68, 74, 17-01-94, Accra, DC United
+21, Aidan Morris, USA, M, 1.78, 72, 16-11-01, Fort Lauderdale, Indiana Univ
+22, Derrick Etienne, HAI, M, 1.78, 73, 25-11-96, Richmond, VA, New York Red Bulls
+23, Grant Lillard, USA, D, 1.93, 89, 05-12-95, Hinsdale, Inter Miami
+25, Harrison Afful, GHA, D, 1.82, 73, 24-06-86, Kumasi, Espérance
+26, Fatai Alashe, USA, M, 1.83, 77, 21-10-93, Southfield, FC Cincinnati
+28, Matt Lampson, USA, G, 1.91, 87, 06-09-89, Cleveland, LA Galaxy
+29, Krisztián Németh, HUN, F, 1.79, 70, 05-01-89, Győr, DAC Dunajská Streda
+30, Aboubacar Keita, USA, D, 1.88, 82, 06-04-00, New York, Univ of Virginia
+34, Youness Mokhtar, NED, M, 1.75, 68, 29-08-91, Utrecht, Stabæk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Jon Kempin, USA, G, 1.85, 77, 08-04-93, Leawood, San Diego Loyal (On Loan)
+44, Axel Sjöberg, SWE, D, 2.01, 96, 08-03-91, Stockholm, DC United
+27, Miguel Berry, ESP, F, 1.91, 82, 16-09-97, Barcelona, San Diego Loyal (On Loan)

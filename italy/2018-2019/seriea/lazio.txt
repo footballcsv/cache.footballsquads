@@ -1,0 +1,49 @@
+=  Lazio - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Strakosha, ALB, G, 1.93, 78, 19-03-95, Athens, Panionios
+3, Luiz Felipe, BRA, D, 1.87, 80, 22-03-97, Colina, Ituano
+4, Patric, ESP, D, 1.84, 72, 17-04-93, Mula, Barcelona B
+5, Jordan Lukaku, BEL, D, 1.77, 86, 25-07-94, Antwerp, Oostende
+6, Lucas Leiva, BRA, M, 1.79, 78, 09-01-87, Dourados, Liverpool
+7, Valon Berisha, KVX, M, 1.75, 81, 07-02-93, Malmö, Red Bull Salzburg
+8, Dušan Basta, SRB, D, 1.83, 72, 18-08-84, Belgrade, Crvena Zvezda
+10, Luis Alberto, ESP, M, 1.83, 74, 28-09-92, Jerez de la Frontera, Liverpool
+11, Joaquín Correa, ARG, M, 1.89, 76, 13-08-94, Juan Bautista Alberdi, Sevilla
+13, Wallace, BRA, D, 1.91, 85, 14-10-94, Rio de Janeiro, Sporting Braga
+14, Riza Durmisi, DEN, D, 1.68, 67, 08-01-94, Copenhagen, Betis
+15, Bastos, ANG, D, 1.80, 77, 23-11-91, Luanda, FC Rostov
+16, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Parma
+17, Ciro Immobile, ITA, F, 1.85, 85, 20-02-90, Torre Annunziata, Sevilla
+19, Senad Lulić, BIH, M, 1.83, 78, 18-01-86, Mostar, Young Boys
+20, Felipe Caicedo, ECU, F, 1.83, 82, 05-09-88, Guayaquil, Espanyol
+21, Sergej Milinković-Savić, SRB, M, 1.91, 76, 27-02-95, Lleida, KRC Genk
+23, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, None
+24, Silvio Proto, BEL, G, 1.84, 74, 23-05-83, Charleroi, Olympiakos
+25, Milan Badelj, CRO, M, 1.86, 80, 25-02-89, Zagreb, Fiorentina
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+27, Rômulo, BRA, M, 1.78, 72, 22-05-87, Pelotas, Genoa
+28, Sergio Kalaj, ALB, D, 1.93, 78, 28-01-00, Marino, Savio
+30, Pedro Neto, POR, F, 1.72, 62, 09-03-00, Viana do Castelo, Sporting Braga
+32, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+33, Francesco Acerbi, ITA, D, 1.92, 89, 10-02-88, Vizzolo Predabissi, Sassuolo
+49, Jorge Silva, POR, D, 1.85, 74, 04-02-99, Rio Tinto, Benfica
+50, Marco Alia, ALB, G, 1.93, 80, 26-04-00, Albano Laziale, None
+58, Nicolò Armini, ITA, D, 1.85, 77, 07-03-01, Marino, None
+66, Bruno Jordão, POR, M, 1.80, 73, 12-10-98, Marinha Grande, Sporting Braga
+71, Luan Capanni, BRA, M, 1.89, 81, 20-05-00, São Paulo, Flamengo
+77, Adam Marušić, SRB, M, 1.85, 85, 17-10-92, Belgrade, Oostende
+90, Alessio Furlanetto, ITA, G, 1.91, 79, 07-02-02, Motta di Livenza, None
+98, Mauro Zitelli, ITA, D, , , 12-04-00, Genzano di Roma, Fiorentina
+99, Abukar Mohamed, FIN, M, 1.86, 80, 01-01-99, Mogadishu, TPS Turku
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Marius Adamonis, LTU, G, 1.87, 80, 13-05-97, Panevėžys, Casertana (On Loan)
+87, Cristiano Lombardi, ITA, F, 1.80, 70, 19-08-95, Viterbo, Venezia (On Loan)
+9, Alessandro Rossi, ITA, F, 1.84, 77, 03-01-97, Rome, Venezia (On Loan)
+28, Joseph Marie Minala, CMR, M, 1.84, 84, 24-08-96, Yaoundé, Salernitana (On Loan)
+22, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Juventus (On Loan)
+96, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, SPAL (On Loan)
+48, Lorenzo Filippini, ITA, D, 1.83, 77, 28-07-95, Rome, Cavese (On Loan)

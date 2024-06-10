@@ -1,0 +1,21 @@
+# Italian Serie A 1999/00
+
+18 teams
+- [Bari](bari.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Piacenza](piacenza.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Venezia](venezia.txt)
+- [Verona](verona.txt)

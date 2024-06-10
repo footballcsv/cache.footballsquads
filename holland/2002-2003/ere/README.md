@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2002/03
+
+18 teams
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [De Graafschap](degraaf.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [NAC Breda](nacbreda.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [RBC Roosendaal](rbcroos.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Roda JC](rodajc.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse Arnhem](vitesse.txt)
+- [Willem II](willem.txt)
+- [FC Zwolle](zwolle.txt)

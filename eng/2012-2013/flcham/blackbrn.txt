@@ -1,0 +1,63 @@
+=  Blackburn Rovers - English Football League Championship 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Robinson, ENG, G, 1.93, 90, 15-10-79, Beverley, Tottenham H
+2, Bradley Orr, ENG, D, 1.83, 75, 01-11-82, Liverpool, QPR
+3, Martin Olsson, SWE, D, 1.78, 81, 17-05-88, Gävle, Högaborgs BK
+4, Henrique, POR, D, 1.86, 75, 19-10-86, Fafe, Académica
+5, Gaël Givet, FRA, D, 1.81, 75, 09-10-81, Arles, Marseille
+6, Jason Lowe, ENG, M, 1.83, 80, 02-09-91, Wigan, None
+7, Fábio Nunes, POR, M, 1.76, 75, 24-07-92, Portimão, Portimonense
+8, David Dunn, ENG, M, 1.75, 78, 27-12-79, Blackburn, Birmingham C
+9, Leon Best, IRL, F, 1.85, 76, 19-09-86, Nottingham, Newcastle U
+10, DJ Campbell, ENG, F, 1.78, 72, 12-11-81, London, QPR
+11, Jordan Rhodes, SCO, F, 1.85, 71, 05-02-90, Oldham, Huddersfield T
+12, Morten Gamst Pedersen, NOR, M, 1.83, 74, 08-09-81, Vadsø, Tromsø
+13, Danny Murphy, ENG, M, 1.75, 69, 18-03-77, Chester, Fulham
+14, Marcus Olsson, SWE, M, 1.80, 68, 17-05-88, Gävle, Halmstads BK
+15, Joshua King, NOR, F, 1.80, 74, 15-01-92, Oslo, Manchester U
+16, Scott Dann, ENG, D, 1.88, 76, 14-02-87, Liverpool, Birmingham C
+17, Lee Williamson, JAM, M, 1.78, 65, 07-06-82, Derby, Portsmouth
+18, Dickson Etuhu, NGA, M, 1.88, 83, 08-06-82, Kano, Fulham
+19, Todd Kane, ENG, D, 1.80, 70, 17-09-93, Huntingdon, Chelsea
+20, Jordan Slew, ENG, F, 1.90, 81, 07-09-92, Sheffield, Sheffield U
+21, Nuno Gomes, POR, F, 1.81, 74, 05-07-76, Amarante, Sporting Braga
+22, Anton Forrester, ENG, F, 1.83, 76, 11-02-94, Liverpool, Everton
+23, Karim Rekik, NED, D, 1.83, 76, 02-12-94, Den Haag, Manchester C
+24, Josh Morris, ENG, D, 1.80, 70, 30-09-91, Preston, None
+25, David Goodwillie, SCO, F, 1.75, 71, 28-03-89, Stirling, Dundee U
+26, Raheem Hanley, ENG, D, 1.73, 70, 24-03-94, Blackburn, Manchester U
+27, Adam Henley, WAL, D, 1.78, 77, 14-06-94, Knoxville, None
+29, Grzegorz Sandomierski, POL, G, 1.96, 87, 05-09-89, Białystok, KRC Genk
+30, Sebastian Usai, AUS, G, 1.90, 84, 28-02-90, Brisbane, North Queensland Fury
+31, Grant Hanley, SCO, D, 1.88, 76, 20-11-91, Dumfries, None
+32, Cameron Stewart, ENG, M, 1.72, 72, 08-04-91, Manchester, Hull C
+34, Jake Kean, ENG, G, 1.93, 76, 04-02-91, Derby, Derby Co
+35, David Bentley, ENG, M, 1.75, 68, 27-08-84, Peterborough, Tottenham H
+36, David Jones, ENG, M, 1.85, 80, 04-11-84, Southport, Wigan Ath
+37, Robbie Cotton, ENG, M, 1.80, 70, 15-09-94, Rotherham, None
+39, Colin Kazim-Richards, TUR, F, 1.85, 68, 26-08-86, Leyton, Galatasaray
+40, Hugo Fernández, ESP, D, , , 13-01-94, Terrassa, Cornella
+41, Tim Payne, NZL, F, 1.79, 72, 10-01-94, Auckland, Waitakere U
+42, Kellen Daly, ENG, D, , , 17-01-95, , Liverpool
+43, Ryan Edwards, ENG, D, 1.80, 82, 07-10-93, Liverpool, None
+44, John O'Sullivan, IRL, M, 1.82, 83, 18-09-93, Dublin, None
+45, Matt Urwin, ENG, G, 1.85, 76, 28-11-93, Blackpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Radosav Petrović, SRB, M, 1.93, 83, 08-03-89, Ub, Gençlerbirliği
+22, Mark Bunn, ENG, G, 1.83, 77, 16-11-84, Southgate, Norwich C
+15, Steven N'Zonzi, FRA, M, 1.90, 75, 15-12-88, Colombes, Stoke C
+35, Myles Anderson, ENG, D, 1.83, 80, 09-01-90, Westminster, Exeter C
+32, Bruno Ribeiro, BRA, D, 1.71, 67, 01-04-83, São Paulo, Linense (On Loan)
+28, Anthony O'Connor, IRL, D, 1.88, 80, 25-10-92, Cork, Burton Alb (On Loan)
+10, Mauro Formica, ARG, M, 1.76, 64, 04-04-88, Rosario, Palermo (On Loan)
+33, Simon Vukčević, MNE, M, 1.79, 77, 29-01-86, Podgorica, Karpaty Lviv
+23, Rubén Rochina, ESP, F, 1.81, 70, 23-03-91, Sagunto, Zaragoza (On Loan)
+36, Amine Linganzi, ALG, M, 1.86, 81, 16-11-89, Algiers, Accrington Stanley
+38, Diogo Rosado, POR, M, 1.85, 74, 21-02-90, Peniche, Benfica (On Loan)
+17, Paulo Jorge, POR, M, 1.79, 71, 18-01-93, São Paio de Merelim, Beroe Stara Zagora (On Loan)
+22, Todd Kane, ENG, D, 1.80, 70, 17-09-93, Huntingdon, Chelsea
+19, Edinho Júnior, POR, F, 1.80, 75, 07-03-94, Faro, Shillong Lajong (On Loan)

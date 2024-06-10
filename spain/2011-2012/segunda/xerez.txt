@@ -1,0 +1,40 @@
+=  Xerez - Spanish Segunda Divisón A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chema, ESP, G, 1.87, 85, 25-04-80, Orihuela, Alicante
+2, Alejandro Campano, ESP, M, 1.78, 67, 29-12-78, Seville, FC Vaslui
+3, Jesús Mendoza, ESP, D, 1.75, 71, 23-02-77, Jerez de la Frontera, Portuense
+4, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Valencia B
+5, Rafa Barber, ESP, M, 1.83, 77, 02-10-80, Aielo de Marferit, Recreativo Huelva
+6, Bruno, ESP, M, 1.76, 74, 13-02-85, Jerez de la Frontera, Murcia
+7, Tato, ESP, F, 1.79, 77, 12-07-83, Murcia, Albacete
+8, Miguel Ángel Cordero, ESP, M, 1.79, 72, 10-09-87, Lebrija, Real Madrid B
+9, Iñigo Vélez, ESP, F, 1.93, 82, 15-03-82, Vitoria, Numancia
+10, Francisco José Maldonado, ESP, M, 1.75, 76, 02-06-81, San Fernando, Cartagena
+11, José Vega, ESP, M, 1.76, 71, 10-04-81, Jerez de la Frontera, Córdoba
+12, Rafa García, ESP, M, 1.88, 84, 14-01-86, Ciudad Real, Rayo Vallecano
+13, Toni, ESP, G, 1.90, 74, 15-02-88, Jerez de la Frontera, Xerez B
+14, Capi, ESP, M, 1.78, 72, 26-03-77, Capas, Betis
+15, Israel, ESP, M, 1.72, 66, 16-03-87, Utrera, Betis
+16, Gerard, ESP, D, 1.86, 72, 08-10-78, Manlleu, Sporting Gijón
+17, José Manuel Rueda, ESP, M, 1.75, 72, 30-01-88, Linares, Omonia Nicosia
+18, Pablo Redondo, ESP, M, 1.83, 68, 17-04-82, Valencia, Nàstic
+19, Capdevila, ESP, M, 1.80, 72, 12-02-81, Zaragoza, Murcia
+20, Raúl Cámara, ESP, M, 1.71, 64, 28-02-84, Madrid, Recreativo Huelva
+21, Juanito, ESP, D, 1.83, 75, 12-05-88, Torredonjimeno, Betis B
+22, Miquel Robusté, ESP, D, 1.85, 80, 20-05-85, Vilassar de Mar, Levante
+23, José Mari, ESP, F, 1.83, 74, 10-12-78, Seville, Nàstic
+25, Antonio Doblas, ESP, G, 1.84, 78, 05-08-80, Seville, Zaragoza
+27, Joaqui, ESP, D, 1.78, 74, 31-05-91, Chipiona, Xerez B
+28, José Carlos, ESP, D, 1.91, 81, 24-05-89, Seville, Xerez B
+30, Javi Iglesias, ESP, D, 1.72, 62, 21-02-92, Arcos, Xerez B
+31, Kike Lobato, ESP, M, 1.72, 66, 28-04-90, Jerez de la Frontera, Xerez B
+32, Iván Jiménez, ESP, G, 1.84, 86, 19-01-90, Jerez de la Frontera, Xerez B
+37, Juanito Benítez, ESP, F, 1.78, 73, 10-03-90, Jerez de la Frontera, Xerez B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Raúl Llorente, ESP, D, 1.71, 67, 02-04-86, Madrid, Tenerife
+10, Óscar Díaz, ESP, F, 1.85, 76, 24-04-84, Madrid, Girona
+24, Álvaro Silva, ESP, D, 1.87, 80, 30-03-84, Jaén, Petrolul Ploieşti (On Loan)

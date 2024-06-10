@@ -1,0 +1,54 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+, Flávio, BRA, G, 1.91, 79, 05-03-85, Teófilo Otoni, None
+, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, None
+, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+, Claudio Caçapa, BRA, D, 1.84, 77, 29-05-76, Lavras, Newcastle U
+, Diego Renan, BRA, D, 1.72, 71, 26-01-90, Surubim, None
+, Edcarlos, BRA, D, 1.85, 76, 10-05-85, Salvador, Cruz Azul
+, Gil, BRA, D, 1.90, 89, 12-06-87, Campos dos Goytacazes, Atlético Goianiense
+, Gilberto, BRA, D, 1.80, 78, 25-04-76, Rio de Janeiro, Tottenham H
+, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, None
+, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+, Leonardo Silva, BRA, D, 1.92, 80, 22-06-79, Rio de Janeiro, Palmeiras
+, Pablo, BRA, D, 1.90, 83, 03-08-89, São João Nepomuceno, Zaragoza
+, Rômulo, BRA, D, 1.78, 72, 22-05-87, Pelotas, Santo André
+, Elicarlos, BRA, M, 1.76, 73, 08-06-85, Laranjeiras, Náutico
+, Éverton, BRA, M, 1.71, 65, 08-08-84, Maranguape, Fluminense
+, Fabinho, BRA, M, 1.86, 72, 10-01-80, São Bernardo do Campo, Toulouse
+, Fabrício, BRA, M, 1.78, 76, 05-07-82, Imbituba, Júbilo Iwata
+, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Júbilo Iwata
+, Marquinhos Paraná, BRA, M, 1.74, 71, 20-07-77, Recife, Júbilo Iwata
+, Wálter Montillo, ARG, M, 1.71, 69, 14-04-84, Villa Modelo, Universidad de Chile
+, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Coritiba
+, Sebastián Prediguer, ARG, M, 1.84, 80, 04-09-86, Crespo, FC Porto
+, Roger, BRA, M, 1.70, 69, 17-08-78, Rio de Janeiro, Qatar SC
+, Ernesto Farías, ARG, F, 1.78, 79, 29-05-80, Trenque Lauquen, FC Porto
+, Robert, BRA, F, 1.84, 79, 27-02-81, Salvador, Monterrey
+, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Al-Rayyan
+, Wallyson, BRA, F, 1.78, 65, 17-10-88, Natal, Deportivo Maldonado
+, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Marcos, BRA, D, 1.76, 70, 24-07-89, Souto Soares, Avaí (On Loan)
+, Fábio Santos, BRA, M, 1.82, 75, 09-10-80, Campina Grande, Retired
+, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, Goiás (On Loan)
+, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Palmeiras
+, Soares, BRA, F, 1.75, 68, 16-05-85, Manaus, Junior Team Futebol
+, Fernandinho, BRA, D, 1.72, 73, 16-04-81, Ilhéus, Atlético Mineiro
+, Léo Fortunato, BRA, D, 1.84, 83, 14-03-83, Rio de Janeiro, Sporting Braga (On Loan)
+, Joffre Guerrón, ECU, M, 1.74, 74, 28-04-85, Ambuqui, Getafe
+, Leandro Lima, BRA, M, 1.69, 63, 09-11-85, Fortaleza, FC Porto
+, Magalhães, BRA, M, 1.79, 71, 20-08-89, Belo Horizonte, 
+, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Ceará (On Loan)
+, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+, Eliandro, BRA, F, 1.76, 74, 23-04-90, Matão, Sport Recife (On Loan)
+, Kieza, BRA, F, 1.80, 71, 24-09-86, Vitória, Ponte Preta (On Loan)
+, Thiago Regis, BRA, G, 1.84, 83, 27-09-91, Nova Serrana, Nacional-MG (On Loan)
+, Jones, BRA, F, 1.77, 74, 14-10-88, Caratinga, Deportivo Maldonado
+, Luizão, BRA, D, 1.84, 79, 03-01-87, Vargem Alta, Bahia (On Loan)
+, Wellington, BRA, D, 1.87, 78, 09-01-89, Cuiabá, Atlético Goianiense (On Loan)

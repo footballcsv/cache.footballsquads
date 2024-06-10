@@ -1,0 +1,50 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+2, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Grêmio
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+5, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Vélez Sarsfield
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Palmeiras
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Atlético Mineiro
+10, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Al-Jazira
+11, David, BRA, F, 1.79, 71, 17-10-95, Vitória, Vitória
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+14, Cacá, BRA, D, 1.85, 80, 25-04-99, Visconde do Rio Branco, None
+15, Éderson, BRA, M, 1.83, 86, 07-07-99, Campo Grande, None
+17, Ezequiel, BRA, F, 1.67, 64, 09-03-98, Rio de Janeiro, Botafogo
+18, Dodô, BRA, D, 1.77, 75, 06-02-92, Campinas, Sampdoria
+19, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Palmeiras
+20, Marquinhos, BRA, M, 1.74, 69, 21-07-90, Selbach, Corinthians
+23, Rodriguinho, BRA, M, 1.80, 73, 27-03-88, Natal, Pyramids FC
+25, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, None
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+27, Jádson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Fluminense
+28, Luis Manuel Orejuela, COL, D, 1.79, 70, 20-08-95, Cali, Ajax
+30, Vinícius Popó, BRA, F, 1.79, 70, 25-02-01, São José do Rio Preto, None
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+35, Adriano, BRA, M, 1.87, 80, 04-11-99, Rio de Janeiro, Resende
+36, Rafael Santos, BRA, D, 1.80, 78, 05-02-98, Curitiba, Mirassol
+37, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Londrina
+38, Marlon, BRA, G, 1.96, 88, 06-01-00, Ituiutaba, None
+39, Vitor Eudes, BRA, G, 1.95, 85, 21-10-98, Belo Horizonte, None
+40, Vinícius, BRA, G, 1.88, 80, 16-04-99, Lages, Criciúma
+41, Maurício, BRA, M, 1.74, 70, 22-06-01, São Paulo, None
+42, Weverton, BRA, D, 1.81, 74, 15-06-99, Maceió, Figueirense
+43, Edu, BRA, D, 1.84, 80, 16-06-00, Belo Horizonte, None
+44, Jonathan Monteiro, BRA, D, , , 18-01-00, Rio de Janeiro, None
+45, Rômulo, BRA, M, , , 01-03-00, Campo Grande, None
+47, Marco Antônio, BRA, M, 1.82, 75, 15-07-00, , None
+48, Jadsom, BRA, M, 1.73, 70, 20-05-01, Recife, Sport Recife
+49, Welinton, BRA, F, 1.85, 80, 30-06-99, Taguaí, None
+99, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Rafinha, BRA, M, 1.67, 61, 04-08-83, Guarulhos, Coritiba
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Real Madrid
+4, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Lokomotiv Moscow
+17, Raniel, BRA, F, 1.81, 76, 11-06-96, Recife, São Paulo
+29, Lucas Romero, ARG, M, 1.72, 67, 18-04-94, Loma Hermosa, Independiente

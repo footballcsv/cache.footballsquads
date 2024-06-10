@@ -1,0 +1,49 @@
+=  Elazığspor - Turkish Süper Lig 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanja Iveša, CRO, G, 2.05, 97, 21-07-77, Pula, Eskişehirspor
+2, Deniz Aslan, TUR, D, 1.70, 67, 09-02-89, Zaandam, Antalyaspor
+3, Mehmet Aykurt, TUR, D, 1.84, 80, 19-09-92, Elazığ, None
+4, Ognjen Vranješ, BIH, D, 1.88, 82, 24-10-89, Banja Luka, Alania Vladikavkaz
+5, İbrahim Kaş, TUR, D, 1.83, 79, 20-09-86, Karabük, Bursaspor
+6, Mehmet Nas, TUR, M, 1.69, 72, 20-11-79, Kelkit, Sivasspor
+7, Marvin Zeegelaar, NED, M, 1.86, 84, 12-08-90, Amsterdam, Espanyol B
+8, Tidiane Sané, SEN, M, 1.78, 79, 10-07-85, Thiès, Randers
+10, Serdar Gürler, TUR, F, 1.73, 72, 14-09-91, Haguenau, Sochaux
+16, Erol Alkan, TUR, D, 1.90, 85, 16-02-94, Amsterdam, İstanbul BB
+18, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Mainz
+19, Noyan Öz, TUR, F, 1.79, 71, 13-09-91, Frankfurt am Main, Eintracht Frankfurt II
+21, Serdar Özkan, TUR, M, 1.77, 65, 01-01-87, Düzce, Şanlıurfaspor
+23, Mirsat Budak, TUR, G, , , 09-04-89, Elazığ, Elazığ Yolspor
+24, Muhammed Ali Doğan, TUR, M, 1.80, 70, 10-08-95, Oberhausen, Wattenscheid
+25, Tanju Kayhan, AUT, D, 1.72, 74, 22-07-89, Vienna, Beşiktaş
+27, Pape Habib Sow, SEN, D, 1.80, 76, 02-12-85, Dakar, Panathinaikos
+32, Onur Ayık, TUR, F, 1.80, 77, 28-01-90, Walsrode, Oberneuland
+33, Franco Cángele, ARG, F, 1.78, 76, 16-07-84, Franco Madero, Boca Juniors
+35, Batuhan Karadeniz, TUR, F, 1.90, 75, 24-04-91, Istanbul, Trabzonspor
+41, Rodrigo Tello, CHI, M, 1.67, 70, 14-10-79, Santiago, Eskişehirspor
+46, Ali Gökdemir, AZE, D, 1.84, 82, 17-09-91, Schwäbisch Hall, Hannover 96
+58, Fábio Bilica, BRA, D, 1.87, 80, 04-01-79, Campina Grande, Fenerbahçe
+61, Çağlar Birinci, TUR, D, 1.80, 73, 02-10-85, Trabzon, Galatasaray
+68, Hakan Söyler, TUR, M, 1.79, 79, 06-04-83, Ankara, Karabükspor
+71, Mustafa Güner, TUR, D, , , 15-10-91, Çermik, Elazığ Yolspor
+77, Muhammet Akyıldız, TUR, F, , , 01-09-95, Elaziğ, None
+81, Umut Utku Tekoğlu, TUR, M, , , 25-08-93, Elaziğ, None
+88, Özgür Özkaya, TUR, D, 1.77, 68, 08-02-88, Istanbul, Beşiktaş
+91, Mücahit Atalay, TUR, G, 1.86, 74, 26-10-91, Trabzon, Trabzonspor
+95, Yunus Gül, TUR, M, , , 02-02-95, Kovancılar, None
+99, Zülküf Özer, TUR, G, 1.88, 80, 10-05-88, Diyarbakır, Adanaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Roland Alberg, NED, M, 1.80, 72, 06-08-90, Hoorn, ADO Den Haag
+20, Aydın Karabulut, TUR, M, 1.78, 70, 25-01-88, Berlin, Sivasspor
+34, Volkan Yılmaz, TUR, M, 1.71, 67, 01-09-87, Bakirköy, Ankaragücü
+48, Alper Kalemci, TUR, M, 1.80, 74, 22-07-91, Muğla, Göztepe
+22, Adem Alkaşi, TUR, D, 1.82, 79, 14-04-84, Istanbul, Boluspor
+14, Ahmet Görkem Görk, TUR, D, 1.93, 85, 30-06-83, Istanbul, Rizespor
+11, Köksal Yedek, TUR, F, 1.80, 73, 17-01-85, Nevşehir, Antalyaspor
+15, Youssouf Hadji, MAR, M, 1.83, 78, 25-02-80, Ifrane, 
+40, Vitolo, ESP, M, 1.72, 66, 09-09-83, Santa Cruz de Tenerife, 
+28, Luke Moore, ENG, F, 1.80, 76, 13-02-86, Birmingham, Chivas USA

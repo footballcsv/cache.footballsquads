@@ -1,0 +1,36 @@
+=  Oviedo - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Esteban, ESP, G, 1.77, 70, 27-06-75, Avilés, Almería
+2, Diegui Johánnesson, ISL, D, 1.78, 71, 03-10-93, Villaviciosa, Oviedo B
+3, Francisco Varela, ESP, D, 1.74, 68, 26-10-94, Atarfe, Betis
+4, Jonathan Vila, ESP, M, 1.86, 78, 06-03-86, Porriño, Celta Vigo
+5, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Guadalajara [ESP]
+6, Ion Erice, ESP, M, 1.76, 70, 03-11-86, Pamplona, Guadalajara [ESP]
+7, Néstor Susaeta, ESP, M, 1.77, 74, 11-12-84, Eibar, Guadalajara [ESP]
+8, Michu, ESP, M, 1.85, 80, 21-03-86, Oviedo, Langreo
+9, Toché, ESP, F, 1.82, 78, 01-01-83, Murcia, Deportivo La Coruña
+10, Miguel Linares, ESP, F, 1.81, 72, 30-09-82, Zaragoza, Recreativo Huelva
+11, Jonathan Pereira, ESP, F, 1.66, 61, 12-05-87, Vigo, Lugo
+12, Héctor Nespral, ESP, M, , , 08-02-93, Oviedo, Oviedo B
+13, Juan Carlos, ESP, G, 1.80, 78, 27-07-87, Calvià, Albacete
+14, Héctor Verdés, ESP, D, 1.86, 80, 24-06-84, Villar del Arzobispo, Alcorcón
+15, Lucas Torró, ESP, M, 1.88, 79, 19-07-94, Concentaina, Real Madrid B
+16, Jorge Ortiz, ESP, M, 1.73, 66, 25-04-92, Villacañas, Fuenlabrada
+17, José Manuel Fernández, ESP, D, 1.68, 66, 18-11-89, Córdoba, Zaragoza
+18, Christian, ESP, D, 1.82, 77, 15-10-85, Santander, Las Palmas
+19, David Costas, ESP, D, 1.82, 73, 26-03-95, Vigo, Celta Vigo
+20, David Rocha, ESP, M, 1.79, 77, 07-02-85, Cáceres, Houston Dynamo
+21, Saúl, ESP, F, 1.78, 83, 24-05-86, Oviedo, UNAM
+22, Nando, ESP, M, 1.76, 71, 13-06-94, Valencia, Valencia B
+23, Carlos de Pena, URU, M, 1.77, 74, 11-03-92, Montevideo, Middlesbrough
+24, Óscar Gil, ESP, M, 1.82, 73, 14-06-95, Peralta, Athletic Bilbao B
+25, Borja Domínguez, ESP, M, 1.87, 81, 30-05-92, Vigo, Córdoba
+26, Alfonso Herrero, ESP, G, 1.83, 83, 21-04-94, Toledo, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Carlos Peña, ESP, D, 1.81, 79, 28-07-83, Salamanca, Getafe
+21, Martín Alaníz, URU, M, 1.75, 67, 19-02-93, Melo, Villa Española
+23, Edu Bedia, ESP, M, 1.84, 74, 23-03-89, Santander, Zaragoza

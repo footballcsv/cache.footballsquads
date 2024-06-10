@@ -1,0 +1,64 @@
+=  Ascoli - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Lanni, ITA, G, 1.88, 77, 30-06-90, Alatri, Grosseto
+2, Ismaila Diop, SEN, D, 1.90, 85, 19-12-99, Dakar, None
+3, Giacomo Mataloni, ITA, D, , , 06-06-99, Sant'Omero, None
+4, Ivan De Santis, ITA, D, 1.84, 77, 21-05-97, Conversano, Milan
+5, Andrea Mengoni, ITA, D, 1.87, 91, 16-09-83, Rome, Barletta
+6, Tommaso Bianchi, ITA, M, 1.82, 78, 01-11-88, Piombino, Leeds U
+7, Raphael Martinho, BRA, M, 1.83, 73, 15-04-88, Campo Grande, Bari
+8, Gianluca Carpani, ITA, M, 1.82, 80, 29-08-93, Ascoli Piceno, Sambenedettese
+9, Lorenzo Rosseti, ITA, F, 1.88, 74, 05-08-94, Arezzo, Juventus
+10, Ignacio Lores Varela, URU, F, 1.82, 73, 26-04-91, Montevideo, Pisa
+11, Gianmarco De Feo, ITA, F, 1.72, 66, 02-06-94, Eboli, Siena
+12, Vincenzo Venditti, ITA, G, 1.90, 82, 23-06-97, Avezzano, Perugia
+13, Guillaume Gigliotti, FRA, D, 1.80, 72, 09-11-89, Istres, Foggia
+14, Vasile Mogos, ROU, D, 1.85, 84, 31-10-92, Vaslui, Reggiana
+15, Nicolò Clerici, ITA, M, , , 29-09-99, Ascoli Piceno, None
+16, Alessandro De Angelis, ITA, M, 1.78, 74, 04-03-98, Ascoli Piceno, None
+17, Edoardo Tassi, ITA, F, 1.84, 77, 10-06-98, Ascoli Piceno, Virtus Lanciano
+18, Samuele Parlati, ITA, M, 1.74, 70, 05-02-97, Gallipoli, Lecce
+19, Bright Addae, GHA, M, 1.84, 87, 19-12-92, Accra, Parma
+20, Daniele Buzzegoli, ITA, M, 1.79, 72, 07-05-83, Florence, Benevento
+21, Fabio Castellano, ITA, M, 1.83, 77, 14-03-98, Milan, Atalanta
+22, Michael Agazzi, ITA, G, 1.91, 86, 03-07-84, Ponte San Pietro, Alessandria
+23, Simone Ganz, ITA, F, 1.75, 67, 21-09-93, Genoa, Pescara
+24, Emanuele Padella, ITA, D, 1.85, 74, 24-09-88, Rome, Benevento
+25, Filippo Florio, ITA, M, 1.80, 70, 23-04-96, Naples, Ischia
+26, Giovanni Pinto, ITA, D, 1.82, 76, 19-09-91, Martina Franca, Parma
+27, Luca Clemenza, ITA, M, 1.75, 77, 09-07-97, Cittiglio, Juventus
+28, Christian D'Urso, ITA, M, 1.78, 70, 26-07-97, Rieti, Roma
+29, Enrico Baldini, ITA, F, 1.78, 70, 13-11-96, Massa, Internazionale
+30, Andrea Favilli, ITA, F, 1.90, 85, 17-05-97, Pisa, Livorno
+31, Matteo Perri, ITA, D, 1.80, 73, 06-10-98, Rome, Sampdoria
+32, Franck Kanouté, SEN, M, 1.86, 78, 13-12-98, , Pescara
+33, Daniele Mignanelli, ITA, D, 1.79, 73, 10-05-93, Cantù, Pescara
+34, Nicolò Cherubin, ITA, D, 1.88, 80, 02-12-86, Vicenza, Verona
+35, Edoardo Baraboglia, ITA, D, , , 08-02-99, Macerata, Maceratese
+36, Manuel Ricciardi, ITA, D, , , 17-04-00, Rome, Sansa
+37, Antonio Tarquini, ITA, D, , , 10-04-99, Sant'Omero, Alba Adriatica
+38, Simone Ubaldi, ITA, M, , , 03-05-00, Ancona, None
+39, Danilo Giacinto Ventola, ITA, F, 1.85, 78, 11-09-00, Brindisi, Bari
+40, Andrea Zimbardi, ITA, F, , , 04-01-00, Latina, Carso
+41, Andrea Capponi, ITA, M, , , 15-03-00, Macerata, None
+42, Mattia D'Agostino, ITA, F, 1.83, , 12-05-00, Avezzano, L'Aquila
+43, Daniel Da Col, ITA, D, 1.83, , 12-09-00, Conegliano, None
+44, Christian Scorza, ITA, M, 1.93, 81, 14-07-00, Ascoli Piceno, None
+45, Gaetano Monachello, ITA, F, 1.85, 80, 03-03-94, Agrigento, Atalanta
+46, Francesco Colantonio, ITA, G, , , 21-07-00, Pescara, None
+47, Riccardo Novi, ITA, G, 1.87, 83, 18-07-00, Ascoli Piceno, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Andrea D'Egidio, ITA, G, 1.86, 79, 30-06-96, Sant'Omero, Südtirol (On Loan)
+16, Manuel Manari, ITA, M, 1.75, 70, 13-08-97, Paolantonio, Gubbio (On Loan)
+17, Luigi Giorgi, ITA, M, 1.85, 75, 19-04-87, Ascoli Piceno, Spezia
+21, Daniele Cacia, ITA, F, 1.82, 74, 23-08-83, Catanzaro, Cesena
+26, Sulayman Jallow, GAM, F, 1.85, 74, 30-11-96, , Gubbio (On Loan)
+23, Davide Cinaglia, ITA, D, 1.83, 75, 10-04-94, Rome, Cremonese
+15, Leonardo Pérez, ITA, F, 1.87, 86, 27-09-89, Mesagne, Cosenza
+7, Claudio Santini, ITA, F, 1.78, 73, 12-02-92, Bagno a Ripoli, Siena (On Loan)
+32, Riccardo Ragni, ITA, G, 1.86, 80, 31-07-91, Sant'Omero, Alessandria
+34, Davide Di Francesco, ITA, F, 1.72, , 19-01-01, Sant'Omero, Juventus (On Loan)

@@ -1,0 +1,51 @@
+=  Vicenza - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Bremec, ESP, G, 1.88, 85, 17-12-77, Barcelona, Cremonese
+2, Jesse Edge, NZL, D, 1.81, 80, 26-02-95, Tauranga, Ole Football Academy
+3, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Juventus
+4, Federico Moretti, ITA, M, 1.87, 76, 28-10-88, Genoa, Catania
+5, Luigi Rizzo, ITA, D, , , 24-02-97, Pompei, Juventus
+6, Moro Alhassan, GHA, M, 1.86, 88, 15-01-94, Accra, Genoa
+7, Nicolo' Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Chievo Verona
+8, Antonio Cinelli, ITA, M, 1.78, 72, 08-12-89, Rome, Lazio
+9, Mattia Cecconello, ITA, F, , , 07-05-97, Monselice, Padova
+10, Stefano Giacomelli, ITA, F, 1.65, 59, 30-04-90, Spoleto, Pescara
+11, Leonardo Spinazzola, ITA, F, 1.85, 73, 25-03-93, Foligno, Juventus
+12, Federico Serraiocco, ITA, G, 1.92, 89, 27-09-93, Pescara, Teramo
+13, Damir Bartulovič, SVN, F, 1.85, 78, 22-02-96, Koper, None
+14, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Juventus
+15, Mattia Filippi, ITA, F, 1.80, 75, 09-05-93, Cesena, Cesena
+16, Alessio Vita, ITA, M, 1.78, 67, 16-03-93, Rome, Sassuolo
+17, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Sassuolo
+18, Fabio Sciacca, ITA, M, 1.84, 75, 16-05-89, Catania, Catania
+19, Andrea Cocco, ITA, F, 1.88, 82, 08-04-86, Cagliari, Verona
+20, Giovanni Sbrissa, ITA, M, 1.85, 79, 25-09-96, Castelfranco Veneto, None
+21, Davide Di Gennaro, ITA, M, 1.80, 72, 16-06-88, Milan, Palermo
+22, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Macomer, Venezia
+23, Matteo Gentili, ITA, D, 1.88, 87, 21-08-89, Viareggio, Reggina
+24, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Milan
+25, Saverio Camilli, ITA, M, 1.70, 66, 02-09-95, Spoleto, Novara
+26, Alessandro Camisa, ITA, D, 1.80, 80, 13-04-85, San Cesario, Varese
+27, Lorenzo Laverone, ITA, D, 1.75, 67, 19-04-89, Bagno a Ripoli, Varese
+28, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Catania, Genoa
+29, Mohamed Be Coulibaly, CIV, M, , , 18-12-97, Abidjan, Seano
+31, Mario Sampirisi, ITA, D, 1.88, 83, 31-10-92, Caltagirone, Genoa
+33, Paolo Truant, ITA, G, 1.86, 82, 15-12-94, San Vito al Tagliamento, Pordenone
+34, Andrea Mancini, ITA, F, 1.80, 70, 26-04-96, Pescara, Pescara
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Jefferson, BRA, D, 1.93, 85, 25-02-90, São Paulo, Juve Stabia (On Loan)
+4, Giampaolo Calzi, ITA, M, 1.82, 74, 09-09-85, Varese, Savoia
+17, Niko Bianconi, ITA, F, 1.80, 77, 10-10-91, Città di Castello, Savona (On Loan)
+24, Francesco Urso, ITA, M, 1.75, 73, 09-06-94, Fano, Prato (On Loan)
+16, Matteo Gerbaudo, ITA, M, 1.80, 75, 10-05-95, Moncalieri, Juventus
+12, Andrea Cappa, ITA, G, 1.83, 80, 21-02-93, Rome, Teramo (On Loan)
+30, Gennaro Tutino, ITA, F, 1.77, 69, 20-08-96, Naples, Napoli
+32, Giuseppe Figliomeni, ITA, D, 1.90, 82, 02-06-87, Reggio Calabria, Latina
+11, Srdjan Spiridonović, AUT, F, 1.72, 69, 13-10-93, Vienna, Messina (On Loan)
+5, Oualid El Hasni, FRA, D, 1.92, 82, 09-08-93, Cannes, Monza (On Loan)
+9, Piergiuseppe Maritato, ITA, F, 1.80, 70, 19-03-89, Cetraro, Como (On Loan)
+29, Ignacio Lores Varela, URU, M, 1.82, 73, 26-04-91, Montevideo, Palermo

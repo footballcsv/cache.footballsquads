@@ -1,0 +1,23 @@
+# Italian Serie A 2012/13
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Catania](catania.txt)
+- [Chievo Verona](cverona.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Pescara](pescara.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Siena](siena.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)

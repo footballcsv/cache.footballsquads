@@ -1,0 +1,56 @@
+=  Tom Tomsk - Russian Football Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksei Botvinyev, RUS, G, 1.94, 92, 25-06-81, Kolomna, Saturn
+3, Valeriy Klimov, RUS, M, 1.88, 82, 31-01-74, Orel, Arsenal Tula
+4, Syarhey Sasnowski, BLR, D, 1.90, 80, 14-08-81, Minsk, BATE
+5, Syarhey Amelyanchuk, BLR, D, 1.78, 75, 08-08-80, Minsk, Terek Grozny
+7, Aleksey Rebko, RUS, M, 1.78, 65, 23-04-86, Moscow, FC Rostov
+8, Dmitriy Malyaka, RUS, M, 1.81, 74, 15-01-90, Omsk, MITOS Novocherkassk
+9, Igor Portnyagin, RUS, F, 1.90, 75, 07-01-89, Vladivostok, Rubin Kazan
+11, Alan Gatagov, RUS, D, 1.80, 71, 23-01-91, Vladikavkaz, Dynamo Moscow
+13, Ilya Gultyayev, RUS, D, 1.81, 76, 05-09-88, Vologda, Spartak Moscow
+15, Ruslan Nakhushev, RUS, D, 1.85, 79, 05-09-84, Nalchik, Lokomotiv Moscow
+17, Andrey Ivanov, RUS, D, 1.79, 75, 08-10-88, Moscow, Lokomotiv Moscow
+18, Petr Vašek, CZE, G, 1.89, 86, 09-04-79, Čeládná, Sibir Novosibirsk
+21, Denis Boyarintsev, RUS, M, 1.74, 71, 06-02-78, Moscow, Zhemchuzhina-Sochi
+22, Plamen Nikolov, BUL, D, 1.91, 78, 12-06-85, Pleven, Litex Lovech
+23, Evgeniy Balyaikin, RUS, M, 1.83, 74, 19-05-88, Bratsk, Rubin Kazan
+24, Dmitriy N. Smirnov, RUS, D, 1.87, 74, 09-11-80, Moscow, Luch-Energia
+25, Anton Khazov, RUS, F, 1.85, 80, 28-04-79, Nizhny Novgorod, Volga Nizhny Novgorod
+26, Viktor Stroyev, RUS, D, 1.78, 70, 16-01-87, Voronezh, Zenit St Petersburg
+32, Nikita Bazhenov, RUS, F, 1.79, 76, 01-02-85, Bolshoye Bunkovo, Spartak Moscow
+47, Aleksey Sazonov, RUS, M, 1.76, 72, 21-07-92, , Tom-2
+55, Ilie Cebanu, MDA, G, 1.89, 81, 29-12-86, Chişinău, Rubin Kazan
+61, Daniil Gavilovskiy, RUS, G, 1.97, 80, 21-03-90, , Tom-2
+62, Dmitriy Nikitinskiy, RUS, M, 1.80, 70, 09-02-92, Volokolamsk, Saturn
+67, Emin Makhmudov, RUS, M, 1.67, 67, 27-04-92, Lankaran, Spartak Moscow
+78, Kirill Pogrebnyak, RUS, F, 1.85, 80, 27-06-92, Moscow, Tom-2
+79, Yaroslav Ovsyannikov, RUS, D, 1.71, 62, 14-05-93, , Tom-2
+80, Evgeniy Chernov, RUS, M, 1.80, 73, 23-10-92, Tomsk, Tom-2
+86, Adrian Ropotan, ROU, M, 1.85, 75, 08-05-86, Galaţi, Dynamo Moscow
+90, Mikhail Filippov, RUS, G, 1.96, 90, 10-06-92, Volzhsky, Saturn-2
+91, Denis Voronov, RUS, D, 1.84, 72, 02-06-91, , Tom-2
+93, Mikhail Bashilov, RUS, M, 1.80, 73, 12-01-93, , Tom-2
+97, Dmitriy Tikhonov, RUS, M, 1.75, 68, 11-02-92, , Dynamo Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Anton Kozlov, RUS, M, 1.79, 76, 02-06-88, Bratsk, Baltika Kaliningrad
+11, Kyrylo Kovalchuk, UKR, M, 1.85, 73, 11-06-86, Odessa, Chornomorets Odessa (On Loan)
+18, Vladislav Khatazhenkov, RUS, D, 1.84, 79, 02-05-84, Moscow, Sibir Novosibirsk
+7, Evgeniy Starikov, USA, F, 1.72, 65, 17-11-88, Odessa, Zenit St Petersburg
+30, Sergey Pesyakov, RUS, G, 1.95, 85, 16-12-88, Ivanovo, Spartak Moscow
+88, Ivan Komissarov, RUS, G, 1.94, 82, 28-05-88, Moscow, Spartak Moscow
+99, Maksim Kanunnikov, RUS, F, 1.83, 74, 14-07-91, St. Petersburg, Zenit St Petersburg
+37, Djordje Jokić, SRB, D, 1.81, 81, 20-01-81, Raška, Dynamo Bryansk
+22, Ovidiu Dănănae, ROU, M, 1.80, 78, 26-08-85, Craiova, Steaua Bucureşti
+5, Sergey Skoblyakov, RUS, M, 1.64, 58, 02-01-77, Moscow, FC Khimki
+20, Yan Tsiharow, BLR, D, 1.82, 74, 10-03-84, Minsk, Lokomotiv Moscow
+9, Denis Laktionov, RUS, M, 1.80, 70, 04-09-77, Novosibirsk, 
+17, Pavel Golyshev, RUS, F, 1.76, 68, 07-07-87, Moscow, FC Krasnodar
+34, Renat Sabitov, RUS, D, 1.85, 81, 13-06-85, Moscow, Sibir Novosibirsk
+55, Kim Nam-Il, KOR, M, 1.82, 76, 14-03-77, Incheon, Incheon U
+83, Aleksandr Kharitonov, RUS, M, 1.80, 72, 04-04-83, Krasnoyarsk, Volga Nizhny Novgorod
+10, Evgeniy Savin, RUS, F, 1.87, 84, 19-04-84, Tobolsk, FC Ural

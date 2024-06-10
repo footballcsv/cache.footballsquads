@@ -1,0 +1,47 @@
+=  Quilmes - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, César Rigamonti, ARG, G, 1.86, 78, 07-04-87, San Agustín, Belgrano (Córdoba)
+2, Matías Sarulyte, ARG, D, 1.89, 83, 13-03-89, Colón, San Martín (San Juan)
+3, Eduardo Buruchaga, ARG, D, 1.78, 76, 29-09-88, Concordia, Central Norte (Salta)
+4, Ismael Benegas, PAR, D, 1.83, 76, 01-08-87, Zeballos Cué, Libertad
+5, Cristian Trombetta, ARG, M, 1.87, 79, 15-10-86, Rancúl, Sportivo Luqueño
+6, Sergio Escudero, ARG, D, 1.95, 82, 12-04-83, Punta Alta, Belgrano (Córdoba)
+7, Matías Orihuela, ARG, M, 1.77, 70, 17-02-92, Córdoba, Estudiantes (LP)
+8, Adrián Calello, ARG, M, 1.77, 74, 14-05-87, Quilmes, Catania
+9, Rodrigo Contreras, ARG, F, 1.75, 70, 27-10-95, San Miguel de Tucumán, San Lorenzo
+10, Federico Andrada, ARG, F, 1.79, 74, 03-03-94, Carapachay, River Plate
+11, Nicolás Benegas, ARG, F, 1.87, 78, 01-03-96, Eldorado, Boca Juniors
+12, Marcos Ledesma, ARG, G, 1.91, 80, 15-09-96, Río Cuarto, None
+13, Lucas Carrizo, ARG, M, 1.80, 71, 20-05-97, San Miguel de Tucumán, None
+14, Gaston Bottino, ARG, M, 1.84, 76, 25-06-86, Córdoba, Guillermo Brown (PM)
+15, Ignacio Bailone, ARG, F, 1.90, 80, 20-01-94, Rosario, Estudiantes (LP)
+16, Francesco Celeste, ARG, M, 1.77, 67, 03-05-94, Vicente López, Boca Juniors
+17, Juan Manuel Trejo, ARG, M, 1.73, 72, 12-01-92, San Miguel de Tucumán, Independiente
+18, Matías Escobar, ARG, D, 1.81, 81, 21-04-82, Rosario, Boca Unidos (Corrientes)
+19, Diego Colotto, ARG, D, 1.84, 81, 03-10-81, Rio Cuarto, Lanús
+20, Facundo Coria, ARG, F, 1.80, 73, 28-05-87, Capital Federal, DC United
+21, Nicolás Da Campo, ARG, M, 1.79, 72, 06-08-94, Rosario, Rosario Central
+22, Matías Pérez Acuña, ARG, D, 1.76, 72, 09-02-94, Capital Federal, Vélez Sarsfield
+23, Maxi González, ARG, M, 1.79, 73, 12-03-94, San Lorenzo, Rosario Central
+24, Enzo Acosta, ARG, M, 1.82, 70, 30-11-96, Avellaneda, None
+25, Horacio Ramírez, ARG, G, 1.85, 82, 21-03-84, Posadas, Gimnasia y Esgrima (Jujuy)
+26, Diego Torres, ARG, F, 1.71, 68, 03-07-82, Bragado, Almirante Brown
+27, Franco Negri, ARG, D, 1.75, 70, 20-02-95, San Martín, San Lorenzo
+28, José Luis Valdez, ARG, F, 1.81, 72, 14-04-98, Ascensión, None
+29, Gabriel Ramírez, ARG, M, 1.77, 69, 29-06-95, Corrientes, Lanús
+30, Gastón Pinedo, ARG, M, 1.70, 72, 18-02-98, Quilmes, None
+31, Tomás López, ARG, D, 1.82, 85, 27-06-97, Curuzú Cuatiá, None
+32, Francisco Ilarregui, ARG, F, 1.80, 70, 06-05-97, Curuzú Cuatiá, None
+33, Lucas Giovini, ARG, G, 1.92, 89, 13-10-81, La Laguna, Unión La Calera
+36, Brandon Obregón, ARG, M, 1.70, 68, 23-05-96, Capital Federal, None
+37, Jonathan Torres, ARG, F, 1.84, 83, 29-12-96, Santa Fe, None
+38, Raúl Lozano, ARG, D, , , 02-09-97, San Francisco Solano, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Leonardo Marinucci, ARG, M, 1.75, 70, 28-02-93, La Plata, Estudiantes (LP)
+34, Sebastián Pinto, CHI, F, 1.85, 89, 15-02-86, Santiago, Palestino
+9, Cristian García, ARG, M, 1.82, 78, 29-04-88, San Rafael, Gimnasia y Esgrima (Jujuy)
+13, Fernando de la Fuente, ARG, M, 1.79, 79, 26-03-86, Sierra Grande, 

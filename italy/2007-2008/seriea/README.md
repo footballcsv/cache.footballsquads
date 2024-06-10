@@ -1,0 +1,23 @@
+# Italian Serie A 2007/08
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Cagliari](cagliari.txt)
+- [Catania](catania.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Livorno](livorno.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Siena](siena.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)

@@ -1,0 +1,50 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Axel, BRA, G, 1.93, 80, 18-07-91, Guará, None
+, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, Nacional [POR]
+, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+, Georgemy, BRA, G, 1.95, 89, 15-08-95, Americana, None
+, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+, Álex Silva, BRA, D, 1.93, 82, 10-03-85, Amparo, Flamengo
+, Ceará, BRA, D, 1.75, 75, 16-06-80, Crato, Paris St-Germain
+, Diego Renan, BRA, D, 1.72, 71, 26-01-90, Surubim, None
+, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, None
+, Mateus, BRA, D, 1.91, 82, 02-05-84, Turmalina, Portuguesa
+, Mauricio Victorino, URU, D, 1.80, 78, 11-10-82, Montevideo, Universidad de Chile
+, Rafael Donato, BRA, D, 1.93, 90, 17-03-89, Rio de Janeiro, Audax-RJ
+, Thiago Carvalho, BRA, D, 1.87, 80, 24-06-88, Rio Verde, Boa
+, Vinícius Freitas, BRA, D, 1.82, 78, 07-03-93, Rio de Janeiro, None
+, Diego Arias, COL, M, 1.73, 73, 15-06-85, Pereira, PAOK
+, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Lokomotiv Moscow
+, Élber, BRA, M, 1.70, 63, 27-05-92, Passo de Camaragibe, None
+, Éverton, BRA, M, 1.71, 65, 08-08-84, Maranguape, Fluminense
+, Fábio Lopes, BRA, M, 1.81, 68, 24-05-85, São Luis, Icasa
+, Leandro Guerreiro, BRA, M, 1.82, 68, 17-11-78, São Borja, Botafogo
+, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, None
+, Marcelo Oliveira, BRA, M, 1.84, 76, 29-03-87, Salvador, Corinthians
+, Sandro Silva, BRA, M, 1.86, 76, 29-04-84, Rio de Janeiro, Málaga
+, Souza, BRA, M, 1.76, 77, 04-02-79, Maceió, Fluminense
+, Tinga, BRA, M, 1.70, 65, 13-01-78, Porto Alegre, Internacional
+, Wálter Montillo, ARG, M, 1.71, 69, 14-04-84, Villa Modelo, Universidad de Chile
+, Willian Magrão, BRA, M, 1.90, 78, 16-02-87, Mogi Mirim, Grêmio
+, Anselmo Ramon, BRA, F, 1.82, 79, 23-06-88, Camacari, Bahia
+, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, Santos
+, Fabinho, BRA, F, 1.63, 57, 07-09-83, Recife, Guarani
+, Alejandro Martinuccio, ARG, F, 1.73, 72, 16-12-87, Capital Federal, Fluminense
+, Pedro Paulo, BRA, F, 1.86, 76, 10-02-94, Rio de Janeiro, None
+, Wallyson, BRA, F, 1.78, 65, 17-10-88, Natal, Deportivo Maldonado
+, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Botafogo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Marcos, BRA, D, 1.76, 70, 24-07-89, Souto Soares, Atlético Goianiense (On Loan)
+, Bobô, BRA, F, 1.86, 85, 01-01-85, Gravatá, Kayserispor
+, Rudnei, BRA, M, 1.88, 78, 07-10-84, Florianópolis, Alania Vladikavkaz
+, Emilson Cribari, BRA, D, 1.85, 72, 06-03-80, Cambara, Rangers
+, Roger, BRA, M, 1.70, 69, 17-08-78, Rio de Janeiro, Qatar SC
+, Walter, BRA, F, 1.76, 86, 22-07-89, Recife, FC Porto
+, Amaral, BRA, M, 1.75, 71, 27-11-83, Mogi Mirim, Botafogo (On Loan)
+, Gilson, BRA, D, 1.78, 70, 14-05-86, Campo Grande, Vitória (On Loan)

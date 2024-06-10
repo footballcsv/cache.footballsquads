@@ -1,0 +1,53 @@
+=  Pescara - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vincenzo Fiorillo, ITA, G, 1.90, 78, 13-01-90, Genoa, Juventus
+2, Alessandro Crescenzi, ITA, D, 1.78, 81, 25-09-91, Marino, Roma
+3, Antonio Balzano, ITA, D, 1.76, 73, 13-06-86, Bitonto, Cagliari
+6, Cesare Bovo, ITA, D, 1.81, 79, 14-01-83, Rome, Torino
+7, Leonardo Mancuso, ITA, F, 1.82, 80, 26-05-92, Milan, Juventus
+9, Kevin Yamga, FRA, F, 1.87, 80, 07-09-96, Paris, Chievo Verona
+10, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Bologna
+11, Cristian Bunino, ITA, F, 1.87, 74, 27-08-96, Pinerolo, Juventus
+12, Paolo Baiocco, ITA, G, 1.88, 87, 29-06-89, Rome, Fondi
+13, Andrea Coda, ITA, D, 1.90, 86, 25-04-85, Massa, Sampdoria
+14, Luca Valzania, ITA, M, 1.84, 72, 05-03-96, Cesena, Atalanta
+15, Edgar Elizalde, URU, D, 1.79, 78, 27-02-00, Casupá, Montevideo Wanderers
+16, Gastón Brugman, URU, M, 1.78, 75, 07-09-92, Rosario, Empoli
+17, Stefano Pettinari, ITA, F, 1.83, 76, 27-01-92, Rome, Roma
+18, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Sampdoria
+19, Andrea Cocco, ITA, F, 1.82, 75, 08-04-86, Cagliari, Vicenza
+21, Hugo Campagnaro, ARG, D, 1.81, 85, 27-06-80, Córdoba, Internazionale
+22, Matevž Vidovšek, SVN, G, 1.99, , 30-10-99, Slovenj Gradec, Atalanta
+23, Marco Perrotta, ITA, D, 1.86, 78, 14-02-94, Campobasso, None
+24, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Genoa
+25, Andrea Palazzi, ITA, M, 1.78, 70, 24-02-96, Milan, Internazionale
+26, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Roma
+27, Antonio Mazzotta, ITA, D, 1.83, 73, 02-08-89, Palermo, Cesena
+28, Andrew Gravillon, FRA, D, 1.88, 75, 08-02-98, Pointe-à-Pitre, Benevento
+29, Christian Capone, ITA, F, 1.83, 70, 28-04-99, Vigevano, Atalanta
+30, Marco Carraro, ITA, M, 1.78, 74, 09-01-98, Dolo, Internazionale
+31, Mattia Proietti, ITA, M, 1.81, 69, 27-02-92, Turin, Bassano Virtus
+32, Pierluigi Cappelluzzo, ITA, F, 1.82, 76, 09-06-96, Montepulciano, Verona
+33, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Udinese
+34, Luca Scimia, NZL, M, 1.85, 78, 05-01-99, Auckland, Roma
+35, Jaime Báez, URU, F, 1.81, 79, 24-04-95, Montevideo, Fiorentina
+36, Luca Savelloni, ITA, G, 1.92, 82, 16-07-95, Rome, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Ledian Memushaj, ALB, M, 1.75, 70, 07-12-86, Vlorë, Benevento (On Loan)
+28, Francesco Nicastro, ITA, F, 1.82, 74, 26-10-91, San Cataldo, Foggia (On Loan)
+5, Alessandro Bruno, ITA, M, 1.74, 70, 04-07-83, Benevento, Livorno
+26, Filippo Delli Carri, ITA, D, 1.89, 77, 03-05-99, Turin, Juventus
+22, Mirko Pigliacelli, ITA, G, 1.84, 78, 30-06-93, Rome, Pro Vercelli (On Loan)
+9, Simone Ganz, ITA, F, 1.75, 67, 21-09-93, Genoa, Ascoli
+12, Vittorio Antonino, ITA, G, 1.73, 70, 29-06-98, Vasto, 
+10, Ahmad Benali, LBY, M, 1.73, 68, 07-02-92, Manchester, Crotone (On Loan)
+34, Ferdinando Del Sole, ITA, F, 1.79, 68, 17-01-98, Naples, Juventus
+11, Francesco Zampano, ITA, D, 1.78, 68, 30-09-93, Genoa, Udinese (On Loan)
+8, Franck Kanouté, SEN, M, 1.86, 78, 13-12-98, , Ascoli (On Loan)
+20, Emmanuel Latte Lath, CIV, F, 1.80, 75, 01-01-99, Anoumabo, Atalanta
+24, Ransford Selasi, GHA, M, 1.80, 70, 19-08-96, Accra, Lecce (On Loan)
+5, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Retired

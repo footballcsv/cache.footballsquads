@@ -1,0 +1,36 @@
+=  Clermont - French Ligue 2 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mickaël Fabre, FRA, G, 1.80, 79, 15-07-84, Draguignan, Sedan
+3, Bruce Abdoulaye, CGO, D, 1.81, 83, 15-04-82, Melun, Senart Moissy
+4, Medhi Benatia, MAR, D, 1.90, 80, 17-04-87, Concouronnes, Marseille
+5, Ahmed Reda Madouni, MAR, D, 1.91, 85, 04-10-80, Casablanca, Al-Gharafa
+6, Eugène Ekobo, CMR, D, 1.82, 85, 15-02-81, Douala, Strasbourg
+7, Chafik Najih, FRA, F, 1.84, 90, 05-08-83, Bourgoin-Jallieu, Arles
+8, Steven Pinto-Borges, FRA, M, 1.82, 73, 26-03-86, Vitry-sur-Seine, Guingamp
+9, Loris Arnaud, FRA, F, 1.82, 80, 16-04-87, St-Germain-en-Laye, Paris St-Germain
+10, Martin Douillard, FRA, M, 1.73, 71, 20-03-85, Les Sables d'Olonne, Le Mans
+11, Samuel Darchy, FRA, F, 1.85, 78, 30-05-80, Marvejols, Pau
+12, Nicolas Haquin, FRA, F, 1.83, 67, 15-12-80, Léhon, Guingamp
+13, Cédric Bockhorni, FRA, D, 1.82, 76, 05-09-83, Nancy, Excelsior Virton
+15, Sébastien Mazeyrat, FRA, D, 1.77, 71, 10-10-78, Riom, St-Georges-les-Ancizes
+16, Pierre Bouysse, FRA, G, 1.97, 85, 27-06-83, Aurillac, Sedan
+17, Jérôme Cellier, FRA, D, 1.82, 77, 08-02-84, Saint-d'Olonne, Niort
+18, Franck Chaussidière, FRA, M, 1.88, 80, 01-08-78, Issoire, Laval
+20, Jacques Salze, FRA, D, 1.85, 83, 20-04-87, Montpellier, Créteil
+21, Mickaël Murcy, FRA, F, 1.84, 78, 18-09-79, Beaumont-sur-Oise, Esbjerg
+22, Romain Armand, FRA, F, 1.81, 75, 27-02-87, Orange, Montpellier
+25, Rachid Hamdani, MAR, M, 1.76, 72, 08-04-85, Toul, Nancy
+27, Carlo Vecchione, ITA, M, 1.75, 70, 27-06-88, Naples, Juventus
+28, Yacine Brahimi, FRA, F, 1.75, 65, 08-02-90, Paris, Rennes
+30, Romain Lambay, FRA, G, 1.76, 72, 09-08-81, Valenciennes, Raon L'Etape
+31, Romain Ollé-Nicolle, FRA, D, 1.86, 76, 18-08-87, Chambéry, Nîmes
+34, Yanis Houcini, FRA, F, , , 19-03-90, Saint-Etienne, None
+35, Julien Leleu, FRA, M, 1.82, 80, 14-09-89, Saint-Paul, None
+36, Damien Robin, FRA, D, 1.80, 74, 05-06-89, Vierzon, None
+50, Alban Guibout, FRA, G, , , 26-07-89, Brioude, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Boulogne

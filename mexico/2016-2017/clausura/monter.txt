@@ -1,0 +1,28 @@
+=  Monterrey - Mexican Liga MX 2016/17 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo González, MEX, G, 1.83, 84, 01-08-90, San Luis Potosí, América
+2, Edgar Castillo, USA, D, 1.75, 56, 10-08-86, Las Cruces, Atlas
+3, César Montes, MEX, D, 1.96, 76, 24-02-97, Hermosillo, None
+4, Iván Piris, PAR, D, 1.74, 68, 10-03-89, Itaguá, Udinese
+5, Walter Gargano, URU, M, 1.68, 65, 23-07-84, Paysandù, Napoli
+6, Efrain Juárez, MEX, D, 1.72, 65, 22-02-88, Mexico City, América
+7, Rogelio Funes Mori, ARG, F, 1.85, 74, 03-05-91, Mendoza, Benfica
+8, Dorlan Pabón, COL, F, 1.68, 68, 24-01-88, Bogotá, Valencia
+9, Aldo De Nigris, MEX, F, 1.83, 79, 22-07-83, Monterrey, Guadalajara
+10, Edwin Cardona, COL, M, 1.86, 81, 08-12-92, Medellín, Atlético Nacional
+11, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Cruz Azul
+13, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, River Plate
+14, Arturo González, MEX, F, 1.73, 64, 05-09-94, Reynosa, Atlas
+15, José María Basanta, ARG, D, 1.88, 78, 03-04-84, Tres Sargentos, Fiorentina
+16, Celso Ortíz, PAR, M, 1.75, 70, 26-01-89, Asunción, AZ Alkmaar
+17, Jesús Eduardo Zavala, MEX, M, 1.89, 85, 21-07-87, Monterrey, None
+18, Luis Fernando Fuentes, MEX, D, 1.71, 64, 14-09-86, Chetumal, UNAM
+19, Luis López, MEX, D, 1.87, 77, 25-08-93, Guadalupe, None
+20, Walter Ayoví, ECU, M, 1.72, 68, 11-08-79, Camarones, Dorados de Sinaloa
+21, Jesús Antonio Molina, MEX, M, 1.82, 72, 29-03-88, Hermosillo, Santos Laguna
+22, Alexander Domínguez, ECU, G, 1.95, 80, 05-06-87, Tachina, LDU Quito
+23, Yimmi Chará, COL, F, 1.79, 78, 02-04-91, Cali, Deportes Tolima
+25, Nicolás Sánchez, ARG, D, 1.87, 82, 04-02-86, Capital Federal, Racing Club
+29, Marco Bueno, MEX, F, 1.70, 64, 31-03-94, Culiacán, Pachuca
+30, Luis Cárdenas, MEX, G, 1.80, 79, 15-09-93, Ahome, None

@@ -1,0 +1,43 @@
+=  Lazio - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Kalmar FF
+2, Michaël Ciani, FRA, D, 1.92, 88, 06-04-84, Paris, Bordeaux
+3, Stefan de Vrij, NED, D, 1.88, 78, 05-02-92, Ouderkerk aan den IJssel, Feyenoord
+5, Edson Braafheid, NED, D, 1.76, 71, 08-04-83, Paramaribo, 1899 Hoffenheim
+6, Stefano Mauri, ITA, M, 1.84, 77, 08-01-80, Monza, Udinese
+7, Felipe Anderson, BRA, M, 1.78, 69, 15-04-93, Brasília, Santos
+8, Dušan Basta, SRB, M, 1.84, 74, 18-08-84, Belgrade, Crvena Zvezda
+9, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Nantes
+10, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Lyon
+11, Miroslav Klose, GER, F, 1.84, 84, 09-06-78, Opole, Bayern Munich
+13, Abdoulay Konko, FRA, D, 1.82, 71, 09-03-84, Marseille, Genoa
+14, Balde Diao Keita, SEN, F, 1.81, 77, 08-03-95, Arbucias, Barcelona
+16, Marco Parolo, ITA, M, 1.86, 82, 25-01-85, Gallarate, Parma
+17, Bruno Pereirinha, POR, D, 1.73, 72, 02-03-88, Rio de Mouro, Sporting CP
+18, Santiago Gentiletti, ARG, D, 1.82, 77, 09-01-85, Gödeken, San Lorenzo
+19, Senad Lulić, BIH, M, 1.83, 76, 18-01-86, Mostar, Young Boys
+20, Lucas Biglia, ARG, M, 1.78, 74, 30-01-86, Mercedes, Anderlecht
+22, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, Cagliari
+23, Ogenyi Onazi, NGA, M, 1.70, 73, 25-12-92, Lagos, My People FC
+24, Cristian Ledesma, ITA, M, 1.80, 78, 24-09-82, Buenos Aires, Lecce
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+27, Lorik Cana, ALB, M, 1.86, 77, 27-07-83, Gjakova, Galatasaray
+32, Danilo Cataldi, ITA, M, 1.80, 70, 06-08-94, Rome, None
+33, Maurício, BRA, D, 1.85, 77, 20-09-88, São Paulo, Sporting CP
+34, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Deportivo Cali
+39, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, None
+44, Franjo Prce, CRO, D, 1.83, 77, 07-01-96, Čapljina, Hajduk Split
+54, Simone Palombi, ITA, F, 1.78, 77, 23-04-96, Tivoli, None
+55, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, None
+70, Chris Ikonomidis, AUS, M, 1.80, 80, 04-05-95, Sydney, Atalanta
+77, Thomas Strakosha, ALB, G, 1.92, 80, 19-03-95, Athens, Panionios
+78, Mamadou Tounkara, SEN, F, 1.86, 80, 19-01-96, Gabou, Barcelona
+85, Diego Novaretti, ARG, D, 1.93, 85, 09-05-85, La Palestina, Toluca
+87, Antonio Candreva, ITA, M, 1.80, 72, 28-02-87, Rome, Udinese
+96, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Torino (On Loan)

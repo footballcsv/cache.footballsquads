@@ -1,0 +1,52 @@
+=  Pro Vercelli - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Gilardi, ITA, G, 1.87, 81, 08-01-95, Chieri, Chieri
+2, Filippo Berra, ITA, D, 1.84, 80, 06-02-95, Udine, Udinese
+3, Carlo Mammarella, ITA, D, 1.75, 69, 29-06-82, Pescara, Virtus Lanciano
+4, Mamadou Kanouté, SEN, M, 1.74, 70, 07-10-93, Dakar, Benevento
+5, Giuseppe Vives, ITA, M, 1.78, 70, 14-07-80, Naples, Torino
+6, Raffaele Alcibiade, ITA, D, 1.86, 81, 23-05-90, Turin, Feralpisalò
+7, Filip Raičević, MNE, F, 1.88, 82, 02-07-93, Podgorica, Bari
+8, Daniele Altobelli, ITA, M, 1.88, 83, 18-03-93, Terracina, Frosinone
+9, Claudio Morra, ITA, F, 1.85, 79, 22-01-95, Savigliano, Torino
+10, Luca Castiglia, ITA, M, 1.85, 76, 17-03-89, Ceva, Juventus
+11, Emanuele Rovini, ITA, F, 1.70, 63, 20-02-95, Marina di Cecina, Udinese
+12, Andrea Chiovenda, ITA, G, , , 01-05-99, Domodossola, None
+13, Simone Gozzi, ITA, D, 1.88, 78, 13-04-86, Reggio Emilia, Alessandria
+14, Fabrizio Paghera, ITA, M, 1.85, 81, 12-12-91, Brescia, Avellino
+15, Dramane Konaté, CIV, D, 1.84, 74, 12-04-94, Bingerville, Empoli
+16, Alfredo Bifulco, ITA, M, 1.73, 63, 19-01-97, San Gennaro Vesuviano, Napoli
+17, Alex, POR, F, 1.76, 68, 27-08-91, Funchal, Salernitana
+18, Paolo Ghiglione, ITA, D, 1.87, 80, 02-02-97, Voghera, Genoa
+19, Massimiliano Gatto, ITA, F, 1.82, 74, 28-10-95, Trebisacce, Chievo Verona
+20, Dávid Ivan, SVK, M, 1.73, 68, 26-02-95, Bratislava, Sampdoria
+21, Gladestony, BRA, M, 1.83, 74, 05-08-93, Bebedouro, Catania
+22, Mirko Pigliacelli, ITA, G, 1.84, 78, 30-06-93, Rome, Pescara
+23, Mateo Bertoša, CRO, D, 1.86, 71, 10-08-88, Rijeka, Istra 1961
+24, Mario Pugliese, ITA, M, 1.74, 68, 26-03-96, San Giorgio a Cremano, Atalanta
+25, Lorenzo Grossi, ITA, D, 1.80, 75, 25-03-98, Rome, Roma
+26, Matteo Della Morte, ITA, M, , , 13-10-99, Cirié, None
+27, Dario Bergamelli, ITA, D, 1.85, 74, 26-04-87, Alzano Lombardo, Catania
+28, William Jidayi, ITA, D, 1.88, 87, 09-08-84, Ravenna, Avellino
+30, Umberto Germano, ITA, M, 1.79, 70, 22-04-92, Turin, Canavese
+31, Davide De Marino, ITA, D, 1.86, 78, 17-03-00, Savigliano, None
+32, Richard Marcone, ITA, G, 1.84, 86, 21-01-93, Bucharest, Trapani
+33, Reginaldo, BRA, F, 1.75, 72, 31-07-83, Jundiaí, Trapani
+34, Alessandro Sangiorgi, ITA, M, , , 12-11-99, Melzo, None
+35, Lorenzo Cortinovis, ITA, D, , , 17-04-99, Bergamo, Milan
+36, Erik Gerbi, ITA, F, , , 11-06-00, Ivrea, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Tommaso Nobile, ITA, G, 1.94, 88, 03-11-96, Naples, Fano (On Loan)
+23, Marco Firenze, ITA, F, 1.80, 70, 26-06-93, Genoa, Crotone
+13, Elia Legati, ITA, D, 1.88, 86, 03-01-86, Fidenza, Feralpisalò (On Loan)
+22, Alessandro Gilardi, ITA, G, 1.87, 81, 08-01-95, Chieri, Re-Registered (1)
+20, Luca Barlocco, ITA, D, 1.81, 75, 20-02-95, Merate, Juventus
+4, Michele Rocca, ITA, M, 1.75, 72, 06-02-96, Milan, Sampdoria
+29, Alessandro Polidori, ITA, F, 1.82, 76, 24-02-92, Viterbo, Trapani (On Loan)
+14, Armando Vajushi, ALB, F, 1.80, 68, 03-12-91, Shkodër, Avellino (On Loan)
+17, Franco Vivas, ARG, F, , , 25-04-97, Buenos Aires, San Luis de Quillota
+33, Luca Bruno, ITA, D, 1.84, 75, 24-08-96, Brescia, Crotone

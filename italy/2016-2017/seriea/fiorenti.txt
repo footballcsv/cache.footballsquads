@@ -1,0 +1,49 @@
+=  Fiorentina - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Gonzalo Rodríguez, ARG, D, 1.78, 76, 10-04-84, Buenos Aires, Villarreal
+4, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Anderlecht
+5, Milan Badelj, CRO, M, 1.86, 76, 25-02-89, Zagreb, Hamburg
+6, Carlos Sánchez, COL, M, 1.82, 82, 06-02-86, Bogotá, Aston Villa
+8, Matías Vecino, URU, M, 1.89, 81, 24-08-91, Canelones, Nacional [URU]
+9, Nikola Kalinić, CRO, F, 1.86, 78, 05-01-88, Split, Dnipro Dnipropetrovsk
+10, Federico Bernardeschi, ITA, F, 1.83, 75, 16-02-94, Carrara, None
+12, Ciprian Tătăruşanu, ROU, G, 1.98, 90, 09-02-86, Bucharest, Steaua Bucureşti
+13, Davide Astori, ITA, D, 1.88, 80, 07-01-87, San Giovanni Bianco, Cagliari
+15, Maximiliano Olivera, URU, D, 1.81, 72, 05-03-92, Montevideo, Peñarol
+16, Cristian Tello, ESP, F, 1.78, 69, 19-08-91, Sabadell, Barcelona
+18, Carlos Salcedo, MEX, D, 1.88, 77, 29-09-93, Guadalajara, Guadalajara
+19, Sebastián Cristóforo, URU, M, 1.75, 68, 23-08-93, Montevideo, Peñarol
+20, Borja Valero, ESP, M, 1.76, 75, 12-01-85, Madrid, Villarreal
+21, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Empoli
+22, Michele Cerofolini, ITA, G, 1.88, 80, 04-01-99, Arezzo, None
+23, Giacomo Satalino, ITA, G, 1.88, 75, 20-05-99, Putignano, Esperia Monopoli
+24, Ianis Hagi, ROU, M, 1.72, 68, 22-10-98, Istanbul, Viitorul Constanţa
+25, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, None
+26, Joshua Pérez, USA, M, 1.65, 63, 21-01-98, La Habra, US U-20s
+27, Fabio Maistro, ITA, M, 1.80, 70, 05-04-98, Rovigo, None
+28, Riccardo Baroni, ITA, D, 1.86, 70, 19-09-98, Bagno a Ripoli, None
+30, Khouma Babacar, SEN, F, 1.91, 85, 17-03-93, Thiès, None
+31, Hrvoje Milić, CRO, D, 1.80, 74, 10-05-89, Osijek, Hajduk Split
+32, Jan Mlakar, SVN, F, 1.83, 77, 23-10-98, Domžale, Domžale
+33, Simone Ghidotti, ITA, G, 1.85, 73, 19-03-00, Brescia, None
+34, Thomas Reimão, POR, M, , , 14-07-98, , Oeiras
+40, Nenad Tomović, SRB, D, 1.84, 81, 30-08-87, Kragujevac, Genoa
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Atalanta
+72, Josip Iličić, SVN, M, 1.90, 79, 29-01-88, Kranj, Palermo
+97, Bartłomiej Drągowski, POL, G, 1.88, 74, 19-08-97, Białystok, Jagiellonia Białystok
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Ricardo Bagadur, CRO, D, 1.89, 87, 16-09-95, Rijeka, Benevento (On Loan)
+22, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Teaneck, Celta Vigo (On Loan)
+19, Jaime Báez, URU, F, 1.79, 73, 24-04-95, Montevideo, Spezia (On Loan)
+3, Amidu Salifu, GHA, M, 1.82, 78, 20-09-92, Accra, Mantova (On Loan)
+14, Matías Fernández, CHI, M, 1.78, 72, 15-05-86, Merlo, Milan (On Loan)
+28, Marcos Alonso, ESP, D, 1.88, 81, 28-12-90, Madrid, Chelsea
+1, Luca Lezzerini, ITA, G, 1.95, 86, 24-03-95, Rome, Avellino (On Loan)
+7, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Watford
+17, Kevin Diks, NED, D, 1.82, 84, 06-10-96, Apeldoorn, Vitesse (On Loan)
+27, Gilberto, BRA, D, 1.81, 68, 07-03-93, Rio de Janeiro, Vasco da Gama (On Loan)
+11, Hernán Toledo, ARG, F, 1.80, 72, 17-01-96, Sastre, Deportivo Maldonado

@@ -1,0 +1,46 @@
+=  FC Ural - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Vladimir Khozin, RUS, D, 1.83, 80, 03-07-89, Rostov-on-Don, Alania Vladikavkaz
+3, Varazdat Haroyan, ARM, D, 1.85, 76, 24-08-92, Yerevan, Padideh
+4, Gregor Balažic, SVN, D, 1.90, 83, 12-02-88, Murska Sobota, Partizan Belgrade
+5, Dominik Dinga, SRB, D, 1.85, 73, 07-04-98, Novi Sad, Vojvodina
+6, Erik Bicfalvi, ROU, M, 1.87, 89, 05-02-88, Carei, Tom Tomsk
+7, Aleksandr Dantsev, RUS, D, 1.78, 70, 14-10-84, Rostov, Luch-Energia
+9, Giorgi Chanturia, GEO, F, 1.82, 73, 11-04-93, Tbilisi, Duisburg
+13, Petrus Boumal, CMR, M, 1.76, 74, 20-04-93, Yaoundé, CSKA Sofia
+14, Yuriy Bavin, RUS, M, 1.72, 67, 05-02-94, Slautnoe, Zenit-2
+15, Denys Kulakov, UKR, D, 1.82, 76, 01-05-86, Donetsk, Metalist Kharkiv
+17, Nikolay Dimitrov, BUL, M, 1.74, 64, 15-10-87, Rousse, Slavia Sofia
+18, Vladimir Ilyin, RUS, F, 1.87, 77, 20-05-94, St. Petersburg, Kuban Krasnodar
+21, Dmytro Khomchenovskyy, UKR, M, 1.80, 72, 16-04-90, Uhledar, Jagiellonia Białystok
+27, Mikhail Merkulov, RUS, D, 1.77, 70, 26-01-94, Kamyshin, MITOS Novocherkassk
+28, Nikita Chernov, RUS, D, 1.88, 79, 14-01-96, Volzhsky, CSKA Moscow
+31, Yaroslav Hodzyur, UKR, G, 1.94, 90, 06-03-85, Ivano-Frankivsk, Terek Grozny
+32, Nikita Glushkov, RUS, M, 1.75, 70, 23-06-94, Kirov, Sibir Novosibirsk
+44, Andrey Yegorychev, UKR, M, 1.83, 73, 14-02-93, Voronezh, Nosta Novotroitsk
+57, Artem Fidler, RUS, M, 1.78, 74, 14-07-83, Yekaterinburg, Kuban Krasnodar
+58, Othman El Kabir, NED, M, 1.75, 72, 17-07-91, Amsterdam, Djurgårdens IF
+60, Vladislav Poletayev, RUS, G, 1.88, 78, 05-01-00, Yekaterinburg, FC Ural-2
+66, Mingiyan Beveyev, RUS, D, 1.82, 74, 30-11-95, Elista, Nosta Novotroitsk
+77, Oleg Baklov, RUS, G, 2.01, 92, 20-10-94, Syzran, Syzran-2003
+82, Sergey Podoksenov, RUS, M, 1.66, 62, 29-07-97, Irbit, FC Ural-2
+88, Igor Portnyagin, RUS, F, 1.90, 75, 07-01-89, Vladivostok, Lokomotiv Moscow
+92, Roman Emelyanov, RUS, M, 1.89, 85, 08-05-92, Pavlovo, Shakhtar Donetsk
+94, Aleksey Evseev, RUS, M, 1.87, 77, 30-03-94, St. Petersburg, Zenit-2
+99, Edgar Manucharyan, ARM, F, 1.76, 74, 19-01-87, Yerevan, Ratchaburi
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Aleksandr Stavpets, RUS, F, 1.80, 75, 04-07-89, Oryol, FC Tyumen (On Loan)
+80, Aleksandr Lomakin, RUS, M, 1.72, 62, 14-02-95, Moscow, Yenisey Krasnoyarsk (On Loan)
+10, Chisamba Lungu, ZAM, F, 1.78, 68, 31-01-91, Kafue, Alanyaspor
+77, Dmitriy Korobov, RUS, M, 1.74, 64, 10-06-94, Vladikavkaz, Avangard Kursk (On Loan)
+79, Artem Yusupov, RUS, F, 1.90, 73, 29-04-97, Yekaterinburg, FC Tyumen (On Loan)
+20, Maksim Grigoryev, RUS, F, 1.88, 75, 06-07-90, Lipetsk, Baltika Kaliningrad
+1, Dmitriy Arapov, RUS, G, 1.85, 77, 09-06-93, Yekaterinburg, Volgar Astrakhan (On Loan)
+90, Aleksandr Shcherbakov, RUS, M, 1.75, 62, 26-06-98, Polevskoy, Alashkert (On Loan)
+58, Dmytro Bilonoh, UKR, M, 1.85, 79, 26-05-95, Cherkasy, Zirka Kropyvnytskyi
+96, Andrey Timofeev, RUS, G, 1.90, 83, 08-02-96, Yekaterinburg, Syzran-2003 (On Loan)
+8, Aleksandr Pavlenko, RUS, M, 1.79, 75, 20-01-85, Ordzhonikidze, Tom Tomsk

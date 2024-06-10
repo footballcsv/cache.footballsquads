@@ -1,0 +1,44 @@
+=  Novara - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Ujkani, ALB, G, 1.86, 88, 05-07-88, Resnik, Palermo
+3, Giuseppe Gemiti, ITA, M, 1.76, 70, 03-05-81, Frankfurt am Main, Modena
+4, Andrea Lisuzzo, ITA, D, 1.83, 76, 26-01-81, Palermo, Foggia
+5, Carlalberto Ludi, ITA, D, 1.85, 80, 24-12-82, Viadana, Montevarchi
+7, Daniel Jensen, DEN, M, 1.80, 73, 25-06-79, Copenhagen, Werder Bremen
+9, Raffaele Rubino, ITA, F, 1.82, 80, 09-01-78, Bari, Perugia
+10, Marco Rigoni, ITA, M, 1.78, 74, 05-01-80, Montegrotto Terme, Ternana
+11, Takayuki Morimoto, JPN, F, 1.80, 70, 07-05-88, Tokyo, Catania
+12, Gabriel Silva, BRA, D, 1.79, 69, 13-05-91, Piracicaba, Granada
+14, Michel Morganella, SUI, D, 1.83, 74, 17-05-89, Martigny, Palermo
+15, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Parma
+16, Mattia Maggio, ITA, F, 1.84, 78, 22-02-94, Nürtingen, Stuttgart
+17, Filippo Porcari, ITA, M, 1.76, 76, 28-04-84, Fidenza, Milan
+18, Francesco Marianini, ITA, M, 1.85, 74, 06-05-79, Calci, Empoli
+19, Simone Branca, ITA, M, 1.79, 70, 25-03-92, Busto Arsizio, None
+21, Andrea Mazzarani, ITA, M, 1.74, 66, 06-11-89, Rome, Udinese
+22, Simone Pesce, ITA, M, 1.73, 69, 10-07-82, Latina, Catania
+23, Ivan Radovanović, SRB, M, 1.86, 76, 29-08-88, Mitrovica, Atalanta
+24, Massimo Paci, ITA, D, 1.90, 88, 09-05-78, Fermo, Parma
+25, Giuseppe Mascara, ITA, F, 1.75, 66, 22-08-79, Caltagirone, Napoli
+26, Florin Logofătu, ROU, G, 1.88, 80, 07-04-95, Suceava, None
+27, Jeda, BRA, F, 1.76, 74, 15-04-79, Santa Rém, Lecce
+28, Santiago García, ARG, D, 1.89, 76, 08-07-88, Rosario, Palermo
+29, Andrea Caracciolo, ITA, F, 1.94, 80, 18-09-81, Milan, Genoa
+30, Matteo Centurioni, ITA, D, 1.90, 85, 05-08-74, Mestre, Ravenna
+31, Alberto Fontana, ITA, G, 1.88, 83, 02-12-74, Turin, Torino
+32, Jean-Christophe Coubronne, FRA, D, 1.79, 68, 30-07-89, Lyon, Sochaux
+33, Luca Bellich, ITA, D, , , 05-07-92, Novara, None
+34, Enrico Tonozzi, ITA, G, 1.94, 83, 16-05-93, Ferrara, SPAL
+35, Federico Massaccesi, ITA, M, , , 04-08-93, Terni, Rimini
+44, Achille Coser, ITA, G, 1.85, 78, 14-07-82, Gazzaniga, Ascoli
+77, Leandro Rinaudo, ITA, D, 1.91, 78, 09-05-83, Palermo, Napoli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Carlos Labrín, CHI, D, 1.81, 81, 02-12-90, Mulchén, Palermo
+2, Luigi Giorgi, ITA, M, 1.85, 70, 19-04-87, Ascoli Piceno, Siena (On Loan)
+69, Riccardo Meggiorini, ITA, F, 1.83, 75, 04-09-85, Isola Della Scala, Genoa
+6, Alex Pinardi, ITA, M, 1.80, 72, 05-09-80, Urago d'Oglio, Vicenza (On Loan)
+20, Pablo Granoche, URU, F, 1.82, 74, 05-09-83, Montevideo, Chievo Verona

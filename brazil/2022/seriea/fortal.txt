@@ -1,0 +1,46 @@
+=  Fortaleza - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcelo Boeck, BRA, G, 1.91, 83, 28-11-84, Santa Cruz, Chapecoense
+2, Tinga, BRA, D, 1.79, 78, 01-09-93, Porto Alegre, Bahia
+3, Anthony Landázuri, ECU, D, 1.78, 73, 19-04-97, Esmeraldas, Independiente del Valle
+4, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Göztepe
+5, Marcelo Benevenuto, BRA, D, 1.80, 73, 07-01-96, Resende, Botafogo
+6, Brayan Ceballos, COL, D, 1.89, 80, 24-05-01, Santiago, Deportes Quindío
+7, Robson, BRA, F, 1.79, 76, 30-05-91, Campinas, Coritiba
+8, Caio Alexandre, BRA, M, 1.74, 66, 24-02-99, Duque de Caxias, Vancouver Whitecaps
+10, Lucas Crispim, BRA, F, 1.78, 72, 16-06-94, Brasília, Guarani
+11, Romarinho, BRA, F, 1.68, 66, 01-03-94, Natal, Globo
+12, Kennedy, BRA, G, 1.87, 80, 08-12-99, São Luís, None
+13, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Palmeiras
+14, Ronald, BRA, M, 1.71, 74, 18-06-97, Belford Roxo, Juventus-SC
+15, Felipe, BRA, M, 1.84, 76, 10-04-94, Maranguape, Maranguape
+16, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Vasco da Gama
+17, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Atlético Mineiro
+18, Silvio Romero, ARG, F, 1.77, 76, 22-07-88, Córdoba, Independiente
+19, Emanuel Brítez, ARG, D, 1.78, 74, 26-03-92, Santa Fe, Defensa y Justicia
+20, Matheus Vargas, BRA, M, 1.81, 74, 18-06-96, Claudia, Audax-SP
+21, Moisés, BRA, F, 1.75, 80, 02-09-96, Morro da Fumaça, Ponte Preta
+25, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Atlético Goianiense
+26, Sammuel, BRA, M, 1.76, 68, 21-12-01, Fortaleza, None
+27, Fabrício Baiano, BRA, M, 1.77, 75, 13-06-92, Camacan, Rizespor
+28, Habraão, BRA, D, 1.81, 75, 26-06-01, Além Paraíba, Primavera
+29, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Grêmio
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+33, David da Hora, BRA, F, 1.79, 71, 09-01-00, Salvador, Metalist Kharkiv
+34, Valentín Depietri, ARG, F, 1.78, 75, 31-10-00, Tandil, Santamarina (Tandil)
+35, Hércules, BRA, M, 1.78, 75, 20-10-00, Jaicós, None
+40, Vitor Ricardo, BRA, D, 1.78, 67, 14-04-00, Rio de Janeiro, None
+80, Rómulo Otero, VEN, M, 1.65, 66, 09-11-92, El Tigre, Cruz Azul
+88, Lucas Sasha, BRA, M, 1.77, 77, 01-03-90, São Paulo, Aris
+91, Thiago Galhardo, BRA, F, 1.82, 69, 20-07-89, São João del Rei, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Miedź Legnica
+22, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Shimizu S-Pulse
+77, Igor Torres, BRA, F, 1.83, 73, 11-03-00, São Paulo, Bahia (On Loan)
+79, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Daejeon Hana Citizen (On Loan)
+8, Matheus Jussa, BRA, M, 1.83, 83, 22-03-96, São Paulo, Qatar SC (On Loan)
+23, Max Walef, BRA, G, 1.81, 73, 23-10-93, Teresina, Dnipro-1

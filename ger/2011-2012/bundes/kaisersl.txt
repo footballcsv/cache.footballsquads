@@ -1,0 +1,48 @@
+=  1.FC Kaiserslautern - German Bundesliga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tobias Sippel, GER, G, 1.80, 79, 22-03-88, Bad Dürkheim, None
+2, Jan Šimůnek, CZE, D, 1.87, 72, 20-02-87, Prague, Wolfsburg
+3, Leon Jessen, DEN, D, 1.82, 74, 11-06-86, Brande, FC Midtjylland
+4, Ariel Borysiuk, POL, M, 1.78, 70, 29-07-91, Biała Podlaska, Legia Warszawa
+6, Mathias Abel, GER, D, 1.88, 85, 22-06-81, Kaiserslautern, Schalke
+7, Oliver Kirch, GER, M, 1.82, 73, 21-08-82, Soest, Arminia Bielefeld
+8, Christian Tiffert, GER, M, 1.83, 75, 18-02-82, Halle, Duisburg
+9, Itay Shechter, ISR, F, 1.80, 77, 22-02-87, Ramat Yishai, Hapoel Tel Aviv
+10, Olcay Şahan, TUR, M, 1.77, 70, 26-05-87, Düsseldorf, Duisburg
+11, Sandro Wagner, GER, F, 1.94, 87, 29-11-87, Munich, Werder Bremen
+13, Thanos Petsos, GRE, M, 1.84, 80, 05-06-91, Düsseldorf, Bayer Leverkusen
+16, Richard Sukuta-Pasu, GER, F, 1.84, 79, 24-06-90, Wuppertal, Bayer Leverkusen
+17, Alexander Bugera, GER, D, 1.80, 75, 08-08-78, Amberg, Duisburg
+19, Denis Linsmayer, GER, D, 1.83, 77, 19-09-91, Pirmasens, None
+20, Rodnei, BRA, D, 1.90, 91, 11-09-85, São Paulo, Hertha Berlin
+21, Pierre De Wit, GER, M, 1.72, 70, 26-09-87, Cologne, Bayer Leverkusen
+22, Nicolai Jørgensen, DEN, F, 1.90, 83, 15-01-91, Fredericia, Bayer Leverkusen
+23, Florian Dick, GER, D, 1.84, 84, 09-11-84, Bruchsal, Karlsruhe
+24, Lucas, BRA, D, 1.94, 82, 14-07-91, São Paulo, Bayer Leverkusen
+25, Anther Yahia, ALG, D, 1.85, 79, 21-03-82, Mulhouse, Al-Nassr
+26, Stefan Zellner, GER, F, 1.86, 87, 14-03-91, Wadern, Primstal
+27, Marco Knaller, AUT, G, 1.92, 85, 26-03-87, Villach, Lustenau
+28, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Asteras Tripolis
+29, Kevin Trapp, GER, G, 1.89, 83, 08-07-90, Merzig, None
+30, Dorge Rostand Kouemaha, CMR, F, 1.90, 85, 28-06-83, Yaoundé, Club Brugge
+31, Jakub Świerczok, POL, F, 1.79, 75, 28-12-92, Tychy, Polonia Bytom
+32, Marius Müller, GER, G, 1.92, 85, 12-07-93, Heppenheim, None
+33, Dominique Heintz, GER, D, 1.90, 85, 15-08-93, Neustadt an der Weinstraße, None
+34, Willi Orban, GER, D, 1.85, 80, 03-11-92, Kaiserslautern, None
+35, Julian Derstroff, GER, F, 1.82, 73, 05-01-92, Zweibrücken, None
+37, Andrew Wooten, USA, F, 1.86, 81, 30-09-89, Bamberg, Wormatia Worms
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Bastian Schulz, GER, M, 1.84, 77, 10-07-85, Hannover, RB Leipzig
+22, Ivo Iličević, CRO, M, 1.74, 65, 14-11-86, Aschaffenburg, Hamburg
+18, Chadlj Amri, FRA, F, 1.78, 70, 14-12-84, St-Avold, FSV Frankfurt (On Loan)
+15, Clemens Walch, AUT, M, 1.80, 72, 10-07-87, Rum, Dynamo Dresden (On Loan)
+11, Ilijan Micanski, BUL, F, 1.86, 79, 20-12-85, Blagoevgrad, FSV Frankfurt (On Loan)
+19, Jiří Bílek, CZE, M, 1.83, 70, 04-11-83, Neratovice, Zagłębie Lubin
+25, Stiven Rivić, CRO, M, 1.81, 74, 09-08-85, Pula, Istra 1961
+32, Adam Nemec, SVK, F, 1.92, 90, 02-09-85, Banská Bystrica, Ingolstadt
+14, Gil Vermouth, ISR, M, 1.72, 67, 05-08-85, Haifa, De Graafschap (On Loan)
+5, Martin Amedick, GER, D, 1.94, 88, 06-09-82, Paderborn, Eintracht Frankfurt

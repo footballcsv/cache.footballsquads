@@ -1,0 +1,57 @@
+=  Altrincham - English National League 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tony Thompson, ENG, G, 1.83, 83, 04-11-94, Liverpool, AFC Fylde
+2, Shaun Densmore, ENG, D, 1.92, 93, 11-11-88, Liverpool, Everton
+3, Connor Hampson, ENG, D, 1.78, 73, 23-08-92, Ashton-under-Lyne, Stockport Co
+4, Ritchie Sutton, ENG, D, 1.83, 72, 29-04-86, Stoke-on-Trent, Morecambe
+5, Tom Hannigan, ENG, D, 1.81, 74, 30-06-88, Birkenhead, AFC Fylde
+6, Jake Moult, ENG, M, 1.78, 66, 10-02-89, Stoke-on-Trent, Alfreton T
+7, Dan Mooney, WAL, F, 1.81, 74, 03-07-99, Trafford, Fleetwood T
+8, Elliot Osborne, ENG, M, 1.83, 75, 12-05-96, Stoke-on-Trent, Stevenage
+9, Marcus Dinanga, ENG, F, 1.80, 78, 30-06-97, Gravesend, Stevenage
+10, Josh Hancock, ENG, M, 1.76, 71, 05-09-90, Crewe, Nantwich T
+11, Ryan Colclough, ENG, M, 1.90, 83, 27-12-94, Burslem, Scunthorpe U
+12, Curtis Miller, ENG, F, -, -, 29-11-00, Manchester, None
+14, Jake Cooper, IRL, D, 1.84, 74, 02-01-01, Burnley, Rotherham U
+15, Matty Kosylo, ENG, M, 1.73, 70, 17-08-92, Oldham, AFC Fylde
+16, Brad Jackson, ENG, M, 1.75, 70, 20-10-96, Manchester, Chester
+17, Ben Pringle, ENG, M, 1.73, 75, 27-05-89, Newcastle upon Tyne, Morecambe
+18, Kennedy Digie, ENG, D, -, -, 13-12-96, -, Hereford
+19, Jamie Morgan, ENG, D, -, -, 08-11-97, -, Chester
+20, Andy White, ENG, D, 1.70, 70, 08-10-92, Chester, Southport
+21, Matt Gould, NZL, G, 1.89, 77, 07-01-94, Warwick, Spennymoor T
+22, Will Hall, ENG, D, -, -, -, -, Salford C
+23, Harry Perritt, ENG, M, 1.76, 66, 16-02-01, Knowsley, Accrington Stanley
+24, Kyle Ferguson, SCO, D, 1.95, 80, 24-09-99, Bellshill, Waterford
+25, Toby Mullarkey, ENG, D, 1.73, 64, 30-09-95, Warrington, Nantwich T
+26, Kole Hall, BER, F, -, -, 22-08-98, -, Radcliffe
+27, AJ Leitch-Smith, ENG, F, 1.80, 78, 06-03-90, Crewe, Morecambe
+28, Eddy Jones, WAL, D, -, -, 25-10-01, Chester, Stoke C
+29, Jordan Hulme, ENG, F, 1.83, 79, 23-11-90, Bury, AFC Fylde
+30, Steven Drench, ENG, G, 1.85, 79, 11-09-85, Southport, Farsley Celtic
+32, Isaac Marriott, ENG, M, 1.68, 65, 11-10-99, Huddersfield, Bradford PA
+34, Hayden Campbell, ENG, M, 1.79, 68, 24-02-02, Stafford, Salford C
+36, Niall Butchart, ENG, F, -, -, 26-10-01, -, None
+37, Ryan Morton, ENG, F, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Sean Higgins, ENG, D, -, -, 07-03-03, -, Trafford (On Loan)
+29, Joe Bunney, ENG, D, 1.85, 70, 26-09-93, Manchester, Warrington Rylands
+8, Sean Williams, ENG, M, 1.78, 74, 20-01-92, Liverpool, Warrington T
+31, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Fleetwood T
+32, Tom Walker, ENG, M, 1.82, 76, 12-12-95, Salford, Stockport Co
+29, Danny Whitehead, ENG, M, 1.79, 69, 23-10-93, Trafford, Port Vale
+14, Connor Kirby, ENG, M, 1.69, 67, 10-09-98, Barnsley, Harrogate T
+19, David Fitzpatrick, ENG, D, 1.79, 73, 28-02-90, Manchester, Chester
+24, Joel Senior, ENG, D, 1.81, 70, 24-06-99, Manchester, Carlisle U
+8, Adam Porter, ENG, M, 1.87, 77, 08-04-02, Stoke-on-Trent, Stoke C
+28, Dean Furman, RSA, M, 1.83, 74, 22-06-88, Cape Town, Warrington Rylands
+23, Tom Peers, ENG, F, 1.78, 73, 23-10-95, Warrington, Curzon Ashton
+24, Kevin Berkoe, ENG, D, 1.78, 65, 05-07-01, Redbridge, Salford C
+33, Alec Mudimu, ZIM, M, 1.85, 72, 08-04-95, Harare, 
+31, Chris Conn-Clarke, NIR, F, -, -, 22-11-01, -, Fleetwood T
+26, James Berry, ENG, F, -, -, 10-02-00, Wigan, Macclesfield
+34, Kwame Osigwe, ENG, M, -, -, 11-01-02, -, Glossop NE

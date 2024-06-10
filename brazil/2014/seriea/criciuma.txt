@@ -1,0 +1,60 @@
+=  Criciúma - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Bruno Brigido, BRA, G, 1.87, 76, 09-03-91, Criciúma, None
+, Edson Mardden, BRA, G, 1.90, 89, 12-12-91, Combinado, Icasa
+, Galatto, BRA, G, 1.91, 88, 10-04-83, Porto Alegre, CRB
+, Luiz, BRA, G, 1.89, 79, 07-02-83, Campo Grande, São Caetano
+, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Joinville
+, Fábio Ferreira, BRA, D, 1.88, 82, 04-10-84, Campina Grande, Botafogo
+, Giovanni, BRA, D, 1.82, 73, 23-06-89, Santos, Botafogo-SP
+, Gualberto, BRA, D, 1.89, 70, 08-04-90, São Paulo, Penapolense
+, Iago Maidana, BRA, D, 1.95, 87, 06-02-96, Criciúma, São Paulo
+, Joílson, BRA, D, 1.90, 83, 25-05-91, Osasco, None
+, Luís Felipe, BRA, D, 1.78, 74, 08-04-91, São Paulo, Benfica
+, Maicon Silva, BRA, D, 1.83, 77, 22-05-88, Nova Iguaçu, Londrina
+, Rafael Pereira, BRA, D, 1.83, 73, 18-11-84, Rio do Sul, Joinville
+, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Internacional
+, Barreto, BRA, M, 1.81, 78, 10-12-95, Campinas, None
+, Cléber Santana, BRA, M, 1.87, 84, 27-06-81, Recife, Avaí
+, Dodi, BRA, M, 1.66, 60, 17-04-96, Santo Antônio do Sudoeste, None
+, Gabriel, BRA, M, 1.73, 72, 22-04-95, Fortaleza, Ceará
+, Higor, BRA, M, 1.77, 62, 02-06-93, Goiás, Fluminense
+, João Vitor, BRA, M, 1.76, 66, 01-06-88, Maceió, Deportivo Maldonado
+, Martínez, BRA, M, 1.85, 78, 21-04-80, Magda, Náutico
+, Maylson, BRA, M, 1.80, 71, 06-03-89, São Bernardo, Grêmio
+, Paulo Baier, BRA, M, 1.84, 78, 25-10-74, Ijuí, Atlético Paranaense
+, Rafael Costa, BRA, M, 1.83, 79, 19-01-91, Araras, Rio Claro
+, Ricardinho, BRA, M, 1.74, 69, 10-06-85, Votuporanga, Joinville
+, Rodrigo Souza, BRA, M, 1.86, 86, 27-10-87, São Gonçalo, Cruzeiro
+, Serginho Mineiro, BRA, M, 1.78, 70, 04-08-86, Contagem, Atlético Mineiro
+, Andrew, BRA, F, 1.72, 70, 15-09-96, Rio de Janeiro, None
+, Bruno Lopes, BRA, F, 1.75, 76, 19-05-95, Londrina, None
+, Danilo Alves, BRA, F, 1.87, 78, 11-04-91, Baixa Grande, Bragantino
+, Gustavo, BRA, F, 1.89, 76, 29-03-94, Registro, Taboão da Serra
+, Kalil, BRA, F, 1.85, 77, 10-04-96, Rio de Janeiro, None
+, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Cruzeiro
+, Maurinho, BRA, F, 1.73, 69, 10-12-89, Canoas, Metropolitano
+, Michael, BRA, F, 1.86, 80, 19-04-93, São Francisco de Sales, Fluminense
+, Róger Guedes, BRA, F, 1.82, 67, 02-10-96, Ibirubá, None
+, Silvinho, BRA, F, 1.75, 72, 01-07-90, Guajará Mirim, Penapolense
+, Souza, BRA, F, 1.88, 87, 04-03-82, Rio de Janeiro, Vitória
+, Zé Carlos, BRA, F, 1.86, 90, 24-04-83, Maceió, Sharjah FC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Rômulo, BRA, D, 1.76, 70, 24-06-93, São Paulo, Penapolense (On Loan)
+, Éverton, BRA, M, 1.71, 65, 08-08-84, Maranguape, Cruzeiro
+, Rodrigo Silva, BRA, F, 1.83, 71, 15-06-83, Florianópolis, ABC
+, Lulinha, BRA, M, 1.70, 62, 10-04-90, Mauá, Ceará
+, Ezequiel, BRA, D, 1.79, 71, 22-02-93, Treze de Mario, Oeste (On Loan)
+, Vitor Michels, BRA, M, 1.80, 75, 23-07-93, Criciúma, Náutico (On Loan)
+, Sergio Escudero, ARG, M, 1.95, 82, 12-04-83, Punta Alta, Independiente
+, Cristiano, BRA, F, 1.80, 80, 24-06-88, , Oeste (On Loan)
+, Wellington Bruno, BRA, F, 1.74, 79, 25-04-86, Guarulhos, Fortaleza
+, Ronaldo Mendes, BRA, M, 1.71, 75, 16-08-92, Nova Erechim, Comercial
+, Alcides, BRA, D, 1.86, 78, 13-03-85, São José do Rio Preto, 
+, Roger Gaúcho, BRA, F, 1.77, 68, 30-03-86, São Leopoldo, Oeste
+, Eli Sabiá, BRA, D, 1.89, 86, 31-08-88, Mogi Guaçu, 

@@ -1,0 +1,55 @@
+=  Bari - Italian Serie B 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Genoa
+2, Alessandro Crescenzi, ITA, D, 1.78, 71, 25-09-91, Marino, Roma
+3, Claiton dos Santos, BRA, D, 1.86, 70, 07-09-84, Santa Helena de Goiás, Varese
+4, Vitali Kutuzov, BLR, F, 1.83, 83, 20-03-80, Pinsk, Parma
+6, Andrea De Falco, ITA, M, 1.79, 70, 19-06-86, Ancona, Chievo Verona
+8, Rivaldo González, PAR, M, 1.70, 68, 23-12-87, Asunción, Patronato
+9, José Ignacio Castillo, ARG, F, 1.87, 82, 04-11-75, Capital Federal, Fiorentina
+10, Fernando Forestieri, ITA, F, 1.72, 67, 16-01-90, Rosario, Udinese
+15, Federico Masi, ITA, D, 1.88, 79, 10-10-90, Frascati, Fiorentina
+17, Fatmir Hysenbelliu, ALB, M, 1.80, 74, 04-04-92, Tirana, Olimpik Tirana
+18, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, None
+19, Cristian Galano, ITA, M, 1.70, 69, 01-04-91, Foggia, None
+20, Adrian Stoian, ROU, M, 1.81, 69, 11-02-91, Craiova, Roma
+21, Manuel Scavone, ITA, M, 1.73, 67, 03-06-87, Bolzano, Novara
+22, Diego Polenta, URU, D, 1.85, 82, 06-02-92, New York, Genoa
+23, Luca Ceppitelli, ITA, D, 1.86, 80, 11-08-89, Castiglione del Lago, Andria BAT
+24, Marco Romizi, ITA, M, 1.75, 65, 13-02-90, Arezzo, Fiorentina
+29, Agostino Garofalo, ITA, M, 1.78, 71, 29-09-84, Torre Annunziata, Siena
+34, Marino Defendi, ITA, F, 1.74, 70, 19-08-85, Bergamo, Atalanta
+37, Jan Koprivec, CZE, G, 1.82, 75, 15-07-88, Koper, Udinese
+39, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, Lazio
+46, Ádám Simon, HUN, M, 1.82, 72, 30-03-90, Salgótarján, Palermo
+50, Alessio Gigli, ITA, D, 1.78, 69, 18-02-90, Bari, None
+51, Anthony Partipilo, ITA, M, 1.77, 76, 27-10-94, Bari, None
+54, Mariano Bogliacino, URU, M, 1.77, 72, 02-06-80, Colonia del Sacramento, Napoli
+55, Martino Borghese, ITA, D, 1.98, 88, 05-06-87, Basel, Gubbio
+87, Francesco Caputo, ITA, F, 1.80, 75, 06-08-87, Altamura, Noicattaro
+89, Diego Albadoro, ITA, F, 1.85, 80, 26-02-89, Naples, Giugliano
+92, Pietro Perina, ITA, G, 1.86, 82, 28-02-92, Andria, None
+97, Luigi Rana, ITA, F, 1.80, 84, 06-11-86, Bari, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Francesco Grandolfo, ITA, F, 1.82, 78, 26-07-92, Castellana, Chievo Verona (On Loan)
+90, Edgar Álvarez, HON, M, 1.72, 79, 08-01-80, Puerto Cortéz, Palermo
+77, Zdeněk Zlámal, CZE, G, 1.93, 92, 05-11-85, Přerov, Sigma Olomouc (On Loan)
+94, Antonio Langella, ITA, F, 1.83, 85, 30-03-77, Naples, 
+88, José Ignacio Castillo, ARG, F, 1.87, 82, 04-11-75, Capital Federal, Re-Registered (9)
+40, Giovanni Di Noia, ITA, M, 1.80, 75, 03-07-94, Bari, Chieti
+28, Alessandro Marotta, ITA, F, 1.78, 71, 15-07-86, Naples, Spezia (On Loan)
+95, Marco Piccinni, ITA, M, 1.78, 73, 19-04-87, Bari, Piacenza (On Loan)
+96, Giuseppe Statella, ITA, M, 1.80, 76, 15-03-88, Melito di Porto Salvo, Pavia (On Loan)
+14, Kamil Kopúnek, SVK, M, 1.79, 71, 18-05-84, Trnava, Slovan Bratislava
+5, Massimo Donati, ITA, M, 1.86, 75, 26-03-81, Sedegliano, Palermo
+7, Emanuel Rivas, ARG, F, 1.75, 64, 17-03-83, Quilmes, Varese
+11, Salvatore Masiello, ITA, M, 1.78, 70, 31-01-82, Naples, Torino
+13, Simone Sini, ITA, D, 1.83, 75, 09-04-92, Sesto San Giovanni, Roma
+83, Marcos de Paula, BRA, F, 1.86, 80, 19-12-83, Bariri, Chievo Verona
+89, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Levante (On Loan)
+93, Christian Conti, ITA, D, 1.85, 80, 02-08-87, Rome, Como
+98, Armando Visconti, ITA, F, 1.76, 70, 26-10-89, Naples, Vibonese (On Loan)

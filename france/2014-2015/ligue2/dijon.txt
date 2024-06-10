@@ -1,0 +1,36 @@
+=  Dijon - French Ligue 2 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Florent Perraud, FRA, G, 1.80, 77, 11-06-82, Rillieux-la-Pape, Sedan
+2, Pierre Lemonnier, FRA, D, 1.84, 81, 06-07-93, Rennes, Rennes
+4, William Remy, FRA, D, 1.84, 79, 04-04-91, Courbevoie, Lens
+5, Zakaria Diallo, FRA, D, 1.95, 88, 13-08-86, Equemauville, Charleroi
+6, Ousseynou Cissé, SEN, M, 1.95, 85, 06-04-91, Dakar, Amiens
+7, Kévin Rodrigues, FRA, M, 1.69, 63, 05-03-94, Bayonne, Toulouse
+9, Loïs Diony, FRA, F, 1.83, 80, 20-12-92, Mont-de-Marsan, Mont-de-Marsan
+10, Jérémie Bela, FRA, F, 1.73, 69, 08-04-93, Melun, Lens
+11, Julio Tavares, CPV, F, 1.87, 86, 19-11-88, Tarrafal de São Nicolau, Bourg-Péronnas
+13, Pape Paye, FRA, D, 1.65, 66, 31-05-90, Lyon, Lyon-Duchère
+14, Jordan Marié, FRA, M, 1.77, 69, 29-09-91, Épinal, None
+15, Abdoulaye Bamba, CIV, D, 1.82, 68, 25-04-90, Abidjan, Juventus
+16, Enzo Basilio, FRA, G, 1.87, 75, 03-10-94, Dijon, None
+17, Florian Raspentino, FRA, F, 1.79, 73, 06-06-89, Marignane, Caen
+18, Eliott Sorin, FRA, M, 1.78, 68, 01-03-93, Rennes, Helsingborgs IF
+19, Samuel Souprayen, FRA, D, 1.87, 70, 18-02-89, Saint-Benoît, Rennes
+20, Romain Amalfitano, FRA, M, 1.75, 69, 27-08-89, Nice, Newcastle U
+21, Jessy Benet, FRA, M, 1.86, 76, 24-06-95, Le Creusot, Montceau-les-Mines
+22, Johan Gastien, FRA, M, 1.80, 67, 25-01-88, Niort, Niort
+24, Zie Diabaté, CIV, D, 1.77, 65, 02-03-89, M'Pody, Dinamo Bucureşti
+25, Steven Paulle, FRA, D, 1.87, 82, 10-02-86, Cannes, Cannes
+26, Yohann Rivière, FRA, F, 1.85, 81, 18-08-84, Pont-l'Abbé, Le Havre
+27, Cédric Varrault, FRA, D, 1.82, 70, 30-01-80, Blois, Panionios
+28, Florent Mollet, FRA, M, 1.71, 67, 19-11-91, Fontaine-lès-Dijon, None
+30, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Lorient
+33, Mamadou Thiam, FRA, F, 1.82, 82, 20-03-95, Aubervilliers, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Brian Babit, FRA, M, 1.75, 73, 21-03-93, Saint-Avold, Amiens (On Loan)
+12, Koro Koné, CIV, F, 1.76, 68, 05-07-89, Abidjan, Arles-Avignon (On Loan)
+29, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Lorient

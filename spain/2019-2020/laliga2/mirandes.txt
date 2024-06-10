@@ -1,0 +1,39 @@
+=  Mirandés - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Limones, ESP, G, 1.89, 87, 17-10-86, Ciudad Real, Cartagena
+2, Carlos Julio Martínez, DOM, D, 1.71, 67, 04-02-94, Santo Domingo, Marbella
+3, Gorka Kijera, ESP, D, 1.76, 74, 26-05-86, Hernani, Eibar
+4, Sergio González, ESP, D, 1.88, 81, 20-04-92, Madrid, Recreativo Huelva
+5, Odei Onaindia, ESP, D, 1.80, 72, 07-12-89, Lekeitio, Melilla
+6, Modibo Sagnan, FRA, D, 1.87, 71, 14-04-99, Saint-Denis, Real Sociedad
+7, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Alcorcón
+8, Lorenzo Crisetig, ITA, M, 1.84, 88, 20-01-93, Cividale del Friuli, Bologna
+9, Matheus Aias, BRA, F, 1.75, 72, 30-12-96, Palmares Paulista, Watford
+10, Álvaro Rey, ESP, M, 1.83, 75, 11-07-89, Seville, Racing Ferrol
+11, Martín Merquelanz, ESP, M, 1.76, 72, 12-06-95, Irún, Real Sociedad
+14, Joaquín Muñoz, ESP, M, 1.73, 60, 10-03-99, Málaga, Huesca
+15, Mickaël Malsa, FRA, M, 1.78, 69, 12-10-95, Paris, Fortuna Sittard
+17, Íñigo Vicente, ESP, F, 1.77, 63, 06-01-98, Derio, Athletic Bilbao B
+18, Mario Barco, ESP, F, 1.78, 85, 23-12-92, Estella, Cádiz
+19, Ernest Ohemeng, GHA, M, 1.75, 65, 17-01-96, Accra, Moreirense
+20, Alexander González, VEN, D, 1.85, 75, 13-09-92, Caracas, Elche
+22, Marcos André, BRA, M, 1.84, 78, 20-10-96, Coroatá, Valladolid B
+23, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Real Sociedad B
+25, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Alcorcón
+26, Enric Franquesa, ESP, D, 1.74, 68, 26-02-97, Sant Cugat del Vallés, Villarreal B
+27, Lucas Silva, BRA, F, , , 12-02-97, , Louletano
+28, Antonio Sánchez, ESP, M, 1.79, 78, 22-04-97, Palma de Mallorca, Mallorca B
+29, Hassane, ESP, M, , , 26-06-00, , Mirandés B
+31, Alberto González, ESP, G, 1.90, 85, 23-07-96, Córdoba, Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Rodrigo Sanz, ESP, F, 1.75, 67, 29-03-93, Olite, Cartagena
+14, Jon Irazábal, ESP, D, 1.87, 75, 28-11-96, Bilbao, Leioa
+21, Cristian González, URU, D, 1.84, 80, 23-07-96, Montevideo, Sevilla B
+6, Andrés García, ESP, M, 1.81, 75, 11-05-96, Madrid, Andorra (On Loan)
+13, João Costa, POR, G, 1.85, 78, 02-02-96, Barcelos, Granada B
+16, Simon Gbegnon, TOG, M, 1.88, 75, 27-03-92, Nantes, Dinamo Tbilisi
+8, Galder Cerrajería, ESP, M, 1.85, 76, 05-04-89, Barakaldo, Burgos

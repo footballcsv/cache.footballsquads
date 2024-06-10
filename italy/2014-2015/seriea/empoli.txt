@@ -1,0 +1,46 @@
+=  Empoli - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maurizio Pugliesi, ITA, G, 1.87, 79, 27-12-76, Pontedera, Pisa
+2, Vincent Laurini, FRA, D, 1.73, 72, 10-06-89, Thionville, Carpi
+5, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Milan
+6, Mirko Valdifiori, ITA, M, 1.85, 71, 21-04-86, Lugo, Cesena
+7, Massimo Maccarone, ITA, F, 1.80, 79, 06-09-79, Galliate, Sampdoria
+8, Franco Signorelli, VEN, M, 1.78, 68, 01-01-91, Mérida, None
+9, Levan Mchedlidze, GEO, F, 1.91, 87, 24-03-90, Tbilisi, None
+10, Francesco Tavano, ITA, F, 1.74, 71, 02-03-79, Caserta, Livorno
+11, Daniele Croce, ITA, M, 1.75, 68, 09-09-82, Giulianova, Sorrento
+14, Assane Diousse, SEN, M, 1.75, 68, 20-09-97, Dakar, None
+15, Alessandro Piu, ITA, F, 1.85, 77, 30-07-96, Udine, None
+16, Matteo Biggeri, ITA, G, 1.81, 72, 25-04-96, Castelnuovo di Garfagnana, None
+17, Tiberio Guarente, ITA, M, 1.82, 74, 01-11-85, Pisa, Sevilla
+18, Simone Verdi, ITA, F, 1.72, 62, 12-07-92, Broni, Torino
+19, Federico Barba, ITA, D, 1.88, 77, 01-09-93, Rome, Roma
+20, Manuel Pucciarelli, ITA, F, 1.74, 63, 17-06-91, Prato, None
+21, Mário Rui, POR, D, 1.70, 67, 27-05-91, Sines, Parma
+23, Elseid Hysaj, ALB, D, 1.80, 72, 02-02-94, Shkodër, KF Skrapari
+24, Daniele Rugani, ITA, D, 1.88, 78, 29-07-94, Sesto di Moriano, Juventus
+25, Joshua Brillante, AUS, M, 1.77, 73, 25-03-93, Bundaberg, Fiorentina
+26, Lorenzo Tonelli, ITA, D, 1.84, 79, 17-01-90, Florence, None
+27, Piotr Zieliński, POL, M, 1.80, 75, 20-05-94, Ząbkowice Śląskie, Udinese
+28, Davide Bassi, ITA, G, 1.90, 82, 12-04-85, Sarzana, Massese
+30, Andrea Gemignani, ITA, D, 1.79, 72, 13-02-96, Lucca, None
+32, Alessandro Giacomel, ITA, G, 1.95, 80, 09-07-98, Padua, None
+33, Luigi Sepe, ITA, G, 1.91, 90, 08-05-91, Torre del Greco, Napoli
+50, Michele Somma, ITA, D, 1.82, 80, 16-05-95, Salerno, Roma
+52, Diego Borghini, ITA, D, , , 04-03-97, Livorno, None
+88, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Fiorentina
+98, Nemanja Radonjić, SRB, M, 1.85, 76, 15-02-96, Niš, Roma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+58, Luca Martinelli, ITA, D, 1.85, 74, 20-12-88, Milan, Novara (On Loan)
+77, Irakli Shekiladze, GEO, F, 1.81, 73, 17-09-92, Zugdidi, Latina
+5, Davide Moro, ITA, M, 1.76, 69, 02-01-82, Taranto, Salernitana
+99, Rodrigo Aguirre, URU, F, 1.84, 75, 01-10-94, Montevideo, Udinese
+4, Romano Perticone, ITA, D, 1.83, 76, 13-08-86, Melzo, Novara
+22, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona
+13, Diego Laxalt, URU, M, 1.78, 66, 07-02-93, Montevideo, Internazionale
+95, Emanuele Rovini, ITA, F, 1.70, 66, 20-02-95, Marina di Cecina, SPAL (On Loan)
+3, Alessio Agrifogli, ITA, D, , , 28-02-96, Prato, Tuttocuoio (On Loan)

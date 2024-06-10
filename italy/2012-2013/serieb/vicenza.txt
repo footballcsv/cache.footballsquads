@@ -1,0 +1,52 @@
+=  Vicenza - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Carlo Pinsoglio, ITA, G, 1.92, 72, 16-03-90, Moncalieri, Juventus
+2, Gianvito Misuraca, ITA, M, 1.80, 78, 02-04-90, Palermo, Palermo
+3, Nicolo' Brighenti, ITA, D, 1.78, 75, 21-06-89, Bussolengo, Viareggio
+4, Maurizio Ciaramitaro, ITA, M, 1.80, 76, 20-03-82, Palermo, Modena
+5, Daniele Martinelli, ITA, D, 1.81, 74, 27-02-82, Turin, Torino
+6, Marco Pisano, ITA, D, 1.74, 75, 13-08-81, Rome, Parma
+7, Tommaso Bellazzini, ITA, M, 1.78, 72, 23-12-87, Pisa, Cittadella
+8, Mattia Mustacchio, ITA, F, 1.82, 76, 17-05-89, Chiari, Sampdoria
+9, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Sporting CP
+10, Stefano Giacomelli, ITA, F, 1.65, 59, 30-04-90, Spoleto, Pescara
+11, Simone Tiribocchi, ITA, F, 1.80, 79, 31-01-78, Rome, Pro Vercelli
+12, Achille Coser, ITA, G, 1.85, 78, 14-07-82, Gazzaniga, Novara
+13, Daniel Bessa, BRA, M, 1.73, 65, 14-01-93, São Paulo, Internazionale
+14, Raffaele Imparato, ITA, D, 1.80, 73, 03-09-86, Avellino, Catania
+15, Prince-Désir Gouano, FRA, D, 1.86, 78, 24-12-93, Paris, Juventus
+16, Niccolò Corticchia, ITA, M, 1.77, 72, 11-02-93, Turin, Juventus
+17, Domenico Danti, ITA, M, 1.77, 70, 12-01-89, San Giovanni in Fiore, Siena
+18, Alessandro Camisa, ITA, D, 1.80, 80, 13-04-85, San Cesario, Varese
+19, Dominique Malonga, FRA, F, 1.83, 80, 08-01-89, Chatenay-Malabry, Cesena
+20, Alessio Bruno, ITA, F, 1.90, 80, 24-01-94, Olbia, Olbia
+21, Luca Castiglia, ITA, M, 1.84, 73, 17-03-89, Ceva, Juventus
+22, Stefano Fortunato, ITA, G, 1.84, 85, 15-01-90, Turin, Modena
+23, Filippo Forò, ITA, M, 1.72, 65, 22-12-87, Civitanova Marche, Sambenedettese
+24, Nicola Rigoni, ITA, M, 1.85, 80, 12-11-90, Schio, Chievo Verona
+26, Matteo Gentili, ITA, D, 1.90, 82, 21-08-89, Viareggio, Atalanta
+27, Luca Di Matteo, ITA, M, 1.81, 70, 25-02-88, Pescara, Palermo
+29, Marco Padalino, SUI, M, 1.77, 73, 08-12-83, Viganello, Sampdoria
+30, Franco Semioli, ITA, M, 1.78, 70, 20-06-80, Cirié, Sampdoria
+31, Zsolt Laczkó, HUN, M, 1.83, 72, 18-12-86, Szeged, Sampdoria
+32, Oualid El Hasni, FRA, D, 1.92, 82, 09-08-93, Cannes, Werder Bremen
+33, Agostino Antoniazzi, ITA, G, , , 26-06-95, Schio, None
+35, Antonio Cinelli, ITA, M, 1.78, 72, 08-12-89, Rome, Lazio
+36, Milan Milanović, SRB, D, 1.94, 83, 31-03-91, Kosovska Mitrovica, Palermo
+44, Nicolás Bremec, ESP, G, 1.88, 85, 17-12-77, Barcelona, Grosseto
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Alain Baclet, FRA, F, 1.80, 80, 26-05-86, Lille, Novara
+19, Piergiuseppe Maritato, ITA, F, 1.80, 70, 19-03-89, Cetraro, Südtirol-Alto Adige (On Loan)
+7, Davide Gavazzi, ITA, F, 1.85, 72, 07-05-86, Sondrio, Sampdoria
+9, Youssou Lo, SEN, F, 1.85, 73, 19-03-92, Dakar, Celje (On Loan)
+13, Nicolas Giani, ITA, D, 1.81, 80, 13-03-86, Como, Perugia (On Loan)
+15, Mattia Minesso, ITA, F, 1.73, 70, 30-03-90, Cittadella, Cittadella (On Loan)
+28, Gianvito Plasmati, ITA, F, 1.99, 85, 28-01-83, Matera, Virtus Lanciano
+4, Manuel Giandonato, ITA, M, 1.78, 72, 10-10-91, Casoli, Juventus
+11, Pasquale Maiorino, ITA, M, 1.70, 70, 21-06-89, Taranto, Modena (On Loan)
+16, Alex Pinardi, ITA, M, 1.80, 72, 05-09-80, Urago d'Oglio, Cremonese (On Loan)
+34, Michele Cavion, ITA, M, 1.80, 73, 08-12-94, Schio, Juventus

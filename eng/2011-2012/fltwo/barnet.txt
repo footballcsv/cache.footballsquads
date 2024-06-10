@@ -1,0 +1,46 @@
+=  Barnet - English Football League Two 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dean Brill, ENG, G, 1.88, 78, 10-02-85, Luton, Oldham Ath
+2, Danny Senda, ENG, D, 1.78, 64, 17-04-81, Harrow, Bristol R
+3, Jordan Parkes, ENG, D, 1.83, 76, 26-07-89, Watford, Watford
+4, Mark Hughes, NIR, M, 1.78, 78, 16-09-83, Dungannon, Chester C
+5, Darren Dennehy, IRL, D, 1.93, 89, 21-09-88, Tralee, Cardiff C
+7, Scott McGleish, ENG, F, 1.75, 73, 10-02-74, Camden Town, Bristol R
+8, Mark Byrne, IRL, M, 1.75, 70, 09-11-88, Crumlin, Nottingham F
+9, Steve Kabba, ENG, F, 1.78, 71, 07-03-81, Lambeth, Brentford
+10, Sam Deering, ENG, M, 1.65, 70, 26-02-91, Tower Hamlets, Oxford U
+11, Ricky Holmes, ENG, F, 1.88, 75, 20-06-87, Uxbridge, Chelmsford C
+12, Jordan Mustoe, ENG, D, 1.80, 75, 28-01-91, Wirral, Wigan Ath
+15, Andy Yiadom, ENG, M, 1.80, 75, 02-12-91, Camden, Braintree T
+16, Sead Hajrovic, SUI, D, 1.83, 80, 04-06-93, Brugg, Arsenal
+17, Michael Hector, ENG, D, 1.93, 82, 19-07-92, Newham, Reading
+18, Liam O'Brien, ENG, G, 1.88, 73, 30-11-91, Ruislip, Portsmouth
+19, Jack Saville, ENG, D, 1.90, 76, 02-04-91, Frimley, Southampton
+20, Mark Marshall, ENG, M, 1.83, 76, 05-05-87, Manchester [JAM], Swindon T
+21, Clovis Kamdjo, CMR, D, 1.80, 77, 15-12-90, , Reading
+22, Ben May, ENG, F, 1.85, 77, 10-03-84, Gravesend, Stevenage
+23, Izale McLeod, ENG, F, 1.73, 73, 15-10-84, Birmingham, Charlton Ath
+24, Charlie Taylor, ENG, F, 1.88, 76, 28-12-85, Lewisham, Sutton U
+25, Alassane N'Diaye, FRA, M, 1.93, 90, 25-02-90, Audincourt, Crystal Palace
+26, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+27, Mauro Vilhete, ENG, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+30, Paul Downing, ENG, D, 1.85, 79, 26-10-91, Taunton, WBA
+31, Luke Gambin, ENG, M, 1.68, 70, 16-03-93, Sutton, None
+37, Jordan Obita, ENG, F, 1.80, 73, 08-12-93, Oxford, Reading
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Kwame Adjeman-Pamboe, USA, F, 1.73, 70, 24-10-87, London, Agrotikos Asteras
+12, Ryan Watts, ENG, D, 1.75, 68, 18-05-88, Greenford, St Albans C
+30, Jason Price, WAL, F, 1.88, 72, 12-04-77, Aberdare, Morecambe
+6, Exodus Geohaghon, ENG, D, 2.01, 75, 27-02-85, Birmingham, Darlington
+28, Tommy Fraser, ENG, M, 1.80, 81, 05-12-87, Brighton, Whitehawk
+12, Lloyd Owusu, GHA, F, 1.88, 89, 12-12-76, Slough, 
+16, Gary Borrowdale, ENG, D, 1.83, 77, 16-07-85, Sutton, QPR
+22, Daniel Leach, AUS, D, 1.90, 82, 05-01-86, Redcliffe, Retired
+7, Cédric Baseya, FRA, F, 1.95, 94, 19-12-87, Bretigny, Reading
+31, Gavin McCallum, CAN, F, 1.75, 76, 24-08-87, Mississauga, Lincoln C
+14, Sam Cox, ENG, D, 1.65, 65, 10-10-90, Edgware, Boreham Wood (On Loan)
+15, Anwar Uddin, BAN, D, 1.80, 83, 01-11-81, Whitechapel, Sutton U

@@ -1,0 +1,56 @@
+=  Aberdeen - Scottish Premiership 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Lewis, ENG, G, 1.98, 85, 06-10-87, Broome, Cardiff C
+2, Shaleum Logan, ENG, D, 1.85, 79, 06-11-88, Manchester, Brentford
+3, Greg Leigh, ENG, D, 1.81, 73, 30-09-94, Manchester, NAC Breda
+4, Andrew Considine, SCO, D, 1.83, 75, 01-04-87, Aberdeen, None
+5, Scott McKenna, SCO, D, 1.88, 73, 12-11-96, Dundee, None
+6, Mikey Devlin, SCO, D, 1.88, 79, 03-10-93, Motherwell, Hamilton Academical
+7, Craig Bryson, SCO, M, 1.70, 60, 06-11-86, Rutherglen, Derby Co
+8, Ronald Hernández, VEN, D, 1.71, 67, 04-10-97, Barinas, Stabæk
+9, Curtis Main, ENG, F, 1.78, 67, 20-06-92, South Shields, Motherwell
+10, Niall McGinn, NIR, M, 1.83, 83, 20-07-87, Dungannon, Gwangju
+11, Ryan Hedges, WAL, M, 1.85, 65, 07-09-95, Swansea, Barnsley
+14, Ash Taylor, WAL, D, 1.83, 76, 02-09-89, Bromborough, Northampton T
+15, Scott Wright, SCO, F, 1.75, 65, 08-08-97, Aberdeen, None
+16, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, Carlisle U
+17, Dylan McGeouch, SCO, M, 1.78, 69, 15-01-93, Glasgow, Sunderland
+18, Connor McLennan, SCO, F, 1.82, 69, 05-10-99, Peterhead, None
+19, Lewis Ferguson, SCO, M, 1.81, 73, 24-08-99, Hamilton, Hamilton Academical
+20, Tomáš Černý, CZE, G, 1.85, 80, 10-04-85, Ústí nad Labem, Partick Thistle
+21, Jon Gallagher, IRL, F, 1.75, 72, 23-02-96, Dundalk, Atlanta U
+22, Funso Ojo, BEL, M, 1.77, 71, 28-08-91, Antwerp, Scunthorpe U
+23, Matthew Kennedy, SCO, M, 1.75, 65, 01-11-94, Irvine, St Johnstone
+24, Dean Campbell, SCO, M, 1.81, 65, 19-03-01, Aberdeen, None
+25, Bruce Anderson, SCO, F, 1.73, 66, 23-09-98, Aberdeen, None
+27, Sebastian Ross, SCO, M, 1.71, 70, 20-01-00, Inverurie, None
+29, Michael Ruth, SCO, F, 1.71, 65, 08-01-02, Glasgow, Queen's Park
+31, Luc Bollan, SCO, D, 1.88, 83, 20-02-00, Dundee, Dundee U
+32, Jack Mackenzie, SCO, D, 1.76, 67, 07-04-00, Aberdeen, None
+34, Tyler Mykyta, SCO, M, , , 11-08-02, , None
+35, Lewis Duncan, SCO, F, 1.75, 65, 30-01-02, Fraserburgh, None
+36, Max Barry, SCO, M, 1.78, 77, 17-03-02, Aberdeen, None
+37, Kieran Shanks, SCO, F, 1.81, 71, 30-04-02, Aberdeen, None
+38, Lloyd Robertson, SCO, D, 1.90, 81, 13-01-01, Aberdeen, None
+39, Jack Chesser, SCO, M, 1.75, 65, 22-12-01, Aberdeen, None
+40, Sam Jackson, ENG, G, 1.86, 77, 24-03-00, London, Dundee
+41, Sean Linden, SCO, M, , , 28-08-01, Elgin, None
+42, Connor Barron, SCO, M, 1.75, 67, 29-08-02, Kintore, None
+43, Michael Dangana, SCO, F, 1.83, 66, 29-04-03, , None
+44, Calvin Ramsay, SCO, D, 1.77, 63, 31-07-03, Aberdeen, None
+45, Lyall Booth, SCO, D, , , 05-03-03, , None
+47, Luke Turner, IRL, D, 1.86, 75, 20-05-02, Dublin, Shamrock R
+48, Kevin Hanratty, SCO, M, 1.86, 72, 15-03-03, Aberdeen, None
+50, Tom Ritchie, SCO, G, 1.94, 77, 27-01-03, Elgin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Danny Rogers, IRL, G, 1.85, 77, 23-03-94, Dublin, Greenock Morton (On Loan)
+26, Miko Virtanen, FIN, M, 1.81, 77, 29-01-99, Tampere, Arbroath (On Loan)
+17, Stevie May, SCO, F, 1.78, 67, 03-11-92, Perth, St Johnstone
+23, Ethan Ross, SCO, M, 1.73, 64, 15-08-01, Inverurie, Dunfermline Ath (On Loan)
+8, Stephen Gleeson, IRL, M, 1.88, 70, 03-08-88, Dublin, 
+28, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Salford C
+33, Zak Vyner, ENG, D, 1.78, 68, 14-05-97, Bath, Bristol C

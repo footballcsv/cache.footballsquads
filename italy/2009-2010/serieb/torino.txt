@@ -1,0 +1,56 @@
+=  Torino - Italian Serie B 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matteo Sereni, ITA, G, 1.86, 80, 11-02-75, Parma, Lazio
+2, Davide Zoboli, ITA, D, 1.90, 78, 08-10-81, Parma, Brescia
+3, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Cittadella
+4, Manolo Pestrin, ITA, M, 1.76, 70, 30-10-78, Roma, Salernitana
+5, Ahmed Barusso, GHA, M, 1.84, 75, 26-12-84, Accra, Roma
+6, Angelo Ogbonna Obinze, ITA, D, 1.89, 86, 23-05-88, Cassino, None
+7, Gaël Genevier, FRA, M, 1.74, 71, 26-06-82, Saint-Martin-d'Hères, Siena
+8, Mario Salgado, CHI, F, 1.85, 78, 03-06-81, Talcahuano, Foggia
+9, Rolando Bianchi, ITA, F, 1.88, 78, 15-02-83, Albano Sant'Alessandro, Manchester C
+10, Filippo Agomeri Antonelli, ITA, M, 1.70, 70, 13-07-78, Chieti, Bari
+11, Julio Cesar León, HON, M, 1.74, 75, 13-09-79, Cortés, Parma
+13, Simone Benedetti, ITA, D, 1.82, 71, 03-04-92, Turin, None
+14, Andrea Gasbarroni, ITA, F, 1.74, 70, 06-08-81, Turin, Genoa
+15, Simone Loria, ITA, D, 1.86, 82, 28-10-76, Turin, Roma
+16, Claudio Rivalta, ITA, D, 1.73, 68, 30-06-78, Ravenna, Atalanta
+17, Sergiu Suciu, ROU, M, 1.84, 75, 08-05-90, Satu Mare, None
+18, Lys Gomis, SEN, G, 1.86, 78, 06-10-89, Cuneo, None
+19, Nicolas Gorobsov, ARG, M, 1.77, 77, 25-11-89, San Pedro, Vicenza
+21, Luca Belingheri, ITA, M, 1.83, 70, 06-04-83, Costa Volpino, Ascoli
+22, Rachid Arma, MAR, F, 1.90, 78, 16-01-85, Agadir, SPAL
+25, Vittorio Del Buono, ITA, D, , , 03-02-90, , None
+28, Tommaso Vailatti, ITA, M, 1.83, 76, 01-02-86, Venaria, None
+29, Agostino Garofalo, ITA, M, 1.78, 71, 29-09-84, Torre Annunziata, Siena
+30, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Parma
+31, Davide Morello, ITA, G, 1.78, 70, 22-06-78, Palermo, Pisa
+32, Emanuele Balzo, ITA, D, , , 20-02-90, Chieri, None
+33, Gianmario Comi, ITA, F, 1.86, 77, 03-05-92, Turin, None
+35, Pierpaolo Taraschi, ITA, F, , , 03-07-91, , None
+64, Rocco D'Aiello, ITA, D, 1.70, 68, 28-06-86, Palermo, Gela
+77, Giuseppe Statella, ITA, M, 1.80, 76, 15-03-88, Melito di Porto Salvo, Bari
+86, Luigi Alberto Scaglia, ITA, M, 1.82, 66, 23-11-86, Chiari, Brescia
+88, Danilo D'Ambrosio, ITA, D, 1.85, 75, 09-09-88, Naples, Juve Stabia
+90, Danilo Tunno, ITA, G, , , 14-11-90, , None
+99, Inácio Piá, BRA, F, 1.78, 68, 22-03-82, Ibitinga, Napoli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Nicola Amoruso, ITA, F, 1.86, 75, 29-08-74, San Giovanni Rotondo, Parma
+4, Blerim Dzemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Parma (On Loan)
+8, Elvis Abbruscato, ITA, F, 1.81, 76, 14-04-81, Reggio Emilia, Chievo Verona (On Loan)
+22, Dominique Malonga, FRA, F, 1.83, 80, 08-01-89, Chatenay-Malabry, Cesena (On Loan)
+8, Daniele Vantaggiato, ITA, F, 1.77, 81, 10-10-84, Brindisi, Parma
+7, Paolo Zanetti, ITA, M, 1.86, 82, 16-12-82, Valdagno, Atalanta (On Loan)
+26, Marco Pisano, ITA, D, 1.74, 75, 13-08-81, Rome, Bari (On Loan)
+24, Jürgen Säumel, AUT, M, 1.80, 76, 08-09-84, Jungfrau, Brescia (On Loan)
+5, Massimo LoViso, ITA, M, 1.78, 65, 09-04-84, Bentivoglio, Lecce (On Loan)
+10, David Di Michele, ITA, F, 1.71, 72, 06-01-76, Guidonia, Lecce (On Loan)
+50, Francesco Pratali, ITA, D, 1.80, 79, 17-01-79, Pontedera, Siena (On Loan)
+27, Alex Calderoni, ITA, G, 1.82, 77, 03-05-76, Ravenna, Triestina
+32, Riccardo Colombo, ITA, D, 1.80, 72, 01-12-82, Tradate, Triestina (On Loan)
+23, Aimo Diana, ITA, D, 1.80, 72, 02-01-78, Brescia, Bellinzona (On Loan)
+20, Davide Bottone, ITA, M, 1.83, 75, 11-04-86, Biella, CFR Cluj (On Loan)

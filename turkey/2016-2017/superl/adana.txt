@@ -1,0 +1,38 @@
+=  Adanaspor - Turkish Süper Lig 2016/17
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mert Akyüz, TUR, G, 1.89, 81, 02-10-93, Aksaray, None
+3, Ousmane Viera, CIV, D, 1.86, 81, 21-12-86, Daloa, Rizespor
+4, Yiğitcan Gölboyu, TUR, D, 1.78, 71, 12-05-92, Konak, Çorum Belediyespor
+5, Maurício Ramos, BRA, D, 1.86, 80, 10-04-85, Piracicaba, Al-Sharjah
+6, Samican Keskin, TUR, M, 1.72, 67, 14-08-93, Seyhan, None
+7, Ahmet Dereli, TUR, F, 1.85, 77, 22-10-92, Berlin, Berliner AK
+8, Ahmet Bahçıvan, TUR, M, 1.78, 70, 27-02-96, Altındağ, Bozüyükspor
+9, Magaye Gueye, SEN, F, 1.79, 73, 06-07-90, Nogent-sur-Marne, Millwall
+10, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, Palmeiras
+17, Barış Memiş, TUR, M, 1.67, 64, 05-01-90, Trabzon, 1461 Trabzon
+18, Goran Karačić, BIH, G, 1.96, 84, 18-08-96, Mostar, Zrinjski Mostar
+19, Burak Yıldır, TUR, M, 1.72, 70, 18-12-96, Seyhan, None
+20, Tevfik Altındağ, TUR, M, 1.80, 71, 26-10-88, Boblingen, Freiberg
+21, Emre Uruç, TUR, D, 1.80, 74, 10-04-94, Seyhan, None
+22, Digão, BRA, D, 1.77, 78, 12-03-93, Rio de Janeiro, Portuguesa
+26, Charles Itandje, CMR, G, 1.93, 83, 02-11-82, Bobigny, Gaziantepspor
+27, Cem Özdemir, TUR, M, 1.80, 74, 27-07-92, Seyhan, None
+30, Fırat Kaplan, TUR, M, 1.75, 72, 16-07-98, Yüksekova, None
+32, Renan, BRA, M, 1.81, 77, 09-10-89, Londrina, Atlético Paranaense
+33, Renan Diniz, BRA, D, 1.87, 80, 27-02-93, São Paulo, Bragantino
+46, İrfan Can Eğribayat, TUR, G, 1.93, 90, 30-06-98, Seyhan, None
+53, Didi, BRA, D, 1.84, 74, 25-05-91, Santos, Audax-SP
+55, Ethem Ercan Pülgir, TUR, D, 1.86, 83, 02-04-93, Samsun, Erciyesspor
+66, Halil İbrahim Pehlivan, TUR, D, 1.83, 80, 21-08-93, Ankara, Gençlerbirliği
+77, Vladimir Koman, HUN, F, 1.73, 63, 16-03-89, Uzhhorod, Diósgyőr
+80, Roni, BRA, M, 1.71, 65, 26-01-91, São José dos Campos, São Paulo
+88, Bekir Yılmaz, TUR, M, 1.80, 72, 06-03-88, İzmir, Bursaspor
+99, Reynaldo, BRA, M, 1.72, 63, 24-08-89, Arapiraca, Qarabağ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Canberk Dilaver, TUR, D, 1.78, 74, 01-06-93, Samsun, Göztepe
+29, Edgar, BRA, F, 1.91, 76, 03-01-87, São Carlos, 
+23, Yakup Demir, TUR, D, 1.85, 75, 15-02-92, Karakoçan, Diyarbekirspor (On Loan)

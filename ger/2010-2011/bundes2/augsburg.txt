@@ -1,0 +1,40 @@
+=  Augsburg - German 2.Bundesliga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Simon Jentzsch, GER, G, 1.96, 96, 04-05-76, Düsseldorf, Wolfsburg
+2, Paul Verhaegh, NED, D, 1.78, 68, 01-09-83, Kronenberg, Vitesse
+3, Gibril Sankoh, SLE, D, 1.86, 80, 15-05-83, Freetown, FC Groningen
+4, Dominik Reinhardt, GER, D, 1.88, 80, 19-12-84, Nuremburg, Nürnberg
+5, Uwe Möhrle, GER, D, 1.88, 81, 03-12-79, Uberlingen, Wolfsburg
+6, Jonas De Roeck, BEL, D, 1.87, 80, 20-12-79, Schoten, KAA Gent
+7, Hajime Hosogai, JPN, M, 1.77, 64, 10-06-86, Gumma, Bayer Leverkusen
+8, Axel Bellinghausen, GER, M, 1.81, 76, 17-05-83, Siegburg, Kaiserslautern
+9, Torsten Oehrl, GER, F, 1.92, 83, 07-01-86, Lichtenfels, Werder Bremen
+10, Daniel Baier, GER, M, 1.75, 73, 18-05-84, Cologne, Wolfsburg
+11, Nando Rafael, GER, F, 1.80, 79, 10-01-84, Luanda, Aarhus
+13, Tobias Werner, GER, M, 1.77, 67, 19-07-85, Gera, Carl Zeiss Jena
+14, Kees Kwakman, NED, D, 1.87, 78, 10-06-83, Purmerend, NAC Breda
+16, Ibrahima Traoré, GUI, M, 1.72, 62, 21-04-88, Villepinte, Hertha Berlin
+17, Marcel de Jong, CAN, F, 1.74, 73, 15-10-86, New Market, Roda JC
+18, Jan-Ingwer Callsen-Bracker, GER, D, 1.87, 81, 23-09-84, Schleswig, B Mönchengladbach
+19, Sören Bertram, GER, M, 1.80, 70, 05-06-91, Uelzen, Hamburg
+20, Marcel Ndjeng, GER, M, 1.80, 72, 06-05-82, Bonn, B Mönchengladbach
+22, Lukas Sinkiewicz, GER, D, 1.91, 92, 09-10-85, Tychy, Bayer Leverkusen
+23, Andrew Sinkala, ZAM, M, 1.75, 68, 18-06-79, Chingola, Paderborn
+24, Daniel Brinkmann, GER, M, 1.93, 88, 29-01-86, Horn-Bad Meinberg, Alemannia Aachen
+27, Michael Thurk, GER, F, 1.77, 66, 28-05-76, Frankfurt am Main, Eintracht Frankfurt
+28, Moritz Leitner, GER, M, 1.74, 65, 08-12-92, Munich, Borussia Dortmund
+29, Moritz Nebel, GER, M, 1.77, 61, 25-09-91, Erlangen, None
+30, Mohamed Amsif, GER, G, 1.87, 81, 07-02-89, Düsseldorf, Schalke
+32, Thomas Rudolph, GER, M, 1.76, 72, 20-02-89, , None
+33, Daniel Framberger, GER, M, 1.82, 70, 27-05-90, , None
+34, Benjamin Woltmann, GER, D, 1.84, 74, 07-06-90, , None
+35, Kevin Feiersinger, GER, F, 1.77, 66, 02-02-92, , Bayern Munich II
+36, Stephan Hain, GER, F, 1.78, 72, 27-09-88, Zwiesel, Ruhmannsfelden
+37, Ioannis Gelios, GRE, G, 1.90, 76, 24-04-92, Augsburg, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Goran Šukalo, SVN, M, 1.93, 88, 24-08-81, Koper, Duisburg
+7, Edmond Kapllani, ALB, F, 1.84, 80, 31-07-82, Durres, Paderborn (On Loan)

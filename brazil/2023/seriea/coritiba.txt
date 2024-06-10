@@ -1,0 +1,60 @@
+=  Coritiba - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Lecce
+2, Hayner, BRA, D, 1.78, 71, 02-10-95, Salvador, Azuriz
+3, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Belenenses
+4, Reynaldo Cesar, BRA, D, 1.86, 81, 03-01-97, Catanduva, Cruzeiro
+5, Maurício Antônio, BRA, D, 1.83, 82, 06-02-92, São Paulo, Al-Batin
+6, Bruno Gomes, BRA, M, 1.75, 70, 04-04-01, Rio de Janeiro, Internacional
+7, Andrey, BRA, M, 1.75, 73, 15-02-98, Rio de Janeiro, Vasco da Gama
+8, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Hatta Club
+9, Islam Slimani, ALG, F, 1.88, 79, 18-06-88, Algiers, Anderlecht
+10, Marcelino Moreno, ARG, M, 1.68, 65, 25-06-95, Lanús, Atlanta U
+11, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Sampdoria
+12, Marcão, BRA, G, 1.92, 100, 19-04-00, São Paulo, None
+13, Benjamín Kuščević, CHI, D, 1.85, 80, 02-05-96, Santiago, Palmeiras
+14, Thalisson Gabriel, BRA, D, 1.90, 76, 20-01-02, Bauru, None
+15, Fransérgio, BRA, M, 1.86, 76, 18-10-90, Rondonópolis, Bordeaux
+16, Natanael, BRA, D, 1.72, 70, 05-01-02, Braganey, None
+17, Matheus Bianqui, BRA, M, 1.87, 79, 31-01-98, Ribeirão Claro, Maringá
+18, Diogo, BRA, F, 1.90, 83, 04-12-96, São Paulo, Plaza Colonia
+19, Sebastián Gómez, COL, F, 1.71, 67, 03-06-96, Girardota, Atlético Nacional
+20, Gabriel Silva, BRA, M, 1.78, 67, 03-07-02, São Paulo, Grêmio
+21, Lucas Barbosa, BRA, M, 1.93, 85, 22-02-01, Bebedouro, Santos
+22, Andreas Samaris, GRE, M, 1.89, 80, 13-06-89, Patras, Rio Ave
+26, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, Palmeiras
+27, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Fortaleza
+29, Diogo Batista, BRA, D, 1.73, 76, 29-08-03, Januária, None
+30, Robson, BRA, F, 1.79, 76, 30-05-91, Campinas, Fortaleza
+33, Maurício Garcez, BRA, F, 1.81, 71, 16-03-97, Chapadinha, Brusque
+35, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Internacional
+37, Kaio César, BRA, M, 1.68, 66, 15-02-04, Maceió, None
+47, Jean Pedroso, BRA, D, 1.91, 77, 28-01-04, Carambeí, None
+55, Thiago Dombroski, BRA, D, 1.82, 72, 20-06-02, Curitiba, Azuriz
+72, Pedro Morisco, BRA, G, 1.94, 84, 10-01-04, -, None
+82, Jean Gabriel, BRA, M, 1.71, 65, 15-02-03, União da Vitória, None
+83, Jamerson, BRA, D, 1.77, 77, 09-09-98, Salvador, Guarani
+97, Ruan Assis, BRA, M, 1.80, 73, 20-04-04, Curitiba, None
+98, Lucas Ronier, BRA, F, 1.63, 60, 26-11-04, Fazenda Rio Grande, None
+99, Edu, BRA, F, 1.80, 79, 05-03-93, Rio de Janeiro, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Bernardo, BRA, M, 1.86, 77, 08-01-02, Curitiba, Guarani (On Loan)
+77, João Vitor, BRA, F, 1.74, 65, 28-05-00, Brasília, Athletic-MG
+4, Jhon Chancellor, VEN, D, 1.98, 86, 02-01-92, Puerto Ordaz, Necaxa
+50, Jesús Trindade, URU, D, 1.73, 74, 10-07-93, Salto, Pachuca
+90, William Pottker, BRA, F, 1.80, 78, 22-12-93, Foz do Iguaçu, Cruzeiro
+99, Matheus Cadorini, BRA, F, 1.92, 83, 01-09-02, Taubaté, Internacional
+18, Zé Roberto, BRA, F, 1.80, 71, 14-09-93, Teixeira de Freitas, Ceará
+22, Marcos Vinicius, BRA, D, 1.76, 80, 26-03-97, Emilianópolis, Maringá
+64, Sidnei, BRA, G, 1.91, 90, 28-03-03, São José dos Pinhais, Mirassol
+23, Júnior Urso, BRA, M, 1.82, 82, 10-03-89, Taboão da Serra, Orlando C
+57, Wesley Pombo, BRA, F, 1.75, 68, 02-06-02, Encruzilhada do Sul, Ituano (On Loan)
+11, Alef Manga, BRA, F, 1.90, 85, 29-11-94, Santos, Pafos (On Loan)
+28, Vilar, BRA, D, 1.89, 89, 18-04-00, Guarujá, Maringá
+5, Bruno Viana, BRA, D, 1.87, 75, 05-02-95, Macaé, Al-Hazem (On Loan)
+31, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, São Paulo
+9, Rodrigo Pinho, BRA, F, 1.85, 79, 30-05-91, Henstedt-Ulzburg, De-Registered

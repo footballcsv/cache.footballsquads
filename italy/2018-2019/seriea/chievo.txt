@@ -1,0 +1,49 @@
+=  Chievo Verona - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrian Šemper, CRO, G, 1.94, 89, 12-01-98, Zagreb, Dinamo Zagreb
+2, Matiás Ezequiel Schelotto, ITA, D, 1.87, 76, 23-05-89, Buenos Aires, Brighton & HA
+3, Strahinja Tanasijević, SRB, D, 1.83, 73, 12-06-97, Mladenovac, Rad
+4, Nicola Rigoni, ITA, M, 1.87, 81, 12-11-90, Schio, Vicenza
+5, Federico Barba, ITA, D, 1.85, 77, 01-09-93, Rome, Sporting Gijón
+6, Nicolas Frey, FRA, D, 1.80, 80, 06-03-84, Nice, Modena
+7, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, Chelsea
+8, Assane Diousse, SEN, M, 1.75, 68, 20-09-97, Dakar, St-Etienne
+9, Mariusz Stępiński, POL, F, 1.83, 78, 12-05-95, Sieradz, Nantes
+10, Manuel Pucciarelli, ITA, F, 1.74, 67, 17-06-91, Prato, Empoli
+11, Mehdi Léris, FRA, M, 1.86, 77, 23-05-98, Mont-de-Marsan, None
+12, Boštjan Cesar, SVN, D, 1.91, 89, 09-07-82, Ljubljana, Grenoble
+13, Sofian Kiyine, BEL, M, 1.82, 72, 02-10-97, Verviers, Standard Liège
+14, Mattia Bani, ITA, D, 1.88, 81, 10-12-93, Borgo San Lorenzo, Pro Vercelli
+15, Luca Rossettini, ITA, D, 1.87, 80, 09-05-85, Padua, Genoa
+16, Andrea Seculin, ITA, G, 1.90, 83, 14-07-90, Gorizia, Fiorentina
+17, Emanuele Giaccherini, ITA, F, 1.67, 60, 05-05-85, Bibbiena, Napoli
+18, Ibrahim Karamoko, FRA, M, 1.87, 80, 23-07-01, Paris, Lille
+19, Musa Juwara, GAM, F, 1.70, 60, 26-12-01, , None
+20, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Lazio
+21, Mauro Burruchaga, ARG, M, 1.74, 64, 27-06-98, Buenos Aires, River Plate
+22, Michele Bragantini, ITA, G, 1.87, 74, 14-05-01, Verona, None
+24, Thaddee Kaleba, FRA, D, 1.87, , 20-04-99, , Lyon
+25, Sergej Grubac, MNE, F, 1.90, 80, 29-05-00, Belgrade, APOEL
+26, Massimo Bertagnoli, ITA, M, 1.78, 72, 26-02-99, Verona, None
+27, Fabio Depaoli, ITA, D, 1.78, 71, 24-04-97, Riva del Garda, None
+31, Sergio Pellissier, ITA, F, 1.75, 76, 12-04-79, Aosta, Torino
+33, Marco Andreolli, ITA, D, 1.87, 80, 10-06-86, Ponte dell'Olio, Cagliari
+40, Nenad Tomović, SRB, D, 1.84, 81, 30-08-87, Kragujevac, Fiorentina
+44, Paweł Jaroszyński, POL, D, 1.84, 83, 02-10-94, Lublin, Cracovia Kraków
+55, Emanuel Vignato, BRA, F, 1.75, 67, 24-08-00, Negrar, None
+56, Perparim Hetemaj, FIN, M, 1.75, 74, 12-12-86, Srbica, Brescia
+67, Elia Caprile, ITA, G, 1.91, 74, 25-08-01, Verona, None
+69, Riccardo Meggiorini, ITA, F, 1.82, 78, 04-09-85, Isola della Scala, Torino
+70, Stefano Sorrentino, ITA, G, 1.86, 87, 28-03-79, Cava dei Tirreni, Palermo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+47, Martin Valjent, SVK, D, 1.86, 83, 11-12-95, Dubnica nad Váhom, Mallorca (On Loan)
+66, Gianluca Gaudino, GER, M, 1.74, 69, 11-11-96, Hanau, Young Boys
+23, Valter Birsa, SVN, M, 1.84, 81, 07-08-86, Sempeter pri Gorici, Cagliari
+91, Michele Rigione, ITA, D, 1.85, 83, 07-03-91, Naples, Novara (On Loan)
+8, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Genoa
+22, Joel Chukwuma Obi, NGA, M, 1.78, 71, 22-05-91, Lagos, Alanyaspor (On Loan)
+29, Fabrizio Cacciatore, ITA, D, 1.82, 85, 08-10-86, Turin, Cagliari (On Loan)

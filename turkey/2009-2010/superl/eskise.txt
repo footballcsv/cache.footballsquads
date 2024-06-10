@@ -1,0 +1,47 @@
+=  Eskisehirspor - Turkish Süper Lig 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanja Iveša, CRO, G, 2.05, 97, 21-07-77, Pula, Slaven Belupo
+3, Murat Önür, TUR, D, 1.75, 69, 15-02-81, Afşin, Diyarbakırspor
+5, Abdel El-Saqua, EGY, D, 1.84, 81, 30-01-74, Dakahlia, Gençlerbirliği
+6, Veysel Sarı, TUR, M, 1.85, 78, 25-07-88, Beyoğlu, Beylerbeyi
+7, Volkan Yaman, TUR, D, 1.83, 87, 27-08-82, Munich, Galatasaray
+8, Ragıp Başdağ, TUR, F, 1.78, 75, 09-06-78, Trabzon, Kayserispor
+9, Hakan Demir, TUR, F, 1.73, 65, 06-10-90, Eskişehir, None
+10, Mehmet Yılmaz, TUR, F, 1.85, 80, 22-05-79, Of, Ankaragücü
+13, Safet Nadarević, BIH, D, 1.85, 80, 30-08-80, Cazin, NK Zagreb
+14, Alper Potuk, TUR, M, 1.81, 70, 08-04-91, Blovadin, None
+18, Hüseyin Güngör, TUR, D, 1.90, 80, 18-08-90, Kartal, None
+19, Serdar Özbayraktar, TUR, F, 1.80, 80, 23-11-81, Hopa, Gaziantep BB
+20, Doğa Kaya, TUR, M, 1.77, 67, 30-06-84, Ankara, Gençlerbirliği OFTAŞ
+21, Bülent Kocabey, TUR, M, 1.73, 69, 08-06-84, Istanbul, Gençlerbirliği OFTAŞ
+22, Kayacan Erdoğan, TUR, G, 1.88, 80, 21-03-88, Eskişehir, None
+23, Sefa Cengiz, TUR, M, 1.82, 70, 23-09-90, Eskişehir, None
+26, Arda Dinçer, TUR, F, 1.87, 75, 30-07-90, Eskişehir, None
+27, Luka Vučko, CRO, D, 1.97, 93, 11-04-84, Split, NK Rijeka
+28, Caner Celep, TUR, M, 1.83, 75, 21-07-84, Istanbul, Denizlispor
+29, Atilla Koca, TUR, G, 1.85, 81, 16-07-80, Torul, Sakaryaspor
+30, Jaycee Okwunwanne, BHR, F, 1.80, 80, 08-10-85, Lagos, Excelsior Mouscron
+33, Fahri Tatan, TUR, M, 1.75, 73, 30-05-83, Rize, Denizlispor
+39, Aydın Yılmaz, TUR, M, 1.76, 65, 29-01-88, Bakirköy, Galatasaray
+45, Sezer Öztürk, TUR, M, 1.78, 78, 03-11-85, Cologne, Manisaspor
+51, Koray Arslan, TUR, D, 1.78, 70, 01-10-83, Niğde, Güngören Belediyespor
+55, Bülent Ertuğrul, TUR, M, 1.81, 76, 17-09-78, Denizli, Denizlispor
+58, Adem Sarı, TUR, M, 1.83, 74, 09-05-85, Villingen-Schwenningen, Pfullendorf
+60, Nuri Fatih Aydın, TUR, M, 1.76, 69, 01-01-95, Konya, None
+73, Ersen Ekram, TUR, F, , , 01-03-91, Antakya, Hatayspor
+75, Sezgin Coşkun, TUR, D, 1.85, 81, 23-08-84, Ardahan, Gaziantep BB
+77, Erkan Zengin, SWE, M, 1.80, 72, 05-08-85, Fittja, Beşiktaş
+91, Abdullah Cemal Küçükyılmaz, TUR, F, , , 24-02-91, Kütahya, None
+92, Mikail Albayrak, FRA, M, 1.77, 76, 06-04-92, , None
+99, Ümit Karan, TUR, F, 1.81, 75, 01-10-76, Berlin, Galatasaray
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Özgür Öçal, TUR, M, 1.75, 70, 05-10-81, Istanbul, Kasımpaşa (On Loan)
+4, Tarık Mayhoş, TUR, M, 1.82, 72, 01-07-90, Sakarya, Sarıyer (On Loan)
+18, Hüseyin Güngör, TUR, D, 1.90, 80, 18-08-90, Kartal, Sarıyer (On Loan)
+11, Souleymane Youla, GUI, F, 1.80, 76, 29-11-81, Conakry, Denizlispor
+38, Selçuk Alibaz, TUR, M, 1.77, 69, 03-12-89, Sandhausen, Afyonkarahisarspor (On Loan)
+17, Burak Yılmaz, TUR, F, 1.88, 81, 15-07-85, Antalya, Fenerbahçe

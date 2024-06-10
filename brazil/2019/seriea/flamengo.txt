@@ -1,0 +1,51 @@
+=  Flamengo - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Alves, BRA, G, 1.88, 83, 24-06-85, Rio de Janeiro, Valencia
+2, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, São Paulo
+4, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Manchester C
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Botafogo
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Sport Recife
+7, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Al-Ahli [UAE]
+8, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Roma
+9, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+10, Diego, BRA, M, 1.74, 76, 28-02-85, Ribeirão Preto, Fenerbahçe
+11, Vitinho, BRA, F, 1.78, 69, 09-10-93, Rio de Janeiro, CSKA Moscow
+13, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Bayern Munich
+14, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Cruzeiro
+15, Vinicius Souza, BRA, M, 1.87, 80, 17-06-99, Rio de Janeiro, None
+16, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Atlético Madrid
+17, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, None
+19, Reinier, BRA, M, 1.85, 72, 19-01-02, Brasília, None
+22, Gabriel Batista, BRA, G, 1.91, 85, 03-06-98, São Gonçalo, None
+23, Lucas Silva, BRA, F, 1.76, 66, 31-01-98, Rio de Janeiro, None
+25, Robert Piris Da Motta, PAR, M, 1.78, 72, 26-07-94, Ciudad del Este, San Lorenzo
+26, Thuler, BRA, D, 1.85, 75, 10-03-99, Rio de Janeiro, None
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Santos
+28, Orlando Berrío, COL, F, 1.82, 73, 14-02-91, Cartagena, Atlético Nacional
+29, Lincoln, BRA, F, 1.75, 60, 16-12-00, Serra, None
+32, João Lucas, BRA, D, 1.81, 72, 09-03-98, Belo Horizonte, Bangu
+37, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+40, Pepê, BRA, M, 1.83, 77, 06-01-98, Rio de Janeiro, None
+44, Rhodolfo, BRA, D, 1.93, 82, 11-08-86, Bandeirantes, Beşiktaş
+45, Hugo Souza, BRA, G, 1.96, 94, 31-01-99, Duque de Caxias, None
+46, Yago, BRA, G, 1.96, 88, 13-09-99, Rio Branco, None
+54, Vitor Gabriel, BRA, F, 1.84, 78, 20-01-00, Rio de Janeiro, None
+55, Matheus Dantas, BRA, D, 1.86, 77, 05-09-98, Campo Grande, None
+57, Yuri César, BRA, M, 1.72, 68, 06-05-00, Volta Redonda, None
+58, Rafael Santos, BRA, D, 1.84, 72, 02-02-98, Guarujá, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Juan, BRA, D, 1.82, 78, 01-02-79, Rio de Janeiro, Retired
+30, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, América Mineiro (On Loan)
+20, Fernando Uribe, COL, F, 1.81, 77, 01-01-88, Pereira, Santos
+16, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Bahia (On Loan)
+59, Bill, BRA, F, 1.75, 68, 07-05-99, Belford Roxo, Ponte Preta (On Loan)
+21, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Santos
+13, Miguel Trauco, PER, D, 1.75, 62, 25-08-92, Tarapoto, St-Etienne
+43, Léo Duarte, BRA, D, 1.83, 76, 17-07-96, Mococa, Milan
+31, Kleber, BRA, D, 1.64, 62, 02-08-98, Rio de Janeiro, Tokyo Verdy (On Loan)
+8, Gustavo Cuéllar, COL, M, 1.77, 76, 14-10-92, Barranquilla, Al-Hilal [KSA]

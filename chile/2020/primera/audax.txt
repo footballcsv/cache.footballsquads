@@ -1,0 +1,40 @@
+=  Audax Italiano - Chilean Primera División 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joaquín Muñoz, CHI, G, 1.81, 83, 28-12-90, Santiago, Municipal La Pintana
+2, Carlos Labrín, CHI, D, 1.81, 81, 02-12-90, Mulchén, San Marcos de Arica
+3, Manuel Fernández, URU, D, 1.81, 79, 25-01-89, Montevideo, Coquimbo Unido
+4, Osvaldo Bosso, CHI, D, 1.75, 64, 14-10-93, Santiago, None
+5, Fabián Torres, CHI, D, 1.80, 78, 27-04-89, Copiapó, Coquimbo Unido
+6, Diego Torres, CHI, D, 1.75, 70, 31-07-92, Estación Central, Palestino
+7, Nicolás Fernández, CHI, D, 1.70, 66, 03-08-99, Santiago, None
+8, René Melendez, CHI, M, 1.75, 64, 19-11-98, San Antonio, None
+9, Rodrigo Holgado, ARG, F, 1.79, 79, 28-06-95, Buenos Aires, Coquimbo Unido
+10, Ariel Martínez, CHI, M, 1.76, 69, 10-01-94, Melipilla, Colo-Colo
+11, Jorge Henríquez, CHI, M, 1.76, 68, 17-06-94, Santiago, None
+12, José Devecchi, ARG, G, 1.87, 83, 09-07-95, Capital Federal, San Lorenzo
+13, Joaquín García, CHI, G, 1.82, 78, 06-05-99, Puerto Octay, None
+14, Iván Ledezma, CHI, M, 1.72, 70, 19-06-95, Antofagasta, Coquimbo Unido
+15, Nicolás Crovetto, CHI, D, 1.75, 70, 15-03-86, Coquimbo, Coquimbo Unido
+16, Álvaro Delgado, CHI, F, 1.74, 66, 13-05-95, Iquique, Coquimbo Unido
+17, Bryan Figueroa, CHI, M, 1.80, 69, 21-06-99, La Granja, None
+18, Joaquín Montecinos, CHI, M, 1.73, 68, 07-12-95, Barranquilla, Deportes Melipilla
+19, Jesús Ramírez, VEN, F, 1.84, 76, 04-05-98, Tovar, Coquimbo Unido
+20, Pablo Lavandeira, URU, M, 1.73, 70, 11-05-90, Pando, Universitario de Deportes
+21, Luis Cabrera, CHI, M, 1.68, 62, 07-01-94, Antofagasta, Deportes Antofagasta
+22, Nicolás Orellana, CHI, F, 1.80, 67, 03-09-95, Santiago, Universidad de Concepción
+23, Cristobal Marín, CHI, M, 1.66, 66, 17-01-94, La Serena, Deportes La Serena
+24, Cristóbal Muñoz, CHI, D, 1.84, 75, 11-10-99, -, None
+25, Tomás Ahumada, CHI, G, 1.81, 74, 24-06-01, Recoleta, None
+26, Alfred Canales, CHI, M, 1.89, 73, 27-04-00, San Ramón, None
+27, Marcelo Medel, CHI, D, 1.68, 56, 24-09-00, Providencia, None
+28, Oliver Rojas, CHI, M, 1.79, 73, 11-06-00, Puente Alto, None
+29, Yosimar Rodríguez, ECU, F, 1.83, 73, 27-01-00, -, None
+30, Genaro Ponce, CHI, F, -, -, 15-04-00, -, None
+31, Javier Quiñones, CHI, M, 1.78, 75, 07-10-02, La Ligua, None
+32, Gonzalo Álvarez, CHI, F, 1.72, 69, 20-01-97, San Felipe, Unión San Felipe
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Ricardo Escobar, CHI, D, 1.75, 71, 30-03-98, Santiago, Deportivo Magallanes (On Loan)

@@ -1,0 +1,49 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magrão, BRA, G, 1.87, 79, 09-04-77, São Paulo, Rio Branco-SP
+2, Vitor, BRA, D, 1.72, 66, 29-07-82, Delmiro Golveia, Palmeiras
+3, Ewerton Páscoa, BRA, D, 1.90, 78, 14-03-89, São Paulo, Audax-SP
+4, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Santos
+5, Rodrigo Mancha, BRA, M, 1.86, 80, 16-06-86, Curitiba, Oita Trinita
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, None
+7, Augusto César, BRA, M, 1.78, 69, 06-08-92, Porto Alegre, Internacional
+9, Neto Baiano, BRA, F, 1.87, 82, 17-09-82, Ituaçu, Goiás
+10, Régis, BRA, M, 1.70, 72, 30-11-92, Jales, Chapecoense
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Busan I'Park
+12, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Atlético Mineiro
+13, Ferron, BRA, D, 1.87, 83, 11-11-85, Rondonópolis, Ponte Preta
+14, Danilo, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, América Mineiro
+15, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, Fluminense
+16, Igor, BRA, D, 1.83, 78, 06-06-92, São Paulo, Corinthians
+17, Wendel, BRA, M, 1.84, 71, 08-04-82, Mariana, Vasco da Gama
+18, Érico Júnior, BRA, F, 1.78, 70, 22-07-93, Recife, Vitória das Tabocas
+19, Leonardo, BRA, F, 1.85, 77, 26-10-82, Nova Lima, Atlético Mineiro
+20, Mike, BRA, F, 1.75, 64, 08-03-93, Suzano, Internacional
+21, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Goiás
+22, Oswaldo, BRA, D, 1.88, 78, 27-12-92, Olinda, None
+25, Neto, BRA, M, 1.76, 70, 06-08-96, Atalaia, None
+26, Flávio, BRA, G, 1.97, 80, 18-05-93, Maceió, None
+27, Ananias, BRA, F, 1.66, 60, 20-01-89, São Luis, Cruzeiro
+29, Ronaldo, BRA, M, 1.80, 73, 27-06-94, Recife, None
+30, Lucas, BRA, G, 1.87, 80, 20-10-97, Recife, None
+31, Zé Márío, BRA, M, 1.75, 70, 20-02-92, Medianeira, Internacional
+32, Hyago, BRA, M, , , 22-04-95, , None
+33, Henrique Mattos, BRA, D, 1.91, 82, 25-07-90, Ribeirão Preto, Botafogo-SP
+34, Joelinton, BRA, F, 1.90, 76, 14-08-96, Aliança, None
+35, Leandro Vicentin, BRA, D, , , 28-07-94, , Paulista
+36, Diclecio, BRA, M, , , 22-05-97, , None
+37, James Dean, BRA, F, 1.69, 60, 22-07-97, Maceió, Corinthians Alagoano
+40, Saulo, BRA, G, 1.95, 75, 02-04-89, Piranhas, None
+80, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, Bologna
+87, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Metalist Kharkiv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Bileu, BRA, M, 1.77, 69, 28-03-89, Aroura, Santa Cruz
+, Enrique Meza, PAR, D, 1.83, 81, 28-11-85, Villa Elisa, Chapecoense
+, Robert Flores, URU, M, 1.79, 65, 13-05-86, Montevideo, River Plate [URU]
+28, Bruninho, BRA, F, 1.67, 70, 25-02-90, Sorocaba, América Mineiro (On Loan)
+23, Renan Oliveira, BRA, M, 1.82, 72, 29-12-89, Itabira, Atlético Mineiro
+8, Aílton, BRA, M, 1.74, 73, 13-10-84, Recife, Santa Cruz (On Loan)

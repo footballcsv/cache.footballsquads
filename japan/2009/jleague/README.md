@@ -1,0 +1,21 @@
+# Japanese J.League 2009
+
+18 teams
+- [Albirex Niigata](albirex.txt)
+- [Gamba Osaka](gamba.txt)
+- [JEF United](jef.txt)
+- [Júbilo Iwata](jubilo.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kashiwa Reysol](kashiwa.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Kyoto Sanga](kyoto.txt)
+- [Montedio Yamagata](montedio.txt)
+- [Nagoya Grampus](nagoya.txt)
+- [Oita Trinita](oita.txt)
+- [Omiya Ardija](omiya.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shimizu S-Pulse](shimizu.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Vissel Kobe](vissel.txt)
+- [Yokohama F Marinos](yokohama.txt)

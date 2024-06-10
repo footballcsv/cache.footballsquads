@@ -1,0 +1,52 @@
+=  Las Palmas - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raúl, ESP, G, 1.96, 88, 13-03-88, Bilbao, Levante
+2, Mauricio Lemos, URU, D, 1.87, 84, 28-12-95, Rivera, Rubin Kazan
+3, Alberto De La Bella, ESP, D, 1.81, 78, 02-12-85, Santa Coloma de Gramanet, Real Sociedad
+4, Alex Suárez, ESP, D, 1.79, 75, 18-03-93, Las Palmas, Las Palmas B
+5, Martín Mantovani, ARG, D, 1.83, 77, 07-07-84, San Miguel, Leganés
+6, Eric Curbelo, ESP, D, 1.73, 69, 14-01-94, Telde, Las Palmas B
+7, Rubén Castro, ESP, F, 1.74, 72, 27-06-81, Las Palmas, Betis
+8, Ariday Cabrera, ESP, F, 1.72, 68, 26-09-88, Las Palmas, Mallorca
+9, Jean-Armel Drolé, CIV, F, 1.85, 72, 18-08-97, Abidjan, Antalyaspor
+11, Benito Ramírez, ESP, M, 1.75, 70, 11-07-95, Las Palmas, Las Palmas B
+12, Juan José Narváez, COL, M, 1.80, 76, 12-02-95, Pasto, Betis B
+13, Josep Martínez, ESP, G, 1.91, 79, 27-05-98, Alzira, Barcelona B
+14, Álvaro Lemos, ESP, D, 1.75, 72, 30-03-93, La Coruña, Celta Vigo
+15, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Las Palmas B
+16, Fede Varela, ARG, M, 1.75, 62, 18-04-97, Lanús, Leganés
+17, Cristian López, ESP, F, 1.87, 75, 27-04-89, Elche, Hatta Club
+18, Javi Castellano, ESP, M, 1.81, 74, 02-11-87, Las Palmas, Mallorca B
+19, Iñigo Ruiz de Galarreta, ESP, M, 1.74, 66, 06-08-93, San Sebastián, Mallorca
+20, Kirian Rodríguez, ESP, M, 1.78, 76, 05-03-96, Candelaria, Las Palmas B
+22, Cristian Cedrés, ESP, M, 1.72, 59, 24-01-96, Las Palmas, Villarreal B
+23, Dani Castellano, ESP, D, 1.78, 74, 02-11-87, Las Palmas, Mallorca B
+24, Slavoljub Srnić, SRB, M, 1.73, 66, 12-01-92, Šabac, Crvena Zvezda
+25, Aythami, ESP, D, 1.84, 79, 02-04-86, Arguineguín, Córdoba
+26, Clau, ESP, F, 1.86, 78, 08-12-00, Arrecife, Las Palmas B
+27, Pol, ESP, M, 1.82, 66, 02-04-01, Girona, Las Palmas B
+28, Pedri, ESP, M, 1.77, 68, 25-11-02, Tegueste, Las Palmas B
+29, Josemi Castañeda, ESP, M, 1.73, 65, 26-02-98, Suances, Las Palmas B
+30, Álex Domínguez, ESP, G, 1.87, 80, 30-07-98, Granollers, Alavés B
+31, Jesús Fortes, ESP, D, , , 22-06-97, Santa Cruz de Tenerife, Las Palmas B
+32, Álvaro Valles, ESP, G, 1.90, 78, 25-05-97, La Rinconada, Betis B
+33, Ale Gorrín, ESP, G, , , 08-08-02, , Las Palmas B
+34, Juan Fernández, ESP, F, 1.78, 72, 11-09-99, Barcelona, Cornellà
+36, David Herrera, ESP, D, 1.73, 60, 05-07-97, Fuenlabrada, Las Palmas B
+37, Dani Martín, ESP, D, , , 31-05-97, Las Palmas, Las Palmas B
+38, Pablo Haro, ESP, M, , , 17-06-97, , Las Palmas B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, David Tímor, ESP, M, 1.85, 77, 17-10-89, Carcaixent, Getafe
+30, Josep Martínez, ESP, G, 1.91, 79, 27-05-98, Alzira, Re-Registered (13)
+21, Jonathan Viera, ESP, M, 1.71, 66, 21-10-89, Las Palmas, Beijing Guoan
+8, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Albacete (On Loan)
+15, Deivid, ESP, D, 1.88, 72, 27-01-89, Las Palmas, Nea Salamis (On Loan)
+10, Sergio Araujo, ARG, F, 1.80, 72, 28-01-92, Capital Federal, AEK (On Loan)
+27, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Re-Registered (15)
+33, Boris Rapaić, CRO, F, 1.81, 77, 24-10-97, Split, Internazionale
+26, Toni Segura, ESP, M, 1.75, 68, 31-03-98, Las Palmas, Legia Warszawa
+17, Tomáš Pekhart, CZE, F, 1.95, 91, 26-05-89, Sušici, Legia Warszawa

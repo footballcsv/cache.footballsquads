@@ -1,0 +1,41 @@
+=  Getafe - Spanish La Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Óscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Independiente
+2, Daniel Díaz, ARG, D, 1.82, 74, 13-03-79, San Fernando del Valle, Boca Juniors
+3, Mané, ESP, D, 1.75, 72, 22-12-81, Algeciras, Almería
+4, Miguel Torres, ESP, D, 1.84, 78, 28-01-86, Madrid, Real Madrid
+5, Alexis, ESP, D, 1.83, 75, 04-08-85, Málaga, Sevilla
+6, Mehdi Lacen, ALG, M, 1.76, 74, 15-03-84, Versailles, Racing Santander
+7, Miku, VEN, M, 1.85, 80, 19-08-85, Caracas, Valencia
+8, Pablo Sarabia, ESP, M, 1.77, 72, 11-05-92, Madrid, Real Madrid B
+10, Jaime Gavilán, ESP, M, 1.78, 71, 12-05-85, Valencia, Valencia
+12, Pedro León, ESP, M, 1.82, 70, 24-11-86, Mula, Real Madrid
+13, Jordi Codina, ESP, G, 1.84, 79, 27-04-82, Barcelona, Real Madrid
+14, Javier Arizmendi, ESP, F, 1.89, 76, 03-03-84, Madrid, Zaragoza
+15, Rafa, ESP, D, 1.83, 72, 09-04-85, Peñafiel, Valladolid
+16, Pedro Ríos, ESP, M, 1.77, 72, 12-12-81, Jerez de la Frontera, Xerez
+17, Diego Castro, ESP, F, 1.74, 71, 02-07-82, Pontevedra, Sporting Gijón
+18, Tsepo Masilela, RSA, D, 1.75, 70, 05-05-85, Witbank, Maccabi Haifa
+19, Dani Güiza, ESP, F, 1.80, 80, 17-08-80, Jerez de la Frontera, Fenerbahçe
+20, Juan Valera, ESP, D, 1.84, 70, 21-12-84, La Copa de Bullas, Atlético Madrid
+21, Míchel, ESP, M, 1.83, 72, 09-11-85, Pola de Lena, Birmingham C
+22, Javi Casquero, ESP, M, 1.80, 73, 19-08-76, Toledo, Racing Santander
+23, Juan Rodríguez, ESP, M, 1.85, 80, 01-04-82, Málaga, Deportivo La Coruña
+24, Rubén Pérez, ESP, M, 1.78, 72, 26-04-89, Seville, Atlético Madrid B
+25, Miguel Ángel Moyá, ESP, G, 1.85, 75, 02-04-84, Binissalem, Valencia
+28, Abdelaziz Barrada, MAR, M, 1.79, 73, 19-06-89, Provins, Paris St-Germain
+29, Álvaro Arroyo, ESP, D, 1.80, 71, 22-07-88, Madrid, Getafe B
+30, Álex Pérez, ESP, D, 1.89, 80, 11-08-91, Madrid, Getafe B
+32, Hugo Fraile, ESP, F, 1.70, 62, 16-03-87, Huelva, Rayo Vallecano B
+33, Samuel, ESP, M, 1.74, 68, 22-01-91, Madrid, Melilla
+35, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Hércules (On Loan)
+11, Pedro Mosquera, ESP, M, 1.83, 77, 21-04-88, La Coruña, Real Madrid B (On Loan)
+14, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Milan
+9, Adrián Colunga, ESP, F, 1.72, 70, 17-11-84, Oviedo, Sporting Gijón (On Loan)
+5, Alberto Lopo, ESP, D, 1.86, 81, 05-05-80, Barcelona, De-Registered

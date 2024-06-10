@@ -1,0 +1,41 @@
+=  Nantes - French Ligue 1 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alban Lafont, FRA, G, 1.93, 80, 23-01-99, Ouagadougou, Fiorentina
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Middlesbrough
+3, Wesley Moustache, FRA, D, 1.77, 80, 26-02-99, Alfortville, None
+4, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Bordeaux
+6, Roli Pereira de Sa, FRA, M, 1.77, 71, 10-12-96, Mantes-la-Jolie, Paris St-Germain
+7, Kalifa Coulibaly, MLI, F, 1.97, 84, 21-08-91, Bamako, KAA Gent
+8, Marcus Coco, FRA, M, 1.84, 76, 24-06-96, Les Abymes, Guingamp
+10, Cristian Benavente, PER, M, 1.72, 68, 19-05-94, Alcalá de Henares, Pyramids FC
+11, Mehdi Abeid, ALG, M, 1.78, 77, 06-08-92, Montreuil, Dijon
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, Anderlecht
+13, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Udinese
+14, Charles Traoré, MLI, D, 1.80, 74, 01-01-92, Aulnay-sous-Bois, Troyes
+15, Anthony Limbombe, BEL, F, 1.75, 72, 15-07-94, Mechelen, Club Brugge
+16, Alexandre Olliero, FRA, G, 1.93, 85, 15-02-96, La Rochelle, La Rochelle
+17, Ludovic Blas, FRA, M, 1.80, 64, 31-12-97, Colombes, Guingamp
+18, Samuel Moutoussamy, FRA, M, 1.76, 71, 12-08-96, Paris, Lyon
+19, Abdoulaye Touré, FRA, M, 1.87, 77, 03-03-94, Nantes, None
+20, Andrei Girotto, BRA, M, 1.85, 77, 17-02-92, Bento Gonçalves, Tombense
+21, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Granada
+22, Bridge Ndilu, FRA, F, 1.86, 80, 21-07-00, Le Mans, Laval
+23, Thomas Basila, FRA, D, 1.87, 77, 30-04-99, Orléans, None
+24, Élie Youan, FRA, F, 1.81, 70, 07-04-99, Nantes, None
+25, Josué Homawoo, TOG, D, 1.90, 84, 12-11-97, Lomé, None
+26, Imran Louza, FRA, M, 1.78, 65, 01-05-99, Nantes, None
+27, Moses Simon, NGA, F, 1.68, 66, 12-07-95, Jos, Levante
+28, Renaud Emond, BEL, F, 1.86, 73, 05-12-91, Virton, Standard Liège
+29, Batista Mendy, FRA, D, 1.91, 82, 12-01-00, Saint-Nazaire, None
+30, Denis Petric, SRB, G, 1.86, 80, 24-05-88, Ljubljana, Guingamp
+32, Kader Bamba, FRA, M, 1.76, 68, 25-04-94, Sarcelles, Le Mans
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Randal Kolo Muani, COD, F, 1.87, 73, 05-12-98, Bondy, Boulogne (On Loan)
+17, Lucas Evangelista, BRA, M, 1.81, 79, 06-05-95, Limeira, Vitória Guimarães (On Loan)
+6, Lima, BRA, D, 1.78, 72, 10-10-91, Estação, Al-Ahli Saudi
+28, Valentin Rongier, FRA, M, 1.72, 66, 07-12-94, Mâcon, Marseille
+5, Joris Kayembe, BEL, M, 1.82, 73, 08-08-94, Brussels, Charleroi

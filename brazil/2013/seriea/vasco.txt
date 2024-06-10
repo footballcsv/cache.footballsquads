@@ -1,0 +1,56 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michel Alves, BRA, G, 1.88, 87, 25-03-81, Pelotas, Criciúma
+3, Rodolfo, BRA, D, 1.83, 77, 23-10-82, Santos, Lokomotiv Moscow
+4, Nei, BRA, D, 1.77, 75, 06-12-85, Bragança Paulista, Internacional
+5, Pablo Guiñazú, ARG, M, 1.72, 71, 26-08-78, General Cabrera, Libertad
+6, Yoshimar Yotún, PER, D, 1.71, 72, 07-04-90, Callao, Sporting Cristal
+8, Juninho Pernambucano, BRA, M, 1.78, 71, 30-01-75, Recife, New York Red Bulls
+9, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Atlético Mineiro
+10, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Cruzeiro
+11, Carlos Tenorio, ECU, F, 1.82, 78, 14-05-79, Esmeraldas, Al-Gharafa
+12, Alessandro, BRA, G, 1.91, 88, 30-03-88, Cascavel, Grêmio
+13, Cris, BRA, D, 1.83, 77, 03-06-77, Guarulhos, Grêmio
+14, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, None
+15, Fillipe Soutto, BRA, M, 1.77, 77, 11-03-91, Belo Horizonte, Atlético Mineiro
+16, Francismar, BRA, M, 1.72, 63, 18-04-84, Ubá, Boa
+17, Wendel, BRA, M, 1.84, 71, 08-04-82, Mariana, Al-Shabab
+18, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Ceará
+19, Edmílson, BRA, F, 1.83, 77, 15-09-82, Salvador, Al-Gharafa
+20, Santiago Montoya, COL, M, 1.73, 63, 15-09-91, Medellín, All Boys
+22, Abuda, BRA, M, 1.76, 73, 22-01-89, Almerim, Cruzeiro-RS
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, Wolfsburg
+25, Diogo Silva, BRA, G, 1.91, 81, 08-07-86, Cuiabá, Nova Iguaçu
+27, Yago, BRA, F, 1.74, 70, 28-04-94, Cachoeiro do Itapemirim, None
+28, Jomar, BRA, D, 1.85, 78, 28-09-92, Rio de Janeiro, Tigres do Brasil
+29, Jhon Cley, BRA, F, 1.80, 78, 09-03-94, Brasília, None
+30, Marlone, BRA, M, 1.80, 78, 02-04-92, Augustinópolis, None
+31, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, Cruzeiro
+32, Guilherme Costa, BRA, M, 1.75, 70, 31-03-94, Rio de Janeiro, None
+33, Renato Silva, BRA, D, 1.80, 73, 26-07-83, Colinas de Goiás, Shandong Luneng
+35, Baiano, BRA, M, 1.77, 75, 13-06-92, Rio de Janeiro, None
+36, Dieyson, BRA, D, 1.76, 70, 30-06-93, Itacurubi, None
+37, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, None
+39, Thalles, BRA, F, 1.85, 77, 18-05-95, Rio de Janeiro, None
+40, Jordi, BRA, G, 1.91, 81, 03-09-93, Volta Redonda, None
+41, Robinho, BRA, F, 1.76, 70, 08-09-87, Volta Redonda, Guarani
+84, Sandro Silva, BRA, M, 1.86, 76, 29-04-84, Rio de Janeiro, Málaga
+87, Dakson Da Silva, BRA, M, 1.76, 72, 11-07-87, Santa de Panama, Lokomotiv Plovdiv
+91, Reginaldo, BRA, F, 1.75, 72, 31-07-83, Jundiaí, Siena
+93, Willie, BRA, F, 1.69, 66, 15-05-93, Caravelas, Vitória
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Carlos Alberto, BRA, M, 1.77, 71, 11-12-84, Rio de Janeiro, 
+20, Romário, BRA, F, 1.91, 80, 15-01-92, Campos, Arouca (On Loan)
+8, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Re-Registered (10)
+5, Fillipe Soutto, BRA, M, 1.77, 77, 11-03-91, Belo Horizonte, Re-Registered (15)
+2, Elsinho, BRA, D, 1.87, 75, 30-11-89, Porto Velho, Tombense
+27, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, Cruzeiro
+7, Éder Luís, BRA, F, 1.70, 69, 19-04-85, Uberaba, Al-Nasr [UAE] (On Loan)
+29, Leonardo, BRA, F, 1.85, 77, 26-10-82, Nova Lima, Atlético Mineiro
+97, Thiaguinho, BRA, F, 1.70, 67, 01-03-91, Goiás, Guaratinguetá
+21, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Ponte Preta (On Loan)
+38, Fábio Lima, BRA, M, 1.78, 75, 23-10-93, Araçagi, Atlético Goianiense

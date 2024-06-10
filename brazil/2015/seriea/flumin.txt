@@ -1,0 +1,53 @@
+=  Fluminense - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kléver, BRA, G, 1.88, 82, 20-06-89, Mirassol, None
+2, Antônio Carlos, BRA, D, 1.84, 84, 22-06-83, Rio de Janeiro, São Paulo
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+4, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, None
+5, Pierre, BRA, M, 1.72, 67, 19-01-82, Itororó, Atlético Mineiro
+6, Giovanni, BRA, D, 1.82, 73, 23-06-89, Santos, Criciúma
+7, Jean, BRA, M, 1.70, 70, 24-06-86, Campo Grande, São Paulo
+8, Edson, BRA, M, 1.83, 75, 01-07-91, Touros, São Bernardo
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Lyon
+11, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Tombense
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+13, João Filipe, BRA, D, 1.90, 76, 11-06-88, Rio de Janeiro, Tombense
+14, Victor Oliveira, BRA, D, 1.90, 78, 28-05-94, Conceição do Araguaia, Atlético Goianiense
+15, Rafinha, BRA, M, 1.77, 74, 05-08-93, Rio de Janeiro, None
+16, Renato, BRA, D, 1.75, 65, 19-01-90, Maceió, Sport Recife
+17, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Al-Ahli [KSA]
+18, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Internazionale
+19, Michael, BRA, F, 1.86, 80, 19-04-93, São Francisco de Sales, None
+20, Magno Alves, BRA, F, 1.75, 64, 13-01-76, Aporá, Ceará
+21, Henrique, BRA, D, 1.88, 78, 02-05-83, São Gonçalo, Bordeaux
+22, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Getafe
+23, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, None
+25, Wellington Silva, BRA, D, 1.77, 88, 06-03-88, Rio de Janeiro, Resende
+26, Breno Lopes, BRA, D, 1.81, 70, 28-09-90, Itacarambi, Cruzeiro
+27, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, None
+28, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, None
+29, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Náutico
+30, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, None
+31, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Internacional
+32, Lucas Gomes, BRA, F, 1.77, 75, 29-05-90, Bragança, Londrina
+34, Robert, BRA, M, 1.75, 70, 28-09-96, São Gonçalo, None
+35, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, None
+36, Ayrton Lucas, BRA, D, 1.80, 72, 19-06-97, Carnaúba dos Dantas, ABC
+37, Artur, BRA, D, 1.89, 73, 11-06-90, Rio de Janeiro, Nova Iguaçu
+38, Higor, BRA, M, 1.77, 62, 02-06-93, Goiás, Internacional
+39, Maximiano, BRA, M, 1.78, 74, 08-05-95, Rio de Janeiro, None
+40, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Desportivo Brasil
+44, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Marlone, BRA, M, 1.80, 78, 02-04-92, Augustinópolis, Penapolense
+27, Pablo Dyego, BRA, M, 1.74, 66, 08-03-94, Rio de Janeiro, Legia Warszawa (On Loan)
+10, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Tianjin Teda
+33, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, Macaé (On Loan)
+19, Alejandro Martinuccio, ARG, F, 1.73, 72, 16-12-87, Capital Federal, 
+31, Bryan Olivera, URU, M, 1.69, 68, 11-03-94, Fort Lauderdale, LA Galaxy (On Loan)
+11, Kenedy, BRA, F, 1.81, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+10, Ronaldinho, BRA, M, 1.82, 80, 21-03-80, Porto Alegre, 

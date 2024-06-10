@@ -1,0 +1,37 @@
+=  Santiago Wanderers - Chilean Primera División 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Fuentes, CHI, G, 1.88, 69, 07-07-99, San Antonio, None
+3, Daniel Gónzalez, CHI, D, 1.83, 72, 20-02-02, Valparaíso, None
+4, Víctor Espinoza, CHI, D, 1.83, 75, 14-03-99, Valparaíso, None
+5, Francisco Alarcón, CHI, D, 1.89, 85, 25-02-90, Santiago, Universidad de Concepción
+7, Matías Fernández, CHI, M, 1.70, 65, 14-08-95, Valparaíso, None
+8, Bernardo Cerezo, CHI, D, 1.78, 76, 21-01-95, Taltal, Deportes La Serena
+9, Gustavo Lanaro, ARG, F, 1.86, 87, 21-03-86, Villa Regina, Deportes Valdivia
+10, Enzo Gutiérrez, ARG, F, 1.82, 78, 28-05-86, Charata, Millonarios
+11, Néstor Canelón, VEN, F, 1.70, 70, 19-08-91, Caracas, Caracas
+12, Mauricio Viana, BRA, G, 1.82, 76, 14-06-89, São Paulo, None
+13, William Gama, CHI, F, 1.71, 66, 30-06-00, Uruguayana, None
+14, Sebastián Ubilla, CHI, F, 1.72, 64, 09-08-90, Quilpué, Universidad de Chile
+15, Matías Marín, CHI, M, 1.69, 64, 19-12-99, Viña del Mar, None
+16, Alexis Valencia, CHI, F, 1.79, 62, 08-02-01, Valparaíso, None
+17, Esli García, VEN, M, 1.63, 58, 14-07-00, Araure, Deportivo Táchira
+18, Víctor Retamal, CHI, D, 1.69, 62, 06-03-98, Limache, None
+19, Ezequiel Luna, ARG, D, 1.78, 74, 19-11-86, Villa Gobernador Gálvez, Palestino
+20, Adrián Cuadra, CHI, D, 1.73, 68, 23-10-97, Valparaíso, None
+21, Marco Medel, CHI, M, 1.77, 72, 30-06-89, Santiago, O'Higgins
+22, Juan Pablo Miño, ARG, M, 1.81, 82, 23-08-87, Rosario, Deportes Iquique
+24, Luis García, CHI, D, 1.71, 70, 09-02-96, Cabildo, None
+25, Byron Martínez, CHI, G, 1.89, 74, 24-01-01, Concón, None
+26, Ángelo Quiñones, CHI, M, 1.75, 73, 20-07-98, Catemu, None
+27, Juan Soto, CHI, D, 1.80, 74, 02-07-94, Papudo, None
+28, Jason León, CHI, F, 1.68, 68, 11-05-00, Quilpué, None
+29, Carlos Rotondi, ARG, F, 1.81, 77, 12-03-97, Río Cuarto, Newell's Old Boys
+31, Axel Herrera, CHI, D, 1.70, 65, 09-03-01, La Ligua, None
+32, Kennan Sepúlveda, CHI, F, 1.78, 73, 08-02-02, Valparaíso, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Franco Ortega, CHI, M, 1.72, 63, 25-06-96, Villa Alemana, San Luis de Quillota (On Loan)
+6, Felipe Alvarado, CHI, D, 1.78, 73, 08-02-99, Valparaíso, Deportes Colina (On Loan)

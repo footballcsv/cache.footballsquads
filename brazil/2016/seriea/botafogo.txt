@@ -1,0 +1,50 @@
+=  Botafogo - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Helton Leite, BRA, G, 1.96, 92, 02-11-90, Belo Horizonte, Criciúma
+, Jefferson, BRA, G, 1.87, 82, 02-01-83, São Vicente, Konyaspor
+, Saulo, BRA, G, 1.90, 85, 20-04-95, Belo Horizonte, Corinthians Alagoano
+, Sidão, BRA, G, 1.89, 88, 24-12-82, São Paulo, Audax
+, Alemão, BRA, D, 1.74, 66, 20-05-90, Taboão da Serra, Bragantino
+, Joel Carli, ARG, D, 1.91, 89, 19-10-86, Mar del Plata, Quilmes
+, Diego, BRA, D, 1.75, 68, 26-02-96, Niterói, None
+, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Coimbra
+, Emerson Santos, BRA, D, 1.84, 75, 05-04-95, Itaboraí, None
+, Emerson Silva, BRA, D, 1.86, 83, 03-05-83, Taguatinga, Atlético Mineiro
+, Luis Ricardo, BRA, D, 1.83, 79, 21-01-84, Goiânia, São Paulo
+, Marcelo, BRA, D, 1.80, 73, 07-01-96, Resende, None
+, Marcinho, BRA, D, 1.78, 71, 16-05-96, Rio de Janeiro, None
+, Renan Fonseca, BRA, D, 1.90, 83, 13-08-90, Ouro Fino, Santa Cruz
+, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, Palmeiras
+, Yuri, BRA, D, 1.73, 74, 08-01-96, Rio de Janeiro, None
+, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Benfica
+, Bochecha, BRA, M, 1.73, 73, 08-06-96, Duque de Caxias, None
+, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Ponte Preta
+, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Al-Shabab [KSA]
+, Dierson, BRA, M, 1.83, 75, 01-08-95, Romelândia, None
+, Dudu Cearense, BRA, M, 1.86, 75, 15-04-83, Fortaleza, Fortaleza
+, Fernandes, BRA, M, 1.75, 68, 21-02-95, Rio de Janeiro, None
+, Gegê, BRA, M, 1.75, 70, 28-01-94, Mombaça, None
+, Leandro, BRA, M, 1.75, 73, 21-09-96, Rio de Janeiro, None
+, Damián Lizio, BOL, M, 1.67, 65, 30-06-89, Florida, Bolívar
+, Matheus Fernandes, BRA, M, 1.83, 67, 30-06-98, Itaboraí, None
+, Gervasio Núñez, ARG, M, 1.78, 74, 29-01-88, Formosa, Sarmiento (Junín)
+, Rodrigo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Madureira
+, Anderson Aquino, BRA, F, 1.74, 70, 18-12-86, Foz do Iguaçu, Linense
+, Gustavo Canales, CHI, F, 1.88, 83, 30-03-82, General Roca, Universidad de Chile
+, Geovane Maranhão, BRA, F, 1.74, 73, 04-02-89, Barreirinhas, Madureira
+, Luis Henrique, BRA, F, 1.84, 81, 17-03-98, Vila Velha, Flamengo
+, Neilton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Cruzeiro
+, Pachu, BRA, F, 1.85, 77, 26-02-96, Rio de Janeiro, None
+, Juan Salgueiro, URU, F, 1.78, 78, 03-04-83, Montevideo, Olimpia [PAR]
+, Renan Gorne, BRA, F, 1.82, 77, 22-02-96, Rio de Janeiro, None
+, Rodrigo Pimpão, BRA, F, 1.76, 67, 21-10-87, Curitiba, Emirates Club
+, Sassá, BRA, F, 1.74, 73, 11-01-94, Rio de Janeiro, None
+, Vinícius, BRA, F, 1.83, 86, 27-03-95, Queimados, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Marquinho, BRA, M, 1.74, 71, 25-09-89, Macaé, Atlético Goianiense (On Loan)
+, Octávio, BRA, M, 1.86, 77, 29-12-93, Rio de Janeiro, Tupi (On Loan)
+, Ribamar, BRA, F, 1.84, 81, 21-05-97, Rio de Janeiro, 1860 Munich

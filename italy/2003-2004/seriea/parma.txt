@@ -1,0 +1,52 @@
+=  Parma - Italian Serie A 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastien Frey, G, 6'02", 13 05, 18-03-80, Thonon les Bain, Internazionale
+2, Sebastiano Girelli, D, , , 03-02-84, Mantova, None
+3, Antonio Benarrivo, D, 5'07", 10 10, 21-08-68, Brindisi, Padova
+4, Anthony Seric, D, 5'11", 11 00, 15-01-79, Sydney, Verona
+5, Daniela Bonera, D, 6'00", 11 09, 31-05-81, Brescia, Brescia
+6, Giuseppe Cardone, D, 6'00", 12 00, 03-03-74, Pavia, Piacenza
+7, Ianis Alin Zicu, F, 5'10", 10 10, 23-10-83, Bucharest, Dinamo Bucharest
+8, Simone Barone, M, 5'11", 11 11, 30-04-78, Nocera Inferiore, Chievo Verona
+10, Domenico Morfeo, M, 5'07", 10 03, 16-01-76, Pescina dei Marsi, Internazionale
+11, Alberto Gilardino, F, 6'00", 12 00, 05-07-82, Biella, Verona
+13, Gabriel Oyola, D, 5'10", 11 11, 25-09-82, San Francisco, Talleres
+14, Marcello Castellini, D, 6'01", 12 00, 02-01-73, Perugia, Bologna
+15, Marco Donadel, M, 5'10", 11 07, 21-04-83, Conegliano Veneto, Milan
+16, Mirco Stefani, M, 5'10", 12 08, 25-01-83, Milan, Milan
+18, Benito Carbone, F, 5'06", 10 06, 14-08-71, Bagnara Calabra, Como
+19, Alessandro Potenza, D, 6'00", 12 00, 08-03-84, San Severo, Internazionale
+20, Alessandro Rosina, F, 5'09", 10 12, 31-01-84, Belvedere Marittimo, None
+21, Matteo Ferrari, D, 6'00", 12 01, 05-12-79, Aflou, Inter
+22, Giordano Vanin, G, , , 19-08-85, Vicenza, None
+23, Mark Bresciano, M, 6'00", 11 07, 11-02-80, Melbourne, Empoli
+24, Fabio Virgili, G, 6'01", 12 11, 26-04-86, Terni, None
+25, Alex Gibbs, F, 5'10", 11 03, 25-01-84, Desio, None
+26, Ibrahima Sori Camara, M, 5'11", 12 04, 01-01-85, Konakry, None
+28, Paolo Cannavaro, D, 6'00", 12 00, 26-06-81, Naples, Verona
+30, Manuele Blasi, M, 6'00", 11 00, 17-08-80, Civitavecchia, Juventus
+31, Paolo Ruffini, M, 5'10", 10 10, 03-03-84, Parma, None
+32, Marco Marchionni, M, 5'09", 10 06, 22-07-80, Monterotondo, Piacenza
+33, Lorenzo Carotti, M, 5'08", 11 11, 31-01-85, Jesi, None
+34, Marco Amelia, G, 6'02", 12 04, 02-04-82, Frascati, Lecce
+35, Abdulahi Isah Eliakwu, F, 5'09", 11 00, 25-10-85, Lokoja, Internazionale
+36, Manuele Sorti, M, , , 14-08-85, Bergamo, None
+37, Daniele Degano, F, 5'11", 11 09, 21-09-82, Crema, Ancona
+38, Fabrizio Cammarata, F, 5'11", 11 07, 30-08-75, Caltanissetta, Cagliari
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Adrian Mutu, F, 5'11", 11 06, 08-01-79, Pitesti, Chelsea
+18, Emiliano Moretti, D, 6'01", 12 08, 11-06-81, Catanzaro, Bologna (On Loan)
+24, Alfonso De Lucia, G, 6'01", 13 01, 11-12-83, Nola, Salernitana (On Loan)
+26, Matteo Brighi, M, 5'10", 12 04, 14-02-81, Rimini, Brescia (On Loan)
+7, Hidetoshi Nakata, M, 5'09", 11 00, 22-01-77, Yamanashi, Bologna
+19, Gaetano Grieco, F, 5'09", 10 12, 07-11-82, Naples, Genoa
+17, Emanuele Filippini, M, 5'07", 10 01, 03-07-73, Brescia, Palermo
+9, Adriano, F, 6'02", 13 10, 17-02-82, Rio de Janeiro, Internazionale
+24, Vincenzo Sicignano, G, 6'02", 12 13, 08-07-74, Pompei, Lecce (On Loan)
+16, Junior, D, 5'07", 09 13, 20-06-73, Santo Antonio De Jesus, Siena (On Loan)
+27, Tonino Sorrentino, F, 5'11", 11 11, 12-03-85, Avellino, Avellino
+29, Jorge Bolaño, M, 5'06", 09 13, 24-04-77, Santa Maria, Lecce

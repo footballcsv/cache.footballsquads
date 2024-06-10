@@ -1,0 +1,46 @@
+=  Sporting Braga - Portuguese Primeira Liga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Magalhães, BRA, G, 1.87, 76, 29-03-92, Belo Horizonte, América Mineiro
+2, Diogo Figueiras, BRA, D, 1.70, 63, 01-07-91, Povos, Olympiakos
+3, Lazar Rosić, SRB, D, 1.86, 78, 29-06-93, Kragujevac, Vojvodina
+4, Jefferson, BRA, D, 1.76, 72, 05-07-88, Bahia, Sporting CP
+5, Nuno Sequeira, BRA, D, 1.84, 82, 19-08-90, Porto, Nacional [POR]
+7, Wilson Eduardo, POR, F, 1.76, 72, 08-07-90, Pedras Rubras, Sporting CP
+8, Ricardo Ryller, BRA, M, 1.84, 78, 27-02-94, Tangará da Serra, Luverdense
+9, Ahmed Hassan, EGY, F, 1.91, 80, 05-03-93, Cairo, Rio Ave
+10, Bruno Xadas, POR, M, 1.79, 69, 02-12-97, Oliveira de Azeméis, Sanjoanense
+11, Danilo, BRA, M, 1.82, 73, 28-02-96, Simões Filho, Vasco da Gama
+12, Tiago Sá, POR, G, 1.85, 78, 11-01-95, Braga, None
+15, André Horta, POR, M, 1.67, 57, 07-11-96, Almada, Benfica
+16, Robert Murić, CRO, F, 1.80, 75, 12-03-96, Varaždin, Ajax
+20, Paulinho, POR, F, 1.87, 75, 09-11-92, Barcelos, Gil Vicente
+21, Ricardo Horta, POR, F, 1.73, 61, 15-09-94, Almada, Málaga
+23, João Teixeira, POR, M, 1.67, 66, 18-01-93, Braga, FC Porto
+24, Ricardo Ferreira, POR, D, 1.90, 85, 25-11-92, Mississisauga, Olhanense
+26, Fábio Martins, POR, F, 1.78, 70, 24-07-93, Mafamude, Desportivo das Aves
+27, Fransérgio, BRA, M, 1.86, 76, 18-10-90, Rondonópolis, Marítimo
+28, Marafona, POR, G, 1.90, 86, 08-05-87, Vila do Conde, Paços de Ferreira
+33, Erick, BRA, F, 1.73, 65, 10-12-97, Recife, Náutico
+34, Raúl Silva, BRA, D, 1.87, 81, 04-11-89, Belém, Marítimo
+35, Nikola Vukčević, MNE, M, 1.84, 74, 13-12-91, Podgorica, Budućnost Podgorica
+36, Bruno Viana, BRA, D, 1.87, 75, 05-02-95, Macaé, Olympiakos
+44, Andrej Lukić, CRO, D, 1.87, 79, 02-04-94, Osijek, Osijek
+47, Ricardo Esgaio, POR, D, 1.71, 66, 16-05-93, Nazaré, Sporting CP
+63, Mauro, BRA, M, 1.78, 73, 31-10-90, Livramento, Grêmio Anápolis
+87, Marcelo Goiano, BRA, D, 1.74, 66, 13-10-87, Goiânia, Grêmio Anápolis
+94, Tiago Pereira, POR, G, 1.92, 80, 20-06-95, Lisbon, 1º Dezembro
+99, Dyego Sousa, BRA, F, 1.90, 82, 14-09-89, São José de Ribamar, Marítimo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Pedro Santos, POR, F, 1.73, 65, 22-04-88, Lisbon, Columbus Crew
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Fulham
+66, Bruno Jordão, POR, M, 1.80, 73, 12-10-98, Marinha Grande, Lazio (On Loan)
+71, Pedro Neto, POR, F, 1.72, 62, 09-03-00, Viana do Castelo, Lazio (On Loan)
+19, Nikola Stojiljković, SRB, F, 1.82, 75, 17-08-92, Belgrade, Kayserispor (On Loan)
+25, André Moreira, POR, G, 1.95, 85, 02-12-95, Ribeirão, Atlético Madrid
+8, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Belenenses (On Loan)
+22, Anthony D'Alberto, BEL, D, 1.78, 74, 13-10-94, Lubumbashi, Charleroi (On Loan)
+14, Rafael Assis, BRA, M, 1.70, 65, 31-10-90, Belo Horizonte, Paços de Ferreira (On Loan)

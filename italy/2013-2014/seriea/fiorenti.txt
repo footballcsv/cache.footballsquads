@@ -1,0 +1,52 @@
+=  Fiorentina - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Neto, BRA, G, 1.91, 83, 19-07-89, Araxá, Atlético Paranaense
+2, Gonzalo Rodríguez, ARG, D, 1.82, 79, 10-04-84, Buenos Aires, Villarreal
+3, Modibo Diakité, FRA, D, 1.92, 84, 02-03-87, Bourg-la-Reine, Sunderland
+4, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Boca Juniors
+5, Marvin Compper, GER, D, 1.85, 80, 14-06-85, Tübingen, 1899 Hoffenheim
+6, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Ismaily
+7, David Pizarro, CHI, M, 1.70, 65, 11-09-79, Valparaiso, Roma
+8, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Torino
+9, Ante Rebić, CRO, F, 1.85, 77, 21-09-93, Split, Split
+10, Alberto Aquilani, ITA, M, 1.86, 77, 07-07-84, Rome, Liverpool
+11, Juan Cuadrado, COL, M, 1.76, 66, 26-05-88, Necoclí, Udinese
+12, Cristiano Lupatelli, ITA, G, 1.89, 86, 21-06-78, Perugia, Genoa
+14, Matías Fernández, CHI, M, 1.77, 75, 15-05-86, Merlo, Sporting CP
+15, Stefan Savić, MNE, D, 1.86, 73, 08-01-91, Mojkovac, Manchester C
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, Puerto de Santa Maria, Málaga
+20, Borja Valero, ESP, M, 1.74, 73, 12-01-85, Madrid, Villarreal
+21, Massimo Ambrosini, ITA, M, 1.82, 72, 29-05-77, Pesaro, Milan
+23, Manuel Pasqual, ITA, D, 1.78, 71, 13-03-82, San Donà di Piave, Arezzo
+24, Luca Lezzerini, ITA, G, 1.95, 86, 24-03-95, Rome, None
+25, Antonio Rosati, ITA, G, 1.94, 88, 26-06-83, Tivoli, Napoli
+27, Rafał Wolski, POL, M, 1.79, 66, 10-11-92, Kozienice, Legia Warszawa
+30, Ryder Matos, BRA, F, 1.83, 79, 27-02-93, Seabra, Vitória
+31, Leonardo Capezzi, ITA, M, 1.77, 70, 28-03-95, Figline Valdarno, None
+32, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Milan
+33, Mario Gómez, GER, F, 1.89, 88, 10-07-85, Riedlingen, Bayern Munich
+34, Lorenzo Venuti, ITA, D, 1.76, 65, 12-04-95, Incisa in Val d'Arno, None
+35, Saverio Madrigali, ITA, D, 1.90, 81, 28-01-95, Pisa, None
+36, Alan Empereur, BRA, D, 1.85, 82, 10-03-94, Ipatinga, Atlético Mineiro
+37, Axel Gulin, ITA, F, 1.69, 66, 19-07-95, Trieste, None
+38, Nicolò Fazzi, ITA, F, 1.80, 66, 02-03-95, Borgo a Mozzano, None
+39, Lorenzo Bardini, ITA, G, 1.91, 86, 12-04-96, Florence, None
+40, Nenad Tomović, SRB, D, 1.84, 79, 30-08-87, Kragujevac, Genoa
+41, Isaia Bertolacci, ITA, G, , , 17-05-96, Barga, Lucchese
+49, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Teaneck, Villarreal
+66, Juan Manuel Vargas, PER, M, 1.80, 75, 05-10-83, Lima, Catania
+72, Josip Iličić, SVN, M, 1.89, 79, 29-01-88, Kranj, Palermo
+88, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Adem Ljajić, SRB, M, 1.81, 74, 29-09-91, Novi Pazar, Roma
+9, Mounir El Hamdaoui, MAR, F, 1.83, 81, 14-07-84, Rotterdam, Málaga (On Loan)
+32, Federico Bernardeschi, ITA, F, 1.83, 75, 16-02-94, Carrara, Crotone (On Loan)
+3, Marcos Alonso, ESP, D, 1.88, 81, 28-12-90, Madrid, Sunderland (On Loan)
+78, Gustavo Munúa, URU, G, 1.88, 87, 27-01-78, Montevideo, Nacional [URU]
+18, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Cagliari (On Loan)
+83, Rubén Olivera, URU, M, 1.84, 84, 04-05-83, Montevideo, Brescia
+77, Oleksandr Iakovenko, UKR, M, 1.83, 74, 23-06-87, Kyiv, Málaga (On Loan)

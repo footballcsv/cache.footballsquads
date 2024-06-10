@@ -1,0 +1,51 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2011
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Prass, BRA, G, 1.91, 79, 09-07-78, Porto Alegre, União de Leiria
+2, Jomar, BRA, D, 1.85, 78, 28-09-92, Rio de Janeiro, Tigres do Brasil
+3, Cesinha, BRA, D, 1.85, 75, 08-10-86, São José dos Campos, Santo André
+5, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Corinthians
+6, Felipe, BRA, M, 1.75, 69, 02-09-77, Rio de Janeiro, Al-Sadd
+7, Éder Luís, BRA, F, 1.70, 69, 19-04-85, Uberaba, Benfica
+8, Juninho Pernambucano, BRA, M, 1.78, 71, 30-01-75, Recife, Al-Gharafa
+9, Alecsandro, BRA, F, 1.83, 80, 04-02-81, Bauru, Internacional
+10, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Atlético Mineiro
+12, Alessandro, BRA, G, 1.91, 88, 30-03-88, Cascavel, Grêmio
+13, Victor Ramos, BRA, D, 1.92, 76, 05-05-89, Salvador, Standard Liège
+14, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, None
+15, Jonathan, BRA, F, 1.75, 63, 11-05-91, Rio de Janeiro, Cruzeiro
+16, Douglas Bacelar, BRA, D, 1.90, 84, 04-04-90, São Paulo, América de Natal
+17, Julinho, BRA, D, 1.84, 77, 05-08-86, São Paulo, Avaí
+18, Jumar, BRA, M, 1.77, 74, 28-04-86, Bandeirantes, Desportivo Brasil
+19, Leandro, BRA, F, 1.73, 70, 13-08-80, Araras, Grêmio
+21, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Benfica
+22, Julio Irrazábal, PAR, D, 1.76, 70, 25-11-80, San Juan de Panamá, Cerro Porteño
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, PSV Eindhoven
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Villa Rio
+27, Diego Rosa, BRA, M, 1.80, 73, 22-03-89, Campo Grande, Juventude
+28, Eduardo Costa, BRA, M, 1.84, 78, 23-09-82, Florianópolis, Monaco
+29, Kim, BRA, F, 1.78, 78, 22-06-80, Juiz de Fora, Al-Arabi [QAT]
+30, Patric, BRA, F, 1.89, 82, 26-10-87, Macapá, Mixto
+31, Bernardo, BRA, M, 1.77, 70, 20-05-90, Sorocaba, Cruzeiro
+32, Marcio Careca, BRA, D, 1.71, 65, 28-07-78, Duque de Caxias, Barueri
+33, Renato Silva, BRA, D, 1.80, 73, 26-07-83, Colinas de Goiás, Shandong Luneng
+35, Allan, BRA, M, 1.73, 73, 08-01-91, Rio de Janeiro, Deportivo Maldonado
+36, Cestaro, BRA, G, 1.92, 78, 23-01-90, Rio de Janeiro, None
+37, Rômulo, BRA, M, 1.84, 80, 19-09-90, Picos, Porto de Caruaru
+39, Élton, BRA, F, 1.85, 84, 01-08-85, Iramaia, Olé Brasil
+43, Max, BRA, D, 1.79, 67, 28-04-90, São Paulo, Ponte Preta
+44, Willian Barbio, BRA, F, 1.73, 71, 22-10-92, Belford Roxo, Nova Iguaçu
+45, Leandro Chaparro, ARG, M, 1.73, 65, 07-01-91, La Tablada, Desportivo Brasil
+50, Diogo Silva, BRA, G, 1.91, 81, 08-07-86, Cuiabá, Nova Iguaçu
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Enrico, BRA, M, 1.76, 70, 04-05-84, Belo Horizonte, Ceará (On Loan)
+33, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Corinthians
+11, Jéferson, BRA, M, 1.80, 76, 15-07-84, Brasília, Sporting Kansas CIty (On Loan)
+20, Caíque, BRA, M, 1.85, 77, 10-01-88, Salvador, Olé Brasil
+4, Fernando Santos, BRA, D, 1.91, 91, 25-02-80, Rio de Janeiro, Americana
+40, Misael, BRA, F, 1.71, 71, 04-07-87, São Luís, Ceará
+25, Anderson Martins, BRA, D, 1.83, 78, 21-08-87, Fortaleza, Desportivo Brasil
+34, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Coimbra

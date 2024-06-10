@@ -1,0 +1,35 @@
+=  Guingamp - French Ligue 2 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Guichard, FRA, G, 1.89, 77, 16-05-92, Saint-Étienne, Bordeaux
+3, Paul Babiloni, FRA, D, 1.80, 65, 16-01-90, Limoges, None
+4, Baïssama Sankoh, GUI, D, 1.80, 73, 20-03-92, Nogent-sur-Marne, Sarcelles
+5, Moustapha Diallo, SEN, M, 1.88, 78, 14-05-86, Dakar, ASC Diaraf
+6, Jonathan Martins Pereira, FRA, D, 1.82, 71, 30-01-86, Bayonne, Nantes
+7, Dorian Levêque, FRA, M, 1.82, 72, 22-11-89, Annecy, Boulogne
+8, François Bellugou, FRA, M, 1.86, 70, 25-04-87, Prades, Sète
+9, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Boulogne
+10, Cédric Fauré, FRA, F, 1.86, 83, 14-02-79, Toulouse, Reims
+12, Giannelli Imbula, CGO, M, 1.86, 77, 12-09-92, Vilvoorde, None
+13, Christophe Mandanne, FRA, F, 1.71, 62, 07-02-85, Toulouse, Dijon
+14, Ladislas Douniama, CGO, F, 1.63, 62, 24-05-86, Brazzaville, Lorient
+16, Vincent Planté, FRA, G, 1.89, 84, 19-11-80, Lille, St-Etienne
+17, Rachid Alioui, MAR, F, 1.86, 81, 18-06-92, La Rochelle, None
+18, Lionel Mathis, FRA, M, 1.74, 71, 04-10-81, Montreuil-sous-Bois, Sochaux
+19, Grégory Cerdan, FRA, D, 1.91, 86, 28-07-82, Saint-Denis, Le Mans
+20, Charly Charrier, FRA, M, 1.81, 79, 27-05-86, La Roche-sur-Yon, Vendée Luçon
+21, Thierry Argelier, FRA, D, 1.83, 69, 08-07-86, Paris, Créteil
+22, Quentin Rouger, FRA, M, 1.72, 63, 31-03-91, Laval, Rennes
+23, Mamadou Camara, FRA, D, 1.80, 74, 06-04-88, Niort, Niort
+25, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, Nancy
+26, Thibault Giresse, FRA, M, 1.72, 68, 25-05-81, Talence, Amiens
+27, Mathéus Vivian, BRA, D, 1.88, 83, 05-04-82, Caçapava do Sul, PAOK
+28, Fatih Atik, FRA, F, 1.75, 70, 25-06-84, Gleize, Boulogne
+29, Christophe Kerbrat, FRA, M, 1.83, 74, 02-08-86, Brest, Plabennec
+30, Mamadou Samassa, MLI, G, 1.91, 81, 16-02-90, Montreuil, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Anthony Knockaert, FRA, F, 1.72, 69, 20-11-91, Lille, Leicester C
+11, Cédric Fauré, FRA, F, 1.86, 83, 14-02-79, Toulouse, Re-Registered (10)

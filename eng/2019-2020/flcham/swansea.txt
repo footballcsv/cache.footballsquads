@@ -1,0 +1,59 @@
+=  Swansea City - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Marc Guehi, ENG, D, 1.82, 82, 13-07-00, Abidjan, Chelsea
+4, Joe Rodon, WAL, D, 1.90, 76, 22-10-97, Swansea, None
+5, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, Ajax
+6, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Falkirk
+8, Matt Grimes, ENG, M, 1.78, 70, 15-07-95, Exeter, Exeter C
+10, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Manchester C
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, Southampton
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+18, Aldo Kalulu, FRA, F, 1.66, 65, 21-01-96, Lyon, Basel
+19, Rhian Brewster, ENG, F, 1.76, 75, 01-04-00, Redbridge, Liverpool
+20, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Watford
+21, Yan Dhanda, ENG, M, 1.73, 65, 14-12-98, Birmingham, Liverpool
+22, André Ayew, GHA, F, 1.76, 72, 17-12-89, Seclin, West Ham U
+23, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, None
+24, Jake Bidwell, ENG, D, 1.83, 70, 21-03-93, Southport, QPR
+25, Erwin Mulder, NED, G, 1.93, 88, 03-03-89, Zevenaar, SC Heerenveen
+26, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Tottenham H
+27, Freddie Woodman, ENG, G, 1.86, 69, 04-03-97, Croydon, Newcastle U
+28, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, Watford
+30, Tivonge Rushesha, WAL, D, 1.61, 53, 24-07-02, , None
+31, Mason Jones-Thomas, WAL, F, 1.75, 65, 05-12-00, Swansea, None
+32, Liam Cullen, WAL, F, 1.78, 63, 23-04-99, Haverfordwest, None
+33, Conor Gallagher, ENG, M, 1.82, 74, 06-02-00, Epsom, Chelsea
+35, Matthew Blake, WAL, D, 1.80, 75, 14-11-99, Swansea, None
+36, Brandon Cooper, WAL, D, 1.85, 74, 14-01-00, Bridgend, None
+37, Keiran Evans, WAL, M, 1.73, 70, 27-03-99, Swansea, None
+38, Cameron Evans, WAL, D, 1.88, 77, 23-02-01, Swansea, None
+41, Jordan Garrick, ENG, F, 1.83, 78, 15-07-98, , Ossett Alb
+44, Ben Cabango, WAL, D, 1.91, 75, 30-05-00, Cardiff, None
+45, Tom Price, WAL, M, 1.78, 75, 26-11-99, Swansea, None
+46, Josh Gould, WAL, G, 1.95, 92, 27-03-97, Taunton, Taff's Well
+47, Daniel Williams, WAL, M, 1.72, 65, 19-04-01, Swansea, None
+48, Ollie Cooper, WAL, M, 1.76, 68, 14-12-99, Derby, None
+49, Kees de Boer, NED, M, 1.79, 65, 13-05-00, Volendam, Ajax
+51, Marc Walsh, IRL, F, 1.69, 60, 15-03-01, Letterkenny, Finn Harps
+52, Arnór Guðjohnsen, ISL, M, 1.86, 70, 16-09-00, , Breiðablik
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+54, Joe Lewis, WAL, D, 1.88, 85, 20-09-99, Neath, Torquay U (On Loan)
+17, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Accrington Stanley (On Loan)
+16, Joel Asoro, SWE, F, 1.75, 70, 27-04-99, Stockholm, FC Groningen (On Loan)
+13, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, Swindon T (On Loan)
+19, Sam Surridge, ENG, F, 1.91, 77, 28-07-98, Slough, Bournemouth
+33, Jordi Govea, ECU, D, 1.74, 72, 09-03-99, Esmeraldas, 
+1, Kristoffer Nordfeldt, SWE, G, 1.90, 85, 23-06-89, Stockholm, Gençlerbirliği
+11, Kristoffer Peterson, SWE, F, 1.80, 70, 28-11-94, Gothenburg, FC Utrecht (On Loan)
+42, Cameron Berry, WAL, M, 1.80, 60, 25-06-00, Swansea, Carmarthen T (On Loan)
+56, Simon Paulet, BEL, M, 1.79, 66, 15-02-00, Mons, KVC Westerlo
+3, Declan John, WAL, D, 1.78, 75, 30-06-95, Merthyr Tydfil, Sunderland (On Loan)
+7, Barrie McKay, SCO, M, 1.75, 67, 31-12-94, Paisley, Fleetwood T (On Loan)
+9, Borja González, ESP, F, 1.86, 83, 25-08-92, Madrid, Aston Villa
+14, Tom Carroll, ENG, M, 1.78, 64, 28-05-92, Watford, 
+29, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, Bristol R
+34, Jack Evans, WAL, M, 1.78, 69, 25-04-98, Swansea, Mansfield T (On Loan)

@@ -1,0 +1,44 @@
+=  FC Krasnodar - Russian Football Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nukri Revishvili, GEO, G, 1.88, 74, 02-03-87, Kutaisi, Anzhi Makhachkala
+2, Nikolay Markov, RUS, D, 1.78, 74, 20-04-85, Tashkent, Salyut-Energia
+3, Dušan Andjelković, SRB, D, 1.74, 67, 15-06-82, Kraljevo, FC Rostov
+4, Alyaksandr Martynovich, BLR, D, 1.92, 85, 26-08-87, Minsk, Dinamo Minsk
+6, Ruslan Nakhushev, RUS, D, 1.85, 79, 05-09-84, Nalchik, Lokomotiv Moscow
+7, Vladislav Ignatyev, RUS, M, 1.80, 72, 20-01-87, Naberezhnye Chelny, Lokomotiv Moscow
+11, Moussa Konaté, SEN, F, 1.83, 78, 03-04-93, M'Bour, Maccabi Tel Aviv
+14, Wanderson do Carmo, BRA, M, 1.80, 75, 18-02-86, Baturité, GAIS
+16, Evgeniy Gorodov, RUS, G, 1.85, 75, 13-12-85, Barnaul, Tom Tomsk
+17, Oleg Lanin, RUS, D, 1.80, 70, 22-01-96, Ladozhskaya, Krasnodar-2
+18, Nikola Drinčić, SRB, M, 1.81, 76, 07-01-84, Belgrade, Spartak Moscow
+19, Isael, BRA, M, 1.71, 71, 13-05-88, São Paulo, Coritiba
+20, Igor Lambarschi, MDA, M, 1.78, 65, 26-11-92, Edineţ, Academia UTM
+22, Joãozinho, BRA, M, 1.62, 57, 25-12-88, Ubatuba, Levski Sofia
+23, Aleksandr Filtsov, RUS, G, 1.97, 85, 02-01-90, Shimanovsk, Lokomotiv Moscow
+25, Evgeniy Shipitsin, RUS, M, 1.75, 68, 16-01-85, Perm, Salyut-Energia
+26, Márcio Abreu, POR, F, 1.70, 67, 25-04-80, Funchal, Chernomorets Burgas
+28, Igor Smolnikov, RUS, M, 1.78, 70, 08-08-88, Moscow, Lokomotiv Moscow
+33, Mauricio Pereyra, URU, M, 1.77, 75, 15-03-90, Montevideo, Lanús
+35, Oleg Samsonov, RUS, M, 1.74, 72, 07-09-87, Novovoronezh, Krylia Sovetov
+36, Adolphe Teikeu, CMR, D, 1.89, 80, 23-06-90, Bandjoun, Metalurh Zaporizhya
+55, Nemanja Tubić, SRB, D, 1.89, 82, 08-04-84, Belgrade, Karpaty Lviv
+77, Vladimir Koman, HUN, M, 1.73, 63, 16-03-89, Uzhhorod, Monaco
+88, Andrey Sinitsyn, RUS, G, 1.96, 86, 23-06-88, Krasnokamensk, Yenisey Krasnoyarsk
+98, Sergey Petrov, RUS, M, 1.80, 72, 02-01-91, St. Petersburg, Krylia Sovetov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Igor Picuşceac, MDA, F, 1.84, 76, 27-03-83, Tiraspol, Amkar Perm
+34, Andrey Gorbanets, RUS, M, 1.76, 70, 24-08-85, Kamyshin, Tom Tomsk
+31, Valeriu Ciuperca, MDA, M, 1.79, 73, 12-06-92, Tiraspol, Yenisey Krasnoyarsk (On Loan)
+23, Andrey Mikheev, RUS, F, 1.83, 72, 01-07-87, Rostov-on-Don, FC Ufa
+17, Pavel Golyshev, RUS, F, 1.76, 68, 07-07-87, Moscow, Tom Tomsk
+8, Syarhey Kislyak, BLR, M, 1.85, 70, 06-08-87, Kamyanyets, Rubin Kazan
+10, Yura Movsisyan, ARM, F, 1.83, 82, 06-07-87, Baku, Spartak Moscow
+15, Ognjen Vranješ, BIH, D, 1.88, 82, 24-10-89, Banja Luka, Alania Vladikavkaz
+19, Aleksandr Erokhin, RUS, M, 1.93, 79, 13-10-89, Barnaul, SKA-Energia (On Loan)
+21, Khyzyr Appayev, RUS, F, 1.75, 68, 27-01-90, Nalchik, Rotor Volgograd (On Loan)
+5, Aleksandr Amisulashvili, GEO, D, 1.88, 86, 20-08-82, Tbilisi, Krylia Sovetov
+30, Igor Uzminskiy, RUS, G, 1.88, 80, 23-04-77, Grozny, Terek Grozny

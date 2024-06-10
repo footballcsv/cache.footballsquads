@@ -1,0 +1,58 @@
+=  Bahia - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Coelho, BRA, D, 1.78, 72, 22-03-83, São Paulo, Karabükspor
+3, Danny Morais, BRA, D, 1.88, 70, 29-06-85, Porto Alegre, Internacional
+4, Neto, BRA, D, 1.75, 67, 07-02-81, São José do Rio Preto, Aris
+5, Fabinho, BRA, M, 1.86, 72, 10-01-80, São Bernardo do Campo, Yokohama FC
+6, Ávine, BRA, D, 1.69, 67, 21-02-88, Aimorés, None
+7, Fahel, BRA, M, 1.82, 77, 15-08-81, Teófilo Otoni, Botafogo
+8, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, None
+9, Souza, BRA, F, 1.88, 87, 04-03-82, Rio de Janeiro, Corinthians
+10, Mancini, BRA, M, 1.83, 82, 01-08-80, Belo Horizonte, Atlético Mineiro
+11, Zé Roberto, BRA, M, 1.70, 72, 09-12-80, Itumbiara, Internacional
+12, Omar, BRA, G, 1.95, 92, 22-08-89, São Paulo, Cruzeiro
+13, Gil Bahia, BRA, D, 1.69, 70, 27-02-92, Salvador, Cruzeiro
+14, Dudu, BRA, D, 1.90, 85, 09-04-92, , None
+15, Kléberson, BRA, M, 1.75, 64, 19-06-79, Urai, Flamengo
+16, Lenine, BRA, M, 1.85, 75, 15-04-91, Manaus, None
+17, Diones, BRA, M, 1.78, 76, 21-06-85, Timbiras, Bahia de Feira
+19, Jones, BRA, F, 1.77, 74, 14-10-88, Caratinga, Deportivo Maldonado
+21, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, None
+22, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Internacional
+23, Ciro, BRA, F, 1.75, 72, 18-04-89, Salgueiro, Deportivo Maldonado
+25, Rafael, BRA, F, 1.83, 84, 13-07-92, Água Boa, None
+26, Victor Bolt, BRA, M, 1.78, 72, 14-04-87, Rio de Janeiro, Belenenses
+28, Lucas Fonseca, BRA, D, 1.90, 85, 02-08-85, Itajúba, Mogi Mirim
+29, Caio, BRA, M, 1.86, 82, 29-05-86, Mirandópolis, Eintracht Frankfurt
+30, Ryder, BRA, M, 1.81, 70, 27-02-93, Seabra, Fiorentina
+31, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Flamengo
+32, Jussandro, BRA, D, 1.76, 64, 11-03-92, Irecê, None
+33, Alysson, BRA, D, 1.82, 74, 13-06-90, Salvador, Feirense-BA
+40, Fábio, BRA, M, 1.67, 56, 12-10-92, Ribeira do Pombal, None
+41, Renan, BRA, G, 1.89, 80, 19-03-93, Salvador, None
+49, Diego, BRA, D, 1.85, 80, 28-06-90, Pedro Leopoldo, Itabuna
+50, Paulinho, BRA, M, 1.66, 58, 10-07-94, Ceilândia, None
+51, Bruno, BRA, G, 1.95, 83, 16-03-94, São Paulo, None
+66, Romário Guilherme, BRA, D, 1.71, 71, 13-03-92, Diadema, Audax-SP
+68, Hélder, BRA, M, 1.79, 82, 20-06-84, Floriano, Votoraty
+76, Gerley, BRA, D, 1.82, 78, 11-09-90, Central de Minas, Palmeiras
+77, Lulinha, BRA, M, 1.70, 62, 10-04-90, Mauá, Corinthians
+82, Cláudio Pitbull, BRA, F, 1.71, 78, 08-01-82, Porto Alegre, Manisaspor
+84, Jéferson, BRA, M, 1.80, 76, 15-07-84, Brasília, Vasco da Gama
+87, Elias, BRA, F, 1.82, 78, 13-02-87, Campos, Resende
+93, Italo Melo, BRA, F, 1.76, 71, 25-05-93, Salvador, None
+94, Anderson Talisca, BRA, M, 1.88, 72, 01-02-94, Feira de Santana, None
+97, Vander, BRA, M, 1.73, 65, 17-04-90, Salvador, None
+99, Júnior, BRA, F, 1.86, 85, 15-06-76, Fortaleza, Ceará
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, William Matheus, BRA, D, 1.87, 85, 02-04-90, Rio de Janeiro, Boca Júnior-SE
+, Rafael Donato, BRA, D, 1.93, 90, 17-03-89, Rio de Janeiro, Audax-RJ
+, Luis Gutiérrez, BOL, D, 1.81, 87, 15-01-85, Santa Cruz de la Sierra, Oriente Petrolero
+, Morais, BRA, M, 1.70, 64, 17-07-84, Maceió, Corinthians
+, Val, BRA, M, 1.80, 74, 22-08-83, Natal, Mogi Mirim
+20, Magno, BRA, M, 1.74, 74, 20-05-88, Salvador, Ceará (On Loan)
+90, Diego Oliveira, BRA, F, 1.81, 75, 22-06-90, Curitiba, Noroeste

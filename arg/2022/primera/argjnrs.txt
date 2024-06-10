@@ -1,0 +1,40 @@
+=  Argentinos Juniors - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Miguel Acosta, ARG, G, 1.89, 80, 19-10-01, Posadas, None
+2, Miguel Angel Torrén, ARG, D, 1.78, 73, 12-08-88, Villa Constitución, Cerro Porteño
+4, Kevin Mac Allister, ARG, D, 1.72, 72, 07-11-97, Capital Federal, None
+5, Federico Redondo, ARG, M, 1.88, 75, 18-01-03, Madrid, None
+6, Lucas Villalba, ARG, D, 1.77, 68, 19-08-94, Florencio Varela, Aldosivi (Mar del Plata)
+7, Javier Cabrera, URU, M, 1.68, 62, 18-03-92, Florida, Melbourne C
+8, Alan Rodríguez, URU, M, 1.71, 63, 25-01-00, Canelones, Boston River
+9, Gabriel Ávalos, PAR, F, 1.88, 91, 12-10-90, Edelira, Godoy Cruz (Mendoza)
+11, Andrés Roa, COL, M, 1.75, 69, 25-05-93, Sabanalarga, Independiente
+12, Leandro Finochietto, ARG, G, 1.87, 78, 25-04-97, Capital Federal, None
+14, Luciano Sánchez, ARG, D, 1.69, 66, 25-01-94, Guaymallén, Independiente Rivadavia
+16, Gastón Verón, ARG, F, 1.83, 82, 23-04-01, Puerto Vilelas, None
+17, Franco Moyano, ARG, M, 1.71, 68, 13-09-97, Lobos, San Lorenzo
+18, Thiago Nuss, ARG, F, 1.72, 68, 02-02-01, Cañuelas, Deportivo Español
+19, Luciano Gómez, ARG, D, 1.63, 66, 22-03-96, Corrientes, Banfield
+20, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, Nueva Chicago
+21, Yair González, ARG, F, 1.71, 68, 21-03-02, José León Suárez, Unión La Calera
+22, Lautaro Ovando, ARG, F, 1.72, 72, 10-02-03, San Martín, None
+24, Leonel González, ARG, D, 1.77, 70, 15-03-94, Concordia, Godoy Cruz (Mendoza)
+25, David Zalazar, ARG, M, 1.73, 68, 09-05-02, Villegas, None
+26, José Maria Herrera, ARG, F, 1.72, 68, 16-04-03, San Miguel de Tucumán, None
+27, Mariano Bíttolo, ARG, D, 1.74, 65, 24-04-90, Morón, Newell's Old Boys
+28, Matías Lugo, ARG, M, 1.70, 65, 10-05-01, Benavídez, None
+29, Marco Di Césare, ARG, M, 1.86, 81, 30-01-02, Mendoza, None
+30, Pablo Minissale, ARG, D, 1.82, 79, 14-01-01, José C. Paz, None
+32, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, Racing Club
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Enzo Ybáñez, ARG, D, 1.76, 66, 29-08-98, Tigre, Comunicaciones (On Loan)
+11, Mateo Coronel, ARG, F, 1.72, 70, 24-10-98, Ramallo, Atlético Tucumán (On Loan)
+5, Fausto Vera, ARG, M, 1.76, 72, 26-03-00, Hurlingham, Corinthians
+10, Gabriel Florentín, ARG, M, 1.73, 70, 13-03-99, Gregorio de Laferrere, FC Orenburg
+15, Matías Galarza, ARG, M, 1.80, 71, 04-03-02, Boulogne, KRC Genk
+8, Gabriel Carabajal, ARG, M, 1.78, 75, 09-12-91, Córdoba, Santos
+3, Román Vega, ARG, D, 1.77, 74, 01-01-04, San Miguel, Barcelona B (On Loan)

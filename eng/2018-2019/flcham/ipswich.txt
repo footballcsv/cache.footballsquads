@@ -1,0 +1,60 @@
+=  Ipswich Town - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dean Gerken, ENG, G, 1.83, 77, 22-05-85, Southend-on-Sea, Bristol C
+3, Jonas Knudsen, DEN, D, 1.85, 72, 16-09-92, Esbjerg, Esbjerg
+4, Luke Chambers, ENG, D, 1.85, 87, 29-08-85, Kettering, Nottingham F
+5, Matthew Pennington, ENG, D, 1.85, 77, 06-10-94, Warrington, Everton
+6, Trevoh Chalobah, ENG, M, 1.90, 75, 05-07-99, Freetown, Chelsea
+7, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, Peterborough U
+8, Cole Skuse, ENG, M, 1.85, 72, 29-03-86, Bristol, Bristol C
+9, Kayden Jackson, ENG, F, 1.81, 73, 22-02-94, Bradford, Accrington Stanley
+10, Ellis Harrison, WAL, F, 1.80, 79, 29-01-94, Newport, Bristol R
+11, Jon Nolan, ENG, M, 1.75, 72, 22-04-92, Huyton, Shrewsbury T
+12, Jordan Spence, ENG, M, 1.88, 79, 24-05-90, Woodford, MK Dons
+14, Will Keane, ENG, F, 1.87, 78, 11-01-93, Stockport, Hull C
+15, Teddy Bishop, ENG, M, 1.80, 65, 15-07-96, Cambridge, None
+16, Tristan Nydam, ENG, M, 1.70, 60, 06-11-99, Harare, None
+18, Grant Ward, ENG, M, 1.78, 73, 04-12-94, Lewisham, Tottenham H
+20, Freddie Sears, ENG, F, 1.70, 75, 27-11-89, Hornchurch, Colchester U
+21, Flynn Downes, ENG, M, 1.72, 70, 20-01-99, Brentwood, None
+22, Aristote Nsiala, COD, D, 1.93, 83, 25-03-92, Kinshasa, Shrewsbury T
+23, Andre Dozzell, ENG, M, 1.78, 64, 02-05-99, Ipswich, None
+24, Tom Adeyemi, ENG, M, 1.85, 78, 24-10-91, Norwich, Cardiff C
+25, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Leicester C
+27, Josh Emmanuel, ENG, D, 1.80, 70, 18-08-97, London, None
+28, Conor McKendry, NIR, M, , , 21-10-98, Carnlough, Glenavon
+29, Harry Wright, ENG, G, 1.81, 73, 03-11-98, Ipswich, None
+30, Myles Kenlock, ENG, D, 1.85, 67, 29-11-96, Croydon, None
+31, Alan Judge, IRL, M, 1.84, 88, 11-11-88, Dublin, Brentford
+33, Bartosz Białkowski, POL, G, 1.94, 83, 06-07-87, Braniewo, Notts Co
+34, Ben Folami, AUS, F, 1.70, 70, 08-06-99, Sydney, None
+35, Ben Morris, ENG, F, 1.75, 60, 06-07-99, Colchester, None
+36, Jack Lankester, ENG, F, 1.78, 60, 19-01-00, Bury St Edmunds, None
+37, Barry Cotter, IRL, M, 1.75, 68, 04-12-98, Limerick, Limerick
+38, Pat Webber, ENG, D, 1.83, 70, 15-05-99, Worthing, Worthing
+39, James Collins, WAL, D, 1.88, 83, 23-08-83, Newport, West Ham U
+40, Chris Smith, ENG, D, 1.88, 78, 21-02-98, Ipswich, None
+41, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, Aston Villa
+42, Idris El Mizouni, TUN, M, 1.85, 74, 26-09-00, Paris, None
+44, Emyr Huws, WAL, M, 1.85, 78, 30-09-93, Llanelli, Cardiff C
+45, Collin Quaner, GER, F, 1.90, 81, 18-06-91, Düsseldorf, Huddersfield T
+46, Bailey Clements, ENG, D, 1.88, 70, 15-11-00, Ipswich, None
+47, Corrie Ndaba, IRL, D, 1.88, 82, 25-12-99, Dublin, Cherry Orchard
+48, Kai Brown, ENG, F, 1.77, 71, 30-04-01, Greenwich, None
+49, Simon Dawkins, JAM, F, 1.78, 70, 01-12-87, Edgware, San Jose Earthquakes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, Derby Co
+14, Joe Garner, ENG, F, 1.78, 76, 12-04-88, Blackburn, Wigan Ath
+32, Luke Woolfenden, ENG, D, 1.83, 70, 21-10-98, Ipswich, Swindon T (On Loan)
+14, Jordan Graham, ENG, M, 1.82, 68, 05-03-95, Coventry, Wolverhampton W
+25, Tayo Edun, ENG, D, 1.77, 63, 14-05-98, Islington, Fulham
+39, Jonathan Walters, IRL, F, 1.83, 79, 20-09-83, Birkenhead, Burnley
+17, Danny Rowe, ENG, M, 1.83, 75, 09-03-92, Wythenshawe, Lincoln C (On Loan)
+2, Janoi Donacien, LCA, D, 1.83, 75, 03-11-93, Castries, Accrington Stanley (On Loan)
+19, Jordan Roberts, ENG, M, 1.80, 81, 05-01-94, Watford, Lincoln C (On Loan)
+42, Shane McLoughlin, IRL, F, 1.75, 70, 01-03-97, Castleisland, AFC Wimbledon
+26, Aaron Drinan, IRL, F, 1.82, 73, 06-05-98, Cork, Waterford (On Loan)

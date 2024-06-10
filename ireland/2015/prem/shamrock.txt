@@ -1,0 +1,36 @@
+=  Shamrock Rovers - League of Ireland Premier Division 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Murphy, IRL, G, 1.78, 75, 08-06-85, Dublin, St Patrick's Ath
+3, Luke Byrne, IRL, D, 1.81, 72, 08-07-93, Dublin, Bohemians
+4, Conor Kenna, IRL, D, 1.78, 76, 21-08-84, Dublin, St Patrick's Ath
+5, David O'Connor, IRL, D, 1.85, 76, 24-08-91, Meath, UCD
+6, Maxime Blanchard, FRA, D, 1.80, 76, 27-09-86, Alençon, Plymouth Arg
+7, Gary McCabe, IRL, M, 1.70, 70, 01-08-88, Tallaght, Sligo R
+8, Ryan Brennan, IRL, M, 1.70, 68, 11-11-91, Drogheda, Drogheda U
+9, Danny North, ENG, F, 1.75, 80, 07-09-87, Grimsby, Sligo R
+10, Sean O'Connor, IRL, M, 1.75, 71, 21-10-83, Dublin, St Patrick's Ath
+11, Kieran Waters, IRL, M, 1.83, 80, 05-05-90, Dublin, Bray W
+14, David Webster, IRL, D, 1.78, 70, 08-09-89, Dublin, Bray W
+15, Gavin Brennan, IRL, M, 1.78, 73, 23-01-88, Drogheda, Drogheda U
+16, Patrick Cregg, IRL, M, 1.75, 65, 21-02-86, Dublin, St Johnstone
+17, Simon Madden, IRL, D, 1.75, 74, 01-05-88, Dublin, Derry C
+18, Sean Boyd, IRL, F, 1.91, 75, 20-06-98, Swords, Malahide U
+19, Shane Hanney, IRL, M, 1.82, 74, 19-02-98, , Templeogue U
+20, Brandon Miele, IRL, M, 1.75, 70, 28-08-94, Dublin, Bluebell U
+21, Michael Drennan, NIR, F, 1.77, 75, 02-02-94, Kilkenny, Aston Villa
+22, Cian Kavanagh, IRL, M, 1.80, 69, 11-09-96, Dublin, St Kevin's Boys
+25, Craig Hyland, IRL, G, 1.88, 81, 08-09-90, Dublin, Waterford U
+27, Gareth McCaffrey, IRL, F, 1.82, 75, 26-01-96, Dublin, Hibernian
+28, Dylan Kavanagh, IRL, M, 1.75, 70, 13-04-96, , UCD
+30, Michael Kelly, IRL, G, 1.96, 80, 13-07-96, Dublin, Dunboyne
+32, Damien Duff, IRL, M, 1.78, 70, 02-03-79, Ballyboden, Melbourne C
+37, Stephen McPhail, IRL, M, 1.73, 76, 09-12-79, Westminster, Sheffield W
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Rob Cornwall, IRL, D, 1.83, 82, 16-10-94, Dublin, Derry C (On Loan)
+24, Richie Purdy, IRL, M, 1.78, 70, 16-06-97, Dublin, Cabinteely (On Loan)
+19, Tim Clancy, IRL, D, 1.80, 70, 08-06-84, Trim, Sligo R (On Loan)
+18, Keith Fahey, IRL, M, 1.78, 80, 15-01-83, Dublin, Retired

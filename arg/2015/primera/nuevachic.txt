@@ -1,0 +1,44 @@
+=  Nueva Chicago - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Sánchez, ARG, G, 1.89, 86, 25-10-86, Capital Federal, Audax Italiano
+3, Mauricio Arias, CHI, D, 1.73, 70, 27-10-84, Concepción, Audax Italiano
+4, Marcos Galarza, ARG, D, 1.80, 72, 03-04-84, Castelar, San Martín (San Juan)
+5, Damián Lemos, ARG, M, 1.79, 82, 31-01-89, La Matanza, Deportivo Merlo
+6, Abel Luis Masuero, ARG, D, 1.85, 80, 06-04-88, La Plata, Instituto (Córdoba)
+7, Nicolás Sainz, ARG, D, 1.83, 81, 16-06-89, San Martín, Racing Club
+8, Alejandro Gagliardi, ARG, M, 1.80, 65, 06-08-89, Córdoba, Unión (Santa Fe)
+9, Ramón Lentini, ARG, F, 1.77, 68, 21-10-88, Posadas, Unión Española
+10, Christian Gómez, ARG, M, 1.72, 70, 07-11-74, Capital Federal, Miami FC
+11, José Ramirez, COL, M, 1.81, 80, 18-09-90, Envigado, Arsenal [ARG]
+12, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, None
+13, Javier Correa, ARG, D, 1.75, 70, 10-09-94, La Tablada, None
+14, Lucas Acevedo, ARG, D, 1.94, 97, 08-11-91, Justiniano Posse, Rosario Central
+15, Fernando de la Fuente, ARG, M, 1.79, 79, 26-03-86, Sierra Grande, Instituto (Córdoba)
+17, Juan Monteagudo, ARG, D, 1.91, 89, 26-10-95, Mataderos, None
+18, Pablo Ruiz, ARG, F, 1.78, 77, 17-07-87, Capital Federal, Platense
+20, Sebastián Grazzini, ARG, M, 1.80, 74, 25-01-81, Rosario, Rangers (Talca)
+21, Mariano Puch, ARG, M, 1.80, 70, 13-08-90, Francisco Álvarez, Atlanta
+22, Nicolás Tauber, ARG, G, 1.82, 75, 20-08-80, La Plata, Chacarita Juniors
+23, Leandro Caballero, ARG, D, 1.86, 75, 13-02-86, Capital Federal, Independiente Rivadavia
+24, Lucas Baldunciel, ARG, F, 1.68, 65, 22-03-92, Capital Federal, None
+25, Lihué Prichoda, ARG, M, 1.78, 70, 29-06-89, Valentín Alsina, Banfield
+26, Nicolás Rizzo, ARG, F, 1.77, 76, 30-07-93, Necochea, None
+27, Tomás Paschetta, ARG, D, 1.80, 78, 03-08-93, Capital Federal, None
+29, Mauricio Carrasco, ARG, F, 1.73, 71, 24-09-87, Neuquén, Atromitos
+30, Daúd Gazale, CHI, F, 1.80, 78, 10-08-84, Concepción, Argentinos Juniors
+31, Nicolás Giménez, ARG, F, 1.79, 73, 16-01-96, Capital Federal, None
+32, Gonzalo Vivas, ARG, M, 1.66, 66, 16-02-93, San Justo, None
+33, Rodrigo Espíndola, ARG, D, 1.83, 84, 29-07-89, Monte Grande, Racing Club
+34, Matías Vera, ARG, M, 1.60, 65, 20-11-95, Merlo, None
+36, Alan Minaglia, ARG, G, 1.80, 72, 16-07-92, Capital Federal, Tigre
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Luis Solignac, ARG, F, 1.84, 81, 16-02-91, Capital Federal, Colorado Rapids
+27, Nahuel Pansardi, ARG, M, 1.76, 74, 16-02-89, San Martín, Platense
+16, Martín Caballero, URU, D, 1.72, 70, 16-06-91, Montevideo, Sud América
+20, Matías De Federico, ARG, M, 1.71, 69, 23-08-89, Capital Federal, Eskişehirspor
+29, Lucas Aveldaño, ARG, D, 1.85, 83, 19-07-85, Rafaela, Belgrano (Córdoba)
+28, Exequiel Benavídez, ARG, M, 1.79, 78, 05-03-89, Santiago del Estero, Atlético San Luis

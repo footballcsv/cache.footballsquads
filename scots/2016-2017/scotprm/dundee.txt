@@ -1,0 +1,47 @@
+=  Dundee - Scottish Premiership 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Bain, SCO, G, 1.83, 70, 22-11-91, Edinburgh, Alloa Ath
+3, Kevin Holt, SCO, D, 1.85, 73, 25-01-93, Dumfries, Queen of the South
+4, James Vincent, ENG, M, 1.80, 70, 27-09-89, Glossop, Inverness CT
+5, James McPake, NIR, D, 1.89, 80, 24-06-84, Bellshill, Hibernian
+6, Darren O'Dea, IRL, D, 1.85, 83, 04-02-87, Dublin, Mumbai C
+7, Tom Hateley, ENG, M, 1.79, 68, 12-09-89, Monte Carlo, Śląsk Wrocław
+11, Danny Williams, ENG, M, 1.75, 69, 25-01-88, Wigan, Inverness CT
+12, David Mitchell, SCO, G, 1.83, 83, 04-04-90, Irvine, Stranraer
+14, Mark O'Hara, SCO, D, 1.83, 73, 12-12-95, Barrhead, Kilmarnock
+16, Julen Etxabeguren, ESP, D, 1.89, 83, 07-03-91, Madrid, East Fife
+17, Nick Ross, SCO, M, 1.75, 64, 11-11-91, Inverness, Inverness CT
+18, Paul McGowan, SCO, F, 1.70, 65, 07-10-87, Bellshill, St Mirren
+20, Faissal El Bakhtaoui, FRA, F, 1.78, 69, 08-11-92, Saint-Tropez, Dunfermline Ath
+21, Marcus Haber, CAN, F, 1.91, 85, 11-01-89, Vancouver, Crewe Alex
+22, Henrik Ojamaa, EST, F, 1.76, 75, 20-05-91, Tallinn, Go Ahead Eagles
+25, Sam Dryden, SCO, D, 1.80, 70, 12-09-96, Nottingham, None
+26, Kostadin Gadzhalov, BUL, D, 1.84, 75, 20-07-89, Plovdiv, Dobrudzha Dobrich
+27, Jesse Curran, AUS, M, 1.72, 68, 16-07-96, Ryde, Central Coast Mariners
+30, Cammy Kerr, SCO, D, 1.75, 70, 10-09-95, Dundee, None
+33, Craig Wighton, SCO, F, 1.85, 72, 27-07-97, Dundee, None
+45, Daniel Higgins, SCO, D, , , 08-04-98, , Celtic
+46, Kyle Gourlay, SCO, G, 1.83, 71, 01-09-98, Dundee, None
+48, Calum Ferrie, ENG, G, 1.83, 78, 19-06-98, Shrewsbury, Port Vale
+51, Kerr Waddell, SCO, D, 1.83, 71, 14-06-98, Arbroath, None
+54, Ian Smith, SCO, F, , , 08-05-98, Cumbernauld, Hearts
+55, Kévin Gomis, FRA, D, 1.86, 85, 20-01-89, Paris, Nice
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Kane Hemmings, ENG, F, 1.86, 78, 08-04-91, Burton upon Trent, Oxford U
+7, Greg Stewart, SCO, F, 1.77, 73, 17-03-90, Stirling, Birmingham C
+29, Gary Harkins, SCO, M, 1.88, 81, 02-01-85, Greenock, Ayr U
+24, Andy Black, SCO, D, 1.78, 75, 20-09-95, Livingston, Fauldhouse U
+35, Calvin Colquhoun, SCO, M, 1.83, 76, 25-07-96, Dundee, Stirling Alb (On Loan)
+49, Conor Quigley, NIR, D, 1.75, 64, 04-12-97, Derry, Stirling Alb (On Loan)
+9, Rory Loy, SCO, F, 1.78, 67, 19-03-88, Dumfries, St Mirren (On Loan)
+43, Josh Skelly, SCO, F, 1.78, 64, 11-04-97, Dundee, Arbroath (On Loan)
+8, Nicky Low, SCO, M, 1.68, 64, 06-01-92, Greenock, Derry C (On Loan)
+10, Michael Duffy, IRL, M, 1.78, 68, 28-07-94, Derry, Celtic
+19, Yordi Teijsse, NED, F, 1.85, 86, 19-07-92, Amsterdam, Wuppertal (On Loan)
+34, Matty Allan, SCO, D, 1.80, 69, 17-01-96, , Montrose (On Loan)
+50, Matthew Smyth, NIR, D, 1.84, 75, 08-05-98, Enniskillen, Arbroath (On Loan)
+23, Marc Klok, NED, M, 1.77, 72, 20-04-93, Amsterdam, PSM Makassar

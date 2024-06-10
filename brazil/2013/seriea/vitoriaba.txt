@@ -1,0 +1,53 @@
+=  Vitória - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Deola, BRA, G, 1.88, 86, 19-04-83, Céu Azul, Palmeiras
+, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Juventude
+, Gustavo, BRA, G, 1.86, 77, 10-03-93, Colatina, None
+, Wilson, BRA, G, 1.85, 79, 31-01-84, Santo André, Figueirense
+, Ayrton, BRA, D, 1.76, 73, 19-04-85, Piracicaba, Palmeiras
+, Daniel Borges, BRA, D, 1.74, 68, 23-03-93, São José dos Campos, Botafogo-SP
+, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Santos
+, Dimas, BRA, D, 1.78, 74, 22-01-92, Porto Seguro, None
+, Euller, BRA, D, 1.68, 54, 04-01-95, São Paulo, None
+, Fabricio, BRA, D, 1.86, 82, 20-02-90, Rio de Janeiro, Desportivo Brasil
+, Juan, BRA, D, 1.67, 66, 06-02-82, São Paulo, São Paulo
+, Kadu, BRA, D, 1.90, 80, 20-07-86, Brasília, Bragantino
+, Luiz Gustavo, BRA, D, 1.77, 65, 12-02-94, Valentim Gentil, Palmeiras
+, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Bahia
+, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Sousa
+, Renato Santos, BRA, D, 1.87, 87, 30-01-87, São Bernardo do Campo, Flamengo
+, Reniê, BRA, D, 1.83, 80, 10-04-89, Feira de Santana, None
+, Tarracha, BRA, D, 1.74, 71, 22-09-84, Ribeirão Preto, América-SP
+, Victor Ramos, BRA, D, 1.92, 76, 05-05-89, Salvador, Standard Liège
+, Arthur Maia, BRA, M, 1.70, 63, 13-10-92, Maceió, None
+, Luis Cáceres, PAR, M, 1.75, 68, 16-04-88, Asunción, Libertad
+, Damián Escudero, ARG, M, 1.76, 74, 20-04-87, Rosario, Boca Juniors
+, Edson Magal, BRA, M, 1.80, 75, 21-06-93, Salvador, None
+, Elizeu, BRA, M, 1.83, 78, 28-05-89, Recife, Estorik
+, Felipe Lima, BRA, M, 1.79, 70, 18-01-91, São Paulo, None
+, Gabriel Soares, BRA, M, 1.75, 69, 02-04-93, Salvador, None
+, Leilson, BRA, M, 1.69, 71, 08-03-91, Feira de Santana, None
+, Luís Alberto, BRA, M, 1.81, 67, 17-11-83, Salvador, Sporting Braga
+, Marcelo, BRA, M, 1.81, 75, 29-05-94, Santo Amaro, None
+, Michel, BRA, M, 1.80, 78, 08-06-81, São Paulo, Ceará
+, Neto, BRA, M, 1.78, 74, 07-02-87, Baixa Grande, None
+, Renato Cajá, BRA, M, 1.73, 70, 15-09-84, Paraíba, Guangzhou Evergrande
+, Vander, BRA, M, 1.73, 65, 17-04-90, Salvador, Bahia
+, Alemão, BRA, F, 1.85, 71, 02-03-89, Valinhos, Ponte Preta
+, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Beijing Guo'an
+, Maximiliano Biancucchi, ARG, F, 1.65, 68, 15-09-84, Rosario, Olimpia [PAR]
+, Dinei, BRA, F, 1.86, 78, 11-11-83, São Domingos, Atlético Paranaense
+, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Desportivo Brasil
+, Pedro Oldoni, BRA, F, 1.89, 87, 26-09-85, Pato Branco, Atlético Paranaense
+, Rômulo, BRA, F, 1.86, 74, 19-04-90, Parambu, Bahia de Feira
+, William Henrique, BRA, F, 1.78, 74, 28-01-92, Ribeirão Preto, Grêmio Barueri
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Carlos Cardoso, BRA, D, 1.90, 85, 11-09-84, Santa Rosa Vitergo, Neftchi Baku
+, Willie, BRA, F, 1.69, 66, 15-05-93, Caravelas, Vasco da Gama (On Loan)
+, Giancarlo, BRA, F, 1.95, 93, 14-01-90, Iguatemi, Treze (On Loan)
+, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Villarreal
+, Camacho, BRA, M, 1.70, 73, 24-03-80, Rio de Janeiro, 

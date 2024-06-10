@@ -1,0 +1,44 @@
+=  Espanyol - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Espanyol B
+2, Marc Navarro, ESP, D, 1.88, 79, 02-07-95, Barcelona, Espanyol B
+3, Aarón, ESP, D, 1.80, 72, 22-04-97, Montmeló, Espanyol B
+4, Víctor Sánchez, ESP, M, 1.74, 72, 08-09-87, Rubí, Neuchâtel Xamax
+5, Naldo, BRA, D, 1.88, 80, 25-08-88, Santo André, FC Krasnodar
+6, Óscar Duarte, CRC, D, 1.86, 81, 03-06-89, Catarina, Club Brugge
+7, Gerard Moreno, ESP, F, 1.80, 75, 07-04-92, Santa Coloma de Gramenet, Villarreal
+8, Carlos Sánchez, COL, M, 1.82, 82, 06-02-86, Quibdó, Fiorentina
+9, Sergio García, ESP, F, 1.74, 72, 09-06-83, Barcelona, Al-Rayyan
+10, José Manuel Jurado, ESP, M, 1.74, 76, 29-06-86, Sanlúcar de Barrameda, Watford
+11, Léo Baptistão, BRA, F, 1.81, 72, 26-08-92, Santos, Atlético Madrid
+12, Dídac, ESP, D, 1.85, 74, 09-06-89, Mataró, AEK
+13, Diego López, ESP, G, 1.96, 89, 03-11-81, Paradela, Milan
+14, Óscar Melendo, ESP, M, 1.67, 63, 23-08-97, Barcelona, Espanyol B
+15, David López, ESP, M, 1.83, 81, 09-10-89, Barcelona, Napoli
+16, Javi López, ESP, D, 1.80, 76, 21-01-86, Osuna, Betis B
+19, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Valencia
+20, Jairo Morillas, ESP, F, 1.87, 75, 02-07-93, Gilena, Espanyol B
+21, Marc Roca, ESP, M, 1.84, 74, 26-11-96, La Granada, Espanyol B
+22, Mario Hermoso, ESP, D, 1.84, 74, 18-06-95, Madrid, Real Madrid B
+23, Esteban Granero, ESP, M, 1.80, 78, 02-07-87, Madrid, Real Sociedad
+24, Sergio Sánchez, ESP, D, 1.85, 76, 03-04-86, Mataró, Rubin Kazan
+25, Sergi Darder, ESP, M, 1.80, 71, 22-12-93, Artà, Lyon
+26, Edu Frías, ESP, G, 1.81, 79, 31-12-98, Barcelona, Espanyol B
+27, Lluís López, ESP, D, 1.82, 79, 05-03-97, Manresa, Espanyol B
+28, Pipa, ESP, D, 1.75, 68, 26-01-98, Esparraguera, Espanyol B
+31, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol B
+33, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Espanyol B
+34, Víctor Gómez, ESP, D, 1.66, 69, 01-04-00, Olesa de Montserrat, Espanyol B
+35, Adrián López, ESP, G, 1.85, 73, 09-01-99, Barcelona, Espanyol B
+36, Álex Domínguez, ESP, G, 1.87, 80, 30-07-98, Granollers, Espanyol B
+37, Adrià Pedrosa, ESP, D, 1.76, 69, 13-05-98, Barcelona, Espanyol B
+38, Cristopher Chávez, PAR, F, 1.77, 70, 07-02-97, Asunción, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Papakouli Diop, SEN, M, 1.79, 77, 19-03-86, Kaolack, Eibar
+8, Álvaro Vázquez, ESP, F, 1.82, 78, 27-04-91, Barcelona, Nàstic (On Loan)
+17, Hernán Pérez, PAR, F, 1.80, 71, 25-02-89, Fernando de la Mora, Alavés (On Loan)
+18, Javi Fuego, ESP, M, 1.82, 75, 04-01-84, Pola di Siero, Villarreal

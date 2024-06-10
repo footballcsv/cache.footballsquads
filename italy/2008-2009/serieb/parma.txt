@@ -1,0 +1,47 @@
+=  Parma - Italian Serie B 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+2, Damiano Zenoni, ITA, D, 1.85, 74, 23-04-77, Trescore Balneario, Udinese
+3, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Milan
+4, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Livorno
+5, Magnus Troest, DEN, D, 1.89, 83, 05-06-87, Copenhagen, FC Midtjylland
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Paolo Castellini, ITA, D, 1.84, 78, 25-03-79, Brescia, Betis
+8, Francesco Lunardini, ITA, M, 1.72, 67, 03-11-84, Cesena, Rimini
+9, Reginaldo, BRA, F, 1.75, 72, 31-07-83, Jundiai, Fiorentina
+10, Julio Cesar León, HON, M, 1.74, 75, 13-09-79, Cortés, Genoa
+11, Andrea Pisanu, ITA, M, 1.79, 74, 07-01-82, Cagliari, Verona
+13, Marco Rossi, ITA, D, 1.88, 78, 30-09-87, Parma, None
+14, Daniele Vantaggiato, ITA, F, 1.77, 81, 10-10-84, Brindisi, Rimini
+17, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Helsingborgs IF
+19, Giulio Falcone, ITA, D, 1.84, 75, 31-05-74, Atri, Sampdoria
+21, Alessio Manzoni, ITA, M, 1.77, 65, 10-04-87, Crema, Atalanta
+22, Andrea Gasparri, ITA, G, 1.90, 89, 28-02-89, Siena, Siena
+23, Cristian Anelli, ITA, D, 1.83, 65, 01-02-89, Asola, None
+24, Massimo Paci, ITA, D, 1.90, 88, 09-05-78, Fermo, Genoa
+25, Antonino D'Agostino, ITA, M, 1.73, 70, 08-10-78, Turin, Atalanta
+31, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Genoa
+32, Alessandro Budel, ITA, M, 1.83, 82, 25-02-81, Basiglio, Empoli
+36, Lorenzo Galassi, ITA, M, 1.81, 72, 31-05-91, Reggio Emilia, None
+37, Ronny Valerio, ITA, M, , , 17-01-90, , None
+38, Mattia Bovi, ITA, M, , , 28-01-89, , None
+39, Giacomo Canalini, ITA, F, , , 08-03-90, , None
+40, Alessandro Elia, ITA, F, , , 15-02-90, Parma, None
+41, Matteo Pisseri, ITA, G, 1.88, 78, 21-11-91, Parma, None
+43, Alberto Paloschi, ITA, F, 1.75, 68, 04-01-90, Chiari, Milan
+45, Loris Formuso, ITA, F, , , 12-01-90, , None
+48, Francesco Pambianchi, ITA, D, 1.83, 76, 12-01-89, Urbino, None
+55, Paolo Ginestra, ITA, G, 1.85, 72, 14-02-79, Pergola, Ternana
+99, Cristiano Lucarelli, ITA, F, 1.88, 83, 04-10-75, Livorno, Shakhtar Donetsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Niccolò Galli, ITA, M, 1.80, 70, 16-09-88, Parma, Pergocrema (On Loan)
+25, Pietro Lorenzini, ITA, F, 1.71, 61, 17-03-89, Parma, Bellaria Igea (On Loan)
+16, Vitali Kutuzov, BLR, F, 1.83, 83, 20-03-80, Pinsk, Bari
+8, Davide Matteini, ITA, F, 1.80, 74, 11-05-82, Livorno, Rimini
+35, Daniele Paponi, ITA, F, 1.79, 66, 16-04-88, Ancona, Rimini (On Loan)
+15, Leandro Martínez, ARG, F, 1.79, 69, 15-10-89, Buenos Aires, Carpenedolo (On Loan)
+55, Francesco Parravicini, ITA, M, 1.75, 73, 31-01-82, Milan, Atalanta (On Loan)

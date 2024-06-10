@@ -1,0 +1,45 @@
+=  Rochdale - English Football League One 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Scunthorpe U
+2, Joe Rafferty, IRL, D, 1.84, 75, 06-10-93, Liverpool, Liverpool
+4, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Bury
+5, Niall Canavan, IRL, D, 1.91, 76, 11-04-91, Leeds, Scunthorpe U
+6, Harrison McGahey, ENG, D, 1.87, 85, 26-09-95, Preston, Sheffield U
+7, Peter Vincenti, ENG, M, 1.88, 76, 07-07-86, Jersey, Aldershot T
+8, Matthew Lund, NIR, M, 1.70, 61, 21-11-90, Manchester, Stoke C
+9, Calvin Andrew, ENG, F, 1.83, 81, 19-12-86, Luton, York C
+10, Callum Camps, NIR, M, 1.80, 75, 30-11-95, Stockport, None
+11, Nathaniel Mendez-Laing, ENG, M, 1.78, 75, 15-04-92, Birmingham, Peterborough U
+12, Donal McDermott, IRL, F, 1.98, 76, 19-10-89, Dublin, Ramsbottom U
+13, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Cardiff C
+14, Ollie Rathbone, ENG, M, 1.70, 66, 10-10-96, Blackburn, Manchester U
+15, Joe Thompson, ENG, M, 1.83, 60, 05-03-89, Rochdale, Carlisle U
+16, Reuben Noble-Lazarus, ENG, F, 1.80, 86, 16-08-93, Huddersfield, Barnsley
+18, Keith Keane, IRL, D, 1.75, 70, 20-11-86, Luton, Cambridge U
+19, Steven Davies, ENG, F, 1.85, 73, 29-12-87, Liverpool, Bradford C
+20, Brian Barry-Murphy, IRL, M, 1.85, 78, 27-07-78, Cork, Bury
+21, Jonathan Diba Musangu, ENG, G, 1.82, 74, 12-10-97, Mbuji-Mayi, None
+22, Jack Redshaw, ENG, F, 1.68, 64, 20-11-90, Salford, Blackpool
+23, Stephen Collis, ENG, G, 1.85, 83, 18-03-81, Barnet, Buxton
+24, Jamie Allen, ENG, M, 1.80, 72, 29-01-95, Rochdale, None
+25, Conrad Logan, IRL, G, 1.88, 89, 18-04-86, Donegal, Hibernian
+26, David Owusu, ENG, F, , , , , Merstham
+27, Andy Cannon, ENG, M, 1.76, 74, 14-03-96, Ashton-under-Lyne, Stockport Co
+28, Aaron Morley, ENG, M, 1.74, 67, 27-02-00, Bury, None
+30, Joel Taylor, ENG, D, 1.78, 67, 24-03-96, West Bromwich, Stoke C
+32, Mark Kitching, ENG, D, 1.88, 74, 04-09-95, Guisborough, Middlesbrough
+36, Matt Gillam, ENG, F, 1.76, 73, 04-10-98, Bexley, None
+39, Joe Bunney, ENG, F, 1.85, 70, 26-09-93, Manchester, Northwich V
+40, Ian Henderson, ENG, F, 1.78, 70, 24-01-85, Thetford, Colchester U
+45, Andy Hollins, ENG, D, , , 30-06-99, , None
+46, Neil Kuemo, ENG, F, , , , , None
+48, Jack Stewart, ENG, M, , , , , None
+49, Jack Lenehan, ENG, M, 1.73, 65, 29-11-98, Liverpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Sanmi Odelusi, ENG, F, 1.82, 75, 11-06-93, Dagenham, Wigan Ath
+3, Scott Tanser, ENG, D, 1.82, 65, 23-10-94, Blackpool, Port Vale
+17, James Hooper, ENG, F, 1.78, 74, 10-02-97, Wythenshawe, Carlisle U

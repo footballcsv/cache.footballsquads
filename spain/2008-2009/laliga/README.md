@@ -1,0 +1,23 @@
+# Spanish La Liga 2008/09
+
+20 teams
+- [Almería](almeria.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Numancia](numancia.txt)
+- [Osasuna](osasuna.txt)
+- [Racing Santander](racing.txt)
+- [Real Madrid](rmadrid.txt)
+- [Recreativo Huelva](recreat.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)

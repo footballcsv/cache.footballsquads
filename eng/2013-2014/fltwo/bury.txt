@@ -1,0 +1,58 @@
+=  Bury - English Football League Two 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, Sunderland
+3, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Barnsley
+4, Richard Hinds, ENG, D, 1.88, 77, 22-08-80, Sheffield, Yeovil T
+5, Nathan Cameron, ENG, D, 1.88, 78, 21-11-91, Birmingham, Coventry C
+6, Andy Proctor, ENG, M, 1.83, 78, 13-03-83, Blackburn, Preston NE
+7, Craig Jones, ENG, M, 1.70, 70, 20-03-87, Chester, TNS
+8, Tommy Miller, ENG, M, 1.85, 74, 08-01-79, Easington, Swindon T
+9, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Everton
+10, Ashley Grimes, ENG, M, 1.82, 71, 09-12-86, Swinton, Rochdale
+11, Chris Hussey, ENG, D, 1.78, 65, 02-01-89, Hammersmith, Burton Alb
+12, Chris Sedgwick, ENG, M, 1.82, 79, 28-04-80, Sheffield, Hyde
+14, Lewis Young, ENG, M, 1.75, 60, 27-09-89, Stevenage, Aldershot T
+15, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Sheffield W
+16, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Rochdale
+18, Daniel Nardiello, WAL, F, 1.80, 72, 22-10-82, Coventry, Rotherham U
+19, Tom Soares, ENG, M, 1.83, 72, 10-07-86, Reading, Stoke C
+20, Danny Rose, ENG, F, 1.73, 57, 10-12-93, Barnsley, Barnsley
+21, Brian Jensen, DEN, G, 1.85, 78, 08-06-75, Copenhagen, Burnley
+22, Clive Platt, ENG, F, 1.93, 83, 27-10-77, Wolverhampton, Northampton T
+25, William Edjenguele, FRA, D, 1.86, 80, 07-05-87, Paris, Coventry C
+26, Robert Lainton, ENG, G, 1.88, 79, 12-10-89, Ashton-under-Lyme, Bolton W
+27, James Burke, ENG, D, 1.80, 84, 16-04-94, Shepley, Huddersfield T
+28, Robbie McIntyre, SCO, D, 1.86, 64, 17-04-94, Edinburgh, Huddersfield T
+29, Frédéric Veseli, SUI, D, 1.83, 80, 20-11-92, Renens, Ipswich T
+30, Reice Charles-Cook, ENG, G, 1.85, 80, 08-04-94, Lewisham, Arsenal
+31, Regan Walker, ENG, F, 1.80, 66, 04-06-96, Manchester, Manchester C
+32, Anthony Dudley, ENG, F, 1.78, 70, 03-01-96, Manchester, None
+33, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, None
+34, Pablo Mills, ENG, D, 1.80, 72, 27-05-84, Birmingham, Rotherham U
+35, Temitope Obadeyi, ENG, F, 1.90, 87, 29-10-89, Birmingham, Rio Ave
+36, Marcus Poscha, ENG, M, 1.80, 76, 19-01-96, Rochdale, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Adam Lockwood, ENG, D, 1.83, 76, 26-10-81, Wakefield, Guiseley
+28, Jordan Mustoe, ENG, D, 1.80, 75, 28-01-91, Wirral, Wigan Ath
+27, Greg McDermott, ENG, M, 1.77, 61, 18-10-91, Liverpool, 
+23, Aiden Chippendale, ENG, M, 1.73, 68, 24-05-92, Bradford, AFC Fylde
+18, Jordan Sinnott, ENG, M, 1.80, 76, 14-02-94, Bradford, Huddersfield T
+24, Danny Hylton, ENG, F, 1.83, 71, 25-02-89, Camden Town, Rotherham U
+2, Shaun Beeley, ENG, D, 1.78, 72, 21-11-88, Stockport, Fleetwood T
+23, Dean Howell, ENG, D, 1.85, 78, 29-11-80, Burton upon Trent, Fleetwood T
+28, Scott Harrison, ENG, D, 1.83, 78, 03-09-93, Middlesbrough, Sunderland
+16, John Rooney, ENG, F, 1.78, 76, 17-12-90, Liverpool, Chester
+3, Gareth Roberts, WAL, D, 1.73, 75, 06-02-78, Wrexham, Notts Co
+11, Euan Holden, USA, D, 1.85, 77, 02-02-88, Aberdeen, 
+14, Shaun Harrad, ENG, F, 1.79, 78, 11-12-84, Nottingham, Alfreton T
+17, Marlon Jackson, ENG, F, 1.88, 81, 06-12-90, Bristol, FC Halifax T
+20, Jessy Reindorf, RWA, F, 1.95, 77, 10-07-91, Bagneux, Tamworth
+22, Marco Navas, ESP, M, 1.75, 76, 21-09-82, Seville, 
+9, Anton Forrester, ENG, F, 1.83, 76, 11-02-94, Liverpool, Blackburn R
+24, Jake Carroll, IRL, D, 1.83, 70, 11-08-91, Dublin, Huddersfield T
+17, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, Tranmere R
+36, Navid Nasseri, ENG, M, 1.74, 64, 26-07-96, Manchester, 

@@ -1,0 +1,46 @@
+=  Lanús - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Boca Juniors
+3, Guillermo Burdisso, ARG, D, 1.87, 86, 26-09-88, Altos de Chipión, Independiente
+4, José Luis Gómez, ARG, D, 1.73, 63, 13-09-93, Santiago del Estero, Racing Club
+5, Fernando Belluschi, ARG, M, 1.71, 68, 10-09-83, Los Quirquinchos, San Lorenzo
+6, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Leganés
+7, Lautaro Acosta, ARG, F, 1.68, 68, 14-03-88, Glew, Sevilla
+9, José Sand, ARG, F, 1.82, 72, 17-07-80, Bella Vista, Deportivo Cali
+10, Marcelino Moreno, ARG, M, 1.68, 65, 25-06-95, Lanús, None
+11, Pablo Martínez, PAR, F, 1.75, 67, 30-11-96, Asunción, 3 de Febrero
+12, Juan Pablo Cozzani, ARG, G, 1.84, 77, 09-10-98, Mendoza, None
+13, Tomás Belmonte, ARG, M, 1.78, 69, 27-05-98, Lanús, None
+14, Lucas Vera, ARG, M, 1.64, 60, 18-04-97, Bernal, None
+15, Guillermo Sara, ARG, G, 1.88, 78, 30-09-87, Rafaela, Boca Juniors
+17, Lautaro Morales, ARG, G, 1.87, 76, 16-12-99, Quilmes, None
+18, Matías Vera, ARG, D, 1.74, 64, 20-08-98, Bernal, None
+19, Facundo Quignon, ARG, M, 1.77, 73, 02-05-93, Capital Federal, San Lorenzo
+21, Nicolás Pasquini, ARG, M, 1.76, 69, 02-01-91, Los Surgentes, None
+22, Matías Pérez, ARG, D, 1.88, 75, 03-03-99, Florencio Varela, None
+23, Julían Aude, ARG, D, 1.80, 66, 24-03-03, Lanús, None
+24, Nicolás Morgantini, ARG, D, 1.75, 70, 11-09-94, San Isidro, Platense
+25, Alexandro Bernabéi, ARG, D, 1.69, 65, 24-09-00, Cañada de Gómez, None
+26, Leonel Di Plácido, ARG, D, 1.76, 72, 28-01-94, Capital Federal, All Boys
+28, Carlos Auzqui, ARG, M, 1.74, 69, 16-09-91, Longchamps, River Plate
+29, Nicolás Thaller, ARG, D, 1.85, 86, 07-09-98, Lanús, None
+30, Lautaro Valenti, ARG, D, 1.88, 80, 14-01-99, Rosario, None
+31, Rocco Ríos Novo, ARG, G, 1.81, 72, 04-06-02, Los Angeles, None
+32, Gonzalo Casazza, ARG, M, , , 23-02-99, , None
+33, Nicolás Orsini, ARG, F, 1.70, 65, 12-09-94, Rafaela, Sarmiento (Junín)
+34, Facundo Pérez, ARG, M, 1.70, 65, 31-07-99, Quilmes, None
+36, Matías Esquivel, ARG, F, 1.64, 63, 22-03-99, San Francisco Solano, None
+39, Pedro De La Vega, ARG, M, 1.77, 70, 07-02-01, Olavarría, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Tiago, BRA, D, 1.91, 89, 17-06-90, São Jorge d'Oeste, Bahia
+23, Rolando García, PAR, D, 1.85, 76, 10-02-90, San Estanislao, Guaraní [PAR]
+27, Gabriel Carrasco, ARG, D, 1.75, 74, 07-03-97, Banfield, Godoy Cruz (Mendoza) (On Loan)
+3, Darío Cáceres, PAR, D, 1.76, 66, 26-01-98, Pirayú, River Plate [PAR] (On Loan)
+16, Gastón Lódico, ARG, M, 1.80, 72, 28-05-98, Temperley, Ferencváros (On Loan)
+18, Matías Donato, ARG, F, 1.80, 80, 15-01-99, Remedios de Escalada, Atlanta (On Loan)
+20, José Luis Sinisterra, COL, F, 1.71, 69, 23-07-98, Buenaventura, Platense (On Loan)
+24, Luciano Abecasis, ARG, D, 1.75, 73, 04-06-90, Rosario, Libertad

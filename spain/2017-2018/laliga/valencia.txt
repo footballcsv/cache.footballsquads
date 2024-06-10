@@ -1,0 +1,40 @@
+=  Valencia - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jaume Domènech, ESP, G, 1.85, 73, 05-11-90, Almenara, Huracán Valencia
+3, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Vitória Setúbal
+4, Jeison Murillo, COL, D, 1.82, 78, 27-05-92, Cali, Internazionale
+5, Gabriel Paulista, BRA, D, 1.85, 72, 26-11-90, São Paulo, Arsenal
+6, Nemanja Maksimović, SRB, M, 1.84, 75, 26-01-95, Banja Koviljača, Astana
+7, Gonçalo Guedes, POR, M, 1.79, 68, 29-11-96, Benavente, Paris St-Germain
+8, Luciano Vietto, ARG, F, 1.73, 69, 05-12-93, Balnearia, Atletico Madrid
+9, Simone Zaza, ITA, F, 1.86, 84, 25-06-91, Policoro, Juventus
+10, Daniel Parejo, ESP, M, 1.82, 74, 16-04-89, Madrid, Getafe
+11, Andreas Pereira, BEL, M, 1.78, 71, 01-01-96, Duffel, Manchester U
+13, Neto, BRA, G, 1.90, 84, 19-07-89, Araxá, Juventus
+14, José Luis Gayà, ESP, D, 1.72, 66, 25-05-95, Pedreguer, Valencia B
+15, Toni Lato, ESP, D, 1.71, 64, 21-11-97, La Pobla de Vallbona, Valencia B
+16, Geoffrey Kondogbia, FRA, M, 1.88, 80, 15-02-93, Nemours, Internazionale
+17, Francis Coquelin, FRA, M, 1.78, 74, 13-05-91, Laval, Arsenal
+18, Carlos Soler, ESP, M, 1.80, 76, 02-01-97, Valencia, Valencia B
+19, Rodrigo Moreno, ESP, F, 1.82, 77, 06-03-91, Rio de Janeiro, Benfica
+20, Ferrán Torres, ESP, F, 1.84, 77, 29-02-00, Foios, Valencia B
+21, Martín Montoya, ESP, D, 1.75, 73, 14-04-91, Gavà, Barcelona
+22, Santi Mina, ESP, F, 1.81, 77, 07-12-95, Vigo, Celta Vigo
+24, Ezequiel Garay, ARG, D, 1.89, 90, 10-10-86, Rosario, Zenit St Petersburg
+27, Gonzalo Villar, ESP, M, 1.80, 73, 23-03-98, Murcia, Valencia B
+29, Javi Jiménez, ESP, D, 1.82, 74, 11-03-97, Aldaia, Valencia B
+30, Nacho Vidal, ESP, D, 1.80, 75, 24-01-95, El Campello, Valencia B
+32, Álex Centelles, ESP, D, 1.86, 67, 30-08-99, Valencia, Valencia B
+35, Cristian Rivero, ESP, G, 1.88, 75, 21-03-98, Gandia, Valencia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, João Cancelo, POR, D, 1.82, 74, 27-05-94, Barreiro, Internazionale (On Loan)
+8, Álvaro Medrán, ESP, M, 1.76, 71, 15-03-94, Dos Torres, Alavés (On Loan)
+15, Fabián Orellana, CHI, M, 1.69, 68, 27-01-86, Santiago, Eibar (On Loan)
+20, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Getafe
+26, Toni Lato, ESP, D, 1.71, 64, 21-11-97, La Pobla de Vallbona, Re-Registered (15)
+31, Nacho Gil, ESP, M, 1.70, 69, 09-09-95, Valencia, Las Palmas (On Loan)
+33, Ferrán Torres, ESP, F, 1.84, 77, 29-02-00, Foios, Re-Registered (20)

@@ -1,0 +1,44 @@
+=  Cesena - Italian Serie B 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Federico Agliardi, ITA, G, 1.90, 86, 11-02-83, Brescia, Bologna
+2, Matteo Gasperi, ITA, M, 1.84, 75, 17-07-97, Forlì, None
+3, Francesco Renzetti, ITA, D, 1.74, 65, 22-01-88, Monte Carlo, Padova
+4, Emmanuel Cascione, ITA, M, 1.87, 77, 22-09-83, Catanzaro, Parma
+5, Stefano Sensi, ITA, M, 1.68, 62, 05-08-95, Urbino, Sassuolo
+6, Stefano Lucchini, ITA, D, 1.86, 76, 02-10-80, Codogno, Atalanta
+8, Luca Valzania, ITA, M, 1.83, 72, 05-03-96, Cesena, Atalanta
+10, Filippo Falco, ITA, M, 1.71, 71, 11-02-92, Taranto, Bologna
+11, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Genoa
+13, Mattia Caldara, ITA, D, 1.87, 80, 05-05-94, Bergamo, Atalanta
+14, Riccardo Improta, ITA, F, 1.79, 82, 19-12-93, Pozzuoli, Genoa
+15, Nicola Dalmonte, ITA, F, 1.68, 62, 13-09-97, Ravenna, None
+16, Luca Garritano, ITA, F, 1.72, 67, 11-02-94, Cosenza, Internazionale
+18, Milan Djurić, BIH, F, 1.99, 94, 22-05-90, Tuzla, Parma
+19, Davide Succi, ITA, F, 1.84, 78, 11-10-81, Bologna, Palermo
+20, Nicola Falasco, ITA, D, 1.73, 66, 05-10-93, Padua, Roma
+22, Alfred Gomis, ITA, G, 1.94, 83, 05-09-93, Ziguinchor, Torino
+23, Moussa Kone, CIV, M, 1.80, 77, 12-02-90, Anyama, Atalanta
+24, Gabriele Perico, ITA, D, 1.83, 75, 11-03-84, Bergamo, Cagliari
+25, Daniele Capelli, ITA, D, 1.84, 82, 20-06-86, Seriate, Atalanta
+26, Youssef Maleh, ITA, M, 1.77, 74, 22-08-98, Castel San Pietro Terme, None
+27, Lorenzo Rosseti, ITA, F, 1.82, 74, 05-08-94, Arezzo, Juventus
+28, Camillo Ciano, ITA, F, 1.76, 73, 22-02-90, Marcianise, Parma
+29, Pietro Menegatti, ITA, G, 1.85, 79, 17-01-92, Rovigo, SPAL
+30, Franck Kessie, CIV, M, 1.83, 77, 19-12-96, Ouragahio, Atalanta
+32, Hörður Magnússon, ISL, D, 1.90, 81, 11-02-93, Reykjavík, Juventus
+33, Riccardo Carroli, ITA, G, 1.98, 93, 21-06-96, Faenza, None
+34, Simone Raffini, ITA, F, , , 28-12-96, Castel San Pietro Terme, Imolese
+35, Mirco Severini, ITA, F, 1.79, 74, 21-04-97, Jesi, None
+36, Mattia Gabrielli, ITA, D, 1.88, 79, 26-01-96, Pesaro, None
+38, Leonardo Fontanesi, ITA, D, 1.81, 73, 20-02-96, Correggio, Sassuolo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Gabriele Moncini, ITA, F, 1.84, 74, 26-04-96, Pistoia, Prato (On Loan)
+31, Filippo De Col, ITA, D, 1.83, 82, 28-10-93, Agordo, Spezia
+10, Andrea Tabanelli, ITA, M, 1.92, 75, 02-02-90, Ravenna, Pisa (On Loan)
+20, Federico Varano, ITA, M, 1.80, 70, 21-01-95, Vigevano, Arezzo (On Loan)
+7, Antonio Mazzotta, ITA, D, 1.85, 73, 02-08-89, Palermo, Pescara (On Loan)
+17, Salvatore Molina, ITA, M, 1.77, 74, 01-01-92, Garbagnate Milanese, Atalanta

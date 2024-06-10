@@ -1,0 +1,46 @@
+=  Lechia Gdańsk - Polish Ekstraklasa 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Łukasz Budziłek, POL, G, 1.86, 81, 19-03-91, Bełchatów, Legia Warszawa
+2, Rafał Janicki, POL, D, 1.88, 79, 05-07-92, Szczecin, Chemik Police
+3, Jakub Wawrzyniak, POL, D, 1.88, 85, 07-07-83, Kutno, Amkar Perm
+4, Aleksandar Kovačević, SRB, M, 1.73, 67, 09-01-92, Belgrade, Crvena Zvezda
+5, Rudinilson Silva, GNB, D, 1.80, 75, 20-08-94, Bissau, Benfica
+6, Sebastian Mila, POL, M, 1.78, 67, 10-07-82, Koszalin, Śląsk Wrocław
+7, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, Fenerbahçe
+8, Daniel Łukasik, POL, M, 1.80, 75, 28-04-91, Giżycko, Legia Warszawa
+9, Michał Mak, POL, M, 1.72, 60, 14-11-91, Sucha Beskidzka, GKS Bełchatów
+11, Martin Kobylański, POL, F, 1.79, 73, 08-03-94, Berlin, Werder Bremen
+14, Piotr Wiśniewski, POL, F, 1.77, 72, 11-08-82, Starogard Gdański, Kaszubia Kościerzyna
+15, Adam Dźwigała, POL, D, 1.82, 72, 25-09-95, Warsaw, Jagiellonia Białystok
+17, Lukáš Haraslín, SVK, M, 1.74, 64, 26-05-96, Bratislava, Parma
+18, Adam Buksa, POL, F, 1.91, 78, 12-07-96, Kraków, Novara
+19, Marco Paixão, POR, F, 1.85, 76, 19-09-84, Sesimbra, Sparta Prague
+20, Michał Chrapek, POL, M, 1.74, 68, 03-04-92, Jaworzno, Catania
+21, Sławomir Peszko, POL, M, 1.74, 67, 19-02-85, Jedlicze, Köln
+22, Mario Maloča, CRO, D, 1.89, 75, 04-05-89, Zagreb, Hajduk Split
+23, Grzegorz Wojtkowiak, POL, D, 1.84, 76, 26-01-84, Kostrzyn nad Odrą, 1860 Munich
+24, Mateusz Bąk, POL, G, 1.86, 85, 24-02-83, Pruszcz Gdański, Etar Veliko Tarnovo
+25, Adam Chrzanowski, POL, D, 1.86, 78, 31-03-99, Warsaw, Znicz Pruszków
+27, Przemysław Macierzyński, POL, F, 1.82, 74, 11-02-99, Lubsko, UKS SMS Łódź
+28, Flávio Paixão, POR, M, 1.81, 75, 19-09-84, Sesimbra, Śląsk Wrocław
+29, Neven Marković, SRB, D, 1.83, 78, 20-02-87, Čapljina, Servette
+30, Grzegorz Kuświk, POL, F, 1.81, 75, 23-05-87, Ostrów Wielkopolski, Ruch Chorzów
+32, Vanja Milinković-Savić, SRB, G, 2.02, 92, 20-02-97, Ourense, Manchester U
+33, Juliusz Letniowski, POL, M, 1.83, 62, 08-04-98, Gdańsk, None
+34, Adam Gołuński, POL, F, 1.74, 72, 20-01-97, Starogard Gdański, Victoria Kaliska
+35, Gerson, BRA, M, 1.86, 85, 07-01-92, Rio de Janeiro, Kapfenberg
+41, Paweł Stolarski, POL, D, 1.81, 72, 28-01-96, Kraków, Wisła Kraków
+44, Michał Żebrakowski, POL, F, 1.93, 82, 07-01-97, Rzeszów, Stal Rzeszów
+50, Marko Marić, AUT, G, 1.90, 89, 03-01-96, Vienna, 1899 Hoffenheim
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Hieronim Gierszewski, POL, F, , , 13-07-96, , GKS Bełchatów (On Loan)
+21, Stojan Vranješ, BIH, M, 1.83, 75, 22-06-85, Banja Luka, Legia Warszawa
+33, Nikola Leković, SRB, D, 1.76, 73, 19-12-89, Belgrade, Partizan Belgrade (On Loan)
+10, Bruno Nazário, BRA, M, 1.78, 68, 09-02-95, Cascavel, 1899 Hoffenheim
+16, Ariel Borysiuk, POL, M, 1.78, 70, 29-07-91, Biała Podlaska, Legia Warszawa
+7, Donatas Kazlauskas, LTU, M, 1.75, 70, 31-03-94, Kretinga, Atlantas Klaipėda (On Loan)
+11, Maciej Makuszewski, POL, M, 1.76, 70, 29-09-89, Grajewo, Vitória Setúbal (On Loan)

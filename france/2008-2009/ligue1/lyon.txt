@@ -1,0 +1,44 @@
+=  Lyon - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 78, 26-12-86, Nice, Nice
+2, François Clerc, FRA, D, 1.86, 77, 18-04-83, Bourg en Bresse, None
+3, Cris, BRA, D, 1.83, 77, 03-06-77, Guarulhos, Cruzeiro
+4, Jean-Alain Boumsong, FRA, D, 1.90, 88, 14-12-79, Douala, Juventus
+5, Mathieu Bodmer, FRA, M, 1.90, 91, 22-11-82, Evreux, Lille
+6, Kim Källström, SWE, M, 1.81, 79, 24-08-82, Sandviken, Rennes
+7, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Nice
+8, Juninho Pernambucano, BRA, M, 1.78, 71, 30-01-75, Recife, Vasco da Gama
+10, Karim Benzema, FRA, F, 1.82, 74, 19-12-87, Lyon, None
+11, Fabio Grosso, ITA, D, 1.90, 79, 28-11-77, Rome, Internazionale
+12, Timothée Kolodziejczak, FRA, D, 1.81, 74, 01-10-91, Avion, Lens
+13, Pierrick Valdivia, FRA, M, 1.85, 67, 18-04-88, Bron, None
+14, Sidney Govou, FRA, F, 1.75, 75, 27-07-79, Le Puy-en-Valay, None
+15, John Mensah, GHA, D, 1.80, 81, 29-11-82, Obuasi, Rennes
+17, Jean II Makoun, CMR, M, 1.73, 69, 29-05-83, Yaoundé, Lille
+18, Miralem Pjanić, BIH, M, 1.80, 68, 02-04-90, Zvornik, Metz
+19, César Delgado, ARG, M, 1.74, 69, 18-08-81, Rosario, Cruz Azul
+20, Anthony Réveillère, FRA, D, 1.81, 76, 10-11-79, Doué-La-Fontaine, Rennes
+22, Clément Grenier, FRA, M, 1.86, 72, 07-01-91, Annonay, None
+23, Abdul Kader Keïta, CIV, F, 1.84, 78, 06-08-81, Abidjan, Lille
+25, Joan Hartock, FRA, G, 1.89, 83, 17-02-87, La Trinité, AS Robert
+26, Fábio Santos, BRA, M, 1.82, 75, 09-10-80, Campina Grande, Cruzeiro
+27, Anthony Mounier, FRA, F, 1.74, 65, 27-09-87, Aubenas, None
+28, Jérémy Toulalan, FRA, M, 1.83, 77, 10-09-83, Nantes, Nantes
+29, Yannis Tafer, FRA, F, 1.80, 67, 11-02-91, Grenoble, None
+30, Rémy Vercoutre, FRA, G, 1.85, 78, 26-06-80, Grande-Synthe, Montpellier
+31, Saïd Mehamha, FRA, M, 1.70, 65, 04-09-90, Lyon, None
+32, Lamine Gassama, FRA, D, 1.81, 74, 20-10-89, Marseille, None
+34, Jérémy Pied, FRA, F, 1.73, 69, 23-02-89, Grenoble, None
+35, Thomas Fontaine, FRA, D, 1.82, 73, 08-05-91, Saint-Pierre, None
+36, Sébastien Faure, FRA, M, 1.85, 72, 03-01-91, Lyon, None
+38, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, None
+39, Frédéric Piquionne, FRA, F, 1.88, 85, 08-12-78, Nouméa, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Milan Baroš, CZE, F, 1.84, 78, 28-10-81, Valašské Meziříčí, Galatasaray
+15, Sandy Paillot, FRA, D, 1.90, 79, 27-02-87, Lyon, Grenoble (On Loan)
+24, Romain Beynié, FRA, M, 1.75, 73, 06-05-87, Lyon, Tubize (On Loan)
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Fluminense

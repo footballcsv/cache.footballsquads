@@ -1,0 +1,37 @@
+=  Sochaux - French Ligue 2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Mickaël Alphonse, FRA, D, 1.82, 75, 12-07-89, Champigny-sur-Marne, Bourg-en-Bresse
+3, Nicolas Senzemba, FRA, D, 1.78, 66, 25-03-96, Champigny-sur-Marne, None
+4, Adolphe Teikeu, CMR, D, 1.89, 80, 23-06-90, Bandjoun, Chornomorets Odessa
+5, Zakarya Bergdich, MAR, D, 1.78, 69, 07-01-89, Paris, Córdoba
+6, Jeando Fuchs, FRA, M, 1.74, 70, 11-10-97, Yaoundé, None
+7, Florin Bérenguer, FRA, M, 1.80, 70, 01-04-89, Montbeliard, Dijon
+8, Aksel Aktaş, FRA, M, 1.76, 69, 15-07-99, Audincourt, None
+9, Thomas Robinet, FRA, F, 1.80, 75, 18-08-96, Saint-Priest, None
+10, Moussa Sao, FRA, F, 1.84, 76, 17-10-89, Fontenay-aux-Roses, Le Havre
+11, Florian Martin, FRA, M, 1.80, 79, 19-03-90, Lorient, Niort
+12, Florent Ogier, FRA, D, 1.82, 75, 21-03-89, Lyon, Bourg-en-Bresse
+13, Mart Ristl, GER, M, 1.80, 74, 07-07-96, Schwäbisch Gmünd, Stuttgart
+14, Yoann Touzghar, FRA, F, 1.79, 75, 28-11-86, Avignon, Auxerre
+15, Aldo Kalulu, FRA, F, 1.66, 65, 21-01-96, Lyon, Lyon
+16, Maxence Prévot, FRA, G, 1.84, 70, 09-04-97, Belfort, None
+17, Bryan Lasme, FRA, F, 1.88, 76, 14-11-98, Montbéliard, None
+18, Jean Ruiz, FRA, M, 1.88, 80, 06-04-98, Guebviller, None
+19, Sofiane Daham, FRA, M, 1.80, 70, 15-01-96, Saïda, None
+20, Axel Mohamed Bakayoko, FRA, F, 1.78, 70, 06-01-98, Paris, Internazionale
+21, Yakou Méïte, FRA, M, 1.84, 72, 11-02-96, Paris, Reading
+22, Florian Tardieu, FRA, M, 1.84, 70, 22-04-92, Istres, Istres
+23, Jason Pendant, FRA, D, 1.77, 64, 09-02-97, Sarcelles, None
+24, El-Hajdi Ba, FRA, M, 1.83, 74, 05-03-93, Paris, Stabæk
+25, Rayan Senhadji, FRA, D, 1.85, 80, 13-06-97, Lyon, None
+26, Martin François, FRA, M, 1.80, 75, 23-12-96, Montbéliard, None
+27, Pierre Gibaud, FRA, D, 1.84, 77, 22-04-88, Laval, Carquefou
+29, Patrick Kapp, GER, D, 1.80, 81, 20-07-97, Illertissen, 1899 Hoffenheim
+30, Lawrence Ati-Zigi, GHA, G, 1.84, 85, 29-11-96, Accra, Red Bull Salzburg
+40, Aubin Long, FRA, G, 1.85, 80, 20-03-97, Nyons, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Faneva Andriatsima, MAD, F, 1.84, 74, 03-06-84, Antananarivo, Le Havre

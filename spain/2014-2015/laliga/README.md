@@ -1,0 +1,23 @@
+# Spanish La Liga 2014/15
+
+20 teams
+- [Almería](almeria.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Celta Vigo](celta.txt)
+- [Córdoba](cordoba.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Eibar](eibar.txt)
+- [Elche](elche.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Levante](levante.txt)
+- [Málaga](malaga.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)

@@ -1,0 +1,49 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magrão, BRA, G, 1.87, 79, 09-04-77, São Paulo, Rio Branco-SP
+2, Oswaldo Henríquez, COL, D, 1.86, 79, 10-03-89, Santa Marta, Millonarios
+3, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Náutico
+4, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Santos
+5, Rodrigo, BRA, M, 1.76, 70, 11-02-94, Ituiutaba, Tombense
+6, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Cruzeiro
+7, Reinaldo Lenis, COL, M, 1.80, 70, 20-07-92, Cali, Argentinos Juniors
+8, Anselmo, BRA, M, 1.82, 78, 20-02-89, São Paulo, Internacional
+9, Leandro Pereira, BRA, F, 1.90, 75, 03-07-91, Araçatuba, Club Brugge
+10, Osvaldo, BRA, F, 1.69, 62, 11-04-87, Fortaleza, Fluminense
+11, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Internacional
+15, Bruno Xavier, BRA, M, 1.78, 69, 27-11-96, São Paulo, Nacional-SP
+17, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, São Paulo
+19, Agenor, BRA, G, 1.87, 84, 11-12-89, Erechim, Joinville
+20, Thomás Bedinelli, BRA, M, 1.79, 75, 24-02-93, Juiz de Fora, Santa Cruz
+21, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Goiás
+22, Neris, BRA, D, 1.90, 88, 17-06-92, Tucuruí, Santa Cruz
+23, Raul Prata, BRA, D, 1.78, 72, 14-07-87, Piracicaba, Botafogo-SP
+27, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Ceará
+28, Wesley, BRA, M, 1.79, 63, 24-06-87, Catanduva, São Paulo
+31, Lucas, BRA, G, 1.87, 80, 20-10-97, Recife, None
+32, Maílson, BRA, G, 1.97, 90, 20-08-96, Recife, None
+33, Caio, BRA, D, 1.78, 70, 16-04-99, Recife, None
+37, Juninho, BRA, F, 1.79, 68, 26-02-99, Amarante, None
+40, Evandro, BRA, D, 1.70, 66, 06-01-97, Recife, None
+42, Elias, BRA, D, 1.77, 70, 16-07-99, Recife, None
+44, Thallyson, BRA, M, 1.81, 74, 24-03-96, Recife, None
+56, Sander, BRA, D, 1.77, 68, 03-10-90, Corumbá de Goiás, Cruzeiro-RS
+63, Indio, BRA, F, 1.79, 75, 20-05-97, Recife, None
+87, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Fluminense
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Goiás
+89, Igor Ribeiro, BRA, D, 1.90, 88, 08-12-89, Fortaleza, Anápolis
+90, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Sporting CP
+97, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+93, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Atlético Mineiro
+12, Paulo Henrique, BRA, F, 1.80, 79, 13-03-89, João Pessoa, Shanghai Shenhua
+13, Matheus Ferraz, BRA, D, 1.90, 82, 12-02-85, São José do Rio Pardo, Goiás (On Loan)
+25, Neto Moura, BRA, M, 1.77, 70, 06-08-96, Atalaia, América Mineiro (On Loan)
+30, Fábio Matos, BRA, M, 1.75, 67, 31-01-96, Recife, Paysandu (On Loan)
+34, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, Palmeiras (On Loan)
+29, Ronaldo, BRA, M, 1.80, 73, 27-06-94, Recife, Ohod Club (On Loan)
+36, Fabrício, BRA, M, 1.71, 68, 03-06-98, Recife, Oeste (On Loan)

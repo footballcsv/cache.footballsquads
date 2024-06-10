@@ -1,0 +1,54 @@
+=  Chester - English Football Conference Premier 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, John Danby, ENG, G, 1.88, 92, 20-09-83, Stoke-on-Trent, Eastwood T
+2, Michael Kay, ENG, D, 1.85, 75, 12-09-89, Shotley Bridge, Tranmere R
+3, Joe Heath, ENG, D, 1.80, 75, 04-10-88, Birkenhead, Hereford U
+4, George Horan, ENG, D, 1.88, 86, 18-02-82, Chester, Droylsden
+5, Paul Linwood, ENG, D, 1.88, 80, 24-10-83, Birkenhead, Fleetwood T
+6, Danny Harrison, ENG, M, 1.80, 79, 04-11-82, Liverpool, Tranmere R
+7, Craig Hobson, ENG, F, 1.91, 84, 25-02-88, Bolton, Guiseley
+8, Jason Jarrett, ENG, M, 1.83, 83, 14-09-79, Bury, Airbus UK Broughton
+9, Matty Mainwaring, ENG, M, 1.80, 77, 28-03-90, Salford, Hyde
+10, Luke Ashworth, ENG, D, 1.88, 80, 04-12-89, Bolton, Hyde
+11, Craig Lindfield, ENG, F, 1.88, 79, 07-09-88, Wirral, Accrington Stanley
+12, Lewis Turner, ENG, D, 1.78, 70, 03-09-92, Garforth, Leeds U
+13, Martin Fearon, IRL, G, 1.80, 77, 30-10-88, Blackburn, Lancaster C
+14, Kevin McIntyre, ENG, M, 1.83, 74, 23-12-77, Liverpool, Rochdale
+15, Nathan Turner, ENG, M, 1.78, 70, 03-09-92, Garforth, Leeds U
+16, Andrew Bond, ENG, M, 1.78, 73, 16-03-86, Wigan, Colchester U
+17, Matty Brown, ENG, D, 1.94, 90, 15-03-90, Great Crosby, Chesterfield
+18, Sean Miller, ENG, F, , , 09-05-95, , None
+19, Gareth Seddon, ENG, F, 1.75, 78, 23-05-80, Burnley, FC Halifax T
+20, Brendon Daniels, ENG, F, 1.72, 74, 24-09-93, Stoke-on-Trent, Crewe Alex
+21, Craig Mahon, IRL, F, 1.70, 61, 21-06-89, Dublin, Vauxhall Motors
+22, Tom Batten, ENG, D, , , , , None
+23, Tom Peers, ENG, F, 1.78, 73, 23-10-95, Warrington, None
+24, John Rooney, ENG, F, 1.78, 76, 17-12-90, Liverpool, Bury
+25, Ricky Bridge, ENG, D, , , , , Newcastle T
+26, Danny Carlton, ENG, F, 1.80, 78, 22-12-83, Leeds, Hyde
+27, Ross Killock, ENG, D, 1.84, 74, 12-07-94, Huddersfield, Leeds U
+29, James Caton, ENG, M, 1.73, 69, 04-01-94, Widnes, Blackpool
+30, Andy Griffin, ENG, D, 1.73, 68, 17-03-79, Wigan, Doncaster R
+31, Aaron Chapman, ENG, G, 2.03, 92, 29-05-90, Rotherham, Chesterfield
+34, Jamie Menagh, ENG, M, , , 14-09-93, Liverpool, Stoke C
+35, Liam Blake, ENG, F, , , 07-05-96, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Marc Williams, WAL, F, 1.78, 75, 27-07-88, Colwyn Bay, Northwich V
+18, Shaq McDonald, ENG, F, 1.73, 70, 19-07-95, Birmingham, Peterborough U
+24, Jordan Laidler, ENG, F, 1.78, 76, 13-10-93, North Shields, Sunderland
+25, Aiden Chippendale, ENG, M, 1.73, 68, 24-05-92, Bradford, Bury
+9, Ben Mills, ENG, F, 1.88, 76, 29-03-89, Stoke-on-Trent, Brackley T
+26, Jon Atkinson, ENG, F, , , 14-08-87, , Cammell Laird
+30, Conor Wilkinson, IRL, F, 1.85, 77, 23-01-95, Croydon, Bolton W
+32, Chris Lester, ENG, M, 1.80, 78, 27-10-94, Salford, Bolton W
+20, Lee Pugh, ENG, M, 1.73, 70, 30-11-92, Rossendale, 
+22, Alex Titchiner, WAL, F, 1.70, 65, 13-06-91, St Asaph, Fleetwood T
+17, Danny Higginbotham, ENG, D, 1.85, 78, 29-12-78, Manchester, Altrincham
+16, Ashley Williams, WAL, M, 1.73, 76, 08-10-87, Chester, Airbus UK Broughton
+25, George Miller, ENG, M, 1.75, 77, 25-11-91, Preston, Accrington Stanley
+7, Jamie Reed, WAL, F, 1.83, 78, 13-08-87, Chester, South Melbourne
+10, Matty Taylor, ENG, F, 1.76, 72, 30-03-90, Oxford, Forest Green R

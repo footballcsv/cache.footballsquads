@@ -1,0 +1,36 @@
+=  Nancy - French Ligue 1 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gennaro Bracigliano, FRA, G, 1.83, 82, 01-03-80, Forbach, None
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+4, Fouad Rachid, COM, M, 1.63, 60, 15-11-91, Mayotte, None
+5, André Luiz, BRA, D, 1.85, 84, 27-01-80, São João del Rei, Atlético Mineiro
+6, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Istres
+7, Landry N'Guemo, CMR, M, 1.73, 70, 28-11-85, Yaoundé, None
+8, Jordan Lotiès, FRA, D, 1.87, 77, 05-08-84, Clermont-Ferrand, Dijon
+9, Aatif Chahechouhe, FRA, M, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Noisy-le-Sec
+10, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, None
+11, Djamel Bakar, FRA, M, 1.71, 67, 06-04-89, Marseille, Monaco
+12, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Amiens
+14, Paul Alo'o Efoulou, CMR, F, 1.76, 73, 12-11-83, Yaoundé, Angers
+15, Youssouf Hadji, MAR, M, 1.83, 78, 25-02-80, Ifrane, Rennes
+16, Damien Gregorini, FRA, G, 1.94, 90, 02-03-79, Nice, Nice
+17, Massadio Haïdara, SEN, D, 1.79, 75, 02-12-92, Trappes, None
+18, Julien Féret, FRA, M, 1.87, 74, 05-07-82, Saint Brieuc, Reims
+19, Marama Vahirua, FRA, F, 1.72, 68, 12-05-80, Papeete, Lorient
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, None
+21, Samba Diakité, MLI, M, 1.86, 76, 24-01-89, Montfermeil, None
+22, Alexandre Cuvillier, FRA, M, 1.82, 69, 17-06-86, Cucq, Boulogne
+23, Jonathan Brison, FRA, M, 1.79, 73, 07-02-83, Soissons, None
+24, Benjamin Gavanon, FRA, M, 1.80, 75, 09-08-80, Marseille, Marseille
+25, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, Caen
+29, Alfred N'Diaye, FRA, M, 1.87, 87, 06-03-90, Paris, None
+30, Rémi Pillot, FRA, G, 1.87, 80, 27-07-90, Besançon, None
+33, Ziri Hammar, ALG, M, 1.80, 74, 25-07-92, Akbou, None
+40, Ronan Le Crom, FRA, G, 1.86, 77, 13-07-74, Lorient, Grenoble
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Jean Calvé, FRA, D, 1.83, 78, 30-04-84, Cormeilles-en-Parisis, Sheffield U (On Loan)
+4, Cris Malonga, CGO, M, 1.83, 73, 11-07-87, Sens, Monaco

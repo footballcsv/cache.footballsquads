@@ -1,0 +1,59 @@
+=  Diósgyor - Hungarian Soproni Liga 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Radoš, CRO, G, 1.87, 84, 21-02-84, Zagreb, Croatia Sesvete
+2, Vlado Jeknić, MNE, D, 1.89, 87, 14-08-83, Savnik, Wehen-Wiesbaden
+4, Rohan Ricketts, ENG, M, 1.83, 73, 22-12-82, Clapham, Toronto FC
+5, Igor Gal, CRO, D, 1.89, 82, 20-01-83, Koprivnica, Slaven Belupo
+7, Bence Zámbó, HUN, D, 1.85, 75, 17-08-89, Celldömölk, Győr
+8, Tamás Huszák, HUN, M, 1.86, 76, 02-10-88, Miskolc, Debrecen
+9, Róbert Roszel, ROU, F, 1.76, 69, 30-01-83, Căpleni, CSM Râmnicu-Vâlcea
+10, Péter Takács, HUN, M, 1.75, 65, 25-01-90, Miskolc, MTK
+11, Bojan Brnović, MNE, F, 1.75, 75, 10-02-79, Podgorica, Győr
+13, Zsolt Bognár, HUN, D, 1.83, 75, 28-03-79, Csorna, Lanciano
+15, Zoltán Burány, HUN, D, 1.75, 69, 26-07-89, Novi Sad, Tisza Volán Szeged
+17, Haman Sadjo, CMR, D, 1.73, 72, 28-11-84, Ngaoundéré, Sahel SC
+20, Norbert Zsivoczky, HUN, M, 1.83, 73, 16-02-88, Budapest, Ferencvarós
+21, George Menougong, CMR, F, 1.76, 70, 18-05-85, Yaoundé, Bőcs
+22, Péter Bajzát, HUN, F, 1.83, 80, 22-06-81, Eger, Győr
+23, Gábor Horváth, HUN, D, 1.81, 77, 10-07-83, Budapest, Siófok
+25, Tamás Giák, HUN, G, 1.88, 82, 02-04-90, Miskolc, None
+26, Zoran Šupić, SRB, D, 1.92, 87, 21-07-84, Sarajevo, Győr
+27, Mindaugas Malinauskas, LTU, G, 1.90, 84, 11-08-83, Kaunas, Šilutė
+28, Tamás Somorjai, HUN, M, 1.79, 71, 12-01-80, Budapest, Hartberg
+79, Ákos Lippai, HUN, M, 1.74, 69, 13-06-79, Miskolc, Nyíregyháza
+88, Dejan Vukadinović, SRB, D, 1.80, 73, 03-09-82, Podgorica, Viktoria Žižkov
+89, Tamás Burányi, HUN, F, 1.80, 70, 15-11-89, Győr, Zalaegerszeg II
+91, Ádám Balajti, HUN, F, 1.87, 82, 07-03-91, Eger, Újpest
+92, Patrik Bacsa, HUN, F, 1.84, 74, 03-06-92, Miskolc, None
+99, Attila Dobos, HUN, M, 1.70, 66, 24-11-78, Miskolc, REAC
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, László Köteles, HUN, G, 1.85, 81, 01-09-84, Szeged, KRC Genk
+27, Tamás Szélpál, HUN, M, 1.90, 81, 11-07-87, Szeged, Debrecen
+21, Gábor Kerényi, HUN, D, 1.85, 76, 07-09-87, Salgótarján, Mátranovák (On Loan)
+13, Ádám Kovács, HUN, M, 1.78, 71, 14-04-89, Miskolc, Diósgyőr II
+1, Besarion Kodalaev, GEO, G, 1.88, 87, 22-02-82, , Spartaki-Tskhinvali
+11, Milán Faggyas, HUN, F, 1.75, 66, 01-06-89, Miskolc, Debrecen
+77, Róbert Nagy, HUN, M, 1.77, 67, 26-11-87, Debrecen, Debrecen
+29, Zoltán Kovács, HUN, G, 1.91, 92, 29-10-84, Békéscsaba, Kaposvár
+4, Boris Miličić, SRB, D, 1.91, 83, 04-04-79, Vrbas, Habitpharm Javor
+12, Despot Visković, SRB, D, 1.83, 77, 03-03-80, , 
+82, Bogdan Apostu, ROU, F, 1.86, 76, 20-04-82, Hunedoara, Internaţional Curtea de Argeş
+99, Nemanje Bulatović, SRB, F, 1.86, 84, 13-08-91, , 
+17, Tibor Bokros, HUN, D, 1.82, 83, 28-08-89, Sátoraljaújhely, Bőcs (On Loan)
+3, László Balint, ROU, D, 1.79, 74, 29-03-79, Braşov, 
+14, Viktor Szabó, HUN, F, 1.92, 84, 23-07-86, Gyöngyös, Mezőkövesd (On Loan
+41, Szabolcs Horváth, HUN, M, 1.83, 73, 10-07-89, Miskolc, Vecsés (On Loan)
+22, Bencze Somodi, HUN, G, 1.86, 80, 25-11-88, Eger, Kazincbarcika (On Loan)
+5, Norbert Kállai, HUN, D, 1.89, 83, 06-03-84, Cegléd, Hévíz
+24, Dávid Kleiber, HUN, F, 1.85, 80, 09-01-90, Miskolc, Honvéd (On Loan)
+7, Béla Lakatos, HUN, D, 1.88, 82, 26-09-84, Salgótarján, Mezőkövesd
+9, Gergő Góhér, HUN, D, 1.84, 77, 16-06-87, Hatvan, Honvéd (On Loan)
+6, Gergő Menyhért, HUN, D, 1.93, 85, 22-10-89, Miskolc, Kaposvölgye
+21, Gábor Polényi, HUN, D, 1.80, 72, 02-07-91, Miskolc, Diósgyőr II
+20, Gellért Ivancsics, HUN, M, 1.75, 74, 23-02-87, Sopron, Szigetszentmiklós (On Loan)
+26, Gábor Nagy, HUN, D, 1.83, 78, 03-12-88, Miskolc, Diósgyőr II
+19, Norbert Lipusz, HUN, M, 1.64, 60, 23-04-86, Miskolc, Kazincbarcika (On Loan)

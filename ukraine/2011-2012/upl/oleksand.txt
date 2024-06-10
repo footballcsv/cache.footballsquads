@@ -1,0 +1,50 @@
+=  Oleksandria - Ukrainian Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vadym Deonas, UKR, G, 1.87, 86, 25-07-75, Odessa, Dinamo Brest
+2, Andriy Sakhnevych, UKR, D, 1.79, 70, 17-04-89, Zhytomyr, Dynamo Kyiv-2
+3, Dzyanis Kowba, BLR, M, 1.88, 78, 06-09-79, Vitebsk, Krylia Sovetov
+4, Ján Králík, CZE, M, 1.81, 75, 07-03-87, , Slovan Bratislava
+5, Ihor Cherednichenko, UKR, D, 1.84, 77, 09-05-84, , Metalist Kharkiv-2
+7, Vyacheslav Shevchenko, UKR, F, 1.86, 79, 30-05-85, , Stal Achevsk
+8, Levan Gulordava, GEO, F, 1.76, 65, 16-05-88, Zugdidi, Zirka Kirovohrad
+9, Oleksiy Dovhyy, UKR, M, 1.86, 75, 02-11-89, Kyiv, Dynamo Kyiv-2
+10, Taofik Salhi, TUN, M, 1.75, 66, 21-08-79, Tunis, Sevastopol
+11, Dimitar Makriev, BUL, F, 1.87, 83, 07-01-84, Gotse Delchev, Krylia Sovetov
+13, Vitaliy Havrysh, UKR, M, 1.82, 75, 18-03-86, Chernihiv, Metalurh Donetsk
+15, Andriy Zaporozhan, UKR, D, 1.75, 69, 21-03-83, Ovidiopol, Energetik Burshtin
+17, Andriy Hitchenko, UKR, D, 1.87, 74, 02-10-84, Kyiv, Desna Chernihiv
+18, Dmytro Nazarenko, UKR, D, 1.87, 82, 14-09-87, Donetsk, Stal Alchevsk
+19, Kostyantyn Balabanov, UKR, F, 1.82, 76, 13-08-82, Kiliya, FC Odessa
+20, Oleh Dopilka, UKR, D, 1.81, 69, 12-03-86, Kyiv, Dynamo Kyiv
+23, Kyrylo Sydorenko, UKR, D, 1.89, 78, 25-07-85, Dnipropetrovsk, FC Tiraspol
+25, Viktor Genev, BUL, D, 1.80, 75, 27-10-88, Sofia, Slavia Sofia
+27, Serhiy Starenkyy, UKR, M, 1.77, 70, 20-09-84, Novi Petrivtsi, FC Lviv
+28, Josip Barišić, CRO, F, 1.86, 80, 14-11-86, Osijek, Osijek
+48, Artem Polyarus, UKR, M, 1.79, 71, 05-07-92, Oleksandriya, Oleksandriya-2
+71, Vladyslav Levanidov, UKR, G, 1.85, 81, 23-02-93, Kyiv, Dynamo Kyiv-2
+72, Željko Ljubenović, SRB, M, 1.83, 77, 09-07-81, Belgrade, Tavriya Simferopol
+73, Radoš Protić, SRB, D, 1.83, 75, 31-01-87, Sremska Mitrovica, Jagodina
+77, Yuriy Pankiv, UKR, G, 1.86, 83, 03-11-84, Lviv, Nyva Ternopil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Anton Mukhovykov, UKR, M, 1.75, 68, 20-06-84, Dnipropetrovsk, Hoverla-Zakarpattya
+31, Ihor Hryshyn, UKR, G, 1.92, 84, 21-02-89, , Krymteplytsia Molodizhne
+13, Ruslan Zeynalov, UKR, M, 1.83, 78, 19-06-82, Luhansk, 
+3, Oleh Yermak, UKR, M, 1.75, 71, 09-03-86, Okhtyrka, 
+99, Mohamed Arouri, TUN, D, 1.82, 75, 13-05-83, Tunis, Ordabasy
+29, Taras Kabanov, UKR, F, 1.86, 78, 23-01-81, Lviv, Belshina Bobruisk
+14, Maksym Kremenchutskyy, UKR, M, 1.76, 69, 25-01-86, , Naftovyk-Ukrnafta
+1, Volodymyr Ovsiyenko, UKR, G, 1.93, 84, 30-10-78, Uzhhorod, 
+55, Serhiy Matyukhin, UKR, D, 1.85, 77, 21-03-80, Dachnoe, Retired
+8, Oleksandr Kazanyuk, UKR, M, 1.73, 68, 04-01-78, , 
+26, David Targamadze, GEO, M, 1.68, 66, 22-08-89, Tbilisi, Shakhtar Donetsk
+11, Petru Leuca, MDA, F, 1.92, 84, 19-07-90, Chişinău, Academia UTM
+16, Frank Temile, NGA, F, 1.78, 68, 15-07-90, Lagos, Dynamo Kyiv
+24, Luboš Kalouda, CZE, M, 1.80, 75, 20-05-87, Brno, CSKA Moscow
+25, Serhiy Davydov, UKR, F, 1.80, 70, 16-12-84, Eskhar, Hoverla-Zakarpattya
+28, Mykhaylo Kozak, UKR, F, 1.80, 75, 20-01-91, Milovice, Vorskla Poltava
+87, Dawid Janczyk, POL, F, 1.83, 81, 23-09-87, Nowy Sącz, CSKA Moscow
+22, Pavlo Ksonz, UKR, F, 1.76, 69, 02-01-87, Myrhorod, Karpaty Lviv

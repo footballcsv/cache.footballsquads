@@ -1,0 +1,21 @@
+# Belgian Eerste Klasse 2005/06
+
+18 teams
+- [Anderlecht](ander.txt)
+- [Beveren](beveren.txt)
+- [Cercle Brugge](cercbrug.txt)
+- [Club Brugge](clubbrug.txt)
+- [FC Brussels](brussels.txt)
+- [Charleroi](charleroi.txt)
+- [KRC Genk](genk.txt)
+- [KAA Gent](gent.txt)
+- [Germinal Beerschot](germinal.txt)
+- [La Louvière](lalouv.txt)
+- [Lierse](lierse.txt)
+- [Lokeren](lokeren.txt)
+- [Excelsior Mouscron](mouscron.txt)
+- [KSV Roeselare](roesel.txt)
+- [Sint-Truiden](sinttru.txt)
+- [Standard Liège](standard.txt)
+- [KVC Westerlo](westerlo.txt)
+- [Zulte-Waregem](zultewar.txt)

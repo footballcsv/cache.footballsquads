@@ -1,0 +1,46 @@
+=  Zaragoza - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Xabi Irureta, ESP, G, 1.80, 74, 21-03-86, Berriatua, Eibar
+2, Fran Rodríguez, ESP, D, 1.75, 686, 22-05-95, Almuñécar, Real Madrid B
+3, Jorge Casado, ESP, D, 1.83, 77, 26-06-89, Madrid, Ponferradina
+4, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Real Madrid B
+5, Giorgos Samaras, GRE, F, 1.93, 82, 21-02-85, Heraklion, Rayo OKC
+6, Cezary Wilk, POL, M, 1.80, 74, 12-02-86, Warsaw, Deportivo La Coruña
+7, Jean Marie Dongou, CMR, F, 1.76, 70, 20-04-95, Douala, Barcelona B
+8, Cani, ESP, M, 1.80, 75, 03-08-81, Zaragoza, Deportivo La Coruña
+9, Ángel, ESP, F, 1.72, 68, 26-04-87, Santa Cruz de Tenerife, Eibar
+10, Javi Ros, ESP, M, 1.72, 67, 16-02-90, Pamplona, Mallorca
+11, Edu García, ESP, M, 1.82, 75, 24-04-90, Zaragoza, Ebro
+12, Manu Lanzarote, ESP, M, 1.78, 69, 20-01-84, Barcelona, Asteras Tripolis
+13, Sebastián Saja, ARG, G, 1.88, 84, 05-06-79, La Plata, Nàstic
+14, Marcelo Silva, URU, D, 1.85, 85, 21-03-89, Soriano, Valladolid
+15, Franck Bagnack, CMR, D, 1.82, 74, 07-06-95, Tobagné, Nantes
+16, Isaac Carcelén, ESP, D, 1.78, 75, 23-04-93, El Puerto de Santa María, Betis B
+17, Jordi Xumetra, ESP, M, 1.72, 70, 24-10-85, L'Estartit, Levante
+19, José Enrique, ESP, D, 1.84, 82, 23-01-86, Valencia, Liverpool
+20, Álex Barrera, ESP, M, 1.90, 78, 12-05-91, Oviedo, Sporting Gijón
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Lokomotiv Moscow
+22, Jesús, ESP, D, 1.85, 79, 15-10-91, Las Américas, Huesca
+23, Rolf Feltscher, VEN, D, 1.81, 74, 06-10-90, Bülach, Getafe
+24, Edu Bedia, ESP, M, 1.84, 74, 23-03-89, Santander, Oviedo
+26, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Zaragoza B
+27, Sergio Buenacasa, ESP, F, 1.82, 73, 19-04-96, Zaragoza, Juventus
+28, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza B
+29, Alejandro Zalaya, ESP, D, 1.83, 75, 29-04-98, Zaragoza, Zaragoza B
+30, Álvaro Ratón, ESP, G, 1.92, 75, 29-01-93, O Carballiño, Villanovense
+31, Carlos Nieto, ESP, D, 1.79, 74, 06-05-96, Zaragoza, Zaragoza B
+32, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Zaragoza B
+34, David Subías, ESP, D, 1.83, 74, 06-03-99, Zaragoza, Zaragoza B
+35, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Zaragoza B
+36, Aitor Chueca, ESP, G, 1.87, 80, 22-12-93, Zaragoza, Sariñena
+37, Xiscu, ESP, F, 1.70, 67, 06-03-95, Ciutadella de Menorca, Zaragoza B
+38, Raí, BRA, F, 1.72, 68, 18-05-98, Rio de Janeiro, Zaragoza B
+40, Guti, ESP, D, 1.90, 78, 12-04-95, Zaragoza, Zaragoza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Juan Muñoz, ESP, F, 1.82, 80, 12-11-95, Utrera, Sevilla
+23, Răzvan Popa, ROU, D, 1.89, 75, 04-01-97, Râmnicu Vâlcea, Burgos (On Loan)
+5, Erik Morán, ESP, M, 1.87, 75, 25-05-91, Portugalete, Leganés

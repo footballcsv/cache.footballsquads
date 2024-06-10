@@ -1,0 +1,43 @@
+=  Cerro - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Darío Denis, URU, G, 1.86, 72, 16-12-91, Las Piedras, Fénix
+2, Nicolás Ramos, URU, D, 1.84, 82, 10-03-99, Montevideo, Sportivo Ameliano
+4, Emiliano Álvarez, URU, D, 1.75, 70, 06-02-01, Montevideo, Iraklis
+5, Roberto Brum, URU, M, 1.74, 74, 05-07-83, Montevideo, Atenas
+6, Ramiro Fernández, ARG, D, 1.72, 71, 12-11-95, Baradero, Almirante Brown
+7, Lucas Rodríguez, URU, M, 1.70, 62, 08-05-93, Chuy, Carlos A. Mannucci
+8, Mariano Peralta Bauer, ARG, F, 1.76, 74, 20-02-98, Adrogué, San Lorenzo
+10, Matías Cabrera, URU, M, 1.77, 69, 16-05-86, Montevideo, Defensor Sporting
+11, Cristhian Tizón, URU, M, 1.75, 70, 26-01-96, Montevideo, Cerro Largo
+12, Gabriel Araújo, URU, G, 1.87, 85, 28-03-93, Montevideo, Villa Española
+13, Pablo Lacoste, URU, D, 1.88, 82, 15-01-88, Montevideo, Racing Club [URU]
+14, Sebastián Cáceres, URU, M, 1.78, 67, 15-01-00, Montevideo, None
+15, Enrique Femia, URU, F, 1.73, 68, 27-05-02, Canelones, Progreso
+16, Mathías Abero, URU, D, 1.84, 81, 09-04-90, Montevideo, Montevideo Wanderers
+17, Danilo Cóccaro, URU, F, 1.79, 76, 22-08-91, Montevideo, Villa Teresa
+18, Luca Franco, URU, F, 1.87, 85, 26-11-02, Mar del Plata, Defensa y Justicia
+19, Santiago Ramírez, URU, F, 1.75, 69, 12-03-98, Montevideo, Guayaquil C
+20, Gastón Pérez, URU, M, 1.77, 74, 19-10-99, San Gregorio de Polanco, Liverpool [URU]
+21, Jairo Coronel, URU, M, 1.89, 82, 04-03-96, Montevideo, Miramar Misiones
+23, Nahuel Acosta, URU, F, 1.80, 81, 11-05-99, Montevideo, Albion
+24, Nicolás Gómez, URU, D, 1.86, 85, 24-06-92, Montevideo, Miramar Misiones
+26, Andrés Lamas, URU, D, 1.87, 82, 16-01-04, Montevideo, Defensor Sporting
+28, Fernando Souza, URU, D, 1.83, 67, 24-05-98, Montevideo, Fénix
+30, Nicolás Cabral, ARG, D, 1.88, 80, 09-10-99, Pigüé, General Díaz (Luque)
+32, José Tancredi, URU, M, 1.72, 68, 14-02-83, Montevideo, Albion
+33, Dylan Nandín, URU, F, 1.86, 77, 28-02-02, Montevideo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Guillermo Centurión, URU, G, 1.81, 83, 23-07-01, Young, Recreativo Huelva
+29, Joel Martínez, URU, F, 1.90, 83, 16-11-98, Montevideo, Rentistas
+9, Nicolás Suárez, URU, M, 1.71, 69, 29-05-97, Artigas, Racing Club [URU]
+2, Hugo Magallanes, URU, D, 1.89, 86, 26-08-97, Melo, Querétaro
+19, Franco Faría, ARG, M, 1.78, 74, 22-04-94, Santa Fe, Danubio
+15, Enzo Lemos, URU, F, 1.74, 67, 21-01-01, Artigas, La Luz
+10, Tabaré Viudez, URU, M, 1.72, 70, 08-09-89, Montevideo, Montevideo Wanderers
+21, Hamilton Pereira, URU, M, 1.79, 80, 26-06-87, Tacuarembó, Cerro Largo
+8, Matías Cabrera, URU, M, 1.77, 69, 16-05-86, Montevideo, Re-Registered (10)
+4, Alan García, URU, D, 1.78, 71, 14-09-99, Montevideo, De-Registered

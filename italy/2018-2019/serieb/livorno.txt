@@ -1,0 +1,58 @@
+=  Livorno - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filippo Neri, ITA, G, 1.92, 76, 04-12-02, Pisa, None
+2, Andrew Delly Marie-Sainte, FRA, D, 1.85, 80, 20-08-98, Fort-de-France, Prato
+3, Dario Dainelli, ITA, D, 1.91, 87, 09-06-79, Pontedera, Chievo Verona
+4, Matteo Di Gennaro, ITA, D, 1.92, 80, 02-06-94, Sant'Elpidio a Mare, Renate
+5, Fabio Eguelfi, ITA, D, 1.78, 72, 19-01-95, Milan, Atalanta
+6, Andrea Gasbarro, ITA, D, 1.85, 77, 07-01-95, Pisa, Pontedera
+7, Francesco Valiani, ITA, M, 1.75, 73, 29-10-80, Pistoia, Bari
+8, Andrea Luci, ITA, M, 1.73, 66, 30-03-85, Piombino, Ascoli
+9, Gabriele Gori, ITA, F, 1.87, 80, 13-02-99, Florence, Fiorentina
+10, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Cagliari
+11, Murilo Mendes, BRA, F, 1.80, 73, 08-03-95, Belo Horizonte, Olhanense
+12, Luca Crosta, ITA, G, 1.90, 78, 23-02-98, Milan, Olbia
+13, Nicolò Fazzi, ITA, M, 1.83, 74, 02-03-95, Borgo a Mozzano, Atalanta
+16, Brem Soumaoro, GUI, M, 1.87, 76, 08-08-95, Nzérékoré, Go Ahead Eagles
+17, Antonio Porcino, ITA, D, 1.75, 70, 30-05-95, Reggio Calabria, Catania
+19, Riccardo Malandruccolo, ITA, F, , , 26-03-00, Latina, Genoa
+20, Tomasz Kupisz, POL, M, 1.80, 71, 02-01-90, Radom, Ascoli
+21, Lorenzo Gonnelli, ITA, D, 1.83, 72, 28-06-93, Livorno, Pontedera
+22, Luca Mazzoni, ITA, G, 1.90, 78, 29-03-84, Livorno, Ternana
+23, Alessandro Diamanti, ITA, F, 1.80, 72, 02-05-83, Prato, Perugia
+24, Nicolao Dumitru, ITA, F, 1.84, 76, 12-10-91, Nacka, Nàstic
+26, Luka Bogdan, CRO, D, 1.95, 76, 26-03-96, Split, Vicenza
+28, Aniello Salzano, ITA, M, 1.81, 74, 20-07-91, Naples, Ternana
+29, Michele Rocca, ITA, M, 1.75, 72, 06-02-96, Milan, Sampdoria
+30, Marcello Deverlan, BRA, D, 1.90, 79, 06-04-00, São Paulo, Corinthians
+31, Filip Raičević, MNE, F, 1.88, 80, 02-07-93, Podgorica, Bari
+32, Filippo Bardini, ITA, M, 1.82, 75, 17-07-00, Livorno, None
+33, Paolo Baiocco, ITA, G, 1.88, 87, 29-06-89, Rome, Pescara
+34, Davide Agazzi, ITA, M, 1.73, 70, 02-06-93, Trescore Balneario, Atalanta
+35, Gabriele Balleri, ITA, D, , , 08-03-00, Genoa, None
+36, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Verona
+37, Alessio Canessa, ITA, F, , , 12-10-99, Livorno, None
+38, Lukáš Zima, CZE, G, 1.96, 80, 09-01-94, Hradec Králové, Genoa
+39, Cristiano Petri, ITA, D, 1.86, 76, 08-05-01, Pisa, None
+40, Leonardo Bartolini, ITA, M, , , 26-04-99, Porto Ferraio, None
+41, Leonardo Bellandi, ITA, M, 1.77, 68, 12-01-00, Livorno, None
+42, Matija Boben, SVK, D, 1.91, 83, 26-02-94, Ljubljana, FC Rostov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Guido Pulidori, ITA, G, 1.83, 74, 23-03-97, Livorno, Catania
+24, Simone Dell'Agnello, ITA, F, 1.85, 75, 12-04-92, Livorno, Como
+14, Vladislav Zhikov, BUL, M, 1.90, 73, 19-01-99, Vidin, Olhanense
+27, Yanik Frick, LIE, F, 1.85, 82, 27-05-98, Liestal, Rapperswil-Jona
+20, Pasquale Maiorino, ITA, M, 1.70, 70, 21-06-89, Taranto, FeralpiSalò (On Loan)
+35, Gabriel Santini, ITA, D, , , 23-05-00, Livorno, Sangiovannese (On Loan)
+18, Libor Kozák, CZE, F, 1.93, 82, 30-05-89, Brumov-Bylnice, Slovan Liberec
+30, Tino Parisi, ITA, D, 1.75, 65, 14-06-95, Siracusa, Siracusa (On Loan)
+5, Alessandro Bruno, ITA, M, 1.80, 70, 04-07-83, Benevento, Pescara
+9, Ivan Pedrelli, ITA, D, 1.83, 72, 08-04-86, Bologna, Siena
+15, Dennis Iapichino, SUI, D, 1.82, 72, 27-07-90, Frauenfeld, Servette (On Loan)
+12, Thomas Romboli, ITA, G, 1.92, 80, 21-01-99, Pontedera, Olbia (On Loan)
+28, Filippo Gemmi, ITA, M, 1.78, 70, 21-06-97, Pontedera, Olbia (On Loan)
+33, Maicon da Silva, BRA, M, 1.84, 72, 10-03-93, Cachoeira do Sul, Istra 1961

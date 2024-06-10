@@ -1,0 +1,54 @@
+=  Athletico Paranaense - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bento, BRA, G, 1.90, 87, 10-06-99, Curitiba, None
+2, Nicolás Hernández, COL, D, 1.85, 78, 18-01-98, Villavicencio, Atlético Nacional
+3, João Pedro, BRA, D, 1.84, 73, 14-03-03, Indaiatuba, None
+4, João Vialle, BRA, D, 1.84, 81, 19-06-02, Curitiba, None
+5, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Manchester C
+6, Matheus Fernandes, BRA, M, 1.83, 67, 30-06-98, Itaboraí, Palmeiras
+7, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, Bahia
+8, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, São Paulo
+9, Agustín Canobbio, URU, F, 1.75, 72, 01-10-98, Montevideo, Peñarol
+10, Marlos, UKR, M, 1.74, 70, 07-06-88, São José dos Pinhais, Shakhtar Donetsk
+11, Vitinho, BRA, F, 1.80, 67, 01-04-99, São José dos Campos, Dynamo Kyiv
+13, Khellven, BRA, D, 1.76, 73, 25-02-01, Alexandria, None
+16, Abner Vinicius, BRA, D, 1.81, 75, 27-05-00, Presidente Prudente, Ponte Preta
+17, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, Flamengo
+18, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Santos
+20, David Terans, URU, M, 1.76, 73, 11-08-94, Montevideo, Atlético Mineiro
+21, Ataíde, BRA, D, 1.77, 82, 19-01-04, Piracicaba, None
+23, Léo Linck, BRA, G, 1.95, 87, 03-03-01, Marechal Cândido Rondon, None
+24, Luis Manuel Orejuela, COL, D, 1.79, 70, 20-08-95, Cali, São Paulo
+26, Erick, BRA, M, 1.76, 64, 14-11-97, Nova Lima, PSTC
+28, Tomás Cuello, ARG, M, 1.78, 64, 05-03-00, San Miguel de Tucumán, Atlético Tucumán
+30, Bryan García, ECU, M, 1.75, 67, 18-01-01, Río Verde, Independiente del Valle
+32, João Vitor, BRA, D, -, -, 23-02-04, -, None
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Corinthians
+35, Rômulo, BRA, F, 1.93, 78, 08-02-02, Marialva, None
+36, Derik, BRA, D, 1.66, 60, 24-07-05, São Paulo, None
+39, Vitor Roque, BRA, F, 1.72, 76, 28-02-05, Timóteo, Cruzeiro
+40, Jader, BRA, M, 1.72, 67, 24-07-03, Rondonópolis, None
+41, Mycael, BRA, G, 1.87, 78, 12-03-04, Porto Velho, None
+42, Matheus Felipe, BRA, D, 1.86, 84, 09-11-98, Teresina, Grêmio Prudente
+43, Gabriel Pereira, BRA, G, 1.96, 94, 20-07-02, Itapema, Monaco
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+45, Leonardo Dourado, BRA, D, -, -, 17-05-04, Dourados, None
+48, Pedrinho, BRA, D, 1.77, 60, 11-07-02, Salvador, Vitória
+51, Murilo, BRA, D, -, -, 24-01-05, -, None
+80, Alex Santana, BRA, M, 1.82, 75, 13-05-95, Itatibaia, Ludogorets Razgrad
+88, Christian, BRA, M, 1.78, 67, 19-12-00, Curitiba, None
+90, Emersonn, BRA, F, 1.86, 83, 16-07-04, Cachoeiro de Itapemirim, None
+92, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, São Paulo
+98, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, Palmeiras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Lucas Fasson, BRA, D, 1.86, 79, 30-05-01, Santo André, Lokomotiv Moscow
+25, Pablo Siles, URU, M, 1.75, 64, 15-07-97, Melo, Cruzeiro (On Loan)
+50, John Mercado, ECU, F, 1.85, 83, 03-06-02, Guayaquil, CSA (On Loan)
+33, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, Goiás (On Loan)
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+3, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, 
+19, Matheus Babi, BRA, F, 1.91, 75, 18-07-97, Macaé, Santa Clara (On Loan)

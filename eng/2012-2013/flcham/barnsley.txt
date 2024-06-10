@@ -1,0 +1,51 @@
+=  Barnsley - English Football League Championship 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luke Steele, ENG, G, 1.88, 76, 24-09-84, Peterborough, WBA
+2, Bobby Hassell, ENG, D, 1.78, 76, 04-06-80, Derby, Mansfield T
+3, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Exeter C
+4, Rob Edwards, WAL, D, 1.85, 74, 25-12-82, Telford, Blackpool
+5, Rory Delap, IRL, M, 1.83, 74, 06-07-76, Sutton Coldfield, Stoke C
+6, Stephen Foster, ENG, D, 1.80, 79, 10-09-80, Warrington, Burnley
+7, Stephen Dawson, IRL, M, 1.68, 71, 04-12-85, Dublin, Leyton Orient
+8, James O'Brien, SCO, F, 1.83, 75, 28-09-87, Glasgow, Motherwell
+9, Jason Scotland, TRI, F, 1.73, 73, 18-02-79, Morvant, Ipswich T
+11, David Perkins, ENG, D, 1.68, 76, 21-06-82, Heysham, Colchester U
+12, Ben Alnwick, ENG, G, 1.88, 80, 01-01-87, Prudhoe, Tottenham H
+13, Chris Dagnall, ENG, F, 1.73, 75, 15-04-86, Liverpool, Scunthorpe U
+14, Scott Wiseman, ENG, D, 1.83, 73, 09-10-85, Hull, Rochdale
+15, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Brighton & HA
+16, Marlon Harewood, ENG, F, 1.85, 85, 25-08-79, Hampstead, Nottingham F
+17, Paul Digby, ENG, M, 1.75, 64, 02-02-95, Sheffield, None
+18, Andrai Jones, ENG, M, 1.80, 68, 01-01-92, Liverpool, Bury
+19, Tomasz Cywka, POL, M, 1.80, 76, 27-06-88, Gliwice, Reading
+20, Toni Silva, POR, M, 1.79, 74, 15-09-93, Bissau, Liverpool
+21, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Chelsea
+23, Kelvin Etuhu, NGA, F, 1.80, 79, 30-05-88, Kano, Portsmouth
+24, Reuben Noble-Lazarus, ENG, F, 1.80, 86, 16-08-93, Huddersfield, None
+25, Martin Cranie, ENG, D, 1.83, 78, 23-09-86, Yeovil, Coventry C
+26, John Rooney, ENG, F, 1.78, 76, 17-12-90, Liverpool, Orlando C
+27, Chris O'Grady, ENG, F, 1.91, 78, 25-01-86, Nottingham, Sheffield W
+30, Lukas Lidakevičius, LTU, G, 1.85, 82, 29-04-93, Klaipėda, None
+31, Jordan Clark, ENG, F, 1.83, 73, 22-09-93, Barnsley, None
+32, Danny Rose, ENG, F, 1.73, 57, 10-12-93, Barnsley, None
+33, Thomas Kennedy, ENG, D, 1.80, 79, 24-06-85, Bury, Leicester C
+35, Jake Scott, ENG, D, 1.75, 74, 22-10-93, Lincoln, None
+37, Rhys Oates, ENG, F, 1.83, 74, 04-12-94, Pontefract, None
+38, Sam Patterson, ENG, M, 1.73, 68, 29-10-93, Leeds, None
+39, Dennis Knight, ENG, M, 1.73, 68, 30-01-94, Newcastle upon Tyne, Newcastle U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, David González, COL, G, 1.94, 83, 20-07-82, Medellín, Deportivo Pasto
+27, Emile Sinclair, ENG, F, 1.83, 72, 29-12-87, Leeds, Peterborough U
+28, Jonathan Greening, ENG, M, 1.80, 70, 02-01-79, Scarborough, Nottingham F
+29, Marcus Tudgay, ENG, F, 1.75, 73, 03-02-83, Worthing, Nottingham F
+36, Ákos Buzsáky, HUN, M, 1.80, 74, 07-05-82, Budapest, Portsmouth
+9, Craig Davies, WAL, F, 1.88, 85, 09-01-86, Burton-on-Trent, Bolton W
+5, Lee Collins, ENG, D, 1.80, 78, 28-09-88, Telford, Northampton T
+10, Matt Done, WAL, M, 1.78, 65, 22-07-88, Oswestry, Hibernian (On Loan)
+18, Mido, EGY, F, 1.88, 83, 23-02-83, Cairo, 
+34, John Stones, ENG, D, 1.88, 70, 28-05-94, Barnsley, Everton
+28, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, Manchester U

@@ -1,0 +1,50 @@
+=  Santos - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Coritiba
+2, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Grêmio
+3, Caju, BRA, D, 1.85, 70, 17-07-95, Irecê, None
+4, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Coritiba
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+7, Leandro, BRA, F, 1.77, 71, 12-05-93, Brasília, Palmeiras
+8, Renato, BRA, M, 1.77, 71, 15-05-79, Santa Mercedes, Botafogo
+9, Ricardo Oliveira, BRA, F, 1.83, 81, 06-05-80, São Paulo, Al-Wasl
+10, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, None
+11, Geuvânio, BRA, F, 1.75, 62, 05-04-92, Ilha das Flores, None
+12, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+14, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Flamengo
+15, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, Fluminense
+16, Fernando Medeiros, BRA, M, 1.80, 77, 10-02-96, São Vicente, None
+17, Rafael Longuine, BRA, M, 1.73, 67, 30-05-90, Paranavaí, Audax-SP
+18, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Botafogo-SP
+19, Marquinhos, BRA, M, 1.70, 68, 15-06-89, Rio de Janeiro, Audax-SP
+20, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Internacional
+21, Leandrinho, BRA, M, 1.78, 70, 25-09-93, Espinosa, None
+23, Chiquinho, BRA, M, 1.70, 70, 27-01-89, Caxias, Fluminense
+24, Cristian Ledesma, ITA, M, 1.80, 78, 24-09-82, Morón, Lazio
+25, Lucas Otávio, BRA, M, 1.64, 61, 09-10-94, Bandeirantes, None
+27, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Guarani
+29, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, São Caetano
+31, Marquinhos, BRA, F, 1.74, 69, 21-07-90, Selbach, Al-Nassr
+32, Paulo Ricardo, BRA, D, 1.86, 80, 13-07-94, Laguna, None
+33, Gabriel Gasparotto, BRA, G, 1.96, 99, 09-12-93, Lucélia, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+35, Diogo, BRA, M, 1.70, 63, 11-02-97, Três Pontas, None
+37, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, None
+38, Daniel Guedes, BRA, D, 1.80, 69, 02-04-94, São Paulo, None
+39, Nilson, BRA, F, 1.86, 75, 06-04-91, São Paulo, Cianorte
+40, Neto Berola, BRA, F, 1.71, 66, 18-11-87, Itabuna, Atlético Mineiro
+41, Serginho, BRA, M, 1.80, 82, 15-03-95, Monte Aprazível, São Paulo
+44, Leonardo, BRA, D, 1.88, 72, 09-03-86, Guarulhos, Ituano
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Jubal, BRA, D, 1.90, 79, 29-08-93, Inhuma, Avaí (On Loan)
+49, Lucas Crispim, BRA, F, 1.78, 72, 16-06-94, Brasília, Joinville (On Loan)
+7, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Milan
+4, Cicinho, BRA, D, 1.68, 60, 25-04-88, Belém, Ludogorets Razgrad
+30, Diego Cardoso, BRA, F, 1.77, 70, 06-03-94, Ribeirão Preto, Bragantino (On Loan)
+16, Crystian, BRA, D, 1.71, 63, 10-06-92, Goiânia, Paraná (On Loan)
+22, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Chennaiyin (On Loan)

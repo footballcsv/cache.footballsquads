@@ -1,0 +1,46 @@
+=  Port Vale - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas Covolan, BRA, G, 1.93, 85, 06-06-91, Curitiba, Torquay U
+2, James Gibbons, ENG, D, 1.74, 62, 16-03-98, Stoke-on-Trent, None
+3, Dan Jones, ENG, D, 1.83, 79, 14-12-94, Bishop Auckland, Salford C
+4, Brad Walker, ENG, M, 1.86, 80, 25-04-96, Billingham, Shrewsbury T
+5, Connor Hall, ENG, D, 1.94, 92, 23-05-93, Huntingdon, Harrogate T
+6, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, Millwall
+8, Ben Garrity, ENG, M, 1.83, 74, 21-02-97, Liverpool, Blackpool
+9, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Salford C
+10, Tom Conlon, ENG, M, 1.73, 62, 03-02-96, Stoke-on-Trent, Stevenage
+11, Malvind Benning, ENG, D, 1.78, 77, 02-11-93, Sandwell, Mansfield T
+13, Jamie Proctor, ENG, F, 1.88, 78, 25-03-92, Preston, Rotherham U
+14, Alex Hurst, ENG, M, 1.73, 70, 06-10-99, Stoke-on-Trent, Bradford PA
+15, Chris Hussey, ENG, D, 1.78, 65, 02-01-89, Hammersmith, Cheltenham T
+16, Aaron Martin, ENG, D, 1.90, 76, 29-09-89, Newport (IoW), Hamilton Academical
+17, Jake Taylor, ENG, M, 1.78, 77, 07-09-98, Manchester, Nottingham F
+18, Eden Bailey, ENG, F, 1.78, 70, 04-02-04, Stoke-on-Trent, None
+19, David Amoo, ENG, M, 1.78, 77, 13-04-91, Southwark, Cambridge U
+20, Harry Charsley, IRL, M, 1.78, 64, 01-11-96, Wirral, Mansfield T
+21, Sammy Robinson, ENG, D, -, -, 09-01-02, Cheltenham, Manchester C
+22, Tomáš Holý, CZE, G, 2.06, 104, 10-12-91, Rychnov nad Kněžnou, Ipswich T
+23, Tom Pett, ENG, M, 1.73, 70, 03-12-91, Potters Bar, Stevenage
+24, Kian Harratt, ENG, F, 1.79, 64, 21-06-02, Pontefract, Huddersfield T
+25, Ellis Jones, ENG, M, -, -, 04-12-03, -, None
+26, Aidan Stone, ENG, G, 1.86, 75, 20-07-99, Stafford, Mansfield T
+28, Kamani McFarlane, ENG, M, -, -, 02-10-03, Newham, None
+29, Ryan Edmondson, ENG, F, 1.88, 79, 20-05-01, York, Leeds U
+30, Joel Cooper, NIR, M, 1.80, 70, 29-02-96, Ballyclare, Oxford U
+31, Joseph Collinge, ENG, G, -, -, 06-09-03, Rochdale, None
+32, Tommy McDermott, ENG, M, -, -, 01-06-05, Manchester, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Ryan Johnson, NIR, D, 1.88, 85, 02-10-96, Birmingham, Stockport Co
+24, Danny Amos, NIR, D, 1.80, 68, 22-12-99, Sheffield, Grimsby T
+29, Danny Whitehead, ENG, M, 1.79, 69, 23-10-93, Trafford, AFC Fylde
+5, Leon Legge, ENG, D, 1.85, 80, 28-04-85, Hastings, Harrogate T
+33, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, Grimsby T
+20, George Lloyd, ENG, F, 1.73, 63, 11-02-00, Gloucester, Cheltenham T
+22, Dennis Politic, ROU, M, 1.85, 78, 05-03-00, Braşov, Bolton W
+21, Devante Rodney, ENG, F, 1.78, 69, 19-05-98, Manchester, Walsall
+27, Lewis Cass, ENG, D, 1.85, 74, 07-02-00, North Shields, Newcastle U

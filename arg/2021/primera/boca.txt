@@ -1,0 +1,60 @@
+=  Boca Juniors - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustin Rossi, ARG, G, 1.93, 93, 21-08-95, Capital Federal, Estudiantes (LP)
+2, Lisandro López, ARG, D, 1.90, 79, 01-09-89, Villa Constitución, Benfica
+4, Marcelo Weigandt, ARG, D, 1.75, 74, 11-01-00, Avellaneda, None
+5, Carlos Zambrano, PER, D, 1.85, 77, 10-07-89, Callao, Dynamo Kyiv
+6, Marcos Rojo, ARG, D, 1.87, 80, 20-03-90, La Plata, Manchester U
+8, Edwin Cardona, COL, M, 1.86, 81, 08-12-92, Medellín, Tijuana
+9, Nicolás Orsini, ARG, F, 1.70, 65, 12-09-94, Rafaela, Lanús
+11, Eduardo Salvio, ARG, M, 1.73, 76, 13-05-90, Avellaneda, Benfica
+13, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Racing Club
+14, Esteban Rolón, ARG, M, 1.78, 70, 25-03-95, Posadas, Huracán
+16, Aarón Molinas, ARG, M, 1.75, 67, 02-08-00, Lomas del Mirador, None
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, Rayo Vallecano
+18, Frank Fabra, COL, D, 1.72, 72, 22-02-91, Nechí, Independiente Medellín
+19, Valentín Barco, ARG, D, 1.68, 64, 23-07-04, 25 de Mayo, None
+20, Juan Ramírez, ARG, M, 1.74, 68, 25-05-93, Moreno, San Lorenzo
+21, Jorman Campuzano, COL, M, 1.75, 70, 30-04-96, Tamalameque, Atlético Nacional
+22, Sebastián Villa, COL, F, 1.78, 65, 19-05-96, Bello, Deportes Tolima
+23, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, Racing Club
+24, Carlos Izquierdoz, ARG, D, 1.86, 85, 03-11-88, San Carlos de Bariloche, Santos Laguna
+26, Ezequiel Fernández, ARG, M, 1.78, 76, 25-07-02, San Miguel, None
+29, Norberto Briasco, ARG, F, 1.82, 79, 29-02-96, Capital Federal, Huracán
+30, Exequiel Zeballos, ARG, F, 1.70, 68, 24-04-02, La Banda, None
+31, Cristian Pavón, ARG, F, 1.69, 65, 21-01-96, Córdoba, Talleres (Córdoba)
+32, Agustin Almendra, ARG, M, 1.82, 75, 11-02-00, San Francisco Solano, None
+33, Alan Varela, ARG, M, 1.77, 73, 04-07-01, Isidro Casanova, None
+34, Agustín Obando, ARG, F, 1.75, 71, 11-03-00, Monte Caseros, None
+35, Renzo Giampaoli, ARG, D, 1.88, 80, 07-01-00, Bombal, None
+36, Cristian Medina, ARG, M, 1.78, 70, 01-06-02, Moreno, None
+37, Agustín Sández, ARG, D, 1.79, 72, 16-01-01, Lanús, None
+38, Luis Vázquez, ARG, F, 1.90, 82, 24-04-01, Recreo, Patronato (Paraná)
+39, Nicolás Valentini, ARG, D, 1.84, 79, 06-04-01, Junín, None
+40, Eros Mancuso, ARG, D, 1.73, 73, 17-04-99, Haedo, None
+41, Rodrigo Montes, ARG, M, 1.75, 70, 03-04-00, Córdoba, None
+42, Gabriel Vega, ARG, M, 1.86, 75, 18-04-02, Gonzáléz Catán, None
+43, Agustín Lastra, ARG, G, 1.94, 88, 02-01-01, Teniente Berdina, None
+44, Israel Escalante, ARG, F, 1.74, 69, 09-01-99, Resistencia, None
+45, Sebastián Díaz, ARG, G, -, -, 01-11-03, Florencia Varela, None
+47, Gabriel Aranda, ARG, D, 1.90, 82, 16-04-01, Ezeiza, None
+48, Alexis Alvariño, ARG, M, 1.84, 81, 01-02-01, Laferrere, None
+49, Matías Olguín, ARG, D, 1.80, 78, 07-03-01, Capital Federal, None
+50, Vicente Taborda, ARG, F, 1.75, 71, 14-06-01, Gualeguay, None
+51, Kevin Duarte, ARG, M, 1.73, 73, 05-09-01, Lanús, None
+52, Érik Bodencer, ARG, F, 1.83, 80, 08-03-00, Ingeniero Budge, None
+53, Franco Cáceres, ARG, M, 1.76, 71, 06-01-00, Merlo, None
+54, Lucas Palma, ARG, F, -, -, 05-05-03, Concepción, None
+55, Ezequiel Almirón, ARG, F, 1.82, 75, 20-08-02, Temperley, None
+56, Simón Rivero, ARG, M, 1.72, 75, 16-04-03, Malagueño, None
+57, Tomás Díaz, ARG, M, 1.75, 62, 01-05-01, Rosario, Real Madrid
+58, Nahuel Génez, ARG, D, 1.73, 66, 18-06-03, Carlos Spegazzini, None
+59, Santiago Pérez, ARG, D, 1.85, 73, 25-08-02, Rafael Castillo, None
+60, Juan Pablo Cabaña, ARG, F, 1.84, 77, 28-12-01, Córdoba, None
+61, Pedro Velurtas, ARG, D, 1.81, 76, 28-08-01, Campana, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Balthazar Bernardi, ARG, D, 1.87, 82, 10-08-01, Capital Federal, Akritas Chlorakas (On Loan)

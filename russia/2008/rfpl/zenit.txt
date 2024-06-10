@@ -1,0 +1,62 @@
+=  Zenit St. Petersburg - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kamil Čontofalský, SVK, G, 1.93, 89, 03-06-78, Trenčín, Bohemians Prague
+2, Vladislav Radimov, RUS, M, 1.82, 83, 26-11-75, St. Petersburg, Krylia Sovetov
+4, Ivica Križanac, CRO, D, 1.87, 85, 13-04-79, Split, Groclin Dyskobolia
+5, Kim Dong-Jin, KOR, D, 1.83, 77, 29-01-82, Dongducheon, FC Seoul
+6, Nicolas Lombaerts, BEL, D, 1.88, 78, 20-03-85, Brugge, KAA Gent
+7, Alejandro Domínguez, ARG, F, 1.73, 71, 10-06-81, Lanús, Rubin Kazan
+8, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, Tom
+9, Fatih Tekke, TUR, F, 1.78, 77, 09-09-77, Sürmene, Trabzonspor
+10, Andrey Arshavin, RUS, M, 1.72, 71, 29-05-81, St. Petersburg, Zenit-2
+11, Radek Šírl, CZE, M, 1.78, 73, 20-03-81, Prague, Bohemians Prague
+14, Tomáš Hubočan, SVK, D, 1.83, 74, 17-09-85, Žilina, MŠK Žilina
+15, Roman Shirokov, RUS, M, 1.83, 74, 06-07-81, Dedovsk, FC Khimki
+16, Vyacheslav Malafeev, RUS, G, 1.85, 79, 04-03-79, St. Petersburg, Zenit-2
+17, Lee Ho, KOR, M, 1.83, 78, 22-10-84, Seoul, Ulsan Hyundai Horang-i
+18, Konstantin Zyryanov, RUS, M, 1.76, 71, 05-10-77, Perm, Torpedo Moscow
+19, Danny, POR, M, 1.78, 70, 07-08-83, Caracas, Dynamo Moscow
+20, Viktor Fayzulin, RUS, M, 1.76, 72, 22-04-86, Nakhodka, Spartak Nalchik
+22, Aleksandr Anyukov, RUS, D, 1.78, 70, 28-09-82, Samara, Krylia Sovetov
+25, Fernando Ricksen, NED, D, 1.75, 75, 20-07-76, Heerlen, Rangers
+26, Mikhail Smirnov, RUS, D, 1.88, 80, 03-06-90, St. Petersburg, Zenit-2
+27, Igor Denisov, RUS, M, 1.76, 75, 17-05-84, St. Petersburg, Zenit-2
+28, Sébastien Puygrenier, FRA, D, 1.86, 88, 28-01-82, Limoges, Nancy
+30, Pavel Komolov, RUS, M, 1.75, 67, 10-03-89, St. Petersburg, Zenit-2
+31, Vitaly Galish, RUS, F, 1.83, 72, 13-05-90, , Zenit-2
+32, Artem Kulesha, RUS, D, 1.90, 80, 14-01-90, St. Petersburg, Zenit-2
+33, Pavel Ignatovich, RUS, F, 1.77, 68, 24-05-89, St. Petersburg, Zenit-2
+34, Aleksandr Khokhlov, RUS, D, 1.76, 66, 30-09-88, St. Petersburg, Zenit-2
+35, Anton Sosnin, RUS, M, 1.78, 72, 27-01-90, St. Petersburg, Zenit-2
+36, Stanislav Matyash, RUS, F, 1.76, 71, 23-04-91, Kremenchuk, Zenit-2
+37, German Pyatnikov, RUS, M, 1.70, 68, 23-01-88, St. Petersburg, Zenit-2
+38, Evgeniy Izvekov, RUS, F, 1.90, 71, 24-06-90, , Zenit-2
+40, Ivan Lapin, RUS, D, 1.84, 74, 08-05-88, St. Petersburg, Zenit-2
+42, Andrey Ornat, RUS, F, 1.72, 69, 04-03-91, , Zenit-2
+43, Yuriy Vorobjev, RUS, D, 1.78, 70, 06-03-90, , Zenit-2
+44, Anatoliy Tymoshchuk, UKR, M, 1.81, 75, 30-03-79, Lutsk, Shakthar Donetsk
+45, Egor Okorokov, RUS, F, 1.79, 70, 18-04-89, St. Petersburg, Zenit-2
+47, Basel Abdulfattakh, RUS, D, 1.84, 71, 06-03-90, St. Petersburg, Zenit-2
+48, Nikita Koleshnikov, RUS, M, 1.84, 70, 12-08-88, St. Petersburg, Zenit-2
+50, Igor Cheminava, RUS, D, 1.86, 76, 23-03-91, St. Petersburg, Zenit-2
+51, Vladimir Mukhin, RUS, G, 1.82, 74, 30-10-90, St. Petersburg, Zenit-2
+53, Pavel Mochalin, RUS, M, 1.84, 75, 16-01-89, St. Petersburg, Zenit-2
+55, Yan Bobrovskiy, RUS, D, 1.86, 78, 18-09-89, St. Petersburg, Zenit-2
+57, Aleksey Ionov, RUS, M, 1.77, 68, 18-02-89, Kingisepp, Zenit-2
+59, Sergey Vasecky, RUS, M, 1.71, 68, 17-01-90, , Zenit-2
+65, Yuriy Boev, RUS, D, 1.79, 70, 16-01-91, , Zenit-2
+75, Ilya Sagdatullin, RUS, M, 1.74, 64, 27-02-91, , Zenit-2
+77, Aleksandr Petrov, RUS, M, 1.73, 67, 20-01-90, St. Petersburg, Zenit-2
+88, Aleksandr Gorshkov, RUS, M, 1.80, 78, 08-02-70, Stahanov, Saturn
+89, Dmitriy Nechaev, RUS, F, 1.89, 80, 16-06-90, , Zenit-2
+90, Nikolay Zabolotniy, RUS, G, 1.84, 81, 16-04-90, St. Petersburg, Zenit-2
+91, Andrey Zaytsev, RUS, G, 1.95, 90, 14-01-91, , Zenit-2
+96, Roland Gigolaev, RUS, M, 1.76, 73, 04-01-90, Tbilisi, Zenit-2
+98, Sergey Petrov, RUS, M, 1.80, 72, 02-01-91, St. Petersburg, Zenit-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+49, Pavel Teterukov, RUS, F, 1.80, 76, 22-06-90, , Dmitrov
+41, Mikhail Kerzhakov, RUS, G, 1.89, 84, 28-01-87, Kingisepp, Volga Ulyanovsk (On Loan)

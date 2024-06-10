@@ -1,0 +1,40 @@
+=  Bursaspor - Turkish Süper Lig 2016/17
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Güngören Belediyespor
+2, Serdar Kurtuluş, TUR, D, 1.84, 79, 23-07-87, Bursa, Beşiktaş
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Ankaragücü
+4, İsmail Konuk, TUR, D, 1.87, 83, 16-01-88, Denizli, Akhisar Belediyespor
+5, Bilal Kısa, TUR, M, 1.80, 71, 22-06-83, Merzifon, Galatasaray
+6, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, Orduspor
+7, Merter Yüce, TUR, M, 1.92, 85, 18-02-85, Bornova, Akhisar Belediyespor
+8, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Parma
+9, Sercan Yıldırım, TUR, F, 1.82, 71, 05-04-90, Osmangazi, Galatasaray
+10, Pablo Batalla, ARG, M, 1.70, 65, 16-01-84, Córdoba, Beijing Guoan
+11, Joshua John, NED, F, 1.75, 63, 01-10-88, Alkmaar, FC Nordsjælland
+12, Sinan Bakış, TUR, F, 1.86, 78, 22-04-94, Troisdorf, Kayserispor
+13, Furkan Özçal, TUR, M, 1.70, 71, 03-09-90, Munich, Galatasaray
+14, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Standard Liège
+17, Furkan Soyalp, TUR, M, 1.84, 80, 12-06-95, Ankara, None
+18, Kubilay Kanatsızkuş, TUR, F, 1.86, 79, 28-03-97, Bursa, None
+22, Erdem Özgenç, TUR, D, 1.77, 70, 22-08-84, Sakarya, Karabükspor
+23, Aziz Behich, AUS, M, 1.72, 66, 16-12-90, Moonee Ponds, Melbourne Heart
+24, Ertuğrul Ersoy, TUR, D, 1.85, 78, 13-02-97, Gölcük, None
+25, Boban Jović, SVN, D, 1.78, 76, 25-06-91, Celje, Wisła Kraków
+27, Muhammet Şengezer, TUR, G, 1.88, 78, 05-01-97, Bursa, None
+28, Yonathan Del Valle, VEN, F, 1.71, 72, 28-05-90, Guacara, Rio Ave
+30, Bogdan Stancu, ROU, F, 1.78, 69, 28-06-87, Piteşti, Gençlerbirliği
+33, Onur Atasayar, TUR, D, 1.84, 75, 01-01-95, Kütahya, Ankaragücü
+35, Ataberk Dadakdeniz, TUR, G, 1.94, 84, 05-08-99, İzmir, None
+37, Mert Günok, TUR, G, 1.88, 76, 01-03-89, Safranbolu, Fenerbahçe
+66, Tomáš Sivok, CZE, D, 1.85, 71, 15-09-83, Pelhřimov, Beşiktaş
+70, Mert Örnek, TUR, F, 1.83, 77, 12-02-97, Aydın, None
+88, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Trabzonspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Bünyamin Kasal, TUR, D, , , 13-01-97, Acıpayam, Yeşil Bursa (On Loan)
+76, İsmail Can Çavuşluk, TUR, F, , , 29-03-96, Iğdır, Yeşil Bursa (On Loan)
+15, Tomáš Necid, CZE, F, 1.90, 81, 13-08-89, Prague, Legia Warszawa (On Loan)
+19, Vieux Sané, SEN, D, 1.91, 83, 04-08-89, Dakar, Auxerre (On Loan)

@@ -1,0 +1,43 @@
+=  Rubin Kazan - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Lokomotiv Moscow
+2, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Lokomotiv Moscow
+4, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Lokomotiv Moscow
+5, Solomon Kvirkvelia, GEO, D, 1.90, 75, 06-02-92, Samtredia, Zenit-2
+7, Vladislav Kulik, RUS, M, 1.80, 76, 27-02-85, Poltava, Kuban Krasnodar
+8, Pavel Mogilevets, RUS, M, 1.83, 70, 25-01-93, Kingisepp, Zenit St Petersburg
+9, Aleksandr Prudnikov, RUS, F, 1.85, 78, 26-02-89, Smolensk, Alania Vladikavkaz
+10, Dmitriy Torbinskiy, RUS, M, 1.72, 60, 28-04-84, Moscow, Lokomotiv Moscow
+11, Marko Dević, UKR, F, 1.85, 74, 27-10-83, Belgrade, Metalist Kharkiv
+15, Syarhey Kislyak, BLR, M, 1.85, 70, 06-08-87, Kamyanyets, Dinamo Minsk
+16, Georgiy Nurov, RUS, F, 1.79, 67, 08-06-92, Moscow, Lokomotiv Moscow
+18, Artūrs Karašausks, LVA, F, 1.78, 68, 29-01-92, Riga, Skonto
+19, Kamil Mullin, RUS, F, 1.78, 66, 05-01-94, Moscow, Lokomotiv Moscow
+20, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, Rubin-2
+21, Wakaso Mubarak, GHA, M, 1.65, 79, 25-07-90, Tamale, Espanyol
+22, Chris Mavinga, FRA, D, 1.83, 78, 26-05-91, Meaux, Rennes
+23, Roman Eremenko, FIN, M, 1.80, 67, 19-03-87, Moscow, Dynamo Kyiv
+24, Giedrius Arlauskis, LTU, G, 1.83, 80, 01-12-87, Telšiai, Unirea Urziceni
+33, Inal Getigezhev, RUS, M, 1.87, 81, 23-05-87, Rostov-on-Don, FC Rostov
+44, César Navas, ESP, D, 1.96, 89, 14-02-80, Móstoles, Racing Santander
+61, Gökdeniz Karadeniz, TUR, M, 1.69, 66, 11-01-80, Giresun, Trabzonspor
+65, Maksim Zhestokov, RUS, D, 1.87, 70, 19-06-91, Kazan, Rubin-2
+69, Sardar Azmoun, IRN, F, 1.78, 72, 01-01-95, Gonbad, Sepahan
+76, Roman Sharonov, RUS, D, 1.84, 76, 08-09-76, Moscow, Shinnik
+81, Ruslan Mukhametshin, RUS, F, 1.78, 75, 29-10-81, Kazan, Mordova Saransk
+87, Ruslan Abishov, AZE, D, 1.87, 74, 10-10-87, Baku, Khazar Lankaran
+88, Ruslan Kambolov, RUS, D, 1.80, 79, 01-01-90, Moscow, Neftekhimik Nizhnekamsk
+90, Yann M'Vila, FRA, M, 1.82, 80, 29-06-90, Amiens, Rennes
+91, Yuriy Nesterenko, RUS, G, 1.89, 85, 12-06-91, Krasnodar, Rubin-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Cristian Ansaldi, ARG, D, 1.78, 73, 20-09-86, Rosario, Zenit St Petersburg
+8, Aleksandr Ryazantsev, RUS, M, 1.76, 70, 05-09-86, Moscow, Zenit St Petersburg
+25, Iván Marcano, ESP, D, 1.77, 77, 23-06-87, Santander, Olympiakos (On Loan)
+66, Bibras Natkho, ISR, M, 1.75, 73, 18-02-88, Kfar Kama, PAOK
+99, José Salomón Rondón, VEN, F, 1.90, 86, 16-09-89, Caracas, Zenit St Petersburg
+63, Alisher Dzhalilov, RUS, M, 1.68, 57, 29-08-93, Dushanbe, Neftekhimik Nizhnekamsk (On Loan)
+31, Aleksey Berezin, RUS, G, 1.90, 82, 16-04-93, Kazan, Widzew Łódź

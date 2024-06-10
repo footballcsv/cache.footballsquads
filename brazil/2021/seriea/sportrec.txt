@@ -1,0 +1,60 @@
+=  Sport Recife - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maílson, BRA, G, 1.97, 90, 20-08-96, Recife, None
+2, Hayner, BRA, D, 1.78, 71, 02-10-95, Salvador, Azuriz
+5, Ronaldo, BRA, M, 1.80, 73, 27-06-94, Recife, None
+7, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Coritiba
+8, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, São Paulo
+9, Santiago Tréllez, COL, F, 1.85, 76, 17-01-90, Medellín, São Paulo
+10, Gustavo, BRA, M, -, -, 11-09-02, -, None
+11, Leandro Barcia, URU, F, 1.75, 71, 08-10-92, Florida, Rentistas
+13, Renzo, BRA, D, -, -, 17-10-01, -, None
+14, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Atlético Mineiro
+15, Rafael Thyere, BRA, D, 1.90, 86, 17-05-93, João Pessoa, Grêmio
+18, Betinho, BRA, M, 1.81, 70, 04-04-92, Apeú, Tombense
+19, Thiago Lopes, BRA, M, 1.78, 76, 27-10-96, Mogi Mirim, Coritiba
+28, João Igor, BRA, M, 1.77, 76, 14-03-96, Jardinópolis, Santos
+31, Paulinho, BRA, F, -, -, 29-09-02, -, None
+32, Denival, BRA, G, -, -, 01-08-00, Alagoas, None
+33, Pedro Henrique, BRA, D, 1.87, 80, 31-01-01, Maceió, Internacional
+35, Sabino, BRA, D, 1.84, 88, 25-10-96, Brasília, Santos
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Corinthians
+40, Kelsen, BRA, F, -, -, 24-03-02, -, None
+43, Marcelo, BRA, D, -, -, 26-08-02, -, None
+44, Chico, BRA, D, 1.88, 80, 14-09-98, Recife, None
+46, Luciano Juba, BRA, D, 1.76, 70, 29-08-99, Serra Talhada, None
+49, Cristiano, BRA, F, 1.76, 70, 31-08-01, Sorocaba, São Bento
+50, Ítalo, BRA, M, -, -, 22-03-02, -, None
+52, Victor Gabriel, BRA, D, -, -, 28-04-04, -, None
+53, Pedrão, BRA, D, -, -, 22-01-00, -, None
+56, Sander, BRA, D, 1.77, 68, 03-10-90, Corumbá de Goiás, Cruzeiro-RS
+57, Diego Ferreira, BRA, D, -, -, 19-05-03, -, None
+59, Flávio Sousa, BRA, F, -, -, 18-02-01, -, None
+66, Ewerthon, BRA, D, 1.71, 69, 10-11-00, Jaraguá, None
+77, Marcão, BRA, M, 1.85, 78, 14-01-91, Riacho de Santana, Emirates Club
+90, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Gaziantep
+91, Pedro, BRA, M, -, -, 28-06-00, -, None
+92, Carlos Eduardo, BRA, G, 1.92, 87, 24-02-92, Porto Alegre, Brasil de Pelotas
+93, Ryan, BRA, D, -, -, 27-08-01, -, None
+94, Paulinho Moccelin, BRA, F, 1.68, 62, 16-03-94, São Francisco do Sul, Londrina
+97, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, São Paulo
+99, Mikael, BRA, F, 1.84, 80, 28-05-99, Bacabal, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+97, Marquinhos, BRA, M, 1.72, 67, 26-01-97, Benevides, Corinthians
+34, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, Al-Wasl (On Loan)
+88, Jonas Toró, BRA, F, 1.77, 74, 30-05-99, Belém de São Francisco, São Paulo
+10, Júnior Tavares, BRA, D, 1.78, 83, 07-08-96, Porto Alegre, São Paulo
+12, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, América Mineiro
+27, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Atlético Goianiense
+71, Maxwell, BRA, F, 1.78, 68, 11-02-95, Maceió, Kalmar FF
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Sampaio Corrêa
+20, Ricardinho, BRA, M, 1.74, 68, 27-03-89, Itaberaí, Juventude
+6, Iago Maidana, BRA, D, 1.95, 87, 06-02-96, Criciúma, Atlético Mineiro
+17, Carlos Rentería, COL, M, 1.75, 70, 05-07-95, Buenaventura, Académico Viseu
+39, Gustavo, BRA, M, -, -, 11-09-02, -, Re-Registered (10)
+49, Túlio, BRA, G, -, -, 16-04-00, -, América-PE
+30, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, 

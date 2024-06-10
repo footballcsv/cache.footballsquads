@@ -1,0 +1,50 @@
+=  Bury - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Murphy, IRL, G, 1.88, 80, 25-09-80, Dublin, Huddersfield T
+2, Tom Miller, ENG, D, 1.80, 73, 29-06-90, Ely, Carlisle U
+3, Chris Stokes, ENG, D, 1.85, 83, 08-03-91, Trowbridge, Coventry C
+4, Will Aimson, ENG, D, 1.79, 70, 01-01-94, Christchurch, Blackpool
+5, Adam Thompson, NIR, D, 1.85, 74, 28-09-92, Harlow, Southend U
+6, Eoghan O'Connell, IRL, D, 1.85, 80, 13-08-95, Cork, Celtic
+7, Nicky Adams, WAL, M, 1.78, 70, 16-10-86, Bolton, Carlisle U
+8, Stephen Dawson, IRL, M, 1.68, 71, 04-12-85, Dublin, Scunthorpe U
+9, Jermaine Beckford, JAM, F, 1.88, 83, 09-12-83, Ealing, Preston NE
+10, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Sheffield W
+11, Jordan Rossiter, ENG, M, 1.72, 68, 24-03-97, Liverpool, Rangers
+14, Phil Edwards, ENG, D, 1.73, 71, 08-11-85, Kirkby, Burton Alb
+15, Byron Moore, ENG, M, 1.83, 66, 24-08-88, Stoke-on-Trent, Bristol R
+16, Ryan Cooney, ENG, D, 1.79, 77, 26-02-00, Manchester, None
+17, Jordan Archer, ENG, F, 1.90, 83, 11-11-93, Bedworth, Chester
+18, Dom Telford, ENG, F, 1.75, 72, 05-12-96, Burnley, Stoke C
+19, Scott Wharton, ENG, D, 1.82, 75, 03-10-97, Blackburn, Blackburn R
+20, Joe Adams, WAL, M, 1.76, 62, 13-02-01, Bolton, None
+21, Callum McFadzean, SCO, D, 1.80, 75, 16-01-94, Sheffield, Guiseley
+26, Jay O'Shea, IRL, M, 1.83, 70, 10-08-88, Dún Laoghaire, Chesterfield
+27, Gold Omotayo, SUI, F, 1.93, 89, 27-01-94, Zürich, Whitehawk
+28, Saul Shotton, ENG, D, 1.84, 75, 10-11-00, Stoke-on-Trent, None
+29, Callum Hulme, ENG, M, 1.70, 65, 10-11-00, Manchester, Manchester C
+31, Neil Danns, GUY, M, 1.75, 78, 23-11-82, Liverpool, Bolton W
+32, Caolan Lavery, NIR, F, 1.80, 76, 22-10-92, Red Deer, Sheffield U
+35, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, None
+36, Nicky Maynard, ENG, F, 1.80, 70, 11-12-86, Winsford, Aberdeen
+37, Dougie Nyaupembe, ZIM, D, 1.72, 68, 02-10-99, , None
+38, Sam Allardyce, ENG, D, 1.80, , 01-09-00, Bolton, Manchester U
+39, Aaron Skinner, ENG, D, , , , , None
+40, Aaron Brown, NIR, F, , , 31-01-02, , Linfield
+41, Cameron Hill, ENG, M, 1.77, 70, 08-10-00, , None
+42, Femi Seriki, ENG, M, , , 28-04-02, Manchester, None
+43, Scott Moloney, ENG, G, 1.91, 70, 15-04-00, Ashton-under-Lyne, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Motherwell (On Loan)
+25, Tsun Dai, HKG, M, 1.75, 75, 25-07-99, Hong Kong, Oxford U
+23, Joe Skarz, ENG, D, 1.83, 74, 13-07-89, Huddersfield, FC Halifax T (On Loan)
+33, Harry Bunn, ENG, F, 1.75, 75, 21-11-92, Oldham, Southend U (On Loan)
+12, Callum Styles, ENG, M, 1.67, 60, 27-03-00, Oldham, Barnsley
+13, Mathew Hudson, ENG, G, 1.93, 70, 29-07-98, Southport, Preston NE
+19, Jamie Barjonas, SCO, M, 1.73, 72, 24-01-99, Glasgow, Rangers
+11, Chris Dagnall, ENG, F, 1.73, 75, 15-04-86, Liverpool, Tranmere R
+22, Chris Sang, ENG, F, , , 29-06-99, Liverpool, 

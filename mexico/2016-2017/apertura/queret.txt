@@ -1,0 +1,30 @@
+=  Querétaro - Mexican Liga MX 2016/17 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tiago Volpi, BRA, G, 1.89, 84, 19-12-90, Blumenau, Figueirense
+2, George Corral, MEX, D, 1.74, 64, 18-07-90, Ecatepec, América
+3, Miguel Martínez, ARG, D, 1.87, 86, 19-01-84, Lanús, Jaguares de Chiapas
+4, Dionicio Escalante, MEX, D, 1.80, 80, 12-05-90, Culiacán, Guadalajara
+5, Nery Domínguez, ARG, M, 1.84, 77, 09-04-90, Cañada de Gómez, Rosario Central
+6, Juan Forlín, ARG, D, 1.80, 72, 10-01-88, Reconquista, Al-Rayyan
+7, Camilo, BRA, F, 1.70, 70, 21-07-88, Presidente Prudente, Vancouver Whitecaps
+8, Luis Gil, USA, M, 1.73, 70, 14-11-93, Garden Grove, Real Salt Lake
+9, Carlos Fierro, MEX, F, 1.75, 64, 24-07-94, Los Mochis, Guadalajara
+10, Patricio Rubio, CHI, F, 1.75, 73, 09-01-89, Santiago, Universidad de Chile
+11, Edgar Benítez, PAR, F, 1.76, 71, 08-11-87, Repatriación, Toluca
+12, Jonathan Bornstein, USA, D, 1.75, 66, 07-11-84, Torrance, UANL Tigres
+13, Víctor Milke, MEX, D, 1.82, 78, 24-01-95, Mexico City, None
+14, Luis Miguel Noriega, MEX, M, 1.72, 67, 17-04-85, Tepotzotlán, Puebla
+15, Ángel Sepulveda, MEX, F, 1.79, 73, 15-02-91, Apatzingán, Morelia
+17, Mario Osuna, MEX, M, 1.77, 75, 20-08-88, Culiacán, Dorados de Sinaloa
+18, Ricardo Esqueda, MEX, M, 1.73, 75, 25-02-81, Pachuca, Jaguares de Chiapas
+19, Yerson Candelo, COL, M, 1.72, 65, 24-02-92, Cali, Deportivo Cali
+20, Andrés Rentería, COL, F, 1.79, 79, 06-03-93, Medellín, Santos Laguna
+21, Marco Antonio Jiménez, MEX, M, 1.65, 71, 02-03-81, Ciudad Guzmán, Veracruz
+23, Edgar Hernández, MEX, G, 1.83, 79, 27-08-82, Ciudad Reynosa, Jaguares de Chiapas
+24, Armando Zamorano, MEX, M, 1.66, 67, 03-10-93, Autlán, Morelia
+28, Jaime Gómez, MEX, M, 1.75, 68, 17-07-93, San Juan del Río, None
+29, Neri Cardozo, ARG, M, 1.71, 64, 08-08-86, Godoy Cruz, Monterrey
+30, Emanuel Villa, ARG, F, 1.80, 77, 24-02-82, Casilda, UANL Tigres
+33, Gil Alcalá, MEX, G, 1.76, 76, 29-07-92, Tepatitlán de Morelos, Irapuato
+83, Ricardo Peña, MEX, D, 1.70, 64, 27-05-92, Mexico City, Athletic Morelos

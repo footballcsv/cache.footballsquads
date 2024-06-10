@@ -1,0 +1,42 @@
+=  Lorient - French Ligue 1 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Dijon
+2, Lamine Koné, FRA, D, 1.86, 83, 01-02-89, Paris, Châteauroux
+3, Pedrinho, POR, D, 1.77, 73, 06-03-85, Vila do Conde, Académica
+5, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Angers
+6, Grégory Bourillon, FRA, D, 1.87, 74, 01-07-84, Laval, Paris St-Germain
+7, Sadio Diallo, GUI, F, 1.82, 75, 28-12-90, Conakry, Rennes
+8, Yann Jouffre, FRA, M, 1.75, 65, 23-07-84, Montélimar, Guingamp
+9, Vincent Aboubakar, CMR, F, 1.82, 78, 22-01-92, Garoua, Valenciennes
+10, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, Monaco
+11, Jérémie Aliadière, FRA, F, 1.83, 70, 30-03-83, Rambouillet, Middlesbrough
+12, Pierre Lavenant, FRA, M, 1.80, 74, 03-08-95, Saint-Malo, None
+13, Rafidine Abdullah, FRA, M, 1.79, 75, 15-01-94, Marseille, Marseille
+14, Raphaël Guerreiro, POR, D, 1.70, 67, 22-12-93, Le Blanc-Mesnil, Caen
+15, Fabien Robert, FRA, F, 1.74, 67, 06-01-89, Hennebont, None
+16, Fabien Audard, FRA, G, 1.88, 89, 28-03-78, Toulouse, Bastia
+17, Maxime Baca, FRA, D, 1.71, 68, 02-06-83, Corbeil Essonnes, Le Havre
+18, Gilles Sunu, FRA, F, 1.80, 70, 30-03-91, Châteauroux, Arsenal
+19, Bryan Pelé, FRA, M, 1.69, 65, 25-03-92, Ploërmel, None
+20, Julien Quercia, FRA, F, 1.68, 65, 17-08-86, Thionville, Auxerre
+21, Alain Traoré, BFA, M, 1.76, 66, 31-12-88, Bobo-Dioulasso, Auxerre
+22, Kévin Monnet-Paquet, FRA, F, 1.83, 73, 19-08-88, Bourgoin-Jallieu, Lens
+23, Maxence Derrien, FRA, D, 1.80, 74, 03-09-93, Quimperlé, None
+24, Wesley Lautoa, FRA, D, 1.72, 65, 25-08-87, Épernay, Sedan
+25, Lamine Gassama, SEN, D, 1.81, 74, 20-10-89, Marseille, Lyon
+26, Yoann Wachter, GAB, D, 1.77, 65, 07-04-92, Courbevoie, None
+27, Enzo Reale, FRA, M, 1.75, 69, 07-10-91, Venissieux, Lyon
+28, Maxime Barthelme, FRA, M, 1.77, 65, 08-09-88, Sartrouville, Racing Club de France
+29, Larry Azouni, FRA, M, 1.77, 65, 23-03-94, Marseille, Marseille
+30, Florent Chaigneau, FRA, G, 1.97, 94, 21-03-84, La Roche-sur-Yon, Le Poiré-sur-Vie
+31, Cheick Doukouré, FRA, M, 1.80, 72, 11-09-92, Abidjan, None
+33, Valentin Lavigne, FRA, F, 1.71, 72, 04-06-94, Lorient, None
+40, Devis Epassy, FRA, G, 1.87, 80, 02-02-93, Soisy-sous-Montmorency, Rennes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Benjamin Lecomte, FRA, G, 1.86, 78, 26-04-91, Paris, Dijon (On Loan)
+12, Remi Mulumba, FRA, M, 1.78, 70, 02-11-92, Abbeville, Dijon (On Loan)
+13, Mario Lemina, FRA, M, 1.84, 76, 01-09-93, Libreville, Marseille

@@ -1,0 +1,57 @@
+=  Amkar Perm - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Ivan Starkov, RUS, M, 1.78, 68, 10-01-86, Moscow, Lokomotiv Moscow
+4, Vitaliy Fedoriv, UKR, D, 1.80, 75, 21-10-87, Lviv, Dynamo Kiev
+5, Vitaliy Grishin, RUS, M, 1.80, 77, 09-09-80, Moscow, FC Khimki
+7, Georgi Peev, BUL, M, 1.81, 80, 11-03-79, Sofia, Dynamo Kiev
+8, Sergey Volkov, RUS, F, 1.75, 75, 27-09-80, Kaluga, Lokomotiv Kaluga
+9, Konstantin Paramonov, RUS, F, 1.81, 82, 26-11-73, Perm, Zvezda Perm
+10, Mikhail AfansIev, BLR, M, 1.74, 74, 04-11-86, Minsk, MTZ-Ripo
+11, Vyacheslav Krendelev, TKM, M, 1.85, 76, 24-07-82, , Terek Grozny
+13, Mitar Novaković, MNE, M, 1.88, 76, 27-09-81, Bar, OFK Belgrade
+14, Zahari Sirakov, BUL, D, 1.81, 82, 08-10-77, Smolyan, Rodopa Smolyan
+15, Miklós Gaál, HUN, D, 1.82, 82, 13-05-81, Celldömölk, Hajduk Split
+17, Evgeniy Scherbakov, RUS, M, 1.82, 82, 18-02-86, Barnaul, Dynamo Barnaul
+18, Nikola Drinčić, SRB, M, 1.81, 76, 07-01-84, Belgrade, Gaziantepspor
+19, Nikolay Zhilyaev, RUS, M, 1.78, 74, 05-03-87, Nizhny Novgorod, Lokomotiv-2
+21, Dmitriy Belorukov, RUS, D, 1.92, 87, 24-03-83, St. Petersburg, Anzhi Makhachkala
+22, Tomislav Dujmović, CRO, M, 1.88, 87, 26-02-81, Zagreb, Medjimurje
+23, Ivan Cherenchikov, RUS, M, 1.86, 81, 25-08-84, Ozyorsk, Amkar-2
+25, Igor Uzminskiy, RUS, G, 1.88, 80, 23-04-77, Grozny, SKA Rostov-on-Don
+27, Mikhail Makagonov, RUS, M, 1.90, 80, 06-02-89, Perm, Amkar-2
+28, Vyacheslav Kalashnikov, RUS, D, 1.92, 84, 12-05-85, Volgograd, SKA Rostov-on-Don
+29, Martin Kushev, BUL, F, 1.88, 89, 25-08-73, Sofia, Slavia Sofia
+32, Petr Zabrodin, RUS, D, 1.85, 74, 30-04-87, Perm, Amkar-2
+33, Nenad Injac, SRB, F, 1.88, 85, 04-09-85, Belgrade, Borac Čačak
+34, Evgeniy Sitnikov, RUS, D, 1.90, 76, 15-05-90, , Amkar-2
+35, Stepan Okulov, RUS, D, 1.86, 75, 06-08-89, Perm, Amkar-2
+36, Aleksey Moroz, RUS, M, 1.74, 67, 09-04-89, , Amkar-2
+37, Ruslan Shaipov, RUS, D, 1.91, 87, 13-01-91, , Amkar-2
+39, Dmitriy Kutushev, RUS, M, 1.73, 65, 14-04-88, , Amkar-2
+40, Sergey Andreyev, RUS, F, 1.77, 75, 07-03-88, Perm, Amkar-2
+41, Maksim Shumaylov, RUS, G, 1.88, 79, 02-05-90, Perm, Amkar-2
+42, Sergey Narubin, RUS, G, 1.95, 87, 05-12-81, Moskovskaya Oblast, Dynamo Bryansk
+43, Evgeniy Tyukalov, RUS, F, 1.76, 68, 07-08-92, Perm, Amkar-2
+44, Evgeniy Nazarov, RUS, F, 1.74, 79, 01-01-88, Perm, Amkar-2
+45, Evgeniy Syrkov, RUS, D, 1.84, 79, 13-02-89, Perm, Amkar-2
+46, Aleksandr Subbotin, RUS, F, 1.75, 66, 20-10-91, Perm, Amkar-2
+47, Denis Kravtsov, RUS, M, 1.77, 68, 18-03-90, , Amkar-2
+49, Konstantin Pogadaev, RUS, M, 1.70, 57, 04-01-91, , Amkar-2
+51, Stanislav Paderin, RUS, G, 1.82, 80, 17-03-91, , Amkar-2
+69, Marko Milovanović, SRB, D, 1.91, 78, 12-08-82, Belgrade, Tavriya Simferopol
+88, Vladislav Zakoptelov, RUS, M, 1.79, 74, 26-06-88, Perm, Amkar-2
+90, Konstantin Belov, RUS, F, 1.76, 70, 04-01-90, , Lokomotiv-2
+99, Predrag Sikimić, SRB, F, 1.89, 86, 29-08-82, Smederevo, Vojvodina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Dynamo Moscow
+89, Andrey Sekretov, RUS, F, 1.76, 69, 13-12-89, Perm, Nizhniy Novgorod (On Loan)
+77, Ildar Ahmetzyanov, RUS, D, 1.88, 77, 25-11-83, Niznekamsk, Sibir Novosibirsk
+30, Ilya Boldinskiy, RUS, M, 1.74, 69, 02-05-88, Perm, Dinamo St Petersburg
+31, Artur Stepanyan, RUS, D, 1.92, 80, 14-04-87, Yerevan, Chernomorets Novorossiysk (On Loan)
+26, Yuriy Shestakov, RUS, F, 1.86, 80, 21-06-85, Perm, Metallurg Lipetsk
+38, Evgeniy Evseev, RUS, D, 1.88, 81, 13-01-90, , Shinnik
+24, Alexey Popov, RUS, D, 1.88, 83, 07-07-78, Perm, Rubin Kazan

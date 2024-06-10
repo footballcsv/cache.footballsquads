@@ -1,0 +1,54 @@
+=  Juventude - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pegorari, BRA, G, 1.92, 88, 12-07-91, Americana, Ituano
+2, Rodrigo Soares, BRA, D, 1.76, 73, 26-12-92, Porangatu, PAOK
+3, Renato Chaves, BRA, D, 1.85, 85, 04-05-90, São Paulo, Al-Batin
+4, Thalisson Kelven, BRA, D, 1.84, 79, 07-05-98, Ji-Paraná, Mirassol
+5, Jean Irmer, BRA, M, 1.83, 84, 26-09-94, Brasília, Gil Vicente
+6, William Matheus, BRA, D, 1.87, 85, 02-04-90, Rio de Janeiro, Shimizu S-Pulse
+7, Capixaba, BRA, F, 1.70, 66, 19-01-97, Guarapari, Atlético Mineiro
+9, Ricardo Bueno, BRA, F, 1.88, 70, 15-08-87, São Paulo, Operário
+11, Óscar Ruiz, PAR, F, 1.70, 70, 14-05-91, Asunción, Bahia
+12, Rafael Forster, BRA, D, 1.81, 81, 23-07-90, São José, Botafogo
+15, Kelvi, BRA, M, 1.87, 68, 17-12-02, Ilópolis, None
+16, Jádson, BRA, M, 1.71, 64, 30-08-93, São Bernardo do Campo, Cruzeiro
+17, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Bahia
+19, Felipe Pires, BRA, M, 1.78, 68, 18-04-95, São Paulo, Dnipro-1
+20, Moraes, BRA, D, 1.70, 65, 03-10-97, Goianira, Atlético Goianiense
+21, William, BRA, G, 1.94, 83, 21-01-98, Santa Cruz do Sul, None
+22, Bruno Nazário, BRA, M, 1.78, 68, 09-02-95, Cascavel, Vasco da Gama
+23, Chico, BRA, M, 1.74, 69, 16-05-91, Cascavel, Atlético Goianiense
+25, Marlon, BRA, M, 1.75, 68, 26-02-90, Curitiba, Ceará
+26, Pará, BRA, M, 1.80, 76, 18-02-02, Marituba, None
+27, Weliton, BRA, F, 1.86, 77, 13-04-05, Soledade, None
+28, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Grêmio
+29, Ruan, BRA, F, 1.72, 70, 03-05-05, Caxias do Sul, None
+30, Rafinha, BRA, F, 1.73, 70, 18-11-02, Brisbane, São Paulo
+31, César, BRA, G, 1.92, 82, 16-02-95, Uberaba, Londrina
+32, Rômulo, BRA, M, 1.80, 75, 01-03-00, Campo Grande, Deportes La Serena
+33, Anderson Leite, BRA, M, 1.83, 79, 04-05-93, São Paulo, Juárez
+34, Vitor Mendes, BRA, D, 1.86, 70, 13-02-99, Belém, Atlético Mineiro
+36, Dudu, BRA, D, 1.82, 70, 28-09-02, Feliz, None
+43, Arthur, BRA, G, 1.93, 84, 26-10-02, Canoas, None
+44, Ygor Nogueira, BRA, D, 1.87, 80, 27-03-95, Itaperuna, Mazatlán
+50, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Fluminense
+58, Edinho, BRA, F, 1.58, 60, 08-08-94, Baturité, Fortaleza
+63, Vitor Gabriel, BRA, F, 1.84, 78, 20-01-00, Rio de Janeiro, Flamengo
+77, Guilherme Parede, BRA, F, 1.75, 69, 19-09-95, Nova Andradina, Talleres (Córdoba)
+80, Isidro Pitta, PAR, F, 1.83, 88, 14-08-99, Asunción, Huesca
+88, Gabriel Tota, BRA, M, 1.86, 83, 29-10-01, Santa Fé do Sul, Mirassol
+96, Paulo Henrique, BRA, D, 1.75, 74, 25-07-96, Sete Barras, Paraná
+99, Vitor Leque, BRA, F, 1.74, 68, 19-01-01, Cuiabá, Cruzeiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Danilo Boza, BRA, D, 1.84, 76, 06-05-98, Rondonópolis, Vasco da Gama (On Loan)
+90, Busanello, BRA, D, 1.80, 75, 29-10-98, Frederico Westphalen, Chapecoense
+94, Paulinho Moccelin, BRA, F, 1.68, 62, 16-03-94, São Francisco do Sul, Londrina
+44, Lucas Ramires, BRA, D, 1.93, 75, 27-04-02, Três Cachoeiras, Esportivo
+1, Felipe Alves, BRA, G, 1.87, 79, 21-05-88, São Paulo, Fortaleza
+13, Bruninho, BRA, M, 1.75, 67, 27-04-00, Belo Horizonte, Atlético Mineiro
+19, Weliton, BRA, F, 1.86, 77, 13-04-05, Soledade, Re-Registered (27)
+8, Darlan Mendes, BRA, M, 1.79, 72, 16-04-98, São Borja, Grêmio

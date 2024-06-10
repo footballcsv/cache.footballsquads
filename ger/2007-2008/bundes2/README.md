@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2007/08
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [Augsburg](augsburg.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Carl Zeiss Jena](carlzeiss.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [1899 Hoffenheim](hoffen.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Kickers Offenbach](offenba.txt)
+- [TuS Koblenz](koblenz.txt)
+- [1.FC Köln](koln.txt)
+- [FSV Mainz 05](mainz.txt)
+- [VfL Osnabrück](osna.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Wehen-Wiesbaden](wehen.txt)

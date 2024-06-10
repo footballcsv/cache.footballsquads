@@ -1,0 +1,41 @@
+=  Charlotte FC - USA Major League Soccer 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kristijan Kahlina, CRO, G, 1.88, 74, 24-07-92, Zagreb, Ludogorets Razgrad
+2, Jan Sobociński, POL, D, 1.86, 84, 20-03-99, Łódź, ŁKS Łódź
+3, Adam Armour, USA, D, 1.75, 66, 27-09-02, Cary, Nürnberg
+4, Guzmán Corujo, URU, D, 1.89, 85, 02-08-96, San José [URU], Nacional [URU]
+5, Anton Walkes, ENG, D, 1.87, 72, 08-02-97, Lewisham, Atlanta U
+6, Nuno Santos, POR, M, 1.77, 65, 02-03-99, Porto, Benfica
+7, Kamil Jóźwiak, POL, M, 1.76, 70, 22-04-98, Międzyrzecz, Derby Co
+8, Jordy Alcívar, ECU, M, 1.68, 71, 05-08-99, Manta, LDU Quito
+9, Vinicius Mello, BRA, F, 1.82, 84, 19-08-02, Sapucaia do Sul, Internacional
+11, Karol Świderski, POL, F, 1.84, 74, 23-01-97, Rawicz, PAOK
+12, Daniel Ríos, MEX, F, 1.86, 84, 22-02-95, Miguel Hidalgo, Nashville SC
+13, Brandt Bronico, USA, M, 1.73, 71, 20-06-95, Westminster, MD, Chicago Fire
+14, Nathan Byrne, ENG, D, 1.80, 84, 05-06-92, St Albans, Derby Co
+15, Benjamin Bender, USA, M, 1.82, 75, 07-03-01, Baltimore, Univ of Maryland
+16, Andre Shinyashiki, BRA, F, 1.75, 68, 11-06-95, São Paulo, Colorado Rapids
+17, McKinze Gaines, USA, M, 1.81, 74, 02-03-98, Austin, Austin FC
+18, Kerwin Vargas, COL, F, 1.80, 74, 02-01-02, Concordia, Feirense
+19, Chris Hegardt, USA, M, 1.75, 65, 06-01-02, San Diego, Georgetown Univ
+20, Derrick Jones, GHA, M, 1.91, 75, 03-03-97, Bantama, Houston Dynamo
+21, Adilson Malanda, FRA, D, 1.85, 75, 29-10-01, Rouen, Rodez
+22, Christian Fuchs, AUT, D, 1.86, 80, 07-04-86, Pitten, Leicester C
+23, Pablo Sisniega, MEX, G, 1.93, 82, 07-07-95, Mexico City, Los Angeles FC
+24, Jaylin Lindsey, USA, D, 1.73, 71, 27-03-00, Charlotte, Sporting Kansas City
+25, Harrison Afful, GHA, D, 1.82, 73, 24-06-86, Kumasi, Columbus Crew
+26, Yordi Reyna, PER, F, 1.69, 68, 17-09-93, Chiclayo, DC United
+28, Joseph Mora, CRC, D, 1.76, 60, 15-01-93, Alajuela, DC United
+30, Adrián Zendejas, USA, G, 1.96, 84, 30-08-95, Chula Vista, Minnesota U
+31, George Marks, USA, G, 1.85, 75, 10-11-99, Raleigh, Clemson Univ
+35, Quinn McNeill, USA, M, 1.78, 68, 30-08-98, Cork, Clemson Univ
+36, Koa Santos, USA, D, 1.78, 72, 21-09-99, Waikoloa, San Diego State Univ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Alan Franco, ECU, M, 1.76, 67, 21-08-98, Alfredo Baquerizo Moreno, Atlético Mineiro
+10, Cristian Ortiz, ARG, F, 1.69, 70, 20-08-92, Rosario, Tijuana
+14, Christian Makoun, VEN, D, 1.80, 70, 05-03-00, Valencia [VEN], New England Revolution
+6, Sergio Ruiz, ESP, M, 1.71, 70, 16-12-94, El Astillero, Granada

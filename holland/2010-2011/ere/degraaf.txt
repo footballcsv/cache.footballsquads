@@ -1,0 +1,37 @@
+=  De Graafschap - Dutch Eredivisie 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joost Terol, NED, G, 1.93, 93, 01-02-80, Leiden, AGOVV Apeldoorn
+2, Muslu Nalbantoğlu, NED, D, 1.74, 73, 24-11-83, Amersfoort, Kayserispor
+3, Vito Wormgoor, NED, D, 1.88, 81, 16-11-88, Leersum, FC Utrecht
+4, Jan-Paul Saeijs, NED, D, 1.90, 81, 20-06-78, Den Haag, Roda JC
+5, Purrel Fränkel, NED, D, 1.70, 72, 08-10-76, Paramaribo, Vitesse
+6, Jussi Kujala, FIN, M, 1.77, 72, 04-04-83, Tampere, TPS Turku
+7, Tyrone Loran, NED, D, 1.87, 87, 29-06-81, Amsterdam, NAC Breda
+8, Peter Jungschläger, NED, M, 1.82, 81, 22-05-84, Voorburg, VVV Venlo
+9, Rydell Poepon, NED, F, 1.81, 79, 28-08-87, Amsterdam, Sparta Rotterdam
+10, Youssouf Hersi, NED, F, 1.73, 64, 20-08-82, Diredawa, AEK
+11, Steve de Ridder, BEL, F, 1.79, 73, 25-02-87, Gent, KAA Gent
+12, Boy Waterman, NED, G, 1.88, 83, 24-01-84, Lelystad, AZ Alkmaar
+13, Rogier Meijer, NED, M, 1.86, 70, 05-09-81, Doetinchem, None
+14, Soufian El Hassnaoui, NED, F, 1.83, 79, 28-10-89, Ede, Bennekom
+15, Ties Evers, NED, D, 1.78, 68, 14-03-91, Gaanderen, None
+17, Jochem Jansen, NED, D, 1.75, 78, 04-01-90, Zevenaar, None
+18, Sjoerd Overgoor, NED, M, 1.80, 73, 06-09-88, Borculo, None
+19, Jonathan Goosen, NED, D, 1.90, , 06-03-90, , FC Twente
+20, Kaye Coppoolse, NED, F, 1.80, 80, 03-01-91, Auckland, SC Westervoort
+21, Rik Sebens, NED, M, 1.80, 70, 21-05-88, Leiden, None
+22, Hugo Bargas, ARG, F, 1.82, 74, 22-10-86, Le Puy-en-Velay, All Boys
+23, Jordy Buijs, NED, D, 1.82, 80, 28-12-88, Ridderkerk, Feyenoord
+24, Leon Broekhof, NED, D, 1.89, 82, 14-05-88, Brummen, Vitesse
+25, Wessel Peelen, NED, M, , , 05-04-90, , None
+26, Jordy van de Kracht, NED, G, 1.84, 85, 03-06-90, Rheden, None
+27, Niek Sebens, NED, M, 1.85, 74, 27-02-90, Leiden, FC Zutphen
+28, Lion Kaak, NED, M, 1.80, 80, 26-06-91, Hengelo, None
+29, Yuri Rose, NED, F, 1.88, 87, 08-05-79, Purmerend, Sparta Rotterdam
+30, Remy Raterink, NED, F, 1.90, 80, 03-07-91, , DZC'68
+31, Ted van de Pavert, NED, D, 1.90, 85, 06-01-92, Doetinchem, None
+32, Geoffrey Hairemans, BEL, M, 1.84, 64, 21-10-91, Wilrijk, Royal Antwerp
+33, Dimitri Hairemans, BEL, D, 1.80, 66, 21-10-91, Wilrijk, Royal Antwerp
+34, Piotr Parzyszek, POL, F, 1.88, 74, 08-09-93, Toruń, Vitesse/AGOVV
+35, Gregor Breinburg, NED, M, 1.71, 70, 16-09-91, Arnhem, None

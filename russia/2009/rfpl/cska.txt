@@ -1,0 +1,64 @@
+=  CSKA Moscow - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Deividas Šemberas, LTU, D, 1.87, 72, 02-08-78, Vilnius, Dynamo Moscow
+4, Sergey Ignashevich, RUS, D, 1.86, 75, 14-07-79, Moscow, Lokomotiv Moscow
+6, Aleksey Berezutskiy, RUS, D, 1.90, 82, 20-06-82, Moscow, Chernomorets
+7, Daniel Carvalho, BRA, M, 1.78, 79, 01-03-83, Porto Alegre, Internacional
+10, Alan Dzagoev, RUS, M, 1.79, 70, 17-06-90, Beslan, CSKA-2
+11, Pavel Mamaev, RUS, M, 1.78, 70, 17-09-88, Moscow, Torpedo Moscow
+12, Ouwo Moussa Maazou, NIG, F, 1.86, 78, 25-08-88, Niamey, Lokeren
+13, Mark González, CHI, M, 1.75, 70, 10-07-84, Durban, Betis
+14, Ricardo Jesús, BRA, F, 1.85, 81, 16-05-85, Campinas, Spartak Nalchik
+15, Chidi Odiah, NGA, D, 1.80, 79, 17-12-83, Port Harcourt, Sheriff Tiraspol
+17, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, Vojvodina
+20, Guilherme, BRA, F, 1.73, 77, 22-10-88, Imperatriz, Dynamo Kiev
+22, Evgeniy Aldonin, RUS, M, 1.79, 72, 22-01-80, Alupka, Rotor Volgograd
+23, Nika Piliev, RUS, M, 1.73, 62, 21-03-91, Tbilisi, Lokomotiv Moscow
+24, Vasiliy Berezutskiy, RUS, D, 1.89, 83, 20-06-82, Moscow, Torpedo-ZIL
+25, Elvir Rahimić, BIH, M, 1.91, 80, 04-04-76, Živinice, Anzhi Makhachkala
+26, Sekou Oliseh, NGA, M, 1.87, 70, 05-06-90, Monrovia, FC Midtjylland
+33, Evgeniy Pomazan, RUS, G, 1.93, 85, 31-01-89, Angren, Kuban Krasnodar
+34, Vitālijs Maksimenko, LVA, D, 1.86, 75, 08-12-90, Riga, Daugava Rīga
+35, Igor Akinfeev, RUS, G, 1.85, 81, 08-04-86, Vidnoye, CSKA-2
+37, Maksim Potapov, RUS, D, 1.84, 75, 21-05-91, , Spartak Moscow
+40, Stanislav Plokhikh, RUS, G, 1.85, 83, 10-02-92, , CSKA-2
+41, Dmitriy Zameshayev, RUS, M, 1.78, 69, 14-05-91, , CSKA-2
+42, Georgi Schennikov, RUS, D, 1.78, 69, 27-04-91, Moscow, CSKA-2
+45, Aleksandr Kudriavtsev, RUS, M, 1.70, 72, 09-06-90, , CSKA-2
+46, Aleksandr Stolyarenko, RUS, M, 1.85, 78, 18-01-91, Zdvinsk, CSKA-2
+47, Yevgeniy Sherenkov, RUS, M, 1.78, 70, 27-01-91, , CSKA-2
+48, Igor Dragunov, RUS, M, 1.76, 70, 06-04-91, , CSKA-2
+49, Aleksandr Vasilyev, RUS, M, 1.82, 74, 23-01-92, Nizhegorodka, CSKA-2
+50, Anton Grigoriev, RUS, D, 1.89, 80, 13-12-85, Moscow, CSKA-2
+51, Aleksey Kiselev, RUS, M, 1.73, 72, 01-05-92, , CSKA-2
+52, Aleksey Nikitin, RUS, D, 1.87, 87, 27-01-92, Moscow, CSKA-2
+53, Maksim Fedorov, RUS, M, 1.82, 76, 05-04-89, Rasskazovo, FC Togliatti
+54, Uroš Ćosić, SRB, D, 1.87, 76, 24-10-92, Belgrade, Crvena Zvezda
+55, Iskandar Dzhalilov, RUS, D, 1.80, 72, 01-06-92, Dushanbe, CSKA-2
+56, Ganiyu Oseni, NGA, F, 1.77, 82, 19-09-91, , Espérance
+57, Nikita Andreyev, RUS, M, 1.74, 67, 18-02-90, , CSKA-2
+59, Semen Fedotov, RUS, D, 1.78, 71, 02-03-92, , CSKA-2
+60, Ivan Skripnik, RUS, G, 1.92, 88, 10-08-92, , CSKA-2
+61, Artak Grigoryan, RUS, F, 1.81, 75, 26-02-91, , CSKA-2
+62, Yevgeniy Kobzar, RUS, M, 1.70, 65, 09-08-92, , CSKA-2
+77, Artur Nigmatullin, RUS, G, 1.92, 88, 17-05-91, Vladivostok, CSKA-2
+89, Tomáš Necid, CZE, F, 1.90, 81, 13-08-89, Prague, Slavia Prague
+91, Anton Zabolotniy, RUS, F, 1.88, 84, 13-06-91, Lipetsk, CSKA-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Aleksei Volkov, RUS, F, 1.83, 73, 10-06-91, , Druzhba Maykop (On Loan)
+43, Ruslan Perepelyukov, RUS, D, 1.81, 73, 15-03-90, , Avangard Podolsk (On Loan)
+44, Dmitri Protopopov, RUS, D, 1.86, 75, 23-01-89, , Stavropolye-2009 (On Loan)
+18, Yuriy Zhirkov, RUS, M, 1.80, 75, 20-08-83, Tambov, Chelsea
+8, Dmitri Ryzhov, RUS, F, 1.87, 84, 26-08-89, , Alania Vladikavkaz (On Loan)
+21, Luboš Kalouda, CZE, M, 1.80, 75, 20-05-87, Brno, Sparta Prague (On Loan)
+58, Sergey Perunov, RUS, D, 1.83, 75, 04-06-90, , Gazovik Orenburg (On Loan)
+5, Ramón, BRA, M, 1.80, 72, 24-05-88, Nova Era, Krylia Sovetov (On Loan)
+36, Anton Vlasov, RUS, D, 1.87, 83, 11-05-89, , Anzhi Makhachkala (On Loan)
+38, Yuriy Petrakov, RUS, M, 1.78, 71, 27-01-91, , FC Moscow
+9, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Palmeiras (On Loan)
+88, Caner Erkin, TUR, M, 1.77, 75, 04-10-88, Edremit, Galatasaray (On Loan)
+90, Viktor Klimeev, RUS, D, 1.95, 85, 16-01-90, , Krylia Sovetov

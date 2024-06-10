@@ -1,0 +1,49 @@
+=  Montevideo City Torque - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Joaquín Pereyra, URU, D, 1.87, 85, 10-07-94, Montevideo, Boston River
+4, Maxi Villa, URU, D, 1.84, 71, 03-03-97, Montevideo, Boston River
+5, Franco Pizzichillo, URU, D, 1.76, 72, 03-01-96, Paysandú, Defensor Sporting
+6, Nicolás Previtali, ARG, M, 1.84, 82, 07-07-95, Ramos Mejía, Independiente del Valle
+7, Nicolás Siri, URU, F, 1.78, 77, 17-04-04, Montevideo, Danubio
+8, Kevin Altez, URU, M, 1.63, 59, 15-12-04, -, None
+9, Sebastián Guerrero, URU, F, 1.72, 70, 23-09-00, Montevideo, None
+10, Tiago Palacios, ARG, M, 1.65, 61, 28-03-01, Capital Federal, Platense
+11, Nahuel Leivas, URU, F, -, -, 29-06-06, -, None
+12, Francisco Coirolo, URU, G, 1.92, 82, 09-06-01, Sarandí Grande, None
+15, Agustín Álvarez, URU, M, 1.80, 76, 20-04-01, Montevideo, Peñarol
+16, José Álvarez, URU, D, 1.73, 65, 27-12-94, Montevideo, ABC
+17, Eduardo Agüero, URU, D, 1.87, 81, 14-02-04, Barros Blancos, None
+18, Santiago Costa, URU, M, 1.80, 74, 12-02-00, La Paz [URU], Peñarol
+19, Bruno Morales, URU, F, 1.80, 73, 10-12-04, Montevideo, None
+20, Juan Pablo Segovia, ARG, D, 1.82, 95, 21-03-89, Corrientes, Necaxa
+21, Lucas Rodríguez, URU, M, 1.68, 56, 25-02-97, Florida, Nacional [URU]
+22, Hernán Petryk, URU, D, 1.82, 80, 21-10-94, Punta del Este, Delfín
+23, Sebastián Ribas, URU, F, 1.89, 86, 11-03-88, Montevideo, Central Córdoba (SdE)
+25, Juan Francisco Tinaglini, URU, G, 1.86, 78, 09-11-98, San Ramón, River Plate [URU]
+26, Tobías Correa, URU, M, 1.82, 70, 30-12-04, Canelones, None
+27, Andrew Teuten, URU, D, 1.73, 70, 20-07-98, Montevideo, Colón (Santa Fe)
+28, Franco Catarozzi, URU, M, 1.79, 72, 02-04-00, Montevideo, None
+29, Facundo Rodríguez, URU, M, 1.75, 69, 30-08-93, Montevideo, Boston River
+30, Franco Nicola, URU, F, 1.78, 70, 18-04-02, Montevideo, None
+34, Fabricio Silveira, URU, D, 1.85, 78, 18-09-04, -, None
+42, Oscar Salomón, ARG, D, 1.81, 81, 22-03-99, San Miguel de Tucumán, Boca Juniors
+47, Julián Pou, URU, D, 1.76, 72, 21-11-03, Montevideo, None
+55, Gastón Guruceaga, URU, G, 1.89, 89, 15-03-95, Artigas, Peñarol
+98, Ignacio Pereira, URU, F, 1.78, 62, 14-04-98, Montevideo, Fénix
+99, Renzo Orihuela, URU, D, 1.83, 74, 04-04-01, Salto, Nacional [URU]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Christopher Fiermarin, URU, G, 1.89, 72, 01-01-98, Rosario, Defensa y Justicia (On Loan)
+32, Lucas Viana, URU, F, 1.82, 73, 09-02-04, Tacuarembó, Tacuarembó
+17, Álvaro Brun, URU, M, 1.87, 87, 10-04-87, Montevideo, Plaza Colonia
+20, Lucas Rodríguez, URU, D, 1.81, 78, 15-01-99, Rosario [URU], Plaza Colonia
+14, Octavio Perdomo, URU, M, 1.73, 70, 25-01-00, Montevideo, Tacuarembó
+25, Juan Bautista Cejas, ARG, M, 1.72, 63, 06-03-98, La Plata, Arsenal [ARG]
+6, Gabriel Chocobar, ARG, D, 1.84, 78, 05-08-99, Isidro Casanova, Oriental (On Loan)
+22, Martín Rabuñal, URU, M, 1.83, 71, 22-04-94, Montevideo, La Luz
+24, Lautaro Spatz, ARG, D, 1.85, 75, 19-10-01, Buenos Aires, Cádiz B
+2, Hernán Petryk, URU, D, 1.82, 80, 21-10-94, Punta del Este, Re-Registered (22)
+11, Ignacio Pereira, URU, F, 1.78, 62, 14-04-98, Montevideo, Re-Registered (98)

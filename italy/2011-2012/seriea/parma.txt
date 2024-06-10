@@ -1,0 +1,49 @@
+=  Parma - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+2, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Internazionale
+3, Rolf Feltscher, VEN, D, 1.81, 74, 06-10-90, Bülach, Grasshoppers
+4, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Livorno
+5, Cristian Zaccardo, ITA, D, 1.84, 74, 21-12-81, Formigine, Wolfsburg
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Jonathan Ludovic Biabiany, FRA, F, 1.75, 70, 28-04-88, Paris, Sampdoria
+8, Daniele Galloppa, ITA, M, 1.80, 71, 15-05-85, Rome, Siena
+10, Sebastian Giovinco, ITA, F, 1.64, 62, 26-01-87, Turin, Juventus
+11, Sergio Floccari, ITA, F, 1.78, 74, 12-11-81, Vibo Valentia, Lazio
+13, Gonçalo Brandão, POR, D, 1.82, 72, 09-10-86, Lisbon, Siena
+14, Danilo Pereira, POR, M, 1.87, 60, 09-09-91, Bissau, Benfica
+15, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Internazionale
+17, Jaime Valdès Zapata, CHI, F, 1.75, 69, 11-01-81, Santiago, Sporting CP
+18, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Fiorentina
+19, Stefano Ferrario, ITA, D, 1.90, 86, 28-03-85, Rho, Lecce
+21, Stefano Okaka Chuka, ITA, F, 1.86, 83, 09-08-89, Castiglion del Lago, Roma
+22, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Genoa
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Genoa
+24, Gianluca Musacci, ITA, M, 1.80, 72, 01-04-87, Viareggio, Empoli
+29, Gabriel Paletta, ARG, D, 1.90, 80, 15-02-86, Longchamps, Boca Juniors
+31, Matteo Ferrari, ITA, G, , , 05-04-94, Parma, None
+32, Fernando Marqués, ESP, M, 1.78, 70, 04-12-84, Madrid, Espanyol
+33, Fabiano Santacroce, ITA, D, 1.81, 72, 24-08-86, Camaçari, Napoli
+35, Francesco Anacoura, ITA, G, 1.90, 79, 01-08-94, Milan, Pavia
+41, Makris Petrozzi, ITA, D, , , 06-01-93, Foggia, Casalese
+42, Davide Adorni, ITA, D, 1.85, 78, 09-08-92, Parma, None
+43, Nicola Berselli, ITA, M, , , 05-05-94, Reggio Emilia, None
+44, Cristiano Colla, ITA, M, , , 25-11-93, Parma, None
+45, Simone Pessagno, ITA, D, , , 25-01-93, Parma, Modena
+46, Matteo Mantovani, ITA, D, , , 23-04-93, Casalmaggiore, None
+80, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Bologna
+83, Antonio Mirante, ITA, G, 1.88, 78, 08-07-83, Castellamare di Stabia, Sampdoria
+92, Alberto Gallinetta, ITA, G, 1.95, 90, 16-04-92, Giussano, Internazionale
+93, Marco D'Arsiè, ITA, G, 1.85, 78, 25-02-93, Jesolo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Torino
+40, Nwankwo Obiora, NGA, M, 1.83, 77, 12-07-91, Kaduna, Gubbio (On Loan)
+77, Zé Eduardo, BRA, M, 1.86, 80, 16-08-91, Uberaba, Empoli (On Loan)
+20, Manuele Blasi, ITA, M, 1.78, 67, 17-08-80, Civitavecchia, Lecce
+28, Abderrazzak Jadid, MAR, M, 1.75, 68, 01-06-83, Beni Amir, Grosseto (On Loan)
+99, Graziano Pellè, ITA, F, 1.93, 89, 15-07-85, San Cesario, Sampdoria (On Loan)
+9, Hernán Crespo, ARG, F, 1.84, 81, 05-07-75, Florida, Barasat

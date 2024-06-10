@@ -1,0 +1,42 @@
+=  Górnik Zabrze - Polish Ekstraklasa 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomasz Loska, POL, G, 1.89, 79, 26-01-96, Knurów, Gwarek Ornontowice
+2, Przemysław Wiśniewski, POL, D, 1.95, 88, 27-07-98, Zabrze, Stadion Śląski Chorzów
+3, Adam Wolniewicz, POL, D, 1.83, 78, 18-03-93, Ruda Śląska, Gwiazda Ruda Śląska
+4, Mateusz Wieteska, POL, D, 1.87, 77, 11-02-97, Warsaw, Legia Warszawa
+5, Oleksandr Shevelyukhin, UKR, D, 1.92, 85, 27-08-82, Uzhgorod, Sevastopol
+6, Bartłomiej Olszewski, POL, D, 1.76, 65, 29-01-96, Lubaczów, Hetman Zamość
+7, Rafał Kurzawa, POL, M, 1.82, 73, 29-01-93, Wieruszów, Marcinki Kępno
+8, Konrad Nowak, POL, M, 1.75, 69, 07-11-94, Katowice, Rozwój Katowice
+9, Damian Kądzior, POL, M, 1.73, 69, 16-06-92, Białystok, Wigry Suwałki
+10, Erik Grendel, SVK, M, 1.78, 71, 13-10-88, Handlová, Slovan Bratislava
+11, Daniel Liszka, POL, M, 1.76, 78, 17-02-00, , Trampkarz 22 Biskupice
+14, Michał Koj, POL, D, 1.88, 81, 28-07-93, Ruda Śląska, Ruch Chorzów
+15, Dani Suárez, ESP, D, 1.90, 82, 07-05-90, Madrid, Ponferradina
+16, Dariusz Pawłowski, POL, D, 1.87, 71, 25-02-99, Zabrze, None
+17, Igor Angulo, ESP, F, 1.81, 77, 26-01-84, Bilbao, Platanias
+18, Wojciech Hajda, POL, M, 1.82, 70, 23-05-00, Radzionków, Gwarek Zabrze
+19, Mariusz Przybylski, POL, M, 1.83, 73, 19-01-82, Częstochowa, Polonia Bytom
+20, Marcin Urynowicz, POL, F, 1.87, 78, 16-03-96, Zabrze, Gwarek Zabrze
+21, Sandi Arčon, SVN, M, 1.84, 80, 06-01-91, Šempeter pri Gorici, ND Gorica
+22, Szymon Matuszek, POL, M, 1.85, 77, 07-01-89, Cieszyn, Dolcan Ząbki
+23, Rafał Wolsztyński, POL, F, 1.80, 70, 08-12-94, Knurów, Concordia Knurów
+25, Łukasz Wolsztyński, POL, M, 1.83, 73, 08-12-94, Knurów, Concordia Knurów
+26, Dominik Lasik, POL, F, 1.87, 80, 05-02-97, Sucha Beskidzka, Gwarek Zabrze
+27, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Gwarek Zabrze
+28, Maciej Ambrosiewicz, POL, M, 1.84, 75, 24-05-98, Gdynia, MFK Karviná
+29, Krzysztof Kiklaisz, POL, F, 1.84, 76, 13-04-98, Opole, MKS Gogolin
+30, Dariusz Kamiński, POL, M, 1.82, 75, 25-11-98, Lubań, Gwarek Zabrze
+31, Bartosz Bartczuk, POL, M, 1.81, 76, 14-06-00, Oława, KS Oława
+32, Adrian Gryszkiewicz, POL, D, 1.85, 81, 13-12-99, Bytom, Gwarek Zabrze
+55, Paweł Bochniewicz, POL, D, 1.94, 79, 30-01-96, Dębica, Udinese
+93, Wojciech Pawłowski, POL, G, 1.90, 80, 18-01-93, Koszalin, Udinese
+97, Daniel Smuga, POL, M, 1.82, 78, 18-01-97, Warsaw, Victoria Sulejówek
+99, Grzegorz Kasprzik, POL, G, 1.87, 83, 20-09-83, Pyskowice, LKS Nieciecza
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Meik Karwot, GER, D, 1.87, 80, 27-02-93, Würselen, Pogoń Siedlce (On Loan)
+11, David Ledecký, CZE, F, 1.84, 78, 24-07-93, Brandýs nad Labem, Odra Opole (On Loan)

@@ -1,0 +1,23 @@
+# French Ligue 1 2014/15
+
+20 teams
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Évian Thonon Gaillard](eviantg.txt)
+- [Guingamp](guinga.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Reims](reims.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Toulouse](toulouse.txt)

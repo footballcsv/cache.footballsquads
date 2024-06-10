@@ -1,0 +1,53 @@
+=  Internacional - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel, BRA, G, 1.88, 80, 06-05-94, Barra dos Garças, None
+3, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Sampdoria
+4, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Panathinaikos
+5, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, São Paulo
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Flamengo
+7, Taison, BRA, F, 1.72, 64, 17-01-88, Pelotas, Shakhtar Donetsk
+8, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+9, Braian Romero, ARG, F, 1.75, 75, 15-06-91, San Isidro, River Plate
+10, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, Shakhtar Donetsk
+11, Wanderson, BRA, F, 1.75, 66, 07-10-94, São Luís do Maranhão, FC Krasnodar
+12, Keiller, BRA, G, 1.93, 86, 29-10-96, Eldorado do Sul, None
+14, Carlos de Pena, URU, F, 1.77, 74, 11-03-92, Montevideo, Dynamo Kyiv
+16, Fabricio Bustos, ARG, D, 1.67, 66, 28-04-96, Ucacha, Independiente
+17, David, BRA, F, 1.79, 71, 17-10-95, Vitória, Fortaleza
+21, Igor Gomes, BRA, D, 1.85, 76, 06-03-01, Barra Mansa, Barcelona B
+22, Weverton, BRA, D, 1.81, 74, 15-06-99, Maceió, Red Bull Bragantino
+23, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Corinthians
+24, Anthoni, BRA, G, 1.93, 88, 23-01-02, Canela, None
+25, Gabriel Mercado, ARG, D, 1.81, 77, 18-03-87, Puerto Madryn, Al-Rayyan
+26, Estêvão, BRA, M, 1.76, 75, 03-02-02, Amambai, None
+27, Maurício, BRA, M, 1.74, 70, 22-06-01, São Paulo, Cruzeiro
+28, Pedro Henrique, BRA, M, 1.79, 72, 16-06-90, Novo Hamburgo, Sivasspor
+30, Johnny Cardoso, USA, M, 1.82, 78, 20-09-01, Denville, None
+32, Mikael, BRA, F, 1.84, 80, 28-05-99, Bacabal, Salernitana
+35, Alexandre Alemão, BRA, F, 1.82, 78, 01-04-98, Campo Erê, Avaí
+36, Thauan Lara, BRA, D, 1.76, 76, 22-01-04, Porto Alegre, None
+37, Lucas Ramos, BRA, M, 1.73, 66, 03-01-01, Sarandi, None
+40, Roberto, BRA, D, 1.88, 79, 03-06-98, Porto Alegre, None
+41, Matheus Dias, BRA, M, 1.87, 75, 09-05-02, São Paulo, Tombense
+44, Vitão, BRA, D, 1.86, 78, 02-02-00, Jacarezinho, Shakhtar Donetsk
+52, Emerson Junior, BRA, G, 1.96, 90, 07-02-00, Estância Velha, None
+77, Gustavo Maia, BRA, F, 1.68, 61, 22-01-01, Brasília, Barcelona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Botafogo (On Loan)
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, Retired
+22, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Corinthians
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, Atlético San Luis
+40, Tiago Barbosa, BRA, D, 1.96, 82, 12-02-01, Belo Horizonte, CSKA 1948 Sofia
+32, Bruno Gomes, BRA, M, 1.75, 70, 04-04-01, Rio de Janeiro, Coritiba (On Loan)
+2, Heitor, BRA, D, 1.74, 67, 05-11-00, Pelotas, Cercle Brugge (On Loan)
+9, Wesley, BRA, F, 1.91, 93, 26-11-96, Juiz de Fora, Aston Villa
+6, Paulo Victor, BRA, D, 1.80, 72, 13-04-01, Boicaúva, Vasco da Gama (On Loan)
+20, Moisés, BRA, D, 1.82, 79, 11-03-95, São Paulo, CSKA Moscow (On Loan)
+18, Matheus Cadorini, BRA, F, 1.92, 83, 01-09-02, Taubaté, Coritiba (On Loan)
+21, Gabriel Boschilia, BRA, M, 1.72, 63, 05-03-96, Piracicaba, Coritiba
+47, Caio Vidal, BRA, F, 1.72, 72, 04-11-00, Fortaleza, Bahia (On Loan)
+33, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Re-Registered (6)

@@ -1,0 +1,38 @@
+=  Nancy - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gennaro Bracigliano, FRA, G, 1.83, 82, 01-03-80, Forbach, None
+2, Helder, BRA, D, 1.75, 70, 13-04-88, Ribeirão Preto, Juventude
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+4, Cris Malonga, CGO, M, 1.83, 73, 11-07-87, Sens, Louhans-Cuiseaux
+5, André Luiz, BRA, D, 1.85, 84, 27-01-80, São João del Rei, Atlético Mineiro
+6, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Istres
+8, Frédéric Biancalani, FRA, D, 1.82, 76, 21-07-74, Villerupt, Walsall
+9, Veigar Páll Gunnarsson, ISL, F, 1.76, 74, 21-03-80, Reykjavik, Stabæk
+10, Issiar Dia, SEN, F, 1.72, 70, 08-06-87, Sèvres, Amiens
+11, Monsef Zerka, MAR, M, 1.83, 80, 31-08-81, Orléans, None
+12, Geoffrey Adjet, FRA, D, 1.82, 78, 15-04-88, Toulouse, Toulouse
+13, Damian Macaluso, URU, D, 1.81, 80, 09-03-80, Montevideo, River Plate [URU]
+14, Momar Faye, SEN, M, 1.75, 60, 21-12-87, Dakar, Génération Foot Dakar
+15, Youssouf Hadji, MAR, M, 1.83, 78, 25-02-80, Ifrane, Rennes
+16, Damien Gregorini, FRA, G, 1.94, 90, 02-03-79, Nice, Nice
+17, Gaston Curbelo, URU, F, 1.76, 76, 08-04-76, Nancy, Hurucan Buceo
+18, Julien Féret, FRA, M, 1.87, 74, 05-07-82, Saint Brieuc, Reims
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, None
+23, Jonathan Brison, FRA, M, 1.79, 73, 07-02-83, Soissons, None
+24, Benjamin Gavanon, FRA, M, 1.80, 75, 09-08-80, Marseille, Marseille
+26, Landry N'Guemo, CMR, M, 1.73, 70, 28-11-85, Yaoundé, None
+27, Abdeslam Ouaddou, MAR, D, 1.90, 78, 01-11-78, Ksar Azekour, Valenciennes
+29, Alfred N'Diaye, FRA, M, 1.87, 87, 06-03-90, Paris, None
+33, Amin Tighazoui, FRA, M, 1.68, 68, 20-04-89, Toul, None
+40, Thomas Gaudu, FRA, G, 1.85, 84, 04-04-87, Montereau-Fault-Yonne, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Johan Lapeyre, FRA, G, 1.78, 76, 03-08-85, Le Plessis-Bouchard, Entente SSG (On Loan)
+25, Adaílton, BRA, D, 1.71, 69, 26-12-79, Salvador, Retired
+7, Emmanuel Duchemin, FRA, M, 1.77, 75, 14-03-79, Amiens, Retired
+19, Basile Camerling, FRA, F, 1.85, 84, 19-04-87, Laxou, Clermont (On Loan)
+22, Marc-Antoine Fortuné, FRA, F, 1.82, 82, 02-07-81, Cayenne, WBA (On Loan)
+21, Jean Calvé, FRA, D, 1.83, 78, 30-04-84, Cormeilles-en-Parisis, Lorient (On Loan)

@@ -1,0 +1,59 @@
+=  FC Tokyo - Japanese J1 League 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Takuo Okubo, JPN, G, 1.90, 92, 18-09-89, Koto, V-Varen Nagasaki
+2, Sei Muroya, JPN, D, 1.74, 65, 05-04-94, Kumatori, Meiji Univ
+3, Masato Morishige, JPN, M, 1.79, 72, 21-05-87, Hiroshima, Oita Trinita
+4, Kazunori Yoshimoto, JPN, D, 1.85, 83, 24-04-88, Kodaira, None
+5, Yuichi Maruyama, JPN, D, 1.83, 73, 16-06-89, Tokyo, Meiji Univ
+6, Kosuke Ota, JPN, D, 1.78, 74, 23-07-87, Machida, Vitesse
+7, Takuji Yonemoto, JPN, M, 1.76, 63, 03-12-90, Itami, None
+8, Yojiro Takahagi, JPN, M, 1.83, 66, 02-08-86, Iwaki, FC Seoul
+9, Peter Utaka, NGA, F, 1.77, 79, 12-02-84, Enugu, Sanfrecce Hiroshima
+10, Yohei Kajiyama, JPN, M, 1.80, 77, 24-09-85, Koto, None
+13, Yoshito Ōkubo, JPN, F, 1.70, 73, 09-06-82, Kanda, Kawasaki Frontale
+14, Jang Hyun-Soo, KOR, D, 1.86, 79, 28-09-91, Seoul, Guangzhou R&F
+15, Kensuke Nagai, JPN, F, 1.77, 67, 05-03-89, Fukuyama, Nagoya Grampus
+18, Naohiro Ishikawa, JPN, M, 1.75, 68, 12-05-81, Yokosuka, Yokohama Marinos
+19, Tasuku Hiraoka, JPN, M, 1.65, 62, 23-02-96, Nara, Sakuyo HS
+20, Ryoichi Maeda, JPN, F, 1.83, 80, 09-10-81, Kobe, Júbilo Iwata
+21, Yu In-Soo, KOR, M, 1.77, 69, 28-12-94, , Kwangwoon Univ
+22, Yuhei Tokunaga, JPN, D, 1.79, 76, 25-09-83, Kunimi, None
+24, Wataru Sasaki, JPN, M, 1.74, 66, 28-07-96, Mitaka, None
+25, Ryoya Ogawa, JPN, D, 1.79, 72, 24-11-96, Tokyo, None
+26, Takahiro Yanagi, JPN, D, 1.83, 77, 05-08-97, Tokyo, None
+27, Sotan Tanabe, JPN, M, 1.75, 65, 06-04-90, Tokyo, None
+28, Takuya Uchida, JPN, M, 1.76, 68, 02-06-98, Chiba, None
+29, Makoto Okazaki, JPN, D, 1.80, 71, 10-10-98, Tokyo, None
+30, Riku Hirosue, JPN, G, 1.83, 78, 06-07-98, Adachi, Aomori Yamada HS
+31, Shuto Okaniwa, JPN, D, 1.69, 64, 16-09-99, Saitama, None
+32, Tsubasa Terayama, JPN, M, 1.78, 70, 10-04-00, Saitama, None
+33, Akihiro Hayashi, JPN, G, 1.95, 89, 07-05-87, Higashiyamato, Sagan Tosu
+34, Yoshiatsu Oiji, JPN, M, 1.77, 65, 02-04-98, Tokyo, None
+35, Yoshitake Suzuki, JPN, M, 1.82, 77, 06-07-98, Kokubunji, None
+36, Masayuki Yamada, JPN, D, 1.86, 75, 01-10-94, Saitama, Hosei Univ
+37, Kento Hashimoto, JPN, M, 1.79, 72, 16-08-93, Tokyo, None
+38, Keigo Higashi, JPN, M, 1.77, 63, 20-07-90, Kitakyushu, Omiya Ardija
+39, Ryuji Daimoto, JPN, G, 1.75, 70, 01-05-00, Tokyo, None
+40, Rei Hirakawa, JPN, M, 1.75, 67, 20-04-00, Tokyo, None
+41, Takefusa Kubo, JPN, M, 1.70, 63, 04-06-01, Kanagawa, None
+42, Mao Kobayashi, JPN, M, 1.74, 64, 13-07-99, Tokyo, None
+43, Manato Shinada, JPN, M, 1.80, 66, 19-09-99, Saitama, None
+44, Konosuke Kusazumi, JPN, D, 1.76, 67, 12-07-00, Tokyo, None
+45, Taichi Hara, JPN, F, 1.87, 73, 05-05-99, Tokyo, None
+46, Kazuna Takase, JPN, G, 1.81, 76, 06-08-99, Tokyo, None
+47, Kan Kobayashi, JPN, M, 1.82, 72, 27-04-99, Tokyo, None
+48, Kazuki Tanaka, JPN, F, 1.73, 66, 13-01-00, Tochigi, None
+49, Koki Hasegawa, JPN, D, 1.78, 69, 27-04-99, Tokyo, None
+50, Go Hatano, JPN, G, 1.95, 82, 25-05-98, Musashimurayama, None
+51, Lipe Veloso, BRA, M, 1.79, 76, 07-04-97, Ribeirão Preto, Palmeiras
+52, Jakkit Wachpirom, THA, M, 1.73, 70, 26-01-97, Chantaburi, Bangkok U
+53, Ryoichi Imamura, JPN, F, 1.79, 62, 08-05-00, Kanagawa, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Takuma Abe, JPN, F, 1.71, 72, 05-12-87, Kodaira, Ulsan Hyundai
+16, Nathan Burns, AUS, F, 1.78, 70, 07-05-88, Orange, Sanfrecce Hiroshima
+17, Hiroki Kawano, JPN, M, 1.65, 58, 30-03-90, Sagamihara, Sagan Tosu
+23, Shoya Nakajima, JPN, M, 1.64, 58, 23-08-94, Hachioji, Portimonense (On Loan)

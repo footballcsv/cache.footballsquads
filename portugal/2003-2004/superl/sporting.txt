@@ -1,0 +1,61 @@
+=  Sporting CP - Portuguese Superliga 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nélson, G, 6'02'', 12 01, 20-10-75, Torres Vedras, Torreense
+2, Facundo Hernan Quiroga, D, 5'10'', 12 00, 10-01-78, San Luis, Napoli
+3, Rui Bento, M, 5'09'', 10 10, 14-01-72, Silves, Boavista
+4, Anderson Polga, D, 6'00'', 11 07, 09-02-79, Santiago, Grêmio
+5, Carlos Martins, M, 5'08'', 11 07, 29-04-82, Lisbon, None
+6, Hugo, D, 6'00'', 12 01, 11-08-76, Braga, Sampdoria
+8, Pedro Barbosa, M, 6'00'', 12 08, 06-08-70, Gondomar, Vitória Guimarães
+9, Marius Niculae, F, 6'01'', 12 08, 16-05-81, Bucharest, Dinamo Bucharest
+10, Sá Pinto, F, 5'10'', 11 03, 10-10-72, Oporto, Real Sociedad
+11, Rodrigo Tello, M, 5'07'', 10 10, 14-10-79, Santiago, Colo-Colo
+12, Tiago, G, 5'11'', 11 05, 16-04-75, A-dos-Cunhados, Estrela da Amadora
+13, Nuno Santos, G, 6'00", 12 08, 09-07-78, Coimbra, Estrela da Amadora
+14, Fernando Dinis, D, 6'00", 13 01, 25-07-82, Vila Real, Vila Real
+15, Miguel Garcia, D, 5'10'', 11 09, 04-02-83, Moura, AC Moura
+16, Lourenço da Silva, F, 5'08'', 11 05, 05-06-83, Luanda, None
+17, Paulo Bento, M, 5'09'', 11 05, 20-06-69, Lisbon, Oviedo
+19, Elpídio Silva, F, 5'10'', 13 10, 19-07-75, Campina Grande, Boavista
+21, Paíto, D, 5'07'', 11 00, 05-07-82, Maputo, None
+22, Beto, D, 6'01'', 12 13, 03-05-76, Lisbon, None
+23, Rui Jorge, D, 5'08'', 12 01, 27-03-73, Vila Nova de Gaia, FC Porto
+24, Mário Sérgio, D, 5'09'', 11 00, 28-07-81, Paredes, Paços de Ferreira
+25, João Pinto, F, 5'07'', 10 08, 19-08-71, Oporto, Benfica
+26, Fabio Rochemback, M, 6'00'', 13 01, 10-12-81, Soledade, Barcelona
+27, Custódio, M, 5'11'', 11 11, 24-05-83, Guimarães, Vitória Guimarães
+29, Clayton, M, 5'09'', 10 08, 19-07-75, São João do Paraiso, FC Porto
+30, Toñito, M, 5'07'', 10 03, 24-02-77, Tenerife, Santa Clara
+31, Liedson, F, 5'09'', 10 03, 17-12-77, Cairú, Corinthians
+33, Beto II, G, 5'11", 11 11, 01-05-82, Lisbon, None
+34, Pedro Araújo, M, 5'09", 11 11, 10-01-85, Famalicão, None
+35, Chiquinho, F, 5'10", 12 08, 28-09-80, Lisbon, União Leiria
+36, Carlos Saleiro, F, 6'01", 12 00, 25-02-86, Lisbon, None
+37, Hugo Machado, M, 5'09", 11 03, 04-07-82, Lisbon, None
+40, Christopher Pilar, G, 5'11", 12 01, 29-03-85, Dijon, Benfica
+41, Tiego Ferreira, G, 6'01", 12 11, 24-03-84, Caldas da Raínha, Alverca
+42, Miguel Pinheiro, M, 5'09", 10 03, 21-10-83, Alcobaça, GD Alcobaça
+43, Semedo, M, 5'07", 11 00, 11-01-85, Setúbal, None
+44, Hugo Moutinho, M, 5'10", 11 03, 01-01-82, Lisbon, Estrela da Amadora
+45, Santamaria, D, 5'07", 10 06, 11-02-82, Pontinha, Santa Maria
+46, Edgar Marcelino, F, 5'07", 11 00, 10-09-84, Coimbra, Académica
+47, José Fonte, D, 6'01", 11 07, 22-12-83, Penafiel, CAC Pontinha
+48, Hugo Pina, M, 5'08", 11 03, 16-02-84, Lisbon, Belenenses
+49, Miguel Ângelo, D, 6'00", 11 11, 10-10-84, Lisbon, None
+50, Carlos Marques, D, 5'09", 10 03, 06-02-83, Lisbon, None
+53, Hugo Valdir, D, 5'07", 09 13, 01-01-84, Olhão, SC Olhanense
+55, Sidney, F, 5'10", 11 05, 03-03-85, Lisbon, Vitória Guimarães
+56, Bruno Caires, M, 6'00", 12 00, 02-04-76, Lisbon, Celta Vigo
+57, Tiago Almeida, D, 5'09", 10 06, 15-04-84, Lisbon, CAC Pontinha
+58, Mateus, F, 5'09", 11 03, 18-06-84, Kwanza Norte, Desportivo de Beja
+59, Yannick, F, 5'05", 10 03, 05-05-86, Guinea Bissau, Estação da Covilhã
+60, Gisvi, F, 6'00", 13 05, 06-03-82, Namibia, Alcanenense
+76, Ricardo Pereira, G, 6'01'', 12 08, 11-02-76, Montijo, Boavista
+77, Tinga, M, 5'07", 10 03, 13-01-78, Porto Alegre, Grêmio
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Paulo Sérgio, F, 5'05", , 24-01-84, , Académica (On Loan)
+18, Luís Filipe, F, 6'00'', 11 11, 14-06-79, Cantanhede, União Leiria (On Loan)

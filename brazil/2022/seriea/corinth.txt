@@ -1,0 +1,59 @@
+=  Corinthians - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Rafael Ramos, POR, D, 1.70, 70, 09-01-95, Santa Marinha, Santa Clara
+3, Robson Bambu, BRA, D, 1.84, 70, 12-11-97, São Vicente, Nice
+4, Gil, BRA, D, 1.90, 89, 12-06-87, Campos dos Goytacazes, Shandong Luneng
+5, Maycon, BRA, M, 1.75, 66, 15-07-97, São Paulo, Shakhtar Donetsk
+6, Lucas Piton, BRA, D, 1.75, 64, 09-10-00, Jundiaí, None
+8, Renato Augusto, BRA, M, 1.85, 81, 08-02-88, Rio de Janeiro, Beijing Guoan
+9, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, Zenit St Petersburg
+10, Róger Guedes, BRA, F, 1.82, 67, 02-10-96, Ibirubá, Shandong Luneng
+11, Giuliano, BRA, M, 1.72, 68, 31-05-90, Curitiba, İstanbul Başakşehir
+12, Cássio, BRA, G, 1.95, 92, 06-06-87, Veranópolis, PSV Eindhoven
+13, Lucas Belezi, BRA, D, 1.86, 67, 08-05-03, São Paulo, None
+14, Guilherme Biro, BRA, D, 1.77, 69, 20-04-04, Campinas, None
+15, Paulinho, BRA, M, 1.81, 81, 25-07-88, São Paulo, Al-Ahli Saudi
+16, Léo Mana, BRA, D, 1.79, 66, 06-04-04, São Paulo, None
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Grêmio
+18, Júnior Moraes, UKR, F, 1.76, 70, 04-04-87, Santos, Shakhtar Donetsk
+19, Gustavo Silva, BRA, F, 1.69, 63, 07-09-97, Campo Largo, Coritiba
+20, Matheus Araújo, BRA, M, 1.76, 70, 22-05-02, Osasco, None
+21, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Vasco da Gama
+22, Carlos Miguel, BRA, G, 2.04, 72, 09-10-98, Rio de Janeiro, Internacional
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, Wolfsburg
+24, Víctor Cantillo, COL, M, 1.80, 78, 15-10-91, Ciénaga, Junior
+25, Bruno Méndez, URU, D, 1.84, 78, 10-09-99, Montevideo, Montevideo Wanderers
+26, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Atlético Mineiro
+27, Bruno Melo, BRA, D, 1.83, 72, 26-10-92, Paracuru, Fortaleza
+28, Adson, BRA, F, 1.71, 64, 06-10-00, Araguapaz, None
+29, Roni, BRA, M, 1.74, 68, 15-04-99, São Paulo, None
+30, Robert Renan, BRA, D, 1.86, 78, 11-10-03, Brasília, None
+31, Fabián Balbuena, PAR, D, 1.88, 82, 23-08-91, Ciudad del Este, Dynamo Moscow
+32, Matheus Donelli, BRA, G, 1.89, 76, 17-05-02, São Paulo, None
+33, Fausto Vera, ARG, M, 1.76, 72, 26-03-00, Hurlingham, Argentinos Juniors
+34, Raul Gustavo, BRA, D, 1.90, 78, 24-04-99, Minas Gerais, None
+36, Ruan Oliveira, BRA, M, 1.76, 68, 23-03-00, Paraíso do Norte, Metropolitano
+37, Du Queiroz, BRA, M, 1.72, 70, 07-01-00, São Paulo, None
+38, Arthur Sousa, BRA, F, 1.84, 72, 12-03-03, Brasília, None
+39, Xavier, BRA, M, 1.83, 79, 02-03-00, Mococa, None
+41, Felipe Augusto, BRA, F, -, -, 18-02-04, São Paulo, None
+42, Giovane, BRA, F, 1.84, 83, 24-11-03, Santa Bárbara d'Oeste, Capivariano
+47, Wesley Gassova, BRA, F, 1.75, 71, 05-03-05, São Paulo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Ceará
+25, Giovane, BRA, F, 1.84, 83, 24-11-03, Santa Bárbara d'Oeste, Capivariano
+2, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, FC Porto
+21, Rafael Ramos, POR, D, 1.70, 70, 09-01-95, Santa Marinha, Re-Registered (2)
+33, João Victor, BRA, D, 1.87, 80, 17-07-98, Bauru, Benfica
+40, Guilherme Vicentini, BRA, G, 1.88, 80, 25-05-00, Jundiaí, Akritas Chlorakas
+1, Ivan, BRA, G, 1.84, 64, 02-07-97, Rio das Pedras, Zenit St Petersburg (On Loan)
+31, Gustavo Mantuan, BRA, M, 1.76, 66, 20-06-01, São Paulo, Zenit St Petersburg (On Loan)
+25, Giovane, BRA, F, 1.84, 83, 24-11-03, Santa Bárbara d'Oeste, Capivariano
+7, Luan, BRA, M, 1.80, 71, 27-03-93, São José do Rio Preto, Santos (On Loan)
+10, Willian, BRA, M, 1.75, 77, 09-08-88, Ribeirão Pires, Fulham
+7, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, Re-Registered (9)
+9, Róger Guedes, BRA, F, 1.82, 67, 02-10-96, Ibirubá, Re-Registered (10)

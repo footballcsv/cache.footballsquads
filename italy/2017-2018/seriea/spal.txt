@@ -1,0 +1,48 @@
+=  SPAL - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alfred Gomis, SEN, G, 1.96, 80, 05-09-93, Ziguinchor, Torino
+4, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, Palermo
+5, Lorenco Šimić, CRO, D, 1.95, 89, 15-07-96, Split, Sampdoria
+7, Mirco Antenucci, ITA, F, 1.81, 77, 08-09-84, Termoli, Leeds U
+9, Federico Bonazzoli, ITA, F, 1.82, 72, 21-05-97, Manerbio, Sampdoria
+10, Sergio Floccari, ITA, F, 1.81, 81, 12-11-81, Vibo Valentia, Bologna
+12, Pa Konate, SWE, D, 1.78, 70, 25-04-94, Malmö, Malmö FF
+14, Federico Mattiello, ITA, D, 1.82, 73, 14-07-95, Barga, Atalanta
+15, Sauli Väisänen, FIN, D, 1.88, 75, 05-06-94, Helsinki, AIK
+17, Giacomo Poluzzi, ITA, G, 1.86, 78, 25-02-88, Bologna, Fidelis Andria
+18, Eros Schiavon, ITA, M, 1.78, 74, 24-04-83, Piove di Sacco, Avellino
+19, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Atalanta
+21, Bartosz Salamon, POL, D, 1.94, 78, 01-05-91, Poznań, Cagliari
+22, Marco Borriello, ITA, F, 1.86, 85, 18-06-82, Naples, Cagliari
+23, Francesco Vicari, ITA, D, 1.90, 80, 03-08-94, Rome, Novara
+24, Mattia Vitale, ITA, M, 1.77, 79, 01-10-97, Bologna, Juventus
+25, Everton Luiz, BRA, M, 1.72, 70, 24-05-88, Porto Alegre, Partizan Belgrade
+27, Felipe, BRA, D, 1.87, 80, 31-07-84, Guaratingueta, Udinese
+28, Pasquale Schiattarella, ITA, M, 1.76, 73, 30-05-87, Mugnano di Napoli, Latina
+29, Manuel Lazzari, ITA, M, 1.74, 67, 29-11-93, Valdagno, Giacomense
+30, Giacomo Boccafoglia, ITA, D, 1.80, 75, 01-12-98, Ferrara, None
+33, Filippo Costa, ITA, D, 1.75, 70, 21-05-95, Noventa Vicentina, Chievo Verona
+43, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, Atalanta
+77, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Verona
+85, Boukary Dramé, SEN, D, 1.81, 74, 22-07-85, Villepinte, Atalanta
+87, Pio Francesco Russo, ITA, M, , , 01-03-99, Naples, Internazionale
+88, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Napoli
+92, Gabriele Marchegiani, ITA, G, 1.89, 88, 03-06-96, Rome, Roma
+93, Luca Seri, ITA, G, , , 09-12-99, Comacchio, None
+97, Alex Meret, ITA, G, 1.90, 82, 22-03-97, Udine, Udinese
+98, Renato Vischi, BRA, D, 1.83, 72, 30-05-98, Mirassol, Vicenza
+99, Barbosa, BRA, F, 1.94, 81, 17-03-99, Anápolis, Palmeiras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Lorenzo Polvani, ITA, D, 1.88, 81, 26-07-94, Pistoia, Empoli
+5, Daniele Gasparetto, ITA, D, 1.95, 80, 06-04-88, Montebelluna, Ternana
+99, Leonardo Ubaldi, ITA, F, , , 09-07-99, Terni, Castelvetro (On Loan)
+2, Marios Oikonomou, GRE, D, 1.89, 77, 06-10-92, Giannina, Bologna
+11, Luca Rizzo, ITA, M, 1.85, 77, 24-04-92, Genoa, Bologna
+5, Fabio Della Giovanna, ITA, D, 1.82, 75, 21-03-97, Vizzolo Predabissi, Arezzo (On Loan)
+20, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, Spezia
+8, Alessandro Bellemo, ITA, M, 1.84, 82, 07-08-95, Chioggia, Padova (On Loan)
+6, Michele Cremonesi, ITA, D, 1.84, 80, 15-04-88, Cremona, Virtus Entella (On Loan)

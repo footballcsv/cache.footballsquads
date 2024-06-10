@@ -1,0 +1,77 @@
+=  Vasas - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ľuboš Ilizi, SVK, G, 1.91, 83, 13-10-82, Nitra, Viktoria Plzeň
+2, Balázs Tóth, HUN, M, 1.83, 82, 02-03-80, Kaposvár, Gyírmót
+3, Gábor Varga, HUN, D, 1.78, 75, 20-08-85, Csorna, Lombard Pápa
+4, Máté Tóth, HUN, D, 1.90, 75, 21-01-91, Budapest, Hradec Králové
+5, Haris Mehmedagić, CRO, D, 1.78, 72, 29-03-88, Zagreb, Lučko
+6, Gábor Kovács, HUN, D, 1.90, 84, 04-09-87, Budapest, Pécs
+7, Jusuf Dajić, BIH, F, 1.79, 78, 21-08-84, Doboj, Shanghai East Asia
+8, Daniel Kovács, HUN, M, 1.84, 82, 27-07-90, Budapest, APEP
+9, Bence Szabó, HUN, F, 1.90, 81, 10-01-90, Budapest, Újpest
+10, Zsolt Bárányos, HUN, M, 1.85, 77, 15-12-75, Budapest, Lombard Pápa
+11, Ádám Kovács, HUN, F, 1.86, 83, 14-04-91, Budapest, Nyíregyháza
+12, Péter Halasi, HUN, G, 1.85, 80, 08-05-90, Székesfehérvár, Videoton
+13, Zoltán Takács, HUN, D, 1.90, 78, 26-11-83, Budapest, Újpest
+14, Zoltán Hercegfalvi, HUN, F, 1.80, 81, 31-12-79, Budapest, Honvéd
+15, Máté Katona, HUN, M, 1.82, 81, 16-02-90, Budapest, Újpest
+16, Balázs Venczel, HUN, M, 1.82, 83, 06-09-86, Szombathely, Lombard Pápa
+17, Zoltán Farkas, HUN, M, 1.85, 82, 07-10-89, Kaposvár, Kaposvár
+18, Dávid Görgényi, HUN, D, 1.84, 74, 16-08-90, Mór, Oroszlány
+19, Tamás Kiss, HUN, D, 1.76, 73, 22-10-87, Budapest, REAC
+20, Zsolt Merczel, HUN, M, 1.80, 78, 07-03-90, Budapest, BKV Előre
+21, Csaba Ferkó, HUN, M, 1.80, 73, 07-07-87, Budapest, Tatabánya
+22, Gábor Polényi, HUN, D, 1.80, 72, 02-07-91, Miskolc, Diósgyőr
+23, Artur Papazsinszkij, HUN, D, 1.91, 84, 30-04-88, Nyíregyháza, Videoton
+24, Patrik Csoór, HUN, F, 1.77, 72, 11-01-91, Salgótarján, Ferencváros
+25, József Boda, HUN, F, 1.86, 83, 27-01-92, Budapest, None
+26, Marcell Matolcsi, HUN, D, 1.86, 76, 01-02-91, Budapest, None
+28, Zsolt Huszárik, HUN, M, 1.78, 76, 04-08-89, Budapest, Tisza Volán
+30, Szabolcs Gál, HUN, D, 1.84, 81, 31-03-92, Nyíregyháza, Diósgyőr
+31, Áron Mészáros, HUN, M, 1.82, 78, 24-12-92, Esztergom, Esztergom
+33, Dušan Mileusnić, SRB, D, 1.86, 77, 10-04-84, Belgrade, BASK
+34, Reida Salem, HUN, D, 1.86, 81, 13-06-91, Budapest, None
+35, Ferenc Stranigg, HUN, M, 1.82, 77, 23-11-91, Budapest, Videoton
+37, Dániel Dékány, HUN, M, 1.87, 82, 30-04-90, Budapest, None
+41, Balázs Farkas, HUN, M, 1.78, 80, 15-10-79, Győr, Videoton
+66, Gábor Gyepes, HUN, D, 1.91, 83, 26-06-81, Budapest, Cardiff C
+87, Kasali Yinka Casal, NGA, M, 1.87, 80, 21-10-87, London, CFR Cluj
+88, Péter Simek, HUN, M, 1.84, 79, 30-01-80, Mór, Újpest
+99, Bradley Hudson-Odoi, GHA, F, 1.78, 74, 29-11-88, Accra, Thurrock
+, Levente Kőbányai, HUN, D, 1.87, 85, 29-08-91, Budapest, Videoton
+, Róbert Dobó, HUN, F, 1.83, 78, 19-03-91, Budapest, Vecsés
+, Dávid Sebestyén, HUN, F, 1.85, 77, 25-03-88, Budapest, BKV Előre
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Roland Mundi, HUN, M, 1.70, 68, 09-06-88, Budapest, Szolnok
+27, Zsolt Balog, HUN, D, 1.84, 79, 10-11-78, Békéscsaba, Eger
+70, Kazuo Homma, JPN, F, 1.75, 70, 17-03-80, Tokyo, Ferencváros
+86, Ivan Janjušević, MNE, G, 1.94, 86, 11-07-86, Nikšić, 
+13, Dávid Radványi, SVK, D, 1.86, 79, 19-09-89, , Nyíregyháza (On Loan)
+2, Makadji Boukar, CMR, D, 1.76, 73, 19-01-84, Yaoundé, 
+16, Marcell Matolcsi, HUN, D, 1.86, 76, 01-02-91, Budapest, Re-Registered (26)
+55, László Sütő, HUN, D, 1.88, 81, 18-04-86, Szombathely, MTK
+8, Szabolcs Bakos, HUN, M, 1.85, 72, 04-02-87, Budapest, Baja (On Loan)
+3, Dušan Mileusnić, SRB, D, 1.86, 77, 10-04-84, Belgrade, Re-Registered (33)
+4, Mirel Sorin Soare, ROU, D, 1.92, 83, 14-05-87, , 
+14, Lazar Arsić, SRB, M, 1.73, 64, 24-09-91, Belgrade, Lombard Pápa
+92, Róbert Ambrusics, HUN, G, 1.93, 86, 21-01-92, Pécs, Cambridge U
+87, Jurica Pranjić, CRO, D, 1.87, 81, 16-12-87, Osijek, 
+19, Miloš Jokić, SRB, M, 1.86, 77, 07-06-87, Čačak, Metalurh Zaporizhya
+20, Szabolcs Gál, HUN, D, 1.84, 81, 31-03-92, Nyíregyháza, Re-Registered (30)
+33, Kasali Yinka Casal, NGA, M, 1.87, 80, 21-10-87, London, Re-Registered (87)
+26, Balázs Farkas, HUN, M, 1.78, 80, 15-10-79, Győr, Re-Registered (41)
+28, Péter Simek, HUN, M, 1.84, 79, 30-01-80, Mór, Re-Registered (88)
+88, Bradley Hudson-Odoi, GHA, F, 1.78, 74, 29-11-88, , Re-Registered (99)
+17, Marko Šimić, CRO, F, 1.87, 79, 23-01-88, Rijeka, Ferencváros
+36, József Gáspár, SVK, D, 1.91, 85, 23-08-77, Rožňava, Retired
+9, Gergõ Beliczky, HUN, F, 1.88, 84, 03-07-90, Budapest, Ferencváros
+13, Gábor Kocsis, HUN, D, 1.88, 80, 30-11-85, Székesfehérvár, Dunaújváros
+7, Dávid Kulcsár, HUN, M, 1.80, 80, 25-02-88, Miskolc, Ferencváros
+2, László Szűcs, HUN, D, 1.90, 87, 14-03-91, Budapest, Sárisápi Bányász (On Loan)
+24, Ádám Balla, HUN, F, 1.81, 73, 12-01-91, Budapest, Vasas II
+27, Zoltán Farkas, HUN, M, 1.85, 82, 07-10-89, Kaposvár, Re-Registered (17)
+23, Tamás Rubus, HUN, D, 1.86, 82, 13-07-89, Békéscsaba, Újpest

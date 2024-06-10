@@ -1,0 +1,50 @@
+=  Flamengo - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bruno, BRA, G, 1.90, 87, 23-12-84, Belo Horizonte, Corinthians
+2, Leonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Sporting Braga
+3, Fábio Luciano, BRA, D, 1.90, 80, 29-04-75, Vinmedo, Köln
+4, Ronaldo Angelim, BRA, D, 1.77, 70, 29-11-75, São Paulo, Fortaleza
+5, Jônatas, BRA, M, 1.81, 74, 29-07-82, Fortaleza, Espanyol
+6, Juan, BRA, D, 1.67, 66, 06-02-82, São Paulo, Fluminense
+7, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, FC Porto
+8, Gonzalo Fierro, CHI, F, 1.71, 70, 21-03-83, Santiago, Colo-Colo
+9, Josiel, BRA, F, 1.74, 75, 07-08-80, Rodeiro Bonito, Al-Wahda
+10, Rubens Sambueza, ARG, M, 1.74, 73, 01-01-84, Mariano Moreno, River Plate
+11, Marcelinho, BRA, F, 1.74, 73, 17-05-75, Campina Grande, Wolfsburg
+13, Luizinho, BRA, D, 1.69, 68, 05-11-82, Divinópolis, Cruzeiro
+14, Jaílton, BRA, M, 1.78, 73, 19-04-82, Aracaju, Ipatinga
+15, Kléberson, BRA, M, 1.75, 64, 19-06-79, Urai, Beşiktaş
+17, Maximiliano Biancucchi, ARG, F, 1.65, 68, 15-09-84, Rosario, Sportivo Luqueño
+18, Obina, BRA, F, 1.83, 86, 31-01-83, Vera Cruz, Vitória-BA
+19, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Nova Iguaçu
+20, Diego, BRA, G, 1.86, 87, 02-02-82, São Gonçalo, None
+21, Toró, BRA, M, 1.69, 72, 13-04-86, Rio de Janeiro, Fluminense
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, Paraná
+23, Leonardo, BRA, D, 1.84, 84, 12-03-77, Juiz de Fora, Goiás
+25, Thiago Sales, BRA, D, 1.80, 78, 07-05-87, Rio de Janeiro, None
+26, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, São Paulo
+27, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+33, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, None
+34, Dininho, BRA, D, 1.83, 77, 23-07-75, Itapagipe, Palmeiras
+35, Paulo Sérgio, BRA, F, 1.81, 71, 11-06-89, Rio de Janeiro, None
+36, Erick Flores, BRA, M, 1.69, 60, 30-04-89, Rio de Janeiro, None
+40, Eltinho, BRA, D, 1.71, 66, 07-07-87, Guaira, Desportivo Brasil
+41, Vandinho, BRA, F, 1.78, 76, 24-08-86, Londrina, Desportivo Brasil
+42, Bruno Paulo, BRA, F, 1.76, 75, 14-09-90, Rio de Janeiro, None
+43, Fernando, BRA, M, 1.83, 70, 16-07-86, Goiânia, Mixto
+44, Fernandão, BRA, F, 1.92, 85, 27-03-87, Rio de Janeiro, Tombense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Diego Gavilán, PAR, M, 1.72, 67, 12-04-81, Asunción, Portuguesa
+28, Rodrigo Arroz, BRA, D, 1.83, 76, 21-03-84, Valença, Belenenses
+10, Renato Augusto, BRA, M, 1.85, 81, 08-02-88, Rio de Janeiro, Bayer Leverkusen
+22, Marcinho, BRA, M, 1.71, 74, 20-07-84, Irapuã, Ipatinga
+9, Souza, BRA, F, 1.88, 87, 04-03-82, Rio de Janeiro, Panathinaikos
+26, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Juventude (On Loan)
+29, Rômulo, BRA, M, 1.86, 78, 04-02-87, Caxias do Sul, Paraná (On Loan)
+31, Éder, BRA, F, 1.79, 71, 09-01-87, Campinas, Paraná (On Loan)
+11, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Re-Registered (26)
+16, Cristian Baroni, BRA, M, 1.83, 82, 25-06-83, Belo Horizonte, Corinthians

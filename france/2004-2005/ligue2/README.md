@@ -1,0 +1,23 @@
+# French Ligue 2 2004/05
+
+20 teams
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Dijon](dijon.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Guingamp](guinga.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Le Mans](lemans.txt)
+- [Lorient](lorient.txt)
+- [Montpellier](montpel.txt)
+- [Nancy](nancy.txt)
+- [Niort](niort.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Troyes](troyes.txt)

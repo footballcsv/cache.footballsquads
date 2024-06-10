@@ -1,0 +1,54 @@
+=  Liverpool - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brad Jones, AUS, G, 1.91, 76, 19-03-82, Armadale, Middlesbrough
+2, Glen Johnson, ENG, D, 1.82, 70, 23-08-84, Greenwich, Portsmouth
+3, José Enrique, ESP, D, 1.84, 82, 23-01-86, Valencia, Newcastle U
+4, Kolo Touré, CIV, D, 1.83, 76, 19-03-81, Sokoura Bouaké, Manchester C
+5, Daniel Agger, DEN, D, 1.87, 75, 12-12-84, Hvidovre, Brøndby
+6, Luis Alberto, ESP, M, 1.82, 70, 28-09-92, Jerez de la Frontera, Sevilla
+7, Luis Suárez, URU, F, 1.81, 81, 24-01-87, Salto, Ajax
+8, Steven Gerrard, ENG, M, 1.83, 79, 30-05-80, Whiston, None
+9, Iago Aspas, ESP, F, 1.76, 67, 11-08-87, Moaña, Celta Vigo
+10, Philippe Coutinho, BRA, M, 1.71, 68, 12-06-92, Rio de Janeiro, Internazionale
+12, Victor Moses, NGA, F, 1.77, 75, 12-12-90, Lagos, Chelsea
+14, Jordan Henderson, ENG, M, 1.82, 67, 17-06-90, Sunderland, Sunderland
+15, Daniel Sturridge, ENG, F, 1.88, 76, 01-09-89, Birmingham, Chelsea
+17, Mamadou Sakho, FRA, D, 1.87, 83, 13-02-90, Paris, Paris St-Germain
+20, Aly Cissokho, FRA, D, 1.81, 75, 15-09-87, Blois, Valencia
+21, Lucas Leiva, BRA, M, 1.79, 74, 09-01-87, Dourados, Grêmio
+22, Simon Mignolet, BEL, G, 1.93, 87, 06-03-88, Sint-Truiden, Sunderland
+24, Joe Allen, WAL, M, 1.68, 62, 14-03-90, Carmarthen, Swansea C
+31, Raheem Sterling, ENG, M, 1.70, 69, 08-12-94, Kingston, QPR
+33, Jordon Ibe, ENG, F, 1.75, 70, 08-12-95, Southwark, Wycombe W
+34, Martin Kelly, ENG, D, 1.91, 77, 27-04-90, Bolton, None
+36, Samed Yeşil, GER, F, 1.78, 72, 25-05-94, Düsseldorf, Bayer Leverkusen
+37, Martin Škrteľ, SVK, D, 1.91, 81, 15-12-84, Handlová, Zenit St Petersburg
+38, Jon Flanagan, ENG, D, 1.81, 79, 21-01-93, Liverpool, None
+41, Jack Dunn, ENG, M, 1.72, 67, 19-11-94, Liverpool, None
+42, Jordan Williams, WAL, M, 1.83, 77, 06-11-95, Bangor, Wrexham
+43, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, None
+44, Brad Smith, AUS, D, 1.78, 70, 09-04-94, Penrith [AUS], None
+45, Stephen Sama, GER, D, 1.88, 83, 05-03-93, Bamenda, Borussia Dortmund
+46, Jordan Rossiter, ENG, M, 1.72, 68, 24-03-97, Liverpool, None
+48, Jerome Sinclair, ENG, F, 1.73, 79, 20-09-96, Birmingham, WBA
+50, Cameron Brannagan, ENG, M, 1.80, 71, 09-05-96, Manchester, None
+51, Lloyd Jones, ENG, D, 1.90, 75, 07-10-95, Plymouth, None
+52, Danny Ward, WAL, G, 1.91, 88, 22-06-93, Wrexham, Wrexham
+53, João Teixeira, POR, M, 1.67, 66, 18-01-93, Braga, Sporting CP
+54, Kristoffer Peterson, SWE, M, 1.80, 70, 28-11-94, Gothenburg, Sävedalens IF
+55, Jordan Lussey, ENG, M, 1.77, 68, 02-11-94, Ormskirk, None
+56, Rafa Páez, ESP, D, 1.92, 80, 10-08-94, Orihuela, Real Madrid
+60, Connor Randall, ENG, D, 1.80, 76, 21-10-95, Liverpool, None
+61, Daniel Trickett-Smith, ENG, M, 1.75, 65, 08-09-95, Newcastle-under-Lyme, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Oussama Assaidi, MAR, M, 1.78, 70, 05-08-88, Beni Boughafar, Stoke C (On Loan)
+12, Daniel Pacheco, ESP, F, 1.68, 67, 05-01-91, Málaga, Alcorcón
+29, Fabio Borini, ITA, F, 1.80, 74, 29-03-91, Bentivoglio, Sunderland (On Loan)
+47, Andre Wisdom, ENG, D, 1.86, 78, 09-05-93, Leeds, Derby Co (On Loan)
+50, Adam Morgan, ENG, F, 1.79, 71, 21-04-94, Liverpool, Yeovil T
+26, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, London, Granada (On Loan)
+16, Sebastián Coates, URU, D, 1.96, 88, 07-10-90, Montevideo, Nacional [URU] (On Loan)

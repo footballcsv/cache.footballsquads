@@ -1,0 +1,61 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martín Silva, URU, G, 1.86, 80, 25-03-83, Montevideo, Olimpia [PAR]
+2, Rafael Galhardo, BRA, D, 1.76, 70, 30-10-91, Nova Friburgo, Cruzeiro
+3, Oswaldo Henríquez, COL, D, 1.86, 79, 10-03-89, Santa Marta, Sport Recife
+4, Breno, BRA, D, 1.87, 83, 13-10-89, Cruzeiro, São Paulo
+5, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, Vélez Sarsfield
+6, Fabricio, BRA, D, 1.85, 72, 11-01-87, São Paulo, Cruzeiro
+7, Kelvin, BRA, F, 1.75, 71, 01-06-93, Paraná, FC Porto
+8, Thiago Galhardo, BRA, M, 1.82, 69, 20-07-89, São João del Rei, Coritiba
+9, Andrés Ríos, ARG, F, 1.79, 78, 08-01-89, Capital Federal, Defensa y Justicia
+11, Maxi López, ARG, F, 1.90, 81, 03-04-84, Capital Federal, Udinese
+13, Luiz Gustavo, BRA, D, 1.77, 65, 12-02-94, Valentim Gentil, Palmeiras
+14, Ricardo, BRA, D, 1.83, 70, 16-02-97, Rio de Janeiro, None
+15, Andrey, BRA, M, 1.75, 73, 15-02-98, Rio de Janeiro, None
+17, Rildo, BRA, F, 1.80, 67, 20-03-89, São Paulo, Coritiba
+18, Lenon, BRA, D, 1.77, 65, 02-05-90, São Paulo, Guarani
+21, Willian Maranhão, BRA, M, 1.79, 80, 14-12-95, São Luís, Boavista-RJ
+22, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Paysandu
+23, Caio Monteiro, BRA, F, 1.77, 67, 10-02-97, Rio de Janeiro, None
+24, João Pedro, BRA, G, 1.88, 84, 28-01-98, Rio de Janeiro, None
+25, Leandro Castán, BRA, D, 1.84, 80, 05-11-86, Jaú, Roma
+26, Giovanni Augusto, BRA, M, 1.75, 65, 05-09-89, Belém, Corinthians
+27, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Antalyaspor
+29, Bruno Silva, BRA, M, 1.83, 84, 15-02-88, Sorocaba, Ferroviária
+30, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Zaragoza
+31, Raul, BRA, M, 1.80, 73, 11-07-96, Tauá, Ceará
+32, Bruno Cosendey, BRA, M, 1.85, 78, 25-01-97, Rio de Janeiro, None
+33, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Vitória
+34, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Coritiba
+35, Miranda, BRA, D, 1.81, 73, 19-01-00, Magé, None
+36, Lucas Kal, BRA, D, 1.85, 78, 16-03-96, São Paulo, São Paulo
+37, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, None
+38, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, None
+39, Moresche, BRA, F, 1.80, 61, 24-06-98, Rio de Janeiro, None
+40, Hugo Borges, BRA, F, 1.76, 73, 01-01-98, Duque de Caxias, None
+41, Marcelo Mattos, BRA, M, 1.79, 71, 10-02-84, Indiaporã, Vitória
+42, Rodrigo Fernandes, BRA, D, 1.81, 75, 03-05-98, Rio de Janeiro, None
+43, Bruno Ritter, BRA, M, 1.84, 77, 21-05-99, Criciúma, None
+44, Jordi, BRA, G, 1.91, 81, 03-09-93, Volta Redonda, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Alan Cardoso, BRA, D, 1.77, 66, 05-01-98, Rio de Janeiro, ABC (On Loan)
+40, Rafael França, BRA, M, 1.71, 68, 17-03-98, Rio de Janeiro, De-Registered
+18, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, Dalian Yifang
+18, Dudu, BRA, M, 1.72, 67, 14-12-98, Rio de Janeiro, De-Registered
+11, Paulinho, BRA, F, 1.74, 75, 15-07-00, Rio de Janeiro, Bayer Leverkusen
+3, Frickson Erazo, ECU, D, 1.90, 78, 05-05-88, Esmeraldas, Atlético Mineiro
+16, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, Re-Registered (37)
+38, Lucas Santos, BRA, M, 1.64, 59, 07-03-99, Rio de Janeiro, De-Registered
+7, Wellington, BRA, M, 1.73, 70, 28-01-91, São Paulo, São Paulo
+25, Paulão, BRA, D, 1.87, 82, 25-02-86, Bahia, Internacional
+28, Kelvin, BRA, F, 1.75, 71, 01-06-93, Paraná, Re-Registered (7)
+10, Evander, BRA, M, 1.79, 76, 09-06-98, Rio de Janeiro, FC Midtjylland (On Loan)
+21, Paulo Vitor, BRA, F, 1.74, 66, 24-06-99, Rio de Janeiro, Albacete (On Loan)
+12, Gabriel Félix, BRA, G, 1.90, 89, 04-04-95, Barra do Garças, Fortaleza (On Loan)
+20, Wagner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Al-Khor
+42, Luan Gama, BRA, D, 1.74, 73, 06-06-98, Itaboraí, De-Registered

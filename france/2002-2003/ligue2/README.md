@@ -1,0 +1,23 @@
+# French Ligue 2 2002/03
+
+20 teams
+- [Amiens](amiens.txt)
+- [Beauvais](beauvais.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Mans](lemans.txt)
+- [Lorient](lorient.txt)
+- [Metz](metz.txt)
+- [Nancy](nancy.txt)
+- [Niort](niort.txt)
+- [Reims](reims.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Toulouse](toulouse.txt)
+- [Valence](valence.txt)
+- [Wasquehal](wasquehal.txt)

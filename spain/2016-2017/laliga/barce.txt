@@ -1,0 +1,42 @@
+=  Barcelona - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marc-André ter Stegen, GER, G, 1.85, 82, 30-04-92, Mönchengladbach, B Mönchengladbach
+3, Gerard Piqué, ESP, D, 1.92, 85, 02-02-87, Barcelona, Manchester U
+4, Ivan Rakitić, CRO, M, 1.84, 79, 10-03-88, Rheinfelden, Sevilla
+5, Sergio Busquets, ESP, M, 1.89, 73, 16-07-88, Sabadell, Barcelona B
+6, Denis Suárez, ESP, M, 1.81, 72, 06-01-94, Tui, Villarreal
+7, Arda Turan, TUR, M, 1.76, 72, 30-01-87, Fatih, Atlético Madrid
+8, Andrés Iniesta, ESP, M, 1.70, 65, 11-05-84, Fuentealbilla, Barcelona B
+9, Luis Suárez, URU, F, 1.81, 81, 24-01-87, Salto, Liverpool
+10, Lionel Messi, ARG, M, 1.69, 67, 24-06-87, Santa Fe, Barcelona B
+11, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Santos
+12, Rafinha, BRA, M, 1.77, 75, 12-02-93, Bari, Barcelona B
+13, Jasper Cillessen, NED, G, 1.87, 82, 22-04-89, Groesbeek, Ajax
+14, Javier Mascherano, ARG, M, 1.78, 77, 08-06-84, Rosario, Liverpool
+17, Paco Alcácer, ESP, F, 1.74, 71, 30-08-93, Torrent, Valencia
+18, Jordi Alba, ESP, D, 1.65, 63, 21-03-89, L'Hospitalet de Llobregat, Valencia
+19, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Paris St-Germain
+20, Sergi Roberto, ESP, M, 1.73, 70, 07-02-92, Reus, Barcelona B
+21, André Gomes, POR, M, 1.88, 83, 30-07-93, Porto, Valencia
+22, Aleix Vidal, ESP, M, 1.76, 70, 21-08-89, Valls, Sevilla
+23, Samuel Umtiti, FRA, D, 1.81, 75, 14-11-93, Yaoundé, Lyon
+24, Jérémy Mathieu, FRA, D, 1.90, 82, 29-10-83, Luxeuil-les-Bains, Valencia
+25, Jordi Masip, ESP, G, 1.80, 72, 03-01-89, Sabadell, Barcelona B
+26, José Aurelio Suárez, ESP, G, 1.87, 85, 18-12-95, Gijón, Barcelona B
+27, Wilfrid Kaptoum, CMR, M, 1.74, 71, 07-07-96, Douala, Barcelona B
+28, Carles Aleñà, ESP, M, 1.80, 70, 05-01-98, Mataró, Barcelona B
+30, Álex Carbonell, ESP, M, 1.75, 70, 15-09-97, Cerdanyola del Vallès, Barcelona B
+31, Nili Perdomo, ESP, D, 1.76, 71, 18-02-94, Las Palmas, Las Palmas B
+33, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, Fluminense
+34, Sergi Palencia, ESP, D, 1.72, 66, 23-03-96, Badalona, Barcelona B
+35, Borja López, ESP, D, 1.92, 83, 02-02-94, Gijón, Monaco
+39, Marc Cardona, ESP, F, 1.83, 75, 08-07-95, Lleida, Atlético Sanluqueño
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Claudio Bravo, CHI, G, 1.84, 84, 13-04-83, Viluco, Manchester C
+2, Douglas, BRA, D, 1.72, 63, 06-08-90, Monte Alegre, Sporting Gijón (On Loan)
+16, Sergi Samper, ESP, M, 1.81, 73, 20-01-95, Barcelona, Granada (On Loan)
+17, Munir El Haddadi, ESP, F, 1.72, 62, 01-09-95, El Escorial, Valencia (On Loan)

@@ -1,0 +1,54 @@
+=  Goiás - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Maguinho, BRA, D, 1.73, 69, 06-01-92, Dores do Turvo, Kawasaki Frontale
+3, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, Athletico Paranaense
+4, Sidimar, BRA, D, 1.85, 80, 09-07-92, São José do Cedro, Athletic-MG
+5, Raphael Guzzo, POR, M, 1.77, 70, 06-01-95, São Paulo, Vizela
+6, Sander, BRA, D, 1.77, 68, 03-10-90, Corumbá de Goiás, Sport Recife
+7, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, Bahia
+8, Higor Meritão, BRA, M, 1.86, 85, 23-06-94, Monte Alto, UNAM
+9, Matheus Babi, BRA, F, 1.91, 75, 18-07-97, Macaé, Athletico Paranaense
+10, Julián Palacios, ARG, M, 1.67, 66, 04-02-99, General Pico, San Lorenzo
+11, Diego Gonçalves, BRA, F, 1.82, 79, 22-07-94, Guarujá, Mirassol
+12, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, Ceará
+13, Bruno Santos, BRA, D, 1.83, 79, 07-02-93, Rio de Janeiro, AEL Limassol
+17, Mina, BRA, D, 1.87, 78, 12-03-03, Ceilândia, None
+19, Bruno Melo, BRA, D, 1.83, 72, 26-10-92, Paracuru, Fortaleza
+20, Diego, BRA, M, 1.76, 68, 31-10-95, Macaé, Boa
+22, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Ponte Preta
+23, Tadeu, BRA, G, 1.84, 80, 04-02-92, Joaquim Távora, Ferroviária
+25, Eduardo Simioni, BRA, M, 1.81, 72, 01-05-03, Nova Santa Rita, Cruzeiro-RS
+27, Alesson, BRA, M, 1.73, 68, 16-02-99, Guarulhos, Vila Nova
+29, Ezequiel Oliveira, BRA, G, 1.85, 79, 13-06-03, Pouso Alegre, Cruzeiro
+31, Pedro Junqueira, BRA, F, 1.82, 72, 23-03-04, Nerópolis, None
+40, Everton Morelli, BRA, M, 1.85, 73, 04-11-97, Batatais, Maringá
+43, Edu, BRA, D, 1.84, 80, 16-06-00, Belo Horizonte, Athletico Paranaense
+45, João Magno, BRA, F, 1.95, 80, 15-02-97, Bahia, F91 Dudelange
+49, Denzel, BRA, F, 1.91, 81, 20-01-03, Taboão da Serra, São Paulo
+55, Luís Oyama, BRA, M, 1.71, 69, 30-01-97, São José do Rio Preto, Botafogo
+60, Guilherme, BRA, M, 1.74, 70, 21-05-91, Três Rios, Guanghzou C
+66, Hugo, BRA, D, 1.79, 73, 29-08-97, Arapiraca, CRB
+70, Anderson Oliveira, BRA, F, 1.69, 64, 16-07-98, Sinop, Portimonense
+77, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Santa Clara
+88, Marcelo Rangel, BRA, G, 1.87, 81, 17-05-88, Marechal Cândido Rondon, Londrina
+90, Philippe, BRA, F, 1.86, 78, 01-03-00, Goiânia, Anápolis
+94, Matheus Alves, BRA, G, 1.89, 82, 15-12-94, Brazlândia, None
+95, Dodô, BRA, M, 1.71, 68, 15-06-01, Angra dos Reis, Coimbra
+99, Gabriel Novaes, BRA, F, 1.82, 74, 05-04-99, São Paulo, Red Bull Bragantino
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+97, Eduardo Thuram, BRA, D, 1.89, 84, 07-10-97, Japeri, Aparecidense (On Loan)
+77, Jhonny Lucas, BRA, M, 1.70, 65, 21-02-00, Curitiba, Vitória (On Loan)
+18, Ariel, BRA, M, 1.78, 72, 04-07-98, Erechim, Londrina (On Loan)
+8, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Avaí
+5, Zé Ricardo, BRA, M, 1.75, 72, 03-02-99, Rio de Janeiro, Tombense
+15, Felipe, BRA, M, 1.84, 76, 10-04-94, Maranguape, Sport Recife (On Loan)
+17, Matheus Peixoto, BRA, F, 1.90, 86, 16-11-95, Rio de Janeiro, Metalist Kharkiv
+14, Luiz Filipe, BRA, F, 1.75, 72, 28-05-01, Camesia, Atlético Mineiro
+26, Nathan Melo, BRA, M, 1.86, 86, 20-03-01, Goiânia, ABC (On Loan)
+30, Matheusinho, BRA, M, 1.75, 66, 29-07-98, São Bernardo do Campo, Mirassol (On Loan)
+79, Lucas Emmanuel, BRA, F, 1.85, 84, 07-06-00, Santana, Aparecida
+18, Wendell, BRA, F, 1.72, 75, 14-02-04, Salvador, Zorya Luhansk (On Loan)

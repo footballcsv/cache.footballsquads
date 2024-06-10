@@ -1,0 +1,23 @@
+# Argentinian Primera División 2008 Apertura
+
+20 teams
+- [Argentinos Juniors](argjnrs.txt)
+- [Arsenal](arsenal.txt)
+- [Banfield](banfield.txt)
+- [Boca Juniors](boca.txt)
+- [Colón (Santa Fe)](colon.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Gimnasia y Esgrima (Jujuy)](gimjujuy.txt)
+- [Gimnasia y Esgrima (La Plata)](gimnasia.txt)
+- [Godoy Cruz (Mendoza)](godoycruz.txt)
+- [Huracán](huracan.txt)
+- [Independiente](independ.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Racing Club](racing.txt)
+- [River Plate](river.txt)
+- [Rosario Central](rosario.txt)
+- [San Lorenzo](sanloren.txt)
+- [San Martín (Tucumán)](sanmartu.txt)
+- [Tigre](tigre.txt)
+- [Vélez Sarsfield](velez.txt)

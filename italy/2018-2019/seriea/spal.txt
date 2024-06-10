@@ -1,0 +1,46 @@
+=  SPAL - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alfred Gomis, SEN, G, 1.96, 80, 05-09-93, Ziguinchor, Torino
+2, Emiliano Viviano, ITA, G, 1.95, 90, 01-12-85, Fiesole, Sporting CP
+4, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, Palermo
+5, Lorenco Šimić, CRO, D, 1.95, 89, 15-07-96, Split, Sampdoria
+6, Simone Missiroli, ITA, M, 1.91, 77, 23-05-86, Reggio Calabria, Sassuolo
+7, Mirco Antenucci, ITA, F, 1.81, 77, 08-09-84, Termoli, Leeds U
+8, Mattia Valoti, ITA, M, 1.87, 73, 06-09-93, Vicenza, Verona
+10, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Bologna
+11, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, Lazio
+12, Andrea Fulignati, ITA, G, 1.88, 88, 31-10-94, Empoli, Ascoli
+13, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, Sampdoria
+14, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, Siena
+16, Mirko Valdifiori, ITA, M, 1.85, 71, 21-04-86, Lugo, Napoli
+17, Giacomo Poluzzi, ITA, G, 1.86, 74, 25-02-88, Bologna, Fidelis Andria
+19, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Atalanta
+23, Francesco Vicari, ITA, D, 1.90, 80, 03-08-94, Rome, Novara
+24, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, Novara
+27, Felipe, BRA, D, 1.87, 80, 31-07-84, Guaratingueta, Udinese
+28, Pasquale Schiattarella, ITA, M, 1.76, 73, 30-05-87, Mugnano di Napoli, Latina
+29, Manuel Lazzari, ITA, M, 1.74, 67, 29-11-93, Valdagno, Giacomense
+33, Filippo Costa, ITA, D, 1.75, 70, 21-05-95, Noventa Vicentina, Chievo Verona
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Atalanta
+43, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, Atalanta
+45, Lazar Nikolić, SRB, F, 1.76, 72, 01-08-99, Leskovac, Partizan Belgrade
+93, Mohamed Fares, ALG, D, 1.83, 75, 15-02-96, Aubervilliers, Verona
+94, Andrea Rizzo Pinna, ITA, M, , , 13-01-00, Milan, Internazionale
+95, Marko Janković, MNE, M, 1.72, 67, 09-07-95, Cetinje, Partizan Belgrade
+96, Ricardo Farcaș, ROU, M, 1.85, 73, 24-06-00, Oradea, Ajax
+97, Karolis Uzėla, LTU, M, 1.87, 73, 11-03-00, , Žalgiris Vilnius
+99, Thomas Coulange, ITA, D, 1.85, , 01-05-01, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Everton Luiz, BRA, M, 1.72, 70, 24-05-88, Porto Alegre, Real Salt Lake (On Loan)
+21, Salvatore Esposito, ITA, M, 1.78, 70, 07-10-00, Castellammare di Stabia, Ravenna (On Loan)
+22, Demba Thiam, SEN, G, 2.02, 87, 09-03-98, Dakar, Viterbese Castrense (On Loan)
+97, Mattia Vitale, ITA, M, 1.77, 79, 01-10-97, Bologna, Carpi (On Loan)
+3, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, 
+90, Jacopo Murano, ITA, F, 1.86, 80, 14-02-90, Potenza, Potenza
+11, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, Cittadella
+77, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Frosinone (On Loan)
+32, Vanja Milinković-Savić, SRB, G, 2.02, 92, 20-02-97, Ourense, Torino

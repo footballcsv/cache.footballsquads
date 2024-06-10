@@ -1,0 +1,35 @@
+=  Pachuca - Mexican Liga MX 2021/2022 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Matías Catalán, ARG, D, 1.72, 64, 19-08-92, Mar del Plata, Atlético San Luis
+3, Kevin Álvarez, MEX, D, 1.77, 68, 15-01-99, Colima, None
+4, Miguel Tapias, MEX, D, 1.80, 72, 08-01-97, Hermosillo, None
+5, Óscar Ustari, ARG, G, 1.84, 82, 03-07-86, América, Liverpool [URU]
+6, Víctor Guzmán, MEX, M, 1.73, 72, 03-02-95, Guadalajara, Guadalajara
+7, Nicolás Ibáñez, ARG, F, 1.79, 75, 23-08-94, Venado Tuerto, Atlético Madrid
+8, Francisco Figueroa, MEX, M, 1.69, 52, 13-06-99, Lázaro Cárdenas, Morelia
+9, Roberto de la Rosa, MEX, F, 1.80, 81, 04-01-00, Texcoco, None
+10, Yairo Moreno, COL, M, 1.76, 70, 04-04-95, Necoclí, León
+11, Avilés Hurtado, COL, M, 1.72, 65, 20-04-87, Timbiquí, Monterrey
+13, Santiago Mosquera, COL, M, 1.68, 70, 07-02-95, Buenaventura, FC Dallas
+15, Miguel Herrera, MEX, D, 1.82, 76, 03-04-89, Uruapan, León
+16, Jorge Hernández, MEX, M, 1.70, 72, 10-06-89, San Luis Potosí, Jaguares de Chiapas
+18, Ismael Sosa, ARG, F, 1.79, 70, 18-01-87, San Martín, UANL Tigres
+22, Gustavo Cabral, ARG, D, 1.82, 81, 14-10-85, Isidro Casanova, Celta Vigo
+23, Óscar Murillo, COL, D, 1.83, 79, 18-04-88, Cali, Atlético Nacional
+24, Luis Chávez, MEX, M, 1.78, 73, 15-01-96, Ciudad Guzmán, Tijuana
+25, Carlos Moreno, MEX, G, 1.87, 80, 29-01-98, Tecomán, None
+27, Pablo López, MEX, M, 1.66, 55, 07-01-98, Santiago de Querétaro, None
+28, Erick Sánchez, MEX, M, 1.67, 64, 27-09-99, Gustavo A. Madero, None
+29, Illian Hernández, MEX, F, 1.81, 83, 12-04-00, Fresnillo, Zacatecas
+30, Romario Ibarra, ECU, M, 1.74, 77, 24-09-94, Atuntaqui, Minnesota U
+31, Carlos Rodas, MEX, G, 1.94, 83, 22-08-01, San Cristóbal de las Casas, None
+32, Fernando Álvarez, MEX, D, 1.86, 81, 24-08-03, New York, None
+33, José Castillo, MEX, D, 1.79, 66, 02-12-01, Miguel Hidalgo, None
+34, Luis Soto, MEX, M, 1.73, 70, 19-06-01, Miguel Hidalgo, Cruz Azul
+35, Bryan González, MEX, M, 1.81, 76, 10-04-03, Juárez, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Héctor Mascorro, MEX, M, 1.69, 68, 12-05-97, Gómez Palacio, Atlético San Luis

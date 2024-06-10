@@ -1,0 +1,43 @@
+=  Rosario Central - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jorge Broun, ARG, G, 1.90, 90, 26-05-86, Rosario, Gimnasia y Esgrima (LP)
+2, Carlos Quintana, ARG, D, 1.91, 88, 11-02-88, Alejandro Korn, Argentinos Juniors
+3, Ulises Ciccioli, ARG, D, 1.73, 66, 07-02-03, Bombal, None
+4, Damián Martínez, ARG, D, 1.77, 72, 31-01-90, Capital Federal, Unión (Santa Fe)
+5, Francis Mac Allister, ARG, M, 1.76, 72, 30-10-95, Capital Federal, Talleres (Córdoba)
+6, Juan Cruz Komar, ARG, D, 1.90, 78, 18-03-96, Rosario, Talleres (Córdoba)
+7, Walter Montoya, ARG, M, 1.82, 76, 21-07-93, Machagai, Cruz Azul
+8, Agustín Toledo, ARG, M, 1.78, 71, 01-03-00, Guernica, Temperley
+9, Alejo Véliz, ARG, F, 1.87, 77, 19-09-03, Bernardo de Irigoyen, None
+10, Ignacio Malcorra, ARG, M, 1.70, 70, 24-07-87, Río Negro, Lanús
+11, Luciano Ferreyra, ARG, M, 1.68, 63, 19-02-02, Rosario, None
+13, Jaminton Campaz, COL, M, 1.65, 69, 24-05-00, Ibagué, Grêmio
+15, Facundo Mallo, URU, D, 1.86, 77, 16-01-95, Montevideo, Defensor Sporting
+16, Alan Rodríguez, PAR, D, 1.70, 67, 15-08-00, Fernando de la Mora, Cerro Porteño
+17, Alan Marinelli, ARG, F, 1.74, 70, 07-04-99, Rosario, None
+18, Francesco Lo Celso, ARG, M, 1.82, 77, 05-03-00, Rosario, Paris St-Germain
+19, Gino Infantino, ARG, M, 1.79, 75, 19-05-03, Rosario, None
+20, Jhonatan Candia, URU, F, 1.71, 63, 15-03-95, Montevideo, Huracán
+21, Valentino Quintero, ARG, G, 1.92, 82, 14-04-03, Rosario, None
+22, Lautaro Giaccone, ARG, M, 1.72, 70, 01-02-01, San Francisco [ARG], None
+23, Gaspar Servio, ARG, G, 1.82, 79, 09-03-92, General Belgrano, Guaraní [PAR]
+24, Octavio Bianchi, ARG, F, 1.87, 82, 05-10-95, Maipú, All Boys
+25, Juan Cruz Cerrudo, ARG, F, 1.68, 64, 20-01-04, San Genaro, None
+26, Ismael Cortez, ARG, D, 1.85, 78, 26-06-00, Mendoza, Gimnasia y Esgrima (Mendoza)
+27, Lucas Rodríguez, ARG, D, 1.68, 65, 27-09-93, Capital Federal, Independiente
+28, Lucas Amud, ARG, M, 1.72, 68, 02-09-01, Rosario, None
+29, Luca Martínez Dupuy, MEX, F, 1.80, 73, 05-06-01, San Luis Potosí, None
+30, Tomás O'Connor, ARG, M, 1.73, 66, 25-03-04, Rosario, None
+31, Facundo Agüero, ARG, D, 1.89, 80, 21-01-95, General Pico, Unión (Santa Fe)
+37, Kevin Silva, ARG, D, 1.85, 78, 16-04-03, Rojas, None
+38, Fernando Rodríguez, ARG, D, 1.82, 79, 05-10-00, Villa Gobernador Gávez, None
+39, Fabricio Oviedo, ARG, F, 1.81, 76, 19-02-04, Concarán, None
+42, Leandro Iglesias, ARG, M, 1.70, 68, 17-01-01, Rosario, None
+45, Kevin Ortiz, ARG, M, 1.76, 70, 18-09-00, Roldán, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Facundo Almada, ARG, D, 1.77, 70, 10-07-98, Granadero Baigorria, Mazatlán (On Loan)
+34, Franco Frías, ARG, F, 1.74, 69, 17-03-02, Granadero Baigorria, Barracas Central (On Loan)

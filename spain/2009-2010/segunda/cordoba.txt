@@ -1,0 +1,39 @@
+=  Córdoba - Spanish Segunda Divisón A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raúl Navas, ESP, G, 1.79, 78, 16-01-78, Cádiz, Tenerife
+2, David Junior Lopes, BRA, D, 1.85, 79, 19-07-82, Maringa, Terek Grozny
+3, Lauren, CMR, D, 1.80, 71, 19-01-77, Kribi, Portsmouth
+4, Gaspar, ESP, D, 1.82, 77, 07-07-79, Córdoba, Alavés
+5, Javier Herreros, ESP, D, 1.83, 71, 18-12-84, Logroño, Murcia B
+6, Jesús Rueda, ESP, M, 1.81, 78, 19-02-87, Badajoz, Valladolid B
+7, David Pérez Arteaga, ESP, M, 1.67, 66, 01-12-81, Seville, Écija
+8, José Vega, ESP, M, 1.76, 71, 10-04-81, Jerez de la Frontera, Elche
+9, Gustavo Savoia, ARG, F, 1.82, 75, 21-08-81, Reconquista, Ponte Preta
+10, Pepe Díaz, ESP, M, 1.73, 69, 20-04-80, Almodóvar del Río, Écija
+11, Asen, ESP, F, 1.80, 77, 07-10-78, Madrid, Extremadura
+12, Gerardo, ESP, M, 1.72, 69, 07-12-74, Sevilla, Real Sociedad
+13, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Murcia
+14, Richi, ESP, D, 1.84, 77, 11-09-84, Vigo, Celta B
+15, Santiago Carpintero, ESP, M, 1.80, 75, 28-09-76, León, Málaga
+16, Juanjo, ESP, F, 1.85, 76, 28-10-85, Santander, Racing Santander
+17, András Simon, HUN, F, 1.83, 70, 30-03-90, Salgótarján, Liverpool
+18, Jorge Luque, ESP, M, 1.75, 71, 08-03-81, Córdoba, Xerez
+19, Juan Carlos Ceballos, ESP, D, 1.78, 75, 07-04-83, Barcelona, Levante
+20, Damián Lizio, ARG, M, 1.67, 65, 30-06-89, Florida, River Plate
+21, Javi Flores, ESP, F, 1.70, 64, 09-02-86, Córdoba, Córdoba B
+23, Mikel Dañobeitia, ESP, F, 1.79, 76, 05-03-86, Barakaldo, Salamanca
+24, Agus, ESP, D, 1.83, 86, 03-05-85, Bonete, Real Madrid B
+25, Diego Scotti, URU, M, 1.79, 77, 14-01-77, Montevideo, Racing Club [URU]
+26, Jesús Coca, ESP, G, 1.85, 79, 22-05-89, Almodóvar del Río, Real Madrid C
+27, Antonio Pascual, ESP, M, , , 24-10-88, Palma del Rio, Córdoba B
+28, Juan Rafael Fuentes, ESP, D, 1.77, 72, 05-01-90, Córdoba, Córdoba B
+29, Toni Seaone, ESP, M, 1.78, 77, 30-05-89, Córdoba, Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Dardo Caballero, URU, D, 1.90, 87, 09-03-81, Montevideo, 
+13, Fernando, ESP, G, 1.92, 95, 22-06-83, Madrid, MFK Košice
+22, José Cabrera, ESP, M, 1.93, 82, 10-05-82, Madrid, De-Registered
+25, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Re-Registered (13)

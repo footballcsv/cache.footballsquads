@@ -1,0 +1,23 @@
+# French Ligue 2 2006/07
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Amiens](amiens.txt)
+- [Bastia](bastia.txt)
+- [Brest](brest.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Créteil](creteil.txt)
+- [Dijon](dijon.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Guingamp](guinga.txt)
+- [Istres](istres.txt)
+- [Le Havre](lehavre.txt)
+- [Libourne](libourne.txt)
+- [Metz](metz.txt)
+- [Montpellier](montpel.txt)
+- [Niort](niort.txt)
+- [Reims](reims.txt)
+- [Strasbourg](stras.txt)
+- [Tours](tours.txt)

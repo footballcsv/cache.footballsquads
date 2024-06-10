@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2007
+
+20 teams
+- [América de Natal](amernat.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Botafogo](botafogo.txt)
+- [Corinthians](corinth.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Figueirense](figueir.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Juventude](juventud.txt)
+- [Náutico](nautico.txt)
+- [Palmeiras](palmeir.txt)
+- [Paraná](parana.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vasco da Gama](vasco.txt)

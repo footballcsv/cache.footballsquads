@@ -1,0 +1,58 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bruno, BRA, G, 1.95, 88, 27-06-84, São Paulo, None
+3, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Lecce
+4, Fabricio, BRA, D, 1.86, 82, 20-02-90, Rio de Janeiro, Desportivo Brasil
+5, Pierre, BRA, M, 1.72, 67, 19-01-82, Itororó, Paraná
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Atlético Mineiro
+10, Jorge Valdivia, CHI, M, 1.73, 71, 19-10-83, Maracaibo, Al-Ain
+11, Rivaldo, BRA, M, 1.80, 75, 25-08-85, Salgadinho, Desportivo Brasil
+12, Marcos, BRA, G, 1.93, 90, 04-08-73, Oriente, None
+13, Fernando, BRA, M, 1.88, 75, 17-11-91, Porto Alegre, None
+14, Vitor, BRA, D, 1.72, 66, 29-07-82, Delmiro Golveia, Goiás
+15, Maurício Ramos, BRA, D, 1.86, 80, 10-04-85, Piracicaba, Coritiba
+16, Mayko, BRA, D, 1.85, 76, 03-02-91, Monte Mor, None
+17, Tinga, BRA, M, 1.73, 65, 12-10-90, Bom Jardim, Ponte Preta
+18, João Arthur, BRA, M, 1.73, 63, 16-11-90, São Paulo, None
+19, Lenny, BRA, F, 1.72, 72, 23-03-88, Rio de Janeiro, Desportivo Brasil
+20, Tadeu, BRA, F, 1.87, 85, 01-04-86, Araraquara, Grêmio Prudente
+21, Luan, BRA, M, 1.84, 75, 21-09-88, Araras, Toulouse
+22, Deola, BRA, G, 1.88, 86, 19-04-83, Céu Azul, None
+23, Danilo, BRA, D, 1.83, 81, 10-05-84, São Bernardo do Campo, Desportivo Brasil
+25, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, None
+26, Jean Vicente, BRA, M, 1.76, 63, 15-02-92, Cornélio Procópio, None
+28, Marcos Assunção, BRA, M, 1.78, 78, 25-07-76, Caieiras, Grêmio Prudente
+29, Dinei, BRA, F, 1.86, 78, 11-11-83, São Domingos, Atlético Paranaense
+30, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Cruzeiro
+32, Luis Felipe, BRA, D, 1.78, 74, 08-04-91, São Paulo, None
+33, Gualberto, BRA, D, 1.89, 70, 08-04-90, São Paulo, None
+34, Gabriel Silva, BRA, D, 1.79, 69, 13-05-91, Piracicaba, None
+35, Anselmo, BRA, M, 1.82, 78, 20-02-89, São Paulo, None
+36, Leandro Amaro, BRA, D, 1.86, 83, 19-06-86, Campinas, Cruzeiro
+38, Bruno Turco, BRA, M, 1.81, 77, 30-07-91, Piracicaba, None
+39, Gilsinho, BRA, M, 1.64, , 20-03-91, Maringá, None
+40, Patrik, BRA, F, 1.70, 62, 19-07-90, São Paulo, São Caetano
+45, Carlos, BRA, G, 1.91, 84, 22-10-90, Matão, None
+46, Raphael Alemão, BRA, G, 1.97, 93, 17-08-88, Piracicaba, Cruzeiro
+47, Fabio, BRA, G, 1.96, 85, 11-05-90, Osasco, None
+77, Bruno Oliveira, BRA, F, 1.80, 77, 05-06-90, Barra, XV de Piracicaba
+80, Julio César, BRA, F, , , 23-01-90, Paranaiba, None
+88, Ewerthon, BRA, F, 1.73, 63, 10-06-81, São Paulo, Zaragoza
+99, Lincoln, BRA, M, 1.77, 71, 22-01-79, Belo Horizonte, Galatasaray
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Bruno Paulo, BRA, F, 1.76, 75, 14-02-90, Rio de Janeiro, Desportivo Brasil
+7, Diego Souza, BRA, M, 1.86, 89, 17-06-85, Rio de Janeiro, Atlético Mineiro
+11, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Desportivo Brasil
+21, Souza, BRA, M, 1.75, 71, 08-03-88, Brasília, Ponte Preta (On Loan)
+37, Ivo, BRA, M, 1.78, 66, 02-10-86, Palmitinho, Ponte Preta (On Loan)
+56, Paulo Henrique, BRA, F, 1.80, 79, 13-03-89, João Pessoa, Desportivo Brasil
+77, Luis Pedro Figueroa, CHI, M, 1.77, 76, 14-05-83, Concepción, Unión Española
+10, Cleiton Xavier, BRA, M, 1.78, 72, 23-03-83, Alagoas, Desportivo Brasil
+2, Eduardo, BRA, D, 1.79, 68, 18-04-89, Guaraí, Paulista
+4, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Cruzeiro
+6, Pablo Armero, COL, D, 1.74, 71, 02-11-86, Tumaco, Udinese
+26, Fabricio, BRA, D, 1.86, 82, 20-02-90, Rio de Janeiro, Re-Registered (4)

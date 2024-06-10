@@ -1,0 +1,47 @@
+=  Crotone - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Parma
+3, Marco Festa, ITA, G, 1.90, 85, 06-06-92, Montichiari, Mantova
+5, Adrian Stoian, ROU, F, 1.78, 66, 11-02-91, Craiova, Chievo Verona
+6, Marcus Rohdén, SWE, M, 1.82, 76, 11-05-91, Värnamo, IF Elfsborg
+7, Federico Ceccherini, ITA, D, 1.87, 75, 11-05-92, Livorno, Livorno
+9, Andrea Nalini, ITA, F, 1.79, 72, 20-06-90, Isola della Scala, Salernitana
+10, Andrea Barberis, ITA, M, 1.77, 73, 11-12-93, Genoa, Varese
+11, Federico Ricci, ITA, F, 1.75, 63, 27-05-94, Rome, Sassuolo
+12, Francesco Latella, ITA, G, , , 27-01-00, Melito di Porto Salvo, Udinese
+13, Mariano Izco, ARG, M, 1.80, 76, 13-03-83, Capital Federal, Chievo Verona
+15, Pasquale Giannotti, ITA, M, 1.70, 54, 05-06-99, Cirò Marina, None
+17, Ante Budimir, BIH, F, 1.90, 75, 22-07-91, Zenica, Sampdoria
+19, Moussa Diaby, FRA, F, 1.70, 65, 07-07-99, Paris, Paris St-Germain
+20, Daniel Pavlović, SUI, D, 1.83, 77, 22-04-88, Rorschach, Sampdoria
+21, Niccolò Zanellato, ITA, M, 1.92, 74, 24-06-98, Milan, Milan
+23, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Cagliari
+24, Giacomo Figliuzzi, ITA, G, 1.84., 83, 12-11-00, Crotone, None
+29, Marcello Trotta, ITA, F, 1.88, 85, 29-09-92, Santa Maria Capua Vetere, Sassuolo
+31, Mario Sampirisi, ITA, D, 1.88, 75, 31-10-92, Caltagirone, Vicenza
+32, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Roma
+33, Luka Marković, SRB, F, 1.86, , 19-02-00, Banovo Brdo, Čukarički
+34, Stefan Šimić, CZE, D, 1.89, 79, 20-01-95, Prague, Milan
+37, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Udinese
+38, Rolando Mandragora, ITA, M, 1.83, 76, 29-06-97, Naples, Juventus
+78, Aniello Viscovo, ITA, G, 1.90, 79, 21-06-99, Massa di Somma, None
+87, Bruno Martella, ITA, D, 1.83, 78, 14-08-92, Atri, Sampdoria
+89, Giovanni Crociata, ITA, M, 1.74, 67, 11-08-97, Palermo, Milan
+92, Ahmad Benali, LBY, M, 1.73, 68, 07-02-92, Manchester, Pescara
+93, Arlind Ajeti, ALB, D, 1.84, 83, 25-09-93, Basel, Torino
+99, Simy Nwankwo, NGA, F, 1.98, 84, 07-05-92, Lagos, Portimonense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Maxwell Boadu Acosty, GHA, M, 1.78, 75, 10-09-91, Accra, Rijeka (On Loan)
+33, Noë Dussenne, BEL, D, 1.91, 85, 07-04-92, Mons, KAA Gent (On Loan)
+47, Andrej Kotnik, SVN, M, 1.89, 84, 04-08-95, Nova Gorica, Formentera (On Loan)
+11, Oliver Kragl, GER, M, 1.80, 77, 12-05-90, Wolfsburg, Foggia (On Loan)
+44, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Getafe (On Loan)
+21, Giuseppe Cuomo, ITA, D, 1.90, 79, 02-02-98, Vico Equense, Rende (On Loan)
+28, Giuseppe Borello, ITA, F, 1.67, 60, 28-04-99, Catanzaro, Torino (On Loan)
+8, Aristóteles Romero, VEN, M, 1.84, 83, 18-10-95, Calabozo, Ankaran Hrvatini (On Loan)
+14, Ćazim Suljić, BIH, M, 1.78, 74, 29-10-96, Saint-Priest-en-Jarez, Ankaran Hrvatini (On Loan)
+24, Aleksandar Tonev, BUL, F, 1.78, 65, 03-02-90, Elin Pelin, 

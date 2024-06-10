@@ -1,0 +1,23 @@
+# French Ligue 2 2014/15
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Angers](angers.txt)
+- [Arles-Avignon](arles.txt)
+- [Auxerre](auxerre.txt)
+- [Brest](brest.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Dijon](dijon.txt)
+- [Gazélec Ajaccio](gazelec.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Nancy](nancy.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Orléans](orleans.txt)
+- [Sochaux](sochaux.txt)
+- [Tours](tours.txt)
+- [Troyes](troyes.txt)
+- [Valenciennes](valenc.txt)

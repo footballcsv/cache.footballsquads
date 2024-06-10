@@ -1,0 +1,42 @@
+=  Montevideo Wanderers - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mauro Silveira, URU, G, 1.85, 80, 06-05-00, Montevideo, None
+2, Federico Martínez, URU, D, 1.82, 80, 19-05-03, Montevideo, None
+3, Ismael García, URU, D, 1.81, 71, 24-09-01, Montevideo, None
+4, Juan Acosta, URU, D, 1.74, 70, 11-11-93, Rocha, Peñarol
+5, Nicolás Fonseca, URU, M, 1.83, 75, 19-10-98, Naples, River Plate
+7, Leonardo Pais, URU, M, 1.82, 69, 07-07-94, Minas, Cruzeiro
+8, Bruno Veglio, URU, M, 1.64, 62, 12-02-98, Montevideo, None
+9, Facundo Milán, URU, F, 1.74, 73, 03-02-01, Montevideo, São Paulo
+10, Nicolás Albarracín, URU, M, 1.82, 72, 11-06-93, Montevideo, Real Tomayapo
+11, Agustín Albarracín, URU, F, 1.76, 63, 29-08-05, Montevideo, None
+12, Fernando Laforia, URU, G, 1.91, 83, 01-09-87, Ronda, Miramar Misiones
+14, Rodrigo Pastorini, URU, F, 1.86, 77, 04-03-90, Florida, Fidelis Andria
+17, Martín Suárez, URU, M, 1.79, 70, 16-06-04, Montevideo, None
+18, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Aldosivi (Mar del Plata)
+19, Tabaré Viudez, URU, M, 1.72, 70, 08-09-89, Montevideo, Cerro
+20, Tomás Andrade, ARG, M, 1.83, 78, 16-11-96, Temperley, Botafogo-SP
+21, Kevin Rolón, URU, D, 1.73, 68, 02-03-01, Montevideo, None
+22, Sebastián Figueredo, URU, D, 1.80, 71, 25-08-01, Montevideo, None
+23, Emiliano García, URU, D, 1.80, 76, 14-01-90, Montevideo, Liverpool [URU]
+24, Matías Fonseca, ITA, F, 1.81, 70, 12-03-01, Naples, Internazionale
+25, Nicolás Ferreira, URU, F, 1.70, 68, 07-02-02, Montevideo, None
+26, Guillermo Wagner, URU, M, 1.87, 71, 09-01-02, Montevideo, None
+29, Roberto Techera, URU, M, 1.81, 70, 17-01-01, Montevideo, None
+30, Franco Rodríguez, URU, G, 1.89, 80, 12-12-02, Progreso, None
+31, Enzo López, URU, G, 1.86, 86, 11-03-01, Montevideo, None
+32, Ramiro Costa, ARG, F, 1.90, 84, 21-08-92, Rosario, Atlante
+33, Gonzalo Camargo, URU, D, 1.73, 76, 16-02-91, Artigas, Defensor Sporting
+44, Mario Risso, URU, D, 1.91, 83, 31-01-88, Montevideo, Nacional [URU]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Diego Hernández, URU, F, 1.75, 67, 22-06-00, Montevideo, Botafogo
+10, Leonardo Pais, URU, M, 1.82, 69, 07-07-94, Minas, Re-Registered (7)
+20, Nicolás Albarracín, URU, M, 1.82, 72, 11-06-93, Montevideo, Re-Registered (10)
+27, Santiago Ramírez, URU, F, 1.75, 65, 03-09-01, Mercedes, Nacional [URU]
+11, Agustín Santurio, URU, F, 1.78, 77, 02-05-01, Montevideo, Rentistas (On Loan)
+28, Luciano Cosentino, URU, F, 1.72, 70, 18-05-01, Montevideo, Plaza Colonia (On Loan)
+19, Agustín Albarracín, URU, F, 1.76, 63, 29-08-05, Montevideo, Re-Registered (11)

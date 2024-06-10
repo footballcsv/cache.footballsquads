@@ -1,0 +1,31 @@
+=  Lille - French Ligue 1 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Léo, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, Rio Ave
+2, Tiago Djaló, POR, D, 1.90, 85, 09-04-00, Amadora, Milan
+3, Saad Agouzoul, MAR, D, 1.91, 75, 10-08-97, Marrakech, Kawkab Marrakech
+4, Gabriel, BRA, D, 1.90, 78, 19-12-97, São Paulo, Avaí
+6, José Fonte, POR, D, 1.87, 81, 22-12-83, Penafiel, Dalian Yifang
+7, Victor Osimhen, NGA, F, 1.85, 77, 29-12-98, Lagos, Charleroi
+8, Xeka, POR, M, 1.86, 80, 10-11-94, Rebordosa, Sporting Gijón
+9, Loïc Rémy, FRA, F, 1.85, 83, 02-01-87, Rillieux-la-Pape, Las Palmas
+10, Jonathan Ikoné, FRA, M, 1.80, 70, 02-05-98, Bondy, Paris St-Germain
+11, Luiz Araújo, BRA, F, 1.75, 67, 02-06-96, Santa Clara do Sul, São Paulo
+12, Yusuf Yazıcı, TUR, M, 1.83, 78, 29-01-97, Trabzon, Trabzonspor
+14, Jonathan Bamba, FRA, M, 1.73, 67, 26-03-96, Alfortville, St-Etienne
+16, Mike Maignan, FRA, G, 1.87, 80, 03-07-95, Cayenne, Paris St-Germain
+17, Zeki Çelik, TUR, D, 1.80, 67, 17-02-97, Bursa, İstanbulspor
+18, Renato Sanches, POR, M, 1.76, 75, 18-08-97, Lisbon, Bayern Munich
+20, Nicolás Gaitán, ARG, M, 1.73, 66, 23-02-88, San Martín, Chicago Fire
+21, Benjamin André, FRA, M, 1.77, 68, 03-08-90, Nice, Rennes
+22, Timothy Weah, USA, F, 1.85, 66, 22-02-00, New York, Paris St-Germain
+24, Boubakary Soumaré, FRA, M, 1.88, 82, 27-02-99, Noisy-le-Sec, None
+26, Jérémy Pied, FRA, D, 1.73, 69, 23-02-89, Grenoble, Southampton
+28, Reinildo Mandava, MOZ, D, 1.80, 74, 21-01-94, Beira, Belenenses
+29, Domagoj Bradarić, CRO, D, 1.78, 69, 10-12-99, Split, Hajduk Split
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Flamengo (On Loan)
+5, Adama Soumaoro, CIV, D, 1.87, 75, 18-06-92, Fontenay-aux-Roses, Genoa (On Loan)

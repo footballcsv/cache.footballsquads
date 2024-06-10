@@ -1,0 +1,44 @@
+=  Galatasaray - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Muslera, URU, G, 1.90, 77, 16-06-86, Montevideo, Lazio
+2, Şener Özbayraklı, TUR, D, 1.81, 71, 23-01-90, Borçka, Fenerbahçe
+5, Ahmet Yılmaz Çalık, TUR, D, 1.82, 77, 26-02-94, Yenimahalle, Gençlerbirliği
+6, Jean Michaël Seri, CIV, M, 1.65, 67, 19-07-91, Grand-Bereby, Fulham
+7, Adem Büyük, TUR, M, 1.77, 74, 30-08-87, Hopa, Yeni Malatyaspor
+8, Selçuk İnan, TUR, M, 1.82, 74, 10-02-85, İskenderun, Trabzonspor
+9, Radamel Falcao García, COL, F, 1.77, 72, 10-02-86, Santa Marta, Monaco
+10, Younès Belhanda, MAR, M, 1.74, 75, 25-02-90, Avignon, Dynamo Kyiv
+14, Martin Linnes, NOR, D, 1.83, 76, 20-09-91, Kongsvinger, Molde
+15, Ryan Donk, NED, M, 1.92, 80, 30-03-86, Amsterdam, Kasımpaşa
+17, Yunus Akgün, TUR, F, 1.73, 65, 07-07-00, İstanbul, None
+19, Ömer Bayram, TUR, D, 1.73, 73, 27-07-91, Breda, Akhisar Belediyespor
+20, Emre Akbaba, TUR, M, 1.80, 73, 04-10-92, Montfermeil, Alanyaspor
+21, Jimmy Durmaz, SWE, M, 1.80, 69, 22-03-89, Örebro, Toulouse
+22, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Sevilla
+23, Florin Andone, ROU, F, 1.80, 78, 11-04-93, Botoșani, Brighton & HA
+27, Christian Luyindama, COD, D, 1.91, 91, 08-01-94, Kinshasa, Standard Liège
+28, Jesse Sekidika, NGA, F, 1.74, 68, 14-07-96, Port Harcourt, Eskişehirspor
+30, Atalay Babacan, TUR, M, 1.74, 70, 28-06-00, Denizli, None
+34, Okan Koçuk, TUR, G, 1.91, 83, 27-07-95, Bursa, Bursaspor
+36, Marcelo Saracchi, URU, D, 1.72, 69, 23-04-98, Paysandú, RB Leipzig
+40, Emin Bayram, TUR, D, 1.86, 78, 02-04-03, Esenler, None
+41, Erencan Yardımcı, TUR, F, 1.84, 76, 04-02-02, İzmit, None
+45, Marcão, BRA, D, 1.85, 77, 05-06-96, Londrina, Chaves
+48, Taylan Antalyalı, TUR, M, 1.80, 71, 08-01-95, Yatağan, BB Erzurumspor
+55, Yuto Nagatomo, JPN, D, 1.70, 68, 12-09-86, Ehime, Internazionale
+70, Henry Onyekuru, NGA, F, 1.75, 70, 05-06-97, Onitsha, Monaco
+89, Sofiane Feghouli, ALG, M, 1.77, 75, 26-12-89, Levallois-Perret, West Ham U
+99, Mario Lemina, GAB, M, 1.84, 85, 01-09-93, Libreville, Southampton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+88, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Marseille
+66, Valentine Ozornwafor, NGA, D, 1.94, 75, 01-06-99, Port Harcourt, Almería (On Loan)
+91, Mbaye Diagne, SEN, F, 1.92, 86, 28-10-91, Dakar, Club Brugge (On Loan)
+11, Ryan Babel, NED, F, 1.85, 78, 19-12-86, Amsterdam, Ajax (On Loan)
+12, Batuhan Ahmet Şen, TUR, G, 1.94, 81, 03-02-99, İstanbul, Hekimoğlu Trabzon (On Loan)
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Kayserispor (On Loan)
+92, Steven N'Zonzi, FRA, M, 1.96, 75, 15-12-88, Colombes, Roma
+97, Emre Mor, TUR, F, 1.68, 60, 24-07-97, Brønshøj, Celta Vigo

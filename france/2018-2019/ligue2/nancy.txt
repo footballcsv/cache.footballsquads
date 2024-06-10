@@ -1,0 +1,43 @@
+=  Nancy - French Ligue 2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Syarhey Chernik, BLR, G, 1.87, 84, 20-07-88, Grodno, BATE
+2, Pape Paye, FRA, D, 1.65, 66, 31-05-90, Lyon, Bourg-en-Bresse
+3, Abdelhamid El Kaoutari, MAR, D, 1.80, 73, 17-03-90, Montpellier, Wydad Casablanca
+4, Modou Diagne, SEN, D, 1.88, 74, 03-01-94, Mbacke, None
+5, Wilfried Moimbé, FRA, D, 1.73, 65, 18-10-88, Vichy, Oldham Ath
+6, Abou-Malal Ba, FRA, M, 1.82, 74, 29-07-98, Saint-Dié, None
+8, Vincent Marchetti, FRA, M, 1.81, 69, 04-07-97, Ajaccio, Ajaccio
+9, Maurice Dalé, FRA, F, 1.87, 80, 12-07-85, Martigues, Giresunspor
+10, Amine Bassi, FRA, M, 1.73, 72, 27-11-97, Bezons, Épinal
+11, Jérémy Clément, FRA, M, 1.74, 61, 26-08-84, Béziers, St-Etienne
+12, Loris Nery, FRA, D, 1.74, 73, 05-02-91, Saint-Etienne, Valenciennes
+13, Serge N'Guessan, CIV, M, 1.65, 65, 31-07-94, Abidjan, AFAD
+15, Pape Sané, SEN, F, 1.87, 85, 30-12-91, Dakar, Caen
+16, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nantes
+17, Malaly Dembélé, FRA, F, 1.84, 73, 17-06-97, Ivry-sur-Seine, None
+18, Nicolas Saint-Ruf, FRA, D, 1.87, 81, 24-10-92, Rouen, Bastia
+19, Laurent Abergel, FRA, D, 1.70, 65, 01-02-93, Marseille, Ajaccio
+20, Aurélien Nguiamba, FRA, M, 1.79, 73, 18-01-99, Colmar, Colmar
+21, Séga Coulibaly, FRA, D, 1.84, 87, 09-06-96, Bamako, Rennes
+22, Ernest Seka, GUI, D, 1.85, 84, 22-06-87, Clichy, Strasbourg
+23, Vinni Triboulet, FRA, F, 1.83, 75, 18-06-99, Douala, None
+24, Vagner, CPV, F, 1.68, 69, 10-01-96, Mindelo, St-Etienne
+26, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, Monaco
+27, Alexis Busin, FRA, F, 1.75, 64, 07-09-95, Boulogne-sur-Mer, None
+28, Danilson da Cruz, FRA, M, 1.88, 88, 28-06-86, Créteil, Reims
+29, Christopher Maboulou, FRA, F, 1.85, 79, 19-03-90, Montfermeil, PAS Giannina
+31, Denis-Will Poha, FRA, M, 1.73, 72, 28-05-97, Lannion, Rennes
+32, Sylvain Marveaux, FRA, M, 1.72, 66, 15-04-86, Vannes, Lorient
+39, Santy Ngom, FRA, F, 1.81, 79, 07-03-93, Le Mans, Nantes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Ryan Bidounga, FRA, D, 1.84, 83, 29-04-97, Rambouillet, Le Mans (On Loan)
+2, Mathias Fischer, FRA, D, 1.81, 74, 11-07-98, Colmar, Dunkerque (On Loan)
+30, Geoffrey Jourdren, FRA, G, 1.81, 73, 04-02-86, Paris, 
+23, Anthony Koura, FRA, F, 1.80, 70, 06-05-93, Le Mans, Lausanne-Sport (On Loan)
+7, Antony Robic, FRA, M, 1.81, 77, 05-03-86, Marseille, Laval
+14, Yann Mabella, FRA, F, 1.82, 77, 22-02-96, Toulouse, Tours
+25, Mons Bassouamina, FRA, F, 1.72, 67, 28-05-98, Gonesse, Boulogne (On Loan)

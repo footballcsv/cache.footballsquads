@@ -1,0 +1,54 @@
+=  Leyton Orient - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cisak, AUS, G, 1.90, 94, 19-05-89, Kraków, Burnley
+3, Callum Kennedy, ENG, D, 1.85, 81, 09-11-89, Chertsey, AFC Wimbledon
+4, Liam Kelly, SCO, M, 1.85, 70, 10-02-90, Milton Keynes, Oldham Ath
+6, Tom Parkes, ENG, D, 1.91, 79, 15-01-92, Mansfield, Bristol R
+7, Michael Collins, IRL, M, 1.83, 74, 30-04-86, Halifax, Bengaluru
+8, Robbie Weir, NIR, M, 1.75, 73, 09-12-88, Belfast, Burton Alb
+10, Paul McCallum, ENG, F, 1.91, 76, 28-07-93, Streatham, West Ham U
+11, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Colchester U
+12, Charlie Grainger, ENG, G, 1.87, 68, 31-07-96, Enfield, None
+14, Sammy Moore, ENG, M, 1.73, 57, 07-09-87, Deal, AFC Wimbledon
+15, Nigel Atangana, FRA, M, 1.87, 72, 09-09-89, Corbeil-Essonnes, Portsmouth
+16, Nicky Hunt, ENG, D, 1.85, 86, 03-09-83, Westhoughton, Mansfield T
+17, Jordan Green, ENG, F, 1.68, 72, 22-02-95, New Cross, Bournemouth
+18, Ulrich N'Nomo, FRA, F, 1.80, 74, 28-02-96, Yaoundé, Châteauroux
+19, Teddy Mézague, FRA, D, 1.85, 83, 27-05-90, Marseille, Mouscron-Péruwelz
+20, Rowan Liburd, ENG, F, 1.94, 85, 28-08-92, Croydon, Stevenage
+22, Sandro Semedo, POR, M, 1.74, 62, 03-12-96, , Colchester U
+23, Freddy Moncur, ENG, M, 1.75, 68, 08-09-96, Harlow, None
+24, Sam Sargeant, ENG, G, 1.83, 67, 23-09-97, Greenwich, None
+25, Aron Pollock, ENG, D, 1.83, 74, 23-03-98, Basildon, Millwall
+26, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, None
+28, Josh Koroma, ENG, F, 1.78, 66, 08-11-98, Southwark, None
+29, Myles Judd, ENG, D, 1.78, 67, 26-08-99, Redbridge, None
+30, Sam Dalby, ENG, F, 1.91, 78, 17-01-00, Leytonstone, None
+31, Steven Alzate, ENG, M, 1.77, 65, 01-09-98, Camden Town, None
+32, Henry Ochieng, ENG, M, 1.79, 67, 11-11-98, Redbridge, None
+34, Michael Clark, ENG, D, 1.88, 74, 05-09-97, Hatfield, None
+35, Tristan Abrahams, ENG, F, 1.75, 67, 29-12-98, Lewisham, None
+36, Sam Alderson, ENG, M, , , , , None
+37, Yvan Erichot, FRA, D, 1.88, 87, 25-03-90, Chambray-les-Tours, Sint-Truiden
+38, Dan Happe, ENG, D, 1.97, 89, 28-09-98, Tower Hamlets, None
+39, Arthur Janata, ENG, G, , , 22-05-00, Waltham Forest, None
+40, Charley Barker, ENG, M, , , 26-12-98, , None
+41, Toby Stevenson, ENG, D, , , 22-11-99, Colchester, None
+42, Rian McLean, ENG, D, , , , , None
+43, Teddy Perkins, ENG, D, 1.84, 80, 17-05-00, Benfleet, None
+46, Jens Janse, NED, D, 1.86, 74, 01-07-86, Venlo, Ternana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Blackpool
+2, Sean Clohessy, ENG, D, 1.78, 74, 12-12-86, Croydon, Braintree T
+7, Dean Cox, ENG, M, 1.63, 69, 12-08-87, Cuckfield, Crawley T
+20, Harry Cornick, ENG, F, 1.80, 84, 06-03-95, Poole, Bournemouth
+17, Josh Doherty, NIR, D, 1.79, 70, 15-03-96, Newtownards, Ards
+33, Žan Benedičič, SVN, M, 1.87, 83, 03-10-95, Ljubljana, Olbia
+27, Jay Simpson, ENG, F, 1.80, 85, 01-12-88, Enfield, Philadelphia Union
+21, Jordan Bowery, ENG, F, 1.85, 76, 02-07-91, Nottingham, Crewe Alex (On Loan)
+5, Alan Dunne, IRL, D, 1.78, 70, 23-08-82, Dublin, Bromley
+9, Ollie Palmer, ENG, F, 1.87, 77, 21-01-92, Epsom, Luton T (On Loan)

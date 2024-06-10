@@ -1,0 +1,47 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Cristian Villagra, ARG, D, 1.72, 72, 27-12-85, Morteros, River Plate
+4, Andriy Berezovchuk, UKR, D, 1.78, 71, 16-04-81, Kharkiv, Metalurh Donetsk
+5, Oleh Shelayev, UKR, M, 1.81, 74, 05-11-76, Luhansk, Dnipro Dnipropetrovsk
+6, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Sporting CP
+7, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Coimbra
+8, Edmar Aparecida, UKR, M, 1.77, 69, 16-06-80, Mogi das Cruzes, Tavriya Simferopol
+9, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Vélez Sarsfield
+10, Cleiton Xavier, BRA, M, 1.78, 72, 23-03-83, Alagoas, Desportivo Brasil
+11, José Ernesto Sosa, ARG, M, 1.82, 77, 19-06-85, Carcarañá, Napoli
+15, Fininho, BRA, D, 1.80, 75, 03-11-83, São Paulo, Sport Recife
+16, Denis Barvinko, UKR, D, 1.72, 65, 16-02-94, Dnipropetrovsk, Metalurh Zaporizhya
+17, Serhiy Pshenychnykh, UKR, D, 1.82, 74, 09-11-81, Kharkiv, Karpaty Lviv
+19, Juan Manuel Torres, ARG, M, 1.73, 67, 20-06-85, Puerto Vilelas, San Lorenzo
+20, Márcio Azevedo, BRA, D, 1.74, 77, 05-02-86, Guarabira, Borafogo
+23, Sebastián Blanco, ARG, M, 1.68, 64, 15-03-88, Lomas de Zamora, Lanús
+25, Marlos, BRA, M, 1.74, 70, 07-06-88, São José dos Pinhais, Rentistas
+29, Oleksandr Horyainov, UKR, G, 1.88, 77, 29-06-75, Kharkiv, Kryvbas Kryvyi Rih
+30, Papa Gueye, SEN, D, 1.92, 84, 07-06-84, Dakar, Volyn Lutsk
+32, Oleh Krasnoperov, UKR, M, 1.73, 65, 25-07-80, Poltava, Vorskla Poltava
+33, Marko Dević, UKR, F, 1.85, 74, 27-10-83, Belgrade, Shakhtar Donetsk
+35, Bohdan Shust, UKR, G, 1.89, 83, 04-03-86, Sudovaya Vishnya, Shakhtar Donetsk
+36, Vladyslav Krayev, UKR, M, 1.66, 58, 05-02-95, , Metalist Kharkiv-2
+43, Oleksandr Osman, UKR, D, 1.69, 60, 18-04-96, Kharkiv, Metalist Kharkiv-2
+46, Artem Radchenko, UKR, F, 1.67, 58, 02-01-95, Kharkiv, Metalist Kharkiv-2
+50, Jajá Coelho, BRA, F, 1.89, 79, 28-02-86, Ipatinga, Al-Ahli [UAE]
+62, Volodymyr Shopin, UKR, D, 1.81, 72, 09-05-91, Kharkiv, Metalist Kharkiv-2
+65, Oleksandr Andriyevskyy, UKR, M, 1.72, 64, 25-06-94, Kharkiv, Metalist Kharkiv-2
+75, Artur Denchuk, UKR, G, 1.85, 76, 03-04-92, Kharkiv, Metalist Kharkiv-2
+81, Vladimir Dišljenković, UKR, G, 1.88, 84, 02-07-81, Belgrade, Metalurh Donetsk
+99, Ihor Shukhovtsev, UKR, G, 1.88, 79, 13-07-71, Odessa, Zorya Luhansk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Maksym Yakhno, UKR, D, 1.75, 64, 03-04-88, Kharkiv, Stal Alchevsk
+7, Taison, BRA, F, 1.72, 64, 17-01-88, Pelotas, Shakhtar Donetsk
+32, Volodymyr Lysenko, UKR, F, 1.83, 77, 20-04-88, Kyiv, Hoverla Uzhhorod (On Loan)
+82, Pavlo Rebenok, UKR, M, 1.80, 70, 23-07-85, Ordzhonikidze, Vorskla Poltava (On Loan)
+77, Andriy Oberemko, UKR, M, 1.82, 73, 18-03-84, Zaporozhskaya, Metalurh Zaporizhya (On Loan)
+9, Andriy Vorobey, UKR, F, 1.80, 74, 29-11-78, Donetsk, Helios Kharkiv (On Loan)
+22, Milan Obradović, SRB, D, 1.82, 73, 03-08-77, Belgrade, Arsenal Kyiv (On Loan)
+13, Vyacheslav Sharpar, UKR, M, 1.90, 78, 02-06-87, Zelenodolsk, Arsenal Kyiv (On Loan)
+21, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Re-Registered (9)
+86, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Re-Registered (7)

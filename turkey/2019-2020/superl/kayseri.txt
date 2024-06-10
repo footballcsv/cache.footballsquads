@@ -1,0 +1,52 @@
+=  Kayserispor - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hakan Arıkan, TUR, G, 1.92, 86, 17-08-92, Kocaeli, Gençlerbirliği
+2, Emirhan Çivelek, TUR, D, 1.70, 60, 05-01-00, Devrek, Galatasaray
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Galatasaray
+5, Aymen Abdennour, TUN, D, 1.87, 84, 06-08-89, Sousse, Valencia
+8, Hasan Hüseyin Acar, TUR, M, 1.80, 70, 16-12-94, Eskişehir, Eskişehirspor
+10, Pedro Henrique, BRA, M, 1.79, 72, 16-06-90, Novo Hamburgo, PAOK
+11, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Dynamo Kyiv
+13, Miguel Lopes, POR, D, 1.82, 72, 19-12-86, Lisbon, Akhisar Belediyespor
+14, Emre Demir, TUR, M, 1.75, 68, 15-01-04, Mersin, None
+16, Doğan Alemdar, TUR, G, 1.80, 73, 29-10-02, Kocasinan, None
+17, Nurettin Korkmaz, TUR, M, 1.72, 70, 27-06-02, Kayseri, None
+18, Zoran Kvržić, BIH, M, 1.80, 72, 07-08-88, Doboj, Rijeka
+19, Ömer Uzun, TUR, F, 1.85, 78, 23-02-00, Dortmund, Bochum
+20, Aksel Aktaş, FRA, M, 1.76, 69, 15-07-99, Audincourt, Reims
+21, Muris Mešanovič, BIH, F, 1.77, 75, 06-07-90, Sarajevo, Mladá Boleslav
+22, Levent Gülen, SUI, D, 1.80, 68, 24-02-94, Zürich, Grasshoppers
+24, Mert Kula, TUR, D, 1.85, 80, 01-01-95, İstanbul, Sariyer
+25, Alpay Çelebi, TUR, D, 1.95, 74, 04-04-99, Kocaeli, Beşiktaş
+27, Brice Dja Djédjé, CIV, D, 1.68, 75, 23-12-90, Aboudé, Ankaragücü
+28, Mehmet Eray Özbek, TUR, M, , , 09-01-03, Kocasinan, None
+32, Karahan Yasir Subaşı, TUR, D, 1.80, 73, 01-01-96, Sakarya, Fenerbahçe
+33, Silviu Lung Jr., ROU, G, 1.89, 84, 04-06-89, Craiova, Astra Giurgiu
+38, Ben Rienstra, NED, M, 1.82, 67, 05-06-90, Akersloot, SC Heerenveen
+43, Bernard Mensah, GHA, M, 1.80, 73, 17-10-94, Accra, Atlético Madrid
+44, Oğuzhan Çapar, TUR, D, 1.75, 68, 08-10-96, Balıkesir, Balıkesirspor
+61, Ziya Alkurt, TUR, M, 1.76, 69, 26-09-90, Erzurum, Denizlispor
+70, Cenk Şahin, TUR, M, 1.79, 65, 22-09-94, Zonguldak, St Pauli
+84, Cristian Săpunaru, ROU, D, 1.87, 81, 05-04-84, Bucharest, Denizlispor
+86, Diego Ângelo, BRA, D, 1.92, 89, 12-02-86, Anápolis, Antalyaspor
+88, Gustavo Campanharo, BRA, M, 1.78, 66, 04-04-92, Caxias do Sul, Chapecoense
+90, Anthony Uzodimma, NGA, M, 1.76, 66, 17-04-99, Eziala, None
+92, Mario Šitum, CRO, F, 1.77, 75, 04-04-92, Zagreb, Dinamo Zagreb
+95, İsmail Çipe, TUR, G, 1.97, 85, 05-01-95, Hatay, Galatasaray
+97, Selahattin Seyhun, TUR, F, , , 28-06-99, Develi, Bağcılarspor
+98, Furkan Polat, TUR, M, , , 20-04-98, Kayseri, Canakkale Dardanelspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Sakıb Aytaç, TUR, D, 1.83, 80, 24-11-91, Konak, Yeni Malatyaspor
+30, Adem Doğan, TUR, D, 1.80, 70, 05-10-01, Kayseri, Yeni Orduspor (On Loan)
+4, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Olimpia [PAR]
+77, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, Sion
+15, Atila Turan, FRA, D, 1.76, 79, 10-04-92, Cheny, Ankaragücü
+7, Bilal Başacıkoğlu, NED, F, 1.79, 64, 26-03-95, Zaanstad, Trabzonspor
+9, Umut Bulut, TUR, F, 1.84, 75, 15-03-83, Yeşilhisar, Yeni Malatyaspor
+66, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, 
+6, Benoît Poulain, FRA, D, 1.86, 80, 24-07-87, Montpellier, 
+29, Paul-Georges Ntep, FRA, M, 1.80, 75, 29-07-92, Douala, Wolfsburg

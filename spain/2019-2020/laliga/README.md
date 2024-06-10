@@ -1,0 +1,23 @@
+# Spanish LaLiga 2019/2020
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Celta Vigo](celta.txt)
+- [Eibar](eibar.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Leganés](leganes.txt)
+- [Levante](levante.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Valladolid](vallad.txt)
+- [Villarreal](villar.txt)

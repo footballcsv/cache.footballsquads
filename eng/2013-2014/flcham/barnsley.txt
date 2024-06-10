@@ -1,0 +1,56 @@
+=  Barnsley - English Football League Championship 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luke Steele, ENG, G, 1.88, 76, 24-09-84, Peterborough, WBA
+2, Bobby Hassell, ENG, D, 1.78, 76, 04-06-80, Derby, Mansfield T
+3, Peter Ramage, ENG, D, 1.85, 76, 22-11-83, Ashington, Crystal Palace
+4, Thomas Kennedy, ENG, D, 1.80, 79, 24-06-85, Bury, Leicester C
+5, Lewin Nyatanga, WAL, D, 1.88, 80, 18-08-88, Burton-on-Trent, Bristol C
+6, Martin Cranie, ENG, D, 1.83, 78, 23-09-86, Yeovil, Coventry C
+7, James O'Brien, SCO, F, 1.83, 75, 28-09-87, Glasgow, Motherwell
+8, Stephen Dawson, IRL, M, 1.68, 71, 04-12-85, Dublin, Leyton Orient
+9, Nick Proschwitz, GER, F, 1.92, 84, 28-11-86, Weißenfels, Hull C
+10, Chris O'Grady, ENG, F, 1.91, 78, 25-01-86, Nottingham, Sheffield W
+11, Martin Woods, SCO, M, 1.75, 68, 01-01-86, Bellshill, Doncaster R
+12, Jack Hunt, ENG, D, 1.75, 71, 06-12-90, Leeds, Crystal Palace
+14, Liam Lawrence, IRL, M, 1.80, 72, 14-12-81, Retford, PAOK
+15, Emmanuel Frimpong, GHA, M, 1.83, 83, 10-01-92, Accra, Arsenal
+16, Dale Jennings, ENG, M, 1.70, 70, 21-12-92, Liverpool, Bayern Munich II
+17, Paul Digby, ENG, M, 1.75, 64, 02-02-95, Sheffield, None
+18, Andrai Jones, ENG, M, 1.80, 68, 01-01-92, Liverpool, Bury
+19, Tomasz Cywka, POL, M, 1.80, 76, 27-06-88, Gliwice, Reading
+20, Marcus Pedersen, NOR, F, 1.80, 79, 08-06-90, Hamar, Vitesse
+21, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Chelsea
+22, Jean-Yves Mvoto, FRA, D, 1.93, 93, 06-09-88, Paris, Oldham Ath
+23, Kelvin Etuhu, NGA, F, 1.80, 79, 30-05-88, Kano, Portsmouth
+24, Reuben Noble-Lazarus, ENG, F, 1.80, 86, 16-08-93, Huddersfield, None
+25, Jordan Clark, ENG, F, 1.83, 73, 22-09-93, Barnsley, None
+26, Sam Patterson, ENG, M, 1.73, 68, 29-10-93, Leeds, None
+27, Ryan McLaughlin, NIR, D, 1.74, 69, 03-09-94, Belfast, Liverpool
+29, John Cofie, ENG, F, 1.83, 81, 21-01-93, Aboso, Manchester U
+30, Christian Dibble, WAL, G, 1.90, 88, 11-05-94, Wilmslow, Bury
+31, Iain Turner, SCO, G, 1.93, 70, 26-01-84, Stirling, Preston NE
+32, Danny Rose, ENG, F, 1.73, 57, 10-12-93, Barnsley, None
+33, Rhys Oates, ENG, F, 1.83, 74, 04-12-94, Pontefract, None
+34, Nana Boakye-Yiadom, ENG, F, 1.70, 70, 13-05-96, , West Ham U
+35, James Bree, ENG, D, 1.78, 74, 11-10-97, Wakefield, None
+36, Jack Cowgill, ENG, D, 1.86, 85, 08-01-97, Wakefield, None
+42, Patrick McCourt, NIR, M, 1.82, 70, 16-12-83, Derry, Celtic
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Wolverhampton W
+12, Ben Alnwick, ENG, G, 1.88, 80, 01-01-87, Prudhoe, Charlton Ath
+31, Mike Pollitt, ENG, G, 1.93, 89, 29-02-72, Farmworth, Wigan Ath
+27, Dennis Knight, ENG, M, 1.73, 68, 30-01-94, Newcastle upon Tyne, West Auckland T
+28, Jake Scott, ENG, D, 1.75, 74, 22-10-93, Lincoln, Worksop T
+12, Jack Butland, ENG, G, 1.92, 95, 10-03-93, Bristol, Stoke C
+34, David Fox, ENG, M, 1.75, 77, 13-12-83, Stoke, Norwich C
+50, Marcus Tudgay, ENG, F, 1.75, 73, 03-02-83, Worthing, Nottingham F
+13, Chris Dagnall, ENG, F, 1.73, 75, 15-04-86, Liverpool, Leyton Orient
+14, Scott Wiseman, ENG, D, 1.83, 73, 09-10-85, Hull, Preston NE
+11, David Perkins, ENG, D, 1.68, 76, 21-06-82, Heysham, Blackpool
+15, Jim McNulty, SCO, D, 1.83, 77, 13-02-85, Liverpool, Bury
+9, Jason Scotland, TRI, F, 1.73, 73, 18-02-79, Morvant, Hamilton Academical
+33, Brek Shea, USA, M, 1.90, 82, 28-02-90, College Station, Stoke C

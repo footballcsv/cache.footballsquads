@@ -1,0 +1,58 @@
+=  Fluminense - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Cruzeiro
+2, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Ceará
+4, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, Shakhtar Donetsk
+5, Alexsander, BRA, M, 1.77, 67, 08-10-03, Rio de Janeiro, None
+6, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Palmeiras
+7, André, BRA, M, 1.76, 77, 16-07-01, Algodão, None
+8, Martinelli, BRA, M, 1.77, 75, 05-10-01, Presidente Prudente, None
+9, John Kennedy, BRA, F, 1.73, 71, 18-05-02, Itaúna, None
+10, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, Sevilla
+11, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, Atlético Mineiro
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Olympiakos
+13, Felipe Andrade, BRA, D, 1.82, 74, 29-05-02, Boa Viagem, None
+14, Germán Cano, ARG, F, 1.76, 72, 02-02-88, Posadas, Vasco da Gama
+15, Yony González, COL, M, 1.82, 75, 11-07-94, Medellín, Portimonense
+16, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Grêmio
+17, Leonardo Fernández, URU, M, 1.66, 62, 08-11-98, Montevideo, Toluca
+18, Lelê, BRA, F, 1.89, 83, 01-10-97, Rio de Janeiro, Profute
+21, Jhon Arias, COL, M, 1.68, 70, 21-09-97, Quibdó, Santa Fe
+22, Pedro Rangel, BRA, G, 1.92, 88, 29-06-00, Nepomuceno, Itapirense
+23, Guga, BRA, D, 1.77, 66, 29-08-98, Rio de Janeiro, Atlético Mineiro
+26, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Cruzeiro
+28, Arthur Wenderroscky, BRA, M, 1.73, 59, 24-02-05, Nova Friburgo, None
+29, Thiago Santos, BRA, M, 1.81, 78, 05-09-89, Curitiba, Grêmio
+30, Felipe Melo, BRA, M, 1.83, 73, 26-06-83, Volta Redonda, Palmeiras
+32, Isaac, BRA, M, 1.70, 63, 24-04-04, Teresina, None
+33, Nino, BRA, D, 1.88, 79, 10-04-97, Recife, Criciúma
+35, João Neto, BRA, F, 1.81, 72, 10-07-03, Livramento de Nossa Senhora, None
+36, Julio Fidelis, BRA, D, -, -, 06-11-06, -, None
+37, Giovanni, BRA, F, 1.76, 67, 31-01-02, Bauru, Ajax
+38, Agner, BRA, F, -, -, 22-03-05, -, None
+39, Kauã Elias, BRA, F, 1.80, 71, 28-03-06, Uberlândia, None
+40, Matheus Reis, BRA, F, 1.80, 64, 02-04-07, Mexico City, None
+41, Kayky Almeida, BRA, D, -, -, 01-05-05, -, None
+42, Thiago Henrique, BRA, M, -, -, 27-04-04, -, None
+44, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Grêmio
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Ceará
+46, Lucas Justen, BRA, D, 1.85, 78, 03-07-03, Petrópolis, None
+47, Rafael Monteiro, BRA, D, -, -, 14-02-04, -, None
+50, Gustavo Ramalho, BRA, G, 2.00, 83, 16-09-02, Nanuque, None
+52, Gustavo Dohmann, BRA, M, -, -, 15-03-05, -, None
+53, Esquerdinha, BRA, D, -, -, 28-02-06, -, None
+55, Daniel, BRA, M, 1.73, 65, 11-01-96, Rio de Janeiro, Bahia
+98, Vitor Eudes, BRA, G, 1.95, 85, 21-10-98, Belo Horizonte, Marítimo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Vitor Mendes, BRA, D, 1.86, 70, 13-02-99, Belém, Atlético Mineiro De-Registered
+38, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, FC Midtjylland
+40, Luan Freitas, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, Londrina (On Loan)
+19, Alexandre Jesus, BRA, F, 1.83, 82, 16-09-01, Nova Lima, Tombense (On Loan)
+20, Gabriel Pirani, BRA, M, 1.70, 64, 12-02-02, Penápolis, Santos
+34, Edinho, BRA, M, 1.71, 67, 23-08-01, Brasília, Avaí (On Loan)
+18, Alan, CHN, F, 1.82, 72, 10-07-89, José Bonifácio, 
+99, Lelê, BRA, F, 1.89, 83, 01-10-97, Rio de Janeiro, Re-Registered (18)

@@ -1,0 +1,49 @@
+=  Rayo Vallecano - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Getafe
+2, Tito, ESP, D, 1.75, 64, 11-07-85, Madrid, Leganés
+3, Uche Agbo, NGA, M, 1.86, 73, 04-12-95, Kano City, Standard Liège
+4, Álvaro Medrán, ESP, M, 1.76, 71, 15-03-94, Dos Torres, Valencia
+5, Alejandro Catena, ESP, D, 1.94, 82, 28-10-94, Madrid, Reus
+6, Gorka Elustondo, ESP, M, 1.82, 73, 18-03-87, Beasain, Atlético Nacional
+7, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Mallorca B
+8, Óscar Trejo, ARG, F, 1.80, 79, 26-04-88, Santiago del Estero, Toulouse
+9, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Real Madrid B
+10, Gaël Kakuta, COD, F, 1.73, 65, 21-06-91, Lille, Hebei China Fortune
+11, Adri Embarba, ESP, F, 1.73, 66, 07-05-92, Madrid, Rayo B
+12, Giannelli Imbula, CGO, M, 1.83, 77, 12-09-92, Vilvoorde, Stoke C
+13, Stole Dimitrievski, MKD, G, 1.88, 80, 23-12-93, Kumanovo, Nàstic
+14, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Eibar
+15, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Guizhou Hengfeng
+16, Jordi Amat, ESP, D, 1.84, 80, 21-03-92, Canet de Mar, Swansea C
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, UANL Tigres
+18, Álvaro García, ESP, M, 1.68, 58, 27-10-92, Utrera, Cádiz
+20, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Atlético Madrid
+21, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, FC Porto
+22, José Ángel Pozo, ESP, M, 1.70, 60, 15-03-96, Málaga, Almería
+23, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Eibar
+24, Javi Guerra, ESP, F, 1.81, 78, 15-03-83, Vélez, Cardiff C
+25, Franco Di Santo, ARG, F, 1.94, 78, 07-04-89, Mendoza, Schalke
+27, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+28, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Rayo B
+29, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Rayo B
+30, Miguel Ángel Morro, ESP, G, 1.95, 82, 11-09-00, Alcalá de Henares, Rayo B
+31, Martín Pascual, ESP, D, 1.90, 78, 04-08-99, Madrid, Rayo B
+32, Javi Rubio, ESP, M, , , 12-05-99, , Rayo B
+33, Luis Meseguer, EQG, D, 1.80, 78, 07-09-99, Madrid, Rayo B
+34, Manu Navarro, ESP, M, , , 09-10-00, , Rayo B
+35, Alberto, ESP, M, , , 27-02-99, , Rayo B
+36, Carrasco, ESP, F, , , 01-10-96, , Rayo B
+37, Álex Cano, ESP, F, , , , , Rayo B
+38, Ángel Algobia, ESP, M, 1.80, 78, 23-06-99, Velilla de San Antonio, Rayo B
+40, Miguel Mendióroz, ESP, G, , , 05-01-97, , Rayo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Deportivo La Coruña B (On Loan)
+19, Alhassane Bangoura, GUI, F, 1.74, 71, 30-03-92, Conakry, Vancouver Whitecaps (On Loan)
+5, José Antonio Dorado, ESP, D, 1.80, 69, 10-07-82, Córdoba, Zaragoza
+25, Álex Alegría, ESP, F, 1.89, 82, 10-10-92, Plasencia, Betis
+26, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, AFC Eskilstuna (On Loan)

@@ -1,0 +1,54 @@
+=  Botafogo - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Fernández, PAR, G, 1.91, 81, 29-03-88, Asunción, Figueirense
+2, Rafael, BRA, D, 1.72, 65, 09-07-90, Petrópolis, İstanbul Başakşehir
+4, Mateo Ponte, URU, D, 1.83, 74, 24-05-03, Montevideo, Danubio
+5, Danilo Barbosa, BRA, M, 1.82, 73, 28-02-96, Simões Filho, Nice
+6, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, São Paulo
+7, Victor Sá, BRA, M, 1.78, 68, 27-03-94, São José dos Campos, Al-Jazira
+8, Patrick de Paula, BRA, M, 1.80, 75, 08-09-99, Rio de Janeiro, Palmeiras
+9, Tiquinho Soares, BRA, F, 1.87, 89, 17-01-91, Sousa, Olympiakos
+10, Matías Segovia, PAR, F, 1.65, 54, 04-01-03, Caaguazú, Guaraní [PAR]
+11, Luis Henrique, BRA, F, 1.81, 78, 14-12-01, João Pessoa, Marseille
+12, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, São Paulo
+14, Gabriel Pires, BRA, M, 1.87, 82, 18-09-93, Resende, Benfica
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Internacional
+16, Hugo, BRA, D, 1.75, 67, 20-09-01, João Pessoa, None
+17, Marlon Freitas, BRA, M, 1.85, 78, 27-03-95, Magé, Atlético Goianiense
+18, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, Portimonense
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Wolverhampton W
+21, Marçal, BRA, D, 1.78, 72, 19-02-89, São Paulo, Wolverhampton W
+22, Wallison, BRA, D, 1.77, 72, 24-07-01, São Paulo, Red Bull Bragantino
+23, Bastos, ANG, D, 1.80, 77, 23-11-91, Luanda, Al-Ahli Saudi
+24, Leonel Di Plácido, ARG, D, 1.76, 72, 28-01-94, Capital Federal, Lanús
+27, Carlos Alberto, BRA, F, 1.81, 67, 14-04-02, João Pessoa, América Mineiro
+28, Newton, BRA, M, 1.88, 78, 12-03-00, Salvador, Jacuipense
+30, Bernardo Valim, BRA, M, 1.86, 78, 31-01-06, Niterói, None
+31, João Fernando, BRA, G, 1.86, 70, 01-03-01, Volta Redonda, Flamengo
+32, Jacob Montes, USA, M, 1.80, 68, 20-12-98, Mission Viejo, Crystal Palace
+33, Carlos Eduardo, BRA, M, 1.83, 72, 17-10-89, Sorocaba, Al-Ahli Saudi
+34, Adryelson, BRA, D, 1.82, 74, 23-03-98, Recife, Sport Recife
+37, Júnior Santos, BRA, F, 1.88, 80, 11-10-94, Conceição do Jacuípe, Fortaleza
+39, Janderson, BRA, F, 1.89, 77, 06-05-99, São João de Meriti, Bahia de Feira
+43, Sousa, BRA, D, 1.90, 79, 04-07-01, Rio de Janeiro, None
+52, Igo Gabriel, BRA, G, 1.90, 82, 13-10-01, Maceió, CSA
+57, JP, BRA, M, 1.84, 75, 07-05-01, Cabo Frio, Vasco da Gama
+75, Raí, BRA, M, 1.71, 70, 07-05-01, Duque de Caxias, None
+77, Diego Hernández, URU, F, 1.75, 67, 22-06-00, Montevideo, Montevideo Wanderers
+90, Matheus Nascimento, BRA, F, 1.82, 75, 03-03-04, Rio de Janeiro, None
+94, Philipe Sampaio, BRA, D, 1.91, 89, 11-11-94, São Paulo, Guingamp
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Joel Carli, ARG, D, 1.91, 89, 19-10-86, Mar del Plata, Retired
+43, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, Sporting Braga
+20, Daniel Borges, BRA, D, 1.74, 68, 23-03-93, São José dos Campos, América Mineiro (On Loan)
+35, Breno, BRA, M, 1.77, 77, 01-09-00, Santana, Ceará (On Loan)
+4, Luis Segovia, ECU, D, 1.82, 80, 26-10-97, Quito, RWD Molenbeek (On Loan)
+10, Gustavo Sauer, BRA, F, 1.81, 74, 30-04-93, Joinville, Rizespor (On Loan)
+19, Matías Segovia, PAR, F, 1.65, 54, 04-01-03, Caaguazú, Re-Registered (10)
+40, Lucas Mezenga, BRA, D, 1.85, 78, 20-10-01, Rio de Janeiro, Tondela
+62, Kayque, BRA, M, 1.76, 78, 12-07-00, Rio de Janeiro, RWD Molenbeek (On Loan)
+56, Henrique Vermudt, BRA, D, 1.82, 76, 25-02-99, Cascavel, Ferroviário (On Loan)

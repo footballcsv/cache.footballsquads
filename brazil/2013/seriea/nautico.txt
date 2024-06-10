@@ -1,0 +1,53 @@
+=  Náutico - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Gideão, BRA, G, 1.91, 89, 19-12-87, Vitória, Vera Cruz-PE
+, Jefferson, BRA, G, 1.83, 81, 18-06-93, Vitória de Santo Antão, None
+, Ricardo Berna, BRA, G, 1.87, 83, 11-06-79, Valença-RJ, Fluminense
+, Alison, BRA, D, 1.86, 76, 21-10-83, Parnamirim, ABC
+, Bruno Collaço, BRA, D, 1.73, 77, 08-03-90, São Leopoldo, Grêmio
+, Diego, BRA, D, , , 26-03-93, , None
+, Flávio Ramos, BRA, D, 1.86, 78, 12-05-94, Recife, None
+, Gustavo, BRA, D, 1.86, 82, 20-07-91, Brasília, Central-PE
+, Jean Rolt, BRA, D, 1.85, 83, 12-05-81, Jacinto Machado, Al-Sailiya
+, João Filipe, BRA, D, 1.90, 76, 11-06-88, Rio de Janeiro, São Paulo
+, Leandro Amaro, BRA, D, 1.86, 83, 19-06-86, Campinas, Palmeiras
+, Luiz Eduardo, BRA, D, 1.84, 76, 28-04-93, Guaíra, São Paulo
+, Maranhão, BRA, D, 1.70, 70, 25-12-85, Codó, Santos
+, William Alves, BRA, D, 1.88, 84, 29-04-87, Marília, Santa Cruz
+, Auremir, BRA, M, 1.74, 64, 10-09-91, Recife, None
+, Dadá, BRA, M, 1.72, 70, 02-11-83, Belém, Red Bull Brasil
+, Derley, BRA, M, 1.87, 70, 02-08-86, Anápolis, Atlético Paranaense
+, Elicarlos, BRA, M, 1.76, 72, 08-06-85, Laranjeiras, Cruzeiro
+, Helder, BRA, M, 1.80, 74, 01-08-91, Nova Canaã do Norte, None
+, Marcos Vinícius, BRA, M, 1.78, 70, 26-12-94, Marabá, None
+, Martínez, BRA, M, 1.85, 78, 21-04-80, Magda, Cerezo Osaka
+, Ángelo Peña, VEN, M, 1.71, 64, 25-12-89, Mérida, Caracas
+, Tiago Real, BRA, M, 1.72, 70, 26-01-89, Curitiba, Palmeiras
+, Hugo Cabral, BRA, F, 1.80, 77, 06-09-88, São João de Meriti, Tombense
+, João Paulo, BRA, F, , , 10-10-95, Picos, None
+, Jones, BRA, F, 1.77, 74, 14-10-88, Caratinga, Deportivo Maldonado
+, Kelvis, BRA, F, , , 24-03-94, , None
+, Maikon Leite, BRA, F, 1.68, 62, 03-08-88, Mogi das Cruzes, Palmeiras
+, Diego Morales, ARG, F, 1.72, 68, 29-11-86, Florida, Al-Ahli [KSA]
+, Juan Manuel Olivera, URU, F, 1.91, 80, 14-08-81, Montevideo, Peñarol
+, Rogério, BRA, F, 1.74, 66, 24-12-90, Pesqueira, Porto-PE
+, Saullo, BRA, F, 1.87, 78, 10-03-97, Recife, Non
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Élton, BRA, F, 1.85, 84, 01-08-85, Iramaia, Corinthians
+, Luis Eduardo, BRA, D, 1.86, 78, 16-06-88, , Luverdense
+, Josa, BRA, M, 1.82, 76, 24-09-84, Matuipe, Salgueiro
+, Adeílson, BRA, F, 1.86, 73, 07-10-85, Nova União, Tombense
+, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Granada
+, Caion, BRA, F, 1.84, 79, 05-10-90, Caxias, Mirassol
+, João Ananias, BRA, D, 1.74, 68, 12-01-91, Recife, W Connection
+, Rodrigo Souto, BRA, M, 1.81, 75, 09-09-83, Rio de Janeiro, Figueirense
+, Alemão, BRA, D, 1.90, 84, 14-07-86, Vitória, Cuiabá
+, Oziel, BRA, D, 1.69, 68, 10-08-84, João Pessoa, Santa Cruz
+, Magrão, BRA, M, 1.86, 80, 20-12-78, São Paulo, América Mineiro
+, Felipe, BRA, G, 1.90, 79, 10-01-88, São Vicente, Fluminense (On Loan)
+, Eltinho, BRA, D, 1.71, 66, 07-07-87, Guaira, Coritiba
+, Jonatas Belusso, BRA, F, 1.76, 75, 10-06-88, Francisco Beltrão, Guaratinguetá

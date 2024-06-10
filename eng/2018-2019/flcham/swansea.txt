@@ -1,0 +1,70 @@
+=  Swansea City - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kristoffer Nordfeldt, SWE, G, 1.90, 85, 23-06-89, Stockholm, SC Heerenveen
+3, Martin Olsson, SWE, D, 1.78, 81, 17-05-88, Gävle, Norwich C
+5, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, Ajax
+8, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, QPR
+9, Oliver McBurnie, ENG, F, 1.88, 66, 04-06-96, Leeds, Bradford C
+10, Bersant Celina, KVX, M, 1.62, 60, 09-09-96, Prizren, Manchester C
+11, Luciano Narsingh, NED, M, 1.78, 69, 13-09-90, Amsterdam, PSV Eindhoven
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, Southampton
+13, Steven Benda, GER, G, 1.92, 83, 01-10-98, Stuttgart, 1860 Munich
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+16, Joel Asoro, SWE, F, 1.75, 70, 27-04-99, Stockholm, Sunderland
+17, Cameron Carter-Vickers, USA, D, 1.83, 92, 31-12-97, Southend-on-Sea, Tottenham H
+19, Barrie McKay, SCO, M, 1.75, 67, 31-12-94, Paisley, Nottingham F
+20, Daniel James, WAL, M, 1.80, 76, 10-11-97, Kingston upon Hull, Hull C
+21, Matt Grimes, ENG, M, 1.78, 70, 15-07-95, Exeter, Exeter C
+22, Joe Rodon, WAL, D, 1.90, 76, 22-10-97, Swansea, None
+23, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, None
+24, Declan John, WAL, D, 1.78, 75, 30-06-95, Merthyr Tydfil, Rangers
+25, Erwin Mulder, NED, G, 1.93, 88, 03-03-89, Zevenaar, SC Heerenveen
+26, Kyle Naughton, ENG, D, 1.80, 73, 11-11-88, Sheffield, Tottenham H
+27, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Falkirk
+28, George Byers, SCO, M, 1.80, 73, 29-05-96, Ilford, Watford
+29, Adnan Marić, SWE, M, 1.81, 76, 17-02-97, Gothenburg, GAIS
+30, Yan Dhanda, ENG, M, 1.73, 65, 14-12-98, Birmingham, Liverpool
+32, Liam Cullen, WAL, F, 1.78, 63, 23-04-99, Haverfordwest, None
+33, Jordi Govea, ECU, D, 1.74, 72, 09-03-99, Esmeraldas, Real Madrid
+34, Jack Evans, WAL, M, 1.78, 69, 25-04-98, Swansea, None
+35, Matthew Blake, WAL, D, 1.80, 75, 14-11-99, Swansea, None
+37, Keiran Evans, WAL, M, 1.73, 70, 27-03-99, Swansea, None
+38, Keston Davies, WAL, D, 1.88, 83, 02-10-96, Killay, Manchester C
+39, Gregor Zabret, SVN, G, 1.87, 82, 18-08-95, Ljubljana, Domžale
+41, Jordan Garrick, ENG, F, 1.83, 78, 15-07-98, , Ossett Alb
+42, Cameron Berry, WAL, M, 1.80, 60, 25-06-00, Swansea, None
+43, Marco Dulca, ROU, M, , , 11-05-99, Cluj-Napoca, Universitatea Cluj
+44, Ben Cabango, WAL, D, 1.91, 75, 30-05-00, Cardiff, None
+45, Tom Price, WAL, M, 1.78, 75, 26-11-99, Swansea, None
+46, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Leamington
+47, Tyler Reid, ENG, D, 1.80, 72, 02-09-97, Luton, Manchester U
+48, Ollie Cooper, WAL, M, 1.76, 68, 14-12-99, Derby, None
+49, Kees de Boer, NED, M, 1.79, 65, 13-05-00, Volendam, Ajax
+50, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, Coventry C
+52, Jack Withers, ENG, D, , , , , Boston U
+53, Adam King, SCO, M, 1.80, 75, 11-10-95, Edinburgh, Hearts
+54, Joe Lewis, WAL, D, 1.88, 85, 20-09-99, Neath, None
+55, Brandon Cooper, WAL, D, 1.85, 74, 14-01-00, Bridgend, None
+56, Simon Paulet, BEL, M, 1.79, 66, 15-02-00, Mons, Club Brugge
+57, Josh Gould, WAL, G, 1.95, 92, 27-03-97, Taunton, Taff's Well
+58, Cameron Evans, WAL, D, 1.88, 77, 23-02-01, Swansea, None
+59, Jacob Jones, WAL, D, , , 05-09-01, , None
+60, Ryan Bevan, WAL, D, , , 20-10-01, , None
+61, Arnór Guðjohnsen, ISL, M, 1.86, 70, 16-09-00, , Breiðablik
+62, Shaquille Wynter-Coles, WAL, F, , , 10-10-00, , None
+63, Daniel Williams, WAL, M, 1.72, 65, 19-04-01, Swansea, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Federico Fernández, ARG, D, 1.90, 83, 21-02-89, Tres Algarrobos, Newcastle U
+17, Sam Clucas, ENG, M, 1.78, 74, 20-08-90, Lincoln, Stoke C
+18, Jordan Ayew, GHA, F, 1.82, 81, 11-09-91, Marseille, Crystal Palace (On Loan)
+24, Jordi Amat, ESP, D, 1.84, 80, 21-03-92, Canet de Mar, Rayo Vallecano
+31, Aaron Lewis, WAL, D, 1.83, 85, 26-06-98, Swansea, Doncaster R (On Loan)
+2, Wilfried Bony, CIV, F, 1.82, 88, 10-12-88, Bingerville, Al-Arabi [QAT] (On Loan)
+7, Jefferson Montero, ECU, M, 1.73, 70, 01-09-89, Babahoyo, WBA (On Loan)
+14, Tom Carroll, ENG, M, 1.78, 64, 28-05-92, Watford, Aston Villa (On Loan)
+36, Botti Bia-Bi, SCO, F, 1.88, 79, 08-03-96, Camberwell, Macclesfield T (On Loan)
+51, Ryan Blair, SCO, M, 1.86, 76, 23-02-96, Glasgow, Dunfermline Ath (On Loan)

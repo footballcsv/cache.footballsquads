@@ -1,0 +1,35 @@
+=  Getafe - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Leandro Chichizola, ARG, G, 1.86, 82, 27-03-90, San Justo, Las Palmas
+2, Dakonam Djené, TOG, D, 1.87, 72, 31-12-91, Dapaong, Sint-Truiden
+3, Vitorino Antunes, POR, D, 1.76, 70, 01-04-87, Freamunde, Dynamo Kyiv
+4, Bruno, ESP, D, 1.85, 83, 24-05-90, Las Galletas, Betis
+5, Markel Bergara, ESP, M, 1.80, 74, 05-05-86, Elgoibar, Real Sociedad
+6, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Crotone
+7, Jaime Mata, ESP, F, 1.85, 75, 24-10-88, Madrid, Valladolid
+8, Francisco Portillo, ESP, M, 1.69, 60, 13-06-90, Málaga, Betis
+9, Ángel, ESP, F, 1.72, 68, 26-04-87, Santa Cruz de Tenerife, Zaragoza
+10, Gaku Shibasaki, JPN, M, 1.75, 62, 28-05-92, Aomori, Tenerife
+11, Samu Sáiz, ESP, M, 1.74, 68, 22-01-91, Madrid, Leeds U
+13, David Soria, ESP, G, 1.92, 85, 04-04-93, Madrid, Sevilla
+15, Sebastián Cristóforo, URU, M, 1.74, 65, 23-08-93, Montevideo, Fiorentina
+16, Mathieu Flamini, FRA, M, 1.78, 67, 07-03-84, Marseille, Crystal Palace
+17, Mathías Olivera, URU, D, 1.84, 78, 31-10-97, Montevideo, Nacional [URU]
+18, Mauro Arambarri, URU, M, 1.75, 74, 30-09-95, Salto, Boston River
+19, Jorge Molina, ESP, F, 1.88, 72, 22-04-82, Alcoy, Betis
+20, Nemanja Maksimović, SRB, M, 1.84, 75, 26-01-95, Banja Koviljača, Valencia
+21, Ignasi Miquel, ESP, D, 1.88, 82, 28-09-92, Corbera de Llobregat, Málaga
+22, Damián Suárez, URU, D, 1.72, 61, 27-04-88, Montevideo, Elche
+24, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Watford
+25, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Real Madrid
+27, Hugo Duro, ESP, F, , , 10-11-99, , Getafe B
+29, Miguel Ángel, ESP, D, 1.91, 86, 11-03-98, , Getafe B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Amath Ndiaye, SEN, F, 1.73, 70, 16-07-96, Dakar, De-Registered
+14, Sergi Guardiola, ESP, M, 1.80, 77, 29-05-91, Manacor, Córdoba
+17, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Osasuna (On Loan)
+23, Iván Alejo, ESP, M, 1.86, 77, 10-02-95, Valladolid, Málaga (On Loan)

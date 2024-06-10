@@ -1,0 +1,63 @@
+=  Perugia - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jan Koprivec, CZE, G, 1.82, 75, 15-07-88, Koper, Udinese
+2, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Udinese
+3, Alessio Lo Porto, ITA, D, 1.81, 75, 04-04-96, Rome, Siena
+4, Matti Lund Nielsen, DEN, M, 1.84, 74, 08-05-88, Odense, Pescara
+5, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Fiorentina
+6, Edoardo Goldaniga, ITA, D, 1.88, 79, 02-11-93, Milan, Juventus
+7, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Udinese
+8, Gianluca Nicco, ITA, M, 1.86, 77, 10-08-89, Ivrea, Pescara
+9, Diego Falcinelli, ITA, F, 1.80, 75, 26-06-91, Perugia, Sassuolo
+10, Rodrigo Taddei, BRA, M, 1.77, 70, 06-03-80, São Paulo, Roma
+11, Fabinho, BRA, F, 1.81, 76, 01-01-91, Guarulhos, Udinese
+12, Alessandro Farroni, ITA, G, 1.86, 80, 20-09-97, Spoleto, None
+13, Christian Arboleda, ITA, D, , , 20-02-97, Medellín, None
+14, Matteo Lignani, ITA, M, 1.81, 68, 07-09-91, Città di Castello, Varese
+15, Alessandro Crescenzi, ITA, D, 1.78, 71, 25-09-91, Marino, Roma
+16, Daniele Barilaro, ITA, D, 1.85, 72, 06-08-96, Rome, None
+17, Nicolò Fazzi, ITA, F, 1.80, 66, 02-03-95, Borgo a Mozzano, Fiorentina
+18, Giuseppe Rizzo, ITA, M, 1.78, 71, 18-03-91, Messina, Reggina
+19, Marco Ezio Fossati, ITA, M, 1.80, 70, 05-10-92, Monza, Milan
+20, Marco Baldan, ITA, D, 1.82, 75, 13-11-93, Cittadella, Nocerina
+21, Simone Rossin, ITA, G, , , 12-05-97, Gattinara, Juventus
+22, Ivan Provedel, ITA, G, 1.87, 72, 17-03-94, Pordenone, Chievo Verona
+23, Marco Boscolo Zemelo, ITA, F, 1.90, 82, 10-05-96, Chioggia, Venezia
+24, Lorenzo Musto, ITA, F, 1.83, 70, 22-01-96, Rome, Rome
+25, Gianluca Comotto, ITA, D, 1.81, 77, 16-10-78, Ivrea, Cesena
+26, Matteo Bagnetti, ITA, D, , , 22-06-97, Foligno, None
+27, Vittorio Parigini, ITA, M, 1.77, 70, 25-03-96, Turin, Torino
+28, Davide Lanzafame, ITA, F, 1.80, 70, 09-02-87, Turin, Catania
+29, Guillermo Giacomazzi, URU, M, 1.83, 81, 21-11-77, Montevideo, Siena
+30, Pierre Desiré Zebli, CIV, F, 1.80, 75, 06-12-97, Abidjan, Internazionale
+31, Edoardo Pettinelli, ITA, F, 1.78, 70, 05-09-97, Perugia, None
+32, Marco Amelia, ITA, G, 1.90, 90, 02-04-82, Frascati, Rocca Priora
+33, Vinícius Freitas, BRA, D, 1.82, 78, 07-03-93, Rio de Janeiro, Lazio
+34, Milton Borgarello, ITA, D, , , 22-10-97, Florence, Floria
+35, Nicolò Pozzebon, ITA, F, 1.73, 64, 03-05-97, Treviso, Juventus
+36, Diego Giambi, ITA, M, , , 12-07-96, Cascia, Foligno
+37, Lorenzo Bordo, ITA, M, , , 05-01-96, Viterbo, None
+38, Mattia Proietti, ITA, D, , , 28-06-97, Perugia, None
+39, Fernando Cherbassi, BRA, F, , , 08-06-97, Cascavel, None
+40, Kevin Méndez, URU, F, 1.74, 67, 10-01-96, Trinidad, Roma
+41, Michele Priorelli, ITA, M, , , 01-02-96, Marsciano, Siena
+42, Ani Varfaj, ALB, M, , , 16-01-97, , None
+43, Alessandro Masella, ITA, M, , , 08-03-96, , None
+44, Andrea Mantovani, ITA, D, 1.85, 79, 22-06-84, Turin, Palermo
+45, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Atalanta
+46, Alessio Hyseni, ALB, M, 1.80, 73, 04-01-97, Tirana, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Filipe Gomes, BRA, M, 1.80, 74, 28-05-87, Rio de Janeiro, Lecce (On Loan)
+23, Michele Franco, ITA, D, 1.83, 78, 20-02-85, Altamura, Salernitana (On Loan)
+5, Imperio Carcione, ITA, M, 1.78, 72, 04-03-82, Cassino, Arezzo
+21, Fabio Mazzeo, ITA, F, 1.75, 69, 24-07-83, Salerno, Benevento
+2, Darío Flores, URU, D, 1.84, 80, 06-02-84, Montevideo, Matera
+12, Raffaele Esposito, ITA, G, 1.86, 84, 03-02-94, Naples, Salernitana
+34, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Lazio
+13, Marco Rossi, ITA, D, 1.88, 78, 30-09-87, Parma, Varese (On Loan)
+18, Lorenzo Del Prete, ITA, D, 1.80, 77, 12-01-86, Rome, Catania
+26, Michael Rabušic, CZE, F, 1.84, 80, 17-09-89, Náměšť nad Oslavou, Verona

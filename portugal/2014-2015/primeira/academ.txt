@@ -1,0 +1,41 @@
+=  Académica - Portuguese Primeira Liga 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristiano, POR, G, 1.95, 90, 29-11-90, Satão, Sporting Braga
+3, Aníbal, POR, D, 1.88, 84, 08-05-91, Vila Verde, Sporting Braga
+4, Nwankwo Obiora, NGA, M, 1.83, 77, 12-07-91, Kaduna, Córdoba
+5, Ricardo Nascimento, BRA, D, 1.91, 80, 07-02-87, Ilhéus, Olé Brasil
+6, Tripy Makonda, FRA, D, 1.80, 70, 24-01-90, Ivry-sur-Seine, Brest
+7, Marinho, POR, M, 1.66, 62, 26-04-83, Lisbon, Naval
+10, Ivanildo, GNB, F, 1.75, 70, 09-01-86, Bissau, Olhanense
+11, Judikael Magique, CIV, M, 1.80, 75, 21-01-93, Abidjan, None
+12, Salim Cissé, GUI, F, 1.85, 74, 24-12-92, Massimina, Sporting CP
+13, João Real, POR, D, 1.85, 83, 13-05-83, Covilhã, Naval
+14, Iago, BRA, D, 1.88, 78, 22-05-92, Itaboraí, Duque de Caxias
+17, Carlos Olascuaga, PER, F, 1.75, 72, 22-07-92, Lima, Universitario de Deportes
+18, M'Bala Nzola, FRA, F, 1.85, 82, 18-08-96, Troyes, None
+19, Ulysse Diallo, MLI, F, 1.82, 77, 26-10-92, Bamako, Arouca
+20, Rui Pedro, POR, F, 1.80, 73, 02-07-88, VIla Nova de Gaia, CFR Cluj
+21, Marcos Paulo, BRA, M, 1.82, 70, 13-07-88, Pedro Leopoldo, União de Leiria
+22, Christopher Oualembo, COD, D, 1.78, 70, 31-01-87, St-Germain-en-Laye, Lechia Gdańsk
+23, Edgar Salli, CMR, F, 1.63, 64, 17-08-92, Garoua, Monaco
+24, Fábio Santos, POR, G, 1.87, 80, 14-11-92, Penafiel, None
+27, Pedro Nuno, POR, M, 1.74, 69, 13-01-95, Buarcos, None
+28, Nuno Piloto, POR, M, 1.77, 73, 19-03-82, Viseu, Olhanense
+29, Aderlan, BRA, D, 1.80, 69, 18-08-90, Campina Grande, Corinthians Alagoano
+30, Rafael Lopes, POR, F, 1.85, 75, 28-07-91, Esposende, Penafiel
+32, Lee, BRA, G, 1.88, 86, 09-03-88, São Paulo, Atlético Mineiro
+34, Hugo Ribeiro, POR, D, 1.84, 62, 14-01-97, Coimbra, FC Porto
+35, Ibrahim Diomande, CIV, D, , , 15-05-96, , None
+37, Richard Ofori, GHA, D, 1.81, 65, 24-04-93, Accra, Tudu Mighty Jets
+47, Ricardo Esgaio, POR, F, 1.71, 66, 16-05-93, Nazaré, Sporting CP
+65, Fernando Alexandre, POR, M, 1.76, 76, 02-08-85, Lourinhã, Olhanense
+77, Hugo Sêco, BRA, F, 1.78, 72, 17-06-88, Lousã, Benfica Castelo Branco
+92, Lucas Mineiro, BRA, M, 1.73, 68, 16-06-92, Montes Claros, Vitória
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Lino, POR, D, 1.85, 76, 01-06-77, São Paulo, Londrina
+9, Schumacher, BRA, F, 1.90, 88, 31-08-86, Curitiba, 
+8, Jimmy, CPV, M, 1.82, 76, 15-07-94, Praia, Santa Clara (On Loan)

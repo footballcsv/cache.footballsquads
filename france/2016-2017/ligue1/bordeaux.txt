@@ -1,0 +1,39 @@
+=  Bordeaux - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Bernardoni, FRA, G, 1.90, 78, 18-04-97, Évry, Troyes
+2, Milan Gajić, SRB, D, 1.78, 74, 28-01-96, Vukovar, OFK Belgrade
+3, Diego Contento, ITA, D, 1.76, 70, 01-05-90, Munich, Bayern Munich
+4, Vukašin Jovanović, SRB, D, 1.88, 80, 17-05-96, Belgrade, Zenit St Petersburg
+5, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Niort
+6, Igor Lewczuk, POL, D, 1.87, 83, 30-05-85, Białystok, Legia Warszawa
+7, Jérémy Ménez, FRA, F, 1.82, 73, 07-05-87, Longjumeau, Milan
+8, Mauro Arambarri, URU, M, 1.74, 71, 30-09-95, Salto, Defensor Sporting
+9, Diego Rolán, URU, F, 1.78, 74, 24-03-93, Montevideo, Defensor Sporting
+10, Thomas Touré, FRA, F, 1.75, 75, 27-12-93, Grasse, None
+11, François Kamano, GUI, F, 1.82, 75, 01-05-96, Conakry, Bastia
+12, Younès Kaabouni, FRA, M, 1.79, 67, 23-05-95, Bordeaux, None
+13, Younousse Sankharé, FRA, M, 1.84, 76, 10-09-89, Sarcelles, Lille
+14, Jérémy Toulalan, FRA, M, 1.83, 77, 10-09-83, Nantes, Monaco
+15, Abdou Traoré, MLI, M, 1.79, 73, 17-01-88, Bamako, None
+16, Cédric Carrasso, FRA, G, 1.87, 87, 30-12-81, Avignon, Toulouse
+17, Adam Ounas, FRA, M, 1.72, 65, 11-11-96, Chambray-les-Tours, None
+18, Jaroslav Plašil, CZE, M, 1.83, 72, 05-01-82, Opočno, Osasuna
+19, Nicolas Maurice-Belay, FRA, M, 1.82, 76, 19-04-85, Sucy-en-Brie, Sochaux
+20, Youssouf Sabaly, FRA, D, 1.74, 71, 05-03-93, Chesnay, Paris St-Germain
+21, Théo Pellenard, FRA, D, 1.82, 71, 04-03-94, Lille, None
+23, Valentin Vada, ARG, M, 1.75, 69, 06-03-96, Guadalupe, None
+24, Gaëtan Laborde, FRA, F, 1.81, 78, 03-05-94, Mont-de-Marsan, None
+25, Malcom, BRA, F, 1.71, 65, 26-02-97, São Paulo, Corinthians
+28, Daniel Mancini, ARG, M, 1.72, 72, 11-11-96, Tránsito, Newell's Old Boys
+29, Maxime Poundjé, FRA, D, 1.79, 71, 16-08-92, Bordeaux, None
+30, Jérôme Prior, FRA, G, 1.84, 88, 08-08-95, Toulon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Kévin Soni, CMR, M, 1.83, 76, 17-04-98, Douala, Pau (On Loan)
+26, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Caen (On Loan)
+12, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Anderlecht (On Loan)
+4, Pablo, BRA, D, 1.88, 79, 21-06-91, São Luíz, Corinthians (On Loan)
+27, Grégory Sertic, FRA, M, 1.81, 69, 05-08-89, Brétigny-sur-Orge, Marseille

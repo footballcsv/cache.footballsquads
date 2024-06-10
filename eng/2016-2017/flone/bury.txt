@@ -1,0 +1,53 @@
+=  Bury - English Football League One 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Williams, ENG, G, 1.83, 83, 27-08-82, Manchester, Bradford C
+2, Craig Jones, WAL, D, 1.70, 70, 20-03-87, Chester, TNS
+3, Greg Leigh, ENG, D, 1.81, 73, 30-09-94, Manchester, Bradford C
+4, Kelvin Etuhu, NGA, M, 1.80, 79, 30-05-88, Kano, Barnsley
+5, Cameron Burgess, AUS, D, 1.94, 81, 21-10-95, Aberdeen, Fulham
+6, Antony Kay, ENG, M, 1.80, 74, 21-10-82, Barnsley, MK Dons
+7, Zeli Ismail, ENG, M, 1.73, 75, 12-12-93, Kukës, Wolverhampton W
+8, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Rochdale
+9, Chris Brown, ENG, F, 1.85, 70, 11-12-84, Doncaster, Blackburn R
+10, Danny Mayor, ENG, M, 1.83, 76, 18-10-90, Preston, Sheffield W
+11, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Port Vale
+12, James Vaughan, ENG, F, 1.80, 80, 14-07-88, Birmingham, Birmingham C
+13, Robert Lainton, ENG, G, 1.88, 79, 12-10-89, Ashton-under-Lyme, Bolton W
+14, Ishmael Miller, ENG, F, 1.91, 89, 05-03-87, Manchester, Huddersfield T
+17, Kean Bryan, ENG, M, 1.82, 72, 01-11-96, Manchester, Manchester C
+18, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Blackpool
+20, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, None
+21, Paul Rachubka, USA, G, 1.85, 85, 21-05-81, San Luis Opispo, Bolton W
+22, Niall Maher, ENG, D, 1.78, 78, 31-07-95, Manchester, Bolton W
+23, Tom Walker, ENG, M, 1.82, 76, 12-12-95, Salford, Bolton W
+24, Hallam Hope, ENG, F, 1.79, 76, 17-03-94, Manchester, Everton
+25, Leon Barnett, ENG, D, 1.85, 71, 30-11-85, Luton, Wigan Ath
+27, Nathan Cameron, ENG, D, 1.88, 78, 21-11-91, Birmingham, Coventry C
+28, Taylor Moore, ENG, D, 1.84, 80, 12-05-97, Walthamstow, Bristol C
+29, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, None
+31, Rob Harker, ENG, F, 1.88, 78, 06-03-00, Keighley, None
+33, Reece Brown, ENG, D, 1.88, 84, 01-11-91, Manchester, Sheffield U
+34, Callum Styles, ENG, M, 1.67, 60, 27-03-00, Oldham, None
+35, Ryan Cooney, ENG, M, 1.79, 77, 26-02-00, Manchester, None
+37, Jack Mackreth, ENG, M, 1.74, 70, 13-04-92, Liverpool, Macclesfield T
+38, Jermaine Pennant, ENG, M, 1.73, 64, 15-01-83, Nottingham, Tampines R
+39, Ryan Lowe, ENG, F, 1.80, 72, 18-09-78, Liverpool, Crewe Alex
+41, Joe Murphy, IRL, G, 1.88, 80, 25-09-80, Dublin, Huddersfield T
+42, Tom Beadling, AUS, D, 1.85, 80, 16-01-96, Barrow-in-Furness, Sunderland
+43, Sylvain Deslandes, FRA, D, 1.86, 75, 25-04-97, Kouoptamo, Wolverhampton W
+44, Paul Caddis, SCO, D, 1.70, 67, 19-04-88, Irvine, Birmingham C
+45, Will Ferry, IRL, F, 1.75, 70, 07-12-00, Wigan, None
+46, Callum Hulme, ENG, M, 1.70, 65, 10-11-00, Manchester, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Jack Ruddy, SCO, G, 1.85, 83, 18-05-97, Glasgow, Wolverhampton W
+14, Nicky Clark, SCO, F, 1.78, 67, 03-06-91, Bellshill, Dunfermline Ath
+32, Emeka Obi, ENG, D, 1.98, 87, 06-06-01, Lagos, Liverpool
+28, Robert Bourne, ENG, M, 1.83, 63, 10-09-98, Warrington, Trafford
+15, Anthony Dudley, ENG, F, 1.78, 70, 03-01-96, Manchester, Macclesfield T (On Loan)
+19, Tom Soares, ENG, M, 1.83, 72, 10-07-86, Reading, AFC Wimbledon
+30, Jacob Bedeau, ENG, D, 1.84, 78, 24-12-99, Waltham Forest, Aston Villa
+16, Neil Danns, ENG, M, 1.75, 78, 23-11-82, Liverpool, Blackpool (On Loan)

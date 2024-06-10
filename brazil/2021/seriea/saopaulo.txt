@@ -1,0 +1,48 @@
+=  São Paulo - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tiago Volpi, BRA, G, 1.89, 84, 19-12-90, Blumenau, Querétaro
+2, Igor Vinícius, BRA, D, 1.74, 70, 01-04-97, Sinop, Ituano
+3, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, Figueirense
+4, Diego Costa, BRA, D, 1.84, 73, 21-07-99, Campo Grande, None
+5, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+7, Joao Rojas, ECU, F, 1.73, 65, 14-06-89, El Triunfo, Cruz Azul
+8, Martín Benítez, ARG, M, 1.73, 72, 17-06-94, Posadas, Independiente
+9, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, Atlético Paranaense
+11, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, Grêmio
+12, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Santos
+13, Luan, BRA, M, 1.75, 81, 14-05-99, São Paulo, None
+14, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, None
+15, Gabriel Neves, URU, M, 1.71, 72, 11-08-97, Montevideo, Nacional [URU]
+16, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, Fluminense
+17, William, BRA, M, 1.73, 72, 20-11-86, São Paulo, Toluca
+18, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, None
+19, Shaylon, BRA, F, 1.80, 70, 27-04-97, Modelo, None
+20, Luis Manuel Orejuela, COL, D, 1.79, 70, 20-08-95, Cali, Cruzeiro
+21, Gabriel Sara, BRA, M, 1.78, 68, 26-06-99, Joinville, None
+22, Miranda, BRA, D, 1.85, 78, 07-09-84, Paranavaí, Jiangsu Suning
+23, Éder, ITA, F, 1.79, 73, 15-11-86, Lauro Muller, Jiangsu Suning
+25, Rodrigo Nestor, BRA, M, 1.75, 67, 09-08-00, São Paulo, None
+26, Igor Gomes, BRA, M, 1.82, 73, 17-03-99, São José do Rio Preto, None
+27, Antonio Galeano, PAR, F, 1.71, 67, 22-03-00, Asunción, Rubio Ñú
+30, Jonathan Calleri, ARG, F, 1.81, 77, 23-09-93, Capital Federal, Deportivo Maldonado
+31, Juan, BRA, F, 1.76, 76, 07-03-02, São Paulo, None
+32, Rodrigo, BRA, D, 1.89, 74, 17-06-98, Salvador, None
+34, Welington, BRA, D, 1.77, 73, 19-02-01, São Paulo, None
+36, Patryck, BRA, D, 1.81, 68, 18-01-03, Mogi Mirim, None
+37, Talles, BRA, M, 1.76, 62, 02-08-02, São Paulo, None
+40, Thiago Couto, BRA, G, 1.88, 82, 26-03-99, São Paulo, None
+47, Marquinhos, BRA, F, 1.75, 75, 07-04-03, São Paulo, None
+48, Pedrinho, BRA, M, -, -, 18-02-02, São Paulo, None
+49, Gabriel Falcão, BRA, M, 1.73, 68, 11-01-01, São Paulo, None
+77, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Zenit St Petersburg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, Juventude (On Loan)
+28, Bruno Rodrigues, BRA, F, 1.77, 73, 07-03-97, Ceará-Mirim, Tombense
+15, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, Sport Recife
+30, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, Sport Recife
+10, Dani Alves, BRA, D, 1.72, 68, 06-05-83, Juazeiro, Barcelona

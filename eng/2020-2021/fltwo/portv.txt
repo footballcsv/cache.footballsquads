@@ -1,0 +1,42 @@
+=  Port Vale - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Brown, ENG, G, 1.84, 96, 26-04-85, Wolverhampton, Wycombe W
+2, James Gibbons, ENG, D, 1.74, 62, 16-03-98, Stoke-on-Trent, None
+3, Adam Crookes, ENG, D, 1.82, 77, 18-11-97, Lincoln, Nottingham F
+4, Luke Joyce, ENG, M, 1.81, 76, 09-07-87, Bolton, Carlisle U
+5, Leon Legge, ENG, D, 1.85, 80, 28-04-85, Hastings, Cambridge U
+6, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, Millwall
+9, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Bury
+10, Tom Conlon, ENG, M, 1.73, 62, 03-02-96, Stoke-on-Trent, Stevenage
+11, Cristian Montaño, COL, M, 1.80, 76, 11-12-91, Cali, Bristol R
+12, Theo Robinson, JAM, F, 1.75, 65, 22-01-89, Birmingham, Southend U
+13, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Blackpool
+14, Kurtis Guthrie, ENG, F, 1.80, 76, 21-04-93, Peterborough, Bradford C
+15, Zak Mills, ENG, D, 1.83, 83, 28-05-92, Peterborough, Oldham Ath
+16, Shaun Brisley, ENG, D, 1.88, 77, 06-05-90, Macclesfield, Notts Co
+17, Jake Taylor, ENG, M, 1.78, 77, 07-09-98, Manchester, Nottingham F
+18, Danny Whitehead, ENG, M, 1.79, 69, 23-10-93, Trafford, Salford C
+19, David Amoo, ENG, M, 1.78, 77, 13-04-91, Southwark, Cambridge U
+20, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, Bury
+21, Devante Rodney, ENG, F, 1.78, 69, 19-05-98, Manchester, Salford C
+22, Harry McKirdy, ENG, F, 1.75, 70, 29-03-97, Stoke-on-Trent, Carlisle U
+23, Ryan Campbell-Gordon, ENG, D, 1.78, 75, 02-05-01, Nottingham, None
+24, David Fitzpatrick, ENG, D, 1.79, 73, 28-02-90, Manchester, Macclesfield T
+25, Daniel Trickett-Smith, ENG, M, 1.75, 65, 08-09-95, Newcastle-under-Lyme, Leek T
+26, Luke Chambers, ENG, M, -, -, -, Northwich, None
+27, Alex Hurst, ENG, M, 1.73, 70, 06-10-99, Stoke-on-Trent, Bradford PA
+28, Michael Lennon, ENG, D, -, -, 26-06-03, Stockport, None
+29, Eden Bailey, ENG, F, 1.78, 70, 04-02-04, Stoke-on-Trent, None
+30, Dino Visser, RSA, G, 1.89, 84, 10-07-89, Polokwane, Crewe Alex
+31, Joseph Collinge, ENG, G, -, -, 06-09-03, Rochdale, None
+32, Thomas Scott, ENG, G, -, -, 28-10-00, Leeds, Manchester C
+33, Mustapha Olagunju, ENG, D, 1.86, 70, 01-01-02, Plumstead, Huddersfield T
+34, Will Swan, ENG, F, 1.76, 73, 26-10-00, Mansfield, Nottingham F
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Mitchell Clark, WAL, D, 1.73, 68, 13-03-99, Nuneaton, Leicester C
+8, Emmanuel Oyeleke, ENG, M, 1.75, 75, 24-12-92, Wandsworth, Chesterfield

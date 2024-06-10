@@ -1,0 +1,43 @@
+=  Platense - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jorge De Olivera, ARG, G, 1.94, 92, 21-08-82, Posadas, Deportivo Pasto
+2, Nahuel Iribarren, ARG, D, 1.82, 80, 02-02-88, Posadas, Estudiantes (BA)
+3, Juan Infante, ARG, D, 1.77, 76, 07-01-96, José C. Paz, Talleres (Córdoba)
+4, Augusto Schott, ARG, D, 1.74, 69, 17-01-00, Arroyito, Talleres (Córdoba)
+5, Hernán Lamberti, ARG, M, 1.75, 72, 03-05-84, Castelar, Central Córdoba (SdE)
+6, Luciano Recalde, ARG, D, 1.84, 78, 12-08-95, Granadero Baigorria, Rosario Central
+7, Matías Tissera, ARG, F, 1.73, 72, 06-09-96, Rojas, Newell's Old Boys
+8, Mauro Bogado, ARG, M, 1.70, 68, 31-05-85, San Martín, Huracán
+9, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, Racing Club
+10, Franco Baldasarra, ARG, M, 1.78, 75, 29-09-98, Santos Lugares, None
+11, Facundo Russo, ARG, M, 1.75, 68, 20-07-00, Capital Federal, None
+13, Gastón Gerzel, ARG, F, 1.72, 67, 05-01-00, Resistencia, Boca Juniors
+14, Roberto Bochi, ARG, M, 1.75, 68, 06-07-87, Córdoba, Alvarado (Mar del Plata)
+16, Patricio Pérez, ARG, M, 1.75, 72, 12-09-00, Capital Federal, None
+17, Cristian Marcial, ARG, D, 1.79, 80, 10-01-96, Quilmes, Racing Club
+18, Horacio Tijanovich, ARG, F, 1.73, 68, 28-02-96, Villa San Justo, Gimnasia y Esgrima (LP)
+20, Tiago Palacios, ARG, M, 1.65, 61, 28-03-01, Capital Federal, Montevideo City Torque
+21, Iván Gómez, ARG, M, 1.80, 65, 28-02-97, Villa Elisa, Estudiantes (LP)
+22, Luis Ojeda, ARG, G, 1.80, 79, 21-03-90, Romang, Jorge Wilstermann
+23, Andrés Desábato, ARG, G, 1.83, 82, 30-03-90, Murphy, Guaraní Antonio Franco
+24, Stefano Callegari, ARG, D, 1.88, 82, 06-01-97, Rosario, Newell's Old Boys
+25, Facundo Curuchet, ARG, F, 1.75, 69, 21-01-90, Gualeguaychú, Independiente Rivadavia
+26, Ignacio Schor, ARG, M, 1.83, 74, 04-08-00, Capital Federal, None
+28, Julián Marcioni, ARG, M, 1.76, 72, 06-03-98, Cruz Alta, Newell's Old Boys
+29, Nadir Zeineddin, ARG, F, 1.83, 83, 15-05-00, Vicente López, None
+30, Facundo Cardozo, ARG, D, 1.78, 77, 06-04-95, San Miguel, All Boys
+31, Marco Pellegrino, ARG, D, 1.84, 79, 18-07-02, Capital Federal, None
+32, Lucas Acevedo, ARG, D, 1.94, 97, 08-11-91, Justiniano Posse, Colón (Santa Fe)
+34, Brandon Barbas, ARG, M, 1.76, 70, 01-07-01, San Martín, None
+35, Nicolás Bertolo, ARG, M, 1.80, 75, 02-01-86, Córdoba, Banfield
+36, Lucas Giménez, ARG, M, 1.63, 64, 22-02-99, Capital Federal, None
+37, Florián Monzón, ARG, F, 1.85, 76, 03-01-01, San Miguel de Tucumán, Vélez Sarsfield
+38, Kevin Lomónaco, ARG, D, 1.92, 80, 08-01-02, Lanús, Lanús
+39, Tomás Sandoval, ARG, F, 1.85, 71, 30-03-99, Santa Fe, Colón (Santa Fe)
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jorge Pereyra Díaz, ARG, F, 1.78, 73, 05-08-90, La Rioja, Kerala Blasters (On Loan)
+33, Nicolás Zalazar, ARG, D, 1.84, 80, 29-01-97, Capital Federal, Bursaspor

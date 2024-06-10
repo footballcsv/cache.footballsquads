@@ -1,0 +1,21 @@
+# German Bundesliga 1995/96
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburg](hamburg.txt)
+- [Hansa Rostock](rostock.txt)
+- [Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Köln](koln.txt)
+- [St Pauli](stpauli.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [KFC Uerdingen](uerding.txt)
+- [Werder Bremen](wbremen.txt)

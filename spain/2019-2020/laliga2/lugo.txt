@@ -1,0 +1,44 @@
+=  Lugo - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto Varo, ESP, G, 1.90, 82, 18-03-93, Tarragona, Nàstic
+2, Serge Leuko, CMR, D, 1.74, 75, 04-08-93, Douala, Valencia B
+3, José Carlos, ESP, D, 1.82, 75, 10-05-96, Paradas, Betis B
+4, Marcelo, GNB, D, 1.93, 87, 08-10-93, Barcelona, Fulham
+5, Carlos Pita, ESP, M, 1.87, 82, 08-12-84, La Coruña, Guadalajara [ESP]
+6, Jaume Grau, ESP, M, 1.82, 65, 05-05-97, Tavernes de la Valldigna, Osasuna
+7, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Girona
+8, Fernando Seoane, ESP, M, 1.79, 74, 25-03-83, Tapia, Nàstic
+9, Manu Barreiro, ESP, F, 1.92, 81, 08-07-86, Santiago de Compostela, Nàstic
+10, José Ángel Carrillo, ESP, F, 1.90, 80, 07-01-94, Murcia, Hapoel Be'er Sheva
+11, Alhassane Bangoura, GUI, F, 1.74, 71, 30-03-92, Conakry, Rayo Vallecano
+12, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Almería
+13, Ander Cantero, ESP, G, 1.89, 82, 09-01-95, Pamplona, Villarreal B
+14, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Leganés
+15, Roberto Canella, ESP, D, 1.80, 68, 07-02-88, Pola de Laviana, Sporting Gijón
+16, Carlos Castro, ESP, F, 1.77, 68, 01-06-95, Ujo, Mallorca
+17, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Huesca
+18, Álex López, ESP, M, 1.76, 68, 02-06-97, Terrassa, Espanyol
+19, Yanis Rahmani, FRA, F, 1.79, 73, 13-05-95, Champigny-sur-Marne, Almería
+20, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Deportivo La Coruña
+21, Hugo Rama, ESP, M, 1.77, 75, 22-11-96, Santiago de Compostela, Cerceda
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Mallorca
+23, Josete, ESP, D, 1.79, 79, 28-05-88, Elche, Elche
+24, Iriome, ESP, M, 1.86, 78, 22-06-87, Icod de los Vinos, Mirandés
+27, Álex Rey, ESP, M, , , 29-01-98, Lugo, SDC Polvorín
+28, Moctar Side El Hacen, MTN, M, 1.80, 78, 31-12-97, Arafat, Valladolid
+29, Matías Vesprini, ARG, D, , , 27-02-00, Quilmes, SDC Polvorín
+30, Juan Ignacio Brunet, ARG, M, 1.90, 87, 24-01-98, Maipú, SDC Polvorín
+31, Ángel Fraga, ESP, G, , , 13-05-96, Vilalba, Rápido de Bouzas
+34, Manuel Morais, VEN, F, 1.81, 73, 03-02-98, Caracas, SDC Polvorín
+37, Chiqui, ESP, F, , , 07-10-97, Mérida, SDC Polvorín
+38, Nico Manteiga, ESP, D, , , 23-07-99, , SDC Polvorín
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Antonio Campillo, ESP, M, 1.80, 70, 19-12-90, Madrid, De-Registered
+14, Borja Domínguez, ESP, M, 1.87, 81, 30-05-92, Vigo, De-Registered
+11, Tete Morente, ESP, M, 1.80, 76, 04-12-96, La Línea de la Concepción, Málaga
+17, Orest Lebedenko, UKR, D, 1.72, 60, 23-09-98, Lviv, Olimpik Donetsk (On Loan)
+28, Antón Escobar, ESP, F, , , 16-06-98, Nigrán, Coruxo (On Loan)

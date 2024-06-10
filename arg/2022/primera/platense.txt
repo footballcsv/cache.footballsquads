@@ -1,0 +1,48 @@
+=  Platense - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Sánchez, ARG, G, 1.89, 86, 25-10-86, Capital Federal, Deportes Iquique
+2, Ramiro González, ARG, D, 1.83, 83, 21-11-90, Rosario, Talleres (Córdoba)
+3, Juan Infante, ARG, D, 1.77, 76, 07-01-96, José C. Paz, Talleres (Córdoba)
+4, Nicolás Morgantini, ARG, D, 1.75, 70, 11-09-94, San Isidro, Lanús
+5, Carlos Villalba, ARG, M, 1.75, 71, 19-07-98, Resistencia, Talleres (Córdoba)
+6, Gastón Suso, ARG, D, 1.90, 82, 12-03-91, Arrufó, Atlético Rafaela
+7, Horacio Tijanovich, ARG, F, 1.73, 68, 28-02-96, Villa San Justo, Gimnasia y Esgrima (LP)
+8, Mauro Bogado, ARG, M, 1.70, 68, 31-05-85, San Martín, Huracán
+9, Gonzalo Bergessio, ARG, F, 1.78, 72, 20-07-84, Córdoba, Nacional [URU]
+10, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Juventude
+11, Vicente Taborda, ARG, F, 1.75, 71, 14-06-01, Gualeguay, Boca Juniors
+12, Augusto Alcorcel, ARG, G, 1.88, 74, 14-08-00, Santa Fe, None
+16, Haibrany Ruiz Díaz, URU, D, 1.77, 70, 31-08-92, Montevideo, Plaza Colonia
+17, Sebastián Guerrero, URU, F, 1.72, 70, 23-09-00, Montevideo, Montevideo City Torque
+18, Federico Gino, URU, M, 1.73, 74, 26-02-93, Melo, Aldosivi (Mar del Plata)
+19, Carlo Lattanzio, ARG, F, 1.71, 64, 25-07-97, La Plata, Estudiantes (LP)
+20, Franco Camargo, ARG, D, 1.78, 71, 23-09-00, San Isidro, River Plate
+21, Iván Gómez, ARG, M, 1.80, 65, 28-02-97, Villa Elisa, Estudiantes (LP)
+22, Marcos Ledesma, ARG, G, 1.91, 80, 15-09-96, Río Cuarto, Defensa y Justicia
+23, Alexis Sabella, ARG, M, 1.78, 72, 20-06-01, Florentino Ameghino, San Lorenzo
+24, Juan Pablo Pignani, ARG, D, 1.90, 80, 02-07-01, Leones, None
+25, Nahuel Casasola, ARG, M, 1.75, 68, 23-06-01, San Martín, River Plate
+26, Ignacio Schor, ARG, M, 1.83, 74, 04-08-00, Capital Federal, None
+27, Rodrigo Contreras, ARG, F, 1.75, 70, 27-10-95, San Miguel de Tucumán, Defensa y Justicia
+28, Agustín Alonso, ARG, M, 1.71, 64, 23-01-01, Villa Dominico, None
+30, Juan Cruz Esquivel, ARG, F, 1.73, 74, 22-08-00, Cañada Rosquín, Talleres (Córdoba)
+31, Marco Pellegrino, ARG, D, 1.84, 79, 18-07-02, Capital Federal, None
+32, Franco Baldasarra, ARG, M, 1.78, 75, 29-09-98, Santos Lugares, None
+33, Nicolás Delgadillo, ARG, F, 1.77, 70, 02-10-97, Capital Federal, Vélez Sarsfield
+34, Brandon Barbas, ARG, M, 1.76, 70, 01-07-01, San Martín, None
+36, Lucas Giménez, ARG, M, 1.63, 64, 22-02-99, Capital Federal, None
+37, Federico González, ARG, M, 1.76, 73, 13-01-01, San Isidro, None
+38, Nicolás Ávalos, ARG, G, 1.86, 70, 14-09-01, Caseros, None
+40, Gonzalo Valdivia, ARG, D, 1.78, 69, 05-04-01, Posadas, None
+79, Ayrton Costa, ARG, D, 1.79, 74, 12-07-99, Quilmes, Independiente
+92, Jorge Benítez, PAR, F, 1.82, 80, 02-09-92, Asunción, Veraguas U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Facundo Russo, ARG, M, 1.75, 68, 20-07-00, Capital Federal, All Boys (On Loan)
+29, Nadir Zeineddin, ARG, F, 1.83, 83, 15-05-00, Vicente López, Villa Dálmine (On Loan)
+15, Franz Gonzales Mejía, BOL, M, 1.80, 81, 26-06-00, Cochabamba, Oriente Petrolero
+11, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, Racing Club
+14, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, CSA (On Loan)

@@ -1,0 +1,42 @@
+=  Real Sociedad - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alejandro Remiro, ESP, G, 1.91, 80, 24-03-95, Cascante, Athletic Bilbao
+2, Joseba Zaldúa, ESP, D, 1.76, 70, 24-06-92, San Sebastián, Real Sociedad B
+3, Diego Llorente, ESP, D, 1.86, 75, 16-08-93, Madrid, Real Madrid B
+4, Asier Illarramendi, ESP, M, 1.79, 75, 08-03-90, Mutriku, Real Madrid
+5, Igor Zubeldia, ESP, M, 1.80, 79, 30-03-97, Azkoitia, Real Sociedad B
+6, Aritz Elustondo, ESP, D, 1.80, 71, 28-03-94, Beasain, Real Sociedad B
+7, Portu, ESP, M, 1.78, 70, 21-05-92, Murcia, Girona
+8, Mikel Merino, ESP, M, 1.88, 78, 22-06-96, Pamplona, Newcastle U
+9, Willian José, BRA, F, 1.89, 93, 23-11-91, Porto Calvo, Deportivo Maldonado
+10, Mikel Oyarzabal, ESP, M, 1.81, 78, 21-04-97, Eibar, Real Sociedad B
+11, Adnan Januzaj, BEL, M, 1.86, 76, 05-02-95, Brussels, Manchester U
+12, Aihen Muñoz, ESP, D, 1.75, 72, 16-08-97, Etxauri, Real Sociedad B
+13, Miguel Ángel Moyá, ESP, G, 1.88, 83, 02-04-84, Binissalem, Atlético Madrid
+16, Ander Guevara, ESP, M, 1.78, 73, 07-07-97, Vitoria-Gasteiz, Real Sociedad B
+17, David Zurutuza, ESP, M, 1.86, 79, 19-07-86, Rochefort, Real Sociedad B
+18, Andoni Gorosabel, ESP, D, 1.74, 73, 04-08-96, Arrasate, Real Sociedad B
+19, Alexander Isak, SWE, F, 1.90, 70, 21-09-99, Solna, Borussia Dortmund
+20, Nacho Monreal, ESP, D, 1.79, 72, 26-02-86, Pamplona, Arsenal
+21, Martin Ødegaard, NOR, M, 1.76, 68, 17-12-98, Drammen, Real Madrid
+22, Ander Barrenetxea, ESP, F, 1.78, 65, 27-12-01, San Sebastián, Real Sociedad B
+23, Luca Sangalli, ESP, M, 1.67, 74, 10-02-95, San Sebastián, Real Sociedad B
+24, Robin Le Normand, FRA, D, 1.87, 80, 11-11-96, Pabu, Brest
+26, Jon Pacheco, ESP, D, 1.84, 77, 08-01-01, Elizondo, Real Sociedad B
+27, Xeber Alkain, ESP, M, 1.74, 69, 26-06-97, Hondarribia, Real Sociedad B
+28, Roberto López, ESP, F, 1.79, 70, 24-04-00, Zaragoza, Real Sociedad B
+30, Andoni Zubiaurre, ESP, G, 1.88, 82, 04-12-96, Ordizia, Real Sociedad B
+31, Naïs Djouahra, FRA, M, 1.72, 65, 23-11-99, Bourgoin-Jallieu, St-Etienne
+33, Aritz Arambarri, ESP, D, 1.86, 76, 31-01-98, Azkoitia, Real Sociedad B
+35, Julen Lobete, ESP, F, 1.78, 71, 18-09-00, Lezo, Real Sociedad B
+36, Martín Zubimendi, ESP, M, 1.80, 74, 02-02-99, San Sebastián, Real Sociedad B
+37, Robert Navarro, ESP, M, 1.78, 65, 12-04-02, Barcelona, Monaco
+38, Zourdine Thior, SEN, F, 1.69, 57, 09-07-97, Pikine, Real Sociedad B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Kévin Rodrigues, POR, M, 1.70, 70, 05-03-94, Bayonne, Leganés (On Loan)
+14, Rubén Pardo, ESP, M, 1.81, 69, 22-10-92, Logroño, Bordeaux
+15, Modibo Sagnan, FRA, D, 1.87, 71, 14-04-99, Saint-Denis, Mirandés (On Loan)

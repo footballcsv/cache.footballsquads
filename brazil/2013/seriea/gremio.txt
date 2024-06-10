@@ -1,0 +1,49 @@
+=  Grêmio - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dida, BRA, G, 1.95, 85, 07-10-73, Irarà, Portuguesa
+2, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Santos
+4, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Atlético Mineiro
+5, Souza, BRA, M, 1.76, 77, 11-02-89, Rio de Janeiro, FC Porto
+7, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Santos
+9, Hernán Barcos, ARG, F, 1.88, 75, 11-04-84, Bell Ville, Palmeiras
+10, Zé Roberto, BRA, M, 1.72, 72, 06-07-74, Ipiranga, Al-Gharafa
+12, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+13, Alex Telles, BRA, D, 1.81, 71, 15-12-92, Caxias do Sul, Juventude
+14, Maxi Rodríguez, URU, M, 1.81, 65, 02-10-90, Montevideo, Montevideo Wanderers
+15, Bressan, BRA, D, 1.82, 74, 15-01-93, Caxias do Sul, Juventude
+16, Cristian Riveros, PAR, M, 1.79, 76, 16-10-82, J.A. Saldivar, Kayserispor
+17, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, Napoli
+18, Wendell, BRA, D, 1.76, 66, 20-07-93, Fortaleza, Londrina
+19, Guilherme Biteco, BRA, M, 1.73, 67, 12-03-94, Porto Alegre, 1899 Hoffenheim
+20, Saimon, BRA, D, 1.83, 74, 03-03-91, Erechim, None
+21, Yuri Mamute, BRA, F, 1.80, 68, 07-05-95, Porto Alegre, None
+22, Gabriel, BRA, D, 1.91, 90, 28-02-89, Marques de Souza, Lajeadense
+23, Fábio Aurélio, BRA, D, 1.78, 75, 24-09-79, São Carlos, Liverpool
+24, Busatto, BRA, G, 1.89, 78, 23-10-90, Arroio do Tigre, None
+25, Jean Deretti, BRA, M, 1.73, 60, 01-05-93, Jaraguá do Sul, Figueirense
+27, Paulinho, BRA, F, 1.69, 62, 16-03-94, São Francisco do Sul, Juventude
+28, Rafael Thyere, BRA, D, 1.90, 86, 17-05-93, João Pessoa, None
+29, Adriano, BRA, M, 1.70, 65, 29-05-87, São Vicente, Santos
+30, Kléber, BRA, F, 1.73, 70, 12-08-83, Osasco, Palmeiras
+31, Matheus Biteco, BRA, M, 1.72, 65, 28-06-95, Porto Alegre, None
+33, Lucas Coelho, BRA, F, 1.83, 80, 20-07-94, Lages, None
+34, Moisés, BRA, D, 1.80, 76, 09-08-90, Aratibba, Juventude
+35, Gérson, BRA, D, 1.79, 74, 04-10-92, Porto Alegre, None
+36, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Juventude
+40, Follmann, BRA, G, 1.86, 80, 14-03-92, Alecrim, Juventude
+44, Rhodolfo, BRA, D, 1.93, 82, 11-08-86, Bandeirantes, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Misael, BRA, M, 1.76, 73, 15-07-94, Três de Maio, Deportivo Maldonado
+18, Tony, BRA, D, 1.77, 74, 04-08-89, Maraial, Criciúma (On Loan)
+27, André Santos, BRA, D, 1.79, 76, 08-03-83, São Paulo, Arsenal
+17, Fernando, BRA, M, 1.73, 66, 03-03-92, Erechim, Shakhtar Donetsk
+8, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, Re-Registered (17)
+16, Guilherme Biteco, BRA, M, 1.73, 67, 12-03-94, Porto Alegre, Re-Registered (19)
+3, Cris, BRA, D, 1.83, 77, 03-06-77, Guarulhos, Vasco da Gama
+11, Marcos Antônio, BRA, M, 1.82, 72, 09-11-84, São Paulo, Atlético Paranaense (On Loan)
+26, Welliton, BRA, F, 1.75, 75, 22-10-86, Conceição do Araguaia, Spartak Moscow
+32, Wangler, BRA, M, 1.70, 74, 18-08-92, Tapera, Bahia (On Loan)

@@ -1,0 +1,40 @@
+=  TSV 1860 Munich - German 2.Bundesliga 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michael Hofmann, GER, G, 1.93, 91, 03-11-72, Bayreuth, SpVgg Bayreuth
+2, Antonio Rukavina, SRB, D, 1.77, 72, 26-01-84, Belgrade, Borussia Dortmund
+3, Michael Schick, GER, D, 1.76, 70, 29-02-88, Bad Cannstatt, Stuttgarter Kickers
+4, Torben Hoffmann, GER, D, 1.89, 86, 27-10-74, Kiel, Eintracht Frankfurt
+6, Mathieu Béda, FRA, D, 1.88, 82, 28-07-81, Nice, Kaiserslautern
+7, Daniel Bierofka, GER, M, 1.78, 75, 07-02-79, Munich, Stuttgart
+8, Danny Schwarz, GER, M, 1.81, 76, 11-05-75, Göppingen, Karlsruhe
+9, Antonio di Salvo, ITA, F, 1.83, 80, 05-06-79, Paderborn, Hansa Rostock
+10, Sascha Rösler, GER, M, 1.85, 83, 28-10-77, Tettnang, B Mönchengladbach
+11, Benjamin Lauth, GER, F, 1.79, 74, 04-08-81, Hausham, Hannover 96
+12, Philipp Tschauner, GER, G, 1.96, 89, 03-11-85, Schwabach, Nürnberg
+13, Florian Jungwirth, GER, D, 1.80, 76, 27-01-89, Gräfelfing, None
+14, José Holebas, GER, D, 1.84, 79, 27-06-84, Aschaffenburg, Viktoria Kahl
+15, Stefan Aigner, GER, M, 1.85, 72, 20-08-87, Munich, Arminia Bielefeld
+16, Markus Thorandt, GER, M, 1.86, 82, 01-04-81, Augsburg, Augsburg
+17, Sven Bender, GER, M, 1.85, 72, 27-04-89, Rosenheim, None
+18, Marvin Pourie, GER, F, 1.84, 80, 08-01-91, Werne, Schalke
+19, Mate Ghvinianidze, GEO, D, 1.89, 81, 10-12-86, Tbilisi, Lokomotiv Moscow
+20, Christoph Burkhard, GER, D, 1.75, 70, 09-11-84, Aichach, Augsburg
+21, Markus Schroth, GER, F, 1.93, 85, 25-01-75, Karlsruhe, Nürnberg
+22, Lars Bender, GER, M, 1.84, 77, 27-04-89, Rosenheim, None
+23, Benjamin Schwarz, GER, D, 1.80, 73, 10-07-86, Munich, None
+24, Nikola Gulan, SRB, M, 1.83, 72, 23-03-89, Belgrade, Fiorentina
+25, Nikolas Ledgerwood, CAN, M, 1.75, 70, 16-01-85, Lethbridge, Calgary Storm
+26, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, None
+27, Manuel Schäffler, GER, F, 1.86, 84, 06-02-89, Fürstenfeldbruck, None
+29, Markus Krauss, GER, G, 1.95, 83, 16-09-87, Sibiu, Reutlingen
+33, Fabian Johnson, GER, D, 1.83, 70, 11-12-87, Munich, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Berkant Göktan, TUR, F, 1.76, 75, 12-12-80, Munich, 
+28, Alexander Eberlein, GER, D, 1.86, 77, 14-01-88, Fürth, Sandhausen
+18, Timo Gebhart, GER, M, 1.82, 76, 12-04-89, Memmingen, Stuttgart
+24, Mustafa Kučuković, GER, F, 1.93, 88, 05-11-86, Bosanski Novi, Grenoble
+5, Gregg Berhalter, USA, D, 1.86, 77, 01-08-73, Eaglewood, LA Galaxy

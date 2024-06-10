@@ -1,0 +1,45 @@
+=  Metz - French Ligue 2 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Jonathan Rivierez, FRA, D, 1.81, 79, 18-05-89, Le Blanc-Mesnil, Le Havre
+4, Oumar Gonzalez, FRA, D, 1.86, 84, 25-02-98, Douala, None
+5, Guido Milan, ARG, D, 1.94, 93, 03-07-87, Haedo, Atlanta
+6, Ferjani Sassi, TUN, M, 1.77, 75, 18-03-92, Ariana, CS Sfaxien
+7, Juan Cruz Kaprof, ARG, F, 1.79, 66, 12-03-95, Capital Federal, River Plate
+8, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Lorient
+9, Christian Bekamenga, CMR, F, 1.85, 79, 09-05-86, Yaoundé, Troyes
+10, Célestin Djim, BEL, F, 1.79, 78, 14-05-95, Visé, FC Porto
+11, Samy Kehli, FRA, M, 1.90, 75, 27-01-91, Saint-Avold, None
+12, Matthieu Udol, FRA, D, 1.78, 75, 20-03-96, Metz, None
+13, Hamza Sakhi, MAR, M, 1.73, 68, 07-06-96, Rabat, Châteauroux
+14, Georges Mandjeck, CMR, M, 1.83, 72, 09-12-88, Douala, Erciyesspor
+15, Romain Métanire, FRA, D, 1.78, 72, 28-03-90, Metz, None
+17, Habib Diallo, SEN, F, 1.85, 75, 15-06-95, Thiès, None
+19, Lucas Toussaint, FRA, M, 1.85, 79, 29-03-96, Metz, None
+20, Nuno Reis, POR, D, 1.81, 76, 31-01-91, Murten/Morat, Sporting CP
+21, Dieudonné Gbakle, MLI, M, 1.73, 60, 20-12-95, Bingerville, Lille
+22, Kévin Lejeune, FRA, M, 1.81, 76, 22-01-85, Cambrai, Tours
+23, Yeni Atito Ngbakoto, FRA, M, 1.72, 71, 23-01-92, Croix, None
+24, Candeias, POR, F, 1.77, 77, 25-02-88, Fornos de Algodres, Benfica
+25, Iván Balliu, ESP, D, 1.75, 68, 01-01-92, Caldes de Malavella, Arouca
+26, André Santos, POR, M, 1.76, 70, 02-03-89, Sobreiro Curvo, Balıkesirspor
+27, José Luis Palomino, ARG, D, 1.86, 87, 05-01-90, San Miguel de Tucumán, Argentinos Juniors
+28, Jānis Ikaunieks, LVA, M, 1.83, 72, 16-02-95, Kuldīga, Liepāja
+29, Sergey Krivets, BLR, M, 1.77, 77, 08-06-86, Grodno, BATE
+30, David Oberhauser, FRA, G, 1.83, 75, 29-11-89, Bitche, UTA Arad
+32, Tiago Gomes, POR, D, 1.75, 70, 29-07-86, Oeiras, Sporting Braga
+34, Moustapha Kaboré, BFA, F, 1.85, 75, 21-03-94, Ouagadougou, None
+40, Thomas Didillon, FRA, G, 1.93, 80, 28-11-95, Séclin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Anthony Mfa Mezui, GAB, G, 1.82, 91, 07-03-91, Beauvais, Seraing U (On Loan)
+19, Thibaut Vion, FRA, F, 1.85, 68, 11-12-93, Mont-Saint-Martin, Seraing U (On Loan)
+24, Gaétan Bussmann, FRA, D, 1.84, 75, 02-02-91, Épinal, Mainz
+12, Amido Baldé, POR, F, 1.93, 84, 16-05-91, Bissau, Benfica de Luanda
+9, Juan Manuel Falcón, VEN, F, 1.79, 81, 24-02-89, Acarigua, Al-Fateh (On Loan)
+18, Sezer Özmen, TUR, D, 1.89, 70, 07-07-92, Istanbul, Alanyaspor
+31, Emmanuel Mayuka, ZAM, F, 1.76, 71, 21-11-90, Kabwe, Zamalek
+2, Fadil Sido, BFA, M, 1.70, 65, 13-04-93, Ouagadougou, Vendée Luçon (On Loan)
+1, Johann Carrasso, FRA, G, 1.85, 79, 07-05-88, Avignon, Reims

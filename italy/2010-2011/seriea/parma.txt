@@ -1,0 +1,50 @@
+=  Parma - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pavarini, ITA, G, 1.90, 81, 24-02-74, Brescia, Siena
+2, Rolf Feltscher, SUI, D, 1.81, 74, 06-10-90, Bülach, Grasshoppers
+4, Stefano Morrone, ITA, M, 1.78, 71, 26-10-78, Cosenza, Livorno
+5, Cristian Zaccardo, ITA, D, 1.84, 74, 21-12-81, Formigine, Wolfsburg
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Antonio Candreva, ITA, M, 1.80, 72, 28-02-87, Rome, Udinese
+8, Fernando Marqués, ESP, M, 1.78, 70, 04-12-84, Madrid, Espanyol
+9, Hernán Crespo, ARG, F, 1.84, 81, 05-07-75, Florida, Genoa
+10, Blerim Dzemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Torino
+11, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Juventus
+13, Ângelo, BRA, D, 1.75, 76, 12-06-81, Salvador, Lecce
+14, Daniele Galloppa, ITA, M, 1.80, 71, 15-05-85, Rome, Siena
+16, Stefano Russo, ITA, G, 1.85, 79, 06-03-89, Nardò, Brindisi
+18, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Fiorentina
+20, Toni Calvo, ESP, M, 1.71, 65, 28-03-87, Barcelona, Aris
+21, Sebastian Giovinco, ITA, F, 1.64, 62, 26-01-87, Turin, Juventus
+22, Zé Eduardo, BRA, M, 1.86, 80, 16-08-91, Uberaba, Maga
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Genoa
+24, Massimo Paci, ITA, D, 1.90, 88, 09-05-78, Fermo, Genoa
+25, Nemanja Čović, SRB, F, 1.86, 80, 18-06-91, Novi Sad, Proleter Novi Sad
+26, Marco Pisano, ITA, D, 1.74, 75, 13-08-81, Rome, Torino
+27, Filipe Oliveira, POR, M, 1.82, 72, 27-05-84, Braga, Sporting Braga
+29, Gabriel Paletta, ARG, D, 1.90, 80, 15-02-86, Longchamps, Boca Juniors
+36, Francesco Finocchio, ITA, F, 1.78, 70, 30-04-92, Caserta, None
+37, Davide Adorni, ITA, D, 1.85, 78, 09-08-92, Parma, None
+38, Alessandro De Vitis, ITA, M, 1.84, 79, 05-02-92, Verona, Fiorentina
+39, Makris Petrozzi, ITA, D, , , 06-01-93, Foggia, Casalese
+40, Nwankwo Obiora, NGA, M, 1.83, 77, 12-07-91, Kaduna, Internazionale
+58, Grégoire Defrel, FRA, F, 1.80, 73, 17-06-91, Meudon, None
+80, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Bologna
+83, Antonio Mirante, ITA, G, 1.88, 78, 08-07-83, Castellamare di Stabia, Sampdoria
+84, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Genoa
+86, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Manchester C
+92, Antonio Santurro, ITA, G, 1.85, 74, 29-02-92, Parma, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Lecce (On Loan)
+33, Andrea Rispoli, ITA, D, 1.87, 78, 29-09-88, Cava de' Tirreni, Lecce (On Loan)
+19, Gabriele Paonessa, ITA, M, 1.70, 64, 18-04-87, Bologna, Cesena (On Loan)
+27, Matteo Mandorlini, ITA, M, 1.74, 68, 22-10-88, Como, Piacenza (On Loan)
+3, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Genoa
+51, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Palermo
+17, Danilo Pereira, POR, M, 1.87, 60, 09-09-91, Bissau, Aris (On Loan)
+11, Alberto Paloschi, ITA, F, 1.75, 68, 04-01-90, Chiari, Genoa
+34, Filippo Savi, ITA, M, 1.75, 75, 29-01-87, Sala Baganza, Crociati Noceto (On Loan)

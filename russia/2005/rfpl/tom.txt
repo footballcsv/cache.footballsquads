@@ -1,0 +1,54 @@
+=  Tom Tomsk - Russian Football Premier League 2005
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Pavel Djakonov, G, 6'02", 11 07, 16-03-73, St. Petersburg, Uralan
+2, Sergey Jaskovic, D, 6'00", 12 00, 14-01-72, Minsk, FC Moscow
+3, Valeriy Klimov, M, 6'02", 12 13, 31-01-74, Orel, Arsenal Tula
+4, Vasiliy Yanotovskiy, M, 5'09", 11 00, 02-01-76, Leninsk-Kuznetskiy, Zarya LK
+6, Albert Borzenkov, D, 6'01", 12 04, 03-01-73, Kursk, Sokol
+7, Sergey Skoblyakov, M, 5'05", 09 02, 02-01-77, Moscow, Metallurg
+8, Evgeniy Novikov, M, 5'10", 11 00, 28-06-80, Tallinn, Zvezda
+10, Branislav Krunić, M, 6'02", 12 08, 28-01-79, Skopje, Volyni
+11, Evgeniy Kaleshin, M, 5'08", 10 08, 20-06-78, Timashevsk, Lada
+12, Valeriy Leonov, M, 5'08", 11 03, 17-09-80, Moscow, FC Moscow
+13, Alexey Medvedev, F, 6'00", 11 11, 05-01-77, Orehovo-Zuevo, Saturn
+14, Oleg Şişchin, M, 5'10", 11 09, 07-01-75, Kishinev, Khimki
+15, Aleksandr Familtsev, D, 5'11", 11 05, 03-08-75, Alma-Ata, Torpedo
+17, Denis Kiselev, F, 5'11", 11 00, 02-06-78, Moscow, Khimki
+18, Stanislav Kuznetsov, M, 6'00", 11 11, 10-06-86, Tomsk, None
+20, Sergey Rekhtin, D, 6'02", 12 01, 12-09-74, Barnaul, Dynamo Barnaul
+21, Valeriy Catînsus, D, 6'00", 12 00, 27-04-78, Kishinev, Arsenal Tula
+22, Konstantin Skrylnikov, M, 5'10", 11 11, 16-07-79, Toliyuti, Rotor
+23, Ivan Zavaliy, F, 6'01", 12 11, 18-09-84, Tver, SKA-Energiya
+25, Sergei Pareiko, G, 6'04", 13 03, 31-01-77, Tallinn, Levadia Tallinn
+26, Yuriy Uljumdzhiev, F, 6'00", 12 06, 20-12-81, Kolmyukiy, Uralan
+27, Pavel Mogilevskiy, D, 6'00", 12 01, 17-04-80, Volgograd, Rotor
+28, Sergey Losev, G, 6'05", 12 06, 31-07-83, St. Petersburg, Zenit-B
+30, Mikhail Vanev, M, 5'10", 11 03, 27-11-81, Tomsk, Jantar
+32, Ivan Averchenko, D, 5'09", 11 03, 23-04-83, Tomsk, None
+33, Artur Frank, D, 5'11", 11 05, 27-08-82, Tomsk, None
+34, Vasiliy Glumov, D, 5'09", 11 11, 19-03-83, Tomsk, None
+35, Roman Timofeev, D, 6'04", 13 05, 15-12-85, Tomsk, None
+36, Dmitriy Mjachin, M, 5'09", 10 06, 07-06-83, Tomsk, None
+37, Sergey Gavrilov, M, 5'09", 10 03, 14-01-87, Tomsk, None
+38, Aleksandr Russkikh, M, 5'07", 10 03, 11-09-83, Tomsk, None
+39, Aleksandr Raschitaev, D, 5'10", 10 10, 07-10-86, Tomsk, None
+40, Pavel Yrkov, F, 5'04", 11 00, 22-02-87, Tomsk, None
+48, Andrius Gedgaudas, M, 5'11", 11 09, 18-09-78, Kaunas, Kaunas
+49, Budun Budunov, F, 5'11", 12 06, 04-12-75, Kaspiisk, FC Moscow
+50, Illya Blyznyuk, G, 6'04", 13 08, 28-07-73, Zaporozie, FC Rostov
+52, Atanas Bornosuzov, M, 5'11", 11 11, 05-10-79, Sofia, Naftex
+55, Andrius Skerla, D, 6'00'', 12 11, 29-04-77, Vilnius, Dunfermline Ath
+77, Aleksandr Kulchiy, M, 5'11", 11 09, 01-11-73, Gomel, Shinnik
+84, Hrvoje Vejić, D, 6'03", 12 13, 08-06-77, Zagreb, Hajduk Split
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Aleksandr Surovtsev, G, 6'01", 12 04, 16-01-72, Barnaul, 
+18, Vladimir Mazov, M, 6'02", 12 06, 08-03-81, Tula, Khimki
+24, Dmitriy Skoblyakov, F, 5'08", 10 01, 28-01-80, Moscow, Spartak Chelyubisnk
+31, Tomasz Vyhodil, D, 6'01", 12 01, 07-10-75, Opava, 
+19, Rustem Bulatov, D, 5'10", 11 09, 02-04-74, Kazan, Khimki
+5, Aleksandr Shvetsov, M, 5'11", 11 05, 17-12-75, Moscow, Anzhi Makhachkala
+9, Andrey Demkin, F, 6'02", 13 03, 21-02-76, Moscow, 

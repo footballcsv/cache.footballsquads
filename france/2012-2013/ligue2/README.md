@@ -1,0 +1,23 @@
+# French Ligue 2 2012/13
+
+20 teams
+- [Angers](angers.txt)
+- [Arles-Avignon](arles.txt)
+- [Auxerre](auxerre.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dijon](dijon.txt)
+- [Gazélec Ajaccio](gazelec.txt)
+- [Guingamp](guinga.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Le Mans](lemans.txt)
+- [Lens](lens.txt)
+- [Monaco](monaco.txt)
+- [Nantes](nantes.txt)
+- [Nîmes](nimes.txt)
+- [Niort](niort.txt)
+- [Sedan](sedan.txt)
+- [Tours](tours.txt)

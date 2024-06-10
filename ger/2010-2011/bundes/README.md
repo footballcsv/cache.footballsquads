@@ -1,0 +1,21 @@
+# German Bundesliga 2010/11
+
+18 teams
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [1899 Hoffenheim](hoffen.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [1.FC Köln](koln.txt)
+- [FSV Mainz 05](mainz.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [St Pauli](stpauli.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

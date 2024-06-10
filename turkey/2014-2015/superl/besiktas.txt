@@ -1,0 +1,41 @@
+=  Besiktas - Turkish Süper Lig 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cenk Gönen, TUR, G, 1.88, 70, 21-02-88, İzmir, Denizlispor
+2, Serdar Kurtuluş, TUR, D, 1.84, 79, 23-07-87, Bursa, Gaziantepspor
+3, İsmail Köybaşı, TUR, D, 1.77, 65, 10-07-89, İskenderun, Gaziantepspor
+4, Alexander Milošević, SWE, D, 1.91, 82, 30-01-92, Sundbyberg, AIK
+5, José Ernesto Sosa, ARG, M, 1.82, 77, 19-06-85, Carcarañá, Metalist Kharkiv
+6, Tomáš Sivok, CZE, D, 1.85, 71, 15-09-83, Pelhřimov, Udinese
+7, Gökhan Töre, TUR, M, 1.76, 74, 20-01-92, Cologne, Rubin Kazan
+8, Veli Kavlak, AUT, M, 1.78, 73, 03-11-88, Vienna, Rapid Vienna
+9, Demba Ba, SEN, F, 1.89, 83, 25-05-85, Sèvres, Chelsea
+10, Olcay Şahan, TUR, M, 1.77, 70, 26-05-87, Düsseldorf, Kaiserslautern
+11, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Gençlerbirliği
+13, Atiba Hutchinson, CAN, M, 1.87, 72, 08-02-83, North York, PSV Eindhoven
+15, Oğuzhan Özyakup, TUR, M, 1.78, 71, 23-09-92, Zaandam, Arsenal
+18, Tolgay Arslan, GER, M, 1.79, 75, 16-08-90, Paderborn, Werder Bremen
+19, Pedro Franco, COL, D, 1.83, 76, 23-04-91, Bogotá, Millonarios
+20, Necip Uysal, TUR, M, 1.80, 72, 24-01-91, Bakırköy, None
+21, Kerim Frei, TUR, M, 1.71, 66, 19-11-93, Feldkirch, Fulham
+22, Ersan Gülüm, AUS, D, 1.85, 79, 17-05-87, Carlton, Adanaspor
+23, Cenk Tosun, TUR, F, 1.83, 78, 07-06-91, Wetzlar, Gaziantepspor
+25, Uğur Boral, TUR, M, 1.78, 72, 14-04-82, Istanbul, Samsunspor
+27, Günay Güvenç, GER, G, 1.85, 80, 25-07-91, Neu-Ulm, Stuttgarter Kickers
+29, Tolga Zengin, TUR, G, 1.92, 81, 10-10-83, Hopa, Trabzonspor
+31, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Corinthians
+33, Atınç Nukan, TUR, D, 1.96, 85, 20-07-93, Fatih, None
+41, Enes Fidayeo, TUR, G, 1.90, 84, 01-03-97, Gölcük, None
+44, Daniel Opare, GHA, D, 1.72, 65, 18-10-90, Accra, FC Porto
+96, Veysel Sapan, TUR, G, 1.97, 86, 11-01-96, Güngören, None
+97, Eslem Öztürk, TUR, M, 1.77, 70, 01-12-97, Gölcük, Gölcükspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Gökhan Süzen, TUR, D, 1.80, 75, 12-07-87, Düzce, Gaziantepspor (On Loan)
+54, Tugay Kaya, TUR, D, 1.82, 77, 27-01-95, Şişli, Bayrampaşa (On Loan)
+99, Emre Metin, TUR, G, 1.88, 83, 07-02-93, Şişli, Bayrampaşa (On Loan)
+14, Furkan Yaman, TUR, F, 1.82, 75, 08-01-96, Gaziosmanpaşa, Menemen Belediyespor (On Loan)
+5, Sezer Öztürk, TUR, M, 1.78, 78, 03-11-85, Cologne, Eskişehirspor (On Loan)
+28, Ümit Karaal, TUR, D, 1.70, 66, 15-08-95, Giresun, Elazığspor (On Loan)

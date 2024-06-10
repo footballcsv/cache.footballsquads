@@ -1,0 +1,43 @@
+=  Atalanta - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrea Consigli, ITA, G, 1.89, 79, 27-01-87, Milan, None
+2, Leonardo Talamonti, ARG, D, 1.83, 77, 12-11-81, Alvarez, River Plate
+5, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Udinese
+6, Gianpaolo Bellini, ITA, D, 1.80, 75, 27-03-80, Sarnico, None
+7, Michael Girasole, ITA, M, 1.80, 73, 30-01-89, Vimercate, None
+8, György Garics, AUT, M, 1.83, 76, 08-03-84, Szombathely, Napoli
+9, Gianvito Plasmati, ITA, F, 1.99, 85, 28-01-83, Matera, Catania
+11, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Roma
+13, Federico Peluso, ITA, D, 1.86, 73, 20-01-84, Rome, AlbinoLeffe
+15, Diego De Ascentis, ITA, M, 1.78, 77, 31-07-76, Como, Torino
+16, Manolo Gabbiadini, ITA, F, 1.81, 72, 26-11-91, Calcinate, None
+17, Tiberio Guarente, ITA, M, 1.82, 74, 01-11-85, Pisa, Verona
+18, Marco Villanova, ITA, F, , , 04-06-91, , None
+20, Jaime Valdès Zapata, CHI, F, 1.75, 69, 11-01-81, Santiago, Lecce
+21, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilio, Parma
+22, Simone Padoin, ITA, M, 1.79, 73, 18-03-84, Gemona del Friuli, Vicenza
+23, Costinha, POR, M, 1.81, 74, 01-12-74, Lisbon, Atlético Madrid
+26, Maximiliano Pellegrino, ARG, D, 1.89, 80, 26-01-80, Leones, Vélez Sarsfield
+27, Daniele Capelli, ITA, D, 1.84, 78, 20-06-86, Calcinate, None
+28, Michele Legrenzi, ITA, M, , , 23-04-91, , None
+31, Ferdinando Coppola, ITA, G, 1.88, 86, 10-06-78, Naples, Milan
+33, Sergio Floccari, ITA, F, 1.78, 74, 12-11-81, Vibo Valentia, Messina
+34, Marino Defendi, ITA, F, 1.74, 70, 19-08-85, Bergamo, None
+46, Simone Cerea, ITA, M, , , 16-02-89, , None
+55, Francesco Parravicini, ITA, M, 1.75, 73, 31-01-82, Milan, Parma
+72, Cristiano Doni, ITA, M, 1.85, 79, 01-04-73, Rome, Mallorca
+79, Adriano Ferreira Pinto, BRA, M, 1.78, 70, 10-12-79, Quinta Do Sol, Cesena
+91, Simone Colombi, ITA, G, 1.86, 80, 01-07-91, Seriate, None
+99, Simone Zaza, ITA, F, 1.82, 75, 25-06-91, Policoro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+89, Michele Marconi, ITA, M, 1.86, 76, 13-05-89, Follonica, Grosseto (On Loan)
+9, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, AlbinoLeffe
+28, Giacomo Bonaventura, ITA, M, 1.81, 75, 22-08-89, San Severino Marche, Pergocrema (On Loan)
+16, Claudio Rivalta, ITA, D, 1.73, 68, 30-06-78, Ravenna, Torino
+7, Alessio Manzoni, ITA, M, 1.77, 65, 10-04-87, Crema, Parma (On Loan)
+18, Antonino D'Agostino, ITA, M, 1.73, 70, 08-10-78, Turin, Parma (On Loan)
+32, Christian Vieri, ITA, F, 1.86, 82, 12-07-73, Bologna, 

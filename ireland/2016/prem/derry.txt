@@ -1,0 +1,36 @@
+=  Derry City - League of Ireland Premier Division 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gerard Doherty, IRL, G, 1.88, 86, 24-08-81, Derry, TNS
+2, Niclas Vemmelund, DEN, D, 1.86, 86, 02-10-92, Kerteminde, IF Brommapojkarna
+3, Dean Jarvis, NIR, D, 1.80, 76, 01-06-92, Derry, Institute
+4, Aaron McEneff, NIR, M, 1.75, 70, 09-07-95, Derry, Tottenham H
+5, Ryan McBride, IRL, D, 1.79, 74, 15-12-89, Derry, None
+6, Conor McCormack, IRL, M, 1.78, 69, 09-04-90, Greenore, St Patrick's Ath
+7, Barry McNamee, NIR, M, 1.81, 78, 17-02-92, Derry, None
+8, Harry Monaghan, SCO, M, 1.78, 75, 24-03-93, Glasgow, Stenhousemuir
+10, Keith Ward, IRL, M, 1.78, 74, 12-10-90, Dublin, Sligo R
+11, Rory Patterson, NIR, F, 1.80, 68, 16-07-84, Strabane, FCUM
+12, Joshua Daniels, NIR, M, 1.77, 73, 22-02-96, Derry, None
+14, Gareth McGlynn, IRL, M, 1.75, 67, 29-10-82, Donegal, Stirling Lions
+15, Shay Dunlop, IRL, D, 1.78, 69, 07-04-96, Derry, None
+16, Nathan Boyle, IRL, F, 1.81, 73, 14-04-94, Derry, None
+20, Shaun Patton, NIR, G, 1.83, 83, 22-08-95, Letterkenny, Finn Harps
+21, Cristian Castells, ESP, D, 1.89, 89, 19-10-84, Sueca, Ceahlăul Piatra Neamț
+22, Patrick McClean, NIR, D, 1.86, 73, 22-11-96, Derry, None
+23, Ben Doherty, NIR, M, 1.75, 63, 24-03-97, Derry, None
+24, Sam Todd, NIR, D, 1.85, 76, 28-04-98, Carndonagh, None
+25, Conor McDermott, NIR, M, 1.73, 72, 18-09-97, Derry, None
+26, Ryan Doherty, NIR, F, 1.82, 77, 15-04-96, Derry, None
+27, Ronan Curtis, NIR, F, 1.82, 77, 29-03-96, Derry, None
+28, Mark McElhinney, NIR, G, , , 04-03-98, , Aileach
+29, Lukas Schubert, AUT, D, 1.78, 73, 25-06-89, Oberndorf bei Salzburg, Grödig
+30, Aaron Barry, IRL, D, 1.86, 75, 24-11-92, Dublin, Sheffield U
+32, Rory Holden, NIR, F, 1.69, 68, 23-08-97, Derry, None
+33, Maximilian Karner, AUT, D, 1.84, 74, 30-01-90, Salzburg, Levski Sofia
+38, Jack Blake, NIR, M, 1.83, 70, 07-08-97, Derry, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Jordan Allan, SCO, F, 1.85, 80, 07-02-95, Glasgow, Coleraine (On Loan)

@@ -1,0 +1,67 @@
+=  Lokomotiv Moscow - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guilherme, BRA, G, 1.97, 78, 12-12-85, Cataguases, Atlético Paranaense
+4, Rodolfo, BRA, D, 1.83, 77, 23-10-82, Santos, Dynamo Kiev
+6, Milan Milanović, SRB, D, 1.94, 83, 31-03-91, Kosovska Mitrovica, Lokomotiv-2
+7, Dmitriy Tarasov, RUS, M, 1.88, 73, 18-03-87, Tomsk, FC Moscow
+8, Denis Glushakov, RUS, M, 1.78, 72, 27-01-87, Millerovo, Lokomotiv-2
+10, Dmitriy Loskov, RUS, M, 1.78, 78, 12-02-74, Kurgan, Saturn
+11, Dmitri Sychev, RUS, F, 1.76, 71, 26-10-83, Omsk, Marseille
+13, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Cruzeiro
+14, Igor Smolnikov, RUS, M, 1.78, 70, 08-08-88, Moscow, Torpedo Moscow
+15, Haminu Draman, GHA, M, 1.73, 73, 28-04-86, Accra, Gençlerbirliği
+16, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Cruzeiro
+17, Dmitriy Sennikov, RUS, D, 1.83, 74, 24-06-76, St. Petersburg, Shinnik
+19, Draman Traoré, MLI, F, 1.92, 82, 17-06-82, Bamako, Club Africain
+20, Branko Ilič, SVN, D, 1.88, 80, 06-02-83, Ljubljana, FC Moscow
+21, Dmitriy Torbinskiy, RUS, M, 1.72, 60, 28-04-84, Moscow, Spartak Moscow
+22, Aleksandr Krivoruchko, RUS, G, 1.90, 78, 23-09-84, Moscow, Lokomotiv-2
+23, Marko Baša, SRB, D, 1.90, 79, 29-12-82, Trstenik, Le Mans
+27, Magomed Ozdoev, RUS, M, 1.82, 75, 05-11-92, Grozny, Dynamo Kiev-2
+28, Ján Ďurica, SVK, D, 1.87, 85, 10-11-81, Bratislava, Saturn
+30, Malkhaz Asatiani, GEO, M, 1.84, 79, 04-08-81, Kutaisi, Torpedo Kutaisi
+32, Marek Čech, CZE, G, 1.87, 84, 08-04-76, Ostrava, Luch-Energia
+35, Aleksandr Filtsov, RUS, G, 1.97, 85, 02-01-90, Shimanovsk, FC Togliatti
+41, Ilya Mironov, RUS, M, 1.76, 63, 27-02-92, , Lokomotiv-2
+44, Ruslan Kambolov, RUS, D, 1.80, 79, 01-01-90, Moscow, Lokomotiv-2
+49, Roman Shishkin, RUS, D, 1.77, 73, 27-01-87, Voronezh, Spartak Moscow
+51, Maksim Belyayev, RUS, D, 1.85, 76, 30-09-91, Ozyory, Lokomotiv-2
+52, Evgeniy Bodanov, RUS, G, 1.84, 72, 23-01-92, , Lokomotiv-2
+53, Andrey Semenov, RUS, M, 1.82, 70, 08-06-92, , Lokomotiv-2
+54, Egor Generalov, RUS, G, 1.87, 81, 24-01-93, Smorgon, Lokomotiv-2
+55, Renat Yanbaev, RUS, D, 1.78, 71, 07-04-84, Noginsk, Kuban Krasnodar
+56, Georgiy Nurov, RUS, F, 1.79, 67, 08-06-92, Moscow, Lokomotiv-2
+59, Aleksandr Vasyukov, RUS, M, 1.78, 70, 18-02-92, , Lokomotiv-2
+62, Roman Bikov, RUS, M, 1.83, 74, 16-03-92, , Lokomotiv-2
+64, Seit-Daut Garakoev, RUS, F, 1.75, 73, 26-08-92, , Lokomotiv-2
+65, Dmitriy Kukharchuk, RUS, F, 1.78, 69, 27-07-92, , Lokomotiv-2
+68, Aleksandr Korshunov, RUS, G, 1.88, 83, 20-01-93, , Lokomotiv-2
+71, Aleksey Mamonov, RUS, D, 1.83, 79, 14-04-93, Poltava, Lokomotiv-2
+72, Soslan Dzhioev, RUS, M, 1.82, 74, 08-08-93, , Lokomotiv-2
+74, Maksim Barsov, RUS, F, 1.74, 70, 29-04-93, Tver, Lokomotiv-2
+77, Arkadiy Kalaydzhyan, RUS, M, 1.94, 90, 01-12-92, , Lokomotiv-2
+78, Nikolay Kalinskiy, RUS, M, 1.80, 75, 22-09-93, Moscow, Lokomotiv-2
+79, Aleksandr Yarkovoy, RUS, D, 1.89, 75, 10-02-93, , Lokomotiv-2
+81, Alan Gatagov, RUS, D, 1.80, 71, 23-01-91, Vladikavkaz, Lokomotiv-2
+82, Soslan Gatagov, RUS, D, 1.80, 70, 29-09-92, Vladikavkaz, Lokomotiv-2
+83, Aleksey Malkov, RUS, M, 1.73, 62, 30-03-93, , Lokomotiv-2
+84, Daniil Lezgintsev, RUS, M, 1.80, 75, 30-08-92, , Lokomotiv-2
+88, Oleksandr Aliyev, UKR, M, 1.73, 72, 03-02-85, Khabarovsk, Dynamo Kiev
+90, Maicon, BRA, F, 1.82, 67, 18-02-90, Duque de Caxias, Fluminense
+96, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv-2
+98, Alan Chochiev, RUS, M, 1.80, 70, 07-09-91, Vladikavkaz, Lokomotiv-2
+99, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Lokomotiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Naim Sharifi, RUS, D, 1.75, 68, 03-06-92, Dushanbe, Kapfenberg
+75, Pavel Novitskiy, RUS, D, 1.87, 84, 06-04-89, , Nika Moscow
+45, Aleksandr Minchenkov, RUS, F, 1.83, 75, 13-01-89, Moscow, Dynamo Bryansk (On Loan)
+69, Sergey Efimov, RUS, D, 1.89, 84, 15-10-87, Korolyov, Dynamo Bryansk (On Loan)
+3, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Rubin Kazan
+5, Tomislav Dujmović, CRO, M, 1.88, 87, 26-02-81, Zagreb, Dynamo Moscow
+9, Peter Odemwingie, NGA, F, 1.82, 74, 15-07-81, Tashkent, WBA
+61, Mirlan Murzaev, KGZ, F, 1.83, 80, 29-03-90, , 
+18, Vladislav Ignatyev, RUS, M, 1.80, 72, 20-01-87, Naberezhnye Chelny, Kuban Krasnodar (On Loan)

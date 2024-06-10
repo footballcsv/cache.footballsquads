@@ -1,0 +1,58 @@
+=  De Graafschap - Dutch Eredivisie 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hidde Jurjus, NED, G, 1.87, 87, 09-02-94, Lichtenvoorde, PSV Eindhoven
+2, Bart Straalman, NED, D, 1.93, 72, 22-08-96, Winterswijk, None
+3, Ted van de Pavert, NED, D, 1.90, 85, 06-01-92, Doetinchem, PEC Zwolle
+4, Lars Nieuwpoort, NED, D, 1.89, 75, 29-10-94, Den Helder, Almere C
+5, Jordi Tutuarima, NED, D, 1.69, 67, 28-04-93, Velp, Telstar
+6, Robert Klaasen, NED, M, 1.77, 74, 06-09-93, Amsterdam, Sparta Rotterdam
+7, Furdjel Narsingh, NED, F, 1.75, 71, 13-03-88, Amsterdam, SC Cambuur
+8, Javier Vet, NED, M, 1.92, 84, 09-09-93, Amsterdam, Almere C
+9, Nabil Bahoui, SWE, F, 1.88, 84, 05-02-91, Stockholm, Grasshoppers
+10, Stefan Nijland, NED, M, 1.87, 77, 10-08-88, Hoogezand- Sappermeer, PEC Zwolle
+11, Daryl van Mieghem, NED, F, 1.70, 70, 05-12-89, Amsterdam, Heracles Almelo
+12, Nigel Bertrams, NED, G, 1.89, 81, 08-01-93, Best, FC Nordsjælland
+13, Jordy Rondeel, NED, G, 1.84, 76, 04-08-94, Keijenborg, Go Ahead Eagles
+14, Liban Abdulahi, NED, M, 1.78, 60, 02-11-95, Haarlem, Telstar
+15, Ruben Ligeon, NED, D, 1.68, 65, 24-05-92, Amsterdam, PEC Zwolle
+17, Nick van den Dam, NED, G, 1.95, 75, 12-03-99, Arnhem, None
+18, Erik Bakker, NED, M, 1.77, 77, 21-03-90, Hoogeveen, PEC Zwolle
+20, Youssef El Jebli, NED, M, 1.77, 74, 27-12-92, Utrecht, FC Lienden
+21, Azor Matusiwa, NED, M, 1.73, 70, 28-04-98, Hilversum, Ajax
+22, Fabian Serrarens, NED, F, 1.88, 71, 09-02-91, Amsterdam, Telstar
+23, Sven Nieuwpoort, NED, D, 1.84, 77, 13-04-93, Den Helder, Go Ahead Eagles
+24, Elvio van Overbeek, NED, F, 1.74, 70, 11-01-94, Dongen, Go Ahead Eagles
+25, Delano Burgzorg, NED, F, 1.86, 76, 07-11-98, Amsterdam, Zeeburgia
+26, Hamza Abkadri, NED, F, 1.79, 56, 14-08-01, Winterswijk, None
+27, Jardell Kruidbos, NED, M, 1.75, 67, 23-04-99, Arnhem, None
+28, Frank Olijve, NED, M, 1.76, 63, 07-03-89, Amsterdam, Orange County
+29, Aron Hebbink, NED, M, 1.78, 61, 03-09-98, Doetinchem, None
+30, Andreas Dusink, DEN, F, 1.80, 72, 31-01-98, Brøndby, None
+31, Guus Vaags, NED, G, 1.92, 71, 25-11-00, Aalten, None
+32, Mart Janssen, NED, D, 1.78, 70, 23-09-98, Zevenaar, DZC '68
+33, Lars Hekkers, NED, D, 1.75, 72, 21-11-98, Rheden, None
+34, Joey Lieshout, NED, F, 1.79, 79, 04-04-99, Hoorn, None
+35, Charlison Benschop, CUW, F, 1.91, 90, 21-08-89, Koraalspecht, Ingolstadt
+36, Koen Huntelaar, NED, M, 1.85, 71, 08-07-98, Hummelo, None
+37, Jurre Vreman, NED, D, 1.89, 78, 20-02-98, Gendringen, None
+38, Thijs van Amerongen, NED, D, 1.75, 71, 09-04-99, Rheden, None
+40, Rick Bosma, NED, M, 1.79, 71, 29-09-98, Lichtenvoorde, None
+41, Matthijs van Nispen, NED, M, 1.74, 73, 29-01-98, Doetinchem, None
+42, Reyer van Doorn, NED, D, 1.84, 77, 02-07-98, Arnhem, Vitesse
+43, Jonathan Vergara Berrio, NED, M, 1.77, 69, 07-01-99, Doetinchem, None
+44, Leeroy Owusu, NED, D, 1.74, 71, 13-08-96, Purmerend, Ajax
+45, Bert Esselink, NED, D, 1.85, 78, 16-08-99, ‘s-Heerenberg, None
+47, Hatim Akarom, NED, D, , , 29-09-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Marlon Versteeg, NED, F, 1.83, 77, 29-07-97, Arnhem, FC Lienden (On Loan)
+9, Anthony van den Hurk, CUW, F, 1.79, 75, 09-01-93, Veghel, MVV Maastricht
+21, Kyvon Leidsman, NED, F, 1.84, 78, 03-09-98, Amsterdam, Almere C
+1, Agil Etemadi, IRN, G, 1.84, 78, 23-04-87, Tehran, Almere C
+12, Myenty Abena, NED, D, 1.85, 88, 12-12-94, Paramaribo, Spartak Trnava
+47, Mohamed Hamdaoui, NED, F, 1.68, 61, 10-06-93, Amsterdam, FC Twente (On Loan)
+19, Jordy Thomassen, NED, F, 1.89, 78, 15-04-93, 's-Hertogenbosch, Adelaide U (On Loan)
+17, Hidde Jurjus, NED, G, 1.87, 87, 09-02-94, Lichtenvoorde, Re-Registered (1)

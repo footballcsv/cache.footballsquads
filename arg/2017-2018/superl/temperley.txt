@@ -1,0 +1,48 @@
+=  Temperley - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Josue Ayala, ARG, G, 1.83, 80, 30-05-88, Capital Federal, Atlético Tucumán
+2, Ignacio Boggino, ARG, D, 1.87, 79, 22-02-86, Rosario, Patronato (Paraná)
+3, Matías Nani, ARG, D, 1.89, 84, 26-03-98, La Playosa, Roma
+4, Adrián Scifo, ARG, D, 1.86, 80, 10-10-87, Monte Caseros, Sarmiento (Junín)
+5, Rodrigo De Ciancio, ARG, M, 1.79, 76, 30-03-95, Capital Federal, San Lorenzo
+6, Gastón Aguirre, ARG, D, 1.78, 76, 11-11-81, Adrogué, San Lorenzo
+7, Fernando Brandán, ARG, M, 1.65, 66, 27-03-90, Mendoza, Rivadavia (Lincoln)
+8, Adrián Arregui, ARG, M, 1.76, 74, 12-08-92, Berazategui, Berazategui
+9, Santiago Giordana, ARG, F, 1.80, 73, 03-05-95, Córdoba, Belgrano (Córdoba)
+11, Lorenzo Di Lorenzo, ARG, M, 1.76, 73, 20-05-81, Capital Federal, Acassuso
+12, Tomás Quilici, ARG, G, 1.88, 79, 30-09-98, Capital Federal, None
+13, Matías Orihuela, ARG, M, 1.77, 70, 17-02-92, Córdoba, Tigre
+14, Agustín Sosa, ARG, D, 1.76, 71, 29-08-00, Claypole, None
+15, Nicolás Demartini, ARG, D, 1.79, 72, 04-11-99, Rafael Calzada, None
+17, Marcos Pinto, ARG, D, 1.73, 76, 25-01-94, Formosa, Lanús
+18, Fabián Muñoz, ARG, F, 1.75, 72, 03-11-91, Rufino, Panetolikos
+19, Marcos Figueroa, ARG, F, 1.72, 72, 18-01-90, Rosario, San Martín (San Juan)
+20, Leandro De Bórtoli, ARG, G, 1.84, 83, 03-08-88, Avellaneda, None
+21, Julián Lucero, ARG, G, 1.83, 73, 09-05-95, San Luis, Juventud UU (San Luis)
+22, Juan Sánchez Sotelo, ARG, F, 1.80, 81, 02-10-87, Avellaneda, Arsenal [ARG]
+23, Mathías Villasanti, PAR, M, 1.78, 74, 24-01-97, Caacupé, Cerro Porteño
+24, Lucas Mulazzi, ARG, D, 1.85, 87, 27-09-99, Quilmes, None
+25, Fernando Asmar, ARG, D, 1.84, 71, 14-07-99, Temperley, None
+26, Williams Riveros, PAR, D, 1.79, 69, 17-06-94, Asunción, Flandria
+28, Franco Capalbo, ARG, M, 1.77, 75, 14-11-98, San Vicente, None
+29, Lucas Delgado, ARG, F, 1.86, 82, 24-03-95, Capitán Bermúdez, Barracas Central
+31, Ramiro Costa, ARG, F, 1.90, 84, 21-08-92, Rosario, Atlético Rafaela
+32, Ezequiel Montagna, ARG, F, 1.80, 70, 08-06-94, Mar del Plata, San Lorenzo
+33, Sebastián Martelli, ARG, M, 1.70, 66, 13-03-96, Caseros, Vélez Sarsfield
+34, Franco Sosa, ARG, F, 1.71, 72, 19-09-99, Capital Federal, None
+35, Federico Fattori, ARG, M, 1.77, 76, 22-07-92, Capital Federal, Nueva Chicago
+36, Emiliano Ozuna, ARG, F, 1.66, 60, 09-02-96, Magdalena, Estudiantes (LP)
+37, Gaspar Gentile, ARG, F, 1.82, 71, 16-02-95, Los Quirquinchos, Ferro Carril Oeste (General Pico)
+38, Pablo Zalazar, ARG, M, 1.81, 74, 06-05-00, , None
+39, Federico Antúnez, ARG, F, 1.77, 72, 26-01-99, Claypole, None
+40, Ezequiel Spinella, ARG, M, 1.65, 64, 23-10-99, Quilmes, None
+41, Darío Salina, ARG, M, 1.74, 73, 25-09-95, San Vicente, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Alexis Zárate, ARG, D, 1.79, 74, 08-05-94, General Deheza, Independiente
+28, Rodi Ferreira, PAR, D, 1.79, 69, 29-05-98, Concepción, Olimpia [PAR]
+10, Maximiliano Lugo, ARG, D, 1.70, 68, 04-12-89, Lanús, Belgrano (Córdoba)
+30, Gonzalo Escobar, ARG, D, 1.73, 65, 16-03-97, San Vicente, Colón (Santa Fe)

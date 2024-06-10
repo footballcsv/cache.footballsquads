@@ -1,0 +1,57 @@
+=  Wigan Athletic - English Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Robles, ESP, G, 1.95, 85, 17-06-90, Leganés, Atlético Madrid
+2, Arouna Koné, CIV, F, 1.81, 81, 11-11-83, Anyama, Levante
+3, Antolín Alcaraz, PAR, D, 1.84, 80, 30-07-82, Roque Gonzalez, Club Brugge
+4, James McCarthy, IRL, M, 1.80, 72, 12-11-90, Glasgow, Hamilton Academical
+5, Gary Caldwell, SCO, D, 1.85, 75, 12-04-82, Stirling, Celtic
+6, David Jones, ENG, M, 1.85, 80, 04-11-84, Southport, Wolverhampton W
+7, Albert Crusat, ESP, M, 1.64, 65, 13-05-82, Barcelona, Almería
+8, Ben Watson, ENG, M, 1.78, 69, 09-07-85, Camberwell, Crystal Palace
+9, Franco Di Santo, ARG, F, 1.94, 78, 07-04-89, Mendoza, Chelsea
+10, Shaun Maloney, SCO, F, 1.70, 70, 24-01-83, Mirri, Celtic
+11, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Manchester U
+12, Mike Pollitt, ENG, G, 1.93, 89, 29-02-72, Farmworth, Rotherham U
+14, Jordi Gómez, ESP, M, 1.78, 74, 24-05-85, Barcelona, Espanyol B
+15, Callum McManaman, ENG, F, 1.75, 71, 25-04-91, Knowsley, Everton
+16, James McArthur, SCO, M, 1.68, 63, 07-10-87, Glasgow, Hamilton Academical
+17, Emmerson Boyce, BRB, D, 1.80, 73, 24-09-79, Aylesbury, Crystal Palace
+18, Roger Espinoza, HON, M, 1.80, 73, 25-10-86, Puerto Cortes, Sporting Kansas City
+20, Fraser Fyvie, SCO, M, 1.72, 60, 27-03-93, Aberdeen, Aberdeen
+21, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Mallorca
+22, Jean Beausejour, CHI, M, 1.79, 80, 01-06-84, Santiago, Birmingham C
+23, Ronnie Stam, NED, M, 1.75, 62, 18-06-84, Breda, FC Twente
+24, Piscu, ESP, D, 1.84, 77, 25-02-87, As Pontes de García Rodríguez, Deportivo La Coruña
+25, Román Golobart, ESP, D, 1.93, 87, 21-03-92, Barcelona, Espanyol B
+26, Ali Al-Habsi, OMA, G, 1.94, 79, 30-12-81, Muscat, Bolton W
+27, Jordan Mustoe, ENG, D, 1.80, 75, 28-01-91, Wirral, None
+28, Daniel Redmond, ENG, M, 1.60, 67, 02-03-91, Liverpool, Everton
+29, Nouha Dicko, FRA, F, 1.73, 74, 14-05-92, Saint-Maurice, Strasbourg
+30, Rob Kiernan, ENG, M, 1.86, 76, 13-01-91, Watford, Watford
+31, Maynor Figueroa, HON, D, 1.80, 85, 02-05-83, Juticalpa, Olimpia [HON]
+32, Ryo Miyaichi, JPN, F, 1.83, 71, 14-12-92, Okazaki, Arsenal
+33, Paul Scharner, AUT, M, 1.91, 80, 11-03-80, Scheibbs, Hamburg
+34, Jamie McCormack, SCO, D, 1.78, 74, 01-02-92, Edinburgh, Hearts
+35, Filip Oršula, SVK, F, 1.80, 80, 25-02-93, Sebedražie, FC Twente
+36, Rakish Bingham, ENG, F, , , 25-10-93, Newham, None
+37, Callum Morris, ENG, D, 1.87, 83, 01-09-92, Birkenhead, None
+38, Ryan Watson, ENG, M, 1.85, 73, 07-07-93, Crewe, None
+39, Tim Chow, ENG, M, 1.80, 72, 18-01-94, Wigan, None
+40, Peter Aylmer, ENG, M, , , 12-02-94, Liverpool, Liverpool
+41, Jonny Lynch, ENG, D, 1.80, 76, 02-11-93, Wigan, None
+42, Jack Phillips, ENG, M, 1.76, 75, 15-10-93, Liverpool, None
+43, Adam Buxton, ENG, D, 1.85, 81, 12-05-92, Liverpool, None
+44, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Barcelona B
+45, Josh Langley, ENG, D, 1.80, 73, 13-08-92, Warrington, None
+46, Josh Sumner, ENG, M, , , 03-01-94, Liverpool, Liverpool
+47, Jesjua Angoy, ESP, M, 1.80, 72, 11-03-93, Amsterdam, Barcelona B
+69, Guille, ESP, F, 1.80, 68, 13-10-92, Quart de Poblet, Olímpic de Xàtiva
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Conor Sammon, IRL, F, 1.78, 75, 13-04-87, Dublin, Derby Co
+11, Victor Moses, NGA, F, 1.77, 75, 12-12-90, Lagos, Chelsea
+13, Lee Nicholls, ENG, G, 1.91, 85, 05-10-92, Huyton, Northampton T (On Loan)
+19, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, Palermo (On Loan)

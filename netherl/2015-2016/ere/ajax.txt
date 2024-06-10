@@ -1,0 +1,36 @@
+=  Ajax - Dutch Eredivisie 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jasper Cillessen, NED, G, 1.87, 82, 22-04-89, Groesbeek, NEC Nijmegen
+2, Ricardo van Rhijn, NED, D, 1.76, 79, 13-06-91, Leiden, None
+3, Joël Veltman, NED, D, 1.84, 75, 15-01-92, IJmuiden, None
+4, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, FC Utrecht
+6, Riechedly Bazoer, NED, M, 1.85, 81, 12-10-96, Utrecht, PSV Eindhoven
+7, Viktor Fischer, DEN, F, 1.79, 71, 09-06-94, Aarhus, FC Midtjylland
+8, Daley Sinkgraven, NED, M, 1.79, 66, 04-07-95, Assen, SC Heerenveen
+9, Arkadiusz Milik, POL, F, 1.83, 73, 28-02-94, Tychy, Bayer Leverkusen
+10, Davy Klaassen, NED, M, 1.85, 76, 21-02-93, Hilversum, None
+11, Amin Younes, GER, M, 1.68, 65, 06-08-93, Düsseldorf, B Mönchengladbach
+17, Nicolai Boilesen, DEN, D, 1.85, 75, 16-02-92, Ballerup, Brøndby
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, NEC Nijmegen
+21, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, Sparta Rotterdam
+22, Jaïro Riedewald, NED, D, 1.86, 77, 09-09-96, Amsterdam, None
+23, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, None
+24, André Onana, CMR, G, 1.90, 82, 02-04-96, Nkol Ngok, Barcelona
+25, Thulani Serero, RSA, M, 1.70, 68, 11-04-90, Soweto, Ajax Cape Town
+26, Nick Viergever, NED, D, 1.82, 72, 03-08-89, Capelle aan den IJssel, AZ Alkmaar
+27, Nemanja Gudelj, SRB, M, 1.77, 73, 16-11-91, Belgrade, AZ Alkmaar
+29, Sam Hendriks, NED, F, 1.80, 70, 25-01-95, Doetinchem, De Graafschap
+30, Donny van de Beek, NED, M, 1.87, 73, 18-04-97, Nijkerkerveen, None
+31, Robert Murić, CRO, F, 1.82, 75, 12-03-96, Varaždin, Dinamo Zagreb
+32, Václav Černý, CZE, F, 1.78, 70, 17-10-97, Příbram, Příbram
+33, Diederik Boer, NED, G, 1.94, 84, 24-09-80, Emmeloord, PEC Zwolle
+35, Mitchell Dijks, NED, D, 1.93, 90, 09-02-93, Purmerend, Willem II
+40, Damian van Bruggen, NED, D, 1.84, 78, 18-03-96, Utrecht, Almere C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Lucas Andersen, DEN, M, 1.85, 72, 13-09-94, Aalborg, Willem II (On Loan)
+5, John Heitinga, NED, D, 1.80, 72, 15-11-83, Alphen aan den Rijn, Retired
+19, Yaya Sanogo, FRA, F, 1.91, 74, 27-01-93, Massy, Arsenal

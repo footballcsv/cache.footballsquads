@@ -1,0 +1,76 @@
+=  Tavriya Simferopol - Ukrainian Premier League 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Damir Kahriman, SRB, G, 1.91, 83, 19-11-84, Belgrade, Javor Ivanjica
+2, Leandro Messias, BRA, D, 1.82, 76, 29-12-83, Rio de Janeiro, Zakarpattya Uzhhorod
+3, Piotr Klepczarek I, POL, M, 1.80, 72, 13-08-82, Łódź, Jagiellonia Białystok
+4, Andriy Donets, UKR, D, 1.88, 78, 03-01-81, Volochisk, Zakarpattya Uzhgorod
+5, Slobodan Marković, SRB, M, 1.84, 78, 09-11-78, Zagreb, Vojvodina
+6, Saša Djuričić, BIH, D, 1.81, 80, 01-08-79, Sarajevo, Vorskla Poltava
+7, Ivan Graf, CRO, D, 1.93, 83, 17-06-87, Zagreb, Primorje
+8, Andriy Kornyev, UKR, M, 1.80, 74, 01-11-78, Kiev, Chernomorets Odessa
+9, Stanislav Prychynenko, UKR, M, 1.79, 61, 26-06-91, Simferopol, Shakhtar Donetsk-2
+10, Isi Lucky Idahor, NGR, F, 1.90, 82, 30-08-80, Benin City, Karpaty Lviv
+11, Anton Monakhov, UKR, D, 1.94, 83, 31-01-82, Zaporozhye, Naftovyk-Ukrnafta
+12, Dmytro Stoyko, UKR, G, 1.92, 90, 03-02-75, Oleksandria, FC Kharkiv
+14, Volodymyr Korobka, UKR, M, 1.84, 73, 22-07-89, Dnipropetrovsk, Dnipro-2
+15, Yevhen Lutsenko, UKR, M, 1.72, 66, 10-11-80, Kiev, Chornomorets Odessa
+16, Ayodeji Brown, NGA, D, 1.82, 73, 12-09-88, Zaria, Gateway
+17, Anton Shynder, UKR, F, 1.90, 88, 13-06-87, Sumy, Jahn Regensburg
+18, Ivan Matyazh, UKR, M, 1.88, 80, 15-02-88, Donetsk, Olimpik Donetsk
+19, Ilya Haliuza, UKR, M, 1.76, 72, 16-11-79, Arkhangelsk, Šiauliai
+20, Vasil Gigiadze, GEO, F, 1.83, 77, 03-06-77, Batumi, Naftovyk-Ukrnafta
+21, Vitaliy Postranskyy, UKR, G, 1.90, 87, 02-08-77, Ivano-Frankivsk, Simurq
+22, Željko Ljubenović, SRB, M, 1.83, 77, 09-07-81, Belgrade, Kryvbas Kryvyi Rih
+23, Matija Špičić, CRO, M, 1.73, 75, 24-02-88, Zagreb, Zagreb
+24, Ruslan Platon, UKR, F, 1.82, 75, 12-01-82, Storozhynets, FC Kharkiv
+25, Volodymyr Melnychenko, UKR, G, 1.86, 82, 11-02-90, , Tavriya-2
+27, Oleksandr Artemenko, UKR, M, 1.81, 78, 19-01-87, Simferopol, Tavriya-2
+28, Maksym Feshchuk, UKR, F, 1.83, 74, 25-11-85, Brody, Karpaty Lviv
+29, Oleksandr Kablash, UKR, M, 1.84, 74, 05-09-89, Odessa, Ekranas
+30, Oleh Humenyuk, UKR, M, 1.78, 66, 03-05-83, Odessa, Bastion Illichivsk
+31, Serhiy Sitalo, UKR, G, 1.90, 87, 20-12-86, Kharkiv, Stal Alchevsk
+32, Arsentiy Pelyushenko, UKR, D, 1.85, 80, 02-11-90, , Obolon Kiev-2
+33, Petro Oparin, UKR, D, 1.84, 76, 13-05-91, Donetsk, Shakhtar Donetsk-2
+34, Maksym Prykhodnoy, UKR, F, 1.76, 70, 27-10-92, , Tavriya-2
+35, Ihor Solntsev, UKR, M, 1.86, 80, 08-10-89, Simferopol, Tavriya-2
+36, Ivan Marchenko, UKR, D, 1.73, 68, 11-05-90, , Tavriya-2
+37, Kyrylo Davydov, UKR, M, 1.77, 74, 06-11-88, Simferopol, Tavriya-2
+38, Denys Rozum, UKR, D, 1.94, 83, 16-11-90, , Tavriya-2
+39, Aleksandr Honcharenko, UKR, M, 1.83, 75, 04-03-92, , Tavriya-2
+40, Denys Isayev, UKR, M, 1.77, 72, 17-11-93, , Tavriya-2
+41, Andriy Demchevskyy, UKR, G, 1.91, 79, 08-02-90, , Tavriya-2
+42, Volodymyr Nechaev, UKR, M, 1.76, 72, 08-04-94, , Tavriya-2
+43, Ruslan Stepanyuk, UKR, F, 1.79, 70, 16-01-92, Nikopol, Tavriya-2
+45, Dmitriy Kharchenko, UKR, M, 1.75, 68, 12-05-89, , Tavriya-2
+47, Mykhaylo Barinov, UKR, D, 1.84, 77, 30-10-91, , Tavriya-2
+51, Kyrylo Smihunov, UKR, M, 1.87, 70, 13-10-92, , Tavriya-2
+53, Vladyslav Kobzistyy, UKR, D, 1.82, 74, 03-03-89, Kharkiv, Metalist Kharkiv-2
+55, Viktor Horbatko, UKR, M, 1.80, 70, 09-10-90, , Tavriya-2
+56, Serhiy Melnyk, UKR, F, 1.84, 75, 25-06-93, Simferopol, Tavriya-2
+57, Dmytro Matviyenko, UKR, D, 1.81, 71, 25-05-92, Saky, Tavriya-2
+69, Rollan Pohoreltsev, UKR, D, 1.88, 80, 16-07-90, Saky, Krymteplytsia Molodizhne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Maksym Startsev, UKR, G, 1.90, 80, 20-01-80, Kherson, Metalist Kharkiv
+43, Serhiy Reshotkin, UKR, M, 1.80, 72, 16-03-90, , 
+46, Maksym Lohvynenko, UKR, M, 1.74, 67, 07-02-91, , 
+25, Denys Sydorenko, UKR, G, 1.85, 75, 18-04-89, Kharkiv, Metalist Kharkiv
+9, Oleksandr Kovpak, UKR, F, 1.80, 69, 02-02-83, Smela, Arsenal Kiev
+27, Denys Holaydo, UKR, M, 1.69, 62, 03-06-84, Simferopol, Metalurh Donetsk
+1, Vasili Khamutovski, BLR, G, 1.93, 86, 30-08-78, Minsk, Amkar Perm
+3, Mikalay Kashevski, BLR, M, 1.87, 80, 05-10-80, Zaporozhye, 
+7, Anton Mukhovykov, UKR, M, 1.75, 68, 20-06-84, Dnipropetrovsk, Zakarpattya Uzhhorod
+38, Oleksiy Kurilov, UKR, D, 1.88, 80, 24-04-88, Kerch, Metalist Kharkiv
+31, Ihor Hryshyn, UKR, G, 1.92, 84, 21-02-89, , 
+39, Artem Proshenko, UKR, M, 1.72, 57, 01-06-90, , 
+42, Maksym Krupenin, UKR, D, 1.92, 82, 29-04-89, , 
+48, Oleksiy Prytulyak, UKR, M, 1.74, 73, 12-01-89, , 
+49, Hennadiy Yehorov, UKR, M, 1.71, 69, 04-02-89, , 
+50, Oleksiy Kunitsyn, UKR, D, 1.84, 88, 27-10-91, , 
+52, Mykola Mishchenko, UKR, M, 1.75, 70, 08-07-90, , 
+54, Dmytro Klimakov, UKR, D, 1.87, 75, 05-03-89, , 
+71, Mykhaylo Bovkun, UKR, D, 1.75, 67, 28-03-91, , 
+23, Sendley Sidney Bito, NED, F, 1.86, 80, 20-07-83, Willemstad, 

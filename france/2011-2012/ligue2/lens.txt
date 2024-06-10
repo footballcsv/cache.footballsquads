@@ -1,0 +1,37 @@
+=  Lens - French Ligue 2 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hamdi Kasraoui, TUN, G, 1.92, 87, 18-01-83, Sousse, Espérance
+2, Zakarya Bergdich, MAR, D, 1.78, 69, 07-01-89, Paris, Alfortville
+4, Franck Queudrue, FRA, D, 1.83, 77, 25-08-78, Paris, Birmingham C
+5, Alaeddine Yahia, TUN, D, 1.86, 81, 26-08-81, Courbevoie, Nice
+6, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Nancy
+7, Chaouki Ben Saada, TUN, F, 1.70, 65, 01-07-84, Bastia, Nice
+8, Pierre Ducasse, FRA, M, 1.79, 73, 07-05-87, Bordeaux, Bordeaux
+9, David Pollet, BEL, F, 1.88, 79, 12-08-88, Le Bassée, None
+10, Julien Toudic, FRA, F, 1.72, 68, 19-12-85, Caen, Caen
+11, Alexandre Cuvillier, FRA, M, 1.82, 69, 17-06-86, Cucq, Nancy
+14, Ali-Azouz Mathlouthi, FRA, F, 1.76, 74, 22-04-87, Saint-Denis, Strasbourg
+15, Bengadli-Fodé Koita, FRA, F, 1.86, 86, 21-10-90, Paris, Montpellier
+16, Mickaël Fabre, ALG, G, 1.80, 79, 15-07-84, Draguignan, Clermont
+18, William Remy, FRA, D, 1.84, 79, 04-04-91, Courbevoie, None
+19, Geoffrey Kondogbia, FRA, D, 1.83, 71, 25-04-93, Saint-Denis, Toulouse
+20, Jean-Eudes Maurice, HAI, F, 1.80, 73, 21-06-86, Alfortville, Paris St-Germain
+21, Marco Rosenfelder, FRA, M, 1.72, 64, 19-07-93, Ingwiller, Strasbourg
+22, Thorgan Hazard, BEL, M, 1.74, 69, 29-03-93, La Louvière, Tubize
+23, Alassane Touré, FRA, D, 1.83, 73, 09-02-89, Paris, Toulouse
+24, Ludovic Baal, FRA, D, 1.76, 72, 24-05-86, Paris, Le Mans
+26, Yohan Demont, FRA, D, 1.81, 73, 15-05-78, Valenciennes, Ajaccio
+27, Samba Sow, MLI, M, 1.85, 75, 29-04-89, Bamako, None
+29, Alexandre Coeff, FRA, M, 1.84, 67, 20-02-92, Brest, None
+30, Nicolas Caraux, FRA, G, 1.87, 79, 04-03-91, Versailles, None
+33, Nicolas Saint-Ruf, FRA, D, 1.87, 81, 24-10-92, Rouen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Darnel Situ, FRA, D, 1.87, 77, 18-03-92, Rouen, Swansea C
+11, Eduardo, BRA, F, 1.78, 67, 05-08-80, São João do Piauí, Ajaccio
+6, Gabriel Cichero, VEN, D, 1.84, 80, 25-04-84, Caracas, Caracas
+3, Serge Aurier, CIV, D, 1.75, 75, 24-12-92, Abidjan, Toulouse
+15, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Re-Registered (6)

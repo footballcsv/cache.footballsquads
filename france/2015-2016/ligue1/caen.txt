@@ -1,0 +1,39 @@
+=  Caen - French Ligue 1 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rémy Vercoutre, FRA, G, 1.85, 78, 26-06-80, Grande-Synthe, Lyon
+2, Nicolas Seube, FRA, M, 1.80, 72, 11-08-79, Toulouse, Toulouse
+4, Ismaël Diomande, CIV, M, 1.80, 75, 28-08-92, Abidjan, St-Etienne
+5, Alaeddine Yahia, TUN, D, 1.86, 81, 26-08-81, Courbevoie, Lens
+6, Jonathan Delaplace, FRA, M, 1.67, 60, 20-03-86, La Seyne-sur-Mer, Lille
+7, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, None
+8, Michaël Jordan N'Kololo, FRA, M, 1.83, 71, 09-11-92, Créteil, Clermont
+9, Andy Delort, FRA, F, 1.82, 82, 09-10-91, Sète, Wigan Ath
+10, Saïdi Ntibazonkiza, BDI, F, 1.70, 64, 01-05-87, Bujumbura, Akhisar Belediyespor
+11, Vincent Bessat, FRA, M, 1.78, 73, 08-11-85, Lyon, Nantes
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, Monaco
+13, Syam Ben Youssef, TUN, D, 1.89, 82, 31-03-89, Marseille, Astra Giurgiu
+14, Jeff Louis, HAI, M, 1.78, 70, 08-08-90, Port-au-Prince, Standard Liège
+15, Emmanuel Imorou, BEN, D, 1.81, 69, 16-09-88, Bourges, Clermont
+16, Louis Deschateaux, FRA, G, 1.84, 75, 16-04-97, Caen, None
+17, Jean-Victor Makengo, FRA, M, 1.76, 73, 12-06-98, Etampes, None
+18, Jordan Adéoti, BEN, M, 1.83, 77, 12-03-89, L'Union, Laval
+19, Jordan Leborgne, FRA, M, 1.73, 63, 29-09-95, Pointe-à-Pitre, None
+20, Hervé Bazile, FRA, F, 1.80, 73, 18-03-90, Créteil, Le Poiré-sur-Vie
+21, Chaker Alhadhur, COM, D, 1.71, 56, 04-12-91, Nantes, Nantes
+22, Alexandre Raineau, FRA, D, 1.78, 71, 21-06-86, Paris, None
+23, Ronny Rodelin, FRA, F, 1.92, 70, 18-11-89, Saint-Denis de La Réunion, Lille
+24, Christian Kouakou, CIV, F, 1.82, 79, 01-03-91, Abidjan, Tours
+25, Julien Féret, FRA, M, 1.87, 74, 05-07-82, Saint Brieuc, Rennes
+26, Jonathan Beaulieu, FRA, M, 1.80, 65, 11-03-93, Meudon, None
+28, Damien Da Silva, FRA, D, 1.84, 77, 17-05-88, Talence, Clermont
+29, Florian Le Joncour, FRA, D, 1.93, 82, 03-02-95, Quimper, Concarneau
+30, Paul Reulet, FRA, G, 1.81, 64, 14-01-94, Caen, None
+33, Valentin Voisin, FRA, M, 1.81, 73, 19-06-96, Cherbourg, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Mathieu Duhamel, FRA, F, 1.83, 76, 12-07-84, Mont-Saint-Aignan, Le Havre
+10, Lenny Nangis, FRA, F, 1.73, 65, 24-03-94, Caen, Lille
+24, Florian Raspentino, FRA, F, 1.79, 73, 06-06-89, Marignane, Bastia

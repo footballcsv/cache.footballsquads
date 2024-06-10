@@ -1,0 +1,48 @@
+=  Flamengo - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+4, Juan, BRA, D, 1.82, 78, 01-02-79, Rio de Janeiro, Internacional
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Botafogo
+6, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, None
+7, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, Atlético Paranaense
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Palmeiras
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Corinthians
+10, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Lazio
+11, Emerson, BRA, F, 1.71, 69, 06-12-78, Nova Iguaçu, Corinthians
+15, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Internacional
+17, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Bahia
+18, Leandro Damião, BRA, F, 1.88, 81, 22-07-89, Jardim Alegre, Santos
+19, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, Shakhtar Donetsk
+21, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Grêmio
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, UANL Tigres
+23, Federico Mancuello, ARG, M, 1.77, 75, 26-03-89, Reconquista, Independiente
+25, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, Rosario Central
+26, Gustavo Cuéllar, COL, M, 1.77, 76, 14-10-92, Barranquilla, Deportivo Cali
+30, Chiquinho, BRA, D, 1.70, 70, 27-01-89, Caxias, Santos
+31, Fernandinho, BRA, F, 1.71, 66, 25-11-85, São Paulo, Grêmio
+33, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Vasco da Gama
+35, Diego, BRA, M, 1.74, 76, 28-02-85, Ribeirão Preto, Fenerbahçe
+36, Igor, BRA, D, 1.83, 80, 27-07-96, Pelotas, Joinville
+37, Adryan, BRA, M, 1.69, 64, 08-10-94, Rio de Janeiro, None
+38, Alex Muralha, BRA, G, 1.86, 89, 10-11-89, Três Corações, Figueirense
+39, Lucas Paquetá, BRA, M, 1.80, 72, 27-08-97, Rio de Janeiro, None
+40, Thiago Santos, BRA, F, 1.78, 70, 12-04-95, Mari, Duque de Caxias
+41, Ronaldo, BRA, M, 1.75, 69, 23-10-96, Sorocaba, Paulista
+42, Lucas Mugni, ARG, M, 1.81, 76, 12-01-92, Santa Fe, Colón (Santa Fe)
+43, Léo Duarte, BRA, D, 1.83, 76, 17-07-96, Mococa, None
+44, Thiago, BRA, G, 1.85, 77, 12-06-96, Rio de Janeiro, None
+46, Thiago Ennes, BRA, D, 1.78, 75, 05-03-96, Magé, Fluminense
+47, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Belo Horizonte, None
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Grêmio
+28, Arthur Henrique, BRA, D, 1.76, 68, 17-05-94, São Paulo, América de Natal
+3, César, BRA, D, 1.90, 78, 28-12-92, Mairinque, Benfica
+29, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, América Mineiro (On Loan)
+20, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, Vélez Sarsfield (On Loan)
+45, Daniel, BRA, G, 1.88, 80, 19-04-95, Rio de Janeiro, Maccabi Tel Aviv (On Loan)
+34, Rafael Dumas, BRA, D, 1.84, 80, 13-03-95, Rio de Janeiro, FC Goa (On Loan)

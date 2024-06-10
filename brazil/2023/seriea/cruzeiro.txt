@@ -1,0 +1,55 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael Cabral, BRA, G, 1.86, 83, 20-05-90, Sorocaba, Reading
+2, Wesley, BRA, D, 1.77, 66, 13-03-00, Retirolândia, Juventus
+3, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Ankaragücü
+4, Luciano Castán, BRA, D, 1.87, 80, 13-09-89, São Paulo, Guarani
+6, Lucas Oliveira, BRA, D, 1.87, 83, 02-02-96, Rio de Janeiro, Atlético Goianiense
+7, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Corinthians
+9, Bruno Rodrigues, BRA, F, 1.77, 73, 07-03-97, Ceará-Mirim, Tombense
+10, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, São Paulo
+11, Wesley, BRA, F, 1.75, 64, 30-03-99, Salvador, Palmeiras
+12, William, BRA, D, 1.76, 68, 03-04-95, Pelotas, Wolfsburg
+14, Kaiki, BRA, D, 1.72, 69, 08-03-03, Betim, None
+15, Fernando Henrique, BRA, M, 1.78, 74, 01-06-01, São José de Mipibú, Grêmio
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Grêmio
+17, Ramiro, BRA, M, 1.68, 67, 22-05-93, Gramado, Corinthians
+18, Matheus Jussa, BRA, M, 1.83, 83, 22-03-96, São Paulo, Fortaleza
+19, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Sporting CP
+20, Ian Luccas, BRA, M, 1.84, 73, 11-02-03, Ribeirão Preto, Ferroviária
+21, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Al-Wasl
+22, Stênio, BRA, F, 1.80, 72, 05-04-03, Poços de Caldas, None
+23, Filipe Machado, BRA, M, 1.74, 61, 20-01-96, Santa Maria, Grêmio
+24, Helibelton Palacios, COL, D, 1.77, 75, 11-06-93, Santander de Quilichao, Elche
+25, Henrique Cardoso, BRA, M, -, -, 22-02-03, -, None
+26, Luis Fernando, BRA, F, -, -, 12-04-05, -, Água Santa
+27, Neris, BRA, D, 1.90, 88, 17-06-92, Tucuruí, Al-Wasl
+30, Paulo Vitor, BRA, F, 1.74, 66, 24-06-99, Rio de Janeiro, Valladolid B
+31, Rafael Bilu, BRA, F, 1.74, 72, 21-04-99, São Paulo, Criciúma
+35, Pedrão, BRA, D, 1.90, 88, 06-01-04, Barra Mansa, None
+39, Ruan Índio, BRA, F, -, -, 10-08-06, -, None
+40, Rafael Papagaio, BRA, F, 1.82, 80, 12-04-99, São Paulo, Palmeiras
+43, João Marcelo, BRA, D, 1.89, 82, 13-06-00, Rio de Janeiro, FC Porto
+55, João Pedro, BRA, F, 1.78, 70, 02-02-03, Paracambi, Valladolid B
+77, Japa, BRA, M, -, -, 02-01-04, -, None
+80, Robert, BRA, F, 1.74, 70, 13-04-05, Pirapora, None
+91, Gabriel Mesquita, BRA, G, 1.97, 97, 14-09-98, Maceió, Guarani
+96, Matheus Pereira, BRA, F, 1.75, 67, 05-05-96, Belo Horizonte, Al-Hilal [KSA]
+98, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, Athletico Paranaense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Rodrigo Bazilio, BRA, G, 1.90, 78, 06-03-03, Barra do Garças, Athletic-MG (On Loan)
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Ceará
+88, Matheus Davó, BRA, F, 1.78, 68, 16-08-99, São Paulo, Pafos (On Loan)
+33, Igor Formiga, BRA, D, 1.77, 77, 08-01-99, Rio de Janeiro, Portimonense
+16, Kaiki, BRA, D, 1.72, 69, 08-03-03, Betim, Re-Registered (14)
+70, Juan Christian, BRA, F, 1.77, 73, 10-03-01, São Bernardo do Campo, Azuriz
+8, Neto Moura, BRA, M, 1.77, 70, 06-08-96, Atalaia, Mirassol (On Loan)
+29, Reynaldo Cesar, BRA, D, 1.86, 81, 03-01-97, Catanduva, Coritiba
+30, Arielson, BRA, F, 1.80, 73, 05-09-04, Porto Velho, Polissya Zhytomyr (On Loan)
+99, Henrique Dourado, BRA, F, 1.86, 79, 15-09-89, Guarulhos, Chapecoense
+5, Wallisson, BRA, M, 1.84, 73, 23-09-97, Central de Minas, Moreirense
+48, Daniel Júnior, BRA, M, 1.77, 73, 09-05-02, Santo André, Akhmat Grozny (On Loan)

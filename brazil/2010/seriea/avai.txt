@@ -1,0 +1,56 @@
+=  Avaí - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Aleks, BRA, G, 1.93, 86, 20-02-91, Criciúma, None
+, Renan, BRA, G, 1.92, 83, 12-12-90, São João Batista, Criciúma
+, Zé Carlos, BRA, G, 1.84, 76, 09-09-85, Criciúma, Criciúma
+, Cleyton, BRA, D, 1.87, 84, 12-04-89, Canta Galo, None
+, Eltinho, BRA, D, 1.71, 66, 07-07-87, Guaira, Internacional
+, Émerson Nunes, BRA, D, 1.79, 76, 21-03-82, Belo Horizonte, Botafogo
+, Emerson Silva, BRA, D, 1.86, 83, 03-05-83, Taguatinga, Sertãozinho
+, Gabriel, BRA, D, 1.93, 96, 30-06-87, Camaçari, Desportivo Brasil
+, Léo Campos, BRA, D, 1.84, 80, 03-07-92, Antônio Carlos, None
+, Leonardo, BRA, D, 1.85, 82, 22-07-82, São Paulo, Montedio Yamagata
+, Marcos, BRA, D, 1.76, 70, 24-07-89, Souto Soares, Cruzeiro
+, Pará, BRA, D, 1.72, 73, 19-09-87, Rio Maria, Capivariano
+, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Benfica
+, Rafael, BRA, D, 1.82, 78, 08-07-86, Porto Alegre, Juventude
+, Batista, BRA, M, 1.73, 77, 12-07-79, Anguera, Paraná
+, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Villa Nova
+, Caio, BRA, M, 1.67, 62, 10-11-80, Nova Odessa, Bahia
+, Davi, BRA, M, 1.75, 72, 06-04-84, Rio Grande do Sul, Bragantino
+, Dinélson, BRA, M, 1.66, 65, 04-02-86, Anagé, Coritiba
+, Diogo Orlando, BRA, M, 1.79, 77, 04-12-83, Rio de Janeiro, Mirassol
+, Hégon, BRA, M, 1.74, 64, 06-05-88, Palhoça, União São João
+, Jéferson, BRA, M, 1.80, 76, 15-07-84, Brasília, Vasco da Gama
+, Leandro Bonfim, BRA, M, 1.73, 70, 08-01-84, Salvador, Bahia
+, Marcinho Guerreiro, BRA, M, 1.78, 70, 23-09-80, Novo Horizonte, Murcia
+, Matheus, BRA, M, 1.74, 77, 31-05-89, São Paulo, Guarani
+, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Santos
+, Rodrigo Thiesen, BRA, M, 1.80, 79, 01-12-86, Palhoça, CFZ Imbituba
+, Rudnei, BRA, M, 1.88, 78, 07-10-84, Florianópolis, Grêmio
+, Sandro, BRA, M, 1.77, 74, 01-10-83, Fortaleza, Coritiba
+, Válber, BRA, M, 1.74, 71, 22-09-81, São Luis, Atlético Paranaense
+, Charles, BRA, F, , , 15-09-87, Belo Horizonte, América-AM
+, Cristian, BRA, F, 1.75, 69, 07-08-90, Araranguá, Atlético Paranaense
+, Danielzinho, BRA, F, 1.78, 68, 21-02-88, São Paulo, São Bernardo
+, Laércio Carreirinha, BRA, F, 1.70, 67, 03-03-90, Caiabú, None
+, Marcelinho, BRA, F, 1.69, 61, 09-01-87, Santa Cruz do Sul, São Caetano
+, Rafael Costa, BRA, F, 1.78, 70, 23-08-87, São Luís, Força
+, Roberto, BRA, F, 1.76, 66, 19-12-85, Veranópolis, Cabofriense
+, Vandinho, BRA, F, 1.78, 76, 24-08-86, Londrina, Desportivo Brasil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Gustavo Santos, BRA, D, 1.73, 74, 26-01-87, Biguaçu, São José (On Loan)
+, Jandson, BRA, F, 1.90, 89, 16-09-86, Maruim, América Mineiro
+, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Grêmio
+, Paes, BRA, G, 1.89, 87, 11-12-82, Rio de Janeiro, Beira-Mar
+, Fredson, BRA, M, 1.82, 80, 22-02-81, Monção, 
+, Roberto, BRA, M, 1.76, 77, 24-04-88, Tucano, Grêmio Prudente
+, Rivaldo, BRA, M, 1.80, 75, 25-08-85, Salgadinho, Desportivo Brasil
+, Anselmo Ramon, BRA, F, 1.82, 79, 23-06-88, Camacari, Cruzeiro
+, Leonardo, BRA, F, 1.85, 77, 26-10-82, Nova Lima, Coritiba (On Loan)
+, Sávio, BRA, F, 1.76, 70, 09-01-74, Vila Velha, 
+, Medina, BRA, D, 1.71, 68, 23-04-90, Jaraguá do Sul, ASA (On Loan)

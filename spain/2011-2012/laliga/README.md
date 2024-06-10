@@ -1,0 +1,23 @@
+# Spanish La Liga 2011/12
+
+20 teams
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Granada](granada.txt)
+- [Levante](levante.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Osasuna](osasuna.txt)
+- [Racing Santander](racing.txt)
+- [Rayo Vallecano](rayo.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)
+- [Zaragoza](zaragoza.txt)

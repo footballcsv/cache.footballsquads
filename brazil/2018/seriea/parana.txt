@@ -1,0 +1,58 @@
+=  Paraná - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, David, BRA, G, 1.91, 81, 16-06-95, Itapiranga, Inter de Lages
+, Luís Carlos, BRA, G, 1.91, 79, 28-07-87, Curitiba, Vila Nova
+, Murillo Lopes, BRA, G, 1.89, 75, 06-05-00, , None
+, Richard, BRA, G, 1.86, 83, 01-03-91, São Paulo, Água Santa
+, Thiago Rodrigues, BRA, G, 1.90, 80, 20-10-88, São Paulo, Figueirense
+, Charles, BRA, D, 1.88, 78, 26-04-88, Blumenau, Joinville
+, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Santos
+, Igor, BRA, D, 1.82, 80, 01-05-93, Barbalha, ASA
+, Juninho, BRA, D, 1.77, 74, 29-07-95, Aracaju, Itabaiana
+, Júnior, BRA, D, 1.81, 79, 21-01-92, Pão de Açúcar, ASA
+, Kennidy, BRA, D, 1.69, 68, 09-09-99, , None
+, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Atlético Mineiro
+, Paulo Fales, BRA, D, 1.87, 81, 08-09-99, , None
+, Rayan, BRA, D, 1.85, 79, 21-12-89, Linhares, São Bernardo
+, Renê Santos, BRA, D, 1.84, 74, 21-04-92, Salvador, Atlético Goianiense
+, Vitinho, BRA, D, 1.80, 72, 15-09-01, , None
+, Alesson, BRA, M, 1.73, 68, 16-02-99, Guarulhos, Cruzeiro
+, Alex Santana, BRA, M, 1.82, 75, 13-05-95, Itatibaia, Internacional
+, Caio, BRA, M, 1.77, 70, 31-07-97, Santos, Atlético Madrid
+, Gabriel Pires, BRA, M, 1.74, 72, 22-05-99, Curitiba, None
+, Guilherme Biteco, BRA, M, 1.73, 67, 12-03-94, Porto Alegre, 1899 Hoffenheim
+, Jean Lucas, BRA, M, 1.74, 69, 21-03-95, Curitiba, Prudentópolis
+, Jorge González, PAR, M, 1.75, 73, 25-03-88, Presidente Franco, Cerro Porteño
+, Jhony, BRA, M, 1.78, 84, 19-02-97, Arapongas, None
+, Johnny Lucas, BRA, M, 1.70, 65, 21-02-00, Curitiba, None
+, Leandro Vilela, BRA, M, 1.77, 76, 29-06-95, Curitiba, None
+, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, São Paulo
+, Nadson, BRA, M, 1.70, 63, 22-07-89, Lauro de Freitas, Chapecoense
+, Raphael Alemão, BRA, M, 1.77, 71, 08-08-96, Foz do Iguaçu, Foz do Iguaçu
+, Wesley, BRA, M, 1.78, 68, 22-06-95, Cosmópolis, Estoril
+, Andrey, BRA, F, 1.82, 73, 26-06-00, , None
+, Carlos, BRA, F, 1.72, 66, 15-08-95, Santa Luz, Atlético Mineiro
+, Deivid, BRA, F, 1.78, 73, 23-02-88, Diadema, Red Bull Brasil
+, Felipe Augusto, BRA, F, 1.83, 77, 06-03-92, Governador Valadares, Botafogo-SP
+, Matheus Iacovelli, BRA, F, 1.80, 79, 13-03-98, Rio de Janeiro, Estoril
+, Rafael Grampola, BRA, F, 1.84, 80, 09-04-87, Nova Granada, Joinville
+, Rodrigo Carioca, BRA, F, 1.79, 64, 21-06-99, , None
+, Silvinho, BRA, F, 1.75, 72, 01-07-90, Guajará Mirim, Penapolense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Minho, BRA, F, 1.78, 62, 15-12-91, Salvador, Fortaleza (On Loan)
+, Vitor Feijão, BRA, F, 1.69, 76, 01-08-96, São Paulo, Criciúma (On Loan)
+, Neris, BRA, D, 1.90, 88, 17-06-92, Tucuruí, Barra
+, Matheus Pereira, BRA, M, 1.81, 68, 25-02-98, São Paulo, Juventus
+, Diego, BRA, F, 1.82, 79, 22-07-94, Guarujá, Internacional
+, Alemão, BRA, D, 1.74, 66, 20-05-90, Taboão da Serra, Pohang Steelers (On Loan)
+, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Coritiba
+, Léo Itaperuna, BRA, F, 1.73, 71, 12-04-89, Rio de Janeiro, Vila Nova
+, Jesiel, BRA, D, 1.86, 79, 05-03-94, Cândido Mota, Atlético Mineiro
+, Thiago Santos, BRA, F, 1.84, 82, 02-08-90, Aracaju, Atlético Goianiense
+, Zezinho, BRA, M, 1.74, 70, 14-03-92, Uruguaiana, São Bento (On Loan)
+, Luan Viana, BRA, F, 1.84, 79, 14-01-96, São Paulo, Grêmio
+, Marcelo Báez, PAR, D, 1.78, 76, 14-01-91, Ciudad del Este, 

@@ -1,0 +1,40 @@
+=  Roda JC - Dutch Eredivisie 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bram Castro, BEL, G, 1.90, 80, 30-09-82, Hasselt, Sint-Truiden
+2, Davy De Fauw, BEL, D, 1.85, 65, 08-07-81, Gent, Sparta Rotterdam
+3, Eric Addo, GHA, D, 1.82, 68, 12-11-78, Accra, PSV Eindhoven
+4, Pa-Modou Kah, NOR, D, 1.83, 80, 30-07-80, Banjul, AIK
+5, Vincent Lachambre, BEL, D, 1.77, 71, 06-11-80, Brussels, RC Harelbeke
+6, Ruud Vormer, NED, M, 1.76, 76, 11-05-88, Hoorn, AZ Alkmaar
+7, Sebastian Svärd, DEN, M, 1.85, 77, 15-01-83, Hvidovre, B Mönchengladbach
+8, Willem Janssen, NED, M, 1.86, 75, 04-07-86, Nijmegen, VVV Venlo
+9, Mads Junker, DEN, F, 1.86, 74, 21-04-81, Copenhagen, Vitesse
+10, Anouar Hadouir, NED, F, 1.70, 68, 14-09-82, Den Bosch, Willem II
+11, Morten Skoubo, DEN, F, 1.90, 81, 30-06-80, Holstebro, FC Utrecht
+12, Kris De Wree, BEL, M, 1.84, 74, 21-05-81, Sint-Gillis-Waas, Germinal Beerschot
+14, Rihairo Meulens, NED, F, 1.85, 78, 03-06-88, Apeldoorn, Vitesse
+15, Arnold Kruiswijk, NED, D, 1.82, 73, 02-11-84, Groningen, Anderlecht
+16, Jamaïque Vandamme, BEL, F, 1.83, 79, 01-08-85, Oostende, KSV Roeselare
+17, Marcel de Jong, CAN, F, 1.74, 73, 15-10-86, New Market, Helmond Sport
+18, Arnaud Djoum, CMR, M, 1.83, 78, 02-05-89, Yaoundé, Anderlecht
+20, Jan-Paul Saeijs, NED, D, 1.90, 81, 20-06-78, Den Haag, ADO Den Haag
+21, Kjell Knops, NED, D, 1.84, 75, 21-08-87, Wijlre, None
+22, Przemysław Tytoń, POL, G, 1.95, 80, 04-01-87, Zamość, Górnik Łęczna
+23, Adnan Šećerović, BIH, M, 1.80, 74, 01-12-91, Živinice, Slaven Živinice
+24, Aleksandar Stankov, MKD, F, 1.83, 82, 19-02-91, Štip, SVC 2000
+25, Guus Hupperts, NED, F, 1.84, 79, 25-04-92, Heerlen, None
+26, Laurent Delorge, BEL, F, 1.79, 77, 21-09-79, Leuven, Ajax
+27, Boldizsár Bödör, HUN, M, 1.81, 76, 27-04-82, Pécs, Germinal Beerschot
+28, Kenneth Staelens, BEL, M, 1.83, 79, 03-05-91, Heusden-Zolder, KRC Genk
+29, Collin van Eijk, NED, G, 1.91, 83, 29-08-91, Heerlen, NEC'92
+30, Cliff Mardulier, BEL, G, 1.83, 89, 22-09-82, Edegem, Schoten
+31, Yani Urdinov, MKD, D, 1.74, 76, 18-03-91, Mechelen, PSV Eindhoven
+34, Jeanvion Yulu-Matondo, BEL, F, 1.78, 71, 05-01-86, Kinshasa, Club Brugge
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Dieter Van Tornhout, BEL, F, 1.90, 86, 18-03-85, Gent, EN Paralimni
+7, Edwin Linssen, NED, M, 1.79, 68, 28-08-80, Neeritter, Fortuna Sittard (On Loan)
+24, Harrie Gommans, NED, F, 1.80, 77, 20-02-83, Roermond, Fortuna Sittard (On Loan)

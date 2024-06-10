@@ -1,0 +1,53 @@
+=  São Paulo - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jean, BRA, G, 1.87, 86, 26-10-95, Salvador, Bahia
+2, Igor Vinícius, BRA, D, 1.74, 70, 01-04-97, Sinop, Ituano
+3, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, Figueirense
+4, Anderson Martins, BRA, D, 1.83, 78, 21-08-87, Fortaleza, Vasco da Gama
+5, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+7, Alexandre Pato, BRA, F, 1.79, 71, 02-09-89, Pato Branco, Tianjin Tianhai
+8, Jucilei, BRA, M, 1.85, 76, 06-04-88, São Gonçalo, Shandong Luneng
+9, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, Atlético Paranaense
+10, Dani Alves, BRA, D, 1.72, 68, 06-05-83, Juazeiro, Paris St-Germain
+11, Helinho, BRA, M, 1.75, 66, 25-04-00, Sertãozinho, None
+12, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Santos
+13, Luan, BRA, M, 1.75, 81, 14-05-99, São Paulo, None
+14, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, None
+15, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, Hebei China Fortune
+16, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, Fluminense
+19, Marcos Calazans, BRA, F, 1.72, 66, 14-06-96, Duque de Caxias, Fluminense
+20, Juanfran, ESP, D, 1.80, 71, 09-01-85, Crevillent, Atlético Madrid
+21, Raniel, BRA, F, 1.81, 76, 11-06-96, Recife, Cruzeiro
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, Flamengo
+23, Tiago Volpi, BRA, G, 1.89, 84, 19-12-90, Blumenau, Querétaro
+25, Hudson, BRA, M, 1.79, 68, 30-01-88, Juiz de Fora, Botafogo-SP
+26, Igor Gomes, BRA, M, 1.82, 73, 17-03-99, São José do Rio Preto, None
+27, Diego Costa, BRA, D, 1.84, 73, 21-07-99, Campo Grande, None
+28, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, Dynamo Kyiv
+30, Rodrigo Nestor, BRA, M, 1.75, 67, 09-08-00, São Paulo, None
+35, Diego, BRA, D, 1.84, 73, 21-07-99, Campo Grande, None
+38, Fabinho, BRA, F, 1.80, 75, 18-11-99, São José dos Campos, None
+39, Antony, BRA, F, 1.72, 63, 24-02-00, Osasco, None
+40, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, None
+41, Júnior, BRA, G, 1.89, 84, 10-08-98, Patos de Minas, None
+42, Gabriel Sara, BRA, M, 1.78, 68, 26-06-99, Joinville, None
+43, Walce, BRA, D, 1.88, 80, 02-02-99, Cuiabá, None
+44, Jonas Toró, BRA, F, 1.77, 74, 30-05-99, Belém de São Francisco, Primavera
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Brenner, BRA, F, 1.75, 70, 16-01-00, Cuiabá, Fluminense (On Loan)
+27, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, CSA (On Loan)
+34, Rodrigo, BRA, D, 1.89, 74, 17-06-98, Salvador, Portimonense (On Loan)
+40, Lucas Paes, BRA, G, 1.93, 86, 07-12-97, São Bernardo do Campo, Louletano (On Loan)
+21, Biro Biro, BRA, F, 1.69, 60, 22-11-94, Rio de Janeiro, Nova Iguaçu
+10, Nenê, BRA, M, 1.81, 72, 19-07-81, Jundiaí, Fluminense
+29, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, Portimonense
+18, Everton Felipe, BRA, M, 1.76, 71, 28-07-97, Limoeiro, Athletico Paranaense (On Loan)
+38, Morato, BRA, D, 1.90, 86, 30-06-01, Francisco Morato, Benfica
+32, Lucas Kal, BRA, D, 1.85, 78, 16-03-96, São Paulo, América Mineiro (On Loan)
+17, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Sport Recife
+20, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Roma

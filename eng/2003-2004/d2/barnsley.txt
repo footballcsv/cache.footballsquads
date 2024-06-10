@@ -1,0 +1,59 @@
+=  Barnsley - English Football League Division Two 2003/04
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marlon Beresford, G, 6'01", 13 08, 02-06-69, Lincoln, Luton T
+2, Neil Austin, D, 5'10", 11 00, 26-04-83, Barnsley, None
+3, Tony Gallimore, D, 5'11", 13 00, 21-02-72, Crewe, Grimsby T
+4, Peter Handyside, D, 6'01", 13 03, 31-07-74, Dumfries, Stoke C
+5, Lee Crooks, D, 6'01", 12 09, 14-01-78, Wakefield, Manchester C
+6, Steve Hayward, M, 5'11", 12 07, 08-09-71, Walsall, Fulham
+7, Jacob Burns, M, 5'10", 11 11, 21-01-78, Sydney, Leeds U
+8, Chris Lumsdon, M, 5'11", 10 03, 15-12-79, Newcastle, Sunderland
+9, Mark Stallard, F, 6'00", 12 10, 24-10-74, Derby, Notts Co
+10, Kevin Betsy, M, 6'01", 11 12, 20-03-78, Seychelles, Fulham
+11, Michael Boulding, F, 5'10", 11 04, 08-02-76, Sheffield, Grimsby T
+12, Gary Birch, F, 6'00", 12 13, 08-10-81, Birmingham, Walsall
+13, Danny Alcock, G, 5'11", 11 03, 15-02-84, Staffordshire, Stoke C
+14, Garry Monk, D, 6'01", 13 05, 06-03-79, Bedford, Southampton
+15, Antony Kay, D, 5'11", 11 08, 21-10-82, Barnsley, None
+16, Alex Neil, M, 5'09", 11 02, 04-05-78, Bellshill, Airdrie
+17, Brian O'Callaghan, D, 6'01", 12 01, 24-02-81, Limerick, Pike Rovers
+18, Chris Shuker, F, 5'05", 09 03, 09-05-82, Liverpool, Manchester C
+20, Craig Ireland, D, 6'03", 13 09, 29-11-75, Dundee, Notts Co
+21, Tom Baker, M, 5'05", 09 00, 28-03-85, Salford, None
+22, David Murphy, D, 6'01'', 12 03, 01-06-84, Hartlepool, Middlesbrough
+23, Dale Tonge, M, 5'10'', 10 06, 07-05-85, Doncaster, None
+24, Ryan Laight, D, 6'00", 11 09, 16-11-85, Barnsley, None
+25, Robert Atkinson, D, 6'01", 12 00, 29-04-87, Beverley, None
+26, Ross Turnbull, G, 6'04", 13 05, 04-01-85, Bishop Auckland, Middlesbrough
+27, Nathan Jarman, F, 5'11", 11 05, 19-09-86, Scunthorpe, None
+28, Gavin Ward, G, 6'02", 13 06, 30-06-70, Sutton Coldfield, Coventry C
+29, Ashley Scothern, F, 6'00", 11 00, 11-09-84, Pontefract, None
+30, Adam Oldham, D, 6'01'', 11 07, 26-01-86, Sheffield, None
+31, Nicky Wroe, M, 5'11", 10 01, 28-09-85, Sheffield, None
+33, Dean Gorre, M, 5'08", 11 07, 10-09-70, Surinam, Huddersfield T
+34, Robbie Williams, D, 5'10", 11 13, 02-01-84, Pontefract, None
+35, Griff Jones, F, 5'08", 12 13, 22-06-84, Liverpool, None
+37, Scott Flinders, G, 6'04", 14 00, 12-06-86, Rotherham, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Kevin Dixon, M, 5'09", 12 03, 27-06-80, Easington, 
+23, Carl Barrowclough, M, 5'09", 09 11, 25-09-81, Doncaster, Leigh RMI
+7, David Mulligan, D, 5'08", 09 13, 24-03-82, Liverpool, Doncaster R
+14, Paul Gibbs, D, 5'10", 11 09, 26-10-72, Gorleston, Gravesend & Northfleet
+9, Rory Fallon, F, 6'02", 11 09, 20-03-82, Gisbourne, Swindon T
+25, Kevin Donovan, M, 5'08", 12 12, 17-12-71, Halifax, Rochdale
+36, Craig Parry, G, 5'11'', 12 04, 15-03-84, Barnsley, Halifax T
+1, Sasa Ilic, G, 6'04'', 14 00, 18-07-72, Melbourne, Sheffield U
+11, Steven Carson, M, 5'10", 12 00, 06-10-80, Ballymoney, Hartlepool U
+19, Paul Warhurst, D, 6'01", 12 01, 26-09-69, Stockport, Carlisle U
+22, Tony Caig, G, 6'01", 12 00, 11-04-74, Whitehaven, Newcastle U
+12, Jonathan Walters, F, 6'00", 12 06, 20-09-83, Birkenhead, Bolton W
+18, Gary Jones, M, 5'11", 11 07, 03-06-77, Birkenhead, Rochdale
+26, Darren Jack, F, 6'03", 13 03, 09-08-83, Norwich, Sligo R
+12, Arron Davies, M, 5'09'', 10 00, 22-06-84, Cardiff, Southampton
+21, Craig Rocastle, M, 6'01", 12 13, 17-08-81, Lewisham, Chelsea
+32, Isiah Rankin, F, 5'10", 11 00, 22-05-78, London, Grimsby T
+19, Daniel Nardiello, F, 5'11", 11 04, 22-10-82, Coventry, Manchester U

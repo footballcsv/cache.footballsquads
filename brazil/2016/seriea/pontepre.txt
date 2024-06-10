@@ -1,0 +1,46 @@
+=  Ponte Preta - Campeonato Brasileiro Série A 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Aranha, BRA, G, 1.91, 89, 17-11-80, Pouso Alegre, Joinville
+, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Flamengo
+, Ivan, BRA, G, 1.84, 64, 02-07-97, Rio das Pedras, None
+, João Carlos, BRA, G, 1.90, 92, 06-04-88, Paranavaí, Atlético Paranaense
+, Matheus Inácio, BRA, G, 1.91, 81, 27-04-92, Mairinque, Bragantino
+, Antonio Carlos, BRA, D, 1.91, 74, 07-03-93, Rio de Janeiro, Tombense
+, Breno Lopes, BRA, D, 1.81, 70, 28-09-90, Itacarambi, Cruzeiro
+, Douglas Grolli, BRA, D, 1.88, 79, 05-10-89, São Miguel do Oeste, Cruzeiro
+, Fábio Ferreira, BRA, D, 1.88, 82, 04-10-84, Campina Grande, Criciúma
+, Jeferson, BRA, D, 1.70, 60, 22-06-96, Campinas, None
+, Kadu, BRA, D, 1.90, 80, 20-07-86, Brasília, Grêmio
+, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Vitória
+, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, São Paulo
+, Tiago Alves, BRA, D, 1.86, 78, 29-05-84, Belo Horizonte, Palmeiras
+, Abuda, BRA, M, 1.76, 73, 22-01-89, Almerim, Gaziantepspor
+, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Internacional
+, João Guima, BRA, M, 1.77, 71, 11-12-96, Rancharia, Guarani
+, João Vitor, BRA, M, 1.76, 66, 01-06-88, Maceió, Deportivo Maldonado
+, Léo Cereja, BRA, M, 1.73, 70, 15-04-97, Ribeirão Preto, None
+, Matheus Jesus, BRA, M, 1.86, 81, 10-04-97, Salvador, None
+, Maycon, BRA, M, 1.75, 66, 15-07-97, São Paulo, Corinthians
+, Ravanelli, BRA, M, 1.81, 76, 29-08-97, Campinas, None
+, Thiago Galhardo, BRA, M, 1.82, 69, 20-07-89, São João del-Rei, Coritiba
+, Wendel, BRA, M, 1.84, 71, 08-04-82, Mariana, Goiás
+, William Pottker, BRA, M, 1.80, 78, 22-12-93, Foz do Iguaçu, Figueirense
+, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, Ituano
+, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Sport Recife
+, Rhayner, BRA, F, 1.79, 75, 05-09-90, Serra, Tombense
+, Roger, BRA, F, 1.84, 79, 07-01-85, Campinas, Red Bull Brasil
+, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Fluminense
+, Zé Roberto, BRA, F, 1.80, 71, 14-09-93, Teixeira de Freitas, Bahia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Jonas, BRA, M, 1.80, 79, 03-10-91, Teresina, Flamengo
+, Gilson, BRA, D, 1.78, 70, 14-05-86, Campo Grande, Cruzeiro
+, Wellington, BRA, D, 1.88, 83, 30-09-91, Bauru, Palmeiras
+, Felipe Menezes, BRA, M, 1.85, 76, 20-01-88, Goiânia, Palmeiras
+, Diogo, BRA, D, 1.73, 67, 13-02-93, São Paulo, Vitória (On Loan)
+, Cristian, BRA, M, 1.69, 65, 28-08-79, Uruguaiana, Paraná
+, Giva, BRA, F, 1.86, 74, 03-01-93, Cachoeira, Joinville (On Loan)
+, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Bahia (On Loan)

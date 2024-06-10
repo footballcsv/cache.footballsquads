@@ -1,0 +1,44 @@
+=  Caen - French Ligue 2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Erwin Zelazny, FRA, G, 1.86, 80, 22-09-91, Grande-Synthe, Troyes
+2, Steeve Yago, BFA, D, 1.78, 75, 16-12-92, Sarcelles, Toulouse
+3, Yoël Armougom, FRA, D, 1.73, 71, 05-06-98, Saint-Denis, None
+4, Elhadji Diaw, SEN, D, 1.93, 85, 31-12-94, Dakar, Angers
+6, Prince Oniangué, CGO, M, 1.90, 78, 04-11-88, Paris, Wolverhampton W
+7, Nicholas Gioacchini, USA, F, 1.83, 73, 25-07-00, Kansas City, Paris FC
+8, Jessy Deminguet, FRA, M, 1.78, 74, 07-01-98, Caen, None
+9, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, Dijon
+10, Jordan Tell, FRA, F, 1.85, 74, 10-06-97, Les Abymes, Rennes
+11, Santy Ngom, FRA, F, 1.81, 79, 07-03-93, Le Mans, Nantes
+14, Caleb Zady Sery, CIV, F, 1.76, 69, 20-12-99, Agbeille, Ajaccio
+15, Jan Repas, SVN, M, 1.71, 68, 19-03-97, Ljubljana, Domžale
+16, Thomas Callens, FRA, G, 1.82, 81, 06-09-98, Brest, None
+17, Anthony Gonçalves, FRA, M, 1.78, 82, 06-03-86, Chartres, Strasbourg
+18, Jonathan Rivierez, FRA, D, 1.81, 79, 18-05-89, Le Blanc-Mesnil, Metz
+19, Malik Tchokounté, FRA, F, 1.91, 90, 11-09-88, Nice, Paris FC
+20, Durel Avounou, CGO, M, 1.79, 71, 25-09-97, Brazzaville, None
+22, Adama Mbengue, SEN, D, 1.78, 68, 01-12-93, Rufisque, Diambars
+23, Herman Moussaki, FRA, F, 1.86, 75, 10-02-99, Brazzaville, None
+24, Hugo Vandermersch, FRA, D, 1.80, 72, 05-05-99, Blendecques, None
+25, Godson Kyeremeh, FRA, M, 1.75, 60, 14-06-00, Melun, None
+27, Azzeddine Toufiqui, FRA, M, 1.75, 69, 25-04-99, Caen, Paris St-Germain
+28, Anthony Weber, FRA, D, 1.90, 82, 11-06-87, Strasbourg, Brest
+29, Jessy Pi, FRA, M, 1.79, 72, 24-09-93, Manosque, Toulouse
+30, Rémy Riou, FRA, G, 1.91, 81, 06-08-87, Lyon, Charleroi
+32, Kélian Nsona, FRA, F, 1.89, 75, 11-05-02, Ivry-sur-Seine, Paris FC
+34, Timo Stavitski, FIN, F, 1.80, 78, 17-07-99, Kirkkonummi, Rovaniemi PS
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Getafe
+30, Brice Samba, CGO, G, 1.86, 79, 25-04-94, Linzolo, Nottingham F
+11, Casimir Ninga, CHA, F, 1.86, 81, 17-05-93, N'Djamena, Angers
+14, Jonathan Gradit, FRA, D, 1.80, 77, 24-11-92, Talence, Lens
+12, Jad Mouaddib, FRA, M, 1.71, 65, 05-04-99, Lens, Granville (On Loan)
+21, Brice Tutu, FRA, F, 1.95, 82, 11-01-98, Clichy, Bastia (On Loan)
+7, Arnold Issoko, CGO, D, 1.85, 75, 06-04-92, Kinshasa, Farense (On Loan)
+26, Younn Zahary, FRA, D, 1.90, 82, 08-10-98, Nantes, Pau (On Loan)
+5, Baïssama Sankoh, GUI, M, 1.80, 73, 20-03-92, Nogent-sur-Marne, Ascoli
+13, Evens Joseph, FRA, F, 1.77, 71, 16-07-99, Neuilly-sur-Marne, Boulogne (On Loan)

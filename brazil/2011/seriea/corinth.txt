@@ -1,0 +1,43 @@
+=  Corinthians - Campeonato Brasileiro Série A 2011
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Júlio César, BRA, G, 1.86, 78, 27-10-84, São Paulo, None
+2, Alessandro, BRA, D, 1.79, 77, 10-01-79, Assis Chateaubriand, Santos
+3, Chicão, BRA, D, 1.81, 81, 03-06-81, Mogi Guaçu, Figueirense
+4, Leandro Castán, BRA, D, 1.85, 78, 05-11-86, Jaú, Barueri
+5, Ralf, BRA, M, 1.80, 73, 09-06-84, São Paulo, Barueri
+6, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Grêmio
+7, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Coimbra
+8, Paulinho, BRA, M, 1.80, 71, 25-07-88, São Paulo, Coimbra
+9, Liédson, POR, F, 1.75, 63, 17-12-77, Cairú, Sporting CP
+10, Adriano, BRA, F, 1.89, 87, 17-02-82, Rio de Janeiro, Roma
+11, Emerson, BRA, F, 1.71, 69, 06-12-78, Nova Iguaçu, Fluminense
+12, Alex, BRA, M, 1.75, 71, 25-03-82, Cornélio Procópio, Spartak Moscow
+13, Paulo André, BRA, D, 1.88, 82, 20-08-83, Campinas, Le Mans
+14, Luis Ramírez, PER, M, 1.80, 77, 10-11-84, Lima, Universitario de Deportes
+15, Moradei, BRA, M, 1.75, 67, 08-02-86, São Luis do Paraitinga, Bragantino
+16, Denner, BRA, D, 1.80, 70, 21-11-93, Guarulhos, None
+17, Morais, BRA, M, 1.70, 64, 17-07-84, Maceió, Vasco da Gama
+18, Welder, BRA, D, 1.81, 70, 16-01-91, Franca, Paulista
+19, Elias, BRA, F, 1.74, 68, 22-05-92, São Paulo, None
+20, Danilo, BRA, M, 1.86, 84, 11-06-79, São Gotardo, Kashima Antlers
+21, Edenilson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Caxias
+22, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, None
+23, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Botafogo
+25, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Vitória
+26, Bruno Octávio, BRA, M, 1.80, 76, 02-08-85, São Caetano do Sul, None
+27, Nenê Bonilha, BRA, M, 1.75, 70, 17-02-92, São João da Boa Vista, Paulista
+28, Gauther, BRA, G, 1.92, , 24-01-92, Santa Bárbara d'Oeste, None
+29, Taubaté, BRA, F, 1.79, 75, 15-09-91, Taubaté, None
+30, Renan, BRA, G, 1.92, 83, 12-12-90, São João Batista, Avaí
+31, André Vinicius, BRA, D, 1.89, 78, 30-07-91, São Paulo, None
+32, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, None
+33, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Vasco da Gama
+34, Matheus, BRA, M, 1.70, 61, 21-02-93, Lins, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Edno, BRA, M, 1.82, 73, 31-05-83, Lages, Portuguesa (On Loan)
+29, Fran, BRA, M, , , 05-05-92, São Paulo, Americana (On Loan)
+32, Lucão, BRA, D, 1.91, 79, 22-07-92, Osasco, Corinthians B

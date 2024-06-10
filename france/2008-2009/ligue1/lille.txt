@@ -1,0 +1,39 @@
+=  Lille - French Ligue 1 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ludovic Butelle, FRA, G, 1.88, 84, 03-04-83, Reims, Valencia
+2, Mathieu Debuchy, FRA, D, 1.77, 74, 28-07-85, Fretin, None
+3, Jerry Vandam, GHA, D, 1.86, 77, 08-12-88, Lille, None
+4, Florent Balmont, FRA, M, 1.68, 71, 02-02-80, Sainte-Foy-les-Lyon, Nice
+5, Badis Lebbihi, FRA, M, 1.81, 80, 14-03-90, Nanterre, INF Clairefontaine
+6, Pierre-Alain Frau, FRA, F, 1.75, 73, 15-04-80, Montbéliard, Paris St-Germain
+7, Yohan Cabaye, FRA, M, 1.75, 72, 14-01-86, Tourcoing, None
+8, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, Atlético Paranaense
+10, Ludovic Obraniak, POL, M, 1.74, 72, 10-11-84, Longueville-lès-Metz, Metz
+11, Túlio De Melo, BRA, F, 1.93, 83, 31-01-85, Montes Claros, Palermo
+13, Nicolas Fauvergue, FRA, F, 1.93, 89, 13-10-84, Bethune, None
+14, Robert Vittek, SVK, F, 1.88, 84, 01-04-82, Bratislava, Nürnberg
+15, Emerson Da Conceição, BRA, D, 1.85, 83, 23-02-86, São Paulo, J. Malucelli
+16, Grégory Malicki, FRA, G, 1.88, 85, 20-11-73, Thiais, Rennes
+18, Franck Béria, FRA, D, 1.77, 75, 23-05-83, Argenteuil, Metz
+20, Grégory Tafforeau, FRA, D, 1.75, 71, 29-09-76, Bois-Guillaume, Caen
+21, Marko Marić, CRO, M, 1.89, 82, 25-04-83, Zagreb, Egaleo
+22, Aurélien Chedjou, CMR, M, 1.84, 84, 20-06-85, Douala, Rouen
+23, Adil Rami, FRA, D, 1.90, 90, 27-12-85, Bastia, Fréjus
+24, Rio Antonio Mavuba, FRA, M, 1.72, 70, 08-03-84, Born At Sea, Villarreal
+25, Nicolas Plestan, FRA, D, 1.84, 76, 02-06-81, Nice, Monaco
+26, Eden Hazard, BEL, M, 1.70, 69, 07-01-91, La Louvière, Tubize
+28, Emil Lyng, DEN, F, 1.87, 88, 03-08-89, Kolding, Aarhus
+29, Stéphane Dumont, FRA, M, 1.83, 80, 06-09-82, Seclin, None
+30, Alexandre Oukidja, FRA, G, 1.85, 78, 19-07-88, Nevers, Gueugnon
+, Youssef Sofiane, FRA, F, 1.80, 72, 08-07-84, Villefranche sur Saône, Lesquin
+, Cédric Baseya, FRA, F, 1.95, 94, 19-12-87, Bretigny, Southampton
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Luis Yánes, COL, F, 1.74, 76, 29-10-82, Santa Marta, Junior (On Loan)
+9, Kevin Mirallas, BEL, F, 1.78, 72, 05-10-87, Liège, St-Etienne
+11, Larsen Touré, FRA, F, 1.84, 81, 20-07-84, Brest, Grenoble (On Loan)
+27, Jérémy Taravel, FRA, D, 1.88, 75, 17-04-87, Vincennes, Zulte-Waregem (On Loan)
+19, Peter Franquart, FRA, D, 1.82, 83, 04-01-85, Lille, Le Havre (On Loan)

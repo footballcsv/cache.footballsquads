@@ -1,0 +1,37 @@
+=  Grasshoppers - Swiss Super League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roman Bürki, SUI, G, 1.85, 83, 14-11-90, Münsingen, Young Boys
+2, Sead Hajrovic, SUI, D, 1.83, 80, 04-06-93, Brugg, Arsenal
+3, Stéphane Grichting, SUI, D, 1.86, 80, 30-03-79, Sierre, Auxerre
+4, Sanel Jahić, BIH, D, 1.85, 85, 10-12-81, Strasbourg, St Johnstone
+5, Michael Lang, SUI, D, 1.85, 79, 08-02-91, Egnach, St. Gallen
+6, Veroljub Salatić, SUI, M, 1.85, 85, 14-11-85, Zvornik, Omonia Nicosia
+8, Amir Abrashi, ALB, M, 1.72, 70, 27-03-90, Bischofszell, Winterthur
+9, Munas Dabbur, ISR, F, 1.81, 74, 14-05-92, Nazareth, Maccabi Tel Aviv
+10, Shkelzen Gashi, ALB, M, 1.82, 75, 15-07-88, Zürich, Aarau
+11, Frank Feltscher, VEN, M, 1.79, 72, 17-05-88, Bülach, Bellinzona
+15, Nassim Ben Khalifa, SUI, F, 1.80, 69, 13-01-92, Prangins, Wolfsburg
+16, Manuel Kubli, SUI, M, 1.72, 70, 09-04-95, , None
+17, Anatole Ngamukol, FRA, F, 1.76, 63, 15-01-88, Aubervilliers, Thun
+18, Davide Taini, SUI, G, 1.89, 92, 07-12-76, , Wil
+20, Daniel Pavlović, SUI, M, 1.84, 76, 22-04-88, Rorschach, Schaffhausen
+21, Caio, BRA, M, 1.86, 82, 29-05-86, Mirandópolis, Atlético Goianiense
+23, Michael Dingsdag, NED, D, 1.89, 74, 18-10-82, Amsterdam, Sion
+24, Imran Bunjaku, ALB, M, 1.78, 67, 18-10-92, Zürich, None
+25, Steven Lang, SUI, M, 1.78, 63, 03-09-87, Delemont, Aarau
+26, Ulisses Garcia, SUI, D, 1.82, 75, 11-01-96, Genf, None
+28, Nzuzi Toko, COD, M, 1.71, 66, 20-12-90, Kinshasa, None
+30, Shani Tarashaj, SUI, F, 1.76, 76, 07-02-95, Tirana, None
+31, Albion Avdijaj, SUI, F, 1.89, 80, 12-01-94, Zürich, 1899 Hoffenheim
+33, Seny Dieng, SEN, G, 1.93, 90, 23-11-94, Zürich, None
+34, Moritz Bauer, SUI, D, 1.81, 73, 25-01-92, Veltheim, Winterthur
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Johan Vonlanthen, SUI, F, 1.75, 73, 01-02-86, Santa Marta, Schaffhausen (On Loan)
+14, Izet Hajrović, BIH, M, 1.77, 71, 04-08-91, Brugg, Galatasaray
+29, Levent Gülen, SUI, D, 1.80, 68, 24-02-94, Zürich, Kayserispor (On Loan)
+4, Milan Vilotić, SRB, D, 1.87, 79, 21-10-86, Belgrade, Young Boys
+27, Mergim Brahimi, SUI, M, 1.72, 65, 08-08-92, Istog, Wohlen (On Loan)

@@ -1,0 +1,49 @@
+=  Corinthians - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Júlio César, BRA, G, 1.86, 78, 27-10-84, São Paulo, None
+2, Alessandro, BRA, D, 1.79, 77, 10-01-79, Assis Chateaubriand, Santos
+3, Chicão, BRA, D, 1.81, 81, 03-06-81, Mogi Guaçu, Figueirense
+4, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Vitória
+5, Ralf, BRA, M, 1.80, 73, 09-06-84, São Paulo, Barueri
+6, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Grêmio
+7, Juan Martínez, ARG, F, 1.73, 73, 21-10-85, Viedma, Vélez Sarsfield
+8, Paulinho, BRA, M, 1.80, 71, 25-07-88, São Paulo, Coimbra
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Hamburg
+10, Douglas, BRA, M, 1.75, 66, 18-02-82, Criciúma, Grêmio
+11, Emerson, BRA, F, 1.71, 69, 06-12-78, Nova Iguaçu, Fluminense
+12, Cássio, BRA, G, 1.95, 92, 06-06-87, Veranópolis, PSV Eindhoven
+13, Paulo André, BRA, D, 1.88, 82, 20-08-83, Campinas, Le Mans
+14, Luis Ramírez, PER, M, 1.80, 77, 10-11-84, Lima, Universitario de Deportes
+15, Anderson Polga, BRA, D, 1.82, 79, 09-02-79, Santiago, Sporting CP
+16, Denner, BRA, D, 1.80, 70, 21-11-93, Guarulhos, None
+17, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, São Paulo
+18, Welder, BRA, D, 1.81, 70, 16-01-91, Franca, Paulista
+19, Chiquinho, BRA, M, 1.70, 70, 27-01-89, Caxias, Ipatinga
+20, Danilo, BRA, M, 1.86, 84, 11-06-79, São Gotardo, Kashima Antlers
+21, Edenilson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Caxias
+22, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, None
+23, Jorge Henrique, BRA, F, 1.69, 69, 23-04-82, Resende, Botafogo
+25, Adilson, BRA, F, 1.77, 76, 18-02-87, Barra do Rocha, XV de Piracicaba
+26, Guilherme, BRA, D, 1.80, 75, 31-01-89, Montes Claros, Ponte Preta
+27, Antonio Carlos, BRA, D, 1.91, 74, 07-03-93, Rio de Janeiro, None
+28, Felipe, BRA, D, 1.85, 77, 16-05-89, Mogi das Cruzes, Coimbra
+29, Giovanni, BRA, M, 1.74, 74, 04-04-94, Sorocaba, None
+31, Romarinho, BRA, F, 1.74, 72, 12-12-90, Palestina, Bragantino
+35, Guilherme, BRA, M, 1.78, 78, 05-04-91, Santo André, Portuguesa
+200, Chen Zhizhao, CHN, M, 1.70, 61, 14-03-88, Guangzhou, Shanghai Shenxin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Matheus, BRA, M, 1.70, 61, 21-02-93, Lins, Bragantino (On Loan)
+36, Gomes, BRA, M, 1.82, 78, 18-09-93, São Paulo, Bragantino (On Loan)
+7, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Coimbra
+30, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, Avaí
+16, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Flamengo (On Loan)
+17, Gilsinho, BRA, F, 1.68, 65, 04-04-84, Américo Brasiliense, Sport Recife
+9, Liédson, POR, F, 1.75, 63, 17-12-77, Cairú, Flamengo
+4, Leandro Castán, BRA, D, 1.85, 78, 05-11-86, Jaú, Roma
+12, Alex, BRA, M, 1.75, 71, 25-03-82, Cornélio Procópio, Al-Gharafa
+19, Élton, BRA, F, 1.85, 84, 01-08-85, Iramaia, Vitória (On Loan)
+15, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, Roma (On Loan)

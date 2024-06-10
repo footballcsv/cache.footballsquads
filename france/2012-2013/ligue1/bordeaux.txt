@@ -1,0 +1,37 @@
+=  Bordeaux - French Ligue 1 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Abdoulaye Keita, FRA, G, 1.84, 75, 16-08-90, Paris, None
+3, Henrique, BRA, D, 1.88, 78, 02-05-83, São Gonçalo, Flamengo
+4, Ludovic Obraniak, POL, M, 1.74, 72, 10-11-84, Longueville-lès-Metz, Lille
+6, Lamine Sané, SEN, D, 1.92, 77, 22-03-87, Villeneuve-sur-Lot, None
+7, Landry N'Guemo, CMR, M, 1.73, 70, 28-11-85, Yaoundé, Nancy
+8, Fahid Ben Khalfallah, TUN, M, 1.74, 68, 09-10-82, Péronne, Valenciennes
+9, Diego Rolán, URU, F, 1.78, 74, 24-03-93, Montevideo, Defensor Sporting
+11, David Bellion, FRA, F, 1.81, 72, 27-11-82, Paris, Nice
+12, Hadi Sacko, FRA, F, 1.83, 79, 24-03-94, Corbeil-Essonnes, None
+13, Evan Chevalier, FRA, M, 1.75, 60, 13-05-92, Bruges, None
+14, Cheikh Diabaté, MLI, F, 1.94, 84, 25-04-88, Bamako, None
+16, Cédric Carrasso, FRA, G, 1.87, 87, 30-12-81, Avignon, Toulouse
+17, André Biyogo Poko, GAB, M, 1.73, 72, 01-01-93, Bitam, US Bitam
+18, Jaroslav Plašil, CZE, M, 1.83, 72, 05-01-82, Opočno, Osasuna
+19, Nicolas Maurice-Belay, FRA, M, 1.82, 76, 19-04-85, Sucy-en-Brie, Sochaux
+20, Henri Saivet, FRA, F, 1.73, 70, 26-10-90, Dakar, None
+22, Julien Faubert, FRA, M, 1.80, 75, 01-08-83, Le Havre, Elazığspor
+23, Florian Marange, FRA, D, 1.76, 70, 03-03-86, Talence, None
+24, Abdou Traoré, MLI, M, 1.79, 73, 17-01-88, Bamako, None
+25, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Fluminense
+26, Grégory Sertic, FRA, M, 1.81, 69, 05-08-89, Brétigny-sur-Orge, None
+27, Marc Planus, FRA, D, 1.83, 76, 07-03-82, Bordeaux, None
+28, Benoît Trémoulinas, FRA, D, 1.73, 64, 28-12-85, Bordeaux, None
+29, Maxime Poundjé, FRA, D, 1.79, 71, 16-08-92, Bordeaux, None
+30, Kévin Olimpa, FRA, G, 1.86, 81, 10-03-88, Paris, None
+40, Ažbe Jug, SVN, G, 1.92, 91, 03-03-92, Maribor, Interblock
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Michaël Ciani, FRA, D, 1.89, 88, 06-04-84, Paris, Lazio
+21, Mathieu Chalmé, FRA, D, 1.75, 72, 07-10-80, Bruges, Ajaccio (On Loan)
+9, Yoan Gouffran, FRA, F, 1.75, 70, 25-05-86, Villeneuve-st-Georges, Newcastle U
+10, Jussiê, BRA, F, 1.80, 76, 19-09-83, Nova Venécia, Al-Wasl (On Loan)

@@ -1,0 +1,43 @@
+=  Universidad de Chile - Chilean Primera División 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando De Paul, ARG, G, 1.83, 84, 25-04-91, Álvarez, San Luis de Quillota
+2, Cristián Vilches, CHI, D, 1.82, 80, 27-10-83, Santiago, Atlético Paranaense
+3, Alejandro Contreras, CHI, D, 1.85, 81, 03-03-93, Puente Alto, Palestino
+4, Lucas Alarcón, CHI, D, 1.83, 82, 05-03-00, Santiago, None
+5, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Flamengo
+6, Matías Rodríguez, ARG, D, 1.78, 76, 14-04-86, San Luis, Sampdoria
+7, Leandro Benegas, ARG, F, 1.79, 78, 27-08-88, Godoy Cruz, Unión La Calera
+8, David Pizarro, CHI, M, 1.70, 65, 11-09-79, Valparaiso, Santiago Wanderers
+9, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Atlas
+10, Yeferson Soteldo, VEN, M, 1.60, 55, 30-06-97, Acarigua, Huachipato
+12, Ignacio Azúa, CHI, G, 1.83, 79, 23-06-98, , None
+14, Felipe Seymour, CHI, M, 1.74, 75, 23-07-87, Pirque, Unión Española
+15, Jean Beausejour, CHI, D, 1.79, 80, 01-06-84, Santiago, Colo-Colo
+16, Isaac Díaz, CHI, F, 1.84, 78, 24-03-90, Fresia, Sol de América
+17, Rafael Caroca, CHI, M, 1.70, 67, 19-07-89, Curicó, Deportes Iquique
+18, Gonzalo Jara, CHI, D, 1.78, 77, 29-08-85, Santiago, Mainz
+19, Francisco Arancibia, CHI, M, 1.70, 62, 12-11-96, Rancagua, O'Higgins
+20, Rodrigo Echeverria, CHI, D, 1.81, 73, 17-04-95, Santiago, None
+21, Sebastián Ubilla, CHI, F, 1.72, 64, 09-08-90, Quilpué, Al-Shabab
+22, Gustavo Lorenzetti, ARG, M, 1.68, 72, 10-05-85, Rosario, Universidad de Concepción
+23, Franz Schultz, CHI, M, 1.72, 72, 20-07-91, Valparaíso, Santiago Wanderers
+24, Iván Rozas, CHI, M, 1.78, 80, 01-07-98, Temuco, None
+25, Johnny Herrera, CHI, G, 1.83, 78, 09-05-81, Angol, Audax Italiano
+26, Nicolás Guerra, CHI, F, 1.76, 76, 09-01-99, Valparaíso​, None
+27, Gonzalo Espinoza, CHI, M, 1.78, 79, 09-04-90, Constitución, Kayserispor
+28, Brayan Garrido, CHI, M, 1.80, 72, 22-01-99, Maipú, None
+29, Felipe Saavedra, CHI, D, 1.72, 67, 26-09-96, Quillota, San Luis de Quillota
+30, Yerko Leiva, CHI, M, 1.66, 63, 14-06-98, Chillán, None
+31, Giovanni Bustos, CHI, M, 1.63, 59, 25-05-00, Iquique, None
+32, Bryan Taiva, CHI, F, 1.82, 77, 17-06-95, Santiago, None
+33, Julián Alfaro, CHI, F, 1.76, 62, 02-09-01, Quinta Normal, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Lorenzo Reyes, CHI, M, 1.76, 76, 13-06-91, Santiago, Atlas
+27, Fabián Monzón, ARG, D, 1.79, 75, 13-04-87, Granadero Baigorria, 
+13, Ángelo Araos, CHI, M, 1.74, 63, 06-01-97, Antofagasta, Corinthians (On Loan)
+9, Mauricio Pinilla, CHI, F, 1.87, 78, 04-02-84, San Bernardo, 
+11, Armando Cooper, PAN, M, 1.75, 68, 26-11-87, Colón, Dinamo București

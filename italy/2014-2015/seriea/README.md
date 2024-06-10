@@ -1,0 +1,23 @@
+# Italian Serie A 2014/15
+
+20 teams
+- [Atalanta](atalanta.txt)
+- [Cagliari](cagliari.txt)
+- [Cesena](cesena.txt)
+- [Chievo Verona](cverona.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Genoa](genoa.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Palermo](palermo.txt)
+- [Parma](parma.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Sassuolo](sassuolo.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)

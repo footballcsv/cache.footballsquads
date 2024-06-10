@@ -1,0 +1,49 @@
+=  Bologna - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluca Curci, ITA, G, 1.91, 90, 12-07-85, Rome, Roma
+2, Adam Masina, MAR, D, 1.79, 70, 02-01-94, Khouribga, None
+3, Archimede Morleo, ITA, D, 1.73, 68, 26-09-83, Mesagne, Crotone
+4, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Internazionale
+5, Mikael Antonsson, SWE, D, 1.89, 80, 31-05-81, Karlskrona, FC København
+6, Frederik Sørensen, DEN, D, 1.93, 80, 14-04-92, Roskilde, Juventus
+7, Francesco Della Rocca, ITA, M, 1.82, 77, 14-09-87, Brindisi, Palermo
+8, György Garics, AUT, D, 1.83, 76, 08-03-84, Szombathely, Atalanta
+9, Rolando Bianchi, ITA, F, 1.88, 78, 15-02-83, Lovere, Torino
+10, Davide Moscardelli, ITA, F, 1.85, 80, 03-02-80, Mons, Chievo Verona
+11, Erik Friberg, SWE, M, 1.80, 66, 10-02-86, Lindome, Malmö FF
+12, Robert Acquafresca, ITA, F, 1.84, 77, 11-09-87, Turin, Genoa
+13, Diego Laxalt, URU, M, 1.78, 66, 07-02-93, Montevideo, Internazionale
+14, Cesare Natali, ITA, D, 1.91, 87, 05-04-79, Bergamo, Fiorentina
+15, Diego Pérez, URU, M, 1.77, 81, 18-05-80, Montevideo, Monaco
+16, Matteo Malagoli, ITA, G, 1.91, 86, 02-01-95, Bologna, None
+18, Federico Rodríguez, URU, F, 1.85, 74, 03-04-91, Montevideo, Genoa
+19, Lazaros Christodoulopoulos, GRE, M, 1.83, 77, 19-12-86, Thessaloniki, Panathinaikos
+20, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, Corinthians
+21, Nicolò Cherubin, ITA, D, 1.88, 83, 02-12-86, Vicenza, Cittadella
+22, Andrea Mantovani, ITA, D, 1.85, 79, 22-06-84, Turin, Palermo
+24, Michele Pazienza, ITA, M, 1.78, 75, 05-08-82, San Severo, Juventus
+29, Marco Maini, ITA, D, 1.85, 78, 14-04-95, Bologna, None
+32, Dejan Stojanović, MKD, G, 1.96, 89, 19-07-93, Feldkirch, FC Lustenau
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Brescia
+35, Marek Čech, SVK, D, 1.85, 75, 26-08-83, Trebišov, Trabzonspor
+40, Pierluigi Ferrari, ITA, G, , , 12-02-96, Brescia, Brescia
+41, Antonio Calabrese, ITA, F, 1.83, , 11-06-96, Castel San Pietro, None
+42, Francesco Bergamini, ITA, M, , , 05-11-94, Rome, Futbolclub
+75, José Ángel Crespo, ESP, D, 1.83, 72, 09-02-87, Lora del Río, Padova
+88, Daniele Paponi, ITA, F, 1.79, 66, 16-04-88, Ancona, Parma
+99, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Metalist Kharkiv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Martí Riverola, ESP, M, 1.81, 74, 26-01-91, Barcelona, Mallorca (On Loan)
+16, Federico Casarini, ITA, M, 1.81, 72, 07-08-89, Carpi, Virtus Lanciano (On Loan)
+20, Mathías Abero, URU, D, 1.84, 81, 09-04-90, Montevideo, Avellino (On Loan)
+11, Denis Alibec, ROU, F, 1.84, 80, 05-01-91, Mangalia, Internazionale
+77, Henry Giménez, URU, F, 1.76, 69, 13-03-86, Durazno, Nacional [URU]
+26, Alex Ferrari, ITA, D, 1.88, 80, 01-07-94, Modena, Crotone (On Loan)
+31, Uroš Radaković, SRB, D, 1.94, 89, 31-03-94, Novi Sad, Novara (On Loan)
+25, Federico Agliardi, ITA, G, 1.90, 82, 11-02-83, Brescia, Cesena (On Loan)
+92, Abdallah Yaisien, FRA, F, 1.73, 74, 23-05-94, Bondy, Trapani (On Loan)
+23, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, Guangzhou Evergrande

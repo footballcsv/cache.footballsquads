@@ -1,0 +1,41 @@
+=  MOL Fehérvár - Hungarian Nemzeti Bajnokság I 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dániel Kovács, HUN, G, 1.90, 82, 16-01-94, Gyula, Soroksár
+3, Vinícus Souza, BRA, D, 1.83, 80, 21-02-90, São Paulo, River Plate [URU]
+4, Adrián Rus, HUN, D, 1.88, 84, 18-03-96, Satu Mare, Puskás Akadémia
+5, Attila Fiola, HUN, D, 1.82, 74, 17-02-90, Paks, Puskás Akadémia
+6, Ákos Elek, HUN, M, 1.87, 81, 21-07-88, Ózd, Kairat Almaty
+7, Ivan Petryak, UKR, M, 1.71, 63, 13-03-94, Smila, Shakhtar Donetsk
+9, Szabolcs Huszti, HUN, M, 1.72, 70, 18-04-83, Miskolc, Changchun Yatai
+10, Ádám István Kovács, HUN, M, 1.84, 75, 27-03-92, Szombathely, Haladás
+11, Loïc Nego, FRA, D, 1.79, 64, 15-01-91, Paris, Charlton Ath
+15, Armin Hodžić, BIH, F, 1.81, 76, 17-11-94, Sarajevo, Dinamo Zagreb
+16, Visar Musliu, MKD, D, 1.86, 80, 13-11-94, Gostivar, Shkëndija
+17, Máté Pátkai, HUN, M, 1.72, 62, 06-03-88, Budapest, Győr
+18, Márkó Futács, HUN, F, 1.96, 89, 22-02-90, Budapest, Hajduk Split
+19, Boban Nikolov, MKD, M, 1.80, 75, 28-07-94, Stip, Vardar Skopje
+20, Attila Mocsi, HUN, D, 1.83, 74, 29-05-00, Székesfehérvár, Puskás Akadémia
+21, Bálint Szabó, HUN, M, 1.79, 72, 18-01-01, Székesfehérvár, Puskás Akadémia
+22, Stopira, CPV, D, 1.80, 74, 20-05-88, Praia, Feirense
+23, Roland Juhász, HUN, D, 1.93, 80, 01-07-83, Monor, Anderlecht
+24, Patrik Nyári, HUN, M, 1.85, 79, 09-04-01, Szombathely, Haladás
+27, Levente Szabó, HUN, F, 1.84, 75, 06-06-99, Székesfehérvár, Genoa
+35, Bence Gundel-Takács, HUN, G, 1.93, 75, 06-04-98, Budapest, Újpest
+49, Krisztián Géresi, HUN, M, 1.83, 71, 14-06-94, Székesfehérvár, Puskás Akadémia
+65, Szilveszter Hangya, HUN, D, 1.87, 83, 02-01-94, Baja, Vasas
+70, Funsho Bamgboye, NGA, F, 1.72, 68, 09-01-99, Ibadan, Haladás
+71, Nemanja Nikolić, HUN, F, 1.80, 79, 31-12-87, Zenta, Chicago Fire
+74, Adam Kovacsik, HUN, G, 1.92, 83, 04-04-91, Budapest, Reggina
+77, Georgi Milanov, BUL, M, 1.84, 69, 19-02-92, Levski, CSKA Moscow
+83, Olivér Tamás, HUN, D, 1.83, 77, 14-04-01, Solotvyno, Ferencváros
+96, Lyes Houri, FRA, M, 1.75, 75, 19-01-96, Lomme, Viitorul Constanța
+99, Dániel Zsóri, HUN, F, 1.83, 76, 14-10-00, Békéscsaba, Debrecen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Tomáš Tujvel, SVK, G, 1.90, 88, 19-09-83, Nitra, Honvéd
+44, Marko Šćepović, SRB, F, 1.90, 83, 23-05-91, Belgrade, Rizespor
+55, Danilo Pantić, SRB, M, 1.80, 68, 26-10-96, Ruma, Chelsea
+8, Anel Hadžić, BIH, M, 1.84, 73, 16-08-89, Velika Kladuša, 

@@ -1,0 +1,56 @@
+=  Luton Town - English Football Conference Premier 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Tyler, ENG, G, 1.81, 82, 02-04-77, Norwich, Peterborough U
+2, Fraser Franks, ENG, D, 1.83, 69, 22-11-90, Hammersmith, Welling U
+3, Danny Fitzsimons, IRL, D, 1.83, 71, 05-05-92, , Histon
+4, Jonathan Smith, ENG, M, 1.91, 71, 17-10-86, Preston, York C
+5, Steve McNulty, ENG, D, 1.86, 88, 26-09-83, Liverpool, Fleetwood T
+6, Anthony Charles, ENG, D, 1.85, 76, 11-03-81, Isleworth, Plymouth Arg
+7, Alex Lawless, WAL, M, 1.80, 77, 05-02-83, Llwynupion, York C
+8, Solomon Taiwo, ENG, M, 1.85, 84, 29-04-85, Lagos, Bromley
+9, Jon Shaw, ENG, F, 1.85, 80, 10-11-83, Sheffield, Gateshead
+10, Alex Wall, ENG, F, 1.80, 79, 22-09-90, Thatcham, Maidenhead U
+11, Jake Howells, WAL, D, 1.75, 74, 18-04-91, St Albans, None
+12, Scott Griffiths, ENG, D, 1.75, 74, 10-02-86, Westminster, Peterborough U
+13, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Hull C
+14, Andy Parry, ENG, M, 1.79, 73, 13-09-91, Liverpool, Southport
+15, Luke Rooney, ENG, M, 1.80, 72, 28-12-90, Bermondsey, Maidstone U
+16, Elliot Justham, ENG, G, 1.90, 79, 18-07-90, Barking, East Thurrock U
+17, JJ O'Donnell, ENG, M, 1.78, 74, 29-10-91, , St Albans C
+18, Dave Martin, ENG, M, 1.75, 68, 03-06-85, Erith, Southend U
+19, Cameron McGeehan, NIR, M, 1.80, 71, 06-04-95, Kingston-upon-Thames, Norwich C
+20, David Viana, FRA, M, 1.73, 73, 22-01-92, Strasbourg, Real Salt Lake
+21, Luke Guttridge, ENG, M, 1.73, 67, 27-03-82, Barnstaple, Northampton T
+22, Shaun Whalley, ENG, M, 1.75, 67, 07-08-87, Whiston, Southport
+23, Matt Robinson, ENG, M, 1.88, 80, 01-06-94, Leicester, Leicester C
+24, Jernade Meade, ENG, M, 1.73, 74, 25-10-92, Luton, Swansea C
+25, Ron Henry, ENG, D, 1.81, 75, 02-01-84, Hemel Hempstead, Stevenage
+26, Paul Benson, ENG, F, 1.85, 70, 12-10-79, Rochford, Swindon T
+27, Andre Gray, ENG, F, 1.78, 79, 26-06-91, Wolverhampton, Hinckley U
+28, Jim Stevenson, ENG, M, 1.86, 74, 17-05-92, Luton, Histon
+29, Kane Ferdinand, IRL, M, 1.85, 86, 07-10-92, Newham, Peterborough U
+30, Alex Lacey, ENG, D, 1.81, 74, 31-05-93, Milton Keynes, None
+31, Jake Woolley, ENG, F, 1.82, 75, 11-09-93, Leicester, Rushden & Diamonds
+32, Brett Longden, ENG, D, , , 08-05-94, , None
+33, Jerome Jibodu, ENG, D, , , 03-03-94, Bedford, None
+34, Zane Banton, ENG, F, 1.73, 73, 06-09-96, Stevenage, None
+35, Luke Trotman, ENG, D, , , 20-06-97, , None
+36, Charlie Smith, ENG, M, , , 07-09-95, , None
+37, Jemale McKenzie-Lowe, ENG, F, , , 20-02-96, , None
+38, Arel Amu, ENG, F, , , 27-09-95, , None
+39, Ian Rees, ENG, M, , , 22-03-96, , None
+40, Ben McFarlane-Barnes, ENG, G, , , 12-04-95, , None
+41, Tinashe Chabata, ENG, D, , , 01-08-96, , None
+42, Craig King, ENG, G, 1.82, 66, 01-07-97, , None
+43, Pelly Ruddock, ENG, M, 1.75, 63, 17-07-93, Hendon, West Ham U
+44, Andrew Mangan, ENG, F, 1.75, 74, 30-08-86, Liverpool, Forest Green R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Arnaud Mendy, FRA, M, 1.90, 86, 10-02-90, Evreux, Lincoln C
+15, Pelly Ruddock, ENG, M, 1.75, 63, 17-07-93, Hendon, West Ham U
+19, Joe Davis, ENG, D, 1.83, 67, 10-11-93, Burnley, Port Vale
+24, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Brentford
+15, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace

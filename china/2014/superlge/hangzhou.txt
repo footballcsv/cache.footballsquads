@@ -1,0 +1,43 @@
+=  Hangzhou Greentown - Chinese Super League 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gu Chao, CHN, G, 1.94, 86, 20-08-89, Shanghai, None
+2, Zhuang Jiajie, CHN, M, 1.74, 68, 05-09-93, Lufeng, None
+4, Zang Yifeng, CHN, F, 1.68, 65, 15-10-93, Guizhou, None
+5, Shi Ke, CHN, D, 1.84, 80, 06-01-93, Xuzhou, None
+6, Son Dae-Ho, KOR, M, 1.88, 81, 11-09-81, Pohang, Incheon U
+7, Gilberto Macena, BRA, F, 1.73, 71, 01-04-84, Rio de Janeiro, Shandong Luneng
+8, Chen Zhongliu, CHN, M, 1.84, 73, 30-09-93, Duyun, None
+9, Anselmo Ramon, BRA, F, 1.82, 79, 23-06-88, Camacari, Cruzeiro
+10, Ruan Yang, CHN, F, 1.63, 56, 13-12-93, Liuyang, Amora
+11, Xie Pengfei, CHN, M, 1.81, 73, 29-06-93, Guiyang, None
+12, Luo Jing, CHN, M, 1.72, 59, 04-11-93, Guizhou, None
+13, Cao Xuan, CHN, D, 1.95, 85, 02-07-85, Dalian, Dalian
+14, Feng Gang, CHN, M, 1.76, 62, 06-03-93, Wuhan, None
+15, Xiong Wei, CHN, D, 1.79, 70, 08-01-93, Xiaogan, None
+16, Fan Xiaodong, CHN, M, 1.78, 72, 02-03-87, Zibo, Shenzhen
+17, Dong Yu, CHN, D, 1.78, 62, 15-07-94, Shandong, None
+18, Zhao Yuhao, CHN, D, 1.80, 79, 07-04-93, Yunnan, None
+19, Wu Hang, CHN, D, 1.75, 65, 01-02-93, Cangnan, None
+20, Davy Claude Angan, CIV, F, 1.82, 75, 20-09-87, Abidjan, Molde
+21, Yi Baidi, CHN, F, 1.75, 67, 10-08-93, Shenzhen, None
+22, Wang Lin, CHN, D, 1.77, 74, 19-09-87, Dalian, Shanghai Shenhua
+23, Zou Dehai, CHN, G, 1.87, 79, 27-02-93, Dalian, None
+24, Zhao Xiaotian, CHN, F, 1.65, 52, 01-10-93, Baoding, None
+25, Cheng Jin, CHN, M, 1.75, 65, 18-02-95, Xinxiang, None
+26, Zhang Zhenyu, CHN, D, 1.70, 54, 06-01-94, , None
+27, Huang Yuandong, CHN, G, 1.88, 86, 27-02-89, , None
+28, Cao Haiqing, CHN, D, 1.74, 69, 28-09-93, Yunnan, None
+30, Luka Žinko, SVN, M, 1.85, 80, 23-03-83, Ljubljana, Qäbälä
+32, Wu Wei, CHN, D, 1.91, 80, 10-03-83, Tianjin, Guizhou Renhe
+33, Wang Song, CHN, F, 1.77, 73, 12-10-83, Guiyang, Chengdu Blades
+35, Zhao Yuan, CHN, D, 1.85, 72, 15-02-95, Hangzhou, None
+36, Yang Zezhi, CHN, M, 1.77, 60, 11-02-91, Chengdu, Chengdu Tiancheng
+37, Wu Guodong, CHN, D, 1.65, 50, 16-08-94, Zhanjiang, None
+40, Song Haiwang, CHN, M, 1.76, 65, 20-02-95, , None
+49, Chen Xiaohan, CHN, D, , , 09-02-96, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Sun Zheng'ao, CHN, D, 1.83, 73, 08-03-94, Qingdao, Beijing BIT (On Loan)

@@ -1,0 +1,40 @@
+=  Levante - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Koke, ESP, G, 1.88, 88, 27-09-95, Málaga, Espanyol B
+2, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid
+3, Toño, ESP, D, 1.79, 69, 07-11-89, Alcalá de Henares, Recreativo Huelva
+4, Róber Pier, ESP, D, 1.82, 74, 16-02-95, Oleiros, Deportivo La Coruña B
+5, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Metz
+6, Chema Rodríguez, ESP, D, 1.89, 80, 03-03-92, Caudete, Alcorcón
+7, Moses Simon, NGA, F, 1.68, 66, 12-07-95, Jos, KAA Gent
+9, Roger, ESP, F, 1.79, 74, 03-01-91, Torrent, Levante B
+10, Enis Bardhi, MKD, M, 1.69, 67, 02-07-95, Skopje, Újpest
+11, José Luis Morales, ESP, M, 1.80, 70, 23-07-87, Madrid, Fuenlabrada
+12, Coke, ESP, D, 1.82, 78, 26-04-87, Madrid, Schalke
+13, Oier Olazábal, ESP, G, 1.89, 82, 14-09-89, Irún, Granada
+14, Rúben Vezo, POR, D, 1.82, 80, 25-04-94, Setúbal, Valencia
+15, Sergio Postigo, ESP, D, 1.84, 78, 04-11-88, Madrid, Spezia
+16, Rubén Rochina, ESP, M, 1.81, 70, 23-03-91, Sagunto, Rubin Kazan
+17, Nikola Vukčević, MNE, M, 1.84, 74, 13-12-91, Podgorica, Sporting Braga
+18, Erick Cabaco, URU, D, 1.86, 75, 19-04-95, Montevideo, Nacional [URU]
+19, Pedro López, ESP, D, 1.74, 72, 01-01-83, Valencia, Valladolid
+20, Raphael Dwamena, GHA, F, 1.84, 81, 12-09-95, Nkawkaw, Zürich
+22, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Eibar
+23, Jason, ESP, F, 1.78, 65, 06-07-94, La Coruña, Levante B
+24, José Campaña, ESP, M, 1.76, 55, 30-05-93, Seville, Sampdoria
+25, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Numancia
+26, Genís Montolió, ESP, D, , , 23-07-96, Barcelona, Espanyol B
+27, Fran Manzanara, ESP, D, 1.83, 75, 12-09-96, La Solana, Atlético Madrid B
+29, Joan Monterde, ESP, M, 1.68, 66, 18-12-97, Port de Sagunt, Levante B
+30, Shaq Moore, USA, D, 1.80, 75, 02-11-96, Powder Springs, Oviedo B
+31, Arturo Molina, ESP, M, 1.79, 68, 18-07-96, Abarán, Murcia
+32, Pepelu, ESP, M, 1.85, 72, 11-08-98, Denia, Levante B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Iván López, ESP, D, 1.75, 69, 23-08-93, Valencia, Nàstic (On Loan)
+14, Samu, ESP, M, 1.79, 73, 13-07-90, Málaga, 
+8, Sanjin Prcić, BIH, M, 1.81, 73, 20-11-93, Belfort, Strasbourg (On Loan)
+21, Emmanuel Boateng, GHA, F, 1.75, 62, 23-05-96, Accra, Dalian Yifang

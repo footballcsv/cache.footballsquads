@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2008/09
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Rot-Weiß Ahlen](ahlen.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [Augsburg](augsburg.txt)
+- [MSV Duisburg](duisburg.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SC Freiburg](freiburg.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hansa Rostock](rostock.txt)
+- [Ingolstadt 04](ingols.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [TuS Koblenz](koblenz.txt)
+- [FSV Mainz 05](mainz.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [VfL Osnabrück](osna.txt)
+- [St Pauli](stpauli.txt)
+- [SV Wehen-Wiesbaden](wehen.txt)

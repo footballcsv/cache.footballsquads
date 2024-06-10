@@ -1,0 +1,52 @@
+=  Siena - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eugenio Lamanna, ITA, G, 1.86, 84, 07-08-89, Como, Genoa
+2, Giulio Mulas, ITA, D, 1.78, 68, 09-11-96, Poggibonsi, None
+3, Manuel Pamić, CRO, D, 1.76, 75, 20-08-86, Žminj, Chievo Verona
+5, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Parma
+6, Ângelo, BRA, D, 1.75, 76, 12-06-81, Salvador, Parma
+7, Luca Ceccarelli, ITA, D, 1.85, 77, 20-03-83, Massa, Spezia
+8, Simone Vergassola, ITA, M, 1.74, 70, 24-01-76, La Spezia, Torino
+9, Diego Fabbrini, ITA, F, 1.81, 66, 31-07-90, San Giuliano Terme, Watford
+10, Thomás Bedinelli, BRA, F, 1.79, 75, 24-02-93, Juiz de Fora, Flamengo
+11, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, Parma
+12, Simone Farelli, ITA, G, 1.86, 78, 19-02-83, Rome, Crotone
+13, Gianvito Plasmati, ITA, F, 1.99, 88, 28-01-83, Matera, Virtus Lanciano
+14, Luca Scapuzzi, ITA, F, 1.82, 75, 15-04-91, Milan, Manchester C
+15, Kevin Bonifazi, ITA, D, 1.80, 70, 19-05-96, Toffia, None
+16, Marko Pejić, CRO, D, 1.75, 68, 24-02-95, Zagreb, Dinamo Zagreb
+17, Nicola Belmonte, ITA, D, 1.83, 75, 15-04-87, Cosenza, Bari
+18, Mato Miloš, CRO, D, 1.75, 70, 30-06-93, Pula, Rijeka
+19, Santiago Morero, ARG, D, 1.83, 81, 18-04-82, Murphy, Chievo Verona
+20, Alessandro Rosina, ITA, M, 1.68, 65, 31-01-84, Belvedere Marittimo, Zenit St Petersburg
+21, Gaetano D'Agostino, ITA, M, 1.82, 78, 03-06-82, Palermo, Udinese
+22, Alin Bucuroiu, ROU, G, 1.86, 82, 05-07-91, Râmnicu Vâlcea, Udinese
+23, Andrea Schiavone, ITA, M, 1.80, 76, 25-02-93, Turin, Juventus
+24, Leonardo Spinazzola, ITA, F, 1.85, 73, 25-03-93, Foligno, Juventus
+25, Saverio Camilli, ITA, M, 1.70, 66, 02-09-95, Spoleto, None
+26, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Parma
+27, Lorenzo Rosseti, ITA, F, 1.82, 74, 05-08-94, Arezzo, None
+28, Simone Monni, ITA, F, 1.87, 76, 11-09-96, Rome, None
+29, Guillermo Giacomazzi, URU, M, 1.83, 81, 21-11-77, Montevideo, Lecce
+30, Nico Pulzetti, ITA, M, 1.76, 70, 13-02-84, Rimini, Bologna
+31, Emanuele Conti, ITA, G, 1.84, 75, 01-01-96, Poggibonsi, None
+32, Carlos Matheu, ARG, D, 1.86, 81, 13-05-85, Quilmes, Atalanta
+33, Federico Proia, ITA, M, 1.85, 80, 04-02-96, Rome, None
+34, Pierluigi Cappelluzzo, ITA, F, 1.82, 76, 09-06-96, Montepulciano, Juventus
+35, Rafa Jordá, ESP, F, 1.92, 80, 11-01-84, Santa Perpetua, Guizhou Renhe
+36, Alessio Lo Porto, ITA, D, 1.81, 75, 04-04-96, Rome, None
+37, Alessandro Manes, ITA, D, 1.80, 71, 25-01-94, Acri, Fiorentina
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Innocent Emeghara, SUI, F, 1.70, 68, 27-05-89, Lagos, Livorno (On Loan)
+15, Nicholas Redi, ITA, F, , , 12-03-94, , Castel Rigone (On Loan)
+25, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Sassuolo
+13, Luca Crescenzi, ITA, D, 1.87, 80, 02-04-92, Rome, Lazio
+11, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Chievo Verona (On Loan)
+9, Michele Paolucci, ITA, F, 1.84, 78, 06-02-86, Recanati, Latina
+3, Fabrizio Grillo, ITA, D, 1.70, 72, 02-02-87, Rome, Varese
+7, Niccolò Giannetti, ITA, F, 1.81, 73, 12-05-91, Siena, Spezia
+16, Daniele Mannini, ITA, M, 1.83, 78, 25-10-83, Pisa, Pisa (On Loan)

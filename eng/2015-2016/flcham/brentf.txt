@@ -1,0 +1,46 @@
+=  Brentford - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Anderlecht
+3, Jake Bidwell, ENG, D, 1.83, 70, 21-03-93, Southport, Everton
+4, Lewis Macleod, SCO, M, 1.75, 72, 16-06-94, Wishaw, Rangers
+5, Andreas Bjelland, DEN, D, 1.88, 85, 11-07-88, Fredensborg, FC Twente
+6, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Southampton
+7, Sam Saunders, ENG, M, 1.75, 75, 29-08-83, Greenwich, Dagenham & Redbridge
+8, Marco Djuricin, AUT, F, 1.81, 72, 12-12-92, Vienna, Red Bull Salzburg
+9, Scott Hogan, ENG, F, 1.80, 64, 13-04-92, Salford, Rochdale
+10, Josh McEachran, ENG, M, 1.78, 65, 01-03-93, Oxford, Chelsea
+11, Philipp Hofmann, GER, F, 1.94, 87, 30-03-93, Arnsberg, Kaiserslautern
+12, Alan McCormack, IRL, M, 1.73, 64, 10-01-84, Dublin, Swindon T
+15, Ryan Woods, ENG, M, 1.73, 64, 13-12-93, Norton Canes, Shrewsbury T
+16, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Watford
+17, Konstantin Kerschbaumer, AUT, M, 1.79, 72, 01-07-92, Tulln, Admira Wacker Mödling
+18, Alan Judge, IRL, M, 1.84, 88, 11-11-88, Dublin, Blackburn R
+19, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, Chelsea
+20, Leandro Rodríguez, URU, F, 1.79, 70, 19-11-92, Montevideo, Everton
+21, Lasse Vibe, DEN, F, 1.81, 73, 22-02-87, Tranbjerg, IFK Göteborg
+22, Jack O'Connell, ENG, D, 1.91, 85, 29-03-94, Liverpool, Blackburn R
+24, Akaki Gogia, GER, M, 1.77, 73, 18-01-92, Rustavi, Hallescher FC
+27, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Charlton Ath
+28, Nico Yennaris, ENG, D, 1.70, 65, 23-05-93, Leytonstone, Arsenal
+29, Yoann Barbet, FRA, D, 1.87, 81, 10-05-93, Libourne, Niort
+31, Mark Smith, ENG, G, 1.88, 66, 15-12-95, Isleworth, QPR
+35, Jermaine Udumaga, ENG, M, 1.76, 65, 22-06-95, Lewisham, Oxford U
+36, Josh Clarke, ENG, M, 1.73, 70, 05-07-94, Waltham Forest, None
+37, Courtney Senior, ENG, M, 1.75, 64, 30-06-97, Croydon, None
+38, James Ferry, ENG, M, 1.79, 67, 20-04-97, Enfield, None
+39, Tom Field, IRL, D, 1.77, 70, 14-03-97, Kingston upon Thames, None
+40, Reece Cole, ENG, M, 1.78, 65, 17-02-98, Hillingdon, None
+47, Sergi Canós, ESP, F, 1.73, 75, 02-02-97, Nules, Liverpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Andre Gray, ENG, F, 1.78, 79, 26-06-91, Wolverhampton, Burnley
+25, Raphaël Calvet, FRA, D, 1.82, 70, 07-02-94, Auxerre, 
+14, Marcos Tébar, ESP, M, 1.85, 77, 07-02-86, Madrid, Llagostera
+23, Jota, ESP, M, 1.80, 67, 16-06-91, A Pobra do Caramiñal, Eibar (On Loan)
+20, Toumani Diagouraga, FRA, M, 1.88, 72, 09-06-87, Paris, Leeds U
+26, James Tarkowski, ENG, D, 1.85, 81, 19-11-92, Manchester, Burnley
+34, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Hartlepool U
+30, Ryan Williams, ENG, M, 1.73, 68, 08-04-91, Birkenhead, Inverness CT

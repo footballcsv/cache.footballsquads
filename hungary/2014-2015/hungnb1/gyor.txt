@@ -1,0 +1,54 @@
+=  Gyor - Hungarian Nemzeti Bajnokság I 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Krisztián Pogacsics, HUN, G, 1.83, 74, 17-10-85, Zalaegerszeg, Bihor Oradea
+3, Marko Dinjar, CRO, M, 1.70, 68, 21-05-86, Osijek, Terek Grozny
+5, Dan Bucşa, ROU, M, 1.82, 80, 23-06-88, Dej, Universitatea Clij
+6, Ádám Nagy, HUN, D, 1.81, 77, 20-01-96, Győr, Fehér Miklós Akadémia
+7, Vladica Brdarovski, MKD, D, 1.83, 71, 07-02-90, Bitola, Pelister
+10, Miroslav Stevanović, BIH, M, 1.82, 71, 29-07-90, Zvornik, Sevilla
+11, Njongo Priso, CMR, F, 1.71, 75, 24-12-88, Yaoundé, Petrolul Ploieşti
+12, Nikola Trajković, SRB, M, 1.75, 69, 05-01-81, Belgrade, Čukarički
+13, Giorgi Kvilitaia, GEO, F, 1.93, 82, 01-10-93, Tbilisi, Dila Gori
+14, Gergely Rudolf, HUN, F, 1.76, 77, 09-03-85, Nyiregyhaza, Diósgyőr
+16, Zoltán Lipták, HUN, D, 1.93, 87, 10-12-84, Budapest, Újpest
+17, Máté Pátkai, HUN, M, 1.72, 62, 06-03-88, Budapest, MTK
+18, Ádám Lang, HUN, D, 1.88, 83, 17-01-93, Veszprém, Veszprém
+20, Tamás Priskin, HUN, F, 1.85, 73, 27-09-86, Komarno, Austria Vienna
+21, Marek Střeštík, CZE, M, 1.88, 80, 01-02-87, Komárno, Brno
+22, Luis Ibáñez, ARG, D, 1.70, 69, 15-07-88, Moreno, Dinamo Zagreb
+23, József Windecker, HUN, M, 1.83, 75, 02-12-92, Szeged, None
+24, Djordje Kamber, SRB, M, 1.83, 76, 20-11-83, Kragujevac, Zalaegerszeg
+26, Ľuboš Kamenár, SVK, G, 1.93, 78, 17-06-87, Trnava, Nantes
+29, Tamás Koltai, HUN, M, 1.83, 78, 30-04-87, Győr, None
+30, Jaroslav Cellár, SVK, G, 1.94, 86, 19-11-95, , Fehér Miklós Akadémia
+31, Dávid Tóth, HUN, D, 1.81, 75, 09-07-98, Sopron, Fehér Miklós Akadémia
+34, Levente Szabó, HUN, F, 1.85, 81, 06-06-99, Győr, Fehér Miklós Akadémia
+35, Milan Mayer, HUN, F, 1.83, 82, 24-05-96, Kaposvár, Fehér Miklós Akadémia
+41, Bence Mervó, HUN, M, 1.85, 73, 05-03-95, Mosónmagyaróvár, Fehér Miklós Akadémia
+43, Dániel Horváth, HUN, G, 1.88, 76, 05-03-96, Győr, Fehér Miklós Akadémia
+45, Dávid Kerékgyártó, HUN, M, 1.85, 82, 29-09-95, Győr, MTK
+46, Bence Németh, HUN, D, 1.86, 83, 29-01-99, Szekszárd, Fehér Miklós Akadémia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Marián Had, SVK, D, 1.89, 85, 16-09-82, Dolný Kubín, Dukla Banská Bystrica
+9, Rok Kronaveter, SVN, M, 1.87, 80, 07-12-86, Maribor, Petrolul Ploiești
+11, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, Ferencváros
+7, András Stieber, HUN, M, 1.86, 77, 08-10-91, Sárvár, Lombard Pápa (On Loan)
+8, Ádám Dudás, HUN, M, 1.82, 78, 12-02-89, Esztergom, Haladás
+10, Leandro Martínez, ARG, F, 1.79, 69, 15-10-89, Buenos Aires, Haladás
+2, Ákos Takács, HUN, M, 1.82, 86, 14-02-82, Budapest, Retired
+28, Dávid Illés, HUN, M, 1.82, 71, 18-02-94, Győr, Lombard Pápa (On Loan)
+25, Rafe Wolfe, JAM, D, 1.87, 83, 19-12-85, Old Hardbourn, Dunaújváros
+32, Bencze Lenzsér, HUN, M, 1.83, 72, 09-06-96, Győr, Paks
+4, Martin Csató, HUN, D, 1.90, 83, 18-07-94, Békéscsaba, Siófok (On Loan)
+31, Zoltán Farkas, HUN, F, 1.87, 82, 11-08-95, Győr, Cegléd (On Loan)
+5, Valentin Babić, CRO, D, 1.74, 74, 06-07-81, Osijek, Retired
+27, László Bénes, SVK, M, 1.73, 60, 09-09-97, Dunajská Streda, MSK Žilina
+19, Nemanja Andrić, SRB, M, 1.71, 70, 13-06-87, Belgrade, Újpest (On Loan)
+6, Dániel Sváb, HUN, D, 1.83, 81, 02-09-90, Salgótarján, Mezőkövesd
+15, Dániel Völgyi, HUN, M, 1.87, 79, 07-06-87, Szeged, Lombard Pápa (On Loan)
+22, Michal Švec, CZE, M, 1.81, 68, 19-03-87, Prague, Slavia Prague
+30, Miloš Kočić, SRB, G, 1.93, 91, 04-06-85, Leskovac, Retired

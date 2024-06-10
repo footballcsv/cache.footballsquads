@@ -1,0 +1,37 @@
+=  Nacional - Uruguayan Primera División 2018 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Esteban Conde, URU, G, 1.87, 85, 04-03-83, Young, Atlético Rafaela
+2, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, None
+3, Rodrigo Erramuspe, ARG, D, 1.77, 72, 03-05-90, Mar del Plata, Independiente Medellín
+4, Jorge Fucile, URU, D, 1.78, 77, 19-11-84, Montevideo, FC Porto
+5, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, None
+6, Alexis Rolín, URU, D, 1.86, 75, 07-02-89, Montevideo, Catania
+7, Luis Aguiar, URU, M, 1.83, 81, 17-11-85, Mercedes, Alianza Lima
+8, Diego Arismendi, URU, M, 1.89, 82, 25-01-88, Montevideo, Al-Shabab [KSA]
+9, Diego Coelho, URU, F, 1.82, 81, 20-01-95, Montevideo, None
+10, Tabaré Viudez, URU, M, 1.72, 70, 08-09-89, Montevideo, River Plate
+11, Leandro Barcia, URU, F, 1.75, 71, 08-10-92, Florida, None
+12, Luis Mejía, PAN, G, 1.91, 81, 16-03-91, Ciudad de Panamá, Fénix
+13, Matías Zunino, URU, D, 1.76, 70, 20-04-90, Canelones, Defensor Sporting
+14, Gonzalo Bueno, URU, F, 1.74, 71, 16-01-93, Montevideo, Patriotas
+15, Álvaro González, URU, M, 1.75, 72, 29-10-84, Montevideo, Lazio
+16, Sebastián Rodríguez, URU, M, 1.81, 76, 16-08-92, Canelones, Liverpool [URU]
+17, Christian Oliva, URU, M, 1.78, 77, 01-06-96, San José [URU], None
+18, Sebastián Fernández, URU, F, 1.67, 69, 23-05-85, Montevideo, Rayo Vallecano
+19, Santiago Romero, URU, M, 1.76, 76, 15-02-90, Montevideo, None
+20, Carlos de Pena, URU, M, 1.77, 74, 11-03-92, Montevideo, Middlesbrough
+21, Guzmán Corujo, URU, D, 1.89, 85, 02-08-96, San José [URU], None
+22, Alfonso Espino, URU, D, 1.70, 73, 05-01-92, San Jacinto, None
+23, Diego Polenta, URU, D, 1.85, 87, 06-02-92, Montevideo, Genoa
+24, Gonzalo Bergessio, ARG, F, 1.78, 72, 20-07-84, Córdoba, Vélez Sarsfield
+26, Leandro Otormín, URU, F, 1.76, 70, 30-07-96, Paso de los Toros, None
+27, Gabriel Neves, URU, M, 1.71, 72, 11-08-97, Montevideo, None
+28, Facundo Labandeira, URU, M, 1.73, 65, 03-03-96, Florida, None
+29, Axel Müller, URU, M, 1.70, 65, 02-10-96, Tacuarembó, None
+30, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Boca Juniors
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Gabriel Araújo, URU, G, 1.87, 85, 28-03-93, Montevideo, Sud América (On Loan)

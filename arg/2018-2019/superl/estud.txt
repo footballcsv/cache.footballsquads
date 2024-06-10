@@ -1,0 +1,44 @@
+=  Estudiantes (La Plata) - Argentine Superliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jerónimo Pourtau, ARG, G, 1.91, 75, 23-01-00, Brandsen, None
+2, Nicolás Bazzana, ARG, D, 1.83, 81, 23-02-96, Gonnet, None
+3, Iván Erquiaga, ARG, D, 1.76, 74, 26-03-99, Vivoratá, None
+4, Iván Gómez, ARG, M, 1.80, 65, 28-02-97, Villa Elisa, None
+5, Facundo Mura, ARG, D, 1.71, 74, 24-03-99, General Roca, None
+6, Jonathan Schunke, ARG, D, 1.94, 85, 22-05-87, 25 de Mayo, Ferro Carril Oeste
+7, Lucas Albertengo, ARG, F, 1.78, 73, 30-01-91, Egusquiza, Independiente
+8, Matías Pellegrini, ARG, M, 1.76, 67, 11-03-00, Magdalena, None
+9, Manuel Castro, URU, M, 1.72, 72, 27-09-95, Durazno, Montevideo Wanderers
+10, Gastón Fernández, ARG, M, 1.70, 72, 12-10-83, Capital Federal, Grêmio
+12, Daniel Sappa, ARG, G, 1.93, 91, 09-02-95, La Plata, None
+13, Fernando Evangelista, ARG, D, 1.75, 70, 21-10-91, Santa Rosa, Newell's Old Boys
+14, Facundo Sánchez, ARG, D, 1.75, 73, 07-03-90, Sa Pereyra, Tigre
+15, Juan Bautista Cejas, ARG, M, 1.72, 63, 06-03-98, La Plata, None
+16, Mariano Pavone, ARG, F, 1.76, 81, 27-05-82, Tres Sargentos, Vélez Sarsfield
+17, Pablo Lugüercio, ARG, F, 1.77, 79, 10-03-82, La Plata, Aldosivi (Mar del Plata)
+18, Gonzalo Jara, CHI, D, 1.78, 77, 29-08-85, Santiago, Universidad de Chile
+19, Mateo Retegui, ARG, F, 1.86, 81, 29-04-99, San Fernando, Boca Juniors
+20, Matías Ruiz Díaz, ARG, D, 1.79, 74, 09-09-96, City Bell, None
+21, Mariano Andújar, ARG, G, 1.94, 87, 30-07-83, Capital Federal, Napoli
+22, Rodrigo Braña, ARG, M, 1.67, 69, 03-07-79, Berazategui, Quilmes
+23, Enzo Kalinski, ARG, M, 1.83, 72, 10-03-87, Santiago del Estero, Banfield
+24, Nahuel Estévez, ARG, M, 1.83, 74, 14-11-95, Capital Federal, Comunicaciones
+25, Andrés Ayala, ARG, M, 1.69, 66, 13-03-00, Berazategui, None
+26, Juan Ignacio Díaz, ARG, D, 1.82, 77, 26-05-98, Ensenada, None
+27, Franco Sivetti, ARG, M, 1.79, 75, 30-05-98, General Juan Madariaga, None
+28, Edwar López, COL, F, 1.74, 74, 09-03-95, Apartadó, Atlético Huila
+30, Carlo Lattanzio, ARG, F, 1.71, 64, 25-07-97, La Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Bautista Cascini, ARG, M, 1.71, 68, 04-06-97, La Plata, APOEL (On Loan)
+18, Fabián Noguera, ARG, D, 1.92, 97, 20-03-93, Ramos Mejía, Santos
+9, Lucas Rodríguez, ARG, M, 1.68, 64, 27-04-97, Florencio Varela, DC United (On Loan)
+26, Matías Laba, ARG, M, 1.74, 70, 11-12-91, Capital Federal, Unión La Calera
+19, Juan Francisco Apaolaza, ARG, F, 1.87, 79, 19-06-97, Magdalena, Patronato (Paraná) (On Loan)
+5, Fernando Zuqui, ARG, M, 1.70, 64, 27-11-91, Luján de Cuyo, Colón (Santa Fe) (On Loan)
+15, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, Chaves (On Loan)
+25, Jacob Murillo, ECU, F, 1.75, 74, 31-03-93, Chambo, Sud América
+23, Juan Bautista Cejas, ARG, M, 1.72, 63, 06-03-98, La Plata, Re-Registered (15)

@@ -1,0 +1,56 @@
+=  Hibernian - Scottish Premiership 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ofir Marciano, ISR, G, 1.93, 87, 07-10-89, Ashdod, Ashdod
+2, David Gray, SCO, D, 1.80, 71, 04-05-88, Edinburgh, Burton Alb
+3, Steven Whittaker, SCO, D, 1.85, 87, 16-06-84, Edinburgh, Norwich C
+4, Paul Hanlon, SCO, D, 1.80, 64, 20-01-90, Edinburgh, None
+6, Paul McGinn, SCO, D, 1.75, 66, 22-10-90, Glasgow, St Mirren
+7, Daryl Horgan, IRL, M, 1.71, 68, 10-08-92, Galway, Preston NE
+8, Vykintas Slivka, LTU, M, 1.85, 81, 29-04-95, Panevėžys, Juventus
+9, Christian Doidge, WAL, F, 1.85, 77, 25-08-92, Newport, Forest Green R
+10, Martin Boyle, AUS, M, 1.78, 53, 25-04-93, Aberdeen, Dundee
+11, Joe Newell, ENG, M, 1.80, 71, 15-03-93, Tamworth, Rotherham U
+13, Marc McNulty, SCO, F, 1.78, 69, 14-09-92, Livingston, Reading
+14, Stevie Mallan, SCO, M, 1.80, 78, 25-03-96, Glasgow, Barnsley
+15, Greg Docherty, SCO, M, 1.77, 72, 10-09-96, Glasgow, Rangers
+16, Lewis Stevenson, SCO, D, 1.70, 67, 05-01-88, Kirkcaldy, None
+17, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Yeovil T
+18, Adam Jackson, ENG, D, 1.87, 78, 18-05-94, Darlington, Barnsley
+20, Melker Hallberg, SWE, M, 1.80, 68, 20-10-95, Ljungbyholm, Vejle
+21, Jason Naismith, SCO, D, 1.69, 68, 25-06-94, Paisley, Peterborough U
+23, Scott Allan, SCO, M, 1.75, 70, 28-11-91, Glasgow, Celtic
+24, Darren McGregor, SCO, D, 1.83, 87, 07-08-85, Edinburgh, Rangers
+25, Ryan Porteous, SCO, D, 1.85, 68, 01-03-99, Dalkeith, None
+27, Ádám Bogdán, HUN, G, 1.94, 90, 27-09-87, Budapest, Liverpool
+31, Patrick Martin, SCO, G, , , 21-06-99, , St Johnstone
+33, Fraser Murray, SCO, M, 1.73, 68, 07-05-99, Glasgow, None
+40, Stéphane Omeonga, BEL, M, 1.77, 72, 27-03-96, Rocourt, Genoa
+41, Maciej Dąbrowski, POL, G, 1.95, 81, 09-06-98, Poznań, Lech Poznań
+44, Kosovar Sadiki, CAN, D, 1.95, 81, 27-08-98, Moers, Lokomotiva Zagreb
+45, Josh Campbell, SCO, M, 1.82, 73, 06-05-00, Edinburgh, None
+46, Innes Murray, SCO, M, 1.72, 65, 17-02-98, Edinburgh, Celtic
+47, Jamie Gullan, SCO, F, 1.83, 75, 02-07-99, Edinburgh, Hearts
+48, Tommy Block, ENG, M, 1.83, 86, 23-12-99, Sutton, Bognor Regis T
+49, Ryan Shanley, SCO, F, 1.86, 73, 16-06-01, Edinburgh, None
+50, Yrik Galantes, PHI, F, , , 14-01-01, , None
+51, Matty Yates, SCO, F, , , 14-06-02, , Rangers
+52, Gregor Woods, SCO, M, , , 19-06-01, , None
+53, Callum Yeats, SCO, D, 1.76, 68, 04-10-01, Edinburgh, None
+54, Jayden Fairley, SCO, M, , , 22-09-03, , None
+55, Josh Doig, SCO, D, 1.89, 71, 18-05-02, Edinburgh, Hearts
+56, Jack Hodge, SCO, M, , , 25-04-01, , St Johnstone
+57, Steven Bradley, SCO, M, 1.87, 74, 17-03-02, Glasgow, Queen's Park
+58, Josh Currie, SCO, F, , , 07-01-03, , None
+61, Dino Leddie, SCO, D, , , 27-08-01, , Ytterhogdals IK
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Sean Mackie, SCO, D, 1.78, 75, 04-11-98, Edinburgh, Dundee (On Loan)
+19, Glenn Middleton, SCO, F, 1.76, 68, 01-01-00, Northampton, Rangers
+6, Josh Vela, ENG, M, 1.81, 73, 14-12-93, Salford, Shrewsbury T
+32, Oli Shaw, SCO, F, 1.88, 72, 12-03-98, Edinburgh, Ross Co
+28, Chris Maxwell, WAL, G, 1.83, 73, 30-07-90, St Asaph, Preston NE
+42, Ben Stirling, SCO, D, 1.83, 70, 16-08-98, Edinburgh, Alloa Ath (On Loan)
+22, Florian Kamberi, SUI, F, 1.89, 84, 08-03-95, Zürich, Rangers (On Loan)

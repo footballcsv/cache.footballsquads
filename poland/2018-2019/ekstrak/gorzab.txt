@@ -1,0 +1,45 @@
+=  Górnik Zabrze - Polish Ekstraklasa 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomasz Loska, POL, G, 1.89, 79, 26-01-96, Knurów, Gwarek Ornontowice
+2, Przemysław Wiśniewski, POL, D, 1.95, 88, 27-07-98, Zabrze, Stadion Śląski Chorzów
+3, Boris Sekulić, SVK, D, 1.87, 82, 21-10-91, Belgrade, CSKA Sofia
+4, Adam Örn Arnarson, ISL, D, 1.93, 87, 27-08-95, Akureyri, Aalesund
+5, Paweł Bochniewicz, POL, D, 1.94, 79, 30-01-96, Dębica, Udinese
+7, Szymon Żurkowski, POL, M, 1.85, 77, 25-09-97, Tychy, Fiorentina
+8, Valerian Gvilia, UKR, M, 1.79, 69, 24-05-94, Zugdidi, Luzern
+9, Jesús Jiménez, ESP, M, 1.82, 80, 05-11-93, Leganés, Talavera de la Reina
+10, Łukasz Wolsztyński, POL, M, 1.83, 73, 08-12-94, Knurów, Concordia Knurów
+11, Daniel Liszka, POL, M, 1.76, 78, 17-02-00, , Trampkarz 22 Biskupice
+13, Kacper Michalski, POL, D, 1.87, 77, 03-01-00, Kostrzyn nad Odrą, Pogoń Szczecin
+14, Michał Koj, POL, D, 1.88, 81, 28-07-93, Ruda Śląska, Ruch Chorzów
+15, Dani Suárez, ESP, D, 1.90, 82, 07-05-90, Madrid, Ponferradina
+17, Igor Angulo, ESP, F, 1.81, 77, 26-01-84, Bilbao, Platanias
+18, Wojciech Hajda, POL, M, 1.82, 70, 23-05-00, Radzionków, Gwarek Zabrze
+19, Kamil Zapolnik, POL, F, 1.82, 77, 09-09-92, Białystok, GKS Tychy
+20, Ishmael Baidoo, GHA, M, 1.72, 64, 01-12-98, Accra, Septemvri Sofia
+22, Szymon Matuszek, POL, M, 1.85, 77, 07-01-89, Cieszyn, Dolcan Ząbki
+23, Mateusz Matras, POL, M, 1.93, 87, 23-01-91, Ornontowice, Zagłębie Lubin
+24, Bartłomiej Eizenchart, POL, D, 1.82, 80, 23-08-01, Łęczyca, Pogoń Szczecin
+25, Krzysztof Kubica, POL, M, 1.90, 75, 25-05-00, Żywiec, None
+26, Dominik Lasik, POL, F, 1.87, 80, 05-02-97, Sucha Beskidzka, Gwarek Zabrze
+27, Adrian Gryszkiewicz, POL, D, 1.85, 81, 13-12-99, Bytom, Gwarek Zabrze
+28, Maciej Ambrosiewicz, POL, M, 1.84, 75, 24-05-98, Gdynia, MFK Karviná
+31, Bartosz Bartczuk, POL, F, 1.81, 76, 14-06-00, Oława, KS Oława
+33, Daniel Bielica, POL, G, 1.89, 76, 30-04-99, Zabrze, Zaborze Zabrze
+45, Adam Ryczkowski, POL, M, 1.78, 69, 30-04-97, Węgrów, Legia Warszawa
+77, Giannis Mystakidis, GRE, F, 1.81, 75, 07-12-94, Thessaloniki, PAOK
+84, Martin Chudý, SVK, G, 1.89, 90, 23-04-89, Bystrica, Spartak Trnava
+93, Wojciech Pawłowski, POL, G, 1.90, 80, 18-01-93, Koszalin, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Dariusz Kamiński, POL, M, 1.82, 75, 25-11-98, Lubań, Olimpia Grudziądz (On Loan)
+23, Rafał Wolsztyński, POL, F, 1.80, 70, 08-12-94, Knurów, Widzew Łódź
+8, Konrad Nowak, POL, M, 1.75, 69, 07-11-94, Katowice, Puszcza Niepołomice
+20, Marcin Urynowicz, POL, F, 1.87, 78, 16-03-96, Zabrze, Odra Opole (On Loan)
+6, Wiktor Biedrzycki, POL, M, 1.89, 74, 31-07-97, Olsztyn, Wigry Suwałki
+3, Adam Wolniewicz, POL, D, 1.83, 78, 18-03-93, Ruda Śląska, GKS Jastrzębie (On Loan)
+21, Daniel Smuga, POL, F, 1.82, 78, 18-01-97, Warsaw, Wigry Suwałki (On Loan)
+16, Dariusz Pawłowski, POL, D, 1.87, 71, 25-02-99, Zabrze, BBT Nieciecza (On Loan)

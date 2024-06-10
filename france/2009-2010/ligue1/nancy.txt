@@ -1,0 +1,40 @@
+=  Nancy - French Ligue 1 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gennaro Bracigliano, FRA, G, 1.83, 82, 01-03-80, Forbach, None
+3, Joël Sami, COD, D, 1.90, 85, 13-11-84, Montfermeil, Amiens
+4, Cris Malonga, CGO, M, 1.83, 73, 11-07-87, Sens, Louhans-Cuiseaux
+5, André Luiz, BRA, D, 1.85, 84, 27-01-80, São João del Rei, Atlético Mineiro
+6, Pascal Berenguer, FRA, M, 1.75, 78, 20-05-81, Marseille, Istres
+7, Bocundji Ca, GNB, M, 1.72, 69, 28-12-86, Biombo, Tours
+8, Jordan Lotiès, FRA, D, 1.87, 77, 05-08-84, Clermont-Ferrand, Dijon
+10, Issiar Dia, SEN, F, 1.72, 70, 08-06-87, Sèvres, Amiens
+11, Djamel Bakar, FRA, M, 1.71, 67, 06-04-89, Marseille, Monaco
+12, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Amiens
+13, Damian Macaluso, URU, D, 1.81, 80, 09-03-80, Montevideo, River Plate [URU]
+14, Paul Alo'o Efoulou, CMR, F, 1.76, 73, 12-11-83, Yaoundé, Angers
+15, Youssouf Hadji, MAR, M, 1.83, 78, 25-02-80, Ifrane, Rennes
+16, Damien Gregorini, FRA, G, 1.94, 90, 02-03-79, Nice, Nice
+17, Gaston Curbelo, URU, F, 1.76, 76, 08-04-76, Nancy, Hurucan Buceo
+18, Julien Féret, FRA, M, 1.87, 74, 05-07-82, Saint Brieuc, Reims
+19, Samba Diakité, MLI, M, 1.86, 76, 24-01-89, Montfermeil, None
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, None
+22, Florian Marange, FRA, D, 1.76, 70, 03-03-86, Talence, Bordeaux
+23, Jonathan Brison, FRA, M, 1.79, 73, 07-02-83, Soissons, None
+25, Reynald Lemaître, FRA, M, 1.75, 66, 28-06-83, Chambray-lès-Tours, Caen
+26, Cheikh Diabaté, MLI, F, 1.94, 84, 25-04-88, Bamako, Bordeaux
+27, Abdeslam Ouaddou, MAR, D, 1.90, 78, 01-11-78, Ksar Azekour, Valenciennes
+28, Floyd Ayité, TOG, M, 1.74, 68, 15-12-88, Bordeaux, Bordeaux
+29, Alfred N'Diaye, FRA, M, 1.87, 87, 06-03-90, Paris, None
+30, Johan Lapeyre, FRA, G, 1.78, 76, 03-08-85, Le Plessis-Bouchard, None
+33, Aatif Chahechouhe, FRA, M, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Noisy-le-Sec
+40, Rémi Pillot, FRA, G, 1.87, 80, 27-07-90, Besançon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Monsef Zerka, MAR, M, 1.83, 80, 31-08-81, Orléans, Nantes
+24, Benjamin Gavanon, FRA, M, 1.80, 75, 09-08-80, Marseille, Sochaux (On Loan)
+19, Basile Camerling, FRA, F, 1.85, 84, 19-04-87, Laxou, Amiens (On Loan)
+21, Jean Calvé, FRA, D, 1.83, 78, 30-04-84, Cormeilles-en-Parisis, Grenoble (On Loan)
+9, Veigar Páll Gunnarsson, ISL, F, 1.76, 74, 21-03-80, Reykjavik, Stabæk

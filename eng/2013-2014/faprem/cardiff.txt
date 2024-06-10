@@ -1,0 +1,54 @@
+=  Cardiff City - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.91, 83, 05-03-85, Glasgow, Norwich C
+2, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+3, Andrew Taylor, ENG, D, 1.78, 69, 01-08-86, Hartlepool, Middlesbrough
+4, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, Tottenham H
+5, Mark Hudson, ENG, D, 1.85, 78, 30-03-82, Guildford, Charlton Ath
+6, Ben Turner, ENG, D, 1.93, 91, 21-01-88, Birmingham, Coventry C
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Gary Medel, CHI, M, 1.72, 71, 03-08-87, Santiago, Sevilla
+9, Kenwyne Jones, TRI, F, 1.88, 75, 05-10-84, Point Fortin, Stoke C
+10, Fraizer Campbell, ENG, F, 1.80, 78, 13-09-87, Huddersfield, Sunderland
+13, Kim Bo-Kyung, KOR, M, 1.78, 73, 06-10-89, Gurye, Cerezo Osaka
+14, Tommy Smith, ENG, F, 1.73, 72, 22-05-80, Hemel Hempstead, QPR
+15, Magnus Eikrem, NOR, M, 1.73, 69, 08-08-90, Molde, SC Heerenveen
+16, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazackerly, Brighton & HA
+17, Aron Gunnarsson, ISL, M, 1.77, 70, 22-04-89, Akureyri, Coventry C
+18, Jordon Mutch, ENG, M, 1.75, 65, 02-12-91, Birmingham, Birmingham C
+19, Don Cowie, SCO, M, 1.80, 74, 15-02-83, Inverness, Watford
+20, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Plymouth Arg
+24, Simon Lappin, SCO, M, 1.80, 60, 25-01-83, Glasgow, Norwich C
+25, Kevin McNaughton, SCO, D, 1.78, 66, 28-08-82, Dundee, Aberdeen
+27, Cala, ESP, D, 1.85, 78, 26-11-89, Lebrija, Sevilla
+28, Kévin Theophile Catherine, FRA, M, 1.80, 77, 28-10-89, Saint Brieuc, Rennes
+29, Mats Møller Dæhli, NOR, M, 1.77, 72, 02-03-95, Oslo, Molde
+30, Maximiliano Amondarain, URU, D, 1.86, 79, 22-01-93, Salto, Nacional [URU]
+31, Ben Nugent, ENG, D, 1.86, 75, 28-11-93, Street, None
+32, Joe Lewis, ENG, G, 1.98, 85, 06-10-87, Broome, Peterborough U
+34, Jo Inge Berget, NOR, F, 1.84, 78, 11-09-90, Oslo, Molde
+35, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Manchester U
+36, Wilfried Zaha, ENG, F, 1.80, 66, 10-11-92, Abidjan, Manchester U
+37, Tom James, WAL, D, , , , , None
+39, Craig Bellamy, WAL, F, 1.75, 69, 13-07-79, Cardiff, Liverpool
+40, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Wycombe W
+41, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, None
+42, Declan John, WAL, M, 1.78, 75, 30-06-95, Merthyr Tydfil, None
+43, Theo Wharton, WAL, M, 1.78, 68, 15-11-94, Newport, None
+44, Luke Coulson, ENG, D, 1.79, 71, 06-03-94, St Helens, Manchester C
+45, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, None
+46, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Gap Connah's Quay
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Blackburn R
+26, Filip Kiss, SVK, M, 1.86, 75, 13-10-90, Dunajská Streda, Ross Co (On Loan)
+23, Nicky Maynard, ENG, F, 1.80, 70, 11-12-86, Winsford, Wigan Ath (On Loan)
+12, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U (On Loan)
+11, Peter Odemwingie, NGA, F, 1.82, 74, 15-07-81, Tashkent, Stoke C
+27, Etien Velikonja, SVN, F, 1.77, 72, 26-12-88, Šempeter pri Gorici, Rio Ave (On Loan)
+33, Simon Moore, ENG, G, 1.91, 83, 19-05-90, Sandown, Bristol C (On Loan)
+9, Andreas Cornelius, DEN, F, 1.92, 89, 16-03-93, Copenhagen, FC København
+22, Craig Conway, SCO, M, 1.70, 67, 02-05-85, Irvine, Blackburn R

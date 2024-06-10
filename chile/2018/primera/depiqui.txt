@@ -1,0 +1,39 @@
+=  Deportes Iquique - Chilean Primera División 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rodrigo Naranjo, CHI, G, 1.92, 89, 30-08-79, Santiago, Coquimbo Unido
+3, Matías Blázquez, CHI, D, 1.87, 84, 08-05-91, Viña del Mar, Everton (Viña del Mar)
+4, Carlos Sierra, COL, M, 1.77, 75, 25-10-90, Barranquilla, Deportivo Lara
+5, Abel Hidalgo, CHI, D, 1.75, 70, 13-04-98, Iquique, None
+6, Eduardo Farías, CHI, M, 1.79, 72, 01-01-89, Lo Prado, Deportes Magallanes
+7, Jonathan Rebolledo, CHI, M, 1.70, 65, 22-10-91, Iquique, None
+8, Mauricio Zenteno, CHI, D, 1.73, 76, 21-04-84, Linares, Deportes La Serena
+9, Leonardo Espinoza, CHI, F, 1.80, 82, 01-10-92, Recoleta, Santiago Morning
+11, Hans Salinas, CHI, M, 1.71, 74, 23-04-90, El Salvador [CHI], Deportes La Serena
+12, Julio Bórquez, CHI, G, 1.78, 79, 20-04-00, Iquique, None
+14, Nicolás Peñailillo, CHI, D, 1.76, 75, 13-06-91, Viña del Mar, Everton (Viña del Mar)
+15, Michael Ríos, CHI, M, 1.73, 68, 19-06-84, Santiago, Colo-Colo
+16, Edwuin Pernía, VEN, F, 1.78, 77, 12-02-95, San Juan de Los Morros, Caracas
+17, Alan Moreno, CHI, D, 1.75, 65, 30-10-95, Iquique, None
+18, Misael Cubillos, CHI, F, 1.75, 67, 06-02-96, Iquique, None
+19, Esteban Carvajal, CHI, M, 1.73, 70, 17-11-88, Catemu, Palestino
+20, Luis Bustamante, ARG, M, 1.70, 70, 11-12-85, Ucacha, Levadiakos
+21, Raúl Becerra, ARG, F, 1.87, 82, 01-10-87, Río Gallegos, Everton (Viña del Mar)
+22, Leonardo Rolón, ARG, M, 1.71, 65, 19-01-95, Rosario, Arsenal [ARG]
+23, Ignacio Sotomayor, CHI, G, 1.80, 70, 04-12-96, Iquique, None
+24, Diego Fernández, CHI, M, 1.75, 70, 08-03-98, Loncoche, None
+25, Maximiliano Mori, CHI, G, 1.85, 70, 11-11-97, Iquique, None
+26, Hernán Lópes, ARG, D, 1.80, 80, 28-03-91, Lomas de Zamora, Estudiantes (BA)
+27, Michael Fuentes, CHI, F, 1.70, 71, 27-05-98, Iquique, None
+28, Johan Fuentes, CHI, M, 1.69, 68, 02-02-84, Santiago, Cobresal
+29, Pablo Corral, CHI, M, 1.71, 66, 16-01-92, Ovalle, Deportes Antofagasta
+30, Juan Pablo Miño, ARG, M, 1.81, 82, 23-08-87, Rosario, Audax Italiano
+33, Johan Castillo, CHI, F, 1.65, 56, 17-03-99, Iquique, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Leonardo Melazzi, URU, M, 1.75, 66, 04-02-91, Montevideo, Liverpool [URU]
+13, Lucas Fernández, CHI, D, 1.84, 78, 24-05-95, Iquique, Provincial Osorno
+32, Nicolás Royón, URU, F, 1.72, 66, 28-01-91, Las Piedras, Patronato (Paraná)
+10, Diego Torres, ARG, M, 1.74, 70, 06-11-90, Villa Nueva, Chapecoense

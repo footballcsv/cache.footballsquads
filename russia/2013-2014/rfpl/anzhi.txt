@@ -1,0 +1,59 @@
+=  Anzhi Makhachkala - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Evgeniy Pomazan, RUS, G, 1.93, 85, 31-01-89, Angren, CSKA Moscow
+2, Andrei Yeschenko, RUS, D, 1.76, 74, 09-02-84, Irkutsk, Lokomotiv Moscow
+3, Ali Gadzhibekov, RUS, D, 1.80, 72, 06-08-89, Makhachkala, Anzhi-2
+4, Benoît Angbwa, CMR, D, 1.76, 76, 01-01-82, Garoua, Krylia Sovetov
+5, Gia Grigalava, RUS, D, 1.90, 89, 05-08-89, Kutaisi, Krylia Sovetov
+6, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, Dynamo Moscow
+7, Kamil Agalarov, RUS, M, 1.78, 70, 11-06-88, Makhachkala, FC Rostov
+8, Oleksandr Aliyev, UKR, M, 1.73, 72, 03-02-85, Khabarovsk, Dynamo Kyiv
+10, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Dynamo Moscow
+13, Rasim Tagirbekov, RUS, D, 1.83, 81, 04-05-84, Makhachkala, Anzhi-2
+15, Diniyar Bilyaletdinov, RUS, M, 1.86, 77, 27-02-85, Moscow, Spartak Moscow
+16, Karlen Mkrtchyan, ARM, M, 1.75, 76, 25-11-88, Yerevan, Metalurh Donetsk
+17, Sharif Mukhammad, RUS, M, 1.84, 72, 21-03-90, Makhachkala, Anzhi-2
+20, Vladimir Sobolev, RUS, M, 1.67, 65, 30-07-91, Gukovo, Dynamo Moscow
+22, Mikhail Kerzhakov, RUS, G, 1.89, 84, 28-01-87, Kingisepp, Volga Nizhny Novgorod
+25, Odil Ahmedov, UZB, M, 1.82, 70, 25-11-87, Namangan, Pakhtakor
+27, Mekhti Dzhenetov, RUS, G, 1.90, 83, 26-01-92, Makhachkala, Anzhi-2
+28, Serder Serderov, RUS, F, 1.76, 69, 10-03-94, Makhachkala, CSKA Moscow
+30, Aleksandr Bukharov, RUS, F, 1.91, 83, 12-03-85, Naberezhnye Chelny, Zenit St Petersburg
+33, Anvar Gazimagomedov, RUS, M, 1.72, 63, 10-05-88, Makhachkala, Dagdizel Kaspiysk
+34, Vladimir Bystrov, RUS, M, 1.78, 69, 31-01-84, Luga, Zenit St Petersburg
+37, Ewerton, BRA, D, 1.88, 81, 23-03-89, Penedo, Corinthians Alagoano
+39, Gustavo Blanco Leschuk, ARG, F, 1.91, 85, 05-11-91, Mendoza, Arsenal [ARG]
+44, Murad Kurbanov, RUS, D, 1.74, 63, 22-03-92, Makhachkala, Anzhi-2
+66, Islam Suleymanov, RUS, M, 1.73, 64, 02-06-93, Tsakhur, Anzhi-2
+70, Yuriy Udunyan, ARM, D, 1.73, 63, 25-08-94, Makhachkala, Anzhi-2
+80, Aleksandr Troshechkin, RUS, M, 1.83, 78, 23-04-96, Moscow, Lokomotiv Moscow-2
+81, Nikita Burmistrov, RUS, F, 1.81, 75, 06-07-89, Moscow, Amkar Perm
+87, Ilya Maksimov, RUS, M, 1.83, 74, 02-02-87, Nizhny Novgorod, Krylia Sovetov
+91, Makhach Gadzhiev, RUS, M, 1.81, 73, 18-10-87, Kizilyurt, Amkar Perm
+99, Islamnur Abdulavov, RUS, F, 1.85, 80, 07-03-94, Makhachkala, Dynamo Kyiv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Oleg Shatov, RUS, M, 1.73, 64, 29-07-90, Nizhny Tagil, Zenit St Petersburg
+7, Igor Denisov, RUS, M, 1.76, 75, 17-05-84, St. Petersburg, Dynamo Moscow
+18, Yuriy Zhirkov, RUS, M, 1.80, 75, 20-08-83, Tambov, Dynamo Moscow
+91, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Dynamo Moscow
+6, Mbark Boussoufa, MAR, M, 1.68, 58, 15-08-84, Amsterdam, Lokomotiv Moscow
+85, Lassana Diarra, FRA, M, 1.73, 68, 10-03-85, Paris, Lokomotiv Moscow
+5, João Carlos, BRA, D, 1.89, 85, 01-01-82, Realengo, Spartak Moscow
+10, Willian, BRA, M, 1.74, 70, 09-08-88, Ribeirão Pires, Chelsea
+9, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Chelsea
+1, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Dynamo Moscow
+4, Christopher Samba, CGO, D, 1.93, 91, 28-03-84, Créteil, Dynamo Moscow
+21, Aleksey Ionov, RUS, M, 1.77, 68, 18-02-89, Kingisepp, Dynamo Moscow
+15, Arseniy Logashov, RUS, D, 1.83, 68, 20-08-91, Kursk, Lokomotiv Moscow
+33, Mehdi Carcela-Gonzalez, MAR, M, 1.76, 67, 01-07-89, Liège, Standard Liège
+10, Alan Gatagov, RUS, M, 1.80, 71, 23-01-91, Vladikavkaz, Dynamo Moscow
+14, Pavel Solomatin, RUS, F, 1.76, 73, 04-04-93, Tolyatti, Dynamo Moscow
+19, Lacina Traoré, CIV, F, 1.86, 75, 20-08-90, Abidjan, Monaco
+8, Jucilei, BRA, M, 1.85, 76, 06-04-88, São Gonçalo, Al-Jazira
+15, Vladim Demidov, NOR, D, 1.85, 73, 10-10-86, Riga, Brann
+24, Dele Adeleye, NGA, D, 1.89, 76, 25-12-88, Lagos, Ergotelis
+29, Abdul Razak, CIV, M, 1.80, 76, 11-11-92, Bouaké, West Ham U

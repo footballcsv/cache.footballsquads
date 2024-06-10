@@ -1,0 +1,38 @@
+=  Unión Española - Chilean Primera División 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan José Echave, CHI, G, 1.80, 68, 24-01-01, , None
+2, Nelson Córdova, CHI, D, 1.70, 73, 31-03-98, Recoleta, None
+3, Tomás Quintana, CHI, D, 1.81, 73, 27-01-00, , None
+4, Nicolás Fuentes, CHI, D, , , 31-08-99, Renca, None
+5, Santiago Gallucci, ARG, M, 1.79, 69, 08-03-91, Ramallo, Douglas Haig (Pergamino)
+6, Ramiro González, ARG, D, 1.83, 83, 21-11-90, Rosario, Instituto (Córdoba)
+7, Juan Pablo Gómez, ARG, D, 1.82, 81, 11-05-91, Mendoza, San Luis de Quillota
+8, Israel Poblete, CHI, M, 1.71, 70, 22-06-95, Santiago, Cobresal
+9, Tobías Figueroa, ARG, F, 1.91, 90, 13-04-92, Mar del Plata, Belgrano (Córdoba)
+11, José Luis Sierra, CHI, F, 1.82, 71, 24-06-97, Las Condes, None
+13, Diego Sánchez, CHI, G, 1.81, 85, 08-05-87, La Granja, Unión San Felipe
+14, Misael Dávila, CHI, D, 1.72, 67, 17-07-91, Iquique, Deportes Iquique
+16, Carlos Muñoz, CHI, F, 1.74, 69, 21-04-89, Valparaíso, Talleres (Córdoba)
+17, Jorge Ampuero, CHI, D, 1.83, 80, 17-04-87, Huechuraba, None
+18, Luis Pavez, CHI, M, 1.74, 70, 25-06-88, Santiago, Celaya
+20, Ramiro Carrera, ARG, M, 1.82, 72, 24-10-93, Tolosa, Arsenal [ARG]
+21, Gary Tello, CHI, M, 1.75, 71, 11-04-93, Ovalle, Curicó Unido
+22, Cristián Guerra, CHI, G, 1.83, 83, 09-08-94, Mejillones, None
+23, Sebastián Jaime, ARG, F, 1.76, 72, 30-01-87, La Plata, Real Salt Lake
+24, Ángelo Pizzorno, URU, D, 1.85, 82, 21-10-91, Santa Lucia, Cerro
+25, Carlos Palacios, ESP, F, 1.82, 75, 20-07-00, Renca, None
+26, Thomas Galdames, CHI, D, 1.79, 72, 20-11-98, Santiago, None
+28, Ignacio Núñez, CHI, M, 1.71, 66, 15-01-99, Recoleta, None
+29, Luis Pavez, CHI, D, 1.75, 67, 17-09-95, Santiago, Colo-Colo
+30, Victor Méndez, CHI, M, 1.70, 66, 23-09-99, Valdivia, None
+31, Mauro Maureira, CHI, M, 1.70, 69, 01-06-01, Mendoza, None
+33, Benjamín Galdames, CHI, M, 1.70, 61, 24-02-01, Santiago, None
+35, Bastián Yáñez, CHI, F, 1.72, 80, 27-06-01, Santiago, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Fernando Cornejo, CHI, D, 1.83, 77, 13-04-94, Santiago, Deportes Puerto Montt (On Loan)
+10, Pablo Aránguiz, CHI, M, 1.72, 65, 17-03-97, Independencia, FC Dallas
+27, Pablo Galdames, CHI, M, 1.72, 62, 30-12-96, Santiago, Vélez Sarsfield

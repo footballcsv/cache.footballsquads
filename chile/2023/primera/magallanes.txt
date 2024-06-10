@@ -1,0 +1,40 @@
+=  Magallanes - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gastón Rodríguez, URU, G, 1.85, 85, 12-02-94, Montevideo, Deportes Valdivia
+2, Fernando Piñero, ARG, D, 1.99, 91, 16-02-93, San José de la Esquina, Atlético Rafaela
+3, Albert Acevedo, CHI, D, 1.76, 74, 06-05-83, Santiago, O'Higgins
+4, Matías Vásquez, CHI, D, 1.80, 81, 12-01-03, -, None
+5, Cristián Vilches, CHI, D, 1.82, 80, 27-10-83, Santiago, Unión La Calera
+6, Nicolás Berardo, ARG, D, 1.77, 63, 26-07-90, San Basilio, Coquimbo Unido
+7, Julián Alfaro, CHI, F, 1.76, 62, 02-09-01, Quinta Normal, Universidad de Chile
+8, Manuel Vicuña, CHI, M, 1.62, 66, 31-10-99, El Quisco, None
+9, Joaquín Larrivey, ARG, F, 1.85, 82, 20-08-84, Gualeguay, Südtirol
+10, Tomás Aránguiz, CHI, M, 1.89, 82, 15-04-97, Independencia, Deportes Santa Cruz
+11, Yorman Zapata, COL, F, 1.70, 70, 01-09-00, El Charco, Universidad Católica
+12, Martín Riffo, CHI, G, 1.87, 85, 03-12-03, -, None
+14, Felipe Espinoza, CHI, D, 1.80, 74, 20-09-99, -, None
+15, Nicolás Crovetto, CHI, D, 1.75, 70, 15-03-86, Coquimbo, Audax Italiano
+17, Felipe Flores, CHI, F, 1.73, 73, 09-01-87, Santiago, Barnechea
+18, Javier Quiroz, CHI, M, 1.70, 68, 14-11-00, -, None
+19, Iván Vásquez, CHI, M, 1.68, 71, 13-08-85, Lautaro, Audax Italiano
+20, Yéiler Góez, COL, M, 1.79, 75, 01-11-99, Medellín, Atlético Nacional
+21, Carlos Villanueva, CHI, M, 1.75, 71, 05-02-86, La Serena, Palestino
+22, Thomas Jones, CHI, M, 1.71, 66, 25-09-97, Providencia, Deportes Santa Cruz
+23, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Deportes La Serena
+24, Andrés Souper, CHI, M, 1.73, 70, 06-05-99, New York, Deportes Antofagasta
+26, Nicolás Nuñez Marambio, CHI, M, 1.66, 69, 13-06-01, -, None
+27, Alfred Canales, CHI, M, 1.89, 73, 27-04-00, San Ramón, Audax Italiano
+28, Alonso Barría, CHI, F, 1.80, 78, 12-02-05, -, None
+29, Alonso Walters, CHI, D, -, -, 06-10-04, -, None
+30, Diego Tapia, CHI, G, 1.81, 70, 07-05-95, Arica, Barnechea
+35, Sebastián Parraguez, CHI, G, 1.85, 75, 17-07-99, Santiago, None
+36, Simón Contreras, CHI, D, 1.78, 70, 29-03-02, Peñalolén, Universidad de Chile
+41, Jorge Deschamps, CHI, G, 1.82, 77, 13-05-84, Santiago, Cobresal
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Marcelo Filla, CHI, D, 1.76, 64, 14-02-98, Puente Alto, Cobresal
+38, Francisco Peña, CHI, M, -, -, 11-08-03, -, Deportes Concepción (On Loan)
+9, Felipe Cadenazzi, ARG, F, 1.89, 86, 12-10-91, Arroyo Aguiar, Borneo Samarinda

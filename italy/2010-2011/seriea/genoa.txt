@@ -1,0 +1,52 @@
+=  Genoa - Italian Serie A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eduardo, POR, G, 1.87, 84, 19-09-82, Mirandela, Sporting Braga
+2, Chico, ESP, D, 1.87, 75, 06-03-87, Cádiz, Almería
+3, Dario Dainelli, ITA, D, 1.91, 83, 06-09-79, Pontedera, Fiorentina
+4, Domenico Criscito, ITA, D, 1.83, 70, 30-12-86, Cercola, Juventus
+5, Abdoulay Konko, FRA, M, 1.82, 71, 09-03-84, Marseille, Sevilla
+7, Marco Rossi, ITA, M, 1.79, 69, 01-04-78, Serravezza, Como
+8, Rodrigo Palacio, ARG, F, 1.75, 66, 05-02-82, Bahía Blanca, Boca Juniors
+9, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, Wigan Ath
+11, Federico Rodríguez, URU, F, 1.85, 74, 03-04-91, Montevideo, Peñarol
+13, Kakha Kaladze, GEO, D, 1.86, 76, 27-02-78, Samtraedia, Milan
+15, Riccardo Carlini, ITA, D, 1.78, 70, 27-02-91, Genoa, None
+18, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Schalke
+19, Andrea Doninelli, ITA, M, 1.78, 76, 29-04-91, Cosenza, Cosenza
+20, Giandomenico Mesto, ITA, M, 1.80, 65, 25-05-82, Modugno, Reggina
+21, Elhennio Candia Canete, PAR, F, , , 27-12-93, San Josè de Los Arroyos, None
+22, Mattia Destro, ITA, F, 1.81, 73, 20-03-91, Ascoli Piceno, Internazionale
+23, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Parma
+24, Emiliano Moretti, ITA, D, 1.85, 80, 11-06-81, Catanzaro, Valencia
+25, Richmond Boakye, GHA, F, 1.85, 80, 28-01-93, Accra, None
+29, Enej Jelenič, SVN, F, 1.80, 74, 11-12-92, Koper, Koper
+30, Stefano Sturaro, ITA, M, 1.89, 79, 09-03-93, Sanremo, None
+31, Davide Bertoncini, ITA, D, 1.85, 69, 09-05-91, Fiorenzuola, Piacenza
+33, Juraj Kucka, SVK, M, 1.86, 84, 26-02-87, Bojnice, Sparta Prague
+35, Diego Polenta, URU, D, 1.85, 82, 06-02-92, New York, Danubio
+42, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Sporting CP
+43, Alberto Paloschi, ITA, F, 1.75, 68, 04-01-90, Chiari, Parma
+71, Boško Janković, SRB, M, 1.83, 77, 01-03-84, Belgrade, Palermo
+73, Alessio Scarpi, ITA, G, 1.88, 81, 19-04-73, Jesolo, Internazionale
+77, Omar Milanetto, ITA, M, 1.70, 70, 30-11-75, Venaria, Modena
+83, Antonio Floro Flores, ITA, F, 1.81, 68, 18-06-83, Naples, Udinese
+88, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, None
+91, Roberto Stillo, CAN, G, 1.88, 85, 15-03-91, Mississauga, None
+93, Ettore Oddo, ITA, G, , , 23-08-93, Sanremo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Rubin Kazan
+13, Ivan Fatić, MNE, D, 1.88, 83, 21-08-88, Pljevlja, Cesena (On Loan)
+68, Anthony Vanden Borre, BEL, D, 1.85, 80, 24-10-87, Likasi, KRC Genk
+16, Andrea Ranocchia, ITA, D, 1.90, 80, 16-02-88, Assisi, Internazionale
+5, Nenad Tomović, SRB, D, 1.84, 74, 30-08-87, Kragujevac, Lecce (On Loan)
+10, Raffaele Palladino, ITA, F, 1.82, 68, 17-04-84, Mugnano di Napoli, Parma
+23, Francesco Modesto, ITA, D, 1.77, 73, 16-02-82, Crotone, Parma
+9, Luca Toni, ITA, F, 1.96, 94, 26-05-77, Pavullo nel Frignano, Juventus
+17, Gergely Rudolf, HUN, F, 1.76, 77, 09-03-85, Nyiregyhaza, Bari (On Loan)
+14, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Lazio
+11, Houssine Kharja, MAR, M, 1.81, 77, 09-11-82, Poissy, Internazionale (On Loan)
+36, Franco Zuculini, ARG, M, 1.74, 69, 05-09-90, La Rioja, 1899 Hoffenheim

@@ -1,0 +1,41 @@
+=  Universidad Católica - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Bolívar
+2, Germán Lanaro, ARG, D, 1.86, 84, 21-03-86, Villa Regina, Palestino
+5, Valber Huerta, CHI, D, 1.85, 77, 26-08-93, Melipilla, Watford
+6, César Fuentes, CHI, M, 1.73, 70, 12-04-93, Rancagua, O'Higgins
+7, Sebastián Saez, ARG, F, 1.76, 80, 24-01-85, Santiago del Estero, Emirates Club
+8, Jaime Carreño, CHI, M, 1.66, 65, 03-03-97, Recoleta, None
+9, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, Dalian Yifang
+10, Edson Puch, CHI, M, 1.68, 72, 09-04-86, Iquique, Pachuca
+11, Luciano Aued, ARG, M, 1.78, 70, 01-03-87, La Plata, Racing Club
+12, Marcelo Suárez, CHI, G, 1.86, 80, 21-08-00, Quillota, None
+13, Benjamín Kuščević, CHI, D, 1.85, 80, 02-05-96, Santiago, None
+14, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Colo-Colo
+15, Yerco Oyanedel, CHI, D, 1.70, 72, 19-09-00, Santiago, None
+16, Jeisson Vargas, CHI, F, 1.60, 60, 15-09-97, Recoleta, Montreal Impact
+17, Cristopher Toselli, CHI, G, 1.80, 75, 15-06-88, Antofagasta, None
+18, Diego Buonanotte, ARG, M, 1.60, 56, 19-04-88, Teodelina, AEK
+19, José Pedro Fuenzalida, CHI, M, 1.70, 67, 22-02-85, Santiago, Boca Juniors
+20, Carlos Lobos, CHI, M, 1.73, 70, 21-02-97, Santiago, None
+21, Raimundo Rebolledo, CHI, D, 1.71, 63, 14-05-97, Concepción, None
+22, David Henríquez, CHI, F, 1.73, 65, 12-02-99, Antofagasta, None
+23, Juan Francisco Cornejo, CHI, D, 1.77, 78, 27-09-90, Pichidegua, León
+24, Ignacio Saavedra, CHI, M, 1.72, 63, 12-01-99, Yumbel, None
+26, Alfonso Parot, CHI, D, 1.80, 74, 15-10-89, Talca, Rosario Central
+27, César Munder, CUB, M, 1.65, 57, 07-01-00, Havana, None
+29, Stefano Magnasco, CHI, D, 1.75, 72, 28-09-92, Santiago, FC Groningen
+30, Diego Valencia, CHI, F, 1.81, 68, 14-01-00, La Serena, None
+31, Enzo Ferrario, CHI, D, 1.82, 75, 03-03-00, Santiago, Barnechea
+33, Francisco Silva, CHI, M, 1.78, 75, 11-02-86, Santiago, Independiente
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Diego Rojas, CHI, M, 1.63, 60, 15-02-95, Antofagasta, Unión La Calera (On Loan)
+26, Benjamin Vidal, CHI, D, 1.79, 68, 18-03-91, Doñihue, Coquimbo Unido (On Loan)
+3, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, Re-Registered (9)
+9, Edson Puch, CHI, M, 1.68, 72, 09-04-86, Iquique, Re-Registered (10)
+4, Vicente Fernández, CHI, D, 1.80, 66, 17-02-99, San Bernardo, Santiago Morning (On Loan)
+25, Juan Carlos Espinoza, CHI, D, 1.70, 65, 05-07-91, Rancagua, Audax Italiano (On Loan)

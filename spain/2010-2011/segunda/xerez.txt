@@ -1,0 +1,36 @@
+=  Xerez - Spanish Segunda Divisón A 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chema, ESP, G, 1.87, 85, 25-04-80, Orihuela, Alicante
+2, Juan Luis Redondo, ESP, D, 1.77, 72, 17-01-77, Seville, Hércules
+3, Jesús Mendoza, ESP, D, 1.75, 71, 23-02-77, Jerez de la Frontera, Portuense
+4, David Lombán, ESP, D, 1.85, 74, 05-06-87, Valencia, Valencia B
+5, Bruno, ESP, M, 1.76, 74, 13-02-85, Jerez de la Frontera, Murcia
+6, Vicente Moreno, ESP, M, 1.88, 77, 26-10-74, Massanasa, Gaudix
+7, Edu Moyá, ESP, D, 1.75, 71, 03-01-81, Monasterio, Hércules
+8, Antoñito, ESP, F, 1.76, 75, 02-02-78, Seville, Sevilla
+9, Mario Bermejo, ESP, F, 1.80, 78, 07-10-78, Santander, Almería
+10, Óscar Díaz, ESP, F, 1.85, 76, 24-04-84, Madrid, Mallorca
+11, José Vega, ESP, M, 1.76, 71, 10-04-81, Jerez de la Frontera, Córdoba
+12, Leandro Gioda, ARG, D, 1.92, 87, 01-10-84, Pérez, Independiente
+13, Francisco Javier Lledó, ESP, G, 1.86, 82, 11-07-79, Seville, Castellón
+14, Capi, ESP, M, 1.78, 72, 26-03-77, Capas, Betis
+15, Miguel Ángel Cordero, ESP, M, 1.79, 72, 10-09-87, Lebrija, Real Madrid B
+16, Gerard, ESP, D, 1.86, 72, 08-10-78, Manlleu, Sporting Gijón
+17, Rafa Barber, ESP, M, 1.83, 77, 02-10-80, Aielo de Marferit, Recreativo Huelva
+18, Pablo Redondo, ESP, M, 1.83, 68, 17-04-82, Valencia, Nàstic
+19, Capdevila, ESP, M, 1.80, 72, 12-02-81, Zaragoza, Murcia
+20, Héctor Font, ESP, M, 1.70, 66, 15-06-84, Villarreal, Valladolid
+21, Raúl Llorente, ESP, D, 1.71, 67, 02-04-86, Madrid, Alavés
+23, José Mari, ESP, F, 1.83, 74, 10-12-78, Seville, Nàstic
+24, Miguel Ángel Nieto, ESP, M, 1.83, 77, 12-01-86, Madrid, Almería
+26, Joaqui, ESP, D, 1.78, 74, 31-05-91, Chipiona, Xerez B
+27, Adri Cuevas, ESP, M, 1.82, 70, 10-01-90, Jerez de la Frontera, Xerez B
+28, Luisma, ESP, F, 1.80, 72, 04-10-89, Jerez de la Frontera, Xerez B
+29, Juanito Rosillo, ESP, F, 1.73, 70, 10-04-88, Jerez de la Frontera, Xerez B
+30, Toni, ESP, G, 1.90, 74, 15-02-88, Jerez de la Frontera, Xerez B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Bruno Perone, BRA, D, 1.91, 87, 06-07-87, São Paulo, Tombense

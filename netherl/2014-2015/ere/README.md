@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2014/15
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [SC Cambuur](cambuur.txt)
+- [FC Dordrecht](dordrecht.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [Go Ahead Eagles](goahead.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NAC Breda](nacbreda.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [Willem II](willem.txt)

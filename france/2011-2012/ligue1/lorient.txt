@@ -1,0 +1,43 @@
+=  Lorient - French Ligue 1 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Lecomte, FRA, G, 1.86, 78, 26-04-91, Paris, Niort
+2, Lamine Koné, FRA, D, 1.86, 83, 01-02-89, Paris, Châteauroux
+3, Pedrinho, POR, D, 1.77, 73, 06-03-85, Vila do Conde, Académica
+4, Alaixys Romao, TOG, M, 1.80, 74, 18-01-84, L'Hay-les-Roses, Grenoble
+5, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Angers
+6, Grégory Bourillon, FRA, D, 1.87, 74, 01-07-84, Laval, Paris St-Germain
+7, Arnold Mvuemba, FRA, M, 1.72, 67, 28-01-85, Alencon, Portsmouth
+8, Yann Jouffre, FRA, M, 1.75, 65, 23-07-84, Montélimar, Guingamp
+9, Innocent Emeghara, SUI, F, 1.70, 68, 27-05-89, Lagos, Grasshoppers
+10, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, Monaco
+11, Sigamary Diarra, MLI, M, 1.74, 71, 10-01-84, Villepinte, Tours
+12, Lucas Mareque, ARG, D, 1.68, 82, 12-01-83, Morón, Independiente
+13, Ladislas Douniama, CGO, F, 1.63, 62, 24-05-86, Brazzaville, Guingamp
+14, Arnaud Le Lan, FRA, D, 1.71, 60, 22-03-78, Pontivy, Guingamp
+15, Jérémie Aliadière, FRA, F, 1.83, 70, 30-03-83, Rambouillet, Middlesbrough
+16, Fabien Audard, FRA, G, 1.88, 89, 28-03-78, Toulouse, Bastia
+17, Maxime Baca, FRA, D, 1.71, 68, 02-06-83, Corbeil Essonnes, Le Havre
+18, Gilles Sunu, FRA, F, 1.80, 70, 30-03-91, Châteauroux, Arsenal
+19, Tristan Do, FRA, F, 1.70, 64, 31-01-93, Paris, Strasbourg
+21, Cheick Doukouré, FRA, M, 1.80, 72, 11-09-92, Abidjan, None
+22, Kévin Monnet-Paquet, FRA, F, 1.83, 73, 19-08-88, Bourgoin-Jallieu, Lens
+23, Mathias Autret, FRA, M, 1.79, 64, 01-03-91, Morlaix, Brest
+24, Wesley Lautoa, FRA, D, 1.72, 65, 25-08-87, Épernay, Sedan
+25, Lamine Gassama, SEN, D, 1.81, 74, 20-10-89, Marseille, Lyon
+26, Remi Mulumba, FRA, M, 1.78, 70, 02-11-92, Abbeville, Amiens
+27, Julien Quercia, FRA, F, 1.68, 65, 17-08-86, Thionville, Auxerre
+28, Maxime Barthelme, FRA, M, 1.77, 65, 08-09-88, Sartrouville, Racing Club de France
+30, Florent Chaigneau, FRA, G, 1.97, 94, 21-03-84, La Roche-sur-Yon, Le Poiré-sur-Vie
+33, Simon Falette, FRA, D, 1.84, 90, 19-02-92, Le Mans, None
+36, Joel Campbell, CRC, F, 1.78, 70, 26-06-92, San José [CRC], Arsenal
+40, Jérémie Janot, FRA, G, 1.76, 75, 11-10-77, Valenciennes, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Lynel Kitambala, FRA, F, 1.77, 72, 26-10-88, Creil, St-Etienne
+25, Gabriel Peñalba, ARG, M, 1.80, 75, 23-09-84, Quilmes, Argentinos Juniors
+24, Adama Touré, MLI, M, 1.85, 80, 28-08-91, Bamako, Sporting Gijón B
+20, Sebastián Dubarbier, ARG, F, 1.79, 74, 19-02-86, La Plata, Córdoba (On Loan)
+29, Fabien Robert, FRA, F, 1.74, 67, 06-01-89, Hennebont, Doncaster R (On Loan)

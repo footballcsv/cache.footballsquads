@@ -1,0 +1,40 @@
+=  San Lorenzo - Argentinian Primera División 2013/14 Final
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, Espanyol
+2, Mauro Cetto, ARG, D, 1.82, 78, 14-04-82, Rosario, Palermo
+3, Germán Voboril, ARG, D, 1.75, 73, 05-05-87, Lanús, None
+4, Gonzalo Prósperi, ARG, D, 1.76, 76, 28-09-85, Capital Federal, Argentinos Juniors
+5, Juan Mercier, ARG, M, 1.85, 72, 02-02-80, Campana, Al-Wasl
+6, Santiago Gentiletti, ARG, D, 1.82, 77, 09-01-85, Gödeken, Brest
+7, Julio Buffarini, ARG, M, 1.72, 72, 18-08-88, General Cabrera, Ferro Carril Oeste
+8, Enzo Kalinski, ARG, M, 1.83, 72, 10-03-87, Santiago del Estero, Quilmes
+9, Martín Cauteruccio, URU, F, 1.79, 76, 14-04-87, Montevideo, Quilmes
+10, Leandro Romagnoli, ARG, M, 1.72, 61, 17-03-81, Buenos Aires, Sporting CP
+11, Ángel Correa, ARG, M, 1.74, 69, 09-03-95, Rosario, None
+12, Sebastián Torrico, ARG, G, 1.86, 84, 22-02-80, Godoy Cruz, Godoy Cruz (Mendoza)
+13, Ramiro Arias, ARG, D, 1.70, 63, 06-01-93, Trelew, None
+14, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, None
+15, Héctor Villalba, ARG, F, 1.72, 67, 26-07-94, Capital Federal, None
+16, Fernando Elizari, ARG, M, 1.73, 69, 05-04-91, Quilmes, Quilmes
+17, Ezequiel Mastrolia, ARG, G, 1.90, 75, 25-03-91, Capital Federal, None
+19, Leandro Navarro, ARG, M, 1.83, 73, 16-04-92, Mar del Plata, None
+20, Néstor Ortigoza, PAR, M, 1.80, 79, 07-10-84, San Antonio de Padua, Argentinos Juniors
+21, Emmanuel Más, ARG, D, 1.80, 81, 15-01-89, San Juan, San Martín (San Juan)
+22, Nicolás Blandi, ARG, F, 1.81, 79, 13-01-90, Capital Federal, Boca Juniors
+23, Carlos Valdés, COL, D, 1.84, 80, 22-05-85, Cali, Philadelphia Union
+24, Juan Ignacio Cavallaro, ARG, M, 1.71, 68, 28-06-94, Paraná, Unión (Santa Fe)
+26, Mauro Matos, ARG, F, 1.80, 80, 06-08-82, Castelli, All Boys
+27, Matías Catalán, ARG, M, 1.72, 64, 19-08-92, Mar del Plata, None
+28, Ignacio Piatti, ARG, M, 1.81, 75, 04-02-85, General Baldisera, Lecce
+29, Fabricio Fontanini, ARG, D, 1.80, 80, 30-03-90, Rafaela, Atlético Rafaela
+30, Gonzalo Verón, ARG, M, 1.78, 70, 13-12-85, Capital Federal, Sportivo Italiano
+31, Facundo Quignon, ARG, M, 1.77, 73, 02-05-93, Capital Federal, River Plate
+32, Emmanuel Torres, ARG, F, 1.83, 75, 24-06-92, Ciudadela, None
+34, Gabriel Esparza, ARG, M, 1.68, 69, 30-01-93, Capital Federal, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Rodrigo Contreras, ARG, F, 1.75, 70, 27-10-95, San Miguel de Tucumán, Gimnasia y Esgrima (LP) (On Loan)
+25, Pablo Alvarado, ARG, D, 1.80, 75, 27-02-86, El Calafate, Racing Club (On Loan)

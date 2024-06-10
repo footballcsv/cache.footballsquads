@@ -1,0 +1,38 @@
+=  Sandecja Nowy Sącz - Polish Ekstraklasa 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michał Gliwa, POL, G, 1.88, 76, 08-04-88, Rzeszów, Pandurii Târgu Jiu
+2, Jonatan Straus, POL, D, 1.82, 71, 30-06-94, Nowe Miasto Lubawskie, Jagiellonia Białystok
+4, Alexandru Benga, ROU, D, 1.90, 83, 15-06-89, Braşov, Juventus București
+5, Dawid Szufryn, POL, D, 1.91, 82, 29-05-86, Nowy Sącz, Kolejarz Stróże
+6, Plamen Krachunov, BUL, D, 1.89, 77, 11-01-89, Plovdiv, Ethnikos Achna
+7, Grzegorz Baran, POL, M, 1.86, 80, 23-12-82, Przemyśl, GKS Bełchatów
+8, Maciej Małkowski, POL, M, 1.70, 65, 19-03-85, Jastrzębie-Zdrój, GKS Bełchatów
+9, Bartosz Gęsior, POL, M, 1.84, 64, 09-01-98, Chorzów, Ruch Chorzów
+10, Wojciech Trochim, POL, M, 1.80, 76, 31-03-89, Mińsk Mazowiecki, GKS Katowice
+11, Maciej Korzym, POL, F, 1.80, 77, 02-05-88, Nowy Sącz, Górnik Zabrze
+16, Łukasz Radliński, POL, G, 1.87, 83, 02-06-83, Poznań, Kolejarz Stróże
+17, Adrian Basta, POL, D, 1.80, 77, 01-12-88, Nowy Sącz, Górnik Łęczna
+18, Michał Gałecki, POL, M, 1.82, 75, 27-01-96, Rydułtowy, Rozwój Katowice
+20, Adrian Danek, POL, M, 1.80, 66, 01-08-94, Nowy Sącz, Dunajec Nowy Sącz
+21, Mateusz Cetnarski, POL, M, 1.75, 71, 06-07-88, Kolbuszowa, Cracovia Kraków
+22, Patrik Mráz, SVK, D, 1.87, 75, 01-02-87, Púchov, Piast Gliwice
+25, Kacper Tomasik, POL, G, 1.90, 84, 07-07-99, Nowy Sącz, None
+26, Filip Piszczek, POL, F, 1.88, 77, 26-05-95, Nowy Targ, Lubań Maniowy
+28, Michal Piter-Bučko, SVK, D, 1.88, 82, 28-10-85, Prešov, Olimpia Grudziądz
+29, Pavlo Ksonz, UKR, M, 1.76, 69, 02-01-87, Myrhorod, Karpaty Lviv
+31, Wiktor Nowak, POL, F, 1.83, 75, 21-09-98, Nowy Sącz, Dąbrovia Wielogłowy
+33, Bartłomiej Kasprzak, POL, M, 1.72, 56, 12-01-93, Nowy Targ, Widzew Łódź
+37, Bartłomiej Dudzic, POL, M, 1.80, 72, 18-08-88, Oświęcim, Cracovia Kraków
+38, Jakub Grič, SVK, M, 1.80, 75, 05-07-96, Prešov, MFK Zemplín Michalovce
+55, Hubert Maślanka, POL, M, 1.79, 68, 30-05-98, Nowy Sącz, Dunajec Nowy Sącz
+70, Tomasz Brzyski, POL, D, 1.72, 69, 10-01-82, Lublin, Cracovia Kraków
+77, Jakub Bartosz, POL, D, 1.83, 76, 13-08-96, Myślenice, Wisła Kraków
+78, Kacper Smoleń, POL, M, 1.83, 72, 15-02-98, Nowy Sącz, Dunajec Nowy Sącz
+88, Dawid Pietrzkiewicz, POL, G, 1.89, 84, 09-02-88, Sanok, Gabala
+92, Aleksandar Kolev, BUL, F, 1.91, 81, 08-12-92, Sofia, Stal Mielec
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Lukáš Kubáň, CZE, D, 1.76, 69, 22-06-87, , Stomil Olsztyn

@@ -1,0 +1,45 @@
+=  Sint-Truiden - Belgian Eerste Klasse A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kenny Steppe, BEL, G, 1.82, 67, 14-11-88, Antwerp, Zulte-Waregem
+2, Ian Opdenakker, BEL, M, 1.78, 72, 11-09-99, Genk, KRC Genk
+3, Takehiro Tomiyasu, JPN, D, 1.85, 70, 05-11-98, Fukuoka, Avispa Fukuoka
+4, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Juventus
+5, Alexis De Sart, BEL, M, 1.80, 66, 12-11-96, Waremme, Standard Liège
+6, Steven De Petter, BEL, M, 1.79, 77, 22-11-85, Brugge, Mechelen
+7, Jordan Botaka, COD, D, 1.84, 76, 24-06-93, Kinshasa, Leeds U
+8, Ibrahima Sory Sankhon, GUI, M, 1.77, 72, 01-01-96, Forécariah, Horoya AC
+11, Yohan Boli, FRA, F, 1.81, 76, 17-11-93, Arras, Verviers
+12, Samuel Asamoah, GHA, M, 1.63, 60, 23-03-94, Accra, Eupen
+13, Maxime Wenssens, BEL, G, 1.91, 70, 17-11-01, , None
+14, Alexandre De Bruyn, BEL, M, 1.77, 62, 04-06-94, , Lommel
+15, Daichi Kamada, JPN, M, 1.80, 72, 05-08-96, Ehime, Eintracht Frankfurt
+16, Thallyson, BRA, D, 1.75, 70, 01-12-91, Campo Alegre, Vitória
+18, Kosuke Kinoshita, JPN, F, 1.82, 77, 03-10-94, Tokyo, Halmstads BK
+19, Cristian Ceballos, ESP, M, 1.73, 67, 03-12-92, Barcelona, Charlton Ath
+20, Samy Mmaee, BEL, D, 1.85, 82, 08-09-96, Halle, Standard Liège
+21, Lucas Pirard, BEL, G, 1.91, 85, 10-03-95, Sprimont, Standard Liège
+22, Wolke Janssens, BEL, F, 1.85, 70, 01-08-95, Peer, Dessel Sport
+23, Rai Vloet, NED, M, 1.87, 76, 08-05-95, Schijndel, Frosinone
+24, Mamadou Sylla, SEN, F, 1.84, 80, 20-03-94, Granollers, KAA Gent
+26, Jorge Teixeira, POR, D, 1.88, 86, 27-08-86, Lisbon, Charlton Ath
+27, Erik Gliha, SVN, D, 1.79, 76, 13-02-97, Niort, Aluminij
+28, Takahiro Sekine, JPN, M, 1.67, 61, 19-04-95, Tsurugashima, Ingolstadt
+29, Elton Acolatse, NED, F, 1.82, 76, 25-07-95, Amsterdam, Club Brugge
+33, Wataru Endo, JPN, M, 1.76, 73, 09-02-93, Yokohama, Urawa Red Diamonds
+35, Tibo Herbots, BEL, G, 1.85, 70, 07-05-01, , Standard Liège
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Kurt Abrahams, RSA, F, , , 30-12-96, , KVC Westerlo
+18, Fabien Antunes, FRA, D, 1.83, 78, 19-11-91, Paris, KVC Westerlo (On Loan)
+30, Samy Bourard, BEL, M, 1.78, 64, 10-07-96, Liège, FC Eindhoven
+18, Paul Gladon, NED, F, 1.88, 83, 18-03-92, Haarlem, Wolverhampton W
+24, Casper de Norre, BEL, D, 1.75, 70, 07-02-97, Hasselt, KRC Genk
+77, Mohamed Buya Turay, SLR, F, 1.78, 70, 10-01-95, Freetown, Djurgårdens IF (On Loan)
+27, Jonathan Legear, BEL, M, 1.79, 72, 13-04-87, Liège, Adana Demirspor
+23, Sascha Kotysch, GER, D, 1.88, 78, 02-10-88, Kirchheimbolanden, OH Leuven
+10, Roman Bezus, UKR, M, 1.85, 78, 26-09-90, Kremenchuk, KAA Gent
+9, Duckens Nazon, HAI, F, 1.81, 82, 07-04-94, Poissy, St Mirren (On Loan)
+25, Yuta Koike, JPN, D, 1.70, 64, 06-11-96, Tochigi, Kashima Antlers (On Loan)

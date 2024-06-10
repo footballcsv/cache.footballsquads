@@ -1,0 +1,39 @@
+=  Cardiff City - English Football League Championship 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Peter Enckelman, FIN, G, 1.89, 90, 10-03-77, Turku, Blackburn R
+2, Kevin McNaughton, SCO, D, 1.78, 66, 28-08-82, Dundee, Aberdeen
+3, Tony Capaldi, NIR, D, 1.83, 76, 12-08-81, Porsgrunn, Plymouth Arg
+4, Gavin Rae, SCO, M, 1.80, 65, 28-11-77, Aberdeen, Rangers
+5, Darren Purse, ENG, D, 1.88, 80, 14-02-77, Stepney, WBA
+6, Gábor Gyepes, HUN, D, 1.91, 83, 26-06-81, Budapest, Northampton T
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Jay Bothroyd, ENG, F, 1.91, 83, 05-05-82, Islington, Wolverhampton W
+9, Eddie Johnson, USA, F, 1.83, 81, 31-03-84, Daytona Beach, Fulham
+10, Stephen McPhail, IRL, M, 1.73, 76, 09-12-79, Westminster, Barnsley
+11, Paul Parry, WAL, M, 1.80, 75, 19-08-80, Chepstow, Hereford U
+12, Roger Johnson, ENG, D, 1.91, 70, 28-04-83, Ashford, Wycombe W
+13, Thomas Heaton, ENG, G, 1.85, 85, 15-04-86, Chester, Manchester U
+14, Quincy Owusu-Abeyie, GHA, F, 1.80, 74, 15-04-86, Amsterdam, Spartak Moscow
+15, Miguel Comminges, FRA, D, 1.75, 71, 16-03-82, Les Abymes, Swindon T
+16, Joe Ledley, WAL, M, 1.83, 73, 23-01-87, Cardiff, None
+17, Darren Dennehy, IRL, D, 1.93, 89, 21-09-88, Tralee, Everton
+18, Michael Chopra, ENG, F, 1.75, 60, 23-12-83, Gosforth, Sunderland
+19, Riccardo Scimeca, ENG, D, 1.85, 80, 13-06-75, Leamington Spa, WBA
+20, Stuart Taylor, ENG, G, 1.96, 86, 28-11-80, Romford, Aston Villa
+21, Mark Kennedy, IRL, M, 1.80, 74, 15-05-76, Dublin, Crystal Palace
+22, Dimitrios Konstantopoulos, GRE, G, 1.93, 90, 29-11-78, Thessaloniki, Coventry C
+23, Darcy Blake, WAL, M, 1.65, 68, 13-12-88, Caerphilly, None
+25, Erwin Sak, POL, G, 1.83, 76, 15-02-90, Lublin, Sokół Pniewy
+26, Jonathan Brown, WAL, M, 1.80, 80, 17-04-90, Bridgend, None
+29, Chris Burke, SCO, M, 1.75, 68, 02-12-83, Glasgow, Rangers
+31, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, None
+32, Aaron Morris, WAL, D, 1.83, 71, 30-12-89, Rumney, None
+44, Ross McCormack, SCO, F, 1.75, 74, 18-08-86, Glasgow, Motherwell
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Glenn Loovens, NED, D, 1.77, 74, 22-09-83, Doetinchem, Celtic
+20, Steven Thompson, SCO, F, 1.88, 79, 14-10-78, Paisley, Burnley
+14, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Aston Villa

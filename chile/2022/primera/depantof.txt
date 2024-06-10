@@ -1,0 +1,41 @@
+=  Deportes Antofagasta - Chilean Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ignacio González, CHI, G, 1.87, 81, 02-12-89, Santiago, Palestino
+3, Leandro Vega, ARG, D, 1.79, 70, 27-05-96, José Clemente Paz, Emelec
+4, Simón González, CHI, D, 1.93, 85, 12-10-00, -, None
+6, Federico Bravo, ARG, M, 1.85, 82, 05-10-93, Jesús María, Sarmiento (Junín)
+7, Iván Ledezma, CHI, M, 1.72, 70, 19-06-95, Antofagasta, Audax Italiano
+8, Marco Collao, CHI, M, 1.73, 67, 11-04-98, Calama, Coquimbo Unido
+9, Manuel López, ARG, F, 1.92, 89, 30-11-95, Buenos Aires, Flandria
+10, Jason Flores, CHI, F, 1.67, 57, 28-02-97, Recoleta, Unión Española
+11, Ariel Uribe, CHI, M, 1.66, 70, 14-02-99, Valparaíso, Mazatlán
+13, Diego Sánchez, CHI, G, 1.81, 85, 08-05-87, La Granja, Unión Española
+14, Salvador Cordero, CHI, D, 1.77, 60, 11-03-96, Antofagasta, None
+15, Juan Francisco Cornejo, CHI, D, 1.77, 78, 27-09-90, Pichidegua, Universidad Católica
+16, Maykol Sánchez, CHI, F, 1.74, 65, 29-05-02, Antofagasta, None
+17, Paulo Magalhães, CHI, D, 1.75, 73, 14-12-89, Porto Alegre, O'Higgins
+18, Cristian Díaz, CHI, D, 1.83, 82, 12-12-02, -, None
+19, Gary Tello, CHI, M, 1.75, 71, 11-04-93, Ovalle, Unión Española
+20, Adrián Cuadra, CHI, D, 1.73, 68, 23-10-97, Valparaíso, Santiago Wanderers
+21, Andrés Souper, CHI, M, 1.73, 70, 06-05-99, New York, Universidad Católica
+22, Diego Orellana, CHI, D, 1.72, 67, 16-05-93, San Vicente de Tagua Tagua, Deportes Iquique
+23, Byron Nieto, CHI, D, 1.76, 70, 03-02-98, Recoleta, Barnechea
+24, Brayan Hurtado, VEN, F, 1.82, 71, 21-06-99, Puerto Ordaz, Mineros de Guayana
+25, Rodrigo Astorga, CHI, M, -, -, 05-03-04, -, None
+26, Camilo Rodríguez, CHI, D, 1.70, 66, 04-03-95, Santiago, Everton (Viña del Mar)
+27, Bruno Pérez, ARG, F, 1.70, 62, 18-03-02, Córdoba, Belgrano (Córdoba)
+28, Gabriel Torres, PAN, F, 1.80, 72, 13-10-88, Ciudad de Panamá, Universidad de Chile
+29, Andrés Robles, CHI, D, 1.82, 79, 07-05-94, Santiago, Universidad de Concepción
+30, Juan Pablo Cisternas, CHI, G, 1.85, 82, 25-09-02, Antofagasta, None
+31, Matías Fredes, CHI, M, 1.69, 62, 23-01-03, -, None
+32, Eric Ahumada, CHI, D, 1.82, 80, 14-02-94, Tierra Amarilla, Cobreloa
+33, Brandon Estay, CHI, D, -, -, 22-05-02, -, None
+34, Nicolás Peñailillo, CHI, D, 1.76, 75, 13-06-91, Viña del Mar, Unión (Santa Fe)
+35, Tobías Figueroa, ARG, F, 1.91, 90, 13-04-92, Mar del Plata, Belgrano (Córdoba)
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Cristian Rojas, CHI, M, 1.71, 70, 19-12-85, Antofagasta, Retired
+12, Diego Orellana, CHI, F, 1.71, 73, 09-01-02, Santiago, Colo-Colo

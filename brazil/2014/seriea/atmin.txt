@@ -1,0 +1,53 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Grêmio
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, None
+3, Leonardo Silva, BRA, D, 1.92, 80, 22-06-79, Rio de Janeiro, Cruzeiro
+4, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Wolfsburg
+5, Pierre, BRA, M, 1.72, 67, 19-01-82, Itororó, Palmeiras
+6, Edcarlos, BRA, D, 1.85, 76, 10-05-85, Salvador, Desportivo Brasil
+7, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Internacional
+8, Leandro Donizete, BRA, M, 1.75, 70, 18-05-82, Araraquara, Coritiba
+9, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Al-Gharafa
+13, Carlos, BRA, F, 1.72, 66, 15-08-95, Santa Luz, None
+14, Lucas Cândido, BRA, M, 1.78, 73, 25-12-93, Uberlândia, None
+15, Claudinei, BRA, M, 1.72, 70, 08-10-88, Sete Lagoas, Tombense
+16, Botelho, BRA, M, 1.88, 72, 14-12-89, Salvador, Atlético Paranaense
+17, Guilherme, BRA, F, 1.73, 77, 22-10-88, Imperatriz, Dynamo Kyiv
+18, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, Spartak Moscow
+19, Emerson Da Conceição, BRA, D, 1.85, 83, 23-02-86, São Paulo, Rennes
+20, Alex Silva, BRA, D, 1.81, 74, 15-05-94, Minas Gerais, None
+21, Daniel Abelha, BRA, M, , , 04-11-94, Andradina, None
+22, Marion, BRA, F, 1.72, 65, 07-09-91, Teixeira de Freitas, None
+23, Jesús Dátolo, ARG, M, 1.77, 67, 19-05-84, Cañuelas, Internacional
+27, Luan, BRA, F, 1.68, 69, 11-08-90, São Miguel dos Campos, Atlético Sorocaba
+28, Josué, BRA, M, 1.69, 63, 19-07-79, Vitoria de Santo Antão, Wolfsburg
+29, Donato, BRA, D, 1.90, 79, 02-02-94, Coqueiral, None
+31, Dodô, BRA, M, 1.71, 60, 05-09-94, Vespasiano, None
+35, Jemerson, BRA, D, 1.84, 77, 24-08-92, Jeremoabo, None
+36, Marcos Vinícius, BRA, F, , , 24-02-94, Jataí, None
+39, Gabriel, BRA, D, 1.81, 80, 14-03-95, Pedro Leopoldo, None
+40, Uilson, BRA, G, 1.86, 75, 28-04-94, Mucuri, None
+41, Paulinho, BRA, M, 1.73, 71, 07-01-93, Belo Horizonte, None
+42, Rodolfo Pereira, BRA, G, 1.86, 75, 12-04-95, Sete Lagoas, None
+43, Tiago, BRA, D, 1.91, 89, 17-06-90, São Jorge d'Oeste, Caxias
+44, Emerson Silva, BRA, D, 1.86, 83, 03-05-83, Taguatinga, Coritiba
+70, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, Udinese
+87, Giovanni, BRA, G, 1.91, 83, 05-02-87, Bauru, Grêmio Prudente
+89, Cesinha, BRA, F, 1.77, 74, 29-11-89, São José do Rio Preto, Bragantino
+90, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Dynamo Kyiv
+94, Douglas, BRA, D, 1.75, 69, 22-03-94, João Pessoa, Udinese
+95, Eduardo Henrique, BRA, M, 1.84, 73, 17-05-95, Limeira, Coimbra
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Neto Berola, BRA, F, 1.71, 66, 18-11-87, Itabuna, Al-Wasl (On Loan)
+11, Fernandinho, BRA, F, 1.71, 66, 25-11-85, São Paulo, Al-Jazira
+30, Nicolás Otamendi, ARG, D, 1.78, 75, 12-02-88, Pacheco, Valencia
+99, Michel, BRA, D, 1.76, 72, 15-02-90, Rio de Janeiro, Almería
+32, Lee, BRA, G, 1.88, 86, 09-03-88, São Paulo, Académica
+88, Rosinei, BRA, M, 1.70, 63, 03-05-83, Lavrinhas, Coritiba
+10, Ronaldinho, BRA, M, 1.82, 80, 21-03-80, Porto Alegre, Querétaro
+25, Fillipe Soutto, BRA, M, 1.77, 77, 11-03-91, Belo Horizonte, Joinville (On Loan)

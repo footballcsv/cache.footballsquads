@@ -1,0 +1,57 @@
+=  Sunderland - English Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Craig Gordon, SCO, G, 1.93, 77, 31-12-82, Edinburgh, Hearts
+2, Phillip Bardsley, ENG, D, 1.79, 74, 28-06-85, Salford, Manchester U
+3, George McCartney, NIR, D, 1.83, 79, 29-04-81, Belfast, West Ham U
+4, Teemu Tainio, FIN, M, 1.76, 71, 27-11-79, Tornio, Tottenham H
+5, Nyron Nosworthy, JAM, D, 1.83, 80, 11-10-80, Brixton, Gillingham
+6, Dean Whitehead, ENG, M, 1.80, 77, 12-01-82, Abingdon, Oxford U
+7, Carlos Edwards, TRI, M, 1.80, 69, 24-10-78, Port of Spain, Luton T
+8, Steed Malbranque, FRA, M, 1.72, 73, 06-01-80, Mouscron, Tottenham H
+9, Djibril Cissé, FRA, F, 1.82, 78, 12-08-81, Arles, Marseille
+10, Kieran Richardson, ENG, M, 1.79, 74, 21-10-84, Greenwich, Manchester U
+12, Tal Ben Haim, ISR, D, 1.81, 74, 31-03-82, Rishon LeZion, Manchester C
+13, Darren Ward, WAL, G, 1.80, 80, 11-05-74, Worksop, Norwich C
+14, Daryl Murphy, IRL, F, 1.89, 82, 15-03-83, Waterford, Waterford U
+15, Danny Collins, WAL, D, 1.83, 76, 06-08-80, Chester, Chester C
+17, Kenwyne Jones, TRI, F, 1.88, 75, 05-10-84, Point Fortin, Southampton
+18, Grant Leadbitter, ENG, M, 1.75, 65, 07-06-86, Chester-le-Street, None
+19, Dwight Yorke, TRI, M, 1.78, 78, 03-11-71, Canaan, Sydney FC
+20, Andy Reid, IRL, M, 1.75, 70, 29-07-82, Dublin, Charlton Ath
+21, Calum Davenport, ENG, D, 1.93, 89, 01-01-83, Bedford, West Ham U
+23, David Healy, NIR, F, 1.76, 67, 05-08-79, Downpatrick, Fulham
+24, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, None
+25, Jean-Yves Mvoto, FRA, D, 1.93, 93, 06-09-88, Paris, Paris St-Germain
+26, Anton Ferdinand, ENG, D, 1.83, 71, 18-02-85, Peckham, West Ham U
+29, Peter Hartley, ENG, D, 1.84, 79, 03-04-88, Hartlepool, None
+30, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, WBA
+31, David Connolly, IRL, F, 1.72, 68, 06-06-77, Willesden, Wigan Ath
+32, Márton Fülöp, HUN, G, 1.96, 92, 03-05-83, Budapest, Tottenham H
+34, Jack Colback, ENG, M, 1.76, 70, 24-10-89, Killingworth, None
+35, Michael Kay, ENG, D, 1.85, 75, 12-09-89, Shotley Bridge, None
+36, Nathan Luscombe, ENG, M, 1.73, 73, 06-11-89, Gateshead, None
+37, Robbie Weir, NIR, M, 1.75, 73, 09-12-88, Belfast, Larne
+38, Jamie Chandler, ENG, M, 1.70, 71, 24-03-89, South Shields, None
+39, Martyn Waghorn, ENG, F, 1.77, 83, 23-01-90, South Shields, None
+40, David Dowson, ENG, F, 1.78, 74, 12-09-88, Bishop Auckland, None
+41, David Meyler, IRL, M, 1.90, 74, 29-05-89, Cork, Cork C
+42, Jordan Henderson, ENG, M, 1.82, 67, 17-06-90, Sunderland, None
+43, Conor Hourihane, IRL, M, 1.81, 62, 02-02-91, Cork, None
+44, Anthony Stokes, IRL, F, 1.80, 73, 25-07-88, Dublin, Arsenal
+45, Jordan Cook, ENG, M, 1.78, 68, 20-03-90, Sunderland, None
+46, Nick Colgan, IRL, G, 1.86, 76, 19-09-73, Drogheda, Ipswich T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Russell Anderson, SCO, D, 1.80, 68, 25-10-78, Aberdeen, Burnley (On Loan)
+26, Dickson Etuhu, NGA, M, 1.88, 83, 08-06-82, Kano, Fulham
+22, Danny Higginbotham, ENG, D, 1.85, 78, 29-12-78, Manchester, Stoke C
+28, Graham Kavanagh, IRL, M, 1.78, 79, 02-12-73, Dublin, Carlisle U
+12, Liam Miller, IRL, M, 1.70, 66, 13-02-81, Cork, QPR
+21, Pascal Chimbonda, FRA, D, 1.82, 73, 21-02-79, Les Abymes, Tottenham H
+11, El-Hadji Diouf, SEN, F, 1.80, 75, 15-01-81, Dakar, Blackburn R
+33, Michael Liddle, IRL, D, 1.73, 68, 25-12-89, London, Carlisle U (On Loan)
+16, Michael Chopra, ENG, F, 1.75, 60, 23-12-83, Gosforth, Cardiff C (On Loan)
+45, Rade Prica, SWE, F, 1.85, 80, 30-06-80, Ljungby, Rosenborg

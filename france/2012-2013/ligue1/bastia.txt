@@ -1,0 +1,40 @@
+=  Bastia - French Ligue 1 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Magno Macédo Novaes, BRA, G, 1.84, 79, 30-03-83, São Paulo, Arles
+2, Samuel Inkoom, GHA, D, 1.79, 75, 22-08-89, Sekondi-Takoradi, Dnipro Dnipropetrovsk
+4, Julien Sablé, FRA, M, 1.81, 73, 11-09-80, Marseille, Nice
+5, Olivier Vannucci, FRA, D, 1.88, 77, 24-05-91, Ajaccio, None
+6, Gaël Angoula, FRA, M, 1.77, 75, 18-07-82, Le Havre, Pacy Vallée-d'Eure
+7, Sylvain Marchal, FRA, D, 1.84, 80, 10-02-80, Langres, St-Etienne
+8, Toifilou Maoulida, FRA, F, 1.84, 77, 08-06-79, Dzaoudzi, Lens
+10, Wahbi Khazri, TUN, M, 1.82, 78, 08-02-91, Ajaccio, None
+12, Jacques Faty, SEN, D, 1.83, 75, 25-02-84, Villeneuve-st-Georges, Sivasspor
+14, Claudio Beauvue, FRA, M, 1.74, 66, 16-04-88, Saint-Claude, Châteauroux
+15, Julian Palmieri, FRA, M, 1.70, 66, 17-12-86, Lyon, Istres
+16, Landry Bonnefoi, FRA, G, 1.84, 72, 28-09-83, Villeparisis, Amiens
+17, Florian Thauvin, FRA, M, 1.79, 70, 26-01-93, Orléans, Lille
+18, Yannick Cahuzac, FRA, M, 1.78, 66, 18-01-85, Ajaccio, None
+19, Maka Mary, FRA, D, 1.82, 88, 27-03-89, , Le Havre
+20, Matthieu Sans, FRA, D, 1.91, 84, 16-06-88, Toulon, Arles-Avignon
+21, Féthi Harek, FRA, D, 1.75, 61, 21-10-82, Oullins, Rodez
+22, Sambou Yatabaré, MLI, M, 1.90, 82, 02-03-89, Beauvais, Monaco
+23, Christophe Vincent, FRA, M, 1.78, 72, 08-11-92, Bastia, None
+24, Jérémy Choplin, FRA, D, 1.83, 70, 09-02-85, Le Mans, Rodez
+25, Jérôme Rothen, FRA, M, 1.77, 74, 31-03-78, Chatenay-Malabry, Paris St-Germain
+26, Gaëtan Varenne, FRA, F, 1.87, 80, 24-06-90, Le Puy-en-Velay, Cournon
+27, Anthony Modeste, FRA, F, 1.86, 73, 14-04-88, Cannes, Bordeaux
+28, Ilan, BRA, F, 1.81, 76, 18-09-80, Curitiba, Ajaccio
+29, Gilles Cioni, FRA, D, 1.65, 65, 14-06-84, Bastia, Paris FC
+30, Dominique Agostini, FRA, G, 1.77, 76, 28-09-89, Bastia, None
+33, Abdoulaye Keita, MLI, M, 1.75, 75, 05-01-94, Bamako, None
+34, Joseph Barbato, FRA, F, 1.79, 80, 11-08-94, Bastia, None
+40, Mickaël Landreau, FRA, G, 1.84, 80, 14-05-79, Machecoul, Lille
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Yassin El-Azzouzi, FRA, F, 1.80, 73, 13-01-83, Lunel, Niort
+11, François Marque, FRA, D, 1.87, 83, 31-07-83, Troyes, 
+13, Salim Moizini, FRA, M, 1.75, 60, 17-10-85, Marseille, Paris FC
+34, Mathias Llambrich, FRA, M, 1.78, 76, 06-02-93, Maisons-Alfort, Bastia B

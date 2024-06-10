@@ -1,0 +1,41 @@
+=  Aberdeen - Scottish Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, James Langfield, SCO, G, 1.93, 83, 22-12-79, Paisley, Dunfermline Ath
+2, Ryan Jack, SCO, D, 1.82, 77, 27-02-92, Aberdeen, None
+3, Clark Robertson, SCO, D, 1.88, 76, 05-09-93, Aberdeen, None
+4, Russell Anderson, SCO, D, 1.80, 68, 25-10-78, Aberdeen, Derby Co
+5, Gavin Rae, SCO, M, 1.80, 65, 28-11-77, Aberdeen, Dundee
+6, Andrew Considine, SCO, D, 1.83, 75, 01-04-87, Aberdeen, None
+7, Chris Clark, SCO, M, 1.80, 64, 15-09-80, Aberdeen, Plymouth Arg
+8, Robert Milsom, ENG, D, 1.78, 72, 02-01-87, Redhill, Fulham
+9, Scott Vernon, ENG, F, 1.85, 73, 13-12-83, Manchester, Colchester U
+10, Niall McGinn, NIR, M, 1.83, 83, 20-07-87, Dungannon, Celtic
+11, Jonathan Hayes, IRL, F, 1.70, 70, 09-07-87, Ballyfermot, Inverness CT
+13, Nicky Low, SCO, D, 1.68, 64, 06-01-92, Greenock, None
+14, Rory Fallon, NZL, F, 1.88, 74, 20-03-82, Gisbourne, Yeovil T
+15, Peter Pawlett, SCO, M, 1.78, 68, 03-02-91, Hull, None
+16, Isaac Osbourne, ENG, M, 1.78, 76, 22-06-86, Birmingham, Coventry C
+17, Gary Naysmith, SCO, D, 1.78, 74, 16-11-78, Edinburgh, Huddersfield T
+18, Stephen Hughes, SCO, M, 1.80, 60, 14-11-82, Motherwell, Motherwell
+20, Dan Twardzik, GER, G, 1.83, 77, 13-04-91, Třinec, Como
+21, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Cardiff C
+22, Mark Reynolds, SCO, D, 1.80, 67, 07-05-87, Motherwell, Sheffield W
+23, Joe Shaughnessy, IRL, D, 1.83, 69, 06-07-92, Oughterard, Salthill Devon
+25, Jamie Masson, SCO, M, 1.70, 64, 05-04-93, Fraserburgh, None
+30, Danny Rogers, IRL, G, 1.85, 77, 23-03-94, Dublin, None
+34, Declan McManus, SCO, F, 1.80, 75, 03-08-94, Glasgow, None
+35, Craig Murray, SCO, D, 1.80, 75, 17-07-94, Bellshill, None
+36, Michael Rose, SCO, D, 1.81, 70, 11-10-95, Aberdeen, None
+37, Stephen O'Neill, SCO, M, , , 07-06-94, , None
+38, Cammy Smith, SCO, F, 1.75, 68, 24-08-95, Aberdeen, None
+39, Craig Storie, SCO, M, 1.75, 71, 13-01-96, Lanark, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Michael Paton, SCO, F, 1.78, 71, 25-03-89, Greenock, 
+19, Mitchel Megginson, SCO, F, 1.80, 73, 27-07-92, Aberdeen, Alloa Ath (On Loan)
+20, Ryan Fraser, SCO, M, 1.63, 60, 24-02-94, Aberdeen, Bournemouth
+24, Jordon Brown, SCO, M, 1.68, 57, 28-11-92, Aberdeen, Forfar Ath (On Loan)
+32, Jason Brown, WAL, G, 1.80, 98, 18-05-82, Southwark, Ipswich T

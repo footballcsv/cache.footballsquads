@@ -1,0 +1,38 @@
+=  FC Rostov - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stipe Pletikosa, CRO, G, 1.94, 91, 08-01-79, Split, Spartak Moscow
+2, Timofei Kalachev, BLR, M, 1.73, 69, 01-05-81, Mogilev, Krylia Sovetov
+5, Vitaliy Dyakov, RUS, D, 1.92, 88, 31-01-89, Krasnodar, Lokomotiv Moscow-2
+7, Georgiy Gabulov, RUS, M, 1.90, 74, 04-09-88, Mozdok, Alania Vladikavkaz
+8, Ihor Khudobyak, UKR, M, 1.75, 66, 20-02-85, Ivano-Frankivsk, Karpaty Lviv
+9, Kanga Kaku Guélor, GAB, M, 1.67, 63, 01-09-90, Oyem, CF Mounana
+10, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Spartak Moscow
+11, Yoo Byung-Soo, KOR, F, 1.82, 76, 26-03-88, Daegu, Al-Hilal [KSA]
+13, Maksim Lepskiy, RUS, F, 1.90, 73, 08-04-92, , Sokol Saratov
+14, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv Moscow-2
+15, Bastos, ANG, D, 1.84, 75, 23-11-91, Luanda, Petro Atlético
+16, Anton Amelchenko, BLR, G, 1.92, 85, 27-03-85, Gomel, Lokomotiv Moscow
+18, Azim Fatullayev, RUS, M, 1.80, 76, 07-06-86, Makhachkala, Yenisey Krasnoyarsk
+19, Hrvoje Milić, CRO, D, 1.83, 74, 10-05-89, Osijek, Istra 1961
+24, Florent Sinama-Pongolle, FRA, F, 1.76, 69, 20-10-84, Saint-Pierre, Sporting CP
+25, Arseniy Logashov, RUS, D, 1.83, 68, 20-08-91, Kursk, Lokomotiv Moscow
+27, Igor Lolo, CIV, D, 1.79, 68, 22-07-82, Abidjan, Kuban Krasnodar
+33, Roman Emelyanov, RUS, M, 1.89, 85, 08-05-92, Pavlovo, Shakhtar Donetsk
+34, Timofey Margasov, RUS, D, 1.81, 74, 12-06-92, Tolyatti, Yenisey Krasnoyarsk
+42, Artem Kulishev, RUS, M, 1.77, 65, 26-08-93, Rostov-on-Don, FC Rostov-2
+49, Jano Ananidze, GEO, M, 1.70, 60, 10-10-92, Kobuleti, Spartak Moscow
+55, Siyanda Xulu, RSA, D, 1.88, 76, 30-12-91, Durban, Mamelodi Sundowns
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+99, Nemanja Nikolić, SRB, F, 1.88, 78, 19-10-92, Kraljevo, Grbalj
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Kornel Saláta, SVK, D, 1.91, 89, 24-01-85, Kamenica nad Hronom, Tom Tomsk (On Loan)
+21, Khoren Bayramyan, RUS, M, 1.69, 60, 07-01-92, Koti, Rotor Volgograd (On Loan)
+69, Jan Holenda, CZE, F, 1.86, 82, 22-08-85, Prague, Tom Tomsk (On Loan)
+77, Kamil Agalarov, RUS, M, 1.78, 70, 11-06-88, Makhachkala, Anzhi Makhachkala
+22, Igor Kireyev, RUS, M, 1.78, 67, 17-02-92, Zheleznogorsk, Spartak Nalchik (On Loan)
+7, Aleksandr Sheshukov, RUS, M, 1.81, 77, 15-04-83, Omsk, Lokomotiv Moscow
+17, Aleksandr Vasilyev, RUS, M, 1.82, 74, 23-01-92, Nizhegorodka, Sibir Novosibirsk (On Loan)

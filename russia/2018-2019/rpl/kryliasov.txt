@@ -1,0 +1,43 @@
+=  Krylia Sovetov - Russian Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Rubin Kazan
+2, Vladimir Poluyakhtov, RUS, D, 1.80, 78, 11-07-89, Krasavino, Anzhi Makhachkala
+3, Georgiy Tigiev, RUS, D, 1.76, 77, 26-05-95, Beslan, Spartak Moscow
+5, Miral Samardžič, SVN, D, 1.87, 80, 17-02-87, Jesenice, Anzhi Makhachkala
+8, Siarhei Karnilenka, BLR, F, 1.85, 78, 14-06-83, Vitebsk, Zenit St Petersburg
+9, Alan Chochiev, RUS, M, 1.80, 70, 07-09-91, Vladikavkaz, Lokomotiv Moscow-2
+10, Jano Ananidze, GEO, M, 1.70, 60, 10-10-92, Kobuleti, Spartak Moscow
+11, Ramil Sheydaev, RUS, F, 1.86, 75, 15-03-96, St. Petersburg, Trabzonspor
+13, Mohammed Rabiu, GHA, M, 1.87, 76, 31-12-89, Accra, Anzhi Makhachkala
+14, Yevgeniy Konyukhov, RUS, G, 1.88, 86, 21-11-86, Murom, Torpedo Moscow
+15, Georgiy Zotov, RUS, D, 1.74, 72, 12-01-90, Novosibirsk, Kuban Krasnodar
+17, Mikhail Tikhonov, RUS, M, 1.76, 70, 17-07-98, Moscow, Yenisey Krasnoyarsk
+18, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, Nacional [URU]
+19, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, Spartak Moscow
+20, Srdjan Mijailović, SRB, M, 1.78, 68, 10-11-93, Požega, Kayserispor
+22, Vanja Vučićević, SRB, F, 1.88, 77, 22-03-98, Belgrade, Crvena Zvezda
+28, Paul Anton, ROU, M, 1.85, 80, 10-05-91, Bistriţa, Anzhi Makhachkala
+31, Denis Tkachuk, RUS, M, 1.76, 68, 02-07-89, Belgorod, Rubin Kazan
+39, Vitaliy Denisov, UZB, D, 1.78, 75, 23-02-87, Tashkent, Lokomotiv Moscow
+40, Artem Timofeev, RUS, M, 1.85, 83, 12-01-94, Saratov, Spartak Moscow
+44, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Yenisey Krasnoyarsk
+49, Roman Shishkin, RUS, D, 1.77, 73, 27-01-87, Voronezh, FC Krasnodar
+70, Anton Zinkovskiy, RUS, M, 1.75, 65, 14-04-96, Novorossiysk, Chertanovo Moscow
+90, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Rubin Kazan
+91, Pavel Yakovlev, RUS, F, 1.80, 69, 07-04-91, Lyubertsy, Anzhi Makhachkala
+95, Maksim Karpov, RUS, D, 1.93, 90, 17-03-95, St. Petersburg, Zenit St Petersburg
+99, Maksim Kanunnikov, RUS, F, 1.83, 74, 14-07-91, St. Petersburg, SKA-Khabarovsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Azer Aliyev, RUS, M, 1.68, 62, 12-05-94, Krasnoyarsk, FC Ufa
+25, Mikhail Oparin, RUS, G, 1.91, 81, 22-05-93, Omsk, SKA-Khabarovsk
+27, Danil Klenkin, RUS, M, 1.74, 72, 14-07-90, Vnukovo, FC Tambov
+77, Giorgi Loria, GEO, G, 1.97, 85, 27-01-86, Tbilisi, Magdeburg
+6, Nadson, BRA, D, 1.90, 83, 18-10-84, Ubaitaba, 
+64, Oleg Lanin, RUS, D, 1.80, 70, 22-01-96, Ladozhskaya, FC Krasnodar
+89, Yohan Mollo, FRA, F, 1.75, 74, 18-07-89, Martigues, Sochaux
+4, Evgeniy Bashkirov, RUS, M, 1.73, 63, 06-07-91, St. Petersburg, Rubin Kazan
+7, Aleksandr Sobolev, RUS, F, 1.95, 85, 07-03-97, Barnaul, Yenisey Krasnoyarsk (On Loan)

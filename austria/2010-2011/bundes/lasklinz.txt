@@ -1,0 +1,41 @@
+=  LASK Linz - Austrian Bundesliga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Mandl, AUT, G, 1.85, 88, 07-02-79, Eisenstadt, Admira
+2, Ulrich Winkler, AUT, D, 1.87, 81, 06-03-85, Feldkirch, Wacker Innsbruck
+3, Florian Maier, AUT, D, 1.85, 69, 07-01-92, , None
+4, Pablo Chinchilla, CRC, D, 1.85, 87, 21-12-78, San José [CRC], Municipal Liberia
+5, Florian Metz, AUT, M, 1.82, 78, 18-09-85, Zwettl, Austria Vienna
+6, René Aufhauser, AUT, M, 1.85, 80, 21-06-76, Voitsberg, Red Bull Salzburg
+7, Alexander Zickler, GER, F, 1.88, 88, 28-02-74, Bad Salzungen, Red Bull Salzburg
+8, Gernot Trauner, AUT, M, 1.83, 82, 25-03-92, Linz, None
+10, Klodian Duro, ALB, M, 1.77, 71, 21-12-77, Tirana, Apollon Limassol
+11, Leonhard Kaufmann, AUT, M, 1.72, 65, 12-01-89, Güssing, Austria Kärnten
+12, Florian Hart, AUT, D, 1.76, 69, 01-05-90, Linz, None
+13, Thomas Höltschl, AUT, M, 1.84, 75, 30-04-90, , None
+15, Emanuel Schreiner, AUT, D, 1.79, 72, 02-02-89, Steyr, None
+16, Robert Schellander, AUT, D, 1.78, 75, 31-01-83, Feldkirchen in Kärnten, Kapfenberg
+17, Lukas Kragl, AUT, F, 1.80, 67, 12-01-90, Linz, None
+18, Patrick Derdak, AUT, F, 1.83, 73, 16-02-90, Baden, Werder Bremen II
+19, Thomas Piermayr, AUT, M, 1.81, 74, 02-08-89, Linz, None
+20, Pavao Pervan, AUT, G, 1.94, 92, 13-11-87, Livno, Pasching
+21, Wolfgang Bubenik, AUT, D, 1.85, 76, 31-03-81, Linz, Austria Kärnten
+22, Lorenz Höbarth, AUT, G, 1.85, 80, 14-09-91, Linz, None
+23, Daniel Kogler, AUT, M, 1.75, 75, 16-08-88, Amstetten, Waidhofen/Ybbs
+24, Shawn Barry, USA, D, 1.83, 77, 23-04-90, Miramar, Univ of Virginia
+27, Emin Sulimani, AUT, F, 1.74, 70, 04-08-86, Wels, Austria Vienna
+28, Justice Majabvi, ZIM, M, 1.70, 68, 26-03-84, Kwekwe, Dynamos
+29, Petr Lukáš, CZE, D, 1.92, 82, 24-04-78, Prague, Teplice
+31, Rubén López, ESP, D, 1.92, 85, 09-07-79, Barcelona, Melilla
+33, Cem Atan, AUT, M, 1.85, 79, 30-06-85, Wiener Neustadt, Gençlerbirliği
+34, Juan Ramón Ruano, ESP, M, 1.78, 74, 29-11-83, Usagre, Alzira
+39, Ken Noel, AUT, F, 1.82, 74, 09-01-91, Vienna, Admira Wacker
+40, Aridane, ESP, F, 1.87, 92, 01-10-83, Telde, Vecindario
+55, Haris Bukva, AUT, M, 1.85, 79, 15-03-88, Foia, Sturm Graz
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Christian Mayrleb, AUT, F, 1.76, 76, 08-06-72, Wels, Superfund Pasching
+14, Thomas Krammer, AUT, D, 1.78, 75, 18-02-83, Graz, Grödig
+30, Daniel Sobkova, AUT, M, 1.78, 76, 17-07-85, , Grödig

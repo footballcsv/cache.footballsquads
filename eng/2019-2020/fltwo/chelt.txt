@@ -1,0 +1,39 @@
+=  Cheltenham Town - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Flinders, ENG, G, 1.93, 80, 12-06-86, Rotherham, Macclesfield T
+2, Sean Long, IRL, D, 1.78, 70, 02-05-95, Dublin, Lincoln C
+3, Chris Hussey, ENG, D, 1.78, 65, 02-01-89, Hammersmith, Sheffield U
+4, Ben Tozer, ENG, M, 1.86, 81, 01-03-90, Plymouth, Newport Co
+5, Charlie Raglan, ENG, D, 1.83, 76, 28-04-93, Wythenshawe, Oxford U
+6, Daniel Bowry, ATG, D, 1.80, 67, 29-04-98, Croydon, Charlton Ath
+7, Conor Thomas, ENG, M, 1.85, 72, 29-10-93, Coventry, ATK
+8, Chris Clements, ENG, M, 1.75, 66, 06-02-90, Birmingham, Grimsby T
+9, Reuben Reid, ENG, F, 1.83, 77, 26-07-88, Bristol, Forest Green R
+10, Tahvon Campbell, ENG, F, 1.71, 68, 10-01-97, Birmingham, Forest Green R
+11, Ryan Broom, WAL, M, 1.77, 80, 04-09-96, Newport, Bristol R
+14, Max Sheaf, ENG, M, 1.83, 75, 10-03-00, Gravesend, Hull C
+15, William Boyle, SCO, D, 1.88, 70, 01-09-95, Garforth, Huddersfield T
+16, Alex Addai, ENG, M, 1.78, 74, 20-12-93, Stepney, Merstham
+17, Josh Debayo, NGA, D, 1.83, 68, 17-10-96, Hendon, Leicester C
+18, Archie Brennan, ENG, M, 1.73, 61, 16-10-00, Gloucester, None
+19, George Lloyd, ENG, F, 1.73, 63, 11-02-00, Gloucester, None
+21, Jake Doyle-Hayes, IRL, M, 1.76, 68, 30-12-98, Ballyjamesduff, Aston Villa
+22, Rhys Lovett, ENG, G, 1.83, 74, 15-05-97, Birmingham, Rochdale
+23, Rohan Ince, ENG, M, 1.91, 80, 08-11-92, Whitechapel, Brighton & HA
+24, Grant Horton, ENG, D, 1.92, 79, 18-05-01, Colchester, None
+25, Tom Chamberlain, ENG, M, 1.87, 74, 01-06-02, Cheltenham, None
+26, Jacob Greaves, ENG, D, 1.85, 70, 12-09-00, Beverley, Hull C
+27, Jonte Smith, BER, F, 1.85, 76, 10-07-94, Hamilton [BER], Oxford U
+29, Alfie May, ENG, F, 1.76, 72, 02-07-93, Gravesend, Doncaster R
+30, Callum Ebanks, ENG, F, , , 08-10-02, Birmingham, None
+31, Freddie Lapworth, ENG, G, 1.84, 69, 10-11-01, Oxford, None
+32, Luke Varney, ENG, F, 1.80, 70, 28-09-82, Leicester, Burton Alb
+33, Owen Evans, WAL, G, 1.84, 70, 28-11-96, Newport, Wigan Ath
+34, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, Bristol R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Gavin Reilly, SCO, F, 1.81, 73, 10-05-93, Dumfries, Bristol R
+28, Aaron Evans-Harriott, ENG, M, , , 16-09-02, Worcester, Coventry C

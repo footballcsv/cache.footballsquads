@@ -1,0 +1,66 @@
+=  Oldham Athletic - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gary Woods, ENG, G, 1.85, 78, 01-10-90, Kettering, Hamilton Academical
+2, Zak Mills, ENG, D, 1.83, 83, 28-05-92, Peterborough, Morecambe
+3, Alex Iacovitti, SCO, D, 1.80, 68, 02-09-97, Nottingham, Nottingham F
+6, Jamie Stott, ENG, D, 1.85, 79, 22-12-97, Bury, None
+7, Johan Branger, GAB, M, 1.84, 79, 05-07-93, Sens, Dieppe
+8, Filipe Morais, POR, M, 1.75, 73, 21-11-85, Lisbon, Crawley T
+10, Mohamed Maouche, FRA, M, 1.80, 70, 22-01-93, Léogâne, Tours
+11, Gevaro Nepomuceno, CUW, F, 1.74, 67, 10-11-92, Tilburg, Marítimo
+15, Javid Swaby-Neavin, ENG, D, 1.76, 65, 11-06-01, Stevenage, None
+16, Scott Wilson, ENG, F, 1.84, 81, 11-01-93, Bristol, Macclesfield T
+17, Christopher Missilou, FRA, M, 1.80, 70, 18-07-92, Auxerre, Le Puy
+18, Dylan Fage, FRA, M, 1.78, 70, 18-03-99, Paris, Auxerre
+19, Désiré Segbé Azankpo, BEN, F, 1.80, 70, 06-05-93, Allahé, Senica
+20, Zeus de la Paz, CUW, G, 1.88, 83, 11-03-95, Nijmegen, Cincinnati Dutch Lions
+21, Marvin Kokos, FRA, F, 1.82, 78, 12-10-00, Marseille, Gazélec Ajaccio
+23, Christian N'Guessan, ENG, M, 1.86, 79, 20-10-98, Lewisham, Burnley
+24, Mohamed Sylla, FRA, M, 1.88, 79, 01-12-93, Ivry-sur-Seine, Entente SSG
+25, Chris McCann, IRL, M, 1.85, 75, 21-07-87, Meath, DC United
+26, Jonny Smith, ENG, M, 1.78, 64, 27-07-97, Liverpool, Bristol C
+27, Kielen Adams, ENG, F, , , 11-05-01, Huddersfield, Bradford C
+29, Tomáš Egert, CZE, D, 1.92, 85, 01-08-94, Prague, Burton Alb
+30, Ryan Pickford, ENG, F, , , , , None
+31, David Wheater, ENG, D, 1.96, 82, 14-02-87, Redcar, Bolton W
+32, Robert Oseh, ENG, M, , , , , Sheffield U
+33, Carl Piergianni, ENG, D, 1.85, 85, 03-05-92, Peterborough, Salford C
+34, Tom Hamer, ENG, D, 1.87, 80, 16-11-99, Bolton, None
+35, Vani Da Silva, POR, F, , , 30-03-03, , Bury
+36, Junior Luamba, ENG, F, , , 27-04-03, , Blackburn R
+37, Lewis McKinney, ENG, F, , , , , None
+38, Callum Speed, ENG, F, , , , , None
+40, Drew Baker, ENG, D, , , , , Bury
+41, Ellis Allen, ENG, G, , , 16-10-01, , None
+42, Mackenzie Chapman, ENG, G, 1.94, 84, 13-09-02, Bury, Burnley
+43, Reece Gaskell, ENG, M, , , , , None
+44, Jack Grundy, ENG, D, , , , , None
+45, Andy Hackett, ENG, D, , , , , None
+46, Sean Higgins, ENG, D, , , 07-03-03, , Wigan Ath
+47, Taylor Jones, ENG, D, , , 24-09-01, , None
+48, Ben Hough, ENG, M, , , , , None
+49, Charley Leech, ENG, D, , , , , None
+50, Will Sutton, ENG, D, , , 30-10-02, , None
+51, Jack Williams, ENG, M, , , 16-05-03, , None
+52, Kyle Wych, ENG, M, , , , , None
+53, Zak Emmerson, ENG, F, , , 10-08-04, , None
+54, Mani Dieseruvwe, ENG, F, 1.96, 72, 05-01-94, Leeds, Salford C
+55, Zak Dearnley, ENG, M, 1.75, 66, 28-09-98, Sheffield, New Mills
+56, Danny Rowe, ENG, F, 1.86, 84, 29-01-90, Blackpool, AFC Fylde
+57, Cameron Borthwick-Jackson, ENG, D, 1.83, 78, 02-02-97, Manchester, Manchester U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Dominic McHale, ENG, M, 1.81, 73, 18-06-96, Manchester, Romford
+23, Callum Dolan, ENG, M, , , 29-09-00, , Radcliffe Boro
+13, Florian Gonzales, FRA, M, 1.82, 68, 12-05-99, Marseille, 
+33, Chris Eagles, ENG, M, 1.83, 67, 19-11-85, Hemel Hempstead, 
+9, Urko Vera, ESP, F, 1.90, 85, 14-05-87, Barakaldo, Guijuelo
+4, Sonhy Sefil, FRA, D, 1.94, 89, 16-06-94, Schœlcher, 
+5, Ashley Smith-Brown, ENG, D, 1.77, 68, 31-03-96, Manchester, Plymouth Arg
+14, Harry Robinson, NIR, M, 1.84, 71, 26-09-00, Preston, Motherwell
+22, David Jones, ENG, M, 1.85, 80, 04-11-84, Southport, 
+28, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, Radcliffe Boro
+39, Gregor Zabret, SVN, G, 1.87, 82, 18-08-95, Ljubljana, Swansea C

@@ -1,0 +1,47 @@
+=  Yeovil Town - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stuart Nelson, ENG, G, 1.85, 82, 17-09-81, Stroud, Gillingham
+2, Adel Gafaiti, ALG, D, 1.85, 76, 13-09-94, Paris, Zirka Kropyvnytskyi
+3, Carl Dickinson, ENG, D, 1.85, 76, 31-03-87, Swadlincote, Notts Co
+4, Gary Warren, ENG, D, 1.84, 75, 16-08-84, Bristol, Inverness CT
+5, Bevis Mugabi, UGA, D, 1.89, 75, 01-05-95, Harrow, Southampton
+6, Omar Sowunmi, ENG, D, 1.98, 93, 07-11-95, Colchester, Ipswich T
+7, Rhys Browne, ATG, M, 1.77, 80, 16-11-95, Romford, Grimsby T
+8, Matt Worthington, ENG, M, 1.79, 72, 18-12-97, Southampton, Bournemouth
+9, Alex Fisher, ENG, F, 1.88, 76, 30-06-90, Westminster, Motherwell
+10, Jake Gray, ENG, M, 1.80, 70, 25-12-95, Aylesbury, Luton T
+11, Courtney Duffus, IRL, F, 1.70, 76, 24-10-95, Cheltenham, Oldham Ath
+12, Nathan Baxter, ENG, G, 1.91, 76, 08-11-98, Westminster, Chelsea
+13, François Zoko, CIV, F, 1.82, 72, 13-09-83, Daloa, Blackpool
+15, Gabriel Rogers, ENG, M, , , 14-02-00, Camden, None
+16, Tristan Abrahams, ENG, F, 1.75, 67, 29-12-98, Lewisham, Norwich C
+17, Alex Pattison, ENG, M, 1.73, 70, 06-09-97, Darlington, Middesbrough
+18, Yoann Arquin, FRA, F, 1.89, 85, 15-04-88, Le Havre, Kaysar Kyzylorda
+20, Sessi D'Almeida, BEN, M, 1.78, 71, 20-11-95, Bordeaux, Blackpool
+21, Josh Grant, ENG, D, 1.83, 78, 11-10-98, Lambeth, Chelsea
+22, Tyrique Clarke, ENG, F, , , , , None
+23, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Cardiff C
+24, Craig Alcock, ENG, D, 1.73, 70, 08-12-87, Truro, Cheltenham T
+25, Alex Dobre, ROU, M, 1.78, 71, 30-08-98, Bucharest, Bournemouth
+26, Daniel Ojo, ITA, D, , , 17-02-01, , None
+27, Ryan Seager, ENG, F, 1.76, 75, 05-02-96, Yeovil, Southampton
+28, Devon Arnold, ENG, F, , , 24-11-01, Winchester, None
+29, Alex John, WAL, M, , , 08-02-01, , None
+30, Alefe Santos, BRA, M, 1.78, 66, 28-01-95, São Paulo, Derby Co
+31, Tommy Scott, NIR, G, 1.88, 78, 13-09-99, Poole, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Reece Cole, ENG, M, 1.78, 65, 17-02-98, Hillingdon, Brentford
+25, Steve Phillips, ENG, G, 1.85, 75, 06-05-78, Bath, Retired
+8, Omari Patrick, ENG, F, 1.85, 80, 24-05-96, Slough, Bradford C
+29, Enes Mahmutović, LUX, D, 1.90, 80, 22-05-97, Peć, Middlesbrough
+21, Wes McDonald, ENG, F, 1.74, 77, 04-05-97, Lambeth, 
+24, Olufela Olomola, ENG, F, 1.70, 67, 05-09-97, Harrow, Scunthorpe U
+27, Shaun Donnellan, IRL, D, 1.83, 64, 22-05-97, Barnet, Maidstone U
+11, Jordan Green, ENG, F, 1.68, 72, 22-02-95, New Cross, Barnsley
+14, Diallang Jaiyesimi, ENG, M, 1.81, 72, 18-03-99, Southwark, Norwich C
+16, James Bailey, ENG, M, 1.83, 79, 18-09-88, Macclesfield, 
+19, Korrey Henry, ENG, F, 1.78, 70, 28-11-99, Lewisham, Braintree T

@@ -1,0 +1,54 @@
+=  Karabükspor - Turkish Süper Lig 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Erdem Özgenç, TUR, D, 1.77, 70, 22-08-84, Sakarya, Boluspor
+4, Hamza Çakir, TUR, D, 1.81, 78, 30-09-85, Cologne, Kayserispor
+5, Birol Hikmet, TUR, M, 1.78, 73, 24-03-82, Akyazı, Diyarbakırspor
+7, Şenol Akın, TUR, M, 1.68, 64, 20-12-84, Gebze, Körfez Belediyespor
+8, Bilal Kısa, TUR, M, 1.80, 71, 22-06-83, Merzifon, Karşıyaka
+10, Florin Cernat, ROU, M, 1.71, 68, 10-03-80, Galaţi, Hadjuk Split
+12, Armand Deumi Tchami, CMR, D, 1.82, 79, 12-03-79, Douala, Gaziantepspor
+13, Güven Varol, TUR, M, 1.84, 72, 02-06-81, Adapazarı, Ankaragücü
+14, Barış Aysu, TUR, M, , , 10-05-92, Ordu, Tepebağ Kültürspor
+15, Anıl Karaer, TUR, D, 1.85, 75, 04-07-88, Istanbul, Adanaspor
+16, Mustafa Sarp, TUR, M, 1.87, 76, 05-11-80, Bakirköy, Samsunspor
+18, Mehmet Çakir, TUR, M, 1.79, 75, 04-01-84, Bala, Trabzonspor
+19, Vjekoslav Tomić, CRO, G, 1.90, 94, 14-10-83, Split, Hadjuk Split
+20, Anthony Šerić, CRO, D, 1.81, 85, 15-01-79, Sydney, Hadjuk Split
+21, Erkan Taşkıran, TUR, M, 1.83, 74, 22-04-85, İzmir, Bucaspor
+23, İlhan Parlak, TUR, F, 1.81, 75, 18-01-87, Yahyali, Ankaraspor
+25, Larrys Mabiala, COD, D, 1.89, 84, 08-09-87, Montfermeil, Nice
+33, Kağan Söylemezgiller, TUR, M, 1.79, 74, 04-03-88, Kirchheim, Ankaragücü
+39, Jugurtha Hamroun, ALG, M, 1.75, 74, 27-01-89, Bouzeguene, Chernomorets Burgas
+55, Serhat Altun, TUR, M, , , 24-02-91, İstanbul, Galatasaray
+58, Mehmet Yıldız, TUR, F, 1.83, 83, 14-09-81, Yozgat, Eskişehirspor
+61, Muhammet Özdin, TUR, D, 1.85, 73, 10-09-78, Vakfikebir, Kocaelispor
+68, Hakan Söyler, TUR, M, 1.79, 79, 06-04-83, Ankara, Malatyaspor
+74, Alp Ahmet Ünal, TUR, F, , , 05-08-92, Bartın, None
+77, Ceyhun Yazar, TUR, M, , , 16-05-92, Zonguldak, Galatasaray
+78, Luton Shelton, JAM, F, 1.83, 77, 11-11-85, Kingston, Vålerenga
+79, Burak Çalman, TUR, F, , , 13-02-93, Karabük, None
+81, Sanel Jahić, BIH, D, 1.85, 85, 10-12-81, Strasbourg, APOEL
+82, Hocine Ragued, TUN, M, 1.82, 76, 11-02-83, Saint-Germain, Slavia Prague
+86, Uğur Uçar, TUR, D, 1.80, 70, 05-04-87, Bakirköy, Ankaragücü
+87, Ergin Keleş, TUR, F, 1.84, 75, 01-01-87, Arsin, Ankaragücü
+88, Bora Körk, TUR, G, 1.87, 78, 09-06-80, İzmir, Ankaragücü
+91, Ahmet Burgaz, TUR, G, 1.85, 74, 11-08-91, Karabük, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Tozo, BRA, M, 1.80, 78, 15-08-80, Mogi Mirim, Náutico
+60, Ahmet Cebe, TUR, M, 1.81, 75, 02-05-83, Krefeld, Akhisar Belediyespor
+66, Oğuz Kaan Barış, TUR, G, , , 04-07-88, Altındağ, Kırıkhanspor
+26, Murat Selvi, TUR, D, 1.76, 73, 10-07-82, Maasmechelen, Elazığspor
+17, Rıdvan Şimşek, TUR, D, 1.73, 65, 17-01-91, İzmir, Beşiktaş
+35, Mehmet Batdal, TUR, F, 1.95, 89, 24-02-86, İzmir, Galatasaray
+6, Merter Yüce, TUR, M, 1.92, 85, 18-02-85, Bornova, Akhisar Belediyespor
+3, Recep Mertcan Eskin, TUR, D, 1.85, 80, 30-01-91, Karabük, Ünyespor (On Loan)
+99, Levent Yılmaz, TUR, F, 1.85, 73, 20-01-90, Karabük, Ünyespor (On Loan)
+37, Ali Kucık, TUR, F, 1.79, 72, 17-06-91, İnebolu, Beşiktaş
+29, Danilo Nikolić, SRB, D, 1.88, 81, 29-07-83, Belgrade, Elazığspor
+9, Ismail Isa, BUL, F, 1.83, 79, 06-02-89, Targovishte, Elazığspor (On Loan)
+11, Sinan Kaloğlu, TUR, F, 1.87, 81, 10-06-81, Ovacik, Antalyaspor
+22, Orkun Uşak, TUR, G, 1.83, 78, 05-11-80, Istanbul, Antalyaspor

@@ -1,0 +1,61 @@
+=  Cardiff City - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, SCO, G, 1.83, 74, 31-01-82, Edinburgh, Hull C
+2, Lee Peltier, ENG, D, 1.78, 73, 11-12-86, Liverpool, Huddersfield T
+3, Joe Bennett, ENG, D, 1.77, 74, 28-03-90, Rochdale, Aston Villa
+4, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Reading
+5, Bruno Ecuele Manga, GAB, D, 1.86, 76, 16-07-88, Libreville, Lorient
+6, Ashley Richards, WAL, D, 1.85, 78, 12-04-91, Swansea, Fulham
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Joe Ralls, ENG, M, 1.83, 70, 13-10-93, Aldershot, None
+9, Frédéric Gounongbe, BEL, F, 1.90, 85, 01-05-88, Brussels, KVC Westerlo
+11, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazackerly, Brighton & HA
+12, Declan John, WAL, M, 1.78, 75, 30-06-95, Merthyr Tydfil, None
+13, Anthony Pilkington, IRL, M, 1.83, 76, 06-06-88, Blackburn, Norwich C
+14, Souleymane Bamba, CIV, D, 1.90, 90, 13-01-85, Ivry-sur-Seine, Leeds U
+15, Greg Halford, ENG, D, 1.95, 81, 08-12-84, Chelmsford, Rotherham U
+16, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+17, Aron Gunnarsson, ISL, M, 1.77, 70, 22-04-89, Akureyri, Coventry C
+19, Rickie Lambert, ENG, F, 1.88, 77, 16-02-82, Kirkby, WBA
+21, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, Bolton W
+24, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Wycombe W
+26, Kenneth Zohore, DEN, F, 1.94, 95, 31-01-94, Copenhagen, Kortrijk
+27, Ibrahim Meite, ENG, F, 1.85, 72, 01-06-96, Wandsworth, Harrow Boro
+28, Brian Murphy, IRL, G, 1.83, 83, 07-05-83, Waterford, Portsmouth
+31, Mark Harris, WAL, M, 1.82, 75, 29-12-98, Swansea, None
+33, Junior Hoilett, CAN, M, 1.73, 70, 05-06-90, Brampton, QPR
+35, Sion Spence, WAL, M, , , 02-10-00, , None
+37, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Gap Connah's Quay
+40, Theo Wharton, WAL, M, 1.78, 68, 15-11-94, Newport, None
+41, Luke O'Reilly, ENG, G, 1.82, 74, 27-05-96, Hackney, None
+42, Oliver Byrne, ENG, G, 1.88, 75, 31-12-97, Trafford, Manchester U
+45, Marco Weymans, BEL, D, 1.75, 70, 09-07-97, Mouscron, PSV Eindhoven
+46, Jordan Blaise, FRA, D, 1.91, 84, 09-01-96, Vitry-sur-Seine, Bordeaux
+47, Macauley Southam, WAL, M, , , 02-02-96, , None
+51, Robbie Patten, WAL, M, , , 29-11-96, , None
+52, Jamie Veale, WAL, M, , , 28-11-96, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Middlesbrough
+18, Tom Adeyemi, ENG, M, 1.85, 78, 24-10-91, Norwich, Rotherham U (On Loan)
+21, Simon Moore, ENG, G, 1.91, 83, 19-05-90, Sandown, Sheffield U
+15, Kagisho Dikgacoi, RSA, M, 1.80, 80, 24-11-84, Brandfort, Golden Arrows
+1, David Marshall, SCO, G, 1.91, 83, 05-03-85, Glasgow, Hull C
+15, Kieran Richardson, ENG, M, 1.79, 74, 21-10-84, Greenwich, 
+27, Marouane Chamakh, MAR, F, 1.85, 70, 10-01-84, Tonnens, 
+44, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, Barnet
+10, Lex Immers, NED, M, 1.87, 78, 08-06-86, Den Haag, Club Brugge
+43, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Yeovil T
+53, Eli Phipps, WAL, F, 1.80, 70, 29-07-97, Merthyr Tydfil, Colchester U
+38, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, Colchester U
+49, Ashley Baker, WAL, D, 1.78, 78, 30-10-96, Bridgend, Sheffield W
+29, Semi Ajayi, ENG, D, 1.93, 83, 09-11-93, Crayford, Rotherham U (On Loan)
+30, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Rochdale (On Loan)
+20, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Bolton W (On Loan)
+22, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, MK Dons (On Loan)
+23, Matthew Kennedy, SCO, M, 1.75, 65, 01-11-94, Irvine, Plymouth Arg (On Loan)
+25, Emyr Huws, WAL, M, 1.85, 78, 30-09-93, Llanelli, Ipswich T (On Loan)
+48, Dylan Rees, WAL, D, 1.78, 73, 17-09-96, Haverfordwest, Aberystwyth T

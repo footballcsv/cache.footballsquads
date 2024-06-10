@@ -1,0 +1,43 @@
+=  Sutton United - English Football League Two 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jack Rose, ENG, G, 1.83, 75, 31-01-95, Solihull, Walsall
+2, Jonathan Barden, ENG, M, 1.83, 78, 09-11-92, Harrow, St Louis FC
+3, Sam Hart, ENG, D, 1.80, 72, 10-09-96, Bolton, Oldham Ath
+4, Coby Rowe, ENG, D, 1.92, 85, 02-10-95, Waltham Forest, Haringey Boro
+5, Ben Goodliffe, ENG, D, 1.88, 80, 19-06-99, Watford, Wolverhampton W
+6, Louis John, ENG, D, 1.90, 85, 19-04-94, Croydon, Cambridge U
+7, Enzio Boldewijn, NED, M, 1.85, 76, 17-11-92, Almere, Notts Co
+8, Alistair Smith, ENG, M, 1.87, 67, 19-05-99, Beverley, Altrincham
+9, Omar Bugiel, LIB, F, 1.84, 77, 25-09-94, Berlin, Bromley
+10, Harry Beautyman, ENG, M, 1.78, 74, 01-04-92, Newham, Stevenage
+11, Will Randall, ENG, M, 1.80, 65, 02-05-97, Swindon, Newport Co
+12, Tobi Ogundega, ENG, D, -, -, 12-02-04, -, MK Dons
+13, Brad House, ENG, G, 1.88, 78, 19-10-98, Worthing, WBA
+14, Craig Dundas, ENG, F, -, -, 16-02-81, Lambeth, Hampton & Richmond Boro
+15, Craig Eastmond, ENG, M, 1.83, 75, 09-12-90, Wandsworth, Yeovil T
+16, David Ajiboye, ENG, F, 1.70, 70, 28-09-98, Bromley, Peterborough U
+17, Matt Ridley, ENG, D, 1.95, 85, 07-05-00, Hartlepool, Whitby T
+18, Adam Lovatt, ENG, M, -, -, 11-05-99, -, Hastings U
+19, Tope Fadahunsi, ENG, F, 1.77, 70, 29-08-99, Wandsworth, Loughborough Univ
+20, Josh Neufville, ENG, F, 1.83, 74, 22-03-01, Luton, Luton T
+21, Luke Gambin, MLT, M, 1.68, 70, 16-03-93, Sutton, Hamrun Spartans
+22, Joe Kizzi, ENG, D, 1.93, 88, 24-06-93, Enfield, Bromley
+24, Robert Milsom, ENG, M, 1.78, 72, 02-01-87, Redhill, Notts Co
+25, Donovan Wilson, ENG, F, 1.80, 70, 14-03-97, Yate, Bath C
+27, Kylian Kouassi, ENG, F, -, -, 18-06-03, -, None
+28, Roman Charles-Cook, GRN, D, -, -, -, -, None
+29, Hisham Kasimu, FRA, F, -, -, 04-08-97, -, Farnborough
+30, Filip Chałupniczak, POL, G, 1.87, 87, 15-02-01, Koźmin, Hanwell T
+31, Matt Kerbey, ENG, G, -, -, 27-06-02, -, None
+33, Lee Angol, ENG, F, 1.78, 72, 04-08-94, Carshalton, Bradford C
+35, Matthew Dennis, ENG, D, -, -, 15-04-02, -, MK Dons
+36, Tyla Dickinson, ENG, G, -, -, 03-04-01, -, Wycombe W
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Charley Kendall, ENG, F, -, -, 15-12-00, Eastbourne, Lincoln C
+39, Kwame Thomas, ENG, F, 1.78, 76, 28-09-95, Nottingham, Dundee (On Loan)
+26, Aaron Pierre, GRN, D, 1.85, 88, 17-02-93, Southall, AFC Wimbledon
+34, Lewis Ward, ENG, G, 1.95, 81, 05-03-97, -, 

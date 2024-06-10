@@ -1,0 +1,23 @@
+# French Ligue 1 2013/14
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Évian Thonon Gaillard](eviantg.txt)
+- [Guingamp](guinga.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Reims](reims.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Toulouse](toulouse.txt)
+- [Valenciennes](valenc.txt)

@@ -1,0 +1,40 @@
+=  TSV 1860 Munich - German 2.Bundesliga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabor Király, HUN, G, 1.91, 85, 01-04-76, Szombathely, Burnley
+2, Antonio Rukavina, SRB, D, 1.77, 72, 26-01-84, Belgrade, Borussia Dortmund
+4, Kai Bülow, GER, D, 1.88, 77, 31-05-86, Rostock, Hansa Rostock
+5, Guillermo Vallori, ESP, D, 1.91, 84, 24-06-82, Palma de Mallorca, Grasshoppers
+6, Dominik Stahl, GER, M, 1.82, 79, 20-08-88, Hardheim, 1899 Hoffenheim
+7, Daniel Bierofka, GER, M, 1.78, 75, 07-02-79, Munich, Stuttgart
+8, Maximilian Nicu, GER, M, 1.87, 74, 25-11-82, Prien am Chiemsee, Freiburg
+9, Djordje Rakić, SRB, F, 1.88, 82, 31-10-85, Belgrade, Red Bull Salzburg
+11, Benjamin Lauth, GER, F, 1.79, 74, 04-08-81, Hausham, Hannover 96
+13, Necat Aygün, TUR, D, 1.92, 85, 26-02-80, Munich, Sandhausen
+14, Bobby Wood, USA, F, 1.80, 76, 15-11-92, Honolulu, Irvine Strikers
+15, Stefan Aigner, GER, M, 1.85, 72, 20-08-87, Munich, Arminia Bielefeld
+16, Daniel Jais, GER, F, 1.84, 78, 24-02-92, Landsberg, None
+17, Stefan Buck, GER, D, 1.89, 81, 03-09-80, Bad Saulgau, Augsburg
+19, Sebastian Maier, GER, M, 1.76, 64, 18-09-93, Landshut, None
+20, Collin Benjamin, NAM, M, 1.82, 80, 03-08-78, Windhoek, Hamburg
+21, Sandro Kaiser, GER, M, 1.78, 69, 21-09-89, Fürstenfeldbruck, None
+22, Timo Ochs, GER, G, 1.88, 86, 17-10-81, Göttingen, Nürnberg
+23, Benjamin Schwarz, GER, D, 1.80, 73, 10-07-86, Munich, None
+25, Jonatan Kotzke, GER, M, 1.84, 75, 18-03-90, Pinneberg, Nürnberg II
+26, Christopher Schindler, GER, D, 1.88, 77, 29-04-90, Munich, None
+27, Arne Feick, GER, M, 1.81, 75, 01-04-88, Berlin, Arminia Bielefeld
+28, Daniel Halfar, GER, F, 1.73, 64, 07-01-88, Mannheim, Arminia Bielefeld
+29, Markus Ziereis, GER, F, 1.85, 73, 26-08-92, Roding, None
+30, Vitus Eicher, GER, G, 1.90, 80, 05-11-90, Erding, None
+31, Kevin Volland, GER, F, 1.79, 75, 30-07-92, Marktoberdorf, 1899 Hoffenheim
+32, Marcel Kappelmaier, GER, M, 1.80, 70, 14-04-91, Ingolstadt, None
+34, Daniel Hofstetter, GER, D, 1.84, 70, 04-07-92, Ebersberg, Wacker Burghausen
+36, Philipp Steinhart, GER, D, 1.82, 70, 07-07-92, Dachau, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Korbinian Vollmann, GER, F, 1.79, 67, 27-10-93, Munich, Unterhaching (On Loan)
+5, Dennis Malura, GER, D, 1.87, 75, 20-06-84, Berlin, Heidenheim
+18, Manuel Schäffler, GER, F, 1.86, 84, 06-02-89, Fürstenfeldbruck, Ingolstadt
+24, Tobias Schilk, GER, D, 1.83, 67, 24-03-92, Munich, Mainz

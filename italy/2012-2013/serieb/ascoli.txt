@@ -1,0 +1,55 @@
+=  Ascoli - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lys Gomis, SEN, G, 1.86, 78, 06-10-89, Cuneo, Torino
+2, Manuel Scalise, ITA, M, 1.75, 70, 28-08-81, Rho, Nocerina
+3, Stefano Scognamillo, ITA, D, 1.83, 78, 04-05-94, St Petersburg, None
+4, Marco Ezio Fossati, ITA, M, 1.80, 70, 05-10-92, Monza, Milan
+5, Giuseppe Prestia, ITA, D, 1.90, 88, 13-11-93, Palermo, Palermo
+6, Vasco Faísca, POR, D, 1.84, 80, 27-08-80, Lisbon, Padova
+7, Giuseppe Russo, ITA, M, 1.83, 74, 27-06-83, Catania, Verona
+8, Daniele di Donato, ITA, M, 1.73, 70, 21-02-77, Giulianova, Arezzo
+9, Andrea Soncin, ITA, F, 1.74, 72, 05-09-78, Vigevano, Grosseto
+10, Simone Zaza, ITA, F, 1.82, 75, 25-06-91, Policoro, Sampdoria
+11, Adriano Montalto, ITA, F, 1.85, 70, 06-04-88, Erice, Latina
+12, Marcel De Bellis, CAN, G, 1.93, 85, 09-10-91, Oakville, Bellaria
+13, Luca Ricci, ITA, D, 1.87, 78, 13-03-89, Bibbiena, Cesena
+14, Matteo Legittimo, ITA, D, 1.82, 76, 17-06-89, Casarano, Torino
+15, Riccardo De Sanctis, ITA, D, 1.86, 78, 01-04-93, , Mendrisio-Stabio
+16, Davide Colomba, ITA, M, 1.77, 74, 19-07-88, Bologna, Parma
+17, Andrea De Iulis, ITA, F, 1.83, 75, 25-07-93, Rome, None
+18, Massimo LoViso, ITA, M, 1.78, 65, 09-04-84, Bentivoglio, Crotone
+19, Daniele Gragnoli, ITA, F, 1.75, 65, 03-01-94, Rome, None
+20, Fabio Conocchioli, ITA, D, 1.79, 74, 04-01-90, Ascoli Piceno, None
+21, Lorenzo Pasqualini, ITA, M, 1.73, 61, 19-08-89, Ascoli Piceno, Parma
+22, Roberto Maurantonio, ITA, G, 1.82, 78, 07-06-81, Bari, Piacenza
+23, Giorgio Capece, ITA, M, 1.83, 75, 05-03-92, Fermo, None
+24, Marco Massei, ITA, M, , , 01-09-93, , Viareggio
+25, Jacopo Sorci, ITA, M, , , 16-02-94, Ascoli Piceno, None
+26, Maurizio Peccarisi, ITA, D, 1.92, 88, 17-02-78, Bordighera, Salernitana
+27, Liam Graham, NZL, D, 1.80, 75, 14-08-92, Melbourne, Vicenza
+28, Christian Oddi, ITA, D, , , 20-02-94, Castorano, None
+29, Tommaso Morosini, ITA, M, 1.85, 70, 08-10-91, Ponte San Pietro, AlbinoLeffe
+30, Róbert Feczesin, HUN, F, 1.87, 75, 22-02-86, Budapest, Brescia
+31, Lion Giovannini, ITA, F, , , 09-04-95, , None
+32, Mattia Ruzzier, ITA, M, , , 13-09-94, Civitanova Marche, None
+33, Lorenzo Foglia, ITA, D, , , 25-01-95, Macerata, None
+34, Andrea Grilli, ITA, F, , , 12-07-94, Macerata, None
+35, Antonio Pietropaolo, ITA, M, , , 14-06-95, , None
+36, Giovanni Caruso, ITA, M, , , 18-08-94, Lamezia, None
+37, Ilario Iotti, ITA, F, , , 10-05-95, , None
+38, Roberto Mecca, ITA, G, , , 28-06-96, Maratea, None
+39, Roberto Di Nardo, ITA, G, , , 29-10-95, Ascoli Piceno, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Vito Falconieri, ITA, F, 1.81, 72, 08-06-86, Brindisi, Crotone (On Loan)
+31, Matteo Fabi Cannella, ITA, F, 1.80, 73, 15-03-93, Ascoli Piceno, Bellaria (On Loan)
+11, Yonese Hanine, MAR, M, 1.73, 60, 20-02-90, Castiglione delle Stiviere, Aprilia (On Loan)
+1, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, Spezia
+14, Andrea Giallombardo, ITA, D, 1.75, 70, 19-08-80, Roma, Latina (On Loan)
+15, Ivan Reali, ITA, M, 1.84, 72, 02-01-91, Sora, Vallée d'Aoste (On Loan)
+28, Ousmane Drame, SEN, M, 1.74, 70, 25-08-92, Paris, Padova
+12, Vincenzo Melillo, ITA, G, 1.86, 84, 22-08-86, Benevento, Bellaria
+17, Matteo Famà, ITA, M, 1.80, 70, 10-02-91, Parma, Bellaria

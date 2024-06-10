@@ -1,0 +1,23 @@
+# French Ligue 1 2002/03
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Guingamp](guinga.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Sedan](sedan.txt)
+- [Sochaux](sochaux.txt)
+- [Strasbourg](stras.txt)
+- [Troyes](troyes.txt)

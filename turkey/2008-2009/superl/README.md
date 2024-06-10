@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2008/09
+
+18 teams
+- [Ankaragücü](ankgucu.txt)
+- [Ankaraspor](ankspor.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Denizlispor](denizli.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Hacettepe](hacette.txt)
+- [İstanbul Büyükşehir Belediyespor](istanbb.txt)
+- [Kayserispor](kayseri.txt)
+- [Kocaelispor](kocaeli.txt)
+- [Konyaspor](konya.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

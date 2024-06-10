@@ -1,0 +1,50 @@
+=  FC Twente - Dutch Eredivisie 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sander Boschker, NED, G, 1.86, 87, 20-10-70, Lichtenvoorde, Ajax
+2, Tim Cornelisse, NED, D, 1.84, 73, 03-04-78, Alkmaar, FC Utrecht
+3, Nicky Kuiper, NED, D, 1.83, 84, 07-06-89, Arnhem, Vitesse
+4, Peter Wisgerhof, NED, D, 1.81, 84, 19-11-79, Wageningen, NEC Nijmegen
+5, Rasmus Bengtsson, SWE, D, 1.86, 80, 26-06-86, Malmö, Hertha Berlin
+6, Wout Brama, NED, M, 1.76, 71, 21-08-86, Almelo, PH Almelo
+7, Denny Landzaat, NED, M, 1.78, 70, 06-05-76, Amsterdam, Feyenoord
+8, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, Feyenoord
+9, Luuk de Jong, NED, F, 1.88, 80, 27-08-90, Aigle, De Graafschap
+10, Glynor Plet, NED, F, 1.94, 83, 30-01-87, Amsterdam, Heracles Almelo
+11, Emir Bajrami, SWE, M, 1.78, 77, 07-03-88, Priština, IF Elfsborg
+12, Wesley Verhoek, NED, F, 1.88, 80, 25-09-86, Leidschendam, ADO Den Haag
+13, Nikolay Mihaylov, BUL, G, 1.94, 85, 28-06-88, Sofia, Liverpool
+14, Willem Janssen, NED, M, 1.86, 75, 04-07-86, Nijmegen, Roda JC
+15, Roberto Rosales, VEN, D, 1.74, 73, 20-11-88, Caracas, KAA Gent
+16, Nick Marsman, NED, G, 1.81, 78, 01-10-90, Zwolle, Heracles Almelo
+17, Andrej Rendla, SVK, F, 1.88, 78, 13-10-90, Banská Bystrica, Dukla Banská Bystrica
+18, Thilo Leugers, GER, D, 1.84, 77, 09-01-91, Lingen, None
+19, Douglas, NED, D, 1.92, 80, 12-01-88, São Paulo, Joinville
+20, Dwight Tiendalli, NED, D, 1.77, 68, 21-10-85, Paramaribo, Feyenoord
+22, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, AGOVV Apeldoorn
+23, Bart Buysse, BEL, M, 1.78, 70, 16-10-86, Brugge, Zulte-Waregem
+24, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, None
+25, Daniel Fernandes, POR, G, 1.93, 99, 25-09-83, Edmonton [CAN], CFR Cluj
+26, Joshua John, NED, F, 1.75, 63, 01-10-88, Alkmaar, Sparta Rotterdam
+30, Filip Bednarek, POL, G, 1.88, 81, 26-09-92, Kleczew, Amica Wronki
+31, Nils Röseler, GER, D, 1.92, 84, 10-02-92, Bad Bentheim, Bad Bentheim
+33, Chris David, NED, M, 1.70, 71, 06-03-93, Amsterdam, None
+34, Cas Peters, NED, F, 1.82, 79, 13-05-92, Oldenzaal, None
+35, Thijs Bouma, NED, D, 1.79, 69, 02-04-92, Hardenberg, VA Twente
+37, Mitch Stockentree, NED, D, 1.82, 75, 22-01-91, Enschede, None
+39, Quincy Promes, NED, M, 1.74, 72, 04-01-92, Amsterdam, Ajax
+41, Bryan Ottenhoff, NED, D, 1.87, 88, 08-07-91, Amsterdam, Ajax
+42, Theodor Vogelsang, GER, F, 1.83, 78, 23-02-90, Omsk, Veldhausen
+45, Sander van Aken, NED, D, 1.83, , 03-03-91, Etten, None
+49, Joey Pelupessy, NED, D, 1.72, 63, 15-05-93, Nijverdal, None
+52, Mirco Born, GER, F, 1.75, 69, 28-06-94, Haren (Ems), Meppen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Bryan Ruiz, CRC, F, 1.88, 78, 18-08-85, San José [CRC], Fulham
+40, Stefan Thesker, GER, D, 1.90, 82, 11-04-91, Ahaus, 1899 Hoffenheim
+12, Steven Berghuis, NED, M, 1.80, 75, 19-12-91, Apeldoorn, VVV Venlo (On Loan)
+27, Dario Vujičević, CRO, M, 1.80, 72, 01-04-90, Sarajevo, 
+21, Marc Janko, AUT, F, 1.96, 83, 25-06-83, Vienna, FC Porto
+39, Ninos Gouriye, NED, F, 1.75, 80, 14-01-91, Hengelo, Heracles Almelo

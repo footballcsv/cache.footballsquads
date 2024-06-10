@@ -1,0 +1,68 @@
+=  Reading - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jonathan Bond, ENG, G, 1.93, 84, 19-05-93, Hemel Hempstead, Watford
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+4, Joey van den Berg, NED, M, 1.82, 84, 13-02-86, Nijeveen, SC Heereveen
+5, Paul McShane, IRL, D, 1.83, 72, 06-01-86, Wicklow, Hull C
+6, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, Manchester C
+7, Roy Beerens, NED, F, 1.73, 64, 22-12-87, Bladel, Hertha Berlin
+8, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, Chelsea
+9, Joseph Mendes, FRA, F, 1.86, 80, 30-03-91, Évreux, Le Havre
+10, Deniss Rakeļs, LVA, F, 1.79, 73, 20-08-92, Jēkabpils, Cracovia Kraków
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+15, Callum Harriott, ENG, M, 1.65, 66, 04-03-94, Norbury, Charlton Ath
+16, Liam Moore, ENG, D, 1.86, 86, 31-01-93, Leicester, Leicester C
+17, Sandro Wieser, LIE, M, 1.85, 76, 03-02-93, Vaduz, Thun
+18, Yann Kermorgant, FRA, F, 1.84, 84, 08-11-81, Vannes, Bournemouth
+19, Yakou Méïte, FRA, M, 1.84, 72, 11-02-96, Paris, Paris St-Germain
+20, Tiago Ilori, POR, D, 1.90, 80, 26-02-93, Hampstead, Liverpool
+21, Stephen Quinn, IRL, M, 1.68, 60, 04-04-86, Dublin, Hull C
+23, Daniel Williams, USA, M, 1.80, 76, 08-03-89, Karlsruhe, 1899 Hoffenheim
+24, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Manchester U
+25, Adrian Popa, ROU, M, 1.70, 70, 24-07-88, Horezu, Steaua Bucureşti
+26, Ali Al-Habsi, OMA, G, 1.94, 79, 30-12-81, Muscat, Wigan Ath
+28, Danzell Gravenberch, NED, D, 1.86, 80, 13-02-94, Amsterdam, FC Dordrecht
+29, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, None
+30, Tennai Watson, ENG, D, 1.83, 73, 04-03-97, Hillingdon, None
+31, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, Ajax Cape Town
+32, Reece Oxford, ENG, D, 1.90, 71, 16-12-98, Edmonton, West Ham U
+36, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Marquette Univ
+38, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, None
+42, Andy Rinomhota, ENG, M, 1.75, 64, 21-04-97, Leeds, AFC Portchester
+43, George Legg, ENG, G, 1.95, 76, 30-04-96, Reading, None
+45, Dominic Hyam, SCO, D, 1.88, 70, 20-12-95, Leuchars, None
+46, Rob Dickie, ENG, D, 1.83, 74, 03-03-96, Wokingham, None
+47, Axel Andrésson, ISL, D, 1.91, 85, 27-01-98, Mosfellsbær, Afturelding
+48, Harrison Bennett, ENG, M, , , 23-09-97, Swindon, None
+50, Lewis Grabban, ENG, F, 1.83, 71, 12-01-88, Croydon, Bournemouth
+51, Ryan East, ENG, M, 1.76, 70, 07-08-98, Ascot, None
+52, Gabriel Osho, ENG, D, , , 14-08-98, Reading, None
+53, Omar Richards, ENG, D, 1.85, 69, 15-02-98, Lewisham, Fulham
+54, Jordon Mutch, ENG, M, 1.75, 65, 02-12-91, Birmingham, Crystal Palace
+55, Sam Smith, ENG, F, 1.81, 73, 08-03-98, Manchester, Manchester U
+56, Luke Southwood, ENG, G, 1.92, 72, 06-12-97, Oxford, None
+57, Joe Tupper, ENG, G, , , 15-11-97, Croydon, Chelsea
+58, Terence Vancooten, GUY, D, 1.85, 78, 29-12-97, Kingston upon Thames, Staines T
+59, Tom McIntyre, SCO, D, 1.85, 79, 06-11-98, Reading, None
+60, Tyler Frost, ENG, M, 1.75, 70, 07-07-99, Reading, None
+61, Teddy Howe, ENG, D, 1.77, 69, 09-10-98, Oxford, None
+62, Danny Namaso Loader, ENG, F, 1.82, 76, 28-08-00, Reading, None
+63, Ramarni Medford-Smith, ENG, D, , , 21-10-98, Reading, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Craig Tanner, ENG, F, 1.71, 72, 27-10-94, Reading, Plymouth Arg (On Loan)
+37, Jack Stacey, ENG, M, 1.80, 68, 06-04-96, Bracknell, Exeter C (On Loan)
+39, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, Colchester U (On Loan)
+3, Jake Cooper, ENG, D, 1.93, 85, 03-02-95, Bracknell, Millwall (On Loan)
+49, Billy Collings, ENG, G, , , 10-10-97, Brighton, Brighton & HA
+35, Jake Sheppard, SCO, M, 1.75, 70, 30-05-97, Chertsey, Dagenham & Redbridge (On Loan)
+41, Harry Cardwell, SCO, F, 1.85, 72, 23-10-96, Kingston upon Hull, Brighton & HA (On Loan)
+34, Niall Keown, ENG, D, 1.83, 66, 05-04-95, Oxford, Partick Thistle (On Loan)
+22, Zak Jules, SCO, D, 1.90, 72, 02-07-97, Islington, Motherwell (On Loan)
+14, Dominic Samuel, ENG, F, 1.82, 89, 01-04-94, Southwark, Ipswich T (On Loan)
+40, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Luton T (On Loan)
+33, Shane Griffin, IRL, D, 1.80, 65, 08-09-94, Cork, Cork C

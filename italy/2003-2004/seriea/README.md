@@ -1,0 +1,21 @@
+# Italian Serie A 2003/04
+
+18 teams
+- [Ancona](ancona.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Chievo Verona](cverona.txt)
+- [Empoli](empoli.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Lecce](lecce.txt)
+- [Milan](milan.txt)
+- [Modena](modena.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Siena](siena.txt)
+- [Udinese](udinese.txt)

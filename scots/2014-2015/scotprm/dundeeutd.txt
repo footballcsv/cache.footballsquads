@@ -1,0 +1,63 @@
+=  Dundee United - Scottish Premiership 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Radosław Cierzniak, POL, G, 1.87, 81, 24-04-83, Szamocin, Cracovia Kraków
+2, Sean Dillon, IRL, D, 1.83, 79, 30-07-83, Dublin, Shelbourne
+3, Paul Dixon, SCO, D, 1.91, 71, 22-11-86, Aberdeen, Huddersfield T
+4, John Souttar, SCO, D, 1.85, 75, 25-09-96, Aberdeen, None
+5, Jarosław Fojut, POL, D, 1.88, 83, 17-10-87, Legionowo, Tromsø
+6, Paul Paton, SCO, M, 1.78, 67, 18-04-87, Paisley, Partick Thistle
+7, Nadir Çiftçi, NED, F, 1.83, 77, 12-02-92, Den Haag, NAC Breda
+8, John Rankin, SCO, M, 1.73, 80, 27-06-83, Bellshill, Hibernian
+10, Robbie Muirhead, SCO, F, 1.77, 71, 08-03-96, Irvine, Kilmarnock
+13, Marc McCallum, SCO, G, 1.91, 80, 27-03-93, Forfar, None
+14, Callum Morris, ENG, D, 1.87, 78, 03-02-90, Newcastle upon Tyne, Dunfermline Ath
+16, Ryan McGowan, AUS, D, 1.88, 75, 15-08-89, Adelaide, Shandong Luneng
+17, Chris Erskine, SCO, M, 1.85, 76, 08-02-87, Rutherglen, Partick Thistle
+18, Ryan Dow, SCO, F, 1.70, 67, 07-06-91, Dundee, Dundee
+19, Mario Bilate, NED, F, 1.91, 87, 16-07-91, Moscow, Sparta Rotterdam
+20, Calum Butcher, ENG, D, 1.82, 82, 26-02-91, Rochford, Hayes & Yeading U
+21, Charlie Telfer, SCO, F, 1.75, 74, 04-07-95, Carluke, Rangers
+22, Aidan Connolly, SCO, F, 1.65, 65, 15-08-95, Dundee, Queen's Park
+23, Scott Smith, SCO, M, 1.73, 77, 21-07-95, Perth, None
+24, Blair Spittal, SCO, M, 1.83, 74, 19-12-95, Erskine, Queen's Park
+26, Michał Szromnik, POL, G, 1.90, 80, 04-03-93, Gdańsk, Arka Gdynia
+30, Henri Anier, EST, F, 1.81, 80, 17-12-90, Tallinn, Erzgebirge Aue
+31, Ryan Booth, SCO, G, 1.85, , 13-03-98, Aberdeen, None
+32, Joe McGovern, NIR, G, 1.78, 72, 02-03-94, Eniskillen, Eniskillen T
+33, Euan Spark, SCO, D, 1.78, 70, 29-11-96, Dundee, None
+34, Adam Harwood, NIR, D, 1.86, 78, 17-01-95, Belfast, Portadown
+35, Jamie Montgomery, SCO, M, 1.78, , 18-01-96, Dundee, None
+36, Reghan Tumilty, SCO, D, 1.78, 70, 26-02-97, Glasgow, None
+37, Brad Smith, SCO, M, 1.83, , 23-04-97, Dundee, None
+38, Cameron Ballantyne, SCO, D, 1.76, 70, 13-04-97, Glasgow, None
+39, Jordan Garden, SCO, F, 1.85, , 20-06-97, Dundee, None
+40, Chris McLaughlin, SCO, D, 1.78, 70, 05-03-96, Glasgow, None
+41, Rafa Málaga, ESP, M, 1.84, 70, 09-10-95, Santiago, Real Madrid
+42, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, None
+43, Ali Coote, SCO, M, 1.70, 65, 11-06-98, Bedford, None
+44, Greig McNaughton, SCO, D, 1.85, , 22-03-98, Dundee, None
+45, Jamie Robson, SCO, D, 1.73, 68, 19-12-97, Perth, None
+46, Scott Allardice, SCO, M, 1.81, 70, 31-03-98, Dundee, None
+47, Matty Smith, SCO, F, 1.80, 77, 13-03-97, Dundee, St Johnstone
+48, Aaron Duke, NIR, F, 1.93, 80, 21-02-96, Lisburn, Dollingstown
+50, Evan Horne, SCO, M, 1.80, , 07-06-98, Glasgow, Hearts
+51, Luis Zwick, GER, G, 1.90, 75, 24-05-94, Berlin, Hertha Zehlendorf
+52, Scott Lochhead, SCO, M, 1.73, 70, 23-01-97, Glasgow, Celtic
+53, Justin Johnson, NED, F, 1.70, 70, 27-08-96, Den Haag, FCUM
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Kudus Oyenuga, ENG, F, 1.76, 77, 18-03-93, Walthamstow, Cowdenbeath (On Loan)
+9, Brian Graham, SCO, F, 1.88, 70, 23-11-87, Glasgow, St Johnstone (On Loan)
+15, Michael Gardyne, SCO, F, 1.70, 64, 23-01-86, Dundee, Ross Co (On Loan)
+16, Mark Wilson, SCO, D, 1.80, 76, 05-06-84, Glasgow, Dumbarton
+27, Scott Fraser, SCO, M, 1.83, 69, 30-03-95, Dundee, Airdrieonians (On Loan)
+12, Keith Watson, SCO, D, 1.86, 73, 14-11-89, Livingston, Hibernian (On Loan)
+29, Darren Petrie, SCO, M, 1.80, 65, 26-07-95, Stirling, Dumbarton (On Loan)
+49, Ola Adeyemo, NGA, F, 1.83, 74, 15-01-95, London, East Fife (On Loan)
+3, Conor Townsend, ENG, D, 1.68, 62, 04-03-93, Hessle, Hull C
+10, Stuart Armstrong, SCO, M, 1.83, 75, 30-03-92, Inverness, Celtic
+11, Gary Mackay-Steven, SCO, M, 1.75, 68, 31-08-90, Thurso, Celtic
+25, Jordan Moore, SCO, F, 1.85, 78, 19-02-94, Glasgow, Queen's Park (On Loan)

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2018/2019
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [VfL Bochum](bochum.txt)
+- [SV Darmstadt 98](darmstadt.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hamburger SV](hamburg.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [Holstein Kiel](holskiel.txt)
+- [FC Ingolstadt 04](ingols.txt)
+- [Jahn Regensburg](jahnreg.txt)
+- [1.FC Köln](koln.txt)
+- [1.FC Magdeburg](magdeburg.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [1.FC Union Berlin](unionber.txt)

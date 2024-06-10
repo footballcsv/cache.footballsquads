@@ -1,0 +1,57 @@
+=  Manchester United - English Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Gea, ESP, G, 1.92, 82, 07-11-90, Madrid, Atlético Madrid
+3, Patrice Evra, FRA, D, 1.75, 76, 15-05-81, Dakar, Monaco
+4, Phil Jones, ENG, D, 1.80, 71, 21-02-92, Preston, Blackburn R
+5, Rio Ferdinand, ENG, D, 1.89, 82, 07-11-78, Peckham, Leeds U
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, None
+7, Michael Owen, ENG, F, 1.73, 70, 14-12-79, Chester, Newcastle U
+8, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, FC Porto
+9, Dimitar Berbatov, BUL, F, 1.88, 79, 30-01-81, Blagoevgrad, Tottenham H
+10, Wayne Rooney, ENG, F, 1.78, 78, 24-10-85, Croxteth, Everton
+11, Ryan Giggs, WAL, M, 1.80, 68, 29-11-73, Cardiff, None
+12, Chris Smalling, ENG, D, 1.93, 90, 22-11-89, Greenwich, Fulham
+13, Park Ji-Sung, KOR, M, 1.75, 70, 25-02-81, Suwon, PSV Eindhoven
+14, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, Guadalajara
+15, Nemanja Vidić, SRB, D, 1.88, 82, 21-10-81, Užice, Spartak Moscow
+16, Michael Carrick, ENG, M, 1.86, 74, 28-07-81, Wallsend, Tottenham H
+17, Nani, POR, M, 1.75, 66, 17-11-86, Praia, Sporting CP
+18, Ashley Young, ENG, M, 1.75, 65, 09-07-85, Stevenage, Aston Villa
+19, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, None
+20, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Fluminense
+21, Rafael, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Fluminense
+22, Paul Scholes, ENG, M, 1.70, 72, 16-11-74, Salford, None
+23, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Bradford C
+24, Darren Fletcher, SCO, M, 1.83, 83, 01-02-84, Edinburgh, None
+25, Luis Antonio Valencia, ECU, M, 1.81, 78, 04-08-85, Lago Agrio, Wigan Ath
+29, Tomasz Kuszczak, POL, G, 1.90, 84, 20-03-82, Krosno Odrzańskie, WBA
+30, Ritchie De Laet, BEL, D, 1.86, 77, 28-11-88, Antwerp, Stoke C
+34, Anders Lindegaard, DEN, G, 1.93, 80, 13-04-84, Odense, Aalesund
+35, Reece Brown, ENG, D, 1.88, 84, 01-11-91, Manchester, None
+36, Marnick Vermijl, BEL, D, 1.80, 70, 13-01-92, Peer, Standard Liège
+38, Michael Keane, ENG, D, 1.72, 68, 11-01-93, Stockport, None
+39, Tom Thorpe, ENG, D, 1.88, 89, 13-01-93, Manchester, None
+40, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, None
+42, Paul Pogba, FRA, M, 1.85, 80, 15-03-93, Lagny-sur-Marne, Le Havre
+43, Matthew James, ENG, M, 1.78, 74, 22-07-91, Bacup, None
+44, Sean McGinty, IRL, D, 1.88, 80, 11-08-93, Maidstone, Charlton Ath
+45, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, Roma
+46, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, None
+48, Will Keane, ENG, F, 1.78, 78, 11-01-93, Stockport, None
+50, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, None
+51, Ezekiel Fryers, ENG, D, 1.83, 75, 09-09-92, Manchester, None
+52, Larnell Cole, ENG, M, 1.68, 63, 09-03-93, Manchester, None
+53, Jesse Lingard, ENG, M, 1.68, 58, 15-12-92, Warrington, None
+54, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Fiorentina
+55, Luke Giverin, ENG, D, , , 04-02-93, Salford, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Federico Macheda, ITA, F, 1.83, 76, 22-08-91, Rome, QPR (On Loan)
+28, Darron Gibson, IRL, M, 1.80, 83, 25-10-87, Derry, Everton
+41, Joshua King, NOR, F, 1.80, 74, 15-01-92, Oslo, Hull C (On Loan)
+32, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, Hannover 96
+49, Ravel Morrison, ENG, M, 1.75, 71, 02-02-93, Wythenshawe, West Ham U
+47, Oliver Norwood, NIR, M, 1.80, 76, 12-04-91, Burnley, Coventry C (On Loan)

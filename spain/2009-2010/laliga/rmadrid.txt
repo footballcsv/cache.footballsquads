@@ -1,0 +1,39 @@
+=  Real Madrid - Spanish La Liga 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iker Casillas, ESP, G, 1.85, 79, 20-05-81, Madrid, Real Madrid B
+2, Álvaro Arbeloa, ESP, D, 1.83, 76, 17-01-83, Salamanca, Liverpool
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, FC Porto
+4, Sergio Ramos, ESP, D, 1.83, 73, 30-03-86, Camas, Sevilla
+5, Fernando Gago, ARG, M, 1.78, 69, 10-04-86, Ciudadela, Boca Juniors
+6, Mahamadou Diarra, MLI, M, 1.83, 76, 18-05-81, Bamako, Lyon
+7, Raúl, ESP, F, 1.80, 68, 27-06-77, Madrid, Real Madrid B
+8, Kaká, BRA, M, 1.86, 83, 22-04-82, Brasília, Milan
+9, Cristiano Ronaldo, POR, F, 1.86, 75, 05-02-85, Funchal, Manchester U
+10, Lassana Diarra, FRA, M, 1.73, 68, 10-03-85, Paris, Portsmouth
+11, Karim Benzema, FRA, F, 1.82, 74, 19-12-87, Lyon, Lyon
+12, Marcelo, BRA, D, 1.74, 73, 12-05-88, Rio de Janeiro, Fluminense
+13, Jerzy Dudek, POL, G, 1.87, 78, 23-03-73, Rybnik, Liverpool
+14, Guti, ESP, M, 1.85, 76, 31-10-76, Madrid, Real Madrid B
+15, Royston Drenthe, NED, D, 1.67, 67, 08-04-87, Rotterdam, Feyenoord
+18, Raúl Albiol, ESP, D, 1.87, 74, 04-09-85, Valencia, Valencia
+19, Ezequiel Garay, ARG, D, 1.89, 83, 10-10-86, Rosario, Racing Santander
+20, Gonzalo Higuaín, ARG, F, 1.84, 75, 10-12-87, Brest, River Plate
+21, Christoph Metzelder, GER, D, 1.94, 84, 05-11-80, Halten, Borussia Dortmund
+22, Xabi Alonso, ESP, M, 1.83, 75, 25-11-81, Tolosa, Liverpool
+23, Rafael van der Vaart, NED, M, 1.75, 74, 11-02-83, Heemskerk, Hamburg
+24, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, Getafe
+26, Antonio Adán, ESP, G, 1.89, 91, 13-05-87, Madrid, Real Madrid B
+27, Javier Acuña, PAR, F, 1.75, 70, 23-06-88, Asunción, Real Madrid B
+28, Marcos Alonso, ESP, D, 1.88, 85, 28-12-90, Madrid, Real Madrid B
+30, Pedro Mosquera, ESP, M, 1.83, 77, 21-04-88, La Coruña, Real Madrid B
+32, David Mateos, ESP, D, 1.90, 82, 22-04-87, Madrid, Real Madrid B
+33, Rodrigo Moreno, ESP, F, 1.80, 74, 06-03-91, Rio de Janeiro, Real Madrid B
+34, Raúl Ruiz, ESP, F, 1.78, 56, 25-03-90, Alicante, Hércules B
+35, Tomás Mejías, ESP, G, 1.94, 83, 30-01-89, Madrid, Real Madrid B
+36, Juanfran, ESP, F, 1.78, 69, 27-04-87, Madrid, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Ruud van Nistelrooy, NED, F, 1.88, 80, 01-07-76, Geffen, Hamburg

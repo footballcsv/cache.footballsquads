@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2015/16
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [SC Cambuur](cambuur.txt)
+- [De Graafschap](degraaf.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [Roda JC Kerkrade](rodajc.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [Willem II](willem.txt)

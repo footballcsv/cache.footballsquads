@@ -1,0 +1,43 @@
+=  Patronato (Paraná) - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Franco Rivasseau, ARG, G, 1.89, 85, 10-07-98, Paraná, None
+2, Walter Andrade, ARG, D, 1.84, 86, 01-12-84, Paraná, None
+3, Oliver Benítez, ARG, D, 1.85, 76, 07-06-91, Puerto Iguazú, San Martín (Tucumán)
+4, Christian Chimino, ARG, D, 1.78, 72, 09-02-88, Luján, Huracán
+5, Leandro Marín, ARG, D, 1.83, 81, 22-01-92, Neuquén, Lausanne-Sport
+6, Matías Escudero, ARG, D, 1.85, 79, 15-12-88, San Luis, San Martín (San Juan)
+7, Lautaro Comas, ARG, F, 1.72, 70, 15-01-95, Paraná, None
+8, Gabriel Compagnucci, ARG, M, 1.78, 74, 29-08-91, Monte Buey, Unión (Santa Fe)
+9, Cristian Tarragona, ARG, F, 1.80, 78, 09-04-91, Capital Federal, Platense
+10, Hugo Silveira, URU, F, 1.89, 88, 23-05-93, Montevideo, Nacional [URU]
+11, Santiago Briñone, ARG, M, 1.90, 82, 28-12-96, Santa Rosa de Río Primero, Talleres (Córdoba)
+12, Matías Ibáñez, ARG, G, 1.80, 74, 16-12-86, Capital Federal, Lanús
+13, Brian Nievas, ARG, M, 1.73, 70, 28-04-98, Diamante, None
+14, Fernando Luna, ARG, M, 1.75, 70, 19-01-90, Ramallo, Emelec
+15, Martín Aruga, ARG, D, 1.72, 72, 04-10-98, Paraná, None
+16, Mathías Abero, URU, D, 1.84, 81, 09-04-90, Montevideo, Atlético Tucumán
+17, Pablo Cortizo, ARG, M, 1.85, 76, 01-09-89, La Plata, Gimnasia y Esgrima (Mendoza)
+18, José Barreto, ARG, F, 1.80, 76, 22-02-00, Villa Clara, None
+19, Agustín Sufi, ARG, M, 1.72, 69, 26-01-95, Monterrico, Gimnasia y Esgrima (Jujuy)
+20, Brian Negro, ARG, D, 1.82, 81, 08-09-97, Bovril, None
+21, Federico Costa, ARG, G, 1.88, 89, 08-10-88, Jovita, Talleres (Córdoba)
+22, Federico Mancinelli, ARG, D, 1.81, 80, 08-05-82, Bahía Blanca, Huracán
+23, Bruno Uribarri, ARG, D, 1.68, 65, 06-11-86, General Campos, Tigre
+24, Damián Lemos, ARG, M, 1.79, 82, 31-01-89, La Matanza, Nueva Chicago
+27, Juan Cruz Franzoni, ARG, F, 1.84, 75, 17-10-99, Paraná, None
+29, Nicolás Delgadillo, ARG, F, 1.77, 70, 02-10-97, Capital Federal, Vélez Sarsfield
+30, Santiago Rosales, ARG, F, 1.80, 73, 22-03-95, Mar del Plata, Racing Club
+31, Julián Chicco, ARG, M, 1.84, 75, 13-01-98, Brinkmann, Boca Juniors
+32, Dardo Miloc, ARG, M, 1.77, 76, 16-10-90, La Plata, Aldosivi (Mar del Plata)
+33, Lautaro Torres, ARG, M, 1.78, 70, 28-09-96, Béccar, Ferro Carril Oeste
+34, Gabriel Díaz, ARG, D, 1.88, 80, 17-10-89, Capital Federal, Ferro Carril Oeste
+37, Faustino Dettler, ARG, F, 1.77, 71, 11-06-98, Paraná, None
+39, Gabriel Ávalos, PAR, F, 1.88, 91, 12-10-90, Edelira, Godoy Cruz (Mendoza)
+42, Joaquín Clavijo Gerlo, ARG, M, 1.76, 71, 14-01-98, Paraná, None
+99, Federico Vietto, ARG, F, 1.74, 67, 01-01-98, Balnearia, Racing Club
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Lucas Mancinelli, ARG, M, 1.68, 68, 06-07-89, La Plata, Deportivo Cuenca

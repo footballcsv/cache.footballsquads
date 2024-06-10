@@ -1,0 +1,70 @@
+=  Rubin Kazan - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Oleg Kuzmin, RUS, D, 1.75, 72, 09-05-81, Moscow, Lokomotiv Moscow
+3, Cristian Ansaldi, ARG, D, 1.78, 73, 20-09-86, Rosario, Newell's Old Boys
+4, César Navas, ESP, D, 1.96, 89, 14-02-80, Móstoles, Racing Santander
+5, Petr Bystrov, RUS, M, 1.80, 78, 15-07-79, Nizhny Novgorod, FC Moscow
+6, Macbeth Sibaya, RSA, M, 1.75, 72, 25-11-77, Durban, Rosenborg
+8, Aleksandr Ryazantsev, RUS, M, 1.76, 70, 05-09-86, Moscow, FC Moscow
+9, Lasha Salukvadze, GEO, D, 1.84, 80, 21-12-81, Tbilisi, Dynamo Tbilisi
+12, Valerio Brandi, ITA, M, 1.72, 66, 10-03-90, San Donato Milanese, Milan
+14, Alan Kasaev, RUS, M, 1.73, 67, 08-04-86, Vladikavkaz, Kuban Krasnodar
+15, Rafał Murawski, POL, M, 1.75, 76, 09-10-81, Malbork, Lech Poznań
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Emelec
+19, Vitaliy Kaleshin, RUS, D, 1.73, 67, 03-10-80, Krasnodar, FC Moscow
+21, Alexandru Antoniuc, MDA, F, 1.80, 71, 23-05-89, Chişinău, Zimbru Chişinău
+22, Aleksandr Orekhov, RUS, D, 1.98, 92, 29-11-83, Kropotkin, Kuban Krasnodar
+23, Evgeniy Balyaikin, RUS, M, 1.83, 74, 19-05-88, Bratsk, Sibiryak Bratsk
+25, Dato Kvirkvelia, GEO, D, 1.84, 76, 27-06-80, Lanchkhuti, Alania Vladikavkaz
+26, Aleksey Medvedev, RUS, F, 1.82, 75, 05-01-77, Pavlovsky Posad, Sibir Novosibirsk
+27, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Genoa
+28, Obafemi Martins, NGA, F, 1.76, 67, 28-10-84, Lagos, Wolfsburg
+31, Mikhail Badyautdinov, RUS, D, 1.90, 79, 11-10-89, , Spartak Moscow-2
+32, Andrey Gorbanets, RUS, M, 1.76, 70, 24-08-85, Kamyshin, Sibir Novosibirsk
+41, Ilsur Samigullin, RUS, M, 1.78, 70, 06-02-91, , Rubin-2
+42, Marat Doyati, RUS, D, 1.86, 80, 18-02-92, , Rubin-2
+44, Giedrius Arlauskis, LTU, G, 1.83, 80, 01-12-87, Telšiai, Unirea Urziceni
+50, Parviz Umarboev, TJK, M, 1.68, 62, 01-11-94, Jabbor Rasulov, Rubin-2
+51, Avtandil Bratchuli, GEO, D, 1.85, 73, 02-04-92, , Rubin-2
+52, Ayubkhon Gapparov, UZB, F, 1.70, 69, 16-05-92, , Pakhtakor Tashkent
+53, Serdar Iolomanov, RUS, D, 1.74, 70, 17-10-92, , Rubin-2
+54, Almaz Askarov, RUS, M, 1.85, 67, 21-01-92, , Rubin-2
+55, Artem Kuklev, RUS, M, 1.90, 74, 28-10-91, , Rubin-2
+56, Ruslan Makhmutov, RUS, M, 1.73, 67, 27-01-91, Togliatti, FC Togliatti
+57, Anton Saroka, BLR, F, 1.88, 85, 05-03-92, Minsk, Dinamo Minsk
+61, Gökdeniz Karadeniz, TUR, M, 1.69, 66, 11-01-80, Giresun, Trabzonspor
+65, Maksim Zhestokov, RUS, D, 1.87, 70, 19-06-91, Kazan, Rubin-2
+66, Bibras Natkho, ISR, M, 1.75, 73, 18-02-88, Kfar Kama, Hapoel Tel Aviv
+76, Roman Sharonov, RUS, D, 1.84, 76, 08-09-76, Moscow, Shinnik
+77, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Lokomotiv Moscow
+79, Yuriy Nesterenko, RUS, G, 1.89, 85, 12-06-91, Krasnodar, Rubin-2
+80, Dmitriy Tarabrikov, RUS, D, 1.80, 69, 23-04-90, , Rubin-2
+81, Ildar Bikchantaev, RUS, F, 1.82, 68, 02-02-90, , Rubin-2
+83, Vladimir Chernov, RUS, M, 1.87, 74, 15-01-91, , Rubin-2
+84, Iskandar Dzhalilov, RUS, D, 1.80, 72, 01-06-92, Dushanbe, CSKA Moscow
+85, Marat Sitdikov, RUS, M, 1.74, 65, 23-07-91, , Rubin-2
+86, Vitaliy Ustinov, RUS, D, 1.80, 70, 03-05-91, Moscow, FC Moscow
+87, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, 1899 Hoffenheim
+88, Siarhei Karnilenka, BLR, F, 1.85, 78, 14-06-83, Vitebsk, Zenit St Petersburg
+90, Artem Kulesha, RUS, D, 1.90, 80, 14-01-90, St. Petersburg, Smena-Zenit
+92, Vakhit Orazsakhedov, TKM, F, 1.80, 70, 26-01-92, Ashgabat, Rubin-2
+95, Alisher Dzhalilov, RUS, M, 1.68, 57, 29-08-93, Dushanbe, Rubin-2
+97, Igor Portnyagin, RUS, F, 1.90, 75, 07-01-89, Vladivostok, Rubin-2
+98, Ilie Cebanu, MDA, G, 1.89, 81, 29-12-86, Chişinău, Wisła Kraków
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+82, Mikhail Mishchenko, RUS, D, 1.88, 80, 27-06-89, , Ventspils (On Loan)
+99, Hasan Kabze, TUR, F, 1.85, 74, 26-05-82, Ankara, Montpellier
+11, Aleksandr Bukharov, RUS, F, 1.91, 83, 12-03-85, Naberezhnye Chelny, Zenit St Petersburg
+7, Sergey Semak, RUS, M, 1.78, 73, 27-02-76, Sychanske, Zenit St Petersburg
+20, Bakhodir Nasimov, UZB, F, 1.82, 80, 02-05-87, Tashkent, Neftchi Baku (On Loan)
+68, Ilya Kukharchuk, RUS, F, 1.84, 77, 02-08-90, Kostroma, Anzhi Makhachkala
+43, Aleksey Kotlarov, RUS, M, 1.76, 67, 11-05-89, Magnitogorsk, FC Khimki (On Loan)
+67, Davron Mirzaev, UZB, F, 1.80, 65, 08-02-89, Tashkent, FC Khimki (On Loan)
+30, Evgeniy Cheremisin, RUS, G, 1.92, 80, 29-02-88, , Dynamo St Petersburg (On Loan)
+33, Jordi, ESP, D, 1.85, 82, 16-05-87, Lleida, Valladolid (On Loan)
+49, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, Sibir Novosibirsk (On Loan)
+10, Fatih Tekke, TUR, F, 1.78, 77, 09-09-77, Sürmene, Beşiktaş

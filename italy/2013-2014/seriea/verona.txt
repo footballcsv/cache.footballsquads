@@ -1,0 +1,44 @@
+=  Verona - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, São Bento
+2, Rômulo, BRA, M, 1.78, 72, 22-05-87, Pelotas, Fiorentina
+3, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Milan
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Racing Club
+5, Massimo Donati, ITA, M, 1.86, 75, 26-03-81, San Vito al Tagliamento, Palermo
+6, Raphael Martinho, BRA, M, 1.83, 73, 15-04-88, Campo Grande, Catania
+7, Marquinho, BRA, M, 1.82, 79, 03-07-86, Passo Fundo, Roma
+8, Daniele Cacia, ITA, F, 1.82, 74, 23-08-83, Catanzaro, Lecce
+9, Luca Toni, ITA, F, 1.93, 88, 26-05-77, Pavullo nel Frignano, Fiorentina
+10, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Reggina
+11, Boško Janković, SRB, M, 1.83, 77, 01-03-84, Belgrade, Genoa
+12, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Atlético Mineiro
+14, Ezequiel Cirigliano, ARG, M, 1.72, 71, 24-01-92, Caseros, River Plate
+15, Juan Manuel Iturbe, ARG, F, 1.72, 64, 04-06-93, Capital Federal, FC Porto
+17, Godfred Donsah, GHA, M, 1.75, 72, 07-06-96, Accra, Palermo
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larissa, Cesena
+19, Michael Rabušic, CZE, F, 1.84, 80, 17-09-89, Náměšť nad Oslavou, Slovan Liberec
+21, Juan Ignacio Gómez, ARG, F, 1.80, 75, 20-05-85, Santa Fe, Bellaria
+22, Domenico Maietta, ITA, D, 1.85, 77, 03-08-82, Cariati, Frosinone
+23, Alejandro González, URU, D, 1.84, 78, 23-03-88, Montevideo, Peñarol
+25, Rafael Marques, BRA, D, 1.84, 78, 21-09-83, Rio de Janeiro, Atlético Mineiro
+26, Jacopo Sala, ITA, M, 1.83, 75, 05-12-91, Bergamo, Hamburg
+29, Fabrizio Cacciatore, ITA, D, 1.82, 74, 08-10-86, Turin, Sampdoria
+30, Marco Donadel, ITA, M, 1.79, 73, 21-04-83, Conegliano Veneto, Napoli
+31, Nikolay Mihaylov, BUL, G, 1.94, 85, 28-06-88, Sofia, FC Twente
+33, Alessandro Agostini, ITA, D, 1.74, 66, 23-07-79, Vinci, Torino
+34, Mohamed Fares, ALG, F, 1.83, 75, 15-02-96, Aubervilliers, Bordeaux
+35, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Bellaria, Bellaria
+98, Daniele Borra, ITA, G, 1.92, 88, 28-07-95, Chivasso, Virtus Entella
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+80, Alessandro Sgrigna, ITA, F, 1.79, 76, 24-04-80, Rome, Carpi (On Loan)
+27, Paolo Grossi, ITA, M, 1.80, 78, 29-05-85, Milan, Brescia (On Loan)
+13, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Spezia (On Loan)
+19, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, Napoli
+32, Daniele Ragatzu, ITA, F, 1.72, 70, 21-09-91, Cagliari, Virtus Lanciano (On Loan)
+16, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Siena
+7, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+4, Simon Laner, ITA, M, 1.82, 75, 28-01-84, Merano, Novara (On Loan)

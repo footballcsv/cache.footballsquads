@@ -1,0 +1,48 @@
+=  Reggina - Italian Serie A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Pisa
+2, Emil Hallfreðsson, ISL, M, 1.86, 79, 26-06-84, Reykjavik, Lyn
+3, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Bologna
+4, Emmanuel Cascione, ITA, M, 1.87, 77, 22-09-83, Catanzaro, Rimini
+5, Bruno Cirillo, ITA, D, 1.86, 76, 21-03-77, Castellamare di Stabia, Levante
+7, Luca Vigiani, ITA, M, 1.80, 74, 25-08-76, Florence, Livorno
+8, Edgar Barreto, PAR, M, 1.82, 77, 15-07-84, Asunción, NEC Nijmegen
+9, Bernardo Corradi, ITA, F, 1.90, 86, 30-03-76, Siena, Manchester C
+10, Francesco Cozza, ITA, M, 1.81, 73, 19-01-74, Cariati, Siena
+11, Fabio Ceravolo, ITA, F, 1.80, 72, 05-03-87, Locri, None
+14, Antonio Giosa, ITA, D, 1.85, 73, 21-08-83, Potenza, None
+16, Carlos Adrián Valdez, URU, D, 1.83, 75, 02-05-83, Montevideo, Nacional [URU]
+17, Antonino Barilla', ITA, D, 1.80, 72, 01-04-88, Reggio Calabria, None
+18, Djordje Rakić, SRB, F, 1.88, 82, 31-10-85, Belgrade, Red Bull Salzburg
+19, Matej Krajčík, SVK, D, 1.83, 81, 19-03-78, Trenčín, Slavia Prague
+20, Pablo Álvarez, URU, D, 1.75, 70, 07-02-85, Montevideo, Nacional [URU]
+21, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Taurianova, None
+26, Pietro Marino, ITA, G, 2.00, 85, 24-11-86, Reggio Calabria, None
+28, Antonio Lamenza, ITA, F, 1.91, 85, 20-05-90, Rossano, None
+30, Andrea Campagnolo, ITA, G, 1.84, 78, 17-06-78, Bassano del Grappa, Cagliari
+33, Gleison Dos Santos, BRA, D, 1.88, 79, 18-08-81, Vitoria, Genoa
+35, Carlos Carmona, CHI, M, 1.79, 77, 21-02-87, Coquimbo, O'Higgins
+40, Daniel Adejo, NGA, M, 1.83, 80, 07-08-89, Kachia, None
+41, Josias Basso, BRA, D, 1.86, 85, 14-04-89, Vacaria, None
+42, Tommaso Squillace, ITA, M, 1.76, 63, 08-07-89, Reggio Calabria, None
+44, Vincenzo Camilleri, ITA, D, 1.86, 85, 06-03-92, Gela, None
+55, Maurizio Lanzaro, ITA, D, 1.83, 79, 14-03-82, Avellino, Roma
+77, Alessio Sestu, ITA, M, 1.80, 73, 29-09-83, Rome, Avellino
+81, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Palermo
+86, Christian Stuani, URU, F, 1.85, 74, 12-10-86, Tala, Danubio
+88, Davide Di Gennaro, ITA, F, 1.80, 72, 16-06-88, Milan, Genoa
+90, Pasquale Alessio Viola, ITA, F, 1.69, 69, 26-12-90, Oppido Mamertina, None
+91, Giuseppe Rizzo, ITA, M, 1.78, 64, 18-03-91, Messina, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Simone Missiroli, ITA, M, 1.90, 75, 23-05-86, Reggio Calabria, Treviso (On Loan)
+6, Salvatore Aronica, ITA, D, 1.82, 77, 20-01-78, Palermo, Napoli
+23, Antonio Rizzo, ITA, D, 1.78, 70, 28-03-81, Civitavecchia, Cremonese (On Loan)
+19, Jonis Khoris, ROU, M, 1.82, 74, 15-03-89, Bucharest, Ravenna (On Loan)
+13, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Avellino (On Loan)
+31, Luca Tognozzi, ITA, M, 1.84, 74, 03-10-77, Florence, Brescia (On Loan)
+38, Lóránd Szatmári, HUN, M, 1.76, 65, 03-10-88, Petrozsény, Monopoli (On Loan)
+43, Giuseppe Toscano, ITA, D, , , 03-09-89, Reggio Calabria, Barletta (On Loan)

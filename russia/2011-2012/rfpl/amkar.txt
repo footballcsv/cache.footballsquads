@@ -1,0 +1,46 @@
+=  Amkar Perm - Russian Football Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roman Gerus, RUS, G, 1.93, 86, 14-09-80, Krasnodar, Dynamo Bryansk
+3, Nikola Mijailović, SRB, D, 1.85, 75, 15-02-82, Zemun, Korona Kielce
+5, Vitaliy Grishin, RUS, M, 1.80, 77, 09-09-80, Moscow, FC Khimki
+6, Marko Blažić, SRB, D, 1.78, 72, 02-08-85, Mladenovac, MFK Ružomberok
+7, Georgi Peev, BUL, M, 1.81, 80, 11-03-79, Sofia, Dynamo Kyiv
+8, Sergey Volkov, RUS, F, 1.75, 75, 27-09-80, Kaluga, Lokomotiv Kaluga
+10, Andrey Topchu, RUS, M, 1.81, 79, 17-04-80, Krasnodar, Kuban Krasnodar
+11, Radomir Djalović, MNE, F, 1.86, 84, 29-10-82, Bijelo Polje, Rijeka
+13, Mitar Novaković, MNE, M, 1.88, 76, 27-09-81, Bar, OFK Belgrade
+14, Zahari Sirakov, BUL, D, 1.81, 82, 08-10-77, Smolyan, Rodopa Smolyan
+15, Predrag Mijić, SRB, M, 1.78, 72, 05-11-84, Žabalj, Partizan Belgrade
+17, Konstantin Vassiljev, EST, M, 1.73, 69, 16-08-84, Tallinn, Koper
+18, Nikita Burmistrov, RUS, F, 1.81, 75, 06-07-89, Moscow, CSKA Moscow-2
+19, Aleksandr Kolomeytsev, RUS, M, 1.82, 78, 21-02-89, Surgut, FC Moscow
+20, Artem Molodtsov, RUS, D, 1.74, 70, 08-10-90, Saratov, Saturn
+21, Dmitriy Belorukov, RUS, D, 1.92, 87, 24-03-83, St. Petersburg, Anzhi Makhachkala
+23, Ivan Cherenchikov, RUS, M, 1.86, 81, 25-08-84, Ozyorsk, Amkar-2
+24, Aleksey Popov, RUS, D, 1.88, 83, 07-07-78, Perm, Rubin Kazan
+25, Serhiy Harashchenkov, UKR, D, 1.84, 80, 16-05-90, Novohrodivka, Shakhtar Donetsk
+26, Martin Jakubko, SVK, F, 1.94, 95, 26-02-80, Prešov, Dukla Banská Bystrica
+35, Andrey Danilov, RUS, G, 1.88, 85, 19-09-91, , Amkar-2
+42, Sergey Narubin, RUS, G, 1.95, 87, 05-12-81, Moskovskaya Oblast, Dynamo Bryansk
+43, Evgeniy Tyukalov, RUS, F, 1.76, 68, 07-08-92, Perm, Amkar-2
+46, Aleksandr Subbotin, RUS, F, 1.75, 66, 20-10-91, Perm, Amkar-2
+50, Mikhail Smirnov, RUS, D, 1.88, 80, 03-06-90, St. Petersburg, Zenit St Petersburg
+66, Artur Ryabokobilenko, RUS, M, 1.73, 60, 05-04-91, Kstovo, Amkar-2
+73, Brian Idowu, RUS, D, 1.80, 75, 18-05-92, St. Petersburg, Zenit-2
+77, Zourab Tsiskaridze, GEO, D, 1.85, 84, 08-12-86, Tbilisi, Montreal Impact
+83, Georgiy Dzhioev, RUS, D, 1.92, 85, 13-06-86, Vladikavkaz, Zhemchuzhina-Sochi
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Stevica Ristić, MKD, F, 1.88, 85, 23-05-82, Vršac, Suwon Samsung Bluewings
+16, Samir Merzič, BIH, D, 1.86, 80, 29-06-84, Mostar, Velež Mostar
+28, Vyacheslav Kalashnikov, RUS, D, 1.92, 84, 12-05-85, Volgograd, Dynamo Bryansk
+88, Vasili Khamutovski, BLR, G, 1.93, 86, 30-08-78, Minsk, Petrolul Ploieşti
+60, Artur Valikayev, RUS, D, 1.91, 80, 08-01-88, Sterlitamak, Spartak Moscow
+33, Josip Knežević, CRO, M, 1.83, 77, 03-10-88, Osijek, Kairat Almaty (On Loan)
+4, Vitaliy Fedoriv, UKR, D, 1.80, 75, 21-10-87, Lviv, Kryvbas Kryvyi Rih
+40, Igor Paderin, RUS, M, 1.76, 67, 24-11-89, Omsk, Kuban Krasnodar
+22, Andrey Sekretov, RUS, F, 1.76, 69, 13-12-89, Perm, Gazovik Orenburg (On Loan)
+39, Illya Mykhalov, UKR, F, 1.87, 79, 31-07-90, Donetsk, Karpaty Lviv

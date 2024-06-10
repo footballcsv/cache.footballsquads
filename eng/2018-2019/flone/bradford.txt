@@ -1,0 +1,61 @@
+=  Bradford City - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Richard O'Donnell, ENG, G, 1.88, 85, 12-09-88, Sheffield, Northampton T
+2, Joe Riley, ENG, D, 1.76, 69, 06-12-96, Blackpool, Manchester U
+3, Adam Chicksen, ZIM, D, 1.73, 74, 01-11-90, Milton Keynes, Charlton Ath
+5, Paudie O'Connor, IRL, D, 1.91, 77, 14-07-97, Limerick, Leeds U
+6, Anthony O'Connor, IRL, D, 1.88, 80, 25-10-92, Cork, Aberdeen
+7, Sean Scannell, IRL, M, 1.75, 73, 19-09-90, Croydon, Bradford C
+8, Jake Reeves, ENG, M, 1.73, 75, 30-05-93, Greenwich, AFC Wimbledon
+9, Eóin Doyle, IRL, F, 1.78, 73, 12-03-88, Tallaght, Preston NE
+10, Jack Payne, ENG, M, 1.65, 60, 25-10-94, Tower Hamlets, Huddersfield T
+11, Tyrell Robinson, ENG, M, 1.73, 68, 16-09-97, Basildon, Arsenal
+12, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, Barnsley
+13, Ben Wilson, ENG, G, 1.86, 74, 09-08-92, Stanley, Cardiff C
+15, Kelvin Mellor, ENG, D, 1.88, 75, 25-01-91, Copenhagen, Blackpool
+16, Jacob Butterfield, ENG, M, 1.80, 78, 10-06-90, Bradford, Derby Co
+17, Billy Clarke, IRL, F, 1.70, 64, 13-12-87, Cork, Charlton Ath
+18, Jermaine Anderson, ENG, M, 1.88, 82, 16-05-96, Camden Town, Peterborough U
+20, Omari Patrick, ENG, F, 1.85, 80, 24-05-96, Slough, Barnsley
+21, Hope Akpan, NGA, M, 1.83, 67, 14-08-91, Liverpool, Burton Alb
+22, Nat Knight-Percival, ENG, D, 1.82, 73, 31-03-87, Cambridge, Shrewsbury T
+23, Connor Wood, ENG, D, 1.77, 78, 17-07-96, Harlow, Leicester C
+24, Danny Devine, ENG, M, 1.80, 76, 04-09-97, Bradford, None
+25, Calum Woods, ENG, D, 1.80, 73, 05-02-87, Liverpool, Preston NE
+28, Cameron Hawkes, ENG, M, , , , , Sheffield U
+29, Callum Gunner, SCO, M, 1.75, 75, 12-04-99, Chippenham, Swindon T
+31, George Sykes-Kenworthy, ENG, G, , , 01-10-99, Huddersfield, None
+33, Tom Clare, ENG, F, , , 02-09-99, , Barnsley
+35, Reece Staunton, IRL, D, 1.83, 76, 10-12-01, Bradford, None
+36, Luca Colville, ENG, M, 1.86, 70, 17-02-99, York, Huddersfield T
+37, Eliot Goldthorp, ENG, M, , , , , None
+38, Paul Caddis, SCO, D, 1.70, 67, 19-04-88, Irvine, Blackburn R
+39, Lewis O'Brien, ENG, M, 1.73, 63, 14-10-98, Colchester, Huddersfield T
+40, David Ball, ENG, F, 1.83, 75, 14-12-89, Whitefield, Rotherham U
+41, Kielen Adams, ENG, F, , , 11-05-01, Huddersfield, None
+42, Christian Farrar, ENG, M, , , , , None
+43, Jake Maltby, ENG, M, , , 24-05-00, , None
+44, Josh Wright, ENG, M, 1.85, 73, 06-11-89, Tower Hamlets, Southend U
+45, Jeremie Milambo, ENG, D, , , 28-02-01, , None
+46, Matthew Birchall, ENG, M, , , , , None
+47, Raecce Ellington, ENG, F, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Jacob Hanson, ENG, D, 1.83, 70, 30-11-97, Kirkburton, FC Halifax T
+14, Shay McCartan, NIR, F, 1.78, 74, 18-05-94, Newry, Lincoln C (On Loan)
+5, Matthew Kilgallon, ENG, D, 1.88, 81, 08-01-84, York, Hamilton Academical
+32, Josef Hefele, GER, D, 1.84, 78, 02-07-00, Pfaffenhofen, Nottingham F
+17, Sherwin Seedorf, NED, F, 1.75, 67, 17-03-98, Rotterdam, Wolverhampton W
+26, Ellis Hudson, ENG, M, 1.72, 68, 04-02-99, Bradford, 
+30, Curtis Peters, ENG, M, 1.82, 75, 05-12-98, Bradford, 
+34, Reece Powell, ENG, F, , , 06-05-00, Leeds, 
+48, Karl Henry, ENG, M, 1.83, 76, 26-11-82, Wolverhampton, 
+18, Kai Brünker, GER, F, 1.90, 78, 10-06-94, Villingen, Sonnenhof Großaspach
+5, James O'Brien, IRL, M, 1.83, 75, 28-09-87, Glasgow, Notts Co
+25, Thomas Isherwood, SWE, D, 1.95, 87, 28-01-98, Söderort, Östersunds FK
+19, Alex Jones, ENG, F, 1.85, 73, 28-09-94, Wolverhampton, Cambridge U (On Loan)
+4, Ryan McGowan, AUS, D, 1.88, 75, 15-08-89, Adelaide, Dundee (On Loan)
+27, Jordan Gibson, ENG, M, 1.78, 80, 26-02-98, Birmingham, Stevenage (On Loan)

@@ -1,0 +1,63 @@
+=  Middlesbrough - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dimitrios Konstantopoulos, GRE, G, 1.93, 90, 29-11-78, Thessaloniki, AEK
+2, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Cardiff C
+3, George Friend, ENG, D, 1.88, 83, 19-10-87, Barnstaple, Doncaster R
+4, Daniel Ayala, ESP, D, 1.90, 84, 07-11-90, El Saucejo, Norwich C
+5, Ryan Shotton, ENG, D, 1.91, 85, 30-09-88, Fenton, Birmingham C
+6, Ben Gibson, ENG, D, 1.85, 78, 15-01-93, Nunthorpe, None
+7, Grant Leadbitter, ENG, M, 1.77, 79, 07-06-86, Chester-le-Street, Ipswich T
+8, Adam Clayton, ENG, M, 1.75, 75, 14-01-89, Manchester, Huddersfield T
+9, Britt Assombalonga, COD, F, 1.77, 76, 06-12-92, Kinshasa, Nottingham F
+11, Patrick Bamford, ENG, F, 1.85, 71, 05-09-93, Newark, Chelsea
+13, Tomás Mejías, ESP, G, 1.94, 81, 30-01-89, Madrid, Real Madrid
+14, Martin Cranie, ENG, D, 1.83, 78, 23-09-86, Yeovil, Huddersfield T
+16, Jonathan Howson, ENG, M, 1.80, 77, 21-05-88, Leeds, Norwich C
+19, Stewart Downing, ENG, M, 1.80, 64, 22-07-84, Middlesbrough, West Ham U
+20, Dael Fry, ENG, D, 1.85, 72, 30-08-97, Middlesbrough, None
+21, Marvin Johnson, ENG, M, 1.78, 74, 01-12-90, Birmingham, Oxford U
+23, Jack Harrison, ENG, M, 1.75, 71, 20-11-96, Stoke-on-Trent, Manchester C
+25, Darren Randolph, IRL, G, 1.88, 98, 12-05-87, Dublin, West Ham U
+27, Muhamed Bešić, BIH, M, 1.80, 80, 10-09-92, Berlin, Everton
+30, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, Chelsea
+37, Adama Traoré, ESP, F, 1.78, 76, 25-01-96, L'Hospitalet de Llobregat, Aston Villa
+39, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Aston Villa
+43, Hayden Coulson, ENG, D, 1.77, 70, 17-06-98, Gateshead, None
+47, Luke Armstrong, ENG, F, 1.86, 70, 02-07-96, Durham, Blyth Spartans
+48, Tom Brewitt, ENG, D, , , 11-02-97, Liverpool, Liverpool
+49, Mikael Soisalo, FIN, M, 1.81, 76, 24-04-98, Helsinki, Ilves Tampere
+52, Mitchell Curry, ENG, F, , , 14-07-99, Newcastle upon Tyne, None
+53, Patrick Reading, SCO, D, 1.76, 70, 29-05-99, Newcastle upon Tyne, None
+54, James Cook, ENG, D, , , 12-11-98, Darlington, None
+56, Liam Hegarty, SCO, D, , , 12-02-99, Durham, None
+57, Keiran Storey, ENG, D, , , 21-06-99, Gateshead, None
+58, Brad James, ENG, G, 1.86, 80, 05-07-99, Durham, None
+59, Jay Wilson, ENG, M, , , 30-01-99, Durham, None
+60, Aynsley Pears, ENG, G, 1.86, 80, 23-04-98, Durham, None
+64, Ben Liddle, ENG, M, 1.70, 75, 21-09-98, Durham, None
+65, Zach Hemming, ENG, G, 1.88, 80, 07-03-00, Bishop Auckland, None
+66, Amadou Sylla, FRA, F, , , 27-06-97, Ivry-sur-Seine, Reims
+68, Jakub Sinior, POL, D, , , 07-07-00, Warsaw, Legia Warszawa
+69, Nathan Dale, ENG, D, , , 22-09-99, Middlesbrough, None
+70, Tyrone O'Neill, ENG, F, 1.86, 75, 12-10-99, Middlesbrough, None
+71, Kian Spence, ENG, M, 1.78, 75, 09-01-01, Harrogate, None
+72, Stephen Walker, ENG, F, 1.81, 78, 11-10-00, Middlesbrough, None
+73, Connor Malley, ENG, M, 1.86, 83, 20-03-00, Newcastle upon Tyne, Sunderland
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Alex John-Baptiste, ENG, D, 1.80, 74, 31-01-86, Sutton-in-Ashfield, QPR
+14, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, Atalanta
+12, Connor Ripley, ENG, G, 1.80, 76, 13-02-93, Middlesbrough, Bury (On Loan)
+23, Connor Roberts, WAL, D, 1.75, 71, 23-09-95, Neath, Swansea C
+51, Lewis Wing, ENG, M, 1.75, 70, 23-05-95, Newton Aycliffe, Yeovil T (On Loan)
+55, Nathan McGinley, ENG, D, 1.91, 75, 15-09-96, Middlesbrough, Wycombe W (On Loan)
+62, Marcus Tavernier, ENG, M, 1.77, 70, 22-03-99, Leeds, MK Dons (On Loan)
+34, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Leeds U
+45, George Miller, ENG, F, 1.78, 64, 11-08-98, Bolton, Bury (On Loan)
+10, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Bordeaux (On Loan)
+17, Adlène Guédioura, ALG, M, 1.78, 82, 12-11-85, La Roche-sur-Yon, Nottingham F
+18, Ashley Fletcher, ENG, F, 1.85, 78, 02-10-95, Keighley, Sunderland (On Loan)
+22, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Fulham

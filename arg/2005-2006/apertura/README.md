@@ -1,0 +1,23 @@
+# Argentinian Primera División 2005 Apertura
+
+20 teams
+- [Argentinos Juniors](argjnrs.txt)
+- [Arsenal](arsenal.txt)
+- [Banfield](banfield.txt)
+- [Boca Juniors](boca.txt)
+- [Colón (Santa Fe)](colon.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Gimnasia y Esgrima (Jujuy)](gimjujuy.txt)
+- [Gimnasia y Esgrima (La Plata)](gimnasia.txt)
+- [Independiente](independ.txt)
+- [Instituto (Córdoba)](institut.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Olimpo (Bahía Blanca)](olimpo.txt)
+- [Quilmes](quilmes.txt)
+- [Racing Club](racing.txt)
+- [River Plate](river.txt)
+- [Rosario Central](rosario.txt)
+- [San Lorenzo](sanloren.txt)
+- [Tiro Federal (Rosario)](tirofed.txt)
+- [Vélez Sarsfield](velez.txt)

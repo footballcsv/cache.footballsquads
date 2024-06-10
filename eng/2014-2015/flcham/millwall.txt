@@ -1,0 +1,59 @@
+=  Millwall - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Forde, IRL, G, 1.91, 87, 20-12-79, Galway, Cardiff C
+2, Alan Dunne, IRL, D, 1.78, 70, 23-08-82, Dublin, None
+3, Danny Shittu, NGA, D, 1.91, 95, 02-09-80, Lagos, QPR
+4, Shaun Cummings, JAM, D, 1.83, 76, 25-02-89, Hammersmith, Reading
+5, Jos Hooiveld, NED, D, 1.91, 75, 22-04-83, Zeijen, Southampton
+6, Shaun Williams, IRL, M, 1.76, 75, 19-10-86, Dublin, MK Dons
+7, Lee Martin, ENG, M, 1.80, 80, 09-02-87, Taunton, Ipswich T
+9, Lee Gregory, ENG, F, 1.88, 80, 26-08-88, Sheffield, FC Halifax T
+10, Nicky Bailey, ENG, M, 1.78, 80, 10-06-84, Hammersmith, Middlesbrough
+11, Martyn Woolford, ENG, M, 1.83, 74, 13-10-85, Pontefract, Bristol C
+12, Paris Cowan-Hall, ENG, F, 1.73, 73, 05-10-90, Hillingdon, Wycombe W
+13, Denzel Gerrar, ENG, G, 1.84, 85, 19-09-94, London, VSI Rio Maior
+15, Edward Upson, ENG, M, 1.78, 73, 21-11-89, Bury St Edmunds, Yeovil T
+16, Mark Beevers, ENG, D, 1.93, 80, 21-11-89, Barnsley, Sheffield W
+17, Byron Webster, ENG, D, 1.94, 88, 31-03-87, Leeds, Yeovil T
+18, Magaye Gueye, SEN, F, 1.79, 73, 06-07-90, Nogent-sur-Marne, Everton
+19, Ricardo Fuller, JAM, F, 1.91, 79, 31-10-79, Kingston, Blackpool
+20, Fred Onyedinma, ENG, M, 1.85, 70, 24-11-96, Plumstead, None
+21, Daniel Harding, ENG, D, 1.83, 75, 23-12-83, Gloucester, Nottingham F
+22, Aiden O'Brien, IRL, F, 1.73, 69, 04-10-93, Islington, None
+23, Jack Powell, ENG, M, 1.77, 62, 29-01-94, Canning Town, None
+25, Justin Hoyte, TRI, D, 1.80, 70, 20-11-84, Waltham Forest, Middlesbrough
+26, Nadjim Abdou, COM, M, 1.80, 71, 13-07-84, Martigues, Plymouth Arg
+27, Jordan Archer, SCO, G, 1.86, 80, 12-04-93, Walthamstow, Tottenham H
+28, Michael Tonge, ENG, M, 1.83, 75, 07-04-83, Manchester, Leeds U
+29, Gary Taylor-Fletcher, ENG, F, 1.83, 70, 04-06-81, Widnes, Leicester C
+30, Richard Chaplow, ENG, M, 1.75, 57, 02-02-85, Accrington, Southampton
+31, Ángel, ESP, M, 1.76, 76, 31-01-86, Girona, Blackpool
+33, Dylan Casey, IRL, D, , , 15-11-95, , None
+34, Ben Thompson, ENG, M, 1.80, 78, 03-10-95, Sidcup, None
+35, Sid Nelson, ENG, D, 1.85, 75, 01-01-95, Lewisham, None
+36, Keaton Wood, ENG, D, 1.85, 80, 10-05-95, , None
+37, Josh Siafa, ENG, D, 1.83, 64, 07-10-94, Farnborough (Kent), West Ham U
+38, Callum Webb, ENG, D, , , 27-09-95, , None
+39, Alfie Pavey, ENG, F, 1.86, 78, 02-10-95, Southwark, Maidstone U
+40, Sofiane El Bekri, FRA, M, 1.68, 62, 22-02-96, Lille, Lens
+41, Tom King, ENG, G, 1.86, 80, 09-03-95, Plymouth, Crystal Palace
+42, Stefan Maierhofer, AUT, F, 2.02, 98, 16-08-82, Gablitz, Wiener Neustadt
+44, Carlos Edwards, TRI, M, 1.80, 69, 24-10-78, Port of Spain, Ipswich T
+45, Jamie Philpot, ENG, F, 1.81, 75, 02-10-96, Pembury, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Mathias Ranégie, SWE, F, 1.97, 92, 14-06-84, Johannesburg, Watford
+4, Josh Wright, ENG, M, 1.85, 73, 06-11-89, Tower Hamlets, Leyton Orient
+5, Paul Robinson, ENG, D, 1.85, 74, 07-01-82, Barnet, Portsmouth
+28, Scott Malone, ENG, D, 1.89, 75, 25-03-91, Rowley Regis, Cardiff C
+24, Jake Goodman, ENG, D, 1.87, 72, 05-08-93, Bexley, AFC Wimbledon (On Loan)
+8, Jermaine Easter, WAL, F, 1.75, 77, 15-01-82, Cardiff, Bristol R
+43, Stephen Bywater, ENG, G, 1.88, 81, 07-06-81, Manchester, Doncaster R
+29, Andy Wilkinson, ENG, D, 1.80, 70, 06-08-84, Stone, Stoke C
+14, Matthew Briggs, ENG, D, 1.88, 84, 09-03-91, Wandsworth, Colchester U (On Loan)
+27, Scott McDonald, AUS, F, 1.73, 78, 21-08-83, Melbourne, Motherwell
+32, John Marquis, ENG, F, 1.85, 71, 16-05-92, Lewisham, Gillingham (On Loan)
+8, Diego Fabbrini, ITA, F, 1.81, 66, 31-07-90, San Giuliano Terme, Watford

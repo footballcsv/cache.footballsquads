@@ -1,0 +1,45 @@
+=  Fluminense - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+2, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Ceará
+3, Matheus Ferraz, BRA, D, 1.90, 82, 12-02-85, São José do Rio Pardo, Américo Mineiro
+5, Wellington, BRA, M, 1.73, 70, 28-01-91, São Paulo, Athletico Paranaense
+6, Mario Pineida, ECU, D, 1.70, 68, 06-07-92, Santo Domingo, Barcelona [ECU]
+7, André, BRA, M, 1.76, 77, 16-07-01, Algodão, None
+10, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, Sevilla
+11, Michel Araújo, URU, F, 1.78, 74, 28-09-96, Colonia del Sacramento, Racing Club [URU]
+12, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Cruzeiro
+13, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Atlético Mineiro
+14, Germán Cano, ARG, F, 1.76, 72, 02-02-88, Posadas, Vasco da Gama
+15, Cris Silva, BRA, D, 1.78, 73, 29-08-93, Niterói, Sheriff Tiraspol
+16, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, FC Midtjylland
+17, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Palmeiras
+18, Alan, CHN, F, 1.82, 72, 10-07-89, José Bonifácio, Guangzhou
+19, Alexandre Jesus, BRA, F, 1.83, 82, 16-09-01, Nova Lima, Cruzeiro
+20, Yago, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, Vitória
+21, Jhon Arias, COL, M, 1.68, 70, 21-09-97, Quibdó, Santa Fe
+22, Pedro Rangel, BRA, G, 1.92, 88, 29-06-00, Nepomuceno, Itapirense
+23, John Kennedy, BRA, F, 1.73, 71, 18-05-02, Itaúna, None
+26, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Cruzeiro
+29, David Duarte, BRA, D, 1.92, 84, 24-01-95, Rio Grande do Sul, Goiás
+31, Calegari, BRA, D, 1.70, 70, 27-02-02, Cuiabá, None
+33, Nino, BRA, D, 1.88, 79, 10-04-97, Recife, Criciúma
+35, Alexsander, BRA, M, 1.77, 67, 08-10-03, Rio de Janeiro, None
+37, Matheus Martins, BRA, F, 1.79, 77, 16-07-03, Campo Grande, None
+38, Martinelli, BRA, M, 1.77, 75, 05-10-01, Presidente Prudente, None
+40, Luan, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, None
+41, Cipriano, BRA, D, 1.95, 90, 08-11-02, Brusque, None
+44, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Grêmio
+52, Felipe Melo, BRA, M, 1.83, 73, 26-06-83, Volta Redonda, Palmeiras
+70, Caio Paulista, BRA, F, 1.84, 78, 11-05-98, São Paulo, Tombense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Luiz Henrique, BRA, F, 1.81, 77, 02-01-01, Petrópolis, Betis
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Retired
+27, Muriel, BRA, G, 1.89, 78, 14-02-87, Novo Hamburgo, AEL Limassol
+30, Marlon, BRA, D, 1.74, 68, 20-05-97, Cascavel, Ankaragücü
+4, Luccas Claro, BRA, D, 1.82, 83, 20-10-91, Ribeirão Preto, Eyüpspor
+8, Nonato, BRA, M, 1.74, 68, 03-03-98, São Paulo, Internacional

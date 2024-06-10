@@ -1,0 +1,67 @@
+=  Lokomotiv Moscow - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Levenets, RUS, G, 1.89, 95, 22-02-80, Sochi, Amkar Perm
+4, Rodolfo, BRA, D, 1.83, 77, 23-10-82, Santos, Dynamo Kiev
+5, Emir Spahić, BIH, D, 1.83, 77, 18-08-80, Dubrovnik, Torpedo Moscow
+6, Milan Milanović, SRB, D, 1.94, 83, 31-03-91, Kosovska Mitrovica, Lokomotiv-2
+7, Dmitriy Torbinskiy, RUS, M, 1.72, 60, 28-04-84, Moscow, Spartak Moscow
+8, Vladimir Maminov, RUS, M, 1.78, 74, 04-09-74, Moscow, Lokomotiv-2
+9, Peter Odemwingie, NGA, F, 1.82, 74, 15-07-81, Tashkent, Lille
+10, David Mujiri, GEO, F, 1.84, 85, 02-01-78, Tbilisi, Krylia Sovetov
+11, Dmitri Sychev, RUS, F, 1.76, 71, 26-10-83, Omsk, Marseille
+14, Igor Smolnikov, RUS, M, 1.78, 70, 08-08-88, Moscow, Torpedo Moscow
+15, Fininho, BRA, D, 1.80, 75, 03-11-83, São Paulo, Figueirense
+16, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Cruzeiro
+17, Dmitriy Sennikov, RUS, D, 1.83, 74, 24-06-76, St. Petersburg, Shinnik
+18, Guillermo Pereyra, ARG, M, 1.83, 75, 20-02-80, Rio Cuarto, Mallorca
+19, Draman Traoré, MLI, F, 1.92, 82, 17-06-82, Bamako, Club Africain
+22, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, Reggina
+23, Marko Baša, SRB, D, 1.90, 79, 29-12-82, Trstenik, Le Mans
+24, Chaker Zouaghi, TUN, M, 1.82, 77, 10-01-85, Tunis, Etoile du Sahel
+25, Răzvan Cociş, ROU, F, 1.81, 73, 19-02-83, Cluj-Napoca, Sheriff Tiraspol
+27, Haminu Draman, GHA, M, 1.73, 73, 28-04-86, Accra, Gençlerbirliği
+32, Marek Čech, CZE, G, 1.87, 84, 08-04-76, Ostrava, Luch-Energia
+33, Artem Gomelko, BLR, G, 1.92, 83, 08-12-89, Zhodino, Lokomotiv-2
+38, Denis Voynov, RUS, M, 1.76, 73, 01-03-90, Fryazino, Lokomotiv-2
+39, Kirill Pavlov, RUS, D, 1.76, 73, 30-01-90, Moscow, Lokomotiv-2
+41, Siarhiei Hurenka, BLR, D, 1.72, 72, 30-09-72, Hrodna, Piacenza
+44, Ruslan Kambolov, RUS, D, 1.80, 79, 01-01-90, Moscow, Lokomotiv-2
+45, Aleksandr Minchenkov, RUS, F, 1.83, 75, 13-01-89, Moscow, Lokomotiv-2
+51, Maksim Belyayev, RUS, D, 1.85, 76, 30-09-91, Ozyory, Lokomotiv-2
+52, Nikita Samokhin, RUS, M, 1.80, 73, 10-06-90, , Lokomotiv-2
+53, Dmitriy Poloz, RUS, F, 1.83, 73, 12-07-91, Stavropol, Lokomotiv-2
+55, Renat Yanbaev, RUS, D, 1.78, 71, 07-04-84, Noginsk, Kuban Krasnodar
+56, Georgiy Nurov, RUS, F, 1.79, 67, 08-06-92, Moscow, Lokomotiv-2
+57, Pavel Deobald, RUS, M, 1.83, 74, 25-06-90, , Lokomotiv-2
+58, Denis Glushakov, RUS, M, 1.78, 72, 27-01-87, Millerovo, Lokomotiv-2
+60, Marat Alchagriov, RUS, D, 1.76, 67, 08-08-90, , Lokomotiv-2
+61, Roman Amirkhanov, RUS, D, 1.77, 68, 13-05-89, , Lokomotiv-2
+63, Diniyar Bilyaletdinov, RUS, M, 1.86, 77, 27-02-85, Moscow, Lokomotiv-2
+66, Andrey Vavilchenkov, RUS, M, 1.78, 74, 28-04-90, , Lokomotiv-2
+67, Ilya Kiselev, RUS, G, 1.87, 82, 25-02-90, , Lokomotiv-2
+71, Taras Tsarikaev, RUS, F, 1.85, 77, 17-06-89, Vladikavkaz, Lokomotiv-2
+73, Yuriy Kulikov, RUS, D, 1.91, 77, 09-05-90, , Lokomotiv-2
+75, Pavel Novitskiy, RUS, D, 1.87, 84, 06-04-89, , Lokomotiv-2
+78, Aleksandr Pankovets, RUS, F, 1.83, 72, 18-02-90, , Lokomotiv-2
+80, Manuchekhr Dzhalilov, RUS, M, 1.75, 62, 27-09-90, , Lokomotiv-2
+81, Alan Gatagov, RUS, D, 1.80, 71, 23-01-91, Vladikavkaz, Lokomotiv-2
+85, Guilherme, BRA, G, 1.97, 78, 12-12-85, Cataguases, Atlético Paranaense
+87, Anton Kochenkov, RUS, G, 1.97, 87, 02-04-87, Bishkek, Lokomotiv-2
+88, Oganes Goaryan, RUS, F, 1.73, 80, 18-03-88, Moscow, Lokomotiv-2
+90, Konstantin Yavorksiy, RUS, F, 1.78, 71, 16-03-90, , Lokomotiv-2
+91, Arnold Kreger, RUS, G, 1.93, 85, 20-05-91, , Lokomotiv-2
+99, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Lokomotiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Alan Dulaev, RUS, D, 1.81, 75, 05-01-89, , Lokomotiv-2
+77, Kantemir Berkhamov, RUS, M, 1.80, 72, 07-08-88, Moscow, Spartak Nalchik
+20, Roman Kontsedalov, RUS, M, 1.81, 75, 11-05-86, Valuyki, Tom (On Loan)
+26, Marián Had, SVK, D, 1.89, 85, 16-09-82, Dolný Kubín, Sparta Prague (On Loan)
+2, Nikita Denisov, RUS, D, 1.88, 81, 07-04-86, Kaluga, FC Rostov
+40, Aleksandr Samedov, RUS, M, 1.74, 64, 19-07-84, Moscow, FC Moscow
+70, Sergey Frolov, RUS, F, 1.84, 87, 20-01-89, , 
+21, Alexey Polyakov, RUS, G, 1.87, 80, 08-02-74, Belgorod, Luch-Energia (On Loan)
+30, Malkhaz Asatiani, GEO, M, 1.84, 79, 04-08-81, Kutaisi, Dynamo Kiev (On Loan)

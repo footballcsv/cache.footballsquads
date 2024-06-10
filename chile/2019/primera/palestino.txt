@@ -1,0 +1,42 @@
+=  Palestino - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ignacio González, CHI, G, 1.87, 81, 02-12-89, Santiago, San Luis de Quillota
+3, Sebastián Silva, CHI, D, 1.81, 81, 01-07-97, Santiago, None
+4, Nicolás Díaz, CHI, M, 1.78, 75, 20-05-99, La Florida, None
+6, Camilo Saldaña, CHI, D, 1.75, 70, 13-07-99, Santiago, None
+7, Diego Rosende, CHI, M, 1.72, 62, 11-02-86, Las Condes, Deportes La Serena
+8, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Bursaspor
+9, Lucas Passerini, ARG, F, 1.89, 88, 16-07-94, Formosa, Guaraní [PAR]
+11, Federico Castro, ARG, F, 1.80, 70, 24-08-93, Capital Federal, Independiente Rivadavia
+12, Fabián Cerda, CHI, G, 1.83, 83, 07-02-89, Santiago, Tulsa Roughnecks
+13, César Cortés, CHI, M, 1.72, 69, 09-01-84, Iquique, Santiago Wanderers
+14, Luis Mago, VEN, D, 1.84, 79, 15-09-94, Cumaná, Carabobo
+15, Nicolás Zedán, CHI, F, 1.80, 70, 07-06-00, Santiago, None
+16, Santiago Lizana, CHI, M, 1.79, 73, 30-09-92, Rancagua, O'Higgins
+17, Enzo Guerrero, CHI, D, 1.81, 84, 31-01-91, Andacollo, Deportes Iquique
+18, Yerko Rojas, CHI, F, 1.73, 65, 06-10-95, La Serena, None
+19, Brayan Véjar, CHI, D, 1.68, 63, 14-07-95, Talcahuano, Colo-Colo
+20, Guillermo Soto, CHI, D, 1.75, 65, 10-01-94, Santiago, Barnechea
+21, Ignacio Ayala, CHI, D, 1.80, 75, 29-11-97, San Miguel, None
+22, Roberto Gutiérrez, CHI, F, 1.78, 78, 18-04-83, Curacaví, Universidad Católica
+23, Renato Tarifeño, COL, F, 1.70, 65, 06-09-96, Coquimbo, Universidad de Concepción
+24, Matías Bórquez, CHI, G, , , 19-08-98, , None
+25, Agustín Farías, ARG, M, 1.78, 73, 25-12-87, Azul, Nueva Chicago
+26, Daniel Murillo, COL, G, , , 24-03-98, , None
+27, Ignacio Herrera, CHI, F, 1.78, 74, 30-10-87, Santiago, Seoul E-Land
+28, Federico Lanzillota, ARG, G, 1.86, 80, 01-12-92, Villa Luzuriaga, Argentinos Juniors
+29, Fabián Ahumada, CHI, F, 1.80, 75, 26-04-96, San Bernardo, None
+30, Diego Oyarzún, CHI, M, 1.75, 69, 02-03-99, , None
+31, Jorge Araya, CHI, M, 1.76, 67, 25-03-96, Santiago, Colo-Colo
+32, Diego Calderón, CHI, D, , , 02-04-00, San Ramón, None
+33, Diego Soto, CHI, M, 1.71, 66, 01-09-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Nicolás Gutiérrez, CHI, F, , , 28-01-00, , 
+11, Richard Paredes, CHI, F, 1.74, 69, 04-12-97, Santiago, Deportes La Serena
+10, Luis Jiménez, CHI, M, 1.83, 75, 17-06-84, Santiago, Al-Ittihad [KSA]
+5, Julián Fernández, ARG, M, 1.77, 76, 22-03-95, Capital Federal, Newell's Old Boys
+2, Alejandro González, URU, D, 1.84, 78, 23-03-88, Montevideo, Barcelona [ECU]

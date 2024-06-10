@@ -1,0 +1,37 @@
+=  Lobos BUAP - Mexican Liga MX 2017/2018 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucero Álvarez, URU, G, 1.87, 80, 24-02-85, San José de Mayo, Oaxaca
+2, César Cercado, MEX, D, 1.69, 70, 23-03-89, Puebla, None
+3, Francisco Rodríguez, MEX, D, 1.91, 79, 20-10-81, Mazatlán, Cruz Azul
+4, Richard Okunorobo, MEX, D, 1.90, 80, 14-08-88, Puebla, None
+5, Orlando Rincón, MEX, D, 1.72, 66, 19-09-85, Cuautla, Puebla
+6, Carlos Treviño, MEX, M, 1.74, 69, 19-04-93, Monterrey, Atlas
+7, Amaury Escoto, MEX, F, 1.78, 74, 30-11-92, Zapopan, Quéretaro
+8, Jorge Ibarra, MEX, M, 1.70, 70, 29-08-88, Guadalajara, Delfines del Carmen
+9, Diego Jiménez, MEX, F, 1.71, 57, 18-09-88, Guadalajara, Atlante
+10, Luis Quiñones, COL, M, 1.77, 68, 26-06-91, Cali, UANL Tigres
+11, Alfonso Tamay, MEX, M, 1.66, 65, 13-05-93, Benito Juárez, UANL Tigres
+12, Heriberto Olvera, MEX, D, 1.75, 69, 13-05-90, Pachuca, Pachuca
+13, Omar Tejeda, MEX, M, 1.74, 78, 22-08-88, Veracruz, Veracruz
+16, Alfonso Sánchez, MEX, F, 1.85, 76, 16-06-94, Aguascalientes, América
+17, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, UANL Tigres
+18, Pedro Aquino, PER, M, 1.75, 71, 13-04-95, Lima, Monterrey
+20, Guillermo Clemens, COL, F, 1.82, 79, 26-11-88, Navojoa, Celaya
+21, Eduardo Tercero, MEX, D, 1.82, 69, 06-05-96, Mexico City, UANL Tigres
+22, Emmanuel Escobar, MEX, F, 1.65, 73, 02-07-91, Tenancingo, None
+23, Emanuel Herrera, ARG, F, 1.80, 75, 13-04-87, Rosario, Emelec
+24, Rodrigo Godínez, MEX, D, 1.85, 69, 21-09-92, Zamora, Morelia
+25, Juan Carlos García, MEX, D, 1.81, 76, 10-11-94, Tepic, Cruz Azul
+26, Juan Carlos Medina, MEX, M, 1.70, 66, 22-08-83, Torreón, Atlas
+27, Luis Olascoaga, MEX, M, 1.64, 54, 22-08-91, Mexico City, América
+28, Carlos Morales, MEX, D, 1.74, 70, 06-09-79, La Piedad, Morelia
+29, Jorge Villalpando, MEX, G, 1.73, 67, 13-03-85, Mexico City, Chiapas
+31, José Francisco Canales, MEX, G, 1.83, 76, 04-05-87, Guadalajara, Atlas
+32, Jonathan Fabbro, ARG, M, 1.88, 85, 16-01-82, Capital Federal, Cerro Porteño
+33, Julian Quiñones, COL, F, 1.77, 76, 24-03-97, Nariño, UANL Tigres
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, William Palacio, COL, F, 1.76, 73, 21-07-94, Bahía Solano, UANL Tigres

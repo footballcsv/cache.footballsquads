@@ -1,0 +1,43 @@
+=  Racing Club - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Arias, CHI, G, 1.88, 80, 13-09-87, Neuquén, Defensa y Justicia
+3, Alexis Soto, ARG, D, 1.72, 69, 20-10-93, Avellaneda, Banfield
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Bahia
+6, Lucas Orbán, ARG, D, 1.84, 76, 03-02-89, Capital Federal, Genoa
+7, Héctor Fértoli, ARG, F, 1.74, 63, 03-12-94, El Trébol, San Lorenzo
+8, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, Santos Laguna
+9, Jonathan Cristaldo, ARG, F, 1.78, 70, 05-03-89, Ingeniero Budge, Vélez Sarsfield
+10, Matías Rojas, PAR, M, 1.86, 72, 03-11-95, Asunción, Cerro Porteño
+11, David Barbona, ARG, M, 1.84, 81, 22-02-95, Capital Federal, Atlético Tucumán
+13, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Tigre
+15, Lisandro López, ARG, F, 1.75, 74, 02-03-83, Rafael Obligado, Internacional
+16, Mauricio Martínez, ARG, M, 1.74, 66, 20-02-93, Santo Tomé, Rosario Central
+17, Benjamín Garré, ARG, F, 1.72, 70, 11-06-00, Capital Federal, Manchester C
+18, Augusto Solari, ARG, M, 1.80, 80, 03-01-92, Rosario, River Plate
+19, Leonel Miranda, ARG, M, 1.70, 70, 07-01-94, Avellaneda, Defensa y Justicia
+20, Darío Cvitanich, ARG, F, 1.75, 67, 16-05-84, Baradero, Banfield
+21, Marcelo Díaz, CHI, M, 1.66, 64, 30-12-86, Santiago, UNAM
+23, Nery Domínguez, ARG, M, 1.84, 77, 09-04-90, Cañada de Gómez, Querétaro
+24, Julián López, ARG, M, 1.82, 72, 08-01-00, Avellaneda, None
+25, Gastón Gómez, ARG, G, 1.89, 88, 04-03-96, Mar del Plata, None
+26, Iván Maggi, ARG, F, 1.78, 74, 14-06-99, Lanús, None
+27, Evelio Cardozo, ARG, M, 1.64, 59, 06-02-01, Capital Federal, None
+28, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, None
+29, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, San Lorenzo
+30, Leonardo Sigali, ARG, D, 1.84, 70, 29-05-87, Campana, Dinamo Zagreb
+32, Walter Montoya, ARG, M, 1.82, 76, 21-07-93, Machagai, Cruz Azul
+33, Luca Andrada, ARG, M, 1.77, 68, 22-04-01, Lanús, None
+34, Juan José Cáceres, ARG, D, 1.73, 62, 01-06-00, Avellaneda, None
+35, Tiago Banega, ARG, M, 1.77, 67, 01-07-99, Concepción del Uruguay, None
+37, Carlos Alcaraz, ARG, M, 1.76, 68, 30-11-02, La Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Neri Cardozo, ARG, M, 1.71, 64, 08-08-86, Godoy Cruz, Defensa y Justicia
+7, Mateo Cassierra, COL, F, 1.86, 75, 13-04-97, Barbacoas, Ajax
+14, Rodrigo Schlegel, ARG, D, 1.82, 82, 03-04-97, Remedios de Escalada, Orlando C
+2, Alejandro Donatti, ARG, D, 1.80, 75, 24-10-86, Rafaela, San Lorenzo
+17, José Luis Rodríguez, URU, D, 1.83, 74, 14-03-97, Canelones, Danubio

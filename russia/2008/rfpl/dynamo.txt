@@ -1,0 +1,56 @@
+=  Dynamo Moscow - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+2, Andrey Karpovich, RUS, M, 1.77, 74, 18-01-81, Semey, Kayrat
+3, Aleksandr Tochilin, RUS, D, 1.81, 79, 27-04-74, Moscow, Asmaral
+4, Marcin Kowalczyk, POL, D, 1.83, 83, 09-04-85, Wieruszów, GKS Bełchatów
+5, Aleksandr Kerzhakov, RUS, F, 1.75, 67, 27-11-82, Kingisepp, Sevilla
+6, Leandro Fernández, ARG, D, 1.79, 80, 30-01-83, Rosario, River Plate
+7, Kirill Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Dynamo Moscow-2
+8, Dmitri Khokhlov, RUS, M, 1.89, 86, 22-12-75, Moscow, Lokomotiv Moscow
+9, Dmitriy Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Dynamo Moscow-2
+11, Ruslan Pimenov, RUS, F, 1.77, 79, 25-11-81, Moscow, Lokomotiv Moscow
+13, Vladimir Granat, RUS, D, 1.84, 80, 22-05-87, Ulan-Ude, Dynamo Moscow-2
+15, Aleksandr Dimidko, RUS, M, 1.91, 80, 20-01-86, Khabarovsk, SKA-Energia
+16, Tsvetan Genkov, BUL, F, 1.84, 83, 08-08-84, Mezdra, Lokomotiv Sofia
+17, Aleksandr Lobkov, RUS, D, 1.80, 74, 17-12-89, Moscow, Dynamo Moscow-2
+19, Cícero, POR, F, 1.85, 89, 08-05-86, Seia, Sporting Braga
+20, Igor Semshov, RUS, M, 1.70, 69, 06-04-78, Moscow, Torpedo Moscow
+21, Žydrunas Karčemarskas, LTU, G, 1.89, 85, 24-05-83, Vilnius, Žalgiris
+22, Luke Wilkshire, AUS, D, 1.76, 75, 02-10-81, Wollongong, FC Twente
+23, Jovan Tanasijević, MNE, D, 1.82, 73, 20-01-78, Belgrade, Vojvodina
+24, Arūnas Klimavičius, LTU, D, 1.87, 80, 05-10-82, Panevėžys, Ekranas
+25, Denis Kolodin, RUS, D, 1.85, 87, 11-01-82, Kamyshin, Krylia Sovetov
+27, Custódio, POR, M, 1.80, 80, 24-05-83, Guimarães, Sporting CP
+30, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Kuban Krasnodar
+31, Alexey Karasevich, RUS, G, 1.86, 78, 29-03-89, Moscow, Dynamo Moscow-2
+33, Nail Zamaliev, RUS, M, 1.77, 67, 09-07-89, , Dynamo Moscow-2
+35, Sergey Panov, RUS, G, 1.89, 75, 13-07-89, , Dynamo Moscow-2
+40, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Dynamo Moscow-2
+43, Irakliy Logua, RUS, F, 1.74, 67, 29-07-91, Moscow, Dynamo Moscow-2
+44, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Dynamo Moscow-2
+45, Roman Panin, RUS, F, 1.83, 73, 17-02-89, , Dynamo Moscow-2
+46, Yuriy Medvedev, RUS, D, 1.90, 80, 03-01-90, , Dynamo Moscow-2
+47, Artem Alimchev, RUS, M, 1.81, 74, 09-06-89, , Dynamo Moscow-2
+50, Vakhtang Morgoshia, RUS, M, 1.81, 71, 12-04-89, Moscow, Dynamo Moscow-2
+53, Ivan Myasnikov, RUS, M, 1.82, 72, 17-02-90, , Dynamo Moscow-2
+57, Vladimir Rikhovskiy, RUS, M, 1.85, 76, 04-03-91, , Dynamo Moscow-2
+58, Vasiliy Tagil, RUS, D, 1.86, 74, 07-11-89, , Dynamo Moscow-2
+63, Anton Rudakov, RUS, D, 1.91, 82, 07-04-89, , Dynamo Moscow-2
+69, Pavel Alpatov, RUS, M, 1.77, 66, 29-05-90, , Dynamo Moscow-2
+70, Andrey Altunin, RUS, M, 1.80, 64, 09-01-89, , Dynamo Moscow-2
+77, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Dynamo Moscow-2
+88, Vladimir Paskayants, RUS, M, 1.90, 79, 05-07-90, , Dynamo Moscow-2
+89, Aleksandr Bebikh, RUS, F, 1.84, 76, 29-08-89, Moscow, Dynamo Moscow-2
+91, Viktor Svezhov, RUS, M, 1.75, 71, 17-05-91, Moscow, Dynamo Moscow-2
+99, Timofey Berdishev, RUS, F, 1.85, 77, 30-05-90, , Dynamo Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Kirill Kurochkin, RUS, M, 1.82, 77, 30-06-88, Saransk, Mordovia Saransk (On Loan)
+34, Rushan Khasyanov, RUS, M, 1.79, 66, 27-01-88, , Dinamo St Petersburg
+71, Aleksandr Denisov, RUS, M, 1.86, 78, 23-02-89, Moscow, Salyut-Energia (On Loan)
+10, Danny, POR, M, 1.78, 70, 07-08-83, Caracas, Zenit
+90, Fyodor Burdykin, RUS, G, 1.84, 78, 03-01-90, Moscow, 

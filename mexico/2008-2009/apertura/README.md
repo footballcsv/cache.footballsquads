@@ -1,0 +1,21 @@
+# Mexican Primera División 2008 Apertura
+
+18 teams
+- [América](america.txt)
+- [Atlante](atlante.txt)
+- [Atlas](atlas.txt)
+- [Cruz Azul](cruzazul.txt)
+- [Guadalajara](guadal.txt)
+- [Indios de Ciudad Juárez](indios.txt)
+- [Jaguares de Chiapas](jaguares.txt)
+- [Monterrey](monter.txt)
+- [Morelia](morelia.txt)
+- [Necaxa](necaxa.txt)
+- [Pachuca](pachuca.txt)
+- [Puebla](puebla.txt)
+- [San Luis](sanluis.txt)
+- [Santos Laguna](santos.txt)
+- [Toluca](toluca.txt)
+- [UAG Tecos](uagtecos.txt)
+- [UANL Tigres](uanltig.txt)
+- [UNAM](unam.txt)

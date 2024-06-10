@@ -1,0 +1,51 @@
+=  Grêmio - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Santos
+3, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+4, Walter Kannemann, ARG, D, 1.83, 77, 14-03-91, Concepción del Uruguay, Atlas
+5, Thiago Santos, BRA, M, 1.81, 78, 05-09-89, Curitiba, FC Dallas
+6, Leonardo Gomes, BRA, D, 1.83, 79, 30-06-96, Araguaína, Boa
+7, Jaminton Campaz, COL, M, 1.65, 69, 24-05-00, Ibagué, Deportes Tolima
+9, Miguel Borja, COL, F, 1.82, 74, 26-01-93, Tierra Alta, Palmeiras
+10, Douglas Costa, BRA, F, 1.72, 70, 14-09-90, Sapucaia do Sul, Juventus
+11, Ferreira, BRA, F, 1.75, 65, 31-12-97, Dourados, None
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+13, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Olympiakos
+15, Darlan Mendes, BRA, M, 1.79, 72, 16-04-98, São Borja, None
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, Real Madrid
+18, Elias Manoel, BRA, F, 1.76, 75, 30-11-01, Campinas, None
+19, Diego Churín, ARG, F, 1.86, 80, 01-12-89, Arroyo Dulce, Cerro Porteño
+20, Brenno, BRA, G, 1.88, 75, 01-04-99, Sorocaba, None
+21, Mathias Villasanti, PAR, M, 1.78, 68, 24-01-97, Caacupé, Cerro Porteño
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, São Paulo
+23, Alisson, BRA, F, 1.74, 73, 25-06-93, Rio Pomba, Cruzeiro
+25, Jhonata Robert, BRA, F, 1.78, 71, 26-10-99, Recife, None
+26, Rodrigues, BRA, D, 1.88, 77, 10-10-97, Carnaúba dos Dantas, None
+27, Felipe Scheibig, BRA, G, 1.95, 80, 08-03-00, Três Passos, None
+28, Paulo Miranda, BRA, D, 1.80, 77, 16-08-88, Iraty, Red Bull Salzburg
+29, Diego Souza, BRA, F, 1.86, 89, 17-06-85, Rio de Janeiro, São Paulo
+31, Adriel, BRA, G, 1.95, 81, 14-01-01, Ilheus, None
+32, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Palmeiras
+33, Luiz Fernando, BRA, F, 1.78, 66, 16-10-96, Tocantinópolis, Botafogo
+34, Gabriel Grando, BRA, G, 1.92, 74, 29-03-00, Chapecó, None
+35, Vanderson, BRA, D, 1.80, 74, 21-06-01, Rondonópolis, None
+36, Guilherme Guedes, BRA, D, 1.77, 73, 18-05-99, Porto Alegre, None
+38, Léo Pereira, BRA, F, 1.72, 73, 29-06-00, Bauru, Ituano
+41, Pedro Lucas, BRA, M, 1.73, 67, 26-07-02, Baixo Guandu, None
+42, Fernando Henrique, BRA, M, 1.78, 74, 01-06-01, São José de Mipibú, None
+44, Ruan, BRA, D, 1.87, 74, 07-06-99, Tramandaí, None
+49, Mateus Sarará, BRA, M, 1.81, 73, 29-06-02, Porto Alegre, None
+50, Victor Bobsin, BRA, M, 1.85, 80, 12-01-00, Porto Alegre, None
+88, Jean Pyerre, BRA, M, 1.83, 72, 07-05-98, Alvorada, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Guilherme Azevedo, BRA, F, 1.79, 74, 21-05-01, Apucarana, Coritiba (On Loan)
+18, Léo Chú, BRA, M, 1.76, 70, 04-06-00, Porto Alegre, Seattle Sounders
+1, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, Marítimo
+21, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Altay
+7, Matheus Henrique, BRA, M, 1.75, 71, 19-12-97, São Paulo, Sassuolo (On Loan)
+8, Maicon, BRA, M, 1.84, 87, 14-09-85, Rio de Janeiro, 
+45, Ricardinho, BRA, F, 1.80, 67, 23-04-01, Guarulhos, Marítimo (On Loan)

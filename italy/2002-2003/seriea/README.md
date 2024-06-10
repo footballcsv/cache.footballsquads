@@ -1,0 +1,21 @@
+# Italian Serie A 2002/03
+
+18 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Brescia](brescia.txt)
+- [Chievo Verona](cverona.txt)
+- [Como](como.txt)
+- [Empoli](empoli.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Modena](modena.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Piacenza](piacenza.txt)
+- [Reggina](reggina.txt)
+- [Roma](roma.txt)
+- [Torino](torino.txt)
+- [Udinese](udinese.txt)

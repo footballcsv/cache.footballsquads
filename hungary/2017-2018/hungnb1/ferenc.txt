@@ -1,0 +1,39 @@
+=  Ferencváros - Hungarian Nemzeti Bajnokság I 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Zsombor Takács, HUN, M, 1.85, 76, 22-02-99, Budapest, Vasas
+4, Stefan Spirovski, MKD, M, 1.85, 77, 23-08-90, Bitola, Vardar Skopje
+5, Marquinhos Pedroso, BRA, D, 1.75, 73, 04-10-93, Tubarão, Figueirense
+7, Bence Batik, HUN, D, 1.91, 84, 08-11-93, Szeged, Tisza Volán
+8, Gergő Lovrencsics, HUN, M, 1.77, 77, 01-09-88, Pécs, Lech Poznań
+11, Dejan Georgijević, SRB, F, 1.86, 81, 19-01-94, Belgrade, Voždovac
+13, Dániel Böde, HUN, M, 1.90, 84, 24-10-86, Szekszárd, Paks
+14, Dominik Nagy, HUN, M, 1.82, 77, 08-05-95, Mohács, Legia Warszawa
+15, Tamás Hajnal, HUN, M, 1.70, 68, 15-03-81, Esztergom, Ingolstadt
+16, Leandro de Almeida, HUN, D, 1.80, 75, 19-03-82, Cornélio Procópio, Omonia Nicosia
+19, Julian Koch, GER, M, 1.84, 76, 11-11-90, Schwerte, Fortuna Düsseldorf
+20, Zoltán Gera, HUN, M, 1.83, 75, 22-04-79, Pécs, WBA
+21, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Honvéd
+22, Kenny Otigba, HUN, D, 1.90, 84, 29-08-92, Kaduna, SC Heerenveen
+23, Lukács Bőle, HUN, M, 1.79, 72, 27-03-90, Marcali, CSM Politehnica Iași
+25, Miha Blažič, SVN, D, 1.85, 79, 08-05-93, Koper, Domžale
+27, Fernando Gorriarán, URU, M, 1.68, 69, 27-11-94, Montevideo, River Plate [URU]
+28, Joseph Paintsil, GHA, F, 1.74, 62, 01-02-98, Fodama, Tema Youth
+29, Tamás Priskin, HUN, F, 1.85, 73, 27-09-86, Komarno, Slovan Bratislava
+30, Rui Pedro, POR, F, 1.80, 73, 02-07-88, VIla Nova de Gaia, CSKA Sofia
+31, Ádám Holczer, HUN, G, 1.93, 83, 28-03-88, Budapest, Nyíregyháza
+37, Janek Sternberg, GER, D, 1.81, 78, 19-10-92, Leezen, Werder Bremen
+40, Amadou Moutari, NIG, M, 1.70, 70, 19-01-94, Arlit, Anzhi Makhachkala
+42, Ádám Varga, HUN, G, 1.91, 78, 12-02-99, Budapest, None
+51, András Csonka, HUN, M, 1.78, 73, 01-05-00, Budapest, None
+90, Dénes Dibusz, HUN, G, 1.86, 81, 19-11-90, Pécs, Pécs
+91, Balázs Lovrencsics, HUN, F, 1.84, 82, 30-08-91, Szolnok, Soroksár
+97, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, Győr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, István Bognár, HUN, M, 1.75, 72, 06-05-91, Liège, Mezőkövesd
+3, Norbert Kundrák, HUN, F, 1.80, 70, 18-05-99, Miskolc, Soroksár (On Loan)
+17, Kornél Csernik, HUN, M, 1.79, 71, 02-07-98, Budapest, Soroksár (On Loan)
+14, Zsombor Takács, HUN, M, 1.85, 76, 22-02-99, Budapest, Re-Registered (3)

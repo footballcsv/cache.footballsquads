@@ -1,0 +1,38 @@
+=  Real Madrid - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.85, 80, 15-12-86, San Isidro de El General, Levante
+2, Daniel Carvajal, ESP, D, 1.73, 74, 11-01-92, Leganés, Bayer Leverkusen
+3, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Zaragoza
+4, Sergio Ramos, ESP, D, 1.84, 82, 30-03-86, Camas, Sevilla
+5, Raphaël Varane, FRA, D, 1.91, 81, 25-04-93, Lille, Lens
+6, Nacho Fernández, ESP, D, 1.80, 76, 18-01-90, Madrid, Real Madrid B
+7, Cristiano Ronaldo, POR, F, 1.87, 84, 05-02-85, Funchal, Manchester U
+8, Toni Kroos, GER, M, 1.83, 76, 04-01-90, Greifswald, Bayern Munich
+9, Karim Benzema, FRA, F, 1.85, 81, 19-12-87, Lyon, Lyon
+10, Luka Modrić, CRO, M, 1.72, 66, 09-09-85, Zadar, Tottenham H
+11, Gareth Bale, WAL, F, 1.85, 82, 16-07-89, Cardiff, Tottenham H
+12, Marcelo, BRA, D, 1.74, 80, 12-05-88, Rio de Janeiro, Fluminense
+13, Francisco Casilla, ESP, G, 1.90, 86, 02-10-86, Alcover, Espanyol
+14, Casemiro, BRA, M, 1.85, 84, 23-02-92, São José dos Campos, São Paulo
+15, Théo Hernández, FRA, D, 1.84, 82, 06-10-97, Marseille, Atlético Madrid B
+17, Lucas Vázquez, ESP, F, 1.73, 71, 01-07-91, Curtis, Espanyol
+18, Marcos Llorente, ESP, M, 1.84, 73, 30-01-95, Madrid, Real Madrid B
+19, Achraf Hakimi, MAR, D, 1.80, 69, 04-11-98, Madrid, Real Madrid B
+20, Marco Asensio, ESP, M, 1.82, 76, 21-01-96, Palma de Mallorca, Mallorca B
+21, Borja Mayoral, ESP, F, 1.82, 74, 05-04-97, Parla, Real Madrid B
+22, Isco, ESP, M, 1.76, 79, 21-04-92, Benalmádena, Málaga
+23, Mateo Kovačić, CRO, M, 1.78, 78, 06-05-94, Linz, Internazionale
+24, Dani Ceballos, ESP, M, 1.79, 71, 07-08-96, Utrera, Betis
+27, Álvaro Tejero, ESP, D, 1.72, 65, 20-07-96, Madrid, Real Madrid B
+28, Dani Gómez, ESP, F, 1.77, 70, 30-07-98, Alcorcón, Real Madrid B
+29, Franchu Feuillassier, ARG, M, 1.72, 68, 12-05-98, Mar del Plata, Real Madrid B
+30, Luca Zidane, FRA, G, 1.83, 78, 13-05-98, Marseille, Real Madrid B
+31, Luismi Quezada, DOM, D, 1.71, 66, 11-02-96, Madrid, Real Madrid B
+32, Óscar, ESP, M, 1.74, 68, 28-06-98, Talavera de la Reina, Real Madrid B
+33, Manu Hernando, ESP, D, 1.83, 71, 19-07-98, Palencia, Real Madrid B
+34, José León, ESP, D, 1.81, 76, 03-02-95, Madrid, Real Madrid B
+35, Moha Ramos, ESP, G, 1.88, 88, 13-04-00, Santa Cruz de Tenerife, Real Madrid B
+36, Javier Belman, ESP, G, 1.84, 80, 04-10-98, Alicante, Real Madrid B
+37, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Tenerife B
+38, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Real Madrid B

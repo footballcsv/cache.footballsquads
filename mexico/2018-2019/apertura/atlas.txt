@@ -1,0 +1,35 @@
+=  Atlas - Mexican Liga MX 2018/2019 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Hernández, MEX, G, 1.83, 75, 01-05-97, Guadalajara, None
+2, Nicolás Pareja, ARG, D, 1.81, 75, 19-01-84, Capital Federal, Sevilla
+3, Leyton Jiménez, COL, D, 1.81, 72, 26-04-89, Juradó, Tijuana
+5, Gaddi Aguirre, MEX, D, 1.73, 58, 31-03-96, Guadalajara, None
+6, Edgar Zaldivar, MEX, M, 1.73, 67, 17-10-96, San Luis Potosí, None
+7, Juan Pablo Vigon, MEX, M, 1.68, 66, 20-07-91, Guadalajara, None
+8, Andrés Andrade, COL, M, 1.77, 73, 23-02-89, Cali, León
+10, Clifford Aboagye, GHA, M, 1.63, 55, 11-02-95, Accra, Granada B
+11, Ricardo Álvarez, ARG, M, 1.88, 84, 12-04-88, Capital Federal, Sampdoria
+12, Jonathan Estrada, MEX, G, 1.82, 75, 16-03-98, Guadalajara, None
+13, Ulises Cardona, MEX, M, 1.77, 67, 13-11-98, Guadalajara, Guadalajara
+14, Omar González, USA, D, 1.96, 95, 11-10-88, Dallas, Pachuca
+15, Bryan Garnica, MEX, M, 1.60, 51, 27-05-96, Nezahualcóyotl, None
+16, Heriberto Olvera, MEX, D, 1.75, 69, 13-05-90, Pachuca, Pachuca
+17, Jefferson Duque, COL, F, 1.83, 79, 17-05-87, Medellín, Atlético Nacional
+18, Alejandro Díaz, MEX, F, 1.70, 66, 27-01-96, Mexico City, América
+19, Octavio Rivero, URU, F, 1.87, 82, 24-01-92, Treinta y Tres, Colo-Colo
+20, Jairo Torres, MEX, M, 1.68, 71, 05-07-00, Guadalajara, None
+21, Lorenzo Reyes, CHI, M, 1.76, 76, 13-06-91, Santiago, Universidad de Chile
+23, Edgar Hernández, MEX, G, 1.83, 79, 27-08-82, Ciudad Reynosa, Querétaro
+24, Cristian González, MEX, D, 1.68, 62, 26-02-98, Uriangato, None
+25, José Ávila, MEX, M, 1.77, 65, 01-05-98, Villanueva, None
+26, Cristian Calderón, MEX, D, 1.77, 68, 24-05-97, Tepic, None
+27, Edyairth Ortega, MEX, M, 1.76, 64, 23-01-97, Jalisco, None
+28, Patrick Soko, CMR, M, 1.76, 72, 31-10-97, Douala, Cibao
+29, Ismael Govea, MEX, D, 1.77, 71, 20-02-97, Buenavista, None
+30, Edson García, MEX, D, 1.83, 84, 01-03-98, Rioverde, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Universidad de Chile

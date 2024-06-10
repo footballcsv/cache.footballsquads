@@ -1,0 +1,23 @@
+# English Premiership 1997/98
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Barnsley](barnsley.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Coventry City](coventry.txt)
+- [Crystal Palace](cpalace.txt)
+- [Derby County](derby.txt)
+- [Everton](everton.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Sheffield Wednesday](sheffwed.txt)
+- [Southampton](southam.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)
+- [Wimbledon](wimbled.txt)

@@ -1,0 +1,41 @@
+=  Sagan Tosu - Japanese J.League 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Taku Akahoshi, JPN, G, 1.85, 80, 21-04-84, Fukuoka, Fukuoka Univ
+3, Keita Isozaki, JPN, D, 1.80, 76, 17-11-80, Odawara, Vegalta Sendai
+4, Teruaki Kobayashi, JPN, D, 1.85, 78, 20-06-79, Ibaraki, Ventforet Kofu
+5, Tatsuya Sakai, JPN, D, 1.83, 71, 19-11-90, Fukuoka, NIFS Kanoya
+6, Jonathan Restrepo, COL, M, 1.84, 73, 14-08-94, , Millonarios
+8, Kota Mizunuma, JPN, F, 1.75, 66, 22-02-90, Tokyo, Yokohama F Marinos
+9, Ryuji Bando, JPN, F, 1.71, 65, 02-08-79, Hyogo, Cerezo Osaka
+10, Kim Min-Woo, KOR, M, 1.72, 69, 25-02-90, Seoul, Yonsei Univ
+11, Yohei Toyoda, JPN, F, 1.85, 79, 11-04-85, Ishikawa, Kyoto Sanga
+12, Tatsuro Okuda, JPN, G, 1.85, 78, 20-09-88, Nara, Aichi Gakuin Univ
+13, Kim Jung-Ya, KOR, D, 1.83, 74, 17-05-88, Hyogo, Gamba Osaka
+14, Naoyuki Fujita, JPN, M, 1.75, 68, 22-06-87, Fukuoka, Fukuoka Univ
+15, Ryuhei Niwa, JPN, M, 1.76, 68, 13-01-86, Yokohama, Vissel Kobe
+16, Nilson, BRA, M, 1.83, 78, 31-03-89, Recife, Itabaiana
+18, Ryunosuke Noda, JPN, F, 1.83, 74, 28-09-88, Fukuoka, Japan Univ of Economics
+19, Shohei Okada, JPN, F, 1.68, 65, 29-04-89, Kanagawa, NIFS Kanoya
+20, Yeo Sung-Hye, KOR, D, 1.86, 80, 06-08-87, , Hanyang Univ
+21, Takuya Muro, JPN, G, 1.81, 78, 02-11-82, Osaka, Tokyo Verdy
+22, Kei Ikeda, JPN, F, 1.78, 72, 20-10-86, Inzai, Ryutsu Keizai Univ
+23, Toshiya Sueyoshi, JPN, M, 1.75, 73, 18-11-87, Fukuoka, Avispa Fukuoka
+24, Takashi Kanai, JPN, D, 1.74, 60, 05-02-90, Tokyo, Yokohama F Marinos
+25, Ryota Hayasaka, JPN, M, 1.83, 73, 19-09-85, Nara, Honda FC
+26, Shuto Hira, JPN, F, 1.70, 66, 25-06-94, Kagoshima, Saga Higashi HS
+27, Koki Kiyotake, JPN, M, 1.77, 65, 20-03-91, Oita, Fukuoka Univ
+28, Yoshiki Takahashi, JPN, M, 1.70, 67, 14-05-85, Nagano, Vegalta Sendai
+29, Shohei Kishida, JPN, D, 1.80, 70, 03-04-90, Oita, Fukuoka Univ
+30, Akito Fukuta, JPN, M, 1.70, 63, 01-05-92, Mie, NIFS Kanoya
+31, Eisuke Fujishima, JPN, G, 1.87, 82, 31-01-92, Kumamoto, Fukuoka Univ
+32, Ryogo Yamasaki, JPN, F, 1.87, 75, 20-09-92, Okayama, Fukuoka Univ
+33, Akihiro Hayashi, JPN, G, 1.95, 89, 07-05-87, Tokyo, Shimizu S-Pulse
+36, Naoya Kikuchi, JPN, M, 1.81, 74, 24-11-84, Shizuoka, Albirex Niigata
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Kosuke Kitani, JPN, D, 1.83, 77, 09-10-78, Kamagaya, FC Gifu (On Loan)
+7, Keisuke Funatani, JPN, M, 1.74, 68, 07-01-86, Mie, Mito HollyHock (On Loan)
+9, Roni, BRA, F, 1.78, 79, 25-04-91, Marília, São Paulo

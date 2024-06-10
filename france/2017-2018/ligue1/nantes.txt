@@ -1,0 +1,41 @@
+=  Nantes - French Ligue 1 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maxime Dupé, FRA, G, 1.86, 85, 04-03-93, Malestroit, None
+2, David Alcibiade, FRA, D, 1.86, 72, 26-09-91, Créteil, Lille
+3, Diego Carlos, BRA, D, 1.84, 79, 15-03-93, Barra Bonita, Estoril
+4, Nicolas Pallois, FRA, D, 1.90, 85, 19-09-87, Elbeuf, Bordeaux
+5, Koffi Djidji, FRA, D, 1.84, 71, 30-11-92, Bagnolet, None
+6, Lima, BRA, D, 1.78, 72, 10-10-91, Estação, Arouca
+7, Jules Iloki, FRA, M, 1.73, 70, 14-01-92, Paris, None
+8, Adrien Thomasson, FRA, M, 1.82, 75, 10-12-93, Bourg-Saint-Maurice, Évian TG
+9, Emiliano Sala, ARG, F, 1.87, 75, 31-10-90, Cululú, Bordeaux
+10, Yacine Bammou, FRA, F, 1.88, 78, 11-09-91, Paris, Évry
+11, Alex Kačaniklić, SWE, M, 1.75, 71, 13-08-91, Helsingborg, Fulham
+12, Chidozie Awaziem, NGA, D, 1.89, 82, 01-01-97, Enugu, FC Porto
+14, Yassine El Ghanassy, MAR, M, 1.75, 69, 12-07-90, La Louvière, Oostende
+15, Léo Dubois, FRA, D, 1.78, 65, 14-09-94, Segré, None
+18, Samuel Moutoussamy, FRA, M, 1.76, 71, 12-08-96, Paris, Lyon
+19, Abdoulaye Touré, FRA, M, 1.87, 77, 03-03-94, Nantes, None
+20, Andrei Girotto, BRA, M, 1.85, 77, 17-02-92, Bento Gonçalves, Tombense
+21, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Granada
+22, Préjuce Nakoulma, BFA, F, 1.78, 76, 21-04-87, Ouagadougou, Kayserispor
+23, Joris Kayembe, BEL, M, 1.82, 73, 08-08-94, Brussels, FC Porto
+25, Enock Kwateng, FRA, D, 1.83, 75, 09-04-97, Mantes-la-Jolie, None
+26, Kalifa Coulibaly, MLI, F, 1.97, 84, 21-08-91, Bamako, KAA Gent
+27, Santy Ngom, FRA, F, 1.81, 79, 07-03-93, Le Mans, La Suze
+28, Valentin Rongier, FRA, M, 1.72, 66, 07-12-94, Mâcon, None
+29, Najib Gandi, FRA, M, 1.88, 74, 23-06-94, Marseille, None
+30, Ciprian Tătăruşanu, ROU, G, 1.98, 90, 09-02-86, Bucharest, Fiorentina
+31, Kolbeinn Sigþórsson, ISL, F, 1.81, 76, 14-03-90, Reykjavík, Ajax
+33, Randal Kolo Muani, COD, F, 1.87, 73, 05-12-98, Bondy, None
+40, Quentin Braat, FRA, G, 1.93, 85, 06-07-97, Fontainebleau, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Guillaume Gillet, BEL, M, 1.86, 77, 09-03-85, Liège, Olympiakos
+18, Mariusz Stępiński, POL, F, 1.83, 72, 12-05-95, Sieradz, Chievo Verona (On Loan)
+16, Alexandre Olliero, FRA, G, 1.93, 85, 15-02-96, La Rochelle, Niort (On Loan)
+17, Anthony Walongwa, COD, D, 1.82, 81, 15-10-93, Nantes, Grenoble (On Loan)
+13, Wilfried Moimbé, FRA, D, 1.73, 65, 18-10-88, Vichy, Oldham Ath

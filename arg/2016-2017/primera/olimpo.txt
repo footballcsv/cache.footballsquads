@@ -1,0 +1,54 @@
+=  Olimpo (Bahía Blanca) - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adrián Gabbarini, ARG, G, 1.85, 78, 10-05-85, Guaymallén, Tigre
+2, Carlos Rodríguez, URU, D, 1.86, 80, 07-04-90, Montevideo, Plaza Colonia
+3, Cristian Villanueva, ARG, D, 1.79, 68, 25-12-83, General Roca, Deportivo Roca
+4, Nicolás Alvarez, ARG, D, 1.76, 80, 22-01-90, San Martín, Villa Dálmine
+5, Lucas Villarruel, ARG, M, 1.72, 63, 13-11-90, Capital Federal, Huracán
+6, Martín Ferreyra, ARG, D, 1.91, 82, 02-04-96, Bahía Blanca, None
+7, Francisco Pizzini, ARG, M, 1.77, 74, 19-09-93, Bahía Blanca, Independiente
+8, Joel Sacks, ARG, D, 1.77, 76, 10-04-89, Rafaela, Atlético Rafaela
+9, Fernando Coniglio, ARG, F, 1.80, 70, 24-11-91, Laborde, Chacarita Juniors
+10, Maximiliano Pérez, ARG, F, 1.82, 73, 26-10-86, Capital Federal, Fénix
+11, Federico Freire, ARG, M, 1.80, 81, 06-11-90, Capital Federal, Universidad San Martín
+12, Guido Villar, ARG, G, 1.92, 79, 15-02-98, Bahía Blanca, None
+13, Nicolás Herranz, ARG, D, 1.83, 77, 17-06-94, Rosario, Rosario Central
+14, José D’Angelo, ARG, M, 1.87, 75, 05-04-89, Quilmes, All Boys
+15, Ezequiel Vidal, ARG, F, 1.83, 70, 02-08-95, Bahía Blanca, None
+17, Lautaro Belleggia, ARG, M, 1.74, 70, 21-03-97, Carhué, None
+18, Jonathan Blanco, ARG, M, 1.84, 81, 29-04-87, José C. Paz, Aldosivi (Mar del Plata)
+19, Emiliano Tellechea, URU, M, 1.70, 73, 05-07-87, Montevideo, Independiente del Valle
+20, David Vega, ARG, M, 1.77, 79, 17-11-80, Guiñazú, Defensa y Justicia
+21, Matías Mayer, ARG, F, 1.81, 74, 11-03-96, Neuquén, None
+22, Said Llambay, ARG, M, 1.72, 76, 05-10-94, Stroeder, None
+23, Julián Fernández, ARG, M, 1.77, 76, 22-03-95, Capital Federal, All Boys
+24, Exequiel Parnisari, ARG, D, 1.85, 78, 01-06-90, San Luis, River Plate
+25, Nicolás Pantaleone, ARG, D, 1.80, 75, 18-02-93, Capital Federal, Tigre
+26, Sebastián Anchoverri, ARG, G, 1.83, 73, 26-04-91, Llavallol, San Telmo
+27, Rodrigo Caballuci, ARG, M, 1.74, 70, 22-07-92, Pergamino, Douglas Haig (Pergamino)
+28, Franco Troyansky, ARG, F, 1.75, 70, 06-03-97, Algarrobo, None
+29, Eial Strahman, ARG, F, 1.86, 80, 21-06-89, Córdoba, Talleres (Córdoba)
+30, Martín Pérez Guedes, ARG, M, 1.68, 64, 18-08-91, Tres Arroyos, Racing Club
+31, Yonathan Cabral, ARG, D, 1.88, 84, 10-05-92, Isidro Casanova, Racing Club
+32, Orlando Gaona Lugo, PAR, F, 1.77, 75, 25-07-90, Villa Hayes, Boca Juniors
+33, Hernán Alecha, ARG, M, 1.71, 75, 10-12-96, Santa Rosa, None
+34, Leandro Lacunza, ARG, D, 1.80, 78, 24-07-97, Punta Alta, None
+35, Áxel Rodríguez, ARG, F, 1.80, 75, 25-03-97, Bahía Blanca, None
+36, David Rodríguez, ARG, G, 1.81, 83, 29-02-96, Puerto Deseado, None
+37, Facundo García, ARG, M, 1.80, 72, 16-12-99, Olavarría, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Nereo Champagne, ARG, G, 1.88, 88, 20-01-85, Salto, Leganés (On Loan)
+19, Jacobo Mansilla, ARG, M, 1.80, 73, 15-06-87, Castelli, Newell's Old Boys
+27, José Erick Correa, COL, F, 1.85, 86, 20-07-92, Acandí, Deportes Tolima
+35, Nicolás Minutella, ARG, M, 1.82, 78, 23-03-95, Capital Federal, Lusitanos St-Maur
+6, Victor López, ARG, D, 1.81, 76, 19-12-78, Córdoba, Instituto (Córdoba)
+22, Juan Quiroga, ARG, D, 1.79, 78, 20-04-82, Monteguay, Belgrano (Córdoba)
+15, Emiliano Tellechea, URU, M, 1.70, 73, 05-07-87, Montevideo, Re-Registered (19)
+16, Said Llambay, ARG, M, 1.72, 76, 05-10-94, Stroeder, Re-Registered (22)
+22, Juan Quiroga, ARG, D, 1.79, 78, 20-04-82, Monteguay, Re-Registered (16)
+29, Rodrigo Caballuci, ARG, M, 1.74, 70, 22-07-92, Pergamino, Re-Registered (27)
+16, Juan Quiroga, ARG, D, 1.79, 78, 20-04-82, Monteguay, Belgrano (Córdoba)

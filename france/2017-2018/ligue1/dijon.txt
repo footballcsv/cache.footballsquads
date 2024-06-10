@@ -1,0 +1,33 @@
+=  Dijon - French Ligue 1 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Leroy, FRA, G, 1.83, 68, 07-04-89, Cucq, Évian TG
+3, Arnold Bouka Moutou, CGO, D, 1.75, 69, 28-11-88, Reims, Angers
+4, Papy Djilobodji, SEN, D, 1.93, 82, 01-12-88, Kaolack, Sunderland
+5, Oussama Haddadi, TUN, D, 1.88, 79, 28-01-92, Tunis, Club Africain
+6, Wesley Lautoa, FRA, D, 1.72, 65, 25-08-87, Épernay, Lorient
+7, Frédéric Sammaritano, FRA, M, 1.62, 61, 23-03-86, Vannes, Auxerre
+8, Mehdi Abeid, ALG, M, 1.78, 77, 06-08-92, Montreuil, Panathinaikos
+9, Wesley Saïd, FRA, F, 1.71, 65, 19-04-95, Noisy-le-Grand, Rennes
+10, Naïm Sliti, TUN, M, 1.72, 75, 27-07-92, Marseille, Lille
+11, Julio Tavares, CPV, F, 1.87, 86, 19-11-88, Tarrafal de São Nicolau, Bourg-Péronnas
+14, Jordan Marié, FRA, M, 1.77, 69, 29-09-91, Épinal, None
+15, Florent Balmont, FRA, M, 1.68, 71, 02-02-80, Sainte-Foy-les-Lyon, Lille
+16, Bobby Allain, FRA, G, 1.85, 75, 28-11-91, Clamart, Red Star
+18, Cédric Yambéré, FRA, D, 1.91, 81, 06-11-90, Bordeaux, Bordeaux
+19, Valentin Rosier, FRA, D, 1.75, 70, 19-08-96, Montauban, Rodez
+20, Romain Amalfitano, FRA, M, 1.75, 69, 27-08-89, Nice, Newcastle U
+21, Eden Massouema, FRA, M, 1.84, 75, 29-06-97, Villepinte, Paris FC
+22, Kwon Chang-Hoon, KOR, M, 1.74, 66, 30-06-94, Seoul, Suwon Samsung Bluewings
+23, Vincent Ruefli, SUI, D, 1.80, 76, 22-01-88, Carouge, Sion
+26, Fouad Chafik, MAR, D, 1.83, 72, 16-10-86, Pierrelatte, Laval
+27, Cédric Varrault, FRA, D, 1.82, 70, 30-01-80, Blois, Panionios
+28, Xeka, POR, M, 1.86, 80, 10-11-94, Rebordosa, Lille
+29, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, Lorient
+30, Baptiste Reynet, FRA, G, 1.85, 85, 28-10-90, Romans, Lorient
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Ádám Lang, HUN, D, 1.88, 83, 17-01-93, Veszprém, Nancy (On Loan)
+24, Dylan Bahamboula, FRA, M, 1.85, 65, 22-05-95, Grigny, Gazélec Ajaccio (On Loan)

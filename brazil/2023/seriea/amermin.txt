@@ -1,0 +1,55 @@
+=  América Mineiro - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Cavichioli, BRA, G, 1.92, 86, 27-07-86, Caçador, Guarani
+3, Iago Maidana, BRA, D, 1.95, 87, 06-02-96, Criciúma, Atlético Mineiro
+4, Wanderson, BRA, D, 1.86, 83, 07-02-91, Vitória da Conquista, Athletico Paranaense
+5, Leandro Martínez, ARG, M, 1.77, 66, 04-06-94, Tandil, Barcelona [ECU]
+6, Marlon, BRA, D, 1.77, 66, 13-02-94, Angra dos Reis, Sampaio Corrêa
+7, Matheusinho, BRA, M, 1.64, 60, 11-02-98, Belo Horizonte, Beitar Jerusalem
+8, Juninho, BRA, M, 1.73, 66, 23-10-87, Goiânia, Atlético Paranaense
+9, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Fortaleza
+10, Martín Benítez, ARG, M, 1.73, 72, 17-06-94, Posadas, Independiente
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Ceará
+12, Jori, BRA, G, 1.90, 84, 15-03-96, Periquito, None
+14, Mateus Pasinato, BRA, G, 1.92, 88, 28-06-92, Concórdia, Moreirense
+16, Alê, BRA, M, 1.84, 75, 06-06-90, Osasco, Cuiabá
+17, Gonzalo Mastriani, URU, F, 1.80, 76, 28-04-93, Montevideo, Barcelona [ECU]
+18, Júlio, BRA, D, 1.85, 78, 28-09-03, Raposos, None
+20, Daniel Borges, BRA, D, 1.74, 68, 23-03-93, São José dos Campos, Botafogo
+21, Lucas Kal, BRA, D, 1.85, 78, 16-03-96, São Paulo, São Paulo
+22, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Corinthians
+23, Javier Méndez, URU, M, 1.84, 83, 05-12-94, Montevideo, Racing Club [URU]
+25, Marcinho, BRA, D, 1.78, 71, 16-05-96, Rio de Janeiro, Pafos
+26, Esteban Burgos, ARG, D, 1.88, 84, 09-01-92, Salta, Málaga
+28, Breno Cascardo, BRA, M, 1.83, 68, 25-09-03, Rio de Janeio, Palmeiras
+29, Pedrinho, BRA, F, 1.76, 64, 10-11-99, São Paulo, Lokomotiv Moscow
+30, Nicolas Vichiatto, BRA, D, 1.75, 70, 24-02-97, Arapongas, Athletico Paranaense
+33, Éder, BRA, D, 1.84, 70, 05-04-95, Gurupi, Atlético Goianiense
+36, Mateus Henrique, BRA, M, 1.78, 66, 02-10-02, Salinas, None
+37, Everaldo, BRA, F, 1.72, 57, 28-05-94, Recife, Corinthians
+44, Adyson, BRA, F, 1.68, 59, 22-09-05, Coroatá, None
+45, Ricardo Silva, BRA, D, 1.90, 78, 13-08-92, São José do Seridó, FC Seoul
+47, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, Metalist Kharkiv
+62, Natan, BRA, G, 1.99, 85, 26-02-03, Itaobim, None
+65, Rodrigo Varanda, BRA, F, 1.80, 70, 11-01-03, Guarulhos, Corinthians
+70, Rafael Barcelos, BRA, D, 1.83, 81, 25-01-04, Contagem, None
+72, Paulinho, BRA, D, 1.83, 75, 29-06-04, Ribeirão Preto, None
+75, Rodriguinho, BRA, M, 1.70, 65, 05-06-03, Contagem, None
+78, Renato Marques, BRA, F, 1.80, 78, 09-12-03, Belo Horizonte, None
+79, Renato Kayzer, BRA, F, 1.78, 68, 17-02-96, Tupãssi, Fortaleza
+80, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Independiente
+87, Mikael, BRA, F, 1.84, 80, 28-05-99, Bacabal, Salernitana
+93, Washington Aguirre, URU, G, 1.88, 90, 23-04-93, Artigas, Querétaro
+99, Aloísio, CHN, F, 1.76, 78, 19-06-88, Araranguá, Guangzhou
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Paysandu
+27, Mateus Gonçalves, BRA, F, 1.72, 66, 28-09-94, Belo Horizonte, Vitória
+13, Arthur, BRA, D, 1.73, 70, 17-03-03, Belo Horizonte, Bayer Leverkusen
+19, Henrique Almeida, BRA, F, 1.78, 76, 27-05-91, Brasília, Vila Nova
+23, Robson, BRA, G, 1.87, 80, 09-07-00, Cantagalo, De-Registered
+77, Dadá Belmonte, BRA, F, 1.66, 59, 08-02-97, São José do Belmonte, Chornomorets Odessa (On Loan)
+80, Luan Campos, BRA, F, 1.73, 68, 19-03-02, Marília, Portimonense (On Loan)

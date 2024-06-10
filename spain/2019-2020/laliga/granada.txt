@@ -1,0 +1,43 @@
+=  Granada - Spanish LaLiga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Silva, POR, G, 1.89, 85, 07-02-94, Águas Santas, Nacional [POR]
+2, Dimitri Foulquier, FRA, D, 1.83, 77, 23-03-93, Sarcelles, Watford
+3, Álex Martínez, ESP, D, 1.76, 64, 12-08-90, Seville, Betis
+4, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Roma
+5, José Antonio Martínez, ESP, D, 1.88, 80, 12-02-93, La Palma del Condado, Eibar
+6, Germán Sánchez, ESP, D, 1.88, 82, 31-10-86, San Fernando, Tenerife
+7, Álvaro Vadillo, ESP, M, 1.80, 69, 12-09-94, Puerto Real, Huesca
+8, Yan Brice, CMR, M, 1.76, 70, 26-08-97, Yaoundé, Sevilla
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Fenerbahçe
+10, Antonio Puertas, ESP, M, 1.75, 72, 21-02-92, Benahadux, Almería
+11, İsmail Köybaşı, TUR, D, 1.77, 65, 10-07-89, İskenderun, Fenerbahçe
+12, Ramon Azeez, NGA, M, 1.70, 70, 12-12-92, Abuja, Lugo
+13, Aarón Escandell, ESP, G, 1.88, 72, 27-09-95, Carcaixent, Málaga B
+14, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Leganés
+15, Carlos Neva, ESP, D, 1.74, 64, 12-06-96, El Puerto de Santa María, Marbella
+16, Víctor Díaz, ESP, D, 1.83, 69, 12-06-88, Huelva, Leganés
+17, Gil Dias, POR, F, 1.83, 78, 28-09-96, Gafanha da Nazaré, Monaco
+18, Antoñín, ESP, F, 1.82, 71, 16-04-00, Málaga, Málaga
+19, Ángel Montoro, ESP, M, 1.80, 70, 25-06-88, Valencia, Las Palmas
+20, Jesús Vallejo, ESP, D, 1.84, 79, 05-01-97, Zaragoza, Real Madrid
+21, Yangel Herrera, VEN, M, 1.84, 75, 07-01-98, La Guaira, Manchester C
+22, Domingos Duarte, POR, D, 1.92, 78, 10-03-95, Cascais, Sporting CP
+23, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Udinese
+24, Carlos Fernández, ESP, F, 1.86, 72, 22-05-96, Seville, Sevilla B
+26, Antonio Aranda, ESP, M, 1.75, 62, 07-10-00, Huétor Vega, Granada B
+27, Antonio Marín, ESP, D, 1.78, 75, 17-06-96, Benalua, Almería B
+29, Isma, ESP, M, 1.80, 67, 14-02-01, Gójar, Granada B
+31, Mario Rodríguez, ESP, M, 1.76, 64, 03-03-97, Barcelona, Peralada
+32, Antonio Montoro, ESP, D, 1.82, 75, 10-05-97, Getafe, Navalcarnero
+35, Unai Etxebarria, ESP, G, 1.88, 81, 30-08-96, Getxo, Athletic Bilbao B
+39, Pepe, ESP, D, 1.85, 63, 02-03-00, Linares, Granada B
+40, João Costa, POR, G, 1.85, 78, 02-02-96, Barcelos, Mirandés
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Juancho, COL, F, 1.78, 75, 24-01-96, Palmira, Las Rozas
+20, Adrián Ramos, COL, F, 1.85, 72, 22-01-86, Santander de Quilichao, América de Cali
+17, Quini Marín, ESP, D, 1.79, 70, 24-09-89, Fernán Núñez, De-Registered
+18, Neyder Lozano, COL, D, 1.85, 78, 04-03-94, Quibdó, De-Registered

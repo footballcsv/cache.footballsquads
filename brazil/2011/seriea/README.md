@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2011
+
+20 teams
+- [América Mineiro](amermin.txt)
+- [Atlético Goianiense](atgoian.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Avaí](avai.txt)
+- [Bahia](bahia.txt)
+- [Botafogo](botafogo.txt)
+- [Ceará](ceara.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Flamengo](flamengo.txt)
+- [Figueirense](figueir.txt)
+- [Fluminense](flumin.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Palmeiras](palmeir.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Vasco da Gama](vasco.txt)

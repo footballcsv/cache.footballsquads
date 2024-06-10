@@ -1,0 +1,44 @@
+=  Benfica - Portuguese Primeira Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur, BRA, G, 1.92, 90, 25-01-81, Leme, Sporting Braga
+3, Steven Vitória, POR, D, 1.95, 86, 11-01-87, Toronto, Estoril
+4, Luisão, BRA, D, 1.93, 95, 13-02-81, Amparo, Cruzeiro
+5, Ljubomir Fejsa, SRB, M, 1.85, 78, 14-08-88, Belgrade, Olympiakos
+6, Rúben Amorim, POR, M, 1.78, 73, 27-01-85, Lisbon, Belenenses
+7, Óscar Cardozo, PAR, F, 1.93, 87, 20-05-83, Campo 9, Newell's Old Boys
+8, Miralem Sulejmani, SRB, F, 1.78, 68, 05-12-88, Belgrade, Ajax
+9, Rogelio Funes Mori, ARG, F, 1.85, 74, 03-05-91, Mendoza, River Plate
+10, Filip Djuričić, SRB, M, 1.76, 72, 30-01-92, Obrenovac, SC Heerenveen
+11, Lima, BRA, F, 1.79, 82, 11-05-83, Monte Alegre, Sporting Braga
+13, Paulo Lopes, POR, G, 1.84, 76, 29-06-78, Mirandela, Feirense
+14, Maximiliano Pereira, URU, D, 1.73, 70, 08-06-84, Montevideo, Defensor Sporting
+16, Guilherme Siqueira, BRA, M, 1.84, 76, 28-04-86, Florianapolis, Granada
+18, Eduardo Salvio, ARG, F, 1.73, 76, 13-05-90, Avellaneda, Atlético Madrid
+19, Rodrigo Moreno, ESP, F, 1.80, 74, 06-03-91, Rio de Janeiro, Real Madrid B
+20, Nicolás Gaitán, ARG, M, 1.73, 67, 23-02-88, San Martín, Boca Juniors
+24, Ezequiel Garay, ARG, D, 1.89, 83, 10-10-86, Rosario, Real Madrid
+28, Sílvio, POR, D, 1.78, 72, 28-09-87, Lisbon, Atlético Madrid
+30, André Gomes, POR, M, 1.88, 83, 30-07-93, Porto, Boavista
+33, Jardel, BRA, D, 1.92, 85, 29-03-86, Florianópolis, Desportivo Brasil
+34, André Almeida, POR, D, 1.86, 75, 10-09-90, Lisbon, Belenenses
+35, Enzo Pérez, ARG, M, 1.77, 71, 22-02-86, Mendoza, Estudiantes (LP)
+41, Jan Oblak, SVN, G, 1.85, 77, 07-01-93, Škofja Loka, Olimpija Ljubljana
+50, Lazar Marković, SRB, M, 1.72, 60, 02-03-94, Belgrade, Partizan Belgrade
+52, Bruno Varela, POR, G, 1.91, 84, 04-11-94, Lisbon, None
+67, Hélder Costa, POR, F, 1.78, 73, 12-01-94, Luanda, None
+70, João Cancelo, POR, D, 1.80, 66, 27-05-94, Barreiro, None
+77, Ruben Pinto, POR, M, 1.81, 69, 24-04-92, Odivelas, None
+83, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Espanyol
+90, Ivan Cavaleiro, POR, F, 1.75, 73, 18-10-93, Vialonga, Alverca
+92, Victor Lindelöf, SWE, D, 1.87, 82, 17-07-94, Västerås, Västerås SK
+94, Bernardo Silva, POR, M, 1.73, 62, 10-08-94, Lisbon, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Lorenzo Melgarejo, PAR, F, 1.78, 71, 10-08-90, Loma Grande, Kuban Krasnodar
+12, Cortez, BRA, D, 1.78, 76, 11-03-87, Rio de Janeiro, São Paulo
+21, Nemanja Matić, SRB, M, 1.94, 82, 01-08-88, Šabac, Chelsea
+15, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, Hamburg (On Loan)
+22, Stefan Mitrović, SRB, D, 1.89, 84, 22-05-90, Belgrade, Valladolid (On Loan)

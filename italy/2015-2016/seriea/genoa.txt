@@ -1,0 +1,54 @@
+=  Genoa - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, None
+2, Alassane També, FRA, D, 1.82, 73, 26-01-92, Villepinte, Kortrijk
+3, Cristian Ansaldi, ARG, D, 1.81, 76, 20-09-86, Rosario, Zenit St Petersburg
+4, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Brescia
+5, Armando Izzo, ITA, D, 1.83, 76, 02-03-92, Naples, Avellino
+8, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Roma
+9, Bruno Gomes, BRA, F, 1.80, 73, 19-07-96, São Paulo, Internacional
+11, Alessio Cerci, ITA, F, 1.80, 78, 23-07-87, Velletri, Atlético Madrid
+15, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Catania
+16, Diego Capel, ESP, M, 1.73, 67, 16-02-88, Albox, Sporting CP
+17, Suso, ESP, M, 1.76, 69, 19-11-93, Cádiz, Milan
+18, Olivier Ntcham, FRA, M, 1.80, 80, 09-02-96, Longjumeau, Manchester C
+19, Leonardo Pavoletti, ITA, F, 1.86, 78, 26-11-88, Livorno, Sassuolo
+21, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Galatasaray
+22, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Crvena Zvezda
+23, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Siena
+24, Ezequiel Muñoz, ARG, D, 1.85, 83, 08-10-90, Pergamino, Palermo
+29, Riccardo Fiamozzi, ITA, D, 1.78, 77, 18-05-93, Mezzocorona, Pescara
+30, Luca Rigoni, ITA, M, 1.85, 72, 07-12-84, Schio, Palermo
+31, Blerim Džemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Galatasaray
+32, Antonio Donnarumma, ITA, G, 1.92, 96, 07-07-90, Castellammare di Stabia, Milan
+34, Gabriel Silva, BRA, D, 1.79, 74, 13-05-91, Piracicaba, Udinese
+35, Francesco Corsinelli, ITA, M, 1.80, 77, 21-11-97, Viareggio, None
+37, Giuseppe Panico, ITA, F, 1.77, 75, 10-05-97, Ottaviano, None
+38, Simone Ricozzi, ITA, M, , , 24-03-97, Genzano, Roma
+39, Daniele Sommariva, ITA, G, 1.86, 76, 18-07-97, Genoa, None
+40, Mattia Cella, ITA, M, , , 02-01-96, Genoa, None
+41, Mario Ierardi, ITA, D, 1.95, 80, 19-02-98, Magenta, None
+42, Tim Matavž, SVN, F, 1.88, 74, 13-01-89, Šempeter pri Gorici, Augsburg
+44, Paolo Scannapieco, ITA, D, , , 13-12-97, Pietra Ligure, None
+54, Sandro Sakho, POR, D, 1.87, 75, 01-05-96, Lisbon, Atlético Madrid
+64, Pietro Pellegri, ITA, F, 1.88, 78, 17-03-01, Genoa, None
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Catania
+87, Andrea Gulli, ITA, M, 1.79, 75, 09-11-97, Savona, None
+88, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Hamburg
+93, Diego Laxalt, URU, M, 1.78, 66, 07-02-93, Montevideo, Internazionale
+97, Paolo Ghiglione, ITA, F, 1.88, 79, 02-02-97, Voghera, None
+98, Raúl Asencio, ESP, F, 1.87, 78, 20-05-98, Villarreal, Burriana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Juraj Kucka, SVK, M, 1.86, 84, 26-02-87, Bojnice, Milan
+27, Samir Ujkani, ALB, G, 1.86, 78, 05-07-88, Resnik, Latina (On Loan)
+34, Paolo Parente, ITA, D, 1.90, 78, 08-03-97, Capua, Paganese
+20, Facundo Alberto Costa, ARG, M, 1.76, 70, 09-01-85, Buenos Aires, Spartak Moscow
+11, Diogo Figueiras, BRA, D, 1.70, 63, 01-07-91, Povos, Sevilla
+36, Samuel Delli Carri, SUI, D, 1.79, 77, 26-11-97, Sorengo, Carpi (On Loan)
+13, Serge Gakpé, TOG, M, 1.77, 79, 07-05-87, Bondy, Atalanta (On Loan)
+90, Issa Cissokho, FRA, D, 1.73, 73, 23-02-85, Paris, Bari (On Loan)
+10, Diego Perotti, ARG, F, 1.75, 67, 26-07-88, Moreno, Roma (On Loan)

@@ -1,0 +1,51 @@
+=  Internacional - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Danilo Fernandes, BRA, G, 1.89, 84, 03-04-88, Guarulhos, Sport Recife
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Bahia
+4, Rodrigo Moledo, BRA, D, 1.88, 84, 27-10-87, Rio de Janeiro, Panathinaikos
+6, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Corinthians
+7, Nicolás López, URU, F, 1.75, 67, 01-10-93, Montevideo, Udinese
+8, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Udinese
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Flamengo
+10, Andrés D'Alessandro, ARG, M, 1.74, 68, 15-04-81, La Paternal, San Lorenzo
+11, Wellington Silva, BRA, M, 1.70, 64, 06-01-93, Rio de Janeiro, Fluminense
+12, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Bahia
+13, Rodrigo Dourado, BRA, M, 1.86, 75, 17-06-94, Pelotas, None
+15, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, Independiente
+16, Rithely, BRA, M, 1.74, 73, 27-01-91, São Luís, Sport Recife
+17, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Vitória
+19, Rodrigo Lindoso, BRA, M, 1.82, 72, 06-06-89, São Luís, Botafogo
+20, Emerson Santos, BRA, D, 1.84, 75, 05-04-95, Itaboraí, Palmeiras
+21, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Fluminense
+22, Santiago Tréllez, COL, F, 1.85, 76, 17-01-90, Medellín, São Paulo
+23, Rafael Sóbis, BRA, F, 1.72, 73, 17-06-85, Erechim, Cruzeiro
+25, Matheus Galdezani, BRA, M, 1.77, 74, 13-03-92, Limeira, Coritiba
+27, Dudu, BRA, D, 1.75, 75, 30-05-97, Gama, Figueirense
+28, Natanael, BRA, D, 1.66, 64, 25-12-90, Cuiabá, Ludogorets Razgrad
+29, Martín Sarrafiore, ARG, M, 1.80, 70, 20-07-97, Villa Ballester, Huracán
+31, Heitor, BRA, D, 1.74, 67, 05-11-00, Pelotas, None
+32, Keiller, BRA, G, 1.93, 86, 29-10-96, Eldorado do Sul, None
+33, Nonato, BRA, M, 1.74, 68, 03-03-98, São Paulo, São Caetano
+34, Erik, BRA, D, 1.70, , 18-02-01, Quaraí, None
+35, Zé Gabriel, BRA, D, 1.84, 77, 21-01-99, Carmópolis, None
+37, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, Santos
+38, José Aldo, BRA, M, 1.75, 67, 25-07-98, Surubim, Palmeiras
+39, Johnny Cardoso, USA, M, 1.82, 78, 20-09-01, Denville, None
+40, Roberto, BRA, D, 1.88, 79, 03-06-98, Porto Alegre, None
+41, Pedro Lucas, BRA, F, 1.85, 77, 05-09-98, Vale Real, None
+42, Daniel, BRA, G, 1.88, 80, 06-05-94, Barra dos Garças, None
+43, Lucas Ramos, BRA, M, 1.71, , 03-01-01, Sarandi, None
+44, Klaus, BRA, D, 1.87, 79, 11-01-94, Dois Irmãos, None
+45, Bruno Fuchs, BRA, D, 1.90, 82, 01-04-99, Ponta Grossa, None
+77, Guilherme Parede, BRA, F, 1.75, 69, 19-09-95, Nova Andradina, Coritiba
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Sport Recife
+99, William Pottker, BRA, F, 1.80, 78, 22-12-93, Foz do Iguaçu, Ponte Preta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Chapecoense
+86, Jonathan Álvez, URU, F, 1.81, 80, 31-05-88, Vichadero, Junior
+28, Iago, BRA, D, 1.81, 68, 23-03-97, Monte Azul Paulista, Augsburg
+49, Richard, BRA, M, 1.76, 69, 11-10-99, Barão, Tondela (On Loan)

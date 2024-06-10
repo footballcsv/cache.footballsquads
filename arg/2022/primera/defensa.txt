@@ -1,0 +1,53 @@
+=  Defensa y Justicia - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcos Peano, ARG, G, 1.85, 70, 15-10-98, Freyre, Unión (Santa Fe)
+2, Adonis Frías, ARG, D, 1.89, 85, 17-03-98, Florencio Varela, None
+4, Lucas Souto, ARG, D, 1.80, 74, 11-10-98, Capital Federal, Ferro Carril Oeste
+5, Kevin Gutiérrez, ARG, M, 1.68, 65, 03-06-97, Lanús, Racing Club
+6, Nazareno Colombo, ARG, D, 1.84, 78, 20-03-99, Quilmes, Estudiantes (LP)
+7, Lucas Albertengo, ARG, F, 1.78, 73, 30-01-91, Egusquiza, Arsenal [ARG]
+8, Julián López, ARG, M, 1.82, 72, 08-01-00, Avellaneda, Racing Club
+9, Nicolás Fernández, ARG, F, 1.65, 66, 08-02-96, Santa Fe, San Lorenzo
+10, Cristian Ortiz, ARG, F, 1.69, 70, 20-08-92, Rosario, Tijuana
+11, Gastón Togni, ARG, M, 1.80, 76, 20-09-97, Coronel Granada, Independiente
+13, Alexis Soto, ARG, D, 1.72, 69, 20-10-93, Avellaneda, Racing Club
+14, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, Vélez Sarsfield
+15, Lautaro Escalante, ARG, M, 1.70, 67, 02-07-99, Florencio Varela, None
+16, Gabriel Altamirano, ARG, M, 1.77, 72, 20-06-01, Rosario, None
+17, Gabriel Alanís, ARG, M, 1.86, 73, 16-03-94, Córdoba, Godoy Cruz (Mendoza)
+18, Andrés Ríos, ARG, F, 1.79, 78, 08-01-89, Capital Federal, Aldosivi (Mar del Plata)
+19, Fabricio Domínguez, URU, M, 1.77, 69, 24-06-98, Montevideo, Racing Club
+20, Brahian Cuello, ARG, M, 1.74, 69, 30-09-97, Merlo, Almagro
+21, Hernán Zuliani, ARG, D, 1.77, 82, 01-12-03, Villa Krause, None
+22, Ezequiel Unsain, ARG, G, 1.88, 83, 09-03-95, Villa Alcaraz, Newell's Old Boys
+23, Tomás Sives, ARG, D, 1.82, 73, 09-12-03, Chascomús, None
+24, Francisco Marco, ARG, D, 1.92, 83, 27-06-03, Capital Federal, None
+25, Tomás Cardona, ARG, D, 1.88, 80, 10-10-95, Capital Federal, Godoy Cruz (Mendoza)
+26, Ezequiel Cannavó, ARG, M, 1.79, 66, 12-06-02, Rosario, None
+29, Nicolás Zalazar, ARG, D, 1.84, 80, 29-01-97, Capital Federal, Bursaspor
+30, Leandro Otormín, URU, F, 1.76, 70, 30-07-96, Paso de los Toros, Nacional [URU]
+31, Federico Versaci, ARG, M, 1.69, 64, 16-02-02, Capital Federal, Vélez Sarsfield
+32, Agustín Fontana, ARG, F, 1.80, 75, 11-06-96, Lomas de Zamora, River Plate
+33, Tomás Galván, ARG, M, 1.72, 65, 11-04-00, El Talar, River Plate
+34, Manuel Duarte, ARG, M, 1.71, 71, 23-08-01, La Plata, None
+35, Agustín Maidana, ARG, M, -, -, 20-10-01, Lomas de Zamora, None
+36, Lautaro Amade, ARG, G, 1.93, 87, 21-12-99, Chacabuco, None
+37, Ricardo Solbes, ARG, F, -, -, 08-07-06, San Miguel, None
+38, Esteban Lucero, ARG, D, -, -, 29-07-05, Quilmes, None
+39, Alan Morinigo, ARG, D, -, -, 22-09-05, Ezeiza, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Matías Rodríguez, ARG, D, 1.78, 76, 14-04-86, San Luis, Retired
+4, Mariano Pieres, ARG, D, 1.79, 75, 08-01-00, Rafael Calzada, Comunicaciones (On Loan)
+27, Hugo Silva, ARG, D, 1.76, 77, 04-02-92, Quilmes, 
+15, Raúl Loaiza, COL, M, 1.80, 70, 08-06-94, Cartagena, Lanús
+10, Walter Bou, ARG, F, 1.74, 70, 25-08-93, Concordia, Vélez Sarsfield
+29, Francisco Pizzini, ARG, F, 1.77, 74, 19-09-93, Bahía Blanca, Talleres (Córdoba)
+24, Hugo Fernández, PAR, M, 1.72, 71, 02-12-97, Ñemby, Olimpia [PAR]
+19, Gabriel Hachen, ARG, M, 1.67, 68, 16-10-90, Rosario, Independiente
+11, Carlos Rotondi, ARG, F, 1.81, 77, 12-03-97, Río Cuarto, Cruz Azul
+28, Juan Rodríguez, ARG, D, 1.84, 80, 28-02-94, General Alvear, Rosario Central (On Loan)
+35, Maximiliano Luayza, ARG, M, 1.80, 78, 15-04-02, San Vicente, Trasandino

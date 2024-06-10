@@ -1,0 +1,56 @@
+=  Náutico - Campeonato Brasileiro Série A 2007
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Allan, G, 6'02", 13 03, 19-05-86, Salvador, Vitória-BA
+, Eduardo, G, 6'04", 13 03, 02-07-77, Rio de Janeiro, América-RJ
+, Fabiano, G, 6'01", 11 11, 19-09-77, São Paulo, Noroeste
+, Breno, D, 5'11", 12 04, 01-11-86, Recife, Vasco da Gama
+, Deleu, D, 5'09", 11 07, 01-03-84, Penedo, Corinthians Alagoano
+, Everaldo, D, 6'01", 13 08, 07-06-74, Camaçari, Criciúma
+, Hamilton, D, 5'09", 09 11, 06-05-77, Rio de Janeiro, Volta Redonda
+, Júlio César, D, 5'08", 11 00, 15-06-82, São Paulo, Cruzeiro
+, Onildo, D, , , , , None
+, Rafael Minero, D, 5'08", 10 01, 14-02-86, Ituiutaba, Marília
+, Ricardinho Rocha, D, 6'00", 11 09, 06-02-86, Recife, Sport Recife
+, Sidny, D, 5'07", 08 11, 21-07-81, Xique-Xique, Salgueiro
+, Toninho, D, 6'01", 12 00, 07-01-81, Eldorado, Noroeste
+, Vágner, D, 6'00", 12 01, 09-06-83, Belem, Botafogo
+, Alberto Acosta, M, 6'03", 11 09, 13-01-77, Montevideo, Peñarol
+, Daniel, M, 5'10", 11 05, 05-05-82, Ribeirão Preto, Corinthians
+, Dejair, M, 5'09", 11 05, 14-12-77, Brasília, São Caetano
+, Elicarlos, M, 5'09", 11 00, 08-06-85, Laranjeiras, Porto de Caruaru
+, Geraldo, M, 5'09", 11 11, 06-02-74, Rio de Janeiro, Coritiba
+, Juliano, M, 5'08", 10 03, 14-02-86, Rio de Janeiro, Fluminense
+, Luciano Totó, M, 6'00", 11 05, 28-06-83, Recife, None
+, Marcelo Silva, M, 6'00", 12 01, 25-05-76, São Paulo, Atlético Paranense
+, Marcelo Silva, M, 5'10", 11 00, 30-11-78, Garopaba, Novo Hamburgo
+, Mauricio, M, 6'00", 12 00, 09-04-82, Floriano, River
+, Radamés, M, 5'09", 10 06, 17-04-86, São Gonçalo, Fluminense
+, Tales, M, 5'10", 10 12, 13-10-81, Franca, Paranavaí
+, Vagner Rosa, M, 5'09", 10 08, 17-03-83, Laranjeiras, Porto de Caruaru
+, Danilo Lins, F, 5'10", 11 11, 23-05-86, Recife, None
+, Felipe, F, 5'08", 12 06, 17-04-78, Passo Fundo, Passo Fundo
+, Ferreira, F, 6'02", 12 04, 21-02-79, Uberlândia, Ipatinga
+, Giancarlo, F, 6'03", 13 05, 18-10-82, Aranranguá, Joinville
+, Jajá, F, 5'07", 09 13, 29-11-86, Itapipoca, Cruzeiro
+, Marcelinho, F, 5'07", 10 10, 28-09-78, Rio de Janeiro, Cabofriense
+, Serginho Baiano, F, 5'10'', 11 11, 01-05-78, Rio Real, América de Natal
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Paulo Rodrigues, D, 5'07", 10 06, 18-02-81, Maceió, Paraná
+, Gléguer, G, 6'02", 13 03, 20-09-76, Americana, América de Natal
+, Beto, F, 5'05", 09 13, 03-09-80, Itaporanga, São Caetano
+, Marcel, M, 5'11", 11 05, 10-08-81, São Paulo, Paulista
+, Baiano, D, 5'09", 11 03, 28-06-78, Capim Grosso, Santos
+, Cris, D, 6'04", 14 00, 18-03-82, Osasco, América de Natal
+, Rodolpho, G, 5'11", 12 08, 11-07-81, Recife, 
+, Alysson, D, 6'01", 12 00, 28-01-82, Aracajú, Denizlispor
+, Marquinhos, D, 6'05", 12 13, 21-10-82, São Paulo, Corinthians
+, André Luis, M, 5'06", 09 00, 28-04-87, Santos, 
+, Daniel Sobralense, M, 5'08", 10 08, 10-02-83, Sobral, Fortaleza
+, Felipe Dias, M, 5'11", 11 00, 11-01-86, São Paulo, 
+, Almir Se, F, 5'10", 11 05, 17-07-85, Nossa Senhora da Glória, 
+, Fábio Saci, F, 5'10", 11 07, 14-02-82, Rio de Janeiro, 
+, Kuki, F, 5'06", 11 05, 30-04-71, Crateús, Santa Cruz

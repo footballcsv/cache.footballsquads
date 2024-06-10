@@ -1,0 +1,54 @@
+=  Grêmio - Campeonato Brasileiro Série A 2011
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Paulista
+2, Gabriel, BRA, D, 1.71, 70, 05-06-81, Feira de Santana, Panathinaikos
+3, Gilberto Silva, BRA, M, 1.84, 74, 07-10-76, Lagoa da Prata, Panathinaikos
+4, Rafael Marques, BRA, D, 1.84, 81, 21-09-83, Rio de Janeiro, Goiás
+5, Fábio Rochemback, BRA, M, 1.83, 83, 10-12-81, Soledade, Sporting CP
+6, Edcarlos, BRA, D, 1.85, 76, 10-05-85, Salvador, Desportivo Brasil
+7, Yuri Mamute, BRA, F, 1.80, 68, 07-05-95, Porto Alegre, None
+8, Adilson, BRA, M, 1.81, 70, 16-01-87, Bom Princípio, None
+9, Brandão, BRA, F, 1.89, 78, 16-06-80, São Paulo, Marseille
+10, Douglas, BRA, M, 1.75, 66, 18-02-82, Criciúma, Al Wasl
+11, Lúcio, BRA, D, 1.76, 68, 20-06-79, Recife, Hertha Berlin
+12, Marcelo Grohe, BRA, G, 1.88, 80, 13-01-87, Campo Bom, None
+13, Mário Fernandes, BRA, D, 1.89, 77, 19-09-90, São Caetano, São Caetano
+14, Vilson, BRA, D, 1.89, 79, 03-04-88, São Gonçalo, Madureira
+15, Júlio César, BRA, D, 1.73, 70, 15-06-82, São Paulo, Fluminense
+16, Diego Clementino, BRA, F, 1.75, 67, 18-03-84, São Paulo, América Mineiro
+17, Fernando, BRA, M, 1.73, 66, 03-03-92, Erechim, None
+18, Ezequiel Miralles, ARG, F, 1.72, 72, 21-07-83, Bahía Blanca, Colo-Colo
+19, Marquinhos, BRA, M, 1.83, 83, 29-09-81, Biguaçu, Santos
+20, Matheus, BRA, G, 1.85, 82, 05-05-89, Alegrete, None
+21, Leandro, BRA, F, 1.77, 71, 12-05-93, Brasília, None
+22, Everaldo, BRA, F, 1.81, 80, 05-07-91, Garibaldi, None
+23, Bruno Collaço, BRA, D, 1.73, 77, 08-03-90, São Leopoldo, None
+24, Damián Escudero, ARG, M, 1.76, 74, 20-04-87, Rosario, Boca Juniors
+25, Rodolfo, BRA, D, 1.83, 77, 23-10-82, Santos, Lokomotiv Moscow
+26, Saimon, BRA, D, 1.83, 74, 03-03-91, Erechim, None
+27, Willian Magrão, BRA, M, 1.90, 78, 16-02-87, Mogi Mirim, None
+29, Gabriel Spessato, BRA, D, 1.80, 75, 16-07-91, Encantado, None
+30, Busatto, BRA, G, 1.89, 78, 23-10-90, Arroio do Tigre, None
+32, Pessalli, BRA, M, 1.78, 70, 24-09-90, Bento Gonçalves, None
+33, Mithyuê, BRA, M, 1.73, 74, 16-10-89, Chapecó, None
+35, Wesley, BRA, F, 1.78, 70, 24-04-90, Sertãozinho, None
+36, Dener, BRA, D, 1.78, 71, 28-06-91, Bagé, None
+37, Émerson Santos, BRA, M, 1.78, 73, 27-02-92, Feira de Santana, None
+40, Renê Santos, BRA, D, 1.84, 74, 21-04-92, Salvador, Bahia
+99, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Hertha Berlin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, Santos
+19, Carlos Alberto, BRA, M, 1.77, 71, 11-12-84, Rio de Janeiro, Vasco da Gama
+6, Gilson, BRA, D, 1.78, 70, 14-05-86, Campo Grande, América Mineiro (On Loan)
+7, Vinícius Pacheco, BRA, M, 1.73, 68, 27-09-85, São Gonçalo, Flamengo
+38, Edílson, BRA, D, 1.77, 78, 27-07-86, Nova Esperança, Atlético Paranaense (On Loan)
+29, Junior Viçosa, BRA, F, 1.82, 79, 24-07-89, Viçosa, Sport Recife (On Loan)
+15, Neuton, BRA, D, 1.82, 79, 14-03-90, Erechim, Udinese
+39, Romário, BRA, D, 1.90, 87, 03-02-90, Fortaleza, Ferroviário
+28, Mateus Magro, BRA, M, 1.81, 67, 27-10-90, Sapiranga, Caxias (On Loan)
+34, Lins, BRA, F, 1.72, 69, 11-09-87, Camaçari, Criciúma
+31, Roberson, BRA, F, 1.81, 72, 02-04-89, Campo Grande, Sport Recife (On Loan)

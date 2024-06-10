@@ -1,0 +1,38 @@
+=  Kayserispor - Turkish Süper Lig 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Muammer Yıldırım, TUR, G, 1.90, 81, 14-09-90, Eğil, Mersin İdman Yurdu
+2, Tiago Lopes, POR, D, 1.80, 66, 04-01-89, Vila Nova de Gaia, CFR Cluj
+3, Asamoah Gyan, GHA, F, 1.80, 80, 22-11-85, Accra, Shanghai SIPG
+4, Levent Gülen, SUI, D, 1.80, 68, 24-02-94, Zürich, Grasshoppers
+6, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, Bursaspor
+7, Bilal Başacıkoğlu, NED, F, 1.79, 64, 26-03-95, Zaanstad, Feyenoord
+8, Hasan Hüseyin Acar, TUR, M, 1.80, 70, 16-12-94, Eskişehir, Eskişehirspor
+9, Umut Bulut, TUR, F, 1.84, 75, 15-03-83, Yeşilhisar, Galatasaray
+10, Deniz Türüç, TUR, M, 1.77, 79, 29-01-93, Enschede, Go Ahead Eagles
+11, Artem Kravets, UKR, F, 1.85, 73, 03-06-89, Dniprodzerzhynsk, Dynamo Kyiv
+14, Emre Demir, TUR, M, 1.75, 68, 15-01-04, Mersin, None
+17, Nurettin Korkmaz, TUR, M, 1.72, 70, 27-06-02, Kayseri, None
+18, Silvestre Varela, POR, F, 1.80, 75, 02-02-85, Almada, FC Porto
+19, Abdullah Gürbüz, TUR, D, , , 11-03-00, Kayseri, None
+20, Tjaronn Chery, NED, M, 1.70, 68, 04-06-88, Den Haag, Guizhou Hengfeng
+22, Cristian Săpunaru, ROU, D, 1.87, 81, 05-04-84, Bucharest, Astra Giurgiu
+25, Hakan Çıtak, TUR, M, , , 02-03-99, İstanbul, None
+26, Berkant Şahin Kök, TUR, M, , , 23-04-98, Eskişehir, Paços de Ferreira
+30, Adem Doğan, TUR, D, 1.80, 70, 05-10-01, Kayseri, None
+33, Silviu Lung Jr., ROU, G, 1.89, 84, 04-06-89, Craiova, Astra Giurgiu
+38, Mert Özyıldırım, TUR, M, 1.75, 70, 28-02-95, Ankara, None
+39, Vedat Karakuş, TUR, G, 1.90, 80, 28-02-98, Şanlıurfa, Lüleburgazspor
+43, Bernard Mensah, GHA, M, 1.80, 73, 17-10-94, Accra, Atlético Madrid
+50, Oleksandr Kucher, UKR, D, 1.84, 77, 22-10-82, Kyiv, Shakhtar Donetsk
+76, Jean-Armel Kana-Biyik, CMR, D, 1.83, 86, 03-07-89, Metz, Toulouse
+89, Atila Turan, FRA, D, 1.76, 79, 10-04-92, Cheny, Reims
+99, Sakıb Aytaç, TUR, D, 1.83, 80, 24-11-91, Konak, Antalyaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Fernando Boldrin, BRA, M, 1.81, 75, 23-02-89, Cravinhos, Rizespor (On Loan)
+5, Rajko Rotman, SVN, M, 1.87, 80, 19-03-89, Maribor, Akhisar Belediyespor
+29, Kazım Çelik, TUR, F, , , 06-01-00, Kayseri, Tarsus İdman Yurdu (On Loan)
+12, Oğuzhan Berber, TUR, D, 1.76, 67, 10-04-92, İzmir, 

@@ -1,0 +1,41 @@
+=  Galatasaray - Turkish Süper Lig 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Muslera, URU, G, 1.90, 77, 16-06-86, Montevideo, Lazio
+3, Felipe Melo, BRA, M, 1.83, 73, 26-08-83, Volta Redonda, Juventus
+4, Hamit Altıntop, TUR, M, 1.83, 82, 08-12-82, Gelsenkirchen, Real Madrid
+5, Gökhan Zan, TUR, D, 1.92, 85, 07-09-81, Antakya, Beşiktaş
+6, Blerim Dzemaili, SUI, M, 1.79, 73, 12-04-86, Tetovo, Napoli
+7, Aydın Yılmaz, TUR, M, 1.76, 65, 29-01-88, Bakirköy, None
+8, Selçuk İnan, TUR, M, 1.82, 74, 10-02-85, İskenderun, Trabzonspor
+9, Umut Bulut, TUR, F, 1.84, 75, 15-03-83, Yeşilhisar, Toulouse
+10, Wesley Sneijder, NED, M, 1.70, 67, 09-06-84, Utrecht, Internazionale
+11, Bruma, POR, F, 1.73, 70, 24-10-94, Bissau, Sporting CP
+13, Alex Telles, BRA, D, 1.81, 71, 15-12-92, Caxias do Sul, Grêmio
+17, Burak Yılmaz, TUR, F, 1.88, 81, 15-07-85, Antalya, Trabzonspor
+18, Sinan Gümüş, GER, F, 1.77, 70, 15-01-94, Pfullendorf, Stuttgart II
+19, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Napoli
+21, Aurélien Chedjou, CMR, M, 1.84, 84, 20-06-85, Douala, Lille
+22, Hakan Balta, TUR, D, 1.84, 80, 23-03-83, Berlin, Manisaspor
+23, Yasin Öztekin, TUR, M, 1.78, 64, 19-03-87, Dortmund, Erciyesspor
+26, Semih Kaya, TUR, D, 1.82, 66, 24-02-91, İzmir, None
+28, Koray Günter, GER, D, 1.85, 77, 16-08-94, Höxter, Borussia Dortmund
+29, Olcan Adın, TUR, M, 1.73, 66, 30-09-85, Balıkesir, Trabzonspor
+35, Yekta Kurtuluş, TUR, M, 1.73, 68, 11-12-85, İzmir, Kasımpaşa
+38, Sinan Bolat, BEL, G, 1.87, 80, 03-09-88, Kayseki, FC Porto
+43, Birhan Vatansever, TUR, M, 1.80, 73, 25-04-97, Fatih, None
+52, Emre Çolak, TUR, M, 1.68, 63, 20-05-91, Eminönü, None
+55, Sabri Sarıoğlu, TUR, D, 1.70, 65, 26-07-84, Çarşamba, None
+67, Eray İsçan, TUR, G, 1.97, 86, 19-07-91, Zonguldak, None
+68, Alperen Uysal, TUR, G, 1.92, 85, 01-01-94, Balıkesir, None
+77, Tarık Çamdal, GER, M, 1.72, 63, 24-03-91, Munich, Eskişehirspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Berk İsmail Ünsal, TUR, F, 1.90, 81, 06-08-94, Gaziosmanpaşa, Antalyaspor (On Loan)
+20, Furkan Özçal, TUR, M, 1.70, 71, 03-09-90, Munich, Karabükspor (On Loan)
+88, Veysel Sarı, TUR, M, 1.85, 78, 25-07-88, Beyoğlu, Kasımpaşa
+90, Umut Gündoğan, TUR, M, 1.67, 63, 12-06-90, Brussels, Adana Demirspor (On Loan)
+40, Emre Can Coşkun, TUR, D, 1.84, 80, 07-06-94, Şişli, Denizlispor (On Loan)
+94, Lucas Ontivero, ARG, F, 1.70, 64, 09-09-94, Catamarca, Honvéd (On Loan)

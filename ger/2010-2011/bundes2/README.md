@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2010/11
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Alemannia Aachen](alemannia.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [Augsburg](augsburg.txt)
+- [VfL Bochum](bochum.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hertha Berlin](hberlin.txt)
+- [Ingolstadt 04](ingols.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [Rot-Weiß Oberhausen](oberhaus.txt)
+- [VfL Osnabrück](osna.txt)
+- [SC Paderborn](paderbo.txt)
+- [1.FC Union Berlin](unionber.txt)

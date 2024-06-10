@@ -1,0 +1,64 @@
+=  FC Rostov - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roman Gerus, RUS, G, 1.93, 86, 14-09-80, Krasnodar, Luch-Energia
+3, Dušan Andjelković, SRB, D, 1.74, 67, 15-06-82, Kraljevo, Kocaelispor
+4, Igor Lebedenko, RUS, F, 1.82, 78, 27-05-83, Moscow, Saturn
+5, Aleksandr Cherkes, RUS, D, 1.80, 75, 02-09-76, Ostrogozhsk, Shinnik
+6, Roman Lengyel, CZE, D, 1.91, 85, 03-11-78, České Budějovice, Kuban Krasnodar
+7, Alyaksandr Kulchiy, BLR, M, 1.81, 74, 01-11-73, Gomel, Tom Tomsk
+8, Maksim Astafyev, RUS, M, 1.69, 66, 08-12-82, St. Petersburg, Luch-Energia
+9, Dmitriy Akimov, RUS, F, 1.84, 79, 14-09-80, St. Petersburg, Sibir Novosibirsk
+10, Mikhail Osinov, RUS, M, 1.80, 77, 08-10-75, Kachkanar, Rotor Volgograd
+12, Petr Gitselov, RUS, M, 1.81, 76, 18-07-83, Kazan, Rubin Kazan
+16, Venyamin Mandrykin, RUS, G, 1.88, 83, 30-08-81, Vladikavkaz, CSKA Moscow
+18, Branimir Petrović, SRB, M, 1.85, 77, 26-06-82, Užice, KamAZ
+19, Mersudin Ahmetović, BIH, F, 1.91, 81, 19-03-85, Tuzla, Sloboda Tuzla
+20, Artur Valikayev, RUS, D, 1.91, 80, 08-01-88, Sterlitamak, FC Nizhny Novgorod
+21, Hong Yong-Jo, PRK, F, 1.75, 68, 22-05-82, Pyongyang, Bežanija
+24, Sergey Kuznetsov, RUS, M, 1.80, 73, 07-05-86, Oryol, Lokomotiv Moscow
+25, Aleksandr Pavlenko, RUS, M, 1.79, 75, 20-01-85, Ordzhonikidze, Spartak Moscow
+26, Ivan Živanović, SRB, D, 1.88, 79, 12-10-81, Šabac, Sampdoria
+27, Stanislav Khoteev, RUS, G, 1.87, 81, 07-03-81, Krasnodar, Lobnya-Alla
+31, Aleksandr Solovev, RUS, G, 1.89, 80, 16-02-91, , FC Rostov-2
+32, Vladislav Dubovoy, RUS, D, 1.76, 71, 05-01-89, , FC Rostov-2
+34, Oleg Leshchikov, RUS, D, 1.78, 74, 29-09-89, Rostov, FC Rostov-2
+35, Vasiliy Mironik, RUS, D, 1.77, 70, 12-09-91, , FC Rostov-2
+36, Magomed Kurbanov, RUS, F, 1.79, 64, 11-04-92, , FC Rostov-2
+37, Sergey Chernishev, RUS, F, 1.70, 68, 27-04-90, , FC Rostov-2
+38, Vladimir Shamara, RUS, D, 1.88, 78, 14-02-92, , FC Rostov-2
+40, Maksim Kalmikov, RUS, M, 1.79, 71, 31-07-91, , FC Rostov-2
+42, Evgeniy Matrakhov, RUS, M, 1.76, 69, 10-08-90, , FC Rostov-2
+43, Mikhail Ignatov, RUS, F, 1.67, 67, 17-11-89, , FC Rostov-2
+44, Artem Nazarov, RUS, G, 1.89, 85, 19-02-91, , FC Rostov-2
+45, Ilya Bannov, RUS, M, 1.81, 73, 17-06-89, , FC Rostov-2
+46, Aleksandr Vasilev, RUS, D, 1.81, 75, 20-07-90, , FC Rostov-2
+47, Anri Khabga, RUS, D, 1.77, 68, 07-01-92, , FC Rostov-2
+48, Maksim Levchenko, RUS, M, 1.71, 64, 29-04-92, , FC Rostov-2
+49, Aleksey Sizintsev, RUS, D, 1.80, 72, 18-06-91, , FC Rostov-2
+50, Vitaliy Kirichenko, RUS, F, 1.75, 64, 24-08-89, , FC Rostov-2
+51, Andrey Sklyarov, RUS, D, 1.82, 74, 30-09-89, , FC Rostov-2
+52, Artem Semka, RUS, M, 1.75, 70, 17-07-90, , FC Rostov-2
+54, Ivan Lapin, RUS, D, 1.84, 74, 08-05-88, St. Petersburg, Zenit St Petersburg
+55, Aleksey Sugak, RUS, F, 1.82, 76, 27-02-90, Azov, FC Rostov-2
+56, Vladimir Zabuga, RUS, G, 1.90, 81, 08-07-90, , FC Abinsk
+57, Astemir Sheriyev, RUS, M, 1.88, 72, 23-02-90, , Spartak Nalchik
+58, Aleksey Klubkov, RUS, D, 1.82, 73, 23-03-90, , FC Rostov-2
+59, Taymuraz Kozaev, RUS, D, 1.79, 72, 26-01-91, , FC Rostov-2
+60, Dmitriy Kortava, RUS, F, 1.81, 76, 17-11-90, , FC Rostov-2
+62, Kirill Chekmarev, RUS, F, 1.80, 74, 05-02-90, Orel, Saturn
+63, Andrey Lyakh, RUS, M, 1.90, 80, 24-09-90, Rostov-on-Don, Khimik Dzerzhinsk
+83, Mikhail Rozhkov, RUS, D, 1.92, 83, 27-12-83, Moscow, Nosta Novotroitsk
+84, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, Rubin Kazan
+85, Nenad Šljivić, SRB, M, 1.83, 76, 08-06-85, Kruševac, Napredak Kruševac
+87, Evgeniy Lutsenko, RUS, F, 1.86, 72, 25-02-87, Moscow, Stavropolye-2009
+88, Aleksandr Salugin, RUS, F, 1.85, 75, 23-10-88, Moscow, Krylia Sovetov
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Aleksandr Ponomarev, RUS, D, 1.85, 80, 25-01-86, Moscow, Vityaz Podolsk
+33, Mikhail Saleev, RUS, M, 1.77, 66, 01-01-90, , 
+39, Mirzaga Guseynpur, RUS, M, 1.74, 72, 11-03-90, , Mitos Novocherkassk (On Loan)
+79, Tomislav Živko, CRO, M, 1.72, 68, 29-01-88, Livno, Ventspils
+41, Ruslan Kurbanov, RUS, M, 1.81, 68, 12-09-91, , FC Taganrog

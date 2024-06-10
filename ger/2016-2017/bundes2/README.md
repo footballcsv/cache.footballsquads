@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2016/17
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [VfL Bochum](bochum.txt)
+- [Dynamo Dresden](dresden.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Erzgebirge Aue](erzge.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [Hannover 96](hannover.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [1.FC Union Berlin](unionber.txt)
+- [Würzburger Kickers](wurzburg.txt)

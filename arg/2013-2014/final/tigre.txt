@@ -1,0 +1,41 @@
+=  Tigre - Argentinian Primera División 2013/14 Final
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Javier García, ARG, G, 1.80, 73, 29-01-87, Capital Federal, Boca Juniors
+2, Lucas Vesco, ARG, D, 1.80, 76, 28-01-90, Quiroga, Racing Club
+3, Juan Alvacete, ARG, D, 1.84, 73, 12-01-91, Mendoza, Independiente Rivadavia
+4, Ignacio Canuto, ARG, D, 1.76, 76, 20-02-86, Santa Fe, LDU Quito
+5, Diego Castaño, ARG, M, 1.91, 87, 08-06-79, Bragado, Rivadavia (Lincoln)
+6, Gabriel Peñalba, ARG, M, 1.80, 75, 23-09-84, Quilmes, Argentinos Juniors
+7, Sergio Araujo, ARG, F, 1.80, 72, 28-01-92, Capital Federal, Boca Juniors
+8, Marcos Gelabert, ARG, M, 1.76, 72, 19-09-81, General Pico, Estudiantes (LP)
+10, Matías Pérez García, ARG, M, 1.65, 68, 13-10-84, Tartagal, Universidad de Chile
+11, Ramiro Leone, ARG, M, 1.73, 70, 01-06-77, Rosario, San Martín (Tucumán)
+12, Agustín Cousillas, ARG, G, 1.82, 77, 19-04-90, Corrientes, None
+13, Erik Godoy, ARG, D, 1.84, 72, 16-08-93, Capital Federal, None
+14, Guillermo Cosaro, ARG, D, 1.80, 72, 07-07-89, Laboulaye, Talleres (Córdoba)
+15, Gastón Díaz, ARG, M, 1.75, 71, 26-03-81, Lomas de Zamora, Colegiales
+16, Pablo Vitti, ARG, F, 1.78, 74, 09-07-85, Rosario, LQU Quito
+17, Sebastián Rusculleda, ARG, M, 1.75, 74, 28-04-85, Laboulaye, Deportivo Quito
+19, Sebastián Rincón, COL, F, 1.85, 80, 14-01-94, Cali, Atenas
+20, Facundo Sánchez, ARG, M, 1.75, 73, 07-03-90, Sa Pereyra, Defensa y Justicia
+21, Sebastián Silguero, ARG, D, 1.82, 75, 01-01-92, Formosa, River Plate
+22, Ignacio Fideleff, ARG, D, 1.88, 82, 04-07-89, Rosario, Napoli
+23, Ariel Nahuelpán, ARG, F, 1.90, 87, 15-10-87, Capital Federal, UNAM
+24, Lucas Wilchez, ARG, M, 1.72, 65, 31-08-83, La Plata, Colo-Colo
+26, Lucas Menossi, ARG, M, 1.65, 65, 20-07-92, Beccar, None
+27, Daniel Lescano, ARG, D, 1.80, 78, 05-06-92, Concordia, None
+28, Lucas Janson, ARG, F, 1.71, 67, 16-08-94, Olavarría, None
+29, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, Kayserispor
+30, Emiliano Ellacópulos, ARG, M, 1.75, 67, 14-01-92, Munro, None
+31, Kevin Itábel, ARG, F, 1.79, 75, 20-08-93, Florida, None
+32, Damián Albil, ARG, G, 1.82, 76, 09-12-79, Bernal, Estudiantes (LP)
+33, Mariano Moscato, ARG, D, , , 18-07-93, Capital Federal, None
+34, Cristian Bordacahar, ARG, F, 1.85, 79, 27-10-91, Laprida, Brown (Adrogué)
+35, Joaquín Arzura, ARG, M, 1.70, 71, 18-05-93, Campana, None
+36, Leandro Garate, ARG, F, 1.75, 75, 02-09-93, Villa Constitución, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, José Sand, ARG, F, 1.82, 72, 17-07-80, Bella Vista, Argentinos Juniors

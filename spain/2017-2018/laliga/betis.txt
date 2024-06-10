@@ -1,0 +1,38 @@
+=  Betis - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Giménez, ESP, G, 1.82, 77, 30-07-83, Vigo, Alcorcón
+2, Rafa Navarro, ESP, D, 1.73, 61, 23-02-94, Valencina de la Concepción, Betis B
+3, Javi García, ESP, M, 1.86, 78, 08-02-87, Mula, Zenit St Petersburg
+4, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, Alavés
+5, Jordi Amat, ESP, D, 1.84, 80, 21-03-92, Canet de Mar, Swansea C
+6, Fabián, ESP, M, 1.89, 70, 03-04-96, Los Palacios y Villafranca, Betis B
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Osasuna
+8, Víctor Camarasa, ESP, M, 1.83, 76, 28-05-94, Meliana, Levante
+9, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Roma
+10, Ryad Boudebouz, ALG, M, 1.77, 72, 19-02-90, Colmar, Montpellier
+12, Joel Campbell, CRC, M, 1.78, 71, 26-06-92, San José [CRC], Arsenal
+13, Antonio Adán, ESP, G, 1.91, 88, 13-05-87, Madrid, Cagliari
+14, Riza Durmisi, DEN, D, 1.68, 64, 08-01-94, Copenhagen, Brøndby
+15, Marc Bartra, ESP, D, 1.84, 75, 15-01-91, San Jaime dels Domenys, Borussia Dortmund
+16, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Marbella
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, El Puerto de Santa Maria, Fiorentina
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, PSV Eindhoven
+19, Antonio Barragán, ESP, D, 1.87, 83, 12-06-87, Pontedeume, Middlesbrough
+20, Cristian Tello, ESP, M, 1.78, 65, 11-08-91, Sabadell, Barcelona
+23, Aïssa Mandi, ALG, D, 1.84, 78, 22-10-91, Châlons-en-Champagne, Reims
+27, Francis Guerrero, ESP, M, 1.72, 70, 11-03-96, Coín, Betis B
+28, Júnior Firpo, DOM, D, 1.84, 75, 22-08-96, Santo Domingo, Betis B
+29, Wilfrid Kaptoum, CMR, M, 1.74, 71, 07-07-96, Douala, Barcelona B
+31, Pedro, ESP, G, 1.87, 80, 21-01-95, Mérida, Betis B
+35, Julio Gracia, ESP, M, 1.70, 66, 10-02-98, El Saucejo, Betis B
+41, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Juan José Narváez, COL, F, 1.80, 76, 12-02-95, Pasto, Córdoba (On Loan)
+11, Nahuel Leiva, ESP, M, 1.75, 65, 22-10-96, Rosario, Villarreal
+21, Alin Toşca, ROU, D, 1.82, 75, 14-03-92, Alexandria, Benevento (On Loan)
+34, Aitor Ruibal, ESP, F, 1.76, 74, 22-03-96, Manresa, Cartagena (On Loan)
+33, Redru, ESP, D, 1.83, 72, 23-06-97, Sevilla, Elche (On Loan)

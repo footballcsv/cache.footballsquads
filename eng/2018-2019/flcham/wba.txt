@@ -1,0 +1,79 @@
+=  West Bromwich Albion - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, Manchester U
+3, Kieran Gibbs, ENG, D, 1.79, 70, 26-09-89, Lambeth, Arsenal
+4, Hal Robson-Kanu, WAL, F, 1.84, 83, 21-05-89, Acton, Reading
+5, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Swansea C
+6, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, Fulham
+7, James Morrison, SCO, M, 1.80, 75, 25-05-86, Darlington, Middlesbrough
+8, Jake Livermore, ENG, M, 1.80, 76, 14-11-89, Enfield, Hull C
+10, Matt Phillips, SCO, M, 1.83, 75, 13-03-91, Aylesbury, QPR
+11, Chris Brunt, NIR, M, 1.87, 85, 14-12-84, Belfast, Sheffield W
+12, Tyrone Mears, ENG, D, 1.80, 74, 18-02-83, Stockport, Minnesota U
+13, Boaz Myhill, WAL, G, 1.91, 92, 09-11-82, Modesto, Hull C
+14, Conor Townsend, ENG, D, 1.68, 62, 04-03-93, Hessle, Scunthorpe U
+15, Jefferson Montero, ECU, M, 1.73, 70, 01-09-89, Babahoyo, Swansea C
+16, Dwight Gayle, ENG, F, 1.77, 73, 20-10-90, Walthamstow, Newcastle U
+18, Gareth Barry, ENG, M, 1.83, 78, 23-02-81, Hastings, Everton
+19, Jay Rodriguez, ENG, F, 1.85, 80, 29-07-89, Burnley, Southampton
+20, Jonathan Leko, ENG, F, 1.82, 75, 24-04-99, Kinshasa, None
+21, Kyle Edwards, ENG, M, 1.72, 64, 17-02-98, Dudley, None
+22, Wesley Hoolahan, IRL, M, 1.68, 71, 20-05-82, Dublin, Norwich C
+23, Jonathan Bond, ENG, G, 1.93, 84, 19-05-93, Hemel Hempstead, Reading
+24, Tosin Adarabioyo, ENG, D, 1.96, 80, 24-09-97, Manchester, Manchester C
+25, Craig Dawson, ENG, D, 1.88, 85, 06-05-90, Rochdale, Rochdale
+26, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Al-Ahly [EGY]
+28, Sam Field, ENG, M, 1.77, 73, 08-05-98, Stourbridge, None
+30, Max Melbourne, ENG, D, 1.78, 65, 24-10-98, Solihull, None
+31, Rayhaan Tulloch, ENG, F, 1.75, 65, 20-01-01, Birmingham, None
+34, Rekeem Harper, ENG, M, 1.83, 64, 08-03-00, Birmingham, None
+35, Callum Morton, ENG, F, 1.77, 65, 19-01-00, Torquay, Yeovil T
+36, Nathan Ferguson, ENG, D, 1.80, 76, 06-10-00, Birmingham, None
+37, Kyle Jameson, ENG, D, 1.83, 79, 11-09-98, Urmston, Chelsea
+39, Alex Palmer, ENG, G, 1.83, 72, 10-08-96, Kidderminster, None
+41, Brad House, ENG, G, 1.88, 78, 19-10-98, Worthing, Arsenal
+42, Ben Pierce, ENG, G, , , 20-09-98, Manchester, Everton
+43, Sam Wilding, ENG, M, , , 31-01-00, Walsall, None
+44, Adam Przybek, WAL, G, , , 02-04-00, , None
+45, Dan Meredith, SCO, D, , , 14-09-99, Hereford, None
+46, Jack Chambers, NIR, M, , , 12-07-00, Banbridge, Linfield
+47, Jamie Soule, ENG, F, 1.83, 75, 26-11-00, Cheltenham, None
+48, Nick Clayton-Phillips, ENG, M, 1.75, 65, 23-09-99, West Bromwich, None
+49, Finn Azaz, ENG, M, 1.85, 70, 07-09-00, Westminster, None
+50, Kevin Healy, IRL, D, , , 03-07-00, , St Kevin's Boys
+51, Morgan Rogers, ENG, M, 1.87, 80, 26-07-02, Halesowen, None
+52, George Harmon, ENG, D, 1.80, 72, 08-12-00, Walsall, None
+53, Zak Brown, ENG, M, 1.79, 68, 26-09-00, West Bromwich, None
+54, Aksum White, ENG, D, , , 21-11-00, Birmingham, None
+55, Eoin Ashton, ENG, M, , , , , None
+56, Stanley Asomugha, ENG, F, , , 21-12-00, , None
+57, Ted Cann, ENG, G, 1.88, 76, 27-12-00, Stockport, Liverpool
+58, Tyrese Dyce, ENG, D, , , 19-04-01, , None
+59, Pablo Martínez, WAL, D, 1.86, 75, 11-10-00, Oxford, Reading
+60, Yusuff Ojebode, ENG, M, , , 31-12-00, , None
+61, Thomas Sharpe, ENG, M, , , 17-12-00, Cheltenham, None
+62, Peter Taylor, ENG, M, , , 01-09-00, Birmingham, None
+63, Louie Barry, ENG, F, 1.74, 63, 21-06-03, Birmingham, None
+64, Josh Griffiths, ENG, G, 1.85, 71, 05-09-01, Hereford, None
+65, Zak Delaney, IRL, D, , , 10-01-02, , None
+66, Taylor Gardner-Hickman, ENG, D, 1.88, 77, 30-12-01, Stourbridge, None
+67, Jasko Keranović, AUS, G, 1.96, 80, 02-03-98, Sydney, None
+68, Mason Holgate, ENG, D, 1.84, 63, 22-10-96, Doncaster, Everton
+70, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Newcastle U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, José Salomón Rondón, VEN, F, 1.86, 86, 16-09-89, Caracas, Newcastle U (On Loan)
+27, Dara O'Shea, IRL, D, 1.85, 65, 04-03-99, Dublin, Exeter C (On Loan)
+2, Allan-Roméo Nyom, CMR, D, 1.88, 80, 10-05-88, Neuilly-sur-Seine, Leganés (On Loan)
+22, Nacer Chadli, BEL, M, 1.87, 80, 02-08-89, Liège, Monaco
+17, Oliver Burke, SCO, M, 1.74, 75, 07-04-97, Melton Mowbray, Celtic (On Loan)
+15, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, Leicester C
+33, Kane Wilson, ENG, D, 1.78, 71, 11-03-00, Birmingham, Exeter C (On Loan)
+6, Bakary Sako, MLI, M, 1.84, 90, 24-04-88, Ivry-sur-Seine, Crystal Palace
+32, Jack Fitzwater, ENG, D, 1.88, 70, 23-09-97, Solihull, Walsall (On Loan)
+38, Alex Bradley, FIN, M, 1.78, 64, 27-01-99, Worcester, Burton Alb (On Loan)
+40, Kyle Howkins, ENG, D, 1.96, 81, 04-05-96, Walsall, Port Vale (On Loan)
+29, Zhang Yuning, CHN, F, 1.83, 69, 05-01-97, Wenzhou, Beijing Guoan

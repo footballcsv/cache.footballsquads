@@ -1,0 +1,49 @@
+=  Ñublense - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Pérez, URU, G, 1.82, 84, 05-02-90, Cerro Largo, Progreso
+2, Juan Córdova, CAN, D, 1.65, 63, 25-06-95, Los Andes, Huachipato
+5, Rafael Caroca, CHI, M, 1.70, 67, 19-07-89, Curicó, Deportes Iquique
+6, Lorenzo Reyes, CHI, M, 1.76, 76, 13-06-91, Santiago, Mazatlán
+7, Bayron Oyarzo, CHI, F, 1.65, 64, 14-07-95, Puerto Montt, Curicó Unido
+8, Rodrigo Cisterna, CHI, M, 1.73, 62, 25-03-02, Santiago, Colo-Colo
+9, Andrés Vilches, CHI, F, 1.80, 80, 14-01-92, San Pedro, Palestino
+10, Branco Provoste, CHI, M, 1.77, 68, 14-04-00, Santiago, Colo-Colo
+11, Juan Leiva, CHI, M, 1.81, 78, 11-11-93, Chillán, Universidad Católica
+12, Patricio Rubio, CHI, F, 1.75, 73, 09-01-89, Santiago, Union Española
+13, Walter Martínez, CHI, M, 1.76, 71, 31-01-00, Chillán, None
+14, Jovany Campusano, CHI, D, 1.70, 69, 11-01-93, La Serena, Deportes La Serena
+15, Lucas Vielma, CHI, M, 1.67, 65, 21-11-03, -, None
+16, Matías Vera, CHI, F, 1.70, 68, 13-03-04, -, None
+17, Enzo Guerrero, CHI, D, 1.81, 84, 31-01-91, Andacollo, Palestino
+18, Bernardo Cerezo, CHI, D, 1.78, 76, 21-01-95, Taltal, Santiago Wanderers
+19, Lucas Abascia, ARG, D, 1.81, 80, 10-12-95, Rosario, Deportivo Morón
+21, Raimundo Rebolledo, CHI, D, 1.71, 63, 14-05-97, Concepción, Universidad Católica
+22, Pablo Aránguiz, CHI, M, 1.72, 65, 17-03-97, Independencia, Universidad de Chile
+23, Santiago Dittborn, CHI, M, 1.74, 70, 30-10-92, Santiago, Deportes La Serena
+25, Hernán Muñoz, CHI, G, 1.82, 88, 09-08-88, Talca, Deportes Copiapó
+26, Ismael Sosa, ARG, F, 1.79, 70, 18-01-87, San Martín, Everton (Viña del Mar)
+27, Nicolás Neira, CHI, M, 1.66, 65, 30-06-06, -, None
+28, Manuel Rivera, CHI, M, 1.75, 75, 17-02-96, Recoleta, Barnechea
+29, Lucas Molina, CHI, F, 1.70, 69, 27-02-06, -, None
+30, Alex Valdés, CHI, F, 1.75, 76, 08-08-02, Santiago, Santiago Morning
+31, Bastian Pino, CHI, M, 1.75, 76, 15-11-01, -, None
+32, Guillermo Gajardo, CHI, G, 1.83, 79, 05-06-02, Chillán, None
+33, Nicolás Zalazar, ARG, D, 1.84, 80, 29-01-97, Capital Federal, Defensa y Justicia
+34, Diego Sepúlveda, CHI, D, 1.83, 75, 19-01-06, -, None
+35, Jhonatan Tempine, CHI, M, 1.71, 68, 28-06-06, -, None
+36, Cristián Meza, CHI, M, 1.70, 72, 21-05-04, Cauquenes, None
+38, Wladimir Acuña, CHI, F, 1.75, 69, 25-05-99, Yungay, None
+39, Ignacio Moraga, CHI, M, 1.71, 67, 27-06-06, -, None
+40, Claudio Chandía, CHI, G, 1.83, 72, 14-11-06, -, None
+41, Joaquín Ríos, CHI, G, -, -, 06-04-07, -, None
+42, Tomas Bustamante, CHI, F, 1.67, 67, 23-07-06, -, None
+43, Jesús Gacitúa, CHI, F, 1.82, 78, 07-12-03, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+37, Maximiliano Torrealba, CHI, M, 1.73, 67, 30-09-02, Chillán, Santiago Morning (On Loan)
+4, Nicolás Mancilla, CHI, D, 1.79, 70, 07-10-93, Quinta Normal, Rangers (Talca) (On Loan)
+3, Nozomi Kimura, CHI, D, 1.75, 75, 23-01-97, Copiapó, Fernández Vial (On Loan)
+20, Jorge Henríquez, CHI, M, 1.76, 68, 17-06-94, Santiago, Curicó Unido (On Loan)

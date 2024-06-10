@@ -1,0 +1,56 @@
+=  Fulham - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabor Király, HUN, G, 1.91, 85, 01-04-76, Szombathely, 1860 Munich
+2, Tim Hoogland, GER, D, 1.83, 78, 11-06-85, Marl, Schalke
+3, Kostas Stafylidis, GRE, D, 1.76, 74, 02-12-93, Koufalia, Bayer Leverkusen
+4, Shaun Hutchinson, ENG, D, 1.88, 80, 23-11-90, Newcastle upon Tyne, Motherwell
+5, Fernando Amorebieta, VEN, D, 1.92, 85, 21-03-85, Iurreta, Athletic Bilbao
+6, Nikolay Bodurov, BUL, D, 1.80, 78, 30-05-86, Blagoevgrad, Litex Lovech
+8, Scott Parker, ENG, M, 1.75, 70, 13-10-80, Lambeth, Tottenham H
+9, Matt Smith, ENG, F, 1.98, 75, 07-06-89, Birmingham, Leeds U
+10, Bryan Ruiz, CRC, F, 1.88, 78, 18-08-85, San José [CRC], FC Twente
+11, Alex Kačaniklić, SWE, M, 1.75, 71, 13-08-91, Helsingborg, Liverpool
+12, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Manchester C
+13, Danny Guthrie, ENG, M, 1.75, 73, 18-04-87, Shrewsbury, Reading
+14, Patrick Roberts, ENG, F, 1.67, 58, 05-02-97, Kingston-upon-Thames, None
+15, Kay Voser, SUI, D, 1.73, 69, 04-01-87, Fislisbach, Basel
+16, Cauley Woodrow, ENG, F, 1.84, 78, 02-12-94, Hemel Hempstead, Luton T
+17, Adam Taggart, AUS, F, 1.83, 69, 02-06-93, Perth, Newcastle U Jets
+18, Michael Turner, ENG, D, 1.93, 85, 09-11-83, Lewisham, Norwich C
+19, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, Manchester U
+20, Hugo Rodallega, COL, F, 1.81, 72, 25-07-85, El Carmelo, Wigan Ath
+21, Lasse Vigen Christensen, DEN, M, 1.78, 75, 15-08-94, Esbjerg, FC Midjtylland
+23, Tiago Casasola, ARG, D, 1.90, 85, 11-08-95, Capital Federal, Boca Juniors
+24, James Husband, ENG, D, 1.80, 65, 03-01-94, Leeds, Middlesbrough
+25, Moussa Dembélé, FRA, F, 1.83, 74, 12-07-96, Pontoise, Paris St-Germain
+26, Richard Lee, ENG, G, 1.83, 79, 05-10-82, Oxford, Brentford
+27, George Williams, WAL, F, 1.72, 73, 07-09-95, Milton Keynes, MK Dons
+28, Emerson Hyndman, USA, M, 1.70, 61, 09-04-96, Dallas, FC Dallas
+29, Ashley Richards, WAL, D, 1.85, 78, 12-04-91, Swansea, Swansea C
+32, Sean Kavanagh, IRL, D, 1.74, 62, 24-01-94, Dublin, Belvedere
+33, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Darlington
+34, Adil Chihi, MAR, F, 1.83, 78, 21-02-88, Düsseldorf, Köln
+36, Buomesca Tué Na Bangna, POR, M, 1.74, 65, 06-05-93, Bissau, Chelsea
+37, Jack Grimmer, SCO, D, 1.84, 84, 25-01-94, Aberdeen, Aberdeen
+39, Ryan Williams, AUS, M, 1.81, 76, 28-10-93, Perth [AUS], Portsmouth
+40, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, None
+41, Jesse Joronen, FIN, G, 1.97, 89, 21-03-93, Helsinki, None
+42, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, MFK Košice
+43, Liam Donnelly, NIR, D, 1.80, 71, 07-03-96, Dungannon, Dungannon Swifts
+44, Ross McCormack, SCO, F, 1.75, 74, 18-08-86, Glasgow, Leeds U
+45, Jordan Evans, WAL, D, 1.79, 65, 23-09-95, Wrexham, Wrexham
+46, Magnus Norman, ENG, G, 1.91, 82, 19-01-97, Kingston upon Thames, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Kostas Mitroglou, GRE, F, 1.88, 85, 12-03-88, Kavala, Olympiakos (On Loan)
+29, Marcello Trotta, ITA, F, 1.87, 82, 29-09-92, Santa Maria Capua Vetere, Avellino
+38, Cameron Burgess, AUS, D, 1.94, 81, 21-10-95, Aberdeen, Ross Co (On Loan)
+31, Stephen Arthurworrey, ENG, D, 1.93, 88, 15-10-94, Hackney, Yeovil T (On Loan)
+26, Mark Fotheringham, SCO, M, 1.70, 76, 22-10-83, Dundee, 
+7, Thomas Eisfeld, GER, M, 1.77, 65, 18-01-93, Finsterwalde, Bochum (On Loan)
+30, Chris David, NED, M, 1.70, 71, 06-03-93, Amsterdam, FC Twente (On Loan)
+13, Elsad Zverotić, MNE, D, 1.79, 75, 31-10-86, Berane, Sion
+22, Dino Fazlić, BIH, M, 1.80, 70, 21-11-91, Banja Luka, Zadar

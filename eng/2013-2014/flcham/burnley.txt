@@ -1,0 +1,47 @@
+=  Burnley - English Football League Championship 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Heaton, ENG, G, 1.85, 85, 15-04-86, Chester, Bristol C
+2, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Manchester C
+3, Danny Lafferty, NIR, D, 1.82, 80, 01-04-89, Derry, Derry C
+4, Michael Duff, NIR, D, 1.85, 74, 11-01-78, Belfast, Cheltenham T
+5, Jason Shackell, ENG, D, 1.93, 83, 27-09-83, Stevenage, Derby Co
+6, Ben Mee, ENG, D, 1.80, 74, 23-09-89, Sale, Manchester C
+7, Ross Wallace, SCO, M, 1.68, 64, 23-05-85, Dundee, Preston NE
+8, Dean Marney, ENG, M, 1.83, 72, 31-01-84, Barking, Hull C
+9, Sam Vokes, WAL, F, 1.86, 76, 21-10-89, Lymington, Wolverhampton W
+10, Danny Ings, ENG, F, 1.78, 73, 16-03-92, Winchester, Bournemouth
+11, Junior Stanislas, ENG, M, 1.83, 76, 26-11-89, Kidbrooke, West Ham U
+12, Alex Cisak, AUS, G, 1.90, 94, 19-05-89, Kraków, Oldham Ath
+14, David Jones, ENG, M, 1.85, 80, 04-11-84, Southport, Wigan Ath
+15, David Edgar, CAN, D, 1.88, 70, 19-05-87, Kitchener, Newcastle U
+16, Luke O'Neill, ENG, D, 1.83, 72, 20-08-91, Slough, Mansfield T
+17, Chris Baird, NIR, D, 1.79, 71, 25-02-82, Ballymena, Reading
+19, Michael Kightly, ENG, M, 1.75, 64, 24-01-86, Basildon, Stoke C
+22, Brian Stock, WAL, M, 1.80, 71, 24-12-81, Winchester, Doncaster R
+26, Keith Treacy, IRL, M, 1.83, 79, 13-09-88, Dublin, Preston NE
+28, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Cork C
+30, Ashley Barnes, ENG, F, 1.83, 71, 31-10-89, Bath, Brighton & HA
+32, Cameron Howieson, NZL, M, 1.77, 70, 22-12-94, Dunedin, Mosgiel
+33, Steven Hewitt, ENG, M, 1.75, 67, 05-12-93, Manchester, None
+34, Tom Anderson, ENG, D, 1.93, 83, 02-09-93, Burnley, None
+37, Scott Arfield, SCO, M, 1.78, 64, 01-11-88, Dechmont, Huddersfield T
+38, Cameron Dummigan, NIR, D, 1.80, 70, 02-06-96, Lurgan, Cliftonville
+39, Jamie Frost, SCO, M, 1.75, 72, 06-10-96, Macclesfield, None
+40, Nick Liversedge, ENG, G, 1.93, 81, 18-07-88, Hull, Whitby T
+41, Kyle Brownhill, ENG, D, 1.78, 75, 29-03-95, Manchester, Stockport Co
+42, Micah Evans, ENG, M, 1.83, 70, 03-03-93, Manchester, Blackburn R
+43, Alex Coleman, ENG, D, 1.85, 83, 17-12-93, Bury, None
+44, Jason Gilchrist, ENG, F, 1.78, 66, 17-12-94, St Helens, Manchester C
+45, Jack Errington, ENG, D, 1.88, 83, 09-12-94, Newcastle upon Tyne, None
+46, Archie Love, SCO, M, 1.80, 78, 12-10-93, Warrington, None
+47, Luke Gallagher, IRL, M, 1.70, 64, 29-07-94, Dublin, None
+48, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Ryan Noble, ENG, F, 1.83, 69, 06-11-91, Sunderland, Gateshead
+18, Joseph Mills, ENG, D, 1.75, 70, 30-10-89, Swindon, Shrewsbury T (On Loan)
+20, Marvin Bartley, ENG, M, 1.80, 79, 01-07-89, Reading, Leyton Orient
+17, George Porter, ENG, F, 1.78, 79, 27-06-92, Sidcup, Rochdale

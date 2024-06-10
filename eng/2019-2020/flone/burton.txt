@@ -1,0 +1,39 @@
+=  Burton Albion - English Football League One 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kieran O'Hara, IRL, G, 1.91, 78, 22-04-96, Manchester, Manchester U
+2, John Brayford, ENG, D, 1.73, 71, 29-12-87, Stoke-on-Trent, Sheffield U
+3, Colin Daniel, ENG, D, 1.80, 73, 15-02-88, Nottingham, Peterborough U
+4, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, Hearts
+5, Jake Buxton, ENG, D, 1.80, 83, 04-03-85, Sutton-in-Ashfield, Wigan Ath
+6, Kieran Wallace, ENG, D, 1.86, 75, 26-01-95, Nottingham, Matlock T
+7, Stephen Quinn, IRL, M, 1.68, 60, 04-04-86, Dublin, Reading
+8, Scott Fraser, SCO, M, 1.83, 69, 30-03-95, Dundee, Dundee U
+9, Nathan Broadhead, WAL, F, 1.78, 73, 05-04-98, Bangor, Everton
+10, Lucas Akins, ENG, F, 1.80, 73, 25-02-89, Huddersfield, Stevenage
+12, Ben Fox, ENG, M, 1.80, 76, 01-02-98, Burton upon Trent, None
+13, Stephen Bywater, ENG, G, 1.88, 81, 07-06-81, Manchester, Kerala Blasters
+14, Joe Sbarra, ENG, M, 1.78, 70, 21-12-98, Lichfield, None
+15, Reece Hutchinson, ENG, D, 1.77, 70, 14-04-00, Birmingham, None
+16, Conor Shaughnessy, IRL, D, 1.91, 74, 30-06-96, Galway, Leeds U
+17, Oliver Šarkić, MNE, F, 1.84, 77, 23-07-97, Grimsby, Leeds U
+18, Richard Nartey, ENG, D, , , 06-09-98, Hammersmith, Chelsea
+19, Jevan Anderson, SCO, D, 1.86, 78, 03-03-00, Aberdeen, Formartine U
+20, Callum Hawkins, ENG, G, 1.87, 77, 12-12-99, Rotherham, None
+21, John-Joe O'Toole, IRL, M, 1.88, 86, 30-09-88, Harrow, Northampton T
+22, Chris Beardsley, ENG, F, 1.83, 77, 28-02-84, Derby, Mansfield T
+23, Joe Powell, ENG, M, 1.78, 68, 30-10-98, Newham, West Ham U
+24, Ben Garratt, ENG, G, 1.85, 66, 25-04-94, Shrewsbury, Crewe Alex
+25, Ethan Vale, ENG, M, , , 16-03-01, , None
+26, Ben Hart, ENG, D, 1.80, 66, 26-09-00, Burton upon Trent, None
+27, Kwame Thomas, ENG, F, 1.78, 76, 28-09-95, Nottingham, Doncaster R
+28, Teddy Sharman-Lowe, ENG, G, 1.89, 73, 30-03-03, Leicester, None
+29, Jamie Murphy, SCO, M, 1.78, 62, 28-08-89, Glasgow, Rangers
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Lloyd Dyer, ENG, M, 1.73, 64, 13-09-82, Birmingham, 
+27, Liam Boyce, NIR, F, 1.84, 85, 08-04-91, Belfast, Hearts
+11, David Templeton, SCO, M, 1.76, 63, 07-01-89, Glasgow, Hamilton Academical
+30, Jack Livesey, SCO, G, , , 21-03-00, , 

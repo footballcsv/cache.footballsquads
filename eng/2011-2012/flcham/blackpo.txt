@@ -1,0 +1,52 @@
+=  Blackpool - English Football League Championship 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthew Gilks, SCO, G, 1.85, 81, 04-06-82, Rochdale, Norwich C
+2, Paul Bignot, ENG, D, 1.85, 78, 14-02-86, Birmingham, Newport Co
+3, Stephen Crainey, SCO, D, 1.75, 60, 22-06-81, Glasgow, Leeds U
+4, Keith Southern, ENG, M, 1.78, 78, 21-04-81, Gateshead, Everton
+5, Neal Eardley, WAL, D, 1.80, 74, 06-11-88, Llandudno, Oldham Ath
+6, Ian Evatt, ENG, D, 1.91, 88, 19-11-81, Coventry, QPR
+7, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Swansea C
+9, Kevin Phillips, ENG, F, 1.70, 70, 25-07-73, Hitchin, Birmingham C
+10, Brett Ormerod, ENG, F, 1.77, 77, 18-10-76, Blackburn, Preston NE
+11, Gerardo Bruna, ARG, M, 1.73, 64, 29-01-91, Mendoza, Liverpool
+12, Gary Taylor-Fletcher, ENG, F, 1.83, 70, 04-06-81, Widnes, Huddersfield T
+13, Daniel Bogdanović, MLT, F, 1.88, 78, 26-03-80, Misratah, Sheffield U
+14, Ludovic Sylvestre, FRA, M, 1.82, 74, 05-02-84, Le Blanc-Mesnil, Mladá Boleslav
+15, Alex John-Baptiste, ENG, D, 1.80, 74, 31-01-86, Sutton-in-Ashfield, Mansfield T
+16, Barry Ferguson, SCO, M, 1.78, 74, 02-02-78, Glasgow, Birmingham C
+17, Chris Basham, ENG, M, 1.80, 80, 20-07-88, Hebburn, Bolton W
+18, Matthew Hill, ENG, D, 1.73, 76, 26-03-81, Bristol, Barnsley
+19, Stephen Husband, SCO, M, 1.83, 82, 29-10-90, Kelty, Hearts
+20, Craig Cathcart, NIR, D, 1.88, 72, 06-02-89, Belfast, Manchester U
+21, Mark Halstead, ENG, G, 1.91, 89, 01-01-90, Blackpool, None
+23, Matt Phillips, SCO, M, 1.83, 75, 13-03-91, Aylesbury, Wycombe W
+24, Craig Sutherland, SCO, F, 1.83, 75, 17-12-88, Edinburgh, Nth Carolina State Univ
+25, John Fleck, SCO, M, 1.75, 72, 24-08-91, Glasgow, Rangers
+31, Ángel, ESP, M, 1.76, 76, 31-01-86, Girona, Espanyol
+32, Nouha Dicko, FRA, F, 1.73, 74, 14-05-92, Saint-Maurice, Wigan Ath
+33, Robert Harris, SCO, D, 1.73, 56, 28-08-87, Glasgow, Queen of the South
+35, Roman Bednář, CZE, F, 1.90, 84, 26-03-83, Prague, WBA
+36, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Liverpool
+37, Danny Wilson, SCO, D, 1.87, 79, 27-12-91, Livingston, Liverpool
+38, Lomana LuaLua, COD, F, 1.78, 76, 28-12-80, Kinshasa, Omonia Nicosia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Bury (On Loan)
+27, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, Hereford U (On Loan)
+29, Josh Egan, ENG, M, , , 01-07-93, Bristol, Bath C
+35, James Hurst, ENG, D, 1.83, 77, 31-01-92, Sutton Coldfield, WBA
+37, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Liverpool
+39, Callum McManaman, ENG, F, 1.75, 71, 25-04-91, Knowsley, Wigan Ath
+25, Miguel Ángel Llera, ESP, D, 1.93, 88, 07-08-78, Seville, Sheffield W
+32, Bojan Djordjić, SWE, M, 1.82, 78, 06-02-82, Belgrade, Royal Antwerp
+28, Adam Dodd, ENG, M, 1.73, 83, 25-06-92, Kirkham, Ayr U (On Loan)
+26, Liam Tomsett, ENG, M, 1.80, 78, 21-01-92, Ulverston, Ayr U (On Loan)
+34, Chris Kettings, SCO, G, 1.88, 78, 25-10-92, Bolton, Morecambe (On Loan)
+8, Elliot Grandin, FRA, F, 1.78, 67, 17-10-87, Caen, Nice (On Loan)
+7, Billy Clarke, IRL, F, 1.70, 64, 13-12-87, Cork, Crawley T
+30, Louis Almond, ENG, F, 1.80, 76, 15-08-90, Blackburn, Lincoln C (On Loan)
+29, Mark Howard, ENG, G, 1.83, 76, 21-09-86, Southwark, Sheffield U

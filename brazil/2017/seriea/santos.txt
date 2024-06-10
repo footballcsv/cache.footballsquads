@@ -1,0 +1,47 @@
+=  Santos - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Coritiba
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Caju, BRA, D, 1.85, 70, 17-07-95, Irecê, None
+4, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Coritiba
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+7, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, Botafogo-SP
+8, Renato, BRA, M, 1.77, 71, 15-05-79, Santa Mercedes, Botafogo
+9, Ricardo Oliveira, BRA, F, 1.83, 81, 06-05-80, São Paulo, Al-Wasl
+10, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Internacional
+11, Kayke, BRA, F, 1.82, 72, 01-04-88, Brasília, Yokohama F Marinos
+12, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+13, Matheus Ribeiro, BRA, D, 1.78, 72, 23-02-93, Erechim, Atlético Goianiense
+14, David Braz, BRA, D, 1.87, 82, 21-05-87, Guarulhos, Flamengo
+15, Orinho, BRA, D, 1.80, 70, 24-05-95, São Paulo, Juventus-SP
+16, Vladimir Hernández, COL, M, 1.60, 68, 08-02-89, Arauca, Junior
+18, Nilmar, BRA, F, 1.80, 70, 14-07-84, Bandeirantes, Al-Nasr [UAE]
+19, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Guarani
+20, Emiliano Vecchio, ARG, M, 1.78, 80, 16-11-88, Rosario, Qatar SC
+21, Matheus Oliveira, BRA, M, 1.73, 69, 28-09-97, São Paulo, Audax-SP
+22, Matheus Jesus, BRA, M, 1.86, 81, 10-04-97, Salvador, Estoril
+23, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, None
+25, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Audax-SP
+26, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Cagliari
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Wolfsburg
+28, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Linense
+30, Leandro Donizete, BRA, M, 1.75, 70, 18-05-82, Araraquara, Atlético Mineiro
+32, Fabián Noguera, ARG, D, 1.92, 97, 20-03-93, Ramos Mejía, Banfield
+33, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+35, Lucas Crispim, BRA, F, 1.78, 72, 16-06-94, Brasília, None
+36, Jonathan Copete, COL, F, 1.84, 72, 23-01-88, Cali, Atlético Nacional
+37, Zeca, BRA, D, 1.69, 66, 16-05-94, Paranavaí, None
+38, Daniel Guedes, BRA, D, 1.80, 69, 02-04-94, São Paulo, None
+39, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+41, Serginho, BRA, M, 1.80, 82, 15-03-95, Monte Aprazível, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Rodrigão, BRA, F, 1.86, 92, 13-10-93, Belmonte, Bahia (On Loan)
+29, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Lille
+17, Rafael Longuine, BRA, M, 1.73, 67, 30-05-90, Paranavaí, Coritiba (On Loan)
+31, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Coritiba (On Loan)

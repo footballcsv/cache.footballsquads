@@ -1,0 +1,35 @@
+=  Ponferradina - Spanish Segunda División A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juanma, ESP, G, 1.84, 75, 27-06-80, Badajoz, Cartagena
+2, Javier Carpio, ESP, D, 1.75, 72, 06-04-84, Salamanca, Elche
+3, Sergio Rodríguez, ESP, D, 1.80, 70, 05-10-89, Mérida, Mérida
+4, Samuel, ESP, D, 1.72, 72, 01-03-84, Santander, Las Palmas
+5, Isaías, ESP, M, 1.73, 71, 09-02-87, Sabadell, Espanyol B
+6, Carlos Ruiz, ESP, M, 1.79, 75, 20-07-83, Baza, Melilla
+7, Fofo, ESP, F, 1.82, 75, 02-03-90, Palma de Mallorca, Villarreal B
+8, Mateo, ESP, M, 1.75, 67, 11-05-87, Redondela, Celta Vigo B
+9, Máyor, ESP, F, 1.86, 73, 23-01-84, Elche, Sant Andreu
+10, Yuri, BRA, F, 1.86, 78, 08-08-82, Maceió, Pontevedra
+11, Lafuente, ESP, M, 1.67, 63, 18-02-83, Santurtzi, Cartagena
+12, Wellington Silva, BRA, F, 1.70, 64, 06-01-93, Rio de Janeiro, Arsenal
+13, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Girona
+14, Jonathan, ESP, M, 1.70, 64, 02-04-82, Écija, Sevilla B
+15, Alán Baró, ESP, M, 1.80, 79, 22-06-85, Darnius, Albacete
+16, Acorán Barrera, ESP, M, 1.71, 70, 31-01-83, Santa Cruz de Tenerife, Puertollano
+17, Iván Moreno, ESP, M, 1.72, 68, 26-02-81, Plasencia, Guadalajara [ESP]
+18, Juande, ESP, M, 1.82, 72, 12-06-86, Alicante, KVC Westerlo
+19, Dídac, ESP, M, 1.73, 67, 30-12-90, Esporles, Mallorca B
+20, Hélder Rosário, POR, D, 1.85, 81, 09-03-80, Lisbon, Málaga
+21, Nano, ESP, M, 1.82, 73, 27-10-84, Málaga, Oviedo
+22, Miquel Robusté, ESP, D, 1.85, 80, 20-05-85, Vilassar de Mar, Xerez
+23, Saúl, ESP, M, 1.76, 78, 09-04-85, Oviedo, Deportivo La Coruña
+26, Adán Gurdiel, ESP, M, 1.78, 71, 14-12-93, Fabero, Ponferradina B
+28, Jozabed, ESP, M, 1.80, 67, 08-03-91, Mairena del Alcor, Sevilla B
+31, Leandro, ESP, G, 1.86, 77, 28-02-89, Alzira, Elche
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Orlando Quintana, ESP, G, 1.85, 80, 05-03-78, Las Palmas, Oviedo
+23, Urko Vera, ESP, F, 1.90, 85, 14-05-87, Barakaldo, Alcorcón

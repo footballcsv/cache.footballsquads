@@ -1,0 +1,44 @@
+=  Sampdoria - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Castellazzi, ITA, G, 1.92, 89, 19-07-75, Gorgonzola, Milan
+2, Fabio Lamorte, ITA, D, 1.85, 70, 15-05-91, Melfi, Melfi
+3, Reto Ziegler, SUI, D, 1.83, 79, 16-01-86, Geneva, Tottenham H
+5, Pietro Accardi, ITA, D, 1.82, 71, 12-09-82, Palermo, Palermo
+6, Stefano Lucchini, ITA, D, 1.86, 76, 02-10-80, Cotogno, Empoli
+7, Daniele Mannini, ITA, M, 1.83, 78, 25-10-83, Viareggio, Napoli
+8, Luciano Zauri, ITA, M, 1.78, 75, 20-01-78, Pescina, Lazio
+9, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Empoli
+10, Giampaolo Pazzini, ITA, F, 1.80, 74, 02-08-84, Monsummano, Fiorentina
+11, Stefan Šćepović, SRB, F, 1.86, 79, 10-01-90, Belgrade, OFK Belgrade
+12, Fernando Tissone, ARG, M, 1.82, 75, 24-07-86, Quilmes, Udinese
+13, Marco Rossi, ITA, D, 1.88, 78, 30-09-87, Parma, Parma
+14, Dieter Elsneg, AUT, F, 1.74, 71, 04-02-90, Wagna, Frosinone
+15, Vasco Regini, ITA, D, 1.83, 75, 09-09-90, Forlì, Cesena
+16, Andrea Poli, ITA, M, 1.81, 70, 29-09-89, Vittorio Veneto, Treviso
+17, Angelo Palombo, ITA, M, 1.77, 77, 25-09-81, Ferentino, Fiorentina
+18, Stefano Guberti, ITA, M, 1.80, 68, 06-11-84, Cagliari, Roma
+19, Daniele Franceschini, ITA, M, 1.78, 73, 13-01-76, Rome, Chievo Verona
+20, Marco Padalino, SUI, M, 1.77, 73, 08-12-83, Viganello, Piacenza
+21, Matteo Guardalben, ITA, G, 1.88, 85, 05-06-74, Nogara, Treviso
+22, Fabrizio Cacciatore, ITA, D, 1.80, 70, 08-10-86, Turin, None
+23, Mario Cassano, ITA, G, 1.85, 74, 08-10-83, Bari, Piacenza
+27, Marco Costantino, ITA, G, 1.92, 79, 08-05-91, Cento, Spal
+28, Daniele Gastaldello, ITA, D, 1.85, 77, 25-06-83, Camposampiero, Juventus
+30, Marco Storari, ITA, G, 1.87, 76, 07-01-77, Pisa, Milan
+77, Franco Semioli, ITA, M, 1.78, 70, 20-06-80, Cirié, Fiorentina
+90, Emanuele Testardi, ITA, F, 1.89, 84, 31-12-90, Rome, Pescara
+91, Roberto Soriano, ITA, M, 1.81, 76, 08-02-91, Darmstadt, Bayern Munich
+92, Daniele Messina, ITA, D, 1.79, 72, 19-03-92, Catania, Gubbio
+99, Antonio Cassano, ITA, F, 1.75, 78, 12-07-82, Bari, Real Madrid
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Paolo Sammarco, ITA, M, 1.81, 76, 17-03-83, Como, Udinese (On Loan)
+89, Guido Marilungo, ITA, F, 1.75, 69, 09-08-89, Montegranaro, Lecce (On Loan)
+34, Daniele Dessena, ITA, M, 1.83, 75, 10-05-87, Parma, Cagliari
+23, Marius Stankevičius, LTU, M, 1.89, 83, 15-07-81, Kaunas, Sevilla (On Loan)
+88, Salvatore Foti, ITA, F, 1.92, 76, 08-08-88, Palermo, Piacenza (On Loan)
+90, Vincenzo Fiorillo, ITA, G, 1.90, 74, 13-01-90, Genoa, Reggina (On Loan)
+11, Claudio Bellucci, ITA, F, 1.73, 70, 31-05-75, Rome, Livorno

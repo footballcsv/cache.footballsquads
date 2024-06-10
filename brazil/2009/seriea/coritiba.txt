@@ -1,0 +1,52 @@
+=  Coritiba - Campeonato Brasileiro Série A 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Édson Bastos, BRA, G, 1.87, 76, 03-11-79, Foz do Iguaçu, Guaratinguetá
+2, Rodrigo Heffner, BRA, D, 1.75, 73, 08-09-82, Porto Alegre, Santa Cruz
+3, Pereira, BRA, D, 1.89, 88, 30-07-79, Guarulhos, Grêmio
+5, Jeci, BRA, D, 1.84, 77, 22-04-80, Guaratinguetá, Palmeiras
+6, Guarú, BRA, D, 1.68, 70, 02-12-81, Loanda, Toledo-PR
+7, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, None
+8, Makelele, BRA, M, 1.73, 65, 26-02-85, Salvador, Palmeiras
+9, Marcelinho, BRA, F, 1.74, 73, 17-05-75, Campina Grande, Flamengo
+10, Carlinhos Paraíba, BRA, M, 1.70, 69, 03-04-83, Rio Tinto, Santa Cruz-PB
+11, Leozinho, BRA, F, 1.67, 62, 07-06-88, Fortaleza, Icasa
+12, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Paranavaí
+13, Márcio Gabriel, BRA, D, 1.69, 63, 18-04-82, Canavieiras, Ipatinga
+14, Moisés, BRA, M, 1.84, 81, 17-03-88, Belo Horizonte, América Mineiro
+15, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, None
+16, Rodrigo Crasso, BRA, D, 1.73, 73, 25-02-87, Curitiba, J. Malucelli
+17, Rodrigo Pontes, BRA, M, 1.79, 77, 16-02-81, São Paulo, Barueri
+19, Rômulo, BRA, F, 1.88, 82, 25-02-82, Inhumas, Cruzeiro
+20, Marcos Aurélio, BRA, F, 1.67, 64, 10-02-84, Cuiabá, Brasa
+21, Dirceu, BRA, M, 1.83, 71, 05-01-88, Ibaiti, None
+22, Wanderson, BRA, G, 1.93, 83, 18-11-86, Sinop, None
+23, Ângelo, BRA, D, 1.75, 68, 27-04-84, Campo Mourão, Internacional
+24, Antonio Carlos, BRA, G, 1.89, 84, 08-07-88, Londrina, None
+26, Luciano Amaral, BRA, D, 1.80, 73, 20-10-82, Campina Grande, América de Natal
+27, Cleiton, BRA, D, 1.87, 76, 11-07-81, Porto Alegre, Toledo-PR
+28, Renatinho, BRA, M, 1.68, 68, 04-10-88, Cardoso, None
+30, Leandro Donizete, BRA, M, 1.75, 70, 18-05-82, Araraquara, Ferroviária
+31, João Henrique, BRA, M, 1.68, 72, 03-03-83, Curitiba, Botafogo-SP
+32, Lucas Mendes, BRA, D, 1.83, 81, 03-07-90, Curitiba, None
+33, Jaílton, BRA, M, 1.78, 73, 19-04-82, Aracaju, Ipatinga
+35, Thiago Gentil, BRA, F, 1.80, 69, 08-04-80, São Paulo, Aris
+37, Ariel Nahuelpán, ARG, F, 1.90, 87, 15-10-87, Capital Federal, Nueva Chicago
+38, Demerson, BRA, D, 1.84, 81, 16-03-86, Belo Horizonte, Cabofriense
+39, Bruno Fressato, BRA, F, 1.80, 83, 26-09-84, Curitiba, J. Malucelli
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Marlos, BRA, M, 1.74, 70, 07-06-88, São José dos Pinhais, São Paulo
+23, Dinélson, BRA, M, 1.66, 65, 04-02-86, Anagé, Paraná (On Loan)
+34, Leandro Silva, BRA, D, 1.84, 82, 11-01-89, Rio Branco do Sul, Vitória Guimarães
+36, Thiago Silvy, BRA, F, 1.78, 69, 12-06-86, Florianópolis, América de Natal (On Loan)
+26, Vicente, BRA, D, 1.72, 68, 30-04-83, Maceió, Iraty
+19, Adriano, BRA, D, 1.85, 86, 09-12-87, União da Vitória, Rio Ave
+5, Rodrigo Mancha, BRA, M, 1.86, 80, 16-06-86, Curitiba, Santos
+29, Ramón, BRA, M, 1.86, 80, 07-04-83, Belo Horizonte, South China (On Loan)
+8, Douglas Silva, BRA, M, 1.74, 75, 22-04-83, Porto Alegre, 
+4, Felipe, BRA, D, 1.93, 85, 15-05-87, Americana, Standard Liège
+40, Germán Segovia, PAR, M, 1.68, 68, 06-09-88, Asunción, Olimpia [PAR]
+25, Hugo, BRA, F, 1.83, 77, 06-01-86, São Fidélis, São Caetano (On Loan)

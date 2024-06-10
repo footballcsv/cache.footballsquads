@@ -1,0 +1,47 @@
+=  Gillingham - English Football League One 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Stuart Nelson, ENG, G, 1.85, 82, 17-09-81, Stroud, Notts Co
+2, Matt Fish, ENG, D, 1.85, 69, 05-06-89, Croydon, Dover Ath
+3, Joe Martin, ENG, M, 1.83, 82, 29-11-88, Dagenham, Blackpool
+4, Amine Linganzi, ALG, M, 1.86, 81, 16-11-89, Algiers, Accrington Stanley
+5, Callum Davies, ENG, D, 1.86, 75, 08-02-93, Chatham, None
+6, Leon Legge, ENG, D, 1.85, 80, 28-04-85, Hastings, Brentford
+7, Chris Whelpdale, ENG, M, 1.84, 80, 27-01-87, Harold Wood, Peterborough U
+8, Adebayo Akinfenwa, ENG, F, 1.80, 86, 10-05-82, London, Northampton T
+9, Danny Kedwell, ENG, F, 1.81, 82, 03-08-83, Gillingham, AFC Wimbledon
+10, Cody McDonald, ENG, F, 1.78, 70, 30-05-86, Witham, Coventry C
+11, Myles Weston, ENG, M, 1.80, 75, 12-03-88, Lewisham, Brentford
+12, Steven Gregory, ENG, M, 1.85, 80, 19-03-87, Aylesbury, Bournemouth
+14, Aaron Millbank, ENG, F, 1.83, 74, 04-02-95, Ramsgate, None
+15, Bradley Dack, ENG, M, 1.75, 71, 31-12-93, Greenwich, None
+16, Antonio German, ENG, F, 1.78, 78, 26-12-91, Wembley, Brentford
+17, Adam Birchall, WAL, F, 1.68, 68, 02-12-84, Maidstone, Dover Ath
+18, Charlie Lee, ENG, M, 1.75, 79, 05-01-87, Whitechapel, Peterborough U
+19, Connor Smith, IRL, M, 1.81, 73, 18-02-93, Mullingar, Watford
+20, Joe Carter, ENG, D, 1.77, 74, 20-11-92, Buckhurst Hill, Charlton Ath
+21, George Howard, ENG, G, 1.87, 79, 28-01-94, , Bromley
+22, Stephen Butcher, ENG, D, 1.81, 78, 19-11-94, Dover, None
+23, Michael Harriman, IRL, D, 1.68, 74, 23-10-92, Chichester, QPR
+24, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace
+25, Devante McKain, ENG, D, 1.86, 71, 26-06-94, Maidenhead, Maidenhead U
+26, Adam Barrett, ENG, D, 1.78, 76, 29-11-79, Dagenham, Bournemouth
+27, Craig Fagan, ENG, F, 1.80, 75, 11-12-82, Birmingham, Bury
+28, Gary Borrowdale, ENG, D, 1.83, 77, 16-07-85, Sutton, Margate
+29, Elliott Hewitt, WAL, D, 1.80, 75, 30-05-94, Bodelwyddan, Ipswich T
+30, Josh Hare, ENG, D, 1.83, 78, 12-08-94, Canterbury, None
+31, Jake Hessenthaler, ENG, M, 1.76, 64, 20-04-94, Gravesend, None
+33, Sam Muggleton, ENG, D, 1.80, 71, 17-11-95, Melton Mowbray, None
+34, Mahlon Romeo, ENG, M, 1.78, 73, 19-09-95, Westminster, Arsenal
+35, Sam Baxter, ENG, G, 1.88, 71, 11-10-94, , West Ham U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Harry Grant, ENG, M, 1.80, 60, 31-12-94, Reading, Maidenhead U
+19, Danny Hollands, ENG, M, 1.80, 81, 06-11-85, Ashford, Charlton Ath
+28, Donervon Daniels, ENG, D, 1.86, 91, 24-11-93, Montserrat, WBA
+32, John Mousinho, ENG, M, 1.85, 79, 30-04-86, Isleworth, Preston NE
+24, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Ipswich T
+14, Charlie Allen, ENG, M, 1.83, 75, 24-03-92, Slough, Margate
+32, Joe Pigott, ENG, F, 1.88, 85, 24-11-93, Maidstone, Charlton Ath

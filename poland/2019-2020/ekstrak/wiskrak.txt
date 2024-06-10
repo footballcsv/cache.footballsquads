@@ -1,0 +1,48 @@
+=  Wisla Kraków - Polish Ekstraklasa 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mateusz Lis, POL, G, 1.92, 83, 27-02-97, Żary, Lech Poznań
+2, Rafał Janicki, POL, D, 1.88, 79, 05-07-92, Szczecin, Lechia Gdańsk
+4, Maciej Sadlok, POL, D, 1.81, 72, 29-06-89, Oświęcim, Ruch Chorzów
+5, Lukas Klemenz, POL, D, 1.91, 88, 24-09-95, Neu-Ulm, Jagiellonia Białystok
+7, Michał Mak, POL, M, 1.72, 60, 14-11-91, Sucha Beskidzka, Lechia Gdańsk
+8, Łukasz Burliga, POL, D, 1.86, 78, 15-05-88, Sucha Beskidzka, Jagiellonia Białystok
+9, Rafał Boguski, POL, M, 1.73, 70, 09-06-84, Ostrołęka, GKS Bełchatów
+10, Vullnet Basha, SUI, M, 1.74, 65, 11-07-90, Lausanne, UCAM Murcia
+11, Krzysztof Drzazga, POL, F, 1.79, 69, 20-06-95, Szprotawa, KS Polkowice
+14, Mateusz Hołownia, POL, D, 1.84, 70, 06-05-88, Biała Podlaska, Legia Warszawa
+15, Jean Carlos, BRA, F, 1.85, 76, 10-05-96, Ouro Preto, Granada B
+16, Jakub Błaszczykowski, POL, M, 1.76, 77, 14-12-85, Częstochowa, Wolfsburg
+17, Alon Turgeman, ISR, F, 1.78, 74, 09-06-91, Hadera, Austria Vienna
+18, Chuca, ESP, M, 1.81, 75, 10-06-97, Jacarilla, Villarreal B
+19, David Niepsuj, POL, D, 1.83, 76, 16-08-95, Wuppertal, Pogoń Szczecin
+20, Georgi Zhukov, KAZ, M, 1.72, 70, 19-11-94, Semey, Kairat Almaty
+21, Nikola Kuveljić, SRB, M, 1.94, 85, 06-04-97, Belgrade, Javor Ivanjica
+22, Michał Buchalik, POL, G, 1.90, 83, 03-02-89, Rybnik, Ruch Chorzów
+23, Paweł Brożek, POL, F, 1.80, 73, 21-04-83, Kielce, Recreativo Huelva
+26, Kamil Wojtkowski, POL, M, 1.73, 66, 26-02-98, Sokołów Podlaski, RB Leipzig
+27, Marcin Wasilewski, POL, D, 1.86, 88, 09-06-80, Kraków, Leicester C
+28, Vukan Savićević, MNE, M, 1.79, 74, 29-01-94, Belgrade, Slovan Bratislava
+29, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Verona
+43, Dawid Szot, POL, D, 1.83, 75, 29-04-01, Kraków, None
+44, Aleksander Buksa, POL, F, 1.87, 74, 15-01-03, Kraków, None
+45, Daniel Hoyo-Kowalski, POL, D, 1.89, 75, 12-07-03, Barcelona, None
+48, Kamil Broda, POL, G, 1.90, 85, 19-07-01, Kraków, Wawel Kraków
+88, Kais Al-Ani, IRQ, G, 1.88, 77, 29-03-97, Nowy Targ, Soła Oświęcim
+91, Hebert, BRA, D, 1.91, 87, 23-05-91, Barra Mansa, JEF United Chiba
+99, Damian Pawłowski, POL, M, 1.85, 72, 27-01-99, Szczecin, Pogoń Szczecin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Kacper Chorążka, POL, G, 1.88, 76, 18-03-99, Kraków, Zagłębie Sosnowiec (On Loan)
+14, Artur Balicki, POL, F, 1.82, 71, 11-10-99, Lublin, Pogoń Siedlce (On Loan)
+71, Denys Balanyuk, UKR, F, 1.78, 70, 16-01-97, Odessa, Olimpik Donetsk
+49, Piotr Świątko, POL, D, 1.82, 73, 29-05-99, Kraków, Miedź Legnica
+42, Daniel Morys, POL, M, , , 26-12-00, , Olimpia Elbląg (On Loan)
+80, Patryk Plewka, POL, M, 1.74, 66, 02-01-00, Chrzanów, Stal Rzeszów (On Loan)
+77, Emmanuel Kumah, GHA, M, , , 09-02-00, Seikwa, Tudu Mighty Jets
+21, Marcin Grabowski, POL, D, 1.77, 65, 21-05-00, Jastrowie, BBT Nieciecza (On Loan)
+59, Przemysław Zdybowicz, POL, F, 1.84, 70, 10-01-00, Bełchatów, GKS Bełchatów (On Loan)
+17, Jakub Bartosz, POL, D, 1.83, 76, 13-08-96, Myślenice, Stal Mielec
+3, Serafin Szota, POL, D, 1.86, 78, 04-03-99, Namysłów, Stomil Olsztyn (On Loan)

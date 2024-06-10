@@ -1,0 +1,56 @@
+=  Santos - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, André, BRA, G, 1.96, 90, 06-02-92, Votuporanga, None
+, Bernardo, BRA, G, 1.91, 85, 01-07-92, Belo Horizonte, None
+, Felipe, BRA, G, 1.90, 79, 10-01-88, São Vicente, None
+, Rafael, BRA, G, 1.86, 83, 20-05-90, Sorocaba, None
+, Samuel, BRA, G, 1.88, 87, 17-01-89, Coaraci, None
+, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+, Alex Sandro, BRA, D, 1.77, 75, 26-01-91, Catanduva, Deportivo Maldonado
+, Bruno Aguiar, BRA, D, 1.86, 80, 25-03-86, Amparo, Guarani
+, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Portuguesa
+, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, América Mineiro
+, Diego Monar, BRA, D, 1.88, 79, 14-02-89, São Vicente, None
+, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Sport Recife
+, Edu Dracena, BRA, D, 1.87, 80, 18-05-81, Dracena, Fenerbahçe
+, Rafael Caldeira, BRA, D, 1.91, 84, 11-02-91, Monte Alto, None
+, Léo, BRA, D, 1.69, 64, 06-07-75, Campos dos Goytacazes, Benfica
+, Maranhão, BRA, D, 1.70, 70, 25-12-85, Codó, Guarani
+, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Santo André
+, Vinícius Simon, BRA, D, 1.84, 74, 17-11-86, São Paulo, None
+, Adriano, BRA, M, 1.70, 65, 29-05-87, São Vicente, None
+, Alan Patrick, BRA, M, 1.75, 66, 13-05-91, Catanduva, None
+, Arouca, BRA, M, 1.69, 65, 11-08-86, Duas Barras, São Paulo
+, Breitner da Silva, VEN, M, 1.70, 63, 09-11-89, Barcelona [VEN], None
+, Denis, BRA, M, 1.79, 80, 13-07-90, Tatuí, None
+, Diego Faria, BRA, M, 1.75, 72, 18-01-89, Teófilo Otoni, None
+, Felipe Anderson, BRA, M, 1.78, 66, 15-04-93, Brasília, None
+, Jefferson, BRA, M, 1.74, 69, 27-05-89, Padre Miguel, None
+, Madson, BRA, M, 1.60, 60, 21-05-86, Volta Redonda, Vasco da Gama
+, Marquinhos, BRA, M, 1.83, 83, 29-09-81, Biguaçu, Avaí
+, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, None
+, Roberto Brum, BRA, M, 1.76, 72, 07-07-78, São Gonçalo, Sporting Braga
+, Rodrigo Possebon, ITA, M, 1.84, 76, 13-02-89, Sapucaia do Sul, Manchester U
+, Rodriguinho, BRA, M, 1.79, 78, 05-02-82, Guarapuava, Guarani
+, Zé Eduardo, BRA, M, 1.79, 82, 29-10-87, Promissão, Pinheiros
+, Zezinho, BRA, M, 1.74, 70, 14-03-92, Uruguaiana, Deportivo Maldonado
+, Keirrison, BRA, F, 1.81, 63, 03-12-88, Dourados, Barcelona
+, Marcel, BRA, F, 1.87, 87, 12-11-81, Mirassol, Benfica
+, Moisés, BRA, F, 1.73, 64, 15-05-89, Belém, Paysandu
+, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, None
+, Renan, BRA, F, 1.63, 64, 01-10-91, Marabá, None
+, Tiago Luís, BRA, F, 1.76, 74, 13-03-89, Ribeirão Preto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Germano, BRA, M, 1.76, 74, 21-03-81, Toledo, Sport Recife
+, Rodrigo Mancha, BRA, M, 1.86, 80, 16-06-86, Curitiba, Grêmio Prudente (On Loan)
+, Maikon Leite, BRA, F, 1.68, 62, 03-08-88, Mogi das Cruzes, Atlético Paranaense (On Loan)
+, Fábio Costa, BRA, G, 1.87, 84, 27-11-77, Camaçari, Atlético Mineiro (On Loan)
+, Giovanni, BRA, M, 1.90, 84, 04-02-72, Belém, Retired
+, George Lucas, BRA, D, 1.75, 72, 20-02-84, Passo Fundo, Sporting Braga
+, André, BRA, F, 1.82, 77, 27-09-90, Cabo Frio, Dynamo Kiev
+, Wesley, BRA, M, 1.79, 63, 24-06-87, Catanduva, Werder Bremen
+, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Manchester C

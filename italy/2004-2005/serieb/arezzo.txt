@@ -1,0 +1,44 @@
+=  Arezzo - Italian Serie B 2004/05
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Angelo Pagotto, G, 6'00", 11 11, 21-11-73, Verbania, Triestina
+2, Marco Ogliari, D, 5'10", 11 07, 24-12-73, Pavia, Sambenedettese
+3, Moreno Torricelli, D, 6'01'', 13 03, 23-01-70, Como, Espanyol
+4, Georgios Kyriazis, D, 6'02", 12 08, 28-02-80, Salonika, Catania
+5, Natale Gonnella, D, 5'11", 12 01, 19-10-76, Rome, Atalanta
+6, Paolo Scotti, D, 5'11", 12 00, 16-02-69, Roma, Triestina
+7, Alessandro Teodorani, M, 5'09", 11 00, 09-12-71, Cesena, Sambenedettese
+8, Fabio Roselli, M, 5'07", 11 03, 15-12-83, Acri, Spal
+9, Elvis Abbruscato, F, 5'11", 12 01, 14-04-81, Reggio Emilia, Verona
+10, Roberto De Zerbi, F, 5'10", 11 03, 06-06-79, Brescia, Foggia
+11, Giovanni Proietti, G, 6'01", 12 06, 27-07-77, Rome, Perugia
+13, Umberto Del Core, F, 5'10", 10 12, 30-11-79, Bari, Foggia
+15, Andrea Boscolo, M, 5'05", 09 06, 19-07-74, Lido Di Venezia, Triestina
+17, Antonio Stendardo, M, , , 08-06-84, Udine, Treviso
+18, Luca Vigna, F, 5'09", 10 08, 17-08-77, Pistoia, Montevarchi
+19, Matteo Teoldi, D, , , 12-05-85, Ponte San Pietro, Milan
+20, Mario Sorrentino, M, , , 08-12-84, Naples, Real Cassino
+21, Manuel Pasqual, D, 5'10", 11 03, 13-03-82, San Donà di Piave, Treviso
+22, Marco Villa, F, 5'11", 11 11, 18-07-78, Düsseldorf, Nürnberg
+23, Ivan Javorcic, M, 5'10", 11 00, 21-04-79, Split, Atalanta
+24, Gionatha Spinesi, F, 6'00", 12 04, 08-03-78, Pisa, Bari
+26, Andrea Redditi, D, , , 23-01-85, , Montevarchi
+27, Michele Bacis, D, 6'00", 12 04, 22-10-79, Bergamo, Fiorentina
+29, Mirko Barbagli, D, 6'00", 12 00, 29-12-82, Arezzo, None
+30, Giovanni Passiglia, M, 5'10", 12 01, 28-08-81, Castelvetrano, Ancona
+32, Andrea Gentile, M, 5'07", 10 10, 09-02-80, Aosta, Messina
+33, Giampiero Maini, M, 6'01", 12 11, 29-09-71, Rome, Ancona
+70, Luigi Lavecchia, M, 5'10", 11 11, 25-08-81, Turin, Messina
+71, Tiziano Ramon, G, 6'02", 11 09, 24-09-71, San Biagio di Collalta, Brescia
+74, Mirko Conte, D, 5'11", 11 07, 12-08-74, Tradate, Messina
+84, Iacopo Stazzi, D, , , 02-02-84, Rome, Messina
+85, Nicola Falomi, F, , , 17-08-85, Cortona, None
+86, Alessio Bartolini, M, , , 04-01-86, , None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Emanuele Venturelli, D, 6'01", 12 00, 08-03-72, Barga, 
+16, Daniele Amerini, M, 5'11", 11 05, 03-08-74, Florence, Modena
+25, Stefano Lorenzi, D, 6'04", 12 13, 18-01-77, Calcinate, Atalanta
+28, Davide Sinigaglia, F, 5'10", 11 03, 29-07-81, Cassano Magnano, Atalanta (On Loan)

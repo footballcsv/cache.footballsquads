@@ -1,0 +1,67 @@
+=  Shakhtar Donetsk - Ukrainian Premier League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Tomáš Hübschman, CZE, D, 1.80, 74, 04-09-81, Prague, Sparta Prague
+4, Igor Duljaj, SRB, M, 1.75, 72, 29-10-79, Topola, Partizan Belgrade
+5, Oleksandr Kucher, UKR, D, 1.84, 77, 22-10-82, Kiev, Metalist Kharkiv
+7, Fernandinho, BRA, M, 1.76, 67, 04-05-85, Londrina, Atlético Paranaense
+8, Jadson, BRA, M, 1.68, 67, 05-10-83, Londrina, Atlético Paranaense
+11, Ilsinho, BRA, M, 1.78, 81, 12-10-85, São Bernardo do Campo, São Paulo
+12, Rustam Khudzhamov, UKR, G, 1.91, 85, 05-10-82, Skvyra, FC Kharkiv
+13, Vyacheslav Shevchuk, UKR, D, 1.84, 82, 13-05-79, Lutsk, Dnipro Dnipropetrovsk
+14, Vasyl Kobin, UKR, M, 1.78, 74, 24-05-85, Uzhgorod, Karpaty Lviv
+17, Luiz Adriano, BRA, F, 1.82, 71, 12-04-87, Porto Alegre, Internacional
+18, Mariusz Lewandowski, POL, D, 1.85, 84, 18-05-79, Legnica, Groclin Dyskobolia
+19, Oleksiy Hay, UKR, M, 1.81, 73, 06-11-82, Zaporozhye, Illichivets Mariupol
+20, Douglas Costa, BRA, M, 1.70, 63, 14-09-90, Sapucaia do Sul, Grêmio
+21, Oleksandr Hladkyy, UKR, F, 1.88, 80, 24-08-87, Kharkiv, FC Kharkiv
+22, Willian, BRA, M, 1.74, 70, 09-08-88, Ribeirão Pires, Corinthians
+23, Kostyantyn Kravchenko, UKR, M, 1.80, 79, 24-09-86, Dnipropetrovsk, Dnipro Dnipropetrovsk
+24, Ruslan Fomin, UKR, F, 1.87, 74, 02-03-86, Donetsk, Arsenal Kharkiv
+26, Răzvan Raţ, ROU, D, 1.78, 72, 26-05-81, Slatina, Rapid Bucureşti
+29, Alex Teixeira, BRA, M, 1.73, 68, 06-01-90, Duque de Caxias, Vasco da Gama
+30, Andriy Pyatov, UKR, G, 1.90, 78, 28-06-84, Kirovohrad, Vorskla Poltava
+32, Mykola Ishchenko, UKR, D, 1.82, 75, 09-03-83, Kiev, Karpaty Lviv
+33, Darijo Srna, CRO, D, 1.82, 78, 01-05-82, Metković, Hajduk Split
+35, Yuriy Virt, UKR, G, 1.82, 82, 04-05-74, Donetsk, Metalurh Donetsk
+36, Oleksandr Chyzhov, UKR, M, 1.86, 78, 10-08-86, Poltava, Vorskla Poltava
+41, Oleksandr Holikov, UKR, D, 1.77, 69, 13-11-91, Donetsk, Shakhtar Donetsk-2
+42, Bohdan Butko, UKR, D, 1.80, 68, 13-01-91, Donetsk, Shakhtar Donetsk-2
+43, Serhiy Vakulenko, UKR, M, 1.82, 69, 07-09-93, Kharkiv, Shakhtar Donetsk-2
+44, Yaroslav Rakytskyy, UKR, D, 1.80, 70, 03-08-89, Pershotravensk, Shakhtar Donetsk-2
+45, Vyacheslav Bazilevych, UKR, G, 1.82, 74, 07-08-90, Simferopol, Shakhtar Donetsk-2
+46, Dmytro Hrechyshkin, UKR, M, 1.73, 63, 22-09-91, Sievierodonetsk, Shakhtar Donetsk-2
+47, Maksym Zhychykov, UKR, D, 1.78, 70, 07-11-92, Krasnopavlivka, Shakhtar Donetsk-2
+48, Maksym Ilyuk, UKR, F, 1.80, 69, 10-11-90, Krasnoyilsk, Shakhtar Donetsk-2
+49, Maksym Imerekov, UKR, D, 1.85, 74, 23-01-91, Makiivka, Shakhtar Donetsk-2
+50, Pylyp Budkivskyy, UKR, F, 1.94, 78, 10-03-92, Kiev, Shakhtar Donetsk-2
+51, Hennadiy Klymenko, UKR, D, 1.75, 67, 03-11-89, Novomoskovsk, Shakhtar Donetsk-2
+52, Oleksandr Noyok, UKR, M, 1.74, 62, 15-05-92, Kherson, Shakhtar Donetsk-2
+53, Yaroslav Yampol, UKR, M, 1.75, 65, 21-04-90, Svatovo, Shakhtar Donetsk-2
+54, Vladyslav Nasybulin, UKR, M, 1.73, 62, 06-07-89, Debaltsevo, Shakhtar Donetsk-2
+56, Oleksandr Ovchynnikov, UKR, F, 1.67, 52, 27-01-91, Kherson, Shakhtar Donetsk-2
+57, Yaroslav Oliynyk, UKR, D, 1.81, 78, 14-03-91, Donetsk, Shakhtar Donetsk-2
+58, Denys Pshenychnyy, UKR, F, 1.81, 66, 03-01-89, Krasnyy Luch, Shakhtar Donetsk-2
+59, Vitaliy Fedotov, UKR, M, 1.68, 57, 16-07-91, Donetsk, Shakhtar Donetsk-2
+60, Artem Tetenko, UKR, G, 1.93, 88, 12-02-91, Stakhanov, Shakhtar Donetsk-2
+61, Stanislav Prychynenko, UKR, M, 1.79, 61, 26-06-91, Simferopol, Shakhtar Donetsk-2
+62, Mykyta Shevchenko, UKR, G, 1.87, 80, 26-01-93, Horlivka, Shakhtar Donetsk-2
+63, Vladyslav Nekhtiy, UKR, F, 1.81, 62, 19-12-91, Horlivka, Shakhtar Donetsk-2
+64, Oleksandr Karavayev, UKR, F, 1.75, 68, 02-06-92, Kherson, Shakhtar Donetsk-2
+65, Ivan Ordets, UKR, D, 1.81, 82, 08-07-92, Volnovakha, Shakhtar Donetsk-2
+67, Vyacheslav Churko, UKR, M, 1.80, 70, 10-05-93, Uzhgorod, Shakhtar Donetsk-2
+68, Ivan Lukanyuk, UKR, F, 1.77, 68, 05-02-93, Ivano-Frankovsk, Shakhtar Donetsk-2
+70, Kyrylo Doroshenko, UKR, M, 1.81, 67, 17-11-89, Novomoskovsk, Shakhtar Donetsk-2
+77, Julius Aghahowa, NGA, F, 1.79, 73, 12-02-82, Benin City, Kayserispor
+78, Vladlen Yurchenko, UKR, F, 1.79, 64, 22-01-94, Mykolaiv, Shakhtar Donetsk-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Yevhen Seleznev, UKR, F, 1.85, 77, 20-07-85, Makiivka, Dnipro Dnipropetrovsk
+9, Nery Castillo, MEX, M, 1.70, 61, 13-06-84, San Luis Potosí, Dnipro Dnipropetrovsk (On Loan)
+27, Dmytro Chygrynskiy, UKR, D, 1.90, 81, 07-11-86, Izyaslav, Barcelona
+28, Oleksiy Polyanskyy, UKR, M, 1.82, 82, 12-04-86, Avdeyevka, Zorya Luhansk (On Loan)
+55, Voldymyr Yezerskyy, UKR, D, 1.83, 77, 15-11-76, Lviv, Zorya Luhansk (On Loan)
+90, Vitaliy Vytsenets, UKR, F, 1.82, 69, 03-08-90, Pershotravnevsk, Zorya Luhansk (On Loan)
+99, Leonardo, BRA, D, 1.88, 72, 09-03-86, Guarulhos, Grêmio Prudente (On Loan)

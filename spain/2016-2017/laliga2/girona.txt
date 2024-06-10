@@ -1,0 +1,41 @@
+=  Girona - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, René, ESP, G, 1.86, 84, 15-12-83, El Bosque, Llagostera
+2, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Manchester C
+3, Johan Mojica, COL, D, 1.79, 66, 21-08-92, Cali, Rayo Vallecano
+4, Jonás Ramalho, ESP, D, 1.80, 64, 10-06-93, Barakaldo, Athletic Bilbao B
+5, Pedro Alcalá, ESP, D, 1.96, 82, 19-03-89, Mazarrón, Llagostera
+6, Álex Granell, ESP, M, 1.75, 70, 02-08-88, Girona, Prat
+7, Richi, ESP, D, 1.84, 77, 11-09-84, Vigo, Córdoba
+8, Pere Pons, ESP, M, 1.77, 72, 11-12-93, San Martivell, Girona B
+9, Portu, ESP, M, 1.70, 70, 21-05-92, Beniel, Valencia B
+10, Eloi Amagat, ESP, M, 1.80, 72, 21-05-85, Girona, Llagostera
+11, Aday, ESP, M, 1.77, 75, 16-12-87, Sentmenat, Tenerife
+12, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Internazionale
+13, Yassine Bounou, MAR, G, 1.90, 78, 05-04-91, Montreal, Atlético Madrid
+14, Rubén Alcaraz, ESP, M, 1.80, 70, 01-05-91, Barcelona, L'Hospitalet
+15, Juanpe, ESP, D, 1.90, 80, 30-04-91, Las Palmas, Granada
+16, Cristian Herrera, ESP, F, 1.89, 85, 13-03-91, Las Palmas, Almería
+17, Cifu, ESP, D, 1.74, 65, 05-10-90, Zújar, Málaga
+19, Felipe Sanchón, ESP, F, 1.64, 63, 08-04-82, Barcelona, Hércules
+20, Sebastián Coris, ESP, M, 1.82, 72, 31-05-93, Tossa de Mar, Girona B
+21, Fran Sandaza, ESP, F, 1.87, 80, 30-11-84, Toledo, FC Tokyo
+22, Kiko, ESP, D, 1.89, 83, 21-08-88, Málaga, Sabadell
+23, Juan Cámara, ESP, M, 1.80, 66, 13-02-94, Jaén, Barcelona B
+24, Borja, ESP, M, 1.72, 65, 02-11-90, Torremocha de Jarama, Real Madrid B
+25, Pablo Maffeo, ESP, D, 1.73, 68, 12-07-97, Sant Joan Despí, Manchester C
+27, Marc Carbó, ESP, M, 1.80, 70, 21-05-94, Salt, Girona B
+29, Chele, ESP, D, , , 06-05-95, Pepino, Peralada
+30, Gianni Cassaro, ESP, G, 1.92, 75, 10-04-92, Lloret de Mar, Europa
+31, David Serrano, ESP, F, 1.80, 75, 25-04-95, Premià de Mar, Girona B
+40, Marcel Lizak, POL, G, 1.92, 78, 15-07-96, Szklarska Poręba, Cristo Atlético
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Albert Vivancos, ESP, M, 1.85, 74, 02-02-94, Bescanó, Llagostera (On Loan)
+23, Javi Álamo, ESP, M, 1.90, 81, 18-08-88, Galdar, Osasuna
+3, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Deportivo La Coruña
+18, Carles Mas, ESP, D, 1.81, 78, 27-02-93, Banyoles, Gavà (On Loan)
+3, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, Manchester C

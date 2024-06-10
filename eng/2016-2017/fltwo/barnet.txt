@@ -1,0 +1,56 @@
+=  Barnet - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jamie Stephens, ENG, G, 1.86, 78, 24-08-93, Wotton-under-Edge, Newport Co
+2, James Pearson, ENG, D, 1.86, 75, 19-01-93, Sheffield, Leicester C
+3, Elliot Johnson, ENG, D, 1.78, 77, 17-08-94, Edgware, Norwich C
+4, Bira Dembélé, FRA, D, 1.89, 75, 22-03-88, Villepinte, Stevenage
+5, Ricardo Santos, POR, D, 1.96, 77, 18-06-95, Almada, Peterborough U
+6, Michael Nelson, ENG, D, 1.88, 77, 15-03-82, Bishop Auckland, Cambridge U
+7, Ryan Watson, ENG, M, 1.85, 73, 07-07-93, Crewe, Leicester C
+8, Curtis Weston, ENG, M, 1.80, 74, 24-01-87, Greenwich, Gillingham
+9, John Akinde, ENG, F, 1.88, 64, 08-07-89, Gravesend, Alfreton T
+10, Michael Gash, ENG, F, 1.77, 77, 03-09-86, Cambridge, Kidderminster H
+11, Ruben Bover, ESP, M, 1.70, 66, 24-06-92, Palma de Mallorca, New York Cosmos
+12, Josh Vickers, ENG, G, 1.83, 72, 01-12-95, Billericay, Swansea C
+13, Jamal Campbell-Ryce, JAM, M, 1.70, 78, 06-04-83, Lambeth, Sheffield U
+14, Simeon Akinola, NGA, F, 1.78, 76, 06-08-92, Lagos, Braintree T
+16, Harry Taylor, ENG, D, 1.88, 79, 05-05-97, Hammersmith, None
+17, Luke Coulson, ENG, M, 1.79, 71, 06-03-94, St Helens, Eastleigh
+18, Nana Kyei, ENG, M, 1.80, 70, 10-01-98, Hackney, None
+20, Tom Champion, ENG, M, 1.90, 78, 15-05-86, Barnet, Cambridge U
+21, Shaun Batt, ENG, F, 1.87, 80, 22-02-87, Luton, Leyton Orient
+24, Sam Akinde, ENG, F, , , 14-04-93, Greenwich, St Albans C
+25, Fumnaya Shomotun, NGA, M, 1.73, 67, 29-05-97, , None
+26, Tom Day, ENG, D, 1.78, 65, 24-10-97, Redhill, Crystal Palace
+27, Wesley Fonguck, ENG, M, 1.85, 77, 16-07-97, Lambeth, None
+28, Jack Taylor, ENG, D, 1.85, 70, 23-06-98, Hammersmith, None
+29, Shane Cojocărel, ROU, F, 1.70, 65, 20-03-97, Bucharest, None
+30, Justin Amaluzor, ENG, F, 1.83, 73, 17-10-96, Southwark, Dartford
+31, Kai McKenzie Lyle, ENG, G, 1.96, 86, 30-11-97, Haringey, None
+32, Mauro Vilhete, POR, M, 1.74, 74, 10-05-93, Rio de Mauro, None
+33, Joe Payne, ENG, D, 1.85, 74, 02-04-99, Enfield, None
+34, Ephron Mason-Clark, ENG, M, 1.78, 76, 25-08-99, Lambeth, None
+35, Dwight Pascal, ENG, D, , , 03-03-01, Hackney, None
+36, Rio Connell, ENG, M, , , , , None
+37, Tyler Brown, ENG, D, , , 17-11-98, , None
+38, Tobi Coker, ENG, M, , , 30-09-98, , None
+39, Dan Sweeney, ENG, M, 1.91, 75, 25-04-94, Kingston upon Thames, Maidstone U
+40, David Tutonda, COD, D, 1.80, 70, 11-10-95, Kinshasa, Cardiff C
+41, Charlie Clough, ENG, D, 1.88, 80, 04-09-90, Taunton, Forest Green R
+44, Darnell Smith, ENG, D, 1.82, 76, 24-03-99, Hackney, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Bondz Ngala, ENG, D, 1.83, 76, 03-10-89, Newham, Eastleigh
+24, Gavin Hoyte, ENG, D, 1.80, 70, 06-06-90, Waltham Forest, Eastleigh
+14, Sam Togwell, ENG, M, 1.80, 78, 14-10-84, Maidenhead, Eastleigh
+11, Luke Gambin, ENG, M, 1.68, 70, 16-03-93, Sutton, Luton T
+17, Sam Muggleton, ENG, D, 1.80, 71, 17-11-95, Melton Mowbray, Eastleigh
+15, Alie Sesay, ENG, D, 1.83, 75, 25-07-93, Enfield, IK Frej
+19, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, Yeovil T (On Loan)
+22, Ben Tomlinson, ENG, F, 1.80, 75, 31-10-89, Dinnington, Carlisle U
+23, Alex Nicholls, ENG, F, 1.78, 70, 09-12-87, Stourbridge, Dundee U (On Loan)
+42, Harry Burgoyne, ENG, G, 1.93, 85, 28-12-96, Ludlow, Wolverhampton W
+43, Benjamin Büchel, LIE, G, 1.87, 74, 04-07-89, Ruggell, Oxford U

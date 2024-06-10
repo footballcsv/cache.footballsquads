@@ -1,0 +1,21 @@
+# Japanese J.League 2006
+
+18 teams
+- [Albirex Niigata](albirex.txt)
+- [Avispa Fukuoka](avispa.txt)
+- [Cerezo Osaka](cerezo.txt)
+- [Gamba Osaka](gamba.txt)
+- [JEF United](jef.txt)
+- [Jubilo Iwata](jubilo.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Kyoto Purple Sanga](kyoto.txt)
+- [Nagoya Grampus Eight](nagoya.txt)
+- [Oita Trinita](oita.txt)
+- [Omiya Ardija](omiya.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shimizu S-Pulse](shimizu.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Ventforet Kofu](ventfor.txt)
+- [Yokohama F Marinos](yokohama.txt)

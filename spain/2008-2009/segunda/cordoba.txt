@@ -1,0 +1,38 @@
+=  Córdoba - Spanish Segunda Divisón A 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando, ESP, G, 1.92, 95, 22-06-83, Madrid, Córdoba B
+2, Mario, ESP, D, 1.76, 77, 07-02-81, Madrid, Elche
+3, Rubén, ESP, D, 1.80, 74, 02-09-84, Málaga, Málaga B
+4, Gaspar, ESP, D, 1.82, 77, 07-07-79, Córdoba, Alavés
+5, Aurelio, ESP, D, 1.80, 80, 12-07-79, Seville, Alcalá
+6, Alessandro Pierini, ITA, D, 1.87, 85, 22-03-73, Viareggio, Racing Santander
+7, David Pérez Arteaga, ESP, M, 1.67, 66, 01-12-81, Seville, Écija
+8, José Vega, ESP, M, 1.76, 71, 10-04-81, Jerez de la Frontera, Elche
+9, Yordi, ESP, F, 1.85, 82, 14-09-74, Cádiz, Xerez
+10, Francisco Javier Katxorro, ESP, M, 1.68, 67, 07-06-78, Barakaldo, Elche
+11, Asen, ESP, F, 1.80, 77, 07-10-78, Madrid, Extremadura
+12, Natalio Lorenzo, ESP, F, 1.76, 70, 18-09-84, Valencia, Almería
+13, David Valle, ESP, G, 1.90, 77, 22-05-78, Barcelona, Valencia
+14, Endika Bordas, ESP, M, 1.76, 74, 08-03-82, Bermeo, Athletic Bilbao
+15, Santiago Carpintero, ESP, M, 1.80, 75, 28-09-76, León, Málaga
+16, Ito, ESP, M, 1.75, 70, 21-01-75, Almendralejo, Espanyol
+17, Guzmán, ESP, M, 1.79, 70, 26-12-84, Badajoz, Mallorca B
+18, Juan Carlos Ceballos, ESP, D, 1.78, 75, 07-04-83, Barcelona, Levante
+19, Pepe Díaz, ESP, M, 1.73, 69, 20-04-80, Almodóvar del Río, Écija
+20, Gustavo Oberman, ARG, F, 1.75, 75, 25-03-85, Quilmes, CFR Cluj
+21, Javi Flores, ESP, F, 1.70, 64, 09-02-86, Córdoba, Córdoba B
+22, Javi Casas, ESP, D, 1.81, 79, 09-05-82, Bilbao, Athletic Bilbao
+23, Cristian Álvarez, ARG, D, 1.83, 73, 09-01-78, Capital Federal, Racing Santander
+24, Pablo Ruiz, ESP, D, 1.86, 72, 25-02-81, Seville, Sevilla
+25, Raúl Navas, ESP, G, 1.79, 78, 16-01-78, Cádiz, Tenerife
+26, Miguel Villarejo, ESP, D, 1.73, 65, 24-08-88, Bailén, Córdoba B
+27, Pedro Conde, ESP, F, 1.86, 72, 26-07-88, Villafranca de Córdoba, Córdoba B
+28, Javi Pérez, ESP, M, , , , , Córdoba B
+29, José Mari, ESP, D, , , , , Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Miguel Villarejo, ESP, D, 1.73, 65, 24-08-88, , Re-Registered (26)
+20, Gastón Casas, ARG, F, 1.82, 81, 10-01-78, La Plata, Ionikos

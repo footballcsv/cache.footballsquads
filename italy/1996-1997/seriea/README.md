@@ -1,0 +1,21 @@
+# Italian Serie A 1996/97
+
+18 teams
+- [Atalanta](atalanta.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Napoli](napoli.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Piacenza](piacenza.txt)
+- [Reggiana](reggiana.txt)
+- [Roma](roma.txt)
+- [Sampdoria](sampdor.txt)
+- [Udinese](udinese.txt)
+- [Verona](verona.txt)
+- [Vicenza](vicenza.txt)

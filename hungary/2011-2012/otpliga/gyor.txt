@@ -1,0 +1,54 @@
+=  Gyor - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sasa Stevanović, SRB, G, 1.95, 95, 04-08-74, Kragujevac, OFK Belgrade
+2, Ákos Takács, HUN, M, 1.82, 86, 14-02-82, Budapest, Honvéd
+4, Lazar Stanišić, SRB, D, 1.85, 83, 21-07-82, Sabac, Vardar Skopje
+5, Marko Dinjar, CRO, M, 1.70, 68, 21-05-86, Osijek, Terek Grozny
+6, Zoltán Fehér, HUN, D, 1.78, 80, 12-06-81, Kunszentmiklós, Vihren Sandanski
+7, Linas Pilibaitis, LTU, M, 1.82, 72, 05-04-85, Kretinga, FBK Kaunas
+8, Ádám Dudás, HUN, M, 1.82, 78, 12-02-89, Esztergom, None
+9, Ottó Szabó, SVK, M, 1.80, 74, 01-03-81, Příbram, Slovan Bratislava
+10, Rati Alexidze, GEO, F, 1.86, 78, 03-08-78, Tbilisi, Lokomotiv Tbilisi
+11, Roland Varga, HUN, F, 1.82, 75, 23-01-90, Budapest, Brescia
+12, Nikola Trajković, SRB, M, 1.75, 69, 05-01-81, Belgrade, Čukarički
+14, Máté Kiss, HUN, M, 1.80, 73, 30-04-91, Győr, None
+15, Dániel Völgyi, HUN, M, 1.87, 79, 07-06-87, Szeged, Újpest
+16, Ji-Paraná, BRA, M, 1.72, 76, 11-06-87, Ji-Paraná, Internacional
+17, Máté Pátkai, HUN, M, 1.72, 62, 06-03-88, Budapest, MTK
+18, József Windecker, HUN, M, 1.83, 75, 02-12-92, Szeged, None
+19, András Simon, HUN, F, 1.83, 70, 30-03-90, Salgótarján, Excelsior
+20, Gergely Nagy, HUN, G, 1.87, 83, 27-05-94, Győr, Fehér Akadémia
+21, Marek Střeštík, CZE, M, 1.88, 80, 01-02-87, Komárno, Brno
+22, Valentin Babić, CRO, D, 1.74, 74, 06-07-81, Osijek, Osijek
+23, Tibor Tokody, HUN, F, 1.89, 79, 01-09-80, Budapest, Wuppertal
+24, Djordje Kamber, SRB, M, 1.83, 76, 20-11-83, Kragujevac, Zalaegerszeg
+25, Jarmo Ahjupera, EST, F, 1.96, 90, 13-04-84, Vöhma, Flora Tallinn
+26, Bence Zámbó, HUN, D, 1.85, 75, 17-08-89, Celldömölk, None
+27, Péter Nacsa, HUN, G, 1.88, 76, 02-04-92, Szeged, Tisza Volán Szeged
+28, Vladimir Djordjević, SRB, D, 1.87, 85, 25-12-82, Niš, Radnički Niš
+29, Tamás Koltai, HUN, M, 1.83, 78, 30-04-87, Győr, None
+30, Péter Molnár, SVK, G, 1.95, 84, 14-12-83, Komarno, Komarno
+31, Szabolcs Kiss, HUN, M, 1.85, 83, 26-09-89, Győr, None
+33, Máté Kozma, HUN, M, 1.88, 81, 04-01-93, Győr, None
+35, Ádám Nyitrai, HUN, M, 1.86, 79, 03-03-90, Győr, None
+37, Bence Serföző, HUN, F, 1.92, 85, 25-01-93, Békéscsaba, Békéscsaba
+38, Tamás Varga, HUN, F, 1.88, 83, 18-06-91, Győr, None
+40, Viktor Miklós, HUN, F, 1.90, 82, 20-12-93, Győr, None
+42, Olivér Paget, HUN, M, 1.91, 82, 17-02-91, Győr, None
+44, Ádám Nagy, HUN, D, 1.82, 77, 18-06-90, Győr, None
+46, Tibor Molnár, HUN, F, 1.85, 81, 29-04-91, Győr, None
+47, László Németh, HUN, M, 1.84, 81, 10-01-92, Győr, Csorna
+50, Gergő Horváth, HUN, F, 1.85, 83, 15-09-92, Győr, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, André Lamas, BRA, M, 1.74, 74, 10-04-89, São Carlos, 
+11, Nicolas Ceolin, BRA, F, 1.83, 71, 10-04-86, Passo Fundo, Honvéd (On Loan)
+34, Gábor Bieder, HUN, D, 1.81, 77, 23-08-90, Győr, Sopron (On Loan)
+17, Lasha Totadze, GEO, D, 1.86, 75, 24-08-88, Gagra, Dila Gori (On Loan)
+20, Onişor Mihai Nicorec, ROU, F, 1.72, 60, 28-03-86, Magyarlápos, Zalaegerszeg (On Loan)
+30, Giorgi Ganugrava, GEO, M, 1.85, 80, 21-02-88, Tbilisi, Zalaegerszeg (On Loan)
+43, István Berde, ROU, D, 1.89, 84, 14-12-88, Sfântu Gheorghe, Gyírmót
+24, Jarmo Ahjupera, EST, F, 1.96, 90, 13-04-84, Vöhma, Re-Registered (25)

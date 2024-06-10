@@ -1,0 +1,62 @@
+=  Atlético Rafaela - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Axel Werner, ARG, G, 1.91, 86, 28-02-96, Rafaela, None
+2, Rodrigo Colombo, ARG, D, 1.92, 86, 19-11-92, San Marcos Sud, None
+3, Lucas Kruspzky, ARG, D, 1.75, 71, 06-04-92, Capital Federal, Arsenal [ARG]
+4, Dimas Morales, ARG, D, 1.80, 76, 22-06-94, Rafaela, None
+5, Mateo Castellano, ARG, M, 1.80, 78, 12-03-96, Rafaela, Ben Hur (Rafaela)
+6, Nicolás Canavessio, ARG, D, 1.81, 80, 17-09-93, Rafaela, Ben Hur (Rafaela)
+7, Nicolás Orsini, ARG, F, 1.70, 65, 12-09-94, Rafaela, Tiro Federal (Morteros)
+8, Guillermo Marino, ARG, M, 1.79, 77, 02-02-81, Los Surgentes, Boca Unidos (Corrientes)
+9, Mauro Quiroga, ARG, F, 1.91, 82, 07-12-89, Concepción, Alavés
+10, Gabriel Graciani, ARG, M, 1.80, 75, 28-11-92, Bovril, Estudiantes (LP)
+11, Osmar Daniel Ferreyra, ARG, M, 1.76, 67, 09-01-83, Basavilbaso, River Plate
+12, Guido Rossetti, ARG, G, 1.80, 76, 12-05-93, Rafaela, None
+13, Diego Montiel, ARG, M, 1.69, 70, 22-04-96, Santo Tomé, None
+14, Adrián Bastía, ARG, M, 1.78, 78, 20-12-78, Gobernador Crespo, Colón (Santa Fe)
+15, Germán Rodríguez, ARG, M, 1.79, 75, 05-01-90, Rafaela, None
+16, Germán Ré, ARG, D, 1.77, 73, 02-11-81, Santa Fé, Estudiantes (LP)
+17, Facundo Parra, ARG, F, 1.82, 78, 15-06-85, Capital Federal, Asteras Tripolis
+18, Sergio Sosa, ARG, F, 1.78, 78, 15-03-94, San Martín, Estudiantes (BA)
+19, Franco Jominy, ARG, F, 1.86, 70, 28-08-94, Cañada de Gómez, None
+20, Bruno Uribarri, ARG, D, 1.68, 65, 06-11-86, General Campos, River Plate
+21, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, None
+22, Sebastián Martínez, URU, D, 1.83, 86, 11-04-83, Montevideo, Newell's Old Boys
+23, Ignacio Pussetto, ARG, F, 1.80, 74, 21-12-95, Cañada Rosquín, None
+24, Joel Sacks, ARG, D, 1.77, 76, 10-04-89, Rafaela, None
+25, Carlos De Giorgi, ARG, G, 1.87, 79, 23-04-84, Córdoba, Central Nort (Salta)
+26, Gabriel Morales, ARG, F, 1.79, 69, 29-04-94, Rosario, Rosario Central
+27, Julián Gauna, ARG, D, , , , , None
+28, Juan Eluchans, ARG, M, 1.78, 68, 14-04-80, Tandil, Banfield
+29, Wálter Serrano, ARG, M, 1.77, 75, 02-07-86, San Nicolás, None
+30, Facundo Cervantes, ARG, F, 1.83, 69, 05-06-96, Esperanza, None
+31, Federico Andrada, ARG, F, 1.79, 74, 03-03-94, Carapachay, River Plate
+32, Alexander Barboza, ARG, D, 1.92, 79, 16-03-95, Villa Celina, River Plate
+33, Santiago Paz, ARG, M, 1.75, 70, 06-10-96, Santa Fe, None
+34, Lautaro Petri, ARG, G, 1.87, 75, 05-09-95, Las Varillas, None
+35, Pablo Gaitán, ARG, M, 1.77, 67, 09-05-92, Capitán Bermúdez, None
+36, Ramiro Macagno, ARG, G, 1.85, 77, 18-03-97, Alicia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Guillermo Fernández, ARG, M, 1.78, 73, 10-11-91, Granadero Baigorria, Boca Juniors
+21, Alexis Niz, ARG, D, 1.76, 71, 15-05-88, Rafaela, Sarmiento (Junín)
+5, Matías Fissore, ARG, M, 1.65, 63, 21-09-90, San Marcos Sud, San Martín (San Juan)
+11, Federico González, ARG, F, 1.78, 79, 01-06-87, Entre Ríos, Tigre
+1, Esteban Conde, URU, G, 1.87, 85, 04-03-83, Young, Nacional [URU]
+13, Rodrigo Depetris, ARG, F, 1.72, 69, 05-05-90, San Jorge, Olympiakos Volos
+2, Sebastian Sánchez, ARG, D, 1.83, 77, 20-09-88, Mendoza, De-Registered
+22, Mauricio Gómez, URU, D, 1.78, 70, 16-04-92, Artigas, De-Registered
+30, Martín Díaz, URU, D, 1.87, 79, 17-03-88, Montevideo, De-Registered
+6, Mateo Castellano, ARG, M, 1.80, 78, 12-03-96, Rafaela, Re-Registered (5)
+17, Pablo Gaitán, ARG, M, 1.77, 67, 09-05-92, Capitán Bermúdez, Re-Registered (35)
+20, Axel Werner, ARG, G, 1.91, 86, 28-02-96, Rafaela, Re-Registered (1)
+26, Diego Montiel, ARG, M, 1.69, 70, 22-04-96, Santo Tomé, Re-Registered (13)
+27, Rodrigo Colombo, ARG, D, 1.92, 86, 19-11-92, San Marcos Sud, Re-Registered (2)
+31, Nicolás Canavessio, ARG, D, 1.81, 80, 17-09-93, Rafaela, Re-Registered (6)
+32, Lautaro Petri, ARG, G, 1.87, 75, 05-09-95, Las Varillas, Re-Registered (34)
+33, Gabriel Morales, ARG, F, 1.79, 69, 29-04-94, Rosario, Re-Registered (26)
+34, Osmar Daniel Ferreyra, ARG, M, 1.76, 67, 09-01-83, Basavilbaso, Re-Registered (11)
+35, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, Re-Registered (21)

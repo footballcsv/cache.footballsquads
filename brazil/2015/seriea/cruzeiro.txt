@@ -1,0 +1,50 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+2, Ceará, BRA, D, 1.75, 75, 16-06-80, Crato, Paris St-Germain
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+4, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Monte Azul
+5, Willians, BRA, M, 1.75, 71, 29-01-86, São Paulo, Internacional
+6, Fabricio, BRA, D, 1.85, 72, 11-01-87, São Paulo, Internacional
+7, Diederrick Joel, CMR, F, 1.78, 76, 06-12-93, Nkongsamba, Londrina
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Leandro Damião, BRA, F, 1.88, 81, 22-07-89, Jardim Alegre, Santos
+10, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Defensor Sporting
+11, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, None
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+13, Douglas Grolli, BRA, D, 1.88, 79, 05-10-89, São Miguel do Oeste, Grêmio
+14, Eurico, BRA, M, 1.82, 70, 16-04-94, Santa Luzia, None
+15, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Coritiba
+16, Judivan, BRA, F, 1.77, 81, 21-05-95, Sousa, None
+17, Uillian Correia, BRA, M, 1.84, 78, 27-09-89, Fátima do Sul, Ceará
+18, Gabriel Xavier, BRA, M, 1.70, 70, 15-07-93, São Paulo, Portuguesa
+19, Júlio Baptista, BRA, M, 1.83, 72, 01-10-81, São Paulo, Málaga
+20, Paulo André, BRA, D, 1.88, 82, 20-08-83, Campinas, Shanghai Shenhua
+21, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Santos
+22, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, None
+23, Fabiano, BRA, D, 1.88, 82, 18-11-91, São José do Oeste, Chapecoense
+24, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, Nacional [POR]
+25, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Metalist Kharkiv
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+27, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Atlético Paranaense
+28, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Lokomotiv Moscow
+29, Pará, BRA, D, 1.67, 70, 23-08-95, Capanema, Bahia
+30, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Vitória
+31, Alex, BRA, D, 1.86, 80, 21-01-93, Salvador, None
+32, Alan, BRA, G, 2.01, 99, 22-06-94, Medianeira, Londrina
+33, Bruno Ramires, BRA, M, 1.89, 77, 18-03-94, Salvador, None
+34, Marcos Vinícius, BRA, M, 1.78, 70, 26-12-94, Marabá, Náutico
+35, Allano, BRA, F, 1.82, 73, 24-04-95, Rio de Janeiro, Botafogo
+36, Bruno Viana, BRA, D, 1.87, 75, 05-02-95, Macaé, None
+37, Marinho, BRA, M, 1.76, 62, 29-05-90, Penedo, Ceará
+39, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Valencia
+40, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Vélez Sarsfield
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Duvier Riascos, COL, F, 1.80, 73, 26-06-86, Buenaventura, Vasco da Gama (On Loan)
+19, Henrique Dourado, BRA, F, 1.86, 79, 15-09-89, Guarulhos, Mirassol
+32, Neilton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Botafogo (On Loan)
+17, Felipe Seymour, CHI, M, 1.74, 75, 23-07-87, Pirque, Vasco da Gama (On Loan)

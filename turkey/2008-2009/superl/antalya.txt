@@ -1,0 +1,45 @@
+=  Antalyaspor - Turkish Süper Lig 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ömer Çatkıç, TUR, G, 1.82, 82, 15-10-74, Eskişehir, Gaziantepspor
+2, Yalçın Ayhan, TUR, D, 1.92, 82, 01-05-82, Şişli, İstanbulspor
+3, Şenol Can, TUR, D, 1.82, 75, 03-04-83, Kircaali, İnegölspor
+4, Vahap Işik, TUR, D, 1.80, 74, 28-12-82, Giresun, Gaziantep BB
+6, Orhan Ak, TUR, D, 1.79, 74, 29-09-79, Sakarya, Galatasaray
+8, Hakan Özmert, TUR, M, 1.76, 69, 03-08-85, Nantes, Sakaryaspor
+9, Ahmet Kuru, GER, F, 1.78, 76, 23-04-82, Rotenburg/Wümme, St Pauli
+10, Mustafa Özkan, TUR, F, 1.89, 82, 21-02-75, Forchheim, Ankaragücü
+11, Ali Zitouni, TUN, F, 1.78, 71, 11-01-81, Tunis, Espérance
+12, Maynor Suazo, HON, M, 1.80, 73, 10-08-79, San Pedro Sula, Austria Salzburg
+15, Sedat Ağçay, TUR, M, 1.76, 72, 22-09-81, Bulanik, Konyaspor
+17, Fevzi Elmas, TUR, G, 1.82, 74, 09-06-83, Biga, Galatasaray
+18, Polat Keser, TUR, G, 1.83, 85, 04-12-85, Marl, Bochum
+21, Abdullah Çetin, TUR, M, 1.72, 68, 18-03-84, Diyarbakır, Diyarbakırspor
+22, Volkan Altin, TUR, M, 1.73, 66, 10-08-86, Berlin, Sandhausen
+23, Burak Tok, TUR, D, 1.83, 76, 12-04-89, Bobingen, Eintracht Frankfurt II
+24, Timur Kosovali, TUR, F, 1.88, 80, 26-01-90, , None
+29, Serge Djiehoua, CIV, F, 1.78, 69, 25-09-83, Abidjan, Kaizer Chiefs
+38, Kamber Arslan, TUR, M, 1.83, 67, 05-01-80, Kayseri, Kayerispor
+39, Korhan Öztürk, TUR, M, 1.74, 62, 28-06-82, Bornova, Elazığspor
+57, Volkan Arslan, TUR, M, 1.79, 76, 29-08-78, Hannover, Gaziantepspor
+58, Ertuğrul Arslan, TUR, M, 1.67, 67, 26-01-80, Sivas, Sivasspor
+67, Uğur Kavuk, TUR, M, 1.78, 76, 11-09-79, Zonguldak, Istanbul BB
+71, Hasan Demir, TUR, G, 1.83, 78, 28-08-90, Antalya, None
+77, Fatih Arat, TUR, F, 1.88, 75, 01-06-89, Serik, None
+81, Fatih Ceylan, TUR, M, 1.80, 72, 25-11-80, Düzce, Kayerispor
+86, Tita, BRA, F, 1.70, 65, 20-05-81, Rio de Janeiro, Ankaraspor
+90, Musa Nizam, TUR, D, 1.82, 73, 08-09-90, Antalya, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Mesut Çaytemel, TUR, M, 1.74, 66, 24-04-84, Bursa, Samsunspor
+70, Sezer Güler, TUR, M, 1.83, 78, 29-12-85, Munich, Afyonkarahisarspor
+5, Piotr Dziewicki, POL, D, 1.91, 84, 26-06-79, Milanówek, Polonia Warszawa
+13, Joseph Ngwenya, ZIM, F, 1.85, 79, 30-03-81, Plumtree, 
+14, Pavol Straka, SVK, F, 1.78, 73, 13-12-80, Trenčín, Viktoria Žižkov
+19, Ersan Tekkan, TUR, M, 1.80, 74, 06-01-85, Bochum, 
+53, Idris Hacıfazlıoğlu, TUR, F, 1.78, 70, 19-08-82, Pazar, Gaziantep BB
+33, Demircan Dikmen, TUR, F, 1.79, 69, 16-02-88, Berlin, 
+25, Recep Yıldız, TUR, M, 1.85, 83, 10-03-86, Stuttgart, 
+7, Jarosław Bieniuk, POL, D, 1.92, 83, 04-06-79, Gdańsk, Omonia Nicosia

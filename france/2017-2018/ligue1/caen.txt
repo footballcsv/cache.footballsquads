@@ -1,0 +1,39 @@
+=  Caen - French Ligue 1 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rémy Vercoutre, FRA, G, 1.85, 78, 26-06-80, Grande-Synthe, Lyon
+3, Florian Le Joncour, FRA, D, 1.93, 82, 03-02-95, Quimper, Concarneau
+4, Ismaël Diomandé, CIV, M, 1.80, 75, 28-08-92, Abidjan, St-Etienne
+5, Baïssama Sankoh, GUI, M, 1.80, 73, 20-03-92, Nogent-sur-Marne, Guingamp
+7, Timo Stavitski, FIN, F, 1.80, 78, 17-07-99, Kirkkonummi, Rovaniemi PS
+8, Stef Peeters, BEL, M, 1.88, 84, 09-02-92, Bree, Sint-Truiden
+9, Jan Repas, SVN, M, 1.71, 68, 19-03-97, Ljubljana, Domžale
+10, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, Monaco
+11, Vincent Bessat, FRA, M, 1.78, 73, 08-11-85, Lyon, Nantes
+12, Ronny Rodelin, FRA, F, 1.92, 70, 18-11-89, Saint-Denis, Lille
+13, Christian Kouakou, CIV, F, 1.82, 79, 01-03-91, Abidjan, Tours
+17, Michaël Jordan N'Kololo, FRA, M, 1.83, 71, 09-11-92, Créteil, Clermont
+18, Durel Avounou, CGO, M, 1.79, 71, 25-09-97, Brazzaville, None
+19, Jordan Leborgne, FRA, M, 1.73, 63, 29-09-95, Pointe-à-Pitre, None
+20, Hervé Bazile, FRA, F, 1.80, 73, 18-03-90, Créteil, Le Poiré-sur-Vie
+21, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Bordeaux
+22, Adama Mbengue, SEN, D, 1.78, 68, 01-12-93, Rufisque, Diambars
+23, Mouhamadou Dabo, SEN, D, 1.76, 67, 28-11-86, Dakar, Troyes
+24, Alexander Djiku, FRA, D, 1.82, 74, 09-08-94, Montpellier, Bastia
+25, Julien Féret, FRA, M, 1.87, 74, 05-07-82, Saint Brieuc, Rennes
+26, Ivan Santini, CRO, F, 1.90, 86, 21-05-89, Zadar, Standard Liège
+27, Enzo Crivelli, FRA, F, 1.84, 79, 06-02-95, Rouen, Angers
+28, Damien Da Silva, FRA, D, 1.84, 77, 17-05-88, Talence, Clermont
+29, Romain Genevois, HAI, D, 1.80, 66, 28-10-87, L'Estère, Nice
+30, Brice Samba, CGO, G, 1.86, 79, 25-04-94, Linzolo, Marseille
+32, Jessy Deminguet, FRA, M, 1.78, 74, 07-01-98, Caen, None
+40, Matthieu Dreyer, FRA, G, 1.88, 84, 20-03-89, Strasbourg, Troyes
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Yann Karamoh, FRA, F, 1.85, 77, 08-07-98, Abidjan, Internazionale (On Loan)
+15, Emmanuel Imorou, BEN, D, 1.81, 69, 16-09-88, Bourges, Cercle Brugge (On Loan)
+27, Valentin Voisin, FRA, M, 1.81, 73, 19-06-96, Cherbourg, Avranches (On Loan)
+6, Jonathan Delaplace, FRA, M, 1.67, 60, 20-03-86, La Seyne-sur-Mer, Lorient
+14, Jeff Louis, HAI, M, 1.78, 70, 08-08-90, Port-au-Prince, Quevilly-Rouen (On Loan)

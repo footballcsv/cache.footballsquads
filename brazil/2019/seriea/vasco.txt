@@ -1,0 +1,60 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Vitória
+2, Raúl Cácares, PAR, D, 1.80, 75, 18-09-91, Asunción, Cerro Porteño
+3, Oswaldo Henríquez, COL, D, 1.86, 79, 10-03-89, Santa Marta, Sport Recife
+4, Breno, BRA, D, 1.87, 83, 13-10-89, Cruzeiro, São Paulo
+5, Leandro Castán, BRA, D, 1.84, 80, 05-11-86, Jaú, Roma
+6, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Corinthians
+7, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Shenzhen FC
+8, Marquinho, BRA, M, 1.82, 79, 03-07-86, Passo Fundo, Athletico Paranaense
+9, Ribamar, BRA, F, 1.84, 81, 21-05-97, Rio de Janeiro, Pyramids FC
+10, Bruno César, BRA, M, 1.78, 73, 03-11-88, Santa Bárbara d'Oeste, Sporting CP
+13, Fredy Guarín, COL, M, 1.84, 78, 30-06-86, Puerto Boyaca, Shanghai Shenhua
+14, Danilo, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, Atlético Mineiro
+15, Andrey, BRA, M, 1.75, 73, 15-02-98, Rio de Janeiro, None
+17, Valdívia, BRA, M, 1.74, 70, 04-10-94, Jaciara, Internacional
+18, Felipe Ferreira, BRA, M, 1.86, 72, 25-04-94, Brasília, Ferroviária
+19, Marcos Júnior, BRA, M, 1.75, 70, 13-05-95, Rio de Janeiro, Bangu
+20, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, Atlético Mineiro
+21, Cláudio Winck, BRA, D, 1.83, 70, 15-04-94, Portão, Internacional
+22, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Paysandu
+25, Richard, BRA, M, 1.91, 76, 18-02-94, Campinas, Corinthians
+26, Rafael França, BRA, D, 1.71, 68, 17-03-98, Rio de Janeiro, None
+27, Tiago Reis, BRA, F, 1.83, 75, 14-08-99, Brasília, Cruzeiro
+28, Dudu, BRA, M, 1.72, 67, 14-12-98, Rio de Janeiro, None
+31, Raul, BRA, M, 1.80, 73, 11-07-96, Tauá, Ceará
+32, Gabriel Pec, BRA, M, 1.75, 70, 11-02-01, Petrópolis, None
+33, Ramon, BRA, D, 1.73, 65, 06-05-88, Cachoeiro do Itapemirim, Antalyaspor
+34, Werley, BRA, D, 1.84, 81, 05-09-88, Oliveira, Coritiba
+35, Miranda, BRA, D, 1.81, 73, 19-01-00, Magé, None
+36, Ricardo, BRA, D, 1.83, 70, 16-02-97, Rio de Janeiro, None
+37, Henrique Silva, BRA, D, 1.73, 72, 25-04-94, Rio de Janeiro, None
+38, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, None
+39, Vinícius Paiva, BRA, F, 1.70, 65, 01-03-01, Rio de Janeiro, None
+40, Kaio Magno, BRA, F, 1.88, 82, 13-08-99, Rio de Janeiro, None
+41, Bruno Gomes, BRA, M, 1.75, 70, 04-04-01, Rio de Janeiro, None
+43, Talles Magno, BRA, F, 1.86, 70, 26-06-02, Rio de Janeiro, None
+44, Sidão, BRA, G, 1.89, 88, 24-12-82, São Paulo, Goiás
+46, João Pedro, BRA, G, 1.88, 84, 28-01-98, Rio de Janeiro, None
+55, Alexander, BRA, G, 1.90, 80, 31-05-99, São Gonçalo, None
+56, Lucão, BRA, G, 1.90, 81, 26-02-01, Barra Mansa, None
+57, Alexandre, BRA, M, 1.80, 80, 11-02-99, Rio de Janeiro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Maxi López, ARG, F, 1.90, 81, 03-04-84, Capital Federal, Crotone
+25, Willian Maranhão, BRA, M, 1.79, 80, 14-12-95, São Luís, América Mineiro (On Loan)
+29, Bruno Silva, BRA, M, 1.83, 84, 15-02-88, Sorocaba, Guarani
+42, Rodrigo Fernandes, BRA, M, 1.81, 75, 03-05-98, Rio de Janeiro, Corinthians
+45, Kainandro, BRA, D, 1.86, 80, 04-06-00, Jaguaré, Al-Ittihad Kalba
+13, Luiz Gustavo, BRA, D, 1.77, 65, 12-02-94, Valentim Gentil, Guarani (On Loan)
+12, Gabriel Félix, BRA, G, 1.90, 89, 04-04-95, Barra do Garças, São Bento (On Loan)
+23, Caio Monteiro, BRA, F, 1.77, 67, 10-02-97, Rio de Janeiro, Paraná (On Loan)
+39, Jairinho, BRA, F, 1.71, 68, 09-08-90, Rio de Janeiro, Bangu
+20, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, Coritiba
+32, Lucas Santos, BRA, M, 1.64, 59, 07-03-99, Rio de Janeiro, CSKA Moscow (On Loan)
+18, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, Chapecoense
+30, Vinícius Araújo, BRA, F, 1.76, 76, 22-02-93, João Monlevade, Avaí (On Loan)

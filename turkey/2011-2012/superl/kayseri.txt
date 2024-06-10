@@ -1,0 +1,41 @@
+=  Kayserispor - Turkish Süper Lig 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, Argentinos Juniors
+2, Okan Alkan, TUR, D, 1.70, 62, 01-10-92, Kızıltepe, Fenerbahçe
+3, Hasan Ali Kaldırım, TUR, D, 1.83, 74, 09-12-89, Neuwied, Mainz II
+4, İlhan Eker, TUR, D, 1.85, 85, 01-01-83, Balıkesir, Fenerbahçe
+5, Eren Güngör, TUR, D, 1.87, 77, 02-04-88, Bergama, Altay
+6, Zurab Khizanishvili, GEO, D, 1.83, 89, 06-10-81, Tbilisi, Blackburn R
+7, James Troisi, AUS, F, 1.78, 77, 03-07-88, Adelaide, Gençlerbirliği
+8, Abdullah Durak, TUR, M, 1.77, 71, 01-04-87, Niğde, None
+10, Franco Cángele, ARG, F, 1.78, 76, 16-07-84, Franco Madero, Sakaryaspor
+11, Nordin Amrabat, MAR, F, 1.79, 79, 31-03-87, Naarden, PSV Eindhoven
+12, Gökhan Değirmenci, TUR, G, 1.82, 79, 21-03-89, Karşıyaka, Altay
+13, Babacar Diop, SEN, F, 1.92, 83, 21-10-93, Dakar, None
+16, Cristian Riveros, PAR, M, 1.79, 76, 16-10-82, J.A. Saldivar, Sunderland
+17, Emir Kujović, SWE, F, 1.94, 94, 22-06-88, Bijelo Polje, Halmstads BK
+18, Sefa Yılmaz, GER, M, 1.83, 79, 14-02-90, Berlin, Duisburg
+19, Cem Sultan, TUR, F, 1.84, 71, 27-02-91, Bahçelievler, Galatasaray
+20, Umut Sözen, TUR, M, 1.79, 74, 27-01-90, Izmir, Ankaragücü
+21, Diego Biseswar, NED, F, 1.71, 73, 08-03-88, Amsterdam, Feyenoord
+22, Ömer Şışmanoğlu, GER, F, 1.86, 77, 01-08-89, Hamburg, St Pauli
+23, Furkan Özçal, TUR, M, 1.70, 71, 03-09-90, Munich, 1860 Munich II
+24, Nadir Çiftçi, NED, F, 1.83, 77, 12-02-92, Den Haag, Portsmouth
+25, Nurettin Kayaoğlu, TUR, D, 1.81, 77, 08-01-92, Duisburg, Schalke II
+26, Kamil Ahmet Çörekçi, TUR, D, 1.73, 73, 01-02-92, London, Bucaspor
+27, Erhan Kırcı, TUR, G, 1.88, 83, 22-03-89, Trabzon, İskenderun DÇ
+28, Engin Bekdemir, TUR, M, 1.71, 70, 07-02-92, Beringen, FC Porto
+29, Samed Ali Kaya, TUR, F, 1.80, 72, 10-09-95, Tomarza, None
+30, Okay Yokuşlu, TUR, M, 1.88, 79, 09-03-94, İzmir, Altay
+33, Berkay Dabanlı, TUR, D, 1.90, 80, 27-06-90, Berlin, Bayer Leverkusen II
+34, Deniz Doğan Mehmet, TUR, G, 1.92, 80, 16-09-92, London, West Ham U
+37, Peter Pekarik, SVK, D, 1.76, 69, 30-10-86, Žilina, Wolfsburg
+39, Semih Aydilek, GER, M, 1.91, 80, 16-01-89, Frankfurt am Main, Birmingham C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Ömer Kulga, BEL, D, 1.89, 80, 08-01-89, Sint-Niklaas, Orduspor
+14, Jonathan Santana, PAR, M, 1.81, 80, 19-10-81, Capital Federal, Libertad
+9, Gökhan Ünal, TUR, F, 1.84, 81, 23-07-82, Ankara, 

@@ -1,0 +1,37 @@
+=  Shamrock Rovers - FAI Premier Division 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Murphy, IRL, G, 1.78, 75, 08-06-85, Dublin, Leicester Celtic
+2, Simon Madden, IRL, D, 1.75, 74, 01-05-88, Dublin, Leeds U
+3, Ian Bermingham, IRL, D, 1.85, 71, 08-01-89, Dublin, UCD
+4, Darragh Maguire, IRL, D, 1.85, 82, 06-02-76, Dublin, St Patrick's Ath
+5, Aidan Price, IRL, D, 1.85, 76, 08-12-81, Tallaght, Kilkenny C
+6, Craig Sives, SCO, D, 1.91, 77, 09-04-86, Edinburgh, Tynecastle
+7, Shane Robinson, IRL, M, 1.80, 71, 17-12-80, Waterford, Drogheda U
+8, Stephen Rice, IRL, M, 1.79, 82, 06-10-84, Dublin, Bohemians
+9, Gary Twigg, SCO, F, 1.81, 79, 19-03-84, Glasgow, Brechin C
+10, Stephen Bradley, IRL, M, 1.72, 60, 19-11-84, Dublin, Falkirk
+11, Sean O'Connor, IRL, M, 1.75, 71, 21-10-83, Dublin, St Patrick's Ath
+13, Paddy Kavanagh, IRL, M, 1.74, 65, 29-12-85, Dublin, Bray W
+14, Ollie Cahill, IRL, M, 1.78, 71, 29-09-75, Tipperary, Drogheda U
+15, Corey Treacy, IRL, D, , , 11-01-89, Bray, Nottingham F
+16, Robert Duggan, IRL, G, 1.85, 79, 01-04-87, Dublin, Stafford Rangers
+17, Barry Johnston, NIR, M, 1.78, 77, 28-10-79, Belfast, Cliftonville
+18, Dessie Baker, IRL, F, 1.75, 69, 25-08-77, Dublin, Longford T
+19, Patrick Sullivan, IRL, D, 1.77, 68, 30-10-82, Dublin, Cork C
+20, Pat Flynn, IRL, D, 1.88, 78, 13-01-85, Dublin, Waterford U
+21, Pádraig Amond, IRL, F, 1.80, 75, 23-04-88, Carlow, None
+22, Graham Barrett, IRL, F, 1.78, 73, 06-10-81, Dublin, St Johnstone
+23, Alan Mannus, NIR, G, 1.88, 94, 19-05-82, Toronto, Linfield
+24, Ross Chisholm, SCO, M, 1.75, 65, 14-01-88, Irvine, Hibernian
+, Don Cowen, IRL, F, , , 16-11-89, Dublin, Crumlin U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Seán Webb, NIR, D, 1.88, 78, 04-01-83, Coalisland, 
+17, Greg Cameron, SCO, M, 1.75, 68, 10-04-88, Dundee, Dundee U
+23, Karl Coleman, IRL, G, , , 19-11-88, Kilnamanagh, 
+13, Eric McGill, IRL, M, 1.76, 73, 16-10-87, Tallaght, Drogheda U
+19, Eóin Doyle, IRL, F, 1.78, 73, 12-03-88, Tallaght, Sligo R
+22, Tadhg Purcell, IRL, F, 1.77, 75, 02-09-85, Dublin, 

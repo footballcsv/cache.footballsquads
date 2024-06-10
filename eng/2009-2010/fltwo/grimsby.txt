@@ -1,0 +1,55 @@
+=  Grimsby Town - English Football League Two 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nick Colgan, IRL, G, 1.86, 76, 19-09-73, Drogheda, Sunderland
+2, Robbie Stockdale, SCO, D, 1.83, 71, 30-11-79, Redcar, Tranmere R
+3, Joe Widdowson, ENG, D, 1.83, 76, 29-03-89, Forest Gate, West Ham U
+4, Dean Sinclair, ENG, M, 1.78, 71, 17-12-84, St Albans, Charlton Ath
+5, Oliver Lancashire, ENG, D, 1.86, 75, 13-12-88, Basingstone, Southampton
+6, Peter Sweeney, SCO, M, 1.83, 81, 25-09-84, Glasgow, Leeds U
+7, Adrian Forbes, ENG, M, 1.73, 74, 23-01-79, Greenford, Millwall
+8, Nathan Jarman, ENG, F, 1.80, 72, 19-09-86, Scunthorpe, Barnsley
+9, Adam Proudlock, ENG, F, 1.83, 86, 09-05-81, Wellington, Darlington
+12, Jude Stirling, ENG, D, 1.88, 75, 29-06-82, Highgate, MK Dons
+13, Nick Hegarty, ENG, M, 1.78, 70, 25-06-86, Hemsworth, Sheffield W
+14, Peter Bore, ENG, M, 1.83, 77, 04-11-87, Grimsby, None
+15, Matthew Bird, ENG, D, 1.83, 73, 31-10-90, Grimsby, None
+16, Paul Linwood, ENG, D, 1.88, 80, 24-10-83, Birkenhead, Chester C
+17, Grant Normington, ENG, M, 1.72, 79, 09-05-90, Hull, None
+18, Chris Jones, WAL, F, 1.69, 64, 12-09-89, Swansea, Swansea C
+19, Michael Leary, ENG, M, 1.78, 90, 17-04-83, Ealing, Barnet
+20, Jammal Shahin, ENG, M, 1.80, 77, 19-12-88, Grimsby, Armthorpe Welfare
+21, Michael Coulson, ENG, F, 1.78, 64, 04-04-88, Scarborough, Barnsley
+22, Mark Gray, ENG, D, , , 19-12-91, Grimsby, None
+24, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Hull C
+25, Robert Atkinson, ENG, D, 1.85, 78, 29-04-87, Beverley, Barnsley
+26, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, FC Brussels
+28, Josh Fuller, ENG, M, 1.77, 70, 09-02-92, Grimsby, None
+29, Bradley Wood, ENG, D, 1.75, 70, 02-09-91, Leicester, None
+30, Harry Deane, ENG, M, , , 28-09-91, Lincoln, None
+32, Mark Hudson, ENG, M, 1.78, 71, 24-10-80, Bishop Auckland, Gainsborough Trinity
+33, Ashley Chambers, ENG, F, 1.78, 73, 01-03-90, Leicester, Leicester C
+35, Leigh Overton, ENG, G, 1.83, 73, 01-12-90, Boston, None
+36, Tommy Wright, ENG, F, 1.83, 74, 28-09-84, Leicester, Aberdeen
+37, Lee Peacock, SCO, F, 1.83, 80, 09-10-76, Paisley, Swindon T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Tommy Forecast, ENG, G, 1.99, 75, 15-10-86, Newham, Southampton
+20, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Scunthorpe U
+21, Arnaud Mendy, FRA, M, 1.90, 86, 10-02-90, Evreux, Derby Co
+24, Josh Magennis, NIR, F, 1.88, 82, 15-08-90, Bangor, Cardiff C
+33, Ben Wright, ENG, F, 1.88, 85, 10-08-88, Basingstoke, Peterborough U
+23, Oliver Lancashire, ENG, D, 1.86, 75, 13-12-88, Basingstone, Southampton
+4, Ryan Bennett, ENG, D, 1.88, 70, 06-03-90, Orsett, Peterborough U
+24, Damien McCrory, IRL, M, 1.88, 81, 23-02-90, Croom, Plymouth Arg
+5, Matthew Heywood, ENG, D, 1.91, 89, 26-08-79, Chatham, 
+10, Barry Conlon, IRL, F, 1.91, 89, 01-10-78, Drogheda, Chesterfield
+11, Danny Boshell, ENG, M, 1.80, 74, 30-05-81, Bradford, Chesterfield
+12, Jamie Clarke, ENG, D, 1.88, 78, 18-09-82, Sunderland, York C
+27, Danny North, ENG, F, 1.75, 80, 07-09-87, Grimsby, Alfreton T
+31, Nicky Featherstone, ENG, F, 1.70, 71, 22-09-88, Goole, Hull C
+23, Wes Fletcher, ENG, F, 1.80, 79, 28-02-90, Ormskirk, Burnley
+34, Paris Cowan-Hall, ENG, F, 1.73, 73, 05-10-90, Hillingdon, Portsmouth
+38, Mark Oxley, ENG, G, 1.80, 73, 02-06-90, Sheffield, Hull C

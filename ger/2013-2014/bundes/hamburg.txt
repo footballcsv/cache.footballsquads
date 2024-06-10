@@ -1,0 +1,43 @@
+=  Hamburger SV - German Bundesliga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jaroslav Drobný, CZE, G, 1.92, 88, 18-10-79, Počátky, Hertha Berlin
+2, Dennis Diekmeier, GER, D, 1.88, 78, 20-10-89, Thedinghausen, Nürnberg
+3, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, Chelsea
+4, Heiko Westermann, GER, D, 1.90, 85, 14-08-83, Alzenau, Schalke
+5, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Arsenal
+6, Ouasim Bouy, NED, M, 1.80, 72, 11-06-93, Amsterdam, Juventus
+7, Marcell Jansen, GER, D, 1.91, 84, 04-11-85, Mönchengladbach, Bayern Munich
+8, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Deportivo Táchira
+9, Hakan Çalhanoğlu, TUR, M, 1.78, 69, 08-02-94, Mannheim, Karlsruhe
+11, Ivo Iličević, CRO, M, 1.74, 65, 14-11-86, Aschaffenburg, Kaiserslautern
+14, Milan Badelj, CRO, M, 1.86, 79, 25-02-89, Zagreb, Dinamo Zagreb
+15, René Adler, GER, G, 1.90, 85, 15-01-85, Leipzig, Bayer Leverkusen
+16, Lasse Sobiech, GER, D, 1.85, 74, 18-01-91, Schwerte, Borussia Dortmund
+17, Zhi Gin Lam, GER, D, 1.77, 67, 04-06-91, Hamburg, None
+18, Tolgay Arslan, TUR, M, 1.79, 75, 16-08-90, Paderborn, None
+19, Petr Jiráček, CZE, M, 1.80, 75, 02-03-86, Tuchořice, Wolfsburg
+20, Pierre-Michel Lasogga, GER, F, 1.89, 88, 15-12-91, Gladbeck, Hertha Berlin
+21, Maximilian Beister, GER, F, 1.80, 78, 06-09-90, Göttingen, None
+23, Rafael van der Vaart, NED, M, 1.75, 74, 11-02-83, Heemskerk, Tottenham H
+24, Slobodan Rajković, SRB, D, 1.95, 85, 03-02-89, Belgrade, Chelsea
+25, Ola John, NED, F, 1.80, 80, 19-05-92, Zwedru, Benfica
+27, Kerem Demirbay, TUR, M, 1.85, 80, 03-07-93, Gelsenkirchen, Borussia Dortmund II
+28, Jonathan Tah, GER, D, 1.92, 90, 11-02-96, Hamburg, Concordia Hamburg
+29, Florian Stritzel, GER, G, 1.96, 92, 31-01-94, Neubrandenburg, None
+30, Sven Neuhaus, GER, G, 1.94, 90, 04-04-78, Essen, RB Leipzig
+31, Jacques Zoua, CMR, F, 1.86, 78, 06-09-91, Garoua, Basel
+32, Matti Steinmann, GER, M, 1.88, 78, 08-01-95, Hamburg, None
+33, Mattia Maggio, ITA, F, 1.84, 78, 22-02-94, Nürtingen, Novara
+34, Valmir Nafiu, MKD, F, 1.75, 75, 23-04-94, Tetovo, Basel
+37, Robert Tesche, GER, M, 1.80, 71, 27-05-87, Wismar, Arminia Bielefeld
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Paul Scharner, AUT, M, 1.91, 80, 11-03-80, Scheibbs, Retired
+33, Christian Nørgaard, DEN, M, 1.86, 75, 10-03-94, Copenhagen, Brøndby
+6, Dennis Aogo, GER, D, 1.83, 85, 14-01-87, Karlsruhe, Schalke (On Loan)
+25, Per Ciljan Skjelbreid, NOR, M, 1.75, 62, 16-06-87, Trondheim, Hertha Berlin (On Loan)
+10, Artjoms Rudņevs, LVA, F, 1.78, 80, 13-01-88, Daugvapils, Hannover 96 (On Loan)
+44, Gojko Kačar, SRB, M, 1.86, 79, 26-01-87, Novi Sad, Cerezo Osaka (On Loan)

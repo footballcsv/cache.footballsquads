@@ -1,0 +1,51 @@
+=  Lazio - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Strakosha, ALB, G, 1.93, 78, 19-03-95, Athens, Panionios
+3, Stefan de Vrij, NED, D, 1.88, 78, 05-02-92, Ouderkerk aan den IJssel, Feyenoord
+4, Patric, ESP, D, 1.84, 72, 17-04-93, Mula, Barcelona B
+5, Jordan Lukaku, BEL, D, 1.77, 86, 25-07-94, Antwerp, Oostende
+6, Lucas Leiva, BRA, M, 1.79, 78, 09-01-87, Dourados, Liverpool
+7, Nani, POR, F, 1.77, 68, 17-11-86, Praia, Valencia
+8, Dušan Basta, SRB, D, 1.83, 72, 18-08-84, Belgrade, Crvena Zvezda
+9, Filip Djordjević, SRB, F, 1.86, 80, 28-09-87, Belgrade, Nantes
+10, Felipe Anderson, BRA, M, 1.75, 70, 15-04-93, Brasília, Santos
+11, Luca Crecco, ITA, M, 1.83, 77, 06-09-95, Rome, None
+13, Wallace, BRA, D, 1.91, 85, 14-10-94, Rio de Janeiro, Sporting Braga
+15, Bastos, ANG, D, 1.80, 77, 23-11-91, Luanda, FC Rostov
+16, Marco Parolo, ITA, M, 1.84, 75, 25-01-85, Gallarate, Parma
+17, Ciro Immobile, ITA, F, 1.85, 85, 20-02-90, Torre Annunziata, Sevilla
+18, Luis Alberto, ESP, M, 1.83, 74, 28-09-92, Jerez de la Frontera, Liverpool
+19, Senad Lulić, BIH, M, 1.83, 78, 18-01-86, Mostar, Young Boys
+20, Felipe Caicedo, ECU, F, 1.83, 82, 05-09-88, Guayaquil, Espanyol
+21, Sergej Milinković-Savić, SRB, M, 1.91, 76, 27-02-95, Lleida, KRC Genk
+22, Martín Cáceres, URU, D, 1.80, 78, 07-04-87, Montevideo, Verona
+23, Guido Guerrieri, ITA, G, 1.84, 78, 25-02-96, Rome, None
+25, Ivan Vargić, CRO, G, 1.92, 93, 15-03-87, Osijek, Rijeka
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+27, Luiz Felipe, BRA, D, 1.87, 80, 22-03-97, Colina, Ituano
+30, Pedro Neto, POR, F, 1.72, 62, 09-03-00, Viana do Castelo, Sporting Braga
+31, Nicolò Armini, ITA, D, 1.85, 77, 07-03-01, Marino, None
+32, Alessio Miceli, ITA, M, 1.79, 74, 31-08-99, Rome, None
+34, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Deportivo Cali
+35, Mattia Petricca, ITA, D, 1.79, , 17-02-01, Rome, None
+36, Edoardo Rezzi, ITA, F, 1.85, 74, 03-07-99, Rome, None
+38, Lorenzo Spurio, ITA, F, 1.71, 67, 12-04-99, Rome, None
+39, Federico Cirillo, ITA, G, , , 21-02-01, Rome, None
+66, Bruno Jordão, POR, M, 1.80, 71, 12-10-98, Marinha Grande, Sporting Braga
+77, Adam Marušić, SRB, M, 1.85, 85, 17-10-92, Belgrade, Oostende
+88, Davide Di Gennaro, ITA, M, 1.80, 72, 16-06-88, Milan, Cagliari
+96, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, None
+99, Abukar Mohamed, FIN, M, 1.86, 80, 01-01-99, Mogadishu, TPS Turku
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Wesley Hoedt, NED, D, 1.88, 77, 06-03-94, Alkmaar, Southampton
+14, Keita Baldé, SEN, F, 1.84, 80, 08-03-95, Arbúcies, Monaco
+7, Ricardo Kishna, NED, F, 1.83, 77, 04-01-95, Den Haag, ADO Den Haag (On Loan)
+25, Cristiano Lombardi, ITA, F, 1.79, 73, 19-08-95, Viterbo, Benevento (On Loan)
+29, Simone Palombi, ITA, F, 1.82, 70, 23-04-96, Tivoli, Salernitana (On Loan)
+22, Federico Marchetti, ITA, G, 1.88, 82, 07-02-83, Bassano del Grappa, De-Registered
+70, Chris Ikonomidis, AUS, M, 1.80, 80, 04-05-95, Sydney, Western Sydney W (On Loan)
+33, Maurício, BRA, D, 1.85, 77, 20-09-88, São Paulo, Legia Warszawa (On Loan)

@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2014/15
+
+18 teams
+- [Akhisar Belediyespor](akhisar.txt)
+- [Balıkesirspor](balikesir.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Erciyesspor](erciyes.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [İstanbul Başakşehir](istanbul.txt)
+- [Karabükspor](karabuk.txt)
+- [Kasımpaşa](kasim.txt)
+- [Konyaspor](konya.txt)
+- [Mersin İdman Yurdu](mersin.txt)
+- [Rizespor](rizespor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

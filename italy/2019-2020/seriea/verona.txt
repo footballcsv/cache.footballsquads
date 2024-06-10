@@ -1,0 +1,56 @@
+=  Verona - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Silvestri, ITA, G, 1.91, 80, 02-03-91, Castelnovo ne' Monti, Leeds U
+4, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Genoa
+5, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Crotone
+6, Matteo Lovato, ITA, D, 1.88, 74, 14-02-00, Monselice, Padova
+7, Emmanuel Agyemang-Badu, GHA, M, 1.73, 71, 02-12-90, Berekum, Udinese
+8, Valentin Eysseric, FRA, M, 1.81, 73, 25-03-92, Aix-en-Provence, Fiorentina
+9, Mariusz Stępiński, POL, F, 1.83, 62, 12-05-95, Sieradz, Chievo Verona
+10, Samuel Di Carmine, ITA, F, 1.87, 78, 29-09-88, Florence, Perugia
+11, Giampaolo Pazzini, ITA, F, 1.80, 77, 02-08-84, Pescia, Milan
+13, Amir Rrahmani, KVX, D, 1.92, 83, 24-02-94, Prishtina, Napoli
+14, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Sampdoria
+15, Salvatore Bocchetti, ITA, D, 1.86, 81, 30-11-86, Naples, Spartak Moscow
+16, Fabio Borini, ITA, F, 1.80, 73, 29-03-91, Bentivoglio, Milan
+18, Lucas Felippe, BRA, M, 1.78, 74, 03-05-00, São Paulo, Taboão da Serra
+19, Bogdan Jočić, SRB, M, 1.81, 67, 11-01-01, Belgrade, Crvena Zvezda
+20, Mattia Zaccagni, ITA, M, 1.77, 63, 16-06-95, Cesena, Bellaria
+21, Koray Günter, GER, D, 1.84, 79, 16-08-94, Höxter, Genoa
+22, Alessandro Berardi, ITA, G, 1.85, 78, 16-01-91, Rome, Bari
+23, Federico Dimarco, ITA, D, 1.75, 72, 10-11-97, Milan, Internazionale
+24, Marash Kumbulla, ALB, D, 1.85, 78, 08-02-00, Peschiera del Garda, None
+25, Andrea Danzi, ITA, M, 1.75, 70, 25-02-99, San Martino Buon Albergo, None
+26, Bernardo Calabrese, ITA, D, 1.87, 75, 25-04-02, Verona, None
+27, Paweł Dawidowicz, POL, M, 1.89, 80, 20-05-95, Olsztyn, Benfica
+28, Filippo Terracciano, ITA, M, 1.81, 68, 08-02-03, Verona, None
+29, Eddie Salcedo, ITA, F, 1.78, 74, 01-10-01, Genoa, Internazionale
+30, Eugenio Bracelli, ITA, D, 1.88, , 25-01-02, Grudziądz, Pro Sesto
+31, Christian Pierobon, ITA, M, 1.88, 74, 26-03-02, Feltre, Union Feltre
+32, Matteo Pessina, ITA, M, 1.87, 75, 21-04-97, Monza, Atalanta
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Foggia
+34, Sofyan Amrabat, MAR, M, 1.85, 70, 21-08-96, Huizen, Fiorentina
+35, Philip Yeboah, GHA, F, 1.82, 70, 27-09-02, Drobo, None
+39, Destiny Udogie, ITA, D, 1.78, 67, 28-11-02, Verona, None
+77, Dorian Ciężkowski, POL, G, 1.87, 73, 22-03-01, Kraków, Progres Kraków
+88, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Genoa
+96, Boris Radunović, SRB, G, 1.94, 84, 26-05-96, Belgrade, Atalanta
+98, Claud Adjapong, ITA, D, 1.80, 74, 06-05-98, Modena, Sassuolo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Luca Marrone, ITA, D, 1.86, 75, 28-03-90, Turin, Crotone (On Loan)
+9, Lee Seung-Woo, KOR, F, 1.73, 63, 06-01-98, Suwon, Sint-Truiden
+90, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Messina, Spezia (On Loan)
+16, Abdoulaye Traoré, ITA, F, 1.80, 70, 30-04-00, Attécoubé, Rende (On Loan)
+99, Nicola Borghetto, ITA, G, 1.88, 75, 25-11-99, Jesolo, Bisceglie (On Loan)
+66, Gennaro Tutino, ITA, F, 1.77, 69, 20-08-96, Naples, Napoli
+19, Ľubomír Tupta, SVK, F, 1.80, 72, 27-03-98, Prešov, Wisła Kraków (On Loan)
+8, Liam Henderson, SCO, M, 1.83, 78, 25-04-96, Livingston, Empoli (On Loan)
+12, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Goiás (On Loan)
+17, Alessandro Crescenzi, ITA, D, 1.78, 81, 25-09-91, Marino, Cremonese (On Loan)
+30, Wesley, BRA, D, 1.77, 66, 13-03-00, Retirolândia, Juventus
+3, Luigi Vitale, ITA, D, 1.80, 71, 05-10-87, Castellammare di Stabia, Spezia (On Loan)
+23, Antonio Di Gaudio, ITA, F, 1.69, 63, 16-08-89, Palermo, Spezia (On Loan)

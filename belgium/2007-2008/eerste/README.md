@@ -1,0 +1,21 @@
+# Belgian Eerste Klasse 2007/08
+
+18 teams
+- [Anderlecht](ander.txt)
+- [Cercle Brugge](cercbrug.txt)
+- [Club Brugge](clubbrug.txt)
+- [FC Brussels](brussels.txt)
+- [Charleroi](charleroi.txt)
+- [FCV Dender EH](dender.txt)
+- [KRC Genk](genk.txt)
+- [KAA Gent](gent.txt)
+- [Germinal Beerschot](germinal.txt)
+- [Lokeren](lokeren.txt)
+- [Mechelen](mechelen.txt)
+- [RAEC Mons](mons.txt)
+- [Excelsior Mouscron](mouscron.txt)
+- [KSV Roeselare](roesel.txt)
+- [Sint-Truiden](sinttru.txt)
+- [Standard Liège](standard.txt)
+- [KVC Westerlo](westerlo.txt)
+- [Zulte-Waregem](zultewar.txt)

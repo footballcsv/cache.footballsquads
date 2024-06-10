@@ -1,0 +1,64 @@
+=  Fulham - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, None
+3, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Chelsea
+4, Denis Odoi, BEL, D, 1.78, 67, 27-05-88, Leuven, Lokeren
+5, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Swansea C
+6, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Wolverhampton W
+7, Neeskens Kebano, COD, M, 1.80, 75, 10-03-92, Montereau, KRC Genk
+8, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, Celtic
+9, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Newcastle U
+10, Tom Cairney, SCO, M, 1.83, 72, 20-01-91, Nottingham, Blackburn R
+12, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, MFK Košice
+13, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Bolton W
+14, Bobby Reid, ENG, M, 1.70, 61, 02-02-93, Bristol, Cardiff C
+15, Terence Kongolo, NED, D, 1.83, 70, 14-02-94, Rotterdam, Huddersfield T
+18, Harry Arter, IRL, M, 1.76, 70, 28-12-89, Eltham, Bournemouth
+19, Ivan Cavaleiro, POR, M, 1.75, 73, 18-10-93, Vialonga, Wolverhampton W
+20, Maxime Le Marchand, FRA, D, 1.80, 68, 10-11-89, Saint Malo, Nice
+21, Harrison Reed, ENG, M, 1.81, 72, 27-01-95, Worthing, Southampton
+22, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Middlesbrough
+23, Joe Bryan, ENG, D, 1.70, 72, 17-09-93, Bristol, Bristol C
+24, Anthony Knockaert, FRA, M, 1.72, 69, 20-11-91, Lille, Brighton & HA
+25, Joshua Onomah, ENG, M, 1.85, 83, 27-04-97, Enfield, Tottenham H
+26, Jordan Archer, SCO, G, 1.86, 80, 12-04-93, Walthamstow, Oxford U
+28, Marlon Fossey, USA, D, 1.79, 76, 09-09-98, Los Angeles, None
+32, Magnus Norman, ENG, G, 1.91, 82, 19-01-97, Kingston upon Thames, None
+33, Matt O'Riley, ENG, M, 1.87, 77, 21-11-00, Hounslow, None
+35, Tyrese Francois, AUS, D, 1.67, 56, 16-07-00, Campbell Town, None
+36, Luca De La Torre, USA, M, 1.75, 63, 23-05-98, San Diego, None
+38, Ben Davis, SIN, M, 1.72, 59, 24-11-00, Phuket, None
+39, Martell Taylor-Crossdale, ENG, F, 1.85, 77, 26-12-99, Edmonton, Chelsea
+40, George Wickens, ENG, G, , , 08-11-01, Petersfield, None
+41, Luca Ashby-Hammond, ENG, G, 1.84, 75, 25-03-01, Kingston upon Thames, None
+42, Cody Drameh, ENG, D, 1.75, 69, 08-12-01, Lambeth, None
+43, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, None
+45, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, None
+46, Jayden Harris, ENG, M, 1.88, 79, 04-09-99, Croydon, None
+47, Aboubakar Kamara, FRA, F, 1.78, 80, 07-03-95, Gonesse, Amiens
+48, Fabio Carvalho, ENG, M, 1.70, 62, 30-08-02, Lisbon, None
+49, Jaydn Mundle-Smith, ENG, D, 1.83, 75, 17-12-99, Lambeth, None
+50, Cameron Thompson, ENG, F, 1.70, 75, 21-02-00, London, None
+51, Nicolás Santos-Clase, ESP, F, 1.84, 78, 07-02-00, Santander, Racing Santander
+52, Ben Tricker, ENG, D, , , 20-12-00, , Watford
+53, Damian Las, USA, G, 1.85, 72, 11-04-02, Des Plaines, Chicago Fire
+54, Luca Murphy, ENG, D, , , 25-09-01, Sunderland, Hartlepool U
+56, Sonny Hilton, ENG, M, 1.65, 57, 30-01-01, Liverpool, Tranmere R
+57, Ryan De Havilland, ENG, M, 1.78, 64, 15-06-01, Wimbledon, None
+58, Sylvester Jasper, ENG, M, , , 13-09-01, Southwark, None
+59, Zico Asare, ENG, D, 1.76, 78, 11-04-01, Hammersmith, None
+60, Connor McAvoy, SCO, D, , , 16-02-02, Chertsey, None
+61, Jay Stansfield, ENG, F, , , 24-11-02, Exeter, Exeter C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Ryan Sessegnon, ENG, M, 1.78, 71, 18-05-00, Roehampton, Tottenham H
+17, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Sporting Braga
+11, Floyd Ayité, TOG, F, 1.74, 68, 15-12-88, Bordeaux, Gençlerbirliği
+31, Fabricio, ESP, G, 1.85, 77, 31-12-87, Las Palmas, Mallorca (On Loan)
+34, Jerome Opoku, ENG, D, 1.94, 79, 14-10-98, Lambeth, Accrington Stanley (On Loan)
+37, Tayo Edun, ENG, D, 1.77, 63, 14-05-98, Islington, Lincoln C
+55, Timmy Abraham, ENG, F, 1.85, 77, 28-12-00, Lambeth, Bristol R (On Loan)
+44, Ibrahima Cissé, GUI, M, 1.84, 77, 28-02-94, Liège, 

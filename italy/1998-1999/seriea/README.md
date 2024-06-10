@@ -1,0 +1,21 @@
+# Italian Serie A 1998/99
+
+18 teams
+- [Bari](bari.txt)
+- [Bologna](bologna.txt)
+- [Cagliari](cagliari.txt)
+- [Empoli](empoli.txt)
+- [Fiorentina](fiorenti.txt)
+- [Internazionale](inter.txt)
+- [Juventus](juventus.txt)
+- [Lazio](lazio.txt)
+- [Milan](milan.txt)
+- [Parma](parma.txt)
+- [Perugia](perugia.txt)
+- [Piacenza](piacenza.txt)
+- [Roma](roma.txt)
+- [Salernitana](salern.txt)
+- [Sampdoria](sampdor.txt)
+- [Udinese](udinese.txt)
+- [Venezia](venezia.txt)
+- [Vicenza](vicenza.txt)

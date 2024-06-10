@@ -1,0 +1,21 @@
+# Mexican Primera División 2005 Clausura
+
+18 teams
+- [América](america.txt)
+- [Atlante](atlante.txt)
+- [Atlas](atlas.txt)
+- [Cruz Azul](cruzazul.txt)
+- [Dorados de Sinaloa](dorados.txt)
+- [Guadalajara](guadal.txt)
+- [Jaguares de Chiapas](jaguares.txt)
+- [Monterrey](monter.txt)
+- [Morelia](morelia.txt)
+- [Necaxa](necaxa.txt)
+- [Pachuca](pachuca.txt)
+- [Puebla](puebla.txt)
+- [Santos Laguna](santos.txt)
+- [Toluca](toluca.txt)
+- [UAG Tecos](uagtecos.txt)
+- [UANL Tigres](uanltig.txt)
+- [UNAM](unam.txt)
+- [Veracruz](veracruz.txt)

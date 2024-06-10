@@ -1,0 +1,46 @@
+=  Cesena - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Leali, ITA, G, 1.88, 87, 17-02-93, Castiglione delle Stiviere, Juventus
+2, Constantin Nica, ROU, D, 1.85, 81, 18-03-93, Afumaţi, Atalanta
+4, Luca Valzania, ITA, M, 1.83, 72, 05-03-96, Cesena, None
+5, Luigi Giorgi, ITA, M, 1.85, 75, 19-04-87, Ascoli Piceno, Atalanta
+6, Stefano Lucchini, ITA, D, 1.86, 76, 02-10-80, Codogno, Atalanta
+7, Carlos Carbonero, COL, M, 1.80, 77, 25-07-90, Bogotá, River Plate
+8, Giuseppe De Feudis, ITA, M, 1.71, 69, 10-07-83, Bollate, Padova
+9, Alejandro Rodríguez, ESP, F, 1.80, 76, 30-07-91, Barcelona, None
+11, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Atalanta
+13, Matteo Gasperi, ITA, M, 1.84, 75, 17-07-97, Forlì, None
+14, Massimo Volta, ITA, D, 1.84, 70, 14-05-87, Desenzano del Garda, Sampdoria
+15, Luka Krajnc, SVN, D, 1.88, 83, 19-09-94, Ptuj, Genoa
+16, Alberto Iglio, ITA, G, 1.85, 84, 20-04-96, Benevento, None
+17, Hörður Magnússon, ISL, D, 1.90, 81, 11-02-93, Reykjavík, Juventus
+18, Milan Djurić, BIH, F, 1.98, 80, 22-05-90, Tuzla, Parma
+19, Davide Succi, ITA, F, 1.84, 78, 11-10-81, Bologna, Palermo
+20, Davide Mordini, ITA, D, 1.80, 72, 30-08-96, Recanati, None
+22, Abdul Yabré, BFA, M, 1.78, 71, 03-04-95, Casandrino, None
+23, Andrea Tabanelli, ITA, M, 1.92, 75, 02-02-90, Ravenna, None
+24, Gabriele Perico, ITA, D, 1.83, 79, 11-03-84, Bergamo, Cagliari
+25, Daniele Capelli, ITA, D, 1.84, 85, 20-06-86, Calcinate, Atalanta
+26, Gaby Mudingayi, BEL, M, 1.80, 80, 01-10-81, Kinshasa, Elche
+27, Nicola Dalmonte, ITA, F, 1.68, 62, 13-09-97, Ravenna, None
+28, Riccardo Gaiola, ITA, M, , , 01-04-96, Padua, Internazionale
+30, Federico Agliardi, ITA, G, 1.90, 82, 11-02-83, Brescia, Bologna
+32, Gabriele Moncini, ITA, F, 1.84, 74, 26-04-96, Pistoia, Juventus
+33, Francesco Renzetti, ITA, D, 1.74, 70, 22-01-88, Monte Carlo, Padova
+34, Emmanuel Cascione, ITA, M, 1.87, 77, 22-09-83, Catanzaro, Parma
+36, Lorenzo Saporetti, ITA, D, 1.87, 79, 19-03-96, Forlì, Milan
+44, Riccardo Cazzola, ITA, M, 1.88, 84, 08-10-85, Verona, Atalanta
+56, Nico Pulzetti, ITA, M, 1.76, 70, 13-02-84, Rimini, Bologna
+77, Zé Eduardo, BRA, M, 1.86, 80, 16-08-91, Uberaba, Parma
+81, Walter Bressan, ITA, G, 1.82, 78, 26-01-81, Oderzo, Varese
+89, Guido Marilungo, ITA, F, 1.75, 72, 09-08-89, Montegranaro, Atalanta
+92, Grégoire Defrel, FRA, F, 1.80, 79, 17-06-91, Meudon, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+61, Luca Garritano, ITA, F, 1.71, 64, 11-02-94, Cosenza, Modena (On Loan)
+10, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Catania
+27, Hugo Almeida, POR, F, 1.91, 93, 23-05-84, Figueira da Foz, Kuban Krasnodar
+3, Antonio Mazzotta, ITA, D, 1.85, 73, 02-08-89, Palermo, Catania (On Loan)

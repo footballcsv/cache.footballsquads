@@ -1,0 +1,57 @@
+=  Cremonese - Italian Serie B 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Ravaglia, ITA, G, 1.84, 83, 12-12-88, Forlì, Parma
+2, Matteo Procopio, ITA, D, 1.77, 76, 04-07-96, Turin, Torino
+3, Claiton dos Santos, BRA, D, 1.88, 79, 07-09-84, Santa Helena de Goiás, Crotone
+4, Giovanni Sbrissa, ITA, M, 1.85, 80, 25-09-96, Castelfranco Veneto, Sassuolo
+5, Daniele Croce, ITA, M, 1.73, 70, 09-09-82, Giulianova, Empoli
+6, Gaetano Castrovilli, ITA, F, 1.79, 72, 17-02-97, Canosa di Puglia, Fiorentina
+7, Antonio Piccolo, ITA, F, 1.75, 70, 07-04-88, Naples, Spezia
+8, Michele Cavion, ITA, M, 1.80, 73, 08-12-94, Schio, Juventus
+9, Andrea Brighenti, ITA, F, 1.79, 79, 02-12-87, Bussolengo, Renate
+10, Paulinho, BRA, F, 1.76, 72, 10-01-86, Caxias do Sul, Al-Arabi [QAT]
+11, Gianluca Scamacca, ITA, F, 1.95, 85, 01-01-99, Rome, Sassuolo
+12, Andrea Rossi, ITA, G, 1.85, , 16-11-99, Scannabue, None
+13, Tommaso Guindani, ITA, M, , , 29-11-99, Cremona, None
+14, Benjamin Mokulu, BEL, F, 1.87, 89, 11-10-89, Brussels, Avellino
+15, Ivan Marconi, ITA, D, 1.83, 79, 25-10-89, Brescia, Savona
+16, Eduardo D'Avino, ITA, G, 1.90, 83, 17-01-97, Rome, AltoVicentino
+17, Tommaso Spaviero, ITA, F, , , 26-04-99, Broni, Internazionale
+18, Simone Pesce, ITA, M, 1.73, 69, 10-07-82, Latina, Novara
+19, Stefano Scappini, ITA, F, 1.81, 74, 02-02-88, Perugia, Pontedera
+20, Giampietro Perrulli, ITA, M, 1.71, 71, 08-06-85, Rome, Lupa Roma
+21, Michele Canini, ITA, D, 1.86, 87, 05-06-85, Brescia, Atalanta
+22, Davide Barosi, ITA, G, 1.85, 77, 30-03-00, Asola, Juventus
+23, Davide Cinaglia, ITA, D, 1.83, 75, 10-04-94, Rome, Ascoli
+24, Filippo Forni, ITA, D, 1.92, 76, 09-04-99, Codogno, None
+25, Luca Viola, ITA, M, , , 19-04-99, Bergamo, None
+26, Riccardo Bignami, ITA, D, 1.84, 72, 04-05-00, Cremona, None
+27, Samir Ujkani, KVX, G, 1.88, 87, 05-07-88, Resnik, Genoa
+28, Tommaso Putzolu, ITA, M, 1.82, , 30-03-99, Carate Brianza, Internazionale
+29, Alberto Almici, ITA, D, 1.79, 75, 11-01-93, Lovere, Atalanta
+30, Abel Camará, GNB, F, 1.85, 81, 06-01-90, Bissau, Pafos
+31, Roman Macek, CZE, M, 1.88, 73, 18-04-97, Zlín, Juventus
+32, Juan Ignacio Gómez, ARG, F, 1.80, 75, 20-05-85, Santa Fe, Verona
+33, Francesco Renzetti, ITA, D, 1.73, 70, 22-01-88, Monte Carlo, Genoa
+34, Mariano Arini, ITA, M, 1.78, 74, 17-01-87, Naples, SPAL
+35, Antonio Cinelli, ITA, M, 1.78, 72, 08-12-89, Rome, Chievo Verona
+36, Daniele Galloppa, ITA, M, 1.80, 74, 15-05-85, Rome, Modena
+37, Giacomo Massari, ITA, D, , , 30-09-99, Rimini, Modena
+38, Federico Bertolotti, ITA, D, , , 12-02-99, Crema, None
+39, Manuel Poledri, ITA, M, , , 06-08-00, Manerbio, None
+40, Pol García Tena, ESP, D, 1.85, 71, 18-02-95, Terrassa, Juventus
+41, Andrea Gallina, ITA, D, 1.89, , 22-04-99, Treviso, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Luca Belingheri, ITA, M, 1.83, 70, 06-04-83, Lovere, Padova
+10, Pasquale Maiorino, ITA, M, 1.70, 70, 21-06-89, Taranto, Livorno
+16, Giacomo Zecca, ITA, M, , , 06-07-97, Piacenza, Sassuolo
+37, Walter Zullo, ITA, D, 1.88, 85, 03-05-90, Benevento, Pistoiese (On Loan)
+32, Alessio Ruci, ALB, M, 1.82, 77, 31-01-96, Castiglione del Lago, L'Aquila
+28, Davide Moro, ITA, M, 1.76, 69, 02-01-82, Taranto, Audace Cerignola
+4, Simone Salviato, ITA, D, 1.87, 84, 12-07-87, Padua, Padova
+23, Fabio Scarsella, ITA, M, 1.83, 79, 19-07-89, Alatri, Trapani (On Loan)
+11, Francesco Stanco, ITA, F, 1.91, 80, 26-02-87, Pavullo nel Frignano, Sambenedettese

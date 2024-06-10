@@ -1,0 +1,21 @@
+# Belgian Pro League 2008/09
+
+18 teams
+- [Anderlecht](ander.txt)
+- [Cercle Brugge](cercbrug.txt)
+- [Club Brugge](clubbrug.txt)
+- [Charleroi](charleroi.txt)
+- [FCV Dender EH](dender.txt)
+- [KRC Genk](genk.txt)
+- [KAA Gent](gent.txt)
+- [Germinal Beerschot](germinal.txt)
+- [Kortrijk](kortrijk.txt)
+- [Lokeren](lokeren.txt)
+- [Mechelen](mechelen.txt)
+- [RAEC Mons](mons.txt)
+- [Excelsior Mouscron](mouscron.txt)
+- [KSV Roeselare](roesel.txt)
+- [Standard Liège](standard.txt)
+- [Tubize](tubize.txt)
+- [KVC Westerlo](westerlo.txt)
+- [Zulte-Waregem](zultewar.txt)

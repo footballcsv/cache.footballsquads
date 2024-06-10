@@ -1,0 +1,48 @@
+=  Rubin Kazan - Russian Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Volk, RUS, G, 1.90, 77, 11-04-01, Kazan, Neftekhimik Nizhnekamsk
+2, Carl Starfelt, SWE, D, 1.85, 81, 01-06-95, Stockholm, IFK Göteborg
+3, Konstantin Pliyev, RUS, D, 1.81, 60, 26-10-96, Vladikavkaz, FC Rostov
+4, Silvije Begić, CRO, D, 1.97, 87, 03-06-93, Imotski, FC Orenburg
+5, Filip Uremović, CRO, D, 1.84, 81, 11-02-97, Požega, Olimpija Ljubljana
+7, Vyacheslav Podberezkin, RUS, M, 1.87, 76, 21-06-92, Moscow, FC Krasnodar
+8, Darko Jevtić, SUI, M, 1.77, 62, 08-02-93, Basel, Lech Poznań
+10, Igor Konovalov, RUS, M, 1.80, 70, 08-07-96, Belorechensk, Kuban Krasnodar
+11, Zuriko Davitashvili, GEO, M, 1.75, 69, 15-02-01, Tbilisi, Locomotive Tbilisi
+12, Aleksandr Zuev, RUS, M, 1.75, 62, 26-06-96, Kostanay, FC Rostov
+14, Vladimir Granat, RUS, D, 1.84, 80, 22-05-87, Ulan-Ude, FC Rostov
+15, Dmitriy Tarasov, RUS, M, 1.88, 73, 18-03-87, Tomsk, Lokomotiv Moscow
+18, Pavel Mogilevets, RUS, M, 1.83, 70, 25-01-93, Kingisepp, FC Rostov
+19, Ivan Ignatyev, RUS, F, 1.80, 72, 06-01-99, Achinsk, FC Krasnodar
+20, Yevgeniy Markov, RUS, F, 1.87, 78, 07-07-94, St. Petersburg, Dynamo Moscow
+21, Khvicha Kvaratskhelia, GEO, M, 1.83, 70, 12-02-01, Tbilisi, FC Rustavi
+22, Yuri Dyupin, RUS, G, 1.86, 79, 17-03-88, Barnaul, Anzhi Makhachkala
+23, Ivan Konovalov, RUS, G, 1.91, 82, 18-08-94, Balashikha, Torpedo Zhodino
+25, Denis Makarov, RUS, M, 1.81, 75, 18-02-98, Tolyatti, Neftekhimik Nizhnekamsk
+27, Pablo Santos, BRA, D, 1.85, 77, 18-03-92, Tomé-Açu, Sporting Braga
+28, Oliver Abildgaard, DEN, M, 1.75, 66, 10-06-96, Hasseris, Aalborg
+33, Oleh Danchenko, UKR, D, 1.78, 64, 01-08-94, Zaporizhya, Shakhtar Donetsk
+56, Maksim Sedov, RUS, M, 1.78, 68, 02-07-00, Perm, Amkar Perm-2
+59, Nikita Makarov, RUS, M, 1.80, 75, 02-01-01, Ulyanovsk, Rubin-2
+69, Danil Stepanov, RUS, D, 1.72, 68, 25-01-00, Kazan, Rubin-2
+71, Nikolai Poyarkov, RUS, D, 1.78, 65, 16-10-99, Yefremov, FC Rostov
+77, Ilya Samoshnikov, RUS, D, 1.77, 64, 14-11-97, Moscow, Torpedo Moscow
+87, Soltmurad Bakayev, RUS, M, 1.78, 70, 05-08-99, Nazran, Spartak Moscow-2
+88, Aleksandr Tashaev, RUS, M, 1.77, 74, 23-06-94, Moscow, Spartak Moscow
+93, Aleksey Gorodovoy, RUS, G, 1.91, 82, 10-08-93, Stavropol, Kongsvinger
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Vladislav Mikushin, RUS, D, 1.87, 75, 18-04-01, Tomsk, Fakel Voronezh (On Loan)
+9, Artur Sagitov, RUS, F, 1.85, 77, 07-01-00, Yelabuga, FC Nizhny Novgorod (On Loan)
+80, Egor Sorokin, RUS, D, 1.89, 81, 04-11-95, St. Petersburg, FC Krasnodar
+29, Vitaliy Denisov, UZB, D, 1.78, 75, 23-02-87, Tashkent, Rotor Volgograd
+8, Viðar Örn Kjartansson, ISL, F, 1.74, 68, 11-03-90, Selfoss, FC Rostov
+77, Roman Akbashev, RUS, M, 1.77, 64, 01-11-91, Sterlitamak, Neftekhimik Nizhnekamsk
+26, Beka Mikeltadze, GEO, F, 1.85, 80, 26-11-97, Kutaisi, Rotor Volgograd (On Loan)
+70, Nikolai Kipiani, RUS, M, 1.80, 75, 25-01-97, Tbilisi, Rotor Volgograd (On Loan)
+51, Ilya Agapov, RUS, D, 1.74, 73, 21-01-01, Kazan, Neftekhimik Nizhnekamsk (On Loan)
+99, Kamil Zakirov, RUS, M, 1.74, 65, 15-11-98, Ulyanovsk, Volgar Astrakhan (On Loan)
+6, Evgeniy Bashkirov, RUS, M, 1.73, 63, 06-07-91, St. Petersburg, Zagłębie Lubin

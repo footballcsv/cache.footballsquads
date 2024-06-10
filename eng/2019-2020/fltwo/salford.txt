@@ -1,0 +1,55 @@
+=  Salford City - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Fleetwood T
+2, Scott Wiseman, GIB, D, 1.83, 73, 09-10-85, Hull, Chesterfield
+3, Ibou Touray, GAM, D, 1.77, 68, 24-12-94, Liverpool, Nantwich T
+4, Oscar Threlkeld, ENG, D, 1.84, 78, 15-02-94, Bolton, Waasland-Beveren
+5, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Fleetwood T
+7, Luke Armstrong, ENG, F, 1.86, 70, 02-07-96, Durham, Middlesbrough
+11, Tom Elliott, ENG, F, 1.93, 86, 09-11-90, Leeds, Millwall
+12, Kyle Letheren, WAL, G, 1.88, 83, 26-12-87, Swansea, Plymouth Arg
+13, Sam Hughes, ENG, D, 1.87, 80, 15-04-97, West Kirby, Leicester C
+14, Josh Askew, ENG, D, , , 20-02-98, Ashton-under-Lyne, Blackburn R
+15, Cameron Burgess, AUS, D, 1.94, 81, 21-10-95, Aberdeen, Scunthorpe U
+16, Jack Baldwin, ENG, D, 1.85, 70, 30-06-93, Redbridge, Sunderland
+17, Richie Towell, IRL, M, 1.73, 66, 17-07-91, Dublin, Brighton & HA
+19, Mark Shelton, ENG, M, 1.83, 70, 12-09-96, Nottingham, Alfreton T
+22, Dan Jones, ENG, D, 1.83, 79, 14-12-94, Bishop Auckland, Barrow
+23, Nathan Pond, ENG, D, 1.90, 70, 05-01-85, Preston, Fleetwood T
+24, Martin Smith, ENG, M, 1.78, 70, 25-01-96, Sunderland, Swindon T
+25, Joe Jones, NIR, M, 1.85, 71, 15-04-94, Kingston upon Thames, Eastleigh
+26, Bruno Andrade, POR, M, 1.75, 74, 02-10-93, Viseu, Lincoln C
+27, Kieran Glynn, ENG, M, , , 14-12-97, Oldham, FCUM
+28, Brandon Thomas-Asante, GHA, F, 1.80, 80, 29-12-98, Milton Keynes, Ebbsfleet U
+29, Michael O'Connor, NIR, M, 1.85, 79, 06-10-87, Belfast, Lincoln C
+31, Ewan McFarlane, ENG, G, , , , , Oldham Ath
+32, Jake Jervis, ENG, F, 1.93, 82, 17-09-91, Birmingham, Luton T
+33, William Evans, ENG, G, , , , , None
+34, Alex Doyle, ENG, M, , , , , None
+35, Sam Adetiloye, ENG, D, , , , , None
+36, Anointed Chukwu, NGA, F, , , , , None
+38, Brandon Lockett, ENG, M, , , , , None
+39, Kamar Moncrieffe, ENG, F, , , , , None
+43, Darron Gibson, IRL, M, 1.83, 90, 25-10-87, Derry, Wigan Ath
+44, Craig Conway, SCO, M, 1.70, 67, 02-05-85, Irvine, Blackburn R
+45, Ashley Hunter, ENG, F, 1.78, 67, 29-09-95, Derby, Fleetwood T
+46, Luke Burgess, ENG, M, 1.75, 66, 03-03-99, Liverpool, Wigan Ath
+47, George Tanner, ENG, D, 1.81, 71, 16-11-99, Blackpool, Manchester U
+49, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Aberdeen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Jake Beesley, ENG, F, 1.85, 67, 02-12-96, Sheffield, Solihull Moors
+41, Mark Howard, ENG, G, 1.83, 76, 21-09-86, Southwark, Blackpool
+6, Carl Piergianni, ENG, D, 1.85, 85, 03-05-92, Peterborough, Oldham Ath (On Loan)
+11, Tom Walker, ENG, M, 1.82, 76, 12-12-95, Salford, AFC Fylde
+21, Devante Rodney, ENG, F, 1.78, 69, 19-05-98, Manchester, FC Halifax T (On Loan)
+20, Mani Dieseruvwe, ENG, F, 1.96, 72, 05-01-94, Leeds, Oldham Ath (On Loan)
+10, Danny Lloyd, ENG, M, 1.73, 63, 03-12-91, Liverpool, Stockport Co (On Loan)
+18, Danny Whitehead, ENG, M, 1.79, 69, 23-10-93, Trafford, Macclesfield T (On Loan)
+8, Lois Maynard, SKN, M, 1.83, 86, 22-01-89, Cheetham Hill, Stockport Co
+5, Liam Hogan, ENG, D, 1.83, 77, 08-02-89, Salford, Stockport Co
+9, Adam Rooney, IRL, F, 1.78, 78, 21-04-88, Dublin, Solihull Moors
+30, Rory Gaffney, IRL, F, 1.83, 78, 23-10-89, Tuam, Shamrock R

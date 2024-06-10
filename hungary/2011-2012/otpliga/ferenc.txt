@@ -1,0 +1,59 @@
+=  Ferencváros - Hungarian OTP Bank Liga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Ranilovič, SVN, G, 1.88, 79, 25-11-86, Maribor, Maribor
+3, Mark Otten, NED, D, 1.79, 77, 02-09-85, Nijmegen, NEC Nijmegen
+4, Dániel Sváb, HUN, D, 1.83, 81, 02-09-90, Salgótarján, Salgótarján
+5, Péter Pölöskei, HUN, F, 1.86, 82, 06-09-91, Szekszárd, Paks
+7, Aleksandar Jovanović, SRB, M, 1.75, 70, 26-10-84, Sarajevo, Hajduk Kula
+8, György Józsi, HUN, M, 1.80, 70, 31-01-83, Zalaegerszeg, Győr
+10, Krisztián Lisztes, HUN, M, 1.81, 77, 02-07-76, Budapest, Vasas
+11, Lóránt Oláh, HUN, F, 1.80, 76, 23-11-79, Zenta, Kaposvár
+13, Ailton Júnior, BRA, F, 1.83, 73, 23-07-87, Guariba, Kaposvár
+14, Dávid Holman, HUN, M, 1.84, 81, 17-03-93, Budapest, None
+15, János Birtalan, HUN, D, 1.87, 84, 23-10-92, Budapest, None
+17, Bence Batik, HUN, D, 1.91, 84, 08-11-93, Szeged, Tisza Volán
+18, András Gárdos, HUN, F, 1.78, 69, 09-01-91, Budapest, Sheffield U
+19, Liban Abdi, SOM, F, 1.82, 72, 05-10-88, Burco, Sheffield U
+20, Dénes Rósa, HUN, M, 1.75, 66, 07-04-77, Budapest, Hibernian
+21, Norbert Zsivóczky, HUN, M, 1.83, 73, 16-02-88, Budapest, Lombard Pápa
+22, Attila Busai, HUN, M, 1.88, 77, 21-01-89, Budapest, Wil
+23, Bence Varga, HUN, F, 1.85, 88, 23-01-90, Budapest, Stuttgart II
+24, Bálint Nyilasi, HUN, F, 1.85, 79, 20-03-90, Budapest, None
+25, Béla Maróti, HUN, M, 1.80, 75, 07-05-79, Veszprém, Kaposvár
+26, Tamás Grúz, HUN, D, 1.86, 79, 08-11-85, Salgótarján, Kaposvár
+27, Dávid Kulcsár, HUN, M, 1.80, 80, 25-02-88, Miskolc, Vasas
+28, Dávid Gyenes, HUN, G, 1.87, 84, 18-04-86, Budapest, Vecsés
+29, Noel Fülöp, HUN, D, 1.83, 70, 29-01-88, Százhalombatta, Százhalombatta
+33, Balázs Vattai, HUN, D, 1.81, 83, 25-10-90, Budapest, None
+35, Héctor Gabriel Morales, ARG, F, 1.79, 68, 30-11-89, , Estudiantes (LP)
+37, Péter Országh, HUN, D, 1.83, 80, 27-07-90, Budapest, None
+40, Zoltán Végh, HUN, G, 1.87, 89, 07-04-71, Veszprém, Vasas
+41, Roland Kunsági, HUN, G, 1.87, 82, 17-04-90, Budapest, REAC
+44, Martin Klein, CZE, D, 1.87, 85, 02-07-84, Brno, Konyaspor
+51, Máté Vass, HUN, M, 1.79, 73, 17-10-90, Budapest, None
+55, Levente Jova, HUN, G, 1.87, 78, 30-01-92, Budapest, None
+60, Péter Pölöskei, HUN, F, 1.88, 87, 11-08-88, Budapest, Haladás
+69, Bence Hermány, HUN, G, 1.93, 84, 27-04-90, Budapest, None
+72, Gábor Rigó, HUN, G, 1.87, 85, 02-08-83, Tatabánya, Bicske
+77, Juha Hakola, FIN, F, 1.76, 70, 27-10-87, Espoo, Willem II
+78, Zoltán Balog, HUN, D, 1.82, 78, 22-02-78, Békés, Viborg
+88, Somália, BRA, F, 1.81, 76, 28-09-88, Rio de Janeiro, Bangu
+90, Viktor Peszmeg, HUN, M, 1.83, 78, 09-08-90, Budapest, MTK
+91, István Kovács, HUN, F, 1.86, 72, 17-06-91, Budapest, None
+97, Marko Šimić, CRO, F, 1.87, 79, 23-01-88, Rijeka, Vasas
+99, Gergõ Beliczky, HUN, F, 1.88, 84, 03-07-90, Budapest, Vasas
+, Márk Orosz, HUN, M, 1.86, 78, 24-10-89, Kecskemét, Tisza Volán
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, István Rodenbücher, HUN, D, 1.84, 78, 22-02-84, Németkér, Lombard Pápa
+17, Alison Silva, BRA, F, 1.80, 76, 21-07-88, Palmeras, 
+9, Felipe Félix, BRA, F, 1.96, 86, 20-04-85, Itanhaém, Botafogo
+15, Kazuo Homma, JPN, F, 1.75, 70, 17-03-80, Tokyo, 
+10, Andrezinho, BRA, M, 1.76, 73, 12-02-86, Igarapé, Paysandu
+87, László Fitos, HUN, M, 1.83, 77, 27-02-87, Budapest, Gyirmót
+30, Bence Tóth, HUN, M, 1.76, 65, 27-07-89, Szolnok, Lombard Pápa
+85, Csaba Csizmadia, HUN, D, 1.85, 86, 30-05-85, Târgu Mureş, Gyírmót
+27, Krisztián Lisztes, HUN, M, 1.81, 77, 02-07-76, Budapest, Re-Registered (10)

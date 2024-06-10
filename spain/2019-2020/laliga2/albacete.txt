@@ -1,0 +1,46 @@
+=  Albacete - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gabriel Brazão, BRA, G, 1.92, 75, 05-10-00, Uberlândia, Internazionale
+2, Álvaro Arroyo, ESP, D, 1.80, 71, 22-07-88, Madrid, Getafe
+3, Fran García, ESP, D, 1.77, 74, 07-12-92, Villarreal, Fuenlabrada
+4, Nicolás Gorosito, ARG, D, 1.86, 79, 17-08-88, Rafaela, Getafe
+5, Alberto Benito, ESP, D, 1.78, 68, 13-06-92, Tarragona, Zaragoza
+6, Diego Barri, ESP, M, 1.88, 75, 19-09-95, Salamanca, Getafe B
+7, Néstor Susaeta, ESP, M, 1.77, 74, 11-12-84, Eibar, Oviedo
+8, Manu Fuster, ESP, M, 1.69, 65, 22-10-97, Valencia, Guijuelo
+9, David Querol, ESP, F, 1.86, 76, 25-02-89, Reus, Cádiz
+10, Roman Zozulya, UKR, F, 1.75, 62, 17-11-89, Kyiv, Betis
+11, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Getafe
+12, Ion Erice, ESP, M, 1.76, 70, 03-11-86, Pamplona, Vancouver Whitecaps
+13, Tomeu Nadal, ESP, G, 1.90, 77, 08-02-89, Manacor, Mallorca
+14, Diego Caballo, ESP, D, 1.70, 66, 17-02-94, Salamanca, Extremadura
+15, Javier Acuña, PAR, F, 1.75, 70, 23-06-88, Asunción, Ratchaburi
+16, José Antonio Caro, ESP, D, 1.83, 70, 08-03-93, Estepa, Córdoba
+17, Karim Azamoum, FRA, M, 1.78, 74, 17-01-90, Rognac, Cádiz
+18, Sergio Sánchez, ESP, D, 1.85, 76, 03-04-86, Mataró, Cádiz
+19, Pedro, ESP, M, 1.78, 72, 12-12-86, Aspe, Deportivo La Coruña
+20, Eddy, AZE, M, 1.91, 84, 02-08-92, Roquetas de Mar, Alcorcón
+21, Dani Ojeda, ESP, F, 1.77, 72, 03-12-94, Las Palmas, Leganés
+22, Chema, ESP, M, 1.74, 64, 16-09-97, La Puebla del Río, Almería
+23, Ivan Kecojević, MNE, D, 1.84, 77, 10-04-88, Bar, Cádiz
+24, Maikel Mesa, ESP, M, 1.83, 66, 04-06-91, Santa Cruz de Tenerife, Las Palmas
+26, Víctor Segura, ESP, M, , , 14-07-00, , Albacete B
+28, Fer Navarro, ESP, D, , , 15-11-98, Albacete, Albacete B
+29, Fran Castillo, ESP, M, 1.75, 65, 30-01-97, Málaga, Albacete B
+30, Abdul Awudu, GHA, M, , , 10-01-01, Techiman, Spartans FC
+31, Adrián Rodríguez, ARG, G, 1.94, 83, 12-12-00, Palma de Mallorca, Real Madrid B
+32, Álvaro Hernáiz, ESP, M, , , 22-11-97, Madrid, Albacete B
+37, Luis Poblete, ESP, D, , , 16-01-97, Ciudad Real, Manchego Ciudad Real
+38, Miguel Ángel, ESP, F, , , 15-05-98, Casas-Ibáñez, Albacete B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Mirandés (On Loan)
+24, Jérémie Bela, ANG, M, 1.73, 69, 08-04-93, Melun, Birmingham C
+22, Rey Manaj, ALB, F, 1.82, 76, 24-02-97, Lushnjë, Barcelona B
+14, Roberto Olabe, ESP, M, 1.78, 70, 05-05-96, Salamanca, Eibar
+8, Leonardo Capezzi, ITA, M, 1.78, 72, 28-03-95, Figline Valdarno, Sampdoria
+40, Robert Ergas, URU, D, 1.81, 69, 15-01-98, Montevideo, Defensor Sporting
+30, Manu Fuster, ESP, M, 1.69, 65, 22-10-97, Valencia, Re-Registered (8)

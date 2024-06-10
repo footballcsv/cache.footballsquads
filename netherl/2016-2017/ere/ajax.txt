@@ -1,0 +1,42 @@
+=  Ajax - Dutch Eredivisie 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, None
+3, Joël Veltman, NED, D, 1.84, 75, 15-01-92, IJmuiden, None
+4, Jaïro Riedewald, NED, D, 1.86, 77, 09-09-96, Amsterdam, None
+5, Davinson Sánchez, COL, D, 1.87, 83, 12-06-96, Caloto, Atlético Nacional
+7, David Neres, BRA, F, 1.77, 74, 03-03-97, São Paulo, São Paulo
+8, Daley Sinkgraven, NED, M, 1.79, 66, 04-07-95, Assen, SC Heerenveen
+9, Bertrand Traoré, BFA, F, 1.80, 72, 06-09-95, Bobo-Dioulasso, Chelsea
+10, Davy Klaassen, NED, M, 1.85, 76, 21-02-93, Hilversum, None
+11, Amin Younes, GER, M, 1.68, 65, 06-08-93, Düsseldorf, B Mönchengladbach
+16, Heiko Westermann, GER, D, 1.90, 85, 14-08-83, Alzenau, Betis
+17, Václav Černý, CZE, F, 1.78, 70, 17-10-97, Příbram, Příbram
+19, Mateo Cassierra, COL, F, 1.86, 75, 13-04-97, Barbacoas, Deportivo Cali
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, NEC Nijmegen
+21, Frenkie de Jong, NED, M, 1.79, 69, 12-05-97, Arkel, Willem II
+22, Hakim Ziyech, MAR, M, 1.80, 70, 19-03-93, Dronten, FC Twente
+24, André Onana, CMR, G, 1.90, 82, 02-04-96, Nkol Ngok, Barcelona
+25, Kasper Dolberg, DEN, F, 1.87, 82, 06-10-97, Silkeborg, Silkeborg
+26, Nick Viergever, NED, D, 1.82, 72, 03-08-89, Capelle aan den IJssel, AZ Alkmaar
+30, Donny van de Beek, NED, M, 1.87, 73, 18-04-97, Nijkerkerveen, None
+33, Diederik Boer, NED, G, 1.94, 84, 24-09-80, Emmeloord, PEC Zwolle
+34, Abdelhak Nouri, NED, M, 1.70, 58, 02-04-97, Amsterdam, None
+36, Matthijs de Ligt, NED, D, 1.87, 80, 12-08-99, Leiderdorp, None
+40, Carel Eiting, NED, M, 1.81, 74, 11-02-98, Amsterdam, None
+42, Deyovaisio Zeefuik, NED, D, 1.85, 85, 11-03-98, Amsterdam, None
+43, Norbert Alblas, NED, G, 1.85, 80, 12-12-94, Amstelveen, None
+44, Pelle Clement, NED, M, 1.77, 66, 19-05-96, Amsterdam, None
+45, Justin Kluivert, NED, F, 1.75, 67, 05-05-99, Amsterdam, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Richairo Živković, NED, F, 1.87, 73, 05-09-96, Assen, FC Utrecht (On Loan)
+18, Robert Murić, CRO, F, 1.82, 75, 12-03-96, Varaždin, Pescara (On Loan)
+1, Jasper Cillessen, NED, G, 1.87, 82, 22-04-89, Groesbeek, Barcelona
+6, Riechedly Bazoer, NED, M, 1.85, 81, 12-10-96, Utrecht, Wolfsburg
+27, Nemanja Gudelj, SRB, M, 1.77, 73, 16-11-91, Belgrade, Tianjin Teda
+1, Tim Krul, NED, G, 1.88, 74, 03-04-88, Den Haag, Newcastle U
+7, Anwar El Ghazi, NED, F, 1.88, 76, 03-05-95, Barendrecht, Lille
+35, Mitchell Dijks, NED, D, 1.93, 90, 09-02-93, Purmerend, Norwich C (On Loan)

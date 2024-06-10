@@ -1,0 +1,52 @@
+=  Ceará - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Ricardo, BRA, G, 1.88, 78, 06-09-88, Mariano Moro, Chapecoense
+2, Igor, BRA, D, 1.85, 78, 20-04-98, João Pessoa, Juventude
+3, Messias, BRA, D, 1.90, 87, 03-11-94, São Mateus, América Mineiro
+5, William Oliveira, BRA, M, 1.82, 80, 25-02-92, Paracambi, Madureira
+6, Bruno Pacheco, BRA, D, 1.74, 74, 08-12-91, Pitangueiras, Chapecoense
+7, Airton, BRA, F, 1.78, 89, 02-02-99, Belém, Cruzeiro
+8, Fernando Sobral, BRA, M, 1.78, 70, 17-12-94, Sobral, Sampaio Corrêa
+9, Jael, BRA, F, 1.86, 85, 30-10-88, Várzea, FC Tokyo
+10, Stiven Mendoza, COL, F, 1.71, 73, 27-06-92, Palmira, Amiens
+11, Yony González, COL, M, 1.82, 75, 11-07-94, Medellín, Benfica
+12, Davi Schneider, BRA, G, -, -, 10-10-02, -, Brasil de Pelotas
+13, Luiz Otávio, BRA, D, 1.90, 84, 14-09-88, Carmo, Angra dos Reis
+15, Gabriel Lacerda, BRA, D, 1.87, 74, 29-08-99, Caieiras, None
+16, Jorginho, BRA, M, 1.80, 60, 05-01-91, Goiânia, Athletico Paranaense
+19, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, Internacional
+20, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, Chapecoense
+21, Geovane, BRA, M, 1.76, 75, 02-03-99, Salvador, Ituano
+22, Alan Uchôa, BRA, D, -, -, 26-03-99, Maranguape, None
+23, Wendson, BRA, F, -, -, 22-08-97, Cabo Frio, Sampaio Corrêa
+25, Marlon, BRA, M, 1.75, 68, 26-02-90, Curitiba, Fortaleza
+27, Buiú, BRA, D, 1.71, 67, 27-04-96, Ceará, Santo André
+29, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Atlético Mineiro
+31, Pedro Naressi, BRA, M, 1.78, 78, 10-01-98, São José dos Campos, Red Bull Brasil
+37, Rick, BRA, F, 1.70, 66, 02-09-99, São Luís, Grêmio
+40, Vítor Jacaré, BRA, F, 1.67, 69, 24-10-99, Caririaçu, Caucaia
+44, Klaus, BRA, D, 1.87, 79, 11-01-94, Dois Irmãos, Internacional
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Grêmio
+50, Vinicius Machado, BRA, G, 1.91, 81, 29-02-00, Montenegro, Grêmio
+52, João Victor, BRA, F, 1.72, 68, 27-04-04, São Luís, None
+66, Alessandro, BRA, D, 1.87, 79, 06-01-99, Santo Amaro da Imperatriz, Juventude
+67, André Luiz, BRA, G, 1.89, 79, 13-03-00, Rio de Janeiro, Botafogo
+70, Kelyvn, BRA, D, 1.75, 70, 07-05-99, Osasco, Tubarão
+77, Hélio Borges, BRA, F, 1.75, 64, 15-05-00, Belém, Azuriz
+89, Cleber, BRA, F, 1.99, 82, 22-10-96, Salvador, Barbalha
+90, Gabriel Santos, BRA, F, 1.85, 77, 16-03-99, Rio de Janeiro, Caldense
+91, Richard, BRA, G, 1.86, 83, 01-03-91, São Paulo, Paraná
+94, Gabriel Dias, BRA, D, 1.83, 79, 10-05-94, Francisco Morato, Fortaleza
+97, Erick, BRA, F, 1.73, 65, 10-12-97, Recife, Sporting Braga
+99, Cristiano, BRA, F, 1.78, 88, 03-04-99, Rio de Janeiro, Tubarão
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+90, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Chapecoense
+11, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Três Rios, Udinese
+7, Yony González, COL, M, 1.82, 75, 11-07-94, Medellín, Re-Registered (11)
+33, Jordan, BRA, D, 1.90, 81, 22-04-99, São Paulo, Cianorte
+35, Charles, BRA, M, 1.87, 80, 19-06-96, Santiago-RS, FC Midtjylland
+73, Saulo, BRA, F, 1.80, 74, 17-06-97, Uberlândia, Yokohama FC

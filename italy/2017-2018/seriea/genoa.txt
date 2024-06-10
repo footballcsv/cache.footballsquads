@@ -1,0 +1,49 @@
+=  Genoa - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 77, 10-11-92, Latina, None
+2, Nicolás Spolli, ARG, D, 1.92, 90, 20-02-83, Coronel Bogado, Chievo Verona
+3, Santiago Gentiletti, ARG, D, 1.84, 77, 09-01-85, Gödeken, Lazio
+4, Isaac Cofie, GHA, M, 1.80, 73, 20-09-91, Accra, Chievo Verona
+5, Armando Izzo, ITA, D, 1.83, 78, 02-03-92, Naples, Avellino
+8, Andrea Bertolacci, ITA, M, 1.79, 75, 11-01-91, Rome, Milan
+10, Gianluca Lapadula, ITA, F, 1.78, 69, 07-02-90, Turin, Milan
+11, Adel Taarabt, MAR, M, 1.78, 77, 24-05-89, Fez, Benfica
+13, Luca Rossettini, ITA, D, 1.87, 82, 09-05-85, Padua, Torino
+14, Davide Biraschi, ITA, D, 1.82, 73, 02-07-94, Rome, Avellino
+15, Antonio Candela, ITA, D, 1.82, 77, 27-04-00, La Spezia, Spezia
+16, Andrej Galabinov, BUL, F, 1.90, 89, 27-11-88, Sofia, Novara
+17, Jawad El Yamiq, MAR, D, 1.90, 74, 29-02-92, Khourigba, Raja Casablanca
+18, Francesco Migliore, ITA, D, 1.73, 75, 17-04-88, Arezzo, Spezia
+19, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Galatasaray
+20, Aleandro Rosi, ITA, D, 1.84, 80, 17-05-87, Rome, Parma
+22, Darko Lazović, SRB, M, 1.81, 66, 15-09-90, Čačak, Crvena Zvezda
+23, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Siena
+24, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Verona
+30, Luca Rigoni, ITA, M, 1.85, 76, 07-12-84, Schio, Palermo
+32, Pedro Pereira, POR, D, 1.74, 70, 22-01-98, Lisbon, Benfica
+33, Loïck Landre, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Lens
+38, Lukáš Zima, CZE, G, 1.96, 82, 09-01-94, Hradec Králové, Slavia Prague
+40, Stéphane Omeonga, BEL, M, 1.77, 72, 27-03-96, Rocourt, Avellino
+44, Miguel Veloso, POR, M, 1.80, 79, 11-05-86, Coimbra, Dynamo Kyiv
+45, Iuri Medeiros, POR, F, 1.68, 58, 10-07-94, Horta, Sporting CP
+49, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Teaneck, Fiorentina
+68, Alessio Rollandi, ITA, G, 1.90, 80, 06-07-99, La Spezia, None
+72, Raul Oprut, ROU, D, 1.84, 78, 04-01-98, Oțelu Roșu, Chievo Verona
+74, Eddie Salcedo, ITA, F, 1.78, 72, 01-10-01, Genoa, None
+87, Ervin Zukanović, BIH, D, 1.88, 85, 11-02-87, Sarajevo, Roma
+88, Oscar Hiljemark, SWE, M, 1.84, 73, 28-06-92, Värnamo, Palermo
+93, Diego Laxalt, URU, M, 1.78, 68, 07-02-93, Montevideo, Internazionale
+98, Luca Zanimacchia, ITA, M, 1.78, 68, 19-07-98, Desio, Legnago
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Davide Brivio, ITA, D, 1.84, 83, 17-03-88, Milan, Virtus Entella (On Loan)
+99, Nikola Ninković, SRB, M, 1.82, 69, 19-12-94, Bogatić, Empoli (On Loan)
+17, Raffaele Palladino, ITA, F, 1.82, 73, 17-04-84, Mugnano di Napoli, Spezia
+9, Ricardo Centurión, ARG, M, 1.74, 65, 19-01-93, Avellaneda, Racing Club
+27, Federico Ricci, ITA, F, 1.75, 63, 27-05-94, Rome, Sassuolo
+64, Pietro Pellegri, ITA, F, 1.91, 78, 17-03-01, Genoa, Monaco
+25, Thomas Rodríguez, CHI, M, 1.83, 76, 05-04-96, Santiago, Vitória Setúbal (On Loan)
+21, Petar Brlek, CRO, M, 1.80, 74, 29-01-94, Varaždin, Wisła Kraków (On Loan)

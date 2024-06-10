@@ -1,0 +1,46 @@
+=  Leyton Orient - English Football League One 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Legzdins, ENG, G, 1.83, 78, 28-11-86, Stafford, Derby Co
+2, Elliot Omozusi, ENG, D, 1.80, 80, 15-12-88, Hackney, Fulham
+3, Gary Sawyer, ENG, D, 1.83, 67, 05-07-85, Bideford, Bristol R
+4, Romain Vincelot, FRA, M, 1.77, 71, 29-10-85, Poitiers, Brighton & HA
+5, Scott Cuthbert, SCO, D, 1.88, 89, 15-06-87, Alexandria, Swindon T
+6, Mathieu Baudry, FRA, D, 1.88, 80, 24-02-88, Saint-Adresse, Bournemouth
+7, Dean Cox, ENG, M, 1.63, 69, 12-08-87, Cuckfield, Brighton & HA
+8, Lloyd James, WAL, M, 1.81, 70, 16-02-88, Bristol, Colchester U
+9, Kevin Lisbie, JAM, F, 1.78, 69, 17-10-78, Hackney, Ipswich T
+10, David Mooney, IRL, F, 1.78, 75, 30-10-84, Dublin, Reading
+11, Jobi McAnuff, JAM, M, 1.80, 72, 09-11-81, Edmonton, Reading
+12, Shane Lowry, AUS, D, 1.85, 88, 12-06-89, Perth [AUS], Millwall
+14, Shaun Batt, ENG, F, 1.87, 80, 22-02-87, Luton, Millwall
+15, Nathan Clarke, ENG, D, 1.85, 81, 30-11-83, Halifax, Huddersfield T
+16, Harry Lee, ENG, M, 1.82, 74, 20-03-95, Hackney, None
+17, Josh Wright, ENG, M, 1.85, 73, 06-11-89, Tower Hamlets, Millwall
+18, Bradley Pritchard, ZIM, M, 1.86, 90, 19-12-85, Harare, Charlton Ath
+19, Scott Kashket, ENG, M, 1.75, 66, 25-02-96, Chigwell, Wingate & Finchley
+20, Marvin Bartley, ENG, M, 1.80, 79, 01-07-89, Reading, Burnley
+21, Charlie Grainger, ENG, G, 1.87, 68, 31-07-96, Enfield, None
+22, Andis Nikolaou, CYP, D, , , 10-03-96, , None
+23, Chris Dagnall, ENG, F, 1.73, 75, 15-04-86, Liverpool, Barnsley
+24, Darius Henderson, ENG, F, 1.85, 84, 07-09-81, Doncaster, Nottingham F
+25, Sam Ling, ENG, D, 1.75, 64, 17-12-96, Broxbourne, None
+26, Luke O'Neill, ENG, D, 1.83, 72, 20-08-91, Slough, Burnley
+27, Jay Simpson, ENG, F, 1.80, 85, 01-12-88, Enfield, Buriram U
+28, Montel Agyemang, ENG, M, 1.75, 67, 11-01-97, Southwark, None
+29, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, None
+30, Gianvito Plasmati, ITA, F, 1.99, 88, 28-01-83, Matera, Siena
+31, Sam Sargeant, ENG, G, 1.83, 67, 23-09-97, Greenwich, None
+32, Andrea Dossena, ITA, D, 1.80, 77, 11-09-81, Lodi, Sunderland
+33, Gary Woods, ENG, G, 1.85, 78, 01-10-90, Kettering, Watford
+34, Ryan Hedges, WAL, F, 1.85, 65, 07-09-95, Swansea, Swansea C
+35, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, Reading
+40, Alex Cisak, AUS, G, 1.90, 94, 19-05-89, Kraków, Burnley
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Mike Petrasso, CAN, M, 1.68, 64, 07-09-95, Toronto, QPR
+26, Jack Price, ENG, M, 1.91, 87, 19-12-92, Shrewsbury, Wolverhampton W
+35, Neal Eardley, WAL, D, 1.80, 74, 06-11-88, Llandudno, Birmingham C
+26, John Lundstram, ENG, M, 1.81, 74, 18-02-94, Liverpool, Everton

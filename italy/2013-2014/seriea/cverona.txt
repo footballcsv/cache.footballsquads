@@ -1,0 +1,55 @@
+=  Chievo Verona - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Reggina
+2, Alessandro Bernardini, ITA, D, 1.89, 80, 21-01-87, Domodossola, Livorno
+3, Dario Dainelli, ITA, D, 1.91, 78, 09-06-79, Pontedera, Genoa
+4, Claiton dos Santos, BRA, D, 1.86, 79, 07-09-84, Santa Helena de Goiás, Bari
+5, Michele Canini, ITA, D, 1.87, 84, 05-06-85, Brescia, Atalanta
+6, Tomasz Kupisz, POL, M, 1.80, 76, 02-01-90, Radom, Jagiellonia Białystok
+7, Dejan Lazarević, SVN, M, 1.75, 70, 15-02-90, Ljubljana, Genoa
+8, Ivan Radovanović, SRB, M, 1.86, 80, 29-08-88, Belgrade, Atalanta
+9, Simone Bentivoglio, ITA, M, 1.84, 79, 29-05-85, Pinerolo, Juventus
+10, Victor Obinna, NGA, F, 1.78, 78, 25-03-87, Jos, Lokomotiv Moscow
+11, Roberto Guana, ITA, M, 1.78, 72, 21-01-81, Brescia, Cesena
+12, Boštjan Cesar, SVN, D, 1.91, 87, 09-07-82, Ljubljana, Grenoble
+13, Simone Aldrovandi, ITA, D, 1.86, 77, 02-04-94, Carpi, Modena
+14, Adrián Calello, ARG, M, 1.77, 74, 14-05-87, Quilmes, Siena
+17, Gennaro Sardo, ITA, D, 1.90, 87, 08-05-79, Pozzuoli, Catania
+18, Lorenzo Squizzi, ITA, G, 1.91, 89, 27-06-74, Domodossola, Perugia
+19, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Boca Juniors
+21, Nicolas Frey, FRA, D, 1.84, 78, 06-03-84, Nice, Modena
+23, Tiberio Guarente, ITA, M, 1.82, 74, 01-11-85, Pisa, Sevilla
+24, Maodo Malick Mbaye, SEN, M, 1.79, 72, 06-11-95, Thiès, None
+25, Michael Agazzi, ITA, G, 1.89, 85, 03-07-84, Ponte San Pietro, Cagliari
+26, Ansoumana Sané, SEN, D, , , 25-05-96, Conegliano, None
+27, Luca Rigoni, ITA, M, 1.85, 78, 07-12-84, Schio, Piacenza
+31, Sergio Pellissier, ITA, F, 1.75, 76, 12-04-79, Aosta, Torino
+32, Nicolo' Brighenti, ITA, D, 1.78, 75, 01-08-89, Bussolengo, Vicenza
+33, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Siena
+36, Filippo Costa, ITA, D, 1.76, 68, 21-05-95, Noventa Vicentina, None
+39, Adrian Stoian, ROU, M, 1.78, 66, 11-02-91, Craiova, Roma
+43, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, Milan
+56, Perparim Hetemaj, FIN, M, 1.76, 76, 12-12-86, Srbica, Brescia
+57, Michele Troiani, ITA, D, 1.77, 72, 21-07-96, Verona, None
+58, Idriz Toskić, MNE, M, 1.76, 70, 12-10-95, Molfetta, Bari
+77, Cyril Théreau, FRA, F, 1.89, 78, 24-04-83, Privas, Charleroi
+93, Boukary Dramé, SEN, D, 1.81, 78, 22-07-85, Villepinte, Sochaux
+95, Victor da Silva, BRA, M, 1.78, 72, 04-01-95, Cuiabà, None
+96, Simone Moschin, ITA, G, 1.86, , 20-01-96, Vittorio Veneto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Roberto Inglese, ITA, F, 1.87, 82, 12-11-91, Lucera, Carpi (On Loan)
+16, Riccardo Improta, ITA, F, 1.79, 73, 19-12-93, Pozzuoli, Genoa
+90, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Atalanta
+15, Manuel Pamić, CRO, D, 1.76, 75, 20-08-86, Žminj, Siena (On Loan)
+33, Paul Papp, ROU, D, 1.88, 80, 11-11-89, Dej, Astra Giurgiu (On Loan)
+20, Marcelo Estigarribia, PAR, M, 1.81, 70, 21-09-87, Fernando de la Mora, Deportivo Maldonado
+22, Maxwell Boadu Acosty, GHA, M, 1.78, 75, 10-09-91, Accra, Fiorentina
+28, Marco Silvestri, ITA, G, 1.91, 80, 02-03-91, Castelnovo ne' Monti, Cagliari (On Loan)
+54, Alberto Tibolla, ITA, M, 1.83, , 31-01-96, Feltre, Roma (On Loan)
+10, Alessio Sestu, ITA, M, 1.80, 73, 29-09-83, Rome, Sampdoria (On Loan)
+11, Mamadou Samassa, MLI, F, 1.88, 84, 01-05-86, Montfermeil, Pescara
+25, Ansoumana Sané, SEN, D, , , 25-05-96, Conegliano, Re-Registered (26)

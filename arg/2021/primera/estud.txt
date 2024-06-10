@@ -1,0 +1,43 @@
+=  Estudiantes (La Plata) - Argentine Primera División 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jerónimo Pourtau, ARG, G, 1.91, 75, 23-01-00, Brandsen, None
+2, Fernando Tobio, ARG, D, 1.90, 78, 18-10-89, Ramos Mejía, Toluca
+3, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, Toulouse
+4, Mauricio Guzmán, ARG, D, 1.80, 76, 16-09-99, Brandsen, None
+5, David Ayala, ARG, M, 1.73, 66, 26-07-02, Berazategui, None
+7, Matías Pellegrini, ARG, M, 1.76, 67, 11-03-00, Magdalena, Inter Miami
+8, Fernando Zuqui, ARG, M, 1.70, 64, 27-11-91, Luján de Cuyo, Boca Juniors
+9, Leandro Díaz, ARG, F, 1.82, 79, 06-06-92, San Miguel de Tucumán, Atlético Tucumán
+10, Gustavo Del Prete, ARG, F, 1.76, 64, 12-06-96, Cipolletti, Montevideo City Torque
+11, Deian Verón, ARG, M, 1.81, 79, 25-09-00, La Plata, None
+12, Emiliano González, ARG, G, 1.93, 88, 29-05-98, Villa Dolores, None
+13, Matías Aguirregaray, URU, D, 1.74, 78, 01-04-89, Porto Alegre, Deportivo Maldonado
+14, Juan Sánchez Miño, ARG, D, 1.77, 78, 01-01-90, Saavedra, Elche
+15, Nicolás Pasquini, ARG, D, 1.76, 69, 02-01-91, Los Surgentes, Lanús
+16, Juan Francisco Apaolaza, ARG, F, 1.87, 79, 19-06-97, Magdalena, None
+17, Manuel Castro, URU, M, 1.72, 72, 27-09-95, Durazno, Montevideo Wanderers
+18, Fabián Noguera, ARG, D, 1.92, 97, 20-03-93, Ramos Mejía, Santos
+19, Jaime Ayoví, ECU, F, 1.82, 61, 21-02-88, Atahualpa, Olmedo
+21, Mariano Andújar, ARG, G, 1.94, 87, 30-07-83, Capital Federal, Napoli
+22, Esteban Obregón, ARG, M, 1.76, 66, 24-10-01, La Plata, None
+23, Franco Romero, ARG, M, 1.77, 70, 23-04-00, La Plata, None
+25, Bautista Kociubinski, ARG, M, 1.80, 78, 26-04-01, La Plata, None
+26, Ezequiel Naya, ARG, F, 1.91, 87, 04-08-01, Chacabuco, None
+27, Nicolás Palavecino, ARG, M, 1.86, 77, 29-03-03, Mburucuyá, None
+28, Franco Zapiola, ARG, M, 1.76, 68, 19-02-01, Magdalena, None
+29, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, Talleres (Córdoba)
+30, Jorge Rodríguez, ARG, M, 1.78, 84, 15-09-95, Mendoza, Banfield
+31, Ricardo Ramírez, ARG, F, 1.69, 66, 27-04-99, Miraflores, San Telmo
+32, Bruno Valdez, ARG, D, 1.79, 75, 04-01-02, San Rafael, None
+36, Juan Pablo Zozaya, ARG, G, 1.87, 86, 13-08-01, Necochea, None
+37, Santiago Flores, ARG, D, 1.84, 74, 25-03-01, Colón, None
+41, Santiago Núñez, ARG, D, 1.87, 78, 29-04-00, Roque Pérez, None
+42, Vinicius Lansade, ARG, F, 1.73, 66, 12-02-00, Curitiba, Univ of Maryland
+43, Blas Agustín Palavecino, ARG, F, 1.84, 72, 09-03-03, La Plata, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Nazareno Colombo, ARG, D, 1.84, 78, 20-03-99, Quilmes, Defensa y Justicia (On Loan)
+43, Nahuel Estévez, ARG, M, 1.81, 70, 14-11-95, Capital Federal, Crotone (On Loan)

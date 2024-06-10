@@ -1,0 +1,49 @@
+=  Sion - Swiss Super League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andris Vaņins, LVA, G, 1.85, 80, 30-04-80, Ilūkste, Ventspils
+2, Joaquim Adão, ANG, M, 1.78, 75, 14-07-92, Fribourg, None
+3, Aislan, BRA, D, 1.97, 90, 11-01-88, Bahia, Guarani
+4, José Gonçalves, POR, D, 1.88, 85, 17-09-85, Lisbon, St. Gallen
+5, Michael Dingsdag, NED, D, 1.89, 74, 18-10-82, Amsterdam, SC Heerenveen
+7, Mario Mutsch, LUX, M, 1.73, 74, 03-09-84, Luxembourg, Metz
+8, Rodrigo, BRA, M, 1.84, 84, 06-10-80, São Bernardo da Campo, Strasbourg
+9, Danilo de Oliveira, BRA, F, 1.87, 76, 11-11-86, Sorocaba, Honvéd
+11, Christ Mbondi, CMR, F, 1.80, 75, 02-02-92, , FC Bamenda
+12, Danick Yerly, SUI, M, 1.82, 76, 17-02-90, Sion, None
+13, Sébastien Wüthrich, SUI, M, 1.80, 73, 29-05-90, Neuchâtel, Neuchâtel Xamax
+14, Vullnet Basha, SUI, M, 1.74, 65, 11-07-90, Lausanne, Neuchâtel Xamax
+16, Didier Crettenand, SUI, M, 1.80, 73, 24-02-86, Sion, None
+18, Kevin Fickentscher, SUI, G, 1.81, 78, 06-07-88, Nyon, La Chaux-de-Fonds
+19, Dragan Mrdja, SRB, F, 1.87, 77, 23-01-84, Belgrade, Vojvodina
+20, Vilmos Vanczák, HUN, D, 1.87, 78, 20-06-83, Budapest, Újpest
+21, Abdoul Karim Yoda, FRA, M, 1.82, 73, 25-10-88, Annemasse, Servette
+22, Goran Obradović, SRB, M, 1.85, 81, 01-03-76, , Vaduz
+23, Xavier Margairaz, SUI, M, 1.85, 80, 07-01-84, Rances, Zürich
+24, Branislav Mićić, SUI, D, 1.87, 83, 17-04-90, Loznica, Namur
+25, Evan Melo, COD, F, 1.72, 66, 31-05-93, Fribourg, Neuchâtel Xamax
+26, Serey Die, CIV, M, 1.79, 74, 07-11-84, Abidjan, ES Sétif
+27, Geoffrey Tréand, FRA, M, 1.78, 74, 16-01-86, Annemasse, Neuchâtel Xamax
+28, Cristian Ianu, ROU, F, 1.77, 67, 16-10-83, Timişoara, Luzern
+29, Florian Berisha, SUI, M, 1.67, 62, 18-01-90, Sion, None
+30, Steven Deana, SUI, G, 1.88, 72, 04-03-90, Wetzikon, Vaduz
+31, Arnaud Bühler, SUI, D, 1.87, 72, 17-01-85, Baulmes, Sochaux
+32, Anthony Sauthier, SUI, M, 1.84, 70, 05-02-91, Saxon, Servette
+33, Adailton, BRA, D, 1.90, 82, 14-04-83, Salvador, Rentistas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Álvaro Domínguez, COL, M, 1.75, 71, 10-06-81, El Cerrito, Samsunspor
+24, Steve Rouiller, SUI, D, 1.83, 74, 10-07-90, Monthey, Monthey
+34, Yancoub Meité, CIV, M, 1.75, 70, 10-02-90, Paris, Tours
+9, Aleksandar Prijović, SRB, F, 1.90, 83, 21-04-90, St Gallen, Lausanne-Sport (On Loan)
+14, Pascal Feindouno, GUI, M, 1.76, 69, 27-02-81, Conakry, 
+13, Giovanni Sio, FRA, F, 1.80, 72, 31-03-89, Nantes, Wolfsburg
+27, Stefan Glarner, SUI, M, 1.78, 72, 21-11-87, Meiringen, Zürich
+3, Gabri, ESP, M, 1.75, 75, 10-02-79, Sallent, 
+12, Billy Ketkeophomphone, FRA, F, 1.80, 69, 24-03-90, Champigny-sur-Marne, Tours
+10, Fabrizio Zambrella, SUI, M, 1.82, 69, 01-03-86, Geneva, PAS Giannina (On Loan)
+6, George Ogăraru, ROU, D, 1.78, 72, 03-02-80, Bucharest, 
+15, Jonas Elmer, SUI, D, 1.76, 69, 28-02-88, Zürich, Bellinzona (On Loan)
+17, Guilherme Afonso, SUI, F, 1.87, 78, 15-11-85, Luanda, Lugano (On Loan)

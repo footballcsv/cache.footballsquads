@@ -1,0 +1,47 @@
+=  Spartak Moscow - Russian Football Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Juan Insaurralde, ARG, D, 1.88, 85, 03-10-84, Resistencia, Boca Juniors
+3, Sergey Bryzgalov, RUS, D, 1.78, 72, 15-11-92, Pavlovo, Saturn
+5, Nicolás Pareja, ARG, D, 1.81, 75, 19-01-84, Capital Federal, Espanyol
+6, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, Grêmio
+7, Kirill Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Dynamo Moscow
+8, Aidan McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Celtic
+9, Ari, BRA, F, 1.82, 87, 11-12-85, Fortaleza, AZ Alkmaar
+10, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Spartak Moscow-2
+12, Yura Movsisyan, ARM, F, 1.83, 82, 06-07-87, Baku, FC Krasnodar
+14, Pavel Yakovlev, RUS, F, 1.80, 69, 07-04-91, Lyubertsy, Spartak Moscow-2
+15, Sergey Parshivlyuk, RUS, D, 1.78, 73, 18-03-89, Moscow, Spartak Moscow-2
+17, Marek Suchý, CZE, D, 1.82, 76, 29-03-88, Prague, Slavia Prague
+18, Ilya Kutepov, RUS, D, 1.91, 79, 29-07-93, Stavropol, Akademiya Tolyatti
+19, José Manuel Jurado, ESP, M, 1.73, 72, 29-06-86, Sanlúcar de Barrameda, Schalke
+21, Kim Källström, SWE, M, 1.81, 79, 24-08-82, Sandviken, Lyon
+22, Aleksandr Kozlov, RUS, F, 1.70, 70, 19-03-93, Moscow, Spartak Moscow-2
+23, Dmitriy Kombarov, RUS, M, 1.82, 69, 22-01-87, Moscow, Dynamo Moscow
+25, Diniyar Bilyaletdinov, RUS, M, 1.86, 77, 27-02-85, Moscow, Everton
+28, Waris Majeed, GHA, F, 1.72, 71, 19-09-91, Tamale, BK Häcken
+29, Emmanuel Emenike, NGA, F, 1.82, 82, 10-05-87, Otuocha, Fenerbahçe
+30, Sergey Pesyakov, RUS, G, 1.95, 85, 16-12-88, Ivanovo, Shinnik
+31, Andriy Dikan, UKR, G, 1.92, 84, 16-07-77, Kharkiv, Terek Grozny
+32, Artem Rebrov, RUS, G, 1.89, 85, 04-03-84, Moscow, Shinnik
+33, Salvatore Bocchetti, ITA, D, 1.78, 70, 30-11-86, Naples, Rubin Kazan
+34, Evgeniy Makeev, RUS, M, 1.81, 69, 24-07-89, Cherepovets, Spartak Moscow-2
+37, Rômulo, BRA, M, 1.84, 80, 19-09-90, Picos, Vasco da Gama
+42, Sergey Chernishuk, RUS, G, 1.82, 81, 22-02-92, Mosow, Spartak Moscow-2
+44, Soslan Gatagov, RUS, D, 1.80, 70, 29-09-92, Vladikavkaz, Lokomotiv Moscow-2
+45, Aleksandr Putsko, RUS, D, 1.85, 82, 24-02-93, Unecha, Spartak Moscow-2
+49, Jano Ananidze, GEO, M, 1.70, 60, 10-10-92, Kobuleti, Spartak Moscow-2
+51, Dmitriy Kayumov, RUS, M, 1.73, 58, 11-05-92, Reutov, Spartak Moscow-2
+57, Vyacheslav Krotov, RUS, F, 1.81, 71, 14-02-93, Astrakhan, Volgar-Gazprom
+90, Ognjen Vukojević, CRO, M, 1.84, 83, 20-12-83, Bjelovar, Dynamo Kyiv
+91, Anton Mitryushkin, RUS, G, 1.86, 79, 08-02-96, Krasnoyarsk, Spartak Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Aleksandr Zotov, RUS, M, 1.72, 64, 27-08-90, Askiz, Tom Tomsk (On Loan)
+20, Demy de Zeeuw, NED, M, 1.74, 71, 26-05-83, Apeldoorn, Anderlecht (On Loan)
+39, Igor Gorbatenko, RUS, M, 1.70, 68, 13-02-89, Belgorod, Shinnik
+41, Vladimir Obukhov, RUS, F, 1.84, 77, 08-02-92, Bukhara, Torpedo Moscow (On Loan)
+11, Welliton, BRA, F, 1.75, 75, 22-10-86, Conceição do Araguaia, Grêmio (On Loan)
+4, Emin Makhmudov, RUS, M, 1.67, 67, 27-04-92, Lankaran, Krylia Sovetov (On Loan)

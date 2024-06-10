@@ -1,0 +1,39 @@
+=  Juventus - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.92, 92, 28-01-78, Carrara, Parma
+2, Mattia De Sciglio, ITA, D, 1.82, 78, 20-10-92, Milan, Milan
+3, Giorgio Chiellini, ITA, D, 1.87, 86, 14-08-84, Pisa, Fiorentina
+4, Mehdi Benatia, MAR, D, 1.89, 94, 17-04-87, Courcouronnes, Bayern Munich
+5, Miralem Pjanić, BIH, M, 1.78, 72, 02-04-90, Tuzla, Roma
+6, Sami Khedira, GER, M, 1.89, 90, 04-04-87, Stuttgart, Real Madrid
+7, Juan Cuadrado, COL, F, 1.79, 71, 26-05-88, Necoclí, Chelsea
+8, Claudio Marchisio, ITA, M, 1.80, 73, 19-01-86, Turin, None
+9, Gonzalo Higuaín, ARG, F, 1.86, 89, 10-12-87, Brest, Napoli
+10, Paulo Dybala, ARG, F, 1.77, 75, 15-11-93, Laguna Larga, Palermo
+11, Douglas Costa, BRA, F, 1.72, 70, 14-09-90, Sapucaia do Sul, Bayern Munich
+12, Alex Sandro, BRA, D, 1.81, 81, 26-01-91, Catanduva, FC Porto
+14, Blaise Matuidi, FRA, M, 1.80, 75, 09-04-87, Toulouse, Paris St-Germain
+15, Andrea Barzagli, ITA, D, 1.87, 87, 08-05-81, Fiesole, Wolfsburg
+16, Carlo Pinsoglio, ITA, G, 1.94, 85, 16-03-90, Moncalieri, Vicenza
+17, Mario Mandžukić, CRO, F, 1.90, 85, 21-05-86, Slavonski Brod, Atlético Madrid
+21, Benedikt Höwedes, GER, D, 1.88, 77, 29-02-88, Haltern am See, Schalke
+22, Kwadwo Asamoah, GHA, M, 1.73, 76, 09-12-88, Accra, Udinese
+23, Wojciech Szczęsny, POL, G, 1.95, 90, 18-04-90, Warsaw, Arsenal
+24, Daniele Rugani, ITA, D, 1.90, 84, 29-07-94, Lucca, Empoli
+26, Stephan Lichtsteiner, SUI, D, 1.82, 75, 16-01-84, Adligenswil, Lazio
+27, Stefano Sturaro, ITA, M, 1.81, 80, 09-03-93, Sanremo, Genoa
+30, Rodrigo Bentancur, URU, M, 1.87, 72, 25-06-97, Nueva Helvecia, Boca Juniors
+32, Mattia Del Favero, ITA, G, 1.90, 84, 05-06-98, Florence, None
+33, Federico Bernardeschi, ITA, F, 1.85, 77, 16-02-94, Carrara, Fiorentina
+34, Leonardo Merio, ITA, M, 1.77, 71, 28-05-99, Omegna, None
+35, Leonardo Loria, ITA, G, 1.95, 91, 28-03-99, Erice, Reggina
+36, Ferdinando Del Sole, ITA, F, 1.79, 68, 17-01-98, Naples, Pescara
+37, Simone Muratore, ITA, M, 1.86, 74, 30-05-98, Cuneo, Saluzzio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Moise Kean, ITA, F, 1.82, 72, 28-02-00, Vercelli, Verona (On Loan)
+20, Marko Pjaca, CRO, F, 1.86, 85, 06-05-95, Zagreb, Schalke (On Loan)
+38, Fabrizio Caligara, ITA, M, 1.80, 74, 12-04-00, Borgomanero, Cagliari

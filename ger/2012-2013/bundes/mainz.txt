@@ -1,0 +1,39 @@
+=  FSV Mainz 05 - German Bundesliga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Mathenia, GER, G, 1.89, 75, 31-03-92, Mainz, None
+2, Bo Svensson, DEN, D, 1.90, 85, 04-08-79, Aalborg, B Mönchengladbach
+3, Zdeněk Pospěch, CZE, D, 1.74, 74, 14-12-78, Opava, FC København
+4, Nikolce Noveski, MKD, D, 1.90, 87, 28-04-79, Bitola, Erzgebirge Aue
+5, Benedikt Saller, GER, D, 1.80, 70, 22-09-92, Munich, 1860 Munich
+6, Marco Caligiuri, GER, M, 1.80, 75, 14-04-84, Villingen- Schwenningen, Greuther Fürth
+7, Niki Zimling, DEN, M, 1.75, 73, 19-04-85, Tårnby, Club Brugge
+8, Radoslav Zabavnik, SVK, D, 1.81, 77, 16-09-80, Košice, Terek Grozny
+10, Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Hamburg
+11, Yunus Malli, GER, M, 1.79, 74, 24-02-92, Kassel, B Mönchengladbach
+13, Nikita Rukavytsya, AUS, F, 1.83, 74, 22-06-87, Mykolaiv, Hertha Berlin
+14, Julian Baumgartlinger, AUT, M, 1.81, 80, 02-01-88, Salzburg, Austria Vienna
+15, Jan Kirchhoff, GER, D, 1.93, 78, 01-10-90, Frankfurt am Main, Eintracht Frankfurt II
+16, Stefan Bell, GER, D, 1.92, 86, 24-08-91, Andernach, None
+17, Chinedu Ede, GER, M, 1.79, 82, 05-02-87, Wilmersdorf, Union Berlin
+19, Elkin Soto, COL, M, 1.78, 71, 04-08-80, Manizales, Barcelona [ECU]
+20, Junior Díaz, CRC, M, 1.85, 76, 12-09-83, San José [CRC], Club Brugge
+21, Loris Karius, GER, G, 1.87, 75, 22-06-93, Biberach, Manchester C
+23, Marcel Risse, GER, M, 1.83, 78, 17-12-89, Cologne, Bayer Leverkusen
+24, Tobias Schilk, GER, D, 1.83, 67, 24-03-92, Munich, 1860 Munich
+25, Andreas Ivanschitz, AUT, M, 1.83, 79, 15-10-83, Eisenstadt, Panathinaikos
+26, Niko Bungert, GER, D, 1.88, 68, 24-10-86, Bochum, Kickers Offenbach
+27, Nicolai Müller, GER, F, 1.75, 65, 25-09-87, Lohr am Main, Greuther Fürth
+28, Ádám Szalai, HUN, F, 1.93, 80, 09-12-87, Budapest, Real Madrid B
+29, Christian Wetklo, GER, G, 1.90, 90, 11-01-80, Marl, RW Essen
+31, Shawn Parker, GER, F, 1.79, 76, 07-03-93, Wiesbaden, None
+33, Heinz Müller, GER, G, 1.93, 88, 30-05-78, Frankfurt am Main, Barnsley
+35, Petar Slišković, CRO, F, 1.93, 88, 21-02-91, Sarajevo, None
+37, Nejmeddin Daghfous, GER, F, 1.78, 70, 01-10-86, Kassel, Preußen Münster
+39, Ivan Klasnić, CRO, F, 1.86, 79, 29-01-80, Hamburg, Bolton W
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Anthony Ujah, NGA, F, 1.83, 82, 20-11-90, Tudun Wada, Köln (On Loan)
+7, Eugen Polanski, POL, M, 1.83, 73, 17-03-86, Sosnowiec, 1899 Hoffenheim

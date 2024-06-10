@@ -1,0 +1,35 @@
+=  Birmingham City - English Football League Championship 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Camp, NIR, G, 1.83, 75, 22-08-84, Derby, Cardiff C
+3, Kristian Pedersen, DEN, D, 1.89, 88, 04-08-94, Ringsted, Union Berlin
+4, Marc Roberts, ENG, D, 1.83, 81, 26-07-90, Wakefield, Barnsley
+5, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Brentford
+6, Maikel Kieftenbeld, NED, M, 1.79, 75, 26-06-90, Dalfsen, FC Groningen
+7, Connor Mahoney, ENG, M, 1.75, 67, 12-02-97, Blackburn, Bournemouth
+8, Craig Gardner, ENG, M, 1.78, 71, 25-11-86, Solihull, WBA
+9, Che Adams, ENG, F, 1.78, 66, 13-07-96, Leicester, Sheffield U
+10, Lukas Jutkiewicz, ENG, F, 1.85, 73, 28-03-89, Southampton, Burnley
+11, Isaac Vassell, ENG, F, 1.71, 71, 09-09-93, Newquay, Luton T
+12, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Brentford
+18, Kerim Mrabti, SWE, F, 1.75, 75, 20-05-94, Nacka, Djurgårdens IF
+19, Jacques Maghoma, COD, M, 1.78, 72, 23-10-87, Lubumbashi, Sheffield W
+20, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+23, Jota, ESP, M, 1.80, 67, 16-06-91, A Pobra do Caramiñal, Brentford
+25, Josh Dacres-Cogley, ENG, D, 1.74, 68, 12-03-96, Coventry, None
+26, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Wolverhampton W
+27, Connal Trueman, ENG, G, 1.86, 74, 26-03-96, Birmingham, None
+28, Michael Morrison, ENG, D, 1.83, 76, 03-03-88, Bury St Edmunds, Charlton Ath
+30, Beryly Lubala, COD, F, 1.79, 76, 08-01-98, , None
+31, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, None
+40, Jake Weaver, ENG, G, 1.82, 78, 08-05-97, Redditch, None
+45, Wes Harding, ENG, D, 1.81, 79, 20-10-96, Leicester, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Cheick Ndoye, SEN, M, 1.90, 88, 29-03-86, Rufisque, Angers (On Loan)
+32, Steve Seddon, ENG, D, 1.79, 68, 25-12-97, Reading, AFC Wimbledon (On Loan)
+24, Dan Scarr, ENG, D, 1.88, 80, 24-12-94, Bromsgrove, Walsall
+14, Omar Bogle, ENG, F, 1.91, 80, 26-07-92, Birmingham, Cardiff C
+22, Viv Solomon-Otabor, ENG, M, 1.75, 77, 02-01-96, London, Portsmouth (On Loan)

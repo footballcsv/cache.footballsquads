@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2009/10
+
+18 teams
+- [Ankaragücü](ankgucu.txt)
+- [Ankaraspor](ankspor.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Denizlispor](denizli.txt)
+- [Diyarbakırspor](diyarbak.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [İstanbul Büyükşehir Belediyespor](istanbb.txt)
+- [Kayserispor](kayseri.txt)
+- [Kasımpaşa](kasim.txt)
+- [Manisaspor](manisa.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

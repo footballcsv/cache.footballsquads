@@ -1,0 +1,40 @@
+=  Brescia - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jesse Joronen, FIN, G, 1.97, 89, 21-03-93, Helsinki, FC København
+2, Stefano Sabelli, ITA, D, 1.78, 74, 13-01-93, Rome, Bari
+3, Aleš Matějů, CZE, D, 1.84, 79, 03-06-96, Příbram, Brighton & HA
+4, Sandro Tonali, ITA, M, 1.81, 79, 08-05-00, Lodi, None
+5, Daniele Gastaldello, ITA, D, 1.87, 77, 25-06-83, Camposampiero, Bologna
+6, Emanuele Ndoj, ALB, M, 1.89, 70, 20-11-96, Catania, Roma
+7, Nikolas Špalek, SVK, F, 1.70, 64, 12-02-97, Šaľa, MŠK Žilina
+8, Jaromír Zmrhal, CZE, M, 1.89, 76, 02-08-93, Žatec, Slavia Prague
+9, Alfredo Donnarumma, ITA, F, 1.79, 78, 30-11-90, Torre Annunziata, Empoli
+11, Ernesto Torregrossa, ITA, F, 1.84, 80, 28-06-92, Caltanissetta, Verona
+12, Lorenzo Andrenacci, ITA, G, 1.88, 78, 02-01-95, Fermo, Milan
+14, Jhon Chancellor, VEN, D, 1.98, 86, 02-01-92, Puerto Ordaz, Al-Ahli [QAT]
+15, Andrea Cistana, ITA, D, 1.87, 78, 01-04-97, Brescia, None
+16, Andrea Ghezzi, ITA, M, 1.80, 72, 02-03-01, Trevigilio, None
+18, Florian Ayé, FRA, F, 1.84, 75, 19-01-97, Paris, Clermont
+19, Massimiliano Mangraviti, ITA, M, 1.88, 79, 24-01-98, Brescia, None
+22, Enrico Alfonso, ITA, G, 1.91, 85, 04-05-88, Padua, Cittadella
+23, Simon Skrabb, FIN, F, 1.74, 75, 19-01-95, Jakobstad, IFK Norrköping
+24, Mattia Viviani, ITA, M, 1.77, 74, 04-09-00, Brescia, None
+25, Dimitri Bisoli, ITA, M, 1.80, 72, 25-03-94, Cagliari, Fidelis Andria
+26, Bruno Martella, ITA, D, 1.83, 78, 14-08-92, Atri, Crotone
+27, Daniele Dessena, ITA, M, 1.81, 80, 10-05-87, Parma, Cagliari
+28, Rômulo, BRA, M, 1.78, 72, 22-05-87, Pelotas, Genoa
+29, Alessandro Semprini, ITA, D, 1.83, 75, 24-02-98, Brescia, None
+31, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Al-Arabi [QAT]
+32, Andrea Papetti, ITA, D, 1.87, 77, 03-07-02, Cernusco sul Naviglio, None
+33, Diego Abbrandini, ITA, G, 1.87, 75, 14-09-01, Brescia, None
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Marseille
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Felipe Curcio, BRA, D, 1.85, 80, 06-08-93, Jundiai, Salernitana
+23, Leonardo Morosini, ITA, F, 1.75, 74, 13-10-95, Ponte San Pietro, Ascoli (On Loan)
+20, Giangiacomo Magnani, ITA, D, 1.91, 87, 04-10-95, Correggio, Sassuolo
+21, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Sassuolo
+32, Luca Tremolada, ITA, M, 1.86, 69, 25-11-91, Milan, Pordenone

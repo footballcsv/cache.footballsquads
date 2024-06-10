@@ -1,0 +1,46 @@
+=  Barrow - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Dixon, ENG, G, 1.93, 76, 09-12-93, Middlesbrough, Sunderland
+2, Connor Brown, ENG, D, 1.73, 69, 02-10-91, Sheffield, York C
+3, Patrick Brough, ENG, D, 1.91, 74, 20-02-96, Carlisle, Falkirk
+4, Jason Taylor, ENG, M, 1.85, 71, 28-01-87, Ashton-under-Lyne, AFC Fylde
+5, Matthew Platt, ENG, D, 1.83, 67, 03-10-97, Knowsley, Blackburn R
+6, Sam Hird, ENG, D, 1.83, 76, 07-09-87, Doncaster, Alfreton T
+7, Callum Gribbin, ENG, M, 1.78, 70, 19-12-98, Salford, Sheffield U
+8, Mike Jones, ENG, M, 1.83, 78, 15-08-87, Birkenhead, Carlisle U
+9, Scott Quigley, ENG, F, 1.94, 90, 02-09-92, Shrewsbury, Blackpool
+11, Josh Kay, ENG, M, 1.65, 64, 28-10-96, Blackpool, Chesterfield
+12, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Rochdale
+14, James Jones, WAL, D, 1.93, 79, 13-03-97, Wrexham, Altrincham
+16, Tom Beadling, AUS, M, 1.85, 80, 16-01-96, Barrow-in-Furness, Dunfermline Ath
+17, Morgan Penfold, ENG, F, 1.86, 64, 03-12-98, Peterborough, Peterborough U
+18, Yoan Zouma, FRA, D, 1.93, 85, 06-05-98, Lyon, Bolton W
+19, Scott Wilson, ENG, D, 1.86, 79, 10-01-00, Burnley, Burnley
+20, Mikael Ndjoli, ENG, F, -, -, 16-12-98, -, Bournemouth
+21, Scott Moloney, ENG, G, 1.91, 70, 15-04-00, Ashton-under-Lyne, Bury
+22, Tom Davies, ENG, D, 1.80, 70, 18-04-92, Warrington, Bristol R
+24, Kgosi Ntlhe, RSA, D, 1.75, 66, 21-02-94, Pretoria, Scunthorpe U
+25, Mace Goodridge, ENG, M, 1.80, 74, 13-09-99, Manchester, Burnley
+26, Dimitri Sea, FRA, F, 1.81, 77, 02-05-01, Paris, Aston Villa
+27, Bradley Barry, ENG, D, 1.83, 76, 13-12-95, Hastings, Chesterfield
+28, Chris Taylor, ENG, M, 1.83, 73, 20-12-86, Oldham, Bradford C
+29, Neal Eardley, WAL, D, 1.80, 74, 06-11-88, Llandudno, Burton Alb
+30, Daniel Bramall, SCO, M, 1.70, 65, 03-09-98, Sheffield, Barnsley
+31, Bobby Thomas, ENG, D, 1.86, 77, 30-01-01, Chester, Burnley
+32, Dion Donohue, WAL, M, 1.80, 66, 26-08-93, Bodedern, Swindon T
+33, Luke James, ENG, F, 1.83, 80, 04-11-94, Amble, Hartlepool U
+36, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Blackpool
+39, Calvin Andrew, ENG, F, 1.83, 81, 19-12-86, Luton, Rochdale
+42, Oliver Banks, ENG, M, 1.90, 75, 21-09-92, Rotherham, Tranmere R
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Bobby Burns, NIR, D, 1.73, 72, 07-10-99, Belfast, Glentoran (On Loan)
+22, Jack Hindle, ENG, F, 1.78, 73, 29-10-93, Warrington, Kelantan
+29, Jayden Reid, ENG, F, 1.85, 73, 22-04-01, Luton, Birmingham C
+23, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Barnet (On Loan)
+20, Dior Angus, ENG, F, 1.83, 76, 18-01-94, Coventry, Wrexham
+25, Harrison Biggins, ENG, M, 1.83, 79, 15-03-96, Sheffield, Fleetwood T
+10, Lewis Hardcastle, ENG, M, 1.75, 76, 04-07-98, Bolton, Retired

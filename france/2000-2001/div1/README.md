@@ -1,0 +1,21 @@
+# French Division 1 2000/01
+
+18 teams
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Guingamp](guinga.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Nantes](nantes.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sedan](sedan.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)
+- [Troyes](troyes.txt)

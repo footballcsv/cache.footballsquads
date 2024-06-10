@@ -1,0 +1,72 @@
+=  Tavriya Simferopol - Ukrainian Premier League 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Saša Todić, G, 6'02", 12 11, 26-03-74, Zrenjanin, Vojvodina
+3, Oleksandr Chyzhevskyy, D, 5'09", 11 03, 27-05-71, Lutsk, Karpaty Lviv
+4, Serhiy Litovchenko, D, 6'01", 12 11, 30-01-79, Minsk, Torpedo Minsk
+5, Oleh Pestryakov, M, 5'10", 11 07, 05-08-74, Evpatoria, 
+6, Saša Cilinšek, D, 6'00", 12 13, 28-01-82, Novi Sad, Groclin Dyskobolia
+7, Andriy Kornyev, M, 5'11", 11 09, 01-11-78, Kiev, Obolon Kiev
+8, Edmar Aparesida, M, 6'00", 11 09, 16-06-80, Mogi das Cruzes, Independiente [BRA]
+9, Oleksandr Kovpak, F, 6'01", 12 00, 02-02-83, Smela, Dnipro Cherkasy
+10, Yevheniy Karmalita, M, 5'08", 10 08, 12-04-83, , 
+11, Junior Godoi Alves, M, 6'00", 11 00, 20-09-78, São Paulo, União Barbarense
+12, Maksym Zamkovyy, G, 6'04", 13 10, 14-06-82, , Tavriya-2
+13, Oleksiy Osipov, M, 5'07", 10 03, 02-11-75, , 
+14, Serhiy Sibiryakov, M, 5'09", 11 00, 01-01-82, Kharkiv, Metalist Kharkiv
+15, Aleksander Amіsulashvіlі, D, 6'02", 13 05, 20-08-82, , Dynamo Kiev
+16, Marin Miok, M, 6'00", 11 03, 19-11-85, , Tavriya-2
+17, Serhiy Snitko, M, 5'11", 12 08, 31-03-75, , 
+18, Andrius Jokšas, M, 6'00", 12 00, 12-01-79, , Zalgiris Vilnius
+19, Anton Tatarintsev, D, 6'00", 10 10, 28-09-84, Yalta, Tavriya-2
+20, Ruslan Solyanyk, M, 6'00", 11 09, 08-08-84, Poltava, Kryvbas Kryvyi Rih
+21, Vyacheslav Vіshnyevskіy, M, 5'07", 10 03, 16-04-77, Moscow, Shinnik
+22, Ika Kortua, D, 6'01", 12 04, 05-10-87, , Tavriya-2
+23, Audrius Veikutis, D, 6'01", 12 08, 23-07-79, , Suduva Marijampole
+25, Serhiy Hrybanov, F, 5'11", 11 07, 17-11-81, Mariupol, Illichivets Mariupol
+27, Oleksiy Hodin, M, 5'10", 10 03, 02-02-83, Zaporozhye, Metalurh Zaporizhya
+28, Oleksandr Holovko, D, 6'01", 12 00, 06-01-72, Kherson, Dynamo Kiev
+30, Valeriy Lyubich, G, 6'02", 12 08, 14-01-89, , Tavriya-2
+31, Aleksandr Verna, M, 5'10", 11 00, 28-03-88, Simferopol, Tavriya-2
+32, Maksym Khablov, M, 5'08", 10 03, 10-08-84, , Tavriya-2
+33, Mykola Medin, G, 6'00", 11 05, 04-05-72, Nikopol, Dnipro Dnipropetrovsk
+34, Ruslan Ivashko, F, 6'04", 12 08, 10-11-86, Simferopol, Tavriya-2
+35, Arsen Ablyametov, D, 5'10", 10 12, 10-08-84, , Tavriya-2
+36, Fedir Prokhorov, D, 5'10", 11 00, 24-04-81, Dnipropetrovsk, Dnipro Dnipropetrovsk
+37, Kyrylo Davidov, F, 5'10", 11 09, 06-11-88, , Tavriya-2
+38, Samvel Safaryan, M, 5'08", 10 03, 15-08-86, , Tavriya-2
+39, Vasyl Tkachuk, M, 6'00", 11 07, 15-08-88, , Tavriya-2
+40, Voldymyr Homenyuk, F, 5'10", 11 07, 19-07-85, Simferopol, Tavriya-2
+42, Dmytro Semenov, D, 6'00", 11 03, 13-08-88, , Tavriya-2
+43, Oleksandr Vechtomov, M, 6'00", 10 12, 11-01-88, Simferopol, Tavriya-2
+44, Oleh Stafiychuk, D, 5'10", 11 05, 15-03-86, Simferopol, Tavriya-2
+45, Andriy Zborovskyy, M, 6'00", 11 09, 25-02-86, , Tavriya-2
+46, Oleksandr Artomenko, M, 6'01", 11 11, 19-01-87, Simferopol, Tavriya-2
+47, Vyacheslav Sharpar, F, 6'02", 12 04, 02-06-87, Zelenodolsk, Tavriya-2
+48, Vadym Khaysanov, G, 6'01", 12 04, 15-07-84, , Tavriya-2
+77, Nerijus Vasiliauskas, M, 6'00", 12 04, 20-06-77, Jonava, Vetra Vilnius
+99, Harrison Omoko, D, 6'05", 13 05, 12-12-81, , Dynamo Kiev
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ivan Kozoriz, M, 6'01", 12 00, 14-09-79, , Spartak Sumy
+24, Pavel Katkov, D, 5'11", 11 09, 29-06-81, Kiev, Stal Dniprodzerzhynsk
+33, Vitaliy Reva, G, 6'00", 12 01, 19-11-74, Dnipropetrovsk, Dynamo Kiev
+17, Yuriy Dmitrulin, D, 5'09", 11 03, 10-02-75, Snigirevka, Dynamo Kiev
+38, Vadym Melnyk, F, 5'11", 13 03, 16-05-80, Sevastopol, Metallurg Donetsk
+1, Vadym Deonas, G, 6'01", 13 01, 27-07-75, Tavriya, Arsenal Kiev
+2, Oleksandr Poklonskyy, D, 5'10", 11 07, 22-01-75, Kiev, Kryvbas Kryvyi Rih
+5, Anatoliy Matkevych, M, 6'02", 11 11, 17-06-77, Dnipropetrovsk, Krymteplytsya Molodizh
+12, Serhiy Velychko, G, 5'11", 11 00, 09-08-76, Simferopol, Zakarpattya Uzhgorod
+18, Andriy Nesteruk, F, 5'11", 11 07, 01-08-78, Chişinău, Stal Alchevsk
+20, Volodymyr Postolatyev, F, 6'02", 13 01, 25-08-79, Kirovograd, Obolon Kiev
+23, Anton Monakhov, D, 6'04", 13 01, 31-01-82, Zaporozhye, Krymteplytsya Molodizh
+25, Oleksiy Abramkin, M, 6'00", 11 11, 10-04-84, Simferopol, Yalos Yalta
+27, Andriy Smalko, M, 6'00", 11 09, 22-01-81, Chernobyl, Zorya Luhansk
+13, Artem Starhorodskyy, M, 5'09", 10 08, 17-01-82, Kiev, Krymteplytsya Molodizh
+30, Aleksandr Babak, G, 6'02", 12 00, 03-02-79, Kiev, MKT-Araz
+42, Yevheniy Odyntsov, M, 5'09", 10 12, 23-08-86, Evratorya, Khimik Krasnoperekopsk
+16, Dmytro Pinchuk, M, 5'11", 11 09, 06-01-82, Sumy, 
+32, Yuriy Androshchuk, D, 5'11", 10 10, 11-09-88, Simferopol, Knyazha Shchaslyve
+6, Yuriy Seleznov, M, 6'00", 11 11, 18-12-75, Odessa, Stal Dniprodzerzhynsk

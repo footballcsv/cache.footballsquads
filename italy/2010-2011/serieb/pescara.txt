@@ -1,0 +1,54 @@
+=  Pescara - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Salvatore Pinna, ITA, G, 1.77, 68, 23-08-75, Sorso, Salernitana
+2, Damiano Zanon, ITA, D, 1.77, 73, 02-09-83, L'Aquila, Celano
+3, Filippo Petterini, ITA, D, 1.75, 72, 14-11-80, Foligno, Foligno
+4, Emmanuel Cascione, ITA, M, 1.87, 77, 22-09-83, Catanzaro, Reggina
+5, Andrea Mengoni, ITA, D, 1.87, 91, 16-09-83, Rome, Chievo Verona
+6, Samuele Olivi, ITA, D, 1.83, 70, 01-08-80, Cesena, Piacenza
+7, Danilo Soddimo, ITA, F, 1.85, 75, 27-09-87, Rome, Sampdoria
+8, Luca Tognozzi, ITA, M, 1.84, 74, 03-10-77, Florence, Reggina
+9, Marco Sansovini, ITA, F, 1.70, 67, 17-06-80, Rome, Grosseto
+10, Massimo Bonanni, ITA, M, 1.90, 81, 10-06-82, Rome, Sampdoria
+11, Massimo Ganci, ITA, F, 1.77, 65, 17-11-81, Milan, Salernitana
+13, Carlo Camilli, ITA, G, 1.85, 77, 04-10-84, Umbertide, Ascoli
+17, Emanuele Sembroni, ITA, D, 1.88, 75, 27-01-88, Rome, None
+18, Simone Vitale, ITA, D, 1.82, 76, 01-03-86, Sora, None
+20, Andrea Gessa, ITA, M, 1.75, 71, 12-01-80, Milan, Grosseto
+21, Luca Ariatti, ITA, M, 1.82, 72, 27-12-78, Reggio Emilia, Chievo Verona
+22, Gianluca Nicco, ITA, M, 1.86, 77, 10-08-89, Ivrea, Mantova
+25, Souleymane Diamoutene, MLI, D, 1.85, 79, 30-01-83, Sikasso, Lecce
+27, Alessio Giustini, ITA, M, , , 27-07-91, Sora, None
+28, Cristian Bucchi, ITA, F, 1.86, 76, 13-02-77, Rome, Napoli
+29, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Torino
+32, Lorenzo Del Prete, ITA, D, 1.76, 68, 12-01-86, Rome, Siena
+39, Adrian Stoian, ROU, M, 1.81, 69, 11-02-91, Craiova, Roma
+40, Luigi Vitale, ITA, M, 1.86, , 31-03-91, , Montevarchi
+41, Francesco Faccini, ITA, F, 1.75, 66, 19-08-92, Brindisi, Brindisi
+55, Luca Berardocco, ITA, M, 1.74, 65, 22-01-91, Pescara, Pisa
+79, Stefano Giacomelli, ITA, F, 1.65, 59, 30-04-90, Spoleto, Foligno
+81, Vito Marinelli, ITA, F, 1.87, 78, 11-05-91, Lanciano, None
+82, Salvatore Carboni, ITA, M, 1.65, 61, 11-09-79, Bosa, Portogruaro
+84, Gabriele Bartoletti, ITA, G, 1.88, 78, 19-04-84, Rome, None
+90, Francesco Cattenari, ITA, G, 1.89, 79, 17-01-90, Sora, None
+91, Gianmarco Carta, ITA, M, , , 14-12-91, Rome, None
+92, Marco Verratti, ITA, M, 1.65, 60, 05-11-92, Pescara, None
+94, Marco Perrotta, ITA, D, 1.84, 72, 14-02-94, Campobasso, None
+99, Riccardo Maniero, ITA, F, 1.83, 81, 26-11-87, Naples, Juventus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Francesco Dettori, ITA, M, 1.74, 66, 02-03-83, Sassari, Chievo Verona
+91, Roberto Inglese, ITA, F, 1.87, 75, 12-11-91, Lucera, Chievo Verona
+55, Tommaso Romito, ITA, D, 1.88, 86, 09-02-82, Bari, Virtus Lanciano (On Loan)
+86, Axel Vicentini, ITA, D, 1.82, 75, 01-10-86, Pescara, Brindisi (On Loan)
+16, Salvatore D'Alterio, ITA, D, 1.83, 77, 17-02-80, Villaricca, Salernitana (On Loan)
+19, Antonio Mazzotta, ITA, D, 1.85, 73, 02-08-89, Palermo, Lecce
+42, Bruno Martella, ITA, D, 1.83, 78, 14-08-92, Atri, Sampdoria
+88, Giacomo Zappacosta, ITA, M, 1.75, 68, 21-04-88, Chieti, Barletta (On Loan)
+36, Raffaele Alcibiade, ITA, D, 1.86, 81, 23-05-90, Turin, Juventus
+97, Alfonso Camorani, ITA, M, 1.79, 74, 21-02-78, Cercola, Sorrento (On Loan)
+85, Antonio Aquilanti, ITA, D, 1.77, 74, 08-11-85, Pescara, Virtus Lanciano
+33, Mario Artistico, ITA, F, 1.72, 72, 03-04-85, Rome, Virtus Lanciano (On Loan)

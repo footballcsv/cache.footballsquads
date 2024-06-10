@@ -1,0 +1,43 @@
+=  Los Angeles FC - USA Major League Soccer 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eldin Jakupović, SUI, G, 1.91, 87, 02-10-84, Sarajevo, Everton
+2, Denil Maldonado, HON, D, 1.84, 78, 26-05-98, Tegucigalpa, Motagua
+3, Jesús Murillo, COL, D, 1.83, 72, 18-02-94, Cali, Independiente Medellín
+6, Ilie Sánchez, ESP, M, 1.80, 77, 21-11-90, Barcelona, Sporting Kansas City
+7, Stipe Biuk, CRO, F, 1.82, 70, 26-12-02, Split, Hajduk Split
+9, Mario González, ESP, F, 1.83, 76, 25-02-96, Burgos, Sporting Braga
+10, Carlos Vela, MEX, F, 1.77, 77, 01-03-89, Cancún, Real Sociedad
+11, Timothy Tillman, GER, M, 1.82, 78, 04-01-99, Nuremberg, Greuther Fürth
+12, Diego Palacios, ECU, D, 1.69, 65, 12-07-99, Guayaquil, Aucas
+14, Giorgio Chiellini, ITA, D, 1.87, 86, 14-08-84, Pisa, Juventus
+16, Maxime Crépeau, CAN, G, 1.83, 83, 11-05-94, Greenfield Park, Vancouver Whitecaps
+17, Daniel Crisostomo, USA, M, 1.75, 68, 16-01-97, San Francisco, Las Vegas Lights
+18, Erik Dueñas, USA, D, 1.63, 54, 18-10-04, Los Angeles, None
+19, Mateusz Bogusz, POL, M, 1.75, 68, 22-08-01, Ruda Śląska, Leeds U
+21, Christian Torres, USA, F, 1.78, 64, 15-04-04, Fontana, None
+23, Kellyn Acosta, USA, M, 1.77, 68, 24-07-95, Plano, Colorado Rapids
+24, Ryan Hollingshead, USA, M, 1.86, 82, 16-04-91, Sacramento, FC Dallas
+25, Cristian Olivera, URU, F, 1.70, 64, 17-04-02, Montevideo, Almería
+27, Nathan Ordaz, SLV, F, 1.80, 73, 12-01-04, San Fernando Valley, None
+28, Tony Leone, MEX, D, 1.83, 79, 28-04-04, Long Beach, None
+30, Sergi Palencia, ESP, D, 1.72, 66, 23-03-96, Badalona, St-Etienne
+32, Abraham Romero, MEX, G, 1.88, 87, 18-02-98, Pasadena, Las Vegas Lights
+33, Aaron Long, USA, D, 1.85, 78, 12-10-92, Oak Hills, New York Red Bulls
+38, Yekeson Subah, USA, F, 1.80, 79, 13-02-04, Raleigh, Real Salt Lake
+42, Christopher Jaime, USA, M, 1.75, 64, 20-03-04, San Diego, San Diego Nomads
+43, Diego Rosales, USA, D, 1.80, 72, 01-11-05, South Gate, None
+46, Lorenzo Dellavalle, ITA, D, 1.89, 80, 04-04-04, Carmagnola, Juventus
+50, Filip Krastev, BUL, M, 1.78, 63, 15-10-01, Sofia, Lommel
+77, John McCarthy, USA, G, 1.91, 82, 04-07-92, Philadelphia, Inter Miami
+80, Julian Gaines, USA, D, 1.78, 61, 05-11-02, Round Rock, Las Vegas Lights
+99, Denis Bouanga, GAB, F, 1.80, 71, 11-11-94, Paris, St-Etienne
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Mohamed Traore, SEN, D, 1.85, 71, 15-08-02, Dakar, Phoenix Rising (On Loan)
+22, Kwadwo Opoku, GHA, F, 1.65, 70, 13-07-01, Accra, CD Montréal
+20, José Cifuentes, ECU, M, 1.73, 71, 12-03-99, Esmeraldas, Rangers
+35, Noah Dollenmayer, USA, D, 1.98, 91, 26-10-99, Thousand Oaks, El Paso Locomotive (On Loan)
+5, Mamadou Fall, SEN, D, 1.88, 74, 21-11-02, Rufisque, Barcelona B (On Loan)

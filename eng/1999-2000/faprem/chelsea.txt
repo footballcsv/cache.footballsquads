@@ -1,0 +1,43 @@
+=  Chelsea - English Premiership 1999/00
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ed De Goey, G, 6'06", 15 04, 20-12-66, Gouda, Feyenoord
+2, Dan Petrescu, D, 5'10", 11 07, 22-12-67, Bucharest, Sheffield W
+3, Celestine Babayaro, D, 5'09", 10 12, 29-08-78, Kaduna, Anderlecht
+4, Jens Hogh, D, 6'04", 12 08, 07-05-66, Denmark, Fenerbahçe
+5, Franck LeBoeuf, D, 6'00", 12 00, 22-01-68, Marseille, Strasbourg
+6, Marcel Desailly, D, 6'02", 12 06, 17-09-68, Accra, Milan
+7, Didier Deschamps, M, 5'08", 11 10, 15-10-68, Bayonne, Juventus
+8, Gustavo Poyet, M, 6'01", 13 01, 15-11-67, Montevideo, Zaragoza
+9, Chris Sutton, F, 6'03", 13 07, 10-03-73, Nottingham, Blackburn R
+10, Pierluigi Casaraghi, F, 6'00", 12 02, 04-03-69, Milan, Lazio
+11, Dennis Wise, M, 5'06", 10 11, 16-12-66, Kensington, Wimbledon
+13, Kevin Hitchcock, G, 6'01", 13 00, 05-10-62, Custom House, Mansfield T
+14, Graeme Le Saux, D, 5'10", 11 09, 17-10-68, Jersey, Blackburn R
+15, Mario Melchiot, D, 6'02", 11 11, 04-11-76, Amsterdam, Ajax
+16, Roberto Di Matteo, M, 5'10", 12 00, 29-05-70, Schaffhausen, Lazio
+17, Albert Ferrer, D, 5'09", 11 00, 06-06-70, Barcelona, Barcelona
+18, Gabriele Ambrosetti, M, 5'11", 11 05, 07-08-73, Varese, Vicenza
+19, Tore Andre Flo, F, 6'04", 13 08, 15-06-73, Strin, Brann
+20, Jody Morris, M, 5'05", 10 11, 22-12-78, Hammersmith, None
+21, Bernard Lambourde, D, 6'01", 12 06, 11-05-71, Pointe-A-Pitre, Bordeaux
+22, Mark Nicholls, F, 5'10", 10 04, 30-05-77, Hillingdon, None
+23, Carlo Cudicini, G, 6'01", 12 02, 06-09-73, Milan, Castel di Sangro
+24, Samuele Dalla Bona, M, 6'01", 12 00, 06-02-81, S Dona di Piave, Atalanta
+25, Gianfranco Zola, F, 5'06", 10 10, 05-07-66, Oliena, Parma
+26, John Terry, D, 6'00", 11 11, 07-12-80, Barking, None
+27, Rati Aleksidze, M, 6'00", 12 02, 06-08-78, Georgia, Dynamo Tbilisi
+28, Robert Wolleaston, M, 5'11", 11 10, 21-12-79, Perivale, None
+29, Neil Clement, D, 6'00", 12 02, 03-10-78, Reading, None
+30, Emerson Thome, D, 6'01", 14 07, 30-03-72, Porto Alegre, Sheffield W
+31, George Weah, F, 6'01", 12 10, 31-09-66, Monrovia, Milan
+32, Mikkel Forssell, F, 5'10", 10 10, 15-03-81, Steinfurt, HJK Helsinki
+33, Luca Percassi, D, 5'09", 11 00, 25-08-80, Milan, Atalanta
+34, Jon Harley, D, 5'10", 11 10, 26-09-79, Maidstone, None
+35, Gianluca Vialli, F, 5'11", 13 05, 09-07-64, Cremona, Juventus
+36, Leon Knight, F, 5'04", 09 06, 16-09-82, Hackney, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Bjarne Goldbæk, M, 5'10", 11 06, 06-10-68, Denmark, Fulham

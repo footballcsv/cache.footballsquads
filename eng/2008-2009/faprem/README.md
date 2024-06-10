@@ -1,0 +1,23 @@
+# English Premier League 2008/09
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Hull City](hullc.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Portsmouth](portsm.txt)
+- [Stoke City](stoke.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [West Ham United](westham.txt)
+- [Wigan Athletic](wigan.txt)

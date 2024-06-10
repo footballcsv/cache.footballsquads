@@ -1,0 +1,46 @@
+=  Shandong Taishan - Chinese Super League 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Li Guanxi, CHN, G, 1.86, 75, 25-09-98, Dezhou, None
+3, Liu Junshuai, CHN, D, 1.85, 75, 10-01-95, Qingdao, Torreense
+4, Jadson, BRA, D, 1.88, 80, 05-11-91, Rio de Janeiro, Portimonense
+5, Zheng Zheng, CHN, D, 1.80, 75, 11-07-89, Qingdao, None
+6, Wang Tong, CHN, D, 1.82, 72, 12-02-93, Shenyang, None
+7, Guo Tianyu, CHN, F, 1.92, 80, 05-03-99, Jinan, None
+8, Xu Xin, CHN, M, 1.83, 78, 19-04-94, Shenyang, Guangzhou Evergrande
+10, Moisés, BRA, M, 1.84, 81, 17-03-88, Belo Horizonte, Palmeiras
+11, Liu Yang, CHN, D, 1.84, 75, 17-06-95, Qingdao, Oriental Dragon
+13, Zhang Chi, CHN, M, 1.75, 69, 08-07-87, Jinan, None
+14, Wang Dalei, CHN, G, 1.85, 75, 10-01-89, Dalian, Shanghai Shenhua
+15, Qi Tianyu, CHN, M, 1.82, 74, 22-01-93, Dezhou, None
+16, Li Hailong, CHN, D, 1.81, 75, 02-08-96, Linyi, Torreense
+17, Wu Xinghan, CHN, M, 1.83, 68, 24-02-93, Tianjin, None
+18, Han Rongze, CHN, G, 1.90, 70, 15-01-93, Shenyang, None
+19, Pedro Delgado, POR, M, 1.88, 79, 07-04-97, Portimão, Sporting CP
+20, Chen Zhechao, CHN, D, 1.77, 70, 19-04-95, Wuhan, Oriental Dragon
+21, Liu Binbin, CHN, M, 1.72, 72, 16-06-93, Mei County, None
+25, Marouane Fellaini, BEL, M, 1.94, 85, 22-11-87, Etterbeek, Manchester U
+27, Shi Ke, CHN, D, 1.84, 80, 06-01-93, Xuzhou, Shanghai SIPG
+28, Son Jun-Ho, KOR, M, 1.78, 73, 12-05-92, Yeongdeok, Jeonbuk Hyundai Motors
+29, Cheng Yuan, CHN, F, 1.83, 73, 08-10-93, Jinan, None
+31, Zhao Jianfei, CHN, D, 1.83, 76, 21-01-99, Henan, None
+32, Tian Xin, CHN, F, 1.78, 70, 29-03-98, Tianjin, None
+33, Jin Jingdao, CHN, M, 1.70, 64, 18-01-92, Yanbian, Shenyang Shenbei
+34, Huang Cong, CHN, M, 1.82, 78, 06-01-97, Wuhan, Gondomar
+35, Dai Lin, CHN, D, 1.91, 76, 28-11-87, Dalian, Shanghai Shenhua
+36, Duan Liuyu, CHN, F, 1.76, 73, 24-07-98, Shenzhen, None
+37, Ji Xiang, CHN, M, 1.85, 78, 01-03-90, Jiangsu, Jiangsu Suning
+38, Hao Haiyi, CHN, M, 1.77, 70, 27-09-99, -, None
+39, Song Long, CHN, D, 1.82, 70, 20-08-89, Qingdao, Qingdao Jonoon
+40, Zhang Yuanshu, CHN, M, 1.80, 77, 25-05-97, -, None
+41, Song Bowei, CHN, M, -, -, 12-12-01, -, None
+43, Yu Jinyong, CHN, G, -, -, 06-07-04, -, None
+44, Tash Mustapa, CHN, D, -, -, 01-03-03, -, None
+45, Jia Feifan, CHN, M, -, -, 13-01-01, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Hao Junmin, CHN, M, 1.78, 70, 24-03-87, Wuhan, Wuhan
+42, Xie Wenneng, CHN, M, -, -, 06-02-01, -, Qingdao Hainiu (On Loan)
+9, Leonardo, BRA, F, 1.80, 77, 28-05-97, Sorocaba, Hebei (On Loan)

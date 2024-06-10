@@ -1,0 +1,43 @@
+=  Konyaspor - Turkish Süper Lig 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Serkan Kırıntılı, TUR, G, 1.85, 78, 15-02-85, Karataş, Rizespor
+2, Volkan Fındıklı, TUR, D, 1.91, 83, 13-10-90, Muğla, Anadolu Selçukspor
+3, Eren Albayrak, TUR, D, 1.78, 65, 23-04-91, İstanbul, İstanbul Başakşehir
+4, Ali Turan, TUR, D, 1.86, 72, 06-09-83, Kayseri, Antalyaspor
+5, Selim Ay, TUR, D, 1.84, 75, 31-07-91, Antalya, None
+6, Jens Jønsson, DEN, M, 1.82, 78, 10-01-93, Aarhus, Aarhus
+7, Ömer Ali Şahiner, TUR, M, 1.75, 70, 02-01-92, Bursa, Anadolu Selçukspor
+8, Ali Çamdalı, TUR, M, 1.86, 80, 22-02-84, Duisburg, Orduspor
+10, Lebogang Manyama, RSA, M, 1.80, 76, 13-09-90, Tembisa, Cape Town C
+11, Deni Milošević, BEL, M, 1.82, 73, 09-03-95, , Standard Liège
+12, Abdou Razack Traoré, BFA, F, 1.70, 64, 28-12-88, Abidjan, Karabükspor
+14, Volkan Şen, TUR, M, 1.75, 71, 07-07-87, Bursa, Trabzonspor
+15, Emrullah Şalk, TUR, G, 1.89, 80, 28-07-87, İstanbul, Manisaspor
+17, Orkan Çınar, TUR, M, 1.75, 67, 29-01-96, Dortmund, Beşiktaş
+18, Amir Hadžiahmetović, BIH, M, 1.79, 71, 08-03-97, Nexø, Željezničar
+19, Wilfred Moke, COD, M, 1.83, 76, 12-02-88, Kinshasa, Steaua București
+20, Vedat Bora, TUR, M, 1.75, 65, 27-01-95, Gebze, Gebzespor
+21, Moryké Fofana, CIV, M, 1.78, 70, 23-11-91, Grand-Bassam, Lorient
+35, Patrik Carlgren, SWE, G, 1.88, 82, 08-01-92, Falun, FC Nordsjælland
+42, Petar Filipović, CRO, D, 1.88, 81, 14-09-90, Hamburg, Austria Vienna
+53, Musa Araz, SUI, M, 1.68, 65, 17-01-94, Fribourg, Lausanne-Sport
+60, Mustapha Yatabaré, MLI, F, 1.82, 70, 26-01-86, Beauvais, Karabükspor
+68, Mehdi Bourabia, FRA, M, 1.83, 73, 07-08-91, Dijon, Levski Sofia
+81, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Antalyaspor
+87, Ferhat Öztorun, TUR, D, 1.76, 73, 08-05-87, İstanbul, İstanbul Başakşehir
+88, Adis Jahović, MKD, F, 1.90, 85, 18-03-87, Skopje, Göztepe
+89, Nejc Skubic, SVN, D, 1.78, 75, 13-06-89, Ljubljana, Domžale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+99, Seddar Karaman, TUR, F, 1.78, 74, 03-01-94, Antalyaspor, Anadolu Selçukspor (On Loan)
+61, Halil İbrahim Sönmez, TUR, F, 1.77, 70, 01-10-90, Yomra, Rizespor (On Loan)
+39, Imoh Ezekiel, NGA, F, 1.70, 69, 24-10-93, Lagos, Las Palmas
+23, İsmail Güven, TUR, M, , , 16-04-94, Konya, Şanlıurfaspor (On Loan)
+22, Savaş Polat, TUR, D, 1.79, 69, 14-04-97, Bulanık, Anadolu Selçukspor (On Loan)
+45, Patrick Friday Eze, NGA, F, 1.87, 87, 22-12-92, Kaduna, Denizlispor (On Loan)
+9, Malick Evouna, GAB, F, 1.85, 80, 28-11-92, Libreville, Tianjin Teda
+25, Abdulaziz Demircan, TUR, G, 1.93, 94, 05-02-91, Diyarbakır, Dalkurd FF
+24, Kadir Kaan Özdemir, TUR, D, 1.81, 70, 01-03-98, İstanbul, Anadolu Selçukspor (On Loan)

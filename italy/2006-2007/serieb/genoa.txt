@@ -1,0 +1,58 @@
+=  Genoa - Italian Serie B 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Francesco Galeoto, D, 5'09", 11 00, 11-03-72, Palermo, Arezzo
+4, Francesco Bega, D, 5'11", 12 04, 26-10-74, Milan, Cagliari
+5, Manuel Coppola, M, 5'08", 11 00, 11-05-82, Rome, Salernitana
+7, Marco Rossi, M, 5'10", 10 12, 01-04-78, Serravezza, Como
+8, Filippo Carobbio, M, 6'01", 12 00, 15-10-79, Alzano Lombardo, AlbinoLeffe
+9, Luciano Figueroa, F, 6'00", 11 05, 19-05-81, Rosario, Villarreal
+10, Adailton, F, 5'08", 10 03, 24-11-77, Caxias do Sul, Verona
+11, Julio Cesar León, M, 5'09", 11 04, 13-09-79, Cortés, Reggina
+14, Giuseppe Sculli, F, 5'09", 11 00, 23-03-81, Locri, Juventus
+15, Silvano Raggio Garibaldi, M, , , 27-03-89, Chiavari, None
+16, Alessandro Moschella, M, , , 14-03-87, Messina, None
+19, Domenico Criscito, D, 6'00", 10 13, 30-12-86, Cercola, Juventus
+20, Fernando Martin Forestieri, F, 5'08", 10 08, 16-01-90, Rosario, Boca Juniors
+21, Marco Di Vaio, F, 5'10", 12 00, 15-07-76, Rome, Monaco
+22, Stefano Botta, M, 5'08", 10 12, 03-11-86, Como, Lugano
+23, Giuseppe Greco, M, 6'00", 11 07, 06-08-83, Palermo, Padova
+24, Alessandro Di Maio, D, , , 04-05-87, Palermo, None
+27, Cristian Stellini, D, 6'01", 12 04, 27-04-74, Busto Arsizio, Modena
+28, Ivan Jurić, F, 5'09", 10 08, 25-08-75, Split, Crotone
+29, Fabiano, D, 6'00", 11 05, 27-06-79, Osasco, Palmeiras
+30, Mirco Gasparetto, F, 6'02", 13 12, 02-02-80, Asolo, Empoli
+32, Martino Borghese, D, , , 05-06-87, Rome, None
+33, Gaetano De Rosa, D, 5'10", 11 07, 10-05-73, Düsseldorf, Reggina
+34, Andrea Masiello, D, 6'01", 11 11, 05-02-86, Viareggio, Siena
+37, Matteo Siligato, F, , , 22-02-86, Genoa, None
+57, Danilo Russo, G, , , 08-07-87, Pompei, Pergocrema
+73, Alessio Scarpi, G, 6'02", 12 13, 19-04-73, Venezia, Internazionale
+77, Omar Milanetto, M, 5'09", 11 09, 30-11-75, Venaria, Modena
+83, Rubinho, G, 6'01", 12 13, 04-08-82, São Paulo, Vitória Setúbal
+87, Tiago Pires, D, 6'02", 12 11, 02-01-87, Lisbon, Sporting CP
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Massimo Paci, D, 6'01", 11 07, 09-05-78, Fermo, Parma
+33, Igor Zaniolo, F, 6'00", 12 04, 12-03-73, Genova, Messina
+32, Federico Nieto, F, 6'03", 13 05, 26-08-83, Capital Federal, Verona (On Loan)
+55, Luca Fusco, D, 6'00", 10 10, 31-08-77, Salerno, Crotone (On Loan)
+2, Marco Ambrogioni, D, 5'11", 11 07, 29-10-74, Foligno, Gallipoli
+11, Gonzalez Kiese Rivaldo, M, 5'11", 12 00, 23-12-87, Asunción, Avellino (On Loan)
+13, Michele Bacis, D, 6'00", 12 04, 22-10-79, Bergamo, Avellino
+25, Stefano De Angelis, D, 5'10", 11 07, 23-05-74, Rome, Avellino
+74, Josè Mamede, M, 6'00", 12 13, 24-02-74, Torrao, Perugia
+99, Massimo Gazzoli, G, 6'01", 11 11, 17-07-75, Camaiore, Massese
+8, Roberto Lucas Rimoldi, M, 6'00", 12 06, 07-02-80, Cordoba, Argentinos Juniors (On Loan)
+3, Dario Biasi, D, 6'00", 12 08, 24-08-79, Isola della Scara, Verona (On Loan)
+15, Raffaele Longo, M, 6'00", 12 04, 06-09-77, Naples, Modena (On Loan)
+17, Ilyas Zeytulaev, F, 6'01", 11 11, 13-08-84, Agren, Reggina
+20, Leonel Ríos, M, 5'10", 11 00, 17-11-82, Capital Federal, Rosario Central
+21, Corrado Grabbi, F, 5'11", 12 04, 29-07-75, Turin, Arezzo
+81, Pedro López, D, 6'00", 12 08, 25-08-83, Cartagena, Arezzo
+1, Nicola Barasso, G, 6'00", 11 07, 21-11-81, Castellamare di Stabia, Taranto (On Loan)
+18, Salvatore Aurelio, F, 5'09", 10 08, 15-01-84, Naples, Lucchese (On Loan)
+30, Diogo, F, 6'01", 11 09, 29-07-87, Lisbon, Monza (On Loan)
+88, Mirko Martucci, M, , , 19-02-88, Liestal, Alessandria (On Loan)

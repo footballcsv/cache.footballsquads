@@ -1,0 +1,42 @@
+=  Rayo Vallecano - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Getafe
+2, Ernesto Galán, ESP, D, 1.81, 79, 17-06-86, Madrid, Mirandés
+3, Bebé, POR, M, 1.90, 75, 12-07-90, Agualva-Cacém, Eibar
+4, Antonio Amaya, ESP, D, 1.92, 86, 31-05-83, Madrid, Betis
+5, José Antonio Dorado, ESP, D, 1.80, 69, 10-07-82, Córdoba, Villarreal
+6, Gorka Elustondo, ESP, M, 1.82, 73, 18-03-87, Beasain, Atlético Nacional
+7, Álex Moreno, ESP, D, 1.79, 68, 06-08-93, Sant Sadurní d'Anoia, Mallorca B
+8, Óscar Trejo, ARG, M, 1.80, 79, 26-04-88, Santiago del Estero, Toulouse
+9, Alejandro Domínguez, ARG, F, 1.73, 71, 10-06-81, Lanús, Olympiakos
+10, Emiliano Armenteros, ARG, M, 1.79, 77, 18-01-86, Luis Guillón, Santos Laguna
+11, Adri Embarba, ESP, M, 1.73, 66, 07-05-92, Madrid, Rayo B
+13, Toño, ESP, G, 1.82, 81, 17-12-79, Alicante, Elche
+14, Baiano, BRA, D, 1.73, 65, 23-02-87, Correntina, Sporting Braga
+15, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, FC Porto
+17, Unai López, ESP, M, 1.69, 64, 30-10-95, Errenteria, Athletic Bilbao B
+18, Diego Aguirre, ESP, D, 1.70, 65, 17-10-90, Toledo, Toledo
+19, Abdulmajeed Al-Sulaiheem, KSA, M, 1.69, 63, 15-05-94, Riyadh, Al-Shabab
+20, Emiliano Velázquez, URU, D, 1.77, 68, 30-04-94, Montevideo, Atlético Madrid
+21, Manucho, ANG, F, 1.88, 83, 07-03-83, Luanda, Valladolid
+22, Raúl de Tomás, ESP, F, 1.78, 68, 17-10-94, Madrid, Real Madrid B
+23, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Racing Club
+24, Javi Guerra, ESP, F, 1.81, 78, 15-03-83, Vélez, Cardiff C
+25, Mario Fernández, ESP, G, 1.84, 74, 30-04-88, Santander, Osasuna
+27, Santi Comesaña, ESP, M, 1.84, 75, 05-10-96, Vigo, Coruxo
+28, Sergio Akieme, ESP, D, 1.75, 65, 16-12-97, Madrid, Rayo B
+29, Fran Beltrán, ESP, M, 1.70, 64, 03-02-99, Madrid, Rayo B
+30, Lucho García, COL, G, 1.83, 75, 20-03-98, Barranquilla, Rayo B
+31, Sergio Moreno, ESP, F, 1.78, 70, 01-01-99, Pamplona, Rayo B
+32, Kike Hermoso, ESP, D, 1.90, 76, 10-08-99, Madrid, Rayo B
+33, Sergio Benito, ESP, F, 1.73, 73, 23-03-99, Madrid, Rayo B
+35, Mario Hernández, ESP, M, , , 25-01-99, Madrid, Rayo B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Răzvan Raţ, ROU, D, 1.78, 72, 26-05-81, Slatina, 
+10, Roberto Trashorras, ESP, M, 1.79, 71, 28-02-81, Rabade, 
+19, Alhassane Bangoura, GUI, M, 1.74, 71, 30-03-92, Conakry, Almería (On Loan)
+26, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Toledo (On Loan)

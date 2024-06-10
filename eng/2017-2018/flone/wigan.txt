@@ -1,0 +1,66 @@
+=  Wigan Athletic - English Football League One 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Walton, ENG, G, 1.82, 75, 09-11-95, Wadebridge, Brighton & HA
+2, Nathan Byrne, ENG, D, 1.80, 84, 05-06-92, St Albans, Wolverhampton W
+3, Callum Elder, AUS, D, 1.80, 67, 27-01-95, Sydney, Leicester C
+4, David Perkins, ENG, M, 1.68, 76, 21-06-82, Heysham, Blackpool
+5, Sam Morsy, EGY, M, 1.75, 76, 10-09-91, Wolverhampton, Chesterfield
+6, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Tranmere R
+7, Jamie Walker, SCO, M, 1.80, 76, 25-06-93, Edinburgh, Hearts
+8, James Vaughan, ENG, F, 1.80, 80, 14-07-88, Birmingham, Sunderland
+9, Will Grigg, NIR, F, 1.80, 70, 03-07-91, Solihull, Brentford
+10, Devante Cole, ENG, F, 1.85, 73, 10-05-95, Alderley Edge, Fleetwood T
+11, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Leyton Orient
+12, Donervon Daniels, MSR, D, 1.86, 91, 24-11-93, Montserrat, WBA
+14, Alex Bruce, NIR, D, 1.80, 73, 28-09-84, Norwich, Bury
+15, Jordan Flores, ENG, M, 1.76, 67, 04-10-95, Wigan, None
+16, Shaun MacDonald, WAL, M, 1.85, 76, 17-06-88, Swansea, Bournemouth
+17, Michael Jacobs, ENG, M, 1.75, 74, 22-03-92, Northampton, Wolverhampton W
+18, Gary Roberts, ENG, M, 1.78, 74, 18-03-84, Chester, Portsmouth
+20, Craig Morgan, WAL, D, 1.87, 88, 16-06-85, St Asaph, Rotherham U
+21, Terell Thomas, ENG, D, 1.83, 71, 18-10-95, Redbridge, Charlton Ath
+22, Cheyenne Dunkley, ENG, D, 1.88, 85, 13-02-92, Wolverhampton, Oxford U
+23, Jamie Jones, ENG, G, 1.88, 91, 18-02-89, Kirkby, Stevenage
+24, Noel Hunt, IRL, F, 1.73, 72, 26-12-82, Waterford, Portsmouth
+25, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Manchester U
+26, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, Manchester U
+27, Ryan Colclough, ENG, M, 1.90, 83, 27-12-94, Burslem, Crewe Alex
+28, Jay Fulton, SCO, M, 1.78, 68, 04-04-94, Bolton, Swansea C
+31, Matija Šarkić, MNE, G, 1.92, 76, 23-07-97, Podgorica, Aston Villa
+33, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Fulham
+34, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, None
+35, Luke Burgess, ENG, M, 1.75, 66, 03-03-99, Liverpool, None
+36, Chris Merrie, ENG, M, 1.81, 72, 02-11-98, Liverpool, None
+37, Dan Lavercombe, ENG, G, 1.91, 71, 16-05-96, Torquay, Torquay U
+40, Owen Evans, WAL, G, 1.84, 70, 28-11-96, Newport, Hereford U
+41, Theo Roberts, ENG, G, , , 10-09-98, Wigan, None
+42, Mwiya Malumo, ZAM, F, , , 27-10-99, , Oldham Ath
+43, Will McGuffie, ENG, D, , , 27-10-00, Birkenhead, None
+44, Adam Long, ENG, D, 1.83, 76, 11-11-00, Douglas, None
+45, Joe Downey, ENG, M, , , 09-09-99, Birkenhead, None
+46, Divin Baningime, COD, F, 1.70, 67, 10-12-00, Kinshasa, None
+47, Tylor Golden, ENG, D, 1.74, 65, 08-11-99, Ipswich, Blackburn R
+48, Anthony Platt, ENG, D, , , 26-10-99, St Helens, Liverpool
+49, Victor Maffeo, ESP, D, , , 18-09-00, Barcelona, Manchester C
+50, Jordan Perrin, ENG, G, , , 18-09-99, Gillingham, Arsenal
+51, Tom Hilton, ENG, D, , , 30-09-99, Manchester, None
+52, Mitchell Culshaw, ENG, M, , , 15-09-01, Liverpool, None
+53, Jensen Weir, SCO, M, 1.86, 74, 31-01-02, Warrington, None
+54, James Berry, ENG, F, , , 10-02-00, Wigan, Liverpool
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Kaiyne Woolery, ENG, M, 1.79, 73, 11-01-95, Hackney, Swindon T
+14, Omar Bogle, ENG, F, 1.91, 80, 26-07-92, Birmingham, Cardiff C
+43, Andy Kellett, ENG, D, 1.78, 79, 10-11-93, Bolton, Chesterfield (On Loan)
+7, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, MK Dons
+19, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Bury (On Loan)
+29, Luke Burke, ENG, D, 1.70, 64, 22-02-98, Liverpool, AFC Fylde (On Loan)
+38, Danny Whitehead, ENG, F, 1.79, 69, 23-10-93, Trafford, Macclesfield T
+39, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, Morecambe (On Loan)
+8, Lee Evans, WAL, M, 1.86, 88, 24-07-94, Newport, Wolverhampton W
+10, Ivan Toney, ENG, F, 1.79, 65, 16-03-96, Northampton, Newcastle U
+30, James Barrigan, ENG, F, 1.80, 74, 25-01-98, Liverpool, Chorley
+32, Josh Gregory, ENG, M, 1.75, 68, 05-06-98, Wigan, Chorley

@@ -1,0 +1,52 @@
+=  Sassuolo - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Marlon, BRA, D, 1.82, 80, 07-09-95, Duque de Caxias, Barcelona
+4, Francesco Magnanelli, ITA, M, 1.81, 79, 12-11-84, Umbertide, Sangiovannese
+6, Rogério, BRA, D, 1.77, 70, 13-01-98, Nobres, Juventus
+7, Jeremie Boga, FRA, M, 1.74, 72, 03-01-97, Marseille, Chelsea
+9, Francesco Caputo, ITA, F, 1.81, 74, 06-08-87, Altamura, Empoli
+10, Filip Djuričić, SRB, M, 1.81, 75, 30-01-92, Obrenovac, Sampdoria
+11, Grégoire Defrel, FRA, F, 1.79, 77, 17-06-91, Meudon, Roma
+13, Federico Peluso, ITA, D, 1.88, 82, 20-01-84, Rome, Juventus
+14, Pedro Obiang, EQG, M, 1.86, 75, 27-03-92, Alcalà de Henares, West Ham U
+17, Mert Müldür, TUR, D, 1.88, 74, 03-04-99, Vienna, Rapid Vienna
+18, Giacomo Raspadori, ITA, F, 1.72, 69, 18-02-00, Bentivoglio, None
+19, Filippo Romagna, ITA, D, 1.86, 75, 26-05-97, Fano, Cagliari
+21, Vlad Chiricheş, ROU, D, 1.83, 75, 14-11-89, Bacău, Napoli
+22, Jeremy Toljan, GER, D, 1.82, 74, 08-08-94, Stuttgart, Borussia Dortmund
+23, Hamed Junior Traoré, CIV, M, 1.77, 68, 16-02-00, Abidjan, Empoli
+25, Domenico Berardi, ITA, F, 1.83, 72, 01-08-94, Cariati Marina, Juventus
+27, Lukáš Haraslín, SVK, M, 1.74, 64, 26-05-96, Bratislava, Lechia Gdańsk
+31, Gian Marco Ferrari, ITA, D, 1.89, 82, 15-05-92, Parma, Crotone
+32, Giangiacomo Magnani, ITA, D, 1.91, 87, 04-10-95, Correggio, Juventus
+33, Alessandro Tripaldelli, ITA, D, 1.82, 76, 09-02-99, Naples, Juventus
+35, Stefano Piccinini, ITA, D, 1.83, 77, 31-12-02, Scandiano, None
+44, Andrea Ghion, ITA, M, 1.77, 70, 23-02-00, Mantova, Parma
+47, Andrea Consigli, ITA, G, 1.89, 82, 27-01-87, Milan, Atalanta
+50, Brian Oddei, ITA, F, 1.75, 66, 18-09-02, Accra, None
+51, Jacopo Pellegrini, ITA, F, 1.71, 64, 12-09-00, Reggio Emilia, Reggiana
+52, Andrei Mărginean, ROU, M, 1.90, 80, 03-07-01, Zlatna, Zlatna
+53, Giacomo Manzari, ITA, F, 1.78, 72, 21-09-00, Bari, Bari
+54, Emiliano Gómez, URU, F, 1.77, 80, 18-09-01, Rivera, Boston River
+55, Giuseppe Aurelio, ITA, D, 1.85, 79, 22-03-00, Bracciano, None
+56, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Siena
+57, Alessandro Mercati, ITA, M, 1.71, 63, 12-05-02, Castelnovo ne' Monti, None
+63, Stefano Turati, ITA, G, 1.88, 66, 05-09-01, Milan, Renate
+64, Alessandro Russo, ITA, G, 1.93, 82, 31-03-01, Reggio Calabria, Genoa
+65, Gioele Zacchi, ITA, G, 1.83, 81, 10-07-03, Modena, None
+68, Mehdi Bourabia, MAR, M, 1.83, 73, 07-08-91, Dijon, Konyaspor
+73, Manuel Locatelli, ITA, M, 1.80, 70, 08-01-98, Lecco, Milan
+77, Georgios Kyriakopoulos, GRE, D, 1.82, 76, 05-02-96, Patras, Asteras Tripolis
+96, Leonardo Fontanesi, ITA, D, 1.81, 73, 20-02-96, Correggio, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Edoardo Goldaniga, ITA, D, 1.88, 82, 02-11-93, Milan, Genoa (On Loan)
+5, Andrew Gravillon, FRA, D, 1.88, 75, 08-02-98, Pointe-à-Pitre, Internazionale
+72, Aristidi Kolaj, ALB, F, 1.81, 75, 09-04-99, Marino, Pro Patria (On Loan)
+99, Enrico Brignola, ITA, F, 1.68, 71, 08-07-99, Caserta, Livorno (On Loan)
+36, Luca Mazzitelli, ITA, M, 1.87, 76, 15-11-95, Rome, Virtus Entella (On Loan)
+8, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Fiorentina (On Loan)
+32, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, 

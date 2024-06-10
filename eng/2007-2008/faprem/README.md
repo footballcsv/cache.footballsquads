@@ -1,0 +1,23 @@
+# English Premier League 2007/08
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Birmingham City](birmin.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Derby County](derby.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Portsmouth](portsm.txt)
+- [Reading](reading.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)
+- [Wigan Athletic](wigan.txt)

@@ -1,0 +1,46 @@
+=  Livorno - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Bardi, ITA, G, 1.87, 84, 18-01-92, Livorno, Internazionale
+2, Cristiano Piccini, ITA, D, 1.83, 77, 26-09-92, Florence, Fiorentina
+3, Giuseppe Gemiti, ITA, D, 1.76, 70, 03-05-81, Frankfurt am Main, Novara
+7, Paolo Castellini, ITA, D, 1.84, 78, 25-03-79, Brescia, Sampdoria
+8, Lorenzo Simonetti, ITA, M, 1.80, 72, 28-08-96, Livorno, None
+9, Paulinho, BRA, F, 1.76, 72, 10-01-86, Caxias do Sul, Juventude
+10, Andrea Luci, ITA, M, 1.72, 68, 30-03-85, Piombino, Ascoli
+11, Djamel Mesbah, ALG, D, 1.79, 72, 09-10-84, Zighoud Youcef, Parma
+14, Jonny Mosquera, COL, M, 1.71, 66, 17-02-91, Medellín, Envigado
+15, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, Internazionale
+16, Daniele Bartolini, ITA, M, 1.70, 67, 05-03-95, Carbonia, None
+17, Federico Ceccherini, ITA, D, 1.86, 72, 11-05-92, Livorno, None
+18, Elia Bruzzi, ITA, F, 1.80, 71, 08-04-95, Carrara, None
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, Olympiakos
+20, Innocent Emeghara, SUI, F, 1.70, 68, 27-05-89, Lagos, Siena
+21, Ishak Belfodil, ALG, F, 1.91, 86, 12-01-92, Mostaganem, Internazionale
+22, Luca Anania, ITA, G, 1.86, 80, 21-06-80, Milan, Padova
+23, Emerson, BRA, D, 1.87, 81, 16-08-80, Joinville, Reggina
+24, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Internazionale
+26, Luca Siligardi, ITA, F, 1.79, 73, 26-01-88, Correggio, Internazionale
+27, Marco Biagianti, ITA, M, 1.80, 74, 19-04-84, Florence, Catania
+29, Miguel Borja, COL, F, 1.82, 74, 26-01-93, Tierra Alta, Cortuluá
+32, Tommaso Biasci, ITA, F, 1.80, 75, 10-11-94, San Giuliano Terme, None
+33, Nahuel Valentini, ARG, D, 1.82, 79, 19-09-88, Rosario, Rosario Central
+37, Gabriele Aldegani, ITA, G, 1.95, 92, 10-05-76, Venice, Nocerina
+41, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Internazionale
+77, Leandro Rinaudo, ITA, D, 1.86, 78, 09-05-83, Palermo, Napoli
+85, Andrea Coda, ITA, D, 1.90, 86, 25-04-85, Massa, Udinese
+95, Andrea Tiritiello, ITA, D, 1.78, 72, 28-03-95, Porto Azzurro, None
+96, Matteo Cipriani, ITA, G, 1.85, 79, 04-11-96, Prato, Sestese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Alessandro Bernardini, ITA, D, 1.89, 80, 21-01-87, Domodossola, Chievo Verona (On Loan)
+8, Federico Dionisi, ITA, F, 1.79, 70, 16-06-87, Rieti, Olhanense (On Loan)
+90, Luca Mazzoni, ITA, G, 1.90, 78, 29-03-84, Livorno, Padova (On Loan)
+61, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, Internazionale
+5, Saulo Decarli, SUI, D, 1.86, 74, 04-02-92, Brione sopra Minusio, Avellino (On Loan)
+28, Pasquale Schiattarella, ITA, M, 1.78, 68, 30-05-87, Mugnano di Napoli, Spezia
+11, Alessandro Lambrughi, ITA, D, 1.83, 77, 19-05-87, Cernusco sul Naviglio, Novara (On Loan)
+7, Luca Belingheri, ITA, M, 1.83, 70, 06-04-83, Lovere, Cesena (On Loan)
+6, Riccardo Regno, ITA, D, 1.80, 72, 12-08-92, Bologna, Pontedera (On Loan)

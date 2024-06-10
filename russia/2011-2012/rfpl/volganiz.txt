@@ -1,0 +1,52 @@
+=  Volga Nizhny Novgorod - Russian Football Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vitaliy Astakhov, RUS, G, 1.92, 85, 09-01-79, Samara, Baltika Kaliningrad
+4, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Dynamo Moscow-2
+5, Andrey Karyaka, RUS, M, 1.79, 75, 01-04-78, Dnipropetrovsk, Dynamo Moscow
+6, Nikita Malyarov, RUS, M, 1.81, 74, 23-10-89, Moscow, Spartak Nalchik
+7, Vladislav Rizhkov, RUS, M, 1.68, 67, 28-02-90, Voronezh, Kuban Krasnodar
+8, Gia Grigalava, RUS, D, 1.90, 89, 05-08-89, Kutaisi, SKA Rostov-on-Don
+9, Aleksandr Shulenin, RUS, M, 1.78, 75, 31-10-79, Skhodnya, Sibir Novosibirsk
+10, János Székely, ROU, M, 1.77, 68, 13-05-83, Timişoara, Steaua Bucureşti
+12, Dani Bondar, ISR, D, 1.77, 71, 07-02-87, Moscow, Hapoel Tel Aviv
+13, Miklós Gaál, HUN, D, 1.82, 82, 13-05-81, Celldömölk, Amkar Perm
+14, Aleksey Pomerko, RUS, M, 1.82, 69, 03-05-90, Gorodovikovsk, Amkar Perm
+17, Petar Jelić, BIH, F, 1.89, 87, 18-10-86, Doboj, OFK Belgrade
+19, Mersudin Ahmetović, BIH, F, 1.91, 81, 19-03-85, Tuzla, FC Rostov
+21, Ruslan Adzhindzhal, RUS, M, 1.68, 68, 22-06-74, Gagra, Krylia Sovetov
+22, Aleksandr Budanov, RUS, M, 1.78, 74, 27-04-91, , Krylia Sovetov
+23, Mihăiţă Pleşan, ROU, M, 1.83, 77, 19-02-83, Moldova Nouă, Steaua Bucureşti
+24, Ruslan Pashtov, RUS, M, 1.74, 72, 28-11-92, Nalchik, Dynamo Moscow
+25, Andrey Buyvolov, RUS, D, 1.86, 76, 12-01-87, Balakhna, None
+26, Sergey Bendz, RUS, D, 1.89, 81, 03-04-83, Krasnodar, Kuban Krasnodar
+28, Aleksandr Semyachkin, RUS, M, 1.74, 65, 25-07-92, , Saturn
+29, Shota Bibilov, RUS, M, 1.79, 68, 06-08-90, Vladikavkaz, Alania Vladikavkaz
+31, Ilya Abaev, RUS, G, 1.92, 83, 02-08-81, Moscow, Anzhi Makhachkala
+33, Inal Getigezhev, RUS, M, 1.87, 81, 23-05-87, Rostov-on-Don, FC Nizhny Novgorod
+41, Mikhail Kerzhakov, RUS, G, 1.89, 84, 28-01-87, Kingisepp, Zenit St Petersburg
+63, Aleksandr Belozerov, RUS, D, 1.83, 79, 27-10-81, Togliatti, Krylia Sovetov
+83, Aleksandr Kharitonov, RUS, M, 1.80, 72, 04-04-83, Krasnoyarsk, Tom Tomsk
+87, Ilya Maksimov, RUS, M, 1.83, 74, 02-02-87, Nizhny Novgorod, Kuban Krasnodar
+89, Aleksey Mamonov, RUS, D, 1.83, 79, 14-04-93, Poltava, Lokomotiv Moscow-2
+98, Dmitriy Karasev, RUS, F, 1.74, 63, 01-04-92, Nizhny Novgorod, Volga-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Aleksey Aravin, RUS, M, 1.85, 78, 09-07-86, Moscow, Spartak Nalchik
+77, Otar Martsvaladze, GEO, F, 1.76, 74, 14-07-84, Tbilisi, FC Krasnodar
+15, Maksim Zyuzin, RUS, M, 1.75, 75, 09-08-86, Irkutsk, Sibir Novosibirsk
+17, Maksim Burchenko, RUS, M, 1.72, 68, 21-03-83, Stary Oskol, Shinnik
+3, Leilton Silva, BRA, D, 1.78, 77, 07-03-82, Salvador, Volta Redonda
+18, Sergey Yashin, RUS, M, 1.78, 71, 03-01-81, Kaluga, Daugava
+7, Sanzhar Tursunov, UZB, M, 1.73, 63, 29-12-86, Tashkent, Alania Vladikavkaz
+50, Andrei Yeschenko, RUS, D, 1.76, 74, 09-02-84, Irkutsk, Lokomotiv Moscow
+14, Gogita Gogua, GEO, M, 1.72, 70, 04-09-83, Tbilisi, Dinamo Tbilisi
+20, Marc Crosas, ESP, M, 1.72, 69, 09-01-88, Sant Feliu de Guíxols, Santos Laguna
+70, Vagif Javadov, AZE, F, 1.83, 70, 25-05-89, Baku, Qarabağ
+99, Gocha Khojava, GEO, M, 1.79, 74, 16-03-85, , Dila Gori
+4, Lasha Salukvadze, GEO, D, 1.84, 80, 21-12-81, Tbilisi, Dila Gori
+5, Zurab Arziani, GEO, M, 1.78, 71, 19-10-87, , Dila Gori
+11, Mate Vatsadze, GEO, F, 1.80, 76, 17-12-88, Tbilisi, Dila Gori
+16, Anton Khazov, RUS, F, 1.85, 80, 28-04-79, Nizhny Novgorod, Tom Tomsk

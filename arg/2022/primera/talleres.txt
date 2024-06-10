@@ -1,0 +1,56 @@
+=  Talleres (Córdoba) - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alan Aguerre, ARG, G, 1.81, 76, 23-08-90, Capital Federal, Newell's Old Boys
+2, Rafael Pérez, COL, D, 1.86, 82, 09-01-90, Cartagena, Junior
+3, Lucas Suárez, ARG, D, 1.87, 79, 17-03-95, Río Cuarto, Estudiantes (Río Cuarto)
+4, Matías Catalán, ARG, D, 1.72, 64, 19-08-92, Mar del Plata, Pachuca
+5, Favio Álvarez, ARG, M, 1.84, 70, 23-01-93, Córdoba, UNAM
+7, Diego Valoyes, COL, F, 1.82, 76, 22-09-96, Cartagena, La Equidad
+8, Julio Buffarini, ARG, D, 1.72, 72, 18-08-88, General Cabrera, Huesca
+9, Michael Santos, URU, F, 1.70, 70, 13-03-93, Montevideo, FC København
+10, Héctor Fértoli, ARG, F, 1.74, 63, 03-12-94, El Trébol, Racing Club
+11, Federico Girotti, ARG, F, 1.89, 83, 02-06-99, San Isidro, River Plate
+12, Franco Fragueda, ARG, G, 1.90, 78, 25-07-00, Rosario, None
+13, Julián Malatini, ARG, D, 1.75, 63, 31-05-01, Córdoba, None
+14, Juan Cruz Giacone, ARG, F, 1.87, 80, 09-01-04, Oliveros, None
+15, Enzo Díaz, ARG, D, 1.75, 74, 07-12-95, Las Toscas, Agropecuario
+16, Rodrigo Garro, ARG, M, 1.74, 70, 04-01-98, General Pico, Instituto (Córdoba)
+17, Christian Oliva, URU, M, 1.78, 75, 01-06-96, Ciudad del Plata, Cagliari
+18, Rodrigo Villagra, ARG, M, 1.78, 70, 14-02-01, Morteros, Rosario Central
+19, Francisco Pizzini, ARG, F, 1.77, 74, 19-09-93, Bahía Blanca, Defensa y Justicia
+20, Gonzalo Álvez, ARG, M, 1.69, 66, 23-11-03, San Lorenzo, None
+21, Ángelo Martino, ARG, D, 1.78, 73, 05-06-98, Rafaela, Atlético Rafaela
+22, Guido Herrera, ARG, G, 1.87, 80, 29-02-92, Río Cuarto, Defensores de Belgrano
+23, Alan Franco, ECU, M, 1.76, 67, 21-08-98, Alfredo Baquerizo Moreno, Atlético Mineiro
+24, Santiago Toloza, ARG, M, 1.71, 66, 28-10-02, Morteros, None
+25, Leandro Espejo, ARG, M, 1.73, 70, 11-09-01, Chimbas, Sportivo Peñarol
+26, Agustín Vanega, ARG, D, 1.78, 72, 28-01-03, Córdoba, None
+27, Kevin Pereira, PAR, M, 1.66, 65, 15-01-04, Asunción, Deportivo Capiatá
+29, Gastón Benavídez, ARG, D, 1.75, 72, 23-10-95, Morteros, Estudiantes (Río Cuarto)
+30, Ulises Ortegoza, ARG, M, 1.80, 74, 19-04-97, San Nicolas de los Arroyos, Gimnasia y Esgrima (Mendoza)
+31, Maximiliano Gatani, ARG, M, 1.74, 71, 08-08-03, Córdoba, None
+32, Matías Esquivel, ARG, M, 1.64, 63, 22-03-99, San Francisco Solano, Lanús
+34, José David Romero, ARG, F, 1.79, 77, 25-03-03, Corrientes, None
+35, Gonzalo Rodríguez, ARG, D, 1.84, 82, 20-02-04, Córdoba, None
+36, Andrés Marsengo, ARG, G, 1.94, 82, 30-04-02, Morteros, None
+37, Agustín Venezia, ARG, F, -, -, 05-07-03, El Trébol, None
+38, Matías Godoy, ARG, F, 1.76, 70, 10-01-02, Santa Fe, Argentinos Juniors
+39, Luciano Paredes, ARG, D, 1.88, 81, 09-09-02, Rosario, None
+40, Cristian Ludueña, ARG, M, 1.69, 64, 04-01-03, Córdoba, None
+42, Tomás Palacios, ARG, D, 1.95, 80, 28-04-03, General Pico, None
+44, Laureano Martínez, ARG, G, 1.88, 86, 03-04-02, Rosario, None
+49, Tomás Cavanagh, ARG, D, 1.82, 66, 05-01-01, Santa Fe, Vélez Sarsfield
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Francisco Álvarez, ARG, D, 1.80, 72, 26-02-00, Rawson, Patronato (Paraná) (On Loan)
+20, Matiás Córdoba, ARG, F, 1.70, 64, 16-04-99, San Pedro de Jujuy, Deportivo Morón (On Loan)
+36, Ignacio Lago, ARG, F, 1.75, 72, 05-08-02, Isidro Casanova, San Martín (San Juan) (On Loan)
+5, Francis Mac Allister, ARG, M, 1.76, 72, 30-10-95, Capital Federal, Rosario Central
+11, Emerson Batalla, COL, F, 1.71, 72, 30-06-01, Tumaco, Patronato (Paraná) (On Loan)
+19, Federico Girotti, ARG, F, 1.89, 83, 02-06-99, San Isidro, Re-Registered (11)
+23, Ramiro González, ARG, D, 1.83, 83, 21-11-90, Rosario, Platense
+33, Joaquín Blázquez, ARG, G, 1.93, 87, 28-01-01, Luque, Brest (On Loan)
+35, Fernando Juárez, ARG, M, 1.77, 66, 23-08-98, Santiago del Estero, Floriana (On Loan)

@@ -1,0 +1,57 @@
+=  Sunderland - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jon McLaughlin, SCO, G, 1.88, 83, 09-09-87, Edinburgh, Hearts
+2, Adam Matthews, WAL, D, 1.78, 71, 13-01-92, Swansea, Celtic
+3, Bryan Oviedo, CRC, D, 1.72, 69, 18-02-90, Alajuela, Everton
+4, Glenn Loovens, NED, D, 1.90, 83, 22-09-83, Doetinchem, Sheffield W
+5, Alim Öztürk, TUR, D, 1.90, 85, 17-11-92, Alkmaar, Boluspor
+6, Lee Cattermole, ENG, M, 1.78, 76, 21-03-88, Stockton-on-Tees, Wigan Ath
+7, Chris Maguire, SCO, M, 1.70, 66, 16-01-89, Bellshill, Bury
+8, Dylan McGeouch, SCO, M, 1.78, 69, 15-01-93, Glasgow, Hibernian
+9, Charlie Wyke, ENG, F, 1.81, 74, 06-12-92, Middlesbrough, Bradford C
+10, George Honeyman, ENG, M, 1.73, 72, 08-09-94, Prudhoe, None
+11, Lynden Gooch, USA, M, 1.73, 69, 24-12-95, Santa Cruz, None
+12, Tom Flanagan, NIR, D, 1.88, 72, 21-10-91, Hammersmith, Burton Alb
+13, Luke O'Nien, ENG, M, 1.74, 74, 21-11-94, Hemel Hempstead, Wycombe W
+14, Duncan Watmore, ENG, F, 1.75, 72, 08-03-94, Cheadle Hulme, Altrincham
+15, Jack Baldwin, ENG, D, 1.85, 70, 30-06-93, Redbridge, Peterborough U
+16, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, Wigan Ath
+17, Lewis Morgan, SCO, M, 1.78, 75, 30-09-96, Paisley, Celtic
+18, Donald Love, SCO, D, 1.78, 72, 02-12-94, Rochdale, Manchester U
+19, Aiden McGeady, IRL, M, 1.78, 72, 04-04-86, Glasgow, Everton
+22, Will Grigg, NIR, F, 1.80, 70, 03-07-91, Solihull, Wigan Ath
+23, Grant Leadbitter, ENG, M, 1.77, 79, 07-06-86, Chester-le-Street, Middlesbrough
+24, Jack Bainbridge, ENG, D, , , 21-05-98, Southport, Swansea C
+25, Robbin Ruiter, NED, G, 1.96, 78, 25-03-87, Amsterdam, FC Utrecht
+26, Kazaiah Sterling, ENG, F, 1.75, 71, 09-11-98, Enfield, Tottenham H
+27, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Wigan Ath
+28, Max Johnstone, ENG, G, 1.96, 83, 18-08-98, Preston, Manchester U
+30, Jimmy Dunne, IRL, D, 1.83, 75, 19-10-97, Drogheda, Burnley
+32, Maksymilian Stryjek, POL, G, 1.88, 81, 18-07-96, Warsaw, Polonia Warszawa
+33, Denver Hume, ENG, D, 1.77, 72, 11-08-98, Ashington, None
+34, Jake Hackett, ENG, M, 1.70, 60, 10-01-00, Durham, None
+37, Bali Mumba, ENG, M, 1.76, 62, 08-10-01, South Shields, None
+38, Owen Gamble, ENG, M, , , 02-01-99, Worksop, Doncaster R
+39, Jack Diamond, ENG, F, 1.75, 61, 12-01-00, Gateshead, None
+40, Brandon Taylor, ENG, D, 1.84, 75, 10-05-99, Gateshead, None
+41, Lee Connelly, SCO, F, 1.70, 62, 18-10-99, Glasgow, Queen's Park
+43, Anthony Patterson, ENG, G, 1.89, 77, 10-05-00, North Shields, None
+44, Ryan Leonard, ENG, M, , , 16-05-01, , None
+45, Dan Neil, ENG, M, 1.78, 65, 13-12-01, South Shields, None
+46, Jack Connolly, IRL, M, , , 29-04-00, Clondalkin, St Francis
+47, Jordan Hunter, ENG, D, 1.79, 73, 06-12-99, Garstang, Liverpool
+48, Benji Kimpioka, SWE, M, 1.82, 67, 21-02-00, Knivsta, IK Sirius
+49, Williams Kokolo, FRA, D, , , 09-06-00, , Monaco
+50, Jacob Young, AUS, D, 1.93, 89, 06-03-00, Wollongong, Cockburn C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Elliot Embleton, ENG, M, 1.73, 64, 02-04-99, Durham, Grimsby T (On Loan)
+42, Connor Shields, SCO, F, 1.82, 70, 29-07-97, Coatbridge, Alloa Ath (On Loan)
+17, Jerome Sinclair, ENG, F, 1.81, 75, 20-09-96, Birmingham, Watford
+36, Andrew Nelson, ENG, F, , , 16-09-97, Stockton-on-Tees, Dundee
+35, Luke Molyneux, ENG, M, 1.80, 74, 29-03-98, Bishop Auckland, Hartlepool U (On Loan)
+20, Josh Maja, NGA, F, 1.80, 74, 27-12-98, Lewisham, Bordeaux
+21, Ethan Robson, ENG, M, 1.80, 68, 25-10-96, Durham, Dundee (On Loan)

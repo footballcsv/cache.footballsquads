@@ -1,0 +1,34 @@
+=  Millonarios - Colombian Categoría Primera A 2019 Apertura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wuilker Faríñez, VEN, G, 1.75, 84, 15-02-98, Caracas, Caracas
+3, Alex Rambal, COL, D, 1.83, 70, 24-09-92, Barranquilla, Valledupar
+4, Breiner Paz, COL, D, 1.82, 71, 27-09-97, Valledupar, None
+6, Andrés Felipe Román, COL, D, 1.83, 80, 05-10-95, Bogotá, None
+7, Oscar Barreto, COL, M, 1.64, 68, 28-04-93, Bogotá, La Equidad
+8, César Carrillo, COL, M, 1.79, 65, 08-08-92, Sincelejo, Jaguares de Córdoba
+9, Juan Pérez, COL, F, 1.78, 72, 23-03-91, Montelíbano, Pachuca
+10, Santiago Montoya, COL, M, 1.73, 63, 15-09-91, Medellín, Vasco da Gama
+11, Carlos López, COL, F, 1.82, 75, 01-08-94, Pereira, Unión Huaral
+12, Ramiro Sánchez, COL, G, 1.86, 80, 05-10-83, Manizales, Real Cartagena
+13, Juan Camilo García, COL, M, 1.85, 79, 24-02-97, Bogotá, None
+14, David Silva, COL, M, 1.76, 73, 13-12-86, Bogotá, Deportes Tolima
+15, Felipe Jaramillo, COL, M, 1.84, 80, 18-04-96, Medellín, Itagüí Leones
+16, Jader Valencia, COL, F, 1.88, 80, 15-11-99, Sincelejo, Bogotá FC
+17, Christian Marrugo, COL, M, 1.75, 73, 18-07-85, Cartagena, Puebla
+18, Jair Palacios, COL, D, 1.80, 72, 30-06-90, Cali, Atlético Bucaramanga
+19, Roberto Ovelar, PAR, F, 1.79, 82, 01-12-85, Curuguaty, Junior
+20, Juan Domínguez, COL, D, 1.73, 65, 17-12-86, El Cerrito, Junior
+21, Fabián González, COL, F, 1.85, 75, 23-11-92, Puerto Tejada, Academia Cantolao
+22, Jhon Duque, COL, M, 1.74, 68, 04-06-92, Bogotá, Fortaleza [COL]
+23, Felipe Banguero, COL, D, 1.84, 74, 31-12-88, Medellín, Deportivo Cali
+24, Matías de los Santos, URU, D, 1.84, 83, 22-11-92, Salto, Danubio
+25, Juan Moreno, COL, G, 1.94, 92, 09-07-99, Apartadó, None
+26, Andrés Llinás, COL, D, 1.87, 82, 25-03-97, Bogotá, None
+27, Orles Aragón, COL, F, 1.80, 72, 14-06-97, Bogotá, None
+28, Stiven Vega, COL, D, 1.78, 65, 22-05-98, Apartadó, None
+29, Eliser Quiñónes, COL, M, 1.73, 78, 07-11-88, Magüi Payán, Alianza Petrolera
+30, Luis Payares, COL, D, 1.86, 80, 14-01-90, Barranquilla, Deportes Tolima
+31, Omar Bertel, COL, D, 1.74, 64, 09-09-96, Montelibano, None
+32, Christian Huérfano, COL, M, 1.76, 74, 15-12-95, Bogotá, None
+33, Jorge Rengifo, COL, M, 1.78, 74, 21-01-97, Tumaco, None

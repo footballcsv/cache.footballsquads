@@ -1,0 +1,54 @@
+=  Racing Club - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicolás Gentilio, URU, G, 1.81, 73, 13-04-87, Montevideo, Cerrito
+2, Hugo Magallanes, URU, D, 1.89, 86, 26-08-97, Melo, Querétaro
+3, Gastón Bueno, URU, D, 1.83, 74, 02-02-85, Montevideo, Montevideo Wanderers
+5, Agustín da Rocha, URU, M, 1.75, 75, 25-01-02, Santa Lucía, Nacional [URU]
+6, Diego Sosa, ARG, D, 1.75, 70, 28-07-97, Capital Federal, Tigre
+7, José Varela, URU, M, 1.78, 73, 29-05-88, Florida, Alianza
+8, Jonathan Urretavizcaya, URU, F, 1.74, 62, 19-03-90, Montevideo, Boston River
+9, Octavio Rivero, URU, F, 1.87, 82, 24-01-92, Treinta y Tres, Unión Española
+10, Juan Rivero, URU, F, 1.77, 74, 27-06-99, Montevideo, None
+12, Luis Mejía, PAN, G, 1.91, 81, 16-03-91, Ciudad de Panamá, Unión Española
+13, Agustín Vuletich, ARG, F, 1.85, 79, 03-11-91, Arias, Deportivo Cali
+14, Erik De Los Santos, URU, M, 1.70, 67, 16-01-99, Montevideo, Peñarol
+16, Mauro de Mora, URU, D, 1.82, 83, 21-03-04, Salto, None
+17, Santiago Otegui, URU, D, 1.82, 77, 17-01-03, Punta del Este, None
+18, Agustín Alaniz, URU, F, 1.82, 73, 16-05-02, Montevideo, Peñarol
+19, Carlos Airala, ARG, M, 1.73, 71, 25-08-02, Buenos Aires, River Plate
+20, Nicolás Suárez, URU, M, 1.71, 69, 29-05-97, Artigas, Cerro
+21, Lucas Lemos, URU, M, 1.83, 75, 26-02-00, Montevideo, Liverpool [URU]
+22, Matías Velázquez, URU, D, 1.82, 75, 16-05-92, Montevideo, Cerrito
+23, Áxel Pérez, URU, F, 1.78, 72, 18-02-02, Montevideo, Nacional [URU]
+25, Rodrigo Odriozola, URU, G, 1.85, 83, 31-08-88, Durazno, Ñublense
+26, Mauricio Affonso, URU, F, 1.92, 75, 26-01-92, Melo, River Plate [URU]
+27, Tomás Verón Lupi, ARG, F, 1.73, 67, 03-09-00, Quilmes, Quilmes
+28, Mateo Carrizo, URU, M, 1.68, 70, 05-09-03, Montevideo, Peñarol
+29, Alexander Hernández, URU, M, 1.77, 76, 18-08-04, Montevideo, None
+30, Enzo Zapata, URU, M, -, -, 30-10-04, Salto, None
+32, Anthony da Costa, URU, F, 1.70, 70, 07-04-06, Bella Unión, None
+33, Leandro Vega, ARG, D, 1.79, 70, 27-05-96, José Clemente Paz, Emelec
+34, Agustín Pereira, URU, D, 1.78, 69, 24-03-01, Montevideo, None
+52, Emiliano Méndez, ARG, M, 1.86, 82, 15-02-89, La Plata, Sarmiento (Junín)
+72, Jonathan Sandoval, URU, D, 1.76, 75, 25-06-87, Montevideo, Argentinos Juniors
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Fabián Píriz, URU, M, 1.72, 75, 25-01-98, Montevideo, San Marcos de Arica
+15, Santiago Mouriño, URU, D, 1.86, 76, 13-02-02, Montevideo, Atlético Madrid
+20, Gilmar Bolívar, COL, M, 1.71, 62, 27-10-01, Barranquilla, Deportes Quindío
+4, Gonzalo Aguilar, URU, D, 1.71, 70, 02-08-87, Montevideo, Retired
+19, Javier Méndez, URU, M, 1.84, 83, 05-12-94, Montevideo, América Mineiro
+32, Facundo Ospitaleche, URU, M, 1.79, 74, 11-04-96, Montevideo, Cavese
+8, Luis Gorocito, URU, F, 1.89, 86, 05-10-92, Montevideo, Deportes Puerto Montt
+9, Manuel Núñez, URU, F, 1.82, 80, 03-04-01, Villa Ansina, Gualaceo
+21, Matías Benítez, ARG, F, 1.71, 72, 13-11-00, Rosario, 
+5, Agustín Rodríguez, URU, M, 1.75, 70, 18-05-00, Montevideo, ABC
+16, Franco Paredes, ARG, D, 1.75, 73, 18-03-99, San Justo, River Plate
+12, Mathías Cubero, URU, G, 1.84, 90, 15-01-94, Montevideo, Potencia (On Loan)
+28, Ariel Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, 
+33, Rodrigo Rey, URU, F, 1.80, 73, 18-10-04, Montevideo, Cerrito (On Loan)
+17, Ignacio Lema, URU, F, 1.75, 74, 24-01-03, Ciudad del Plata, Uruguay Montevideo
+2, José Ávila, URU, D, 1.88, 80, 19-05-03, Montevideo, Danubio

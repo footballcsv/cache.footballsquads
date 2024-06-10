@@ -1,0 +1,43 @@
+=  Port Vale - English Football League Two 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Anyon, ENG, G, 1.88, 78, 29-12-86, Blackpool, None
+3, Rob Taylor, ENG, D, 1.83, 80, 16-01-85, Shrewsbury, Nuneaton Boro
+4, Anthony Griffith, ENG, M, 1.83, 76, 28-10-86, Huddersfield, Doncaster R
+5, John McCombe, ENG, D, 1.88, 81, 07-05-85, Pontefract, Hereford U
+6, Luke Prosser, ENG, D, 1.91, 66, 28-05-88, Enfield, None
+7, Doug Loft, ENG, M, 1.83, 77, 25-12-86, Maidstone, Brighton & HA
+8, David Howland, NIR, M, 1.80, 74, 17-09-86, Ballynahinch, Birmingham C
+9, Marc Richards, ENG, F, 1.80, 81, 08-07-82, Wolverhampton, Barnsley
+10, Tommy Fraser, ENG, M, 1.80, 81, 05-12-87, Brighton, Brighton & HA
+11, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Morecambe
+12, Chris Martin, ENG, G, 1.83, 85, 21-07-90, Mansfield, None
+14, Louis Dodds, ENG, M, 1.78, 80, 08-10-86, Sheffield, Leicester C
+15, Lee Collins, ENG, D, 1.80, 78, 28-09-88, Telford, Wolverhampton W
+16, Gareth Owen, WAL, D, 1.85, 73, 21-09-82, Cheadle, Stockport Co
+17, Sean Rigg, ENG, F, 1.75, 77, 01-10-88, Bristol, Bristol R
+18, Danny Glover, ENG, M, 1.80, 71, 24-10-89, Crewe, None
+19, Simon Richman, ENG, M, 1.75, 72, 02-06-90, Ormskirk, None
+20, Ross Davidson, ENG, D, 1.86, 74, 06-09-90, Burton-on-Trent, None
+21, James Lawrie, NIR, F, 1.83, 79, 18-12-90, Dundonald, None
+22, Danny Edwards, ENG, D, 1.75, 72, 24-04-91, Burton-on-Trent, None
+23, Lee Molyneux, ENG, D, 1.86, 81, 24-02-89, Liverpool, Southampton
+24, Daniel Lloyd-Weston, ENG, G, 1.88, 86, 17-08-91, Manchester, WBA
+25, Craig Davies, WAL, F, 1.88, 85, 09-01-86, Burton-on-Trent, Brighton & HA
+26, Kris Taylor, ENG, M, 1.75, 85, 12-01-84, Stafford, Hereford U
+28, Geoff Horsfield, ENG, F, 1.83, 73, 01-11-73, Barnsley, Lincoln C
+29, Sam Morsy, ENG, M, 1.75, 76, 10-09-91, Wolverhampton, None
+32, Lewis Haldane, WAL, F, 1.83, 71, 13-03-85, Trowbridge, Bristol R
+33, Anthony Malbon, ENG, F, 1.73, 70, 14-10-91, Sneyd Green, Derby Co
+34, Matty Bell, ENG, M, 1.80, 73, 03-01-92, Stoke-on-Trent, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Claus Bech Jørgensen, FRO, M, 1.78, 66, 27-04-76, Holstebro, Fleetwood T
+17, Steve Thompson, ENG, F, 1.71, 75, 15-04-89, Peterlee, AFC Telford U
+23, Luke Chapman, ENG, M, 1.86, 76, 10-03-91, Cannock, 
+27, Damien McCrory, IRL, M, 1.88, 81, 23-02-90, Croom, Plymouth Arg
+2, Sam Stockley, ENG, D, 1.83, 76, 05-09-77, Tiverton, Ferencváros
+25, Jamie Guy, ENG, F, 1.85, 83, 01-08-87, Barking, Colchester U
+33, Jason Jarrett, ENG, M, 1.83, 83, 14-09-79, Bury, 

@@ -1,0 +1,21 @@
+# German 2.Bundesliga 2015/16
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Arminia Bielefeld](abielefeld.txt)
+- [VfL Bochum](bochum.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Braunschweig](einbraun.txt)
+- [Fortuna Düsseldorf](dussel.txt)
+- [SC Freiburg](freiburg.txt)
+- [FSV Frankfurt](fsvfrank.txt)
+- [SpVgg Greuther Fürth](grefurth.txt)
+- [1.FC Heidenheim](heiden.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [RB Leipzig](leipzig.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [SC Paderborn](paderbo.txt)
+- [St Pauli](stpauli.txt)
+- [SV Sandhausen](sandhaus.txt)
+- [1.FC Union Berlin](unionber.txt)

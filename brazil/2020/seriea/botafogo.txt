@@ -1,0 +1,54 @@
+=  Botafogo - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Fernández, PAR, G, 1.91, 81, 29-03-88, Asunción, Figueirense
+2, Kevin, BRA, D, 1.74, 68, 07-09-97, Teresina, Tombense
+3, Kanu, BRA, D, 1.86, 74, 07-03-97, Duque de Caxias, None
+5, Rafael Forster, BRA, D, 1.81, 81, 23-07-90, São José, Ludogorets Razgrad
+6, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, Palmeiras
+7, Rhuan, BRA, M, 1.70, 69, 25-01-00, São Gonçalo, None
+8, Salomon Kalou, CIV, M, 1.84, 77, 05-08-85, Oumé, Hertha Berlin
+9, Pedro Raúl, BRA, F, 1.92, 86, 05-11-96, Porto Alegre, Vitória Guimarães
+10, Bruno Nazário, BRA, M, 1.78, 68, 09-02-95, Cascavel, 1899 Hoffenheim
+11, Matheus Babi, BRA, F, 1.91, 75, 18-07-97, Macaé, Serra Macaense
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Crystal Palace
+14, Marcelo Benevenuto, BRA, D, 1.80, 73, 07-01-96, Resende, None
+15, Wesley, BRA, D, -, -, 07-01-01, -, None
+16, Gustavo Cascardo, BRA, D, 1.74, 66, 24-03-97, Mogi das Cruzes, Athletico Paranaense
+17, Carlos Rentería, COL, M, 1.75, 70, 05-07-95, Buenaventura, Deportes Tolima
+18, Rafael Navarro, BRA, F, 1.83, 80, 14-04-00, Cabo Frio, Fluminense
+19, Caio Alexandre, BRA, M, 1.74, 66, 24-02-99, Duque de Caxias, None
+20, Alexander Lecaros, PER, F, 1.67, 65, 13-10-99, Cusco, Cusco
+21, Romildo, BRA, M, 1.81, 71, 12-04-00, São José dos Campos, Joseense
+23, Luiz Otávio, BRA, M, 1.74, 70, 18-03-97, Curitiba, Tombense
+25, Warley, BRA, D, 1.73, 63, 17-09-99, Recife, Santa Cruz
+26, Lucas Barros, BRA, D, 1.80, 66, 21-08-99, Rio de Janeiro, None
+27, Davi Araújo, BRA, F, 1.79, 69, 20-03-99, Paracatu, Real Brasília
+28, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Grêmio
+29, Diego Loureiro, BRA, G, 1.90, 90, 28-07-98, Rio de Janeiro, None
+30, Sousa, BRA, D, 1.90, 79, 04-07-01, Rio de Janeiro, None
+31, Hugo, BRA, D, 1.75, 67, 20-09-01, João Pessoa, None
+32, Iván Angulo, COL, F, 1.70, 62, 22-03-99, Tumaco, Palmeiras
+33, Guilherme Santos, BRA, D, 1.73, 70, 05-02-88, Jequié, Tombense
+34, Cesinha, BRA, M, 1.70, 65, 03-10-00, Teresina, Três Passos
+35, Wendel Lessa, BRA, M, -, -, 06-02-02, -, Cabofriense
+36, Ênio, BRA, M, -, -, 03-03-01, -, None
+37, Kelvin, BRA, F, 1.75, 71, 01-06-93, Paraná, Avaí
+38, Federico Barrandeguy, URU, D, 1.76, 69, 08-05-96, Ombúes de Lavalle, Montevideo Wanderers
+39, Matheus Nascimento, BRA, F, 1.82, 75, 03-03-04, Rio de Janeiro, None
+40, Saulo, BRA, G, 1.90, 85, 20-04-95, Belo Horizonte, Corinthians Alagoano
+43, Helerson, BRA, D, 1.90, 79, 28-10-97, Belford Roxo, None
+47, Lucas Campos, BRA, F, 1.65, 62, 30-10-97, Nova Iguaçu, None
+50, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Atlético Mineiro
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Luiz Fernando, BRA, F, 1.78, 66, 16-10-96, Tocantinópolis, Grêmio (On Loan)
+, Danilo Barcelos, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, Fluminense
+, Ruan Renato, BRA, D, 1.87, 86, 14-01-94, Paulínia, Vitória
+, Luis Henrique, BRA, F, 1.81, 78, 14-12-01, João Pessoa, Marseille
+, Fernando, BRA, D, 1.82, 70, 29-11-98, Rio de Janeiro, 
+4, Keisuke Honda, JPN, M, 1.82, 75, 13-06-86, Osaka, 
+13, Marcinho, BRA, D, 1.78, 71, 16-05-96, Rio de Janeiro, 
+22, Éber Bessa, BRA, M, 1.67, 72, 21-03-92, Belo Horizonte, Nacional [POR]

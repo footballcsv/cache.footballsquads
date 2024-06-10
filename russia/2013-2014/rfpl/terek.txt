@@ -1,0 +1,41 @@
+=  Terek Grozny - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yaroslav Hodzyur, UKR, G, 1.94, 90, 06-03-85, Ivano-Frankivsk, Dynamo Kyiv-2
+4, Juhani Ojala, FIN, D, 1.91, 83, 19-06-89, Vantaa, Young Boys
+5, Antonio Ferreira, BRA, D, 1.91, 83, 24-04-84, Rio de Janeiro, Spartak Nalchik
+6, Adilson, BRA, M, 1.81, 70, 16-01-87, Bom Princípio, Grêmio
+8, Maurício, BRA, M, 1.80, 73, 21-10-88, São José dos Campos, Fluminense
+9, Aílton Almeida, BRA, F, 1.80, 79, 20-08-84, Hematita, APOEL
+10, Kanu, BRA, F, 1.90, 82, 23-09-87, Salvador, Anderlecht
+13, Fedor Kudryashov, RUS, D, 1.83, 80, 05-04-87, Moscow, Spartak Moscow
+14, Ismaïl Aissati, MAR, M, 1.74, 70, 16-08-88, Utrecht, Antalyaspor
+15, Andrey Semenov, RUS, D, 1.90, 86, 24-03-89, Moscow, Amkar Perm
+16, Evgeniy Gorodov, RUS, G, 1.85, 75, 13-12-85, Barnaul, FC Krasnodar
+17, Ivan Temnikov, RUS, M, 1.70, 65, 28-01-89, Bratsk, Rubin Kazan
+18, Jeremy Bokila, COD, F, 1.88, 78, 14-11-88, Kinshasa, Zulte-Waregem
+19, Oleg Ivanov, RUS, M, 1.91, 82, 04-08-86, Moscow, FC Rostov
+21, Daler Kuzyayev, RUS, M, 1.90, 86, 15-01-93, Orenburg, Neftekhimik Nizhnekamsk
+23, Facundo Píriz, URU, M, 1.78, 74, 27-03-90, Treinta y Tres, Nacional [URU]
+24, Marcin Komorowski, POL, D, 1.86, 75, 17-04-84, Pabianice, Legia Warszawa
+30, Gheorghe Grozav, ROU, F, 1.88, 82, 29-09-90, Alba Iulia, Petrolul Ploieşti
+31, Maciej Rybus, POL, M, 1.72, 75, 19-08-89, Łowicz, Legia Warszawa
+33, Vitaliy Gudiyev, RUS, G, 1.81, 65, 22-04-95, Vladikavkaz, Alania Vladikavkaz
+40, Rizvan Utsiev, RUS, M, 1.73, 68, 07-02-88, Argun, Terek-2
+51, Evgeniy Kobozev, RUS, G, 1.87, 78, 11-01-90, Ryazan, FC Ufa
+55, Igor Lebedenko, RUS, F, 1.82, 78, 27-05-83, Moscow, Rubin Kazan
+90, Murad Tagilov, RUS, D, 1.89, 81, 27-01-90, , Terek-2
+95, Magomed Mitrishev, RUS, F, 1.77, 61, 10-09-92, Grozny, Spartak Nalchik
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Arbi Mezhiev, RUS, G, 1.87, 83, 29-06-93, Moscow, Tom Tomsk
+21, Oleg Vlasov, RUS, M, 1.77, 73, 10-12-84, Priladozhsky, Torpedo Moscow
+15, Aleksandr Pavlenko, RUS, M, 1.79, 75, 20-01-85, Ordzhonikidze, Krylia Sovetov
+25, Martin Jiránek, CZE, D, 1.89, 90, 25-05-79, Liberec, Tom Tomsk
+15, Artem Radkov, BLR, D, 1.87, 82, 26-08-85, Mahilyow, BATE
+3, Dmitriy Yatchenko, RUS, D, 1.72, 68, 25-08-86, Moscow, Krylia Sovetov
+11, Zaur Sadaev, RUS, M, 1.82, 78, 06-11-89, Shali, Lechia Gdańsk (On Loan)
+89, Maciej Makuszewski, POL, M, 1.76, 70, 29-09-89, Grajewo, Lechia Gdańsk (On Loan)
+99, Jonathan Legaer, BEL, F, 1.79, 72, 13-04-87, Liège, Mechelen

@@ -1,0 +1,56 @@
+=  Lanús - Argentine Superliga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Esteban Andrada, ARG, G, 1.93, 81, 26-01-91, Mendoza, None
+2, Marcelo Herrera, ARG, D, 1.85, 78, 26-02-92, Ledesma, None
+3, Darío Cáceres, PAR, D, 1.76, 66, 26-01-98, Pirayú, None
+4, José Luis Gómez, ARG, D, 1.73, 63, 13-09-93, Santiago del Estero, Racing Club
+5, Leandro Maciel, ARG, M, 1.72, 70, 29-12-95, Rosario, None
+6, Román Martínez, ARG, M, 1.84, 79, 27-03-83, Morón, Estudiantes (LP)
+7, Lautaro Acosta, ARG, F, 1.68, 68, 14-03-88, Glew, Sevilla
+8, Fernando Barrientos, ARG, M, 1.74, 71, 17-11-91, Lanús, None
+11, Facundo Castillón, ARG, F, 1.69, 68, 21-08-86, Rosario, Racing Club
+12, Matías Ibáñez, ARG, G, 1.80, 74, 16-12-86, Capital Federal, Eibar
+13, Tomás Belmonte, ARG, D, 1.78, 69, 27-05-98, Lanús, None
+14, Matías Rojas, PAR, M, 1.86, 72, 03-11-95, Asunción, Cerro Porteño
+16, Gastón Lódico, ARG, M, 1.80, 72, 28-05-98, Temperley, None
+17, Gonzalo Di Renzo, ARG, M, 1.81, 74, 30-12-95, Bahía Blanca, None
+18, Matías Sánchez, ARG, M, 1.73, 71, 05-07-96, San Martín, Chacarita Juniors
+19, Germán Denis, ARG, F, 1.83, 87, 10-09-81, Lomas de Zamora, Independiente
+20, Lucas Vera, ARG, M, 1.64, 60, 18-04-97, Bernal, None
+21, Nicolás Pasquini, ARG, M, 1.76, 69, 02-01-91, Los Surgentes, None
+22, Nehuén Paz, ARG, D, 1.91, 80, 28-04-93, Capital Federal, Bologna
+23, Rolando García, PAR, D, 1.85, 76, 10-02-90, San Estanislao, Unión (Santa Fe)
+24, Leonardo Flores, ARG, D, 1.75, 68, 17-05-97, Lanús, None
+25, Marcelino Moreno, ARG, F, 1.68, 65, 25-06-95, Lanús, None
+26, Leonel Di Plácido, ARG, D, 1.76, 72, 28-01-94, Capital Federal, All Boys
+27, Gabriel Carrasco, ARG, M, 1.75, 74, 07-03-97, Banfield, None
+28, Alán González, ARG, G, 1.87, 79, 22-07-96, Lomas de Zamora, None
+29, Nicolás Thaller, ARG, D, 1.85, 86, 07-09-98, Lanús, None
+30, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, Arsenal [ARG]
+31, Juan Pablo Cozzani, ARG, G, 1.84, 77, 09-10-98, Mendoza, None
+32, Bruno Vides, ARG, F, 1.78, 76, 20-02-93, Salta, None
+33, Denis Martínez, ARG, F, 1.78, 80, 10-04-96, Ezpeleta, None
+34, Enzo Ortiz, ARG, D, 1.85, 73, 05-02-97, Córdoba, None
+35, Kevin Cardozo, ARG, M, 1.81, 76, 20-02-98, Guernica, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, José Sand, ARG, F, 1.82, 72, 17-07-80, Bella Vista, Deportivo Cali
+29, Ignacio Canuto, ARG, D, 1.76, 76, 20-02-86, Santa Fe, Tigre
+6, Diego Braghieri, ARG, D, 1.84, 79, 23-02-87, Las Parejas, Atlético Nacional
+1, Fernando Monetti, ARG, G, 1.83, 78, 21-02-89, La Plata, Atlético Nacional
+12, Nicolás Avellaneda, ARG, G, 1.91, 81, 24-02-93, Río Tercero, Defensa y Justicia (On Loan)
+22, Santiago Zurbriggen, ARG, D, 1.77, 72, 27-01-90, Santa Fe, Defensa y Justicia
+3, Maximiliano Velázquez, ARG, D, 1.78, 72, 14-03-80, Concepción del Uruguay, Aldosivi (Mar del Plata)
+19, Nicolás Aguirre, ARG, M, 1.80, 78, 27-06-90, Chabas, Chongqing Lifan
+5, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, Re-Registered (30)
+10, Román Martínez, ARG, M, 1.84, 79, 27-03-83, Morón, Re-Registered (6)
+16, Alejandro Silva, URU, M, 1.78, 67, 04-09-89, Montevideo, Re-Registered (10)
+17, Germán Denis, ARG, F, 1.83, 87, 10-09-81, Lomas de Zamora, Re-Registered (19)
+24, Leandro Maciel, ARG, M, 1.72, 70, 29-12-95, Rosario, Re-Registered (5)
+31, Esteban Andrada, ARG, G, 1.93, 81, 26-01-91, Mendoza, Re-Registered (1)
+32, Kevin Cardozo, ARG, M, 1.81, 76, 20-02-98, Guernica, Re-Registered (35)
+40, Matías Ibáñez, ARG, G, 1.80, 74, 16-12-86, Capital Federal, Re-Registered (12)
+10, Alejandro Silva, URU, M, 1.78, 67, 04-09-89, Montevideo, Montreal Impact

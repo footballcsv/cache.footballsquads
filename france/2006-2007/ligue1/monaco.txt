@@ -1,0 +1,45 @@
+=  Monaco - French Ligue 1 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guillaume Warmuz, G, 6'01'', 13 01, 22-05-70, Saint-Vallier, Borussia Dortmund
+2, Sylvain Monsoreau, D, 6'01", 12 08, 20-03-81, Saint-Cyr-L'Ecole, Lyon
+3, Manuel Dos Santos, D, 5'10", 11 13, 28-03-75, Praïa, Benfica
+4, François Modestó, D, 6'00", 11 11, 19-08-78, Bastia, Cagliari
+5, Diego Pérez, M, 5'10", 12 08, 18-05-80, Montevideo, Peñarol
+6, Jaroslav Plašil, M, 5'11", 11 04, 05-01-82, Opočno, None
+7, Lucas Ademar Bernardi, M, 5'07", 10 12, 27-09-77, Rosario, Marseille
+8, Gerard, M, 5'11", 11 00, 12-03-77, Barcelona, Barcelona
+9, Jan Koller, F, 6'07'', 15 10, 30-03-73, Smetanova Lhota, Borussia Dortmund
+10, Jérémy Menez, F, 6'00", 11 07, 07-05-87, Longjumeau, Sochaux
+13, Juan Pablo Pino, M, 5'09", 10 06, 30-03-87, Cartagena, Independiente Medellín
+14, Malaury Martin, M, 5'10", 11 07, 25-08-88, Nice, None
+15, Yaya Touré, M, 6'02", 12 04, 13-05-83, Sokoura Bouake, Olympiakos
+16, Stéphane Ruffier, G, 6'00", 11 09, 27-09-86, Bayonne, None
+17, Serge Gakpe, F, 5'09", 10 10, 07-05-87, Bondy, None
+18, Mohamed Kallon, F, 5'10", 11 03, 20-08-79, Freetown, Internazionale
+19, Gonzalo Vargas, F, 5'08", 12 00, 22-09-81, Montevideo, Gimnasia y Esgrima (LP)
+20, Frédéric Piquionne, F, 6'02", 12 01, 08-12-78, Nouméa, St-Etienne
+21, Camel Meriem, M, 5'08", 11 00, 18-10-79, Montbéliard, Bordeaux
+22, Bolívar, D, 6'01", 11 11, 16-08-80, Santa Cruz, Internacional
+23, Jerko Leko, M, 6'02", 12 08, 09-04-80, Zagreb, Dynamo Kiev
+24, Cédric Mongongu, D, 6'00", 12 00, 22-06-89, Kinshasa, None
+25, Leandro Cufré, D, 5'09", 12 00, 09-05-78, La Plata, Monaco
+26, Massamba Lô Sambou, D, 6'02", 11 11, 17-09-86, Kolda, Centre Aldo Gentina
+27, Frédéric Nimani N'Galou, F, 6'03", 13 05, 08-10-88, Marseille, None
+28, Djamel Bakar, M, 5'07", 10 03, 06-04-89, Marseille, None
+30, Flavio Roma, G, 6'03", 13 07, 21-06-74, Rome, Piacenza
+32, Gaël Givet, D, 5'11", 11 11, 09-10-81, Arles, None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Arnauld Lescure, D, 5'11", 12 06, 13-02-86, Auch, Toulon (On Loan)
+22, David Gigliotti, F, 5'09", 11 09, 30-05-85, Martigues, Troyes (On Loan)
+15, Vasilis Andreas Zikos, M, 5'10", 12 03, 01-06-74, Athens, AEK Athens
+28, Nicolas Maurice-Belay, F, 5'11", 11 07, 19-04-85, Sucy-en-Brie, Sedan (On Loan)
+31, Olivier Veigneau, D, 5'08", 10 03, 16-07-85, Suresnes, Nice (On Loan)
+40, Yannick Quesnel, G, 5'11'', 11 11, 24-10-73, Libourne, 
+29, Thomas Mangani, D, 6'00", 12 06, 29-04-87, Carpentras, Brest (On Loan)
+20, Marco Di Vaio, F, 5'10", 12 00, 15-07-76, Rome, Genoa
+13, Alexandre Licata, F, 5'10", 12 00, 01-02-84, Grenoble, Gueugnon (On Loan)
+11, Sébastien Grax, F, 5'10", 11 09, 23-06-84, Le Creusot, Sochaux (On Loan)

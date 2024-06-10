@@ -1,0 +1,51 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Victor, BRA, G, 1.93, 84, 21-01-83, Santo Anastácio, Grêmio
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, None
+3, Leonardo Silva, BRA, D, 1.92, 80, 22-06-79, Rio de Janeiro, Cruzeiro
+4, Frickson Erazo, ECU, D, 1.90, 78, 05-05-88, Esmeraldas, Barcelona [ECU]
+6, Fábio Santos, BRA, D, 1.79, 75, 16-09-85, São Paulo, Cruz Azul
+7, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Guangzhou Evergrande
+8, Elias, BRA, M, 1.73, 64, 16-05-85, São Paulo, Sporting CP
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Fluminense
+10, Juan Cazares, ECU, M, 1.69, 65, 03-04-92, Quinindé, Banfield
+11, Rómulo Otero, VEN, M, 1.65, 66, 09-11-92, El Tigre, Huachipato
+13, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Internacional
+14, Mansur, BRA, D, 1.81, 72, 17-04-93, Laranjeiras, Vitória
+15, Ralph, BRA, M, 1.75, 68, 07-03-98, São Fidelis, None
+16, Rodrigão, BRA, D, 1.95, 72, 11-09-95, Brasília, None
+17, Capixaba, BRA, F, 1.70, 66, 19-01-97, Guarapari, None
+18, Thalis, BRA, M, 1.80, 70, 19-03-96, Ariquemes, None
+19, Carlos César, BRA, D, 1.72, 70, 21-04-87, Uberaba, Boa
+20, Valdívia, BRA, M, 1.74, 70, 04-10-94, Jaciara, Internacional
+21, Adilson, BRA, M, 1.81, 70, 16-01-87, Bom Princípio, Terek Grozny
+23, Matheus Mancini, BRA, D, 1.88, 81, 14-09-94, Ribeirão Preto, Botafogo-SP
+25, Yago, BRA, M, 1.80, 80, 07-07-95, Belo Horizonte, None
+26, Felipe Santana, BRA, D, 1.94, 80, 17-03-86, Rio Claro, Kuban Krasnodar
+27, Luan, BRA, F, 1.68, 69, 11-08-90, São Miguel dos Campos, Atlético Sorocaba
+28, Jesiel, BRA, D, 1.86, 79, 05-03-94, Cândido Mota, Red Bull Brasil
+29, Alex Silva, BRA, D, 1.81, 74, 15-05-94, Minas Gerais, None
+30, Gabriel, BRA, D, 1.81, 80, 14-03-95, Pedro Leopoldo, None
+31, Leonan, BRA, D, 1.74, 64, 20-10-95, Engenho Velho, None
+32, Uilson, BRA, G, 1.86, 75, 28-04-94, Mucuri, None
+33, Elder Santana, BRA, F, 1.86, 80, 07-04-93, Vera Cruz, None
+34, Clebinho, BRA, M, 1.78, 66, 10-05-97, Penaforte, Salgueiro
+35, Emanuel, BRA, M, , , 05-11-97, Mogi Guaçu, None
+36, Bremer, BRA, D, 1.88, 80, 18-03-97, Itapitanga, None
+37, Marquinhos, BRA, F, 1.70, 71, 20-10-99, Cajari, None
+40, Cleiton, BRA, G, 1.90, 82, 19-08-97, Belmonte, None
+85, Roger, BRA, M, 1.81, 73, 10-08-85, Rio Claro, Ingolstadt
+87, Giovanni, BRA, G, 1.91, 83, 05-02-87, Bauru, Grêmio Prudente
+92, Marlone, BRA, M, 1.80, 78, 02-04-92, Augustinópolis, Corinthians
+94, Gustavo Blanco, BRA, M, 1.74, 66, 03-10-94, Salvador, Bahia
+99, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, Figuierense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+70, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, São Paulo
+22, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Vitória
+14, Danilo, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, Ponte Preta (On Loan)
+5, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, UANL Tigres
+70, Pablo, BRA, F, 1.75, 65, 18-12-92, Campinas, CRB (On Loan)

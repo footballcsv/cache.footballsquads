@@ -1,0 +1,56 @@
+=  Bristol Rovers - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Slocombe, ENG, G, 1.83, 75, 05-06-88, Scunthorpe, Blackpool
+2, Daniel Leadbitter, ENG, D, 1.83, 70, 24-06-91, Newcastle upon Tyne, Hereford U
+3, Tareiq Holmes-Dennis, ENG, D, 1.75, 75, 31-10-95, Farnborough, Huddersfield T
+4, Tom Lockyer, WAL, D, 1.84, 72, 03-12-94, Cardiff, None
+5, Tony Craig, ENG, D, 1.83, 65, 20-04-85, Greenwich, Millwall
+6, Edward Upson, ENG, M, 1.78, 73, 21-11-89, Bury St Edmunds, MK Dons
+7, Liam Sercombe, ENG, M, 1.78, 68, 25-04-90, Exeter, Oxford U
+8, Ollie Clarke, ENG, M, 1.80, 75, 29-06-92, Bristol, None
+10, Tom Nichols, ENG, F, 1.78, 75, 01-09-93, Taunton, Peterborough U
+13, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Brentford
+14, Chris Lines, ENG, M, 1.88, 76, 30-11-85, Bristol, Port Vale
+15, James Clarke, ENG, D, 1.83, 84, 17-11-89, Aylesbury, Woking
+17, Alex Jakubiak, SCO, F, 1.77, 66, 27-08-96, Westminster, Watford
+19, Jonson Clarke-Harris, ENG, F, 1.83, 71, 21-07-94, Leicester, Coventry C
+20, Gavin Reilly, SCO, F, 1.81, 73, 10-05-93, Dumfries, St Mirren
+21, Adam Smith, ENG, G, 1.80, 76, 23-01-92, Sunderland, Northampton T
+22, Joe Partington, WAL, D, 1.80, 76, 01-04-90, Portsmouth, Eastleigh
+24, Stuart Sinclair, ENG, M, 1.70, 67, 09-11-87, Houghton Conquest, Salisbury C
+25, Abu Ogogo, ENG, M, 1.73, 64, 03-11-89, Epsom, Coventry C
+26, Sam Matthews, ENG, M, 1.76, 71, 01-03-97, Poole, Bournemouth
+28, Michael Kelly, SCO, D, 1.81, 70, 03-11-97, Kilmarnock, Hurlford U
+30, Alfie Kilgour, ENG, D, 1.78, 75, 18-05-98, Bath, None
+31, Alexis André Jr, MAR, G, 1.90, 74, 31-05-97, Mulhouse, Kehler FV
+32, Luke Russe, ENG, M, 1.65, 64, 19-07-99, Bristol, None
+33, Alex Rodman, ENG, M, 1.88, 80, 15-12-87, Sutton Coldfield, Shrewsbury T
+34, Ben Morgan, WAL, D, , , 10-09-98, , None
+36, Cameron Hargreaves, ENG, M, 1.78, 70, 01-12-98, Plymouth, None
+37, Connor Jones, ENG, M, , , 30-11-98, , None
+38, Lewis Leigh-Gilchrist, ENG, M, , , 23-02-99, Bristol, None
+41, Rhys Kavanagh, WAL, F, , , 29-09-98, , Newport Co
+43, Deon Moore, ENG, F, , , 14-05-99, Croydon, Merstham
+45, James Spruce, WAL, M, , , 15-12-99, , None
+46, Zain Walker, ENG, M, 1.73, 58, 08-01-02, Wandsworth, Fulham
+47, Theo Widdrington, ENG, M, 1.78, 76, 06-04-99, Southampton, Portsmouth
+48, Liam Armstrong, ENG, G, 1.91, 83, 22-03-00, Bristol, None
+49, Harry Warwick, ENG, F, 1.76, 66, 07-02-01, Bath, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+43, Ashley Harper, ENG, D, 1.83, 65, 06-05-98, Bristol, 
+35, Lewis Ison, ENG, D, 1.83, 76, 15-03-99, Coventry, Coventry U
+29, Joe Martin, ENG, D, 1.83, 82, 29-11-88, Dagenham, Stevenage
+16, Tom Broadbent, ENG, D, 1.91, 90, 15-02-92, Basingstoke, Swindon T
+11, Bernard Mensah, ENG, F, 1.73, 59, 29-12-94, Hounslow, Aldershot T (On Loan)
+9, Stefan Payne, ENG, F, 1.78, 74, 10-08-91, Lambeth, Shrewsbury T (On Loan)
+23, Kyle Bennett, ENG, M, 1.65, 61, 09-09-90, Telford, Swindon T (On Loan)
+27, Rollin Menayese, WAL, D, 1.90, 80, 04-12-97, Cwmbran, Aldershot T (On Loan)
+39, Mohammed Baghdadi, GER, D, 1.79, 65, 30-10-96, Hannover, Eintracht Norderstedt
+40, Cameron Ebbutt, ENG, F, , , 30-01-99, Solihull, Hereford
+42, Cameron Allen, ENG, F, , , 14-10-99, , 
+44, Alfie Clarke, ENG, D, , , , , 
+18, Gabriel Osho, ENG, D, , , 14-08-98, Reading, Reading

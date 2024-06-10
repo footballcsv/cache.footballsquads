@@ -1,0 +1,38 @@
+=  Paris Saint-Germain - French Ligue 1 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluigi Buffon, ITA, G, 1.92, 92, 28-01-78, Carrara, Juventus
+2, Thiago Silva, BRA, D, 1.83, 79, 22-09-84, Rio de Janeiro, Milan
+3, Presnel Kimpembe, FRA, D, 1.83, 67, 13-08-95, Beaumont-sur-Oise, None
+4, Thilo Kehrer, GER, D, 1.84, 70, 21-09-96, Tübingen, Schalke
+5, Marquinhos, BRA, D, 1.81, 67, 14-05-94, São Paulo, Roma
+6, Marco Verratti, ITA, M, 1.65, 60, 05-11-92, Pescara, Pescara
+7, Kylian Mbappé, FRA, F, 1.78, 67, 20-12-98, Paris, Monaco
+8, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Zenit St Petersburg
+9, Edinson Cavani, URU, F, 1.84, 71, 14-02-87, Montevideo, Napoli
+10, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Barcelona
+11, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Manchester U
+12, Thomas Meunier, BEL, D, 1.91, 78, 12-09-91, Sainte-Ode, Club Brugge
+13, Dani Alves, BRA, D, 1.72, 68, 06-05-83, Juazeiro, Juventus
+14, Juan Bernat, ESP, D, 1.72, 67, 01-03-93, Valencia, Bayern Munich
+16, Alphonse Areola, FRA, G, 1.90, 85, 27-02-93, Paris, None
+17, Eric Maxim Choupo-Moting, CMR, F, 1.89, 82, 23-03-89, Hamburg, Stoke C
+20, Layvin Kurzawa, FRA, D, 1.81, 73, 04-09-92, Fréjuis, Monaco
+23, Julian Draxler, GER, M, 1.83, 68, 20-09-93, Gladbeck, Wolfsburg
+24, Christopher Nkunku, FRA, M, 1.75, 70, 14-11-97, Lagny-sur-Marne, None
+25, Adrien Rabiot, FRA, M, 1.88, 71, 03-04-95, Saint-Maurice, None
+27, Moussa Diaby, FRA, F, 1.70, 65, 07-07-99, Paris, None
+31, Colin Dagba, FRA, D, 1.70, 62, 06-09-98, Béthune, Boulogne
+34, Stanley Nsoki, FRA, D, 1.85, 78, 09-04-99, Poissy, None
+50, Sébastien Cibois, FRA, G, 1.87, 72, 02-03-98, Argenteuil, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Betis (On Loan)
+30, Kevin Trapp, GER, G, 1.89, 83, 08-07-90, Merzig, Eintracht Frankfurt (On Loan)
+21, Timothy Weah, USA, F, 1.85, 66, 22-02-00, New York, Celtic (On Loan)
+29, Yacine Adli, FRA, M, 1.86, 73, 29-07-00, Vitry-sur-Seine, Bordeaux
+28, Antoine Bernede, FRA, M, 1.77, 74, 26-05-99, Paris, Red Bull Salzburg
+19, Lassana Diarra, FRA, M, 1.73, 68, 10-03-85, Paris, Retired
+32, Kévin Rimane, FRA, M, 1.81, 74, 23-02-91, Cayenne, Istra 1961 (On Loan)

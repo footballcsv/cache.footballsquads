@@ -1,0 +1,41 @@
+=  Estudiantes (La Plata) - Argentine Superliga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jerónimo Pourtau, ARG, G, 1.91, 75, 23-01-00, Brandsen, None
+3, Iván Erquiaga, ARG, D, 1.76, 74, 26-03-99, Vivoratá, None
+4, Iván Gómez, ARG, M, 1.80, 65, 28-02-97, Villa Elisa, None
+5, Facundo Mura, ARG, D, 1.71, 74, 24-03-99, General Roca, None
+6, Jonathan Schunke, ARG, D, 1.94, 85, 22-05-87, 25 de Mayo, Ferro Carril Oeste
+7, Martín Cauteruccio, URU, F, 1.79, 76, 14-04-87, Montevideo, Cruz Azul
+8, Ángel González, ARG, M, 1.75, 68, 16-05-94, Godoy Cruz, Godoy Cruz (Mendoza)
+9, Federico González, ARG, F, 1.78, 79, 01-06-87, Entre Ríos, Tigre
+10, Gastón Fernández, ARG, M, 1.70, 72, 12-10-83, Capital Federal, Grêmio
+11, Franco Sivetti, ARG, M, 1.79, 75, 30-05-98, General Juan Madariaga, None
+12, Emiliano González, ARG, G, 1.93, 88, 29-05-98, Villa Dolores, None
+14, Facundo Sánchez, ARG, D, 1.75, 73, 07-03-90, Sa Pereyra, Tigre
+15, Nazareno Colombo, ARG, D, 1.84, 78, 20-03-99, Quilmes, None
+16, Lucas Rodríguez, ARG, M, 1.68, 64, 27-04-97, Florencio Varela, None
+18, Marcos Rojo, ARG, D, 1.87, 80, 20-03-90, La Plata, Manchester U
+19, Mateo Retegui, ARG, F, 1.86, 81, 29-04-99, San Fernando, Boca Juniors
+20, Diego García, URU, M, 1.68, 64, 29-12-96, Salto, Juventud
+21, Mariano Andújar, ARG, G, 1.94, 87, 30-07-83, Capital Federal, Napoli
+22, David Ayala, ARG, M, 1.73, 66, 26-07-02, Berazategui, None
+23, Enzo Kalinski, ARG, M, 1.83, 72, 10-03-87, Santiago del Estero, Banfield
+24, Nahuel Estévez, ARG, M, 1.83, 74, 14-11-95, Capital Federal, Comunicaciones
+25, Andrés Ayala, ARG, M, 1.69, 66, 13-03-00, Berazategui, None
+26, Darío Sarmiento, ARG, F, 1.67, 60, 29-03-03, Florencio Varela, None
+27, Javier Mascherano, ARG, M, 1.74, 73, 08-06-84, San Lorenzo, Hebei China Fortune
+28, Mauro Díaz, ARG, M, 1.70, 62, 10-03-91, Concepción del Uruguay, Shabab Al-Ahli
+29, Mauricio Rosales, ARG, D, 1.74, 68, 10-03-92, La Plata, None
+30, Juan Fuentes, CHI, M, 1.72, 75, 21-03-95, Rancagua, O'Higgins
+31, Mauricio Guzmán, ARG, D, 1.80, 76, 16-09-99, Brandsen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Nicolás Bazzana, ARG, D, 1.83, 81, 23-02-96, Gonnet, Aldosivi (Mar del Plata) (On Loan)
+16, Juan Francisco Apaolaza, ARG, F, 1.87, 79, 19-06-97, Magdalena, Instituto (Córdoba) (On Loan)
+7, Matías Pellegrini, ARG, M, 1.76, 67, 11-03-00, Magdalena, Inter Miami
+28, Edwar López, COL, F, 1.74, 74, 09-03-95, Apartadó, Argentinos Juniors
+18, Gonzalo Jara, CHI, D, 1.78, 77, 29-08-85, Santiago, Morelia
+17, Manuel Castro, URU, M, 1.72, 72, 27-09-95, Durazno, Atlanta U (On Loan)

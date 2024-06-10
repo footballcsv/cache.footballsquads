@@ -1,0 +1,34 @@
+=  Bastia - French Ligue 1 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jesper Hansen, DEN, G, 1.88, 78, 31-03-85, Frederikssund, Évian TG
+2, Sadio Diallo, GUI, F, 1.82, 75, 28-12-90, Conakry, Rennes
+3, Julien Benhaim, FRA, D, 1.80, 75, 25-10-96, Bastia, None
+5, Sébastien Squillaci, FRA, D, 1.84, 76, 11-08-80, Toulon, Arsenal
+6, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Manchester C
+7, Floyd Ayité, TOG, M, 1.74, 68, 15-12-88, Bordeaux, Reims
+8, Gaël Danic, FRA, M, 1.76, 65, 19-11-81, Vannes, Lyon
+9, Florian Raspentino, FRA, F, 1.79, 73, 06-06-89, Marignane, Caen
+11, Brandão, BRA, F, 1.89, 78, 16-06-80, São Paulo, St-Etienne
+12, Abdoulaye Keita, MLI, M, 1.75, 75, 05-01-94, Bamako, Centre Salif Keita
+14, Mehdi Mostefa Sbaa, ALG, M, 1.81, 82, 30-08-83, Dijon, Lorient
+15, Julian Palmieri, FRA, D, 1.70, 66, 17-12-86, Lyon, Istres
+16, Jean-Louis Leca, FRA, G, 1.77, 65, 21-09-85, Bastia, Valenciennes
+17, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Sochaux
+18, Yannick Cahuzac, FRA, M, 1.78, 66, 18-01-85, Ajaccio, None
+19, Axel Ngando, FRA, M, 1.77, 66, 13-07-93, Asnières-sur-Seine, Rennes
+20, François Modestó, FRA, D, 1.83, 80, 19-08-78, Bastia, Olympiakos
+22, Christopher Maboulou, FRA, M, 1.85, 79, 19-03-90, Montfermeil, Châteauroux
+23, Alexander Djiku, FRA, D, 1.82, 74, 09-08-94, Montpellier, None
+24, Yassine Jebbour, MAR, D, 1.80, 70, 24-08-91, Poitiers, Montpellier
+25, François Kamano, GUI, F, 1.82, 75, 01-05-96, Conakry, Satellite FC
+27, Julien Romain, FRA, M, 1.81, 70, 23-02-96, Saint-Pol-sur-Ternoise, None
+28, Florian Marange, FRA, D, 1.76, 70, 03-03-86, Talence, Sochaux
+29, Gilles Cioni, FRA, D, 1.65, 65, 14-06-84, Bastia, Paris FC
+30, Thomas Vincensini, FRA, G, 1.90, 73, 12-09-93, Bastia, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Adama Ba, MTN, F, 1.79, 68, 27-08-93, Sélibaby, Auxerre
+10, Lyes Houri, FRA, M, 1.75, 75, 19-01-96, Lomme, Belfort (On Loan)

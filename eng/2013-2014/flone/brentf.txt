@@ -1,0 +1,50 @@
+=  Brentford - English Football League One 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Richard Lee, ENG, G, 1.83, 79, 05-10-82, Oxford, Watford
+2, Kevin O'Connor, IRL, D, 1.80, 76, 24-02-82, Blackburn, None
+3, Scott Barron, ENG, D, 1.75, 61, 02-09-85, Preston, Millwall
+4, Adam Forshaw, ENG, M, 1.85, 71, 08-10-91, Liverpool, Everton
+5, Tony Craig, ENG, D, 1.83, 65, 20-04-85, Greenwich, Millwall
+6, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Southampton
+7, Sam Saunders, ENG, M, 1.75, 75, 29-08-83, Greenwich, Dagenham & Redbridge
+8, Jonathan Douglas, IRL, M, 1.80, 75, 22-11-81, Monaghan, Swindon T
+9, Clayton Donaldson, ENG, F, 1.85, 73, 07-02-84, Bradford, Crewe Alex
+11, Will Grigg, ENG, F, 1.80, 70, 03-07-91, Solihull, Walsall
+12, Alan McCormack, IRL, M, 1.73, 64, 10-01-84, Dublin, Swindon T
+15, Stuart Dallas, NIR, M, 1.83, 81, 19-04-91, Cookstown, Crusaders
+16, Jack Bonham, IRL, G, 1.92, 95, 14-09-93, Stevenage, Watford
+17, George Saville, ENG, M, 1.76, 73, 01-06-93, Camberley, Chelsea
+18, Alan Judge, IRL, M, 1.84, 88, 11-11-88, Dublin, Blackburn R
+19, Martin Fillo, CZE, F, 1.77, 72, 07-02-86, Planá, Viktoria Plzeň
+20, Toumani Diagouraga, FRA, M, 1.88, 72, 09-06-87, Paris, Peterborough U
+21, Liam O'Brien, ENG, G, 1.88, 73, 30-11-91, Ruislip, Barnet
+22, Jake Reeves, ENG, M, 1.73, 75, 30-05-93, Greenwich, None
+23, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, Arsenal
+24, Jake Bidwell, ENG, D, 1.83, 70, 21-03-93, Southport, Everton
+25, Raphaël Calvet, FRA, D, 1.82, 70, 07-02-94, Auxerre, Auxerre
+26, James Tarkowski, ENG, D, 1.85, 81, 19-11-92, Manchester, Oldham Ath
+27, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Charlton Ath
+28, Nico Yennaris, ENG, D, 1.70, 65, 23-05-93, Leytonstone, Arsenal
+29, Marcello Trotta, ITA, F, 1.87, 82, 29-09-92, Santa Maria Capua Vetere, Fulham
+30, Emmanuel Oyeleke, ENG, M, 1.75, 75, 24-12-92, Wandsworth, None
+31, Aaron Pierre, ENG, D, 1.85, 88, 17-02-93, Southall, Fulham
+32, Charlie Adams, ENG, M, 1.67, 62, 16-05-94, Hendon, None
+33, Luke Norris, ENG, F, 1.85, 85, 03-06-93, Stevenage, Hitchin T
+34, Josh Clarke, ENG, M, 1.73, 70, 05-07-94, Waltham Forest, None
+36, Tyrell Miller-Rodney, ENG, M, 1.75, 66, 23-04-94, , None
+38, Louis Hutton, ENG, M, 1.76, 72, 09-09-94, Bradford, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Conor McAleny, ENG, F, 1.78, 79, 12-08-92, Liverpool, Everton
+26, João Teixeira, POR, M, 1.67, 66, 18-01-93, Braga, Liverpool
+18, Javi Venta, ESP, D, 1.80, 74, 13-12-75, Oviedo, 
+38, Martin Taylor, ENG, D, 1.93, 95, 09-11-79, Ashington, Sheffield W
+23, Paul Hayes, ENG, F, 1.83, 82, 20-09-83, Dagenham, Scunthorpe U
+10, Farid El Alagui, MAR, F, 1.81, 72, 10-02-85, Marmande, Dundee U (On Loan)
+26, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Cardiff C
+28, Ben Nugent, ENG, D, 1.86, 75, 28-11-93, Street, Cardiff C
+14, Shaleum Logan, ENG, D, 1.85, 79, 06-11-88, Manchester, Aberdeen (On Loan)
+35, Alfie Mawson, ENG, D, 1.88, 81, 19-01-94, Hillingdon, Welling U (On Loan)

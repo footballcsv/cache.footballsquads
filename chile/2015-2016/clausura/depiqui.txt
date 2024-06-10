@@ -1,0 +1,37 @@
+=  Deportes Iquique - Chilean Primera División 2015/16 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rodrigo Naranjo, CHI, G, 1.92, 89, 30-08-79, Santiago, Coquimbo Unido
+2, Francisco Bahamondes, CHI, D, 1.77, 79, 07-04-88, La Calera, Unión La Calera
+3, Cristian Oviedo, CHI, D, 1.79, 76, 22-05-80, Talcahuano, Santiago Morning
+4, Javier Muñoz, CHI, M, 1.78, 70, 24-01-95, Alto Hospicio, None
+5, Rafael Caroca, CHI, M, 1.70, 67, 19-07-89, Curicó, Colo-Colo
+6, Mathías Riquero, URU, M, 1.76, 74, 29-08-82, Montevideo, Ñublense
+8, Mauricio Zenteno, CHI, D, 1.73, 76, 21-04-84, Linares, Deportes La Serena
+9, Piero Paz, CHI, F, 1.79, 70, 01-01-95, Iquique, None
+10, Manuel Villalobos, CHI, F, 1.72, 73, 15-10-80, Iquique, Huachipato
+11, Carlos Soza, CHI, M, 1.81, 77, 03-01-90, Talcahuano, Cobresal
+12, Brayan Cortés, CHI, G, 1.86, 77, 11-03-95, Iquique, None
+13, Jonathan Rebolledo, CHI, M, 1.70, 65, 22-10-91, Iquique, None
+14, Misael Dávila, CHI, D, 1.72, 67, 17-07-91, Iquique, None
+15, Michael Ríos, CHI, M, 1.73, 68, 19-06-84, Santiago, Universidad Católica
+16, Fernando Lazcano, CHI, M, 1.72, 70, 10-11-88, Santiago, Huachipato
+17, Tomás Charles, ARG, D, 1.84, 80, 12-06-85, Villa Domínico, Unión La Calera
+18, Misael Cubillos, CHI, F, 1.75, 67, 06-02-96, Iquique, None
+19, Diego Torres, ARG, M, 1.74, 70, 06-11-90, Villa Nueva, Estudiantes (BA)
+20, Luis Bustamante, ARG, M, 1.70, 70, 11-12-85, Ucacha, Levadiakos
+21, Ignacio Sotomayor, CHI, G, 1.80, 70, 04-12-96, Iquique, None
+22, Álvaro Delgado, CHI, F, 1.74, 66, 13-05-95, Iquique, None
+23, Walter Mazzolatti, ARG, M, 1.77, 76, 25-04-90, San Juan, Gimnasia y Esgrima (LP)
+24, Diego Fernández, CHI, M, 1.75, 70, 08-03-98, Loncoche, None
+25, Carlos González, CHI, G, 1.80, 75, 06-12-94, Iquique, None
+26, Hernán Lópes, ARG, D, 1.80, 80, 28-03-91, Lomas de Zamora, Estudiantes (BA)
+27, Matiás Figueroa, CHI, D, 1.82, 72, 07-05-96, Iquique, None
+28, Alan Moreno, CHI, D, 1.75, 65, 30-10-95, Iquique, None
+29, Matías Caroca, CHI, M, 1.82, 75, 23-04-96, Curicó, None
+31, José Cepeda, CHI, M, 1.68, 65, 11-10-97, Pozo Almonte, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Ignacio Herrera, CHI, F, 1.78, 74, 30-10-87, Santiago, Irtysh Pavlodar

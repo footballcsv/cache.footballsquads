@@ -1,0 +1,37 @@
+=  Brest - French Ligue 2 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexis Thébaux, FRA, G, 1.85, 81, 17-03-85, Les Sables D'Olonne, Caen
+3, Simon Falette, FRA, D, 1.84, 90, 19-02-92, Le Mans, Lorient
+4, Johan Martial, FRA, D, 1.84, 80, 30-05-91, Massy, Bastia
+5, Bernard Mendy, FRA, D, 1.80, 77, 20-08-81, Evreux, Odense
+6, Bruno Grougi, FRA, M, 1.73, 70, 26-04-83, Caen, Clermont
+7, Jonathan Ayité, TOG, F, 1.84, 75, 22-07-85, Bordeaux, Nîmes
+8, Ismaël Traoré, CIV, D, 1.85, 75, 18-08-86, Paris, Sedan
+9, Nicolas Verdier, FRA, F, 1.85, 72, 17-01-87, Nice, Gazélec Ajaccio
+10, Geoffrey Dernis, FRA, M, 1.71, 66, 24-12-80, Grande-Synthe, Montpellier
+11, Dominique Pandor, FRA, M, 1.70, 69, 15-05-93, La Trinité, Monaco
+12, Alexandre Alphonse, FRA, F, 1.74, 70, 17-06-82, Paris, Zürich
+13, Abel Khaled, FRA, M, 1.80, 67, 09-11-92, Luxeuil-les-Bains, Epinal
+14, Wilfried Moimbé, FRA, M, 1.73, 65, 18-10-88, Vichy, Tours
+15, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Villarreal
+18, Diallo Guidileye, FRA, M, 1.81, 76, 30-12-89, Djadijibiné, Troyes
+19, Benoît Lesoimier, FRA, M, 1.71, 60, 21-02-83, Saint-Lô, Troyes
+21, Brahim Ferradj, ALG, M, 1.72, 74, 04-09-87, Saint-Etienne, Auxerre
+22, Ousmane Coulibaly, MLI, D, 1.83, 75, 09-07-89, Paris, Guingamp
+23, Manuel Pérez, FRA, M, 1.80, 71, 11-05-91, Grenoble, Grenoble
+24, Tripy Makonda, FRA, M, 1.80, 70, 24-01-90, Ivry-sur-Seine, Paris St-Germain
+25, Johann Ramaré, FRA, M, 1.81, 74, 05-06-84, Rennes, Reims
+27, Florian Julien, FRA, D, 1.75, 70, 27-07-93, Brest, None
+28, Timothée Dieng, FRA, D, 1.89, 77, 09-04-92, Grenoble, None
+30, Joan Hartock, FRA, G, 1.89, 83, 17-02-87, La Trinité, Lyon
+33, Jordan Lebacle, FRA, F, 1.68, 70, 17-08-92, , La Vitréenne
+34, William Sea, FRA, F, 1.80, 75, 09-07-92, Juvisy-sur-Orge, None
+35, Brendan Chardonnet, FRA, D, 1.81, 74, 22-12-94, Saint-Renan, None
+40, Mathieu Kervestin, FRA, G, 1.97, 98, 21-05-93, Brest, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Richard Soumah, GUI, M, 1.77, 69, 06-10-86, Créteil, RAEC Mons
+29, André Auras, SEN, M, 1.83, 77, 22-04-91, Dakar, LA Galaxy

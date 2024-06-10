@@ -1,0 +1,36 @@
+=  Arsenal Tula - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Igor Obukhov, RUS, G, 1.90, 76, 29-05-96, St. Petersburg, Zenit-2
+6, Maksim Belyayev, RUS, D, 1.85, 76, 30-09-91, Ozyory, Shinnik
+7, Kantemir Berkhamov, RUS, M, 1.80, 72, 07-08-88, Moscow, FC Tosno
+8, Gia Grigalava, GEO, D, 1.90, 89, 05-08-89, Kutaisi, Ethnikos Achnas
+9, Kirill Kombarov, RUS, D, 1.82, 69, 22-01-87, Moscow, Tom Tomsk
+10, Evans Kangwa, ZAM, F, 1.80, 65, 21-06-94, Kasama, Gaziantepspor
+11, Sergey Tkachev, RUS, M, 1.83, 77, 19-05-89, Boguchar, CSKA Moscow
+13, Stoppila Sunzu, ZAM, D, 1.89, 80, 22-06-89, Chingola, Lille
+14, Anri Khagush, RUS, D, 1.77, 74, 23-09-86, Gagra, BATE
+15, Habib Maïga, CIV, M, 1.81, 78, 01-01-96, Gagnoa, St-Etienne
+16, Aleksey Berezin, RUS, G, 1.90, 82, 16-04-93, Kazan, Dnepr Smolensk
+17, Guram Adzhoyev, RUS, F, 1.85, 80, 27-02-95, Miskolc, Dynamo Moscow-2
+18, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Zenit St Petersburg
+19, Federico Rašić, ARG, F, 1.94, 84, 24-03-92, La Plata, Gimnasia y Esgrima (LP)
+20, Goran Čaušić, SRB, M, 1.80, 74, 05-05-92, Belgrade, Osasuna
+21, Víctor Álvarez, ESP, D, 1.78, 69, 14-03-93, Barcelona, Espanyol
+23, Igor Gorbatenko, RUS, M, 1.70, 68, 13-02-89, Belgorod, Krylia Sovetov
+24, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Zenit St Petersburg
+25, Artem Yarmolitskiy, RUS, D, 1.86, 80, 10-04-94, , Tom Tomsk
+33, Aslanbek Sikoyev, RUS, F, 1.86, 77, 11-03-95, Vladikavkaz, Spartak Vladikavkaz
+36, Mikhail Levashov, RUS, G, 1.93, 86, 04-10-91, Bogoroditsk, Volga Nizhny Novgorod
+52, Ivan Novoseltsev, RUS, D, 1.91, 82, 25-08-91, Moscow, Zenit St Petersburg
+55, Alexandru Bourceanu, ROU, M, 1.75, 72, 24-04-85, Galaţi, Steaua Bucureşti
+71, Aleksandr Denisov, RUS, D, 1.86, 78, 23-02-89, Tula, Volgar Astrakhan
+77, Mihail Aleksandrov, BUL, M, 1.79, 67, 11-06-89, Sofia, Legia Warszawa
+87, Ilya Maksimov, RUS, M, 1.83, 74, 02-02-87, Nizhny Novgorod, Anzhi Makhachkala
+88, Igor Shevchenko, RUS, F, 1.80, 70, 02-02-85, Samara, FC Ufa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Artem Mingazov, RUS, M, 1.76, 70, 01-10-96, Murmansk, Khimik Novomoskovsk (On Loan)
+30, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Club Brugge

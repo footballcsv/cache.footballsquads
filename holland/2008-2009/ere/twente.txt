@@ -1,0 +1,58 @@
+=  FC Twente - Dutch Eredivisie 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sander Boschker, NED, G, 1.86, 87, 20-10-70, Lichtenvoorde, Ajax
+3, Edson Braafheid, NED, D, 1.76, 71, 08-04-83, Paramaribo, FC Utrecht
+4, Peter Wisgerhof, NED, D, 1.81, 84, 19-11-79, Wageningen, NEC Nijmegen
+5, Slobodan Rajković, SRB, D, 1.95, 85, 03-02-89, Belgrade, Chelsea
+6, Wout Brama, NED, M, 1.76, 71, 21-08-86, Almelo, PH Almelo
+7, Romano Denneboom, NED, F, 1.89, 83, 29-01-81, Schiedam, NEC Nijmegen
+8, Ronnie Stam, NED, M, 1.75, 62, 18-06-84, Breda, NAC Breda
+9, Blaise Nkufo, SUI, F, 1.86, 86, 25-05-75, Kinshasa, Hannover 96
+10, Kenneth Perez, DEN, F, 1.82, 74, 29-08-74, Copenhagen, Ajax
+11, Nikita Rukavytsya, AUS, F, 1.83, 74, 22-06-87, Mykolaiv, Perth Glory
+12, Jeroen Heubach, NED, D, 1.77, 74, 24-09-74, Enschede, MVV Maastricht
+13, Nikolay Mihaylov, BUL, G, 1.94, 85, 28-06-88, Sofia, Liverpool
+15, Eljero Elia, NED, F, 1.76, 70, 13-02-87, Voorburg, ADO Den Haag
+16, Cees Paauwe, NED, G, 1.97, 91, 03-11-77, Dronten, ADO Den Haag
+17, Youssouf Hersi, NED, F, 1.73, 64, 20-08-82, Diredawa, Vitesse Arnhem
+18, Cheik Ismael Tioté, CIV, M, 1.80, 79, 21-06-86, Yamoussoukro, Anderlecht
+19, Douglas, BRA, D, 1.92, 80, 12-01-88, São Paulo, Joinville
+21, Marko Arnautović, AUT, F, 1.92, 83, 19-04-89, Vienna, Floridsdorfer AC
+22, Niels Wellenberg, NED, D, 1.80, 70, 09-08-82, Deventer, Go Ahead Eagles
+23, Patrick Gerritsen, NED, F, 1.82, 72, 13-03-87, Oldenzaal, DSVD
+24, Theo Janssen, NED, M, 1.80, 80, 27-07-81, Arnhem, Vitesse
+25, Andrej Rendla, SVK, F, 1.88, 78, 13-10-90, Banská Bystrica, Dukla Banská Bystrica
+26, Bjarni Viðarsson, ISL, M, 1.85, 73, 05-03-88, Reykjavik, Everton
+27, Petteri Pennanen, FIN, F, 1.81, 73, 19-09-90, Kuopio, Kuopion PS
+28, Martin Sus, CZE, M, 1.84, 68, 08-05-89, Brno, Brno
+34, Nick Scheurwater, NED, D, , , 20-03-88, , De Tubanters 1897
+35, Melvin Koetsier, NED, G, 1.85, 83, 29-01-89, Borne, NEO Borne
+37, Vargin Der, GER, M, , , 15-03-89, , Schalke
+38, Michael Schimpelsberger, AUT, M, 1.81, 73, 12-02-91, Linz, Red Bull Salzburg
+39, Niek Davina, NED, D, , , 21-03-87, , RSC Rossum
+40, Sebastian Sumelka, GER, D, 1.93, 80, 20-04-89, Vreden, Vreden
+41, Marcel Piesche, GER, D, 1.70, 68, 28-02-89, Nordhorn, Eintracht Nordhorn
+42, Joran Pot, NED, M, 1.77, 71, 20-01-89, Heino, Heino
+45, Gaby Jallo, NED, D, , , 01-01-89, Kamisili, ASVO
+46, Dario Vujičević, CRO, M, 1.80, 72, 01-04-90, Sarajevo, Schalke
+47, Lesley Nahrwold, NED, F, , , 10-01-88, Enschede, UDI
+48, Thilo Leugers, GER, D, 1.84, 77, 09-01-91, Lingen, None
+49, Erwin Nieuwboer, NED, M, , , 30-09-89, Aalten, AZSV
+50, Nick Hengelman, NED, G, 1.86, 84, 25-11-89, Glanerbrug, None
+58, Alexander Bannink, NED, M, 1.85, 75, 26-02-90, Oldenzaal, None
+59, Ninos Gouriye, NED, F, 1.75, 80, 14-01-91, Hengelo, None
+60, Theodor Vogelsang, GER, F, 1.83, 78, 23-02-90, Omsk, Veldhausen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Luke Wilkshire, AUS, M, 1.77, 80, 02-10-81, Wollongong, Dynamo Moscow
+4, Ramon Zomer, NED, D, 1.84, 75, 13-04-83, Almelo, NEC Nijmegen (On Loan)
+47, Paddy John, NED, F, 1.80, 75, 22-02-90, Wierden, Heracles Almelo
+31, Tjaronn Chery, NED, M, 1.70, 68, 04-06-88, Den Haag, Cambuur Leeuwarden (On Loan)
+32, Jules Reimerink, NED, F, 1.85, 77, 30-09-89, Oldenzaal, Go Ahead Eagles (On Loan)
+2, Rob Wielaert, NED, D, 1.78, 72, 29-12-78, Emmeloord, Ajax
+11, Stein Huysegems, BEL, F, 1.86, 76, 16-06-82, Herselt, KRC Genk
+55, Bartek Pacuszka, POL, D, 1.84, 78, 25-03-90, Warsaw, Heracles Almelo (On Loan)
+27, Ibrahim Maaroufi, MAR, M, 1.83, 71, 18-01-89, Brussels, Internazionale

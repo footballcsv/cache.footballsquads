@@ -1,0 +1,44 @@
+=  Alanyaspor - Turkish Süper Lig 2016/17
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Haydar Yılmaz, TUR, G, 1.87, 80, 19-01-84, Aydın, Kartalspor
+2, Isaac Sackey, GHA, M, 1.90, 88, 04-04-94, Berekum, Slovan Liberec
+3, Berkan Emir, TUR, D, 1.78, 73, 06-02-88, Kocaeli, Kayserispor
+4, Birol Parlak, TUR, D, 1.82, 79, 01-03-90, Rize, Kayserispor
+5, Deniz Vural, TUR, M, 1.85, 81, 11-07-88, Gießen, Balıkesirspor
+6, Ismaïl Aissati, MAR, M, 1.74, 70, 16-08-88, Utrecht, Terek Grozny
+7, Efecan Karaca, TUR, M, 1.66, 56, 16-11-89, Fatih, Kartalspor
+10, Emre Akbaba, TUR, M, 1.80, 73, 04-10-92, Montfermeil, Antalyaspor
+11, Berat Şahiner, TUR, D, 1.75, 70, 12-11-97, Adapazarı, None
+13, Carlos García, ESP, D, 1.84, 82, 29-04-84, Barcelona, Maccabi Tel Aviv
+15, Nuru Sulley, GHA, D, 1.85, 78, 11-06-92, Accra, Al-Ahly [LBY]
+16, Guy Michel Landel, GUI, M, 1.72, 70, 03-07-90, Conakry, Gençlerbirliği
+21, Fabrice N'Sakala, COD, D, 1.78, 69, 21-07-90, Le Blanc-Mesnil, Anderlecht
+23, Candeias, POR, F, 1.77, 77, 25-02-88, Fornos de Algodres, Benfica
+24, Emre Nefiz, GER, M, 1.78, 68, 24-11-94, Frankfurt am Main, Gaziantepspor
+29, Glynor Plet, NED, F, 1.94, 83, 30-01-87, Amsterdam, Maccabi Haifa
+31, Giorgos Tzavelas, GRE, D, 1.83, 81, 26-11-87, Athens, PAOK
+37, Zdeněk Zlámal, CZE, G, 1.93, 92, 05-11-85, Přerov, Bohemians 1905
+44, Kenneth Omeruo, NGA, D, 1.85, 79, 17-10-93, Kaduna, Chelsea
+74, Alişan Şeker, TUR, G, 1.83, 83, 04-07-86, Bartın, Kırklarelispor
+77, Wilde-Donald Guerrier, HAI, M, 1.75, 72, 31-03-89, Port-à-Piment, Wisła Kraków
+78, Junior Fernándes, CHI, F, 1.81, 72, 04-10-88, Tocopilla, Dinamo Zagreb
+88, Taha Yalçıner, TUR, M, 1.78, 70, 12-01-87, İstanbul, Samsunspor
+89, Lamine Gassama, SEN, D, 1.81, 74, 20-10-89, Marseille, Lorient
+91, Cenk Ahmet Alkılıç, TUR, M, 1.69, 62, 09-12-87, İzmir, İstanbul Başakşehir
+94, Darko Lazić, SRB, D, 1.89, 80, 19-07-94, Smederevska Palanka, Anzhi Makhachkala
+99, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Monaco
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Sefa Yılmaz, GER, M, 1.83, 79, 14-02-90, Berlin, Trabzonspor
+19, Rauf Öktem, TUR, M, 1.75, 70, 12-03-97, Alanya, 12 Bingölspor (On Loan)
+22, Hasan Emiroğlu, TUR, D, 1.78, 68, 29-06-97, Alanya, 12 Bingölspor (On Loan)
+96, Murat Karahan, TUR, G, 1.83, 74, 13-03-96, Faith, 12 Bingölspor (On Loan)
+20, Erhan Kartal, TUR, D, 1.71, 62, 01-03-93, Milas, Gaziantep BB (On Loan)
+33, Abdoulaye Ba, SEN, D, 1.97, 79, 01-01-91, St. Louis, FC Porto
+8, Sajjad Shahbazzadeh, IRN, F, 1.85, 75, 23-01-90, Ardabil, 
+9, Jonathan Ayité, TOG, F, 1.84, 75, 22-07-85, Bordeaux, Yeni Malatyaspor
+14, Gökay Iravul, TUR, M, 1.70, 62, 18-10-92, Denizli, Samsunspor (On Loan)
+38, Mamadou Fofana, MLI, D, 1.87, 72, 21-01-98, Bamako, Bandırmaspor (On Loan)

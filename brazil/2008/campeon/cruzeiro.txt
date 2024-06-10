@@ -1,0 +1,54 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Andrey, BRA, G, 1.94, 91, 09-11-83, Porto Alegre, Steaua Bucureşti
+, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, None
+, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Santos
+, Giovanny Espinoza, ECU, D, 1.87, 89, 12-04-77, Charguayaco, Vitesse Arnhem
+, Fernandinho, BRA, D, 1.72, 73, 16-04-81, Ilhéus, Criciúma
+, Jadílson, BRA, D, 1.65, 66, 04-12-77, Maceió, São Paulo
+, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, None
+, Léo Fortunato, BRA, D, 1.84, 83, 14-03-83, Rio de Janeiro, Bangu
+, Maurinho, BRA, D, 1.75, 66, 11-10-78, Fernandópolis, São Paulo
+, Juan Pablo Sorín, ARG, D, 1.73, 67, 05-05-76, Buenos Aires, Hamburg
+, Thiago, BRA, D, 1.85, 80, 25-04-79, Belo Horizonte, Flamengo
+, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, None
+, Thiago Martinelli, BRA, D, 1.80, 73, 14-01-80, Vitória, São Caetano
+, Wellington, BRA, D, 1.87, 78, 09-01-89, Cuiabá, None
+, Bruno, BRA, M, 1.81, 80, 11-06-84, Porto Alegre, Santa Cruz-RS
+, Camilo, BRA, M, 1.74, 72, 09-03-86, Rio de Janeiro, Marília
+, Elicarlos, BRA, M, 1.76, 73, 08-06-85, Laranjeiras, Náutico
+, Fabrício, BRA, M, 1.78, 76, 05-07-82, Imbituba, Júbilo Iwata
+, Gerson Magrão, BRA, M, 1.81, 72, 13-06-85, Diadema, Flamengo
+, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Júbilo Iwata
+, Marquinhos Paraná, BRA, M, 1.74, 71, 20-07-77, Recife, Júbilo Iwata
+, Ramires, BRA, M, 1.79, 65, 24-03-87, Rio de Janeiro, Joinville
+, Javier Reina, COL, M, 1.73, 70, 04-01-89, Cali, América de Cali
+, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, América Mineiro
+, Fabinho Alves, BRA, F, 1.75, 66, 11-06-86, Vitoria da Conquista, Cabofriense
+, Guilherme, BRA, F, 1.73, 77, 22-10-88, Imperatriz, None
+, Jajá, BRA, F, 1.70, 63, 29-11-86, Itapipoca, Bahia
+, Reinaldo, BRA, F, 1.79, 74, 13-04-86, Arapiraca, Corinthians Alagoano
+, Rômulo, BRA, F, 1.88, 82, 25-02-82, Inhumas, Ituano
+, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Al-Rayyan
+, Wanderley, BRA, F, 1.82, 81, 11-10-88, Campinas, Ponte Preta
+, Weldon, BRA, F, 1.83, 77, 06-08-80, Santo André, Al Nasr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Marcel, BRA, F, 1.87, 87, 12-11-81, Mirassol, Benfica
+, Leandro Domingues, BRA, M, 1.73, 70, 24-08-83, Vitória da Conquista, Vitória-BA (On Loan)
+, Marcelo Martins Moreno, BOL, F, 1.87, 82, 18-06-87, Santa Cruz de la Sierra, Shakhtar Donetsk
+, Marcinho, BRA, M, 1.71, 70, 20-03-81, Campinas, Kashima Antlers (On Loan)
+, Luíz Fernando, BRA, M, 1.70, 63, 17-07-88, Carmo da Mata, Ipatinga
+, Nenê, BRA, F, 1.82, 78, 28-07-83, São Paulo, Nacional [POR]
+, Léo Silva, BRA, M, 1.78, 78, 24-12-85, São Luis, Ipatinga (On Loan)
+, Sandro, BRA, M, 1.76, 67, 10-01-81, Janduís, Ipatinga (On Loan)
+, Maicosuel, BRA, M, 1.78, 59, 16-06-86, Cosmópolis, Palmeiras (On Loan)
+, Luís Alberto, BRA, M, 1.81, 67, 17-11-83, Salvador, Nacional [POR]
+, Charles, BRA, M, 1.73, 72, 14-02-85, Rio de Janeiro, Lokomotiv Moscow
+, Kerlon, BRA, M, 1.67, 66, 27-01-88, Ipatinga, Chievo Verona
+, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, São Caetano

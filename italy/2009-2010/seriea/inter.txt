@@ -1,0 +1,53 @@
+=  Internazionale - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Francesco Toldo, ITA, G, 1.96, 90, 02-12-71, Padova, Fiorentina
+2, Iván Córdoba, COL, D, 1.73, 70, 11-08-76, Medellín, San Lorenzo
+4, Javier Zanetti, ARG, D, 1.78, 75, 10-08-73, Buenos Aires, Banfield
+5, Dejan Stanković, SRB, M, 1.81, 75, 11-09-78, Belgrade, Lazio
+6, Lúcio, BRA, D, 1.88, 84, 08-05-78, Brasília, Bayern Munich
+7, Ricardo Quaresma, POR, M, 1.75, 75, 26-09-83, Lisbon, FC Porto
+8, Thiago Motta, BRA, M, 1.88, 77, 28-08-82, São Bernardo do Campo, Genoa
+9, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Barcelona
+10, Wesley Sneijder, NED, M, 1.70, 67, 09-06-84, Utrecht, Real Madrid
+11, Sulley Muntari, GHA, M, 1.79, 76, 27-07-84, Konongo, Portsmouth
+12, Júlio César, BRA, G, 1.86, 79, 03-09-79, Rio de Janeiro, Chievo Verona
+13, Maicon, BRA, D, 1.84, 77, 26-07-81, Criciúma, Monaco
+15, Rene Krhin, SVN, M, 1.89, 78, 21-05-90, Maribor, Maribor
+17, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Parma
+19, Esteban Cambiasso, ARG, M, 1.77, 78, 18-08-80, Buenos Aires, Real Madrid
+20, Joel Chukwuma Obi, NGA, M, 1.76, 71, 22-05-91, Lagos, None
+21, Paolo Orlandoni, ITA, G, 1.86, 78, 12-08-72, Bolzano, Piacenza
+22, Diego Milito, ARG, F, 1.83, 78, 12-06-79, Bernal, Genoa
+23, Marco Materazzi, ITA, D, 1.93, 92, 19-08-73, Lecce, Perugia
+25, Walter Samuel, ARG, D, 1.83, 83, 23-03-78, Firmat, Real Madrid
+26, Christian Chivu, ROU, D, 1.84, 81, 26-10-80, Reşiţa, Roma
+27, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Lazio
+28, Alen Stevanović, SRB, M, 1.86, 75, 07-01-91, Zürich, Radnički Obrenovac
+29, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, None
+31, Denis Alibec, ROU, F, 1.87, 77, 05-01-91, Mangalia, Farul Constanţa
+39, Davide Santon, ITA, D, 1.87, 77, 02-01-91, Portomaggiore, None
+44, Sebastian Carlsen, SWE, M, 1.77, 70, 09-01-91, Helsingborg, Helsingborgs IF
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Lumezzane
+46, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, None
+48, Lorenzo Crisetig, ITA, M, 1.84, 74, 20-01-93, Cividale Del Fruili, None
+49, Mattia Destro, ITA, F, 1.81, 73, 20-03-91, Ascoli Piceno, None
+51, Vid Belec, SVN, G, 1.93, 87, 06-06-90, Maribor, Maribor
+52, Antonio Esposito, ITA, D, 1.82, 74, 05-09-90, Naples, Spezia
+53, Luca Tremolada, ITA, M, 1.72, 69, 25-11-91, Milan, None
+54, Simone Dell'Agnello, ITA, F, 1.85, 75, 12-04-92, Livorno, None
+56, Marek Kysela, CZE, D, 1.90, 80, 10-07-92, Rokycany, Viktoria Plzeň
+59, Andrea Romano', ITA, M, 1.78, 71, 23-07-93, Como, None
+89, Marko Arnautović, AUT, F, 1.92, 83, 19-04-89, Vienna, FC Twente
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Roma (On Loan)
+24, Nelson Rivas, COL, D, 1.81, 84, 25-03-83, Pradera, Livorno (On Loan)
+76, Kerlon, BRA, M, 1.67, 66, 27-01-88, Ipatinga, Ajax (On Loan)
+18, David Suazo, HON, F, 1.82, 75, 05-11-79, San Pedro Sula, Genoa (On Loan)
+14, Patrick Vieira, FRA, M, 1.92, 82, 23-06-76, Dakar, Manchester C
+60, Riccardo Cocuzza, ITA, M, , , 27-01-93, Vizzolo Predabissi, Parma
+55, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Piacenza (On Loan)
+30, Mancini, BRA, M, 1.83, 82, 01-08-80, Belo Horizonte, Milan (On Loan)

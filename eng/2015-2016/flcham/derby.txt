@@ -1,0 +1,42 @@
+=  Derby County - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Grant, ENG, G, 1.93, 83, 27-01-83, Hemel Hempstead, Burnley
+2, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Coventry C
+3, Craig Forsyth, SCO, D, 1.91, 81, 24-02-89, Carnoustie, Watford
+4, Craig Bryson, SCO, M, 1.70, 60, 06-11-86, Rutherglen, Kilmarnock
+5, Jake Buxton, ENG, D, 1.80, 83, 04-03-85, Sutton-in-Ashfield, Burton Alb
+6, Richard Keogh, IRL, D, 1.83, 71, 11-08-86, Harlow, Coventry C
+8, Jeff Hendrick, IRL, M, 1.85, 79, 31-01-92, Dublin, None
+9, Chris Martin, SCO, F, 1.78, 73, 04-11-88, Beccles, Norwich C
+10, Darren Bent, ENG, F, 1.80, 73, 06-02-84, Tooting, Aston Villa
+11, Johnny Russell, SCO, F, 1.78, 67, 08-04-90, Glasgow, Dundee U
+12, Chris Baird, NIR, D, 1.79, 71, 25-02-82, Ballymena, WBA
+14, Jason Shackell, ENG, D, 1.93, 83, 27-09-83, Stevenage, Burnley
+15, Bradley Johnson, ENG, M, 1.78, 68, 28-04-87, Hackney, Norwich C
+17, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Wigan Ath
+18, Jacob Butterfield, ENG, M, 1.80, 78, 10-06-90, Bradford, Huddersfield T
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, None
+20, Abdoul Razzagui Camara, GUI, M, 1.77, 70, 20-02-90, Mamar, Angers
+22, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Reading
+23, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Hull C
+24, Andreas Weimann, AUT, F, 1.88, 76, 05-08-91, Vienna, Aston Villa
+26, Jamie Hanson, ENG, D, 1.90, 79, 10-11-95, Burton-upon-Trent, None
+27, Iván Calero, ESP, M, 1.74, 64, 21-04-95, Parla, Atlético Madrid B
+29, Marcus Olsson, SWE, D, 1.80, 68, 17-05-88, Gävle, Blackburn R
+31, Max Lowe, ENG, M, 1.75, 74, 11-05-97, Birmingham, None
+34, George Thorne, ENG, M, 1.88, 84, 04-01-93, Chatham, WBA
+35, Jonathan Mitchell, ENG, G, 1.80, 86, 24-11-94, Hartlepool, Newcastle U
+37, Stephen Warnock, ENG, D, 1.78, 75, 12-12-81, Ormskirk, Leeds U
+39, Timi Elšnik, SVN, M, 1.78, 65, 29-04-98, Kidričevo, Aluminij
+41, Callum Guy, ENG, M, 1.78, 64, 25-11-96, Nottingham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Simon Dawkins, JAM, F, 1.78, 70, 01-12-87, Edgware, San Jose Earthquakes
+38, Mason Bennett, ENG, F, 1.78, 65, 15-07-96, Shirebrook, Burton Alb (On Loan)
+16, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, Bristol C (On Loan)
+32, Ryan Shotton, ENG, D, 1.91, 85, 30-09-88, Fenton, Birmingham C (On Loan)
+21, Kelle Roos, NED, G, 1.93, 90, 31-05-92, Rijkevoort, AFC Wimbledon (On Loan)
+30, Isak Ssewankambo, SWE, D, 1.78, 77, 27-02-96, Angered, Molde

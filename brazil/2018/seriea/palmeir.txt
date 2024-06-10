@@ -1,0 +1,50 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Prass, BRA, G, 1.91, 79, 09-07-78, Porto Alegre, Vasco da Gama
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, Atlético Mineiro
+3, Edu Dracena, BRA, D, 1.87, 80, 18-05-81, Dracena, Corinthians
+4, Nicolás Freire, ARG, D, 1.86, 80, 18-01-94, Santa Lucía, Torque
+5, Thiago Santos, BRA, M, 1.81, 78, 05-09-89, Curitiba, Américo Mineiro
+6, Diogo Barbosa, BRA, D, 1.79, 70, 17-08-92, Terra Nova do Norte, Coimbra
+7, Dudu, BRA, M, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+9, Miguel Borja, COL, F, 1.82, 74, 26-01-93, Tierra Alta, Atlético Nacional
+10, Moisés, BRA, M, 1.84, 81, 17-03-88, Belo Horizonte, Rijeka
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Fluminense
+15, Gustavo Gómez, PAR, D, 1.86, 85, 06-06-93, Misiones, Milan
+16, Deyverson, BRA, F, 1.89, 82, 08-05-91, Santa Margarida, Levante
+17, Jean, BRA, D, 1.70, 70, 24-06-86, Campo Grande, Fluminense
+18, Alejandro Guerra, VEN, M, 1.70, 63, 09-07-85, Caracas, Atlético Nacional
+19, Bruno Henrique, BRA, M, 1.80, 75, 21-10-89, Apucarana, Palermo
+20, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Santos
+21, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Atlético Paranaense
+25, Antônio Carlos, BRA, D, 1.91, 74, 07-03-93, Rio de Janeiro, Tombense
+26, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, None
+28, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Chapecoense
+29, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Cruzeiro
+30, Felipe Melo, BRA, M, 1.83, 73, 26-06-83, Volta Redonda, Internazionale
+36, Luan Cândido, BRA, D, 1.77, 70, 02-02-01, Ubá, None
+37, Artur, BRA, F, 1.68, 65, 15-02-98, Fortaleza, None
+39, Vitinho, BRA, M, 1.76, 68, 24-03-98, São Paulo, None
+42, Jailson, BRA, G, 1.86, 80, 20-07-81, São José dos Campos, Ceará
+44, Pedrão, BRA, D, 1.94, 80, 03-05-97, São Paulo, Água Santa
+45, Gabriel Furtado, BRA, M, 1.82, 80, 09-12-99, Taubaté, Paraná
+47, Yan, BRA, F, 1.75, 71, 04-09-98, Salvador, Vitória
+48, Léo Passos, BRA, M, 1.83, 75, 13-03-99, Campinas, None
+49, Rafael Papagaio, BRA, F, 1.82, 80, 12-04-99, São Paulo, Portuguesa
+51, Matheus Teixeira, BRA, G, , , 08-03-99, José Bonifácio, None
+72, Anderson Paixão, BRA, G, 1.90, 77, 05-03-98, Ribeirão Pires, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, Sport Recife (On Loan)
+4, Juninho, BRA, D, 1.86, 75, 02-01-95, Londrina, Atlético Mineiro (On Loan)
+8, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, Dynamo Kyiv
+11, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, Pyramids FC
+47, Fernando, BRA, F, 1.76, 66, 01-03-99, Belo Horizonte, Shakhtar Donetsk
+51, Daniel Fuzato, BRA, G, 1.90, 85, 04-07-97, Santa Bárbara d'Oeste, Roma
+34, Emerson Santos, BRA, D, 1.84, 75, 05-04-95, Itaboraí, Internacional (On Loan)
+31, Thiago Martins, BRA, D, 1.85, 76, 17-03-95, São João Evangelista, Yokohama F Marinos (On Loan)

@@ -1,0 +1,37 @@
+=  Lens - French Ligue 2 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rudy Riou, FRA, G, 1.85, 78, 22-01-80, Grande-Synthe, Nantes
+3, Rémy Bonne, FRA, D, 1.85, 78, 26-01-89, Nîmes, Uzès
+4, Ahmed Kantari, MAR, D, 1.85, 80, 28-06-85, Blois, Brest
+5, Alaeddine Yahia, TUN, D, 1.86, 81, 26-08-81, Courbevoie, Nice
+6, Jérôme Lemoigne, FRA, M, 1.88, 77, 15-02-83, Toulon, Sedan
+7, Yoann Touzghar, FRA, F, 1.79, 75, 28-11-86, Avignon, Amiens
+8, Pierre Ducasse, FRA, M, 1.79, 73, 07-05-87, Bordeaux, Bordeaux
+9, Adamo Coulibaly, FRA, F, 1.87, 81, 14-08-81, Paris, Debrecen
+10, Edgar Salli, CMR, F, 1.63, 64, 17-08-92, Garoua, Monaco
+11, Pablo Chavarría, ARG, F, 1.82, 74, 02-01-88, Las Perdices, Anderlecht
+13, Alassane Touré, FRA, D, 1.83, 73, 09-02-89, Paris, Toulouse
+14, Deme N'Diaye, SEN, M, 1.83, 72, 06-02-85, Dakar, Arles-Avignon
+15, Patrick Fradj, FRA, D, 1.76, 70, 11-03-92, Saint-Saulve, None
+16, Alphonse Aréola, FRA, G, 1.90, 85, 27-02-93, Paris, Paris St-Germain
+18, Pierrick Valdivia, FRA, M, 1.85, 67, 18-04-88, Bron, Sedan
+19, Baptiste Guillaume, FRA, F, 1.89, 77, 16-06-95, Brussels, None
+20, Lalaina Nomenjanahary, MDA, M, 1.88, 74, 16-01-86, Antananarivo, Avion
+21, Alharbi El Jadeyaoui, FRA, M, 1.75, 68, 08-08-86, Strasbourg, Angers
+22, Loïck Landré, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Paris St-Germain
+23, Wylan Cyprien, FRA, M, 1.80, 75, 28-01-95, Pointe-à-Pitre, None
+24, Ludovic Baal, FRA, D, 1.76, 72, 24-05-86, Paris, Le Mans
+25, Jean-Philippe Gbamin, FRA, D, 1.86, 83, 25-05-95, San-Pédro, None
+28, Danijel Ljuboja, SRB, F, 1.87, 80, 04-09-78, Vinkovci, Legia Warszawa
+29, Benjamin Bourigeaud, FRA, M, 1.78, 71, 14-01-94, Calais, None
+30, Samuel Atrous, FRA, G, 1.90, 85, 15-02-90, Roncq, Bayonne
+32, Marcel Tisserand, COD, D, 1.84, 70, 10-01-93, Meaux, Monaco
+40, Valentin Belon, FRA, G, 1.80, 77, 13-06-95, Béthune, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Jérémie Bela, FRA, F, 1.73, 69, 08-04-93, Melun, Dijon
+2, Nicolas Saint-Ruf, FRA, D, 1.87, 81, 24-10-92, Rouen, Montpellier
+27, Loïck Landré, FRA, D, 1.82, 75, 05-05-92, Aubervilliers, Re-Registered (22)

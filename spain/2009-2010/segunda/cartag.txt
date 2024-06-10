@@ -1,0 +1,55 @@
+=  Cartagena - Spanish Segunda Divisón A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rubén, ESP, G, 1.87, 82, 22-06-84, La Coruña, Barcelona
+2, Pascal Cygan, FRA, D, 1.91, 88, 29-04-74, Lens, Villarreal
+4, Txiki, ESP, D, 1.78, 72, 14-08-79, Barcelona, Ceuta
+5, Rafael Clavero, ESP, D, 1.75, 67, 10-01-77, Córdoba, Tenerife
+6, Mariano Sánchez, ESP, M, 1.88, 80, 28-01-78, San Pedro del Pinatar, Alcoyano
+7, Chus Herrero, ESP, D, 1.83, 75, 10-02-84, Zaragoza, Zaragoza
+8, Héctor Yuste, ESP, M, 1.90, 83, 12-01-88, Cartagena, Cartagena FC
+9, Toché, ESP, F, 1.82, 78, 01-01-83, Murcia, Albacete
+10, Antonio Longás, ESP, M, 1.74, 63, 24-08-84, Zaragoza, Barcelona B
+11, Lafuente, ESP, M, 1.67, 63, 18-02-83, Santurtzi, Granada
+12, Franck Signorino, ITA, D, 1.73, 60, 19-09-81, Nogent-sur-Marne, Getafe
+13, Castilla, ESP, G, 1.88, 86, 10-06-78, Huelva, Lleida
+14, Javier Balboa, EQG, M, 1.82, 74, 13-05-85, Madrid, Benfica
+15, Alberto Quintero, PAN, M, 1.65, 60, 18-12-87, El Chorrillo, Torrellano
+16, Miguel Falcón, ESP, M, 1.88, 72, 24-04-79, Toledo, Granada 74
+17, Tonino, ESP, M, 1.80, 73, 17-07-81, Guardamar del Segura, Alcoyano
+18, Tato, ESP, F, 1.79, 77, 12-07-83, Murcia, Murcia
+19, Juan Carlos Moreno, ESP, M, 1.73, 72, 19-04-75, Barcelona, Numancia
+20, Xabier Etxeita, ESP, M, 1.85, 79, 31-10-87, Zornotza, Athletic Bilbao
+21, Víctor Manuel, ESP, F, 1.66, 66, 17-04-74, Mérida, Valladolid
+22, Enrique De Lucas, ESP, M, 1.74, 68, 17-08-78, Hospitalet de Llobregat, Murcia
+23, Unai Expósito, ESP, D, 1.76, 70, 23-01-80, Barakaldo, Hércules
+24, Pablo Ruiz, ESP, D, 1.86, 72, 25-02-81, Seville, Sevilla
+25, Juan Diego González-Vigil, PER, F, 1.78, 78, 18-02-85, Lima, Alianza Lima
+26, Miguel Serna, ESP, G, 1.82, 79, 09-07-88, Murcia, Cartagena B
+27, Antonio Losana, ESP, D, 1.80, 74, 18-11-87, Lorca, Cartagena B
+28, Aridane, ESP, D, 1.78, 74, 13-01-89, Cartagena, Cartagena B
+29, Bidari, ESP, D, 1.90, 79, 27-09-89, Madrid, Cartagena B
+30, Samuel, ESP, D, 1.80, 74, 09-02-88, Murcia, Cartagena B
+31, José Miguel, ESP, D, 1.74, 67, 08-01-87, Torrevieja, Cartagena B
+32, Ángel, ESP, M, 1.69, 66, 08-05-87, Torrevieja, Cartagena B
+34, José Antonio Sánchez, ESP, M, 1.73, 71, 29-10-88, Murcia, Cartagena B
+35, Topo, ESP, M, 1.80, 71, 24-03-88, Albacete, Cartagena B
+36, Carlos Rodríguez, ESP, M, 1.81, 70, 17-02-88, Elche de la Sierra, Cartagena B
+37, Sergio, ESP, F, 1.79, 75, 23-01-87, Elche, Cartagena B
+38, Arturo, ESP, F, 1.88, 76, 30-04-89, Cartagena, Cartagena B
+39, Koeman, ESP, F, 1.80, 79, 09-07-87, Cartagena, Cartagena B
+40, Miguel Torres, ESP, G, 1.85, 75, 15-03-88, Ibiza, Cartagena B
+43, Daniel Félez, ESP, D, , , 03-08-87, Teruel, Cartagena B
+44, Iván, ESP, D, 1.82, 73, 21-01-91, Cartagena, Cartagena B
+45, Óscar Mateo, ESP, G, 1.81, 75, 01-09-87, Cartagena, Cartagena B
+46, Nico Bettolini, ESP, M, 1.80, 70, 24-12-78, Montevideo, Cartagena B
+47, Pichi, ESP, D, 1.79, 72, 23-03-89, Cartagena, Cartagena B
+48, Cucu Ros, ESP, M, 1.82, 72, 04-03-89, Murcia, Cartagena B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Juan Pablo, ESP, F, 1.90, 87, 05-11-82, La Puebla del Río, Valencia B
+19, Óscar Sielva, ESP, M, 1.77, 69, 06-08-91, Barcelona, Espanyol B
+20, Santi Santos, ESP, D, 1.82, 77, 09-03-84, Virgen del Camino, Cultural Leonesa
+3, Javi Casas, ESP, D, 1.81, 79, 09-05-82, Bilbao, Guijuelo

@@ -1,0 +1,38 @@
+=  New York City - USA Major League Soccer 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sean Johnson, USA, G, 1.93, 98, 31-05-89, Lilburn, Chicago Fire
+2, Chris Gloster, USA, D, 1.83, 70, 28-07-00, Montclair, PSV Eindhoven
+3, Anton Tinnerholm, SWE, D, 1.75, 69, 26-02-91, Linköping, Malmö FF
+4, Maxime Chanot, FRA, D, 1.84, 78, 21-11-89, Nancy, Kortrijk
+5, Thiago Martins, BRA, D, 1.85, 76, 17-03-95, São João Evangelista, Yokohama F Marinos
+6, Alexander Callens, PER, D, 1.83, 76, 04-05-92, Callao, Numancia
+7, Alfredo Morales, USA, M, 1.83, 74, 12-05-90, Berlin, Fortuna Düsseldorf
+8, Thiago Andrade, BRA, F, 1.80, 68, 31-10-00, Araras, Bahia
+9, Héber, BRA, F, 1.80, 72, 10-08-91, Colorado do Oeste, Rijeka
+10, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, León
+12, Malte Amundsen, DEN, D, 1.79, 77, 11-02-98, Herfølge, Vejle
+13, Luis Barraza, USA, G, 1.88, 88, 08-11-96, Las Cruces, Marquette Univ
+17, Matías Pellegrini, ARG, M, 1.76, 67, 11-03-00, Magdalena, Inter Miami
+18, Christian McFarlane, ENG, D, 1.83, 63, 25-01-07, Basildon, None
+20, Santiago Rodríguez, URU, M, 1.72, 64, 08-01-00, Montevideo, Montevideo City Torque
+21, Andres Jasson, USA, F, 1.75, 70, 17-01-02, Greenwich, CT, Yale Univ
+22, Kevin O'Toole, USA, F, 1.78, 68, 14-12-98, Montclair, Princeton Univ
+23, Gedion Zelalem, USA, M, 1.85, 77, 26-01-97, Berlin, Sporting Kansas City
+24, Tayvon Gray, USA, D, 1.80, 74, 19-08-02, The Bronx, None
+25, Cody Mizell, USA, G, 1.85, 84, 30-09-91, Woodstock, New Mexico U
+26, Nicolás Acevedo, URU, M, 1.73, 73, 14-04-99, Montevideo, Liverpool [URU]
+27, Jonathan Jiménez, USA, F, 1.78, 76, 25-04-01, Jiquilpan, Univ of Nth Carolina
+30, Samuel Owusu, GHA, D, 1.88, 84, 13-12-00, Kumasi, None
+32, Vuk Latinovich, USA, D, 1.85, 82, 14-09-97, Brookfield, Univ of Wisconsin-Milwaukee
+33, Nico Benalcázar, USA, D, 1.80, 70, 06-06-01, Wilton, Wake Forest Univ
+34, Stephen Turnbull, USA, D, 1.83, 77, 13-03-98, Holtsville, Stony Brook Univ
+38, Gabriel Pereira, BRA, M, 1.75, 68, 01-08-01, São Paulo, Corinthians
+43, Talles Magno, BRA, F, 1.86, 70, 26-06-02, Rio de Janeiro, Vasco da Gama
+55, Keaton Parks, USA, M, 1.92, 75, 06-08-97, Plano, Benfica
+80, Justin Haak, USA, M, 1.83, 75, 12-09-01, Brooklyn, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Valentín Castellanos, ARG, F, 1.79, 69, 03-10-98, Mendoza, Girona (On Loan)

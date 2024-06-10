@@ -1,0 +1,23 @@
+# French Ligue 2 2005/06
+
+20 teams
+- [Amiens](amiens.txt)
+- [Bastia](bastia.txt)
+- [Brest](brest.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Dijon](dijon.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Guingamp](guinga.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Lorient](lorient.txt)
+- [Montpellier](montpel.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Sète](sete.txt)
+- [Valenciennes](valenc.txt)

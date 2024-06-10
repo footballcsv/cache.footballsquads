@@ -1,0 +1,57 @@
+=  Ascoli - Italian Serie B 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, None
+3, Matteo Ciofani, ITA, D, 1.83, 76, 26-02-88, Avezzano, Renato Curi Angolana
+4, Jonas Portin, FIN, D, 1.89, 82, 30-09-86, Pietarsaari, FF Jaro
+5, Luigi Giorgi, ITA, M, 1.85, 70, 19-04-87, Ascoli Piceno, None
+6, Cristian Silvestri, ITA, D, 1.82, 77, 21-01-75, Rome, Catania
+7, Mirco Antenucci, ITA, F, 1.78, 65, 08-09-84, Termoli, Catania
+8, Daniele di Donato, ITA, M, 1.73, 70, 21-02-77, Giulianova, Arezzo
+9, Arturo Lupoli, ITA, F, 1.79, 72, 24-06-87, Brescia, Fiorentina
+10, Vincenzo Sommese, ITA, M, 1.74, 72, 22-06-76, Nola, Mantova
+11, Andrea Giallombardo, ITA, D, 1.75, 70, 19-08-80, Roma, Livorno
+14, Christian Amoroso, ITA, M, 1.76, 64, 22-09-76, Pisa, Bologna
+15, Antonino D'Agostino, ITA, M, 1.73, 70, 08-10-78, Turin, Progetto Sant'Elia
+18, Simone Pesce, ITA, M, 1.73, 69, 10-07-82, Latina, Catania
+19, Salvatore Margarita, ITA, M, 1.87, 78, 29-04-90, Maddaloni, None
+20, Jan Hable, CZE, M, 1.83, 74, 14-02-89, Králové, Fiorentina
+21, Andrea Luci, ITA, M, 1.72, 68, 30-03-85, Piombino, Juventus
+22, Gianmarco Lenzi, ITA, G, 1.85, 80, 14-05-91, Castelnuovo Garfagnana, Lucchese
+23, Marcello Gazzola, ITA, D, 1.84, 79, 03-04-85, Borgotaro, Catania
+24, Vittorio Micolucci, ITA, D, 1.83, 68, 14-08-83, Giulianova, Bari
+32, Christian Tiboni, ITA, F, 1.89, 78, 06-04-88, Bergamo, Atalanta
+55, Antonio Marino, ITA, D, 1.88, 80, 09-08-88, Mazara del Vallo, Udinese
+61, Carlo Camilli, ITA, G, 1.85, 77, 04-10-84, Umbertide, Colligiana
+62, Giorgio Capece, ITA, M, 1.83, 75, 05-03-92, Fermo, None
+63, Fabio Conocchioli, ITA, D, 1.79, 74, 04-01-90, Ascoli Piceno, None
+64, Mattia Di Antonio, ITA, D, 1.80, 70, 16-08-90, , None
+66, Matteo Gandelli, ITA, D, , , 16-11-92, , None
+67, Andrea Mandorlini, ITA, F, 1.78, 74, 14-02-91, Ravenna, None
+68, Massimo Palma, ITA, F, , , 03-10-92, , None
+69, Luca Paoletti, ITA, D, , , 30-04-90, , None
+70, Luca Perozzi, ITA, G, 1.91, 85, 23-07-93, Ascoli Piceno, None
+71, Daniele Rosania, ITA, D, 1.84, 76, 22-03-91, Terracina, None
+78, Giorgio Frezzolini, ITA, G, 1.86, 80, 21-01-76, Rome, Modena
+82, Marco Bernacci, ITA, F, 1.93, 72, 15-12-83, Cesena, Bologna
+84, William Justino, BRA, M, 1.76, 68, 01-06-90, Pato Branco, None
+87, Steeve Gerard Fanka, CMR, D, 1.78, , 28-02-88, , None
+88, Carlo Ilari, ITA, M, 1.85, 71, 12-12-91, Ancona, None
+89, Sakari Mattila, FIN, M, 1.87, 75, 14-07-89, Tampere, Udinese
+91, Luca Cognigni, ITA, F, 1.86, 79, 23-03-91, , None
+92, Demetris Moulazimis, CYP, D, 1.84, 78, 15-01-92, Paralimni, EN Paralimni
+99, Alessandro Romeo, ITA, F, 1.87, 74, 19-01-87, Rome, Sampdoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Vito Falconieri, ITA, F, 1.81, 72, 08-06-86, Brindisi, Taranto (On Loan)
+6, Angelo Siniscalchi, ITA, D, 1.86, 77, 15-07-84, Salerno, Portogruaro (On Loan)
+20, Marco Moro, ITA, F, 1.80, 65, 27-04-84, Treviso, Spezia (On Loan)
+57, Vincenzo Melillo, ITA, G, 1.86, 84, 22-08-86, Benevento, Paganese
+77, Francesco Potenza, ITA, F, 1.70, 63, 04-10-86, Cirò Marina, Lucchese (On Loan)
+22, Ilario Aloe, ITA, F, 1.72, 71, 10-07-86, Varese, Varese (On Loan)
+15, Giorgio Santarelli, ITA, D, 1.82, 74, 05-06-81, Frosinone, Cavese (On Loan)
+16, Mirko Pennesi, ITA, G, 1.95, 80, 07-06-89, Terni, Lucchese
+17, Enar Jääger, EST, D, 1.76, 73, 18-11-84, Valga, Aalesund
+25, Stefano Blaiotta, ITA, D, , , 01-01-91, Cassano allo Ionio, Morolo (On Loan)

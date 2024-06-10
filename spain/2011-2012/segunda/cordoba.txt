@@ -1,0 +1,44 @@
+=  Córdoba - Spanish Segunda Divisón A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alberto, ESP, G, 1.82, 77, 09-02-85, Barcelona, Murcia
+2, Cerra, ESP, D, 1.77, 68, 04-08-83, Valencia, Levante
+3, Juan Rafael Fuentes, ESP, D, 1.77, 72, 05-01-90, Córdoba, Córdoba B
+4, Gaspar, ESP, D, 1.82, 77, 07-07-79, Córdoba, Alavés
+5, Jaime Astrain, ESP, M, 1.89, 83, 05-02-88, Madrid, Osasuna B
+6, Afonso Taira, POR, M, 1.77, 67, 17-06-92, Cascais, Sporting CP
+7, Pepe Díaz, ESP, M, 1.73, 69, 20-04-80, Almodóvar del Río, Écija
+8, Cristian García, ESP, D, 1.69, 66, 27-12-81, Terrassa, Ponferradina
+9, Javi Patiño, ESP, F, 1.83, 77, 14-02-88, San Sebastian de los Reyes, San Sebastian de los Reyes
+10, Borja, ESP, M, 1.72, 65, 02-11-90, Torremocha de Jarama, Rayo Vallecano
+11, Charles, BRA, F, 1.79, 75, 04-04-84, Belem, Pontevedra
+13, Carlos Arias, BOL, G, 1.82, 76, 18-02-80, Portachuelo, Maccabi Netanya
+14, Aritz López Garai, ESP, M, 1.82, 80, 06-11-80, Barakaldo, Celta Vigo
+15, Ximo, ESP, D, 1.76, 70, 23-01-90, Palma de Mallorca, Mallorca B
+16, Sebastián Dubarbier, ARG, F, 1.79, 74, 19-02-86, La Plata, Lorient
+17, José Manuel Fernández, ESP, D, 1.68, 66, 18-11-89, Córdoba, Córdoba B
+19, José María López Silva, ESP, M, 1.70, 66, 02-01-83, Huelva, Cádiz
+20, Alberto, ESP, M, 1.84, 81, 12-07-84, Benamejí, Albacete
+21, Carlos Caballero, ESP, M, 1.78, 75, 05-10-84, Alcorcón, Cádiz
+22, David Prieto, ESP, D, 1.85, 80, 02-01-83, Seville, Sevilla
+23, Juan Quero, ESP, F, 1.60, 50, 17-10-84, Madrid, Rayo Vallecano
+24, Airam Cabrera, ESP, F, 1.80, 78, 21-10-87, Puerto de la Cruz, Villarreal B
+25, Miguel Ángel Tena, ESP, D, 1.85, 80, 17-01-82, Castellón, Elche
+26, Antonio Sillero, ESP, G, 1.82, 77, 25-08-93, Córdoba, Córdoba B
+27, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Córdoba B
+28, Javi Hervás, ESP, M, 1.76, 78, 09-06-89, Córdoba, Sevilla
+29, Fede Vico, ESP, M, 1.80, 70, 04-07-94, Córdoba, Córdoba B
+30, Guti, ESP, F, , , 12-05-92, , Córdoba B
+31, Carlos Martínez, ESP, M, 1.71, 67, 10-02-89, Córdoba, Córdoba B
+32, Juanje, ESP, M, , , 05-07-92, , Córdoba B
+33, Ismael, ESP, D, 1.72, 70, 08-02-89, Córdoba, Córdoba B
+34, Javi López, ESP, F, 1.87, 87, 16-10-90, El Carpio, Córdoba B
+35, Dani Espejo, ESP, M, 1.79, 72, 23-07-93, Córdoba, Córdoba B
+36, Rafa Gálvez, ESP, M, 1.90, 80, 20-05-93, Córdoba, Córdoba B
+37, Alberto Montávez, ESP, G, 1.87, 87, 07-04-89, Córdoba, Córdoba B
+38, Alfonso Castellano, ESP, M, 1.77, 72, 16-02-92, Montalbán, Córdoba B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Sebastián Balsas, URU, F, 1.98, 93, 05-03-86, Montevideo, Racing Club [URU]

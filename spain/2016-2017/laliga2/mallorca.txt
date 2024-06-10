@@ -1,0 +1,41 @@
+=  Mallorca - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Roberto Santamaría, ESP, G, 1.84, 74, 27-02-85, Pamplona, Ponferradina
+2, Biel Company, ESP, D, 1.76, 73, 16-02-92, Maria de la Salut, Mallorca B
+3, Joan Oriol, ESP, D, 1.75, 69, 05-11-86, Cambrils, Rapid București
+4, Antonio Raíllo, ESP, D, 1.86, 77, 08-10-91, Córdoba, Espanyol
+5, Juan Rodríguez, ESP, M, 1.85, 80, 01-04-82, Málaga, Getafe
+6, Álex Vallejo, ESP, M, 1.89, 72, 16-01-92, Vitoria-Gasteiz, Mallorca B
+7, Pol Roigé, ESP, M, 1.77, 66, 28-01-94, Barcelona, Sabadell
+8, Diogo Salomão, POR, M, 1.75, 68, 14-09-88, Amadora, Sporting CP
+9, Óscar Díaz, ESP, F, 1.85, 76, 24-04-84, Madrid, Numancia
+10, Sasa Zdjelar, SRB, M, 1.84, 73, 20-03-95, Belgrade, Olympiakos
+11, Brandon, ESP, M, 1.77, 71, 04-02-95, Santanyí, Mallorca B
+13, Jesús Cabrero, ESP, G, 1.87, 85, 28-07-81, Huesca, Recreativo Huelva
+14, Adrián Dalmau, ESP, F, 1.81, 72, 23-03-94, Palma de Mallorca, Espanyol B
+15, Ion Ansotegi, ESP, D, 1.92, 84, 13-07-82, Berriatua, Eibar
+16, Dejan Lekić, SRB, F, 1.93, 88, 07-06-85, Kraljevo, Girona
+17, Lago Junior, CIV, M, 1.82, 74, 31-12-90, Yamoussoukro, Mirandés
+18, Juan Domínguez, ESP, M, 1.81, 71, 08-01-90, Pontedeume, Deportivo La Coruña
+19, Juan Emmanuel Culio, ARG, M, 1.76, 75, 30-08-84, Mercedes, Zaragoza
+20, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Deportivo La Coruña
+21, Thierry Moutinho, POR, M, 1.78, 73, 26-02-91, Genf, Albacete
+22, Edu Campabadal, ESP, D, 1.77, 72, 26-01-93, Tarragona, Córdoba
+23, Héctor Yuste, ESP, M, 1.90, 83, 12-01-88, Cartagena, Granada
+24, Julio Pleguezuelo, ESP, D, 1.75, 70, 26-01-97, Palma de Mallorca, Arsenal
+26, Jaume Valens, ESP, G, 1.87, 80, 29-02-96, Palma de Mallorca, Mallorca B
+28, Cédric Omoigui, NGA, F, 1.82, 74, 11-11-94, Benin City, Mallorca B
+30, Juanjo, ESP, D, 1.75, 73, 03-10-94, Castellón, Atlético Baleares
+31, Ángel Sánchez, ESP, F, , , 28-07-97, Marratxí, Mallorca B
+32, Fernando Cano, ESP, M, 1.71, 63, 14-02-95, Valencia, Valencia B
+33, Miquel Parera, ESP, G, 1.80, 74, 18-05-96, Manacor, Mallorca B
+34, James Davis, EQG, D, 1.72, 70, 05-07-95, Palma de Mallorca, Mallorca B
+35, Angeliño, ESP, D, 1.76, 68, 04-01-97, Coristanco, Manchester C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Adrián Colunga, ESP, F, 1.72, 70, 17-11-84, Oviedo, Anorthosis Famagusta
+27, Dami, ESP, M, 1.77, 74, 03-02-96, Palma de Mallorca, Lugo (On Loan)
+29, Alberto López, ESP, D, 1.73, 68, 27-05-95, Granada, Málaga B

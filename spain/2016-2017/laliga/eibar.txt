@@ -1,0 +1,35 @@
+=  Eibar - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yoel, ESP, G, 1.85, 78, 28-08-88, Vigo, Valencia
+3, Alejandro Gálvez, ESP, D, 1.90, 84, 06-06-89, Granada, Werder Bremen
+4, Iván Ramis, ESP, D, 1.88, 82, 25-10-84, Sa Pobla, Levante
+5, Gonzalo Escalante, ARG, M, 1.82, 76, 27-03-93, Bella Vista, Catania
+6, Cristian Rivera, ESP, M, 1.90, 80, 09-07-97, Gijón, Oviedo
+7, Ander Capa, ESP, D, 1.73, 70, 14-05-92, Portugalete, Eibar B
+8, Takashi Inui, JPN, M, 1.69, 59, 02-06-88, Shiga, Eintracht Frankfurt
+9, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella, Numancia
+11, Rubén Peña, ESP, M, 1.70, 65, 18-07-91, Ávila, Leganés
+13, Asier Riesgo, ESP, G, 1.85, 70, 06-10-83, Deba, Osasuna
+14, Dani García, ESP, M, 1.80, 75, 24-05-90, Zumarraga, Real Sociedad B
+15, Mauro Dos Santos, ARG, D, 1.80, 76, 07-07-89, Lomas de Zamora, Almería
+16, Fran Rico, ESP, M, 1.78, 71, 03-08-87, Portonovo, Granada
+17, Kike, ESP, F, 1.86, 79, 25-11-89, Motilla del Palancar, Middlesbrough
+18, Anaitz Arbilla, ESP, D, 1.77, 75, 15-05-87, Pamplona, Espanyol
+19, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Aston Villa
+20, Florian Lejeune, FRA, D, 1.88, 81, 20-05-91, Paris, Manchester C
+21, Pedro León, ESP, M, 1.82, 70, 24-11-86, Mula, Getafe
+22, Nano, ESP, F, 1.78, 79, 05-02-95, San Cristóbal de La Laguna, Tenerife
+23, David Juncà, ESP, D, 1.75, 67, 16-11-93, Riumors, Girona
+24, Adrián González, ESP, M, 1.83, 76, 25-05-88, Madrid, Elche
+25, Bebé, POR, F, 1.90, 75, 12-07-90, Agualva-Cacém, Benfica
+27, Quique Cebrià, ESP, G, 1.82, 70, 01-04-95, Museros, Vitoria
+29, Josué Dorrio, ESP, M, 1.70, 62, 03-03-94, Bilbao, Vitoria
+30, Markel Areitio, ESP, G, 1.80, 68, 07-09-96, Iurreta, Vitoria
+31, Julen López, ESP, D, 1.78, 76, 24-09-96, Eibar, Vitoria
+32, Imanol Sarriegi, ESP, M, 1.82, 70, 27-04-95, San Sebastián, Vitoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Jota, ESP, M, 1.80, 67, 16-06-91, A Pobra do Caramiñal, Brentford

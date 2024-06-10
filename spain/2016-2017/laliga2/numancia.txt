@@ -1,0 +1,42 @@
+=  Numancia - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Munir, MAR, G, 1.90, 79, 10-05-89, Melilla, Melilla
+2, José Manuel Casado, ESP, D, 1.73, 75, 09-08-86, Sevilla, Bolton W
+3, Ripa, ESP, D, 1.77, 73, 12-08-85, Épila, Elche
+4, Marc Pedraza, ESP, M, 1.83, 74, 06-02-87, Barcelona, L'Hospitalet
+6, Íñigo Pérez, ESP, M, 1.78, 74, 18-01-88, Iruñea, Athletic Bilbao
+7, Manu del Moral, ESP, F, 1.86, 77, 25-02-84, Jaén, Valladolid
+8, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Llagostera
+9, Asier Villalibre, ESP, F, 1.83, 82, 30-09-97, Guernica, Athletic Bilbao B
+10, Julio Álvarez, VEN, M, 1.81, 74, 01-05-81, Caracas, Tenerife
+11, Nacho, ESP, M, 1.77, 67, 11-02-93, Logroño, Numancia B
+12, Kike Sola, ESP, F, 1.84, 84, 25-02-86, Tudela, Athletic Bilbao
+13, Aitor Fernández, ESP, G, 1.82, 74, 03-05-91, Mondragón, Villarreal B
+14, Luis Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+15, Dani Calvo, ESP, D, 1.78, 73, 01-04-94, Huesca, Numancia B
+16, Carlos Gutiérrez, ESP, D, 1.92, 83, 04-11-91, Las Palmas, Las Palmas
+17, Unai Medina, ESP, D, 1.77, 78, 16-02-90, Bilbao, Alavés
+18, Jairo Morillas, ESP, F, 1.87, 75, 02-07-93, Gilena, Espanyol B
+19, Iñigo Ruiz de Galarreta, ESP, M, 1.74, 66, 06-08-93, San Sebastián, Athletic Bilbao
+20, Pablo Valcarce, ESP, M, 1.75, 70, 03-02-93, Ponferrada, Numancia B
+21, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Villarreal B
+22, Pedro Orfila, ESP, D, 1.75, 67, 06-03-88, Luanco, Racing Santander
+23, Eneko Capilla, ESP, M, 1.75, 75, 13-06-95, San Sebastián, Real Sociedad B
+24, Dani Nieto, ESP, M, 1.73, 60, 04-05-91, Palma Nova, Xanthi
+25, Mikel Saizar, ESP, G, 1.88, 87, 18-01-83, Ibarra, AEK Larnaca
+26, Viti, ESP, G, 1.93, 81, 15-01-95, Bembibre, Villaralbo
+27, Gorka Alegría, ESP, G, , , 29-04-97, , Numancia B
+29, Sergio Madrigal, ESP, F, , , , , Numancia B
+31, Moha, ESP, F, , , , , Numancia B
+36, Binke Diabaté, MLI, F, 1.75, 68, 20-12-95, , Numancia B
+37, Jorge Pomareta, ESP, D, , , , , Numancia B
+38, Juan Ignacio Pajín, ESP, D, , , , Palencia, Numancia B
+40, Pablo Sanz, ESP, F, 1.84, 70, 09-04-95, Soria, Numancia B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Alexander Callens, PER, D, 1.83, 76, 04-05-92, Callao, New York C
+9, Javier Acuña, PAR, F, 1.75, 70, 23-06-88, Asunción, Ratchaburi
+5, Francisco Regalón, ESP, D, 1.82, 74, 19-02-87, Córdoba, Cultural Leonesa

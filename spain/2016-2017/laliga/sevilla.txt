@@ -1,0 +1,51 @@
+=  Sevilla - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Rico, ESP, G, 1.94, 88, 01-09-93, Seville, Sevilla B
+2, Benoît Trémoulinas, FRA, D, 1.73, 64, 28-12-85, Bordeaux, Dynamo Kyiv
+3, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Bordeaux
+4, Matías Kranevitter, ARG, M, 1.78, 74, 21-05-93, Yerba Buena, Atlético Madrid
+5, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, Nancy
+6, Daniel Carriço, POR, M, 1.80, 75, 04-08-88, Cascais, Reading
+7, Michael Krohn-Dehli, DEN, M, 1.70, 71, 06-06-83, Copenhagen, Celta Vigo
+8, Vicente Iborra, ESP, M, 1.90, 76, 16-01-88, Moncada, Levante
+9, Luciano Vietto, ARG, F, 1.73, 68, 05-12-93, Balnearia, Atlético Madrid
+10, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Manchester C
+11, Joaquín Correa, ARG, M, 1.88, 76, 13-08-94, Juan Bautista Alberdi, Sampdoria
+12, Wissam Ben Yedder, FRA, F, 1.70, 68, 12-08-90, Sarcelles, Toulouse
+13, David Soria, ESP, G, 1.92, 85, 04-04-93, Madrid, Sevilla B
+14, Walter Montoya, ARG, M, 1.82, 76, 21-07-93, Machagai, Rosario Central
+15, Steven N'Zonzi, FRA, M, 1.90, 75, 15-12-88, Colombes, Stoke C
+16, Stevan Jovetić, MNE, F, 1.83, 79, 02-11-89, Podgorica, Internazionale
+17, Pablo Sarabia, ESP, M, 1.77, 72, 11-05-92, Madrid, Getafe
+18, Sergio Escudero, ESP, D, 1.76, 65, 02-09-89, Valladolid, Getafe
+19, Paulo Henrique Ganso, BRA, M, 1.84, 73, 12-10-89, Ananindeua, São Paulo
+20, Vitolo, ESP, M, 1.83, 80, 02-11-89, Las Palmas, Las Palmas
+21, Nicolás Pareja, ARG, D, 1.81, 75, 19-01-84, Capital Federal, Spartak Moscow
+22, Franco Vázquez, ITA, M, 1.86, 82, 22-02-89, Tanti, Palermo
+23, Adil Rami, FRA, D, 1.90, 90, 27-12-85, Bastia, Milan
+24, Gabriel Mercado, ARG, D, 1.80, 77, 18-03-87, Puerto Madryn, River Plate
+26, David Carmona, ESP, D, 1.75, 72, 11-01-97, Palma del Río, Sevilla B
+27, Antonio Cotán, ESP, M, 1.74, 65, 19-09-95, Olivares, Sevilla B
+28, Borja Lasso, ESP, M, 1.86, 72, 01-01-94, Seville, Sevilla B
+29, Curro Sánchez, ESP, M, 1.78, 68, 03-01-96, La Palma del Condado, Sevilla B
+30, Carlos Fernández, ESP, F, 1.86, 72, 22-05-96, Seville, Sevilla B
+31, José Antonio Caro, ESP, G, 1.84, 73, 03-05-94, La Palma del Condado, Sevilla B
+32, Diego González, ESP, D, 1.84, 75, 28-01-95, Chiclana de la Frontera, Cádiz
+33, Ivi, ESP, M, 1.74, 74, 29-06-94, Madrid, Getafe B
+34, José Matos, ESP, D, 1.69, 68, 06-05-95, Utrera, Sevilla B
+35, Juan Soriano, ESP, G, 1.82, 78, 23-08-97, Benacazón, Sevilla B
+36, Álex Muñoz, ESP, D, 1.85, 74, 30-07-94, Alicante, Hércules
+37, Cristian González, URU, D, 1.84, 80, 23-07-96, Montevideo, Danubio
+38, José Mena, ESP, M, , , 15-05-98, Utrera, Sevilla B
+39, Álex Pozo, ESP, M, 1.74, 62, 22-02-99, Huévar del Aljarafe, Sevilla B
+40, Álvaro Rodríguez, ESP, G, , , 18-02-98, Seville, Sevilla B
+41, Miguel Ángel Díaz, ESP, G, , , 11-02-99, , Sevilla B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Yevhen Konoplyanka, UKR, M, 1.76, 69, 29-09-89, Kirovohrad, Schalke (On Loan)
+5, Timothée Kolodziejczak, FRA, D, 1.81, 74, 01-10-91, Avion, B Mönchengladbach
+25, Salvatore Sirigu, ITA, G, 1.90, 80, 12-01-87, Nuoro, Paris St-Germain
+14, Hiroshi Kiyotake, JPN, M, 1.72, 63, 12-11-89, Oita, Cerezo Osaka

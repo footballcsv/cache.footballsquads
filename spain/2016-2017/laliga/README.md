@@ -1,0 +1,23 @@
+# Spanish LaLiga 2016/17
+
+20 teams
+- [Alavés](alaves.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Celta Vigo](celta.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Eibar](eibar.txt)
+- [Espanyol](espanyol.txt)
+- [Granada](granada.txt)
+- [Las Palmas](laspalmas.txt)
+- [Leganés](leganes.txt)
+- [Málaga](malaga.txt)
+- [Osasuna](osasuna.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Sporting Gijón](spogijon.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)

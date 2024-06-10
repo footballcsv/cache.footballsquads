@@ -1,0 +1,39 @@
+=  Barrow - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Paul Farman, ENG, G, 1.96, 92, 02-11-89, North Shields, Carlisle U
+2, Connor Brown, ENG, D, 1.73, 69, 02-10-91, Sheffield, York C
+3, Patrick Brough, ENG, D, 1.91, 74, 20-02-96, Carlisle, Falkirk
+4, Jason Taylor, ENG, M, 1.85, 71, 28-01-87, Ashton-under-Lyne, AFC Fylde
+5, Matthew Platt, ENG, D, 1.83, 67, 03-10-97, Knowsley, Blackburn R
+8, Mike Jones, ENG, M, 1.83, 78, 15-08-87, Birkenhead, Carlisle U
+11, Josh Kay, ENG, M, 1.65, 64, 28-10-96, Blackpool, Chesterfield
+12, Josh Gordon, ENG, F, 1.78, 70, 19-01-95, Stoke-on-Trent, Walsall
+13, Tom White, ENG, M, 1.80, 66, 09-05-97, Newcastle upon Tyne, Blackburn R
+14, James Jones, WAL, D, 1.93, 79, 13-03-97, Wrexham, Altrincham
+15, Robbie Gotts, ENG, M, 1.77, 71, 09-11-99, Harrogate, Leeds U
+16, Tom Beadling, AUS, M, 1.85, 80, 16-01-96, Barrow-in-Furness, Dunfermline Ath
+17, Will Harris, ENG, F, -, -, 01-10-00, South Shields, Sunderland
+18, Joe Grayson, ENG, M, 1.78, 74, 26-03-99, Leicester, Blackburn R
+19, Anthony Driscoll-Glennon, ENG, D, 1.81, 72, 26-11-99, Bootle, Burnley
+20, Jacob Wakeling, ENG, F, 1.78, 76, 15-09-01, Redditch, Leicester C
+21, Josh Lillis, ENG, G, 1.83, 80, 24-06-87, Derby, Rochdale
+22, Scott Moloney, ENG, G, 1.91, 70, 15-04-00, Ashton-under-Lyne, Bury
+23, George Williams, WAL, F, 1.72, 73, 07-09-95, Milton Keynes, Grimsby T
+24, Remeao Hutton, ENG, D, 1.75, 72, 28-09-98, Walsall, Birmingham C
+25, Aaron Amadi-Holloway, WAL, F, 1.88, 83, 21-02-93, Cardiff, Burton Alb
+26, Dimitri Sea, FRA, F, 1.81, 77, 02-05-01, Paris, Aston Villa
+27, Niall Canavan, IRL, D, 1.91, 76, 11-04-91, Leeds, Bradford C
+28, Oliver Banks, ENG, M, 1.90, 75, 21-09-92, Rotherham, Tranmere R
+30, John Rooney, ENG, M, 1.78, 76, 17-12-90, Liverpool, Stockport Co
+31, Kgosi Ntlhe, RSA, D, 1.75, 66, 21-02-94, Pretoria, Scunthorpe U
+33, Luke James, ENG, F, 1.83, 80, 04-11-94, Amble, Hartlepool U
+35, Jordan Stevens, ENG, M, 1.78, 70, 25-03-00, Gloucester, Leeds U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Offrande Zanzala, ENG, F, 1.85, 72, 13-12-97, Brazzaville, Exeter C (On Loan)
+25, Festus Arthur, GER, D, 1.87, 83, 27-02-01, Hamburg, Hull C
+6, Mark Ellis, ENG, D, 1.88, 78, 30-09-88, Plymouth, Solihull Moors (On Loan)
+7, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Carlisle U

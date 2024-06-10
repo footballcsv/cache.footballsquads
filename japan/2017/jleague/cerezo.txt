@@ -1,0 +1,48 @@
+=  Cerezo Osaka - Japanese J1 League 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kentaro Kakoi, JPN, G, 1.90, 87, 23-04-91, Nagasaki, FC Tokyo
+2, Riku Matsuda, JPN, D, 1.71, 67, 24-07-91, Osaka, FC Tokyo
+3, Teruyuki Moniwa, JPN, D, 1.81, 77, 08-09-81, Atsugi, Bangkok Glass
+4, Kota Fujimoto, JPN, D, 1.77, 67, 02-04-86, Kumamoto, None
+5, Yusuke Tanaka, JPN, D, 1.81, 73, 14-04-86, Hachioji, Western Sydney W
+6, Souza, BRA, M, 1.75, 71, 08-03-88, Brasília, Cruzeiro
+7, Kunimitsu Sekiguchi, JPN, M, 1.70, 64, 26-12-85, Tama, Urawa Red Diamonds
+8, Yoichiro Kakitani, JPN, F, 1.73, 62, 03-01-90, Osaka, Basel
+9, Kenyu Sugimoto, JPN, F, 1.81, 67, 18-11-92, Osaka, Kawasaki Frontale
+10, Hotaru Yamaguchi, JPN, M, 1.73, 64, 06-10-90, Nabari, Hannover 96
+11, Ricardo Santos, BRA, F, 1.87, 82, 13-02-87, Volta Redonda, Guizhou Renhe
+14, Yusuke Maruhashi, JPN, M, 1.78, 68, 02-09-90, Osaka, None
+15, Yasuki Kimoto, JPN, M, 1.83, 73, 06-08-93, Fuji, Fukuoka Univ
+16, Kota Mizunuma, JPN, F, 1.75, 66, 22-02-90, Yokohama, FC Tokyo
+17, Takaki Fukumitsu, JPN, M, 1.71, 63, 22-02-92, Kagoshima, Renofa Yamaguchi
+19, Ryuji Sawakami, JPN, F, 1.81, 77, 08-10-93, Nara, Osaka Univ H&SS
+20, Noriyuki Sakemoto, JPN, M, 1.75, 65, 08-09-84, Wakayama, None
+21, Kim Jin-Hyeon, KOR, G, 1.92, 85, 06-07-87, Suwon, Dongguk Univ
+22, Matej Jonjić, CRO, M, 1.88, 80, 29-01-91, Split, Incheon U
+23, Tatsuya Yamashita, JPN, D, 1.82, 73, 07-11-87, Akashi, Consadole Sapporo
+24, Kazuya Yamamura, JPN, D, 1.84, 75, 02-12-89, Nagasaki, Kashima Antlers
+25, Hirofumi Yamauchi, JPN, M, 1.82, 76, 09-02-95, Saitama, Waseda Univ
+26, Daichi Akiyama, JPN, M, 1.72, 66, 28-07-94, Fujiidera, None
+27, Kenta Tanno, JPN, G, 1.84, 75, 30-08-86, Sendai, Oita Trinita
+28, Hayato Nukui, JPN, D, 1.77, 65, 14-11-96, Takatsuki, None
+29, Kakeru Funaki, JPN, D, 1.77, 65, 13-04-98, Nara, None
+30, Musashi Oyama, JPN, M, 1.67, 61, 11-09-98, Sapporo, Sapporo Otani HS
+31, Towa Yamane, JPN, F, 1.67, 67, 05-02-99, Hiroshima, Sanfrecce Hiroshima
+32, Ahn Joon-Soo, KOR, G, 1.88, 78, 28-01-98, Uijeongbu, FC Uijeongbu
+34, Masaki Sakamoto, JPN, M, 1.70, 62, 24-06-96, Akashi, None
+35, Masaki Okino, JPN, M, 1.65, 62, 13-12-96, Omura, None
+36, Toshiki Onozawa, JPN, M, 1.66, 62, 02-06-98, Nagasaki, None
+37, Reiya Morishita, JPN, D, 1.80, 68, 01-11-98, Osaka, None
+38, Masataka Nishimoto, JPN, F, 1.77, 63, 11-06-96, Yao, None
+40, Takeru Kishimoto, JPN, F, 1.74, 66, 16-07-97, Nara, None
+45, Shu Mogi, JPN, G, 1.95, 80, 15-01-99, Kawasaki, Toko Gakuen HS
+46, Hiroshi Kiyotake, JPN, M, 1.72, 63, 12-11-89, Oita, Sevilla
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Honoya Shoji, JPN, D, 1.87, 74, 08-10-97, Gunma, Zweigen Kanazawa (On Loan)
+18, Shohei Kiyohara, JPN, M, 1.65, 64, 25-06-87, Obihiro, Tokushima Vortis (On Loan)
+13, Mitsuru Maruoka, JPN, M, 1.73, 64, 06-01-96, Tokushima, V-Varen Nagasaki (On Loan)
+33, Kenta Mukuhara, JPN, D, 1.72, 64, 06-07-89, Tokyo, Sanfrecce Hiroshima (On Loan)

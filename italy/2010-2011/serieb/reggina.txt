@@ -1,0 +1,52 @@
+=  Reggina - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Christian Puggioni, ITA, G, 1.87, 80, 17-01-81, Genoa, Pisa
+2, Daniel Adejo, NGA, M, 1.83, 80, 07-08-89, Kachia, None
+3, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Bologna
+4, Antonio Giosa, ITA, D, 1.85, 73, 21-08-83, Potenza, Vicenza
+5, Lorenzo Burzigotti, ITA, D, 1.93, 85, 12-03-87, Sansepolcro, Foggia
+7, Vincenzo Sarno, ITA, M, 1.67, 64, 11-03-88, Secondigliano, Pro Patria
+8, José Montiel, PAR, M, 1.75, 71, 19-03-88, Itauguá, Udinese
+10, Domenico Danti, ITA, M, 1.77, 70, 12-01-89, San Giovanni in Fiore, Siena
+11, Francesco Zizzari, ITA, F, 1.83, 73, 31-05-82, La Spezia, Pescara
+12, Adam Kovacsik, HUN, G, 1.92, 79, 04-04-91, Budapest, None
+13, Francesco Cosenza, ITA, D, 1.87, 83, 05-02-86, Stignano Calabro, Ancona
+15, Francesco Acerbi, ITA, D, 1.85, 77, 10-02-88, Vizzolo Predabissi, Pavia
+17, Antonino Barilla', ITA, D, 1.80, 72, 01-04-88, Reggio Calabria, None
+18, Giuseppe Rizzo, ITA, M, 1.78, 64, 18-03-91, Messina, None
+19, Giacomo Tedesco, ITA, M, 1.75, 72, 01-02-76, Palermo, Bologna
+20, Giovanni Di Lorenzo, ITA, D, 1.82, 80, 04-08-93, Castelnuovo di Garfagnana, Lucchese
+21, Nicolas Viola, ITA, M, 1.80, 75, 12-10-89, Taurianova, None
+22, Pasquale Alessio Viola, ITA, F, 1.69, 69, 26-12-90, Oppido Mamertina, None
+23, Jacopo Dall'Oglio, ITA, M, 1.83, 77, 02-04-92, Milazzo, None
+27, Giancarlo Petrocco, ITA, G, 1.85, 80, 05-08-77, L'Aquila, Cosenza
+29, Simone Rizzato, ITA, M, 1.74, 65, 21-09-81, Terracina, Ancona
+31, Ivan Castiglia, ITA, M, 1.81, 76, 06-01-88, Reggio Calabria, Cittadella
+32, Riccardo Colombo, ITA, D, 1.80, 72, 01-12-82, Tradate, Torino
+45, Adriano Louzada, BRA, F, 1.78, 72, 16-02-94, Anchieta, None
+46, Mattia Maita, ITA, M, 1.82, 80, 02-01-93, Messina, None
+52, Alessandro Bernardi, ITA, M, 1.79, 73, 27-11-86, Lamezia Terme, Cosenza
+55, Francesco De Rose, ITA, M, 1.72, 67, 21-06-87, Cosenza, Cosenza
+61, Emiliano Bonazzoli, ITA, F, 1.92, 84, 20-01-79, Asola, Sampdoria
+87, Alessio Campagnacci, ITA, F, 1.73, 70, 11-09-87, Foligno, Giulianova
+89, Lorenzo Laverone, ITA, D, 1.78, 70, 19-04-89, Florence, Arezzo
+92, Antonio Cherillo, ITA, F, , , 19-03-92, Gragnano, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Vincenzo Camilleri, ITA, D, 1.86, 85, 06-03-92, Gela, Juventus (On Loan)
+14, Carlos Carmona, CHI, M, 1.79, 77, 21-02-87, Coquimbo, Atalanta
+32, Joelson, BRA, F, 1.80, 71, 10-07-83, Ibitinga, Benevento
+69, Pablo Álvarez, URU, D, 1.75, 70, 07-02-85, Montevideo, Panserraikos (On Loan)
+88, Emil Hallfreðsson, ISL, M, 1.86, 79, 26-06-84, Reykjavík, Verona (On Loan)
+99, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Siena
+26, Pietro Marino, ITA, G, 2.00, 85, 24-11-86, Reggio Calabria, Cosenza (On Loan)
+28, Antonio Rizzo, ITA, D, 1.78, 70, 28-03-81, Civitavecchia, Cosenza
+27, Dani Verruschi, ITA, D, 1.83, 75, 11-05-91, Giulianova, Foggia
+9, Ousmane Sy, FRA, F, 1.85, 75, 18-02-88, Montbéliard, Taranto (On Loan)
+47, Csaba Preklet, HUN, D, 1.82, 72, 25-01-91, Kapuvár, Kecskemét (On Loan)
+70, Simone Missiroli, ITA, M, 1.90, 75, 23-05-86, Reggio Calabria, Cagliari (On Loan)
+20, Dominic Adiyiah, GHA, F, 1.72, 71, 10-07-89, Accra, Milan
+44, Carlos Adrián Valdez, URU, D, 1.83, 75, 02-05-83, Montevideo, Peñarol (On Loan)

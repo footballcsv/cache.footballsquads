@@ -1,0 +1,36 @@
+=  Laval - French Ligue 2 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maxime Hautbois, FRA, G, 1.80, 67, 03-01-91, Laval, None
+2, Kevin Perrot, FRA, D, 1.71, 60, 13-06-89, Laval, None
+3, Christophe Coué, FRA, D, 1.83, 75, 23-03-82, Malestroit, Clermont
+4, Mathieu Puig, FRA, M, 1.73, 75, 28-05-78, Perpignan, Boulogne
+5, Jérémy Stinat, FRA, D, 1.72, 72, 15-12-78, Chartres, Sedan
+6, Anthony Goncalves, FRA, M, 1.78, 82, 06-03-86, Chartres, None
+7, Gaëtan Belaud, FRA, M, 1.78, 75, 16-09-86, Oloron-Sainte-Marie, Tours
+8, Distel Zola, COD, M, 1.82, 76, 05-02-89, Paris, Monaco
+9, Ludovic Genest, FRA, F, 1.73, 64, 18-09-87, Thiers, Auxerre
+10, Jérôme Lebouc, FRA, M, 1.79, 75, 26-12-79, Vitré, Vannes
+11, Fabien Lamatina, FRA, M, 1.77, 69, 03-07-85, Seyne sur Mer, Racing Ferrol
+12, Cris Makiese, FRA, F, 1.84, 74, 14-10-87, Montfermeil, Zulte-Waregem
+14, Ghislain Gimbert, FRA, F, 1.83, 75, 07-08-85, Roanne, Vannes
+15, Frédéric Mendy, SEN, F, 1.66, 62, 06-11-81, Dakar, Kavala
+16, Arnaud Balijon, FRA, G, 1.83, 80, 17-06-83, Reims, Reims
+17, Mahamat Labbo, CHA, F, 1.77, 70, 21-07-88, N'Djamena, None
+18, Romain Jacuzzi, FRA, F, 1.81, 79, 16-12-84, Mont-de-Marsan, Niort
+19, Pierre Talmont, FRA, D, 1.78, 70, 02-04-77, Vannes, Vannes
+20, Fabrice Do Marcolino, GAB, F, 1.85, 87, 14-03-83, Libreville, Angers
+21, Livio Nabab, FRA, F, 1.85, 72, 14-06-88, Guadeloupe, Caen
+23, Antoine Grellier, FRA, F, 1.76, 72, 04-02-88, La Roche-sur-Yon, La Roche-sur-Yon
+24, Fabrice Levrat, FRA, M, 1.73, 67, 18-10-79, Bourgoin-Jallieu, Amiens
+25, Vincent Créhin, FRA, F, 1.69, 75, 21-01-89, Quimper, Plabennec
+26, Yohann Chapuis, FRA, D, 1.84, 81, 15-01-75, Besançon, Niort
+27, Anthony Losilla, FRA, M, 1.85, 75, 10-03-86, Firminy, Paris FC
+28, Lindsay Rose, FRA, D, 1.84, 79, 08-02-92, Rennes, Vannes
+29, Seïd Khiter, FRA, M, 1.71, 66, 19-01-85, Roubaix, Valenciennes
+30, Matthieu Pichot, FRA, G, 1.84, 73, 20-09-89, Sablé-sur-Sarthe, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Benjamin Graton, FRA, D, 1.72, 69, 01-05-88, Mont St Aignan, Orléans (On Loan)

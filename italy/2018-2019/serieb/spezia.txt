@@ -1,0 +1,46 @@
+=  Spezia - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Genoa
+2, Matteo Brero, ITA, D, 1.90, 74, 05-05-97, Cremona, Pergolettese
+3, Tommaso Augello, ITA, D, 1.80, 70, 30-08-94, Milan, Giana Erminio
+4, Roberto Crivello, ITA, D, 1.80, 76, 14-09-91, Palermo, Frosinone
+6, Luca Mora, ITA, M, 1.83, 79, 10-05-88, Parma, SPAL
+7, Nicholas Pierini, ITA, F, 1.76, 70, 06-08-98, Parma, Sassuolo
+8, Matteo Ricci, ITA, M, 1.75, 63, 27-05-94, Rome, Roma
+9, Andrej Galabinov, BUL, F, 1.90, 89, 27-11-88, Sofia, Genoa
+10, Giuseppe Mastinu, ITA, F, 1.75, 77, 09-10-91, Sassari, Olbia
+11, Emmanuel Gyasi, GHA, F, 1.82, 70, 11-01-94, Palermo, Pistoiese
+12, Axel Desjardins, CAN, G, 1.88, 81, 13-01-00, Montreal, None
+13, Elio Capradossi, ITA, D, 1.85, 78, 11-03-96, Kampala, Roma
+14, Gregorio Morachioli, ITA, F, 1.72, 60, 27-02-00, La Spezia, None
+15, Marco Crimi, ITA, M, 1.78, 65, 17-03-90, Messina, Virtus Entella
+16, Paolo Bartolomei, ITA, M, 1.83, 76, 22-08-89, Lucca, Cittadella
+18, Alberto De Francesco, ITA, M, 1.82, 73, 12-10-94, Rome, Reggina
+19, Claudio Terzi, ITA, D, 1.80, 69, 19-06-84, Milan, Palermo
+20, Alessandro Ligi, ITA, D, 1.92, 81, 07-11-89, Sassocorvaro, Carpi
+21, David Okereke, NGA, F, 1.82, 75, 29-08-97, Lagos, Lavagnese
+22, Nicolò Manfredini, ITA, G, 1.90, 80, 20-05-88, Ferrara, Modena
+23, Filippo De Col, ITA, D, 1.84, 83, 28-10-93, Agordo, Virtus Entella
+24, Luca Vignali, ITA, M, 1.83, 75, 11-01-96, La Spezia, None
+25, Giulio Maggiore, ITA, M, 1.84, 69, 12-03-98, Genoa, None
+26, Soufiane Bidaoui, MAR, F, 1.68, 63, 20-04-90, Etterbeek, Avellino
+27, Matteo Figoli, ITA, M, 1.84, 70, 17-12-00, La Spezia, None
+28, Martin Erlić, CRO, D, 1.92, 78, 24-01-98, Zadar, Sassuolo
+29, Gennaro Acampora, ITA, M, 1.77, 78, 29-03-94, Naples, Napoli
+30, Davide Bassi, ITA, G, 1.90, 82, 12-04-85, Sarzana, Parma
+31, Abdullahi Suleiman, NGA, F, 1.77, 58, 22-03-98, Kaduna, Football Academy Abuja
+32, Michael D'Eramo, ITA, F, 1.74, 69, 13-08-99, Atessa, Avezzano
+33, Simone Barone, ITA, G, 1.84, 73, 18-03-99, Cava de' Tirreni, None
+34, Alessio da Cruz, NED, F, 1.84, 75, 18-01-97, Almere, Parma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Pablo Granoche, URU, F, 1.82, 82, 05-09-83, Montevideo, Triestina
+32, Francesco Bolzoni, ITA, M, 1.83, 80, 07-05-89, Lodi, Bari
+34, Irakli Shekiladze, GEO, F, 1.81, 73, 17-09-92, Zugdidi, 
+32, Matteo Bachini, ITA, D, 1.88, 83, 24-05-95, Pontedera, Piacenza (On Loan)
+5, Nicolas Giani, ITA, D, 1.82, 81, 13-03-86, Como, FeralpiSalò
+17, Sveinn Aron Guðjohnsen, ISL, F, 1.90, 80, 12-05-98, Reykjavík, Ravenna (On Loan)
+20, Simone Bastoni, ITA, M, 1.83, 74, 05-11-96, La Spezia, Novara (On Loan)

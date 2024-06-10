@@ -1,0 +1,55 @@
+=  Torino - Italian Serie A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Salvador Ichazo, URU, G, 1.88, 83, 26-01-92, San José da Mayo, Danubio
+3, Cristian Molinaro, ITA, D, 1.82, 82, 30-07-83, Vallo della Lucania, Parma
+4, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, Siena
+5, Mirko Valdifiori, ITA, M, 1.85, 71, 21-04-86, Lugo, Napoli
+6, Afriyie Acquah, GHA, M, 1.79, 70, 05-01-92, Accra, 1899 Hoffenheim
+8, Daniele Baselli, ITA, M, 1.82, 70, 12-03-92, Manerbio, Atalanta
+9, Andrea Belotti, ITA, F, 1.81, 72, 20-12-93, Calcinate, Palermo
+10, Adem Ljajić, SRB, F, 1.81, 74, 29-09-91, Novi Pazar, Roma
+11, Mbaye Niang, SEN, F, 1.84, 78, 19-12-94, Meulan-en-Yvelines, Milan
+13, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Genoa
+14, Iago Falqué, ESP, F, 1.74, 69, 04-01-90, Vigo, Roma
+15, Cristian Ansaldi, ARG, D, 1.81, 76, 20-09-86, Rosario, Internazionale
+20, Simone Edera, ITA, F, 1.74, 65, 09-01-97, Turin, None
+21, Alex Berenguer, ESP, F, 1.75, 73, 04-07-95, Pamplona, Osasuna
+22, Joel Chukwuma Obi, NGA, M, 1.76, 71, 22-05-91, Lagos, Internazionale
+23, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, None
+24, Emiliano Moretti, ITA, D, 1.82, 80, 11-06-81, Rome, Genoa
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Sampdoria
+32, Vanja Milinković-Savić, SRB, G, 2.02, 92, 20-02-97, Ourense, Lechia Gdańsk
+33, Nicolas Nkoulou, CMR, D, 1.84, 77, 27-03-90, Yaoundé, Lyon
+39, Salvatore Sirigu, ITA, G, 1.92, 80, 12-01-87, Nuoro, Paris St-Germain
+50, Leonardo Rivoira, ITA, D, 1.82, 80, 03-02-98, Lagnasco, None
+51, Karlo Butić, CRO, F, 1.87, 78, 21-08-98, Zadar, Internazionale
+52, Antonio D'Alena, ITA, M, , , 24-02-98, Mottola, Roma
+53, Enrico Celeghin, ITA, M, 1.81, 78, 22-02-99, Dolo, Internazionale
+54, Flavio Bianchi, ITA, F, 1.78, 74, 24-01-00, Voghera, Genoa
+55, Paolo Matera, ITA, M, , , 06-03-00, Turin, None
+56, Filippo Gilli, ITA, D, 1.87, 83, 19-10-00, Susa, None
+58, Nicola Rauti, ITA, F, 1.77, 77, 17-04-00, Legnano, None
+59, Ali Samake, MLI, D, , , 30-01-00, , None
+60, Alessandro Fiordaliso, ITA, D, 1.84, 73, 20-03-99, Turin, None
+61, Ben Lhassine Kone, CIV, M, 1.72, 70, 14-03-00, Abidjan, Vigor Perconti
+62, Vincenzo Millico, ITA, F, 1.73, 68, 12-08-00, Turin, Juventus
+63, Michel Ndary Adopo, FRA, M, 1.87, 84, 19-07-00, Villeneuve-Saint-Georges, Torcy
+87, Alessandro Buongiorno, ITA, D, 1.91, 80, 06-06-99, Turin, None
+88, Tomás Rincón, VEN, M, 1.77, 76, 13-01-88, San Cristóbal, Juventus
+97, Lyanco, BRA, D, 1.87, 75, 01-02-97, Vitória, São Paulo
+99, Domenico Coppola, ITA, G, 1.95, 74, 29-01-99, Turin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Mattia Aramu, ITA, F, 1.80, 70, 14-05-95, Ciriè, Virtus Entella (On Loan)
+7, Davide Zappacosta, ITA, D, 1.82, 70, 11-06-92, Sora, Chelsea
+11, Maxi López, ARG, F, 1.90, 81, 03-04-84, Capital Federal, Udinese
+26, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Amiens (On Loan)
+27, Vittorio Parigini, ITA, F, 1.80, 73, 25-03-96, Moncalieri, Benevento (On Loan)
+57, Alessandro Iacuaniello, ITA, F, , , 22-05-99, Milan, Pro Vercelli (On Loan)
+19, Manuel De Luca, ITA, F, 1.90, 67, 17-07-98, Bolzano, Renate (On Loan)
+16, Samuel Gustafson, SWE, M, 1.87, 79, 20-01-95, Mölndal, Perugia (On Loan)
+99, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, Roma
+31, Lucas Boyé, ARG, F, 1.80, 80, 28-02-96, San Gregorio, Celta Vigo (On Loan)

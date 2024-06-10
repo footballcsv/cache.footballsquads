@@ -1,0 +1,41 @@
+=  Vélez Sarsfield - Argentinian Primera División 2016
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alan Aguerre, ARG, G, 1.81, 76, 23-08-90, Capital Federal, None
+2, Cristian Nasuti, ARG, D, 1.80, 79, 06-09-82, San Martín, Deportivo Cali
+3, Damián Pérez, ARG, D, 1.90, 78, 22-12-88, Lanús, Arsenal [ARG]
+4, Emiliano Amor, ARG, D, 1.83, 80, 16-05-95, Capital Federal, None
+5, Fabián Cubero, ARG, D, 1.75, 72, 21-12-78, Mar del Plata, UANL Tigres
+6, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, None
+7, Yamil Asad, ARG, M, 1.79, 75, 27-07-94, Capital Federal, None
+8, Braian Cufré, ARG, M, 1.79, 82, 15-12-96, Mar del Plata, None
+9, Mariano Pavone, ARG, F, 1.76, 81, 27-05-82, Tres Sargentos, Racing Club
+10, Jorge Correa, ARG, F, 1.70, 70, 04-04-93, San Martín, None
+11, Hernán Toledo, ARG, F, 1.80, 72, 17-01-96, Sastre, None
+12, Gonzalo Yordan, ARG, G, 1.85, 70, 20-03-94, Capital Federal, None
+14, Matías Pérez Acuña, ARG, D, 1.76, 72, 09-02-94, Capital Federal, None
+15, Fabricio Alvarenga, ARG, M, 1.78, 76, 17-02-96, Puerto Rico, None
+16, Nicolás Tripicchio, ARG, D, 1.75, 68, 05-01-96, Centro, None
+17, Lautaro Gianetti, ARG, D, 1.84, 79, 13-11-93, San Nicolás, None
+18, Leandro Somoza, ARG, M, 1.85, 77, 26-01-81, Capital Federal, Lanús
+19, Maximiliano Romero, ARG, F, 1.79, 72, 09-01-99, Moreno, None
+20, Agustín Doffo, ARG, M, 1.79, 74, 25-05-95, Oliva, None
+21, Blas Cáceres, PAR, M, 1.77, 79, 01-07-89, Itacurubí de la Cordillera, Cerro Porteño
+22, Nicolás Delgadillo, ARG, F, 1.77, 70, 02-10-97, Capital Federal, None
+23, Leandro Desábato, ARG, M, 1.78, 72, 29-03-90, Santa Fe, None
+24, Iván Bella, ARG, M, 1.80, 72, 13-09-89, San Martín, Chiapas
+25, Tomás Figueroa, ARG, G, 1.80, 73, 20-04-95, Capital Federal, None
+26, Matías Vargas, ARG, M, 1.68, 66, 08-05-97, Salta, None
+27, Fabián Assmann, ARG, G, 1.88, 80, 23-03-86, Zárate, Quilmes
+28, Emiliano Bogado, ARG, M, 1.66, 63, 18-11-97, Ushuaia, None
+29, Diego Zabala, URU, M, 1.71, 66, 19-09-91, Montevideo, Racing Club [URU]
+30, Ramiro Ríos, ARG, D, 1.84, 82, 07-11-95, San Antonio de Padua, None
+31, Santiago Stelcaldo, ARG, F, 1.81, 76, 24-09-94, Brinkmann, None
+32, Juan Lucero, ARG, M, 1.69, 72, 08-06-95, Rafael Castillo, None
+33, Favio Durán, ARG, F, 1.78, 75, 24-11-95, Puerto Madryn, None
+34, Nicolás Servetto, ARG, F, 1.81, 80, 27-03-96, Macachín, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Federico Vázquez, ARG, F, 1.82, 81, 31-03-93, San Martín, Instituto (Córdoba) (On Loan)

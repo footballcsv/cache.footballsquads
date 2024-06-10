@@ -1,0 +1,54 @@
+=  Stevenage - English Football League Two 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Beasant, ENG, G, 1.96, 82, 08-04-88, Denham, Woking
+2, Michael Richens, ENG, D, 1.78, 74, 28-02-95, Bedford, Peterborough U
+3, Bira Dembélé, FRA, D, 1.89, 75, 22-03-88, Villepinte, Sedan
+4, Harry Worley, ENG, D, 1.93, 84, 25-11-88, Warrington, Newport Co
+5, Jon Ashton, ENG, D, 1.88, 85, 04-10-82, Nuneaton, Grays Ath
+6, Andrew Bond, ENG, M, 1.78, 73, 16-03-86, Wigan, Chester
+7, Chris Whelpdale, ENG, M, 1.84, 80, 27-01-87, Harold Wood, Gillingham
+8, Simon Walton, ENG, M, 1.85, 85, 13-09-87, Sherburn-in-Elmet, Hartlepool U
+9, Darius Charles, ENG, D, 1.85, 85, 10-12-87, Ealing, Ebbsfleet U
+10, Calvin Zola, COD, F, 1.91, 86, 31-12-84, Kinshasa, Aberdeen
+11, Tom Pett, ENG, M, 1.73, 70, 03-12-91, Potters Bar, Wealdstone
+12, David McAllister, IRL, M, 1.78, 74, 29-12-88, Rush, Shrewsbury T
+14, Adam Marriott, ENG, F, 1.75, 71, 14-04-91, Brandon, Cambridge C
+15, Connor Calcutt, ENG, F, 1.88, 82, 10-10-93, , Berkhamsted
+16, Chris Day, ENG, G, 1.88, 85, 28-07-75, Walthamstow, Millwall
+17, Rohdell Gordon, ENG, M, 1.79, 80, 28-03-96, Wandsworth, None
+18, Dean Parrett, ENG, M, 1.77, 74, 16-11-91, Hampstead, Tottenham H
+19, Dean Wells, ENG, D, 1.85, 84, 25-05-85, Isleworth, Braintree T
+20, Chris Beardsley, ENG, F, 1.83, 77, 28-02-84, Derby, Preston NE
+22, Charlie Lee, ENG, M, 1.75, 79, 05-01-87, Whitechapel, Gillingham
+23, Jerome Okimo, ENG, D, 1.82, 76, 08-06-88, Ealing, Wealdstone
+24, Danny Johnson, ENG, F, 1.78, 82, 28-02-93, Middlesbrough, Cardiff C
+25, Ron Henry, ENG, D, 1.81, 75, 02-01-84, Hemel Hempstead, Luton T
+26, George Casey, ENG, D, 1.82, 70, 08-07-97, London, None
+27, Ryan Johnson, ENG, D, 1.88, 85, 02-10-96, Birmingham, WBA
+28, Joe N'Guessan, ENG, F, 1.75, 70, 15-07-95, Lewisham, None
+29, Dale Gorman, NIR, M, 1.80, 70, 28-06-96, Letterkenny, Letterkenny R
+30, Tyler Reading, ENG, G, 1.78, 75, 21-05-97, , Norwich C
+31, Fejiri Okenabirhie, NGA, F, 1.78, 74, 25-02-96, Hendon, Arsenal
+32, Tom Conlon, ENG, M, 1.73, 62, 03-02-96, Stoke-on-Trent, Peterborough U
+33, Ben Kennedy, NIR, M, 1.78, 70, 12-01-97, Lisburn, None
+34, Roarie Deacon, ENG, F, 1.70, 67, 12-10-91, London, Sunderland
+35, Ross Millard, AUS, M, , , 14-07-96, , ECU Joondalup
+36, Bruno Andrade, POR, M, 1.75, 74, 02-10-93, Viseu, QPR
+37, Keith Keane, IRL, D, 1.75, 70, 20-11-86, Luton, Preston NE
+38, Jack Storer, ENG, M, 1.85, 70, 02-01-98, Birmingham, Wolverhampton W
+39, Dave Beasant, ENG, G, 1.93, 90, 20-03-59, Willesden, North Greenford U
+41, Kevin Lisbie, JAM, F, 1.78, 69, 17-10-78, Hackney, Leyton Orient
+42, Louis Yamfam, ENG, M, 1.80, 69, 24-03-98, Luton, None
+43, Dipo Akinyemi, ENG, M, 1.83, 83, 10-06-97, Enfield, Potters Bar T
+46, Jack Jebb, ENG, M, 1.82, 74, 11-09-95, Kensington, Arsenal
+50, Dave Martin, ENG, M, 1.75, 68, 03-06-85, Erith, Luton T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+50, Josh Clarke, ENG, M, 1.73, 70, 05-07-94, Waltham Forest, Brentford
+24, Cameron Lancaster, ENG, F, 1.83, 74, 05-11-92, Camden, St Albans C
+49, Charlie Adams, ENG, M, 1.67, 62, 16-05-94, Hendon, Brentford
+37, Lee Barnard, ENG, F, 1.78, 68, 18-07-84, Romford, Southend U
+24, Ryan Brunt, ENG, F, 1.85, 75, 26-05-93, Birmingham, Bristol R

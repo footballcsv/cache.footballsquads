@@ -1,0 +1,65 @@
+=  Metalist Kharkiv - Ukrainian Premier League 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yevheniy Borovik, G, 6'00", 12 08, 02-03-85, Pryluky, Niva Vinnitsa
+2, Andriy Khomyn, D, 5'10", 11 00, 02-01-82, Potsdam, Borisfen Borispol
+4, Oleh Hlushok, D, 6'01", 12 13, 30-01-80, Kiev, FC Kharkiv
+5, Oleksandr Babych, M, 5'10", 11 05, 15-02-79, Alchevsk, Shakhtar Donetsek
+6, Seweryn Gancarczyk, D, 6'00", 11 09, 22-11-81, Zamość, Arsenal Kiev
+7, Serhiy Valyayev, M, 5'11", 11 03, 16-09-78, Makeevka, Kryvbas Kryvyi Rih
+8, Anatoliy Didenko, M, 6'04", 12 13, 09-06-82, Yuznoukrainsk, Kryvbas Kryvyi Rih
+9, Valentyn Slyusar, M, 6'01", 12 11, 15-09-77, Kiev, Zakarpattya Uzhgorod
+10, Onyekachi Nwoha, F, 5'08", 11 00, 28-02-83, Aba, Al-Ain
+11, Serhiy Davydov, F, 5'10", 10 03, 16-12-84, Eskhar, Metalist Kharkiv-2
+12, Oleksandr Humenyuk, G, 6'06", 12 04, 06-10-76, Khmelnitsky, Volyn Lutsk
+15, Flavius Vladimir Stoican, D, 5'11", 11 05, 24-11-76, Vânju-Mare, Shakhtar Donetsk
+17, Andriy Koval, F, 5'11", 11 00, 06-12-83, Belaya Tserkov, FC Kharkiv
+18, Oleksiy Oliynyk, M, 5'11", 11 09, 14-11-77, Zaporoże, Stal Alchevsk
+20, Anton Postupalenko, M, 5'10", 10 01, 28-08-88, Kharkiv, Metalist Kharkiv-2
+21, Roman Svitlychniy, M, 5'11", 10 10, 04-01-86, Volchansk, Metalist Kharkiv-2
+22, Milan Obradović, D, 5'11", 11 07, 03-08-77, Belgrade, Akratitos
+23, Alyaksandr Danilov, M, 5'10", 11 00, 10-09-80, Gomel, Gomel
+24, Ruslan Fomin, F, 5'11", 11 05, 02-03-86, Donetsk, Shakhtar Donetsk
+27, Maksym Yakhno, D, 5'09", 10 01, 03-04-88, Kharkiv, Metalist Kharkiv-2
+28, Serhiy Skorobrekh, D, 5'10", 11 00, 14-10-88, Kharkiv, Metalist Kharkiv-2
+29, Aleksandr Goryainov, G, 6'02", 12 04, 29-06-75, Kharkiv, Kryvbas Kryvyi Rih
+30, Papa Guye, D, 6'04", 13 03, 07-06-84, Dakar, Volyn Lutsk
+31, Serhiy Barilko, M, 5'09", 10 10, 05-01-87, Kharkiv, Metalist Kharkiv-2
+32, Artem Kotevych, M, 5'10", 11 09, 12-05-87, Vrbovsko, Metalist Kharkiv-2
+33, Marko Dević, M, 6'01", 10 06, 27-10-83, Belgrade, Volyn Lutsk
+35, Taras Kiktov, M, 5'10", 11 00, 07-11-86, Kharkiv, Metalist Kharkiv-2
+36, Aleksey Kurilov, D, 6'02", 12 08, 24-04-88, Kerch, Metalist Kharkiv-2
+37, Vitali Bordian, M, 5'10", 10 12, 11-08-84, Chişinău, Lokomotiv Moscow
+39, Serhiy Ruban, M, 5'08", 10 12, 08-02-89, Kharkiv, Metalist Kharkiv-2
+41, Vladyslav Sereda, F, 5'10", 10 06, 28-02-88, Kharkiv, Metalist Kharkiv-2
+42, Oleh Levchenko, , , , 29-05-89, , Metalist Kharkiv-2
+43, Oleksandr Karyelin, , , , 23-08-89, , Metalist Kharkiv-2
+44, Mykola Balakin, D, 6'00", 11 05, 05-01-89, Kiev, Metalist Kharkiv-2
+45, Yevheniy Sheremet, F, 6'00", 11 09, 23-08-88, Kharkiv, Metalist Kharkiv-2
+47, Jader, F, 5'09", 11 05, 21-02-84, Porto Alegre, FC Kharkiv
+48, Oleksandr Boyko, M, 6'00", 11 11, 21-06-89, Lutsk, Metalist Kharkiv-2
+51, Serhiy Kostyuk, M, 5'11", 10 08, 05-03-86, Kharkiv, Metalist Kharkiv-2
+53, Vitaliy Kostyuk, M, 5'11", 11 07, 05-03-86, Kharkiv, Metalist Kharkiv-2
+54, Oleksiy Kryvosheyev, D, 6'00", 11 11, 22-02-84, Kirovohrad, Metalist Kharkiv-2
+60, Denis Siydorenko, G, 6'01", 12 04, 18-04-89, Kharkiv, Metalist Kharkiv-2
+77, Artem Putivtsev, M, 6'02", 12 08, 29-08-88, Kharkiv, Metalist Kharkiv-2
+87, Ruslan Petrovysh, M, 5'10", 10 10, 26-01-89, Kharkiv, Metalist Kharkiv-2
+97, Yevhen Shapoval, D, 5'10", 11 00, 16-08-87, Kharkiv, Metalist Kharkiv-2
+98, Mykyta Bludov, M, 6'00", 11 11, 11-10-88, Artemovsk, Metalist Kharkiv-2
+99, Mark Ruban, F, 5'09", 10 10, 21-02-90, Pervomaysk, Metalist Kharkiv-2
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Miljan Mrdaković, F, 6'02", 12 13, 06-05-82, Niš, Maccabi Tel Aviv
+15, Siarhei Kuzniatsov, M, 5'10", 11 11, 03-11-79, Minsk, Tavriya Simferopol
+25, Oleksandr Rykun, M, 6'01", 12 06, 06-05-78, Dnipropetrovsk, Dnipro Dnipropetrovsk
+26, Ihor Bykanov, M, 6'03", 12 04, 12-05-87, Kharkiv, Metalist Kharkiv-2
+34, Juan Ignacio Piombo, M, 5'11", 12 04, 04-12-82, Buenos Aires, 
+38, Vladymyr Lelyushkin, D, 6'00", 11 07, 21-02-88, , 
+41, Mykola Sokolovskyy, M, 5'10", 10 12, 19-04-89, , 
+52, Makysm Belyy, F, 5'08", 10 10, 27-04-89, Novomoskovsk, 
+55, Vladyslav Kobzistyy, D, 5'10", 11 05, 03-03-89, Kharkiv, 
+56, Bohdan Novikov, D, 6'00", 11 00, 25-12-89, Kharkiv, 
+57, Artem Piddubnyy, M, 5'10", 11 00, 17-05-89, Kharkiv, 
+90, Oleh Lohvinov, F, 5'09", 10 03, 17-07-89, Kharkiv, 

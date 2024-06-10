@@ -1,0 +1,61 @@
+=  Vitória - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Elias Curzel, BRA, G, 1.86, 74, 12-07-95, Vacaria, Chapecoense
+2, Lucas, BRA, D, 1.73, 67, 26-03-88, Passos, Palmeiras
+3, Marcelo Benítez, ARG, D, 1.78, 74, 13-01-91, San Francisco Solano, Defensa y Justicia
+4, Walisson Maia, BRA, D, 1.87, 83, 21-08-91, Natividade, Coritiba
+5, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Cruzeiro
+6, Bryan, BRA, D, 1.76, 72, 28-03-92, Belo Horizonte, Cruzeiro
+8, Maurício Cordeiro, BRA, F, 1.89, 75, 31-12-92, São Paulo, Ashdod
+9, Walter Bou, ARG, F, 1.74, 70, 25-08-93, Concordia, Boca Juniors
+10, Neílton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Cruzeiro
+11, Erick, BRA, F, 1.73, 65, 10-12-97, Recife, Sporting Braga
+12, Ronaldo, BRA, G, 1.94, 85, 22-08-96, Salvador, None
+13, Cedric, BRA, D, 1.74, 67, 14-02-98, Salvador, None
+14, Lucas Ribeiro, BRA, D, 1.90, 80, 19-01-99, Salvador, None
+15, Luan Silva, BRA, F, 1.80, 77, 26-02-99, Salvador, None
+16, Juninho, BRA, D, 1.71, 64, 11-01-90, Salvador, Aktobe
+17, Jhemerson, BRA, M, 1.73, 62, 22-01-97, Anchieta, None
+18, Léo Ceará, BRA, F, 1.78, 78, 03-02-95, Fortaleza, São Francisco
+19, Lucas Fernandes, BRA, F, 1.74, 70, 24-04-94, União dos Palmares, Fluminense
+20, Fabiano, BRA, D, 1.80, 73, 17-02-90, Campo Grande, Bragantino
+21, Guilherme Costa, BRA, M, 1.75, 70, 31-03-94, Rio de Janeiro, Vasco da Gama
+22, Wallyson, BRA, F, 1.78, 65, 17-10-88, Natal, ABC
+23, Caíque, BRA, G, 1.98, 80, 31-07-97, Salvador, None
+26, Léo Gomes, BRA, M, 1.81, 74, 30-04-97, Fortaleza, None
+28, Jeferson, BRA, D, 1.70, 60, 22-06-96, Campinas, Ponte Preta
+30, Léo Xavier, BRA, D, 1.82, 76, 07-09-97, Salvador, None
+31, Nickson, BRA, M, 1.76, 67, 26-08-97, Recife, None
+32, Júnior, BRA, F, 1.71, 64, 13-12-93, Salvador, Vitória da Conquista
+33, Aderlan Santos, BRA, D, 1.93, 83, 09-04-89, Salgueiro, Valencia
+34, João Gabriel, BRA, G, 1.90, 82, 22-03-92, Aracaju, Luverdense
+35, Hebert, BRA, D, , , 28-02-98, , None
+37, Bruno Bispo, BRA, D, 1.86, 78, 06-06-96, Aracaju, None
+40, Ramon, BRA, D, 1.86, 73, 03-05-95, Feira de Santana, Bahia de Feira
+44, Ruan, BRA, D, 1.87, 86, 14-01-94, Paulínia, Guaratinguetá
+55, Arouca, BRA, M, 1.69, 65, 11-08-86, Duas Barras, Palmeiras
+57, Fillipe Soutto, BRA, M, 1.77, 77, 11-03-91, Belo Horizonte, Red Bull Brasil
+66, Mateus Rodrigues, BRA, D, , , 03-04-99, , None
+73, Marcelo Meli, ARG, M, 1.75, 74, 20-06-92, Salto, Racing Club
+77, Yago, BRA, M, 1.72, 65, 13-02-95, Limoeiro do Norte, Figueirense
+90, Rhayner, BRA, M, 1.79, 75, 05-09-90, Serra, Tombense
+95, Eronildo, BRA, F, 1.78, 73, 16-07-98, Sobradinho, None
+97, Rodrigo Andrade, BRA, M, 1.74, 75, 03-02-97, Belém, Paysandu
+99, André Lima, BRA, F, 1.85, 84, 03-05-85, Rio de Janeiro, Atlético Paranaense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Vasco da Gama
+11, Cleiton Xavier, BRA, M, 1.78, 72, 23-03-83, Alagoas, CRB (On Loan)
+7, Uillian Correia, BRA, M, 1.84, 78, 27-09-89, Fátima do Sul, Coritiba (On Loan)
+14, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Atlético Mineiro (On Loan)
+95, Denílson, BRA, F, 1.87, 72, 18-07-95, Rio de Janeiro, Granada
+9, Jonatas Belusso, BRA, F, 1.76, 75, 10-06-88, Francisco Beltrão, Coritiba (On Loan)
+55, Diego Washington, BRA, G, , , 06-05-99, Pirapora, De-Registered
+8, Lucas Marques, BRA, M, 1.76, 63, 24-05-95, Osasco, Internacional
+87, Alexander Baumjohann, GER, M, 1.78, 73, 23-01-87, Datteln, Western Sydney W
+27, Pedro Botelho, BRA, D, 1.88, 72, 14-12-89, Salvador, São Bento
+96, Bruno Gomes, BRA, F, 1.80, 73, 19-07-96, São Paulo, Estoril
+25, Kanu, BRA, D, 1.88, 77, 03-05-84, Salvador, 

@@ -1,0 +1,53 @@
+=  Ponte Preta - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Édson Bastos, BRA, G, 1.87, 76, 03-11-79, Foz do Iguaçu, Coritiba
+2, Cicinho, BRA, D, 1.68, 60, 25-04-88, Belém, Brasiliense
+3, Tiago Alves, BRA, D, 1.86, 78, 29-05-84, Belo Horizonte, Mogi Mirim
+4, Ferron, BRA, D, 1.87, 83, 11-11-85, Rondonópolis, Boa
+5, Baraka, BRA, M, 1.81, 83, 21-07-86, Avaré, Mogi Mirim
+6, João Paulo, BRA, D, 1.73, 72, 01-07-86, Belo Horizonte, Mogi Mirim
+7, André Luis, BRA, F, 1.77, 71, 19-02-86, Jaú, Boavista-RJ
+8, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Tombense
+9, Roger, BRA, F, 1.84, 79, 07-01-85, Campinas, Kashiwa Reysol
+10, Marcinho, BRA, M, 1.71, 70, 20-03-81, Campinas, Atlético Paranaense
+11, Rildo, BRA, F, 1.80, 67, 20-03-89, São Paulo, Vitória
+13, Wendel, BRA, M, 1.78, 75, 08-10-81, Itapetinga, Palmeiras
+14, Wescley, BRA, D, 1.84, 81, 15-02-84, Vila Velha, Náutico
+15, Ricardinho, BRA, M, 1.75, 64, 15-12-85, Rosário do Sul, XV de Piracicaba
+16, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Fluminense
+17, Xaves, BRA, M, 1.73, 71, 27-02-86, Balsas, Desportivo Brasil
+18, Enrico, BRA, M, 1.76, 70, 04-05-84, Belo Horizonte, Vasco da Gama
+19, Bruno Nunes, BRA, F, 1.88, 75, 08-07-90, Petrolina, Rio Preto
+20, Uendel, BRA, D, 1.78, 64, 08-10-88, Araranguá, Grêmio
+21, Gerônimo, BRA, D, 1.74, 69, 01-07-89, Riachão do Jacuípe, Toledo
+22, Gustavo, BRA, D, 1.85, 84, 09-03-84, Curitiba, Atlético Paranaense
+25, Roberto, BRA, G, 1.93, 91, 01-07-79, Orleans, Ituano
+26, Tony, BRA, M, 1.76, 67, 29-05-86, São Paulo, Boavista-RJ
+27, Diego Sacoman, BRA, D, 1.84, 79, 15-12-86, Guarulhos, Corinthians
+33, Gérson, BRA, M, 1.74, 70, 29-03-81, Carmópolis, Desportivo Brasil
+50, Cléber, BRA, D, 1.83, 87, 12-05-90, São Francisco do Conde, Catanduvense
+60, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Atlético Mineiro
+77, Giancarlo, BRA, F, 1.90, 87, 18-10-82, Turvo, Bragantino
+80, William, BRA, D, 1.88, 81, 06-10-91, Campinas, None
+83, Camozzato, BRA, D, 1.77, 71, 17-06-83, Porto Alegre, Club Brugge
+84, Somália, BRA, M, 1.80, 70, 10-04-84, São Paulo, Botafogo
+88, Lucas, BRA, M, 1.82, 80, 25-02-88, Curvelo, Poços de Caldas
+90, Renan, BRA, D, 1.78, 73, 20-08-90, Ribeirão Preto, Canedense
+91, Reynaldo, BRA, G, 1.89, 82, 12-03-91, Santa Rita do Passa Quatro, None
+99, Luan, BRA, F, 1.68, 69, 11-08-90, São Miguel dos Campos, Atlético Sorocaba
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Otávio, BRA, D, 1.83, 78, 10-10-90, Divinópolis, América Mineiro
+, Bruno Fuso, BRA, G, 1.94, 83, 30-01-88, Limeira, Coritiba (On Loan)
+, Lauro, BRA, G, 1.93, 94, 09-03-80, Andradina, Internacional
+, João Paulo, BRA, M, 1.78, 69, 22-02-85, Pinhais, Avaí
+77, Gustavo, BRA, G, 1.94, 84, 02-04-89, Campinas, Remo (On Loan)
+87, Rodrigo Pimpão, BRA, F, 1.76, 67, 21-10-87, Curitiba, Vasco da Gama
+8, Caio, BRA, M, 1.67, 62, 10-11-80, Nova Odessa, Goiás
+40, Nadson, BRA, M, 1.70, 63, 22-07-89, Lauro de Freitas, Palmeiras
+89, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Re-Registered (8)
+29, Bruno Sabino, BRA, M, 1.80, 77, 29-09-89, Porto Alegre, Lajeadense
+35, Léo Kanu, BRA, D, 1.96, 88, 14-01-88, Porto Alegre, Benfica

@@ -1,0 +1,45 @@
+=  Exeter City - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Jake Caprice, ENG, D, 1.79, 73, 11-11-92, Lambeth, Tranmere R
+3, Jack Sparkes, ENG, D, 1.75, 63, 29-09-00, Exeter, None
+4, Nigel Atangana, FRA, M, 1.87, 72, 09-09-89, Corbeil-Essonnes, Cheltenham T
+5, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, Fleetwood T
+6, Rory McArdle, NIR, D, 1.85, 72, 01-05-87, Doncaster, Scunthorpe U
+8, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, Reading
+9, Ben Seymour, ENG, F, 1.72, 63, 16-04-99, Watford, None
+10, Archie Collins, ENG, M, 1.74, 63, 31-08-99, Taunton, None
+11, Randell Williams, ENG, M, 1.73, 76, 30-12-96, Lambeth, Watford
+12, Ryan Bowman, ENG, F, 1.88, 76, 30-11-91, Carlisle, Motherwell
+14, Joel Randall, ENG, M, 1.75, 66, 29-10-99, Salisbury, None
+15, Tom Parkes, ENG, D, 1.91, 79, 15-01-92, Mansfield, Carlisle U
+16, Robbie Willmott, ENG, M, 1.76, 77, 16-05-90, Harlow, Newport Co
+17, Matt Jay, ENG, F, 1.78, 69, 27-02-96, Torbay, None
+18, Alex Fisher, ENG, F, 1.88, 76, 30-06-90, Westminster, Yeovil T
+19, Sonny Cox, ENG, M, 1.78, 79, 11-10-04, Exeter, None
+20, Lewis Page, ENG, D, 1.78, 72, 20-05-96, Enfield, Charlton Ath
+22, Harry Lee, ENG, G, 1.88, 79, 22-12-04, Torquay, None
+23, Jonathan Maxted, ENG, G, 1.83, 71, 26-10-93, Tadcaster, Accrington Stanley
+24, Jökull Andrésson, ISL, G, 1.94, 82, 25-08-01, Mosfellsbær, Reading
+25, Nicky Ajose, ENG, F, 1.80, 78, 07-10-91, Bury, Charlton Ath
+26, Pierce Sweeney, IRL, D, 1.83, 80, 11-09-94, Dublin, Reading
+29, Harry Kite, ENG, M, 1.76, 69, 29-06-00, Exeter, None
+30, Josh Key, ENG, M, 1.78, 69, 19-11-99, Torquay, Torquay U
+31, Jordan Dyer, ENG, D, 1.83, 78, 29-05-00, Exeter, None
+32, Nelson Iseguan, ENG, M, 1.85, 68, 11-12-02, -, None
+33, Louis Morison, ENG, M, -, -, -, -, None
+34, Alex Hartridge, ENG, D, 1.85, 70, 09-03-99, Torquay, None
+35, Jack Veale, ENG, M, -, -, -, -, None
+36, James Dodd, ENG, M, 1.63, 56, 27-10-00, Exeter, None
+37, Noah Smerdon, ENG, M, 1.79, 70, 09-10-00, Hereford, Gloucester C
+38, Jack Arthur, ENG, G, -, -, -, -, None
+39, Cheick Diabaté, ENG, D, 1.92, 84, 19-06-01, Southwark, Stevenage
+40, Lewis Wilson, ENG, F, -, -, -, -, None
+41, Will Dean, ENG, M, 1.79, 67, 28-09-00, Trafford, None
+42, Alfie Pond, ENG, D, 1.91, 86, 17-02-04, Exeter, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Lewis Ward, ENG, G, 1.95, 81, 05-03-97, -, Portsmouth (On Loan)
+7, Nicky Law, ENG, M, 1.78, 73, 29-03-88, Nottingham, Indy Eleven

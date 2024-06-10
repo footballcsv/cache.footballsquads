@@ -1,0 +1,49 @@
+=  CSA - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Carlos, BRA, G, 1.90, 92, 06-04-88, Paranavaí, Ponte Preta
+2, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Ohod Club
+3, Alan Costa, BRA, D, 1.94, 82, 31-10-90, Araraquara, Coritiba
+4, Luciano Castan, BRA, D, 1.87, 80, 13-09-89, São Paulo, Al-Khor
+5, Naldo, BRA, M, 1.85, 75, 13-05-90, Maitinga, Al-Fayha
+6, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Paysandu
+7, João Vitor, BRA, M, 1.76, 66, 01-06-88, Maceió, Coritiba
+8, Dawhan, BRA, M, 1.77, 76, 03-01-96, Aracaju, Santa Rita
+9, Ricardo Bueno, BRA, F, 1.88, 70, 15-08-87, São Paulo, Ceará
+10, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Bahia
+11, Jarro Pedroso, URU, F, 1.80, 75, 28-03-94, Pedro Osório, Albion [URU]
+12, Jordi, BRA, G, 1.91, 81, 03-09-93, Volta Redonda, Vasco da Gama
+13, Warley, BRA, D, 1.73, 63, 17-09-99, Recife, Santa Cruz
+14, Lucas Dias, BRA, D, 1.91, 82, 20-07-95, Goianésia, Moto Club
+15, Jean Cléber, BRA, M, 1.80, 72, 29-04-90, Santo André, Marítimo
+16, Euller, BRA, D, 1.68, 54, 04-01-95, São Paulo, Al-Shabab
+17, Ronaldo Alves, BRA, D, 1.87, 88, 09-07-89, Bebedouro, Sport Recife
+18, Héctor Bustamante, PAR, F, 1.66, 67, 31-03-95, Encarnación, Novo Hamburgo
+19, Didira, BRA, M, 1.71, 70, 09-06-88, Arapiraca, ABC
+21, Alisson Safira, BRA, F, 1.85, 72, 17-03-95, Foz do Iguaçu, Londrina
+22, Celsinho, BRA, D, 1.83, 73, 15-03-88, São Bernardo do Campo, Novo Hamburgo
+23, Bruno Alves, BRA, F, 1.78, 78, 13-09-92, Seabra, Athletico Paranaense
+25, Maranhão, BRA, M, 1.68, 63, 03-05-90, São Luis, Fluminense
+26, Rafinha, BRA, D, 1.72, 73, 01-04-87, Campo Mourão, Foz do Iguaçu
+27, Gerson José, BRA, F, 1.67, 60, 09-12-99, Rio Largo, None
+28, Rodolfo Gamarra, PAR, F, 1.70, 69, 10-12-88, Limpio, Guarani [PAR]
+29, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, São Paulo
+31, Fabricio, BRA, G, 1.93, 91, 07-01-86, Paranavaí, Boa
+99, Alecsandro, BRA, F, 1.83, 80, 04-02-81, Bauru, São Bento
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Pablo Armero, COL, D, 1.74, 81, 02-11-86, Tumaco, Guarani
+10, Matheus Sávio, BRA, M, 1.72, 66, 15-04-97, Ribeirão Preto, Flamengo
+17, Cristian Maidana, ARG, M, 1.82, 69, 24-01-87, Chaco, Olimpia [HON]
+18, Jhon Cley, BRA, M, 1.80, 78, 09-03-94, Brasília, Marítimo
+3, Leandro, BRA, D, 1.87, 80, 24-02-86, Rio de Janeiro, Cuiabá (On Loan)
+11, Robinho, BRA, F, 1.78, 71, 21-07-95, São Caetano do Sul, Fluminense
+99, Patrick Fabiano, BRA, F, 1.84, 79, 04-09-87, São Paulo, Al-Salmiya
+20, Cassiano, BRA, M, 1.84, 75, 16-06-89, Porto Alegre, Boavista
+21, Andrés Escobar, COL, F, 1.69, 67, 14-05-91, Puerto Tejada, 
+30, Bruno Ramires, BRA, M, 1.89, 77, 18-03-94, Salvador, Feirense
+7, Madson, BRA, M, 1.60, 60, 21-05-86, Volta Redonda, Fortaleza
+13, Gerson, BRA, D, 1.86, 85, 07-01-92, Rio de Janeiro, São Bento (On Loan)
+16, Victor Paraíba, BRA, M, 1.79, 70, 21-04-98, Campina Grande, Atlético Goianiense (On Loan)

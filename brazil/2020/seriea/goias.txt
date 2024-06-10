@@ -1,0 +1,58 @@
+=  Goiás - Campeonato Brasileiro Série A 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, David Duarte, BRA, D, 1.92, 84, 24-01-95, Rio Grande do Sul, None
+4, Iago Mendonça, BRA, D, 1.95, 77, 16-08-99, -, None
+5, Breno, BRA, M, 1.77, 77, 01-09-00, Santana, None
+6, Gustavinho, BRA, D, -, -, 10-04-00, -, None
+7, João Marcos, BRA, F, -, -, 11-05-00, -, None
+9, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, América Mineiro
+10, Índio, BRA, F, -, -, 06-12-00, -, None
+11, Sandrinho, BRA, F, 1.72, 64, 24-04-01, São Paulo, São Bernardo
+13, Jefferson, BRA, D, 1.76, 69, 03-01-97, Jaraguá, None
+15, Heron, BRA, D, 1.87, 71, 17-08-00, Rio de Janeiro, None
+16, Alejandro Cabral, ARG, M, 1.85, 76, 11-09-87, Capital Federal, Cruzeiro
+17, Shaylon, BRA, F, 1.80, 70, 27-04-97, Modelo, São Paulo
+20, Sebastián Salazar, COL, M, 1.80, 79, 30-09-95, Bogotá, Santa Fe
+21, Daniel, BRA, D, -, -, 06-08-99, -, None
+22, Alyson Motta, BRA, F, -, -, 05-01-00, -, None
+23, Tadeu, BRA, G, 1.84, 80, 04-02-92, Joaquim Távora, Ferroviária
+25, Gustavo Blanco, BRA, M, 1.74, 66, 03-10-94, Salvador, Atlético Mineiro
+27, Fábio Sanches, BRA, D, 1.85, 80, 06-01-91, São José dos Campos, Avaí
+31, Pedro Marinho, BRA, M, 1.78, 60, 16-02-00, -, None
+32, Taylon, BRA, D, -, -, 28-03-00, -, None
+38, Gabriel Rodrigues, BRA, D, -, -, 27-12-99, -, None
+44, Henrique Lordelo, BRA, M, 1.76, 72, 16-06-00, Rio de Janeiro, Flamengo
+55, Chico, BRA, D, 1.85, 83, 02-02-87, Pato Branco, Antalyaspor
+56, Ratinho, BRA, M, 1.76, 65, 01-10-96, Cavalcante, Itabaiana
+70, Vinícius Lopes, BRA, F, 1.75, 68, 07-05-99, Goiânia, None
+77, Vidal, BRA, D, 1.74, 70, 23-08-96, Não-Me-Toque, Juventude
+80, Miguel Figueira, BRA, M, 1.87, 77, 22-04-00, Pedrão, None
+88, Marcelo Rangel, BRA, G, 1.87, 81, 17-05-88, Marechal Cândido Rondon, Londrina
+94, Matheus Alves, BRA, G, 1.89, 82, 15-12-94, Brazlândia, None
+95, Douglas Baggio, BRA, F, 1.72, 68, 02-02-95, Jaboatão dos Guararapes, Santo André
+99, Fernandão, BRA, F, 1.92, 85, 27-03-87, Rio de Janeiro, Bahia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Luiz Gustavo, BRA, D, 1.77, 65, 12-02-94, Valentim Gentil, Vasco da Gama
+25, Filipe Trindade, BRA, M, 1.75, 70, 18-07-99, Brasília, Aparecidense (On Loan)
+92, Zeca, BRA, M, 1.90, 83, 10-03-97, -, Criciúma (On Loan)
+20, Marcinho, BRA, F, 1.76, 72, 08-06-95, Itauçu, Cuiabá
+73, Alan, BRA, D, -, -, 05-09-98, -, Botafogo-SP
+98, Thalles, BRA, M, 1.76, 68, 03-01-98, Patos de Minas, Brasil de Pelotas (On Loan)
+4, Rafael Vaz, BRA, D, 1.88, 76, 17-09-88, São Paulo, Al-Khor
+32, Yago Rocha, BRA, D, 1.81, 76, 22-05-94, São Gonçalo, Náutico (On Loan)
+18, Ignácio Jara, CHI, M, 1.68, 66, 11-02-97, Cerro Navia, Cobreloa
+7, Mike, BRA, F, 1.75, 64, 08-03-93, Suzano, Chapecoense
+8, Lucão, BRA, F, 1.86, 80, 14-09-91, Brasília, CRB
+29, Gilberto Júnior, BRA, M, 1.89, 82, 20-10-88, Serrinha, 
+31, Victor Andrade, BRA, F, 1.71, 60, 30-09-95, Aracajú, 
+11, Daniel Villalva, ARG, F, 1.69, 68, 06-07-92, Caá Catí, 
+22, Kevin Quevedo, PER, F, 1.80, 73, 22-02-97, Lima, 
+2, Juan Pintado, URU, D, 1.73, 62, 28-07-97, Las Piedras, Juventud
+6, Caju, BRA, D, 1.85, 70, 17-07-95, Irecê, Sporting Braga
+10, Daniel Bessa, BRA, M, 1.73, 75, 14-01-93, São Paulo, Verona
+30, Sandro, BRA, M, 1.88, 82, 15-03-89, Riachinho, 
+33, Lucão, BRA, D, 1.85, 78, 23-03-96, Brasília, 

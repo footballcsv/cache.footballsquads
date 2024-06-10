@@ -1,0 +1,53 @@
+=  Corinthians - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Caique França, BRA, G, 1.86, 75, 10-06-95, São Paulo, None
+2, Guilherme Mantuan, BRA, M, 1.78, 70, 02-08-97, São Caetano do Sul, None
+3, Henrique, BRA, D, 1.85, 73, 14-10-86, Marechal Cândido Róndon, Fluminense
+5, Gabriel, BRA, M, 1.72, 69, 10-07-92, Campinas, Monte Azul
+7, Jonathas, BRA, F, 1.91, 83, 06-03-89, Betim, Hannover 96
+8, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Ponte Preta
+9, Roger, BRA, F, 1.84, 79, 07-01-85, Campinas, Internacional
+10, Jádson, BRA, M, 1.68, 67, 05-10-83, Londrina, Tianjin Quanjian
+11, Ángel Romero, PAR, F, 1.77, 73, 04-07-92, Fernando de la Mora, Cerro Porteño
+12, Cássio, BRA, G, 1.95, 92, 06-06-87, Veranópolis, PSV Eindhoven
+13, Marllon, BRA, D, 1.81, 75, 16-04-92, Rio de Janeiro, Cianorte
+14, Léo Santos, BRA, D, 1.86, 80, 09-12-98, São Paulo, None
+15, Ralf, BRA, M, 1.80, 73, 09-06-84, São Paulo, Beijing Guoan
+16, Ángelo Araos, CHI, M, 1.74, 63, 06-01-97, Antofagasta, Universidad de Chile
+17, Thiaguinho, BRA, M, 1.80, 66, 11-04-97, Suzano, Nacional-SP
+19, Fessin, BRA, M, 1.76, 70, 04-01-99, Campina Grande, ABC
+20, Danilo, BRA, M, 1.86, 84, 11-06-79, São Gotardo, Kashima Antlers
+21, Sergio Díaz, PAR, F, 1.70, 70, 05-03-98, Itauguá, Real Madrid B
+22, Mateus Vital, BRA, M, 1.75, 65, 12-02-98, Rio de Janeiro, Vasco da Gama
+23, Fagner, BRA, D, 1.68, 67, 11-06-89, São Paulo, Wolfsburg
+25, Clayson, BRA, F, 1.70, 63, 19-03-95, Botucatu, Ponte Preta
+27, Walter, BRA, G, 1.88, 82, 18-11-87, Jaú, União Barbarense
+28, Paulo Roberto, BRA, M, 1.76, 79, 06-03-87, Lavras, Audax
+29, Matheus Matias, BRA, F, 1.87, 80, 26-06-98, Natal, ABC
+30, Douglas, BRA, M, 1.73, 70, 13-01-97, Rio de Janeiro, Fluminense
+31, Rafael Bilu, BRA, F, 1.74, 72, 21-04-99, São Paulo, None
+32, Rodrigo Figueiredo, BRA, M, 1.79, 76, 27-03-96, São Paulo, None
+33, Carlos Augusto, BRA, D, 1.84, 75, 07-01-99, Campinas, None
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, None
+35, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Torino
+36, Caetano, BRA, D, 1.82, 73, 24-06-99, Rio de Janeiro, Botafogo
+37, Vilson, BRA, D, 1.89, 79, 03-04-88, São Gonçalo, SEV Hortolândia
+38, Pedrinho, BRA, M, 1.72, 65, 13-04-98, Maceió, None
+40, Filipe, BRA, G, 1.94, 82, 31-01-98, Rio de Janeiro, None
+47, Emerson, BRA, F, 1.71, 69, 06-09-78, Nova Iguaçu, Ponte Preta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Maycon, BRA, M, 1.75, 66, 15-07-97, São Paulo, Shakhtar Donetsk
+35, Léo Príncipe, BRA, D, 1.74, 68, 13-08-96, Rio de Janeiro, Le Havre (On Loan)
+16, Sidcley, BRA, D, 1.76, 77, 13-05-93, Vila Velha, Atlético Paranaense
+18, Colin Kazim-Richards, TUR, F, 1.85, 68, 26-08-86, Leyton, Lobos BUAP
+4, Fabián Balbuena, PAR, D, 1.88, 82, 23-08-91, Ciudad del Este, West Ham U
+19, Junior Dutra, BRA, F, 1.84, 76, 25-04-88, Santos, Fluminense (On Loan)
+32, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Re-Registered (8)
+26, Rodriguinho, BRA, M, 1.80, 73, 27-03-88, Natal, Pyramids FC
+6, Juninho Capixaba, BRA, D, 1.76, 63, 06-07-97, Cachoeiro de Itapemirim, Grêmio (On Loan)
+31, Marquinhos, BRA, M, 1.74, 69, 21-07-90, Selbach, Al-Nasr [UAE] (On Loan)
+30, Lucca, BRA, F, 1.78, 70, 14-02-90, Alto Parnaíba, Al-Rayyan (On Loan)

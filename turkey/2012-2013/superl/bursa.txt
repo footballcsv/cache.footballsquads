@@ -1,0 +1,48 @@
+=  Bursaspor - Turkish Süper Lig 2012/13
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Aziz Behich, AUS, M, 1.72, 66, 16-12-90, Moonee Ponds, Melbourne Heart
+3, Anton Ferdinand, ENG, D, 1.83, 71, 18-02-85, Peckham, QPR
+4, Tuncay Şanlı, TUR, F, 1.82, 70, 16-01-82, Sakarya, Wolfsburg
+5, Fernando Belluschi, ARG, M, 1.71, 68, 10-09-83, Los Quirquinchos, FC Porto
+6, Gökçek Vederson, BRA, D, 1.76, 76, 22-07-81, Goytacazes, Fenerbahçe
+9, Stanislav Šesták, SVK, F, 1.79, 72, 16-12-82, Prešov, Ankaragücü
+10, Pablo Batalla, ARG, M, 1.70, 65, 16-01-84, Córdoba, Vélez Sarsfield
+11, Sebastián Pinto, CHI, F, 1.85, 89, 15-02-86, Santiago, O'Higgins
+12, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Güngören Belediyespor
+14, Okan Deniz, TUR, F, 1.76, 75, 20-05-94, Korkut, None
+15, Taha Can Velioğlu, TUR, D, , , 21-03-94, Sakarya, None
+16, Ömer Erdoğan, TUR, D, 1.90, 83, 03-05-77, Kassel, Malatyaspor
+17, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, WBA
+18, Süheyl Çetin, TUR, D, 1.81, 75, 22-06-95, Osmangazi, None
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, Nancy
+21, Maurice Edu, USA, M, 1.83, 77, 18-04-86, San Bernardino, Stoke C
+22, Şener Özbayraklı, TUR, D, 1.81, 71, 23-01-90, Borçka, Bugsaşspor
+23, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, None
+24, Berat Satılmış, TUR, F, , , 05-02-93, Demirözü, Burgazspor
+26, Furkan Soyalp, TUR, M, 1.84, 80, 12-06-95, Ankara, None
+27, Batuhan Altıntaş, TUR, F, 1.87, 76, 14-03-96, Kocaeli, None
+28, Ozan Tufan, TUR, D, 1.79, 70, 23-03-95, Bursa, None
+35, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Galatasaray
+37, Mert Ilıman, TUR, M, 1.72, 68, 08-10-95, Çorum, None
+38, İbrahim Öztürk, TUR, D, 1.87, 83, 14-06-81, Berlin, Altay
+39, Ferhat Kiraz, TUR, M, 1.77, 68, 02-01-89, Bozkır, Boluspor
+42, Hakan Aslantaş, TUR, D, 1.81, 76, 26-08-85, Nürtingen, Konyaspor
+52, Barış Örücü, GER, M, 1.83, 82, 10-05-92, Krefeld, Duisburg
+55, Murat Yıldırım, TUR, M, 1.70, 68, 18-05-87, Çorum, Samsunspor
+88, Bekir Sevgi, TUR, G, 1.86, 84, 25-08-88, Siirt, Bugsaşspor
+96, Doğanay Kılıç, TUR, M, 1.77, 72, 08-06-96, Bafra, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+78, İbrahim Kaş, TUR, D, 1.83, 79, 20-09-86, Karabük, Orduspor (On Loan)
+91, Ismail Haktan Odabaşi, TUR, F, 1.77, 70, 07-08-91, Konak, Denizlispor (On Loan)
+22, Emre Pehlivan, TUR, M, 1.78, 72, 19-01-93, Osmangazi, Körfez FK (On Loan)
+66, Adem Koçak, TUR, M, 1.78, 71, 01-09-83, Yerköy, Sivasspor
+8, Alfred N'Diaye, FRA, M, 1.87, 87, 06-03-90, Paris, Sunderland
+33, Ozan İpek, TUR, M, 1.87, 85, 10-10-86, Ankara, Mersin İdman Yurdu (On Loan)
+1, Yavuz Özkan, TUR, G, 1.89, 86, 19-05-85, Denizli, Adanspor (On Loan)
+19, Teteh Bangura, SLE, F, 1.80, 76, 27-12-89, Freetown, Şanlıurfaspor (On Loan)
+60, Onur Akbay, TUR, D, , , 13-08-86, Erbaa, Şanlıurfaspor (On Loan)
+7, Petteri Forsell, FIN, M, 1.69, 72, 16-10-90, Kokkola, IFK Mariehamn (On Loan)

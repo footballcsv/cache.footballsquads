@@ -1,0 +1,64 @@
+=  Darlington - English Football League Two 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Paul Arnison, ENG, D, 1.80, 73, 18-09-77, Hartlepool, Bradford C
+3, Mark Bower, ENG, D, 1.78, 72, 23-01-80, Bradford, Bradford C
+4, Alan White, ENG, D, 1.83, 84, 22-03-76, Darlington, Luton T
+5, Andrew Milne, SCO, D, 1.80, 73, 30-09-90, Leeds, Leeds U
+6, Ian Miller, ENG, D, 1.88, 77, 23-11-83, Colchester, Ipswich T
+7, Jeff Smith, ENG, M, 1.80, 74, 28-06-80, Middlesbrough, Carlisle U
+8, Chris Lumsdon, ENG, M, 1.80, 73, 15-12-79, Newcastle upon Tyne, Carlisle U
+9, Chris Moore, ENG, M, 1.75, 76, 17-01-84, Newcastle upon Tyne, Whitley Bay
+11, Gary Dempsey, IRL, M, 1.75, 64, 15-01-81, Wexford, St Patrick's Ath
+12, Josh Gray, ENG, M, 1.85, 75, 22-07-91, South Shields, None
+13, Nick Liversedge, ENG, G, 1.93, 81, 18-07-88, Hull, Rotherham U
+14, Gary Smith, ENG, M, 1.73, 68, 30-01-84, Middlesbrough, Brentford
+15, Curtis Main, ENG, F, 1.78, 67, 20-06-92, South Shields, None
+16, Danny Groves, ENG, M, 1.88, 77, 10-12-90, Darlington, None
+17, Dan Riley, ENG, M, , , , , None
+18, Mark Convery, ENG, M, 1.68, 66, 29-05-81, Newcastle upon Tyne, Newcastle Blue Star
+19, Tadhg Purcell, IRL, F, 1.77, 75, 02-09-85, Dublin, Shamrock R
+20, Stuart Giddings, ENG, D, 1.83, 74, 27-03-86, Coventry, Hinckley U
+21, Rikki Bains, ENG, D, 1.85, 83, 03-02-88, Coventry, Macclesfield T
+22, Simon Madden, IRL, D, 1.75, 74, 01-05-88, Dublin, Shamrock R
+23, Nick Thompson, ENG, G, , , 21-09-92, Newcastle upon Tyne, None
+24, Nathan Mulligan, ENG, M, 1.78, 73, 23-08-83, Ingleby Barwick, Norton & Stockton Ancients
+25, Jordan Marshall, ENG, F, 1.80, 74, 10-05-93, Gateshead, None
+26, Corey Barnes, ENG, M, 1.73, 67, 01-01-92, Sunderland, None
+27, John McReady, ENG, M, 1.78, 73, 12-05-92, South Shields, None
+28, Gareth Waite, ENG, M, 1.85, 83, 16-02-86, Stockton-on-Tees, Spennymoor T
+30, Serigne Mor Diop, FRA, F, 1.83, 86, 29-09-88, Paris, Eivissa-Ibiza
+31, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Blyth Spartans
+32, Michael Smith, ENG, F, 1.93, 86, 17-10-91, Wallsend, None
+33, Richie Byrne, IRL, D, 1.85, 78, 24-09-81, Dublin, Inverness CT
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Nathan Porritt, ENG, M, 1.76, 74, 09-01-90, Middlesbrough, Middlesbrough
+23, Jordan Cook, ENG, M, 1.78, 68, 20-03-90, Sunderland, Sunderland
+10, Dean Windass, ENG, F, 1.78, 83, 01-04-69, Hull, Retired
+22, Jamie Devitt, IRL, M, 1.78, 66, 06-07-90, Dublin, Hull C
+23, Tony Kane, NIR, D, 1.83, 76, 29-08-87, Belfast, Carlisle U
+24, Kevin Gall, WAL, F, 1.75, 70, 04-02-82, Merthyr, York C
+25, Russell Hoult, ENG, G, 1.93, 93, 22-11-72, Ashby, Notts Co
+20, David Dowson, ENG, F, 1.78, 74, 12-09-88, Bishop Auckland, Sunderland
+28, Moses Barnett, ENG, D, , , 03-12-90, , Everton
+19, Jamie Chandler, ENG, M, 1.70, 71, 24-03-89, South Shields, Sunderland
+1, David Knight, ENG, G, 1.83, 73, 15-01-87, Sunderland, Histon
+4, Matt Plummer, ENG, D, 1.80, 71, 18-01-89, Hull, North Ferriby U
+11, James Bennett, ENG, M, 1.78, 78, 04-09-88, Beverley, Ossett T
+19, Andrew Milne, SCO, D, 1.80, 73, 30-09-90, Leeds, Leeds U
+22, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Wolverhampton W
+28, Jonathan Hogg, ENG, M, 1.70, 67, 06-12-88, Middlesbrough, Aston Villa
+29, Simon Thomas, ENG, F, 1.83, 77, 21-07-84, Stratford, Crystal Palace
+32, Danny Hall, ENG, D, 1.88, 74, 14-11-83, Ashton-under-Lyne, Chesterfield
+33, Paul Harsley, ENG, M, 1.73, 72, 29-05-78, Scunthorpe, Chesterfield
+23, James Collins, IRL, F, 1.88, 86, 01-12-90, Coventry, Aston Villa
+25, Ashlee Jones, ENG, G, 1.85, 79, 04-08-87, Rushden, Billericay T
+5, Steve Foster, ENG, D, 1.85, 83, 03-12-74, Mansfield, Blyth Spartans
+9, Lee Thorpe, ENG, F, 1.83, 73, 14-12-75, Wolverhampton, Fleetwood T
+10, Noel Whelan, ENG, F, 1.87, 77, 30-12-74, Leeds, 
+25, Ross Chisholm, SCO, M, 1.75, 65, 14-01-88, Irvine, 
+29, Patrick Deane, SCO, F, 1.80, 80, 16-04-90, Perth, 
+23, Shane Redmond, IRL, G, 1.88, 81, 23-03-89, Rathcoole, Nottingham F

@@ -1,0 +1,61 @@
+=  Tamworth - English Football Conference Premier 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cameron Belford, WAL, G, 1.72, 71, 16-10-88, Nuneaton, Bury
+2, Jack Evans, ENG, D, 1.78, 72, 19-03-93, Gravesend, Gillingham
+3, Claudiu Hoban, ROU, M, 1.75, 72, 23-11-91, Bucharest, Corby T
+4, Michael Townsend, ENG, D, 1.88, 88, 17-05-86, Walsall, Hereford U
+5, Jessy Reindorf, RWA, F, 1.95, 77, 10-07-91, Bagneux, Bury
+6, Ben Richards-Everton, ENG, D, 1.90, 89, 17-10-91, Birmingham, Hinckley U
+7, Lloyd Kerry, ENG, M, 1.66, 78, 22-01-88, Chesterfield, Hinckley U
+8, Richie Baker, ENG, M, 1.78, 73, 29-12-87, Burnley, Barrow
+9, Justin Richards, ENG, F, 1.83, 74, 16-10-80, Sandwell, Oxford U
+10, Darren Byfield, JAM, F, 1.80, 75, 29-09-76, Sutton Coldfield, AFC Telford U
+11, Kevin Thornton, IRL, M, 1.70, 71, 09-07-86, Drogheda, Wrexham
+12, Jake Caprice, ENG, M, 1.79, 73, 11-11-92, Lambeth, Blackpool
+14, Matthew Godden, ENG, F, 1.85, 78, 29-07-91, Canterbury, Scunthorpe U
+15, Duane Courtney, ENG, D, 1.80, 71, 07-01-85, Birmingham, York C
+16, Stuart Hendrie, ENG, F, 1.75, 70, 01-11-89, Solihull, Redditch U
+17, Richard Peniket, WAL, F, 1.89, 85, 04-03-93, Bromsgrove, Fulham
+18, Kaiyne Woolery, ENG, M, 1.79, 73, 11-01-95, Hackney, Maidstone U
+19, Brad Lee Gascoigne, ENG, D, , , 12-03-94, Mansfield, Worksop T
+20, Andy Todd, ENG, M, 1.83, 71, 22-02-79, Nottingham, Mansfield T
+21, De'Reece Vanderhyde, ENG, D, 1.81, 80, 05-04-95, London, Leyton Orient
+22, Will Aimson, ENG, D, 1.79, 70, 01-01-94, Christchurch, Hull C
+23, James Wren, ENG, G, 1.85, 80, 26-06-93, Walsall, Burton Alb
+24, Amido Batis Candé, GNB, F, , , 08-03-95, , Moita do Boi
+25, Andrew Haworth, ENG, M, 1.80, 74, 28-11-88, Lancaster, Notts Co
+26, Matthew Barnes-Homer, ENG, F, 1.80, 79, 25-01-86, Dudley, Cambridge U
+27, Courtney Baker-Richardson, ENG, F, 1.85, 73, 05-12-95, Coventry, Coventry C
+28, Nick Chadwick, ENG, F, 1.80, 68, 26-10-82, Stoke-on-Trent, Plymouth Arg
+29, Lee Hildreth, ENG, M, 1.83, 71, 13-03-87, Nuneaton, Nuneaton Griff
+30, Scott Lindsey, ENG, M, 1.75, 74, 04-05-72, Walsall, Folkestone Invicta
+31, Dale Belford, ENG, G, 1.80, 83, 11-07-67, Tamworth, Atherstone T
+32, Gavin Mahon, ENG, M, 1.85, 84, 02-01-77, Birmingham, Portsmouth
+33, David Morgan, NIR, M, 1.73, 68, 04-07-94, Belfast, Nottingham F
+34, Jordan Keane, ENG, D, 1.91, 84, 19-09-93, Nottingham, Stoke C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, José Manuel Veiga, CPV, G, 1.88, 82, 18-12-76, Lisbon, Worcester C
+25, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, Port Vale
+25, Ryan Higgins, ENG, D, 1.77, 72, 01-05-94, Liverpool, Birmingham C
+32, Charlie Allen, ENG, M, 1.83, 75, 24-03-92, Slough, Gillingham
+26, Lateef Elford-Alliyu, ENG, F, 1.73, 69, 01-06-92, Ibadan, Valletta
+35, Ryan Croasdale, ENG, M, 1.75, 69, 26-09-94, Lancaster, Preston NE
+4, Tom Eckersley, ENG, D, 1.88, 76, 06-12-91, Trafford, 
+22, Deqwon Ebanks, ENG, F, , , 06-03-95, Birmingham, 
+27, Mark Wright, ENG, M, 1.80, 70, 24-02-82, Wolverhampton, 
+36, Myles Hippolyte, ENG, F, 1.83, 74, 09-11-94, Harrow, Hayes & Yeading U
+12, Louis Harris, ENG, M, 1.83, 79, 07-12-92, Sutton Coldfield, 
+24, Scott James, ENG, M, , , 17-07-95, Derby, 
+11, Jake Jones, ENG, M, 1.78, 73, 06-04-93, Birmingham, King's Lynn T
+3, Connor Gudger, ENG, D, 1.73, 75, 23-09-92, Nuneaton, Barwell
+5, Jordan Rose, ENG, D, 1.79, 76, 22-11-89, Southampton, 
+14, Matty Regan, ENG, D, 1.84, 75, 22-02-94, Liverpool, Stalybridge Celtic
+12, Connor Waldon, ENG, F, 1.80, 75, 13-02-95, Swindon, Swindon T
+3, Chris Palmer, ENG, M, 1.70, 70, 16-10-83, Derby, 
+19, Tony Capaldi, NIR, D, 1.83, 76, 12-08-81, Porsgrunn, Barwell
+21, Wayne Thomas, ENG, D, 1.88, 71, 17-05-79, Gloucester, Worcester C
+24, Kieran Fenton, ENG, D, , , 25-11-94, , Nottingham F

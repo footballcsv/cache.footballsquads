@@ -1,0 +1,42 @@
+=  Minnesota United - USA Major League Soccer 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Carter Manley, USA, D, 1.80, 77, 29-04-96, Elkridge, Duke Univ
+3, Jérôme Thiesson, SUI, M, 1.78, 70, 06-08-87, Stäfa, Luzern
+5, Francisco Calvo, CRC, D, 1.82, 77, 08-07-92, San José [CRC], Deportivo Saprissa
+6, Sam Cronin, USA, M, 1.78, 75, 12-12-86, Atlanta, Colorado Rapids
+7, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, Minnesota U (NASL)
+8, Marc Burch, USA, D, 1.88, 86, 07-05-84, Cincinnati, Colorado Rapids
+9, Angelo Rodríguez, COL, F, 1.81, 80, 04-04-89, San Andrés Isla, Deportes Tolima
+10, Miguel Ibarra, USA, M, 1.73, 65, 15-03-90, New York, León
+11, Romario Ibarra, ECU, F, 1.74, 77, 24-09-94, Atuntaqui, Universidad Católica [ECU]
+12, Fernando Bob, BRA, M, 1.80, 74, 07-01-88, Cabo Frio, Internacional
+13, Ethan Finlay, USA, M, 1.75, 75, 06-08-90, Marshfield, Columbus Crew
+14, Brent Kallman, USA, D, 1.88, 87, 04-10-90, Omaha, Minnesota U (NASL)
+15, Michael Boxall, NZL, D, 1.88, 91, 18-08-88, Auckland, SuperSport U
+16, Harrison Heath, ENG, M, 1.80, 73, 06-03-96, Newcastle-under-Lyme, Atlanta U
+17, Collin Martin, USA, M, 1.80, 68, 09-11-94, Chevy Chase, DC United
+18, Kevin Molino, TRI, M, 1.73, 71, 17-06-90, Carenage, Orlando C
+19, Frantz Pangop, CMR, M, 1.78, 75, 18-05-93, Douala, Union Douala
+20, Rasmus Schüller, FIN, M, 1.77, 67, 18-06-91, Espoo, BK Häcken
+22, Wyatt Omsberg, USA, D, 1.93, 82, 21-09-95, Scarborough, ME, Dartmouth College
+23, Mason Toye, USA, F, 1.90, 82, 16-10-98, South Orange, Indiana Univ
+24, Alex Kapp, USA, G, 1.86, 86, 18-10-94, Queens, Atlanta U
+25, Carlos Darwin Quintero, COL, F, 1.66, 64, 18-09-87, Tumaco, América
+26, Collen Warner, USA, M, 1.78, 70, 24-06-88, Denver, Houston Dynamo
+27, Bertrand Owundi, CMR, D, 1.88, 86, 15-10-93, Ekono, Rainbow FC
+28, Matt Lampson, USA, G, 1.91, 87, 06-09-89, Cleveland, Chicago Fire
+30, Eric Miller, USA, D, 1.83, 79, 15-01-93, Jacksonville, Colorado Rapids
+31, Maximiano, BRA, M, 1.78, 74, 08-05-95, Rio de Janeiro, Fluminense
+32, Alexi Gómez, PER, M, 1.74, 63, 04-03-93, Callao, Universitario de Deportes
+33, Bobby Shuttleworth, USA, G, 1.88, 88, 13-05-87, Tonawanda, New England Revolution
+99, Abu Danladi, GHA, F, 1.78, 77, 18-10-95, Sekondi-Takoradi, UCLA
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+77, José Leitón, CRC, M, 1.74, 72, 06-08-93, San José [CRC], CS Herediano
+12, Sam Nicholson, SCO, M, 1.75, 71, 20-01-95, Edinburgh, Colorado Rapids
+9, Abu Danladi, GHA, F, 1.78, 77, 18-10-95, Sekondi-Takoradi, Re-Registered (99)
+21, Christian Ramirez, USA, F, 1.88, 85, 04-04-91, Garden Grove, Los Angeles FC
+4, Tyrone Mears, ENG, D, 1.80, 74, 18-02-83, Stockport, WBA

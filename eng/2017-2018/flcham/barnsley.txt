@@ -1,0 +1,52 @@
+=  Barnsley - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Davies, ENG, G, 1.85, 75, 17-07-92, Rinteln, Sheffield W
+2, Jason McCarthy, ENG, D, 1.86, 80, 07-11-95, Southampton, Southampton
+3, Ezekiel Fryers, ENG, D, 1.83, 75, 09-09-92, Manchester, Crystal Palace
+4, Joe Williams, ENG, M, 1.78, 66, 08-12-95, Liverpool, Everton
+5, Matthew Mills, ENG, D, 1.91, 82, 14-07-86, Swindon, Nottingham F
+6, Liam Lindsay, SCO, D, 1.93, 79, 12-10-95, Glasgow, Partick Thistle
+7, Adam Hammill, ENG, M, 1.80, 73, 25-01-88, Liverpool, Huddersfield T
+9, Tom Bradshaw, WAL, F, 1.65, 69, 27-07-92, Shrewsbury, Walsall
+10, George Moncur, ENG, M, 1.75, 64, 18-08-93, Swindon, Colchester U
+11, Lloyd Isgrove, WAL, M, 1.78, 72, 12-01-93, Yeovil, Southampton
+12, Dimitri Cavaré, FRA, D, 1.85, 84, 05-02-95, Pointe-à-Pitre, Rennes
+13, Nick Townsend, ENG, G, 1.81, 91, 01-11-94, Solihull, Birmingham C
+14, Stevie Mallan, SCO, M, 1.80, 78, 25-03-96, Glasgow, St Mirren
+15, Oliver McBurnie, ENG, F, 1.88, 66, 04-06-96, Leeds, Swansea C
+16, Ethan Pinnock, ENG, D, 1.92, 79, 29-05-93, Lambeth, Forest Green R
+17, Andy Yiadom, GHA, M, 1.80, 75, 02-12-91, Camden, Barnet
+18, Adam Jackson, ENG, D, 1.87, 78, 18-05-94, Darlington, Middlesbrough
+19, Kieffer Moore, ENG, F, 1.95, 83, 08-08-92, Torquay, Ipswich T
+20, Brad Potts, ENG, M, 1.88, 81, 03-07-94, Hexham, Blackpool
+21, Connor Mahoney, ENG, M, 1.75, 67, 12-02-97, Blackburn, Bournemouth
+22, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+23, Daniel Pinillos, ESP, D, 1.82, 72, 22-10-92, Logroño, Córdoba
+24, Matty Pearson, ENG, D, 1.90, 72, 03-08-93, Keighley, Accrington Stanley
+26, Mamadou Thiam, FRA, F, 1.82, 82, 20-03-95, Aubervilliers, Dijon
+29, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, Leyton Orient
+30, Jack Walton, ENG, G, 1.84, 77, 23-04-98, Bury, None
+32, Will Smith, ENG, D, 1.85, 73, 04-11-98, Leeds, None
+33, Christoph Knasmüllner, AUT, M, 1.82, 70, 30-04-92, Vienna, Admira Wacker Mödling
+34, Ryan Hedges, WAL, F, 1.85, 65, 07-09-95, Swansea, Swansea C
+36, Ben Williams, WAL, D, 1.78, 70, 31-03-99, Preston, Blackburn R
+38, Romal Palmer, ENG, M, 1.81, 70, 30-09-99, Wigan, Manchester C
+39, Matty Wolfe, ENG, M, 1.85, 74, 12-06-00, Wakefield, None
+43, Sam Fielding, ENG, D, 1.80, 69, 02-11-99, Burton upon Trent, York C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Stefan Payne, ENG, F, 1.78, 74, 10-08-91, Lambeth, Shrewsbury T
+22, Sessi D'Almeida, BEN, M, 1.78, 71, 20-11-95, Bordeaux, Blackpool
+27, Alex Mowatt, ENG, M, 1.77, 71, 13-02-95, Doncaster, Oxford U (On Loan)
+15, Harvey Barnes, ENG, M, 1.74, 66, 09-12-97, Burnley, Leicester C
+19, Iké Ugbo, ENG, F, 1.86, 73, 21-09-98, Lewisham, Chelsea
+8, Cameron McGeehan, NIR, M, 1.80, 71, 06-04-95, Kingston-upon-Thames, Scunthorpe U (On Loan)
+37, Jared Bird, ENG, M, 1.75, 62, 01-01-98, Nottingham, Yeovil T (On Loan)
+41, Josh Kay, ENG, M, 1.65, 64, 28-10-96, Blackpool, Chesterfield
+25, Shaun Tuton, ENG, F, 1.78, 70, 03-12-91, Sheffield, FC Halifax T (On Loan)
+31, Dylan Mottley-Henry, ENG, M, 1.78, 71, 02-08-97, Leeds, Chesterfield (On Loan)
+5, Angus MacDonald, ENG, D, 1.84, 70, 15-10-92, Winchester, Hull C
+35, Jacob Brown, ENG, F, 1.78, 62, 10-04-98, Halifax, Chesterfield (On Loan)

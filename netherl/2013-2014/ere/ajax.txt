@@ -1,0 +1,38 @@
+=  Ajax - Dutch Eredivisie 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kenneth Vermeer, NED, G, 1.82, 78, 10-01-86, Amsterdam, None
+2, Ricardo van Rhijn, NED, D, 1.76, 79, 13-06-91, Leiden, None
+4, Niklas Moisander, FIN, D, 1.82, 74, 29-09-85, Turku, AZ Alkmaar
+5, Christian Poulsen, DEN, M, 1.82, 76, 28-02-80, Asnaes, Évian TG
+6, Mike van der Hoorn, NED, D, 1.90, 81, 15-10-92, Almere, FC Utrecht
+7, Viktor Fischer, DEN, F, 1.79, 71, 09-06-94, Aarhus, FC Midtjylland
+8, Lerin Duarte, NED, M, 1.68, 65, 11-08-90, Rotterdam, Heracles Almelo
+9, Kolbeinn Sigþórsson, ISL, F, 1.81, 76, 14-03-90, Reykjavík, AZ Alkmaar
+10, Siem de Jong, NED, M, 1.85, 76, 28-01-89, Aigle, None
+11, Bojan Krkić, ESP, F, 1.70, 65, 28-08-90, Linyola, Barcelona
+12, Joël Veltman, NED, D, 1.84, 75, 15-01-92, IJmuiden, None
+15, Nicolai Boilesen, DEN, D, 1.85, 75, 16-02-92, Ballerup, Brøndby
+16, Lucas Andersen, DEN, M, 1.85, 72, 13-09-94, Aalborg, Aalborg
+17, Daley Blind, NED, M, 1.82, 68, 09-03-90, Amsterdam, None
+18, Davy Klaassen, NED, F, 1.85, 76, 21-02-93, Hilversum, None
+19, Tobias Sana, SWE, M, 1.73, 63, 11-07-89, Gothenburg, IFK Göteborg
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, NEC Nijmegen
+22, Jasper Cillessen, NED, G, 1.87, 82, 22-04-89, Groesbeek, NEC Nijmegen
+24, Stefano Denswil, NED, D, 1.85, 76, 07-05-93, Zaandam, None
+25, Thulani Serero, RSA, M, 1.70, 68, 11-04-90, Soweto, Ajax Cape Town
+27, Ruben Ligeon, NED, D, 1.68, 65, 24-05-92, Amsterdam, OSV
+30, Mickey van der Hart, NED, G, 1.88, 87, 13-06-94, Amstelveen, None
+34, Lesley de Sa, NED, F, 1.70, 69, 02-04-93, Mijdrecht, None
+37, Stanislav Lobotka, SVK, M, 1.70, 64, 25-11-94, Trenčín, AS Trenčín
+42, Jaïro Riedewald, NED, D, 1.86, 77, 09-09-96, Amsterdam, None
+43, Ricardo Kishna, NED, F, 1.83, 77, 04-01-95, Den Haag, None
+44, Kenny Tete, NED, D, 1.75, 70, 09-10-95, Amsterdam, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Christian Eriksen, DEN, M, 1.75, 65, 14-02-92, Middelfart, Tottenham H
+3, Toby Alderweireld, BEL, D, 1.85, 75, 02-03-89, Wilrijk, Atlético Madrid
+26, Eyong Enoh, CMR, M, 1.80, 76, 23-03-86, Kumba, Antalyaspor (On Loan)
+23, Danny Hoesen, NED, F, 1.86, 75, 15-01-91, Kerkrade, PAOK (On Loan)

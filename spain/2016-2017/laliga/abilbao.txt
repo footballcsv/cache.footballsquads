@@ -1,0 +1,49 @@
+=  Athletic Bilbao - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gorka Iraizoz, ESP, G, 1.91, 81, 06-03-81, Pamplona, Espanyol
+2, Eneko Bóveda, ESP, D, 1.80, 77, 14-12-88, Bilbao, Eibar
+3, Gorka Elustondo, ESP, M, 1.82, 73, 18-03-87, Beasain, Real Sociedad
+4, Aymeric Laporte, FRA, D, 1.89, 85, 27-05-94, Agen, Athletic Bilbao B
+5, Javier Eraso, ESP, M, 1.80, 71, 22-03-90, Pamplona, Leganés
+6, Mikel San José, ESP, D, 1.83, 78, 30-05-89, Pamplona, Liverpool
+7, Beñat, ESP, M, 1.75, 72, 19-02-87, Igorre, Betis
+8, Ander Iturraspe, ESP, M, 1.87, 73, 08-03-89, Abadiño, Athletic Bilbao B
+10, Iker Muniain, ESP, F, 1.68, 62, 19-12-92, Iruñea, Athletic Bilbao B
+11, Iñaki Williams, ESP, F, 1.86, 71, 15-06-94, Bilbao, Athletic Bilbao B
+14, Markel Susaeta, ESP, M, 1.79, 68, 14-12-87, Eibar, Athletic Bilbao B
+15, Íñigo Lekue, ESP, D, 1.79, 70, 04-05-93, Bilbao, Athletic Bilbao B
+16, Xabier Etxeita, ESP, M, 1.85, 79, 31-10-87, Zornotza, Elche
+17, Mikel Rico, ESP, M, 1.78, 75, 01-11-84, Cruces, Granada
+18, Óscar de Marcos, ESP, M, 1.80, 73, 14-04-89, Vitoria, Alavés
+19, Sabin Merino, ESP, F, 1.87, 78, 04-01-92, Urduliz, Athletic Bilbao B
+20, Aritz Aduriz, ESP, F, 1.77, 75, 11-02-81, San Sebastián, Valencia
+22, Raúl García, ESP, M, 1.83, 80, 11-07-86, Pamplona, Atlético Madrid
+24, Mikel Balenziaga, ESP, D, 1.79, 74, 29-02-88, Zumárraga, Valladolid
+25, Enric Saborit, ESP, D, 1.86, 72, 27-04-92, Barcelona, Athletic Bilbao B
+26, Kepa Arrizabalaga, ESP, G, 1.86, 81, 03-10-94, Ondarroa, Athletic Bilbao B
+27, Yeray, ESP, D, 1.83, 78, 24-01-95, Barakaldo, Athletic Bilbao B
+29, Alejandro Remiro, ESP, G, 1.91, 80, 24-03-95, Cascante, Athletic Bilbao B
+31, Iker Undabarrena, ESP, M, 1.80, 75, 18-05-95, Gorliz, Athletic Bilbao B
+32, Unai Simón, ESP, G, 1.89, 84, 11-06-97, Vitoria-Gasteiz, Athletic Bilbao B
+33, Jon Sillero, ESP, D, 1.76, 79, 24-05-98, Durango, Athletic Bilbao B
+34, Aitor Seguín, ESP, M, 1.79, 67, 27-02-95, Eibar, Athletic Bilbao B
+35, Jurgi Oteo, ESP, F, 1.71, 64, 29-08-96, Barakaldo, Athletic Bilbao B
+36, Unai Núñez, ESP, D, 1.86, 77, 30-01-97, Portugalete, Athletic Bilbao B
+37, Andoni López, ESP, D, 1.87, 73, 05-04-96, Barakaldo, Athletic Bilbao B
+38, Gorka Guruzeta, ESP, F, 1.88, 73, 12-09-96, San Sebastián, Athletic Bilbao B
+39, Oli, ESP, F, 1.72, 65, 02-02-96, Sondika, Athletic Bilbao B
+40, Unai Etxebarria, ESP, G, 1.88, 81, 30-08-96, Getxo, Athletic Bilbao B
+41, Íñigo Córdoba, ESP, M, 1.78, 75, 13-03-97, Bilbao, Athletic Bilbao B
+42, Jon Agirrezabala, ESP, D, 1.73, 72, 31-10-95, Galdakao, Athletic Bilbao B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Borja Viguera, ESP, F, 1.84, 80, 26-03-87, Logroño, Sporting Gijón
+13, Iago Herrerín, ESP, G, 1.86, 90, 25-01-88, Bilbao, Leganés (On Loan)
+30, Urtzi Urzelai, ESP, M, 1.78, 69, 27-04-95, Bilbao, Zamudio (On Loan)
+12, Mikel Vesga, ESP, M, 1.91, 86, 21-05-93, Vitoria-Gasteiz, Sporting Gijón (On Loan)
+9, Kike Sola, ESP, F, 1.84, 84, 25-02-86, Tudela, Numancia (On Loan)
+23, Ager Aketxe, ESP, M, 1.74, 70, 30-12-93, Bilbao, Cádiz (On Loan)
+28, Asier Villalibre, ESP, F, 1.83, 82, 30-09-97, Guernica, Numancia (On Loan)

@@ -1,0 +1,43 @@
+=  Lyon - French Ligue 1 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rémy Vercoutre, FRA, G, 1.85, 78, 26-06-80, Grande-Synthe, Montpellier
+2, Mehdi Zeffane, ALG, D, 1.74, 63, 19-05-92, Sainte-Foy-lès-Lyon, None
+3, Henri Bedimo Nsame, CMR, D, 1.80, 80, 04-06-84, Douala, Montpellier
+4, Bakari Koné, BFA, D, 1.88, 80, 27-04-88, Ouagadougou, Guingamp
+5, Milan Biševac, SRB, D, 1.85, 83, 31-08-83, Mitrovica, Paris St-Germain
+6, Gueïda Fofana, FRA, M, 1.82, 74, 16-05-91, Le Havre, Le Havre
+7, Clément Grenier, FRA, M, 1.86, 72, 07-01-91, Annonay, None
+8, Yoann Gourcuff, FRA, M, 1.85, 79, 11-07-86, Lorient, Bordeaux
+10, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, None
+11, Rachid Ghezzal, FRA, M, 1.82, 65, 09-05-92, Décines-Charpieu, None
+12, Jordan Ferri, FRA, M, 1.72, 70, 12-03-92, Cavaillon, None
+13, Miguel Lopes, POR, D, 1.82, 72, 19-12-86, Lisbon, Sporting CP
+14, Mouhamadou Dabo, SEN, D, 1.76, 67, 28-11-86, Dakar, Sevilla
+15, Mouhamadou-Naby Sarr, FRA, D, 1.96, 94, 13-08-93, Marseille, None
+16, Anthony Lopes, POR, G, 1.84, 81, 01-10-90, Givors, None
+17, Steed Malbranque, FRA, M, 1.72, 73, 06-01-80, Mouscron, St-Etienne
+18, Bafetibis Gomis, FRA, F, 1.84, 77, 06-08-85, Seyne-sur-Mer, St-Etienne
+19, Jimmy Briand, FRA, F, 1.81, 84, 02-05-85, Vitry-sur-Seine, Rennes
+20, Gaël Danic, FRA, M, 1.76, 65, 19-11-81, Vannes, Valenciennes
+21, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, None
+22, Sidy Koné, MLI, M, 1.85, 73, 06-06-92, Bamako, None
+23, Samuel Umtiti, FRA, D, 1.81, 75, 14-11-93, Yaoundé, None
+24, Corentin Tolisso, FRA, M, 1.65, 54, 03-08-94, Tarare, None
+25, Yassine Benzia, FRA, F, 1.79, 71, 08-09-94, Saint-Aubin Lès-Elbeuf, None
+26, Clinton N'Jie, CMR, F, 1.75, 68, 15-08-93, Douala, None
+28, Arnold Mvuemba, FRA, M, 1.72, 67, 28-01-85, Alencon, Lorient
+29, Fares Bahlouli, FRA, M, 1.81, 78, 08-04-95, Lyon, None
+30, Mathieu Gorgelin, FRA, G, 1.87, 83, 05-08-90, Ambérieu-en-Bugey, None
+31, Nabil Fekir, FRA, M, 1.73, 72, 18-07-93, Lyon, None
+32, Zakarie Labidi, FRA, M, 1.78, 71, 08-02-95, Villeneuve-la-Garenne, None
+40, Théo Defourny, BEL, G, 1.94, 85, 25-04-92, Bourg-Saint-Maurice, None
+44, Romaric N'Gouma, FRA, D, 1.86, 72, 28-01-95, Lyon, None
+45, Jérémy Frick, SUI, G, 1.92, 88, 08-03-93, Geneva, Genève-Servette-Carouge
+47, Kevin Tsimba, SUI, M, 1.71, 65, 20-02-94, Geneva, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+36, Harry Novillo, FRA, F, 1.82, 80, 11-02-92, Lyon, RAEC Mons
+27, Alassane Pléa, FRA, M, 1.80, 72, 10-03-93, Lille, Auxerre (On Loan)

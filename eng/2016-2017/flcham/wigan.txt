@@ -1,0 +1,63 @@
+=  Wigan Athletic - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ádám Bogdán, HUN, G, 1.94, 90, 27-09-87, Budapest, Liverpool
+2, Reece James, ENG, D, 1.68, 71, 07-11-93, Bacup, Manchester U
+3, Jake Buxton, ENG, D, 1.80, 83, 04-03-85, Sutton-in-Ashfield, Derby Co
+4, David Perkins, ENG, M, 1.68, 76, 21-06-82, Heysham, Blackpool
+5, Donervon Daniels, MSR, D, 1.86, 91, 24-11-93, Montserrat, WBA
+6, Max Power, ENG, M, 1.81, 77, 27-07-93, Birkenhead, Tranmere R
+7, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, Colchester U
+8, Sam Morsy, EGY, M, 1.75, 76, 10-09-91, Wolverhampton, Chesterfield
+9, Will Grigg, NIR, F, 1.80, 70, 03-07-91, Solihull, Brentford
+11, Gabriel Obertan, FRA, M, 1.86, 79, 26-02-89, Pantin, Anzhi Makhachkala
+12, Callum Connolly, ENG, D, 1.83, 70, 23-09-97, Liverpool, Everton
+13, Andy Kellett, ENG, D, 1.78, 79, 10-11-93, Bolton, Bolton W
+14, Omar Bogle, ENG, F, 1.91, 80, 26-07-92, Birmingham, Grimsby T
+16, Shaun MacDonald, WAL, M, 1.85, 76, 17-06-88, Swansea, Bournemouth
+17, Michael Jacobs, ENG, M, 1.75, 74, 22-03-92, Northampton, Wolverhampton W
+19, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, Fulham
+20, Craig Morgan, WAL, D, 1.87, 88, 16-06-85, St Asaph, Rotherham U
+21, Alex Bruce, NIR, D, 1.80, 73, 28-09-84, Norwich, Hull C
+22, Jussi Jääskeläinen, FIN, G, 1.91, 81, 19-04-75, Mikkeli, West Ham U
+23, Stephen Warnock, ENG, D, 1.78, 75, 12-12-81, Ormskirk, Derby Co
+24, Jack Hendry, SCO, D, 1.88, 76, 07-05-95, Glasgow, Partick Thistle
+25, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Manchester U
+26, Jamie Hanson, ENG, D, 1.90, 79, 10-11-95, Burton-upon-Trent, Derby Co
+27, Ryan Colclough, ENG, M, 1.90, 83, 27-12-94, Burslem, Crewe Alex
+28, Jakob Haugaard, DEN, G, 1.97, 87, 01-05-92, Sundby, Stoke C
+29, Luke Burke, ENG, D, 1.70, 64, 22-02-98, Liverpool, None
+30, James Barrigan, ENG, F, 1.80, 74, 25-01-98, Liverpool, None
+31, Jack Byrne, IRL, M, 1.76, 73, 24-04-96, Dublin, Manchester C
+32, Reece Burke, ENG, D, 1.89, 81, 02-09-96, Newham, West Ham U
+33, Dan Burn, ENG, D, 1.98, 83, 09-05-92, Blyth, Fulham
+35, Matthew Gilks, SCO, G, 1.85, 81, 04-06-82, Rochdale, Rangers
+37, Josh Laurent, ENG, M, 1.83, 70, 06-05-95, Leytonstone, Hartlepool U
+39, Mikaël Mandron, SCO, F, 1.91, 82, 11-10-94, Boulogne-sur-Mer, Eastleigh
+40, Owen Evans, WAL, G, 1.84, 70, 28-11-96, Newport, Hereford U
+42, Josh Gregory, ENG, M, 1.75, 68, 05-06-98, Wigan, None
+43, Marcus Browne, ENG, M, 1.79, 74, 18-12-97, Tower Hamlets, West Ham U
+44, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, None
+46, Theo Roberts, ENG, G, , , 10-09-98, Wigan, None
+47, James Weir, ENG, M, 1.77, 71, 04-08-95, Preston, Hull C
+48, Luke Burgess, ENG, M, 1.75, 66, 03-03-99, Liverpool, None
+49, Callum Lang, ENG, F, 1.80, 70, 08-09-98, Liverpool, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Emyr Huws, WAL, M, 1.85, 78, 30-09-93, Llanelli, Cardiff C
+18, Tim Chow, ENG, M, 1.80, 72, 18-01-94, Wigan, Ross Co
+12, Kyle Knoyle, ENG, D, 1.77, 63, 24-09-96, Newham, West Ham U
+19, Luke Garbutt, ENG, D, 1.78, 73, 21-05-93, Harrogate, Everton
+21, Craig Davies, WAL, F, 1.88, 85, 09-01-86, Burton-on-Trent, Scunthorpe U
+10, Nathan Byrne, ENG, M, 1.80, 84, 05-06-92, St Albans, Charlton Ath (On Loan)
+36, Dan Lavercombe, ENG, G, 1.91, 71, 16-05-96, Torquay, Rhyl (On Loan)
+18, Kaiyne Woolery, ENG, M, 1.79, 73, 11-01-95, Hackney, Forest Green R (On Loan)
+34, Danny Whitehead, ENG, F, 1.79, 69, 23-10-93, Trafford, Macclesfield T (On Loan)
+38, Sam Cosgrove, ENG, F, 1.88, 67, 02-12-96, Beverley, North Ferriby U (On Loan)
+15, Jordan Flores, ENG, M, 1.76, 67, 04-10-95, Wigan, Blackpool (On Loan)
+45, Danny O'Brien, ENG, M, 1.80, 65, 12-03-96, Salford, Chester (On Loan)
+11, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Cardiff C
+14, Jordi Gómez, ESP, M, 1.78, 74, 24-05-85, Barcelona, Rayo Vallecano
+31, Yanic Wildschut, NED, F, 1.87, 86, 01-11-91, Amsterdam, Norwich C

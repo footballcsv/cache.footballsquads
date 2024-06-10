@@ -1,0 +1,23 @@
+# French Ligue 2 2010/11
+
+20 teams
+- [Ajaccio](ajaccio.txt)
+- [Angers](angers.txt)
+- [Boulogne](boulogne.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Dijon](dijon.txt)
+- [Évian Thonon Gaillard](eviantg.txt)
+- [Grenoble](grenob.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Le Mans](lemans.txt)
+- [Metz](metz.txt)
+- [Nantes](nantes.txt)
+- [Nîmes](nimes.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Tours](tours.txt)
+- [Troyes](troyes.txt)
+- [Vannes](vannes.txt)

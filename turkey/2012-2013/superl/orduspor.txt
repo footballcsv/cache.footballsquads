@@ -1,0 +1,44 @@
+=  Orduspor - Turkish Süper Lig 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+5, Ömer Kulga, BEL, D, 1.89, 80, 08-01-89, Sint-Niklaas, Kayserispor
+6, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, FSV Frankfurt
+7, Müslüm Yelken, TUR, M, 1.75, 73, 28-11-88, Kayseri, Villingen
+8, Ali Çamdalı, TUR, M, 1.86, 80, 22-02-84, Duisburg, Kocaelispor
+9, Bogdan Stancu, ROU, F, 1.78, 69, 28-06-87, Piteşti, Galatasaray
+10, Hasan Kabze, TUR, F, 1.85, 74, 26-05-82, Ankara, Montpellier
+11, Nizamettin Çalışkan, TUR, M, 1.72, 70, 20-03-87, Hagen, Manisaspor
+14, Agus, ESP, D, 1.83, 86, 03-05-85, Bonete, Alcorcón
+15, Miguel Garcia, POR, D, 1.79, 74, 04-02-83, Moura, Sporting Braga
+17, Fevzi Elmas, TUR, G, 1.82, 74, 09-06-83, Biga, Antalyaspor
+18, Ferhat Öztorun, TUR, D, 1.76, 73, 08-05-87, İstanbul, Trabzonspor
+19, Murat Torun, TUR, F, 1.85, , 27-05-94, Bakırköy, None
+20, Abdülkadir Kayalı, TUR, M, 1.76, 74, 30-01-91, Altındağ, Eskişehirspor
+21, Anıl Taşdemir, TUR, M, 1.75, 67, 01-01-88, Söke, Akhisar Belediyespor
+22, Javier Umbides, ARG, M, 1.73, 79, 09-02-82, Monte Quemado, Aris
+23, David Barral, ESP, F, 1.83, 78, 10-05-83, Cádiz, Sporting Gijón
+25, Yasin Kocatepe, GER, M, 1.88, , 08-09-91, , Pfullendorf
+26, Vicente Monje, ARG, M, 1.73, 70, 22-06-81, Yuto, Olympiakos
+27, Selçuk Şahin, TUR, D, 1.76, 71, 26-03-83, Munich, Hacettepe
+32, Sašo Fornezzi, SVN, G, 1.91, 90, 11-12-82, Slovenj Gradec, Wiener Neustadt
+37, Ayila Yussuf, NGA, M, 1.82, 73, 04-11-84, Lagos, Dynamo Kyiv
+39, Yiğit Gökoğlan, TUR, M, 1.83, 75, 05-06-89, Konak, Galatasaray
+46, Burak Demireğen, TUR, D, , , 03-08-93, Ordu, None
+55, Cantuğ Temel, TUR, G, 1.89, 80, 10-06-94, Samsun, None
+75, Jaime, ESP, M, 1.76, 74, 31-07-90, Albacete, Udinese
+78, İbrahim Kaş, TUR, D, 1.83, 79, 20-09-86, Karabük, Bursaspor
+84, Rovérsio, BRA, D, 1.87, 70, 17-01-84, Igrassú, Osasuna
+85, Ferhat Çökmüş, TUR, D, 1.80, 75, 14-02-85, Bern, Manisaspor
+89, Atila Turan, FRA, D, 1.76, 79, 10-04-92, Cheny, Sporting CP
+92, Erdal Pekdemir, TUR, M, , , 13-06-92, Piraziz, None
+94, Batuhan Türkmen, TUR, F, , , 08-02-95, Muğla, Denizlispor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Jean-Jacques Gosso, CIV, M, 1.77, 75, 15-03-83, Abidjan, Mersin İsman Yurdu
+91, Yasin Öztop, TUR, D, 1.71, 63, 25-05-91, Aybastı, Ünyespor (On Loan)
+3, Hüsamettin Tut, TUR, D, 1.71, 62, 01-01-91, Ulubey, Giresunspor (On Loan)
+4, Numan Çürüksu, TUR, D, 1.87, 80, 02-12-84, Trabzon, Erciyesspor
+1, Ali Ferhat Aksoy, TUR, G, 1.85, 86, 15-10-92, Elbistan, Bayrampaşa (On Loan)
+77, Onur Tuncer, TUR, M, 1.80, 71, 19-02-84, Kocaeli, Gazientep BB

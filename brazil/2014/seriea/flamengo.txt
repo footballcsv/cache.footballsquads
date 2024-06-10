@@ -1,0 +1,50 @@
+=  Flamengo - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe, BRA, G, 1.90, 86, 22-02-84, Rio de Janeiro, Olé Brasil
+2, Léonardo Moura, BRA, D, 1.76, 65, 23-10-78, Niterói, Sporting Braga
+3, Chicão, BRA, D, 1.81, 81, 03-06-81, Mogi Guaçu, Corinthians
+4, Samir, BRA, D, 1.88, 80, 05-12-94, Rio de Janeiro, Audax Rio
+5, Víctor Cáceres, PAR, M, 1.82, 77, 25-03-85, Asunción, Libertad
+6, Frickson Erazo, ECU, D, 1.90, 78, 05-05-88, Esmeraldas, Barcelona [ECU]
+8, Marcio Araújo, BRA, M, 1.72, 70, 11-06-84, São Luiz, Palmeiras
+9, Élton, BRA, F, 1.85, 84, 01-08-85, Iramaia, Corinthians
+10, Lucas Mugni, ARG, M, 1.81, 76, 12-01-92, Santa Fe, Colón (Santa Fe)
+11, Negueba, BRA, F, 1.78, 70, 07-04-92, Rio de Janeiro, None
+13, Marcelo, BRA, D, 1.86, 80, 26-08-91, Juiz de Fora, Cianorte
+14, Wallace, BRA, D, 1.83, 76, 26-12-87, Conceição do Coité, Corinthians
+15, Muralha, BRA, M, 1.73, 68, 21-01-93, Rio de Janeiro, None
+16, João Paulo, BRA, D, 1.73, 72, 01-07-86, Belo Horizonte, Desportivo Brasil
+17, Gabriel, BRA, F, 1.78, 64, 06-01-90, Salvador, Bahia
+18, Igor Sartori, BRA, F, 1.76, 70, 08-01-93, Rio de Janeiro, Kashima Antlers
+19, Alecsandro, BRA, F, 1.83, 80, 04-02-81, Bauru, Atlético Mineiro
+20, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, Vélez Sarsfield
+21, Léo, BRA, D, 1.71, 62, 03-10-91, Salvador, Vitória
+22, Éverton, BRA, M, 1.74, 66, 11-12-88, Nortelândia, UANL Tigres
+23, Eduardo, CRO, F, 1.77, 70, 25-02-83, Rio de Janeiro, Shakhtar Donetsk
+25, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, None
+26, Paulinho, BRA, F, 1.77, 63, 14-06-88, Guarulhos, XV de Piracicaba
+29, Nixon, BRA, F, 1.76, 62, 20-07-92, Bahia, Porto-PE
+30, Recife, BRA, M, 1.82, 74, 14-10-94, Recife, Madureira
+31, Mattheus, BRA, M, 1.82, 70, 07-07-94, Rio de Janeiro, None
+33, Rodrigo Frauches, BRA, D, 1.85, 77, 28-09-92, São João de Meriti, None
+35, Fernando, BRA, D, 1.84, 70, 19-03-93, Rio de Janeiro, None
+36, Anderson Pico, BRA, D, 1.69, 75, 04-11-88, Porto Alegre, Novo Hamburgo
+37, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+38, Daniel, BRA, G, 1.88, 80, 19-04-95, Rio de Janeiro, None
+39, Arthur, BRA, F, 1.76, 75, 15-04-92, Barbalha, Londrina
+40, Amaral, BRA, M, 1.74, 80, 01-05-88, Rio das Ostras, Nova Iguaçu
+48, Paulo Victor, BRA, G, 1.87, 76, 12-01-87, Assis, América-RJ
+50, João Paulo, BRA, G, 1.86, 80, 10-10-94, Irati, None
+56, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Rodolfo, BRA, M, 1.73, 68, 03-05-93, Mesquita, Ponte Preta (On Loan)
+20, Carlos Eduardo, BRA, M, 1.71, 68, 18-07-87, Ajuricaba, Rubin Kazan
+32, Digão, BRA, D, 1.77, 78, 12-03-93, Rio de Janeiro, América de Natal (On Loan)
+38, Luan Polli, BRA, G, 1.87, 86, 06-04-93, Meleiro, Figueirense
+9, Hernane, BRA, F, 1.83, 80, 04-08-86, Bom Jesus da Lapa, Al-Nassr
+7, Elano, BRA, M, 1.74, 65, 14-06-81, Iracemápolis, Grêmio
+27, André Santos, BRA, D, 1.79, 76, 08-03-83, São Paulo, Goa

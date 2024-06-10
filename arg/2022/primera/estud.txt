@@ -1,0 +1,58 @@
+=  Estudiantes (La Plata) - Argentine Primera División 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jerónimo Pourtau, ARG, G, 1.91, 75, 23-01-00, Brandsen, None
+2, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Independiente
+4, Leonardo Heredia, ARG, M, 1.85, 79, 11-10-96, Capital Federal, Atlético Tucumán
+5, Jorge Morel, PAR, M, 1.84, 80, 22-01-98, Asunción, Guaraní [PAR]
+6, Emmanuel Más, ARG, D, 1.80, 81, 15-01-89, San Juan, Orlando C
+7, Mauro Méndez, URU, F, 1.79, 74, 17-01-99, Salto, Montevideo Wanderers
+8, Fernando Zuqui, ARG, M, 1.70, 64, 27-11-91, Luján de Cuyo, Boca Juniors
+9, Leandro Díaz, ARG, F, 1.82, 79, 06-06-92, San Miguel de Tucumán, Atlético Tucumán
+10, Benjamín Rollheiser, ARG, F, 1.75, 71, 24-03-00, Pueblo San José, River Plate
+12, Juan Pablo Zozaya, ARG, G, 1.87, 86, 13-08-01, Necochea, None
+13, Bruno Valdez, ARG, D, 1.79, 75, 04-01-02, San Rafael, None
+14, Hernán Toledo, ARG, F, 1.80, 70, 17-01-96, Sastre, Deportivo Maldonado
+15, José Ernesto Sosa, ARG, M, 1.79, 72, 19-06-85, Carcarañá, Fenerbahçe
+16, Mateo Burdisso, ARG, D, 1.86, 74, 22-01-02, Altos de Chipión, None
+17, Mauro Boselli, ARG, F, 1.83, 75, 22-05-85, Capital Federal, Cerro Porteño
+18, Fabián Noguera, ARG, D, 1.92, 97, 20-03-93, Ramos Mejía, Santos
+19, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Universidad Católica
+20, Manuel Castro, URU, M, 1.72, 72, 27-09-95, Durazno, Montevideo Wanderers
+21, Mariano Andújar, ARG, G, 1.94, 87, 30-07-83, Capital Federal, Napoli
+22, Franco Zapiola, ARG, M, 1.76, 68, 19-02-01, Magdalena, None
+23, Gonzalo Piñeiro, ARG, M, 1.80, 76, 03-10-00, Florencio Varela, None
+24, Santiago Flores, ARG, D, 1.84, 74, 25-03-01, Colón, None
+25, Eros Mancuso, ARG, D, 1.73, 73, 17-04-99, Haedo, Boca Juniors
+26, Luciano Lollo, ARG, D, 1.83, 80, 29-03-87, Alejo Ledesma, Banfield
+27, Santiago Núñez, ARG, D, 1.87, 78, 29-04-00, Roque Pérez, None
+28, Mateo Pellegrino, ARG, F, 1.92, 85, 22-10-01, Valencia, Vélez Sarsfield
+29, Leonardo Godoy, ARG, D, 1.80, 70, 28-04-95, Concordia, Talleres (Córdoba)
+30, Jorge Rodríguez, ARG, M, 1.78, 84, 15-09-95, Mendoza, Banfield
+31, Pablo Piatti, ARG, F, 1.63, 63, 31-03-89, La Carlota, Elche
+32, Brian Orosco, ARG, M, 1.72, 65, 28-02-98, Mendoza, Deportivo Morón
+33, Blas Agustín Palavecino, ARG, M, 1.84, 72, 09-03-03, La Plata, None
+34, Matteo Trombini, ARG, M, 1.70, 64, 25-04-03, Modena, None
+36, Fabricio Iacovich, ARG, G, 1.97, 85, 29-01-02, La Plata, None
+38, Mariano Ascacibar, ARG, F, -, -, 19-11-04, La Plata, None
+39, Juan Pablo Arango, ARG, M, 1.71, 65, 29-09-05, Necochea, None
+40, Julián Ascacibar, ARG, D, 1.65, 63, 15-09-01, La Plata, None
+44, Juan Franco Cacace, ARG, D, 1.85, 85, 30-04-01, La Plata, None
+45, Nicolás Fernández, ARG, D, 1.78, 74, 11-02-02, Coronel Brandsen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Ricardo Ramírez, ARG, M, 1.69, 66, 27-04-99, Miraflores, San Telmo
+4, Emanuel Beltrán, URU, D, 1.80, 75, 23-01-98, Santa Lucia, Cerro Largo
+7, Matías Pellegrini, ARG, M, 1.76, 67, 11-03-00, Magdalena, Inter Miami
+28, Nelson Deossa, COL, M, 1.85, 71, 06-02-00, Marmato, Atlético Huila
+10, Gustavo Del Prete, ARG, F, 1.76, 64, 12-06-96, Cipolletti, UNAM
+25, Bautista Kociubinski, ARG, M, 1.80, 78, 26-04-01, La Plata, Aldosivi (Mar del Plata) (On Loan)
+37, Alan Marinelli, ARG, F, 1.74, 70, 07-04-99, Rosario, Rosario Central
+38, Vinicius Lansade, ARG, M, 1.73, 66, 12-02-00, Curitiba, Rosario Central
+16, Aaron Spetale, ARG, F, 1.87, 83, 28-05-00, Casilda, Danubio (On Loan)
+19, Nicolás Palavecino, ARG, M, 1.86, 77, 29-03-03, Mburucuyá, Montevideo City Torque (On Loan)
+19, Ángel González, ARG, M, 1.75, 68, 16-05-94, Godoy Cruz, LDU Quito
+15, Carlo Lattanzio, ARG, F, 1.71, 64, 25-07-97, La Plata, Platense (On Loan)
+3, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, Hertha Berlin

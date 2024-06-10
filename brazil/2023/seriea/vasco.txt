@@ -1,0 +1,54 @@
+=  Vasco da Gama - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Léo Jardim, BRA, G, 1.88, 74, 20-03-95, Ribeirão Preto, Lille
+2, José Luis Rodríguez, URU, D, 1.83, 74, 14-03-97, Canelones, Nacional [URU]
+3, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, São Paulo
+4, Maicon, BRA, D, 1.90, 74, 14-09-88, Barretos, Santos
+5, Patrick de Lucca, BRA, M, 1.80, 75, 02-03-00, São Paulo, Bahia
+6, Lucas Piton, BRA, D, 1.75, 64, 09-10-00, Jundiaí, Corinthians
+7, Alex Teixeira, BRA, M, 1.73, 68, 06-01-90, Duque de Caxias, Beşiktaş
+8, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, Atlético Mineiro
+9, Sebastián Ferreira, PAR, F, 1.80, 78, 13-02-98, Asunción, Houston Dynamo
+10, Dimitri Payet, FRA, M, 1.74, 70, 29-03-87, St-Pierre de la Réunion, Marseille
+11, Gabriel Pec, BRA, F, 1.75, 70, 11-02-01, Petrópolis, None
+12, Jefferson, BRA, D, 1.76, 69, 03-01-97, Jaraguá, Atlético Goianiense
+13, Gabriel Dias, BRA, D, 1.83, 79, 10-05-94, Francisco Morato, Cruzeiro
+14, Luca Orellano, ARG, M, 1.77, 66, 22-03-00, Francisco Álvarez, Vélez Sarsfield
+15, Figueiredo, BRA, F, 1.78, 71, 14-08-01, Niterói, None
+16, Erick Marcus, BRA, F, 1.78, 70, 01-03-04, Rio de Janeiro, None
+17, Gary Medel, CHI, D, 1.71, 76, 03-08-87, Santiago, Bologna
+18, Paulinho, BRA, M, 1.73, 65, 08-01-97, Rio de Janeiro, Al-Shabab
+21, Bruno Praxedes, BRA, M, 1.86, 75, 08-02-02, Itaboraí, Red Bull Bragantino
+22, Manuel Capasso, ARG, D, 1.88, 87, 19-04-96, Capital Federal, Atlético Tucumán
+23, Zé Gabriel, BRA, M, 1.84, 77, 21-01-99, Carmópolis, Internacional
+24, Halls, BRA, G, 1.98, 88, 17-06-99, Nova Iguaçu, None
+25, Marlon Gomes, BRA, M, 1.81, 67, 14-12-03, Rio de Janeiro, None
+29, Paulinho, BRA, D, 1.75, 70, 23-05-05, Manaus, None
+30, Robson Bambu, BRA, D, 1.84, 70, 12-11-97, São Vicente, Nice
+31, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Al-Faisaly [KSA]
+32, Pablo, BRA, G, 1.88, 80, 11-02-03, Volta Redonda, None
+33, Lyncon, BRA, D, 1.86, 80, 07-05-05, Itaboraí, None
+35, Miranda, BRA, D, 1.81, 73, 19-01-00, Magé, None
+44, Zé Vitor, BRA, D, 1.92, 84, 10-06-02, Colorado, None
+45, Riquelme, BRA, D, 1.73, 70, 28-08-02, Barra Mansa, None
+70, Serginho, BRA, M, 1.80, 73, 06-04-95, Belo Horizonte, Giresunspor
+77, Rayan, BRA, F, 1.85, 75, 03-08-06, Rio de Janeiro, None
+85, Mateus Cocão, BRA, M, 1.74, 74, 18-03-02, Tucuruí, Náutico
+88, Cauan Barros, BRA, M, 1.75, 68, 06-05-04, Tacaratu, None
+96, Paulo Henrique, BRA, D, 1.75, 74, 25-07-96, Sete Barras, Atlético Mineiro
+97, Ivan, BRA, G, 1.84, 64, 02-07-97, Rio das Pedras, Corinthians
+99, Pablo Vegetti, ARG, F, 1.87, 86, 15-10-88, Santo Domingo, Belgrano (Córdoba)
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Andrey Santos, BRA, M, 1.76, 72, 03-05-04, Rio de Janeiro, Chelsea
+66, Paulo Victor, BRA, D, 1.80, 72, 13-04-01, Boicaúva, Internacional
+17, Vinícius Paiva, BRA, F, 1.70, 64, 01-03-01, Rio de Janeiro, Sheriff Tiraspol (On Loan)
+12, Rwan, BRA, F, 1.87, 73, 20-05-01, Recife, Santos
+26, Rodrigo, BRA, M, 1.78, 65, 04-06-02, Barra de São Miguel, Londrina (On Loan)
+9, Pedro Raúl, BRA, F, 1.92, 86, 05-11-96, Porto Alegre, Toluca
+21, Eguinaldo, BRA, F, 1.75, 71, 09-08-04, Monção, Shakhtar Donetsk
+20, Gabriel Carabajal, ARG, M, 1.78, 75, 09-12-91, Córdoba, Santos
+19, Matías Galarza, PAR, M, 1.75, 67, 11-02-02, Asunción, Talleres (Córdoba) (On Loan)

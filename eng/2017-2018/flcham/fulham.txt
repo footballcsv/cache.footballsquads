@@ -1,0 +1,70 @@
+=  Fulham - English Football League Championship 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marcus Bettinelli, ENG, G, 1.94, 82, 24-05-92, Camberwell, None
+2, Ryan Fredericks, ENG, D, 1.73, 72, 10-10-92, Potters Bar, Bristol C
+3, Ryan Sessegnon, ENG, D, 1.78, 71, 18-05-00, Roehampton, None
+4, Denis Odoi, BEL, D, 1.78, 67, 27-05-88, Leuven, Lokeren
+6, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Wolverhampton W
+7, Neeskens Kebano, COD, M, 1.80, 75, 10-03-92, Montereau, KRC Genk
+8, Stefan Johansen, NOR, M, 1.82, 78, 08-01-91, Vardø, Celtic
+9, Rui Fonte, POR, F, 1.81, 73, 23-03-90, Lisbon, Sporting Braga
+10, Tom Cairney, SCO, M, 1.83, 72, 20-01-91, Nottingham, Blackburn R
+11, Floyd Ayité, TOG, M, 1.74, 68, 15-12-88, Bordeaux, Bastia
+13, Tim Ream, USA, D, 1.85, 72, 05-10-87, St Louis, Bolton W
+16, Oliver Norwood, NIR, M, 1.80, 76, 12-04-91, Burnley, Brighton & HA
+19, Sheyi Ojo, ENG, F, 1.77, 64, 19-06-97, Hemel Hempstead, Liverpool
+20, Lucas Piazón, BRA, F, 1.82, 75, 20-01-94, São Paulo, Chelsea
+21, Matt Targett, ENG, D, 1.83, 70, 18-09-95, Eastleigh, Southampton
+22, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Middlesbrough
+23, Marcelo, ESP, D, 1.93, 87, 08-10-93, Barcelona, Lugo
+26, Tomáš Kalas, CZE, D, 1.84, 71, 15-05-93, Olomouc, Chelsea
+27, David Button, ENG, G, 1.91, 83, 27-02-89, Stevenage, Brentford
+32, Aleksandar Mitrović, SRB, F, 1.89, 82, 16-09-94, Belgrade, Newcastle U
+33, Matt O'Riley, ENG, M, 1.87, 77, 21-11-00, Hounslow, None
+35, Rob Atkinson, ENG, D, 1.93, 85, 13-07-98, Chesterfield, Basingstoke T
+36, Luca De La Torre, USA, M, 1.75, 63, 23-05-98, San Diego, None
+37, Tayo Edun, ENG, D, 1.77, 63, 14-05-98, Islington, None
+41, Aron Davies, WAL, D, 1.86, 80, 05-09-97, Cardiff, Bristol C
+43, Steven Sessegnon, ENG, D, 1.73, 66, 18-05-00, Roehampton, None
+44, Ibrahima Cissé, BEL, M, 1.84, 77, 28-02-94, Liège, Standard Liège
+45, Jón Dagur Þorsteinsson, ISL, M, 1.77, 73, 26-11-98, Reyjavík, HK
+46, Magnus Norman, ENG, G, 1.91, 82, 19-01-97, Kingston upon Thames, None
+47, Aboubakar Kamara, FRA, F, 1.78, 80, 07-03-95, Gonesse, Amiens
+49, Foday Nabay, SLE, M, 1.78, 60, 05-08-98, Freetown, Birmingham C
+50, Jayden Harris, ENG, M, 1.88, 79, 04-09-99, Croydon, None
+51, Dan Martin, ENG, M, 1.74, 66, 10-09-99, Maidstone, None
+52, Joe Felix, ENG, D, 1.62, 58, 29-09-99, Chelsea, None
+53, Cameron Thompson, ENG, F, 1.70, 75, 21-02-00, London, None
+55, Atli Andrason, ISL, M, 1.78, 68, 04-01-99, Reyjavík, KR
+56, Taye Ashby-Hammond, ENG, G, 1.90, 87, 21-03-99, Richmond, None
+57, Michael Elstone, ENG, F, 1.80, 80, 04-10-98, Stockport, Bangor C
+58, Moritz Jenz, GER, D, 1.90, 79, 30-04-99, Berlin, None
+59, Jerome Opoku, ENG, D, 1.94, 79, 14-10-98, Lambeth, None
+60, Isaac Pearce, ENG, F, 1.67, 63, 27-10-98, Bristol, Bristol R
+61, José Garrido, ESP, D, 1.92, 88, 08-09-99, Dos Hermanas, Sevilla
+62, Tyrese Francois, AUS, D, 1.67, 56, 16-07-00, Campbell Town, None
+63, Nicolás Santos, ESP, F, 1.84, 78, 07-02-00, Santander, Atlético Perines
+64, Djed Spence, ENG, D, 1.84, 71, 09-08-00, London, None
+65, Jaydn Mundle-Smith, ENG, D, 1.83, 75, 17-12-99, Lambeth, None
+66, Luca Ashby-Hammond, ENG, G, 1.84, 75, 25-03-01, Kingston upon Thames, None
+67, Julian Schwarzer, ENG, G, 1.76, 66, 26-10-99, Harrogate, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Ragnar Sigurðsson, ISL, D, 1.87, 90, 19-06-86, Reykjavík, FC Rostov
+14, Cauley Woodrow, ENG, F, 1.84, 78, 02-12-94, Hemel Hempstead, Bristol C (On Loan)
+24, Sone Aluko, NGA, F, 1.73, 62, 19-02-89, Birmingham, Reading
+42, Marek Rodák, SVK, G, 1.88, 69, 13-12-96, Košice, Rotherham U (On Loan)
+35, Dennis Adeniran, ENG, M, 1.80, 74, 02-01-99, Southwark, Everton
+48, Elijah Adebayo, ENG, F, 1.93, 89, 07-01-98, Brent, Cheltenham T (On Loan)
+15, Michael Madl, AUT, D, 1.82, 77, 21-03-88, Judenburg, Austria Vienna
+17, Jordan Graham, ENG, M, 1.82, 68, 05-03-95, Coventry, Wolverhampton W
+54, Mikołaj Kwietniewski, POL, M, 1.74, 69, 30-04-99, Kielce, Legia Warszawa
+5, Rafa Soares, POR, D, 1.82, 75, 09-05-95, Marco de Canaveses, FC Porto
+22, Yohan Mollo, FRA, F, 1.75, 74, 18-07-89, Martigues, Al-Rayyan
+38, George Williams, WAL, F, 1.72, 73, 07-09-95, Milton Keynes, St Johnstone (On Loan)
+39, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Rochdale (On Loan)
+40, Mattias Kait, EST, M, 1.83, 75, 29-06-98, Tallinn, Ross Co (On Loan)
+34, Sean Kavanagh, IRL, D, 1.74, 62, 24-01-94, Dublin, Shamrock R

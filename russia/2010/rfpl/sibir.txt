@@ -1,0 +1,68 @@
+=  Sibir Novosibirsk - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksey Solosin, RUS, G, 1.80, 69, 11-08-87, Moscow, Tom
+2, Adessoye Oyewole, RUS, D, 1.84, 79, 18-09-82, Moscow, FC Ural
+3, Dmitry Molosh, BLR, D, 1.74, 69, 10-12-81, Minsk, Nosta Novotroitsk
+4, Tomáš Vychodil, CZE, D, 1.84, 73, 07-10-75, Opava, Tom
+5, Mikhail Luchinkin, RUS, D, 1.74, 71, 11-01-91, , Sibir-2
+6, Steeve Joseph-Reinette, FRA, D, 1.80, 77, 02-12-83, Paris, Slavia Sofia
+7, Mantas Savėnas, LTU, M, 1.78, 77, 27-08-82, Panevėžys, Nosta Novotroitsk
+9, Aleksandr Antipenko, RUS, F, 1.94, 88, 27-05-82, Komsomolsk-on-Amur, FC Khimki
+11, Tomáš Čížek, CZE, M, 1.77, 72, 27-11-78, Prague, Jablonec
+12, Bartłomiej Grzelak, POL, F, 1.88, 81, 09-08-81, Płock, Legia Warszawa
+14, Aleksandr Degtyarev, RUS, M, 1.71, 69, 07-09-83, , Alania Vladikavkaz
+15, Ivan Nagibin, RUS, M, 1.76, 68, 21-03-86, Chita, FC Chita
+16, Maksim Eliseev, RUS, G, 1.85, 78, 29-07-91, , Sibir-2
+17, Denis Bukhryakov, RUS, D, 1.87, 80, 28-04-81, , Amur Blagoveshchensk
+18, Dmitriy Melnikov, RUS, M, 1.82, 75, 24-03-92, , Sibir-2
+19, Danil Kochkin, RUS, M, 1.72, 63, 08-04-92, , Sibir-2
+21, Nikola Valentić, SRB, D, 1.85, 81, 06-09-83, , Alania Vladikavkaz
+22, Egor Filipenko, BLR, D, 1.95, 85, 10-04-88, Minsk, Spartak Moscow
+23, Leonid Zuyev, RUS, M, 1.75, 63, 12-01-91, , Sibir-2
+24, Arūnas Klimavičius, LTU, D, 1.87, 80, 05-10-82, Panevėžys, FC Ural
+25, Velice Šumulikoski, MKD, M, 1.82, 77, 24-04-81, Struga, Preston NE
+27, Aleksey Aravin, RUS, M, 1.85, 78, 09-07-86, Moscow, Lokomotiv Moscow
+28, Roger Cañas, COL, M, 1.88, 85, 27-03-90, Medellín, Tranzit
+29, Andrey Shreyner, RUS, M, 1.80, 72, 16-12-90, , FC Krasnodar
+30, Wojciech Kowalewski, POL, G, 1.89, 86, 11-05-77, Białystok, Iraklis
+31, Maksim Gorodtsov, RUS, F, 1.82, 75, 31-01-91, , Torpedo-ZIL
+33, Pavel Logvinov, RUS, M, 1.82, 73, 24-02-90, , Saturn-2
+36, Kirill Komarenko, RUS, G, 1.83, 76, 23-04-92, , Sibir-2
+38, Eduard Krug, RUS, M, 1.82, 73, 21-05-91, , Sibir-2
+40, Petr Vašek, CZE, G, 1.89, 86, 09-04-79, Čeládná, Slovácko
+44, Vyacheslav Shishkin, RUS, D, 1.80, 70, 01-02-93, , Sibir-2
+49, Vagiz Galiulin, UZB, M, 1.74, 67, 10-10-87, Kazan, Rubin Kazan
+52, Evgeniy Zinovyev, RUS, M, 1.83, 74, 15-06-81, Moscow, Lokomotiv Moscow
+54, Aleksey Vasilyev, RUS, M, 1.70, 65, 28-10-87, Moscow, Nosta Novotroitsk
+55, Aleksey Gladishev, RUS, M, 1.80, 71, 08-12-92, , Sibir-2
+62, Gia Kulumbegashvili, RUS, M, 1.74, 65, 09-09-90, , Sibir-2
+64, Vladimir Glukhov, RUS, F, 1.80, 70, 29-05-90, , Sokol-Saratov
+65, Artem Dudolev, RUS, F, 1.58, 54, 30-09-91, , Sibir-2
+68, Vitaliy Zaprudskikh, RUS, D, 1.75, 70, 01-01-91, , Sibir-2
+70, Martin Horák, CZE, D, 1.85, 79, 16-09-80, Prague, FC Rostov
+77, Ilya Trunin, RUS, G, 1.90, 85, 25-05-92, , Sibir-2
+80, Sergey Korotkov, RUS, M, 1.84, 79, 22-08-90, , Sibir-2
+85, Roman Mokin, RUS, M, 1.72, 68, 24-04-92, , Sibir-2
+88, Maksim Astafyev, RUS, M, 1.69, 66, 08-12-82, St. Petersburg, FC Rostov
+90, Maksim Zhitnev, RUS, M, 1.79, 82, 05-05-90, , Sibir-2
+91, Aleksandr Shumov, RUS, M, 1.75, 70, 08-03-91, , Sibir-2
+92, Aleksandr Maslovskiy, RUS, M, 1.80, 71, 03-01-92, , Sibir-2
+93, Sergey Burkovetskiy, RUS, D, 1.87, 77, 13-06-92, , Sibir-2
+94, Kirill Orlov, RUS, D, 1.79, 76, 18-01-83, Moscow, FC Moscow
+95, Roman Belyaev, RUS, F, 1.80, 69, 14-02-88, Novosibirsk, Sibir-2
+96, Ivan Stain, RUS, D, 1.75, 69, 07-02-89, Sverdlosk, Tranzit
+97, Nikolay Lipatkin, RUS, M, 1.86, 77, 23-05-86, , MVD Rossii
+99, Igor Shevchenko, RUS, F, 1.80, 70, 02-02-85, Samara, Terek Grozny
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+98, Denis Gudaev, RUS, D, 1.81, 71, 20-02-91, , Radian-Baikal (On Loan)
+10, Gennadi Blizniuk, BLR, F, 1.75, 71, 30-07-80, Svetlahorsk, 
+79, Vitaliy Sidorov, RUS, F, 1.74, 67, 06-03-90, , 
+61, Roman Amirkhanov, RUS, D, 1.77, 68, 13-05-89, , Spartak Nalchik
+20, Aleksandr Shulenin, RUS, M, 1.78, 75, 31-10-79, Skhodnya, Volga Nizhny Novgorod
+66, Aleksandr Mineev, RUS, M, 1.72, 64, 11-01-88, , SKA-Energia (On Loan)
+13, Aleksey Medvedev, RUS, F, 1.82, 75, 05-01-77, Pavlovsky Posad, Rubin Kazan
+8, Aleksandr Makarenko, RUS, M, 1.83, 73, 04-02-86, Moscow, Zhemchuzhina-Sochi (On Loan)

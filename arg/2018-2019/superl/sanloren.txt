@@ -1,0 +1,57 @@
+=  San Lorenzo - Argentine Superliga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Monetti, ARG, G, 1.83, 78, 21-02-89, La Plata, Atlético Nacional
+2, Gonzalo Rodríguez, ARG, D, 1.78, 76, 10-04-84, Capital Federal, Fiorentina
+3, Damián Pérez, ARG, D, 1.90, 78, 22-12-88, Lanús, Colo-Colo
+4, Gino Peruzzi, ARG, D, 1.78, 74, 09-06-92, Corral de Bustos, Boca Juniors
+5, Ariel Rojas, ARG, M, 1.76, 70, 16-01-86, Garín, River Plate
+6, Marcos Senesi, ARG, D, 1.85, 75, 10-05-97, Concordia, None
+7, Juan Camilo Salazar, COL, M, 1.70, 70, 29-06-97, Zarzal, Millonarios
+8, Gonzalo Castellani, ARG, M, 1.83, 75, 10-08-87, Capital Federal, Atlético Nacional
+9, Nicolás Blandi, ARG, F, 1.81, 79, 13-01-90, Capital Federal, Boca Juniors
+11, Andrés Rentería, COL, F, 1.79, 79, 06-03-93, Medellín, Cruz Azul
+12, Sebastián Torrico, ARG, G, 1.86, 84, 22-02-80, Godoy Cruz, Godoy Cruz (Mendoza)
+13, Lautaro Montoya, ARG, D, 1.71, 73, 07-10-94, Villa Ballester, None
+14, Jonás Acevedo, ARG, M, 1.72, 70, 06-02-97, Concarán, None
+15, Nicolás Reniero, ARG, F, 1.83, 75, 18-03-95, Villa del Rosario, None
+16, Fernando Belluschi, ARG, M, 1.71, 68, 10-09-83, Los Quirquinchos, Cruz Azul
+17, Gerónimo Poblete, ARG, M, 1.73, 65, 04-09-91, Santa Fe, Metz
+18, Román Martínez, ARG, M, 1.84, 79, 27-03-83, Morón, Deportivo Morón
+19, Rubén Botta, ARG, M, 1.76, 66, 31-01-90, San Juan, Pachuca
+20, Gustavo Torres, COL, F, 1.81, 77, 15-06-96, La Cumbre, Atlético Nacional
+21, Elías Pereyra, ARG, D, 1.72, 68, 15-02-99, La Matanza, None
+23, Santiago González, ARG, F, 1.69, 60, 25-07-99, San Martín, Deportivo Maipú
+24, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, None
+25, José Devecchi, ARG, G, 1.87, 83, 09-07-95, Capital Federal, None
+26, Héctor Fértoli, ARG, F, 1.74, 63, 03-12-94, El Trébol, Newell's Old Boys
+27, Gabriel Rojas, ARG, D, 1.78, 68, 22-06-97, Almirante Brown, None
+28, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, None
+29, Victor Salazar, ARG, D, 1.78, 70, 26-05-93, Santa Fe, Rosario Central
+30, Raúl Loaiza, COL, M, 1.80, 70, 08-06-94, Cartagena, Atlético Nacional
+32, Fabricio Coloccini, ARG, D, 1.83, 78, 22-01-82, Córdoba, Newcastle U
+33, Alexander Díaz, ARG, F, 1.72, 69, 22-03-00, 9 de Julio, None
+35, Matías Palacios, ARG, M, 1.68, 70, 10-05-02, General Pico, None
+36, Manuel Insaurralde, ARG, M, 1.76, 76, 31-01-99, Formosa, None
+37, Emanuel Maciel, ARG, M, 1.80, 71, 28-03-97, José C. Paz, None
+38, Adolfo Gaich, ARG, F, 1.90, 82, 26-02-99, Córdoba, None
+39, Gastón Hernández, ARG, D, 1.84, 78, 19-01-98, San Rafael, None
+40, Lorenzo Molina, ARG, D, 1.68, 66, 10-08-97, Tres Isletas, None
+41, Gianluca Ferrari, ARG, D, 1.81, 76, 30-06-97, Rosario, Montecatini
+42, Marcelo Herrera, ARG, D, 1.80, 71, 03-11-98, Corrientes, None
+45, José Vivanco, ARG, D, 1.83, 78, 22-02-98, Viedma, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Franco Mussis, ARG, M, 1.74, 75, 19-04-92, La Plata, Gimnasia y Esgrima (LP)
+14, Alexis Castro, ARG, M, 1.83, 78, 18-10-94, Capital Federal, Defensa y Justicia (On Loan)
+23, Germán Berterame, ARG, F, 1.73, 65, 13-11-98, Villa María, Patronato (Paraná) (On Loan)
+8, Gabriel Gudiño, ARG, M, 1.72, 67, 16-03-92, Porteña, Belgrano (Córdoba) (On Loan)
+30, Santiago González, ARG, F, 1.69, 60, 25-07-99, San Martín, Re-Registered (23)
+22, Nicolás Navarro, ARG, G, 1.90, 87, 25-03-85, Capital Federal, Querétaro (On Loan)
+11, Bautista Merlini, ARG, M, 1.78, 76, 04-07-95, Vicente López, Defensa y Justicia
+34, Franco Moyano, ARG, M, 1.71, 68, 13-09-97, Lobos, Argentinos Juniors (On Loan)
+43, Rodrigo Tapia, ARG, D, 1.84, 78, 28-09-94, Hipólito Yrigoyen, Banfield (On Loan)
+20, Daniel Hernández, COL, M, 1.76, 65, 10-12-90, Medellín, Huracán (On Loan)
+37, Pablo Mouche, ARG, F, 1.75, 74, 11-10-87, San Martín, Palmeiras

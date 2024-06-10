@@ -1,0 +1,55 @@
+=  Ascoli - Italian Serie A 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gianluca Pagliuca, G, 6'02", 13 10, 18-12-66, Bologna, Bologna
+3, Stefano Lombardi, D, 5'11", 11 11, 28-07-76, Pordenone, Arezzo
+5, Michelangelo Minieri, D, 6'00", 11 09, 29-05-81, Rome, Avellino
+6, Luis Fernando Centi, M, 5'09", 11 05, 16-09-76, Savona, Atalanta
+7, Gaetano Fontana, M, 5'10", 11 09, 21-02-70, Catanzaro, Napoli
+8, Michele Fini, M, 6'01", 10 10, 14-06-74, Sorso, Catania
+9, Michele Paolucci, F, 6'00", 12 08, 06-02-86, Recanati, Juventus
+11, Saša Bjelanović, F, 6'02", 12 08, 11-06-79, Zadar, Genoa
+12, Daniele Capriotti, G, 5'10", 11 07, 15-02-88, , None
+13, Lorenzo Pasqualini, D, 5'08", 09 08, 19-08-89, Ascoli Piceno, None
+14, Luigi Di Biagio, M, 5'09", 11 09, 03-06-71, Rome, Brescia
+15, Edgars Gauračs, F, 6'01", 11 11, 10-03-88, Rezekne, RSK Dižvanagi
+16, Domenico Giampa', M, 5'06", 09 06, 15-02-77, Girifalco, Messina
+17, Stefano Guberti, M, 5'11", 10 10, 06-11-84, Cagliari, Sassari Torres
+18, Simone Pesce, M, 5'08", 10 12, 10-07-82, Latina, Sassari Torres
+19, Alessandro Boccolini, G, 6'01", 11 03, 14-07-84, , Alessandria
+20, Giampietro Perrulli, M, , , 08-06-85, Rome, Viterbo
+21, Viktor Budianskyi, M, 5'08", 10 10, 21-01-84, Volciansk, Avellino
+22, Gaetano Vastola, D, 6'00", 11 07, 10-05-78, Pompei, Salernitana
+23, Riccardo Corallo, D, 6'02", 12 08, 31-03-80, Rivoli, Messina
+24, Marco Delvecchio, F, 6'01", 13 01, 07-04-73, Milan, Parma
+25, Massimo Bonanni, M, 6'03", 12 11, 10-06-82, Rome, Sampdoria
+27, Paolo Zanetti, M, 6'01", 12 01, 16-12-82, Valdagno, Empoli
+31, Paolo Foglio, D, 5'10", 11 11, 08-09-75, Gazzaniga, Siena
+32, Valentin Vasile Nastase, D, 6'00", 12 08, 04-10-74, Calinesti, Bologna
+33, Dimitrios Eleftheropoulos, G, 6'03", 13 01, 07-08-76, Athens, Roma
+77, Oliver N'Siabamfumu, D, 6'00", 12 02, 17-03-86, Meaux, Rennes
+79, Matteo Melara, D, 6'02", 12 01, 08-07-79, Mirandola, Torino
+81, Giuseppe Bellusci, D, 6'01", 11 11, 21-08-89, , None
+84, Thomas Hervé Job Iyock, F, 5'09", 11 00, 20-08-84, Douala, Sampdoria
+85, Manuel Biondi, D, 6'01", 11 11, 03-10-88, , None
+86, Mauro Pucello, M, 5'09", 10 10, 12-03-87, , None
+87, Mauro Sosi, D, 5'10", 10 12, 08-06-87, , None
+88, Francesco Marigliano, F, 5'10", 10 12, 04-01-88, , None
+89, Davide Raffaello, M, 6'00", 11 07, 24-04-88, Latina, None
+90, Francesco Uliano, M, 5'11", 11 07, 19-09-89, , None
+99, Andrea Soncin, F, 5'09", 11 05, 05-09-78, Vigevano, Atalanta
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Daniele Adani, D, 6'00", 11 07, 10-07-74, Correggio, Empoli
+26, Ivano Della Morte, M, 5'11", 12 00, 13-10-74, Ciriè, Alessandria
+14, Ervin Skela, M, 5'08'', 10 10, 17-11-76, Vlora, Energie Cottbus
+3, Aleksandar Luković, D, 6'01", 12 06, 23-10-82, Kraljevo, Crvena Zvezda
+6, Mirko Cudini, M, 5'11", 12 01, 01-09-73, Sant'Elpidio a Mare, Vicenza
+2, Massimo Gotti, D, 6'00", 11 11, 27-05-86, Bergamo, Udinese
+, Leandro Vitiello, M, 5'11", 11 07, 16-10-85, Scafati, Cremonese (On Loan)
+28, Salvatore Bocchetti, D, 5'10", 11 00, 30-11-86, Ascoli, Frosinone (On Loan)
+10, Daniele Galloppa, M, 5'11", 11 03, 15-05-85, Rome, Roma
+4, Marco Pecorari, D, 6'00", 12 00, 21-09-77, Palmanova, Lecce
+41, Fabio Pecchia, M, 5'08", 11 00, 24-08-73, Formia, Foggia

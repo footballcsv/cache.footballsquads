@@ -1,0 +1,45 @@
+=  Numancia - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Carlos, ESP, G, 1.80, 78, 27-07-87, Calvià, Oviedo
+2, Álex Sola, ESP, D, 1.78, 75, 09-06-99, San Sebastián, Real Sociedad B
+3, Adri Castellano, ESP, D, 1.80, 73, 26-06-94, Córdoba, Granada
+4, Derik Osede, ESP, D, 1.81, 74, 21-02-93, Madrid, Bolton W
+5, Admonio Vicente, GNB, D, 1.78, 77, 10-11-93, Bissau, Unionistas de Salamanca
+6, Alberto Escassi, ESP, M, 1.83, 70, 28-02-89, Málaga, Llagostera
+7, Erik Morán, ESP, M, 1.87, 74, 25-05-91, Portugalete, AEK
+9, Higinio, ESP, F, 1.84, 74, 19-10-93, Calasparra, Valladolid B
+10, Alain Oyarzun, ESP, M, 1.82, 73, 27-09-93, San Sebastián, Zaragoza
+11, Nacho, ESP, M, 1.77, 67, 11-02-93, Logroño, Numancia B
+12, Antonio Otegui, ESP, M, 1.75, 70, 07-03-98, Pamplona, Osasuna B
+13, Dani Barrio, ESP, G, 1.90, 78, 10-02-87, Gijón, Melilla
+14, Alberto Noguera, ESP, M, 1.77, 72, 24-09-89, Madrid, Lorca FC
+15, Néstor Albiach, ESP, M, 1.84, 75, 18-08-92, Xirivella, Badalona
+16, Bernardo, ESP, D, 1.90, 85, 17-07-93, Córdoba, Granada
+17, Iván Calero, ESP, M, 1.74, 64, 21-04-95, Parla, Elche
+18, Igor Zlatanović, SRB, F, 1.80, 68, 10-02-98, Užice, Mallorca
+20, Luís Gustavo, POR, M, 1.73, 70, 28-09-92, Braga, Reus
+21, Marc Mateu, ESP, M, 1.80, 71, 16-06-90, Valencia, Villarreal B
+22, Curro Sánchez, ESP, M, 1.78, 68, 03-01-96, La Palma del Condado, Sevilla B
+23, Héctor Hernández, ESP, D, 1.71, 65, 23-05-91, Valladolid, Tenerife
+24, Álvaro Aguado, ESP, M, 1.74, 66, 01-05-96, Jaén, Valladolid
+26, Moha Sanhaji, MAR, F, , , 15-04-99, Soria, Numancia B
+27, Ander Vidorreta, ESP, M, , , 22-04-96, Soria, Numancia B
+28, Daniel Ceinos, ESP, D, , , 29-03-00, León, Numancia B
+29, Marcos Gil, ESP, M, , , 05-01-01, Soria, Numancia B
+30, Roberto Jara, ESP, G, 1.93, 80, 10-09-98, Camargo, Numancia B
+32, Diego Cámara, ESP, D, , , 01-07-98, Guadalajara, Guadalajara [ESP]
+33, Adri Herrera, ESP, F, , , 03-01-99, Coria, Numancia B
+34, Óscar De Frutos, ESP, D, 1.80, 73, 15-04-99, Aranda de Duero, Arandina
+35, Ali Radjel, ALG, F, 1.79, 69, 18-01-98, , Logroñés
+37, Fredi Sualdea, ESP, M, , , 30-11-98, Aranda de Duero, Numancia B
+38, Abel Conejo, ESP, M, , , 21-03-98, Valladolid, Atlético Tordesillas
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Borja Viguera, ESP, F, 1.84, 80, 26-03-87, Logroño, 
+16, Carlos Gutiérrez, ESP, D, 1.92, 83, 04-11-91, Las Palmas, Avispa Fukuoka
+24, Marcos Isla, ESP, D, 1.92, 78, 24-07-96, Valladolid, Tudelano (On Loan)
+8, Alejandro Sanz, ESP, M, 1.76, 68, 05-06-93, Tudela, Castellón (On Loan)
+19, Guillermo, ESP, F, 1.78, 71, 23-05-93, Bilbao, Racing Santander

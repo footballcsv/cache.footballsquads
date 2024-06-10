@@ -1,0 +1,60 @@
+=  Genoa - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mattia Perin, ITA, G, 1.88, 74, 10-11-92, Latina, None
+3, Luca Antonini, ITA, D, 1.82, 70, 04-02-82, Milan, Milan
+4, Sébastian De Maio, FRA, D, 1.90, 81, 05-03-87, Saint-Denis, Brescia
+5, Alessandro Gamberini, ITA, D, 1.85, 78, 27-08-81, Bologna, Napoli
+8, Nicolás Burdisso, ARG, D, 1.82, 81, 12-04-81, Altos de Chipión, Roma
+10, Giuseppe Sculli, ITA, F, 1.77, 71, 23-03-81, Locri, Lazio
+11, Alberto Gilardino, ITA, F, 1.84, 79, 05-07-82, Biella, Fiorentina
+13, Luca Antonelli, ITA, D, 1.84, 79, 11-02-87, Monza, Parma
+14, Isaac Cofie, GHA, M, 1.78, 73, 20-09-91, Accra, Chievo Verona
+15, Giovanni Marchese, ITA, D, 1.82, 75, 17-10-84, Caltanisetta, Catania
+16, Emanuele Calaiò, ITA, F, 1.72, 68, 08-01-82, Palermo, Napoli
+17, Orlando Held, ITA, F, , , 03-03-94, Genoa, None
+18, Giannis Fetfatzidis, GRE, M, 1.68, 64, 21-12-90, Drama, Olympiakos
+19, Jami Rafati, ITA, M, 1.87, 77, 26-04-94, Florence, West Ham U
+20, Šime Vrsaljko, CRO, D, 1.83, 73, 10-01-92, Zadar, Dinamo Zagreb
+21, Marco Motta, ITA, D, 1.86, 75, 14-05-86, Merate, Juventus
+23, Tiberio Velocci, ITA, F, 1.78, 75, 23-07-95, Rome, None
+25, Jakub Hromada, SVK, M, 1.83, 72, 25-05-96, Košice, Juventus
+26, Ricardo Centurión, ARG, M, 1.74, 65, 19-01-93, Avellaneda, Racing Club
+27, Matuzalem, BRA, M, 1.78, 74, 10-06-80, Natal, Lazio
+29, Paolo De Ceglie, ITA, D, 1.84, 75, 17-09-86, Aosta, Juventus
+32, Antonio Donnarumma, ITA, G, 1.95, 92, 07-07-90, Castellammare di Stabia, Milan
+33, Juraj Kucka, SVK, M, 1.86, 84, 26-02-87, Bojnice, Sparta Prague
+36, Giacomo Lucarini, ITA, D, , , 02-05-95, Monza, Milan
+44, Paolo Sokoli, ALB, D, 1.87, 79, 29-03-95, Velipojë, None
+45, Lorenzo Gallotti, ITA, D, , , 03-07-95, Genoa, None
+46, Francesco Todisco, ITA, M, , , 28-12-95, San Pietro Vernotico, Lecce
+53, Albano Bizzarri, ARG, G, 1.88, 75, 09-11-77, Etruria, Lazio
+67, Luca Tagliavacche, ITA, M, 1.83, 70, 05-01-95, Genoa, None
+69, Stefano Sturaro, ITA, M, 1.80, 75, 09-03-93, Sanremo, None
+71, Enzo Di Santantonio, FRA, M, 1.78, 69, 11-07-95, Tolone, Sedan
+77, Moussa Konaté, SEN, F, 1.83, 78, 03-04-93, M'Bour, FC Krasnodar
+79, Cabral, CPV, M, 1.78, 75, 22-10-88, Praia, Sunderland
+90, Daniele Portanova, ITA, D, 1.85, 75, 17-12-78, Rome, Bologna
+91, Andrea Bertolacci, ITA, M, 1.79, 75, 11-01-91, Rome, Roma
+94, Allan Blaze, FRA, D, 1.80, 74, 24-06-94, Petit-Bourg, Nancy
+95, Marco Albertoni, ITA, G, 1.84, 78, 05-08-95, Genoa, None
+96, Francesco Di Marco, ITA, M, , , 28-07-95, Genoa, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Stefan Šimić, CZE, D, 1.87, 79, 20-01-95, Prague, Milan
+18, Michael Ventre, ITA, F, 1.74, 68, 05-01-96, San Remo, Internazionale
+37, Diego Polenta, URU, D, 1.85, 87, 06-02-92, Montevideo, Bari (On Loan)
+83, Antonio Floro Flores, ITA, F, 1.83, 78, 18-06-83, Naples, Sassuolo (On Loan)
+93, Daniel Jara, PAR, F, 1.84, 77, 22-12-93, Capiatá, Nocerina (On Loan)
+10, Francesco Lodi, ITA, M, 1.82, 70, 23-03-84, Naples, Catania
+21, Thomas Manfredini, ITA, D, 1.80, 72, 27-05-80, Ferrara, Sassuolo
+38, Lukáš Zima, CZE, G, 1.96, 86, 09-01-94, Hradec Králové, Reggiana (On Loan)
+8, Davide Biondini, ITA, M, 1.78, 67, 24-01-83, Longiano, Sassuolo (On Loan)
+2, Mario Sampirisi, ITA, D, 1.88, 83, 31-10-92, Caltagirone, Olhanense (On Loan)
+78, Dániel Tőzsér, HUN, M, 1.88, 81, 12-05-85, Szolnok, Watford (On Loan)
+17, Mario Alberto Santana, ARG, M, 1.80, 72, 23-12-81, Comodoro Rivadavia, Olhanense (On Loan)
+9, Adrian Stoian, ROU, M, 1.78, 66, 11-02-91, Craiova, Chievo Verona
+99, Zaine Pierre, LCA, M, 1.79, 70, 21-09-93, Dennery, Messina (On Loan)
+58, Guido Bennati, ITA, M, 1.85, 78, 23-03-94, Genoa, Poggibonsi (On Loan)

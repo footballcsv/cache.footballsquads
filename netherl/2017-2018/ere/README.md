@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2017/2018
+
+18 teams
+- [ADO Den Haag](denhaag.txt)
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NAC Breda](nacbreda.txt)
+- [PEC Zwolle](zwolle.txt)
+- [PSV Eindhoven](psv.txt)
+- [Roda JC Kerkrade](rodajc.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse](vitesse.txt)
+- [VVV Venlo](vvv.txt)
+- [Willem II](willem.txt)

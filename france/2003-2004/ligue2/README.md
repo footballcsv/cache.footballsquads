@@ -1,0 +1,23 @@
+# French Ligue 2 2003/04
+
+20 teams
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Besançon](besanc.txt)
+- [Caen](caen.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Créteil](creteil.txt)
+- [Grenoble](grenob.txt)
+- [Gueugnon](gueugnon.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Lorient](lorient.txt)
+- [Nancy](nancy.txt)
+- [Niort](niort.txt)
+- [Rouen](rouen.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sedan](sedan.txt)
+- [Troyes](troyes.txt)
+- [Valence](valence.txt)

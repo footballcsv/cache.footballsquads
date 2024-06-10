@@ -1,0 +1,38 @@
+=  KVC Westerlo - Belgian Pro League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yves De Winter, BEL, G, 1.88, 75, 25-05-87, Lier, None
+2, Nelinho Quina, PER, D, 1.80, 74, 11-05-87, Lima, Universitario de Deportes
+3, Steven De Petter, BEL, D, 1.79, 77, 22-11-85, Brugge, FCV Dender EH
+4, Wouter Corstjens, BEL, D, 1.85, 75, 13-02-87, Maastricht, KRC Genk
+6, Odita Obiora, NGA, F, 1.79, 80, 14-05-83, Enugu, Al-Ain
+7, Dieter De Kelver, BEL, F, 1.81, 74, 17-08-79, Beringen, Cercle Brugge
+8, Dragan Ćeran, SRB, F, 1.90, 75, 06-10-87, Kikinda, Smederevo
+10, Emmanuel Sarki, NGA, M, 1.78, 70, 26-12-87, Kaduna, Chelsea
+11, Nico van Kerckhoven, BEL, D, 1.90, 83, 14-12-70, Lier, B Mönchengladbach
+12, Glenn Van Asten, BEL, F, 1.81, 78, 16-06-87, Herentals, KSK Heist
+14, Michaël Modubi, RSA, M, 1.79, 73, 22-04-85, Pretoria, Chelsea
+15, Emre Sahin, BEL, F, 1.77, 65, 05-01-92, Heusden-Zolder, None
+16, Joris van Hout, BEL, M, 1.86, 79, 10-01-77, Mol, Bochum
+17, Oleksandr Iakovenko, UKR, F, 1.83, 74, 23-07-87, Kiev, Anderlecht
+18, Jef Delen, BEL, M, 1.76, 63, 29-06-76, Bonheiden, Verbroedering Geel
+19, Jaime Alfonso Ruiz, COL, F, 1.95, 92, 03-01-84, Cali, Alianza Atlético
+20, Mozes Adams, NGA, M, 1.83, 70, 21-07-88, Saminaka, Ranchers Bees
+21, Rachid Farssi, BEL, D, 1.77, 61, 15-01-85, Chênée, Eupen
+22, Jo Christiaens, BEL, D, 1.88, 74, 17-04-88, Turnhout, Turnhout
+23, Jarno Molenberghs, BEL, M, 1.76, 74, 11-12-89, Geel, PSV Eindhoven
+24, Lens Annab, BEL, M, 1.83, 77, 20-07-88, Maaseik, None
+25, Momodou Ceesay, GAM, F, 1.95, 89, 24-12-88, Banjul, Wallidan
+26, Soufiane Bidaoui, MAR, M, 1.80, 77, 20-04-90, Etterbeek, Diegem Sport
+27, Adnan Mravac, AUT, D, 1.91, 84, 10-04-82, Banja Luka, Mattersburg
+28, Yannick De Winter, BEL, G, 1.88, 82, 03-06-89, Lier, None
+30, Bart Deelkens, BEL, G, 1.89, 89, 25-04-78, Hasselt, Beveren
+32, Günther Vanaudenaerde, BEL, D, 1.79, 78, 23-01-84, Knokke-Heijst, NEC Nijmegen
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Johan Sotil, PER, M, 1.70, 64, 29-08-82, Lima, José Gálvez
+8, Lukáš Zelenka, CZE, M, 1.75, 72, 05-10-79, Prague, Slovácko
+9, Bertin Tomou, CMR, F, 1.89, 84, 08-08-78, Bafoussam, KSV Roeselare (On Loan)
+5, Wouter Scheelen, BEL, M, 1.71, 67, 16-10-85, Hasselt, KVSK United (On Loan)

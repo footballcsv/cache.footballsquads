@@ -1,0 +1,47 @@
+=  SKA-Khabarovsk - Russian Football Premier League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksandr Dovbnya, RUS, G, 1.93, 86, 10-04-87, Moscow, CRFSO Smolensk
+2, Sergey Makarov, RUS, M, 1.73, 69, 03-10-96, Khabarovsk, Anorthosis Famagusta
+3, Ismail Ediev, RUS, D, 1.85, 76, 16-02-88, Grozny, Mordovia Saransk
+4, Nemanja Tubić, SRB, D, 1.89, 82, 08-04-84, Belgrade, Napredak Kruševac
+5, Aleksandr Putsko, RUS, D, 1.85, 82, 24-02-93, Unecha, FC Ufa
+6, Pavel Karasev, RUS, M, 1.75, 70, 10-07-92, Drezna, Anzhi Makhachkala
+7, Alejandro Barbaro, ARG, M, 1.80, 75, 20-01-92, Lomas de Zamora, Apollon Limassol
+8, Dele Adeleye, NGA, D, 1.89, 76, 25-12-88, Lagos, Aktobe
+9, Ruslan Koryan, RUS, F, 1.82, 76, 15-06-88, Sochi, Luch-Energia
+10, Vladislav Nikiforov, RUS, M, 1.66, 60, 21-03-89, Khabarovsk, FC Khimki
+11, Miroslav Marković, SRB, F, 1.84, 79, 04-11-89, Arandjelovac, Bohemians 1905
+13, Aleksandr Dimidko, RUS, D, 1.91, 80, 20-01-86, Khabarovsk, Arsenal Tula
+14, Dmitriy Bogayev, RUS, D, 1.74, 68, 24-01-94, Akhtubinsk, Zenit St Petersburg
+15, Evgeniy Balyaikin, RUS, M, 1.83, 74, 19-05-88, Bratsk, Tom Tomsk
+17, Dmitriy Kabutov, RUS, M, 1.73, 72, 26-03-92, Sokur, Volgar Astrakhan
+19, Vitaliy Fedotov, UKR, M, 1.68, 57, 16-07-91, Donetsk, Riga
+20, Maksim Kanunnikov, RUS, F, 1.83, 74, 14-07-91, St. Petersburg, Rubin Kazan
+21, Artem Samsonov, RUS, M, 1.81, 74, 05-01-94, Kaluga, Spartak Moscow-2
+22, Kirill Kolesnichenko, RUS, F, 1.78, 73, 31-01-00, Kamyshin, Chertanovo Moscow
+26, Aleksandr Cherevko, RUS, M, 1.70, 65, 28-11-87, Kherson, Tom Tomsk
+29, Vladislav Soromytko, RUS, G, 1.90, 80, 29-09-94, Khabarovsk, Smena Komsomolsk-na-Amure
+37, Dmytro Hryshko, UKR, D, 1.82, 72, 02-12-85, Horlivka, Olimpik Donetsk
+44, Łukasz Sekulski, POL, F, 1.87, 78, 03-11-90, Płock, Jagiellonia Białystok
+50, Maksim Karpov, RUS, D, 1.93, 90, 17-03-95, St. Petersburg, Zenit-2
+55, Aleksandr Krivoruchko, RUS, G, 1.90, 78, 23-09-84, Moscow, Anzhi Makhachkala
+70, Georgi Makhatadze, RUS, M, 1.80, 72, 26-03-98, Rostov-on-Don, Rubin Kazan
+74, Aleksandr Akishin, RUS, G, 1.88, 83, 15-12-97, Moscow, Atom Novovoronezh
+77, Konstantin Savichev, RUS, M, 1.73, 64, 06-03-94, Bryansk, Spartak Moscow-2
+78, Nikolay Kalinskiy, RUS, M, 1.80, 75, 22-09-93, Moscow, FC Kaluga
+87, Maksim Kazankov, RUS, M, 1.75, 66, 20-03-87, Ashgabat, Luch-Energia
+88, Giorgi Navalovski, GEO, D, 1.72, 70, 28-06-86, Tbilisi, Neftchi Baku
+96, Aleksandr Maksimenko, RUS, M, 1.69, 70, 22-03-96, Khabarovsk, Dynamo Moscow-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Juan Lescano, ARG, F, 1.88, 78, 29-10-92, Rauch, Anzhi Makhachkala
+22, Anton Kobyalko, RUS, F, 1.84, 80, 14-05-86, Barnaul, Baltika Kaliningrad
+8, Georgiy Gabulov, RUS, M, 1.90, 74, 04-09-88, Mozdok, 
+69, Denys Dedechko, UKR, M, 1.88, 83, 02-07-87, Kyiv, FC Mariupol
+4, Maksim Tishkin, RUS, D, 1.81, 70, 11-11-89, Saransk, Baltika Kaliningrad
+30, Aleksey Druzin, RUS, M, 1.76, 73, 03-01-87, Volgograd, Rotor Volgograd
+91, Ventsislav Hristov, BUL, F, 1.85, 77, 09-11-88, Sofia, 
+20, Nikita Dyachenko, RUS, F, 1.87, 73, 02-05-96, Khabarovsk, Smena Komsomolsk-na-Amure (On Loan)

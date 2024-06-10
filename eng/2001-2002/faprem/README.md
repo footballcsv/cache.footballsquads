@@ -1,0 +1,23 @@
+# English Premiership 2001/02
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Charlton Athletic](charlton.txt)
+- [Chelsea](chelsea.txt)
+- [Derby County](derby.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Ipswich Town](ipswich.txt)
+- [Leeds United](leeds.txt)
+- [Leicester City](leicester.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester United](manutd.txt)
+- [Middlesbrough](middles.txt)
+- [Newcastle United](newcas.txt)
+- [Southampton](southam.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Ham United](westham.txt)

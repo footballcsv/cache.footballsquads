@@ -1,0 +1,62 @@
+=  Derby County - English Football League Championship 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Carson, ENG, G, 1.83, 86, 03-09-85, Whitehaven, Wigan Ath
+2, Cyrus Christie, IRL, D, 1.88, 78, 30-09-92, Coventry, Coventry C
+3, Craig Forsyth, SCO, D, 1.91, 81, 24-02-89, Carnoustie, Watford
+4, Craig Bryson, SCO, M, 1.70, 60, 06-11-86, Rutherglen, Kilmarnock
+5, Jason Shackell, ENG, D, 1.93, 83, 27-09-83, Stevenage, Burnley
+6, Richard Keogh, IRL, D, 1.83, 71, 11-08-86, Harlow, Coventry C
+7, Johnny Russell, SCO, F, 1.78, 67, 08-04-90, Glasgow, Dundee U
+8, Ikechi Anya, SCO, M, 1.68, 71, 03-01-88, Glasgow, Watford
+10, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, Hull C
+11, Darren Bent, ENG, F, 1.80, 73, 06-02-84, Tooting, Aston Villa
+12, Chris Baird, NIR, D, 1.79, 71, 25-02-82, Ballymena, WBA
+15, Bradley Johnson, ENG, M, 1.78, 68, 28-04-87, Hackney, Norwich C
+16, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, Reading
+17, Julien de Sart, BEL, M, 1.86, 69, 23-12-94, Waremme, Middlesbrough
+18, Jacob Butterfield, ENG, M, 1.80, 78, 10-06-90, Bradford, Huddersfield T
+19, Will Hughes, ENG, M, 1.85, 74, 17-04-95, Weybridge, None
+20, Abdoul Razzagui Camara, GUI, M, 1.77, 70, 20-02-90, Mamar, Angers
+21, Kelle Roos, NED, G, 1.93, 90, 31-05-92, Rijkevoort, Nuneaton T
+22, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Reading
+23, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Watford
+25, Max Lowe, ENG, M, 1.75, 74, 11-05-97, Birmingham, None
+28, David Nugent, ENG, F, 1.80, 76, 02-05-85, Liverpool, Middlesbrough
+29, Marcus Olsson, SWE, D, 1.80, 68, 17-05-88, Gävle, Blackburn R
+30, Timi Elšnik, SVN, M, 1.78, 65, 29-04-98, Kidričevo, Aluminij
+34, George Thorne, ENG, M, 1.88, 84, 04-01-93, Chatham, WBA
+35, Jonathan Mitchell, ENG, G, 1.80, 86, 24-11-94, Hartlepool, Newcastle U
+36, Alex Babos, WAL, M, 1.74, 75, 22-08-98, Stoke-on-Trent, None
+37, Josh Barnes, ENG, G, 1.81, 78, 01-12-97, Birmingham, None
+38, Mason Bennett, ENG, F, 1.78, 65, 15-07-96, Shirebrook, None
+39, Alex Cover, ENG, D, , , 22-07-97, , None
+40, Kellan Gordon, ENG, M, 1.83, 67, 25-12-97, Burton upon Trent, None
+42, Emil Riis Jakobsen, DEN, F, 1.90, 83, 24-06-98, Hobro, Randers
+43, Calum MacDonald, SCO, D, 1.80, 60, 18-12-97, Nottingham, None
+44, Tom Mellors, ENG, F, , , 10-01-98, , None
+45, Henrich Ravas, SVK, G, 1.92, 87, 16-08-97, Senica, Boston U
+46, Alefe Santos, BRA, M, 1.78, 66, 28-01-95, São Paulo, Bristol R
+47, Kyron Stabana, ENG, D, 1.85, 80, 27-08-98, Leicester, None
+49, Lewis Walker, ENG, F, 1.83, 76, 10-05-98, Nottingham, Ilkeston
+50, Ethan Wassall, ENG, D, , , 27-01-98, , None
+51, Joe Bateman, ENG, D, 1.83, 79, 06-12-98, Burton upon Trent, None
+52, Jayden Bogle, ENG, D, 1.78, 69, 27-07-00, Reading, Swindon T
+53, Cameron Cresswell, ENG, F, 1.78, 73, 12-09-99, Stockport, None
+54, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Cheltenham T
+56, Jayden Mitchell-Lawson, ENG, M, 1.68, 60, 17-09-99, Basingstoke, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Jeff Hendrick, IRL, M, 1.85, 79, 31-01-92, Dublin, Burnley
+9, Chris Martin, SCO, F, 1.78, 73, 04-11-88, Beccles, Fulham (On Loan)
+17, Lee Grant, ENG, G, 1.93, 83, 27-01-83, Hemel Hempstead, Stoke C
+41, Callum Guy, ENG, M, 1.78, 64, 25-11-96, Nottingham, Port Vale (On Loan)
+31, Farrend Rawson, ENG, D, 1.85, 73, 11-07-96, Nottingham, Coventry C (On Loan)
+24, Andreas Weimann, AUT, F, 1.88, 76, 05-08-91, Vienna, Wolverhampton W (On Loan)
+48, Charles Vernam, ENG, F, 1.70, 74, 08-10-96, Lincoln, Coventry C (On Loan)
+32, Chris Weale, ENG, G, 1.88, 84, 09-02-82, Yeovil, 
+26, Jamie Hanson, ENG, D, 1.90, 79, 10-11-95, Burton-upon-Trent, Wigan Ath (On Loan)
+55, Josh Lelan, KEN, D, 1.85, 70, 21-12-94, Derby, Crawley T
+14, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, Manchester U

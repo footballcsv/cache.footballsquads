@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2008
+
+20 teams
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Botafogo](botafogo.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Figueirense](figueir.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Ipatinga](ipatinga.txt)
+- [Náutico](nautico.txt)
+- [Palmeiras](palmeir.txt)
+- [Portuguesa](portugue.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vasco da Gama](vasco.txt)
+- [Vitória](vitoriaba.txt)

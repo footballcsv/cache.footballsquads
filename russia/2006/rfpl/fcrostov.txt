@@ -1,0 +1,49 @@
+=  FC Rostov - Russian Football Premier League 2006
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Andrey Chichkin, G, 6'05", 12 11, 12-10-77, Krasnodar, Rotor
+2, Carlos Gutierrez, D, 6'00", 12 11, 25-12-76, Montevideo, River Plate
+3, Miloš Kruščič, D, 5'10", 11 05, 03-10-76, Subotica, Zemun
+4, Anton Rogochiy, D, 6'02", 12 01, 23-01-82, Rostov, FC Rostov B
+5, Nikolay Olenikov, D, 6'02", 12 13, 24-05-75, Astrahan, Rotor
+6, Aleksandr Dantsev, M, 5'10", 10 12, 14-10-84, Rostov, FC Rostov B
+7, Ilja Kalashnikov, M, 5'09", 11 00, 10-07-82, Rostov, FC Rostov B
+8, Andrey Bochkov, M, 5'09", 11 03, 13-01-82, Volgograd, Uralan
+10, Maxim Buznikin, F, 5'06", 10 08, 01-03-77, Krasnodar, Lokomotiv Moscow
+12, Milan Vještica, D, 6'02", 13 01, 15-11-79, Novi Sad, Zenit
+13, Maksym Biletskyy, M, 5'09", 11 00, 07-01-80, Kiev, FC Moscow
+14, Essau Boxer Kanyenda, F, 6'00", 12 04, 27-09-82, Lilongwe, Lokomotiv Moscow
+15, Timofey Kalachev, M, 5'11", 11 00, 01-05-81, Minsk, Khimki
+16, Abdelilah Bagui, G, 6'03", 12 13, 17-02-78, Rabat, Raja Casablanca
+17, Maxim Burchenko, M, 5'09", 10 12, 21-03-83, Lipetck, Uralan
+18, Kirill Orlov, D, 5'10", 11 09, 18-01-83, Moscow, FC Moscow
+19, Konstantin Garbuz, F, 5'10", 11 09, 19-02-88, Rostov, FC Rostov B
+20, Juris Laizāns, M, 6'01", 12 00, 06-01-79, Riga, Torpedo Moscow
+21, Omar Pérez, M, 5'09", 11 05, 20-09-76, Montevideo, River Plate [URU]
+22, Dmitriy Burmistrov, F, 6'05", 13 05, 14-10-83, Tula, Arsenal Tula
+23, Sergey Bendz, D, 6'05", 12 11, 03-04-83, Rostov, FC Rostov B
+24, Gia Grigalava, D, 6'02", 12 06, 05-08-89, Rostov, FC Rostov B
+25, Aleksandr Stavpetch, F, 5'09", 10 10, 04-07-89, Rostov, FC Rostov B
+26, Maxim Chistyakov, M, 5'10", 11 05, 25-09-86, Volgograd, Rotor
+28, Jovan Tanasijević, D, 6'01", 12 04, 20-01-78, Belgrade, Dynamo Moscow
+29, Sergey Shudrov, M, 5'09", 10 10, 11-08-89, Rostov, FC Rostov B
+30, Mikhail Osinov, M, 5'11", 11 11, 08-10-75, Kachkanar, Rotor
+31, Pavel Stasenko, M, 5'11", 11 05, 03-04-86, Rostov, FC Rostov B
+33, Dmitriy Tkachev, F, 5'10", 11 00, 07-07-89, Rostov, FC Rostov B
+35, Ivan Drannikov, D, 6'01", 12 04, 22-07-86, Rostov, FC Rostov B
+37, Vladimir Khozin, M, 6'00", 11 09, 03-07-89, Rostov, FC Rostov B
+38, Oleg Aleynik, M, 6'00", 11 00, 08-02-89, Rostov, FC Rostov B
+40, Valeriy Polyakov, G, 6'02", 12 04, 13-07-89, Rostov, FC Rostov B
+44, Vladimir Ponomarev, D, 6'03", 13 01, 22-04-87, Rostov, FC Rostov B
+52, Aleksandr Marenich, F, 5'09", 10 01, 29-04-89, Rostov, FC Rostov B
+57, Konstantin Mikhailov, M, 5'10", 11 00, 05-12-89, Rostov, FC Rostov B
+63, Vitaliy Burmakov, F, 6'00", 11 11, 30-06-87, Naberezhnye Chelny, KamAZ
+64, Valeriy Pavlov, M, 5'09", 10 10, 07-02-86, Saratov, Sokol
+77, Spartak Gogniev, F, 6'01", 11 11, 19-01-81, Vladikavkaz, Saturn
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Aleksandr Shorin, G, 6'04", 13 12, 04-09-86, Rostov, FC Taganrog
+39, Dmitriy Kosenko, M, 5'11", 11 03, 21-10-86, Rostov, 
+54, Maxim Obozniy, F, 5'11", 11 03, 07-07-86, Rostov, SKA Rostov-On-Don

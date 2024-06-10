@@ -1,0 +1,31 @@
+=  Nancy - French Ligue 2 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Clément Lenglet, FRA, D, 1.86, 81, 17-06-95, Beauvais, None
+3, Pape Diakhaté, SEN, D, 1.85, 79, 21-06-84, Dakar, Erciyesspor
+4, Modou Diagne, SEN, D, 1.88, 74, 03-01-94, Mbacke, None
+6, Youssef Aït Bennasser, MAR, M, 1.84, 73, 07-07-96, Toul, None
+7, Antony Robic, FRA, M, 1.81, 77, 05-03-86, Marseille, Laval
+9, Maurice Dalé, FRA, F, 1.87, 80, 12-07-85, Martigues, Arles-Avignon
+10, Arnaud Lusamba, FRA, M, 1.79, 67, 04-01-97, Metz, None
+11, Karim Coulibaly, FRA, M, 1.84, 80, 03-06-93, Bakel, None
+13, Jonathan Iglesias, URU, M, 1.80, 70, 17-12-88, Montevideo, El Tanque Sisley
+14, Joffrey Cuffaut, FRA, D, 1.80, 74, 15-03-88, Beauvais, Le Mans
+15, Youssouf Hadji, MAR, F, 1.83, 78, 25-02-80, Ifrane, Elazığspor
+16, Guy Rolland Ndy Assembé, CMR, G, 1.84, 79, 28-02-86, Yaoundé, Nantes
+17, Faitout Maouassa, FRA, D, 1.70, 74, 06-07-98, Villepinte, None
+18, Diallo Guidileye, FRA, M, 1.81, 76, 30-12-89, Djadijibiné, AEL Limassol
+19, Loïc Puyo, FRA, M, 1.82, 78, 18-12-88, Orléans, Orléans
+20, Michaël Chrétien Basser, MAR, D, 1.79, 67, 10-07-84, Nancy, Strasbourg
+21, Tobias Badila, FRA, D, 1.81, 78, 12-05-93, Dijon, None
+25, Benoît Pedretti, FRA, M, 1.77, 69, 12-11-80, Audincourt, Ajaccio
+26, Vincent Muratori, FRA, D, 1.78, 68, 03-08-87, Orange, Monaco
+27, Alexis Busin, FRA, F, 1.75, 64, 07-09-95, Boulogne-sur-Mer, None
+28, Julien Cetout, FRA, M, 1.83, 74, 02-01-88, Chartres, Tours
+30, Brice Samba, CGO, G, 1.86, 79, 25-04-94, Linzolo, Marseille
+33, Yann Mabella, FRA, F, 1.82, 77, 22-02-96, Toulouse, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Rémi Walter, FRA, M, 1.74, 73, 26-04-95, Essey-les-Nancy, Nice

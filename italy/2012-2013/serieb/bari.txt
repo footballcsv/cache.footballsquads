@@ -1,0 +1,42 @@
+=  Bari - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Eugenio Lamanna, ITA, G, 1.86, 80, 07-08-89, Como, Genoa
+2, Stefano Sabelli, ITA, D, 1.80, 74, 13-01-93, Rome, Roma
+3, Claiton dos Santos, BRA, D, 1.86, 70, 07-09-84, Santa Helena de Goiás, Varese
+4, Marco Romizi, ITA, M, 1.75, 65, 13-02-90, Arezzo, Fiorentina
+7, Cristian Galano, ITA, M, 1.70, 69, 01-04-91, Foggia, None
+8, Daniele Sciaudone, ITA, M, 1.83, 72, 10-08-88, Bergamo, Taranto
+10, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, None
+11, Diego Albadoro, ITA, F, 1.85, 80, 26-02-89, Naples, Giugliano
+12, Alex Daniel Pena, ROU, G, 1.90, 70, 26-01-90, Craiova, Roma
+13, Armando Visconti, ITA, F, 1.76, 70, 26-10-89, Naples, Avellino
+14, Diego Polenta, URU, D, 1.85, 82, 06-02-92, New York, Genoa
+15, Dimitrios Vosnakidis, GRE, D, 1.87, 79, 14-02-94, Komotini, Panthrakikos
+17, Gadji Celi Junior Tallo, CIV, M, 1.87, 77, 21-12-92, Ouragahio, Roma
+18, Francesco Caputo, ITA, F, 1.80, 75, 06-08-87, Altamura, Noicattaro
+19, Francesco Fedato, ITA, F, 1.77, 66, 15-10-92, Mirano, Catania
+20, Stefan Ristovski, MKD, M, 1.81, 73, 12-02-92, Skopje, Parma
+21, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Siena
+22, Paolo Vicino, ITA, G, 1.84, 82, 06-02-95, Gravina in Puglia, None
+23, Luca Ceppitelli, ITA, D, 1.86, 80, 11-08-89, Castiglione del Lago, Andria BAT
+24, Gustavo Aprile, URU, M, 1.82, 77, 10-08-88, Montevideo, Bella Vista
+25, Marino Defendi, ITA, F, 1.74, 70, 19-08-85, Bergamo, Atalanta
+26, Errico Altobello, ITA, D, 1.93, 85, 20-11-90, Cava de' Tirreni, Campobasso
+27, Antimo Iunco, ITA, F, 1.70, 74, 10-06-84, Brindisi, Chievo Verona
+28, Vincenzo Chiochia, ITA, D, 1.80, 70, 27-04-94, Taranto, Taranto
+29, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Parma
+30, Andrea De Falco, ITA, M, 1.79, 70, 19-06-86, Ancona, Chievo Verona
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Roberto Falagario, ITA, M, , , 02-06-92, Bari, Martina Franca (On Loan)
+22, Vincenzo Pentimone, ITA, G, 1.90, 75, 19-02-94, Gravina di Puglia, Lupa Frascati (On Loan)
+15, Anthony Partipilo, ITA, M, 1.77, 76, 27-10-94, Bari, Carrarese (On Loan)
+16, Rivaldo González, PAR, M, 1.70, 68, 23-12-87, Asunción, 
+5, Martino Borghese, ITA, D, 1.98, 88, 05-06-87, Basel, Pro Vercelli (On Loan)
+9, Francesco Grandolfo, ITA, F, 1.82, 78, 26-07-92, Castellana, Tritium (On Loan)
+29, Attila Filkor, HUN, M, 1.81, 76, 12-07-88, Budapest, Milan
+17, Fatmir Hysenbelliu, ALB, M, 1.80, 74, 04-04-92, Tirana, KF Tirana (On Loan)
+6, Idriz Toskić, MNE, M, 1.76, 70, 12-10-95, Molfetta, Chievo Verona (On Loan)

@@ -1,0 +1,55 @@
+=  Villarreal - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Asenjo, ESP, G, 1.82, 85, 28-06-89, Palencia, Atlético Madrid
+2, Mario, ESP, D, 1.75, 70, 24-11-90, Novelda, Villarreal B
+3, José Ángel, ESP, D, 1.82, 77, 05-09-89, Gijón, FC Porto
+5, Mateo Musacchio, ARG, D, 1.79, 72, 26-08-90, Rosario, Villarreal B
+6, Víctor Ruíz, ESP, D, 1.84, 73, 25-01-89, Esplugues de Llobregat, Valencia
+7, Denis Cheryshev, RUS, M, 1.79, 72, 26-12-90, Nizhny Novgorod, Real Madrid
+8, Jonathan dos Santos, MEX, M, 1.80, 74, 26-04-90, Monterrey, Barcelona
+9, Roberto Soldado, ESP, F, 1.79, 81, 27-05-85, Valencia, Tottenham H
+11, Jaume, ESP, D, 1.69, 67, 18-03-88, Valencia, Villarreal B
+12, Álvaro González, ESP, D, 1.80, 68, 08-01-90, Potes, Espanyol
+13, Andrés Fernández, ESP, G, 1.84, 86, 17-12-86, Murcia, FC Porto
+14, Manu Trigueros, ESP, M, 1.78, 70, 17-10-91, Talavera de la Reina, Villarreal B
+15, Adrián López, ESP, F, 1.80, 71, 08-01-88, San Martín de Teverga, FC Porto
+16, Rodri, ESP, M, 1.90, 85, 22-06-96, Madrid, Villarreal B
+17, Cédric Bakambu, COD, F, 1.80, 70, 11-04-91, Ivry-sur-Seine, Bursaspor
+18, Nicola Sansone, ITA, F, 1.73, 68, 10-09-91, Munich, Sassuolo
+19, Samu Castillejo, ESP, F, 1.79, 61, 18-01-95, Málaga, Málaga
+20, Roberto Soriano, ITA, M, 1.81, 76, 08-02-91, Darmstadt, Sampdoria
+21, Bruno, ESP, M, 1.79, 70, 12-06-84, Artana, Villarreal B
+22, Antonio Rukavina, SRB, D, 1.77, 72, 26-01-84, Belgrade, Valladolid
+23, Daniele Bonera, ITA, D, 1.83, 74, 31-05-81, Brescia, Milan
+24, Rafael Santos Borré, COL, F, 1.74, 70, 15-09-95, Barranquilla, Atlético Madrid
+25, Mariano Barbosa, ARG, G, 1.86, 82, 27-07-84, Lanús, Sevilla
+26, Pablo Larrea, ESP, M, 1.75, 67, 04-02-94, Madrid, Villarreal B
+27, Aitor Cantalapiedra, ESP, F, 1.77, 67, 10-02-96, Barcelona, Villarreal B
+28, Manu Morlanes, ESP, M, 1.78, 75, 12-01-99, Zaragoza, Villarreal B
+30, Ramón Bueno, ESP, D, 1.82, 75, 07-04-95, Burriana, Villarreal B
+31, Joan Femenías, ESP, G, , , 19-08-96, Manacor, Villarreal B
+32, Juan Ibiza, ESP, D, 1.87, 78, 17-08-95, Ibiza, Villarreal B
+33, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Villarreal B
+34, Javier García, ESP, F, , , 23-06-96, Alicante, Villarreal B
+36, Chuca, ESP, M, 1.82, 74, 10-06-97, Jacarilla, Villarreal B
+37, Arnau Vega, ESP, D, , , 04-01-97, , Villarreal C
+38, Ramiro Guerra, URU, M, 1.83, 71, 21-03-97, Montevideo, Villarreal B
+39, Mario González, ESP, F, 1.83, 76, 25-02-96, Burgos, Villarreal B
+40, Álvaro Belizón, ESP, M, 1.78, 70, 14-05-96, San Fernando, Villarreal C
+41, Maldo, ESP, D, , , 26-07-96, , Villarreal B
+42, Genís Montolió, ESP, D, , , 23-07-96, Barcelona, Villarreal C
+43, Daniel Raba, ESP, M, 1.84, 74, 29-10-95, Santander, Villarreal B
+44, Migue Leal, ESP, D, 1.76, 68, 01-02-97, Villarreal, Villarreal B
+45, Simón Moreno, ESP, F, , , 02-07-97, Cartaya, Villarreal C
+47, Pau Torres, ESP, D, 1.91, 80, 16-01-97, Villarreal, Villarreal C
+49, Leonardo Suárez, ARG, F, 1.67, 63, 30-03-96, José León Suárez, Boca Juniors
+50, Darío Poveda, ESP, F, 1.85, 75, 13-03-97, San Vicente del Raspeig, Villarreal C
+54, José Carlos Lazo, ESP, M, 1.77, 69, 16-02-96, Sanlúcar de Barrameda, Real Madrid B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Bojan Jokič, SVN, D, 1.76, 75, 17-05-86, Kranj, FC Ufa
+10, Alexandre Pato, BRA, F, 1.79, 71, 02-09-89, Pato Branco, Tianjin Quanjian
+4, Alfred N'Diaye, SEN, M, 1.87, 87, 06-03-90, Paris, Hull C (On Loan)

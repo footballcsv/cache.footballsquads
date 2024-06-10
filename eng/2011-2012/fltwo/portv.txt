@@ -1,0 +1,42 @@
+=  Port Vale - English Football League Two 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Martin, ENG, G, 1.83, 85, 21-07-90, Mansfield, None
+2, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Morecambe
+3, Rob Taylor, ENG, D, 1.83, 80, 16-01-85, Shrewsbury, Nuneaton Boro
+4, Anthony Griffith, ENG, M, 1.83, 76, 28-10-86, Huddersfield, Doncaster R
+5, John McCombe, ENG, D, 1.88, 81, 07-05-85, Pontefract, Hereford U
+6, Gareth Owen, WAL, D, 1.85, 73, 21-09-82, Cheadle, Stockport Co
+7, Doug Loft, ENG, M, 1.83, 77, 25-12-86, Maidstone, Brighton & HA
+8, Louis Dodds, ENG, M, 1.78, 80, 08-10-86, Sheffield, Leicester C
+9, Marc Richards, ENG, F, 1.80, 81, 08-07-82, Wolverhampton, Barnsley
+10, Ryan Burge, ENG, M, 1.78, 65, 12-10-88, Cheltenham, Hyde
+11, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Crewe Alex
+12, Stuart Tomlinson, ENG, G, 1.83, 70, 17-03-84, Chester, Barrow
+14, Paul Marshall, ENG, M, 1.85, 78, 09-07-89, Gorton, Droylsden
+15, Lee Collins, ENG, D, 1.80, 78, 28-09-88, Telford, Wolverhampton W
+16, Lewis Haldane, WAL, F, 1.83, 71, 13-03-85, Trowbridge, Bristol R
+17, Sean Rigg, ENG, F, 1.75, 77, 01-10-88, Bristol, Bristol R
+18, Sam Morsy, ENG, M, 1.75, 76, 10-09-91, Wolverhampton, None
+19, Ben Williamson, ENG, F, 1.80, 76, 25-12-88, Lambeth, Hyde
+20, Chris Shuker, ENG, F, 1.65, 59, 09-05-82, Liverpool, Morecambe
+21, Kingsley James, ENG, D, 1.85, 74, 17-02-92, Rotherham, Sheffield U
+22, Phil Roe, ENG, D, 1.78, 79, 07-10-91, Chelmsford, Sheffield U
+24, Sam Johnson, ENG, G, 1.98, 78, 01-12-92, Newcastle-under-Lyme, Stoke C
+25, Clayton McDonald, ENG, D, 1.98, 104, 06-12-88, Liverpool, Walsall
+26, Joe Davis, ENG, D, 1.83, 67, 10-11-93, Burnley, None
+32, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, None
+33, Dominic Thorley, ENG, M, , , 06-09-93, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Mike Green, ENG, D, 1.83, 84, 12-05-89, Southampton, Eastleigh
+28, Liam Chilvers, ENG, D, 1.85, 88, 06-11-81, Chelmsford, Notts Co
+14, Gary Roberts, ENG, M, 1.73, 66, 04-02-87, Chester, Mansfield T
+29, Robert Kozluk, ENG, D, 1.73, 64, 05-08-77, Sutton-in-Ashfield, Bradford C
+27, Andrew Little, NIR, F, 1.83, 78, 12-05-89, Enniskillen, Rangers
+34, Shane O'Connor, IRL, D, 1.75, 73, 14-04-90, Cork, Ipswich T
+35, Guy Madjo, CMR, F, 1.83, 72, 01-06-84, Douala, Stevenage
+36, Jennison Myrie-Williams, ENG, F, 1.83, 76, 17-05-88, Bristol, Stevenage
+23, Charlie Raglan, ENG, D, 1.83, 76, 28-04-93, Wythenshawe, Chasetown

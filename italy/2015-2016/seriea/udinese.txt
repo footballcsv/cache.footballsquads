@@ -1,0 +1,50 @@
+=  Udinese - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Granada
+5, Danilo, BRA, D, 1.83, 81, 10-05-84, São Bernardo do Campo, Desportivo Brasil
+7, Emmanuel Agyemang-Badu, GHA, M, 1.72, 70, 02-12-90, Berekum, Berekum Arsenal
+8, Bruno Fernandes, POR, M, 1.73, 78, 08-09-94, Maia, Novara
+9, Duván Zapata, COL, F, 1.86, 80, 01-04-91, Cali, Napoli
+10, Antonio Di Natale, ITA, F, 1.70, 73, 13-10-77, Naples, Empoli
+11, Maurizio Domizzi, ITA, D, 1.85, 87, 28-06-80, Rome, Napoli
+17, Pablo Armero, COL, D, 1.74, 81, 02-11-86, San Andrés de Tumaco, Napoli
+18, Stipe Perica, CRO, F, 1.92, 88, 07-07-95, Zadar, Chelsea
+19, Guilherme, BRA, M, 1.78, 78, 05-04-91, Santo André, Corinthians
+20, Francesco Lodi, ITA, M, 1.82, 70, 23-03-84, Naples, Catania
+21, Edenílson, BRA, M, 1.75, 64, 19-12-89, Porto Alegre, Corinthians
+22, Zdravko Kuzmanović, SRB, M, 1.86, 72, 22-09-87, Thun, Basel
+26, Giovanni Pasquale, ITA, D, 1.82, 82, 05-01-82, Venaria Reale, Livorno
+27, Silvan Widmer, SUI, D, 1.82, 79, 05-03-93, Aarau, Granada
+30, Felipe, BRA, D, 1.86, 78, 31-07-84, Guaratingueta, Internazionale
+31, Orestis Karnezis, GRE, G, 1.89, 79, 11-07-85, Athens, Panathinaikos
+34, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Villa Jardín, Granada
+40, Samuele Perisan, ITA, G, 1.91, 78, 21-08-97, San Vito al Tagliamento, None
+41, Simone Pontisso, ITA, M, 1.84, 74, 20-03-97, San Daniele del Friuli, None
+42, Mauro Coppolaro, ITA, D, 1.81, 70, 10-03-97, Benevento, Reggina
+52, Alexander Merkel, KAZ, M, 1.77, 73, 22-02-92, Pervomayskiy, Genoa
+53, Ali Adnan, IRQ, D, 1.85, 77, 19-12-93, Baghdad, Rizespor
+55, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Verona
+75, Thomas Heurtaux, FRA, D, 1.83, 81, 03-07-88, Lisieux, Caen
+77, Cyril Théreau, FRA, F, 1.89, 78, 24-04-83, Privas, Chievo Verona
+88, Ryder Matos, BRA, F, 1.83, 79, 27-02-93, Seabra, Fiorentina
+89, Iván Piris, PAR, D, 1.74, 68, 10-03-89, Itaguá, Deportivo Maldonado
+90, Rafael Romo, VEN, G, 1.97, 85, 25-02-90, Turén, Llaneros
+97, Alex Meret, ITA, G, 1.85, 77, 22-03-97, Udine, None
+99, Andrija Balić, CRO, M, 1.80, 71, 11-08-97, Split, Hajduk Split
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Daniele Mori, ITA, D, 1.90, 83, 28-06-90, Livorno, Lucchese (On Loan)
+37, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, Novara (On Loan)
+66, Giampiero Pinzi, ITA, M, 1.77, 73, 11-03-81, Rome, Chievo Verona
+82, Alexandre Geijo, SUI, F, 1.84, 80, 05-09-82, Geneva, Brescia
+13, Emanuel Insúa, ARG, D, 1.80, 79, 10-04-91, Capital Federal, Newell's Old Boys (On Loan)
+23, Marquinho, BRA, M, 1.82, 79, 03-07-86, Passo Fundo, Al-Ahli [KSA] (On Loan)
+95, Lucas Evangelista, BRA, M, 1.81, 70, 06-05-95, Limeira, Panathinaikos (On Loan)
+16, Manuel Iturra, CHI, M, 1.73, 71, 23-06-84, Temuco, Rayo Vallecano (On Loan)
+74, Rodrigo Aguirre, URU, F, 1.84, 75, 01-10-94, Montevideo, Perugia (On Loan)
+3, Neuton, BRA, D, 1.85, 76, 14-03-90, Erechim, Albacete (On Loan)
+32, Agostino Camigliano, ITA, D, 1.87, 77, 11-07-94, Segrate, Trapani (On Loan)
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Fiorentina (On Loan)

@@ -1,0 +1,57 @@
+=  Coventry City - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Burge, ENG, G, 1.80, 70, 09-01-93, Hereford, None
+2, Jack Grimmer, SCO, D, 1.84, 84, 25-01-94, Aberdeen, Fulham
+3, Brandon Mason, ENG, D, 1.75, 70, 30-09-97, Westminster, Watford
+4, Jordan Willis, ENG, D, 1.80, 70, 24-08-94, Coventry, None
+5, Tom Davies, ENG, D, 1.80, 70, 18-04-92, Warrington, Portsmouth
+6, Liam Kelly, SCO, M, 1.85, 70, 10-02-90, Milton Keynes, Leyton Orient
+7, Jodi Jones, ENG, M, 1.77, 73, 22-10-97, Bow, Dagenham & Redbridge
+8, David Meyler, IRL, M, 1.89, 74, 29-05-89, Cork, Reading
+9, Maxime Biamou, FRA, F, 1.85, 82, 13-11-90, Créteil, Sutton U
+10, Conor Chaplin, ENG, F, 1.78, 69, 16-02-97, Worthing, Portsmouth
+11, Jordy Hiwula, ENG, F, 1.78, 66, 21-09-94, Manchester, Huddersfield T
+12, Junior Brown, ENG, D, 1.75, 68, 07-05-89, Crewe, Shrewsbury T
+13, Liam O'Brien, ENG, G, 1.88, 73, 30-11-91, Ruislip, Portsmouth
+14, Reise Allassani, ENG, F, , , 03-01-96, Wandsworth Hill, Dulwich Hamlet
+15, Dominic Hyam, SCO, D, 1.88, 70, 20-12-95, Leuchars, Reading
+17, Dujon Sterling, ENG, D, 1.80, 73, 24-10-99, Islington, Chelsea
+19, Jordan Ponticelli, ENG, F, 1.80, 70, 10-09-98, Nuneaton, None
+20, Tom Bayliss, ENG, M, 1.83, 78, 06-04-99, Leicester, None
+21, Amadou Bakayoko, SLE, F, 1.93, 85, 01-01-96, Kenema, Walsall
+23, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Derby Co
+24, Bright Enobakhare, NGA, F, 1.79, 77, 18-05-98, Benin City, Wolverhampton W
+25, Zain Westbrooke, ENG, M, 1.80, 65, 28-10-96, Chertsey, Brentford
+26, Jordan Shipley, IRL, M, 1.83, 73, 26-09-97, Leamington Spa, None
+27, Jordon Thompson, ENG, D, 1.88, 72, 08-04-99, Islington, QPR
+29, Jak Hickman, ENG, M, 1.75, 70, 11-09-98, Sandwell, WBA
+30, Bouwe Bosma, NED, M, 1.89, 80, 24-05-96, Liverpool, Lewes
+32, Dexter Walters, ENG, M, , , 04-12-98, , Tamworth
+33, Corey Addai, GHA, G, 1.93, 72, 10-10-97, Hackney, Arsenal
+34, Chris Camwell, ENG, D, 1.79, 71, 27-10-98, Bedworth, None
+35, Declan Drysdale, ENG, D, 1.96, 85, 14-11-99, Birkenhead, Tranmere R
+36, Reece Ford, ENG, D, , , 29-10-98, Coventry, None
+37, Morgan Williams, ENG, D, 1.88, 74, 30-08-99, Derby, Mickleover Sports
+38, Josh Eccles, ENG, D, 1.81, 66, 06-04-00, Coventry, None
+39, Lewis Green, ENG, D, , , , , None
+40, Billy Stedman, ENG, M, , , , , None
+41, Sam McCallum, ENG, D, 1.77, 68, 02-09-00, Canterbury, Herne Bay
+42, Tom Billson, ENG, G, 1.88, 73, 18-10-00, Shrewsbury, None
+43, David Bremang, ENG, F, 1.80, 70, 21-03-00, Hammersmith, None
+44, Charlie Wakefield, ENG, M, 1.84, 72, 10-04-98, Worthing, Chelsea
+46, Jonny Ngandu, ENG, M, 1.75, 71, 25-10-01, Redbridge, None
+50, Jack Burroughs, SCO, M, 1.88, 80, 21-03-01, Coventry, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Callum Maycock, ENG, M, 1.82, 71, 23-12-97, Birmingham, Macclesfield T (On Loan)
+32, Stuart Beavon, ENG, F, 1.71, 69, 05-05-84, Reading, Wrexham (On Loan)
+31, Peter Vincenti, ENG, M, 1.88, 76, 07-07-86, Jersey, Macclesfield T
+35, Kyle Finn, ENG, M, 1.79, 77, 07-12-98, Leamington Spa, Hereford
+22, Tony Andreu, FRA, M, 1.78, 72, 22-05-88, Cagnes-sur-Mer, Hamilton Academical (On Loan)
+8, Michael Doyle, IRL, M, 1.78, 71, 08-07-81, Dublin, Notts Co
+16, Abu Ogogo, ENG, M, 1.73, 64, 03-11-89, Epsom, Bristol R
+18, Jonson Clarke-Harris, ENG, F, 1.83, 71, 21-07-94, Leicester, Bristol R
+31, David Stockdale, ENG, G, 1.91, 84, 20-09-85, Leeds, Birmingham C

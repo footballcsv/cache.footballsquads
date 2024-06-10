@@ -1,0 +1,50 @@
+=  Charlton Athletic - English Football League One 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ben Hamer, ENG, G, 1.80, 78, 20-11-87, Taunton, Reading
+2, Andy Hughes, ENG, M, 1.80, 77, 02-01-78, Manchester, Scunthorpe U
+3, Cédric Evina, FRA, D, 1.80, 80, 16-11-91, , Oldham Ath
+4, Johnnie Jackson, ENG, M, 1.85, 81, 15-08-82, Camden, Notts Co
+5, Michael Morrison, ENG, D, 1.83, 76, 03-03-88, Bury St Edmunds, Sheffield W
+6, Matt Taylor, ENG, D, 1.83, 78, 30-01-82, Ormskirk, Exeter C
+7, Danny Green, ENG, M, 1.83, 80, 09-07-88, Harlow, Dagenham & Redbridge
+8, Dale Stephens, ENG, M, 1.69, 71, 12-06-89, Bolton, Oldham Ath
+9, Paul Hayes, ENG, F, 1.83, 82, 20-09-83, Dagenham, Preston NE
+10, Bradley Wright-Phillips, ENG, F, 1.73, 70, 12-03-85, Lewisham, Plymouth Arg
+11, Scott Wagstaff, ENG, M, 1.75, 68, 31-03-90, Maidstone, None
+12, Gary Doherty, IRL, D, 1.88, 83, 31-01-80, Donegal, Norwich C
+13, John Sullivan, ENG, G, 1.88, 89, 08-03-88, Brighton, Millwall
+14, Danny Haynes, ENG, M, 1.80, 78, 19-01-88, Peckham, Barnsley
+15, Yado Mambo, ENG, D, 1.90, 83, 22-10-91, Kilburn, None
+16, Rhoys Wiggins, WAL, D, 1.73, 72, 04-11-87, Hillingdon, Bournemouth
+17, Jason Euell, JAM, F, 1.80, 71, 06-02-77, Lambeth, Blackpool
+18, Bradley Pritchard, ZIM, M, 1.86, 90, 19-12-85, Harare, Hayes & Yeading U
+20, Chris Solly, ENG, M, 1.73, 71, 20-01-91, Maidstone, None
+21, Ruben Bover, ESP, M, 1.70, 66, 24-06-92, Palma de Mallorca, Halesowen T
+22, Danny Hollands, ENG, M, 1.80, 81, 06-11-85, Ashford, Bournemouth
+23, Mikel Alonso, ESP, M, 1.83, 75, 16-05-80, Tolosa, Tenerife
+25, Lee Cook, ENG, M, 1.75, 77, 03-08-82, Hammersmith, QPR
+26, Tosan Popo, ENG, F, 1.73, 70, 26-09-92, Hutton, None
+27, Freddie Warren, ENG, M, 1.78, 74, 02-11-92, Barking, None
+28, Leon Cort, GUY, D, 1.91, 83, 11-09-79, Southwark, Burnley
+29, Conor Gough, ENG, G, 1.98, 93, 09-08-93, Fyfield, None
+30, Nick Pope, ENG, G, 1.91, 76, 19-04-92, Cambridge, Bury T
+31, Jordan Cousins, ENG, D, 1.77, 72, 06-03-94, Greenwich, None
+32, Callum Harriott, ENG, M, 1.65, 66, 04-03-94, Norbury, None
+33, Harry Osborne, ENG, D, 1.83, 78, 03-03-94, Greenwich, None
+34, Michael Smith, ENG, F, 1.93, 86, 17-10-91, Wallsend, Darlington
+35, Joe Pigott, ENG, F, 1.88, 85, 24-11-93, Maidstone, None
+36, Yann Kermorgant, FRA, F, 1.84, 84, 08-11-81, Vannes, Leicester C
+37, Darel Russell, ENG, M, 1.78, 74, 22-10-80, Mile End, Preston NE
+38, Adebayo Azeez, ENG, F, 1.83, 71, 08-01-94, Orpington, None
+39, Dany N'Guessan, FRA, M, 1.85, 83, 11-08-87, Ivry-sur-Seine, Millwall
+40, Leon Clarke, ENG, F, 1.88, 90, 10-02-85, Birmingham, Swindon T
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Robert Elliot, IRL, G, 1.90, 98, 30-04-86, Chatham, Newcastle U
+14, Paul Benson, ENG, F, 1.85, 70, 12-10-79, Rochford, Swindon T
+19, Simon Francis, ENG, D, 1.83, 79, 16-02-85, Nottingham, Bournemouth
+39, Hogan Ephraim, ENG, M, 1.75, 70, 31-03-88, Islington, QPR
+25, Ben Davisson, ENG, M, 1.70, 70, 23-10-91, Sidcup, Hastings U

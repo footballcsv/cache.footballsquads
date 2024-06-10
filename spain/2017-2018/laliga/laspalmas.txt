@@ -1,0 +1,45 @@
+=  Las Palmas - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Las Palmas B
+2, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Las Palmas B
+3, Matías Aguirregaray, URU, D, 1.74, 78, 01-04-89, Porto Alegre, Tijuana
+4, Vicente Gómez, ESP, M, 1.86, 74, 31-08-88, Las Palmas, Las Palmas B
+5, David García, ESP, D, 1.83, 79, 25-02-82, Las Palmas, Vecindario
+6, Oghenekaro Etebo, NGA, M, 1.76, 70, 09-11-95, Lagos, Feirense
+7, Gabriel Peñalba, ARG, M, 1.80, 75, 23-09-84, Quilmes, Cruz Azul
+8, Alen Halilović, CRO, M, 1.69, 69, 18-06-96, Dubrovnik, Hamburg
+9, Jonathan Calleri, ARG, F, 1.81, 77, 23-09-93, Capital Federal, Deportivo Maldonado
+10, Emmanuel Emenike, NGA, F, 1.82, 82, 10-05-87, Otuocha, Olympiakos
+11, Momo, ESP, M, 1.79, 70, 15-07-82, Las Palmas, Betis
+12, Michel, BRA, D, 1.76, 72, 15-02-90, Rio de Janeiro, Almería
+13, Leandro Chichizola, ARG, G, 1.86, 82, 27-03-90, San Justo, Spezia
+14, Imoh Ezekiel, NGA, F, 1.70, 69, 24-10-93, Lagos, Konyaspor
+15, Nacho Gil, ESP, M, 1.70, 69, 09-09-95, Valencia, Valencia B
+16, Jairo, ESP, M, 1.70, 65, 11-07-93, Cabezón de la Sal, Mainz
+17, Pedro Bigas, ESP, D, 1.81, 83, 15-05-90, Palma de Mallorca, Mallorca
+18, Javi Castellano, ESP, M, 1.81, 74, 02-11-87, Las Palmas, Mallorca B
+19, Hernán Toledo, ARG, F, 1.80, 70, 17-01-96, Sastre, Deportivo Maldonado
+20, Alejandro Gálvez, ESP, D, 1.88, 79, 06-06-89, Granada, Eibar
+22, Ximo, ESP, D, 1.76, 75, 23-01-90, Guadahortuna, Almería
+23, Dani Castellano, ESP, D, 1.78, 74, 02-11-87, Las Palmas, Mallorca B
+24, Tana, ESP, F, 1.69, 73, 20-09-90, Las Palmas, Las Palmas B
+25, Alberto Aquilani, ITA, M, 1.85, 81, 07-07-84, Rome, Pescara
+27, Fabio González, ESP, M, 1.76, 72, 12-02-97, Ingenio, Las Palmas B
+28, Benito Ramírez, ESP, M, 1.75, 70, 11-07-95, Las Palmas, Las Palmas B
+29, Erik Expósito, ESP, F, , , 23-06-96, Santa Cruz de Tenerife, Las Palmas B
+30, Josep Martínez, ESP, G, 1.91, 79, 27-05-98, Alzira, Barcelona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Sergio Araujo, ARG, F, 1.80, 72, 28-01-92, Capital Federal, AEK (On Loan)
+20, Vitolo, ESP, M, 1.84, 81, 02-11-89, Las Palmas, Atlético Madrid
+3, Mauricio Lemos, URU, D, 1.87, 84, 28-12-95, Rivera, Sassuolo (On Loan)
+15, Borja, ESP, D, 1.76, 70, 08-01-93, Las Palmas, Valladolid (On Loan)
+14, Hernán, ESP, M, 1.80, 75, 26-08-90, Las Palmas, Sporting Gijón
+7, Loïc Rémy, FRA, F, 1.85, 83, 02-01-87, Rillieux-la-Pape, Getafe (On Loan)
+6, Sergi Samper, ESP, M, 1.82, 73, 20-01-95, Barcelona, Barcelona
+16, Aythami, ESP, D, 1.84, 79, 02-04-86, Arguineguín, Córdoba
+10, Oussama Tannane, NED, F, 1.78, 79, 23-03-94, Tétouan, St-Etienne
+21, Jonathan Viera, ESP, M, 1.71, 66, 21-10-89, Las Palmas, Beijing Guoan

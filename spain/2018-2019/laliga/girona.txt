@@ -1,0 +1,40 @@
+=  Girona - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gorka Iraizoz, ESP, G, 1.91, 81, 06-03-81, Pamplona, Athletic Bilbao
+2, Bernardo Espinosa, COL, D, 1.92, 84, 11-07-89, Cali, Middlesbrough
+3, Johan Mojica, COL, D, 1.85, 66, 21-08-92, Cali, Rayo Vallecano
+4, Jonás Ramalho, ESP, D, 1.81, 64, 10-06-93, Barakaldo, Athletic Bilbao B
+5, Pedro Alcalá, ESP, D, 1.96, 93, 19-03-89, Mazarrón, Llagostera
+6, Álex Granell, ESP, M, 1.75, 70, 02-08-88, Girona, Prat
+7, Cristhian Stuani, URU, F, 1.86, 72, 12-10-86, Tala, Middlesbrough
+8, Pere Pons, ESP, M, 1.77, 70, 20-02-93, Sant Martí Vell, Girona B
+9, Portu, ESP, M, 1.78, 70, 21-05-92, Murcia, Valencia B
+10, Borja, ESP, M, 1.75, 72, 02-11-90, Torremocha de Jarama, Real Madrid B
+11, Aday, ESP, M, 1.79, 75, 16-12-87, Sentmenat, Tenerife
+12, Douglas Luiz, BRA, M, 1.78, 65, 09-05-98, Rio de Janeiro, Manchester C
+13, Yassine Bounou, MAR, G, 1.92, 78, 05-04-91, Montreal, Atlético Madrid
+14, Raúl García, ESP, D, 1.75, 72, 30-04-89, La Coruña, Leganés
+15, Juanpe, ESP, D, 1.90, 80, 30-04-91, Las Palmas, Granada
+17, Patrick Roberts, ENG, M, 1.67, 58, 05-02-97, Kingston-upon-Thames, Manchester C
+19, Anthony Lozano, HON, F, 1.82, 74, 25-04-93, Yoro, Barcelona B
+20, Marc Muniesa, ESP, D, 1.79, 72, 27-03-92, Lloret de Mar, Stoke C
+21, Carles Planas, ESP, D, 1.80, 80, 04-03-91, Sant Celoni, Celta Vigo
+22, Seydou Doumbia, CIV, F, 1.78, 70, 31-12-87, Yamoussoukro, Sporting CP
+23, Aleix García, ESP, M, 1.73, 68, 28-06-97, Ulldecona, Manchester C
+24, Pedro Porro, ESP, M, 1.76, 71, 13-09-99, Don Benito, Rayo Vallecano
+26, Yhoan Andzouana, FRA, M, 1.71, 56, 13-12-96, Brazzaville, Girona
+27, Kévin Soni, CMR, M, 1.83, 76, 17-04-98, Douala, Bordeaux
+28, Èric Montes, ESP, D, 1.77, 70, 17-04-98, Manresa, Girona B
+30, José Aurelio Suárez, ESP, G, 1.87, 85, 18-12-95, Gijón, Barcelona B
+33, Santiago Bueno, URU, D, 1.89, 78, 09-11-98, Montevideo, Barcelona B
+34, Valery Fernández, ESP, D, 1.82, 75, 23-11-99, L'Escala, Girona B
+35, Paik Seung-Ho, KOR, M, 1.80, 68, 17-03-97, Seoul, Barcelona B
+36, Marc Vito, ESP, G, 1.87, 80, 10-03-96, Terrassa, Córdoba B
+37, Álex Pachón, ESP, F, , , 17-07-00, Esparraguera, Girona B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, David Tímor, ESP, M, 1.85, 77, 17-10-89, Carcaixent, Las Palmas
+29, Pedro Porro, ESP, M, 1.76, 71, 13-09-99, Don Benito, Re-Registered (24)

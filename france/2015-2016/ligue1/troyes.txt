@@ -1,0 +1,43 @@
+=  Troyes - French Ligue 1 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matthieu Dreyer, FRA, G, 1.88, 84, 20-03-89, Strasbourg, Fréjus
+2, Johan Martial, FRA, D, 1.84, 80, 30-05-91, Massy, Brest
+3, Chris Mavinga, FRA, D, 1.83, 78, 26-05-91, Meaux, Rubin Kazan
+5, Matthieu Saunier, FRA, D, 1.81, 75, 07-02-90, Hyeres, Bordeaux
+7, Yohan Court, FRA, M, 1.72, 70, 14-01-90, Carpentras, Sedan
+8, Stéphane Darbion, FRA, M, 1.83, 77, 22-03-84, Belley, Skoda Xanthi
+9, Babacar Guèye, SEN, F, 1.90, 84, 31-12-94, , Dakar Sacré-Cœur
+10, Benjamin Nivet, FRA, M, 1.78, 75, 02-01-77, Chartres, Caen
+11, Rincón, BRA, D, 1.86, 79, 31-05-87, São Paulo, Chievo Verona
+12, Henri Bienvenu, CMR, F, 1.80, 78, 05-07-88, Garoua, Eskişehirspor
+13, Brayan Perea, COL, F, 1.88, 79, 25-02-93, Cali, Lazio
+14, Thiago Xavier, BRA, M, 1.80, 76, 27-12-83, Rio de Janeiro, Châteauroux
+16, Franck Grandel, FRA, G, 1.84, 80, 17-03-78, Point-a-Pitre, Dunkerque
+17, Guillaume Lacour, FRA, D, 1.73, 68, 02-08-80, Courbevoie, Évian TG
+18, Chaouki Ben Saada, TUN, F, 1.70, 65, 01-07-84, Bastia, Arles-Avignon
+19, Karim Azamoum, FRA, M, 1.78, 74, 17-01-90, Rognac, Hyères
+20, Mahamadou N'Diaye, MLI, D, 1.86, 76, 21-06-90, Dakar, Vitória Guimarães
+22, Mory Koné, FRA, D, 1.90, 80, 21-04-94, Paris, Parma
+23, Fabien Camus, FRA, M, 1.79, 67, 28-02-85, Arles, KRC Genk
+24, Lossemy Karaboué, FRA, M, 1.70, 70, 18-03-88, Paris, Nancy
+25, Jessy Pi, FRA, M, 1.79, 72, 24-09-93, Manosque, Monaco
+26, Deniz Hümmet, TUR, F, 1.87, 80, 13-09-96, Fosie, Malmö FF
+27, Corentin Jean, FRA, F, 1.70, 65, 15-07-95, Blois, Monaco
+28, Charles Traoré, MLI, D, 1.80, 74, 01-01-92, Aulnay-sous-Bois, Azzurri 90
+29, Quentin Othon, FRA, M, 1.62, 64, 27-03-88, Montreuil-sous-Bois, Strasbourg
+31, Anele Ngcongca, RSA, D, 1.82, 68, 21-10-87, Cape Town, KRC Genk
+32, Dušan Veškovac, SRB, D, 1.87, 78, 16-03-86, Kruševac, Troyes (On Loan)
+33, Carlens Arcus, HAI, D, 1.82, 76, 28-06-96, Port-au-Prince, None
+34, Alois Confais, FRA, M, 1.74, 61, 07-09-96, Evreux, None
+35, Mouhamadou Dabo, SEN, D, 1.76, 67, 28-11-86, Dakar, Lyon
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Georges Gope-Fenepej, NCL, F, 1.87, 80, 23-10-88, Lifou, Amiens
+6, Jonathan Martins Pereira, FRA, D, 1.82, 71, 30-01-86, Bayonne, Guingamp
+30, Denis Petric, SRB, G, 1.86, 80, 24-05-88, Ljubljana, Angers
+4, Thomas Ayasse, FRA, M, 1.83, 75, 17-02-87, Toulouse, Le Havre
+21, Jimmy Cabot, FRA, F, 1.64, 60, 18-04-94, Chambéry, Lorient
+40, Paul Bernardoni, FRA, G, 1.90, 78, 18-04-97, Évry, Bordeaux (On Loan)

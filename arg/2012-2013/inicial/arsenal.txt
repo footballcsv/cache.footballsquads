@@ -1,0 +1,38 @@
+=  Arsenal - Argentinian Primera División 2012/13 Inicial
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Olivero, ARG, G, 1.92, 87, 27-03-86, Junin, Douglas Haig (Pergamino)
+2, Lisandro López, ARG, D, 1.87, 79, 01-09-89, Villa Constitución, Chacarita Juniors
+3, Lucas Kruspzky, ARG, D, 1.75, 71, 06-04-92, Capital Federal, Independiente
+4, Danilo Gerlo, ARG, D, 1.83, 79, 07-03-79, Rosario, Quilmes
+5, Jorge Ortíz, ARG, M, 1.80, 69, 20-06-84, Castelar, AIK
+6, Diego Braghieri, ARG, D, 1.84, 79, 23-02-87, Las Parejas, Rosario Central
+7, Juan Caffa, ARG, M, 1.84, 73, 30-09-84, Venado Tuerto, Betis
+8, Diego Torres, ARG, F, 1.71, 68, 03-07-82, Bragado, Newell's Old Boys
+9, Gustavo Canales, CHI, F, 1.88, 83, 30-03-82, General Roca, Dalian Aerbin
+10, Carlos Carbonero, COL, M, 1.80, 77, 25-07-90, Bogotá, Estudiantes (LP)
+11, Emilio Zelaya, ARG, F, 1.80, 71, 30-07-87, San Miguel de Tucumán, Rosario Central
+12, Javier Burrai, ARG, G, 1.87, 81, 09-10-90, San Nicolás, None
+13, Matías Zaldivia, ARG, D, 1.84, 87, 22-01-91, San Isidro, Chacarita Juniors
+14, Víctor Cuesta, ARG, D, 1.87, 84, 19-11-88, La Plata, None
+15, Damián Pérez, ARG, M, 1.90, 78, 22-12-88, Lanús, None
+16, Gonzalo Espinoza, CHI, M, 1.78, 79, 09-04-90, Constitución, Racing Club
+17, Cristian Campestrini, ARG, G, 1.82, 82, 16-06-80, San Nicolás, Almirante Brown
+18, Darío Benedetto, ARG, F, 1.75, 75, 10-01-86, Berazategui, None
+19, Nicolás Aguirre, ARG, D, 1.80, 78, 27-06-90, Chabas, None
+20, Gastón Esmerado, ARG, M, 1.82, 77, 08-02-78, Lanús, Huracán
+21, Pablo Lugüercio, ARG, F, 1.77, 79, 10-03-82, La Plata, Barcelona [ECU]
+22, Walter Gómez, ARG, D, 1.86, 72, 05-04-90, Capital Federal, None
+23, Iván Marcone, ARG, M, 1.78, 75, 03-06-90, Sarandi, None
+24, Hugo Nervo, ARG, D, 1.83, 82, 06-01-91, San Nicolás, None
+25, Brian Sarmiento, ARG, M, 1.65, 60, 22-04-90, Rosario, Racing Club
+26, Julián Cardozo, ARG, M, 1.80, 74, 02-01-92, Lanús, None
+27, Eduardo Casais, ARG, D, 1.78, 79, 19-03-85, Ciudad Evita, Olimpo (BB)
+28, Juan Ignacio González, ARG, F, 1.80, 77, 15-10-91, San Isidro, Colegiales
+29, Milton Céliz, ARG, F, 1.85, 80, 25-07-92, Laferrere, None
+30, Fatai Olushola, NGA, F, 1.84, 78, 07-07-92, Lagos, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Claudio Mosca, ARG, M, 1.80, 72, 02-04-91, Bernal, Nueva Chicago (On Loan)

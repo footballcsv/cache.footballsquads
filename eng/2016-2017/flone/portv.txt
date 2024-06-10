@@ -1,0 +1,56 @@
+=  Port Vale - English Football League One 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Deniz Doğan Mehmet, TUR, G, 1.92, 80, 16-09-92, Chatham, Falkirk
+2, Ben Purkiss, ENG, D, 1.88, 82, 01-04-84, Sheffield, Walsall
+3, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Morecambe
+4, Remie Streete, ENG, D, 1.87, 83, 02-11-94, South Shields, Newcastle U
+5, Kjell Knops, NED, D, 1.84, 75, 21-07-87, Wijlre, MVV Maastricht
+6, Ryan Taylor, ENG, D, 1.73, 75, 19-08-84, Liverpool, Hull C
+7, Sam Kelly, ENG, M, 1.78, 74, 21-10-93, Hinchinbrooke, Cambridge C
+8, Paulo Tavares, POR, M, 1.79, 71, 09-12-85, Massarelos, Vitória Setúbal
+9, Rigino Cicilia, CUW, F, 1.97, 86, 23-09-94, Willemstad, Roda JC
+10, JJ Hooper, ENG, F, 1.85, 83, 09-10-93, Greenwich, Havant & Waterlooville
+11, Sam Foley, IRL, M, 1.83, 74, 17-10-86, Upton-on-Severn, Yeovil T
+12, Danny Pugh, ENG, D, 1.83, 76, 19-10-82, Manchester, Blackpool
+13, Axel Prohouly, FRA, M, 1.74, 69, 30-06-97, Grasse, QPR
+14, Jerome Thomas, ENG, M, 1.78, 79, 23-03-83, Brent, Rotherham U
+15, Anton Forrester, ENG, F, 1.83, 76, 11-02-94, Liverpool, Blackburn R
+16, Christopher Mbamba, SWE, M, 1.84, 78, 30-04-92, Harare, HamKam
+17, Michael Brown, ENG, M, 1.76, 77, 25-01-77, Hartlepool, Leeds U
+18, Dan Turner, ENG, F, 1.80, 69, 23-06-98, Stone, None
+19, Scott Tanser, ENG, D, 1.82, 65, 23-10-94, Blackpool, Rochdale
+20, Kiko, POR, D, 1.83, 80, 20-01-93, Alcacer do Sal, Vitória Setúbal
+21, Quentin Pereira, FRA, M, 1.74, 66, 21-04-92, Reims, Epernay
+23, Ryan Boot, ENG, G, 1.85, 71, 09-11-94, Rocester, None
+24, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+25, Callum Guy, ENG, M, 1.78, 64, 25-11-96, Nottingham, Derby Co
+26, Tyler Walker, ENG, F, 1.79, 63, 07-10-96, Nottingham, Nottingham F
+27, Sébastien Amoros, FRA, M, 1.76, 63, 02-07-95, Cannes, Monaco
+28, Anthony de Freitas, FRA, M, 1.79, 73, 10-05-94, Lyon, Monaco
+30, Gëzim Shalaj, SUI, M, 1.83, 74, 28-07-90, Bern, EN Paralimni
+31, Billy Reeves, WAL, M, 1.82, 77, 18-12-96, Wrexham, None
+32, Harry Pickering, ENG, G, 1.85, 79, 07-01-98, Stone, None
+33, Luke Dennis, ENG, D, , , 07-06-99, , None
+34, James Gibbons, ENG, D, 1.74, 62, 16-03-98, Stoke-on-Trent, None
+36, Charlie Walford, ENG, D, , , , Sandwell, None
+38, Leonardo Fasan, ITA, G, 1.88, 82, 04-01-94, San Vito al Tagliamento, Celtic
+39, André Bikey, CMR, D, 1.82, 80, 08-01-85, Douala, Pune C
+44, Chris Eagles, ENG, M, 1.83, 67, 19-11-85, Hemel Hempstead, Accrington Stanley
+46, Olamide Shodipo, IRL, M, 1.76, 70, 05-07-97, Dublin, QPR
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, Chester (On Loan)
+39, Carlos Saleiro, POR, F, 1.85, 76, 25-02-86, Lisbon, 
+13, Martin Paterson, NIR, F, 1.78, 64, 10-05-87, Tunstall, Tampa Bay Rowdies
+26, Alex Jones, ENG, F, 1.85, 73, 28-09-94, Wolverhampton, Birmingham C
+25, Miguel Santos, POR, G, 1.93, 86, 21-10-94, Paço de Arcos, Fortuna Sittard
+46, Sam Hart, ENG, D, 1.80, 72, 10-09-96, Bolton, Liverpool
+1, Jak Alnwick, ENG, G, 1.88, 82, 17-06-93, Prudhoe, Rangers
+6, Calvin Mac-Intosch, NED, D, 1.81, 78, 09-08-89, Amsterdam, Almere C
+19, Omar Haughton, ENG, M, 1.71, 74, 24-03-97, Wolverhampton, Stafford Rangers
+40, Ryan Taylor, ENG, D, 1.73, 75, 19-08-84, Liverpool, Re-Registered (6)
+12, Nathan Ferguson, ENG, M, 1.88, 82, 12-10-95, Walthamstow, Bromley
+42, Anthony Grant, ENG, M, 1.78, 71, 04-06-87, Lambeth, Peterborough U

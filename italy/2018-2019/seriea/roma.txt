@@ -1,0 +1,45 @@
+=  Roma - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Robin Olsen, SWE, G, 1.96, 86, 08-01-90, Malmö, FC København
+2, Rick Karsdorp, NED, D, 1.84, 80, 11-02-95, Schoonhoven, Feyenoord
+4, Bryan Cristante, ITA, M, 1.86, 80, 03-03-95, San Vito al Tagliamento, Atalanta
+5, Juan Jesus, BRA, D, 1.85, 83, 10-06-91, Belo Horizonte, Internazionale
+7, Lorenzo Pellegrini, ITA, M, 1.86, 77, 19-06-96, Rome, Sassuolo
+8, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Genoa
+9, Edin Džeko, BIH, F, 1.93, 80, 17-03-86, Doboj, Manchester C
+11, Aleksandar Kolarov, SRB, D, 1.87, 81, 10-11-85, Belgrade, Manchester C
+14, Patrik Schick, CZE, F, 1.86, 73, 24-01-96, Prague, Sampdoria
+15, Iván Marcano, ESP, D, 1.89, 77, 23-06-87, Santander, FC Porto
+16, Daniele De Rossi, ITA, M, 1.84, 83, 24-07-83, Rome, None
+17, Cengiz Ünder, TUR, F, 1.73, 66, 14-07-97, Balıkesir, İstanbul Başakşehir
+18, Davide Santon, ITA, D, 1.87, 77, 02-01-91, Portomaggiore, Internazionale
+19, Ante Ćorić, CRO, M, 1.76, 59, 14-04-97, Zagreb, Dinamo Zagreb
+20, Federico Fazio, ARG, D, 1.95, 85, 17-03-87, Ramos Mejía, Tottenham H
+22, Nicolò Zaniolo, ITA, M, 1.90, 79, 02-07-99, Massa, Internazionale
+24, Alessandro Florenzi, ITA, M, 1.73, 66, 11-03-91, Rome, None
+27, Javier Pastore, ARG, M, 1.87, 78, 20-06-89, Córdoba, Paris St-Germain
+28, William Bianda, FRA, D, 1.85, 82, 30-04-00, Suresnes, Lens
+34, Justin Kluivert, NED, F, 1.71, 67, 05-05-99, Amsterdam, Ajax
+42, Steven N'Zonzi, FRA, M, 1.96, 75, 15-12-88, Colombes, Sevilla
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Olympiakos
+45, Matteo Cardinali, ITA, G, 1.90, 73, 28-06-01, Rome, None
+53, Alessio Riccardi, ITA, M, 1.78, 77, 03-04-01, Rome, None
+54, Gianmarco Cangiano, ITA, F, 1.67, 62, 16-11-01, Naples, None
+55, Salvatore Pezzella, ITA, M, 1.78, 71, 11-03-00, Rome, None
+56, Ludovico D'Orazio, ITA, F, 1.75, 68, 19-02-00, Sora, None
+57, Francesco Semeraro, ITA, D, , , 01-05-01, Fasano, None
+58, Riccardo Cargnelutti, ITA, D, , , 08-02-99, Latina, None
+60, Žan Celar, SVN, F, 1.86, 80, 14-03-99, Kranj, Maribor
+63, Daniel Fuzato, BRA, G, 1.90, 88, 04-07-97, Santa Bárbara d'Oeste, Palmeiras
+77, Stefano Greco, ITA, G, 1.85, 73, 21-02-99, Galatina, Lecce
+83, Antonio Mirante, ITA, G, 1.93, 79, 08-07-83, Castellammare di Stabia, Bologna
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, Sevilla (On Loan)
+6, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, Marseille
+3, Luca Pellegrini, ITA, D, 1.78, 72, 07-03-99, Rome, Cagliari (On Loan)
+52, Andrea Marcucci, ITA, M, 1.73, 72, 07-02-99, Rome, Foggia (On Loan)

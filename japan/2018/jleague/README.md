@@ -1,0 +1,21 @@
+# Japanese J1 League 2018
+
+18 teams
+- [Cerezo Osaka](cerezo.txt)
+- [Gamba Osaka](gamba.txt)
+- [Hokkaido Consadole Sapporo](hokkaido.txt)
+- [Júbilo Iwata](jubilo.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kashiwa Reysol](kashiwa.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Nagoya Grampus](nagoya.txt)
+- [Sagan Tosu](sagan.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shimizu S-Pulse](shimizu.txt)
+- [Shonan Bellmare](shonan.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Vegalta Sendai](vegalta.txt)
+- [Vissel Kobe](vissel.txt)
+- [V-Varen Nagasaki](vvaren.txt)
+- [Yokohama F Marinos](yokohama.txt)

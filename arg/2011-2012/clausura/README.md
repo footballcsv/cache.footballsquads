@@ -1,0 +1,23 @@
+# Argentinian Primera División 2012 Clausura
+
+20 teams
+- [All Boys](allboys.txt)
+- [Argentinos Juniors](argjnrs.txt)
+- [Arsenal](arsenal.txt)
+- [Atlético Rafaela](atletraf.txt)
+- [Banfield](banfield.txt)
+- [Belgrano (Córdoba)](belgrano.txt)
+- [Boca Juniors](boca.txt)
+- [Colón (Santa Fe)](colon.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Godoy Cruz (Mendoza)](godoycruz.txt)
+- [Independiente](independ.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Olimpo (Bahía Blanca)](olimpo.txt)
+- [Racing Club](racing.txt)
+- [San Lorenzo](sanloren.txt)
+- [San Martín (San Juan)](sanmarsj.txt)
+- [Tigre](tigre.txt)
+- [Unión (Santa Fe)](union.txt)
+- [Vélez Sarsfield](velez.txt)

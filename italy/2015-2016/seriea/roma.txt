@@ -1,0 +1,55 @@
+=  Roma - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bogdan Lobonţ, ROU, G, 1.84, 78, 18-01-78, Hunedoara, Dinamo Bucureşti
+2, Antonio Rüdiger, GER, D, 1.90, 85, 03-03-93, Berlin, Stuttgart
+3, Lucas Digne, FRA, D, 1.78, 74, 20-07-93, Meaux, Paris St-Germain
+4, Radja Nainggolan, BEL, M, 1.75, 65, 04-05-88, Antwerp, Cagliari
+5, Leandro Castán, BRA, D, 1.85, 78, 05-11-86, Jaú, Corinthians
+6, Kevin Strootman, NED, M, 1.86, 78, 13-02-90, Ridderkerk, PSV Eindhoven
+8, Diego Perotti, ARG, F, 1.79, 70, 26-07-88, Moreno, Genoa
+9, Edin Džeko, BIH, F, 1.93, 84, 17-03-86, Doboj, Manchester C
+10, Francesco Totti, ITA, F, 1.80, 80, 27-09-76, Rome, None
+11, Mohamed Salah, EGY, M, 1.75, 72, 15-06-92, Basyoun, Chelsea
+13, Maicon, BRA, D, 1.84, 77, 26-07-81, Novo Hamburgo, Manchester C
+14, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Genoa
+15, Miralem Pjanić, BIH, M, 1.80, 74, 02-04-90, Tuzla, Lyon
+16, Daniele De Rossi, ITA, M, 1.84, 83, 24-07-83, Rome, None
+18, Ezequiel Ponce, ARG, F, 1.76, 72, 29-03-97, Rosario, Newell's Old Boys
+20, Seydou Keita, MLI, M, 1.83, 77, 16-01-80, Bamako, Valencia
+21, William Vainqueur, FRA, M, 1.79, 73, 19-11-88, Neuilly-sur-Marne, Dynamo Moscow
+22, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Milan
+23, Norbert Gyömbér, SVK, D, 1.89, 74, 03-07-92, Revúca, Catania
+24, Alessandro Florenzi, ITA, M, 1.73, 66, 11-03-91, Rome, None
+25, Wojciech Szczęsny, POL, G, 1.95, 84, 18-04-90, Warsaw, Arsenal
+26, Morgan De Sanctis, ITA, G, 1.90, 82, 26-03-77, Guardiagrele, Napoli
+33, Emerson Palmieri, BRA, D, 1.76, 63, 03-08-94, Santos, Santos
+35, Vasilis Torosidis, GRE, D, 1.85, 80, 10-06-85, Xanthi, Olympiakos
+44, Konstantinos Manolas, GRE, D, 1.89, 83, 14-06-91, Naxos, Olympiakos
+48, Salih Uçan, TUR, M, 1.82, 65, 06-01-94, Marmaris, Fenerbahçe
+51, Silvio Anočić, CRO, D, 1.78, 80, 10-09-97, Valpovo, Osijek
+52, Lorenzo Di Livio, ITA, M, 1.76, 72, 11-01-97, Turin, None
+53, Christian D'Urso, ITA, M, 1.78, 70, 26-07-97, Rieti, None
+54, Lorenzo Vasco, ITA, M, , , 19-06-97, Aprilia, None
+55, Eros De Santis, ITA, D, 1.83, 76, 30-10-97, Tivoli, None
+57, José Machín Dicombo, EQG, M, 1.84, 76, 14-08-96, Bata, Málaga B
+59, Ionuţ Pop, ROU, G, 1.85, 74, 01-08-97, Oradea, Bihor Oradea
+87, Ervin Zukanović, BIH, D, 1.90, 85, 11-02-87, Sarajevo, Sampdoria
+91, Riccardo Marchizza, ITA, D, 1.85, 80, 26-03-98, Rome, None
+92, Edoardo Soleri, ITA, F, 1.94, 75, 19-10-97, Rome, Futbolclub
+93, Marco Tumminello, ITA, F, 1.85, 70, 06-11-98, Erice, None
+95, Elio Capradossi, ITA, D, 1.85, 78, 11-03-96, Kampala, None
+97, Umar Sadiq, NGA, F, 1.92, 79, 02-02-97, Lagos, Spezia
+98, Lorenzo Crisanto, ITA, G, 1.87, 75, 20-04-98, Prato, None
+99, Abdullahi Nura, NGA, D, 1.82, 72, 17-08-97, Kaduna, Spezia
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Ashley Cole, ENG, D, 1.72, 67, 20-12-80, Stepney, LA Galaxy
+19, Víctor Ibarbo, COL, F, 1.88, 78, 19-05-90, Cali, Cagliari
+22, Adem Ljajić, SRB, M, 1.81, 74, 29-09-91, Novi Pazar, Internazionale (On Loan)
+32, Leandro Paredes, ARG, M, 1.80, 75, 29-06-94, San Justo, Empoli (On Loan)
+7, Juan Manuel Iturbe, ARG, F, 1.72, 64, 04-06-93, Capital Federal, Bournemouth (On Loan)
+27, Kouassi Gervais "Gervinho" Yao, CIV, F, 1.79, 68, 27-05-87, Anyama, Hebei China Fortune
+58, Emanuele Ndoj, ALB, M, 1.85, 70, 20-11-96, Catania, Brescia

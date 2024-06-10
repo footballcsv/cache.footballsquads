@@ -1,0 +1,23 @@
+# Spanish La Liga 2004/05
+
+20 teams
+- [Albacete](albacete.txt)
+- [Athletic Bilbao](abilbao.txt)
+- [Atlético Madrid](amadrid.txt)
+- [Barcelona](barce.txt)
+- [Betis](betis.txt)
+- [Deportivo La Coruña](lacoruna.txt)
+- [Espanyol](espanyol.txt)
+- [Getafe](getafe.txt)
+- [Levante](levante.txt)
+- [Málaga](malaga.txt)
+- [Mallorca](mallorca.txt)
+- [Numancia](numancia.txt)
+- [Osasuna](osasuna.txt)
+- [Racing Santander](racing.txt)
+- [Real Madrid](rmadrid.txt)
+- [Real Sociedad](sociedad.txt)
+- [Sevilla](sevilla.txt)
+- [Valencia](valencia.txt)
+- [Villarreal](villar.txt)
+- [Zaragoza](zaragoza.txt)

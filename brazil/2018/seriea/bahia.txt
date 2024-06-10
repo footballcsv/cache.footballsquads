@@ -1,0 +1,50 @@
+=  Bahia - Campeonato Brasileiro Série A 2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Douglas Friedrich, BRA, G, 1.94, 88, 12-12-88, Candelária, Corinthians
+2, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, Ponte Preta
+3, Tiago, BRA, D, 1.91, 89, 17-06-90, São Jorge d'Oeste, Atlético Mineiro
+4, Jackson, BRA, D, 1.86, 77, 01-05-90, Cuiabá, Internacional
+5, Flávio, BRA, M, 1.77, 73, 10-02-96, Santos, Santo André
+6, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, Fluminense
+7, Élber, BRA, F, 1.70, 63, 27-05-92, Passo de Camaragibe, Cruzeiro
+8, Agustín Allione, ARG, M, 1.69, 69, 28-10-94, Amenábar, Palmeiras
+9, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Yeni Malatyaspor
+10, Zé Rafael, BRA, M, 1.75, 71, 16-06-93, Ponta Grossa, Coritiba
+11, Edigar Junio, BRA, F, 1.75, 72, 06-05-91, Brasília, Atlético Paranaense
+12, Clayton, BRA, F, 1.73, 69, 23-10-95, Rio de Janeiro, Atlético Mineiro
+13, Douglas Grolli, BRA, D, 1.88, 79, 05-10-89, São Miguel do Oeste, Cruzeiro
+14, Luiz Henrique, BRA, M, 1.71, 64, 19-04-97, Maceió, Náutico
+15, Edson, BRA, M, 1.83, 75, 01-07-91, Touros, Fluminense
+16, Paulinho, BRA, D, 1.78, 71, 03-01-95, São Paulo, Santo André
+17, Elton, BRA, M, 1.80, 78, 17-03-90, Teodoro Sampaio, Ponte Preta
+18, Eric Ramires, BRA, M, 1.74, 67, 10-08-00, Salvador, None
+19, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Vissel Kobe
+21, Ignácio, BRA, D, 1.86, 79, 01-12-96, Açu, Força e Luz
+22, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, São Paulo
+23, Júnior Brumado, BRA, F, 1.90, 88, 15-05-99, Brumado, None
+25, Everson, BRA, D, 1.87, 67, 24-07-97, Salvador, None
+26, Gregore, BRA, M, 1.81, 78, 02-03-94, Juiz de Fora, Santos
+28, Lucas Fonseca, BRA, D, 1.90, 85, 02-08-85, Pedralva, Tianjin Teda
+29, Vinícius, BRA, M, 1.77, 75, 15-04-91, Curitiba, Atlético Paranaense
+30, Marco Antônio, BRA, M, 1.72, 65, 01-10-97, Belém, None
+31, Felipinho, BRA, M, 1.75, 66, 03-02-98, Natal, None
+32, Fernando, BRA, G, 1.95, 95, 30-03-97, Orlândia, None
+33, Anderson, BRA, G, 1.90, 83, 20-11-83, Recife, Novorizontino
+36, Willean Lepo, BRA, D, 1.82, 75, 16-01-97, Campos dos Goytacazes, Macaé
+37, Fernandinho, BRA, F, 1.74, 70, 19-07-97, São Luís, Noroeste
+39, Geovane Itinga, BRA, F, 1.83, 85, 10-03-98, Salvador, None
+41, Mayk, BRA, D, 1.72, 67, 31-08-99, Santo Antônio do Salto da Onça, América de Natal
+42, Joílson, BRA, M, , , 04-08-97, Salvador, Palmeiras
+43, Rodrigo Pelezinho, BRA, F, 1.71, 71, 10-09-95, Assaí, Cianorte
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, Palmeiras
+16, Rodrigo Becão, BRA, D, 1.91, 79, 19-01-96, Salvador, CSKA Moscow (On Loan)
+6, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Racing Club
+14, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, Re-Registered (6)
+21, Kayke, BRA, F, 1.82, 72, 01-04-88, Brasília, Yokohama F Marinos
+20, Régis, BRA, M, 1.70, 72, 30-11-92, Jales, Al-Wehda (On Loan)
+27, Ítalo, BRA, F, 1.78, 68, 29-07-97, Brasília, Bragantino

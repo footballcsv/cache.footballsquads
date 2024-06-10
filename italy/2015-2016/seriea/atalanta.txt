@@ -1,0 +1,51 @@
+=  Atalanta - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Boris Radunović, SRB, G, 1.94, 85, 26-05-96, Belgrade, Rad
+2, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Lazio
+3, Rafael Tolói, BRA, D, 1.85, 75, 10-10-90, Gloria d'Oeste, São Paulo
+4, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, None
+5, Andrea Masiello, ITA, D, 1.84, 82, 05-02-86, Viareggio, Bari
+6, Gianpaolo Bellini, ITA, D, 1.80, 75, 27-03-80, Sarnico, None
+7, Marco D'Alessandro, ITA, M, 1.73, 66, 17-02-91, Rome, Roma
+8, Giulio Migliaccio, ITA, M, 1.80, 81, 23-06-81, Mugnano di Napoli, Palermo
+10, Alejandro Gómez, ARG, M, 1.65, 68, 15-02-88, Capital Federal, Metalist Kharkiv
+11, Remo Freuler, SUI, M, 1.81, 77, 15-04-92, Ennenda, Luzern
+13, Serge Gakpé, TOG, M, 1.76, 75, 07-05-87, Bondy, Genoa
+15, Marten de Roon, NED, M, 1.85, 76, 29-03-91, Zwijndrecht, SC Heerenveen
+17, Carlos Carmona, CHI, M, 1.78, 68, 21-02-87, Coquimbo, Reggina
+21, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilia, Napoli
+22, Marco Borriello, ITA, F, 1.85, 85, 18-06-82, Naples, Carpi
+23, Alessandro Diamanti, ITA, F, 1.80, 73, 02-05-83, Prato, Guangzhou Evergrande
+24, Andrea Conti, ITA, D, 1.84, 76, 02-03-94, Lecco, None
+27, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Sassuolo
+28, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Lecce
+29, Gabriel Paletta, ITA, D, 1.90, 88, 15-02-86, Longchamps, Milan
+30, Davide Bassi, ITA, G, 1.90, 82, 12-04-85, Sarzana, Empoli
+33, Nicolò Cherubin, ITA, D, 1.88, 83, 02-12-86, Vicenza, Bologna
+43, Alessandro Turrin, ITA, G, 1.89, , 10-03-97, San Vito Al Tagliamento, None
+44, Anton Krešić, CRO, D, 1.78, 74, 29-01-96, Zagreb, Zagreb
+45, Gaetano Monachello, ITA, F, 1.85, 78, 03-03-94, Agrigento, Monaco
+51, Mauricio Pinilla, CHI, F, 1.87, 78, 04-02-84, San Bernardo, Genoa
+55, Berat Djimsiti, ALB, D, 1.90, 82, 19-02-93, Veliki Trnovac, Zürich
+57, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Poggibonsi
+77, Cristian Raimondi, ITA, M, 1.82, 78, 30-04-81, San Giovanni in Bianco, Livorno
+93, Boukary Dramé, SEN, D, 1.81, 74, 22-07-85, Villepinte, Chievo Verona
+95, Roberto Ranieri, ITA, M, 1.70, , 28-04-97, Treviglio, Tritium
+96, Matteo Gasperoni, ITA, M, 1.85, 75, 11-09-98, Cesena, Cesena
+97, Tiziano Tulissi, ITA, M, 1.74, 70, 21-07-97, Bergamo, None
+98, Stefano Mazzini, ITA, G, 1.91, 80, 06-12-98, Crema, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Bari (On Loan)
+89, Guido Marilungo, ITA, F, 1.75, 72, 09-08-89, Montegranaro, Virtus Lanciano (On Loan)
+4, Luigi Giorgi, ITA, M, 1.85, 75, 19-04-87, Ascoli Piceno, Ascoli (On Loan)
+85, Michele Canini, ITA, D, 1.87, 84, 05-06-85, Brescia, Ascoli (On Loan)
+11, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, León
+23, Emanuele Suagher, ITA, D, 1.92, 82, 26-11-92, Romano di Lombardia, Carpi (On Loan)
+9, Richmond Boakye, GHA, F, 1.85, 80, 28-01-93, Accra, Latina (On Loan)
+88, Alberto Grassi, ITA, M, 1.83, 75, 07-03-95, Brescia, Napoli
+19, Germán Denis, ARG, F, 1.83, 87, 10-09-81, Lomas de Zamora, Independiente
+20, Marcelo Estigarribia, PAR, M, 1.81, 70, 21-09-87, Fernando de la Mora, Deportivo Maldonado

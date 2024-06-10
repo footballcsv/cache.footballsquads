@@ -1,0 +1,54 @@
+=  Fleetwood Town - English Football League One 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cairns, ENG, G, 1.83, 72, 04-01-93, Doncaster, Rotherham U
+2, Lewis Coyle, ENG, D, 1.73, 67, 15-10-95, Kingston upon Hull, Leeds U
+3, Eddie Clarke, ENG, D, , , 29-12-98, , Tranmere R
+4, Jason Holt, SCO, M, 1.64, 65, 19-02-93, Edinburgh, Rangers
+5, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Rochdale
+7, Wes Burns, WAL, F, 1.73, 68, 28-10-95, Cardiff, Bristol C
+9, Ched Evans, WAL, F, 1.83, 76, 28-12-88, St Asaph, Sheffield U
+12, Harry Souttar, SCO, D, 1.98, 80, 22-10-98, Aberdeen, Stoke C
+14, Macauley Southam-Hales, WAL, D, 1.75, 69, 02-02-96, Cardiff, Barry Town U
+16, Paul Jones, ENG, G, 1.91, 83, 28-06-86, Maidstone, Norwich C
+17, Paddy Madden, IRL, F, 1.83, 76, 04-03-90, Dublin, Scunthorpe U
+18, Ryan Taylor, ENG, D, 1.73, 75, 19-08-84, Liverpool, ATK
+20, Craig Morgan, WAL, D, 1.87, 88, 16-06-85, St Asaph, Wigan Ath
+22, Ashley Hunter, ENG, F, 1.78, 67, 29-09-95, Derby, Ilkeston
+23, Ross Wallace, SCO, M, 1.68, 64, 23-05-85, Dundee, Sheffield W
+24, Ashley Nadesan, ENG, F, 1.88, 75, 09-09-94, Redhill, Horley T
+25, Dean Marney, ENG, M, 1.83, 72, 31-01-84, Barking, Burnley
+26, James Husband, ENG, D, 1.79, 65, 03-01-94, Leeds, Norwich C
+27, Harrison Biggins, ENG, M, 1.83, 79, 15-03-96, Sheffield, Stocksbridge Park Steels
+28, Jack Sowerby, ENG, M, 1.75, 78, 23-03-95, Preston, Squires Gate
+29, Nathan Sheron, ENG, D, 1.83, 64, 04-10-97, Whiston, Liverpool
+30, Barry Baggley, NIR, M, 1.76, 64, 11-01-02, Belfast, Glentoran
+31, Billy Crellin, ENG, G, 1.85, 60, 30-01-00, Blackpool, None
+32, Lewis Baines, ENG, D, , , 10-10-98, Brighton, None
+33, James Hill, ENG, D, 1.84, 73, 10-01-02, Bristol, None
+34, Ged Garner, ENG, F, 1.88, 73, 02-11-98, Liverpool, None
+35, Ryan Rydel, ENG, D, 1.81, 75, 09-02-01, Oldham, None
+36, Jay Matete, ENG, M, 1.73, 61, 11-02-01, Lambeth, Reading
+37, Jamie Cooke, ENG, M, 1.77, 72, 28-01-02, Liverpool, None
+38, James Wallace, ENG, M, 1.80, 80, 19-12-91, Fazackerly, Tranmere R
+39, Dylan Boyle, NIR, M, 1.72, 60, 15-01-02, Belfast, None
+40, Dan Mooney, WAL, F, 1.81, 74, 03-07-99, Trafford, None
+41, Harrison Holgate, ENG, D, 1.86, 70, 01-07-00, Leeds, None
+42, Shayden Morris, ENG, F, 1.83, 68, 30-03-02, Newham, Southend U
+43, Liam Goldsborough, ENG, D, , , , , Sunderland
+44, Sam O'Halleron, ENG, F, , , , , None
+45, Laurence Smith, ENG, M, 1.81, 72, 19-09-00, Liverpool, Bolton W
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Joe Maguire, ENG, D, 1.79, 70, 18-01-96, Manchester, Crawley T (On Loan)
+11, Bobby Grant, ENG, M, 1.80, 76, 01-07-90, Blackpool, Wrexham
+6, Tommy Spurr, ENG, D, 1.86, 72, 13-09-87, Leeds, Preston NE
+8, Kyle Dempsey, ENG, M, 1.78, 75, 17-09-95, Whitehaven, Peterborough U (On Loan)
+14, Chris Long, ENG, F, 1.69, 77, 25-02-95, Huyton, Blackpool
+12, Cian Bolger, IRL, D, 1.93, 79, 12-03-92, Kildare, Lincoln C
+30, Michael Donohue, ENG, M, 1.78, 58, 12-11-97, Warrington, FCUM
+10, Conor McAleny, ENG, F, 1.78, 79, 12-08-92, Liverpool, Kilmarnock (On Loan)
+19, Gethin Jones, WAL, D, 1.78, 74, 13-10-95, Perth [AUS], Mansfield T (On Loan)
+21, Matt Urwin, ENG, G, 1.85, 76, 28-11-93, Blackpool, Chorley

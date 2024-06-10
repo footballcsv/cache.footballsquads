@@ -1,0 +1,54 @@
+=  Treviso - Italian Serie B 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jefferson Trazzi, ITA, G, 1.85, 80, 30-03-91, Atalaia, None
+2, Luca Mezzano, ITA, D, 1.81, 70, 01-08-77, Turin, Bologna
+3, Alessandro Dal Canto, ITA, D, 1.77, 70, 10-03-75, Castelfranco Veneto, AlbinoLeffe
+5, Massimiliano Scaglia, ITA, M, 1.80, 73, 21-05-77, Turin, Bari
+6, Giuseppe Scurto, ITA, D, 1.90, 75, 05-01-84, Alcamo, Chievo Verona
+7, Alejandro Frezzotti, ARG, M, 1.75, 75, 15-02-84, Monte Buey, Chacarita Juniors
+8, Vicente, BRA, M, 1.76, 70, 18-02-89, Cruzeiro do Sul, Campo Grande
+9, Antonino Ragusa, ITA, F, 1.81, 72, 27-03-90, Catania, None
+10, Gianni Guigou, URU, M, 1.76, 72, 22-02-75, Nueva Palmira, Fiorentina
+11, Vlado Šmit, SRB, D, 1.80, 67, 06-04-80, Sremsca Mitrovica, Bologna
+13, Giovanni Martina, ITA, D, , , 20-01-87, Vittorio Veneto, None
+14, Riccardo Musetti, ITA, F, 1.79, 73, 24-03-83, Carrara, Massese
+15, Lamin Diallo, SVN, D, 1.85, , 07-12-91, , None
+16, Alessandro Moro, ITA, M, 1.81, 73, 02-10-84, Latisana, Udinese
+17, GianMarco Zigoni, ITA, F, 1.88, 80, 10-05-91, Verona, None
+18, William Pianu, ITA, D, 1.80, 77, 07-12-75, Turin, Bari
+19, Divine Fonjock, CMR, M, 1.78, 75, 16-01-87, Kumba, None
+20, Nicolo' Faccinetto, ITA, M, , , , , None
+21, Daniele Quadrini, ITA, M, 1.75, 70, 12-07-80, Rome, Teramo
+23, Daniele Pedrelli, ITA, D, 1.82, 74, 16-05-88, Fivizzano, Internazionale
+24, Marco Martin, ITA, D, 1.76, 68, 25-12-87, Pordenone, None
+25, Wilker, BRA, F, 1.75, 68, 16-06-87, Bahia, None
+26, Sergio Ercolano, ITA, F, 1.89, 85, 08-05-82, Naples, Perugia
+27, Vanderson Scarduelli, BRA, D, 1.76, 75, 27-09-84, Dracena, Campo Grande
+30, Riccardo Gissi, ITA, M, 1.79, 75, 23-03-80, Barletta, Reggiana
+31, Marco Zaninelli, ITA, D, 1.82, 73, 25-04-77, Tione di Trento, Lumezzane
+57, Rocco Pellegrino, ITA, G, 1.82, 82, 12-02-84, Foggia, Spezia
+70, Simone Missiroli, ITA, M, 1.90, 75, 23-05-86, Reggio Calabria, Reggina
+71, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Internazionale
+74, Matteo Guardalben, ITA, G, 1.88, 85, 05-06-74, Nogara, Vicenza
+77, Dario Baccin, ITA, D, 1.83, 70, 27-08-76, Verona, Rimini
+83, Fernando Cafasso, ARG, D, 1.79, 69, 09-02-83, Jacinto Araoz, Guaraní [PAR]
+85, Alberto Galuppo, ITA, D, 1.87, 74, 19-08-85, Reggio Emilia, Parma
+88, Salvatore Foti, ITA, F, 1.92, 76, 08-08-88, Palermo, Udinese
+99, Federico Piovaccari, ITA, F, 1.81, 77, 01-09-84, Gallarate, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Alfonso Camorani, ITA, M, 1.79, 74, 21-02-78, Cercola, Pescara
+20, Alberto Frison, ITA, G, 1.90, 72, 22-01-88, Mirano, Vicenza
+87, Luca Tedeschi, ITA, D, 1.90, 77, 27-02-87, Bologna, Ternana (On Loan)
+7, Ivano Trotta, ITA, M, 1.77, 72, 12-10-77, Rome, Ravenna (On Loan)
+22, Marco Cristini, ITA, M, 1.86, 74, 17-09-85, Pinerolo, Canavese (On Loan)
+32, Fabrizio Mineo, ITA, M, , , 05-04-87, Rome, Juve Stabia
+55, Daniel Maa Boumsong, CMR, M, 1.86, 77, 20-03-87, Ngambe, Rovigo (On Loan)
+28, Davide Carcuro, ITA, M, 1.77, 70, 28-05-87, Treviso, Crotone (On Loan)
+15, Leonardo Bonucci, ITA, D, 1.90, 82, 01-05-87, Viterbo, Internazionale
+8, Roberto D'Aversa, ITA, M, 1.85, 75, 12-08-75, Stuttgart, Mantova (On Loan)
+9, Luigi Beghetto, ITA, F, 1.84, 80, 06-07-73, Bassano sul Grappa, Bellinzona
+7, Simone Palermo, ITA, M, 1.76, 72, 17-08-88, Rome, Pistoiese (On Loan)

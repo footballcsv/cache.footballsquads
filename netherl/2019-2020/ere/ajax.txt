@@ -1,0 +1,47 @@
+=  Ajax - Dutch Eredivisie 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bruno Varela, POR, G, 1.91, 84, 04-11-94, Lisbon, Benfica
+2, Perr Schuurs, NED, D, 1.93, 80, 26-11-99, Nieuwstadt, Fortuna Sittard
+3, Joël Veltman, NED, D, 1.84, 75, 15-01-92, IJmuiden, None
+4, Edson Álvarez, MEX, D, 1.85, 73, 24-10-97, Tlalnepantla de Baz, América
+5, Kik Pierie, USA, D, 1.83, 70, 20-07-00, Boston, SC Heerenveen
+6, Donny van de Beek, NED, M, 1.87, 73, 18-04-97, Nijkerkerveen, None
+7, David Neres, BRA, F, 1.77, 74, 03-03-97, São Paulo, São Paulo
+8, Carel Eiting, NED, M, 1.81, 74, 11-02-98, Amsterdam, None
+9, Klaas Jan Huntelaar, NED, F, 1.86, 80, 12-08-83, Drempt, Schalke
+10, Dušan Tadić, SRB, M, 1.81, 76, 20-11-88, Bačka Topola, Southampton
+11, Quincy Promes, NED, M, 1.74, 72, 04-01-92, Amsterdam, Sevilla
+12, Noussair Mazraoui, MAR, D, 1.78, 63, 14-11-97, Leiderdorp, None
+17, Daley Blind, NED, D, 1.80, 72, 09-03-90, Amsterdam, Manchester U
+18, Răzvan Marin, ROU, M, 1.77, 70, 23-05-96, Bucharest, Standard Liège
+19, Zakaria Labyad, MAR, M, 1.70, 65, 09-03-93, Utrecht, FC Utrecht
+21, Lisandro Martínez, ARG, D, 1.78, 77, 18-01-98, Gualeguay, Defensa y Justicia
+22, Hakim Ziyech, MAR, M, 1.80, 70, 19-03-93, Dronten, FC Twente
+23, Lassina Traoré, BFA, F, 1.83, 75, 12-01-01, Bobo-Dioulasso, Ajax Cape Town
+24, André Onana, CMR, G, 1.90, 82, 02-04-96, Nkol Ngok, Barcelona
+26, Jurgen Ekkelenkamp, NED, M, 1.83, 75, 05-04-00, Zeist, None
+28, Sergiño Dest, USA, D, 1.70, 62, 03-11-00, Almere, Almere C
+29, Ryan Gravenberch, NED, M, 1.87, 75, 16-05-02, Amsterdam, None
+31, Nicolás Tagliafico, ARG, D, 1.72, 65, 31-08-92, Rafael Calzada, Independiente
+33, Dominik Kotarski, CRO, G, 1.85, 75, 10-02-00, Zabok, Dinamo Zagreb
+35, Kjell Scherpen, NED, G, 2.02, 85, 23-01-00, Emmen, FC Emmen
+37, Naci Ünüvar, NED, M, 1.68, 60, 13-06-03, Zaandam, None
+40, Sontje Hansen, NED, F, 1.72, 65, 18-05-02, Hoorn, None
+41, Jurrien Timber, NED, D, 1.79, 75, 17-06-01, Utrecht, Feyenoord
+45, Boy Kemper, NED, D, 1.85, 79, 21-06-99, Purmerend, FC Volendam
+47, Danilo, BRA, F, 1.74, 67, 07-04-99, São Paulo, Santos
+48, Juan Castillo, NED, M, 1.80, 77, 13-01-00, Amsterdam, Chelsea
+49, Ryan Babel, NED, F, 1.85, 78, 19-12-86, Amsterdam, Galatasaray
+52, Issam El Maach, MAR, G, 1.83, 75, 01-02-00, Heerlen, Vitesse
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Lasse Schøne, DEN, M, 1.77, 73, 27-05-86, Glostrup, Genoa
+25, Kasper Dolberg, DEN, F, 1.87, 82, 06-10-97, Silkeborg, Nice
+30, Dani de Wit, NED, M, 1.83, 75, 28-01-98, Hoorn, AZ Alkmaar
+16, Lisandro Magallán, ARG, D, 1.84, 77, 27-09-93, La Plata, Alavés (On Loan)
+27, Noa Lang, NED, F, 1.78, 74, 17-06-99, Capelle aan den IJssel, FC Twente (On Loan)
+32, Hassane Baldé, BFA, F, 1.78, 68, 31-10-98, Ouagadougou, Thun (On Loan)
+15, Siem de Jong, NED, M, 1.85, 76, 28-01-89, Aigle, FC Cincinnati

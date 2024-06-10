@@ -1,0 +1,21 @@
+# Japanese J.League 2014
+
+18 teams
+- [Albirex Niigata](albirex.txt)
+- [Cerezo Osaka](cerezo.txt)
+- [Gamba Osaka](gamba.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kashiwa Reysol](kashiwa.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Nagoya Grampus](nagoya.txt)
+- [Omiya Ardija](omiya.txt)
+- [Sagan Tosu](sagan.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shimizu S-Pulse](shimizu.txt)
+- [Tokushima Vortis](tokushima.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Vegalta Sendai](vegalta.txt)
+- [Ventforet Kofu](ventfor.txt)
+- [Vissel Kobe](vissel.txt)
+- [Yokohama F Marinos](yokohama.txt)

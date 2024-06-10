@@ -1,0 +1,30 @@
+=  Atlas - Mexican Liga MX 2021/2022 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Hernández, MEX, G, 1.83, 75, 01-05-97, Guadalajara, None
+2, Hugo Nervo, ARG, D, 1.83, 82, 06-01-91, San Nicolás, Santos Laguna
+4, José Abella, MEX, D, 1.75, 71, 10-02-94, Córdoba, Santos Laguna
+5, Anderson Santamaría, PER, D, 1.85, 80, 10-01-92, Tingo María, Puebla
+6, Edgar Zaldivar, MEX, M, 1.73, 67, 17-10-96, San Luis Potosí, None
+9, Julio César Furch, ARG, F, 1.79, 74, 29-07-89, Santa Rosa, Santos Laguna
+10, Gonzalo Maroni, ARG, M, 1.70, 67, 18-03-99, Córdoba, Boca Juniors
+11, Bryan Garnica, MEX, M, 1.60, 51, 27-05-96, Nezahualcóyotl, Santos Laguna
+12, Camilo Vargas, COL, G, 1.85, 81, 09-03-89, Bogotá, Deportivo Cali
+13, Gaddi Aguirre, MEX, D, 1.73, 58, 31-03-96, Guadalajara, None
+14, Luis Reyes, MEX, D, 1.81, 66, 03-04-91, Monterrey, América
+15, Diego Barbosa, MEX, D, 1.73, 70, 25-09-96, Guadalajara, None
+18, Ángel Márquez, MEX, M, 1.77, 68, 21-06-00, Guadalajara, None
+19, Edyairth Ortega, MEX, M, 1.76, 64, 23-01-97, Jalisco, None
+21, Aníbal Chalá, ECU, D, 1.78, 72, 09-05-96, Mira, Toluca
+22, Franco Troyansky, ARG, F, 1.75, 70, 06-03-97, Algarrobo, Unión (Santa Fe)
+23, Alejandro Gómez, MEX, D, 1.83, 72, 31-01-02, Hermosillo, None
+26, Aldo Rocha, MEX, M, 1.65, 62, 06-11-92, León, Mazatlán
+28, Christopher Trejo, MEX, F, 1.78, 79, 02-12-99, Guadalupe, None
+29, Emanuel Aguilera, ARG, D, 1.88, 76, 11-06-89, Guaymallén, América
+32, Lucas Rodríguez, URU, M, 1.68, 56, 25-02-97, Florida, Montevideo City Torque
+33, Julian Quiñones, COL, F, 1.77, 76, 24-03-97, Nariño, UANL Tigres
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Jairo Torres, MEX, M, 1.68, 71, 05-07-00, Guadalajara, Chicago Fire

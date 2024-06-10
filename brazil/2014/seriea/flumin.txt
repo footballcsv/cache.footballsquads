@@ -1,0 +1,51 @@
+=  Fluminense - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kléver, BRA, G, 1.88, 82, 20-06-89, Mirassol, None
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Tombense
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+5, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Tombense
+6, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Santo André
+7, Jean, BRA, M, 1.70, 70, 24-06-86, Campo Grande, São Paulo
+8, Diguinho, BRA, M, 1.71, 69, 20-03-83, Canoas, Botafogo
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Lyon
+10, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Gaziantepspor
+11, Darío Conca, ARG, M, 1.67, 62, 11-05-83, Capital Federal, Guangzhou Evergrande
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+13, Chiquinho, BRA, M, 1.70, 70, 27-01-89, Caxias, Ponte Preta
+14, Elivélton, BRA, D, 1.80, 82, 10-05-92, Bom Jardim, None
+15, Rafinha, BRA, M, 1.77, 74, 05-08-93, Rio de Janeiro, None
+16, Renato, BRA, D, 1.75, 65, 19-01-90, Maceió, Sport Recife
+17, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, Atlético Paranaense
+18, Walter, BRA, F, 1.76, 86, 22-07-89, Recife, FC Porto
+19, Edson, BRA, M, 1.83, 75, 01-07-91, Touros, São Bernardo
+20, Guilherme Mattis, BRA, D, 1.93, 90, 12-09-90, São Paulo, Bragantino
+21, Henrique, BRA, D, 1.88, 78, 02-05-83, São Gonçalo, Bordeaux
+22, Felipe, BRA, G, 1.90, 79, 10-01-88, São Vicente, Náutico
+23, Rafael Sobís, BRA, F, 1.72, 73, 17-06-85, Erechim, Al-Jazira
+25, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Getafe
+26, Fernando, BRA, D, 1.79, 68, 27-01-93, São Domingos, Paços de Ferreira
+27, Fabricio, BRA, D, 1.86, 82, 20-02-90, Rio de Janeiro, Desportivo Brasil
+28, Robert, BRA, M, 1.75, 70, 28-09-96, São Gonçalo, None
+29, Biro Biro, BRA, F, 1.69, 60, 22-11-94, Rio de Janeiro, Nova Iguaçu
+30, Kenedy, BRA, F, 1.81, 77, 08-02-96, Santa Rita do Sapucaí, None
+31, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, None
+33, Marcos Felipe, BRA, G, 1.88, 75, 13-04-96, Linhares, None
+36, Marlon, BRA, M, 1.82, 80, 07-09-95, Duque de Caxias, None
+38, Matheus Carvalho, BRA, F, 1.77, 70, 11-03-92, Niterói, None
+39, Ailton, BRA, D, 1.81, 70, 16-03-95, Pilar, None
+40, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Desportivo Brasil
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Wellington Silva, BRA, D, 1.77, 88, 06-03-88, Rio de Janeiro, Internacional (On Loan)
+21, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, Vitória (On Loan)
+26, Ronan, BRA, D, 1.77, 66, 29-08-94, Vitória, Legia Warszawa (On Loan)
+4, Leandro Euzébio, BRA, D, 1.87, 83, 18-08-81, Cabo Frio, Al-Khor
+16, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, Sport Recife (On Loan)
+31, Higor, BRA, M, 1.77, 62, 02-06-93, Goiás, Criciúma (On Loan)
+20, Michael, BRA, F, 1.86, 80, 19-04-93, São Francisco de Sales, Criciúma (On Loan)
+31, Samuel, BRA, F, 1.85, 83, 25-02-91, São Borja, Goiás (On Loan)
+32, Fábio Braga, POR, M, 1.84, 87, 06-09-92, Lisbon, América de Natal (On Loan)
+34, Wellington Carvalho, BRA, D, 1.85, 84, 15-02-93, Duque de Caxias, Ceará (On Loan)

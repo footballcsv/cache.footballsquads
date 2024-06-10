@@ -1,0 +1,65 @@
+=  Kuban Krasnodar - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Aleksei Botvinyev, RUS, G, 1.94, 92, 25-06-81, Kolomna, Saturn
+2, Francisco Zuela, ANG, D, 1.83, 82, 03-08-83, Luanda, Skoda Xanthi
+3, Viktor Dmitrenko, RUS, D, 1.90, 80, 04-04-91, , Kuban-2
+4, Krzysztof Łągiewka, POL, D, 1.89, 79, 23-01-83, Zambrów, Krylia Sovetov
+5, Andrei Mureşan, ROU, M, 1.90, 79, 01-08-85, Turda, Gloria Bistriţa
+7, Ilya Dolmatov, RUS, F, 1.83, 78, 23-06-85, Moscow, Nika Moscow
+8, Artur Tlisov, RUS, M, 1.80, 71, 10-06-82, Cherkessk, CSKA Moscow
+9, Marco Né, CIV, M, 1.83, 70, 17-07-83, Abidjan, Germinal Beerschot
+10, Andrey Topchu, RUS, M, 1.81, 79, 17-04-80, Krasnodar, FC Moscow
+12, Haminu Draman, GHA, M, 1.73, 73, 28-04-86, Accra, Lokomotiv Moscow
+14, Anri Khagush, RUS, D, 1.77, 74, 23-09-86, Gagra, Rubin Kazan
+15, Maksim Zhavnerchik, BLR, M, 1.79, 70, 09-02-85, Salihorsk, BATE
+17, Draman Traoré, MLI, F, 1.92, 82, 17-06-82, Bamako, Lokomotiv Moscow
+18, Azat Bairyyev, RUS, D, 1.84, 75, 17-02-89, Balkanabat, Kuban-2
+19, Aleksey Skvernyuk, BLR, M, 1.71, 62, 13-10-85, Minsk, Krylia Sovetov
+22, Aslan Zaseev, RUS, D, 1.75, 80, 07-03-82, Vladikavkaz, Chernomorets
+23, Georgiy Dzhioev, RUS, D, 1.92, 85, 13-06-86, Vladikavkaz, Fakel Voronezh
+25, Andrey Ushenin, RUS, D, 1.90, 81, 01-12-83, , Spartak Anapa
+27, Elbrus Zuraev, RUS, D, 1.75, 75, 12-05-82, Vladikavkaz, KamAZ
+28, Igor Shevchenko, RUS, F, 1.80, 70, 02-02-85, Samara, Terek Grozny
+30, Haruna Babangida, NGA, F, 1.66, 66, 01-10-82, Kaduna, Apollon Limassol
+32, Emmanuel Okoduwa, NGA, F, 1.85, 87, 21-11-83, Lagos, Dynamo Kiev
+33, Irakli Kvekveskiri, GEO, D, 1.78, 70, 12-03-90, , Dynamo Moscow-2
+34, Aleksandr Khokhlov, RUS, D, 1.76, 66, 30-09-88, St. Petersburg, Zenit
+36, Aleksey Stepanov, RUS, G, 1.90, 87, 05-12-77, Izevsk, Shinnik
+40, Aleksandr Karibov, RUS, M, 1.75, 63, 04-03-92, , Kuban-2
+41, Evgeniy Puzin, RUS, G, 1.91, 84, 20-03-90, , Kuban-2
+42, Pavel Minenko, RUS, D, 1.87, 83, 04-04-89, , Kuban-2
+44, Anton Kabanov, RUS, F, 1.75, 66, 11-02-91, , Kuban-2
+45, Sergey Voronov, RUS, F, 1.84, 70, 02-06-90, , Kuban-2
+50, Bunyamudin Mustafayev, RUS, M, 1.79, 70, 07-09-92, , Kuban-2
+55, Sergey Pominov, RUS, D, 1.82, 69, 27-08-91, , Kuban-2
+60, Artem Dolzhenko, RUS, M, 1.76, 67, 12-11-91, , Kuban-2
+63, Aleksandr Avanesyan, RUS, M, 1.74, 69, 08-01-90, , Kuban-2
+66, Evgeniy Kurdus, RUS, M, 1.70, 61, 08-04-92, , Kuban-2
+69, Sergey Gorelov, RUS, D, 1.75, 61, 21-07-92, , Kuban-2
+70, Aleksey Chuev, RUS, G, 1.90, 79, 10-05-92, , Kuban-2
+72, Maksim Kovalchuk, RUS, D, 1.84, 75, 28-02-92, , Kuban-2
+75, Dmitriy Miroshnichenko, RUS, M, 1.83, 70, 26-02-92, , Kuban-2
+77, Vyacheslav Marikoda, RUS, G, 1.85, 70, 27-03-91, , Kuban-2
+85, Bogdan Karyukin, RUS, G, 1.84, 92, 20-08-85, Barnaul, Metallurg-Kuzbass
+88, William Boaventura, BRA, D, 1.80, 73, 14-02-80, , Metalurh Donetsk
+89, Vladislav Dubrov, RUS, M, 1.74, 65, 05-05-89, , Kuban-2
+90, Anton Vinnikov, RUS, M, 1.76, 70, 22-03-90, , Kuban-2
+91, Vitaliy Shakhov, RUS, D, 1.88, 74, 09-01-91, Severny, Kuban-2
+92, Ruslan Slinko, RUS, M, 1.70, 60, 07-02-92, , Kuban-2
+93, Andrey Arefev, RUS, F, 1.87, 81, 04-05-93, , Kuban-2
+94, Renat Baratov, RUS, F, 1.84, 67, 30-04-91, , Kuban-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Artush Galstyan, RUS, M, 1.79, 70, 22-01-90, , Nika Moscow
+13, Sreten Sretenović, SRB, D, 1.92, 92, 12-01-85, Čačak, Zagłębie Lubin (On Loan)
+21, Aleksandr Tikhonovetskiy, RUS, F, 1.84, 78, 11-04-79, Nahodka, Luch-Energia (On Loan)
+37, Evgeniy Odintsov, RUS, M, 1.79, 70, 19-07-89, , FC Taganrog
+43, Roman Bugaev, RUS, D, 1.81, 70, 11-02-89, Bratsk, Torpedo Armavir (On Loan)
+20, Dmytro Horbushyn, UKR, M, 1.76, 71, 31-05-86, Rubezhniy, Dynamo Kiev-2
+99, Aliaksei Kuchuk, BLR, F, 1.77, 75, 09-09-86, Minsk, Sheriff Tiraspol (On Loan)
+11, Alan Kasaev, RUS, M, 1.73, 67, 08-04-86, Vladikavkaz, Rubin Kazan
+65, Roman Polovov, RUS, D, 1.83, 82, 09-02-90, , Krylia Sovetov
+80, Sani Kaita, NGA, M, 1.79, 73, 02-05-86, Kano, Monaco

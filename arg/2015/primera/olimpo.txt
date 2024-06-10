@@ -1,0 +1,44 @@
+=  Olimpo (Bahía Blanca) - Argentinian Primera División 2015
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nereo Champagne, ARG, G, 1.88, 88, 20-01-85, Salto, San Lorenzo
+2, Iván Furios, ARG, D, 1.85, 79, 20-05-79, Paraná, Aldosivi (Mar del Plata)
+3, Cristian Villanueva, ARG, D, 1.79, 68, 25-12-83, General Roca, Deportivo Roca
+4, Adrián Martínez, ARG, M, 1.77, 71, 13-02-92, Capital Federal, San Lorenzo
+5, Juan Cobo Gálvez, ARG, M, 1.80, 80, 26-11-84, Córdoba [ARG], O'Higgins
+6, Néstor Moiraghi, ARG, D, 1.83, 83, 19-04-85, Cipoletti, Defensor Sporting
+7, Joel Acosta, ARG, M, 1.74, 76, 16-01-91, Villa Gobernador Gálvez, Boca Juniors
+8, Hugo Colace, ARG, M, 1.77, 73, 06-01-84, Capital Federal, All Boys
+9, Gonzalo Klusener, ARG, F, 1.85, 80, 21-10-83, Oberá, Talleres (Córdoba)
+10, Orlando Gaona Lugo, PAR, F, 1.77, 75, 25-07-90, Villa Hayes, Boca Juniors
+12, Ezequiel Viola, ARG, G, 1.89, 86, 01-09-87, Bahía Blanca, None
+13, Luca Orozco, ARG, D, 1.88, 90, 15-04-95, Bahía Blanca, None
+14, Marcelo Herrera, ARG, D, 1.85, 78, 26-02-92, Ledesma, Lanús
+16, Juan Quiroga, ARG, D, 1.79, 78, 20-04-82, Monteguay, Gimnasia y Esgrima (LP)
+17, Joel Amoroso, ARG, M, 1.83, 72, 08-01-88, Rosario, Unión (Mar del Plata)
+18, Jonathan Blanco, ARG, M, 1.84, 81, 29-04-87, José C. Paz, Aldosivi (Mar del Plata)
+19, Jacobo Mansilla, ARG, M, 1.80, 73, 15-06-87, Castelli, Colón (Santa Fe)
+20, David Vega, ARG, M, 1.77, 79, 17-11-80, Guiñazú, Defensa y Justicia
+21, Juan Sills, ARG, D, 1.80, 76, 04-05-87, San Antonio de Areco, Universidad de Chile
+22, Marcelo Vidal, ARG, M, 1.77, 77, 15-01-91, Capital Federal, Independiente
+23, Rodrigo Saracho, ARG, G, 1.93, 86, 06-01-94, General Pacheco, Arsenal [ARG]
+24, Exequiel Parnisari, ARG, D, 1.85, 78, 01-06-90, San Luis, River Plate
+25, Elías Borrego, ARG, M, 1.80, 70, 19-07-90, Capital Federal, Douglas Haig (Pergamino)
+27, Diego Sosa, ARG, M, 1.67, 64, 24-10-91, Tandil, Tiro Federal (BB)
+28, Walter Acuña, ARG, F, 1.77, 70, 04-04-92, San Nicolás, Rosario Central
+30, Enrique Blanco, ARG, M, 1.65, 63, 19-04-97, Punta Alta, None
+31, Áxel Rodríguez, ARG, F, 1.80, 75, 25-03-97, Bahía Blanca, None
+32, Hernán Encina, ARG, M, 1.63, 65, 03-11-82, Rosario, Rosario Central
+33, Matías Porcari, ARG, M, 1.75, 75, 12-04-86, Laguna Larga, Juventud
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Emanuel Bilbao, ARG, G, 1.78, 74, 03-11-89, Pringles, Guillermo Brown (PM) (On Loan)
+25, Luciano Nequecaur, ARG, F, 1.92, 87, 19-07-92, Capital Federal, Stranraer
+28, Ignacio Torres, ARG, G, 1.84, 75, 01-11-93, Necochea, De-Registered
+30, Javier Soñer, ARG, F, 1.74, 69, 19-03-95, Corrientes, De-Registered
+11, Nicolás Royón, URU, F, 1.72, 66, 28-01-91, Las Piedras, Liverpool [URU]
+31, Lucas Vera Piris, ARG, F, 1.77, 77, 02-01-94, Lanús, 
+15, Álex Bolaños, ECU, M, 1.73, 69, 22-01-85, San Lorenzo [ECU], Barcelona [ECU]
+29, Ezequiel Vidal, ARG, F, 1.83, 70, 02-08-95, Bahía Blanca, Independiente (On Loan)

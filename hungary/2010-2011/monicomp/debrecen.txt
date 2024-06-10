@@ -1,0 +1,56 @@
+=  Debrecen - Hungarian Monicomp Liga 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vukašin Radomir Poleksić, MNE, G, 1.94, 92, 30-08-82, Nikšić, Tatabánya
+2, István Szűcs, HUN, D, 1.90, 73, 03-05-85, Debrecen, DSI
+4, Dajan Simac, GER, D, 1.90, 87, 04-01-82, Bingen, FSV Frankfurt
+5, Gyula Illés, HUN, M, 1.78, 72, 09-11-82, Vásrosnamény, Zalaegerszeg
+6, Luis Arcangel Ramos, HON, M, 1.78, 72, 11-04-85, San Pedro Sula, Nyíregyháza
+7, Tibor Dombi, HUN, M, 1.74, 73, 11-11-73, Püspökladány, Utrecht
+8, Balázs Nikolov, HUN, M, 1.81, 71, 04-07-77, Bonyhád, Paks
+10, Balázs Farkas II, HUN, F, 1.76, 69, 24-04-88, Nyíregyháza, Dynamo Kiev
+11, Péter Kabát, HUN, F, 1.82, 74, 25-09-77, Budapest, Újpest
+12, Miklós Erdélyi, HUN, G, 1.93, 93, 30-03-81, Debrecen, Nyíregyháza
+14, Eugène Salami, NGA, F, 1.82, 79, 05-02-89, Abuja, Niger Tornadoes
+16, Ádám Komlósi, HUN, D, 1.90, 80, 06-12-77, Budapest, MTK
+17, Norbert Mészáros, HUN, D, 1.91, 85, 19-08-80, Pápa, Energie Cottbus
+19, Vinicius Galvão, BRA, F, 1.86, 70, 12-08-89, Porto Alegre, Grêmio
+20, Mbengono Ondoa Yannick, CMR, F, 1.67, 70, 11-06-87, Yaoundé, Kecskemét
+21, Marcell Fodor, HUN, D, 1.83, 76, 27-10-87, Székesfehérvár, Diósgyőr
+22, Csaba Bernáth, HUN, D, 1.77, 70, 26-03-79, Debrecen, Royal Antwerp
+24, Mirsad Mijadinoski, MKD, D, 1.89, 87, 01-10-81, Struga, Sion
+25, Norbert Mokánszki, HUN, F, 1.85, 78, 08-07-89, Nyíregyháza, Létavértes
+27, Ádám Bódi, HUN, M, 1.75, 65, 01-11-90, Nyíregyháza, DSI
+28, Zoltán Nagy, HUN, D, 1.87, 80, 25-10-85, Debrecen, DSI
+29, István Spitzmüller, HUN, M, 1.76, 72, 14-05-86, Debrecen, DSI
+31, Mindaugas Malinauskas, LTU, G, 1.90, 84, 11-08-83, Kaunas, Diósgyőr
+33, József Varga, HUN, M, 1.75, 71, 06-06-88, Debrecen, DSI
+34, János Ferenczi, HUN, M, 1.80, 65, 03-04-91, Debrecen, DSI
+35, Bence Ludánszki, HUN, M, 1.84, 75, 25-10-90, Debrecen, DSI
+37, Lucas Marcolini, BRA, M, 1.76, 70, 06-05-89, Cornélio Procópio, Atlético Paranaense
+38, Szabolcs Csorba, HUN, F, 1.80, 75, 24-10-91, Debrecen, MTK
+39, Adamo Coulibaly, FRA, F, 1.87, 81, 14-08-81, Paris, Royal Antwerp
+45, Nenad Novaković, SRB, G, 1.93, 85, 17-07-82, Užice, FC Nordsjælland
+46, Etogo Awoundza Essama, CMR, F, 1.88, 83, 09-10-88, , Sestese
+50, Ştefan Mardare, ROU, D, 1.82, 81, 03-12-87, Bacău, Rapid Bucureşti
+55, Péter Szakály, HUN, M, 1.82, 70, 17-08-86, Nagyatád, Kaposvár
+70, Tamás Kulcsár, HUN, F, 1.85, 73, 13-10-82, Debrecen, Polonia Warszawa
+77, Péter Czvitkovics, HUN, M, 1.78, 76, 10-02-83, Székesfehérvár, MTK
+87, István Verpecz, HUN, G, 1.96, 87, 04-02-87, Szikszó, Diósgyőr
+88, Tamás Huszák, HUN, M, 1.86, 76, 02-10-88, Miskolc, Diósgyőr
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Dávid Mohl, HUN, D, 1.79, 72, 28-04-85, Győr, Kecskemét (On Loan)
+41, Szilárd Éles, HUN, M, 1.79, 72, 01-10-87, Debrecen, Mezőkövesd (On Loan)
+81, Attila Katona, HUN, D, 1.89, 82, 16-06-81, Eger, Siófok
+32, Predrag Pavlović, SRB, M, 1.77, 69, 19-06-86, Belgrade, Metalac Gornji Milanovac
+86, Zsolt Laczkó, HUN, M, 1.83, 72, 18-12-86, Szeged, Sampdoria
+30, Zoltán Kiss, HUN, M, 1.82, 79, 18-08-80, Püspökladány, Panserraikos
+69, Mihály Korhut, HUN, D, 1.81, 76, 01-12-88, Miskolc, Kaposvár (On Loan)
+15, László Rezes, HUN, M, 1.73, 65, 12-08-87, Debrecen, Vasas (On Loan)
+23, Péter Szilágyi, HUN, F, 1.82, 70, 26-01-88, Debrecen, Vasas (On Loan)
+12, Djordje Pantić, SRB, G, 1.98, 99, 27-01-80, Belgrade, 
+18, Péter Máté, HUN, D, 1.95, 92, 02-12-84, Püspökladány, Szolnok (On Loan)
+91, Ádám Balajti, HUN, F, 1.87, 82, 07-03-91, Eger, Újpest (On Loan)

@@ -1,0 +1,48 @@
+=  Kyoto Sanga - Japanese J1 League 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomoya Wakahara, JPN, G, 1.85, 84, 28-12-99, Kusatsu, None
+2, Takahiro Iida, JPN, D, 1.79, 73, 31-08-94, Sakuragawa, Shimizu S-Pulse
+3, Shogo Asada, JPN, D, 1.86, 80, 06-07-98, Nagano, None
+4, Mendes, BRA, D, 1.90, 83, 25-04-95, -, Ventforet Kofu
+5, Hisashi Appiah Tawiah, JPN, D, 1.91, 83, 18-10-98, Aichi, Vegalta Sendai
+6, Yuki Honda, JPN, D, 1.72, 65, 02-01-91, Ichinomiya, Nagoya Grampus
+7, Kosuke Taketomi, JPN, M, 1.75, 60, 23-09-90, Urawa, Urawa Red Diamonds
+8, Daigo Araki, JPN, M, 1.78, 72, 17-02-94, Chiba, Júbilo Iwata
+9, Peter Utaka, NGA, F, 1.77, 79, 12-02-84, Enugu, Ventforet Kofu
+10, Shimpei Fukuoka, JPN, M, 1.70, 67, 27-06-00, Nara, None
+11, Ryogo Yamasaki, JPN, F, 1.87, 75, 20-09-92, Okayama, Nagoya Grampus
+13, Takumi Miyayoshi, JPN, F, 1.72, 64, 07-08-92, Fukui, Hokkaido Consadole Sapporo
+14, Kosuke Shirai, JPN, M, 1.65, 63, 01-05-94, Shizuoka, Hokkaido Consadole Sapporo
+15, Kazuma Nagai, JPN, D, 1.80, 77, 02-11-98, Toyonaka, Kansai Univ
+16, Shohei Takeda, JPN, M, 1.81, 73, 09-04-94, Kanagawa, Fagiano Okayama
+17, Takuya Ogiwara, JPN, D, 1.75, 69, 23-11-99, Saitama, Urawa Red Diamonds
+18, Temma Matsuda, JPN, M, 1.64, 62, 11-06-95, Mashiki, Shonan Bellmare
+19, Daiki Kaneko, JPN, M, 1.76, 66, 28-08-98, Tokyo, Urawa Red Diamonds
+20, Quenten Martinus, CUW, F, 1.83, 70, 07-03-91, Willemstad, Montedio Yamagata
+21, Naoto Kamifukumoto, JPN, G, 1.81, 75, 17-11-89, Chiba, Tokushima Vortis
+23, Yuta Toyokawa, JPN, F, 1.73, 62, 09-09-94, Kumamoto, Cerezo Osaka
+24, Sota Kawasaki, JPN, M, 1.72, 68, 30-07-01, Kofu, None
+25, Keita Nakano, JPN, M, 1.67, 65, 27-08-02, Kusatsu, None
+26, Gakuji Ota, JPN, G, 1.90, 86, 26-12-90, Kuwana, Kataller Toyama
+27, Fuki Yamada, JPN, M, 1.81, 73, 10-07-01, Shiga, None
+28, Kazuki Tanaka, JPN, F, 1.73, 66, 13-01-00, Tochigi, Hosei Univ
+31, Rikito Inoue, JPN, D, 1.80, 77, 09-03-97, Shimane, Fagiano Okayama
+32, Michael Woud, NZL, G, 1.96, 85, 16-01-99, Auckland, Almere C
+33, Naoto Misawa, JPN, M, 1.80, 74, 07-07-95, Saitama, Gainare Tottori
+36, Sora Hiraga, JPN, M, 1.73, 70, 02-03-05, Hyogo, None
+37, Yuta Ueda, JPN, D, 1.71, 65, 06-07-04, Shiga, None
+38, Mao Koyama, JPN, F, 1.80, 76, 23-06-04, Kyoto, None
+39, Origbaajo Ismaila, NGA, F, 1.88, 76, 04-08-98, Ilorin, Fukushima U
+40, Yudai Kimura, JPN, F, 1.84, 81, 28-02-01, Sakai, Kwansei Gakuin Univ
+41, Alan, BRA, M, 1.75, 74, 04-04-97, Paty do Alferes, Al-Adalah
+42, Kenta Esumi, JPN, G, 1.85, 79, 25-08-04, Shimane, None
+43, Atsuki Sandambata, JPN, G, 1.79, 76, 23-09-05, Shiga, None
+44, Kyo Sato, JPN, M, 1.68, 65, 21-03-00, Tochigi, Sagan Tosu
+47, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, Metalist Kharkiv
+50, Genki Omae, JPN, F, 1.66, 61, 10-12-89, Yokohama, Thespakusatsu Gunma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Shuhei Matsubara, JPN, G, 1.85, 87, 11-08-92, Hakodate, Hokkaido Consadole Sapporo

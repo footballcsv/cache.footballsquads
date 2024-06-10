@@ -1,0 +1,42 @@
+=  Besiktas - Turkish Süper Lig 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fabricio, ESP, G, 1.85, 77, 31-12-87, Las Palmas, Deportivo La Coruña
+3, Adriano, BRA, D, 1.72, 67, 26-10-84, Curitiba, Barcelona
+5, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, Real Madrid
+6, Duško Tošić, SRB, D, 1.81, 78, 19-01-85, Zrenjanin, Gençlerbirliği
+7, Ricardo Quaresma, POR, M, 1.75, 75, 26-09-83, Lisbon, FC Porto
+8, Ryan Babel, NED, M, 1.85, 78, 19-12-86, Amsterdam, Deportivo La Coruña
+9, Álvaro Negredo, ESP, F, 1.85, 82, 20-08-85, Madrid, Valencia
+10, Oğuzhan Özyakup, TUR, M, 1.78, 71, 23-09-92, Zaandam, Arsenal
+11, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Gençlerbirliği
+12, Gary Medel, CHI, D, 1.72, 71, 03-08-87, Santiago, Internazionale
+13, Atiba Hutchinson, CAN, M, 1.87, 72, 08-02-83, North York, PSV Eindhoven
+14, Fatih Aksoy, TUR, D, 1.89, 79, 06-11-97, İstanbul, None
+17, Jeremain Lens, NED, M, 1.78, 80, 24-11-87, Amsterdam, Sunderland
+18, Tolgay Arslan, GER, M, 1.79, 75, 16-08-90, Paderborn, Werder Bremen
+20, Necip Uysal, TUR, M, 1.80, 72, 24-01-91, Bakırköy, None
+24, Domagoj Vida, CRO, D, 1.82, 70, 29-04-89, Osijek, Dynamo Kyiv
+29, Tolga Zengin, TUR, G, 1.92, 81, 10-10-83, Hopa, Trabzonspor
+30, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Alanyaspor
+33, Atınç Nukan, TUR, D, 1.96, 85, 20-07-93, Fatih, RB Leipzig
+55, Gökhan Töre, TUR, M, 1.76, 74, 20-01-92, Cologne, Rubin Kazan
+77, Gökhan Gönül, TUR, D, 1.74, 71, 04-01-85, Bafra, Fenerbahçe
+88, Caner Erkin, TUR, D, 1.77, 75, 04-10-88, Edremit, Internazionale
+94, Anderson Talisca, BRA, M, 1.88, 72, 01-02-94, Feira de Santana, Benfica
+95, Cyle Larin, CAN, F, 1.88, 87, 17-04-95, Brampton, Orlando C
+97, Utku Yuvakuran, TUR, G, 1.92, 78, 02-11-97, Şişli, Beylerbeyi
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+32, Andreas Beck, GER, D, 1.80, 73, 13-03-87, Kemerovo, Stuttgart
+19, Pedro Franco, COL, D, 1.83, 76, 23-04-91, Bogotá, Boluspor (On Loan)
+70, Sedat Şahintürk, TUR, M, 1.73, 65, 07-02-96, Kocaeli, Balıkesirspor (On Loan)
+54, Hüseyin Yılmaz, TUR, G, 1.88, 82, 17-01-96, İstanbul, Ümraniyespor
+4, Alexander Milošević, SWE, D, 1.91, 82, 30-01-92, Sundbyberg, AIK
+23, Cenk Tosun, TUR, F, 1.83, 78, 07-06-91, Wetzlar, Everton
+15, Orkan Çınar, TUR, M, 1.75, 67, 29-01-96, Dortmund, Konyaspor (On Loan)
+2, Matej Mitrović, CRO, D, 1.87, 71, 04-02-93, Požega, Club Brugge (On Loan)
+22, Aras Özbiliz, ARM, M, 1.70, 71, 09-03-90, Bakırköy, Sheriff Tiraspol (On Loan)
+71, Denys Boyko, UKR, G, 1.91, 84, 29-01-88, Kyiv, Dynamo Kyiv (On Loan)

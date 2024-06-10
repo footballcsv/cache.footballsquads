@@ -1,0 +1,54 @@
+=  Chapecoense - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Artur Moraes, BRA, G, 1.92, 90, 25-01-81, Leme, Osmanlıspor
+2, João Pedro, BRA, D, 1.79, 75, 15-11-96, Presidente Prudente, Palmeiras
+3, Douglas Grolli, BRA, D, 1.88, 79, 05-10-89, São Miguel do Oeste, Cruzeiro
+4, Neto, BRA, D, 1.95, 94, 16-08-85, Rio de Janeiro, Santos
+5, Moisés, BRA, M, 1.79, 74, 03-03-91, Salvador, Linense
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, São Paulo
+7, Cristian Penilla, ECU, F, 1.73, 79, 02-05-91, Esmeraldas, Pachuca
+8, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, Flamengo
+9, Wellington Paulista, BRA, F, 1.83, 72, 22-04-83, São Paulo, Fluminense
+10, Túlio De Melo, BRA, F, 1.93, 83, 31-01-85, Montes Claros, Sport Recife
+11, Luiz Antônio, BRA, M, 1.84, 73, 11-03-91, Rio de Janeiro, Flamengo
+12, Elias Curzel, BRA, G, 1.86, 74, 12-07-95, Vacaria, Juventude
+14, Fabrício Bruno, BRA, D, 1.92, 90, 12-02-96, Contagem, Cruzeiro
+16, Douglas Bacelar, BRA, D, 1.90, 84, 04-04-90, São Paulo, São Paulo
+17, Arthur Caíke, BRA, F, 1.74, 71, 15-06-92, Barbalha, Londrina
+19, Pedro Perotti, BRA, F, 1.85, 77, 22-11-97, Chapecó, None
+21, Luis Otávio, BRA, D, 1.94, 86, 09-10-92, Japeri, Luverdense
+22, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Kuban Krasnodar
+23, Fernando Guerrero, ECU, M, 1.70, 70, 30-09-89, Quito, LDU Quito
+25, Lucas Mineiro, BRA, M, 1.73, 69, 24-02-96, Belo Horizonte, None
+26, Diego Renan, BRA, D, 1.72, 71, 26-01-90, Surubim, Cruzeiro
+27, Bryan, BRA, F, 1.76, 74, 03-08-96, Salvador, Juventude
+28, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Internacional
+30, Neném, BRA, M, 1.73, 71, 04-02-82, Santa Catarina, Criciúma
+31, Dodô, BRA, M, 1.71, 60, 05-09-94, Vespasiano, Atlético Mineiro
+33, Lucas Marques, BRA, M, 1.76, 63, 24-05-95, Osasco, Internacional
+35, Hiago, BRA, D, 1.91, 81, 04-11-97, São Jerônimo, None
+37, Moisés, BRA, M, 1.81, 73, 24-09-94, Santa Clara do Sul, Grêmio
+40, Luis Manuel Seijas, VEN, M, 1.74, 71, 23-06-86, Valencia [VEN], Internacional
+55, Amaral, BRA, M, 1.82, 67, 07-10-86, Goiânia, Palmeiras
+70, Nadson, BRA, M, 1.70, 63, 22-07-89, Lauro de Freitas, Paraná
+73, Júlio César, BRA, F, 1.72, 69, 12-08-94, Araucária, Oeste
+77, Osman, BRA, M, 1.79, 72, 29-01-92, São Paulo, Luverdense
+86, Elicarlos, BRA, M, 1.76, 72, 08-06-85, Laranjeiras, Santa Cruz
+87, Khevin, BRA, M, 1.92, 77, 03-06-97, Florianópolis, Grêmio
+90, Roberto, BRA, D, 1.76, 76, 04-12-90, Picos, Santa Cruz
+92, Emilio Zeballos, URU, D, 1.84, 73, 05-08-92, Montevideo, Defensor Sporting
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Tubarão
+95, Rodrigo Pelezinho, BRA, F, 1.71, 71, 10-09-95, Assaí, Cianorte
+98, Tiepo, BRA, G, 1.83, 80, 08-02-98, São Domingos, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+34, Wesley Natã, BRA, F, 1.80, 70, 18-04-95, Porto Alegre, Juventude (On Loan)
+11, Niltinho, BRA, M, 1.75, 68, 11-09-93, São Paulo, São Caetano
+7, Rossi, BRA, F, 1.70, 69, 22-04-93, Prainha, Shenzhen FC
+15, Nathan, BRA, D, 1.88, 80, 13-05-95, São Paulo, Palmeiras
+8, Andrei Girotto, BRA, M, 1.85, 77, 17-02-92, Bento Gonçalves, Tombense
+32, Lourency, BRA, F, 1.78, 74, 02-01-96, Imperatriz, Vila Nova (On Loan)
+80, Victor Ramos, BRA, D, 1.92, 76, 05-05-89, Salvador, 

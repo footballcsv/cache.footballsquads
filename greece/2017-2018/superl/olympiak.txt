@@ -1,0 +1,48 @@
+=  Olympiakos - Greek Super League 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lefteris Choutesiotis, GRE, G, 1.92, 85, 20-07-94, Makrychori, None
+2, Igor Carioca, BRA, D, 1.73, 66, 21-08-96, Rio de Janeiro, Asteras Tripolis
+3, Alberto Botía, ESP, D, 1.87, 75, 27-01-89, Alquerias, Sevilla
+4, Alaixys Romao, TOG, M, 1.80, 74, 18-01-84, L'Hay-les-Roses, Marseille
+6, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Torino
+7, Kostas Fortounis, GRE, M, 1.82, 69, 16-10-92, Kalambaka, Kaiserslautern
+8, Vadis Odjidja-Ofoe, BEL, M, 1.85, 79, 21-02-89, Gent, Legia Warszawa
+9, Uroš Djurdjević, SRB, F, 1.82, 82, 02-03-94, Belgrade, Partizan Belgrade
+10, Marko Marin, GER, M, 1.70, 63, 13-03-89, Gradiška, Chelsea
+11, Kevin Mirallas, BEL, M, 1.82, 68, 05-10-87, Liège, Everton
+12, Ivica Ivušić, CRO, G, 1.95, 85, 01-02-95, Rijeka, Istra 1961
+13, Guillaume Gillet, BEL, M, 1.86, 77, 09-03-85, Liège, Nantes
+14, Omar Elabdellaoui, NOR, D, 1.79, 72, 05-12-91, Skien, Eintracht Braunschweig
+17, Karim Ansarifard, IRN, F, 1.86, 75, 03-04-90, Ardabil, Panionios
+20, Ehsan Hajsafi, IRN, M, 1.76, 74, 25-02-90, Kashan, Panionios
+23, Leonardo Koutris, GRE, M, 1.74, 70, 23-07-95, Rhodes, PAS Giannina
+24, Silvio Proto, BEL, G, 1.84, 72, 23-05-83, Charleroi, Oostende
+25, Nikos Vergos, GRE, F, 1.83, 77, 13-01-96, Kilkis, None
+28, André Martins, POR, M, 1.66, 56, 21-01-90, Santa Maria da Feira, Sporting CP
+32, Thanasis Androutsos, GRE, M, 1.82, 75, 06-05-97, Athens, None
+40, Björn Engels, BEL, D, 1.93, 74, 15-09-94, Kaprijke, Club Brugge
+43, Dimitris Nikolaou, GRE, D, 1.89, 78, 13-08-98, Chalcis, None
+66, Pape Abou Cissé, SEN, D, 1.97, 83, 14-09-95, Pikine, Ajaccio
+80, Marios Vrousai, ALB, M, 1.83, 78, 02-07-98, Nafpaktos, None
+90, Filipe Pardo, COL, F, 1.78, 80, 17-08-90, Quibdó, Sporting Braga
+92, Sebá, BRA, F, 1.80, 73, 08-06-92, Salvador, Estoril
+99, Dimitris Skafidas, GRE, G, , , 05-08-99, Palaio Faliro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Manolis Siopis, GRE, M, 1.71, 65, 14-05-94, Alexandroupoli, Panionios (On Loan)
+16, Giorgos Manthatis, GRE, M, 1.82, 75, 11-05-97, Athens, PAS Giannina (On Loan)
+20, Nicolás Martínez, ARG, M, 1.68, 68, 25-09-87, Viedma, Apollon Limassol (On Loan)
+45, Panagiotis Retsos, GRE, D, 1.84, 76, 09-08-98, Johannesburg, Bayer Leverkusen
+22, Andreas Gianniotis, GRE, G, 1.90, 80, 18-12-92, Serres, Atromitos
+31, El Fardou Nabouhane, FRA, F, 1.73, 78, 10-06-89, Passamainty, Crvena Zvezda
+26, Jagoš Vuković, SRB, D, 1.95, 93, 10-06-88, Vrbas, Verona (On Loan)
+18, Tarik Elyounoussi, NOR, M, 1.72, 62, 23-02-88, Al Hoceima, AIK
+44, Sasa Zdjelar, SRB, M, 1.84, 73, 20-03-95, Belgrade, Partizan Belgrade (On Loan)
+19, Hrvoje Milić, CRO, D, 1.80, 74, 10-05-89, Osijek, 
+27, Stefanos Kapino, GRE, G, 1.96, 85, 18-03-94, Piraeus, Nottingham F
+29, Emmanuel Emenike, NGA, F, 1.82, 82, 10-05-87, Otuocha, Las Palmas (On Loan)
+33, Mehdi Carcela-Gonzalez, MAR, M, 1.76, 67, 01-07-89, Liège, Granada
+77, Diogo Figueiras, BRA, D, 1.70, 63, 01-07-91, Povos, Sporting Braga

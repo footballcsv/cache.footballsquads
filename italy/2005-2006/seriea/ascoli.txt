@@ -1,0 +1,58 @@
+=  Ascoli - Italian Serie A 2005/06
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alessandro Boccolini, G, 6'01", 11 03, 14-07-84, , Alessandria
+3, Cristiano Del Grosso, D, 5'09", 09 13, 24-03-83, Giulianova, Giulianova
+4, Alessandro Moro, M, 5'11", 11 07, 02-10-84, Latisana, Foggia
+5, Domenico Giampa', M, 5'06", 09 06, 15-02-77, Girifalco, Messina
+6, Mirko Cudini, M, 5'11", 12 01, 01-09-73, Sant'Elpidio a Mare, Genoa
+7, Ivano Della Morte, M, 5'11", 12 00, 13-10-74, Ciriè, Genoa
+8, Michele Fini, M, 6'01", 10 10, 14-06-74, Sorso, Catania
+9, Marco Ferrante, F, 5'09", 11 00, 04-02-71, Velletri, Bologna
+10, Nicolas Cordova, M, 5'11", 12 04, 09-02-79, Santiago, Livorno
+11, Alfredo Cariello, D, 5'10", 11 00, 10-09-79, Naples, Chievo Verona
+13, Francesco Carbone, D, 5'09", 11 00, 04-01-80, Rome, Torino
+14, Roberto Guana, M, 5'10", 11 05, 21-01-81, Brescia, Brescia
+15, Daniele Adani, D, 6'00", 11 07, 10-07-74, Correggio, Brescia
+16, Gianluca Comotto, D, 6'00", 12 04, 16-10-78, Ivrea, Torino
+17, Pasquale Foggia, F, 5'04", 11 00, 03-06-83, Naples, Milan
+18, Andrea Parola, M, 5'10", 11 09, 22-04-79, Pisa, Triestina
+19, Igor Budan, F, 6'01", 12 08, 22-04-80, Rijeka, Atalanta
+20, Giampietro Perrulli, M, , , 08-06-85, Rome, Viterbo
+24, Massimo Paci, D, 6'01", 11 07, 09-05-78, Fermo, Lecce
+25, Luigi Giorgi, F, , , 19-04-87, , 
+28, Ferdinando Coppola, G, 6'02", 12 08, 10-06-78, Naples, Reggina
+30, Valerio Virga, F, 5'11", 11 11, 29-06-86, Rome, Roma
+51, Carlo Zotti, G, 6'03", 13 08, 03-09-82, Benevento, Roma
+53, Maurizio Lauro, D, 5'11", 11 07, 12-03-81, Ischia, San Marino
+55, Domenico Cristiano, M, 5'09", 09 13, 29-03-76, Ravenna, Napoli
+61, Schumacher, F, 6'03", 14 00, 31-08-86, Curitiba, Atlético Paranaense
+79, Sasa Bjelanovic, F, 6'02", 12 08, 11-06-79, Zadar, Genoa
+80, Maurizio Domizzi, D, 5'11", 11 05, 28-06-80, Rome, Sampdoria
+86, Davide Oresti, M, , , 05-03-86, , 
+87, Vincenzo Guglielmelli, D, , , 15-05-87, , 
+88, Riccardo Bonetto, M, 5'07", 10 10, 20-03-79, Asolo, Empoli
+99, Fabio Quagliarella, F, 6'00", 11 07, 31-01-83, Castellamare di Stabia, Torino
+, Christian Conti, D, 6'01", 12 13, 02-08-88, Rome, Bari
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Salvatore Bocchetti, D, , , 30-11-86, Ascoli, Lanciano (On Loan)
+21, Roberto Maurantonio, G, 6'00", 12 04, 07-06-84, Bari, Lanciano
+26, Angelo Antonazzo, D, , , 10-02-81, Taranto, Bologna (On Loan)
+5, Federico Giampaolo, F, 5'10", 11 03, 03-03-70, Giulianova, Modena
+53, Maurizio Lauro, D, 5'11", 11 07, 12-03-81, Ischia, Reggina (On Loan)
+7, Emanuele Ferraro, F, , , 08-09-78, Messina, Salernitana
+4, Luca Belingheri, M, 6'00", 10 08, 06-04-83, Costa Volpino, Genoa
+22, Marco Ascenzi, F, 6'00", 11 03, 26-10-81, Rome, Manfredonia (On Loan)
+19, Claudio Costanzo, M, 5'09", 11 00, 03-07-85, Naples, Chieti (On Loan)
+20, Giampietro Perrulli, M, , , 08-06-85, Rome, Sambenedettese (On Loan)
+32, Corrado Colombo, F, 6'02", 12 04, 03-08-79, Vimercate, Sampdoria
+19, Abel Aguilar, M, 6'01", 12 13, 06-01-85, Santa Fe de Bogota, Udinese
+20, Paul Ramirez, F, 5'10", 11 00, 30-07-86, , Bellinzona
+21, Nicola Zanini, F, 5'11", 11 00, 26-03-74, Vicenza, Vicenza
+23, Riccardo Corallo, D, 6'02", 12 08, 31-03-80, Rivoli, Cremonese (On Loan)
+77, Vittorio Tosto, D, 5'11", 12 00, 14-06-74, Marina di Cariati, Empoli (On Loan)
+, Andrea Ghidini, M, 6'01", 11 11, 08-03-81, Mantova, Chieti
+2, Mattia Biso, D, 5'10", 10 08, 06-05-77, Milan, Catania

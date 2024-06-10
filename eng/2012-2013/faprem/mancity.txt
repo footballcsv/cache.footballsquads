@@ -1,0 +1,58 @@
+=  Manchester City - English Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joe Hart, ENG, G, 1.91, 80, 19-04-87, Shrewsbury, Shrewsbury T
+2, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, None
+3, Maicon, BRA, D, 1.84, 77, 26-07-81, Criciúma, Internazionale
+4, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Hamburg
+5, Pablo Zabaleta, ARG, D, 1.74, 74, 16-01-85, Capital Federal, Espanyol
+6, Joleon Lescott, ENG, D, 1.88, 83, 16-08-82, Birmingham, Everton
+7, James Milner, ENG, M, 1.70, 67, 04-01-86, Wortley, Aston Villa
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Arsenal
+10, Edin Džeko, BIH, F, 1.92, 80, 17-03-86, Doboj, Wolfsburg
+11, Scott Sinclair, ENG, M, 1.75, 64, 25-03-89, Bath, Swansea C
+13, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Lazio
+14, Javi García, ESP, M, 1.86, 78, 08-02-87, Murcia, Benfica
+16, Sergio Agüero, ARG, F, 1.72, 74, 02-06-88, Capital Federal, Atlético Madrid
+17, Jack Rodwell, ENG, M, 1.88, 70, 11-03-91, Birkdale, Everton
+18, Gareth Barry, ENG, M, 1.83, 79, 23-02-81, Hastings, Aston Villa
+21, David Silva, ESP, M, 1.70, 67, 08-01-86, Arguineguín, Valencia
+22, Gaël Clichy, FRA, D, 1.81, 72, 26-07-85, Toulouse, Arsenal
+28, Kolo Touré, CIV, D, 1.83, 76, 19-03-81, Sokoura Bouaké, Arsenal
+29, Richard Wright, ENG, G, 1.87, 82, 05-11-77, Ipswich, Preston NE
+30, Costel Pantilimon, ROU, G, 1.97, 96, 01-02-87, Bacău, FC Timişoara
+32, Carlos Tévez, ARG, F, 1.71, 75, 05-02-84, Ciudadela, West Ham U
+33, Matija Nastasić, SRB, D, 1.87, 79, 28-03-93, Belgrade, Fiorentina
+36, Denis Suárez, ESP, M, 1.81, 72, 06-01-94, Tui, Celta Vigo
+38, Dedryck Boyata, BEL, D, 1.88, 84, 08-09-90, Uccle, None
+42, Yaya Touré, CIV, M, 1.91, 90, 13-05-83, Sokoura Bouaké, Barcelona
+44, Karim Rekik, NED, D, 1.83, 76, 02-12-94, Den Haag, Feyenoord
+47, Harry Bunn, ENG, F, 1.75, 75, 21-11-92, Oldham, None
+52, Emyr Huws, WAL, M, 1.85, 78, 30-09-93, Llanelli, None
+53, Alex Henshall, ENG, F, 1.77, 71, 15-02-94, Swindon, Swindon T
+54, Kieran Kennedy, ENG, D, 1.83, 70, 23-09-93, Urmston, None
+55, Albert Rusnák, SVK, M, 1.75, 61, 07-07-94, Košice, None
+56, Courtney Meppen-Walter, ENG, D, 1.84, 77, 02-08-94, Bury, None
+60, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, IF Brommapojkarna
+62, Abdul Razak, CIV, M, 1.80, 76, 11-11-92, Bouaké, Crystal Palace
+63, Eirik Johansen, NOR, G, 1.93, 89, 12-07-92, Tønsberg, None
+64, Rony Lopes, POR, M, 1.74, 68, 28-12-95, Belém, Benfica
+74, George Evans, ENG, M, 1.84, 76, 13-12-94, Cheadle, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Tottenham H
+11, Adam Johnson, ENG, M, 1.75, 62, 14-07-87, Sunderland, Sunderland
+34, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Milan
+14, Roque Santa Cruz, PAR, F, 1.87, 80, 16-08-81, Asunción, Málaga (On Loan)
+15, Stefan Savić, MNE, D, 1.86, 73, 08-01-91, Belgrade, Fiorentina
+48, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, Hibernian (On Loan)
+37, Gunnar Nielsen, FRO, G, 1.91, 89, 07-10-86, Tórshavn, Silkeborg
+46, Michael Johnson, ENG, M, 1.83, 79, 24-02-88, Urmston, 
+49, Luca Scapuzzi, ITA, F, 1.82, 75, 15-04-91, Milan, Varese (On Loan)
+43, Alex Nimely, ENG, F, 1.80, 72, 11-05-91, Monrovia, Crystal Palace (On Loan)
+61, Jérémy Helan, FRA, M, 1.81, 76, 09-05-92, Clichy, Sheffield W (On Loan)
+57, Reece Wabara, ENG, D, 1.82, 73, 28-12-91, Stoke Heath, Blackpool (On Loan)
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Milan
+51, Adam Drury, ENG, F, 1.79, 69, 21-09-93, Grimsby, Burton Alb (On Loan)

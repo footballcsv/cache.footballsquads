@@ -1,0 +1,59 @@
+=  Pescara - Italian Serie B 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Tomas Švedkauskas, LTU, G, 1.89, 80, 22-06-94, Marijampolė, Roma
+3, Simone Salviato, ITA, D, 1.89, 79, 12-07-87, Padua, Novara
+5, Marco Capuano, ITA, D, 1.85, 80, 14-10-91, Pescara, Torino
+6, Luciano Zauri, ITA, D, 1.78, 75, 20-01-78, Pescina, Lazio
+7, Matteo Politano, ITA, F, 1.71, 68, 03-08-93, Rome, Roma
+8, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Roma
+10, Mamadou Samassa, MLI, F, 1.88, 84, 01-05-86, Montfermeil, Chievo Verona
+11, Aniello Cutolo, ITA, F, 1.70, 70, 19-05-83, Naples, Padova
+13, Cristiano Ingretolli, ITA, F, 1.85, 76, 03-03-94, Palestrina, Lecce
+14, Antonio Balzano, ITA, D, 1.76, 73, 13-06-86, Bitonto, Atletico Roma
+15, Antonio Bocchetti, ITA, D, 1.83, 75, 11-06-80, Naples, Frosinone
+16, Gastón Brugman, URU, M, 1.75, 66, 07-09-92, Rosario, Empoli
+17, Giuseppe Fornito, ITA, M, 1.77, 72, 06-09-94, Trebisacce, Napoli
+18, Giuseppe Rizzo, ITA, M, 1.78, 71, 18-03-91, Messina, Reggina
+19, Riccardo Maniero, ITA, F, 1.86, 81, 26-11-87, Naples, Juventus
+20, Matti Lund Nielsen, DEN, M, 1.84, 74, 08-05-88, Odense, FC Nordsjælland
+21, Raffaele Schiavi, ITA, D, 1.85, 84, 15-03-86, Cava dei Tirreni, Parma
+22, Ivan Pelizzoli, ITA, G, 1.97, 88, 18-11-80, Bergamo, Padova
+23, Uroš Ćosić, SRB, D, 1.87, 79, 24-10-92, Belgrade, CSKA Moscow
+24, Tomasch Calore, ITA, G, 1.81, 74, 22-01-97, Pescara, None
+25, Emanuele Belardi, ITA, G, 1.87, 80, 09-10-77, Eboli, Grosseto
+26, Federico Di Francesco, ITA, F, 1.80, 75, 14-06-94, Pisa, Parma
+27, Antonino Ragusa, ITA, F, 1.83, 78, 27-03-90, Catania, Genoa
+28, Andrea Bovo, ITA, M, 1.80, 70, 14-05-86, Mestre, Spezia
+29, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Parma
+30, Hrvoje Miličević, CRO, M, 1.89, 80, 20-04-93, Mostar, Zrinjski Mostar
+32, Ferdinando Sforzini, ITA, F, 1.93, 83, 04-12-84, Rome, Grosseto
+33, Dario Župarić, CRO, D, 1.88, 85, 03-05-92, Županja, Cibalia
+38, Francesco Caratelli, ITA, D, , , 10-03-93, Genzano, Vicenza
+39, Lucas Chiaretti, BRA, F, 1.68, 66, 22-09-87, Belo Horizonte, Taranto
+40, Luca Savelloni, ITA, G, 1.92, 82, 16-07-95, Rome, None
+42, Francesco Karkalis, ITA, D, , , 19-01-95, Pescara, None
+43, Tiziano Cherubini, ITA, M, , , 13-09-94, Tarquinia, None
+44, Giacomo Agresta, ITA, G, , , 19-09-96, Guardiagrele, None
+45, Manuel Di Sante, ITA, F, , , 03-06-96, Teramo, None
+46, Giuseppe Mascara, ITA, F, 1.75, 70, 22-08-79, Caltagirone, Al-Nasr [UAE]
+47, Ransford Selasi, GHA, M, 1.80, 70, 19-08-96, Accra, None
+48, Danilo Bulevardi, ITA, M, 1.76, 70, 31-01-95, Mazara del Vallo, None
+49, Davide Benedetti, ITA, D, , , 16-02-95, Rome, None
+50, Andrea Di Pinto, ITA, M, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+35, Jonathas, BRA, F, 1.91, 83, 06-03-89, Betim, Latina
+8, Birkir Bjarnason, ISL, M, 1.82, 73, 27-05-88, Akureyri, Sampdoria
+37, Alessio Bruno, ITA, F, 1.65, 60, 24-01-94, Olbia, Olbia (On Loan)
+25, Salvatore Falso, ITA, G, 1.85, 78, 11-04-94, Gaeta, Civitanovese (On Loan)
+30, Elvis Kabashi, ALB, M, 1.84, 78, 20-02-94, Massa, Juventus
+1, Mirko Pigliacelli, ITA, G, 1.84, 78, 30-06-93, Rome, Parma
+31, Stefano Padovan, ITA, F, 1.82, 81, 16-04-94, Turin, Juventus
+41, Carmine Marinaro, ITA, F, 1.79, 60, 04-01-94, Cerignola, Ischia (On Loan)
+9, Giammario Piscitella, ITA, F, 1.80, 69, 24-03-93, Nocera Inferiore, Roma
+10, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Roma
+3, Paolo Frascatore, ITA, D, 1.87, 84, 04-01-92, Rome, Roma
+13, Ante Vukušić, CRO, F, 1.77, 74, 04-06-91, Sinj, Lausanne-Sport (On Loan)

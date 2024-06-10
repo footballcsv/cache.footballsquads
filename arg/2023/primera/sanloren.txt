@@ -1,0 +1,43 @@
+=  San Lorenzo - Argentine Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Facundo Altamirano, ARG, G, 1.85, 82, 21-03-96, Rojas, Banfield
+2, Rafael Pérez, COL, D, 1.86, 82, 09-01-90, Cartagena, Talleres (Córdoba)
+3, Carlos Sánchez, COL, M, 1.82, 82, 06-02-86, Quibdó, Santa Fe
+5, Jalil Elías, ARG, M, 1.80, 70, 25-04-96, Rosario, Godoy Cruz (Mendoza)
+6, Federico Gattoni, ARG, D, 1.83, 79, 16-02-99, Capital Federal, Sevilla
+7, Ezequiel Cerutti, ARG, F, 1.79, 75, 17-01-92, Junín, Al-Hilal [KSA]
+8, Gonzalo Maroni, ARG, M, 1.70, 67, 18-03-99, Córdoba, Boca Juniors
+9, Nicolás Blandi, ARG, F, 1.81, 79, 13-01-90, Capital Federal, Unión (Santa Fe)
+10, Nahuel Barrios, ARG, M, 1.56, 61, 07-05-98, Dock Sud, None
+11, Adam Bareiro, PAR, F, 1.84, 84, 26-07-96, Asunción, Monterrey
+13, Augusto Batalla, ARG, G, 1.85, 79, 30-04-96, Florencio Varela, River Plate
+15, Diego Calcaterra, ARG, D, 1.88, 80, 26-07-01, Monte Buey, Newell's Old Boys
+16, Lautaro López, ARG, G, 1.90, 84, 24-01-01, Resistencia, None
+17, Mariano Peralta Bauer, ARG, F, 1.76, 74, 20-02-98, Adrogué, None
+18, Andrés Vombergar, SVN, F, 1.87, 80, 20-11-94, Villa Luzuriaga, Atlético San Luis
+19, Manuel Insaurralde, ARG, M, 1.76, 76, 31-01-99, Formosa, None
+20, Agustín Martegani, ARG, M, 1.82, 75, 20-03-00, Rojas, None
+21, Malcom Braida, ARG, F, 1.75, 70, 17-05-97, Colonia Caroya, Instituto (Córdoba)
+22, Gastón Campi, ARG, D, 1.92, 80, 06-04-91, Lanús, Yeni Malatyaspor
+23, Gastón Hernández, ARG, D, 1.84, 78, 19-01-98, San Rafael, None
+24, Jeremías James, ARG, D, 1.91, 80, 29-01-01, Trelew, None
+32, Ezequiel Herrera, ARG, D, 1.80, 75, 22-01-03, Benavídez, None
+33, Mateo Clemente, ARG, G, 1.84, 82, 12-06-02, Olavarría, None
+35, Gonzalo Luján, ARG, D, 1.82, 82, 27-04-01, Capital Federal, None
+38, Siro Rosané, ARG, M, 1.77, 68, 07-06-00, Río Cuarto, None
+41, Iván Leguizamón, ARG, F, 1.74, 73, 03-07-02, Asunción, None
+44, Matías Hernández, ARG, F, 1.78, 70, 06-06-05, Carlos Casares, None
+46, Tomás Silva, ARG, D, 1.75, 60, 08-03-03, Capital Federal, None
+47, Agustín Giay, ARG, M, 1.80, 68, 16-01-04, San Carlos, None
+49, Diego Perea, COL, F, -, -, 15-11-02, Medellín, None
+50, Francisco Perruzzi, ARG, M, 1.77, 70, 09-02-01, Mendoza, None
+55, Juan Ignacio Goyeneche, ARG, F, 1.70, 62, 31-01-01, Morón, None
+58, Elián Irala, ARG, M, 1.77, 66, 06-07-04, Morón, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, José Devecchi, ARG, G, 1.87, 83, 09-07-95, Capital Federal, Sarmiento (Junín) (On Loan)
+30, Francisco Flores, ARG, D, 1.82, 78, 11-01-02, Vicente López, Atlético Tucumán
+4, Alex Ibacache, CHI, D, 1.74, 71, 11-01-99, Quillota, Everton (Viña del Mar)

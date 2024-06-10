@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2011/12
+
+18 teams
+- [Ankaragücü](ankgucu.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Bursaspor](bursa.txt)
+- [Eskişehirspor](eskise.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantepspor](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [İstanbul Büyükşehir Belediyespor](istanbb.txt)
+- [Karabükspor](karabuk.txt)
+- [Kayserispor](kayseri.txt)
+- [Manisaspor](manisa.txt)
+- [Mersin İdman Yurdu](mersin.txt)
+- [Orduspor](orduspor.txt)
+- [Samsunspor](samsun.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)

@@ -1,0 +1,53 @@
+=  Udinese - Italian Serie A 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Handanovič, SVN, G, 1.93, 82, 14-07-84, Ljubljana, Domžale
+3, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Universidad Católica
+4, Michele Pazienza, ITA, M, 1.78, 75, 05-08-82, San Severo, Juventus
+5, Danilo, BRA, D, 1.83, 81, 10-05-84, São Bernardo do Campo, Desportivo Brasil
+6, Gelson Fernandes, SUI, M, 1.83, 70, 02-09-86, Praia, St-Etienne
+7, Emmanuel Agyemang-Badu, GHA, M, 1.82, 79, 02-12-90, Berekum, Berekum Arsenal
+8, Dušan Basta, SRB, M, 1.84, 74, 18-08-84, Belgrade, Crvena Zvezda
+9, Barreto, BRA, F, 1.71, 60, 12-07-85, Rio de Janeiro, Bari
+10, Antonio Di Natale, ITA, F, 1.70, 65, 13-10-77, Naples, Empoli
+11, Maurizio Domizzi, ITA, D, 1.85, 80, 28-06-80, Rome, Napoli
+13, Neuton, BRA, D, 1.82, 79, 14-03-90, Erechim, Grêmio
+14, Daniel Bello, ITA, D, , , 12-01-92, Lecce, None
+15, Vassilis Karagounis, GRE, D, 1.76, 71, 18-01-94, Lamia, None
+16, Andrea Coda, ITA, D, 1.88, 81, 25-04-85, Massa, Empoli
+17, Medhi Benatia, MAR, D, 1.90, 80, 17-04-87, Concouronnes, Clermont
+18, Cristian Battocchio, ITA, M, 1.70, 71, 10-02-92, Rosario, Newell's Old Boys
+20, Kwadwo Asamoah, GHA, M, 1.78, 78, 09-12-88, Accra, Bellinzona
+21, Daniele Padelli, ITA, G, 1.91, 85, 29-10-85, Lecco, Sampdoria
+23, Almen Abdi, SUI, M, 1.80, 77, 21-10-86, Prizren, Le Mans
+24, Joel Ekstrand, SWE, M, 1.88, 77, 04-02-89, Lund, Helsingborgs IF
+25, Gabriel Torje, ROU, M, 1.69, 65, 22-11-89, Timişoara, Dinamo Bucureşti
+26, Giovanni Pasquale, ITA, D, 1.82, 72, 05-01-82, Venaria, Livorno
+27, Pablo Armero, COL, D, 1.74, 71, 02-11-86, Tumaco, Palmeiras
+28, Rafael Romo, VEN, G, 1.97, 85, 25-02-90, Turén, Llaneros
+31, Diego Fabbrini, ITA, F, 1.81, 66, 31-07-90, San Giuliano Terme, Empoli
+32, Damiano Ferronetti, ITA, D, 1.85, 78, 01-11-84, Albano Laziale, Parma
+37, Roberto Pereyra, ARG, F, 1.87, 75, 17-01-91, Tucumán, River Plate
+39, Jean-Alain Fanchone, FRA, D, 1.74, 70, 02-09-88, Mulhouse, Strasbourg
+41, Simone Sbardella, ITA, D, , , 17-04-93, Rome, None
+42, Mattia Bedin, ITA, M, , , 04-01-94, Montebelluna, None
+43, Davide Marsura, ITA, M, 1.78, 70, 20-02-94, Montebelluna, None
+44, Piotr Zieliński, POL, M, 1.77, 64, 20-05-94, Ząbkowice Śląskie, Zagłębie Lubin
+45, Simone Deana, ITA, D, , , 20-05-93, Udine, None
+46, Gianluca Migliorini, ITA, M, , , 04-03-93, Pordenone, None
+47, Ivan Provedel, ITA, G, 1.87, 72, 17-03-94, Pordenone, None
+48, Luca Baldassin, ITA, M, 1.78, 70, 28-05-94, Vittorio Veneto, None
+49, Luca Corrado, ITA, D, 1.83, , 12-04-94, Udine, None
+50, Marco Piscopo, ITA, M, 1.79, 72, 09-03-94, Gorizia, None
+51, Riccardo Dimitrio, ITA, F, 1.72, , 13-08-94, Latisana, None
+66, Giampiero Pinzi, ITA, M, 1.80, 73, 11-03-81, Rome, Lazio
+83, Antonio Floro Flores, ITA, F, 1.81, 68, 18-06-83, Naples, Arezzo
+92, Matěj Vydra, CZE, F, 1.80, 73, 01-05-92, Chotěboř, Baník Ostrava
+93, Devid Cudicio, ITA, D, 1.78, 72, 05-03-93, Cividale del Friuli, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Emanuele Belardi, ITA, G, 1.87, 80, 09-10-77, Eboli, Reggina
+30, Thierry Doubaï, CIV, M, 1.78, 74, 01-07-88, Yamoussoukro, Sochaux (On Loan)
+22, Abdou Sissoko, FRA, M, 1.80, 68, 20-03-90, Troyes, Brest (On Loan)

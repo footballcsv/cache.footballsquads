@@ -1,0 +1,65 @@
+=  Dnipro Dnipropetrovsk - Ukrainian Premier League 2006/07
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maksym Startsev, G, 6'02", 12 04, 20-01-80, Dnipropetrovsk, Kryvbas Kryvyi Rih
+2, Serhiy Motuz, M, 5'10", 11 00, 06-07-82, Dnipropetrovsk, Vorskla Poltava
+3, Oleksandr Hrytsay, D, 6'00", 11 11, 30-09-77, Chernihiv, Dnipro Cherkasy
+4, Vitaliy Lysytskyy, M, 6'02", 11 11, 16-04-82, Svetlovodsk, Dynamo Kiev
+5, Voldymyr Yezerskyy, D, 6'00", 12 01, 15-11-76, Lviv, Dynamo Kiev
+6, Oleh Shelayev, M, 5'11", 11 09, 05-11-76, Luhansk, Shakhtar Donetsk
+7, Oleksandr Melashchenko, F, 5'11", 11 05, 13-12-78, Poltava, Vorskla Poltava
+8, Siarhei Karnilenka, F, 6'01", 12 04, 14-06-83, Vitebsk, Dynamo Kiev
+9, Kostyantyn Balabanov, F, 6'00", 12 01, 13-08-82, Kiliya, Chernomorets Odessa
+10, Sergey Samodin, F, 6'00", 12 06, 14-02-85, Krasnodar, CSKA Moscow
+12, Vyacheslav Serdyuk, D, 5'11", 11 05, 28-01-85, Shostka, Dnipro-2
+13, Mladen Bartulović, M, 6'00", 12 13, 05-10-86, Kakanj, Hajduk Split
+15, Serhiy Matyukhin, D, 6'01", 12 11, 21-03-80, Dachnoe, Kryvbas Kryvyi Rih
+16, Andriy Rusol, D, 6'00", 11 11, 16-01-83, Kirovohrad, Kryvbas Kryvyi Rih
+17, Ruslan Bidnenko, M, 6'00", 11 09, 20-07-81, Borispol, Dynamo Kiev
+18, Oleksandr Yatsenko, D, 5'11", 11 00, 24-02-85, Kharkiv, Dynamo Kiev
+19, Vitaliy Denisov, D, 5'09", 11 03, 23-02-87, Moscow, CSKA Moscow
+20, Dzhaba Kankava, M, 5'09", 11 11, 18-03-86, Tbilisi, Arsenal Kiev
+22, Denys Andrienko, M, 5'11", 11 00, 12-04-80, Evpatoria, Kryvbas Kryvyi Rih
+23, Vyacheslav Kernozenko, G, 6'00", 11 11, 04-06-76, Havana, Arsenal Kiev
+24, Kostyantyn Kravchenko, M, 5'09", 11 00, 24-09-86, Dnipropetrovsk, Dnipro-2
+25, Bohdan Shershun, D, 6'03", 13 01, 14-05-81, Khmelnitsky, CSKA Moscow
+27, Morais Davidson, M, 5'09", 11 03, 18-07-81, Belo Horizonte, OFI Crete
+28, Serhiy Nazarenko, M, 5'09", 10 12, 16-02-80, Kirovohrad, Dnipro-2
+29, Yevhen Shakhov, F, 5'09", 09 11, 30-11-90, Dnipropetrovsk, Dnipro-2
+30, Oleksandr Rykun, M, 6'01", 12 06, 06-05-78, Dnipropetrovsk, Metalurg Mariupol
+31, Yuriy Brovchenko, M, 5'08", 09 04, 25-01-88, Dnipropetrovsk, Dnipro-2
+32, Anton Kanibolotskyy, G, 6'03", 12 80, 16-05-88, Kiev, Dnipro-2
+34, Maksym Pashayev, M, 5'09", 09 08, 04-01-88, Dnipropetrovsk, Dnipro-2
+35, Pavlo Pashayev, D, 5'09", 09 11, 04-01-88, Dnipropetrovsk, Dnipro-2
+36, Serhiy Dyachuk, F, 5'10", 11 00, 11-09-89, Zhytomyr, Dnipro-2
+37, Ihor Smolyarchuk, M, 5'09", 10 06, 01-01-89, Dnipropetrovsk, Dnipro-2
+38, Volodymyr Korobka, M, , , 22-07-89, Dnipropetrovsk, Dnipro-2
+39, Dmytro Lopa, M, 5'07", 09 02, 23-11-88, Kremenchuh, Dnipro-2
+40, Ihor Hordya, F, 5'09", 09 02, 03-04-88, , Dnipro-2
+41, Yevhen Baryshnikov, M, 6'02", 11 09, 01-08-88, Dnipropetrovsk, Dnipro-2
+42, Yevheniy Konoplyanka, F, , , 29-09-89, Kirovohrad, Dnipro-2
+43, Denys Hrishyn, M, , , 11-01-89, Poltava, Dnipro-2
+44, Ivan Korotkyy, M, 5'11", 10 06, 05-07-88, Dnipropetrovsk, Dnipro-2
+45, Revazi Barabadze, F, 6'03", 12 13, 04-10-88, Tbilisi, Dnipro-2
+46, Yehor Shepkobskyy, M, 5'08", 09 08, 06-05-88, , Dnipro-2
+47, Taras Roziznanyy, D, , , 06-10-90, , Dnipro-2
+48, Maksym Zaynchkovskyy, M, 6'00", 12 01, 13-02-88, Zhytomyr, Dnipro-2
+49, Vitaliy Kaverin, F, , , 04-09-90, , Dnipro-2
+50, Denys Rylskyy, G, 5'11", 12 01, 12-05-89, Dnipropetrovsk, Dnipro-2
+51, Rizvan Ablitarov, M, , , 18-04-89, Sudak, Dnipro-2
+52, Yuriy Kysylytsya, G, , , 01-05-87, Dnipropetrovsk, Dnipro-2
+77, Artem Kusliy, G, 6'03", 12 01, 07-07-81, Dnipropetrovsk, Dnipro-2
+90, Artur Karnoza, M, , , 02-08-90, Dnipropetrovsk, Dnipro-2
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Ruslan Kostyshyn, F, 5'11", 12 00, 08-01-77, Khmelnitsky, Kryvbas Kryvyi Rih
+11, Ivan Kotenko, F, 6'00", 12 00, 28-04-85, Borodyanka, Kryvbas Kryvyi Rih
+14, Oleksandr Radchenko, D, 5'09", 11 05, 19-07-76, Mariupol, Kryvbas Kryvyi Rih
+20, Kakhaber Aladashvili, M, 5'11", 11 11, 11-08-83, Tbilisi, Dynamo Kiev
+21, Denis Glavina, F, 6'00", 11 09, 03-03-86, Split, Dynamo Kiev
+30, Yuriy Krol, D, , , 01-01-89, Vasyl'kivka, 
+33, Anatoliy Pylypenko, G, 6'02", 12 13, 04-07-85, Pokrovka, Zorya Luhansk
+47, Dmytro Mometenko, M, 6'01", 11 03, 06-01-88, Kiev, 
+49, Dmytro Byelov, D, 6'03", 12 00, 28-04-88, Kiev, Kryvbas Kryvyi Rih

@@ -1,0 +1,56 @@
+=  Torino - Italian Serie A 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniele Padelli, ITA, G, 1.91, 82, 25-10-85, Lecco, Udinese
+3, Cristian Molinaro, ITA, D, 1.82, 82, 30-07-83, Vallo della Lucania, Parma
+4, Leandro Castán, BRA, D, 1.84, 80, 05-11-86, Jaú, Roma
+5, Carlão, BRA, M, 1.82, 73, 19-01-86, São Paulo, APOEL
+6, Afriyie Acquah, GHA, M, 1.79, 70, 05-01-92, Accra, 1899 Hoffenheim
+7, Davide Zappacosta, ITA, D, 1.82, 70, 11-06-92, Sora, Atalanta
+8, Daniele Baselli, ITA, M, 1.82, 70, 12-03-92, Manerbio, Atalanta
+9, Andrea Belotti, ITA, F, 1.81, 72, 20-12-93, Calcinate, Palermo
+10, Adem Ljajić, SRB, M, 1.81, 74, 29-09-91, Novi Pazar, Roma
+11, Maxi López, ARG, F, 1.90, 88, 03-04-84, Capital Federal, Chievo Verona
+13, Luca Rossettini, ITA, D, 1.87, 82, 09-05-85, Padua, Bologna
+14, Iago Falqué, ESP, M, 1.74, 69, 04-01-90, Vigo, Roma
+15, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Internazionale
+16, Samuel Gustafson, SWE, M, 1.87, 79, 20-01-95, Mölndal, BK Häcken
+18, Mirko Valdifiori, ITA, M, 1.85, 71, 21-04-86, Lugo, Napoli
+19, Juan Manuel Iturbe, ARG, F, 1.72, 68, 04-06-93, Capital Federal, Roma
+21, Joe Hart, ENG, G, 1.96, 91, 19-04-87, Shrewsbury, Manchester C
+22, Joel Chukwuma Obi, NGA, M, 1.76, 71, 22-05-91, Lagos, Internazionale
+23, Antonio Barreca, ITA, D, 1.80, 70, 18-03-95, Turin, None
+24, Emiliano Moretti, ITA, D, 1.82, 80, 11-06-81, Rome, Genoa
+25, Saša Lukić, SRB, M, 1.83, 77, 13-08-96, Šabac, Partizan Belgrade
+26, Danilo Avelar, BRA, D, 1.85, 79, 09-06-89, Paranavaí, Cagliari
+29, Lorenzo De Silvestri, ITA, D, 1.86, 84, 23-05-88, Rome, Sampdoria
+31, Lucas Boyé, ARG, F, 1.79, 81, 28-02-96, San Gregorio, River Plate
+84, Martin Remacle, BEL, M, 1.76, 73, 16-05-97, Verviers, Standard Liège
+85, Filippo Berardi, SMR, F, 1.74, 65, 18-05-97, San Marino, Rimini
+86, Federico Giraudo, ITA, D, 1.77, 81, 11-08-98, Cuneo, None
+87, Alessandro Buongiorno, ITA, D, 1.91, 80, 06-06-99, Turin, None
+88, Andrea Sana, ITA, D, , , 31-01-99, Milan, None
+89, Alessio Benedetti, ITA, D, , , 07-04-97, Motta di Livenza, Vicenza
+90, Tommaso Cucchietti, ITA, G, 1.90, 80, 24-01-98, Turin, None
+91, Alberto Reinaudo, ITA, G, , , 22-03-98, Savigliano, None
+92, Manuel De Luca, ITA, F, 1.90, 67, 17-07-98, Bolzano, Südtirol
+93, Arlind Ajeti, ALB, D, 1.81, 76, 25-09-93, Basel, Frosinone
+94, Matteo Tobaldo, ITA, F, , , 02-04-98, Treviso, Padova
+96, Matteo Rossetti, ITA, M, 1.91, 82, 23-07-98, Saluzzo, None
+97, Antonio D'Alena, ITA, M, , , 24-02-98, Mottola, Roma
+98, Simone Auriletto, ITA, D, 1.88, 75, 30-12-98, Turin, None
+99, Domenico Coppola, ITA, G, 1.95, 74, 29-01-99, Turin, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Nikola Maksimović, SRB, D, 1.93, 82, 25-11-91, Bajina Bašta, Napoli (On Loan)
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Cagliari (On Loan)
+97, Edoardo Stanghellini, ITA, D, 1.85, 74, 12-09-97, Desenzano del Garda, Cremonese
+5, Cesare Bovo, ITA, D, 1.81, 79, 14-01-83, Rome, Pescara
+95, Kader Kouakou, CIV, M, , , 24-12-98, , Carpi (On Loan)
+30, Mattia Aramu, ITA, F, 1.80, 70, 14-05-95, Ciriè, Pro Vercelli (On Loan)
+65, Alfred Gomis, ITA, G, 1.94, 83, 05-09-93, Ziguinchor, Salernitana (On Loan)
+20, Giuseppe Vives, ITA, M, 1.78, 70, 14-07-80, Naples, Pro Vercelli (On Loan)
+17, Josef Martínez, VEN, F, 1.70, 70, 19-05-93, Valencia [VEN], Atlanta U
+28, Salvador Ichazo, URU, G, 1.88, 83, 26-01-92, San José da Mayo, Danubio (On Loan)

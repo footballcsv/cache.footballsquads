@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2007/08
+
+18 teams
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [De Graafschap](degraaf.txt)
+- [Excelsior](excels.txt)
+- [Feyenoord](feyen.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [Heracles Almelo](heracles.txt)
+- [NAC Breda](nacbreda.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [Roda JC](rodajc.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse Arnhem](vitesse.txt)
+- [VVV Venlo](vvv.txt)
+- [Willem II](willem.txt)

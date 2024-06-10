@@ -1,0 +1,57 @@
+=  São Paulo - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Denis, BRA, G, 1.88, 86, 14-04-87, Jaú, Ponte Preta
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Fluminense
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, None
+4, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+5, Diego Lugano, URU, D, 1.88, 84, 02-11-80, Canelones, Cerro Porteño
+6, Petros, BRA, M, 1.82, 78, 29-05-89, Juazeiro, Betis
+7, Maicosuel, BRA, M, 1.80, 69, 16-06-86, Cosmópolis, Atlético Mineiro
+9, Lucas Pratto, ARG, F, 1.88, 87, 04-06-88, La Plata, Atlético Mineiro
+10, Christian Cueva, PER, M, 1.69, 63, 23-11-91, Huamachuco, Toluca
+11, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, None
+12, Sidão, BRA, G, 1.89, 88, 24-12-82, São Paulo, Audax
+13, Éder Militão, BRA, M, 1.86, 79, 18-01-98, Sertãozinho, None
+14, Igor Gomes, BRA, M, 1.82, 73, 17-03-99, São José do Rio Preto, None
+15, Hernanes, BRA, M, 1.80, 76, 29-05-85, Recife, Hebei China Fortune
+16, Edimar, BRA, D, 1.80, 70, 21-05-86, Cachoeiro de Itapemirim, Cruzeiro
+17, Gilberto, BRA, F, 1.78, 70, 05-06-89, Piranhas, Chicago Fire
+18, Julio Buffarini, ARG, D, 1.72, 72, 18-08-88, General Cabrera, San Lorenzo
+19, Thomaz, BRA, M, 1.77, 69, 22-05-86, São Paulo, Jorge Wilstermann
+20, Shaylon, BRA, F, 1.80, 70, 27-04-97, Modelo, None
+21, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, Shakhtar Donetsk
+22, Júnior Tavares, BRA, D, 1.78, 80, 07-08-96, Porto Alegre, Grêmio
+23, Marcos Guilherme, BRA, M, 1.72, 62, 05-08-95, Itararé, Atlético Paranaense
+25, Jucilei, BRA, M, 1.85, 76, 06-04-88, São Gonçalo, Shandong Luneng
+26, Paulinho, BRA, F, 1.70, 62, 26-06-98, Gama, None
+27, Pedro Bortoluzo, BRA, F, 1.86, 78, 17-07-96, Fernandópolis, None
+28, Araruna, BRA, M, 1.76, 70, 12-03-96, Porto Alegre, None
+29, Guilherme Bissoli, BRA, F, 1.75, 74, 09-01-98, Jaú, None
+30, Renan Ribeiro, BRA, G, 1.88, 84, 23-03-90, Ribeirão Preto, Atlético Mineiro
+31, Liziero, BRA, M, 1.75, 73, 07-02-98, Jales, None
+32, Aderlan Santos, BRA, D, 1.93, 83, 09-04-89, Salgueiro, Valencia
+33, Jonathan Gómez, ARG, M, 1.71, 71, 21-12-89, Capitán Bermudez, Santa Fe
+34, Bruno Alves, BRA, D, 1.84, 81, 16-04-91, Jacareí, Figueirense
+35, Brenner, BRA, F, 1.75, 70, 16-01-00, Cuiabá, None
+36, Caique, BRA, D, 1.73, 67, 14-06-98, Campinas, None
+37, Léo Natel, BRA, F, 1.79, 73, 14-03-97, Porto Alegre, Benfica
+38, Morato, BRA, F, 1.70, 68, 01-09-92, Mogi Mirim, Ituano
+39, Marcinho, BRA, F, 1.76, 72, 08-06-95, Itauçu, São Bernardo
+40, Lucas Perri, BRA, G, 1.96, 95, 10-12-97, Campinas, None
+41, Denílson, BRA, F, 1.87, 72, 18-07-95, Rio de Janeiro, Granada
+42, Gabriel Sara, BRA, M, 1.78, 68, 26-06-99, Joinville, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Andrés Chávez, ARG, F, 1.85, 82, 21-03-91, Salto, Boca Juniors
+4, Lucão, BRA, D, 1.85, 78, 23-03-96, Brasília, Estoril (On Loan)
+23, Thiago Mendes, BRA, M, 1.76, 73, 15-03-92, São Luís, Lille
+27, Maicon, BRA, D, 1.90, 74, 14-09-88, Barretos, Galatasaray
+31, Luiz Araújo, BRA, F, 1.75, 67, 02-06-96, Santa Clara do Sul, Lille
+15, João Schmidt, BRA, M, 1.83, 82, 19-05-93, São Paulo, Atalanta
+11, Wesley, BRA, M, 1.79, 63, 24-06-87, Catanduva, Sport Recife
+29, Lucas Fernandes, BRA, M, 1.75, 69, 20-09-97, São Bernardo do Campo, Re-Registered (11)
+26, Douglas Bacelar, BRA, D, 1.90, 84, 04-04-90, São Paulo, Chapecoense (On Loan)
+8, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Grêmio

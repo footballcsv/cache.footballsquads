@@ -1,0 +1,48 @@
+=  Zaragoza - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cristian Álvarez, ARG, G, 1.86, 88, 13-11-85, General Lagos, San Lorenzo
+2, Carlos Vigaray, ESP, D, 1.82, 70, 07-09-94, Leganés, Alavés
+3, Daniel Torres, COL, M, 1.83, 80, 15-11-89, Caquezá, Alavés
+5, Jawad El Yamiq, MAR, D, 1.90, 83, 29-02-92, Khourigba, Genoa
+6, Alberto Guitián, ESP, D, 1.82, 74, 29-07-90, Los Corrales de Buelna, Valladolid
+7, Miguel Linares, ESP, F, 1.81, 72, 30-09-82, Zaragoza, Reus
+8, André Pereira, POR, F, 1.88, 81, 05-05-95, Porto, FC Porto
+9, Alberto Soro, ESP, M, 1.73, 63, 09-03-99, Ejea de los Caballeros, Real Madrid
+10, Javi Ros, ESP, M, 1.72, 67, 16-02-90, Pamplona, Mallorca
+11, Javi Puado, ESP, F, 1.77, 69, 25-05-98, Barcelona, Espanyol
+12, James Igbekeme, NGA, M, 1.70, 66, 04-07-95, Lagos, Gil Vicente
+13, Álvaro Ratón, ESP, G, 1.92, 75, 29-01-93, O Carballiño, Villanovense
+14, Guti, ESP, M, 1.80, 78, 30-12-96, Zaragoza, Zaragoza B
+15, Álex Blanco, ESP, M, 1.78, 70, 16-12-98, Benidorm, Valencia B
+16, Íñigo Eguaras, ESP, M, 1.81, 76, 07-03-92, Antsoain, Mirandés
+17, Carlos Nieto, ESP, D, 1.79, 74, 05-05-96, Zaragoza, Zaragoza B
+18, Pichu Atienza, ESP, D, 1.90, 85, 18-01-90, Córdoba, Numancia
+20, Burgui, ESP, F, 1.84, 71, 29-10-93, Burguillos del Cerro, Alavés
+21, Alberto Zapater, ESP, M, 1.80, 80, 13-06-85, Zaragoza, Lokomotiv Moscow
+22, Julián Delmás, ESP, D, 1.73, 61, 20-04-95, Zaragoza, Zaragoza B
+23, Shinji Kagawa, JPN, M, 1.72, 63, 17-03-89, Hyogo, Borussia Dortmund
+26, Luis Suárez, COL, F, 1.85, 74, 02-12-97, Santa Marta, Watford
+27, Enrique Clemente, ESP, D, 1.85, 81, 04-03-99, Zaragoza, Zaragoza B
+28, Marcos Baselga, ESP, F, , , 15-02-99, Zaragoza, Zaragoza B
+29, David Vicente, ESP, D, 1.72, 67, 23-04-99, Zaragoza, Zaragoza B
+30, Jannick Buyla, EQG, M, 1.80, 80, 06-10-98, Zaragoza, Zaragoza B
+31, Sergio García, ESP, G, 1.88, 79, 30-07-97, Valdáliga, Racing Ferrol
+32, Jesús Álvarez, ESP, D, , , 17-11-99, Zaragoza, Zaragoza B
+33, Marc Aguado, ESP, M, 1.78, 67, 22-02-00, Zaragoza, Zaragoza B
+37, Ahmed Belhadji, ESP, F, , , 16-11-97, Tàrrega, Cornellà
+38, Andrés Borge, ESP, D, 1.81, 72, 23-10-01, Zaragoza, Zaragoza B
+39, Alejandro Francés, ESP, D, 1.80, 70, 01-08-02, Zaragoza, Zaragoza B
+40, Francho Serrano, ESP, M, 1.77, 72, 17-10-01, Zaragoza, Zaragoza B
+41, Juan Carlos Azón, ESP, G, , , 06-07-00, Zaragoza, Zaragoza B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Diogo Verdasca, POR, D, 1.85, 80, 26-10-96, Guimarães, Beitar Jerusalem
+11, Raphael Dwamena, GHA, F, 1.84, 81, 12-09-95, Nkawkaw, Levante
+8, Jorge Pombo, ESP, M, 1.73, 78, 29-08-94, Zaragoza, Cádiz (On Loan)
+19, Giorgi Papunashvili, GEO, M, 1.80, 76, 02-09-95, Tbilisi, Racing Santander (On Loan)
+3, Daniel Lasure, ESP, D, 1.76, 71, 27-02-94, Zaragoza, Tenerife (On Loan)
+4, Federico Bikoro, EQG, D, 1.88, 72, 17-03-96, Douala, Badajoz (On Loan)
+20, Simone Grippo, SUI, D, 1.88, 84, 12-12-88, Basel, Oviedo

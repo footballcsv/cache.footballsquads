@@ -1,0 +1,37 @@
+=  Osasuna - Spanish LaLiga2 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergio Herrera, ESP, G, 1.92, 82, 05-06-93, Miranda de Ebro, Huesca
+2, Javier Flaño, ESP, D, 1.77, 68, 19-08-84, Pamplona, Mirandés
+3, Tano Bonnín, DOM, D, 1.84, 74, 30-06-90, Palma de Mallorca, Villarreal B
+4, Miguel Flaño, ESP, D, 1.77, 72, 19-08-84, Pamplona, Osasuna B
+6, Oier Sanjurjo, ESP, M, 1.78, 66, 25-05-86, Pamplona, Osasuna B
+7, David Rodríguez, ESP, F, 1.78, 72, 14-02-86, Talavera de la Reina, Alcorcón
+8, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Huesca
+9, Quique, ESP, F, 1.75, 67, 16-05-90, Valladolid, Almería
+10, Roberto Torres, ESP, M, 1.76, 69, 07-03-89, Pamplona, Osasuna B
+11, Carlos Clerc, ESP, M, 1.80, 72, 21-02-92, Barcelona, Espanyol
+12, Róber Ibañez, ESP, M, 1.77, 71, 22-03-93, Valencia, Getafe
+13, Manu, ESP, G, 1.82, 75, 29-09-81, Madrid, Betis
+15, Unai García, ESP, M, 1.76, 72, 03-09-92, Esquíroz, Osasuna B
+17, Xisco, ESP, F, 1.86, 84, 27-06-86, Palma de Mallorca, Muangthong U
+18, Lillo, ESP, D, 1.76, 76, 27-03-89, Alicante, Sporting Gijón
+19, Borja Lasso, ESP, M, 1.78, 72, 01-01-94, Seville, Sevilla
+20, Miguel de las Cuevas, ESP, M, 1.75, 70, 19-06-86, Alicante, Spezia
+21, Joaquín Arzura, ARG, M, 1.70, 71, 18-05-93, Campana, River Plate
+22, Sebastián Coris, ESP, M, 1.82, 72, 31-05-93, Tossa de Mar, Girona
+23, Aridane, ESP, D, 1.86, 77, 23-03-89, Fuerteventura, Cádiz
+24, Lucas Torró, ESP, M, 1.88, 79, 19-07-94, Concentaina, Real Madrid B
+26, Juan Pérez, ESP, G, 1.92, 78, 15-07-96, Almudevar, Osasuna B
+28, Luis Perea, ESP, M, 1.92, 85, 25-08-97, Alcalá de Henares, Atlético Madrid B
+30, Kike Barja, ESP, F, 1.78, 69, 01-04-97, Pamplona, Osasuna B
+36, Antonio Otegui, ESP, M, 1.75, 70, 07-03-98, Pamplona, Osasuna B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Miguel Díaz, ESP, M, 1.85, 72, 24-01-94, Estella, Osasuna B
+19, Mateo García, ARG, M, 1.67, 55, 10-09-96, Córdoba, Las Palmas
+5, David García, ESP, D, 1.85, 72, 14-02-94, Pamplona, Cultural Leonesa (On Loan)
+34, Aitor Buñuel, ESP, D, 1.80, 74, 10-02-98, Tafalla, Valencia B (On Loan)
+14, Fausto Tienza, ESP, M, 1.83, 75, 08-01-90, Talavera la Real, Cádiz

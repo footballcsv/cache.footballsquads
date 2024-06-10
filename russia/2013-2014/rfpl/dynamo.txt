@@ -1,0 +1,42 @@
+=  Dynamo Moscow - Russian Football Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anton Shunin, RUS, G, 1.91, 81, 27-01-87, Moscow, Dynamo Moscow-2
+2, Aleksey Kozlov, RUS, D, 1.86, 78, 25-12-86, Petrozavodsk, Kuban Krasnodar
+3, Yuriy Zhirkov, RUS, M, 1.80, 75, 20-08-83, Tambov, Anzhi Makhachkala
+5, Douglas, NED, D, 1.92, 80, 12-01-88, São Paulo, FC Twente
+6, Leandro Fernández, ARG, D, 1.79, 80, 30-01-83, Rosario, River Plate
+7, Balázs Dzsudzsák, HUN, M, 1.79, 72, 23-12-86, Nyírlugos, Anzhi Makhachkala
+8, Artur Yusupov, RUS, M, 1.79, 71, 01-09-89, Samara, FC Togliatti
+9, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Anzhi Makhachkala
+10, Andriy Voronin, UKR, F, 1.77, 79, 21-07-79, Odessa, Liverpool
+11, Alan Kasaev, RUS, M, 1.73, 67, 08-04-86, Vladikavkaz, Rubin Kazan
+13, Vladimir Granat, RUS, D, 1.84, 80, 22-05-87, Ulan-Ude, Dynamo Moscow-2
+14, Pavel Solomatin, RUS, F, 1.76, 73, 04-04-93, Tolyatti, Karelia Petrozavodsk
+16, Cristian Noboa, ECU, M, 1.81, 74, 09-04-85, Guayaquil, Rubin Kazan
+17, Alan Gatagov, RUS, M, 1.80, 71, 23-01-91, Vladikavkaz, Lokomotiv Moscow
+18, Roman Berezovskiy, ARM, G, 1.88, 78, 05-08-74, Yerevan, FC Khimki
+19, Evgeniy Frolov, RUS, G, 1.94, 82, 05-02-88, Saransk, Mordovia Saransk
+21, Gheorghe Florescu, ROU, M, 1.79, 77, 21-05-84, Cluj-Napoca, Astra Giurgiu
+22, Kevin Kuranyi, GER, F, 1.90, 80, 02-03-82, Rio de Janeiro, Schalke
+23, Luke Wilkshire, AUS, D, 1.76, 75, 02-10-81, Wollongong, FC Twente
+25, Vladimir Dyadyun, RUS, F, 1.80, 71, 12-07-88, Omsk, Rubin Kazan
+27, Igor Denisov, RUS, M, 1.76, 75, 17-05-84, St. Petersburg, Anzhi Makhachkala
+28, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Zenit St Petersburg
+32, Marko Lomić, SRB, D, 1.89, 80, 13-09-83, Čačak, Partizan Belgrade
+47, Roman Zobnin, RUS, M, 1.84, 74, 11-02-94, Irkutsk, Akademiya Tolyatti
+55, Vladimir Gabulov, RUS, G, 1.90, 81, 19-10-83, Mozdok, Anzhi Makhachkala
+84, Christopher Samba, CGO, D, 1.93, 91, 28-03-84, Créteil, Anzhi Makhachkala
+61, Moshtagh Yaghoubi, FIN, M, 1.78, 76, 08-11-94, Kabul, Spartaks Jūrmala
+99, Aleksey Ionov, RUS, M, 1.77, 68, 18-02-89, Kingisepp, Anzhi Makhachkala
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+56, Vladimir Sobolev, RUS, M, 1.67, 65, 30-07-91, Gukovo, Anzhi Makhachkala (On Loan)
+15, Alexandru Epureanu, MDA, D, 1.86, 80, 27-09-86, Chişinău, Anzhi Makhachkala
+4, Igor Shitov, BLR, D, 1.85, 80, 24-10-86, Polotsk, Mordovia Saransk
+9, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Anzhi Makhachkala (On Loan)
+93, Andrey Panyukov, RUS, F, 1.78, 75, 25-09-94, Moscow, Spartak Nalchik (On Loan)
+44, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Volga Nizhny Novgorod
+91, Aleksandr Kokorin, RUS, F, 1.82, 72, 19-03-91, Moscow, Re-Registered (9)

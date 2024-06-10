@@ -1,0 +1,44 @@
+=  Liverpool - Uruguayan Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sebastián Britos, URU, G, 1.90, 87, 02-01-88, Montevideo, Central Español
+2, Ignacio Rodríguez, URU, D, 1.89, 86, 10-11-03, Montevideo, None
+3, Juan Izquierdo, URU, D, 1.86, 74, 04-07-97, Montevideo, Nacional [URU]
+4, Facundo Perdomo, URU, D, 1.74, 67, 21-08-99, Montevideo, Sud América
+5, Matías Silva, URU, M, 1.73, 65, 19-09-04, Melo, None
+6, Federico Pereira, URU, D, 1.85, 86, 24-02-00, Montevideo, None
+7, Renzo Machado, URU, F, 1.77, 73, 21-09-05, Rocha, None
+8, Gonzalo Nápoli, URU, M, 1.78, 65, 08-05-00, Montevideo, River Plate [URU]
+9, Thiago Vecino, URU, F, 1.84, 89, 25-02-99, Montevideo, Nacional [URU]
+10, Alan Medina, URU, F, 1.70, 71, 10-04-98, Montevideo, None
+11, Miguel Samudio, PAR, D, 1.75, 76, 24-08-86, Capiatá, Libertad
+12, Rafael Hornos, URU, G, 1.88, 86, 05-11-04, Montevideo, None
+14, Rodrigo Rivero, URU, M, 1.72, 68, 27-12-95, Colonia del Sacramento, Libertad
+15, Pablo Siles, URU, M, 1.75, 64, 15-07-97, Melo, Athletico Paranaense
+16, Martín Barrios, URU, M, 1.76, 68, 24-01-99, Montevideo, Racing Club [URU]
+17, Marcelo Meli, ARG, M, 1.75, 74, 20-06-92, Salto, Aldosivi (Mar del Plata)
+18, Agustín Cayetano, URU, D, 1.80, 73, 09-08-99, Montevideo, Sud América
+19, Luciano Rodríguez, URU, F, 1.79, 76, 16-07-03, Montevideo, Progreso
+20, Matías Ocampo, URU, F, 1.80, 74, 14-03-02, Montevideo, Bellinzona
+21, Sebastián Lentinelly, URU, G, 1.82, 79, 07-08-97, Salto, None
+23, Rubén Bentancourt, URU, F, 1.86, 74, 02-03-93, Salto, Peñarol
+24, Kevin Amaro, URU, D, 1.77, 72, 03-03-04, Montevideo, None
+25, Federico Andueza, URU, D, 1.89, 80, 25-05-97, Juan Lacaze, Sarmiento (Junín)
+27, Yordi López, URU, M, 1.72, 71, 17-06-02, Artigas, None
+28, Bruno Gracés, URU, M, 1.80, 66, 21-04-06, Salto, None
+30, Anthony Aires, URU, F, 1.77, 74, 18-05-04, Las Piedras, None
+31, Lucas Wasilewsky, URU, M, 1.66, 63, 21-04-03, Juan Lacaze, None
+32, Francisco Bregante, URU, D, 1.79, 72, 18-04-04, Montevideo, None
+33, Mateo Antoni, URU, D, 1.80, 82, 22-04-03, Punta del Este, Nacional [URU]
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Leandro Otormín, URU, F, 1.76, 70, 30-07-96, Paso de los Toros, Larissa
+15, Gastón Martirena, URU, D, 1.73, 65, 05-01-00, Montevideo, Racing Club
+4, Gonzalo Pérez, URU, D, 1.78, 77, 04-01-01, Montevideo, Lanús
+22, Gervásio Olivera, URU, D, 1.69, 69, 01-08-00, -, River Plate [URU]
+9, Maicol Cabrera, URU, F, 1.86, 83, 11-05-96, Maldonado, River Plate [URU]
+30, Matías Zunino, URU, D, 1.76, 70, 20-04-90, Canelones, Boston River
+26, Lucas Lemos, URU, M, 1.83, 75, 26-02-00, Montevideo, Racing Club [URU] (On Loan)
+29, Fabricio Díaz, URU, M, 1.76, 72, 03-02-03, Las Piedras, Al-Gharafa

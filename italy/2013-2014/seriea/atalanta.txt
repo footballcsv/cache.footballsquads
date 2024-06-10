@@ -1,0 +1,47 @@
+=  Atalanta - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Lazio
+3, Stefano Lucchini, ITA, D, 1.86, 76, 02-10-80, Codogno, Sampdoria
+4, Lionel Scaloni, ARG, D, 1.82, 80, 16-05-78, Rosario, Lazio
+5, Luigi Giorgi, ITA, M, 1.85, 75, 19-04-87, Ascoli Piceno, Novara
+6, Gianpaolo Bellini, ITA, D, 1.80, 75, 27-03-80, Sarnico, None
+7, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Internazionale
+8, Giulio Migliaccio, ITA, M, 1.80, 81, 23-06-81, Mugnano di Napoli, Palermo
+9, Rubén Bentancourt, URU, F, 1.86, 74, 02-03-93, Salto, PSV Eindhoven
+10, Giacomo Bonaventura, ITA, M, 1.78, 69, 22-08-89, San Severino Marche, None
+11, Maximiliano Moralez, ARG, M, 1.60, 54, 27-02-87, Granadero Baigorria, Vélez Sarsfield
+15, Mattia Caldara, ITA, D, 1.87, 80, 05-05-94, Bergamo, None
+17, Carlos Carmona, CHI, M, 1.79, 77, 21-02-87, Coquimbo, Reggina
+18, Daniele Baselli, ITA, M, 1.82, 70, 12-03-92, Brescia, Cittadella
+19, Germán Denis, ARG, F, 1.83, 87, 10-09-81, Lomas de Zamora, Udinese
+20, Marcelo Estigarribia, PAR, M, 1.81, 70, 21-09-87, Fernando de la Mora, Deportivo Maldonado
+21, Luca Cigarini, ITA, M, 1.75, 72, 20-06-86, Montecchio Emilia, Napoli
+23, Franco Brienza, ITA, M, 1.68, 68, 19-03-79, Cantù, Palermo
+27, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Siena
+28, Davide Brivio, ITA, D, 1.85, 81, 17-03-88, Milan, Lecce
+29, Yohan Benalouane, TUN, D, 1.87, 85, 28-03-87, Bagnols-sur-Cèze, Parma
+33, Mario Yepes, COL, D, 1.87, 83, 13-01-76, Cali, Milan
+37, Marco Sportiello, ITA, G, 1.92, 86, 10-05-92, Desio, Poggibonsi
+44, Riccardo Cazzola, ITA, M, 1.88, 84, 08-10-85, Verona, Juve Stabia
+47, Andrea Consigli, ITA, G, 1.89, 79, 27-01-87, Milan, None
+77, Cristian Raimondi, ITA, M, 1.82, 78, 30-04-81, San Giovanni in Bianco, Livorno
+78, Giorgio Frezzolini, ITA, G, 1.86, 80, 21-01-76, Rome, Ascoli
+90, Moussa Koné, CIV, M, 1.80, 77, 12-02-90, Anyama, None
+91, Giuseppe De Luca, ITA, F, 1.78, 72, 11-10-91, Angera, Varese
+92, Gianluca Barba, ITA, M, 1.72, 68, 27-02-95, Fiorenzuola, None
+93, Constantin Nica, ROU, D, 1.85, 81, 18-03-93, Afumaţi, Dinamo Bucureşti
+94, Federico Varano, ITA, M, 1.80, 70, 21-01-95, Vigevano, None
+95, Joakim Olausson, SWE, M, 1.79, 75, 14-01-95, Starrkarr, Örgryte IS
+96, Mario Pugliese, ITA, M, 1.78, 65, 26-03-96, San Giorgio a Cremano, None
+97, Giacomo Parigi, ITA, F, 1.85, , 17-06-96, Arezzo, Arezzo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Daniele Capelli, ITA, D, 1.84, 85, 20-06-86, Calcinate, Cesena (On Loan)
+61, Roberto Gagliardini, ITA, M, 1.88, 77, 07-04-94, Bergamo, Cesena (On Loan)
+89, Guido Marilungo, ITA, F, 1.75, 72, 09-08-89, Montegranaro, Cesena (On Loan)
+9, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Carpi (On Loan)
+13, Michele Canini, ITA, D, 1.87, 84, 05-06-85, Brescia, Chievo Verona (On Loan)
+16, Ciro Polito, ITA, G, 1.84, 78, 12-04-79, Naples, Sassuolo

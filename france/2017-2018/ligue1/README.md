@@ -1,0 +1,23 @@
+# French Ligue 1 2017/2018
+
+20 teams
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Bordeaux](bordeaux.txt)
+- [Caen](caen.txt)
+- [Dijon](dijon.txt)
+- [Guingamp](guinga.txt)
+- [Lille](lille.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nantes](nantes.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)
+- [Troyes](troyes.txt)

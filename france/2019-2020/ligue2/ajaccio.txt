@@ -1,0 +1,36 @@
+=  Ajaccio - French Ligue 2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Benjamin Leroy, FRA, G, 1.83, 68, 07-04-89, Cucq, Dijon
+2, Gédéon Kalulu, FRA, D, 1.79, 74, 29-08-97, Lyon, Lyon
+3, Ismaël Diallo, CIV, D, 1.78, 74, 29-01-97, Abidjan, Bastia
+5, Lucas Pellegrini, FRA, M, 1.87, 69, 17-04-00, Ajaccio, None
+6, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, Laval
+7, Cyrille Bayala, BFA, M, 1.81, 68, 24-05-96, Ouagadougou, Lens
+9, Gaëtan Courtet, FRA, F, 1.80, 72, 22-02-89, Lorient, Lorient
+10, Qazim Laçi, ALB, M, 1.79, 69, 19-01-96, Peshkopi, Olympiakos
+11, Matteo Tramoni, FRA, M, 1.75, 65, 20-01-00, Ajaccio, None
+12, Joseph Mendes, GNB, F, 1.86, 80, 30-03-91, Évreux, Reading
+13, Clech Loufilou, GAB, M, , , 12-04-99, , Mangasport
+14, Alexis Flips, FRA, F, 1.73, 65, 18-01-00, Villeneuve-d'Ascq, Lille
+15, Abdoulaye Keita, MLI, M, 1.75, 75, 05-01-94, Bamako, Olympiakos
+18, Johan Cavalli, FRA, M, 1.70, 65, 12-09-81, Ajaccio, Nîmes
+19, Hugo Cuypers, BEL, F, 1.85, 76, 07-02-97, Liège, Olympiakos
+20, Mohamed Youssouf, FRA, M, 1.68, 64, 26-03-88, Paris, Levadiakos
+21, Cédric Avinel, FRA, D, 1.87, 84, 11-09-86, Paris, Clermont
+22, Kévin Lejeune, FRA, M, 1.81, 76, 22-01-85, Cambrai, Metz
+23, Matthieu Huard, FRA, D, 1.77, 71, 09-05-98, Neuilly-sur-Seine, Rennes
+26, Ablie Jallow, GAM, M, 1.66, 56, 14-11-98, Bundung, Metz
+29, Maki Tall, USA, F, 1.83, 75, 30-10-95, Washington, DC, Tours
+30, François-Joseph Sollacaro, FRA, G, 1.78, 75, 21-03-94, Ajaccio, None
+33, Jérémy Corinus, FRA, M, 1.87, 76, 16-03-97, Évry, Amiens
+34, Félix Tomi, FRA, F, 1.75, 70, 31-08-00, Ajaccio, None
+36, Mounaïm El Idrissy, FRA, F, 1.81, 75, 10-02-99, Martigues, None
+40, Lucas Marsella, FRA, G, 1.82, 72, 11-01-00, Cannes, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Caleb Zady Sery, CIV, F, 1.76, 69, 20-12-99, Agbeille, Caen
+17, Gaël Andonian, ARM, D, 1.85, 74, 07-02-95, Marseille, 
+24, Jérémy Choplin, FRA, D, 1.83, 70, 09-02-85, Le Mans, Le Mans

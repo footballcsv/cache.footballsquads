@@ -1,0 +1,43 @@
+=  Górnik Zabrze - Polish Ekstraklasa 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mateusz Sławik, POL, G, 1.83, 80, 03-11-80, Katowice, Górnik Wesoła
+2, Bartosz Kopacz, POL, D, 1.88, 80, 21-05-92, Jastrzębie Zdrój, GKS Jastrzębie
+3, Antoni Łukasiewicz, POL, M, 1.88, 80, 26-06-83, Warsaw, ŁKS Łódź
+5, Oleksandr Shevelyukhin, UKR, D, 1.92, 85, 27-08-82, Uzhgorod, Sevastopol
+6, Aleksander Kwiek, POL, M, 1.76, 70, 13-01-83, Wodzisław Śląski, Odra Wodzisław
+7, Sergey Mošnikov, EST, M, 1.77, 71, 07-01-88, Pärnu, Pogoń Szczecin
+8, Przemysław Oziębała, POL, F, 1.80, 77, 24-08-86, Koziegłowy, Widzew Łódź
+10, Konrad Nowak, POL, F, 1.75, 69, 07-11-94, Katowice, Rozwój Katowice
+13, Tomasz Margol, POL, M, 1.85, 81, 17-04-89, Krasnobród, Stal Rzeszów
+14, Prejuce Nakoulma, BFA, F, 1.78, 76, 21-04-87, Ouagadougou, Bogdanka Łęczna
+15, Grzegorz Bonin, POL, M, 1.88, 78, 02-12-83, Tczew, Pogoń Szczecin
+17, Paweł Olkowski, POL, D, 1.84, 75, 13-02-90, Ozimek, GKS Katowice
+19, Mariusz Przybylski, POL, M, 1.83, 73, 19-01-82, Częstochowa, Polonia Bytom
+20, Mateusz Zachara, POL, F, 1.80, 71, 27-03-90, Częstochowa, Raków Częstochowa
+21, Mariusz Magiera, POL, D, 1.78, 71, 25-08-84, Andrychów, Wisła Kraków
+22, Seweryn Gancarczyk, POL, D, 1.83, 74, 22-11-81, Zamość, ŁKS Łódź
+23, Tomasz Zahorski, POL, F, 1.90, 80, 22-11-84, Olsztyn, Jagiellonia Białystok
+24, Michael Bemben, GER, M, 1.81, 77, 28-01-76, Ruda, Union Berlin
+26, Adam Danch, POL, D, 1.80, 73, 15-12-87, Ruda Śląska, Gwarek Zabrze
+27, Daniel Barbus, POL, F, 1.82, 65, 10-02-96, Zabrze, Promotor Południe Zabrze
+28, Łukasz Skorupski, POL, G, 1.87, 84, 05-05-91, Zabrze, None
+29, Krzysztof Mączyński, POL, M, 1.75, 66, 23-05-87, Kraków, Wisła Kraków
+30, Ireneusz Jeleń, POL, F, 1.84, 74, 09-04-81, Cieszyn, Podbeskidzie Bielsko-Biała
+33, Norbert Witkowski, POL, G, 1.90, 80, 05-08-81, Olsztyn, Iraklis
+38, Bartosz Iwan, POL, M, 1.86, 75, 18-04-84, Kraków, Garbarnia Kraków
+89, Wojciech Łuczak, POL, M, 1.82, 72, 20-07-89, Zgorzelec, Bogdanka Łęczna
+91, Mateusz Słodowy, POL, M, 1.84, 76, 08-08-91, Wodzisław Śląski, Viktoria Žižkov
+96, Mateusz Kuchta, POL, G, 1.88, 73, 05-02-96, Katowice, Stadion Śląski Chorzów
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Michał Bedronka, POL, D, 1.86, 80, 22-02-93, Racibórz, 
+99, Arkadiusz Milik, POL, F, 1.83, 73, 28-02-94, Tychy, Bayer Leverkusen
+9, Michał Jonczyk, POL, M, 1.80, 80, 11-03-92, Piotrków Trybunalski, Widzew Łódź
+7, Maciej Bębenek, POL, M, 1.73, 68, 22-09-84, Kraków, Sandecja Nowy Sącz
+23, Błażej Telichowski, POL, D, 1.87, 81, 06-06-84, Nowy Tomyśl, Podbeskidzie Bielsko-Biała
+11, Marcin Wodecki, POL, F, 1.75, 65, 14-01-88, Rybnik, Podbeskidzie Bielsko-Biała (On Loan)
+34, Michał Płonka, POL, M, 1.81, 77, 08-10-92, Knurów, Zawisza Bydgoszcz (On Loan)
+30, Gabriel Nowak, POL, M, 1.86, 78, 26-07-86, Rybnik, Rozwój Katowice (On Loan)

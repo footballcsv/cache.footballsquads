@@ -1,0 +1,52 @@
+=  Birmingham City - English Football League Championship 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Camp, NIR, G, 1.83, 75, 22-08-84, Derby, Cardiff C
+2, Wes Harding, ENG, D, 1.81, 79, 20-10-96, Leicester, None
+3, Kristian Pedersen, DEN, D, 1.89, 88, 04-08-94, Ringsted, Union Berlin
+4, Marc Roberts, ENG, D, 1.83, 81, 26-07-90, Wakefield, Barnsley
+5, Maxime Colin, FRA, D, 1.80, 76, 15-11-91, Arras, Brentford
+6, Maikel Kieftenbeld, NED, M, 1.79, 75, 26-06-90, Dalfsen, FC Groningen
+7, Dan Crowley, ENG, M, 1.75, 68, 03-07-97, Coventry, Willem II
+8, Craig Gardner, ENG, M, 1.78, 71, 25-11-86, Solihull, WBA
+10, Lukas Jutkiewicz, ENG, F, 1.85, 73, 28-03-89, Southampton, Burnley
+11, Jérémie Bela, ANG, M, 1.73, 69, 08-04-93, Melun, Albacete
+12, Harlee Dean, ENG, D, 1.90, 82, 26-07-91, Basingstoke, Brentford
+14, Jake Clarke-Salter, ENG, D, 1.88, 70, 22-09-97, Carshalton, Chelsea
+15, Jefferson Montero, ECU, M, 1.73, 70, 01-09-89, Babahoyo, Swansea C
+16, Josh McEachran, ENG, M, 1.78, 65, 01-03-93, Oxford, Brentford
+18, Kerim Mrabti, SWE, F, 1.75, 75, 20-05-94, Nacka, Djurgårdens IF
+19, Jacques Maghoma, COD, M, 1.78, 72, 23-10-87, Lubumbashi, Sheffield W
+20, Gary Gardner, ENG, M, 1.88, 82, 29-06-92, Solihull, Aston Villa
+22, Jude Bellingham, ENG, M, 1.80, 70, 29-06-03, Stourbridge, None
+23, Moha Ramos, ESP, G, 1.88, 88, 13-04-00, Santa Cruz de Tenerife, Real Madrid B
+27, Connal Trueman, ENG, G, 1.86, 74, 26-03-96, Birmingham, None
+28, Miguel Fernández, ESP, M, , , 12-08-00, Gavà, Cornellà
+29, Jonathan Grounds, ENG, D, 1.85, 87, 02-02-88, Ingleby Barwick, Oldham Ath
+33, Cheick Keita, MLI, D, 1.80, 72, 16-11-96, Bamako, Virtus Entella
+34, Ivan Šunjić, CRO, M, 1.84, 75, 09-10-96, Zenica, Dinamo Zagreb
+40, Scott Hogan, IRL, F, 1.80, 64, 13-04-92, Salford, Aston Villa
+43, Geraldo Bajrami, ALB, D, 1.87, 78, 24-09-99, Birmingham, None
+44, Caolan Boyd-Munce, NIR, M, , , 26-01-00, Belfast, Glentoran
+45, Ryan Burke, IRL, D, 1.77, 73, 23-11-00, Dublin, St Patrick's Ath
+47, Ryan Stirk, WAL, M, 1.78, 75, 25-09-00, Birmingham, None
+48, Jack Concannon, ENG, M, , , 26-01-00, Stourbridge, None
+49, Jayden Reid, ENG, F, 1.85, 73, 22-04-01, Luton, Swansea C
+50, Nico Gordon, ENG, D, 1.83, 72, 28-04-02, Birmingham, None
+51, Kyle Hurst, ENG, M, 1.78, 72, 20-01-02, Milton Keynes, MK Dons
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Isaac Vassell, ENG, F, 1.71, 71, 09-09-93, Newquay, Cardiff C
+25, Josh Dacres-Cogley, ENG, D, 1.74, 68, 12-03-96, Coventry, Crawley T (On Loan)
+30, Corey O'Keeffe, IRL, D, 1.84, 70, 05-06-98, Birmingham, Macclesfield T (On Loan)
+31, Charlie Lakin, ENG, M, 1.80, 76, 08-05-99, Solihull, Stevenage (On Loan)
+42, Steve Seddon, ENG, D, 1.79, 68, 25-12-97, Reading, Portsmouth (On Loan)
+21, Agustín Medina, ESP, D, 1.76, 71, 08-09-94, Barberà del Vallès, Cornellà (On Loan)
+37, Odin Bailey, ENG, M, 1.78, 75, 08-12-99, Birmingham, Forest Green R (On Loan)
+13, David Stockdale, ENG, G, 1.91, 84, 20-09-85, Leeds, Wycombe W (On Loan)
+17, Fran Villalba, ESP, M, 1.68, 65, 11-05-98, Valencia, Almería (On Loan)
+24, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Cádiz (On Loan)
+26, David Davis, ENG, M, 1.77, 82, 20-02-91, Smethwick, Charlton Ath (On Loan)
+46, Joe Redmond, IRL, D, 1.83, 75, 23-01-00, Dublin, Cork C (On Loan)

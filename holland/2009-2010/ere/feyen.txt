@@ -1,0 +1,51 @@
+=  Feyenoord - Dutch Eredivisie 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Kevin Hofland, NED, D, 1.85, 73, 07-06-79, Brunssum, Wolfsburg
+4, André Bahia, BRA, D, 1.82, 75, 24-11-83, Rio de Janeiro, Flamengo
+5, Tim de Cler, NED, D, 1.79, 69, 08-11-78, Leiden, AZ Alkmaar
+6, Karim El Ahmadi, MAR, M, 1.85, 78, 27-01-85, Enschede, FC Twente
+7, Denny Landzaat, NED, M, 1.78, 70, 06-05-76, Amsterdam, Wigan Ath
+8, Giovanni van Bronckhorst, NED, D, 1.78, 76, 05-02-75, Rotterdam, Barcelona
+9, Roy Makaay, NED, F, 1.88, 75, 09-03-75, Wijchen, Bayern Munich
+10, Luigi Bruins, NED, M, 1.80, 75, 09-03-87, Rotterdam, Excelsior
+11, Jon Dahl Tomasson, DEN, F, 1.80, 74, 29-08-76, Roskilde, Villarreal
+14, Leroy Fer, NED, M, 1.88, 79, 05-01-90, Zoetermeer, DWO
+15, Stefan Babović, SRB, M, 1.81, 73, 07-01-87, Berane, Nantes
+16, Darley, BRA, G, 1.87, 75, 15-12-89, Pedro Leopoldo, Atlético Mineiro
+17, Erwin Mulder, NED, G, 1.93, 88, 03-03-89, Zevenaar, Vitesse
+18, Rob van Dijk, NED, G, 1.87, 83, 15-01-69, Voorhout, SC Heerenveen
+19, Kostas Lamprou, GRE, G, 1.76, 64, 18-09-91, Athens, None
+20, Ron Vlaar, NED, D, 1.89, 80, 16-02-85, Hensbroek, AZ Alkmaar
+21, Dani Fernández, ESP, D, 1.81, 69, 20-01-83, Barcelona, Arsenal Kiev
+23, Sekou Cissé, CIV, F, 1.84, 78, 23-05-85, Dabou, Roda JC
+24, Mitchell Schet, NED, F, 1.86, 75, 28-01-88, Amsterdam, FC Utrecht
+25, Georginio Wijnaldum, NED, M, 1.72, 69, 11-11-90, Rotterdam, Sparta Rotterdam
+26, Rick van Haaren, NED, M, 1.78, 77, 21-06-91, Rotterdam, None
+27, Kelvin Leerdam, NED, M, 1.78, 70, 24-06-90, Paramaribo, Elinkwijk
+28, Bart Schenkeveld, NED, D, 1.84, 80, 28-08-91, Den Hoorn, None
+29, Stefan de Vrij, NED, D, 1.88, 78, 05-02-92, Ouderkerk aan den IJssel, None
+30, Luc Castaignos, NED, F, 1.88, 78, 27-02-92, Rotterdam, Spartaan'20
+33, Jonathan de Guzmán, NED, M, 1.73, 65, 13-09-87, Scarborough [CAN], North Scarborough
+34, Kaj Ramsteijn, NED, D, 1.87, 80, 17-01-90, Zoetermeer, None
+35, Sergio Calor, NED, D, , , 16-01-89, , Excelsior
+36, Roy Weber, NED, D, , , 16-02-89, , Excelsior
+37, Diego Biseswar, NED, F, 1.71, 73, 08-03-88, Amsterdam, Telstar
+38, Sanny Monteiro, NED, D, 1.83, 77, 11-12-89, Rotterdam, Leonidas
+39, Hanne Hagary, NED, F, 1.79, 67, 27-01-89, Rotterdam, Xerxes-DZB
+41, Bobby Jansen, NED, G, , , 11-01-90, , Excelsior
+42, Gianluca Been, NED, M, , , 25-03-90, , None
+43, Rutger de Vries, NED, M, , , 14-03-90, , Excelsior
+44, Jaap van Duijn, NED, F, 1.86, 74, 23-12-90, Katwijk, PSV Eindhoven
+45, Marlon Oranje, NED, F, , , 05-04-90, , Excelsior
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Tim Vincken, NED, F, 1.74, 65, 12-09-86, Rotterdam, Excelsior (On Loan)
+24, Dwight Tiendalli, NED, D, 1.77, 68, 21-10-85, Paramaribo, FC Twente
+2, Aleksandar Ignjatović, SRB, D, 1.85, 79, 11-04-88, Niš, Borac Čačak
+31, Manteiga, BRA, M, 1.77, 69, 19-03-90, Maceió, Ponte Preta (On Loan)
+32, Luis Pedro, NED, F, 1.79, 71, 27-04-90, Luanda, Excelsior (On Loan)
+34, Miquel Nelom, NED, D, 1.74, 69, 22-09-90, Rotterdam, Excelsior (On Loan)
+22, Andwelé Slory, NED, F, 1.70, 59, 27-09-82, Paramaribo, WBA

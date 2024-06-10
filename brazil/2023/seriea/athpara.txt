@@ -1,0 +1,57 @@
+=  Athletico Paranaense - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Bento, BRA, G, 1.90, 87, 10-06-99, Curitiba, None
+3, José Ivaldo, BRA, D, 1.85, 78, 21-02-97, Maceió, None
+4, Kaique Rocha, BRA, D, 1.95, 87, 28-02-01, Taboão da Serra, Sampdoria
+5, Fernandinho, BRA, M, 1.79, 67, 04-05-85, Londrina, Manchester C
+6, Fernando, BRA, D, 1.81, 77, 14-09-99, Santa Maria, Chapecoense
+8, Vitor Bueno, BRA, M, 1.83, 79, 05-09-94, Monte Alto, São Paulo
+9, Vitor Roque, BRA, F, 1.72, 76, 28-02-05, Timóteo, Cruzeiro
+10, Bruno Zapelli, ITA, M, 1.81, 78, 16-05-02, Villa Carlos Paz, Belgrano (Córdoba)
+11, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Fluminense
+14, Agustín Canobbio, URU, F, 1.75, 72, 01-10-98, Montevideo, Peñarol
+17, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, Flamengo
+19, Thiago Andrade, BRA, F, 1.80, 68, 31-10-00, Araras, New York C
+21, Vinicius Kauê, BRA, D, 1.81, 78, 01-03-03, Presidente Prudente, None
+22, Madson, BRA, D, 1.82, 67, 13-01-92, Salvador, Santos
+23, Arturo Vidal, CHI, M, 1.81, 74, 22-05-87, Santiago, Flamengo
+24, Léo Linck, BRA, G, 1.95, 87, 03-03-01, Marechal Cândido Rondon, None
+25, Cacá, BRA, D, 1.85, 80, 25-04-99, Visconde do Rio Branco, Tokushima Vortis
+26, Erick, BRA, M, 1.76, 64, 14-11-97, Nova Lima, PSTC
+28, Tomás Cuello, ARG, M, 1.78, 64, 05-03-00, San Miguel de Tucumán, Atlético Tucumán
+32, Luciano Arriagada, CHI, F, 1.84, 73, 30-04-02, Lota, Colo-Colo
+33, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Trabzonspor
+34, Pedro Henrique, BRA, D, 1.88, 79, 02-10-95, Lauro Müller, Corinthians
+35, Rômulo, BRA, F, 1.93, 78, 08-02-02, Marialva, None
+37, Lucas Esquivel, ARG, D, 1.80, 75, 14-10-01, Santa Fe, Unión (Santa Fe)
+41, Mycael, BRA, G, 1.87, 78, 12-03-04, Porto Velho, None
+42, Matheus Felipe, BRA, D, 1.86, 84, 09-11-98, Teresina, Grêmio Prudente
+43, Gabriel Pereira, BRA, G, 1.96, 94, 20-07-02, Itapema, Monaco
+44, Thiago Heleno, BRA, D, 1.85, 84, 17-09-88, Sete Lagoas, Deportivo Maldonado
+45, Lucas Belezi, BRA, D, 1.86, 67, 08-05-03, São Paulo, Corinthians
+46, Marcos André, BRA, D, -, -, 23-06-06, -, None
+53, Dudu, BRA, M, 1.77, 71, 01-01-06, Curitiba, None
+54, Chiqueti, BRA, M, 1.69, 63, 09-02-05, São Paulo, None
+58, João Vitor, BRA, D, -, -, 23-02-04, -, None
+60, Ataíde, BRA, D, 1.77, 82, 19-01-04, Piracicaba, None
+61, Derik, BRA, D, 1.66, 60, 24-07-05, São Paulo, None
+80, Alex Santana, BRA, M, 1.82, 75, 13-05-95, Itatibaia, Ludogorets Razgrad
+87, Danielzinho, BRA, M, 1.70, 58, 28-06-02, São Carlos, Novorizontino
+88, Christian, BRA, M, 1.78, 67, 19-12-00, Curitiba, None
+90, Emersonn, BRA, F, 1.86, 83, 16-07-04, Cachoeiro de Itapemirim, None
+92, Pablo, BRA, F, 1.85, 76, 23-06-92, Londrina, São Paulo
+97, Arthur Zanella, BRA, D, 1.88, 76, 10-09-04, Içara, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Bryan García, ECU, M, 1.75, 67, 18-01-01, Río Verde, Independiente del Valle
+20, Reinaldo, BRA, F, 1.77, 73, 06-06-01, Criciúma, Santa Clara
+10, David Terans, URU, M, 1.76, 73, 11-08-94, Montevideo, Pachuca
+23, Léo Linck, BRA, G, 1.95, 87, 03-03-01, Marechal Cândido Rondon, Re-Registered (24)
+48, Pedrinho, BRA, D, 1.77, 60, 11-07-02, Salvador, Shakhtar Donetsk
+78, Julimar, BRA, F, 1.88, 87, 25-01-01, Nova Ipixuna, Mirassol (On Loan)
+18, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Bahia
+2, Khellven, BRA, D, 1.76, 73, 25-02-01, Alexandria, CSKA Moscow
+7, Marcelo Cirino, BRA, F, 1.82, 74, 22-01-92, Maringá, 

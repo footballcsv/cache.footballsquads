@@ -1,0 +1,39 @@
+=  1.FC Union Berlin - German 2.Bundesliga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Daniel Haas, GER, G, 1.88, 82, 01-08-83, Erlenbach, 1899 Hoffenheim
+2, Christopher Quiring, GER, M, 1.72, 67, 23-11-90, Berlin, None
+4, Roberto Punčec, CRO, M, 1.86, 74, 27-10-91, Vinkovci, Maccabi Tel Aviv
+5, Christian Stuff, GER, D, 1.99, 93, 11-08-82, Berlin, Saarbrücken
+6, Marc Pfertzel, FRA, D, 1.82, 75, 21-05-81, Mulhouse, Kavala
+7, Patrick Kohlmann, GER, D, 1.82, 75, 25-02-83, Dortmund, RW Erfurt
+8, Barış Özbek, TUR, M, 1.80, 72, 14-09-86, Castrop-Rauxel, Trabzonspor
+9, Sören Brandy, GER, F, 1.82, 77, 06-05-85, Verl, Duisburg
+10, Martin Dausch, GER, M, 1.75, 74, 04-03-86, Memmingen, Aalen
+11, Simon Terodde, GER, F, 1.92, 82, 02-03-88, Bocholt, Köln
+12, Florian Brüggemann, GER, G, 1.80, 81, 18-10-94, , None
+13, Björn Kopplin, GER, D, 1.84, 81, 07-01-89, Berlin, Bochum
+14, Pascal Wedemann, GER, F, 1.84, 77, 14-04-94, Berlin, None
+15, Mario Eggimann, SUI, D, 1.90, 84, 24-01-81, Brugg, Hannover 96
+16, Abdallah Gomaa, EGY, F, 1.68, 65, 10-01-96, Arish, ENPPI
+17, Torsten Mattuschka, GER, M, 1.86, 83, 04-10-80, Cottbus, Energie Cottbus
+18, Benjamin Köhler, GER, M, 1.72, 66, 04-08-80, Berlin, Kaiserslautern
+19, Damir Kreilach, CRO, M, 1.86, 79, 16-04-89, Vukovar, Rijeka
+20, Jan Glinker, GER, G, 1.87, 81, 18-01-84, Berlin, None
+21, Ahmed Waseem Razeek, SRI, M, 1.78, 68, 19-09-94, Berlin, TeBe Berlin
+24, Steven Skrzybski, GER, F, 1.73, 64, 18-11-92, Berlin, None
+25, Björn Jopek, GER, M, 1.82, 76, 24-08-93, Berlin, None
+26, Niklas Wiebach, GER, D, 1.85, 70, 30-01-95, Berlin, None
+27, Eroll Zejnullahu, GER, M, 1.80, 70, 19-10-94, Berlin, Hertha Zehlendorf
+29, Michael Parensen, GER, D, 1.80, 78, 24-06-86, Cologne, Köln
+31, Leonard Koch, GER, M, 1.88, 73, 23-05-95, Berlin, None
+32, Adam Nemec, SVK, F, 1.92, 90, 02-09-85, Banská Bystrica, Ingolstadt
+34, Fabian Schönheim, GER, D, 1.91, 83, 14-02-87, Kirn, Mainz
+35, Marcel Klonz, GER, G, 1.96, 91, 28-04-92, Berlin, Hannover 96
+38, Oliver Oschkenat, GER, D, 1.89, 83, 22-12-93, Berlin, None
+39, David Hollwitz, GER, M, 1.84, 74, 20-03-89, Luckenwalde, Babelsberg
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Carlos Silvio, BRA, F, 1.83, 80, 01-02-85, Mandaguari, Wolfsberger AC

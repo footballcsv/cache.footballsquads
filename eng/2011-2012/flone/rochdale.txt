@@ -1,0 +1,53 @@
+=  Rochdale - English Football League One 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Péter Kurucz, HUN, G, 1.85, 76, 30-05-88, Budapest, West Ham U
+2, Stephen Darby, ENG, D, 1.82, 79, 06-10-88, Liverpool, Liverpool
+3, Joe Widdowson, ENG, D, 1.83, 76, 29-03-89, Forest Gate, Grimsby T
+4, Marcus Holness, ENG, D, 1.83, 77, 08-12-88, Oldham, Oldham Ath
+5, Kevin Amankwaah, GHA, D, 1.85, 76, 19-05-82, Kenton, Burton Alb
+6, Brian Barry-Murphy, IRL, M, 1.85, 78, 27-07-78, Cork, Bury
+7, Jason Kennedy, ENG, M, 1.85, 74, 11-09-86, Stockton-on-Tees, Darlington
+8, Gary Jones, ENG, M, 1.78, 76, 03-06-77, Birkenhead, Barnsley
+9, Michael Symes, ENG, F, 1.91, 78, 31-10-83, Great Yarmouth, Bournemouth
+10, Ashley Grimes, ENG, M, 1.82, 71, 09-12-86, Swinton, Millwall
+11, Nicky Adams, WAL, M, 1.78, 70, 16-10-86, Bolton, Brentford
+12, Kevin Long, IRL, D, 1.88, 83, 18-08-90, Cork, Burnley
+13, Kuagica Bondo, ANG, D, 1.89, 80, 10-08-90, Luanda, Minangkabau FC
+14, Marc Twaddle, SCO, M, 1.86, 76, 27-08-86, Glasgow, Falkirk
+15, Joe Thompson, ENG, M, 1.83, 60, 05-03-89, Rochdale, None
+16, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Manchester C
+17, Dean Holden, NIR, D, 1.86, 78, 15-09-79, Salford, Chesterfield
+18, Simon Hackney, ENG, M, 1.73, 65, 05-02-84, Manchester, Colchester U
+19, Sam Minihan, ENG, M, 1.85, 74, 16-02-94, Rochdale, None
+20, Jordan Fagbola, ENG, D, 1.91, 75, 01-12-93, Manchester, None
+21, Matty Edwards, SCO, G, 1.88, 81, 22-08-90, Liverpool, Leeds U
+22, Stephen Jordan, ENG, D, 1.83, 71, 06-03-82, Warrington, Sheffield U
+23, David Lucas, ENG, G, 1.88, 84, 23-11-77, Preston, Swindon T
+24, Neill Byrne, IRL, D, 1.90, 74, 02-02-93, Portmarnock, Nottingham F
+25, Phil Edwards, ENG, D, 1.73, 71, 08-11-85, Kirkby, Stevenage
+26, Jean-Louis Akpa Akpro, FRA, F, 1.82, 69, 04-01-85, Toulouse, Grimsby T
+27, Sean McConville, ENG, M, 1.80, 74, 06-03-89, Burscough, Stockport Co
+28, Reece Gray, ENG, F, 1.70, 55, 01-09-92, Oldham, None
+29, Godwin Abadaki, ENG, F, 1.78, 75, 04-03-94, Kwara, None
+31, Jordan Andrews, ENG, G, 1.82, 75, 23-11-93, Salford, None
+32, Danny Taberner, ENG, G, 1.88, 76, 17-06-93, Bolton, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Chris O'Grady, ENG, F, 1.91, 78, 25-01-86, Nottingham, Sheffield W
+17, Paul Marshall, ENG, M, 1.85, 78, 09-07-89, Gorton, Droylsden
+1, Jake Kean, ENG, G, 1.93, 76, 04-02-91, Derby, Blackburn R
+24, Nathan Eccleston, ENG, F, 1.78, 66, 30-12-90, Manchester, Liverpool
+12, Pim Balkestein, NED, D, 1.91, 84, 29-04-87, Gouda, Brentford
+25, Ahmad Benali, ENG, M, 1.68, 65, 07-02-92, Manchester, Manchester C
+27, Roland Bergkamp, NED, F, 1.94, 84, 03-04-91, Amstelveen, Brighton & HA
+19, Matthew Barnes-Homer, ENG, F, 1.80, 79, 25-01-86, Dudley, Luton T
+9, Harry Bunn, ENG, F, 1.75, 75, 21-11-92, Oldham, Manchester C
+5, Neal Trotman, ENG, D, 1.88, 86, 26-04-87, Levenshulme, Chesterfield
+39, David Ball, ENG, F, 1.83, 75, 14-12-89, Whitefield, Peterborough U
+19, Daniel Bogdanović, MLT, F, 1.88, 78, 26-03-80, Misratah, Blackpool
+30, Brett Ormerod, ENG, F, 1.77, 77, 18-10-76, Blackburn, Blackpool
+19, Paul McCallum, ENG, F, 1.91, 76, 28-07-93, Streatham, West Ham U
+19, Temitope Obadeyi, ENG, F, 1.90, 87, 29-10-89, Birmingham, Bolton W

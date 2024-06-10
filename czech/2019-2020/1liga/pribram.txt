@@ -1,0 +1,51 @@
+=  1.FK Príbram - Czech 1.Liga 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Martin Melichar, CZE, G, 1.86, 87, 06-07-00, , None
+5, Jiří Mezera, CZE, D, 1.90, 86, 21-07-00, , None
+7, Adam Petrák, CZE, M, 1.81, 74, 20-08-99, , Slavia Prague
+8, Jakub Šašinka, CZE, F, 1.91, 85, 02-10-95, , Baník Ostrava
+9, Lukáš Pazdera, CZE, D, 1.83, 72, 06-03-87, Zlín, Baník Ostrava
+10, Miroslav Slepička, CZE, F, 1.81, 80, 10-11-81, Příbram, Písek
+11, Michal Škoda, CZE, F, 1.91, 79, 01-03-88, Prague, Zbrojovka Brno
+12, Matěj Polidar, CZE, M, 1.79, 76, 20-12-99, , Sparta Prague
+13, Mihailo Cmiljanović, SRB, D, 1.80, 81, 15-06-94, Prijepolje, Tatran Prešov
+14, Pavel Hájek, CZE, M, 1.84, 77, 03-08-01, , Sparta Prague
+15, Jan Kvída, CZE, D, 1.86, 72, 17-01-91, Příbram, Hradec Králové
+16, Dominik Kříž, CZE, M, 1.77, 68, 25-09-99, , Zbrojovka Brno
+17, Filip Zorvan, CZE, M, 1.71, 67, 07-04-96, Opočno, Hradec Králové
+19, Martin Jindráček, CZE, F, 1.85, 80, 29-11-89, Roudnice nad Labem, Teplice
+20, Jaroslav Tregler, CZE, M, 1.81, 78, 01-12-95, Hořovice, None
+21, Jan Rezek, CZE, M, 1.77, 74, 05-05-82, Most, Teplice
+22, Aydın Yılmaz, TUR, M, 1.76, 65, 29-01-88, Bakirköy, Sakaryaspor
+23, Peter Kleščík, SVK, D, 1.84, 80, 18-09-88, Čadca, AS Trenčín
+25, Karel Soldát, CZE, M, 1.87, 81, 07-11-93, , None
+26, Ondřej Kočí, CZE, G, 1.98, 95, 07-04-95, Prague, None
+27, Radek Voltr, CZE, M, 1.78, 75, 28-11-91, Hradec Králové, Slovan Liberec
+28, David Šimek, CZE, D, 1.93, 82, 15-02-98, , Dukla Prague
+30, Emmanuel Antwi, GHA, D, 1.70, 70, 05-05-96, , Slavia Prague
+31, Martin Vantruba, SVK, G, 1.96, 90, 07-02-98, Trnava, Slavia Prague
+32, Martin Nový, CZE, D, 1.78, 71, 23-06-93, Prague, Sparta Prague
+33, Olivier Kingue, CMR, D, 1.88, 85, 20-02-96, Yaoundé, Slavia Prague
+44, Soufiane Dramé, FRA, D, 1.89, 86, 27-02-96, , MFK Karviná
+77, Jan Díl, CZE, M, 1.77, 63, 28-02-97, , Přepeře
+99, Erdi Can Şehit, TUR, M, 1.70, 67, 30-03-96, Sakarya, Sakaryaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Milan Švenger, CZE, G, 1.88, 85, 06-07-86, Jablonec nad Nisou, Viktoria Žižkov
+9, Petr Průcha, CZE, M, 1.81, 74, 30-10-97, , Vlašim (On Loan)
+16, Jiří Januška, CZE, M, 1.78, 72, 11-10-97, , Vlašim (On Loan)
+18, Tomáš Jablonský, CZE, D, 1.79, 73, 21-06-87, Prague, Slavoj Vyšehrad (On Loan)
+24, Rostislav Jandera, CZE, M, 1.89, 84, 21-03-98, , Vlašim (On Loan)
+50, Filip Stuparević, SRB, F, 1.84, 75, 30-08-00, Belgrade, Watford
+77, Marko Alvir, CRO, M, 1.81, 78, 19-04-94, Zagreb, Slavia Prague
+17, Petr Janota, CZE, M, 1.74, 76, 23-03-00, , De-Registered
+18, Paulinho, POR, M, 1.76, 72, 25-12-97, São João da Madeira, Sanjoanense
+9, Sunday Adetunji, NGA, F, 1.91, 85, 10-12-97, Lagos, Lobi Stars
+31, Marek Boháč, CZE, G, 1.93, 87, 31-10-88, Prague, Pardubice
+19, Roman Květ, CZE, M, 1.87, 84, 17-12-97, , Bohemians 1905
+23, Marek Kodr, CZE, D, 1.92, 83, 17-08-96, Prague, Slavoj Vyšehrad (On Loan)
+8, David Kilián, CZE, M, 1.74, 70, 07-12-94, Příbram, Králův Dvůr (On Loan)
+99, Martin Zeman, CZE, M, 1.74, 64, 28-03-89, Tábor, Slovan Liberec

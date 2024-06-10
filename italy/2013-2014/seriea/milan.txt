@@ -1,0 +1,54 @@
+=  Milan - Italian Serie A 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marco Amelia, ITA, G, 1.90, 90, 02-04-82, Frascati, Genoa
+2, Mattia De Sciglio, ITA, D, 1.83, 74, 20-10-92, Milan, None
+4, Sulley Muntari, GHA, M, 1.79, 76, 27-08-84, Konongo, Internazionale
+5, Philippe Mexès, FRA, D, 1.87, 84, 30-03-82, Toulouse, Roma
+7, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Manchester C
+8, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Empoli
+10, Keisuke Honda, JPN, M, 1.82, 75, 13-06-86, Osaka, CSKA Moscow
+11, Giampaolo Pazzini, ITA, F, 1.80, 74, 02-08-84, Pescia, Internazionale
+13, Adil Rami, FRA, D, 1.90, 90, 27-12-85, Bastia, Valencia
+14, Valter Birsa, SVN, M, 1.84, 83, 07-08-86, Sempeter pri Gorici, Genoa
+15, Michael Essien, GHA, M, 1.78, 84, 03-12-82, Accra, Chelsea
+16, Andrea Poli, ITA, M, 1.81, 77, 29-09-89, Vittorio Veneto, Sampdoria
+17, Cristián Zapata, COL, D, 1.86, 82, 30-09-86, Padilla Cauca, Villarreal
+18, Riccardo Montolivo, ITA, M, 1.82, 79, 18-01-85, Milan, Fiorentina
+20, Ignazio Abate, ITA, D, 1.80, 73, 12-11-86, Sant'Agata de' Goti, Torino
+21, Kévin Constant, GUI, D, 1.84, 78, 15-05-87, Fréjus, Genoa
+22, Kaká, BRA, M, 1.86, 83, 22-04-82, Brasília, Real Madrid
+23, Adel Taarabt, MAR, M, 1.80, 76, 24-05-89, Taza, QPR
+24, Bryan Cristante, ITA, M, 1.86, 78, 03-03-95, San Vito al Tagliamento, None
+25, Daniele Bonera, ITA, D, 1.83, 74, 31-05-81, Brescia, Parma
+26, Matías Silvestre, ARG, D, 1.84, 78, 25-09-84, Capital Federal, Internazionale
+28, Urby Emanuelson, NED, M, 1.76, 68, 16-06-86, Amsterdam, Ajax
+31, Žan Benedičič, SVN, M, 1.78, 71, 03-10-95, Kranj, None
+32, Christian Abbiati, ITA, G, 1.91, 92, 08-07-77, Abbiategrasso, Monza
+34, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Manchester C
+35, Ferdinando Coppola, ITA, G, 1.88, 86, 10-06-78, Naples, Torino
+36, Luca Iotti, ITA, D, 1.89, 80, 09-11-95, Cernusco sul Naviglio, None
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, None
+38, Marco Pinato, ITA, D, 1.75, 66, 09-01-95, Monza, None
+39, Davide Di Molfetta, ITA, F, 1.76, 70, 23-06-96, Sesto San Giovanni, None
+40, Mario Piccinocchi, ITA, M, 1.72, 66, 21-02-95, Milan, None
+41, Alessandro Mastalli, ITA, M, 1.75, 75, 07-02-96, Milan, None
+42, Andrej Modić, BIH, M, 1.80, 70, 07-03-96, Banja Luka, None
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Manchester C
+59, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Cruzeiro
+61, Lorenzo Ferrari, ITA, G, 1.93, 77, 09-03-96, Cremona, None
+81, Cristian Zaccardo, ITA, D, 1.84, 77, 21-12-81, Formigine, Parma
+92, Stephan El Shaarawy, ITA, F, 1.78, 72, 27-10-92, Savona, Genoa
+98, Hachim Mastour, ITA, F, 1.75, 63, 15-06-98, Reggio Emilia, Reggiana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Kevin-Prince Boateng, GHA, M, 1.85, 86, 06-03-87, Berlin, Schalke
+77, Luca Antonini, ITA, D, 1.82, 70, 04-02-82, Milan, Genoa
+12, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Erciyesspor (On Loan)
+78, Mbaye Niang, FRA, F, 1.84, 74, 19-12-94, Meulan-en-Yvelines, Montpellier (On Loan)
+9, Alessandro Matri, ITA, F, 1.83, 80, 19-08-84, Sant'Angelo Lodigiano, Fiorentina (On Loan)
+33, Jherson Vergara, COL, D, 1.90, 83, 26-05-94, Florida, Parma (On Loan)
+23, Antonio Nocerino, ITA, M, 1.75, 76, 09-04-85, Naples, West Ham U (On Loan)
+60, Lorenzo Andrenacci, ITA, G, 1.85, 78, 02-01-95, Fermo, Brescia

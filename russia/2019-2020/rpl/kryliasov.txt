@@ -1,0 +1,41 @@
+=  Krylia Sovetov - Russian Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Ryzhikov, RUS, G, 1.94, 83, 19-09-80, Shebekino, Rubin Kazan
+2, Vladimir Poluyakhtov, RUS, D, 1.80, 78, 11-07-89, Krasavino, Anzhi Makhachkala
+3, Nikita Chernov, RUS, D, 1.88, 79, 14-01-96, Volzhsky, CSKA Moscow
+5, Vitaliy Lystsov, RUS, D, 1.92, 82, 11-07-95, Voronezh, Benfica
+7, Safa Hadi, IRQ, M, 1.78, 72, 14-10-98, Baghdad, Al-Shorta [IRQ]
+8, Aleksandr Gaţcan, RUS, M, 1.85, 78, 27-03-84, Chişinău, FC Rostov
+9, Dejan Radonjić, CRO, F, 1.90, 91, 23-07-90, Tettnang, Lokomotiva Zagreb
+10, Anton Terekhov, RUS, M, 1.86, 77, 30-01-98, Surgut, Dynamo Moscow
+11, Denis Popovič, SVN, M, 1.82, 74, 15-10-89, Celje, Zürich
+15, Maksim Glushenkov, RUS, M, 1.79, 69, 28-07-99, Smolensk, Spartak Moscow
+17, Anton Zinkovskiy, RUS, M, 1.75, 65, 14-04-96, Novorossiysk, Chertanovo Moscow
+18, Mehdi Zeffane, ALG, D, 1.74, 63, 19-05-92, Sainte-Foy-lès-Lyon, Rennes
+20, Srdjan Mijailović, SRB, M, 1.78, 68, 10-11-93, Požega, Kayserispor
+22, Aleksandr Anyukov, RUS, D, 1.78, 70, 28-09-82, Samara, Zenit St Petersburg
+23, Dmitriy Kombarov, RUS, D, 1.82, 69, 22-01-87, Moscow, Spartak Moscow
+28, Paul Anton, ROU, M, 1.85, 80, 10-05-91, Bistriţa, Anzhi Makhachkala
+30, Sergey Ivanov, RUS, M, 1.73, 61, 07-01-97, St. Petersburg, Zenit-2
+33, Yevgeniy Konyukhov, RUS, G, 1.88, 86, 21-11-86, Murom, Torpedo Moscow
+39, Evgeniy Frolov, RUS, G, 1.94, 82, 05-02-88, Saransk, PFC Sochi
+40, Artem Timofeev, RUS, M, 1.85, 83, 12-01-94, Saratov, Spartak Moscow
+44, Nikita Chicherin, RUS, D, 1.84, 74, 18-08-90, Moscow, Yenisey Krasnoyarsk
+50, Maksim Karpov, RUS, D, 1.93, 90, 17-03-95, St. Petersburg, Zenit St Petersburg
+52, Danila Smirnov, RUS, M, 1.76, 65, 07-06-01, Samara, Krylia Sovetov-2
+69, Egor Golenkov, RUS, F, 1.89, 82, 07-07-99, Samara, Krylia Sovetov-2
+77, Dmitri Kabutov, RUS, F, 1.72, 67, 26-03-92, Sokur, SKA-Khabarovsk
+81, Bogdan Ovsyannikov, RUS, G, 1.89, 82, 05-01-99, Nizhny Novgorod, Krylia Sovetov-2
+90, Taras Burlak, RUS, D, 1.87, 78, 22-02-90, Vladivostok, Rubin Kazan
+99, Maksim Kanunnikov, RUS, F, 1.83, 74, 14-07-91, St. Petersburg, SKA-Khabarovsk
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Agustín Rogel, URU, D, 1.90, 83, 17-10-97, Montevideo, Toulouse
+15, Georgiy Zotov, RUS, D, 1.74, 72, 12-01-90, Novosibirsk, FC Orenburg (On Loan)
+7, Aleksandr Sobolev, RUS, F, 1.95, 85, 07-03-97, Barnaul, Spartak Moscow (On Loan)
+78, Gennadiy Kiselev, RUS, M, 1.76, 66, 03-01-99, Yoshkar-Ola, Rotor Volgograd (On Loan)
+14, Radu Gînsari, MDA, M, 1.79, 60, 10-12-91, Chișinău, Hapoel Ironi Kiryat Shmona (On Loan)
+6, Denis Yakuba, RUS, M, 1.68, 67, 26-05-96, Sotnikovskoye, Chertanovo Moscow (On Loan)

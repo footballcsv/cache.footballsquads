@@ -1,0 +1,54 @@
+=  AlbinoLeffe - Italian Serie B 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Luca Tomasig, ITA, G, 1.90, 73, 11-03-83, Gorizia, Reggiana
+2, Alessandro Salvi, ITA, M, 1.82, 73, 05-06-88, Bergamo, None
+3, Dario Bergamelli, ITA, D, 1.85, 77, 26-04-87, Alzano Lombardo, Atalanta
+4, Simon Klun, SVN, D, 1.94, 76, 23-12-89, Koper, Celje
+5, Dario Passoni, ITA, M, 1.80, 78, 02-09-74, Cassano d'Adda, Mantova
+6, Roberto Previtali, ITA, M, 1.70, 70, 03-09-81, Trescore Balneario, Spezia
+7, Michael Cia, ITA, M, 1.75, 70, 03-08-88, Bolzano, Atalanta
+8, Alessio Manzoni, ITA, M, 1.77, 65, 10-04-87, Crema, Parma
+9, Paolo Grossi, ITA, M, 1.80, 73, 29-05-85, Milan, Varese
+10, Davide Bombardini, ITA, M, 1.82, 78, 21-06-74, Faenza, Bologna
+11, Valerio Foglio, ITA, D, 1.80, 70, 09-02-85, Legnano, Vicenza
+12, Severino Zigliani, ITA, G, 1.85, 73, 11-09-94, Orzinuovi, None
+14, Ruben Garlini, ITA, D, 1.84, 83, 27-05-71, Bergamo, Pro Vercelli
+15, Leandro Martínez, ARG, F, 1.79, 69, 15-10-89, Buenos Aires, Biaschesi
+16, Francesco Luoni, ITA, D, 1.80, 63, 09-04-88, Varese, None
+17, Karamoko Cissé, GUI, F, 1.83, 78, 14-11-88, Koubia, Atalanta
+18, Manuel Personè, ITA, F, 1.86, 77, 17-05-92, Milan, None
+19, Andrea Cocco, ITA, F, 1.82, 75, 08-04-86, Cagliari, Cagliari
+21, Luigi Sala, ITA, D, 1.88, 81, 21-02-74, Mariano, Udinese
+22, Cristian Zenoni, ITA, D, 1.82, 72, 23-04-77, Trescore Balneario, Bologna
+23, Matteo Momentè, ITA, F, 1.86, 82, 26-02-87, Iesolo, Varese
+25, Mattia Giussani, ITA, G, 1.81, 72, 12-07-94, Giussano, Renate
+26, Andrea Offredi, ITA, G, 1.90, 77, 17-02-88, Treviglio, None
+27, Fabio Lebran, ITA, D, 1.90, 78, 12-01-87, Camposampiero, Parma
+28, Stefano Layeni, ITA, G, 1.98, 85, 10-03-82, Mantova, Prato
+29, Michael Girasole, ITA, M, 1.80, 73, 30-01-89, Vimercate, Atalanta
+30, Enrico Di Cesare, ITA, M, 1.81, 73, 09-03-94, Lodi, None
+32, Omar Torri, ITA, F, 1.88, 79, 30-03-82, Trescore Balneario, Calcio Caravaggese
+54, Massimiliano Pesenti, ITA, F, 1.80, 73, 13-04-87, Treviglio, None
+58, Mehmet Hetemaj, FIN, M, 1.85, 78, 08-12-87, Kosovo, Panionios
+69, Yuri Morandi, ITA, G, 1.90, 85, 18-01-92, Bagno a Ripoli, None
+77, Matteo Piccinni, ITA, D, 1.87, 81, 06-03-86, Milan, Udinese
+78, Nicola Mingazzini, ITA, M, 1.72, 72, 13-08-80, Ravenna, Bologna
+79, Pierre Giorgio Regonesi, ITA, D, 1.86, 79, 22-02-79, Ossio di Sotto, Rimini
+81, Stefano Morotti, ITA, D, 1.80, 75, 12-03-92, Dalmine, None
+88, Matteo Piccinini, ITA, M, 1.80, 70, 02-12-93, Bergamo, None
+90, Diop Badara, SEN, F, 1.78, 67, 05-03-92, Dakar, None
+91, Francesco Bianchetti, ITA, M, 1.84, 76, 19-04-91, Bergamo, None
+92, Francesco Gazo, ITA, M, 1.80, 68, 29-02-92, Varese, None
+93, Mattia Valoti, ITA, M, 1.81, 62, 06-09-93, Vicenza, Milan
+98, Nicholas Allievi, ITA, D, 1.84, 67, 20-04-92, Varese, None
+99, Andrea Beduschi, ITA, D, 1.85, 74, 25-02-92, Treviglio, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+18, Andrea Cristiano, ITA, M, 1.79, 68, 05-07-84, Chivasso, Ascoli (On Loan)
+89, Antony Taugourdeau, FRA, M, 1.81, 72, 03-06-89, Marseille, Prato (On Loan)
+4, Enrico Geroni, ITA, M, 1.86, 75, 18-06-89, Florence, Barletta (On Loan)
+13, Paolo Maino, ITA, D, 1.92, 80, 02-03-89, Como, Barletta (On Loan)
+20, Mattia Serafini, ITA, D, 1.94, 80, 04-07-83, Fano, Atletico Roma

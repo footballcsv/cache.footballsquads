@@ -1,0 +1,55 @@
+=  Siena - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Roberto Vitiello, ITA, D, 1.76, 71, 08-05-83, Scafati, Rimini
+3, Bruno Uvini, BRA, D, 1.88, 81, 03-06-91, São Paulo, Napoli
+5, Adrián Calello, ARG, M, 1.77, 80, 14-05-87, Quilmes, Dinamo Zagreb
+6, Ângelo, BRA, D, 1.75, 76, 12-06-81, Salvador, Parma
+7, Francesco Valiani, ITA, M, 1.73, 72, 29-10-80, Pistoia, Parma
+8, Simone Vergassola, ITA, M, 1.74, 70, 24-01-76, La Spezia, Torino
+9, Michele Paolucci, ITA, F, 1.84, 75, 06-02-86, Recanati, Udinese
+10, Innocent Emeghara, SUI, F, 1.70, 68, 27-05-89, Lagos, Lorient
+12, Simone Farelli, ITA, G, 1.86, 82, 19-02-83, Rome, Crotone
+14, Francesco Della Rocca, ITA, M, 1.82, 77, 14-09-87, Brindisi, Palermo
+16, Valerio Verre, ITA, M, 1.80, 70, 11-01-94, Rome, Genoa
+17, Nicola Belmonte, ITA, D, 1.83, 75, 15-04-87, Cosenza, Bari
+18, Felipe, BRA, D, 1.80, 75, 31-07-84, Guaratingueta, Fiorentina
+19, Claudio Terzi, ITA, D, 1.82, 73, 19-06-84, Milan, Bologna
+20, Carlos Matheu, ARG, D, 1.83, 81, 13-05-85, Quilmes, Atalanta
+23, Salvador Agra, POR, F, 1.66, 60, 11-11-91, Vila do Conde, Betis
+24, Massimo Paci, ITA, D, 1.90, 88, 09-05-78, Fermo, Novara
+25, Gianluca Pegolo, ITA, G, 1.83, 76, 25-03-81, Bassano del Grappa, Genoa
+27, Alessandro Rosina, ITA, M, 1.68, 65, 31-01-84, Belvedere Marittimo, Zenit St Petersburg
+33, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Torino
+36, Francesco Bolzoni, ITA, M, 1.80, 78, 07-05-89, Lodi, Genoa
+57, Zé Eduardo, BRA, M, 1.79, 82, 29-10-87, Promissão, Genoa
+70, Daniele Mannini, ITA, M, 1.83, 78, 25-10-83, Viareggio, Napoli
+77, Alessio Sestu, ITA, M, 1.80, 73, 29-09-83, Rome, Vicenza
+81, Erjon Bogdani, ALB, F, 1.91, 89, 14-04-77, Tirana, Cesena
+86, Jorge Teixeira, POR, D, 1.88, 86, 27-08-86, Lisbon, Zürich
+87, Fabrizio Grillo, ITA, D, 1.77, 72, 02-02-87, Rome, Varese
+88, Christian Terlizzi, ITA, D, 1.90, 78, 22-11-79, Rome, Pescara
+89, Federico Marini, ITA, G, 1.88, 79, 28-03-94, Siena, None
+91, Reginaldo, BRA, F, 1.75, 72, 31-07-83, Jundiaí, Parma
+94, Lorenzo Rosseti, ITA, F, 1.82, 74, 05-08-94, Arezzo, None
+95, Emanuele Geria, ITA, G, 1.88, 79, 29-07-95, Reggio Calabria, Reggina
+99, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Sampdoria
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+55, Francesco Parravicini, ITA, M, 1.75, 73, 31-01-82, Milan, Novara
+64, Marcel Büchel, AUT, M, 1.75, 69, 18-03-91, Feldkirch, Cremonese (On Loan)
+99, Niccolò Giannetti, ITA, F, 1.75, 70, 12-05-91, Siena, Cittadella (On Loan)
+23, Andrea Campagnolo, ITA, G, 1.84, 78, 17-06-78, Bassano del Grappa, Cesena
+11, Emanuele Calaiò, ITA, F, 1.79, 72, 08-01-82, Palermo, Napoli (On Loan)
+34, Matías Martínez, ARG, D, 1.82, 82, 24-03-88, Resistencia, Racing Club
+21, Ribaír Rodríguez, URU, M, 1.82, 75, 04-10-87, Montevideo, Boca Juniors (On Loan)
+92, Matías Campos, CHI, D, 1.75, 70, 22-06-89, Santiago, Granada
+63, Marcelo Larrondo, ARG, F, 1.91, 79, 16-08-88, Tunuyán, Fiorentina (On Loan)
+10, Gaetano D'Agostino, ITA, M, 1.82, 81, 03-06-82, Palermo, Pescara (On Loan)
+5, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Cesena (On Loan)
+15, Hernán Paolo Dellafiore, ITA, D, 1.86, 74, 02-02-85, Buenos Aires, Padova (On Loan)
+3, Cristiano Del Grosso, ITA, D, 1.75, 70, 24-03-83, Giulianova, Atalanta
+22, Matteo Contini, ITA, D, 1.82, 76, 16-04-80, Gemonio, Atalanta
+13, Luís Neto, POR, D, 1.85, 71, 26-05-88, Póvoa de Varzim, Zenit St Petersburg

@@ -1,0 +1,49 @@
+=  Rizespor - Turkish Süper Lig 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Ujkani, KVX, G, 1.88, 87, 05-07-88, Resnik, Cremonese
+2, Armand Traoré, SEN, D, 1.85, 82, 08-10-89, Paris, Nottingham F
+3, Montassar Talbi, TUN, D, 1.90, 74, 26-05-98, Paris, Espérance
+5, Abdullah Durak, TUR, M, 1.77, 71, 01-04-87, Niğde, Kasımpaşa
+8, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, CFR Cluj
+10, Fernando Boldrin, BRA, M, 1.81, 75, 23-02-89, Cravinhos, Kayserispor
+11, Mustafa Saymak, NED, M, 1.69, 63, 11-02-93, Deventer, PEC Zwolle
+12, Chidozie Awaziem, NGA, D, 1.89, 82, 01-01-97, Enugu, FC Porto
+15, Mykola Morozyuk, UKR, D, 1.76, 70, 17-01-88, Lviv, Dynamo Kyiv
+17, Marwane Saâdane, MAR, M, 1.87, 75, 17-01-92, Mohammedia, FUS Rabat
+18, Braian Samudio, PAR, F, 1.80, 79, 23-12-95, Ciudad del Este, Guarani [BRA]
+22, Emir Han Topçu, TUR, D, 1.88, 80, 11-10-00, Bandırma, None
+23, Gökhan Akkan, TUR, G, 1.86, 75, 01-01-95, Çekerek, Ankaragücü
+25, Cihan Topaloğlu, TUR, G, 1.83, 76, 30-03-92, Konak, Altınordu
+29, Mızhat Burak Sarı, TUR, G, , , 15-08-99, Tarsus, None
+30, Zafer Görgen, TUR, G, 1.88, 83, 21-06-00, Mugla, Manisaspor
+33, Mohamed Abarhoun, MAR, D, 1.87, 82, 03-05-89, Tétouan, Moreirense
+34, Çınar Tarhan, TUR, M, 1.75, 70, 20-05-97, Beykoz, Ankara Demirspor
+35, Musa Çağıran, TUR, M, 1.81, 72, 17-11-92, Ilgın, Osmanlıspor
+40, Okechukwu Azubuike, NGA, M, 1.70, 73, 19-04-97, Katsina, Pyramids FC
+44, Koray Altinay, TUR, D, 1.76, 76, 11-10-91, Munich, Osmanlıspor
+45, Eren Karadağ, TUR, F, , , 01-01-00, Rize, None
+50, Amınu Umar, NGA, M, 1.75, 72, 06-03-95, Abuja, Osmanlıspor
+53, Dario Melnjak, CRO, D, 1.85, 77, 31-10-92, Varaždin, Domžale
+54, Mehmet Uslu, TUR, D, 1.87, 75, 25-02-88, Izmit, Konyaspor
+67, Gürkan Hervenik, TUR, G, 1.88, 80, 14-07-98, Fatih, None
+70, Préjuce Nakoulma, BFA, F, 1.78, 76, 21-04-87, Ouagadougou, Nantes
+77, Orhan Ovacıklı, TUR, D, 1.80, 71, 23-11-88, İzmir, Bandırmaspor
+90, Furkan Cinkaya, TUR, F, , , 08-06-00, , None
+94, Vedat Muriqi, KVX, F, 1.94, 92, 24-04-94, Prizren, Gençlerbirliği
+95, Boğaçhan Kazmaz, TUR, G, 1.87, 85, 20-01-01, Rize, None
+99, Aatif Chahechouhe, FRA, M, 1.76, 77, 02-07-86, Fontenay-aux-Roses, Fenerbahçe
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Oğulcan Çağlayan, TUR, F, 1.88, 78, 22-03-96, Ankara, Gazişehir Gaziantep (On Loan)
+6, Robin Yalçın, GER, M, 1.83, 77, 25-01-94, Deggendorf, Yeni Malatyaspor
+20, Süleyman Koç, TUR, M, 1.78, 72, 09-06-89, Berlin, Adana Demirspor
+97, Alperen Eskiçırak, TUR, F, , , 12-09-00, Ümraniye, 
+9, Oleksandr Hladkyy, UKR, F, 1.88, 80, 24-08-87, Kharkiv, Adana Demirspor
+98, Onur Civelek, TUR, F, , , 13-05-98, Rize, 
+7, Jarosław Jach, POL, D, 1.90, 81, 17-02-94, Bielawa, Crystal Palace
+21, Ali Çamdalı, TUR, M, 1.86, 80, 22-02-84, Duisburg, Konyaspor
+27, Matic Fink, SVN, D, 1.75, 70, 27-02-90, Ljubljana, Boluspor
+14, Jakub Brabec, CZE, D, 1.86, 80, 06-08-92, Prague, KRC Genk

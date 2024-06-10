@@ -1,0 +1,42 @@
+=  Leganés - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iván Cuéllar, ESP, G, 1.87, 76, 27-05-84, Mérida, Sporting Gijón
+2, Tito, ESP, D, 1.75, 64, 11-07-85, Madrid, Granada
+3, Unai Bustinza, ESP, D, 1.75, 74, 02-02-92, Bilbao, Athletic Bilbao
+4, Yahya Al-Shehri, KSA, M, 1.64, 60, 26-06-90, Dammam, Al-Nassr
+5, Martín Mantovani, ARG, D, 1.83, 77, 07-07-84, San Miguel, Oviedo
+6, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Barcelona B
+7, Nordin Amrabat, MAR, M, 1.79, 73, 31-03-87, Naarden, Watford
+8, Gabriel Appelt Pires, BRA, M, 1.87, 82, 18-09-93, Resende, Juventus
+9, Miguel Ángel Guerrero, ESP, F, 1.82, 77, 12-07-90, Toledo, Sporting Gijón
+10, Nabil El Zhar, MAR, M, 1.71, 66, 27-08-86, Alès, Las Palmas
+11, Alexander Szymanowski, ARG, M, 1.75, 65, 13-10-88, Capital Federal, Brøndby
+12, Claudio Beauvue, FRA, F, 1.74, 66, 16-04-88, Saint-Claude, Celta Vigo
+13, Nereo Champagne, ARG, G, 1.89, 82, 20-01-85, Salto, Olimpo (BB)
+14, Raúl García, ESP, D, 1.75, 72, 30-04-89, La Coruña, Alavés
+15, Diego Rico, ESP, D, 1.83, 76, 23-02-93, Burgos, Zaragoza
+16, Mauro dos Santos, ARG, D, 1.82, 76, 07-07-89, Santo Tomé, Eibar
+17, Javier Eraso, ESP, M, 1.80, 71, 22-03-90, Pamplona, Athletic Bilbao
+18, Darko Brašanac, SRB, M, 1.78, 73, 12-02-92, Čajetina, Betis
+19, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Genoa
+20, Joseba Zaldúa, ESP, D, 1.76, 70, 24-06-92, San Sebastián, Real Sociedad
+21, Rubén Pérez, ESP, M, 1.78, 73, 26-04-89, Écija, Granada
+22, Dimitris Siovas, GRE, D, 1.92, 83, 16-09-88, Drama, Olympiakos
+23, Julián Omar, ESP, M, 1.75, 66, 26-01-88, San Cristóbal de La Laguna, Valladolid
+24, José Naranjo, ESP, F, 1.82, 73, 28-07-94, Rociana del Condado, KRC Genk
+25, Jon Ander Serantes, ESP, G, 1.83, 76, 04-01-89, Barakaldo, Lugo
+26, Daniel Gallardo, ESP, D, , , 07-04-96, Madrid, Leganés B
+27, Gabr Salazar, ESP, F, 1.78, 68, 18-06-96, Madrid, Toledo B
+28, Alejandro Mozo, ESP, M, , , 22-04-95, Madrid, Leganés B
+29, Sergio Arribas, ESP, M, , , 07-07-95, Leganés, Leganés B
+30, Jaime Sierra, ESP, M, 1.75, 63, 18-03-98, Madrid, Valencia B
+36, William De Camargo, BRA, F, 1.69, 70, 01-06-99, São José do Rio Preto, São Paulo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Erik Morán, ESP, M, 1.87, 74, 25-05-91, Portugalete, AEK
+7, Mamadou Koné, CIV, F, 1.76, 69, 25-12-91, Bingerville, Eupen (On Loan)
+25, Nordin Amrabat, MAR, M, 1.79, 73, 31-03-87, Naarden, Re-Registered (7)
+27, Leonardo Rocha, POR, F, 1.98, 81, 23-05-97, Almada, Ontinyent (On Loan)

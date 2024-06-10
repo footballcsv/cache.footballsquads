@@ -1,0 +1,51 @@
+=  Cracovia Kraków - Polish Ekstraklasa 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Matic Fink, SVN, D, 1.75, 70, 27-02-90, Ljubljana, Rizespor
+3, Michal Sipľak, SVK, D, 1.84, 80, 02-02-96, Bardejov, MFK Zemplín Michalovce
+5, Miroslav Čovilo, BIH, M, 1.77, 66, 06-05-86, Hrasnica, Koper
+6, Sylwester Lusiusz, POL, M, 1.80, 69, 18-09-99, Brzozów, Karpaty Krosno
+7, Antonini Čulina, CRO, M, 1.84, 77, 27-01-92, Zadar, Lugano
+8, Milan Dimun, SVK, M, 1.86, 76, 19-09-96, Košice, MFK Košice
+9, Michał Rakoczy, POL, M, 1.71, 64, 30-03-02, Jasło, None
+10, Sergei Zenjov, EST, F, 1.83, 70, 20-04-89, Pärnu, Gabala
+11, Mateusz Wdowiak, POL, M, 1.74, 62, 28-08-96, Kraków, None
+13, Radosław Kanach, POL, M, 1.81, 73, 03-04-99, Rzeszów, Stal Rzeszów
+14, Damian Dąbrowski, POL, M, 1.69, 68, 27-08-92, Kamienna Góra, Zagłębie Lubin
+19, Javi Hernández, ESP, F, 1.84, 77, 06-06-89, Salamanca, Gabala
+20, Niko Datković, CRO, D, 1.90, 86, 21-04-93, Rijeka, Spezia
+21, Adam Deja, POL, M, 1.85, 82, 24-06-93, Olesno, Podbeskidzie Bielsko-Biała
+25, Szymon Drewniak, POL, M, 1.79, 70, 11-07-93, Poznań, Lech Poznań
+27, Krystian Stępniowski, POL, G, 1.91, 80, 05-12-92, Kraków, Puszcza Niepołomice
+29, Grzegorz Sandomierski, POL, G, 1.96, 87, 05-09-89, Białystok, Zawisza Bydgoszcz
+30, Adam Wilk, POL, G, 1.96, 87, 21-11-97, Kraków, None
+33, Kamil Pestka, POL, D, 1.87, 76, 22-08-98, Kraków, Progres Kraków
+34, Oleksiy Dytyatev, UKR, D, 1.96, 88, 07-11-88, Nova Kakhovka, Karpaty Lviv
+39, Michał Helik, POL, D, 1.91, 77, 09-09-95, Chorzów, Ruch Chorzów
+40, Michal Peškovič, SVK, G, 1.88, 86, 08-02-82, Bratislava, Korona Kielce
+44, Nicolai Brock-Madsen, DEN, F, 1.92, 88, 09-01-93, Randers, Birmingham C
+46, Lennard Sowah, GER, D, 1.80, 70, 23-08-92, Hamburg, Hearts
+64, Michał Wiśniewski, POL, M, 1.81, 75, 02-05-99, Kraków, Hutnik Nowa Huta
+77, Sebastian Strózik, POL, F, 1.79, 76, 15-05-99, Opole, Pomologia Prószków
+87, Diego Ferraresso, BRA, D, 1.71, 71, 21-05-92, Serra Negra, Slavia Sofia
+92, Deniss Rakeļs, LVA, F, 1.79, 73, 20-08-92, Jēkabpils, Reading
+95, Radosław Kruppa, POL, D, 1.92, 76, 12-02-00, Bytom, Stadion Śląski Chorzów
+97, Daniel Pik, POL, F, 1.77, 74, 20-07-00, Pułtusk, Polonia Warszawa
+99, Krzysztof Piątek, POL, F, 1.83, 76, 01-07-95, Dzierżoniów, Zagłębie Lubin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+44, Paweł Jaroszyński, POL, D, 1.84, 77, 02-10-94, Lublin, Chievo Verona
+2, Mateusz Jarzynka, POL, D, 1.86, 75, 03-06-98, Biała Podlaska, Avia Świdnik (On Loan)
+32, Krzysztof Szewczyk, POL, F, 1.77, 68, 06-03-96, Bochnia, Puszcza Niepołomice (On Loan)
+74, Przemysław Pyrdek, POL, F, 1.75, 72, 12-07-96, Rzeszów, CWKS Resovia (On Loan)
+18, Hubert Adamczyk, POL, M, 1.74, 69, 23-02-98, Bydgoszcz, Olimpia Grudziądz (On Loan)
+28, Jakub Čunta, SVK, D, 1.84, 75, 26-08-96, Bratislava, STK Šamorín
+7, Jakub Wójcicki, POL, D, 1.90, 80, 09-07-88, Warsaw, Jagiellonia Białystok
+9, Tomáš Vestenický, SVK, F, 1.75, 75, 06-04-96, Topoľčany, Nitra (On Loan)
+17, Sebastian Steblecki, POL, M, 1.86, 70, 16-01-92, Kraków, Chojniczanka Chojnice
+4, Piotr Malarczyk, POL, D, 1.89, 74, 01-08-91, Kielce, Korona Kielce
+20, Mateusz Szczepaniak, POL, F, 1.84, 73, 23-01-91, Lubin, Piast Gliwice (On Loan)
+23, Jaroslav Mihalík, SVK, M, 1.80, 77, 27-07-94, Spišská Nová Ves, MŠK Žilina (On Loan)
+26, Deleu, BRA, D, 1.76, 77, 01-03-84, Penedo, Miedź Legnica

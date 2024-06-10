@@ -1,0 +1,23 @@
+# Argentinian Primera División 2014 Transición
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Atlético Rafaela](atletraf.txt)
+- [Banfield](banfield.txt)
+- [Belgrano (Córdoba)](belgrano.txt)
+- [Boca Juniors](boca.txt)
+- [Defensa y Justicia](defensa.txt)
+- [Estudiantes (La Plata)](estud.txt)
+- [Gimnasia y Esgrima (La Plata)](gimnasia.txt)
+- [Godoy Cruz (Mendoza)](godoycruz.txt)
+- [Independiente](independ.txt)
+- [Lanús](lanus.txt)
+- [Newell's Old Boys](newells.txt)
+- [Olimpo (Bahía Blanca)](olimpo.txt)
+- [Quilmes](quilmes.txt)
+- [Racing Club](racing.txt)
+- [River Plate](river.txt)
+- [Rosario Central](rosario.txt)
+- [San Lorenzo](sanloren.txt)
+- [Tigre](tigre.txt)
+- [Vélez Sarsfield](velez.txt)

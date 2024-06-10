@@ -1,0 +1,41 @@
+=  Lorient - French Ligue 1 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Anthony Lamonge, FRA, G, 1.83, 75, 04-04-96, Le Port, None
+3, Bradley Mazikou, FRA, D, 1.77, 69, 02-06-96, Orléans, None
+4, Mattéo Guendouzi, FRA, M, 1.80, 68, 14-04-99, Poissy, None
+5, Zargo Touré, SEN, D, 1.83, 73, 11-11-89, Pikine, Le Havre
+6, François Bellugou, FRA, D, 1.86, 70, 25-04-87, Prades, Nancy
+7, Arnold Mvuemba, FRA, M, 1.72, 67, 28-01-85, Alencon, Lyon
+8, Cafú, POR, M, 1.83, 84, 26-02-93, Guimarães, Vitória Guimarães
+9, Waris Majeed, GHA, F, 1.72, 71, 19-09-91, Tamale, Trabzonspor
+10, Sylvain Marveaux, FRA, M, 1.72, 66, 15-04-86, Vannes, Newcastle U
+12, Benjamin Moukandjo, CMR, F, 1.79, 76, 12-11-88, Douala, Reims
+13, Michaël Ciani, FRA, D, 1.92, 88, 06-04-84, Paris, Espanyol
+14, Jérémie Aliadière, FRA, F, 1.83, 70, 30-03-83, Rambouillet, Muaither SC
+15, Mathieu Peybernes, FRA, D, 1.84, 80, 21-10-90, Toulouse, Bastia
+16, Paul Delecroix, FRA, G, 1.83, 73, 14-10-88, Amiens, Niort
+17, Walid Mesloub, ALG, M, 1.80, 69, 04-09-85, Trappes, Le Havre
+18, Alexis Claude-Maurice, FRA, F, 1.74, 62, 06-06-98, Noisy-le-Grand, None
+19, Romain Philippoteaux, FRA, M, 1.70, 67, 02-03-88, Apt, Dijon
+20, Steven Moreira, FRA, D, 1.76, 67, 13-08-94, Noisy-le-Grand, Rennes
+21, Mohamed Mara, GUI, M, 1.70, 65, 12-12-96, Conakry, None
+22, Benjamin Jeannot, FRA, F, 1.81, 73, 22-01-92, Laxou, Nancy
+23, Alhassan Wakaso, GHA, M, 1.80, 80, 07-01-92, Tamale, Rio Ave
+24, Wesley Lautoa, FRA, D, 1.72, 65, 25-08-87, Épernay, Sedan
+25, Vincent Le Goff, FRA, D, 1.75, 64, 15-10-89, Quimper, Istres
+26, Issam Ben Khémis, FRA, M, 1.75, 72, 10-01-96, Paris, None
+27, Jimmy Cabot, FRA, M, 1.64, 60, 18-04-94, Chambéry, Troyes
+28, Maxime Barthelme, FRA, M, 1.77, 65, 08-09-88, Sartrouville, Racing Club de France
+29, Pape Paye, FRA, D, 1.65, 66, 31-05-90, Lyon, Dijon
+32, Ibrahima Conté, GUI, D, 1.91, 82, 03-04-96, Conakry, None
+34, Erwin Koffi, FRA, D, 1.79, 78, 10-01-95, Paris, Châteauroux
+40, Benjamin Lecomte, FRA, G, 1.86, 78, 26-04-91, Paris, Niort
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Didier Ndong, GAB, M, 1.79, 75, 17-06-94, Lambaréné, Sunderland
+23, Moryké Fofana, CIV, F, 1.78, 70, 23-11-91, Grand-Bassam, Konyaspor
+2, Lindsay Rose, FRA, D, 1.84, 79, 08-02-92, Rennes, Bastia (On Loan)
+11, Faïz Selemani, FRA, D, 1.81, 65, 14-11-93, Marseille, Tours (On Loan)

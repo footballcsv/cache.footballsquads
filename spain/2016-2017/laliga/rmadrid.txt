@@ -1,0 +1,46 @@
+=  Real Madrid - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Keylor Navas, CRC, G, 1.86, 78, 15-12-86, Pérez Zeledón, Levante
+2, Daniel Carvajal, ESP, D, 1.73, 70, 11-01-92, Leganés, Bayer Leverkusen
+3, Pepe, POR, D, 1.86, 72, 26-02-83, Maceió, FC Porto
+4, Sergio Ramos, ESP, D, 1.83, 73, 30-03-86, Camas, Sevilla
+5, Raphaël Varane, FRA, D, 1.91, 76, 25-04-93, Lille, Lens
+6, Nacho Fernández, ESP, D, 1.80, 74, 18-01-90, Madrid, Real Madrid B
+7, Cristiano Ronaldo, POR, F, 1.86, 75, 05-02-85, Funchal, Manchester U
+8, Toni Kroos, GER, M, 1.82, 71, 04-01-90, Greifswald, Bayern Munich
+9, Karim Benzema, FRA, F, 1.82, 74, 19-12-87, Lyon, Lyon
+10, James Rodríguez, COL, M, 1.80, 77, 12-07-91, Cúcuta, Monaco
+11, Gareth Bale, WAL, M, 1.83, 74, 16-07-89, Cardiff, Tottenham H
+12, Marcelo, BRA, D, 1.74, 73, 12-05-88, Rio de Janeiro, Fluminense
+13, Francisco Casilla, ESP, G, 1.92, 83, 02-10-86, Alcocer, Espanyol
+14, Casemiro, BRA, M, 1.84, 80, 23-02-92, São José dos Campos, São Paulo
+15, Fábio Coentrão, POR, D, 1.78, 66, 11-03-88, Vila do Conde, Benfica
+16, Mateo Kovačić, CRO, M, 1.81, 75, 06-05-94, Linz, Internazionale
+17, Lucas Vázquez, ESP, M, 1.73, 69, 01-07-91, Curtis, Espanyol
+18, Mariano, DOM, F, 1.79, 74, 01-08-93, Barcelona, Real Madrid B
+19, Luka Modrić, CRO, M, 1.75, 67, 09-09-85, Zadar, Tottenham H
+20, Marco Asensio, ESP, M, 1.78, 70, 21-01-96, Palma de Mallorca, Mallorca B
+21, Álvaro Morata, ESP, F, 1.89, 85, 23-10-92, Madrid, Juventus
+22, Isco, ESP, M, 1.76, 80, 21-04-92, Valencia, Málaga
+23, Danilo, BRA, D, 1.84, 73, 15-07-91, Bicas, FC Porto
+25, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Real Madrid B
+27, Álvaro Tejero, ESP, D, 1.72, 65, 20-07-96, Madrid, Real Madrid B
+28, Aleix Febas, ESP, M, 1.71, 64, 02-02-96, Lleida, Real Madrid B
+29, Enzo Zidane, FRA, M, 1.84, 80, 24-03-95, Bordeaux, Real Madrid B
+30, Luca Zidane, FRA, G, 1.81, 78, 13-05-98, Marseille, Real Madrid B
+32, Achraf Hakimi, MAR, D, 1.77, 65, 04-11-98, Madrid, Real Madrid B
+33, Philipp Lienhart, AUT, D, 1.85, 78, 11-07-96, Lilienfeld, Rapid Vienna
+34, Álex Craninx, BEL, G, 1.96, 82, 21-10-95, Málaga, Real Madrid B
+38, Javi Muñoz, ESP, M, 1.77, 71, 28-02-95, Parla, Real Madrid B
+41, Mario Rodríguez, ESP, M, 1.76, 64, 03-03-97, Barcelona, Real Madrid B
+42, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Real Madrid B
+43, Javi Sánchez, ESP, D, 1.86, 71, 14-03-97, Getafe, Real Madrid B
+44, Alejandro Salto, ESP, D, 1.78, 67, 15-04-97, Novelda, Real Madrid B
+46, Abner, BRA, D, 1.71, 70, 30-05-96, Londrina, Coritiba
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Martin Ødegaard, NOR, M, 1.76, 68, 17-12-98, Drammen, SC Heerenveen (On Loan)
+40, Borja Sánchez, ESP, M, 1.86, 80, 26-02-96, Oviedo, Mallorca B (On Loan)

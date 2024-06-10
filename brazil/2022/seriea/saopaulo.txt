@@ -1,0 +1,53 @@
+=  São Paulo - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe Alves, BRA, G, 1.87, 79, 21-05-88, São Paulo, Fortaleza
+2, Igor Vinícius, BRA, D, 1.74, 70, 01-04-97, Sinop, Ituano
+4, Diego Costa, BRA, D, 1.84, 73, 21-07-99, Campo Grande, None
+5, Robert Arboleda, ECU, D, 1.80, 70, 22-10-91, Esmeraldas, Universidad Católica [ECU]
+6, Reinaldo, BRA, D, 1.78, 74, 28-09-89, Porto Calvo, Penapolense
+7, Alisson, BRA, F, 1.74, 73, 25-06-93, Rio Pomba, Grêmio
+8, Luan, BRA, M, 1.75, 81, 14-05-99, São Paulo, None
+9, Jonathan Calleri, ARG, F, 1.81, 77, 23-09-93, Capital Federal, Deportivo Maldonado
+10, Nikão, BRA, M, 1.74, 73, 29-07-92, Belo Horizonte, Athletico Paranaense
+11, Luciano, BRA, F, 1.78, 69, 18-05-93, Anápolis, Grêmio
+13, Rafinha, BRA, D, 1.72, 68, 07-09-85, Londrina, Grêmio
+14, Giuliano Galoppo, ARG, M, 1.80, 74, 18-06-99, Capital Federal, Banfield
+15, Gabriel Neves, URU, M, 1.71, 72, 11-08-97, Montevideo, Nacional [URU]
+16, Léo, BRA, D, 1.83, 80, 06-03-96, Rio de Janeiro, Fluminense
+18, Rodriguinho, BRA, M, 1.73, 52, 16-03-04, Mineiros, None
+19, Nahuel Bustos, ARG, F, 1.76, 66, 04-07-98, Córdoba, Manchester C
+20, Andrés Colorado, COL, M, 1.80, 71, 01-12-98, Guacarí, Cortuluá
+22, Miranda, BRA, D, 1.85, 78, 07-09-84, Paranavaí, Jiangsu Suning
+23, Éder, ITA, F, 1.79, 73, 15-11-86, Lauro Muller, Jiangsu Suning
+25, Rodrigo Nestor, BRA, M, 1.75, 67, 09-08-00, São Paulo, None
+26, Igor Gomes, BRA, M, 1.82, 73, 17-03-99, São José do Rio Preto, None
+28, André Anderson, BRA, M, 1.80, 75, 23-09-99, Maracaí, Lazio
+29, Pablo Maia, BRA, M, 1.78, 72, 10-01-02, Brazópolis, None
+30, Moreira, BRA, D, 1.76, 75, 21-05-04, São Paulo, None
+31, Juan, BRA, F, 1.76, 76, 07-03-02, São Paulo, None
+32, Luizão, BRA, D, 1.87, 72, 08-03-02, São Paulo, None
+33, Caio, BRA, F, 1.74, 60, 19-02-04, Limeira, None
+34, Welington, BRA, D, 1.77, 73, 19-02-01, São Paulo, None
+35, Lucas Beraldo, BRA, D, 1.82, 77, 24-11-03, Piracicaba, None
+37, Talles, BRA, M, 1.76, 62, 02-08-02, São Paulo, None
+38, Leo Silva, BRA, M, 1.70, 68, 18-01-03, São Paulo, None
+40, Thiago Couto, BRA, G, 1.88, 82, 26-03-99, São Paulo, None
+43, Walce, BRA, D, 1.88, 80, 02-02-99, Cuiabá, None
+44, Nahuel Ferraresi, VEN, D, 1.89, 76, 19-11-98, San Cristóbal, Manchester C
+46, Patryck, BRA, D, 1.81, 68, 18-01-03, Mogi Mirim, None
+87, Young, BRA, G, 2.02, 88, 07-03-02, Catanduva, None
+88, Patrick, BRA, M, 1.75, 74, 29-07-92, Rio de Janeiro, Internacional
+93, Jandrei, BRA, G, 1.86, 74, 01-03-93, Itaqui, Santos
+95, Marcos Guilherme, BRA, F, 1.72, 62, 05-08-95, Itararé, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Nathan Mendes, BRA, D, 1.82, 79, 19-08-02, São José dos Campos, Coritiba (On Loan)
+1, Tiago Volpi, BRA, G, 1.89, 84, 19-12-90, Blumenau, Toluca
+17, Marquinhos, BRA, F, 1.75, 75, 07-04-03, São Paulo, Arsenal
+21, Gabriel Sara, BRA, M, 1.78, 68, 26-06-99, Joinville, Norwich C
+7, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Austin FC
+44, Jonas Toró, BRA, F, 1.77, 74, 30-05-99, Belém de São Francisco, Panathinaikos
+12, Alisson, BRA, F, 1.74, 73, 25-06-93, Rio Pomba, Re-Registered (7)

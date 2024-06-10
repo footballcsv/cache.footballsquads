@@ -1,0 +1,37 @@
+=  Atlas - Mexican Liga MX 2018/2019 Clausura
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Hernández, MEX, G, 1.83, 75, 01-05-97, Guadalajara, None
+2, Nicolás Pareja, ARG, D, 1.81, 75, 19-01-84, Capital Federal, Sevilla
+4, Jorge Segura, COL, D, 1.88, 80, 18-01-97, Zarzal, Watford
+5, Anderson Santamaría, PER, D, 1.85, 80, 10-01-92, Tingo María, Puebla
+6, Edgar Zaldivar, MEX, M, 1.73, 67, 17-10-96, San Luis Potosí, None
+7, Juan Pablo Vigon, MEX, M, 1.68, 66, 20-07-91, Guadalajara, None
+8, Andrés Andrade, COL, M, 1.77, 73, 23-02-89, Cali, León
+9, Facundo Barcelo, URU, F, 1.80, 70, 31-03-93, Florida, Juventud
+10, Clifford Aboagye, GHA, M, 1.63, 55, 11-02-95, Accra, Granada B
+11, Ricardo Álvarez, ARG, M, 1.88, 84, 12-04-88, Capital Federal, Sampdoria
+12, Jonathan Estrada, MEX, G, 1.82, 75, 16-03-98, Guadalajara, None
+13, Ulises Cardona, MEX, M, 1.77, 67, 13-11-98, Guadalajara, Guadalajara
+14, Omar González, USA, D, 1.96, 95, 11-10-88, Dallas, Pachuca
+15, Osvaldo Martínez, PAR, M, 1.67, 62, 08-04-86, Luque, Santos Laguna
+16, Heriberto Olvera, MEX, D, 1.75, 69, 13-05-90, Pachuca, Pachuca
+17, Jefferson Duque, COL, F, 1.83, 79, 17-05-87, Medellín, Atlético Nacional
+18, Alejandro Díaz, MEX, F, 1.70, 66, 27-01-96, Mexico City, América
+19, Esteban Carvajal, CHI, M, 1.73, 70, 17-11-88, Catemu, Coquimbo Unido
+20, Jairo Torres, MEX, M, 1.68, 71, 05-07-00, Guadalajara, None
+21, Lorenzo Reyes, CHI, M, 1.76, 76, 13-06-91, Santiago, Universidad de Chile
+22, Hernán Burbano, COL, M, 1.69, 64, 05-03-88, Santander de Quilichao, Santa Fe
+23, Edgar Hernández, MEX, G, 1.83, 79, 27-08-82, Ciudad Reynosa, Querétaro
+24, Ulises Torres, MEX, D, 1.76, 64, 17-02-98, Gustavo A. Madero, América
+25, José Ávila, MEX, M, 1.77, 65, 01-05-98, Villanueva, None
+26, Jesús Isijara, MEX, M, 1.80, 75, 26-09-89, Navolato, Santos Laguna
+27, Edyairth Ortega, MEX, M, 1.76, 64, 23-01-97, Jalisco, None
+28, Cristian Cálix, HON, M, 1.65, 54, 09-09-99, Juticalpa, Marathón
+29, Ismael Govea, MEX, D, 1.77, 71, 20-02-97, Buenavista, None
+34, Irving Zurita, MEX, D, 1.67, 61, 27-09-91, Mexico City, Atlante
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Octavio Rivero, URU, F, 1.87, 82, 24-01-92, Treinta y Tres, Nacional [URU] (On Loan)

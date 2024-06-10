@@ -1,0 +1,59 @@
+=  Bolton Wanderers - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Billy Crellin, ENG, G, 1.85, 60, 30-01-00, Blackpool, Fleetwood T
+2, Gethin Jones, WAL, D, 1.78, 74, 13-10-95, Perth [AUS], Carlisle U
+4, Jordan Williams, WAL, D, 1.83, 77, 06-11-95, Bangor, Blackpool
+5, Ricardo Santos, POR, D, 1.96, 77, 18-06-95, Almada, Barnet
+6, Ryan Delaney, IRL, D, 1.82, 72, 06-09-96, Wexford, Rochdale
+7, Nathan Delfouneso, ENG, F, 1.86, 78, 02-02-91, Birmingham, Blackpool
+8, Brandon Comley, MSR, M, 1.80, 72, 18-11-95, Islington, Colchester U
+9, Eóin Doyle, IRL, F, 1.78, 73, 12-03-88, Tallaght, Swindon T
+10, Antoni Sarcevic, ENG, M, 1.83, 85, 13-03-92, Manchester, Plymouth Arg
+12, Jak Hickman, ENG, M, 1.75, 70, 11-09-98, Sandwell, Coventry C
+13, Matthew Gilks, SCO, G, 1.85, 81, 04-06-82, Rochdale, Fleetwood T
+14, Marcus Maddison, ENG, M, 1.80, 72, 26-09-93, Durham, Charlton Ath
+16, Reiss Greenidge, ENG, D, 1.96, 80, 10-08-96, Camden, Arendal
+17, Ronan Darcy, ENG, F, 1.77, 60, 04-11-00, Ormskirk, None
+18, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Morecambe
+19, Bright Amoateng, ENG, F, -, -, 22-11-02, -, Bury
+20, Shaun Miller, ENG, F, 1.78, 74, 25-09-87, Alsager, Crewe Alex
+21, Harry Brockbank, ENG, D, 1.80, 80, 26-09-98, Bolton, None
+22, Dennis Politic, ROU, M, 1.85, 78, 05-03-00, Braşov, None
+23, Lloyd Isgrove, WAL, M, 1.78, 72, 12-01-93, Yeovil, Swindon T
+24, Arthur Gnahoua, FRA, F, 1.87, 80, 18-09-92, London, Macclesfield T
+25, George Thomason, ENG, M, 1.77, 69, 12-01-01, Barrow-in-Furness, Longbridge T
+26, Liam Edwards, ENG, D, 1.90, 80, 02-10-96, Crewe, Stoke C
+27, Alex John-Baptiste, ENG, D, 1.80, 74, 31-01-86, Sutton-in-Ashfield, Doncaster R
+28, Declan John, WAL, D, 1.78, 75, 30-06-95, Merthyr Tydfil, Swansea C
+29, Kieran Lee, ENG, M, 1.85, 76, 22-06-88, Tameside, Sheffield W
+30, Oladapo Afolayan, ENG, F, 1.82, 73, 11-09-97, Westminster, West Ham U
+31, Zak Elbouzedi, IRL, M, 1.80, 70, 05-04-98, Dublin, Lincoln C
+32, Ben Jackson, ENG, M, 1.78, 70, 22-02-01, Stockport, Huddersfield T
+34, Adam Senior, ENG, D, 1.83, 68, 20-01-02, Bolton, None
+35, Sonny Graham, ENG, M, 1.87, 72, 10-06-02, Morecambe, None
+36, Callum King-Harmes, WAL, M, 1.78, 65, 19-04-02, Birmingham, None
+37, Finlay Hurford-Lockett, ENG, M, -, -, 10-04-03, Stockport, None
+38, Lukas Jensen, DEN, G, 1.98, 90, 18-03-99, Helsingør, Burnley
+40, Max Conway, ENG, M, -, -, 05-09-03, Manchester, None
+41, Matt Tweedley, ENG, M, -, -, 16-04-04, Rochdale, None
+42, Kian Le Fondre, ENG, M, -, -, 02-02-05, Stockport, None
+43, Matthew Alexander, ENG, G, 1.84, 68, 07-05-02, Newcastle upon Tyne, None
+45, Nathan Whalley, ENG, D, -, -, 18-01-03, -, None
+46, Luke Hutchinson, ENG, G, -, -, 01-09-02, Bury, None
+47, Jay Fitzmartin, ENG, M, -, -, 14-09-02, Wigan, None
+48, Markus Assarsson, SWE, M, -, -, 18-08-02, -, None
+49, Mitchell Henry, ENG, M, -, -, 02-09-03, Salford, None
+50, Ellis Litherland-Riding, ENG, G, -, -, 05-05-04, Blackburn, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Muhammadu Faal, ENG, F, 1.96, 81, 01-07-97, Hackney, Barnet (On Loan)
+4, George Taft, ENG, D, 1.91, 86, 29-07-93, Leicester, Scunthorpe U
+30, Peter Kioso, COD, D, 1.83, 70, 15-08-98, Dublin, Luton T
+3, Liam Gordon, GUY, D, 1.83, 76, 15-05-99, Croydon, Dagenham & Redbridge (On Loan)
+11, Ali Crawford, SCO, M, 1.73, 63, 30-07-91, Lanark, Tranmere R (On Loan)
+44, Regan Riley, ENG, M, -, -, 12-11-02, -, Norwich C
+14, Tom White, ENG, M, 1.80, 66, 09-05-97, Newcastle upon Tyne, Blackburn R
+15, Jamie Mascoll, ENG, D, 1.89, 66, 15-03-97, Lewisham, Waterford (On Loan)

@@ -1,0 +1,48 @@
+=  Goiás - Campeonato Brasileiro Série A 2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Maguinho, BRA, D, 1.73, 69, 06-01-92, Dores do Turvo, Kawasaki Frontale
+3, Da Silva, BRA, D, 1.92, 82, 07-02-01, Goiânia, None
+4, Caetano, BRA, D, 1.82, 73, 24-06-99, Rio de Janeiro, Corinthians
+5, Auremir, BRA, M, 1.74, 64, 10-09-91, Recife, Cuiabá
+6, Sávio, BRA, D, 1.75, 69, 26-05-95, Araraquara, Rio Ave
+7, Vinícius, BRA, F, 1.80, 76, 03-08-93, São Paulo, Bahia
+8, Fellipe Bastos, BRA, M, 1.76, 76, 01-02-90, Rio de Janeiro, Vasco da Gama
+9, Nicolas, BRA, F, 1.83, 74, 04-10-89, Alegria, Paysandu
+10, Marquinhos Gabriel, BRA, M, 1.74, 69, 21-07-90, Selbach, Criciúma
+11, Pedro Raúl, BRA, F, 1.92, 86, 05-11-96, Porto Alegre, Kashiwa Reysol
+13, Yan Souto, BRA, D, 1.88, 80, 05-10-01, Campo Grande, Floresta
+14, Danilo Barcelos, BRA, D, 1.86, 75, 17-08-91, Coronel Fabriciano, Fluminense
+15, Caio Vinícius, BRA, M, 1.87, 72, 11-01-99, Itaquaquecetuba, Fluminense
+16, Douglas Silva, BRA, D, 1.71, 69, 25-08-99, Arcoverde, Boa
+17, Pedro Junqueira, BRA, F, 1.82, 72, 23-03-04, Nerópolis, None
+18, Breno Herculano, BRA, F, 1.87, 81, 16-02-99, Cachoeiro de Itapemirim, Aimoré
+19, Renato Júnior, BRA, F, 1.90, 78, 05-06-02, São Paulo, Água Santa
+20, Diego, BRA, D, 1.76, 68, 31-10-95, Macaé, Boa
+21, Danilo Cardoso, BRA, D, 1.83, 78, 27-03-97, Umuarama, Athletic-MG
+22, Apodi, BRA, D, 1.72, 65, 13-12-86, Apodi, Ponte Preta
+23, Tadeu, BRA, G, 1.84, 80, 04-02-92, Joaquim Távora, Ferroviária
+25, Lucas Halter, BRA, D, 1.87, 79, 02-05-00, Salto, Athletico Paranaense
+26, Nathan Melo, BRA, M, 1.86, 86, 20-03-01, Goiânia, None
+27, Dadá Belmonte, BRA, F, 1.66, 59, 08-02-97, São José do Belmonte, Água Santa
+29, Reynaldo Cesar, BRA, D, 1.86, 81, 03-01-97, Catanduva, Moreirense
+30, Luiz Filipe, BRA, F, 1.75, 72, 28-05-01, Camesia, Atlético Mineiro
+34, Sidimar, BRA, D, 1.85, 80, 09-07-92, São José do Cedro, Athletic-MG
+36, Matheus Sales, BRA, M, 1.78, 68, 13-05-95, Guarulhos, Coritiba
+37, Juan Pablo, BRA, D, 1.79, 75, 25-04-02, Brasília, None
+55, Henrique Lordelo, BRA, M, 1.76, 72, 16-06-00, Rio de Janeiro, Flamengo
+57, Marco Antônio, BRA, M, 1.82, 75, 15-07-00, Belo Horizonte, Cruzeiro
+66, Hugo, BRA, D, 1.79, 73, 29-08-97, Arapiraca, CRB
+80, Lincon, BRA, M, 1.76, 67, 02-02-02, -, None
+88, Marcelo Rangel, BRA, G, 1.87, 81, 17-05-88, Marechal Cândido Rondon, Londrina
+94, Matheus Alves, BRA, G, 1.89, 82, 15-12-94, Brazlândia, None
+97, Reginaldo, BRA, F, -, -, 03-03-03, -, None
+98, Matheusinho, BRA, F, 1.75, 66, 29-07-98, São Bernardo do Campo, Ypiranga
+99, Luan Dias, BRA, M, 1.81, 75, 31-07-97, Santos, Água Santa
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Luan, BRA, F, 1.68, 69, 11-08-90, São Miguel dos Campos, 
+12, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Las Palmas
+10, Elvis, BRA, M, 1.75, 73, 09-09-90, Janiópolis, Ponte Preta

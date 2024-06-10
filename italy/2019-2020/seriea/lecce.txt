@@ -1,0 +1,57 @@
+=  Lecce - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Filippo Petrarca, ITA, G, 1.91, 79, 10-06-01, Maglie, None
+2, Vito Mattia Radicchio, ITA, D, 1.79, 67, 06-11-02, Bari, None
+3, Brayan Vera, COL, D, 1.80, 74, 15-01-99, San Luis, Itagüí Leones
+4, Jacopo Petriccione, ITA, M, 1.86, 75, 22-02-95, Gorizia, Bari
+5, Fabio Lucioni, ITA, D, 1.85, 80, 25-09-87, Terni, Benevento
+6, Nehuén Paz, ARG, D, 1.91, 89, 28-04-93, Capital Federal, Bologna
+7, Giulio Donati, ITA, D, 1.75, 70, 05-02-90, Pietrasanta, Mainz
+8, Marco Mancosu, ITA, M, 1.77, 75, 22-08-88, Cagliari, Casertana
+9, Gianluca Lapadula, ITA, F, 1.78, 69, 07-02-90, Turin, Genoa
+10, Filippo Falco, ITA, F, 1.75, 71, 11-02-92, Taranto, Bologna
+11, Yevhen Shakhov, UKR, M, 1.75, 62, 30-11-90, Dnipropetrovsk, PAOK
+13, Luca Rossettini, ITA, D, 1.87, 80, 09-05-85, Padua, Genoa
+14, Alessandro Deiola, ITA, M, 1.89, 85, 01-08-95, San Gavino Monreale, Cagliari
+15, Ilario Monterisi, ITA, D, 1.80, 65, 19-12-01, Trani, Bari
+16, Biagio Meccariello, ITA, D, 1.87, 85, 27-03-91, Benevento, Brescia
+17, Diego Farias, BRA, F, 1.72, 66, 10-05-90, Sorocaba, Cagliari
+18, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Fiorentina
+20, Augustas Dubickas, LTU, M, 1.88, , 17-03-01, Marijampolė, Mantova
+21, Gabriel Vasconcellos, BRA, G, 1.93, 89, 27-09-92, Unaí, Perugia
+22, Mauro Vigorito, ITA, G, 1.87, 79, 22-05-90, Ozieri, Frosinone
+25, Gabriele Gallo, ITA, F, 1.74, 64, 18-02-01, Bari, None
+27, Marco Calderoni, ITA, D, 1.83, 75, 18-02-89, Latisana, Novara
+28, Samuele Oltremarini, ITA, F, 1.75, 60, 26-11-02, Gallipoli, Soccer Dream Parabita
+29, Andrea Rispoli, ITA, D, 1.88, 83, 29-09-88, Cava de' Tirreni, Palermo
+30, Khouma Babacar, SEN, F, 1.85, 85, 17-03-93, Thiès, Sassuolo
+31, Silvio Colella, ITA, D, 1.93, 80, 02-05-02, Bari, None
+34, Sergio Maselli, ITA, M, 1.80, 69, 06-04-01, Bari, Bari
+35, Salvatore Rimoli, ITA, F, 1.72, 63, 07-06-01, Naples, Genoa
+36, Francesco Palumbo, ITA, M, 1.73, , 27-06-01, Taranto, Foggia
+37, Žan Majer, SVN, M, 1.79, 69, 25-07-92, Maribor, FC Rostov
+38, Michele Laraspata, ITA, D, 1.74, 65, 02-06-01, Bari, Parma
+39, Cristian Dell'Orco, ITA, D, 1.83, 75, 10-02-94, Sant'Angelo Lodigiano, Sassuolo
+40, Răzvan Sava, ROU, G, 1.94, 84, 21-06-02, Timișoara, Juventus
+72, Antonín Barák, CZE, M, 1.91, 85, 03-12-94, Příbram, Udinese
+77, Panagiotis Tachtsidis, GRE, M, 1.91, 86, 15-02-91, Nafplio, Nottingham F
+97, Gianmarco Chironi, ITA, G, 1.83, 80, 07-09-97, Nardò, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+75, Mattia Felici, ITA, M, 1.79, 73, 17-04-01, Rome, Palermo (On Loan)
+7, Thom Haye, NED, M, 1.77, 74, 09-02-95, Amsterdam, ADO Den Haag
+18, Roberto Pierno, ITA, D, 1.80, 69, 14-02-01, Bari, Bitonto (On Loan)
+14, Luka Dumančić, CRO, D, 1.92, 76, 27-10-98, Split, Gozzano (On Loan)
+28, Riccardo Fiamozzi, ITA, D, 1.75, 76, 18-05-93, Mezzocorona, Empoli (On Loan)
+19, Andrea La Mantia, ITA, F, 1.90, 81, 06-05-91, Marino, Empoli (On Loan)
+23, Andrea Tabanelli, ITA, M, 1.92, 78, 02-02-90, Ravenna, Frosinone
+20, Edgaras Dubickas, LTU, F, 1.82, 75, 09-07-98, Marijampolė, Gubbio (On Loan)
+6, Romario Benzar, ROU, D, 1.80, 79, 26-03-92, Timișoara, Perugia (On Loan)
+25, Antonino Gallo, ITA, M, 1.83, 65, 05-01-00, Palermo, Virtus Francavilla (On Loan)
+95, Marco Bleve, ITA, G, 1.84, 84, 18-10-95, San Cesario di Lecce, Catanzaro (On Loan)
+2, Davide Riccardi, ITA, D, 1.76, 76, 09-04-96, Monfalcone, Venezia (On Loan)
+32, Simone Lo Faso, ITA, F, 1.80, 72, 18-02-98, Palermo, Cesena (On Loan)
+85, Giannelli Imbula, FRA, M, 1.83, 77, 12-09-92, Vilvoorde, Stoke C

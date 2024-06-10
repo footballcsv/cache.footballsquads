@@ -1,0 +1,47 @@
+=  Mezőkövesd - Hungarian Nemzeti Bajnokság I 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dávid Dombó, HUN, G, 1.84, 79, 26-02-93, Pápa, Haladás
+4, Gábor Eperjesi, HUN, D, 1.78, 67, 12-01-94, Miskolc, Diósgyőr
+7, Bence Tóth, HUN, M, 1.76, 65, 27-07-89, Szolnok, Szolnok
+8, Máté Toth, HUN, M, 1.82, 76, 20-06-98, Szombathely, Haladás
+9, László Pekár, HUN, F, 1.73, 68, 20-01-93, Szolnok, Nyíregyháza
+10, Márk Koszta, HUN, F, 1.85, 82, 26-09-96, Kazincbarcika, Honvéd
+12, Dino Hodžić, CRO, G, 2.05, 80, 28-10-95, Metković, Vejle
+15, Bence Iszlai, HUN, M, 1.85, 82, 29-05-90, Veszprém, Haladás
+16, István Csirmaz, HUN, F, 1.72, 68, 04-05-95, Mezőkövesd, None
+17, Róbert Pillár, SVK, D, 1.89, 83, 27-05-91, Bardejov, Senica
+20, László Varjas, HUN, M, 1.81, 71, 17-05-00, Székesfehérvár, Videoton
+21, Stefan Dražić, SRB, F, 1.87, 78, 14-08-92, Belgrade, Mechelen
+22, Daniel Farkaš, SRB, D, 1.80, 70, 13-01-93, Senta, Spartak Subotica
+23, Dániel Vadnai, HUN, D, 1.77, 66, 19-02-88, Budapest, MTK
+24, Tamás Cseri, HUN, M, 1.74, 76, 15-01-88, Győr, Kisvárda
+25, Péter Szappanos, HUN, G, 1.94, 93, 14-11-90, Jászberény, Zalaegerszeg
+26, Lajos Bertus, HUN, M, 1.82, 79, 26-09-90, Kecskemét, Paks
+32, Matija Katanec, CRO, D, 1.83, 73, 04-05-90, Varaždin, Zrinjski Mostar
+33, Gábor Molnár, HUN, M, 1.78, 70, 16-05-94, Miskolc, Puskás Akadémia
+39, Dávid Hudák, SVK, D, 1.94, 84, 21-03-93, Bratislava, Slovan Bratislava
+40, Amadou Moutari, NIG, M, 1.70, 70, 19-01-94, Arlit, Ferencváros
+41, Attila Szalai, HUN, D, 1.92, 83, 20-01-98, Budapest, Rapid Vienna
+44, Balázs Egyed, HUN, G, 1.93, 86, 12-02-96, Miskolc, Putnok
+70, Erik Silye, HUN, D, 1.81, 77, 12-06-96, Orosháza, Ferencváros
+71, Filip Dragoner, HUN, F, 1.80, 77, 12-03-98, Budapest, Nyíregyháza
+77, Sándor Vajda, UKR, M, 1.75, 75, 24-12-91, Mátészalka, Balmazújváros
+88, Tamás Szeles, HUN, M, 1.79, 69, 07-12-93, Salgótarján, Salgótarján
+97, Mykhaylo Meskhi, UKR, M, 1.87, 83, 26-02-97, Donetsk, Stal Kamianske
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Bálint Oláh, HUN, M, 1.88, 85, 02-12-94, Miskolc, Budafok (On Loan)
+8, Richárd Nagy, HUN, M, 1.82, 76, 08-04-94, Budapest, Kaposvár (On Loan)
+98, Máté Toth, HUN, M, 1.82, 76, 20-06-98, Szombathely, Re-Registered (8)
+4, Frano Mlinar, CRO, M, 1.84, 74, 30-03-92, Zagreb, 
+13, Pál Lázár, HUN, D, 1.77, 73, 11-03-88, Sopron, 
+99, Dominik Wieland, GER, M, 1.89, 82, 25-09-99, Ochsenhausen, Vác (On Loan)
+9, André Alves, BRA, F, 1.81, 76, 15-10-83, Dourados, 
+45, Botond Földi, HUN, F, 1.85, 76, 21-08-01, Vác, Cegléd (On Loan)
+18, Zoltán Varjas, HUN, M, 1.82, 73, 17-05-00, Székesfehérvár, Cegléd (On Loan)
+12, Péter Szentpéteri, HUN, G, 1.87, 81, 01-11-79, Budapest, Dorog
+6, Patrick Mevoungou, CMR, M, 1.77, 75, 15-02-86, Yaoundé, Kisvárda
+11, Dénes Szakály, HUN, M, 1.79, 65, 15-03-88, Nagyatád, Siófok

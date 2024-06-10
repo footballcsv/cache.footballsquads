@@ -1,0 +1,57 @@
+=  Arsenal - English Premier League 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Almunia, ESP, G, 1.91, 86, 16-05-77, Pamplona, Celta Vigo
+2, Abou Diaby, FRA, M, 1.88, 75, 11-05-86, Paris, Auxerre
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Auxerre
+4, Cesc Fàbregas, ESP, M, 1.77, 69, 04-05-87, Arenys de Mar, Barcelona
+5, Thomas Vermaelen, BEL, D, 1.82, 75, 14-11-85, Kapellen, Ajax
+7, Tomáš Rosický, CZE, M, 1.78, 67, 04-10-80, Prague, Borussia Dortmund
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Marseille
+9, Eduardo, CRO, F, 1.77, 70, 25-02-83, Rio de Janeiro, Dinamo Zagreb
+10, William Gallas, FRA, D, 1.83, 72, 17-08-77, Asnieres, Chelsea
+11, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Feyenoord
+12, Carlos Vela, MEX, F, 1.76, 72, 01-03-89, Cancún, Guadalajara
+14, Theo Walcott, ENG, F, 1.75, 68, 16-03-89, Stanmore, Southampton
+15, Denílson, BRA, M, 1.78, 68, 16-02-88, São Paulo, São Paulo
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+17, Alexandre Song, CMR, M, 1.84, 76, 09-09-87, Douala, Bastia
+18, Mikaël Silvestre, FRA, D, 1.84, 82, 09-08-77, Chambray-Les-Tours, Manchester U
+20, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Etoile-Carouge
+21, Łukasz Fabiański, POL, G, 1.90, 84, 18-04-85, Kostrzyn nad Odrą, Legia Warszawa
+22, Gaël Clichy, FRA, D, 1.81, 72, 26-07-85, Toulouse, Cannes
+23, Andrey Arshavin, RUS, M, 1.72, 71, 29-05-81, St. Petersburg, Zenit St. Petersburg
+24, Vito Mannone, ITA, G, 1.94, 73, 02-03-88, Desio, Atalanta
+27, Emmanuel Eboué, CIV, D, 1.78, 72, 04-06-83, Abidjan, Beveren
+28, Kieran Gibbs, ENG, D, 1.80, 70, 26-09-89, Lambeth, None
+30, Armand Traoré, FRA, D, 1.85, 82, 08-10-89, Paris, Monaco
+31, Sol Campbell, ENG, D, 1.88, 88, 18-09-74, Newham, Notts Co
+32, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Barcelona
+33, Nacer Barazite, NED, M, 1.88, 83, 27-05-90, Arnhem, NEC Nijmegen
+34, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Bolton W
+35, Francis Coquelin, FRA, M, 1.78, 73, 13-05-91, Laval, Laval
+36, Thomas Cruise, ENG, D, 1.85, 80, 09-03-91, Islington, None
+37, Craig Eastmond, ENG, D, 1.83, 75, 09-12-90, Wandsworth, None
+38, Jay Emmanuel-Thomas, ENG, M, 1.75, 72, 27-12-90, Forest Gate, None
+39, Cédric Evina, FRA, D, 1.80, 80, 16-11-91, , None
+40, Luke Freeman, ENG, F, 1.83, 64, 22-03-92, Dartford, Gillingham
+41, Emmanuel Frimpong, ENG, M, 1.83, 83, 10-01-92, Accra, None
+42, Kerrea Gilbert, ENG, D, 1.75, 71, 28-02-87, Hammersmith, None
+43, Conor Henderson, IRL, M, 1.85, 76, 08-09-91, Sidcup, None
+45, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, None
+46, Luke Ayling, ENG, D, 1.83, 72, 25-08-91, Lambeth, None
+47, Rhys Murphy, ENG, F, 1.86, 76, 06-11-90, Shoreham-by-Sea, None
+49, James Shea, ENG, G, 1.80, 76, 16-06-91, Islington, None
+51, Gilles Sunu, FRA, F, 1.80, 70, 30-03-91, Châteauroux, Châteauroux
+52, Nicklas Bendtner, DEN, F, 1.92, 83, 16-01-88, Copenhagen, FC København
+54, Sanchez Watt, ENG, M, 1.80, 76, 14-02-91, Hackney, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+50, Jay Simpson, ENG, F, 1.80, 85, 01-12-88, London, QPR (On Loan)
+44, Gavin Hoyte, ENG, D, 1.80, 70, 06-06-90, Waltham Forest, Brighton & HA (On Loan)
+48, Mark Randall, ENG, M, 1.83, 82, 28-09-89, Milton Keynes, MK Dons (On Loan)
+6, Philippe Senderos, SUI, D, 1.90, 84, 14-02-85, Geneva, Everton (On Loan)
+19, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, Bolton W (On Loan)
+53, Wojciech Szczęsny, POL, G, 1.95, 84, 18-04-90, Warsaw, Brentford (On Loan)

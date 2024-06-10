@@ -1,0 +1,36 @@
+=  Zulte-Waregem - Belgian Pro League 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sammy Bossut, BEL, G, 1.85, 74, 11-08-85, Oostrozebeke, KVSK United
+2, Stijn Minne, BEL, D, 1.71, 68, 29-06-78, Jabbeke, Maldegem
+3, Steve Colpaert, BEL, D, 1.76, 69, 13-09-86, Dilbeek, FC Brussels
+4, David Vandenbroeck, BEL, D, 1.85, 83, 12-07-85, Braine-l'Alleud, Charleroi
+5, Rémy Maréval, FRA, D, 1.82, 75, 24-02-83, Domont, Nantes
+6, Ludwin Van Nieuwenhuyse, BEL, M, 1.85, 80, 25-02-78, Waregem, Hamme
+7, Mahamadou Habib Habibou, FRA, F, 1.92, 80, 16-04-87, Bria, Charleroi
+8, Kevin Roelandts, BEL, M, 1.85, 80, 27-08-82, Brugge, Club Brugge
+9, Teddy Chevalier, FRA, F, 1.80, 70, 28-06-87, Denain, Boussu Dour Borinage
+10, Ernest Webnje Nfor, CMR, F, 1.80, 68, 28-04-86, Yaoundé, KAA Gent
+11, Stijn Meert, BEL, M, 1.77, 72, 06-04-78, Kortrijk, Anderlecht
+12, Thomas Matton, BEL, M, 1.80, 68, 27-10-85, Brugge, OH Leuven
+14, Jeremy Bokila, NED, F, 1.88, 78, 14-11-88, Kinshasa, AGOVV Apeldoorn
+15, Kevin Pollet, BEL, D, 1.83, 72, 23-06-92, , None
+16, René Sterckx, BEL, M, 1.84, 82, 18-01-91, , Anderlecht
+18, Moussa Traoré, CIV, F, 1.84, 79, 03-04-89, Abidjan, Standard Liège
+19, Nicholas Tamsin, BEL, D, 1.78, 76, 10-12-89, Brugge, Turnhout
+20, Michiel Jonckheere, BEL, M, 1.80, 64, 03-01-90, Ostend, Club Brugge
+21, Khaleem Hyland, TRI, M, 1.86, 85, 05-06-89, Carenage, Portsmouth
+22, Tom Muyters, BEL, G, 1.87, 83, 05-12-84, Tongeren, Sint-Truiden
+23, Pavel Verstraete, BEL, D, 1.92, 79, 02-04-92, Waregem, None
+24, Karel D'Haene, BEL, D, 1.83, 76, 05-09-80, Kortrijk, Manisaspor
+25, Jasper Otte, BEL, G, 1.82, 70, 16-10-92, , Willem II
+26, Jens Naessens, BEL, F, 1.87, 76, 01-04-91, , None
+27, Miguel Dachelet, BEL, D, 1.81, 73, 16-01-88, , Standard Liège
+28, Jonathan Delaplace, FRA, M, 1.67, 60, 20-03-86, La Seyne-sur-Mer, Fréjus
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Bart Buysse, BEL, M, 1.78, 70, 16-10-86, Brugge, FC Twente
+17, Steffen Ernemann, DEN, M, 1.86, 78, 26-04-82, Odder, KSV Roeselare (On Loan)
+15, Zakaria Gueye, FRA, F, 1.85, 67, 22-02-86, Dakar, Fréjus (On Loan)

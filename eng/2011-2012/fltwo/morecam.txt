@@ -1,0 +1,40 @@
+=  Morecambe - English Football League Two 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Nick Fenton, ENG, D, 1.83, 64, 23-11-79, Preston, Rotherham U
+3, Sean McGinty, IRL, D, 1.88, 80, 11-08-93, Maidstone, Manchester U
+5, Jim Bentley, ENG, D, 1.85, 83, 11-06-76, Liverpool, Telford U
+6, Will Haining, SCO, D, 1.83, 65, 02-10-82, Glasgow, St Mirren
+7, Izak Reid, ENG, M, 1.66, 66, 08-07-87, Stafford, Macclesfield T
+8, Garry Hunter, ENG, M, 1.83, 76, 01-01-85, Morecambe, None
+9, Lewis Alessandra, ENG, F, 1.75, 73, 08-02-89, Oldham, Oldham Ath
+11, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Rotherham U
+12, Craig Curran, ENG, F, 1.75, 74, 23-08-89, Liverpool, Carlisle U
+13, Lee Jones, WAL, G, 1.90, 93, 09-08-70, Pontypridd, Witton Alb
+14, Jordan Burrow, ENG, F, 1.75, 80, 12-09-92, Sheffield, Chesterfield
+15, Chris McCready, ENG, D, 1.85, 77, 05-07-81, Chester, Northampton T
+16, Stewart Drummond, ENG, M, 1.88, 81, 11-12-75, Preston, Shrewsbury T
+17, Andrew Fleming, ENG, M, 1.80, 67, 05-10-87, Liverpool, Wrexham
+18, Gary McDonald, SCO, M, 1.85, 73, 10-04-82, Irvine, Hamilton Academical
+19, Laurence Wilson, ENG, D, 1.78, 70, 10-10-86, Liverpool, Chester C
+20, Joe Mwasile, ENG, M, 1.74, 64, 07-06-93, , None
+21, Joe Culshaw, WAL, D, 1.71, 69, 03-07-93, Corwen, None
+22, Andy Parrish, ENG, D, 1.83, 74, 22-06-88, Bolton, Bury
+23, Sean Breen, ENG, F, 1.81, 64, 26-10-92, Birkenhead, None
+24, Niall Cowperthwaite, ENG, D, 1.80, 70, 28-01-92, Barrow, None
+25, Chris Kettings, SCO, G, 1.88, 78, 25-10-92, Bolton, Blackpool
+26, Dan Parkinson, ENG, M, 1.82, 71, 02-11-92, Preston, None
+27, Jack Redshaw, ENG, F, 1.68, 64, 20-11-90, Salford, Altrincham
+28, Joe McGee, ENG, M, 1.81, 69, 06-03-93, Liverpool, None
+29, James Short, ENG, D, , , , , None
+30, Danny Carlton, ENG, F, 1.80, 78, 22-12-83, Leeds, Bury
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Kieran Charnock, ENG, D, 1.86, 92, 03-08-84, Preston, Fleetwood T
+12, Shaun Routledge, ENG, G, 1.94, 92, 30-12-92, Whitehaven, Workington
+29, Jason Price, WAL, F, 1.88, 72, 12-04-77, Aberdare, Guiseley
+10, Phil Jevons, ENG, F, 1.78, 75, 01-08-79, Liverpool, 
+4, Paul Scott, ENG, D, 1.80, 79, 05-11-79, Wakefield, 

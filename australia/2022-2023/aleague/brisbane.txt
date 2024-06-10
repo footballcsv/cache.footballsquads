@@ -1,0 +1,40 @@
+=  Brisbane Roar - Australian A-League 2022/2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Macklin Freke, AUS, G, 1.93, 82, 06-01-99, Brisbane, None
+2, Scott Neville, AUS, D, 1.84, 71, 11-01-89, Exeter, Perth Glory
+3, Jordan Courtney-Perkins, AUS, D, 1.89, 78, 06-11-02, Adelaide, Raków Częstochowa
+5, Tom Aldred, SCO, D, 1.88, 84, 11-09-90, Bolton, Bury
+7, Rahmat Akbari, AUS, M, 1.85, 71, 20-06-00, Jaghori, Melbourne Victory
+10, Nikola Mileusnić, AUS, M, 1.80, 75, 17-07-93, Adelaide, Randers
+11, Jez Lofthouse, AUS, F, 1.70, 62, 16-10-99, Brisbane, Olympic FC
+12, Taras Gomulka, AUS, M, 1.83, 78, 16-09-01, Adelaide, Melbourne C
+13, Henry Hore, IND, M, 1.80, 67, 17-08-99, Nambour, South Melbourne
+14, Robbie Kruse, AUS, F, 1.79, 72, 05-10-88, Brisbane, Melbourne Victory
+15, Noah Smith, AUS, D, 1.82, 80, 15-12-00, Adelaide, Melbourne Victory
+16, Josh Brindell-South, AUS, D, 1.84, 70, 28-10-92, Brisbane, Queensland Lions
+17, Carlo Armiento, AUS, M, 1.75, 65, 04-06-99, Adelaide, Perth Glory
+19, Jack Hingert, AUS, D, 1.76, 71, 26-09-90, Croydon, Dandenong Thunder
+21, Marcel Čanadi, AUT, M, 1.85, 76, 27-10-97, Vienna, Šibenik
+22, Stefan Šćepović, SRB, F, 1.86, 79, 10-01-90, Belgrade, AEL Limassol
+23, Jordan Holmes, AUS, G, 1.86, 82, 08-05-97, Sydney, Ebbsfleet U
+26, Jay O'Shea, IRL, M, 1.83, 70, 10-08-88, Dún Laoghaire, Bury
+27, Kai Trewin, AUS, D, 1.78, 72, 18-05-01, Batemans Bay, None
+28, Joe Knowles, AUS, F, 1.82, 79, 10-07-96, Perth, Oakleigh Cannons
+31, Lachlan Duke, AUS, G, -, -, 23-03-05, -, None
+32, James Nikolovski, AUS, D, 1.84, 75, 04-02-02, Sydney, Rockdale Ilinden
+35, Louis Zabala, AUS, M, 1.75, 75, 25-01-01, Giru, None
+37, Thomas Waddingham, AUS, F, 1.80, 75, 05-04-05, Cairns, None
+40, Cardiff Pond, AUS, G, -, -, 06-05-05, -, None
+99, Ayom Majok, AUS, M, 1.82, 70, 01-01-03, -, Adelaide C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Charlie Austin, ENG, F, 1.88, 84, 05-07-89, Hungerford, Swindon T
+18, Matti Steinmann, GER, M, 1.88, 78, 08-01-95, Hamburg, 
+29, Cyrus Dehmie, AUS, F, 1.75, 70, 25-05-02, Guiglo, Næstved
+8, Riku Danzaki, JPN, M, 1.74, 63, 31-05-00, Miyagi, Hokkaido Consadole Sapporo
+15, Jesse Daley, AUS, M, 1.78, 68, 16-10-97, Brisbane, Cavalry FC
+6, Connor Chapman, AUS, M, 1.88, 83, 31-10-94, Caringbah, Melbourne Victory
+4, Anton Mlinaric, AUS, D, 1.90, 76, 11-03-02, Sydney, Oakleigh Cannons

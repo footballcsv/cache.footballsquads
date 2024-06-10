@@ -1,0 +1,50 @@
+=  Udinese - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, Racing Club
+3, Samir, BRA, D, 1.88, 70, 05-12-94, Rio de Janeiro, Flamengo
+4, Nicholas Opoku, GHA, D, 1.90, 87, 08-11-97, Kumasi, Club Africain
+5, William Troost-Ekong, NGA, D, 1.91, 74, 01-09-93, Haarlem, Bursaspor
+6, Seko Fofana, FRA, M, 1.84, 74, 07-05-95, Paris, Bastia
+7, Stefano Okaka, ITA, F, 1.86, 82, 09-08-89, Castiglione del Lago, Watford
+8, Emmanuel Agyemang-Badu, GHA, M, 1.73, 71, 02-12-90, Berekum, Berekum Arsenal
+10, Rodrigo De Paul, ARG, M, 1.80, 70, 24-05-94, Sarandí, Valencia
+11, Valon Behrami, SUI, M, 1.85, 71, 19-04-85, Mitrovica, Watford
+13, Svante Ingelsson, SWE, F, 1.89, 83, 14-06-98, Kalmar, Kalmar FF
+14, Petar Mićin, SRB, M, 1.89, 73, 29-09-98, Novi Sad, Čukarički
+15, Kevin Lasagna, ITA, F, 1.81, 80, 10-08-92, Suzzara, Carpi
+17, Bram Nuytinck, NED, D, 1.90, 80, 04-05-90, Malden, Anderlecht
+18, Hidde ter Avest, NED, D, 1.83, 74, 20-05-97, Wierden, FC Twente
+19, Jens Stryger Larsen, DEN, D, 1.80, 74, 21-02-91, Sakskøbing, Austria Vienna
+20, Emil Hallfreðsson, ISL, M, 1.86, 83, 26-06-84, Reykjavík, Frosinone
+23, Ignacio Pussetto, ARG, F, 1.80, 74, 21-12-95, Cañada Rosquín, Huracán
+24, Ben Wilmot, ENG, D, 1.88, 80, 04-11-99, Stevenage, Watford
+27, Samuele Perisan, ITA, G, 1.92, 84, 21-08-97, San Vito al Tagliamento, None
+30, Sandro, BRA, M, 1.87, 75, 15-03-89, Riachinho, Genoa
+38, Rolando Mandragora, ITA, M, 1.83, 76, 29-06-97, Naples, Juventus
+40, Manuel Gasparini, ITA, G, 1.82, 74, 19-05-02, San Daniele del Friuli, None
+41, Miloš Bočić, SRB, F, 1.73, 65, 26-01-00, Belgrade, None
+42, Filip Vaško, SVK, D, 1.91, 78, 11-08-99, Rožňava, VSS Košice
+43, Thomas Battistella, ITA, M, 1.83, 80, 29-07-01, Pordenone, None
+72, Antonín Barák, CZE, M, 1.91, 85, 03-12-94, Příbram, Slavia Prague
+77, Marco D'Alessandro, ITA, F, 1.73, 66, 17-02-91, Rome, Atalanta
+87, Sébastian De Maio, FRA, D, 1.90, 90, 05-03-87, Saint-Denis, Bologna
+88, Nícolas Andrade, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Verona
+90, Marvin Zeegelaar, NED, D, 1.86, 84, 12-08-90, Amsterdam, Watford
+91, Łukasz Teodorczyk, POL, F, 1.88, 78, 03-06-91, Żuromin, Anderlecht
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+41, Semuel Pizzignacco, ITA, G, 1.85, 70, 01-09-01, Monfalcone, Vicenza
+33, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Western U
+79, Gabriele Angella, ITA, D, 1.89, 88, 28-04-89, Florence, Charleroi (On Loan)
+9, Felipe Vizeu, BRA, F, 1.84, 82, 12-03-97, Três Rios, Grêmio (On Loan)
+22, Simone Scuffet, ITA, G, 1.90, 75, 31-05-96, Udine, Kasımpaşa (On Loan)
+7, Giuseppe Pezzella, ITA, D, 1.87, 81, 29-11-97, Naples, Genoa (On Loan)
+98, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Carpi (On Loan)
+99, Andrija Balić, CRO, M, 1.80, 71, 11-08-97, Split, Fortuna Sittard (On Loan)
+16, Darwin Machís, VEN, F, 1.70, 58, 07-02-93, Tucupita, Cádiz (On Loan)
+21, Simone Pontisso, ITA, M, 1.84, 74, 20-03-97, San Daniele del Friuli, Vicenza
+2, Molla Wagué, MLI, D, 1.91, 87, 21-02-91, Vernon, Nottingham F (On Loan)
+25, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Villa Jardín, Ascoli (On Loan)

@@ -1,0 +1,40 @@
+=  Huesca - Spanish LaLiga2 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Álvaro Fernández, ESP, G, 1.85, 75, 13-04-98, Arnedo, Monaco
+2, Miguelón, ESP, D, 1.70, 68, 18-01-96, Benidorm, Villarreal
+3, Josué, POR, D, 1.86, 75, 17-06-92, Lisbon, Anderlecht
+4, Pablo Insua, ESP, D, 1.86, 75, 09-09-93, Arzua, Schalke
+5, Pedro Mosquera, ESP, M, 1.84, 75, 21-04-88, La Coruña, Deportivo La Coruña
+6, Cheick Doukouré, CIV, M, 1.80, 72, 11-09-92, Abidjan, Levante
+7, David Ferreiro, ESP, M, 1.70, 63, 01-04-88, Ourense, Lugo
+8, Eugeni, ESP, M, 1.82, 73, 19-07-94, Tarragona, Valencia B
+10, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Udinese
+11, Javi Galán, ESP, D, 1.72, 70, 19-11-94, Badajoz, Córdoba
+12, Shinji Okazaki, JPN, F, 1.74, 70, 16-04-86, Hyogo, Málaga
+13, Rubén Yáñez, ESP, G, 1.90, 81, 12-10-93, Blanes, Getafe
+14, Jorge Pulido, ESP, D, 1.81, 72, 08-04-91, Talavera de la Reina, Sint-Truiden
+15, Toni Datković, CRO, D, 1.84, 78, 06-11-93, Zagreb, Lokomotiva Zagreb
+16, Luisinho, POR, D, 1.71, 66, 05-05-85, Porto, Deportivo La Coruña
+17, Mikel Rico, ESP, M, 1.78, 73, 04-11-84, Basauri, Athletic Bilbao
+18, Sergio Gómez, ESP, M, 1.71, 65, 04-09-00, Badalona, Borussia Dortmund
+19, Pedro López, ESP, D, 1.74, 72, 01-01-83, Valencia, Levante
+20, Jordi Mboula, ESP, F, 1.83, 74, 16-03-99, Granollers, Monaco
+21, Juan Carlos, ESP, M, 1.75, 72, 15-03-91, La Coruña, Almería
+23, Daniel Raba, ESP, M, 1.84, 74, 29-10-95, Santander, Villarreal
+24, Rafa Mir, ESP, F, 1.86, 75, 18-06-97, Murcia, Wolverhampton W
+26, Kike Hermoso, ESP, D, 1.90, 76, 10-08-99, Madrid, Rayo Vallecano B
+27, Juan Sebastián Peñaloza, COL, F, 1.72, 65, 03-05-00, Quibdó, Almudévar
+28, Kelechi Nwakali, NGA, M, 1.81, 74, 05-06-98, Owerri, Arsenal
+29, Kevin Carlos, ESP, F, 1.86, 98, 10-04-01, Ceuta, Almudévar
+30, Antonio Valera, ESP, G, 1.87, 80, 17-08-96, Bujalance, Almudévar
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Álex Gallar, ESP, M, 1.76, 71, 19-03-92, Sabadell, Girona
+15, Cristo González, ESP, F, 1.80, 73, 24-10-97, Santa Cruz de Tenerife, Re-Registered (10)
+24, Ivi, ESP, M, 1.74, 74, 29-06-94, Madrid, Levante
+9, Dani Escriche, ESP, F, 1.78, 76, 24-03-98, Burriana, Elche (On Loan)
+22, Joaquín Muñoz, ESP, M, 1.73, 60, 10-03-99, Málaga, Mirandés (On Loan)
+20, Jaime Seoane, ESP, M, 1.73, 66, 22-01-97, Madrid, Lugo (On Loan)

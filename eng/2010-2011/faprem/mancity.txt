@@ -1,0 +1,69 @@
+=  Manchester City - English Premier League 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Shay Given, IRL, G, 1.88, 84, 20-04-76, Lifford, Newcastle U
+2, Micah Richards, ENG, D, 1.80, 83, 24-06-88, Birmingham, None
+4, Vincent Kompany, BEL, D, 1.91, 91, 10-04-86, Ukkel, Hamburg
+5, Pablo Zabaleta, ARG, D, 1.74, 74, 16-01-85, Capital Federal, Espanyol
+6, Michael Johnson, ENG, M, 1.83, 79, 24-02-88, Urmston, None
+7, James Milner, ENG, M, 1.70, 67, 04-01-86, Wortley, Aston Villa
+8, Shaun Wright-Phillips, ENG, M, 1.66, 64, 25-10-81, Greenwich, Chelsea
+10, Edin Džeko, BIH, F, 1.92, 80, 17-03-86, Doboj, Wolfsburg
+11, Adam Johnson, ENG, M, 1.75, 62, 14-07-87, Sunderland, Middlesbrough
+12, Stuart Taylor, ENG, G, 1.96, 86, 28-11-80, Romford, Aston Villa
+13, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, Lazio
+17, Jerome Boateng, GER, D, 1.92, 90, 03-09-88, Berlin, Hamburg
+18, Gareth Barry, ENG, M, 1.83, 79, 23-02-81, Hastings, Aston Villa
+19, Joleon Lescott, ENG, D, 1.88, 83, 16-08-82, Birmingham, Everton
+21, David Silva, ESP, M, 1.70, 67, 08-01-86, Arguineguín, Valencia
+22, Greg Cunningham, IRL, D, 1.83, 73, 31-01-91, Galway, None
+24, Patrick Vieira, FRA, M, 1.92, 82, 23-06-76, Dakar, Internazionale
+25, Joe Hart, ENG, G, 1.91, 80, 19-04-87, Shrewsbury, Shrewsbury T
+27, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, CSKA Moscow
+28, Kolo Touré, CIV, D, 1.83, 76, 19-03-81, Sokoura Bouaké, Arsenal
+30, Shaleum Logan, ENG, D, 1.85, 79, 06-11-88, Manchester, None
+32, Carlos Tévez, ARG, F, 1.71, 75, 05-02-84, Ciudadela, West Ham U
+34, Nigel de Jong, NED, M, 1.74, 72, 30-11-84, Amsterdam, Hamburg
+35, Scott Kay, ENG, M, 1.79, 77, 18-09-89, Denton, None
+36, Javan Vidal, ENG, D, 1.78, 68, 10-05-89, Manchester, None
+37, Gunnar Nielsen, FRO, G, 1.91, 89, 07-10-86, Tórshavn, Blackburn R
+38, Dedryck Boyata, BEL, D, 1.88, 84, 08-09-90, Uccle, None
+42, Yaya Touré, CIV, M, 1.91, 90, 13-05-83, Sokoura Bouaké, Barcelona
+43, Alex Nimely, ENG, F, 1.80, 72, 11-05-91, Monrovia, Cotonsport Garoua
+45, Mario Balotelli, ITA, F, 1.89, 88, 12-08-90, Palermo, Internazionale
+46, Loris Karius, GER, G, 1.87, 75, 22-06-93, Biberach, Stuttgart
+47, James Poole, ENG, F, 1.80, 79, 20-03-90, Stockport, None
+48, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, None
+49, Donal McDermott, IRL, F, 1.98, 76, 19-10-89, Dublin, None
+50, Abdisalam Ibrahim, NOR, M, 1.85, 73, 01-05-91, Mogadishu, Fjellhamar
+53, Chris Chantler, ENG, M, 1.73, 70, 16-12-90, Cheadle Hulme, None
+54, Tommy Smith, ENG, D, 1.86, 75, 14-04-92, Warrington, None
+55, Sean Tse, IRL, D, 1.85, 75, 03-05-92, Salford, None
+56, Frédéric Veseli, SUI, D, 1.83, 80, 20-11-92, Renens, Lausanne-Sport
+57, Reece Wabara, ENG, D, 1.82, 73, 28-12-91, Stoke Heath, Walsall
+58, Ahmad Benali, ENG, M, 1.68, 65, 07-02-92, Manchester, None
+60, John Guidetti, SWE, F, 1.81, 79, 15-04-92, Stockholm, IF Brommapojkarna
+61, Jérémy Helan, FRA, M, 1.81, 76, 09-05-92, Clichy, Rennes
+62, Abdul Razak, CIV, M, 1.80, 76, 11-11-92, Bouaké, Crystal Palace
+63, Eirik Johansen, NOR, G, 1.93, 89, 12-07-92, Tønsberg, None
+65, Harry Bunn, ENG, F, 1.75, 75, 21-11-92, Oldham, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+51, Kieran Trippier, ENG, D, 1.78, 71, 19-09-90, Bury, Barnsley (On Loan)
+39, Craig Bellamy, WAL, F, 1.75, 69, 13-07-79, Cardiff, Cardiff C (On Loan)
+7, Stephen Ireland, IRL, M, 1.75, 68, 22-08-86, Cork, Aston Villa
+40, Vladimir Weiss, SVK, M, 1.75, 68, 30-11-89, Bratislava, Rangers (On Loan)
+31, Adam Clayton, ENG, F, 1.75, 75, 14-01-89, Manchester, Leeds U
+10, Robinho, BRA, F, 1.72, 60, 25-01-84, São Vicente, Milan
+20, Felipe Caicedo, ECU, F, 1.85, 78, 05-09-88, Guayaquil, Levante (On Loan)
+41, Ben Mee, ENG, D, 1.80, 74, 23-09-89, Sale, Leicester C (On Loan)
+3, Wayne Bridge, ENG, D, 1.79, 81, 05-08-80, Southampton, West Ham U (On Loan)
+14, Roque Santa Cruz, PAR, F, 1.87, 80, 16-08-81, Asunción, Blackburn R (On Loan)
+9, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Real Madrid (On Loan)
+26, David González, COL, G, 1.94, 83, 20-07-82, Medellín, Leeds U (On Loan)
+44, David Ball, ENG, F, 1.83, 75, 14-12-89, Whitefield, Peterborough U
+52, Andrew Tutte, ENG, M, 1.75, 68, 21-09-90, Liverpool, Yeovil T (On Loan)
+29, Kelvin Etuhu, NGA, F, 1.80, 79, 30-05-88, Kano, 
+59, Omar Elabdellaoui, NOR, M, 1.79, 72, 05-12-91, Skien, Strømsgodset (On Loan)

@@ -1,0 +1,33 @@
+=  PAS Giannina - Greek Super League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alexandros Paschalakis, GRE, G, 1.93, 90, 28-07-89, Athens, Panthrakikos
+2, Michalis Boukouvalas, GRE, D, 1.70, 67, 14-01-88, Panetolio, Iraklils
+3, Andi Lila, ALB, D, 1.84, 79, 12-02-86, Kavajë, KF Tirana
+4, Theodoros Berios, GRE, D, 1.91, 85, 21-03-89, Athens, Zenit Čáslav
+5, Iraklis Garoufalias, GRE, D, 1.85, 76, 01-05-93, Athens, Fostiras
+6, Alexis Michail, GRE, D, 1.83, 79, 18-08-86, Giannina, None
+7, Evripidis Giakos, GRE, F, 1.81, 75, 09-04-91, Giannina, None
+8, Themistoklis Tzimopoulos, NZL, M, 1.88, 82, 20-11-85, Kozani, Ethnikos Asteras
+9, Pedro Conde, ESP, F, 1.86, 72, 26-07-88, Villafranca de Córdoba, Mérida
+10, Jairo, BRA, F, 1.80, 77, 06-05-92, Rio de Janeiro, PAOK
+11, Noé Acosta, ESP, M, 1.77, 74, 10-12-83, Madrid, Olympiakos Volos
+12, Kostas Peristeridis, GRE, G, 1.95, 85, 05-07-91, Chania, Platanias
+13, Nikos Koliofoukas, GRE, G, 1.86, 77, 11-09-96, , None
+17, Fonsi, ESP, D, 1.78, 72, 22-01-86, Zaragoza, Săgeata Năvodari
+20, Nikolaos Karanikas, GRE, D, 1.76, 70, 04-03-92, Larissa, Larissa
+22, Chrysovalantis Kozoronis, GRE, M, 1.82, 81, 03-08-92, Heraklion, Ergotelis
+23, Leonardo Koutris, GRE, M, 1.74, 70, 23-07-95, Rhodes, Ergotelis
+33, Higor Vidal, BRA, M, 1.73, 60, 26-09-96, Campo Largo, Londrina
+34, Nikos Korovesis, GRE, M, 1.76, 70, 10-08-91, Chalkida, PAOK
+42, Konstantinos Mavropanos, GRE, D, 1.92, 80, 11-12-97, Athens, Apollon Smyrnis
+44, Apostolos Skondras, GRE, D, 1.84, 80, 29-12-88, Athens, Larissa
+88, Alexandros Nikolias, GRE, M, 1.72, 62, 23-07-94, Kymi, Olympiakos Volos
+93, Christopher Maboulou, FRA, M, 1.85, 79, 19-03-90, Montfermeil, Bastia
+98, Alexandros Masouras, GRE, M, 1.84, 75, 21-03-98, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Dimitrios Ferfelis, GRE, F, 1.92, 82, 05-04-93, Delmenhorst, Lamia
+18, Christos Donis, GRE, M, 1.83, 76, 09-10-94, Athens, Panathinaikos

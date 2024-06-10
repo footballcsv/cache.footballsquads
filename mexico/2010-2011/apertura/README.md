@@ -1,0 +1,21 @@
+# Mexican Primera División 2010 Apertura
+
+18 teams
+- [América](america.txt)
+- [Atlante](atlante.txt)
+- [Atlas](atlas.txt)
+- [Cruz Azul](cruzazul.txt)
+- [Estudiantes Tecos](esttecos.txt)
+- [Guadalajara](guadal.txt)
+- [Jaguares de Chiapas](jaguares.txt)
+- [Monterrey](monter.txt)
+- [Morelia](morelia.txt)
+- [Necaxa](necaxa.txt)
+- [Pachuca](pachuca.txt)
+- [Puebla](puebla.txt)
+- [Querétaro](queret.txt)
+- [San Luis](sanluis.txt)
+- [Santos Laguna](santos.txt)
+- [Toluca](toluca.txt)
+- [UANL Tigres](uanltig.txt)
+- [UNAM](unam.txt)

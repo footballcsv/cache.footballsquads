@@ -1,0 +1,45 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2017
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando Prass, BRA, G, 1.91, 79, 09-07-78, Porto Alegre, Vasco da Gama
+2, Jean, BRA, D, 1.70, 70, 24-06-86, Campo Grande, Fluminense
+3, Edu Dracena, BRA, D, 1.87, 80, 18-05-81, Dracena, Corinthians
+4, Juninho, BRA, D, 1.86, 75, 02-01-95, Londrina, Coritiba
+5, Arouca, BRA, M, 1.69, 65, 11-08-86, Duas Barras, Santos
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Dnipro Dnipropetrovsk
+7, Dudu, BRA, M, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+8, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, Audax
+9, Miguel Borja, COL, F, 1.82, 74, 26-01-93, Tierra Alta, Atlético Nacional
+10, Moisés, BRA, M, 1.84, 81, 17-03-88, Belo Horizonte, Rijeka
+11, Zé Roberto, BRA, D, 1.72, 72, 06-07-74, Ipiranga, Grêmio
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Jailson, BRA, G, 1.86, 80, 20-07-81, São José dos Campos, Ceará
+15, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, São Paulo
+16, Deyverson, BRA, F, 1.89, 82, 08-05-91, Santa Margarida, Levante
+17, Erik, BRA, F, 1.70, 64, 18-07-94, Novo Repartimento, Goiás
+18, Alejandro Guerra, VEN, M, 1.70, 63, 09-07-85, Caracas, Atlético Nacional
+19, Bruno Henrique, BRA, M, 1.80, 75, 21-10-89, Apucarana, Palermo
+20, Raphael Veiga, BRA, M, 1.76, 73, 19-06-95, São Paulo, Coritiba
+21, Thiago Santos, BRA, M, 1.81, 78, 05-09-89, Curitiba, Américo Mineiro
+22, Fabiano, BRA, D, 1.88, 82, 18-11-91, São José do Oeste, Cruzeiro
+23, Róger Guedes, BRA, F, 1.82, 67, 02-10-96, Ibirubá, Criciuma
+25, Antonio Carlos, BRA, D, 1.91, 74, 07-03-93, Rio de Janeiro, Tombense
+26, Yerry Mina, COL, D, 1.93, 75, 23-09-94, Guachené, Santa Fe
+27, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, São José
+28, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Chapecoense
+29, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Cruzeiro
+30, Felipe Melo, BRA, M, 1.83, 73, 26-06-83, Volta Redonda, Internazionale
+38, Alan, BRA, M, 1.65, 62, 08-03-00, São Paulo, São Caetano
+40, Léo Passos, BRA, M, 1.83, 75, 13-03-99, Campinas, None
+42, Vinícius Silvestre, BRA, G, 1.95, 90, 28-03-94, Guarulhos, None
+45, Gabriel Furtado, BRA, M, 1.82, 80, 09-12-99, Taubaté, Paraná
+47, Fernando, BRA, F, 1.76, 66, 01-03-99, Belo Horizonte, None
+51, Daniel Fuzato, BRA, G, 1.90, 85, 04-07-97, Santa Bárbara d'Oeste, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+49, Matheus Iacovelli, BRA, F, 1.80, 79, 13-03-98, Rio de Janeiro, Estoril
+37, Vitinho, BRA, M, 1.76, 68, 24-03-98, São Paulo, Barcelona B (On Loan)
+31, Thiago Martins, BRA, D, 1.85, 76, 17-03-95, São João Evangelista, Bahia (On Loan)

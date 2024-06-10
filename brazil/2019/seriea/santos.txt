@@ -1,0 +1,52 @@
+=  Santos - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vanderlei, BRA, G, 1.95, 86, 01-02-84, Porecatu, Coritiba
+2, Luiz Felipe, BRA, D, 1.87, 79, 09-09-93, Tubarão, Paraná
+3, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Monaco
+4, Victor Ferraz, BRA, D, 1.74, 74, 14-01-88, João Pessoa, Coritiba
+5, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+6, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+7, Carlos Sánchez, URU, M, 1.70, 66, 02-12-84, Montevideo, Monterrey
+8, Christian Cueva, PER, M, 1.69, 63, 23-11-91, Huamachuco, FC Krasnodar
+9, Fernando Uribe, COL, F, 1.81, 77, 01-01-88, Pereira, Flamengo
+10, Yeferson Soteldo, VEN, M, 1.60, 55, 30-06-97, Acarigua, Huachipato
+11, Marinho, BRA, M, 1.76, 62, 29-05-90, Penedo, Grêmio
+12, Sandry, BRA, M, 1.70, 66, 30-08-02, Itabuana, None
+14, Luan Peres, BRA, D, 1.80, 78, 19-07-94, São Paulo, Club Brugge
+17, Derlis González, PAR, M, 1.72, 64, 23-03-94, Mariano Roque Alonso, Dynamo Kyiv
+19, Kaio Jorge, BRA, F, 1.76, 64, 24-01-02, Olinda, None
+20, Jobson, BRA, M, 1.85, 80, 13-09-95, São Paulo, Red Bull Brasil
+21, Diego Pituca, BRA, M, 1.75, 69, 01-08-92, Mogi Guaçu, Botafogo-SP
+22, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Ceará
+25, Evandro Goebel, BRA, M, 1.78, 62, 23-08-86, Blumenau, Hull C
+26, Felipe Aguilar, COL, D, 1.90, 82, 20-01-93, Medellín, Atlético Nacional
+27, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Internacional
+28, Lucas Veríssimo, BRA, D, 1.88, 77, 02-07-95, Jundiaí, Linense
+29, Yuri Alberto, BRA, F, 1.80, 78, 18-03-01, São José dos Campos, None
+31, Pará, BRA, D, 1.73, 71, 14-02-86, São João do Araguaia, Flamengo
+33, John, BRA, G, 1.96, 83, 13-02-96, Diadema, None
+34, João Paulo, BRA, G, 1.87, 86, 29-06-95, Dourados, None
+36, Felipe Jonatan, BRA, D, 1.76, 76, 15-02-98, Fortaleza, Ceará
+37, Lucas Venuto, BRA, M, 1.64, 60, 14-01-95, Governador Valadares, Vancouver Whitecaps
+39, Tailson, BRA, F, 1.72, 65, 05-03-99, São Paulo, None
+40, Cadu, BRA, D, 1.70, 65, 21-02-02, Matão, None
+41, Jean Mota, BRA, M, 1.72, 72, 15-10-93, São Paulo, Fortaleza
+42, Wagner Leonardo, BRA, D, 1.83, 63, 23-07-99, Santos, None
+43, Ivonei, BRA, M, 1.80, 71, 16-04-02, Rondonópolis, None
+44, Alexandre Tam, BRA, F, 1.74, 70, 30-03-99, Guarujá, None
+45, Allanzinho, BRA, F, , , 04-04-00, Bertioga, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Arthur Gomes, BRA, F, 1.73, 68, 03-07-98, Uberlândia, Chapecoense (On Loan)
+25, Yuri, BRA, M, 1.77, 71, 05-08-94, São Paulo, Fluminense (On Loan)
+30, Jean Lucas, BRA, M, 1.81, 78, 22-06-98, Rio de Janeiro, Flamengo
+11, Rodrygo, BRA, F, 1.73, 63, 09-01-01, Osasco, Real Madrid
+16, Jonathan Copete, COL, F, 1.84, 72, 23-01-88, Cali, Pachuca (On Loan)
+20, Felippe Cardoso, BRA, F, 1.87, 83, 04-10-98, São Paulo, Ceará (On Loan)
+14, Matheus Ribeiro, BRA, D, 1.78, 72, 23-02-93, Erechim, De-Registered
+13, Kaique Rocha, BRA, D, 1.95, 90, 28-02-01, Taboão da Serra, Sampdoria
+18, Guilherme Nunes, BRA, M, 1.77, 67, 12-07-98, Novo Hamburgo, Paraná (On Loan)
+15, Orinho, BRA, D, 1.80, 70, 24-05-95, São Paulo, Fluminense

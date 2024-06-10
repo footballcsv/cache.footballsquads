@@ -1,0 +1,44 @@
+=  Port Vale - English Football League One 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Shrewsbury T
+2, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Morecambe
+4, Chris Robertson, SCO, D, 1.91, 74, 11-10-86, Dundee, Preston NE
+5, Carl Dickinson, ENG, D, 1.85, 76, 31-03-87, Swadlincote, Watford
+6, Liam Chilvers, ENG, D, 1.85, 88, 06-11-81, Chelmsford, AFC Telford U
+7, Doug Loft, ENG, M, 1.83, 77, 25-12-86, Maidstone, Brighton & HA
+8, Louis Dodds, ENG, M, 1.78, 80, 08-10-86, Sheffield, Leicester C
+9, Jennison Myrie-Williams, ENG, F, 1.83, 76, 17-05-88, Bristol, Stevenage
+10, Gavin Tomlin, ENG, F, 1.83, 77, 21-08-83, Gillingham, Southend U
+11, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Crewe Alex
+12, Sam Johnson, ENG, G, 1.98, 78, 01-12-92, Newcastle-under-Lyme, Stoke C
+14, Rob Taylor, ENG, D, 1.83, 80, 16-01-85, Shrewsbury, Nuneaton Boro
+15, Chris Shuker, ENG, F, 1.65, 59, 09-05-82, Liverpool, Morecambe
+17, Joe Davis, ENG, D, 1.83, 67, 10-11-93, Burnley, None
+18, Chris Lines, ENG, M, 1.88, 76, 30-11-85, Bristol, Sheffield W
+19, Ben Williamson, ENG, F, 1.80, 76, 25-12-88, Lambeth, Hyde
+21, Anthony Griffith, ENG, M, 1.83, 76, 28-10-86, Huddersfield, Leyton Orient
+22, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, None
+23, Kaid Mohamed, WAL, F, 1.80, 79, 23-07-84, Cardiff, Cheltenham T
+24, Richard Duffy, WAL, D, 1.78, 65, 30-08-85, Swansea, Exeter C
+25, Florent Cuvelier, BEL, M, 1.82, 72, 12-09-92, Brussels, Sheffield U
+26, Chris Birchall, TRI, M, 1.75, 80, 05-05-84, Stafford, Columbus Crew
+27, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+28, Billy Knott, ENG, M, 1.73, 71, 28-11-92, Canvey Island, Sunderland
+32, Tom Morris, ENG, D, 1.74, 67, 27-12-94, Penkridge, None
+33, Doug Price, ENG, D, 1.80, 67, 05-12-94, , None
+34, Ryan Boot, ENG, G, 1.85, 71, 09-11-94, Rocester, None
+35, Dominic Dell, ENG, F, , , , , Wolverhampton W
+36, Ben Jefford, ENG, D, 1.83, 70, 04-09-94, Southampton, Reading
+37, Wilson Carvalho, POR, M, , , 04-07-93, Lisbon, Stevenage
+38, Cheye Alexander, ENG, D, 1.73, 68, 06-01-95, Newham, West Ham U
+39, Jordan Hugill, ENG, F, 1.83, 64, 04-06-92, Middlesbrough, Marske U
+40, Louis Tambini, ENG, F, , , 05-11-94, , Leicester C
+41, Gary O'Neill, IRL, M, 1.80, 70, 27-01-95, Tralee, Wolverhampton W
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Lee Hughes, ENG, F, 1.78, 73, 22-05-76, Birmingham, Forest Green R
+20, Jack Grimmer, SCO, M, 1.84, 84, 25-01-94, Aberdeen, Fulham
+3, Daniel Jones, ENG, M, 1.88, 84, 14-07-86, Wordsley, 

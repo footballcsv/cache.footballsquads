@@ -1,0 +1,21 @@
+# German Bundesliga 2007/08
+
+18 teams
+- [Arminia Bielefeld](abielefeld.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [VfL Bochum](bochum.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [MSV Duisburg](duisburg.txt)
+- [Eintracht Frankfurt](einfrank.txt)
+- [Energie Cottbus](cottbus.txt)
+- [Hamburger SV](hamburg.txt)
+- [Hannover 96](hannover.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hberlin.txt)
+- [Karlsruher SC](karlsruhe.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

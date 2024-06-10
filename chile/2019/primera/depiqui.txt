@@ -1,0 +1,42 @@
+=  Deportes Iquique - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rodrigo Naranjo, CHI, G, 1.92, 89, 30-08-79, Santiago, Coquimbo Unido
+3, Matías Blázquez, CHI, D, 1.87, 84, 08-05-91, Viña del Mar, Everton (Viña del Mar)
+5, Abel Hidalgo, CHI, D, 1.75, 70, 13-04-98, Iquique, None
+6, Arturo Guerrero, CHI, M, , , 09-03-01, , None
+7, Manuel Iturra, CHI, M, 1.74, 71, 23-06-84, Temuco, Maccabi Haifa
+8, Mauricio Zenteno, CHI, D, 1.73, 76, 21-04-84, Linares, Deportes La Serena
+9, Matías Donoso, CHI, F, 1.85, 88, 08-07-86, Temuco, Deportes Temuco
+10, Facundo Guichón, URU, M, 1.82, 72, 08-02-91, Montevideo, Rampla Juniors
+11, Hans Salinas, CHI, M, 1.71, 74, 23-04-90, El Salvador [CHI], Deportes La Serena
+12, Julio Bórquez, CHI, G, 1.78, 79, 20-04-00, Iquique, None
+13, Wilson Piñones, CHI, M, 1.71, 70, 07-04-88, Copiapó, Unión La Calera
+14, Manuel Bravo, CHI, D, 1.73, 72, 15-02-93, Molina, San Luis de Quillota
+15, Andrés Imperiale, ARG, D, 1.82, 78, 08-07-86, Rosario, Guaraní [PAR]
+16, Héctor Berríos, CHI, D, 1.74, 67, 18-10-86, Santiago, Universidad de Concepción
+17, Alan Moreno, CHI, D, 1.75, 65, 30-10-95, Iquique, None
+18, Misael Cubillos, CHI, F, 1.75, 67, 06-02-96, Iquique, None
+19, Óscar Salinas, CHI, F, 1.70, 72, 26-06-88, Curacaví, Everton (Viña del Mar)
+20, Jacobo Kouffaty, VEN, M, 1.69, 71, 30-06-93, Maturín, Deportivo Lara
+21, Diego Fernández, CHI, M, 1.75, 70, 08-03-98, Loncoche, None
+22, Maximiliano Mori, CHI, G, 1.85, 70, 11-11-97, Iquique, None
+23, Pablo Corral, CHI, M, 1.71, 66, 16-01-92, Ovalle, Deportes Antofagasta
+24, César Huanca, CHI, F, 1.84, 80, 04-06-01, Alto Hospicio, None
+25, Sebastián Pérez, CHI, G, 1.80, 76, 02-12-90, Viña del Mar, Palestino
+26, Camilo Gaínza, CHI, M, 1.70, 70, 09-05-93, Santiago, Universidad Católica
+27, Michael Fuentes, CHI, F, 1.70, 71, 27-05-98, Iquique, None
+28, Kevin Mellado, CHI, F, 1.79, 77, 17-07-98, Viña del Mar, None
+29, Johan Castillo, CHI, F, 1.65, 56, 17-03-99, Iquique, None
+30, Juan Pablo Miño, ARG, M, 1.81, 82, 23-08-87, Rosario, Audax Italiano
+31, Mariano Barbieri, ARG, F, 1.79, 76, 29-11-90, Chivilcoy, Belgrano (Córdoba)
+33, Luis Alberto Silba, ARG, F, 1.87, 82, 05-02-90, Córdoba, Sarmiento (Junín)
+34, Juan Maldonado, CHI, F, , , 17-06-00, Antofagasta, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+2, Braulio Leal, CHI, M, 1.70, 70, 22-11-81, Santiago, Deportes Magallanes
+7, Edwuin Pernía, VEN, F, 1.78, 77, 12-02-95, San Juan de Los Morros, Caracas
+32, Alexis Aburto, ARG, M, 1.87, 78, 25-01-99, Comodoro Rivadavia, CAI (Comodoro Rivadavia)
+10, Rodrigo Castro, ARG, M, 1.69, 68, 11-06-93, San Francisco [ARG], Barnechea (On Loan)

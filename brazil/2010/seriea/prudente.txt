@@ -1,0 +1,54 @@
+=  Grêmio Prudente - Campeonato Brasileiro Série A 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Everton, BRA, G, 1.95, 97, 05-04-89, Guarulhos, None
+, Giovanni, BRA, G, 1.91, 83, 05-02-87, Bauru, Marília
+, Márcio, BRA, G, 1.91, 82, 20-12-81, São Paulo, Ituano
+, Sidney, BRA, G, 1.89, 88, 24-12-82, São Paulo, Luverdense
+, Anderson Bill, BRA, D, 1.89, 80, 04-05-81, Criciúma, Caxias
+, Ânderson Luis, BRA, D, 1.80, 70, 10-03-87, Barra Mansa, Desportivo Brasil
+, Arthur Henrique, BRA, D, 1.78, 74, 14-01-87, São Paulo, Santo André
+, Bruno Ribeiro, BRA, D, 1.71, 67, 01-04-83, São Paulo, Marília
+, Cristiano, BRA, D, 1.88, 76, 24-01-88, São Bernardo do Campo, Monte Azul
+, Diego, BRA, D, 1.84, 80, 27-11-83, Cascavel, Figueirense
+, Diogo, BRA, D, 1.73, 64, 18-12-84, Estância, Corinthians
+, Douglas Silva, BRA, D, 1.79, 72, 15-11-90, Barretos, None
+, Flávio Boaventura, BRA, D, 1.83, 83, 12-07-87, Feira de Santana, Marília
+, Leonardo, BRA, D, 1.88, 72, 09-03-86, Guarulhos, Shakhtar Donetsk
+, Adriano Pimenta, BRA, M, 1.70, 64, 14-11-82, Goiânia, Sport Recife
+, Anderson Pedra, BRA, M, 1.77, 79, 13-06-83, Votuporanga, Santa Cruz
+, Carlos Eduardo, BRA, M, 1.83, 72, 17-10-89, Sorocaba, Desportivo Brasil
+, Deyvid Sacconi, BRA, M, 1.74, 67, 10-04-87, Alfenas, Palmeiras
+, Eduardo Ramos, BRA, M, 1.87, 82, 25-03-86, Caçu, Corinthians
+, Fabiano Gadelha, BRA, M, 1.78, 74, 09-01-79, Bayeux, Ponte Preta
+, João Vitor, BRA, M, 1.76, 66, 01-06-88, Maceió, Marília
+, Marcelo Oliveira, BRA, M, 1.84, 76, 29-03-87, Salvador, Corinthians
+, Roberto, BRA, M, 1.76, 77, 24-04-88, Tucano, Avaí
+, Rodrigo Mancha, BRA, M, 1.86, 80, 16-06-86, Curitiba, Santos
+, Sasha, BRA, M, 1.77, 72, 01-03-90, São Paulo, Corinthians
+, Araújo, BRA, F, 1.72, 73, 02-03-84, São Paulo, Taboão da Serra
+, Gilmar, BRA, F, 1.76, 64, 09-03-84, Ubatã, Guingamp
+, Hugo, BRA, F, 1.83, 77, 06-01-86, São Fidélis, Coritiba
+, Rafael Martins, BRA, F, 1.75, 78, 17-03-89, Santos, Pão de Açúcar
+, Wanderley, BRA, F, 1.82, 81, 11-10-88, Campinas, Cruzeiro
+, Wesley, BRA, F, 1.75, 68, 10-11-81, Barretos, Mirassol
+, Willian José, BRA, F, 1.86, 81, 23-11-91, Porto Calvo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Tadeu, BRA, F, 1.87, 85, 01-04-86, Araraquara, Palmeiras
+, Daniel Marques, BRA, D, 1.90, 89, 11-07-83, Jaú, Atlético Paranaense
+, Dênis, BRA, D, 1.85, 81, 28-12-85, Maranhão, Neftchi Baku
+, Éder Santana, BRA, D, 1.80, 80, 25-09-85, São Paulo, Guaratinguetá
+, Edvan, BRA, D, 1.79, 68, 27-09-90, São Paulo, Cascavel (On Loan)
+, Renan, BRA, M, 1.67, 58, 07-04-90, Itarantim, Cascavel (On Loan)
+, Jefferson, BRA, D, 1.76, 72, 05-07-88, Bahia, Desportivo Brasil
+, Flavinho, BRA, M, 1.78, 68, 27-07-83, Jardim, Neftchi Baku
+, Geovane, BRA, M, 1.71, 70, 05-08-85, Vitória de Santo Antão, Guarani
+, Paulão, BRA, D, 1.87, 82, 25-02-86, Bahia, Grêmio (On Loan)
+, Everton, BRA, D, 1.82, 77, 15-06-84, Rio de Janeiro, 
+, Henrique Dias, BRA, F, 1.71, 67, 23-05-84, São Paulo, São Caetano (On Loan)
+, Paulo César, BRA, D, 1.76, 77, 26-08-78, Osasco, 
+, George, BRA, D, 1.74, 77, 07-01-86, Ilheus, 
+, Robson, BRA, M, 1.82, 77, 19-08-82, Salvador, Camaçari

@@ -1,0 +1,37 @@
+=  Real Sociedad - Spanish LaLiga 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Gerónimo Rulli, ARG, G, 1.89, 80, 20-05-92, La Plata, Manchester C
+2, Carlos Martínez, ESP, D, 1.88, 78, 09-04-86, Estella, Real Sociedad B
+3, Mikel González, ESP, D, 1.88, 78, 24-09-85, Mondragón, Real Sociedad B
+4, Asier Illarramendi, ESP, M, 1.77, 74, 08-03-90, Mutriku, Real Madrid
+5, Markel Bergara, ESP, M, 1.80, 74, 05-05-86, Elgoibar, Real Sociedad B
+6, Íñigo Martínez, ESP, D, 1.76, 62, 17-05-91, Ondarroa, Real Sociedad B
+7, Juanmi, ESP, F, 1.69, 63, 20-05-93, Coín, Southampton
+8, Esteban Granero, ESP, M, 1.79, 77, 02-07-87, Madrid, QPR
+9, Imanol Agirretxe, ESP, F, 1.85, 74, 24-02-87, Usurbil, Real Sociedad B
+10, Xabi Prieto, ESP, M, 1.85, 77, 29-08-83, San Sebastián, Real Sociedad B
+11, Carlos Vela, MEX, F, 1.76, 72, 01-03-89, Cancún, Arsenal
+12, Willian José, BRA, F, 1.86, 81, 23-11-91, Porto Calvo, Deportivo Maldonado
+13, Ander Bardaji, ESP, G, 1.92, 78, 03-05-95, Lasarte, Real Sociedad B
+15, Aritz Elustondo, ESP, D, 1.78, 72, 11-01-94, Beasain, Real Sociedad B
+16, Sergio Canales, ESP, M, 1.76, 65, 16-02-91, Santander, Valencia
+17, David Zurutuza, ESP, M, 1.84, 70, 19-07-86, Rochefort, Real Sociedad B
+18, Mikel Oyarzabal, ESP, M, 1.80, 75, 21-04-97, Eibar, Real Sociedad B
+19, Yuri Berchiche, ESP, D, 1.80, 78, 10-02-90, Zarautz, Real Sociedad B
+20, Joseba Zaldúa, ESP, D, 1.76, 71, 24-06-92, San Sebastián, Real Sociedad B
+22, Raúl Navas, ESP, D, 1.85, 83, 11-05-88, Seville, Eibar
+23, Jon Gaztañaga, ESP, M, 1.82, 78, 28-06-91, Andoain, Real Sociedad B
+24, David Concha, ESP, F, 1.72, 61, 20-11-96, Santander, Racing Santander B
+25, Toño Ramírez, ESP, G, 1.89, 83, 23-11-86, Logroño, AEK Larnaca
+26, Jon Bautista, ESP, F, 1.78, 72, 03-07-95, Mahones, Real Sociedad B
+27, Igor Zubeldia, ESP, M, 1.85, 75, 30-03-97, San Sebastián, Real Sociedad B
+29, Álvaro Odriozola, ESP, D, 1.78, 74, 14-12-95, San Sebastián, Real Sociedad B
+32, Kévin Rodrigues, POR, M, 1.69, 63, 05-03-94, Bayonne, Dijon
+33, Jon Guridi, ESP, M, 1.79, 64, 28-02-95, Azpeitia, Real Sociedad B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Rubén Pardo, ESP, M, 1.75, 70, 22-10-92, Logroño, Betis (On Loan)
+21, Héctor Hernández, ESP, D, 1.71, 65, 23-05-91, Valladolid, Granada (On Loan)

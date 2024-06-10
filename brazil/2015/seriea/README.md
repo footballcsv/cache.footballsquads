@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2015
+
+20 teams
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Avaí](avai.txt)
+- [Chapecoense](chapeco.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Figueirense](figueir.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Joinville](joinville.txt)
+- [Palmeiras](palmeir.txt)
+- [Ponte Preta](pontepre.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vasco da Gama](vasco.txt)

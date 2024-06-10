@@ -1,0 +1,23 @@
+# French Ligue 1 2010/11
+
+20 teams
+- [Arles-Avignon](arles.txt)
+- [Auxerre](auxerre.txt)
+- [Bordeaux](bordeaux.txt)
+- [Brest](brest.txt)
+- [Caen](caen.txt)
+- [Lens](lens.txt)
+- [Lille](lille.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nancy](nancy.txt)
+- [Nice](nice.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Saint-Etienne](stetienne.txt)
+- [Sochaux](sochaux.txt)
+- [Toulouse](toulouse.txt)
+- [Valenciennes](valenc.txt)

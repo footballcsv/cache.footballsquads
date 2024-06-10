@@ -1,0 +1,46 @@
+=  Cruzeiro - Campeonato Brasileiro Série A 2014
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fábio, BRA, G, 1.90, 93, 30-09-80, Nobres, Vasco da Gama
+2, Ceará, BRA, D, 1.75, 75, 16-06-80, Crato, Paris St-Germain
+3, Léo, BRA, D, 1.84, 81, 30-01-88, Belo Horizonte, Palmeiras
+4, Bruno Rodrigo, BRA, D, 1.84, 73, 12-04-85, São Paulo, Monte Azul
+6, Egídio, BRA, D, 1.75, 69, 16-06-86, Rio de Janerio, Flamengo
+7, Tinga, BRA, M, 1.70, 65, 13-01-78, Porto Alegre, Internacional
+8, Henrique, BRA, M, 1.79, 72, 16-05-85, Londrina, Santos
+9, Borges, BRA, F, 1.76, 75, 05-10-80, Salvador, Santos
+10, Júlio Baptista, BRA, M, 1.83, 72, 01-10-81, São Paulo, Málaga
+11, Dagoberto, BRA, F, 1.75, 75, 22-03-83, Dois Vizinhos, Internacional
+12, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, None
+13, Hugo Ragelli, BRA, F, 1.86, 80, 02-05-95, Montes Claros, Palmeiras
+14, Judivan, BRA, F, 1.77, 81, 21-05-95, Sousa, None
+15, Willian Farias, BRA, M, 1.76, 75, 06-06-89, Curitiba, Coritiba
+16, Lucas Silva, BRA, M, 1.75, 70, 16-02-93, Bom Jesus de Goiás, None
+17, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Coritiba
+18, Marcelo Martins Moreno, BOL, F, 1.87, 82, 18-06-87, Santa Cruz de la Sierra, Grêmio
+19, Nílton, BRA, M, 1.84, 74, 21-04-87, Barra do Garças, Vasco da Gama
+20, Breno Lopes, BRA, D, 1.81, 70, 28-09-90, Itacarambi, Paraná
+21, Miguel Samudio, PAR, D, 1.75, 76, 24-08-86, Capiatá, Libertad
+22, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, None
+23, Marlone, BRA, M, 1.80, 78, 02-04-92, Augustinópolis, Vasco da Gama
+24, Alan, BRA, G, 2.01, 99, 22-06-94, Medianeira, Londrina
+25, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Metalist Kharkiv
+26, Dedé, BRA, D, 1.93, 87, 01-07-88, Volta Redonda, Vasco da Gama
+28, Ricardo Goulart, BRA, M, 1.78, 72, 05-05-91, São Paulo, Coimbra
+29, Alisson, BRA, M, 1.74, 73, 25-06-93, Rio Pomba, None
+30, Alex, BRA, D, 1.86, 80, 21-01-93, Salvador, None
+31, Eurico, BRA, M, 1.82, 70, 16-04-94, Santa Luzia, None
+32, Elisson, BRA, G, 1.87, 85, 26-03-87, Belo Horizonte, Nacional [POR]
+33, Manoel, BRA, D, 1.79, 82, 26-02-90, Bacabal, Atlético Paranaense
+34, Marquinhos, BRA, F, 1.75, 68, 19-10-89, Prado, Vitória
+35, Neilton, BRA, F, 1.66, 57, 17-02-94, Nanuque, Santos
+36, Bruno Ramires, BRA, M, 1.89, 77, 18-03-94, Salvador, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+27, Élber, BRA, M, 1.70, 63, 27-05-92, Passo de Camaragibe, Coritiba (On Loan)
+5, Souza, BRA, M, 1.75, 71, 08-03-88, Brasília, Santos (On Loan)
+14, Luan, BRA, M, 1.84, 75, 21-09-88, Araras, Palmeiras
+20, Alejandro Martinuccio, ARG, F, 1.73, 72, 16-12-87, Capital Federal, Fluminense
+13, Wallace, BRA, D, 1.91, 78, 14-10-94, Rio de Janeiro, Sporting Braga

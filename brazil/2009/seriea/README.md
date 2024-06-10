@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2009
+
+20 teams
+- [Atlético Mineiro](atmin.txt)
+- [Atlético Paranaense](atpara.txt)
+- [Avaí](avai.txt)
+- [Barueri](barueri.txt)
+- [Botafogo](botafogo.txt)
+- [Corinthians](corinth.txt)
+- [Coritiba](coritiba.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Náutico](nautico.txt)
+- [Palmeiras](palmeir.txt)
+- [Santo André](santoand.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Sport Recife](sportrec.txt)
+- [Vitória](vitoriaba.txt)

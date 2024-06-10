@@ -1,0 +1,56 @@
+=  Honvéd - Hungarian Nemzeti Bajnokság I 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Dávid Bobál, HUN, D, 1.88, 85, 31-08-95, Pásztó, Magyar Akadémia
+3, Souleymane Tandia, SEN, D, 1.90, 82, 30-11-86, Dakar, Villefranche Beaujolais
+4, Aleksandar Ignjatović, SRB, D, 1.85, 79, 11-04-88, Niš, Borac Čačak
+5, Endre Botka, HUN, D, 1.86, 79, 25-04-94, Budapest, Magyar Akadémia
+6, János Kovács, HUN, D, 1.93, 94, 11-09-85, Budapest, Luton T
+7, Richárd Vernes, HUN, M, 1.80, 70, 24-02-92, Budapest, MAC
+8, George Ikenne, NGA, M, 1.83, 77, 29-10-92, Calabar, Flying Sports Academy
+9, Gergely Bobál, HUN, F, 1.88, 85, 31-08-95, Pásztó, Magyar Akadémia
+11, Ayub Daud, SOM, F, 1.72, 62, 24-02-90, Mogadishu, Chiasso
+13, Raffaele Alcibiade, ITA, D, 1.86, 81, 23-05-90, Turin, Juventus
+14, Emmanuel Mensah, GHA, M, 1.82, 75, 30-06-94, Accra, USTA
+16, Mihály Csábi, HUN, M, 1.79, 80, 25-05-95, Budapest, Magyar Akadémia
+17, Anibal Godoy, PAN, M, 1.80, 72, 10-02-90, Ciudad de Panamá, Chepo
+18, Attila Lőrinczi, HUN, M, 1.86, 78, 08-04-94, Budapest, Magyar Akadémia
+19, Filip Holender, SRB, F, 1.80, 74, 27-07-94, Kragujevac, Magyar Akadémia
+20, Dániel Prosser, HUN, M, 1.75, 71, 15-06-94, Budapest, Magyar Akadémia
+21, Andrea Mancini, ITA, M, 1.79, 73, 13-09-92, Genoa, Valladolid B
+22, Valér Kapacina, HUN, M, 1.83, 71, 14-07-93, Nyíregyháza, Nyírsuli
+24, Drissa Diarra, MLI, M, 1.83, 66, 07-07-85, Bamako, Bellinzona
+25, Ivan Lovrić, CRO, D, 1.90, 80, 11-07-85, Split, Singapore Armed Forces
+26, Patrik Hidi, HUN, M, 1.86, 78, 27-11-90, Győr, None
+27, Abdul Kader Keïta, CIV, F, 1.84, 78, 06-08-81, Abidjan, Al-Sadd
+28, Emiliano Bonazzoli, ITA, F, 1.92, 84, 20-01-79, Asola, Padova
+29, Richárd Kozma, HUN, M, 1.85, 81, 01-10-94, Nyíregyháza, Magyar Akadémia
+30, Bálint Vécsei, HUN, F, 1.92, 84, 13-07-93, Kazincbarcika, Magyar Akadémia
+31, Márton Czuczi, HUN, G, 1.91, 84, 20-05-92, Budapest, Videoton
+32, Gyula Csemer, HUN, D, 1.87, 83, 17-01-94, Budapest, Magyar Akadémia
+33, Boris Živanović, SRB, D, 1.85, 80, 18-07-89, Belgrade, Mačva Šabac
+34, Norbert Szemerédi, HUN, G, 1.87, 83, 08-12-93, Paks, Paks
+35, Edixon Perea, COL, F, 1.78, 73, 20-04-84, Cali, Changchun Yatai
+36, Botond Baráth, HUN, D, 1.87, 68, 21-04-92, Budapest, Újpest
+37, Arturo Lupoli, ITA, F, 1.75, 66, 24-06-87, Brescia, Varese
+38, Márk Koszta, HUN, F, 1.85, 82, 26-09-96, Kazincbarcika, Magyar Akadémia
+40, Dániel Vereckei, HUN, G, 1.84, 81, 17-05-92, Budapest, Magyar Akadémia
+41, Thomas Hervé Job Iyock, CMR, F, 1.75, 70, 20-08-84, Douala, Cittadella
+46, Kristóf Polyák, HUN, D, 1.82, 77, 28-09-95, Kecskemét, Magyar Akadémia
+51, Anatolis-Alexis Sundas, ROU, D, 1.83, 79, 22-01-94, Oradea, None
+71, Szabolcs Kemenes, HUN, G, 1.90, 80, 18-05-86, Budapest, MTK
+77, Gergő Nagy, HUN, M, 1.83, 78, 07-01-93, Gyula, Békéscsaba
+87, Gergely Délczeg, HUN, F, 1.92, 78, 09-08-87, Budapest, Siófok
+91, Nicola Canzian, ITA, D, 1.82, 67, 29-06-91, Conegliano, Real SPAL
+92, Azmahar Ariano, PAN, D, 1.78, 72, 11-01-91, Colón, Chepo
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Sergiu Moga, ROU, M, 1.85, 75, 07-01-92, Bihor, Viitorul Constanța
+23, Emanuele Testardi, ITA, F, 1.89, 84, 31-12-90, Rome, Sampdoria
+9, Edixon Perea, COL, F, 1.78, 73, 20-04-84, Cali, Re-Registered (35)
+28, Gergely Bobál, HUN, F, 1.88, 85, 31-08-95, Pásztó, Re-Registered (9)
+22, Souleymane Diaby, CIV, F, 1.90, 84, 10-09-87, Daloa, Honvéd II
+27, Celestine Lazarus, NGA, D, 1.88, 80, 13-11-92, Umuchu, Honvéd II
+9, Gergely Délczeg, HUN, F, 1.92, 78, 09-08-87, Budapest, Re-Registered (87)

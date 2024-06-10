@@ -1,0 +1,49 @@
+=  Crystal Palace - English Football League Championship 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Julián Speroni, ARG, G, 1.86, 87, 18-05-79, Buenos Aires, Dundee
+2, Nathaniel Clyne, ENG, D, 1.75, 67, 05-04-91, Stockwell, None
+3, David Wright, ENG, D, 1.80, 68, 01-05-80, Warrington, Ipswich T
+4, Claude Davis, JAM, D, 1.91, 80, 06-03-79, Kingston, Derby Co
+5, Patrick McCarthy, IRL, D, 1.85, 80, 31-05-83, Dublin, Charlton Ath
+6, Adam Barrett, ENG, D, 1.78, 76, 29-11-79, Dagenham, Southend U
+7, Darren Ambrose, ENG, M, 1.83, 78, 29-02-84, Harlow, Charlton Ath
+8, Neil Danns, ENG, M, 1.75, 78, 23-11-82, Liverpool, Birmingham C
+9, Steffen Iversen, NOR, F, 1.85, 79, 10-11-76, Oslo, Rosenborg
+10, Owen Garvan, IRL, M, 1.83, 67, 29-01-88, Dublin, Ipswich T
+11, Andy Dorman, WAL, M, 1.83, 68, 01-05-82, Chester, St Mirren
+12, Calvin Andrew, ENG, F, 1.83, 81, 19-12-86, Luton, Luton T
+13, Lewis Price, WAL, G, 1.91, 85, 19-07-84, Bournemouth, Derby Co
+14, Sean Scannell, IRL, F, 1.75, 73, 19-09-90, Croydon, None
+15, Kieron Cadogan, ENG, M, 1.78, 75, 16-08-90, Wandsworth, None
+16, Wilfried Zaha, ENG, F, 1.80, 66, 10-11-92, Abidjan, None
+17, Jack Holland, ENG, D, 1.91, 77, 01-03-92, Bromley, None
+18, Lee Hills, ENG, D, 1.79, 75, 13-04-90, Croydon, Arsenal
+19, Jermaine Easter, WAL, F, 1.75, 77, 15-01-82, Cardiff, MK Dons
+20, James Vaughan, ENG, F, 1.80, 80, 14-07-88, Birmingham, Everton
+21, Kieran Djilali, ENG, M, 1.91, 84, 22-01-91, Lambeth, None
+22, Jerry Nnamani, ENG, D, 1.88, 88, 12-10-91, Deptford, None
+23, Nathaniel Pinney, ENG, M, 1.83, 78, 16-11-90, South Norwood, None
+24, Charlie Holness, ENG, D, 1.80, 83, 09-02-92, Lewisham, None
+25, Alassane N'Diaye, FRA, M, 1.93, 90, 25-02-90, Audincourt, Toulouse
+26, Matthew Parsons, ENG, D, 1.78, 74, 25-12-91, Catford, None
+27, Ibra Sekajja, ENG, F, 1.80, 70, 31-10-92, Mulago, None
+28, Stuart O'Keefe, ENG, M, 1.73, 64, 04-03-91, Norwich, Southend U
+29, Dean Moxey, ENG, D, 1.80, 70, 14-01-86, Exeter, Derby Co
+30, Alex Marrow, ENG, M, 1.85, 83, 21-01-90, Salford, Blackburn R
+31, Anthony Gardner, ENG, D, 1.96, 86, 19-09-80, Stone, Hull C
+32, Pablo Couñago, ESP, F, 1.83, 75, 09-08-79, Pontevedra, Ipswich T
+33, Kemy Agustien, NED, M, 1.78, 72, 02-08-86, Tilburg, Swansea C
+34, Kagisho Dikgacoi, RSA, M, 1.80, 80, 24-11-84, Brandfort, Fulham
+35, Charlie Mann, ENG, G, 1.88, 73, 17-09-92, Harlow, Arsenal
+36, Alex Wynter, ENG, D, 1.83, 84, 15-09-93, Beckenham, None
+37, Gavin Mahon, ENG, M, 1.85, 84, 02-01-77, Birmingham, QPR
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Alan Lee, IRL, F, 1.88, 87, 21-08-78, Galway, Huddersfield T
+20, Edgar Davids, NED, M, 1.69, 68, 13-03-73, Paramaribo, 
+9, James Vaughan, ENG, F, 1.80, 80, 14-07-88, Birmingham, Everton
+19, Julian Bennett, ENG, D, 1.85, 83, 17-12-84, Nottingham, Nottingham F
+29, Jonathan Obika, ENG, F, 1.85, 78, 12-09-90, Enfield, Tottenham H

@@ -1,0 +1,47 @@
+=  Desportivo das Aves - Portuguese Primeira Liga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Rodrigo Soares, BRA, D, 1.76, 73, 26-12-92, Porangatu, FC Porto
+5, Rodrigo Defendi, BRA, D, 1.93, 83, 16-06-86, Ribeirão Preto, Maribor
+6, Vitor Costa, BRA, D, 1.82, 75, 01-07-94, Valente, Inter de Lages
+7, Rúben Oliveira, POR, M, 1.70, 66, 14-12-94, Oliveira de Azeméis, Vitória Guimarães
+8, Braga, POR, M, 1.79, 71, 17-06-83, Porto, Chaves
+11, Luis Fariña, ARG, M, 1.77, 71, 20-04-91, Capital Federal, Benfica
+12, Fábio, BRA, G, 1.96, 85, 11-05-90, Osasco, Taubaté
+13, Bura, GNB, M, 1.78, 63, 22-12-95, Bissau, Oriental
+15, Abdoulaye Diallo, SEN, F, 1.84, 77, 15-01-96, Dakar, 1º Dezembro
+18, Tong Le, CHN, M, 1.74, 68, 29-04-93, Nanjing, Beijing Guoan
+21, Caique, BRA, F, 1.85, 75, 12-07-93, Varginha, Guarani
+22, Mato Miloš, CRO, D, 1.75, 70, 30-06-93, Pula, Benfica
+24, Quentin Beunardeau, FRA, G, 1.85, 72, 27-02-94, Le Mans, Metz
+25, Erik, BRA, M, 1.71, 57, 02-02-95, Rio de Janeiro, Guarani
+26, Carlos Ponck, CPV, D, 1.83, 84, 13-01-95, Mindelo, Benfica
+28, Bruno Lourenço, POR, M, 1.79, 74, 02-02-98, Lisbon, Benfica
+29, Cláudio Falcão, BRA, M, 1.70, 62, 03-07-94, Aquidauana, Independente de Limeira
+30, Vítor Gomes, POR, M, 1.81, 79, 25-12-87, Vila do Conde, Belenenses
+33, Derley, BRA, F, 1.83, 81, 29-12-87, São Luís, Benfica
+41, André Ferreira, POR, G, 1.93, 79, 29-05-96, Vila Nova de Gaia, Benfica
+42, Ablaye Faye, SEN, M, 1.84, 75, 10-04-94, Dakar, Granville
+44, Diego Galo, BRA, D, 1.85, 79, 14-01-84, Diadema, Moreirense
+45, José Varela, CPV, F, 1.68, 69, 15-09-97, , Loures
+46, Jorge Fellipe, BRA, D, 1.95, 83, 27-10-88, São Gonçalo, CSA
+50, Mama Baldé, GNB, D, 1.81, 75, 06-11-95, Bissau, Sporting CP
+77, Bruno Gomes, BRA, F, 1.80, 73, 19-07-96, São Paulo, Estoril
+82, Luquinhas, BRA, F, 1.67, 57, 28-09-96, Ceilândia, Benfica
+88, Rodrigues, POR, F, 1.74, 60, 28-06-95, Paredes, None
+91, Miguel Tavares, POR, F, 1.70, 57, 29-08-98, Lisbon, Mirandela
+92, Raphael Aflalo, BRA, G, 1.90, 85, 08-07-96, São Paulo, Mirandela
+94, Marcelo, BRA, M, 1.81, 75, 29-05-94, Santo Amaro, Maccabi Tel Aviv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Sami, GNB, F, 1.84, 78, 18-12-88, Bissau, Cova da Piedade
+1, Marco Pinto, POR, G, 1.81, 76, 22-03-88, Lisbon, Mirandela
+9, Michel Douglas, BRA, F, 1.84, 81, 16-01-92, Santa Luzia, Vila Nova (On Loan)
+37, Issam El Adoua, MAR, D, 1.89, 74, 09-12-86, Casablanca, Kuwait SC
+16, Nildo Petrolina, BRA, F, 1.75, 62, 01-05-86, Petrolina, Al-Taawon
+10, Hamdou Elhouni, LBY, F, 1.75, 67, 12-03-94, Tripoli, Espérance
+17, Pedrinho, POR, D, 1.77, 73, 06-03-85, Vila do Conde, Leixões
+21, Nélson, POR, D, 1.79, 73, 22-03-84, Viana do Castelo, Académico Viseu
+23, Amilton, BRA, F, 1.72, 66, 12-08-89, Pernambuco, Antalyaspor (On Loan)

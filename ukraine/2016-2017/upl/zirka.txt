@@ -1,0 +1,51 @@
+=  Zirka Kropyvnytskyi - Ukrainian Premier League 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Federico Pereyra, ARG, D, 1.85, 76, 04-01-89, Río Cuarto, The Strongest
+5, Nailson, BRA, D, 1.90, 84, 24-02-94, Arapongas, União de Leiria
+7, Maksym Drachenko, UKR, M, 1.80, 77, 28-01-90, Cherkasy, Olimpik Donetsk
+8, Vladyslav Lupashko, UKR, M, 1.78, 71, 04-12-86, Bilhorod-Dnistrovskyi, Illichivets Mariupol
+9, Artem Shchedryy, UKR, M, 1.82, 79, 09-11-92, Beryslav, Volyn Lutsk
+10, Aderinsola Eseola, UKR, F, 1.88, 80, 28-06-91, Zhytomyr, Arsenal Kyiv
+11, Andriy Batsula, UKR, D, 1.84, 78, 06-02-92, Kremenchuk, Vorskla Poltava
+13, Oleksandr Zozulya, UKR, D, 1.84, 67, 11-04-96, Kirovohrad, Inhulets Petrove
+14, Artem Sitalo, UKR, F, 1.87, 82, 08-01-89, Kherson, Hirnyk Kryvyi Rih
+15, Oleksiy Zbun, UKR, F, 1.79, 66, 09-06-97, Sobolivka, Zirka-2
+17, Bruninho, BRA, M, 1.80, 73, 12-08-97, , Sobradinho
+18, Oleksandr Kucherenko, UKR, D, 1.84, 80, 01-10-91, Sloviansk, Veris Chișinău
+20, Dmytro Fatyeyev, UKR, D, 1.83, 74, 21-06-94, Kirovohrad, Shakhtar Donetsk-3
+21, Ihor Zahalskyi, UKR, M, 1.72, 67, 19-05-91, Kirovohrad, Dnipro Dnipropetrovsk
+22, Yevhen Veklyak, UKR, M, 1.83, 71, 08-05-98, , Zirka-2
+23, Oleksandr Matkobozhyk, UKR, D, 1.84, 74, 03-01-98, Kovel, Zirka-2
+26, Dmytro Bilonoh, UKR, M, 1.85, 79, 26-05-95, Cherkasy, FC Ural
+27, Kyrylo Dryshlyuk, UKR, M, 1.82, 65, 16-09-99, Boryspil, Dynamo Kyiv-2
+28, Pavlo Polehenko, UKR, D, 1.79, 69, 06-01-95, Chernihiv, Dynamo Kyiv-2
+29, Maksym Pryadun, UKR, F, 1.76, 74, 17-02-97, Kirovohrad, Vorskla Poltava
+31, Ihor Chenakal, UKR, M, 1.79, 68, 25-04-97, , Zirka-2
+32, Borja Ekiza, ESP, D, 1.80, 73, 06-03-88, Iruñea, Eibar
+41, Roman Lyopka, UKR, G, 1.91, 78, 26-01-97, Pervomaisk, Zirka-2
+44, Yevhen Past, UKR, G, 1.87, 72, 16-03-88, Odessa, Chornomorets Odessa
+50, Oleksandr Akymenko, UKR, F, 1.77, 73, 05-09-85, Alchevsk, Metalurh Donetsk
+55, Maksym Kovalyov, UKR, M, 1.84, 80, 20-03-89, Alchevsk, Stal Alchevsk
+77, Oleksiy Chychykov, UKR, F, 1.80, 70, 30-09-87, Poltava, Vorskla Poltava
+81, Denys Sidelnyk, UKR, M, 1.87, 83, 05-06-95, Kirovohrad, Zirka-2
+85, Serhiy Kernozhytskyi, UKR, M, 1.69, 63, 23-06-97, Lukasheve, Zirka-2
+95, Roman Popov, UKR, D, 1.81, 72, 29-06-95, Mykolaiv, Metalurh Zaporizhya
+99, Mykyta Zhukov, UKR, M, 1.80, 74, 19-03-95, Dniprodzerzhynsk, Inhulets Petrove
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Oleh Dopilka, UKR, D, 1.81, 69, 12-03-86, Kyiv, 
+28, Yevhen Chumak, UKR, M, 1.81, 73, 25-08-95, Hlukhivtsi, Dynamo Kyiv
+7, Vitaliy Havrysh, UKR, M, 1.82, 75, 18-03-86, Chernihiv, Kolos Kovalivka
+30, Hennadiy Hanyev, UKR, G, 1.86, 76, 15-05-90, Sarata, Inhulets Petrove
+24, Ruslan Zubkov, UKR, D, 1.89, 79, 24-11-91, Odessa, 
+27, Oleksandr Kochura, UKR, F, 1.79, 76, 07-03-86, Kirovohrad, Retired
+99, Roman Loktionov, UKR, F, 1.83, 77, 18-10-86, Dnipropetrovsk, 
+10, Artem Favorov, UKR, M, 1.85, 78, 19-03-94, Kyiv, Vejle (On Loan)
+22, Yarema Kavatsiv, UKR, D, 1.82, 74, 10-02-86, Yablunivka, Veres Rivne
+17, Aitor, ESP, D, 1.81, 74, 23-08-86, Valdepares, Extremadura
+16, Jonathan Moya, CRC, F, 1.85, 72, 06-01-92, San José [CRC], Deportivo Saprissa
+29, Volodymyr Bayenko, UKR, D, 1.85, 84, 09-02-90, Komsomolske, Bukhara
+7, Ihor Kalinin, UKR, D, 1.85, 75, 11-11-95, Kerch, Volgar Astrakhan

@@ -1,0 +1,41 @@
+=  Sampdoria - Italian Serie A 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emil Audero, ITA, G, 1.92, 83, 18-01-97, Mataram, Juventus
+3, Joachim Andersen, DEN, D, 1.92, 90, 31-05-96, Frederiksberg, FC Twente
+4, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Leeds U
+5, Riccardo Saponara, ITA, M, 1.84, 73, 21-12-91, Forli, Fiorentina
+6, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Hamburg
+7, Jacopo Sala, ITA, D, 1.81, 75, 05-12-91, Alzano Lombardo, Verona
+8, Edgar Barreto, PAR, M, 1.80, 79, 15-07-84, Asunción, Palermo
+10, Dennis Praet, BEL, M, 1.81, 78, 14-05-94, Leuven, Anderlecht
+11, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Middlesbrough
+12, Mohamed Bahlouli, FRA, F, 1.73, 72, 17-02-00, Lyon, Lyon
+13, Tommaso Farabegoli, ITA, D, 1.86, 80, 26-03-99, Cesena, Cesena
+14, Jakub Jankto, CZE, M, 1.84, 73, 19-01-96, Prague, Udinese
+15, Omar Colley, GAM, D, 1.91, 87, 24-10-92, Lamin, KRC Genk
+16, Karol Linetty, POL, M, 1.76, 73, 02-02-95, Żnin, Lech Poznań
+17, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Internazionale
+20, Marco Sau, ITA, F, 1.69, 65, 03-11-87, Sorgono, Cagliari
+22, Júnior Tavares, BRA, D, 1.78, 83, 07-08-96, Porto Alegre, São Paulo
+23, Manolo Gabbiadini, ITA, F, 1.81, 72, 26-11-91, Calcinate, Southampton
+24, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Legia Warszawa
+25, Alex Ferrari, ITA, D, 1.91, 80, 01-07-94, Modena, Bologna
+26, Lorenzo Tonelli, ITA, D, 1.83, 78, 17-01-90, Florence, Napoli
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Torino
+29, Nicola Murru, ITA, D, 1.80, 74, 16-12-94, Cagliari, Cagliari
+30, Simone Trimboli, ITA, M, 1.76, 76, 19-04-02, Lavagna, None
+31, Jamie Yayi Mpie, BEL, F, 1.86, 73, 22-05-01, Tongeren, Anderlecht
+32, Titas Krapikas, LTU, G, 1.95, 85, 03-01-99, Kaunas, None
+33, Rafael, BRA, G, 1.86, 83, 20-05-90, Sorocaba, Napoli
+40, Ognjen Stijepović, MNE, M, 1.85, 74, 22-10-99, Podgorica, Mladost Podgorica
+72, Vid Belec, SVN, G, 1.93, 84, 06-06-90, Maribor, Benevento
+92, Grégoire Defrel, FRA, F, 1.79, 77, 17-06-91, Meudon, Roma
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+95, Gabriele Rolando, ITA, D, 1.82, 71, 02-04-95, Genoa, Carpi (On Loan)
+18, Maxime Leverbe, FRA, D, 1.88, 76, 15-02-97, Villepinte, Cagliari (On Loan)
+19, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, SPAL (On Loan)
+99, Dawid Kownacki, POL, F, 1.87, 75, 14-03-97, Gorzów Wielkopolski, Fortuna Düsseldorf (On Loan)

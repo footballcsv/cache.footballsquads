@@ -1,0 +1,43 @@
+=  Alcorcón - Spanish LaLiga2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Marko Dmitrović, SRB, G, 1.90, 81, 24-01-92, Subotica, Charlton Ath
+2, Federico Vega, ARG, D, 1.76, 67, 04-02-93, Tigre, River Plate
+3, David Navarro, ESP, D, 1.88, 82, 25-05-80, Valencia, Levante
+4, Rafa Páez, ESP, D, 1.92, 80, 10-08-94, Orihuela, Liverpool
+5, Răzvan Ochiroşii, ROU, D, 1.76, 72, 13-03-89, Galaţi, Guijuelo
+6, Daniel Toribio, ESP, M, 1.73, 73, 05-10-88, Girona, Alavés
+7, David Rodríguez, ESP, F, 1.78, 72, 14-02-86, Talavera de la Reina, Brighton & HA
+10, Pablo Pérez, ESP, M, 1.87, 71, 02-08-93, Gijón, Sporting Gijón
+11, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Elche
+12, Víctor Pérez, ESP, M, 1.76, 71, 12-01-88, Albacete, Valladolid
+13, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Huesca
+15, Foued Kadir, ALG, M, 1.79, 68, 05-12-83, Martigues, Getafe
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Iván Alejo, ESP, M, 1.84, 76, 10-02-95, Valladolid, Villarreal B
+18, Unai Elgezábal, ESP, D, 1.85, 74, 25-04-93, Barakaldo, Eibar
+19, Martín Luque, ARG, M, 1.76, 65, 01-03-93, Las Varillas, Internacional
+20, Tropi, ESP, M, 1.73, 69, 12-05-95, Valencia, Valencia B
+21, Óscar Plano, ESP, F, 1.80, 68, 11-02-91, Móstoles, Real Madrid B
+22, Nélson, POR, D, 1.72, 65, 10-06-83, Praia, Belenenses
+23, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Sporting Braga
+24, Lucien Owona, CMR, D, 1.89, 80, 09-08-90, Douala, Villanovense
+28, Álvaro Rodríguez, ESP, D, 1.81, 77, 22-07-94, Leganés, Alcorcón B
+31, Jacobo Alcalde, ESP, F, , , 28-11-96, Madrid, Alcorcón B
+37, Stéphane Serbourdin, ESP, D, 1.85, 81, 18-05-95, Telde, Las Palmas B
+38, Ricky Alonso, ESP, G, 1.85, 82, 23-01-92, Villaviciosa, Atlético Astorga
+41, Óscar Arribas, ESP, F, 1.78, 68, 22-10-98, Parla, Alcorcón B
+42, Jorge Cuenca, ESP, D, 1.87, 75, 17-11-99, Madrid, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Juan José Collantes, ESP, F, 1.70, 70, 07-01-83, San Fernando, UCAM Murcia
+15, Manuel, ESP, M, 1.85, 78, 13-09-88, Córdoba, UCAM Murcia
+23, Iván González, ESP, D, 1.84, 80, 15-02-88, Málaga, Wisła Kraków
+24, Luis Fernández, ESP, F, 1.75, 72, 23-09-93, Burela, UCAM Murcia
+40, Jacobo González, ESP, M, 1.76, 66, 25-03-97, Madrid, Rayo Majadahonda (On Loan)
+26, Adrián Diéguez, ESP, D, 1.87, 69, 04-02-96, Madrid, Fuenlabrada (On Loan)
+8, Sergio Aguza, ESP, M, 1.75, 68, 02-09-92, Sant Boi, Córdoba
+9, Samu, ESP, M, 1.77, 74, 02-07-93, Belmonte, Cultural Leonesa (On Loan)
+14, Álvaro Rey, ESP, M, 1.83, 75, 11-07-89, Seville, Panetolikos

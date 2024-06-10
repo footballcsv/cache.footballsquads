@@ -1,0 +1,56 @@
+=  Manchester United - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David De Gea, ESP, G, 1.92, 82, 07-11-90, Madrid, Atlético Madrid
+2, Rafael, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Fluminense
+3, Patrice Evra, FRA, D, 1.75, 76, 15-05-81, Dakar, Monaco
+4, Phil Jones, ENG, D, 1.80, 71, 21-02-92, Preston, Blackburn R
+5, Rio Ferdinand, ENG, D, 1.89, 82, 07-11-78, Peckham, Leeds U
+6, Jonny Evans, NIR, D, 1.88, 77, 02-01-88, Belfast, None
+8, Juan Mata, ESP, F, 1.70, 63, 28-04-88, Burgos, Chelsea
+10, Wayne Rooney, ENG, F, 1.78, 78, 24-10-85, Croxteth, Everton
+11, Ryan Giggs, WAL, M, 1.80, 68, 29-11-73, Cardiff, None
+12, Chris Smalling, ENG, D, 1.93, 90, 22-11-89, Greenwich, Fulham
+13, Anders Lindegaard, DEN, G, 1.93, 80, 13-04-84, Odense, Aalesund
+14, Javier Hernández, MEX, F, 1.72, 62, 01-06-88, Guadalajara, Guadalajara
+15, Nemanja Vidić, SRB, D, 1.88, 82, 21-10-81, Užice, Spartak Moscow
+16, Michael Carrick, ENG, M, 1.86, 74, 28-07-81, Wallsend, Tottenham H
+17, Nani, POR, M, 1.75, 66, 17-11-86, Praia, Sporting CP
+18, Ashley Young, ENG, M, 1.75, 65, 09-07-85, Stevenage, Aston Villa
+19, Danny Welbeck, ENG, F, 1.85, 73, 26-11-90, Manchester, None
+20, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Arsenal
+23, Tom Cleverley, ENG, M, 1.75, 67, 12-08-89, Basingstoke, Bradford C
+24, Darren Fletcher, SCO, M, 1.83, 83, 01-02-84, Edinburgh, None
+25, Luis Antonio Valencia, ECU, M, 1.81, 78, 04-08-85, Lago Agrio, Wigan Ath
+26, Shinji Kagawa, JPN, M, 1.72, 63, 17-03-89, Hyogo, Borussia Dortmund
+28, Alexander Büttner, NED, D, 1.76, 72, 11-02-89, Doetinchem, Vitesse
+30, Guillermo Varela, URU, D, 1.71, 69, 24-03-93, Montevideo, Peñarol
+31, Marouane Fellaini, BEL, M, 1.94, 85, 22-11-87, Etterbeek, Everton
+34, Tom Lawrence, WAL, F, 1.75, 75, 13-01-94, Wrexham, None
+35, Jesse Lingard, ENG, M, 1.68, 58, 15-12-92, Warrington, None
+38, Michael Keane, ENG, D, 1.72, 68, 11-01-93, Stockport, None
+40, Ben Amos, ENG, G, 1.85, 83, 10-04-90, Macclesfield, None
+44, Adnan Januzaj, BEL, M, 1.80, 75, 05-02-95, Brussels, Anderlecht
+45, Davide Petrucci, ITA, M, 1.88, 88, 17-10-91, Rome, Roma
+47, James Wilson, ENG, F, 1.84, 78, 01-12-95, Biddulph, None
+50, Sam Johnstone, ENG, G, 1.93, 85, 25-03-93, Preston, None
+51, Jonny Sutherland, ENG, G, 1.83, 80, 03-09-94, Chester, Crewe Alex
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+31, Scott Wootton, ENG, D, 1.88, 78, 12-09-91, Birkenhead, Leeds U
+21, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Zaragoza (On Loan)
+32, Nick Powell, ENG, M, 1.83, 66, 23-03-94, Crewe, Wigan Ath (On Loan)
+33, Bebé, POR, F, 1.90, 75, 12-07-90, Agualva-Cacém, Paços de Ferreira (On Loan)
+36, Marnick Vermijl, BEL, D, 1.80, 70, 13-01-92, Peer, NEC Nijmegen (On Loan)
+8, Anderson, BRA, M, 1.76, 69, 13-04-88, Porto Alegre, Fiorentina (On Loan)
+22, Fábio, BRA, D, 1.72, 65, 09-07-90, Petrópolis, Cardiff C
+27, Federico Macheda, ITA, F, 1.83, 76, 22-08-91, Rome, Birmingham C (On Loan)
+29, Wilfried Zaha, ENG, F, 1.80, 66, 10-11-92, Abidjan, Cardiff C (On Loan)
+34, Larnell Cole, ENG, M, 1.68, 63, 09-03-93, Manchester, Fulham
+39, Tom Thorpe, ENG, D, 1.88, 89, 13-01-93, Manchester, Birmingham C (On Loan)
+42, Tyler Blackett, ENG, D, 1.86, 76, 02-04-94, Manchester, Birmingham C (On Loan)
+43, Charni Ekangamene, BEL, M, 1.80, 71, 16-02-94, Antwerp, Carlisle U (On Loan)
+46, Ryan Tunnicliffe, ENG, M, 1.83, 80, 30-12-92, Bury, Fulham
+48, Will Keane, ENG, F, 1.78, 78, 11-01-93, Stockport, QPR (On Loan)

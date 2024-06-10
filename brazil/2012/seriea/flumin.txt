@@ -1,0 +1,52 @@
+=  Fluminense - Campeonato Brasileiro Série A 2012
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ricardo Berna, BRA, G, 1.87, 83, 11-06-79, Valença-RJ, América Mineiro
+2, Bruno Vieira, BRA, D, 1.78, 69, 30-08-85, Mato Grosso, Tombense
+3, Gum, BRA, D, 1.89, 86, 04-01-86, São Paulo, Ponte Preta
+4, Leandro Euzébio, BRA, D, 1.87, 83, 18-08-81, Cabo Frio, Cruzeiro
+5, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Palmeiras
+6, Carlinhos, BRA, D, 1.76, 72, 23-01-87, Vitória da Conquista, Santo André
+8, Diguinho, BRA, M, 1.71, 69, 20-03-83, Canoas, Botafogo
+9, Fred, BRA, F, 1.85, 84, 03-10-83, Téofilo Otoni, Lyon
+10, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Al-Hilal [KSA]
+12, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+13, Digão, BRA, D, 1.87, 85, 07-05-88, Duque de Caxias, None
+14, Elivélton, BRA, D, 1.80, 82, 10-05-92, Bom Jardim, None
+15, Anderson, BRA, D, 1.81, 79, 26-08-82, Itaperuna, Ceará
+16, Wallace, BRA, D, 1.75, 72, 01-05-94, Rio de Janeiro, None
+17, Edwin Valencia, COL, M, 1.81, 85, 29-03-85, Florida Valle, Atlético Paranaense
+18, Wellington Nem, BRA, M, 1.65, 65, 06-02-92, Rio de Janeiro, None
+19, Wágner, BRA, M, 1.72, 71, 29-01-85, Sete Lagoas, Gaziantepspor
+20, Deco, POR, M, 1.74, 73, 27-08-77, São Bernardo do Campo, Chelsea
+21, Marcos Júnior, BRA, F, 1.67, 63, 19-01-93, Gama, None
+22, Thiago Carleto, BRA, D, 1.72, 68, 24-03-89, São Bernardo do Campo, São Paulo
+23, Rafael Sobís, BRA, F, 1.72, 73, 17-06-85, Erechim, Al-Jazira
+24, Cleriston, BRA, G, 1.85, 75, 20-02-92, Araraquara, Sertãozinho
+25, Jean, BRA, M, 1.70, 70, 24-06-86, Campo Grande, São Paulo
+26, Fernando, BRA, D, 1.79, 68, 27-01-93, São Domingos, None
+27, Michael, BRA, F, 1.86, 80, 19-04-93, São Francisco de Sales, None
+28, Marlon, BRA, M, 1.82, 80, 07-09-95, Duque de Caxias, None
+29, Biro Biro, BRA, F, 1.69, 60, 22-11-94, Rio de Janeiro, Nova Iguaçu
+30, Higor, BRA, M, 1.77, 62, 02-06-93, Goiás, Internacional
+31, Samuel, BRA, F, 1.85, 83, 25-02-91, São Borja, None
+32, Fábio Braga, POR, M, 1.84, 87, 06-09-92, Lisbon, None
+33, Kléver, BRA, G, 1.88, 82, 20-06-89, Mirassol, None
+34, Wellington Carvalho, BRA, D, 1.85, 84, 15-02-93, Duque de Caxias, None
+35, Matheus Carvalho, BRA, F, 1.77, 70, 11-03-92, Niterói, None
+36, Emerson, BRA, D, 1.80, 63, 02-05-94, Rondonópolis, None
+37, Rafinha, BRA, M, 1.77, 74, 05-08-93, Rio de Janeiro, None
+38, Eduardo, BRA, M, 1.78, 72, 07-06-93, Fortaleza, Fortaleza
+39, Caio, BRA, M, 1.74, 65, 19-11-92, São Paulo, None
+40, Igor Julião, BRA, D, 1.75, 62, 23-08-94, Rio de Janeiro, None
+41, Willian, BRA, M, 1.84, 71, 16-05-93, Junqueirópolis, None
+42, Mateus Regis, BRA, M, 1.74, 62, 27-07-94, Salvador, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+38, Fabinho, BRA, D, 1.87, 78, 23-10-93, Campinas, Rio Ave
+26, Lucas Patinho, BRA, M, 1.90, 78, 06-03-92, Ribeirão Preto, Sporting CP (On Loan)
+11, Manuel Lanzini, ARG, M, 1.69, 64, 15-02-93, Ituzaingó, River Plate
+10, Rafael Moura, BRA, F, 1.89, 85, 23-05-83, Belo Horizonte, Internacional
+7, Thiago Neves, BRA, M, 1.82, 70, 27-02-85, Curitiba, Re-Registered (10)

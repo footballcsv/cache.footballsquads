@@ -1,0 +1,47 @@
+=  Lyon - French Ligue 1 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hugo Lloris, FRA, G, 1.88, 78, 26-12-86, Nice, Nice
+2, Lamine Gassama, SEN, D, 1.81, 74, 20-10-89, Marseille, None
+3, Cris, BRA, D, 1.83, 77, 03-06-77, Guarulhos, Cruzeiro
+4, Pape Diakhaté, SEN, D, 1.85, 79, 21-06-84, Dakar, Dynamo Kiev
+5, Dejan Lovren, CRO, D, 1.88, 86, 05-07-89, Karlovac, Dinamo Zagreb
+6, Kim Källström, SWE, M, 1.81, 79, 24-08-82, Sandviken, Rennes
+7, Jimmy Briand, FRA, F, 1.81, 84, 02-05-85, Vitry-sur-Seine, Rennes
+8, Miralem Pjanić, BIH, M, 1.80, 68, 02-04-90, Zvornik, Metz
+9, Lisandro López, ARG, F, 1.75, 74, 02-03-83, Rafael Obligado, FC Porto
+10, Ederson, BRA, M, 1.81, 74, 13-01-86, Parapua, Nice
+11, Michel Bastos, BRA, M, 1.78, 74, 02-08-83, Pelotas, Lille
+12, Timothée Kolodziejczak, FRA, D, 1.81, 74, 01-10-91, Avion, Lens
+13, Anthony Réveillère, FRA, D, 1.81, 76, 10-11-79, Doué-La-Fontaine, Rennes
+15, Harry Novillo, FRA, F, 1.82, 80, 11-02-92, Lyon, None
+18, Bafetibis Gomis, FRA, F, 1.84, 77, 06-08-85, Seyne-sur-Mer, St-Etienne
+19, César Delgado, ARG, M, 1.74, 69, 18-08-81, Rosario, Cruz Azul
+20, Aly Cissokho, FRA, D, 1.81, 75, 15-09-87, Blois, FC Porto
+21, Maxime Gonalons, FRA, M, 1.87, 76, 10-03-89, Vénissieux, None
+22, Clément Grenier, FRA, M, 1.86, 72, 07-01-91, Annonay, None
+24, Jérémy Pied, FRA, F, 1.73, 69, 23-02-89, Grenoble, None
+25, Joan Hartock, FRA, G, 1.89, 83, 17-02-87, La Trinité, AS Robert
+28, Jérémy Toulalan, FRA, M, 1.83, 77, 10-09-83, Nantes, Nantes
+29, Yoann Gourcuff, FRA, M, 1.85, 79, 11-07-86, Lorient, Bordeaux
+30, Rémy Vercoutre, FRA, G, 1.85, 78, 26-06-80, Grande-Synthe, Montpellier
+31, Saïd Mehamha, FRA, M, 1.70, 65, 04-09-90, Lyon, None
+36, Sébastien Faure, FRA, D, 1.84, 78, 03-01-91, Lyon, None
+38, Alexandre Lacazette, FRA, F, 1.74, 69, 28-05-91, Lyon, None
+39, Ishak Belfodil, ALG, F, 1.91, 86, 12-01-92, Algiers, Clermont
+40, Anthony Lopes, POR, G, 1.84, 81, 01-10-90, Givors, None
+41, Maxime Blanc, FRA, M, 1.67, 57, 23-01-92, Avignon, None
+43, Samuel Umtiti, FRA, D, 1.80, 70, 14-11-93, Yaoundé, None
+45, Mathieu Gorgelin, FRA, G, 1.87, 83, 05-08-90, Ambérieu-en-Bugey, None
+47, Rachid Ghezzal, FRA, M, 1.82, 65, 09-05-92, Décines-Charpieu, None
+48, Enzo Reale, FRA, M, 1.75, 69, 07-10-91, Venissieux, None
+49, Grégoire Puel, FRA, F, 1.80, 67, 20-02-92, Nice, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Loïc Abenzoar, FRA, D, 1.81, 77, 14-02-89, Lyon, Arles-Avignon (On Loan)
+23, Anderson Cléber, BRA, D, 1.85, 84, 27-04-80, São Paulo, Santo André
+29, Yannis Tafer, FRA, F, 1.80, 67, 11-02-91, Grenoble, Toulouse (On Loan)
+35, Nicolas Seguin, FRA, D, 1.81, 76, 06-03-90, Lyon, Dijon (On Loan)
+17, Jean II Makoun, CMR, M, 1.73, 69, 29-05-83, Yaoundé, Aston Villa

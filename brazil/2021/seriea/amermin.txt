@@ -1,0 +1,49 @@
+=  América Mineiro - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matheus Cavichioli, BRA, G, 1.92, 86, 27-07-86, Caçador, Guarani
+2, Diego Ferreira, BRA, D, 1.75, 68, 26-02-96, Niterói, Tombense
+3, Eduardo Bauermann, BRA, D, 1.87, 85, 13-02-96, Estancia Velha, Paraná
+4, Anderson Santos, BRA, D, 1.85, 71, 02-03-95, Lagarto, Bahia
+5, Zé Ricardo, BRA, M, 1.76, 72, 09-03-96, Bom Jesus do Amparo, None
+6, Alan Ruschel, BRA, D, 1.75, 73, 23-08-89, Taquara, Cruzeiro
+7, Ribamar, BRA, F, 1.84, 81, 21-05-97, Rio de Janeiro, Pyramids FC
+8, Juninho, BRA, M, 1.73, 66, 23-10-87, Goiânia, Atlético Paranaense
+9, Rodolfo, BRA, F, 1.82, 78, 21-05-92, São Manuel, Capivariano
+10, Ademir, BRA, F, 1.72, 65, 16-02-95, São Paulo, Patrocinense
+11, Felipe Azevedo, BRA, F, 1.74, 74, 10-01-87, Ubatuba, Ceará
+12, Airton, BRA, G, 1.88, 84, 29-05-94, São Marcos, Pelotas
+13, Fabrício Daniel, BRA, F, 1.82, 73, 23-03-97, Araraquara, Mirassol
+16, João Paulo, BRA, D, 1.73, 72, 01-07-86, Belo Horizonte, Figueirense
+17, Sabino, BRA, M, 1.80, 77, 18-05-99, Osasco, Osasco
+19, Chrigor, BRA, F, 1.83, 65, 13-11-00, Cachoeira do Sul, Red Bull Bragantino
+20, Léo Passos, BRA, F, 1.83, 75, 13-03-99, Campinas, Palmeiras
+21, Lucas Kal, BRA, D, 1.85, 78, 16-03-96, São Paulo, São Paulo
+22, Bruno Nazário, BRA, M, 1.78, 68, 09-02-95, Cascavel, 1899 Hoffenheim
+23, Robson, BRA, G, 1.87, 80, 09-07-00, Cantagalo, Cruzeiro
+26, Eduardo, BRA, D, 1.70, 70, 20-11-86, Maceió, Ceará
+28, Orlando Berrío, COL, F, 1.82, 73, 14-02-91, Cartagena, Khor Fakkan
+29, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Sport Recife
+30, Alê, BRA, M, 1.84, 75, 06-06-90, Osasco, Cuiabá
+32, Luiz Fernando, BRA, F, 1.74, 65, 11-07-99, Florianópolis, Tombense
+33, Léo Lang, BRA, G, 1.90, 81, 05-08-98, Cotriguaçu, Internacional de Minas
+36, Ramon, BRA, M, 1.74, 69, 19-05-97, Limeira, Internacional
+38, Carlos Alberto, BRA, F, 1.81, 67, 14-04-02, João Pessoa, None
+40, Gustavinho, BRA, M, 1.74, 67, 29-10-01, Juiz de Fora, None
+44, Zé Vitor, BRA, D, 1.89, 85, 09-02-01, Goiana, None
+45, Ricardo Silva, BRA, D, 1.90, 78, 13-08-92, São José do Seridó, Operário
+46, Isaque, BRA, M, 1.78, 75, 22-04-97, São Paulo, Grêmio
+55, Juninho Valoura, BRA, M, 1.75, 70, 20-03-86, Rio de Janeiro, Fortaleza
+66, Marlon, BRA, D, 1.77, 66, 13-02-94, Angra dos Reis, Sampaio Corrêa
+70, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, Coritiba
+76, Lucas Luan, BRA, D, 1.83, 77, 06-09-99, Bom Jesus do Galho, None
+80, Kawê, BRA, F, 1.78, 66, 22-06-02, São Paulo, None
+90, Marcelo Toscano, BRA, F, 1.84, 75, 12-05-85, Areado, Omiya Ardija
+96, Jori, BRA, G, 1.90, 84, 15-03-96, Periquito, None
+98, Geovane, BRA, M, 1.72, 70, 15-06-98, Jacobina, São Paulo
+99, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Boca Juniors
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Lohan, BRA, F, 1.91, 86, 20-09-95, Carmo, Confiança

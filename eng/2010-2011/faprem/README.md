@@ -1,0 +1,23 @@
+# English Premier League 2010/11
+
+20 teams
+- [Arsenal](arsenal.txt)
+- [Aston Villa](avilla.txt)
+- [Birmingham City](birmin.txt)
+- [Blackburn Rovers](blackbrn.txt)
+- [Blackpool](blackpo.txt)
+- [Bolton Wanderers](bolton.txt)
+- [Chelsea](chelsea.txt)
+- [Everton](everton.txt)
+- [Fulham](fulham.txt)
+- [Liverpool](liverpool.txt)
+- [Manchester City](mancity.txt)
+- [Manchester United](manutd.txt)
+- [Newcastle United](newcas.txt)
+- [Stoke City](stoke.txt)
+- [Sunderland](sunder.txt)
+- [Tottenham Hotspur](tottenha.txt)
+- [West Bromwich Albion](wba.txt)
+- [West Ham United](westham.txt)
+- [Wigan Athletic](wigan.txt)
+- [Wolverhampton Wanderers](wolves.txt)

@@ -1,0 +1,40 @@
+=  Académica - Portuguese Superliga 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rui Nereu, POR, G, 1.83, 74, 04-02-86, Odivelas, Benfica
+2, Amoreirinha, POR, D, 1.83, 83, 05-08-84, Vila Franca de Xira, CFR Cluj
+4, Luiz Nunes, BRA, D, 1.81, 83, 04-12-80, Santana do Livramento, Juventude
+5, Markus Berger, AUT, D, 1.86, 82, 21-01-85, Salzburg, SV Ried
+6, Niamien Amessan, CIV, M, 1.77, 68, 27-09-90, Abidjan, None
+8, Paulo Sérgio, POR, M, 1.84, 83, 21-07-81, Rio de Janeiro, Moreirense
+11, Lito, CPV, M, 1.70, 66, 03-02-75, Praia, Naval
+12, Ricardo, POR, G, 1.90, 84, 06-07-82, Póvoa do Varzim, Varzim
+14, Miguel Fidalgo, POR, F, 1.75, 72, 19-03-82, Caniçal, Nacional [POR]
+15, Orlando, POR, D, 1.83, 83, 24-10-79, Santo Tirso, Freamunde
+17, Cris, POR, M, 1.78, 70, 17-01-84, Oliveira de Azemeis, Feirense
+18, Modou Sougou, SEN, F, 1.78, 68, 18-12-84, Fissel, União de Leiria
+19, Pedrinho, POR, D, 1.77, 73, 06-03-85, Vila do Conde, Varzim
+20, André Fontes, POR, M, 1.79, 75, 27-05-85, Tábua, Tourizense
+21, Éder, POR, F, 1.88, 81, 22-12-87, Bissau, Tourizense
+22, Emídio Rafael, POR, D, 1.82, 73, 24-01-86, Lisbon, Portimonense
+25, João Ribeiro, POR, M, 1.76, 75, 13-08-87, Porto, Naval
+27, Dijilly Vouho, CIV, F, 1.85, 75, 25-06-87, Séguéla, Sabé Sports de Bouna
+28, Jonathan Bru, FRA, M, 1.82, 72, 02-05-85, Neuilly-sur-Seine, AE Paphos
+30, Pedro Costa, POR, D, 1.68, 70, 21-11-81, Arouca, Sporting Braga
+31, Barroca, POR, G, 1.86, 82, 29-07-86, Mealhada, Tourizense
+32, Krum Bibishkov, BUL, F, 1.90, 84, 02-09-82, Marikostinovo, Steaua Bucureşti
+33, William Tiero, GHA, M, 1.74, 71, 03-12-80, Tema, Naval
+55, Hélder Cabral, POR, D, 1.79, 72, 07-05-84, Peniche, Vejle
+61, Bruno Amaro, POR, M, 1.81, 76, 17-02-83, Penafiel, Nacional [POR]
+66, Nuno Coelho, POR, M, 1.81, 73, 23-11-87, Covilhã, FC Porto
+85, Diogo Gomes, BRA, M, 1.83, 76, 12-09-85, Curitiba, J. Malucelli
+91, Ibrahim Sissoko, CIV, M, 1.77, 71, 29-11-91, Abidjan, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Traquina, POR, F, 1.77, 72, 29-08-88, Alcobaça, Estoril (On Loan)
+99, José Luis Garcés, PAN, F, 1.81, 76, 06-05-81, Ciudad de Panamá, Al-Ettifaq (On Loan)
+10, Miguel Pedro, POR, M, 1.75, 70, 11-06-83, Porto, Anorthosis Famagusta
+7, Amaury Bischoff, POR, M, 1.76, 65, 31-03-87, Colmar, Desportivo das Aves (On Loan)
+16, Licá, POR, M, 1.80, 71, 08-09-88, Castro Daire, Trofense (On Loan)

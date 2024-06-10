@@ -1,0 +1,49 @@
+=  Korona Kielce - Polish Ekstraklasa 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Daniel Dziwniel, POL, D, 1.78, 72, 19-08-92, Frankfurt am Main, Zagłębie Lubin
+4, Themistoklis Tzimopoulos, NZL, D, 1.88, 82, 20-11-85, Kozani, PAS Giannina
+5, Adnan Kovačević, BIH, D, 1.89, 80, 09-09-93, Kotor Varoš, Sarajevo
+6, Ognjen Gnjatić, BIH, M, 1.90, 81, 16-10-91, Bugojno, Roda JC
+7, Marcin Cebula, POL, M, 1.74, 60, 06-12-95, Staszów, None
+8, Milan Radin, SRB, M, 1.73, 66, 25-06-91, Novi Sad, Aktobe
+9, Bojan Čečarić, SRB, F, 1.90, 78, 10-10-93, Nova Pazova, Cracovia Kraków
+10, Jacek Kiełb, POL, M, 1.83, 70, 10-01-88, Siedlce, BBT Nieciecza
+11, Michael Gardawski, GER, D, 1.76, 72, 25-09-90, Cologne, Hansa Rostock
+14, Jakub Żubrowski, POL, M, 1.81, 73, 21-03-92, Szczecin, Stal Mielec
+15, Piotr Pierzchała, POL, D, 1.90, 80, 29-06-99, Kielce, None
+16, Johnny Spike Gill, ENG, M, 1.80, 64, 13-04-01, London, Watra Białka Tatrzańska
+17, Rodrigo Zalazar, URU, M, 1.78, 72, 12-08-99, Albacete, Eintracht Frankfurt
+18, Radosław Seweryś, POL, D, 1.89, 81, 10-01-04, Końskie, None
+19, Andrés Lioi, ARG, M, 1.74, 67, 07-03-97, Rosario, Rosario Central
+20, Oskar Sewerzyński, POL, M, 1.86, 76, 12-08-01, Kielce, None
+21, Bartosz Prętnik, POL, M, 1.81, 72, 21-05-01, Krosno, None
+22, Mateusz Spychała, POL, D, 1.69, 63, 28-01-98, Sieraków, Stal Mielec
+23, Uroš Djuranović, MNE, F, 1.83, 78, 01-02-94, , Dukla Prague
+24, Vato Arveladze, GEO, M, 1.84, 73, 04-03-98, Homburg, Locomotive Tbilisi
+25, Grzegorz Szymusik, POL, D, 1.82, 78, 04-06-98, Stargard, Błękitni Stargard
+26, D'sean Theobalds, ENG, M, 1.79, 69, 21-10-95, Redbridge, Tonbridge Angels
+27, Matej Pućko, SVN, M, 1.75, 68, 06-10-93, Kidričevo, Oviedo
+28, Mateusz Sowiński, POL, M, 1.76, 69, 31-05-01, Sandomierz, Wisła Sandomierz
+29, Dawid Lisowski, POL, M, 1.77, 67, 27-01-01, Kielce, None
+30, Luka Kukić, CRO, G, 1.88, 88, 16-05-96, Mostar, Osijek
+31, Nemanja Miletić, SRB, D, 1.82, 78, 26-07-91, Loznica, Partizan Belgrade
+33, Iván Márquez, ESP, D, 1.91, 80, 09-06-94, Marbella, Valencia B
+35, Daniel Szelągowski, POL, F, 1.76, 70, 02-09-02, Kielce, None
+37, Iwo Kaczmarski, POL, M, 1.83, 73, 16-04-04, Kielce, None
+39, Erik Pačinda, SVK, M, 1.74, 70, 09-05-89, Košice, Viktoria Plzeň
+70, Petteri Forsell, FIN, M, 1.69, 72, 16-10-90, Kokkola, Miedź Legnica
+72, Michal Papadopulos, CZE, F, 1.83, 79, 14-04-85, Ostrava, Piast Gliwice
+77, Dawid Więckowski, POL, D, 1.81, 74, 07-11-01, Skarżysko-Kamienna, None
+87, Łukasz Bujak, POL, D, 1.86, 74, 25-04-01, Sanok, None
+88, Marek Kozioł, POL, G, 1.99, 91, 01-06-88, Nowy Sącz, Sandecja Nowy Sącz
+97, Jakub Osobiński, POL, G, 1.91, 88, 13-04-00, Skarżysko-Kamienna, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Łukasz Kosakiewicz, POL, D, 1.76, 71, 19-09-90, Szczecin, Widzew Łódź
+77, Oktawian Skrzecz, POL, M, 1.76, 66, 30-05-97, Gdańsk, Stomil Olsztyn (On Loan)
+10, Ivan Jukić, CRO, M, 1.76, 69, 21-06-96, Split, Sarajevo
+9, Michał Żyro, POL, F, 1.89, 78, 20-09-92, Warsaw, Stal Mielec (On Loan)
+1, Paweł Sokół, POL, G, 1.93, 84, 02-03-00, Dębica, Elana Toruń (On Loan)

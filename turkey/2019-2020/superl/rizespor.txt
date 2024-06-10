@@ -1,0 +1,45 @@
+=  Rizespor - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Mohamed Abarhoun, MAR, D, 1.87, 82, 03-05-89, Tétouan, Moreirense
+4, Montassar Talbi, TUN, D, 1.90, 74, 26-05-98, Paris, Espérance
+5, Abdullah Durak, TUR, M, 1.77, 71, 01-04-87, Niğde, Kasımpaşa
+8, Atakan Akkaynak, GER, M, 1.80, 73, 05-01-99, Troisdorf, Willem II
+9, Marko Šćepović, SRB, F, 1.90, 83, 23-05-91, Belgrade, MOL Fehérvár
+10, Fernando Boldrin, BRA, M, 1.81, 75, 23-02-89, Cravinhos, Kayserispor
+13, Tarık Çetin, TUR, G, 1.93, 86, 08-01-97, Kadıköy, Fenerbahçe
+17, Oğulcan Çağlayan, TUR, F, 1.88, 78, 22-03-96, Ankara, Erciyesspor
+18, Braian Samudio, PAR, F, 1.80, 79, 23-12-95, Ciudad del Este, Guarani [BRA]
+19, Amınu Umar, NGA, M, 1.75, 72, 06-03-95, Abuja, Osmanlıspor
+20, Denys Harmash, UKR, M, 1.86, 75, 19-04-90, Luhansk, Dynamo Kyiv
+21, Milan Škoda, CZE, F, 1.90, 85, 16-01-86, Prague, Slavia Prague
+23, Gökhan Akkan, TUR, G, 1.86, 75, 01-01-95, Çekerek, Ankaragücü
+27, Ismaël Diomandé, CIV, M, 1.80, 75, 28-08-92, Abidjan, Caen
+28, Burak Albayrak, TUR, D, 1.88, 79, 12-01-98, Ümraniye, Fenerbahçe
+29, Tunay Torun, TUR, F, 1.79, 75, 21-04-90, Hamburg, İstanbul Başakşehir
+30, Zafer Görgen, TUR, G, 1.88, 83, 21-06-00, Mugla, Manisaspor
+35, Alberk Koç, TUR, D, 1.81, 67, 15-02-97, İzmir, Menemenspor
+44, Amedej Vetrih, SVN, M, 1.81, 75, 16-09-90, Šempeter pri Gorici, Domžale
+53, Dario Melnjak, CRO, D, 1.85, 77, 31-10-92, Varaždin, Domžale
+55, Mykola Morozyuk, UKR, D, 1.76, 70, 17-01-88, Lviv, Dynamo Kyiv
+64, Ivanildo, POR, D, 1.93, 83, 26-03-96, Amadora, Sporting CP
+66, Oğuz Kağan Güçtekin, TUR, M, 1.73, 68, 06-04-99, Mersin, Fenerbahçe
+70, Yan Sasse, BRA, M, 1.73, 67, 24-06-97, Porto Alegre, Coritiba
+77, Orhan Ovacıklı, TUR, D, 1.80, 71, 23-11-88, İzmir, Bandırmaspor
+92, Berkay Sandıkçı, TUR, D, , , 04-08-00, Çayeli, None
+95, Boğaçhan Kazmaz, TUR, G, 1.87, 85, 20-01-01, Rize, None
+96, Andriy Boryachuk, UKR, F, 1.76, 71, 23-04-96, Vinnytsia, Shakhtar Donetsk
+97, Muhammet Çelik, TUR, F, 1.81, 79, 04-10-98, Rize, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+79, Kazim Kopuz, TUR, M, , , 23-07-97, Rize, 12 Bingölspor
+7, Moestafa El Kabir, MAR, F, 1.77, 76, 10-05-88, Targuist, 
+14, Yusuf Acer, TUR, D, 1.67, 56, 28-01-97, Buca, BB Erzurumspor (On Loan)
+25, Dimitris Chatziisaias, GRE, D, 1.93, 85, 21-09-92, Thessaloniki, Cercle Brugge (On Loan)
+6, Joseph Attamah, GHA, M, 1.80, 80, 22-05-94, Accra, İstanbul Başakşehir
+24, Barış Alıcı, TUR, M, 1.80, 67, 24-06-97, İzmir, Fenerbahçe
+11, Niil De Pauw, BEL, M, 1.80, 70, 06-01-90, Kinshasa, Atromitos
+99, Eren Karadağ, TUR, F, , , 01-01-00, Rize, Erokspor (On Loan)
+22, Emir Han Topçu, TUR, D, 1.88, 80, 11-10-00, Bandırma, Čelik Zenica (On Loan)

@@ -1,0 +1,45 @@
+=  Mallorca - Spanish La Liga 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Juan Catalayud, ESP, G, 1.91, 85, 21-12-79, Málaga, Hércules
+2, Alan Hutton, SCO, D, 1.85, 72, 30-11-84, Glasgow, Aston Villa
+3, João Victor, BRA, M, 1.81, 77, 07-11-88, Olinda, Bunyodkor
+4, Anderson Conceição, BRA, D, 1.88, 80, 24-10-89, Caravelas, Tombense
+5, Tomás Pina, ESP, M, 1.84, 75, 14-10-87, Madrid, Mallorca B
+6, Antonio López, ESP, D, 1.73, 65, 13-09-81, Benidorm, Atlético Madrid
+7, Michael Pereira, FRA, M, 1.80, 69, 08-12-87, Paris, Mallorca B
+8, Emilio Nsue, EQG, F, 1.78, 75, 30-09-89, Palma de Mallorca, Mallorca B
+9, Giovani dos Santos, MEX, M, 1.73, 77, 11-05-89, Monterrey, Tottenham H
+10, Tomer Hemed, ISR, F, 1.85, 80, 02-05-87, Haifa, Maccabi Haifa
+11, Javi Márquez, ESP, M, 1.74, 71, 11-05-86, Barcelona, Espanyol
+12, Fernando Tissone, ARG, M, 1.82, 75, 24-07-86, Quilmes, Sampdoria
+13, Dudu Aouate, ISR, G, 1.88, 84, 17-10-77, Haifa, Deportivo La Coruña
+14, Pedro Geromel, BRA, D, 1.90, 84, 21-09-85, São Paulo, Köln
+16, José Nunes, POR, D, 1.85, 82, 07-03-77, Castelo de Pavia, Sporting Braga
+17, Pedro Bigas, ESP, M, 1.81, 78, 15-05-90, Palma de Mallorca, Mallorca B
+18, Víctor, ESP, F, 1.80, 77, 28-02-85, Palma de Mallorca, Mallorca B
+19, José Luis Martí, ESP, M, 1.80, 74, 28-04-75, Palma de Mallorca, Sevilla
+20, Antonio Luna, ESP, D, 1.77, 68, 17-03-91, Son Servera, Sevilla
+21, Alejandro Alfaro, ESP, M, 1.73, 68, 23-11-86, La Palma del Condado, Sevilla
+22, Javier Arizmendi, ESP, F, 1.89, 76, 03-03-84, Madrid, Getafe
+23, Kevin, ESP, D, 1.77, 72, 08-09-89, Peguera, Mallorca B
+24, Andreu Fontàs, ESP, M, 1.81, 72, 14-11-89, Banyoles, Barcelona
+25, Rubén Miño, ESP, G, 1.90, 87, 18-01-89, Cornellà de Llobregat, Barcelona B
+26, Yeray, ESP, G, 1.92, 82, 10-06-92, Palma de Mallorca, Mallorca B
+27, Ximo, ESP, D, 1.76, 70, 23-01-90, Palma de Mallorca, Mallorca B
+30, Álvaro, ESP, F, 1.82, 80, 19-05-91, Elche, Mallorca B
+31, Kenechuhwu Uchenwa, NGA, M, 1.88, 81, 03-06-91, , Mallorca B
+32, Charlie Took, CMR, D, 1.84, 80, 25-05-93, Douala, Mallorca B
+33, Abdón, ESP, F, 1.78, 76, 17-12-92, Arta, Mallorca B
+34, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Mallorca B
+35, Marc Fernández, ESP, F, 1.79, 70, 29-04-90, Corbera de Llobregat, Cartagena
+36, Biel Company, ESP, D, 1.76, 73, 16-02-92, Maria de la Salut, Mallorca B
+37, Brandon, ESP, F, 1.77, 71, 04-02-95, Santanyí, Mallorca B
+39, Carlos Cristeto, ESP, M, , , 13-05-94, , Salamanca
+41, Tià Sastre, ESP, M, 1.74, 68, 22-06-94, Vilafranca, Mallorca B
+42, Nico Baleani, ESP, M, 1.76, 73, 16-11-92, Palma de Mallorca, Mallorca B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Sergi Enrich, ESP, F, 1.81, 77, 26-02-90, Ciutadella, Alcorcón (On Loan)

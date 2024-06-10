@@ -1,0 +1,43 @@
+=  Caen - French Ligue 1 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Erwin Zelazny, FRA, G, 1.86, 80, 22-09-91, Grande-Synthe, Troyes
+2, Paul Baysse, FRA, D, 1.85, 82, 15-05-88, Talence, Bordeaux
+3, Yoël Armougom, FRA, D, 1.73, 71, 05-06-98, Saint-Denis, None
+4, Ismaël Diomandé, CIV, M, 1.80, 75, 28-08-92, Abidjan, St-Etienne
+5, Baïssama Sankoh, GUI, M, 1.80, 73, 20-03-92, Nogent-sur-Marne, Guingamp
+6, Prince Oniangué, CGO, M, 1.90, 78, 04-11-88, Paris, Wolverhampton W
+7, Saïf Khaoui, TUN, M, 1.80, 68, 27-04-95, Paris, Marseille
+8, Aly Ndom, FRA, M, 1.88, 80, 30-05-96, Pontoise, Reims
+9, Jan Repas, SVN, M, 1.71, 68, 19-03-97, Ljubljana, Domžale
+10, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Getafe
+11, Casimir Ninga, CHA, F, 1.86, 81, 17-05-93, N'Djamena, Montpellier
+12, Claudio Beauvue, FRA, F, 1.74, 66, 16-04-88, Saint-Claude, Celta Vigo
+13, Evens Joseph, FRA, F, 1.77, 71, 16-07-99, Neuilly-sur-Marne, None
+14, Jonathan Gradit, FRA, D, 1.80, 77, 24-11-92, Talence, Tours
+15, Emmanuel Imorou, BEN, D, 1.81, 69, 16-09-88, Bourges, Clermont
+16, Thomas Callens, FRA, G, 1.82, 81, 06-09-98, Brest, None
+17, Jessy Deminguet, FRA, M, 1.78, 74, 07-01-98, Caen, None
+18, Yacine Bammou, FRA, F, 1.88, 78, 11-09-91, Paris, Nantes
+19, Malik Tchokounté, FRA, F, 1.91, 90, 11-09-88, Nice, Paris FC
+21, Frédéric Guilbert, FRA, D, 1.78, 70, 24-12-94, Valognes, Aston Villa
+22, Adama Mbengue, SEN, D, 1.78, 68, 01-12-93, Rufisque, Diambars
+23, Mouhamadou Dabo, SEN, D, 1.76, 67, 28-11-86, Dakar, Troyes
+24, Alexander Djiku, FRA, D, 1.82, 74, 09-08-94, Montpellier, Bastia
+27, Enzo Crivelli, FRA, F, 1.84, 79, 06-02-95, Rouen, Angers
+29, Romain Genevois, HAI, D, 1.80, 66, 28-10-87, L'Estère, Nice
+30, Brice Samba, CGO, G, 1.86, 79, 25-04-94, Linzolo, Marseille
+33, Younn Zahary, FRA, D, 1.90, 82, 08-10-98, Nantes, None
+40, Paul Reulet, FRA, G, 1.81, 64, 14-01-94, Caen, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Ronny Rodelin, FRA, F, 1.92, 70, 18-11-89, Saint-Denis, Guingamp
+28, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Re-Registered (10)
+7, Timo Stavitski, FIN, F, 1.80, 78, 17-07-99, Kirkkonummi, Osijek (On Loan)
+13, Christian Kouakou, CIV, F, 1.82, 79, 01-03-91, Abidjan, MFK Karviná
+34, Jeff Louis, HAI, M, 1.78, 70, 08-08-90, Port-au-Prince, Retired
+32, Chaker Alhadhur, COM, D, 1.71, 56, 04-12-91, Nantes, Châteauroux
+20, Issa Marega, FRA, D, 1.95, 98, 20-04-98, Sèvres, Cercle Brugge
+8, Stef Peeters, BEL, M, 1.88, 84, 09-02-92, Bree, Zulte-Waregem (On Loan)

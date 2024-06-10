@@ -1,0 +1,44 @@
+=  Sampdoria - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emil Audero, ITA, G, 1.92, 83, 18-01-97, Mataram, Juventus
+3, Tommaso Augello, ITA, D, 1.80, 70, 30-08-94, Milan, Spezia
+4, Ronaldo Vieira, GNB, M, 1.78, 70, 19-07-98, Bissau, Leeds U
+5, Julian Chabot, GER, D, 1.95, 85, 12-02-98, Hanau, FC Groningen
+6, Albin Ekdal, SWE, M, 1.86, 82, 28-07-89, Stockholm, Hamburg
+7, Karol Linetty, POL, M, 1.76, 73, 02-02-95, Żnin, Lech Poznań
+9, Federico Bonazzoli, ITA, F, 1.82, 79, 21-05-97, Manerbio, Internazionale
+11, Gastón Ramírez, URU, M, 1.83, 77, 02-12-90, Fray Bentos, Middlesbrough
+12, Fabio Depaoli, ITA, D, 1.78, 71, 24-04-97, Riva del Garda, Chievo Verona
+14, Jakub Jankto, CZE, M, 1.84, 73, 19-01-96, Prague, Udinese
+15, Omar Colley, GAM, D, 1.91, 87, 24-10-92, Lamin, KRC Genk
+16, Kristoffer Askildsen, NOR, M, 1.90, 70, 09-01-01, Oslo, Stabæk
+17, Antonino La Gumina, ITA, F, 1.82, 78, 06-03-96, Palermo, Empoli
+18, Morten Thorsby, NOR, M, 1.89, 79, 05-05-96, Oslo, SC Heerenveen
+20, Gonzalo Maroni, ARG, M, 1.70, 67, 18-03-99, Córdoba, Boca Juniors
+21, Lorenzo Tonelli, ITA, D, 1.83, 78, 17-01-90, Florence, Napoli
+22, Andrea Seculin, ITA, G, 1.90, 78, 14-07-90, Gorizia, Chievo Verona
+23, Manolo Gabbiadini, ITA, F, 1.81, 75, 26-11-91, Calcinate, Southampton
+24, Bartosz Bereszyński, POL, D, 1.83, 77, 12-07-92, Poznań, Legia Warszawa
+25, Alex Ferrari, ITA, D, 1.91, 80, 01-07-94, Modena, Bologna
+26, Mehdi Léris, FRA, M, 1.86, 77, 23-05-98, Mont-de-Marsan, Chievo Verona
+27, Fabio Quagliarella, ITA, F, 1.80, 79, 31-01-83, Castellammare di Stabia, Torino
+28, Matteo Raspa, ITA, G, 1.96, 81, 21-08-01, Genoa, None
+29, Nicola Murru, ITA, D, 1.80, 74, 16-12-94, Cagliari, Cagliari
+30, Wladimiro Falcone, ITA, G, 1.95, 85, 12-04-95, Rome, None
+32, Felice D'Amico, ITA, F, 1.75, 60, 22-08-00, Palermo, Internazionale
+33, Kaique Rocha, BRA, D, 1.95, 90, 28-02-01, Taboão da Serra, Santos
+34, Maya Yoshida, JPN, D, 1.89, 78, 24-08-88, Nagasaki, Southampton
+35, Lorenzo Avogadri, ITA, G, 1.90, 80, 21-08-01, Bergamo, Atalanta
+91, Andrea Bertolacci, ITA, M, 1.79, 72, 11-01-91, Rome, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+21, Jeison Murillo, COL, D, 1.82, 78, 27-05-92, Cali, Celta Vigo (On Loan)
+31, Marco Pompetti, ITA, M, 1.76, 70, 22-05-00, Pescara, Internazionale
+13, Mohamed Bahlouli, FRA, M, 1.73, 72, 17-02-00, Lyon, Cosenza (On Loan)
+17, Gianluca Caprari, ITA, F, 1.76, 72, 30-07-93, Rome, Parma (On Loan)
+19, Vasco Regini, ITA, D, 1.85, 79, 09-09-90, Cesena, Parma (On Loan)
+10, Emiliano Rigoni, ARG, M, 1.80, 70, 04-02-93, Colonia Caroya, Zenit St Petersburg
+8, Edgar Barreto, PAR, M, 1.80, 79, 15-07-84, Asunción, 

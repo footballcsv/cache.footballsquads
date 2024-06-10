@@ -1,0 +1,49 @@
+=  Leganés - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Iván Cuéllar, ESP, G, 1.87, 76, 27-05-84, Mérida, Sporting Gijón
+2, Juanfran Moreno, ESP, D, 1.80, 71, 11-09-88, Madrid, Deportivo La Coruña
+3, Unai Bustinza, ESP, D, 1.75, 74, 02-02-92, Bilbao, Athletic Bilbao
+4, Diego Reyes, MEX, D, 1.85, 64, 19-09-92, Mexico City, Fenerbahçe
+5, Jonathan Silva, ARG, D, 1.78, 69, 29-06-94, La Plata, Sporting CP
+6, Gerard Gumbau, ESP, M, 1.87, 77, 18-12-94, Campllong, Barcelona B
+8, Recio, ESP, M, 1.82, 79, 11-01-91, Málaga, Málaga
+9, Guido Carrillo, ARG, F, 1.90, 86, 25-05-91, La Plata, Southampton
+10, Nabil El Zhar, MAR, M, 1.71, 66, 27-08-86, Alès, Las Palmas
+11, Alexander Szymanowski, ARG, M, 1.75, 65, 13-10-88, Capital Federal, Brøndby
+12, Allan-Roméo Nyom, CMR, D, 1.88, 80, 10-05-88, Neuilly-sur-Seine, WBA
+13, Andrés Prieto, ESP, G, 1.94, 92, 17-10-93, Alicante, Málaga
+14, Vasyl Kravets, UKR, D, 1.85, 78, 20-08-97, Lviv, Lugo
+15, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Barcelona B
+16, José Arnáiz, ESP, F, 1.74, 70, 15-04-95, Talavera de la Reina, Barcelona B
+17, Javier Eraso, ESP, M, 1.80, 71, 22-03-90, Pamplona, Athletic Bilbao
+18, Sabin Merino, ESP, F, 1.87, 76, 04-01-92, Urduliz, Athletic Bilbao
+19, Ezequiel Muñoz, ARG, D, 1.85, 78, 08-10-90, Pergamino, Genoa
+20, Michael Santos, URU, F, 1.70, 70, 13-03-93, Montevideo, Málaga
+21, Rubén Pérez, ESP, M, 1.78, 73, 26-04-89, Écija, Granada
+22, Dimitris Siovas, GRE, D, 1.92, 83, 16-09-88, Drama, Olympiakos
+23, Mikel Vesga, ESP, M, 1.91, 84, 08-04-93, Vitoria-Gasteiz, Athletic Bilbao
+24, Kenneth Omeruo, NGA, D, 1.85, 79, 17-10-93, Kaduna, Chelsea
+25, Martin Braithwaite, DEN, F, 1.79, 77, 05-06-91, Esbjerg, Middlesbrough
+26, Yousseff En-Nesyri, MAR, F, 1.89, 73, 01-06-97, Fez, Málaga
+27, Óscar, ESP, M, 1.74, 68, 28-06-98, Talavera de la Reina, Real Madrid B
+29, Andriy Lunin, UKR, G, 1.91, 80, 11-02-99, Krasnohrad, Real Madrid
+30, Manu Gorrido, ESP, F, , , 06-10-00, Madrid, Leganés B
+31, David Tejero, ESP, G, 1.88, 78, 05-03-96, Getafe, Lealtad
+32, Raúl Sánchez, ESP, M, 1.88, 77, 08-11-97, Madrid, Alcorcón B
+33, Javier Avilés, ESP, M, 1.81, 75, 17-08-97, Madrid, Leganés B
+34, Kleandro Lleshi, ALB, M, 1.89, 70, 09-10-99, Tirana, Belenenses
+35, Álvaro Cortés, ESP, G, , , 24-03-98, Madrid, Leganés B
+36, Jaouad Erraji, ESP, D, , , 02-01-98, , Leganés B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Facundo García, ARG, M, 1.80, 72, 16-12-99, Olavarría, AEK Larnaca (On Loan)
+8, Gabriel Appelt Pires, BRA, M, 1.87, 82, 18-09-93, Resende, Benfica
+13, Jon Ander Serantes, ESP, G, 1.83, 76, 04-01-89, Barakaldo, Avispa Fukuoka
+15, Mauro dos Santos, ARG, D, 1.82, 76, 07-07-89, Santo Tomé, Tenerife
+7, Dani Ojeda, ESP, F, 1.77, 72, 03-12-94, Las Palmas, Granada (On Loan)
+14, Raúl García, ESP, D, 1.75, 72, 30-04-89, La Coruña, Girona
+28, Rodrigo Tarín, ESP, D, 1.82, 76, 05-07-96, Chiva, Re-Registered (15)
+4, Diego Rolán, URU, F, 1.77, 69, 24-03-93, Montevideo, Deportivo La Coruña

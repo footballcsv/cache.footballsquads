@@ -1,0 +1,67 @@
+=  Avaí - Campeonato Brasileiro Série A 2011
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Felipe, BRA, G, 1.90, 79, 10-01-88, São Vicente, Santos
+4, Gian, BRA, D, 1.90, 82, 19-09-82, Santo André, Vasco da Gama
+5, Claudio Caçapa, BRA, D, 1.84, 77, 29-05-76, Lavras, Évian TG
+6, Romano, BRA, D, 1.79, 72, 10-11-87, Taquara, Portuguesa
+7, Diogo Orlando, BRA, M, 1.79, 77, 04-12-83, Rio de Janeiro, Mirassol
+8, Acleisson, BRA, M, 1.76, 81, 21-05-82, Ribeirão Preto, Portuguesa
+9, William Souza, BRA, F, 1.81, 72, 14-05-83, Rolândia, Guingamp
+11, Rafael Coelho, BRA, F, 1.74, 78, 20-05-88, Florianópolis, Desportivo Brasil
+13, Daniel, BRA, D, 1.79, 78, 14-09-90, Capão da Canoa, Internacional
+14, Gustavo, BRA, D, 1.73, 74, 20-01-87, Florianópolis, São José
+15, Arlan, BRA, M, 1.70, 67, 05-11-86, Nanuque, Vaduz
+16, Pará, BRA, D, 1.72, 73, 19-09-87, Rio Maria, Capivariano
+17, Maurício Alves, BRA, F, 1.83, 72, 02-01-90, Montanha, Villarreal B
+18, Cléverson, BRA, M, 1.80, 78, 17-12-83, Cachoeiro do Sul, Noroeste
+19, Leandro Lima, BRA, M, 1.69, 63, 09-11-85, Fortaleza, União de Leiria
+20, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Cruzeiro
+21, Johnathan Estrada, COL, M, 1.82, 70, 27-01-83, Medellín, Millonarios
+22, Batista, BRA, M, 1.73, 77, 12-07-79, Anguera, Paraná
+23, Aleks, BRA, G, 1.93, 86, 20-02-91, Criciúma, None
+25, Robert, BRA, F, 1.84, 79, 27-02-81, Salvador, Monterrey
+26, Fernandinho, BRA, D, 1.80, 65, 31-08-85, Cianorte, Oeste
+27, Thiago Sales, BRA, D, 1.80, 78, 07-05-87, Rio de Janeiro, Fluminense
+28, Bruno Silva, BRA, M, 1.79, 78, 03-08-86, Nova Lima, Villa Nova
+30, Welton Felipe, BRA, D, 1.94, 92, 15-06-86, Belo Horizonte, Atlético Mineiro
+31, Marcelo Moretto, BRA, G, 1.95, 94, 10-05-78, Eldorado, Arka Gdynia
+32, Caíque, BRA, M, 1.85, 77, 10-01-88, Salvador, Olé Brasil
+34, Cássio, BRA, D, 1.83, 83, 08-07-86, Porto Alegre, Desportivo Brasil
+35, Fabiano, BRA, M, 1.81, 78, 06-04-78, Marília, Atlético Mineiro
+36, Maurício Britto, BRA, M, , , 22-06-91, Porto Alegre, None
+37, Rafael Santos, BRA, G, 1.89, 82, 14-03-89, Barretos, Corinthians
+39, Marcos Paulo, BRA, M, 1.84, 72, 04-02-90, Florianópolis, Coritiba
+40, Anderson Lessa, BRA, F, 1.70, 66, 26-07-89, Recife, Cruzeiro
+41, Júnior Urso, BRA, M, 1.82, 82, 10-03-89, Taboão da Serra, Ituano
+42, Peu, BRA, F, , , , , None
+43, Robinho, BRA, M, 1.70, 67, 10-11-87, Marialva, Santos
+44, Gustavo Bastos, BRA, D, 1.91, 82, 15-07-83, Pelotas, Mirassol
+45, Dieguinho, BRA, F, 1.78, 65, 07-06-92, Bebedouro, Desportivo Brasil
+46, Léo Campos, BRA, D, 1.84, 80, 03-07-92, Antônio Carlos, None
+47, Johnny Dias, BRA, F, , , 07-05-93, , None
+48, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, None
+49, Dirceu, BRA, M, 1.83, 71, 05-01-88, Ibaiti, Coritiba
+50, Fernando Silva, BRA, G, 1.88, 86, 20-01-82, São Paulo, Mirassol
+99, Lincoln, BRA, M, 1.77, 71, 22-01-79, Belo Horizonte, Palmeiras
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Marquinhos, BRA, M, 1.83, 83, 29-09-81, Biguaçu, Santos
+39, Cristian, BRA, F, 1.75, 69, 07-08-90, Araranguá, Marília (On Loan)
+40, Cleyton, BRA, D, 1.87, 84, 12-04-89, Canta Galo, Marília (On Loan)
+20, Renan, BRA, G, 1.92, 83, 12-12-90, São João Batista, Corinthians
+37, Evando, BRA, F, 1.77, 78, 07-03-77, Timóteo, 
+3, Émerson Nunes, BRA, D, 1.79, 76, 21-03-82, Belo Horizonte, 
+19, Arthuro Bernhardt, BRA, F, 1.90, 82, 27-08-82, Florianapolis, 
+25, Felipe, BRA, M, 1.80, 79, 05-04-86, Imigrante, Juventude
+29, George Lucas, BRA, D, 1.75, 72, 20-02-84, Passo Fundo, 
+31, Revson, BRA, M, 1.87, 82, 20-12-87, Cascavel, São Caetano
+5, Marcinho Guerreiro, BRA, M, 1.78, 70, 23-09-80, Novo Horizonte, Goiás
+26, Julinho, BRA, D, 1.84, 77, 05-08-86, São Paulo, Vasco da Gama (On Loan)
+38, Marquinhos, BRA, F, 1.74, 69, 21-07-90, Selbach, Internacional
+45, Matheus, BRA, M, 1.74, 77, 31-05-89, São Paulo, Daegu (On Loan)
+47, Fábio Santos, BRA, F, 1.84, 74, 21-04-87, Maceió, Vitória
+10, Dinélson, BRA, M, 1.66, 65, 04-02-86, Anagé, Paraná (On Loan)
+33, Diego Ivo, BRA, D, 1.88, 82, 06-04-89, Ibirapuera, Paulista

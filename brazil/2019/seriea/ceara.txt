@@ -1,0 +1,47 @@
+=  Ceará - Campeonato Brasileiro Série A 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lucas França, BRA, G, 1.94, 83, 19-01-96, São Paulo, Cruzeiro
+2, Cristovám, BRA, D, 1.75, 67, 25-07-90, Feira de Santana, Paraná
+3, Valdo, BRA, D, 1.83, 77, 10-02-92, Aracaju, Confiança
+4, Eduardo Brock, BRA, D, 1.85, 82, 06-05-91, Arroio do Meio, Goiás
+6, João Lucas, BRA, D, 1.84, 79, 08-06-91, Bela Vista do Paraíso, Figueirense
+7, Mateus, BRA, F, 1.72, 66, 28-09-94, Belo Horizonte, Pachuca
+8, Ricardinho, BRA, M, 1.75, 64, 15-12-85, Rosário do Sul, Al-Ettifaq
+10, Felipe, BRA, M, 1.71, 69, 28-05-90, Piracicaba, Sanfrecce Hiroshima
+11, Fernando Sobral, BRA, M, 1.78, 70, 17-12-94, Sobral, Sampaio Corrêa
+12, Diogo Silva, BRA, G, 1.92, 80, 08-07-86, Cuiabá, Luverdense
+13, Luiz Otávio, BRA, D, 1.90, 84, 14-09-88, Carmo, Angra dos Reis
+18, Auremir, BRA, D, 1.74, 64, 10-09-91, Recife, BB Erzerumspor
+19, Fabinho, BRA, M, 1.80, 69, 19-11-86, Cruzeiro, Internacional
+21, Juninho Quixadá, BRA, F, 1.70, 62, 12-12-85, Senador Pompeu, Ferroviário
+22, Samuel Xavier, BRA, D, 1.66, 67, 06-06-90, São Paulo, Sport Recife
+27, Wescley, BRA, M, 1.66, 64, 11-10-91, Rio de Janeiro, Vissel Kobe
+30, Chico, BRA, M, 1.74, 69, 16-05-91, Cascavel, Pohang Steelers
+31, Matheus Cabral, BRA, G, 1.87, 84, 03-08-98, Niterói, Botafogo
+36, Tiago Alves, BRA, D, 1.86, 78, 29-05-84, Belo Horizonte, Red Bull Brasil
+37, Rick, BRA, F, 1.70, 66, 02-09-99, São Luís, Grêmio
+45, Lima, BRA, M, 1.81, 73, 11-06-96, Porto Alegre, Grêmio
+55, William Oliveira, BRA, M, 1.82, 80, 25-02-92, Paracambi, Madureira
+70, Romário, BRA, F, 1.86, 84, 27-10-92, Fortaleza, Kalmar FF
+77, Bérgson, BRA, F, 1.79, 76, 09-02-91, Rio Grande do Sul, Atlético Paranaense
+82, Leandro Carvalho, BRA, F, 1.72, 70, 10-05-95, Belém, Botafogo
+87, Alex Amado, BRA, F, 1.67, 67, 29-04-87, Porto Alegre, Brasil de Pelotas
+88, Pedro Ken, BRA, M, 1.81, 75, 20-03-87, Curitiba, Terek Grozny
+89, Thiago Galhardo, BRA, M, 1.82, 69, 20-07-89, São João del Rei, Vasco da Gama
+91, Richard, BRA, G, 1.86, 83, 01-03-91, São Paulo, Paraná
+94, Willian Popp, BRA, F, 1.88, 73, 13-04-94, Joinville, Figueirense
+98, Felippe Cardoso, BRA, F, 1.87, 83, 04-10-98, São Paulo, Santos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Roger, BRA, F, 1.84, 79, 07-01-85, Campinas, Ponte Preta
+7, Vitor Feijão, BRA, F, 1.69, 76, 01-08-96, São Paulo, Guarani (On Loan)
+99, Ricardo Bueno, BRA, F, 1.88, 70, 15-08-87, São Paulo, CSA
+83, Fernando Henrique, BRA, G, 1.89, 82, 25-11-83, Rio de Janeiro, CRB
+50, Matheus Lira, BRA, M, , , 19-01-98, Sobral, União
+5, Edinho, BRA, M, 1.83, 83, 15-01-83, Niterói, Vila Nova
+44, Charles, BRA, D, 1.88, 78, 26-04-88, Blumenau, 
+46, Thiago Carleto, BRA, D, 1.72, 68, 24-03-89, São Bernardo do Campo, Vitória
+17, João Paulo, BRA, F, 1.78, 77, 28-11-96, Tietê, 

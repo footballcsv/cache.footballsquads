@@ -1,0 +1,38 @@
+=  KVC Westerlo - Belgian Pro League 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Kristof Van Hout, BEL, G, 2.08, 110, 09-02-87, Geel, Delhi Dynamos
+2, Mitch Apau, NED, D, 1.80, 75, 27-04-90, Amsterdam, RKC Waalwijk
+3, Filip Daems, BEL, D, 1.81, 79, 31-10-78, Turnhout, B Mönchengladbach
+5, Igor Lolo, CIV, D, 1.79, 68, 22-07-82, Abidjan, FC Rostov
+6, Robin Henkens, BEL, M, 1.73, 68, 12-09-88, Hasselt, Waasland-Beveren
+7, Raphaël Lecomte, FRA, M, 1.79, 77, 22-05-88, Guingamp, Visé
+8, Maxime Annys, BEL, M, 1.86, 78, 24-07-86, Ostend, Hjørring
+9, Kevin Koffi Jean Romaric, CIV, F, 1.75, 75, 25-06-86, Aboisso, Boussu Dour Borinage
+10, Benjamin De Ceulaer, BEL, F, 1.74, 72, 19-12-83, Genk, KRC Genk
+11, Khaleem Hyland, TRI, M, 1.86, 85, 05-06-89, Carenage, KRC Genk
+12, Frédéric Gounongbe, BEL, F, 1.90, 85, 01-05-88, Brussels, RWDM Brussels
+14, Mohammed Aoulad, BEL, M, 1.83, 79, 29-08-91, Brussels, Anderlecht
+15, Gijs Brouwers, BEL, M, 1.80, 70, 21-01-96, , KRC Genk
+16, Jordan Mustoe, ENG, D, 1.80, 75, 28-01-91, Wirral, Accrington Stanley
+17, Kenneth Schuermans, BEL, D, 1.95, 85, 25-05-91, Genk, None
+18, Nils Schouterden, BEL, M, 1.76, 64, 14-12-88, Leuven, Eupen
+19, Arno Verschueren, BEL, M, 1.75, 66, 08-04-97, , OH Leuven
+20, Vajebah Sakor, LBR, M, 1.83, 74, 24-04-96, Monrovia, Juventus
+22, Gilles Ruyssen, BEL, D, 1.86, 85, 18-06-94, , KAA Gent
+23, Jarno Molenberghs, BEL, M, 1.76, 74, 11-12-89, Geel, PSV Eindhoven
+24, Jens Cools, BEL, M, 1.76, 67, 16-10-90, Westerlo, None
+26, Stijn Jeurissen, BEL, G, 1.88, 79, 09-06-97, Genk, None
+27, Julien Vercauteren, BEL, M, 1.70, 66, 12-01-93, Sint-Agatha-Berchem, Nice
+30, Koen Van Langendonck, BEL, G, 1.89, 81, 09-06-89, Neerpelt, Beerschot AC
+44, Hervé Matthys, BEL, D, 1.83, 77, 19-01-96, Brugge, Anderlecht
+90, Eduards Višņakovs, LVA, F, 1.88, 70, 10-05-90, Riga, Ruch Chorzów
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Sherjill MacDonald, NED, F, 1.83, 79, 20-11-84, Amsterdam, Sparta Rotterdam (On Loan)
+27, Faris Handžić, BIH, M, 1.72, 67, 27-05-95, Sarajevo, 
+5, Nikola Petković, SRB, D, 1.85, 78, 28-03-86, Novi Sad, Yanbian Funde
+4, Jore Trompet, BEL, M, 1.80, 70, 30-07-92, Brussels, Eendracht Aalst (On Loan)
+21, Younes Bnou Marzouk, MAR, F, 1.77, 75, 02-03-96, Freyming-Merlebach, Juventus

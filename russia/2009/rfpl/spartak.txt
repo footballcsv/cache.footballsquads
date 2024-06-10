@@ -1,0 +1,67 @@
+=  Spartak Moscow - Russian Football Premier League 2009
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Soslan Dzhanaev, RUS, G, 1.90, 84, 13-03-87, Vladikavkaz, KamAZ
+2, Cristian Maidana, ARG, M, 1.82, 69, 24-01-87, Chaco, Banfield
+3, Martin Stranzl, AUT, D, 1.90, 81, 16-06-80, Güssing, Stuttgart
+4, Malik Fathi, GER, D, 1.85, 85, 29-10-83, Berlin, Hertha Berlin
+5, Rafael Carioca, BRA, M, 1.79, 72, 18-06-89, Rio de Janeiro, Grêmio
+6, Renat Sabitov, RUS, D, 1.85, 81, 13-06-85, Moscow, Saturn
+7, Denis Boyarintsev, RUS, M, 1.74, 71, 06-02-78, Moscow, Shinnik
+10, Ivan Saenko, RUS, F, 1.77, 79, 17-10-83, Maslovka, Nürnberg
+11, Welliton, BRA, F, 1.75, 75, 22-10-86, Conceição do Araguaia, Goiás
+12, Alex, BRA, M, 1.75, 71, 25-03-82, Cornélio Procópio, Internacional
+13, Fedor Kudryashov, RUS, D, 1.83, 80, 05-04-87, Moscow, Spartak Moscow-2
+15, Sergey Parshivlyuk, RUS, D, 1.78, 73, 18-03-89, Moscow, Spartak Moscow-2
+16, Evgeniy Makeev, RUS, M, 1.81, 69, 24-07-89, Cherepovets, Spartak Moscow-2
+17, Serghei Covalciuc, MDA, M, 1.82, 77, 20-01-82, Odessa, Karpaty Lviv
+18, Ibson, BRA, M, 1.77, 74, 07-11-83, Niterói, FC Porto
+20, Ignas Dedura, LTU, D, 1.90, 84, 01-06-78, Kaunas, Skonto
+21, Nikita Bazhenov, RUS, F, 1.79, 76, 01-02-85, Bolshoye Bunkovo, Saturn
+22, Stipe Pletikosa, CRO, G, 1.94, 91, 08-01-79, Split, Shakhtar Donetsk
+24, Vladislav Rizhkov, RUS, M, 1.68, 67, 28-02-90, Voronezh, Spartak Moscow-2
+25, Martin Jiránek, CZE, D, 1.89, 90, 25-05-79, Liberec, Reggina
+26, Anton Khodyrev, RUS, D, 1.79, 67, 26-01-92, Moscow, Spartak Moscow-2
+27, Aleksandr Zotov, RUS, M, 1.72, 64, 27-08-90, Askiz, Spartak Moscow-2
+28, Dmitriy Malyaka, RUS, M, 1.81, 74, 15-01-90, Omsk, Spartak Moscow-2
+30, Maksim Grigoryev, RUS, M, 1.88, 75, 06-07-90, Lipetsk, Spartak Moscow-2
+32, Artemiy Maleev, RUS, M, 1.78, 68, 04-05-91, Omsk, Spartak Moscow-2
+34, Aleksandr Kozlov, RUS, F, 1.70, 70, 19-03-93, Moscow, Spartak Moscow-2
+35, Aleksandr Kozhevnikov, RUS, M, 1.75, 72, 18-04-90, , Spartak Moscow-2
+36, Azamat Dzhioev, RUS, G, 1.93, 79, 06-01-91, Vladikavkaz, Spartak Moscow-2
+37, Yehor Luhachov, UKR, M, 1.84, 73, 24-12-88, Sumy, Dynamo Kiev
+38, Igor Kireyev, RUS, M, 1.78, 67, 17-02-92, Zheleznogorsk, Spartak Moscow-2
+39, Igor Gorbatenko, RUS, M, 1.70, 68, 13-02-89, Belgorod, Krylia Sovetov
+40, Vladimir Obukhov, RUS, F, 1.84, 77, 08-02-92, Bukhara, Spartak Moscow-2
+41, Ivan Komissarov, RUS, G, 1.94, 82, 28-05-88, Moscow, Spartak Moscow-2
+43, Irakli Chezhia, RUS, D, 1.86, 72, 22-05-92, Gali, Spartak Moscow-2
+44, Pavel Yakovlev, RUS, F, 1.80, 69, 07-04-91, Lyubertsy, Spartak Moscow-2
+45, Konstantin Kadeev, RUS, D, 1.87, 71, 17-01-89, , Spartak Moscow-2
+46, Dmitri Khlebosolov, BLR, F, 1.72, 68, 07-10-90, Brest [BLR], Spartak Moscow-2
+48, Filip Ozobić, CRO, M, 1.78, 70, 08-04-91, Bjelovar, Dinamo Zagreb
+49, Jano Ananidze, GEO, M, 1.70, 60, 10-10-92, Kobuleti, Spartak Moscow-2
+50, Artem Fomin, RUS, F, 1.83, 75, 08-07-88, Moscow, Spartak Moscow-2
+51, Dmitriy Kayumov, RUS, M, 1.73, 58, 11-05-92, Reutov, Spartak Moscow-2
+52, Oleg Dineev, RUS, M, 1.81, 73, 30-10-87, Moscow, Spartak Moscow-2
+54, Dmitriy Tumenko, RUS, M, 1.86, 73, 04-05-89, , Spartak Moscow-2
+55, Quincy Owusu-Abeyie, GHA, F, 1.80, 74, 15-04-86, Amsterdam, Arsenal
+56, Marat Khiyasov, RUS, D, 1.78, 68, 26-04-92, , Spartak Moscow-2
+57, Artem Nozdrunov, RUS, F, 1.88, 68, 01-06-92, , Spartak Moscow-2
+58, Egor Filipenko, BLR, D, 1.95, 85, 10-04-88, Minsk, BATE
+60, Sergey Pesyakov, RUS, G, 1.95, 85, 16-12-88, Ivanovo, Shinnik
+81, Eldar Nizamutdinov, RUS, M, 1.73, 72, 31-05-81, Kostroma, FC Khimki
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+53, Mozart, BRA, M, 1.79, 85, 08-11-79, Curitiba, Palmeiras
+47, Maksim Potapov, RUS, D, 1.84, 75, 21-05-91, , CSKA Moscow
+29, Amir Bazhev, RUS, F, 1.77, 76, 15-10-88, Moscow, Salyut-Energia (On Loan)
+33, Ilya Gultyayev, RUS, D, 1.81, 76, 05-09-88, Vologda, Tom
+9, Artem Dzyuba, RUS, F, 1.93, 89, 22-08-88, Moscow, Tom (On Loan)
+19, Artur Maloyan, RUS, M, 1.80, 73, 04-02-89, Krasnodar, Anzhi Makhachkala (On Loan)
+31, Konstantin Sovetkin, RUS, M, 1.69, 61, 19-02-89, Moscow, Anzhi Makhachkala (On Loan)
+14, Clemente Rodríguez, ARG, D, 1.67, 66, 31-07-81, Capital Federal, Estudiantes (LP)
+8, Aleksandr Pavlenko, RUS, M, 1.79, 75, 20-01-85, Ordzhonikidze, FC Rostov (On Loan)
+23, Vladimir Bystrov, RUS, M, 1.78, 69, 31-01-84, Luga, Zenit
+42, Evgeniy Gubin, RUS, G, 1.82, 82, 25-01-89, Moscow, 

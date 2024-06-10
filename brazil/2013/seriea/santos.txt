@@ -1,0 +1,54 @@
+=  Santos - Campeonato Brasileiro Série A 2013
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Aranha, BRA, G, 1.91, 89, 17-11-80, Pouso Alegre, Atlético Mineiro
+, Gabriel Gasparotto, BRA, G, 1.96, 99, 09-12-93, Lucélia, None
+, Vladimir, BRA, G, 1.90, 84, 16-07-89, Ipiaú, None
+, Bruno Peres, BRA, D, 1.78, 72, 01-03-90, São Paulo, Audax-SP
+, Cicinho, BRA, D, 1.68, 60, 25-04-88, Belém, Ponte Preta
+, Douglas, BRA, D, 1.73, 68, 23-06-93, Iuná, None
+, Durval, BRA, D, 1.84, 82, 11-07-80, Espurito Santo, Sport Recife
+, Edu Dracena, BRA, D, 1.87, 80, 18-05-81, Dracena, Fenerbahçe
+, Emerson Palmieri, BRA, D, 1.76, 63, 03-08-94, Santos, None
+, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, None
+, Jubal, BRA, D, 1.90, 79, 29-08-93, Inhuma, Vila Nova
+, Léo, BRA, D, 1.69, 64, 06-07-75, Campos dos Goytacazes, Benfica
+, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Universidad de Chile
+, Neto, BRA, D, 1.95, 94, 16-08-85, Rio de Janeiro, Guarani
+, Rafael Caldeira, BRA, D, 1.91, 84, 11-02-91, Monte Alto, None
+, Rafael Galhardo, BRA, D, 1.76, 70, 30-10-91, Nova Friburgo, Flamengo
+, Walace, BRA, D, 1.91, 90, 25-05-93, São Paulo, None
+, Alan Santos, BRA, M, 1.85, 75, 24-04-91, Salvador, Vitória
+, Alison, BRA, M, 1.80, 70, 01-03-93, Mongaguá, None
+, Arouca, BRA, M, 1.69, 65, 11-08-86, Duas Barras, São Paulo
+, Cícero, BRA, M, 1.80, 72, 26-08-84, Castelo, Tombense
+, Leandrinho, BRA, M, 1.78, 70, 25-09-93, Espinosa, None
+, Léo Cittadini, BRA, M, 1.78, 70, 27-02-94, Rio Claro, Guarani
+, Lucas Otávio, BRA, M, 1.64, 61, 09-10-94, Bandeirantes, None
+, Marcos Assunção, BRA, M, 1.78, 78, 25-07-76, Caieiras, Palmeiras
+, Misael, BRA, M, 1.76, 73, 15-07-94, Três de Maio, Deportivo Maldonado
+, Wálter Montillo, ARG, M, 1.71, 69, 14-04-84, Villa Modelo, Cruzeiro
+, Pedro Castro, BRA, M, 1.80, 77, 05-02-93, Volta Redonda, None
+, Renato, BRA, M, 1.83, 78, 09-06-78, São Paulo, Flamengo
+, Renê Júnior, BRA, M, 1.79, 75, 16-09-89, Rio de Janeiro, Tombense
+, Éverton, BRA, F, 1.81, 71, 06-01-86, Ponta Grossa, Coritiba
+, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, None
+, Geuvânio, BRA, F, 1.75, 62, 05-04-92, Ilha das Flores, None
+, Giva, BRA, F, 1.86, 74, 03-01-93, Cachoeira, None
+, Neilton, BRA, F, 1.66, 57, 17-02-94, Nanuque, None
+, Thiago Ribeiro, BRA, F, 1.85, 74, 24-02-86, Pontes Gestal, Cagliari
+, Victor Andrade, BRA, F, 1.71, 60, 30-09-95, Aracajú, None
+, Willian José, BRA, F, 1.86, 81, 23-11-91, Porto Calvo, Deportivo Maldonado
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, João Pedro, BRA, M, 1.84, 73, 09-03-92, Ipatinga, Desportivo Brasil
+, Neymar, BRA, F, 1.74, 64, 05-02-92, Mogi das Cruzes, Barcelona
+, Paulo Henrique, BRA, D, 1.80, 76, 30-01-93, São Paulo, 
+, Felipe Anderson, BRA, M, 1.78, 66, 15-04-93, Brasília, Lazio
+, Rafael, BRA, G, 1.86, 83, 20-05-90, Sorocaba, Napoli
+, Ezequiel Miralles, ARG, F, 1.72, 72, 21-07-83, Bahía Blanca, Atlante
+, Guilherme, BRA, D, 1.73, 70, 05-02-88, Jequié, Atlético Mineiro
+, Patricio Rodríguez, ARG, M, 1.70, 60, 04-05-90, Quilmes, Estudiantes (LP) (On Loan)
+, Henrique Dourado, BRA, F, 1.86, 79, 15-09-89, Guarulhos, Mirassol

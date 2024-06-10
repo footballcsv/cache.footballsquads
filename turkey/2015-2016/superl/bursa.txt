@@ -1,0 +1,42 @@
+=  Bursaspor - Turkish Süper Lig 2015/16
+
+Number, Namea, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Harun Tekin, TUR, G, 1.87, 78, 17-06-89, Istanbul, Güngören Belediyespor
+3, Emre Taşdemir, TUR, D, 1.80, 70, 08-08-95, Yenimahalle, Ankaragücü
+4, Serdar Aziz, TUR, D, 1.83, 73, 23-10-90, Bursa, None
+5, Bekir Yılmaz, TUR, M, 1.80, 72, 06-03-88, İzmir, Manisaspor
+6, Şamil Çinaz, TUR, M, 1.87, 79, 08-03-86, Nuremburg, Orduspor
+8, Bakaye Traoré, MLI, M, 1.85, 74, 06-03-85, Bondy, Milan
+11, Furkan Soyalp, TUR, M, 1.84, 80, 12-06-95, Ankara, None
+12, Duhan Çağlar Akdağ, TUR, G, , , 17-01-96, Bursa, None
+13, Dany Nounkeu, CMR, D, 1.84, 85, 11-04-86, Yaoundé, Galatasaray
+14, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Parma
+15, Tomáš Necid, CZE, F, 1.90, 81, 13-08-89, Prague, PEC Zwolle
+17, Mert Günok, TUR, G, 1.88, 76, 01-03-89, Safranbolu, Fenerbahçe
+18, Pablo Batalla, ARG, M, 1.70, 65, 16-01-84, Córdoba, Beijing Guoan
+19, Tom De Sutter, BEL, F, 1.92, 88, 03-07-85, Zottegem, Club Brugge
+21, Hajime Hosogai, JPN, M, 1.77, 64, 10-06-86, Gumma, Hertha Berlin
+22, Erdem Özgenç, TUR, D, 1.77, 70, 22-08-84, Sakarya, Karabükspor
+23, Aziz Behich, AUS, M, 1.72, 66, 16-12-90, Moonee Ponds, Melbourne Heart
+25, Okan Koçuk, TUR, G, 1.91, 83, 27-07-95, Bursa, None
+66, Tomáš Sivok, CZE, D, 1.85, 71, 15-09-83, Pelhřimov, Beşiktaş
+68, Jem Karacan, TUR, M, 1.78, 76, 21-02-89, Catford, Galatasaray
+77, Balázs Dzsudzsák, HUN, M, 1.79, 72, 23-12-86, Nyírlugos, Dynamo Moscow
+88, Deniz Yilmaz, GER, F, 1.82, 79, 26-02-88, Munich, Trabzonspor
+89, Miroslav Stoch, SVK, M, 1.68, 64, 19-10-89, Nitra, Fenerbahçe
+90, Kubilay Kanatsızkuş, TUR, F, 1.86, 79, 28-03-97, Bursa, None
+91, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Standard Liège
+97, Mert Örnek, TUR, F, 1.83, 77, 12-02-97, Aydın, None
+99, Sercan Yıldırım, TUR, F, 1.82, 71, 05-04-90, Osmangazi, Galatasaray
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+92, Oğuz Han Aynaoğlu, DEN, M, 1.76, 68, 22-03-92, Farum, Karabükspor (On Loan)
+2, Ertuğrul Ersoy, TUR, D, 1.85, 78, 13-02-97, Gölcük, Rizespor (On Loan)
+28, Sedat Berisha, MKD, D, 1.90, 82, 23-09-89, Skopje, Shkendija
+33, Ozan İpek, TUR, M, 1.87, 85, 10-10-86, Ankara, Antalyaspor
+82, Luis Advíncula, PER, D, 1.77, 75, 02-03-90, Lima, Newell's Old Boys (On Loan)
+10, Josué, POR, M, 1.74, 70, 17-09-90, Ermesinde, FC Porto
+9, Isaac Cuenca, ESP, M, 1.81, 74, 27-04-91, Reus, Granada
+20, Aydın Karabulut, TUR, M, 1.78, 70, 25-01-88, Berlin, Gençlerbirliği

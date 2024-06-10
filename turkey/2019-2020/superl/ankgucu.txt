@@ -1,0 +1,47 @@
+=  Ankaragücü - Turkish Süper Lig 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Korcan Çelikay, TUR, G, 1.94, 86, 31-12-87, Safranbolu, Sivasspor
+3, Sedat Ağçay, TUR, M, 1.76, 72, 22-09-81, Bulanik, Yeni Malatyaspor
+4, Mehmet Sak, TUR, D, 1.78, 69, 04-04-90, Konak, Yeni Malatyaspor
+5, Alihan Kubalas, TUR, D, 1.85, 78, 26-10-91, Şişli, İstanbulspor
+6, Kaan Uykur, TUR, D, 1.88, 80, 18-07-98, Eskişehir, None
+7, Ezequiel Scarione, ARG, M, 1.79, 76, 14-07-85, José Clemente Paz, Göztepe
+8, Tiago Pinto, POR, D, 1.77, 75, 01-02-88, Porto, Osmanlıspor
+9, Gerson Rodrigues, LUX, F, 1.82, 81, 20-06-95, Pragal, Dynamo Kyiv
+10, Héctor Canteros, ARG, M, 1.76, 73, 15-03-89, Capital Federal, Flamengo
+11, Mahmut Akan, TUR, D, 1.81, 75, 14-07-94, Ankara, Karabükspor
+12, Dever Orgill, JAM, F, 1.83, 68, 08-03-90, Port Antonio, Wolfsberger AC
+13, Ante Kulušić, CRO, D, 1.89, 85, 06-06-86, Šibenik, Sheriff Tiraspol
+14, Ricardo Faty, SEN, M, 1.92, 81, 04-08-86, Villeneuve-St-Georges, Bursaspor
+15, Orkan Çınar, TUR, M, 1.75, 67, 29-01-96, Dortmund, Beşiktaş
+17, Ender Aygören, TUR, M, 1.76, 71, 16-06-00, Uşak, None
+18, Konrad Michalak, POL, M, 1.74, 61, 19-09-97, Szprotawa, Akhmat Grozny
+19, Cebrail Karayel, TUR, D, 1.76, 70, 15-08-94, Sungurlu, Şanlıurfaspor
+20, Aydın Karabulut, TUR, M, 1.78, 70, 25-01-88, Berlin, Sivasspor
+21, Wilfred Moke, COD, D, 1.83, 76, 12-02-88, Kinshasa, Konyaspor
+22, Michał Pazdan, POL, D, 1.80, 76, 21-09-87, Kraków, Legia Warszawa
+23, İlhan Parlak, TUR, F, 1.81, 75, 18-01-87, Yahyali, Gaziantepspor
+24, Saba Lobzhanidze, GEO, M, 1.75, 67, 18-12-94, Tbilisi, Randers
+25, Ricardo Friedrich, BRA, G, 1.88, 83, 18-02-93, Candelária, Bodø/Glimt
+29, Oğuzhan Orhan, TUR, M, , , 22-09-98, Altındağ, None
+30, Gelmin Rivas, VEN, F, 1.82, 84, 23-03-89, Cumaná, Boston River
+35, Daniel Łukasik, POL, M, 1.80, 75, 28-04-91, Giżycko, Lechia Gdańsk
+44, Alperen Kuyubaşı, TUR, D, , , 26-05-00, Altındağ, None
+55, Miloš Stanojević, SRB, M, 1.89, 73, 20-11-93, Valjevo, Sarajevo
+70, Stelios Kitsiou, GRE, D, 1.76, 75, 28-09-93, Thessaloniki, PAOK
+74, Mert Aydeniz, TUR, M, , , 30-06-98, Bartın, None
+78, Fatih Tultak, TUR, D, , , 28-02-01, Tarsus, Karabükspor
+80, Berke Gürbüz, TUR, M, 1.73, 68, 27-01-03, Gölbaşı, None
+89, Atila Turan, FRA, D, 1.76, 79, 10-04-92, Cheny, Kayserispor
+95, Zaur Sadaev, RUS, F, 1.82, 78, 06-11-89, Shali, Akhmat Grozny
+98, Yiğit Kafkasyalı, TUR, G, , , 13-06-98, Keçiören, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Hasan Kaya, TUR, F, , , 10-11-95, Hamburg, 24 Erzincanspor (On Loan)
+2, Yalçın Ayhan, TUR, D, 1.92, 82, 01-05-82, Şişli, Fatih Karagümrük
+27, Ahmet Can Arık, TUR, M, , , 22-08-97, Sincan, Çankaya (On Loan)
+45, Alper Önal, TUR, F, , , 06-01-96, Manisa, Başkent Akademi (On Loan)
+99, Furkan Bekleviç, TUR, G, 1.89, 82, 31-01-99, Çubuk, Turgutluspor (On Loan)

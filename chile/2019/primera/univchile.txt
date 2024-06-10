@@ -1,0 +1,41 @@
+=  Universidad de Chile - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Fernando De Paul, ARG, G, 1.83, 84, 25-04-91, Álvarez, San Luis de Quillota
+2, Lucas Aveldaño, ARG, D, 1.85, 83, 19-07-85, Rafaela, Tenerife
+3, Diego Carrasco, CHI, D, 1.76, 72, 25-05-95, Coquimbo, Coquimbo Unido
+4, Osvaldo González, CHI, D, 1.82, 78, 10-08-84, Concepción, Toluca
+6, Matías Rodríguez, ARG, D, 1.78, 76, 14-04-86, San Luis, Sampdoria
+7, Leandro Benegas, ARG, F, 1.79, 78, 27-08-88, Godoy Cruz, Unión La Calera
+8, Augusto Barrios, CHI, D, 1.78, 74, 03-10-91, Arica, Deportes Antofagasta
+9, Ángelo Henríquez, CHI, F, 1.80, 77, 13-04-94, Santiago, Atlas
+10, Nicolás Oroz, ARG, M, 1.73, 74, 01-04-94, Villa Mercedes, Racing Club
+11, Sebastián Ubilla, CHI, F, 1.72, 64, 09-08-90, Quilpué, Al-Shabab
+12, Cristóbal Campos, CHI, G, 1.87, 82, 27-08-99, Lonquén, None
+13, Camilo Moya, CHI, M, 1.69, 65, 19-02-98, Santiago, None
+14, Pablo Parra, CHI, M, 1.76, 70, 23-07-94, Chillán, Cobreloa
+15, Jean Beausejour, CHI, D, 1.79, 80, 01-06-84, Santiago, Colo-Colo
+16, Lucas Alarcón, CHI, D, 1.83, 82, 05-03-00, Santiago, None
+17, Rafael Caroca, CHI, M, 1.70, 67, 19-07-89, Curicó, Deportes Iquique
+18, Matías Campos López, CHI, F, 1.78, 81, 18-08-91, Puente Alto, Palestino
+19, Nicolás Guerra, CHI, F, 1.76, 76, 09-01-99, Valparaíso​, None
+20, Rodrigo Echeverria, CHI, D, 1.81, 73, 17-04-95, Santiago, None
+21, Gonzalo Espinoza, CHI, M, 1.78, 79, 09-04-90, Constitución, Kayserispor
+22, Leonardo Fernández, URU, M, 1.66, 62, 08-11-98, Montevideo, UANL Tigres
+23, Marcos Riquelme, ARG, F, 1.79, 60, 18-02-88, Derqui, Bolívar
+25, Johnny Herrera, CHI, G, 1.83, 78, 09-05-81, Angol, Audax Italiano
+26, Daniel Navarrete, CHI, M, , , 17-04-01, , None
+29, Gonzalo Collao, CHI, G, 1.91, 93, 09-09-97, Coquimbo, None
+30, Jimmy Martínez, CHI, M, 1.75, 71, 26-01-97, Talcahuano, Huachipato
+32, Mauricio Morales, CHI, M, 1.69, 69, 07-01-00, Pichidangui, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Sergio Vittor, ARG, D, 1.89, 86, 09-06-89, Villa Elisa, Racing Club
+22, Matías Campos Toro, CHI, D, 1.75, 70, 22-06-89, Santiago, Santiago Wanderers (On Loan)
+30, Yerko Leiva, CHI, M, 1.66, 63, 14-06-98, Chillán, Unión La Calera
+4, Jimmy Martínez, CHI, M, 1.75, 71, 26-01-97, Talcahuano, Re-Registered (30)
+23, Gabriel Torres, PAN, F, 1.80, 72, 13-10-88, Ciudad de Panamá, Independiente del Valle (On Loan)
+24, Iván Rozas, CHI, M, 1.78, 80, 01-07-98, Temuco, Ñublense (On Loan)
+28, Francisco Arancibia, CHI, F, 1.70, 62, 12-11-96, Rancagua, São Bento (On Loan)

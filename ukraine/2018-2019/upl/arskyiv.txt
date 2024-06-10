@@ -1,0 +1,58 @@
+=  Arsenal Kyiv - Ukrainian Premier League 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Oleksandr Osman, UKR, D, 1.69, 60, 18-04-96, Kharkiv, Dynamo Kyiv-2
+4, Stefan Jevtoski, MKD, M, 1.80, 73, 02-09-97, Skopje, Varaždin
+6, Andriy Stryzhak, UKR, M, 1.87, 82, 22-10-99, , Shakhtar Donetsk-2
+7, Gegham Kadymyan, ARM, F, 1.83, 81, 19-10-92, Artashat, Vorskla Poltava
+8, Serhiy Semenyuk, UKR, D, 1.78, 72, 27-01-91, Iziaslav, FC Poltava
+9, Andriy Dombrovskyy, UKR, M, 1.72, 65, 12-08-95, Kyiv, Illichivets Mariupol
+10, Denys Balanyuk, UKR, F, 1.78, 70, 16-01-97, Odessa, Wisła Kraków
+11, Jaba Lipartia, GEO, F, 1.74, 68, 16-11-87, Tbilisi, Samtredia
+12, Orest Budyuk, UKR, G, 1.92, 78, 18-05-95, Ratne, Cherkaskyi Dnipro
+13, Yuriy Vakulko, UKR, M, 1.74, 63, 10-11-97, Odessa, Partizan Belgrade
+16, Pavlo Orikhovskyy, UKR, M, 1.81, 68, 13-05-96, Chervonoarmiisk, Dynamo Kyiv
+19, Oleksandr Kovpak, UKR, F, 1.80, 69, 02-02-83, Smela, Desna Chernihiv
+20, Dmytro Bashlay, UKR, M, 1.83, 77, 25-04-90, Kyiv, Dnipro-1
+21, Vladyslav Kalitvintsev, UKR, M, 1.78, 65, 04-01-93, Moscow, Dynamo Kyiv
+22, Volodymyr Doronin, UKR, M, 1.79, 75, 15-01-93, Donetsk, Olimpik Donetsk
+23, Vyacheslav Tankovskyy, UKR, M, 1.68, 64, 16-08-95, Novomoskovsk, Shakhtar Donetsk
+27, Gaëtan Missi Mezu, GAB, F, 1.82, 74, 04-05-96, Villeneuve-d'Ascq, Dunarea Calarasi
+29, Maksym Zhychykov, UKR, D, 1.78, 70, 07-11-92, Krasnopavlivka, KPV Kokkola
+33, Dmytro Ivanov, UKR, G, 1.90, 85, 30-09-89, Kyiv, Nyva Ternopil
+44, Danylo Sahutkin, UKR, D, 1.94, 88, 19-04-96, Sevastopol, Shakhtar Donetsk-2
+59, Artem Kozak, UKR, M, 1.80, 71, 28-05-98, Kovel, PAOK
+74, Vladyslav Dubinchak, UKR, D, 1.73, 64, 01-07-98, Tomashpil, Dynamo Kyiv-2
+77, Roman Pidkivka, UKR, G, 1.90, 85, 09-05-95, Lviv, Karpaty Lviv
+79, Serhiy Vakulenko, UKR, D, 1.82, 69, 07-09-93, Kharkiv, Shakhtar Donetsk-2
+91, Mykhaylo Mudryk, UKR, M, 1.75, 61, 05-01-01, Krasnohrad, Shakhtar Donetsk-2
+94, Alireza Akbari, IRN, M, , , 02-03-94, , 
+96, Peyman Salehiserwak, IRN, G, , , 09-05-96, , 
+98, Vladyslav Alekseev, UKR, F, 1.82, 72, 29-04-98, Nizhyn, Dynamo Kyiv-2
+99, Denys Yanakov, UKR, F, 1.75, 66, 01-01-99, Zaporizhya, Dynamo Kyiv-2
+, Artur Avahimyan, UKR, F, 1.72, 63, 16-01-97, Mariupol, FC Mariupol
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Vadym Semchuk, UKR, F, 1.82, 69, 24-11-93, Zhytomyr, Polissya Zhytomyr
+18, Ruslan Chernenko, UKR, M, 1.74, 70, 29-09-92, , Ahrobiznes Volochysk
+21, Ivan Borna Jelić Balta, CRO, D, 1.96, 85, 17-09-92, Zagrev, 
+5, Marko Nikolić, SRB, D, 1.83, 73, 31-03-98, Belgrade, 
+27, Maksym Pryadun, UKR, F, 1.76, 74, 17-02-97, Kirovohrad, 
+77, Oleksandr Yermachenko, UKR, F, 1.69, 62, 29-01-93, Zhdeniyevo, 
+79, Leonid Akulinin, UKR, F, 1.94, 82, 07-03-93, Donetsk, 
+88, Dmytro Zozulya, UKR, D, 1.89, 80, 09-06-88, Kyiv, 
+7, Serhiy Hryn, UKR, F, 1.80, 76, 06-06-94, Volnovakha, Shakhtar Donetsk
+31, Serhiy Sitalo, UKR, G, 1.90, 87, 20-12-86, Kharkiv, Kolos Kovalivka
+32, Serhiy Datsenko, UKR, D, 1.87, 80, 06-09-87, Kyiv, Retired
+75, Danylo Karas, UKR, D, 1.86, 79, 02-01-97, Osypenko, Hércules B
+78, Curtis Yebli, FRA, M, 1.80, 72, 30-03-97, Évry, 
+91, Aurélien Ngeyitala, COD, M, 1.85, 70, 29-05-94, Évry, 
+21, Oleksiy Larin, UKR, D, 1.85, 77, 04-06-94, Dnipropetrovsk, Istiklol
+24, Óscar Piris, ARG, D, 1.85, 85, 06-06-89, Formosa, Torque
+20, Serge Akakpo, TOG, D, 1.78, 71, 15-10-87, Lomé, Elazığspor
+3, Oleksiy Maydanevych, UKR, D, 1.83, 74, 18-07-91, Kyiv, 
+17, Yuriy Bushman, UKR, M, 1.80, 79, 14-05-90, Kyiv, Kauno Žalgiris
+30, Maksym Feshchuk, UKR, F, 1.83, 74, 25-11-85, Brody, Vitebsk
+23, Oleksandr Nasonov, UKR, D, 1.78, 67, 28-04-92, Kyiv, FC Lviv

@@ -1,0 +1,71 @@
+=  Arsenal - English Premier League 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Wojciech Szczęsny, POL, G, 1.95, 84, 18-04-90, Warsaw, Legia Warszawa
+2, Abou Diaby, FRA, M, 1.88, 75, 11-05-86, Paris, Auxerre
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Auxerre
+4, Per Mertesacker, GER, D, 1.98, 90, 29-09-84, Hannover, Werder Bremen
+5, Thomas Vermaelen, BEL, D, 1.82, 75, 14-11-85, Kapellen, Ajax
+6, Laurent Koscielny, FRA, D, 1.86, 75, 10-09-85, Tulle, Lorient
+7, Tomáš Rosický, CZE, M, 1.78, 67, 04-10-80, Prague, Borussia Dortmund
+8, Mikel Arteta, ESP, M, 1.75, 69, 26-03-82, San Sebastián, Everton
+9, Lukas Podolski, GER, F, 1.82, 83, 04-06-85, Gliwice, Köln
+10, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, None
+12, Olivier Giroud, FRA, F, 1.92, 88, 30-09-86, Chambéry, Montpellier
+14, Theo Walcott, ENG, F, 1.75, 68, 16-03-89, Stanmore, Southampton
+15, Alex Oxlade-Chamberlain, ENG, M, 1.80, 70, 15-08-93, Portsmouth, Southampton
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+17, Nacho Monreal, ESP, D, 1.78, 72, 26-02-86, Pamplona, Málaga
+18, Sébastien Squillaci, FRA, D, 1.84, 76, 11-08-80, Toulon, Sevilla
+19, Santi Cazorla, ESP, M, 1.68, 66, 13-12-84, Lugo de Llanera, Málaga
+21, Łukasz Fabiański, POL, G, 1.90, 84, 18-04-85, Kostrzyn nad Odrą, Legia Warszawa
+22, Francis Coquelin, FRA, M, 1.78, 73, 13-05-91, Laval, Laval
+23, Andrey Arshavin, RUS, M, 1.72, 71, 29-05-81, St. Petersburg, Zenit St Petersburg
+24, Vito Mannone, ITA, G, 1.94, 73, 02-03-88, Desio, Atalanta
+25, Carl Jenkinson, ENG, D, 1.85, 77, 08-02-92, Buckhurst Hill, Charlton Ath
+27, Kouassi Gervais "Gervinho" Yao, CIV, F, 1.79, 68, 27-05-87, Anyama, Lille
+28, Kieran Gibbs, ENG, D, 1.80, 70, 26-09-89, Lambeth, None
+36, Emiliano Martínez, ARG, G, 1.93, 85, 02-09-92, Mar del Plata, Independiente
+38, Martin Angha, SUI, D, 1.88, 81, 22-01-94, Zürich, Zürich
+39, Zak Ansah, ENG, F, 1.79, 70, 04-05-94, Sidcup, None
+40, Héctor Bellerín, ESP, D, 1.77, 74, 19-03-95, Barcelona, Barcelona
+41, Samir Bihmoutine, ENG, D, 1.85, 76, 08-12-93, Newham, None
+42, Daniel Boateng, ENG, D, 1.83, 78, 02-09-92, Enfield, None
+43, Reice Charles-Cook, ENG, G, 1.85, 80, 08-04-94, Lewisham, None
+44, Craig Eastmond, ENG, D, 1.83, 75, 09-12-90, Wandsworth, None
+45, Kyle Ebecilio, NED, M, 1.80, 77, 17-02-94, Rotterdam, Feyenoord
+46, Thomas Eisfeld, GER, M, 1.77, 65, 18-01-93, Finsterwalde, Borussia Dortmund
+47, Serge Gnabry, GER, M, 1.73, 73, 14-07-95, Stuttgart, Stuttgart
+48, Sead Hajrovic, SUI, D, 1.83, 80, 04-06-93, Brugg, Grasshoppers
+49, Isaac Hayden, ENG, D, 1.87, 79, 22-03-95, Chelmsford, None
+50, Conor Henderson, IRL, M, 1.85, 76, 08-09-91, Sidcup, None
+51, Benik Afobe, ENG, F, 1.79, 70, 12-02-93, Leyton, None
+53, Jernade Meade, ENG, M, 1.73, 74, 25-10-92, Luton, None
+54, Ignasi Miquel, ESP, D, 1.93, 85, 28-09-92, Barcelona, Cornellà
+55, Elton Monteiro, SUI, D, 1.92, 85, 22-02-94, Sion, Sion
+56, Nigel Neita, ENG, F, 1.81, 75, 23-12-93, Southwark, Millwall
+57, Kristoffer Olsson, SWE, M, 1.78, 70, 30-06-95, Vrinnevi, IFK Norrköping
+58, Josh Rees, ENG, M, 1.75, 70, 04-10-93, Hemel Hempstead, None
+60, James Shea, ENG, G, 1.80, 76, 16-06-91, Islington, None
+61, Jon Toral, ESP, M, 1.84, 80, 05-02-95, Reus, Barcelona
+62, Sanchez Watt, ENG, M, 1.80, 76, 14-02-91, Hackney, None
+63, Jordan Wynter, ENG, M, 1.86, 77, 24-11-93, Goodmayes, None
+64, Nico Yennaris, ENG, D, 1.70, 65, 23-05-93, Leytonstone, None
+65, Jack Jebb, ENG, M, 1.82, 74, 11-09-95, Kensington, None
+66, Austin Lipman, ENG, F, , , 20-09-95, Leytonstone, None
+67, Chuba Akpom, ENG, F, 1.83, 77, 09-10-95, Newham, None
+68, Dejan Iliev, MKD, G, 1.95, 87, 25-02-95, Strumica, Belasica
+71, Brandon Ormonde-Ottewill, ENG, D, 1.76, 61, 21-12-95, Sutton, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Alexandre Song, CMR, M, 1.84, 76, 09-09-87, Douala, Barcelona
+59, Phil Roberts, ENG, F, 1.78, 71, 07-04-94, Newham, Inverness CT (On Loan)
+30, Park Chu-Young, KOR, F, 1.82, 75, 10-07-85, Daegu, Celta Vigo (On Loan)
+52, Nicklas Bendtner, DEN, F, 1.92, 83, 16-01-88, Copenhagen, Juventus (On Loan)
+29, Marouane Chamakh, MAR, F, 1.85, 70, 10-01-84, Tonnens, West Ham U (On Loan)
+20, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Hannover 96 (On Loan)
+26, Emmanuel Frimpong, GHA, M, 1.83, 83, 10-01-92, Accra, Fulham (On Loan)
+34, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Crewe Alex (On Loan)
+11, André Santos, BRA, D, 1.79, 76, 08-03-83, São Paulo, Grêmio (On Loan)

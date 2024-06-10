@@ -1,0 +1,55 @@
+=  SPAL - Italian Serie A 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+4, Thiago Rangel Cionek, POL, D, 1.83, 80, 21-04-86, Curitiba, Palermo
+6, Mirko Valdifiori, ITA, M, 1.85, 71, 21-04-86, Lugo, Napoli
+7, Simone Missiroli, ITA, M, 1.91, 77, 23-05-86, Reggio Calabria, Sassuolo
+8, Mattia Valoti, ITA, M, 1.87, 73, 06-09-93, Vicenza, Verona
+10, Sergio Floccari, ITA, F, 1.80, 79, 12-11-81, Vibo Valentia, Bologna
+11, Alessandro Murgia, ITA, M, 1.85, 78, 09-08-96, Rome, Lazio
+13, Arkadiusz Reca, POL, M, 1.87, 81, 17-06-95, Chojnice, Atalanta
+14, Bryan Dabo, FRA, M, 1.85, 75, 18-02-92, Marseille, Fiorentina
+19, Lucas Castro, ARG, M, 1.82, 76, 09-04-89, La Plata, Cagliari
+21, Gabriel Strefezza, BRA, F, 1.68, 63, 18-04-97, São Paulo, Corinthians
+22, Demba Thiam, SEN, G, 2.02, 87, 09-03-98, Dakar, None
+23, Francesco Vicari, ITA, D, 1.90, 80, 03-08-94, Rome, Novara
+25, Karlo Letica, CRO, G, 2.01, 90, 11-02-97, Split, Club Brugge
+26, Jacopo Sala, ITA, D, 1.81, 75, 05-12-91, Alzano Lombardo, Sampdoria
+27, Felipe, BRA, D, 1.87, 80, 31-07-84, Guaratingueta, Udinese
+31, Federico Di Francesco, ITA, F, 1.71, 75, 14-06-94, Pisa, Sassuolo
+32, Alberto Cerri, ITA, F, 1.93, 91, 16-04-96, Parma, Cagliari
+37, Andrea Petagna, ITA, F, 1.88, 85, 30-06-95, Trieste, Napoli
+40, Nenad Tomović, SRB, D, 1.84, 81, 30-08-87, Kragujevac, Chievo Verona
+41, Kevin Bonifazi, ITA, D, 1.87, 70, 19-05-96, Rieti, Torino
+65, Marco Meneghetti, ITA, G, 1.88, 70, 01-06-01, Pordenone, Pordenone
+66, Bartosz Salamon, POL, D, 1.96, 89, 01-05-91, Poznań, Cagliari
+67, Paolo Cannistrà, ITA, D, 1.76, 82, 03-11-00, Chiaravalle Centrale, Catanzaro
+72, Ricardo Farcaș, ROU, M, 1.85, 73, 24-06-00, Oradea, Ajax
+77, Marco D'Alessandro, ITA, F, 1.73, 66, 17-02-91, Rome, Atalanta
+80, Elion Minaj, ALB, F, 1.79, 65, 16-09-01, , None
+87, Ervin Zukanović, BIH, D, 1.90, 85, 11-02-87, Sarajevo, Al-Ahli [KSA]
+88, Abdoul Aziz Sare, ITA, M, 1.70, 62, 29-10-01, Forlì, None
+89, Jakub Iskra, POL, D, 1.83, 71, 13-08-02, Gryfino, Pogoń Szczecin
+90, Krisztofer Horváth, HUN, M, 1.72, 63, 08-01-02, Hévíz, Zalaegerszeg
+91, Altin Kryeziu, SVN, M, 1.83, 70, 03-01-02, Kranj, Triglav Kranj
+92, Cesare Galeotti, ITA, G, 1.83, 70, 02-11-02, Ferrara, None
+93, Mohamed Fares, ALG, D, 1.83, 75, 15-02-96, Aubervilliers, Verona
+94, Jaume Cuéllar, BOL, F, 1.73, 59, 23-08-01, Granollers, Barcelona
+96, Georgi Tunjov, EST, M, 1.84, 71, 17-04-01, Narva, Narva Trans
+97, Federico Zanchetta, ITA, M, 1.71, 64, 23-03-02, Biella, Juventus
+98, Riccardo Mastrilli, ITA, D, 1.85, 77, 30-05-97, Giulianova, Gozzano
+99, Etrit Berisha, ALB, G, 1.94, 92, 10-03-89, Priština, Atalanta
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Lorenzo Dickmann, ITA, D, 1.77, 70, 24-09-96, Milan, Chievo Verona (On Loan)
+92, Federico Viviani, ITA, M, 1.80, 75, 24-03-92, Lecco, Livorno (On Loan)
+81, Alessandro Pasqualino, ITA, D, 1.80, 65, 04-06-02, Locri, Sorrento
+94, Altin Kryeziu, SVN, M, 1.83, 70, 03-01-02, Kranj, Re-Registered (91)
+9, Gabriele Moncini, ITA, F, 1.83, 79, 26-04-96, Pistoia, Benevento
+98, Shaka Mawuli, GHA, M, 1.85, 72, 16-05-98, Sunyani, Ravenna
+19, Jasmin Kurtić, SVN, M, 1.86, 88, 10-01-89, Črnomelj, Parma (On Loan)
+3, Igor, BRA, D, 1.85, 84, 07-02-98, Bom Sucesso, Fiorentina (On Loan)
+43, Alberto Paloschi, ITA, F, 1.82, 82, 04-01-90, Chiari, Cagliari (On Loan)
+95, Marko Janković, MNE, F, 1.72, 67, 09-07-95, Cetinje, Crotone (On Loan)

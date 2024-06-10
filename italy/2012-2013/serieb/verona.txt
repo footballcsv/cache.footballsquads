@@ -1,0 +1,48 @@
+=  Verona - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Rafael, ITA, G, 1.87, 80, 03-03-82, São Paulo, São Bento
+2, Tony Huston, FRA, D, 1.85, 73, 27-01-93, Aubervilliers, Le Mans
+3, Michelangelo Albertazzi, ITA, D, 1.85, 73, 07-01-91, Bologna, Milan
+4, Simon Laner, ITA, M, 1.82, 75, 28-01-84, Merano, AlbinoLeffe
+5, Luca Ceccarelli, ITA, D, 1.85, 77, 20-03-83, Massa, Internazionale
+6, Raphael Martinho, BRA, M, 1.83, 73, 22-01-88, Campo Grande, Catania
+7, Emanuel Rivas, ARG, F, 1.75, 64, 17-03-83, Quilmes, Varese
+8, Daniele Cacia, ITA, F, 1.82, 74, 23-08-83, Catanzaro, Lecce
+9, Nicola Ferrari, ITA, F, 1.83, 73, 15-07-83, Condino, Pergocrema
+10, Emil Hallfreðsson, ISL, M, 1.86, 79, 26-06-84, Reykjavík, Reggina
+12, Nícolas, BRA, G, 1.90, 85, 12-04-88, Colorado do Oeste, Atlético Mineiro
+13, Alessandro Sgrigna, ITA, F, 1.79, 71, 24-04-80, Rome, Torino
+14, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Internazionale
+15, César Verdun, PAR, F, 1.75, 70, 31-12-93, Capiatá, Palermo
+16, Matti Lund Nielsen, DEN, M, 1.84, 74, 08-05-88, Odense, Pescara
+17, Alessandro Carrozza, ITA, M, 1.74, 73, 01-02-82, Gallipoli, Varese
+18, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larisa, Cesena
+19, Jorginho, ITA, M, 1.80, 65, 21-12-91, Imbituba, None
+20, Domenico Maietta, ITA, D, 1.85, 77, 03-08-82, Cariati, Frosinone
+21, Juan Ignacio Gómez, ARG, F, 1.80, 75, 20-05-85, Santa Fe, Bellaria
+22, Simon Sluga, CRO, G, 1.91, 78, 17-03-93, Rijeka, Rijeka
+23, Andrea Cocco, ITA, F, 1.82, 75, 08-04-86, Cagliari, Cagliari
+24, Armin Bačinović, SVN, M, 1.82, 78, 24-10-89, Maribor, Palermo
+25, José Ángel Crespo, ESP, D, 1.83, 72, 09-02-87, Seville, Bologna
+26, Pasquale De Vita, ITA, F, 1.76, 67, 03-03-94, Naples, Atalanta
+27, Giuseppe Pugliese, ITA, D, 1.78, 75, 04-11-83, Bari, Monopoli
+28, Oscar Arzamendia, PAR, M, 1.74, 70, 26-05-94, Itauguá, Palermo
+29, Fabrizio Cacciatore, ITA, D, 1.80, 70, 08-10-86, Turin, Sampdoria
+30, Alessandro Agostini, ITA, D, 1.74, 66, 23-07-79, Vinci, Torino
+31, Derrick Owusu, GHA, M, 1.81, , 21-01-94, Kumasi, Juventus
+32, Carlo Calvetti, ITA, M, 1.78, 70, 03-02-94, Verona, Milan
+33, Alessandro Berardi, ITA, G, 1.73, 70, 16-01-91, Rome, Lazio
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Emanuele Berrettoni, ITA, F, 1.75, 70, 17-05-81, Rome, Bassano (On Loan)
+29, Dino Martinovič, SVN, M, , , 20-07-90, , AlbinoLeffe (On Loan)
+11, Saša Bjelanović, CRO, F, 1.88, 80, 11-06-79, Zadar, CFR Cluj
+13, Matteo Abbate, ITA, D, 1.84, 77, 21-08-83, Orbetello, Pro Vercelli (On Loan)
+14, Simone Calvano, ITA, M, 1.83, 75, 11-07-93, Milan, San Marino (On Loan)
+30, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Sporting CP
+9, Paolo Grossi, ITA, M, 1.80, 73, 29-05-85, Milan, Pro Vercelli (On Loan)
+16, Daniele Ragatzu, ITA, F, 1.72, 70, 21-09-91, Cagliari, Pro Vercelli (On Loan)
+26, Ivan Fatić, MNE, D, 1.88, 83, 21-08-88, Pljevlja, Chievo Verona

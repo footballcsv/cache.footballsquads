@@ -1,0 +1,39 @@
+=  Port Vale - English Football League Two 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Scott Brown, ENG, G, 1.84, 96, 26-04-85, Wolverhampton, Wycombe W
+2, James Gibbons, ENG, D, 1.74, 62, 16-03-98, Stoke-on-Trent, None
+3, Adam Crookes, ENG, D, 1.82, 77, 18-11-97, Lincoln, Nottingham F
+4, Luke Joyce, ENG, M, 1.81, 76, 09-07-87, Bolton, Carlisle U
+5, Leon Legge, ENG, D, 1.85, 80, 28-04-85, Hastings, Cambridge U
+6, Kieran Kennedy, ENG, D, 1.83, 70, 23-09-93, Urmston, Wrexham
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, Millwall
+8, Emmanuel Oyeleke, ENG, M, 1.75, 75, 24-12-92, Wandsworth, Aldershot T
+9, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Bury
+10, Tom Conlon, ENG, M, 1.73, 62, 03-02-96, Stoke-on-Trent, Stevenage
+11, Cristian Montaño, COL, M, 1.80, 76, 11-12-91, Cali, Bristol R
+12, Will Atkinson, ENG, M, 1.78, 67, 14-10-88, Beverley, Mansfield T
+13, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Blackpool
+14, Danny Pugh, ENG, M, 1.83, 76, 19-10-82, Manchester, Blackpool
+15, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+16, Jake Taylor, ENG, M, 1.78, 77, 07-09-98, Manchester, Nottingham F
+17, Rhys Browne, ATG, M, 1.77, 80, 16-11-95, Romford, Yeovil T
+18, Callum Evans, ENG, D, 1.77, 72, 11-10-95, Bristol, Macclesfield T
+19, David Amoo, ENG, M, 1.78, 77, 13-04-91, Southwark, Cambridge U
+20, Scott Burgess, ENG, M, 1.77, 70, 27-06-96, Warrington, Bury
+22, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, Macclesfield T
+23, Ryan Campbell-Gordon, ENG, D, 1.78, 75, 02-05-01, Nottingham, None
+24, Mitchell Clark, WAL, D, 1.73, 68, 13-03-99, Nuneaton, Leicester C
+25, Daniel Trickett-Smith, ENG, M, 1.75, 65, 08-09-95, Newcastle-under-Lyme, Leek T
+27, Alex Hurst, ENG, M, 1.73, 70, 06-10-99, Stoke-on-Trent, Bradford PA
+28, Shaun Brisley, ENG, D, 1.88, 77, 06-05-90, Macclesfield, Notts Co
+29, Jordan Archer, ENG, F, 1.90, 83, 11-11-93, Bedworth, Bury
+30, Johnny Maddison, ENG, G, 1.83, 76, 04-09-94, Chester-le-Street, Darlington
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+12, Connell Rawlinson, WAL, D, 1.85, 86, 22-09-91, Chester, Notts Co
+24, Joe Berks, ENG, M, , , 14-01-00, Stafford, Stafford Rangers
+26, Lucas Green-Birch, ENG, M, , , 29-01-01, Stafford, Market Drayton T
+21, Richard Bennett, ENG, F, 1.93, 90, 03-03-91, Oldham, Stockport Co

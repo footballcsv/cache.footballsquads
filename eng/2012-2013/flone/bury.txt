@@ -1,0 +1,54 @@
+=  Bury - English Football League One 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Trevor Carson, NIR, G, 1.83, 80, 05-03-88, Downpatrick, Sunderland
+2, Phil Picken, ENG, D, 1.75, 67, 12-11-85, Manchester, Chesterfield
+3, Joe Skarz, ENG, D, 1.83, 74, 13-07-89, Huddersfield, Huddersfield T
+4, Shane Byrne, IRL, M, 1.78, 77, 25-04-93, Dublin, Leicester C
+5, Adam Lockwood, ENG, D, 1.83, 76, 26-10-81, Wakefield, Doncaster R
+6, Ashley Eastham, ENG, D, 1.91, 79, 22-03-91, Preston, Blackpool
+7, David Worrall, ENG, M, 1.83, 71, 12-06-90, Manchester, WBA
+8, Steven Schumacher, ENG, M, 1.83, 73, 30-04-84, Liverpool, Crewe Alex
+9, Craig Jones, ENG, M, 1.70, 70, 20-03-87, Chester, TNS
+10, Andy Bishop, ENG, F, 1.83, 68, 19-10-82, Stone, York C
+11, Marcus Marshall, ENG, F, 1.78, 73, 07-10-89, Hammersmith, Rotherham U
+13, Mark Carrington, ENG, M, 1.83, 70, 04-05-87, Warrington, Hamilton Academical
+15, Nicky Ajose, ENG, F, 1.80, 78, 07-10-91, Bury, Peterborough U
+16, Efetobore Sodje, NGA, D, 1.85, 76, 05-10-72, Greenwich, Gillingham
+17, Mark Hughes, ENG, D, 1.85, 83, 09-12-86, Liverpool, North Queensland Fury
+18, Max Harrop, ENG, M, 1.73, 58, 30-06-93, Oldham, None
+19, Carl Regan, ENG, D, 1.83, 72, 09-09-80, Liverpool, Notts Co
+20, Christian Dibble, WAL, G, 1.90, 88, 11-05-94, Wilmslow, None
+21, Euan Holden, USA, D, 1.85, 77, 02-02-88, Aberdeen, Stockport Co
+22, Jordan Melia, ENG, D, 1.78, 74, 09-03-94, Bolton, None
+23, Dalton McLaughlin, ENG, D, 1.73, 64, 13-05-94, Salford, None
+25, David Healy, NIR, F, 1.76, 67, 05-08-79, Downpatrick, Rangers
+26, Jonson Clarke-Harris, ENG, F, 1.83, 71, 21-07-94, Leicester, Peterborough U
+29, Tom Pratt, ENG, F, 1.78, 74, 03-06-95, Manchester, None
+30, Cameron Belford, WAL, G, 1.72, 71, 16-10-88, Nuneaton, Coventry C
+31, Craig Fagan, ENG, F, 1.80, 75, 11-12-82, Birmingham, Bradford C
+32, Zac Thompson, ENG, D, 1.78, 70, 05-01-93, Billinge, Leeds U
+34, Ethan Ebanks-Landell, ENG, D, 1.88, 88, 12-12-92, Oldbury, Wolverhampton W
+35, Tom Soares, ENG, M, 1.83, 72, 10-07-86, Reading, Stoke C
+36, Valéry Mezague, CMR, M, 1.83, 76, 12-08-83, Marseille, Panetolikos
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Shaun Harrad, ENG, F, 1.79, 78, 11-12-84, Nottingham, Cheltenham T (On Loan)
+31, Anthony Williams, WAL, G, 1.88, 87, 20-09-77, Ogwr, Retired
+19, Mark Cullen, ENG, F, 1.75, 75, 24-04-92, Stakeford, Hull C
+33, Dominic Poleon, ENG, F, 1.90, 82, 07-09-93, Newham, Leeds U
+15, Lateef Elford-Alliyu, ENG, F, 1.73, 69, 01-06-92, Ibadan, Crawley T
+31, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Wolverhampton W
+6, Peter Sweeney, SCO, M, 1.83, 81, 25-09-84, Glasgow, AFC Wimbledon
+24, Liam Boswell, ENG, F, 1.70, 70, 25-01-95, Bury, 
+26, Luke McCarthy, ENG, M, 1.75, 68, 07-07-93, Bolton, 
+19, Troy Hewitt, ENG, F, 1.83, 79, 10-02-90, Newham, QPR
+36, Gregg Wylde, SCO, M, 1.78, 72, 23-03-91, Kirkintilloch, Bolton W
+12, Lenell John-Lewis, ENG, F, 1.78, 85, 17-05-89, Hammersmith, Grimsby T
+21, Andrai Jones, ENG, M, 1.80, 68, 01-01-92, Liverpool, Barnsley
+28, Tom Hopper, ENG, F, 1.86, 76, 14-12-93, Boston, Leicester C
+26, Jeanvion Yulu-Matondo, BEL, F, 1.78, 71, 05-01-86, Kinshasa, 
+37, Sébastien Carole, FRA, F, 1.70, 72, 08-09-82, Pintoise, Guiseley
+24, Stéphane Zubar, FRA, D, 1.87, 81, 09-10-86, Pointe-à-Pitre, Bournemouth

@@ -1,0 +1,62 @@
+=  Trapani - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Elhan Kastrati, ALB, G, 1.89, 86, 02-02-97, Has, Pescara
+2, Shay Ben David, ISR, D, 1.83, 80, 19-07-97, Tel Aviv, Maccabi Haifa
+3, Alessandro Martina, ITA, D, 1.73, 64, 17-11-00, San Pietro Vernotico, None
+4, Luca Pagliarulo, ITA, D, 1.84, 78, 06-09-83, Foggia, Canavese
+5, Anthony Taugourdeau, FRA, M, 1.82, 72, 30-11-88, Marseiile, Piacenza
+6, Stefano Scognamillo, ITA, D, 1.83, 78, 04-05-94, St Petersburg, Parma
+7, Giacomo Molinari, ITA, M, 1.78, 68, 25-05-01, Rome, Roma
+8, Salvatore Aloi, ITA, M, 1.76, 76, 11-11-96, Melito di Porto Salvo, Reggina
+9, Felice Evacuo, ITA, F, 1.87, 85, 23-08-82, Pompei, Parma
+10, Mamadou Coulibaly, SEN, M, 1.83, 75, 02-03-99, Thiès, Udinese
+11, Nikola Jakimovski, MKD, M, 1.87, 77, 26-02-90, Kriva Palanka, Larissa
+12, Marco Carnesecchi, ITA, G, 1.86, 80, 01-07-00, Rimini, Atalanta
+13, Luca Valenti, ITA, F, 1.78, 65, 21-03-00, Termini Imerese, None
+14, Jonathan Biabiany, FRA, F, 1.77, 70, 28-04-88, Paris, Parma
+15, Giuseppe D'Anca, ITA, D, 1.73, 60, 06-04-00, Caltanissetta, None
+16, Riccardo Cataldi, ITA, M, 1.69, 60, 31-01-01, Rome, Roma
+17, Gregorio Luperini, ITA, M, 1.87, 76, 10-02-94, Pisa, Pistoiese
+18, Alessandro Buongiorno, ITA, D, 1.91, 80, 06-06-99, Turin, Torino
+19, Moses Odjer, GHA, M, 1.70, 69, 17-08-96, Tema, Salernitana
+20, Lorenzo Magnano, ITA, D, 1.84, 68, 19-03-02, , Siracusa
+21, Luigi Alberto Scaglia, ITA, M, 1.82, 73, 23-11-86, Chiari, Parma
+22, Giuseppe Stancampiano, ITA, G, 1.80, 74, 09-01-87, Palermo, Anagni
+23, Tomasz Kupisz, POL, M, 1.80, 71, 02-01-90, Radom, Bari
+24, Alessio Barbara, ITA, D, 1.86, 76, 01-07-01, Erice, None
+25, Michele Fornasier, ITA, D, 1.86, 80, 22-08-93, Vittorio Veneto, Parma
+26, Filip Piszczek, POL, F, 1.88, 77, 26-05-95, Nowy Targ, Cracovia Kraków
+27, Matteo Bruno, ITA, G, 1.88, 79, 07-06-01, Palermo, Palermo
+28, Andrea Colpani, ITA, M, 1.86, 78, 11-05-99, Brescia, Atalanta
+29, Lorenzo Del Prete, ITA, D, 1.80, 77, 12-01-86, Rome, Juventus U23
+30, Enrico Canino, ITA, D, 1.79, 72, 02-04-98, Erice, None
+31, Roberto Pirrello, ITA, D, 1.90, 76, 30-05-96, Alcamo, Empoli
+32, Stefano Pettinari, ITA, F, 1.83, 76, 27-01-92, Rome, Lecce
+33, Marco Moscati, ITA, M, 1.80, 75, 01-11-92, Livorno, Perugia
+34, Nicola Dalmonte, ITA, F, 1.69, 73, 13-09-97, Ravenna, Genoa
+35, Francesco Laurenzi, ITA, D, 1.79, 71, 18-10-01, Rome, Torino
+36, Filippo Tolomello, ITA, M, 1.77, 66, 30-05-02, Palermo, None
+37, Fausto Grillo, ARG, D, 1.80, 74, 20-02-93, Bariloche, Göztepe
+38, Stefan Strandberg, NOR, D, 1.89, 80, 25-07-90, Lyngdal, FC Krasnodar
+39, Giuseppe Fili, ITA, D, 1.91, , 04-11-02, Licata, None
+40, Francesco Gancitano, ITA, F, 1.78, 71, 20-04-01, Mazara del Vallo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Lucas Dambros, BRA, F, 1.81, 77, 04-10-96, Gravataí, Messina
+16, Nicola Culcasi, ITA, D, , , 24-08-00, Erice, De-Registered
+14, Filippo Tolomello, ITA, M, 1.77, 66, 30-05-02, Palermo, Re-Registered (36)
+10, M'Bala Nzola, FRA, F, 1.85, 80, 18-08-96, Troyes, Spezia (On Loan)
+18, Cristian Cauz, ITA, D, 1.88, 80, 15-08-96, Pordenone, Parma
+19, Francesco Corapi, ITA, M, 1.65, 61, 22-12-85, Catanzaro, Catanzaro
+23, Giacomo Tulli, ITA, F, 1.73, 72, 24-10-87, Fermo, Catanzaro
+1, Andrea Dini, ITA, G, 1.84, 79, 20-02-96, Cattolica, Parma
+24, Francesco Golfo, ITA, F, 1.65, 62, 05-09-94, Palermo, Parma
+2, João Silva, POR, D, 1.85, 80, 01-02-98, Coimbra, Bisceglie
+7, Daniele Ferretti, ITA, F, 1.70, 64, 30-08-86, Atri, Avellino
+16, Alessandro Minelli, ITA, D, 1.93, 79, 23-07-99, Monza, Parma
+20, Antonio Candela, ITA, D, 1.82, 77, 27-04-00, La Spezia, Genoa
+26, Giacomo Molinari, ITA, M, 1.78, 68, 25-05-01, Rome, Re-Registered (7)
+31, Riccardo Cataldi, ITA, M, 1.69, 60, 31-01-01, Rome, Re-Registered (16)

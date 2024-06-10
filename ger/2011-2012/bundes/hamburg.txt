@@ -1,0 +1,47 @@
+=  Hamburger SV - German Bundesliga 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jaroslav Drobný, CZE, G, 1.92, 88, 18-10-79, Počátky, Hertha Berlin
+2, Dennis Diekmeier, GER, D, 1.88, 78, 20-10-89, Thedinghausen, Nürnberg
+3, Michael Mancienne, ENG, D, 1.80, 74, 08-01-88, Isleworth, Chelsea
+4, Heiko Westermann, GER, D, 1.90, 85, 14-08-83, Alzenau, Schalke
+5, Jeffrey Bruma, NED, D, 1.86, 83, 13-11-91, Rotterdam, Chelsea
+6, Dennis Aogo, GER, D, 1.83, 85, 14-01-87, Karlsruhe, Freiburg
+7, Marcell Jansen, GER, D, 1.91, 84, 04-11-85, Mönchengladbach, Bayern Munich
+8, Tomás Rincón, VEN, M, 1.75, 75, 13-01-88, San Cristóbal, Deportivo Táchira
+9, José Paolo Guerrero, PER, F, 1.84, 72, 01-01-84, Lima, Bayern Munich
+10, Mladen Petrić, CRO, F, 1.85, 81, 01-01-81, Dubrave, Borussia Dortmund
+11, Ivo Iličević, CRO, M, 1.74, 65, 14-11-86, Aschaffenburg, Kaiserslautern
+13, Robert Tesche, GER, M, 1.80, 71, 27-05-87, Wismar, Arminia Bielefeld
+14, David Jarolim, CZE, M, 1.74, 69, 17-05-79, Čáslav, Nürnberg
+15, Son Heung-Min, KOR, F, 1.83, 76, 08-07-92, Chuncheon, None
+16, Marcus Berg, SWE, F, 1.83, 76, 17-08-86, Torsby, FC Groningen
+17, Gökhan Töre, TUR, M, 1.76, 74, 20-01-92, Cologne, Chelsea
+18, Romeo Castelen, NED, M, 1.70, 66, 03-05-83, Paramaribo, Feyenoord
+22, Jacopo Sala, ITA, M, 1.83, 80, 05-12-91, Bergamo, Chelsea
+23, Slobodan Rajković, SRB, D, 1.95, 85, 03-02-89, Belgrade, Chelsea
+25, Per Ciljan Skjelbreid, NOR, M, 1.75, 62, 16-06-87, Trondheim, Rosenborg
+27, Sören Bertram, GER, M, 1.80, 70, 05-06-91, Uelzen, None
+28, Tolgay Arslan, TUR, M, 1.79, 75, 16-08-90, Paderborn, None
+29, Tom Mickel, GER, G, 1.86, 78, 19-04-89, Hoyerswerda, Energie Cottbus II
+30, Sven Neuhaus, GER, G, 1.94, 90, 04-04-78, Essen, RB Leipzig
+31, Dániel Nagy, HUN, M, 1.81, 75, 15-03-91, Budapest, Újpest
+32, Florian Brügmann, GER, D, 1.73, 69, 23-01-91, Hamburg, Hansa Rostock
+33, Miroslav Štěpánek, CZE, D, 1.92, 88, 15-01-90, Olomouc, None
+34, Muhamed Bešić, BIH, D, 1.77, 75, 10-09-92, Berlin, TeBe Berlin
+35, Hanno Behrens, GER, M, 1.88, 78, 26-03-90, Elmshorn, None
+36, Kevin Ingreso, PHI, M, 1.78, 69, 10-02-93, Hamburg, None
+37, Janek Sternberg, GER, D, 1.81, 78, 19-10-92, Leezen, None
+38, Zhi Gin Lam, GER, D, 1.77, 67, 04-06-91, Hamburg, None
+40, Florian Stritzel, GER, G, 1.96, 92, 31-01-94, Neubrandenburg, None
+42, Mickaël Tavares, SEN, M, 1.86, 78, 25-10-82, Villeneuve-St-Georges, Slavia Prague
+44, Gojko Kačar, SRB, M, 1.86, 79, 26-01-87, Novi Sad, Hertha Berlin
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Wolfgang Hesl, GER, G, 1.85, 85, 13-01-86, Nabburg, Dynamo Dresden
+11, Eljero Elia, NED, F, 1.76, 70, 13-02-87, Voorburg, Juventus
+20, Guy Demel, CIV, D, 1.88, 88, 13-06-81, Orsay, West Ham U
+32, Änis Ben-Hatira, GER, M, 1.81, 78, 18-07-88, Berlin, Hertha Berlin
+19, Lennard Sowah, GER, D, 1.80, 70, 23-08-92, Hamburg, Millwall (On Loan)

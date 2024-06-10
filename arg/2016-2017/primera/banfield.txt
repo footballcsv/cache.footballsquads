@@ -1,0 +1,43 @@
+=  Banfield - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Hilario Navarro, ARG, G, 1.92, 84, 14-11-80, Corrientes, Estudiantes (LP)
+2, Gonzalo Prósperi, ARG, D, 1.76, 76, 28-09-85, Capital Federal, San Lorenzo
+3, Alexis Soto, ARG, D, 1.72, 69, 20-10-93, Avellaneda, None
+4, Gonzalo Bettini, ARG, D, 1.71, 74, 26-09-92, Capital Federal, None
+5, Juan Cobo Gálvez, ARG, M, 1.80, 80, 26-11-84, Córdoba [ARG], Argentinos Juniors
+6, Alexis Sosa, ARG, D, 1.77, 76, 22-07-99, Burzaco, None
+7, Lihué Prichoda, ARG, M, 1.78, 70, 29-06-89, Valentín Alsina, Unión San Felipe
+8, Nicolás Bertolo, ARG, M, 1.80, 75, 02-01-86, Córdoba, River Plate
+10, Brian Sarmiento, ARG, M, 1.65, 60, 22-04-90, Rosario, Real Garcilaso
+11, Luciano Civelli, ARG, M, 1.87, 83, 06-10-86, Capital Federal, Universidad de Chile
+12, Mauricio Arboleda, COL, G, 1.83, 71, 21-04-96, Tumáco, Deportivo Pasto
+13, Lucas Piergiacomi, ARG, D, 1.74, 74, 17-03-95, Saladillo, None
+14, Michael López, ARG, F, 1.81, 74, 19-08-97, Capital Federal, None
+15, Emanuel Cecchini, ARG, M, 1.79, 77, 24-12-96, Ingeniero Huergo, None
+16, Claudio Villagra, ARG, F, 1.67, 66, 02-01-96, Despeñaderos, None
+17, Agustín Fontana, ARG, F, 1.80, 75, 11-06-96, Lomas de Zamora, None
+18, Mauricio Sperduti, ARG, M, 1.80, 73, 16-02-86, Rosario, Colón (Santa Fe)
+19, Mauricio Asenjo, ARG, F, 1.85, 88, 23-07-94, Mendoza, None
+20, Darío Cvitanich, ARG, F, 1.75, 67, 16-05-84, Baradero, Miami FC
+21, Thomas Rodríguez, CHI, M, 1.85, 74, 05-04-96, Santiago, Vélez Sarsfield
+22, Juan Álvarez, ARG, F, 1.66, 62, 10-02-96, Tandil, None
+23, Renato Civelli, ARG, D, 1.93, 89, 14-10-83, Pehuajó, Lille
+24, Luciano Gómez, ARG, D, 1.63, 66, 22-03-96, Corrientes, None
+25, Carlos Matheu, ARG, D, 1.86, 81, 13-05-85, Quilmes, Defensa y Justicia
+26, Facundo Cambeses, ARG, G, 1.85, 78, 09-04-97, Longchamps, None
+27, Facundo Altamirano, ARG, G, 1.85, 82, 21-03-96, Rojas, None
+28, Franco Colela, ARG, M, 1.76, 74, 05-01-96, Remedios de Escalada, None
+29, Eric Remedi, ARG, M, 1.80, 70, 04-06-95, Paraná, None
+30, Jorge Rodríguez, ARG, D, 1.78, 84, 15-09-95, Mendoza, None
+31, Martín Lucero, ARG, M, 1.87, 81, 23-05-90, San Fernando, Colegiales (Munro)
+33, Adrián Spörle, ARG, D, 1.86, 76, 13-07-95, Centenario, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Claudio Pérez, ARG, D, 1.87, 82, 26-12-85, José C. Paz, Puebla
+9, Santiago Silva, URU, F, 1.86, 73, 09-12-80, Montevideo, Universidad Católica
+10, Walter Erviti, ARG, M, 1.72, 68, 12-01-80, Mar de la Plata, Independiente
+20, Adrián Sporle, ARG, D, 1.81, 75, 13-07-95, Centenario, Re-Registered (33)
+22, Brian Sarmiento, ARG, M, 1.65, 60, 22-04-90, Rosario, Re-Registered (10)

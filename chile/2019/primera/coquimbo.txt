@@ -1,0 +1,44 @@
+=  Coquimbo Unido - Chilean Primera División 2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matías Cano, ARG, G, 1.80, 67, 20-04-86, Adrogué, Crucero del Norte
+3, Nicolás Berardo, ARG, D, 1.77, 63, 26-07-90, San Basilio, Unión Española
+4, Washington Torres, CHI, D, 1.78, 74, 23-05-84, Santiago, Ñublense
+5, Sebastián Silva, CHI, D, 1.80, 76, 16-07-91, Recoleta, Deportes Iberia
+6, Ulises Castagnoli, CHI, M, 1.68, 66, 01-02-94, , Fernández Vial
+7, Cristián Canío, CHI, F, 1.76, 70, 31-05-81, Nueva Imperial, Deportes Temuco
+8, Fernando Cornejo, CHI, M, 1.74, 69, 26-12-95, Rancagua, Audax Italiano
+11, Pedro Muñoz, CHI, F, 1.73, 72, 09-06-86, Las Cabras, O'Higgins
+12, Daniel Retamal, CHI, G, 1.78, 68, 17-06-95, Lo Barnechea, Deportes Magallanes
+13, Kilian Delgado, CHI, M, 1.80, 77, 01-04-90, Valdivia, Deportes Valdivia
+14, Benjamin Vidal, CHI, D, 1.79, 68, 18-03-91, Doñihue, Universidad Católica
+15, Mauricio Pinilla, CHI, F, 1.87, 78, 04-02-84, San Bernardo, Universidad de Chile
+16, Sebastián Galani, CHI, M, 1.77, 70, 17-08-97, Coquimbo, Universidad de Chile
+17, Rubén Farfán, CHI, F, 1.74, 68, 25-09-91, Nogales, Deportes Temuco
+18, Mauricio Yedro, ARG, M, 1.70, 73, 10-05-87, Las Rosas, Fuerza Amarilla
+19, Jesús Ramírez, VEN, F, 1.84, 76, 04-05-98, Tovar, Veracruz
+20, Diego Oyarzún, CHI, D, 1.85, 78, 19-01-93, Vitacura, Žalgiris Vilnius
+21, Cristian Zavala, CHI, F, 1.74, 68, 03-08-99, Puente Alto, None
+22, John Salas, CHI, D, 1.73, 68, 12-10-96, , Universidad de Chile
+23, Gerardo Navarrete, CHI, M, 1.73, 70, 14-07-94, Concepción, O'Higgins
+24, Jonathan Benítez, ARG, F, 1.78, 77, 04-09-91, Corrientes, Universidad de Concepción
+25, Esteban Carvajal, CHI, M, 1.73, 70, 17-11-88, Catemu, Deportes Iquique
+26, Giovanni Bustos, CHI, M, 1.63, 59, 25-05-00, Iquique, Universidad de Chile
+27, Sebastián Cabrera, CHI, M, 1.76, 69, 16-03-98, Coquimbo, None
+28, Diego Aravena, CHI, M, 1.78, 70, 30-12-96, Santiago, Deportes Magallanes
+29, Jaime Soto, CHI, D, 1.68, 66, 20-05-94, Valdivia, Deportes Temuco
+30, Alejandro Melo, ARG, M, 1.78, 71, 11-01-96, San Justo, San Lorenzo
+31, Carlos Zarama, COL, M, , , 30-12-99, , None
+32, Diego Vergara, CHI, M, 1.81, 72, 04-08-02, Quintero, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Luciano Araya, CHI, M, , , 13-11-97, , Colchagua
+9, Sebastián Romero, CHI, F, 1.68, 61, 25-01-96, Calama, Cobreloa
+14, Daniel Vicencio, CHI, D, 1.78, 80, 04-08-92, La Ligua, Cobreloa
+19, Julio Doldán, PAR, F, 1.82, 75, 15-10-93, Asunción, 
+31, Zaravko Pavlov, CHI, F, , , 01-03-98, , Provincial Ovalle (On Loan)
+25, Cristian Merino, CHI, G, , , 06-06-96, Concepción, Deportes Iberia
+30, Facundo Cardozo, ARG, D, 1.78, 77, 06-04-95, San Miguel, All Boys
+10, Jean Paul Pineda, CHI, F, 1.75, 72, 24-02-89, Santiago, Atlético Bucaramanga

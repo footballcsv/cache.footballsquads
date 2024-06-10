@@ -1,0 +1,42 @@
+=  Betis - Spanish LaLiga 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Joel Robles, ESP, G, 1.95, 90, 17-06-90, Leganés, Everton
+2, Francis Guerrero, ESP, D, 1.72, 70, 11-03-96, Coín, Betis B
+3, Javi García, ESP, M, 1.86, 78, 08-02-87, Mula, Zenit St Petersburg
+4, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, Alavés
+5, Marc Bartra, ESP, D, 1.84, 75, 15-01-91, San Jaime dels Domenys, Borussia Dortmund
+6, Sergio Canales, ESP, M, 1.80, 74, 16-02-91, Santander, Real Sociedad
+7, Sergio León, ESP, F, 1.78, 73, 06-01-89, Palma del Río, Osasuna
+10, Jesé, ESP, F, 1.78, 72, 26-02-93, Las Palmas, Paris St-Germain
+11, Cristian Tello, ESP, F, 1.78, 65, 11-08-91, Sabadell, Barcelona
+12, Sidnei, BRA, D, 1.85, 84, 23-08-89, Alegrete, Deportivo La Coruña
+13, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Espanyol
+14, William Carvalho, POR, M, 1.87, 79, 07-04-92, Luanda, Sporting CP
+16, Loren Morón, ESP, F, 1.80, 66, 30-12-93, Marbella, Marbella
+17, Joaquín, ESP, M, 1.79, 75, 21-07-81, El Puerto de Santa Maria, Fiorentina
+18, Andrés Guardado, MEX, M, 1.69, 60, 28-09-86, Guadalajara, PSV Eindhoven
+19, Antonio Barragán, ESP, D, 1.87, 83, 12-06-87, Pontedeume, Middlesbrough
+20, Júnior Firpo, ESP, D, 1.84, 75, 22-08-96, Santo Domingo, Betis B
+21, Giovani Lo Celso, ARG, M, 1.70, 68, 09-04-96, Rosario, Paris St-Germain
+22, Diego Lainez, MEX, M, 1.67, 58, 09-06-00, Villahermosa, América
+23, Aïssa Mandi, ALG, D, 1.84, 78, 22-10-91, Châlons-en-Champagne, Reims
+24, Emerson, BRA, D, 1.83, 70, 14-01-99, São Paulo, Atlético Mineiro
+27, Adrián Tellado, ESP, M, 1.72, 70, 05-02-99, Seville, Betis B
+28, José Manuel Irizo, ESP, M, 1.82, 72, 29-01-98, Seville, Betis B
+30, Julio Alonso, ESP, D, 1.71, 62, 14-12-98, Terrassa, Betis B
+31, Dani Rebollo, ESP, G, 1.85, 77, 10-12-99, Lepe, Betis B
+32, Edgar, ESP, D, 1.93, 85, 01-04-97, Sant Joan Despí, Espanyol B
+33, Roberto González, ESP, F, 1.73, 62, 08-01-01, Mérida, Betis B
+34, Wilfrid Kaptoum, CMR, M, 1.74, 71, 07-07-96, Douala, Barcelona B
+37, Diego Altamirano, ESP, F, 1.80, 70, 13-03-97, Madrid, Málaga B
+38, Paul Akouokou, CIV, M, 1.81, 68, 20-12-97, Abidjan, Ekenäs IF
+39, Abreu, ESP, M, 1.67, 64, 14-08-99, Villablanca, Betis B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Darko Brašanac, SRB, M, 1.78, 73, 12-02-92, Čajetina, Alavés (On Loan)
+8, Takashi Inui, JPN, M, 1.69, 59, 02-06-88, Ōmihachiman, Alavés (On Loan)
+9, Antonio Sanabria, PAR, F, 1.80, 74, 04-03-96, San Lorenzo, Genoa (On Loan)
+10, Ryad Boudebouz, ALG, M, 1.77, 72, 19-02-90, Colmar, Celta Vigo (On Loan)

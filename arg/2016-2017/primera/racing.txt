@@ -1,0 +1,46 @@
+=  Racing Club - Argentinian Primera División 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Agustín Orión, ARG, G, 1.90, 83, 26-06-81, Ramos Mejía, Boca Juniors
+2, Marco Torsiglieri, ARG, D, 1.90, 77, 12-01-88, Castelar, Rosario Central
+3, Leandro Grimi, ARG, D, 1.75, 70, 09-02-85, San Lorenzo, Godoy Cruz (Mendoza)
+4, Iván Pillud, ARG, D, 1.77, 75, 24-04-86, Capitán Bermúdez, Tiro Federal (Rosario)
+5, Federico Vismara, ARG, M, 1.85, 74, 09-05-83, Carcaraña, Huracán
+6, Miguel Barbieri, ARG, D, 1.81, 79, 24-08-93, Capital Federal, Defensores de Belgrano
+7, Gustavo Bou, ARG, F, 1.76, 72, 18-02-90, Concordia, River Plate
+8, Diego González, ARG, M, 1.80, 78, 09-02-88, Lomas de Zamora, Santos Laguna
+9, Lisandro López, ARG, F, 1.75, 74, 02-03-83, Rafael Obligado, Internacional
+11, Luciano Aued, ARG, M, 1.78, 70, 01-03-87, La Plata, Gimnasia y Esgrima (LP)
+12, Juan Musso, ARG, G, 1.91, 93, 06-05-94, San Nicolás, None
+13, Emanuel Insúa, ARG, D, 1.80, 79, 10-04-91, Capital Federal, Udinese
+14, Sergio Vittor, ARG, D, 1.89, 86, 09-06-89, Villa Elisa, Banfield
+15, Ezequiel Videla, ARG, M, 1.74, 73, 15-01-88, Cosquín, Universidad de Chile
+16, Marcelo Meli, ARG, M, 1.75, 74, 20-06-92, Salto, Boca Juniors
+17, Marcos Acuña, ARG, M, 1.72, 72, 28-10-91, Zapala, Ferro Carril Oeste
+18, Francisco Cerro, ARG, M, 1.79, 70, 09-02-88, Santiago del Estero, Vélez Sarsfield
+19, Braian Mansilla, ARG, F, 1.80, 76, 16-04-97, Rosario, None
+20, Pablo Álvarez, ARG, D, 1.78, 82, 17-04-84, San Martín, Rosario Central
+21, Rodrigo Schlegel, ARG, D, 1.82, 82, 03-04-97, Remedios de Escalada, None
+22, Braian Álvarez, ARG, M, 1.71, 68, 22-08-97, Mar del Plata, None
+23, Braian Guille, ARG, F, 1.70, 69, 31-07-97, Olavarría, None
+24, Ricardo Gastón Díaz, ARG, D, 1.70, 63, 13-03-88, Ciudadela, Gimnasia y Esgrima (LP)
+25, Gastón Gómez, ARG, G, 1.89, 88, 04-03-96, Mar del Plata, None
+26, Agustín Araujo, ARG, M, 1.60, 59, 07-06-99, Reconquista, None
+27, Maximiliano Cuadra, ARG, F, 1.72, 64, 06-06-95, San Nicolás, None
+28, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, None
+29, Federico Vietto, ARG, F, 1.79, 66, 01-01-98, Balnearia, None
+30, Santiago Rosales, ARG, F, 1.80, 73, 22-03-95, Mar del Plata, Aldosivi (Mar del Plata)
+32, Lautaro Martínez, ARG, F, 1.74, 79, 22-08-97, Bahía Blanca, None
+35, Alejandro García, ARG, D, 1.76, 70, 26-02-92, San Cosme, None
+37, Matías Escudero, ARG, D, 1.75, 68, 27-12-98, Lanús, None
+40, Leonel Piedrabuena, ARG, G, 1.80, 69, 26-07-99, Villa Ocampo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, William Candia, PAR, M, 1.72, 73, 27-03-93, San Roque González de Santa Cruz, Cerro Porteño
+16, Wilder Guisao, COL, F, 1.77, 75, 30-07-91, Apartadó, Toluca
+2, Nicolás Sánchez, ARG, D, 1.87, 82, 04-02-86, Capital Federal, Monterrey
+10, Óscar Romero, PAR, M, 1.76, 73, 04-07-92, Fernando de la Mora, Shanghai Shenhua
+21, Danilo Ortíz, PAR, D, 1.88, 86, 28-07-92, Limpio, Cerro Porteño
+38, Brian Fernández, ARG, F, 1.70, 71, 26-09-94, Santa Fe, Sarmiento (Junín)

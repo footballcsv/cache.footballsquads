@@ -1,0 +1,35 @@
+=  Molde - Norwegian Tippeligaen 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Knut Dørum Lillebakk, NOR, G, 1.94, 80, 27-04-78, , None
+2, Kristoffer Paulsen Vatshaug, NOR, D, 1.77, 74, 03-06-81, Levanger, Start
+3, Marcus Andreassen, SWE, D, 1.91, 91, 13-07-78, Buchanan, Bryne
+4, Thomas Holm, NOR, M, 1.81, 77, 19-02-81, Oslo, Vålerenga
+5, Øyvind Gjerde, NOR, D, 1.78, 74, 18-03-77, Åndalsnes, Aalesund
+6, Daniel Berg Hestad, NOR, M, 1.84, 78, 30-07-75, Molde, SC Heerenveen
+7, Thomas Mork, NOR, M, 1.83, 79, 22-06-78, , Grykameratene
+8, Toni Koskela, FIN, M, 1.89, 84, 16-02-83, Helsinki, KooTeePee
+9, Mattias Moström, SWE, M, 1.78, 70, 25-02-83, Stockholm, AIK
+10, Magne Hoseth, NOR, M, 1.86, 80, 13-10-80, Averøy, Vålerenga
+13, Brian Waltrip, USA, F, 1.86, 83, 12-01-78, Pensacola, Sogndal
+14, Christian Steen, NOR, D, 1.91, 90, 02-07-77, Trondheim, Tromsø
+15, Aksel Berget Skjølsvik, NOR, M, 1.74, 73, 15-05-87, Åndalsnes, Rosenborg
+16, Frederik Samdal Solberg, NOR, D, 1.85, 80, 25-08-90, , None
+18, Valter Tomaz Jr, BRA, D, 1.81, 70, 25-07-78, São Paulo, Örgryte IS
+19, José Mota, BRA, F, 1.86, 79, 10-05-79, São Paulo, Aalborg
+20, Rune Ertsås, NOR, F, 1.81, 73, 24-05-87, Levanger, Steinkjer
+21, Souhaieb El Amari, TUN, M, , , , , 
+22, Jan Kjell Larsen, NOR, G, 1.94, 94, 24-06-83, Kopervik, Haugesund
+23, Knut Olav Rindarøy, NOR, D, 1.77, 74, 17-07-85, Molde, Gossen
+24, Vegard Forren, NOR, D, 1.86, 85, 16-02-88, Trondheim, KIL/Hemne
+26, Ronny Farstad Fredriksen, NOR, M, , , , , None
+27, Kristoffer Hildrestrand, NOR, M, , , 18-01-90, , None
+29, Selemani Ndikumana, BDI, F, 1.86, 83, 26-11-88, Bujumbura, Simba SC
+30, Elias Valderhaug, NOR, G, 1.83, 77, 26-04-90, Ålesund, None
+32, Mame Biram Diouf, SEN, F, 1.85, 76, 16-12-87, Dakar, ASC les Jaraaf
+42, Pape Pate Diouf, SEN, F, 1.86, 76, 04-04-86, Dakar, Rufusque
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Tommy Eide Møster, NOR, M, 1.86, 75, 16-01-83, , Bryne

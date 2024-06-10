@@ -1,0 +1,38 @@
+=  Laval - French Ligue 2 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Maxime Hautbois, FRA, G, 1.80, 67, 03-01-91, Laval, None
+2, Kévin Perrot, FRA, D, 1.71, 60, 13-06-89, Laval, None
+3, Sharly Mabussi, COD, D, 1.75, 70, 27-05-97, Kinshasa, None
+4, Aaron Appindangoyé, GAB, D, 1.83, 80, 20-02-92, Franceville, CF Mounana
+5, Sacha Petshi, FRA, M, 1.93, 80, 21-06-92, Caivano, Créteil
+6, Mathieu Coutadeur, FRA, M, 1.70, 69, 20-06-86, Le Mans, AEL Limassol
+7, Yven Moyo, CGO, M, 1.75, 70, 15-03-92, Orléans, Concarneau
+8, Adrien Monfray, FRA, D, 1.85, 76, 20-12-90, Nice, CA Bastia
+9, Clarck N'Sikulu, FRA, F, 1.80, 78, 10-07-92, Lille, Évian TG
+11, Cris Malonga, CGO, M, 1.83, 73, 11-07-87, Sens, Lausanne-Sport
+12, Kévin Afougou, FRA, D, 1.82, 73, 26-01-90, Aubergenville, Orléans
+14, Dylan Saint-Louis, FRA, F, 1.84, 77, 26-04-95, Gonesse, St-Etienne
+16, Lionel Cappone, FRA, G, 1.82, 74, 08-02-79, Marignane, Brest
+17, Romain Bayard, FRA, M, 1.67, 63, 12-10-93, Compiègne, Dunkerque
+18, Hassan Alla, MAR, M, 1.80, 79, 24-11-80, Oujda, Le Havre
+19, Yvan Neyou, CMR, M, 1.80, 63, 03-01-97, Douala, Sedan
+20, Christopher Glombard, FRA, D, 1.78, 74, 05-06-89, Montreuil, Reims
+21, Malik Couturier, FRA, D, 1.85, 75, 21-01-82, Jonzac, Angers
+22, Julien Viale, FRA, F, 1.80, 78, 13-02-82, Lyon, Auxerre
+23, Mana Dembélé, FRA, F, 1.80, 68, 29-11-88, Ivry sur Seine, Le Havre
+24, Modibo Dembélé, FRA, M, 1.70, 62, 14-08-93, Thiais, None
+25, Erwan Quintin, FRA, D, 1.80, 75, 01-12-84, Auray, Châteauroux
+27, Houboulang Mendes, FRA, D, 1.83, 74, 04-05-98, Evry, None
+28, Michaël Jordan N'Kololo, FRA, M, 1.83, 71, 09-11-92, Créteil, Caen
+29, Yoane Wissa, FRA, F, 1.76, 73, 03-09-96, Villeneuve-Saint-Georges, Angers
+30, Guillaume Lesec, FRA, G, 1.78, 70, 07-04-95, Mayenne, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+20, Nordi Mukiele, FRA, D, 1.85, 74, 01-11-97, Montreuil, Montpellier
+23, Gabriel Etinof, FRA, M, 1.66, 66, 12-01-96, Orsay, Belfort (On Loan)
+10, César Zeoula, FRA, M, 1.73, 70, 29-08-89, Dumbéa, Créteil (On Loan)
+15, Seydou Koné, CIV, F, 1.79, 79, 28-03-83, Abidjan, CA Bastia (On Loan)
+19, Alassane N'Diaye, FRA, F, 1.79, 68, 14-06-91, Limoges, Al-Taawoun

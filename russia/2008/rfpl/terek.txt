@@ -1,0 +1,62 @@
+=  Terek Grozny - Russian Football Premier League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ilion Lika, ALB, G, 1.90, 85, 17-05-80, Tirana, KS Elbasani
+2, Radoslav Zabavnik, SVK, D, 1.81, 77, 16-09-80, Košice, Sparta Prague
+3, Igor Dudnyk, UKR, D, 1.76, 65, 09-08-85, , Metalurh Zaporizhya
+4, Anatoliy Romanovich, RUS, D, 1.86, 80, 09-09-79, Nalchik, Shinnik
+6, Ismail Ediev, RUS, D, 1.85, 76, 16-02-88, Grozny, Terek-2
+7, Guy Stephane Essamé, CMR, M, 1.78, 73, 25-11-84, Douala, Boavista
+8, Rade Petrović, MNE, M, 1.87, 79, 21-09-82, , Borac Čačak
+9, Sergey Serdyukov, RUS, F, 1.92, 88, 10-04-81, Lermontov, Tom
+10, Magomed Adiev, RUS, F, 1.88, 83, 30-06-77, Makhachkala, Sokol
+11, Florentin Petre, ROU, M, 1.66, 61, 15-01-76, Bucharest, CSKA Sofia
+12, Yaroslav Hodzyur, UKR, G, 1.94, 90, 06-03-85, , Dynamo Kiev-2
+14, Valentin Iliev, BUL, D, 1.85, 80, 11-07-80, Vratsa, CSKA Sofia
+15, Aslan Dashaev, RUS, M, 1.82, 78, 19-02-89, , Terek-2
+16, Magomed Serazhdinov, RUS, G, 1.77, 65, 14-12-91, , Terek-2
+17, Vladislav Kulik, RUS, M, 1.80, 76, 27-02-85, Poltava, FC Ural
+18, Timur Dzhabrailov, RUS, D, 1.83, 79, 05-08-73, Grozny, Angusht
+20, Artem Voronkin, RUS, M, 1.84, 79, 19-02-86, , Avangard Kursk
+21, Islam Soltaev, RUS, M, 1.80, 77, 08-11-88, , Terek-2
+22, Dumitru Dolgov, MDA, D, 1.87, 77, 24-08-87, , Nistru Otaci
+23, Goran Dimovski, MKD, D, 1.74, 68, 14-10-82, , Makedonija Gjorče Petrov
+24, Islam Kadirov, RUS, F, 1.89, 76, 27-11-89, , Terek-2
+25, Rizvan Utsiev, RUS, M, 1.73, 68, 07-02-88, Argun, Terek-2
+26, Anzor Tembulatov, RUS, M, 1.79, 72, 08-06-89, , Terek-2
+27, Adlan Katsaev, RUS, M, 1.80, 73, 20-02-88, Achkhoy-Martan, Terek-2
+28, Vladimir Kuzmichev, RUS, M, 1.85, 80, 28-07-79, Moscow, Kuban Krasnodar
+29, Sharudi Bukhiev, RUS, D, 1.85, 71, 17-01-91, , Terek-2
+30, Askerkhan Dzhamuev, RUS, G, 1.80, 80, 14-01-89, , Terek-2
+31, Magomed Ozdoev, RUS, M, 1.82, 75, 05-11-92, Grozny, Terek-2
+32, Mansur Soltaev, RUS, D, 1.77, 68, 04-01-91, , Terek-2
+33, Shamil Lakhiyalov, RUS, F, 1.75, 69, 28-10-79, Makhachkala, Anzhi Makhachkala
+34, Islam Dadaev, RUS, M, 1.73, 65, 26-11-91, , Terek-2
+35, Murad Tagilov, RUS, D, 1.89, 81, 27-01-90, , Terek-2
+36, Isa Khamidov, RUS, D, 1.80, 78, 07-07-88, , Terek-2
+37, Valikhan Mezhidov, RUS, D, 1.72, 64, 10-04-88, , Terek-2
+38, Khamad Asukhanov, RUS, F, 1.76, 71, 20-01-88, , Terek-2
+40, Oleg Vlasov, RUS, M, 1.77, 73, 10-12-84, Priladozhsky, Saturn
+41, Islam Tsuroev, RUS, F, 1.82, 77, 23-04-89, , Terek-2
+42, Syarhey Amelyanchuk, BLR, D, 1.78, 75, 08-08-80, Minsk, FC Rostov
+43, Nikola Karčev, MKD, D, 1.86, 83, 31-03-81, Skopje, KS Elbasani
+44, Suleyman Edilov, RUS, M, 1.66, 62, 23-01-88, , Terek-2
+45, Ramzan Utsiev, RUS, M, 1.67, 59, 24-02-89, , Terek-2
+46, Vitaliy Kuznetsov, RUS, M, 1.98, 90, 21-02-86, , Baltika Kaliningrad
+47, Sergey Bendz, RUS, D, 1.89, 81, 03-04-83, Krasnodar, FC Rostov
+51, Shamil Ashahanov, RUS, M, 1.70, 66, 23-12-90, , Terek-2
+55, Andrei Mărgăritescu, ROU, M, 1.84, 79, 01-01-80, Piteşti, Dinamo Bucureşti
+63, David Junior Lopes, BRA, D, 1.85, 79, 19-07-82, Maringa, Osijek
+70, Zaur Sadaev, RUS, M, 1.82, 78, 06-11-89, Shali, Terek-2
+77, Marko Dinjar, CRO, M, 1.70, 68, 21-05-86, Osijek, Osijek
+78, Daniel Pancu, ROU, M, 1.87, 80, 17-08-77, Iaşi, Rapid Bucureşti
+88, Ştefan Sicaci, MDA, G, 1.94, 86, 08-09-88, , Sheriff Tiraspol
+95, Rizavdi Edilov, RUS, G, 1.83, 80, 26-06-88, Grozny, Terek-2
+98, Jean Blaise Bouli, CMR, M, 1.75, 71, 04-09-80, , Dynamo Bryansk
+99, Viktor Zemchenkov, RUS, F, 1.91, 87, 15-09-86, Moscow, Torpedo Moscow
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+5, Najaddi Ibragimov, RUS, D, 1.78, 76, 05-07-87, Grozny, Volga Tver
+19, Yuriy Mamaev, RUS, M, 1.81, 76, 03-02-84, Moscow, Chernomorets Odessa

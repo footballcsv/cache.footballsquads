@@ -1,0 +1,59 @@
+=  Liverpool - English Premier League 2010/11
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Brad Jones, AUS, G, 1.91, 76, 19-03-82, Armadale, Middlesbrough
+2, Glen Johnson, ENG, D, 1.82, 70, 23-08-84, Greenwich, Portsmouth
+3, Paul Konchesky, ENG, D, 1.78, 69, 15-05-81, Barking, Fulham
+4, Raul Meireles, POR, M, 1.79, 69, 17-03-83, Porto, FC Porto
+5, Daniel Agger, DEN, D, 1.87, 75, 12-12-84, Hvidovre, Brøndby
+6, Fábio Aurélio, BRA, D, 1.78, 75, 24-09-79, São Carlos, Valencia
+7, Luis Suárez, URU, F, 1.81, 81, 24-01-87, Salto, Ajax
+8, Steven Gerrard, ENG, M, 1.83, 79, 30-05-80, Whiston, None
+9, Andy Carroll, ENG, F, 1.91, 65, 06-01-89, Gateshead, Newcastle U
+10, Joe Cole, ENG, M, 1.76, 73, 08-11-81, Paddington, Chelsea
+12, Daniel Pacheco, ESP, F, 1.68, 67, 05-01-91, Málaga, Barcelona
+14, Milan Jovanović, SRB, M, 1.83, 73, 18-04-81, Bajina Bašta, Standard Liège
+16, Sotirios Kyrgiakos, GRE, D, 1.92, 85, 23-07-79, Trikala, AEK
+17, Maxi Rodríguez, ARG, M, 1.80, 79, 02-01-81, Rosario, Atlético Madrid
+18, Dirk Kuyt, NED, F, 1.84, 77, 22-07-80, Katwijk, Feyenoord
+21, Lucas Leiva, BRA, M, 1.79, 74, 09-01-87, Dourados, Grêmio
+22, Danny Wilson, SCO, D, 1.87, 79, 27-12-91, Livingston, Rangers
+23, Jamie Carragher, ENG, D, 1.85, 83, 28-01-78, Bootle, None
+24, David N'Gog, FRA, F, 1.90, 79, 01-04-89, Gennevilliers, Paris St-Germain
+25, Pepe Reina, ESP, G, 1.88, 92, 31-08-82, Madrid, Villarreal
+26, Jay Spearing, ENG, M, 1.68, 70, 25-11-88, Wirral, None
+28, Christian Poulsen, DEN, M, 1.82, 76, 28-02-80, Asnaes, Juventus
+30, Suso, ESP, F, 1.76, 69, 19-11-93, Cádiz, Cádiz
+31, Raheem Sterling, ENG, M, 1.70, 69, 08-12-94, Kingston, QPR
+33, Jonjo Shelvey, ENG, M, 1.83, 70, 27-02-92, Romford, Charlton Ath
+34, Martin Kelly, ENG, D, 1.91, 77, 27-04-90, Bolton, None
+35, Conor Coady, ENG, D, 1.85, 75, 25-02-93, Liverpool, None
+36, Steven Irwin, ENG, D, 1.73, 66, 29-09-90, Liverpool, None
+37, Martin Škrteľ, SVK, D, 1.91, 81, 15-12-84, Handlová, Zenit St Petersburg
+38, Jon Flanagan, ENG, D, 1.81, 79, 21-01-93, Liverpool, None
+40, Daniel Ayala, ESP, D, 1.91, 84, 07-11-90, El Saucejo, Sevilla B
+41, Martin Hansen, ENG, G, 1.88, 80, 15-06-90, Glostrup, Brøndby
+42, Péter Gulácsi, HUN, G, 1.90, 83, 06-05-90, Budapest, MTK
+43, Dean Bouzanis, AUS, G, 1.85, 84, 02-10-90, Sydney, NSWIS
+44, Emmanuel Mendy, GNB, D, 1.88, 76, 30-03-90, Madina Gounass, Murcia Deportivo
+45, Thomas Ince, ENG, M, 1.78, 66, 30-01-92, Stockport, None
+46, David Amoo, ENG, F, 1.78, 77, 13-04-91, London, Millwall
+47, Andre Wisdom, ENG, D, 1.86, 78, 09-05-93, Leeds, None
+48, Gerardo Bruna, ARG, M, 1.73, 64, 29-01-91, Mendoza, Real Madrid
+49, Jack Robinson, ENG, D, 1.80, 67, 01-09-93, Warrington, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+1, Diego Cavalieri, BRA, G, 1.89, 86, 01-12-82, São Paulo, Cesena
+29, Krisztián Németh, HUN, F, 1.79, 70, 05-01-89, Győr, Olympiakos
+4, Alberto Aquilani, ITA, M, 1.84, 73, 07-07-84, Rome, Juventus (On Loan)
+20, Javier Mascherano, ARG, M, 1.78, 77, 08-06-84, Rosario, Barcelona
+38, Lauri Dalla Valle, FIN, F, 1.80, 73, 14-09-91, Kontiolahti, Fulham
+31, Nabil El Zhar, MAR, M, 1.75, 72, 27-08-86, Alès, PAOK (On Loan)
+30, Charles Itandje, FRA, G, 1.93, 83, 02-11-82, Bobigny, Atromitos
+39, Nathan Eccleston, ENG, F, 1.78, 66, 30-12-90, Manchester, Charlton Ath (On Loan)
+32, Stephen Darby, ENG, D, 1.82, 79, 06-10-88, Liverpool, Notts Co (On Loan)
+19, Ryan Babel, NED, F, 1.85, 78, 19-12-86, Amsterdam, 1899 Hoffenheim
+44, Victor Pálsson, ISL, M, 1.85, 75, 30-04-91, Reykjavik, Hibernian
+9, Fernando Torres, ESP, F, 1.86, 78, 20-03-84, Madrid, Chelsea

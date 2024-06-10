@@ -1,0 +1,51 @@
+=  Swansea City - English Premier League 2011/12
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Michel Vorm, NED, G, 1.83, 84, 20-10-83, Nieuwegein, FC Utrecht
+2, Ashley Williams, WAL, D, 1.83, 75, 23-08-84, Wolverhampton, Stockport Co
+3, Neil Taylor, WAL, D, 1.75, 64, 07-02-89, St Asaph, Wrexham
+4, Steven Caulker, ENG, D, 1.90, 76, 29-12-91, Feltham, Tottenham H
+5, Alan Tate, ENG, D, 1.85, 85, 02-09-82, Easington, Manchester U
+6, Ferrie Bodde, NED, M, 1.78, 73, 05-05-82, Delft, ADO Den Haag
+7, Leon Britton, ENG, M, 1.68, 64, 16-09-82, London, Sheffield U
+8, Andrea Orlandi, ESP, M, 1.80, 78, 03-08-84, Barcelona, Alavés B
+10, Danny Graham, ENG, F, 1.83, 87, 12-08-85, Gateshead, Watford
+11, Scott Sinclair, ENG, M, 1.75, 64, 25-03-89, Bath, Chelsea
+12, Nathan Dyer, ENG, M, 1.65, 57, 29-11-87, Trowbridge, Southampton
+14, Stephen Dobbie, SCO, F, 1.78, 65, 05-12-82, Glasgow, Queen of the South
+15, Wayne Routledge, ENG, M, 1.70, 64, 07-01-85, Eltham, Newcastle U
+16, Garry Monk, ENG, D, 1.83, 81, 06-03-79, Bedford, Barnsley
+17, Josh McEachran, ENG, M, 1.78, 65, 01-03-93, Oxford, Chelsea
+18, Leroy Lita, ENG, F, 1.70, 75, 28-12-84, Brazzaville, Middlesbrough
+19, Luke Moore, ENG, F, 1.80, 76, 13-02-86, Birmingham, WBA
+20, Fede Bessone, ARG, D, 1.80, 76, 23-01-84, Córdoba, Leeds U
+21, José Moreira, POR, G, 1.84, 80, 20-03-82, Porto, Benfica
+22, Angel Rangel, ESP, D, 1.88, 84, 28-10-82, Tortosa, Terrassa
+23, Darnel Situ, FRA, D, 1.87, 77, 18-03-92, Rouen, Lens
+24, Joe Allen, WAL, M, 1.68, 62, 14-03-90, Carmarthen, None
+25, Gerhard Tremmel, GER, G, 1.90, 89, 16-11-78, Munich, Red Bull Salzburg
+26, Kemy Agustien, NED, M, 1.78, 72, 02-08-86, Tilburg, AZ Alkmaar
+27, Mark Gower, ENG, M, 1.80, 75, 05-10-78, Edmonton, Southend U
+28, Curtis Obeng, ENG, D, 1.73, 67, 14-02-89, Manchester, Wrexham
+29, Ashley Richards, WAL, M, 1.85, 78, 12-04-91, Swansea, None
+33, Ben Davies, WAL, D, 1.70, 76, 24-04-93, Neath, None
+34, Joe Walsh, WAL, D, 1.80, 70, 13-05-92, Cardiff, None
+36, Casey Thomas, WAL, M, 1.75, 68, 14-11-90, Port Talbot, None
+37, Jordan Smith, WAL, M, , , 20-04-93, Swansea, Cardiff C
+38, Gwion Edwards, WAL, M, 1.75, 76, 01-03-93, Carmarthen, None
+39, Kurtis March, WAL, M, 1.75, 71, 30-03-93, Swansea, None
+41, Rory Donnelly, NIR, F, 1.88, 81, 18-02-92, Belfast, Cliftonville
+42, Gylfi Sigurðsson, ISL, M, 1.86, 77, 08-09-89, Reykjavik, 1899 Hoffenheim
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Ryan Harley, ENG, M, 1.75, 70, 22-01-85, Bristol, Brighton & HA
+20, Shaun MacDonald, WAL, M, 1.85, 76, 17-06-88, Swansea, Bournemouth
+13, David Cornell, WAL, G, 1.80, 73, 28-03-91, Swansea, Hereford U (On Loan)
+44, Vangelis Moras, GRE, D, 1.93, 78, 26-08-81, Larisa, Cesena
+17, David Cotterill, WAL, M, 1.75, 71, 04-12-87, Cardiff, Barnsley
+9, Craig Beattie, SCO, F, 1.83, 73, 16-01-84, Glasgow, Hearts
+28, Thomas Butler, IRL, M, 1.70, 66, 25-04-81, Ballymena, 
+31, Lee Lucas, WAL, M, 1.80, 74, 10-06-92, Aberdare, Burton Alb (On Loan)
+35, Daniel Alfei, WAL, D, 1.80, 77, 23-02-92, Swansea, Wrexham (On Loan)

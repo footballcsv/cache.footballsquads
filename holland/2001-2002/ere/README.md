@@ -1,0 +1,21 @@
+# Dutch Eredivisie 2001/02
+
+18 teams
+- [Ajax](ajax.txt)
+- [AZ Alkmaar](azalk.txt)
+- [FC Den Bosch](denbosch.txt)
+- [De Graafschap](degraaf.txt)
+- [Feyenoord](feyen.txt)
+- [Fortuna Sittard](fortuna.txt)
+- [FC Groningen](groning.txt)
+- [SC Heerenveen](heeren.txt)
+- [NAC Breda](nacbreda.txt)
+- [NEC Nijmegen](necnijm.txt)
+- [PSV Eindhoven](psv.txt)
+- [RKC Waalwijk](rkcwaal.txt)
+- [Roda JC](rodajc.txt)
+- [Sparta Rotterdam](sparta.txt)
+- [FC Twente](twente.txt)
+- [FC Utrecht](utrecht.txt)
+- [Vitesse Arnhem](vitesse.txt)
+- [Willem II](willem.txt)

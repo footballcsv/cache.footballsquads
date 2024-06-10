@@ -1,0 +1,38 @@
+=  Espanyol - Spanish La Liga 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Germán Parreño, ESP, G, 1.89, 78, 16-02-93, Elche, Espanyol B
+2, Felipe Mattioni, BRA, D, 1.77, 72, 15-10-88, Natural de Ijuí, Maga
+3, Raúl Rodríguez, ESP, D, 1.83, 70, 22-09-87, Vilassar de Mar, Espanyol B
+4, Víctor Sánchez, ESP, D, 1.74, 73, 08-09-87, Terrassa, Neuchâtel Xamax
+6, Sidnei, BRA, D, 1.85, 80, 23-08-89, Alegrete, Benfica
+8, Christian Stuani, URU, F, 1.85, 74, 12-10-86, Tala, Reggina
+9, Sergio García, ESP, F, 1.75, 72, 09-06-83, Barcelona, Betis
+10, Pizzi, POR, F, 1.77, 69, 06-10-89, Bragança, Benfica
+11, Joan Capdevila, ESP, D, 1.82, 78, 03-02-78, Tarrega, Benfica
+12, Manu Lanzarote, ESP, F, 1.78, 69, 20-01-84, Barcelona, Sabadell
+13, Francisco Casilla, ESP, G, 1.92, 83, 02-10-86, Alcocer, Espanyol B
+14, David López, ESP, M, 1.85, 80, 09-10-89, Barcelona, Huesca
+15, Héctor Moreno, MEX, D, 1.82, 80, 17-01-88, Culiacán, AZ Alkmaar
+16, Javi López, ESP, M, 1.79, 76, 21-01-86, Osuna, Betis B
+17, Víctor Álvarez, ESP, D, 1.78, 69, 14-03-93, Barcelona, Espanyol B
+18, Juan Rafael Fuentes, ESP, D, 1.77, 72, 05-01-90, Córdoba, Córdoba
+19, Diego Colotto, ARG, D, 1.84, 81, 03-10-81, Rio Cuarto, Deportivo La Coruña
+20, Simão, POR, F, 1.70, 64, 31-10-79, Constantim, Beşiktaş
+22, Álex Fernández, ESP, M, 1.80, 68, 15-10-92, Madrid, Real Madrid B
+23, Abraham, ESP, M, 1.74, 70, 16-07-85, Barcelona, Alcorcón
+24, Jhon Córdoba, COL, F, 1.86, 85, 10-05-93, Istmina, Chiapas
+25, Gabriel Torje, ROU, M, 1.69, 65, 22-11-89, Timişoara, Udinese
+26, Pau López, ESP, G, 1.89, 77, 13-12-94, Girona, Espanyol B
+27, Eric Bailly, CIV, D, 1.88, 77, 12-04-94, Abidjan, Espanyol B
+28, Joan Jordán, ESP, M, 1.84, 74, 06-07-93, Palamós, Espanyol B
+29, Jairo Morillas, ESP, F, 1.87, 75, 02-07-93, Gilena, Espanyol B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Wakaso Mubarak, GHA, M, 1.65, 79, 25-07-90, Tamale, Rubin Kazan
+25, Juan Albín, URU, M, 1.79, 77, 17-07-86, Salto, Petrolul Ploiești
+5, Sergio Tejera, ESP, M, 1.83, 76, 28-05-90, Barcelona, Alavés (On Loan)
+28, Carlos Clerc, ESP, M, 1.80, 72, 21-02-92, Barcelona, Sabadell (On Loan)
+7, Thievy Bifouma, FRA, F, 1.80, 74, 13-05-92, Saint-Denis, WBA (On Loan)

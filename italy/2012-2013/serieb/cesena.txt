@@ -1,0 +1,55 @@
+=  Cesena - Italian Serie B 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nicola Ravaglia, ITA, G, 1.84, 75, 12-12-88, Forlì, Viareggio
+2, Santiago Morero, ARG, D, 1.83, 81, 18-04-82, Murphy, Chievo Verona
+3, Alessandro Favalli, ITA, D, 1.79, 70, 15-11-92, Cremona, Cremonese
+4, Simone Dallamano, ITA, D, 1.80, 68, 25-11-83, Brescia, Brescia
+5, Denis Tonucci, ITA, D, 1.82, 78, 06-09-88, Pesaro, Vicenza
+6, David Meza Colli, PAR, M, 1.72, 65, 15-08-88, Asunción, Atromitos
+7, Marco D'Alessandro, ITA, F, 1.73, 71, 17-02-91, Rome, Roma
+8, Damjan Djoković, CRO, M, 1.88, 78, 11-09-89, Zagreb, Monza
+10, Manuel Coppola, ITA, M, 1.72, 72, 11-05-82, Rome, Siena
+11, Pablo Granoche, URU, F, 1.82, 74, 05-09-83, Montevideo, Chievo Verona
+13, Louise Parfait, CMR, M, 1.76, 72, 06-07-90, Yaoundé, Genoa
+14, Gianluca Comotto, ITA, D, 1.81, 77, 16-10-78, Ivrea, Fiorentina
+15, Gonçalo Brandão, POR, D, 1.82, 72, 09-10-86, Lisbon, Parma
+16, Manuel Giandonato, ITA, M, 1.78, 72, 10-10-91, Casoli, Juventus
+17, Marco Paolini, ITA, D, , , 20-04-95, , None
+18, Saša Čičarević, MNE, F, 1.78, 72, 13-08-94, Podgorica, Rimini
+19, Davide Succi, ITA, F, 1.84, 78, 11-10-81, Bologna, Palermo
+20, Andrea Gessa, ITA, M, 1.75, 71, 12-01-80, Milan, Pescara
+22, Andrea Campagnolo, ITA, G, 1.84, 78, 17-06-78, Bassano del Grappa, Siena
+23, Andrea Tabanelli, ITA, M, 1.92, 75, 02-02-90, Ravenna, None
+24, Mattia Graffiedi, ITA, F, 1.80, 75, 26-05-80, Cesena, Gubbio
+25, Luca Ceccarelli, ITA, M, 1.83, 70, 24-03-83, Gambettola, Verona
+26, Massimo Volta, ITA, D, 1.84, 70, 14-05-87, Desenzano del Garda, Sampdoria
+27, Grégoire Defrel, FRA, F, 1.80, 73, 17-06-91, Meudon, Parma
+28, Nicolò Lolli, ITA, F, 1.78, 68, 11-10-94, Forlì, None
+29, Ismaël Bangoura, GUI, M, 1.75, 67, 08-11-94, Kasmar, Internazionale
+30, Alejandro Rodríguez, ESP, F, 1.84, 76, 30-07-91, Terrassa, None
+31, Pasquale Lo Russo, ITA, D, , , 30-03-95, , None
+32, Abdul Yabré, BFA, M, 1.78, 71, 03-04-95, Casandrino, None
+33, Riccardo Melgrati, ITA, G, 1.88, 70, 17-06-94, Monza, Internazionale
+34, Filippo Fabbri, ITA, D, , , 09-06-95, , None
+35, Stefano Sensi, ITA, M, 1.68, 62, 05-08-95, Urbino, None
+36, Nicolò Consolini, ITA, D, 1.80, 74, 22-12-84, Bologna, Sassuolo
+37, Tommaso Arrigoni, ITA, M, 1.71, 69, 26-02-94, Cesena, None
+38, Nicholas Arrigoni, ITA, D, 1.82, 70, 09-01-95, Cesena, None
+44, Emmanuel Ignacio Pontet, ITA, G, , , 21-06-91, , Misano
+, Yago del Piero, BRA, M, 1.78, , 14-01-94, Vitória, Internazionale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Dominique Malonga, FRA, F, 1.83, 80, 08-01-89, Chatenay-Malabry, Vicenza (On Loan)
+22, Emanuele Belardi, ITA, G, 1.87, 80, 09-10-77, Eboli, Grosseto
+11, Manuel Iori, ITA, M, 1.82, 70, 12-03-82, Varese, Chievo Verona
+9, Gianluca Lapadula, ITA, F, 1.78, 72, 07-02-90, Turin, Frosinone (On Loan)
+4, Daniele Forte, ITA, M, 1.85, 70, 07-04-90, Foggia, Borgo a Buggiano (On Loan)
+26, Luca Caldirola, ITA, D, 1.82, 75, 01-02-91, Desio, Brescia (On Loan)
+28, Elia Ballardini, ITA, M, 1.79, 75, 25-12-91, Stockholm, Virtus Entella
+29, Andrea Rossi, ITA, D, 1.77, 70, 07-11-86, San Benedetto, Parma
+18, Gianluca Turchetta, ITA, M, 1.75, 71, 25-05-91, Cesena, Südtirol-Alto Adige (On Loan)
+16, Riccardo Martinelli, ITA, D, 1.87, 82, 30-04-91, Arezzo, Bellaria (On Loan)
+17, Gianluigi Bamonte, ITA, D, 1.81, 78, 05-05-84, Salerno, Santarcangelo (On Loan)

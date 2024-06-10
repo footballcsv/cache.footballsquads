@@ -1,0 +1,21 @@
+# Japanese J.League 2010
+
+18 teams
+- [Albirex Niigata](albirex.txt)
+- [Cerezo Osaka](cerezo.txt)
+- [Gamba Osaka](gamba.txt)
+- [Júbilo Iwata](jubilo.txt)
+- [Kashima Antlers](kashima.txt)
+- [Kawasaki Frontale](kawasaki.txt)
+- [Kyoto Sanga](kyoto.txt)
+- [Montedio Yamagata](montedio.txt)
+- [Nagoya Grampus](nagoya.txt)
+- [Omiya Ardija](omiya.txt)
+- [Sanfrecce Hiroshima](sanfrecce.txt)
+- [Shimizu S-Pulse](shimizu.txt)
+- [Shonan Bellmare](shonan.txt)
+- [FC Tokyo](tokyo.txt)
+- [Urawa Red Diamonds](urawa.txt)
+- [Vegalta Sendai](vegalta.txt)
+- [Vissel Kobe](vissel.txt)
+- [Yokohama F Marinos](yokohama.txt)

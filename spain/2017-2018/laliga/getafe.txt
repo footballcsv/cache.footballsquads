@@ -1,0 +1,43 @@
+=  Getafe - Spanish LaLiga 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Emiliano Martínez, ARG, G, 1.95, 88, 02-09-92, Mar del Plata, Arsenal
+2, Dakonam Djené, TOG, D, 1.87, 72, 31-12-91, Dapaong, Sint-Truiden
+3, Vitorino Antunes, POR, D, 1.76, 70, 01-04-87, Freamunde, Dynamo Kyiv
+4, Bruno, ESP, D, 1.85, 83, 24-05-90, Las Galletas, Betis
+5, Markel Bergara, ESP, M, 1.80, 74, 05-05-86, Elgoibar, Real Sociedad
+6, Leandro Cabrera, URU, D, 1.87, 81, 17-06-91, Montevideo, Crotone
+7, Álvaro Jiménez, ESP, M, 1.76, 62, 19-05-95, Córdoba, Real Madrid B
+8, Mathieu Flamini, FRA, M, 1.78, 67, 07-03-84, Marseille, Crystal Palace
+9, Ángel, ESP, F, 1.72, 68, 26-04-87, Santa Cruz de Tenerife, Zaragoza
+10, Gaku Shibasaki, JPN, M, 1.75, 62, 28-05-92, Aomori, Tenerife
+11, Loïc Rémy, FRA, F, 1.85, 83, 02-01-87, Rillieux-la-Pape, Las Palmas
+12, Francisco Portillo, ESP, M, 1.69, 60, 13-06-90, Málaga, Betis
+13, Vicente Guaita, ESP, G, 1.90, 81, 10-01-87, Torrent, Valencia
+14, Sergio Mora, ESP, M, 1.82, 73, 30-08-79, Madrid, UCAM Murcia
+15, Francisco Molinero, ESP, D, 1.75, 64, 26-07-85, Toledo, Betis
+17, Mathías Olivera, URU, D, 1.84, 78, 31-10-97, Montevideo, Nacional [URU]
+18, Mauro Arambarri, URU, M, 1.75, 74, 30-09-95, Salto, Boston River
+19, Jorge Molina, ESP, F, 1.88, 72, 22-04-82, Alcoy, Betis
+20, Daniel Pacheco, ESP, M, 1.68, 65, 05-01-91, Málaga, Betis
+21, Fayçal Fajr, MAR, M, 1.78, 72, 01-08-88, Rouen, Deportivo La Coruña
+22, Damián Suárez, URU, D, 1.72, 61, 27-04-88, Montevideo, Elche
+23, Amath Ndiaye, SEN, F, 1.73, 70, 16-07-96, Dakar, Atlético Madrid B
+25, Filip Manojlović, SRB, G, 1.97, 82, 25-04-96, Belgrade, Crvena Zvezda
+27, Gustavo Quezada, ECU, M, 1.78, 69, 06-04-97, Guayaquil, Getafe B
+28, Barri, ESP, M, 1.88, 75, 19-09-95, Salamanca, Móstoles
+30, Hugo Duro, ESP, F, 1.77, 70, 10-11-99, Getafe, Getafe B
+31, Merveil Ndockyt, CGO, M, 1.78, 63, 20-07-98, Brazzaville, KF Tirana
+34, Pape Assane, SEN, M, 1.83, 71, 20-09-97, Rufisque, Granada B
+36, Alberto, ESP, M, , , 22-05-97, Cuenca, Getafe B
+37, Miguel Ángel, ESP, D, 1.91, 86, 11-03-98, , Getafe B
+38, David Alba, ESP, D, 1.80, 77, 05-05-99, Seseña, Getafe B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Chuli, ESP, F, 1.77, 65, 25-01-91, Huelva, Lugo (On Loan)
+6, Nicolás Gorosito, ARG, D, 1.86, 79, 17-08-88, Rafaela, Albacete
+8, Mehdi Lacen, ALG, M, 1.76, 70, 15-03-84, Versailles, Málaga
+24, Jefferson Montero, ECU, M, 1.73, 70, 01-09-89, Babahoyo, Swansea C
+16, Cala, ESP, D, 1.87, 76, 26-11-89, Lebrija, Henan Jianye

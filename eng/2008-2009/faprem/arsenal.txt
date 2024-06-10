@@ -1,0 +1,59 @@
+=  Arsenal - English Premier League 2008/09
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Manuel Almunia, ESP, G, 1.91, 86, 16-05-77, Pamplona, Celta Vigo
+2, Abou Diaby, FRA, M, 1.88, 75, 11-05-86, Paris, Auxerre
+3, Bacary Sagna, FRA, D, 1.76, 72, 14-02-83, Sens, Auxerre
+4, Cesc Fàbregas, ESP, M, 1.77, 69, 04-05-87, Arenys de Mar, Barcelona
+5, Kolo Touré, CIV, D, 1.83, 76, 19-03-81, Sokoura Bouaké, ASEC Mimosas
+7, Tomáš Rosický, CZE, M, 1.78, 67, 04-10-80, Prague, Borussia Dortmund
+8, Samir Nasri, FRA, M, 1.77, 75, 26-06-87, Marseille, Marseille
+9, Eduardo, CRO, F, 1.77, 70, 25-02-83, Rio de Janeiro, Dinamo Zagreb
+10, William Gallas, FRA, D, 1.83, 72, 17-08-77, Asnieres, Chelsea
+11, Robin van Persie, NED, F, 1.83, 71, 06-08-83, Rotterdam, Feyenoord
+12, Carlos Vela, MEX, F, 1.76, 72, 01-03-89, Cancún, Guadalajara
+14, Theo Walcott, ENG, F, 1.75, 68, 16-03-89, Stanmore, Southampton
+15, Denílson, BRA, M, 1.78, 68, 16-02-88, São Paulo, São Paulo
+16, Aaron Ramsey, WAL, M, 1.78, 76, 26-12-90, Caerphilly, Cardiff C
+17, Alexandre Song, CMR, M, 1.84, 76, 09-09-87, Douala, Bastia
+18, Mikaël Silvestre, FRA, D, 1.84, 82, 09-08-77, Chambray-Les-Tours, Manchester U
+19, Jack Wilshere, ENG, M, 1.70, 65, 01-01-92, Stevenage, None
+20, Johan Djourou, SUI, D, 1.91, 83, 18-01-87, Abidjan, Etoile-Carouge
+21, Łukasz Fabiański, POL, G, 1.90, 84, 18-04-85, Kostrzyn nad Odrą, Legia Warszawa
+22, Gaël Clichy, FRA, D, 1.81, 72, 26-07-85, Toulouse, Cannes
+23, Andrey Arshavin, RUS, M, 1.72, 71, 29-05-81, St. Petersburg, Zenit St. Petersburg
+24, Vito Mannone, ITA, G, 1.94, 73, 02-03-88, Desio, Atalanta
+25, Emmanuel Adebayor, TOG, F, 1.91, 75, 26-02-84, Lomé, Monaco
+26, Nicklas Bendtner, DEN, F, 1.92, 83, 16-01-88, Copenhagen, FC København
+27, Emmanuel Eboué, CIV, D, 1.78, 72, 04-06-83, Abidjan, Beveren
+28, Amaury Bischoff, POR, M, 1.76, 65, 31-03-87, Colmar, Werder Bremen
+34, Kyle Bartley, ENG, D, 1.80, 70, 22-05-91, Manchester, Bolton W
+35, Francis Coquelin, FRA, M, 1.78, 73, 13-05-91, Laval, Laval
+36, Thomas Cruise, ENG, D, 1.85, 80, 09-03-91, Islington, None
+37, James Dunne, ENG, M, 1.80, 69, 18-09-89, Farnborough, Wimbledon
+38, Jay Emmanuel-Thomas, ENG, M, 1.75, 72, 27-12-90, Forest Gate, None
+39, Rui Fonte, POR, F, 1.81, 73, 23-04-90, Penafiel, Sporting CP
+40, Kieran Gibbs, ENG, D, 1.80, 70, 26-09-89, Lambeth, None
+42, Henri Lansbury, ENG, M, 1.83, 85, 12-10-90, Enfield, None
+43, Fran Mérida, ESP, M, 1.75, 70, 04-03-90, Barcelona, Barcelona
+44, Rhys Murphy, ENG, F, 1.86, 76, 06-11-90, Shoreham-by-Sea, None
+47, Mark Randall, ENG, M, 1.83, 82, 28-09-89, Milton Keynes, None
+48, Jonas Hebo Rasmussen, DEN, M, 1.85, , 01-08-91, , Hvidovre
+51, René Steer, ENG, D, 1.78, 78, 31-01-90, Luton, None
+52, Gilles Sunu, FRA, F, 1.80, 70, 30-03-91, Châteauroux, Châteauroux
+53, Wojciech Szczęsny, POL, G, 1.95, 84, 18-04-90, Warsaw, Legia Warszawa
+55, Sanchez Watt, ENG, M, 1.80, 76, 14-02-91, Hackney, None
+56, Emmanuel Frimpong, ENG, M, 1.83, 83, 10-01-92, Accra, None
+57, Conor Henderson, IRL, M, 1.85, 76, 08-09-91, Sidcup, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Nacer Barazite, NED, M, 1.88, 83, 27-05-90, Arnhem, Derby Co (On Loan)
+30, Armand Traoré, FRA, D, 1.85, 82, 08-10-89, Paris, Portsmouth (On Loan)
+6, Philippe Senderos, SUI, D, 1.90, 84, 14-02-85, Geneva, Milan (On Loan)
+41, Gavin Hoyte, ENG, D, 1.80, 70, 06-06-90, Waltham Forest, Watford (On Loan)
+50, Jay Simpson, ENG, F, 1.80, 85, 01-12-88, London, WBA (On Loan)
+46, Abu Ogogo, ENG, D, 1.73, 64, 03-11-89, Epsom, Barnet (On Loan)
+49, Paul Rodgers, ENG, D, 1.79, 76, 06-10-89, Edmonton, Northampton T (On Loan)
+45, Håvard Nordtveit, NOR, D, 1.86, 72, 21-06-90, Vats, Lillestrøm (On Loan)

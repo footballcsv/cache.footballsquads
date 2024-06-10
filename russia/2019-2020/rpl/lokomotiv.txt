@@ -1,0 +1,32 @@
+=  Lokomotiv Moscow - Russian Premier League 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guilherme, RUS, G, 1.97, 78, 12-12-85, Cataguases, Atlético Paranaense
+2, Dmitriy Zhivoglyadov, RUS, D, 1.78, 65, 29-05-94, Dubna, FC Ufa
+3, Brian Idowu, NGA, D, 1.80, 75, 18-05-92, St. Petersburg, Amkar Perm
+5, Benedikt Höwedes, GER, D, 1.88, 77, 29-02-88, Haltern am See, Schalke
+6, Dmitriy Barinov, RUS, M, 1.79, 72, 11-09-96, Ogudnevo, Lokomotiv-2
+7, Grzegorz Krychowiak, POL, M, 1.86, 83, 29-01-90, Gryfice, Paris St-Germain
+8, Jefferson Farfán, PER, M, 1.78, 73, 28-10-84, Lima, Al-Jazira
+11, Anton Miranchuk, RUS, M, 1.83, 72, 17-10-95, Slavyansk-na-Kubani, Lokomotiv-2
+14, Vedran Ćorluka, CRO, D, 1.93, 84, 05-02-86, Derventa, Tottenham H
+17, Rifat Zhemaletdinov, RUS, F, 1.84, 80, 20-09-96, Moscow, Rubin Kazan
+18, Aleksandr Kolomeytsev, RUS, M, 1.82, 78, 21-02-89, Surgut, Amkar Perm
+19, Éder, POR, F, 1.88, 81, 22-12-87, Bissau, Lille
+20, Vladislav Ignatyev, RUS, M, 1.80, 72, 20-01-87, Naberezhnye Chelny, Kuban Krasnodar
+22, Luka Djordjević, MNE, F, 1.85, 70, 09-07-94, Budva, Zenit St Petersburg
+23, João Mário, POR, M, 1.73, 72, 19-01-93, Porto, Internazionale
+27, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Cruzeiro
+28, Boris Rotenberg, FIN, D, 1.89, 83, 19-05-86, St. Petersburg, Dynamo Moscow
+30, Nikita Medvedev, RUS, G, 1.92, 80, 17-12-94, Izhevsk, FC Rostov
+31, Maciej Rybus, POL, M, 1.72, 75, 19-08-89, Łowicz, Lyon
+33, Solomon Kvirkvelia, GEO, D, 1.90, 75, 06-02-92, Samtredia, Rubin Kazan
+59, Aleksey Miranchuk, RUS, M, 1.82, 74, 17-10-95, Slavyansk-na-Kubani, Lokomotiv-2
+67, Roman Tugarev, RUS, M, 1.70, 63, 22-07-98, Izhevsk, Lokomotiv-2
+77, Anton Kochenkov, RUS, G, 1.97, 87, 02-04-87, Bishkek, Mordovia Saransk
+84, Mikhail Lysov, RUS, D, 1.82, 72, 29-01-98, Vladimir, Lokomotiv-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Fedor Smolov, RUS, F, 1.87, 80, 09-02-90, Saratov, Celta Vigo (On Loan)

@@ -1,0 +1,69 @@
+=  Lazio - Italian Serie A 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Albano Bizzarri, ARG, G, 1.93, 89, 09-11-77, Etruria, Catania
+2, Stephan Lichtsteiner, SUI, D, 1.81, 69, 16-01-84, Adligenswil, Lille
+3, Lionel Scaloni, ARG, M, 1.82, 80, 16-05-78, Rosario, Racing Santander
+4, Fabio Firmani, ITA, M, 1.78, 69, 26-05-78, Rome, Catania
+5, Stefano Mauri, ITA, M, 1.84, 77, 08-01-80, Monza, Udinese
+6, Ousmane Dabo, FRA, M, 1.85, 84, 08-02-77, Laval, Manchester C
+7, Gonzalo Barreto, URU, F, 1.74, 71, 22-01-92, Montevideo, Danubio
+8, Matuzalem, BRA, M, 1.75, 70, 10-06-80, Natal, Zaragoza
+9, Tommaso Rocchi, ITA, F, 1.77, 71, 19-09-77, Venice, Empoli
+10, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, Al Sadd
+11, Aleksandar Kolarov, SRB, D, 1.87, 83, 10-11-85, Belgrade, OFK Belgrade
+13, Sebastiano Siviglia, ITA, D, 1.82, 70, 29-03-73, Palizzi Marina, Parma
+15, Thomas Hitzlsperger, GER, M, 1.83, 80, 05-04-82, Munich, Stuttgart
+17, Pasquale Foggia, ITA, M, 1.68, 64, 03-06-83, Naples, Milan
+18, Stephen Makinwa, NGA, F, 1.86, 78, 26-07-83, Lagos, Palermo
+20, Sergio Floccari, ITA, F, 1.78, 74, 12-11-81, Vibo Valentia, Genoa
+21, Simone Inzaghi, ITA, F, 1.83, 75, 05-04-76, Piacenza, Piacenza
+23, Mourad Meghni, ALG, M, 1.80, 72, 16-04-84, Paris, Bologna
+24, Cristian Ledesma, ARG, M, 1.80, 70, 24-09-82, Buenos Aires, Lecce
+25, Giuseppe Biava, ITA, D, 1.80, 73, 08-05-77, Seriate, Genoa
+26, Ştefan Radu, ROU, D, 1.83, 79, 22-10-86, Bucharest, Dinamo Bucureşti
+28, Guglielmo Stendardo, ITA, D, 1.90, 88, 06-05-81, Naples, Perugia
+32, Cristian Brocchi, ITA, M, 1.71, 70, 30-01-76, Milan, Milan
+33, Roberto Baronio, ITA, M, 1.80, 74, 11-12-77, Manerbio, Brescia
+40, Antony Iannarilli, ITA, G, 1.86, 82, 18-12-90, Alatri, None
+41, Jacopo Sciamanna, ITA, F, , , 24-05-90, Viterbo, None
+42, Federico Sevieri, ITA, D, 1.74, 69, 19-03-91, Rome, None
+43, Alessandro Berardi, ITA, G, 1.73, 70, 16-01-91, Rome, None
+44, Davide Mangerini, ITA, G, , , 15-07-92, Rome, None
+45, Giuseppe Capua, ITA, D, , , 11-01-92, Priverno, None
+46, Luis Pedro Cavanda, BEL, D, 1.80, 76, 02-01-91, Luanda, None
+47, Alessio Campoli, ITA, D, 1.90, , 17-01-92, Rome, None
+48, Marco Lanni, ITA, D, , , 20-04-92, Colleferro, None
+49, Luca Crescenzi, ITA, D, 1.81, 71, 02-04-92, Rome, None
+50, Lorenzo Petroni, ITA, D, , , 01-04-92, Rome, None
+51, Manuel Ricci, ITA, M, , , 25-04-90, Anzio, None
+52, Alessio Luciani, ITA, D, 1.76, 71, 16-01-90, Rieti, None
+53, Alessandro Di Mario, ITA, F, , , 18-07-91, Rome, None
+54, Alvaro Cavalieri, ITA, F, , , 21-03-91, Magliano Sabina, None
+55, Tommaso Ceccarelli, ITA, F, 1.76, 72, 02-06-92, Rome, None
+56, Lorenzo Cinque, ITA, F, 1.75, 72, 22-08-91, Rome, None
+57, Enrico Zampa, ITA, M, 1.75, 72, 18-03-92, Frascati, None
+58, Flavio Trombetta, ITA, F, , , 05-02-92, Rome, None
+59, Mario Coppola, ITA, M, , , 07-08-90, Aversa, Faenza
+68, Christian Manfredini, ITA, M, 1.80, 73, 05-01-75, Port Bouet, Perugia
+74, Julio Cruz, ARG, F, 1.90, 78, 10-10-74, Santiago del Estero, Internazionale
+79, Riccardo Bonetto, ITA, M, 1.77, 68, 20-03-79, Asolo, Empoli
+80, André Dias, BRA, D, 1.84, 80, 15-05-79, São Bernardo do Campo, São Paulo
+81, Simone Del Nero, ITA, F, 1.87, 76, 04-08-81, Ortonovo, Brescia
+86, Fernando Muslera, URU, G, 1.90, 77, 16-06-86, Montevideo, Nacional [URU]
+87, Modibo Diakité, FRA, D, 1.92, 84, 02-03-87, Bourg-la-Reine, Pescara
+88, Tommaso Berni, ITA, G, 1.85, 80, 06-03-83, Florence, Ternana
+91, Marco Davide Faraoni, ITA, D, 1.80, 71, 25-10-91, Bracciano, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Lorenzo De Silvestri, ITA, D, 1.85, 78, 23-05-88, Rome, Fiorentina
+90, Ettore Mendicino, ITA, F, 1.84, 78, 11-02-90, Milan, Crotone (On Loan)
+14, Lucas Correa, ARG, M, 1.80, 66, 03-02-84, Rosario, Taranto (On Loan)
+89, Vincent Degrè, FRA, G, 1.86, 76, 05-02-89, Saint-Avold, 
+19, Goran Pandev, MKD, F, 1.84, 75, 27-07-83, Strumica, Internazionale
+25, Emilson Cribari, BRA, D, 1.85, 72, 06-03-80, Cambara, Siena (On Loan)
+7, Eliseu, POR, F, 1.75, 75, 01-10-83, Acoras, Zaragoza (On Loan)
+99, Riccardo Perpetuini, ITA, M, 1.77, 70, 04-08-90, Latina, Crotone (On Loan)
+22, Ivan Artipoli, ITA, D, 1.84, 75, 24-03-86, Pescara, Foggia (On Loan)

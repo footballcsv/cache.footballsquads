@@ -1,0 +1,41 @@
+=  Gençlerbirligi - Turkish Süper Lig 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Serdar Kulbilge, TUR, G, 1.86, 84, 07-07-80, Hayrabolu, Kocaelispor
+3, Alparslan Erdem, GER, D, 1.74, 66, 11-12-88, Vechta, Galatasaray
+5, İlhan Eker, TUR, D, 1.85, 85, 01-01-83, Balıkesir, Gençlerbirliği OFTAŞ
+6, Kerem Şeras, TUR, M, 1.75, 78, 01-01-84, Ankara, Gençlerbirliği Asaş
+7, Serkan Çalik, TUR, F, 1.67, 64, 15-03-86, Dinslaken, Galatasaray
+8, Labinot Harbuzi, SWE, M, 1.75, 68, 04-04-86, Allhelgona, Malmö FF
+9, Kahê, BRA, F, 1.87, 92, 28-08-82, São Paulo, B Mönchengladbach
+10, Sandro, BRA, M, 1.77, 74, 01-10-83, Fortaleza, Paraná
+11, Mustafa Pektemek, TUR, F, 1.82, 78, 11-08-88, Akyazı, Sakaryaspor
+12, Tozo, BRA, M, 1.80, 78, 15-08-80, Mogi Mirim, Náutico
+15, Sinan Ayrancı, SWE, F, 1.90, 88, 09-07-90, , IF Brommapojkarna
+16, Patiyo Tambwe, COD, F, 1.85, 68, 07-01-84, Beni, Hacettepe
+17, Hurşut Meriç, NED, M, 1.73, 75, 31-07-83, Amsterdam, ADO Den Haag
+20, Sebahattin Usta, TUR, M, 1.75, 73, 09-06-90, Montbéliard, None
+21, Burhan Eşer, TUR, M, 1.80, 66, 01-01-85, Lice, Diyarbakırspor
+22, Efşan Geçkin, TUR, D, 1.83, 83, 26-01-92, Ankara, None
+26, Mahmut Boz, TUR, D, 1.82, 83, 16-04-91, Eskişehir, None
+28, Ivan Radeljić, BIH, D, 1.90, 85, 14-09-80, Imotski, Energie Cottbus
+30, Jurica Vranješ, CRO, M, 1.86, 77, 31-01-80, Živinice, Werder Bremen
+40, Cem Can, TUR, M, 1.79, 72, 01-04-81, Ankara, Ankaragücü
+42, Hamit Yildiz, TUR, D, 1.83, 82, 07-06-87, Diyarbakir, FC Volendam
+58, Özkan Karabulut, TUR, G, 1.86, 82, 16-01-91, Mamak, None
+61, Bilal Çubukçu, TUR, M, 1.76, 70, 16-05-87, Berlin, Hertha Berlin
+67, Orhan Şam, TUR, D, 1.80, 74, 01-06-86, Zonguldak, Gençlerbirliği Asaş
+69, Murat Kalkan, TUR, D, 1.81, 70, 20-05-86, Bayburt, Stuttgart
+88, Aykut Demir, TUR, D, 1.80, 67, 22-10-88, Bergen op Zoom, NAC Breda
+99, Ulaş Güler, TUR, G, 1.80, 77, 08-04-80, Aydin, Muğlaspor
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Mile Jedinak, AUS, M, 1.89, 88, 03-08-84, Sydney, Antalyaspor (On Loan)
+33, Efe Halil Özarslan, TUR, D, 1.95, 86, 29-03-90, Mersin, Ankara Demirspor (On Loan)
+52, Sezai Zehiroğlu, TUR, M, 1.80, 72, 25-07-88, Ulm, Hacettepe (On Loan)
+77, Ferhat Kiraz, TUR, M, 1.77, 68, 02-01-89, Bozkır, Hacettepe (On Loan)
+19, Bruce Djite, AUS, F, 1.84, 84, 25-03-87, Washington, DC, Diyarbakırspor (On Loan)
+24, Daniel Addo, GHA, D, 1.85, 80, 06-03-87, Accra, Hapoel Petah Tikva
+18, Jacques Momha, CMR, M, 1.76, 74, 07-08-82, Édéa, Manisaspor

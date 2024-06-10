@@ -1,0 +1,46 @@
+=  Fiorentina - Italian Serie A 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Gonzalo Rodríguez, ARG, D, 1.82, 79, 10-04-84, Buenos Aires, Villarreal
+4, Nenad Tomović, SRB, D, 1.84, 79, 30-08-87, Kragujevac, Genoa
+5, Milan Badelj, CRO, M, 1.86, 76, 25-02-89, Zagreb, Hamburg
+6, Facundo Alberto Costa, ARG, M, 1.76, 75, 09-01-85, Buenos Aires, Spartak Moscow
+7, Mauro Zárate, ARG, F, 1.76, 76, 18-03-87, Haedo, West Ham U
+8, Matías Vecino, URU, M, 1.87, 81, 24-08-91, Canelones, Nacional [URU]
+9, Nikola Kalinić, CRO, F, 1.87, 80, 05-01-88, Split, Dnipro Dnipropetrovsk
+10, Federico Bernardeschi, ITA, F, 1.83, 75, 16-02-94, Carrara, None
+12, Ciprian Tătăruşanu, ROU, G, 1.94, 89, 09-02-86, Bucharest, Steaua Bucureşti
+13, Davide Astori, ITA, D, 1.88, 80, 07-01-87, San Giovanni Bianco, Cagliari
+14, Matías Fernández, CHI, M, 1.78, 72, 15-05-86, Merlo, Sporting CP
+16, Jakub Błaszczykowski, POL, M, 1.76, 77, 14-12-85, Częstochowa, Borussia Dortmund
+20, Borja Valero, ESP, M, 1.74, 73, 12-01-85, Madrid, Villarreal
+23, Manuel Pasqual, ITA, D, 1.78, 71, 13-03-82, San Donà di Piave, Arezzo
+24, Luca Lezzerini, ITA, G, 1.95, 86, 24-03-95, Rome, None
+25, Yohan Benalouane, TUN, D, 1.80, 74, 28-03-87, Bagnols-sur-Cèze, Leicester C
+26, Panagiotis Kone, GRE, M, 1.83, 76, 26-07-87, Tirana, Udinese
+27, Cristian Tello, ESP, F, 1.78, 66, 19-08-91, Sabadell, Barcelona
+28, Marcos Alonso, ESP, D, 1.88, 81, 28-12-90, Madrid, Bolton W
+30, Khouma Babacar, SEN, F, 1.84, 68, 17-03-93, Thiès, None
+32, Facundo Roncaglia, ARG, D, 1.79, 76, 10-02-87, Chajarí, Boca Juniors
+33, Luigi Sepe, ITA, G, 1.91, 90, 08-05-91, Torre del Greco, Napoli
+34, Giacomo Satalino, ITA, G, 1.88, 75, 20-05-99, Putignano, Esperia Monopoli
+35, Simone Minelli, ITA, M, 1.66, 63, 08-01-97, Carpi, Reggiana
+36, Federico Chiesa, ITA, F, 1.75, 70, 25-10-97, Genoa, None
+72, Josip Iličić, SVN, M, 1.89, 79, 29-01-88, Kranj, Palermo
+98, Abdou Diakhaté, SEN, M, 1.79, 78, 31-12-98, Dakar, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+6, Ahmed Hegazy, EGY, D, 1.93, 83, 25-01-91, Ismaïlia, Al-Ahly [EGY]
+7, Joaquín, ESP, M, 1.79, 75, 21-07-81, Puerto de Santa Maria, Betis
+19, José María Basanta, ARG, D, 1.88, 78, 03-04-84, Tres Sargentos, Monterrey (On Loan)
+15, Ricardo Bagadur, CRO, D, 1.89, 87, 16-09-95, Rijeka, Salernitana (On Loan)
+11, Ante Rebić, CRO, F, 1.85, 77, 21-09-93, Split, Verona (On Loan)
+27, Marko Bakić, MNE, M, 1.87, 73, 01-11-93, Budva, Belenenses (On Loan)
+90, Jaime Báez, URU, F, 1.79, 73, 24-04-95, Montevideo, Livorno (On Loan)
+22, Giuseppe Rossi, ITA, F, 1.73, 73, 01-02-87, Teaneck, Levante (On Loan)
+17, Nicolò Fazzi, ITA, F, 1.80, 66, 02-03-95, Borgo a Mozzano, Crotone (On Loan)
+18, Mario Suárez, ESP, M, 1.85, 77, 24-02-87, Madrid, Watford
+3, Gilberto, BRA, D, 1.81, 68, 07-03-93, Rio de Janeiro, Verona (On Loan)
+21, Joan Verdú, ESP, M, 1.76, 72, 05-05-83, Barcelona, Levante (On Loan)

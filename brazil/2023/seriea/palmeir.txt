@@ -1,0 +1,45 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, Atlético Mineiro
+6, Vanderlan, BRA, D, 1.83, 74, 07-09-02, Brumado, None
+7, Dudu, BRA, F, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+8, Zé Rafael, BRA, M, 1.75, 71, 16-06-93, Ponta Grossa, Bahia
+9, Endrick, BRA, F, 1.73, 80, 21-07-06, Brasília, None
+10, Rony, BRA, F, 1.70, 65, 11-05-95, Magalhães Barata, Athletico Paranaense
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Artur, BRA, F, 1.68, 65, 15-02-98, Fortaleza, Red Bull Bragantino
+15, Gustavo Gómez, PAR, D, 1.86, 85, 06-06-93, Misiones, Milan
+18, José Manuel López, ARG, F, 1.90, 74, 06-12-00, San Lorenzo, Lanús
+19, Breno Lopes, BRA, F, 1.78, 71, 24-01-96, Belo Horizonte, Juventude
+20, Eduard Atuesta, COL, M, 1.80, 71, 18-06-97, Vélez, Los Angeles FC
+21, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Atlético Paranaense
+22, Joaquín Piquerez, URU, D, 1.83, 75, 24-08-98, Montevideo, Peñarol
+23, Raphael Veiga, BRA, M, 1.76, 73, 19-06-95, São Paulo, Coritiba
+24, Mateus Oliveira, BRA, G, 1.99, 89, 02-05-02, Cajazeiras, None
+25, Gabriel Menino, BRA, M, 1.76, 78, 29-09-00, Morungaba, None
+26, Murilo Cerqueira, BRA, D, 1.87, 84, 27-03-97, São Gonçalo dos Campos, Lokomotiv Moscow
+27, Richard Rios, COL, M, 1.85, 77, 02-06-00, Vegachí, Guarani
+30, Jailson, BRA, M, 1.78, 74, 07-09-95, Caçapava do Sul, Dalian Pro
+31, Luis Guilherme, BRA, M, 1.75, 65, 09-02-06, Aracaju, None
+32, Gustavo Garcia, BRA, D, 1.75, 68, 04-01-02, São Paulo, None
+33, Michel, BRA, D, 1.88, 75, 20-05-03, Avaré, None
+34, Kaiky Naves, BRA, D, 1.80, 78, 08-05-02, Santos, None
+35, Fabinho, BRA, M, 1.78, 75, 09-04-02, Natal, None
+36, Ian Custódio, BRA, D, 1.77, 82, 16-04-03, São Paulo, None
+37, Kevin, BRA, F, 1.76, 71, 04-01-03, São Paulo, Desportivo Brasil
+40, Jhon Jhon, BRA, M, 1.77, 73, 09-09-02, Vitória, Primavera
+42, Marcelo Lomba, BRA, G, 1.87, 80, 18-12-86, Rio de Janeiro, Internacional
+45, Léo Azevedo, BRA, M, 1.83, 80, 14-03-04, Caetés, None
+47, Kauan Santos, BRA, F, 1.64, 66, 17-06-04, Planaltina, None
+51, Kaique, BRA, G, 1.90, 87, 16-04-03, São Paulo, None
+57, Edney, BRA, M, 1.75, 75, 26-07-04, Dias d'Ávila, São Caetano
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Giovani, BRA, F, 1.83, 68, 01-01-04, Itaquaquecetuba, Al-Sadd
+1, Vinícius Silvestre, BRA, G, 1.95, 90, 28-03-94, Guarulhos, Portimonense
+29, Rafael Navarro, BRA, F, 1.83, 80, 14-04-00, Cabo Frio, Colorado Rapids (On Loan)
+11, Bruno Tabata, BRA, M, 1.75, 72, 30-03-97, Ipatinga, Qatar SC (On Loan)

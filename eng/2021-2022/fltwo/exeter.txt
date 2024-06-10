@@ -1,0 +1,45 @@
+=  Exeter City - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Cameron Dawson, ENG, G, 1.82, 69, 07-07-95, Sheffield, Sheffield W
+2, Jake Caprice, ENG, D, 1.79, 73, 11-11-92, Lambeth, Tranmere R
+3, Jack Sparkes, ENG, D, 1.75, 63, 29-09-00, Exeter, None
+4, Nigel Atangana, FRA, M, 1.87, 72, 09-09-89, Corbeil-Essonnes, Cheltenham T
+6, Sam Stubbs, ENG, D, 1.83, 64, 20-11-98, Liverpool, Fleetwood T
+7, Matt Jay, ENG, F, 1.78, 69, 27-02-96, Torbay, None
+8, Archie Collins, ENG, M, 1.74, 63, 31-08-99, Taunton, None
+9, Ben Seymour, ENG, F, 1.72, 63, 16-04-99, Watford, None
+10, Sam Nombe, ENG, F, 1.74, 70, 22-10-98, Croydon, MK Dons
+11, Pádraig Amond, IRL, F, 1.80, 75, 23-04-88, Carlow, Newport Co
+12, Josh Key, ENG, M, 1.78, 69, 19-11-99, Torquay, Torquay U
+14, Timothée Dieng, FRA, M, 1.89, 77, 09-04-92, Grenoble, Southend U
+15, Kieran Phillips, ENG, F, 1.81, 74, 23-06-00, Pontefract, Huddersfield T
+17, Kyle Taylor, ENG, M, 1.67, 60, 28-08-99, Richterswil, Bournemouth
+18, Offrande Zanzala, ENG, F, 1.85, 72, 13-12-97, Brazzaville, Barrow
+19, Sonny Cox, ENG, M, 1.78, 79, 11-10-04, Exeter, None
+20, Jevani Brown, JAM, F, 1.75, 75, 16-10-94, Letchworth, Colchester U
+21, Callum Rowe, ENG, D, -, -, 02-09-99, Leicester, Aston Villa
+22, Harry Lee, ENG, G, 1.88, 79, 22-12-04, Torquay, None
+25, Jordan Dyer, ENG, D, 1.83, 78, 29-05-00, Exeter, None
+26, Pierce Sweeney, IRL, D, 1.83, 80, 11-09-94, Dublin, Swindon T
+27, Jonathan Grounds, ENG, D, 1.85, 87, 02-02-88, Ingleby Barwick, Swindon T
+29, Harry Kite, ENG, M, 1.76, 69, 29-06-00, Exeter, None
+31, Josh Coley, ENG, M, 1.77, 70, 24-07-98, Stevenage, Maidenhead U
+32, Nelson Iseguan, ENG, M, 1.85, 68, 11-12-02, -, None
+34, Alex Hartridge, ENG, D, 1.85, 70, 09-03-99, Torquay, None
+35, Jack Veale, ENG, M, -, -, -, -, None
+36, James Dodd, ENG, M, 1.63, 56, 27-10-00, Exeter, None
+37, Michael Lilley, ENG, M, -, -, -, -, None
+38, Jack Arthur, ENG, G, -, -, -, -, None
+39, Cheick Diabaté, ENG, D, 1.92, 84, 19-06-01, Southwark, Stevenage
+40, Scott Brown, ENG, G, 1.84, 96, 26-04-85, Wolverhampton, Port Vale
+41, Ellis Johnson, ENG, D, -, -, 15-06-03, -, None
+42, Alfie Pond, ENG, D, 1.91, 86, 17-02-04, Exeter, None
+43, Charlie Hanson, ENG, F, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+30, Owura Edwards, ENG, M, 1.73, 68, 10-04-01, Bristol, Bristol C
+5, George Ray, WAL, D, 1.78, 71, 13-10-93, Warrington, Leyton Orient (On Loan)
+23, Colin Daniel, ENG, D, 1.80, 73, 15-02-88, Nottingham, Aldershot T (On Loan)

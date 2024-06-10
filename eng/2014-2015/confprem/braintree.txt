@@ -1,0 +1,33 @@
+=  Braintree Town - English Football Conference Premier 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Nick Hamann, GER, G, 1.88, 85, 04-09-87, Dresden, Carshalton Ath
+2, Mitch Brundle, ENG, D, 1.78, 78, 04-12-94, Croydon, Bristol C
+3, Samuel Habergham, ENG, D, 1.83, 73, 20-02-92, Rotherham, Tamworth
+4, Chez Isaac, ENG, M, 1.77, 76, 16-11-92, Hatfield, Boreham Wood
+5, Matt Paine, ENG, D, 1.85, 82, 22-12-87, Sidcup, Thurrock
+6, Alan Massey, ENG, D, 1.80, 76, 11-01-89, High Wycombe, Wealdstone
+8, Kenny Davis, ENG, M, 1.72, 71, 17-04-88, London, Grays Ath
+9, Sean Marks, ENG, F, , , 25-11-85, Harlow, Heybridge Swifts
+10, Charlie Strutton, ENG, F, 1.82, 83, 17-04-89, Brent, AFC Wimbledon
+11, Daniel Sparkes, ENG, M, 1.94, 93, 20-07-91, Peterborough, Histon
+12, Michael Bakare, ENG, F, 1.83, 75, 01-12-86, Hackney, Tonbridge Angels
+14, Steven Smith, IRL, D, , , 19-04-94, London, Bromley
+15, Simeon Akinola, NGA, F, 1.78, 76, 06-08-92, Lagos, Harrow Boro
+16, Joe Maybanks, ENG, F, , , 31-07-97, Chelmsford, None
+17, Bernard Mensah, ENG, F, 1.73, 59, 29-12-94, Hounslow, Watford
+18, Jordan Cox, ENG, F, , , 19-02-91, , None
+19, George Pullen, ENG, M, , , , , None
+20, Remy Clerima, FRA, D, , , 20-09-90, , Brackley T
+23, Ryan Peters, ENG, D, 1.73, 67, 21-08-87, Wandsworth, Margate
+24, Joe Moore, ENG, D, , , , , None
+26, James Mulley, ENG, M, 1.73, 64, 30-09-88, Edgware, AFC Wimbledon
+29, Carl Pentney, ENG, G, 1.83, 76, 03-02-89, Colchester, Chelmsford C
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Nathan McDonald, ENG, G, 1.83, 89, 16-05-91, Stevenage, Enfield T (On Loan)
+17, Ryan Case, ENG, D, , , 18-04-94, Basingstoke, Basingstoke T
+21, Omar Sowunmi, ENG, D, 1.98, 93, 07-11-95, Colchester, Ipswich T
+7, Dan Walker, ENG, F, 1.77, 75, 27-04-90, , Eastleigh (On Loan)

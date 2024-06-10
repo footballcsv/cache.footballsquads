@@ -1,0 +1,51 @@
+=  Bari - Italian Serie B 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Enrico Guarna, ITA, G, 1.85, 82, 11-08-85, Catanzaro, Spezia
+2, Stefano Sabelli, ITA, D, 1.80, 74, 13-01-93, Rome, Roma
+3, Simone Salviato, ITA, D, 1.89, 79, 12-07-87, Padua, Novara
+4, Marco Romizi, ITA, M, 1.75, 70, 13-02-90, Arezzo, Fiorentina
+5, Massimo Donati, ITA, M, 1.86, 75, 26-03-81, San Vito al Tagliamento, Verona
+6, Jonathan Rossini, SUI, D, 1.89, 82, 05-04-89, Giubiasco, Sassuolo
+7, Kingsley Boateng, GHA, F, 1.74, 67, 07-04-94, Mpatuam, NAC Breda
+8, Leandro Rinaudo, ITA, D, 1.86, 78, 09-05-83, Palermo, Virtus Entella
+9, Giuseppe De Luca, ITA, F, 1.78, 72, 11-10-91, Angera, Atalanta
+10, Cristian Galano, ITA, F, 1.70, 69, 01-04-91, Foggia, None
+12, Alessandro Micai, ITA, G, 1.86, 77, 24-07-93, Mantova, Südtirol
+13, Simone Benedetti, ITA, D, 1.82, 71, 03-04-92, Turin, Cagliari
+14, Joseph Marie Minala, CMR, M, 1.84, 80, 24-08-96, Yaoundé, Lazio
+15, Matteo Contini, ITA, D, 1.82, 76, 16-04-80, Gemonio, Atalanta
+16, Lorenzo Filippini, ITA, D, 1.83, 76, 28-07-95, Rome, Lazio
+17, Osariemen Ebagua, NGA, F, 1.85, 80, 06-06-86, Benin City, Spezia
+18, Francesco Caputo, ITA, F, 1.80, 75, 06-08-87, Altamura, Noicattaro
+20, Ionuţ Rada, ROU, D, 1.90, 83, 06-07-82, Craiova, CFR Cluj
+22, Antonio Donnarumma, ITA, G, 1.95, 92, 07-07-90, Castellammare di Stabia, Genoa
+23, Pasquale Schiattarella, ITA, M, 1.78, 68, 30-05-87, Mugnano di Napoli, Spezia
+24, Michele Camporese, ITA, D, 1.86, 78, 19-05-92, Tirrenia, Fiorentina
+25, Marino Defendi, ITA, M, 1.76, 73, 19-08-85, Bergamo, Atalanta
+26, Tomislav Gomelt, CRO, M, 1.85, 75, 07-01-95, Sisak, Tottenham H
+27, Marco Calderoni, ITA, D, 1.80, 75, 18-02-89, Latisana, Chievo Verona
+28, Giuseppe Scalera, ITA, D, 1.84, 75, 26-01-98, Bari, None
+30, Gaetano Castrovilli, ITA, F, 1.76, 62, 17-02-97, Canosa di Puglia, None
+32, Nicholas Lentini, ITA, G, 1.88, , 20-08-96, Carrara, Torino
+33, Nicola Bellomo, ITA, M, 1.74, 70, 18-02-91, Bari, Chievo Verona
+34, Manél Minicucci, ITA, M, , , 13-05-95, Rome, Siena
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Diego Albadoro, ITA, F, 1.85, 80, 26-02-89, Naples, Matera
+26, Mario Mercadante, ITA, D, 1.83, 73, 27-02-95, Altamura, Matera (On Loan)
+34, Giovanni Di Noia, ITA, M, 1.80, 75, 03-07-94, Bari, Matera (On Loan)
+32, Francesco Grandolfo, ITA, F, 1.82, 78, 26-07-92, Castellana, Correggese
+19, João Silva, POR, F, 1.89, 80, 21-05-90, Santo Tirso, Palermo
+31, Richard Lugo Martínez, PAR, M, 1.84, 88, 20-06-92, Lambaré, Grosseto
+17, Anthony Partipilo, ITA, M, 1.77, 76, 27-10-94, Bari, Savoia (On Loan)
+11, Alen Stevanović, SRB, M, 1.80, 83, 07-01-91, Zürich, Torino
+29, Federico Masi, ITA, D, 1.90, 84, 10-10-90, Frascati, Lupa Roma
+21, Rafał Wolski, POL, M, 1.79, 66, 10-11-92, Kozienice, Fiorentina
+23, Dembel Sall, SEN, D, 1.83, 78, 16-06-94, Pikine, Pro Piacenza (On Loan)
+20, Adrian Stoian, ROU, M, 1.78, 66, 11-02-91, Craiova, Chievo Verona
+8, Daniele Sciaudone, ITA, M, 1.83, 72, 10-08-88, Bergamo, Catania
+13, Alessandro Ligi, ITA, D, 1.91, 81, 07-11-89, Sassocorvaro, Virtus Entella (On Loan)
+33, Antonio Rozzi, ITA, F, 1.80, 76, 28-05-94, Rome, Lazio

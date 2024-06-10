@@ -1,0 +1,63 @@
+=  Bristol Rovers - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, James Belshaw, ENG, G, 1.91, 83, 12-10-90, Nottingham, Harrogate T
+2, James Connolly, WAL, D, 1.85, 84, 02-11-01, Liverpool, Cardiff C
+4, Josh Grant, ENG, D, 1.83, 78, 11-10-98, Lambeth, Chelsea
+5, Alfie Kilgour, ENG, D, 1.78, 75, 18-05-98, Bath, None
+6, Sam Finley, ENG, M, 1.70, 68, 04-08-92, Liverpool, Fleetwood T
+7, Luke Thomas, ENG, M, 1.71, 67, 19-02-99, Gloucester, Barnsley
+9, Leon Clarke, ENG, F, 1.88, 90, 10-02-85, Birmingham, Shrewsbury T
+10, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Forest Green R
+11, Sam Nicholson, SCO, M, 1.75, 71, 20-01-95, Edinburgh, Colorado Rapids
+12, Elliot Anderson, SCO, M, 1.75, 63, 06-11-02, North Shields, Newcastle U
+15, Paul Coutts, SCO, M, 1.75, 75, 22-07-88, Aberdeen, Fleetwood T
+16, Nick Anderton, ENG, D, 1.88, 79, 22-04-96, Preston, Carlisle U
+17, Connor Taylor, ENG, D, 1.83, 86, 25-10-01, Stoke-on-Trent, Stoke C
+18, Pablo Martínez, WAL, D, 1.86, 75, 11-10-00, Oxford, WBA
+19, Harry Anderson, ENG, M, 1.68, 62, 09-01-97, Slough, Lincoln C
+20, Trevor Clarke, IRL, M, 1.65, 65, 26-03-98, Dublin, Rotherham U
+21, Antony Evans, ENG, M, 1.86, 68, 23-09-98, Fazakerley, Paderborn
+22, Harvey Saunders, ENG, F, 1.81, 72, 20-07-97, Wolverhampton, Fleetwood T
+23, Tom Mehew, ENG, M, 1.81, 65, 26-05-01, Bristol, None
+24, Sion Spence, WAL, M, -, -, 02-10-00, -, Crystal Palace
+25, Cian Harries, WAL, D, 1.83, 77, 01-04-97, Birmingham, Swansea C
+26, Glenn Whelan, IRL, M, 1.80, 79, 13-01-84, Dublin, Fleetwood T
+28, Jon Nolan, ENG, M, 1.75, 72, 22-04-92, Huyton, Ipswich T
+29, Kieran Phillips, ENG, F, 1.81, 74, 13-08-02, Bristol, None
+30, Luca Hoole, WAL, D, 1.78, 64, 02-06-02, Newport, None
+31, Lucas Tomlinson, ENG, M, 1.73, 65, 16-02-01, Bristol, None
+32, Anssi Jaakkola, FIN, G, 1.93, 88, 13-03-87, Kemi, Reading
+33, Alex Rodman, ENG, M, 1.88, 80, 15-12-87, Sutton Coldfield, Shrewsbury T
+34, Ollie Hulbert, ENG, F, 1.81, 73, 05-11-01, Bristol, None
+35, Jed Ward, ENG, G, 1.86, 77, 23-05-03, Bristol, None
+36, Sam Heal, ENG, D, 1.77, 59, 05-11-02, Bristol, None
+37, Kinsly Murray, ENG, M, 1.72, 64, 05-10-02, Bristol, None
+38, Ryan Loft, ENG, F, 1.90, 73, 14-09-97, Gravesend, Scunthorpe U
+39, Junior Brown, ENG, D, 1.75, 68, 07-05-89, Crewe, Scunthorpe U
+41, Jarmani Langlais, ENG, F, -, -, -, -, None
+42, Niall Lovelock, ENG, D, -, -, -, -, None
+43, Jerry Lawrence, ENG, M, -, -, -, -, None
+44, Ryan Jones, ENG, M, 1.77, 70, 23-05-02, Bath, Weston-super-Mare
+45, Airidas Vilinauskas, LTU, G, -, -, -, -, None
+46, Owen Brain, ENG, M, -, -, -, -, None
+47, Lucas Vaughan, ENG, F, -, -, -, -, None
+48, Tyron Mbuenimo, ENG, D, -, -, -, -, None
+49, Harvey Greenslade, ENG, F, 1.86, 75, 08-04-04, Bristol, None
+50, Andreas Smolka, ENG, F, -, -, 02-01-04, -, None
+51, Malik Sesay, ENG, M, -, -, -, -, None
+52, Max Edwards, ENG, M, -, -, -, -, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Jack Baldwin, ENG, D, 1.85, 70, 30-06-93, Redbridge, Ross Co
+9, Brandon Hanlan, ENG, F, 1.82, 73, 31-05-97, Chelsea, Wycombe W
+27, Ben Liddle, ENG, M, 1.70, 75, 21-09-98, Durham, Queen of the South (On Loan)
+39, Josh Barrett, IRL, M, 1.81, 71, 21-06-98, Oxford, King's Lynn T
+38, Joe Budd, WAL, M, 1.76, 58, 23-09-02, Bristol, Taunton T
+3, Mark Hughes, ENG, D, 1.85, 83, 09-12-86, Liverpool, Retired
+8, Zain Westbrooke, ENG, M, 1.80, 65, 28-10-96, Chertsey, Stevenage (On Loan)
+28, Zain Walker, ENG, M, 1.73, 58, 08-01-02, Wandsworth, King's Lynn T
+40, Brett Pitman, ENG, F, 1.83, 70, 31-01-88, Jersey, Eastleigh (On Loan)
+14, Cameron Hargreaves, ENG, M, 1.78, 70, 01-12-98, Plymouth, King's Lynn T (On Loan)

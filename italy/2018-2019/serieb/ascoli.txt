@@ -1,0 +1,60 @@
+=  Ascoli - Italian Serie B 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ivan Lanni, ITA, G, 1.88, 77, 30-06-90, Alatri, Grosseto
+2, Nahuel Valentini, ARG, D, 1.84, 80, 19-09-88, Rosario, Oviedo
+3, Matteo Rubin, ITA, D, 1.83, 75, 09-07-87, Bassano del Grappa, Foggia
+5, Michele Troiano, ITA, M, 1.88, 82, 07-01-85, Desio, Virtus Entella
+6, Salvatore D'Elia, ITA, D, 1.83, 76, 10-02-89, Mugnano di Napoli, Bari
+7, Enrico Baldini, ITA, F, 1.78, 70, 13-11-96, Massa, Internazionale
+8, Gaspar Iñíguez, ARG, M, 1.72, 77, 28-03-94, Villa Jardín, Udinese
+9, Simone Ganz, ITA, F, 1.75, 67, 21-09-93, Genoa, Pescara
+10, Lorenzo Rosseti, ITA, F, 1.88, 74, 05-08-94, Arezzo, Juventus
+11, Nikola Ninković, SRB, F, 1.82, 69, 19-12-94, Bogatić, Genoa
+12, Alessandro Bacci, ITA, G, 1.91, 88, 25-09-95, Prato, Juve Stabia
+14, Emanuele Padella, ITA, D, 1.85, 74, 24-09-88, Rome, Benevento
+15, Danilo Quaranta, ITA, D, 1.92, 75, 23-03-97, Teramo, None
+16, Federico Casarini, ITA, M, 1.81, 72, 07-09-89, Carpi, Novara
+17, Michele Cavion, ITA, M, 1.80, 73, 08-12-94, Schio, Cremonese
+18, Moutir Chajia, BEL, F, 1.77, 72, 04-06-98, Heusden-Zolder, Estoril
+19, Bright Addae, GHA, M, 1.84, 87, 19-12-92, Accra, Parma
+20, Amato Ciciretti, ITA, F, 1.70, 68, 31-12-93, Rome, Napoli
+21, Giacomo Beretta, ITA, F, 1.83, 74, 14-03-92, Varese, Foggia
+22, Vanja Milinković-Savić, SRB, G, 2.02, 92, 20-02-97, Ourense, Torino
+23, Riccardo Brosco, ITA, D, 1.91, 78, 03-02-91, Rome, Verona
+24, Andrea Capponi, ITA, M, , , 15-03-00, Macerata, None
+25, Manuel Ricciardi, ITA, D, , , 17-04-00, Rome, Sansa
+26, Keba Coly, SEN, F, 1.84, 79, 20-02-98, Dakar, Roma
+28, Cristian Andreoni, ITA, D, 1.78, 74, 30-05-92, Vaprio d'Adda, Vicenza
+29, Nicolò Clerici, ITA, M, , , 29-09-99, Ascoli Piceno, None
+30, Davide Frattesi, ITA, M, 1.78, 74, 22-09-99, Rome, Sassuolo
+31, Alessandro De Angelis, ITA, M, 1.78, 74, 04-03-98, Ascoli Piceno, None
+32, Matteo Ardemagni, ITA, F, 1.85, 81, 26-03-87, Milan, Avellino
+33, Andrea Invernizzi, ITA, M, , , 25-02-00, Milan, Milan
+34, Lorenzo Vignati, ITA, D, , , 22-06-00, Milan, Pro Patria
+35, Denis Perpepaj, KVX, F, , , 09-09-99, , Recanatese
+36, Simone Ubaldi, ITA, M, , , 03-05-00, Ancona, None
+37, Lorenzo Laverone, ITA, M, 1.75, 70, 19-04-89, Bagno a Ripoli, Avellino
+38, Maurizio Cosentino, ITA, D, 1.88, 80, 18-05-99, Agropoli, Picerno
+39, Maecky Ngombo, BEL, F, 1.91, 82, 31-03-95, Liège, Bari
+40, Mattia Scevola, ITA, G, , , 23-11-96, Rome, Campus Eur
+41, Riccardo Novi, ITA, G, 1.87, 83, 18-07-00, Ascoli Piceno, None
+42, Francesco Colantonio, ITA, G, , , 21-07-00, Pescara, None
+43, Luigi Sarli, ITA, M, , , 25-02-00, Taranto, Reggiana
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+25, Filippo Florio, ITA, M, 1.80, 70, 23-04-96, Naples, Pordenone
+12, Vincenzo Venditti, ITA, G, 1.90, 82, 23-06-97, Avezzano, Juve Stabia (On Loan)
+37, Edoardo Tassi, ITA, F, 1.84, 77, 10-06-98, Ascoli Piceno, Reggina (On Loan)
+5, Andrea Mengoni, ITA, D, 1.87, 91, 16-09-83, Rome, Virtus Francavilla
+4, Ivan De Santis, ITA, D, 1.84, 77, 21-05-97, Conversano, Virtus Entella (On Loan)
+18, Samuele Parlati, ITA, M, 1.74, 70, 05-02-97, Gallipoli, Bisceglie (On Loan)
+20, Tomasz Kupisz, POL, M, 1.80, 71, 02-01-90, Radom, Livorno (On Loan)
+13, Pierre Desiré Zebli, CIV, M, 1.80, 75, 06-12-97, Abidjan, KRC Genk
+22, Filippo Perucchini, ITA, G, 1.91, 88, 06-10-91, Bergamo, Empoli
+8, Gianluca Carpani, ITA, M, 1.82, 80, 29-08-93, Ascoli Piceno, Rieti (On Loan)
+22, Andrea Fulignati, ITA, G, 1.88, 88, 31-10-94, Empoli, SPAL (On Loan)
+27, Lorenzo Valeau, ITA, D, 1.80, 74, 05-03-99, Rome, Roma
+28, Gianmarco Ingrosso, ITA, D, 1.86, 82, 28-01-89, Gagliano del Capo, Pisa

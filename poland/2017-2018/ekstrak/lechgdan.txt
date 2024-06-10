@@ -1,0 +1,47 @@
+=  Lechia Gdańsk - Polish Ekstraklasa 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dušan Kuciak, SVK, G, 1.94, 87, 21-05-85, Bratislava, Hull C
+2, Mato Miloš, CRO, D, 1.75, 70, 30-06-93, Pula, Benfica
+3, Jakub Wawrzyniak, POL, D, 1.88, 85, 07-07-83, Kutno, Amkar Perm
+4, Gerson, BRA, D, 1.86, 85, 07-01-92, Rio de Janeiro, Kapfenberg
+5, Steven Vitória, POR, D, 1.95, 86, 11-01-87, Toronto, Benfica
+6, Simeon Slavchev, BUL, M, 1.85, 78, 25-09-93, Sofia, Sporting CP
+7, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, Fenerbahçe
+8, Romário Baldé, POR, F, 1.77, 72, 25-12-96, Bissau, Benfica
+9, Patryk Lipski, POL, M, 1.85, 74, 12-06-94, Szczecin, Ruch Chorzów
+10, Sebastian Mila, POL, M, 1.78, 67, 10-07-82, Koszalin, Śląsk Wrocław
+11, Grzegorz Kuświk, POL, F, 1.81, 75, 23-05-87, Ostrów Wielkopolski, Ruch Chorzów
+16, Ariel Borysiuk, POL, M, 1.78, 70, 29-07-91, Biała Podlaska, QPR
+17, Lukáš Haraslín, SVK, M, 1.74, 64, 26-05-96, Bratislava, Parma
+19, Marco Paixão, POR, F, 1.85, 76, 19-09-84, Sesimbra, Sparta Prague
+20, Adam Chrzanowski, POL, D, 1.86, 78, 31-03-99, Warsaw, Znicz Pruszków
+21, Sławomir Peszko, POL, M, 1.74, 67, 19-02-85, Jedlicze, Köln
+22, Filip Mladenović, SRB, D, 1.80, 72, 15-08-91, Čačak, Standard Liège
+23, Grzegorz Wojtkowiak, POL, D, 1.84, 76, 26-01-84, Kostrzyn nad Odrą, 1860 Munich
+25, Michał Nalepa, POL, D, 1.90, 81, 22-01-93, Chrzanów, Ferencváros
+26, Błażej Augustyn, POL, D, 1.91, 89, 26-01-88, Strzelin, Ascoli
+27, Rafał Wolski, POL, M, 1.79, 66, 10-11-92, Kozienice, Fiorentina
+28, Flávio Paixão, POR, M, 1.81, 75, 19-09-84, Sesimbra, Śląsk Wrocław
+29, Mateusz Żukowski, POL, M, 1.85, 82, 23-11-01, Lębork, Pogoń Lębork
+30, João Nunes, POR, D, 1.88, 80, 19-11-95, Setúbal, Benfica
+31, Florian Schikowski, POL, M, 1.81, 74, 10-06-98, Düsseldorf, B Mönchengladbach
+33, Oliver Zelenika, CRO, G, 1.91, 82, 14-05-93, Zagreb, Dinamo Zagreb
+35, Daniel Łukasik, POL, M, 1.80, 75, 28-04-91, Giżycko, Legia Warszawa
+38, Milen Gamakov, BUL, M, 1.89, 77, 12-04-94, Burgas, Botev Plovdiv
+41, Paweł Stolarski, POL, D, 1.81, 72, 28-01-96, Kraków, Wisła Kraków
+71, Maciej Woźniak, POL, G, , , 10-04-01, , Nielba Wągrowiec
+77, Rafał Kobryń, POL, D, 1.84, 77, 05-12-99, Gdańsk, None
+96, João Oliveira, SUI, M, 1.77, 69, 06-01-96, Nyon, Luzern
+99, Przemysław Macierzyński, POL, F, 1.82, 74, 11-02-99, Lubsko, UKS SMS Łódź
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+22, Mario Maloča, CRO, D, 1.89, 75, 04-05-89, Zagreb, Greuther Fürth (On Loan)
+4, Aleksandar Kovačević, SRB, M, 1.73, 67, 09-01-92, Belgrade, Haugesund
+29, Karol Fila, POL, M, 1.80, 72, 13-06-98, Gdańsk, Chojniczanka Chojnice (On Loan)
+18, Jakub Arak, POL, F, 1.82, 72, 02-04-95, Warsaw, Stal Mielec (On Loan)
+77, Damian Podleśny, POL, G, 1.94, 87, 18-05-95, Lubartów, Górnik Łęczna
+13, Mateusz Lewandowski, POL, D, 1.82, 72, 18-03-93, Płock, Śląsk Wrocław (On Loan)
+32, Mateusz Matras, POL, M, 1.93, 87, 23-01-91, Ornontowice, Zagłębie Lubin

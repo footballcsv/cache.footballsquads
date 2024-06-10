@@ -1,0 +1,60 @@
+=  Southend United - English Football League Two 2020/2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mark Oxley, ENG, G, 1.80, 73, 02-06-90, Sheffield, Hibernian
+2, Elvis Bwomono, UGA, D, 1.75, 63, 29-11-98, -, None
+3, Nathan Ralph, ENG, D, 1.75, 70, 14-02-93, Great Dunmow, Dundee
+4, Alan McCormack, IRL, M, 1.73, 64, 10-01-84, Dublin, Northampton T
+5, Shaun Hobson, ENG, D, 1.88, 84, 29-06-98, Manchester, Bournemouth
+6, Tyler Cordner, ENG, D, 1.86, 81, 04-12-98, Southampton, Bournemouth
+7, James Olayinka, ENG, M, 1.76, 69, 05-10-00, Lambeth, Arsenal
+8, Timothée Dieng, FRA, M, 1.89, 77, 09-04-92, Grenoble, Bradford C
+9, Simeon Akinola, NGA, F, 1.78, 76, 06-08-92, Lagos, Barnet
+10, Brandon Goodship, ENG, F, 1.90, 89, 22-09-94, Poole, Yeovil T
+11, Terrell Egbri, ENG, M, 1.63, 60, 21-06-01, Lambeth, None
+12, Tom Clifford, ENG, D, 1.75, 76, 09-02-99, Gravesend, None
+13, Harry Seaden, ENG, G, 1.85, 85, 23-04-01, Southend-on-Sea, None
+14, Rob Howard, ENG, D, 1.80, 76, 15-09-99, Chelmsford, Colchester U
+15, Lewis Gard, ENG, M, 1.78, 68, 26-08-99, Brentwood, None
+16, Harry Phillips, ENG, M, 1.75, 65, 19-09-97, Brentwood, None
+17, Reeco Hackett-Fairchild, ENG, F, 1.91, 70, 30-06-98, Redbridge, Portsmouth
+18, Emile Acquah, ENG, F, 1.91, 80, 13-07-00, Hackney, None
+19, Eren Kinali, ENG, M, 1.78, 75, 24-02-00, Hackney, None
+20, Ashley Nathaniel-George, ENG, M, 1.75, 70, 14-06-95, Brent, Crawley T
+21, Matt Rush, ENG, F, -, -, 11-03-01, -, None
+22, Richard Taylor, NGA, D, 1.89, 73, 02-10-00, Hackney, Burnley
+23, Greg Halford, ENG, D, 1.95, 81, 08-12-84, Chelmsford, Aberdeen
+24, Jason Demetriou, CYP, D, 1.80, 67, 18-11-87, Newham, Walsall
+25, Michael Klass, ENG, M, 1.75, 63, 09-02-99, Hammersmith, QPR
+26, Harry Lennon, ENG, D, 1.90, 75, 16-12-94, Barking, Charlton Ath
+27, Harry Kyprianou, CYP, D, 1.82, 69, 16-03-97, Enfield, Watford
+28, Kyle Taylor, ENG, M, 1.67, 60, 28-08-99, Richterswil, Bournemouth
+29, Jacob Mellis, ENG, M, 1.81, 69, 08-01-91, Nottingham, Gillingham
+30, Ricky Holmes, ENG, M, 1.88, 75, 20-06-87, Uxbridge, Northampton T
+31, O'Shane Stewart, ENG, M, -, -, 21-12-00, -, None
+32, Louis Walsh, ENG, M, -, -, 05-08-00, -, Nottingham F
+34, Oli Coker, ENG, M, -, -, 09-03-03, -, None
+35, Kenny Coker, ENG, F, -, -, -, -, None
+36, Jamie Grossart, ENG, G, -, -, -, -, None
+37, Reiss Chandler, ENG, D, -, -, -, -, None
+38, Tommy Davis, ENG, D, 1.93, -, 16-10-02, -, None
+39, Tayo Adedoja, ENG, F, -, -, -, -, None
+40, Callum Burkey, ENG, M, -, -, -, -, None
+41, Cameron Brown, ENG, M, -, -, -, -, None
+42, Sam Hart, ENG, D, 1.80, 72, 10-09-96, Bolton, Blackburn R
+44, Nathan Ferguson, ENG, M, 1.88, 82, 12-10-95, Walthamstow, Crawley T
+48, John White, ENG, D, 1.83, 70, 26-07-86, Colchester, Colchester U
+50, Nile Ranger, ENG, F, 1.88, 84, 11-04-91, Bounds Green, Spalding U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+9, Stephen Humphrys, ENG, F, 1.85, 69, 15-09-97, Oldham, Rochdale
+17, Isaac Hutchinson, ENG, M, 1.78, 70, 10-04-00, Eastbourne, Derby Co
+23, Charlie Kelman, USA, F, 1.75, 70, 02-11-01, Basildon, QPR
+7, Jordan Green, ENG, F, 1.68, 72, 22-02-95, New Cross, Barnsley
+17, Kazaiah Sterling, ENG, F, 1.75, 71, 09-11-98, Enfield, Tottenham H
+29, Callum Taylor, NIR, G, -, -, 15-01-02, -, 
+30, Miles Mitchell-Nelson, ENG, D, 1.88, 73, 24-11-00, Waltham Forest, De-Registered
+45, Alex Bass, ENG, G, 1.87, 70, 01-04-98, Southampton, Portsmouth
+46, James Montgomery, ENG, G, 1.88, 80, 20-04-94, Sunderland, Gateshead

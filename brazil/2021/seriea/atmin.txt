@@ -1,0 +1,49 @@
+=  Atlético Mineiro - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Guga, BRA, D, 1.77, 66, 29-08-98, Rio de Janeiro, Avaí
+3, Júnior Alonso, PAR, D, 1.85, 80, 09-02-93, Asunción, Lille
+4, Réver, BRA, D, 1.92, 84, 04-01-85, Ariranha, Internacional
+5, Alexandre, BRA, M, 1.69, 63, 17-01-03, Monte Alegre, None
+6, Dodô, BRA, D, 1.77, 75, 06-02-92, Campinas, Sampdoria
+7, Hulk, BRA, F, 1.76, 68, 25-07-86, Campina Grande, Shanghai SIPG
+8, Jair, BRA, M, 1.78, 70, 28-08-94, Ibirubá, Sport Recife
+10, Eduardo Vargas, CHI, F, 1.73, 74, 20-11-89, Santiago, UANL Tigres
+11, Keno, BRA, F, 1.74, 69, 10-09-89, Salvador, Pyramids FC
+13, Guilherme Arana, BRA, D, 1.76, 70, 14-04-97, São Paulo, Sevilla
+15, Matías Zaracho, ARG, M, 1.72, 64, 10-03-98, Wilde, Racing Club
+16, Igor Rabello, BRA, D, 1.90, 87, 28-04-95, Rio de Janeiro, Botafogo
+17, Jefferson Savarino, VEN, F, 1.69, 66, 11-11-96, Maracaibo, Real Salt Lake
+18, Eduardo Sasha, BRA, F, 1.73, 65, 24-02-92, Porto Alegre, Santos
+19, Diego Costa, ESP, F, 1.86, 87, 07-10-88, Lagarto, Atlético Madrid
+20, Hyoran, BRA, M, 1.74, 70, 25-05-93, Chapecó, Palmeiras
+21, Alan Franco, ECU, M, 1.76, 67, 21-08-98, Alfredo Baquerizo Moreno, Independiente del Valle
+22, Éverson, BRA, G, 1.92, 86, 22-07-90, São Paulo, Santos
+23, Nathan, BRA, M, 1.76, 73, 13-03-96, Blumenau, Chelsea
+25, Mariano, BRA, D, 1.77, 70, 23-06-86, São João, Galatasaray
+26, Ignacio Fernández, ARG, M, 1.82, 77, 12-01-90, Castelli, River Plate
+27, Calebe, BRA, M, 1.73, 66, 30-04-00, Monte Azul, São Paulo
+28, Felipe Felício, BRA, F, 1.84, 66, 06-11-02, Belo Horizonte, None
+29, Allan, BRA, M, 1.73, 70, 03-03-97, Porto Alegre, Liverpool
+30, Dylan Borrero, COL, M, 1.79, 72, 05-01-02, Palmira, Santa Fe
+31, Matheus Mendes, BRA, G, 1.91, 83, 10-03-99, Governador Valadares, None
+32, Rafael, BRA, G, 1.92, 81, 23-06-89, Coronel Fabriciano, Cruzeiro
+33, Sávio, BRA, F, 1.74, 71, 10-04-04, Duque de Caxias, None
+34, Jean, BRA, G, 1.96, 89, 24-07-00, Edéia, None
+37, Tchê Tchê, BRA, M, 1.75, 66, 30-08-92, São Paulo, São Paulo
+40, Nathan Silva, BRA, M, 1.82, 79, 06-05-97, Oliveira, None
+41, Neto, BRA, M, 1.78, 76, 11-09-02, Guanambi, None
+43, Luiz Filipe, BRA, F, 1.75, 72, 28-05-01, Camesia, None
+45, Micael, BRA, D, 1.90, 82, 12-08-00, Presidente Prudente, None
+46, Rômulo, BRA, D, 1.82, 78, 31-01-04, Belo Horizonte, None
+48, Echaporã, BRA, F, 1.69, 70, 17-02-00, Echaporã, Figueirense
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+46, Iago, BRA, M, 1.86, 76, 01-03-00, São Bernardo do Campo, Portimonense
+40, Bueno, BRA, D, 1.82, 78, 24-08-95, São Paulo, Kashima Antlers
+30, Gabriel, BRA, D, 1.81, 80, 14-03-95, Pedro Leopoldo, Yokohama FC
+19, Dylan Borrero, COL, M, 1.79, 72, 05-01-02, Palmira, Re-Registered (30)
+38, Marrony, BRA, F, 1.84, 77, 05-02-99, Volta Redonda, FC Midtjylland
+9, Diego Tardelli, BRA, F, 1.79, 72, 10-05-85, Santa Barbara, Santos

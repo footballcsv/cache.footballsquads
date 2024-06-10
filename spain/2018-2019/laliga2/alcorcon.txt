@@ -1,0 +1,42 @@
+=  Alcorcón - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Jiménez, ESP, G, 1.79, 72, 05-03-90, Lebrija, Huesca
+2, Laure, ESP, D, 1.66, 68, 22-03-85, Madrid, Deportivo La Coruña
+3, Héctor Rodas, ESP, D, 1.90, 80, 07-03-88, Valencia, Cercle Brugge
+4, Esteban Burgos, ARG, D, 1.88, 84, 09-01-92, Salta, Godoy Cruz (Mendoza)
+6, Daniel Toribio, ESP, M, 1.73, 73, 05-10-88, Girona, Alavés
+7, Richard Boateng, GHA, M, 1.78, 66, 10-07-92, Accra, Oviedo
+8, Albert Dorca, ESP, M, 1.82, 77, 23-12-82, Olot, Elche
+9, Jonathan Pereira, ESP, F, 1.66, 61, 12-05-87, Vigo, Oviedo
+10, Nono, ESP, M, 1.70, 62, 28-05-91, Badajoz, UCAM Murcia
+11, Víctor, ESP, F, 1.80, 77, 28-02-85, Palma de Mallorca, Tenerife
+12, Fran Sandaza, ESP, F, 1.87, 80, 30-11-84, Toledo, Qingdao Huanghai
+13, Raúl, ESP, G, 1.86, 83, 27-01-91, Las Palmas, Las Palmas
+14, Eddy, AZE, M, 1.91, 84, 02-08-92, Roquetas de Mar, Nàstic
+15, Juan Muñoz, ESP, F, 1.82, 80, 12-11-95, Utrera, Sevilla
+16, Carlos Bellvis, ESP, D, 1.69, 68, 24-04-85, Valencia, Ponferradina
+17, Felipe, ESP, D, 1.75, 66, 14-04-93, Valladolid, Villarreal B
+19, David Fernández, ESP, D, 1.88, 80, 06-04-85, Madrid, Oviedo
+20, Unai Elgezábal, ESP, D, 1.85, 74, 25-04-93, Barakaldo, Eibar
+21, Marco Sangalli, ESP, M, 1.79, 66, 07-02-92, San Sebastián, Mirandés
+22, Jaime Gavilán, ESP, M, 1.78, 71, 12-05-85, Valencia, Chennaiyin
+23, Borja Galán, ESP, M, 1.83, 73, 26-04-93, Madrid, Deportivo La Coruña B
+26, Carlos Parra, ESP, D, 1.68, 65, 18-02-96, Madrid, Alcobendas
+27, Fran Monroy, ESP, M, 1.79, 76, 25-02-97, Vigo, Somozas
+28, David Mayoral, ESP, M, 1.72, 67, 05-04-97, Ávila, Valladolid B
+29, Óscar Arribas, ESP, F, 1.78, 68, 22-10-98, Parla, Alcorcón B
+30, Relu, ESP, M, 1.83, 74, 09-02-98, Madrid, Alcorcón B
+31, Ximo Miralles, ESP, G, 1.85, 80, 14-04-96, Vinarós, Villarreal C
+32, Cavafe, ESP, D, 1.85, 77, 25-04-99, Havana, San Fernando
+33, Aly Abeid, MTN, D, 1.74, 79, 11-12-97, Riyadh, Levante B
+34, Manuel Cedenilla, ESP, D, 1.76, 70, 13-02-98, Talavera de la Reina, Málaga B
+35, Mario Losada, ESP, F, 1.75, 73, 13-05-97, Madrid, Alcorcón B
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+24, Asdrúbal, ESP, F, 1.73, 74, 13-03-91, Las Palmas, Salamanca (On Loan)
+18, Álvaro Peña, ESP, M, 1.78, 70, 24-10-91, Bilbao, Albacete
+7, Borja Domínguez, ESP, M, 1.87, 81, 30-05-92, Vigo, Pontevedra (On Loan)
+5, Jon Errasti, ESP, M, 1.80, 81, 06-06-88, Eibar, Elana Toruń

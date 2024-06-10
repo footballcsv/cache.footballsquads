@@ -1,0 +1,53 @@
+=  Cardiff City - English Football League Championship 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, David Marshall, SCO, G, 1.91, 83, 05-03-85, Glasgow, Norwich C
+2, Kevin McNaughton, SCO, D, 1.78, 66, 28-08-82, Dundee, Aberdeen
+3, Andrew Taylor, ENG, D, 1.78, 69, 01-08-86, Hartlepool, Middlesbrough
+4, Filip Kiss, SVK, M, 1.86, 75, 13-10-90, Dunajská Streda, Slovan Bratislava
+5, Mark Hudson, ENG, D, 1.85, 78, 30-03-82, Guildford, Charlton Ath
+6, Ben Turner, ENG, D, 1.93, 91, 21-01-88, Birmingham, Coventry C
+7, Peter Whittingham, ENG, M, 1.78, 63, 08-10-84, Nuneaton, Aston Villa
+8, Don Cowie, SCO, M, 1.80, 74, 15-02-83, Inverness, Watford
+9, Etien Velikonja, SVN, F, 1.77, 72, 26-12-88, Šempeter pri Gorici, Maribor
+11, Craig Conway, SCO, M, 1.70, 67, 02-05-85, Irvine, Dundee U
+12, Matthew Connolly, ENG, D, 1.88, 84, 24-09-87, Barnet, QPR
+13, Kim Bo-Kyung, KOR, M, 1.78, 73, 06-10-89, Gurye, Cerezo Osaka
+14, Tommy Smith, ENG, F, 1.73, 72, 22-05-80, Hemel Hempstead, QPR
+15, Rudy Gestede, BEN, F, 1.93, 86, 10-10-88, Essey-lès-Nancy, Metz
+16, Craig Noone, ENG, M, 1.73, 67, 17-11-87, Fazackerly, Brighton & HA
+17, Aron Gunnarsson, ISL, M, 1.77, 70, 22-04-89, Akureyri, Coventry C
+18, Jordon Mutch, ENG, M, 1.75, 65, 02-12-91, Birmingham, Birmingham C
+19, Kadeem Harris, ENG, M, 1.74, 67, 08-06-93, Westminster, Wycombe W
+20, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Plymouth Arg
+21, Joe Ralls, ENG, M, 1.83, 70, 13-10-93, Aldershot, None
+22, Heiðar Helguson, ISL, F, 1.78, 77, 22-08-77, Dalvík, QPR
+23, Nicky Maynard, ENG, F, 1.80, 70, 11-12-86, Winsford, West Ham U
+24, Simon Lappin, SCO, M, 1.80, 60, 25-01-83, Glasgow, Norwich C
+27, Fraizer Campbell, ENG, F, 1.80, 78, 13-09-87, Huddersfield, Sunderland
+28, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Gap Connah's Quay
+29, Elliott Parish, ENG, G, 1.88, 83, 20-05-90, Northampton, Aston Villa
+31, Ben Nugent, ENG, D, 1.86, 75, 28-11-93, Street, None
+32, Joe Lewis, ENG, G, 1.98, 85, 06-10-87, Broome, Peterborough U
+34, Jesse Darko, AUT, F, 1.88, 75, 13-03-93, , None
+35, Adedeji Oshilaja, ENG, D, 1.81, 75, 16-07-93, Bermondsey, None
+37, Stephen McPhail, IRL, M, 1.73, 76, 09-12-79, Westminster, Barnsley
+38, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, None
+39, Craig Bellamy, WAL, F, 1.75, 69, 13-07-79, Cardiff, Liverpool
+40, Luke Coulson, ENG, D, 1.79, 71, 06-03-94, St Helens, Manchester C
+42, Declan John, WAL, M, 1.78, 75, 30-06-95, Merthyr Tydfil, None
+43, Gethyn Hill, WAL, F, 1.83, 75, 18-01-95, Pontypool, None
+44, Ibrahim Mansaray, DEN, M, , , 31-10-92, , Brøndby
+45, Theo Wharton, WAL, M, 1.78, 68, 15-11-94, Newport, None
+46, Jaye Bowen, WAL, M, , , 10-04-95, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Darcy Blake, WAL, M, 1.65, 68, 13-12-88, Caerphilly, Crystal Palace
+28, Dekel Keinan, ISR, D, 1.84, 74, 15-09-84, Rosh HaNikra, Maccabi Haifa
+25, Kerim Frei, TUR, M, 1.71, 66, 19-11-93, Feldkirch, Fulham
+36, Kevin Sainte-Luce, FRA, M, 1.78, 75, 28-04-93, Paris, AFC Wimbledon
+33, Nathaniel Jarvis, WAL, F, 1.83, 79, 20-10-91, Cardiff, Kidderminster H (On Loan)
+10, Robert Earnshaw, WAL, F, 1.73, 68, 06-04-81, Mulfulira, Toronto FC
+25, Leon Barnett, ENG, D, 1.85, 71, 30-11-85, Luton, Norwich C

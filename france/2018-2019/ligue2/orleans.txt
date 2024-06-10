@@ -1,0 +1,36 @@
+=  Orléans - French Ligue 2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Thomas Renault, FRA, G, 1.84, 80, 05-03-84, Orléans, None
+2, Redha Fresneau, FRA, D, 1.82, 75, 21-09-98, , None
+3, Cédric Cambon, FRA, D, 1.84, 76, 20-09-86, Montpellier, Le Havre
+4, Gabriel Mutombo, FRA, D, 1.86, 75, 19-01-96, Villeurbanne, Angers
+5, Adrien Monfray, FRA, D, 1.85, 76, 20-12-90, Nice, Laval
+6, Maxime D'Arpino, FRA, M, 1.75, 70, 17-06-96, Villeurbanne, Lyon
+7, Gaëtan Perrin, FRA, M, 1.69, 63, 07-06-96, Lyon, Lyon
+8, Ousmane Cissokho, SEN, M, 1.75, 68, 14-01-87, St Louis, Nîmes
+9, Anthony Le Tallec, FRA, F, 1.84, 73, 03-10-84, Hennebont, Astra Giurgiu
+10, Karim Ziani, ALG, M, 1.69, 66, 17-08-82, Sèvres, Petrolul Ploiești
+11, Jordan Tell, FRA, F, 1.85, 74, 10-06-97, Les Abymes, Rennes
+14, Adama Traoré, MLI, F, 1.77, 70, 05-06-95, Bamako, Metz
+16, Alexis Sevestre, FRA, G, 1.83, 69, 06-03-99, Moulins, None
+17, Pierre Bouby, FRA, M, 1.85, 75, 17-10-83, Vichy, Auxerre
+18, Quentin Lecoeuche, FRA, D, 1.72, 65, 04-02-94, Beuvry, Lorient
+20, Durel Avounou, CGO, M, 1.79, 71, 25-09-97, Brazzaville, Caen
+22, Gauthier Pinaud, FRA, D, 1.77, 71, 08-01-88, Châteauroux, Strasbourg
+23, Steeve Furtado, FRA, D, 1.75, 68, 22-11-94, Creil, Créteil
+24, Yohan Demoncy, FRA, M, 1.81, 73, 07-04-96, Gonesse, Paris St-Germain
+25, Fahd El Khoumisti, FRA, F, 1.80, 75, 01-06-93, Mamers, Paris St-Germain
+26, Hicham Benkaid, MAR, F, 1.78, 71, 26-04-90, Strasbourg, Strasbourg
+27, Thomas Ephestion, FRA, M, 1.89, 87, 09-06-95, Sucy-en-Brie, Lens
+28, Joseph Romeric Lopy, SEN, M, 1.81, 68, 15-03-92, Boutoupa, Clermont
+29, Amine Talal, MAR, M, 1.76, 68, 05-06-96, Casablanca, None
+30, Gauthier Gallon, FRA, G, 1.86, 79, 23-04-93, Nice, Nîmes
+31, Paul Mbelek Nouga, FRA, D, 1.85, 78, 22-07-99, Melun, Caen
+32, Esteban Hari, FRA, M, , , 10-12-99, , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Armand Laurienté, FRA, F, 1.71, 59, 04-12-98, Gonesse, Rennes
+21, Ruben Droehnle, FRA, D, 1.83, 70, 11-07-98, Strasbourg, Lille

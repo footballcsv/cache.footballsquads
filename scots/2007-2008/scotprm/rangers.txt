@@ -1,0 +1,71 @@
+=  Rangers - Scottish Premier League 2007/08
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Allan McGregor, G, 6'00'', 11 09, 31-01-82, Edinburgh, None
+3, David Weir, D, 6'02", 13 07, 10-05-70, Falkirk, Everton
+4, Thomas Buffel, M, 5'09", 10 10, 19-02-81, Ruddervoorde, Feyenoord
+5, Saša Papac, D, 6'01", 12 04, 07-02-80, Mostar, Austria Vienna
+6, Barry Ferguson, M, 5'11", 11 09, 02-02-78, Glasgow, Blackburn R
+7, Brahim Hemdani, M, 5'10", 11 00, 15-03-78, Colombes, Marseille
+8, Kevin Thomson, M, 5'11", 11 04, 14-10-84, Edinburgh, Hibernian
+9, Kris Boyd, F, 6'01", 13 00, 18-08-83, Irvine, Kilmarnock
+10, Nacho Novo, F, 5'09", 11 00, 26-03-79, Ferrol, Dundee
+11, Charlie Adam, M, 6'01", 13 00, 10-12-85, Dundee, None
+12, Steven Davis, M, 5'07", 09 07, 01-01-85, Ballymena, Fulham
+14, Amdy Faye, M, 6'00", 12 03, 12-03-77, Dakar, Charlton Ath
+15, Alan Gow, M, 6'00", 12 00, 09-10-82, Glasgow, Falkirk
+16, Graeme Smith, G, 6'02'', 12 08, 03-10-82, Bellshill, Kilmarnock
+17, Chris Burke, M, 5'09", 10 10, 02-12-83, Glasgow, None
+18, Steven Naismith, F, 5'09", 11 05, 14-09-86, Irvine, Kilmarnock
+19, Jean-Claude Darcheville, F, 5'07", 12 03, 25-07-75, Sinnamary, Bordeaux
+20, DaMarcus Beasley, M, 5'07'', 09 00, 24-05-82, Fort Wayne, PSV Eindhoven
+21, Kirk Broadfoot, D, 6'03", 14 00, 08-08-84, Irvine, St Mirren
+22, Andy Webster, D, 6'00", 10 00, 23-04-82, Dundee, Wigan Ath
+23, Christian Dailly, D, 6'00", 12 05, 23-10-73, Dundee, West Ham U
+24, Carlos Javier Cuéllar, D, 6'03'', 13 03, 23-08-81, Madrid, Osasuna
+25, Neil Alexander, G, 6'01", 11 07, 10-03-78, Edinburgh, Ipswich T
+26, Steven Smith, D, 5'10", 10 13, 30-08-85, Bellshill, None
+27, Lee McCulloch, F, 5'11", 12 05, 14-05-76, Paisley, Wigan Ath
+28, Steven Whittaker, D, 6'01", 13 09, 16-06-84, Ediburgh, Hibernian
+29, Daniel Cousin, F, 6'01", 12 12, 07-02-77, Libreville, Lens
+31, Calum Reidford, G, 5'11", 12 04, 26-05-87, Glasgow, None
+32, Alan Lowing, D, 5'10", 10 09, 07-01-88, Rutherglen, None
+33, Steven Lennon, M, 5'07", 09 07, 20-01-88, Irvine, None
+34, Paul Emslie, M, 5'10", 10 10, 13-03-88, Aberdeen, None
+35, Rory Loy, F, 5'10", 10 07, 19-03-88, Dumfries, Kilmarnock
+36, Dean Furman, M, , , 22-06-88, Cape Town, Chelsea
+37, Jordan McMillan, D, 5'10", 09 12, 16-10-88, Glasgow, None
+41, Chris Smith, D, , , 31-08-88, , None
+42, Andrew Shinnie, D, 5'11", 11 00, 17-07-89, Aberdeen, None
+43, John Fleck, F, , , 24-08-91, , None
+44, Giorgos Efrem, M, 5'07", 10 03, 05-07-89, Limassol, Arsenal
+45, Ross Perry, D, , , 07-02-90, , None
+46, William McLachlan, M, 5'09", 11 03, 19-03-89, Rutherglen, None
+47, Ross Harvey, D, , , 13-04-89, , None
+48, Chris Craig, F, , , 13-05-89, , None
+49, Steven Kinniburgh, M, , , 13-06-89, , None
+50, Michael Donald, D, , , 20-01-89, , None
+51, Andrew Little, F, , , 12-05-89, , None
+52, Jeroen Van Den Broeck, M, , , 16-02-89, , Verbroedering Geel
+53, Stephen Stirling, M, , , 05-01-90, , None
+54, Nicholas Gallagher, D, , , 24-01-90, , None
+55, Alistair Park, M, , , 11-01-90, , None
+56, Craig McShea, F, , , 04-11-90, , None
+58, Scott Gallacher, G, 6'02", 12 01, 15-07-89, Bellshill, None
+59, Archie Campbell, F, , , 10-01-91, , None
+60, Kyle Hutton, D, , , 05-02-91, , None
+61, Stephen Forbes, D, , , , , None
+63, Jamie Ness, M, , , 02-03-91, , None
+65, Gregg Wylde, M, , , 23-03-91, , None
+69, Grant Adam, G, , , 16-04-91, , None
+70, Mark Weir, G, , , , , None
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Filip Šebo, F, 5'11", 12 02, 24-02-84, Bratislava, Valenciennes (On Loan)
+18, Ian Murray, M, 5'10", 11 05, 20-03-81, Edinburgh, Norwich C
+12, Ugo Ehiogu, D, 6'02", 14 10, 03-11-72, Hackney, Sheffield U
+2, Alan Hutton, D, 6'01'', 11 05, 30-11-84, Glasgow, Tottenham H
+25, Roy Carroll, G, 6'02", 13 05, 30-09-77, Enniskillen, Derby Co
+71, Marco Michetschlaeger, M, , , 26-03-90, , Wacker Innsbruck

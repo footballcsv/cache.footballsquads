@@ -1,0 +1,40 @@
+=  Deportivo La Coruña - Spanish LaLiga2 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Dani Giménez, ESP, G, 1.82, 77, 30-07-83, Vigo, Betis
+2, David Simón, ESP, D, 1.78, 77, 16-12-89, Las Palmas, Las Palmas
+3, Saúl, ESP, D, 1.83, 71, 09-11-94, Vioño, Racing Santander
+4, Alex Bergantiños, ESP, M, 1.77, 71, 07-06-85, La Coruña, Deportivo B
+5, Pedro Mosquera, ESP, M, 1.84, 75, 21-04-88, La Coruña, Elche
+6, Domingos Duarte, POR, D, 1.92, 78, 10-03-95, Cascais, Sporting CP
+7, Quique, ESP, F, 1.75, 67, 16-05-90, Valladolid, Osasuna
+8, Vicente Gómez, ESP, M, 1.86, 74, 31-08-88, Las Palmas, Las Palmas
+9, Christian Santos, VEN, F, 1.84, 70, 24-03-88, Puerto Ordaz, Alavés
+10, Nahuel Leiva, ESP, M, 1.75, 65, 22-10-96, Rosario, Olympiakos
+11, Fede Cartabia, ARG, M, 1.69, 65, 20-01-93, Bombal, Valencia B
+12, Michele Somma, ITA, D, 1.82, 77, 16-03-95, Salerno, Bari
+13, Adrián Ortolà, ESP, G, 1.82, 70, 20-08-93, Xàbia, Barcelona B
+14, Michael Krohn-Dehli, DEN, M, 1.71, 71, 06-06-83, Hvidovre, Sevilla
+15, Pedro, ESP, M, 1.78, 72, 12-12-86, Aspe, Granada
+16, Sebastián Dubarbier, ARG, D, 1.79, 74, 19-02-86, La Plata, Estudiantes (LP)
+17, Diego Caballo, ESP, D, 1.70, 66, 17-02-94, Salamanca, Valencia B
+18, Carlos Fernández, ESP, F, 1.86, 72, 22-05-96, Seville, Sevilla B
+19, Borja Valle, ESP, F, 1.77, 73, 09-07-92, Ponferrada, Oviedo
+20, Didier Moreno, COL, M, 1.79, 73, 15-09-91, Pizarro, Independiente Medellín
+21, Edu Expósito, ESP, M, 1.79, 68, 01-08-96, Barcelona, Deportivo B
+22, Pablo Marí, ESP, D, 1.91, 87, 31-08-93, Valencia, Manchester C
+23, Íñigo López, ESP, D, 1.85, 72, 23-07-82, Logroño, Extremadura
+24, Eneko Bóveda, ESP, D, 1.82, 77, 14-12-88, Bilbao, Athletic Bilbao
+25, Vítor, POR, M, 1.69, 68, 07-01-84, Penafiel, Reus
+26, Pedro, ESP, G, 1.87, 80, 21-01-95, Mérida, Betis B
+27, Álex Cobo, ESP, G, 1.84, 78, 06-07-95, Sant Boi de Llobregat, Lleida
+30, Quique Fornos, ESP, D, 1.81, 69, 01-01-97, As Pontes, Deportivo B
+34, Joni Montiel, ESP, M, 1.73, 67, 03-09-98, Madrid, Rayo Vallecano B
+37, Víctor García, ESP, M, 1.75, 70, 16-09-97, Valencia, Torre Levante
+38, Javi Cobo, ESP, M, 1.83, 75, 08-10-97, Torrelavega, Racing Santander
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Gerard Valentin, ESP, D, 1.77, 75, 28-07-93, Avinyonet de Puigventós, Lugo (On Loan)
+10, Carles Gil, ESP, M, 1.71, 64, 22-11-92, Valencia, New England Revolution

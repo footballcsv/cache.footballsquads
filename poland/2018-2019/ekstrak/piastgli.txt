@@ -1,0 +1,38 @@
+=  Piast Gliwice - Polish Ekstraklasa 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Jakub Szmatuła, POL, G, 1.87, 79, 22-03-81, Poznań, Warta Poznań
+2, Mikkel Kirkeskov, DEN, D, 1.85, 80, 05-09-91, Aarhus, Aalesund
+3, Tomasz Jodłowiec, POL, M, 1.90, 86, 22-03-85, Żywiec, Legia Warszawa
+4, Jakub Czerwinski, POL, D, 1.83, 75, 06-08-91, Krynica Zdrój, Legia Warszawa
+5, Marcin Pietrowski, POL, D, 1.84, 79, 01-03-88, Gdańsk, Lechia Gdańsk
+6, Tom Hateley, ENG, M, 1.79, 68, 12-09-89, Monte Carlo, Dundee
+7, Aleksander Jagiełło, POL, M, 1.65, 60, 02-02-95, Warsaw, Znicz Pruszków
+9, Piotr Parzyszek, POL, F, 1.88, 74, 08-09-93, Toruń, PEC Zwolle
+10, Patryk Dziczek, POL, M, 1.81, 68, 25-02-98, Gliwice, None
+11, Jorge Félix, ESP, F, 1.76, 69, 22-08-91, Madrid, Lleida
+12, Karol Dybowski, POL, G, 1.86, 80, 12-06-97, Tarnów, Siarka Tarnobrzeg
+13, Michał Bodys, POL, G, 1.87, 80, 21-03-99, Knurów, None
+15, Adam Tymiński, POL, D, 1.87, 75, 09-07-99, , None
+17, Joel Valencia, ECU, M, 1.64, 61, 16-11-94, Quinindé, Koper
+18, Patryk Sokołowski, POL, M, 1.81, 73, 25-09-94, Warsaw, Wigry Suwałki
+19, Mateusz Mak, POL, M, 1.73, 60, 14-11-91, Sucha Beskidzka, GKS Bełchatów
+20, Martin Konczkowski, POL, D, 1.81, 74, 14-08-93, Ruda Śląska, Ruch Chorzów
+21, Gerard, ESP, M, 1.76, 72, 18-10-89, Horta de Sant Joan, Noja
+22, Tomasz Mokwa, POL, D, 1.81, 76, 10-02-93, Słupsk, GKS Katowice
+24, Damian Byrtek, POL, D, 1.93, 84, 07-03-91, Bielsko-Biała, Wisła Płock
+25, Aleksandar Sedlar, SRB, D, 1.78, 79, 13-12-91, Novi Sad, Metalac Gornji Milanovac
+26, František Plach, SVK, G, 1.92, 80, 08-03-92, Žilina, Senica
+27, Michal Papadopulos, CZE, F, 1.83, 79, 14-04-85, Ostrava, Zagłębie Lubin
+29, Remigiusz Borkała, POL, M, 1.76, 72, 28-02-99, Cieszyn, None
+88, Uroš Korun, SVN, D, 1.88, 79, 25-05-87, Celje, Domžale
+98, Paweł Tomczyk, POL, F, 1.84, 76, 04-05-98, Poznań, Lech Poznań
+99, Karol Stanek, POL, F, 1.86, 77, 03-10-99, Proszowice, Widzew Łódź
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+23, Sebastian Pociecha, POL, D, , , 29-01-99, , Pogoń Siedlce (On Loan)
+92, Łukasz Krakowczyk, POL, F, 1.78, 69, 21-02-98, Rydułtowy, GKS Jastrzębie (On Loan)
+14, Karsten Ayong, CZE, F, 1.86, 80, 21-01-98, Ombessa, Příbram
+77, Denis Gojko, POL, M, 1.76, 56, 16-02-98, Gliwice, Stal Mielec (On Loan)

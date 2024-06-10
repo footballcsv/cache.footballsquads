@@ -1,0 +1,65 @@
+=  CSKA Moscow - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sergey Chepchugov, RUS, G, 1.85, 82, 15-07-85, Krasnoyarsk, Sibir Novosibirsk
+2, Deividas Šemberas, LTU, D, 1.87, 72, 02-08-78, Vilnius, Dynamo Moscow
+4, Sergey Ignashevich, RUS, D, 1.86, 75, 14-07-79, Moscow, Lokomotiv Moscow
+6, Aleksey Berezutskiy, RUS, D, 1.90, 82, 20-06-82, Moscow, Chernomorets
+7, Keisuke Honda, JPN, M, 1.82, 75, 13-06-86, Osaka, VVV Venlo
+8, Seydou Doumbia, CIV, F, 1.78, 70, 31-12-87, Yamoussoukro, Young Boys
+9, Vágner Love, BRA, F, 1.71, 72, 11-06-84, Rio de Janeiro, Palmeiras
+10, Alan Dzagoev, RUS, M, 1.79, 70, 17-06-90, Beslan, CSKA-2
+11, Pavel Mamaev, RUS, M, 1.78, 70, 17-09-88, Moscow, Torpedo Moscow
+13, Mark González, CHI, M, 1.75, 70, 10-07-84, Durban, Betis
+14, Kirill Nababkin, RUS, D, 1.76, 71, 08-09-86, Moscow, FC Moscow
+15, Chidi Odiah, NGA, D, 1.80, 79, 17-12-83, Port Harcourt, Sheriff Tiraspol
+21, Zoran Tošić, SRB, M, 1.71, 69, 28-04-87, Zrenjanin, Manchester U
+22, Evgeniy Aldonin, RUS, M, 1.79, 72, 22-01-80, Alupka, Rotor Volgograd
+24, Vasiliy Berezutskiy, RUS, D, 1.89, 83, 20-06-82, Moscow, Torpedo-ZIL
+25, Elvir Rahimić, BIH, M, 1.91, 80, 04-04-76, Živinice, Anzhi Makhachkala
+26, Sekou Oliseh, NGA, M, 1.87, 70, 05-06-90, Monrovia, FC Midtjylland
+32, Kirill Lapidus, RUS, M, 1.75, 69, 02-12-91, , FC Moscow
+34, Aleksey Nikitin, RUS, D, 1.87, 87, 27-01-92, Moscow, CSKA-2
+35, Igor Akinfeev, RUS, G, 1.85, 81, 08-04-86, Vidnoye, CSKA-2
+36, Egor Ivanov, RUS, M, 1.84, 83, 19-06-92, Omsk, CSKA-2
+37, Ivan Skripnik, RUS, G, 1.92, 88, 10-08-92, , CSKA-2
+38, Vyacheslav Isupov, RUS, G, 1.90, 80, 16-01-93, , CSKA-2
+40, Stanislav Plokhikh, RUS, G, 1.85, 83, 10-02-92, , CSKA-2
+42, Georgi Schennikov, RUS, D, 1.78, 69, 27-04-91, Moscow, CSKA-2
+43, Leonid Mushnikov, RUS, M, , , 30-12-92, , CSKA-2
+44, Dmitriy Zameshayev, RUS, M, 1.78, 69, 14-05-91, , CSKA-2
+46, Aleksandr Stolyarenko, RUS, M, 1.85, 78, 18-01-91, Zdvinsk, CSKA-2
+47, Kirill Suslov, RUS, D, 1.80, 68, 26-10-91, Vysokovsk, CSKA-2
+48, Artem Popov, RUS, M, 1.76, 66, 30-08-92, Lipetsk, CSKA-2
+49, Aleksandr Vasilyev, RUS, M, 1.82, 74, 23-01-92, Nizhegorodka, CSKA-2
+51, Aleksey Kiselev, RUS, M, 1.73, 72, 01-05-92, , CSKA-2
+53, Sergey Sipatov, RUS, F, 1.80, 71, 08-02-93, , CSKA-2
+54, Uroš Ćosić, SRB, D, 1.87, 76, 24-10-92, Belgrade, Crvena Zvezda
+56, Anatoliy Stukalov, RUS, D, 1.77, 71, 03-04-91, , CSKA-2
+58, Mukhammad Sultonov, RUS, M, 1.76, 68, 22-12-92, Yovon, CSKA-2
+59, Semen Fedotov, RUS, D, 1.78, 71, 02-03-92, , CSKA-2
+60, Nika Dzalamidze, GEO, M, 1.73, 70, 06-12-92, Tbilisi, Baia Zugdidi
+61, Serder Serderov, RUS, F, 1.76, 69, 10-03-94, Makhachkala, CSKA-2
+66, Igor Dragunov, RUS, M, 1.76, 70, 06-04-91, , CSKA-2
+70, Armen Ambartsumyan, RUS, M, 1.77, 70, 11-04-94, Saratov, CSKA-2
+77, Artur Nigmatullin, RUS, G, 1.92, 88, 17-05-91, Vladivostok, CSKA-2
+79, Konstantin Bazelyuk, RUS, F, 1.87, 78, 12-04-93, Moscow, CSKA-2
+88, Leonid Rodionov, RUS, M, 1.70, 66, 12-01-93, , CSKA-2
+89, Tomáš Necid, CZE, F, 1.90, 81, 13-08-89, Prague, Slavia Prague
+90, Anton Polyutkin, RUS, D, 1.90, 78, 02-02-93, , CSKA-2
+92, Petr Ten, RUS, D, 1.75, 67, 12-07-92, Moscow, CSKA-2
+93, Gela Zaseyev, RUS, M, 1.82, 75, 20-01-93, , CSKA-2
+99, Yevgeniy Kobzar, RUS, M, 1.70, 65, 09-08-92, , CSKA-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+45, Anton Rukavishnikov, RUS, M, 1.75, 62, 11-02-92, , 
+55, Iskandar Dzhalilov, RUS, D, 1.80, 72, 01-06-92, Dushanbe, Rubin Kazan
+91, Anton Zabolotniy, RUS, F, 1.88, 84, 13-06-91, Lipetsk, Volgar-Gazprom (On Loan)
+20, Guilherme, BRA, F, 1.73, 77, 22-10-88, Imperatriz, Dynamo Kiev
+23, Nika Piliev, RUS, M, 1.73, 62, 21-03-91, Tbilisi, Amkar Perm (On Loan)
+31, Andrey Vasyanovich, RUS, D, 1.84, 80, 13-06-88, Volgograd, Spartak Nalchik (On Loan)
+19, Luboš Kalouda, CZE, M, 1.80, 75, 20-05-87, Brno, Volgar-Gazprom (On Loan)
+17, Miloš Krasić, SRB, M, 1.86, 78, 01-11-84, Belgrade, Juventus
+29, Ouwo Moussa Maazou, NIG, F, 1.86, 78, 25-08-88, Niamey, Bordeaux (On Loan)

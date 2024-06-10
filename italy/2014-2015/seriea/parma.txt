@@ -1,0 +1,62 @@
+=  Parma - Italian Serie A 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Riccardo Bertozzi, ITA, G, , , 12-02-96, Milan, None
+2, Mattia Cassani, ITA, D, 1.84, 75, 26-08-83, Borgomanero, Fiorentina
+3, Andi Lila, ALB, D, 1.84, 79, 12-02-86, Kavajë, PAS Giannina
+4, Pedro Mendes, POR, D, 1.87, 77, 01-10-90, Neuchâtel, Sassuolo
+5, Abdelkader Ghezzal, ALG, F, 1.83, 78, 05-12-84, Decines Charpieu, Bari
+6, Alessandro Lucarelli, ITA, D, 1.82, 78, 22-07-77, Livorno, Genoa
+7, Luca Ravanelli, ITA, D, 1.87, 75, 16-01-97, Trento, None
+8, José Mauri, ITA, M, 1.70, 66, 16-05-96, Realicó, None
+13, Giuseppe Prestia, ITA, D, 1.90, 88, 13-11-93, Palermo, Crotone
+14, Daniele Galloppa, ITA, M, 1.80, 74, 15-05-85, Rome, Siena
+15, Andrea Costa, ITA, D, 1.82, 73, 01-02-86, Reggio Emilia, Sampdoria
+17, Raffaele Palladino, ITA, F, 1.82, 73, 17-04-84, Mugnano di Napoli, Genoa
+18, Massimo Gobbi, ITA, D, 1.83, 79, 31-10-80, Milan, Fiorentina
+20, Ismaël Sliti Taïder, ALG, M, , , 01-08-97, , None
+21, Francesco Lodi, ITA, M, 1.82, 70, 23-03-84, Naples, Catania
+22, Alessandro Iacobucci, ITA, G, 1.89, 82, 03-06-91, Pescara, Siena
+23, Antonio Nocerino, ITA, M, 1.75, 76, 09-04-85, Naples, Milan
+26, Silvestre Varela, POR, F, 1.80, 75, 02-02-85, Almada, FC Porto
+27, Fabiano Santacroce, ITA, D, 1.81, 72, 24-08-86, Camaçari, Napoli
+28, Zouhair Feddal, MAR, D, 1.91, 78, 01-01-89, Tétouan, FUS Rabat
+31, McDonald Mariga, KEN, M, 1.87, 86, 04-04-87, Nairobi, Internazionale
+34, Lukáš Haraslín, SVK, M, 1.74, 64, 26-05-96, Bratislava, Slovan Bratislava
+36, Diego Rossetto, ITA, G, 1.90, 78, 19-01-96, Castelfranco Veneto, None
+37, Jérémie Broh, FRA, M, 1.80, 76, 21-03-97, Parma, None
+38, Martin Erlić, CRO, D, 1.92, 78, 24-01-98, Zadar, None
+41, Ivan Santagiuliana, ITA, D, 1.81, 68, 12-01-96, Casalmaggiore, None
+42, Davide Zuccolini, ITA, D, , , 09-02-95, Castelnovo ne' Monti, None
+44, Ignacio Jeraldino, CHI, F, 1.81, 79, 06-12-95, Llay-Llay, Unión San Felipe
+54, Solomon Nyantakyi, GHA, M, 1.79, 72, 25-03-96, Accra, None
+55, Luca Pipoli, ITA, D, , , 05-02-96, Foggia, None
+56, Giovanni Tortora, ITA, M, , , 02-07-96, Parma, None
+58, Mirko Esposito, ITA, D, , , 08-04-96, Fidenza, None
+59, Lorenzo Capezzani, ITA, M, 1.81, , 20-02-96, Macerata, None
+80, Cristóbal Jorquera, CHI, M, 1.73, 69, 06-04-88, Santiago, Genoa
+83, Antonio Mirante, ITA, G, 1.93, 78, 08-07-83, Castellammare di Stabia, Sampdoria
+88, Massimo Coda, ITA, F, 1.84, 72, 10-11-88, Cava dei Tirreni, San Marino
+91, Pavol Bajza, SVK, G, 1.95, 89, 04-09-91, Žilina, MFK Dubnica
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+3, Djamel Mesbah, ALG, D, 1.79, 72, 09-10-84, Zighoud Youcef, Sampdoria
+11, Amauri, ITA, F, 1.86, 83, 03-06-80, Carapicuíba, Torino
+1, Alex Cordaz, ITA, G, 1.88, 83, 01-01-83, Vittorio Veneto, Crotone (On Loan)
+13, Stefan Ristovski, MKD, D, 1.81, 73, 12-02-92, Skopje, Latina (On Loan)
+99, Antonio Cassano, ITA, F, 1.75, 73, 12-07-82, Bari, 
+20, Soufiane Bidaoui, MAR, F, 1.76, 65, 20-04-90, Etterbeek, Latina (On Loan)
+11, Paolo De Ceglie, ITA, D, 1.84, 75, 17-09-86, Aosta, Juventus
+9, Nicola Pozzi, ITA, F, 1.84, 75, 30-06-86, Sant'Arcangelo di Romagna, Chievo Verona (On Loan)
+19, Felipe, BRA, D, 1.86, 78, 31-07-84, Guaratingueta, Internazionale
+29, Gabriel Paletta, ITA, D, 1.90, 88, 15-02-86, Longchamps, Milan
+30, Afriyie Acquah, GHA, M, 1.79, 70, 05-01-92, Accra, 1899 Hoffenheim
+33, Andrea Rispoli, ITA, D, 1.87, 78, 29-09-88, Cava de' Tirreni, Palermo (On Loan)
+40, Badara Sarr, SEN, M, , , 11-02-94, Thiès, Catanzaro (On Loan)
+70, Lucas Souza, BRA, M, 1.86, 80, 04-06-90, Santo André, Moreirense (On Loan)
+24, Cristian Rodríguez, URU, M, 1.75, 72, 30-09-85, Montevideo, Atlético Madrid
+92, Marijan Ćorić, CRO, G, 1.82, 70, 06-02-95, Čapljina, 
+7, Jonathan Biabiany, FRA, M, 1.75, 70, 28-04-88, Paris, 
+10, Ishak Belfodil, ALG, F, 1.91, 86, 12-01-92, Mostaganem, 

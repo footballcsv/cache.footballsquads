@@ -1,0 +1,23 @@
+# French Ligue 2 2011/12
+
+20 teams
+- [Amiens](amiens.txt)
+- [Angers](angers.txt)
+- [Arles-Avignon](arles.txt)
+- [Bastia](bastia.txt)
+- [Boulogne](boulogne.txt)
+- [Châteauroux](chateaur.txt)
+- [Clermont](clermont.txt)
+- [Guingamp](guinga.txt)
+- [Istres](istres.txt)
+- [Laval](laval.txt)
+- [Le Havre](lehavre.txt)
+- [Le Mans](lemans.txt)
+- [Lens](lens.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Nantes](nantes.txt)
+- [Reims](reims.txt)
+- [Sedan](sedan.txt)
+- [Tours](tours.txt)
+- [Troyes](troyes.txt)

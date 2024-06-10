@@ -1,0 +1,22 @@
+# Italian Serie B 2018/2019
+
+19 teams
+- [Ascoli](ascoli.txt)
+- [Benevento](benevento.txt)
+- [Brescia](brescia.txt)
+- [Carpi](carpi.txt)
+- [Cittadella](cittadel.txt)
+- [Cosenza](cosenza.txt)
+- [Cremonese](cremonese.txt)
+- [Crotone](crotone.txt)
+- [Foggia](foggia.txt)
+- [Lecce](lecce.txt)
+- [Livorno](livorno.txt)
+- [Padova](padova.txt)
+- [Palermo](palermo.txt)
+- [Perugia](perugia.txt)
+- [Pescara](pescara.txt)
+- [Salernitana](salern.txt)
+- [Spezia](spezia.txt)
+- [Venezia](venezia.txt)
+- [Verona](verona.txt)

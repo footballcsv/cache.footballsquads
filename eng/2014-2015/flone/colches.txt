@@ -1,0 +1,60 @@
+=  Colchester United - English Football League One 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Walker, ENG, G, 1.99, 78, 02-10-91, Gravesend, Chelsea
+2, Alex Wynter, ENG, D, 1.83, 84, 15-09-93, Beckenham, Crystal Palace
+3, Ben Gordon, ENG, D, 1.80, 79, 02-03-91, Bradford, Ross Co
+4, Magnus Okuonghae, NGA, D, 1.91, 84, 16-02-86, Croydon, Dagenham & Redbridge
+5, Karleigh Osborne, ENG, D, 1.88, 78, 19-03-88, Southall, Bristol C
+6, Bongani Khumalo, RSA, D, 1.88, 82, 06-01-87, Manzini, Tottenham H
+7, Sanchez Watt, ENG, M, 1.80, 76, 14-02-91, Hackney, Arsenal
+8, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, None
+9, Jabo Ibehre, ENG, F, 1.88, 80, 28-01-83, Islington, MK Dons
+11, Jack Marriott, ENG, F, 1.73, 71, 09-09-94, Beverley, Ipswich T
+12, Chris Lewington, ENG, G, 1.88, 75, 23-08-88, Sidcup, Dagenham & Redbridge
+14, Tosin Olufemi, ENG, M, 1.73, 70, 13-05-94, Hackney, None
+15, Matthew Briggs, ENG, D, 1.88, 84, 09-03-91, Wandsworth, Millwall
+16, Byron Lawrence, ENG, M, 1.70, 65, 12-03-96, Cambridge, Ipswich T
+17, Drey Wright, ENG, M, 1.75, 69, 30-04-94, Greenwich, None
+18, Tom Eastman, ENG, D, 1.90, 88, 21-10-91, Colchester, Ipswich T
+19, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Cardiff C
+20, Sean Clohessy, ENG, D, 1.78, 74, 12-12-86, Croydon, Kilmarnock
+21, Gavin Massey, ENG, F, 1.79, 74, 14-10-92, Watford, Watford
+22, Kevin Lokko, ENG, D, 1.91, 71, 03-11-95, Whitechapel, Norwich C
+23, Kane Vincent-Young, ENG, D, 1.80, 70, 15-03-96, Camden Town, Tottenham H
+24, George Moncur, ENG, M, 1.75, 64, 18-08-93, Swindon, West Ham U
+25, Jacob Murphy, ENG, M, 1.76, 71, 24-02-95, Wembley, Norwich C
+26, Frankie Kent, ENG, D, 1.88, 76, 21-11-95, Romford, None
+27, Macauley Bonne, ENG, F, 1.80, 76, 26-10-95, Ipswich, Ipswich T
+28, Sammie Szmodics, ENG, M, 1.68, 64, 24-09-95, Colchester, None
+29, James Bransgrove, SCO, G, 1.93, 78, 12-04-95, Harlow, None
+30, Jack Curtis, ENG, M, 1.70, 70, 11-09-95, Brentwood, None
+31, Richard Brindley, ENG, D, 1.79, 77, 05-05-93, Norwich, Rotherham U
+32, Tom Lapslie, ENG, M, 1.68, 69, 05-05-95, Waltham Forest, None
+35, Michael O'Donoghue, IRL, D, 1.80, 70, 18-01-96, Islington, Leyton Orient
+36, Dominic Smith, ENG, F, 1.91, 79, 22-09-95, , Crewe Alex
+37, Dion Sembie-Ferris, ENG, M, 1.73, 70, 23-05-96, Peterborough, St Neots T
+38, David Fox, ENG, M, 1.75, 77, 13-12-83, Stoke, Norwich C
+40, Jamie Harney, NIR, D, 1.83, 75, 04-03-96, Plumbridge, West Ham U
+41, Elliott Hewitt, WAL, D, 1.80, 75, 30-05-94, Bodelwyddan, Ipswich T
+42, Chris Porter, ENG, F, 1.86, 84, 12-12-83, Wigan, Sheffield U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+39, Elliott Hewitt, WAL, D, 1.80, 75, 30-05-94, Bodelwyddan, Ipswich T
+2, David Wright, ENG, D, 1.80, 68, 01-05-80, Warrington, 
+25, Dominic Vose, ENG, M, 1.73, 71, 23-11-93, Lambeth, Welling U
+39, Kemar Roofe, ENG, M, 1.78, 71, 06-01-93, Walsall, WBA
+43, Will Packwood, USA, D, 1.91, 80, 21-05-93, Concord, Birmingham C
+15, Marcus Bean, JAM, M, 1.80, 73, 02-11-84, Bournemouth, Wycombe W
+11, Freddie Sears, ENG, F, 1.70, 75, 27-11-89, Hornchurch, Ipswich T
+42, Cole Kpekawa, ENG, D, 1.91, 80, 20-05-96, Blackpool, QPR
+33, Billy Roast, ENG, D, 1.83, 72, 06-06-95, , AFC Hornchurch
+34, Nnamdi Nwachuku, NGA, F, 1.77, 71, 27-11-94, , AFC Hornchurch
+5, Josh Thompson, ENG, D, 1.93, 76, 25-02-91, Bolton, Tranmere R
+13, Kaspars Gorkšs, LVA, D, 1.91, 85, 06-11-81, Riga, Ergotelis
+6, Craig Eastmond, ENG, M, 1.83, 75, 09-12-90, Wandsworth, Yeovil T
+10, Dan Holman, ENG, F, 1.81, 71, 05-06-90, Northampton, Dover Ath (On Loan)
+25, Kenneth McEvoy, IRL, M, 1.76, 64, 04-09-94, Waterford, Tottenham H
+31, Conor Hubble, ENG, M, 1.80, 75, 29-11-94, Chelmsford, 

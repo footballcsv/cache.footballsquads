@@ -1,0 +1,55 @@
+=  Palmeiras - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vinícius Silvestre, BRA, G, 1.95, 90, 28-03-94, Guarulhos, None
+2, Marcos Rocha, BRA, D, 1.76, 68, 11-12-88, Sete Lagoas, Atlético Mineiro
+3, Renan, BRA, D, 1.84, 69, 19-05-02, Itapevi, None
+4, Benjamín Kuščević, CHI, D, 1.85, 80, 02-05-96, Santiago, Universidad Católica
+5, Patrick de Paula, BRA, M, 1.80, 75, 08-09-99, Rio de Janeiro, None
+6, Jorge, BRA, D, 1.84, 70, 28-03-96, Rio de Janeiro, Monaco
+7, Rony, BRA, F, 1.70, 65, 11-05-95, Magalhães Barata, Athletico Paranaense
+8, Zé Rafael, BRA, M, 1.75, 71, 16-06-93, Ponta Grossa, Bahia
+9, Luan Silva, BRA, F, 1.80, 77, 26-02-99, Salvador, Vitória
+10, Luiz Adriano, BRA, F, 1.82, 71, 12-04-87, Porto Alegre, Spartak Moscow
+11, Wesley, BRA, F, 1.75, 64, 30-03-99, Salvador, None
+12, Mayke, BRA, D, 1.78, 68, 10-11-92, Carangola, Cruzeiro
+13, Luan, BRA, D, 1.83, 79, 10-05-93, Vitória, Vasco da Gama
+14, Gustavo Scarpa, BRA, M, 1.76, 65, 05-01-94, Campinas, Fluminense
+15, Gustavo Gómez, PAR, D, 1.86, 85, 06-06-93, Misiones, Milan
+16, Deyverson, BRA, F, 1.89, 82, 08-05-91, Santa Margarida, Levante
+18, Danilo, BRA, M, 1.82, 73, 28-02-96, Simões Filho, Nice
+19, Breno Lopes, BRA, F, 1.78, 71, 24-01-96, Belo Horizonte, Juventude
+21, Weverton, BRA, G, 1.89, 85, 13-12-87, Rio Branco, Atlético Paranaense
+22, Joaquín Piquerez, URU, D, 1.83, 75, 24-08-98, Montevideo, Peñarol
+23, Raphael Veiga, BRA, M, 1.76, 73, 19-06-95, São Paulo, Coritiba
+25, Gabriel Menino, BRA, M, 1.76, 78, 29-09-00, Morungaba, None
+26, Victor Luis, BRA, D, 1.80, 76, 23-06-93, São Paulo, None
+27, Gabriel Veron, BRA, F, 1.74, 75, 03-09-02, Assu, None
+28, Danilo, BRA, M, 1.77, 65, 29-04-01, Salvador, None
+29, Willian, BRA, F, 1.71, 78, 19-11-86, Três Fronteiras, Cruzeiro
+30, Felipe Melo, BRA, D, 1.83, 73, 26-06-83, Volta Redonda, Internazionale
+32, Gustavo Garcia, BRA, D, 1.75, 68, 04-01-02, São Paulo, None
+33, Kaiky Naves, BRA, D, 1.80, 78, 08-05-02, Santos, None
+35, Fabinho, BRA, M, 1.78, 75, 09-04-02, Natal, None
+36, Kevin, BRA, F, 1.76, 71, 04-01-03, São Paulo, Desportivo Brasil
+38, Matheus Fernandes, BRA, M, 1.83, 67, 30-06-98, Itaboraí, Barcelona
+41, Giovani, BRA, F, 1.83, 68, 01-01-04, Itaquaquecetuba, None
+42, Jailson, BRA, G, 1.86, 80, 20-07-81, São José dos Campos, Ceará
+43, Dudu, BRA, M, 1.65, 69, 07-01-92, Goiânia, Dynamo Kyiv
+44, Henri, BRA, D, 1.87, 73, 16-02-02, Araçatuba, None
+45, Pedro Bicalho, BRA, M, 1.78, 73, 23-04-01, São José dos Campos, Cruzeiro
+46, Vanderlan, BRA, D, 1.83, 74, 07-09-02, Brumado, None
+47, Jhon Jhon, BRA, M, 1.77, 73, 09-09-02, Vitória, Primavera
+49, Gabriel Silva, BRA, F, 1.77, 78, 22-03-02, Ribeirão Preto, None
+51, Mateus Oliveira, BRA, G, 1.99, 89, 02-05-02, Cajazeiras, None
+56, Lucas Freitas, BRA, D, 1.84, 75, 20-01-01, Rio de Janeiro, Valladolid B
+66, Michel, BRA, D, 1.88, 75, 20-05-03, Avaré, None
+72, Kaique, BRA, G, 1.90, 87, 16-04-03, São Paulo, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Alan Empereur, BRA, D, 1.86, 82, 10-03-94, Ipatinga, Verona
+6, Lucas Esteves, BRA, D, 1.69, 66, 24-06-00, São Paulo, Colorado Rapids (On Loan)
+17, Matías Viña, URU, D, 1.76, 70, 09-11-97, Empalme Olmos, Roma
+20, Lucas Lima, BRA, M, 1.75, 69, 09-07-90, Marília, Fortaleza (On Loan)

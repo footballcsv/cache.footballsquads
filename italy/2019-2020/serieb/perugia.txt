@@ -1,0 +1,58 @@
+=  Perugia - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Guglielmo Vicario, ITA, G, 1.94, 76, 07-10-96, Udine, Cagliari
+2, Aleandro Rosi, ITA, D, 1.80, 80, 17-05-87, Rome, Genoa
+3, Mardochee Nzita, BEL, D, 1.78, 74, 24-02-00, Kinshasa, Anderlecht
+4, Marco Carraro, ITA, M, 1.87, 74, 09-01-98, Dolo, Atalanta
+5, Liran Rigen, ISR, M, 1.75, , , , None
+6, Filippo Sgarbi, ITA, D, 1.91, 78, 29-12-97, Casciago, Internazionale
+7, Pasquale Mazzocchi, ITA, D, 1.80, 78, 27-07-95, Naples, Parma
+8, Diego Falcinelli, ITA, F, 1.85, 75, 26-06-91, Marsciano, Bologna
+9, Pietro Iemmello, ITA, F, 1.85, 75, 06-03-92, Catanzaro, Benevento
+10, Vlad Dragomir, ROU, M, 1.78, 67, 24-04-99, Timișoara, Arsenal
+11, Cristian Buonaiuto, ITA, F, 1.79, 68, 29-12-92, Napoli, Pescara
+12, Lorenzo Ruggiero, ITA, G, 1.95, 84, 16-01-01, Carpi, Genoa
+13, Matteo Vagnoni, ITA, M, 1.62, 54, 10-09-01, Rome, None
+14, Hans Nicolussi Caviglia, ITA, M, 1.81, 71, 18-06-00, Aosta, Juventus
+15, Amara Konaté, GUI, M, 1.80, , 01-02-99, Nzérékoré, None
+16, Romario Benzar, ROU, D, 1.80, 79, 26-03-92, Timișoara, Lecce
+17, Fabio Rossi, ITA, F, 1.90, , 25-07-01, Rome, Ascoli
+18, Vitor Henrique, BRA, M, 1.83, 67, 16-05-01, , São Paulo
+19, Edoardo Metelli, ITA, F, 1.76, 66, 01-07-01, Foligno, None
+20, Lucas Areco, CAN, M, , , 29-03-01, Toronto, None
+21, Giuseppe Barone, USA, M, 1.71, 65, 04-09-98, Brooklyn, New York Cosmos
+22, Andrea Fulignati, ITA, G, 1.90, 88, 31-10-94, Empoli, Ascoli
+23, Marcello Falzerano, ITA, M, 1.67, 62, 12-04-91, Pagani, Venezia
+24, Alessandro Tozzuolo, ITA, D, 1.85, 67, 31-10-02, Perugia, None
+25, Nicola Falasco, ITA, D, 1.82, 68, 05-10-93, Piove di Sacco, Avellino
+26, Tommaso Torcolacci, ITA, D, 1.65, 61, 23-03-02, Città di Castello, None
+27, Gianluca Di Chiara, ITA, D, 1.84, 81, 26-12-93, Palermo, Benevento
+28, Christian Kouan, CIV, M, 1.78, 70, 20-12-99, Abidjan, Vigor Perconti
+29, Christian Capone, ITA, F, 1.83, 70, 28-04-99, Vigevano, Atalanta
+30, Samuele Righetti, ITA, D, 1.81, 69, 10-10-01, Perugia, Torino
+31, Alberto Lunghi, ITA, F, 1.78, 70, 27-04-03, Assisi, None
+32, Norbert Gyömbér, SVK, D, 1.89, 74, 03-07-92, Revúca, Roma
+33, Gabriele Angella, ITA, D, 1.93, 88, 28-04-89, Florence, Udinese
+34, Joseph Mangiaratti, ITA, F, 1.76, 62, 22-08-02, Marino, None
+35, Slobodan Rajković, SRB, D, 1.91, 87, 03-02-89, Belgrade, Palermo
+36, Federico Melchiorri, ITA, F, 1.83, 75, 06-01-87, Treia, Cagliari
+37, Marco Albertoni, ITA, G, 1.88, 82, 05-08-95, Genoa, Genoa
+38, Ndir Mame Ass, ITA, D, 1.93, 80, 24-01-01, Rufisque, None
+39, Vincenzo Giordano, ITA, D, 1.70, 59, 04-12-01, , None
+40, Leonardo Giustini, ITA, M, 1.86, 66, 06-03-02, Spoleto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+8, Raffaele Bianco, ITA, M, 1.80, 80, 25-08-87, Aversa, Bari
+16, Filippo Ranocchia, ITA, M, 1.78, 72, 14-05-01, Perugia, Juventus
+17, Marco Moscati, ITA, M, 1.80, 75, 01-11-92, Livorno, Trapani (On Loan)
+20, Andrea Bianchimano, ITA, F, 1.96, 89, 25-12-96, Carate Brianza, Catanzaro (On Loan)
+22, Nicola Leali, ITA, G, 1.93, 78, 17-02-93, Castiglione delle Stiviere, Ascoli (On Loan)
+16, Ndir Mame Ass, ITA, D, 1.93, 80, 24-01-01, Rufisque, Re-Registered (38)
+20, Andrija Balić, CRO, M, 1.80, 71, 11-08-97, Split, Udinese
+5, Matej Rodin, CRO, D, 1.93, 80, 13-02-96, Metković, Varaždin
+31, Jonathan Liljedahl, SWE, F, 1.79, 73, 02-12-01, , Utsiktens BK
+13, Paolo Fernandes, ESP, M, 1.75, 71, 19-08-98, Zaragoza, Manchester C
+19, Leandro Greco, ITA, M, 1.83, 76, 19-07-86, Rome, 

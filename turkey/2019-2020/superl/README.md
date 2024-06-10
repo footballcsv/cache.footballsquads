@@ -1,0 +1,21 @@
+# Turkish Süper Lig 2019/2020
+
+18 teams
+- [Alanyaspor](alanya.txt)
+- [Ankaragücü](ankgucu.txt)
+- [Antalyaspor](antalya.txt)
+- [Beşiktaş](besiktas.txt)
+- [Denizlispor](denizli.txt)
+- [Fenerbahçe](fener.txt)
+- [Galatasaray](gala.txt)
+- [Gaziantep](gaziantep.txt)
+- [Gençlerbirliği](gencler.txt)
+- [Göztepe](goztepe.txt)
+- [İstanbul Başakşehir](istanbul.txt)
+- [Kasımpaşa](kasim.txt)
+- [Kayserispor](kayseri.txt)
+- [Konyaspor](konya.txt)
+- [Rizespor](rizespor.txt)
+- [Sivasspor](sivas.txt)
+- [Trabzonspor](trabzon.txt)
+- [Yeni Malatyaspor](yenimalat.txt)

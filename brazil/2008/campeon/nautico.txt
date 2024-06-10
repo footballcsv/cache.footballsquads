@@ -1,0 +1,62 @@
+=  Náutico - Campeonato Brasileiro Série A 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, André Sangalli, BRA, G, 1.92, 82, 17-01-80, Estrela, Santa Cruz
+, David, BRA, G, 1.86, 84, 25-08-88, Teresina, None
+, Eduardo, BRA, G, 1.93, 87, 02-07-77, Rio de Janeiro, América-RJ
+, Glédson, BRA, G, 1.92, 88, 06-02-83, Almenara, Santa Cruz
+, Vitor, BRA, G, 1.95, 78, 14-09-89, Curitiba, Iraty
+, Adriano, BRA, D, 1.85, 79, 01-07-85, Dourados, Oeste
+, Alessandro, BRA, D, 1.77, 68, 10-08-82, Jaboatão, Vitória-BA
+, Anderson Santana, BRA, D, 1.84, 78, 24-04-86, Belo Horizonte, Linhares
+, Caju, BRA, D, 1.74, 72, 27-01-89, São Paulo, Corinthians
+, Everaldo, BRA, D, 1.85, 86, 07-06-74, Camaçari, Criciúma
+, Maurinho, BRA, D, 1.76, 74, 08-02-75, Votuporanga, Beira-Mar
+, Negretti, BRA, D, 1.83, 77, 16-12-85, Bebedouro, Oeste
+, Onildo, BRA, D, 1.82, 75, 22-05-87, Monção, None
+, Ruy, BRA, D, 1.74, 63, 11-04-78, Belo Horizonte, Figueirense
+, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Internacional
+, Toninho, BRA, D, 1.86, 79, 07-01-81, Eldorado, Ipatinga
+, Vágner Silva, BRA, D, 1.82, 73, 09-06-83, Belem, Botafogo
+, Wellington, BRA, D, 1.76, 77, 17-08-85, Guarulhos, Grêmio
+, André Oliveira, BRA, M, 1.73, 73, 20-04-85, Natal, Köln
+, Derley, BRA, M, 1.87, 70, 02-08-86, Anápolis, Internacional
+, Eduardo Erê, BRA, M, 1.74, 64, 12-03-88, Maceió, None
+, Geraldo, BRA, M, 1.74, 75, 06-02-74, Rio de Janeiro, Coritiba
+, Hamilton, TOG, M, 1.78, 76, 26-06-80, Murici, Boca Júnior-SE
+, Hélton, BRA, M, 1.71, 64, 02-01-87, Arapiraca, Vitória-BA
+, Paulo Santos, BRA, M, 1.75, 73, 16-05-81, Americana, Guarani [BRA]
+, Reinaldo, BRA, M, 1.80, 75, 25-05-84, São Paulo, Nacional [POR]
+, Ticão, BRA, M, 1.74, 65, 07-02-85, Curitiba, Atlético Paranaense
+, Valdeir, BRA, M, 1.79, 78, 12-04-77, Maceió, Criciúma
+, William, BRA, M, 1.73, 72, 20-11-86, São Paulo, Palmeiras
+, Anderson Lessa, BRA, F, 1.70, 66, 26-07-89, Recife, None
+, Clodoaldo, BRA, F, 1.87, 88, 25-11-78, Campinas, Corinthians
+, Cristiano, BRA, F, 1.72, 72, 27-03-83, Benevides, Juventude
+, Eliomar Marcón, BRA, F, 1.75, 70, 15-11-75, Seberi, Indios de Ciudad Juárez
+, Felipe, BRA, F, 1.73, 79, 17-04-78, Passo Fundo, Passo Fundo
+, Gilmar, BRA, F, 1.76, 64, 09-03-84, Ubatã, Iraty
+, Kuki, BRA, F, 1.67, 72, 30-04-71, Crateús, Jeonbuk Hyundai Motors
+, Thiaguinho, BRA, F, 1.78, 73, 19-05-90, Cuiabá, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Márcio Santos, BRA, D, 1.88, 77, 13-09-78, Campina Grande, ABC
+, Alessandro, BRA, D, 1.75, 75, 30-09-78, Avaré, Metropolitano
+, Otacílio, BRA, M, 1.73, 74, 02-01-84, Mossoró, Gama
+, Rafael, BRA, M, 1.76, 76, 09-04-83, Assis, Sergipe
+, Nino Paraíba, BRA, D, 1.68, 62, 10-01-86, Rio Tinto, 
+, Serginho, BRA, D, 1.73, 70, 25-09-80, Campinas, ABC (On Loan)
+, Ricardo Laborde, COL, M, 1.73, 67, 16-02-88, Cartagena, Lugano
+, Igor, BRA, M, 1.66, 61, 28-08-79, Limoeiro do Norte, Fortaleza
+, Tales, BRA, M, 1.78, 69, 13-10-81, Franca, Changsha Ginde
+, Alex Sandro, BRA, M, 1.92, 80, 16-05-76, Fátimo do Sul, Criciúma
+, Wellington, BRA, F, 1.86, 84, 11-02-88, Ourinhos, Internacional
+, Warley, BRA, F, 1.80, 73, 13-02-78, Brasília, ABC
+, Itaqui, BRA, M, 1.76, 70, 28-02-88, Itaqui, Grêmio
+, Paulo Almeida, BRA, M, 1.76, 74, 20-04-81, Itarantim, ABC
+, Roger Gaúcho, BRA, F, 1.77, 68, 30-03-86, São Leopoldo, Internacional
+, Piauí, BRA, D, 1.73, 70, 02-12-86, Floriano, Atlético Paranaense
+, Radamés, BRA, M, 1.80, 78, 17-04-86, São Gonçalo, Al-Jazira
+, Berg, BRA, D, 1.68, 71, 06-09-83, Mossoró, Potiguar de Mossoró

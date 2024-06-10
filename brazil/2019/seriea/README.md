@@ -1,0 +1,23 @@
+# Campeonato Brasileiro Série A 2019
+
+20 teams
+- [Athletico Paranaense](athpara.txt)
+- [Atlético Mineiro](atmin.txt)
+- [Avaí](avai.txt)
+- [Bahia](bahia.txt)
+- [Botafogo](botafogo.txt)
+- [Ceará](ceara.txt)
+- [Chapecoense](chapeco.txt)
+- [Corinthians](corinth.txt)
+- [Cruzeiro](cruzeiro.txt)
+- [CSA](csa.txt)
+- [Flamengo](flamengo.txt)
+- [Fluminense](flumin.txt)
+- [Fortaleza](fortal.txt)
+- [Goiás](goias.txt)
+- [Grêmio](gremio.txt)
+- [Internacional](internac.txt)
+- [Palmeiras](palmeir.txt)
+- [Santos](santos.txt)
+- [São Paulo](saopaulo.txt)
+- [Vasco da Gama](vasco.txt)

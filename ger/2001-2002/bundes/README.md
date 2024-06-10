@@ -1,0 +1,21 @@
+# German Bundesliga 2001/02
+
+18 teams
+- [TSV 1860 Munich](1860mun.txt)
+- [Bayer Leverkusen](bayerlev.txt)
+- [Bayern Munich](bayern.txt)
+- [Borussia Dortmund](dortmund.txt)
+- [Borussia Mönchengladbach](monchen.txt)
+- [Energie Cottbus](cottbus.txt)
+- [SC Freiburg](freiburg.txt)
+- [Hamburg](hamburg.txt)
+- [Hansa Rostock](rostock.txt)
+- [Hertha Berlin](hberlin.txt)
+- [1.FC Kaiserslautern](kaisersl.txt)
+- [1.FC Köln](koln.txt)
+- [1.FC Nürnberg](nurnberg.txt)
+- [St Pauli](stpauli.txt)
+- [Schalke 04](schalke.txt)
+- [VfB Stuttgart](stuttg.txt)
+- [Werder Bremen](wbremen.txt)
+- [VfL Wolfsburg](wolfsburg.txt)

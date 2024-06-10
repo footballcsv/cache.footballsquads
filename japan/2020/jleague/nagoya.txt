@@ -1,0 +1,39 @@
+=  Nagoya Grampus - Japanese J1 League 2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Mitchell Langerak, AUS, G, 1.91, 77, 22-08-88, Emerald, Levante
+2, Takuji Yonemoto, JPN, M, 1.76, 63, 03-12-90, Itami, FC Tokyo
+3, Yuichi Maruyama, JPN, D, 1.83, 73, 16-06-89, Tokyo, FC Tokyo
+4, Shinnosuke Nakatani, JPN, D, 1.80, 74, 24-03-96, Sakuta, Kashiwa Reysol
+5, Kazuhiko Chiba, JPN, D, 1.83, 74, 21-06-85, Kushiro, Sanfrecce Hiroshima
+6, Kazuya Miyahara, JPN, D, 1.70, 61, 22-03-96, Hiroshima, Sanfrecce Hiroshima
+8, João Schmidt, BRA, M, 1.83, 82, 19-05-93, São Paulo, Atalanta
+9, Ariajasuru Hasegawa, JPN, M, 1.86, 70, 29-10-88, Tsurugashima, Omiya Ardija
+10, Gabriel Xavier, BRA, M, 1.70, 70, 15-07-93, São Paulo, Cruzeiro
+11, Hiroyuki Abe, JPN, M, 1.70, 69, 05-07-89, Kitakatsuragi, Kawasaki Frontale
+13, Haruya Fujii, JPN, D, 1.86, 75, 26-12-00, Aichi, None
+14, Yosuke Akiyama, JPN, M, 1.71, 68, 13-04-95, Chiba, Waseda Univ
+15, Sho Inagaki, JPN, M, 1.75, 72, 25-12-91, Tokyo, Sanfrecce Hiroshima
+16, Mateus, BRA, M, 1.67, 69, 11-09-94, Itabuna, Omiya Ardija
+17, Ryogo Yamasaki, JPN, F, 1.87, 75, 20-09-92, Okayama, Shonan Bellmare
+18, Tsubasa Shibuya, JPN, G, 1.89, 89, 27-01-95, Tokyo, Yokohama FC
+20, Shuto Watanabe, JPN, M, 1.68, 60, 28-01-97, Aichi, Tokai Gakuen Univ
+21, Yohei Takeda, JPN, G, 1.89, 76, 30-06-87, Osaka, Oita Trinita
+22, Daiki Mitsui, JPN, G, 1.88, 80, 27-05-01, Aichi, None
+23, Yutaka Yoshida, JPN, D, 1.68, 66, 17-02-90, Fujinomiya, Sagan Tosu
+24, Ryotaro Ishida, JPN, M, 1.75, 72, 13-12-01, Kanagawa, None
+25, Naoki Maeda, JPN, D, 1.75, 66, 17-11-94, Saitama, Matsumoto Yamaga
+26, Shumpei Naruse, JPN, M, 1.66, 63, 17-01-01, Aichi, None
+27, Yuki Soma, JPN, M, 1.65, 66, 25-02-97, Tokyo, Waseda Univ
+28, Akira Yoshida, JPN, D, 1.84, 70, 09-07-01, Fukuoka, Kyushu International Univ HS
+30, Hidemasa Koda, JPN, M, 1.66, 58, 02-10-03, Mie, None
+32, Koki Toyoda, JPN, F, 1.69, 63, 11-04-03, Gifu, None
+34, Oh Jae-Suk, KOR, D, 1.78, 74, 04-01-90, Uijeongbu, Nagoya Grampus
+36, Kosuke Ota, JPN, D, 1.78, 74, 23-07-87, Machida, FC Tokyo
+44, Mu Kanasaki, JPN, M, 1.80, 70, 16-02-89, Tsu, Sagan Tosu
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+7, Jô, BRA, F, 1.88, 78, 20-03-87, São Paulo, Corinthians
+19, Ryota Aoki, JPN, M, 1.70, 58, 06-03-96, Machida, Omiya Ardija (On Loan)

@@ -1,0 +1,47 @@
+=  Fortaleza - Campeonato Brasileiro Série A 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, João Ricardo, BRA, G, 1.88, 78, 06-09-88, Mariano Moro, Ceará
+2, Tinga, BRA, D, 1.79, 78, 01-09-93, Porto Alegre, Bahia
+3, Tobias Figueiredo, POR, D, 1.88, 84, 02-02-94, Sátão, Hull C
+4, Titi, BRA, D, 1.87, 83, 12-03-88, Pelotas, Göztepe
+5, Marcelo Benevenuto, BRA, D, 1.80, 73, 07-01-96, Resende, Botafogo
+6, Bruno Pacheco, BRA, D, 1.74, 74, 08-12-91, Pitangueiras, Ceará
+7, Tomás Pochettino, ARG, M, 1.80, 68, 01-02-96, Rafael, Austin FC
+8, Caio Alexandre, BRA, M, 1.74, 66, 24-02-99, Duque de Caxias, Vancouver Whitecaps
+9, Juan Martín Lucero, ARG, F, 1.79, 72, 30-11-91, Mendoza, Colo-Colo
+10, Lucas Crispim, BRA, M, 1.78, 72, 16-06-94, Brasília, Guarani
+11, Romarinho, BRA, F, 1.68, 66, 01-03-94, Natal, Globo
+12, Bruno, BRA, G, -, -, 08-06-02, Pontal, Flamengo
+14, Bernardo Schappo, BRA, D, 1.91, 85, 22-03-99, Biguaçu, Ituano
+15, Marinho, BRA, F, 1.76, 62, 29-05-90, Penedo, Flamengo
+16, Fernando Miguel, BRA, G, 1.91, 92, 02-02-85, Venâncio Aires, Vasco da Gama
+17, José Welison, BRA, M, 1.77, 74, 11-03-95, São Pedro, Atlético Mineiro
+18, Silvio Romero, ARG, F, 1.77, 76, 22-07-88, Córdoba, Independiente
+19, Emanuel Brítez, ARG, D, 1.78, 74, 26-03-92, Santa Fe, Defensa y Justicia
+20, Dudu, BRA, D, 1.75, 75, 30-05-97, Gama, Atlético Goianiense
+21, Pedro Augusto, BRA, M, 1.81, 74, 03-03-97, Ubá, Tondela
+22, Yago Pikachu, BRA, D, 1.69, 63, 05-06-92, Belém, Shimizu S-Pulse
+25, Vinícius Zanocelo, BRA, M, 1.85, 77, 30-01-01, Santo André, Santos
+27, Calebe, BRA, M, 1.73, 66, 30-04-00, Monte Azul, Atlético Mineiro
+29, Guilherme, BRA, F, 1.78, 65, 13-04-95, São Paulo, Grêmio
+30, Maurício Kozlinski, BRA, G, 1.90, 92, 18-06-91, Antônio Olinto, Guarani
+31, Amorim, BRA, M, 1.77, 70, 18-05-05, Fortaleza, None
+32, Pedro Rocha, BRA, F, 1.78, 74, 01-10-94, Vila Velha, Spartak Moscow
+33, Gonzalo Escobar, ARG, D, 1.73, 65, 16-03-97, San Vicente, Ibiza
+35, Hércules, BRA, M, 1.78, 75, 20-10-00, Jaicós, None
+37, Kauan, BRA, M, 1.74, 66, 16-04-05, Caxias, Goiás
+39, Imanol Machuca, ARG, M, 1.73, 70, 15-01-00, Roldán, Unión (Santa Fe)
+88, Lucas Sasha, BRA, M, 1.77, 77, 01-03-90, São Paulo, Aris
+91, Thiago Galhardo, BRA, F, 1.82, 69, 20-07-89, São João del Rei, Internacional
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+28, Habraão, BRA, D, 1.81, 75, 26-06-01, Além Paraíba, ABC (On Loan)
+12, Kennedy, BRA, G, 1.87, 80, 08-12-99, São Luís, Pouso Alegre (On Loan)
+21, Moisés, BRA, F, 1.75, 80, 02-09-96, Morro da Fumaça, Cruz Azul
+37, Alíx Vinícius, BRA, D, 1.95, 76, 06-11-99, Simões Filho, Atlético Goianiense (On Loan)
+3, Brayan Ceballos, COL, D, 1.89, 80, 24-05-01, Santiago, Junior (On Loan)
+26, Sammuel, BRA, M, 1.76, 68, 21-12-01, Fortaleza, Atlético Goianiense (On Loan)
+13, Lucas Esteves, BRA, D, 1.69, 66, 24-06-00, São Paulo, Palmeiras

@@ -1,0 +1,58 @@
+=  Milton Keynes Dons - English Football League Two 2018/2019
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Lee Nicholls, ENG, G, 1.91, 85, 05-10-92, Huyton, Wigan Ath
+2, George Williams, ENG, D, 1.76, 70, 14-04-93, Hillingdon, Barnsley
+3, Dean Lewington, ENG, D, 1.80, 70, 18-05-84, Kingston upon Thames, Wimbledon
+4, Joe Walsh, WAL, D, 1.80, 70, 13-05-92, Cardiff, Crawley T
+5, Mathieu Baudry, FRA, D, 1.88, 80, 24-02-88, Saint-Adresse, Doncaster R
+6, Ousseynou Cissé, MLI, M, 1.95, 85, 06-04-91, Suresnes, Tours
+7, Ryan Watson, ENG, M, 1.85, 73, 07-07-93, Crewe, Barnet
+8, Alex Gilbey, ENG, M, 1.83, 73, 09-12-94, Dagenham, Wigan Ath
+10, Chuks Aneke, ENG, M, 1.91, 83, 03-07-93, Newham, Zulte-Waregem
+11, Jake Hesketh, ENG, M, 1.68, 63, 27-03-96, Southampton, Southampton
+12, Mitch Hancox, ENG, D, 1.78, 71, 09-11-93, Solihull, Macclesfield T
+14, Kieran Agard, ENG, F, 1.78, 68, 10-10-89, Newham, Bristol C
+15, Jordan Moore-Taylor, ENG, D, 1.78, 83, 21-01-94, Exeter, Exeter C
+16, Russell Martin, SCO, D, 1.83, 74, 04-01-86, Brighton, Walsall
+18, Conor McGrandles, SCO, M, 1.83, 73, 24-09-95, Falkirk, Norwich C
+19, Robbie Simpson, ENG, F, 1.85, 75, 15-03-85, Cambridge, Exeter C
+20, Lawson D'Ath, ENG, M, 1.75, 77, 24-12-92, Witney, Luton T
+21, David Wheeler, ENG, M, 1.80, 76, 04-10-90, Brighton, QPR
+22, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Swindon T
+23, Brandon Thomas-Asante, GHA, F, 1.80, 80, 29-12-98, Milton Keynes, None
+24, Jordan Houghton, ENG, M, 1.82, 77, 09-11-95, Chertsey, Chelsea
+25, Callum Brittain, ENG, F, 1.79, 68, 12-03-98, Bedford, None
+26, Baily Cargill, ENG, D, 1.89, 87, 13-10-95, Southampton, Bournemouth
+28, Oran Jackson, ENG, D, 1.80, 70, 16-10-98, Milton Keynes, None
+29, David Kasumu, ENG, M, 1.80, 70, 05-10-99, Lambeth, None
+30, Liam Sole, ENG, M, 1.75, 65, 21-12-99, Watford, None
+31, Finn Tapp, ENG, D, , , 09-11-99, Milton Keynes, None
+33, Ryan Harley, ENG, M, 1.75, 70, 22-01-85, Bristol, Exeter C
+34, Stephen Walker, ENG, F, 1.81, 78, 11-10-00, Middlesbrough, Middlesbrough
+35, Jack Hourican-Harvey, ENG, D, , , 30-09-00, , None
+36, Alfie Jones, ENG, G, 1.85, 74, 02-10-00, Watford, None
+37, Dylan Asonganyi, ENG, F, 1.72, 65, 10-12-00, Sheffield, None
+38, Charlie Pattison, ENG, M, , , 28-12-00, Bedford, None
+39, Jenson Wright, ENG, M, , , 03-01-01, Oxford, None
+40, Recoe Martin, ENG, F, , , 28-01-01, Brent, None
+41, Matthew Sorinola, ENG, D, 1.73, 65, 19-02-01, Lambeth, None
+42, Delsin Ackom, ENG, D, , , 06-03-01, , None
+43, Jay Bird, ENG, F, 1.86, 70, 13-09-00, Hartlepool, None
+44, Jamie Robinson, ENG, D, , , , , None
+45, George Rose, ENG, G, , , , , None
+46, Ollie Leach, ENG, D, , , , , None
+47, John Freeman, ENG, M, 1.80, 67, 04-11-01, Stevenage, None
+48, Finlay Brennan, ENG, D, , , , , None
+49, Jamal Sule, ENG, D, , , , , None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Robbie Muirhead, SCO, F, 1.77, 71, 08-03-96, Irvine, Dunfermline Ath
+27, Sam Nombe, ENG, F, 1.74, 70, 22-10-98, Croydon, Maidenhead U (On Loan)
+32, Rhys Healey, WAL, F, 1.73, 68, 06-12-94, Manchester, Cardiff C
+21, Aidan Nesbitt, SCO, M, 1.74, 65, 05-02-97, Johnstone, Dundee U
+13, Wieger Sietsma, NED, G, 1.84, 77, 11-07-95, Groningen, Hoang Anh Gia Lai
+11, Peter Pawlett, SCO, M, 1.78, 68, 03-02-91, Hull, Dundee U
+9, Osman Sow, SWE, F, 1.93, 80, 22-04-90, Stockholm, Dundee U

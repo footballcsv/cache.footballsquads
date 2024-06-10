@@ -1,0 +1,37 @@
+=  Cobresal - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+2, Ignacio Pacheco, CHI, M, 1.73, 67, 04-04-04, Santiago, None
+3, Cristian Toro, ARG, D, 1.83, 80, 10-11-00, Maipú, Deportes Melipilla
+4, Iván Contreras, CHI, D, 1.75, 78, 26-07-01, El Salvador [CHI], Colo-Colo
+5, Francisco Alarcón, CHI, D, 1.89, 85, 25-02-90, Santiago, Universidad de Concepción
+6, Alejandro Camargo, ARG, M, 1.75, 69, 12-06-89, Guaymallén, Deportes Melipilla
+7, Marcelo Jorquera, CHI, M, 1.74, 72, 13-10-92, Santiago, Unión Española
+9, Leonardo Valencia, CHI, M, 1.81, 79, 25-04-91, Santiago, Deportes La Serena
+10, Walter Rueda, ARG, M, 1.76, 75, 02-12-97, Paraná, Almagro
+11, Gastón Lezcano, ARG, M, 1.69, 67, 21-11-86, San Nicolás, Universidad Católica
+12, Alejandro Santander, CHI, G, 1.77, 76, 05-11-02, Puente Alto, None
+13, Cristhofer Mesías, CHI, M, 1.79, 72, 02-05-98, Santiago, None
+14, Franco García, ARG, F, 1.76, 63, 04-06-97, Córdoba, Racing (Córdoba)
+16, Julio Castro, CHI, F, 1.75, 76, 19-08-96, Talca, Unión San Felipe
+17, Pablo Cárdenas, CHI, M, 1.77, 68, 10-02-00, Providencia, None
+18, César Munder, CUB, M, 1.65, 57, 07-01-00, Havana, Universidad Católica
+19, Luciano Ortega, ARG, M, 1.73, 75, 20-12-02, General Las Heras, Deportivo Maipú
+20, Nelson Sepúlveda, CHI, M, 1.67, 72, 22-01-92, Santiago, Deportes Melipilla
+21, Benjamín Osses, CHI, F, 1.72, 71, 24-06-02, -, None
+22, Leandro Requena, ARG, G, 1.85, 80, 11-09-87, Malagueño, Central Córdoba (SdE)
+23, Guillermo Pacheco, CHI, D, 1.81, 76, 10-04-89, Quilpué, Deportes Temuco
+25, Luis Vásquez, CHI, M, 1.67, 60, 08-01-02, Santiago, None
+26, Sebastián Silva, CHI, D, 1.80, 76, 16-07-91, Recoleta, Coquimbo Unido
+28, Diego Céspedes, CHI, D, 1.81, 68, 25-09-98, Providencia, None
+29, Sergio Carrasco, CHI, F, 1.84, 77, 02-01-05, -, None
+30, Cecilio Waterman, PAN, M, 1.80, 77, 13-04-91, Ciudad de Panamá, Universidad de Concepción
+31, Lucas Di Maio, ARG, F, -, -, 26-01-05, -, Talleres (Córdoba)
+36, Marcelo Filla, CHI, D, 1.76, 64, 14-02-98, Puente Alto, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+15, Yerco Oyanedel, CHI, D, 1.70, 72, 19-09-00, Santiago, Deportes Copiapó
+8, Francisco Valdés, CHI, M, 1.74, 73, 13-11-01, Talca, Unión San Felipe (On Loan)
+1, Jorge Deschamps, CHI, G, 1.82, 77, 13-05-84, Santiago, Magallanes

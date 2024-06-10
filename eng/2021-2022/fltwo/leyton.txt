@@ -1,0 +1,44 @@
+=  Leyton Orient - English Football League Two 2021/2022
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Sam Sargeant, ENG, G, 1.83, 67, 23-09-97, Greenwich, None
+2, Tom James, WAL, D, 1.80, 65, 15-04-96, Cardiff, Hibernian
+3, Connor Wood, ENG, D, 1.77, 78, 17-07-96, Harlow, Bradford C
+5, Dan Happe, ENG, D, 1.97, 89, 28-09-98, Tower Hamlets, None
+6, Adam Thompson, NIR, D, 1.85, 74, 28-09-92, Harlow, Rotherham U
+7, Paul Smyth, NIR, F, 1.75, 67, 10-09-97, Belfast, QPR
+8, Craig Clay, ENG, M, 1.80, 73, 05-05-92, Nottingham, Motherwell
+9, Harry Smith, ENG, F, 1.96, 85, 18-05-95, Chatham, Northampton T
+10, Frank Nouble, ENG, F, 1.90, 82, 24-09-91, Lewisham, Colchester U
+11, Theo Archibald, SCO, M, 1.80, 60, 05-03-98, Glasgow, Lincoln C
+14, Otis Khan, ENG, M, 1.75, 71, 05-09-95, Ashton-under-Lyme, Walsall
+15, Alex Mitchell, ENG, D, 1.91, 85, 07-10-01, Slough, Millwall
+16, Aaron Drinan, IRL, F, 1.82, 73, 06-05-98, Cork, Ipswich T
+17, Dan Moss, ENG, D, 1.80, 60, 04-11-00, Worcester, Millwall
+18, Darren Pratley, ENG, M, 1.85, 69, 22-04-85, Barking, Charlton Ath
+19, Omar Beckles, GRN, D, 1.91, 78, 19-10-91, Kettering, Crewe Alex
+20, Ruel Sotiriou, CYP, F, 1.80, 71, 24-08-00, Edmonton, None
+21, Matt Young, ENG, M, -, -, 09-12-02, Hatfield, None
+22, Lawrence Vigouroux, CHI, G, 1.94, 77, 19-11-93, Camden Town, Everton (Viña del Mar)
+23, Antony Papadopoulos, ENG, M, -, -, -, -, None
+24, Jayden Sweeney, ENG, D, 1.78, 70, 04-12-01, Camden Town, None
+25, Shadrach Ogie, IRL, D, 1.83, 73, 26-08-01, Limerick, None
+26, Hector Kyprianou, CYP, M, 1.88, 78, 27-05-01, Enfield, None
+27, Rhys Byrne, ENG, G, 1.91, 83, 24-08-02, Redbridge, None
+28, Daniel Nkrumah, ENG, M, -, -, 05-11-03, Redbridge, None
+29, Zech Obiero, ENG, M, 1.70, 70, 27-01-05, Redbridge, Tottenham H
+30, Jephte Tanga, ENG, M, 1.71, 70, 16-06-04, Lambeth, None
+31, Noah Phillips, ENG, G, -, -, 07-12-04, Havering, None
+32, Jordan Brown, ENG, D, 1.81, 70, 21-06-01, Stoke-on-Trent, Derby Co
+33, Sonny Fish, WAL, F, 1.87, 70, 09-01-04, Southend-on-Sea, Redbridge
+34, Ethan Coleman, ENG, M, 1.88, 83, 28-01-00, Reading, King's Lynn T
+35, George Ray, WAL, D, 1.78, 71, 13-10-93, Warrington, Exeter C
+36, Reon Smith-Kouassi, ENG, F, -, -, -, -, None
+37, Harrison Sodje, ENG, D, 1.83, 69, 05-11-03, Lambeth, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+17, Tyrese Omotoye, BEL, F, 1.78, 65, 23-09-02, Hasselt, Norwich C
+10, Dan Kemp, ENG, M, 1.68, 63, 11-01-99, Sidcup, MK Dons
+4, Callum Reilly, IRL, M, 1.85, 76, 03-10-93, Warrington, Solihull Moors (On Loan)

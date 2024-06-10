@@ -1,0 +1,62 @@
+=  Internazionale - Italian Serie A 2012/13
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Samir Handanovič, SVN, G, 1.93, 82, 14-07-84, Ljubljana, Udinese
+4, Javier Zanetti, ARG, D, 1.78, 75, 10-08-73, Buenos Aires, Banfield
+5, Dejan Stanković, SRB, M, 1.81, 75, 11-09-78, Belgrade, Lazio
+6, Matías Silvestre, ARG, D, 1.84, 74, 25-09-84, Capital Federal, Palermo
+7, Matiás Ezequiel Schelotto, ITA, M, 1.87, 79, 23-05-89, Buenos Aires, Atalanta
+8, Rodrigo Palacio, ARG, F, 1.75, 66, 05-02-82, Bahía Blanca, Genoa
+10, Mateo Kovačić, CRO, M, 1.68, 63, 06-05-94, Linz, Dinamo Zagreb
+11, Ricardo Álvarez, ARG, M, 1.88, 73, 12-04-88, Capital Federal, Vélez Sarsfield
+12, Luca Castellazzi, ITA, G, 1.92, 89, 19-07-75, Gorgonzola, Sampdoria
+14, Fredy Guarín, COL, M, 1.84, 78, 30-06-86, Puerto Boyaca, FC Porto
+16, Gaby Mudingayi, BEL, M, 1.80, 70, 01-10-81, Kinshasa, Bologna
+17, Zdravko Kuzmanović, SRB, M, 1.86, 72, 22-09-87, Berne, Stuttgart
+18, Tommaso Rocchi, ITA, F, 1.77, 71, 19-09-77, Venice, Lazio
+19, Esteban Cambiasso, ARG, M, 1.77, 78, 18-08-80, Buenos Aires, Real Madrid
+20, Joel Chukwuma Obi, NGA, M, 1.76, 71, 22-05-91, Lagos, None
+21, Walter Gargano, URU, M, 1.68, 65, 23-07-84, Paysandù, Napoli
+22, Diego Milito, ARG, F, 1.83, 78, 12-06-79, Bernal, Genoa
+23, Andrea Ranocchia, ITA, D, 1.90, 80, 16-02-88, Assisi, Genoa
+24, Marco Benassi, ITA, M, 1.83, 80, 08-09-94, Modena, Modena
+25, Walter Samuel, ARG, D, 1.83, 83, 23-03-78, Firmat, Real Madrid
+26, Christian Chivu, ROU, D, 1.84, 81, 26-10-80, Reşiţa, Roma
+27, Vid Belec, SVN, G, 1.93, 87, 06-06-90, Maribor, Maribor
+28, Simone Pasa, ITA, M, 1.85, 77, 21-01-94, Montebelluna, None
+30, Juan Pablo Carrizo, ARG, G, 1.87, 87, 06-05-84, Villa Constitución, Lazio
+31, Álvaro Pereira, URU, M, 1.85, 80, 28-11-85, Montevideo, FC Porto
+33, Ibrahima Mbaye, SEN, D, 1.87, 70, 19-11-94, Guédiawaye, None
+40, Juan Jesus, BRA, D, 1.85, 76, 10-06-91, Belo Horizonte, Internacional
+42, Jonathan, BRA, D, 1.70, 72, 27-02-86, Conselheiro Lafaiete, Cruzeiro
+45, Francesco Forte, ITA, F, 1.85, 75, 01-05-93, Rome, Pisa
+47, Matteo Colombi, ITA, F, 1.89, 86, 13-06-94, Broni, Piacenza
+48, Andrea Bandini, ITA, D, 1.76, 72, 16-02-94, Milan, None
+49, Giovanni Terrani, ITA, F, 1.80, 76, 12-10-94, Vigevano, None
+50, Gennaro Acampora, ITA, M, 1.76, 72, 29-03-94, Naples, Spezia
+54, Isaac Donkor, GHA, D, 1.80, 70, 15-08-95, Kumasi, Padova
+55, Yuto Nagatomo, JPN, D, 1.70, 65, 12-09-86, Ehime, Cesena
+60, Niccolò Belloni, ITA, M, 1.76, 68, 10-07-94, Massa Carrara, Spezia
+61, Luca Garritano, ITA, F, 1.74, 64, 11-02-94, Cosenza, Cesena
+62, Marco Ferrara, ITA, D, 1.78, 72, 05-05-94, Milan, Pavia
+63, Lukas Spendlhofer, AUT, D, 1.87, 82, 02-06-93, Neunkirchen, AKA St. Pölten
+77, Raffaele Di Gennaro, ITA, G, 1.86, 80, 03-10-93, Saronno, None
+90, Patrick Olsen, DEN, M, 1.78, 75, 23-04-94, Copenhagen, Brøndby
+94, Raffaele Dalle Vedove, ITA, G, , , 28-02-94, Pordenone, None
+99, Antonio Cassano, ITA, F, 1.75, 78, 12-07-82, Bari, Milan
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+81, Samuele Longo, ITA, F, 1.85, 77, 12-01-92, Valdobbiadene, Espanyol (On Loan)
+13, Maicon, BRA, D, 1.84, 77, 26-07-81, Criciúma, Manchester C
+32, Matteo Antonio Cincilla, ITA, G, 1.88, 80, 24-10-94, Milan, Parma
+52, Andrea Romano', ITA, M, 1.78, 71, 23-07-93, Como, Prato (On Loan)
+10, Wesley Sneijder, NED, M, 1.70, 67, 09-06-84, Utrecht, Galatasaray
+44, Matteo Bianchetti, ITA, D, 1.89, 80, 17-03-93, Como, Verona (On Loan)
+41, Alfred Duncan, GHA, M, 1.78, 78, 10-03-93, Accra, Livorno (On Loan)
+7, Philippe Coutinho, BRA, M, 1.71, 68, 12-06-92, Rio de Janeiro, Liverpool
+46, Yago del Piero, BRA, M, 1.78, , 14-01-94, Vitória, Cesena (On Loan)
+17, McDonald Mariga, KEN, M, 1.87, 80, 04-04-87, Nairobi, Parma (On Loan)
+82, Daniel Bessa, BRA, M, 1.73, 65, 14-01-93, São Paulo, Vicenza (On Loan)
+88, Marko Livaja, CRO, F, 1.82, 81, 26-08-93, Split, Atalanta

@@ -1,0 +1,41 @@
+=  Chelsea - English Premier League 2013/14
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Petr Čech, CZE, G, 1.96, 90, 20-05-82, Plzeň, Rennes
+2, Branislav Ivanović, SRB, D, 1.88, 86, 22-02-84, Sremska Mitrovica, Lokomotiv Moscow
+3, Ashley Cole, ENG, D, 1.72, 67, 20-12-80, Stepney, Arsenal
+4, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Benfica
+7, Ramires, BRA, M, 1.79, 65, 24-03-87, Rio de Janeiro, Benfica
+8, Frank Lampard, ENG, M, 1.83, 90, 20-06-78, Romford, West Ham U
+9, Fernando Torres, ESP, F, 1.86, 78, 20-03-84, Madrid, Liverpool
+11, Oscar, BRA, M, 1.79, 66, 09-09-91, Americana, Internacional
+12, Mikel John Obi, NGA, M, 1.84, 85, 22-04-87, Jos, Lyn
+14, Andre Schürrle, GER, F, 1.75, 63, 06-11-90, Ludwigshafen, Bayer Leverkusen
+15, Mohamed Salah, EGY, M, 1.75, 69, 15-06-92, Basyoun, Basel
+16, Marco van Ginkel, NED, M, 1.80, 67, 01-12-92, Amersfoort, Vitesse
+17, Eden Hazard, BEL, M, 1.70, 69, 07-01-91, La Louvière, Lille
+19, Demba Ba, SEN, F, 1.89, 83, 25-05-85, Sèvres, Newcastle U
+21, Nemanja Matić, SRB, M, 1.94, 82, 01-08-88, Šabac, Benfica
+22, Willian, BRA, M, 1.74, 70, 09-08-88, Ribeirão Pires, Anzhi Makhachkala
+23, Mark Schwarzer, AUS, G, 1.94, 85, 06-10-72, Sydney, Fulham
+24, Gary Cahill, ENG, D, 1.88, 71, 19-12-85, Sheffield, Bolton W
+26, John Terry, ENG, D, 1.86, 91, 07-12-80, Barking, None
+27, Nathan Aké, NED, D, 1.80, 71, 18-02-95, Den Haag, Feyenoord
+28, César Azpilicueta, ESP, D, 1.78, 70, 28-08-89, Pamplona, Marseille
+29, Samuel Eto'o, CMR, F, 1.80, 75, 10-03-81, Nkon, Anzhi Makhachkala
+33, Tomáš Kalas, CZE, D, 1.84, 71, 15-05-93, Olomouc, Sigma Olomouc
+40, Hilário, POR, G, 1.88, 86, 21-10-75, São Pedro da Cova, Nacional [POR]
+46, Jamal Blackman, ENG, G, 1.96, 82, 27-10-93, Croydon, None
+47, Lewis Baker, ENG, M, 1.85, 70, 25-04-95, Luton, None
+48, Mitchell Beeney, ENG, G, 1.82, 78, 03-10-95, Leeds, None
+49, John Swift, ENG, M, 1.82, 73, 23-06-95, Portsmouth, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+13, Victor Moses, NGA, F, 1.77, 75, 12-12-90, Lagos, Liverpool (On Loan)
+18, Romelu Lukaku, BEL, F, 1.90, 94, 13-05-93, Antwerp, Everton (On Loan)
+34, Ryan Bertrand, ENG, D, 1.79, 85, 05-08-89, Southwark, Aston Villa (On Loan)
+15, Kevin De Bruyne, BEL, M, 1.80, 68, 28-06-91, Drongen, Wolfsburg
+10, Juan Mata, ESP, F, 1.70, 63, 28-04-88, Burgos, Manchester U
+5, Michael Essien, GHA, M, 1.78, 84, 03-12-82, Accra, Milan

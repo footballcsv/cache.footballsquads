@@ -1,0 +1,49 @@
+=  Anderlecht - Belgian Eerste Klasse A 2017/2018
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Matz Sels, BEL, G, 1.88, 75, 26-02-92, Lint, Newcastle U
+2, Josué, POR, D, 1.86, 75, 17-06-92, Lisbon, Vitória Guimarães
+3, Olivier Deschacht, BEL, D, 1.85, 75, 16-02-81, Gent, Lokeren
+4, Kara Mbodji, SEN, D, 1.92, 85, 11-11-89, Ndiass, KRC Genk
+5, Uroš Spajić, SRB, D, 1.86, 76, 13-02-93, Belgrade, Toulouse
+7, Andy Najar, HON, M, 1.70, 68, 16-03-93, Santa Cruz, DC United
+8, Pieter Gerkens, BEL, M, 1.79, 63, 17-02-95, Bilzen, Sint-Truiden
+9, Henry Onyekuru, NGA, F, 1.75, 70, 05-06-97, Onitsha, Everton
+10, Ryota Morioka, JPN, M, 1.80, 70, 12-04-91, Hyogo, Waasland-Beveren
+11, Alexandru Chipciu, ROU, M, 1.75, 68, 18-05-89, Piteşti, Steaua Bucureşti
+12, Dennis Appiah, FRA, D, 1.79, 68, 09-06-92, Toulouse, Caen
+13, Enzo D'Alberto, BEL, G, , , 20-07-96, , None
+15, Kenny Saief, ISR, M, 1.76, 72, 17-12-93, Panama City [USA], KAA Gent
+17, Massimo Bruno, BEL, M, 1.77, 66, 17-09-93, Boussu, RB Leipzig
+20, Sven Kums, BEL, M, 1.76, 63, 26-02-88, Asse, Watford
+23, Frank Boeckx, BEL, G, 1.80, 74, 27-09-86, Aarschot, Royal Antwerp
+25, Adrien Trebel, FRA, M, 1.70, 60, 03-03-91, Dreux, Standard Liège
+30, Boy de Jong, NED, G, 1.82, 76, 10-04-94, Voorburg, Telstar
+32, Leander Dendoncker, BEL, M, 1.88, 79, 15-04-95, Passendale, Club Brugge
+35, Silvère Ganvoula, CGO, F, 1.83, 80, 22-06-96, Brazzaville, KVC Westerlo
+37, Ivan Obradović, SRB, D, 1.81, 74, 25-07-88, Belgrade, Mechelen
+38, Mo Dauda, GHA, F, 1.76, 69, 20-02-98, Larabanga, Asante Kotoko
+39, Edo Kayembe, COD, M, 1.83, 77, 03-06-98, Kananga, Sharks XI
+40, Francis Amuzu, BEL, F, 1.70, 65, 23-08-99, Accra, None
+41, Emmanuel Sowah, GHA, D, 1.82, 80, 16-01-98, , Dreams FC
+43, Kobe Cools, BEL, D, , , 25-07-97, , None
+44, Hannes Delcroix, BEL, D, 1.85, 75, 28-02-99, Grande Hatte, None
+45, Sebastiaan Bornauw, BEL, D, 1.90, 81, 22-03-99, Wemmel, None
+46, Milan Corryn, BEL, M, 1.80, 79, 04-04-99, Aalst, None
+47, Abdoul Karim Danté, MLI, D, 1.86, 75, 29-10-98, Bamako, Jeanne d'Arc Bamako
+48, Albert Sambi Lokonga, BEL, M, 1.80, 70, 22-10-99, Verviers, None
+50, Lazar Marković, SRB, M, 1.75, 65, 02-03-94, Belgrade, Liverpool
+52, Nelson Azevedo-Janelas, BEL, M, , , 12-02-98, , None
+56, Alexis Saelemaekers, BEL, M, 1.80, 72, 27-06-99, Sint-Agatha-Berchem, None
+91, Łukasz Teodorczyk, POL, F, 1.85, 78, 03-06-91, Żuromin, Dynamo Kyiv
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Davy Roef, BEL, G, 1.87, 84, 06-02-94, Antwerp, Waasland-Beveren (On Loan)
+45, Mile Svilar, BEL, G, 1.89, 77, 27-08-99, Antwerp, Benfica
+24, Isaac Kiese Thelin, SWE, F, 1.89, 83, 24-06-92, Örebro, Waasland-Beveren (On Loan)
+36, Robert Berič, SVN, F, 1.88, 80, 17-06-91, Krsko, St-Etienne
+99, Hamdi Harbaoui, TUN, F, 1.85, 81, 05-01-85, Bizerte, Zulte-Waregem
+10, Nicolae Stanciu, ROU, M, 1.68, 63, 07-05-93, Craiova, Sparta Prague
+94, Sofiane Hanni, ALG, M, 1.78, 72, 29-12-90, Ivry-sur-Seine, Spartak Moscow

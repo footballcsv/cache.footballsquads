@@ -1,0 +1,52 @@
+=  Wolverhampton Wanderers - English Football League Championship 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Carl Ikeme, NGA, G, 1.88, 87, 08-06-86, Sutton Coldfield, None
+2, Matt Doherty, IRL, D, 1.82, 80, 16-01-92, Dublin, Bohemians
+4, David Edwards, WAL, M, 1.80, 72, 03-02-86, Pontesbury, Luton T
+5, Michael Williamson, ENG, D, 1.91, 84, 08-11-83, Stoke-on-Trent, Newcastle U
+6, Danny Batth, ENG, D, 1.91, 85, 21-09-90, Brierley Hill, None
+7, James Henry, ENG, M, 1.85, 75, 10-06-89, Woodley, Millwall
+8, George Saville, ENG, M, 1.76, 73, 01-06-93, Camberley, Chelsea
+9, Nouha Dicko, MLI, F, 1.73, 74, 14-05-92, Saint-Maurice, Wigan Ath
+10, Joe Mason, IRL, F, 1.76, 75, 13-05-91, Peverell, Cardiff C
+11, Kevin McDonald, SCO, M, 1.88, 83, 04-11-88, Carnoustie, Sheffield U
+12, Jed Wallace, ENG, M, 1.78, 69, 15-12-93, Reading, Portsmouth
+13, Aaron McCarey, IRL, G, 1.85, 74, 14-01-92, Monaghan, Monaghan U
+15, Tommy Rowe, ENG, M, 1.80, 81, 01-05-89, Wythenshawe, Peterborough U
+16, Conor Coady, ENG, M, 1.85, 75, 25-02-93, Liverpool, Huddersfield T
+17, Rajiv van La Parra, NED, M, 1.81, 72, 04-06-91, Rotterdam, SC Heerenveen
+18, Dominic Iorfa, ENG, D, 1.88, 78, 08-07-95, Southend-on-Sea, Southend U
+19, Jack Price, ENG, M, 1.91, 87, 19-12-92, Shrewsbury, None
+22, Björn Sigurðarson, ISL, F, 1.86, 81, 26-12-91, Akranes, Lillestrøm
+23, Ethan Ebanks-Landell, ENG, D, 1.88, 88, 12-12-92, Oldbury, None
+24, Jordan Graham, ENG, M, 1.82, 68, 05-03-95, Coventry, Aston Villa
+25, Nathan Byrne, ENG, M, 1.80, 84, 05-06-92, St Albans, Swindon T
+26, Emiliano Martínez, ARG, G, 1.93, 85, 02-09-92, Mar del Plata, Arsenal
+27, Michał Żyro, POL, M, 1.89, 78, 20-09-92, Warsaw, Legia Warszawa
+28, Sylvain Deslandes, FRA, D, 1.86, 75, 25-04-97, Kouoptamo, Caen
+29, Adam Le Fondre, ENG, F, 1.80, 73, 02-12-86, Stockport, Cardiff C
+30, Kortney Hause, ENG, D, 1.89, 84, 16-07-95, Goodmayes, Wycombe W
+31, Jon Flatt, ENG, G, 1.85, 88, 12-09-94, Wolverhampton, None
+33, Bradley Reid, WAL, F, 1.83, 77, 15-10-95, Mold, Wrexham
+35, Connor Hunte, ENG, M, 1.78, 67, 12-09-96, Redhill, Sutton U
+37, Eusébio Bancessi, GNB, M, 1.79, 76, 08-04-95, Bissau, Benfica
+39, Aaron Collins, WAL, F, 1.85, 74, 27-05-97, Newport, Newport Co
+41, Harry Burgoyne, ENG, G, 1.93, 85, 28-12-96, Ludlow, None
+42, Ben O'Hanlon, ENG, D, 1.74, 74, 22-02-96, Wolverhampton, None
+43, Connor Ronan, IRL, M, 1.73, 70, 06-03-98, Rochdale, Rochdale
+45, Anto Breslin, IRL, D, 1.73, 73, 13-02-97, Dublin, St Kevin's Boys
+48, Bright Enobakhare, NGA, F, 1.79, 77, 18-05-98, Benin City, None
+50, Aaron Hayden, ENG, D, 1.86, 79, 16-01-97, Croydon, Chelsea
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+14, Lee Evans, WAL, M, 1.86, 88, 24-07-94, Newport, Bradford C (On Loan)
+5, Richard Stearman, ENG, D, 1.88, 67, 19-08-87, Wolverhampton, Fulham
+27, Grant Holt, ENG, F, 1.83, 79, 12-04-81, Carlisle, Wigan Ath
+20, Sheyi Ojo, ENG, F, 1.77, 64, 19-06-97, Hemel Hempstead, Liverpool
+10, Benik Afobe, ENG, F, 1.79, 70, 12-02-93, Leyton, Bournemouth
+3, Scott Golbourne, ENG, D, 1.73, 74, 29-02-88, Bristol, Bristol C
+21, Zeli Ismail, ENG, M, 1.73, 75, 12-12-93, Kukës, Oxford U (On Loan)
+3, Jérémy Helan, FRA, D, 1.81, 76, 09-05-92, Clichy, Sheffield W

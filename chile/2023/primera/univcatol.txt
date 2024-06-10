@@ -1,0 +1,41 @@
+=  Universidad Católica - Chilean Primera División 2023
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+3, Eugenio Mena, CHI, D, 1.71, 73, 18-07-88, Viña del Mar, Racing Club
+5, Daniel Gónzalez, CHI, D, 1.83, 72, 20-02-02, Valparaíso, Santiago Wanderers
+6, Guillermo Burdisso, ARG, D, 1.87, 86, 26-09-88, Altos de Chipión, Deportivo Cali
+7, Franco Di Santo, ARG, F, 1.94, 78, 07-04-89, Mendoza, Tijuana
+8, Ignacio Saavedra, CHI, M, 1.72, 63, 12-01-99, Yumbel, None
+9, Fernando Zampedri, ARG, F, 1.85, 83, 14-02-88, Chajarí, Rosario Central
+10, César Pinares, CHI, M, 1.79, 76, 23-05-91, Santiago, Altay
+11, Juan Rossel, CHI, M, 1.82, 76, 17-03-05, -, None
+12, Thomas Gillier, CHI, G, 1.86, 73, 28-05-04, Las Condes, None
+13, Axel Cerda, CHI, F, 1.80, 77, 13-04-06, Santiago, None
+14, Luis Felipe Hernández, CHI, F, 1.79, 78, 12-01-04, La Serena, None
+15, Cristián Cuevas, CHI, D, 1.71, 64, 02-04-95, Rancagua, Huachipato
+16, Brayan Rovira, COL, M, 1.77, 78, 02-12-96, Bosconia, Atlético Nacional
+17, Branco Ampuero, CHI, D, 1.82, 82, 19-07-93, Carelmapu, Deportes Antofagasta
+18, Alexander Aravena, CHI, F, 1.74, 70, 06-09-02, Independencia, None
+19, Bryan González, CHI, M, 1.67, 65, 23-02-03, Quillota, None
+20, Gonzalo Tapia, CHI, F, 1.78, 78, 18-02-02, Las Condes, None
+21, Diego Corral, CHI, M, 1.73, 67, 09-03-05, Santiago, None
+22, Nicolás Peranic, ARG, G, 1.84, 80, 02-06-85, Ituzaingó, Deportes Melipilla
+23, Byron Nieto, CHI, D, 1.76, 70, 03-02-98, Recoleta, Deportes Antofagasta
+24, Alfonso Parot, CHI, D, 1.80, 74, 15-10-89, Talca, Rosario Central
+25, Pablo Pinto, CHI, D, 1.77, 63, 15-06-04, Santiago, None
+26, Diego Ossa, CHI, F, 1.78, 68, 14-04-04, Santiago, None
+27, Jorge Ortiz, CHI, M, 1.70, 68, 23-01-04, Hijuelas, None
+28, Sergio Cabello, CHI, G, 1.79, 83, 10-12-03, Santiago, None
+30, Sebastián Espinoza, CHI, M, 1.68, 60, 19-07-04, -, None
+31, Milan Tudor, CHI, F, 1.83, 79, 05-01-04, -, None
+32, Carlos Arancibia, CHI, D, 1.87, 75, 04-02-03, Valparaíso, None
+33, Luis Muñoz, CHI, D, 1.86, 79, 08-11-03, -, None
+35, Clemente Montes, CHI, F, 1.70, 65, 25-04-01, Vitacura, None
+36, Nicolás Letelier, CHI, M, 1.74, 76, 17-01-05, -, None
+55, Gary Kagelmacher, URU, D, 1.83, 80, 21-04-88, Montevideo, León
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+4, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Independiente
+1, Matías Dituro, ARG, G, 1.91, 87, 08-05-87, Bigand, Fatih Karagümrük

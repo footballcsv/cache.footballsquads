@@ -1,0 +1,40 @@
+=  Benfica - Portuguese Superliga 2009/10
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, José Moreira, POR, G, 1.84, 80, 20-03-82, Porto, None
+2, Airton, BRA, M, 1.80, 77, 21-02-90, Rio de Janeiro, Flamengo
+4, Luisão, BRA, D, 1.93, 95, 13-02-81, Amparo, Cruzeiro
+5, Ruben Amorim, POR, M, 1.78, 73, 27-01-85, Lisbon, Belenenses
+6, Javi García, ESP, M, 1.86, 78, 08-02-87, Murcia, Real Madrid
+7, Óscar Cardozo, PAR, F, 1.93, 87, 20-05-83, Campo 9, Newell's Old Boys
+8, Ramires, BRA, M, 1.79, 65, 24-03-87, Rio de Janeiro, Cruzeiro
+9, Pedro Mantorras, ANG, F, 1.78, 77, 18-03-82, Luanda, Alverca
+10, Pablo Aimar, ARG, M, 1.70, 68, 03-11-79, Rio Cuarto, Zaragoza
+12, Quim, POR, G, 1.84, 79, 13-11-75, Famalição, Sporting Braga
+13, Júlio César, BRA, G, 1.90, 85, 02-09-86, Guaramirim, Belenenses
+14, Maximiliano Pereira, URU, D, 1.73, 70, 08-06-84, Montevideo, Defensor Sporting
+15, Roderick Miranda, POR, D, 1.93, 85, 30-03-91, Odivelas, None
+17, Carlos Martins, POR, M, 1.72, 72, 29-04-82, Lisbon, Recreativo Huelva
+18, Fábio Coentrão, POR, D, 1.78, 66, 11-03-88, Vila do Conde, Rio Ave
+19, Weldon, BRA, F, 1.83, 77, 06-08-80, Santo André, Sport Recife
+20, Ángel Di Maria, ARG, M, 1.78, 75, 14-02-88, Rosario, Rosario Central
+21, Nuno Gomes, POR, F, 1.81, 74, 05-07-76, Amarante, Fiorentina
+22, Luís Filipe, POR, D, 1.77, 75, 14-06-79, Cantanhede, Sporting Braga
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Vitória
+24, Felipe Menezes, BRA, M, 1.85, 76, 20-01-88, Goiânia, Goiás
+25, César Peixoto, POR, M, 1.82, 73, 12-05-80, Guimarães, Sporting Braga
+27, Sidnei, BRA, D, 1.85, 80, 23-08-89, Alegrete, Internacional
+28, Miguel Vítor, POR, D, 1.83, 80, 30-06-89, Torres Vedras, None
+30, Javier Saviola, ARG, F, 1.68, 61, 11-12-81, Bajo Belgrano, Real Madrid
+31, Alan Kardec, BRA, F, 1.85, 78, 12-01-89, Barra Mansa, Vasco da Gama
+32, Éder Luís, BRA, F, 1.70, 69, 19-04-85, Uberaba, Atlético Mineiro
+35, Jorge Ribeiro, POR, D, 1.72, 67, 09-11-81, Lisbon, Boavista
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Hassan Yebda, ALG, M, 1.87, 77, 14-05-84, Saint-Maurice, Portsmouth (On Loan)
+16, Jonathan Urretavizcaya, URU, F, 1.74, 62, 19-03-90, Montevideo, Peñarol (On Loan)
+2, Patric, BRA, D, 1.72, 71, 25-03-89, Criciúma, Avaí (On Loan)
+3, José Shaffer, ARG, D, 1.75, 70, 16-12-85, Córdoba, Banfield (On Loan)
+11, Keirrison, BRA, F, 1.81, 63, 03-12-88, Dourados, Barcelona

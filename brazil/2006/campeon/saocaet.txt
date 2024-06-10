@@ -1,0 +1,62 @@
+=  São Caetano - Campeonato Brasileiro Série A 2006
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+, Bruno, G, 6'03", 12 08, 13-05-85, , Santacruzense
+, Luiz, G, 5'09", 10 10, 07-02-83, Mirassol, None
+, Marcelo, G, 6'00", 12 06, 13-05-85, São Paulo, Juventus-SP
+, Mauro, G, 6'06", 13 05, 30-10-77, Mogi-Mirim, Santos
+, Walter, G, 6'02", 13 01, 10-09-87, São Paulo, None
+, Alekito, G, 5'09", 09 11, 15-11-85, , Santacruzense
+, Alessandro, D, 5'10", 11 05, 21-09-77, Rio de Janeiro, Atlético Paranaense
+, Alex, D, 5'09", 10 10, 15-02-80, Porto Alegre, Novo Hamburgo
+, Anderson Lima, D, 5'09", 12 01, 18-03-73, São Paulo, Albirex Niigata
+, Cláudio, D, 5'10", 11 11, 21-01-78, São Paulo, Noroeste
+, Cléber, D, 6'00", 14 00, 26-06-69, Belo Horizonte, Figueirense
+, Gustavo, D, 6'00", 12 11, 04-06-76, Ribeirão Preto, Palmeiras
+, Luisão, D, 6'00", 13 01, 08-11-80, Bebedouro, Juventus-SP
+, Maurício, D, 6'00", 11 05, 10-04-85, Piracicaba, Iraty
+, Neto, D, 5'11", 11 07, 31-12-82, Taquari, Juventude
+, Paulinho, D, 5'10", 10 12, 03-11-83, , Barueri
+, Thiago, D, 6'01", 11 07, 14-01-80, Paulista, Paulista
+, Thuran, D, 5'07", 10 08, 12-03-85, Campinas, Santacruzense
+, Triguinho, D, 6'01", 12 00, 25-02-79, Piquete, Figueirense
+, Canindé, M, 5'08", 11 00, 07-12-80, Canindé, Paraná
+, Daniel, M, 5'10", 11 00, 05-05-82, Ribeirão Preto, Sertãozinho
+, Dinélson, M, 5'05", 09 04, 04-02-86, Anagé, Corinthians
+, Elson, M, 5'11", 12 04, 07-10-83, , União São João
+, Élton, M, 5'09", 11 05, 07-04-86, Palmeira dos Índios, Corinthians
+, Ivan, M, 5'10", 11 11, 08-06-82, São Paulo, Barueri
+, Leandro Lima, M, 5'09", 10 12, 19-12-87, Fortaleza, None
+, Liminha, M, 5'11", 11 07, 09-05-86, Rio de Janeiro, Santacruzense
+, Marabá, M, 6'00", 11 05, 24-07-76, Marabá, Cruzeiro
+, Márcio Hahn, M, 5'11", 10 12, 03-07-77, Torres, Novo Hamburgo
+, Maxsuel, M, 6'00", 11 05, 01-08-81, Monte Aprazível, Caldense
+, Rafael Muçamba, M, 6'00", 11 07, 16-04-81, Porto Alegre, Paraná
+, Ricardo Oliveira, M, 5'10", 11 07, 03-11-82, , Santacruzense
+, Veiga, M, 5'09", 10 03, 24-12-85, São Paulo, Santacruzense
+, Alan Vieira, F, , , , , 
+, Fábio Luis, F, 6'01", 12 13, 02-08-83, Porto Alegre, Aparecidense
+, Gustavo Gaúcho, F, 6'00", 12 04, 20-07-79, Gravatai, Internacional
+, João Sales, F, 5'11", 11 00, 09-06-86, , Santacruzense
+, Júlio César, F, 6'01", 13 01, 06-04-82, Ituiutaba, Ituiutaba
+, Lucas Pereira, F, 6'00", 12 10, 05-02-82, Campinas, Ajaccio
+, Mádson, F, 5'08", 10 12, 27-03-88, , None
+, Marcelinho, F, 5'09", 10 03, 09-01-87, Santa Cruz Do Sul, Juventude
+, Martín García, F, 6'01", 12 06, 02-03-81, Bogotá, América de Cali
+, Neto Mineiro, F, 6'02", 13 03, 15-08-84, Santa Helena de Goiás, Santacruzense
+, Rafael, F, 5'11", 12 11, 17-04-83, , Santacruzense
+
+== Past Players
+
+Number, Name, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+, Zé Luis, M, 5'09", 10 12, 23-03-79, Salvador, Tokyo Verdy
+, Paulo Miranda, M, 5'08", 11 00, 25-01-74, São Paulo, Coritiba
+, Preto, F, , , 12-06-81, Novo Hamburgo, Portuguesa
+, Diguinho, D, , , 02-12-82, Araras, 
+, Claudecir, M, , , 15-10-75, Agudos, Palmeiras
+, Cláudio, M, , , 21-01-78, , 
+, Fabiano Gadelha, M, 5'10", 11 09, 09-01-79, Bayeux, 
+, Rodriguinho, M, , , 02-02-83, , Portuguesa-SP
+, Adhemar, F, 5'06", 11 00, 24-04-72, Tatuí, 
+, Igor, F, 5'09", 11 05, 25-08-81, Muriaé, 
+, Sammir, M, 5'10", 12 00, 23-04-87, Itabuna, Atlético Paranaense

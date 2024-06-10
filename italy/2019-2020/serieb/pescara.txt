@@ -1,0 +1,61 @@
+=  Pescara - Italian Serie B 2019/2020
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Vincenzo Fiorillo, ITA, G, 1.90, 78, 13-01-90, Genoa, Juventus
+2, Hugo Campagnaro, ARG, D, 1.81, 85, 27-06-80, Córdoba, Internazionale
+3, Cristiano Del Grosso, ITA, D, 1.71, 66, 24-03-83, Giulianova, Venezia
+5, Alessandro Bruno, ITA, M, 1.80, 70, 04-07-83, Benevento, Livorno
+6, Gennaro Scognamiglio, ITA, D, 1.87, 83, 24-04-87, Gragnano, Cesena
+7, Edgar Elizalde, URU, D, 1.81, 75, 27-02-00, Casupá, Montevideo Wanderers
+8, Ledian Memushaj, ALB, M, 1.75, 70, 07-12-86, Vlorë, Benevento
+9, Marco Camilleri, ITA, M, 1.77, 62, 01-08-00, Gela, Juventus
+10, Manuel Pucciarelli, ITA, F, 1.74, 67, 17-06-91, Prato, Chievo Verona
+11, Cristian Galano, ITA, F, 1.70, 69, 01-04-91, Foggia, Parma
+12, Fabrizio Alastra, ITA, G, 1.85, 79, 01-10-97, Erice, Parma
+13, Luca Clemenza, ITA, M, 1.77, 70, 09-07-97, Cittiglio, Juventus
+14, Antonio Balzano, ITA, D, 1.76, 73, 13-06-86, Bitonto, Cagliari
+15, Simone Madonna, ITA, M, 1.88, 76, 29-08-00, Rome, Parma
+16, Mirko Drudi, ITA, D, 1.82, 80, 22-02-87, Cesena, Cittadella
+17, Fabian Pavone, ITA, F, 1.69, 60, 05-02-00, Atri, Parma
+18, Davide Bettella, ITA, D, 1.85, 75, 07-04-00, Padua, Atalanta
+19, Riccardo Maniero, ITA, F, 1.83, 75, 26-11-87, Naples, Novara
+20, Luca Palmiero, ITA, M, 1.77, 67, 01-05-96, Mugnano di Napoli, Napoli
+21, Ibrahima Mané, GHA, D, , , 15-02-01, , None
+22, Simone Farelli, ITA, G, 1.86, 82, 19-02-83, Rome, Novara
+23, Andrea Di Grazia, ITA, F, 1.75, 63, 08-05-96, Catania, Catania
+24, Amadou Diambo, GHA, M, 1.85, 78, 12-02-01, , None
+25, Luca Crecco, ITA, D, 1.83, 77, 06-09-95, Rome, Lazio
+26, Igor Lucatelli, ITA, G, 1.93, 76, 21-08-03, Colleferro, Benevento
+27, Gabriele Zappa, ITA, D, 1.83, 78, 22-12-99, Monza, Internazionale
+28, Andrea Marafini, ITA, D, 1.63, 55, 28-10-00, Rome, None
+29, Gennaro Borrelli, ITA, F, 1.94, 87, 10-03-00, Campobasso, None
+30, Alessandro Martella, ITA, D, 1.80, 70, 30-11-00, Pescara, Parma
+31, Massimiliano Busellato, ITA, M, 1.74, 73, 23-04-93, Bassano del Grappa, Foggia
+32, Marco Tumminello, ITA, F, 1.80, 76, 06-11-98, Erice, Atalanta
+33, Valeri Bojinov, BUL, F, 1.78, 78, 15-02-86, Gorna Oryahovitsa, Botev Vratsa
+34, Alessandro Sorrentino, ITA, G, 1.87, 77, 03-04-02, Guardiagrele, None
+35, Filippo Melegoni, ITA, M, 1.86, 74, 18-02-99, Bergamo, Atalanta
+36, Ivaylo Chochev, BUL, M, 1.90, 80, 18-02-93, Pleven, Palermo
+37, Grigoris Kastanos, CYP, M, 1.79, 71, 30-01-98, Nicosia, Juventus
+38, Nicolas Belloni, ARG, F, 1.87, 80, 07-02-01, Buenos Aires, River Plate
+39, Luca Forte, ITA, F, 1.71, 70, 28-07-94, Trieste, Varese
+40, Edoardo Masciangelo, ITA, D, 1.77, 69, 08-07-96, Rome, Juventus U23
+41, Miloš Bočić, SRB, F, 1.73, 65, 26-01-00, Belgrade, Udinese
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+16, Christian Ventola, ITA, D, 1.70, 70, 15-05-97, Ortona, Cittadella (On Loan)
+17, Manuel Marras, ITA, F, 1.68, 63, 09-07-93, Genoa, Livorno
+24, Moussa Ndiaye, SEN, M, 1.82, 76, 04-01-99, Dakar, Rende
+26, Willy Ta Bi, CIV, M, 1.79, , 05-12-99, Divo, Atalanta
+33, Alessandro Celli, ITA, D, 1.94, 78, 07-07-97, Latina, Rieti (On Loan)
+21, Davide Vitturini, ITA, D, 1.80, 70, 21-02-97, L'Aquila, Feralpisalò
+7, Andrea Cisco, ITA, F, 1.83, 73, 08-10-98, Padua, Sassuolo
+39, Svante Ingelsson, SWE, F, 1.89, 83, 14-06-98, Kalmar, Udinese
+10, Matteo Brunori, BRA, F, 1.80, 78, 01-11-94, Macaè, Juventus U23
+12, Elhan Kastrati, ALB, G, 1.89, 86, 02-02-97, Has, Trapani
+13, Matteo Ciofani, ITA, D, 1.83, 76, 26-02-88, Avezzano, Bari
+15, Stefano Palmucci, ITA, M, 1.83, 75, 22-05-01, Pescara, Parma
+24, José Machín Dicombo, EQG, M, 1.84, 74, 14-08-96, Bata, Parma
+38, Davide Cipolletti, ITA, M, 1.82, 72, 30-03-01, Teramo, Parma

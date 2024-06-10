@@ -1,0 +1,53 @@
+=  Flamengo - Campeonato Brasileiro Série A 2021
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Diego Alves, BRA, G, 1.88, 83, 24-06-85, Rio de Janeiro, Valencia
+2, Gustavo Henrique, BRA, D, 1.93, 84, 24-03-93, São Paulo, Santos
+3, Rodrigo Caio, BRA, D, 1.82, 70, 17-08-93, Dracena, São Paulo
+4, Léo Pereira, BRA, D, 1.86, 76, 31-01-96, Curitiba, Athletico Paranaense
+5, Willian Arão, BRA, M, 1.81, 74, 12-03-92, São Paulo, Botafogo
+6, Renê, BRA, D, 1.74, 72, 14-09-92, Picos, Sport Recife
+7, Éverton Ribeiro, BRA, M, 1.74, 69, 10-04-89, Arujá, Al-Ahli [UAE]
+8, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Lille
+9, Gabriel Barbosa, BRA, F, 1.78, 68, 30-08-96, São Bernardo do Campo, Internazionale
+10, Diego, BRA, M, 1.74, 76, 28-02-85, Ribeirão Preto, Fenerbahçe
+11, Vitinho, BRA, F, 1.78, 69, 09-10-93, Rio de Janeiro, CSKA Moscow
+13, Lázaro, BRA, M, 1.81, 72, 12-03-02, Belo Horizonte, None
+14, Giorgian De Arrascaeta, URU, M, 1.72, 67, 01-06-94, Nuevo Berlín, Cruzeiro
+15, Yuri, BRA, M, 1.75, 68, 02-01-01, Vitória, None
+16, Filipe Luis, BRA, D, 1.82, 73, 09-08-85, Jaraguá do Sul, Atlético Madrid
+17, Hugo Moura, BRA, M, 1.77, 73, 03-01-98, Rio de Janeiro, None
+18, Andreas Pereira, BRA, M, 1.77, 66, 01-01-96, Duffel, Manchester U
+19, Michael, BRA, F, 1.66, 60, 12-03-96, Poxoréu, Goiás
+20, Rodinei, BRA, D, 1.75, 70, 29-01-92, Tatuí, SEV Hortolândia
+21, Pedro, BRA, F, 1.85, 78, 20-06-97, Rio de Janeiro, Fiorentina
+22, Gabriel Batista, BRA, G, 1.91, 85, 03-06-98, São Gonçalo, None
+23, David Luiz, BRA, D, 1.89, 84, 22-04-87, São Paulo, Arsenal
+25, Robert Piris Da Motta, PAR, M, 1.78, 72, 26-07-94, Ciudad del Este, San Lorenzo
+27, Bruno Henrique, BRA, F, 1.84, 71, 30-12-90, Belo Horizone, Santos
+30, Bruno Viana, BRA, D, 1.87, 75, 05-02-95, Macaé, Sporting Braga
+32, Thiaguinho, BRA, F, 1.80, 78, 13-03-01, Recife, Náutico
+33, Kenedy, BRA, M, 1.82, 77, 08-02-96, Santa Rita do Sapucaí, Chelsea
+34, Matheuzinho, BRA, D, 1.71, 65, 08-09-00, Londrina, Londrina
+35, João Gomes, BRA, M, 1.76, 74, 12-02-01, Rio de Janeiro, None
+36, Ramon, BRA, D, 1.79, 70, 13-03-01, São João de Meriti, Nova Iguaçu
+37, César, BRA, G, 1.94, 78, 27-01-92, Rio de Janeiro, Sendas Pão de Açúcar
+41, Gabriel Noga, BRA, D, 1.83, 72, 25-01-02, Volta Redonda, None
+44, Mauricio Isla, CHI, D, 1.76, 75, 12-06-88, Buin, Fenerbahçe
+45, Hugo Souza, BRA, G, 1.96, 94, 31-01-99, Duque de Caxias, None
+47, Werton, BRA, F, 1.70, 74, 16-09-03, Benjamin Constant, None
+48, Ryan Luka, BRA, F, 1.85, 76, 30-04-03, Além Paraíba, None
+49, Cleiton, BRA, D, 1.88, 61, 25-04-03, Bahia, None
+50, João Fernando, BRA, G, 1.86, 70, 01-03-01, Volta Redonda, None
+57, André Luiz, BRA, F, 1.85, 74, 23-02-02, Rio de Janeiro, None
+63, Vitor Gabriel, BRA, F, 1.84, 78, 20-01-00, Rio de Janeiro, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+26, Thuler, BRA, D, 1.85, 75, 10-03-99, Rio de Janeiro, Montpellier (On Loan)
+8, Gerson, BRA, M, 1.75, 65, 20-05-97, Belford Roxo, Marseille
+33, Thiago Maia, BRA, M, 1.79, 64, 23-03-97, Boa Vista, Re-Registered (8)
+43, Rodrigo Muniz, BRA, F, 1.82, 79, 04-05-01, São Domingos do Prata, Fulham
+23, Otávio, BRA, D, 1.84, 79, 21-04-02, São Paulo, De-Registered
+31, Max, BRA, M, 1.75, 73, 12-05-01, Juiz de Fora, Cuiabá (On Loan)

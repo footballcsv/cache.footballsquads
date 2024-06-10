@@ -1,0 +1,42 @@
+=  Consadole Sapporo - Japanese J.League 2008
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Yuya Sato, JPN, G, 1.86, 85, 10-02-86, Chiba, Ventforet Kofu
+2, Mitsuyuki Yoshihiro, JPN, D, 1.82, 73, 04-05-85, Yamaguchi, Sanfrecce Hiroshima
+3, Junji Nishizawa, JPN, D, 1.81, 79, 10-05-74, Tokyo, Nagoya Grampus Eight
+4, Yushi Soda, JPN, D, 1.81, 78, 05-07-78, Hokkaido, None
+5, Tomohiko Ikeuchi, JPN, D, 1.81, 73, 01-11-77, Hokkaido, Kashima Antlers
+6, Hiroyuki Nishijima, JPN, D, 1.80, 72, 07-04-82, Nara, Vissel Kobe
+7, Seiya Fujita, JPN, M, 1.75, 63, 02-06-87, Hokkaido, None
+8, Makoto Sunakawa, JPN, M, 1.73, 67, 10-08-77, Chiba, Kashiwa Reysol
+9, Kengo Ishii, JPN, F, 1.78, 73, 02-04-86, Ishikari, None
+10, Davi, BRA, F, 1.83, 80, 10-03-84, Fortaleza, Vitória
+11, Anderson, BRA, F, 1.87, 80, 01-02-78, Apucarana, Ituano
+13, Genki Nakayama, JPN, F, 1.86, 74, 15-09-81, Yamaguchi, Sanfrecce Hiroshima
+14, Tomoki Suzuki, JPN, M, 1.72, 65, 08-06-85, Hokkaido, None
+15, Claiton, BRA, M, 1.79, 82, 25-01-78, Porto Alegre, Flamengo
+16, Shinji Otsuka, JPN, M, 1.79, 71, 29-12-75, Chiba, Montedio Yamagata
+17, Yasuaki Okamoto, JPN, M, 1.70, 65, 09-04-88, Kumamoto, None
+18, Hironobu Haga, JPN, M, 1.73, 66, 21-12-82, Miyagi, JEF United
+19, Shusuke Tsubouchi, JPN, D, 1.80, 75, 05-05-83, Gumma, Vissel Kobe
+20, Kazumasa Uesato, JPN, M, 1.70, 66, 13-03-86, Okinawa, None
+21, Yasuhiro Hiraoka, JPN, D, 1.82, 65, 23-05-86, Shizuoka, Shimizu S-Pulse
+22, Daigo Nishi, JPN, M, 1.75, 64, 28-08-87, Hokkaido, None
+23, Shunsuke Iwanuma, JPN, M, 1.75, 65, 02-06-88, Gumma, None
+24, Masaya Nishitani, JPN, M, 1.70, 69, 16-09-78, Tokushima, Urawa Red Diamonds
+25, Hiroki Miyazawa, JPN, F, 1.82, 72, 28-06-89, Date, None
+26, Yasuhiro Tominaga, JPN, G, 1.93, 88, 22-05-80, Fukuoka, Yokohama F Marinos
+27, Junki Yokono, JPN, F, 1.83, 72, 07-10-89, Kitahiroshima, None
+28, Takahiro Takagi, JPN, G, 1.85, 76, 01-07-82, Ishikawa, Omiya Ardija
+29, Jun Marques Davidson, JPN, M, 1.86, 75, 07-06-83, Tokyo, Albirex Niigata
+30, Shuhei Hotta, JPN, D, 1.81, 74, 12-05-89, Chiba, Kashiwa Reysol
+31, Toshiyasu Takahara, JPN, G, 1.84, 77, 18-10-80, Gifu, Júbilo Iwata
+32, Shingo Shibata, JPN, D, 1.87, 82, 13-07-85, Tokyo, Kashiwa Reysol
+33, Chong Yong-Dae, KOR, M, 1.78, 75, 04-02-78, Aichi, Yokohama FC
+34, Edson, BRA, F, 1.81, 75, 26-02-90, Bahia, Vitória
+35, Yoshinobu Minowa, JPN, D, 1.87, 83, 02-06-76, Kanagawa, Kawasaki Frontale
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+11, Nonato, BRA, F, 1.76, 74, 05-07-79, Japim, Atlético Goianiense

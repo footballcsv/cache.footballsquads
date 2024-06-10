@@ -1,0 +1,21 @@
+# French Division 1 1998/99
+
+18 teams
+- [Auxerre](auxerre.txt)
+- [Bastia](bastia.txt)
+- [Bordeaux](bordeaux.txt)
+- [Le Havre](lehavre.txt)
+- [Lens](lens.txt)
+- [Lorient](lorient.txt)
+- [Lyon](lyon.txt)
+- [Marseille](marseille.txt)
+- [Metz](metz.txt)
+- [Monaco](monaco.txt)
+- [Montpellier](montpel.txt)
+- [Nancy](nancy.txt)
+- [Nantes](nantes.txt)
+- [Paris Saint-Germain](psg.txt)
+- [Rennes](rennes.txt)
+- [Sochaux](sochaux.txt)
+- [Strasbourg](stras.txt)
+- [Toulouse](toulouse.txt)

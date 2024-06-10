@@ -1,0 +1,36 @@
+=  Morecambe - English Football League Two 2016/17
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Barry Roche, IRL, G, 1.93, 90, 06-04-82, Dublin, Chesterfield
+2, Liam Wakefield, ENG, D, 1.83, 70, 09-04-94, Doncaster, Accrington Stanley
+3, Aaron McGowan, ENG, D, 1.75, 73, 24-07-96, Kirkby, None
+4, Alex Kenyon, ENG, M, 1.82, 76, 17-07-92, Preston, Stockport Co
+5, Ryan Edwards, ENG, D, 1.80, 82, 07-10-93, Liverpool, Blackburn R
+6, Dean Winnard, ENG, D, 1.75, 65, 20-08-89, Wigan, Accrington Stanley
+7, Paul Mullin, ENG, F, 1.78, 71, 06-11-94, Liverpool, Huddersfield T
+8, Peter Murphy, ENG, M, 1.83, 70, 13-02-90, Liverpool, Wycombe W
+10, Lee Molyneux, ENG, M, 1.86, 81, 24-02-89, Liverpool, Tranmere R
+11, Kevin Ellison, ENG, M, 1.83, 80, 23-02-79, Liverpool, Rotherham U
+12, Danijel Nižić, AUS, G, 1.88, 77, 15-03-95, Sydney, Burnley
+14, Luke Conlan, NIR, D, 1.80, 72, 31-10-94, Portaferry, Burnley
+15, Aaron Wildig, WAL, M, 1.75, 71, 15-04-92, Hereford, Shrewsbury T
+16, Alex Whitmore, ENG, D, 1.80, 68, 07-09-95, Newcastle upon Tyne, Burnley
+17, Andrew Fleming, ENG, M, 1.80, 67, 05-10-87, Liverpool, Wrexham
+18, Rhys Turner, ENG, F, 1.80, 75, 22-07-95, Preston, Oldham Ath
+19, Michael Duckworth, ENG, D, 1.81, 75, 28-04-92, Rinteln, Fleetwood T
+20, Niall Maher, ENG, G, 1.86, 76, 03-05-99, Birmingham, Tividale
+21, Antony Evans, ENG, M, 1.86, 68, 23-09-98, Fazakerley, Everton
+22, Kyle Hawley, ENG, F, 1.78, 70, 11-05-00, Oldham, None
+24, Michael Rose, ENG, D, 1.80, 78, 28-07-82, Salford, Oldham Ath
+25, Ben Hedley, ENG, M, 1.78, 76, 18-10-98, Gateshead, None
+26, Steve Yawson, ENG, M, 1.75, 64, 31-08-99, , None
+27, Luke Jordan, ENG, F, 1.79, 73, 29-11-98, Burnley, None
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+19, Ntumba Massanka, ENG, F, 1.91, 80, 30-11-96, Tottenham, Burnley
+20, Jack Dunn, ENG, M, 1.72, 67, 19-11-94, Liverpool, Liverpool
+21, James Jennings, ENG, D, 1.77, 77, 02-09-87, Manchester, Cheltenham T
+23, Cole Stockton, ENG, F, 1.86, 75, 13-03-94, Huyton, Tranmere R
+9, Tom Barkhuizen, ENG, F, 1.75, 70, 04-07-93, Blackpool, Preston NE

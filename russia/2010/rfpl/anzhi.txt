@@ -1,0 +1,62 @@
+=  Anzhi Makhachkala - Russian Football Premier League 2010
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Ilya Abaev, RUS, G, 1.92, 83, 02-08-81, Moscow, Torpedo Moscow
+3, Oskars Kļava, LVA, D, 1.88, 80, 08-08-83, Liepāja, Liepājas Metalurgs
+4, Mahir Shukurov, AZE, D, 1.78, 70, 12-12-82, Baku, Inter Baku
+5, Kébé Baye, SEN, D, 1.85, 77, 24-12-78, Saint-Louis, Spartak Nizhny Novgorod
+6, David Tsorayev, RUS, M, 1.74, 72, 07-05-83, Vladikavkaz, KamAZ
+7, Kamil Agalarov, RUS, M, 1.78, 70, 11-06-88, Makhachkala, Dagdizel Kaspiysk
+8, Andrey Streltsov, RUS, D, 1.85, 78, 18-03-84, Uvarovo, FC Khimki
+9, Magomed Magomedov, RUS, F, 1.78, 67, 11-12-87, Makhachkala, Krylia Sovetov
+13, Rasim Tagirbekov, RUS, D, 1.83, 81, 04-05-84, Makhachkala, Anzhi-2
+14, Dmitriy Ivanov, RUS, M, 1.82, 70, 14-02-87, , FC Rostov
+15, Nicolae Josan, MDA, M, 1.75, 70, 18-09-83, Rezina, Iskra-Stal Rîbniţa
+16, Dmitriy Vasilyev, RUS, F, 1.87, 80, 02-05-85, Kiev, Krylia Sovetov
+17, Jan Holenda, CZE, F, 1.86, 82, 22-08-85, Prague, Sparta Prague
+18, Ilya Kukharchuk, RUS, F, 1.84, 77, 02-08-90, Kostroma, Rubin Kazan
+19, Zurab Arziani, GEO, M, 1.78, 71, 19-10-87, , Olimpi Rustavi
+20, Mikhail Bakayev, RUS, M, 1.78, 75, 05-08-87, Vladikavkaz, Alania Vladikavkaz
+21, Giorgi Iluridze, GEO, F, 1.80, 70, 20-02-92, Tbilisi, Dinamo Tbilisi
+22, Myroslav Slavov, UKR, F, 1.97, 95, 08-09-90, Kyiv, Bordeaux
+23, Shamil Burziyev, RUS, M, 1.75, 72, 01-04-85, Makhachkala, Fakel Voronezh
+24, Leozinho, BRA, F, 1.70, 60, 05-03-92, Pernambuco, Flamengo
+25, Abdulahi Isah Eliakwu, NGA, F, 1.72, 73, 25-10-85, Lokoja, Varese
+27, Murtazali Abdulaev, RUS, M, 1.74, 69, 20-05-91, , Anzhi-2
+28, Igor Strelkov, RUS, F, 1.82, 76, 21-03-82, Samara, Krylia Sovetov
+29, Nukri Revishvili, GEO, G, 1.88, 74, 02-03-87, Kutaisi, Rubin Kazan
+30, Mekhti Dzhenetov, RUS, G, 1.90, 83, 26-01-92, Makhachkala, Anzhi-2
+31, Mitar Peković, SRB, D, 1.90, 86, 28-09-81, Bačka Topola, Vojvodina
+33, Shamil Mirzaev, RUS, F, 1.75, 70, 28-11-92, , Anzhi-2
+35, Makhach Ispagiev, RUS, M, 1.82, 73, 27-08-90, , Anzhi-2
+37, Leonid Musyn, UKR, G, 1.99, 89, 19-04-85, , Oleksandria
+40, Azamat Ibragimov, RUS, M, 1.82, 72, 28-05-91, , Dagdizel Kaspiysk
+43, Salimkhan Dzhamiliev, RUS, M, 1.78, 71, 11-04-90, , Anzhi-2
+44, Mikail Zaytsev, RUS, D, 1.75, 66, 21-05-90, , Anzhi-2
+50, Magomed Abidinov, RUS, D, 1.88, 79, 03-02-89, , Anzhi-2
+55, Badavi Guseynov, AZE, D, 1.85, 72, 11-07-91, Kaspiysk, Dagdizel Kaspiysk
+61, Magomed Mirzabekov, RUS, M, 1.68, 73, 16-11-90, , Anzhi-2
+63, Ali Gadzhibekov, RUS, D, 1.80, 72, 06-08-89, Makhachkala, Anzhi-2
+77, Otar Khizaneishvili, GEO, D, 1.87, 90, 26-09-81, Tbilisi, Augsburg
+86, Todor Timonov, BUL, M, 1.81, 76, 03-09-86, Plovdiv, CSKA Sofia
+87, Paizulla Medzhidov, RUS, M, 1.72, 62, 16-06-92, , Anzhi-2
+88, Murad Kurbanov, RUS, D, 1.74, 63, 22-03-92, Makhachkala, Anzhi-2
+89, Akhmad Magomedov, RUS, D, 1.85, 72, 10-08-89, , Anzhi-2
+90, Gamzat Omarov, RUS, D, 1.71, 74, 21-09-90, , Anzhi-2
+91, Anvar Ibragimgadzhiev, RUS, D, 1.72, 65, 27-09-91, , Anzhi-2
+92, Mikail Abakarov, RUS, M, 1.75, 66, 28-04-92, , Anzhi-2
+93, Ruslan Aliev, RUS, F, 1.74, 71, 23-09-88, , Angusht Nazran
+95, Shamil Alimagomaev, RUS, M, 1.70, 68, 13-07-89, , Rubin-2
+96, Sharif Mukhammad, RUS, M, 1.84, 72, 21-03-90, Makhachkala, Anzhi-2
+97, Gadzhi Gadzhiev, RUS, M, 1.70, 65, 27-03-91, , Anzhi-2
+98, Gamzat Makhmudov, RUS, F, 1.86, 79, 20-05-91, , Anzhi-2
+99, Abdulla Gadzhikadiev, RUS, G, 1.82, 79, 10-04-93, , Anzhi-2
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+10, Gocha Khojava, GEO, M, 1.79, 74, 16-03-85, , Volga Nizhny Novgorod
+32, Revazi Barabadze, GEO, F, 1.96, 90, 04-10-88, Tbilisi, 
+70, Eldar Mamayev, RUS, D, 1.82, 74, 14-06-85, Makhachkala, FC Ural
+2, Dato Kvirkvelia, GEO, D, 1.84, 76, 27-06-80, Lanchkhuti, Rubin Kazan
+94, Ruslan Perepelyukov, RUS, D, 1.81, 73, 15-03-90, , 

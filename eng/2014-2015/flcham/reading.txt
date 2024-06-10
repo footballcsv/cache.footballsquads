@@ -1,0 +1,54 @@
+=  Reading - English Football League Championship 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Adam Federici, AUS, G, 1.88, 90, 31-01-85, Nowra, Sassari Torres
+2, Chris Gunter, WAL, D, 1.80, 71, 21-07-89, Newport, Nottingham F
+3, Stephen Kelly, IRL, D, 1.84, 82, 06-09-83, Dublin, Fulham
+4, Anton Ferdinand, ENG, D, 1.83, 71, 18-02-85, Peckham, Antalyaspor
+5, Alex Pearce, IRL, D, 1.83, 74, 09-11-88, Oxford, None
+6, Oliver Norwood, NIR, M, 1.80, 76, 12-04-91, Burnley, Huddersfield T
+7, Pavel Pogrebnyak, RUS, F, 1.88, 91, 08-11-83, Moscow, Fulham
+8, Danny Guthrie, ENG, M, 1.75, 73, 18-04-87, Shrewsbury, Newcastle U
+9, Hal Robson-Kanu, WAL, F, 1.70, 74, 21-05-89, Acton, None
+10, Simon Cox, IRL, F, 1.80, 70, 28-04-87, Reading, Nottingham F
+11, Jordan Obita, ENG, M, 1.80, 73, 08-12-93, Oxford, None
+12, Garath McCleary, JAM, F, 1.88, 76, 15-05-87, Oxford, Nottingham F
+14, Nathaniel Chalobah, ENG, D, 1.85, 75, 12-12-94, Freetown, Chelsea
+15, Michael Hector, JAM, D, 1.93, 82, 19-07-92, Newham, Thurrock
+16, Hope Akpan, ENG, M, 1.83, 67, 14-08-91, Liverpool, Crawley T
+17, Ryan Edwards, AUS, M, 1.70, 73, 17-11-93, Sydney, AIS
+18, Aaron Tshibola, ENG, M, 1.90, 70, 02-01-95, Newham, None
+19, Jamie Mackie, SCO, F, 1.73, 71, 22-09-85, Dorking, Nottingham F
+20, Yakubu Aiyegbeni, NGA, F, 1.83, 83, 22-11-82, Benin City, Al-Rayyan
+21, Jem Karacan, TUR, M, 1.78, 76, 21-02-89, Catford, None
+22, Nick Blackman, ENG, F, 1.88, 74, 11-11-89, Whitefield, Sheffield U
+23, Daniel Williams, USA, M, 1.80, 76, 08-03-89, Karlsruhe, 1899 Hoffenheim
+24, Zat Knight, ENG, D, 1.98, 86, 02-05-80, Solihull, Colorado Rapids
+25, Jake Taylor, WAL, M, 1.78, 77, 01-12-91, Ascot, None
+26, Pierce Sweeney, IRL, D, 1.83, 80, 11-09-94, Dublin, Bray W
+28, Aaron Kuhl, ENG, M, 1.73, 66, 30-01-96, Paulton, None
+29, Jure Travner, SVN, D, 1.80, 79, 28-09-85, Celje, FC Baku
+30, Dominic Samuel, ENG, F, 1.82, 89, 01-04-94, Southwark, None
+31, Mikkel Andersen, DEN, G, 1.95, 80, 17-12-88, Herlev, AB København
+32, Sean Long, IRL, D, 1.78, 70, 02-05-95, Dublin, Cherry Orchard
+33, Shane Griffin, IRL, D, 1.80, 65, 08-09-94, Cork, None
+34, Niall Keown, ENG, D, 1.83, 66, 05-04-95, Oxford, None
+35, Jake Cooper, ENG, D, 1.93, 85, 03-02-95, Bracknell, None
+36, Andrija Novakovich, USA, F, 1.93, 82, 21-09-96, Muskego, Marquette Univ
+37, Jack Stacey, ENG, M, 1.80, 68, 06-04-96, Bracknell, None
+38, Liam Kelly, IRL, M, 1.68, 65, 22-11-95, Basingstoke, None
+39, Tariqe Fosu, ENG, M, 1.70, 67, 05-11-95, Wandsworth, None
+41, Dan Lincoln, ENG, G, 1.80, 70, 26-05-95, Frimley, None
+42, Jonathan Henly, SCO, G, 1.93, 83, 07-06-94, Reading, None
+44, Kwesi Appiah, GHA, F, 1.81, 80, 12-08-90, Peterborough, Crystal Palace
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+40, Stuart Moore, ENG, G, 1.87, 72, 08-09-94, Sandown, Basingstoke T (On Loan)
+6, Sean Morrison, ENG, D, 1.93, 89, 08-01-91, Plymouth, Cardiff C
+20, Alex McCarthy, ENG, G, 1.93, 79, 03-12-89, Guildford, QPR
+20, Glenn Murray, ENG, F, 1.83, 80, 25-09-83, Workington, Crystal Palace
+24, Shaun Cummings, JAM, D, 1.83, 76, 25-02-89, Hammersmith, Millwall
+27, Craig Tanner, ENG, F, 1.71, 72, 27-10-94, Reading, AFC Wimbledon (On Loan)
+43, Nathan Aké, NED, D, 1.80, 71, 18-02-95, Den Haag, Chelsea

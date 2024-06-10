@@ -1,0 +1,50 @@
+=  Leyton Orient - English Football League Two 2015/16
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Alex Cisak, AUS, G, 1.90, 94, 19-05-89, Kraków, Burnley
+2, Sean Clohessy, ENG, D, 1.78, 74, 12-12-86, Croydon, Colchester U
+3, Frazer Shaw, ENG, D, 1.75, 70, 23-12-94, London, Dulwich Hamlet
+4, Connor Essam, ENG, D, 1.83, 76, 09-07-92, Chatham, Dover Ath
+5, Alan Dunne, IRL, D, 1.78, 70, 23-08-82, Dublin, Millwall
+6, Mathieu Baudry, FRA, D, 1.88, 80, 24-02-88, Saint-Adresse, Bournemouth
+7, Dean Cox, ENG, M, 1.63, 69, 12-08-87, Cuckfield, Brighton & HA
+8, Lloyd James, WAL, M, 1.81, 70, 16-02-88, Bristol, Colchester U
+9, Ollie Palmer, ENG, F, 1.87, 77, 21-01-92, Epsom, Mansfield T
+10, Paul McCallum, ENG, F, 1.91, 76, 28-07-93, Streatham, West Ham U
+11, Jobi McAnuff, JAM, M, 1.80, 72, 09-11-81, Edmonton, Reading
+12, Jack Payne, ENG, M, 1.75, 58, 05-12-91, Gravesend, Peterborough U
+14, Sammy Moore, ENG, M, 1.73, 57, 07-09-87, Deal, AFC Wimbledon
+15, Nigel Atangana, FRA, M, 1.87, 72, 09-09-89, Corbeil-Essonnes, Portsmouth
+16, Shaun Brisley, ENG, D, 1.88, 77, 06-05-90, Macclesfield, Peterborough U
+17, Blair Turgott, ENG, M, 1.83, 65, 22-05-94, Bromley, Coventry C
+18, Bradley Pritchard, ZIM, M, 1.86, 90, 19-12-85, Harare, Charlton Ath
+19, Scott Kashket, ENG, M, 1.75, 66, 25-02-96, Chigwell, Wingate & Finchley
+20, Jerome Binnom-Williams, ENG, D, 1.80, 77, 07-03-95, Croydon, Crystal Palace
+21, Charlie Grainger, ENG, G, 1.87, 68, 31-07-96, Enfield, None
+22, Sandro Semedo, POR, M, 1.74, 62, 03-12-96, , Colchester U
+23, Freddy Moncur, ENG, M, 1.75, 68, 08-09-96, Harlow, None
+24, Montel Agyemang, ENG, M, 1.75, 67, 11-01-97, Southwark, None
+25, Sam Ling, ENG, D, 1.75, 64, 17-12-96, Broxbourne, None
+26, Victor Adeboyejo, ENG, F, 1.78, 63, 12-01-98, Ibadan, None
+27, Jay Simpson, ENG, F, 1.80, 85, 01-12-88, Enfield, Buriram U
+28, Myles Judd, ENG, D, 1.78, 67, 26-08-99, Redbridge, None
+29, Sam Sargeant, ENG, G, 1.83, 67, 23-09-97, Greenwich, None
+30, Calaum Jahraldo-Martin, ATG, F, 1.75, 70, 27-04-93, Hemel Hempstead, Hull C
+31, Aron Pollock, ENG, D, 1.83, 74, 23-03-98, Basildon, Millwall
+32, Armand Gnanduillet, CIV, F, 1.93, 88, 13-02-92, Angers, Chesterfield
+34, Nicky Hunt, ENG, D, 1.85, 86, 03-09-83, Westhoughton, Mansfield T
+35, David Gregory, ENG, G, 1.85, 70, 01-10-94, Croydon, Crystal Palace
+36, Peter Ramage, ENG, D, 1.85, 76, 22-11-83, Ashington, Coventry C
+37, Josh Koroma, ENG, F, 1.78, 66, 08-11-98, Southwark, None
+44, Kevin Nolan, ENG, M, 1.83, 89, 24-06-82, Liverpool, West Ham U
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+33, Gary Woods, ENG, G, 1.85, 78, 01-10-90, Kettering, Ross Co (On Loan)
+20, Joe Maguire, ENG, D, 1.79, 70, 18-01-96, Manchester, Liverpool
+20, Adam Chicksen, ENG, D, 1.73, 74, 01-11-90, Milton Keynes, Brighton & HA
+32, John Marquis, ENG, F, 1.85, 71, 16-05-92, Lewisham, Millwall
+16, Harry Lee, ENG, M, 1.82, 74, 20-03-95, Hackney, Welling U
+15, Jean-Yves Mvoto, FRA, D, 1.93, 93, 06-09-88, Paris, Zawisza Bydgoszcz
+20, Cole Kpekawa, ENG, D, 1.91, 80, 20-05-96, Blackpool, QPR

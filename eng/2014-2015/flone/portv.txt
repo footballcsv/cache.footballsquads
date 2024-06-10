@@ -1,0 +1,46 @@
+=  Port Vale - English Football League One 2014/15
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, Previous Club
+1, Chris Neal, ENG, G, 1.86, 86, 23-10-85, St Albans, Shrewsbury T
+2, Adam Yates, ENG, D, 1.78, 67, 28-05-83, Stoke-on-Trent, Morecambe
+3, Carl Dickinson, ENG, D, 1.85, 76, 31-03-87, Swadlincote, Watford
+4, Chris Robertson, SCO, D, 1.91, 74, 11-10-86, Dundee, Preston NE
+5, Ryan McGivern, NIR, D, 1.78, 74, 08-01-90, Newry, Hibernian
+6, Richard Duffy, WAL, D, 1.78, 65, 30-08-85, Swansea, Exeter C
+7, Chris Birchall, TRI, M, 1.75, 80, 05-05-84, Stafford, Columbus Crew
+8, Louis Dodds, ENG, M, 1.78, 80, 08-10-86, Sheffield, Leicester C
+9, Ben Williamson, ENG, F, 1.80, 76, 25-12-88, Lambeth, Hyde
+10, Chris Lines, ENG, M, 1.88, 76, 30-11-85, Bristol, Sheffield W
+11, Tom Pope, ENG, F, 1.91, 71, 27-08-85, Stoke-on-Trent, Crewe Alex
+12, Sam Johnson, ENG, G, 1.98, 78, 01-12-92, Newcastle-under-Lyme, Stoke C
+14, Colin Daniel, ENG, M, 1.80, 73, 15-02-88, Nottingham, Mansfield T
+15, Michael O'Connor, NIR, M, 1.85, 79, 06-10-87, Belfast, Rotherham U
+16, Neill Collins, SCO, D, 1.91, 79, 02-09-83, Troon, Sheffield U
+17, Michael Brown, ENG, M, 1.76, 77, 25-01-77, Hartlepool, Leeds U
+18, Tommy O'Sullivan, WAL, M, 1.76, 71, 18-01-95, Mountain Ash, Cardiff C
+19, Byron Moore, ENG, F, 1.83, 66, 24-08-88, Stoke-on-Trent, Crewe Alex
+20, Mark Marshall, JAM, M, 1.83, 76, 05-05-87, Manchester [JAM], Coventry C
+21, Frédéric Veseli, SUI, D, 1.83, 80, 20-11-92, Renens, Ipswich T
+22, Ryan Lloyd, ENG, M, 1.78, 65, 01-02-94, Newcastle-under-Lyme, None
+23, Ryan Boot, ENG, G, 1.85, 71, 09-11-94, Rocester, None
+24, Nathan Smith, ENG, D, 1.82, 72, 03-04-96, Madeley, None
+25, Mohamed Coulibaly, SEN, M, 1.77, 70, 07-08-88, Bakel, Bournemouth
+26, Alex Nimely, ENG, F, 1.80, 72, 11-05-91, Monrovia, Manchester C
+27, Enoch Andoh, GHA, M, 1.67, 62, 01-01-93, Kumasi, AEL Limassol
+28, Achille Campion, FRA, F, 1.88, 91, 10-03-90, Levallois-Perret, Norrby IF
+33, Francisco Júnior, POR, M, 1.62, 65, 18-01-92, Bissau, Everton
+38, Aziz Deen-Conteh, ENG, D, 1.76, 70, 14-01-93, Bumpeh, Ergotelis
+
+== Past Players
+
+Number, Name, Nat, Pos, Height, Weight, Date of Birth, Birth Place, New Club
+29, Kaid Mohamed, WAL, M, 1.80, 79, 23-07-84, Cardiff, Northampton T (On Loan)
+32, Stéphane Zubar, FRA, D, 1.87, 81, 09-10-86, Pointe-à-Pitre, Bournemouth
+26, Remie Streete, ENG, D, 1.87, 83, 02-11-94, South Shields, Newcastle U
+27, Harry Panayiotou, SKN, F, 1.78, 72, 28-10-94, Leicester, Leicester C
+25, Jordan Slew, ENG, F, 1.90, 81, 07-09-92, Sheffield, Blackburn R
+18, Steven Jennings, ENG, M, 1.70, 77, 28-10-84, Liverpool, Tranmere R
+16, Reiss Greenidge, ENG, D, 1.96, 80, 10-08-96, Camden, WBA
+33, Dany N'Guessan, FRA, M, 1.85, 83, 11-08-87, Ivry-sur-Seine, Larissa
+16, Greg Luer, ENG, F, 1.80, 73, 06-12-94, Brighton, Hull C
+33, Ryan Inniss, ENG, D, 1.94, 82, 05-06-95, Farnborough, Crystal Palace
